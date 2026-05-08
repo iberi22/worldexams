@@ -206,5 +206,3 @@ So "its" is the correct choice.
 | Fácil (Dificultad 1-2) | 1 |
 | Media (Dificultad 3) | 3 |
 | Difícil (Dificultad 4-5) | 2 |
-
-

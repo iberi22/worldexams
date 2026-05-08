@@ -1,8 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { countryConfig } from '../config';
-import { preuCatalogEntries, preuMethodologySources, preuStatusLabels } from '../lib/preuniversitario/catalog';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+import { getPreuCatalogEntries, getPreuMethodologySources, isPreuRuntimeEnabled, preuStatusLabels } from '../lib/preuniversitario/catalog';
 
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+const preuCatalogEntries = getPreuCatalogEntries(countryConfig.code);
+const preuMethodologySources = getPreuMethodologySources(countryConfig.code);
+const preuEnabled = isPreuRuntimeEnabled(countryConfig.code);
 const isCO = countryConfig.code === 'CO';
 const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;
 
@@ -35,15 +39,23 @@ const schema = {
       <div class="max-w-6xl mx-auto">
         <div class="max-w-4xl">
           <span class="inline-flex items-center gap-2 px-3 py-1 text-[10px] font-mono tracking-widest uppercase bg-[#FCD116]/10 text-[#FCD116] border border-[#FCD116]/20 rounded-full mb-8">
-            Colombia · Preuniversitario · Protocol v4+
+            {countryConfig.name} · Preuniversitario · Protocol v4+
           </span>
           <h1 class="text-4xl md:text-6xl font-black tracking-tight mb-6">
-            Simulacros de admision para
-            <span class="block text-white/45">universidades colombianas</span>
+            {preuEnabled ? 'Simulacros de admision para' : 'Runtime preuniversitario para'}
+            <span class="block text-white/45">{preuEnabled ? `universidades de ${countryConfig.name}` : countryConfig.name}</span>
           </h1>
           <p class="text-lg md:text-xl text-white/65 max-w-3xl leading-relaxed">
-            Este modulo separa investigacion institucional, calendario 2026 y banco de reactivos <strong class="text-white">v4+</strong>.
-            El objetivo actual es llegar a <strong class="text-white">10 universidades</strong> trazables por fuente oficial, con un mock troncal por institucion y overlays por carrera como capa posterior, no dentro del conteo principal.
+            {preuEnabled ? (
+              <>
+                Este modulo separa investigacion institucional, calendario 2026 y banco de reactivos <strong class="text-white">v4+</strong>.
+                El objetivo actual es llegar a <strong class="text-white">10 universidades</strong> trazables por fuente oficial, con un mock troncal por institucion y overlays por carrera como capa posterior, no dentro del conteo principal.
+              </>
+            ) : (
+              <>
+                La plantilla multi-pais ya aisla el runtime de admisiones por tenant. La capa editorial para <strong class="text-white">{countryConfig.name}</strong> sigue pendiente antes de publicar universidades, calendarios o blueprints locales.
+              </>
+            )}
           </p>
         </div>
 
@@ -51,17 +63,17 @@ const schema = {
           <div class="glass rounded-3xl p-6">
             <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">Entradas planeadas</p>
             <p class="text-4xl font-black text-[#F5F5DC]">{preuCatalogEntries.length}</p>
-            <p class="text-sm text-white/55 mt-2">Catalogo objetivo para 2026 con ranking reproducible por Saber Pro.</p>
+            <p class="text-sm text-white/55 mt-2">{preuEnabled ? 'Catalogo objetivo para 2026 con ranking reproducible por fuentes institucionales.' : 'Sin datasets locales cargados para este tenant.'}</p>
           </div>
           <div class="glass rounded-3xl p-6">
             <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">Fuentes verificadas</p>
             <p class="text-4xl font-black text-emerald-400">{statusSummary.verified}</p>
-            <p class="text-sm text-white/55 mt-2">Instituciones con portal oficial de admision ya conectado al pipeline.</p>
+            <p class="text-sm text-white/55 mt-2">{preuEnabled ? 'Instituciones con portal oficial de admision ya conectado al pipeline.' : 'No se exponen instituciones de otros paises por defecto.'}</p>
           </div>
           <div class="glass rounded-3xl p-6">
             <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">En levantamiento</p>
             <p class="text-4xl font-black text-sky-300">{statusSummary.inResearch + statusSummary.queued}</p>
-            <p class="text-sm text-white/55 mt-2">Candidatas mientras se normaliza el ranking ICFES y la evidencia 2026.</p>
+            <p class="text-sm text-white/55 mt-2">{preuEnabled ? 'Candidatas mientras se normaliza la evidencia 2026.' : 'El onboarding editorial debe cargar fuentes locales antes de habilitar el modulo.'}</p>
           </div>
         </div>
       </div>
@@ -73,7 +85,7 @@ const schema = {
           <div>
             <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Metodologia operativa</p>
             <ol class="space-y-3 text-white/70 leading-relaxed">
-              <li>1. Construir shortlist con agregados anuales de Saber Pro y mantener trazabilidad del criterio de inclusion.</li>
+              <li>1. Construir shortlist con agregados anuales y mantener trazabilidad del criterio de inclusion.</li>
               <li>2. Levantar por cada universidad un dossier con examen, costos, fechas, documentacion y componentes.</li>
               <li>3. Traducir el dossier a un blueprint con secciones, pesos, tipos de reactivo y overlays por carrera.</li>
               <li>4. Publicar simulacros v4+ solo cuando haya evidencia oficial suficiente y scoring compatible.</li>
@@ -88,6 +100,12 @@ const schema = {
                   <p class="text-xs text-white/45 mt-1">Verificada {source.lastVerifiedAt}</p>
                 </a>
               ))}
+              {!preuEnabled && (
+                <div class="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
+                  <p class="text-sm font-semibold text-white">Sin fuentes locales activas</p>
+                  <p class="text-xs text-white/45 mt-1">Este tenant no carga fuentes de Colombia ni datos de admisiones compartidos por defecto.</p>
+                </div>
+              )}
             </div>
           </div>
         </div>
@@ -102,7 +120,7 @@ const schema = {
             <h2 class="text-3xl md:text-4xl font-black tracking-tight">Como deberiamos mostrar los examenes</h2>
           </div>
           <p class="max-w-xl text-sm text-white/55">
-            Para que esto sea util de verdad, el estudiante no debe entrar directo a “un examen”.
+            Para que esto sea util de verdad, el estudiante no debe entrar directo a un examen.
             Debe entrar a una <strong class="text-white">ruta para pasar a una universidad especifica</strong>.
           </p>
         </div>
@@ -196,8 +214,9 @@ const schema = {
             <h2 class="text-3xl md:text-4xl font-black tracking-tight">Catalogo institucional y overlays</h2>
           </div>
           <p class="max-w-xl text-sm text-white/55">
-            La lista de abajo es un pipeline operativo. Solo las entradas <strong class="text-white">verificadas</strong> tienen fuente oficial enlazada;
-            el orden definitivo se recalculara cuando se cierre la normalizacion ICFES 2024 por institucion y programa.
+            {preuEnabled
+              ? <>La lista de abajo es un pipeline operativo. Solo las entradas <strong class="text-white">verificadas</strong> tienen fuente oficial enlazada; el orden definitivo se recalculara cuando se cierre la normalizacion por institucion y programa.</>
+              : <>Este tenant conserva la ruta y el diseno, pero no publica catalogos institucionales heredados de Colombia mientras no exista un dataset local validado.</>}
           </p>
         </div>
 
@@ -229,7 +248,7 @@ const schema = {
                 </div>
                 <div class="rounded-2xl bg-[#003893]/10 p-4 border border-[#003893]/20">
                   <p class="text-[11px] uppercase tracking-[0.22em] text-sky-200/70 mb-2">CTA ideal</p>
-                  <p class="text-sm text-white/70 leading-relaxed">“Quiero entrar a {entry.institutionName}” debe abrir el resumen del examen y luego el simulacro realista.</p>
+                  <p class="text-sm text-white/70 leading-relaxed">"Quiero entrar a {entry.institutionName}" debe abrir el resumen del examen y luego el simulacro realista.</p>
                 </div>
               </div>
 
@@ -286,6 +305,15 @@ const schema = {
               </div>
             </article>
           ))}
+          {!preuEnabled && (
+            <article class="glass rounded-[1.75rem] p-6 border border-white/8 lg:col-span-2">
+              <p class="text-xs uppercase tracking-[0.26em] text-white/35 mb-2">Tenant pending</p>
+              <h3 class="text-xl font-bold text-[#F5F5DC]">Sin catalogo institucional compartido</h3>
+              <p class="text-sm text-white/65 leading-relaxed mt-5">
+                La ruta mantiene el contrato del producto, pero no reutiliza universidades, calendarios ni overlays de Colombia para {countryConfig.name}. Cuando exista un dataset local validado, esta misma superficie podra activarse por configuracion.
+              </p>
+            </article>
+          )}
         </div>
       </div>
     </section>
@@ -305,7 +333,7 @@ const schema = {
 
         <div class="glass rounded-[1.75rem] p-8">
           <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Estado del modulo</p>
-          {countryConfig.features.preuniversitario && isCO ? (
+          {preuEnabled && countryConfig.features.preuniversitario && isCO ? (
             <>
               <h2 class="text-2xl font-black mb-4">Corte implementado</h2>
               <ul class="space-y-3 text-sm text-white/70 leading-relaxed">

@@ -212,4 +212,3 @@ The text presents both sides: proponents (economic growth) and critics (exploita
 | 5 | CO-ING-11-part1-007-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-007-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-007-v7 | 5 | ⬜ |
-

@@ -1,5 +1,10 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { getCountryExamSlug, resolveRuntimeCountryConfig } from '../../config';
+
+const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+const exampleCountryCode = runtimeCountry.code.toLowerCase();
+const exampleExamSlug = getCountryExamSlug(runtimeCountry);
 
 const plans = [
   {
@@ -7,7 +12,7 @@ const plans = [
     price: '0',
     accent: 'border-white/10',
     cta: 'Usar endpoint público',
-    href: 'https://api.saberparatodos.space/v1/questions?country=co&exam=icfes&grade=11&subject=matematicas&page=1',
+    href: `https://api.saberparatodos.space/v1/questions?country=${exampleCountryCode}&exam=${exampleExamSlug}&grade=11&subject=matematicas&page=1`,
     features: [
       'Sin API key',
       'Límite por IP',

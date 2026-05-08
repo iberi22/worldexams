@@ -1,5 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+
+const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 ---
 
 <Layout
