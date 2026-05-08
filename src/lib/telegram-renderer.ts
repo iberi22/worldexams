@@ -49,7 +49,7 @@ export class TelegramRenderer {
       error: '#F44336',
       info: '#2196F3',
     };
-    
+
     return `<span style="background:${colors[type]};color:white;padding:2px 8px;border-radius:4px;font-size:12px;">${text}</span>`;
   }
 
@@ -59,7 +59,7 @@ export class TelegramRenderer {
   renderProgress(value: number, max: number = 100): string {
     const percent = Math.min(100, Math.max(0, (value / max) * 100));
     const color = percent >= 70 ? '#4CAF50' : percent >= 40 ? '#FF9800' : '#F44336';
-    
+
     return `
       <div style="background:#eee;border-radius:4px;height:20px;width:100%;">
         <div style="background:${color};height:100%;width:${percent}%;border-radius:4px;text-align:center;color:white;font-size:12px;">
@@ -94,7 +94,7 @@ export class TelegramRenderer {
   private wrapInHTML(content: string, options?: RenderOptions): string {
     const bg = options?.theme === 'dark' ? '#1a1a2e' : '#ffffff';
     const text = options?.theme === 'dark' ? '#ffffff' : '#333333';
-    
+
     return `
 <!DOCTYPE html>
 <html>

@@ -8,14 +8,7 @@ import wave
 from datetime import UTC, datetime
 from pathlib import Path
 
-from moviepy import (
-    AudioFileClip,
-    ColorClip,
-    CompositeVideoClip,
-    TextClip,
-    concatenate_videoclips,
-)
-
+from moviepy import AudioFileClip, ColorClip, CompositeVideoClip, TextClip, concatenate_videoclips
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_ROOT = PROJECT_ROOT / "src" / "content" / "questions" / "colombia" / "matematicas" / "grado-11" / "periodo-1"
@@ -98,7 +91,7 @@ def split_explanation_chunks(text: str, chunks: int = 3):
         size = max(8, len(words) // chunks)
         groups = []
         for i in range(0, len(words), size):
-            groups.append(" ".join(words[i:i + size]))
+            groups.append(" ".join(words[i : i + size]))
         sentences = groups
     out = [""] * chunks
     for idx, s in enumerate(sentences):
@@ -171,7 +164,7 @@ def write_srt_from_timings(timings, srt_path: Path, chunk_size=4):
     lines = []
     idx = 1
     for i in range(0, len(timings), chunk_size):
-        chunk = timings[i:i + chunk_size]
+        chunk = timings[i : i + chunk_size]
         if not chunk:
             continue
         text = " ".join([w["word"] for w in chunk])
@@ -198,99 +191,141 @@ def render_vertical_video(job: dict, audio_path: Path, video_path: Path):
 
     intro_bg = ColorClip((width, height), color=(0, 56, 147), duration=intro_seconds)
     middle_bg = ColorClip((width, height), color=(14, 14, 18), duration=middle_seconds)
-    middle_panel = ColorClip((width - 80, height - 180), color=(24, 24, 30), duration=middle_seconds).with_position((40, 96))
+    middle_panel = ColorClip((width - 80, height - 180), color=(24, 24, 30), duration=middle_seconds).with_position(
+        (40, 96)
+    )
     outro_bg = ColorClip((width, height), color=(206, 17, 38), duration=outro_seconds)
 
-    intro_title = TextClip(
-        text="WORLDEXAMS\nSABERPARATODOS",
-        font=FONT_BOLD,
-        font_size=96,
-        color="#FCD116",
-        size=(width - 120, None),
-        method="caption",
-        text_align="center",
-        stroke_color="#001B4E",
-        stroke_width=2,
-    ).with_position(("center", 260)).with_duration(intro_seconds)
-    intro_sub = TextClip(
-        text="Resolucion express de matematicas",
-        font=FONT_MAIN,
-        font_size=48,
-        color="white",
-        size=(width - 180, None),
-        method="caption",
-        text_align="center",
-    ).with_position(("center", height * 0.72)).with_duration(intro_seconds)
+    intro_title = (
+        TextClip(
+            text="WORLDEXAMS\nSABERPARATODOS",
+            font=FONT_BOLD,
+            font_size=96,
+            color="#FCD116",
+            size=(width - 120, None),
+            method="caption",
+            text_align="center",
+            stroke_color="#001B4E",
+            stroke_width=2,
+        )
+        .with_position(("center", 260))
+        .with_duration(intro_seconds)
+    )
+    intro_sub = (
+        TextClip(
+            text="Resolucion express de matematicas",
+            font=FONT_MAIN,
+            font_size=48,
+            color="white",
+            size=(width - 180, None),
+            method="caption",
+            text_align="center",
+        )
+        .with_position(("center", height * 0.72))
+        .with_duration(intro_seconds)
+    )
     intro_clip = CompositeVideoClip([intro_bg, intro_title, intro_sub], size=(width, height))
 
-    mid_qid = TextClip(
-        text=question_id,
-        font=FONT_MAIN,
-        font_size=28,
-        color="#FCD116",
-        size=(width - 80, None),
-        method="caption",
-    ).with_position((48, 40)).with_duration(middle_seconds)
-    mid_statement = TextClip(
-        text=f"Problema: {statement}",
-        font=FONT_BOLD,
-        font_size=52,
-        color="white",
-        size=(width - 120, None),
-        method="caption",
-        text_align="left",
-    ).with_position((62, 200)).with_duration(middle_seconds)
+    mid_qid = (
+        TextClip(
+            text=question_id,
+            font=FONT_MAIN,
+            font_size=28,
+            color="#FCD116",
+            size=(width - 80, None),
+            method="caption",
+        )
+        .with_position((48, 40))
+        .with_duration(middle_seconds)
+    )
+    mid_statement = (
+        TextClip(
+            text=f"Problema: {statement}",
+            font=FONT_BOLD,
+            font_size=52,
+            color="white",
+            size=(width - 120, None),
+            method="caption",
+            text_align="left",
+        )
+        .with_position((62, 200))
+        .with_duration(middle_seconds)
+    )
 
     phase = max(middle_seconds / 3.0, 1)
-    step1 = TextClip(
-        text=f"Paso 1: datos clave\n{exp_chunks[0] or 'Identifica variables, dominio y condicion principal.'}",
-        font=FONT_MAIN,
-        font_size=44,
-        color="#E5E7EB",
-        size=(width - 120, None),
-        method="caption",
-        text_align="left",
-    ).with_position((62, 760)).with_duration(phase)
-    step2 = TextClip(
-        text=f"Paso 2: operacion\n{exp_chunks[1] or 'Aplica la operacion o transformacion principal.'}",
-        font=FONT_MAIN,
-        font_size=44,
-        color="#E5E7EB",
-        size=(width - 120, None),
-        method="caption",
-        text_align="left",
-    ).with_position((62, 760)).with_duration(phase)
-    step3 = TextClip(
-        text=f"Paso 3: verificacion\n{exp_chunks[2] or 'Comprueba consistencia y selecciona la opcion correcta.'}",
-        font=FONT_MAIN,
-        font_size=44,
-        color="#E5E7EB",
-        size=(width - 120, None),
-        method="caption",
-        text_align="left",
-    ).with_position((62, 760)).with_duration(max(middle_seconds - 2 * phase, 1))
+    step1 = (
+        TextClip(
+            text=f"Paso 1: datos clave\n{exp_chunks[0] or 'Identifica variables, dominio y condicion principal.'}",
+            font=FONT_MAIN,
+            font_size=44,
+            color="#E5E7EB",
+            size=(width - 120, None),
+            method="caption",
+            text_align="left",
+        )
+        .with_position((62, 760))
+        .with_duration(phase)
+    )
+    step2 = (
+        TextClip(
+            text=f"Paso 2: operacion\n{exp_chunks[1] or 'Aplica la operacion o transformacion principal.'}",
+            font=FONT_MAIN,
+            font_size=44,
+            color="#E5E7EB",
+            size=(width - 120, None),
+            method="caption",
+            text_align="left",
+        )
+        .with_position((62, 760))
+        .with_duration(phase)
+    )
+    step3 = (
+        TextClip(
+            text=f"Paso 3: verificacion\n{exp_chunks[2] or 'Comprueba consistencia y selecciona la opcion correcta.'}",
+            font=FONT_MAIN,
+            font_size=44,
+            color="#E5E7EB",
+            size=(width - 120, None),
+            method="caption",
+            text_align="left",
+        )
+        .with_position((62, 760))
+        .with_duration(max(middle_seconds - 2 * phase, 1))
+    )
 
     bar_bg = ColorClip((width - 120, 14), color=(58, 58, 68), duration=middle_seconds).with_position((60, 680))
     bar_1 = ColorClip((int((width - 120) * 0.33), 14), color=(252, 209, 22), duration=phase).with_position((60, 680))
     bar_2 = ColorClip((int((width - 120) * 0.66), 14), color=(252, 209, 22), duration=phase).with_position((60, 680))
-    bar_3 = ColorClip((width - 120, 14), color=(252, 209, 22), duration=max(middle_seconds - 2 * phase, 1)).with_position((60, 680))
+    bar_3 = ColorClip(
+        (width - 120, 14), color=(252, 209, 22), duration=max(middle_seconds - 2 * phase, 1)
+    ).with_position((60, 680))
 
-    middle_1 = CompositeVideoClip([middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_1, step1], size=(width, height))
-    middle_2 = CompositeVideoClip([middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_2, step2], size=(width, height))
-    middle_3 = CompositeVideoClip([middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_3, step3], size=(width, height))
+    middle_1 = CompositeVideoClip(
+        [middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_1, step1], size=(width, height)
+    )
+    middle_2 = CompositeVideoClip(
+        [middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_2, step2], size=(width, height)
+    )
+    middle_3 = CompositeVideoClip(
+        [middle_bg, middle_panel, mid_qid, mid_statement, bar_bg, bar_3, step3], size=(width, height)
+    )
     middle_clip = concatenate_videoclips([middle_1, middle_2, middle_3], method="compose")
 
-    outro_text = TextClip(
-        text="Visita el blog para mas preguntas\nYouTube | Instagram | TikTok",
-        font=FONT_BOLD,
-        font_size=54,
-        color="white",
-        size=(width - 120, None),
-        method="caption",
-        text_align="center",
-        stroke_color="#7A0E1F",
-        stroke_width=1,
-    ).with_position("center").with_duration(outro_seconds)
+    outro_text = (
+        TextClip(
+            text="Visita el blog para mas preguntas\nYouTube | Instagram | TikTok",
+            font=FONT_BOLD,
+            font_size=54,
+            color="white",
+            size=(width - 120, None),
+            method="caption",
+            text_align="center",
+            stroke_color="#7A0E1F",
+            stroke_width=1,
+        )
+        .with_position("center")
+        .with_duration(outro_seconds)
+    )
     outro_clip = CompositeVideoClip([outro_bg, outro_text], size=(width, height))
 
     final = concatenate_videoclips([intro_clip, middle_clip, outro_clip], method="compose")
@@ -316,16 +351,19 @@ def render_vertical_video(job: dict, audio_path: Path, video_path: Path):
 
 
 def upsert_manifest_status(question_id: str, status: str):
-    manifest = read_json(MANIFEST_FILE, {
-        "version": "4.1",
+    manifest = read_json(
+        MANIFEST_FILE,
+        {
+            "version": "4.1",
             "generated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
-        "defaults": {
-            "youtube_channel_url": "https://www.youtube.com/@worldexams",
-            "instagram_url": "",
-            "tiktok_url": "",
+            "defaults": {
+                "youtube_channel_url": "https://www.youtube.com/@worldexams",
+                "instagram_url": "",
+                "tiktok_url": "",
+            },
+            "entries": [],
         },
-        "entries": [],
-    })
+    )
     entries = manifest.get("entries", [])
     key = question_id.strip().lower()
     found = False
@@ -336,12 +374,14 @@ def upsert_manifest_status(question_id: str, status: str):
             found = True
             break
     if not found:
-        entries.append({
-            "question_id": question_id,
-            "protocol_version": "4.1",
-            "status": status,
-            "updated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
-        })
+        entries.append(
+            {
+                "question_id": question_id,
+                "protocol_version": "4.1",
+                "status": status,
+                "updated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
+            }
+        )
     manifest["entries"] = entries
     manifest["generated_at"] = datetime.now(UTC).isoformat().replace("+00:00", "Z")
     write_json(MANIFEST_FILE, manifest)

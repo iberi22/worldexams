@@ -8,7 +8,7 @@
 
   $: max = Math.max(...data, referenceValue || 0, 1);
   $: barWidth = data.length > 0 ? (100 / data.length) * 0.7 : 0;
-  
+
   // Cubic Bezier path generation for smooth lines
   function generateSmoothPath(data: number[]) {
     if (data.length < 2) return "";
@@ -16,9 +16,9 @@
       x: (i / (data.length - 1)) * 100,
       y: 100 - (v / max) * 85
     }));
-    
+
     let path = `M ${points[0].x},${points[0].y}`;
-    
+
     for (let i = 0; i < points.length - 1; i++) {
       const p0 = points[i];
       const p1 = points[i + 1];
@@ -43,9 +43,9 @@
 
     {#if referenceValue !== null}
       {@const y = 100 - (referenceValue / max) * 85}
-      <line 
-        x1="0" y1="{y}" x2="100" y2="{y}" 
-        stroke="white" stroke-opacity="0.1" stroke-width="0.5" stroke-dasharray="2 2" 
+      <line
+        x1="0" y1="{y}" x2="100" y2="{y}"
+        stroke="white" stroke-opacity="0.1" stroke-width="0.5" stroke-dasharray="2 2"
       />
       <text x="100%" y="{y - 2}" text-anchor="end" class="text-[3px] fill-white/20 font-black uppercase tracking-tighter">Target: {referenceValue}</text>
     {/if}
@@ -83,7 +83,7 @@
         stroke-linejoin="round"
         class="transition-all duration-1000 ease-out drop-shadow-[0_0_8px_{color}44]"
       />
-      
+
       {#each data as value, i}
         {@const cx = (i / (data.length - 1)) * 100}
         {@const cy = 100 - (value / max) * 85}

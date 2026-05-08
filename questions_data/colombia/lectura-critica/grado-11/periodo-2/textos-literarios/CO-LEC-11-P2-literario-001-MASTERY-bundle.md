@@ -35,11 +35,11 @@ Este bundle trabaja voz narrativa, imagen poetica, simbolo, tono e intertextuali
 
 ## Texto Base 1: Poema breve
 
-*La ciudad despierta con un hilo de luz.  
-Los balcones guardan el polvo de la noche  
-y el viento, como un lector distraido,  
-pasa la pagina de las calles.  
-Yo miro desde arriba  
+*La ciudad despierta con un hilo de luz.
+Los balcones guardan el polvo de la noche
+y el viento, como un lector distraido,
+pasa la pagina de las calles.
+Yo miro desde arriba
 y entiendo que amanecer tambien es perder algo.*
 
 ## Question 1 (D3)
@@ -232,8 +232,8 @@ El cierre breve deja una emocion suspendida.
 
 ## Texto Base 3: Dialogo entre madre e hija
 
-*-- No te vayas tan pronto -dijo la madre.  
--- Si me quedo, me vuelvo a callar -respondio la hija.  
+*-- No te vayas tan pronto -dijo la madre.
+-- Si me quedo, me vuelvo a callar -respondio la hija.
 Sobre la mesa habia una llave y una foto doblada. Nadie toco ninguno de los dos objetos durante el resto de la conversacion.*
 
 ## Question 11 (D7)

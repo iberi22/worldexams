@@ -31,10 +31,10 @@ license: "CC BY-NC-SA 4.0"
 ## Question 1 — D5
 Madison's main argument is that government is necessary because:
 
-A) Men are naturally angels  
-B) Men require governance due to their imperfect nature  
-C) Angels cannot govern effectively  
-D) External controls are sufficient alone  
+A) Men are naturally angels
+B) Men require governance due to their imperfect nature
+C) Angels cannot govern effectively
+D) External controls are sufficient alone
 **[ ]** → **B**
 
 ---
@@ -42,10 +42,10 @@ D) External controls are sufficient alone
 ## Question 2 — D5
 The phrase "oblige it to control itself" refers to:
 
-A) Government controlling citizens  
-B) Government imposing self-restraints through checks and balances  
-C) Citizens controlling government  
-D) State governments controlling federal government  
+A) Government controlling citizens
+B) Government imposing self-restraints through checks and balances
+C) Citizens controlling government
+D) State governments controlling federal government
 **[ ]** → **B**
 
 ---
@@ -53,10 +53,10 @@ D) State governments controlling federal government
 ## Question 3 — D6
 Madison's argument supports which principle of American government?
 
-A) Unitary executive authority  
-B) Checks and balances  
-C) Direct democracy  
-D) States' rights supremacy  
+A) Unitary executive authority
+B) Checks and balances
+C) Direct democracy
+D) States' rights supremacy
 **[ ]** → **B**
 
 ---
@@ -64,10 +64,10 @@ D) States' rights supremacy
 ## Question 4 — D6
 This passage is best described as a defense of:
 
-A) Pure democracy  
-B) Republican government with divided powers  
-C) Unlimited federal authority  
-D) monarchy  
+A) Pure democracy
+B) Republican government with divided powers
+C) Unlimited federal authority
+D) monarchy
 **[ ]** → **B**
 
 ---
@@ -75,10 +75,10 @@ D) monarchy
 ## Question 5 — D7
 The structure of the argument demonstrates Madison's use of:
 
-A) Emotional appeal  
-B) Hypothetical reasoning  
-C) Historical examples  
-D) Scientific data  
+A) Emotional appeal
+B) Hypothetical reasoning
+C) Historical examples
+D) Scientific data
 **[ ]** → **B**
 
 ---
@@ -86,10 +86,10 @@ D) Scientific data
 ## Question 6 — D8
 Madison's ideas in Federalist No. 51 were implemented primarily through:
 
-A) The Articles of Confederation  
-B) The Bill of Rights  
-C) Separation of powers and checks and balances in the Constitution  
-D) State constitutional conventions  
+A) The Articles of Confederation
+B) The Bill of Rights
+C) Separation of powers and checks and balances in the Constitution
+D) State constitutional conventions
 **[ ]** → **C**
 
 ---
@@ -107,10 +107,10 @@ However, this growth came at significant social cost. Factory workers, including
 ## Question 7 — D5
 The "social cost" of industrial growth refers to:
 
-A) Financial losses by factory owners  
-B) Poor working and living conditions for many Americans  
-C) Environmental damage from factories  
-D) Government corruption  
+A) Financial losses by factory owners
+B) Poor working and living conditions for many Americans
+C) Environmental damage from factories
+D) Government corruption
 **[ ]** → **B**
 
 ---
@@ -118,10 +118,10 @@ D) Government corruption
 ## Question 8 — D5
 According to the passage, steel production increased by approximately:
 
-A) 10 times  
-B) 25 times  
-C) 50 times  
-D) 100 times  
+A) 10 times
+B) 25 times
+C) 50 times
+D) 100 times
 **[ ]** → **B**
 
 ---
@@ -129,10 +129,10 @@ D) 100 times
 ## Question 9 — D6
 The passage suggests that industrial growth primarily benefited:
 
-A) All Americans equally  
-B) Factory workers  
-C) A small percentage of Americans  
-D) Immigrants only  
+A) All Americans equally
+B) Factory workers
+C) A small percentage of Americans
+D) Immigrants only
 **[ ]** → **C**
 
 ---
@@ -140,10 +140,10 @@ D) Immigrants only
 ## Question 10 — D6
 The phrase "Gilded Age" implies that:
 
-A) The period was entirely positive  
-B) Surface prosperity masked underlying problems  
-C) Wealth was evenly distributed  
-D) Gold was the primary industry  
+A) The period was entirely positive
+B) Surface prosperity masked underlying problems
+C) Wealth was evenly distributed
+D) Gold was the primary industry
 **[ ]** → **B**
 
 ---
@@ -151,10 +151,10 @@ D) Gold was the primary industry
 ## Question 11 — D7
 The passage supports which conclusion about industrialization?
 
-A) Industrial growth had only positive effects  
-B) Economic growth and social problems coexisted  
-C) Children were not employed in factories  
-D) Urban populations declined during this period  
+A) Industrial growth had only positive effects
+B) Economic growth and social problems coexisted
+C) Children were not employed in factories
+D) Urban populations declined during this period
 **[ ]** → **B**
 
 ---
@@ -162,10 +162,10 @@ D) Urban populations declined during this period
 ## Question 12 — D8
 The economic inequality described in the passage contributed to the rise of:
 
-A) Progressive Era reforms  
-B) Isolationist foreign policy  
-C) Agricultural expansion  
-D) States' rights movements  
+A) Progressive Era reforms
+B) Isolationist foreign policy
+C) Agricultural expansion
+D) States' rights movements
 **[ ]** → **A**
 
 ---
@@ -183,10 +183,10 @@ Alliance systems divided Europe into two opposing camps: the Triple Entente (Fra
 ## Question 13 — D5
 The "MAIAN" framework refers to:
 
-A) Military, Alliance, Imperialism, Nationalism  
-B) Militarism, Alliances, Imperialism, Nationalism  
-C) Market, Agriculture, Industry, Nationalism  
-D) Marx, Austro-Hungarian, Imperial, National  
+A) Military, Alliance, Imperialism, Nationalism
+B) Militarism, Alliances, Imperialism, Nationalism
+C) Market, Agriculture, Industry, Nationalism
+D) Marx, Austro-Hungarian, Imperial, National
 **[ ]** → **B**
 
 ---
@@ -194,10 +194,10 @@ D) Marx, Austro-Hungarian, Imperial, National
 ## Question 14 — D5
 The author uses "dominoes" primarily to illustrate how:
 
-A) Alliances spread the war across Europe  
-B) The assassination was the sole cause  
-C) European nations tried to prevent war  
-D) The war was limited to the Balkans  
+A) Alliances spread the war across Europe
+B) The assassination was the sole cause
+C) European nations tried to prevent war
+D) The war was limited to the Balkans
 **[ ]** → **A**
 
 ---
@@ -205,10 +205,10 @@ D) The war was limited to the Balkans
 ## Question 15 — D6
 Which statement best reflects the author's argument?
 
-A) The assassination was the only cause of WWI  
-B) The assassination triggered but did not cause WWI  
-C) Economic factors were more important than political ones  
-D) Alliance systems prevented the war from spreading  
+A) The assassination was the only cause of WWI
+B) The assassination triggered but did not cause WWI
+C) Economic factors were more important than political ones
+D) Alliance systems prevented the war from spreading
 **[ ]** → **B**
 
 ---
@@ -216,10 +216,10 @@ D) Alliance systems prevented the war from spreading
 ## Question 16 — D6
 The author presents the information primarily as:
 
-A) A timeline of military events  
-B) A cause-and-effect analysis  
-C) A biographical study of leaders  
-D) An economic analysis  
+A) A timeline of military events
+B) A cause-and-effect analysis
+C) A biographical study of leaders
+D) An economic analysis
 **[ ]** → **B**
 
 ---
@@ -227,10 +227,10 @@ D) An economic analysis
 ## Question 17 — D8
 Which additional evidence would most strengthen the author's argument?
 
-A) Details about individual battles  
-B) Statements from leaders explaining their war decisions  
-C) Statistics about military spending before 1914  
-D) Maps of European colonial possessions  
+A) Details about individual battles
+B) Statements from leaders explaining their war decisions
+C) Statistics about military spending before 1914
+D) Maps of European colonial possessions
 **[ ]** → **C**
 
 ---
@@ -238,10 +238,10 @@ D) Maps of European colonial possessions
 ## Question 18 — D8
 The author's tone can best be described as:
 
-A) Highly opinionated  
-B) Objectively analytical  
-C) Deeply pessimistic  
-D) Humorous  
+A) Highly opinionated
+B) Objectively analytical
+C) Deeply pessimistic
+D) Humorous
 **[ ]** → **B**
 
 ---
@@ -251,10 +251,10 @@ D) Humorous
 **Question 19 — D9**
 Comparing Federalist No. 51's arguments about government power with the Industrial Age context reveals that:
 
-A) Madison anticipated the problems of industrialization  
-B) Constitutional checks were insufficient to prevent industrial era abuses  
-C) Government control was unnecessary during industrialization  
-D) Industrialists supported Madisonian principles  
+A) Madison anticipated the problems of industrialization
+B) Constitutional checks were insufficient to prevent industrial era abuses
+C) Government control was unnecessary during industrialization
+D) Industrialists supported Madisonian principles
 **[ ]** → **B**
 
 ---
@@ -262,9 +262,8 @@ D) Industrialists supported Madisonian principles
 **Question 20 — D10**
 Which question connects the themes of Federalist No. 51 and the Gilded Age passage?
 
-A) How can government control be balanced with individual liberty?  
-B) What is the best form of economic organization?  
-C) Who should control the means of production?  
-D) How should colonies be governed?  
+A) How can government control be balanced with individual liberty?
+B) What is the best form of economic organization?
+C) Who should control the means of production?
+D) How should colonies be governed?
 **[ ]** → **A**
-
