@@ -9,12 +9,13 @@
   import { defaultQuestionRepository, findQuestionById } from '../lib/questions';
   import ReportModal from './ReportModal.svelte';
   import CommentsSection from './CommentsSection.svelte';
-  import { countryConfig } from '../config';
+  import { countryConfig as defaultCountryConfig } from '../config';
+  import type { CountryConfig as RuntimeCountryConfig } from '../config';
   import RadarChart from './RadarChart.svelte';
   import SimpleChart from './SimpleChart.svelte';
   import PerformanceLevels from './dashboard/PerformanceLevels.svelte';
   import PercentileRank from './dashboard/PercentileRank.svelte';
-  import { CO_ICFES_2026_BENCHMARK } from '../config/icfes-benchmarks';
+  import { getBenchmarkConfig } from '../config/icfes-benchmarks';
 
   // Define interface locally with details support
   interface QuestionDetail {
@@ -39,16 +40,19 @@
   }
 
   const {
+    runtimeCountry = defaultCountryConfig,
     onClose,
     onStartExam = undefined,
     onNavigateToBlog = undefined,
     onViewFullResult = undefined
   } = $props<{
+    runtimeCountry?: RuntimeCountryConfig;
     onClose: () => void;
     onStartExam?: () => void;
     onNavigateToBlog?: (subject?: string) => void;
     onViewFullResult?: (examRecord: ExamResultRecord) => void;
   }>();
+  const benchmarkConfig = getBenchmarkConfig(runtimeCountry.code, runtimeCountry.examName);
 
   let activeTab: 'dashboard' | 'history' = $state('dashboard');
   let historyResults: ExamResultRecord[] = $state([]);
@@ -138,11 +142,11 @@
       advancedMetrics: userProfile.advancedMetrics
     };
 
-    generatedStudyPrompt = generateImprovementPrompt(profileData);
-    notebookLMPrompt = generateNotebookLMPrompt(profileData);
-    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData);
-    chatgptStudyPrompt = generateChatGPTStudyPrompt(profileData);
-    studyTipsPrompt = generateStudyTipsPrompt(profileData); // 🆕
+    generatedStudyPrompt = generateImprovementPrompt(profileData, runtimeCountry);
+    notebookLMPrompt = generateNotebookLMPrompt(profileData, runtimeCountry);
+    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData, runtimeCountry);
+    chatgptStudyPrompt = generateChatGPTStudyPrompt(profileData, runtimeCountry);
+    studyTipsPrompt = generateStudyTipsPrompt(profileData, runtimeCountry); // 🆕
 
     showStudyPromptModal = true;
   }
@@ -613,7 +617,7 @@
                       Lectura proxy con precision {Math.round(userProfile.globalAccuracy * 100)}% y {userProfile.icfesEstimate.evidenceCount} preguntas observadas.
                     </div>
                     <div class="mt-2 text-[10px] text-white/30 font-medium uppercase tracking-[0.1em] leading-relaxed">
-                      Benchmark local activo: {CO_ICFES_2026_BENCHMARK.label} {CO_ICFES_2026_BENCHMARK.benchmarkScore}/500.
+                      Benchmark local activo: {benchmarkConfig.label} {benchmarkConfig.benchmarkScore}/500.
                     </div>
                     <div class="mt-2 text-[10px] text-amber-200/70 font-medium uppercase tracking-[0.1em] leading-relaxed">
                       {userProfile.icfesEstimate.disclaimer} Confianza: {userProfile.icfesEstimate.label}. Metodo: {userProfile.icfesEstimate.methodologyVersion}.
@@ -637,8 +641,8 @@
 
                   <!-- 🆕 Percentile Rank Integration -->
                   <div class="mt-8 pt-8 border-t border-white/5">
-                    <PercentileRank 
-                      percentile={Math.min(99, Math.max(1, (userProfile.globalMMR - 800) / 800 * 100))} 
+                    <PercentileRank
+                      percentile={Math.min(99, Math.max(1, (userProfile.globalMMR - 800) / 800 * 100))}
                     />
                   </div>
                 </div>
@@ -709,10 +713,10 @@
                     <div class="bg-black/40 rounded-3xl p-6 border border-white/5 backdrop-blur-xl">
                       <div class="text-[10px] font-black text-white/20 uppercase tracking-[0.15em] mb-6">Tendencia MMR</div>
                       {#if mmrHistory.length >= 2}
-                        <SimpleChart 
-                          data={mmrHistory} 
-                          type="line" 
-                          color="#10b981" 
+                        <SimpleChart
+                          data={mmrHistory}
+                          type="line"
+                          color="#10b981"
                           referenceValue={1200}
                           height={160}
                         />
@@ -741,10 +745,10 @@
                     <div class="bg-black/40 rounded-3xl p-6 border border-white/5 backdrop-blur-xl">
                       <div class="text-[10px] font-black text-white/20 uppercase tracking-[0.15em] mb-6">Precisión de Fuego</div>
                       {#if accuracyHistory.length >= 2}
-                        <SimpleChart 
-                          data={accuracyHistory} 
-                          type="bar" 
-                          color="#f59e0b" 
+                        <SimpleChart
+                          data={accuracyHistory}
+                          type="bar"
+                          color="#f59e0b"
                           referenceValue={60}
                           height={160}
                         />
@@ -787,11 +791,11 @@
                         </div>
 
                         <div class="space-y-4">
-                          <PerformanceLevels 
-                            score={subj.accuracy * 100} 
-                            subject={subj.name} 
+                          <PerformanceLevels
+                            score={subj.accuracy * 100}
+                            subject={subj.name}
                           />
-                          
+
                           <div class="text-[9px] font-bold text-white/20 flex justify-between">
                             <span>RECORRIDO</span>
                             <span>{subj.questionsAnswered} PREGUNTAS</span>
@@ -1054,7 +1058,7 @@
                     </button>
                   </div>
 
-                                    {#if countryConfig.features?.blog}
+                                    {#if runtimeCountry.features?.blog}
 <!-- Blog Links for each weak area -->
                   <div class="mt-4 flex flex-wrap justify-center gap-2 relative z-10">
                     {#each weakAreas as area}

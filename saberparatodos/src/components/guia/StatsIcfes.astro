@@ -1,167 +1,113 @@
 ---
+import { icfesExamGuideLinks } from '../../config/exam-guide-links';
+
 const officialFacts = [
   {
     value: '5',
     label: 'Pruebas calificables',
-    note: 'Matemáticas, Lectura Crítica, Sociales y Ciudadanas, Ciencias Naturales e Inglés.'
+    note: 'Lectura Critica, Matematicas, Sociales y Ciudadanas, Ciencias Naturales e Ingles.',
   },
   {
     value: '230',
     label: 'Preguntas calificables',
-    note: 'Cuadernillo estándar Saber 11.º.'
+    note: 'Cuadernillo estandar de Saber 11.',
   },
   {
     value: '278',
     label: 'Total con cuestionario',
-    note: 'Incluye 48 preguntas del cuestionario socioeconómico.'
+    note: 'Incluye 48 preguntas del cuestionario socioeconomico.',
   },
   {
     value: '2 x 4h30',
-    label: 'Duración oficial',
-    note: 'Dos sesiones de 4 horas y 30 minutos.'
-  }
+    label: 'Duracion oficial',
+    note: 'Dos sesiones de 4 horas y 30 minutos.',
+  },
 ];
 
-const resultFacts = [
+const structureNotes = [
   {
-    title: 'Resultados agregados publicados',
-    text: 'El ICFES publicó los resultados agregados 2024-1 y 2024-2 el 13 de febrero de 2025.'
+    title: 'Analisis de datos',
+    text: 'La seccion central del ICFES agrupa visualizadores, informes y recursos para interpretar resultados.',
   },
   {
-    title: 'Resultados individuales 2024 calendario A',
-    text: 'El ICFES informó que el promedio del puntaje global subió de 257 a 259 frente a 2023.'
+    title: 'Marco y ficha',
+    text: 'Los PDFs oficiales explican la operacion estadistica y el esquema metodologico de los resultados.',
   },
   {
-    title: 'Cobertura reportada en 2024',
-    text: 'En la aplicación Saber 11 calendario A 2024 el ICFES reportó más de 640 mil estudiantes en más de 540 municipios.'
-  }
+    title: 'Guia de interpretacion',
+    text: 'El documento de interpretacion ayuda a leer las cifras sin depender de una ruta de navegacion frágil.',
+  },
 ];
 
-const officialLinks = [
-  {
-    label: 'Guía de orientación Saber 11.º 2025',
-    href: 'https://www.icfes.gov.co/evaluaciones-icfes/saber-11/guia-de-orientacion-examen-saber-11/'
-  },
-  {
-    label: 'Agregados Saber 11',
-    href: 'https://www.icfes.gov.co/evaluaciones-icfes/saber-11/agregados-saber-11/'
-  },
-  {
-    label: 'Comunicado resultados Saber 11 calendario A 2024',
-    href: 'https://www.icfes.gov.co/aumento-el-puntaje-global-de-los-resultados-individuales-de-saber-11-calendario-a/'
-  }
-];
+const officialLinks = icfesExamGuideLinks;
 ---
 
 <div class="space-y-8">
-  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+  <section class="grid grid-cols-2 md:grid-cols-4 gap-4">
     {officialFacts.map((fact, index) => (
-      <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-4 text-center" data-sr="fade-up" data-sr-delay={String(index * 100)}>
-        <p class="text-3xl font-bold text-[#FCD116]">{fact.value}</p>
-        <p class="text-xs text-white/70 mt-1">{fact.label}</p>
-        <p class="text-[11px] text-white/40 mt-2">{fact.note}</p>
-      </div>
+      <article class="rounded-2xl border border-white/10 bg-white/[0.02] p-4" data-sr="fade-up" data-sr-delay={String(index * 80)}>
+        <p class="text-3xl font-black text-[#FCD116]">{fact.value}</p>
+        <p class="mt-1 text-xs uppercase tracking-[0.22em] text-white/70">{fact.label}</p>
+        <p class="mt-2 text-[11px] leading-relaxed text-white/45">{fact.note}</p>
+      </article>
     ))}
-  </div>
+  </section>
 
-  <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-up">
-    <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
-      <span class="text-xl">📊</span>
-      Estructura oficial del cuadernillo estándar
-    </h3>
+  <section class="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
+    <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6" data-sr="fade-up">
+      <header class="mb-5 flex items-center gap-3">
+        <div class="h-10 w-10 rounded-full bg-emerald-500/15 text-emerald-400 flex items-center justify-center font-black">11</div>
+        <div>
+          <h3 class="text-lg font-bold text-white">Estructura oficial del examen</h3>
+          <p class="text-sm text-white/50">Resumen operativo para estudiantes que se preparan con referencias oficiales.</p>
+        </div>
+      </header>
 
-    <div class="space-y-3">
-      <div class="flex items-center gap-3">
-        <span class="text-xs text-white/60 w-32">Sesión 1</span>
-        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
-          <div class="h-full bg-[#003893]/80 rounded-full flex items-center justify-end pr-2" style="width: 47%">
-            <span class="text-xs font-bold">131 preguntas</span>
-          </div>
-        </div>
-      </div>
-      <div class="flex items-center gap-3">
-        <span class="text-xs text-white/60 w-32">Sesión 2</span>
-        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
-          <div class="h-full bg-[#FCD116]/80 rounded-full flex items-center justify-end pr-2 text-[#121212]" style="width: 53%">
-            <span class="text-xs font-bold">147 preguntas</span>
-          </div>
-        </div>
-      </div>
-      <div class="flex items-center gap-3">
-        <span class="text-xs text-white/60 w-32">Lectura Crítica</span>
-        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
-          <div class="h-full bg-white/50 rounded-full flex items-center justify-end pr-2" style="width: 15%">
-            <span class="text-xs font-bold">41</span>
-          </div>
-        </div>
-      </div>
-      <div class="flex items-center gap-3">
-        <span class="text-xs text-white/60 w-32">Inglés</span>
-        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
-          <div class="h-full bg-emerald-500/70 rounded-full flex items-center justify-end pr-2" style="width: 20%">
-            <span class="text-xs font-bold">55</span>
-          </div>
-        </div>
-      </div>
-      <div class="flex items-center gap-3">
-        <span class="text-xs text-white/60 w-32">Mat, Soc, Cien</span>
-        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
-          <div class="h-full bg-[#CE1126]/75 rounded-full flex items-center justify-end pr-2" style="width: 49%">
-            <span class="text-xs font-bold">134</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <p class="text-xs text-white/40 mt-4">
-      Cifras tomadas de la guía de orientación Saber 11.º 2025-2 del ICFES para el cuadernillo estándar.
-    </p>
-  </div>
-
-  <div class="grid md:grid-cols-2 gap-6">
-    <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-left">
-      <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
-        <span class="text-xl">📈</span>
-        Resultados oficiales que sí están publicados
-      </h3>
-
-      <div class="space-y-4">
-        {resultFacts.map((fact) => (
-          <div class="border border-white/10 rounded-lg p-4 bg-white/[0.02]">
-            <div class="text-sm font-semibold text-[#F5F5DC] mb-1">{fact.title}</div>
-            <p class="text-sm text-white/60">{fact.text}</p>
+      <div class="grid gap-3 sm:grid-cols-3">
+        {structureNotes.map((item) => (
+          <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4">
+            <p class="text-[11px] font-semibold uppercase tracking-[0.22em] text-[#FCD116]">{item.title}</p>
+            <p class="mt-2 text-sm leading-relaxed text-white/65">{item.text}</p>
           </div>
         ))}
       </div>
-    </div>
 
-    <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-right">
-      <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
-        <span class="text-xl">🔗</span>
-        Consulta directa en ICFES
-      </h3>
-
-      <div class="space-y-3">
-        {officialLinks.map((link) => (
-          <a
-            href={link.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="block border border-white/10 rounded-lg p-4 hover:border-white/20 transition-colors bg-white/[0.02]"
-          >
-            <div class="text-sm font-semibold text-[#F5F5DC]">{link.label}</div>
-            <div class="text-xs text-white/40 mt-1">{link.href.replace('https://', '')}</div>
-          </a>
-        ))}
+      <div class="mt-6 rounded-2xl border border-dashed border-white/10 bg-white/[0.02] p-4">
+        <p class="text-xs uppercase tracking-[0.22em] text-white/35">Punto de control</p>
+        <p class="mt-2 text-sm leading-relaxed text-white/60">
+          Si el calendario cambia, la pagina del ICFES debe prevalecer sobre cualquier resumen interno. Esta tarjeta solo acompana la lectura y no reemplaza la citacion oficial.
+        </p>
       </div>
+    </article>
 
-      <p class="text-xs text-white/40 mt-4">
-        Cuando una cifra depende del calendario, cohorte o base agregada, conviene consultarla en la fuente original del ICFES.
-      </p>
-    </div>
-  </div>
+    <aside class="space-y-4">
+      <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6" data-sr="fade-left">
+        <h3 class="text-lg font-bold text-white">Consulta directa en ICFES</h3>
+        <p class="mt-2 text-sm text-white/50">Enlaces oficiales que conviene revisar cuando quieras validar una cifra o descargar la guia mas reciente.</p>
 
-  <p class="text-xs text-white/30 text-center">
-    Fuente: guía de orientación Saber 11.º 2025, página de agregados Saber 11 y comunicado oficial de resultados calendario A 2024 del ICFES.
-  </p>
+        <div class="mt-4 space-y-3">
+          {officialLinks.map((link) => (
+            <a
+              href={link.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="block rounded-2xl border border-white/10 bg-white/[0.02] p-4 transition-colors hover:border-white/20 hover:bg-white/[0.04]"
+            >
+              <p class="text-sm font-semibold text-white">{link.label}</p>
+              <p class="mt-1 break-all text-xs text-white/40">{link.href.replace('https://', '')}</p>
+            </a>
+          ))}
+        </div>
+      </article>
+
+      <article class="rounded-3xl border border-white/10 bg-white/[0.02] p-6">
+        <h3 class="text-lg font-bold text-white">Lectura rapida</h3>
+        <ul class="mt-4 space-y-3 text-sm text-white/60">
+          <li>La seccion de analisis de datos centraliza los recursos oficiales de resultados.</li>
+          <li>Los documentos PDF cubren metodologia e interpretacion de resultados.</li>
+          <li>Si una ruta cambia, esta tarjeta debe apuntar al recurso oficial, no a la pagina antigua.</li>
+        </ul>
+      </article>
+    </aside>
+  </section>
 </div>

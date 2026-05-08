@@ -227,4 +227,3 @@ Person B disagrees with the criticism of the plot by highlighting positive aspec
 | 5 | CO-ING-11-part1-013-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-013-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-013-v7 | 5 | ⬜ |
-

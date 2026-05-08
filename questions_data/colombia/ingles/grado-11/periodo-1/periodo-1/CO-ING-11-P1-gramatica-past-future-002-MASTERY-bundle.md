@@ -35,37 +35,37 @@ license: "CC BY-NC-SA 4.0"
 
 **1.** Last summer, they __________ (spend) two weeks in the mountains.
 
-A) spend  
-B) spent  
-C) spending  
-D) spends  
+A) spend
+B) spent
+C) spending
+D) spends
 
 ---
 
 **2.** We __________ (not/see) the presentation yesterday because we __________ (arrive) late.
 
-A) didn't saw / arrived  
-B) didn't see / arrived  
-C) don't see / arrive  
-D) didn't see / arrive  
+A) didn't saw / arrived
+B) didn't see / arrived
+C) don't see / arrive
+D) didn't see / arrive
 
 ---
 
 **3.** __________ your brother __________ (work) here in 2020?
 
-A) Did / work  
-B) Does / work  
-C) Did / worked  
-D) Do / worked  
+A) Did / work
+B) Does / work
+C) Did / worked
+D) Do / worked
 
 ---
 
 **4.** My grandmother __________ (drink) coffee every morning when she was young.
 
-A) used to drink  
-B) use to drink  
-C) used to drank  
-D) used to drinking  
+A) used to drink
+B) use to drink
+C) used to drank
+D) used to drinking
 
 ---
 
@@ -75,55 +75,55 @@ D) used to drinking
 
 **5.** While the baby __________ (sleep), his mother __________ (prepare) dinner.
 
-A) slept / prepared  
-B) was sleeping / was preparing  
-C) is sleeping / prepares  
-D) sleeps / is preparing  
+A) slept / prepared
+B) was sleeping / was preparing
+C) is sleeping / prepares
+D) sleeps / is preparing
 
 ---
 
 **6.** I think they __________ (launch) the new product next Friday. The marketing team __________ (prepare) everything this week.
 
-A) will launch / is preparing  
-B) are going to launch / is preparing  
-C) launch / prepares  
-D) will launch / is preparing  
+A) will launch / is preparing
+B) are going to launch / is preparing
+C) launch / prepares
+D) will launch / is preparing
 
 ---
 
 **7.** Don't worry! I __________ (help) you with your homework as soon as I __________ (finish) mine.
 
-A) will help / finish  
-B) am going to help / will finish  
-C) help / finish  
-D) will help / will finish  
+A) will help / finish
+B) am going to help / will finish
+C) help / finish
+D) will help / will finish
 
 ---
 
 **8.** He __________ (not/be) very active before, but now he goes to the gym every day.
 
-A) didn't used to  
-B) didn't use to  
-C) doesn't used to  
-D) not used to  
+A) didn't used to
+B) didn't use to
+C) doesn't used to
+D) not used to
 
 ---
 
 **9.** If you __________ (study) more, you __________ (get) a better grade.
 
-A) study / will get  
-B) studied / would get  
-C) study / would get  
-D) studied / will get  
+A) study / will get
+B) studied / would get
+C) study / would get
+D) studied / will get
 
 ---
 
 **10.** When I opened the door, the cat __________ (sit) on the table and __________ (look) at me.
 
-A) sat / looked  
-B) was sitting / was looking  
-C) was sitting / looked  
-D) sat / was looking  
+A) sat / looked
+B) was sitting / was looking
+C) was sitting / looked
+D) sat / was looking
 
 ---
 
@@ -133,55 +133,55 @@ D) sat / was looking
 
 **11.** By the time the police arrived, the thief __________ (already/escape).
 
-A) already escaped  
-B) had already escaped  
-C) has already escaped  
-D) was already escaping  
+A) already escaped
+B) had already escaped
+C) has already escaped
+D) was already escaping
 
 ---
 
 **12.** She wondered why he __________ (leave) without saying goodbye.
 
-A) left  
-B) leave  
-C) had left  
-D) was leaving  
+A) left
+B) leave
+C) had left
+D) was leaving
 
 ---
 
 **13.** In ten years, everyone __________ (use) electric cars. The industry __________ (change) completely by then.
 
-A) will use / will change  
-B) will be using / will have changed  
-C) is going to use / is changing  
-D) uses / will have changed  
+A) will use / will change
+B) will be using / will have changed
+C) is going to use / is changing
+D) uses / will have changed
 
 ---
 
 **14.** I regret __________ (not/take) that English course when I had the chance. It __________ (be) useful now.
 
-A) not taking / would be  
-B) not to take / will be  
-C) not taking / will be  
-D) not taking / would have been  
+A) not taking / would be
+B) not to take / will be
+C) not taking / will be
+D) not taking / would have been
 
 ---
 
 **15.** When I was a student, I would __________ (walk) to university every day. It __________ (take) about 30 minutes.
 
-A) walk / took  
-B) to walk / takes  
-C) walk / takes  
-D) walking / took  
+A) walk / took
+B) to walk / takes
+C) walk / takes
+D) walking / took
 
 ---
 
 **16.** If she __________ (not/accept) the job offer today, she __________ (miss) a great opportunity.
 
-A) doesn't accept / will miss  
-B) doesn't accept / would miss  
-C) didn't accept / will miss  
-D) doesn't accept / would have missed  
+A) doesn't accept / will miss
+B) doesn't accept / would miss
+C) didn't accept / will miss
+D) doesn't accept / would have missed
 
 ---
 
@@ -191,43 +191,43 @@ D) doesn't accept / would have missed
 
 **17.** By the end of this decade, scientists __________ (find) a cure for several chronic diseases. They __________ (research) this area for many years.
 
-A) will have found / will have been researching  
-B) will find / will research  
-C) would have found / researched  
-D) are going to find / have been researching  
+A) will have found / will have been researching
+B) will find / will research
+C) would have found / researched
+D) are going to find / have been researching
 
 ---
 
 **18.** If I __________ (be) you, I would have taken that scholarship offer when it was available.
 
-A) was  
-B) were  
-C) am  
-D) had been  
+A) was
+B) were
+C) am
+D) had been
 
 ---
 
 **19.** The engineers __________ (test) the new bridge when the earthquake __________ (occur) unexpectedly.
 
-A) were testing / occurred  
-B) were testing / was occurring  
-C) tested / occurred  
-D) were testing / had occurred  
+A) were testing / occurred
+B) were testing / was occurring
+C) tested / occurred
+D) were testing / had occurred
 
 ---
 
 **20.** By the time the construction company __________ (finish) the building, they __________ (invest) over 50 billion pesos in the project.
 
-A) finishes / will have invested  
-B) will finish / will have invested  
-C) finished / had invested  
-D) finishes / will invest  
+A) finishes / will have invested
+B) will finish / will have invested
+C) finished / had invested
+D) finishes / will invest
 
 ---
 
 ## End of MASTERY Bundle 002
 
-**Total questions:** 20  
-**Difficulty distribution:** D3–D4 (Q1–4), D5–D6 (Q5–10), D7–D8 (Q11–16), D9–D10 (Q17–20)  
-**Alignment:** ICFES Saber 11 2026 + DBA MEN 2026  
+**Total questions:** 20
+**Difficulty distribution:** D3–D4 (Q1–4), D5–D6 (Q5–10), D7–D8 (Q11–16), D9–D10 (Q17–20)
+**Alignment:** ICFES Saber 11 2026 + DBA MEN 2026
 **Status:** UNREVISED — requiere revisión humana

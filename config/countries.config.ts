@@ -502,6 +502,74 @@ export const peruConfig: CountryConfig = {
 /**
  * 🇧🇷 Brasil - ENEM
  */
+export const ecuadorConfig: CountryConfig = {
+  code: 'EC',
+  name: 'Ecuador',
+  nameEnglish: 'Ecuador',
+  flag: '🇪🇨',
+
+  examName: 'SENESCYT',
+  examFullName: 'Sistema Nacional de Nivelacion y Admision',
+  examAuthority: 'SENESCYT',
+
+  locale: 'es-EC',
+  timezone: 'America/Guayaquil',
+
+  grades: [
+    { id: 3, name: '3° EGB', description: 'Tercer grado de educacion general basica' },
+    { id: 6, name: '6° EGB', description: 'Sexto grado de educacion general basica' },
+    { id: 9, name: '9° EGB', description: 'Noveno grado de educacion general basica' },
+    { id: 12, name: '3° Bachillerato', description: 'Tercer curso de bachillerato' },
+  ],
+
+  subjects: [
+    { id: 'matematica', name: 'Matematica', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
+  ],
+
+  theme: {
+    primary: '#FCD116',
+    secondary: '#003893',
+    accent: '#CE1126',
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Dolares estadounidenses' },
+    cities: ['Quito', 'Guayaquil', 'Cuenca', 'Ambato', 'Manta', 'Loja'],
+    commonNames: {
+      male: ['Mateo', 'Jose', 'Juan', 'Daniel', 'David', 'Andres'],
+      female: ['Sofia', 'Camila', 'Valentina', 'Maria', 'Isabella', 'Daniela'],
+    },
+    culturalReferences: ['Mitad del Mundo', 'Galapagos', 'pasillo', 'ceviche', 'cacao', 'Cotopaxi'],
+  },
+
+  githubRepo: 'worldexams/saber-ec',
+  product: {
+    siteName: 'WorldExams Ecuador',
+    siteUrl: 'https://worldexams.app/ec',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'SENESCYT',
+    guideYear: 2026,
+    seoKeywords: ['senescyt ecuador', 'simulacro senescyt', 'admision universitaria ecuador'],
+    defaultDescription: 'Practica con simulacros y guias para SENESCYT y procesos de admision universitaria en Ecuador.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
+ * ðŸ‡§ðŸ‡· Brasil - ENEM
+ */
 export const brasilConfig: CountryConfig = {
   code: 'BR',
   name: 'Brasil',
@@ -517,6 +585,7 @@ export const brasilConfig: CountryConfig = {
 
   grades: [
     { id: 5, name: '5º Ano', description: 'Quinto ano do ensino fundamental' },
+    { id: 7, name: '7º Ano', description: 'Sétimo ano do ensino fundamental' },
     { id: 9, name: '9º Ano', description: 'Nono ano do ensino fundamental' },
     { id: 12, name: '3º Ano EM', description: 'Terceiro ano do ensino médio' },
   ],
@@ -737,6 +806,7 @@ export const allCountries: CountryConfig[] = [
   argentinaConfig,
   chileConfig,
   peruConfig,
+  ecuadorConfig,
   brasilConfig,
   ecuadorConfig,
   usaConfig,

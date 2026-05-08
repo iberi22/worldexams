@@ -112,7 +112,7 @@ describe('Scoring System', () => {
       expect(score.totalScore).toBe(455);
       expect(score.practiceScore).toBe(455);
       expect(score.stats.accuracy).toBe(1.0);
-      
+
       // Icfes estimate with 2 questions should be very low due to lack of evidence
       expect(score.icfesEstimate.score).toBeLessThan(250);
     });

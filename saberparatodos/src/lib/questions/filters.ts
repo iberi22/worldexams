@@ -1,6 +1,7 @@
 import type { AppQuestion } from '../api-service';
 import { CURRICULUM_CO, normalizeTopic } from '../../config/curriculum';
 import { subjectsMatch } from './subject';
+import type { QuestionSelectionRequest } from './types';
 import type { QuestionValidationResult } from './types';
 
 export function filterBySubject(questions: AppQuestion[], selectedSubject: string | null): AppQuestion[] {
@@ -108,4 +109,18 @@ export function filterValidQuestions(questions: AppQuestion[], minOptions: numbe
     validQuestions,
     invalidCount: Math.max(0, questions.length - validQuestions.length)
   };
+}
+
+export function applyFilters(questions: AppQuestion[], request: QuestionSelectionRequest): AppQuestion[] {
+  let result = questions;
+  result = filterByCefrLevel(result, request.minCefrLevel);
+  if (request.examMode === 'period' && request.period) {
+    result = filterByPeriod(result, {
+      examMode: request.examMode,
+      period: request.period,
+      subject: request.subject,
+      grade: request.grade,
+    });
+  }
+  return result;
 }
