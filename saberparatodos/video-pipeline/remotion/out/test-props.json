@@ -1,0 +1,12 @@
+{
+  "title": "Ecuaciones de Primer Grado",
+  "topic": "Matemáticas",
+  "steps": [
+    {"label": "Identificar la ecuación", "math": "2x + 5 = 13", "explanation": "Identifica los términos constantes y la variable."},
+    {"label": "Aislar la variable", "math": "2x = 13 - 5", "explanation": "Resta 5 de ambos lados."},
+    {"label": "Resolver", "math": "x = 8 / 2", "explanation": "Divide por el coeficiente."},
+    {"label": "Verificar", "math": "2(4) + 5 = 13", "explanation": "Sustituye y verifica."}
+  ],
+  "timecodes": [30, 90, 150, 210],
+  "duration": 270
+}
