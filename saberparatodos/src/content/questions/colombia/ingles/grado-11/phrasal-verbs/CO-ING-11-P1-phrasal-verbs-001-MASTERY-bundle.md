@@ -20,7 +20,7 @@ Two friends are planning to meet at the cinema.
 
  A) get up
  B) take off
- C) [x] wait up
+ C) [x] wait
  D) give in
 
 Question 3 (Difficulty 3)

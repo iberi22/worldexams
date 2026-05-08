@@ -144,6 +144,7 @@ function cacheCountry(code: CountryCode): void {
   if (typeof window !== 'undefined') {
     const data: CachedCountry = { code, timestamp: Date.now() };
     localStorage.setItem(CACHE_KEY, JSON.stringify(data));
+    document.cookie = `spt_country=${code}; path=/; max-age=31536000; SameSite=Lax`;
   }
 }
 
@@ -186,18 +187,9 @@ export function setCountryOverride(code: string): void {
   cacheCountry(countryCode);
 
   if (typeof window !== 'undefined') {
-    // Navigate to country-specific path
-    const path = window.location.pathname;
-    const countryPath = `/${countryCode.toLowerCase()}`;
-
-    // If already on a country path, replace it
-    if (path.match(/^\/(mx|ar|cl|pe|ec|br)\//)) {
-      window.location.href = path.replace(/^\/(mx|ar|cl|pe|ec|br)/, countryCode.toLowerCase());
-    } else if (path === '/') {
-      window.location.href = `${countryPath}/`;
-    } else {
-      window.location.href = `${countryPath}${path}`;
-    }
+    const url = new URL(window.location.href);
+    url.searchParams.set('country', countryCode);
+    window.location.href = url.toString();
   }
 }
 
