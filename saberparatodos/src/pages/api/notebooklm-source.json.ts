@@ -38,7 +38,17 @@ const OFFICIAL_RESOURCES = {
   US: [
     { name: 'College Board', url: 'https://satsuite.collegeboard.org/', description: 'Official SAT information and preparation resources' },
   ],
-} as const;
+  ES: [
+    { name: 'Ministerio de Educación', url: 'https://www.educacionfpyde.gob.es/', description: 'Información educativa oficial de España' },
+    { name: 'UNED', url: 'https://www.uned.es/', description: 'Información sobre acceso a la universidad' },
+  ],
+  PR: [
+    { name: 'Departamento de Educación', url: 'https://de.pr.gov/', description: 'Recursos educativos oficiales de Puerto Rico' },
+  ],
+  GQ: [
+    { name: 'Ministerio de Educación', url: 'https://www.guineaecuatorialpress.com/', description: 'Portal oficial de noticias y educación' },
+  ],
+} as Record<string, readonly { name: string; url: string; description: string }[]>;
 
 function getLanguageGuideline(language: string): string {
   return language === 'pt-BR'

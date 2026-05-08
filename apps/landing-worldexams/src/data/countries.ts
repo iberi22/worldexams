@@ -10,7 +10,7 @@ export interface Country {
   flag: string;
   flagStripe: string;
   status: 'live' | 'setup' | 'soon';
-  region: 'top10' | 'latam' | 'europe' | 'asia';
+  region: 'top10' | 'latam' | 'europe' | 'asia' | 'africa';
   questionCount?: number;
   folder?: string;  // Folder name in src/content/questions/ (defaults to code.toLowerCase())
   externalUrl?: string;  // External URL for dedicated exam platforms (e.g., saberparatodos)
@@ -200,6 +200,15 @@ export const countries: Country[] = [
     region: 'latam',
   },
   {
+    code: 'PR',
+    name: 'Puerto Rico',
+    exam: 'PAA (College Board)',
+    flag: '🇵🇷',
+    flagStripe: 'linear-gradient(to bottom, #E4002B 20%, #FFFFFF 20%, #FFFFFF 40%, #E4002B 40%, #E4002B 60%, #FFFFFF 60%, #FFFFFF 80%, #E4002B 80%)',
+    status: 'setup',
+    region: 'latam',
+  },
+  {
     code: 'CL',
     name: 'Chile',
     exam: 'PAES',
@@ -242,7 +251,7 @@ export const countries: Country[] = [
     name: 'España',
     exam: 'Selectividad / EBAU',
     flag: '🇪🇸',
-    flagStripe: 'linear-gradient(to right, #AA151B 25%, #F1BF00 25%, #F1BF00 75%, #AA151B 75%)',
+    flagStripe: 'linear-gradient(to bottom, #AA151B 25%, #F1BF00 25%, #F1BF00 75%, #AA151B 75%)',
     status: 'setup',
     region: 'europe',
   },
@@ -263,6 +272,17 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #012169 33%, #FFFFFF 33%, #FFFFFF 66%, #C8102E 66%)',
     status: 'setup',
     region: 'europe',
+  },
+
+  // AFRICA
+  {
+    code: 'GQ',
+    name: 'Guinea Ecuatorial',
+    exam: 'Selectividad',
+    flag: '🇬🇶',
+    flagStripe: 'linear-gradient(to bottom, #319400 33%, #FFFFFF 33%, #FFFFFF 66%, #E32118 66%)',
+    status: 'setup',
+    region: 'africa',
   },
 
   // ASIA-PACIFIC
