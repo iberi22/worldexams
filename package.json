@@ -38,14 +38,29 @@
     "jsdom": "^29.0.2",
     "rollup": "^4.59.0",
     "svelte": "^5.54.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "undici": "^7.25.0"
   },
   "overrides": {
     "rollup": "^4.59.0",
+    "protobufjs": "^7.5.5",
+    "jspdf": "^4.2.1",
+    "vite": "^7.3.2",
+    "undici": "^7.25.0",
+    "lodash": "^4.18.1",
+    "defu": "^6.1.7",
+    "picomatch": "^4.0.4",
+    "brace-expansion": "^5.0.5",
     "yaml": "^2.8.3",
-    "protobufjs": ">=8.0.1 <9.0.0 || >=7.5.5",
-    "dompurify": ">=3.4.0",
-    "hono": ">=4.12.14"
+    "dompurify": "^3.4.0",
+    "hono": "^4.12.14",
+    "miniflare": {
+      "undici": "^7.25.0"
+    },
+    "yaml-language-server": {
+      "yaml": "^2.8.3"
+    },
+    "smol-toml": "^1.6.1"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
