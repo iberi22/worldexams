@@ -4,7 +4,7 @@ import {
   type CountryCode as SharedCountryCode,
 } from '../../../config/countries.config';
 
-export type CountryCode = Extract<SharedCountryCode, 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR'>;
+export type CountryCode = Extract<SharedCountryCode, 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI'>;
 
 export interface Country {
   code: CountryCode;
@@ -14,7 +14,7 @@ export interface Country {
   hasContent: boolean;
 }
 
-const RUNTIME_COUNTRY_CODES: CountryCode[] = ['CO', 'MX', 'AR', 'CL', 'PE', 'EC', 'BR'];
+const RUNTIME_COUNTRY_CODES: CountryCode[] = ['CO', 'MX', 'AR', 'CL', 'PE', 'EC', 'BR', 'PA', 'CR', 'GT', 'DO', 'SV', 'HN', 'NI'];
 
 const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'hasContent'>> = {
   CO: { bundleCount: 589, hasContent: true },
@@ -24,6 +24,13 @@ const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'h
   PE: { bundleCount: 2, hasContent: true },
   EC: { bundleCount: 0, hasContent: false },
   BR: { bundleCount: 15, hasContent: true },
+  PA: { bundleCount: 0, hasContent: false },
+  CR: { bundleCount: 0, hasContent: false },
+  GT: { bundleCount: 0, hasContent: false },
+  DO: { bundleCount: 0, hasContent: false },
+  SV: { bundleCount: 0, hasContent: false },
+  HN: { bundleCount: 0, hasContent: false },
+  NI: { bundleCount: 0, hasContent: false },
 };
 
 export const allCountries: Country[] = RUNTIME_COUNTRY_CODES.map((code) => {
