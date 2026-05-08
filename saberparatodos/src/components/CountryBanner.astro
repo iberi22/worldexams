@@ -40,7 +40,6 @@ const currentCountryData = countries.find(c => c.code === currentCountry) || cou
                 title={`${country.examName}: ${country.examFullName}`}
               >
                 <span class="flag">{country.flag}</span>
-                <span class="code">{country.code}</span>
               </button>
             ))
           }
@@ -207,11 +206,6 @@ const currentCountryData = countries.find(c => c.code === currentCountry) || cou
   .country-btn .flag {
     font-size: 1.2rem;
     line-height: 1;
-  }
-
-  .country-btn .code {
-    font-weight: 700;
-    font-size: 0.75rem;
   }
 
   .close-btn {
