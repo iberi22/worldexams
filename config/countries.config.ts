@@ -585,6 +585,7 @@ export const brasilConfig: CountryConfig = {
 
   grades: [
     { id: 5, name: '5º Ano', description: 'Quinto ano do ensino fundamental' },
+    { id: 7, name: '7º Ano', description: 'Sétimo ano do ensino fundamental' },
     { id: 9, name: '9º Ano', description: 'Nono ano do ensino fundamental' },
     { id: 12, name: '3º Ano EM', description: 'Terceiro ano do ensino médio' },
   ],
