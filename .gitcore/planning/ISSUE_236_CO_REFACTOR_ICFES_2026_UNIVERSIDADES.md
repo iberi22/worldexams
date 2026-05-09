@@ -22,7 +22,9 @@ Colombia es el país base del sistema. Este issue audita el currículo existente
 - [ ] Priorizar generación para grados 6-9
 
 ### Fase 3: Top 10 Universidades
-- [ ] UNAL (examen propio por sede), UdeA, Univalle, UIS, U. de Caldas, U. de Cartagena
+- [/] UNAL (examen propio por sede): [PREU_UNAL_BLUEPRINT.md](file:///e:/scripts-python/worldexams/docs/specs/PREU_UNAL_BLUEPRINT.md)
+- [/] UdeA: [PREU_UDEA_BLUEPRINT.md](file:///e:/scripts-python/worldexams/docs/specs/PREU_UDEA_BLUEPRINT.md)
+- [ ] Univalle, UIS, U. de Caldas, U. de Cartagena
 - [ ] Javeriana (PEI), Uniandes, EAFIT, Uninorte
 
 ### Fase 4: Saber Pro
@@ -31,5 +33,6 @@ Colombia es el país base del sistema. Este issue audita el currículo existente
 
 ## Criterios de Aceptación
 - [ ] `docs/specs/curriculums/COLOMBIA_CURRICULUM.md` publicado (nuevo, más completo)
-- [ ] Top 10 universidades con proceso de admisión documentado
+- [x] Top 2 universidades (UNAL, UdeA) con blueprint documentado
 - [ ] Al menos 10 bundles por asignatura en grado 11
+- [ ] Fase PREU: 5 bundles MASTERY para UNAL (v5.2)
