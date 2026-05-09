@@ -1,53 +1,38 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import MenGuidelinesContent from '../components/MenGuidelinesContent.svelte';
-import { countryConfig } from '../config';
+import TenantRouteNotice from '../components/TenantRouteNotice.astro';
+import { resolveRuntimeCountryConfig } from '../config';
+import { getTenantRouteAvailability } from '../config/tenant-experience';
 
-const title = `Normas MEN 2026 | ${countryConfig.product.siteName}`;
-const description = "Consulta los lineamientos del Ministerio de Educación Nacional de Colombia para las pruebas Saber y derechos básicos de aprendizaje.";
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const availability = getTenantRouteAvailability(country, 'normasMen');
 ---
 
-<Layout title={title} description={description}>
+<Layout
+  title={`Lineamientos oficiales | ${country.product.siteName}`}
+  description={`Base normativa visible para el tenant ${country.name}.`}
+>
   <div class="min-h-screen bg-[#121212] pt-32 pb-24 px-4 overflow-hidden relative">
-    <!-- Ambient backgrounds -->
     <div class="absolute top-[10%] -left-[10%] w-[500px] h-[500px] bg-blue-500/5 rounded-full blur-[120px]"></div>
     <div class="absolute bottom-[10%] -right-[10%] w-[500px] h-[500px] bg-emerald-500/5 rounded-full blur-[120px]"></div>
 
     <div class="max-w-4xl mx-auto relative z-10">
-      <nav class="mb-12 flex items-center justify-center gap-4 text-[10px] font-black uppercase tracking-[0.2em] font-mono">
-        <a href="/" class="text-white/20 hover:text-emerald-400 transition-colors">Inicio</a>
-        <span class="text-white/10">/</span>
-        <span class="text-white/60">Normas MEN 2026</span>
-      </nav>
+      {country.code === 'CO' ? (
+        <>
+          <nav class="mb-12 flex items-center justify-center gap-4 text-[10px] font-black uppercase tracking-[0.2em] font-mono">
+            <a href="/" class="text-white/20 hover:text-emerald-400 transition-colors">Inicio</a>
+            <span class="text-white/10">/</span>
+            <span class="text-white/60">Normas MEN 2026</span>
+          </nav>
 
-      <div class="bg-[#1a1a1a]/40 border border-white/5 backdrop-blur-sm rounded-[3rem] p-8 md:p-16 shadow-2xl">
-        <MenGuidelinesContent client:load />
-      </div>
-
-      <div class="mt-16 text-center">
-        <p class="text-white/30 text-xs mb-8">
-           Esta área sirve como base de conocimientos oficial para los motores de generación de World Exams.
-        </p>
-        <div class="flex justify-center gap-4">
-          <a
-            href="https://www.mineducacion.gov.co"
-            target="_blank"
-            class="px-6 py-3 bg-white/5 border border-white/10 rounded-xl text-xs font-bold uppercase tracking-widest text-white/60 hover:text-white hover:bg-white/10 transition-all"
-          >
-            Portal Mineducación
-          </a>
-          <a
-            href="/"
-            class="px-6 py-3 bg-emerald-500/10 border border-emerald-500/20 rounded-xl text-xs font-bold uppercase tracking-widest text-emerald-400 hover:bg-emerald-500/20 transition-all"
-          >
-            Volver a Practicar
-          </a>
-        </div>
-      </div>
+          <div class="bg-[#1a1a1a]/40 border border-white/5 backdrop-blur-sm rounded-[3rem] p-8 md:p-16 shadow-2xl">
+            <MenGuidelinesContent client:load />
+          </div>
+        </>
+      ) : (
+        <TenantRouteNotice country={country} availability={availability} />
+      )}
     </div>
   </div>
 </Layout>
-
-<style>
-  /* Extra page styling */
-</style>

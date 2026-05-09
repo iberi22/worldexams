@@ -1,0 +1,53 @@
+---
+import type { CountryConfig as RuntimeCountryConfig } from '../config';
+import type { TenantRouteAvailability } from '../config/tenant-experience';
+
+interface Props {
+  country: RuntimeCountryConfig;
+  availability: TenantRouteAvailability;
+  ctaHref?: string;
+  ctaLabel?: string;
+}
+
+const {
+  country,
+  availability,
+  ctaHref = '/guia-examen',
+  ctaLabel = `Volver a la guia de ${country.examName}`,
+} = Astro.props;
+---
+
+<section class="mx-auto max-w-4xl rounded-[2rem] border border-white/10 bg-[#101115]/90 p-8 text-left shadow-2xl">
+  <div class="inline-flex rounded-full border border-amber-400/30 bg-amber-400/10 px-3 py-1 text-[11px] font-black uppercase tracking-[0.28em] text-amber-200">
+    {availability.badge}
+  </div>
+
+  <h1 class="mt-6 text-3xl font-black tracking-tight text-[#F5F5DC] md:text-5xl">
+    {availability.title}
+  </h1>
+  <p class="mt-4 max-w-2xl text-base leading-relaxed text-white/70 md:text-lg">
+    {availability.description}
+  </p>
+
+  <div class="mt-8 rounded-2xl border border-white/10 bg-white/[0.03] p-5 text-sm leading-relaxed text-white/65">
+    <p>
+      Tenant activo: <strong class="text-white">{country.name}</strong>.
+      Esta superficie no reutiliza datasets, lineamientos ni copy heredado de otros paises mientras no exista una version validada para <strong class="text-white">{country.examAuthority}</strong>.
+    </p>
+  </div>
+
+  <div class="mt-8 flex flex-wrap gap-3">
+    <a
+      href={ctaHref}
+      class="rounded-xl bg-emerald-500 px-5 py-3 text-sm font-bold text-black transition hover:bg-emerald-400"
+    >
+      {ctaLabel}
+    </a>
+    <a
+      href="/"
+      class="rounded-xl border border-white/15 px-5 py-3 text-sm font-bold text-white/85 transition hover:border-white/25 hover:text-white"
+    >
+      Ir a la practica
+    </a>
+  </div>
+</section>

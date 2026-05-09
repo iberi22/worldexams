@@ -17,6 +17,7 @@ Preview should use a separate Worker on `*.workers.dev`, not `page.dev`.
 4. Deploy production from `main` only unless the operator explicitly overrides the guard.
 5. Verify the live domain after deployment.
 6. Preview deploys must not publish routes for `saberparatodos.space`.
+7. Post-deploy verification must include `/guia-examen?country=co`, `/guia-examen?country=mx`, one generic tenant fallback, `/api/questions` and `/build-info.json`.
 
 ## Standard Flow
 
@@ -77,3 +78,4 @@ If `saberparatodos.space` returns `404` after deploy:
 2. Confirm Worker routes are active on both hostnames.
 3. Confirm `dist/server/wrangler.json` was normalized.
 4. Confirm no one used `wrangler pages deploy` for the production app.
+5. Confirm `/build-info.json` matches the local commit and that MX no longer renders ICFES guide blocks.
