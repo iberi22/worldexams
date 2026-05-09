@@ -276,8 +276,8 @@ export const mexicoConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-mx',
   product: {
     siteName: 'WorldExams Mexico',
-    siteUrl: 'https://worldexams.github.io/saber-mx',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/saber-mx',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'EXANI',
     guideYear: 2026,
     seoKeywords: [
@@ -351,8 +351,8 @@ export const argentinaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-ar',
   product: {
     siteName: 'WorldExams Argentina',
-    siteUrl: 'https://worldexams.app/ar',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/ar',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'APRENDER',
     guideYear: 2026,
     seoKeywords: ['aprender argentina', 'simulacro aprender', 'practica escolar argentina'],
@@ -419,8 +419,8 @@ export const chileConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-cl',
   product: {
     siteName: 'WorldExams Chile',
-    siteUrl: 'https://worldexams.app/cl',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/cl',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SIMCE',
     guideYear: 2026,
     seoKeywords: ['simce chile', 'practica simce', 'evaluacion escolar chile'],
@@ -488,8 +488,8 @@ export const peruConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-pe',
   product: {
     siteName: 'WorldExams Peru',
-    siteUrl: 'https://worldexams.app/pe',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/pe',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ECE',
     guideYear: 2026,
     seoKeywords: ['ece peru', 'simulacro ece', 'evaluacion censal estudiantes'],
@@ -556,8 +556,8 @@ export const ecuadorConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-ec',
   product: {
     siteName: 'WorldExams Ecuador',
-    siteUrl: 'https://worldexams.app/ec',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/ec',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SENESCYT',
     guideYear: 2026,
     seoKeywords: ['senescyt ecuador', 'simulacro senescyt', 'admision universitaria ecuador'],
@@ -625,8 +625,8 @@ export const brasilConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-br',
   product: {
     siteName: 'WorldExams Brasil',
-    siteUrl: 'https://worldexams.app/br',
-    contactEmail: 'contato@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/br',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ENEM',
     guideYear: 2026,
     seoKeywords: ['enem brasil', 'simulado enem', 'pratica enem'],
@@ -701,8 +701,8 @@ export const usaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-us',
   product: {
     siteName: 'WorldExams US',
-    siteUrl: 'https://worldexams.app/us',
-    contactEmail: 'support@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/us',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SAT',
     guideYear: 2026,
     seoKeywords: ['sat practice', 'exam prep usa', 'high school assessment practice'],
@@ -725,6 +725,390 @@ export const usaConfig: CountryConfig = {
 
 // =============================================================================
 // HELPER FUNCTIONS
+// =============================================================================
+
+/**
+ * 🇵🇦 Panamá - CRECER / Graduandos
+ */
+export const panamaConfig: CountryConfig = {
+  code: 'PA',
+  name: 'Panamá',
+  nameEnglish: 'Panama',
+  flag: '🇵🇦',
+  examName: 'CRECER / Graduandos',
+  examFullName: 'Pruebas Nacionales CRECER y de Graduandos',
+  examAuthority: 'MEDUCA',
+  locale: 'es-PA',
+  timezone: 'America/Panama',
+  grades: [
+    { id: 3, name: '3° Primaria', description: 'Tercer grado de educación básica' },
+    { id: 6, name: '6° Primaria', description: 'Sexto grado de educación básica' },
+    { id: 9, name: '9° Pre-Media', description: 'Noveno grado (Tercer año de pre-media)' },
+    { id: 12, name: '12° Media', description: 'Duodécimo grado (Tercer año de media)' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#005293',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#D21034',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Balboas / Dólares' },
+    cities: ['Ciudad de Panamá', 'Colón', 'David', 'La Chorrera', 'Santiago'],
+    commonNames: {
+      male: ['Ricardo', 'Jorge', 'Alberto', 'Carlos', 'Luis'],
+      female: ['María', 'Ana', 'Yariela', 'Zulay', 'Itzel'],
+    },
+    culturalReferences: ['Canal de Panamá', 'puente de las Américas', 'pollera', 'tamborito', 'sancocho'],
+  },
+  githubRepo: 'worldexams/saber-pa',
+  product: {
+    siteName: 'WorldExams Panamá',
+    siteUrl: 'https://world-exams.github.io/pa',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MEDUCA',
+    guideYear: 2026,
+    seoKeywords: ['pruebas graduandos panama', 'meduca crecer', 'simulacro panama'],
+    defaultDescription: 'Práctica para pruebas nacionales CRECER y de Graduandos en Panamá.',
+  },
+};
+
+/**
+ * 🇨🇷 Costa Rica - Pruebas Nacionales
+ */
+export const costaRicaConfig: CountryConfig = {
+  code: 'CR',
+  name: 'Costa Rica',
+  nameEnglish: 'Costa Rica',
+  flag: '🇨🇷',
+  examName: 'PNE',
+  examFullName: 'Pruebas Nacionales Estandarizadas',
+  examAuthority: 'MEP',
+  locale: 'es-CR',
+  timezone: 'America/Costa_Rica',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado (II Ciclo)' },
+    { id: 9, name: '9° Secundaria', description: 'Noveno año (III Ciclo)' },
+    { id: 11, name: '11° Bachillerato', description: 'Undécimo año (Educación Diversificada)' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
+    { id: 'civica', name: 'Educación Cívica', icon: '🏛️', globalId: 'civics' },
+  ],
+  theme: {
+    primary: '#002B7F',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#CE1126',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'CRC', symbol: '₡', name: 'Colones' },
+    cities: ['San José', 'Alajuela', 'Cartago', 'Heredia', 'Puntarenas', 'Limón'],
+    commonNames: {
+      male: ['José', 'Luis', 'Carlos', 'Andrey', 'Keylor'],
+      female: ['María', 'Ana', 'Daniela', 'Ximena', 'Valeria'],
+    },
+    culturalReferences: ['Pura Vida', 'volcán Arenal', 'café', 'gallo pinto', 'carreta típica'],
+  },
+  githubRepo: 'worldexams/saber-cr',
+  product: {
+    siteName: 'WorldExams Costa Rica',
+    siteUrl: 'https://world-exams.github.io/cr',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MEP',
+    guideYear: 2026,
+    seoKeywords: ['pruebas nacionales estandarizadas', 'mep costa rica', 'simulacro cr'],
+    defaultDescription: 'Preparación para las Pruebas Nacionales Estandarizadas del MEP en Costa Rica.',
+  },
+};
+
+/**
+ * 🇬🇹 Guatemala - Graduandos
+ */
+export const guatemalaConfig: CountryConfig = {
+  code: 'GT',
+  name: 'Guatemala',
+  nameEnglish: 'Guatemala',
+  flag: '🇬🇹',
+  examName: 'Graduandos',
+  examFullName: 'Evaluación Nacional de Graduandos',
+  examAuthority: 'MINEDUC',
+  locale: 'es-GT',
+  timezone: 'America/Guatemala',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado primaria' },
+    { id: 9, name: '3° Básico', description: 'Tercer año de ciclo básico' },
+    { id: 11, name: 'Diversificado', description: 'Último año de ciclo diversificado' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lenguaje', name: 'Comunicación y Lenguaje', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#4997D0',      // Celeste
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#0061A0',       // Azul oscuro
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'GTQ', symbol: 'Q', name: 'Quetzales' },
+    cities: ['Ciudad de Guatemala', 'Mixco', 'Quetzaltenango', 'Villa Nueva', 'Antigua'],
+    commonNames: {
+      male: ['Juan', 'José', 'Carlos', 'Luis', 'Rigoberto'],
+      female: ['María', 'Ana', 'Rosa', 'Glenda', 'Xiomara'],
+    },
+    culturalReferences: ['Tikal', 'Quetzal', 'marimba', 'volcanes', 'tejidos típicos'],
+  },
+  githubRepo: 'worldexams/saber-gt',
+  product: {
+    siteName: 'WorldExams Guatemala',
+    siteUrl: 'https://world-exams.github.io/gt',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MINEDUC',
+    guideYear: 2026,
+    seoKeywords: ['evaluacion graduandos guatemala', 'mineduc', 'simulacro gt'],
+    defaultDescription: 'Práctica para la evaluación nacional de graduandos en Guatemala.',
+  },
+};
+
+/**
+ * 🇩🇴 República Dominicana - Pruebas Nacionales
+ */
+export const dominicanRepublicConfig: CountryConfig = {
+  code: 'DO',
+  name: 'República Dominicana',
+  nameEnglish: 'Dominican Republic',
+  flag: '🇩🇴',
+  examName: 'Pruebas Nacionales',
+  examFullName: 'Pruebas Nacionales de la República Dominicana',
+  examAuthority: 'MINERD',
+  locale: 'es-DO',
+  timezone: 'America/Santo_Domingo',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado primaria' },
+    { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
+    { id: 12, name: '6° Secundaria', description: 'Sexto grado de secundaria' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lengua-espanola', name: 'Lengua Española', icon: '📖', globalId: 'language' },
+    { id: 'ciencias-naturaleza', name: 'Ciencias de la Naturaleza', icon: '🔬', globalId: 'science' },
+    { id: 'ciencias-sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#002D62',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#CE1126',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'DOP', symbol: '$', name: 'Pesos dominicanos' },
+    cities: ['Santo Domingo', 'Santiago', 'La Romana', 'Puerto Plata', 'Punta Cana'],
+    commonNames: {
+      male: ['Juan', 'José', 'Luis', 'Nelson', 'Rafael'],
+      female: ['María', 'Altagracia', 'Carmen', 'Rosa', 'Yanet'],
+    },
+    culturalReferences: ['Béisbol', 'Merengue', 'Bachata', 'Zona Colonial', 'mangú'],
+  },
+  githubRepo: 'worldexams/saber-do',
+  product: {
+    siteName: 'WorldExams Dominicana',
+    siteUrl: 'https://world-exams.github.io/do',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MINERD',
+    guideYear: 2026,
+    seoKeywords: ['pruebas nacionales dominicana', 'minerd', 'simulacro do'],
+    defaultDescription: 'Simulacros y práctica para las Pruebas Nacionales de República Dominicana.',
+  },
+};
+
+/**
+ * 🇸🇻 El Salvador - AVANZO
+ */
+export const elSalvadorConfig: CountryConfig = {
+  code: 'SV',
+  name: 'El Salvador',
+  nameEnglish: 'El Salvador',
+  flag: '🇸🇻',
+  examName: 'AVANZO',
+  examFullName: 'Prueba AVANZO',
+  examAuthority: 'MINED',
+  locale: 'es-SV',
+  timezone: 'America/El_Salvador',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
+    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
+    { id: 11, name: 'Bachillerato', description: 'Segundo año de bachillerato' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lenguaje', name: 'Lenguaje y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Estudios Sociales y Cívica', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#0047AB',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#D1D1D1',       // Gris/Plata
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Dólar / Bitcoin' },
+    cities: ['San Salvador', 'Santa Ana', 'San Miguel', 'Soyapango', 'Santa Tecla'],
+    commonNames: {
+      male: ['José', 'Luis', 'Carlos', 'Nayib', 'Jorge'],
+      female: ['María', 'Ana', 'Guadalupe', 'Fátima', 'Elena'],
+    },
+    culturalReferences: ['Pupusas', 'volcán de Izalco', 'Surf City', 'Joya de Cerén', 'Torogoz'],
+  },
+  githubRepo: 'worldexams/saber-sv',
+  product: {
+    siteName: 'WorldExams El Salvador',
+    siteUrl: 'https://world-exams.github.io/sv',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MINED',
+    guideYear: 2026,
+    seoKeywords: ['prueba avanzo', 'mined el salvador', 'simulacro sv'],
+    defaultDescription: 'Prepárate para la prueba AVANZO en El Salvador.',
+  },
+};
+
+/**
+ * 🇭🇳 Honduras - Pruebas Nacionales
+ */
+export const hondurasConfig: CountryConfig = {
+  code: 'HN',
+  name: 'Honduras',
+  nameEnglish: 'Honduras',
+  flag: '🇭🇳',
+  examName: 'Pruebas Nacionales',
+  examFullName: 'Pruebas Nacionales de Honduras',
+  examAuthority: 'SEDUC',
+  locale: 'es-HN',
+  timezone: 'America/Tegucigalpa',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
+    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
+    { id: 11, name: 'Bachillerato', description: 'Último año de media' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#0073CF',      // Azul Maya
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#00BFFF',       // Celeste
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'HNL', symbol: 'L', name: 'Lempiras' },
+    cities: ['Tegucigalpa', 'San Pedro Sula', 'La Ceiba', 'Choloma', 'Comayagua'],
+    commonNames: {
+      male: ['Juan', 'José', 'Carlos', 'Luis', 'Rigoberto'],
+      female: ['María', 'Ana', 'Xiomara', 'Suyapa', 'Iris'],
+    },
+    culturalReferences: ['Copán Ruinas', 'Baleadas', 'Punta', 'Islas de la Bahía', 'Lempira'],
+  },
+  githubRepo: 'worldexams/saber-hn',
+  product: {
+    siteName: 'WorldExams Honduras',
+    siteUrl: 'https://world-exams.github.io/hn',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'SEDUC',
+    guideYear: 2026,
+    seoKeywords: ['pruebas nacionales honduras', 'seduc', 'simulacro hn'],
+    defaultDescription: 'Práctica para las pruebas nacionales de Honduras.',
+  },
+};
+
+/**
+ * 🇳🇮 Nicaragua - Bachillerato
+ */
+export const nicaraguaConfig: CountryConfig = {
+  code: 'NI',
+  name: 'Nicaragua',
+  nameEnglish: 'Nicaragua',
+  flag: '🇳🇮',
+  examName: 'Bachillerato',
+  examFullName: 'Exámenes de Bachillerato',
+  examAuthority: 'MINED',
+  locale: 'es-NI',
+  timezone: 'America/Managua',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
+    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
+    { id: 11, name: '11° Bachillerato', description: 'Undécimo grado' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'lengua-literatura', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'geografia-historia', name: 'Geografía e Historia', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#0067C6',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#FFD700',       // Oro
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'NIO', symbol: 'C$', name: 'Córdobas' },
+    cities: ['Managua', 'León', 'Granada', 'Masaya', 'Chinandega'],
+    commonNames: {
+      male: ['Juan', 'José', 'Carlos', 'Luis', 'Augusto'],
+      female: ['María', 'Ana', 'Gioconda', 'Rosario', 'Idania'],
+    },
+    culturalReferences: ['Rubén Darío', 'volcán Masaya', 'lago Cocibolca', 'Gallo Pinto', 'Güegüense'],
+  },
+  githubRepo: 'worldexams/saber-ni',
+  product: {
+    siteName: 'WorldExams Nicaragua',
+    siteUrl: 'https://world-exams.github.io/ni',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MINED',
+    guideYear: 2026,
+    seoKeywords: ['examenes bachillerato nicaragua', 'mined', 'simulacro ni'],
+    defaultDescription: 'Práctica para los exámenes de bachillerato en Nicaragua.',
+  },
+};
+
+// =============================================================================
+// HELPER FUNCTIONS & EXPORTS
 // =============================================================================
 
 /**
@@ -796,383 +1180,3 @@ export function generateThemeCSS(theme: ThemeConfig): string {
 }
   `.trim();
 }
-
-/**
- * 🇵🇦 Panamá - CRECER / Graduandos
- */
-export const panamaConfig: CountryConfig = {
-  code: 'PA',
-  name: 'Panamá',
-  nameEnglish: 'Panama',
-  flag: '🇵🇦',
-  examName: 'CRECER / Graduandos',
-  examFullName: 'Pruebas Nacionales CRECER y de Graduandos',
-  examAuthority: 'MEDUCA',
-  locale: 'es-PA',
-  timezone: 'America/Panama',
-  grades: [
-    { id: 3, name: '3° Primaria', description: 'Tercer grado de educación básica' },
-    { id: 6, name: '6° Primaria', description: 'Sexto grado de educación básica' },
-    { id: 9, name: '9° Pre-Media', description: 'Noveno grado (Tercer año de pre-media)' },
-    { id: 12, name: '12° Media', description: 'Duodécimo grado (Tercer año de media)' },
-  ],
-  subjects: [
-    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
-    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias', icon: '🔬', globalId: 'science' },
-    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#005293',      // Azul
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#D21034',       // Rojo
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'USD', symbol: '$', name: 'Balboas / Dólares' },
-    cities: ['Ciudad de Panamá', 'Colón', 'David', 'La Chorrera', 'Santiago'],
-    commonNames: {
-      male: ['Ricardo', 'Jorge', 'Alberto', 'Carlos', 'Luis'],
-      female: ['María', 'Ana', 'Yariela', 'Zulay', 'Itzel'],
-    },
-    culturalReferences: ['Canal de Panamá', 'puente de las Américas', 'pollera', 'tamborito', 'sancocho'],
-  },
-  githubRepo: 'worldexams/saber-pa',
-  product: {
-    siteName: 'WorldExams Panamá',
-    siteUrl: 'https://worldexams.app/pa',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MEDUCA',
-    guideYear: 2026,
-    seoKeywords: ['pruebas graduandos panama', 'meduca crecer', 'simulacro panama'],
-    defaultDescription: 'Práctica para pruebas nacionales CRECER y de Graduandos en Panamá.',
-  },
-};
-
-/**
- * 🇨🇷 Costa Rica - Pruebas Nacionales
- */
-export const costaRicaConfig: CountryConfig = {
-  code: 'CR',
-  name: 'Costa Rica',
-  nameEnglish: 'Costa Rica',
-  flag: '🇨🇷',
-  examName: 'PNE',
-  examFullName: 'Pruebas Nacionales Estandarizadas',
-  examAuthority: 'MEP',
-  locale: 'es-CR',
-  timezone: 'America/Costa_Rica',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado (II Ciclo)' },
-    { id: 9, name: '9° Secundaria', description: 'Noveno año (III Ciclo)' },
-    { id: 11, name: '11° Bachillerato', description: 'Undécimo año (Educación Diversificada)' },
-  ],
-  subjects: [
-    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
-    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias', icon: '🔬', globalId: 'science' },
-    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
-    { id: 'civica', name: 'Educación Cívica', icon: '🏛️', globalId: 'civics' },
-  ],
-  theme: {
-    primary: '#002B7F',      // Azul
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#CE1126',       // Rojo
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'CRC', symbol: '₡', name: 'Colones' },
-    cities: ['San José', 'Alajuela', 'Cartago', 'Heredia', 'Puntarenas', 'Limón'],
-    commonNames: {
-      male: ['José', 'Luis', 'Carlos', 'Andrey', 'Keylor'],
-      female: ['María', 'Ana', 'Daniela', 'Ximena', 'Valeria'],
-    },
-    culturalReferences: ['Pura Vida', 'volcán Arenal', 'café', 'gallo pinto', 'carreta típica'],
-  },
-  githubRepo: 'worldexams/saber-cr',
-  product: {
-    siteName: 'WorldExams Costa Rica',
-    siteUrl: 'https://worldexams.app/cr',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MEP',
-    guideYear: 2026,
-    seoKeywords: ['pruebas nacionales estandarizadas', 'mep costa rica', 'simulacro cr'],
-    defaultDescription: 'Preparación para las Pruebas Nacionales Estandarizadas del MEP en Costa Rica.',
-  },
-};
-
-/**
- * 🇬🇹 Guatemala - Graduandos
- */
-export const guatemalaConfig: CountryConfig = {
-  code: 'GT',
-  name: 'Guatemala',
-  nameEnglish: 'Guatemala',
-  flag: '🇬🇹',
-  examName: 'Graduandos',
-  examFullName: 'Evaluación Nacional de Graduandos',
-  examAuthority: 'MINEDUC',
-  locale: 'es-GT',
-  timezone: 'America/Guatemala',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado primaria' },
-    { id: 9, name: '3° Básico', description: 'Tercer año de ciclo básico' },
-    { id: 11, name: 'Diversificado', description: 'Último año de ciclo diversificado' },
-  ],
-  subjects: [
-    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
-    { id: 'lenguaje', name: 'Comunicación y Lenguaje', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
-    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#4997D0',      // Celeste
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#0061A0',       // Azul oscuro
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'GTQ', symbol: 'Q', name: 'Quetzales' },
-    cities: ['Ciudad de Guatemala', 'Mixco', 'Quetzaltenango', 'Villa Nueva', 'Antigua'],
-    commonNames: {
-      male: ['Juan', 'José', 'Carlos', 'Luis', 'Rigoberto'],
-      female: ['María', 'Ana', 'Rosa', 'Glenda', 'Xiomara'],
-    },
-    culturalReferences: ['Tikal', 'Quetzal', 'marimba', 'volcanes', 'tejidos típicos'],
-  },
-  githubRepo: 'worldexams/saber-gt',
-  product: {
-    siteName: 'WorldExams Guatemala',
-    siteUrl: 'https://worldexams.app/gt',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MINEDUC',
-    guideYear: 2026,
-    seoKeywords: ['evaluacion graduandos guatemala', 'mineduc', 'simulacro gt'],
-    defaultDescription: 'Práctica para la evaluación nacional de graduandos en Guatemala.',
-  },
-};
-
-/**
- * 🇩🇴 República Dominicana - Pruebas Nacionales
- */
-export const dominicanRepublicConfig: CountryConfig = {
-  code: 'DO',
-  name: 'República Dominicana',
-  nameEnglish: 'Dominican Republic',
-  flag: '🇩🇴',
-  examName: 'Pruebas Nacionales',
-  examFullName: 'Pruebas Nacionales de la República Dominicana',
-  examAuthority: 'MINERD',
-  locale: 'es-DO',
-  timezone: 'America/Santo_Domingo',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado primaria' },
-    { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
-    { id: 12, name: '6° Secundaria', description: 'Sexto grado de secundaria' },
-  ],
-  subjects: [
-    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
-    { id: 'lengua-espanola', name: 'Lengua Española', icon: '📖', globalId: 'language' },
-    { id: 'ciencias-naturaleza', name: 'Ciencias de la Naturaleza', icon: '🔬', globalId: 'science' },
-    { id: 'ciencias-sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#002D62',      // Azul
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#CE1126',       // Rojo
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'DOP', symbol: '$', name: 'Pesos dominicanos' },
-    cities: ['Santo Domingo', 'Santiago', 'La Romana', 'Puerto Plata', 'Punta Cana'],
-    commonNames: {
-      male: ['Juan', 'José', 'Luis', 'Nelson', 'Rafael'],
-      female: ['María', 'Altagracia', 'Carmen', 'Rosa', 'Yanet'],
-    },
-    culturalReferences: ['Béisbol', 'Merengue', 'Bachata', 'Zona Colonial', 'mangú'],
-  },
-  githubRepo: 'worldexams/saber-do',
-  product: {
-    siteName: 'WorldExams Dominicana',
-    siteUrl: 'https://worldexams.app/do',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MINERD',
-    guideYear: 2026,
-    seoKeywords: ['pruebas nacionales dominicana', 'minerd', 'simulacro do'],
-    defaultDescription: 'Simulacros y práctica para las Pruebas Nacionales de República Dominicana.',
-  },
-};
-
-/**
- * 🇸🇻 El Salvador - AVANZO
- */
-export const elSalvadorConfig: CountryConfig = {
-  code: 'SV',
-  name: 'El Salvador',
-  nameEnglish: 'El Salvador',
-  flag: '🇸🇻',
-  examName: 'AVANZO',
-  examFullName: 'Prueba AVANZO',
-  examAuthority: 'MINED',
-  locale: 'es-SV',
-  timezone: 'America/El_Salvador',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
-    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
-    { id: 11, name: 'Bachillerato', description: 'Segundo año de bachillerato' },
-  ],
-  subjects: [
-    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
-    { id: 'lenguaje', name: 'Lenguaje y Literatura', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
-    { id: 'sociales', name: 'Estudios Sociales y Cívica', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#0047AB',      // Azul
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#D1D1D1',       // Gris/Plata
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'USD', symbol: '$', name: 'Dólar / Bitcoin' },
-    cities: ['San Salvador', 'Santa Ana', 'San Miguel', 'Soyapango', 'Santa Tecla'],
-    commonNames: {
-      male: ['José', 'Luis', 'Carlos', 'Nayib', 'Jorge'],
-      female: ['María', 'Ana', 'Guadalupe', 'Fátima', 'Elena'],
-    },
-    culturalReferences: ['Pupusas', 'volcán de Izalco', 'Surf City', 'Joya de Cerén', 'Torogoz'],
-  },
-  githubRepo: 'worldexams/saber-sv',
-  product: {
-    siteName: 'WorldExams El Salvador',
-    siteUrl: 'https://worldexams.app/sv',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MINED',
-    guideYear: 2026,
-    seoKeywords: ['prueba avanzo', 'mined el salvador', 'simulacro sv'],
-    defaultDescription: 'Prepárate para la prueba AVANZO en El Salvador.',
-  },
-};
-
-/**
- * 🇭🇳 Honduras - Pruebas Nacionales
- */
-export const hondurasConfig: CountryConfig = {
-  code: 'HN',
-  name: 'Honduras',
-  nameEnglish: 'Honduras',
-  flag: '🇭🇳',
-  examName: 'Pruebas Nacionales',
-  examFullName: 'Pruebas Nacionales de Honduras',
-  examAuthority: 'SEDUC',
-  locale: 'es-HN',
-  timezone: 'America/Tegucigalpa',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
-    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
-    { id: 11, name: 'Bachillerato', description: 'Último año de media' },
-  ],
-  subjects: [
-    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
-    { id: 'espanol', name: 'Español', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
-    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#0073CF',      // Azul Maya
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#00BFFF',       // Celeste
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'HNL', symbol: 'L', name: 'Lempiras' },
-    cities: ['Tegucigalpa', 'San Pedro Sula', 'La Ceiba', 'Choloma', 'Comayagua'],
-    commonNames: {
-      male: ['Juan', 'José', 'Carlos', 'Luis', 'Rigoberto'],
-      female: ['María', 'Ana', 'Xiomara', 'Suyapa', 'Iris'],
-    },
-    culturalReferences: ['Copán Ruinas', 'Baleadas', 'Punta', 'Islas de la Bahía', 'Lempira'],
-  },
-  githubRepo: 'worldexams/saber-hn',
-  product: {
-    siteName: 'WorldExams Honduras',
-    siteUrl: 'https://worldexams.app/hn',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'SEDUC',
-    guideYear: 2026,
-    seoKeywords: ['pruebas nacionales honduras', 'seduc', 'simulacro hn'],
-    defaultDescription: 'Práctica para las pruebas nacionales de Honduras.',
-  },
-};
-
-/**
- * 🇳🇮 Nicaragua - Bachillerato
- */
-export const nicaraguaConfig: CountryConfig = {
-  code: 'NI',
-  name: 'Nicaragua',
-  nameEnglish: 'Nicaragua',
-  flag: '🇳🇮',
-  examName: 'Bachillerato',
-  examFullName: 'Exámenes de Bachillerato',
-  examAuthority: 'MINED',
-  locale: 'es-NI',
-  timezone: 'America/Managua',
-  grades: [
-    { id: 6, name: '6° Primaria', description: 'Sexto grado' },
-    { id: 9, name: '9° Secundaria', description: 'Noveno grado' },
-    { id: 11, name: '11° Bachillerato', description: 'Undécimo grado' },
-  ],
-  subjects: [
-    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
-    { id: 'lengua-literatura', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
-    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
-    { id: 'geografia-historia', name: 'Geografía e Historia', icon: '🌍', globalId: 'social' },
-  ],
-  theme: {
-    primary: '#0067C6',      // Azul
-    secondary: '#FFFFFF',    // Blanco
-    accent: '#FFD700',       // Oro
-    bgDark: '#1a1a2e',
-    bgCard: '#16213e',
-    textPrimary: '#ffffff',
-    textSecondary: '#a0a0a0',
-  },
-  culture: {
-    currency: { code: 'NIO', symbol: 'C$', name: 'Córdobas' },
-    cities: ['Managua', 'León', 'Granada', 'Masaya', 'Chinandega'],
-    commonNames: {
-      male: ['Juan', 'José', 'Carlos', 'Luis', 'Augusto'],
-      female: ['María', 'Ana', 'Gioconda', 'Rosario', 'Idania'],
-    },
-    culturalReferences: ['Rubén Darío', 'volcán Masaya', 'lago Cocibolca', 'Gallo Pinto', 'Güegüense'],
-  },
-  githubRepo: 'worldexams/saber-ni',
-  product: {
-    siteName: 'WorldExams Nicaragua',
-    siteUrl: 'https://worldexams.app/ni',
-    contactEmail: 'contacto@worldexams.app',
-    guideLabel: 'MINED',
-    guideYear: 2026,
-    seoKeywords: ['examenes bachillerato nicaragua', 'mined', 'simulacro ni'],
-    defaultDescription: 'Práctica para los exámenes de bachillerato en Nicaragua.',
-  },
-};
