@@ -1,7 +1,3 @@
-/**
- * Pre-deploy Check for SaberParaTodos
- * Validates build metadata and critical configurations to avoid UI regressions.
- */
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -9,73 +5,75 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.join(__dirname, '..');
 
-async function checkFileExists(filePath, name) {
+async function mustExist(filePath, name) {
   try {
     await fs.access(filePath);
-    console.log(`✅ ${name} found.`);
+    console.log(`OK ${name}`);
     return true;
   } catch {
-    console.error(`❌ ${name} NOT found at ${filePath}`);
+    console.error(`FAIL missing ${name}: ${filePath}`);
     return false;
   }
 }
 
+async function readJson(filePath) {
+  return JSON.parse(await fs.readFile(filePath, 'utf8'));
+}
+
+function ensure(condition, message, failures) {
+  if (!condition) {
+    console.error(`FAIL ${message}`);
+    failures.count += 1;
+  } else {
+    console.log(`OK ${message}`);
+  }
+}
+
 async function main() {
-  console.log('--- 🛡️ Starting Pre-deploy Check ---');
-  let failures = 0;
+  const failures = { count: 0 };
 
-  // 1. Check build-info.json integrity
   const buildInfoPath = path.join(repoRoot, 'public', 'build-info.json');
-  if (await checkFileExists(buildInfoPath, 'build-info.json')) {
-    const buildInfo = JSON.parse(await fs.readFile(buildInfoPath, 'utf8'));
-    if (!buildInfo.timestamp || !buildInfo.buildTime || !buildInfo.version) {
-      console.error('❌ build-info.json is missing critical fields (timestamp, buildTime, or version)');
-      failures++;
-    } else if (new Date(buildInfo.timestamp).toString() === 'Invalid Date') {
-      console.error('❌ build-info.json has an Invalid Date in timestamp');
-      failures++;
-    } else {
-      console.log(`✅ Build version: ${buildInfo.version} (${new Date(buildInfo.timestamp).toLocaleDateString()})`);
-    }
+  if (await mustExist(buildInfoPath, 'build-info.json')) {
+    const buildInfo = await readJson(buildInfoPath);
+    ensure(Boolean(buildInfo.version), 'build-info has version', failures);
+    ensure(Boolean(buildInfo.iso), 'build-info has iso timestamp', failures);
+    ensure(Boolean(buildInfo.commit), 'build-info has commit fingerprint', failures);
   } else {
-    failures++;
+    failures.count += 1;
   }
 
-  // 2. Check wrangler.toml API URL
-  const wranglerPath = path.join(repoRoot, 'wrangler.toml');
-  if (await checkFileExists(wranglerPath, 'wrangler.toml')) {
-    const config = await fs.readFile(wranglerPath, 'utf8');
-    if (!config.includes('api.saberparatodos.space')) {
-      console.error('❌ wrangler.toml does NOT point to the API subdomain (api.saberparatodos.space)');
-      failures++;
-    } else {
-      console.log('✅ API subdomain configuration detected.');
-    }
+  const wranglerTomlPath = path.join(repoRoot, 'wrangler.toml');
+  if (await mustExist(wranglerTomlPath, 'wrangler.toml')) {
+    const wranglerToml = await fs.readFile(wranglerTomlPath, 'utf8');
+    ensure(wranglerToml.includes('api.saberparatodos.space'), 'wrangler.toml points to api.saberparatodos.space', failures);
   } else {
-    failures++;
+    failures.count += 1;
   }
 
-  // 3. Warning for local packs (they should be gone from public/ if moved)
-  const packsPath = path.join(repoRoot, 'public', 'api', 'packs');
-  try {
-    const files = await fs.readdir(packsPath);
-    if (files.length > 0) {
-      console.warn(`⚠️ Warning: ${files.length} packs still exist in public/api/packs/. They should be moved to the API worker repository.`);
-    }
-  } catch {
-    // Pack directory missing is fine if moved
-    console.log('✅ Local packs directory is clean/removed.');
+  const normalizedWranglerPath = path.join(repoRoot, 'dist', 'server', 'wrangler.json');
+  if (await mustExist(normalizedWranglerPath, 'dist/server/wrangler.json')) {
+    const wranglerJson = await readJson(normalizedWranglerPath);
+    ensure(wranglerJson.workers_dev === false, 'wrangler.json is normalized for production routes', failures);
+    ensure(Array.isArray(wranglerJson.routes) && wranglerJson.routes.some((route) => String(route.pattern).includes('saberparatodos.space/*')), 'wrangler.json contains production route for saberparatodos.space', failures);
+    ensure(Array.isArray(wranglerJson.routes) && wranglerJson.routes.some((route) => String(route.pattern).includes('www.saberparatodos.space/*')), 'wrangler.json contains production route for www.saberparatodos.space', failures);
+  } else {
+    failures.count += 1;
   }
 
-  if (failures > 0) {
-    console.error(`\n🛑 Pre-deploy check FAILED with ${failures} error(s). Build aborted.`);
+  const guideTestPath = path.join(repoRoot, '..', 'tests', 'guide-country-isolation.prod.test.ts');
+  const apiTestPath = path.join(repoRoot, '..', 'tests', 'api-gateway-public-regression.test.ts');
+  ensure(await mustExist(guideTestPath, 'guide-country-isolation.prod.test.ts'), 'multi-country guide smoke exists', failures);
+  ensure(await mustExist(apiTestPath, 'api-gateway-public-regression.test.ts'), 'API regression smoke exists', failures);
+
+  if (failures.count > 0) {
+    console.error(`Pre-deploy check failed with ${failures.count} issue(s).`);
     process.exit(1);
   }
 
-  console.log('\n✨ All critical pre-deploy checks passed!');
+  console.log('Pre-deploy checks passed.');
 }
 
-main().catch(err => {
-  console.error('Fatal error during pre-deploy check:', err);
+main().catch((error) => {
+  console.error('Fatal pre-deploy error:', error);
   process.exit(1);
 });

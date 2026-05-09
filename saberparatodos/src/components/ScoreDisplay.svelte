@@ -13,9 +13,12 @@
   import { onMount } from 'svelte';
   import { tweened } from 'svelte/motion';
   import { cubicOut } from 'svelte/easing';
+  import { countryConfig as defaultCountryConfig, type CountryConfig as RuntimeCountryConfig } from '../config';
+  import { getPracticeEstimateSemantics } from '../lib/practice-estimate';
 
   export let examScore: ExamScore;
   export let showBreakdown = false;
+  export let runtimeCountry: RuntimeCountryConfig = defaultCountryConfig;
 
   const displayAccuracy = tweened(0, {
     duration: 1200,
@@ -52,6 +55,7 @@
   $: practiceScore = examScore.practiceScore ?? examScore.totalScore;
   $: icfesEstimate = examScore.icfesEstimate;
   $: scoreRange = examScore.scoreRange;
+  $: scoreSemantics = getPracticeEstimateSemantics(runtimeCountry);
   $: questionImpactCopy = examScore.stats.correctAnswers > 0
     ? `Tus aciertos pueden sumar bastante porque cada correcta parte desde 100 puntos y luego sube por dificultad, velocidad y racha.`
     : 'En esta sesion no hubo respuestas correctas, asi que solo se aplicaron penalizaciones y bonos de cierre si correspondian.';
@@ -85,7 +89,7 @@
 
       <div class="text-center mb-6">
         <div class="flex flex-wrap items-center justify-center gap-3 mb-2">
-          <p class="text-xs text-cyan-300/90 uppercase tracking-[0.35em]">Puntaje estimado ICFES</p>
+          <p class="text-xs text-cyan-300/90 uppercase tracking-[0.35em]">{scoreSemantics.estimateHeading}</p>
           <button
             type="button"
             on:click={() => showScoreHelp = true}
@@ -106,7 +110,7 @@
 
         <p class="text-5xl sm:text-6xl font-black text-[#F5F5DC] tabular-nums">
           {icfesEstimate.score.toLocaleString('es-CO')}
-          <span class="ml-1 text-lg sm:text-xl text-white/45">/500</span>
+          <span class="ml-1 text-lg sm:text-xl text-white/45">{scoreSemantics.rangeSuffix}</span>
         </p>
         <p class="text-sm text-white/45 uppercase tracking-widest mt-1">
           {icfesEstimate.disclaimer}
@@ -115,7 +119,7 @@
 
       <div class="mb-7 p-4 rounded-2xl border border-cyan-400/15 bg-black/15">
         <div class="flex items-center justify-between gap-4 text-xs uppercase tracking-[0.28em] text-white/45">
-          <span>Estado de esta estimacion</span>
+          <span>{scoreSemantics.statusHeading}</span>
           <span>{icfesEstimate.evidenceCount} preguntas observadas</span>
         </div>
         <div class="mt-3 h-2 rounded-full bg-white/8 overflow-hidden">
@@ -125,8 +129,7 @@
           ></div>
         </div>
         <p class="mt-3 text-sm text-white/65 leading-relaxed">
-          Esta lectura usa una metodologia proxy en escala ICFES 0-500. Combina rendimiento, dificultad,
-          consistencia y volumen de evidencia. El puntaje de practica se conserva aparte para ranking interno.
+          {scoreSemantics.methodologySummary}
         </p>
       </div>
 
@@ -160,7 +163,7 @@
           Desempeño de la sesion
         </h3>
         <p class="mt-1 text-xs text-white/45 leading-relaxed">
-          {questionImpactCopy} Estas metricas ayudan a calcular tu estimado ICFES.
+          {questionImpactCopy} {scoreSemantics.sessionImpactSummary}
         </p>
       </div>
     </div>
@@ -299,11 +302,10 @@
       <div class="px-6 py-6 space-y-6 text-sm text-white/75">
         <div class="p-4 rounded-2xl border border-amber-400/15 bg-amber-400/10">
           <p class="font-semibold text-amber-100">
-            Esta estimacion no es un puntaje ICFES oficial.
+            {scoreSemantics.officialNotice}
           </p>
           <p class="mt-2 leading-relaxed">
-            Usa una escala 0-500 solo para acercarse al formato de reporte del ICFES, pero no replica su
-            metodologia psicometrica oficial ni reemplaza el reporte real.
+            Usa una escala interna para resumir tu progreso de practica, pero no replica la metodologia oficial ni reemplaza un reporte real.
           </p>
         </div>
 
@@ -317,7 +319,7 @@
           </div>
           <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
             <p class="text-xs uppercase tracking-[0.25em] text-white/45">Tu lectura actual</p>
-            <p class="mt-2 text-2xl font-black text-cyan-300">{icfesEstimate.score}/500</p>
+            <p class="mt-2 text-2xl font-black text-cyan-300">{icfesEstimate.score}{scoreSemantics.rangeSuffix}</p>
             <p class="mt-2 leading-relaxed">
               Precisión: {Math.round(examScore.stats.accuracy * 100)}%. Correctas: {examScore.stats.correctAnswers}/{examScore.stats.questionsAnswered}.
             </p>
@@ -327,7 +329,7 @@
         <div class="space-y-3">
           <h4 class="text-base font-bold text-white">Como se usa cada escala</h4>
           <div class="p-4 rounded-2xl border border-white/10 bg-white/5 leading-relaxed">
-            <p>La escala <strong class="text-white">ICFES proxy</strong> prioriza rendimiento, dificultad, consistencia y evidencia acumulada.</p>
+            <p>La escala <strong class="text-white">{scoreSemantics.scaleReferenceLabel}</strong> prioriza rendimiento, dificultad, consistencia y evidencia acumulada.</p>
             <p class="mt-2">La escala <strong class="text-white">WorldExams</strong> sigue usando dificultad, velocidad, racha y bonus para gamificar la practica.</p>
             <p class="mt-2">Por eso ambas escalas pueden moverse distinto en una misma sesion.</p>
           </div>
@@ -363,8 +365,7 @@
         <div class="p-4 rounded-2xl border border-emerald-400/15 bg-emerald-400/10">
           <h4 class="text-base font-bold text-emerald-100">Transparencia de Escala</h4>
           <p class="mt-2 leading-relaxed">
-            Hemos alineado el sistema de nivel (MMR) a la escala <strong class="text-white">ICFES 0-500</strong>.
-            El puntaje de sesion es solo una metrica de apoyo para el calculo del progreso.
+            {scoreSemantics.transparencySummary}
           </p>
         </div>
       </div>

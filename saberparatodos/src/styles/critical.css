@@ -15,7 +15,7 @@
    CRITICAL CSS VARIABLES
    ======================================== */
 :root {
-  /* Colors - Colombia theme */
+  /* Colors - runtime theme defaults */
   --color-primary: #FCD116;
   --color-secondary: #003893;
   --color-accent: #CE1126;
