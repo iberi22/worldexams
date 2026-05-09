@@ -13,10 +13,12 @@ import re
 import sys
 from typing import TypedDict
 
+
 class Step(TypedDict):
     label: str
     math: str
     explanation: str
+
 
 class ParsedQuestion(TypedDict):
     title: str
@@ -24,6 +26,7 @@ class ParsedQuestion(TypedDict):
     steps: list[Step]
     narration_script: str
     estimated_seconds: int  # palabras / 2.5
+
 
 # Templates de pasos por tipo de problema
 STEP_TEMPLATES = {
@@ -78,6 +81,7 @@ EXPLANATION_KEYWORDS = {
     "probabilidad": "statistics",
 }
 
+
 def detect_topic(explanation: str, question_id: str) -> str:
     """Detecta el tema de la pregunta basado en keywords y el ID."""
     # Check question_id for topic hints
@@ -87,69 +91,72 @@ def detect_topic(explanation: str, question_id: str) -> str:
             return topic
     return "default"
 
+
 def extract_math_statements(explanation: str, steps_template: list[tuple]) -> list[str]:
     """Extrae expresiones matemáticas del explanation para asignarlas a los steps."""
     # Busca patrones como $...$ , $$\sqrt{...}$$, números con operaciones
-    math_expressions = re.findall(r'\$[^$]+\$', explanation)
+    math_expressions = re.findall(r"\$[^$]+\$", explanation)
     if not math_expressions:
         # Si no hay LaTeX, busca patrones numéricos
-        math_expressions = re.findall(r'[=×÷+\-]\s*[\d.]+|[\d.]+\s*[=×÷+\-]|\w+\s*=\s*\w+', explanation)
-    
+        math_expressions = re.findall(r"[=×÷+\-]\s*[\d.]+|[\d.]+\s*[=×÷+\-]|\w+\s*=\s*\w+", explanation)
+
     # Si hay menos expresiones que steps, rellena con "—"
     math_assignments = []
     for i in range(len(steps_template)):
         if i < len(math_expressions):
-            math_assignments.append(math_expressions[i].strip('$'))
+            math_assignments.append(math_expressions[i].strip("$"))
         else:
             math_assignments.append(steps_template[i][1])
     return math_assignments
 
+
 def generate_explanation_for_step(step_index: int, step_label: str, original_explanation: str, math_expr: str) -> str:
     """Genera una explicación breve y única para cada paso."""
-    sentences = re.split(r'[.!?]+', original_explanation)
+    sentences = re.split(r"[.!?]+", original_explanation)
     sentences = [s.strip() for s in sentences if s.strip()]
-    
+
     # Si hay suficientes oraciones, asigna una distinta a cada step
     if step_index < len(sentences):
         return sentences[step_index][:100].strip()
-    
+
     # Fallback: busca la primera oración que contenga el math_expr
     for sentence in sentences:
-        clean_math = math_expr.replace('$', '').strip()
+        clean_math = math_expr.replace("$", "").strip()
         if clean_math and clean_math in sentence:
             return sentence[:100].strip()
-    
+
     return sentences[0][:100].strip() if sentences else "Aplica el concepto matemático."
+
 
 def parse_question(question_item: dict) -> ParsedQuestion:
     """Parse a question from the pending queue into Remotion-compatible steps."""
     payload = question_item.get("payload", {})
     content = payload.get("content", {})
-    
+
     statement = content.get("statement", "Unknown")
     explanation = content.get("explanation", "")
     question_id = question_item.get("question_id", "unknown")
-    
+
     # Clean statement (remove HTML/markdown)
-    title = re.sub(r'\*\*', '', statement).strip()
+    title = re.sub(r"\*\*", "", statement).strip()
     if len(title) > 60:
         title = title[:57] + "..."
-    
+
     # Detect topic — prefer explanation over question_id
     topic = detect_topic(explanation, question_id)
     steps_template = STEP_TEMPLATES.get(topic, STEP_TEMPLATES["default"])
-    
+
     # Extract math for each step
     math_assignments = extract_math_statements(explanation, steps_template)
-    
+
     # Build steps
     steps = []
     narration_lines = []
-    
+
     for i, (label, default_math, default_expl) in enumerate(steps_template):
         math_text = math_assignments[i] if i < len(math_assignments) else default_math
         step_explanation = generate_explanation_for_step(i, label, explanation, math_text)
-        
+
         step: Step = {
             "label": label,
             "math": math_text,
@@ -157,12 +164,12 @@ def parse_question(question_item: dict) -> ParsedQuestion:
         }
         steps.append(step)
         narration_lines.append(f"Paso {i+1}: {label}. {step_explanation}")
-    
+
     # Build narration script from steps (SIEMPRE usar steps)
     narration_script = ". ".join(narration_lines) + ". "
     word_count = len(narration_script.split())
     estimated_seconds = max(20, min(40, round(word_count / 2.5)))  # target 20-40s
-    
+
     # Convert topic ID to human-readable
     topic_labels = {
         "real-numbers": "Números Reales",
@@ -171,7 +178,7 @@ def parse_question(question_item: dict) -> ParsedQuestion:
         "geometry": "Geometría",
         "statistics": "Estadística",
     }
-    
+
     return {
         "title": title,
         "topic": topic_labels.get(topic, topic.replace("-", " ").title()),
@@ -180,19 +187,24 @@ def parse_question(question_item: dict) -> ParsedQuestion:
         "estimated_seconds": estimated_seconds,
     }
 
+
 def main():
     """Test with a sample question from the queue."""
     try:
-        with open(r"E:\scripts-python\worldexams\saberparatodos\video-pipeline\queue\pending-v41-math.json", "r", encoding="utf-8") as f:
+        with open(
+            r"E:\scripts-python\worldexams\saberparatodos\video-pipeline\queue\pending-v41-math.json",
+            "r",
+            encoding="utf-8",
+        ) as f:
             queue = json.load(f)
     except FileNotFoundError:
         print("Queue file not found")
         sys.exit(1)
-    
+
     if not queue.get("items"):
         print("No items in queue")
         sys.exit(1)
-    
+
     # Parse first 3 as samples
     for i, item in enumerate(queue["items"][:3]):
         result = parse_question(item)
@@ -201,10 +213,11 @@ def main():
         print(f"Topic: {result['topic']}")
         print(f"Duration: ~{result['estimated_seconds']}s")
         print(f"Steps: {len(result['steps'])}")
-        for s in result['steps']:
+        for s in result["steps"]:
             print(f"  * [{s['label']}] {s['math']}")
             print(f"    -> {s['explanation']}")
         print(f"\nNarration: {result['narration_script'][:150]}...")
+
 
 if __name__ == "__main__":
     main()

@@ -4,12 +4,12 @@
 /**
  * Country codes supported by World Exams
  */
-export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'ES' | 'PR' | 'GQ';
+export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'ES' | 'PR' | 'GQ' | 'UY' | 'PY' | 'BO';
 
 /**
  * Supported languages
  */
-export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-ES' | 'es-PR' | 'es-GQ';
+export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-ES' | 'es-PR' | 'es-GQ' | 'es-UY' | 'es-PY' | 'es-BO';
 
 /**
  * Grade configuration for a country
@@ -276,8 +276,8 @@ export const mexicoConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-mx',
   product: {
     siteName: 'WorldExams Mexico',
-    siteUrl: 'https://worldexams.github.io/saber-mx',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/saber-mx',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'EXANI',
     guideYear: 2026,
     seoKeywords: [
@@ -351,8 +351,8 @@ export const argentinaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-ar',
   product: {
     siteName: 'WorldExams Argentina',
-    siteUrl: 'https://worldexams.app/ar',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/ar',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'APRENDER',
     guideYear: 2026,
     seoKeywords: ['aprender argentina', 'simulacro aprender', 'practica escolar argentina'],
@@ -419,8 +419,8 @@ export const chileConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-cl',
   product: {
     siteName: 'WorldExams Chile',
-    siteUrl: 'https://worldexams.app/cl',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/cl',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SIMCE',
     guideYear: 2026,
     seoKeywords: ['simce chile', 'practica simce', 'evaluacion escolar chile'],
@@ -488,8 +488,8 @@ export const peruConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-pe',
   product: {
     siteName: 'WorldExams Peru',
-    siteUrl: 'https://worldexams.app/pe',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/pe',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ECE',
     guideYear: 2026,
     seoKeywords: ['ece peru', 'simulacro ece', 'evaluacion censal estudiantes'],
@@ -504,7 +504,7 @@ export const peruConfig: CountryConfig = {
 };
 
 /**
- * 🇧🇷 Brasil - ENEM
+ * 🇪🇨 Ecuador - SENESCYT
  */
 export const ecuadorConfig: CountryConfig = {
   code: 'EC',
@@ -556,8 +556,8 @@ export const ecuadorConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-ec',
   product: {
     siteName: 'WorldExams Ecuador',
-    siteUrl: 'https://worldexams.app/ec',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/ec',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SENESCYT',
     guideYear: 2026,
     seoKeywords: ['senescyt ecuador', 'simulacro senescyt', 'admision universitaria ecuador'],
@@ -572,7 +572,7 @@ export const ecuadorConfig: CountryConfig = {
 };
 
 /**
- * ðŸ‡§ðŸ‡· Brasil - ENEM
+ * 🇧🇷 Brasil - ENEM
  */
 export const brasilConfig: CountryConfig = {
   code: 'BR',
@@ -625,8 +625,8 @@ export const brasilConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-br',
   product: {
     siteName: 'WorldExams Brasil',
-    siteUrl: 'https://worldexams.app/br',
-    contactEmail: 'contato@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/br',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ENEM',
     guideYear: 2026,
     seoKeywords: ['enem brasil', 'simulado enem', 'pratica enem'],
@@ -701,8 +701,8 @@ export const usaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-us',
   product: {
     siteName: 'WorldExams US',
-    siteUrl: 'https://worldexams.app/us',
-    contactEmail: 'support@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/us',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SAT',
     guideYear: 2026,
     seoKeywords: ['sat practice', 'exam prep usa', 'high school assessment practice'],
@@ -769,8 +769,8 @@ export const panamaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-pa',
   product: {
     siteName: 'WorldExams Panamá',
-    siteUrl: 'https://worldexams.app/pa',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/pa',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MEDUCA',
     guideYear: 2026,
     seoKeywords: ['pruebas graduandos panama', 'meduca crecer', 'simulacro panama'],
@@ -824,8 +824,8 @@ export const costaRicaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-cr',
   product: {
     siteName: 'WorldExams Costa Rica',
-    siteUrl: 'https://worldexams.app/cr',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/cr',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MEP',
     guideYear: 2026,
     seoKeywords: ['pruebas nacionales estandarizadas', 'mep costa rica', 'simulacro cr'],
@@ -878,8 +878,8 @@ export const guatemalaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-gt',
   product: {
     siteName: 'WorldExams Guatemala',
-    siteUrl: 'https://worldexams.app/gt',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/gt',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MINEDUC',
     guideYear: 2026,
     seoKeywords: ['evaluacion graduandos guatemala', 'mineduc', 'simulacro gt'],
@@ -932,8 +932,8 @@ export const dominicanRepublicConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-do',
   product: {
     siteName: 'WorldExams Dominicana',
-    siteUrl: 'https://worldexams.app/do',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/do',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MINERD',
     guideYear: 2026,
     seoKeywords: ['pruebas nacionales dominicana', 'minerd', 'simulacro do'],
@@ -986,8 +986,8 @@ export const elSalvadorConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-sv',
   product: {
     siteName: 'WorldExams El Salvador',
-    siteUrl: 'https://worldexams.app/sv',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/sv',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MINED',
     guideYear: 2026,
     seoKeywords: ['prueba avanzo', 'mined el salvador', 'simulacro sv'],
@@ -1040,8 +1040,8 @@ export const hondurasConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-hn',
   product: {
     siteName: 'WorldExams Honduras',
-    siteUrl: 'https://worldexams.app/hn',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/hn',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'SEDUC',
     guideYear: 2026,
     seoKeywords: ['pruebas nacionales honduras', 'seduc', 'simulacro hn'],
@@ -1094,8 +1094,8 @@ export const nicaraguaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-ni',
   product: {
     siteName: 'WorldExams Nicaragua',
-    siteUrl: 'https://worldexams.app/ni',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/ni',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'MINED',
     guideYear: 2026,
     seoKeywords: ['examenes bachillerato nicaragua', 'mined', 'simulacro ni'],
@@ -1147,8 +1147,8 @@ export const spainConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-es',
   product: {
     siteName: 'WorldExams España',
-    siteUrl: 'https://worldexams.app/es',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/es',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'EBAU',
     guideYear: 2026,
     seoKeywords: ['selectividad ebau', 'evau madrid', 'practica ebau', 'examenes selectividad'],
@@ -1201,8 +1201,8 @@ export const puertoRicoConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-pr',
   product: {
     siteName: 'WorldExams Puerto Rico',
-    siteUrl: 'https://worldexams.app/pr',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/pr',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'PAA',
     guideYear: 2026,
     seoKeywords: ['paa puerto rico', 'college board pr', 'repaso paa', 'upr admision'],
@@ -1254,8 +1254,8 @@ export const equatorialGuineaConfig: CountryConfig = {
   githubRepo: 'worldexams/saber-gq',
   product: {
     siteName: 'WorldExams Guinea Ecuatorial',
-    siteUrl: 'https://worldexams.app/gq',
-    contactEmail: 'contacto@worldexams.app',
+    siteUrl: 'https://world-exams.github.io/gq',
+    contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'UNGE',
     guideYear: 2026,
     seoKeywords: ['selectividad guinea ecuatorial', 'unge', 'acceso universidad gq'],
@@ -1263,8 +1263,169 @@ export const equatorialGuineaConfig: CountryConfig = {
   },
 };
 
+/**
+ * 🇺🇾 Uruguay - PISA / Admisión
+ */
+export const uruguayConfig: CountryConfig = {
+  code: 'UY',
+  name: 'Uruguay',
+  nameEnglish: 'Uruguay',
+  flag: '🇺🇾',
+  examName: 'PISA / Admisión',
+  examFullName: 'Evaluación de Educación Media y Admisión Universitaria',
+  examAuthority: 'ANEP / UDELAR',
+  locale: 'es-UY',
+  timezone: 'America/Montevideo',
+  grades: [
+    { id: 9, name: '9° Grado', description: 'Noveno año de Educación Básica Integrada' },
+    { id: 12, name: '12° Grado', description: 'Sexto año de Bachillerato' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias de la Naturaleza', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#0038A8',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#FFD700',       // Amarillo - Sol
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'UYU', symbol: '$U', name: 'Pesos uruguayos' },
+    cities: ['Montevideo', 'Salto', 'Paysandú', 'Maldonado', 'Rivera'],
+    commonNames: {
+      male: ['Mateo', 'Juan', 'Santiago', 'Nicolás', 'Diego'],
+      female: ['Valentina', 'Martina', 'Lucía', 'Sofía', 'María'],
+    },
+    culturalReferences: ['mate', 'asado', 'fútbol', 'Candombe', 'rambla'],
+    languageVariant: 'voseo',
+  },
+  githubRepo: 'worldexams/saber-uy',
+  product: {
+    siteName: 'WorldExams Uruguay',
+    siteUrl: 'https://world-exams.github.io/uy',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'ANEP',
+    guideYear: 2026,
+    seoKeywords: ['pisa uruguay', 'admision udelar', 'practica escolar uruguay'],
+    defaultDescription: 'Preparación para evaluaciones nacionales y admisión universitaria en Uruguay.',
+  },
+};
+
+/**
+ * 🇵🇾 Paraguay - Pruebas Nacionales
+ */
+export const paraguayConfig: CountryConfig = {
+  code: 'PY',
+  name: 'Paraguay',
+  nameEnglish: 'Paraguay',
+  flag: '🇵🇾',
+  examName: 'Pruebas Nacionales',
+  examFullName: 'Evaluación Nacional de Logros de Aprendizaje (SNEPE)',
+  examAuthority: 'MEC',
+  locale: 'es-PY',
+  timezone: 'America/Asuncion',
+  grades: [
+    { id: 9, name: '9° Grado', description: 'Noveno grado de Educación Escolar Básica' },
+    { id: 12, name: '3° Curso', description: 'Tercer curso de Nivel Medio' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua y Literatura Castellana', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias de la Naturaleza', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#D52B1E',      // Rojo
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#0038A8',       // Azul
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'PYG', symbol: '₲', name: 'Guaraníes' },
+    cities: ['Asunción', 'Ciudad del Este', 'San Lorenzo', 'Luque', 'Capiatá'],
+    commonNames: {
+      male: ['Juan', 'José', 'Carlos', 'Luis', 'Jorge'],
+      female: ['María', 'Ana', 'Ramona', 'Gloria', 'Blanca'],
+    },
+    culturalReferences: ['terere', 'guarani', 'ñanduti', 'harpa', 'asado'],
+    languageVariant: 'voseo',
+  },
+  githubRepo: 'worldexams/saber-py',
+  product: {
+    siteName: 'WorldExams Paraguay',
+    siteUrl: 'https://world-exams.github.io/py',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'MEC',
+    guideYear: 2026,
+    seoKeywords: ['snepe paraguay', 'mec paraguay', 'simulacro py'],
+    defaultDescription: 'Práctica para evaluaciones nacionales y exámenes del MEC en Paraguay.',
+  },
+};
+
+/**
+ * 🇧🇴 Bolivia - Bachillerato / Admisión
+ */
+export const boliviaConfig: CountryConfig = {
+  code: 'BO',
+  name: 'Bolivia',
+  nameEnglish: 'Bolivia',
+  flag: '🇧🇴',
+  examName: 'Bachillerato',
+  examFullName: 'Diploma de Bachiller y Admisión Universitaria',
+  examAuthority: 'Ministerio de Educación / Universidades',
+  locale: 'es-BO',
+  timezone: 'America/La_Paz',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto año de primaria' },
+    { id: 12, name: '6° Secundaria', description: 'Sexto año de secundaria' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lenguaje', name: 'Lenguaje y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#E23E29',      // Rojo
+    secondary: '#FFD700',    // Amarillo
+    accent: '#007A33',       // Verde
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'BOB', symbol: 'Bs', name: 'Bolivianos' },
+    cities: ['Santa Cruz de la Sierra', 'El Alto', 'La Paz', 'Cochabamba', 'Oruro'],
+    commonNames: {
+      male: ['Juan', 'José', 'Carlos', 'Luis', 'David'],
+      female: ['María', 'Ana', 'Elena', 'Guadalupe', 'Martha'],
+    },
+    culturalReferences: ['Tiahuanaco', 'Salar de Uyuni', 'folklore', 'Andes', 'Amazonas'],
+  },
+  githubRepo: 'worldexams/saber-bo',
+  product: {
+    siteName: 'WorldExams Bolivia',
+    siteUrl: 'https://world-exams.github.io/bo',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'Bachillerato',
+    guideYear: 2026,
+    seoKeywords: ['bachillerato bolivia', 'admision universitaria bo', 'simulacro bo'],
+    defaultDescription: 'Práctica para el bachillerato y exámenes de ingreso universitario en Bolivia.',
+  },
+};
+
 // =============================================================================
-// HELPER FUNCTIONS
+// HELPER FUNCTIONS & EXPORTS
 // =============================================================================
 
 /**
@@ -1289,6 +1450,9 @@ export const allCountries: CountryConfig[] = [
   spainConfig,
   puertoRicoConfig,
   equatorialGuineaConfig,
+  uruguayConfig,
+  paraguayConfig,
+  boliviaConfig,
 ];
 
 /**
