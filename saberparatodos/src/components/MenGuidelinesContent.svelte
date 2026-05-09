@@ -109,7 +109,7 @@
         { label: 'Estudiantes ICFES', url: 'https://blog.icfes.gov.co/estudiantes/' },
         { label: 'Especiales Colombia Aprende', url: 'https://especiales.colombiaaprende.edu.co/' },
         { label: 'Colombia Aprende se transforma', url: 'https://www.mineducacion.gov.co/1780/w3-article-424299.html' },
-        { label: 'Canales oficiales MEN', url: 'https://www.mineducacion.gov.co/1759/w3-printer-398295.html' }
+        { label: 'Lineamientos Curriculares - MEN', url: 'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Direccion-de-Calidad/Referentes-de-Calidad/339975:Lineamientos-curriculares' }
       ]
     },
     {
@@ -120,7 +120,7 @@
       links: [
         { label: 'Facebook ICFES', url: 'https://www.facebook.com/icfescol' },
         { label: 'Facebook Ministerio de Educacion', url: 'https://www.facebook.com/Mineducacion' },
-        { label: 'Directorio de canales MEN', url: 'https://www.mineducacion.gov.co/1759/w3-printer-398295.html' },
+        { label: 'Referentes de Calidad MEN', url: 'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Direccion-de-Calidad/Referentes-de-Calidad/339975:Lineamientos-curriculares' },
         { label: 'Colombia Aprende se transforma', url: 'https://www.mineducacion.gov.co/1780/w3-article-424299.html' }
       ]
     }
@@ -162,7 +162,7 @@
 <div class="space-y-6 p-1">
 
   <!-- ── Header contextual ──────────────────────────────────────── -->
-  <div class="text-center" in:fade={{ duration: 200 }}>
+  <div class="w-full flex flex-col items-center text-center" in:fade={{ duration: 200 }}>
     <div class="inline-flex items-center gap-2 px-3 py-1.5 bg-white/5 border border-white/10 rounded-full mb-4">
       <span class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">
         Grado {grade}° · {subjectLabel} · Periodo {period}
@@ -171,10 +171,10 @@
     <div class="inline-block p-3 rounded-2xl mb-3 border border-white/10" style="background: {accentColor}15;">
       <span class="text-3xl">🏛️</span>
     </div>
-    <h2 class="text-2xl font-black uppercase tracking-tight text-white mb-1">
+    <h2 class="text-2xl font-black uppercase tracking-tight text-white mb-1 text-center w-full">
       Lineamientos <span style="color: {accentColor}">M.E.N.</span>
     </h2>
-    <p class="text-white/40 text-xs max-w-xs mx-auto leading-relaxed">
+    <p class="text-white/40 text-xs max-w-xs text-center leading-relaxed">
       Alineación curricular 2026 — Derechos Básicos de Aprendizaje vigentes
     </p>
   </div>
