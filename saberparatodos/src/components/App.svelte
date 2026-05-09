@@ -952,7 +952,7 @@
           <div class="particle particle-3"></div>
         </div>
 
-        <div class="space-y-4 relative z-10">
+        <div class="w-full space-y-4 relative z-10 flex flex-col items-center text-center">
           <div class="flex items-center justify-center gap-2 mb-4">
             <!-- Runtime country marker -->
             <span class="text-2xl leading-none">{runtimeCountry.flag}</span>
@@ -961,11 +961,11 @@
           <p class="text-xs font-bold uppercase tracking-[0.4em] text-emerald-500 animate-pulse-slow">
             {tenantExperience.landingBadge} :: v{packageInfo.version}
           </p>
-          <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
+          <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative text-center w-full">
             {tenantExperience.landingTitle}
             <span class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 rounded-full" style={`background: ${themeGradient};`}></span>
           </h1>
-          <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-4 relative z-20">
+          <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-4 relative z-20 text-center">
             {tenantExperience.landingSubtitle}
             {tenantExperience.landingDescription}
           </p>
