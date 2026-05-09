@@ -1,41 +1,41 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import StatsIcfes from '../components/guia/StatsIcfes.astro';
+import TenantRouteNotice from '../components/TenantRouteNotice.astro';
+import { resolveRuntimeCountryConfig } from '../config';
+import { getTenantRouteAvailability } from '../config/tenant-experience';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const availability = getTenantRouteAvailability(country, 'resultados2025');
 ---
 
 <Layout
-  title="Cómo Entender tus Resultados Pruebas Saber 11 | SaberParaTodos"
-  description="Explicación de resultados, percentiles y estadísticas de referencia para interpretar mejor tu puntaje en Pruebas Saber 11."
+  title={`Resultados 2025 | ${country.product.siteName}`}
+  description={`Lectura editorial de resultados para ${country.examName}.`}
 >
   <div class="min-h-screen bg-[#121212] pt-16 pb-24 px-4">
     <div class="max-w-6xl mx-auto">
+      {country.code === 'CO' ? (
+        <>
+          <section class="mb-16 pt-8 pb-4 text-center">
+            <span class="inline-block px-3 py-1 text-xs font-mono bg-white/5 text-white/70 border border-white/10 rounded-full mb-4">
+              Guia de interpretacion
+            </span>
+            <h1 class="text-4xl md:text-5xl font-bold text-[#F5F5DC] mb-6">
+              Como interpretar tus resultados
+            </h1>
+            <p class="text-xl text-white/60 leading-relaxed max-w-[650px] mx-auto">
+              Comprende como se distribuyen los puntajes a nivel nacional y que significa cada percentil con base en estadisticas oficiales de referencia.
+            </p>
+          </section>
 
-      <section class="mb-16 pt-8 pb-4 text-center">
-        <span class="inline-block px-3 py-1 text-xs font-mono bg-white/5 text-white/70 border border-white/10 rounded-full mb-4">
-          📊 Guía de interpretación
-        </span>
-        <h1 class="text-4xl md:text-5xl font-bold text-[#F5F5DC] mb-6">
-          Cómo interpretar tus resultados
-        </h1>
-        <p
-          class="text-xl text-white/60 leading-relaxed"
-          style="font-family: 'Inter', sans-serif; text-align: center; display: block; width: 100%; max-width: 650px; margin: 0 auto;"
-        >
-          Comprende cómo se distribuyen los puntajes a nivel nacional y qué significa cada percentil con base en estadísticas oficiales de referencia.
-        </p>
-      </section>
-
-      <section class="bg-gradient-to-b from-white/[0.03] to-transparent rounded-3xl p-6 md:p-10 border border-white/5" data-sr="fade-up" data-sr-delay="100">
-        <StatsIcfes />
-      </section>
-
-      <section class="mt-16 text-center" data-sr="fade-up" data-sr-delay="200">
-        <h2 class="text-2xl font-bold text-[#F5F5DC] mb-6">¿Quieres mejorar tus proyecciones?</h2>
-        <a href="/practica" class="inline-block px-8 py-3 bg-[#FCD116] text-black font-semibold rounded-lg hover:bg-yellow-400 transition-colors">
-          Empieza a Practicar Ahora
-        </a>
-      </section>
-
+          <section class="bg-gradient-to-b from-white/[0.03] to-transparent rounded-3xl p-6 md:p-10 border border-white/5" data-sr="fade-up" data-sr-delay="100">
+            <StatsIcfes />
+          </section>
+        </>
+      ) : (
+        <TenantRouteNotice country={country} availability={availability} />
+      )}
     </div>
   </div>
 </Layout>

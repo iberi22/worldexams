@@ -63,7 +63,7 @@ header.app-header {
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
 
-/* Hero Gradient Background - Colombia Flag Colors */
+/* Hero gradient background */
 .hero-gradient {
   position: absolute;
   top: 0;
@@ -166,7 +166,7 @@ header.app-header {
   }
 }
 
-/* Colombia Flag Stripe */
+/* Runtime theme stripe */
 .colombia-stripe {
   background: linear-gradient(90deg, #FCD116 50%, #003893 50% 75%, #CE1126 75%);
   height: 4px;

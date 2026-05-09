@@ -36,6 +36,7 @@
     type EnglishProficiencyResult
   } from '../lib/api-service';
   import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
+  import { countryConfig as defaultCountryConfig, type CountryConfig as RuntimeCountryConfig } from '../config';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -47,6 +48,7 @@
     onViewReports?: () => void;
     onLogin: () => void;
     onRegister: () => void;
+    runtimeCountry?: RuntimeCountryConfig;
   }
 
   let {
@@ -57,7 +59,8 @@
     onLeaderboard,
     onViewReports = undefined,
     onLogin,
-    onRegister
+    onRegister,
+    runtimeCountry = defaultCountryConfig
   }: Props = $props();
 
   // State
@@ -126,7 +129,7 @@
   $effect(() => {
     if (examData && safeQuestions.length > 0 && !examScore) {
        const examResult = toExamResult(examData, safeQuestions, userAnswers);
-       examScore = calculateExamScore(examResult);
+       examScore = calculateExamScore(examResult, undefined, runtimeCountry);
     }
   });
 
@@ -498,7 +501,7 @@
 
       <!-- Score Display -->
       {#if examScore}
-        <ScoreDisplay {examScore} />
+        <ScoreDisplay {examScore} {runtimeCountry} />
       {/if}
 
       <!-- Detailed Review -->

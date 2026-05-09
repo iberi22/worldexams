@@ -9,6 +9,8 @@
  */
 
 import { estimateIcfesScore, estimatePaesScore, type IcfesEstimate } from './mmr-system';
+import { applyPracticeEstimateSemantics } from './practice-estimate';
+import type { CountryConfig as RuntimeCountryConfig } from '../config';
 
 // ============================================================================
 // TIPOS
@@ -263,7 +265,8 @@ export function calculateExamStats(exam: ExamResult): ExamStats {
  */
 export function calculateExamScore(
   exam: ExamResult,
-  config: ScoringConfig = DEFAULT_SCORING_CONFIG
+  config: ScoringConfig = DEFAULT_SCORING_CONFIG,
+  country?: RuntimeCountryConfig | null
 ): ExamScore {
   // Calcular estadísticas
   const stats = calculateExamStats(exam);
@@ -301,14 +304,14 @@ export function calculateExamScore(
     (stats.accuracy * 250) +
     ((averageDifficulty - 3) * 30) +
     (Math.min(stats.questionsAnswered, 20) * 2);
-  const icfesEstimate = estimateIcfesScore({
+  const icfesEstimate = applyPracticeEstimateSemantics(estimateIcfesScore({
     mmr: Math.round(mmrApproximation),
     accuracy: stats.accuracy,
     evidenceCount: stats.questionsAnswered,
     averageDifficulty,
     consistencyScore,
     subjectCoverage: 1
-  });
+  }), country);
 
   const paesEstimate = estimatePaesScore({
     mmr: Math.round(mmrApproximation),

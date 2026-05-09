@@ -10,7 +10,9 @@ interface Props {
 
 const { currentPath = Astro.url.pathname } = Astro.props;
 
+import { resolveRuntimeCountryConfig } from '../config';
 import packageInfo from '../../package.json';
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
 const version = packageInfo.version;
 
 const navLinks = [
@@ -29,11 +31,15 @@ const isActive = (href: string) => {
 ---
 
 <div class="navbar-wrapper">
-  <nav class="navbar" id="main-navbar">
+  <nav
+    class="navbar"
+    id="main-navbar"
+    style={`--flag-primary: ${countryConfig.theme.primary}; --flag-secondary: ${countryConfig.theme.secondary}; --flag-accent: ${countryConfig.theme.accent};`}
+  >
     <!-- Navbar Visual Background (With filter) -->
     <div class="navbar-bg" aria-hidden="true"></div>
 
-    <!-- Flag Stripe Colombia -->
+    <!-- Runtime theme stripe -->
     <div class="flag-stripe" aria-hidden="true">
       <div class="stripe stripe-yellow"></div>
       <div class="stripe stripe-blue"></div>
@@ -42,10 +48,10 @@ const isActive = (href: string) => {
 
     <div class="navbar-container">
       <!-- Logo -->
-      <a href="/" class="logo" aria-label="SaberParaTodos - Prueba">
-        <img src="/logo.png" alt="SaberParaTodos Logo" width="32" height="32" class="w-8 h-8 rounded" />
+      <a href="/" class="logo" aria-label={`${countryConfig.product.siteName} - ${countryConfig.examName}`}>
+        <img src="/logo.png" alt={`${countryConfig.product.siteName} logo`} width="32" height="32" class="w-8 h-8 rounded" />
         <div class="flex flex-col">
-          <span class="logo-text">SaberParaTodos</span>
+          <span class="logo-text">{countryConfig.product.siteName}</span>
           <span class="text-[10px] text-gray-400 font-mono leading-none">v{version}</span>
         </div>
       </a>
@@ -90,7 +96,7 @@ const isActive = (href: string) => {
       <div class="mobile-menu-content">
         <div class="mobile-menu-header">
           <span class="mobile-menu-eyebrow">Navegación</span>
-          <p class="mobile-menu-title">Explora SaberParaTodos</p>
+          <p class="mobile-menu-title">Explora {countryConfig.product.siteName}</p>
         </div>
 
         <nav class="mobile-nav-list">
@@ -178,9 +184,9 @@ const isActive = (href: string) => {
   }
 
   .stripe { flex: 1; }
-  .stripe-yellow { background-color: #FCD116; flex: 2; }
-  .stripe-blue { background-color: #003893; flex: 1; }
-  .stripe-red { background-color: #CE1126; flex: 1; }
+  .stripe-yellow { background-color: var(--flag-primary); flex: 2; }
+  .stripe-blue { background-color: var(--flag-secondary); flex: 1; }
+  .stripe-red { background-color: var(--flag-accent); flex: 1; }
 
   .navbar-container {
     max-width: 1400px;

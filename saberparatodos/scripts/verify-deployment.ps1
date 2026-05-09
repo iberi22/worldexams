@@ -6,73 +6,81 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-function Test-Endpoint {
+$repoRoot = Split-Path -Parent $PSScriptRoot
+$localBuildInfoPath = Join-Path $repoRoot 'public/build-info.json'
+$localBuildInfo = $null
+
+if (Test-Path $localBuildInfoPath) {
+  $localBuildInfo = Get-Content $localBuildInfoPath -Raw | ConvertFrom-Json
+}
+
+function Invoke-Check {
   param(
     [string]$Url
   )
 
-  $curl = Get-Command curl.exe -ErrorAction SilentlyContinue
-  if ($curl) {
-    $statusCode = & $curl.Source -sS -o NUL -L -w '%{http_code}' $Url
-    $statusInt = 0
-    [void][int]::TryParse(($statusCode | Out-String).Trim(), [ref]$statusInt)
-    return [PSCustomObject]@{
-      Url = $Url
-      StatusCode = $statusInt
-      Ok = $statusInt -ge 200 -and $statusInt -lt 400
-    }
-  }
-
-  $res = Invoke-WebRequest -Uri $Url -Method GET -TimeoutSec 30 -UseBasicParsing
-  return [PSCustomObject]@{
+  $response = Invoke-WebRequest -Uri $Url -Method GET -TimeoutSec 30 -UseBasicParsing
+  [PSCustomObject]@{
     Url = $Url
-    StatusCode = $res.StatusCode
-    Ok = $res.StatusCode -ge 200 -and $res.StatusCode -lt 400
+    StatusCode = [int]$response.StatusCode
+    Body = [string]$response.Content
   }
 }
 
-if ($Mode -eq 'preview') {
-  $targets = @(
-    '/',
-    '/guia-examen',
-    '/sobre-nosotros',
-    '/contacto'
+function Assert-Contains {
+  param(
+    [string]$Body,
+    [string]$Needle,
+    [string]$Message
   )
-} else {
-  $targets = @(
-    '/',
-    '/novedades',
-    '/novedades/2026-03-09-filtrado-ingles-y-comentarios',
-    '/ranking',
-    '/dashboard',
-    '/api/packs/current.json',
-    '/api/packs/week-1-grade-11-subject-matematicas.json'
+
+  if (-not $Body.Contains($Needle)) {
+    throw "[verify] Missing expected text: $Message"
+  }
+}
+
+function Assert-NotContains {
+  param(
+    [string]$Body,
+    [string]$Needle,
+    [string]$Message
   )
+
+  if ($Body.Contains($Needle)) {
+    throw "[verify] Unexpected text found: $Message"
+  }
 }
 
 Write-Host "[verify] Base URL: $BaseUrl" -ForegroundColor Cyan
 Write-Host "[verify] Mode:     $Mode" -ForegroundColor Cyan
 
-$results = @()
-foreach ($path in $targets) {
-  $url = "$BaseUrl$path"
-  try {
-    $results += Test-Endpoint -Url $url
-  }
-  catch {
-    $results += [PSCustomObject]@{
-      Url = $url
-      StatusCode = 0
-      Ok = $false
-    }
-  }
+$root = Invoke-Check -Url "$BaseUrl/"
+if ($root.StatusCode -lt 200 -or $root.StatusCode -ge 400) {
+  throw "[verify] Home did not return 2xx/3xx."
 }
 
-$results | Format-Table -AutoSize
+$guideCo = Invoke-Check -Url "$BaseUrl/guia-examen?country=co"
+Assert-Contains -Body $guideCo.Body -Needle 'Como reporta resultados el ICFES' -Message 'CO guide should retain ICFES section'
 
-$failed = $results | Where-Object { -not $_.Ok }
-if ($failed.Count -gt 0) {
-  throw "[verify] Deployment verification failed for $($failed.Count) endpoint(s)."
+$guideMx = Invoke-Check -Url "$BaseUrl/guia-examen?country=mx"
+Assert-Contains -Body $guideMx.Body -Needle 'Guia Completa EXANI-II' -Message 'MX guide hero'
+Assert-NotContains -Body $guideMx.Body -Needle 'Como reporta resultados el ICFES' -Message 'MX guide must not leak ICFES block'
+
+$guideAr = Invoke-Check -Url "$BaseUrl/guia-examen?country=ar"
+Assert-Contains -Body $guideAr.Body -Needle 'Localizacion en progreso' -Message 'Generic tenant fallback should stay neutral'
+Assert-NotContains -Body $guideAr.Body -Needle 'Como reporta resultados el ICFES' -Message 'Generic tenant must not leak ICFES block'
+
+$questionsMx = Invoke-Check -Url "$BaseUrl/api/questions?country=mx&exam=exani&grade=3&subject=matematicas&page=1"
+if ($questionsMx.StatusCode -ge 400) {
+  throw "[verify] /api/questions returned an incompatible status for MX: $($questionsMx.StatusCode)"
+}
+
+if ($localBuildInfo) {
+  $buildInfoRemote = Invoke-Check -Url "$BaseUrl/build-info.json"
+  $buildInfoJson = $buildInfoRemote.Body | ConvertFrom-Json
+  if ($buildInfoJson.commit -ne $localBuildInfo.commit) {
+    throw "[verify] Live build-info commit ($($buildInfoJson.commit)) does not match local commit ($($localBuildInfo.commit))."
+  }
 }
 
 Write-Host '[verify] Deployment verification passed.' -ForegroundColor Green

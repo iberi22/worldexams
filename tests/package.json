@@ -7,7 +7,7 @@
     "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug",
     "test:ui": "playwright test --ui",
-    "test:prod:smoke": "playwright test api-gateway-public-regression.test.ts exam-creation-matrix.prod.test.ts --project=chromium",
+    "test:prod:smoke": "playwright test api-gateway-public-regression.test.ts exam-creation-matrix.prod.test.ts guide-country-isolation.prod.test.ts home-country-isolation.prod.test.ts route-availability.prod.test.ts --project=chromium",
     "test:report": "playwright show-report test-results/html",
     "test:security": "playwright test --grep '@security'",
     "test:performance": "playwright test --grep '@performance'",

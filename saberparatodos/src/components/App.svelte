@@ -45,6 +45,7 @@
   import packageInfo from '../../package.json';
   import { countryConfig as defaultCountryConfig } from '../config';
   import { isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
+  import { getTenantExperience } from '../config/tenant-experience';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
@@ -115,6 +116,22 @@
   let showAllLandingGrades = $state(false); // 🆕 Control for landing grid expansion
 
   const preuEnabled = isPreuRuntimeEnabled(countryCode);
+  let tenantExperience = $derived(getTenantExperience(runtimeCountry));
+  let supportsEnglishDiagnostic = $derived(
+    runtimeCountry.subjects.some((subject) => subject.globalId === 'english')
+  );
+  let landingGrades = $derived(
+    [...runtimeCountry.grades]
+      .sort((left, right) => right.id - left.id)
+      .map((grade) => grade.id)
+  );
+  let primaryLandingGrade = $derived(landingGrades[0] || 11);
+  let secondaryLandingGrades = $derived(landingGrades.slice(1));
+  let compactLandingGrades = $derived(secondaryLandingGrades.slice(0, 3));
+  let expandedLandingGrades = $derived(secondaryLandingGrades);
+  let themeGradient = $derived(
+    `linear-gradient(90deg, ${runtimeCountry.theme.primary}, ${runtimeCountry.theme.secondary}, ${runtimeCountry.theme.accent})`
+  );
 
   function setView(newView) {
     view = newView;
@@ -279,7 +296,7 @@
 
     // 🆕 FORCE English Diagnostic Mode (Grade 0) if subject matches
     // This overrides potential "Grade 11" default from modal if 0 wasn't in list
-    if (config.subject && (config.subject.includes('Diagnóstico') || config.subject.includes('Diagnostico'))) {
+    if (config.subject && config.subject.includes('Diagnostico')) {
         selectedGrade = 0;
         console.log('🇬🇧 Enforcing English Diagnostic Mode (Grade 0)');
     }
@@ -517,7 +534,7 @@
   }
 
   async function handleGradeSelect(grade) {
-    console.log(`🎯 handleGradeSelect called for grade ${grade}`);
+    console.log(`Grade selected from landing: ${grade}`);
     selectedGrade = grade;
     isLoadingQuestions = true;
     try {
@@ -556,7 +573,7 @@
     ).length >= 50; // Threshold
 
     if (hasEnough) {
-        console.log(`🚀 Optimization: Using ${grade}/${subject} questions already in memory`);
+        console.log(`Optimization: Using cached questions for grade ${grade} and subject ${subject}`);
         return;
     }
 
@@ -829,7 +846,7 @@
           onclick={() => setView(AppView.LANDING)}
           class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
         >
-          SaberParaTodos
+          {runtimeCountry.product.siteName}
         </button>
         <div class="hidden sm:flex items-center gap-1.5 text-[10px] font-mono border border-white/10 px-2 py-0.5 rounded">
           <span class="text-yellow-400/80">v{packageInfo.version}</span>
@@ -845,10 +862,10 @@
           href="/guia-examen"
           class="hidden md:flex ml-4 px-3 py-1.5 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500/10 transition-colors rounded items-center gap-1"
         >
-          <span>📚</span> Volver a la Guía Principal
+          <span>GUIA</span> {tenantExperience.guideShortcutLabel}
         </a>
         <a href="/guia-examen" class="md:hidden ml-2 px-2 py-1 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 rounded">
-          📚 Guía
+          Guia
         </a>
       </div>
       <div class="flex items-center gap-4">
@@ -925,7 +942,7 @@
         out:fade={{ duration: 200 }}
         class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-20 sm:pb-24 w-full overflow-hidden relative"
       >
-        <!-- Colombia Flag Gradient Background -->
+        <!-- Runtime flag gradient background -->
         <div class="hero-gradient"></div>
 
         <!-- Floating Particles -->
@@ -937,24 +954,20 @@
 
         <div class="space-y-4 relative z-10">
           <div class="flex items-center justify-center gap-2 mb-4">
-            <!-- Colombia Flag SVG -->
-            <svg class="w-8 h-5" viewBox="0 0 32 20" fill="none">
-              <rect y="0" width="32" height="10" fill="#FCD116"/>
-              <rect y="10" width="32" height="5" fill="#003893"/>
-              <rect y="15" width="32" height="5" fill="#CE1126"/>
-            </svg>
-            <span class="text-xs font-bold uppercase tracking-[0.3em] text-[#FCD116]">Colombia</span>
+            <!-- Runtime country marker -->
+            <span class="text-2xl leading-none">{runtimeCountry.flag}</span>
+            <span class="text-xs font-bold uppercase tracking-[0.3em]" style={`color: ${runtimeCountry.theme.primary};`}>{runtimeCountry.name}</span>
           </div>
           <p class="text-xs font-bold uppercase tracking-[0.4em] text-emerald-500 animate-pulse-slow">
-            Beta Abierta :: v{packageInfo.version}
+            {tenantExperience.landingBadge} :: v{packageInfo.version}
           </p>
           <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
-            Saber <span class="text-white/20">Para Todos</span>
-            <span class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] rounded-full"></span>
+            {tenantExperience.landingTitle}
+            <span class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 rounded-full" style={`background: ${themeGradient};`}></span>
           </h1>
           <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-4 relative z-20">
-            Interfaz preparatoria avanzada para pruebas estandarizadas.
-            Entorno minimalista optimizado para enfoque y eficiencia.
+            {tenantExperience.landingSubtitle}
+            {tenantExperience.landingDescription}
           </p>
 
           <!-- Quick Stats -->
@@ -964,7 +977,7 @@
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-              <span>4000+ preguntas</span>
+              <span>{tenantExperience.questionBankLabel}</span>
 
               <!-- Updates tooltip -->
               <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 px-4 py-3 bg-[#0a0a0a]/95 text-emerald-100 text-xs rounded-xl opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:-translate-y-1 pointer-events-none border border-emerald-500/20 shadow-2xl z-50 w-64 text-center backdrop-blur-xl">
@@ -978,7 +991,7 @@
                      <strong class="text-emerald-400">💡 Tip:</strong> Si no borras la app, acumularás todas las preguntas en tu dispositivo <strong class="text-white">GRATIS</strong>.
                    </p>
                  </div>
-                 <div class="mt-2 text-[10px] text-white/20 font-mono uppercase tracking-widest">Total Global: 1,800+</div>
+                 <div class="mt-2 text-[10px] text-white/20 font-mono uppercase tracking-widest">{runtimeCountry.examName} · {runtimeCountry.name}</div>
 
                  <!-- Arrow -->
                  <div class="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-3 h-3 bg-[#0a0a0a]/95 border-r border-b border-emerald-500/20 rotate-45 backdrop-blur-xl"></div>
@@ -989,13 +1002,13 @@
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
-              <span>5 asignaturas</span>
+              <span>{tenantExperience.subjectLabel}</span>
             </div>
             <div class="flex items-center gap-1">
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
-              <span>100% gratis</span>
+              <span>{tenantExperience.freeAccessLabel}</span>
             </div>
           </div>
         </div>
@@ -1009,10 +1022,11 @@
           }} />
 
           <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">
-            Exámenes tipo saber
+            {tenantExperience.gradeSectionTitle}
           </h3>
 
           <!-- 🆕 English Card - Cross-Grade Diagnostic Mode -->
+          {#if supportsEnglishDiagnostic}
           <div class="mb-6">
             <FlashlightCard
               onClick={async () => {
@@ -1030,11 +1044,11 @@
 
                   // Store in loadedQuestions for the modal to use
                   loadedQuestions = englishQuestions;
-                  availableSubjects = ['Inglés']; // Only English for this mode
+                  availableSubjects = ['Ingles']; // Only English for this mode
 
                   // Set config for English diagnostic
                   selectedGrade = 0; // Special: 0 = Cross-grade mode
-                  selectedSubject = 'Inglés Diagnóstico';
+                  selectedSubject = 'Ingles Diagnostico';
 
                   console.log(`✅ Loaded ${englishQuestions.length} English questions across all levels`);
                   showExamConfigModal = true;
@@ -1048,17 +1062,17 @@
               className="p-4 flex flex-col items-center justify-center gap-3 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20"
             >
               <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10 mb-2">
-                <img src="/favicon.png" alt="SaberParaTodos" class="w-9 h-9 object-contain" />
+                <img src="/favicon.png" alt={runtimeCountry.product.siteName} class="w-9 h-9 object-contain" />
               </div>
               <div class="text-center flex-1 w-full">
                 <div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center justify-center gap-2">
-                  Inglés
+                  Ingles
                   <span class="px-1.5 py-0.5 bg-purple-500/20 text-purple-400 text-[8px] font-bold uppercase tracking-widest rounded">
-                    Diagnóstico
+                    Diagnostico
                   </span>
                 </div>
                 <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-0.5">
-                  Niveles A1 a B2+ • Evalúa tu nivel real
+                  Niveles A1 a B2+ · Evalua tu nivel real
                 </div>
               </div>
               <div class="flex flex-col items-center gap-1 w-full mt-2">
@@ -1068,7 +1082,7 @@
                   </span>
                 </div>
                 <div class="flex items-center justify-center gap-1 text-[9px] text-white/30">
-                  <span>Grados 3-11</span>
+                  <span>Diagnostico multinivel</span>
                   <svg class="w-4 h-4 text-white/30 group-hover:text-blue-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                   </svg>
@@ -1076,31 +1090,32 @@
               </div>
             </FlashlightCard>
           </div>
+          {/if}
 
           <!-- Grade Cards Section -->
           <div class="flex flex-col gap-4 max-w-2xl mx-auto w-full">
             <!-- 🔝 Main Grade 11 Card (Always First & Big) -->
             <FlashlightCard
               onClick={() => {
-                selectedGrade = 11;
+                selectedGrade = primaryLandingGrade;
                 showExamConfigModal = true;
               }}
               className="p-4 flex flex-col items-center justify-center group transition-all duration-300 hover:scale-105 hover:border-emerald-500/50 h-32 bg-emerald-500/5 border-emerald-500/30"
             >
               <div class="font-bold text-emerald-500 group-hover:text-emerald-400 transition-all duration-300 text-5xl drop-shadow-[0_0_10px_rgba(16,185,129,0.3)]">
-                11°
+                {primaryLandingGrade}°
               </div>
               <div class="uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 transition-all duration-300 text-xs">
                 Grado
               </div>
               <div class="mt-2 px-2 py-0.5 bg-emerald-500/20 rounded-full border border-emerald-500/30">
-                <span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Examen Principal</span>
+                <span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Ruta principal</span>
               </div>
             </FlashlightCard>
 
             <!-- 🔢 Other Grade Cards (Centered Below) -->
             <div class="flex flex-wrap justify-center gap-4">
-              {#each (showAllLandingGrades ? [10, 9, 8, 7, 6, 5, 4, 3] : [9, 5, 3]) as grade}
+              {#each (showAllLandingGrades ? expandedLandingGrades : compactLandingGrades) as grade}
                 <FlashlightCard
                   onClick={() => {
                     selectedGrade = grade;
@@ -1207,7 +1222,7 @@
           -->
 
           <!--
-          {#if runtimeCountry.features?.blog}
+          {#if false && runtimeCountry.features?.blog}
           <FlashlightCard
             onClick={async () => {
               isNavigatingToBlog = true;
@@ -1216,8 +1231,8 @@
                 // Load only grade 11 by default (1 small request instead of 1 large request with all grades)
                 if (loadedQuestions.length === 0) {
                   console.log('📚 Loading questions for Blog view using grade-specific endpoint...');
-                  // Single request for grade 11 only (default for ICFES)
-                  loadedQuestions = await fetchQuestionsForGrade(11, 150);
+                  // Single request for the primary grade first
+                  loadedQuestions = await fetchQuestionsForGrade(primaryLandingGrade, 150);
 
                   console.log(`✅ Loaded ${loadedQuestions.length} questions for grade 11`);
                   console.log(`📊 Performance: ~40KB instead of ~150KB (73% smaller)`);
@@ -1259,7 +1274,7 @@
             </svg>
             Guía Completa {runtimeCountry.product.guideLabel || runtimeCountry.examName}
           </a>
-          <p class="text-xs opacity-30">Conoce la estructura del examen y tips de estudio</p>
+          <p class="text-xs opacity-30">{tenantExperience.guideShortcutDescription}</p>
         </div>
         <!-- Footer - Fixed at Bottom -->
         <footer class="fixed bottom-0 left-0 right-0 bg-[#0a0a0a]/95 backdrop-blur-sm border-t border-white/5 z-50">
@@ -1353,6 +1368,7 @@
           examData={lastExamData}
           questions={generatedExamQuestions || examQuestions}
           {userAnswers}
+          {runtimeCountry}
           onHome={() => setView(AppView.LANDING)}
           onLeaderboard={() => setView(AppView.LEADERBOARD)}
           onViewReports={() => showLocalReports = true}

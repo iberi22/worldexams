@@ -2,8 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import App from '../components/App.svelte';
 import { resolveRuntimeCountryConfig } from '../config';
+import { getTenantExperience } from '../config/tenant-experience';
 
 const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+const tenantExperience = getTenantExperience(runtimeCountry);
 ---
 
 <Layout
@@ -13,24 +15,20 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
   showNavbar={false}
   showFooter={false}
 >
-
-  <!-- 🚀 SSR Static Hero (Visible to bots and while Svelte loads) -->
   <div id="mobile-hero" class="static-content group/hero fixed inset-0 z-[100] bg-[#0A0A0B]/95 backdrop-blur-md flex flex-col justify-center items-center transition-opacity duration-1000">
-    <!-- Botón Cerrar (Habilitado en todas las vistas) -->
-    <button id="close-hero" class="absolute top-6 right-6 w-10 h-10 flex items-center justify-center bg-white/10 rounded-full text-white/70 hover:text-white transition-colors border border-white/20 shadow-lg z-50">
+    <button id="hero-close-btn" class="absolute top-6 right-6 w-10 h-10 flex items-center justify-center bg-white/10 rounded-full text-white/70 hover:text-white transition-colors border border-white/20 shadow-lg z-50">
       <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
       </svg>
     </button>
 
     <section class="min-h-[70vh] flex flex-col items-center justify-center px-4 relative overflow-hidden w-full">
-      <!-- Background elements similar to the app for visual continuity -->
       <div class="absolute inset-0 bg-[#0A0A0B] -z-10 md:hidden"></div>
       <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-full bg-emerald-500/5 blur-[120px] rounded-full -z-10"></div>
 
       <div class="max-w-4xl mx-auto text-center mt-12 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest">
-          {runtimeCountry.examAuthority} 2026 • gratis
+          {runtimeCountry.examAuthority} 2026 • {tenantExperience.freeAccessLabel.toLowerCase()}
         </div>
 
         <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md">
@@ -38,10 +36,9 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
         </h1>
 
         <p class="text-lg md:text-xl text-white/60 mb-12 max-w-2xl mx-auto leading-relaxed px-4 md:px-0">
-          La plataforma gratuita y de codigo abierto para estudiantes de America Latina. Crea simulacros personalizados, entrena por areas y preparate para {runtimeCountry.examFullName}.
+          {tenantExperience.landingDescription} Crea simulacros personalizados, entrena por areas y preparate para {runtimeCountry.examFullName}.
         </p>
 
-        <!-- Indicador de tiempo y checkbox -->
         <div class="flex flex-col items-center justify-center gap-4 mt-8">
           <div class="flex items-center justify-center gap-2 text-xs font-mono text-emerald-500/50 uppercase tracking-widest animate-pulse">
             <span>Iniciando plataforma</span>
@@ -61,10 +58,9 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
       </div>
     </section>
 
-    <!-- Noscript fallback for AdSense compliance -->
     <noscript>
       <div class="p-8 text-center bg-red-500/10 border border-red-500/20 rounded-xl my-4 mx-auto max-w-xl text-red-400">
-        Esta aplicación requiere JavaScript para funcionar. Por favor, actívalo en tu navegador para realizar tus simulacros.
+        Esta aplicacion requiere JavaScript para funcionar. Por favor, activalo en tu navegador para realizar tus simulacros.
       </div>
     </noscript>
   </div>
@@ -90,7 +86,6 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
 
       if (!hero) return;
 
-      // Desactivar si el usuario eligió "No volver a mostrar"
       if (localStorage.getItem("spt_hide_hero") === "true") {
         hero.style.display = "none";
         return;
@@ -108,7 +103,7 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
         hero.style.pointerEvents = "none";
         setTimeout(() => {
           hero.style.display = "none";
-        }, 1000); // 1s wait para la transición css
+        }, 1000);
       };
 
       const closeBtn = document.getElementById("hero-close-btn");

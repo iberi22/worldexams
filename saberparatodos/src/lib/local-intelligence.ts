@@ -9,6 +9,8 @@ import {
   type IcfesModuleScores
 } from './mmr-system';
 import { CO_ICFES_2026_BENCHMARK, type IcfesBenchmarkConfig } from '../config/icfes-benchmarks';
+import { applyPracticeEstimateSemantics } from './practice-estimate';
+import type { CountryConfig as RuntimeCountryConfig } from '../config';
 
 export interface CompetencyStats {
   id: string;
@@ -113,7 +115,7 @@ function buildSubjectModuleEstimates(
 /**
  * Reconstruct user profile by replaying history
  */
-export async function generateUserProfile(): Promise<UserProfile> {
+export async function generateUserProfile(country?: RuntimeCountryConfig | null): Promise<UserProfile> {
   const results = await getAllLocalResults();
 
   // Flatten all question attempts
@@ -274,7 +276,7 @@ export async function generateUserProfile(): Promise<UserProfile> {
   };
 
   const { moduleScores, subjectCoverage } = buildSubjectModuleEstimates(subjects);
-  const icfesEstimate = estimateIcfesScore({
+  const icfesEstimate = applyPracticeEstimateSemantics(estimateIcfesScore({
     mmr: globalMMR,
     accuracy: attempts.length > 0 ? correctCount / attempts.length : 0,
     evidenceCount: attempts.length,
@@ -284,7 +286,7 @@ export async function generateUserProfile(): Promise<UserProfile> {
     consistencyScore: advancedMetrics.consistencyScore,
     subjectCoverage,
     estimatedModuleScores: subjectCoverage > 0 ? moduleScores : undefined
-  });
+  }), country);
 
   return {
     globalMMR: Math.round(globalMMR),
@@ -404,11 +406,12 @@ export function buildExamPerformanceSnapshot(
 }
 
 export async function generateExamPerformanceSnapshot(
-  benchmark: IcfesBenchmarkConfig = CO_ICFES_2026_BENCHMARK
+  benchmark: IcfesBenchmarkConfig = CO_ICFES_2026_BENCHMARK,
+  country?: RuntimeCountryConfig | null
 ): Promise<ExamPerformanceSnapshot> {
   const [results, profile] = await Promise.all([
     getAllLocalResults(),
-    generateUserProfile()
+    generateUserProfile(country)
   ]);
 
   return buildExamPerformanceSnapshot(results, profile, benchmark);

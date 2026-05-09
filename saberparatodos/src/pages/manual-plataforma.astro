@@ -1,10 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { resolveRuntimeCountryConfig } from '../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
 ---
 
 <Layout
-  title="Manual de Uso | SaberParaTodos"
-  description="Manual rápido para estudiantes, docentes e instituciones: cómo iniciar práctica, revisar resultados y usar la plataforma SaberParaTodos."
+  title={`Manual de uso | ${country.product.siteName}`}
+  description={`Manual operativo para usar ${country.product.siteName} con el tenant ${country.name}.`}
 >
   <main class="min-h-screen bg-[#121212] text-[#F5F5DC]">
     <section class="border-b border-white/10 bg-[radial-gradient(circle_at_top,rgba(16,185,129,0.18),transparent_40%),linear-gradient(180deg,#121212_0%,#0a0a0a_100%)] px-4 py-20">
@@ -12,16 +15,16 @@ import Layout from '../layouts/Layout.astro';
         <span class="inline-flex rounded-full border border-emerald-500/30 bg-emerald-500/10 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.25em] text-emerald-400">
           Manual operativo
         </span>
-        <h1 class="mt-6 text-4xl font-black tracking-tight md:text-6xl">Cómo usar SaberParaTodos</h1>
+        <h1 class="mt-6 text-4xl font-black tracking-tight md:text-6xl">Como usar {country.product.siteName}</h1>
         <p class="mt-6 max-w-3xl text-lg leading-relaxed text-white/65">
-          Guía rápida de lanzamiento para estudiantes, docentes y equipos de soporte. Resume el flujo real de uso de la plataforma hoy.
+          Guia rapida para estudiantes, docentes y soporte. Resume el flujo real de uso de la plataforma para {country.examName}.
         </p>
         <div class="mt-8 flex flex-wrap gap-3">
           <a href="/" class="rounded-xl bg-emerald-500 px-5 py-3 font-bold text-black transition hover:bg-emerald-400">
-            Ir a la prueba
+            Ir a la practica
           </a>
-          <a href="/developers/docs" class="rounded-xl border border-white/15 px-5 py-3 font-bold text-white/85 transition hover:border-emerald-500/40 hover:text-white">
-            Ver docs del API
+          <a href="/guia-examen" class="rounded-xl border border-white/15 px-5 py-3 font-bold text-white/85 transition hover:border-emerald-500/40 hover:text-white">
+            Ver guia del examen
           </a>
         </div>
       </div>
@@ -30,24 +33,24 @@ import Layout from '../layouts/Layout.astro';
     <section class="px-4 py-16">
       <div class="mx-auto grid max-w-5xl gap-6 md:grid-cols-3">
         <article class="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
-          <p class="text-xs font-bold uppercase tracking-[0.25em] text-[#FCD116]">Estudiantes</p>
-          <h2 class="mt-3 text-2xl font-black">Práctica inmediata</h2>
+          <p class="text-xs font-bold uppercase tracking-[0.25em] text-emerald-300">Estudiantes</p>
+          <h2 class="mt-3 text-2xl font-black">Practica inmediata</h2>
           <p class="mt-3 text-sm leading-6 text-white/60">
-            La página principal ya es la experiencia de práctica. No necesitas pasar por una landing separada.
+            La portada ya es la experiencia principal. Selecciona grado, area o ruta disponible y crea tu siguiente simulacro.
           </p>
         </article>
         <article class="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
-          <p class="text-xs font-bold uppercase tracking-[0.25em] text-[#003893]">Docentes</p>
-          <h2 class="mt-3 text-2xl font-black">Seguimiento rápido</h2>
+          <p class="text-xs font-bold uppercase tracking-[0.25em] text-sky-300">Docentes</p>
+          <h2 class="mt-3 text-2xl font-black">Seguimiento local</h2>
           <p class="mt-3 text-sm leading-6 text-white/60">
-            Usa resultados, precisión, exportación `.md` y módulos por área para revisar desempeño por sesión.
+            Usa resultados, precision, historial local y exportaciones para revisar el avance del estudiante sin mezclar datos de otros tenants.
           </p>
         </article>
         <article class="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
-          <p class="text-xs font-bold uppercase tracking-[0.25em] text-[#CE1126]">Desarrollo</p>
-          <h2 class="mt-3 text-2xl font-black">Tokens y API</h2>
+          <p class="text-xs font-bold uppercase tracking-[0.25em] text-amber-300">Producto</p>
+          <h2 class="mt-3 text-2xl font-black">Contexto del tenant</h2>
           <p class="mt-3 text-sm leading-6 text-white/60">
-            El portal de desarrolladores permite iniciar sesión, crear un workspace personal y generar tu primera API key.
+            Cada tenant usa branding, guia, autoridad y disponibilidad editorial propias. Si una ruta no esta validada, se degrada a un estado neutral.
           </p>
         </article>
       </div>
@@ -56,43 +59,31 @@ import Layout from '../layouts/Layout.astro';
     <section class="px-4 pb-20">
       <div class="mx-auto max-w-5xl space-y-10">
         <article class="rounded-3xl border border-white/10 bg-[#0f1115] p-8">
-          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">1. Flujo del estudiante</p>
+          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">1. Flujo de practica</p>
           <ol class="mt-6 space-y-4 text-white/75">
-            <li><strong>Entrar a `/`:</strong> allí empieza la prueba. El botón o ruta `/practica` ya no es necesaria para el flujo principal.</li>
-            <li><strong>Elegir módulo o simulacro:</strong> selecciona área, cantidad de preguntas y modalidad disponible.</li>
-            <li><strong>Responder y finalizar:</strong> al terminar, la plataforma muestra resultados, precisión y opciones de descarga o revisión.</li>
-            <li><strong>Volver a practicar:</strong> repite módulos cortos para diagnóstico o sesiones largas para simulacro.</li>
+            <li><strong>Entrar a `/`:</strong> desde alli empieza la practica principal.</li>
+            <li><strong>Elegir una ruta:</strong> selecciona grado, cantidad de preguntas y modalidad disponible para {country.examName}.</li>
+            <li><strong>Responder y finalizar:</strong> al terminar, la plataforma muestra resultados, precision y opciones de revision.</li>
+            <li><strong>Volver a practicar:</strong> repite modulos cortos para diagnostico o sesiones largas para simulacro.</li>
           </ol>
         </article>
 
         <article class="rounded-3xl border border-white/10 bg-[#0f1115] p-8">
-          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">2. Recomendaciones de soporte</p>
+          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">2. Soporte operativo</p>
           <ul class="mt-6 space-y-4 text-white/75">
-            <li>Si un usuario entra por primera vez, indícale que inicie desde la portada y no desde rutas antiguas.</li>
-            <li>Si reporta resultados vacíos en inglés, verificar que esté en la versión actual; ya existe fallback a packs estáticos.</li>
-            <li>Si usa móvil, el menú superior ya funciona con panel lateral y la navegación principal no depende del botón redundante de comenzar.</li>
+            <li>Si un usuario entra por primera vez, indicale que inicie desde la portada o desde la guia del tenant activo.</li>
+            <li>Si reporta una ruta deshabilitada, verifica el estado editorial del pais antes de prometer contenido oficial.</li>
+            <li>Si usa movil, la navegacion principal sigue funcionando aunque se cierre el hero inicial.</li>
           </ul>
         </article>
 
         <article class="rounded-3xl border border-white/10 bg-[#0f1115] p-8">
-          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">3. Flujo del desarrollador</p>
-          <ol class="mt-6 space-y-4 text-white/75">
-            <li><strong>Entrar a `/developers/dashboard`.</strong></li>
-            <li><strong>Iniciar sesión:</strong> se puede usar GitHub o enlace mágico por correo.</li>
-            <li><strong>Crear la primera key:</strong> si no existe organización, la plataforma crea un workspace personal automáticamente.</li>
-            <li><strong>Consultar integración:</strong> la referencia técnica está en <a href="/developers/docs" class="text-emerald-400 underline">/developers/docs</a>.</li>
-          </ol>
-        </article>
-
-        <article class="rounded-3xl border border-white/10 bg-[#0f1115] p-8">
-          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">4. URLs clave del lanzamiento</p>
+          <p class="text-sm font-bold uppercase tracking-[0.3em] text-white/35">3. URLs clave</p>
           <ul class="mt-6 grid gap-3 text-sm text-white/75 md:grid-cols-2">
-            <li><a href="/" class="text-emerald-400 underline">/</a> experiencia principal de práctica</li>
-            <li><a href="/guia-examen" class="text-emerald-400 underline">/guia-examen</a> contexto del examen</li>
-            <li><a href="/preparacion" class="text-emerald-400 underline">/preparacion</a> preparación e inscripción</li>
+            <li><a href="/" class="text-emerald-400 underline">/</a> experiencia principal de practica</li>
+            <li><a href="/guia-examen" class="text-emerald-400 underline">/guia-examen</a> estructura y contexto del examen</li>
+            <li><a href="/preparacion" class="text-emerald-400 underline">/preparacion</a> preparacion visible del tenant</li>
             <li><a href="/manual-plataforma" class="text-emerald-400 underline">/manual-plataforma</a> manual de uso</li>
-            <li><a href="/developers/dashboard" class="text-emerald-400 underline">/developers/dashboard</a> gestión de API keys</li>
-            <li><a href="/developers/docs" class="text-emerald-400 underline">/developers/docs</a> documentación del API</li>
           </ul>
         </article>
       </div>
