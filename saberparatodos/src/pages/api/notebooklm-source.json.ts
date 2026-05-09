@@ -50,7 +50,7 @@ export const GET: APIRoute = async ({ locals, request }) => {
   const country = resolveRuntimeCountryConfig(locals.country);
   const origin = new URL(request.url).origin;
   const officialResources = [
-    ...(OFFICIAL_RESOURCES[country.code] || []),
+    ...((OFFICIAL_RESOURCES as Record<string, any>)[country.code] || []),
     {
       name: 'Khan Academy',
       url: country.language === 'pt-BR' ? 'https://pt.khanacademy.org/' : 'https://es.khanacademy.org/',
