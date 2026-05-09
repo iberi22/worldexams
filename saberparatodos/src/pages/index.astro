@@ -26,16 +26,16 @@ const tenantExperience = getTenantExperience(runtimeCountry);
       <div class="absolute inset-0 bg-[#0A0A0B] -z-10 md:hidden"></div>
       <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-full bg-emerald-500/5 blur-[120px] rounded-full -z-10"></div>
 
-      <div class="max-w-4xl mx-auto text-center mt-12 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]">
+      <div class="w-full max-w-4xl mx-auto flex flex-col items-center text-center mt-0 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest">
           {runtimeCountry.examAuthority} 2026 • {tenantExperience.freeAccessLabel.toLowerCase()}
         </div>
 
-        <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md">
+        <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md text-center w-full">
           Domina {runtimeCountry.examName} con <br class="md:hidden" /><span class="text-emerald-500">Inteligencia</span>
         </h1>
 
-        <p class="text-lg md:text-xl text-white/60 mb-12 max-w-2xl mx-auto leading-relaxed px-4 md:px-0">
+        <p class="text-lg md:text-xl text-white/60 mb-12 max-w-2xl text-center leading-relaxed px-4 md:px-0">
           {tenantExperience.landingDescription} Crea simulacros personalizados, entrena por areas y preparate para {runtimeCountry.examFullName}.
         </p>
 
