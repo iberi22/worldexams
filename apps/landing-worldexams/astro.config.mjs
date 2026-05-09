@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://worldexams.pages.dev',
+  site: 'https://world-exams.github.io/',
   integrations: [svelte(), tailwind(), sitemap()],
   output: 'static',
 });

@@ -65,18 +65,18 @@ function ensurePublicDir(publicDir) {
 
 async function getBundle(entryPoint) {
   if (_bundleLocation) return _bundleLocation;
-  
+
   console.log(`  📦 Bundling Remotion project...`);
   const start = Date.now();
-  
+
   _bundleLocation = await bundle({
     entryPoint: entryPoint,
     webpackOverride: (config) => config,
   });
-  
+
   const elapsed = ((Date.now() - start) / 1000).toFixed(1);
   console.log(`  ✅ Bundle created in ${elapsed}s`);
-  
+
   return _bundleLocation;
 }
 
@@ -90,10 +90,10 @@ async function renderVideo({
 }) {
   // 1. Ensure browser
   await ensureBrowser({ browserExecutable });
-  
+
   // 2. Bundle (reusado)
   const serveUrl = await getBundle(entryPoint);
-  
+
   // 3. Select composition con inputProps
   console.log(`  ⚙️  Selecting composition...`);
   const composition = await selectComposition({
@@ -101,16 +101,16 @@ async function renderVideo({
     id: compositionId,
     inputProps,
   });
-  
+
   // Log composition info
   const fps = composition.fps;
   const totalSeconds = composition.durationInFrames / fps;
   console.log(`  📐 ${composition.width}x${composition.height} @ ${fps}fps, ${composition.durationInFrames} frames (${totalSeconds.toFixed(1)}s)`);
-  
+
   // 4. Render
   console.log(`  🎬 Rendering...`);
   const start = Date.now();
-  
+
   await renderMedia({
     composition,
     serveUrl,
@@ -119,30 +119,30 @@ async function renderVideo({
     inputProps,
     chromiumOptions: {},
     logLevel: 'error',
-    
+
     // ── Calidad ──
     crf: 14,           // H264: 1-51, lower=better. Default 18. 14 = muy buena calidad
     videoBitrate: null, // null = CRF controls quality
-    
+
     // ── Audio ──
     muted: false,
     audioCodec: 'aac',
     audioBitrate: '128k',
-    
+
     // ── Performance ──
     concurrency: null, // Remotion decide (half CPU)
-    
+
     // ── Chrome ──
     browserExecutable,
   });
-  
+
   const elapsed = ((Date.now() - start) / 1000).toFixed(1);
-  const fileSize = fs.existsSync(outputLocation) 
-    ? (fs.statSync(outputLocation).size / 1024).toFixed(0) 
+  const fileSize = fs.existsSync(outputLocation)
+    ? (fs.statSync(outputLocation).size / 1024).toFixed(0)
     : '?';
-  
+
   console.log(`  ✅ Rendered in ${elapsed}s — ${fileSize} KB`);
-  
+
   return outputLocation;
 }
 
@@ -150,30 +150,30 @@ async function renderVideo({
 
 async function main() {
   const args = parseArgs();
-  
+
   if (!args.props) {
     console.error('ERROR: --props <json_file> is required');
     process.exit(1);
   }
-  
+
   const propsFile = path.resolve(args.props);
   const inputProps = readJson(propsFile);
   const compositionId = args.composition || 'VerticalMathTemplate';
   const entryPoint = args.entryPoint ? path.resolve(args.entryPoint) : DEFAULT_ENTRY;
   const publicDir = args.publicDir ? path.resolve(args.publicDir) : DEFAULT_PUBLIC;
-  const outputLocation = args.output 
-    ? path.resolve(args.output) 
+  const outputLocation = args.output
+    ? path.resolve(args.output)
     : path.join(REMOTION_DIR, 'out', `${inputProps.id || 'output'}.mp4`);
-  
+
   // Ensure public dir exists
   ensurePublicDir(publicDir);
-  
+
   // Ensure output dir exists
   const outDir = path.dirname(outputLocation);
   if (!fs.existsSync(outDir)) {
     fs.mkdirSync(outDir, { recursive: true });
   }
-  
+
   try {
     await renderVideo({
       inputProps,
