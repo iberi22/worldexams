@@ -1,93 +1,3 @@
-<think>
-Necesito generar 20 preguntas tipo ICFES para Ciencias Naturales, tema células y biología, grado 11, período 1.
-
-Voy a seguir las reglas:
-1. Dificultad progresiva: D3-D4 (preguntas 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-2. Distractores plausibles: errores reales de estudiantes colombianos
-3. Alineación ICFES: estilo real del examen Saber 11
-4. Contexto colombiano moderno
-5. 4 opciones obligatorias, [x] en la correcta
-6. Sin "todas las anteriores" o "ninguna de las anteriores"
-
-Voy a crear preguntas sobre:
-- Estructura celular (pared celular de plantas, membrana celular, núcleo, orgánulos)
-- Célula procariota vs eucariota
-- Célula animal vs vegetal
-- Orgánulos y sus funciones
-- Ciclo celular
-- División celular (mitosis, meiosis)
-- Transporte a través de membrana
-- Metabolismo celular (respiración celular, fotosíntesis en contexto)
-- Ácidos nucleicos básicos
-- Código genético
-
-Contexto colombiano moderno:
-- Biodiversidad colombiana
-- Plantas nativas colombianas
-- Animales colombianos
-- Problemas ambientales de Colombia
-- Investigación científica colombiana
-
-Voy a estructurar las 20 preguntas con dificultad progresiva.
-
-**Preguntas 1-4 (D3-D4):** Conceptos básicos de células
-
-
-Identificaré las características fundamentales de las células, diferenciando entre organismos unicelulares y pluricelulares. Exploraré las estructuras celulares básicas, comparando células animales y vegetales, y reconoceré los principales orgánulos celulares.
-
-**Preguntas 5-10 (D5-D6):** Funciones y características celulares
-Profundizaré en las funciones específicas de los orgánulos, entenderé los procesos de transporte a través de la membrana celular y analizaré las diferencias entre células procariotas y eucariotas.
-
-**Preguntas 11-16 (D7-D8):** Procesos celulares complejos
-Examinaré el ciclo celular, las fases de la mitosis y meiosis, los procesos de división celular y su relación con la herencia genética.
-
-**Preguntas 17-20 (D9-D10):** Aplicaciones y conexiones avanzadas
-Integraré conocimientos sobre metabolismo celular, síntesis de proteínas y conexiones con la biotecnología, aplicando conceptos a problemas complejos.
-
-Comenzaré preguntando sobre la presencia de pared celular en células vegetales, identificando su naturaleza rígida compuesta de celulosa.
-
-Exploraré las diferencias estructurales entre células procariotas y eucariotas, destacando la ausencia de núcleo definido en las procariotas.
-
-Identificaré los cloroplastos como estructuras exclusivas de células vegetales, relevantes en la fotosíntesis de plantas nativas colombianas.
-
-Analizaré la membrana celular como estructura compartida por células animales y vegetales, componente crucial de los seres vivos.
-
-Estudiaré el núcleo celular como centro de control genético, comparando su presencia en diferentes tipos celulares.
-
-Examinaré los ribosomas como estructuras universales de síntesis proteica, presentes en procariotas y eucariotas.
-
-Investigaré la mitocondria, explorando su papel en la respiración celular y su posible origen en organismos colombianos.
-
-Identificaré las vacuolas como estructuras distintivas de células vegetales, con funciones de almacenamiento.
-
-Exploraré la relación entre superficie y volumen celular, fundamental para entender el transporte de sustancias.
-
-Analizaré la especialización celular en organismos pluricelulares, comprendiendo cómo células individuales contribuyen a funciones complejas.
-
-Examinaré la mitosis como proceso de división celular somática, identificando sus fases características.
-
-Estableceré conexiones entre investigación científica y avances en biología celular, destacando la importancia de la observación microscópica.
-
-Compararé los procesos de división celular, diferenciando mitosis y meiosis en términos de producción de células hijas.
-
-Investigaré los lisosomas como estructuras especializadas en degradación celular, relevantes en la investigación biológica.
-
-Comprenderé la comunicación celular como proceso fundamental de coordinación en organismos multicelulares.
-
-Analizaré el transporte activo como mecanismo de movimiento molecular contra gradiente de concentración.
-
-Distinguiré entre células haploides y diploides, comprendiendo su significado en la reproducción celular.
-
-Examinaré críticamente las características celulares, evaluando la precisión de la información sobre estructuras biológicas.
-
-Integraré conceptos de biología celular, aplicando conocimientos sobre orgánulos y funciones celulares en contextos específicos.
-
-Anticpoando las estructuras de las preguntas y sus distractores, identifico posibles errores conceptuales comunes entre estudiantes. Los distractores representan ideas superficiales o parcialmente incorrectas que pueden confundr la comprensión de la biología celular.
-
-Prepararé las preguntas utilizando un formato markdown estandarizado para facilitar la comprensión y el análisis detallado.
-</think>
-
-```yaml
 ---
 id: "CO-CIE-11-P1-celula-biologia-057-MASTERY"
 country: "colombia"
@@ -96,395 +6,432 @@ asignatura: "ciencias-naturales"
 tema: "celula-biologia"
 periodo: 1
 protocol_version: "5.1"
-bundle_size: 20
 bundle_index: 57
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T18:18:58.298496"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_comprensivo, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Uso de conceptos básicos de ciencias]
-**Context:** Plantas nativas del Valle de Aburrá en Antioquia
+**Bloom:** [Understand]
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Biodiversidad de la Amazonía colombiana
 
 ### Enunciado
-En las plantas dearrayán (Rubiaceae) que crecen en los bosques andinos del Valle de Aburrá, sus células presentan una estructura rígida externa que les proporciona soporte. ¿Cuál es el nombre de esta estructura presente en las células vegetales?
+En la selva amazónica, se han descubierto plantas con propiedades medicinales únicas. Al analizar sus células, los científicos observan que permiten el paso de agua y nutrientes, pero bloquean la entrada de ciertas toxinas del suelo. ¿Qué propiedad de la membrana celular permite este comportamiento?
 
 ### Options
-- [ ] A) Membrana celular
-- [ ] B) Cloroplasto
-- [x] C) Pared celular <!-- feedback: La pared celular de celulosa proporciona rigidez y soporte estructural en plantas. -->
-- [ ] D) Cromosoma <!-- feedback: Los cromosomas se encuentran en el interior del núcleo y contienen el material genético. -->
+- [ ] A) Fluidez de la bicapa lipídica <!-- feedback: Incorrect. La fluidez se refiere al movimiento de los lípidos en la membrana, no a la capacidad de seleccionar qué sustancias entran o salen. -->
+- [x] B) Permeabilidad selectiva <!-- feedback: Correct. La permeabilidad selectiva es la propiedad que permite a la membrana regular el paso de sustancias, dejando entrar lo necesario y bloqueando lo dañino. -->
+- [ ] C) Rigidez de la pared celular <!-- feedback: Incorrect. La pared celular brinda soporte mecánico, pero no es la responsable del transporte selectivo de moléculas al interior del citoplasma. -->
+- [ ] D) Capacidad de endocitosis <!-- feedback: Incorrect. La endocitosis es un mecanismo de transporte en masa, pero la regulación general del paso de moléculas pequeñas se debe a la permeabilidad selectiva. -->
 
 ### Explicación Pedagógica
-La pared celular es una estructura exclusiva de células vegetales, compuesta principalmente de celulosa. A diferencia de la membrana celular (que todas las células poseen), la pared celular proporciona soporte y protección adicional. Un error común es confundir la membrana celular (delgada y flexible) con la pared celular (rígida y gruesa).
+La membrana celular actúa como una barrera dinámica gracias a su permeabilidad selectiva. Esta propiedad es fundamental para mantener la homeostasis celular, permitiendo el intercambio controlado de sustancias con el medio ambiente, una característica vital para todas las células, incluidas las de la flora amazónica.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v2`
 **Bloom:** [Remember]
-**ICFES:** [Identificación de conceptos]
-**Context:** Bacterias del Parque Nacional Natural Los Nevados
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Biotecnología en Medellín
 
 ### Enunciado
-Las bacterias que habitan en los páramos de Los Nevados son organismos unicelulares que carecen de un núcleo definido. ¿Cómo se clasifica este tipo de célula?
+En un centro de investigación biotecnológica en Medellín, se están desarrollando proteínas sintéticas para tratar enfermedades. Para que una célula pueda fabricar estas proteínas de manera natural a partir de un mensaje genético, ¿qué orgánulo celular debe estar activo y funcional?
 
 ### Options
-- [x] A) Procariota <!-- feedback: Las células procariotas no tienen núcleo definido; su material genético se encuentra disperso en el citoplasma. -->
-- [ ] B) Eucariota <!-- feedback: Las células eucariotas tienen un núcleo definido rodeado por envoltura nuclear. -->
-- [ ] C) Animal <!-- feedback: Las células animales son eucariotas con núcleo definido y diversos orgánulos. -->
-- [ ] D) Vegetal <!-- feedback: Las células vegetales son eucariotas con pared celular, cloroplastos y núcleo definido. -->
+- [ ] A) Lisosoma <!-- feedback: Incorrect. Los lisosomas se encargan de la digestión y reciclaje celular, no de la síntesis de nuevas proteínas. -->
+- [ ] B) Mitocondria <!-- feedback: Incorrect. Las mitocondrias proveen la energía (ATP) para el proceso, pero no son el sitio de ensamblaje de las proteínas. -->
+- [x] C) Ribosoma <!-- feedback: Correct. Los ribosomas son las estructuras celulares encargadas de la traducción, donde se ensamblan los aminoácidos para formar proteínas según la secuencia del ARN. -->
+- [ ] D) Aparato de Golgi <!-- feedback: Incorrect. El aparato de Golgi modifica y empaqueta las proteínas después de que han sido sintetizadas, pero no las fabrica. -->
 
 ### Explicación Pedagógica
-Las bacterias son organismos procariotas caracterizados por no tener un núcleo definido; su ADN está disperso en una región llamada nucleoide. Un error frecuente es pensar que todas las células tienen núcleo, confundiendo procariotas con eucariotas.
+Los ribosomas son esenciales para la síntesis de proteínas en todos los seres vivos. Actúan como el sitio donde se lee la información del ARN mensajero y se traduce en una cadena de aminoácidos. Sin ribosomas funcionales, la producción de proteínas, base de la vida y la biotecnología, sería imposible.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v3`
 **Bloom:** [Understand]
-**ICFES:** [Comprensión de conceptos]
-**Context:** Bosques de niebla de Jardín, Antioquia
+**ICFES:** [Explicación de fenómenos]
+**Context:** Metabolismo en el colibrí picoespada
 
 ### Enunciado
-En el epitelio de las hojas del bosque de niebla de Jardín, las células realizan fotosíntesis gracias a un orgánulo que contiene pigmentos verdes. ¿Cuál es este orgánulo?
+El colibrí picoespada (*Ensifera ensifera*), habitante de los Andes colombianos, tiene un metabolismo extremadamente alto y requiere grandes cantidades de energía para mantener su vuelo. En las células musculares de sus alas, ¿cuál orgánulo esperaría encontrar en mayor abundancia para satisfacer esta demanda energética?
 
 ### Options
-- [ ] A) Mitocondria
-- [x] B) Cloroplasto <!-- feedback: Los cloroplastos contienen clorofila, pigmento verde responsable de la fotosíntesis. -->
-- [ ] C) Ribosoma <!-- feedback: Los ribosomas son responsables de la síntesis de proteínas, no de la fotosíntesis. -->
-- [ ] D) Lisosoma <!-- feedback: Los lisosomas contienen enzimas digestivas para degradar sustancias, no realizan fotosíntesis. -->
+- [ ] A) Cloroplasto <!-- feedback: Incorrect. Los cloroplastos realizan la fotosíntesis en plantas; los animales no poseen estos orgánulos. -->
+- [ ] B) Núcleo <!-- feedback: Incorrect. El núcleo contiene el material genético, pero no es el responsable directo de la producción masiva de ATP. -->
+- [x] C) Mitocondria <!-- feedback: Correct. Las mitocondrias son las centrales energéticas de la célula, responsables de la respiración celular y la producción de ATP, necesario para el vuelo del colibrí. -->
+- [ ] D) Vacuola <!-- feedback: Incorrect. Las vacuolas se encargan del almacenamiento de sustancias, no de la generación de energía metabólica. -->
 
 ### Explicación Pedagógica
-Los cloroplastos son los orgánulos donde ocurre la fotosíntesis, contiene la clorofila que capta la luz solar. Este orgánulo es exclusivo de células vegetales y de algunas algas. Confundir cloroplastos con mitocondrias es común ya que ambos son orgánulos membranosos.
+La densidad de mitocondrias en una célula está directamente relacionada con su gasto energético. Las células musculares de animales con alta actividad física, como el colibrí, requieren un suministro constante de ATP, el cual es producido eficientemente a través de la respiración celular aeróbica dentro de las mitocondrias.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v4`
 **Bloom:** [Understand]
-**ICFES:** [Comparación de conceptos]
-**Context:** Comparación entre organismos colombianos
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Ecosistema de Páramo en Colombia
 
 ### Enunciado
-Un estudiante observa al microscopio una célula del musgo que crece en las paredes del Museo de Arte Contemporáneo de Bogotá y una célula de la rana venenosa Dendrobates. ¿Cuál estructura está presente en ambas células?
+Los frailejones (*Espeletia*) en los páramos colombianos deben resistir condiciones climáticas extremas y mantener su estructura frente a vientos fuertes. A nivel celular, ¿qué estructura les proporciona esta rigidez y soporte mecánico que no poseen las células de los animales que habitan el mismo ecosistema?
 
 ### Options
-- [ ] A) Pared celular
-- [ ] B) Cloroplasto
-- [x] C) Membrana celular <!-- feedback: La membrana celular es una estructura fundamental presente en todas las células sin excepción. -->
-- [ ] D) Vacuola central <!-- feedback: La vacuola central grande es característica de células vegetales, no de células animales. -->
+- [x] A) Pared celular <!-- feedback: Correct. La pared celular, compuesta principalmente de celulosa en plantas, proporciona soporte estructural, rigidez y protección mecánica. -->
+- [ ] B) Membrana plasmática <!-- feedback: Incorrect. Tanto plantas como animales poseen membrana plasmática; esta es flexible y no proporciona el soporte rígido característico de las plantas. -->
+- [ ] C) Citoesqueleto <!-- feedback: Incorrect. Aunque el citoesqueleto ayuda al soporte interno en ambas células, la pared celular es la estructura externa exclusiva de las plantas que otorga rigidez extra. -->
+- [ ] D) Citoplasma <!-- feedback: Incorrect. El citoplasma es el medio acuoso interno de la célula y no cumple funciones de soporte mecánico externo. -->
 
 ### Explicación Pedagógica
-La membrana celular es la barrera que separa el interior de la célula del medio externo, y está presente en TODAS las células sin excepción. Un error común es creer que la pared celular está en células animales, pero esta estructura es exclusiva de plantas, hongos y procariotas.
+La pared celular es una característica distintiva de las células vegetales, hongos y procariontes. En las plantas terrestres, como los frailejones, la pared celular de celulosa es crucial para mantener la forma de la planta y permitirle crecer verticalmente, resistiendo la gravedad y el estrés ambiental.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v5`
 **Bloom:** [Understand]
-**ICFES:** [Interpretación de información]
-**Context:** Investigación científica en la Universidad Nacional de Colombia
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Genética en la Universidad Nacional de Colombia
 
 ### Enunciado
-Un investigador de la Universidad Nacional de Colombia estudiando células del colibrí pico de espada (Ensifera ensifera) encuentra que el núcleo celular controlas las actividades de la célula. ¿Cuál es la función principal del núcleo?
+En la Universidad Nacional, un grupo de genetistas estudia cómo se transmiten los rasgos hereditarios en variedades locales de maíz. Si quieren localizar el lugar donde se encuentra almacenada la mayor parte de la información genética que determina estos rasgos, ¿en qué parte de la célula eucariota deben enfocarse?
 
 ### Options
-- [ ] A) Producir energía mediante respiración celular
-- [x] B) Almacenar la información genética y controlar las actividades celulares <!-- feedback: El núcleo contiene el ADN que dirige la síntesis de proteínas y controla todas las funciones celulares. -->
-- [ ] C) Sintetizar proteínas para la célula
-- [ ] D) Digerir materiales de desecho
+- [ ] A) En el citoplasma <!-- feedback: Incorrect. El citoplasma contiene orgánulos, pero la información genética principal está protegida dentro de una estructura específica. -->
+- [x] B) En el núcleo <!-- feedback: Correct. El núcleo celular alberga el ADN organizado en cromosomas, el cual contiene las instrucciones genéticas para el desarrollo y funcionamiento del organismo. -->
+- [ ] C) En los ribosomas <!-- feedback: Incorrect. Los ribosomas interpretan la información genética (ARNm) para fabricar proteínas, pero no la almacenan de forma permanente. -->
+- [ ] D) En el aparato de Golgi <!-- feedback: Incorrect. El aparato de Golgi se encarga de procesar proteínas y lípidos, no de almacenar la información hereditaria. -->
 
 ### Explicación Pedagógica
-El núcleo es el centro de control de la célula que contiene el material genético (ADN). Controla qué proteínas se sintetizan y cuándo, regulando todas las actividades celulares. Los estudiantes suelen confundir la función del núcleo con la de los ribosomas (síntesis de proteínas) o las mitocondrias (producción de energía).
+En las células eucariotas, el núcleo es el centro de control que protege el genoma. El ADN contenido en el núcleo dirige todas las actividades celulares mediante la regulación de la expresión génica. Comprender la ubicación y función del núcleo es fundamental para el estudio de la genética y la herencia.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Aplicación de conceptos]
-**Context:** Biotecnología enlabs colombianos
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Fisiología animal en mamíferos colombianos
 
 ### Enunciado
-En un laboratorio de biotecnología en Medellín, un científico estudia cómo las células producen proteínas. ¿Cuál es la función de los ribosomas en este proceso?
+Las glándulas mamarias de los mamíferos colombianos, como la danta de montaña, producen leche rica en proteínas y lípidos para sus crías. Las células de estas glándulas poseen un Retículo Endoplasmático Rugoso (RER) y un Retículo Endoplasmático Liso (REL) muy desarrollados. ¿Cuál es la función principal de cada uno en este contexto?
 
 ### Options
-- [ ] A) Almacenar las proteínas producidas
-- [x] C) Ensamblar aminoácidos para formar proteínas <!-- feedback: Los ribosomas son el lugar físico donde se traducen los ARN mensajeros para sintetizar proteínas. -->
-- [ ] B) Transportar proteínas hacia afuera de la célula
-- [ ] D) Regular la cantidad de proteínas en la célula
+- [ ] A) El RER sintetiza lípidos y el REL sintetiza proteínas. <!-- feedback: Incorrect. Las funciones están invertidas; el RER se asocia con proteínas debido a los ribosomas. -->
+- [x] B) El RER sintetiza proteínas y el REL sintetiza lípidos. <!-- feedback: Correct. El RER, con sus ribosomas, fabrica proteínas de secreción, mientras que el REL se encarga de la síntesis de lípidos como las grasas de la leche. -->
+- [ ] C) Ambos se encargan de la producción de energía (ATP). <!-- feedback: Incorrect. La producción de energía es función de las mitocondrias, no del retículo endoplasmático. -->
+- [ ] D) El RER degrada toxinas y el REL almacena agua. <!-- feedback: Incorrect. Aunque el REL puede participar en la detoxificación, su función principal en glándulas secretoras es la síntesis de lípidos. -->
 
 ### Explicación Pedagógica
-Los ribosomas son estructuras compuestas de ARN ribosomal y proteínas que funcionan como "máquinas" de síntesis proteica. Leen las instrucciones del ARN mensajero y unen los aminoácidos en el orden correcto. Un distractor común es pensar que almacenan proteínas, cuando en realidad solo las sintetizan.
+El retículo endoplasmático es un sistema de membranas especializado. El RER tiene ribosomas adheridos, lo que le permite sintetizar proteínas destinadas a la secreción o a la membrana. El REL carece de ribosomas y se especializa en la síntesis de lípidos y el metabolismo de carbohidratos. Ambos son vitales en células con alta actividad secretora.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v7`
-**Bloom:** [Understand]
-**ICFES:** [Relación estructura-función]
-**Context:** Cultivo de café en el Eje Cafetero
+**Bloom:** [Apply]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Secreción de néctar en flores colombianas
 
 ### Enunciado
-Los granos de café del Eje Cafetero contienen células que necesitan producir gran cantidad de energía para desarrollar compuestos de sabor. ¿Cuál orgánulo es responsable de esta producción de energía?
+Las flores de la orquídea *Cattleya trianae*, flor nacional de Colombia, producen néctar (una solución azucarada) para atraer polinizadores. Después de ser sintetizados en el retículo endoplasmático, los componentes del néctar deben ser procesados, etiquetados y enviados al exterior de la célula. ¿Qué orgánulo es el responsable directo de esta distribución final?
 
 ### Options
-- [ ] A) Nucleo
-- [ ] B) Ribosoma
-- [x] C) Mitocondria <!-- feedback: Las mitocondrias realizan la respiración celular, produciendo ATP, la principal fuente de energía celular. -->
-- [ ] D) Cloroplasto <!-- feedback: Los cloroplastos realizan fotosíntesis, no respiración celular. -->
+- [ ] A) Lisosoma <!-- feedback: Incorrect. Los lisosomas contienen enzimas para degradar moléculas, no para secretar sustancias útiles como el néctar. -->
+- [x] B) Aparato de Golgi <!-- feedback: Correct. El aparato de Golgi actúa como un centro de empaquetamiento y distribución, modificando moléculas y enviándolas en vesículas a su destino final. -->
+- [ ] C) Peroxisoma <!-- feedback: Incorrect. Los peroxisomas participan en la oxidación de ácidos grasos y la detoxificación de peróxido de hidrógeno. -->
+- [ ] D) Nucleolo <!-- feedback: Incorrect. El nucleolo es una región dentro del núcleo dedicada a la formación de ribosomas. -->
 
 ### Explicación Pedagógica
-Las mitocondrias son las "centrales energéticas" de la célula, donde se realiza la respiración celular para producir ATP. Son abundantes en células con alta demanda energética. Es común confundir su función con la de los cloroplastos, aunque ambos son orgánulos membranosos internos.
+El Aparato de Golgi es clave en la vía secretora de la célula. Recibe vesículas del retículo endoplasmático, procesa su contenido (añadiendo carbohidratos a proteínas, por ejemplo) y los clasifica para enviarlos mediante vesículas de secreción hacia la membrana plasmática.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v8`
-**Bloom:** [Analyze]
-**ICFES:** [Análisis de diferencias]
-**Context:** Flora del Chocó Biogeográfico
+**Bloom:** [Understand]
+**ICFES:** [Indagación]
+**Context:** Respuesta inmune y salud pública
 
 ### Enunciado
-En el Chocó Biogeográfico se encuentran plantas con hojas que almacenan agua. Estas células probablemente tienen una vacuola central muy desarrollada. ¿Cuál es la función principal de esta vacuola?
+Los macrófagos son células del sistema inmune que patrullan el cuerpo humano eliminando bacterias invasoras mediante un proceso de "ingestión". Una vez que la bacteria está dentro del macrófago, debe ser destruida por enzimas digestivas. ¿Con qué orgánulo debe fusionarse la vesícula que contiene a la bacteria para que ocurra su degradación?
 
 ### Options
-- [ ] A) Producir proteínas
-- [ ] B) Realizar fotosíntesis
-- [x] C) Almacenar agua y regular la presión osmótica <!-- feedback: La vacuola central almacena agua, nutrientes y desechos, y contribuye a la turgencia celular. -->
-- [ ] D) Transportar oxígeno
+- [ ] A) Mitocondria <!-- feedback: Incorrect. Las mitocondrias no contienen enzimas digestivas para degradar patógenos externos. -->
+- [ ] B) Ribosoma <!-- feedback: Incorrect. Los ribosomas son sitios de síntesis, no de degradación o digestión. -->
+- [x] C) Lisosoma <!-- feedback: Correct. Los lisosomas contienen enzimas hidrolíticas que degradan macromoléculas, orgánulos viejos y patógenos ingeridos por la célula. -->
+- [ ] D) Retículo endoplasmático <!-- feedback: Incorrect. El retículo se encarga de la síntesis y transporte, pero la digestión final ocurre en los lisosomas. -->
 
 ### Explicación Pedagógica
-La vacuola central es una estructura de almacenamiento llena de agua y sustancias disueltas. En células vegetales, puede ocupar hasta el 90% del volumen celular. Regula la presión de turgencia y armazena diversos compuestos. Confundir su función con producción proteica es un error frecuente.
+Los lisosomas son los orgánulos encargados de la digestión intracelular. Contienen enzimas que funcionan en medio ácido y son capaces de romper casi cualquier tipo de molécula biológica. En el sistema inmune, la fusión del fagosoma (vesícula con el patógeno) con el lisosoma forma el fagolisosoma, donde la bacteria es eliminada.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v9`
-**Bloom:** [Apply]
-**ICFES:** [Razonamiento científico]
-**Context:** Problemática ambiental del Magdalena
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Cultivos de arroz en el departamento del Tolima
 
 ### Enunciado
-Un científico estudia cómo las sustancias tóxicas del río Magdalena afectan a las células de los peces. Si una sustancia impide el paso de moléculas grandes a través de la membrana celular, ¿qué propiedad de la membrana se está alterando?
+Durante una fuerte sequía en el Tolima, las plantas de arroz comienzan a marchitarse y sus hojas pierden firmeza. A nivel celular, se observa que la gran bolsa de agua interna de las células vegetales ha disminuido su volumen, reduciendo la presión contra la pared celular. ¿Cómo se denomina este orgánulo y qué fenómeno se está perdiendo?
 
 ### Options
-- [x] A) Selectividad o permeabilidad selectiva <!-- feedback: La membrana celular regula qué sustancias pueden entrar y salir gracias a su permeabilidad selectiva. -->
-- [ ] B) Producción de energía
-- [ ] C) Síntesis de proteínas
-- [ ] D) Capacidad de dividirse
+- [ ] A) Cloroplasto - Fotosíntesis <!-- feedback: Incorrect. Aunque la sequía afecta la fotosíntesis, la pérdida de firmeza mecánica se debe a la presión de agua, no al orgánulo fotosintético. -->
+- [ ] B) Núcleo - Replicación <!-- feedback: Incorrect. El núcleo no es el encargado de mantener la presión de turgencia en la célula vegetal. -->
+- [x] C) Vacuolal central - Presión de turgencia <!-- feedback: Correct. La vacuola central almacena agua y genera presión de turgencia, que empuja el citoplasma contra la pared celular, manteniendo la planta erguida. -->
+- [ ] D) Mitocondria - Respiración <!-- feedback: Incorrect. Las mitocondrias generan energía, pero no proporcionan el soporte hidrostático de la célula vegetal. -->
 
 ### Explicación Pedagógica
-La membrana celular posee permeabilidad selectiva, lo que significa que regula el paso de sustancias según su tamaño, polaridad y necesidades de la célula. Esta propiedad es fundamental para mantener el medio interno celular. Los estudiantes frecuentemente confunden esta propiedad con otras funciones celulares.
+En las plantas, la vacuola central puede ocupar la mayor parte del volumen celular. Cuando está llena de agua, ejerce una presión hidrostática (turgencia) que mantiene la rigidez de los tejidos no leñosos. La falta de agua provoca que la vacuola se encoja (plasmólisis parcial), lo que resulta en el marchitamiento visible de la planta.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 [D5-D6]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v10`
 **Bloom:** [Understand]
-**ICFES:** [Comprensión de procesos]
-**Context:** Investigación sobre banano en乌拉圭
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Ecosistemas de la selva chocoana
 
 ### Enunciado
-En las plantaciones de banano del Urabá antioqueño, las células de los frutos deben comunicarse para coordinar su desarrollo. ¿Cuál es la función principal del sistema de endomembranas?
+En la densa selva del Chocó, las plantas de los estratos bajos han desarrollado adaptaciones para captar la poca luz que llega al suelo. Poseen hojas muy anchas y células con orgánulos especializados en convertir la energía lumínica en energía química. ¿Qué orgánulo realiza este proceso y qué pigmento principal contiene?
 
 ### Options
-- [ ] A) Producir energía
-- [x] B) Sintetizar, modificar y transportar proteínas y lípidos <!-- feedback: El sistema de endomembranas incluye retículo endoplasmático, aparato de Golgi y vesículas, que intervienen en síntesis y transporte de macromoléculas. -->
-- [ ] C) Almacenar agua
-- [ ] D) Proteger la célula
+- [x] A) Cloroplasto - Clorofila <!-- feedback: Correct. Los cloroplastos son los orgánulos donde ocurre la fotosíntesis, y la clorofila es el pigmento que absorbe la luz solar. -->
+- [ ] B) Mitocondria - ATP <!-- feedback: Incorrect. La mitocondria libera energía de los alimentos, no capta energía lumínica. El ATP es una molécula, no un pigmento. -->
+- [ ] C) Cromoplasto - Caroteno <!-- feedback: Incorrect. Los cromoplastos almacenan pigmentos de colores (rojo, naranja), pero no son los sitios principales de la fotosíntesis. -->
+- [ ] D) Leucoplasto - Almidón <!-- feedback: Incorrect. Los leucoplastos son orgánulos incoloros que almacenan sustancias como el almidón, no realizan fotosíntesis. -->
 
 ### Explicación Pedagógica
-El sistema de endomembranas es una red compleja que incluye el retículo endoplasmático (liso y rugoso), el aparato de Golgi y las vesículas de transporte. Juega un papel crucial en la síntesis, modificación, empaque y transporte de proteínas y lípidos. Confundir sus funciones con la producción de energía es común.
+La fotosíntesis es el proceso vital que sostiene la mayoría de las cadenas tróficas. Ocurre específicamente en los cloroplastos, que poseen membranas llamadas tilacoides donde se localiza la clorofila. La eficiencia en la captura de luz es crítica en ambientes sombríos como el suelo de la selva tropical.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v11`
 **Bloom:** [Analyze]
-**ICFES:** [Análisis de relaciones]
-**Context:** Estudio celular en la Universidad de los Andes
+**ICFES:** [Explicación de fenómenos]
+**Context:** Regeneración de extremidades en salamandras
 
 ### Enunciado
-Un investigador observa que a medida que aumenta el tamaño de una célula, la relación entre su superficie de membrana y su volumen disminuye. ¿Por qué esto representa un problema para la célula?
+Las salamandras del género *Bolitoglossa*, que habitan los bosques de niebla colombianos, pueden regenerar partes de su cuerpo tras una lesión. Este proceso implica que las células del sitio de la herida entren rápidamente en una fase de división activa para crear nuevo tejido. ¿En qué etapa del ciclo celular ocurre la duplicación del ADN necesaria para que cada nueva célula tenga la información completa?
 
 ### Options
-- [ ] A) La célula produce menos ADN
-- [x] B) La membrana no puede proporcionar suficientes nutrientes ni eliminar desechos suficientes para el volumen celular <!-- feedback: Al crecer, el volumen aumenta más rápido que la superficie, limitando el intercambio de sustancias por la membrana. -->
-- [ ] C) El núcleo se hace más pequeño
-- [ ] D) Los ribosomas dejan de funcionar
+- [ ] A) Profase de la mitosis <!-- feedback: Incorrect. En la profase el ADN ya está duplicado y comienza a condensarse. -->
+- [ ] B) Citocinesis <!-- feedback: Incorrect. La citocinesis es la división final del citoplasma, no la duplicación del material genético. -->
+- [x] C) Fase S de la interfase <!-- feedback: Correct. Durante la fase S (Síntesis) de la interfase, la célula duplica su ADN para que las células hijas resultantes de la división reciban un juego completo de genes. -->
+- [ ] D) Fase G1 de la interfase <!-- feedback: Incorrect. En G1 la célula crece y realiza sus funciones normales, pero la duplicación del ADN aún no ha comenzado. -->
 
 ### Explicación Pedagógica
-Este es un principio fundamental de biología celular: a medida que la célula crece, su volumen aumenta más rápido que su superficie. Esto limita el intercambio de nutrientes y desechos porque la membrana es la única vía de transporte. Por esto, las células tienen un tamaño limitado y eventualmente se dividen. Confundir este concepto con otros procesos es un error frecuente.
+El ciclo celular consta de la Interfase (G1, S, G2) y la Fase M (mitosis y citocinesis). La fase S es crítica porque asegura que el patrimonio genético se mantenga constante a través de las generaciones celulares, permitiendo la regeneración precisa de tejidos complejos.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v12`
 **Bloom:** [Apply]
-**ICFES:** [Aplicación de conocimientos]
-**Context:** Regeneración de tejidos en organismos colombianos
+**ICFES:** [Indagación]
+**Context:** Investigación sobre cáncer cervical (INS Colombia)
 
 ### Enunciado
-En las salamandras del género Bolitoglossa, que habitan los bosques húmedos colombianos, se observa regeneración de extremidades. Este proceso requiere la división celular de células especializadas. ¿Qué tipo de división celular produce células daughters genéticamente idénticas?
+Investigadores del Instituto Nacional de Salud analizan células tumorales donde la división celular está fuera de control. Observan un error en una etapa de la mitosis donde las cromátidas hermanas no se separan correctamente hacia los polos opuestos, lo que genera células con un número anormal de cromosomas (aneuploidía). ¿En qué fase de la mitosis se originó este error?
 
 ### Options
-- [ ] A) Meiosis
-- [x] C) Mitosis <!-- feedback: La mitosis produce dos células hijas genéticamente idénticas a la célula madre original. -->
-- [ ] D) Gemación
-- [ ] B) Fisión binaria
+- [ ] A) Metafase <!-- feedback: Incorrect. En la metafase los cromosomas se alinean en el centro, pero la separación física ocurre después. -->
+- [x] B) Anafase <!-- feedback: Correct. La anafase es el momento en que las cromátidas hermanas se separan y migran a polos opuestos de la célula. Un fallo aquí causa una distribución desigual del ADN. -->
+- [ ] C) Telofase <!-- feedback: Incorrect. En la telofase los núcleos ya se están reformando alrededor de los cromosomas ya separados. -->
+- [ ] D) Interfase <!-- feedback: Incorrect. La interfase es la preparación para la división, pero la segregación física de los cromosomas ocurre durante la mitosis. -->
 
 ### Explicación Pedagógica
-La mitosis es el proceso de división celular que produce dos células daughters genéticamente idénticas entre sí y a la célula madre. Es fundamental para el crecimiento, reparación de tejidos y reproducción asexual. La confusión más común es confundir mitosis con meiosis, que reduce el número de cromosomas.
+La segregación cromosómica precisa durante la anafase es vital para la estabilidad genómica. Errores en este proceso son característicos de muchas células cancerosas. El estudio de los mecanismos de control de la anafase es un campo clave en la investigación oncológica moderna.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v13`
-**Bloom:** [Understand]
-**ICFES:** [Comprensión de procesos]
-**Context:** Reproducción vegetal en los Andes colombianos
+**Bloom:** [Analyze]
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Diversidad de orquídeas en los Andes
 
 ### Enunciado
-Las flores de las orquídeas de los Andes colombianos producen gametos mediante meiosis. ¿Cuál es la importancia biológica de la meiosis?
+Las orquídeas colombianas se reproducen sexualmente mediante la producción de gametos (óvulos y polen). A diferencia de las células de las hojas que son diploides (2n), los gametos son haploides (n). ¿Cuál es la importancia biológica de que el proceso de meiosis reduzca a la mitad el número de cromosomas?
 
 ### Options
-- [ ] A) Aumentar el número de cromosomas
-- [x] C) Producir células haploides con la mitad del número de cromosomas para la reproducción sexual <!-- feedback: La meiosis reduce el número de cromosomas a la mitad, produciendo gametos haploides. -->
-- [ ] D) Producir células idénticas
-- [ ] B) Aumentar el tamaño celular
+- [ ] A) Permitir que la planta crezca más rápido mediante división asexual. <!-- feedback: Incorrect. El crecimiento vegetativo se da por mitosis, no por meiosis, y no requiere reducción cromosómica. -->
+- [ ] B) Asegurar que las células hijas sean genéticamente idénticas a la madre. <!-- feedback: Incorrect. La meiosis genera variabilidad genética y células diferentes, no idénticas. -->
+- [x] C) Mantener constante el número de cromosomas de la especie tras la fecundación. <!-- feedback: Correct. Al unir dos gametos haploides (n + n), se restaura el número diploide (2n) característico de la especie; de lo contrario, el número de cromosomas se duplicaría en cada generación. -->
+- [ ] D) Evitar que ocurran mutaciones durante el desarrollo del embrión. <!-- feedback: Incorrect. La meiosis no previene las mutaciones; de hecho, el entrecruzamiento es una fuente de recombinación genética. -->
 
 ### Explicación Pedagógica
-La meiosis es esencial para la reproducción sexual porque reduce el número de cromosomas a la mitad (de diploide a haploide), creando gametos. Cuando dos gametos se fusionan en la fecundación, restauran el número diploide. Los errores comunes incluyen creer que aumenta cromosomas o produce células idénticas.
+La meiosis es un tipo especial de división celular que reduce el número de juegos de cromosomas de dos a uno. Esto es esencial para el ciclo de vida sexual, garantizando que la descendencia mantenga la estabilidad cromosómica a través de las generaciones.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v14`
-**Bloom:** [Analyze]
-**ICFES:** [Análisis crítico]
-**Context:** Investigación sobre cáncer cervical en Colombia
+**Bloom:** [Apply]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Fisiología del sistema nervioso
 
 ### Enunciado
-Científicos del Instituto Nacional de Cancerología estudian células cervicales donde se ha alterado el proceso de división celular. En estas células se observa que los cromosomas no se distribuyen equitativamente. ¿En qué fase de la mitosis ocurrió el error?
+En las neuronas de los primates, como el mono aullador, la transmisión de impulsos eléctricos depende de mantener concentraciones muy diferentes de iones Sodio (Na+) y Potasio (K+) entre el interior y el exterior de la célula. La célula debe bombear constantemente estos iones en contra de sus gradientes de concentración naturales. ¿Qué mecanismo de transporte utiliza la célula para esto?
 
 ### Options
-- [ ] A) Interfase
-- [ ] B) Profase
-- [x] C) Anafase <!-- feedback: Durante la anafase, las cromátidas sisters se separan hacia polos opuestos. Error en esta fase causa distribución desigual de cromosomas. -->
-- [ ] D) Telofase
+- [ ] A) Difusión simple <!-- feedback: Incorrect. La difusión simple mueve sustancias a favor del gradiente y no requiere energía; no puede mover iones en contra del gradiente. -->
+- [ ] B) Osmosis <!-- feedback: Incorrect. La osmosis se refiere específicamente al movimiento de agua, no al de iones. -->
+- [x] C) Transporte activo <!-- feedback: Correct. El transporte activo utiliza proteínas transportadoras y energía (ATP) para mover sustancias contra su gradiente de concentración, como la bomba Sodio-Potasio. -->
+- [ ] D) Difusión facilitada <!-- feedback: Incorrect. La difusión facilitada usa proteínas pero a favor del gradiente, por lo que no requiere gasto energético de la célula. -->
 
 ### Explicación Pedagógica
-En la anafase, las cromátidas sisters (ahora llamadas cromosomas hijos) son separadas por las fibras del huso mitótico y se mueven hacia polos opuestos de la célula. Errores en esta fase producen células con números anormales de cromosomas. Confundir las funciones de las diferentes fases es un error frecuente.
+El transporte activo es fundamental para procesos biológicos que requieren desequilibrios iónicos, como la contracción muscular y el impulso nervioso. Requiere el uso de "bombas" moleculares que consumen ATP para realizar el trabajo de mover solutos desde donde están menos concentrados hacia donde están más concentrados.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v15`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación de información]
-**Context:** Producción agrícola en la Costa Caribe colombiana
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Hematología clínica
 
 ### Enunciado
-Un ingeniero agrónomo en la Costa Caribe colombiana analiza células de raíces de arroz que han sido irrigadas con agua con alta concentración de sal. Él observa que las células presentan vacuolas llenas de sales. ¿Qué función cumplen los lisosomas en estas células?
+Un técnico de laboratorio en un hospital coloca una muestra de glóbulos rojos en una solución desconocida. Al observarlos al microscopio, nota que las células se han hinchado y algunas han estallado (hemólisis). Basándose en el proceso de ósmosis, ¿qué puede concluir sobre la concentración de la solución con respecto al interior de la célula?
 
 ### Options
-- [ ] A) Producir energía
-- [ ] B) Sintetizar proteínas
-- [ ] C) Almacenar sales
-- [x] D) Degradar componentes celulares dañados y materiales de desecho <!-- feedback: Los lisosomas contienen enzimas hidrolíticas que degradan organelos dañados, patógenos y materiales de desecho. -->
+- [ ] A) La solución era hipertónica (más concentrada que la célula). <!-- feedback: Incorrect. En una solución hipertónica, el agua sale de la célula y esta se arruga (crenación). -->
+- [x] B) La solución era hipotónica (menos concentrada que la célula). <!-- feedback: Correct. En un medio hipotónico, el agua entra a la célula por ósmosis buscando equilibrar las concentraciones, lo que aumenta el volumen celular hasta causar su ruptura. -->
+- [ ] C) La solución era isotónica (igual concentración que la célula). <!-- feedback: Incorrect. En un medio isotónico, el flujo neto de agua es cero y la célula mantiene su forma normal. -->
+- [ ] D) La solución no contenía solutos en absoluto. <!-- feedback: Incorrect. Aunque el agua pura es el medio más hipotónico posible, no es la única conclusión; cualquier solución con menor concentración que la célula causaría este efecto. -->
 
 ### Explicación Pedagógica
-Los lisosomas son "bolsas digestivas" de la célula que contienen enzimas capaces de degradar diversos tipos de moléculas. Cumplen funciones de digestión de nutrientes, reciclaje de componentes celulares y defensa contra patógenos. Un error común es pensar que almacenan sustancias cuando en realidad las degradan.
+La ósmosis es el movimiento pasivo del agua a través de una membrana semipermeable desde una zona de menor concentración de soluto a una de mayor concentración. Comprender los efectos de la tonicidad es vital en medicina, por ejemplo, para la administración correcta de sueros intravenosos.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16 [D7-D8]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v16`
-**Bloom:** [Apply]
-**ICFES:** [Aplicación de conceptos]
-**Context:** Ecosistemas acuáticos de la Amazonía colombiana
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
+**Context:** Farmacología y división celular
 
 ### Enunciado
-En los ríos de la Amazonía colombiana, los delfines rosados se comunican mediante señales químicas entre células. ¿Cuál es el mecanismo por el cual las células reconocen estas moléculas señal?
+Algunos medicamentos utilizados en quimioterapia, como los derivados del taxol, actúan impidiendo que los microtúbulos del citoesqueleto se desensamblen. Esto bloquea la formación del huso mitótico durante la división de las células cancerosas. ¿Cuál es la consecuencia directa de este bloqueo para la célula tumoral?
 
 ### Options
-- [ ] A) Difusión simple a través de la membrana
-- [ ] B) Transporte activo
-- [ ] C) Pinocitosis
-- [x] D) Receptores específicos en la membrana que se unen selectivamente a las moléculas señal <!-- feedback: Las moléculas señal (hormonas, neurotransmisores) se unen a receptores específicos en la membrana o dentro de la célula, generando una respuesta. -->
+- [ ] A) La célula no puede duplicar su ADN. <!-- feedback: Incorrect. La duplicación del ADN ocurre en la interfase, antes de que el huso mitótico entre en acción. -->
+- [ ] B) La célula no puede sintetizar proteínas. <!-- feedback: Incorrect. La síntesis de proteínas no depende directamente de la dinámica de los microtúbulos del huso mitótico. -->
+- [x] C) La célula no puede separar sus cromosomas durante la mitosis. <!-- feedback: Correct. El huso mitótico, hecho de microtúbulos, es el responsable de mover y separar los cromosomas; si no funciona, la mitosis se detiene y la célula muere. -->
+- [ ] D) La célula pierde su membrana nuclear permanentemente. <!-- feedback: Incorrect. La desintegración de la membrana nuclear ocurre normalmente, pero el problema principal es la falta de segregación cromosómica. -->
 
 ### Explicación Pedagógica
-La comunicación celular depende de moléculas señal específicas que se unen a receptores en células diana. Estos receptores pueden estar en la membrana celular (para moléculas hidrofílicas) o en el citoplasma/núcleo (para moléculas lipofílicas). La especificidad de la respuesta depende del tipo de receptor. Confundir este mecanismo con transporte pasivo es común.
+El citoesqueleto no solo da forma a la célula, sino que es un sistema dinámico de "rieles" y motores moleculares. Durante la división, se reorganiza para formar el huso mitótico. Muchos venenos naturales y fármacos aprovechan la sensibilidad de la mitosis a la interrupción de estos filamentos para detener el crecimiento celular descontrolado.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 [D9-D10]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v17`
 **Bloom:** [Analyze]
-**ICFES:** [Análisis de procesos]
-**Context:** Fertirriego en cultivos de flores para exportación
+**ICFES:** [Explicación de fenómenos]
+**Context:** Fisiología del ejercicio en atletas colombianos
 
 ### Enunciado
-En los cultivos de flores de la sabana de Bogotá destinados a exportación, las células de los pétalos requieren transporte de minerales desde las raíces. Si las raíces absorben minerales del suelo y estos deben entrar contra un gradiente de concentración, ¿qué tipo de transporte utilizan las membranas?
+Durante un entrenamiento intenso de ascenso en bicicleta por los Andes, un ciclista colombiano somete sus músculos a un esfuerzo máximo donde el suministro de oxígeno es insuficiente. En estas condiciones, las células musculares pasan de la respiración aeróbica a la fermentación láctica. ¿Cuál es la principal diferencia en el rendimiento energético (ATP) entre ambos procesos por cada molécula de glucosa?
 
 ### Options
-- [ ] A) Osmosis
-- [ ] B) Difusión facilitada
-- [x] C) Transporte activo que requiere ATP <!-- feedback: El transporte activo mueve sustancias contra su gradiente de concentración, requiriendo energía (ATP) y proteínas transportadoras. -->
-- [ ] D) Difusión simple
+- [ ] A) La fermentación produce más ATP que la respiración aeróbica. <!-- feedback: Incorrect. La fermentación es mucho menos eficiente energéticamente que la respiración completa con oxígeno. -->
+- [x] B) La respiración aeróbica produce mucho más ATP (~36) que la fermentación (~2). <!-- feedback: Correct. La respiración aeróbica oxida completamente la glucosa hasta CO2 y agua, liberando mucha más energía que la fermentación, que es una oxidación parcial. -->
+- [ ] C) Ambos procesos producen la misma cantidad de ATP, pero la fermentación es más rápida. <!-- feedback: Incorrect. Aunque la fermentación es rápida, la cantidad de energía obtenida es drásticamente menor. -->
+- [ ] D) La fermentación no produce ATP, solo sirve para reciclar moléculas. <!-- feedback: Incorrect. La fermentación produce una cantidad pequeña pero vital de ATP (2 moléculas netas por glucosa) que permite a la célula sobrevivir brevemente sin oxígeno. -->
 
 ### Explicación Pedagógica
-El transporte activo es el único mecanismo que puede mover sustancias contra su gradiente de concentración. Requiere energía (ATP) y proteínas transportadoras específicas. Es fundamental para la absorción de nutrientes, la eliminación de desechos y el mantenimiento del equilibrio iónico. La confusión frecuente es creer que toda incorporación de sustancias ocurre por difusión.
+La evolución ha optimizado la respiración celular para extraer la máxima energía posible de los nutrientes usando oxígeno como aceptor final de electrones. La fermentación es una vía metabólica alternativa que permite obtener energía en condiciones anaeróbicas, aunque con una eficiencia mucho menor y la acumulación de subproductos como el ácido láctico.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 [D9-D10]
 
 **ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v18`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación crítica]
-**Context:** Investigación médica en el Hospital San Ignacio de Bogotá
+**Bloom:** [Analyze]
+**ICFES:** [Uso comprensivo del conocimiento científico]
+**Context:** Virología y flujo de información genética
 
 ### Enunciado
-Un médico analiza un cultivo de células humanas y encuentra que la mitad de ellas tienen 23 cromosomas y la otra mitad tienen 46. ¿Cuál afirmación explica correctamente esta observación?
+El "Dogma Central de la Biología Molecular" describe el flujo de información en la célula: ADN → ARN → Proteína. Sin embargo, ciertos virus como los retrovirus poseen una enzima llamada "Transcriptasa Inversa". ¿Cómo altera este descubrimiento nuestra comprensión del flujo de información en una célula infectada?
 
 ### Options
-- [ ] A) Todas las células son cancerosas
-- [ ] B) Ocurrió una mutación en todas las células
-- [x] C) Las células con 23 cromosomas son gametos producidos por meiosis, y las de 46 son células somáticas diploides <!-- feedback: Las células haploides (23 cromosomas) son los gametos, y las diploides (46) son las células
+- [ ] A) Indica que las proteínas pueden convertirse directamente en ADN. <!-- feedback: Incorrect. No existe evidencia de que la información pueda fluir desde las proteínas de vuelta al ADN o ARN. -->
+- [ ] B) Sugiere que el ARN es capaz de replicarse sin necesidad de proteínas. <!-- feedback: Incorrect. Aunque algunos ARN tienen actividad catalítica (ribozimas), la transcriptasa inversa se refiere al flujo ARN -> ADN. -->
+- [x] C) Demuestra que la información puede fluir en sentido inverso, del ARN al ADN. <!-- feedback: Correct. La transcriptasa inversa permite que el virus sintetice ADN a partir de su molde de ARN genómico, integrándose luego en el genoma de la célula huésped. -->
+- [ ] D) Confirma que el ADN se traduce directamente a proteínas sin pasar por ARN. <!-- feedback: Incorrect. El ARN sigue siendo un intermediario necesario en la síntesis de proteínas. -->
+
+### Explicación Pedagógica
+El flujo de información genética es más complejo de lo que se pensaba inicialmente. Los retrovirus, como el VIH, desafían el esquema lineal al ser capaces de "escribir" información desde el ARN hacia el ADN. Este proceso es clave para su ciclo de vida y ha sido fundamental para el desarrollo de herramientas en biología molecular y medicina.
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v19`
+**Bloom:** [Evaluate]
+**ICFES:** [Explicación de fenómenos]
+**Context:** Ingeniería de tejidos y bioética
+
+### Enunciado
+En un proyecto de ingeniería de tejidos, se busca utilizar "células madre" para regenerar tejido cardíaco dañado. Estas células tienen la capacidad de convertirse en cualquier tipo celular especializado. ¿Qué proceso molecular ocurre principalmente para que una célula madre se convierta en una célula del corazón (miocito) y deje de expresar los genes de otros tejidos?
+
+### Options
+- [ ] A) La célula madre elimina físicamente los genes que no necesita para el corazón. <!-- feedback: Incorrect. Todas las células somáticas de un individuo conservan el genoma completo; no se elimina ADN durante la especialización. -->
+- [ ] B) La célula madre duplica su ADN varias veces para tener más copias de los genes cardíacos. <!-- feedback: Incorrect. La cantidad de ADN se mantiene constante; lo que cambia es su uso. -->
+- [x] C) Ocurre una expresión génica diferencial, activando genes específicos y silenciando otros. <!-- feedback: Correct. La diferenciación celular depende de qué genes se transcriben y cuáles se mantienen inactivos (mediante mecanismos epigenéticos), determinando la estructura y función de la célula. -->
+- [ ] D) El entorno extracelular inyecta proteínas nuevas en el núcleo de la célula madre. <!-- feedback: Incorrect. Aunque el entorno da señales, la célula responde regulando sus propios genes internos. -->
+
+### Explicación Pedagógica
+Todas las células de nuestro cuerpo comparten el mismo ADN, pero una neurona es diferente de una célula muscular porque utilizan diferentes "capítulos" de ese libro de instrucciones. La diferenciación celular es el proceso por el cual las células se especializan mediante el control preciso de la expresión de sus genes.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P1-celula-biologia-057-MASTERY-v20`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
+**Context:** Producción de bioetanol en el Valle del Cauca
+
+### Enunciado
+En las plantas de producción de bioetanol del Valle del Cauca, se utilizan levaduras (*Saccharomyces cerevisiae*) para fermentar el azúcar de la caña. El proceso debe ser estrictamente anaeróbico (sin oxígeno) para maximizar la producción de alcohol. Si entrara oxígeno al tanque de fermentación, ¿cuál sería el efecto biológico en las levaduras y por qué disminuiría la producción de etanol?
+
+### Options
+- [ ] A) Las levaduras morirían inmediatamente debido a la toxicidad del oxígeno. <!-- feedback: Incorrect. Las levaduras son organismos anaerobios facultativos y pueden sobrevivir y prosperar en presencia de oxígeno. -->
+- [x] B) Las levaduras cambiarían a respiración aeróbica, oxidando completamente el azúcar a CO2 y agua. <!-- feedback: Correct. En presencia de oxígeno, la respiración aeróbica es energéticamente más favorable para la levadura, por lo que deja de producir etanol (que es un producto de desecho de la fermentación) para extraer más energía del azúcar. -->
+- [ ] C) El oxígeno aceleraría la fermentación, produciendo etanol tan rápido que se evaporaría. <!-- feedback: Incorrect. El oxígeno inhibe la vía fermentativa en levaduras (Efecto Pasteur). -->
+- [ ] D) Las levaduras comenzarían a realizar fotosíntesis, consumiendo el azúcar que ya habían producido. <!-- feedback: Incorrect. Las levaduras son hongos y carecen de la maquinaria molecular para realizar fotosíntesis. -->
+
+### Explicación Pedagógica
+Este fenómeno se conoce como el Efecto Pasteur. Las levaduras son anaerobias facultativas: prefieren la respiración aeróbica porque obtienen mucho más ATP por molécula de glucosa. La fermentación es un "plan B" que solo activan cuando no hay oxígeno. En la industria, el control de la atmósfera es crucial para dirigir el metabolismo hacia el producto de interés.
