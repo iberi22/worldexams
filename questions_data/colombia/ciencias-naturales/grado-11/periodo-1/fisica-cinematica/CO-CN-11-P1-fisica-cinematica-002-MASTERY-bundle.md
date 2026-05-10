@@ -202,6 +202,29 @@ Principio de Independencia de los Movimientos de Galileo: El movimiento paraból
 
 ---
 
+## Question 9 (Variant Intermediate - Difficulty 6)
+
+**ID:** `CO-CN-11-P1-fisica-cinematica-002-MASTERY-v9`
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+
+### Contexto
+Se analiza una gráfica de **Posición vs Tiempo** ($x$ vs $t$) que muestra una curva con forma de parábola que abre hacia arriba.
+
+### Enunciado
+¿Qué información sobre el movimiento del objeto se puede extraer de la curvatura de esta gráfica?
+
+### Options
+- [ ] A) El objeto se mueve con velocidad constante. <!-- feedback: Incorrecto. En x vs t, una velocidad constante se representaría con una línea recta, no una curva. -->
+- [x] B) El objeto tiene una **aceleración constante positiva**. <!-- feedback: Correcto. Una parábola en x vs t indica un cambio uniforme en la velocidad (MRUA), y si abre hacia arriba, la aceleración es positiva. -->
+- [ ] C) El objeto está disminuyendo su velocidad hasta detenerse. <!-- feedback: Incorrecto. Si estuviera frenando, la curva se aplanaría (abriría hacia abajo). -->
+- [ ] D) El objeto se encuentra en reposo absoluto. <!-- feedback: Incorrecto. En reposo, la posición no cambiaría y la gráfica sería una línea horizontal. -->
+
+### Explicación Pedagógica
+Relación entre funciones matemáticas y cinemática. Una función de posición cuadrática ($x = x_0 + v_0t + \frac{1}{2}at^2$) produce una parábola cuya concavidad está determinada por el signo de la aceleración.
+
+---
+
 ## Question 10 (Variant Intermediate - Difficulty 6)
 
 **ID:** `CO-CN-11-P1-fisica-cinematica-002-MASTERY-v10`
