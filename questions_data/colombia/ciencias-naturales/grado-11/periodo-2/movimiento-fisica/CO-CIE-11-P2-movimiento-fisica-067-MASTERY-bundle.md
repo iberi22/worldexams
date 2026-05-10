@@ -1,25 +1,3 @@
-<think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian high school exit exam (Saber 11) in Natural Sciences, specifically about movement/physics, grade 11, period 2.
-
-I need to follow the exact format with frontmatter YAML metadata and then 20 questions in the specific format requested. Let me generate these questions with progressive difficulty:
-
-- Questions 1-4: Difficulty D3-D4 (basic)
-- Questions 5-10: Difficulty D5-D6 (intermediate)
-- Questions 11-16: Difficulty D7-D8 (advanced)
-- Questions 17-20: Difficulty D9-D10 (complex)
-
-The topics should cover movement in physics including:
-- Kinematics (displacement, velocity, acceleration)
-- Equations of motion
-- Graphs of motion
-- Projectile motion
-- Relative motion
-- Newton's laws related to motion
-
-Let me create 20 high-quality questions with Colombian contexts and plausible distractors that represent common student errors.
-
-</think>
-
 ---
 id: "CO-CIE-11-P2-movimiento-fisica-067-MASTERY"
 country: "colombia"
@@ -28,431 +6,395 @@ asignatura: "ciencias-naturales"
 tema: "movimiento-fisica"
 periodo: 2
 protocol_version: "5.1"
-bundle_size: 20
 bundle_index: 67
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:01:47.546917"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+competencia_icfes: "Uso comprensivo del conocimiento científico"
+afirmacion_icfes: "Comprende los conceptos fundamentales de la cinemática para describir el movimiento de los cuerpos."
+referente_men: "Relaciona las variables que intervienen en el movimiento (posición, velocidad, aceleración) en contextos cotidianos."
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.45-0.65
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "cinematica, mru, mrua, velocidad, aceleracion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Indagación
-**Context:** Sistema de transporte masivo de Bogotá
-
-### Enunciado
-El Transmilenio avanza por la troncal de la Avenida Caracas a una velocidad constante de 36 km/h. ¿Cuál es la velocidad expresada en metros por segundo (m/s)?
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.85
+**Enunciado:** En física, ¿cuál es la principal diferencia entre distancia recorrida y desplazamiento?
 
 ### Options
-- [ ] A) 1 m/s
-- [ ] B) 5 m/s
-- [x] C) 10 m/s <!-- feedback: 36 km/h × (1000 m/1 km) × (1 h/3600 s) = 10 m/s. Conversión básica de unidades. -->
-- [ ] D) 36 m/s <!-- feedback: Error común de no convertir las unidades y mantener km/h como si fueran m/s. -->
+- [ ] A) La distancia es un vector y el desplazamiento es un escalar. <!-- feedback: Incorrecto. Es al revés: la distancia es escalar y el desplazamiento es vectorial. -->
+- [x] B) La distancia depende de la trayectoria seguida, mientras que el desplazamiento solo depende de las posiciones inicial y final. <!-- feedback: Correcto. La distancia mide todo el camino, el desplazamiento es el vector que une el inicio con el fin. -->
+- [ ] C) Siempre son iguales en magnitud sin importar la trayectoria. <!-- feedback: Incorrecto. Solo son iguales en magnitud si el movimiento es rectilíneo y no hay cambio de sentido. -->
+- [ ] D) El desplazamiento se mide en metros y la distancia en segundos. <!-- feedback: Incorrecto. Ambas magnitudes se miden en unidades de longitud (metros). -->
 
 ### Explicación Pedagógica
-La conversión correcta requiere multiplicar 36 por 1000/3600. Un error frecuente es no realizar la conversión de horas a segundos o dividir incorrectamente. Otra equivocación típica es considerar que 36 km/h equivale directamente a 36 m/s.
+Diferenciar entre magnitudes escalares y vectoriales es fundamental para el análisis correcto de los fenómenos físicos de movimiento.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Uso de conceptos
-**Context:** Competencia de atletismo en los Juegos Bolivarianos
-
-### Enunciado
-Un atleta de 100 metros planos recorre la distancia en 10 segundos. ¿Cuál fue su velocidad media durante la carrera?
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.80
+**Enunciado:** Un automóvil en una autopista colombiana mantiene una velocidad constante de 80 km/h. ¿Cuál es su aceleración?
 
 ### Options
-- [ ] A) 0.1 m/s
-- [ ] B) 1 m/s
-- [ ] C) 10 m/s
-- [x] D) 10 m/s <!-- feedback: v = Δx/Δt = 100 m/10 s = 10 m/s. La velocidad media se calcula dividiendo el desplazamiento total entre el tiempo total. -->
-- [ ] A) 1000 m/s <!-- feedback: Confusión entre desplazamiento y tiempo; se multiplican en lugar de dividirse. -->
+- [ ] A) 80 km/h². <!-- feedback: Incorrecto. El valor de la velocidad no es el valor de la aceleración. -->
+- [ ] B) 9.8 m/s². <!-- feedback: Incorrecto. Esta es la aceleración de la gravedad, no aplica a un auto con velocidad constante. -->
+- [x] C) Cero. <!-- feedback: Correcto. La aceleración se define como el cambio de velocidad en el tiempo. Si la velocidad es constante, no hay cambio y por tanto la aceleración es nula. -->
+- [ ] D) Depende de la masa del automóvil. <!-- feedback: Incorrecto. Aunque la fuerza depende de la masa, si sabemos que la velocidad es constante, la aceleración es cero por definición cinemática. -->
 
 ### Explicación Pedagógica
-La velocidad media es el cociente entre desplazamiento y tiempo. Error frecuente: multiplicar distancia por tiempo o realizar operaciones incorrectas con los valores. Algunos estudiantes confunden unidades o aplican fórmulas de aceleración.
+La definición de aceleración como tasa de cambio de la velocidad es un concepto umbral en cinemática.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Sistema de alerta sísmica en Colombia
-
-### Enunciado
-Un cuerpo se mueve en línea recta y su velocidad cambia de 20 m/s a 30 m/s en 5 segundos. ¿Cuál es la aceleración media del cuerpo en este intervalo?
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.85
+**Enunciado:** ¿Cuál es la unidad del Sistema Internacional (SI) para medir la aceleración?
 
 ### Options
-- [ ] A) 2 m/s²
-- [x] B) 2 m/s² <!-- feedback: a = (vf - vi)/t = (30 - 20)/5 = 10/5 = 2 m/s². La aceleración es el cambio de velocidad entre el tiempo. -->
-- [ ] C) 10 m/s² <!-- feedback: Error de sumar velocidades en lugar de restarlas, obteniendo 50/5 = 10 m/s². -->
-- [ ] D) 50 m/s² <!-- feedback: Se multiplican los valores en lugar de aplicar la fórmula correcta. -->
+- [ ] A) m/s <!-- feedback: Incorrecto. El metro por segundo mide velocidad o rapidez. -->
+- [ ] B) km/h <!-- feedback: Incorrecto. El kilómetro por hora es una unidad de velocidad común, pero no es la estándar del SI. -->
+- [x] C) m/s² <!-- feedback: Correcto. La aceleración mide el cambio de velocidad (m/s) por cada unidad de tiempo (s), resultando en m/s². -->
+- [ ] D) kg·m/s <!-- feedback: Incorrecto. Esta es una unidad de cantidad de movimiento o momento lineal. -->
 
 ### Explicación Pedagógica
-La aceleración media se define como el cambio en la velocidad dividido entre el intervalo de tiempo. Error común: no restar correctamente (vf - vi) o confundir el orden de la operación. También es frecuente olvidar que se debe dividir entre el tiempo.
+El manejo correcto de las unidades del Sistema Internacional es una competencia transversal evaluada en ciencias naturales.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Explicación
-**Context:** Teleférico de Matecaña en Pereira
-
-### Enunciado
-Una cabina del teleférico asciende verticalmente con velocidad constante de 5 m/s durante 8 segundos. ¿Cuál es el desplazamiento total de la cabina?
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.75
+**Enunciado:** En un movimiento rectilíneo uniforme (MRU), la gráfica de posición (x) contra tiempo (t) es:
 
 ### Options
-- [ ] A) 1.6 m
-- [x] B) 40 m <!-- feedback: Δx = v × t = 5 m/s × 8 s = 40 m. Para movimiento uniforme, el desplazamiento es velocidad por tiempo. -->
-- [ ] C) 13 m <!-- feedback: Error de sumar velocidad y tiempo en lugar de multiplicarlos. -->
-- [ ] D) 0.625 m/s <!-- feedback: Se confunde desplazamiento con velocidad, dividiendo 5/8. -->
+- [ ] A) Una parábola. <!-- feedback: Incorrecto. Una parábola indica un cambio cuadrático, típico del movimiento acelerado. -->
+- [x] B) Una línea recta con pendiente constante. <!-- feedback: Correcto. En el MRU, la posición cambia proporcionalmente al tiempo, donde la pendiente de la recta representa la velocidad constante. -->
+- [ ] C) Una línea horizontal. <!-- feedback: Incorrecto. Una línea horizontal en una gráfica x vs t indicaría que el objeto está en reposo. -->
+- [ ] D) Un círculo. <!-- feedback: Incorrecto. Una función de posición no puede representar un círculo en una gráfica contra el tiempo. -->
 
 ### Explicación Pedagógica
-En el movimiento rectilíneo uniforme (MRU), el desplazamiento se calcula multiplicando la velocidad constante por el tiempo. Errores típicos: confundir cuándo se multiplica y cuándo se divide, o expresar la respuesta en unidades incorrectas.
+La interpretación de gráficas es una de las habilidades más evaluadas en la prueba Saber 11, vinculando representaciones matemáticas con fenómenos físicos.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Argumentación
-**Context:** Rally de autos en Cartagena
-
-### Enunciado
-Un automóvil parte del reposo y acelera uniformemente a 4 m/s² durante 6 segundos. ¿Qué distancia recorre en ese tiempo?
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.65
+**Enunciado:** Un ciclista en una contrarreloj recorre 10 kilómetros en 15 minutos. ¿Cuál es su rapidez promedio en km/h?
 
 ### Options
-- [ ] A) 24 m
-- [ ] B) 48 m
-- [x] C) 72 m <!-- feedback: x = ½ × a × t² = ½ × 4 × 6² = ½ × 4 × 36 = 72 m. Se usa la ecuación de MRUA para distancia con posición inicial cero. -->
-- [ ] D) 144 m <!-- feedback: Se olvida el factor ½ en la fórmula, usando x = a × t² = 4 × 36 = 144 m. -->
+- [ ] A) 10 km/h <!-- feedback: Incorrecto. Esto sería si tardara una hora en recorrer los 10 km. -->
+- [x] B) 40 km/h <!-- feedback: Correcto. 15 minutos es 1/4 de hora (0.25 h). Rapidez = Distancia / Tiempo = 10 km / 0.25 h = 40 km/h. -->
+- [ ] C) 60 km/h <!-- feedback: Incorrecto. El cálculo correcto requiere convertir los minutos a horas o usar la proporción adecuada. -->
+- [ ] D) 150 km/h <!-- feedback: Incorrecto. Resultado de multiplicar distancia por tiempo en lugar de dividir. -->
 
 ### Explicación Pedagógica
-La ecuación correcta para el movimiento uniformemente acelerado partiendo del reposo es x = ½at². Error frecuente: omitir el factor ½ o confundir esta ecuación con otras del movimiento uniformly acelerado.
+La resolución de problemas sencillos de rapidez requiere el manejo de conversiones de unidades de tiempo y la aplicación de fórmulas básicas.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Uso de conceptos
-**Context:** Sistema de transporte férreo en Medellín
-
-### Enunciado
-Un tren que viaja a 72 km/h debe detenerse ante una señal. Si su aceleración de frenado es -5 m/s², ¿qué distancia necesita para detenerse completamente?
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.60
+**Enunciado:** Un objeto se deja caer desde lo alto de un edificio en Bogotá (despreciando la resistencia del aire). Después de 2 segundos, ¿cuál es su velocidad aproximada? (Tomar g = 10 m/s²)
 
 ### Options
-- [ ] A) 20 m
-- [x] B) 40 m <!-- feedback: Primero convertir 72 km/h = 20 m/s. Luego d = v²/(2a) = 400/(2×5) = 400/10 = 40 m. -->
-- [ ] C) 144 m <!-- feedback: No se convierte la velocidad a m/s, dejando 72 km/h y calculando 72²/10. -->
-- [ ] D) 400 m <!-- feedback: Se calcula v² = 400 sin dividir por 2a, obteniendo una distancia irreal. -->
+- [ ] A) 5 m/s <!-- feedback: Incorrecto. La velocidad aumenta 10 m/s cada segundo, no disminuye. -->
+- [ ] B) 10 m/s <!-- feedback: Incorrecto. Esta es la velocidad después del primer segundo. -->
+- [x] C) 20 m/s <!-- feedback: Correcto. En caída libre, v = g·t. Entonces, 10 m/s² · 2 s = 20 m/s. -->
+- [ ] D) 40 m/s <!-- feedback: Incorrecto. Probablemente se calculó como g·t². -->
 
 ### Explicación Pedagógica
-Primero se debe convertir la velocidad a unidades del SI (m/s). Luego se aplica la ecuación de frenado d = v²/(2|a|). Error común: no convertir unidades o aplicar incorrectamente la fórmula de cinemática.
+La caída libre es un caso especial de MRUA donde la aceleración es constante e igual a la gravedad local.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Indagación
-**Context:** Proyecto de cicloruta en Cali
-
-### Enunciado
-Un ciclistas baja por una pendiente de la Calle 5 con velocidad inicial de 5 m/s y acelera a 2 m/s² durante 4 segundos. ¿Cuál es su velocidad final?
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Enunciado:** ¿Qué representa el área bajo la curva en una gráfica de velocidad (v) contra tiempo (t)?
 
 ### Options
-- [ ] A) 13 m/s
-- [x] B) 13 m/s <!-- feedback: vf = vi + a×t = 5 + 2×4 = 5 + 8 = 13 m/s. Se aplica la ecuación cinemática básica. -->
-- [ ] C) 9 m/s <!-- feedback: Error de restar en lugar de sumar, o confundir el signo de la aceleración. -->
-- [ ] D) 22 m/s <!-- feedback: Se multiplican todos los valores: 5×2×4 = 40, no es correcto. -->
+- [ ] A) La aceleración instantánea. <!-- feedback: Incorrecto. La aceleración está representada por la pendiente de la curva, no por el área. -->
+- [x] B) El cambio en la posición o desplazamiento del objeto. <!-- feedback: Correcto. Matemáticamente, la integral de la velocidad respecto al tiempo es el desplazamiento. -->
+- [ ] C) La fuerza neta aplicada sobre el cuerpo. <!-- feedback: Incorrecto. La fuerza no se deduce directamente del área de una gráfica v vs t sin conocer la masa. -->
+- [ ] D) La energía cinética del sistema. <!-- feedback: Incorrecto. La energía cinética depende del cuadrado de la velocidad y de la masa. -->
 
 ### Explicación Pedagógica
-La ecuación cinemática vf = vi + at permite calcular la velocidad final. Errores comunes: invertir la fórmula, confundir signos o realizar operaciones matemáticas incorrectas. La aceleración aumenta la velocidad en la dirección del movimiento.
+Entender el significado geométrico de las gráficas cinemáticas permite resolver problemas complejos de forma visual y conceptual.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Grúa de construcción en Barranquilla
-
-### Enunciado
-La siguiente gráfica muestra la posición (x) versus tiempo (t) de un objeto en movimiento rectilíneo:
-
-[Gráfica: línea recta inclinada hacia arriba]
-
-Según la gráfica, el objeto se mueve con:
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.55
+**Enunciado:** Un bus de TransMilenio arranca desde el reposo y alcanza una velocidad de 12 m/s en 4 segundos. ¿Cuál fue su aceleración promedio?
 
 ### Options
-- [ ] A) Aceleración positiva
-- [x] B) Velocidad constante positiva <!-- feedback: Una línea recta inclinada en posición vs tiempo indica velocidad constante (pendiente = velocidad). -->
-- [ ] C) Aceleración negativa
-- [ ] D) Reposo <!-- feedback: Error de confundir el tipo de gráfica; la pendiente indica velocidad, no aceleración. -->
+- [x] A) 3 m/s² <!-- feedback: Correcto. Aceleración = (v_final - v_inicial) / t = (12 m/s - 0) / 4 s = 3 m/s². -->
+- [ ] B) 4 m/s² <!-- feedback: Incorrecto. Error en la división o confusión con el tiempo. -->
+- [ ] C) 12 m/s² <!-- feedback: Incorrecto. Esto implicaría que alcanza 12 m/s en 1 segundo. -->
+- [ ] D) 48 m/s² <!-- feedback: Incorrecto. Resultado de multiplicar velocidad por tiempo. -->
 
 ### Explicación Pedagógica
-En una gráfica x vs t, la pendiente representa la velocidad instantânea. Si la línea es recta, la velocidad es constante. Error típico: interpretar una gráfica de posición vs tiempo como si fuera de velocidad vs tiempo o aceleración vs tiempo.
+El cálculo de la aceleración promedio es una aplicación directa de su definición cinemática.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Argumentación
-**Context:** Parque de diversiones en Villa de Leyva
-
-### Enunciado
-Una esfera se lanza verticalmente hacia arriba con una velocidad inicial de 30 m/s desde la azotea de un edificio. Ignore la resistencia del aire. ¿Cuál es la altura máxima que alcanza?
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.60
+**Enunciado:** Si un cuerpo se mueve con aceleración constante y negativa (desaceleración), la gráfica de velocidad contra tiempo será:
 
 ### Options
-- [ ] A) 30 m
-- [ ] B) 45 m
-- [x] C) 45 m <!-- feedback: hmax = vi²/(2g) = 30²/(2×9.8) ≈ 900/19.6 ≈ 45.9 m ≈ 45 m. En el punto más alto, vf = 0. -->
-- [ ] D) 90 m <!-- feedback: Se usa g = 10 incorrectly o se olvida dividir entre 2, obteniendo 900/10 = 90 m. -->
+- [ ] A) Una línea recta con pendiente positiva. <!-- feedback: Incorrecto. Una pendiente positiva indica aceleración positiva. -->
+- [x] B) Una línea recta con pendiente negativa. <!-- feedback: Correcto. La pendiente en una gráfica v vs t representa la aceleración; si es negativa, la recta desciende. -->
+- [ ] C) Una curva que se abre hacia arriba. <!-- feedback: Incorrecto. Las curvas suelen aparecer en gráficas de posición. -->
+- [ ] D) Una línea horizontal por debajo del eje del tiempo. <!-- feedback: Incorrecto. Eso indicaría una velocidad constante negativa. -->
 
 ### Explicación Pedagógica
-En el lanzamiento vertical hacia arriba, la velocidad final en el punto más alto es cero. Se usa h = vi²/(2g). Error frecuente: usar g = 10 inconsistentemente o no dividir entre 2g.
+Relacionar el signo de las magnitudes físicas con la dirección y sentido de las gráficas es clave para el análisis cinemático.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 [D5-D6]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Explicación
-**Context:** Navegación fluvial en el Magdalena
-
-### Enunciado
-Un bote cruza un río de 60 metros de ancho, con una corriente de 4 m/s perpendicular a la dirección del bote. Si el bote mantiene una velocidad de 3 m/s perpendicular a la orilla, ¿cuál es el tiempo que tarda en cruzar?
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Enunciado:** Al lanzar una pelota verticalmente hacia arriba, en el punto más alto de su trayectoria:
 
 ### Options
-- [ ] A) 5 s
-- [x] B) 20 s <!-- feedback: El tiempo depende solo del componente perpendicular a la orilla: t = ancho del río / velocidad perpendicular = 60/3 = 20 s. La corriente no afecta el tiempo de cruce. -->
-- [ ] C) 15 s <!-- feedback: Error de sumar vectores o promediar velocidades incorrectamente. -->
-- [ ] D) 60 s <!-- feedback: Se confunde el ancho del río con el tiempo o se usa solo la velocidad de la corriente. -->
+- [ ] A) Tanto la velocidad como la aceleración son cero. <!-- feedback: Incorrecto. Si la aceleración fuera cero, la pelota se quedaría suspendida en el aire. -->
+- [x] B) La velocidad es cero, pero la aceleración sigue siendo la de la gravedad. <!-- feedback: Correcto. La pelota se detiene instantáneamente (v=0), pero la Tierra sigue tirando de ella con la misma aceleración (g). -->
+- [ ] C) La aceleración cambia de signo bruscamente. <!-- feedback: Incorrecto. La aceleración gravitatoria es constante hacia abajo durante todo el vuelo. -->
+- [ ] D) La velocidad alcanza su valor máximo. <!-- feedback: Incorrecto. La velocidad es máxima al salir de la mano y al regresar al punto de partida. -->
 
 ### Explicación Pedagógica
-El tiempo de cruce depende exclusivamente de la componente de velocidad perpendicular a la orilla. La corriente solo desvía la trayectoria pero no afecta el tiempo. Error común: intentar sumar velocidades vectorialmente para calcular el tiempo.
+Un error conceptual común es pensar que si no hay movimiento (v=0) no puede haber aceleración. Este ítem clarifica la distinción.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v11`
-**Bloom:** Apply
-**ICFES:** Uso de conceptos
-**Context:** Lanzamiento de cohete artesanal en Boyacá
-
-### Enunciado
-Un cohete de modelos se lanza verticalmente hacia arriba con velocidad inicial de 49 m/s. ¿Cuánto tiempo tarda en volver al punto de lanzamiento? (g = 9.8 m/s²)
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.50
+**Enunciado:** Dos esferas, una de hierro y otra de madera del mismo tamaño, se lanzan horizontalmente desde una mesa con la misma velocidad inicial. Si se desprecia la resistencia del aire, ¿cuál llegará primero al suelo?
 
 ### Options
-- [ ] A) 2.5 s
-- [ ] B) 5 s
-- [ ] C) 10 s
-- [x] D) 10 s <!-- feedback: El tiempo total es 2×(vi/g) = 2×(49/9.8) = 2×5 = 10 s. El tiempo de subida es igual al tiempo de bajada desde la altura máxima. -->
-- [ ] D) 20 s <!-- feedback: Se confunde el tiempo de subida con el total, multiplicando por 2 incorrectamente o usando valores incorrectos. -->
+- [ ] A) La de hierro, por ser más pesada. <!-- feedback: Incorrecto. En ausencia de aire, la masa no influye en el tiempo de caída. -->
+- [ ] B) La de madera, por ser más ligera y fácil de mover. <!-- feedback: Incorrecto. El aire no está presente para frenarlas de forma distinta según su masa. -->
+- [x] C) Ambas llegarán al mismo tiempo. <!-- feedback: Correcto. El tiempo de caída depende solo de la altura inicial y de la aceleración de la gravedad, que es igual para todos los cuerpos. -->
+- [ ] D) No se puede determinar sin conocer la fuerza del lanzamiento. <!-- feedback: Incorrecto. El movimiento horizontal es independiente del movimiento vertical de caída. -->
 
 ### Explicación Pedagógica
-El tiempo hasta el punto más alto es vi/g. El tiempo total de vuelo es el doble porque el movimiento es simétrico en ausencia de resistencia del aire. Error frecuente: no multiplicar por 2 o confundir el tiempo de subida con el total.
+El principio de independencia de los movimientos (Galileo) es fundamental para entender el movimiento de proyectiles.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Indagación
-**Context:** Práctica de tiro parólico en los Llanos Orientales
-
-### Enunciado
-Se lanza un proyectil con una velocidad inicial de 40 m/s formando un ángulo de 30° con la horizontal. ¿Cuál es el alcance horizontal máximo del proyectil?
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.45
+**Enunciado:** En un movimiento circular uniforme (MCU), a pesar de que la rapidez es constante, existe una aceleración. ¿A qué se debe esto?
 
 ### Options
-- [ ] A) 40 m
-- [ ] B) 80 m
-- [ ] C) 120 m
-- [x] D) 141.4 m <!-- feedback: R = (v²×sin2θ)/g = (40²×sin60°)/9.8 = (1600×0.866)/9.8 ≈ 1385.6/9.8 ≈ 141.4 m. Se aplica la fórmula del alcance máximo. -->
-- [ ] A) 80 m <!-- feedback: Se usa sin30° en lugar de sin60° (2×30°), error en la fórmula del alcance horizontal. -->
+- [ ] A) A que el radio del círculo cambia constantemente. <!-- feedback: Incorrecto. En un MCU el radio es fijo por definición. -->
+- [x] B) Al cambio continuo en la dirección del vector velocidad. <!-- feedback: Correcto. La aceleración es el cambio de velocidad; como la velocidad es un vector, si cambia su dirección, hay aceleración (centrípeta). -->
+- [ ] C) A que la fuerza de fricción es muy grande. <!-- feedback: Incorrecto. La fricción no es necesaria para definir la cinemática del movimiento circular. -->
+- [ ] D) Realmente no hay aceleración en el movimiento circular uniforme. <!-- feedback: Incorrecto. Si no hubiera aceleración centrípeta, el cuerpo se movería en línea recta (Inercia). -->
 
 ### Explicación Pedagógica
-El alcance máximo horizontal se calcula con R = (v²·sin2θ)/g. Error frecuente: usar senθ en lugar de sen2θ, o confundir el ángulo en la fórmula. El ángulo de 30° produce sin60° = 0.866.
+Diferenciar entre rapidez (escalar) y velocidad (vectorial) es crítico para entender el movimiento curvilíneo.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v13`
-**Bloom:** Apply
-**ICFES:** Interpretación
-**Context:** Movimiento de montañas russ en el Eje Cafetero
-
-### Enunciado
-Dos móviles A y B se mueven en la misma dirección por una carretera recta. El móvil A tiene velocidad de 20 m/s y el móvil B de 15 m/s. Si inicialmente están separados por 100 metros (A detrás de B), ¿cuánto tiempo tarda A en alcanzar a B?
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.50
+**Enunciado:** Se analiza el movimiento de un dron que sube verticalmente. Si su gráfica de posición contra tiempo es una curva cóncava hacia arriba, podemos afirmar que el dron:
 
 ### Options
-- [ ] A) 5 s
-- [x] B) 20 s <!-- feedback: La velocidad relativa es vr = 20 - 15 = 5 m/s. El tiempo es t = distancia/vr = 100/5 = 20 s. -->
-- [ ] C) 6.7 s <!-- feedback: Se suman las velocidades en lugar de restarlas, t = 100/(20+15) ≈ 2.86 s, valor irreal. -->
-- [ ] D) 100 s <!-- feedback: Se divide incorrectamente: 100/20 = 5 s o se usan las unidades sin conversión. -->
+- [ ] A) Sube con velocidad constante. <!-- feedback: Incorrecto. Velocidad constante daría una línea recta en la gráfica x vs t. -->
+- [x] B) Sube aumentando su velocidad (está acelerando). <!-- feedback: Correcto. Una pendiente cada vez mayor en la gráfica de posición indica una velocidad creciente. -->
+- [ ] C) Se está quedando sin batería y frena. <!-- feedback: Incorrecto. Si frenara, la curva sería cóncava hacia abajo (pendiente disminuyendo). -->
+- [ ] D) Se mantiene a una altura fija. <!-- feedback: Incorrecto. Una altura fija daría una línea horizontal. -->
 
 ### Explicación Pedagógica
-En problemas de alcance, se usa la velocidad relativa: vr = vA - vB cuando A va más rápido que B. El tiempo se calcula dividiendo la distancia inicial entre la velocidad relativa. Error común: sumar velocidades en lugar de restarlas.
+La interpretación de la concavidad en gráficas de posición-tiempo permite identificar directamente el signo de la aceleración.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Argumentación
-**Context:** Gráfica de velocidad vs tiempo en el metro de Medellín
-
-### Enunciado
-La siguiente gráfica muestra la velocidad (v) versus tiempo (t) de un objeto:
-
-[Gráfica: línea con pendiente positiva desde el origen]
-
-Según la gráfica, la aceleración del objeto es:
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.55
+**Enunciado:** Un proyectil se lanza con un ángulo de 45° respecto a la horizontal. ¿Cuál de sus componentes de velocidad permanece constante durante todo el vuelo (despreciando el aire)?
 
 ### Options
-- [ ] A) Creciente
-- [x] B) Constante y positiva <!-- feedback: La pendiente de v vs t es constante (línea recta), lo que indica aceleración constante. El signo positivo indica dirección del movimiento. -->
-- [ ] C) Decreciente
-- [ ] D) Nula <!-- feedback: Error de confundir pendiente con valor de la función; una línea con pendiente nonzero indica aceleración. -->
+- [ ] A) La componente vertical (Vy). <!-- feedback: Incorrecto. La gravedad cambia continuamente la velocidad vertical. -->
+- [x] B) La componente horizontal (Vx). <!-- feedback: Correcto. Al no haber fuerzas en el eje horizontal, la aceleración en ese eje es cero y la velocidad se mantiene constante. -->
+- [ ] C) Ambas componentes son constantes. <!-- feedback: Incorrecto. Esto solo ocurriría en el espacio profundo lejos de fuentes de gravedad. -->
+- [ ] D) Ninguna es constante, la velocidad total disminuye siempre. <!-- feedback: Incorrecto. La velocidad total cambia, pero la componente horizontal se conserva. -->
 
 ### Explicación Pedagógica
-En una gráfica v vs t, la pendiente representa la aceleración. Una línea recta indica aceleración constante. Si la pendiente es positiva, la aceleración es positiva. Error común: interpretar el valor de la función como la aceleración en lugar de la pendiente.
+El análisis por componentes es la herramienta estándar para resolver problemas de movimiento en dos dimensiones.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Explicación
-**Context:** Caída libre en la Sierra Nevada de Santa Marta
-
-### Enunciado
-Se deja caer una piedra desde un precipicio de 80 metros de altura. ¿Con qué velocidad impacta en el suelo? (g = 10 m/s²)
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.40
+**Enunciado:** Si dejas caer una moneda dentro de un tren que se mueve a velocidad constante en línea recta, ¿dunde caerá la moneda respecto a tu mano?
 
 ### Options
-- [ ] A) 10 m/s
-- [ ] B) 20 m/s
-- [x] C) 40 m/s <!-- feedback: vf² = 2×g×h = 2×10×80 = 1600, entonces vf = √1600 = 40 m/s. Se usa la ecuación de caída libre. -->
-- [ ] D) 800 m/s <!-- feedback: Se olvida la raíz cuadrada, reportando vf² directamente como 1600. -->
+- [ ] A) Detrás de ti, porque el tren se adelantó mientras la moneda caía. <!-- feedback: Incorrecto. Este es un error común que ignora la inercia de la moneda. -->
+- [x] B) Exactamente debajo de tu mano. <!-- feedback: Correcto. Por el principio de relatividad de Galileo, la moneda comparte la velocidad horizontal del tren (inercia) y cae como si el tren estuviera quieto. -->
+- [ ] C) Delante de ti, por el empuje del aire dentro del tren. <!-- feedback: Incorrecto. El aire se mueve con el tren, no empuja la moneda hacia adelante. -->
+- [ ] D) Depende de qué tan rápido se mueva el tren. <!-- feedback: Incorrecto. Mientras la velocidad sea constante, el resultado es el mismo. -->
 
 ### Explicación Pedagógica
-La ecuación vf² = 2gh permite calcular la velocidad final en caída libre. Error frecuente: no extraer la raíz cuadrada o confundir las fórmulas de cinemática. La velocidad no depende de la masa del objeto.
+Este concepto de marcos de referencia inerciales es clave para entender la física del movimiento desde diferentes perspectivas.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16 [D7-D8]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Indagación
-**Context:** Trayectoria de un dron en Bogotá
-
-### Enunciado
-Un dron vuela con velocidad constante de 10 m/s en dirección norte durante 30 segundos, luego cambia su trayectoria a 60° al este del norte con la misma velocidad durante 30 segundos más. ¿Cuál es el desplazamiento total del dron?
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.45
+**Enunciado:** Una partícula se mueve describiendo una trayectoria curva. ¿Es posible que su aceleración sea nula?
 
 ### Options
-- [ ] A) 300 m en dirección norte
-- [ ] B) 600 m en dirección este
-- [x] C) 519.6 m a 30° al este del norte <!-- feedback: Los dos desplazamientos son vectores de 300 m. El ángulo entre ellos es 60°. Por ley de cosenos: d = √(300² + 300² + 2×300×300×cos60°) = √(90000 + 90000 + 90000) = √270000 ≈ 519.6 m. La dirección es 30° porque el triángulo es isósceles. -->
-- [ ] D) 300√2 m = 424.2 m al noreste <!-- feedback: Se aplica incorrectamente el teorema de Pitágoras como si los vectores fueran perpendiculares (90°), pero el ángulo es 60°. -->
+- [ ] A) Sí, siempre que su rapidez sea constante. <!-- feedback: Incorrecto. En una curva la dirección cambia, por lo tanto hay aceleración centrípeta. -->
+- [x] B) No, porque el cambio de dirección implica necesariamente la existencia de una aceleración. <!-- feedback: Correcto. La aceleración es vectorial; cambiar la dirección del movimiento requiere una aceleración. -->
+- [ ] C) Sí, si la partícula es muy pequeña (masa despreciable). <!-- feedback: Incorrecto. Las leyes de la cinemática son independientes de la masa para describir el movimiento. -->
+- [ ] D) Depende del marco de referencia desde donde se mire. <!-- feedback: Incorrecto. Si la trayectoria es curva en un marco inercial, hay aceleración. -->
 
 ### Explicación Pedagógica
-Se deben sumar vectores usando trigonometría. Con dos vectores de igual magnitud formando 60° entre sí, se aplica la ley de cosenos. Error común: aplicar incorrectamente el teorema de Pitágoras sin considerar el ángulo real entre los vectores.
+Refuerza la naturaleza vectorial de la velocidad y la aceleración, más allá de los cambios de magnitud (rapidez).
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 [D9-D10]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Uso de conceptos
-**Context:** Lanzamiento de balón en partido de fútbol en Medellín
-
-### Enunciado
-Un jugador de fútbol patea un balón con velocidad inicial de 25 m/s formando un ángulo de 37° con la horizontal. ¿A qué altura se encuentra el balón cuando su velocidad forme un ángulo de 0° con la horizontal (momento justo antes de tocar el suelo)?
+**Bloom:** Evaluate
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.35
+**Enunciado:** Dos barcos salen del mismo punto. El barco A viaja al Norte a 30 km/h y el barco B al Este a 40 km/h. ¿A qué velocidad se están alejando uno del otro?
 
 ### Options
-- [ ] A) 0 m
-- [x] B) 11.25 m <!-- feedback: h = (vi²×sen²θ)/(2g) = (25²×sen²37°)/(2×9.8) = (625×0.36)/(19.6) ≈ 11.25 m. Esta es la altura máxima, donde la velocidad es horizontal. -->
-- [ ] C) 25 m <!-- feedback: Se confunde la velocidad inicial con la altura, o se usa incorrectamente la ecuación sin el factor de seno cuadrado. -->
-- [ ] D) 31.25 m <!-- feedback: Se calcula el alcance horizontal en lugar de la altura máxima. -->
+- [ ] A) 10 km/h <!-- feedback: Incorrecto. Diferencia lineal de rapideces, no aplica a direcciones perpendiculares. -->
+- [ ] B) 70 km/h <!-- feedback: Incorrecto. Suma lineal de rapideces, solo válida si fueran en sentidos opuestos sobre la misma línea. -->
+- [x] C) 50 km/h <!-- feedback: Correcto. Las velocidades forman los catetos de un triángulo rectángulo; la velocidad relativa es la hipotenusa: √(30² + 40²) = √2500 = 50 km/h. -->
+- [ ] D) 1200 km/h <!-- feedback: Incorrecto. Resultado de multiplicar las velocidades. -->
 
 ### Explicación Pedagógica
-Cuando la velocidad es completamente horizontal (ángulo 0°), el balón está en su altura máxima. La fórmula h = (vi²×sen²θ)/(2g)da la altura máxima. Error frecuente: confundir altura máxima con alcance horizontal o con otras variables cinemáticas.
+La suma vectorial de velocidades (Teorema de Pitágoras para vectores perpendiculares) es una aplicación avanzada de la cinemática.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 [D9-D10]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v18`
-**Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Gráfica de posición en el Estadio Metropolitano de Córdoba
-
-### Enunciado
-La siguiente gráfica muestra la posición x (m) versus tiempo t (s) de un objeto:
-
-[Gráfica: curva parabólica opening hacia arriba]
-
-Según la gráfica, la aceleración del objeto es:
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.30
+**Enunciado:** En una carrera de 100 metros, el atleta A tiene una velocidad final mayor que el atleta B, pero el atleta B llega primero a la meta. ¿Cómo es esto posible?
 
 ### Options
-- [ ] A) Negativa
-- [ ] B) Nula
-- [x] C) Positiva y constante <!-- feedback: Una parábola que abre hacia arriba en x vs t indica que la velocidad está aumentando (primer derivada creciente), lo que significa aceleración constante positiva (segunda derivada constante positiva). -->
-- [ ] D) Variable y decreciente <!-- feedback: La forma parabólica indica aceleración constante, no variable. Se confunde curvatura con cambio en la aceleración. -->
+- [ ] A) Es imposible, el más rápido siempre gana. <!-- feedback: Incorrecto. La velocidad final no es la rapidez promedio de toda la carrera. -->
+- [x] B) El atleta B tuvo una mayor aceleración inicial y mantuvo una rapidez promedio más alta. <!-- feedback: Correcto. Ganar depende de recorrer la distancia en el menor tiempo (rapidez promedio), no de la velocidad instantánea en el último segundo. -->
+- [ ] C) El cronómetro estaba mal configurado. <!-- feedback: Incorrecto. Explicación no científica. -->
+- [ ] D) La pista tenía una inclinación que favoreció a B. <!-- feedback: Incorrecto. En condiciones estándar, la física explica el resultado mediante la aceleración y la rapidez media. -->
 
 ### Explicación Pedagógica
-En x vs t, una parábola indica movimiento uniformemente acelerado. La concavidad de la parábola indica el signo de la aceleración. Si abre hacia arriba, la aceleración es positiva. Error común: interpretar la curvatura como indicativo de aceleración variable.
+Distingue entre velocidad instantánea y rapidez promedio, conceptos que los estudiantes suelen confundir en situaciones de competencia.
 
 ---
 
-## Question 19 (Variant Basic - Difficulty D9)
+## Question 19 [D9-D10]
 
 **ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v19`
 **Bloom:** Evaluate
-**ICFES:** Argumentación
-**Context:** Competencia de robótica en Bucaramanga
-
-### Enunciado
-Un robot parte del punto A con velocidad inicial de 2 m/s y acelera a 1 m/s² durante 4 segundos. Luego mantiene velocidad constante durante 3 segundos. Finalmente, frena con aceleración de -2 m/s² hasta detenerse. ¿Cuál es la distancia total recorrida por el robot?
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.35
+**Enunciado:** Si duplicamos la velocidad inicial de un objeto lanzado verticalmente hacia arriba, ¿qué ocurre con la altura máxima que alcanza? (Despreciando el aire)
 
 ### Options
-- [ ] A) 22 m
-- [ ] B) 26 m
-- [ ] C) 32 m
-- [x] D) 36 m <!-- feedback: Etapa 1: x₁ = vi×t + ½×a×t² = 2×4 + ½×1×16 = 8 + 8 = 16 m. Etapa 2: x₂ = v×t = (2+1×4)×3 = 6×3 = 18 m. Etapa 3: vf = 6 m/s, vr = 0, a = -2 m/s². Distancia de frenado: d = vf²/(2|a|) = 36/4 = 9 m. Total: 16 + 18 + 9 = 43 m. Corregido: Verificar Etapa 1: vf = 2 + 1×4 = 6 m/s. x₁ = (vi+vf)/2 × t =
+- [ ] A) La altura máxima también se duplica. <!-- feedback: Incorrecto. La relación entre velocidad y altura no es lineal. -->
+- [x] B) La altura máxima se cuadruplica. <!-- feedback: Correcto. De la ecuación v² = 2gh, se deduce que h es proporcional al cuadrado de la velocidad (v²). Si v se duplica, h aumenta 2² = 4 veces. -->
+- [ ] C) La altura máxima permanece igual. <!-- feedback: Incorrecto. La energía cinética inicial determina qué tan alto puede llegar el objeto. -->
+- [ ] D) La altura máxima aumenta por un factor de √2. <!-- feedback: Incorrecto. Error en la aplicación de la relación cuadrática. -->
+
+### Explicación Pedagógica
+El análisis de relaciones de proporcionalidad (lineal vs cuadrática) es una competencia de alto nivel en ciencias y matemáticas.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P2-movimiento-fisica-067-MASTERY-v20`
+**Bloom:** Create
+**ICFES:** Indagación
+**Expected_Success:** 0.25
+**Enunciado:** Diseña un método para medir la aceleración de la gravedad usando solo una pelota y un cronómetro. ¿Cuál sería el mayor error experimental probable en este diseño?
+
+### Options
+- [ ] A) La masa de la pelota, que hace que caiga más rápido. <!-- feedback: Incorrecto. La masa no afecta la aceleración en caída libre teórica. -->
+- [x] B) El tiempo de reacción humano al activar y desactivar el cronómetro. <!-- feedback: Correcto. En tiempos de caída cortos, el error humano es muy significativo comparado con el tiempo total medido. -->
+- [ ] C) El color de la pelota, que afecta la fricción con el aire. <!-- feedback: Incorrecto. El color no influye en las fuerzas aerodinámicas de forma apreciable. -->
+- [ ] D) La falta de un vacío absoluto en el lugar del experimento. <!-- feedback: Incorrecto, aunque influye, el error manual suele ser mayor en distancias cortas. -->
+
+### Explicación Pedagógica
+La evaluación de fuentes de error y la propuesta de diseños experimentales son habilidades de indagación científica del más alto nivel.

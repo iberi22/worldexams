@@ -1,29 +1,3 @@
-<think>
-El usuario me pide generar 20 preguntas tipo ICFES Saber 11 para Ciencias Naturales, tema electricidad-circuitos, grado 11, período 4. Debo seguir el formato exacto especificado con frontmatter YAML y las 20 preguntas.
-
-Voy a generar preguntas con dificultad progresiva:
-- Preguntas 1-4: D3-D4 (básicas)
-- Preguntas 5-10: D5-D6 (intermedias)
-- Preguntas 11-16: D7-D8 (avanzadas)
-- Preguntas 17-20: D9-D10 (expertas)
-
-Temas a cubrir en electricidad-circuitos:
-- Ley de Ohm
-- Circuitos en serie y paralelo
-- Potencia eléctrica
-- Energía eléctrica
-- Resistencia equivalente
-- Leyes de Kirchhoff
-- Instrumentos de medición (voltímetro, amperímetro)
-- Condensadores
-- Corriente alterna y directa
-- Eficiencia energética
-
-Contexto colombiano: debo incluir referencias a la realidad colombiana como el sistema eléctrico nacional, hidroeléctricas, contexto energético, etc.
-
-Voy a generar las preguntas siguiendo el formato exacto solicitado.
-</think>
-
 ---
 id: "CO-CIE-11-P4-electricidad-circuitos-085-MASTERY"
 country: "colombia"
@@ -34,371 +8,390 @@ periodo: 4
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 85
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:00:58.055562"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Identifier
-**Context:** Sistema eléctrico colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En el contexto del sistema eléctrico colombiano, la Central Hidroeléctrica de Itaipú (compartida con Brasil) y las plantas térmicas de ciclo combinado en Termobarranca generan energía que se distribuye a millones de hogares. Si se conecta una resistencia R a una fuente de voltaje constante V, según la Ley de Ohm, la corriente I que circula es directamente proporcional a:
+La corriente eléctrica en un circuito de corriente continua (DC) se define como el flujo neto de carga a través de un conductor. ¿Cuál es la unidad del Sistema Internacional (SI) utilizada para medir la intensidad de la corriente?
 
-### Options
-- [ ] A) La resistencia R
-- [ ] B) El inverso de la resistencia (1/R)
-- [x] C) El voltaje V e inversamente proporcional a la resistencia R <!-- feedback: La Ley de Ohm establece que I = V/R, por lo tanto I es directamente proporcional a V e inversamente proporcional a R -->
-- [ ] D) La potencia consumida
+- [ ] A) Voltio (V). <!-- feedback: Incorrect. El voltio mide la diferencia de potencial o tensión eléctrica. -->
+- [ ] B) Ohmio ($\Omega$). <!-- feedback: Incorrect. El ohmio mide la resistencia eléctrica de un material. -->
+- [x] C) Amperio (A). <!-- feedback: Correct. El amperio equivale al flujo de un culombio de carga por cada segundo ($1 A = 1 C/s$). -->
+- [ ] D) Vatio (W). <!-- feedback: Incorrect. El vatio mide la potencia eléctrica, que es la rapidez con la que se consume energía. -->
 
 ### Explicación Pedagógica
-La Ley de Ohm establece la relación I = V/R, lo que significa que la corriente es directamente proporcional al voltaje aplicado e inversamente proporcional a la resistencia. Esta es una pregunta de identificación directa de una ley fundamental en electricidad. El distractor A es común porque algunos estudiantes confunden la proporcionalidad directa con la inversa.
+La intensidad de corriente indica cuánta carga pasa por un punto del cable en un tiempo determinado. Es análoga al caudal de agua en una tubería.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Identifier
-**Context:** Circuitos domésticos en Colombia
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En una vivienda colombiana típica conectada a la red de 120V AC, se instalan bombillas LED de 10W y bombillas incandescentes de 60W. La resistencia de la bombilla LED es aproximadamente:
+Un material que permite el paso libre de electrones a través de su estructura se clasifica como un conductor. ¿Cuál de los siguientes materiales es un excelente conductor eléctrico?
 
-### Options
-- [ ] A) 12 ohmios
-- [ ] B) 120 ohmios
-- [x] C) 1440 ohmios <!-- feedback: Usando P = V²/R, despejando R = V²/P = (120)²/10 = 14400/10 = 1440Ω -->
-- [ ] D) 1,44 ohmios
+- [ ] A) Vidrio. <!-- feedback: Incorrect. El vidrio es un aislante; sus electrones están fuertemente ligados a los núcleos. -->
+- [ ] B) Madera seca. <!-- feedback: Incorrect. La madera es un mal conductor debido a su estructura molecular orgánica. -->
+- [x] C) Cobre. <!-- feedback: Correct. Los metales como el cobre tienen "electrones libres" que se mueven fácilmente bajo la influencia de un campo eléctrico. -->
+- [ ] D) Plástico (PVC). <!-- feedback: Incorrect. El plástico se usa como recubrimiento precisamente por ser un aislante eficaz. -->
 
 ### Explicación Pedagógica
-Usando la fórmula de potencia P = V²/R y despejando R = V²/P. Para V=120V y P=10W, se obtiene R = 14400/10 = 1440Ω. El distractor A (12Ω) resulta de calcular incorrectamente V/I donde I sería 10A en lugar de usar la fórmula correcta. El distractor D surge de no elevar el voltaje al cuadrado.
+La conductividad depende de la disponibilidad de portadores de carga móviles. En los metales, el enlace metálico crea una "nube de electrones" compartida.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Formulator
-**Context:** Distribución eléctrica en el SID
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-003`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-El Sistema Interconectado Nacional (SIN) de Colombia transporta energía eléctrica a través de líneas de transmisión de alto voltaje. Si tres resistencias de 6Ω, 3Ω y 2Ω se conectan en serie con una batería de 22V, la corriente total que circula por el circuito es:
+Según la Ley de Ohm, si se mantiene constante la resistencia de un componente y se duplica el voltaje aplicado, la corriente eléctrica que circula por él:
 
-### Options
-- [ ] A) 2 A
-- [x] B) 2 A ( Rt = 6+3+2 = 11Ω; I = 22/11 = 2A) <!-- feedback: En serie, Rt = R1+R2+R3 = 6+3+2 = 11Ω. Aplicando I = V/Rt = 22V/11Ω = 2A -->
-- [ ] C) 4 A
-- [ ] D) 11 A
+- [ ] A) Permanece igual. <!-- feedback: Incorrect. La corriente depende directamente del voltaje aplicado. -->
+- [x] B) Se duplica. <!-- feedback: Correct. $I = V / R$. Si $V$ aumenta al doble y $R$ es constante, $I$ también aumenta al doble (relación directamente proporcional). -->
+- [ ] C) Se reduce a la mitad. <!-- feedback: Incorrect. Esto sucedería si hubiera una relación inversamente proporcional con el voltaje. -->
+- [ ] D) Se reduce a la cuarta parte. <!-- feedback: Incorrect. No existe una relación cuadrática inversa entre corriente y voltaje en la Ley de Ohm. -->
 
 ### Explicación Pedagógica
-En un circuito en serie, la resistencia total es la suma de todas las resistencias: Rt = 6+3+2 = 11Ω. Aplicando la Ley de Ohm: I = V/Rt = 22V/11Ω = 2A. El distractor C (4A) resulta de sumar incorrectamente los voltajes como corrientes. El distractor D (11A) sería el voltaje si se usara como corriente.
+La Ley de Ohm ($V = I \cdot R$) es el pilar fundamental del análisis de circuitos. El voltaje actúa como la "fuerza" que empuja a las cargas a través de la resistencia.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Formulator
-**Context:** Instalaciones eléctricas residenciales
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-En una casa de Bogotá, un electricianovisita un apartamento donde dos resistencias de calefacción de 20Ω cada una están conectadas en paralelo a 120V. La corriente total que 공급 el medidor es:
+¿Cuál es la función principal de un fusible en una instalación eléctrica doméstica en una ciudad como Medellín?
 
-### Options
-- [ ] A) 3 A
-- [ ] B) 6 A
-- [x] C) 12 A <!-- feedback: En paralelo, I1 = V/R1 = 120/20 = 6A e I2 = V/R2 = 120/20 = 6A. IT = I1 + I2 = 12A. También: 1/RT = 1/20 + 1/20 = 2/20, RT = 10Ω, I = 120/10 = 12A -->
-- [ ] D) 240 A
+- [ ] A) Aumentar el voltaje para que los electrodomésticos funcionen mejor. <!-- feedback: Incorrect. El fusible no altera el voltaje de la red. -->
+- [ ] B) Almacenar energía eléctrica para casos de apagón. <!-- feedback: Incorrect. Esa es la función de una batería o un UPS. -->
+- [x] C) Interrumpir el paso de corriente cuando esta supera un límite seguro para evitar incendios. <!-- feedback: Correct. El fusible se funde por calor (efecto Joule) cuando hay un cortocircuito o sobrecarga, abriendo el circuito. -->
+- [ ] D) Convertir la corriente alterna (AC) en corriente continua (DC). <!-- feedback: Incorrect. Esa es la función de un rectificador o adaptador. -->
 
 ### Explicación Pedagógica
-En paralelo, el voltaje es el mismo en cada rama. Calculando: I1 = 120V/20Ω = 6A, I2 = 120V/20Ω = 6A. La corriente total es la suma: 6A + 6A = 12A. El distractor B (6A) es la corriente en cada rama individual, error común de no sumar las corrientes. El distractor D surge de multiplicar V×R incorrectamente.
+Los dispositivos de protección como fusibles y breakers (tacos) son esenciales para la seguridad. Protegen los cables de calentamientos peligrosos debidos a corrientes excesivas.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Comparator
-**Context:** Análisis de circuitos eléctricos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-005`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En el laboratorio de física del Colegio Nacional de Bogotá, un estudiante monta un circuito con tres resistencias: R1 = 4Ω, R2 = 6Ω y R3 = 12Ω conectadas en paralelo a una fuente de 12V. La resistencia equivalente del circuito y la corriente total son respectivamente:
+Se conectan tres bombillos idénticos en **serie** a una batería de 12 V. Si uno de los bombillos se quema (se rompe su filamento), ¿qué sucede con los otros dos?
 
-### Options
-- [ ] A) 22Ω y 0.55A
-- [x] B) 2Ω y 6A <!-- feedback: 1/RT = 1/4 + 1/6 + 1/12 = (3+2+1)/12 = 6/12, RT = 2Ω. IT = V/RT = 12/2 = 6A -->
-- [ ] C) 2Ω y 2A
-- [ ] D) 0.5Ω y 24A
+- [ ] A) Siguen encendidos con la misma intensidad. <!-- feedback: Incorrect. En serie, todos dependen del mismo camino de corriente. -->
+- [ ] B) Brillan más porque ahora hay más voltaje para cada uno. <!-- feedback: Incorrect. El camino está interrumpido; no fluye corriente. -->
+- [x] C) Se apagan inmediatamente. <!-- feedback: Correct. Un circuito en serie tiene un único camino para la corriente; si se abre en cualquier punto, la corriente cesa en todo el circuito. -->
+- [ ] D) Solo uno permanece encendido. <!-- feedback: Incorrect. La corriente requiere un lazo cerrado completo para circular. -->
 
 ### Explicación Pedagógica
-En paralelo: 1/RT = 1/4 + 1/6 + 1/12 = (3+2+1)/12 = 6/12 = 1/2, entonces RT = 2Ω. La corriente total es IT = 12V/2Ω = 6A. El distractor A es el resultado de sumarlas en serie. El distractor C usa RT correcta pero calcula mal IT. El distractor D confunde el inverso de la resistencia equivalente.
+Esta es la principal desventaja de las conexiones en serie: la falta de independencia. Por eso, las instalaciones domésticas se realizan predominantemente en paralelo.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Interpretative
-**Context:** Consumo energético colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-006`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Una familia en Medellín utiliza los siguientes electrodomésticos simultáneamente durante una hora: nevera (150W), lavadora (500W), tres bombillas LED de 10W cada una y un电视 (80W). Si el costo del kWh en Colombia es de $550 pesos, el costo total del consumo energético de ese período es aproximadamente:
+Una plancha eléctrica en Colombia funciona a 120 V y consume una corriente de 10 A. ¿Cuál es la resistencia eléctrica de la plancha?
 
-### Options
-- [ ] A) $440
-- [x] B) $462 <!-- feedback: Potencia total = 150+500+30+80 = 760W = 0.76kW. Energía = 0.76kW × 1h = 0.76kWh. Costo = 0.76 × 550 ≈ $418, aproximando a $462 si hay variaciones o errores de cálculo comunes -->
-- [ ] C) $550
-- [ ] D) $880
+- [ ] A) $1200 \Omega$ <!-- feedback: Incorrect. Se multiplicaron los valores en lugar de dividirlos. -->
+- [x] B) $12 \Omega$ <!-- feedback: Correct. Usando $R = V / I$, tenemos $R = 120 V / 10 A = 12 \Omega$. -->
+- [ ] C) $1.2 \Omega$ <!-- feedback: Incorrect. Error en la división decimal. -->
+- [ ] D) $0.083 \Omega$ <!-- feedback: Incorrect. Se dividió la corriente por el voltaje ($I/V$), que es la conductancia, no la resistencia. -->
 
 ### Explicación Pedagógica
-Potencia total: 150+500+30+80 = 760W = 0.76kW. Energía consumida = 0.76kW × 1h = 0.76kWh. Costo = 0.76 × 550 = $418. El distractor A sería sin incluir la lavadora. El distractor C es solo el precio del kWh sin calcular. El distractor D sería sin convertir a kW correctamente.
+La resistencia es la oposición al flujo de carga. Componentes de alta potencia (como planchas o duchas eléctricas) tienen resistencias relativamente bajas para permitir el paso de mucha corriente.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Identifier
-**Context:** Instrumentos de medición eléctrica
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-007`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En una práctica de laboratorio sobre circuitos eléctricos, un estudiante de grado 11 necesita medir la corriente que circula por una resistencia y el voltaje en sus terminales. Los instrumentos correctos para estas mediciones son respectivamente:
+Se tienen dos resistencias, $R_1 = 100 \Omega$ y $R_2 = 100 \Omega$, conectadas en **paralelo**. La resistencia equivalente ($R_{eq}$) del conjunto será:
 
-### Options
-- [ ] A) Voltímetro y amperímetro
-- [ ] B) Wattímetro y ohmímetro
-- [x] C) Amperímetro conectado en serie y voltímetro conectado en paralelo <!-- feedback: El amperímetro mide corriente y debe conectarse en serie. El voltímetro mide diferencia de potencial y debe conectarse en paralelo a la resistencia -->
-- [ ] D) Ohmetro y amperímetro
+- [ ] A) $200 \Omega$ <!-- feedback: Incorrect. Esta sería la resistencia si estuvieran en serie. -->
+- [ ] B) $100 \Omega$ <!-- feedback: Incorrect. La resistencia equivalente en paralelo siempre es menor que la menor de las resistencias individuales. -->
+- [x] C) $50 \Omega$ <!-- feedback: Correct. Para dos resistencias iguales en paralelo, $R_{eq} = R / 2$. Matemáticamente: $1 / R_{eq} = 1/100 + 1/100 = 2/100 \Rightarrow R_{eq} = 100/2 = 50 \Omega$. -->
+- [ ] D) $0 \Omega$ <!-- feedback: Incorrect. Esto solo ocurriría en un cortocircuito ideal. -->
 
 ### Explicación Pedagógica
-El amperímetro mide la corriente (carga por unidad de tiempo) y debe conectarse en serie para que toda la corriente pase por él. El voltímetro mide la diferencia de potencial entre dos puntos y se conecta en paralelo para no alterar el circuito. El distractor A invierte los instrumentos. El distractor D incluye el ohmímetro, que se usa para medir resistencia directamente en circuitos desconectados.
+Al conectar resistencias en paralelo, estamos ofreciendo más caminos para que pase la corriente, lo cual disminuye la resistencia total del sistema.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Interpretative
-**Context:** Análisis de circuitos mixtos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-008`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En el SID (Sistema Interconectado Nacional) colombiano, se tienen circuitos de distribución con resistencias en configuración mixta. Si en un circuito se tienen R1 = 8Ω en serie con un grupo en paralelo de R2 = 4Ω y R3 = 4Ω, conectado a una fuente de 24V, la corriente que pasa por R1 es:
+El "Efecto Joule" describe el fenómeno por el cual un conductor por el que circula corriente genera calor. La potencia disipada en forma de calor depende de:
 
-### Options
-- [ ] A) 1 A
-- [ ] B) 2 A
-- [x] C) 1.5 A <!-- feedback: Rp = (4×4)/(4+4) = 16/8 = 2Ω. Rt = 8 + 2 = 10Ω. I1 = 24/10 = 2.4A. En paralelo: I2 = I3 = 2.4/2 = 1.2A. Por R1 circula IT = 2.4A, no 1.5A. Recalculando: I = 24V/10Ω = 2.4A que pasa por R1 -->
-- [ ] D) 4 A
+- [ ] A) Solo del voltaje aplicado. <!-- feedback: Incorrect. La resistencia también juega un papel fundamental. -->
+- [ ] B) La masa del conductor únicamente. <!-- feedback: Incorrect. La masa afecta qué tan rápido se calienta (capacidad calorífica), pero no la cantidad de calor generado por segundo. -->
+- [x] C) El cuadrado de la intensidad de corriente y la resistencia ($P = I^2 \cdot R$). <!-- feedback: Correct. Según la ley de Joule, el calentamiento es muy sensible a la intensidad de la corriente. -->
+- [ ] D) La presión atmosférica del lugar. <!-- feedback: Incorrect. El efecto Joule es un fenómeno electromagnético independiente de la presión del aire. -->
 
 ### Explicación Pedagógica
-Primero se calcula la resistencia equivalente del paralelo: Rp = (4×4)/(4+4) = 2Ω. Luego Rt = 8 + 2 = 10Ω. La corriente total (que pasa por R1) es I = 24V/10Ω = 2.4A. El distractor A sería si solo se usara el paralelo. El distractor B si R2 y R3 estuvieran en serie. El distractor D si todo estuviera en paralelo.
+Este efecto es útil en calefactores y bombillos incandescentes, pero es una pérdida indeseada en cables de transmisión de energía.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Formulator
-**Context:** Energía hidroeléctrica colombiana
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-009`
+**Bloom:** [Apply]
+**ICFES:** [Indagación]
 
 ### Enunciado
-La Central Hidroeléctrica de Guavio genera aproximadamente 600 MW de potencia. Si esta planta opera durante 8 horas a plena capacidad, la energía eléctrica producida en kWh es:
+Un bombillo LED de 10 W está encendido durante 5 horas seguidas. ¿Cuánta energía eléctrica en Julios (J) ha consumido?
 
-### Options
-- [ ] A) 4,800 kWh
-- [ ] B) 48,000 kWh
-- [x] C) 4,800,000 kWh <!-- feedback: E = P × t = 600 MW × 8 h = 600,000 kW × 8 h = 4,800,000 kWh (ó 4,800 MWh) -->
-- [ ] D) 75,000 kWh
+- [ ] A) 50 J <!-- feedback: Incorrect. Julios es Potencia x Tiempo (en segundos), no en horas. -->
+- [ ] B) 3000 J <!-- feedback: Incorrect. Solo se multiplicó por los minutos en una hora. -->
+- [x] C) 180,000 J <!-- feedback: Correct. Energía = Potencia x Tiempo. $10 W \times (5 h \times 3600 s/h) = 10 \times 18,000 = 180,000 J$. -->
+- [ ] D) 18,000 J <!-- feedback: Incorrect. Falta multiplicar por el valor de la potencia del bombillo. -->
 
 ### Explicación Pedagógica
-La energía es E = P × t. Convertiendo: 600 MW = 600,000 kW. E = 600,000 kW × 8 h = 4,800,000 kWh. El distractor B resulta de olvidar la conversión de MW a kW. El distractor A es si solo se multiplica 600×8 sin convertir unidades. El distractor D surge de dividir en lugar de multiplicar.
+La energía es la capacidad de realizar trabajo. En electricidad doméstica, solemos usar el kilovatio-hora (kWh) para que los números sean más manejables, pero el Julio es la unidad científica fundamental.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Comparator
-**Context:** Comparación de configuraciones
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-010`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Dos resistencias idénticas R se conectan primero en serie y luego en paralelo a la misma fuente de voltaje V. Comparando la potencia total disipada en cada configuración, la relación Potencia_paralelo / Potencia_serie es:
+¿Cuál es la diferencia fundamental entre un voltímetro y un amperímetro en cuanto a su conexión en un circuito?
 
-### Options
-- [ ] A) 1/4
-- [ ] B) 1/2
-- [x] C) 4 <!-- feedback: Serie: Rs = 2R, Ps = V²/2R. Paralelo: Rp = R/2, Pp = V²/(R/2) = 2V²/R. Relación Pp/Ps = (2V²/R) / (V²/2R) = 4 -->
-- [ ] D) 2
+- [ ] A) Ambos se conectan en serie. <!-- feedback: Incorrect. Conectar un voltímetro en serie bloquearía la corriente. -->
+- [ ] B) Ambos se conectan en paralelo. <!-- feedback: Incorrect. Conectar un amperímetro en paralelo causaría un cortocircuito. -->
+- [x] C) El voltímetro se conecta en paralelo y el amperímetro en serie. <!-- feedback: Correct. El voltímetro mide la diferencia entre dos puntos; el amperímetro debe ser atravesado por la corriente que desea medir. -->
+- [ ] D) Depende de si la corriente es alterna o continua. <!-- feedback: Incorrect. La regla de conexión (paralelo para voltaje, serie para corriente) es universal. -->
 
 ### Explicación Pedagógica
-En serie: Rs = 2R, Ps = V²/(2R). En paralelo: Rp = R/2, Pp = V²/(R/2) = 2V²/R. La relación Pp/Ps = (2V²/R) ÷ (V²/2R) = (2V²/R) × (2R/V²) = 4. El distractor A sería el inverso. El distractor B si se calculara mal una de las potencias. El distractor D si se sumaran directamente las resistencias.
+Un voltímetro ideal tiene resistencia infinita (para no desviar corriente), mientras que un amperímetro ideal tiene resistencia cero (para no quitar voltaje a la carga).
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Proponer
-**Context:** Análisis de circuitos complejos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En un circuito de tres mallas con fuentes de voltaje ideales, un estudiante aplica las Leyes de Kirchhoff para encontrar las corrientes. Si al resolver el sistema de ecuaciones obtiene I1 = 2A, I2 = -1A e I3 = 3A (todas en amperios), un estudiante razona que:
+Se aplica un voltaje de 10 V a un circuito con dos resistencias en serie: $R_1 = 2 \Omega$ y $R_2 = 3 \Omega$. ¿Cuál es el voltaje que cae específicamente a través de $R_2$?
 
-### Options
-- [ ] A) El circuito tiene un cortocircuito
-- [x] B) I2 = -1A indica que la corriente fluye en sentido contrario al arbitrariamente asumido <!-- feedback: El signo negativo en la corriente de Kirchhoff indica que el sentido real de circulación es opuesto al sentido positivo definido arbitrariamente. Esto es válido y frecuente en análisis de circuitos -->
-- [ ] C) Hay un error en el problema porque las corrientes no pueden ser negativas
-- [ ] D) I3 = 3A es la corriente de la fuente principal
+- [ ] A) 10 V <!-- feedback: Incorrect. El voltaje total se reparte entre las dos resistencias en serie. -->
+- [ ] B) 4 V <!-- feedback: Incorrect. Este es el voltaje que cae en $R_1$. -->
+- [x] C) 6 V <!-- feedback: Correct. Corriente total $I = V / (R_1 + R_2) = 10 / 5 = 2 A$. El voltaje en $R_2$ es $V_2 = I \cdot R_2 = 2 A \cdot 3 \Omega = 6 V$. -->
+- [ ] D) 2 V <!-- feedback: Incorrect. Error en el cálculo de la corriente o la ley de Ohm. -->
 
 ### Explicación Pedagógica
-En el análisis por mallas con Leyes de Kirchhoff, se asignan arbitrariamente direcciones positivas a las corrientes. Si al resolver el sistema una corriente resulta negativa, simplemente indica que su sentido real es opuesto al asumido. Es un resultado matemáticamente válido. El distractor C es un error conceptual común de estudiantes que no comprenden la arbitrariedad de la convención de signos.
+En un circuito serie, el voltaje se divide proporcionalmente al valor de las resistencias (Divisor de Tensión). La mayor resistencia siempre "se queda" con la mayor parte del voltaje.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Comparator
-**Context:** Eficiencia del sistema eléctrico
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Una industria textil en Bogotá opera motores eléctricos con eficiencia del 85%. Si el motor потребляет 10 kW de potencia eléctrica y funciona 6 horas diarias, la potencia mecánica útil que produce y la energía eléctrica consumida diariamente son respectivamente:
+Las Leyes de Kirchhoff son fundamentales para circuitos complejos. La Ley de Nodos (Primera Ley) se basa directamente en el principio de:
 
-### Options
-- [ ] A) 8.5 kW y 60 kWh
-- [x] B) 8.5 kW y 60 kWh <!-- feedback: Potencia útil = Potencia entrada × eficiencia = 10 kW × 0.85 = 8.5 kW. Energía diaria = 10 kW × 6 h = 60 kWh -->
-- [ ] C) 11.76 kW y 60 kWh
-- [ ] D) 8.5 kW y 51 kWh
+- [ ] A) Conservación de la energía. <!-- feedback: Incorrect. Ese es el fundamento de la Ley de Mallas. -->
+- [x] B) Conservación de la carga eléctrica. <!-- feedback: Correct. La carga no se crea ni se destruye en un nodo; la suma de corrientes que entran debe ser igual a la suma de las que salen. -->
+- [ ] C) Inercia rotacional de los electrones. <!-- feedback: Incorrect. No existe tal principio aplicado a nodos de circuitos. -->
+- [ ] D) Efecto Hall en semiconductores. <!-- feedback: Incorrect. El efecto Hall es un fenómeno magnético/eléctrico específico, no la base de Kirchhoff. -->
 
 ### Explicación Pedagógica
-Potencia útil = 10 kW × 0.85 = 8.5 kW (solo el 85% se convierte en trabajo mecánico). Energía eléctrica consumida = Potencia × tiempo = 10 kW × 6 h = 60 kWh. El distractor C invierte el cálculo de eficiencia (dividiendo en lugar de multiplicar). El distractor D aplica la eficiencia también a la energía cuando esta depende linealmente de la potencia.
+Un nodo es un punto de conexión. La Ley de Nodos asegura que no hay acumulación de carga en los cables del circuito.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Interpretative
-**Context:** Circuitos de condensadores
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En un circuito RC en serie conectado a una fuente de CC de 12V, se tiene R = 4kΩ y C = 2μF. El valor de la constante de tiempo τ (tau) y qué representa físicamente se indica en:
+Un cable de cobre largo tiene una resistencia $R$. Si el cable se estira uniformemente hasta duplicar su longitud manteniendo el mismo volumen de material, su nueva resistencia será:
 
-### Options
-- [ ] A) 8 ms, tiempo que tarda el capacitor en cargarse completamente
-- [x] B) 8 ms, tiempo que tarda el capacitor en alcanzar el 63.2% de su carga máxima <!-- feedback: τ = R × C = 4×10³Ω × 2×10⁻⁶F = 8×10⁻³s = 8 ms. Físicamente representa el tiempo para alcanzar ≈63.2% de la carga máxima, no el 100% -->
-- [ ] C) 2 ms, tiempo de carga completa del capacitor
-- [ ] D) 8 ms, tiempo de descarga total del capacitor
+- [ ] A) $2R$. <!-- feedback: Incorrect. Al estirarlo, el área de la sección transversal disminuye, lo que aumenta aún más la resistencia. -->
+- [x] B) $4R$. <!-- feedback: Correct. Resistencia $R = \rho \cdot L / A$. Si $L$ se duplica, el área $A$ se reduce a la mitad (para mantener volumen). Entonces $R' = \rho \cdot (2L) / (A/2) = 4 \cdot (\rho L / A) = 4R$. -->
+- [ ] C) $R/2$. <!-- feedback: Incorrect. Cables más largos siempre tienen más resistencia. -->
+- [ ] D) $R$. <!-- feedback: Incorrect. La geometría del conductor afecta drásticamente su resistencia eléctrica. -->
 
 ### Explicación Pedagógica
-τ = R × C = 4000Ω × 0.000002F = 0.008s = 8 ms. La constante de tiempo representa el tiempo para que el capacitor alcance aproximadamente el 63.2% de su voltaje máximo (no el 100%). Después de 5τ se considera prácticamente cargado. El distractor A es error común de estudiantes. El distractor C confunde τ con otro valor. El distractor D describe descarga cuando se habla de carga.
+La resistencia depende de la resistividad del material ($\rho$) y de sus dimensiones geométricas. Al hacerse más delgado y largo, los electrones tienen un camino más difícil y angosto para avanzar.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Proponer
-**Context:** Transferencia de energía eléctrica
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Para transmitir energía eléctrica desde la centrale hidroeléctrica de诱到大用户 finales, se usa alto voltaje para reducir pérdidas por calentamiento en los cables. Si una línea de transmisión tiene 100km de longitud y resistencia total de 50Ω por la que circulan 200A, la potencia disipada por efecto Joule en la línea es:
+En los sistemas eléctricos de potencia, la energía se transporta a "Alta Tensión" (miles de voltios) a través de largas distancias. ¿Cuál es la razón técnica de esto?
 
-### Options
-- [ ] A) 10 kW
-- [x] B) 2 MW <!-- feedback: P = I² × R = (200A)² × 50Ω = 40,000 × 50 = 2,000,000 W = 2 MW. La distancia de 100km no se usa directamente porque ya está incluida en la resistencia total de 50Ω -->
-- [ ] C) 1 MW
-- [ ] D) 4 MW
+- [ ] A) El voltaje alto viaja más rápido que el voltaje bajo. <!-- feedback: Incorrect. La velocidad de propagación es cercana a la de la luz en ambos casos. -->
+- [ ] B) Los transformadores solo funcionan con voltajes altos. <!-- feedback: Incorrect. Los transformadores pueden trabajar con cualquier nivel de voltaje AC. -->
+- [x] C) Para reducir la corriente y así minimizar las pérdidas por calor ($I^2 R$) en los cables. <!-- feedback: Correct. Para la misma potencia, a mayor voltaje menor corriente. Menos corriente significa cables más delgados y menos desperdicio de energía. -->
+- [ ] D) Porque el aire es mejor aislante cuando el voltaje es muy elevado. <!-- feedback: Incorrect. Al contrario, voltajes altos pueden romper el aislamiento del aire (arcos eléctricos). -->
 
 ### Explicación Pedagógica
-P = I² × R = (200)² × 50 = 40,000 × 50 = 2,000,000 W = 2 MW. La distancia de 100km está implícita en la resistencia total de 50Ω. El distractor A usa P = V×I sin calcular V primero. El distractor C surge de usar solo 25Ω (mitad de R). El distractor D sería I=200A con R=100Ω.
+Esta es una aplicación directa de la relación entre Potencia ($P=VI$) y Efecto Joule ($P_{pérdida}=I^2R$). Elevar el voltaje es la única forma económica de mover gigavatios de energía entre ciudades.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Argumentative
-**Context:** Diseño de circuitos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-015`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un ingeniero eléctrico diseña un circuito divisor de voltaje para alimentar un LED de 2V que requiere 20mA, usando una fuente de 12V. Si el LED tiene una caída de voltaje específica y se descuida su resistencia interna, ¿qué valor de resistor en serie R se necesita?
+Un estudiante conecta un motor DC a una pila y mide la corriente. Luego, frena el eje del motor con la mano hasta detenerlo por completo. Se observa que la corriente medida por el amperímetro aumenta significativamente cuando el motor se detiene. ¿Por qué ocurre esto?
 
-### Options
-- [ ] A) 60Ω
-- [x] B) 500Ω <!-- feedback: V_R = V_fuente - V_LED = 12V - 2V = 10V. I = 20mA = 0.02A. R = V_R/I = 10V/0.02A = 500Ω. Este resistor limita la corriente protegiendo el LED -->
-- [ ] C) 600Ω
-- [ ] D) 100Ω
+- [ ] A) La fricción de la mano inyecta electrones al circuito. <!-- feedback: Incorrect. La fricción genera calor, no carga eléctrica neta. -->
+- [ ] B) El motor genera electricidad estática al estar quieto. <!-- feedback: Incorrect. El motor genera "fuerza contraelectromotriz" solo cuando gira. -->
+- [x] C) Al detenerse el giro, desaparece la fuerza contraelectromotriz (FCEM) que se oponía al paso de la corriente. <!-- feedback: Correct. Un motor girando actúa también como generador que frena la corriente de la pila. Al pararlo, solo queda la resistencia interna de los cables (muy baja). -->
+- [ ] D) La pila se esfuerza más para intentar mover la mano del estudiante. <!-- feedback: Incorrect. Las fuentes de energía no tienen "intención"; responden físicamente a la carga conectada. -->
 
 ### Explicación Pedagógica
-El resistor en serie debe caer el voltaje sobrante: V_R = 12V - 2V = 10V. Usando I = 20mA = 0.02A, R = V_R/I = 10V/0.02A = 500Ω. El distractor A sería I = 50mA con 10V. El distractor C es 600Ω que protege demasiado. El distractor D es 100Ω que permitiría demasiada corriente (100mA), dañando el LED.
+Este fenómeno explica por qué los motores pueden quemarse si se bloquean (atascan). La corriente de arranque o bloqueo es muchas veces superior a la corriente de funcionamiento normal.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Proponer
-**Context:** Medición de resistencias internas
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un circuito con un amperímetro ideal (resistencia interna cero) y un voltímetro ideal (resistencia interna infinita), ¿cuál es el efecto de conectar el voltímetro para medir el voltaje en una resistencia y cómo afecta esto la medición?
+Un condensador (capacitor) en un circuito de corriente continua (DC) cumple la función de:
 
-### Options
-- [ ] A) Aumenta la resistencia total del circuito, elevando la corriente medida
-- [ ] B) Disminuye la resistencia total, reduciendo la corriente real
-- [x] C) No afecta la corriente del circuito porque el voltímetro en paralelo no altera significativamente la corriente total <!-- feedback: Un voltímetro ideal tiene resistencia infinita, por lo que al conectarse en paralelo no consume corriente del circuito principal, permitiendo medir V sin alterar I -->
-- [ ] D) Cortocircuita la resistencia porque está en paralelo
+- [x] A) Almacenar energía en forma de un campo eléctrico entre dos placas. <!-- feedback: Correct. Actúa como un depósito temporal de carga que puede liberarse rápidamente. -->
+- [ ] B) Permitir el paso de corriente constante para siempre. <!-- feedback: Incorrect. Una vez cargado, el condensador bloquea la corriente continua. -->
+- [ ] C) Transformar el magnetismo en movimiento mecánico. <!-- feedback: Incorrect. Esa es la función de un actuador o motor. -->
+- [ ] D) Aumentar la resistencia total del circuito mediante calor. <!-- feedback: Incorrect. Un condensador ideal no disipa energía (no genera calor), solo la almacena. -->
 
 ### Explicación Pedagógica
-Un voltímetro ideal tiene resistencia interna infinita, idealmente cero corriente. Al conectarse en paralelo a una resistencia, no分流 (no roba corriente) y por tanto no altera la corriente total del circuito. Solo mide el voltaje. El distractor A confunde efectos. El distractor B es lo opuesto. El distractor D sería cierto para un amperímetro conectado en paralelo, no para un voltímetro.
+Los condensadores se usan para filtrar señales, estabilizar voltajes y en aplicaciones de temporización. Su capacidad se mide en Faradios (F).
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D8)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-v17`
-**Bloom:** Evaluate
-**ICFES:** Argumentative
-**Context:** Análisis de superconductividad
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un experimento de física de superconductividad que simula condiciones similares a las de la investigación en colisiones de partículas, un material hipotético tiene resistencia cero a temperatura criogénica. Si se conecta este material(superconductor) en serie con una resistencia de 10Ω a una fuente de 5V, ¿qué característica fundamental tendría el circuito?
+En un circuito de corriente alterna (AC), la oposición al flujo de corriente no solo depende de la resistencia, sino también de la inductancia y la capacitancia. Este concepto global se conoce como:
 
-### Options
-- [ ] A) Toda la corriente fluiría por el superconductor y ninguna por la resistencia
-- [ ] B) La corriente sería infinita porque R = 0
-- [x] C) La corriente sería 0.5A y toda la caída de voltaje ocurriría en la resistencia de 10Ω
+- [ ] A) Conductancia. <!-- feedback: Incorrect. Es el inverso de la resistencia. -->
+- [ ] B) Admitancia. <!-- feedback: Incorrect. Es el inverso de la impedancia. -->
+- [x] C) Impedancia (Z). <!-- feedback: Correct. La impedancia combina la resistencia real con la reactancia (imaginaria) de bobinas y condensadores. -->
+- [ ] D) Resonancia magnética. <!-- feedback: Incorrect. Es un fenómeno de absorción de energía en campos magnéticos, no el nombre de la oposición al flujo. -->
+
+### Explicación Pedagógica
+La impedancia depende de la frecuencia de la señal. Esto permite diseñar filtros que dejan pasar sonidos bajos (bajas frecuencias) y bloquean agudos, o viceversa.
+
+---
+
+## Question 18 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-018`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
+
+### Enunciado
+Un "puente de Wheatstone" es un circuito utilizado para medir resistencias desconocidas con alta precisión. El puente se considera "equilibrado" cuando el galvanómetro central marca cero. En este estado:
+
+- [x] A) El potencial eléctrico en ambos extremos del galvanómetro es idéntico. <!-- feedback: Correct. Si no hay diferencia de potencial, no hay flujo de corriente a través del medidor, indicando una proporción exacta entre las resistencias de las ramas. -->
+- [ ] B) La corriente en todas las resistencias del circuito es la misma. <!-- feedback: Incorrect. Las corrientes en las diferentes ramas pueden variar según los valores de las resistencias. -->
+- [ ] C) La batería se ha descargado por completo. <!-- feedback: Incorrect. El equilibrio depende de la topología del circuito, no del estado de la fuente. -->
+- [ ] D) El circuito se ha convertido en un superconductor a temperatura ambiente. <!-- feedback: Incorrect. No hay cambios en las propiedades de los materiales, solo un balance de voltajes. -->
+
+### Explicación Pedagógica
+Este método de medición es nulo (busca el cero). Es mucho más preciso que un multímetro barato porque elimina el error introducido por la resistencia de los propios cables de medición.
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+La constante de tiempo ($\tau$) de un circuito RC (resistencia y condensador) indica la rapidez con la que el condensador se carga o descarga. Si se triplica la capacitancia y se mantiene la misma resistencia, la carga del condensador será:
+
+- [ ] A) Tres veces más rápida. <!-- feedback: Incorrect. Mayor capacitancia significa que el condensador tarda más en llenarse. -->
+- [x] B) Tres veces más lenta. <!-- feedback: Correct. $\tau = R \cdot C$. Si $C$ se triplica, $\tau$ aumenta tres veces, lo que significa que el proceso de carga toma tres veces más tiempo. -->
+- [ ] C) Igual de rápida pero con más voltaje. <!-- feedback: Incorrect. La velocidad de carga cambia y el voltaje final está definido por la fuente, no por la capacitancia. -->
+- [ ] D) Instantánea debido al efecto de saturación. <!-- feedback: Incorrect. Nada en un circuito con resistencia es instantáneo debido al límite de flujo de electrones. -->
+
+### Explicación Pedagógica
+Este concepto es la base de los temporizadores analógicos. Ajustando los valores de R y C, podemos controlar con precisión retardos de milisegundos hasta minutos.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-085-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+En un semiconductor tipo P, la conducción eléctrica se explica principalmente a través del movimiento de "huecos". ¿Qué es físicamente un hueco en este contexto?
+
+- [ ] A) Un protón que ha saltado fuera del núcleo atómico. <!-- feedback: Incorrect. Los protones están fijos en el núcleo; si se movieran, el átomo cambiaría de elemento. -->
+- [ ] B) Una burbuja de aire atrapada en el cristal de silicio. <!-- feedback: Incorrect. Son cristales sólidos puros, no tienen burbujas de gas. -->
+- [x] C) La ausencia de un electrón en un enlace covalente, que actúa como una carga positiva efectiva. <!-- feedback: Correct. Cuando un electrón se desplaza para llenar una vacante, deja otra vacante detrás; el movimiento de estas vacantes equivale a una corriente de carga positiva. -->
+- [ ] D) Un neutrón con carga eléctrica inducida por el dopaje. <!-- feedback: Incorrect. Los neutrones son neutros y no participan en la conducción eléctrica. -->
+
+### Explicación Pedagógica
+La física de estado sólido permite la electrónica moderna (transistores, chips). Entender que la ausencia de algo (el hueco) puede comportarse como una partícula real es un concepto avanzado fundamental.

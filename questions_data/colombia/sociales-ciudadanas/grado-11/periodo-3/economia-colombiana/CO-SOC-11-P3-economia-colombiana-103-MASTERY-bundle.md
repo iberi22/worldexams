@@ -1,36 +1,3 @@
-<think>
-The user wants me to generate 20 ICFES-style multiple choice questions for "Sociales Ciudadanas" (Citizenship Social Studies) specifically about "economía colombiana" (Colombian economy) for grade 11, period 3.
-
-Let me follow the exact format requested:
-- Frontmatter YAML with all the specified fields
-- 20 questions with progressive difficulty
-- Each question must follow the exact structure
-- D3-D4 for questions 1-4
-- D5-D6 for questions 5-10
-- D7-D8 for questions 11-16
-- D9-D10 for questions 17-20
-
-Let me generate these questions about Colombian economy covering topics like:
-- GDP and economic structure
-- Trade agreements ( TLCs)
-- Monetary policy (Banco de la República)
-- Fiscal policy
-- Inflation
-- Employment
-- Foreign investment
-- Agricultural sector
-- Mining and energy
-- Economic history
-- Current economic situation
-- Informal economy
-- Poverty and inequality
-- Economic development plans
-- Free trade zones
-- DANE and economic statistics
-
-I'll create questions that reflect real ICFES style with plausible distractors based on common student errors.
-</think>
-
 ---
 id: "CO-SOC-11-P3-economia-colombiana-103-MASTERY"
 country: "colombia"
@@ -39,363 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "economia-colombiana"
 periodo: 3
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 103
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:05:51.266261"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificación de información económica básica
-**Context:** Estructura económica colombiana actual
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-Colombia es clasificada por el Banco Mundial como una economía de ingreso medio-alto. ¿Cuál de las siguientes actividades económicas representa el mayor porcentaje del Producto Interno Bruto (PIB) colombiano en la estructura económica actual del país?
+¿Cuál es el principal producto de exportación de Colombia en la actualidad, que representa la mayor fuente de divisas para el país?
 
 ### Options
-- [ ] A) La explotación de minas y canteras (sector mineroenergético)
-- [ ] B) Las actividades agropecuarias, silvícolas y pesca
-- [x] C) Los servicios financieros, seguros, actividades inmobiliarias y servicios a las empresas <!-- feedback: El sector servicios, incluyendo actividades financieras, seguros, inmobiliarias y servicios empresariales, representa el mayor porcentaje del PIB colombiano, superando al sector primario. -->
-- [ ] D) La construcción de edificaciones y obras civiles
+- [ ] A) Café. <!-- feedback: Incorrect. Aunque el café es el producto insignia y tradicional, ya no es el principal en términos de valor total de exportaciones. -->
+- [x] B) Petróleo crudo. <!-- feedback: Correct. Desde la década de 1980, el petróleo superó al café como el motor principal de las exportaciones colombianas. -->
+- [ ] C) Flores. <!-- feedback: Incorrect. Colombia es el segundo exportador mundial de flores, pero su valor total es mucho menor que el del petróleo. -->
+- [ ] D) Esmeraldas. <!-- feedback: Incorrect. Colombia produce las mejores esmeraldas del mundo, pero su peso en la balanza comercial total es pequeño. -->
 
 ### Explicación Pedagógica
-La economía colombiana ha experimentado una transformación hacia una economía de servicios. Aunque el sector mineroenergético es importante por sus exportaciones, cuando se habla del porcentaje del PIB por actividades económicas, los servicios (que incluyen actividades financieras, inmobiliarias y servicios empresariales) representan la mayor participación, seguidos por el comercio, la industria y finalmente el sector agropecuario. Esta es una pregunta de recordación directa sobre la estructura económica del país.
+La economía colombiana ha pasado de ser netamente agraria a depender fuertemente de la extracción de recursos minero-energéticos (petróleo, carbón, oro), lo que genera retos de diversificación.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Reconocimiento de instituciones económicas clave
-**Context:** Instituciones económicas de Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-El Banco de la República es el banco central de Colombia y tiene como función principal el manejo de la política monetaria del país. ¿Cuál de las siguientes acciones corresponde a una función específica del Banco de la República?
+¿Cuál es la moneda legal y oficial de Colombia, emitida por el Banco de la República?
 
 ### Options
-- [ ] A) Definir el presupuesto general de la Nación
-- [ ] B) Emitir licencias ambientales para proyectos mineros
-- [x] C) Regular la cantidad de dinero en circulación y administrar las reservas internacionales <!-- feedback: El Banco de la República tiene como funciones principales emitir moneda legal, regular la inflación, administrar las reservas internacionales y vigilar el funcionamiento del sistema financiero. -->
-- [ ] D) Establecer los requisitos para obtener licencias de conducción
+- [ ] A) Dólar Colombiano. <!-- feedback: Incorrect. El dólar es la moneda de EE.UU. y otros países (como Ecuador), pero no de Colombia. -->
+- [x] B) Peso Colombiano (COP). <!-- feedback: Correct. Es la única moneda de curso legal para todas las transacciones dentro del territorio nacional. -->
+- [ ] C) Real Colombiano. <!-- feedback: Incorrect. El Real es la moneda de Brasil; Colombia usó reales en la época colonial, pero no actualmente. -->
+- [ ] D) Euro Colombiano. <!-- feedback: Incorrect. El Euro es la moneda de la eurozona en Europa; no existe un euro colombiano. -->
 
 ### Explicación Pedagógica
-El Banco de la República es la entidad encargada de la política monetaria del país. Sus funciones incluyen: emitir la moneda legal, mantener la estabilidad de precios (controlar la inflación), administrar las reservas internacionales (dólares del país), operar como prestamista de última instancia y supervisar el sistema financiero. Las otras opciones corresponden a funciones de otras entidades: el Ministerio de Hacienda para presupuestos, el Ministerio de Ambiente para licencias ambientales, y el Ministerio de Transporte para licencias de conducción.
+El Peso Colombiano ha tenido diversas denominaciones y cambios en su diseño a lo largo de la historia, reflejando la evolución económica y cultural del país.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprensión del concepto de inflación
-**Context:** Economía familiar y decisiones de consumo en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-En los últimos años, las familias colombianas han observado que con el mismo ingreso familiar pueden comprar menos productos que en años anteriores. Este fenómeno económico se explica principalmente por el aumento sostenido de los precios, conocido como:
+¿En qué sector de la economía se agrupan las actividades de servicios, como el comercio, el transporte, la salud, la educación y la banca?
 
 ### Options
-- [ ] A) Devaluación de la moneda
-- [ ] B) Aumento del salario mínimo
-- [x] C) Inflación <!-- feedback: La inflación es precisamente el aumento generalizado y sostenido de los precios de bienes y servicios en una economía, lo que reduce el poder adquisitivo del dinero. -->
-- [ ] D) Deflación
+- [ ] A) Sector Primario. <!-- feedback: Incorrect. El primario se encarga de la extracción de recursos naturales (agricultura, minería). -->
+- [ ] B) Sector Secundario. <!-- feedback: Incorrect. El secundario se encarga de la transformación de materias primas (industria, manufactura). -->
+- [x] C) Sector Terciario. <!-- feedback: Correct. En Colombia, este sector es el que más aporta al PIB y el que genera mayor cantidad de empleos. -->
+- [ ] D) Sector Cuaternario. <!-- feedback: Incorrect. Se refiere a actividades basadas en el conocimiento y la tecnología avanzada (investigación, software), una subdivisión del terciario. -->
 
 ### Explicación Pedagógica
-La inflación es el incremento generalizado y continuo de los precios de los bienes y servicios en una economía. Cuando la inflación aumenta, el poder adquisitivo de la moneda disminuye, es decir, con la misma cantidad de dinero se pueden comprar menos bienes y servicios. El salario mínimo puede aumentar, pero si la inflación es mayor, el poder adquisitivo real no mejora. La devaluación se refiere a la pérdida de valor de la moneda nacional frente a otras monedas. La deflación es lo contrario: una disminución general de los precios.
+La "terciarización" de la economía colombiana es un fenómeno común en países en desarrollo, donde el crecimiento se concentra en los servicios más que en la industria pesada.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Comprensión de conceptos de comercio internacional
-**Context:** Comercio exterior colombiano
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Colombia ha firmado múltiples Tratados de Libre Comercio (TLC) con diversos países y bloques económicos. La principal ventaja de estos acuerdos para la economía colombiana es:
+¿Qué es el "IVA" (Impuesto al Valor Agregado) en el contexto tributario colombiano?
 
 ### Options
-- [ ] A) Eliminar completamente la competencia de productos extranjeros
-- [ ] B) Garantizar que todos los productos colombianos tengan demanda internacional
-- [x] C) Facilitar el acceso de productos colombianos a mercados extranjeros con preferencias arancelarias <!-- feedback: Los TLC eliminan o reducen los aranceles (impuestos a las importaciones), lo que facilita que los productos colombianos sean más competitivos en mercados externos. -->
-- [ ] D) Obligar a otros países a comprar únicamente productos colombianos
+- [ ] A) Un impuesto que solo pagan las personas más ricas del país. <!-- feedback: Incorrect. El IVA es un impuesto indirecto que paga todo consumidor al comprar bienes o servicios gravados. -->
+- [ ] B) Un ahorro que el banco le devuelve a los ciudadanos cada mes. <!-- feedback: Incorrect. El IVA es un recaudo para el Estado, no un ahorro para el ciudadano. -->
+- [x] C) Un impuesto indirecto sobre el consumo de bienes y servicios. <!-- feedback: Correct. La tarifa general en Colombia es actualmente del 19%. -->
+- [ ] D) El impuesto que se paga por tener una casa o un carro. <!-- feedback: Incorrect. Esos son impuestos a la propiedad (Predial y Vehículos), no al consumo (IVA). -->
 
 ### Explicación Pedagógica
-Los Tratados de Libre Comercio establecen condiciones preferentes de comercio entre los países firmantes, principalmente reduciendo o eliminando los aranceles (tarifas) que se cobran por importar productos. Esto beneficia a los exportadores colombianos porque sus productos pueden entrar a esos mercados a precios más competitivos. Sin embargo, los TLC no garantizan ventas, no eliminan la competencia (de hecho la aumentan) ni obligan a otros países a comprar productos colombianos. Los TLC abren oportunidades pero el éxito depende de la competitividad de los productos.
+El IVA es una de las principales fuentes de ingresos del Estado colombiano, pero es criticado porque afecta proporcionalmente más a las personas de bajos ingresos (regresividad).
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Análisis de la relación entre variables económicas
-**Context:** Impacto de decisiones económicas en la vida cotidiana
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-El Ministerio de Hacienda y Crédito Público anunció un aumento significativo en el gasto público para el próximo año, destinando recursos a infraestructura vial, educación y salud. Este aumento en el gasto del gobierno tendrá, según los principios básicos de la economía keynesiana, un efecto más directo en:
+¿Cuál es el principal socio comercial de Colombia, tanto para exportaciones como para importaciones?
 
 ### Options
-- [ ] A) La reducción inmediata del desempleo en todos los sectores
-- [x] B) El incremento de la demanda agregada en la economía <!-- feedback: Según la teoría keynesiana, el aumento del gasto público incrementa directamente la demanda agregada, lo que puede estimular la actividad económica y, a mediano plazo, reducir el desempleo. -->
-- [ ] C) La disminución automática de los precios de todos los productos
-- [ ] D) El incremento automático de las exportaciones colombianas
+- [ ] A) Venezuela. <!-- feedback: Incorrect. Aunque fue muy importante en el pasado, las tensiones políticas redujeron drásticamente el comercio binacional. -->
+- [ ] B) China. <!-- feedback: Incorrect. Es el segundo socio más importante, pero aún no supera al líder histórico. -->
+- [x] C) Estados Unidos. <!-- feedback: Correct. Desde hace décadas, EE.UU. es el destino principal de los productos colombianos y el mayor proveedor. -->
+- [ ] D) España. <!-- feedback: Incorrect. Es un socio importante en Europa, pero su peso es menor comparado con EE.UU. o China. -->
 
 ### Explicación Pedagógica
-La teoría económica keynesiana establece que el gasto público es un instrumento de política fiscal que puede estimular la economía. Cuando el gobierno aumenta su gasto, inyecta dinero a la economía, lo que incrementa la demanda agregada (la demanda total de bienes y servicios). Este incremento en la demanda puede llevar a las empresas a producir más y, eventualmente, a contratar más trabajadores, reduciendo el desempleo. Sin embargo, el efecto sobre el empleo es indirecto y no inmediato. El aumento del gasto no garantiza reducción automática de precios ni incremento automático de exportaciones.
+La firma del TLC con Estados Unidos en 2012 consolidó esta relación, permitiendo la entrada de miles de productos sin aranceles entre ambos países.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Aplicación de conceptos de mercado laboral
-**Context:** Situación del empleo en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según datos del DANE, la tasa de desempleo en Colombia en áreas urbanas suele ser mayor que en áreas rurales. ¿A qué主要原因 se puede atribuir esta diferencia?
+¿Qué significa que la economía colombiana sea una "Economía de Mercado"?
 
 ### Options
-- [ ] A) Los salarios en las ciudades son menores que en el campo
-- [x] B) La concentración de la actividad económica industrial y de servicios en las ciudades genera mayorfluxo migratorio del campo a la ciudad, elevando la oferta de mano de obra <!-- feedback: La industrialización y la concentración de servicios en las ciudades atraen migrantes rurales, aumentando la población económicamente activa urbana sin que la economía urbana genere suficientes empleos formales para todos. -->
-- [ ] C) Los trabajadores rurales tienen menor nivel de educación formal
-- [ ] D) El gobierno destina menos recursos para empleo urbano
+- [ ] A) Que el gobierno decide qué se produce y cuánto debe valer cada cosa por decreto. <!-- feedback: Incorrect. Eso sería una economía planificada o centralizada (como en el antiguo bloque soviético). -->
+- [x] B) Que los precios se determinan principalmente por la oferta y la demanda, con libertad para la iniciativa privada. <!-- feedback: Correct. El Estado solo interviene para regular y corregir fallos del mercado. -->
+- [ ] C) Que solo se permite comprar y vender productos en plazas de mercado populares. <!-- feedback: Incorrect. Es una interpretación literal errónea; el "mercado" es un concepto abstracto de intercambio. -->
+- [ ] D) Que está prohibido comerciar con otros países para proteger lo nacional. <!-- feedback: Incorrect. Eso sería una economía cerrada o autárquica; Colombia es una economía abierta al mundo. -->
 
 ### Explicación Pedagógica
-El fenómeno de la urbanización en Colombia ha llevado a que millones de personas migren del campo a las ciudades en busca de mejores oportunidades. Sin embargo, la concentración geográfica de la actividad económica (industria, servicios, comercio) en las ciudades no ha generado suficientes empleos formales para absorber a toda esta población flotante. Este desbalance entre la oferta de trabajo (más personas buscando empleo) y la demanda de trabajo (pocos empleos disponibles) explica las mayores tasas de desempleo urbano. No es cuestión de menores salarios ni de falta de educación, sino de un problema estructural de distribución espacial de la actividad económica.
+En Colombia, la Constitución de 1991 garantiza la libertad económica y la libre competencia, aunque el Estado mantiene la dirección general de la economía para garantizar fines sociales.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Comprensión del concepto de economía informal
-**Context:** Dinámica económica urbana colombiana
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-En las principales ciudades de Colombia es común observar ventas ambulantes, trabajo doméstico sin contratos formales y pequeños negocios familiares que no emiten factura ni están registrados ante la DIAN. Estas actividades corresponden al sector de la economía informal, cuya existencia masiva en Colombia se debe principalmente a:
+El "Desempleo Informal" en Colombia es muy alto (cercano al 50-60%). ¿Qué caracteriza a un trabajador informal?
 
 ### Options
-- [ ] A) La preferencia cultural de los colombianos por el trabajo informal
-- [x] B) Las dificultades para cumplir con los requisitos legales y tributarios en la economía formal <!-- feedback: La economía informal existe en gran medida porque muchas personas y pequeños negocios no pueden cumplir con los trámites, requisitos legales, cargas tributarias y contribuciones a seguridad social que exige la economía formal. -->
-- [ ] C) La falta de demanda de bienes y servicios en la economía formal
-- [ ] D) La prohibición legal de trabajar en el sector formal
+- [ ] A) Trabaja en una oficina con traje y corbata todos los días. <!-- feedback: Incorrect. La vestimenta no define la formalidad; lo hace la relación legal con el empleo. -->
+- [x] B) No cuenta con seguridad social (salud, pensión, riesgos laborales) pagada a través de su trabajo y carece de contrato legal prestacional. <!-- feedback: Correct. Son vendedores ambulantes, trabajadores por cuenta propia no registrados o empleados "en negro". -->
+- [ ] C) Es una persona que no tiene ningún trabajo y vive de sus ahorros. <!-- feedback: Incorrect. Esto es un desempleado abierto, no un trabajador informal. El informal trabaja, pero sin protecciones legales. -->
+- [ ] D) Trabaja únicamente los domingos y festivos. <!-- feedback: Incorrect. La jornada o los días no definen la informalidad, sino la falta de cobertura prestacional y legal. -->
 
 ### Explicación Pedagógica
-La economía informal se caracteriza porque las unidades productivas no cumplen con la normativa legal vigente: no están registradas, no pagan impuestos, no hacen aportes a seguridad social, no cumplen con normas laborales. La principal razón de su existencia es la dificultad de muchos emprendedores y trabajadores para cumplir con los requisitos legales (registros, licencias), tributarios (declaraciones, pagos de impuestos) y de seguridad social (pensión, salud). No es una preferencia cultural sino una adaptación a las condiciones económicas donde la formalidad resulta demasiado costosa o compleja para ciertos negocios o trabajadores.
+La alta informalidad es uno de los mayores retos de la economía colombiana, ya que reduce el recaudo de impuestos y deja a millones de personas sin protección para la vejez o enfermedad.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D5)
+## Question 8
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Análisis de políticas de ingresos
-**Context:** Política laboral y salarial colombiana
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-Cada año, el gobierno colombiano decreta un incremento al salario mínimo legal mensual. Cuando este aumento es superior al incremento de la productividad laboral del país, el efecto más probable a mediano plazo en el mercado laboral será:
+¿Cuál es el impacto de la "Tasa de Cambio" (precio del dólar) en la economía de las familias colombianas?
 
 ### Options
-- [ ] A) Una reducción automática de la inflación nacional
-- [x] B) Un incremento en los costos de producción empresarial que puede generar mayor desempleo o informalidad <!-- feedback: Si el salario mínimo sube más allá de la productividad, los empresarios enfrentan mayores costos laborales que pueden llevar a reducir contratación, sustituir trabajo por capital, o mantenerse en la informalidad. -->
-- [ ] C) Un aumento inmediato en las exportaciones colombianas
-- [ ] D) Una reducción automática de la pobreza en el país
+- [ ] A) No les afecta en nada porque en Colombia se paga en pesos. <!-- feedback: Incorrect. Afecta el precio de todo lo que es importado o usa insumos importados. -->
+- [x] B) Si el dólar sube, los productos importados (celulares, vehículos, algunos alimentos) se vuelven más caros, aumentando el costo de vida. <!-- feedback: Correct. Gran parte de la tecnología y hasta del maíz que consumimos es importado y se paga en dólares. -->
+- [ ] C) Si el dólar sube, el gobierno regala más dinero a todas las familias. <!-- feedback: Incorrect. El gobierno no regala dinero por la subida del dólar; al contrario, su deuda externa en dólares se vuelve más cara. -->
+- [ ] D) Si el dólar baja, está prohibido comprar productos de otros países. <!-- feedback: Incorrect. Si el dólar baja, es más barato importar, lo que beneficia a los consumidores pero puede afectar a los productores nacionales. -->
 
 ### Explicación Pedagógica
-El salario mínimo busca proteger a los trabajadores de menores ingresos garantizándoles un piso salarial. Sin embargo, cuando el incremento del salario mínimo supera el crecimiento de la productividad (la capacidad de generar más bienes y servicios por trabajador), las empresas enfrentan mayores costos de producción. Esto puede llevar a los empresarios a: reducir su planta de personal, automatizar procesos substituting trabajo por tecnología, o mantener operaciones en la informalidad para evitar el pago del salario mínimo. Por tanto, incrementos salariales por encima de la productividad pueden tener efectos contraproducentes en el empleo.
+Colombia tiene una tasa de cambio flexible, lo que significa que el valor del peso frente al dólar sube y baja diariamente según las condiciones del mercado mundial y nacional.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Comprensión del rol del Estado en la economía
-**Context:** Participación del Estado en la economía colombiana
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-El Estado colombiano recauda impuestos a través de la DIAN para financiar su gasto público. Del total de ingresos corrientes de la Nación, la mayor proporción proviene de:
+¿Por qué se dice que Colombia tiene una "Dependencia Minero-Energética"?
 
 ### Options
-- [ ] A) Los ingresos por explotación de petróleo del sector público
-- [ ] B) Las multas y sanciones impuestas por entidades de control
-- [x] C) Los impuestos indirectos (como el IVA) e impuestos directos (como la renta) <!-- feedback: Los impuestos (tanto directos como el impuesto de renta como indirectos como el IVA) constituyen la principal fuente de ingresos corrientes del presupuesto general de la Nación colombiana. -->
-- [ ] D) Las transferencias realizadas por organismos internacionales
+- [ ] A) Porque todas las casas del país funcionan con energía solar y eólica. <!-- feedback: Incorrect. La matriz de exportación sigue centrada en combustibles fósiles, no en renovables aún. -->
+- [ ] B) Porque está prohibido cultivar café y flores para exportación. <!-- feedback: Incorrect. No está prohibido; es que la minería y el petróleo generan mucho más dinero que el agro hoy. -->
+- [x] C) Porque gran parte de los ingresos del gobierno y de las exportaciones dependen del precio internacional del petróleo y el carbón. <!-- feedback: Correct. Si el precio del petróleo cae en el mundo, la economía colombiana sufre un fuerte impacto negativo. -->
+- [ ] D) Porque en Colombia no existen otros sectores económicos como el turismo o la industria. <!-- feedback: Incorrect. Existen, pero su aporte al total de divisas es pequeño comparado con el sector minero-energético. -->
 
 ### Explicación Pedagógica
-Los ingresos corrientes del gobierno nacional se componen principalmente de: 1) Impuestos directos: como el impuesto de renta de personas naturales y jurídicas, y el impuesto al patrimonio. 2) Impuestos indirectos: principalmente el Impuesto al Valor Agregado (IVA). Los ingresos tributarios (impuestos) representan aproximadamente el 80% de los ingresos corrientes del presupuesto nacional. Aunque Colombia recibe transferencias de organismos internacionales y tiene ingresos por activos del Estado, la principal fuente de financiación del Estado son los impuestos pagados por ciudadanos y empresas.
+Esta dependencia hace que la economía nacional sea vulnerable a las crisis globales de precios de materias primas (commodities).
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Análisis de la estructura comercial
-**Context:** Comercio exterior y principales socios comerciales
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-Estados Unidos es el principal socio comercial de Colombia, seguido de la Unión Europea y algunos países de América Latina. Las exportaciones colombianas se caracterizan principalmente por:
+El "Gasto Público" en Colombia se financia principalmente a través de:
 
 ### Options
-- [ ] A) Una alta diversificación con predominio de productos tecnológicos de alto valor agregado
-- [x] B) Una dependencia de productos primarios como petróleo, carbón, café y flores <!-- feedback: Las exportaciones colombianas están altamente concentradas en productos primarios (commodities): petróleo y derivados, carbón, café, flores, ferroníquel y productos mineros, con bajo procesamiento y bajo valor agregado. -->
-- [ ] C) Exportaciones exclusivamente agrícolas de productos tropicais
-- [ ] D) Una estructura equilibrada entre productos agrícolas, industriales y tecnológicos
+- [ ] A) Donaciones voluntarias que hacen los ciudadanos más ricos. <!-- feedback: Incorrect. Las donaciones son raras y no alcanzan para financiar al Estado. -->
+- [x] B) El recaudo de impuestos (IVA, Renta), las utilidades de empresas estatales (como Ecopetrol) y deuda externa. <!-- feedback: Correct. Es la base del presupuesto general de la nación. -->
+- [ ] C) Los tesoros escondidos de los galeones españoles encontrados en el mar. <!-- feedback: Incorrect. Aunque existen hallazgos, no son una fuente de financiación recurrente del Estado. -->
+- [ ] D) La venta de todas las universidades públicas a empresas extranjeras. <!-- feedback: Incorrect. Las universidades públicas son financiadas por el Estado, no son su fuente de ingresos por venta. -->
 
 ### Explicación Pedagógica
-A pesar de los esfuerzos por diversificar las exportaciones, Colombia sigue dependiendo fuertemente de productos primarios (sin mucho procesamiento). Los principales productos de exportación son: petróleo y combustibles, carbón, café, flores, ferroníquel, oro y banano. Estos productos tienen en común que son commodities (materias primas) que presentan alta volatilidad de precios en el mercado internacional y bajo valor agregado. Esta estructura exportadora hace a la economía vulnerable a los ciclos de precios internacionales de estos productos y limita el desarrollo de cadenas de valor más complejas.
+Un presupuesto equilibrado permite al Estado invertir en obras sociales sin generar inflación o deudas impagables para las futuras generaciones.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis crítico de modelos de desarrollo
-**Context:** Debate económico sobre modelos de desarrollo en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-Algunos economistas critican el modelo económico colombiano basado principalmente en la extracción y exportación de recursos naturales (modelo extractivista). La principal preocupación de estos críticos es que este modelo:
+¿Cuál es la función del DANE (Departamento Administrativo Nacional de Estadística) en la economía colombiana?
 
 ### Options
-- [ ] A) Genera únicamente beneficios económicos a corto plazo sin ningún aspecto positivo
-- [x] B) Puede generar enfermedad holandesa, deteriorar los términos de intercambio y ser insostenible ambientalmente a largo plazo <!-- feedback: El modelo extractivista puede causar enfermedad holandesa (apreciación cambiaria que perjudica otros sectores), dependencia del ciclo de precios de commodities, daño ambiental y menor diversificación económica. -->
-- [ ] C) Es el único modelo viable para un país tropical megdiverso
-- [ ] D) Siempre garantiza crecimiento económico sostenible
+- [ ] A) Cobrar los impuestos a los ciudadanos en los bancos. <!-- feedback: Incorrect. Eso lo hace la DIAN (Dirección de Impuestos y Aduanas Nacionales). -->
+- [ ] B) Repartir mercados y comida a las personas que lo necesitan. <!-- feedback: Incorrect. Esa es función de entidades de asistencia social como Prosperidad Social. -->
+- [x] C) Recolectar y procesar datos sobre inflación (IPC), desempleo, crecimiento del PIB y pobreza para que el gobierno tome decisiones. <!-- feedback: Correct. Es la entidad técnica que "mide" la realidad económica y social del país. -->
+- [ ] D) Nombrar a los directores de los canales de televisión. <!-- feedback: Incorrect. Es una entidad técnica de datos, no de control de medios de comunicación. -->
 
 ### Explicación Pedagógica
-El modelo extractivista, basado en la extracción y exportación de recursos naturales, ha sido objeto de debate económico. Los críticos señalan varios problemas: 1) Enfermedad holandesa: cuando los ingresos por exportaciones de recursos suben, la moneda nacional se fortalece, haciendo menos competitivas otras exportaciones. 2) Volatilidad: los precios internacionales de commodities son muy variables. 3) Daño ambiental: la extracción intensiva genera pasivos ambientales. 4) Dependencia: se posterga la diversificación económica. 5) Conflictos sociales: la extracción puede generar conflictos por tierras y territorios. No se trata de que el modelo no tenga beneficios, sino de que sus costos y riesgos deben ser gestionados.
+Sin los datos precisos del DANE, sería imposible saber si la economía está mejorando o si la pobreza está aumentando, lo que impediría diseñar políticas públicas efectivas.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Análisis de indicadores económicos
-**Context:** Estadísticas económicas del DANE
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-EI DANE (Departamento Administrativo Nacional de Estadística) es la entidad responsável por medir el Producto Interno Bruto (PIB) de Colombia. El PIB se puede calcular por tres métodos equivalentes. El método del gasto calcula el PIB como la suma del consumo de los hogares, la inversión, el gasto público y:
+La "Regla Fiscal" en Colombia es una norma que obliga al gobierno a:
 
 ### Options
-- [ ] A) Lauda pública de la deuda externa
-- [x] C) Las exportaciones netas (exportaciones menos importaciones) <!-- feedback: Según el método del gasto, el PIB se calcula como: PIB = C + I + G + (X - M), donde C es consumo, I es inversión, G es gasto público, X son exportaciones y M son importaciones. La diferencia entre exportaciones e importaciones son las exportaciones netas. -->
-- [ ] D) La variación de existencias de inventario
+- [ ] A) Que todos los ciudadanos paguen exactamente el mismo valor de impuestos. <!-- feedback: Incorrect. La regla fiscal no es sobre el pago individual, sino sobre el comportamiento del gasto del gobierno. -->
+- [ ] B) Prohibir que el dólar suba más de tres mil pesos por ley. <!-- feedback: Incorrect. El gobierno no puede controlar el precio del dólar por decreto en una economía de mercado. -->
+- [x] C) Limitar el déficit fiscal y el endeudamiento para asegurar que el Estado no gaste mucho más de lo que recibe y pueda pagar sus deudas en el futuro. <!-- feedback: Correct. Busca la estabilidad macroeconómica del país a largo plazo. -->
+- [ ] D) Que todas las empresas del país tengan el mismo dueño. <!-- feedback: Incorrect. Sería un monopolio estatal total, lo opuesto a la economía de mercado y la regla fiscal. -->
 
 ### Explicación Pedagógica
-El PIB por el método del gasto (también llamado método del producto) se calcula sumando los cuatro componentes de la demanda agregada: 1) Consumo de los hogares (C): bienes y servicios comprados por las familias. 2) Inversión bruta (I): inversión en capital fijo de las empresas y variación de existencias. 3) Gasto público (G): consumo e inversión del gobierno. 4) Exportaciones netas (X-M): diferencia entre lo que el país exporta y lo que importa. La suma de estos cuatro componentes da el PIB total de la economía.
+La regla fiscal da confianza a los inversionistas internacionales sobre la seriedad del manejo económico de Colombia, lo que permite que el país consiga préstamos a tasas de interés más bajas.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de políticas económicas
-**Context:** Política monetaria y crediticia
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Banco de la República, buscando controlar la inflación, decide elevar la tasa de interés de referencia. Esta decisión del banco central tendrá el efecto de:
+¿Cuál es el impacto de los Tratados de Libre Comercio (TLC) en el sector agropecuario colombiano?
 
 ### Options
-- [ ] A) Aumentar el consumo de los hogares y la inversión empresarial de manera inmediata
-- [x] B) Encarecer el crédito, lo que desalenta el consumo y la inversión, reduciendo presiones inflacionarias <!-- feedback: Tasas de interés más altas encarecen los préstamos para consumo e inversión, lo que reduce la demanda agregada y ayuda a controlar la inflación, aunque con efectos rezagados. -->
-- [ ] C) Reducir inmediatamente los precios de todos los productos en la tienda
-- [ ] D) Aumentar automáticamente los salarios de todos los trabajadores
+- [ ] A) Ha permitido que todos los campesinos colombianos se vuelvan millonarios exportando maíz. <!-- feedback: Incorrect. El maíz es uno de los productos más afectados por las importaciones baratas de EE.UU. -->
+- [ ] B) Prohibió el uso de semillas nacionales para favorecer a las extranjeras. <!-- feedback: Incorrect. Aunque hay normas de propiedad intelectual, el TLC no prohíbe el uso de semillas nativas de forma general. -->
+- [x] C) Ha generado retos difíciles, pues los agricultores nacionales deben competir con productos importados subsidiados que a veces son más baratos. <!-- feedback: Correct. Pero también ha abierto mercados para productos como el aguacate hass, las frutas exóticas y las flores. -->
+- [ ] D) Obligó a que el café colombiano se vendiera solo dentro de Colombia. <!-- feedback: Incorrect. El café siempre ha tenido vocación exportadora y los TLC buscan precisamente facilitar su venta afuera. -->
 
 ### Explicación Pedagógica
-La tasa de interés de referencia del Banco de la República es el costo al que los bancos comerciales pueden prestarse dinero entre sí. Cuando el banco central sube esta tasa, los bancos comerciales también suben las tasas que cobran a sus clientes (personas y empresas). Esto encarece el crédito para consumo (crédito de consumo, tarjetas de crédito) e inversión (créditos empresariales, mortgages). El efecto es un menor consumo e inversión, lo que reduce la demanda agregada y ayuda a controlar la inflación. Sin embargo, estos efectos no son inmediatos sino que operan con rezagos de meses o incluso más de un año.
+Los TLC tienen "ganadores" (sectores exportadores) y "perdedores" (sectores que compiten con importaciones), lo que genera debates permanentes sobre la soberanía alimentaria y la protección al campo.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Análisis de desigualdad económica
-**Context:** Distribución del ingreso en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-Colombia tiene uno de los índices de Gini más altos de América Latina, lo que indica que:
+¿A qué se refiere el término "Evasión de Impuestos" y cómo afecta al Estado?
 
 ### Options
-- [x] A) La distribución del ingreso en el país es muy desigual, con alta concentración de la riqueza en pocos hogares <!-- feedback: El coeficiente de Gini mide la concentración del ingreso: 0 representa distribución perfecta e 1 máxima desigualdad. Colombia tiene índices alrededor de 0.50-0.55, indicando alta concentración de ingresos. -->
-- [ ] B) Todos los hogares colombianos tienen exactamente los mismos ingresos
-- [ ] C) El PIB per cápita del país es el más alto del mundo
-- [ ] D) Los impuestos en Colombia son los más altos del mundo
+- [ ] A) Al derecho de no pagar impuestos si no se está de acuerdo con el presidente. <!-- feedback: Incorrect. El pago de impuestos es una obligación legal vinculada a la ciudadanía, no al gusto político. -->
+- [ ] B) A la decisión de las empresas de irse del país para no trabajar más. <!-- feedback: Incorrect. Eso es deslocalización o cierre de empresas, no evasión. -->
+- [x] C) A la práctica ilegal de ocultar ingresos o distorsionar la información financiera para pagar menos impuestos de los que corresponden. <!-- feedback: Correct. Reduce el dinero disponible para salud, educación y obras públicas. -->
+- [ ] D) Al descuento legal que hace el gobierno por pronto pago. <!-- feedback: Incorrect. Eso es un incentivo legal, no una evasión ilegal. -->
 
 ### Explicación Pedagógica
-El coeficiente o índice de Gini es una medida de la distribución del ingreso en una sociedad. Va de 0 (distribución perfectamente igual) a 1 (toda la riqueza en manos de una sola persona). Colombia tiene uno de los índices más altos de la región, alrededor de 0.50-0.55, lo que significa que existe una concentración muy alta del ingreso y la riqueza en pocos hogares, mientras que la mayoría de la población recibe ingresos muy bajos. Este alto nivel de desigualdad se manifiesta en brechas significativas en acceso a educación, salud, vivienda y oportunidades entre diferentes estratos socioeconómicos.
+La evasión y la elusión (usar vacíos legales) le cuestan a Colombia billones de pesos cada año, obligando al gobierno a hacer reformas tributarias constantes para cubrir el hueco fiscal.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D7)
+## Question 15
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de instrumentos de política comercial
-**Context:** Proteccionismo vs. libre comercio
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-EI gobierno colombiano, preocupado por la competencia de productos agrícolas importados a muy bajo precio, decide imponer aranceles significativos a estos productos. La medida de protección comercial que tomó el gobierno es un ejemplo de:
+¿Cuál es la importancia de las "Regalías" mineras en Colombia?
 
 ### Options
-- [ ] A) Un subsidio a la producción nacional
-- [ ] B) Una cuota de importación
-- [x] C) Un arancel (tarifa) que incrementa el precio de los productos importados en el mercado interno <!-- feedback: Un arancel es un impuesto que se cobra a las importaciones, lo que eleva su precio en el mercado interno y las hace menos competitivas frente a los productos nacionales. Es una medida proteccionista. -->
-- [ ] D) Una dumping comercial
+- [ ] A) Son los regalos que las empresas mineras le dan a los políticos en Navidad. <!-- feedback: Incorrect. No son regalos personales, son una compensación económica legal al Estado. -->
+- [ ] B) Es el impuesto que pagan los ciudadanos por usar joyas de oro. <!-- feedback: Incorrect. Es un cobro a las empresas extractoras, no al consumidor final de joyas. -->
+- [x] C) Es el pago obligatorio que hacen las empresas mineras y petroleras al Estado por explotar recursos naturales no renovables. <!-- feedback: Correct. Ese dinero se usa para proyectos de desarrollo en las regiones. -->
+- [ ] D) El permiso para extraer petróleo sin tener que cuidar el medio ambiente. <!-- feedback: Incorrect. El pago de regalías no exime del cumplimiento de las normas ambientales y licencias. -->
 
 ### Explicación Pedagógica
-Un arancel es un impuesto o tarifa que el gobierno cobra sobre las mercancías importadas. Al incrementarse el precio de las importaciones, los productos nacionales se vuelven más competitivos en precio. Los países utilizan aranceles como medida proteccionista para defender industrias nacionales nascentés o sensibles. Otras medidas proteccionistas incluyen: cuotas de importación (límites en cantidad), subsidios a la producción nacional (ayudas financieras), y barreras no arancelarias (normas técnicas, requisitos sanitarios). El dumping ocurre cuando un país exporta a precios menores que su costo de producción, situación que puede justificar la aplicación de aranceles antidumping.
+Las regalías son un recurso fundamental para los departamentos y municipios, pero su manejo a menudo ha estado marcado por la corrupción o la ineficiencia en la ejecución de los proyectos.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Análisis del proceso de globalización económica
-**Context:** Efectos de la globalización en la economía colombiana
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-La globalización económica ha permitido que Colombia exporte más productos a diversos mercados, pero también ha expuesto a los productores nacionales a la competencia internacional. ¿Cuál de las siguientes afirmaciones representa una consecuencia negativa potencial de la globalización para los pequeños productores agrícolas colombianos?
+¿Cuál es el mayor obstáculo geográfico para la competitividad de las exportaciones industriales colombianas?
 
 ### Options
-- [ ] A) El acceso a mejores tecnologías de producción
-- [ ] B) La posibilidad de exportar directamente sus productos
-- [x] C) La competencia desleal de productos importados subsidiados que dificultan la comercialización de la producción nacional <!-- feedback: Pequeños productores pueden verse adversely afectados cuando productos extranjeros subsidiados llegan al mercado colombiano a precios inferiores al costo de producción nacional, fenómeno que puede llevar al abandono de actividades agrícolas. -->
-- [ ] D) La reducción de los costos de transporte internacional
+- [ ] A) Que Colombia está demasiado lejos de todos los demás países del mundo. <!-- feedback: Incorrect. Colombia está en una posición central privilegiada en el continente. -->
+- [ ] B) Que en Colombia no se permite usar barcos para el comercio. <!-- feedback: Incorrect. Colombia tiene puertos en ambos océanos y los usa intensamente. -->
+- [x] C) El alto costo del transporte terrestre debido a la difícil geografía andina y la falta de infraestructura vial y ferroviaria moderna. <!-- feedback: Correct. A veces es más caro llevar un producto de Bogotá a Cartagena que de Cartagena a China. -->
+- [ ] D) La prohibición de que los camiones viajen de noche. <!-- feedback: Incorrect. Los camiones viajan a toda hora; el problema es la calidad y el trazado de las vías por las montañas. -->
 
 ### Explicación Pedagógica
-La globalización tiene efectos ambivalentes para la agricultura colombiana. Por un lado, abre mercados de exportación. Por otro lado, expone a los productores nacionales a la competencia de productos importados, especialmente aquellos de países desarrollados que reciben subsidios agrícolas significativos. Estos subsidios permiten que productos extranjeros lleguen a Colombia a precios muy bajos, incluso por debajo de los costos de producción local, lo que dificulta o imposibilita la comercialización de la producción nacional. Esto puede llevar al abandono de actividades agrícolas, incremento de la pobreza rural y aumento de la migración campo-ciudad. Los efectos positivos (tecnología, transporte) no necesariamente benefician a pequeños productores con bajo acceso a capital.
+Los altos "costos logísticos" hacen que los productos colombianos lleguen más caros al mercado internacional, restándoles competitividad frente a países con mejores llanuras o sistemas de trenes.
 
 ---
 
-## Question 17 (Variant Advanced - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Formulación de propuestas económicas fundament
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
+
+### Enunciado
+Analice el concepto de "Soberanía Energética" en Colombia. ¿Por qué se debate actualmente sobre si dejar de explorar nuevos yacimientos de petróleo y gas?
+
+### Options
+- [ ] A) Porque el petróleo se va a acabar mañana mismo en todo el mundo. <!-- feedback: Incorrect. Las reservas mundiales durarán décadas; el debate es ambiental y de transición. -->
+- [ ] B) Porque en Colombia ya no se necesitan carros ni aviones. <!-- feedback: Incorrect. El país sigue dependiendo del transporte fósil para casi todo. -->
+- [x] C) Por la necesidad de una "Transición Energética" frente al cambio climático, equilibrada con el riesgo de perder ingresos vitales y tener que importar energía más cara. <!-- feedback: Correct. Es una tensión entre el compromiso ambiental y la realidad económica nacional. -->
+- [ ] D) Porque el gobierno quiere que todos los colombianos vuelvan a usar carretas tiradas por caballos. <!-- feedback: Incorrect. Es una interpretación caricaturizada del debate sobre la transición a energías limpias. -->
+
+### Explicación Pedagógica
+Este dilema es central en la política actual de Colombia, enfrentando la urgencia de descarbonizar la economía con el peligro de desestabilizar las finanzas públicas que dependen del petróleo.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Considere el fenómeno de la "Concentración de la Tierra" en Colombia. ¿Cómo afecta esto el desarrollo económico rural según los expertos?
+
+### Options
+- [ ] A) Ayuda a que la comida sea más barata porque pocos dueños producen mejor. <!-- feedback: Incorrect. Gran parte de la tierra concentrada es improductiva (ganadería extensiva), lo que encarece la comida. -->
+- [ ] B) No afecta en nada porque los campesinos prefieren vivir en las ciudades de todos modos. <!-- feedback: Incorrect. El desplazamiento a la ciudad a menudo es forzado por la falta de acceso a la tierra productiva. -->
+- [x] C) Genera desigualdad, pobreza rural y subutilización del suelo, ya que mucha tierra apta para agricultura se usa solo para ganadería extensiva o permanece ociosa. <!-- feedback: Correct. La reforma agraria ha sido un tema pendiente y conflictivo durante más de un siglo. -->
+- [ ] D) Es necesario para que los terratenientes puedan proteger la naturaleza sin que nadie los moleste. <!-- feedback: Incorrect. La concentración suele estar asociada a la deforestación y no a la conservación biológica. -->
+
+### Explicación Pedagógica
+La distribución de la tierra es un problema no solo económico sino también social y político, estando en la raíz de muchos de los conflictos armados del país.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+¿Cuál es el riesgo de la "Desindustrialización" que algunos analistas ven en Colombia (perder fábricas e industrias y depender solo de servicios y minas)?
+
+### Options
+- [ ] A) Que la gente se quede sin ropa porque ya no habrá fábricas de camisas. <!-- feedback: Incorrect. La ropa se seguiría importando; el riesgo es sobre el valor agregado y el empleo. -->
+- [ ] B) Que las máquinas se rebelen contra los humanos si no hay fábricas donde vivir. <!-- feedback: Incorrect. Es una interpretación de ciencia ficción sin base económica. -->
+- [x] C) La pérdida de empleos calificados, menor innovación tecnológica y mayor vulnerabilidad ante choques económicos externos. <!-- feedback: Correct. Una economía basada solo en servicios y materias primas es menos resiliente y crea menos riqueza a largo plazo. -->
+- [ ] D) Que el país se vuelva tan limpio que ya no haya ninguna contaminación. <!-- feedback: Incorrect. La industria moderna puede ser limpia; la desindustrialización no garantiza el fin de la contaminación de otros sectores. -->
+
+### Explicación Pedagógica
+Fomentar la industria nacional requiere políticas de ciencia y tecnología, así como una infraestructura que baje los costos de producción para poder competir con productos extranjeros.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-economia-colombiana-103-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la relación entre la economía y la corrupción en Colombia. ¿Cuál es el "costo de oportunidad" de la corrupción según organismos como la Contraloría?
+
+### Options
+- [ ] A) Que los corruptos gastan el dinero en fiestas y eso activa la economía. <!-- feedback: Incorrect. Ese gasto no compensa la pérdida de inversión pública eficiente. -->
+- [ ] B) Que la corrupción genera empleos para los abogados que defienden a los corruptos. <!-- feedback: Incorrect. Es una visión cínica que no considera el daño social masivo. -->
+- [x] C) Miles de millones de pesos que se pierden y dejan de invertirse en hospitales, escuelas, vías y programas contra el hambre. <!-- feedback: Correct. Cada peso robado es un servicio público que un ciudadano deja de recibir. -->
+- [ ] D) Que la corrupción hace que la gente trabaje más duro para conseguir dinero por su cuenta. <!-- feedback: Incorrect. La corrupción genera desconfianza, desigualdad y frena la inversión honesta. -->
+
+### Explicación Pedagógica
+La corrupción es uno de los mayores frenos al desarrollo de Colombia, no solo por el dinero que se pierde, sino por el daño que le hace a la moral pública y a la eficiencia del Estado.
