@@ -1,5 +1,9 @@
 ---
 id: "CO-CN-11-P1-fisica-dinamica-001-MASTERY"
+country: "colombia"
+grado: 11
+asignatura: "ciencias-naturales"
+tema: "fisica-dinamica"
 protocol_version: "5.0"
 alignment: "ICFES Saber 11 / Marcos Técnicos"
 periodo: 1
