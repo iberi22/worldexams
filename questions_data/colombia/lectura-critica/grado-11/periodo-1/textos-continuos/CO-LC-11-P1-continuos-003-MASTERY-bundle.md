@@ -23,6 +23,7 @@ curation:
   agent_curated: false
 quality_status: "NEEDS_HUMAN_REVIEW"
 generation_status: "RAW"
+needs_human_review: true
 license: "CC BY-NC-SA 4.0"
 ---
 

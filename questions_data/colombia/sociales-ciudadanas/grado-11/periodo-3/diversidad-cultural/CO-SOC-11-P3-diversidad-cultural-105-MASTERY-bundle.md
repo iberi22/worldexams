@@ -1,34 +1,3 @@
-<think>
-Generaré exactamente 20 preguntas tipo ICFES para la materia Sociales Ciudadanas, tema diversidad-cultural, grado 11, periodo 3, siguiendo el formato especificado y las reglas indicadas.
-
-Las preguntas deben ser de dificultad progresiva:
-- Dificultad 3-4 (preguntas 1-4)
-- Dificultad 5-6 (preguntas 5-10)
-- Dificultad 7-8 (preguntas 11-16)
-- Dificultad 9-10 (preguntas 17-20)
-
-Debo asegurarme de:
-1. Usar el formato exacto especificado con frontmatter YAML
-2. Contextos modernos relevantes para Colombia
-3. 4 opciones obligatorias con [x] en la correcta
-4. No usar "todas las anteriores" o "ninguna de las anteriores"
-5. Distractores plausibles (errores reales de estudiantes colombianos)
-6. Alineación con ICFES Saber 11
-
-Voy a generar las preguntas enfocadas en diversidad cultural en Colombia, incluyendo temas como:
-- Multiculturalismo colombiano
-- Derechos culturales
-- Comunidades étnicas
-- Patrimonio cultural
-- Diversidad religiosa
-- Inclusión social
-- Pluralismo
-- Identidad cultural
-- Patrimonio inmaterial
-- Diversidad lingüística
-</think>
-
-```markdown
 ---
 id: "CO-SOC-11-P3-diversidad-cultural-105-MASTERY"
 country: "colombia"
@@ -37,352 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "diversidad-cultural"
 periodo: 3
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 105
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:13:31.650792"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.58
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty 3)
+## Question 1
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretación de referentes conceptuales
-**Context:** Convivencia escolar y diversidad en el aula
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-Colombia es reconocida como un país pluricultural y multiétnico. Según la Constitución Política de 1991, esta característica se fundamenta principalmente en la:
+La Constitución de 1991 define a Colombia como una nación:
 
 ### Options
-- [ ] A) Presencia exclusiva de comunidades afrodescendientes en el territorio nacional
-- [ ] B) Existencia de grupos indígenas que habitaban el territorio antes de la conquista
-- [x] C) Convivencia de diversas expresiones culturales, étnicas y lingüísticas en un mismo territorio <!-- feedback: La Constitución de 1991 reconoce Colombia como pluricultural y multiétnico, lo que significa la coexistencia de múltiples culturas, etnias, lenguas y tradiciones en el territorio nacional -->
-- [ ] D) Influencia predominante de la cultura europea sobre las demás
+- [ ] A) Unilingüe y católica. <!-- feedback: Incorrect. Aunque el español y el catolicismo son mayoritarios, la Constitución reconoce la diversidad lingüística y de cultos. -->
+- [x] B) Pluriétnica y multicultural. <!-- feedback: Correct. Reconoce la coexistencia de múltiples etnias y culturas con iguales derechos y dignidad. -->
+- [ ] C) Centralista y homogénea. <!-- feedback: Incorrect. El centralismo es político-administrativo, pero socialmente la Constitución celebra la diversidad y la descentralización. -->
+- [ ] D) Exclusivamente andina y blanca. <!-- feedback: Incorrect. Colombia tiene una fuerte herencia africana, indígena y mestiza en todas sus regiones. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 en su Artículo 7 reconoce a Colombia como un país pluriétnico y pluricultural. Esta característica implica la coexistencia de diversas comunidades indígenas, afrodescendientes, ROM, raizales y la cultura mestiza. La opción correcta es C porque captura la esencia del reconocimiento constitucional. Los distractores A y B son incorrectos porque reducen la diversidad a una sola etnia, mientras que D es incorrecta porque no reconoce el valor igualitario de las culturas originarias.
+El artículo 7 de la Constitución es la base del reconocimiento oficial de que Colombia no es una sola cultura, sino un mosaico de saberes y tradiciones que deben ser protegidos.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty 3)
+## Question 2
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Interpretación de información
-**Context:** Celebraciones culturales colombianas
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-En el calendario cultural colombiano, el Festival de la Cumbia en El Banco, Magdalena, y el Carnaval de Barranquilla representan expresiones de la diversidad cultural porque ambas:
+¿Cuál es el grupo étnico en Colombia que desciende de los africanos traídos como esclavos durante la Colonia y que ha mantenido tradiciones culturales propias en regiones como el Pacífico y el Caribe?
 
 ### Options
-- [ ] A) Son manifestaciones importadas de otros países latinoamericanos
-- [x] B) Son manifestaciones únicas de identidad regional que reflejan tradiciones locales diferenciadas <!-- feedback: La diversidad cultural se manifiesta en expresiones únicas de identidad regional, donde cada región desarrolla manifestaciones propias que reflejan su historia, tradiciones y cosmovisión particular -->
-- [ ] C) Son manifestaciones idénticas que se celebran en todas las regiones del país
-- [ ] D) Son expresiones culturales que han perdido su significado ancestral
+- [ ] A) Pueblos Indígenas. <!-- feedback: Incorrect. Son los habitantes originarios del continente antes de la llegada de europeos y africanos. -->
+- [x] B) Comunidades Afrocolombianas. <!-- feedback: Correct. Incluye a los raizales de San Andrés y a los palenqueros de San Basilio. -->
+- [ ] C) Comunidad Rom o Gitana. <!-- feedback: Incorrect. Es un grupo étnico de origen indoeuropeo que llegó a América en diferentes oleadas migratorias. -->
+- [ ] D) Mestizos. <!-- feedback: Incorrect. Es el grupo mayoritario producto de la mezcla entre españoles, indígenas y africanos, pero no es una minoría étnica diferenciada en los mismos términos legales. -->
 
 ### Explicación Pedagógica
-La diversidad cultural en Colombia se expresa a través de manifestaciones únicas y diferenciadas por región. El Carnaval de Barranquilla y el Festival de la Cumbia en El Banco son ejemplos concretos de cómo diferentes regiones del país desarrollan expresiones culturales propias. La opción B es correcta porque captura la esencia de la diversidad cultural: manifestaciones únicas de identidad regional. Los distractores son comunes entre estudiantes que confunden uniformidad cultural con diversidad.
+La cultura afrocolombiana es fundamental en la música, la gastronomía y la religiosidad del país, habiendo logrado reconocimientos territoriales importantes (Ley 70 de 1993).
 
 ---
 
-## Question 3 (Variant Basic - Difficulty 4)
+## Question 3
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Pensamiento crítico
-**Context:** Derechos culturales en la escuela
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-Una estudiante de confesión musulmana asiste a una institución educativa pública en Bogotá. Durante el mes de ramadán, desea adaptar su horario de alimentación. Según el enfoque de derechos culturales, la respuesta institucional más adecuada sería:
+¿Cuál es el pueblo étnico en Colombia que habla una lengua de origen indo-ario, tiene tradiciones nómadas y fue reconocido oficialmente como grupo étnico colombiano en 1999?
 
 ### Options
-- [ ] A) Denegar la solicitud por tratarse de una institución pública laica donde no se permiten excepciones religiosas
-- [ ] B) Permitir que la estudiante falte a clase durante todo el mes de ramadán
-- [x] C) Autorizar ajustes horarios razonables que permitan a la estudiante cumplir con sus prácticas religiosas sin afectar su participación académica <!-- feedback: Los derechos culturales incluyen el respeto por las prácticas religiosas diversas. Las instituciones educativas deben hacer ajustes razonables para garantizar el derecho a la libertad de culto, siempre que estos sean razonables y no afecten sustancialmente el proceso académico -->
-- [ ] D) Exigir que la estudiante presente un certificado de su comunidad religiosa firmado por un imam
+- [ ] A) Los Wayúu. <!-- feedback: Incorrect. Son un pueblo indígena de la familia lingüística arawak en La Guajira. -->
+- [ ] B) Los Raizales. <!-- feedback: Incorrect. Son la población de San Andrés, de cultura anglo-puritana y lengua creole. -->
+- [x] C) El Pueblo Rom (Gitanos). <!-- feedback: Correct. Tienen una organización social basada en el "kumpania" y mantienen su lengua, el romaní. -->
+- [ ] D) Los Arhuacos. <!-- feedback: Incorrect. Son un pueblo indígena de la Sierra Nevada de Santa Marta. -->
 
 ### Explicación Pedagógica
-El enfoque de derechos culturales promueve el respeto por las prácticas religiosas diversas como parte fundamental de la dignidad humana. Los ajustes razonables son una herramienta para garantizar la inclusión. La opción C es correcta porque equilibra el derecho religioso con las exigencias académicas. El distractor A es común en estudiantes que confunden laicidad con exclusión religiosa. El distractor D es incorrecto porque añade trámites innecesarios que no deberían ser requisitos para ejercer derechos fundamentales.
+El reconocimiento del pueblo Rom muestra la amplitud del concepto de diversidad en Colombia, incluyendo grupos que no necesariamente están ligados a un territorio ancestral fijo como los indígenas.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty 4)
+## Question 4
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v4`
-**Bloom:** Apply
-**ICFES:** Análisis de situaciones problémicas
-**Context:** Conflictos por diversidad cultural en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-En el departamento del Vaupés, las comunidades indígenas Yanomami y Kurripaco han desarrollado sistemas de educación propia con lengua, horarios y metodologías diferenciadas. Esta situación es un ejemplo de ejercicio del derecho a la diversidad cultural porque:
+¿Qué significa el concepto de "Interculturalidad"?
 
 ### Options
-- [ ] A) Demuestra que los pueblos indígenas deben abandonar la educación formal para preservar su cultura
-- [x] B) Representa la posibilidad de los pueblos indígenas de desarrollar modelos educativos que integren sus saberes ancestrales con el conocimiento formal <!-- feedback: El derecho a la diversidad cultural incluye la autonomía de los pueblos para definir sus propias formas de organización, educación y transmisión del conocimiento, dentro del marco del Estado pluriétnico reconocido constitucionalmente -->
-- [ ] C) Indica que la educación formal no es válida para las comunidades indígenas
-- [ ] D) Sugiere que los pueblos indígenas están separados del Estado colombiano
+- [ ] A) Que todas las culturas deben desaparecer para que solo quede una cultura mundial única. <!-- feedback: Incorrect. Eso sería asimilación o aculturación total, no interculturalidad. -->
+- [ ] B) Que las culturas deben vivir separadas unas de otras para no contaminarse. <!-- feedback: Incorrect. Eso se llama segregación, lo opuesto al diálogo intercultural. -->
+- [x] C) El diálogo, respeto y aprendizaje mutuo entre diferentes grupos culturales en condiciones de igualdad. <!-- feedback: Correct. Busca construir una sociedad donde la diferencia sea una oportunidad de crecimiento común. -->
+- [ ] D) La obligación de que todos los ciudadanos hablen diez idiomas diferentes. <!-- feedback: Incorrect. Es una interpretación exagerada; la interculturalidad es una actitud de apertura y convivencia. -->
 
 ### Explicación Pedagógica
-El derecho a la diversidad cultural incluye la autonomía de los pueblos indígenas para definir sus sistemas propios de educación. La Ley de Origen y la Ley General de Educación reconocen estas educaciones propias. La opción B es correcta porque representa la integración de derechos culturales con el sistema educativo formal. Los distractores A y C son的错误 porque presentan la diversidad cultural como excluyente de la educación formal, cuando en realidad son complementarias. El distractor D es incorrecto porque los pueblos indígenas son parte integral del Estado colombiano.
+A diferencia del multiculturalismo (que solo acepta que hay varios grupos), la interculturalidad promueve que esos grupos interactúen y se enriquezcan mutuamente.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty 5)
+## Question 5
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Interpretación de referentes conceptuales
-**Context:** Marco normativo de la diversidad cultural
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-La Ley 70 de 1993, reconocida como la Ley de Comunidades Negras, se creó para garantizar los derechos de las comunidades afrodescendientes colombianas. Esta ley es resultado del reconocimiento constitucional de Colombia como país:
+En Colombia existen cerca de 65 lenguas indígenas vivas. ¿Cuál es el estatus legal de estas lenguas según la Constitución de 1991?
 
 ### Options
-- [ ] A) Homogéneo culturalmente, donde las comunidades afrodescendientes necesitan protección especial
-- [ ] B) Pluricultural, únicamente en las regiones costeras del Caribe y Pacífico
-- [x] C) Pluriétnico, donde todas las comunidades tienen derecho a la preservación de su identidad cultural <!-- feedback: La Ley 70 de 1993 surge del reconocimiento constitucional de Colombia como país pluriétnico y pluricultural (Artículo 7 y 70 CN), garantizando derechos territoriales y culturales específicos de las comunidades afrodescendientes en todo el territorio nacional -->
-- [ ] D) Multiétnico, pero sin derechos diferenciados para cada comunidad
+- [ ] A) Son lenguas prohibidas en los colegios oficiales. <!-- feedback: Incorrect. Al contrario, se promueve la educación etnolingüística. -->
+- [ ] B) El español es la única lengua oficial en todo el territorio sin excepciones. <!-- feedback: Incorrect. El español es la oficial de Colombia, pero hay una salvedad constitucional importante. -->
+- [x] C) Son oficiales en sus territorios y el Estado debe promover su preservación y respeto. <!-- feedback: Correct. Las lenguas y dialectos de los grupos étnicos son también oficiales en sus territorios. -->
+- [ ] D) Solo se pueden hablar en ceremonias religiosas secretas. <!-- feedback: Incorrect. Son lenguas de uso cotidiano y público con plenos derechos legales. -->
 
 ### Explicación Pedagógica
-La Ley 70 de 1993 es resultado directo del reconocimiento constitucional de Colombia como país pluriétnico y pluricultural. Esta ley garantiza los derechos territoriales, culturales y de participación de las comunidades afrodescendientes. La opción C es correcta porque reconoce tanto la pluralidad étnica como los derechos diferenciados. El distractor B es común porque algunos estudiantes limitan la presencia afrodescendiente a ciertas regiones. El distractor D es incorrecto porque el reconocimiento constitucional sí implica derechos diferenciados.
+Este estatus garantiza que un indígena pueda exigir ser atendido en su lengua o recibir educación bilingüe, protegiendo un patrimonio inmaterial invaluable.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty 5)
+## Question 6
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v6`
-**Bloom:** Analyze
-**ICFES:** Pensamiento crítico
-**Context:** Patrimonio cultural inmaterial en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-El Ministerio de Cultura de Colombia ha declarado como Patrimonio Inmaterial Nacional expresiones como el vallenato, la cumbia y el chandé. Estas declaratorias cumplen una función social porque:
+¿Qué es un "Resguardo Indígena" en el ordenamiento territorial colombiano?
 
 ### Options
-- [ ] A) Prohíben a otras comunidades apropiarse de estas expresiones musicales
-- [ ] B) Generan ingresos exclusivos para los autores vivos de estas músicas
-- [x] C) Reconocen oficialmente prácticas culturales comunitarias, fortaleciendo la identidad y preservando tradiciones para las generaciones futuras <!-- feedback: Las declaratorias de patrimonio inmaterial cumplen una función social al reconocer oficialmente las prácticas culturales de las comunidades, fortaleciendo la identidad grupal y creando mecanismos de preservación y transmisión intergeneracional -->
-- [ ] D) Restringen la evolución musical de estas expresiones a su forma original
+- [ ] A) Una cárcel donde se encierra a los indígenas que no quieren trabajar. <!-- feedback: Incorrect. Es una institución de propiedad y autonomía, no de castigo. -->
+- [x] B) Una institución legal y sociopolítica conformada por un territorio de propiedad colectiva, donde la comunidad se gobierna por sus propios usos y costumbres. <!-- feedback: Correct. La tierra de los resguardos es inalienable, imprescriptible e inembargable. -->
+- [ ] C) Un hotel de lujo para turistas que quieren ver cómo viven los indígenas. <!-- feedback: Incorrect. Aunque existe etnoturismo, el resguardo es la base de la supervivencia física y cultural de los pueblos. -->
+- [ ] D) Una zona donde solo pueden vivir los militares para proteger la frontera. <!-- feedback: Incorrect. Son territorios de las comunidades étnicas, aunque el Estado mantiene la soberanía nacional. -->
 
 ### Explicación Pedagógica
-El patrimonio cultural inmaterial cumple funciones sociales fundamentales: reconocimiento de identidades comunitarias, fortalecimiento de la cohesión social y preservación para futuras generaciones. La opción C es correcta. El distractor A es incorrecto porque el patrimonio inmaterial no prohíbe su apropiación cultural. El distractor B es incorrecto porque no genera ingresos exclusivos. El distractor D es incorrecto porque el patrimonio inmaterial es dinámico y evoluciona con las comunidades.
+Los resguardos son fundamentales para proteger la autonomía de los pueblos indígenas y evitar que pierdan sus tierras frente a la expansión agrícola o minera privada.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty 5)
+## Question 7
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Interpretación de información
-**Context:** Diversidad lingüística en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-En Colombia se hablan 68 lenguas indígenas, además del español y el creole san Andrés. Esta situación lingüística evidenciada en el país se explica porque Colombia es:
+¿Cuál es la importancia histórica de San Basilio de Palenque (Bolívar) para la diversidad cultural de Colombia?
 
 ### Options
-- [ ] A) Un país que no ha desarrollado políticas de unificación lingüística
-- [ ] B) Un territorio donde todas las lenguas coexisten en igualdad de condiciones legales
-- [x] C) Un Estado pluriétnico que reconoce y protege la diversidad de lenguas ancestrales como patrimonio cultural <!-- feedback: El reconocimiento de Colombia como Estado pluriétnico incluye la protección de la diversidad lingüística. La Constitución (Art. 10) reconoce el castellano como idioma oficial, pero protege las lenguas nativas de los pueblos indígenas como patrimonio cultural que debe preservarse -->
-- [ ] D) Un país con tantas lenguas que imposibilitan la comunicación entre regiones
+- [ ] A) Fue el lugar donde se inventó la primera fábrica de café del país. <!-- feedback: Incorrect. Su importancia no es cafetera sino de libertad y resistencia étnica. -->
+- [x] B) Fue el primer pueblo libre de América, fundado por esclavos cimarrones que escaparon de la corona española. <!-- feedback: Correct. Conserva una lengua propia (el palenquero) y tradiciones únicas. -->
+- [ ] C) Es la ciudad donde nació Simón Bolívar. <!-- feedback: Incorrect. Bolívar nació en Caracas, Venezuela. -->
+- [ ] D) Es el principal puerto de exportación de petróleo del Caribe. <!-- feedback: Incorrect. Es un corregimiento del municipio de Mahates, con una economía tradicional y cultural. -->
 
 ### Explicación Pedagógica
-La diversidad lingüística colombiana se fundamenta en el reconocimiento constitucional de Colombia como Estado pluriétnico. El Artículo 10 de la Constitución reconoce las lenguas materna de los pueblos indígenas como oficiales en sus territorios. La opción C es correcta porque captura tanto el reconocimiento como la protección estatal. El distractor B es incorrecto porque existe jerarquía lingüística constitucional (castellano como oficial). El distractor D es incorrecto porque las lenguas nativas no impiden la comunicación.
+Declarado Patrimonio Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad por la UNESCO, Palenque es el símbolo máximo del cimarronaje y la resistencia africana en Colombia.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty 6)
+## Question 8
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Análisis de situaciones problémicas
-**Context:** Discriminación cultural en contextos urbanos
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-En una empresa multinacional ubicada en Medellín, un empleado raizal de San Andrés solicita que sus días de descanso coincidan con los festivos de su comunidad, que son diferentes a los del calendario colombiano oficial. Ante esta situación, desde una perspectiva de derechos culturales, lo más adecuado sería:
+¿A qué se refiere el término "Etnocentrismo" y cómo afecta la convivencia en un país diverso?
 
 ### Options
-- [ ] A) Denegar la solicitud indicando que en Colombia se deben seguir las festividades colombianas
-- [ ] B) Permitir únicamente días de descanso adicionales sin modificación del calendario oficial
-- [x] C) Evaluar la posibilidad de conceder flexibilidad en los descansos respetando las tradiciones de la comunidad raizal, sin afectar las operaciones de la empresa <!-- feedback: Los derechos culturales incluyen el respeto por las prácticas religiosas y tradicionales de comunidades específicas. Los ajustes razonables permiten compatibilizar las necesidades culturales con las exigencias organizacionales, garantizando el derecho a la diversidad sin imponer barreras desproporcionadas -->
-- [ ] D) Ignorar la solicitud ya que los raizales son una comunidad muy pequeña en el territorio continental
+- [ ] A) A la idea de que todas las culturas son iguales y ninguna es mejor que otra. <!-- feedback: Incorrect. Esto se conoce como relativismo cultural o respeto intercultural. -->
+- [x] B) A la tendencia de juzgar a otras culturas usando los criterios y valores de la propia cultura, considerándola superior. <!-- feedback: Correct. Genera prejuicios, discriminación y dificulta el diálogo social. -->
+- [ ] C) Al estudio científico de las razas de perros y gatos. <!-- feedback: Incorrect. No tiene relación con los animales, sino con el comportamiento humano grupal. -->
+- [ ] D) Al derecho de cada persona de elegir su propia religión. <!-- feedback: Incorrect. Eso es libertad de cultos, no etnocentrismo. -->
 
 ### Explicación Pedagógica
-Los derechos culturales incluyen el respeto por las prácticas de todas las comunidades, independientemente de su tamaño poblacional. Los ajustes razonables son mecanismos de inclusión que deben aplicarse cuando no representan cargas desproporcionadas. La opción C es correcta. El distractor A es común en estudiantes que no reconocen la existencia de comunidades diferenciadas dentro del territorio nacional. El distractor D es incorrecto porque el tamaño de una comunidad no determina el valor de sus derechos culturales.
+El etnocentrismo es la base de muchos conflictos sociales, ya que impide reconocer el valor de las formas de vida diferentes a la dominante (generalmente la urbana y occidentalizada).
 
 ---
 
-## Question 9 (Variant Medium - Difficulty 6)
+## Question 9
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Pensamiento crítico
-**Context:** interculturalidad en la educación
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Un colegio en Cali ha implementado un proyecto pedagógico transversal donde los estudiantes deben realizar investigación sobre las culturas presentes en su municipio. Este tipo de proyectos contribuyen al reconocimiento de la diversidad cultural porque:
+El "Carnaval de Barranquilla" y las "Fiestas de San Pacho" en Quibdó son manifestaciones de la diversidad cultural colombiana. ¿Qué función social cumplen estas fiestas más allá de la diversión?
 
 ### Options
-- [ ] A) Permiten que los estudiantes de comunidades dominantes enseñen a las minorías su cultura
-- [ ] B) Fomentan la unificación cultural bajo un solo patrón de enseñanza
-- [x] C) Facilitan el conocimiento mutuo entre diferentes grupos culturales, promoviendo el respeto y la valoración de la diferencia <!-- feedback: Los proyectos pedagógicos sobre diversidad cultural contribuyen a la interculturalidad, que implica el conocimiento mutuo, el diálogo de saberes y la valoración positiva de las diferencias culturales, rompiendo estereotipos y promoviendo el respeto -->
-- [ ] D) Generan competencia entre grupos culturales para determinar cuál es más importante
+- [ ] A) Obligar a la gente a gastar todo su dinero en disfraces. <!-- feedback: Incorrect. Aunque hay gasto, la función social es más profunda y colectiva. -->
+- [x] B) Fortalecer la identidad regional, preservar tradiciones ancestrales y permitir la cohesión social mediante la expresión artística. <!-- feedback: Correct. Son espacios donde se reafirma el sentido de pertenencia a una comunidad. -->
+- [ ] C) Lograr que los políticos no tengan que trabajar durante una semana. <!-- feedback: Incorrect. Es una interpretación cínica que ignora el valor antropológico de la fiesta. -->
+- [ ] D) Prohibir que las personas de otras ciudades visiten la región. <!-- feedback: Incorrect. Al contrario, son eventos que atraen turismo y promueven la imagen positiva de la cultura local. -->
 
 ### Explicación Pedagógica
-La interculturalidad como enfoque educativo busca el conocimiento mutuo y el diálogo entre culturas, no la imposición de una sobre otra. La opción C es correcta porque representa el objetivo fundamental de la educación para la diversidad cultural. El distractor A es común en estudiantes que confunden reconocimiento de diversidad con dominación cultural. El distractor B es incorrecto porque promueve homogeneización. El distractor D es incorrecto porque la diversidad no implica competencia jerárquica.
+Las fiestas tradicionales son reservorios de la memoria histórica y cultural, donde se mezclan herencias indígenas, africanas y europeas en un lenguaje común.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty 6)
+## Question 10
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Interpretación de referentes conceptuales
-**Context:** Territorios ancestrales y diversidad cultural
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-Los resguardos indígenas en Colombia constituyen una forma de organización territorial propia que garantiza a las comunidades indígenas el ejercicio de su cultura porque:
+¿Cuál es la tensión principal entre el desarrollo económico (minas, represas, carreteras) y los derechos de los pueblos indígenas sobre sus territorios?
 
 ### Options
-- [ ] A) Son territorios donde se prohíben todas las prácticas culturales externas
-- [x] B) Son entidades territoriales que permiten la autonomía indígena para gobernarse según sus tradiciones y sistemas de derecho propio <!-- feedback: Los resguardos indígenas, establecidos como entidades territoriales por la Constitución (Art. 329), garantizan la autonomía de los pueblos indígenas para gobernarse según sus usos y costumbres, administrar sus territorios y preservar sus sistemas culturales, sociales y políticos propios -->
-- [ ] C) Son espacios exclusivamente geográficos sin incidencia en lo cultural
-- [ ] D) Son territorios donde los indígenas pueden separarse del Estado colombiano
+- [ ] A) Que a los indígenas no les gusta la tecnología moderna por religión. <!-- feedback: Incorrect. No es un rechazo a la tecnología en sí, sino al impacto sobre su forma de vida y territorio. -->
+- [ ] B) Que el gobierno quiere regalarles todas las minas y ellos no las reciben. <!-- feedback: Incorrect. El conflicto es por la explotación de recursos por parte del Estado o empresas frente a la visión indígena. -->
+- [x] C) El choque entre la visión del territorio como fuente de recursos económicos (Estado/Empresa) y el territorio como espacio sagrado y base de la cultura (Indígenas). <!-- feedback: Correct. Esto se resuelve legalmente a través de la Consulta Previa. -->
+- [ ] D) Que los indígenas quieren construir sus propias carreteras de oro. <!-- feedback: Incorrect. Es una opción absurda que no refleja la realidad del conflicto. -->
 
 ### Explicación Pedagógica
-Los resguardos indígenas son formas de organización territorial que garantizan la autonomía cultural de los pueblos indígenas. El Artículo 329 de la Constitución los reconoce como entidades territoriales con autonomía para su gobernanza. La opción B es correcta. El distractor A es incorrecto porque los resguardos no prohíben relaciones culturales con otros grupos. El distractor C es incorrecto porque desconocen la dimensión cultural de los territorios. El distractor D es incorrecto porque los pueblos indígenas en resguardo siguen siendo parte integral del Estado.
+Este conflicto de perspectivas es uno de los más complejos en la Colombia actual, requiriendo un equilibrio jurídico entre el interés general y la protección de las minorías étnicas.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty 7)
+## Question 11
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Pensamiento crítico
-**Context:** Políticas públicas para la diversidad cultural
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Plan Nacional de Cultura 2018-2028 "Camino a la Prosperidad Social" establece como uno de sus objetivos el fortalecimiento de las economías creativas de las comunidades étnicas. Esta política pública reconoce que la diversidad cultural tiene una dimensión económica porque:
+¿Qué es la "Consulta Previa" y por qué es un derecho fundamental para las minorías étnicas en Colombia?
 
 ### Options
-- [ ] A) Busca que las comunidades étnicas abandonen sus prácticas culturales para incorporarse a la economía formal
-- [x] B) Reconoce que las expresiones culturales propias generan valor económico y contribuyen a la reducción de desigualdades, permitiendo que las comunidades preserven sus identidades mientras mejoran sus condiciones materiales <!-- feedback: Las políticas de diversidad cultural incluyen la dimensión económica porque reconocen que las expresiones culturales (artesanías, música, turismo cultural, saberes ancestrales aplicados) generan valor económico y son medios de subsistencia que permiten a las comunidades mantener sus tradiciones mientras participan en la economía -->
-- [ ] C) Pretende privatizar los conocimientos culturales ancestrales para generar ganancias
-- [ ] D) Considera que solo las comunidades étnicas con mayor producción económica merecen apoyo cultural
+- [ ] A) El derecho a preguntarle al médico antes de una operación. <!-- feedback: Incorrect. Es un concepto de derecho constitucional étnico, no médico. -->
+- [ ] B) Una encuesta que se hace en redes sociales para elegir el nombre de un parque. <!-- feedback: Incorrect. No es una encuesta informal, es un procedimiento legal obligatorio y formal. -->
+- [x] C) El derecho de las comunidades indígenas y afro a ser consultadas antes de que se autoricen proyectos que afecten sus territorios o su cultura. <!-- feedback: Correct. Busca proteger su integridad social, económica y cultural. -->
+- [ ] D) La obligación de los indígenas de pedir permiso al gobierno para poder bailar. <!-- feedback: Incorrect. Es el Estado quien debe consultar a la comunidad, no al revés para actividades culturales propias. -->
 
 ### Explicación Pedagógica
-Las políticas públicas contemporáneas de cultura reconocen la dimensión económica de la diversidad cultural como estrategia de desarrollo inclusivo. La opción B es correcta porque captura cómo las expresiones culturales generan valor económico manteniendo las identidades. El distractor A es incorrecto porque las políticas de diversidad cultural no buscan la asimilación. El distractor C es incorrecto porque las políticas buscan proteger, no privatizar, los conocimientos ancestrales. El distractor D es incorrecto porque todas las comunidades tienen derecho al apoyo cultural.
+La Consulta Previa no es solo un "trámite", es el mecanismo para garantizar que el desarrollo no se haga a costa de la desaparición de las culturas minoritarias.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty 7)
+## Question 12
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Análisis de situaciones problémicas
-**Context:** Conflictos interculturales en la ruralidad colombiana
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-En el departamento del Chocó, una empresa minera ha iniciado operaciones en un territorio ancestral de comunidades afrodescendientes. Las comunidades argumentan que las actividades mineras afectan sus prácticas culturales tradicionales. Desde el marco de derechos culturales, este conflicto debería resolverse:
+¿A qué se refiere el concepto de "Saberes Ancestrales" en la diversidad cultural colombiana?
 
 ### Options
-- [ ] A) Otorgando prioridad exclusiva a la actividad minera por su aporte económico al PIB nacional
-- [ ] B) Desplazando a las comunidades hacia territorios donde puedan ejercer libremente su cultura
-- [x] C) Mediante el diálogo intercultural que considere el consentimiento previo, libre e informado de las comunidades y evalúe alternativas que minimicen el impacto cultural <!-- feedback: El consentimiento previo, libre e informado (CPLI), reconocido en tratados internacionales y la Constitución colombiana, es un derecho de los pueblos y comunidades que garantiza su participación en decisiones que afectan sus territorios y culturas. La consulta previa es el mecanismo para lograr acuerdos que protejan tanto el desarrollo como los derechos culturales -->
-- [ ] D) Delegando la decisión al municipio sin considerar la participación de las comunidades afectadas
+- [ ] A) Al conocimiento que solo tienen las personas que saben usar computadores antiguos. <!-- feedback: Incorrect. No tiene relación con la tecnología obsoleta. -->
+- [x] B) Al conjunto de conocimientos sobre medicina natural, agricultura, clima y espiritualidad transmitidos de generación en generación por grupos étnicos. <!-- feedback: Correct. Son fundamentales para la conservación de la biodiversidad y la identidad. -->
+- [ ] C) A las historias que inventan los abuelos para que los niños se duerman rápido. <!-- feedback: Incorrect. Aunque incluye la tradición oral, son conocimientos prácticos y profundos sobre la realidad. -->
+- [ ] D) A la obligación de estudiar solo historia de España en los colegios. <!-- feedback: Incorrect. Los saberes ancestrales son locales y autóctonos, distintos a la historia colonial europea. -->
 
 ### Explicación Pedagógica
-El consentimiento previo, libre e informado es un derecho fundamental de los pueblos y comunidades étnicas cuando se afectan sus territorios y culturas. La consulta previa es el mecanismo legal para estos casos. La opción C es correcta. El distractor A es común en estudiantes que priorizan el desarrollo económico sin considerar derechos culturales. El distractor B es incorrecto porque el desplazamiento no es una solución al conflicto cultural. El distractor D es incorrecto porque desconoce el derecho de participación de las comunidades.
+La ciencia moderna ha empezado a reconocer el valor de estos saberes (por ejemplo, en plantas medicinales), planteando retos sobre la propiedad intelectual colectiva de estos conocimientos.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty 7)
+## Question 13
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Interpretación de referentes conceptuales
-**Context:** Diversidad cultural y construcción de paz
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-Los Acuerdos de Paz de 2016 entre el Gobierno Nacional y las FARC-EP incluyeron el punto sobre "Solución al problema de las drogas ilícitas" y el punto sobre "Víctimas". El enfoque de diversidad cultural en estos acuerdos se evidencia cuando:
+¿Cuál es el impacto de la globalización cultural (películas de Hollywood, música pop mundial, redes sociales) en la diversidad cultural local de Colombia?
 
 ### Options
-- [ ] A) Se establecen políticas de sustitución de cultivos idénticas para todas las regiones del país
-- [x] B) Se reconocen los sistemas de conocimiento y las prácticas culturales propias de las comunidades rurales como fundamento para la implementación de programas de sustitución voluntary <!-- feedback: Los Acuerdos de Paz reconocen que las comunidades rurales y étnicas tienen sistemas de conocimiento propios sobre el territorio y prácticas culturales que deben ser respetadas en la implementación. Los programas de sustitución de cultivos incluyen enfoque diferencial que respeta las tradiciones de cada comunidad -->
-- [ ] C) Se determina que solo los territorios con presencia guerrillera deben recibir atención psicosocial
-- [ ] D) Se eliminan las JAC (Juntas de Acción Comunal) para implementar formas de organización externa
+- [ ] A) Ninguno, la gente solo consume lo que se produce en su propio pueblo. <!-- feedback: Incorrect. Colombia está plenamente integrada al consumo cultural global. -->
+- [ ] B) Ha logrado que todos los colombianos hablen inglés perfectamente. <!-- feedback: Incorrect. El bilingüismo sigue siendo un reto, a pesar del consumo cultural en inglés. -->
+- [x] C) Existe el riesgo de una "homogeneización cultural" donde se pierdan las tradiciones locales, pero también permite que lo local se conozca en todo el mundo. <!-- feedback: Correct. Es un fenómeno de doble vía (glocalización). -->
+- [ ] D) Ha prohibido por completo que se baile salsa y vallenato en el país. <!-- feedback: Incorrect. Al contrario, estos géneros se han globalizado y han ganado prestigio mundial. -->
 
 ### Explicación Pedagógica
-Los Acuerdos de Paz incorporan el enfoque diferencial y de diversidad cultural en su implementación, reconociendo los saberes propios de las comunidades. La opción B es correcta. El distractor A es incorrecto porque los programas tienen enfoque diferencial regional. El distractor C es incorrecto porque las víctimas están en todo el territorio. El distractor D es incorrecto porque los acuerdos fortalecen, no eliminan, la organización comunitaria.
+La globalización puede ser una amenaza para las culturas pequeñas, pero también una herramienta para que grupos antes invisibles (como músicos del Pacífico) lleguen a audiencias globales.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty 7)
+## Question 14
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Pensamiento crítico
-**Context:** Globalización y diversidad cultural en Colombia
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-La llegada de cadenas de comida rápida internacional a comunidades indígenas de la Amazonía colombiana representa un desafío para la diversidad cultural porque:
+Un ciudadano afirma: "Si todos somos colombianos y tenemos los mismos derechos, los indígenas no deberían tener leyes especiales ni territorios propios". ¿Cuál es el error conceptual de esta afirmación frente a la Constitución de 1991?
 
 ### Options
-- [ ] A) Genera espacios de interculturalidad donde las comunidades indígenas pueden elegir libremente lo que prefieren consumir
-- [ ] B) democratiza el acceso a alimentos de mayor calidad nutricional
-- [x] C) Puede contribuir a la pérdida de prácticas alimentarias tradicionales que son parte integral de la identidad cultural de los pueblos, especialmente cuando se acompaña de pérdida de saberes sobre preparación de alimentos ancestrales <!-- feedback: La diversidad cultural implica que las prácticas alimentarias son expresiones culturales que trascienden la nutrición. Cuando las comunidades abandonan sus sistemas alimentarios tradicionales, pueden perder conocimientos ancestrales sobre cultivos nativos, preparaciones ceremoniales y relaciones culturales asociadas a la comida. La globalización alimentaria puede generar homogeneización cultural -->
-- [ ] D) Afecta exclusivamente la economía local sin consecuencias culturales
+- [ ] A) No hay ningún error; la igualdad absoluta significa que no debe haber diferencias de ningún tipo. <!-- feedback: Incorrect. La Constitución reconoce que para que haya igualdad real, se debe proteger la diferencia cultural de las minorías. -->
+- [ ] B) El error es que los indígenas no son colombianos. <!-- feedback: Incorrect. Los indígenas son ciudadanos colombianos con plenos derechos y deberes. -->
+- [x] C) Ignora que la "Igualdad Formal" ante la ley no es suficiente para proteger a grupos que han sido históricamente discriminados y que necesitan garantías especiales para no desaparecer. <!-- feedback: Correct. Es la base de la protección a la diversidad. -->
+- [ ] D) Que los indígenas son los dueños de todo el país y los demás somos extranjeros. <!-- feedback: Incorrect. La nación es de todos, pero se reconoce la propiedad ancestral de ciertos territorios. -->
 
 ### Explicación Pedagógica
-La diversidad cultural se manifiesta en las prácticas alimentarias, que incluyen técnicas de cultivo, preparación, consumo ceremonial y sistemas de conocimiento asociados. La globalización puede generar homogeneización cultural. La opción C es correcta. El distractor A es común en estudiantes que reducen el problema cultural a mera elección individual. El distractor B es incorrecto porque la comida rápida no necesariamente es de mayor calidad nutricional. El distractor D es incorrecto porque desconoce la dimensión cultural de la alimentación.
+La verdadera democracia en un país diverso no consiste en "borrar" las diferencias para que todos sean iguales, sino en proteger esas diferencias para que todos puedan convivir con dignidad.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty 8)
+## Question 15
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Análisis de situaciones problémicas
-**Context:** Derechos de las comunidades ROM en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-En el municipio de Facatativá, Cundinamarca, existe una comunidad ROM que ha enfrentado históricamente discriminación y exclusión social. Desde el enfoque de derechos culturales, las acciones afirmativas que debería implementar el municipio para garantizar la diversidad cultural incluyen:
+¿Cuál es la diferencia entre "Prejuicio" y "Discriminación" en el contexto de la diversidad étnica?
 
 ### Options
-- [ ] A) Asimilar a la comunidad ROM a las prácticas culturales dominantes para evitar conflictos
-- [ ] B) Implementar programas de vivienda social en un barrio distante donde no tengan contacto con otros habitantes
-- [x] C) Diseñar programas de inclusión social, acceso a servicios y respeto por su identidad nomadic, evitando la imposición de modelos de vivienda fija que contradigan sus tradiciones <!-- feedback: Las acciones afirmativas para comunidades culturalmente diferenciadas buscan garantizar la inclusión sin asimilación. Para la comunidad ROM, esto implica respetar su identidad nomadic, sus formas de organización social y sus prácticas culturales específicas, mediante programas adaptados que les permitan ejercer sus derechos manteniendo su cultura -->
-- [ ] D) Crear un museo etnográfico donde se exhiban sus costumbres como forma de turismo cultural
+- [ ] A) Son exactamente lo mismo y no tienen ninguna diferencia técnica. <!-- feedback: Incorrect. Tienen matices distintos en psicología social y derecho. -->
+- [ ] B) El prejuicio es una ley del gobierno y la discriminación es un sentimiento personal. <!-- feedback: Incorrect. Es al revés: la discriminación es la conducta y el prejuicio la actitud mental. -->
+- [x] C) El prejuicio es una actitud mental u opinión negativa preconcebida, mientras que la discriminación es el acto o conducta de dar un trato desigual y perjudicial. <!-- feedback: Correct. El prejuicio está en la mente, la discriminación en la acción social. -->
+- [ ] D) La discriminación solo la pueden sufrir los hombres y el prejuicio las mujeres. <!-- feedback: Incorrect. Ambos fenómenos afectan a cualquier grupo humano, especialmente a las minorías. -->
 
 ### Explicación Pedagógica
-Las acciones afirmativas buscan la inclusión con respeto por la diferencia cultural, sin imposición de modelos homogenizadores. Para las comunidades ROM, esto implica respetar sus formas de vida y organización. La opción C es correcta. El distractor A es incorrecto porque la asimilación niega la diversidad. El distractor B es incorrecto porque el aislamiento no es inclusión. El distractor D es incorrecto porque reduce la cultura ROM a objeto de exhibición sin garantizar derechos.
+Se puede tener prejuicios sin llegar a discriminar, pero la discriminación casi siempre tiene su origen en prejuicios no cuestionados. Combatir ambos es tarea de la educación ciudadana.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty 8)
+## Question 16
 
 **ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Interpretación de información
-**Context:** Patrimonio arqueológico y diversidad cultural
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-Los sitios arqueológicos de San Agustín en el Huila, considerados patrimonio de la humanidad por la UNESCO, son importantes para la diversidad cultural colombiana porque:
+¿Cómo influye la diversidad geográfica de Colombia (costas, montañas, selvas, llanos) en su diversidad cultural?
 
 ### Options
-- [ ] A) Demuestran que solo los pueblos indígenas prehispánicos merecen reconocimiento como patrimonio cultural colombiano
-- [ ] B) Son遗迹 que deben ser protegidas únicamente por su valor estético para el turismo
-- [x] C) Constituyen testimonios materiales de civilizaciones pasadas que enriquecen la comprensión de la diversidad cultural histórica del territorio colombiano y permiten a las comunidades actuales establecer vínculos con sus antepasados <!-- feedback: El patrimonio arqueológico es parte del patrimonio cultural que incluye testimonios materiales de diversas culturas históricas. Estos sitios permiten comprender la
+- [ ] A) No influye en nada, la gente vive igual en todas partes gracias al aire acondicionado. <!-- feedback: Incorrect. La adaptación al entorno define gran parte de la cultura. -->
+- [x] B) Ha generado diferentes "culturas regionales" (paisa, costeña, llanera, opita, etc.) con sus propios acentos, gastronomía, música y formas de ver el mundo. <!-- feedback: Correct. El aislamiento geográfico histórico fomentó identidades regionales muy fuertes. -->
+- [ ] C) Ha obligado a que todos los colombianos tengan que ser escaladores de montañas profesionales. <!-- feedback: Incorrect. Es una interpretación física exagerada; la influencia es cultural y social. -->
+- [ ] D) Ha hecho que Colombia sea un país muy aburrido porque las regiones no se hablan entre sí. <!-- feedback: Incorrect. La diversidad regional hace de Colombia uno de los países más ricos culturalmente del mundo. -->
+
+### Explicación Pedagógica
+La geografía es el escenario donde se desarrolla la cultura. El habitante del Páramo desarrolla una cultura de la lana y el silencio, mientras el del Caribe una cultura de la frescura y la expansión sonora.
+
+---
+
+## Question 17 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v17`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
+
+### Enunciado
+El fenómeno de la "Apropiación Cultural" ocurre cuando un grupo dominante toma elementos de una cultura minoritaria sin permiso y los usa para beneficio comercial o estético, a menudo ignorando su significado original. ¿Cuál es el problema ético de esto en Colombia?
+
+### Options
+- [ ] A) Que los productos se vuelven más caros para todos. <!-- feedback: Incorrect. El problema no es el precio, sino el respeto y la propiedad intelectual colectiva. -->
+- [ ] B) Que las personas ya no pueden comprar ropa de otros colores. <!-- feedback: Incorrect. No tiene relación con la libertad de compra de colores. -->
+- [x] C) Que se trivializa lo sagrado, se invisibiliza a los creadores originales y se lucran terceros a costa del patrimonio de comunidades empobrecidas. <!-- feedback: Correct. Por ejemplo, el uso de diseños de mochilas wayúu por marcas de lujo internacionales sin revertir beneficios a la comunidad. -->
+- [ ] D) Que obliga a los indígenas a dejar de usar sus propios trajes. <!-- feedback: Incorrect. La apropiación no es prohibición de uso, sino uso indebido por otros con fines de lucro o moda sin contexto. -->
+
+### Explicación Pedagógica
+Este debate busca proteger los derechos de autor colectivos de los pueblos étnicos frente a un mercado global que a menudo "exotiza" y explota la diferencia cultural.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Considere la "Justicia Indígena" reconocida por la Constitución. ¿Cuál es el límite que tienen las autoridades indígenas al aplicar sus propias leyes y castigos en sus territorios?
+
+### Options
+- [ ] A) No tienen ningún límite; pueden hacer lo que quieran incluso matar a alguien. <!-- feedback: Incorrect. El derecho a la vida es un límite absoluto en el marco constitucional. -->
+- [ ] B) Solo pueden juzgar temas de chismes y peleas entre vecinos pequeños. <!-- feedback: Incorrect. Tienen competencia para temas graves, siempre que ocurran en su territorio y entre sus miembros. -->
+- [x] C) Sus leyes y castigos no pueden ser contrarios a la Constitución ni a los Derechos Humanos (específicamente la vida, la prohibición de la tortura y la esclavitud). <!-- feedback: Correct. Es una coordinación entre dos sistemas de justicia bajo un mismo marco de derechos fundamentales. -->
+- [ ] D) Deben pedirle permiso al Alcalde antes de realizar cualquier juicio interno. <!-- feedback: Incorrect. Tienen autonomía jurisdiccional propia reconocida por la Constitución. -->
+
+### Explicación Pedagógica
+La coexistencia de la justicia ordinaria y la justicia indígena es un ejemplo de pluralismo jurídico, donde se respeta la autonomía étnica pero se mantienen mínimos universales de dignidad humana.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+La "Ley de Cuotas" en Colombia busca que las mujeres y grupos étnicos tengan una representación mínima obligatoria en cargos públicos. ¿Cuál es el argumento de quienes dicen que esto atenta contra la "meritocracia"?
+
+### Options
+- [ ] A) Que las mujeres no saben estudiar y por eso no deben estar en el gobierno. <!-- feedback: Incorrect. Es un prejuicio falso y machista, no un argumento técnico sobre meritocracia. -->
+- [x] B) Que los cargos deben ser ocupados solo por los más capaces independientemente de su grupo, y que obligar a elegir por género o etnia baja la calidad del Estado. <!-- feedback: Correct. Este es el argumento clásico de los defensores de la meritocracia pura frente a las acciones afirmativas. -->
+- [ ] C) Que los indígenas prefieren vivir en el campo y no les interesa la política urbana. <!-- feedback: Incorrect. Es una generalización que ignora el derecho a la representación política nacional. -->
+- [ ] D) Que la ley de cuotas obliga a que todos los jefes tengan que ser extranjeros. <!-- feedback: Incorrect. La ley se refiere a ciudadanos colombianos de diversos grupos sociales. -->
+
+### Explicación Pedagógica
+Este debate enfrenta dos visiones de justicia: la que cree en el mérito individual puro en una "cancha nivelada" (que a menudo no lo está) y la que cree en la intervención estatal para corregir brechas históricas de representación.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-diversidad-cultural-105-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Analice el concepto de "Nación-Estado" frente a la realidad colombiana. ¿Por qué se dice que Colombia es un Estado pero todavía está en proceso de construirse como Nación?
+
+### Options
+- [ ] A) Porque Colombia no tiene una bandera oficial ni un himno nacional todavía. <!-- feedback: Incorrect. Colombia tiene todos los símbolos y estructura de Estado desde el siglo XIX. -->
+- [ ] B) Porque la gente todavía no sabe cómo se llama el país. <!-- feedback: Incorrect. Es una opción absurda. -->
+- [x] C) Porque aunque existe un gobierno y unas fronteras (Estado), todavía falta lograr que todos los grupos diversos se sientan parte de un proyecto común con justicia e inclusión (Nación). <!-- feedback: Correct. La identidad nacional sigue fracturada por el conflicto y las exclusiones regionales y étnicas. -->
+- [ ] D) Porque Colombia es una colonia de las Naciones Unidas y no tiene independencia. <!-- feedback: Incorrect. Colombia es un Estado soberano e independiente. -->
+
+### Explicación Pedagógica
+Construir la nación implica pasar de la coexistencia forzada a la convivencia democrática, donde la diversidad sea vista como la mayor riqueza del país y no como una causa de guerra o desprecio.

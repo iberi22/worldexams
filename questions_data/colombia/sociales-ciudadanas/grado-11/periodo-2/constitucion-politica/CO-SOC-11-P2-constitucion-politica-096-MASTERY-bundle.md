@@ -1,73 +1,3 @@
-<think>
-The user wants me to generate exactly 20 questions for Colombian ICFES Saber 11 exam, specifically on "Sociales Ciudadanas" topic "constitucion-politica" (political constitution), grade 11, period 2.
-
-I need to follow:
-- Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- Exactly 20 questions
-- Options A, B, C, D with [x] marking the correct one
-- Plausible distractors based on common student errors
-- ICFES Saber 11 style alignment
-- Modern Colombian context
-- No "todas las anteriores" or "ninguna de las anteriores"
-
-Let me create the YAML frontmatter and then the 20 questions following the structure provided.
-
-Questions should cover:
-- Constitución Política de Colombia
-- Derechos fundamentales
-- Deberes ciudadanos
-- Organización del Estado
-- Poderes públicos
-- Territorial entity
-- Actions for the protection of rights
-- Constitutional blocks
-- States of exception
-- Mechanisms of popular participation
-
-Let me generate this content.
-
-I need to be careful about:
-1. Correct answer marked with [x]
-2. Each option should have feedback explaining why it's correct or incorrect
-3. Pedagogical explanation at the end
-4. Bloom taxonomy level (Remember, Understand, Apply, Analyze, Evaluate, Create)
-5. ICFES specific competence
-
-Let me structure:
-
-Questions 1-4: Difficulty D3-D4 (Remember/Understand level)
-Questions 5-10: Difficulty D5-D6 (Apply level)
-Questions 11-16: Difficulty D7-D8 (Analyze level)
-Questions 17-20: Difficulty D9-D10 (Evaluate/Create level)
-
-Let me create these questions:
-
-1. About basic knowledge of the Constitution
-2. About rights and duties
-3. About state organization
-4. About fundamental rights
-
-
-5. Apply constitutional principles to specific scenarios
-6. Interpret rights in practical contexts
-7. Use constitutional frameworks to analyze situations
-8. Examine case studies using constitutional knowledge
-9. Evaluate constitutional implications in complex scenarios
-10. Synthesize constitutional concepts to address multi-layered problems
-11. Critically assess constitutional interpretation and application
-12. Develop nuanced arguments about constitutional principles
-13. Create solutions using constitutional frameworks
-14. Propose innovative approaches to constitutional challenges
-15. Design comprehensive constitutional analyses
-16. Formulate complex constitutional strategies
-17. Evaluate intricate constitutional scenarios with sophisticated reasoning
-18. Construct advanced arguments integrating multiple constitutional dimensions
-19. Develop comprehensive constitutional frameworks for challenging situations
-20. Create sophisticated constitutional solutions addressing nuanced contemporary issues
-
-</think>
-
-```yaml
 ---
 id: "CO-SOC-11-P2-constitucion-politica-096-MASTERY"
 country: "colombia"
@@ -76,353 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "constitucion-politica"
 periodo: 2
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 96
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:42:13.667155"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Comunicación - Interpretar información]
-**Context:** [Contexto histórico y normativo de la Carta Magna colombiana]
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-La Constitución Política de Colombia de 1991 fue promulgada el 4 de julio de ese año y es considerada la ley suprema del Estado. ¿Cuál es la principal característica que hace a esta Constitución diferente de las anteriores en la historia colombiana?
+La Constitución Política de 1991 establece que Colombia es un Estado Social de Derecho. ¿Qué principio fundamental se deriva de esta definición respecto a los derechos ciudadanos?
 
 ### Options
-- [ ] A) Estableció por primera vez el voto obligatorio para todos los ciudadanos
-- [ ] B) Introdujo un catálogo extenso de derechos fundamentales y mecanismos de protección
-- [x] C) Creó la Corte Constitucional como mecanismo de control constitucional específico <!-- feedback: La Constitución de 1991 creó la Corte Constitucional, órgano inexistente en constituciones anteriores, dedicado exclusivamente al control constitucional y la protección de los derechos fundamentales -->
-- [ ] D) Eliminó completamente la participación del poder militar en la política nacional <!-- feedback: Incorrecto, ya que el Estado mantiene estructuras militares y la Constitución no eliminó su rol institucional -->
+- [ ] A) La propiedad privada es absoluta y el Estado no puede intervenir en ella. <!-- feedback: Incorrect. El Estado Social de Derecho permite la intervención estatal para garantizar el interés general. -->
+- [ ] B) Los derechos solo son válidos si la persona paga por ellos. <!-- feedback: Incorrect. Los derechos fundamentales son inherentes a la persona y el Estado debe garantizarlos. -->
+- [x] C) La dignidad humana es el centro del ordenamiento y el Estado debe buscar la igualdad real y efectiva. <!-- feedback: Correct. No se trata solo de igualdad ante la ley, sino de acciones concretas para proteger a los más vulnerables. -->
+- [ ] D) El Estado debe priorizar el pago de la deuda externa por encima de la salud y la educación. <!-- feedback: Incorrect. Los fines esenciales del Estado son el servicio a la comunidad y la garantía de los principios y derechos constitucionales. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 se caracterizó por ampliar significativamente los mecanismos de protección de derechos y crear nuevos órganos como la Corte Constitucional. Los distractores A y D presentan información históricamente imprecisa o exagerada. El distractor B, aunque verdadero respecto a la ampliación de derechos, no es la principal innovación institucional.
+El Estado Social de Derecho diferencia a la Constitución de 1991 de la anterior (1886), pasando de un Estado meramente legalista a uno preocupado por la justicia social y el bienestar mínimo vital de los ciudadanos.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Indagación - Identificar]
-**Context:** [Estructura del Estado colombiano]
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-En el marco de la organización política del Estado colombiano, la Rama Judicial tiene como función principal administering justice y garantizar los derechos de los ciudadanos. ¿Cuál de las siguientes instituciones pertenece exclusivamente a la Rama Judicial?
+¿Cuál es el mecanismo de protección inmediata de los derechos fundamentales cuando estos resulten vulnerados o amenazados por cualquier autoridad pública?
 
 ### Options
-- [ ] A) La Fiscalía General de la Nación
-- [ ] B) El Consejo Nacional Electoral
-- [ ] C) El Consejo de Estado <!-- feedback: Incorrecto, el Consejo de Estado es parte de la rama judicial en su función de jurisdicción contencioso administrativa, pero la opción más específica es otra -->
-- [x] D) Los tribunales y salas penales de circuito <!-- feedback: Los tribunales y salas penales de circuito son órganos exclusivamente judiciales que conocen de casos penales en segunda instancia, siguiendo la estructura de la Rama Judicial establecida en el Título VII de la Constitución -->
+- [ ] A) El plebiscito. <!-- feedback: Incorrect. El plebiscito es un mecanismo de participación para que el pueblo apruebe o rechace una decisión del Ejecutivo. -->
+- [x] B) La acción de tutela. <!-- feedback: Correct. Cualquier persona puede interponerla ante un juez para reclamar la protección de sus derechos fundamentales. -->
+- [ ] C) El derecho de petición. <!-- feedback: Incorrect. Es un derecho para solicitar información, pero no es el mecanismo de protección judicial directa ante una vulneración. -->
+- [ ] D) La acción popular. <!-- feedback: Incorrect. La acción popular protege derechos colectivos (como el medio ambiente), no derechos fundamentales individuales de forma inmediata. -->
 
 ### Explicación Pedagógica
-La Rama Judicial está organizada en alta y baja pengadilan. Los tribunales de circuito son parte de la estructura judicial baja. La Fiscalía General de la Nación, aunque trabaja con la justicia, es un órgano autónomo según el Artículo 250 CP. El CNE es un órgano de control.
+La acción de tutela es el mayor logro ciudadano de la Constitución de 1991, permitiendo que cualquier persona, sin necesidad de abogado, pueda defender sus derechos en plazos muy cortos (10 días).
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v3`
-**Bloom:** [Understand]
-**ICFES:** [Argumentación - Comprender]
-**Context:** [Derechos y deberes ciudadanos]
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-El Artículo 22 de la Constitución Política de Colombia establece que "la paz es un derecho y un deber de cumplimiento obligatorio". Este enunciado refleja un principio constitucional donde los derechos y los deberes se encuentran:
+¿Cuál de los siguientes es un mecanismo de participación ciudadana que permite al pueblo derogar (eliminar) o aprobar leyes ya existentes?
 
 ### Options
-- [x] A) Interrelacionados, ya que el ejercicio de un derecho implica también el cumplimiento de un deber <!-- feedback: La Constitución establece que la paz es simultáneamente un derecho subjetivo y un deber cívico, ilustrando la correlación entre derechos y obligaciones ciudadanas que caracteriza el modelo constitucional colombiano -->
-- [ ] B) En contradicción, porque un derecho no puede ser al mismo tiempo un deber
-- [ ] C) Separados, siendo los derechos ejercidos solo por individuos y los deberes solo por el Estado
-- [ ] D) En orden jerárquico, prevaleciendo siempre los derechos sobre los deberes <!-- feedback: Incorrecto, la Constitución no establece una jerarquía absoluta entre derechos y deberes, sino su complementariedad y coexistencia -->
+- [ ] A) Consulta popular. <!-- feedback: Incorrect. Se usa para preguntar al pueblo sobre un asunto de interés nacional o local, pero no para derogar leyes directamente. -->
+- [x] B) Referendo. <!-- feedback: Correct. Puede ser aprobatorio o derogatorio de leyes o normas jurídicas. -->
+- [ ] C) Cabildo abierto. <!-- feedback: Incorrect. Es una reunión pública de los concejos municipales o juntas administradoras locales para discutir temas de interés, pero no cambia leyes nacionales. -->
+- [ ] D) Iniciativa legislativa. <!-- feedback: Incorrect. Es el derecho de un grupo de ciudadanos de presentar proyectos de ley, no de eliminarlos. -->
 
 ### Explicación Pedagógica
-El modelo constitucional colombiano sigue un enfoque de ciudadanías activas donde derechos y deberes son complementarios. Esta interrelación se observa también en el Artículo 95 sobre deberes y obligaciones. El distractor B aplica una lógica formalista que no corresponde al enfoque integrador de la Constitución.
+El referendo es una herramienta de democracia directa que permite a la ciudadanía intervenir directamente en el ordenamiento jurídico del país.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v4`
-**Bloom:** [Understand]
-**ICFES:** [Comunicación - Interpretar]
-**Context:** [Estado Social de Derecho]
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Colombia se define como un Estado Social de Derecho según el Artículo 1 de la Constitución. Esta clasificación implica que el Estado no solo observa las normas legales, sino que también debe garantizar condiciones de vida dignas para los ciudadanos. ¿Cuál de las siguientes situaciones refleja más directamente la aplicación del Estado Social de Derecho?
+De acuerdo con la Constitución, la soberanía reside exclusivamente en:
 
 ### Options
-- [ ] A) La organización de elecciones transparentes cada cuatro años para elegir Gobernadores
-- [x] B) La implementación de programas de salud subsidiada para poblaciones en situación de pobreza <!-- feedback: El Estado Social de Derecho se manifiesta cuando el Estado adopta medidas positivas para garantizar el acceso a derechos sociales básicos, como la salud, especialmente para poblaciones vulnerables, cumpliendo su función de garante del bienestar ciudadano -->
-- [ ] C) El control de constitucionalidad ejercido por la Corte Constitucional sobre leyes aprobadas
-- [ ] D) La existencia de políticas de seguridad para proteger a todos los ciudadanos de la criminalidad <!-- feedback: Aunque importante, las políticas de seguridad no son la expresión más directa del Estado Social de Derecho, que se centra especialmente en derechos económicos y sociales -->
+- [ ] A) El Presidente de la República. <!-- feedback: Incorrect. El Presidente es un mandatario, no el soberano; el poder no emana de él. -->
+- [ ] B) Las Fuerzas Militares. <!-- feedback: Incorrect. Las Fuerzas Militares están al servicio de la Constitución y no poseen soberanía propia. -->
+- [x] C) El Pueblo. <!-- feedback: Correct. Del pueblo emana el poder público, el cual se ejerce de forma directa o a través de sus representantes. -->
+- [ ] D) El Congreso de la República. <!-- feedback: Incorrect. El Congreso representa al pueblo, pero la soberanía pertenece a la nación/pueblo en su conjunto. -->
 
 ### Explicación Pedagógica
-El Estado Social de Derecho se distingue por la obligación estatal de intervenir positivamente para garantizar derechos sociales, económicos y culturales. Los programas de salud subsidiada son ejemplo claro de esta dimensión social. Las opciones A, C y D ilustran aspectos del Estado de Derecho clásico pero no específicamente del componente "Social".
+Este principio establece que el poder político en Colombia no es hereditario ni de origen divino, sino que es una delegación que la ciudadanía hace a sus gobernantes.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v5`
-**Bloom:** [Apply]
-**ICFES:** [Argumentación - Aplicar]
-**Context:** [Mecanismos de protección de derechos]
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-Un ciudadano descubre que una empresa privada ha publicado información personal suya en redes sociales sin su consentimiento, lo que ha generado amenazas y hostigamiento. Según la Constitución Política, ¿cuál sería la acción constitutional más inmediata que este ciudadano podría interponer para solicitar protección urgente de sus derechos?
+¿Qué es la "Moción de Censura" en el sistema político colombiano?
 
 ### Options
-- [ ] A) Presentar una acción de tutela ante el juez civil del circuito
-- [x] B) Interponer una acción de tutela de manera inmediata ante cualquier juez del país <!-- feedback: La acción de tutela (Art. 86 CP) puede interponerse ante cualquier juez de la República y procede cuando hay amenaza o violación inminente de derechos fundamentales, sin necesidad de representación letrada y con resolución preferente -->
-- [ ] C) radicar una demanda ante el Consejo de Estado por daños y perjuicios
-- [ ] D) Solicitar intervención del Ministerio Público para mediate entre las partes <!-- feedback: Aunque posible, esto no es la acción más inmediata ni la más efectiva para proteger derechos fundamentales amenazados de manera urgente -->
+- [ ] A) Un castigo que el Presidente le pone a un alcalde que no le obedece. <!-- feedback: Incorrect. El control político lo ejerce el Congreso, no es una sanción administrativa del Presidente a un alcalde. -->
+- [x] B) El poder del Congreso para obligar a un Ministro a retirarse de su cargo por fallas en su gestión o por desatención a las leyes. <!-- feedback: Correct. Es una herramienta de control de la rama legislativa sobre la ejecutiva. -->
+- [ ] C) La prohibición de que un ciudadano participe en las elecciones. <!-- feedback: Incorrect. La censura política no se aplica a los ciudadanos particulares de esa manera. -->
+- [ ] D) Un debate en televisión donde se critica a los políticos corruptos. <!-- feedback: Incorrect. Aunque se debate, la moción de censura es un proceso legal formal con consecuencias jurídicas (retiro del cargo). -->
 
 ### Explicación Pedagógica
-La acción de tutela es el mecanismo preferente y sumario para proteger derechos fundamentales. Su característica de procedibilidad ante "cualquier juez" y su carácter urgente la hacen el instrumento más apropiado para este caso. Las opciones C y D son mecanismos distintos que no tienen la inmediatez y preferencia de la tutela.
+La moción de censura fortalece el equilibrio de poderes, asegurando que los ministros (quienes manejan el presupuesto y las políticas públicas) rindan cuentas ante los representantes del pueblo.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Indagación - Aplicar]
-**Context:** [Organización territorial]
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un municipio colombiano ha experimentado crecimiento poblacional acelerado y requiere reorganizar su estructura administrativa para prestar mejores servicios públicos. Según la Constitución, ¿qué figura institucional le permite a este municipio buscar asociación con otros municipios para compartir recursos y funciones?
+El Preámbulo de la Constitución de 1991 menciona que el pueblo de Colombia decreta la Constitución para asegurar, entre otros fines, la paz. ¿Qué tipo de obligación genera esto para el Estado?
 
 ### Options
-- [ ] A) Creación de un nuevo departamento
-- [ ] B) conversión a distrito especial
-- [x] C) asociación mediante figuras de integración territorial como las áreas metropolitanas <!-- feedback: El Artículo 319 de la Constitución permite que municipios se integren en áreas metropolitanas u otras figuras de asociación para planificar y ejecutar programas y proyectos de desarrollo metropolitano, favoreciendo la integración de recursos y funciones -->
-- [ ] D) fusión administrativa con un departamento vecino <!-- feedback: La fusión de municipios con departamentos no es constitucionalmente viable ya que son entidades territoriales diferentes con autonomía propia -->
+- [ ] A) Ninguna, el preámbulo es solo un saludo sin valor legal. <!-- feedback: Incorrect. La Corte Constitucional ha establecido que el preámbulo tiene valor normativo y guía la interpretación de toda la carta. -->
+- [x] B) La obligación de buscar salidas negociadas al conflicto y proteger la vida de los ciudadanos frente a la violencia. <!-- feedback: Correct. La paz es tanto un derecho como un deber de obligatorio cumplimiento. -->
+- [ ] C) La obligación de declarar la guerra a todos los países vecinos que no tengan democracia. <!-- feedback: Incorrect. Colombia promueve la solución pacífica de conflictos internacionales y la autodeterminación. -->
+- [ ] D) La prohibición de que los ciudadanos tengan opiniones diferentes sobre el gobierno. <!-- feedback: Incorrect. La Constitución garantiza la libertad de expresión y el pluralismo político. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 introdujo mecanismos de integración territorial (Art. 319-320) para fortalecer la cooperación intermunicipal. Las áreas metropolitanas y otras figuras permiten soluciones asociativas sin perder la autonomía de los municipios. Las opciones A, B y D implican transformaciones estructurales que no corresponden a lo establecido constitucionalmente.
+La mención de la paz en el preámbulo y el artículo 22 compromete al Estado a utilizar todas las herramientas legítimas para terminar con el conflicto armado.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v7`
-**Bloom:** [Apply]
-**ICFES:** [Comunicación - Interpretar]
-**Context:** [Poder Público - Rama Ejecutiva]
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-El Presidente de la República, como máximo representante del poder ejecutivo, tiene competencias definidas en la Constitución. En caso de que el Congreso declare la imposibilidad del Presidente para ejercer su cargo por enfermedad u otra causa, ¿qué mecanismo se activa según la Constitución Política?
+¿Cuál es la diferencia entre un Plebiscito y un Referendo?
 
 ### Options
-- [x] A) Asume el Vicepresidente y, en su defecto, el Presidente del Congreso <!-- feedback: El Artículo 203 CP establece que en caso de imposibilidad del Presidente para ejercer el cargo, asume el Vicepresidente. Si también es imposible, asume el Presidente del Congreso, completando el período -->
-- [ ] B) Se convocan elecciones extraordinarias inmediatamente
-- [ ] C) El Consejo de Estado designa un presidente encargado
-- [ ] D) El Fiscal General de la Nación asume temporalmente la presidencia
+- [ ] A) El plebiscito es para votar por personas y el referendo por leyes. <!-- feedback: Incorrect. Por personas se vota en las elecciones ordinarias; ambos mecanismos son sobre decisiones o normas. -->
+- [x] B) El plebiscito es convocado por el Presidente para consultar una decisión del Ejecutivo, mientras que el referendo es para aprobar o derogar normas jurídicas (como leyes o reformas constitucionales). <!-- feedback: Correct. Tienen orígenes y objetivos legales distintos. -->
+- [ ] C) El plebiscito es solo para temas de guerra y el referendo para temas de dinero. <!-- feedback: Incorrect. Sus alcances son más amplios y dependen de la materia que se someta a votación. -->
+- [ ] D) No hay diferencia, son sinónimos exactos en el derecho colombiano. <!-- feedback: Incorrect. La Ley 134 de 1994 establece definiciones y procedimientos diferentes para cada uno. -->
 
 ### Explicación Pedagógica
-La Constitución establece una línea de sucesión clara: Presidente → Vicepresidente → Presidente del Congreso. Esta cadena sucesoria busca garantizar la continuidad del Estado. Las opciones B, C y D no corresponden a los mecanismos constitucionales establecidos para este caso.
+Un ejemplo claro fue el Plebiscito por la Paz de 2016 (decisión política del presidente) frente a los Referendos para reformar la constitución (cambio de normas).
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Argumentación - Analizar]
-**Context:** [Estados de excepción]
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-El gobierno nacional decreta el Estado de Conmoción Interior debido a graves perturbaciones del orden público que afectan la seguridad nacional. Según la Constitución, ¿cuál es la característica principal que diferencia al Estado de Conmoción Interior de otros estados de excepción en Colombia?
+El derecho al "Habeas Corpus" es un mecanismo de protección de:
 
 ### Options
-- [ ] A) Permite la suspensión total de las garantías constitucionales por tiempo indefinido
-- [x] B) Autoriza al Presidente para dictar decretos legislativos por un término renovable hasta por 90 días, con control político del Congreso <!-- feedback: El Artículo 213 CP establece que la conmoción interior permite decretos legislativos por hasta 90 días, renovables, pero requiere control político del Congreso y no permite suspensión total de derechos -->
-- [ ] C) Obliga a la intervención directa de las Fuerzas Militares en el control del orden público
-- [ ] D) Suprime automáticamente el derecho de habeas corpus para todos los ciudadanos
+- [ ] A) La propiedad privada frente a expropiaciones. <!-- feedback: Incorrect. El Habeas Corpus protege la libertad física, no la propiedad material. -->
+- [ ] B) El buen nombre frente a calumnias en redes sociales. <!-- feedback: Incorrect. Eso se protege mediante la acción de tutela o procesos penales por injuria. -->
+- [x] C) La libertad personal frente a capturas arbitrarias o ilegales. <!-- feedback: Correct. Permite que un juez decida en menos de 36 horas si una persona debe seguir capturada o ser liberada. -->
+- [ ] D) El acceso a los servicios de salud y medicamentos. <!-- feedback: Incorrect. La salud se protege principalmente mediante la acción de tutela. -->
 
 ### Explicación Pedagógica
-Los estados de excepción en Colombia (Art. 213-214) tienen limitaciones importantes. En estado de conmoción, los decretos legislativos tienen límite temporal (90 días) y requieren control del Congreso. La suspensión total de derechos y la supresión del habeas corpus no son autométricas ni absolutas en ningún estado de excepción.
+El Habeas Corpus es un derecho fundamental que evita que el Estado pueda desaparecer personas o mantenerlas encerradas sin orden judicial o causa legal clara.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v9`
-**Bloom:** [Apply]
-**ICFES:** [Indagación - Evaluar]
-**Context:** [Participación ciudadana]
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Un grupo de ciudadanos en un municipio rural desea participar activamente en las decisiones que afectan su territorio, especialmente respecto al uso de tierras para actividades mineras. Según los mecanismos de participación democrática establecidos en la Constitución, ¿cuál de las siguientes herramientas les permitiría expresar su rechazo mediante el voto directo de la ciudadanía?
+Un ciudadano interpone una tutela contra una EPS porque no le entrega un medicamento vital. El juez de tutela falla a favor del ciudadano. ¿Qué característica de la tutela se evidencia cuando el juez ordena la entrega en 48 horas?
 
 ### Options
-- [ ] A) La acción de tutela集体 para detener el proyecto minero
-- [ ] B) La consulta popular которую se realiza sobre asuntos de competencia municipal
-- [x] C) La consulta popular, siempre que sea sobre asuntos de competencia municipal y se cumplan los requisitos legales <!-- feedback: El Artículo 40 y 74 de la Constitución, desarrollados por la Ley 134 de 1994, establecen la consulta popular como mecanismo de participación directa donde los ciudadanos deciden mediante votación sobre asuntos que son competencia del municipio -->
-- [ ] D) El derecho de petición ante el Ministerio de Minas
+- [ ] A) La burocracia, porque obliga a hacer más trámites. <!-- feedback: Incorrect. La tutela busca precisamente eliminar la barrera burocrática para proteger el derecho. -->
+- [x] B) La prevalencia del derecho sustancial (la vida y salud) sobre las formalidades administrativas. <!-- feedback: Correct. El juez prioriza la protección efectiva del derecho por encima de reglamentos internos de la empresa. -->
+- [ ] C) La ilegalidad, porque los jueces no deberían mandar sobre las empresas privadas. <!-- feedback: Incorrect. Las empresas que prestan servicios públicos están sujetas a la Constitución y la tutela. -->
+- [ ] D) La discriminación, porque solo ayuda a ese ciudadano y no a todos los demás. <!-- feedback: Incorrect. La tutela protege el caso concreto, pero genera precedentes que ayudan a mejorar el sistema para todos. -->
 
 ### Explicación Pedagógica
-La consulta popular es el mecanismo de participación directa que permite a los ciudadanos decidir mediante投票 sobre asuntos específicos, especialmente los relacionados con decisiones que afectan el territorio. La tutela protege derechos pero no es mecanismo de participación. Las otras opciones no involucran votación directa ciudadana.
+La tutela transformó la relación entre el ciudadano y las instituciones, dándole al primero una herramienta poderosa para hacer cumplir lo que dice la ley.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v10`
-**Bloom:** [Apply]
-**ICFES:** [Comunicación - Interpretar]
-**Context:** [Bloque de constitucionalidad]
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-Un tribunal colombiano debe resolver un caso sobre libertad de expresión y considera que el derecho internacional de los derechos humanos puede servir como parámetro de interpretación. Según la teoría del bloque de constitucionalidad, ¿cuáles instrumentos internacionales tienen rango constitucional en Colombia?
+El "Voto Programático" en Colombia obliga a los alcaldes y gobernadores a:
 
 ### Options
-- [x] A) Los tratados internacionales de derechos humanos ratificados por Colombia que prohiban su limitación durante estados de excepción <!-- feedback: Según el Artículo 93 CP, los tratados internacionales ratificados que reconocen derechos humanos y prohibiten su limitación en estados de excepción constituyen bloque de constitucionalidad, con rango supralegal pero inferior a la Constitución -->
-- [ ] B) Todos los tratados internacionales sin excepción, independientemente de su contenido
-- [ ] C) Solo los tratados de libre comercio firmados por Colombia
-- [ ] D) Únicamente los instrumentos firmados antes de 1991
+- [ ] A) Pagar dinero a quienes votaron por ellos. <!-- feedback: Incorrect. Esto sería compra de votos y es un delito penal. -->
+- [ ] B) Ser elegidos por el Congreso en lugar de por los ciudadanos. <!-- feedback: Incorrect. Siguen siendo elegidos por voto popular. -->
+- [x] C) Inscribir un programa de gobierno al ser candidatos y cumplirlo una vez elegidos, so pena de ser removidos por revocatoria del mandato. <!-- feedback: Correct. Vincula el voto de la gente a una propuesta concreta de gestión. -->
+- [ ] D) Solo votar por las leyes que proponga el Presidente. <!-- feedback: Incorrect. No tiene que ver con la conducta legislativa, sino con la responsabilidad de los gobernantes locales frente a sus promesas de campaña. -->
 
 ### Explicación Pedagógica
-El bloque de constitucionalidad (Art. 93 CP) incluye specifically los tratados de derechos humanos que prohiben la limitación de derechos incluso en estados de excepción. No incluye todos los tratados ni solo los comerciales. El criterio temporal no es relevante, sino la naturaleza del tratado y su relación con derechos humanos fundamentales.
+El voto programático es una herramienta de rendición de cuentas que busca profesionalizar la política local y dar poder al ciudadano para castigar el incumplimiento de promesas electorales.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v11`
-**Bloom:** [Analyze]
-**ICFES:** [Argumentación - Analizar]
-**Context:** [Estructura del Estado - Ramas del poder público]
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-En el marco de la separación y equilibrio de poderes, la Constitución Política establece controles entre las distintas ramas del poder público. ¿Cuál de las siguientes situaciones representa un mecanismo de control que ejerce el Congreso sobre la Rama Ejecutiva?
+¿Cuál es la función del "Control Político" que ejerce el Congreso sobre los Ministros del Despacho?
 
 ### Options
-- [ ] A) La Corte Constitucional revisa las leyes que afectan derechos fundamentales
-- [ ] B) La Fiscalía General de la Nación investiga a funcionarios por delitos
-- [x] C) El Congreso citará a interpela a ministros y会对他们的管理进行信任投票 <!-- feedback: El Artículo 135 de la Constitución otorga al Congreso la facultad de cita e interpelación a ministers, así como la capacidad de motion de censura, representando controles políticos sobre la Rama Ejecutiva -->
-- [ ] D) El Consejo de Estado resuelve conflictos de competencia entre entidades públicas
+- [ ] A) Permitir que los congresistas trabajen en los ministerios durante las vacaciones. <!-- feedback: Incorrect. Existe incompatibilidad de cargos; un congresista no puede ser funcionario del ejecutivo. -->
+- [x] B) Citar a los ministros para que expliquen sus decisiones, el uso del presupuesto y respondan ante las quejas ciudadanas. <!-- feedback: Correct. Garantiza que el ejecutivo sea transparente y rinda cuentas al legislativo. -->
+- [ ] C) Dar permiso al Presidente para que pueda comprar aviones nuevos. <!-- feedback: Incorrect. El presupuesto se aprueba globalmente, el control político es sobre la ejecución y las decisiones tomadas. -->
+- [ ] D) Obligar a los ministros a que se afilien al mismo partido político que el Presidente del Congreso. <!-- feedback: Incorrect. Los ministros son de libre nombramiento del Presidente y no dependen de la afiliación política del Congreso. -->
 
 ### Explicación Pedagógica
-Los mecanismos de control político del Congreso incluyen: motions de censura, citaciones a ministros, interpelaciones, y otras herramientas de seguimiento al poder ejecutivo. La Corte Constitucional (A) controla constitucionalidad, no político. La Fiscalía (B) investiga crímenes pero no ejerce control político legislativo.
+El control político es la esencia de la democracia representativa, asegurando que el poder no se ejerza en la oscuridad o sin responsabilidad.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v12`
-**Bloom:** [Analyze]
-**ICFES:** [Indagación - Analizar]
-**Context:** [Derechos fundamentales - Acción de tutela]
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-Un juez de tutela debe analizar si procedentially la acción presentada por un desempleado contra una entidad bancaria que lo desalojó de su vivienda familiar. El accionante argumenta que se vulneraron sus derechos fundamentales. Para determinar si la tutela procedurally frente a otra vía judicial, el juez debe verificar que:
+Un grupo de ciudadanos presenta una "Acción Popular" para detener la construcción de una fábrica que va a contaminar el río de su ciudad. ¿Cuál es la diferencia de este mecanismo con la Acción de Tutela?
 
 ### Options
-- [ ] A) El accionante haya agotado primero todos los medios judiciales ordinarios disponibles
-- [ ] B) Se trate de un caso de única instancia donde la tutela sea el único mecanismo
-- [x] C) Existe un riesgo actual o inminente de vulneración que hace ineficaz el proceso ordinario <!-- feedback: El Artículo 86 CP establece que la tutela procedially de forma inmediata para proteger derechos fundamentales cuando存在着 riesgo inminente y el proceso ordinario no es eficaz para proporcionar protección oportuna -->
-- [ ] D) El accionante cuenta con recursos económicos suficientes para contratar un abogado
+- [ ] A) La acción popular es solo para gente rica y la tutela para gente pobre. <!-- feedback: Incorrect. Ambos mecanismos son para cualquier ciudadano sin distinción económica. -->
+- [ ] B) La acción popular se demora 10 años y la tutela solo 10 días. <!-- feedback: Incorrect. Aunque la tutela es más rápida, la diferencia principal es la materia que protegen. -->
+- [x] C) La tutela protege derechos fundamentales individuales (como la vida o salud), mientras que la acción popular protege derechos colectivos y del medio ambiente. <!-- feedback: Correct. El beneficiario de la acción popular es toda la comunidad, no solo quien la presenta. -->
+- [ ] D) No hay ninguna diferencia, son dos nombres para el mismo trámite judicial. <!-- feedback: Incorrect. Están reguladas por leyes diferentes y tienen requisitos de procedencia distintos. -->
 
 ### Explicación Pedagógica
-La tutela es un mecanismo residual y preferente que no requiere agotar todas las vías ordinarias previamente si existe urgencia. Lo determinante es la eficacia del mecanismo ordinario para proteger el derecho. Los recursos económicos (D) no son condición para interponer tutela. La tutela puede interponerse sin abogado.
+Conocer los diferentes mecanismos permite al ciudadano elegir la vía judicial correcta para defender tanto sus intereses personales como los de su comunidad y el entorno natural.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v13`
-**Bloom:** [Analyze]
-**ICFES:** [Argumentación - Evaluar]
-**Context:** [Justicia Especial para la Paz - Marco constitucional]
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Acuerdo de Paz entre el Gobierno Nacional y las FARC-EP, signed in 2016, fue incorporated al ordenamiento jurídico mediante el Acto Legislativo 01 de 2017 que creó el Sistema Integral de Verdad, Justicia, Reparación y No Repetición. Desde la perspectiva constitucional colombiana, ¿qué principio permite que este sistema especial tenga reglas diferentes a la justicia ordinaria?
+¿Cuál es la labor principal de la "Corte Suprema de Justicia" en la estructura del Estado colombiano?
 
 ### Options
-- [ ] A) Principio de soberанía nacional que permite al Estado modificar unilateralmente la estructura judicial
-- [x] B) Principio de participación ciudadana que reconoce el derecho de las víctimas como transversal a todo el proceso <!-- feedback: El Sistema Integral se fundamenta en el reconocimiento de participación de las víctimas y la sociedad en el procesamiento de los crímenes del conflicto, incorporando mecanismos restaurativos y transicionales que complementan la justicia retributiva -->
-- [ ] C) Principio de especialidad que convierte a la JEP en tribunal superior con más autoridad que la Corte Suprema
-- [ ] D) Principio de universalidad del derecho que aplica estándares internacionales por encima de la Constitución nacional
+- [ ] A) Decidir si una ley es constitucional o no. <!-- feedback: Incorrect. Esa es la función de la Corte Constitucional. -->
+- [x] B) Actuar como el tribunal superior de la jurisdicción ordinaria (asuntos civiles, laborales, penales). <!-- feedback: Correct. Es la máxima autoridad para juzgar delitos comunes y conflictos entre particulares. -->
+- [ ] C) Vigilar que el dinero del Estado no se pierda. <!-- feedback: Incorrect. Esa es la función de la Contraloría. -->
+- [ ] D) Nombrar al Registrador Nacional del Estado Civil. <!-- feedback: Incorrect. Lo nombran los presidentes de las tres altas cortes, no solo la Corte Suprema. -->
 
 ### Explicación Pedagógica
-El Sistema Integral se fundamenta en la participación activa de víctimas y sociedad en el proceso de verdad, justicia y reparación. La JEP no es jerárquicamente superior a otros tribunales, sino especial por su naturaleza transicional. El marco constitucional permite desarrollo de sistemas especiales cuando promueven participación y derechos de las víctimas.
+Colombia tiene un sistema de "cabezas de jurisdicción": la Corte Suprema para lo ordinario, el Consejo de Estado para lo administrativo y la Corte Constitucional para la integridad de la Carta Magna.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v14`
-**Bloom:** [Analyze]
-**ICFES:** [Indagación - Evaluar]
-**Context:** [Derechos económicos y sociales]
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-Una profesora universitaria con contrato deprestación de servicios desde hace tres años afirma que el Estado vulnera sus derechos porque no recibe prestaciones sociales ni tiene garantías de estabilidad laboral. El Estado argumenta que no existe una relación laboral subordinada. Analizando el modelo constitutional colombiano del trabajo, ¿cuál debería ser el enfoque del análisis constitucional en este caso?
+¿En qué consiste el principio de "Inviolabilidad Parlamentaria" para los miembros del Congreso?
 
 ### Options
-- [ ] A) Determinar si el trabajo en el sector público es siempre un derecho y nunca una obligación
-- [ ] B) Verificar únicamente si el contrato es civil o comercial según las normas del Código Civil
-- [x] C) Evaluar si la relación fulfills los elementos sustantivos del contrato de trabajo independientemente de su nomenclatura formal <!-- feedback: La jurisprudencia constitucional ha establecido que para determinar la existencia de una relación laboral se debe atender a la realidad del contrato y no a su denominación, verificando criterios como subordinación, dependencia y ajenidad -->
-- [ ] D) Concluir que el trabajo por prestación de servicios preclude cualquier derecho laboral en el sector público
+- [ ] A) En que no pueden ser arrestados aunque cometan un asesinato en público. <!-- feedback: Incorrect. No es una licencia para cometer delitos; se refiere a sus funciones políticas. -->
+- [ ] B) En que no pagan impuestos sobre sus salarios. <!-- feedback: Incorrect. Los congresistas pagan impuestos de renta como cualquier ciudadano con altos ingresos. -->
+- [x] C) En que no pueden ser perseguidos judicialmente por las opiniones o votos que emitan en ejercicio de su cargo. <!-- feedback: Correct. Garantiza que puedan denunciar corrupción o criticar al gobierno sin miedo a represalias judiciales. -->
+- [ ] D) En que sus casas no pueden ser visitadas por la policía bajo ninguna circunstancia. <!-- feedback: Incorrect. Se refiere a la protección de su discurso político y labor legislativa, no a una extraterritorialidad de sus domicilios. -->
 
 ### Explicación Pedagógica
-El principio de primacía de la realidad sobre la forma (Art. 53 CP) indica que las relaciones laborales deben analizarse según la realidad de los hechos y no por la denominación contractual. La jurisprudencia constitucional (C-614 de 2012, entre otras) ha protegido el derechos de trabajadores que, bajo contratos de servicios, effectively realizan funciones subordinadas.
+Este principio protege la libertad de debate en el Congreso, permitiendo que los representantes del pueblo ejerzan control político sin ser silenciados por amenazas legales del ejecutivo o de poderosos.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v15`
-**Bloom:** [Analyze]
-**ICFES:** [Comunicación - Analizar]
-**Context:** [Equilibrio de poderes - Control constitucional]
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Congreso aprueba una ley que establece restricciones a la protestación pública en zonas urbanas. ciudadanos y organizaciones argumentan que la ley vulnera derechos fundamentales. Ante este escenario, ¿cuál es el mecanismo constitutional de control que protege los derechos de los ciudadanos frente a la ley aprobada por el Congreso?
+El "Poder de Policía" en la Constitución de 1991 no se refiere a la fuerza armada, sino a:
 
 ### Options
-- [ ] A) El Presidente de la República puede sancionar o vetar la ley antes de su promulgación
-- [ ] B) Los ciudadanos pueden solicitar al Procurador General que declare la inconstitucionalidad de la ley
-- [x] C) La Corte Constitucional revisa la ley mediante proceso de revisión automática o por demanda ciudadana y puede declarar su inconstitucionalidad <!-- feedback: El Artículo 241 CP establece que la Corte Constitucional decide sobre las demandas de inconstitucionalidad presentadas por ciudadanos y realizar review automática de leyes, pudiendo declarar inexequibles las normas que vulneren la Constitución -->
-- [ ] D) El Consejo de Estado suspende la ejecución de la ley mientras se determina su legalidad
+- [ ] A) El derecho de los ciudadanos a capturar a sus vecinos sospechosos. <!-- feedback: Incorrect. Esto sería justicia por mano propia y es ilegal. -->
+- [ ] B) La capacidad de los generales para dictar leyes en tiempos de paz. <!-- feedback: Incorrect. Los militares y policías no dictan leyes en una democracia. -->
+- [x] C) La facultad de las autoridades (como el Congreso o Alcaldes) para dictar normas que limiten libertades individuales en beneficio del orden público y la convivencia. <!-- feedback: Correct. Por ejemplo, dictar un toque de queda o normas de ruido para establecimientos. -->
+- [ ] D) El entrenamiento especial que reciben los perros policías. <!-- feedback: Incorrect. Es una interpretación literal errónea; se trata de una potestad jurídica de regulación social. -->
 
 ### Explicación Pedagógica
-La Corte Constitucional tiene la función de guarda de la integridad y supremacía de la Constitución (Art. 241). Decide sobre demandas de inconstitucionalidad y review automático. Ni el Presidente (A) ni el Procurador (B) tienen competencia para declarar inconstitucionalidad de leyes. El Consejo de Estado (D) conoce acciones populares y nulidad, no control abstracto de constitucionalidad.
+Es importante distinguir entre el "Poder" de policía (hacer la norma), la "Función" de policía (dictar actos administrativos) y la "Actividad" de policía (el uso de la fuerza legítima para cumplir la norma).
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v16`
-**Bloom:** [Analyze]
-**ICFES:** [Argumentación - Evaluar]
-**Context:** [Derechos colectivos y ambiente sano]
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.40
 
 ### Enunciado
-Una comunidad Afrodescendiente en la región Pacífico demanda protección de su territorio ancestral donde una empresa multinational proyecta desarrollar un proyecto minero. La comunidad argumenta que el proyecto afecta su derecho a un ambiente sano y su identidad cultural. Según el marco constitutional colombiano de derechos colectivos, ¿qué principio debe primar en el análisis?
+¿Cuál es la función del "Consejo de Estado" en Colombia?
 
 ### Options
-- [ ] A) El interés económico del Estado prevalece sobre los derechos de las comunidades
-- [x] B) Se debe realizar consulta previa para decisiones que afecten territorios colectivos y aplicar el principio de precaución ambiental <!-- feedback: El Artículo 330 CP y la jurisprudencia constitucional establecen la obligatoriedad de la consulta previa con comunidades étnicas para decisiones que afecten sus territorios, y el principio de precaución ambiental (Art. 79 CP) exige evaluar impactos antes de autorizar actividades peligrosas -->
-- [ ] C) Los derechos individuales de los miembros de la comunidad prevalecen siempre sobre los derechos colectivos
-- [ ] D
+- [ ] A) Asesorar al Presidente en la compra de armas y equipos militares. <!-- feedback: Incorrect. Su función es judicial, no de asesoría logística o militar. -->
+- [x] B) Ser el tribunal máximo de lo Contencioso Administrativo y el cuerpo consultivo del Gobierno en temas jurídicos. <!-- feedback: Correct. Juzga los actos del Estado cuando estos causan daños o son ilegales. -->
+- [ ] C) Elegir al Fiscal General de la Nación de una terna enviada por el pueblo. <!-- feedback: Incorrect. La terna la envía el Presidente y elige la Corte Suprema de Justicia. -->
+- [ ] D) Redactar los discursos de los ministros para el Congreso. <!-- feedback: Incorrect. Es una alta corte, no una oficina de comunicaciones o redacción del ejecutivo. -->
+
+### Explicación Pedagógica
+Si el Estado te atropella injustamente con un camión o te cobra un impuesto ilegal, el Consejo de Estado es el encargado final de decidir si tienes derecho a una indemnización o corrección.
+
+---
+
+## Question 17 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v17`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
+
+### Enunciado
+La "Carrera Administrativa" es el sistema por el cual se ingresa a los empleos del Estado mediante mérito. ¿Cuál es el principal objetivo constitucional de este sistema frente a los cargos de "libre nombramiento y remoción"?
+
+### Options
+- [ ] A) Asegurar que solo los amigos del Presidente trabajen en el gobierno. <!-- feedback: Incorrect. El sistema de mérito busca precisamente evitar que el empleo público sea un botín de favores políticos. -->
+- [ ] B) Lograr que los empleados públicos no tengan que trabajar nunca más. <!-- feedback: Incorrect. La estabilidad depende del buen desempeño; no es una licencia para la ineficiencia. -->
+- [x] C) Garantizar la transparencia, la igualdad de oportunidades y la eficiencia del Estado, evitando que los cargos públicos dependan del favoritismo político. <!-- feedback: Correct. Los mejores deben servir al Estado independientemente de quién gane las elecciones. -->
+- [ ] D) Ahorrar dinero al Estado al no pagar salarios a quienes no tengan título universitario. <!-- feedback: Incorrect. El mérito se evalúa según los requisitos del cargo, no solo por títulos, y todos los empleados reciben salario. -->
+
+### Explicación Pedagógica
+Un Estado profesional e independiente de la política partidista es fundamental para la continuidad de los servicios públicos y la lucha contra la corrupción.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Analice el siguiente caso: Un Alcalde decide prohibir todas las manifestaciones de protesta en su ciudad de forma permanente, alegando que "afean la ciudad". ¿Por qué esta decisión es inconstitucional a la luz de los principios de 1991?
+
+### Options
+- [ ] A) Porque las protestas son bonitas y deberían ser declaradas arte público. <!-- feedback: Incorrect. El argumento no es estético, sino de derechos fundamentales. -->
+- [x] B) Porque vulnera el derecho fundamental a la protesta social, la libertad de expresión y de reunión, que solo pueden ser limitados de forma temporal y justificada por el orden público. <!-- feedback: Correct. Un alcalde no puede anular un derecho fundamental por razones de gusto o comodidad administrativa. -->
+- [ ] C) Porque el Alcalde no tiene poder para prohibir nada en su ciudad. <!-- feedback: Incorrect. El alcalde tiene poder de policía, pero debe ejercerlo respetando los límites de la Constitución. -->
+- [ ] D) Porque solo el Presidente puede prohibir las protestas mediante un decreto de guerra. <!-- feedback: Incorrect. Ni siquiera el Presidente puede prohibir la protesta social de forma absoluta y permanente en una democracia. -->
+
+### Explicación Pedagógica
+Esta pregunta refuerza la idea de que los derechos fundamentales están por encima de las autoridades locales, y que el orden público no puede usarse como excusa para eliminar la democracia participativa.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+La "Sentencia de Unificación" (SU) de la Corte Constitucional sirve para que:
+
+### Options
+- [ ] A) Todos los colombianos tengan que usar el mismo uniforme en el colegio. <!-- feedback: Incorrect. No se refiere a la vestimenta, sino a la interpretación unificada de las leyes. -->
+- [ ] B) Se eliminen todas las religiones para crear una sola religión del Estado. <!-- feedback: Incorrect. Colombia respeta la libertad de cultos; la unificación es jurídica. -->
+- [x] C) Se establezca una única interpretación obligatoria sobre cómo proteger un derecho en casos similares, evitando que diferentes jueces fallen de forma contradictoria. <!-- feedback: Correct. Brinda seguridad jurídica y garantiza la igualdad ante la ley. -->
+- [ ] D) El Presidente y el Congreso se unan en un solo partido político. <!-- feedback: Incorrect. La separación de poderes se mantiene; la unificación es sobre la interpretación de derechos constitucionales. -->
+
+### Explicación Pedagógica
+Si a una persona un juez le concede una tutela por un tema de salud y a otra persona con el mismo problema otro juez se la niega, se rompe la igualdad. La Corte unifica criterios para que la justicia sea predecible y justa para todos.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P2-constitucion-politica-096-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la "Reforma a la Constitución". ¿Por qué el procedimiento para cambiar la Constitución es mucho más difícil y exigente que el procedimiento para cambiar una ley común?
+
+### Options
+- [ ] A) Porque a los congresistas les da pereza leer textos largos como la Constitución. <!-- feedback: Incorrect. Los procedimientos son más largos y complejos por diseño democrático, no por pereza. -->
+- [ ] B) Porque la Constitución fue escrita en un papel especial que no se puede borrar fácilmente. <!-- feedback: Incorrect. Es una metáfora de estabilidad, no un impedimento físico. -->
+- [x] C) Para proteger los principios fundamentales de la nación de cambios caprichosos o mayorías temporales, garantizando que el "contrato social" tenga estabilidad. <!-- feedback: Correct. La Constitución es la norma de normas y debe representar consensos profundos y duraderos. -->
+- [ ] D) Porque solo se puede reformar si el Papa y el Rey de España se ponen de acuerdo. <!-- feedback: Incorrect. Colombia es soberana y el procedimiento es interno (Congreso, Asamblea Constituyente o Referendo). -->
+
+### Explicación Pedagógica
+La rigidez constitucional asegura que los derechos de las minorías y las reglas básicas del juego democrático no sean eliminados fácilmente por un gobierno que logre una mayoría momentánea en el Congreso.

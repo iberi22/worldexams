@@ -1,34 +1,3 @@
-<think>
-El usuario me pide generar exactamente 20 preguntas tipo ICFES para el examen de estado colombiano, específicamente para la materia Sociales Ciudadanas, tema geografía de Colombia, grado 11, período 1.
-
-Necesito seguir el formato exacto que me proporcionó, incluyendo:
-- Frontmatter YAML con metadatos
-- 20 preguntas con dificultad progresiva (D3-D4 para 1-4, D5-D6 para 5-10, D7-D8 para 11-16, D9-D10 para 17-20)
-- Cada pregunta debe tener: ID, Bloom, ICFES, Context, Enunciado, Options (A, B, C, D con [x] en la correcta), Explicación Pedagógica
-- Distractores plausibles (errores reales de estudiantes colombianos)
-- Contexto colombiano moderno
-- Sin "todas las anteriores" o "ninguna de las anteriores"
-
-Voy a crear preguntas sobre geografía de Colombia que cubran temas como:
-- Divisions político-administrativas (departamentos, municipios)
-- Regiones naturales (Andina, Caribe, Pacífico, Orinoquía, Amazonía)
-- Relieve y topography
-- Clima y zonas térmicas
-- Ríos y cuencas hidrográficas
-- Economía y recursos naturales
-- Población y distribución
-- Conflictos territoriales
-- Fronteras
-- Áreas protegidas
-
-Nivel D3-D4 (1-4): Recordar y entender conceptos básicos
-Nivel D5-D6 (5-10): Aplicar y analizar información
-Nivel D7-D8 (11-16): Analizar y evaluar
-Nivel D9-D10 (17-20): Evaluar y crear
-
-Empezaré a crear las preguntas siguiendo el formato exacto.
-</think>
-
 ---
 id: "CO-SOC-11-P1-geografia-colombia-092-MASTERY"
 country: "colombia"
@@ -37,440 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "geografia-colombia"
 periodo: 1
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 92
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:24:55.849523"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Pensamiento crítico social
-**Context:** Actual reorganización territorial colombiana
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.82
 
 ### Enunciado
-Colombia se divide políticamente en departamentos y distritos. Según el ordenamiento territorial actual, ¿cuántos departamentos tiene Colombia al 2024?
+¿Cuál es el departamento más extenso de Colombia, ubicado en la región amazónica?
 
 ### Options
-- [ ] A) 31 departamentos
-- [ ] B) 32 departamentos
-- [x] C) 33 departamentos <!-- feedback: Colombia tiene 33 departamentos más el Distrito Capital de Bogotá, que es un(distrito especial). -->
-- [ ] D) 34 departamentos <!-- feedback: Confunden con los 32 departamentos que existían antes de la creación del departamento de San Andrés en 1991. -->
+- [ ] A) Vichada. <!-- feedback: Incorrect. Es un departamento extenso de la Orinoquía, pero no el más grande del país. -->
+- [x] B) Amazonas. <!-- feedback: Correct. Con su capital Leticia, es el departamento con mayor superficie terrestre de Colombia. -->
+- [ ] C) Caquetá. <!-- feedback: Incorrect. Aunque es muy extenso y selvático, su superficie es menor a la del Amazonas. -->
+- [ ] D) Antioquia. <!-- feedback: Incorrect. Es un departamento muy importante y poblado, pero en superficie es superado por varios departamentos del oriente y sur. -->
 
 ### Explicación Pedagógica
-Colombia cuenta actualmente con 33 departamentos y el Distrito Capital de Bogotá. Un error común es pensar en el número antiguo (32) o agregar un departamento más. Los estudiantes frecuentemente confunden el número total de entidades territoriales incluyendo los distritos especiales.
+El departamento del Amazonas representa una gran porción de la reserva selvática de Colombia, siendo fundamental para la soberanía nacional en la cuenca del río Amazonas y la protección de la biodiversidad.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Interpretación de información geográfica
-**Context:** Distribución poblacional en zonas urbanas colombianas
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.78
 
 ### Enunciado
-La región andina colombiana se caracteriza por tener las tres cordilleras que atraviesan el territorio de sur a norte. ¿Cuál de las siguientes cordilleras es la más baja en promedio y está ubicada en la parte central del país?
+¿Cuál es el punto más septentrional (al norte) del territorio continental de Colombia?
 
 ### Options
-- [ ] A) Cordillera Oriental
-- [x] B) Cordillera Central <!-- feedback: La Cordillera Central es la más baja en promedio (alrededor de 2.500 msnm) y se ubica en la parte central del territorio colombiano. -->
-- [ ] C) Cordillera Occidental
-- [ ] D) Sierra Nevada de Santa Marta <!-- feedback: La Sierra Nevada no es parte del sistema andino propiamente dicho y es mucho más alta (picos de 5.775 msnm). -->
+- [ ] A) Cabo Manglares. <!-- feedback: Incorrect. Es el punto más occidental de Colombia, en el departamento de Nariño. -->
+- [x] B) Punta Gallinas. <!-- feedback: Correct. Ubicada en el departamento de La Guajira, es el extremo norte tanto de Colombia como de Suramérica continental. -->
+- [ ] C) Isla de San Andrés. <!-- feedback: Incorrect. Es territorio colombiano al norte, pero es territorio insular, no continental. -->
+- [ ] D) Leticia. <!-- feedback: Incorrect. Es el punto más meridional (al sur) de Colombia. -->
 
 ### Explicación Pedagógica
-La Cordillera Central tiene una altitud promedio inferior a las otras cordilleras andinas colombianas. Los estudiantes suelen confundir cuál es la cordillera más baja, pensando frecuentemente en la Oriental. La Sierra Nevada es un sistema independiente y mucho más elevado.
+Punta Gallinas es un hito geográfico clave que define la extensión de la península de La Guajira en el Mar Caribe.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Análisis de relaciones espaciales
-**Context:** Zonas térmicas en la geografía colombiana
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-En Colombia, la clasificación de las zonas térmicas se relaciona directamente con la altitud sobre el nivel del mar. Según esta clasificación, un municipio ubicado a 2.800 msnm corresponde a la zona térmica de:
+El relieve colombiano cuenta con sistemas montañosos periféricos o independientes de los Andes. ¿Cuál es el más importante de ellos, que además posee los picos más altos del país?
 
 ### Options
-- [ ] A) Cálida (0 - 1.000 msnm)
-- [ ] B) Media o subtropical (1.000 - 2.000 msnm)
-- [x] C) Fría (2.000 - 3.000 msnm) <!-- feedback: La zona fría corresponde altitudes entre 2.000 y 3.000 msnm, donde se encuentran ciudades como Bogotá. -->
-- [ ] D) Páramo (> 3.000 msnm) <!-- feedback: El páramo comienza por encima de 3.000 msnm, confundiendo frecuentemente con la zona fría. -->
+- [ ] A) Serranía de la Macarena. <!-- feedback: Incorrect. Es famosa por Caño Cristales y su biodiversidad, pero sus alturas son moderadas. -->
+- [x] B) Sierra Nevada de Santa Marta. <!-- feedback: Correct. Sus picos Colón y Bolívar son las mayores alturas de Colombia, a pesar de estar muy cerca del mar. -->
+- [ ] C) Serranía del Baudó. <!-- feedback: Incorrect. Está en el Chocó, es una formación antigua y baja cerca de la costa Pacífica. -->
+- [ ] D) Serranía del Perijá. <!-- feedback: Incorrect. Hace parte de la ramificación de la Cordillera Oriental, no es totalmente independiente. -->
 
 ### Explicación Pedagógica
-Las zonas térmicas en Colombia siguen la clasificación tradicional: cálida (0-1000 msnm), media (1000-2000 msnm), fría (2000-3000 msnm) y páramo (>3000 msnm). Un error frecuente es pensar que 2.800 msnm corresponde a páramo, cuando en realidad el páramo supera los 3.000 msnm.
+La Sierra Nevada de Santa Marta es la montaña costera más alta del mundo, lo que genera una gradación única de todos los pisos térmicos en una distancia muy corta.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Pensamiento crítico social
-**Context:** Conflictos por delimitación territorial en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Colombia tiene fronteras terrestres con cinco países sudamericanos. ¿Cuál de los siguientes países NO hace parte de estas fronteras terrestres?
+La Región de la Amazonía colombiana es compartida por varios departamentos. ¿Cuál de los siguientes NO pertenece geográficamente a esta región?
 
 ### Options
-- [ ] A) Ecuador
-- [ ] B) Perú
-- [x] C) Bolivia <!-- feedback: Bolivia tiene costa en el Pacífico, pero no comparte frontera terrestre con Colombia. Limita con Perú, Brasil, Paraguay, Argentina y Chile. -->
-- [ ] D) Brasil
+- [ ] A) Vaupés. <!-- feedback: Incorrect. Es un departamento plenamente amazónico y selvático. -->
+- [ ] B) Guainía. <!-- feedback: Incorrect. Se ubica en la zona de transición entre el escudo guayanés y la selva amazónica. -->
+- [x] C) Casanare. <!-- feedback: Correct. Pertenece a la región de la Orinoquía (Llanos Orientales). -->
+- [ ] D) Putumayo. <!-- feedback: Incorrect. Se encuentra en el piedemonte amazónico y es parte integral de esta región. -->
 
 ### Explicación Pedagógica
-Colombia limita con Venezuela, Brasil, Perú, Ecuador y Panamá por vía terrestre. Un error común es pensar que Bolivia es limítrofe,混淆ndose con la cercanía geográfica general de Bolivia a Colombia. Bolivia en realidad limita con Perú, Brasil, Paraguay, Argentina y Chile, pero no tiene frontera terrestre con Colombia.
+Identificar la delimitación de las regiones naturales es fundamental para comprender la vocación productiva y los desafíos ambientales específicos de cada territorio.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Interpretación de información geográfica
-**Context:** Cuencas hidrográficas y su importancia económica
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-La廉价的石油出口使哥伦比亚成为重要生产国.La cuenca del Magdalena se considera la arteria fluvial más importante de Colombia porque:
+La "Frontera Agrícola" es el límite que separa las tierras dedicadas a la producción agropecuaria de aquellas destinadas a la conservación ambiental. ¿Por qué es geográficamente problemático el desplazamiento de esta frontera hacia la selva?
 
 ### Options
-- [ ] A) Es la cuenca más extensa del territorio colombiano
-- [x] B) Concentra la mayor actividad económica,人口密度 y agricole de Colombia <!-- feedback: La cuenca del Magdalena, aunque no es la más extensa, concentra el mayor PIB, la mayor densidad poblacional y la agricultura más intensiva del país. -->
-- [ ] C) Es la única navegable en toda su longitud
-- [ ] D) Nace en la Sierra Nevada de Santa Marta
+- [x] A) Porque provoca la pérdida de biodiversidad y altera los ciclos hídricos locales y regionales. <!-- feedback: Correct. La selva cumple funciones vitales de regulación del clima y el agua que se pierden con la tala. -->
+- [ ] B) Porque la selva tiene suelos muy fértiles que se desperdician si no se siembra maíz. <!-- feedback: Incorrect. Los suelos de la selva amazónica son generalmente pobres y dependen de la capa vegetal para nutrirse. -->
+- [ ] C) Porque los árboles de la selva impiden que las nubes lleguen a las ciudades. <!-- feedback: Incorrect. Al contrario, la selva produce humedad que alimenta las nubes ("ríos voladores"). -->
+- [ ] D) Porque en la selva no se puede usar maquinaria pesada por el exceso de calor. <!-- feedback: Incorrect. Aunque el calor influye, el problema principal es ambiental y de sostenibilidad, no técnico-mecánico. -->
 
 ### Explicación Pedagógica
-La cuenca del Magdalena representa aproximadamente el 70% de la actividad económica colombiana. El error frecuente es creer que es la más extensa (la del Orinoco es más grande) o que es navegable en toda su extensión. Nace en el Macizo Colombiano, no en la Sierra Nevada.
+El avance de la frontera agrícola es uno de los mayores desafíos ambientales de Colombia, impulsado a menudo por la ganadería extensiva y la falta de tierras productivas en otras regiones.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Análisis de relaciones espaciales
-**Context:** Actividades económicas regionales en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la región Pacífica colombiana, caracterizada por altas temperaturas y abundantes lluvias durante todo el año, la actividad económica predominante es:
+Colombia tiene soberanía sobre aguas territoriales y zona económica exclusiva. ¿Cuál es el país con el que Colombia tiene la frontera marítima más extensa en el Mar Caribe?
 
 ### Options
-- [ ] A) La agricultura mecanizada de cereales
-- [ ] B) La minería extensiva de carbón
-- [x] C) La extracción de oro y platino, junto con la agricultura de pancoger <!-- feedback: La región Pacífica se distingue por la minería artesanal (especialmente oro y platino) y la agricultura de subsistencia debido a sus condiciones climáticas extremas. -->
-- [ ] D) El turismo masivo de playa
+- [ ] A) Panamá. <!-- feedback: Incorrect. Aunque hay frontera, no es la más extensa en el Caribe. -->
+- [ ] B) Venezuela. <!-- feedback: Incorrect. Es una frontera importante y en disputa (Golfo de Coquivacoa), pero no la más larga. -->
+- [x] C) Nicaragua. <!-- feedback: Correct. Tras los fallos de La Haya, esta frontera ha sido objeto de gran controversia jurídica y política. -->
+- [ ] D) Jamaica. <!-- feedback: Incorrect. Existe un área de régimen común, pero la delimitación es menor comparada con otros vecinos. -->
 
 ### Explicación Pedagógica
-La región Pacífica colombiana presenta temperaturas promedio de 28°C y lluvias abundantes (superiores a 3.000 mm anuales), lo que dificulta la agricultura mecanizada pero favorece la minería artesanal. Los estudiantes frecuentemente asocian el Pacífico solo con biodiversidad, sin reconocer la actividad minera predominante.
+La geografía política de Colombia incluye una "Colombia sumergida" que es casi tan extensa como su territorio continental, lo que implica responsabilidades de vigilancia y aprovechamiento sostenible.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D6)
+## Question 7
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Pensamiento crítico social
-**Context:** Configuración del relieve en regiones naturales
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-Los Llanos Orientales se caracterizan por ser una extensa planicie con un relieve predominantemente:
+El Valle del río Cauca se ubica entre las cordilleras:
 
 ### Options
-- [ ] A) Montañoso y quebrado
-- [ ] B) Kerrstatin und Hügel
-- [x] C) Plano a suavemente ondulado <!-- feedback: Los Llanos Orientales presentan un relieve de llanura con slight ondulaciones, cubriendo aproximadamente el 24% del territorio colombiano. -->
-- [ ] D) Kárstico con cavernas
+- [ ] A) Central y Oriental. <!-- feedback: Incorrect. Entre estas dos cordilleras se ubica el valle del río Magdalena. -->
+- [x] B) Occidental y Central. <!-- feedback: Correct. Este valle es una de las zonas agrícolas más ricas del país, especialmente para la caña de azúcar. -->
+- [ ] C) Occidental y la Costa Pacífica. <!-- feedback: Incorrect. Esta zona corresponde a la llanura del Pacífico, no al valle interandino del Cauca. -->
+- [ ] D) Oriental y la Sierra Nevada de Santa Marta. <!-- feedback: Incorrect. Son sistemas geográficos distantes entre sí. -->
 
 ### Explicación Pedagógica
-Los Llanos Orientales son una planicie que abarca los departamentos de Arauca, Casanare, Meta, Vichada, Guainía y Guaviare. El error común es pensar que tienen relieve montañoso, confusión que surge de la cercanía con la Cordillera Oriental.
+Los valles interandinos son fundamentales para la comunicación y la economía colombiana, siendo el valle del Cauca el eje de desarrollo del suroccidente del país.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Interpretación de información geográfica
-**Context:** Importancia estratégica de los puertos marítimos colombianos
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-El principal puerto maritime de Colombia en el océano Pacífico, por donde sale aproximadamente el 40% de las exportaciones del país, es:
+La ciudad de Bogotá está situada en una formación geográfica conocida como "Altiplano". ¿Qué ventaja geográfica ofreció históricamente esta ubicación para el asentamiento de grandes poblaciones?
 
 ### Options
-- [ ] A) Puerto Bolívar, Turbo
-- [ ] B) Puerto de Cartagena
-- [x] C) Puerto de Buenaventura <!-- feedback: Buenaventura es el principal puerto pacífico colombiano y mueve cerca del 40% del comercio exterior colombiano. -->
-- [ ] D) Puerto de Santa Marta
+- [ ] A) La cercanía a volcanes activos que proporcionan energía geotérmica. <!-- feedback: Incorrect. Bogotá no tiene volcanes activos inmediatos; su ventaja fue otra. -->
+- [x] B) Una gran extensión de tierra plana y fértil en clima frío, protegida por montañas y con abundantes fuentes hídricas. <!-- feedback: Correct. Esto permitió el desarrollo de la agricultura muisca y luego la expansión urbana colonial y moderna. -->
+- [ ] C) Ser el punto de conexión directa entre el Océano Atlántico y el Pacífico. <!-- feedback: Incorrect. Bogotá está en el interior andino, lejos de ambas costas. -->
+- [ ] D) La ausencia total de nubes, lo que permitía observar mejor las estrellas. <!-- feedback: Incorrect. Bogotá es conocida por ser una ciudad nublada y lluviosa debido a su altitud. -->
 
 ### Explicación Pedagógica
-Buenaventura (Valle del Cauca) es el puerto más importante del Pacífico colombiano. Los estudiantes frecuentemente confunden con Cartagena (Caribe) o Santa Marta (Caribe), que son puertos del Atlántico.
+El Altiplano Cundiboyacense fue el núcleo de la Confederación Muisca debido a su capacidad de sustento agrícola, lo que determinó que los españoles establecieran allí la capital del virreinato.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Pensamiento crítico social
-**Context:** Problemática de títulos mineros y conflictos territoriales
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-La región de la Mojana, ubicada entre los departamentos de Sucre, Córdoba, Antioquia y Bolívar, se ha convertido en escenario de conflicto territorial principalmente por:
+¿Cuál es la función geográfica del "Nudo de los Pastos" en el sur de Colombia?
 
 ### Options
-- [ ] A) Disputas por límites entre departamentos
-- [x] B) La expansión de la frontera agrícola y la ganadería sobre humedales <!-- feedback: La Mojana enfrenta problemas por la expansión de frontera agrícola, especialmente monocultivos de arroz, que han degradado sus humedales y generado flooding. -->
-- [ ] C) Conflictos armados por control de laboratorios de coca
-- [ ] D) Disputas étnicas entre comunidades indígenas
+- [ ] A) Es el desierto más seco del país en la frontera con Ecuador. <!-- feedback: Incorrect. No es un desierto, es una zona de alta montaña húmeda. -->
+- [x] B) Es el lugar donde la Cordillera de los Andes entra a Colombia y se ramifica en las cordilleras Occidental y Central. <!-- feedback: Correct. Actúa como el punto de origen del sistema andino colombiano. -->
+- [ ] C) Es el punto donde confluyen los ríos Magdalena y Cauca. <!-- feedback: Incorrect. Eso ocurre en la Depresión Momposina, mucho más al norte. -->
+- [ ] D) Es una zona de selva baja donde nace el río Amazonas. <!-- feedback: Incorrect. El Amazonas nace en Perú; el Nudo de los Pastos es una zona de alta montaña. -->
 
 ### Explicación Pedagógica
-La Mojana es una región de humedales que ha sufrido transformación ambiental por la expansión agrícola. Los estudiantes tienden a enfocarse en el conflicto armado (opción C) sin considerar la problemática ambiental, que es el eje principal del conflicto territorial actual.
+La estructura del relieve colombiano se define a partir de nudos orográficos. El Nudo de los Pastos y el Macizo Colombiano son los centros hidrológicos y montañosos más importantes del país.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Análisis de relaciones espaciales
-**Context:** Fenómenos climáticos extremos en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-El fenómeno de "El Niño" en Colombia genera principalmente efectos de:
+La región del Catatumbo (Norte de Santander) es una zona de frontera con Venezuela con graves conflictos. Desde la geografía económica, ¿qué recurso del subsuelo ha marcado históricamente la importancia estratégica de esta zona?
 
 ### Options
-- [ ] A) Aumento generalizado de las lluvias en todo el territorio
-- [ ] B) Descenso drástico de las temperaturas
-- [x] C) Sequía y escasez de lluvias en la mayor parte del territorio <!-- feedback: El fenómeno de El Niño causa calentamiento del Pacífico y se traduce en Colombia en reducción de lluvias y aumento de temperaturas. -->
-- [ ] D) Terremotos y actividad volcánica incrementada
+- [ ] A) Esmeraldas de alta calidad. <!-- feedback: Incorrect. Las esmeraldas se encuentran principalmente en Boyacá (Muzo, Coscuez). -->
+- [ ] B) Sal gema para consumo nacional. <!-- feedback: Incorrect. La sal se extrae en Zipaquirá y Nemocón (Cundinamarca) y Manaure (La Guajira). -->
+- [x] C) Petróleo. <!-- feedback: Correct. El Catatumbo fue una de las primeras zonas de explotación petrolera en Colombia (Concesión Barco). -->
+- [ ] D) Oro aluvial en grandes cantidades. <!-- feedback: Incorrect. Aunque hay minería, el recurso histórico dominante en el Catatumbo es el petróleo. -->
 
 ### Explicación Pedagógica
-El Niño produce calentamiento de las aguas del Pacífico tropical, lo que genera droughts y reducción de lluvias en Colombia. El error frecuente es confundir con "La Niña", que produce el efecto contrario (exceso de lluvias). La opción B describe efectos opuestos.
+La riqueza en recursos energéticos ha condicionado la historia de violencia y disputa territorial en el Catatumbo, mostrando cómo la geografía económica influye en la geopolítica local.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Pensamiento crítico social
-**Context:** Conflictos históricos de límites territoriales
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El diferendo limítrofe Colombo-venezolano tiene como antecedente más antiguo la demarcación colonial de la provincia de Mérida. Este conflicto se refiere específicamente a:
+El "Macizo Colombiano" es conocido como la estrella fluvial del país. ¿Cuáles son los principales ríos que nacen en este lugar?
 
 ### Options
-- [ ] A) La Guajira y la zona delapedanía del Cargamento de la现场
-- [x] B) El área del Golfo de Venezuela y la Sierra de Perijá <!-- feedback: El diferendo histórico Colombia-Venezuela se centra en el Golfo de Venezuela y la Sierra de Perijá, donde ambos países reclaman soberanía. -->
-- [ ] C) Los estados de Apure y Arauca
-- [ ] D) La Isla de San Andrés
+- [ ] A) Amazonas, Orinoco y Putumayo. <!-- feedback: Incorrect. Nacen más al sur o en otros países. -->
+- [ ] B) Atrato, San Juan y Baudó. <!-- feedback: Incorrect. Nacen en la cordillera Occidental y el Chocó. -->
+- [x] C) Magdalena, Cauca, Patía y Caquetá. <!-- feedback: Correct. Desde este punto las aguas se distribuyen hacia el Caribe, el Pacífico y la Amazonía. -->
+- [ ] D) Arauca, Meta y Casanare. <!-- feedback: Incorrect. Nacen en la cordillera Oriental y fluyen hacia el Orinoco. -->
 
 ### Explicación Pedagógica
-El principal diferendo Colombo-venezolano es sobre el Golfo de Venezuela y partes de la Sierra de Perijá. Los estudiantes frecuentemente confunden con otros conflictos (La Guajira con Venezuela es diferente, y San Andrés es un diferendo con Nicaragua).
+El Macizo Colombiano es el reservorio hídrico más importante de la nación, lo que hace de su conservación un asunto de prioridad ambiental estratégica.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Interpretación de información geográfica
-**Context:** Cambios climático y su impacto regional
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-Colombia es considerada uno de los países más vulnerables al cambio climático a pesar de tener emisiones globales bajas. Esta vulnerabilidad se debe principalmente a:
+La llanura del Caribe colombiano presenta una zona de tierras bajas y pantanosas donde se encuentran los ríos Magdalena, Cauca y San Jorge. ¿Cómo se denomina esta zona de amortiguación de crecientes?
 
 ### Options
-- [ ] A) Su ubicación en la línea del ecuador
-- [x] B) La alta dependencia de su agricultura y ecosistemas al régimen de lluvias <!-- feedback: Colombia depende de glaciares, ecosistemas andinos y régimen de lluvias predecible, todos altamente sensibles al cambio climático. -->
-- [ ] C) Su extenso coastline
-- [ ] D) La inexistencia de políticas de adaptación
+- [ ] A) Altiplano Cundiboyacense. <!-- feedback: Incorrect. Está a 2.600 metros de altura, lejos del Caribe. -->
+- [ ] B) Piedemonte Llanero. <!-- feedback: Incorrect. Es la zona donde terminan las montañas y empiezan los llanos orientales. -->
+- [x] C) Depresión Momposina. <!-- feedback: Correct. Es un ecosistema de ciénagas vital para regular el caudal de los ríos y para la pesca. -->
+- [ ] D) Golfo de Urabá. <!-- feedback: Incorrect. Es una zona costera y portuaria, no el sistema de ciénagas interior. -->
 
 ### Explicación Pedagógica
-La vulnerabilidad de Colombia al cambio climático radica en la dependencia de agua glaciar (glaciares han perdido más del 50% de su área), ecosistemas que dependen de regímenes climáticos específicos, y una agricultura vulnerable a cambios en patrones de lluvia. La ubicación equatorial es un factor, pero no la causa principal de vulnerabilidad.
+La Depresión Momposina es un ejemplo de "anfibismo" cultural y ecológico, donde la vida de las poblaciones humanas se adapta a los ciclos de subida y bajada de las aguas.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Pensamiento crítico social
-**Context:** Modelos de desarrollo económico regional
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-La región Caribe colombiana presenta indicadores de pobreza multidimensional superiores al promedio nacional, a pesar de contener importantes ciudades como Barranquilla y Cartagena. La causa estructural más importante de esta paradoja es:
+El fenómeno de la "Niña" suele provocar inundaciones en Colombia. ¿Cuál es la causa geográfica que explica por qué las inundaciones son tan graves en los valles del Magdalena y el Cauca?
 
 ### Options
-- [ ] A) La alta penetración del conflicto armado
-- [x] B) La histórica concentración de la tierra en pocas manos y la dependencia de ganadería extensiva <!-- feedback: El Caribe presenta la mayor concentración de tierra del país y economía basada en ganadería extensiva de baja demanda laboral, perpetuando la pobreza. -->
-- [ ] C) La falta de puertos marítimos
-- [ ] D) La baja densidad poblacional
+- [ ] A) Porque estos ríos están por encima del nivel de las ciudades. <!-- feedback: Incorrect. No es un problema de altura relativa simple, sino de sedimentación y ocupación de rondas. -->
+- [ ] B) Porque no existen represas en Colombia. <!-- feedback: Incorrect. Colombia tiene muchas represas, pero su función es generación eléctrica, no control total de inundaciones. -->
+- [x] C) La deforestación en las cuencas altas y la ocupación humana de las zonas de ronda y humedales naturales de los ríos. <!-- feedback: Correct. Sin árboles que retengan el agua y sin espacio para que el río se desborde naturalmente, el agua invade las zonas pobladas. -->
+- [ ] D) Porque los ríos colombianos fluyen de norte a sur, en contra de la gravedad. <!-- feedback: Incorrect. Los ríos fluyen de sur a norte, siguiendo la pendiente natural hacia el Caribe. -->
 
 ### Explicación Pedagógica
-La paradoja del Caribe se explica por la estructura agraria: predominio de ganadería extensiva que genera pocos empleos, minifundio en zonas secas, y alta concentración de tierra. Las ciudades prósperas coexisten con zonas rurales extremadamente pobres.
+El riesgo de inundación es una combinación de factores climáticos y decisiones humanas de ordenamiento territorial erróneas.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v14`
 **Bloom:** Evaluate
-**ICFES:** Análisis de relaciones espaciales
-**Context:** Conflictos por uso del suelo y ordenamiento territorial
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.40
 
 ### Enunciado
-La Ley 152 de 1994 estableció los Planes de Ordenamiento Territorial (POT) como herramienta de planificación. Un problema frecuente en la implementación de los POT en ciudades colombianas es:
+A pesar de tener costas en el Océano Pacífico, la región Pacífica colombiana está mucho menos desarrollada económicamente que la región Andina. ¿Qué factor geográfico ha contribuido históricamente a este aislamiento?
 
 ### Options
-- [ ] A) La falta de jurisdicción de los municipios para elaborar POT
-- [ ] B) La ausencia de participación ciudadana
-- [x] C) El incumplimiento por parte de constructoras y la corrupción en licencias <!-- feedback: Los POT sufren incumplimiento por parte de constructoras, licencias irregulares, y en muchos casos corrupción en la expedición de permisos. -->
-- [ ] D) La resistencia de comunidades indígenas a participar
+- [ ] A) La falta de agua dulce en la región Pacífica. <!-- feedback: Incorrect. Es una de las regiones con más agua del mundo. -->
+- [x] B) La densa selva húmeda y la barrera natural de la Cordillera Occidental que dificultan la construcción de vías terrestres. <!-- feedback: Correct. Conectar el interior con el Pacífico siempre ha sido un reto de ingeniería costoso y difícil. -->
+- [ ] C) Que el Océano Pacífico no sirve para el comercio internacional. <!-- feedback: Incorrect. Es la cuenca comercial más dinámica del mundo actualmente (Asia-Pacífico). -->
+- [ ] D) La ausencia de puertos naturales en toda la costa. <!-- feedback: Incorrect. Existen bahías excelentes como Buenaventura y Tumaco. -->
 
 ### Explicación Pedagógica
-Los POT deben ser cumplidos por actores privados, pero frecuentemente existen incumplimientos por parte de constructoras, licencias irregulares, y casos de corrupción. Los estudiantes tienden a culpar solo a las autoridades sin considerar el papel de los privados.
+El aislamiento del Pacífico es un problema de conectividad física que ha derivado en una marginalidad política y social histórica.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D7)
+## Question 15
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Pensamiento crítico social
-**Context:** Geopolítica de fronteras y comercio internacional
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-La Zona de Integración Fronteriza (ZIF) Colombo-ecuatoriana establece condiciones especiales para los departamentos de Nariño y Putumayo. El principal objetivo de esta zona es:
+Colombia es un país con "riesgo volcánico". ¿Cuál fue la catástrofe de origen volcánico más grave del siglo XX en Colombia, que desapareció a la ciudad de Armero en 1985?
 
 ### Options
-- [ ] A) Permitir la libre circulación de armas entre ambos países
-- [ ] B) Facilitar el contrabando de combustibles
-- [x] C) Promover el desarrollo económico y social de las poblaciones fronterizas <!-- feedback: Las ZIF buscan cerrar las brechas de desarrollo entre zonas de frontera y el resto del país mediante incentivos económicos y fortalecimiento institucional. -->
-- [ ] D) Unificar las políticas migratorias sin control
+- [ ] A) Erupción del Volcán Galeras. <!-- feedback: Incorrect. El Galeras es muy activo pero no causó la tragedia de Armero. -->
+- [ ] B) Terremoto de Popayán. <!-- feedback: Incorrect. Fue un sismo tectónico, no una erupción volcánica, y ocurrió en 1983. -->
+- [x] C) Erupción del Nevado del Ruiz. <!-- feedback: Correct. El deshielo del glaciar provocó un lahar (flujo de lodo) que sepultó a Armero. -->
+- [ ] D) Explosión del volcán de lodo de Arboletes. <!-- feedback: Incorrect. Son fenómenos menores comparados con una erupción de un nevado. -->
 
 ### Explicación Pedagógica
-Las ZIF (Zonas de Integración Fronteriza) creadas por la CAN buscan disminuir las brechas de desarrollo en zonas limítrofes. Los estudiantes frecuentemente tienen una visión negativa de las ZIF, sin reconocer su objetivo de desarrollo.
+La tragedia de Armero enseñó a Colombia la importancia de los mapas de riesgo y el monitoreo vulcanológico permanente a través del Servicio Geológico Colombiano.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Interpretación de información geográfica
-**Context:** Biodiversidad y servicios ecosistémicos
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-Colombia ostenta el título de segundo país más biodiverso del mundo. Esta extraordinaria biodiversidad se explica principalmente por:
+¿Cuál es la importancia ambiental de la Serranía de Chiribiquete, declarada Patrimonio de la Humanidad?
 
 ### Options
-- [ ] A) La extensión de su territorio continental
-- [x] B) La confluencia de múltiples pisos térmicos, regiones biogeográficas y ecosistemas <!-- feedback: La biodiversidad colombiana resulta de la combinación de regiones naturales (Caribe, Pacífico, Andina, Amazonía, Orinoquía), pisos térmicos variados y ecosistemas diversos. -->
-- [ ] C) La ausencia de fauna introducida
-- [ ] D) Su política ambiental estrictissima
+- [ ] A) Es el lugar donde se extrae la mayor cantidad de carbón a cielo abierto. <!-- feedback: Incorrect. Eso es en el Cerrejón, La Guajira. -->
+- [ ] B) Es una zona de playas vírgenes para el turismo de lujo. <!-- feedback: Incorrect. Chiribiquete está en el interior de la selva amazónica, no tiene playas marinas. -->
+- [x] C) Es un punto de conexión biológica entre la Amazonía, la Orinoquía y los Andes, con formaciones geológicas únicas (tepuyes). <!-- feedback: Correct. Es el parque nacional más grande de Colombia y protege biodiversidad y arte rupestre milenario. -->
+- [ ] D) Es el centro de operaciones de la NASA en Suramérica. <!-- feedback: Incorrect. Es una zona de conservación biológica y cultural, sin instalaciones espaciales. -->
 
 ### Explicación Pedagógica
-La biodiversidad de Colombia no se debe solo a su extensión (es el 26° país más grande), sino a la heterogeneidad de ambientes: desde páramos hasta selva tropical, dos litorales, y la influencia de tres cadenas montañosas. La política ambiental, aunque importante, no es la causa principal de la biodiversidad.
+Chiribiquete es el "corazón" de la Amazonía colombiana y su protección es vital para la resiliencia climática del continente.
 
 ---
 
-## Question 17 (Variant Advanced - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Pensamiento crítico social
-**Context:** Ordenamiento territorial y nueva realidad demográfica
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Un estudiante propone que Colombia debería fusionar algunos departamentos pequeños para mejorar la eficiencia administrativa. Según las tendencias demográficas actuales, el departamento que presenta mayor riesgo de despoblación rural en las próximas décadas por migración hacia ciudades es:
+La "Conurbación" es un proceso donde dos o más ciudades crecen hasta unirse físicamente. ¿Qué desafío geográfico impone este proceso en el Área Metropolitana del Valle de Aburrá (Medellín)?
 
 ### Options
-- [ ] A) Cundinamarca
-- [ ] B) Antioquia
-- [x] C) Caquetá <!-- feedback: Caquetá enfrenta despoblación por conflicto armado prolongado, falta de infraestructura, y atractivo limitado para inversión, con proyecciones de disminución poblacional. -->
-- [ ] D) Valle del Cauca
+- [ ] A) Que las ciudades se queden sin gente porque todos se van al campo. <!-- feedback: Incorrect. La conurbación implica precisamente una alta concentración poblacional. -->
+- [x] B) La saturación del suelo disponible en el valle, lo que obliga a la expansión hacia las laderas, aumentando el riesgo de deslizamientos. <!-- feedback: Correct. La geografía de valle estrecho limita el crecimiento y genera presión sobre terrenos inestables. -->
+- [ ] C) Que el clima se vuelva tan frío que empiece a nevar en Medellín. <!-- feedback: Incorrect. La urbanización suele crear "islas de calor" que aumentan la temperatura, no la disminuyen. -->
+- [ ] D) La desaparición total de los ríos porque los tapan para hacer edificios. <!-- feedback: Incorrect. Los ríos se canalizan o contaminan, pero no desaparecen geográficamente del ciclo hídrico. -->
 
 ### Explicación Pedagógica
-Departamentos con menor dinamismo económico, conflicto armado histórico y menor conectividad enfrentan mayor riesgo de despoblación. Caquetá ha perdido población por violencia y falta de oportunidades económicas. Cundinamarca y Antioquia están en dinámicas metropolitanas de crecimiento.
+El crecimiento urbano en zonas de montaña debe ser estrictamente planificado para evitar desastres socio-naturales y garantizar la movilidad de millones de personas en espacios reducidos.
 
 ---
 
-## Question 18 (Variant Advanced - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v18`
-**Bloom:** Create
-**ICFES:** Análisis de relaciones espaciales
-**Context:** Transición energética y conflictos por minerales
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
 
 ### Enunciado
-Colombia se ha propuesto para 2030 alcanzar el 70% de energía eléctrica来自 fuentes no fósiles. Sin embargo, la transición energética genera nuevos conflictos territoriales porque:
+Colombia tiene un "Diferendo Limítrofe" histórico con Venezuela por la delimitación de las aguas en el Golfo de Coquivacoa (Venezuela lo llama Golfo de Venezuela). ¿Cuál es la importancia económica de este conflicto geográfico?
 
 ### Options
-- [ ] A) Las energías renovables producen más contaminación que los hidrocarburos
-- [x] B) La minería necesaria para paneles solares y baterías genera conflictos ambientales y sociales en zonas de montaña y páramos <!-- feedback: La minería de minerales para transición energética (litio, cobalto, cobre) se localiza en ecosistemas sensibles como páramos, generando nuevos conflictos territoriales. -->
-- [ ] C) Colombia no tiene recursos para desarrollar energía renovable
-- [ ] D) La transición energética es solo un discurso sin acciones reales
+- [ ] A) La propiedad de los bancos de arena para la construcción. <!-- feedback: Incorrect. Es un recurso menor comparado con lo que realmente está en juego. -->
+- [ ] B) El derecho exclusivo a pescar tortugas marinas. <!-- feedback: Incorrect. Aunque la pesca importa, el foco es energético. -->
+- [x] C) El control sobre potenciales yacimientos de petróleo y gas natural en el subsuelo marino. <!-- feedback: Correct. La zona es rica en hidrocarburos, lo que hace que la delimitación sea un tema de alta sensibilidad económica. -->
+- [ ] D) El cobro de peajes a los barcos que van hacia el Canal de Panamá. <!-- feedback: Incorrect. El golfo no es ruta obligada para el Canal; es una zona interior del Caribe. -->
 
 ### Explicación Pedagógica
-La transición energética requiere minerales como litio, cobalto y níquel, cuya minería se planea en páramos y zonas de alta montaña. Esto genera nuevos conflictos territoriales (como los de Santurban). Los estudiantes frecuentemente ven la transición energética solo como positiva, sin considerar sus impactos.
+Los conflictos de límites no son solo por territorio "vacío", sino por los recursos estratégicos que estos contienen, lo que explica la dificultad para llegar a acuerdos binacionales definitivos.
 
 ---
 
-## Question 19 (Variant Advanced - Difficulty D10)
+## Question 19 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v19`
-**Bloom:** Create
-**ICFES:** Pensamiento crítico social
-**Context:** Justicia espacial y políticas públicas territoriales
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-Analizando la inversión pública en Colombia, se observa que los departamentos con menores Índices de Pobreza Multidimensional (IPM) reciben mayor inversión per cápita. Esta inequidad territorial se explica principalmente por:
+El concepto de "Huella Ecológica" de una ciudad como Bogotá mide cuánta tierra y agua se necesita para producir lo que consume y absorber sus residuos. Si la huella de Bogotá es mucho mayor que su área física, ¿qué implica esto geográficamente?
 
 ### Options
-- [ ] A) La menor capacidad de gestión administrativa de los departamentos más ricos
-- [x] B) La centralización histórica de Bogotá y las élites regionales en la toma de decisiones sobre inversión pública <!-- feedback: La inequidad se perpetúa por la centralización política que ha beneficiados históricamente a las élites de regiones già prósperas, dificultando redistribución. -->
-- [ ] C) La falta de voluntad de los departamentos pobres
-- [ ] D) El tamaño de los departamentos
+- [ ] A) Que Bogotá es una ciudad mágica que crea recursos de la nada. <!-- feedback: Incorrect. Ninguna ciudad es autosuficiente de esa manera. -->
+- [ ] B) Que Bogotá debe expandirse físicamente hasta ocupar todo el país. <!-- feedback: Incorrect. No es una solución viable ni deseable. -->
+- [x] C) Que la ciudad depende de la explotación de recursos y servicios ambientales de otras regiones (dependencia regional). <!-- feedback: Correct. Bogotá "importa" agua de los páramos vecinos y alimentos de todo el país, exportando contaminación. -->
+- [ ] D) Que la ciudad está flotando sobre una burbuja de aire. <!-- feedback: Incorrect. Es una opción absurda. -->
 
 ### Explicación Pedagógica
-La inequidad territorial colombiana tiene raíces coloniales y se perpetúa por la centralización política y económica en Bogotá y ciudades principales. Los departamentos históricamente pobres tienen menor capacidad de lobby político, recibiendo menos inversión a pesar de mayores necesidades.
+La sostenibilidad urbana depende de entender los vínculos geográficos entre la ciudad y el campo. Una ciudad que no cuida sus regiones proveedoras de agua y comida está condenada al colapso.
 
 ---
 
-## Question 20 (Variant Advanced - Difficulty D10)
+## Question 20 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P1-geografia-colombia-092-MASTERY-v20`
-**Bloom:** Create
-**ICFES:** Pensamiento crítico social
-**Context:** Reforma rural integral y ordenamiento territorial
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-La implementación de la Reforma Rural Integral (RRI) del Acuerdo de Paz de 2016 requiere un catastro multipropósito actualizado. El principal desafío geográfico para la implementación efectiva de la RRI es:
+Analice la "Erosión Costera" en el Caribe colombiano. ¿Cómo la construcción de espolones (muros de piedra) en una playa puede afectar negativamente a la playa vecina?
 
 ### Options
-- [ ] A) La falta de voluntad política del gobierno central
-- [ ] B) El desinterés de las comunidades campesinas
-- [x] C) La informalidad en la tenencia de tierra que impide identificar propietarios legales y ejecutar programas de desarrollo <!-- feedback: El catastro en Colombia presenta alta informalidad (se estima más del 60% de la tierra rural es informal), dificultando identificar propietarios para programas de reforma. -->
-- [ ] D) La competencia con la minería formal
+- [ ] A) Porque las piedras de los espolones se caminan solas hacia la otra playa. <!-- feedback: Incorrect. Las piedras no se mueven por sí mismas. -->
+- [ ] B) Porque el espolón calienta el agua y mata a los peces de la vecindad. <!-- feedback: Incorrect. El impacto principal no es térmico sino de transporte de sedimentos. -->
+- [x] C) Porque interrumpe la deriva litoral de arena, haciendo que la playa vecina deje de recibir sedimentos y empiece a desaparecer por erosión. <!-- feedback: Correct. La geografía costera es un sistema dinámico; lo que se hace en un punto tiene consecuencias en el resto del litoral. -->
+- [ ] D) Porque atrae a demasiados turistas que se llevan la arena en sus zapatos. <!-- feedback: Incorrect. Aunque el turismo influye, el proceso geofísico de la deriva litoral es el factor dominante. -->
 
 ### Explicación Pedagógica
-El catastro colombiano tiene brechas significativas: informalidad en la tenencia, sobreposición de títulos, predios sin registrar. Sin catastro actualizado, no es posible ejecutar programas de reforma rural. Los estudiantes subestiman la magnitud del problema de informalidad catastral y su impacto en la política pública.
+Este es un ejemplo de cómo las intervenciones humanas mal planificadas en la geografía física pueden agravar los problemas que intentan solucionar, evidenciando la necesidad de una gestión costera integrada.

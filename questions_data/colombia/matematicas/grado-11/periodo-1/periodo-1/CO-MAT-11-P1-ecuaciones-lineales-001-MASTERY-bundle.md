@@ -10,10 +10,35 @@ bundle_size: 20
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 quality_status: "PENDING_HUMAN"
 generation_status: "RAW"
+needs_human_review: true
 license: "CC BY-NC-SA 4.0"
 
+# REVIEW METADATA
+review:
+  agent: "curation-agent"
+  timestamp: "2026-04-04T02:16:20.460Z"
+  quality_score: 71
+  decision: "NEEDS_HUMAN"
+  errors: ["Expected 20 questions, found 0"]
+  warnings: []
 
+# REVIEW METADATA
+review:
+  agent: "curation-agent"
+  timestamp: "2026-04-04T02:16:42.294Z"
+  quality_score: 71
+  decision: "NEEDS_HUMAN"
+  errors: ["Expected 20 questions, found 0"]
+  warnings: []
 
+# REVIEW METADATA
+review:
+  agent: "curation-agent"
+  timestamp: "2026-04-04T02:17:13.425Z"
+  quality_score: 71
+  decision: "NEEDS_HUMAN"
+  errors: ["Expected 20 questions, found 0"]
+  warnings: []
 ---
 
 # MASTERY Bundle — Ecuaciones Lineales (001/002)

@@ -14,6 +14,7 @@ generation:
   timestamp: "2026-04-03T21:15:00.000Z"
 quality_status: "REVIEWED"
 generation_status: "CURATED"
+needs_human_review: false
 curation:
   human_review_required: false
   agent_curated: true
@@ -298,3 +299,4 @@ D) A las 10 PM
 - [x] MCER levels A-, A1, A2 respected
 - [x] Text types: emails, notes, announcements, short paragraphs
 - [x] Skills: main idea, explicit info, simple inference, vocabulary in context
+- [x] Needs human review: true
