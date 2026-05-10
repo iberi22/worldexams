@@ -1,5 +1,9 @@
 ---
 id: "CO-CN-11-P1-fisica-cinematica-002-MASTERY"
+country: "colombia"
+grado: 11
+asignatura: "ciencias-naturales"
+tema: "fisica-cinematica"
 protocol_version: "5.0"
 alignment: "ICFES Saber 11 / Marcos Técnicos"
 periodo: 1
