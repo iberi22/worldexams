@@ -1,29 +1,3 @@
-<think>
-The user wants me to generate 20 ICFES-style multiple choice questions for Colombian Sciences Naturales (Natural Sciences) about waves and sound, for grade 11, period 3. I need to follow the exact format specified with YAML frontmatter and then 20 questions with progressive difficulty.
-
-Let me generate these questions with proper difficulty progression:
-- Questions 1-4: Difficulty D3-D4 (Remember, Understand)
-- Questions 5-10: Difficulty D5-D6 (Apply, Analyze)
-- Questions 11-16: Difficulty D7-D8 (Analyze, Evaluate)
-- Questions 17-20: Difficulty D9-D10 (Evaluate, Create)
-
-The questions should be in Spanish, aligned with ICFES Saber 11 style, with Colombian contexts, covering waves and sound topics.
-
-Wave and sound topics to cover:
-- Wave properties (wavelength, frequency, period, amplitude)
-- Wave types (mechanical/electromagnetic, longitudinal/transverse)
-- Sound properties (intensity, pitch, timbre)
-- Sound propagation (speed in different media)
-- Reflection, refraction, diffraction
-- Doppler effect
-- Standing waves
-- Sound intensity and decibels
-- Ultrasound applications in Colombia
-
-Let me create these 20 questions now.
-</think>
-
-```yaml
 ---
 id: "CO-CIE-11-P3-ondas-sonido-075-MASTERY"
 country: "colombia"
@@ -34,396 +8,390 @@ periodo: 3
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 75
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:27:34.964221"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
-```
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Identifico características del movimiento ondulatorio
-**Context:** Fenómenos cotidianos en entornos colombianos
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En una playa del Caribe colombiano, un turista observa las olas del mar acercándose a la orilla con un patrón repetitivo. Si la distancia entre dos crestas sucesivas de ola es de 4 metros y en un minuto pasan 30 crestas por un punto fijo, ¿cuál es la frecuencia y la longitud de onda de estas olas?
+Cuando una piedra cae en un estanque de agua tranquila en un parque de Medellín, se generan ondas circulares que se alejan del punto de impacto. ¿Qué es lo que realmente se desplaza a través del estanque?
 
-### Options
-- [ ] A) Frecuencia = 0,5 Hz; Longitud de onda = 4 m
-- [ ] B) Frecuencia = 30 Hz; Longitud de onda = 4 m
-- [x] C) Frecuencia = 0,5 Hz; Longitud de onda = 4 m <!-- feedback: Frecuencia = 30 crestas/minuto = 0,5 Hz (30/60). La distancia entre crestas es por definición la longitud de onda = 4 m. -->
-- [ ] D) Frecuencia = 0,5 Hz; Longitud de onda = 2 m <!-- feedback: La longitud de onda es directamente la distancia entre crestas sucesivas, no la mitad. -->
+- [ ] A) Las moléculas de agua desde el centro hacia las orillas. <!-- feedback: Incorrect. Las partículas de agua solo oscilan alrededor de su posición de equilibrio; no viajan con la onda. -->
+- [x] B) La energía mecánica generada por el impacto de la piedra. <!-- feedback: Correct. Una onda es una perturbación que transporta energía a través de un medio sin transporte neto de materia. -->
+- [ ] C) El aire atrapado bajo la superficie del agua. <!-- feedback: Incorrect. El aire puede generar burbujas, pero la onda superficial es un fenómeno del medio líquido. -->
+- [ ] D) La masa de la piedra convertida en movimiento líquido. <!-- feedback: Incorrect. La masa de la piedra se hunde; solo su energía cinética se transfiere al agua para formar la onda. -->
 
 ### Explicación Pedagógica
-La frecuencia se calcula dividiendo el número de eventos (crestas) entre el tiempo en segundos: 30/60 = 0,5 Hz. La longitud de onda (λ) es por definición la distancia entre dos puntos consecutivos en fase, como crestas sucesivas, que es 4 m. Un error común es confundir la mitad de la distancia entre crestas con la longitud de onda completa.
+Fundamentalmente, las ondas son transportadoras de energía, no de materia. Las partículas del medio realizan movimientos oscilatorios, pero permanecen en su ubicación general después de que la onda pasa.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Reconozco tipos de ondas en situaciones reales
-**Context:** Comunicación y tecnología en Colombia
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En un experimento de laboratorio en Bogotá, un estudiante分类ifica diferentes fenómenos ondulatorios. Relaciona correctamente: Onda de radio FM (1), Onda de sonido en el aire (2), Onda de luz visible (3), Onda sísmica en la corteza (4). ¿Cuál de las siguientes opciones presenta correctamente las ondas clasificadas como mecánica y electromagnética?
+El sonido es una onda mecánica longitudinal. Esto significa que para propagarse requiere un medio material y que las partículas de dicho medio:
 
-### Options
-- [ ] A) Mecánica: 1 y 2; Electromagnética: 3 y 4
-- [ ] B) Mecánica: 2 y 4; Electromagnética: 1 y 3 <!-- feedback: Correcto. Las ondas de sonido son mecánicas (requieren medio material) y las ondas de radio FM y luz visible son electromagnéticas. -->
-- [x] C) Mecánica: 2 y 4; Electromagnética: 1 y 3 <!-- feedback: Las ondas sonoras y sísmicas requieren medio material para propagarse (mecánicas), mientras que las ondas de radio y luz no lo requieren (electromagnéticas). -->
-- [ ] D) Mecánica: 1 y 3; Electromagnética: 2 y 4
+- [ ] A) Se desplazan en dirección perpendicular a la propagación de la onda. <!-- feedback: Incorrect. Eso describiría una onda transversal, como la luz o las ondas en una cuerda. -->
+- [x] B) Oscilan en la misma dirección en que viaja la energía sonora. <!-- feedback: Correct. En las ondas longitudinales, las vibraciones (compresiones y rarefacciones) ocurren paralelamente a la dirección de propagación. -->
+- [ ] C) Giran en círculos mientras la onda avanza en línea recta. <!-- feedback: Incorrect. Este movimiento es típico de las ondas superficiales en el agua, pero no del sonido en el aire. -->
+- [ ] D) Permanecen inmóviles mientras la energía fluye entre ellas por magnetismo. <!-- feedback: Incorrect. El sonido requiere el choque físico y la oscilación de las partículas del medio. -->
 
 ### Explicación Pedagógica
-Las ondas mecánicas necesitan un medio material para propagarse (sonido requiere aire, las ondas sísmicas requieren la Tierra). Las ondas electromagnéticas pueden viajar en el vacío (ondas de radio y luz). Confundir ambos tipos es un error frecuente.
+La distinción entre ondas longitudinales y transversales se basa en la orientación de la oscilación respecto al desplazamiento de la energía. El sonido se propaga mediante pulsos de presión en el aire.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprendo relaciones entre variables de ondas
-**Context:** Construcción y seguridad en Colombia
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-003`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un ingeniero de sonido trabaja en el diseño acústico de una estación del sistema integrado de transporte de Bogotá. Necesita calcular la velocidad de una onda de sonido que se propaga en el aire a 25°C. Si sabe que la velocidad del sonido en el aire a 0°C es 331 m/s y que aumenta aproximadamente 0,6 m/s por cada grado Celsius, ¿cuál es el valor correcto?
+Una emisora de radio en Cali transmite en una frecuencia de 100 MHz (100 millones de ciclos por segundo). Si la velocidad de las ondas electromagnéticas es de $300,000 km/s$, ¿cuál es la longitud de onda de esta señal?
 
-### Options
-- [ ] A) 331 m/s
-- [ ] B) 346 m/s
-- [x] C) 346 m/s <!-- feedback: v = 331 + (0,6 × 25) = 331 + 15 = 346 m/s. El incremento es proporcional a la temperatura. -->
-- [ ] D) 361 m/s
+- [ ] A) 0.3 metros <!-- feedback: Incorrect. Probablemente se dividió la frecuencia por la velocidad. -->
+- [x] B) 3 metros <!-- feedback: Correct. Usando $v = f \cdot \lambda$, entonces $\lambda = v / f$. Convertimos $v$ a $m/s$: $300,000,000 m/s$. $\lambda = 300,000,000 / 100,000,000 = 3 metros$. -->
+- [ ] C) 30 metros <!-- feedback: Incorrect. Error en el conteo de ceros durante la división de las magnitudes. -->
+- [ ] D) 300 metros <!-- feedback: Incorrect. Se utilizó la velocidad en $km/s$ sin convertirla a metros para que fuera consistente con la unidad final esperada. -->
 
 ### Explicación Pedagógica
-La velocidad del sonido aumenta con la temperatura porque las moléculas del aire tienen mayor energía cinética y chocan más frecuentemente. El cálculo directo es: 331 + (0,6 × 25) = 346 m/s. Error común: no realizar la multiplicación o confundir la relación directa con una inversa.
+La relación fundamental de las ondas ($v = f \lambda$) vincula la rapidez, la frecuencia y el tamaño espacial de la onda. En ondas electromagnéticas, la velocidad es constante en el vacío (c).
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Identifico propiedades del sonido (intensidad, tono, timbre)
-**Context:** Música tradicional colombiana
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-En un festival de música vallenata en Valledupar, un cantante interpreta una nota musical mientras otro canta la misma nota pero con mayor "volumen". ¿Cuál propiedad del sonido está variando principalmente?
+Un guitarrista colombiano ajusta la tensión de una cuerda para que suene más aguda. Al hacer esto, el músico está aumentando principalmente la:
 
-### Options
-- [ ] A) Frecuencia
-- [ ] B) Longitud de onda
-- [x] C) Amplitud <!-- feedback: El "volumen" o sonoridad percibida está directamente relacionado con la amplitud de la onda sonora. Mayor amplitud = mayor intensidad = sonido más fuerte. -->
-- [ ] D) Velocidad de propagación
+- [ ] A) Amplitud de la onda sonora producida. <!-- feedback: Incorrect. La amplitud está relacionada con el volumen o intensidad (qué tan fuerte toca), no con el tono. -->
+- [ ] B) Longitud de la cuerda vibrante. <!-- feedback: Incorrect. La longitud no cambia (a menos que pise un traste), solo cambia la tensión. -->
+- [x] C) Frecuencia de vibración de la cuerda. <!-- feedback: Correct. A mayor tensión, la cuerda vibra más rápido, produciendo un sonido de mayor frecuencia, lo cual percibimos como un tono más agudo. -->
+- [ ] D) Velocidad del sonido en el aire circundante. <!-- feedback: Incorrect. La velocidad del sonido depende de las propiedades del aire (temperatura), no del instrumento. -->
 
 ### Explicación Pedagógica
-La sonoridad (volumen) percibida depende principalmente de la amplitud de la onda sonora. Mayor amplitud genera mayor presión sobre el tímpano, percibiéndose como sonido más fuerte. Frecuencia determina el tono (más grave o agudo). Error común: asociar "nota sama" con frecuencia cuando lo que cambia es la intensidad.
+El tono de un sonido depende directamente de la frecuencia. En cuerdas, la frecuencia aumenta con la tensión y disminuye con la masa o la longitud de la cuerda.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Aplico la ecuación fundamental de ondas
-**Context:** Tecnología de comunicaciones en Colombia
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-005`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Una estación de radio en Medellín transmite en FM a una frecuencia de 100 MHz. Si la velocidad de la luz es 3×10⁸ m/s, ¿cuál es la longitud de onda de esta onda electromagnética?
+¿Por qué en las películas de ciencia ficción es físicamente incorrecto escuchar grandes explosiones en el espacio exterior?
 
-### Options
-- [ ] A) 0,3 m
-- [ ] B) 3 m
-- [x] B) 3 m <!-- feedback: λ = v/f = (3×10⁸ m/s)/(100×10⁶ Hz) = 3 m. La ecuación fundamental v = λf se aplica también a ondas electromagnéticas. -->
-- [ ] C) 30 m
-- [ ] D) 300 m
+- [ ] A) Porque la gravedad del espacio absorbe las ondas de choque. <!-- feedback: Incorrect. La gravedad afecta la trayectoria de la materia, pero no impide la vibración. -->
+- [x] B) Porque el sonido requiere un medio material para propagarse y el espacio es casi un vacío. <!-- feedback: Correct. El sonido es una onda mecánica que necesita átomos o moléculas para transmitir la presión; en el vacío no hay nada que oscile. -->
+- [ ] C) Porque las explosiones en el espacio solo emiten luz infrarroja. <!-- feedback: Incorrect. Una explosión emite mucha energía, incluyendo cinética, pero no puede convertirse en sonido sin un medio. -->
+- [ ] D) Porque la velocidad de la luz es mayor que la del sonido en el vacío. <!-- feedback: Incorrect. El sonido no tiene velocidad en el vacío porque simplemente no existe en él. -->
 
 ### Explicación Pedagógica
-Usando v = λf, despejamos λ = v/f. Con v = 3×10⁸ m/s y f = 100×10⁶ Hz, obtenemos λ = 3 m. Error frecuente: no convertir correctamente los MHz a Hz o confundir la fórmula con otras expresiones de ondas.
+Esta pregunta refuerza la clasificación de las ondas. Las ondas mecánicas (sonido) necesitan un soporte físico, mientras que las electromagnéticas (luz) pueden viajar por el espacio vacío.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Aplico conceptos de reflexión y eco en contextos reales
-**Context:** Ecografía médica en Colombia
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-006`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En un hospital de Cali se utiliza ultrasonido diagnóstico con frecuencia de 3 MHz para examinar un órgano. Si la velocidad del sonido en tejidos blandos es aproximadamente 1540 m/s, ¿cuál es la longitud de onda utilizada?
+Cuando una onda sonora pasa del aire al agua de una piscina, se observa que su velocidad aumenta. En esta transición, ¿cuál de las siguientes características de la onda permanece constante?
 
-### Options
-- [ ] A) 0,51 mm
-- [ ] B) 5,1 mm
-- [x] C) 0,51 mm <!-- feedback: λ = v/f = 1540 m/s / (3×10⁶ Hz) = 0,000513 m = 0,51 mm. Ondas de alta frecuencia tienen longitudes de onda muy pequeñas, permitiendo mejor resolución. -->
-- [ ] D) 51 mm
+- [ ] A) La longitud de onda. <!-- feedback: Incorrect. Como la velocidad cambia y la frecuencia es constante, la longitud de onda debe cambiar proporcionalmente. -->
+- [x] B) La frecuencia. <!-- feedback: Correct. La frecuencia de una onda depende únicamente de la fuente que la genera; no cambia al cambiar de medio de propagación. -->
+- [ ] C) La amplitud. <!-- feedback: Incorrect. Parte de la energía se refleja en la superficie, por lo que la amplitud de la onda transmitida suele disminuir. -->
+- [ ] D) La dirección de propagación (siempre). <!-- feedback: Incorrect. Debido a la refracción, la onda suele cambiar de dirección a menos que incida perpendicularmente. -->
 
 ### Explicación Pedagógica
-Longitudes de onda pequeñas permiten mejor resolución en imágenes de ultrasonido. El cálculo requiere convertir MHz a Hz correctamente: 3 MHz = 3×10⁶ Hz. Error común: no convertir las unidades o realizar cálculos con exponentes incorrectos.
+La frecuencia es la "identidad" de la onda sonora. Al entrar al agua, las partículas chocan más rápido entre sí (mayor velocidad), estirando la distancia entre crestas (longitud de onda), pero manteniendo el número de vibraciones por segundo.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Resuelvo problemas de propagación del sonido
-**Context:** Tormentas eléctricas en los Llanos Orientales
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-007`
+**Bloom:** [Apply]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un pastor en los Llanos Orientales observa un rayo y 5 segundos después escucha el trueno. Sabiendo que la velocidad del sonido en el aire es 340 m/s, ¿a qué distancia aproximada cayó el rayo?
+Un ecógrafo médico utiliza ondas de ultrasonido para obtener imágenes del interior del cuerpo. Si el ultrasonido tiene una frecuencia de 2 MHz y la velocidad del sonido en los tejidos humanos es de $1500 m/s$, la longitud de onda de esta señal es:
 
-### Options
-- [ ] A) 340 m
-- [ ] B) 680 m
-- [x] C) 1700 m <!-- feedback: d = v × t = 340 m/s × 5 s = 1700 m. La luz del rayo se ve prácticamente instantáneamente, mientras el sonido tarda 5 segundos. -->
-- [ ] D) 170 m
+- [x] A) 0.75 mm <!-- feedback: Correct. $\lambda = v / f = 1500 / 2,000,000 = 0.00075 metros = 0.75 mm$. -->
+- [ ] B) 3.0 mm <!-- feedback: Incorrect. Este valor asume una frecuencia de 0.5 MHz o un error de cálculo por un factor de 4. -->
+- [ ] C) 0.75 cm <!-- feedback: Incorrect. Error de un orden de magnitud al convertir metros a centímetros. -->
+- [ ] D) 7.5 cm <!-- feedback: Incorrect. Error de dos órdenes de magnitud al convertir de metros a centímetros. -->
 
 ### Explicación Pedagógica
-La distancia se calcula directamente con d = v × t. La velocidad del sonido en aire es 340 m/s. Error frecuente: dividir en lugar de multiplicar o confundir el tiempo de retardo con la distancia real.
+Los ultrasonidos tienen frecuencias superiores al rango audible humano (20 kHz). Longitudes de onda pequeñas (como 0.75 mm) permiten resolver detalles pequeños en las imágenes médicas.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Analizo la relación entre frecuencia y percepción auditiva
-**Context:** Industria musical y tecnología en Bogotá
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-008`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un joven bogotano usa auriculares con un reproductor que puede generar tonos desde 20 Hz hasta 20.000 Hz. ¿Cuál afirmación es correcta respecto al rango audible del ser humano?
+El fenómeno por el cual una onda sonora "rebota" al chocar contra un obstáculo como una pared de roca en el Cañón del Chicamocha se conoce como:
 
-### Options
-- [ ] A) 20 Hz es un tono ultra-agudo y 20.000 Hz es un tono infra-sonoro
-- [ ] B) El rango audible completo está entre 20 Hz y 20.000 Hz, donde frecuencias menores son infrasonido y mayores ultrasonido
-- [x] B) El rango audible completo está entre 20 Hz y 20.000 Hz, donde frecuencias menores son infrasonido y mayores ultrasonido <!-- feedback: Correcto. Frecuencias menores de 20 Hz son infrasonido (no audibles), mayores de 20.000 Hz son ultrasonido (no audibles para humanos). -->
-- [ ] C) 20 Hz y 20.000 Hz están ambos fuera del rango audible
-- [ ] D) Solo las frecuencias entre 1000 Hz y 5000 Hz son audibles
+- [ ] A) Refracción. <!-- feedback: Incorrect. La refracción es el cambio de dirección al pasar a un medio diferente (atravesarlo). -->
+- [x] B) Reflexión. <!-- feedback: Correct. La reflexión ocurre cuando la onda encuentra una frontera que no puede atravesar y regresa al medio original (produce el eco). -->
+- [ ] C) Difracción. <!-- feedback: Incorrect. La difracción es la capacidad de la onda de rodear obstáculos o pasar por rendijas. -->
+- [ ] D) Interferencia. <!-- feedback: Incorrect. La interferencia es la superposición de dos o más ondas en un mismo punto. -->
 
 ### Explicación Pedagógica
-El rango audible humano convencionalmente está entre 20 Hz y 20.000 Hz. Frecuencias menores son infrasonido (usado en sismología) y mayores son ultrasonido (usado en medicina). Error común: no conocer los límites exactos o invertirlos.
+El eco es la manifestación más común de la reflexión sonora. Para que el oído humano perciba el eco claramente, el obstáculo debe estar a una distancia mínima de unos 17 metros.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Analizo fenómenos ondulatorios (Doppler)
-**Context:** Control de velocidad en carreteras colombianas
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Un policía de tránsito en la Vía al Llano usa un radar que emite microondas con frecuencia de 10 GHz hacia un vehículo que se acerca. El radar recibe la onda reflejada con frecuencia de 10.010 GHz. Si la velocidad de la luz es 3×10⁸ m/s, ¿cuál es la velocidad aproximada del vehículo?
+Dos parlantes idénticos emiten un sonido de la misma frecuencia en un salón de clases. En ciertos puntos del salón, el sonido se escucha muy débil o casi nulo. Este fenómeno se explica por:
 
-### Options
-- [ ] A) 30 m/s (108 km/h)
-- [ ] B) 150 m/s (540 km/h)
-- [x] C) 150 m/s (540 km/h) <!-- feedback: Δf/f = 2v/c (efecto Doppler), entonces v = (Δf × c)/(2f) = (0,01×10⁹ × 3×10⁸)/(2×10×10⁹) ≈ 150 m/s. Error posible: no aplicar el factor 2 del reflejo. -->
-- [ ] D) 300 m/s (1080 km/h)
+- [ ] A) La absorción del sonido por parte de las paredes. <!-- feedback: Incorrect. La absorción reduciría el volumen en todo el salón, no crearía puntos específicos de silencio. -->
+- [ ] B) El efecto Doppler debido al movimiento del aire. <!-- feedback: Incorrect. El efecto Doppler requiere movimiento relativo entre fuente y observador, y cambia el tono, no la intensidad. -->
+- [x] C) Interferencia destructiva entre las ondas de ambos parlantes. <!-- feedback: Correct. En esos puntos, la cresta de una onda coincide con el valle de la otra, cancelando la perturbación del medio. -->
+- [ ] D) Refracción sonora por diferencias de temperatura. <!-- feedback: Incorrect. Esto desviaría el sonido pero no causaría cancelaciones puntuales sistemáticas de esta forma. -->
 
 ### Explicación Pedagógica
-El efecto Doppler para radar (movimiento relativo) usa Δf/f = 2v/c, donde el factor 2 aparece porque la onda se refleja. Despejando: v = (Δf × c)/(2f). Error frecuente: omitir el factor 2 o no manejar correctamente las unidades GHz.
+La interferencia es una propiedad fundamental de las ondas. Cuando las ondas están "fuera de fase", sus amplitudes se restan, pudiendo llegar a la cancelación total (silencio).
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Comparo propagación del sonido en diferentes medios
-**Context:** Buceo en el Caribe colombiano y océano Pacífico
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-010`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un buzo en el Parque Nacional Natural Tayrona quiere comunicarse por señales sonoras underwater. Sabe que la velocidad del sonido en el agua de mar es aproximadamente 1500 m/s, mientras que en el aire es 340 m/s. ¿Cuál de las siguientes afirmaciones es correcta?
+El timbre de un instrumento musical, como un tiple colombiano, permite diferenciarlo de una flauta aunque ambos toquen la misma nota (misma frecuencia fundamental). El timbre depende principalmente de:
 
-### Options
-- [ ] A) El sonido recorre mayor distancia en el aire porque las moléculas están más separadas
-- [ ] B) El sonido viaja más rápido en el agua porque las moléculas están más cerca y transmiten la perturbación más eficientemente
-- [x] B) El sonido viaja más rápido en el agua porque las moléculas están más cerca y transmiten la perturbación más eficientemente <!-- feedback: En medios más densos y con mayor módulo de elasticidad, la velocidad del sonido aumenta. El agua es más densa que el aire y transmite mejor la onda. -->
-- [ ] C) El sonido recorre la misma distancia en ambos medios en el mismo tiempo
-- [ ] D) En el vacío, el sonido viajaría más rápido que en el agua
+- [ ] A) La intensidad con la que se toca el instrumento. <!-- feedback: Incorrect. La intensidad es el volumen, no la calidad del sonido. -->
+- [x] B) La cantidad y amplitud de los armónicos (sobretonos) que acompañan a la frecuencia fundamental. <!-- feedback: Correct. Cada instrumento tiene una "firma" sonora única basada en cómo vibra su estructura, generando una mezcla específica de frecuencias secundarias. -->
+- [ ] C) La velocidad del sonido dentro del material del instrumento. <!-- feedback: Incorrect. Aunque influye en la formación de ondas, el timbre es una característica de la onda resultante en el aire. -->
+- [ ] D) El tiempo que dura la vibración de la cuerda o el aire. <!-- feedback: Incorrect. Esto se refiere a la duración, no a la calidad o color del sonido. -->
 
 ### Explicación Pedagógica
-La velocidad del sonido depende de la densidad del medio y del módulo de elasticidad. En general, medios más rígidos y densos transmiten mejor las ondas mecánicas. Error común: pensar que mayor separación molecular facilita la transmisión.
+Casi ningún sonido natural es una onda pura (senoidal). El timbre es la complejidad de la forma de onda, determinada por la superposición de múltiples frecuencias armónicas.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Evalúo aplicaciones del efecto Doppler en Colombia
-**Context:** Medicina diagnóstica y astronomía en Colombia
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un médico cardiólogo en Bucaramanga utiliza ultrasonido Doppler para medir la velocidad del flujo sanguíneo. Si la frecuencia del ultrasonido es 5 MHz, la velocidad del sonido en tejido es 1540 m/s, y el corrimiento Doppler es 2 kHz, ¿cuál es aproximadamente la velocidad de la sangre? (Considere que la sangre se aleja del transductor)
+Una ambulancia se acerca rápidamente a un observador parado en una calle de Pereira. El observador percibe que el sonido de la sirena es más agudo mientras se acerca y más grave cuando se aleja. Este fenómeno se llama:
 
-### Options
-- [ ] A) 0,31 m/s
-- [ ] B) 0,62 m/s
-- [x] C) 0,62 m/s <!-- feedback: fD = 2(v/c)f₀cosθ ≈ 2(v/1540)(5×10⁶), despejando v ≈ 0,62 m/s. El factor 2 considera que la onda se refleja en eritrocitos en movimiento. -->
-- [ ] D) 1,24 m/s
+- [ ] A) Resonancia acústica. <!-- feedback: Incorrect. La resonancia ocurre cuando un cuerpo vibra por simpatía con una frecuencia externa. -->
+- [x] B) Efecto Doppler. <!-- feedback: Correct. El movimiento relativo comprime las ondas frente a la fuente (mayor frecuencia/agudo) y las estira detrás de ella (menor frecuencia/grave). -->
+- [ ] C) Polarización sonora. <!-- feedback: Incorrect. El sonido no se puede polarizar porque es una onda longitudinal. -->
+- [ ] D) Reverberación. <!-- feedback: Incorrect. La reverberación es la persistencia del sonido por múltiples reflexiones cercanas. -->
 
 ### Explicación Pedagógica
-En ecografía Doppler, el corrimiento de frecuencia es proporcional a la velocidad del flujo. El factor 2 aparece porque hay un movimiento relativo doble (onda incidente + onda reflejada). Error frecuente: no incluir el factor 2 en el cálculo.
+El Efecto Doppler es un cambio aparente en la frecuencia percibida. Es fundamental no solo en acústica, sino también en astronomía (corrimiento al rojo) y radares de velocidad.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Evalúo niveles de intensidad sonora y sus efectos
-**Context:** Contaminación acústica en centros urbanos colombianos
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-El nivel de intensidad sonora en una discoteca en Medellín alcanza 100 dB, mientras que una conversación normal en una oficina es de 60 dB. ¿Cuántas veces mayor es la intensidad del sonido en la discoteca comparada con la conversación?
+La intensidad sonora se mide en decibeles (dB). Si el nivel de intensidad aumenta de 20 dB a 40 dB, la intensidad física de la onda ($W/m^2$) ha aumentado por un factor de:
 
-### Options
-- [ ] A) 40 veces
-- [ ] B) 100 veces
-- [x] C) 10.000 veces <!-- feedback: β = 10 log(I/I₀), entonces Δβ = 40 dB = 10 log(I₁/I₂). Entonces I₁/I₂ = 10^(40/10) = 10⁴ = 10.000. Cada 10 dB representa un factor de 10 en intensidad. -->
-- [ ] D) 1.000.000 veces
+- [ ] A) 2 veces. <!-- feedback: Incorrect. La escala de decibeles es logarítmica, no lineal. -->
+- [ ] B) 20 veces. <!-- feedback: Incorrect. Se restaron los valores en lugar de considerar la base decimal de la escala. -->
+- [x] C) 100 veces. <!-- feedback: Correct. Cada 10 dB representan un aumento de 10 veces en la intensidad. Un salto de 20 dB ($40 - 20$) equivale a $10 \times 10 = 100$ veces la intensidad original. -->
+- [ ] D) 1000 veces. <!-- feedback: Incorrect. Esto correspondería a un aumento de 30 dB. -->
 
 ### Explicación Pedagógica
-La escala de decibelios es logarítmica: cada 10 dB representan un factor de 10 en intensidad. 40 dB de diferencia = 4 factores de 10 = 10⁴. Error común: pensar que 40 dB de diferencia = 40 veces más intensidad (error lineal vs logarítmico).
+El oído humano percibe el sonido logarítmicamente. Por eso usamos la escala de decibeles; un pequeño cambio en dB representa un cambio enorme en la energía real transportada por la onda.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Evalúo condiciones para formación de ondas estacionarias
-**Context:** Instrumentos musicales tradicionales colombianos
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Un estudiante de música en lbagué construye una cuerda de guitarra de 1 metro de largo, fija en ambos extremos. Si desea que la nota fundamental tenga una frecuencia de 440 Hz (La estándar), ¿cuál debe ser la velocidad de propagación de la onda en la cuerda?
+Se observa que una onda de radio atraviesa una montaña y llega a un valle profundo, mientras que una señal de televisión (de mayor frecuencia) se bloquea. ¿Qué propiedad ondulatoria explica que las ondas de menor frecuencia puedan "bordear" obstáculos mejor?
 
-### Options
-- [ ] A) 220 m/s
-- [ ] B) 440 m/s
-- [x] C) 880 m/s <!-- feedback: Para cuerda fija en ambos extremos, f₁ = v/(2L). Despejando: v = f₁ × 2L = 440 Hz × 2(1 m) = 880 m/s. El modo fundamental tiene media longitud de onda en la cuerda. -->
-- [ ] D) 1760 m/s
+- [ ] A) Refracción. <!-- feedback: Incorrect. No hay cambio de medio, sino un obstáculo sólido. -->
+- [ ] B) Reflexión. <!-- feedback: Incorrect. Si solo fuera reflexión, la onda rebotaría hacia atrás y no llegaría al valle. -->
+- [x] C) Difracción. <!-- feedback: Correct. La difracción es más notoria cuando la longitud de onda es comparable al tamaño del obstáculo. Las frecuencias bajas (longitudes largas) se difractan más. -->
+- [ ] D) Dispersión. <!-- feedback: Incorrect. La dispersión es la separación de frecuencias al pasar por un medio (como un prisma). -->
 
 ### Explicación Pedagógica
-En ondas estacionarias en cuerdas con extremos fijos, el modo fundamental (primer armónico) tiene longitud de onda λ = 2L. Usando v = λf, v = 2Lf. Error frecuente: usar L en lugar de 2L o confundir con tubo abierto.
+La difracción permite que las ondas "doblen la esquina". A mayor longitud de onda (menor frecuencia), mayor es la capacidad de la onda para rodear objetos grandes como colinas o edificios.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Evalúo el fenómeno de difracción del sonido
-**Context:** Acústica arquitectónica en teatros colombianos
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En el Teatro Colón de Bogotá, un arquitecto debe diseñar la distribución de butacas considerando que el sonido puede rodear obstáculos. Si la longitud de onda del sonido es 1 m y una butaca tiene 0,5 m de ancho, ¿qué fenómeno acústico esperaría observar?
+Un cantante de ópera logra romper una copa de cristal emitiendo una nota sostenida muy potente. Termodinámicamente y mecánicamente, esto se debe a que:
 
-### Options
-- [ ] A) Difracción mínima, la butaca blockingá completamente el sonido
-- [ ] B) Difracción significativa, el sonido rodeará la butaca porque λ ≈ tamaño del obstáculo
-- [x] C) Difracción significativa, el sonido rodeará la butaca porque λ ≈ tamaño del obstáculo <!-- feedback: La difracción es notable cuando λ es del orden o mayor que el tamaño del obstáculo. Con λ = 1 m y obstáculo de 0,5 m, la difracción será apreciable. -->
-- [ ] D) Reflexión total, el sonido rebotará completamente
+- [ ] A) El sonido calienta el cristal hasta su punto de fusión. <!-- feedback: Incorrect. La energía térmica transferida es despreciable para derretir el vidrio. -->
+- [x] B) La frecuencia de la voz coincide con la frecuencia natural de vibración de la copa (resonancia). <!-- feedback: Correct. La transferencia de energía es máxima cuando la excitación externa iguala la frecuencia propia del sistema, aumentando la amplitud de oscilación hasta la ruptura. -->
+- [ ] C) El sonido aumenta la presión atmosférica alrededor de la copa hasta aplastarla. <!-- feedback: Incorrect. Las variaciones de presión del sonido son demasiado pequeñas para causar colapso por presión estática. -->
+- [ ] D) Las ondas sonoras crean un vacío dentro de la copa. <!-- feedback: Incorrect. El sonido son ondas de presión, no generan vacíos sostenidos. -->
 
 ### Explicación Pedagógica
-La difracción ocurre cuando una onda encuentra un obstáculo de tamaño comparable a su longitud de onda. Cuando λ ≥ obstáculo, las ondas se esparcen significativamente. Error común: pensar que objetos pequeños siempre bloquean completamente el sonido.
+La resonancia es un fenómeno de acumulación de energía. Pequeños impulsos aplicados en el momento justo (fase correcta) pueden generar respuestas de amplitud gigante en un sistema oscilante.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Analizo la relación entre timbre y espectro armónico
-**Context:** Análisis de instrumentos andinos colombianos
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-015`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Dos estudiantes en Calianalizan el sonido de una flute de millo (instrumento de viento tradicional) y un piano reproduciendo la misma nota musical. Si ambos instrumentos producen la misma frecuencia fundamental (tono), ¿por qué percibimos sonidos diferentes (timbre)?
+Una cuerda de violín de 40 cm de largo vibra en su modo fundamental. Si la velocidad de la onda en la cuerda es de $240 m/s$, ¿cuál es la frecuencia del sonido producido?
 
-### Options
-- [ ] A) Porque tienen diferente amplitud de onda
-- [ ] B) Porque tienen diferente velocidad de propagación
-- [x] C) Porque tienen diferentes armónicos (sobretonos) superimposed sobre la frecuencia fundamental <!-- feedback: El timbre depende de la mezcla única de armónicos y sus amplitudes relativas. Cada instrumento tiene un patrón distintivo de armónicos que lo caracteriza. -->
-- [ ] D) Porque tienen diferente longitud de onda
+- [ ] A) 150 Hz <!-- feedback: Incorrect. Probablemente se olvidó que en el modo fundamental la longitud de la cuerda es MEDIA longitud de onda ($\lambda = 2L$). -->
+- [x] B) 300 Hz <!-- feedback: Correct. Para el fundamental de una cuerda fija en ambos extremos, $\lambda = 2L = 2 \times 0.4 m = 0.8 m$. Luego, $f = v / \lambda = 240 / 0.8 = 300 Hz$. -->
+- [ ] C) 600 Hz <!-- feedback: Incorrect. Esto correspondería al primer sobretono (segundo armónico), no al fundamental. -->
+- [ ] D) 3000 Hz <!-- feedback: Incorrect. Error en la conversión de unidades de centímetros a metros. -->
 
 ### Explicación Pedagógica
-El timbre es la cualidad que permite diferenciar fuentes sonoras con igual frecuencia fundamental. Depende del espectro de frecuencias (armónicos presentes y sus amplitudes). Error común: confundir timbre con intensidad o frecuencia.
+Las ondas estacionarias en cuerdas se forman por la interferencia de ondas viajeras reflejadas en los extremos. El fundamental es el patrón más simple posible (un solo vientre).
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Evalúo el principio de superposición e interferencia
-**Context:** Control de ruido en industrias antioqueñas
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En una zona industrial de Medellín, dos fábricas emiten ondas sonoras coherentes de frecuencia 100 Hz con amplitudes iguales. En un punto específico, las ondas llegan en fase (interferencia constructiva). Si una fábrica aumenta su fase en π/2 rad, ¿qué tipo de interferencia resulta?
+En un día caluroso en los Llanos Orientales, la velocidad del sonido en el aire es mayor que en una noche fría. Esto se debe a que:
 
-### Options
-- [ ] A) Interferencia constructiva total (amplitud doble)
-- [ ] B) Interferencia constructiva parcial (amplitud mayor)
-- [x] C) Interferencia destructiva parcial (amplitud reducida) <!-- feedback: Con diferencia de fase π/2, hay superposición parcial. La amplitud resultante es A·√2 < 2A, resultando en interferencia parcialmente destructiva respecto al máximo. -->
-- [ ] D) Interferencia destructiva total (amplitud cero)
+- [ ] A) El aire caliente es más denso y transmite mejor la presión. <!-- feedback: Incorrect. El aire caliente es MENOS denso. -->
+- [x] B) Las moléculas de aire caliente tienen mayor energía cinética y transmiten las colisiones más rápido. <!-- feedback: Correct. La velocidad del sonido en un gas es proporcional a la raíz cuadrada de la temperatura absoluta ($\sqrt{T}$). -->
+- [ ] C) El aire caliente tiene menos humedad, facilitando el paso del sonido. <!-- feedback: Incorrect. La humedad en realidad aumenta ligeramente la velocidad del sonido, pero el efecto de la temperatura es dominante. -->
+- [ ] D) La presión atmosférica es mayor durante el día. <!-- feedback: Incorrect. La velocidad del sonido en un gas ideal no depende de la presión atmosférica, solo de la temperatura. -->
 
 ### Explicación Pedagógica
-Cuando dos ondas de igual amplitud están en fase, la resultante es máxima. Si una cambia fase π/2, la resultant no es máxima ni mínima, sino un valor intermedio (interferencia parcialmente destructiva). Error común: pensar que cualquier desfase genera interferencia destructiva total.
+El sonido se propaga mediante choques moleculares. A mayor temperatura, las moléculas se mueven más rápido por sí mismas, reduciendo el tiempo necesario para transmitir la perturbación a la vecina.
 
 ---
 
-## Question 17 (Variant Advanced - Difficulty D9)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Diseño soluciones basadas en propiedades de ondas
-**Context:** Sistemas de sonar en la Armada colombiana
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-La Armada Nacional utiliza sonar activo para detectar submarinos en el Caribe. El sonar emite pulsos de ultrasonido de frecuencia 40 kHz hacia el fondo oceánico (profundidad ~100 m). Si la velocidad del sonido en agua de mar es 1530 m/s, ¿cuál es el tiempo total que tarda el eco en regresar al barco?
+La luz es una onda transversal que puede ser polarizada, mientras que el sonido es una onda longitudinal que no puede serlo. ¿Qué propiedad física fundamental de la oscilación permite la polarización?
 
-### Options
-- [ ] A) 0,13 s
-- [ ] B) 0,065 s
-- [x] C) 0,13 s <!-- feedback: El sonido viaja ida y vuelta: distancia total = 2 × 100 m = 200 m. Tiempo = distancia/velocidad = 200 m / 1530 m/s ≈ 0,13 s. Error frecuente: no considerar el recorrido de regreso. -->
-- [ ] D) 0,26 s
+- [ ] A) La frecuencia de la onda. <!-- feedback: Incorrect. Ondas de cualquier frecuencia pueden ser transversales o longitudinales. -->
+- [ ] B) La energía transportada por la onda. <!-- feedback: Incorrect. La polarización no depende de la cantidad de energía. -->
+- [x] C) La existencia de direcciones de oscilación perpendiculares a la propagación. <!-- feedback: Correct. Polarizar consiste en filtrar o seleccionar una única dirección de vibración. Esto solo es posible si hay múltiples direcciones posibles (transversal). En las longitudinales, solo hay una dirección (atrás/adelante). -->
+- [ ] D) La velocidad de la onda en el vacío. <!-- feedback: Incorrect. La velocidad es una consecuencia del medio y tipo de onda, no define la geometría de oscilación. -->
 
 ### Explicación Pedagógica
-En sonar activo, el tiempo medido es de ida y vuelta. La distancia total recorrida es 2 × profundidad. Error común: calcular solo el tiempo de ida o confundir con aplicaciones unidireccionales.
+La polarización es una prueba definitiva del carácter transversal de una onda. Las gafas de sol polarizadas funcionan bloqueando las ondas de luz que oscilan en el plano horizontal (reflejos).
 
 ---
 
-## Question 18 (Variant Advanced - Difficulty D9)
+## Question 18 [D9-D10]
 
-**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-v18`
-**Bloom:** Create
-**ICFES:** Predigo comportamiento de ondas en tubos abiertos y cerrados
-**Context:** Diseño de instrumentos de viento en bandas de gaita
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-018`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un luthier en San Jacinto de Montería fabrica una gaita (instrumento de viento) con un tubo abierto de 50 cm de largo. Si la velocidad del sonido es 340 m/s, ¿cuál es la frecuencia del tercer armónico (tercer sobretono)?
+Dos ondas sonoras de frecuencias muy cercanas, por ejemplo 440 Hz y 444 Hz, se escuchan simultáneamente. El oyente percibirá un sonido cuya intensidad sube y baja periódicamente. Este fenómeno se llama "pulsaciones" o "batidos" y su frecuencia es de:
 
-### Options
-- [ ] A) 510 Hz
-- [ ] B) 1020 Hz
+- [ ] A) 884 Hz. <!-- feedback: Incorrect. Esta sería la suma, que define el tono promedio escuchado, pero no la frecuencia del batido. -->
+- [ ] B) 442 Hz. <!-- feedback: Incorrect. Este es el promedio de las frecuencias, que es el tono percibido por el oído. -->
+- [x] C) 4 Hz. <!-- feedback: Correct. La frecuencia de pulsación es el valor absoluto de la diferencia entre las dos frecuencias: $|444 - 440| = 4 Hz$. -->
+- [ ] D) 0.009 Hz. <!-- feedback: Incorrect. Error en el cálculo matemático o confusión con el periodo de la onda. -->
+
+### Explicación Pedagógica
+Las pulsaciones son un caso especial de interferencia en el tiempo. La superposición de ondas con frecuencias ligeramente distintas crea un patrón de interferencia constructiva y destructiva que se desplaza lentamente.
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+Un objeto se mueve a través del aire a una velocidad mayor que la velocidad del sonido (velocidad supersónica). En este estado, el objeto genera una onda de choque en forma de cono porque:
+
+- [ ] A) El aire frente al objeto se agota instantáneamente. <!-- feedback: Incorrect. El aire se comprime, no se agota. -->
+- [ ] B) El sonido viaja hacia atrás para alcanzar al objeto. <!-- feedback: Incorrect. El sonido siempre se aleja de la fuente en todas direcciones. -->
+- [x] C) Las ondas sonoras emitidas en diferentes instantes se amontonan y se superponen constructivamente en un frente común. <!-- feedback: Correct. Al viajar más rápido que sus propias ondas, el objeto las "pisa", creando una interferencia constructiva masiva que percibimos como una explosión sónica. -->
+- [ ] D) La fricción con el aire convierte el sonido en calor intenso. <!-- feedback: Incorrect. Aunque hay calor por fricción, el cono de Mach es un fenómeno ondulatorio de presión. -->
+
+### Explicación Pedagógica
+El cono de Mach es la envolvente de todas las esferas de sonido emitidas por un objeto supersónico. Es similar a la estela en "V" que deja una lancha rápida en el agua.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-ondas-sonido-075-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+En un tubo sonoro abierto en ambos extremos, los armónicos producidos siguen la serie $f_n = n \cdot (v / 2L)$. Si se cierra uno de los extremos del tubo, la frecuencia fundamental:
+
+- [ ] A) Se duplica. <!-- feedback: Incorrect. Al cerrar un extremo, el patrón de onda cambia de modo que la longitud del tubo ahora representa solo un cuarto de onda, no media. -->
+- [x] B) Se reduce a la mitad. <!-- feedback: Correct. Para un tubo abierto-cerrado, $f_1 = v / 4L$. Comparado con el abierto-abierto ($v / 2L$), la frecuencia fundamental cae a la mitad (el sonido es una octava más grave). -->
+- [ ] C) Permanece igual pero cambia el timbre. <!-- feedback: Incorrect. La frecuencia fundamental cambia drásticamente al cambiar las condiciones de frontera. -->
+- [ ] D) Desaparece debido a la reflexión destructiva. <!-- feedback: Incorrect. Se forman nuevas ondas estacionarias con diferentes nodos y antinodos. -->
+
+### Explicación Pedagógica
+Las condiciones de borde (fronteras) determinan qué longitudes de onda pueden "sobrevivir" dentro de una cavidad. Un extremo cerrado obliga a que haya un nodo de desplazamiento (y antinodo de presión) en ese punto.
