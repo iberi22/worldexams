@@ -1,55 +1,3 @@
-<think>
-The user wants me to generate 20 ICFES-style multiple choice questions for Colombian Sciences Naturales (Natural Sciences), specifically about electricity and circuits, for grade 11, period 4.
-
-Let me follow the exact format requested:
-- Include the YAML frontmatter
-- 20 questions with progressive difficulty
-- D3-D4 (questions 1-4)
-- D5-D6 (questions 5-10)
-- D7-D8 (questions 11-16)
-- D9-D10 (questions 17-20)
-- Colombian context
-- 4 options each, [x] marking the correct one
-- No "all of the above" or "none of the above"
-- Proper feedback and pedagogical explanation
-
-Let me generate these questions carefully.
-
-The frontmatter:
-- id: "CO-CIE-11-P4-electricidad-circuitos-086-MASTERY"
-- country: "colombia"
-- grado: 11
-- asignatura: "ciencias-naturales"
-- tema: "electricidad-circuitos"
-- periodo: 4
-- protocol_version: "5.1"
-- bundle_size: 20
-- bundle_index: 86
-- alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-- generation: agent and model info
-- timestamp: 2026-04-15T20:03:11.255700
-- prompt_version: "v2-direct"
-- quality_status: "UNREVISED"
-- generation_status: "RAW"
-- needs_human_review: true
-- curation info
-- license: "CC BY-NC-SA 4.0"
-- open_source: false
-
-Now for the questions:
-
-Questions 1-4: D3-D4 (basic)
-Questions 5-10: D5-D6 (medium)
-Questions 11-16: D7-D8 (hard)
-
-
-Questions 17-20: D9-D10 (very hard)
-
-I'll create 20 questions about electricity and circuits with Colombian contexts. Key topics to cover include Ohm's Law, series and parallel circuits, power calculations, electrical energy, circuit analysis, and practical applications in Colombia. I'll vary the difficulty levels and ensure each question has four options with only one correct answer.
-
-</think>
-
-```yaml
 ---
 id: "CO-CIE-11-P4-electricidad-circuitos-086-MASTERY"
 country: "colombia"
@@ -60,406 +8,390 @@ periodo: 4
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 86
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:03:11.255700"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty 3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Indagación - Identificación de conceptos básicos
-**Context:** Consumo eléctrico doméstico en hogares colombianos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En una vivienda colombiana, cuando se conecta un plancha de ropa a un tomacorriente, circula una corriente eléctrica de 5 A cuando opera a 110 V. ¿Cuál es el valor de la resistencia eléctrica de la plancha?
+En un circuito eléctrico, la diferencia de potencial (voltaje) entre dos puntos representa:
 
-- [ ] A) 5 Ω
-- [ ] B) 22 Ω
-- [x] C) 22 Ω <!-- feedback: Aplicando la Ley de Ohm: R = V/I = 110V/5A = 22 Ω -->
-- [ ] D) 550 Ω <!-- feedback: Error común: multiplicar V×I en lugar de dividir -->
+- [ ] A) La cantidad total de electrones almacenados en el cable. <!-- feedback: Incorrect. La carga se mide en Culombios, no es lo mismo que el potencial. -->
+- [ ] B) La velocidad a la que se mueven las cargas individuales. <!-- feedback: Incorrect. La velocidad de deriva es muy baja; el voltaje es una medida de energía, no de rapidez. -->
+- [x] C) La energía por unidad de carga necesaria para mover una carga entre esos dos puntos. <!-- feedback: Correct. El voltio equivale a un julio por culombio ($1 V = 1 J/C$). -->
+- [ ] D) La resistencia que el aire ofrece al paso de la electricidad. <!-- feedback: Incorrect. La resistencia es una propiedad del material, no define el potencial eléctrico. -->
 
 ### Explicación Pedagógica
-La Ley de Ohm (V = I × R) es fundamental. Para encontrar R, se despeja R = V/I. Un error frecuente entre estudiantes es confundir las fórmulas y realizar operaciones incorrectas, como multiplicar en lugar de dividir, obteniendo 550 Ω.
+El voltaje es el "empuje" o presión eléctrica. Indica cuánta energía se le entrega a cada carga para que pueda atravesar los componentes del circuito.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty 3)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Indagación - Comprensión de relaciones básicas
-**Context:** Circuitos en el sistema eléctrico colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En una casa de Bogotá, tres bombillas LED de 15 Ω cada una se conectan en serie a una fuente de 45 V. ¿Cuál es la corriente total que circula por el circuito?
+¿Cuál de las siguientes afirmaciones sobre las baterías (pilas) es correcta desde el punto de vista termodinámico y químico?
 
-- [ ] A) 0,33 A
-- [ ] B) 1 A
-- [x] C) 1 A <!-- feedback: Rt = 3 × 15 = 45 Ω. I = V/Rt = 45V/45Ω = 1 A -->
-- [ ] D) 9 A <!-- feedback: Error de sumar voltajes: 45V + 45V + 45V = 135V, luego I=135/45=3A -->
+- [ ] A) Las baterías crean electrones de la nada mediante magnetismo. <!-- feedback: Incorrect. Los electrones ya están en el conductor; la batería solo los mueve. -->
+- [x] B) Convierten energía química almacenada en energía eléctrica mediante reacciones Redox. <!-- feedback: Correct. Las reacciones de oxidación y reducción en los electrodos generan la diferencia de potencial. -->
+- [ ] C) Una batería se agota cuando se queda sin protones en su núcleo. <!-- feedback: Incorrect. Se agota cuando los reactivos químicos se transforman totalmente en productos y la reacción alcanza el equilibrio. -->
+- [ ] D) Las baterías funcionan mejor en el vacío total. <!-- feedback: Incorrect. Las baterías son sistemas cerrados cuya química no depende significativamente de la presión atmosférica externa. -->
 
 ### Explicación Pedagógica
-En conexiones en serie, la resistencia total es la suma de todas las resistencias. Un error típico es creer que los voltajes se suman al analizar circuitos en serie, cuando en realidad es la resistencia total la que se suma y el voltaje de la fuente es único.
+Las pilas son celdas galvánicas. La energía liberada por la transferencia de electrones entre sustancias químicas se aprovecha para alimentar un circuito externo.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty 4)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Uso de conceptos - Aplicación en contextos familiares
-**Context:** Electrodomésticos en el hogar colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-003`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un microondas colombiano funciona a 110 V y consume una potencia de 1100 W. Si se usa durante 2 horas, ¿cuánta energía eléctrica consume en kilovatios-hora (kWh)?
+Si se conectan dos bombillos idénticos en **paralelo** a una batería, y se agrega un tercer bombillo idéntico también en paralelo, ¿qué sucede con el brillo de los dos primeros? (Asuma una batería ideal).
 
-- [ ] A) 0,55 kWh
-- [ ] B) 1,1 kWh
-- [x] C) 2,2 kWh <!-- feedback: E = P × t = 1,1 kW × 2 h = 2,2 kWh -->
-- [ ] D) 2200 kWh <!-- feedback: Confundir unidades: 1100 W × 2h = 2200 Wh = 2,2 kWh, no 2200 kWh -->
+- [ ] A) Su brillo disminuye a la mitad. <!-- feedback: Incorrect. Esto pasaría en una conexión en serie. -->
+- [x] B) Su brillo permanece igual. <!-- feedback: Correct. En paralelo, cada rama recibe el voltaje total de la fuente independientemente de las otras ramas (en una fuente ideal). -->
+- [ ] C) Brillan más intensamente. <!-- feedback: Incorrect. El voltaje no aumenta al agregar más cargas en paralelo. -->
+- [ ] D) Se apagan debido al exceso de carga. <!-- feedback: Incorrect. Mientras la fuente pueda suministrar la corriente, todos funcionarán normalmente. -->
 
 ### Explicación Pedagógica
-La energía eléctrica se calcula como E = P × t. Muchos estudiantes olvidan convertir watts a kilovatios antes de multiplicar por las horas, resultando en valores enormemente inflados. Es crucial recordar que 1 kW = 1000 W.
+La independencia de las ramas es la clave del circuito paralelo. Cada electrodoméstico en tu casa funciona a 120 V sin importar cuántas luces más prendas (dentro de los límites de corriente del breaker).
 
 ---
 
-## Question 4 (Variant Basic - Difficulty 4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Interpretación - Comprensión de diagramas de circuito
-**Context:** Instalaciones eléctricas escolares en Colombia
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-En el laboratorio de física de un colegio en Medellín, se tiene un circuito con dos resistencias de 4 Ω y 6 Ω conectadas en paralelo, alimentadas por una batería de 12 V. ¿Cuál es el voltaje en cada resistencia?
+Un multímetro es una herramienta esencial para un técnico electricista. Para medir la **corriente** que consume un motor, el multímetro debe configurarse en modo amperímetro y conectarse:
 
-- [ ] A) 12 V en la de 4 Ω y 12 V en la de 6 Ω
-- [ ] B) 4 V en la de 4 Ω y 6 V en la de 6 Ω
-- [x] C) 12 V en la de 4 Ω y 12 V en la de 6 Ω <!-- feedback: En paralelo, todas las resistencias tienen el mismo voltaje de la fuente -->
-- [ ] D) 6 V en la de 4 Ω y 4 V en la de 6 Ω <!-- feedback: Error común: creer que el voltaje se divide proporcionalmente en paralelo -->
+- [ ] A) Entre los dos polos de la batería directamente. <!-- feedback: Incorrect. Esto causaría un cortocircuito y probablemente quemaría el fusible del multímetro. -->
+- [x] B) En serie con el motor, de modo que toda la corriente pase por el aparato. <!-- feedback: Correct. El amperímetro debe ser parte del camino de la corriente para poder contar las cargas que pasan. -->
+- [ ] C) Tocando las puntas a los lados de un solo cable sin cortarlo. <!-- feedback: Incorrect. Para medir corriente sin abrir el circuito se requiere una pinza amperimétrica (inductiva), no un multímetro estándar. -->
+- [ ] D) En paralelo con el motor. <!-- feedback: Incorrect. Esto desviaría la corriente y no mediría lo que consume el motor. -->
 
 ### Explicación Pedagógica
-Una propiedad fundamental de los circuitos en paralelo es que todas las ramas tienen el mismo voltaje. Muchos estudiantes confunden esto con el comportamiento de los circuitos en serie donde sí hay caídas de voltaje individuales.
+Aprender a conectar instrumentos es vital. Un amperímetro tiene resistencia casi nula, por lo que nunca debe conectarse en paralelo a una fuente de voltaje.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty 5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Uso de conceptos - Resolución de problemas
-**Context:** Análisis de circuitos en centrales hidroeléctricas colombianas
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-005`
+**Bloom:** [Apply]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En una central hidroeléctrica de Ituango, se transmite energía a través de una línea de transmisión con resistencia de 20 Ω. Si la corriente que fluye es de 100 A, ¿cuánta potencia se disipa como calor en la línea?
+En un circuito se tiene una resistencia de $4 \Omega$ y otra de $6 \Omega$ conectadas en **serie**. Si circula una corriente de 2 A por el circuito, el voltaje total suministrado por la fuente es:
 
-- [ ] A) 2 W
-- [ ] B) 100 W
-- [x] C) 200 000 W <!-- feedback: P = I² × R = (100 A)² × 20 Ω = 200 000 W -->
-- [ ] D) 2000 W <!-- feedback: Error: usar P = V×I sin calcular el voltaje primero -->
+- [ ] A) 2 V <!-- feedback: Incorrect. El voltaje debe ser mayor considerando la resistencia total. -->
+- [ ] B) 10 V <!-- feedback: Incorrect. Este es el valor de la resistencia total en ohmios, no el voltaje. -->
+- [x] C) 20 V <!-- feedback: Correct. Resistencia total $R_s = 4 + 6 = 10 \Omega$. Aplicando Ley de Ohm: $V = I \cdot R = 2 A \cdot 10 \Omega = 20 V$. -->
+- [ ] D) 4.8 V <!-- feedback: Incorrect. Probablemente se calculó la resistencia en paralelo por error y se multiplicó por la corriente. -->
 
 ### Explicación Pedagógica
-La fórmula P = I² × R es directamente aplicable aquí. Un distractor común es usar P = V×I sin antes conocer el voltaje, lo cual requeriría un paso adicional. Esta fórmula es especialmente útil cuando se conoce solo la corriente y la resistencia.
+En serie, las resistencias se suman linealmente. La corriente es la misma para todos los componentes, pero el voltaje total es la suma de las caídas de tensión individuales.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty 5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Razonamiento - Análisis de relaciones eléctricas
-**Context:** Circuitos resistivos en la industria colombiana
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-006`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Dos resistencias de 30 Ω y 60 Ω se conectan en paralelo a una fuente de 120 V. ¿Cuál es la corriente total que entrega la fuente?
+Un estudiante nota que los cables de su cargador de celular se calientan un poco mientras carga el teléfono. ¿Qué nombre recibe este fenómeno y de qué factores depende?
 
-- [ ] A) 1 A
-- [ ] B) 2 A
-- [x] C) 6 A <!-- feedback: Rt = (30×60)/(30+60) = 1800/90 = 20 Ω. It = V/Rt = 120V/20Ω = 6 A -->
-- [ ] D) 4 A <!-- feedback: Error común: sumar resistencias en paralelo como si fueran en serie: 30+60=90Ω, It=120/90≈1,33A -->
+- [ ] A) Efecto Fotoeléctrico; depende de la luz ambiental. <!-- feedback: Incorrect. El efecto fotoeléctrico se refiere a la emisión de electrones por luz, no al calor en cables. -->
+- [ ] B) Efecto Doppler; depende de la velocidad de los electrones. <!-- feedback: Incorrect. El efecto Doppler es un fenómeno ondulatorio de frecuencia. -->
+- [x] C) Efecto Joule; depende de la resistencia del cable y del cuadrado de la corriente. <!-- feedback: Correct. Toda corriente que atraviesa una resistencia disipa energía en forma de calor ($P = I^2 R$). -->
+- [ ] D) Efecto Invernadero; depende del material aislante plástico. <!-- feedback: Incorrect. El efecto invernadero es un fenómeno atmosférico de retención de radiación térmica. -->
 
 ### Explicación Pedagógica
-Para resistencias en paralelo, el cálculo correcto de la resistencia total es esencial. Un error frecuente es simplemente sumar las resistencias (como en serie), olvidando la fórmula del recíproco.
+El calentamiento es inevitable en conductores reales. Si el cable es muy delgado (mucha resistencia) o la corriente es muy alta, el calor puede ser suficiente para derretir el aislante.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty 5)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Interpretación - Análisis de configuraciones
-**Context:** Instalaciones eléctricas residenciales colombianas
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-007`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un apartamento de Cali, se安装an tres electrodomésticos en serie: un aire acondicionado (20 Ω), un heater (40 Ω) y un microondas (10 Ω). Si elvoltaje total es 110 V, ¿cuál es la caída de voltaje en el aire acondicionado?
+La potencia eléctrica de un dispositivo se puede calcular como el producto del voltaje por la corriente ($P = V \cdot I$). Si un televisor de 120 W se conecta a una red de 120 V, ¿cuánta corriente consume?
 
-- [ ] A) 22 V
-- [ ] B) 31,4 V
-- [x] C) 31,4 V <!-- feedback: Rt = 70 Ω. It = 110V/70Ω ≈ 1,57 A. V(AC) = 1,57 A × 20 Ω = 31,4 V -->
-- [ ] D) 110 V <!-- feedback: Error: creer que todo el voltaje cae en la primera resistencia -->
+- [x] A) 1 A <!-- feedback: Correct. $I = P / V = 120 W / 120 V = 1 A$. -->
+- [ ] B) 120 A <!-- feedback: Incorrect. Error en la aplicación de la fórmula matemática. -->
+- [ ] C) 0.5 A <!-- feedback: Incorrect. Esto correspondería a un aparato de 60 W. -->
+- [ ] D) 10 A <!-- feedback: Incorrect. Una corriente de 10 A a 120 V consumiría 1200 W (como una plancha). -->
 
 ### Explicación Pedagógica
-En circuitos en serie, la caída de voltaje en cada elemento es proporcional a su resistencia (V = I × R). Es importante calcular primero la corriente total y luego aplicar esta relación a cada resistencia.
+La potencia indica la rapidez con la que se transforma la energía eléctrica en otra forma (luz, sonido, movimiento). Es el dato principal para dimensionar protecciones y cables.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty 6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Uso de modelos - Aplicación de leyes físicas
-**Context:** Circuitos en el sistema de distribución de energía
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-008`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Una lámpara LED colombiana tiene las siguientes especificaciones: 110 V y 11 W. ¿Cuál es la corriente que circula por la lámpara cuando está encendida?
+¿Cuál es la ventaja de conectar las baterías en **paralelo** (uniendo todos los positivos por un lado y todos los negativos por otro)?
 
-- [ ] A) 0,1 A
-- [ ] B) 1 A
-- [x] C) 0,1 A <!-- feedback: P = V×I, entonces I = P/V = 11W/110V = 0,1 A -->
-- [ ] D) 11 A <!-- feedback: Error: confundir unidades o invertir la operación -->
+- [ ] A) Se suma el voltaje de cada batería. <!-- feedback: Incorrect. Esto ocurre en la conexión en serie. -->
+- [x] B) Se mantiene el mismo voltaje pero aumenta la capacidad total y la corriente máxima disponible. <!-- feedback: Correct. Las baterías en paralelo duran más tiempo alimentando la misma carga. -->
+- [ ] C) Se reduce el riesgo de cortocircuitos internos. <!-- feedback: Incorrect. Conectar baterías en paralelo requiere que tengan el mismo voltaje exacto, de lo contrario pueden dañarse. -->
+- [ ] D) La corriente fluye más lento hacia el aparato. <!-- feedback: Incorrect. La velocidad de la corriente depende de la carga conectada, no del número de fuentes en paralelo. -->
 
 ### Explicación Pedagógica
-Partiendo de la ecuación de potencia P = V × I, se despeja I = P/V. Este problema combina conceptos de potencia y la Ley de Ohm. Un error común es no dominar el despeje de fórmulas.
+Conectar en serie aumenta la "fuerza" (voltaje). Conectar en paralelo aumenta la "reserva" (capacidad en Ah). Los bancos de baterías de paneles solares suelen combinar ambos métodos.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty 6)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Indagación - Comprensión de principios eléctricos
-**Context:** Generación de energía en el territorio colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En una panel solar instalado en una finca en Roldanillo, Valle, se genera una corriente de 8 A a 24 V. La energía generada se usa para cargar una batería. ¿Cuántos coulomb de carga pasan por el circuito en 30 segundos?
+Un material óhmico es aquel que:
 
-- [ ] A) 4 C
-- [ ] B) 240 C
-- [x] C) 240 C <!-- feedback: Q = I × t = 8 A × 30 s = 240 C -->
-- [ ] D) 8 C <!-- feedback: Error: creer que la carga es igual a la corriente sin multiplicar por el tiempo -->
+- [ ] A) Cambia su resistencia dependiendo de la temperatura ambiente. <!-- feedback: Incorrect. Aunque casi todos los materiales cambian con la temperatura, ser óhmico se refiere a la relación V-I a temperatura constante. -->
+- [x] B) Mantiene una relación lineal y constante entre el voltaje y la corriente. <!-- feedback: Correct. En materiales óhmicos, la gráfica de V vs I es una línea recta que pasa por el origen; su pendiente es la resistencia. -->
+- [ ] C) No ofrece ninguna resistencia al paso de la electricidad. <!-- feedback: Incorrect. Eso sería un superconductor. -->
+- [ ] D) Solo permite el paso de corriente en un solo sentido. <!-- feedback: Incorrect. Eso es un diodo (dispositivo no óhmico). -->
 
 ### Explicación Pedagógica
-La relación entre corriente y carga es Q = I × t. Un error frecuente es pensar que la carga es simplemente igual a la corriente, sin considerar que la corriente es una tasa de flujo de carga por unidad de tiempo.
+La mayoría de los metales son óhmicos en rangos normales de operación. Los semiconductores y gases ionizados suelen ser no óhmicos.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty 6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Uso de conceptos - Resolución de problemas prácticos
-**Context:** Consumo eléctrico en el hogar colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-010`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Una familia en Cartagena paga $250.000 COP mensuales de energía eléctrica. Si el costo es de $500 COP por kWh, ¿cuántos kWh consumió la familia ese mes?
+En una casa en un pueblo de la costa colombiana, se encienden simultáneamente un aire acondicionado, una nevera y tres ventiladores. Si el "taco" (breaker) principal se dispara, la causa más probable es:
 
-- [ ] A) 125 kWh
-- [ ] B) 250 kWh
-- [x] C) 500 kWh <!-- feedback: Consumo = Costo total / Costo por kWh = 250.000/500 = 500 kWh -->
-- [ ] D) 125.000 kWh <!-- feedback: Error de cálculo: multiplicar en lugar de dividir los valores -->
+- [ ] A) El voltaje de la red aumentó repentinamente. <!-- feedback: Incorrect. Los breakers domésticos responden a la corriente, no suelen ser protectores de sobrevoltaje. -->
+- [x] B) La corriente total consumida superó la capacidad nominal del interruptor térmico debido a la conexión en paralelo de muchas cargas. <!-- feedback: Correct. Al agregar cargas en paralelo, la corriente total de la fuente es la suma de las corrientes individuales ($I_t = I_1 + I_2 + \dots$). -->
+- [ ] C) Las resistencias de los aparatos se sumaron hasta bloquear la energía. <!-- feedback: Incorrect. Las resistencias en paralelo disminuyen la resistencia total, lo que precisamente aumenta la corriente. -->
+- [ ] D) El aire acondicionado consumió todo el voltaje de la casa. <!-- feedback: Incorrect. En paralelo, todos los aparatos reciben el mismo voltaje. -->
 
 ### Explicación Pedagógica
-Este problema combina electricidad con contextos financieros cotidianos. El error más común es invertir la operación matemática necesaria, confundiendo división con multiplicación.
+Sobrecargar un circuito significa pedirle más corriente de la que los cables y protecciones pueden manejar. El breaker protege la instalación de un posible incendio por sobrecalentamiento.
 
 ---
 
-## Question 11 (Variant Hard - Difficulty 7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis - Evaluación de configuraciones de circuitos
-**Context:** Circuitos mixtos en instalaciones industriales colombianas
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En una fábrica de confecciones en Bogotá, se tiene un circuito mixto: dos resistencias de 10 Ω en paralelo, y este conjunto en serie con una resistencia de 5 Ω. Si el circuito se conecta a 30 V, ¿cuál es la corriente total del circuito?
+Un circuito tiene una resistencia equivalente de $5 \Omega$. Si se desea reducir la resistencia total a $2 \Omega$, ¿qué se debe hacer?
 
-- [ ] A) 2 A
-- [ ] B) 3 A
-- [x] C) 2 A <!-- feedback: Rp = (10×10)/(10+10) = 5 Ω. Rt = 5 + 5 = 10 Ω. It = 30V/10Ω = 3 A -->
-- [ ] D) 6 A <!-- feedback: Error: olvidar que en paralelo cada una tiene 10Ω, calcular Rp = 20Ω en lugar de 5Ω -->
+- [ ] A) Conectar una resistencia de $3 \Omega$ en serie. <!-- feedback: Incorrect. Esto aumentaría la resistencia a $8 \Omega$. -->
+- [x] B) Conectar una resistencia adecuada en paralelo. <!-- feedback: Correct. La única forma de disminuir la resistencia equivalente de un circuito es agregando más caminos (ramas) en paralelo. -->
+- [ ] C) Enfriar el circuito hasta el cero absoluto. <!-- feedback: Incorrect. Aunque la resistencia baja con la temperatura, no es una solución de diseño de circuitos estándar. -->
+- [ ] D) Aumentar el voltaje de la fuente. <!-- feedback: Incorrect. El voltaje cambia la corriente, pero no la resistencia física de los componentes. -->
 
 ### Explicación Pedagógica
-En circuitos mixtos se debe identificar claramente qué está en serie y qué en paralelo. Un error típico es tratar las resistencias en paralelo como si estuvieran en serie, duplicando incorrectamente el valor de la resistencia equivalente.
+En paralelo, $1/R_{eq} = 1/R_1 + 1/R_2$. Para pasar de 5 a 2 ohmios, se necesitaría una resistencia en paralelo de $3.33 \Omega$ ($1/2 = 1/5 + 1/3.33$).
 
 ---
 
-## Question 12 (Variant Hard - Difficulty 7)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Razonamiento - Análisis de relaciones físicas
-**Context:** Transmisión de energía eléctrica en Colombia
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Una línea de transmisión de alta tensión transporta 500 MW de potencia a 500 kV. ¿Cuál es la corriente que fluye por la línea?
+La Segunda Ley de Kirchhoff (Ley de Mallas) establece que la suma algebraica de las diferencias de potencial en un lazo cerrado es igual a cero. Esta ley es una consecuencia directa de:
 
-- [ ] A) 1 A
-- [ ] B) 250 A
-- [x] C) 1000 A <!-- feedback: P = V×I, entonces I = P/V = 500.000.000 W / 500.000 V = 1000 A -->
-- [ ] D) 250.000 A <!-- feedback: Error: no convertir correctamente las unidades (MW a W y kV a V) -->
+- [ ] A) La conservación de la carga. <!-- feedback: Incorrect. Esta es la base de la Ley de Nodos. -->
+- [x] B) La conservación de la energía. <!-- feedback: Correct. La energía entregada por las fuentes debe ser igual a la energía consumida o disipada por los componentes en el camino cerrado. -->
+- [ ] C) La Ley de Gravitación Universal. <!-- feedback: Incorrect. No existe relación directa entre estas leyes en circuitos básicos. -->
+- [ ] D) El principio de exclusión de Pauli. <!-- feedback: Incorrect. Es un principio de física cuántica sobre electrones en átomos, no sobre voltajes en mallas. -->
 
 ### Explicación Pedagógica
-La conversión correcta de unidades es crucial: MW a W (×1.000.000) y kV a V (×1.000). Sin estas conversiones, el resultado sería enormemente incorrecto.
+La Ley de Mallas asegura que si una carga da una vuelta completa al circuito y vuelve al mismo punto, su energía potencial neta no ha cambiado.
 
 ---
 
-## Question 13 (Variant Hard - Difficulty 7)
+## Question 13 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Argumentación - Evaluación de afirmaciones
-**Context:** Análisis de eficiencia energética en el hogar colombiano
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Enunciado: Enunciado: Enunciado:
-Se tienen dos bombillas: una incandescente de 60 W a 110 V y una LED de 10 W a 110 V, ambas funcionando simultáneamente durante 10 horas. El costo de la energía es de $500 COP/kWh. ¿Cuánto dinero se ahorra al usar solo la bombilla LED en lugar de la incandescente durante ese tiempo?
+Dos cables del mismo material tienen la misma longitud. El cable A tiene el doble de diámetro que el cable B. ¿Cuál es la relación entre sus resistencias?
 
-- [ ] A) $250 COP
-- [ ] B) $275 COP
-- [x] C) $250 COP <!-- feedback: Ahorro = (60W - 10W) × 10h = 0,05 kW × 10h = 0,5 kWh × $500 = $250 COP -->
-- [ ] D) $600 COP <!-- feedback: Error: calcular el consumo total en lugar del ahorro -->
+- [ ] A) $R_A = R_B / 2$ <!-- feedback: Incorrect. El área depende del cuadrado del diámetro. -->
+- [x] B) $R_A = R_B / 4$ <!-- feedback: Correct. El área es proporcional al cuadrado del radio o diámetro. Doble diámetro significa 4 veces más área. Como $R$ es inversamente proporcional al área, el cable A tiene $1/4$ de la resistencia de B. -->
+- [ ] C) $R_A = 2 R_B$ <!-- feedback: Incorrect. Cables más gruesos tienen MENOS resistencia, no más. -->
+- [ ] D) $R_A = 4 R_B$ <!-- feedback: Incorrect. Esto sería si el cable A fuera 4 veces más largo, no más grueso. -->
 
 ### Explicación Pedagógica
-El ahorro se calcula restando el consumo de la LED del consumo de la incandescente. Muchos estudiantes calculan el consumo total en lugar del consumo evitado, lo cual es el verdadero ahorro.
+Este concepto explica por qué los cables que llevan mucha corriente (como los de una acometida principal) deben ser muy gruesos: para minimizar la resistencia y las caídas de voltaje.
 
 ---
 
-## Question 14 (Variant Hard - Difficulty 8)
+## Question 14 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Indagación - Análisis de variables en circuitos
-**Context:** Circuitos resistivos en sistemas eléctricos industriales
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En un circuito se tienen tres resistencias: R1 = 4 Ω, R2 = 6 Ω y R3 = 12 Ω. Si R1 y R2 están en serie, y este conjunto está en paralelo con R3, conectado a una fuente de 24 V, ¿cuál es la potencia total consumida por el circuito?
+¿Por qué las aves pueden pararse sobre cables de alta tensión sin electrocutarse?
 
-- [ ] A) 24 W
-- [ ] B) 48 W
-- [x] C) 120 W <!-- feedback: Rs = 10 Ω. Rt = (10×12)/(10+12) ≈ 5,45 Ω. P = V²/Rt = 576/5,45 ≈ 105,5 W ≈ 120 W -->
-- [ ] D) 240 W <!-- feedback: Error: no calcular correctamente la resistencia total del circuito mixto -->
+- [ ] A) Porque sus patas están hechas de un material aislante natural. <!-- feedback: Incorrect. El tejido biológico es conductor debido al agua y sales. -->
+- [ ] B) Porque tienen un potencial eléctrico mayor que el del cable. <!-- feedback: Incorrect. Las aves están inicialmente a potencial de tierra (0 V) o neutro. -->
+- [x] C) Porque al tocar un solo cable, no hay una diferencia de potencial significativa entre sus patas; la corriente prefiere seguir por el cable de baja resistencia. <!-- feedback: Correct. Para que fluya corriente debe haber un camino hacia otro potencial (tierra u otro cable). El ave está "flotando" al mismo voltaje que el cable. -->
+- [ ] D) Porque los cables de alta tensión están recubiertos de plástico grueso. <!-- feedback: Incorrect. Los cables de transmisión a campo abierto suelen ser conductores desnudos (sin aislante) para disipar mejor el calor. -->
 
 ### Explicación Pedagógica
-Este problema requiere manejar múltiples pasos: primero las resistencias en serie, luego el conjunto en paralelo con la tercera. Un error común es saltarse pasos o confundir series con paralelos.
+La electrocución requiere una diferencia de potencial ($\Delta V$) a través del cuerpo. Si el ave tocara dos cables distintos o el cable y el poste (tierra) simultáneamente, moriría instantáneamente.
 
 ---
 
-## Question 15 (Variant Hard - Difficulty 8)
+## Question 15 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v15`
-**Bloom:** Apply
-**ICFES:** Uso de modelos - Aplicación de leyes de Kirchhoff
-**Context:** Análisis de circuitos en sistemas de distribución colombiana
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-015`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En un nodo de distribución de energía en Medellín, llegan tres corrientes: I1 = 5 A, I2 = 3 A y I3 = 2 A. Si dos corrientes salen del nodo con valores de 4 A cada una, ¿cuál es el valor y dirección de la tercera corriente que sale del nodo?
+En un circuito de corriente alterna (AC), el valor eficaz (RMS) del voltaje es de 120 V. ¿Qué significa esto físicamente en comparación con un voltaje de 120 V en corriente continua (DC)?
 
-- [ ] A) 6 A entrando al nodo
-- [ ] B) 6 A saliendo del nodo
-- [x] B) 6 A saliendo del nodo <!-- feedback: ΣI entrando = ΣI saliendo. 5A = 4A + I3. I3 = 1A entrando. (Corrección: I1 entra, I2 e I3 salen según contexto, entonces 5+3 = 4+4+I, I=0A) -->
-- [ ] D) 10 A entrando al nodo
+- [ ] A) Que el voltaje AC es en realidad mucho más débil que el DC. <!-- feedback: Incorrect. Producen el mismo efecto energético. -->
+- [x] B) Que el voltaje AC produce el mismo efecto de calentamiento en una resistencia que 120 V de corriente continua. <!-- feedback: Correct. El valor RMS es el valor equivalente en términos de potencia disipada. -->
+- [ ] C) Que el voltaje máximo (pico) de la señal AC es exactamente 120 V. <!-- feedback: Incorrect. El voltaje pico es mayor, aproximadamente $120 \cdot \sqrt{2} \approx 170 V$. -->
+- [ ] D) Que la corriente cambia de dirección 120 veces por segundo. <!-- feedback: Incorrect. La frecuencia en Colombia es de 60 Hz, lo que significa 60 ciclos por segundo. -->
 
 ### Explicación Pedagógica
-Aplicando la Ley de Corrientes de Kirchhoff: la suma de corrientes que entran a un nodo debe ser igual a la suma de las que salen. Un error frecuente es no establecer correctamente qué corrientes entran y cuáles salen.
+Como el voltaje AC sube y baja constantemente, no podemos usar el valor promedio (que sería cero). El valor eficaz (Root Mean Square) nos permite usar las fórmulas de potencia de DC en circuitos de AC.
 
 ---
 
-## Question 16 (Variant Hard - Difficulty 8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Interpretación - Evaluación de afirmaciones técnicas
-**Context:** Componentes de circuitos en equipos electrónicos colombianos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un capacitor de 100 μF se carga mediante una fuente de 12 V. ¿Qué afirmación es correcta sobre la carga almacenada?
+Un inductor (bobina) en un circuito eléctrico se opone fundamentalmente a:
 
-- [ ] A) El capacitor almacena 12 coulomb de carga
-- [ ] B) El capacitor almacena 1,2 × 10⁻³ coulomb de carga
-- [x] B) El capacitor almacena 1,2 × 10⁻³ coulomb de carga <!-- feedback: Q = C × V = 100×10⁻⁶ F × 12 V = 1,2 × 10⁻³ C -->
-- [ ] D) El capacitor almacena 8,3 coulomb de carga <!-- feedback: Error: invertir la fórmula o confundir unidades de microfaradios -->
+- [ ] A) El paso de cualquier tipo de corriente. <!-- feedback: Incorrect. Los inductores dejan pasar la corriente continua (DC) fácilmente después del transitorio inicial. -->
+- [ ] B) Los cambios en el voltaje de la fuente. <!-- feedback: Incorrect. Esa es la función de un condensador. -->
+- [x] C) Los cambios bruscos en la intensidad de la corriente eléctrica. <!-- feedback: Correct. Por la Ley de Lenz, el campo magnético generado intenta mantener la corriente constante, oponiéndose a aumentos o disminuciones rápidas. -->
+- [ ] D) La acumulación de electrones en sus espiras. <!-- feedback: Incorrect. Los electrones fluyen a través de la bobina, no se acumulan en ella. -->
 
 ### Explicación Pedagógica
-La fórmula Q = C × V requiere convertir correctamente los microfaradios a faradios (×10⁻⁶). Un error común es olvidar esta conversión o no manejar correctamente la notación científica.
+La inductancia es la "inercia eléctrica". Se usa en filtros, transformadores y para suavizar señales de corriente en fuentes de alimentación.
 
 ---
 
-## Question 17 (Variant Very Hard - Difficulty 9)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v17`
-**Bloom:** Analyze
-**ICFES:** Razonamiento - Análisis de circuitos complejos
-**Context:** Circuitos en sistemas de generación eólica colombiana
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un parque eólico en La Guajira, cuatro aerogeneradores producen cada uno 25 A a 690 V. Se conectan primero en serie dos aerogeneradores, y en serie los otros dos, y luego estos dos grupos se conectan en paralelo. ¿Cuál es el voltaje y la corriente equivalente resultantes?
+Considere un circuito con una batería de voltaje $V$ y dos resistencias idénticas $R$. ¿En cuál configuración la batería se descargará más rápido?
 
-- [ ] A) 690 V y 50 A
-- [ ] B) 1380 V y 25 A
-- [x] C) 1380 V y 50 A <!-- feedback: Cada serie: Vser = 2×690 = 1380 V, Iser = 25 A. Paralelo: Veq = 1380 V, Ieq = 2×25 = 50 A -->
-- [ ] D) 2760 V y 50 A
+- [ ] A) Con las resistencias conectadas en serie. <!-- feedback: Incorrect. La resistencia total es mayor ($2R$), por lo que la corriente es menor y la potencia consumida es menor. -->
+- [x] B) Con las resistencias conectadas en paralelo. <!-- feedback: Correct. La resistencia total es menor ($R/2$), lo que hace que la corriente total sea mayor ($I = V / (R/2) = 2V/R$). Mayor corriente implica mayor consumo de energía por segundo. -->
+- [ ] C) El tiempo de descarga será el mismo en ambos casos. <!-- feedback: Incorrect. La rapidez de descarga depende directamente de la potencia ($P = V^2 / R_{total}$). -->
+- [ ] D) Depende de la temperatura interna de la batería únicamente. <!-- feedback: Incorrect. Aunque la temperatura afecta, la configuración del circuito define la demanda de energía. -->
 
 ### Explicación Pedagógica
-En conexiones en serie se suma el voltaje manteniendo la corriente. En paralelo se mantiene el voltaje y se suma la corriente. Confundir estas reglas lleva a errores como los distractores.
+Menor resistencia total implica mayor "gasto" de energía de la fuente. El circuito paralelo es mucho más exigente para la batería que el circuito serie con los mismos componentes.
 
 ---
 
-## Question 18 (Variant Very Hard - Difficulty 9)
+## Question 18 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v18`
-**Bloom:** Create
-**ICFES:** Síntesis - Diseño de soluciones de circuitos
-**Context:** Diseño de circuitos de iluminación para proyectos colombianos
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-018`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Se necesita diseñar un circuito que alimente dos motores de 12 V cada uno con una corriente de 2 A por motor. Se dispone de una fuente de 24 V. ¿Cuál configuración permite que ambos motores funcionen correctamente?
+Un transformador ideal tiene una relación de vueltas de 1:10 (elevador). Si el primario se conecta a una batería de 9 V (corriente continua), el voltaje medido en el secundario será:
 
-- [ ] A) Los dos motores en serie
-- [ ] B) Los dos motores en paralelo
-- [x] B) Los dos motores en paralelo <!-- feedback: En paralelo, cada motor recibe 12 V y 2 A, cumpliendo sus especificaciones -->
-- [ ] D) Solo un motor conectado a la fuente
+- [ ] A) 90 V <!-- feedback: Incorrect. Los transformadores no funcionan con corriente continua constante. -->
+- [ ] B) 0.9 V <!-- feedback: Incorrect. No hay inducción con flujo magnético constante. -->
+- [x] C) 0 V (después de un pulso inicial). <!-- feedback: Correct. La inducción electromagnética (Ley de Faraday) requiere un flujo magnético VARIABLE. Una batería DC genera un flujo constante que no induce voltaje sostenido en el secundario. -->
+- [ ] D) 9 V <!-- feedback: Incorrect. El transformador no actúa como un simple cable para DC. -->
 
 ### Explicación Pedagógica
-Cada motor necesita 12 V para funcionar. En paralelo, ambos reciben 12 V (comparten el voltaje de la fuente). En serie, cada uno recibiría solo 12 V entre los dos (6 V cada uno), insuficiente.
+Esta es una confusión común. Los transformadores solo funcionan con Corriente Alterna (AC) o pulsante, porque necesitan que el campo magnético esté creciendo y disminuyendo constantemente para inducir energía.
 
 ---
 
-## Question 19 (Variant Very Hard - Difficulty 10)
+## Question 19 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-v19`
-**Bloom:** Evaluate
-**ICFES:** Argumentación - Evaluación de eficiencia en transmisión
-**Context:** Análisis de pérdidas en líneas de transmisión colombianas
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Una ciudad colombiana consume 100 MW a 110 kV. Si la línea de transmisión tiene una resistencia de 10 Ω, ¿cuánta potencia se pierde en la línea? Si se aumentara el voltaje a 220 kV manteniendo la misma potencia, ¿cuánto se reducirían las pérdidas?
+En el fenómeno de la superconductividad, ciertos materiales pierden toda su resistencia eléctrica por debajo de una temperatura crítica. Si se induce una corriente en un anillo superconductor cerrado:
 
-- [ ] A) 826 kW de pérdida; se reducen a 207 kW
-- [ ] B) 826 kW de pérdida; se reducen a 206,5 kW
-- [x] C) 826 kW de pérdida; se reducen a 206,5 kW <!-- feedback: P pérdida original = I²R = (100.000.000/110.000)² × 10 = 826.446 W. Nuevo I = 100.000.000/220.000 = 454,5 A. P nueva = (454,5)² × 10 = 206.611 W ≈ 206,5 kW -->
-- [ ] D) 1000 kW de pérdida; se reducen a 250 kW
+- [ ] A) La corriente se detendrá en pocos segundos debido a la fricción interna. <!-- feedback: Incorrect. Por definición, no hay resistencia ni fricción eléctrica. -->
+- [ ] B) El anillo explotará por la acumulación infinita de energía. <!-- feedback: Incorrect. La energía es finita (la que se indujo inicialmente). -->
+- [x] C) La corriente circulará indefinidamente sin necesidad de una fuente externa de energía. <!-- feedback: Correct. Sin resistencia, no hay efecto Joule (calor), por lo que la energía cinética de los electrones se conserva. -->
+- [ ] D) El material se convertirá en un aislante perfecto. <!-- feedback: Incorrect. Es todo lo opuesto: el mejor conductor posible. -->
 
 ### Explicación Pedagógica
-Este problema combina transmisión de potencia con la Ley de Ohm. Las pérdidas P = I²R dependen del cuadrado de la corriente. Al duplicar el voltaje, la corriente se reduce a la mitad, y las pérdidas a la cuarta parte (aproximadamente).
+La superconductividad es un fenómeno cuántico macroscópico. Permite crear campos magnéticos ultra potentes en máquinas de resonancia magnética (MRI) y trenes de levitación (Maglev).
 
 ---
 
-## Question 20 (Variant Very Hard - Difficulty 10)
+## Question 20 [D9-D10]
 
-**ID
+**ID:** `CO-CIE-11-P4-electricidad-circuitos-086-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+El teorema de Máxima Transferencia de Potencia establece que una fuente con resistencia interna $R_s$ entrega la mayor cantidad de potencia posible a una carga externa $R_L$ cuando:
+
+- [ ] A) $R_L$ es mucho mayor que $R_s$ (resistencia infinita). <!-- feedback: Incorrect. En este caso la corriente es casi cero, por lo que la potencia es mínima. -->
+- [ ] B) $R_L$ es igual a cero (cortocircuito). <!-- feedback: Incorrect. El voltaje en la carga es cero, por lo que la potencia entregada es cero (toda se queda en la fuente). -->
+- [x] C) $R_L$ es exactamente igual a $R_s$ ($R_L = R_s$). <!-- feedback: Correct. En este punto de equilibrio se optimiza la relación entre corriente y voltaje en la carga para maximizar el producto $P = I^2 R_L$. -->
+- [ ] D) El voltaje de la carga es el doble que el de la fuente. <!-- feedback: Incorrect. El voltaje en la carga nunca puede ser mayor al de la fuente en un circuito pasivo simple. -->
+
+### Explicación Pedagógica
+Este principio es crucial en telecomunicaciones (acoplamiento de antenas) y en audio (conectar parlantes a amplificadores). Si las resistencias no coinciden, se pierde energía valiosa en forma de calor dentro de la fuente.
