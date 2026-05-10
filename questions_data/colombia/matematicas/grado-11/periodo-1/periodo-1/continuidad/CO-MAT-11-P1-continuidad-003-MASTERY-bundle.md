@@ -17,32 +17,17 @@ calibration:
   simulated_responses: 100
 rubric_baseline: "continuidad_local, limites_laterales, modelacion_funcional"
 
-# REVIEW METADATA
-review:
-  agent: "curation-agent"
-  timestamp: "2026-04-04T02:16:20.470Z"
   quality_score: 100
   decision: "APPROVE"
   errors: []
-  warnings: []
 
-# REVIEW METADATA
-review:
-  agent: "curation-agent"
-  timestamp: "2026-04-04T02:16:42.302Z"
   quality_score: 100
   decision: "APPROVE"
   errors: []
-  warnings: []
 
-# REVIEW METADATA
-review:
-  agent: "curation-agent"
-  timestamp: "2026-04-04T02:17:13.433Z"
   quality_score: 100
   decision: "APPROVE"
   errors: []
-  warnings: []
 ---
 
 # Bundle Matematicas G11 - Periodo 1: Continuidad y Analisis Local

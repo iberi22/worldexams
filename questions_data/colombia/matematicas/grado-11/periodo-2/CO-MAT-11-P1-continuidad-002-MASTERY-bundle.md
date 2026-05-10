@@ -18,23 +18,14 @@ calibration:
 rubric_baseline: "analisis_de_continuidad, teoremas_de_existencia, funciones_a_trozos"
 
 
-# REVIEW METADATA
-review:
-  agent: "curation-agent"
-  timestamp: "2026-04-04T02:17:13.432Z"
   quality_score: 100
   decision: "APPROVE"
   errors: []
-  warnings: []
 
-# REVIEW METADATA
-review:
-  agent: "curation-agent"
   timestamp: "2026-04-13T22:25:13.766Z"
   quality_score: 100
   decision: "APPROVE"
   errors: []
-  warnings: []
 ---
 
 # Bundle Mastery: Continuidad y Teoremas de Existencia

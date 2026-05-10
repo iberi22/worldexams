@@ -31,7 +31,6 @@ The frontmatter:
 - prompt_version: "v2-direct"
 - quality_status: "UNREVISED"
 - generation_status: "RAW"
-- needs_human_review: true
 - curation info
 - license: "CC BY-NC-SA 4.0"
 - open_source: false
@@ -68,7 +67,6 @@ generation:
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
-needs_human_review: true
 curation:
   human_review_required: true
   human_reviewed: false
