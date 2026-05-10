@@ -1,52 +1,4 @@
-<think>
-Necesito generar exactamente 20 preguntas tipo ICFES Saber 11 para la materia Sociales Ciudadanas, tema geopolítica mundial, grado 11, período 3.
-
-Debo seguir:
-- Formato YAML frontmatter exactamente como se indica
-- Estructura de cada pregunta con los campos requeridos
-- Dificultad progresiva: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- Contexto colombiano moderno
-- Distractores plausibles (errores reales de estudiantes colombianos)
-- Opción correcta marcada con [x]
-- Sin "todas las anteriores" ni "ninguna de las anteriores"
-- 4 opciones por pregunta
-
-Voy a crear preguntas sobre geopolítica mundial relevantes para Colombia:
-
-Temas posibles:
-1. Organizaciones internacionales (ONU, OEA, UNASUR, CELAC)
-2. Conflictos geopolíticos contemporáneos
-3. Bloques económicos y tratados de libre comercio
-4. Hegemonía y multipolaridad
-5. Soberanía y autodeterminación
-6. Migraciones y crisis humanitarias
-7. Cambio climático y geopolítica
-8. Guerras comerciales y sanciones
-9. Regionalismo latinoamericano
-10. Papel de Colombia en el escenario internacional
-
-Niveles de Bloom:
-- Remember (Recordar): identificar, listar, nombrar
-- Understand (Entender): explicar, resumir, interpretar
-- Apply (Aplicar): usar, resolver, demostrar
-- Analyze (Analizar): analizar, comparar, distinguir
-- Evaluate (Evaluar): evaluar, juzgar, argumentar
-- Create (Crear): diseñar, formular, proponer
-
-Dificultades ICFES:
-- D3-D4: básico
-
-
-- D5-D6: intermedio
-- D7-D8: intermedio-alto
-- D9-D10: avanzado
-
-Identifico cuatro categorías de preguntas según su nivel de complejidad. Las preguntas iniciales (1-4) corresponden a un nivel básico, requiriendo recuerdo y comprensión simple. Las siguientes (5-10) aumentan a un nivel intermedio, demandando aplicación y análisis básico. Posteriormente (11-16) se mantiene un nivel intermedio-alto con análisis más profundo. Finalmente, las preguntas 17-20 alcanzan un nivel avanzado, exigiendo evaluación y creación de soluciones complejas.
-
-Cada conjunto de preguntas poseerá características específicas en cuanto a taxonomía y competencias, permitiéndome diseñar un conjunto diverso y progresivo de evaluaciones.
-</think>
-
-```yaml
+---
 id: "CO-SOC-11-P3-geopolitica-mundial-102-MASTERY"
 country: "colombia"
 grado: 11
@@ -54,415 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "geopolitica-mundial"
 periodo: 3
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 102
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:00:23.347357"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
-```
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
+---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identifier les organisations internationales et leur rôle
-**Context:** Contexto de la política exterior colombiana en 2025
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-La Organización de las Naciones Unidas (ONU) fue creada después de la Segunda Guerra Mundial con el objetivo principal de:
+¿Cuál es la función principal de la "Corte Penal Internacional" (CPI) con sede en La Haya?
 
 ### Options
-- [ ] A) Establecer un sistema económico monetario mundial único
-- [ ] B) Garantizar la paz y la seguridad internacional entre los Estados miembros
-- [x] C) Promover la cooperación internacional para resolver problemas económicos, sociales y humanitarios <!-- feedback: Esta es la misión fundamental de la ONU según su Carta fundacional de 1945 -->
-- [ ] D) Crear un ejército internacional permanente para intervenir en conflictos armados
+- [ ] A) Resolver disputas territoriales entre países por límites marítimos. <!-- feedback: Incorrect. Esa es la función de la Corte Internacional de Justicia (CIJ), no de la penal. -->
+- [x] B) Juzgar a individuos acusados de crímenes de guerra, lesa humanidad y genocidio cuando la justicia nacional no puede o no quiere hacerlo. <!-- feedback: Correct. La CPI se enfoca en la responsabilidad criminal individual de los más altos responsables. -->
+- [ ] C) Prestar dinero a los países para que reconstruyan sus ciudades tras una guerra. <!-- feedback: Incorrect. Esa es función de organismos financieros como el Banco Mundial o el FMI. -->
+- [ ] D) Dictar las leyes penales que deben aplicarse en todos los países del mundo. <!-- feedback: Incorrect. Cada país mantiene su soberanía legislativa penal, aunque adaptada a estándares internacionales. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque la ONU se fundó específicamente para mantener la paz y la seguridad internacionales y fomentar la cooperación internacional. La opción B es incompleta porque solo menciona la paz sin incluir los demás objetivos. Los estudiantes frecuentemente confunden la ONU con el Fondo Monetario Internacional (A) o con la OTAN (D).
+La CPI nació con el Estatuto de Roma (1998) para evitar que los crímenes más atroces quedaran impunes en cualquier rincón del planeta.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Reconnaître les concepts fondamentaux de la géopolitique
-**Context:** Actualidad diplomática latinoamericana 2025
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-Colombia es miembro fundador de la Unión de Naciones Suramericanas (UNASUR). Esta organización se caracteriza por ser:
+En la geopolítica del Medio Oriente, ¿cuál es el recurso natural que históricamente ha motivado la intervención de potencias extranjeras y conflictos regionales?
 
 ### Options
-- [ ] A) Un bloque militar de defensa colectiva similar a la OTAN
-- [ ] B) Un pacto económico exclusivo para el libre comercio intrarregional
-- [x] C) Un mecanismo de integración política, económica y social entre Estados suramericanos <!-- feedback: UNASUR busca la integración integral incluyendo dimensiones políticas, económicas, sociales y culturales -->
-- [ ] D) Una organización exclusivamente культурна para promover el turismo
+- [ ] A) Oro y diamantes. <!-- feedback: Incorrect. Estos recursos son más característicos de ciertas regiones de África y Suramérica. -->
+- [ ] B) Agua dulce y tierras fértiles. <!-- feedback: Incorrect. Aunque el agua es escasa y vital, no ha sido el motor principal de la geopolítica petrolera de la región. -->
+- [x] C) Petróleo y gas natural. <!-- feedback: Correct. El control de las reservas energéticas del Golfo Pérsico es estratégico para la economía mundial. -->
+- [ ] D) Madera y recursos forestales. <!-- feedback: Incorrect. El Medio Oriente es predominantemente árido y desértico, careciendo de grandes extensiones boscosas. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque UNASUR es un bloque de integración multidimensional. La opción A confunde a UNASUR con tratados militares. La B reduce la organización solo al aspecto comercial. La D minimiza su alcance solo a lo cultural. Muchos estudiantes desconocen la naturaleza integral de UNASUR.
+La dependencia energética del mundo industrializado ha hecho del Medio Oriente una zona de tensión permanente entre intereses locales y globales.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Expliquer les liens entre les événements historiques et les dynamiques actuelles
-**Context:** Situación migratoria venezolana y su impacto en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-El fenómeno migratorio venezolano hacia Colombia, que se intensificó desde 2015, representa un desafío geopolítico porque:
+¿Qué organización regional europea se caracteriza por tener una moneda única (el Euro) compartida por la mayoría de sus miembros y un mercado común sin fronteras internas?
 
 ### Options
-- [ ] A) Venezuela busca expandir su territorio hacia departamentos fronterizos colombianos
-- [ ] B) Genera presiones sobre la política interior de Colombia sin afectar las relaciones internacionales
-- [x] C) Implica una crisis humanitaria que requiere coordinación entre Estados y organismos internacionales para su gestión <!-- feedback: La migración masiva venezolana es considerada una crisis humanitaria que trasciende fronteras y exige respuestas multilaterales -->
-- [ ] D) Solo tiene consecuencias económicas bilaterales sin implicaciones políticas mayores
+- [ ] A) La OTAN. <!-- feedback: Incorrect. Es una alianza militar que incluye a Estados Unidos y Canadá, no es un mercado común con moneda propia. -->
+- [x] B) La Unión Europea (UE). <!-- feedback: Correct. Representa el mayor grado de integración económica y política entre Estados soberanos en la actualidad. -->
+- [ ] C) El G7. <!-- feedback: Incorrect. Es un foro de los siete países más industrializados, no una unión con moneda y mercado común integrado. -->
+- [ ] D) El Consejo de Europa. <!-- feedback: Incorrect. Es una organización enfocada en derechos humanos, pero no gestiona el mercado ni la moneda única. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque la migración masiva venezolana constituye una crisis humanitaria que requiere respuesta coordinada internacional. La A es históricamente inexacta. La B subestima el impacto internacional. La D es falsa porque las migraciones masivas generan crisis diplomáticas y presión internacional. Los estudiantes tienden a simplificar el fenómeno migratorio solo a lo económico.
+La Unión Europea es un experimento geopolítico único donde los países ceden parte de su soberanía para lograr beneficios comunes y estabilidad tras siglos de guerras.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Identifier les différentes formes de gouvernement et leurs liens avec la politique étrangère
-**Context:** Sistema democrático colombiano y su proyección internacional
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-En el marco de la geopolítica mundial, el concepto de soberanía nacional implica que cada Estado tiene:
+¿A qué se refiere el término "Xenofobia" en el contexto de la migración global actual?
 
 ### Options
-- [ ] A) El derecho de intervenir militarmente en otros países para defender sus intereses comerciales
-- [x] B) Plena autoridad sobre sus asuntos internos sin injerencia externa legítima, según el derecho internacional <!-- feedback: La soberanía es un principio fundamental del derecho internacional establecido en la Carta de la ONU -->
-- [ ] C) Obligación de compartir sus recursos naturales con países más pobres
-- [ ] D) Potestad para establecer tratados solo con países que compartan su sistema político
+- [ ] A) Al miedo a las alturas y a los viajes en avión. <!-- feedback: Incorrect. El miedo a las alturas es la acrofobia. -->
+- [x] B) Al rechazo, odio o miedo irracional hacia los extranjeros o personas de otros países. <!-- feedback: Correct. Es un problema creciente en muchos países que reciben grandes oleadas migratorias. -->
+- [ ] C) Al deseo de vivir en otro país para aprender un nuevo idioma. <!-- feedback: Incorrect. Esto es una motivación migratoria positiva, no un sentimiento de rechazo. -->
+- [ ] D) A la obligación de los turistas de pagar impuestos más altos. <!-- feedback: Incorrect. No tiene relación con las tasas fiscales de turismo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque la soberanía nacional es un principio del derecho internacional que protege la autonomía estatal. La A describe imperialismo, no soberanía. La C confunde obligaciones humanitarias con soberanía. La D reduce las relaciones internacionales a compatibilidad ideológica. Este tema genera confusión porque los estudiantes often mezclan soberanía con aislacionismo.
+La xenofobia es una barrera para la integración social y una violación a la dignidad humana que los Estados deben combatir mediante educación y leyes.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Analyser l'impact des décisions des organisations internationales sur les politiques publiques
-**Context:** Acuerdos de paz colombiano y su recepción internacional
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.65
 
 ### Enunciado
-El Acuerdo de Paz firmado entre el Gobierno colombiano y las FARC-EP en 2016 recibió apoyo de organismos internacionales como la ONU y la Unión Europea, principalmente porque:
+¿Cuál es la diferencia entre "Multilateralismo" y "Unilateralismo" en las relaciones internacionales?
 
 ### Options
-- [ ] A) Estos organismos buscan imponer modelos económicos neoliberales a través de Colombia
-- [x] B) Representaba una oportunidad para resolver un conflicto armado prolongado y sus consecuencias humanitarias <!-- feedback: La comunidad internacional apoyó el proceso de paz por su potencial para reducir la violencia y el desplazamiento forzado -->
-- [ ] C) Buscaban favorecer económicamente a empresas europeas con la reconstrucción posconflicto
-- [ ] D) Querían debilitar la influencia de Estados Unidos en América Latina
+- [ ] A) El multilateralismo es usar muchas armas y el unilateralismo usar solo una. <!-- feedback: Incorrect. No tiene relación con el armamento, sino con la forma de tomar decisiones políticas. -->
+- [x] B) El multilateralismo implica la cooperación entre varios países para resolver problemas; el unilateralismo es cuando un país actúa solo sin consultar a los demás. <!-- feedback: Correct. La ONU promueve el multilateralismo como forma de evitar conflictos. -->
+- [ ] C) El multilateralismo solo se aplica en el comercio y el unilateralismo en el deporte. <!-- feedback: Incorrect. Son enfoques generales de política exterior aplicables a cualquier materia. -->
+- [ ] D) No hay diferencia, son dos formas de decir que un país es muy poderoso. <!-- feedback: Incorrect. Un país poderoso puede elegir actuar de forma multilateral o unilateral, cambiando el resultado geopolítico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque el apoyo internacional al proceso de paz se fundamentó en resolver una crisis humanitaria de décadas. La A es una interpretación conspirativa sin fundamento. La C es simplista. La D confunde geocomercio con objetivos humanitarios. Los estudiantes frecuentemente desconfían de la ayuda internacional y buscan explicaciones solely economicistas.
+El multilateralismo busca consensos y reglas compartidas, mientras que el unilateralismo suele generar tensiones y resentimiento entre las naciones afectadas.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Comparer les différents modèles d'intégration regionale
-**Context:** Tratados de libre comercio firmados por Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-El Tratado de Libre Comercio (TLC) entre Colombia y Estados Unidos, vigente desde 2012, ejemplifica una relación geopolítica basada en:
+El conflicto entre Israel y Palestina tiene una dimensión territorial profunda. ¿Cuál es la ciudad considerada sagrada por tres religiones que está en el centro de la disputa por su estatus político?
 
 ### Options
-- [ ] A) Alianzas exclusivamente militares para enfrentar amenazas comunes en la región
-- [ ] B) Dependencia económica total donde Colombia no obtiene beneficios reciprocitos
-- [x] C) Interdependencia económica asimétrica con beneficios diferenciales para cada parte <!-- feedback: Los TLC establecen relaciones comerciales con ventajas mutuas, aunque asimétricas en poder de negociación -->
-- [ ] D) Aislamiento comercial voluntario de Colombia respecto a la economía mundial
+- [ ] A) El Cairo. <!-- feedback: Incorrect. Es la capital de Egipto y no está en disputa en el conflicto israelí-palestino. -->
+- [ ] B) Tel Aviv. <!-- feedback: Incorrect. Es el centro económico de Israel, pero no es el núcleo de la disputa religiosa y territorial histórica. -->
+- [x] C) Jerusalén. <!-- feedback: Correct. Sagrada para judíos, cristianos y musulmanes, ambos bandos la reclaman como su capital. -->
+- [ ] D) Gaza. <!-- feedback: Incorrect. Es una franja de territorio importante, pero no es la "Ciudad Santa" central para las tres religiones. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque los TLCson acuerdos de interdependencia asimétrica donde ambos países obtienen beneficios pero en proporciones distintas según su poder económico. La A es incorrecta porque no es un pacto militar. La B es extrema y falsa. La D contradice la realidad de Colombia como país abierto comercialmente. Students commonly confuse interdependence with dependency.
+Jerusalén simboliza la complejidad del conflicto, donde la fe religiosa, la historia milenaria y el derecho internacional chocan sin una solución definitiva.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Distinguer les differentes formes de conflictualité dans le monde contemporain
-**Context:** Conflictos armados contemporáneos y su impacto en las migraciones
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-La guerra en Ukraine que began en 2022 generó impacto en Colombia porque:
+¿Qué se entiende por "Estatuto de Refugiado" según la Convención de Ginebra de 1951?
 
 ### Options
-- [ ] A) Colombia tiene acuerdos militares secretos con alguno de los bandos en conflicto
-- [ ] B) Afecta principalmente el turismo y no tiene consecuencias económicas significativas
-- [x] C) Alteró las cadenas globales de suministro de cereales y fertilizantes, elevando precios de alimentos <!-- feedback: Ukraine es un major exportador de granos; el conflicto perturbó mercados globales afectando precios en Colombia -->
-- [ ] D) Provocó la llegada masiva de refugiados ukrainianos a América Latina
+- [ ] A) Una persona que viaja por el mundo para conocer diferentes hoteles. <!-- feedback: Incorrect. Un refugiado no viaja por elección placentera o turismo. -->
+- [ ] B) Alguien que se muda a otro país buscando ganar más dinero. <!-- feedback: Incorrect. Esto se denomina migrante económico, no refugiado. -->
+- [x] C) Una persona que huye de su país por fundados temores de persecución por motivos de raza, religión, nacionalidad o ideas políticas. <!-- feedback: Correct. Tiene derecho a protección internacional y a no ser devuelto a su país de origen. -->
+- [ ] D) Un ciudadano que decide vivir en una carpa en el jardín de su casa. <!-- feedback: Incorrect. No tiene relación con el estilo de vivienda dentro del propio país. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el conflicto en Ukraine perturbó significativamente los mercados globales de granos y fertilizantes, aumentando costos de producción agrícola en Colombia. La A es falsa. La B subestima el impacto económico. La D, aunque hay refugiados ukrainianos, no representa un flujo masivo hacia Colombia. Los estudiantes no conectan conflictos lejanos con consecuencias económicas locales.
+El refugio es un derecho humano que protege la vida frente a la opresión estatal o la violencia generalizada de un país.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Evaluer l'influence des puissances emergentes sur l'ordre mondial
-**Context:** Ascenso de China como potencia económica global
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-El crecimiento económico de China en las últimas décadas ha modificado el orden geopolítico mundial al:
+La "Guerra Comercial" entre Estados Unidos y China iniciada bajo el gobierno de Donald Trump se basó principalmente en:
 
 ### Options
-- [ ] A) Eliminar completamente la influencia de Estados Unidos en Asia Pacífico
-- [ ] B) Provocar la disolución de la ONU y creación de nuevas instituciones
-- [x] C) Generar un orden multipolar donde varias potencias compiten por influencia y recursos <!-- feedback: China como potencia emergente contribuye a un mundo multipolar, coexistiendo con Estados Unidos, la Unión Europea y otros actores -->
-- [ ] D) Convertirse en el único proveedor tecnológico mundial eliminando competencia
+- [ ] A) Una disputa por quién fabrica los mejores juguetes de madera. <!-- feedback: Incorrect. La competencia es por alta tecnología y manufacturas masivas. -->
+- [x] B) La imposición mutua de aranceles (impuestos) a las importaciones para proteger la industria propia y reducir el déficit comercial. <!-- feedback: Correct. También incluyó disputas por el robo de propiedad intelectual y tecnología 5G. -->
+- [ ] C) Un acuerdo para prohibir que las personas compren celulares en ambos países. <!-- feedback: Incorrect. No se prohibió el consumo, se encareció mediante impuestos o se limitó a ciertas empresas. -->
+- [ ] D) La decisión de China de regalar todos sus productos a los ciudadanos estadounidenses. <!-- feedback: Incorrect. China busca vender y obtener ganancias, no regalar su producción nacional. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el ascenso de China contribuye a un orden multipolar caracterizado por la competencia entre múltiples actores globales. La A es exagerada; Estados Unidos mantiene influencia significativa. La B es falsa; la ONU sigue funcionando. La D es imposible en una economía globalizada. Students tend to think en términos de binario (China vs USA) sin reconocer la complejidad multipolar.
+Esta guerra comercial muestra cómo la economía se usa como arma política para frenar el ascenso de un competidor geopolítico.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Analyser les causes et consequences des politiques migratoires
-**Context:** Políticas migratorias colombianas ante flujos masivos
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-El Estatuto Temporal de Protección para migrantes venezolanos (ETPV), implementado por Colombia desde 2021, representa una estrategia geopolítica porque:
+¿Cuál es el papel de los "Cascos Azules" de la ONU en las zonas de conflicto?
 
 ### Options
-- [ ] A) Busca promover la guerra civil en Venezuela para favorecer grupos armados colombianos
-- [x] B) Ofrece protección temporal mientras se buscan soluciones diplomáticas regionales al fenómeno migratorio <!-- feedback: El ETPV constituye una política de protección humanitarian regional que requiere coordinación internacional y diplomatic effort -->
-- [ ] C) Pretende anexar territorio venezolano a través de la legalización de ciudadanos venezolanos
-- [ ] D) Establece un peaje migratorio para generar ingresos al Estado colombiano
+- [ ] A) Pelear contra uno de los bandos hasta derrotarlo militarmente. <!-- feedback: Incorrect. No son una fuerza de ataque de una de las partes; son una fuerza de paz neutral. -->
+- [x] B) Mantener la paz, vigilar ceses al fuego y proteger a la población civil bajo el mandato del Consejo de Seguridad. <!-- feedback: Correct. No son un ejército nacional, sino tropas cedidas por diferentes países para misiones humanitarias. -->
+- [ ] C) Repartir cascos de colores a los niños para que jueguen en la calle. <!-- feedback: Incorrect. El color azul es el símbolo de la ONU para ser identificados como neutrales en la guerra. -->
+- [ ] D) Gobernar los países que no tienen presidente durante cien años. <!-- feedback: Incorrect. Sus misiones son temporales y enfocadas en la seguridad, no en el gobierno civil de largo plazo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque el ETPV representa una política de protección humanitarian diseñada para gestionar un flujo migratorio masivo en coordinación con organismos internacionales. La A es absurda. La C es históricamente imposible. La D es falsa; el ETPV es gratuito. Students who don't understand humanitarian politics may perceive migrations políticas as purely economic or territorial.
+Los Cascos Azules representan el esfuerzo de la comunidad internacional por detener la violencia, aunque su efectividad ha sido cuestionada en algunos conflictos debido a sus limitaciones para usar la fuerza.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Comparer les différentes formes de régulations internationales
-**Context:** Cambio climático y acuerdos ambientales internacionales
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Acuerdo de París (2015) representa un instrumento de gobernanza climática global porque establece:
+¿A qué se refiere el concepto de "Norte Global" y "Sur Global" en geopolítica?
 
 ### Options
-- [ ] A) Multas económicas obligatorias para países que no cumplan las metas de reducción de emisiones
-- [ ] B) Un sistema de comercio de emisiones sin límite máximo global
-- [x] C) Compromisos voluntarios nacionalmente determinados para limitar el calentamiento global a 1.5°C <!-- feedback: El Acuerdo de París se basa en Contribuciones Determinadas a Nivel Nacional (NDC) que son compromisos voluntaria pero vinculantes en su implementación -->
-- [ ] D) La prohibición total del uso de combustibles fósiles desde 2030
+- [ ] A) A los países que están arriba y abajo de la línea del Ecuador únicamente. <!-- feedback: Incorrect. No es una división estrictamente geográfica; hay países del sur geográfico que son del norte global. -->
+- [ ] B) A los países donde hace mucho frío y los países donde hace mucho calor. <!-- feedback: Incorrect. El clima no define el desarrollo político o económico en esta clasificación. -->
+- [x] C) A la división entre países desarrollados y ricos (Norte) y países en desarrollo o con mayores niveles de pobreza y desigualdad (Sur). <!-- feedback: Correct. Refleja las diferencias de poder y riqueza heredadas de la historia colonial. -->
+- [ ] D) A los países que usan brújulas y los que no las usan. <!-- feedback: Incorrect. Es una interpretación absurda del término. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el Acuerdo de París opera mediante NDC (Contribuciones Determinadas a Nivel Nacional), compromisos voluntarios que cada país diseña según sus capacidades. La A es falsa; no hay multas obligatorias. La B describe mecanismos accesorios, no el fundamento del Acuerdo. La D es un objetivo irrealista no contemplado en el Acuerdo. Students frequently confuse voluntary commitments con binding regulations.
+Esta terminología ha sustituido a la de "Primer Mundo" y "Tercer Mundo", buscando enfatizar las relaciones de poder y la necesidad de una cooperación internacional más justa.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Juger de l'efficacité des mecanismes de resolution des conflits
-**Context:** Mecanismos de resolución de conflictos en América Latina
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-La OEA (Organización de Estados Americanos) ha sido criticada por su manejo de crisis políticas en América Latina porque algunos analistas sostienen que:
+La "Primavera Árabe" (iniciada en 2010-2011) fue una serie de protestas populares en el norte de África y Medio Oriente que buscaban principalmente:
 
 ### Options
-- [ ] A) Ha actuado siempre de manera imparcial sin considerar intereses de potencias externas
-- [x] B) Sus intervenciones frecuentemente responden a intereses geopolíticos de Estados Unidos más que a principios democráticos genuinos <!-- feedback: Críticos como la UNASUR cuestionan que la OEA prioriza alineamientos ideológicos sobre soluciones autónomas regionales -->
-- [ ] C) Solo interviene en conflictos económicos y nunca en políticos
-- [ ] D) Carece completamente de legitimidad y debe ser disuelta inmediatamente
+- [ ] A) Que el clima fuera más fresco durante el verano. <!-- feedback: Incorrect. "Primavera" es una metáfora de cambio político y renacimiento democrático. -->
+- [x] B) El fin de dictaduras prolongadas, mayor democracia, justicia social y mejores condiciones de vida. <!-- feedback: Correct. Comenzó en Túnez y se extendió a países como Egipto, Libia y Siria. -->
+- [ ] C) Que los países árabes se unieran para invadir a Europa. <!-- feedback: Incorrect. Las protestas eran internas contra sus propios gobiernos autoritarios. -->
+- [ ] D) La prohibición del uso de Internet en todos los países musulmanes. <!-- feedback: Incorrect. Al contrario, las redes sociales fueron fundamentales para organizar las protestas. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque existe un debate académico válido sobre si las intervenciones de la OEA reflejan prioridades geopolíticas de sus miembros más poderosos. La A es una visión acrítica. La C es falsa. La D es una posición extrema sin nuance. Este tema requiere que los estudiantes evalúen críticamente las organizaciones internacionales sin caer en extremos.
+Aunque generó esperanza inicial, los resultados de la Primavera Árabe fueron diversos: algunos países lograron cambios democráticos, otros cayeron en guerras civiles (Siria) o volvieron a regímenes autoritarios.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Argumenter sur les enjeux de la sécurité internationale
-**Context:** Seguridad regional y amenazas transnationales
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-El cultivo ilícito de coca en Colombia y su procesamiento para exportación constituye una amenaza geopolítica transnational porque:
+¿Cuál es la importancia estratégica del Canal de Panamá para la geopolítica mundial?
 
 ### Options
-- [ ] A) Genera violencia únicamente en áreas rurales colombianas sin afectar otros países
-- [ ] B) Es causado exclusivamente por la demanda interna colombiana de sustancias psicotrópicas
-- [x] C) Alimenta redes criminales que desestabilizan múltiples Estados y corrompen instituciones públicas transnacionales <!-- feedback: El narcotráfico es un fenómeno transnacional que conecta productores, carteles y mercados en una cadena globalizada de criminalidad -->
-- [ ] D) Solo representa un problema de salud pública sin dimensiones políticas
+- [ ] A) Es el único lugar del mundo donde se pueden ver ballenas saltando. <!-- feedback: Incorrect. Aunque hay ballenas cerca, su importancia es comercial y logística. -->
+- [ ] B) Es donde se encuentra la base secreta de los piratas del siglo XXI. <!-- feedback: Incorrect. Es una zona de alto control estatal e internacional, lo opuesto a un refugio pirata. -->
+- [x] C) Conecta el Océano Atlántico con el Pacífico, acortando miles de kilómetros las rutas de comercio mundial entre Asia, Europa y América. <!-- feedback: Correct. El control de este paso ha sido un eje de la influencia de EE.UU. en la región. -->
+- [ ] D) Es el lugar donde se extrae todo el oro del continente americano. <!-- feedback: Incorrect. No es una mina; es una vía de tránsito marítimo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el narcotráfico tiene dimensiones transnacionales que incluyen corrupción de instituciones, violencia organizada y desestabilización de Estados en toda la región. La A subestima el alcance transnational. La B es simplista. La D ignora dimensiones políticas evidentes. Los estudiantes frecuentemente reducen el narcotráfico a problema de salud sin reconocer su naturaleza geopolítica.
+La geografía física de Panamá (el istmo) le otorga un valor estratégico que condiciona su economía y sus relaciones internacionales.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Distinguer les actors et leurs roles dans les relations internationales
-**Context:** Actores emergentes en la geopolítica contemporánea
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-Las empresas tecnológicas transnacionales como Google, Amazon o Tencent representan nuevos actores geopolíticos porque:
+El fenómeno de la "Fragmentación" de Estados (como ocurrió en Yugoslavia o Sudán) suele estar motivado por:
 
 ### Options
-- [ ] A) Han sido completamente reguladas por Estados y no poseen autonomía en sus operaciones globales
-- [ ] B) Solo operan en el ámbito tecnológico sin influencia en decisiones políticas
-- [x] C) Controlan infraestructura digital crítica y poseen capacidad de influencia sobre opiniones públicas y flujos de información <!-- feedback: Las big techs controlan datos, algoritmos y plataformas de comunicación con capacidad de influir en procesos electorales y políticas públicas -->
-- [ ] D) Están sujetas exclusivamente a jurisdicciones nacionales sin operaciones internacionales
+- [ ] A) La decisión de los ciudadanos de mudarse todos a otro planeta. <!-- feedback: Incorrect. No tiene relación con la migración espacial. -->
+- [x] B) Conflictos étnicos, religiosos o culturales profundos y el deseo de grupos minoritarios de tener su propio Estado soberano. <!-- feedback: Correct. A menudo termina en guerras civiles y la creación de nuevos países. -->
+- [ ] C) El mandato de la ONU de que ningún país puede tener más de diez millones de habitantes. <!-- feedback: Incorrect. La ONU respeta la integridad territorial de los Estados y no impone límites de población. -->
+- [ ] D) La falta de pintura para marcar las fronteras antiguas. <!-- feedback: Incorrect. Las fronteras son acuerdos políticos y legales, no dependen de pintura física en el suelo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque las grandes empresas tecnológicas controlan infraestructura digital estratégica (datos, plataformas, algoritmos) que les otorga poder de influencia sin paralelo histórico. La A es falsa; la regulación estatal es aún débil. La B subestima su influencia política. La D contradice su naturaleza transnacional. Este tema es novedosa para estudiantes que no reconocen que las big techs son actores geopolíticos.
+La tensión entre la "nación" (grupo cultural) y el "Estado" (unidad política) es una de las mayores fuentes de inestabilidad en la geopolítica moderna.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Analyser les dynamiques de la mondialisation et leurs effets inégaux
-**Context:** Globalización y desigualdad en el contexto latinoamericano
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-La globalización económica ha generado efectos diferenciados en América Latina porque algunos países han logradoinsertarse productivamente en cadenas de valor globales mientras otros:
+¿A qué se refiere el término "Estado Fallido" en la geopolítica contemporánea?
 
 ### Options
-- [ ] A) Han sido completamente marginados del comercio internacional por decisiones de la ONU
-- [ ] B) Se benefician igualmente porque la globalización elimina naturalmente toda desigualdad
-- [x] C) Permanecen como exportadores de materias primas con bajo valor agregado y vulnerabilidad ante fluctuaciones de precios <!-- feedback: América Latina enfrenta una inserción asimétrica en la globalización, concentrándose en commodities sujetos a volatilidad de precios -->
-- [ ] D) Han desarrollado industria tecnológica de punta comparable a países asiáticos
+- [ ] A) A un país que perdió un partido de fútbol muy importante. <!-- feedback: Incorrect. Es un concepto de ciencia política, no deportivo. -->
+- [ ] B) A un Estado que decidió dejar de usar el nombre que tenía para llamarse de otra forma. <!-- feedback: Incorrect. Los cambios de nombre no implican el colapso de las instituciones. -->
+- [x] C) A un Estado que ha perdido el control efectivo de su territorio, el monopolio de la fuerza legítima y no puede proveer servicios básicos a su población. <!-- feedback: Correct. Ejemplos históricos recientes han sido Somalia, Haití o Afganistán en ciertos periodos. -->
+- [ ] D) A un país que tiene demasiados días festivos al año. <!-- feedback: Incorrect. El exceso de vacaciones no define el colapso del Estado. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque América Latina enfrenta inserción periférica en la globalización, exportando materias primas con bajo procesamiento y alta vulnerabilidad a términos de intercambio. La A es exagerada. La B es falsa; la globalización NO elimina desigualdades por sí sola. La D contrasta con la realidad de la región. Students a menudo imaginan la globalización como proceso automáticamente igualador.
+Los Estados fallidos son una preocupación global porque suelen convertirse en refugio de grupos terroristas, redes de narcotráfico o fuentes de crisis humanitarias masivas.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Juger de l'efficacité des stratégies de développement
-**Context:** Modelos de desarrollo económico en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-El modelo económico colombiano basado en tratados de libre comercio y apertura de mercados ha sido debatido porque críticos sostienen que:
+¿Cuál es la función del "G20" en la geopolítica económica actual?
 
 ### Options
-- [ ] A) Ha logrado automáticamente el desarrollo económico para toda la población sin costos sociales
-- [x] B) Ha generado crecimiento económico pero con peningkatan de desigualdades sociales y concentración de riqueza <!-- feedback: El debate académico reconoce crecimiento del PIBpero con críticas sobre distribución inequitativa de beneficios del libre comercio -->
-- [ ] C) Ha sido un fracaso total sin ningún indicador económico positivo durante su implementación
-- [ ] D) Solo beneficia a sectores agrícolas sin impacto en servicios ni industria
+- [ ] A) Es el grupo de los 20 mejores ejércitos del mundo para invadir otros países. <!-- feedback: Incorrect. Es un foro económico y político, no una alianza militar de agresión. -->
+- [x] B) Es un foro que reúne a las 19 economías más ricas del mundo más la Unión Europea para discutir temas de estabilidad financiera y crecimiento global. <!-- feedback: Correct. Incluye a países desarrollados y emergentes como Argentina, Brasil y México. -->
+- [ ] C) Una organización que prohíbe que los países tengan más de 20 bancos. <!-- feedback: Incorrect. No tiene relación con el número de entidades financieras. -->
+- [ ] D) El grupo de los 20 países que descubrieron la cura para todas las enfermedades. <!-- feedback: Incorrect. Aunque tratan temas de salud global, no es su definición ni su logro principal. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque existe evidencia empírica de que la apertura comercial en Colombia coincided con crecimiento del PIB pero también con incremento de indicadores de desigualdad. La A es una visión acrítica. La C es extrema. La D es simplista. Los estudiantes oscillan entre extremos: celebran el modelo sin crítica o lo rechazan completamente sin reconocer matices.
+El G20 es más representativo que el antiguo G7, ya que incluye a las potencias emergentes que hoy mueven gran parte del comercio mundial.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Analyser les consequences des sanctions internationales
-**Context:** Sanciones económicas internacionales y sus efectos
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-Las sanciones económicas internacionales impuestas a Rusia tras la invasión a Ukraine en 2022 buscan:
+¿Cuál es la importancia de las "Tierras Raras" (minerales específicos) en la competencia geopolítica entre China y Occidente?
 
 ### Options
-- [ ] A) Provocar un cambio de régimen inmediato mediante intervención militar encubierta
-- [ ] B) Desestabilizar completamente la economía rusa hasta causar hambruna masiva
-- [x] C) Presionar diplomáticamente y limitar la capacidad militar rusa mediante restricciones económicas coordinadas <!-- feedback: Las sanciones buscan modificar comportamento sin uso de fuerza militar, isolando economically al Estado sancionado -->
-- [ ] D) Eliminar totalmente el comercio de hydrocarbons a nivel global
+- [ ] A) Se usan para fabricar joyas mágicas que dan superpoderes. <!-- feedback: Incorrect. Son minerales reales con propiedades químicas, no objetos de fantasía. -->
+- [ ] B) Es el único material con el que se pueden construir estadios de fútbol. <!-- feedback: Incorrect. Los estadios se construyen con materiales tradicionales como acero y concreto. -->
+- [x] C) Son componentes esenciales para la fabricación de alta tecnología (celulares, baterías de carros eléctricos, satélites) y China controla la mayor parte de su producción. <!-- feedback: Correct. Quien controle estos minerales tiene el control sobre el futuro tecnológico e industrial. -->
+- [ ] D) Son las tierras donde nacen las plantas que nunca mueren. <!-- feedback: Incorrect. Es una interpretación poética errónea; son recursos mineros estratégicos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque las sanciones económicas son herramientas de presión diplomática diseñadas para aislar economically al Estado objetivo y limitar sus capacidades militares sin recurrir a la fuerza. La A confunde sanciones con intervención militar. La B es una interpretación extrema. La D es imposible y contraproducente para países importadores. Students frecuentemente tienen percepciones extremas sobre las sanciones.
+La dependencia de un solo país para minerales críticos genera vulnerabilidades estratégicas, lo que obliga a otros países a buscar nuevas minas o tecnologías alternativas.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v17`
-**Bloom:** Evaluate
-**ICFES:** Argumenter sur les défis de la gouvernance mondiale
-**Context:** Reforma del Consejo de Seguridad de la ONU
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Una de las principales críticas al Consejo de Seguridad de la ONU es que el poder de veto concedido a sus cinco miembros permanentes:
+Considere la "Diplomacia de la Vacuna" durante la pandemia de COVID-19. ¿Cómo usaron algunos países la distribución de vacunas como herramienta geopolítica?
 
 ### Options
-- [ ] A) Garantiza la toma de decisiones por consenso universal de todas las naciones
-- [ ] B) Ha sido reformado exitosamente múltiples veces desde 1945 para incluir nuevos miembros
-- [x] C) Permite que intereses nacionales de pocas potencias bloqueen acciones para mantener la paz internacional <!-- feedback: El veto permite a USA, Rusia, China, Francia y UK bloquear decisiones que podrían ir en contra de sus intereses nacionales -->
-- [ ] D) Solo aplica para temas económicos sin relevancia para la paz y seguridad
+- [ ] A) Regalando vacunas a los virus para que dejaran de atacar a las personas. <!-- feedback: Incorrect. Las vacunas son para las personas; la metáfora es absurda. -->
+- [ ] B) Prohibiendo que otros países compraran vacunas para que se extinguieran. <!-- feedback: Incorrect. Aunque hubo acaparamiento, el uso geopolítico fue para ganar amigos, no para extinguir poblaciones. -->
+- [x] C) Donando o vendiendo vacunas a países en desarrollo para ganar influencia política, mejorar su imagen internacional y fortalecer alianzas estratégicas. <!-- feedback: Correct. China y Rusia fueron muy activos en esta estrategia frente al acaparamiento de los países occidentales. -->
+- [ ] D) Obligando a que todos los vacunados se convirtieran en ciudadanos del país que fabricó la vacuna. <!-- feedback: Incorrect. La vacunación no cambia la nacionalidad ni la ciudadanía. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el poder de veto efectivamente permite que intereses nacionales de los P5 bloqueen resoluciones, como ocurrió históricamente con conflictos en los que tenían intereses directos. La A es contraria a la realidad. La B es falsa; no ha habido reforma del veto. La D es inexacta. Students frecuentemente desconocen cómo funciona el mecanismo del veto y sus implicaciones para la gobernanza global.
+Este es un ejemplo moderno de "Poder Blando", donde la ayuda humanitaria se convierte en una herramienta para expandir la influencia de una potencia en regiones en disputa.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v18`
 **Bloom:** Evaluate
-**ICFES:** Juger de la cohérence des politiques étrangères
-**Context:** Política exterior colombiana y tratados internacionales
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
 
 ### Enunciado
-Colombia enfrenta tensiones diplomáticas cuando sus políticas internas contradicen compromisos internacionales porque:
+¿Cuál es la tensión principal entre el "Derecho a la Autodeterminación de los Pueblos" y el "Principio de Integridad Territorial" de los Estados?
 
 ### Options
-- [ ] A) Los tratados internacionales carecen de valor jurídico frente a la legislación nacional colombiana
-- [x] B) El derecho internacional público establece que los tratados vinculan a los Estados y su incumplimiento genera consecuencias políticas y legales <!-- feedback: Según el derecho internacional, pacta sunt servanda, los tratados obligan a buena fe; su incumplimiento genera responsabilidad internacional -->
-- [ ] C) Los organismos internacionales pueden imponer sanciones económicas automáticamente sin proceso diplomático
-- [ ] D) Colombia puede denunciar cualquier tratado unilateralmente sin consecuencias diplomáticas
+- [ ] A) Que los pueblos no saben lo que quieren y el Estado siempre tiene la razón. <!-- feedback: Incorrect. No es un juicio de valor sobre la sabiduría de los pueblos, sino un conflicto legal internacional. -->
+- [ ] B) Que la integridad territorial obliga a que todos los países tengan forma de cuadrado. <!-- feedback: Incorrect. La integridad se refiere a las fronteras actuales, no a la forma geométrica. -->
+- [x] C) Que un grupo puede querer independizarse (autodeterminación), pero el Estado tiene derecho a mantener sus fronteras actuales (integridad), lo que suele generar conflictos violentos o secesiones. <!-- feedback: Correct. Ejemplos claros son Cataluña en España o los Kurdos en Medio Oriente. -->
+- [ ] D) Que la autodeterminación permite que cada persona elija su propio nombre sin pedir permiso. <!-- feedback: Incorrect. Se refiere a colectivos nacionales o pueblos, no a decisiones individuales de nombres personales. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque el derecho internacional establece el principio pacta sunt servanda (los tratados deben cumplirse de buena fe), generando responsabilidad internacional por incumplimiento. La A es jurídicamente incorrecta; los tratados superiores a ley nacional en Colombia. La C subestima la complejidad del proceso sancionador. La D es simplista; denunciar tiene consecuencias. Los estudiantes tienden a pensar que el derecho internacional es irrelevante domestically.
+El derecho internacional no ha resuelto totalmente esta tensión, lo que hace que cada caso de independencia sea tratado de forma diferente según los intereses de las grandes potencias.
 
 ---
 
-## Question 19 (Variant Basic - Difficulty D10)
+## Question 19 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v19`
-**Bloom:** Create
-**ICFES:** Proposer des solutions aos problemas de gobernanza global
-**Context:** Crisis de gobernanza ambiental global
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-Frente a la insuficiencia de los mecanismos actuales para enfrentar el cambio climático global, una propuesta innovadora sería:
+El "Cambio Climático" está abriendo nuevas rutas marítimas en el Ártico debido al deshielo. ¿Qué impacto geopolítico tiene esto para países como Rusia, EE.UU. y Canadá?
 
 ### Options
-- [ ] A) Eliminar completamente el comercio internacional para reducir la huella de carbono global
-- [ ] B) Crear un organismo internacional con tropas propias para hacer cumplir las metas ambientales por la fuerza
-- [x] C) Establecer un sistema de impuestos globales a transacciones financieras que financie la transición energética en países
+- [ ] A) Ninguno, porque el Ártico es solo hielo y agua sin valor alguno. <!-- feedback: Incorrect. El deshielo permite el tránsito comercial y la extracción de recursos antes inaccesibles. -->
+- [ ] B) Que todos los barcos del mundo se van a hundir porque hay demasiada agua ahora. <!-- feedback: Incorrect. Los barcos flotan en el agua; el problema no es el exceso de agua sino la soberanía sobre las nuevas rutas. -->
+- [x] C) Una nueva competencia por el control de rutas comerciales más cortas y por el acceso a yacimientos de gas y petróleo en el lecho marino ártico. <!-- feedback: Correct. Se está convirtiendo en una nueva zona de tensión militar y económica. -->
+- [ ] D) La obligación de que los barcos sean pintados de blanco para no asustar a los osos polares. <!-- feedback: Incorrect. Los problemas son de soberanía, militarización y recursos, no de estética de los barcos. -->
+
+### Explicación Pedagógica
+Este es un ejemplo de cómo los cambios ambientales transforman la geografía y obligan a redefinir las estrategias de seguridad nacional y el derecho internacional.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-geopolitica-mundial-102-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere el fenómeno de las "Fake News" (noticias falsas) en las campañas electorales modernas. ¿Cómo afecta esto la soberanía de un país desde una perspectiva de cibergeopolítica?
+
+### Options
+- [ ] A) Obliga a que la gente deje de leer periódicos y solo vea televisión. <!-- feedback: Incorrect. El problema es la desinformación en todos los medios, especialmente digitales. -->
+- [x] B) Permite que potencias extranjeras influyan en la opinión pública y el resultado de las elecciones de otro país sin invadirlo militarmente, debilitando su democracia. <!-- feedback: Correct. Es una forma de "intervencionismo digital" que pone en duda quién toma realmente las decisiones en un país. -->
+- [ ] C) Ayuda a que los candidatos sean más honestos porque saben que los vigilan en Internet. <!-- feedback: Incorrect. Generalmente tiene el efecto contrario: ensucia el debate y confunde al votante. -->
+- [ ] D) No afecta en nada, porque la gente ya no cree en nada de lo que sale en Internet. <!-- feedback: Incorrect. La desinformación sigue siendo efectiva para polarizar sociedades y distorsionar la realidad. -->
+
+### Explicación Pedagógica
+La soberanía hoy no solo se defiende en las fronteras físicas, sino también protegiendo la integridad de la información y la autonomía del proceso democrático frente a ataques digitales externos.

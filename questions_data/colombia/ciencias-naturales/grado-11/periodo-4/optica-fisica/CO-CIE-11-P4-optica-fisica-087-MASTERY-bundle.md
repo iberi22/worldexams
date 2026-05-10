@@ -1,34 +1,3 @@
-<think>
-The user wants me to generate exactly 20 questions in ICFES Saber 11 format for Colombian state exam, subject: Natural Sciences, topic: Physical Optics, grade 11, period 4.
-
-Let me create the questions following the exact format requested, with progressive difficulty:
-- Questions 1-4: D3-D4 difficulty
-- Questions 5-10: D5-D6 difficulty
-- Questions 11-16: D7-D8 difficulty
-- Questions 17-20: D9-D10 difficulty
-
-The format must include YAML frontmatter and then 20 questions with the structure specified.
-
-Let me generate these questions about physical optics (optica-fisica) which would include topics like:
-- Wave nature of light
-- Reflection and refraction
-- Snell's law
-- Interference and diffraction
-- Polarization
-- Electromagnetic spectrum
-- Lenses and mirrors
-- Optical instruments
-- Double slit experiment
-- Single slit diffraction
-- Huygens principle
-- Total internal reflection
-- Dispersion
-
-I'll create contextually relevant questions for Colombian students, with modern contexts.
-
-</think>
-
-```markdown
 ---
 id: "CO-CIE-11-P4-optica-fisica-087-MASTERY"
 country: "colombia"
@@ -39,391 +8,390 @@ periodo: 4
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 87
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:06:50.275837"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Identificación de conceptos]
-**Context:** Fenómenos ópticos cotidianos en Colombia
-
-### Enunciado
-Cuando la luz blanca passa a través de un prisma de cristal y se descompone en los colores del arcoíris, este fenómeno se denomina:
-
-### Options
-- [ ] A) Reflexión de la luz
-- [ ] B) Dispersión cromática
-- [x] C) Descomposición de la luz por refracción <!-- feedback: La luz blanca está formada por múltiples longitudes de onda que al pasar por el prisma sufren diferentes ángulos de refracción, separándose en sus colores componentes -->
-- [ ] D) Interferencia constructiva <!-- feedback: La interferencia requiere superposición de ondas, no es el mecanismo de separación de colores en un prisma -->
-
-### Explicación Pedagógica
-La dispersión cromática ocurre porque el índice de refracción del vidrio depende de la longitud de onda. Los colores violeta y azul tienen mayor refracción que los rojos, separándose al salir del prisma. Este concepto es fundamental para entender cómo funcionan los espectroscopios utilizados en astronomía.
-
----
-
-## Question 2 (Variant Basic - Difficulty D3)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Reconocimiento de principios]
-**Context:** Aplicaciones tecnológicas colombianas
-
-### Enunciado
-La ley de Snell relaciona los ángulos de incidencia y refracción con los índices de refracción de dos medios. Si la luz pasa del aire (n≈1) al agua (n≈1.33), y el ángulo de incidencia es de 30°, el ángulo de refracción será:
-
-### Options
-- [ ] A) Mayor a 30°
-- [ ] B) Igual a 30°
-- [x] C) Menor a 30° <!-- feedback: Como el agua tiene mayor índice de refracción que el aire, la luz se acerca a la normal según la Ley de Snell: n₁ sin θ₁ = n₂ sin θ₂ -->
-- [ ] D) 90° <!-- feedback: Para llegar a 90° se necesitaría un ángulo de incidencia cercano al ángulo crítico, que es aproximadamente 49° para esta interfaz -->
-
-### Explicación Pedagógica
-Por la Ley de Snell: n₁ sin θ₁ = n₂ sin θ₂. Con n₁=1, θ₁=30°, n₂=1.33: sin θ₂ = (1 × sin 30°)/1.33 ≈ 0.376, por lo tanto θ₂ ≈ 22°. El error común es pensar que mayor índice significa mayor ángulo.
-
----
-
-## Question 3 (Variant Basic - Difficulty D4)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v3`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-001`
 **Bloom:** [Understand]
-**ICFES:** [Comprensión de fenómenos]
-**Context:** Fenómeno natural observado en Colombia
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un estudiante observa que cuando mira hacia el agua cristalina de un lago en los Llanos Orientales, puede ver el fondo. Pero cuando el agua está agitada, la imagen del fondo se distorsiona. Esto ocurre principalmente porque:
+Cuando un rayo de luz blanca atraviesa un prisma de vidrio, se descompone en los colores del arcoíris. Este fenómeno físico se conoce como:
 
-### Options
-- [ ] A) La velocidad de la luz cambia en agua agitada
-- [x] B) Las superficies de refracción irregulares dispersan la luz en múltiples direcciones <!-- feedback: Las ondas en la superficie crean múltiples normales locales, causando refracciones en diferentes direcciones que destruyen la imagen nítida -->
-- [ ] C) El índice de refracción aumenta con el movimiento
-- [ ] D) La luz se absorbe más cuando hay movimiento <!-- feedback: No hay absorción significativa por el movimiento del agua -->
+- [ ] A) Reflexión total interna. <!-- feedback: Incorrect. La reflexión total interna ocurre cuando la luz rebota completamente dentro de un medio denso. -->
+- [ ] B) Difracción de borde. <!-- feedback: Incorrect. La difracción es el arqueamiento de la luz alrededor de obstáculos. -->
+- [x] C) Dispersión de la luz. <!-- feedback: Correct. La dispersión ocurre porque el índice de refracción del vidrio varía ligeramente según la longitud de onda (color) de la luz. -->
+- [ ] D) Polarización lineal. <!-- feedback: Incorrect. La polarización se refiere a la orientación de las oscilaciones del campo eléctrico de la luz. -->
 
 ### Explicación Pedagógica
-Cuando la superficie del agua tiene ondas, cada punto funciona como un pequeño prisma con diferente ángulo de inclinación. Esto causa que los rayos luminosos se desvíen en múltiples direcciones, destruyendo la formación de una imagen coherente. Es el mismo principio por el cual vemos a través de superficies curvas distorsionadas.
+Isaac Newton demostró que la luz blanca es una mezcla de colores. Cada color viaja a una velocidad ligeramente distinta dentro del vidrio, lo que causa ángulos de desviación diferentes para cada uno.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v4`
-**Bloom:** [Apply]
-**ICFES:** [Aplicación de conceptos]
-**Context:** Tecnología de comunicación en Colombia
-
-### Enunciado
-Los cables de fibra óptica utiliza el principio de reflexión interna total para transmitir señales lumínicas. ¿Qué condición debe cumplirse para que ocurra este fenómeno?
-
-### Options
-- [ ] A) La luz debe ir de un medio de mayor índice a uno de menor índice con ángulo mayor al ángulo crítico
-- [x] B) La luz debe ir de un medio de mayor índice a uno de menor índice con ángulo mayor al ángulo crítico <!-- feedback: Correcto: cuando el ángulo de incidencia supera el ángulo crítico, toda la luz se refleja sin transmitirse al segundo medio -->
-- [ ] C) La luz debe ir de un medio de menor índice a uno de mayor índice
-- [ ] D) El ángulo debe ser exactamente 45° independentede los índices <!-- feedback: El ángulo crítico depende de los índices de refracción de los materiales, no es un valor fijo -->
-
-### Explicación Pedagógica
-La reflexión interna total requiere: (1) luz pasando de medio ópticamente más denso a menos denso, (2) ángulo de incidencia mayor al ángulo crítico. El ángulo crítico se calcula como θc = arcsen(n₂/n₁). En fibras ópticas, el núcleo tiene índice mayor que la cubierta, permitiendo guiar la luz por reflexiones totales sucesivas.
-
----
-
-## Question 5 (Variant Medium - Difficulty D5)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v5`
-**Bloom:** [Apply]
-**ICFES:** [Resolución de problemas]
-**Context:** Ingeniería óptica colombiana
-
-### Enunciado
-Un láser de helio-neón (λ = 633 nm) incide perpendicularmente sobre una rendija doble. En una pantalla ubicada a 2 metros se observan franjas de interferencia con separación de 1.2 mm. La distancia entre las rendijas es aproximadamente:
-
-### Options
-- [ ] A) 0.05 mm
-- [x] B) 1.05 mm <!-- feedback: Usando d = λL/Δy = (633×10⁻⁹ × 2)/(1.2×10⁻³) ≈ 1.055×10⁻³ m = 1.05 mm -->
-- [ ] C) 2.1 mm
-- [ ] D) 0.53 mm <!-- feedback: Este valor resultaría de usar mal la fórmula, quizás dividiendo entre 2 -->
-
-### Explicación Pedagógica
-En interferencia de doble rendija, la separación entre máximos consecutivos es Δy = λL/d. Despejando d = λL/Δy. El error común es olvidar convertir nanómetros a metros o confundir la fórmula con la de difracción.
-
----
-
-## Question 6 (Variant Medium - Difficulty D5)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v6`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-002`
 **Bloom:** [Understand]
-**ICFES:** [Análisis de principios]
-**Context:** Astronomía en Colombia
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-El telescopio espacial James Webb utiliza espejos segmentados con Coating de oro para reflejar luz infrarroja. Respecto a un espejo común de plata, el espejo dorado tiene mayor reflectividad en el infrarrojo porque:
+Al observar una piscina, el fondo parece estar más cerca de lo que realmente está. ¿Qué fenómeno de la óptica explica esta percepción visual?
 
-### Options
-- [x] A) El oro tiene electrones libres que oscilan favorablemente a frecuencias infrarrojas, causando mínima absorción <!-- feedback: Los metales tienen plasmas frecuencias; el oro refleja mejor en infrarrojo porque sus electrones libres responden mejor a esas frecuencias -->
-- [ ] B) El oro absorbe toda la luz visible y refleja solo infrarrojo
-- [ ] C) El oro tiene menor índice de refracción para infrarrojo
-- [ ] D) El oro es más denso físicamente y por eso refleja más <!-- feedback: La reflectividad depende de las propiedades electrónicas, no de la densidad -->
+- [ ] A) Reflexión especular. <!-- feedback: Incorrect. La reflexión permitiría ver tu propio reflejo o el del cielo en la superficie. -->
+- [x] B) Refracción de la luz. <!-- feedback: Correct. Al pasar del agua al aire, la luz cambia de velocidad y de dirección (se aleja de la normal), haciendo que el objeto parezca estar en una posición menos profunda. -->
+- [ ] C) Dispersión cromática. <!-- feedback: Incorrect. No estamos viendo colores separados, sino una distorsión de la posición. -->
+- [ ] D) Absorción selectiva. <!-- feedback: Incorrect. La absorción cambia el color o intensidad del agua, no la posición aparente del fondo. -->
 
 ### Explicación Pedagógica
-Los metales tienen plasma frecuencias que determinan qué longitudes de onda reflejan mejor. El oro tiene electrones libres que responden óptimamente a frecuencias infrarrojas, minimizando la absorción. El aluminio es mejor para UV-visible, el oro para IR. La选的 común es pensar que "refleja todo" sin considerar la dependencia de frecuencia.
+La refracción es el cambio de dirección que experimenta una onda al pasar de un medio a otro con distinto índice de refracción. Es la base del funcionamiento de los lentes.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v7`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-003`
 **Bloom:** [Apply]
-**ICFES:** [Uso de modelos]
-**Context:** Instrumentos ópticos en laboratorios colombianos
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un estudiante usa un microscopio simple con lente convergente de distancia focal 5 cm. Si observa un objeto ubicado a 8 cm de la lente, la imagen se forma aproximadamente a:
+Un espejo plano produce una imagen de un objeto colocado frente a él. ¿Cuáles son las características principales de esta imagen?
 
-### Options
-- [ ] A) 3.2 cm, derecha y mayor
-- [ ] B) 3.2 cm, invertida y mayor
-- [x] C) 13.3 cm, invertida y mayor <!-- feedback: Por la ecuación de lentes: 1/f = 1/do + 1/di, entonces 1/5 = 1/8 + 1/di, di ≈ 13.3 cm. Imagen real, invertida y amplificada -->
-- [ ] D) 13.3 cm, derecha y mayor <!-- feedback: Lentes convergentes producen imágenes reales invertidas cuando el objeto está entre f y 2f, no imágenes virtuales derechas -->
+- [ ] A) Real, invertida y de mayor tamaño. <!-- feedback: Incorrect. Los espejos planos no invierten la imagen verticalmente ni cambian el tamaño. -->
+- [x] B) Virtual, derecha y del mismo tamaño que el objeto. <!-- feedback: Correct. La imagen parece estar "detrás" del espejo (virtual), mantiene la misma orientación vertical y las mismas dimensiones. -->
+- [ ] C) Real, derecha y de menor tamaño. <!-- feedback: Incorrect. Las imágenes reales pueden proyectarse en una pantalla; las virtuales no. -->
+- [ ] D) Virtual, invertida y distorsionada. <!-- feedback: Incorrect. Las imágenes en espejos planos no son invertidas (aunque sí hay una inversión lateral izquierda-derecha). -->
 
 ### Explicación Pedagógica
-Usando la ecuación de lentes delgadas: 1/f = 1/do + 1/di. Con f=5 cm y do=8 cm (>f pero <2f), se obtiene di positivo de 13.3 cm. La imagen es real, invertida y amplificada. El error frecuente es no identificar correctamente el signo de di para objetos entre f y 2f.
+La óptica geométrica en espejos planos se basa en la ley de reflexión: el ángulo de incidencia es igual al ángulo de reflexión. La distancia del objeto al espejo es igual a la distancia de la imagen al espejo.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Modelamiento]
-**Context:** Producción de energía solar en Colombia
-
-### Enunciado
-Un panel solar colombiano utiliza celdas de silicio con eficiencia del 20%. Si la irradiancia solar es de 800 W/m² y el panel tiene 1.5 m² de área, ¿cuánta potencia eléctrica máxima puede generar?
-
-### Options
-- [ ] A) 120 W
-- [x] B) 240 W <!-- feedback: P = Irradiancia × Área × Eficiencia = 800 × 1.5 × 0.20 = 240 W -->
-- [ ] C) 1200 W
-- [ ] D) 160 W <!-- feedback: Error común: multiplicar solo irradiancia por área (1200 W) sin aplicar la eficiencia -->
-
-### Explicación Pedagógica
-La potencia maxima teórica se calcula multiplicando la irradiancia incidente por el área y por la eficiencia de conversión. El distractor más plausible es olvidar la eficiencia y pensar que toda la energía incidente se convierte, o confundir el factor de eficiencia (dividir en lugar de multiplicar).
-
----
-
-## Question 9 (Variant Medium - Difficulty D6)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v9`
-**Bloom:** [Analyze]
-**ICFES:** [Análisis de evidencias]
-**Context:** Diagnóstico médico en hospitales colombianos
-
-### Enunciado
-En una endoscopia, la luz viaja a través de una fibra óptica con índice de refracción 1.5. Si el ángulo crítico para la interfaz núcleo-cubierta es 41.8°, el índice de refracción de la cubierta debe ser aproximadamente:
-
-### Options
-- [ ] A) 1.00
-- [ ] B) 1.20
-- [x] C) 1.12 <!-- feedback: n₂ = n₁ sin θc = 1.5 × sin(41.8°) ≈ 1.5 × 0.666 ≈ 1.00. Como el ángulo crítico depende de la relación entre núcleos, se calcula: n₂ = n₁ × sin(θc). Para θc=41.8°, n₂ ≈ 1.12 -->
-- [ ] D) 2.25 <!-- feedback: Esto sería mayor que n₁, imposible para ángulo crítico real -->
-
-### Explicación Pedagógica
-El ángulo crítico cumple: sin θc = n₂/n₁. Por lo tanto n₂ = n₁ × sin θc. Sustituyendo: n₂ = 1.5 × sin(41.8°) ≈ 1.5 × 0.667 ≈ 1.00. El distractor 2.25 resulta de malinterpretar la fórmula del ángulo crítico aplicándola invertida.
-
----
-
-## Question 10 (Variant Medium - Difficulty D6)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v10`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-004`
 **Bloom:** [Understand]
-**ICFES:** [Interpretación de principios]
-**Context:** Fenómeno atmosférico colombiano
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-El fenómeno del " arcoíris doble" que occasionally se observa en los cielos colombianos después de una tormenta se explica por:
+La velocidad de la luz en el vacío es de aproximadamente $300,000 km/s$. Si la luz entra en un diamante (índice de refracción $n = 2.4$), su velocidad dentro del material:
 
-### Options
-- [ ] A) Refracción simple en gotas de agua
-- [ ] B) Reflexión externa única en superficies esféricas
-- [x] C) Doble reflexión interna dentro de las gotas de agua <!-- feedback: El segundo arcoíris se forma por dos reflexiones internas dentro de cada gota, lo que invierte el orden de colores respecto al arcoíris primario -->
-- [ ] D) Interferencia de la luz con partículas de polvo <!-- feedback: El polvo causaría dispersión Rayleigh, no arcoíris definidos -->
+- [x] A) Disminuye significativamente. <!-- feedback: Correct. Según la relación $v = c / n$, a mayor índice de refracción, menor es la velocidad de la luz en el medio. -->
+- [ ] B) Aumenta para compensar la densidad. <!-- feedback: Incorrect. Ningún medio material permite que la luz viaje más rápido que en el vacío. -->
+- [ ] C) Permanece igual porque la luz es energía pura. <!-- feedback: Incorrect. La interacción con los átomos del medio retrasa la propagación de la onda electromagnética. -->
+- [ ] D) Se vuelve infinita debido a la pureza del cristal. <!-- feedback: Incorrect. La velocidad de la luz siempre es finita y tiene un límite máximo universal ($c$). -->
 
 ### Explicación Pedagógica
-El arcoíris primario resulta de una reflexión interna y una refracción. El arcoíris secundario requiere dos reflexiones internas antes de salir de la gota, lo que invierte el orden de colores (rojo afuera, violeta adentro) y hace que sea menos intenso. La ángulo del arco secundario es aproximadamente 50° respecto al primario.
+El índice de refracción ($n$) es una medida de cuánto se "frena" la luz en un material. El diamante tiene uno de los índices más altos, lo que contribuye a su brillo y fuego característico.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v11`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-005`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Cuál de las siguientes teorías sobre la naturaleza de la luz fue propuesta por Christiaan Huygens y luego reforzada por los experimentos de interferencia de Thomas Young?
+
+- [ ] A) Teoría Corpuscular (la luz son pequeñas pelotas de materia). <!-- feedback: Incorrect. Esta era la visión original de Newton. -->
+- [x] B) Teoría Ondulatoria (la luz es una onda que se propaga en un medio). <!-- feedback: Correct. La interferencia y difracción son fenómenos puramente ondulatorios que no pueden explicarse con partículas clásicas. -->
+- [ ] C) Teoría de la Relatividad General. <!-- feedback: Incorrect. Esta teoría de Einstein explica la gravedad, no el comportamiento ondulatorio básico de la luz. -->
+- [ ] D) Teoría del Calor Estático. <!-- feedback: Incorrect. No existe una teoría con ese nombre aplicada a la óptica. -->
+
+### Explicación Pedagógica
+El debate sobre si la luz era partícula u onda duró siglos. Young demostró con su experimento de la doble rendija que la luz puede interferir consigo misma, confirmando su naturaleza ondulatoria.
+
+---
+
+## Question 6 [D5-D6]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-006`
 **Bloom:** [Analyze]
-**ICFES:** [Razonamiento crítico]
-**Context:** Proyecto de investigación universitario en Colombia
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En un experimento de Young de doble rendija, se observa el patrón de franjas. Si se incrementa la longitud de onda del láser y se mantiene constante la distancia entre rendijas y la distancia a la pantalla, entonces:
+En las fibras ópticas utilizadas para internet de alta velocidad en Bogotá, la luz viaja largas distancias sin escaparse del cable. Esto es posible gracias al fenómeno de:
 
-### Options
-- [ ] A) La separación entre franjas disminuye
-- [x] B) La separación entre franjas aumenta proporcionalmente a la longitud de onda <!-- feedback: Δy = λL/d, si λ aumenta, Δy aumenta linealmente. Este es un resultado directo de la ecuación de interferencia -->
-- [ ] C) La separación permanece constante porque depende solo de d
-- [ ] D) El patrón desaparece completamente <!-- feedback: Patrón permanece visible, solo cambia el espaciamiento -->
+- [ ] A) Difracción total externa. <!-- feedback: Incorrect. La difracción haría que la luz se dispersara fuera del cable. -->
+- [x] B) Reflexión total interna. <!-- feedback: Correct. Cuando la luz incide con un ángulo mayor al ángulo crítico al pasar de un medio más denso a uno menos denso, rebota totalmente hacia adentro. -->
+- [ ] C) Refracción perfecta. <!-- feedback: Incorrect. La refracción implica que la luz cruza la frontera, lo cual se quiere evitar en una fibra. -->
+- [ ] D) Polarización circular. <!-- feedback: Incorrect. La polarización no impide que la luz escape del material. -->
 
 ### Explicación Pedagógica
-La ecuación Δy = λL/d muestra claramente que para L y d constantes, Δy es directamente proporcional a λ. Error común: pensar que mayor longitud de onda significa menor separación (confundiendo con difracción de rendija única donde a mayor λ, mayor difracción).
+La fibra óptica funciona como una "tubería de luz". El núcleo tiene un índice de refracción mayor que el recubrimiento (cladding), atrapando la señal mediante reflexiones sucesivas.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v12`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-007`
+**Bloom:** [Apply]
+**ICFES:** [Indagación]
+
+### Enunciado
+Un rayo de luz incide sobre una superficie de vidrio con un ángulo de 30° respecto a la normal. Si el rayo reflejado y el rayo incidente están en el mismo plano, ¿cuál es el ángulo de reflexión?
+
+- [ ] A) 15° <!-- feedback: Incorrect. El ángulo de reflexión no se reduce a la mitad. -->
+- [x] B) 30° <!-- feedback: Correct. Según la ley de reflexión, el ángulo de incidencia es exactamente igual al ángulo de reflexión ($\theta_i = \theta_r$). -->
+- [ ] C) 60° <!-- feedback: Incorrect. Este es el ángulo complementario respecto a la superficie, no el ángulo de reflexión respecto a la normal. -->
+- [ ] D) 0° <!-- feedback: Incorrect. Esto solo pasaría si la incidencia fuera normal (perpendicular). -->
+
+### Explicación Pedagógica
+Las leyes de la reflexión son universales para cualquier onda. Siempre se miden respecto a la "normal", que es la línea perpendicular a la superficie en el punto de impacto.
+
+---
+
+## Question 8 [D5-D6]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-008`
 **Bloom:** [Analyze]
-**ICFES:** [Comparación de conceptos]
-**Context:** Seguridad vial en Colombia
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Los espejos retrovisores laterales de los vehículos suelen tener la advertencia "objetos más cercanos de lo que aparecen". Esto se debe a que estos espejos son:
+¿Por qué el cielo se ve azul durante un día despejado?
 
-### Options
-- [ ] A) Planos, y la advertencia es por el ángulo de visión
-- [x] B) Convexos, dando campo más amplio pero imágenes menores <!-- feedback: Los espejos convexos divergen los rayos, dando campo de visión más amplio pero imágenes reducidas, lo que hace que las distancias parezcan mayores -->
-- [ ] C) Cóncavos, formando imágenes virtuales derechas
-- [ ] D) Esféricos, con aberración cromática excesiva
+- [ ] A) Porque el aire refleja el color de los océanos. <!-- feedback: Incorrect. Los océanos son azules por una razón similar, no es una reflexión del agua hacia el aire. -->
+- [x] B) Debido a la dispersión de Rayleigh: las moléculas de la atmósfera dispersan más las longitudes de onda cortas (azul/violeta). <!-- feedback: Correct. La luz azul choca con las partículas del aire y se desvía en todas direcciones, llenando el cielo de ese color. -->
+- [ ] C) Porque el oxígeno es un gas de color azul natural. <!-- feedback: Incorrect. El oxígeno líquido es azul, pero como gas es incoloro en pequeñas cantidades. -->
+- [ ] D) Por el efecto invernadero que atrapa solo la luz roja. <!-- feedback: Incorrect. El efecto invernadero se relaciona con la luz infrarroja, no con el color azul visible. -->
 
 ### Explicación Pedagógica
-Los espejos convexos proporcionan un campo visual más amplio (ángulo de visión mayor) pero las imágenes resultan más pequeñas y más alejadas de lo que realmente están. Esto permite ver más tráfico en los laterales pero puede engañar sobre la distancia real de un vehículo. Por seguridad, los espejos de pasajero incluyen advertencia.
+La interacción de la luz con la materia depende del tamaño de las partículas. El azul se dispersa más por ser una onda corta; al atardecer, la luz debe viajar más distancia por la atmósfera y solo el rojo (onda larga) logra llegar sin dispersarse tanto.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v13`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+Un lente convergente (como una lupa) se caracteriza por ser más grueso en el centro que en los bordes. Cuando rayos paralelos atraviesan este lente:
+
+- [ ] A) Se separan alejándose unos de otros. <!-- feedback: Incorrect. Eso lo hace un lente divergente. -->
+- [x] B) Se curvan hacia un punto común llamado foco. <!-- feedback: Correct. La geometría del lente hace que la luz converja, permitiendo concentrar la energía o ampliar imágenes. -->
+- [ ] C) Se bloquean totalmente convirtiéndose en calor. <!-- feedback: Incorrect. Los lentes son transparentes; transmiten la luz por refracción. -->
+- [ ] D) Cambian de color según el ángulo de entrada. <!-- feedback: Incorrect. Aunque existe la aberración cromática, la función principal es el cambio de trayectoria. -->
+
+### Explicación Pedagógica
+Los lentes convergentes son la base de los microscopios, telescopios y el propio ojo humano (el cristalino es un lente convergente natural).
+
+---
+
+## Question 10 [D5-D6]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-010`
+**Bloom:** [Understand]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+La polarización es una propiedad de la luz que demuestra que esta es una onda:
+
+- [ ] A) Longitudinal como el sonido. <!-- feedback: Incorrect. Las ondas longitudinales no pueden polarizarse porque solo vibran en una dirección. -->
+- [x] B) Transversal. <!-- feedback: Correct. Solo las ondas que vibran perpendicularmente a la dirección de propagación pueden ser "filtradas" en una orientación específica. -->
+- [ ] C) Mecánica como las del agua. <!-- feedback: Incorrect. La polarización no define si la onda es mecánica o electromagnética, sino su dirección de oscilación. -->
+- [ ] D) Estacionaria dentro de una cavidad. <!-- feedback: Incorrect. Las ondas viajeras también se polarizan. -->
+
+### Explicación Pedagógica
+Las ondas de luz oscilan en múltiples planos. Un filtro polarizador solo deja pasar las oscilaciones que ocurren en un plano determinado. Esto se usa en gafas de sol para eliminar reflejos molestos.
+
+---
+
+## Question 11 [D7-D8]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
+
+### Enunciado
+Se realiza el experimento de la doble rendija de Young. Si se disminuye la distancia entre las dos rendijas, ¿qué sucede con el patrón de franjas de interferencia observado en la pantalla?
+
+- [ ] A) Las franjas se vuelven más delgadas y se juntan. <!-- feedback: Incorrect. Al contrario, la separación de las franjas es inversamente proporcional a la distancia entre rendijas. -->
+- [x] B) La separación entre las franjas brillantes aumenta. <!-- feedback: Correct. Según la fórmula $\Delta y = \lambda L / d$, si $d$ (distancia entre rendijas) disminuye, $\Delta y$ (espaciado del patrón) aumenta. -->
+- [ ] C) El patrón desaparece y la pantalla se ve uniformemente iluminada. <!-- feedback: Incorrect. El patrón persiste mientras haya coherencia y difracción. -->
+- [ ] D) Los colores de las franjas se invierten. <!-- feedback: Incorrect. El color depende de la longitud de onda de la fuente, no de la geometría de las rendijas. -->
+
+### Explicación Pedagógica
+Este experimento es la prueba definitiva de la naturaleza ondulatoria. El espaciado de las franjas revela información sobre la longitud de onda de la luz utilizada.
+
+---
+
+## Question 12 [D7-D8]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+La miopía es un defecto visual donde la persona no ve bien de lejos porque las imágenes se forman **antes** de llegar a la retina. ¿Qué tipo de lente se necesita para corregir este problema?
+
+- [ ] A) Un lente convergente para acercar más la imagen. <!-- feedback: Incorrect. El lente convergente la acercaría aún más, empeorando el problema. -->
+- [x] B) Un lente divergente para que los rayos se separen un poco antes de entrar al ojo y enfoquen más atrás. <!-- feedback: Correct. El lente divergente "aleja" el punto de enfoque hasta que coincida con la retina. -->
+- [ ] C) Un espejo cóncavo colocado sobre la córnea. <!-- feedback: Incorrect. Los espejos no se usan de esa forma para corrección visual interna habitual. -->
+- [ ] D) Un filtro polarizador para reducir el brillo. <!-- feedback: Incorrect. La polarización no afecta el punto de enfoque o la formación de la imagen geométrica. -->
+
+### Explicación Pedagógica
+La óptica aplicada a la salud permite compensar las variaciones en la forma del globo ocular o la potencia del cristalino mediante lentes externos calculados con precisión.
+
+---
+
+## Question 13 [D7-D8]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+El fenómeno de la "difracción" se observa cuando la luz pasa por un agujero muy pequeño o por el borde de un obstáculo. Este fenómeno es más notorio cuando:
+
+- [ ] A) El tamaño del agujero es mucho mayor que la longitud de onda. <!-- feedback: Incorrect. Si el agujero es grande, la luz viaja en línea recta (óptica geométrica). -->
+- [x] B) El tamaño del agujero es comparable a la longitud de onda de la luz. <!-- feedback: Correct. Solo cuando las dimensiones son similares a la escala de la onda, el comportamiento ondulatorio de "arqueamiento" domina sobre el rectilíneo. -->
+- [ ] C) La luz es tan intensa que rompe las paredes del agujero. <!-- feedback: Incorrect. La difracción no depende de la intensidad, sino de la geometría y la fase. -->
+- [ ] D) Se realiza en el vacío absoluto. <!-- feedback: Incorrect. La difracción ocurre en cualquier medio, incluido el aire y el vacío. -->
+
+### Explicación Pedagógica
+La difracción limita la resolución de los instrumentos ópticos. Por más que un lente sea perfecto, no se pueden ver detalles más pequeños que la longitud de onda de la luz usada.
+
+---
+
+## Question 14 [D7-D8]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Cuál es la razón física por la cual las pompas de jabón o las manchas de aceite en el suelo muestran colores iridiscentes cambiantes?
+
+- [ ] A) Debido a la dispersión dentro del jabón líquido. <!-- feedback: Incorrect. El espesor es demasiado delgado para una dispersión tipo prisma. -->
+- [x] B) Debido a la interferencia de película delgada entre la luz reflejada en la superficie superior y la inferior. <!-- feedback: Correct. Dependiendo del grosor de la capa y el ángulo, algunas longitudes de onda interfieren constructivamente (se ven) y otras destructivamente (se anulan). -->
+- [ ] C) Porque el jabón contiene pigmentos químicos de todos los colores. <!-- feedback: Incorrect. El jabón suele ser incoloro; los colores son un efecto puramente óptico estructural. -->
+- [ ] D) Por el efecto Doppler causado por el movimiento del aire. <!-- feedback: Incorrect. El movimiento del aire cambia la forma de la pompa, pero no genera los colores por frecuencia. -->
+
+### Explicación Pedagógica
+Este fenómeno permite medir espesores microscópicos de materiales. La luz "mide" la distancia entre las dos caras de la película de jabón usando su propia longitud de onda como regla.
+
+---
+
+## Question 15 [D7-D8]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-015`
 **Bloom:** [Evaluate]
-**ICFES:** [Evaluación de explicaciones]
-**Context:** Sostenibilidad ambiental en Colombia
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un ingeniero diseña un sistema de concentración solar usando espejos parabólicos. Él afirma que los rayos paralelos al eje se concentran en el foco sin importar dónde incidan en el espejo. Respecto a esta afirmación, ¿qué análisis es correcto?
+Un rayo de luz viaja por el aire e incide sobre la superficie de un diamante ($n=2.4$) con un ángulo de 45°. Aplicando la Ley de Snell ($n_1 \sin \theta_1 = n_2 \sin \theta_2$), el rayo dentro del diamante:
 
-### Options
-- [x] A) Es correcta porque la parábola tiene la propiedad de enfocar rayos paralelos al eje en un punto único <!-- feedback: La propiedad definitoria de la parábola es que cualquier rayo paralelo al eje se refleja hacia el foco, independiente del punto de incidencia -->
-- [ ] B) Es incorrecta porque solo los rayos que inciden en el vértice se enfocan
-- [ ] C) Es incorrecta porque los espejos parabólicos no existen físicamente
-- [ ] D) Es parcialmente correcta, funciona solo para rayos cercanos al eje
+- [ ] A) Se aleja de la normal con un ángulo mayor a 45°. <!-- feedback: Incorrect. Al pasar a un medio más denso, la luz siempre se acerca a la normal. -->
+- [x] B) Se acerca a la normal con un ángulo de aproximadamente 17°. <!-- feedback: Correct. $1 \cdot \sin(45°) = 2.4 \cdot \sin(\theta_2) \Rightarrow 0.707 = 2.4 \cdot \sin(\theta_2) \Rightarrow \sin(\theta_2) \approx 0.29 \Rightarrow \theta_2 \approx 17°$. -->
+- [ ] C) Sigue en línea recta sin desviarse. <!-- feedback: Incorrect. Solo ocurriría si la incidencia fuera a 0° (normal). -->
+- [ ] D) Se refleja totalmente sin entrar al diamante. <!-- feedback: Incorrect. La reflexión total interna solo ocurre al pasar de un medio más denso a uno menos denso, no al revés. -->
 
 ### Explicación Pedagógica
-La parábola tiene la propiedad óptica de que cualquier rayo paralelo a su eje de simetría se refleja pasando por el foco, sin importar el punto de incidencia. Esta es una propiedad geométrica exacta, no una aproximación. Los espejos parabólicos para telescopios y sistemas solares aprovechan esta propiedad.
+La Ley de Snell describe matemáticamente cómo se dobla la luz al cambiar de velocidad. Es la herramienta básica para diseñar cualquier sistema óptico de lentes.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D7)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v14`
-**Bloom:** [Apply]
-**ICFES:** [Aplicación a nuevas situaciones]
-**Context:** Industria cinematográfica colombiana
-
-### Enunciado
-Una película en Blu-ray usa un láser azul (λ = 405 nm) para leer información. Comparado con un DVD que usa láser rojo (λ = 650 nm), el Blu-ray puede almacenar más información porque:
-
-### Options
-- [ ] A) El láser azul tiene mayor energía y por eso graba más profundo
-- [x] B) El haz azul permite resolver detalles más pequeños, por lo tanto los pits pueden ser más pequeños y juntos <!-- feedback: El criterio de Rayleigh indica que la difracción limita la resolución: θ ≈ 1.22λ/D. Con λ menor, el spot es más pequeño, permitiendo pits más pequeños -->
-- [ ] C) El láser azul tiene mayor velocidad en el aire
-- [ ] D) El Blu-ray usa más capas, no por el color del láser
-
-### Explicación Pedagógica
-El criterio de difracción establece que la resolución mínima es proporcional a la longitud de onda. Láseres de menor λ producen spots más pequeños, permitiendo pits más pequeños en el disco y mayor densidad de datos. La física del láser (su color o energía) no afecta la velocidad de la luz en el aire.
-
----
-
-## Question 15 (Variant Advanced - Difficulty D8)
-
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v15`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-016`
 **Bloom:** [Analyze]
-**ICFES:** [Análisis cuantitativo]
-**Context:** Investigación óptica en universidades colombianas
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un experimento de difracción por una rendija simple, la posición del primer mínimo está dada por a sin θ = λ. Si se triplica el ancho de la rendija (a), y se reduce la longitud de onda a la mitad (λ/2), el ángulo del primer mínimo:
+El índice de refracción del agua es 1.33 y el del vidrio es 1.50. Si un rayo de luz pasa del vidrio al agua, el ángulo crítico para que ocurra reflexión total interna es aquel donde el ángulo de refracción en el agua sería de:
 
-### Options
-- [ ] A) Se triplica
-- [ ] B) Se reduce a la tercera parte
-- [x] C) Se reduce a la sexta parte <!-- feedback: Nuevo ángulo: a' sin θ' = λ', donde a' = 3a y λ' = λ/2. Entonces 3a sin θ' = λ/2, comparando con a sin θ = λ: sin θ' = (λ/2)/(3a) = (λ)/(6a) = (1/6) sin θ, por lo tanto θ' ≈ θ/6 -->
-- [ ] D) Permanece igual
+- [ ] A) 0° <!-- feedback: Incorrect. Esto es incidencia normal. -->
+- [ ] B) 45° <!-- feedback: Incorrect. A este ángulo la luz todavía se refracta hacia el agua. -->
+- [x] C) 90° <!-- feedback: Correct. El ángulo crítico se define como el ángulo de incidencia que produce un ángulo de refracción de 90° (el rayo viaja por la superficie). -->
+- [ ] D) 180° <!-- feedback: Incorrect. El ángulo de refracción no puede exceder los 90° físicos respecto a la normal en el medio de salida. -->
 
 ### Explicación Pedagógica
-Original: a sin θ = λ. Nuevo: 3a sin θ' = λ/2. Dividiendo la nueva entre la original: (3a sin θ')/(a sin θ) = (λ/2)/λ = 1/2, entonces 3 sin θ'/sin θ = 1/2, sin θ' = sin θ/6. Para ángulos pequeños, θ' ≈ θ/6. La confusión común es pensar que triplicar a y reducir λ a la mitad produce efectos opuestos que se cancelan.
+El ángulo crítico es el límite entre la refracción (paso de luz) y la reflexión (rebote total). Es fundamental en el diseño de sensores de lluvia y equipos de buceo.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v16`
-**Bloom:** [Understand]
-**ICFES:** [Síntesis conceptual]
-**Context:** Diagnóstico oftalmológico en Colombia
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un paciente con miopía usa lentes con distancia focal -0.5 m. Si la imagen de un objeto lejano debe formarse exactamente en la retina, y la distancia del cristalino a la retina es 2 cm, el sistema óptico del ojo sin lente debe tener una longitud axial de:
+El efecto fotoeléctrico, explicado por Albert Einstein, consiste en la emisión de electrones por un metal cuando es iluminado. Este fenómeno no pudo explicarse con la teoría ondulatoria porque se observó que:
 
-### Options
-- [ ] A) 2 cm, porque la retina está a 2 cm
-- [ ] B) Mayor a 2 cm, por eso necesita lente divergente
-- [x] C) Mayor a 2 cm, exactamente 2.5 cm <!-- feedback: Ojo miope tiene longitud axial > distancia focal perfecta. Con lente de -2 dioptrías (f=-0.5m), el punto remoto está en el infinito que se forma a 0.5m del cristalino. Como la imagen debe formarse en retina a 2cm, el globo ocular es más largo de lo normal -->
-- [ ] D) No se puede determinar sin más información
+- [ ] A) La cantidad de electrones emitidos depende de la intensidad de la luz. <!-- feedback: Incorrect. Esto sí era compatible con las ondas. -->
+- [x] B) Existe una frecuencia mínima (umbral) por debajo de la cual no se emiten electrones, sin importar qué tan intensa sea la luz. <!-- feedback: Correct. Esto demostró que la luz se comporta como partículas (fotones) con energía proporcional a la frecuencia ($E=hf$). -->
+- [ ] C) Los electrones salen del metal con velocidad cero siempre. <!-- feedback: Incorrect. La energía sobrante del fotón se convierte en energía cinética del electrón. -->
+- [ ] D) La luz roja siempre arranca más electrones que la luz azul. <!-- feedback: Incorrect. La luz azul tiene más frecuencia y energía, por lo que es más efectiva para el efecto fotoeléctrico. -->
 
 ### Explicación Pedagógica
-En ojo miope, el globo ocular es demasiado largo o la cornea tiene demasiada potencia. La lente divergente corrige reduciendo la potencia total del sistema. La potencia de la lente es -2D, lo que indica que el ojo tiene aproximadamente 50D de potencia y necesita ser reducido. El error común es ignorar el signo de la distancia focal para lentes divergentes.
+Este descubrimiento marcó el nacimiento de la física cuántica. Demostró la "dualidad onda-partícula": la luz se propaga como onda pero interactúa con la materia como partícula.
 
 ---
 
-## Question 17 (Variant Expert - Difficulty D9)
+## Question 18 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v17`
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-018`
 **Bloom:** [Evaluate]
-**ICFES:** [Pensamiento crítico]
-**Context:** Desarrollo de tecnología espacial colombiana
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un satélite de observación terrestre usa un sistema de radar de apertura sintética (SAR). El radar emite pulsos y recibe ecos para formar imágenes. Si la longitud de onda del radar es 5 cm y se desea una resolución espacial de 1 metro, ¿cuál afirmación sobre los principios físicos involucrados es correcta?
+Un astrónomo observa una galaxia lejana y nota que las líneas de su espectro están desplazadas hacia el rojo (Redshift). ¿Qué conclusión física sobre el movimiento de la galaxia se puede extraer mediante el Efecto Doppler?
 
-### Options
-- [ ] A) Se necesita una antena física de al menos 5 metros para lograr esta resolución
-- [x] B) La apertura sintética permite lograr alta resolución sin antena física enorme, mediante procesamiento de múltiples posiciones del satélite <!-- feedback: La SAR usa el movimiento del satélite para simular una antena grande. La resolución azimuthal es aproximadamente λ/(2×L) donde L es la longitud de la antena sintética, no la física -->
-- [ ] C) La resolución depende únicamente de la potencia del transmisor
-- [ ] D) Los sistemas SAR no pueden lograr resoluciones de 1 metro porque la difracción lo impide
+- [ ] A) La galaxia se está acercando rápidamente a la Tierra. <!-- feedback: Incorrect. Eso produciría un desplazamiento hacia el azul (Blueshift). -->
+- [x] B) La galaxia se está alejando de la Tierra. <!-- feedback: Correct. El alejamiento estira las ondas de luz, aumentando su longitud de onda hacia el extremo rojo del espectro. -->
+- [ ] C) La galaxia está rotando sobre su propio eje. <!-- feedback: Incorrect. La rotación produciría desplazamientos opuestos en cada lado de la galaxia, no un corrimiento global sistemático. -->
+- [ ] D) La galaxia está hecha principalmente de estrellas rojas viejas. <!-- feedback: Incorrect. El corrimiento al rojo se refiere a la posición de las líneas espectrales de elementos conocidos, no al color predominante de las estrellas. -->
 
 ### Explicación Pedagógica
-En SAR, el movimiento del satélite genera múltiples posiciones de antena que, procesadas apropiadamente, simulan una antena del tamaño de la trayectoria recorrida. Esto supera la limitación de difracción de antenas físicas. La física es el procesamiento interferométrico de múltipleslooks, no una limitación difractiva.
+El corrimiento al rojo es la prueba principal de la expansión del universo. Edwin Hubble usó este principio óptico para demostrar que casi todas las galaxias se alejan de nosotros.
 
 ---
 
-## Question 18 (Variant Expert - Difficulty D9)
+## Question 19 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-v18`
-**Bloom:** [Apply]
-**ICFES:** [Modelamiento complejo]
-**Context:** Nanotecnología óptica en Colombia
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Un investigador diseña un metamaterial con índice de refracción negativo para aplicaciones de invisibilidad. El material tiene n = -1.5 para luz visible. Respecto al comportamiento de la luz en este material, ¿cuál afirmación es físicamente correcta?
+El principio de Fermat establece que la luz, al viajar entre dos puntos, sigue la trayectoria que requiere:
 
-### Options
-- [ ] A) La luz viaja más rápido que en el vacío en este material
-- [x] B) El vector de Poynting apunta en dirección opuesta al vector
+- [ ] A) La menor distancia física posible (línea recta). <!-- feedback: Incorrect. Esto solo es cierto si el medio es uniforme. -->
+- [x] B) El menor tiempo posible. <!-- feedback: Correct. Este principio explica por qué la luz se dobla al entrar en un medio más lento: para pasar el menor tiempo posible en el medio difícil. -->
+- [ ] C) La mayor cantidad de energía disponible. <!-- feedback: Incorrect. El camino no depende de la intensidad energética. -->
+- [ ] D) Un número entero de longitudes de onda. <!-- feedback: Incorrect. Esto es una condición de fase para interferencia constructiva, no el principio de trayectoria general. -->
+
+### Explicación Pedagógica
+Fermat unificó las leyes de reflexión y refracción bajo una sola regla variacional. Es una de las formas más elegantes de entender la física: la naturaleza optimiza el tiempo.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-optica-fisica-087-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+En la óptica moderna, el concepto de "luz coherente" es fundamental para el funcionamiento del LASER. ¿Qué caracteriza a la luz coherente?
+
+- [ ] A) Que contiene todos los colores del espectro visible. <!-- feedback: Incorrect. Eso es luz blanca (incoherente). -->
+- [ ] B) Que viaja a una velocidad superior a $c$ en el vacío. <!-- feedback: Incorrect. Nada viaja más rápido que $c$. -->
+- [x] C) Que todas sus ondas tienen la misma frecuencia y mantienen una relación de fase constante en el tiempo y espacio. <!-- feedback: Correct. Esto permite que la luz láser se mantenga concentrada en un haz estrecho y potente sin dispersarse. -->
+- [ ] D) Que puede atravesar paredes de concreto sin perder energía. <!-- feedback: Incorrect. La coherencia no otorga capacidad de penetración a la materia opaca. -->
+
+### Explicación Pedagógica
+El láser (Light Amplification by Stimulated Emission of Radiation) es una aplicación de la mecánica cuántica que produce luz con propiedades únicas de orden y pureza, imposibles de obtener con fuentes térmicas convencionales.

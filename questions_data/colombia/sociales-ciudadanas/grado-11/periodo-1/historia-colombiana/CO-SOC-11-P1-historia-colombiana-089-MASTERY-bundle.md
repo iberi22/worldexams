@@ -1,35 +1,3 @@
-<think>
-The user wants me to generate exactly 20 multiple choice questions in the style of ICFES Saber 11 exam for Colombian Social Sciences (Sociales Ciudadanas), specifically on Colombian history topics, grade 11, period 1.
-
-Let me create the YAML frontmatter and then 20 questions with progressive difficulty:
-
-- Questions 1-4: D3-D4 (basic)
-- Questions 5-10: D5-D6 (intermediate)
-- Questions 11-16: D7-D8 (advanced)
-- Questions 17-20: D9-D10 (mastery)
-
-Let me create questions about Colombian history covering different periods:
-
-1. Pre-Columbian era
-2. Spanish colonization
-3. Independence movement
-4. 19th century politics (Conservative/Liberal conflicts)
-5. War of the Thousand Days
-6. Prohibition era / Violence period
-7. La Violencia
-8. National Front period
-9. 1970s-1980s (drug trafficking, Pablo Escobar)
-10. 1991 Constitution
-11. Peace process with FARC
-12. Recent history (2010s-2020s)
-
-Let me structure this properly.
-
-I'll create a cohesive set of questions that reflect real ICFES style and Colombian history content.
-
-</think>
-
-```yaml
 ---
 id: "CO-SOC-11-P1-historia-colombiana-089-MASTERY"
 country: "colombia"
@@ -38,310 +6,434 @@ asignatura: "sociales-ciudadanas"
 tema: "historia-colombiana"
 periodo: 1
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 89
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:14:26.537136"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretar procesos históricos
-**Context:** Patrimonio cultural colombiano
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-¿Cuál de las siguientescivilizaciones precolombinas se caracterizó por construir ciudades con grandes terrazas agrícolas en la zona andina del territorio colombiano?
+¿Cuál de las siguientes comunidades indígenas de la época prehispánica en Colombia se destacó por el desarrollo de complejos sistemas de terrazas agrícolas y canales de drenaje en la Sierra Nevada de Santa Marta?
 
 ### Options
-- [ ] A) Los Muiscas, quienes practicaban la agricultura en terrazas y cultivaban maíz en el Altiplano Cundiboyacense <!-- Los Muiscas no eran conocidos principalmente por terrazas agrícolas, sino por su agricultura en el altiplano con cultivos como maíz, papa y quinoa -->
-- [x] B) Los Tayronas, que construían terrazas escalonadas en la Sierra Nevada de Santa Marta para agricultura en pendientes <!-- feedback: Los Tayronas desarrollaron sofisticados sistemas de terrazas agrícolas en las laderas de la Sierra Nevada, adaptándose al terreno montañoso -->
-- [ ] C) Los Quimbayas, reconocidos por su orfebrería y comercio de objetos preciosos <!-- feedback: Los Quimbayas se distinguían por su trabajo en oro y las llamadas "лотas" ceremoniales, no por sistemas agrícolas de terrazas -->
-- [ ] D) Los Paeces, quienes se dedicaban principalmente al pastoreo de ganado en la región caucana <!-- feedback: Los Paeces (Cauca) eran conocidos por su organización en cacicazgos y resistencia, pero no específicamente por terrazas agrícolas -->
+- [ ] A) Los Muiscas. <!-- feedback: Incorrect. Aunque los Muiscas fueron avanzados agricultores en el altiplano, su sistema no se basaba en terrazas de piedra en la Sierra Nevada. -->
+- [x] B) Los Tayronas. <!-- feedback: Correct. Los Tayronas desarrollaron una ingeniería civil avanzada que incluía terrazas de piedra y muros de contención para cultivar en las laderas de la Sierra Nevada. -->
+- [ ] C) Los Quimbayas. <!-- feedback: Incorrect. Los Quimbayas son reconocidos principalmente por su orfebrería y no por construcciones en terrazas en la zona caribeña. -->
+- [ ] D) Los Sinúes. <!-- feedback: Incorrect. Los Sinúes desarrollaron un sistema hidráulico complejo en las sabanas del actual departamento de Córdoba, no en la Sierra Nevada. -->
 
 ### Explicación Pedagógica
-Los Tayronas desarrollaron una de las civilizaciones más organizadas del Caribe colombiano, construyendo ciudades como Ciudad Perdida (Teyuna) con infraestructura que incluía sofisticados sistemas de terrazas para cultivar en las laderas de la Sierra Nevada. Esta adaptación tecnológica les permitió sostener poblaciones densas en un terreno montañoso.
+Los Tayronas se caracterizaron por su adaptación al entorno montañoso de la Sierra Nevada de Santa Marta, construyendo ciudades como Teyuna (Ciudad Perdida) con una infraestructura de piedra que incluía terrazas agrícolas, caminos y sistemas de manejo de aguas.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Analizar fuentes históricas
-**Context:** Conmemoraciones nacionales
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.70
 
 ### Enunciado
-El 20 de julio se celebra en Colombia el día de la Patria commemorate la firma del Acta de Independencia en 1810. ¿Cuál de los siguientes hechos se considera el evento que desencadenó la cadena de celebraciones del "Mes de la Patria"?
+Durante la Colonia, la institución de la "Encomienda" consistía en la entrega de un grupo de indígenas a un colonizador español. ¿Cuál era la principal obligación teórica del encomendero hacia los indígenas a su cargo?
 
 ### Options
-- [x] A) El Grito de Independencia del 20 de julio de 1810, cuando los estudiantes bogotanos interrumpieron una fiesta en la casa de José González Llorente <!-- feedback: El incidente del florero de Llorente, donde se simuló un rechazo a los españoles y despertó el sentimiento independentista, es considerado el punto de partida -->
-- [ ] B) La Batalla de Boyacá del 7 de agosto de 1819, que selló la independencia definitiva de la Nueva Granada <!-- feedback: Esta batalla fue decisiva pero ocurre después del Grito de Independencia, por lo que no desencadenó las celebraciones de julio -->
-- [ ] C) El Sitio de Bogotá de 1810, cuando las tropas patriotas sitiaron la capital del Virreinato <!-- feedback: No existió un sitio de Bogotá en 1810; este evento es históricamente inexacto -->
-- [ ] D) La firma del tratado de armisticio con España en 1811, que reconoció la autonomía colombiana <!-- feedback: No hubo tal tratado en 1811; España no reconoció la autonomía colombiana en esa fecha -->
+- [ ] A) Pagarles un salario justo en moneda de oro. <!-- feedback: Incorrect. El sistema de encomienda no establecía un salario monetario, sino una relación de subordinación y tributo. -->
+- [x] B) Instruirlos en la fe católica y protegerlos. <!-- feedback: Correct. Teóricamente, el encomendero debía evangelizar a los indígenas y brindarles protección, a cambio del tributo o trabajo de estos. -->
+- [ ] C) Otorgarles la propiedad legal de las tierras que habitaban. <!-- feedback: Incorrect. La tierra seguía perteneciendo a la Corona o era apropiada por el colonizador; los indígenas perdían sus derechos territoriales. -->
+- [ ] D) Facilitar su retorno a sus lugares de origen tras diez años de servicio. <!-- feedback: Incorrect. La encomienda no era un contrato temporal de retorno, sino una estructura de control social y económico permanente. -->
 
 ### Explicación Pedagógica
-El "Florero de Llorente" se ha convertido en el símbolo del inicio del proceso independentista colombiano. Aunque su significadoha sido debatido históricamente (incluso se ha cuestionado si fue manipulado por los criollos para justificar la revuelta), el Grito de Independencia del 20 de julio de 1810 es la fecha fundacional que Colombia celebra como inicio de su proceso de independencia.
+La Encomienda fue una institución socioeconómica donde se justificaba la explotación laboral del indígena mediante la obligación del español de "evangelizarlos", aunque en la práctica derivó en abusos sistemáticos.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Comparar procesos históricos
-**Context:** Educación cívica contemporánea
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.65
 
 ### Enunciado
-Durante la Colonia, el sistema de haciendas en la Nueva Granada generaba relaciones de producción basadas en la economía de plantación. ¿Cuál de las siguientes características correspondía a este sistema en el territorio colombiano?
+El proceso de "Reconquista" española en la Nueva Granada, liderado por Pablo Morillo entre 1815 y 1816, es recordado históricamente como:
 
 ### Options
-- [ ] A) Explotación de grandes extensiones de tierra dedicadas exclusivamente a la minería de oro y plata <!-- feedback: Aunque existían haciendas mineras, las haciendas coloniales se caracterizaban más por la producción agrícola y ganadera para el mercado interno -->
-- [ ] B) Uso predominante de mano de obra esclava en monocultivos de cacao y añil para exportación <!-- feedback: El cacao y el añil fueron importantes pero no definían el sistema de haciendas; la mano de obra variaba según el tipo de producción -->
-- [x] C) Concentración de tierras agrícolas con relaciones de servidumbre donde los jornaleros quedaban atados a la hacienda por deudas <!-- feedback: Las haciendas coloniales utilizaban el sistema de peonaje por deudas que ataba a los trabajadores a la tierra, creando una servidumbre de facto -->
-- [ ] D) Explotación ganadera extensiva en la región Caribe con uso de tecnología avanzada de riego <!-- feedback: La región Caribe tenía haciendas ganaderas pero no se caracterizaban por tecnología avanzada; el riego era limitado en la época colonial -->
+- [ ] A) El Régimen de la Libertad. <!-- feedback: Incorrect. Este término no se asocia con el violento proceso de restauración monárquica de Morillo. -->
+- [x] B) El Régimen del Terror. <!-- feedback: Correct. Se denomina así debido a las ejecuciones sistemáticas de líderes patriotas y la represión violenta contra quienes apoyaron la independencia. -->
+- [ ] C) La Patria Boba. <!-- feedback: Incorrect. La Patria Boba se refiere al periodo de conflictos internos entre centralistas y federalistas antes de la llegada de Morillo. -->
+- [ ] D) La Restauración Democrática. <!-- feedback: Incorrect. Morillo buscaba restaurar el absolutismo monárquico de Fernando VII, no un sistema democrático. -->
 
 ### Explicación Pedagógica
-El sistema de haciendas coloniales en la Nueva Granada se caracterizaba por la concentración de la tierra en manos de unos pocos dueños y la creación de un campesinado dependiente. El peonaje por deudas era común: los trabajadores recibían adelantos de salario que luego no podían pagar, quedando atrapados en un ciclo de dependencia con la hacienda.
+El Régimen del Terror fue la fase de la Reconquista donde fueron ejecutadas figuras como Policarpa Salavarrieta y Francisco José de Caldas, con el fin de eliminar cualquier vestigio de resistencia independentista.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Identificar actores históricos
-**Context:** Estudios sociales
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-En el proceso de independencia de la Nueva Granada, los liberales y conservadores tenían visiones diferentes sobre la organización del Estado. ¿Cuál de las siguientes propuestas era característica del pensamiento liberal durante las primeras décadas del siglo XIX?
+La Batalla de Boyacá, ocurrida el 7 de agosto de 1819, es un hito fundamental en la historia de Colombia porque:
 
 ### Options
-- [x] A) Creación de una república centralista con eliminación de los privilegios de la Iglesia Católica y reducción del poder de los terratenientes <!-- feedback: Los liberales proponían un Estado fuerte, centralizado, con separación Iglesia-Estado y abolición de los mayorazgos y privilegios feudales -->
-- [ ] B) Mantenimiento de una estructura monárquica constitucional similar al modelo español con trono y cámara de nobles <!-- feedback: Los conservadores apoyaban la monarquía constitucional; los liberales la rechazaban porque la asociaban con el dominio español -->
-- [ ] C) Establecimiento de una confederación de estados independientes con mínimos vínculos políticos entre las provincias <!-- feedback: El federalismo fue más tarde un tema liberal, pero en las primeras décadas post-independencia los liberales preferían el centralismo -->
-- [ ] D) Creación de un sistema de castas basado en la distinción entre criollos peninsulares y nativos <!-- feedback: El sistema de castas era colonial; tanto liberales como conservadores lo rechazaban tras la independencia -->
+- [ ] A) Fue el primer enfrentamiento armado contra las tropas de Napoleón en América. <!-- feedback: Incorrect. El enfrentamiento fue contra el ejército realista español, no contra tropas napoleónicas. -->
+- [ ] B) Permitió la captura inmediata de Pablo Morillo en Cartagena. <!-- feedback: Incorrect. Morillo no fue capturado en esta batalla; el impacto fue la liberación del centro del virreinato. -->
+- [x] C) Selló la independencia definitiva del centro de la Nueva Granada. <!-- feedback: Correct. La victoria patriota permitió la toma de Santa Fe (Bogotá) y el colapso del control virreinal en la región central. -->
+- [ ] D) Marcó el inicio de la guerra de independencia contra Inglaterra. <!-- feedback: Incorrect. La guerra fue contra el Imperio Español, no contra Inglaterra (que de hecho apoyó a los patriotas). -->
 
 ### Explicación Pedagógica
-Durante las primeras décadas republicanas, el liberalismo colombiano (inspirado en las ideas de la Revolución Francesa y la ilustración) proponía un Estado laico, centralizado, con garantía de derechos individuales y eliminación de los privilegios corporativos ( 包括我知道 I should continue) de la Iglesia y los terratenientes. Esta posición generaría los conflictos que desembocarían en las guerras civiles del siglo XIX.
+La Batalla de Boyacá culminó la Campaña Libertadora liderada por Bolívar y Santander, asegurando el control de la capital y permitiendo la creación de la República de Colombia (Gran Colombia).
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v5`
-**Bloom:** Analyze
-**ICFES:** Evaluar consecuencias de procesos históricos
-**Context:** Análisis político actual
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-La Constitución de 1843, conocida como la "Constitución del桂", fue redactada durante el gobierno de José Ignacio de Márquez. ¿Cuál fue una de las características más controversiales de esta carta magna?
+Durante el siglo XVIII, las Reformas Borbónicas buscaron centralizar el poder en España y sus colonias. ¿Cuál fue una de las principales consecuencias económicas de estas reformas en la Nueva Granada?
 
 ### Options
-- [ ] A) Establecimiento del sufragio universal masculino sin restricciones de propiedad <!-- feedback: La constitución de 1843 restrict severely el sufragio, requiriendo propiedades mínimas para votar -->
-- [x] B) Creación de un Estado centralista con poderes fuertes para el ejecutivo y límites al poder legislativo <!-- feedback: Esta constitución consolidó el centralismo, dando amplias facultades al presidente y limitando el poder de los cuerpos colegiados -->
-- [ ] C) Eliminación completa de la esclavitud en todo el territorio de la Nueva Granada <!-- feedback: La esclavitud se abolishó gradualmente; laabolición completa fue en 1851, no en 1843 -->
-- [ ] D) Reconocimiento oficial de las comunidades indígenas como naciones autónomas dentro de la República <!-- feedback: Aunque la constitución reconocía a los indígenas, no los declaraba naciones autónomas, manteniéndolos bajo tutela del Estado -->
+- [x] A) El aumento de los impuestos y la creación de monopolios estatales (estancos). <!-- feedback: Correct. La Corona aumentó la presión fiscal sobre el tabaco y el aguardiente, lo que generó descontento social. -->
+- [ ] B) La eliminación total de los impuestos para fomentar el libre comercio. <!-- feedback: Incorrect. Las reformas buscaban lo contrario: extraer más recursos para financiar a la monarquía. -->
+- [ ] C) La nacionalización de todas las tierras indígenas por parte de la Iglesia. <!-- feedback: Incorrect. Aunque hubo cambios territoriales, el enfoque principal fue fiscal y administrativo-político. -->
+- [ ] D) La reducción del control de la Corona sobre la explotación de minas de oro. <!-- feedback: Incorrect. Las reformas pretendían aumentar el control estatal sobre la minería y otros recursos clave. -->
 
 ### Explicación Pedagógica
-La Constitución de 1843 profundizó el centralismo heredado de la época independentista, entregando al ejecutivo colombiano pouvoirs amplios que incluían la capacidad de suspender garantías constitucionales. Esta constitución reflejaba el pensamiento conservador de la época y generó tensión con los sectores liberales que demandaban mayor participación popular.
+Las Reformas Borbónicas incrementaron el recaudo fiscal y el control administrativo, lo que a la postre detonaría rebeliones como la de los Comuneros en 1781 debido al asfixiante peso económico sobre criollos y mestizos.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Analizar procesos de cambio social
-**Context:** Estudios de conflicto
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-La Guerra de los Mil Días (1899-1902) fue uno de los conflictos más sangrientos de la historia colombiana. ¿Cuál de las siguientes causas fue determinante para el estallido de esta guerra?
+La Rebelión de los Comuneros en 1781 fue un levantamiento armado motivado principalmente por el descontento ante las Reformas Borbónicas. ¿Qué sector social lideró inicialmente esta protesta?
 
 ### Options
-- [ ] A) El rechazo conservador a la expansión del capitalismo industrial en las ciudades principales del país <!-- feedback: Los conservadores no se oponían al capitalismo industrial; de hecho, se beneficiaban del modelo económico agroexportador -->
-- [x] B) El fraude electoral generalizado que impidió la transmisión pacífica del poder tras las elecciones de 1898 <!-- feedback: Las elecciones de 1898 fueron marcadamente fraudulentas, con intervención directa del gobierno de Miguel Antonio Caro en favor del candidato conservador -->
-- [ ] C) La imposición de sanciones económicas internacionales que empobrecieron a la clase obrera colombiana <!-- feedback: No hubo sanciones internacionales en este periodo; el conflicto fue esencialmente interno -->
-- [ ] D) El descubrimiento de yacimientos petroleros que generó disputas entre facciones políticas por el control de los recursos <!-- feedback: Los principales hallazgos petroleros en Colombia ocurrieron después de 1920, no a finales del siglo XIX -->
+- [ ] A) Los esclavos africanos que buscaban su manumisión inmediata. <!-- feedback: Incorrect. Aunque se sumaron diversos sectores, el liderazgo inicial fue de pequeños comerciantes y agricultores. -->
+- [x] B) Los pequeños productores y comerciantes criollos y mestizos de El Socorro. <!-- feedback: Correct. El descontento por el aumento de impuestos al tabaco y aguardiente impulsó a estos sectores a rebelarse. -->
+- [ ] C) Los indígenas que exigían el retorno al sistema de cacicazgos prehispánicos. <!-- feedback: Incorrect. Los indígenas participaron, pero el foco inicial era económico-tributario liderado por mestizos y criollos. -->
+- [ ] D) Los oficiales españoles que querían independizarse de la Corona Borbón. <!-- feedback: Incorrect. Los oficiales españoles eran quienes debían sofocar la rebelión en nombre de la Corona. -->
 
 ### Explicación Pedagógica
-La Guerra de los Mil Días estalló principalmente por el fracaso del sistema electoral colombiano para garantizar transiciones pacíficas del poder. El fraude electoral de 1898, donde el gobierno conservador manipuló las votaciones para impedir la llegada del liberal José Santos Pratto al poder, fue la mecha que encendió el conflicto. Esta guerra causaríamás de 100,000 muertos y el temporary colapso del Estado colombiano.
+Aunque fue un movimiento multirracial, el liderazgo de los Comuneros recayó en criollos y mestizos del actual Santander, quienes marcharon hacia Bogotá bajo el lema "¡Viva el Rey y muera el mal gobierno!", cuestionando no a la monarquía sino a sus políticas fiscales.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Interpretar impacto de eventos históricos
-**Context:** Memoria histórica colombiana
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Tras la Guerra de los Mil Días, Colombia atravesó un período conocido como la "Paz Armada" o "Hegemonía Conservadora". ¿Cuál de las siguientes situaciones caracteriza mejor este período que duró aproximadamente hasta 1930?
+En 1810, la formación de Juntas de Gobierno en ciudades como Cartagena, Socorro y Bogotá no buscaba inicialmente la independencia total de España, sino:
 
 ### Options
-- [x] A) Exclusión sistemática de los liberales del poder político y militar, con prácticas de exclusión electoral que consolidaron el dominio conservador <!-- feedback: La Hegemonía Conservadora se caracterizó por laotomía del Partido Conservador sobre el Estado, excluyendo a los liberales de manera deliberada -->
-- [ ] B) Expansión de derechos civiles y políticos para las clases trabajadoras urbanas e indígenas <!-- feedback: Durante la Hegemonía Conservadora hubo restricción, no expansión, de derechos políticos; los trabajadores no tenían representación -->
-- [ ] C) Implementación de reformas agrarias que redistribuyeron tierras entre los campesinos pobres <!-- feedback: Las reformas agrarias se discutieron pero nunca se implementaron durante este período; la tierra permaneció concentrada -->
-- [ ] D) Establecimiento de lazos diplomáticos estrechos con la Unión Soviética y movimientos comunistas internacionales <!-- feedback: Colombia permaneció alineado con Estados Unidos y las potencias occidentales durante toda la Hegemonía Conservadora -->
+- [ ] A) Declarar la guerra a Francia para apoyar a Napoleón Bonaparte. <!-- feedback: Incorrect. El objetivo era oponerse a Napoleón y proteger los derechos del rey español depuesto. -->
+- [x] B) Gobernar en nombre del rey Fernando VII, prisionero de Napoleón. <!-- feedback: Correct. Se juraba fidelidad al rey pero se reclamaba autonomía para autogobernarse mientras durara la ocupación francesa en España. -->
+- [ ] C) Establecer una monarquía independiente liderada por criollos bogotanos. <!-- feedback: Incorrect. La idea de una república independiente surgió después; inicialmente se apeló a la legitimidad monárquica. -->
+- [ ] D) Solicitar la anexión de la Nueva Granada a los Estados Unidos de América. <!-- feedback: Incorrect. No existía interés de anexión, sino de autonomía política dentro del imperio o independencia. -->
 
 ### Explicación Pedagógica
-La Hegemonía Conservadora (1886-1930) se caracterizó por la concentración del poder político en el Partido Conservador, la exclusión deliberada de los liberales de cargos públicos, y el uso del aparato estatal para mantener el control social. Durante este período, las elecciones eran manipuladas y la alternancia en el poder era inexistente.
+Este fenómeno se conoce como "lealtad condicionada": los criollos usaron la captura del Rey por Napoleón como argumento legal para formar juntas y ejercer el poder, lo que eventualmente evolucionó hacia el independentismo.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Evaluar políticas públicas históricas
-**Context:** Análisis socioeconómico
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-El período de "La Violencia" (1948-1958) fue una época de conflicto bipartidista en Colombia. ¿Cuál de las siguientes afirmaciones describe correctamente una característica de este período?
+El conflicto conocido como "La Patria Boba" (1810-1816) se caracterizó por las guerras internas entre:
 
 ### Options
-- [ ] A) El conflicto se limitó exclusivamente a las áreas urbanas de Bogotá, Medellín y Cali, sin afectar las zonas rurales <!-- feedback: La Violencia afectó devastadoramente las zonas rurales, con masacres de campesinos y desplazamiento forzado masivo -->
-- [ ] B) Los sectores liberal y conservador formaron alianzas para enfrentar al movimiento obrero organizado en las ciudades <!-- feedback: Los dos partidos estaban en guerra abierta, no en alianza; el conflicto bipartidista los enfrentaba directamente -->
-- [x] C) Se cometieron masacres sistemáticas contra poblaciones civiles consideradas simpatizantes del partido contrario, especialmente en zonas rurales <!-- feedback: La Violencia se caracterizó por ataquesmutuos entre liberales y conservadores con destrucción de poblaciones entera -->
-- [ ] D) El conflicto terminó con la victoria militar decisiva del Partido Conservador sobre los liberales <!-- feedback: El conflicto terminó con un acuerdo de poder compartido, no con una victoria militar -->
+- [ ] A) Indígenas y descendientes de esclavos africanos. <!-- feedback: Incorrect. El conflicto no fue de carácter étnico, sino político-administrativo. -->
+- [x] B) Centralistas, que querían un gobierno único, y Federalistas, que buscaban autonomía provincial. <!-- feedback: Correct. La disputa entre Antonio Nariño (centralista) y Camilo Torres (federalista) debilitó la defensa frente a los españoles. -->
+- [ ] C) Monárquicos absolutistas y defensores de la ocupación francesa. <!-- feedback: Incorrect. Ambos bandos patriotas se oponían a la ocupación francesa, la disputa era sobre la organización interna. -->
+- [ ] D) Comerciantes de la costa Atlántica y mineros de la región de Antioquia. <!-- feedback: Incorrect. Aunque había intereses regionales, la división principal era ideológica sobre la estructura del Estado. -->
 
 ### Explicación Pedagógica
-La Violencia dejó más de 200,000 muertos y fue caracterizada por retaliaciones mutuas entre liberales y conservadores. Los "pájaros" (paramilitares conservadores) y los "chusmas" (milicianos liberales) ejecutaron masacres en el campo colombiano. Este conflicto sentó las bases para la creación de las guerrillas comunistas que surgirían más adelante.
+La incapacidad de los líderes criollos para acordar un modelo de Estado (centralismo vs. federalismo) facilitó que las tropas realistas de Pablo Morillo recuperaran el territorio casi sin resistencia coordinada.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Analizar acuerdos políticos
-**Context:** Sistema político colombiano
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Frente Nacional (1958-1974) fue un acuerdo entre los partidos Liberal y Conservador para compartir el poder. ¿Cuál era el mecanismo principal que garantizaba este acuerdo?
+Simón Bolívar, en su "Carta de Jamaica" (1815), analizaba el futuro de América Latina. ¿Cuál era uno de sus principales temores respecto a la organización de las nuevas repúblicas?
 
 ### Options
-- [ ] A) El presidente debía pertenecer alternativamente al Partido Liberal durante los primeros 8 años y al Conservador durante los últimos 8 años del período institucional <!-- feedback: Laalternancia no era por períodos fijos de gobierno, sino por duración del pacto -->
-- [x] B) La mitad de los ministerios, puestos públicos y posiciones en empresas del Estado se distribuían equitativamente entre liberales y conservadores <!-- feedback: El mecanismo clave del Frente Nacional era elcuociente/partido, que garantizaba representación proporcional en el Estado -->
-- [ ] C) Se implementaba un sistema de veto compartido donde ninguna ley podía aprobarse sin el consentimiento de al menos un representante de cada partido <!-- feedback: No existía tal mecanismo de veto; el poder se compartía mediante distribución de posiciones, no mediante controles recíprocos -->
-- [ ] D) Las Fuerzas Militares quedaban bajo control compartido de ambos partidos mediante comandos conjuntos de oficiales liberales y conservadores <!-- feedback: Las FF.MM. no se dividieron por partidos; el ejército permaneció como institución unificada -->
+- [ ] A) Que el exceso de educación del pueblo llevara al caos social. <!-- feedback: Incorrect. Bolívar creía en la educación, pero temía la falta de experiencia política y la anarquía. -->
+- [ ] B) Que España se aliara con Inglaterra para recuperar las colonias. <!-- feedback: Incorrect. En ese momento Bolívar buscaba el apoyo de Inglaterra para la causa patriota. -->
+- [x] C) Que la falta de unidad y la inexperiencia política condujeran a sistemas dictatoriales o a la anarquía. <!-- feedback: Correct. Bolívar advertía que los americanos no estaban preparados para democracias liberales perfectas y temía la fragmentación. -->
+- [ ] D) Que los pueblos indígenas retomaran el control total del continente. <!-- feedback: Incorrect. Su preocupación se centraba en la viabilidad del Estado republicano frente a las potencias europeas y conflictos internos. -->
 
 ### Explicación Pedagógica
-El Frente Nacional se sustentaba en el sistema del "cuociente/partido" que obligaba a distribuir todos los cargos públicos (ministerios, gobernaciones, universidades, empresas estatales) proporcionalmente entre liberales y conservadores. Esto aseguraba que ningún partido pudiera dominar el Estado, pero también excluyó a terceros partidos y consolidó el bipartidismo.
+En la Carta de Jamaica, Bolívar expone una visión realista y pesimista sobre la capacidad inmediata de las provincias americanas para sostener repúblicas estables sin un liderazgo fuerte y unitario.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Emitir juicios sobre procesos históricos
-**Context:** Derechos humanos
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-El movimiento estudiantil de 1971, conocido como el "Mazo de 1971", representó una movilización significativa en la historia colombiana reciente. ¿Cuál fue el principal objetivo de este movimiento?
+La Constitución de Cúcuta de 1821 estableció la creación de la República de Colombia (Gran Colombia). ¿Qué medida social significativa se adoptó en este congreso respecto a la esclavitud?
 
 ### Options
-- [ ] A) Exigir la salida del país de todas las empresas multinacionales que operaban en el sector minero y petrolero <!-- feedback: El movimiento de 1971 no tenía como objetivo principal las multinacionales; su foco era la educación superior -->
-- [x] B) Protestar contra la visita de Richard Nixon a Colombia y rechazar la intervención estadounidense en política latinoamericana <!-- feedback: El Mazo de 1971 surgió como movilización estudiantil contra la visita del vicepresidente Nixon, en el contexto de la Guerra Fría y el rechazo al imperialismo -->
-- [ ] C) Exigir la nacionalización de la industria cafetera para quitar el control a las familias dueñas de la producción <!-- feedback: La nacionalización del café no era el objetivo del movimiento; el café era controlado por laFederación Nacional de Cafeteros -->
-- [ ] D) Promover la entrada de Colombia al Movimiento de Países No Alineados como estrategia de desarrollo independiente <!-- feedback: La política internacional no era el foco de las protestas estudiantiles de 1971, cuyo detonante fue la visita de Nixon -->
+- [ ] A) La abolición inmediata y total de la esclavitud en todo el territorio. <!-- feedback: Incorrect. La abolición total no ocurrió hasta 1851 debido a la resistencia de los propietarios. -->
+- [x] B) La Ley de Libertad de Vientres, que declaraba libres a los hijos de esclavas nacidos a partir de esa fecha. <!-- feedback: Correct. Fue una medida gradual para extinguir la esclavitud sin afectar bruscamente los intereses económicos de los amos. -->
+- [ ] C) El permiso para importar más esclavos desde las Antillas para reconstruir la economía. <!-- feedback: Incorrect. El congreso prohibió el tráfico de esclavos, buscando su reducción gradual. -->
+- [ ] D) La obligación de los esclavos de pagar un impuesto especial para obtener su libertad. <!-- feedback: Incorrect. La ley se enfocaba en la libertad por nacimiento (gradual), no en la compra de la libertad por el esclavo. -->
 
 ### Explicación Pedagógica
-El "Mazo de 1971" estalló el 8 de marzo cuando estudiantes de la Universidad Nacional de Colombia y otras instituciones salieron a protestar contra la visita del vicepresidente estadounidense Richard Nixon. Las protestas quickly se extendieron a otras ciudades y se convirtieron en un rechazo más amplio al imperialismo estadounidense y a la permanencia de bases militares norteamericanas en Colombia.
+La Ley de Libertad de Vientres fue una solución de compromiso que buscaba conciliar los ideales de libertad de la independencia con la realidad económica de las élites que aún dependían de la mano de obra esclava.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Interpretar conflictos sociales
-**Context:** Narcotráfico y sociedad
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Cartel de Medellín, liderado por Pablo Escobar, se consolidó como una de las organizaciones criminales más poderosas del mundo durante la década de 1980. ¿Cuál de las siguientes estrategias fue empleada por este cartel para obtener poder e influencia en Colombia?
+Tras la independencia, surgió la disputa entre Bolívar y Santander. ¿Cuál era el punto central de desacuerdo respecto al manejo de las leyes y el poder ejecutivo?
 
 ### Options
-- [ ] A) Establecimiento de alianzas militares con las guerrillas del M-19 para compartir territorios de cultivo de coca <!-- feedback: El Cartel de Medellín operaba principalmente con paramilitares y grupos de autodefensa, no con guerrillas -->
-- [ ] B) Creación de una red de lavado de dinero exclusivamente mediante inversiones en el sector ganadero exportador <!-- feedback: El lavado de dinero del Cartel diversificó en múltiples sectores: construcción, bienes raíces, banca, transporte, no solo ganadería -->
-- [x] C) Implementación de una estrategia de "narco-política" que incluía la elección de congresistas y el control de autoridades locales mediante sobornos y violencia <!-- feedback: El Cartel de Medellín desarrolló sofisticadas estrategias de captura del Estado,desde lo local hasta el nivel nacional -->
-- [ ] D) Establecimiento de rutas de tráfico exclusivas utilizando únicamente territorio colombiano para evitar interceptación internacional <!-- feedback: El Cartel utilizaba múltiples países (Colombia, Bolivia, Perú, México, EE.UU.) para sus rutas de distribución -->
+- [ ] A) Bolívar defendía el federalismo y Santander el centralismo absoluto. <!-- feedback: Incorrect. Fue al revés: Bolívar prefería un centralismo fuerte y Santander respetaba la autonomía legal y administrativa. -->
+- [x] B) Santander defendía el respeto estricto a las leyes y la Constitución, mientras Bolívar creía en un mando central fuerte y vitalicio para mantener el orden. <!-- feedback: Correct. Esto se resume en la frase de Santander: "Si las armas os dieron la independencia, las leyes os darán la libertad". -->
+- [ ] C) Santander quería mantener el catolicismo como religión oficial y Bolívar buscaba un Estado laico. <!-- feedback: Incorrect. Las diferencias religiosas fueron secundarias frente a la disputa por el modelo de autoridad política. -->
+- [ ] D) Bolívar quería repartir las tierras entre los campesinos y Santander quería mantener los latifundios. <!-- feedback: Incorrect. Ninguno de los dos promovió una reforma agraria radical en favor de los campesinos en ese momento. -->
 
 ### Explicación Pedagógica
-La estrategia del Cartel de Medellín combinar bribe, infiltración política y violencia selectiva. Pablo Escobar construyó un "partido" propio (el "Logo de los Lost"), llegó al Congreso mediante la compra de curules, y utilizzaba el "plata o plomo" (dinero o plomo) para controlar políticos locales. Esta captura del Estado por organizaciones criminales es un problema que Colombia enfrenta hasta la actualidad.
+Esta ruptura marcó el inicio de las dos grandes corrientes políticas en Colombia: una enfocada en el orden y la autoridad (bolivariana/conservadora) y otra en la legalidad y los procedimientos institucionales (santanderista/liberal).
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v12`
-**Bloom:** Understand
-**ICFES:** Analizar transformaciones políticas
-**Context:** Constitucionalismo colombiano
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-La Constitución Política de Colombia de 1991 fue el resultado de un proceso de Asamblea Nacional Constituyente. ¿Cuál de las siguientes características innovaciones introduced esta nueva carta magna en materia de derechos?
+La disolución de la Gran Colombia en 1830 se debió, entre otros factores, a:
 
 ### Options
-- [x] A) Reconocimiento constitucional de la diversidad étnica y cultural de la nación colombiana, incluyendo derechos colectivos para los pueblos indígenas <!-- feedback: La Constitución de 1991 reconoció por primera vez a Colombia como un Estado pluriétnico y multicultural, con derechos específicos para comunidades indígenas y afrodescendientes -->
-- [ ] B) Establecimiento del sistema económico capitalista de libre mercado sin intervención estatal alguna en la economía <!-- feedback: La constitución de 1991 adoptó un modelo de economía social de mercado, con intervención estatal para corregir desigualdades, no un capitalismo laissez-faire -->
-- [ ] C) Eliminación completa de las fuerzas militares y su substitución por una policía nacional unificada <!-- feedback: La constitución mantuvo las Fuerzas Militares y la Policía Nacional como instituciones separadas, cada una con funciones distintas -->
-- [ ] D) Creación de un sistema de gobierno monárquico-constitucional con distribución de poderes entre el rey y el parlamento <!-- feedback: Colombia permaneció como República unitaria con gobierno representativo; no seestableció ninguna monarquía -->
+- [ ] A) La invasión de tropas estadounidenses en Panamá y Venezuela. <!-- feedback: Incorrect. No hubo intervención extranjera directa que causara la disolución; las causas fueron internas. -->
+- [x] B) Las fuertes rivalidades regionales y el rechazo de las élites de Caracas y Quito al centralismo bogotano. <!-- feedback: Correct. Venezuela y Ecuador sentían que Bogotá centralizaba el poder y los recursos, lo que llevó a sus separaciones. -->
+- [ ] C) El descubrimiento de petróleo en Venezuela, que hizo que este país no quisiera compartir sus ganancias. <!-- feedback: Incorrect. El petróleo no fue un factor relevante en 1830; la economía era agrícola. -->
+- [ ] D) La decisión de Simón Bolívar de vender el territorio de Panamá a Inglaterra. <!-- feedback: Incorrect. Bolívar nunca intentó vender Panamá; su sueño era la unidad, no la fragmentación por venta. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 fue innovadora en materia de derechos. Recognizó el carácter pluriétnico y multicultural de Colombia (Art. 7), estableció derechos ambientales (Art. 79), reconoció la territorialidad de los grupos indígenas (Art. 246), y creó mecanismos de participación ciudadana como las veedurías ciudadanas y las actiones populares.
+La falta de vías de comunicación, las deudas de la guerra y los intereses de las oligarquías locales en cada región hicieron imposible mantener el proyecto de unión continental de Bolívar.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v13`
 **Bloom:** Evaluate
-**ICFES:** Evaluar acuerdos de paz
-**Context:** Proceso de paz colombiano
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.40
 
 ### Enunciado
-El Acuerdo de Paz firmado en 2016 entre el Gobierno colombiano y las FARC-EP fue negociado durante más de cuatro años en La Habana, Cuba. ¿Cuál era uno de los puntos más controversiales del acuerdo final?
+Lea el siguiente fragmento del Acta de Independencia de 1810:
+"...protestamos que no abandonaremos los derechos de nuestro amado Rey Fernando VII, pero queremos que se nos oiga en nuestras quejas...".
+A partir del texto, se puede inferir que el movimiento del 20 de julio fue:
 
 ### Options
-- [ ] A) La entrega inmediata de todos los bienes y propiedades de las FARC al Estado colombiano sin compensación alguna <!-- feedback: El acuerdo preveía una jurisdicción especial para la paz y mecanismos de reparación, no la expropiación simple -->
-- [ ] B) La implementación de un sistema de cuotas laborales obligatorias para exintegrantes de las FARC en empresas públicas y privadas <!-- feedback: No existían cuotas laborales obligatorias; lo que se estableció fueron programas de reincorporación económica -->
-- [x] C) La creación de una Jurisdicción Especial para la Paz (JEP) con treatments penales diferenciados para los excombatientes de las FARC <!-- feedback: La JEP generó controversy porque permitía que los responsables de crímenes graves recibieran sanciones alternativas a la prisión efectiva si colaboraban con la justicia -->
-- [ ] D) La disolución inmediata de todas las estructuras militares de las FARC sin proceso de transición <!-- feedback: Las FARC pasaron por un proceso de DDR (Desarme, Desmovilización y Reincorporación) gradual, no una disolución instantánea -->
+- [ ] A) Una revolución radical que buscaba eliminar la monarquía inmediatamente. <!-- feedback: Incorrect. El texto menciona explícitamente que no abandonarán los derechos del Rey. -->
+- [x] B) Una acción política estratégica que usó la figura del Rey para ganar autonomía local. <!-- feedback: Correct. Los criollos aprovecharon el vacío de poder en España para reclamar el derecho de autogobernarse sin romper inicialmente con la Corona. -->
+- [ ] C) Una conspiración financiada por Napoleón Bonaparte para debilitar a España. <!-- feedback: Incorrect. El movimiento era anti-napoleónico en su retórica oficial. -->
+- [ ] D) Un acto puramente simbólico que no pretendía cambiar la administración del virreinato. <!-- feedback: Incorrect. Aunque se jura lealtad al Rey, se pide "oír las quejas" y se forman juntas, lo cual sí altera la administración. -->
 
 ### Explicación Pedagógica
-La Jurisdicción Especial para la Paz (JEP) fue quizás el punto más controversial del acuerdo. Criticsargued that it allowed former guerrilla commanders who committed atrocities to avoid effective prison sentences through "functional" crimes (delitos funcionales) and collaboration with justice. Defenders argued it was necessary to achieve peace and incentivize paramilitaries to also demobilize.
+El análisis de fuentes primarias revela que la independencia fue un proceso gradual. Inicialmente se apeló a la "Máscara de Fernando VII" para legitimar las juntas de gobierno ante el pueblo, que aún era mayoritariamente monárquico.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Interpretar continuidad histórica
-**Context:** Conflicto armado colombiano
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.40
 
 ### Enunciado
-El conflicto armado colombiano se ha prolongado por más de cinco décadas, involucrando guerrilla, paramilitares y fuerzas estatales. ¿Cuál de los siguientes elementos describe mejor una característica estructural de este conflicto?
+El sistema de "Resguardos" indígenas fue mantenido durante la Colonia por la Corona Española. ¿Cuál era la función paradójica de esta institución?
 
 ### Options
-- [ ] A) La eliminación completa de los grupos paramilitares tras la desmovilización de las AUC en 2006 <!-- feedback: Aunque las AUC se desmovilizaron formalmente, sus estructuras se reorganizaron en grupos sucesores como las Bacrim (bandas criminales) -->
-- [ ] B) El involucramiento de las guerrillas exclusivamente en actividades políticas sin participación en economías ilegales <!-- feedback: Las guerrillas, especialmente las FARC, se financiaron durante décadas mediante el tráfico de drogas, la minería ilegal y el secuestro -->
-- [x] C) La intersección entre
+- [ ] A) Permitir que los indígenas vivieran en total libertad sin pagar tributos. <!-- feedback: Incorrect. Los resguardos facilitaban precisamente el cobro de tributos al tener a la población concentrada. -->
+- [x] B) Proteger a los indígenas de la extinción total por parte de colonos, mientras se aseguraba su control y pago de impuestos. <!-- feedback: Correct. El resguardo evitaba la dispersión indígena, protegiendo su base demográfica para garantizar la mano de obra y el tributo. -->
+- [ ] C) Convertir a los indígenas en propietarios privados de tierras para fomentar el capitalismo. <!-- feedback: Incorrect. La propiedad era colectiva y los indígenas no podían vender las tierras; el objetivo no era el mercado sino el control. -->
+- [ ] D) Erradicar por completo las lenguas nativas al prohibir el uso del idioma en estas áreas. <!-- feedback: Incorrect. Aunque se buscaba la evangelización, el resguardo a menudo permitió la preservación de costumbres y lenguas bajo vigilancia. -->
+
+### Explicación Pedagógica
+El resguardo es una institución compleja: por un lado, fue un mecanismo de segregación y control fiscal, pero por otro, permitió la supervivencia física y cultural de muchas comunidades que habrían desaparecido en un sistema de propiedad privada individual.
+
+---
+
+## Question 15
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v15`
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
+
+### Enunciado
+La "Guerra de los Supremos" (1839-1842) fue la primera guerra civil de la Colombia independiente. ¿Cuál fue el detonante religioso y político de este conflicto?
+
+### Options
+- [ ] A) La prohibición de la religión católica por parte del gobierno liberal. <!-- feedback: Incorrect. El gobierno no prohibió el catolicismo, sino que tomó medidas administrativas sobre conventos. -->
+- [x] B) La ley que ordenaba cerrar los conventos menores en Pasto para convertirlos en escuelas. <!-- feedback: Correct. Esto provocó una rebelión liderada por José María Obando que escaló a una guerra nacional por el poder. -->
+- [ ] C) El intento del Papa de nombrar a Simón Bolívar como Rey de Colombia. <!-- feedback: Incorrect. Bolívar ya había muerto y no hubo tal intento de monarquía papal. -->
+- [ ] D) La llegada masiva de misioneros protestantes apoyados por el gobierno de Santander. <!-- feedback: Incorrect. La influencia protestante era mínima; el conflicto fue interno entre facciones católicas y el Estado. -->
+
+### Explicación Pedagógica
+Aunque el detonante fue la supresión de conventos pequeños (temas locales de Pasto), la guerra se transformó rápidamente en una lucha por el poder nacional donde los caudillos regionales se autodenominaron "Supremos".
+
+---
+
+## Question 16
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v16`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
+
+### Enunciado
+Durante la Colonia, el Consejo de Indias y la Casa de Contratación de Sevilla eran instituciones que funcionaban desde España. ¿Cuál era la función principal de la Casa de Contratación?
+
+### Options
+- [ ] A) Nombrar a los virreyes y oidores de las Reales Audiencias. <!-- feedback: Incorrect. Esa era función del Consejo de Indias, que asesoraba al Rey en política. -->
+- [x] B) Controlar el monopolio comercial, el transporte de mercancías y el flujo de personas hacia América. <!-- feedback: Correct. Era la aduana y reguladora económica del imperio; todo el comercio debía pasar por ella. -->
+- [ ] C) Dictar las Leyes de Indias para proteger a los nativos americanos. <!-- feedback: Incorrect. La legislación era competencia del Consejo de Indias. -->
+- [ ] D) Dirigir las misiones de evangelización de la orden de los Jesuitas. <!-- feedback: Incorrect. La Iglesia manejaba las misiones bajo el sistema de Patronato Regio, pero no a través de la Casa de Contratación. -->
+
+### Explicación Pedagógica
+La Casa de Contratación aseguraba que la Corona recibiera el "quinto real" (20% de las ganancias) y mantenía el rígido sistema de monopolio comercial que impedía a las colonias comerciar entre sí o con otras potencias.
+
+---
+
+## Question 17 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v17`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
+
+### Enunciado
+El "Memorial de Agravios" escrito por Camilo Torres en 1809 es un documento clave del pensamiento criollo pre-independentista. En él, Torres argumenta que los americanos son:
+
+### Options
+- [ ] A) Un pueblo totalmente distinto a los españoles con derecho a una monarquía propia. <!-- feedback: Incorrect. Torres no pedía una monarquía distinta, sino igualdad dentro del imperio español. -->
+- [x] B) Tan españoles como los nacidos en la península, por lo que deben tener igual representación en las Cortes. <!-- feedback: Correct. Su reclamo no era de separación, sino de igualdad de derechos políticos para los criollos frente a los peninsulares. -->
+- [ ] C) Descendientes directos de los emperadores indígenas con derecho a recuperar sus tierras. <!-- feedback: Incorrect. El discurso criollo de Torres ignoraba o subordinaba el derecho indígena; hablaba en nombre de los hijos de españoles nacidos en América. -->
+- [ ] D) Una nueva raza que debe aliarse con Francia para destruir el legado hispánico. <!-- feedback: Incorrect. El Memorial es una queja de lealtad herida, no una propuesta de alianza con los enemigos de España. -->
+
+### Explicación Pedagógica
+Torres utiliza un lenguaje jurídico para denunciar que, aunque América es parte integral de la monarquía española, se le trata como una colonia subordinada. Este documento muestra que la élite criolla buscaba inicialmente participación en el poder imperial, no necesariamente la independencia.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v18`
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Analice el impacto de la Expedición Botánica (1783) dirigida por José Celestino Mutis. Más allá de su valor científico, ¿cómo influyó este proyecto en el proceso de independencia?
+
+### Options
+- [ ] A) Proporcionó los planos militares necesarios para que Bolívar derrotara a los realistas. <!-- feedback: Incorrect. La expedición era científica (botánica, astronomía), no de inteligencia militar. -->
+- [ ] B) Permitió que los indígenas aprendieran a fabricar pólvora para sus flechas. <!-- feedback: Incorrect. No hubo transferencia de tecnología militar a las comunidades indígenas en este contexto. -->
+- [x] C) Creó una red de intelectuales criollos que desarrollaron un sentido de identidad nacional y conocimiento del territorio. <!-- feedback: Correct. Figuras como Caldas y Zea se formaron allí, vinculando el conocimiento de la naturaleza con la necesidad de autonomía política. -->
+- [ ] D) Fue el lugar donde se redactó en secreto la primera Constitución de Colombia. <!-- feedback: Incorrect. La constitución se redactó mucho después; la Expedición fue un semillero ideológico, no una asamblea legislativa. -->
+
+### Explicación Pedagógica
+La Expedición Botánica permitió a los criollos descubrir la riqueza de su propio territorio, lo que fortaleció la idea de que la Nueva Granada podía ser autosuficiente y que no necesitaba ser gobernada por una metrópoli lejana que desconocía su realidad.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+El historiador Germán Colmenares sostiene que la economía colonial de la Nueva Granada era una "economía de frontera". ¿Qué implicaba esto para el desarrollo político de la región?
+
+### Options
+- [ ] A) Que el Estado colonial tenía un control absoluto y eficiente sobre todo el territorio. <!-- feedback: Incorrect. Precisamente ser "de frontera" implicaba debilidad institucional y falta de control centralizado. -->
+- [ ] B) Que la principal fuente de riqueza era el comercio marítimo de productos industriales. <!-- feedback: Incorrect. La economía era extractiva (oro) y agrícola; no había industria en la colonia. -->
+- [x] C) Que existían grandes zonas fuera del control estatal donde se refugiaban esclavos, indígenas y mestizos, dificultando la consolidación de un orden central. <!-- feedback: Correct. La geografía difícil y la dispersión económica favorecieron el surgimiento de poderes locales y la resistencia al control bogotano. -->
+- [ ] D) Que Colombia era la frontera militar que protegía a México de las invasiones inglesas. <!-- feedback: Incorrect. No tiene relación con la tesis de Colmenares sobre la estructura interna económica y social. -->
+
+### Explicación Pedagógica
+La tesis de la economía de frontera explica por qué en Colombia el poder central siempre ha sido débil frente a los poderes regionales y por qué históricamente ha sido tan difícil integrar vastas zonas del país al orden constitucional.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P1-historia-colombiana-089-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la transición de la Nueva Granada de colonia a república. ¿Cuál fue el elemento de mayor continuidad social que sobrevivió casi intacto a pesar de la independencia política?
+
+### Options
+- [ ] A) El sistema de gobierno monárquico, que se mantuvo bajo un nuevo nombre. <!-- feedback: Incorrect. La forma de gobierno cambió drásticamente de monarquía absoluta a república representativa. -->
+- [ ] B) El monopolio comercial con España, que continuó siendo la base de la economía. <!-- feedback: Incorrect. Colombia abrió sus puertos al comercio mundial, especialmente con Inglaterra y EE.UU. -->
+- [x] C) La estructura jerárquica de clases y el control de la tierra por parte de las élites criollas. <!-- feedback: Correct. Aunque cambiaron los gobernantes, la pirámide social basada en la herencia colonial y el latifundio permaneció sin reformas profundas. -->
+- [ ] D) La prohibición total del catolicismo para adoptar ideas de la ilustración. <!-- feedback: Incorrect. El catolicismo siguió siendo la religión dominante y oficial durante gran parte del siglo XIX. -->
+
+### Explicación Pedagógica
+A menudo se dice que la independencia fue una "revolución política pero no social". Los criollos sustituyeron a los españoles en la cima de la pirámide, pero los indígenas, afrodescendientes y campesinos pobres continuaron en condiciones de subordinación similares a las de la colonia.

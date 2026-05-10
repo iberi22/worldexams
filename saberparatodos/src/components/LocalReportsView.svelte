@@ -233,7 +233,7 @@
   });
 
   function formatDate(ts: number) {
-    return new Date(ts).toLocaleDateString('es-CO', {
+    return new Date(ts).toLocaleDateString(runtimeCountry.locale, {
       month: 'short',
       day: 'numeric',
       hour: '2-digit',
@@ -577,14 +577,14 @@
                   <div class="absolute -top-10 -right-10 w-40 h-40 bg-emerald-500/5 rounded-full blur-[60px] group-hover:bg-emerald-500/10 transition-colors"></div>
 
                   <div class="flex items-center justify-between mb-8">
-                    <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">ESTIMADO ICFES</div>
+                    <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">ESTIMADO {runtimeCountry.examName}</div>
                     <div class="flex gap-2">
                         <button
                           class="p-2.5 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/10 hover:text-emerald-400 border border-white/5"
                           onclick={(e) => {
                             e.stopPropagation();
                             const score = userProfile?.icfesEstimate?.score || 0;
-                            const text = `Mi puntaje estimado de practica es ${score}/500 (metodo proxy, no oficial ICFES) en SaberParaTodos.`;
+                            const text = `Mi puntaje estimado de practica es ${score}/500 (metodo proxy, no oficial ${runtimeCountry.institutionName}) en ${runtimeCountry.product.siteName}.`;
                             navigator.clipboard.writeText(text);
                           }}
                         >
@@ -1975,12 +1975,12 @@
         </section>
 
         <section class="space-y-3">
-          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">Estimado ICFES Proxy</h4>
+          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">Estimado {runtimeCountry.examName} Proxy</h4>
           <p class="text-xs text-amber-200/80 leading-relaxed">
-            {userProfile?.icfesEstimate?.disclaimer || 'Estimacion de practica; no reemplaza el reporte oficial del ICFES.'}
+            {userProfile?.icfesEstimate?.disclaimer || `Estimacion de practica; no reemplaza el reporte oficial de ${runtimeCountry.institutionName}.`}
           </p>
           <p class="text-sm text-white/70 leading-relaxed">
-            Usamos una metodologia proxy en escala <span class="text-white font-bold">0 a 500 puntos</span> para orientar tu practica. No reemplaza el reporte oficial del ICFES ni replica su metodologia psicometrica.
+            Usamos una metodologia proxy en escala <span class="text-white font-bold">0 a 500 puntos</span> para orientar tu practica. No reemplaza el reporte oficial de {runtimeCountry.institutionName} ni replica su metodologia psicometrica.
           </p>
         </section>
 

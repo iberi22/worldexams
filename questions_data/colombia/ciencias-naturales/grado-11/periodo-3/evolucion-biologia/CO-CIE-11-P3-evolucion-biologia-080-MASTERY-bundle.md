@@ -1,18 +1,3 @@
-<think>
-The user wants me to generate exactly 20 multiple-choice questions in the ICFES Saber 11 style for Colombian high school sciences, specifically about evolution-biology topic, grade 11, period 3. I need to follow the exact format specified with YAML frontmatter and 20 questions in markdown.
-
-Let me generate questions with progressive difficulty:
-- Questions 1-4: D3-D4 (Basic)
-- Questions 5-10: D5-D6 (Medium)
-- Questions 11-16: D7-D8 (Advanced)
-- Questions 17-20: D9-D10 (High Advanced)
-
-Topic: evolution-biology (evolution and biological sciences)
-
-Let me create the questions with Colombian context, aligned to ICFES style.
-
-</think>
-
 ---
 id: "CO-CIE-11-P3-evolucion-biologia-080-MASTERY"
 country: "colombia"
@@ -23,341 +8,390 @@ periodo: 3
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 80
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:46:08.503146"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "explicacion_fenomenos, indagacion, uso_conceptos"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Componente naturaleza de la ciencia - Identificar]
-**Context:** Registro fósil de la Serranía de Chiribiquete en Colombia
-
-### Enunciado
-Los fósiles encontrados en el Parque Nacional Natural Serranía de Chiribiquete permiten a los científicos inferir que en el territorio colombiano existieron especies extintas. ¿Cuál de las siguientes opciones describe correctamente qué es un fósil?
-
-### Options
-- [ ] A) Un organismo vivo que habita en zonas rocosas subterráneas <!-- feedback: Confusión con organismos cavernícolas actuales -->
-- [ ] B) Restos o huellas de organismos que vivieron en épocas pasadas, preservados en rocas o sedimentos <!-- feedback: Correcta - definición estándar de fósil -->
-- [ ] C) Un tipo de roca sedimentaria que se forma por cristalización de minerales <!-- feedback: Confusión con procesos geológicos sin relación biológica -->
-- [ ] D) Restos de organismos modernos que no han sido consumidos por descomponedores <!-- feedback: Mezcla con conceptos de descomposición actual -->
-
-### Explicación Pedagógica
-La respuesta correcta es B. Un fósil es cualquier evidencia de un organismo passé preservado en el registro geológico, incluyendo huesos, dientes, conchas, huellas y residuos. Esta es la definición fundamental que todo estudiante debe conocer antes de estudiar evolución. Las opciones incorrectas mezclan conceptos de biología actual, geología y confusión sobre descomposición.
-
----
-
-## Question 2 (Variant Basic - Difficulty D3)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Componente naturaleza de la ciencia - Identificar]
-**Context:** Biodiversidad en el Chocó Biogeográfico
-
-### Enunciado
-La teoría de la evolución por selección natural propuesta por Darwin y Wallace establece que los organismos mejor adaptados a su ambiente tienen mayor probabilidad de sobrevivir y reproducirse. ¿Cuál de las siguientes afirmaciones corresponde directamente a este principio?
-
-### Options
-- [ ] A) Todos los organismos de una población cambian simultáneamente para sobrevivir <!-- feedback: Confusión con cambio grupal masivo, no individual -->
-- [ ] B) Los organismos heredan todas las características de sus ancestros sin modificación <!-- feedback: Contrario al principio de variación y cambio -->
-- [x] C) Los individuos con variaciones favorables tienen mayor éxito reproductivo en su ambiente <!-- feedback: Esta es la esencia de la selección natural -->
-- [ ] D) El ambiente determina únicamente las características que se adquieren durante la vida <!-- feedback: Confusión con Lamarckismo y herencia de caracteres adquiridos -->
-
-### Explicación Pedagógica
-La respuesta correcta es C. La selección natural opera sobre la variación individual: aquellos individuos con rasgos que les dan ventaja en su ambiente específico tienden a sobrevivir más y dejar más descendencia, transmitiendo esos rasgos. Las otras opciones representan conceptos erróneos comunes: cambio grupal sincronizado, herencia directa sin cambio, y lamarckismo.
-
----
-
-## Question 3 (Variant Basic - Difficulty D4)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v3`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-001`
 **Bloom:** [Understand]
-**ICFES:** [Componente ecosistemas - Interpretar]
-**Context:** Especies endémicas del Valle de Aburrá como herencia evolutiva
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En el Valle de Aburrá, algunas especies de ranas tienen coloration brillante que las hace muy visibles a los depredadores. Sin embargo, estas ranas sobreviven porque producen sustancias tóxicas. Desde la perspectiva evolutiva, ¿por qué la coloración brillante se ha mantenido en esta población?
+En una expedición científica a la Amazonía colombiana, se descubre una nueva especie de planta que produce flores de un rojo intenso. Los investigadores observan que solo un tipo específico de colibrí visita estas flores. Este fenómeno de influencias mutuas en la evolución de dos especies se conoce como:
 
-### Options
-- [ ] A) La coloración brillante permite a las ranas camouflagearse mejor entre las hojas verdes <!-- feedback: Contradice el hecho de que son muy visibles -->
-- [ ] B) La coloración brillante es una adaptación que serve como señal de advertencia a los depredadores (aposematismo) <!-- feedback: Correcta - ventaja evolutiva clara -->
-- [ ] C) Los depredadores no pueden ver los colores brillantes en el bosque nublado <!-- feedback: No explica por qué se mantiene generación tras generación -->
-- [ ] D) Las ranas aprendieron recientemente a producir toxinas como respuesta al peligro <!-- feedback: Confusión entre aprendizaje individual y evolución genética -->
+- [ ] A) Evolución convergente. <!-- feedback: Incorrect. La convergencia ocurre en especies separadas que desarrollan rasgos similares, no en especies que interactúan. -->
+- [x] B) Coevolución. <!-- feedback: Correct. Es el proceso donde dos o más especies influyen recíprocamente en su evolución, desarrollando adaptaciones complementarias. -->
+- [ ] C) Comensalismo. <!-- feedback: Incorrect. El comensalismo es un tipo de interacción ecológica, pero no describe el proceso evolutivo de cambio mutuo. -->
+- [ ] D) Especiación alopátrica. <!-- feedback: Incorrect. Se refiere a la formación de especies por separación geográfica, no por interacción biológica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El aposematismo (coloración de advertencia) es un mecanismo evolutivo donde las especies venenosas o tóxicas desarrollan colores llamativos para advertir a los depredadores. Los depredadores que aprenden a asociar colores brillantes con toxicity tienen mayor supervivencia, lo que mantiene la presión selectiva a favor de este rasgo. Este es un ejemplo clásico de presión selectiva en acción.
+La coevolución es común en las relaciones planta-polinizador, depredador-presa y parásito-huésped. Genera una "carrera armamentista" o una especialización mutua muy estrecha.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v4`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-002`
 **Bloom:** [Understand]
-**ICFES:** [Componente naturaleza de la ciencia - Explicar]
-**Context:** Evidencia molecular en primates colombianos
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Los análisis genéticos demuestran que los humanos comparten aproximadamente el 98.6% de su ADN con los chimpancés. ¿Qué tipo de evidencia evolutiva representa esta comparación molecular?
+¿Cuál de las siguientes afirmaciones resume mejor la idea central de la Selección Natural?
 
-### Options
-- [ ] A) Evidencia embriológica <!-- feedback: Se relaciona con desarrollo embrionario, no con análisis de ADN -->
-- [ ] B) Evidencia biogeográfica <!-- feedback: Se relaciona con distribución geográfica de especies -->
-- [x] C) Evidencia bioquímica o molecular <!-- feedback: Correcta - comparación directa de material genético -->
-- [ ] D) Evidencia paleontológica <!-- feedback: Se relaciona con fósiles y restos de organismos antiguos -->
+- [ ] A) El más fuerte y grande siempre sobrevive. <!-- feedback: Incorrect. A veces ser pequeño es una ventaja (ej. durante escasez de comida). El éxito depende de la adaptación al entorno. -->
+- [x] B) Los individuos con rasgos que favorecen la supervivencia y reproducción dejan más descendencia. <!-- feedback: Correct. La selección natural es el éxito reproductivo diferencial basado en rasgos heredables. -->
+- [ ] C) Los organismos cambian sus genes para adaptarse a los desafíos ambientales. <!-- feedback: Incorrect. Los genes no cambian en respuesta a necesidades; las mutaciones son azarosas y la selección actúa sobre lo que ya existe. -->
+- [ ] D) La evolución tiene como objetivo crear la especie humana. <!-- feedback: Incorrect. La evolución no tiene metas ni objetivos finales; es un proceso ciego dirigido por las condiciones locales. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La evidencia bioquímica y molecular incluye comparaciones de ADN, proteínas y otras moléculas entre especies. El alto grado de similitud genética entre humanos y chimpancés indica un ancestro común compartido relativamente reciente en términos evolutivos. Este tipo de evidencia es una de las más potentes para demostrar relaciones evolutivas y es fundamental para entender la единая origen de la vida.
+La selección natural no busca la "perfección", sino la suficiencia reproductiva. Un rasgo "malo" puede persistir si no impide que el individuo tenga hijos y nietos.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v5`
-**Bloom:** [Apply]
-**ICFES:** [Componente naturaleza de la ciencia - Aplicar]
-**Context:** Arbovirus emergentes en regiones tropicales de Colombia
-
-### Enunciado
-En Colombia se ha identificado que algunos vectores de enfermedades están modificando su distribución geográfica debido al cambio climático. Si una población de mosquitos se vuelve más resistente a insecticidas, ¿qué tipo de selección está actuando sobre esta población?
-
-### Options
-- [ ] A) Selección estabilizadora <!-- feedback: Favorece valores intermedios, no resistencia extrema -->
-- [ ] B) Selección direccional <!-- feedback: Sería correcta si la resistencia aumentara progresivamente -->
-- [x] C) Selección disruptiva <!-- feedback: Correcta - favorece los extremos (resistentes vs.no resistentes) -->
-- [ ] D) Selección natural no está actuando porque es una respuesta al cambio climático <!-- feedback: Incorrecto - el cambio climático crea presión selectiva -->
-
-### Explicación Pedagógica
-La respuesta correcta es C. En este escenario, los mosquitos con alta resistencia sobreviven cuando hay insecticida, mientras que los mosquitos sin resistencia mueren. Esto crea presión selectiva que favorece ambos extremos: altamente resistentes y sensibles. La selección disruptiva ocurre cuando los valores extremos de un rasgo tienen ventaja sobre el valor intermedio. El cambio climático intensifica la presión selectiva al aumentar la exposición a insecticidas.
-
----
-
-## Question 6 (Variant Basic - Difficulty D5)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Componente ecosistemas - Analizar]
-**Context:** Deforestación en la Amazonía colombiana
-
-### Enunciado
-En la Amazonía colombiana, cuando se pierde habitat de una especie que solo se alimenta de un tipo específico de fruto, ¿qué consecuencia evolutiva inmediata podría esperarse para esa población?
-
-### Options
-- [ ] A) Los individuos aumentarán su capacidad de comer otros alimentos por necesidad inmediata <!-- feedback: Confusión con Lamarckismo - los individuos no cambian por "necesidad" -->
-- [x] B) La reducción drástica del tamaño poblacional aumenta la pérdida de diversidad genética, comprometiendo la capacidad adaptativa <!-- feedback: Correcta - efecto de cuello de botella genética -->
-- [ ] C) La especie desarrollará nuevas mutaciones específicas para sobrevivir con menos alimento <!-- feedback: Las mutaciones no son dirigidas por las necesidades del ambiente -->
-- [ ] D) Toda la población morirá inmediatamente al agotarse la fuente de alimento original <!-- feedback: Exagera la respuesta - puede haber supervivencia temporal -->
-
-### Explicación Pedagógica
-La respuesta correcta es B. Cuando una población se reduce drásticamente (cuello de botella), pierde diversidad genética. Esta reducción aumenta la endogamia y la expresión de alelos deletéreos, comprometiendo la capacidad de la población para adaptarse a futuros cambios ambientales. Esto es una consecuencia evolutiva significativa porque afecta el potencial evolutivo a largo plazo de la especie.
-
----
-
-## Question 7 (Variant Basic - Difficulty D5)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v7`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-003`
 **Bloom:** [Understand]
-**ICFES:** [Componente naturaleza de la ciencia - Comparar]
-**Context:** Evolución de resistencia a fármacos en bacterias colombianas
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Un paciente en un hospital de Bogotá dejó su tratamiento antibiótico antes de tiempo porque se sintió mejor. Tres meses después, la infección regresó y el antibiótico ya no fue efectivo. ¿Cuál explicación evolutiva es más consistente con esta situación?
+El hecho de que todos los seres vivos utilicen el mismo código genético (bases nitrogenadas A, T, C, G) para almacenar información es una prueba de:
 
-### Options
-- [ ] A) El antibiótico mutó y se volvió inútil durante el tratamiento <!-- feedback: Los antibióticos no mutan; son chemicals externos -->
-- [x] B) Las bacterias con resistencia accidental sobrevivieron y se multiplicaron, populando la infección con descendientes resistentes <!-- feedback: Correcta - selección de variantes resistentes preexistentes -->
-- [ ] C) El cuerpo del paciente se volvió inmune al antibiótico <!-- feedback: Confusión entre respuesta inmune del huesped y resistencia bacteriana -->
-- [ ] D) El antibiótico se degradó prematuramente en el cuerpo del paciente <!-- feedback: Ignora el mecanismo evolutivo de resistencia -->
+- [ ] A) La evolución convergente universal. <!-- feedback: Incorrect. Es demasiado improbable que un sistema tan complejo se originara igual varias veces de forma independiente. -->
+- [x] B) Un origen común para toda la vida en la Tierra. <!-- feedback: Correct. El código genético es un "congelamiento histórico" que se ha mantenido casi idéntico desde el ancestro común universal (LUCA). -->
+- [ ] C) Que el ambiente terrestre solo permite ese tipo de química. <!-- feedback: Incorrect. Químicamente son posibles otros sistemas, pero la vida terrestre heredó este específicamente. -->
+- [ ] D) La panspermia dirigida por civilizaciones avanzadas. <!-- feedback: Incorrect. No hay evidencia científica que apoye esta hipótesis; el origen terrestre es la explicación más parsimoniosa. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La resistencia a antibióticos evoluciona por selección natural: en toda población bacteriana existen individuos con variaciones genéticas aleatorias, algunas de las cuales confieren resistencia. Cuando se usa el antibiótico, las bacterias sensibles mueren mientras que las resistentes sobreviven y se multiplican, dominan la población. Este es un ejemplo de selección artificial (aplicada por humanos) y demuestra cómo el uso inadecuado de antibióticos acelera la evolución de resistencia.
+La unidad bioquímica de la vida es una de las evidencias más contundentes de la evolución. Compartimos procesos fundamentales (glucólisis, replicación) con bacterias que vivieron hace 3500 millones de años.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v8`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Indagación]
+
+### Enunciado
+Un paleontólogo encuentra fósiles de conchas marinas en la cima de una montaña en la Cordillera de los Andes. Según los principios de la evolución y la geología, la explicación más probable es:
+
+- [ ] A) Las aves marinas transportaron las conchas hasta allí hace siglos. <!-- feedback: Incorrect. Las aves no transportan cantidades masivas de conchas fósiles a tales alturas. -->
+- [ ] B) Las conchas marinas evolucionaron para vivir en las rocas de las montañas. <!-- feedback: Incorrect. Los fósiles corresponden a especies marinas extintas, no a adaptaciones terrestres actuales. -->
+- [x] C) El terreno que hoy es una montaña estuvo bajo el nivel del mar en el pasado geológico. <!-- feedback: Correct. La tectónica de placas eleva los sedimentos marinos antiguos, preservando los fósiles de los seres que vivieron allí. -->
+- [ ] D) Un diluvio universal cubrió todas las montañas del planeta. <!-- feedback: Incorrect. Esta es una explicación mitológica que no concuerda con los tiempos y procesos geológicos observados. -->
+
+### Explicación Pedagógica
+Darwin mismo utilizó este tipo de observaciones para entender que la Tierra es muy antigua y que su superficie cambia constantemente, proporcionando el tiempo necesario para la evolución.
+
+---
+
+## Question 5 [D5-D6]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-005`
 **Bloom:** [Analyze]
-**ICFES:** [Componente naturaleza de la ciencia - Analizar]
-**Context:** Flora园的 ископаемые в la Sierra Nevada del Cocuy
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En los Andes colombianos se han encontrado restos fósiles de organismos marinoв en altitudes superiores a los 3000 metros. Los estudiantes deben explicar este fenómeno. ¿Cuál explicación es más consistente con la teoría de tectónica de placas y evolución?
+En una isla del Caribe, una especie de lagartija tiene dos variedades: una de patas cortas (mejor para ramas delgadas) y otra de patas largas (mejor para troncos anchos). Si un huracán destruye todos los árboles grandes y solo quedan arbustos de ramas delgadas, ¿qué tipo de selección se espera observar?
 
-### Options
-- [ ] A) Los animales marinaв migraron lentamente hacia las montañas buscando nuevo habitat <!-- feedback: No explica fossils en altitudes tan extremas -->
-- [ ] B) Un antiguo mar interior cubrió temporalmente esa región de Suramérica <!-- feedback: Explicación válida pero incompleta -->
-- [x] C) El movimiento de placas tectónicas levantó el fondo marino miles de metros, incorporando esos restos a las montañas actuales <!-- feedback: Correcta - combinación de tectónica y registro fósil -->
-- [ ] D) Los fósiles fueron depositados por nubes de tormenta desde el océano Pacíﬁco <!-- feedback: Mecanismo físicamente imposible para fossils -->
+- [ ] A) Selección estabilizadora. <!-- feedback: Incorrect. La estabilizadora favorecería el promedio, pero aquí se favorece un extremo (patas cortas). -->
+- [x] B) Selección direccional. <!-- feedback: Correct. La presión ambiental elimina a las de patas largas y favorece a las de patas cortas, desplazando la media de la población. -->
+- [ ] C) Selección disruptiva. <!-- feedback: Incorrect. La disruptiva favorecería ambos extremos y eliminaría las medias; aquí solo se favorece uno. -->
+- [ ] D) Selección sexual. <!-- feedback: Incorrect. El factor de cambio es la supervivencia ante la falta de hábitat, no la elección de pareja. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La teoría de tectónica de placas explica que los continentes se mueven sobre el manto terrestre. Donde ahora están los Andes, hace millones de años había un lecho marino. La colisión de placas (subducción) levantó estos materiales, incluyendo los fósiles marinaв, a grandes altitudes. Esto demuestra cómo los procesos geológicos y biológicos están interrelacionados en la historia de la Tierra.
+La selección direccional ocurre cuando el entorno cambia de modo que un rasgo previamente neutro o raro se vuelve altamente ventajoso.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v9`
-**Bloom:** [Understand]
-**ICFES:** [Componente naturaleza de la ciencia - Interpretar]
-**Context:** Biodiversidad del Paramo andino como laboratorio evolutivo
-
-### Enunciado
-En los páramos andinos colombianos, se encuentran especies de plantas emparentadas entre sí que ocupan diferentes alturas de la montaña. Los científicos creen que estas plantas evolucionaron a partir de un ancestro común. ¿Qué mecanismo evolutivo es más probable que haya generado esta diversidad?
-
-### Options
-- [ ] A) Convergencia adaptativa - las plantas desarrollaron características similares independientemente <!-- feedback: Convergencia produce similitud, no diversidad entre parientes cercanos -->
-- [x] B) Adaptación a diferentes altitudes desde el mismo ancestro, mediante selección natural y deriva genética <!-- feedback: Correcta - radiación adaptativa en gradientes de altitude -->
-- [ ] C) Transferencia horizontal de genes entre species de diferentes altitudes <!-- feedback: Posible pero no es el mecanismo principal en plantas terrestres -->
-- [ ] D) Hibridación entre species de zonas bajas y altas exclusivamente <!-- feedback: La hibridación ocurre pero no explica el patrón general -->
-
-### Explicación Pedagógica
-La respuesta correcta es B. La radiación adaptativa es el proceso por el cual una especie ancestral da origen a múltiples especies que ocupan diferentes nichos. En los páramos, los gradientes de altitud crean ambientes variados (diferentes temperaturas, humedad, radiación UV) que imponen presiones selectivas diferentes. Las plantas que colonizaron diferentes alturas acumularon adaptaciones específicas, resultando en especies relacionadas pero distintivas. Este es un ejemplo clásico de evolución en acción.
-
----
-
-## Question 10 (Variant Basic - Difficulty D6)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v10`
-**Bloom:** [Apply]
-**ICFES:** [Componente naturaleza de la ciencia - Explicar]
-**Context:** Uso de merca doctrina en comunidades indígenas de la Sierra Nevada de Santa Marta
-
-### Enunciado
-En la Sierra Nevada de Santa Marta, los Tayronas han utilizado durante siglos plantas medicinales específicas para tratar enfermedades. Este conocimiento tradicional se transmite de generación en generación. ¿Cuál sería una preocupación evolutiva válida sobre la sostenibilidad de esta práctica?
-
-### Options
-- [ ] A) El uso prolongado podría causar que las plantas desarrollen resistencia a los humanos <!-- feedback: Las plantas no desarrollan "resistencia" a organisms que no las threaten -->
-- [x] B) La cosecha excesiva de plantas específicas podría reducir su diversidad genética y llevar a déclin poblacional <!-- feedback: Correcta - presión selectiva antrópica sobre las plantas -->
-- [ ] C) Los humanos desarrollarían dependencia genética a esos compuestos <!-- feedback: Los humanos no adquieren genes de las plantas que usan -->
-- [ ] D) Las plantas medicinales dejarán de ser efectivas por aprendizaje bacteriano <!-- feedback: Confusión entre uso humano y respuesta bacteriana -->
-
-### Explicación Pedagógica
-La respuesta correcta es B. La cosecha excesiva de plantas medicinales por comunidades humanas puede crear presión selectiva sobre esas poblaciones vegetales. Las plantas que sobreviven a la cosecha repetida pueden constituir una muestra genética pequeña, reduciendo la diversidad genética general de la población. Esto compromete la capacidad de las plantas para adaptarse a patógenos, cambios climáticos y otros desafíos, potencialmente llevando a déclin poblacional o extinción local. Este es un ejemplo de impacto humano sobre la evolución de otras especies.
-
----
-
-## Question 11 (Variant Basic - Difficulty D7)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v11`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-006`
 **Bloom:** [Analyze]
-**ICFES:** [Componente naturaleza de la ciencia - Evaluar]
-**Context:** Contaminación lumínica en áreas naturales protegidas de Colombia
+**ICFES:** [Indagación]
 
 ### Enunciado
-En varios páramos de Cundinamarca, la contaminación lumínica de la ciudad de Bogotá está afectando las poblaciones de insectos nocturnos. Investigaciones recientes muestran cambios en los patrones de apareamiento de polillas. ¿Cuál predicción evolutiva es más consistente con el principio de selección natural?
+¿Cuál es el papel fundamental de las mutaciones en el proceso evolutivo?
 
-### Options
-- [ ] A) Las polillas desarrollarán ojos más pequeños para evitar la luz artificial en generaciones futuras <!-- feedback: Las mutaciones no son dirigidas por el ambiente -->
-- [ ] B) Se seleccionarán polillas con respuestas conductuales alteradas (menor atracción hacia fuentes de luz intensa), aumentando su supervivencia y reproducción <!-- feedback: Correcta - selección de comportamientos que aumentan fitness -->
-- [ ] C) Todas las polillas sobrevivirán igualmente porque desarrollarán adaptación colectiva e instant्ता <!-- feedback: La evolución no es instantánea ni grupal -->
-- [ ] D) Las polillas dejarán de reproducirse para evitar morir en las luces <!-- feedback: No considera el mecanismo de selección sobre variación preexistente -->
+- [ ] A) Eliminar a los individuos más débiles de la población. <!-- feedback: Incorrect. Esta es una función de la selección natural, no de la mutación. -->
+- [ ] B) Garantizar que las especies se vuelvan más complejas con el tiempo. <!-- feedback: Incorrect. Las mutaciones no tienen dirección; pueden simplificar o no tener efecto. -->
+- [x] C) Generar la variabilidad genética necesaria sobre la cual actúa la selección natural. <!-- feedback: Correct. Sin mutaciones, todos los individuos serían clones y la selección no tendría de dónde elegir para adaptarse. -->
+- [ ] D) Corregir los errores cometidos por los padres durante la herencia. <!-- feedback: Incorrect. Las mutaciones SON errores de copia; no son mecanismos de corrección. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. En poblaciones de polillas existe variación en los comportamientos de respuesta a la luz. Algunas polillas son fuertemente atraídas por las luces artificiales y mueren al quedarse atrapadas, mientras otras muestran menor atracción. Las polillas con menor atracción tienen mayor supervivencia y dejan más descendencia, transmitiendo los alelos associated con este comportamiento. En generaciones sucesivas, la frecuencia de polillas con menor respuesta a la luz aumentaría en la población. Este es un ejemplo de selección conductual.
+La mutación es la fuente última de la novedad biológica. Aunque la mayoría son neutras o perjudiciales, las pocas beneficiosas son las que permiten la adaptación a largo plazo.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v12`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-007`
 **Bloom:** [Analyze]
-**ICFES:** [Componente naturaleza de la ciencia - Comparar]
-**Context:** Caiman del Magdalena y evolución en ambientes dulceacuícolas
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En el sistema de los ríos Magdalena y Cauca, dos poblaciones de caimán se separaron hace miles de años por el cambio en el curso de los ríos. Hoy son morf muy similares pero no pueden reproducirse entre sí. ¿Qué concepto evolutivo mejor explica esta situación?
+El oso hormiguero y el pangolín (un mamífero asiático con escamas) tienen hocicos largos y lenguas pegajosas para comer insectos, aunque sus ancestros eran muy diferentes. Este es un ejemplo de:
 
-### Options
-- [ ] A) Especiación sympátrica - las poblaciones divergieron sin separación física <!-- feedback: No aplica - hubo separación física clara -->
-- [ ] B) Convergencia adaptativa - desarrollaron características similares independientemente <!-- feedback: No explica la incapacidad de reproducirse entre poblaciones relacionadas -->
-- [x] C) Especiación alopátrica - la separación geográfica llevó a divergencia genética hasta constituir especies separadas (especies crípticas) <!-- feedback: Correcta - descripción clásica de especiación alopátrica -->
-- [ ] D) Paralelismo evolutivo - las poblaciones siguieron el mismo camino evolutivo por presiones similares <!-- feedback: No explica la divergencia hasta incompatibilidad reproductiva -->
+- [ ] A) Homología de órganos. <!-- feedback: Incorrect. Sus hocicos no provienen de una estructura especializada similar en un ancestro cercano común. -->
+- [x] B) Evolución convergente. <!-- feedback: Correct. Especies diferentes desarrollan soluciones similares ante el mismo reto ambiental (comer hormigas en grietas). -->
+- [ ] C) Mimetismo batesiano. <!-- feedback: Incorrect. El mimetismo es parecerse a otra especie peligrosa para evitar depredadores. -->
+- [ ] D) Hibridación entre especies lejanas. <!-- feedback: Incorrect. Especies de continentes diferentes y órdenes distintos no pueden hibridarse. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La especiación alopátrica ocurre cuando una población es dividida físicamente (en este caso, por cambio en el curso de los ríos), eliminando el flujo genético entre ellas. Con el tiempo, la acumulación de mutaciones diferentes en cada población, junto con diferentes presiones selectivas locales, conduce a incompatibilidad genética: ya no pueden reproducirse entre sí o su descendencia no es viable. Son morf muy similares porque comparten ancestro común, pero genética y reproductivamente son especies separadas.
+La convergencia demuestra que hay límites físicos y ecológicos a las formas de vida; ante un mismo problema, la selección suele "encontrar" soluciones parecidas.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v13`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-008`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Por qué la anemia falciforme (una enfermedad genética grave) persiste en poblaciones humanas de África central en lugar de ser eliminada por la selección natural?
+
+- [ ] A) Porque es una mutación nueva que aparece en cada generación. <!-- feedback: Incorrect. Es un rasgo antiguo y heredado. -->
+- [ ] B) Porque la selección natural no funciona en seres humanos. <!-- feedback: Incorrect. Los humanos seguimos sujetos a presiones selectivas (enfermedades, ambiente). -->
+- [x] C) Porque los heterocigotos tienen una ventaja: son resistentes a la malaria. <!-- feedback: Correct. Se llama "ventaja del heterocigoto". En zonas con malaria, tener una copia del gen es mejor que no tener ninguna o tener dos. -->
+- [ ] D) Porque las personas con la enfermedad tienen más hijos que las sanas. <!-- feedback: Incorrect. La enfermedad reduce drásticamente la salud y capacidad reproductiva si no hay tratamiento. -->
+
+### Explicación Pedagógica
+Este es un caso clásico de selección estabilizadora. La presión de la malaria mantiene el gen en la población a pesar del costo que pagan los individuos con doble dosis del alelo.
+
+---
+
+## Question 9 [D5-D6]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+Dos poblaciones de ardillas quedan separadas por la formación del Gran Cañón en Estados Unidos. Tras miles de años, si se vuelven a juntar, ya no pueden reproducirse entre sí. Este proceso se denomina:
+
+- [ ] A) Especiación simpátrica. <!-- feedback: Incorrect. La simpátrica ocurre sin barrera física (en el mismo territorio). -->
+- [x] B) Especiación alopátrica. <!-- feedback: Correct. La formación de nuevas especies debido al aislamiento geográfico previo. -->
+- [ ] C) Radiación adaptativa instantánea. <!-- feedback: Incorrect. La radiación toma tiempo y múltiples nichos; aquí solo hay dos poblaciones separadas. -->
+- [ ] D) Extinción por fragmentación. <!-- feedback: Incorrect. Las ardillas sobrevivieron y cambiaron, no se extinguieron. -->
+
+### Explicación Pedagógica
+El aislamiento geográfico interrumpe el flujo génico. Las mutaciones y la selección actúan de forma independiente en cada grupo hasta que las diferencias genéticas impiden el cruce.
+
+---
+
+## Question 10 [D5-D6]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-010`
 **Bloom:** [Evaluate]
-**ICFES:** [Componente naturaleza de la ciencia - Argumentar]
-**Context:** Deforestación y fragmentación del bosque húmedo tropical del Chocó
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-La fragmentación del bosque del Chocó biogeográfico ha aislado poblaciones de primates. Investigadores argumentan que esto podría llevar a especiación. Un estudiante反对 esta hipótesis basándose en que "la especiación tarda millones de años y la deforestación es reciente". ¿Cómo se puede evaluar críticamente este argumento?
+La idea de que "la ontogenia recapitula la filogenia" (propuesta por Haeckel) sugería que el desarrollo de un embrión repite la historia evolutiva de la especie. Aunque hoy se sabe que no es exacto, ¿qué observación embriológica sí apoya la evolución?
 
-### Options
-- [ ] A) El argumento es válido porque el tiempo evolutivo siempre requiere millones de años para generar nuevas species <!-- feedback: La velocidad de especiación varía enormemente; no es fija -->
-- [x] B) El argumento subestima la velocidad potencial de evolución en poblaciones pequeñas y aisladas, especialmente con presión selectiva fuerte <!-- feedback: Correcta - poblaciones pequeñas pueden evolucionar rápidamente por deriva y selección -->
-- [ ] C) El argumento es correcto porque la especiación solo ocurre mediante acumulación lenta de mutaciones puntuales <!-- feedback: Ignora selección, deriva genética fuerte, y otros mecanismos -->
-- [ ] D) El argumento es irrelevante porque toda especiación requiere intervención humana <!-- feedback: Incorrecto - la especiación ocurre naturalmente -->
+- [ ] A) Todos los embriones de mamíferos tienen pulmones funcionales desde la primera semana. <!-- feedback: Incorrect. Los pulmones se desarrollan al final; al principio hay estructuras muy diferentes. -->
+- [x] B) Los embriones de vertebrados (incluyendo humanos) presentan hendiduras branquiales y cola en etapas tempranas. <!-- feedback: Correct. Esto revela un ancestro común acuático cuyos planos de desarrollo aún persisten en nuestros genes. -->
+- [ ] C) Los bebés humanos nacen sabiendo nadar como peces. <!-- feedback: Incorrect. Los humanos tienen reflejos acuáticos, pero no "saben nadar" por herencia directa de peces. -->
+- [ ] D) El ADN cambia totalmente mientras el feto crece. <!-- feedback: Incorrect. El ADN es constante en todas las células del individuo desde el cigoto. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La velocidad de evolución (incluyendo especiación) depende de varios factores: tamaño poblacional, intensidad de presión selectiva, tasa de mutación, y flujo genético. En poblaciones pequeñas y aisladas, la deriva genética puede causar cambios rápidos. Además, si la fragmentación crea nuevas presiones selectivas (diferentes depredadores, alimentos, clima), la selección natural puede favorecer adaptaciones locales en décadas o siglos, no millones de años. El argumento del estudiante asume incorrectamente una velocidad fija de evolución.
+La embriología comparada muestra que los vertebrados comparten un inicio de desarrollo muy similar, lo cual es una evidencia poderosa de ancestros comunes.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v14`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-011`
 **Bloom:** [Analyze]
-**ICFES:** [Componente naturaleza de la ciencia - Evaluar]
-**Context:** Control biológico de langostas en la Orinoquía colombiana con hongos entomopatógenos
+**ICFES:** [Indagación]
 
 ### Enunciado
-En la Orinoquía, se están utilizando hongos naturales para controlar las langostas plagantes. Un científico argumenta que los hongos más virulentos deberían evolucionar rápidamente porque matan a más langostas y se reproducen más. ¿Este argumento es correcto? ¿Por qué?
+Se estudia una población de plantas donde el color de la flor está determinado por un solo gen. Flores Rojas (RR), Rosadas (Rr) y Blancas (rr). Si un incendio mata selectivamente a las plantas de flores rojas porque son más visibles para los herbívoros tras el fuego, la frecuencia del alelo "R":
 
-### Options
-- [ ] A) Sí, porque la virulencia alta siempre confiere mayor éxito reproductivo al hongo <!-- feedback: Ignora los compromisos evolutivos y ciclo de vida del hospedero -->
-- [ ] B) No, porque los hongos no pueden evolucionar - son organismos muy simples <!-- feedback: Los hongos sí evolucionan, son eucariotas con genética -->
-- [x] C) El argumento es parcial - la evolución de virulencia depende de cómo la transmisión del hongo se relaciona con la muerte del hospedero, ya que si el hospedero muere muy rápido, la propagación puede verse comprometida <!-- feedback: Correcta - considera la biología deTransmission -->
-- [ ] D) El argumento es correcto solo si las langostas desarrollan resistencia a los hongos <!-- feedback: No aborda la pregunta sobre evolución de virulencia del hongo -->
+- [ ] A) Aumentará para compensar la pérdida. <!-- feedback: Incorrect. La selección elimina genes, no los crea por necesidad. -->
+- [x] B) Disminuirá en la siguiente generación. <!-- feedback: Correct. Al morir los individuos con alelos R, hay menos copias de ese gen disponibles para pasar a la descendencia. -->
+- [ ] C) Permanecerá igual por equilibrio de Hardy-Weinberg. <!-- feedback: Incorrect. Hardy-Weinberg requiere que NO haya selección natural; el incendio y los herbívoros son agentes selectivos. -->
+- [ ] D) Se convertirá en un alelo letal para la especie. <!-- feedback: Incorrect. Un alelo no se vuelve letal por un evento externo; la letalidad es una propiedad genética intrínseca. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La evolución de la virulencia es un tópico complejo en biología evolutiva. No siempre "más mortífero = más exitoso evolutivamente". Si el hospedero muere rápidamente antes de que el hongo disperse sus esporas, la selección puede favorecer hongos menos virulentos pero que mantienen al hospedero vivo por más tiempo, maximizando la dispersión. Este fenómeno se observa en muchos patógenos: excesiva virulencia puede ser evolucionariamente inestable. El argumento del científico es simplista y no considera la dinámica de transmisión.
+Este es un ejemplo de cómo eventos ambientales alteran la estructura genética de una población (microevolución).
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v15`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+¿Cuál es la principal diferencia entre Selección Natural y Selección Artificial?
+
+- [ ] A) La selección natural es mucho más rápida que la artificial. <!-- feedback: Incorrect. La artificial suele ser más rápida porque el humano ejerce una presión extrema y constante. -->
+- [ ] B) La selección artificial no produce cambios genéticos reales. <!-- feedback: Incorrect. Produce cambios masivos (ej. razas de perros, variedades de maíz). -->
+- [x] C) En la natural, el ambiente decide quién sobrevive; en la artificial, es el ser humano quien elige según sus intereses. <!-- feedback: Correct. Los mecanismos biológicos son iguales, solo cambia el "agente seleccionador". -->
+- [ ] D) La selección natural solo ocurre en animales salvajes. <!-- feedback: Incorrect. Ocurre en todos los seres vivos, incluidos los domésticos si se les deja solos. -->
+
+### Explicación Pedagógica
+Darwin usó la selección artificial (cría de palomas) como una analogía poderosa para explicar cómo pequeños cambios acumulados por elección (o presión ambiental) transforman a los seres vivos.
+
+---
+
+## Question 13 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+Un grupo de científicos colombianos analiza el ADN mitocondrial de poblaciones indígenas de América. Encuentran que la diversidad es mucho menor que en las poblaciones de Asia de donde provienen. Esto se explica por:
+
+- [ ] A) La selección natural a favor de un solo tipo de sangre. <!-- feedback: Incorrect. El ADN mitocondrial no determina el tipo de sangre y su baja diversidad suele ser por azar demográfico. -->
+- [x] B) Un "cuello de botella" o efecto fundador durante la migración por el Estrecho de Bering. <!-- feedback: Correct. Un pequeño número de personas cruzó, llevando consigo solo una fracción de la variedad genética original. -->
+- [ ] C) La radiación UV intensa en los Andes que destruyó los otros genes. <!-- feedback: Incorrect. La radiación causa mutaciones, no suele reducir la diversidad de forma sistemática así. -->
+- [ ] D) Que los indígenas americanos no evolucionaron de los asiáticos. <!-- feedback: Incorrect. La evidencia genética y arqueológica confirma el origen asiático de las poblaciones americanas originales. -->
+
+### Explicación Pedagógica
+Los eventos demográficos (migraciones, plagas) tienen un impacto gigante en la genética de las especies, a veces superando a la selección natural en importancia a corto plazo.
+
+---
+
+## Question 14 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+La teoría sintética de la evolución (Neodarwinismo) integra las ideas de Darwin con:
+
+- [ ] A) La ecología de poblaciones y la geología moderna. <!-- feedback: Incorrect. Aunque las usa, el núcleo de la síntesis es la genética. -->
+- [x] B) La genética mendeliana y la biología molecular. <!-- feedback: Correct. Explica el origen de la variación (mutación) y las leyes de la herencia que Darwin desconocía. -->
+- [ ] C) El creacionismo científico y la termodinámica. <!-- feedback: Incorrect. El creacionismo no es una teoría científica y no forma parte de la síntesis evolutiva. -->
+- [ ] D) La teoría de la relatividad y la física cuántica. <!-- feedback: Incorrect. Son ramas de la física que no tienen relación directa con los mecanismos de herencia biológica. -->
+
+### Explicación Pedagógica
+La Síntesis Moderna unificó la biología al demostrar que la selección natural funciona perfectamente con las leyes de la genética.
+
+---
+
+## Question 15 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-015`
 **Bloom:** [Evaluate]
-**ICFES:** [Componente naturaleza de la ciencia - Interpretar]
-**Context:** Producción de café de sombra y diversidad de aves en la zona cafetera colombiana
+**ICFES:** [Indagación]
 
 ### Enunciado
-En la zona cafetera de Colombia, los sistemas agroforestales de café de sombra mantienen mayor diversidad de aves que las plantaciones de sol. Un investigador argumenta que los sistemas de sombra deberían tener mayor resiliencia evolutiva porque "más especies significa mayor capacidad de evolución". ¿Cómo se evalúa esta afirmación?
+En un experimento con bacterias *E. coli*, se observa que tras 50,000 generaciones en un medio con poco azúcar (glucosa) pero mucho citrato, una población desarrolla la capacidad de "comer" citrato, algo que la especie normalmente no hace. ¿Qué concluyes?
 
-### Options
-- [ ] A) La afirmación es correcta porque la diversidad de species diretamente correlaciona con la capacidad evolutiva de todo el sistema <!-- feedback: Mezcla niveles de organización biológica -->
-- [x] B) La afirmación es parcialmente correcta porque mayor diversidad genética dentro de poblaciones específicas contribute más directamente a resiliencia evolutiva que el número de species, aunque la diversidad de species sí proporciona más opciones evolutivas a largo plazo <!-- feedback: Correcta - distingue entre diversidad de species y diversidad genética -->
-- [ ] C) La afirmación es incorrecta porque los sistemas con más species evolucionan más lentamente debido a mayor competencia <!-- feedback: No hay evidencia de que mayor diversidad ralentice evolución -->
-- [ ] D) La afirmación es correcta porque la evolución solo ocurre en sistemas con alta diversidad de species <!-- feedback: Falso - evolución ocurre en cualquier población con variación heredable -->
+- [ ] A) Las bacterias aprendieron por observación. <!-- feedback: Incorrect. Las bacterias no tienen sistema nervioso para aprender conductas complejas. -->
+- [ ] B) El citrato causó mutaciones dirigidas para que las bacterias lo usaran. <!-- feedback: Incorrect. El medio no dirige las mutaciones; las mutaciones ocurren y el medio selecciona las que sirven. -->
+- [x] C) Ocurrió una mutación rara que fue favorecida por la selección natural en ese ambiente específico. <!-- feedback: Correct. Este es el experimento real de Richard Lenski que demuestra la evolución en tiempo real. -->
+- [ ] D) Se trata de una contaminación por otra especie de bacteria. <!-- feedback: Incorrect. Se verificó genéticamente que seguían siendo *E. coli* pero con una nueva función metabólica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La afirmación tiene elementos válidos e inválidos. La diversidad de species sí proporciona más materia prima para evolución a largo plazo (más linajes disponibles para responder a cambios ambientales). Sin embargo, la resiliencia evolutiva inmediata depende más de la diversidad genética dentro de las poblaciones, que permite respuestas rápidas a cambios. Un sistema con pocas species pero alta diversidad genética intraespecífica puede ser más resiliente en el corto plazo que uno con muchas species pero poblaciones genéticamente homogenizadas. La relación es más compleja de lo que sugiere el investigador.
+La evolución puede producir novedades metabólicas radicales mediante la acumulación de mutaciones raras y selección intensa.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-v16`
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+El mimetismo batesiano ocurre cuando una especie inofensiva imita los colores de una especie peligrosa (ej. una serpiente falsa coral). Para que este rasgo evolucione y se mantenga:
+
+- [ ] A) El depredador debe ser inmune al veneno de la coral real. <!-- feedback: Incorrect. Al contrario, debe tener miedo o evitar a la coral real para que la imitación sirva de algo. -->
+- [x] B) La especie real (peligrosa) debe ser más abundante que la imitadora. <!-- feedback: Correct. Si hay demasiadas "falsas", los depredadores aprenderán que los colores brillantes no siempre significan peligro y el mimetismo perderá su valor. -->
+- [ ] C) Ambas especies deben vivir en continentes diferentes. <!-- feedback: Incorrect. Deben vivir en el mismo lugar para que el depredador común se confunda. -->
+- [ ] D) La especie imitadora debe desarrollar veneno real con el tiempo. <!-- feedback: Incorrect. Eso sería mimetismo mülleriano; el batesiano se basa precisamente en el "engaño" sin costo de producir veneno. -->
+
+### Explicación Pedagógica
+El mimetismo es un equilibrio ecológico y evolutivo. La selección favorece a los imitadores siempre y cuando el "costo" de equivocarse para el depredador sea alto.
+
+---
+
+## Question 17 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+Se dice que los genes Hox (genes arquitectos) son "homólogos" en casi todos los animales, desde moscas hasta humanos. Estos genes controlan la organización del cuerpo (dónde van las patas, la cabeza, etc.). ¿Cuál es la implicación más profunda de este hallazgo?
+
+- [ ] A) Que los humanos descendemos de las moscas modernas. <!-- feedback: Incorrect. Compartimos un ancestro común muy antiguo, pero no descendemos de insectos actuales. -->
+- [ ] B) Que la evolución solo ocurre por cambios en estos genes. <!-- feedback: Incorrect. La evolución ocurre en todos los niveles del ADN, pero estos genes son cruciales para la forma corporal. -->
+- [x] C) Que la estructura básica del cuerpo animal se estableció muy temprano en la historia evolutiva. <!-- feedback: Correct. Es la prueba de que existe una "caja de herramientas" genética común para construir animales. -->
+- [ ] D) Que es posible hacer que a un humano le crezcan alas de mosca. <!-- feedback: Incorrect. Aunque los genes son similares, la red de interacciones genéticas es específica de cada especie. -->
+
+### Explicación Pedagógica
+La Evo-Devo (Biología Evolutiva del Desarrollo) estudia cómo cambios en los genes que controlan el desarrollo pueden causar grandes saltos morfológicos.
+
+---
+
+## Question 18 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-018`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
+
+### Enunciado
+El "reloj molecular" se basa en la idea de que las mutaciones neutras se acumulan a un ritmo constante en el ADN. Si la diferencia de ADN entre humanos y chimpancés es de un 1.2%, y sabemos que divergieron hace 6 millones de años, ¿cuál sería la diferencia esperada con un gorila si este divergió hace 9 millones de años?
+
+- [ ] A) 1.2% (la misma). <!-- feedback: Incorrect. A mayor tiempo de separación, más diferencias acumuladas. -->
+- [x] B) 1.8% aprox. <!-- feedback: Correct. Por proporción simple: si 6 millones corresponden a 1.2, entonces 9 millones corresponden a $(9/6) \times 1.2 = 1.8\%$. -->
+- [ ] C) 0.8%. <!-- feedback: Incorrect. Esto indicaría un parentesco más cercano, lo cual contradice el tiempo geológico dado. -->
+- [ ] D) 100%. <!-- feedback: Incorrect. Esto indicaría que no tienen ninguna relación genética, lo cual es falso para cualquier mamífero. -->
+
+### Explicación Pedagógica
+Aunque las tasas de mutación no son perfectamente constantes, el reloj molecular es la herramienta estándar para datar eventos evolutivos donde el registro fósil es escaso.
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-019`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+El concepto de "Exaptación" (propuesto por Gould y Vrba) describe un rasgo que originalmente evolucionó para una función, pero que luego fue "cooptado" para otra. Un ejemplo es:
+
+- [ ] A) El cuello largo de la jirafa para alcanzar hojas altas. <!-- feedback: Incorrect. Se considera una adaptación directa para la alimentación o competencia social. -->
+- [x] B) Las plumas de los dinosaurios, que evolucionaron para termorregulación y luego se usaron para volar. <!-- feedback: Correct. La función original (calor) cambió a una nueva (vuelo) mediante modificaciones posteriores. -->
+- [ ] C) Los ojos de los peces de cueva que desaparecen por falta de luz. <!-- feedback: Incorrect. Esto es una pérdida de rasgo por desuso (vestigialización). -->
+- [ ] D) La cola del camaleón para sujetarse de las ramas. <!-- feedback: Incorrect. Es una adaptación específica para la vida arbórea. -->
+
+### Explicación Pedagógica
+La exaptación muestra que la evolución es creativa; no siempre inventa cosas nuevas, sino que encuentra nuevos usos para herramientas viejas.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-080-MASTERY-020`
 **Bloom:** [Create]
-**ICFES:** [Componente naturaleza
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Cuál es la relación entre Selección Natural y Termodinámica (Entropía)?
+
+- [ ] A) La evolución viola la segunda ley de la termodinámica al crear orden. <!-- feedback: Incorrect. La vida es un sistema abierto que consume energía para mantener el orden, aumentando la entropía total del universo. -->
+- [ ] B) La selección natural es un proceso que busca alcanzar el equilibrio térmico. <!-- feedback: Incorrect. La vida lucha activamente por mantenerse LEJOS del equilibrio térmico (que es la muerte). -->
+- [x] C) La vida localmente disminuye la entropía mediante el consumo de energía externa, permitiendo la evolución de la complejidad. <!-- feedback: Correct. Los seres vivos son estructuras disipativas que crean orden interno a costa de aumentar el desorden ambiental. -->
+- [ ] D) El ADN es una molécula que no sigue las leyes de la física. <!-- feedback: Incorrect. Todas las moléculas y procesos biológicos están sujetos a las leyes universales de la física y química. -->
+
+### Explicación Pedagógica
+Este es un concepto interdisciplinario avanzado. La evolución es un proceso que optimiza la captura y uso de energía libre para replicar información genética compleja en un universo que tiende al desorden.

@@ -10,9 +10,18 @@ bundle_size: 20
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 quality_status: "PENDING_HUMAN"
 generation_status: "RAW"
+needs_human_review: true
 license: "CC BY-NC-SA 4.0"
 
 
+# REVIEW METADATA
+review:
+  agent: "curation-agent"
+  timestamp: "2026-04-04T02:17:13.430Z"
+  quality_score: 71
+  decision: "NEEDS_HUMAN"
+  errors: ["Expected 20 questions, found 0"]
+  warnings: []
 ---
 
 # MASTERY Bundle 002 — Funciones Elementales (Grado 11, Periodo 1)

@@ -10,6 +10,7 @@ bundle_size: 20
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 quality_status: "UNREVISED"
 generation_status: "RAW"
+needs_human_review: true
 license: "CC BY-NC-SA 4.0"
 ---
 # MASTERY Bundle 002 - GEOMETRIA-ANALITICA - PERIODO 3

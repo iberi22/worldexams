@@ -1,37 +1,3 @@
-<think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Sciences Naturales (Natural Sciences), specifically on electromagnetism, grade 11, period 3. Let me create this in the exact format requested.
-
-I need to:
-1. Create the YAML frontmatter
-2. Generate 20 questions with progressive difficulty
-3. Include all required fields (Bloom taxonomy level, ICFES competency, context, etc.)
-4. Use Colombian contexts
-5. Make distractors plausible for Colombian students
-6. Follow the exact format with [x] marking the correct answer
-7. No "all of the above" or "none of the above" options
-
-Difficulty progression:
-- Questions 1-4: D3-D4 (basic understanding)
-- Questions 5-10: D5-D6 (application)
-- Questions 11-16: D7-D8 (analysis)
-- Questions 17-20: D9-D10 (evaluation/synthesis)
-
-Let me generate these questions about electromagnetism covering topics like:
-- Electric fields
-- Magnetic fields
-- Electromagnetic induction
-- Faraday's law
-- Lenz's law
-- Electromagnetic waves
-- Maxwell's equations
-- Electromagnetic spectrum
-- Applications in Colombia
-
-I'll write in Spanish with Colombian context.
-
-</think>
-
-```yaml
 ---
 id: "CO-CIE-11-P3-electromagnetismo-077-MASTERY"
 country: "colombia"
@@ -42,417 +8,390 @@ periodo: 3
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 77
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:31:15.167780"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Indagación
-**Context:** Sistemas eléctricos en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En la región Andina colombiana, las líneas de transmisión eléctrica operan a diferentes voltajes. Cuando una carga eléctrica positiva se coloca en un punto del espacio cerca de una esfera cargada positivamente, experimenta una fuerza de repulsión. ¿A qué fenómeno físico corresponde esta interacción a distancia?
+Un estudiante frota una regla de plástico con su saco de lana y luego la acerca a pequeños trozos de papel sobre su pupitre en un colegio de Bogotá. Los papeles son atraídos hacia la regla. ¿Qué fenómeno físico explica este comportamiento?
 
-### Options
-- [ ] A) Interacción gravitacional
-- [ ] B) Interacción magnética
-- [x] C) Campo eléctrico <!-- feedback: La fuerza entre cargas eléctricas en reposo se debe al campo eléctrico generado por las cargas. -->
-- [ ] D) Interacción nuclear fuerte
+- [ ] A) Magnetismo inducido por el frotamiento. <!-- feedback: Incorrect. El plástico no es un material magnético; el fenómeno es puramente eléctrico. -->
+- [x] B) Electrización por fricción y atracción electrostática. <!-- feedback: Correct. Al frotar, hay transferencia de electrones (carga). La regla cargada induce un dipolo en el papel neutro, resultando en una fuerza de atracción. -->
+- [ ] C) Generación de corriente eléctrica de alta intensidad. <!-- feedback: Incorrect. La carga estática implica falta de movimiento de cargas (corriente nula o despreciable). -->
+- [ ] D) Aumento de la gravedad local en la superficie de la regla. <!-- feedback: Incorrect. La gravedad no se ve afectada por el frotamiento; las fuerzas eléctricas son órdenes de magnitud más fuertes que la gravedad a esta escala. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque Coulomb demostró que cargas eléctricas generan campos eléctrico en su entorno. Un ошибка común es confundir campo eléctrico con magnético, ya que ambos involucran fuerzas a distancia, pero el campo eléctrico actúa sobre cargas independientemente de su movimiento, mientras que el magnético solo sobre cargas en movimiento.
+La electrostática estudia las cargas en reposo. El frotamiento arranca electrones de un material y los deposita en otro, creando un desequilibrio de carga que genera un campo eléctrico atractivo.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D4)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Centrales hidroeléctricas colombianas
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En la central hidroeléctrica de Ituango, el agua almacenada en la represa posee energía potencial gravitacional que se convierte en energía eléctrica mediante turbinas conectadas a generadores. Estos generadores funcionan según el principio de inducción electromagnética descubierto por:
+Si se rompe un imán de barra por la mitad, ¿qué sucede con los polos de los fragmentos resultantes?
 
-### Options
-- [ ] A) James Clerk Maxwell
-- [x] B) Michael Faraday <!-- feedback: Faraday descubrió la inducción electromagnética en 1831, demostrando que un campo magnético variable genera corriente eléctrica en un circuito. -->
-- [ ] C) Nikola Tesla
-- [ ] D) Heinrich Hertz
+- [ ] A) Un trozo se queda solo con el polo Norte y el otro solo con el Sur. <!-- feedback: Incorrect. Los monopolos magnéticos no han sido observados en la naturaleza; los imanes siempre son dipolos. -->
+- [x] B) Cada trozo se convierte en un nuevo imán con un polo Norte y un polo Sur. <!-- feedback: Correct. El magnetismo proviene de la alineación de dominios moleculares; al cortar el imán, la alineación interna se mantiene, creando nuevos polos en los bordes. -->
+- [ ] C) Los fragmentos pierden sus propiedades magnéticas inmediatamente. <!-- feedback: Incorrect. El corte mecánico no desordena los dominios magnéticos del material. -->
+- [ ] D) Ambos fragmentos se vuelven polos neutros que no atraen metal. <!-- feedback: Incorrect. El magnetismo es una propiedad intrínseca del ordenamiento atómico del material ferromagnético. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Faraday descubrió que al mover un imán dentro de una bobina se genera corriente eléctrica. El error común es elegir a Tesla, quien perfeccionó la corriente alterna pero no descubrió el principio de inducción. Maxwell formuló las ecuaciones que unificaron electricidad y magnetismo, y Hertz probó la existencia de ondas electromagnéticas.
+A diferencia de las cargas eléctricas (que pueden existir aisladas), el magnetismo es intrínsecamente bipolar a nivel atómico. Cada átomo actúa como un pequeño imán.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D3)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Indagación
-**Context:** Radiación solar en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-003`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-La radiación solar que llega a Colombia contiene diferentes tipos de ondas electromagnéticas. ¿Cuál de las siguientes alternativas representa correctamente el espectro electromagnético ordenado de mayor a menor frecuencia?
+Dos cargas eléctricas puntuales, $q_1$ y $q_2$, se encuentran separadas por una distancia $r$. Según la Ley de Coulomb, si la distancia entre ellas se duplica ($2r$), la fuerza eléctrica entre las cargas:
 
-### Options
-- [ ] A) Infrarrojo, visible, ultravioleta, rayos X
-- [ ] B) Visible, ultravioleta, infrarrojo, microondas
-- [x] C) Rayos gamma, ultravioleta, visible, infrarrojo <!-- feedback: El espectro electromagnético va desde ondas de alta frecuencia (rayos gamma) hasta baja frecuencia (radio), y la frecuencia disminuye en ese orden. -->
-- [ ] D) Microondas, visible, rayos X, ultravioleta
+- [ ] A) Se duplica. <!-- feedback: Incorrect. La fuerza es inversamente proporcional al cuadrado de la distancia, no directamente proporcional. -->
+- [ ] B) Se reduce a la mitad. <!-- feedback: Incorrect. Se olvidó elevar el factor de distancia al cuadrado. -->
+- [x] C) Se reduce a la cuarta parte ($1/4$). <!-- feedback: Correct. $F \propto 1/r^2$. Si $r \to 2r$, entonces $F \to 1/(2^2) = 1/4$ de la fuerza original. -->
+- [ ] D) Permanece constante porque las cargas no cambiaron. <!-- feedback: Incorrect. La intensidad del campo eléctrico disminuye rápidamente a medida que nos alejamos de la fuente. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Un error frecuente es pensar que el visible tiene mayor frecuencia que el ultravioleta, pero la radiación ultravioleta tiene mayor frecuencia que la luz visible. Recordar que λf = c significa que mayor frecuencia implica menor longitud de onda.
+La Ley de Coulomb sigue la ley de la inversa del cuadrado, similar a la gravitación universal. Pequeños cambios en la distancia provocan grandes cambios en la intensidad de la fuerza.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Transporte masivo en ciudades colombianas
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-El sistema TransMilenio en Bogotá utiliza buses articulados que operan con motores eléctricos. Cuando un conductor enciende las luces del bus, la corriente eléctrica fluye por el circuito. ¿Qué establece la Ley de Ohm respecto a la relación entre voltaje (V), corriente (I) y resistencia (R)?
+¿Cuál es la función principal de la brújula en la navegación, basándose en principios electromagnéticos?
 
-### Options
-- [x] A) V = I × R <!-- feedback: La Ley de Ohm establece que el voltaje es igual a la corriente multiplicada por la resistencia. -->
-- [ ] B) V = I + R
-- [ ] C) V = I / R
-- [ ] D) V = R / I
+- [ ] A) Detectar la presencia de depósitos de hierro bajo la tierra. <!-- feedback: Incorrect. Aunque se ve afectada por ellos, esa no es su función de navegación. -->
+- [x] B) Alinear su aguja imantada con el campo magnético terrestre. <!-- feedback: Correct. La Tierra actúa como un imán gigante; el polo norte geográfico está cerca del polo sur magnético, atrayendo el extremo norte de la aguja. -->
+- [ ] C) Medir la intensidad de la radiación solar recibida. <!-- feedback: Incorrect. Las brújulas no miden energía radiante. -->
+- [ ] D) Generar electricidad para los instrumentos del barco. <!-- feedback: Incorrect. La brújula es un instrumento pasivo de orientación, no un generador. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Un error común es confundir la relación, pensando que el voltaje es la división o suma de corriente y resistencia. La Ley de Ohm es fundamental para entender cómo funcionan los circuitos eléctricos en los buses y demás sistemas eléctricos.
+El magnetismo terrestre es fundamental para la vida y la tecnología. La brújula aprovecha el torque ejercido por el campo magnético del planeta sobre un pequeño dipolo móvil.
 
 ---
 
-## Question 5 (Variant Apply - Difficulty D5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Uso de modelos
-**Context:** Instalaciones eléctricas rurales en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-005`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Un farmer en los Llanos Orientales necesita instalar una cerca eléctrica para proteger su ganado. El cercado funciona con un electrificador que genera pulsos eléctricos. Si el electrificador proporciona un voltaje de 8.000 V y la resistencia del cuerpo de un animal es de aproximadamente 2.000 Ω, ¿cuál es la corriente que circularía por el animal si toca la cerca?
+Hans Christian Ørsted descubrió en 1820 que una brújula se desviaba cuando se colocaba cerca de un cable por el que circulaba corriente eléctrica. Este experimento demostró que:
 
-### Options
-- [ ] A) 0,25 A
-- [x] B) 4 A <!-- feedback: Aplicando Ley de Ohm: I = V/R = 8000V / 2000Ω = 4A. Una corriente de 4A puede ser peligrosa para un ser vivo. -->
-- [ ] C) 16.000 A
-- [ ] D) 0,004 A
+- [ ] A) La electricidad y el magnetismo son fuerzas totalmente independientes. <!-- feedback: Incorrect. Al contrario, el experimento mostró su profunda relación. -->
+- [ ] B) Las brújulas no funcionan cerca de metales conductores. <!-- feedback: Incorrect. Funcionan perfectamente a menos que haya una corriente fluyendo o el metal sea ferromagnético. -->
+- [x] C) Una corriente eléctrica genera un campo magnético a su alrededor. <!-- feedback: Correct. Este fue el nacimiento del electromagnetismo: las cargas en movimiento producen efectos magnéticos en el espacio circundante. -->
+- [ ] D) El cable de cobre se convierte en un imán permanente al recibir carga. <!-- feedback: Incorrect. El efecto desaparece apenas se corta la corriente; es un magnetismo dinámico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El error típico es realizar mal el cálculo algebraico de la Ley de Ohm o confundir las unidades. Un valor de 4 amperios es potencialmente letal para un ser humano, lo cual explica por qué las cercas eléctricas resultan efectivas como barrera.
+El electromagnetismo unifica fenómenos que antes se creían distintos. La ley de Ampère cuantifica esta relación entre la corriente (causa) y el campo magnético (efecto).
 
 ---
 
-## Question 6 (Variant Apply - Difficulty D5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Uso de modelos
-**Context:** Telefonía celular en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-006`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Una torre de telefonía celular en Medellín emite ondas electromagnéticas con una frecuencia de 1.900 MHz. Teniendo en cuenta que la velocidad de la luz es 3 × 10⁸ m/s, ¿cuál es la longitud de onda de esta señal?
+Un electrón entra en una región donde existe un campo magnético uniforme dirigido hacia el interior de la página. Si el electrón se mueve hacia la derecha, ¿hacia dónde apunta la fuerza magnética inicial sobre él? (Use la regla de la mano derecha considerando la carga negativa).
 
-### Options
-- [x] A) 0,158 m aproximadamente <!-- feedback: λ = c/f = (3 × 10⁸ m/s) / (1.900 × 10⁶ Hz) ≈ 0,158 m. -->
-- [ ] B) 15,8 m aproximadamente
-- [ ] C) 1,58 m aproximadamente
-- [ ] D) 0,0158 m aproximadamente
+- [ ] A) Hacia arriba. <!-- feedback: Incorrect. Para una carga positiva sería hacia arriba, pero el electrón es negativo. -->
+- [x] B) Hacia abajo. <!-- feedback: Correct. Según $\vec{F} = q(\vec{v} \times \vec{B})$, la mano derecha daría "arriba", pero al multiplicar por la carga negativa del electrón, la dirección se invierte hacia abajo. -->
+- [ ] C) Hacia afuera de la página. <!-- feedback: Incorrect. La fuerza magnética siempre es perpendicular tanto a la velocidad como al campo. -->
+- [ ] D) El electrón no experimenta fuerza porque es una partícula pequeña. <!-- feedback: Incorrect. Todas las cargas en movimiento sufren la fuerza de Lorentz en presencia de campos magnéticos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Un error común es no convertir correctamente los MHz a Hz o confundir la fórmula, usando f × λ en lugar de c/f. Conocer la relación entre frecuencia y longitud de onda es esencial para entender cómo funcionan las comunicaciones inalámbricas.
+La fuerza de Lorentz es siempre perpendicular al movimiento. Esto hace que las partículas cargadas sigan trayectorias circulares o helicoidales en campos magnéticos, principio usado en aceleradores de partículas.
 
 ---
 
-## Question 7 (Variant Apply - Difficulty D6)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Explicación
-**Context:** Electrodomésticos en hogares colombianos
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-007`
+**Bloom:** [Apply]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un hogar en Cali, una plancha eléctrica tiene las siguientes especificaciones: 1200 W y 120 V. Según la Ley de Joule, ¿cuál es la resistencia eléctrica de la plancha cuando está en funcionamiento?
+Un transformador en un barrio de Barranquilla tiene 1000 vueltas en su bobina primaria y 100 vueltas en la secundaria. Si se conecta a una línea de 120 V en el primario, ¿cuál es el voltaje de salida en el secundario?
 
-### Options
-- [ ] A) 5 Ω
-- [ ] B) 10 Ω
-- [x] C) 12 Ω <!-- feedback: P = V²/R → R = V²/P = (120V)² / 1200W = 14400/1200 = 12Ω. -->
-- [ ] D) 144 Ω
+- [ ] A) 1200 V <!-- feedback: Incorrect. Esto ocurriría si el secundario tuviera más vueltas que el primario (elevador). -->
+- [x] B) 12 V <!-- feedback: Correct. La relación de voltajes es igual a la relación de vueltas ($V_p/V_s = N_p/N_s$). Entonces: $120/V_s = 1000/100 \Rightarrow 120/V_s = 10 \Rightarrow V_s = 12 V$. -->
+- [ ] C) 1.2 V <!-- feedback: Incorrect. Error en el cálculo decimal de la proporción. -->
+- [ ] D) 120 V <!-- feedback: Incorrect. El transformador cambia el voltaje según la configuración de sus bobinas; no lo deja igual. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El error frecuente es usar P = I²×R sin calcular primero la corriente, complicando el procedimiento. Con los datos de potencia y voltaje directamente dados, la fórmula más directa es R = V²/P.
+Los transformadores funcionan por inducción electromagnética (Ley de Faraday). Permiten adaptar los niveles de voltaje para el transporte eficiente (alta tensión) y el uso doméstico seguro (baja tensión).
 
 ---
 
-## Question 8 (Variant Apply - Difficulty D6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Uso de modelos
-**Context:** Imanes en la industria colombiana
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-008`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Una empresa minera en Antioquia utiliza electroimanes para separar materiales ferromagnéticos. Cuando se enrolla un alambre de cobre alrededor de un núcleo de hierro y se conecta a una batería, se genera un campo magnético. ¿Qué principio determina la dirección del campo magnético en un solenoide?
+¿Cuál de los siguientes materiales sería el más adecuado para construir el núcleo de un electroimán potente?
 
-### Options
-- [ ] A) Ley de Coulomb
-- [x] B) Regla de la mano derecha <!-- feedback: La regla de la mano derecha establece que si los dedos siguen la dirección de la corriente, el pulgar indica la dirección del campo magnético dentro del solenoide. -->
-- [ ] C) Ley de Lenz
-- [ ] D) Principio de superposición
+- [ ] A) Cobre. <!-- feedback: Incorrect. El cobre es buen conductor pero no es ferromagnético; no ayuda a concentrar el campo magnético. -->
+- [x] B) Hierro dulce. <!-- feedback: Correct. El hierro tiene alta permeabilidad magnética (facilidad para magnetizarse) y pierde el magnetismo rápido al apagar la corriente, lo que permite control. -->
+- [ ] C) Plástico. <!-- feedback: Incorrect. Los materiales aislantes y no magnéticos no tienen efecto sobre el campo magnético. -->
+- [ ] D) Aluminio. <!-- feedback: Incorrect. El aluminio es paramagnético, su respuesta al campo magnético es extremadamente débil para un electroimán. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error común es elegir la Ley de Lenz, que se refiere a la dirección de la corriente inducida y no a la dirección del campo en un solenoide. La regla de la mano derecha es fundamental para determinar la polaridad de electroimanes.
+Los materiales ferromagnéticos poseen "dominios" que se alinean con un campo externo, multiplicando la intensidad del campo magnético original generado por la bobina.
 
 ---
 
-## Question 9 (Variant Apply - Difficulty D5)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Interpretación
-**Context:** Generación de energía en la Costa Caribe
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-El parque eólico en La Guajira aprovecha los vientos alisios para generar electricidad. Las aspas del aerogenerador hacen girar un generador que produce energía eléctrica. Si el campo magnético en el generador es de 0,5 T, el área de la bobina es 0,02 m² y gira a 60 revoluciones por segundo, ¿cuál es el flujo magnético máximo que atraviesa la bobina?
+Dos cables largos y paralelos transportan corrientes eléctricas en el mismo sentido. Según las leyes del electromagnetismo, los cables:
 
-### Options
-- [ ] A) 0,01 Wb
-- [x] B) 0,01 Wb (máximo cuando el plano es perpendicular al campo) <!-- feedback: φ = B × A × cos(θ). El flujo máximo es cuando cos(θ)=1, entonces φmáx = 0,5T × 0,02m² = 0,01 Wb. -->
-- [ ] C) 1,2 Wb
-- [ ] D) 0,6 Wb
+- [x] A) Se atraen entre sí. <!-- feedback: Correct. Las corrientes en el mismo sentido generan campos magnéticos que interactúan de forma atractiva según la regla de la mano derecha y la fuerza de Lorentz. -->
+- [ ] B) Se repelen entre sí. <!-- feedback: Incorrect. La repulsión ocurre cuando las corrientes viajan en sentidos opuestos. -->
+- [ ] C) No experimentan ninguna fuerza a menos que se toquen. <!-- feedback: Incorrect. Los campos magnéticos actúan a distancia a través del espacio. -->
+- [ ] D) Se calientan pero no se mueven. <!-- feedback: Incorrect. Aunque se calienten por efecto Joule, existe una fuerza mecánica real que tiende a juntarlos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error frecuente es olvidar el factor cos(θ), dando valores mayores. También confunden revoluciones por segundo con radianes por segundo al calcular velocidad angular, aunque en este caso no es necesario para el flujo máximo.
+Este es un fenómeno fundamental. La interacción entre corrientes define la unidad de medida de la corriente eléctrica (el Amperio) basándose en la fuerza mecánica por unidad de longitud entre conductores.
 
 ---
 
-## Question 10 (Variant Apply - Difficulty D6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Explicación
-**Context:** Circuitos eléctricos en laboratorios escolares
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-010`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En un laboratorio de física del Colegio Nacional en Bogotá, un estudiante conecta tres resistencias de 6 Ω en paralelo a una batería de 12 V. ¿Cuál es la resistencia equivalente total del circuito?
+Un imán potente se deja caer a través de un tubo de cobre vertical. Se observa que el imán tarda mucho más tiempo en caer por el tubo que una piedra de la misma masa. Esto se debe a:
 
-### Options
-- [ ] A) 18 Ω
-- [ ] B) 2 Ω
-- [x] C) 2 Ω <!-- feedback: Para resistencias en paralelo: 1/Req = 1/R1 + 1/R2 + 1/R3 = 3/6 = 1/2, entonces Req = 2Ω. -->
-- [ ] D) 6 Ω
+- [ ] A) La resistencia del aire atrapado dentro del tubo. <!-- feedback: Incorrect. La piedra caería rápido a través del mismo aire. -->
+- [ ] B) El magnetismo estático del cobre que atrae al imán. <!-- feedback: Incorrect. El cobre no es ferromagnético; no atrae imanes en reposo. -->
+- [x] C) Las corrientes de Foucault inducidas en el tubo que generan un campo magnético opuesto al movimiento. <!-- feedback: Correct. Ley de Lenz. El imán móvil induce corrientes en el cobre; estas generan su propio campo que frena al imán (frenado magnético). -->
+- [ ] D) El aumento de la fricción mecánica entre el imán y las paredes. <!-- feedback: Incorrect. El efecto ocurre incluso si el imán no toca las paredes del tubo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El error típico en paralelo es sumar las resistencias como si estuvieran en serie (dando 18Ω). En paralelo, la resistencia equivalente siempre es menor que la menor de las resistencias individuales, lo cual resulta contra-intuitivo para muchos estudiantes.
+La Ley de Lenz establece que la naturaleza se opone al cambio de flujo magnético. La energía cinética del imán se disipa como calor en el tubo debido a las corrientes eléctricas inducidas.
 
 ---
 
-## Question 11 (Variant Analyze - Difficulty D7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis
-**Context:** Radiación electromagnética y salud
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En Colombia existe preocupación ciudadana sobre las antenas de telefonía cerca de colegios. Los estudios científicos indican que la radiación no ionizante de estas antenas no tiene energía suficiente para romper enlaces moleculares. ¿Qué característica de las ondas electromagnéticas determina si pueden causar daño biológico por ionización?
+En un experimento de laboratorio, se cambia el flujo magnético que atraviesa una espira de alambre de 2.0 Wb a 5.0 Wb en un tiempo de 0.5 segundos. ¿Cuál es la magnitud de la fuerza electromotriz (FEM) inducida en la espira?
 
-### Options
-- [ ] A) Su longitud de onda
-- [x] B) Su frecuencia (y por tanto su energía, E = h·f) <!-- feedback: La ionización ocurre cuando la energía del fotón es suficiente para remover electrones. E = hf significa que mayor frecuencia implica mayor energía. -->
-- [ ] C) Su velocidad de propagación
-- [ ] D) Su amplitud
+- [ ] A) 1.5 V <!-- feedback: Incorrect. Se restaron los flujos pero se olvidó dividir por el tiempo. -->
+- [x] B) 6.0 V <!-- feedback: Correct. Según la Ley de Faraday: $FEM = \Delta \Phi / \Delta t = (5.0 - 2.0) / 0.5 = 3.0 / 0.5 = 6.0 V$. -->
+- [ ] C) 3.0 V <!-- feedback: Incorrect. Solo se calculó el cambio de flujo, no la rapidez del cambio. -->
+- [ ] D) 10.0 V <!-- feedback: Incorrect. Error en la división o confusión de los valores numéricos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error común es pensar que la longitud de onda directamente causa ionización, pero es la frecuencia (y por tanto la energía hf) la que determina si un fotón puede ionizar. A mayor frecuencia, mayor energía. Los rayos X y gamma ionizan; la luz visible y inferior no lo hacen.
+La inducción depende de la velocidad del cambio. Un cambio lento genera poco voltaje; un cambio brusco genera voltajes altos. Este es el principio de los generadores eléctricos.
 
 ---
 
-## Question 12 (Variant Analyze - Difficulty D7)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Análisis
-**Context:** Transporte de energía eléctrica en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-El Sistema Interconectado Nacional de Colombia transporta energía a altos voltajes (500 kV) desde las plantas de generación hasta los centros de consumo. ¿Por qué se utiliza alto voltaje en lugar de baja tensión para el transporte de energía eléctrica a grandes distancias?
+Las ondas electromagnéticas, como la luz visible o las señales de Wi-Fi, se diferencian de las ondas sonoras en que:
 
-### Options
-- [ ] A) Porque reduce la resistencia del cables de transmisión
-- [x] B) Porque permite reducir las pérdidas de energía por efecto Joule (I²R) al disminuir la corriente para la misma potencia <!-- feedback: P = V·I, entonces para misma potencia, mayor voltaje significa menor corriente, y como las pérdidas son I²R, al reducir I se reducen las pérdidas significativamente. -->
-- [ ] C) Porque genera campos eléctricos más seguros
-- [ ] D) Porque aumenta la velocidad de los electrones en el cable
+- [ ] A) Requieren un medio denso como el acero para viajar rápido. <!-- feedback: Incorrect. Al contrario, viajan más rápido en el vacío y aire. -->
+- [x] B) Son oscilaciones de campos eléctricos y magnéticos perpendiculares entre sí. <!-- feedback: Correct. Son ondas transversales autopropagadas que no necesitan un medio material. -->
+- [ ] C) Tienen una velocidad que depende de la intensidad del volumen. <!-- feedback: Incorrect. La velocidad es constante para un medio dado, independientemente de la amplitud. -->
+- [ ] D) No transportan energía sino solo información digital. <!-- feedback: Incorrect. Todas las ondas transportan energía física. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error frecuente es pensar que el alto voltaje reduce la resistencia, pero la resistencia depende del material y geometría del conductor. La clave es que al transmitir la misma potencia con mayor voltaje, la corriente disminuye, y como las pérdidas son proporcionales a I², estas se reducen drásticamente.
+Las ecuaciones de Maxwell predijeron la existencia de estas ondas. Un campo eléctrico variable genera uno magnético, y este a su vez uno eléctrico, permitiendo el viaje a través del vacío.
 
 ---
 
-## Question 13 (Variant Analyze - Difficulty D8)
+## Question 13 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Análisis
-**Context:** Inducción electromagnética en la vida cotidiana
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-Cuando un imán se mueve hacia el interior de una bobina conectada a un galvanómetro, la aguja del instrumento deflecta en una dirección. Si ahora el imán se saca rápidamente de la bobina, la aguja deflecta en dirección opuesta. ¿Qué principio físico explica este comportamiento?
+Si un protón (carga positiva) se mueve paralelamente a las líneas de un campo magnético uniforme, la fuerza magnética ejercida sobre él es:
 
-### Options
-- [ ] A) La conservación de la carga eléctrica
-- [ ] B) El principio de acción y reacción
-- [x] C) La Ley de Faraday: la fem inducida es proporcional a la variación del flujo magnético, y su dirección depende del sentido de variación <!-- feedback: Faraday estableció que la fem inducida depende de la rapidez de cambio del flujo magnético. El signo negativo de Lenz indica la dirección de la corriente inducida. -->
-- [ ] D) La Ley de Coulomb para campos magnéticos
+- [ ] A) Máxima, dirigida hacia afuera del campo. <!-- feedback: Incorrect. La fuerza es máxima cuando el movimiento es perpendicular ($90°$). -->
+- [x] B) Nula (cero). <!-- feedback: Correct. La fuerza magnética sigue la ley $F = q v B \sin(\theta)$. Si el movimiento es paralelo, $\theta = 0°$, y como $\sin(0°) = 0$, la fuerza desaparece. -->
+- [ ] C) Directamente proporcional a la masa del protón. <!-- feedback: Incorrect. La fuerza magnética depende de la carga y velocidad, no de la masa (aunque la aceleración sí dependa de la masa). -->
+- [ ] D) Siempre atractiva hacia el polo Sur del imán. <!-- feedback: Incorrect. El magnetismo sobre cargas libres no funciona como atracción de polos, sino como fuerzas laterales desviadoras. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Un error común es citar solo a Lenz sin mencionar a Faraday. La Ley de Faraday establece la magnitud de la fem inducida (proporcional a dφ/dt), mientras que Lenz establece la dirección de la corriente inducida (opuesta al cambio de flujo). Ambos principios actúan juntos en la inducción electromagnética.
+Para "sentir" el magnetismo, una carga debe cortar las líneas de campo. Viajar por el mismo camino que las líneas no genera interacción.
 
 ---
 
-## Question 14 (Variant Analyze - Difficulty D7)
+## Question 14 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Aplicaciones médicas del electromagnetismo
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En un hospital de Cartagena, se utiliza un equipo de resonancia magnética que emplea campos magnéticos intensos (1,5 - 3 T) y ondas de radio para generar imágenes del interior del cuerpo. ¿Por qué las ondas de radio utilizadas en resonancia magnética no son ionizantes como los rayos X?
+¿Cuál es la función de los "anillos rozantes" en un generador eléctrico de corriente alterna (AC)?
 
-### Options
-- [ ] A) Porque tienen menor velocidad de propagación
-- [x] B) Porque tienen menor frecuencia, por lo tanto menor energía por fotón (E = hf), insuficiente para ionizar átomos <!-- feedback: Las ondas de radio tienen frecuencias del orden de 10⁸ Hz con energías del orden de 10⁻²⁵ J, mientras que los rayos X tienen frecuencias de 10¹⁸ Hz con energías de 10⁻¹⁶ J, suficientes para ionizar. -->
-- [ ] C) Porque tienen mayor longitud de onda pero mayor energía
-- [ ] D) Porque su dirección de propagación es diferente
+- [ ] A) Convertir el magnetismo en calor por fricción. <!-- feedback: Incorrect. La fricción es una pérdida que se busca minimizar, no una función. -->
+- [ ] B) Rectificar la corriente para que fluya en un solo sentido. <!-- feedback: Incorrect. Esa es la función del conmutador en generadores DC. -->
+- [x] C) Mantener la conexión eléctrica continua con la bobina giratoria sin enredar los cables. <!-- feedback: Correct. Permiten extraer la corriente inducida en la parte móvil (rotor) hacia el circuito externo fijo (estator) mientras la bobina gira. -->
+- [ ] D) Aumentar la resistencia para controlar el voltaje de salida. <!-- feedback: Incorrect. Se busca que la resistencia de contacto sea lo más baja posible. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error conceptual es pensar que cualquier onda electromagnética puede ionizar, pero la ionización depende de la energía individual de cada fotón (E = hf). Ondas de radio tienen energías millones de veces menores que los rayos X. La longitud de onda por sí sola no determina la ionización; lo que importa es la frecuencia y su energía asociada.
+El diseño mecánico es crucial para convertir movimiento rotacional en energía eléctrica. Los anillos rozantes mantienen la naturaleza senoidal (va y viene) de la corriente inducida.
 
 ---
 
-## Question 15 (Variant Analyze - Difficulty D8)
+## Question 15 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Análisis
-**Context:** Motores eléctricos en la industria colombiana
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-015`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un motor eléctrico de corriente directa (DC) funciona cuando una espira con corriente se coloca dentro de un campo magnético uniforme. Sobre la espira actúa un torque que la hace girar. ¿Qué fenómeno保证了 que la espira continúe girando en la misma dirección?
+En un experimento, se observa que la aguja de un galvanómetro se desvía hacia la derecha cuando se introduce el polo Norte de un imán en una bobina. Según la Ley de Lenz, si sacamos el polo Norte de la bobina rápidamente:
 
-### Options
-- [ ] A) La inercia de la espira
-- [x] B) El conmutador (switch) que invierte la dirección de la corriente cada media vuelta, manteniendo el torque en la misma dirección <!-- feedback: Sin el conmutador, el torque cambiaría de dirección cuando la espira cruzara el plano vertical, deteniendo el rotación. El conmutador invierte la corriente en el momento justo para mantener el torque unidireccional. -->
-- [ ] C) El campo magnético uniforme
-- [ ] D) La batería conectada
+- [ ] A) La aguja se desviará de nuevo hacia la derecha. <!-- feedback: Incorrect. El cambio de flujo es opuesto (disminución vs aumento), por lo que la corriente cambia de sentido. -->
+- [x] B) La aguja se desviará hacia la izquierda. <!-- feedback: Correct. Al sacar el imán, se induce una corriente que intenta "mantener" el flujo que se pierde, circulando en sentido contrario a cuando el imán entraba. -->
+- [ ] C) La aguja se quedará en cero porque el imán ya no está dentro. <!-- feedback: Incorrect. El movimiento de salida también es un cambio de flujo que induce corriente. -->
+- [ ] D) La bobina se calentará pero no habrá corriente medible. <!-- feedback: Incorrect. El calor es una consecuencia de la corriente fluyendo a través de la resistencia del alambre. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error común es pensar que el motor gira por sí solo indefinidamente sin el conmutador. Sin este dispositivo, al pasar la espira por la posición vertical, el torque se invertiría y el motor se detendría. El conmutador es el elemento que permite la rotación continua en motores DC.
+La Ley de Lenz es una manifestación de la conservación de la energía. El sentido de la corriente inducida siempre es tal que crea un campo magnético que se opone a la acción que lo produjo.
 
 ---
 
-## Question 16 (Variant Analyze - Difficulty D8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Análisis
-**Context:** Energía solar fotovoltaica en Colombia
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Los paneles solares fotovoltaicos en Colombia convierten la luz solar directamente en electricidad. Este proceso se basa en el efecto fotoeléctrico, donde fotones de luz incidente arrancan electrones del material semiconductor. Según Einstein, la energía cinética máxima de los electrones emitidos depende de:
+Se tienen dos esferas metálicas idénticas, A cargada con $+10 \mu C$ y B cargada con $-2 \mu C$. Si las esferas se ponen en contacto y luego se separan, ¿cuál será la carga final de cada una?
 
-### Options
-- [ ] A) La intensidad de la luz incidente
-- [x] B) La frecuencia de la luz incidente (E_cinética = hf - φ) <!-- feedback: Einstein demostró que la energía cinética máxima depende de la frecuencia (no de la intensidad) según E_k = hf - φ, donde φ es la función trabajo del material. -->
-- [ ] C) La dirección de incidencia de la luz
-- [ ] D) El volumen del material semiconductor
+- [ ] A) A: $+10 \mu C$, B: $-2 \mu C$ <!-- feedback: Incorrect. Al haber contacto, las cargas se redistribuyen hasta alcanzar el equilibrio. -->
+- [x] B) A: $+4 \mu C$, B: $+4 \mu C$ <!-- feedback: Correct. La carga total se conserva: $10 + (-2) = 8 \mu C$. Como las esferas son idénticas, la carga se reparte equitativamente: $8 / 2 = 4 \mu C$ para cada una. -->
+- [ ] C) A: $+8 \mu C$, B: $0 \mu C$ <!-- feedback: Incorrect. La carga fluye hasta que el potencial eléctrico se iguala en ambas superficies. -->
+- [ ] D) A: $+12 \mu C$, B: $-4 \mu C$ <!-- feedback: Incorrect. Esto implicaría creación de carga neta, violando la ley de conservación. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error frecuente es pensar que mayor intensidad de luz genera electrones más energéticos, pero lo que importa es la frecuencia. A mayor frecuencia, mayor energía por fotón (E = hf), y si esta supera la función trabajo, los electrones adquieren mayor energía cinética. La intensidad solo afecta la cantidad de electrones emitidos, no su energía.
+La carga neta de un sistema aislado es constante. El contacto permite el flujo de electrones desde el cuerpo más negativo al más positivo hasta que la repulsión mutua se equilibra.
 
 ---
 
-## Question 17 (Variant Evaluate - Difficulty D9)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v17`
-**Bloom:** Evaluate
-**ICFES:** Evaluación
-**Context:** Contaminación electromagnética en zonas urbanas
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En el centro de Bogotá, múltiples fuentes emiten ondas electromagnéticas: antenas de telefonía (1.900 MHz), WiFi (2,4 GHz), radio FM (100 MHz) y hornos de microondas (2,45 GHz). Si todas estas ondas coexisten en el mismo punto del espacio, ¿qué propiedad ondas electromagnéticas permite que no se interfieran destructivamente entre sí?
+Un solenoide ideal tiene un campo magnético interno $B$. Si se duplica el número de vueltas por unidad de longitud ($n$) y se reduce la corriente eléctrica a la mitad ($I/2$), el nuevo campo magnético será:
 
-### Options
-- [ ] A) Todas tienen la misma longitud de onda
-- [ ] B) Todas viajan a diferentes velocidades
-- [x] C) Son ondas electromagnéticas que pueden superponerse porque sus campos eléctricos y magnéticos obedecen el principio de superposición lineal <!-- feedback: Las ondas electromagnéticas satisfacen el principio de superposición porque las ecuaciones de Maxwell son lineales. Esto permite que múltiples ondas coexistan sin destruirse mutuamente. -->
-- [ ] D) Los campos eléctricos y magnéticos oscilan en la misma dirección
+- [ ] A) $2B$. <!-- feedback: Incorrect. El aumento de vueltas se compensa con la caída de corriente. -->
+- [x] B) $B$ (el mismo). <!-- feedback: Correct. La fórmula para el campo de un solenoide es $B = \mu_0 n I$. Si $n' = 2n$ e $I' = I/2$, entonces $B' = \mu_0 (2n) (I/2) = \mu_0 n I = B$. -->
+- [ ] C) $B/2$. <!-- feedback: Incorrect. Esto solo pasaría si no se hubieran aumentado las vueltas. -->
+- [ ] D) $4B$. <!-- feedback: Incorrect. Esto pasaría si se hubieran duplicado ambas variables. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Un error conceptual es pensar que las ondas se "chocan" y se cancelan. Las ecuaciones de Maxwell son lineales, lo que significa que los campos pueden sumarse sin alterar las propiedades de cada onda individual. Por eso podemos tener múltiples señales simultáneamente sin que se destruyan mutuamente.
+El diseño de electroimanes y bobinas se basa en estas relaciones proporcionales. Se puede lograr la misma intensidad de campo con menos corriente si se enrolla más cable.
 
 ---
 
-## Question 18 (Variant Evaluate - Difficulty D9)
+## Question 18 [D9-D10]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v18`
-**Bloom:** Evaluate
-**ICFES:** Evaluación
-**Context:** Redes eléctricas y calidad del servicio
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-018`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En el sistema eléctrico colombiano, cuando hay un incremento súbito en la demanda (como durante el Himno Nacional en partidos de fútbol), las plantas de generación deben aumentar su producción rápidamente. La regulación de voltaje en generadores síncronos se logra ajustando:
+El flujo magnético a través de una superficie plana de área $A$ es máximo cuando el ángulo entre el vector campo magnético y el vector normal (perpendicular) a la superficie es:
 
-### Options
-- [x] A) La corriente de excitación del rotor, que modifica el campo magnético y por tanto el voltaje generado <!-- feedback: En generadores síncronos, el voltaje de salida depende directamente del flujo magnético en el rotor, que se controla mediante la corriente de excitación. Mayor excitación genera mayor voltaje. -->
-- [ ] B) La velocidad del turbina, que cambia la frecuencia
-- [ ] C) El consumo de las ciudades conectadas
-- [ ] D) La temperatura del agua de enfriamiento
+- [x] A) $0°$ (Paralelos). <!-- feedback: Correct. $\Phi = B A \cos(\theta)$. El flujo es máximo cuando el campo atraviesa la superficie de forma "recta" o perpendicular al plano, lo que significa que el ángulo con la normal es $0°$. $\cos(0°) = 1$. -->
+- [ ] B) $45°$. <!-- feedback: Incorrect. El flujo sería solo el 70% del máximo posible. -->
+- [ ] C) $90°$ (Perpendiculares). <!-- feedback: Incorrect. En este ángulo el campo "roza" la superficie sin atravesarla, por lo que el flujo es cero. -->
+- [ ] D) $180°$. <!-- feedback: Incorrect. Esto daría un flujo máximo negativo, físicamente igual en intensidad pero con sentido opuesto. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Un error común es pensar que el voltaje se ajusta cambiando la velocidad del generador, pero en generadores síncronos la velocidad está fija por la frecuencia de la red (60 Hz en Colombia). El voltaje se controla independientemente mediante la excitación del campo magnético del rotor.
+El flujo es una medida de "cuántas líneas de campo" pasan por un área. La orientación geométrica es tan importante como la fuerza del imán.
 
 ---
 
-## Question 19 (Variant Evaluate - Difficulty D10)
+## Question 19 [D9-D10]
 
-**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-v19`
-**Bloom:** Evaluate
-**ICFES:** Evaluación
-**Context:** Campos electromagnéticos en medicina
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-La estimulación magnética transcraneal (EMT) utiliza bobinas que generan campos magnéticos variables para estimular regiones específicas del cerebro sin cirugía. Si la bobina genera un campo magnético que cambia de 0 a 1,2 T en 100 μs sobre una región cerebral, ¿qué fem inducida se generaría en una pequeña espira de 0,5 cm² ubicada en la zona?
+La autoinducción es el fenómeno por el cual una bobina se opone a los cambios de la corriente que circula por ella misma. Si se intenta desconectar bruscamente un circuito que contiene una bobina grande, suele saltar una chispa en el interruptor. ¿Por qué ocurre esto?
 
-### Options
-- [ ] A) 0,06 V
-- [x] B) 60 V <!-- feedback: ε = -dφ/dt = -A·dB/dt = -(0,5×10⁻⁴ m²)·(1,2 T / 100×10⁻⁶ s) = -0,5×10⁻⁴ × 1,2×10⁴ = -60 V. El signo negativo indica la dirección según Lenz. -->
-- [ ] C) 6.000 V
-- [ ] D) 0,6 V
+- [ ] A) Porque la bobina almacena carga estática que se libera de golpe. <!-- feedback: Incorrect. Las bobinas almacenan energía en campos magnéticos, no carga en superficies. -->
+- [ ] B) Porque el aire se vuelve conductor al estar cerca del cobre. <!-- feedback: Incorrect. El aire necesita un voltaje muy alto para ionizarse y volverse conductor. -->
+- [x] C) Porque el rápido cambio de corriente induce un voltaje muy alto en la bobina para intentar mantener la corriente fluyendo. <!-- feedback: Correct. $V = L (di/dt)$. Si el tiempo de desconexión es muy pequeño, el voltaje inducido es enorme, suficiente para romper la rigidez dieléctrica del aire y crear la chispa. -->
+- [ ] D) Porque la fricción de los electrones al detenerse genera fuego. <!-- feedback: Incorrect. Los electrones no tienen fricción mecánica de ese tipo; el fenómeno es puramente electromagnético. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Un error frecuente es no convertir correctamente las unidades (cm
+La inductancia ($L$) es la "inercia" eléctrica. Así como un objeto pesado no se detiene instantáneamente, la corriente en una bobina intenta seguir fluyendo, generando voltajes peligrosos si se interrumpe de golpe.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-electromagnetismo-077-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+En una onda electromagnética que viaja por el vacío, si la amplitud del campo eléctrico es $E$, y la velocidad de la luz es $c$, ¿cuál es la amplitud del campo magnético $B$ asociado?
+
+- [ ] A) $B = E \cdot c$ <!-- feedback: Incorrect. Las unidades no serían consistentes; el campo magnético es numéricamente mucho menor que el eléctrico en unidades SI. -->
+- [x] B) $B = E / c$ <!-- feedback: Correct. Existe una relación fija en las ondas electromagnéticas: $E/B = c$. Por tanto, $B = E/c$. -->
+- [ ] C) $B = \sqrt{E \cdot c}$ <!-- feedback: Incorrect. No existe una relación de raíz cuadrada entre las amplitudes de los campos. -->
+- [ ] D) $B = E$ <!-- feedback: Incorrect. Los campos eléctrico y magnético tienen naturalezas y unidades diferentes (V/m vs Tesla), no pueden ser iguales numéricamente. -->
+
+### Explicación Pedagógica
+Maxwell demostró que los campos están entrelazados. La luz es la danza coordinada de electricidad y magnetismo. La relación $c = E/B$ surge directamente de las leyes fundamentales que rigen el vacío.

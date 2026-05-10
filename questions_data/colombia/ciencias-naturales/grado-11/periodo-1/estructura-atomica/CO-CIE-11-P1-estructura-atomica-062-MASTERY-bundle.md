@@ -6,44 +6,36 @@ asignatura: "ciencias-naturales"
 tema: "estructura-atomica"
 periodo: 1
 protocol_version: "5.1"
-bundle_size: 20
 bundle_index: 62
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T18:39:29.721331"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.24"
+  simulated_responses: 100
+rubric_baseline: "modelos_atomicos, mecanica_cuantica, tendencias_periodicas"
 ---
 
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identifica conocimientos básicos de ciencias naturales
-**Context:** Contexto general científico
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.82
 
 ### Enunciado
-Un átomo de carbono tiene 6 protones y 6 neutrones en su núcleo. ¿Cuántos electrones posee este átomo en condiciones neutras?
+En una clase de química en Bucaramanga, se discute la evolución de los modelos atómicos. ¿Quién propuso el modelo del "budín de pasas", donde los electrones están incrustados en una esfera de carga positiva?
 
 ### Options
-- [ ] A) 12 electrones
-- [ ] B) 0 electrones
-- [ ] C) 6 electrones
-- [x] D) 6 electrones <!-- feedback: En un átomo neutro, el número de electrones es igual al número de protones para mantener la neutralidad eléctrica. Como el carbono tiene 6 protones, debe tener 6 electrones. -->
+- [ ] A) John Dalton <!-- feedback: Incorrecto. Dalton propuso que el átomo era una esfera sólida e indivisible, sin subpartículas. -->
+- [x] B) J.J. Thomson <!-- feedback: Correcto. Thomson descubrió el electrón y propuso que estos estaban inmersos en una masa positiva, como pasas en un budín. -->
+- [ ] C) Ernest Rutherford <!-- feedback: Incorrecto. Rutherford demostró que el átomo tiene un núcleo central pequeño y positivo. -->
+- [ ] D) Niels Bohr <!-- feedback: Incorrecto. Bohr propuso que los electrones orbitan en niveles de energía definidos. -->
 
 ### Explicación Pedagógica
-En un átomo neutro, la carga positiva de los protones (6) debe balancearse con la carga negativa de los electrones. Por lo tanto, el número de electrones es igual al número de protones. El distractor A (12) confunde la suma de protones y neutrones (número másico) con el número de electrones. El distractor B (0) ignora la presencia de electrones en la envoltura electrónica.
+El modelo de Thomson fue el primero en incluir partículas subatómicas tras el descubrimiento de los rayos catódicos. Aunque fue superado por el modelo de Rutherford, fue un paso fundamental para entender la naturaleza eléctrica de la materia.
 
 ---
 
@@ -51,20 +43,20 @@ En un átomo neutro, la carga positiva de los protones (6) debe balancearse con 
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Reconoce conceptos fundamentales de la estructura atómica
-**Context:** Contexto de laboratorio escolar colombiano
+**ICFES:** Indagación
+**Expected_Success:** 0.85
 
 ### Enunciado
-El número atómico del azufre (S) es 16. Esto significa que un átomo neutro de azufre contiene
+Un estudiante de un colegio en Pasto revisa la tabla periódica. ¿Qué propiedad define unívocamente la identidad de un elemento químico?
 
 ### Options
-- [ ] A) 16 neutrones en el núcleo
-- [ ] B) 32 protones en el núcleo
-- [ ] C) 16 protones y 16 electrones
-- [x] C) 16 protones y 16 electrones <!-- feedback: El número atómico (Z) indica directamente el número de protones. En un átomo neutro, también indica el número de electrones porque las cargas deben balancearse. -->
+- [ ] A) El número de neutrones <!-- feedback: Incorrecto. Átomos del mismo elemento pueden tener diferentes neutrones (isótopos). -->
+- [ ] B) El número másico <!-- feedback: Incorrecto. Átomos de diferentes elementos pueden tener el mismo número másico (isóbaros). -->
+- [x] C) El número atómico (protones) <!-- feedback: Correcto. El número de protones es único para cada elemento; si cambia, cambia el elemento. -->
+- [ ] D) El número de electrones de valencia <!-- feedback: Incorrecto. Muchos elementos de un mismo grupo comparten el mismo número de electrones de valencia. -->
 
 ### Explicación Pedagógica
-El número atómico (Z) representa el número de protones en el núcleo del átomo. En un átomo elektricamente neutro, el número de electrones es igual al número de protones. Un error común es confundir número atómico con número másico (A), que suma protones y neutrones, o asumir que el número de protones cambia según el número másico.
+El número atómico (Z) representa la cantidad de protones en el núcleo. Es la "cédula de identidad" del átomo; ningún otro elemento tiene el mismo número de protones.
 
 ---
 
@@ -72,20 +64,20 @@ El número atómico (Z) representa el número de protones en el núcleo del áto
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Comprende la relación entre estructura atómica y propiedades
-**Context:** Contexto de la tabla periódica en instituciones educativas colombianas
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.78
 
 ### Enunciado
-Tres isotopes del hidrógeno الطبيعي se encuentran en la naturaleza: protio (¹H), deuterio (²H) y tritio (³H). La principal diferencia entre estos isotopes radica en
+La iluminación de monumentos históricos en Cartagena suele usar lámparas de vapor de sodio. El sodio (Z=11) emite una luz amarilla característica. ¿Qué ocurre con los electrones del sodio para producir esta luz?
 
 ### Options
-- [ ] A) el número de protones en el núcleo
-- [ ] B) el número de electrones en la envoltura
-- [ ] C) el número de neutrones en el núcleo
-- [x] C) el número de neutrones en el núcleo <!-- feedback: Los isótopos son átomos del mismo elemento que difieren en el número de neutrones. Todos tienen el mismo número de protones (y electrones en estado neutro), pero diferente número másico (A) debido al diferente número de neutrones. -->
+- [ ] A) Los electrones chocan con el núcleo liberando energía. <!-- feedback: Incorrecto. Los electrones no chocan con el núcleo en procesos de emisión lumínica comunes. -->
+- [x] B) Los electrones regresan a un nivel de menor energía emitiendo fotones. <!-- feedback: Correcto. Tras ser excitados, los electrones vuelven a su estado fundamental y liberan la energía sobrante como luz. -->
+- [ ] C) Los electrones escapan del átomo convirtiéndolo en un gas. <!-- feedback: Incorrecto. La emisión de luz no requiere la pérdida definitiva del electrón (ionización). -->
+- [ ] D) El núcleo del átomo se divide liberando radiación gamma. <!-- feedback: Incorrecto. Esto describe un proceso nuclear, no un fenómeno electrónico de emisión de luz visible. -->
 
 ### Explicación Pedagógica
-Isótopos son variantes de un mismo elemento que tienen el mismo número atómico (protones) pero diferente número másico. El protio tiene 0 neutrones, el deuterio tiene 1 neutrón y el tritio tiene 2 neutrones. El distractor común es pensar que los isótopos difieren en protones o electrones, lo cual los convertiría en elementos diferentes.
+La emisión de luz ocurre cuando un electrón que ha absorbido energía (excitación) vuelve a un orbital de menor energía (desexcitación), liberando la diferencia energética en forma de un fotón de frecuencia específica.
 
 ---
 
@@ -93,249 +85,353 @@ Isótopos son variantes de un mismo elemento que tienen el mismo número atómic
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Identifica representaciones simbólicas de la estructura atómica
-**Context:** Contexto de las pruebas Saber en Colombia
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.72
 
 ### Enunciado
-El símbolo ₇⁹Au representa al oro-79. Respecto a este átomo, es correcto afirmar que contiene
+En la fabricación de componentes electrónicos en Bogotá, se utiliza el silicio (Z=14). ¿Cuál es la configuración electrónica en la capa de valencia de este elemento?
 
 ### Options
-- [ ] A) 79 protones y 118 neutrones
-- [ ] B) 79 electrones y 197 neutrones
-- [x] C) 79 protones y 118 neutrones <!-- feedback: El número másico (79) indica protones + neutrones = 79. El número atómico del oro es 79 (oro = Au), por lo tanto tiene 79 protones. Neutrones = 79 - 79 = 0. (Este es un isótopo estable único del oro). -->
-
-- [ ] D) 118 protones y 79 neutrones
+- [ ] A) 2s² 2p⁶ <!-- feedback: Incorrecto. Esto corresponde al nivel 2, pero la valencia del silicio está en el nivel 3. -->
+- [ ] B) 3s² 3p⁴ <!-- feedback: Incorrecto. Esta configuración tiene 6 electrones de valencia, correspondiendo al azufre. -->
+- [x] C) 3s² 3p² <!-- feedback: Correcto. El silicio pertenece al grupo 14 y tiene 4 electrones en su último nivel (n=3). -->
+- [ ] D) 4s² 4p² <!-- feedback: Incorrecto. Esto corresponde al germanio, que está un periodo más abajo que el silicio. -->
 
 ### Explicación Pedagógica
-En la notación X^A_Z, el subíndice (Z) indica el número de protones y el supraíndice (A) indica el número másico (protones + neutrones). Para el oro-79: protones = 79, neutrones = 79 - 79 = 0. Un error frecuente es invertir los números, asumiendo que el supraíndice son solo neutrones o que el número atómico indica otra propiedad.
+La configuración completa del silicio es 1s² 2s² 2p⁶ 3s² 3p². Sus electrones de valencia son los del nivel más externo (n=3), es decir, los orbitales 3s y 3p.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Aplica conocimientos sobre configuración electrónica
-**Context:** Contexto de la minería colombiana
+**ICFES:** Indagación
+**Expected_Success:** 0.65
 
 ### Enunciado
-En la minería de carbón del Cesar y la Guajira, se trabaja con elementos como el hierro (Fe, Z=26). ¿Cuál es la configuración electrónica correcta para el hierro en su estado fundamental?
+Un laboratorio de criminalística en Cali analiza una muestra que contiene el ion Cl⁻. Si el cloro neutro tiene Z=17 y A=35, ¿cuál es la descripción correcta del ion Cl⁻?
 
 ### Options
-- [ ] A) 1s² 2s² 2p⁶ 3s⁶ 3d⁶
-- [ ] B) 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶
-- [ ] C) 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸
-- [x] B) 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶ <!-- feedback: La configuración electrónica sigue el principio de Aufbau. Primero se llenan los orbitales en orden de energía creciente: 1s, 2s, 2p, 3s, 3p, 4s, 3d. El hierro (Z=26) tiene 26 electrones, distribute según esta secuencia. -->
+- [ ] A) 17 protones, 18 neutrones y 16 electrones. <!-- feedback: Incorrecto. El signo negativo (-) indica ganancia de un electrón, no pérdida. -->
+- [x] B) 17 protones, 18 neutrones y 18 electrones. <!-- feedback: Correcto. Protones=17, Neutrones=35-17=18. Al ser Cl⁻, tiene 17+1=18 electrones. -->
+- [ ] C) 18 protones, 17 neutrones y 18 electrones. <!-- feedback: Incorrecto. El número de protones no cambia al formar un ion. -->
+- [ ] D) 17 protones, 17 neutrones y 18 electrones. <!-- feedback: Incorrecto. El número de neutrones se calcula con la masa (35-17=18), no es igual a los protones necesariamente. -->
 
 ### Explicación Pedagógica
-La configuración electrónica se construye siguiendo las reglas de llenado: principio de Aufbau, principio de Hund y regla de Moeller. El Fe tiene 26 electrones. Error común: no incluir el 4s antes del 3d (opción C invierte el orden) o mal contar los electrones en los orbitales s y p (opción A muestra 3s⁶ que es imposible). El 4s se llena antes que el 3d porque tiene menor energía.
+Los aniones se forman por la ganancia de electrones. El Cl⁻ mantiene su número de protones (identidad) y neutrones (masa), pero adquiere un electrón extra para completar su octeto.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Aplica el modelo atómico de Bohr para explicar fenómenos
-**Context:** Contexto de iluminación urbana en ciudades colombianas
+**Bloom:** Understand
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.68
 
 ### Enunciado
-Las luces LED blancas utilizadas en el programa "Bogotá ilumina tu vida" funcionan emitiendo luz cuando los electrones de los átomos de galio (Ga) y nitrógeno (N) en el semiconductor pierden energía. Según el modelo de Bohr, cuando un electrón pasa de un nivel de mayor energía a uno de menor energía, se produce
+En el estudio de materiales cerámicos en Huila, se utiliza el magnesio (Z=12). De acuerdo con el principio de Aufbau, ¿cuál subnivel se llena inmediatamente después del 3s?
 
 ### Options
-- [ ] A) absorción de un fotón
-- [ ] B) emisión de un fotón
-- [ ] C) creación de nuevos electrones
-- [x] B) emisión de un fotón <!-- feedback: Cuando un electrón "cae" de un nivel energético superior a uno inferior, pierde energía en forma de radiación electromagnética (fotón). Este principio explica la emisión de luz en los LEDs. La opción A representa el proceso inverso (excitación). -->
+- [ ] A) 3d <!-- feedback: Incorrecto. El subnivel 3d tiene más energía que el 3p y se llena después del 4s. -->
+- [x] B) 3p <!-- feedback: Correcto. Siguiendo el orden de energía creciente, después del orbital 3s sigue el 3p. -->
+- [ ] C) 4s <!-- feedback: Incorrecto. El 4s se llena después del 3p. -->
+- [ ] D) 2p <!-- feedback: Incorrecto. El 2p es de menor energía y se llena mucho antes que el 3s. -->
 
 ### Explicación Pedagógica
-El modelo de Bohr establece que los electrones orbitan en niveles definidos de energía. Cuando un electrón excitado regresa a un nivel inferior, la diferencia de energía entre los niveles se libera como un fotón de luz. Este es el principio fundamental de la emisión lumínica en dispositivos como los LEDs. El distractor A ocurre cuando el electrón absorbe energía para subir a un nivel superior.
+El principio de Aufbau establece el orden de llenado según la energía: 1s, 2s, 2p, 3s, 3p, 4s, 3d... Por tanto, tras completar el 3s, los electrones comienzan a ocupar el 3p.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D6)
+## Question 7 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Analiza la formación de iones en compuestos químicos
-**Context:** Contexto de la industria papelera colombiana
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.60
 
 ### Enunciado
-La industria papelera colombiana utiliza hidróxido de sodio (NaOH) como químico en el proceso de blanqueo. El ion sodio (Na⁺) se forma cuando un átomo neutro de sodio (Na, Z=11)
+Al comparar el radio atómico del Sodio (Na, Z=11) y el Magnesio (Mg, Z=12) en un estudio metalúrgico, se observa que el sodio es más grande. ¿A qué se debe esto?
 
 ### Options
-- [ ] A) gana un protón
-- [ ] B) pierde un electrón
-- [ ] C) gana un electrón
-- [x] B) pierde un electrón <!-- feedback: El sodio neutro tiene configuración [Ne] 10s¹. Al perder el electrón del orbital 4s (el más externo), se convierte en Na⁺ con configuración [Ne], estable y con carga positiva. Un catión se forma por pérdida de electrones. -->
+- [ ] A) El magnesio tiene más niveles de energía ocupados. <!-- feedback: Incorrecto. Ambos pertenecen al periodo 3, por lo que tienen la misma cantidad de niveles (3). -->
+- [x] B) El magnesio tiene una mayor carga nuclear efectiva que atrae más a los electrones. <!-- feedback: Correcto. Al tener más protones en el mismo nivel, el núcleo del Mg atrae con más fuerza a los electrones, reduciendo el radio. -->
+- [ ] C) El sodio tiene más electrones de valencia que repelen la nube electrónica. <!-- feedback: Incorrecto. El sodio tiene 1 electrón de valencia y el magnesio tiene 2. -->
+- [ ] D) El magnesio tiene más neutrones que comprimen el núcleo. <!-- feedback: Incorrecto. Los neutrones no afectan significativamente el tamaño de la nube electrónica (radio atómico). -->
 
 ### Explicación Pedagógica
-Un ion positivo (catión) se forma cuando un átomo neutro pierde uno o más electrones. El sodio tiene 11 protones y 11 electrones. Al perder 1 electrón, mantiene los 11 protones pero ahora tiene solo 10 electrones, resultando en una carga neta de +1. El distractor C (ganar electrón) formaría un anión (Na⁻). Un error común es creer que se ganan protones, lo cual cambiaría el elemento.
+En un mismo periodo, al aumentar Z aumenta el número de protones. Como los electrones se añaden al mismo nivel, la atracción del núcleo (carga nuclear efectiva) es mayor, "encogiendo" el átomo hacia la derecha.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Aplica conceptos de estructura atómica a tendencias periódicas
-**Context:** Contexto geológico de los Andes colombianos
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.58
 
 ### Enunciado
-En el estudio de minerales andinos, un geólogo determina que el ion Cl⁻ (cloruro) tiene 18 electrones. Si el número atómico del cloro es 17, el ion cloruro se formó por
+Investigadores de la Universidad de Antioquia estudian las propiedades magnéticas del Hierro (Z=26). ¿Cuántos electrones desapareados tiene un átomo de hierro en su estado fundamental?
 
 ### Options
-- [ ] A) pérdida de 1 protón del núcleo
-- [ ] B) pérdida de 1 electrón del átomo neutro
-- [ ] C) ganancia de 1 electrón en la envoltura
-- [x] C) ganancia de 1 electrón en la envoltura <!-- feedback: El cloro neutro (Z=17) tiene 17 electrones. Si el ion Cl⁻ tiene 18 electrones, ganó 1 electrón, formando un anión con carga -1. Los aniones se forman por ganancia de electrones. -->
+- [ ] A) 0 electrones (es diamagnético) <!-- feedback: Incorrecto. El hierro tiene subniveles incompletos, lo que genera electrones desapareados. -->
+- [ ] B) 6 electrones <!-- feedback: Incorrecto. Aunque termina en 3d⁶, los electrones se aparean según la regla de Hund. -->
+- [x] C) 4 electrones <!-- feedback: Correcto. La configuración termina en 3d⁶. Los 5 orbitales 'd' reciben uno cada uno (5 desapareados) y el sexto se aparea con el primero, dejando 4 solos. -->
+- [ ] D) 2 electrones <!-- feedback: Incorrecto. Este sería el caso si solo hubiera 2 electrones en el subnivel d o si se aparearan de forma distinta. -->
 
 ### Explicación Pedagógica
-Un ion negativo (anión) se forma cuando un átomo neutro gana electrones. El cloro tiene configuración 1s² 2s² 2p⁶ 3s² 3p⁵ y necesita solo 1 electrón más para completar su octeto en el orbital 3p. Este electrón adicional le da 18 electrones totales. El error más común es confundir la formación de aniones (ganancia de electrones) con la de cationes (pérdida).
+Según la regla de Hund, los electrones ocupan orbitales degenerados individualmente antes de aparearse. En el subnivel 3d (5 orbitales), 6 electrones se distribuyen: (↑↓) (↑) (↑) (↑) (↑), resultando en 4 electrones desapareados.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Calcula el número de partículas subatómicas en átomos e iones
-**Context:** Contexto de contaminación ambiental en Medellín
+**Bloom:** Remember
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.70
 
 ### Enunciado
-En el análisis de calidad del aire en Medellín, se detecta el ion oxidrilo (OH⁻). Si el oxígeno tiene Z=8 y el hidrógeno tiene Z=1, ¿cuántos electrones totales posee el ion oxidrilo?
+¿Cuál de los siguientes científicos propuso el principio que establece que es imposible conocer simultáneamente y con precisión la posición y la velocidad de un electrón?
 
 ### Options
-- [ ] A) 8 electrones
-- [ ] B) 9 electrones
-- [ ] C) 10 electrones
-- [x] C) 10 electrones <!-- feedback: O tiene 8e⁻, H tiene 1e⁻, total = 9e⁻. Como la carga es -1, hay 1 electrón adicional. Total = 10 electrones. La unión no cambia el número total de electrones; la carga indica la diferencia entre protones y electrones. -->
+- [ ] A) Louis de Broglie <!-- feedback: Incorrecto. De Broglie propuso la dualidad onda-partícula de la materia. -->
+- [ ] B) Erwin Schrödinger <!-- feedback: Incorrecto. Schrödinger desarrolló la ecuación de onda para el modelo atómico actual. -->
+- [x] C) Werner Heisenberg <!-- feedback: Correcto. Heisenberg formuló el Principio de Incertidumbre, pilar de la mecánica cuántica. -->
+- [ ] D) Wolfgang Pauli <!-- feedback: Incorrecto. Pauli propuso el principio de exclusión (no dos electrones con los mismos 4 números cuánticos). -->
 
 ### Explicación Pedagógica
-Para calcular electrones en un ion polyatómico: sumar electrones de todos los átomos y luego añadir o restar según la carga. O (8e⁻) + H (1e⁻) = 9e⁻ en las especies combinadas; la carga -1 indica 1 electrón extra. Error frecuente: pensar que la carga resta electrones en un anión, o contar solo los electrones del oxígeno.
+El Principio de Incertidumbre de Heisenberg cambió la visión de las órbitas planetarias de Bohr por "orbitales" o zonas de probabilidad, aceptando límites fundamentales en nuestra capacidad de medición a escala atómica.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Aplica conceptos de isótopos en contextos científicos
-**Context:** Contexto médico del INVIMA colombiano
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.55
 
 ### Enunciado
-El INVIMA evalúa el uso de tecnecio-99m (⁹⁹mTc) en centros de medicina nuclear colombianos para diagnósticos por imágenes. Si el número atómico del tecnecio es 43 y su número másico es 99, ¿cuántos neutrones contiene este isótopo?
+En un análisis de suelos en el Eje Cafetero, se detecta la presencia de potasio (K, Z=19). ¿Por qué el potasio es mucho más reactivo que el calcio (Ca, Z=20)?
 
 ### Options
-- [ ] A) 43 neutrones
-- [ ] B) 56 neutrones
-- [ ] C) 99 neutrones
-- [x] B) 56 neutrones <!-- feedback: Número de neutrones = número másico - número atómico. N = A - Z = 99 - 43 = 56 neutrones. El isótopo ⁹⁹mTc tiene 56 neutrones y 43 protones, totaling un número másico de 99. -->
+- [ ] A) Porque tiene un radio atómico menor. <!-- feedback: Incorrecto. El potasio es más grande que el calcio, lo que facilita la pérdida de electrones. -->
+- [x] B) Porque tiene una menor energía de ionización. <!-- feedback: Correcto. Al tener solo 1 electrón de valencia y un radio mayor, requiere menos energía para perder ese electrón y reaccionar. -->
+- [ ] C) Porque tiene una mayor electronegatividad. <!-- feedback: Incorrecto. El potasio tiene baja electronegatividad; los elementos reactivos metálicos suelen tenerla baja. -->
+- [ ] D) Porque sus electrones están más cerca del núcleo. <!-- feedback: Incorrecto. Al ser más grande que el calcio, sus electrones de valencia están más alejados del núcleo. -->
 
 ### Explicación Pedagógica
-El número másico (A) es la suma de protones y neutrones en el núcleo. Para cualquier isótopo: neutrones = A - Z. El error común es confundir: número atómico con número de neutrones (opción A), o pensar que número másico = número de neutrones (opción C). En isótopos pesados como el Tc-99, el número de neutrones supera al de protones.
+La reactividad de los metales depende de su facilidad para perder electrones. El potasio (Grupo 1) tiene menor energía de ionización que el calcio (Grupo 2) debido a su mayor tamaño y menor carga nuclear efectiva sobre el electrón externo.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Analiza la relación entre configuración electrónica y comportamiento químico
-**Context:** Contexto de la industria petroquímica de Barrancabermeja
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.45
 
 ### Enunciado
-En la refinería de Barrancabermeja, se trabaja con elementos del grupo 16 de la tabla periódica: oxígeno (O), azufre (S), selenio (Se) y telurio (Te). Estos elementos tienen propiedades químicas similares porque
+Un químico en Barranquilla estudia la configuración del Cobre (Z=29). Observa que su configuración real es [Ar] 3d¹⁰ 4s¹ en lugar de [Ar] 3d⁹ 4s². ¿Cuál es la razón de esta excepción?
 
 ### Options
-- [ ] A) tienen el mismo número de neutrones
-- [ ] B) tienen la misma configuración electrónica en el nivel de valencia
-- [ ] C) tienen el mismo número de protones
-- [x] B) tienen la misma configuración electrónica en el nivel de valencia <!-- feedback: Los elementos del mismo grupo tienen la misma configuración electrónica en su nivel de energía más externo (electrones de valencia). Todos los elementos del grupo 16 terminan en ns² np⁴, lo que determina su reactividad química similar. -->
+- [ ] A) El subnivel 4s es más estable cuando está semilleno. <!-- feedback: Incorrecto. No es solo por el 4s, sino por la estabilidad global del átomo al completar el 3d. -->
+- [x] B) Un subnivel 'd' completamente lleno (d¹⁰) proporciona una mayor estabilidad energética al átomo. <!-- feedback: Correcto. La simetría de un subnivel lleno o semilleno reduce la energía total del sistema. -->
+- [ ] C) El núcleo del cobre atrae con más fuerza a los electrones 's' que a los 'd'. <!-- feedback: Incorrecto. Esta no es la razón de la migración del electrón. -->
+- [ ] D) La regla de Hund obliga a que todos los orbitales tengan al menos un electrón. <!-- feedback: Incorrecto. La regla de Hund se aplica a orbitales degenerados, no al salto entre niveles 4s y 3d. -->
 
 ### Explicación Pedagógica
-Las propiedades químicas de los elementos dependen de sus electrones de valencia (los del nivel energético más externo). Los elementos del mismo grupo tienen la misma cantidad de electrones de valencia y configuración similar, lo que explica su comportamiento químico análogo. El número de protones (opción C) define la identidad del elemento, no su grupo.
+Ciertos elementos (como Cr y Cu) presentan excepciones al principio de Aufbau para alcanzar configuraciones más estables. En el Cu, completar el subnivel 3d (d¹⁰) es energéticamente más favorable que tener un 3d⁹ y un 4s² lleno.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Analiza tendencias periódicas basándose en la estructura atómica
-**Context:** Contexto de la industria cerámica de Rióhacha
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.42
 
 ### Enunciado
-La cerámica tradicional wayúu de La Guajira utiliza arcilla que contiene aluminio (Al, Z=13) y silicio (Si, Z=14). Al analizar estos elementos, se observa que el radio atómico del Al es mayor que el del Si porque
+Al analizar la energía de ionización en el segundo periodo (de Li a Ne), se observa una caída inesperada al pasar del Nitrógeno (Z=7) al Oxígeno (Z=8). ¿Cómo se explica esta anomalía?
 
 ### Options
-- [ ] A) el Al tiene más protones que el Si
-- [ ] B) el electrón adicional en el Si se encuentra en el mismo nivel energético
-- [ ] C) el Si tiene mayor atracción nuclear efectiva sobre sus electrones externos
-- [x] C) el Si tiene mayor atracción nuclear efectiva sobre sus electrones externos <!-- feedback: Al moverse de izquierda a derecha en un período, aumenta la carga nuclear (protones) pero los electrones se añaden al mismo nivel (n=3). Esto aumenta la atracción nuclear efectiva, reduciendo el radio atómico. Más protones = menor radio en un período. -->
+- [ ] A) El oxígeno tiene un radio atómico mucho mayor que el nitrógeno. <!-- feedback: Incorrecto. El oxígeno es más pequeño que el nitrógeno. -->
+- [x] B) En el oxígeno, aparece el primer apareamiento de electrones en el subnivel 2p, generando repulsión. <!-- feedback: Correcto. La repulsión entre los dos electrones que comparten el mismo orbital p facilita la extracción de uno de ellos. -->
+- [ ] C) El nitrógeno es un gas noble y por eso es más difícil de ionizar. <!-- feedback: Incorrecto. El nitrógeno no es un gas noble (lo es el Neón). -->
+- [ ] D) El oxígeno tiene menos protones que el nitrógeno para atraer a los electrones. <!-- feedback: Incorrecto. El oxígeno tiene 8 protones y el nitrógeno 7. -->
 
 ### Explicación Pedagógica
-En un período, al aumentar Z (número atómico), aumenta la carga nuclear positiva, atrayendo más fuertemente a los electrones del mismo nivel energético. El Si tiene 14 protones vs 13 del Al, exerts greater pull on electrons in n=3, making Si smaller. El distractor B confunde el nivel energético; ambos elementos tienen electrones en n=3.
+El Nitrógeno tiene una configuración 2p³ (semillena y estable). El Oxígeno es 2p⁴; la repulsión electrónica entre los dos electrones del primer orbital p apareado hace que sea ligeramente más fácil quitar un electrón que en el nitrógeno.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Analiza la relación entre electrones de valencia y tipo de enlace
-**Context:** Contexto de la industria agroquímica colombiana
+**Bloom:** Apply
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.38
 
 ### Enunciado
-Las sales fertilizadoras usadas en los valles interandinos colombianos contienen compuestos iónicos como el cloruro de potasio (KCl). El enlace iónico en el KCl se explica porque
+De acuerdo con la hipótesis de De Broglie, si una partícula de polvo en suspensión en el aire de Medellín tiene una masa de 1 μg y se mueve a 1 m/s, ¿por qué no observamos sus propiedades ondulatorias?
 
 ### Options
-- [ ] A) el potasio (K) tiene 1 electrón de valencia y el cloro (Cl) tiene 7
-- [ ] B) el potasio (K) tiene 7 electrones de valencia y el cloro (Cl) tiene 1
-- [ ] C) ambos elementos comparten electrones equitativamente
-- [x] A) el potasio (K) tiene 1 electrón de valencia y el cloro (Cl) tiene 7 <!-- feedback: El K tiene configuración [Ar]4s¹ (1 e⁻ de valencia) y el Cl tiene [Ne]3s²3p⁵ (7 e⁻ de valencia). Transferir 1e⁻ del K al Cl permite a ambos alcanzar configuraciones estables de gas noble. -->
+- [ ] A) Porque las partículas de polvo no tienen naturaleza ondulatoria. <!-- feedback: Incorrecto. Según De Broglie, toda materia en movimiento tiene una onda asociada. -->
+- [x] B) Porque su longitud de onda es extremadamente pequeña (del orden de 10⁻²⁵ m), siendo indetectable. <!-- feedback: Correcto. Debido a que la constante de Planck (h) es muy pequeña, la longitud de onda (λ=h/mv) solo es significativa para masas atómicas. -->
+- [ ] C) Porque el aire interfiere con la onda impidiendo su propagación. <!-- feedback: Incorrecto. La interferencia del medio no hace desaparecer la naturaleza ondulatoria intrínseca. -->
+- [ ] D) Porque solo los electrones pueden comportarse como ondas. <!-- feedback: Incorrecto. Protones, neutrones e incluso moléculas pequeñas han demostrado comportamiento ondulatorio en experimentos. -->
 
 ### Explicación Pedagógica
-El enlace iónico ocurre por transferencia de electrones: un metal cede electrones y un no metal los recibe, formando cationes y aniones que se atraen electrostáticamente. El K cede su único electrón de valencia (4s¹), quedando como K⁺ con configuración [Ar]. El Cl recibe ese electrón (3p⁵ + 1 = 3p⁶), becoming Cl⁻ with [Ar]. El distractor C describe enlace covalente.
+La relación λ = h / (m·v) muestra que la longitud de onda es inversamente proporcional a la masa. Para objetos macroscópicos (incluso una mota de polvo), la masa es tan grande comparada con 'h' que la onda resultante es físicamente insignificante.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Evalúa el comportamiento de los elementos según su estructura electrónica
-**Context:** Contexto del programa de seguridad nuclear de Colombia
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.35
 
 ### Enunciado
-Colombia está evaluando el uso de uranio enriquecido en reactores de investigación. El uranio-235 (U-235) es fisionable mientras que el uranio-238 (U-238) no lo es en las mismas condiciones. Esta diferencia se debe a que
+Un equipo de investigadores en la Universidad Nacional analiza cuatro especies isoelectrónicas: N³⁻, O²⁻, F⁻ y Ne. ¿Cuál de ellas presentará el radio iónico/atómico más pequeño?
 
 ### Options
-- [ ] A) tienen diferente número de protones
-- [ ] B) tienen diferente número de neutrones
-- [ ] C) el U-235 tiene menor densidad que el U-238
-- [x] B) tienen diferente número de neutrones <!-- feedback: Isótopos del mismo elemento tienen igual número de protones y electrones, differencing only in neutron count. U-235 tiene 143 neutrones, U-238 tiene 146 neutrones. La diferente relación neutrón/protón afecta la estabilidad nuclear y la capacidad de fisión. -->
+- [ ] A) N³⁻ <!-- feedback: Incorrecto. Tiene menos protones (7) para atraer los 10 electrones, por lo que es el más grande del grupo. -->
+- [ ] B) O²⁻ <!-- feedback: Incorrecto. Es más grande que el Neón y el Flúor debido a su menor carga nuclear. -->
+- [ ] C) F⁻ <!-- feedback: Incorrecto. Aunque tiene 9 protones, todavía tiene menos que el Neón. -->
+- [x] D) Ne <!-- feedback: Correcto. Al ser isoelectrónicos (todos con 10 electrones), el Neón tiene la mayor cantidad de protones (10) para atraerlos, resultando en el menor tamaño. -->
 
 ### Explicación Pedagógica
-Isótopos como U-235 y U-238 tienen el mismo número atómico (92 protones), therefore the same electron configuration and chemical behavior. However, their different neutron counts affect nuclear properties: U-235 has 143 neutrons and can sustain chain reactions, while U-238 has 146 neutrons and captures neutrons without fisioning efficiently. Error frecuente: creer que isótopos tienen diferentes protones (lo que los haría elementos diferentes).
+En series isoelectrónicas, el tamaño disminuye a medida que aumenta el número atómico (Z). Más protones atraen con más fuerza al mismo número de electrones, comprimiendo la nube electrónica.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Analiza información científica relacionada con la estructura atómica
-**Context:** Contexto de datación por carbono en la Sierra Nevada de Santa Marta
+**Bloom:** Understand
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.48
 
 ### Enunciado
-Arqueólogos del Instituto Colombiano de Cultura determieron que una carving de los Tayrona tiene aproximadamente 11.460 años usando datación por carbono-14 (¹⁴C). El ¹⁴C es un isótopo radioactivo del carbono que se desintegra con una vida media de 5.730 años. ¿Por qué el ¹⁴C es un isótopo radioactivo?
+¿Cuál es el conjunto correcto de números cuánticos para el electrón de valencia de un átomo de Sodio (Z=11) en su estado fundamental?
 
 ### Options
-- [ ] A) Tiene más protones que el ¹²C
-- [ ] B) Tiene diferente número de neutrones que el ¹²C
-- [ ] C) Tiene orbitales 2p semillenos
-- [x] B) Tiene diferente número de neutrones que el ¹²C <!-- feedback: Isótopos radioactivos son aquellos con relaciones neutrón/protón que los hacen inestables. ¹⁴C tiene 8 neutrones y 6 protones (N/Z ≈ 1.33), mientras ¹²C tiene 6 neutrones y 6 protones (N/Z = 1). Para átomos pesados, muchos neutrones pueden causar inestabilidad nuclear. -->
+- [ ] A) (3, 1, 0, +1/2) <!-- feedback: Incorrecto. l=1 corresponde a un orbital p, pero el sodio termina en 3s¹. -->
+- [x] B) (3, 0, 0, +1/2) <!-- feedback: Correcto. n=3 (tercer nivel), l=0 (orbital s), m=0 (único orbital s) y el primer electrón tiene espín +1/2. -->
+- [ ] C) (2, 0, 0, -1/2) <!-- feedback: Incorrecto. Esto corresponde al nivel 2, no al electrón de valencia del sodio. -->
+- [ ] D) (3, 0, 1, +1/2) <!-- feedback: Incorrecto. Si l=0, m solo puede ser 0. El valor m=1 es imposible para un orbital s. -->
 
 ### Explicación Pedagógica
-La radioactividad surge de un balance desfavorable entre neutrones y protones en el núcleo. El ¹⁴C tiene 8 neutrones para 6 protones (ratio ~1.33), making it unstable; el ¹²C with equal numbers of each (ratio 1) es estable. Un error común es atribuir la radioactividad a electrones (opción C) o pensar que los isótopos radiactivos tienen diferente número de proton
+La configuración del sodio es [Ne] 3s¹. El electrón de valencia está en n=3. Al ser un orbital 's', el número cuántico secundario 'l' es 0, y el magnético 'm' es necesariamente 0.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty D8)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v16`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.40
+
+### Enunciado
+En la espectroscopía de emisión del hidrógeno, se observan las líneas de la serie de Balmer (luz visible). Estas líneas se producen cuando los electrones caen desde niveles superiores hacia:
+
+### Options
+- [ ] A) El nivel n=1 <!-- feedback: Incorrecto. Esto corresponde a la serie de Lyman (radiación ultravioleta). -->
+- [x] B) El nivel n=2 <!-- feedback: Correcto. Las transiciones que terminan en n=2 liberan energía correspondiente al espectro visible en el hidrógeno. -->
+- [ ] C) El nivel n=3 <!-- feedback: Incorrecto. Esto corresponde a la serie de Paschen (radiación infrarroja). -->
+- [ ] D) El infinito <!-- feedback: Incorrecto. Esto describiría la ionización del átomo, no una línea de emisión discreta. -->
+
+### Explicación Pedagógica
+Cada serie espectral en el hidrógeno se define por el nivel de destino de la transición electrónica. Balmer es la única serie que cae parcialmente en el rango visible humano, terminando siempre en el segundo nivel de energía.
+
+---
+
+## Question 17 (Variant Expert - Difficulty D9)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.32
+
+### Enunciado
+Considerando el modelo mecano-cuántico, ¿por qué los orbitales 4s se llenan antes que los 3d en los elementos del cuarto periodo, pero al ionizarse se pierden primero los electrones del 4s?
+
+### Options
+- [ ] A) Porque el orbital 4s desaparece cuando el átomo se convierte en ion. <!-- feedback: Incorrecto. El orbital sigue existiendo como solución matemática, pero queda vacío. -->
+- [ ] B) Porque los electrones 4s están más cerca del núcleo que los 3d. <!-- feedback: Incorrecto. Los 3d están en un nivel inferior y pasan más tiempo cerca del núcleo. -->
+- [x] C) Porque al ocuparse el subnivel 3d, la energía del 4s aumenta por encima de la del 3d debido a efectos de apantallamiento y repulsión. <!-- feedback: Correcto. Aunque el 4s es más bajo para el átomo neutro, en los iones los 3d son más estables y los 4s se vuelven los más externos y fáciles de quitar. -->
+- [ ] D) Porque el principio de exclusión de Pauli no permite electrones 's' en iones positivos. <!-- feedback: Incorrecto. Pauli no prohíbe electrones 's' en iones; muchos iones conservan electrones 's'. -->
+
+### Explicación Pedagógica
+La energía de los orbitales no es estática. El llenado sigue el orden de energía para el átomo neutro, pero una vez que hay electrones en los orbitales d, estos "apantallan" al núcleo, haciendo que los electrones 4s sientan menos atracción y sean los primeros en salir.
+
+---
+
+## Question 18 (Variant Expert - Difficulty D9)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v18`
+**Bloom:** Create
+**ICFES:** Indagación
+**Expected_Success:** 0.30
+
+### Enunciado
+Un estudiante propone un nuevo modelo atómico donde los electrones se mueven en espirales hacia el núcleo. ¿Qué principio fundamental de la física clásica invalidaría este modelo inmediatamente?
+
+### Options
+- [ ] A) La ley de gravitación universal. <!-- feedback: Incorrecto. Las masas atómicas son tan pequeñas que la gravedad es despreciable frente a las fuerzas eléctricas. -->
+- [x] B) La teoría electromagnética clásica de Maxwell. <!-- feedback: Correcto. Según Maxwell, una carga acelerada (como un electrón en espiral) debe emitir radiación continuamente, perder energía y colapsar al núcleo. -->
+- [ ] C) El principio de conservación de la materia de Lavoisier. <!-- feedback: Incorrecto. El colapso del electrón no viola necesariamente la conservación de la masa total. -->
+- [ ] D) La tercera ley de Newton (acción y reacción). <!-- feedback: Incorrecto. Las fuerzas núcleo-electrón cumplen con la tercera ley. -->
+
+### Explicación Pedagógica
+Este fue el gran problema del modelo de Rutherford. Bohr lo resolvió postulando que existen órbitas estacionarias donde el electrón no emite energía, desafiando la física clásica para dar paso a la cuántica.
+
+---
+
+## Question 19 (Variant Expert - Difficulty D10)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v19`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.28
+
+### Enunciado
+¿Cuál es la razón física por la cual no pueden existir dos electrones con los mismos cuatro números cuánticos en un mismo átomo (Principio de Exclusión de Pauli)?
+
+### Options
+- [ ] A) Para evitar que el átomo explote por exceso de carga negativa. <!-- feedback: Incorrecto. La estabilidad eléctrica se maneja por el balance protones/electrones, no por los números cuánticos individuales. -->
+- [ ] B) Porque los electrones son bosones y tienden a ocupar el mismo estado. <!-- feedback: Incorrecto. Los electrones son fermiones, lo que significa que obedecen la estadística de Fermi-Dirac y el principio de exclusión. -->
+- [x] C) Debido a la naturaleza de los electrones como fermiones, cuya función de onda total debe ser antisimétrica ante el intercambio de partículas. <!-- feedback: Correcto. Esta propiedad matemática de las partículas con espín semientero impide que ocupen el mismo estado cuántico exacto. -->
+- [ ] D) Por una ley de la tabla periódica que limita el número de elementos. <!-- feedback: Incorrecto. El principio de Pauli es una causa de la estructura de la tabla, no una consecuencia de ella. -->
+
+### Explicación Pedagógica
+El principio de Pauli se deriva de la mecánica cuántica avanzada. Los electrones son fermiones y su función de onda debe cambiar de signo si se intercambian dos de ellos. Si tuvieran los mismos números cuánticos, la función de onda sería idéntica y al intercambiarlos no cambiaría, lo cual es físicamente imposible para estas partículas.
+
+---
+
+## Question 20 (Variant Expert - Difficulty D10)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-062-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.25
+
+### Enunciado
+Al analizar el efecto fotoeléctrico, se observa que si se usa luz de baja frecuencia pero muy intensa, no hay emisión de electrones. En cambio, luz de alta frecuencia muy débil sí produce emisión. ¿Qué conclusión fundamental sobre la naturaleza de la luz se extrae de esto?
+
+### Options
+- [ ] A) La luz es puramente una onda y su energía depende de la amplitud (intensidad). <!-- feedback: Incorrecto. Si fuera así, la luz intensa de baja frecuencia eventualmente emitiría electrones, lo cual no ocurre. -->
+- [x] B) La energía de la luz está cuantizada en paquetes (fotones) cuya energía depende únicamente de la frecuencia. <!-- feedback: Correcto. No importa cuántos fotones lleguen (intensidad), si individualmente no tienen energía suficiente (frecuencia) para vencer la función de trabajo, no habrá emisión. -->
+- [ ] C) Los electrones del metal están fuertemente unidos y solo la luz coherente puede liberarlos. <!-- feedback: Incorrecto. El efecto fotoeléctrico ocurre con luz no coherente si la frecuencia es adecuada. -->
+- [ ] D) La velocidad de la luz cambia según el metal con el que interactúa. <!-- feedback: Incorrecto. La velocidad de la luz en el vacío es constante y no explica este fenómeno. -->
+
+### Explicación Pedagógica
+Este experimento, explicado por Einstein en 1905, demostró que la luz se comporta como un flujo de partículas (fotones). Cada fotón interactúa 1 a 1 con un electrón. Por eso, la energía individual del fotón (E=hf) es el factor determinante, no la cantidad total de energía (intensidad).

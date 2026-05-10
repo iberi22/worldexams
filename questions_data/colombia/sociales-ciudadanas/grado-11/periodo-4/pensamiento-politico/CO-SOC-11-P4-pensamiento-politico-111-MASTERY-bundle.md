@@ -1,57 +1,3 @@
-<think>
-The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 format for Colombian Social Sciences (Sociales Ciudadanas), specifically on the "pensamiento-politico" (political thought) topic, grade 11, period 4.
-
-Let me follow the format requirements:
-- Frontmatter YAML with specific fields
-- 20 questions with progressive difficulty (D3-D4 for 1-4, D5-D6 for 5-10, D7-D8 for 11-16, D9-D10 for 17-20)
-- Each question must have: ID, Bloom level, ICFES competence, Context, Enunciado, Options (A, B, C, D with correct marked), Explicación Pedagógica
-- Colombian modern context
-- No "all of the above" or "none of the above"
-- Distractors must be plausible Colombian student errors
-
-Let me generate this content:
-
-I need to create questions about political thought in Colombian context, covering various political theorists, Colombian political history, political ideologies, democracy, human rights, social movements, political participation, etc.
-
-Let me structure this properly:
-
-Questions 1-4: Difficulty D3-D4 (Basic understanding/remember)
-Questions 5-10: Difficulty D5-D6 (Application/Analysis)
-Questions 11-16: Difficulty D7-D8 (Analysis/Evaluation)
-Questions 17-20: Difficulty D9-D10 (Evaluation/Create)
-
-Topics I should cover for political thought:
-- Classical political thought (Aristotle, Plato, Machiavelli)
-- Social contract (Hobbes, Locke, Rousseau)
-- Liberalism, conservatism, socialism
-- Colombian political history and key figures (Nariño, Santander, Liberal-Conservative history)
-- Revolution and reform
-- Democratic thought
-- Human rights
-- Political participation
-- Current Colombian political context
-
-Let me write these questions:
-
-1. About basic political concepts
-2. About social contract theory
-3. About Colombian independence figures and their political ideas
-4. About liberal vs conservative ideology
-
-
-5. About democratic participation
-6. About human rights evolution
-7. About Machiavelli's political thought
-8. About Locke and property rights
-9. About Colombian Constitution of 1991
-10. About social movements in Colombia
-11-16. More complex analysis of political ideologies, Colombian political history, contemporary political issues
-17-20. High-order thinking about current Colombian political challenges, political thought synthesis
-
-Now I'll draft the actual questions with proper Colombian context and plausible distractors that reflect common student misconceptions.
-
-</think>
-
 ---
 id: "CO-SOC-11-P4-pensamiento-politico-111-MASTERY"
 country: "colombia"
@@ -60,323 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "pensamiento-politico"
 periodo: 4
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 111
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:35:38.113909"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretativa
-**Context:** Historia del pensamiento político occidental
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-El pensamiento político de Nicolás Maquiavelo, expuesto en su obra "El Príncipe" (1513), representó un cambio fundamental en la política porque:
+¿Cuál es la ideología política que defiende la libertad individual, la propiedad privada, el libre mercado y la limitación del poder del Estado en la vida de los ciudadanos?
 
 ### Options
-- [ ] A) Promovió la teocracia como la única forma legítima de gobierno, defendiendo que los príncipes debían regirse por las leyes divinas. <!-- feedback: Confusión con el pensamiento medieval; Maquiavelo justamente separó la política de la religión -->
-- [ ] B) Estableció que la ética religiosa debía predominar sobre cualquier consideración política en el ejercicio del poder. <!-- feedback: Incorrecto; Maquiavelo separó la moral religiosa de la acción política -->
-- [x] C) Analizó el poder político de manera práctica y-descriptiva, separando la moral religiosa de la治理 política. <!-- feedback: Correcto; Maquiavelo首创政治现实主义，认为政治should be evaluated by effectiveness rather than religious morality -->
-- [ ] D) Defendió que los príncipes debían mantener el poder a través de la sumisión absoluta a la Iglesia Católica. <!-- feedback: No corresponde al pensamiento maquiavélico; más bien Maquiavelo criticaba la influencia eclesiástica en la política -->
+- [ ] A) Socialismo. <!-- feedback: Incorrect. El socialismo prioriza la propiedad colectiva o estatal y la intervención del Estado para lograr la igualdad. -->
+- [x] B) Liberalismo. <!-- feedback: Correct. Surgió en la Ilustración y es la base de las democracias occidentales modernas. -->
+- [ ] C) Fascismo. <!-- feedback: Incorrect. Es una ideología totalitaria que subordina la libertad individual al poder absoluto del Estado y del líder. -->
+- [ ] D) Anarquismo. <!-- feedback: Incorrect. El anarquismo busca la eliminación total del Estado y de cualquier forma de autoridad impuesta, no solo su limitación. -->
 
 ### Explicación Pedagógica
-Maquiavelo es considerado el padre del realismo político moderno. En "El Príncipe" describió cómo realmente funcionaban los poderes políticos, separando la análisis político de la moral religiosa. Esta aproximación pragmática marcó un antes y un después en el pensamiento político occidental. Los distractores A y B reflejan confusión con el pensamiento medieval anterior a Maquiavelo, mientras que D confunde su pensamiento con el cesaropapismo.
+El liberalismo clásico pone al individuo como centro del sistema político, defendiendo derechos como la libertad de expresión, de culto y la igualdad ante la ley.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Teoría política moderna
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-John Locke, en su obra "Segundo Treatise of Government" (1689), argumentó que el poder político se fundamenta en:
+¿Cuál es la corriente de pensamiento que propone la abolición de las clases sociales y de la propiedad privada de los medios de producción, buscando que estos pertenezcan a la colectividad?
 
 ### Options
-- [ ] A) El derecho divino de los reyes, donde la autoridad monárquica proviene directamente de Dios para gobernar a los súbditos. <!-- feedback: Confusión con el absolutismo monárquico; Lockecriticó esta teoría -->
-- [ ] B) Un contrato social entre los ciudadanos y el soberano, donde el pueblo cede parte de sus derechos a cambio de protección. <!-- feedback: Parcialmente correcto, pero mezcla elementos de diferentes teóricos -->
-- [x] C) El consentimiento de los gobernados y los derechos naturales (vida, libertad y propiedad) que ningún gobierno puede vulnerar. <!-- feedback: Correcto; Locke fundamentó el poder político en el consentimiento popular y los derechos naturales -->
-- [ ] D) La fuerza militar y el control territorial, ya que quien tiene el poder militar tiene legitimacy para gobernar. <!-- feedback: Esto refleja el pensamiento de Maquiavelo o Hobbes, no de Locke -->
+- [ ] A) Conservadurismo. <!-- feedback: Incorrect. El conservadurismo defiende la tradición, las jerarquías sociales existentes y la propiedad privada. -->
+- [ ] B) Capitalismo. <!-- feedback: Incorrect. Es un sistema económico basado precisamente en la propiedad privada y la acumulación de capital. -->
+- [x] C) Socialismo / Comunismo. <!-- feedback: Correct. Basado en las ideas de Marx y Engels, busca la igualdad social mediante el control colectivo de los recursos. -->
+- [ ] D) Teocracia. <!-- feedback: Incorrect. Es un sistema donde el poder político lo ejercen las autoridades religiosas basándose en dogmas de fe. -->
 
 ### Explicación Pedagógica
-Locke es considerado el padre del liberalismo político. Para él, los individuos tienen derechos naturales previos al Estado, y el gobierno legítimo se basa en el consentimiento de los gobernados. Si el gobierno viola estos derechos, el pueblo puede removerlo. El distractor A corresponde al pensamiento del derecho divino, el B mezcla elementos hobbesianos, y el D se acerca más a concepciones realistas del poder.
+El pensamiento socialista surgió como una crítica a las desigualdades generadas por la Revolución Industrial y el capitalismo temprano.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Argumentativa
-**Context:** Historia política colombiana
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-Antonio Nariño, considerado precursor de la independencia colombiana, se distinguió por defender ideas liberales inspiradas en la Revolución Francesa, especialmente en su traducción y circulación de:
+¿A qué filósofo de la Ilustración se le atribuye la teoría de la "División de Poderes" (Ejecutivo, Legislativo y Judicial) para evitar la tiranía?
 
 ### Options
-- [ ] A) "El Manifesto Comunista" de Karl Marx y Friedrich Engels, que proponía la lucha de clases. <!-- feedback: Nariño vivió a finales del siglo XVIII; Marx escribió en el siglo XIX -->
-- [ ] B) "Los Derechos del Hombre y del Ciudadano", documento que proclamaba libertad, igualdad y soberanía popular. <!-- feedback: Correcto; Nariño tradujo y publicó este documento revolucionario francés -->
-- [ ] C) "La Riqueza de las Naciones" de Adam Smith, sobre liberalismo económico y libre mercado. <!-- feedback: Aunque Nariño conocía ideas económicas liberales, no tradujo esta obra -->
-- [ ] D) "El Contrato Social" de Jean-Jacques Rousseau, sobre democracia directa. <!-- feedback: Nariño tradujo los Derechos del Hombre, no específicamente a Rousseau -->
+- [ ] A) Jean-Jacques Rousseau. <!-- feedback: Incorrect. Es famoso por la teoría del "Contrato Social" y la voluntad general. -->
+- [ ] B) Thomas Hobbes. <!-- feedback: Incorrect. Defendió el poder absoluto del monarca (el Leviatán) para evitar el caos de la guerra de todos contra todos. -->
+- [x] C) Barón de Montesquieu. <!-- feedback: Correct. En su obra "El espíritu de las leyes", argumentó que el poder debe frenar al poder mediante su división. -->
+- [ ] D) John Locke. <!-- feedback: Incorrect. Es el padre del liberalismo clásico y defendió los derechos naturales (vida, libertad, propiedad), pero la división tripartita clásica es de Montesquieu. -->
 
 ### Explicación Pedagógica
-En 1794, Antonio Nariño tradujo y publicó "Los Derechos del Hombre y del Ciudadano" en Santa Fe de Bogotá, enfrentando prisión por ello. Este documento proclamaba principios como la libertad, igualdad y soberanía popular. Los distractores reflejan anacronismos (marxismo en siglo XVIII) o confusiones con otras obras liberales importantes pero no específicamente traducidas por Nariño.
+La división de poderes es un pilar fundamental de la democracia moderna, asegurando que ninguna rama del Estado tenga el control total sobre la sociedad.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Ideologías políticas
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-La diferenciación fundamental entre el liberalismo político clásico y el conservadurismo radica principalmente en:
+¿Qué es el "Contrato Social" según pensadores como Rousseau o Locke?
 
 ### Options
-- [ ] A) El liberalismo defiende la intervención estatal en la economía mientras el conservadurismo promueve el libre mercado. <!-- feedback: Es lo contrario; el liberalismo clásico favorece el libre mercado -->
-- [ ] B) El liberalismo prioriza la libertad individual y los derechos individuales, mientras el conservadurismo valora la tradición, la autoridad y el orden social. <!-- feedback: Correcto; esta es la diferencia fundamental entre ambas ideologías -->
-- [ ] C) El conservadurismo promueve la igualdad social absoluta mientras el liberalismo acepta la jerarquía social. <!-- feedback: Es lo contrario; generalmente el liberalismo promueve mayor igualdad -->
-- [ ] D) Ambos ideologies defienden exactamente los mismos valores pero difieren en métodos tácticos. <!-- feedback: Incorrecto; tienen diferencias filosóficas fundamentales -->
+- [ ] A) Un documento que firman los trabajadores con sus jefes para ganar más dinero. <!-- feedback: Incorrect. Eso es un contrato laboral o de trabajo. -->
+- [ ] B) Una ley que prohíbe que las personas salgan de sus casas por la noche. <!-- feedback: Incorrect. No tiene relación con una medida de orden público restrictiva. -->
+- [x] C) Un acuerdo hipotético entre los ciudadanos y el Estado, donde las personas ceden parte de su libertad natural a cambio de protección y orden legal. <!-- feedback: Correct. Es la base de la legitimidad del poder político moderno. -->
+- [ ] D) El acta de matrimonio que firman las parejas en la notaría. <!-- feedback: Incorrect. Es una interpretación literal y errónea del término "contrato" en filosofía política. -->
 
 ### Explicación Pedagógica
-El liberalismo político clásico nació defendiendo libertades individuales frente al absolutismo, mientras el conservadurismo surgió como reacción a las revoluciones liberales, valorando tradiciones, instituciones y orden social. El distractor A invierte las posiciones sobre intervención económica. El C confunde conservadurismo con pensamiento igualitario. El D niega las diferencias reales entre ambas corrientes.
+La idea del contrato social explica por qué obedecemos las leyes: lo hacemos porque reconocemos que vivir en sociedad bajo una autoridad común es mejor que vivir en un estado de naturaleza salvaje.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Participación democrática en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-En Colombia, el derecho al voto se consolidó como mecanismo de participación democrática mediante diferentes reformas históricas. La Constitución Política de 1991 reconoció el voto como derecho-deber y estableció el voto electrónico. Sin embargo, históricamente en Colombia:
+¿Cuál es la diferencia principal entre una "Democracia Directa" y una "Democracia Representativa"?
 
 ### Options
-- [ ] A) El voto siempre fue obligatorio desde la Independencia, siguiendo el modelo estadounidense. <!-- feedback: Incorrecto; el voto obligatorio es relativamente reciente en Colombia -->
-- [ ] B) Las mujeres obtuvieron el derecho al voto en 1957, durante el gobierno de la Unión Nacional de Oposición (UND). <!-- feedback: Las mujeres votaban desde 1954 por decreto de Rojas Pinilla; la UNO no existía en ese momento -->
-- [x] C) Las mujeres alcanzaron el derecho al voto en 1954 mediante el decreto 2240 del gobierno militar de Gustavo Rojas Pinilla. <!-- feedback: Correcto; el decreto 2240 de octubre de 1954 reconoció el voto femenino -->
-- [ ] D) El voto fue siempre secreto y universal desde la Constitución de 1886. <!-- feedback: La Constitución de 1886 estableció voto secreto pero con restricciones de género y alfabetismo -->
+- [ ] A) En la directa solo votan los hombres y en la representativa todos. <!-- feedback: Incorrect. La diferencia no es de género, sino de la forma en que se ejerce el poder. -->
+- [x] B) En la directa el pueblo toma las decisiones directamente (asambleas); en la representativa el pueblo elige personas para que tomen las decisiones en su nombre. <!-- feedback: Correct. La mayoría de los países modernos son democracias representativas. -->
+- [ ] C) En la directa no hay leyes y en la representativa sí. <!-- feedback: Incorrect. Ambos sistemas funcionan bajo normas legales, cambian los mecanismos de aprobación. -->
+- [ ] D) No hay ninguna diferencia, son dos nombres para lo mismo. <!-- feedback: Incorrect. Implican formas de organización política y ciudadana muy distintas. -->
 
 ### Explicación Pedagógica
-El voto femenino se reconoció en Colombia en 1954 durante el gobierno militar de Rojas Pinilla. Previamente, solo los hombres podían votar. La Constitución de 1991 innovó con mecanismos como el voto electrónico y fortaleció derechos participativos. Los distractores reflejan confusión sobre cronología y contextos históricos.
+La Constitución de Colombia combina elementos de ambas: es representativa (elegimos Congreso) pero tiene mecanismos directos (plebiscito, referendo, consulta popular).
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Argumentativa
-**Context:** Derechos humanos y pensamiento político
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-La Declaración Universal de los Derechos Humanos (1948), proclamada por la Asamblea General de la ONU, estableció que todos los seres humanos nacen libres e iguales en dignidad y derechos. Esta declaración fue impulsada principalmente como respuesta a:
+¿Qué significa que un Estado sea "Laico"?
 
 ### Options
-- [ ] A) La Guerra Fría entre Estados Unidos y la Unión Soviética y la necesidad de definir qué país tenía la mejor sistema político. <!-- feedback: La declaración se centró en derechos humanos universales, no en competir con el comunismo -->
-- [ ] B) El expansionismo empresarial de las multinacionales y la necesidad de regular el comercio internacional. <!-- feedback: Este no fue el móvil de la Declaración; se centra en derechos humanos, no comerciales -->
-- [x] C) Las atrocidades de la Segunda Guerra Mundial, particularmente el Holocausto judío y otras masacres Nazi. <!-- feedback: Correcto; los horrores de la guerra impulsaron la creación de un marco internacional de derechos humanos -->
-- [ ] D) La Revolución Cubena de 1959 y la necesidad de promover la democracia en América Latina. <!-- feedback: La Declaración es de 1948, anterior a la Revolución Cuba -->
+- [ ] A) Que está prohibido practicar cualquier tipo de religión en público. <!-- feedback: Incorrect. Eso sería un Estado ateo o antirreligioso. El laico garantiza la libertad de cultos. -->
+- [ ] B) Que la religión oficial del Estado es la católica y todos deben obedecer al Papa. <!-- feedback: Incorrect. Eso sería un Estado confesional. -->
+- [x] C) Que el Estado es independiente de cualquier organización o confesión religiosa y garantiza la libertad de cultos para todos los ciudadanos. <!-- feedback: Correct. Colombia es un Estado laico desde la Constitución de 1991. -->
+- [ ] D) Que el gobierno solo puede ser ejercido por personas que no creen en Dios. <!-- feedback: Incorrect. En un Estado laico, creyentes y no creyentes pueden ocupar cargos públicos por igual. -->
 
 ### Explicación Pedagógica
-La Declaración Universal de Derechos Humanos fue adoptada en 1948 como respuesta directa a los horrores de la Segunda Guerra Mundial, incluyendo el Holocausto. El propósito era establecer estándares universales para prevenir futuras atrocidades. Los distractores confunden cronología o motivaciones.
+La laicidad asegura que las leyes civiles no se basen en dogmas religiosos, protegiendo la pluralidad de creencias de toda la población.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Teoría política clásica
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-Aristóteles, en su obra "La Política", estableció que el hombre es por naturaleza un "animal político" (ζῷον πολιτικόν), argumentando que:
+En el pensamiento político se habla de la división entre "Derecha" e "Izquierda". ¿Cuál es el origen histórico de estos términos?
 
 ### Options
-- [ ] A) Los seres humanos天生 deben vivir isolados en la naturaleza, buscando la autosuficiencia individual. <!-- feedback: Es lo contrario; Aristóteles dijo que el hombre necesita de la comunidad para desarrollarse -->
-- [ ] B) La participación política es un privilegio reservado únicamente para los ciudadanos libres de origen noble. <!-- feedback: Aristóteles discriminaba, pero su punto era que el hombre es naturalmente social; la cuestión de quién era ciudadano variaba en la época -->
-- [x] C) La convivencia en comunidad y la participación en la vida pública son inherentes a la naturaleza humana y necesarias para alcanzar el bien vivir. <!-- feedback: Correcto; para Aristóteles, el hombre se realiza plenamente en la polis (ciudad-estado) -->
-- [ ] D) Los animales también poseen capacidad política y pueden participar en los asuntos de la ciudad. <!-- feedback: Incorrecto; Aristóteles usó "político" para significar específicamente humano -->
+- [ ] A) Por el lugar donde se sentaban los jugadores en el circo romano. <!-- feedback: Incorrect. No tiene relación con la historia de Roma antigua. -->
+- [x] B) Por el lugar donde se sentaron los diputados en la Asamblea Nacional de la Revolución Francesa (conservadores a la derecha, revolucionarios a la izquierda). <!-- feedback: Correct. El nombre quedó para distinguir tendencias políticas hasta hoy. -->
+- [ ] C) Porque las personas diestras preferían un partido y las zurdas otro. <!-- feedback: Incorrect. Es una interpretación biológica absurda de una clasificación política. -->
+- [ ] D) Por una decisión del Papa en la Edad Media para organizar las procesiones. <!-- feedback: Incorrect. Los términos son modernos y de origen político revolucionario francés. -->
 
 ### Explicación Pedagógica
-Aristóteles consideró que el hombre es un ser social por naturaleza, y que solo en la comunidad (polis) puede alcanzar la virtud y la felicidad. El concepto de "animal político" implica que la política es parte esencial de la condición humana. Los distractores tergiversan el sentido de la frase aristotélica.
+Aunque los significados han cambiado, la derecha se asocia generalmente con el orden y la tradición, mientras la izquierda se asocia con el cambio social y la igualdad.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Filosofía política contemporánea
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-El pensamiento político de Jean-Jacques Rousseau, especialmente su obra "El Contrato Social" (1762), influyó significativamente en los movimientos revolucionarios modernos. Su concepto de "voluntad general":
+¿Cuál es la diferencia fundamental entre un sistema "Republicano" y una "Monarquía"?
 
 ### Options
-- [ ] A) Representa la suma de las voluntades individuales de todos los ciudadanos, aunque estos estén equivocados. <!-- feedback: Incorrecto; para Rousseau la voluntad general siempre busca el bien común, no es simplemente la mayoría -->
-- [x] B) Expresa el interés común de la comunidad como un todo, distinto de la simple suma de intereses particulares. <!-- feedback: Correcto; la voluntad general busca el bien de la comunidad, no es solo mayoría numérica -->
-- [ ] C) Es idéntica a la voluntad de la mayoría absoluta de los ciudadanos en cualquier decisión. <!-- feedback: Para Rousseau, la voluntad general no es solo votación mayoritaria; puede haber mayoría equivocada -->
-- [ ] D) Debe ser impuesta por un gobierno fuerte para garantizar el orden social. <!-- feedback: Rousseau no defenció la imposición; el contrato social se basa en consentimiento -->
+- [ ] A) En la república solo mandan los militares y en la monarquía solo los poetas. <!-- feedback: Incorrect. No es una distinción de profesiones de los gobernantes. -->
+- [x] B) En la república el jefe de Estado es elegido temporalmente por el pueblo o sus representantes; en la monarquía el cargo es vitalicio y generalmente hereditario. <!-- feedback: Correct. Es la distinción básica sobre el origen y duración del poder. -->
+- [ ] C) La república prohíbe las elecciones y la monarquía las fomenta. <!-- feedback: Incorrect. Al contrario, las elecciones son la esencia de la república moderna. -->
+- [ ] D) No hay diferencia, hoy en día todos los reyes son elegidos por voto popular. <!-- feedback: Incorrect. En las monarquías constitucionales que quedan, los reyes no son elegidos por voto sino por sucesión de sangre. -->
 
 ### Explicación Pedagógica
-Rousseau propuso que la legitimidad del poder político reside en un contrato social donde los ciudadanos se unen para buscar el bien común. La "voluntad general" no es simplemente la mayoría, sino el interés común de la comunidad. Esta idea influyó en la Revolución Francesa y en ideales democráticos posteriores. Los distractores confunden voluntad general con simple mayoría.
+La República se basa en el principio de que la "cosa pública" (Res publica) pertenece a todos los ciudadanos y no a una familia real por derecho divino.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Constitución Política de Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-La Constitución Política de Colombia de 1991, reconocida como una de las más progresistas de América Latina, incorporó significativamente el concepto de Estado Social de Derecho. Esto significa que:
+El "Maquiavelismo" es una corriente derivada del pensamiento de Nicolás Maquiavelo. ¿Cuál es la idea central que a menudo se resume en la frase (aunque él no la escribió literalmente) "El fin justifica los medios"?
 
 ### Options
-- [ ] A) El Estado debe garantizar únicamente los derechos civiles y políticos, dejando la economía al libre mercado. <!-- feedback: Esto corresponde al Estado de Derecho liberal clásico, no al Estado Social de Derecho -->
-- [x] B) El Estado tiene la obligación de intervenir para garantizar condiciones dignas de vida, incluyendo salud, educación y trabajo, más allá de solo asegurar liberties. <!-- feedback: Correcto; el Estado Social de Derecho implica obligaciones positivas del Estado para garantir derechos sociales -->
-- [ ] C) El Estado se convierte en socialista y debe controlar todos los medios de producción. <!-- feedback: El Estado Social de Derecho no implica socialismo; mantiene la economía de mercado con intervención regulada -->
-- [ ] D) Los ciudadanos deben surrenders derechos individuales a cambio de servicios sociales del Estado. <!-- feedback: No hay tal exchange; el Estado Social de Derecho potencia derechos individuales y sociales simultáneamente -->
+- [ ] A) Que los políticos siempre deben decir la verdad aunque pierdan las elecciones. <!-- feedback: Incorrect. Maquiavelo sugería que el gobernante podía mentir si era necesario para mantener el Estado. -->
+- [ ] B) Que solo las personas buenas y honestas deben gobernar el mundo. <!-- feedback: Incorrect. Su pensamiento es realista y a menudo cínico sobre la naturaleza humana y el poder. -->
+- [x] C) Que la política debe centrarse en la eficacia y la conservación del poder del Estado, incluso si hay que realizar actos inmorales o violentos. <!-- feedback: Correct. Es el inicio de la ciencia política moderna y el realismo político. -->
+- [ ] D) Que la única forma de gobernar es mediante la religión y la fe. <!-- feedback: Incorrect. Maquiavelo separó la política de la moral religiosa tradicional. -->
 
 ### Explicación Pedagógica
-El Estado Social de Derecho, consagrado en la Constitución de 1991, va más allá del Estado de Derecho liberal clásico. Implica que el Estado tiene obligaciones activas para garantizar condiciones dignas de vida a todos los ciudadanos, mediante políticas públicas en educación, salud, vivienda, empleo, etc. Los distractores confunden con liberalismo puro o socialismo real.
+Maquiavelo en "El Príncipe" analiza cómo funciona el poder realmente, no cómo debería funcionar idealmente, lo que causó gran escándalo en su época y sigue siendo objeto de estudio.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Movimientos sociales y política colombiana
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Movimiento Patriotas滤波, surgido en Colombia en 2019 durante el período del gobierno de Iván Duque Márquez, se constituyó principalmente como respuesta a:
+¿A qué se refiere el término "Estado de Bienestar" (Welfare State) surgido tras la Segunda Guerra Mundial?
 
 ### Options
-- [ ] A) La propuesta de eliminar el servicio militar obligatorio y reducir las fuerzas armadas. <!-- feedback: El Movimiento no se creó por temas militares; el servicio militar sigue vigente -->
-- [ ] B) Un proyecto de ley que buscaba privatizar la empresa estatal Ecopetrol. <!-- feedback: No hubo propuesta oficial de privatización de Ecopetrol en ese período -->
-- [x] C) La reforma tributaria presentada por el gobierno Duque y el manejo de la economía durante la pandemia del coronavirus. <!-- feedback: Correcto; el Paro Nacional de 2021 fue impulsado por el disgusto con la reforma tributaria y la gestión económica -->
-- [ ] D) La propuesta de cambiar la Constitución para permitir la relección del presidente. <!-- feedback: No hubo propuesta formal de relección en ese momento -->
+- [ ] A) A un Estado donde está prohibido estar triste por ley. <!-- feedback: Incorrect. Es una interpretación psicológica literal absurda. -->
+- [ ] B) A un sistema donde el gobierno regala casas de lujo a todos los ciudadanos. <!-- feedback: Incorrect. No regala lujos, provee servicios básicos esenciales de forma universal. -->
+- [x] C) Un modelo de Estado que interviene en la economía para garantizar derechos sociales básicos (salud, educación, pensiones, desempleo) a toda la población. <!-- feedback: Correct. Busca reducir las desigualdades del capitalismo mediante la seguridad social. -->
+- [ ] D) A la obligación de que todos los ciudadanos tengan que ser deportistas olímpicos. <!-- feedback: Incorrect. No tiene relación con la competencia deportiva sino con la protección social. -->
 
 ### Explicación Pedagógica
-El Paro Nacional de 2021 en Colombia surgió como respuesta a múltiples factores: la reforma tributaria del gobierno de Duque, la кризи económica exacerbated por la pandemia, el desempleo, y el descontento social generalizado. El movimiento "#ParoNacional" mobilizó millones de colombianos. Los distractores presentan temas que no fueron el móvil principal del movimiento.
+El Estado de Bienestar busca crear una red de seguridad para que nadie caiga en la miseria extrema, financiado a través de un sistema de impuestos progresivos.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Teoría democrática
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-El pensamiento político de Robert Dahl sobre la democracia participativa plantea que la calidad de un régimen democrático depende fundamentalmente de:
+¿Qué es el "Populismo" como fenómeno político contemporáneo?
 
 ### Options
-- [ ] A) La participación electoral masiva, donde el número de votos determina la legitimidad del gobierno. <!-- feedback: Dahl va más allá de solo elecciones; la democracia para él requiere más que votación -->
-- [ ] B) La aplicación estricma del principio de mayoría, donde las decisiones deben sempre seguir la voluntad de la mayoría numérica. <!-- feedback: Dahl criticó la democracia mayoritaria simple; propuso el concepto de "democracia以南" -->
-- [ ] C) La existencia de múltiples mecanismos de participación ciudadana y control sobre los gobernantes, incluyendo protección de derechos de minorías. <!-- feedback: Correcto; Dahl argumentó que la democracia requiere competencia electoral, participación real, derechos civiles protegidos y mecanismos de control -->
-- [ ] D) La eliminación total del poder ejecutivo para evitar autoritarismo, reduciendo el gobierno a un parlamento puro. <!-- feedback: Esto no corresponde a Dahl; él no propuso eliminar el ejecutivo -->
+- [ ] A) La obligación de que todos los políticos sean jóvenes y usen redes sociales. <!-- feedback: Incorrect. El populismo no depende de la edad o el medio, sino del discurso. -->
+- [ ] B) El estudio científico de las poblaciones de aves en la selva. <!-- feedback: Incorrect. No tiene relación con la biología o ecología de poblaciones animales. -->
+- [x] C) Un estilo de hacer política que divide a la sociedad en dos bandos antagónicos: "el pueblo" (bueno) frente a "la élite" (corrupta), apelando a las emociones masivas. <!-- feedback: Correct. Puede ser de izquierda o de derecha y suele debilitar las instituciones intermedias. -->
+- [ ] D) La decisión de un país de tener diez presidentes al mismo tiempo para que sean populares. <!-- feedback: Incorrect. El populismo suele concentrar el poder en un solo líder fuerte que dice representar la voluntad popular. -->
 
 ### Explicación Pedagógica
-Robert Dahl (1915-2014), politólogo estadounidense, desarrolló el concepto de "poliarquía" para describir regímenes democráticos. identificó estándares mínimos como: sufragio universal, elecciones libres y justas, competencia electoral, protección de libertades civiles y derecho de los ciudadanos a conocer candidatos y políticas. Dahl reconoció que la democracia perfecta es difícil, pero puede aproximarse mediante instituciones que garanticen participación y control. Los distractores simplifican o distorsionan su pensamiento.
+El populismo ofrece soluciones simplistas a problemas complejos y a menudo cuestiona los controles democráticos (como la prensa o las cortes) alegando que "obstaculizan la voluntad del pueblo".
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Interpretativa
-**Context:** Historia política latinoamericana
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-Simón Bolívar, en su pensamiento político sobre la organización de la Gran Colombia y la unidad latinoamericana, evolucionó desde una visión republicana federal hacia posiciones más centralistas debido principalmente a:
+¿Cuál es la diferencia entre "Ilegitimidad" e "Ilegalidad" de un gobierno?
 
 ### Options
-- [ ] A) Su deseo de convertirse en emperador vitalicio, abandonando los ideales independentistas. <!-- feedback: Bolívar mantuvo el ideal independentista; sus posiciones evolucionaron por razones estratégicas y políticas -->
-- [ ] B) La influencia de las ideas monárquicas europeas que admiraba desde su formación militar. <!-- feedback: Bolívar se formó con ideales republicanismo; su giro fue por necesidades prácticas -->
-- [x] C) Las dificultades para mantener la cohesión entre las distintas regiones y la amenaza de disolución del proyecto independentista. <!-- feedback: Correcto; las tensiones regionales, el regionalismo y las guerras internas llevaron a Bolívar acentralizar el poder para preservar la unidad -->
-- [ ] D) La presión del Imperio Español para negociar una rendición mediante un acuerdo monárquico constitucional. <!-- feedback: No hubo presión española de este tipo una vez ganada la independencia -->
+- [ ] A) Son exactamente lo mismo y se usan para lo mismo. <!-- feedback: Incorrect. Tienen matices entre el origen del poder y el cumplimiento de las normas. -->
+- [x] B) La ilegalidad es cuando se violan las leyes; la ilegitimidad es cuando el gobierno pierde el apoyo, el reconocimiento o la autoridad moral ante los ciudadanos. <!-- feedback: Correct. Un gobierno puede ser legal (ganó las elecciones) pero volverse ilegítimo por sus actos. -->
+- [ ] C) La ilegalidad es solo para las personas pobres y la ilegitimidad para las ricas. <!-- feedback: Incorrect. Son conceptos de ciencia política aplicables al ejercicio del poder estatal. -->
+- [ ] D) La ilegitimidad es cuando un presidente no sabe hablar bien en público. <!-- feedback: Incorrect. Es un tema de validez y aceptación del mando político, no de oratoria personal. -->
 
 ### Explicación Pedagógica
-Bolívar comenzó defendiendo un sistema federal inspirado en Estados Unidos, pero las tensiones entre Nueva Granada, Venezuela y Quito lo llevaron a promover el centralismo. El Libertador argumentaba que la молодой republic necesitaba fuerte autoridad para sobrevivir las amenazas externas e internas. Esta evolución generó críticas de sectores liberales. Los distractores simplifican la motivación de Bolívar.
+La legitimidad es el "pegamento" de la democracia: sin ella, el Estado debe recurrir a la fuerza para ser obedecido, lo cual es inestable a largo plazo.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Formas de gobierno
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-La teoría clásica de las formas de gobierno, originada en Platón y Aristóteles, clasifica los sistemas políticos según el número de gobernantes y su propósito. Según esta teoría, la diferencia fundamental entre una "democracia" y una "demagogia" radica en:
+¿A qué se refiere el concepto de "Totalitarismo" (como el Nazismo o el Estalinismo)?
 
 ### Options
-- [ ] A) El número de gobernantes: la democracia tiene muchos rulers mientras la demagogia tiene uno solo. <!-- feedback: Incorrecto; ambas pueden tener muchos gobernantes; la diferencia es la motivación -->
-- [ ] B) Que la democracia busca el bien común mientras la demagogia busca solo el beneficio personal del líder. <!-- feedback: Correcto; según la teoría clásica, la democracia busca el bien general mientras la demagogia es manipulated por un líder que busca poder personal -->
-- [ ] C) Que la democracia prohibe la participación de las minorías mientras la demagogia las incluye. <!-- feedback: Es lo contrario; la demagogia excluye a quienes se oponen al líder -->
-- [ ] D) El nivel de desarrollo económico: las democracia son ricas y las demagogias son pobres. <!-- feedback: La teoría clásica no relaciona forma de gobierno con nivel económico -->
+- [ ] A) A un gobierno que permite que todos los ciudadanos opinen lo que quieran. <!-- feedback: Incorrect. Eso sería una democracia liberal pluralista. -->
+- [ ] B) A la obligación de que todas las personas del mundo coman lo mismo. <!-- feedback: Incorrect. Es una interpretación literal errónea del control social. -->
+- [x] C) Un sistema de gobierno donde el Estado ejerce un control absoluto sobre todos los aspectos de la vida pública y privada, eliminando cualquier oposición o libertad. <!-- feedback: Correct. Utiliza el terror, la propaganda y el partido único. -->
+- [ ] D) A un país que tiene el territorio más grande de la Tierra. <!-- feedback: Incorrect. El tamaño no define el sistema político; el totalitarismo es sobre la profundidad del control social. -->
 
 ### Explicación Pedagógica
-En la teoría clásica, una democracia legítima busca el bien de todos los ciudadanos (bien común), mientras la demagogia es una corrupción de la democracia donde un líder populista manipulation a las masas para obtener poder personal. El término "demagogia" viene del griego "demos" (pueblo) y "agoge" (conducción), originalmente describía líderes que manipulaban al pueblo. Los distractores presentan criterios no reconocidos por la teoría clásica.
+El totalitarismo busca no solo que la gente obedezca, sino que crea ciegamente en la ideología del Estado, controlando la educación, la prensa e incluso los pensamientos de las personas.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Liberalismo político
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-La filosofía liberal clásica, desarrollada por pensadores como John Locke, Adam Smith e Immanuel Kant, comparte como premisa fundamental la creencia en:
+Un ciudadano sostiene: "La democracia es la dictadura de la mayoría sobre la minoría". ¿Qué mecanismo de la democracia liberal busca corregir precisamente este riesgo?
 
 ### Options
-- [ ] A) La superioridad del colectivo sobre el individuo, donde los derechos individuales deben supeditarse al bienestar de la sociedad. <!-- feedback: Esto es más cercano al pensamiento comunitario o socialista, no al liberalismo clásico -->
-- [x] B) Los derechos individuales inherentes al ser humano que preceden al Estado y limitan el poder estatal. <!-- feedback: Correcto; el liberalismo clásico reconoce derechos naturales previos al Estado que este debe respetar -->
-- [ ] C) La necesidad de un Estado fuerte que intervenga activamente en la economía para garantizar la igualdad social. <!-- feedback: El liberalismo clásico favorece mínima intervención estatal; la intervención fuerte corresponde al pensamiento socialdemócrata o socialista -->
-- [ ] D) Que la razón humana es incapaz de conocer la verdad, por lo cual no deben existir gobiernos basados en principios universales. <!-- feedback: Esto refleja relativismo o escepticismo, no el optimismo rationalista del liberalismo clásico -->
+- [ ] A) La obligación de que todos los ciudadanos piensen exactamente igual. <!-- feedback: Incorrect. La democracia valora la diversidad de pensamiento. -->
+- [ ] B) El derecho de la mayoría a expulsar del país a quienes no estén de acuerdo con ella. <!-- feedback: Incorrect. Eso sería precisamente la "tiranía de la mayoría" que se quiere evitar. -->
+- [x] C) El reconocimiento de los Derechos Humanos Fundamentales y la existencia de una Constitución que limita el poder de las mayorías para proteger a las minorías. <!-- feedback: Correct. Hay derechos que ni siquiera la mayoría puede quitar por voto. -->
+- [ ] D) La decisión de que el ganador de las elecciones siempre sea el que tuvo menos votos. <!-- feedback: Incorrect. Iría en contra de la voluntad popular básica de la democracia. -->
 
 ### Explicación Pedagógica
-El liberalismo clásico se fundamenta en el reconocimiento de derechos individuales inherentes (vida, libertad, propiedad), la limitación del poder estatal, el rule of law, y la confianza en la razón humana. Locke y los liberales clásicos creían que el gobierno debe proteger derechos, no suprimirlos. Los distractores corresponden a corrientes diferentes como el comunitarismo, el socialismo o el escepticismo.
+Esta es la esencia del "Estado Constitucional": el poder del pueblo (democracia) tiene límites infranqueables que son los derechos de cada individuo (liberalismo).
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v15`
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
+
+### Enunciado
+¿Qué es la "Teocracia" como forma de gobierno?
+
+### Options
+- [ ] A) Un gobierno dirigido únicamente por ingenieros y científicos. <!-- feedback: Incorrect. Eso se denomina Tecnocracia. -->
+- [ ] B) Un sistema donde el poder se hereda solo por las mujeres de la familia. <!-- feedback: Incorrect. Eso se acerca al concepto de Matriarcado hereditario. -->
+- [x] C) Un sistema donde el poder político es ejercido por las autoridades religiosas y las leyes del Estado se basan en los textos o dogmas de una religión. <!-- feedback: Correct. Ejemplos actuales son Irán o la Ciudad del Vaticano. -->
+- [ ] D) Un gobierno donde todas las personas tienen que ser ateas obligatoriamente. <!-- feedback: Incorrect. Eso sería un régimen antirreligioso o de ateísmo de Estado. -->
+
+### Explicación Pedagógica
+En una teocracia, no existe separación entre Iglesia y Estado, y la disidencia religiosa a menudo se castiga como un delito político grave.
+
+---
+
+## Question 16
+
+**ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Global
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
+
+### Enunciado
+¿Cuál es la importancia del concepto de "Ciudadanía Global" en el pensamiento político actual?
+
+### Options
+- [ ] A) Que todos los habitantes de la Tierra deben tener un solo pasaporte único. <!-- feedback: Incorrect. Es una interpretación burocrática literal que no existe actualmente. -->
+- [ ] B) Que las personas ya no deben tener amor por su propio país. <!-- feedback: Incorrect. No excluye el patriotismo local, sino que lo amplía. -->
+- [x] C) El reconocimiento de que los seres humanos tenemos responsabilidades y derechos que van más allá de las fronteras nacionales, frente a problemas globales como el clima o la paz. <!-- feedback: Correct. Busca una ética de solidaridad planetaria. -->
+- [ ] D) La obligación de que todas las personas del mundo hablen el mismo idioma. <!-- feedback: Incorrect. Valora la diversidad cultural pero bajo principios éticos universales. -->
+
+### Explicación Pedagógica
+La ciudadanía global nos invita a pensar cómo nuestras acciones locales afectan a personas en otros continentes, promoviendo una visión de humanidad compartida.
+
+---
+
+## Question 17 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v17`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
+
+### Enunciado
+Considere la teoría del "Velamen de Ignorancia" de John Rawls. ¿Cómo ayuda este concepto a pensar en una sociedad justa?
+
+### Options
+- [ ] A) Sugiere que los gobernantes deben ser ignorantes para no ser corruptos. <!-- feedback: Incorrect. Es una interpretación cómica y errónea del concepto filosófico. -->
+- [ ] B) Propone que hay que ocultar los problemas del país para que la gente sea feliz. <!-- feedback: Incorrect. Rawls busca la transparencia y la justicia, no el ocultamiento. -->
+- [x] C) Propone imaginar que no sabemos qué lugar ocuparemos en la sociedad (ricos, pobres, hombres, mujeres, etc.) para diseñar leyes que sean justas para todos, sin importar nuestra posición. <!-- feedback: Correct. Es una herramienta mental para lograr la imparcialidad. -->
+- [ ] D) Indica que solo las personas que no saben leer pueden ser jurados en un juicio. <!-- feedback: Incorrect. No tiene relación con el analfabetismo o la capacidad intelectual individual. -->
+
+### Explicación Pedagógica
+Si tuvieras que diseñar las reglas de un país sin saber si vas a nacer en una familia rica o pobre, seguramente diseñarías un sistema de salud y educación excelente para todos "por si acaso" te toca ser pobre. Esa es la esencia de la justicia de Rawls.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Analice la tensión entre "Seguridad" y "Libertad" en la política moderna. ¿Cuál es el riesgo de priorizar la seguridad absoluta sobre los derechos civiles?
+
+### Options
+- [ ] A) Que los ciudadanos se vuelvan demasiado perezosos al sentirse tan seguros. <!-- feedback: Incorrect. El riesgo es político y constitucional, no de actitud laboral o personal. -->
+- [ ] B) Que el país se quede sin dinero por gastar tanto en cámaras de vigilancia. <!-- feedback: Incorrect. Es una consecuencia económica posible pero no el dilema de fondo de derechos. -->
+- [x] C) El surgimiento de regímenes autoritarios que justifican la vigilancia masiva, la censura y la represión alegando que es necesario para "protegernos", eliminando la privacidad y el disentimiento. <!-- feedback: Correct. Es la base de muchas distopías y regímenes reales. -->
+- [ ] D) Que los delincuentes se vuelvan más inteligentes que la policía. <!-- feedback: Incorrect. Es un tema de dinámica criminal, no del conflicto ideológico entre libertad y control estatal. -->
+
+### Explicación Pedagógica
+Este dilema se presenta constantemente en debates sobre terrorismo, narcotráfico o pandemias: ¿cuánta libertad estamos dispuestos a sacrificar a cambio de sentirnos protegidos por el Estado?
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+El filósofo Michel Foucault hablaba del "Biopoder". ¿A qué se refería con este concepto en la política contemporánea?
+
+### Options
+- [ ] A) Al poder de las plantas y los animales para dominar el mundo. <!-- feedback: Incorrect. Es un concepto sobre el poder humano y social, no sobre la biología natural. -->
+- [ ] B) A la invención de los superhéroes en las películas de ciencia ficción. <!-- feedback: Incorrect. No tiene relación con la cultura del entretenimiento de ficción. -->
+- [x] C) A las formas en que el Estado y las instituciones modernas ejercen control sobre la vida biológica de las poblaciones (salud, higiene, natalidad, conducta del cuerpo). <!-- feedback: Correct. El poder ya no solo castiga la muerte, sino que gestiona y regula la vida. -->
+- [ ] D) A la obligación de que todos los ciudadanos tengan que ser biólogos profesionales. <!-- feedback: Incorrect. Es una interpretación profesional reduccionista del término. -->
+
+### Explicación Pedagógica
+El biopoder se manifiesta en las campañas de vacunación, los censos, las normas de salud pública y el control de la sexualidad, mostrando cómo el Estado interviene en lo más íntimo del ser humano para gestionar la sociedad.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P4-pensamiento-politico-111-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la "Paradoja de la Tolerancia" de Karl Popper: "Si extendemos la tolerancia ilimitada incluso a los intolerantes, los tolerantes serán destruidos y la tolerancia con ellos". ¿Qué implica esto para la protección de la democracia?
+
+### Options
+- [ ] A) Que debemos prohibir que existan personas que piensen diferente a nosotros. <!-- feedback: Incorrect. Eso sería intolerancia y rompería la democracia pluralista. -->
+- [ ] B) Que la democracia debe aceptar incluso a quienes quieren destruirla con violencia. <!-- feedback: Incorrect. Eso llevaría al suicidio del sistema democrático según Popper. -->
+- [x] C) Que la democracia tiene el derecho y el deber de defenderse contra movimientos que usen la violencia o la fuerza para imponer la intolerancia y destruir los derechos de los demás. <!-- feedback: Correct. La tolerancia no es un cheque en blanco para el autoritarismo. -->
+- [ ] D) Que hay que perdonar a todos los delincuentes porque el perdón es una forma de tolerancia. <!-- feedback: Incorrect. El debate es sobre la supervivencia del sistema de libertades, no sobre la política criminal de perdón individual. -->
+
+### Explicación Pedagógica
+Esta paradoja es fundamental para entender por qué las democracias prohíben discursos de odio o partidos que promuevan abiertamente el genocidio o la eliminación violenta de oponentes políticos.

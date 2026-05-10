@@ -1,67 +1,3 @@
-<think>
-The user wants me to generate exactly 20 multiple-choice questions in the ICFES Saber 11 style for the topic of Evolution-Biology, grade 11, period 3. The questions need to follow a specific format with progressive difficulty, Colombian context, and proper alignment with ICFES competencies.
-
-Let me generate these questions following all the rules:
-
-1. Progressive difficulty:
-   - Questions 1-4: Difficulty D3-D4
-   - Questions 5-10: Difficulty D5-D6
-   - Questions 11-16: Difficulty D7-D8
-   - Questions 17-20: Difficulty D9-D10
-
-2. Each question needs:
-   - ID format
-   - Bloom level
-   - ICFES competency
-   - Modern Colombian context
-   - Clear statement
-   - 4 options (A, B, C, D)
-   - Correct answer marked with [x]
-   - Feedback for each option
-   - Pedagogical explanation
-
-3. Distractors should be plausible errors made by Colombian students
-
-4. No "todas las anteriores" or "ninguna de las anteriores"
-
-5. Topic: evolution-biology, period 3, grade 11
-
-Let me create the questions:
-
-Questions 1-4 (D3-D4 - Remember/Understand):
-1. About natural selection concepts
-2. About evidence of evolution
-3. About basic genetics and evolution
-4. About common ancestry
-
-Questions 5-10 (D5-D6 - Apply/Analyze):
-5. About mechanisms of evolution
-6. About speciation
-7. About phylogenetic trees
-8. About genetic drift
-9. About adaptation examples
-10. About evolutionary theory应用
-
-Questions 11-16 (D7-D8 - Analyze/Evaluate):
-11. About complex evolutionary analysis
-12. About evaluating evidence
-13. About comparing evolutionary mechanisms
-14. About speciation analysis
-15. About population genetics
-16. About evolutionary patterns
-
-Questions 17-20 (D9-D10 - Evaluate/Create):
-
-
-17. About synthesizing evolutionary concepts
-18. About evaluating scientific controversies
-19. About creating evolutionary hypotheses
-20. About evaluating future implications
-
-Now I'll write these in Spanish with Colombian context.
-
-</think>
-
 ---
 id: "CO-CIE-11-P3-evolucion-biologia-079-MASTERY"
 country: "colombia"
@@ -72,300 +8,390 @@ periodo: 3
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 79
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:42:14.732592"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.60
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "explicacion_fenomenos, indagacion, uso_conceptos"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Comprensión de conceptos básicos de evolución
-**Context:** Biodiversidad colombiana en el Parque Nacional Natural Los Nevados
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-El frailejón (Espeletia spp.), planta emblemática del páramo colombiano, presenta hojas dispuestas en roseta para reducir la pérdida de agua por evapotranspiración. Esta característica representa un ejemplo de:
+Charles Darwin observó en las Islas Galápagos que diferentes islas tenían especies de pinzones con picos de formas muy distintas, cada uno adaptado a un tipo de alimento específico (semillas, insectos, néctar). Este fenómeno se conoce como:
 
-### Options
-- [ ] A) Adaptación estructural que permite sobrevivir en condiciones de alta radiación ultravioleta en el páramo. <!-- feedback: Las hojas en roseta ayudan principalmente a conservar agua, no específicamente a protegerse de radiación UV -->
-- [x] B) Adaptación fisiológica que permite reducir la pérdida de agua en un ecosistema de alta montaña. <!-- feedback: La disposición en roseta efectivamente minimiza la evapotranspiración al proteger la yema apical y reducir la exposición directa al sol -->
-- [ ] C) Adaptación conductual que permite a la planta orientarse hacia la luz solar para optimizar la fotosíntesis. <!-- feedback: Las plantas no pueden cambiar su orientación activamente como respuesta conductual; es una característica morfológica fija -->
-- [ ] D) Adaptación reproductiva que aumenta la producción de semillas en condiciones de estrés térmico. <!-- feedback: La forma de roseta no está relacionada directamente con la reproducción sino con la supervivencia -->
+- [ ] A) Generación espontánea. <!-- feedback: Incorrect. La generación espontánea es una idea obsoleta que decía que la vida surge de materia inerte. -->
+- [x] B) Radiación adaptativa. <!-- feedback: Correct. Ocurre cuando una sola especie ancestro da lugar a muchas especies nuevas que ocupan diferentes nichos ecológicos en un tiempo relativamente corto. -->
+- [ ] C) Evolución convergente. <!-- feedback: Incorrect. La convergencia es cuando especies no relacionadas desarrollan rasgos similares, no cuando una especie se diversifica. -->
+- [ ] D) Inmutabilidad de las especies. <!-- feedback: Incorrect. Este concepto afirma que las especies no cambian, lo cual es opuesto a lo observado por Darwin. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque las hojas en roseta del frailejón son una adaptación estructural/morfológica que cumple la función fisiológica de reducir la pérdida de agua. El distractor A es plausible porque los estudiantes pueden confundir "estructural" con cualquier característica física sin considerar la función específica. El distractor C confunde adaptación con comportamiento, y el D relaciona incorrectamente la morfología con la reproducción.
+La radiación adaptativa es un proceso clave en la biodiversidad. Explica cómo la competencia por recursos y el aislamiento geográfico impulsan la especialización de las especies.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Identificación de mecanismos evolutivos
-**Context:** Investigación científica sobre osos perezosos en Colombia
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En una población de osos perezosos (Melursus ursinus) que habita los bosques tropicales del Chocó Biogeográfico, se observa que los individuos con pelaje más oscuro tienen mayor éxito reproductivo. Este fenómeno ejemplifica:
+En una población de escarabajos que viven sobre hojas verdes, existen individuos verdes y algunos individuos marrones (por mutación). Si llegan aves depredadoras que cazan por la vista, es probable que con el tiempo la población sea mayoritariamente verde. ¿Cuál es el motor de este cambio?
 
-### Options
-- [ ] A) La deriva génica, ya que los rasgos oscuros aumentan al azar en la población. <!-- feedback: La deriva génica ocurre sin relación con la supervivencia o reproducción; aquí hay un patrón claro de selección -->
-- [ ] B) La selección natural, ya que los individuos con mayor aptitud (éxito reproductivo) transmiten más sus rasgos a la descendencia. <!-- feedback: Correcto: la selección natural favorece a los individuos mejor adaptados que dejan más descendencia -->
-- [ ] C) El flujo génico, ya que genes de otras poblaciones introducen la coloración oscura. <!-- feedback: El flujo génico implica migración de genes entre poblaciones, no la herencia de rasgos ventajosos dentro de una población -->
-- [ ] D) La mutación dirigida, ya que los osos desarrollan pelaje oscuro como respuesta al ambiente. <!-- feedback: Las mutaciones son aleatorias y no son "dirigidas" por las necesidades del organismo -->
+- [ ] A) Los escarabajos marrones deciden volverse verdes para sobrevivir. <!-- feedback: Incorrect. Los individuos no cambian su color a voluntad; la evolución actúa sobre poblaciones, no por deseo individual. -->
+- [ ] B) El ambiente tiñe a los escarabajos de verde mediante la alimentación. <!-- feedback: Incorrect. El color es un rasgo genético, no un pigmento adquirido del entorno de forma directa. -->
+- [x] C) Selección natural: los verdes tienen más probabilidades de sobrevivir y reproducirse. <!-- feedback: Correct. Los individuos con rasgos ventajosos (camuflaje) dejan más descendencia, haciendo que ese rasgo sea más común en la siguiente generación. -->
+- [ ] D) Azar genético extremo sin relación con el entorno. <!-- feedback: Incorrect. Aunque existe el azar, la presión de depredación hace que el cambio sea direccional y no aleatorio. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La selección natural opera cuando los individuos con características que les confieren mayor aptitud biológica (mayor éxito reproductivo) transmiten más sus genes. El distractor A confunde selección con deriva; el C confunde selección con migración de genes; el D representa una comprensión incorrecta del proceso mutacional.
+La selección natural requiere tres condiciones: variabilidad, heredabilidad y éxito reproductivo diferencial. Sin depredadores, el color marrón podría persistir sin problemas.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Análisis de evidencia fosilífera
-**Context:** Museo Nacional de Colombia y colecciones paleontológicas
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-003`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un estudiante visita el Museo Nacional de Colombia y observa un fósil de un antiguo pariente de los perezosos actuales. Compara la estructura de las garras del fósil con las de los perezosos modernos (familia Megalonychidae) y encuentra similitudes morfológicas. Esta comparación representa evidencia evolutiva de tipo:
+Las alas de un murciélago y las aletas pectorales de una ballena tienen estructuras óseas muy similares (húmero, radio, cúbito), a pesar de que cumplen funciones totalmente diferentes (volar vs nadar). Estas estructuras se denominan:
 
-### Options
-- [ ] A) Anatómica comparada, porque compara estructuras homólogas entre especies relacionadas. <!-- feedback: Correcto: la similitud en estructuras anatómicas entre especies emparentadas es evidencia de ascendencia común -->
-- [ ] B) Bioquímica, porque utiliza análisis molecular para establecer relaciones evolutivas. <!-- feedback: El enunciado menciona comparación morfológica, no análisis bioquímico o molecular -->
-- [ ] C) Biogeográfica, porque estudia la distribución geográfica de los organismos. <!-- feedback: La biogeografía estudia la distribución espacial, no la comparación de estructuras morfológicas -->
-- [ ] D) Embriológica, porque compara etapas del desarrollo embrionario. <!-- feedback: La embriología compara desarrollo embrionario, no anatomía adulta de fósiles -->
+- [ ] A) Órganos análogos. <!-- feedback: Incorrect. Los órganos análogos tienen la misma función pero diferente origen evolutivo (ej. ala de insecto vs ala de ave). -->
+- [x] B) Órganos homólogos. <!-- feedback: Correct. Tienen el mismo origen embriológico y evolutivo de un ancestro común, aunque su función haya divergido. -->
+- [ ] C) Órganos vestigiales. <!-- feedback: Incorrect. Los vestigiales son restos de estructuras que ya no cumplen ninguna función (ej. el apéndice o el coxis). -->
+- [ ] D) Mutaciones perjudiciales. <!-- feedback: Incorrect. Estas estructuras son adaptaciones altamente funcionales y exitosas para sus respectivos medios. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. La anatomía comparada estudia las similitudes y diferencias en estructuras corporales entre organismos. Las garras similares sugieren ancestros comunes. El distractor B es plausible pues los estudiantes saben que existen análisis moleculares modernos, pero el enunciado indica comparación morfológica directa.
+La homología es una de las pruebas más fuertes de la evolución común. Revela el "plan corporal" compartido entre grupos de organismos aparentemente muy distintos.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Reconocimiento de conceptos fundamentales de evolución
-**Context:** Estudio de colibríes en los Andes colombianos
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-004`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-Los colibríes del género "Oreotrochotus" que habitan diferentes altitudes en los Andes colombianos presentan variaciones en el tamaño de su pico. Los de mayor altitud tienen picos más largos para alcanzar flores con corolas profundas. Esta relación entre altitud y tamaño del pico representa:
+¿Cuál fue la principal limitación de la teoría de la evolución por selección natural propuesta originalmente por Darwin en 1859?
 
-### Options
-- [ ] A) Una excepción a la selección natural, porque los colibríes no compiten por recursos. <!-- feedback: Los colibríes compiten por recursos florales; esta es una adaptación clásica por selección natural -->
-- [ ] B) Un ejemplo de Selección natural, donde las variaciones heredables que aumentan la supervivencia son favorecidas en cada generación. <!-- feedback: Correcto: los picos más largos en altitude son heredables y confieren ventaja alimenticia -->
-- [ ] C) Un caso de herencia de caracteres adquiridos, donde los picazos desarrollan picos más largos por uso excesivo. <!-- feedback: Lamarckismo: los caracteres adquiridos por uso no se heredan; los caracteres son genéticos -->
-- [ ] D) Una prueba de que la evolución ocurre por saltos grandes y repentinos (saltacionismo). <!-- feedback: La evolución gradual por selección natural opera continuamente, no en saltos súbitos -->
+- [ ] A) No pudo explicar la extinción de los dinosaurios. <!-- feedback: Incorrect. La extinción se integra bien en la teoría darwiniana como falta de adaptación a cambios bruscos. -->
+- [ ] B) No incluyó a los seres humanos en su análisis inicial. <!-- feedback: Incorrect. Darwin sí consideró a los humanos, aunque fue más explícito en obras posteriores. -->
+- [x] C) No conocía los mecanismos de la herencia genética (ADN y genes). <!-- feedback: Correct. Darwin sabía que los rasgos se heredaban, pero no sabía CÓMO ni qué generaba la variabilidad inicial (mutaciones). -->
+- [ ] D) Afirmó que la tierra tenía solo unos pocos miles de años de antigüedad. <!-- feedback: Incorrect. Darwin dependía de la idea de una tierra muy antigua (millones de años) para que la evolución tuviera tiempo de actuar. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Esta es una aplicación clásica del concepto de selección natural: variaciones heredables (largo del pico) que confieren ventajas para obtener alimento (acceder a flores profundas) son seleccionadas favoreciendo a quienes se reproducen más exitosamente. El distractor C representa el的错误 de Lamarck, muy común entre estudiantes.
+La síntesis moderna (neodarwinismo) resolvió este problema al integrar la selección natural con la genética de Mendel y la biología molecular.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Aplicación de conceptos de selección natural
-**Context:** Industria cafetera y resistencia a pesticidas en Colombia
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-005`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En plantations de café del Eje Cafetero colombiano, se ha observado que las poblaciones de broca del café (Hypothenemus hampei) muestran un aumento en la frecuencia de alelos que confieren resistencia a insecticidas organofosforados. Los análisis genéticos demuestran que esta resistencia es heredable. Si esta población de brocas se expone repetidamente al mismo insecticida durante 20 generaciones, lo más probable es que:
+Un agricultor en el Tolima utiliza un mismo insecticida durante 10 años seguidos. Al principio, el producto mataba al 99% de las plagas, pero hoy solo afecta al 10%. Desde una perspectiva evolutiva, esto sucede porque:
 
-### Options
-- [ ] A) La población mantenga la misma frecuencia de alelos resistentes porque los insecticidas no afectan los genes. <!-- feedback: Los insecticidas son agentes selectivos: eliminan individuos susceptibles, permitiendo que los resistentes se reproduzcan más -->
-- [x] B) La frecuencia de alelos resistentes aumente significativamente en la población. <!-- feedback: Correcto: los insecticidas actúan como agente selectivo, eliminando susceptibles y permitiendo la reproducción diferencial de resistentes -->
-- [ ] C) Todos los individuos developan resistencia porque adquirirán el rasgo por exposición repetida. <!-- feedback: Error lamarckiano: la resistencia no se adquiere por exposición, es genética -->
-- [ ] D) La población se extinga completamente por la presión de selección. <!-- feedback: La extinción total es posible pero improbable si existe variabilidad genética; los resistentes sobrevivirían -->
+- [ ] A) Los insectos se han acostumbrado al veneno por puro esfuerzo físico. <!-- feedback: Incorrect. La resistencia no es una cuestión de "acostumbrarse", sino de supervivencia de los que ya tenían genes resistentes. -->
+- [ ] B) El insecticida ha perdido su potencia química por el clima cálido. <!-- feedback: Incorrect. Aunque los químicos se degradan, el fenómeno descrito es la evolución de la resistencia en la población de insectos. -->
+- [x] C) Se seleccionaron los individuos que ya poseían mutaciones de resistencia, quienes sobrevivieron y se reprodujeron. <!-- feedback: Correct. El insecticida actuó como una presión selectiva. Los pocos resistentes repoblaron el campo con descendencia también resistente. -->
+- [ ] D) El insecticida indujo mutaciones beneficiosas en todos los insectos para que no murieran. <!-- feedback: Incorrect. Las mutaciones son azarosas; el insecticida solo selecciona las que ya sirven, no las crea. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Este es un ejemplo clásico de selección artificial/anthropogénica. Los individuos con variantes genéticas favorables para resistir el insecticida tienen mayor probabilidad de sobrevivir y reproducirse, aumentando la frecuencia del alelo en generaciones sucesivas. El distractor A ignora el principio de selección; el C es lamarckismo; el D es posible pero no lo más probable con variabilidad genética.
+Este es un ejemplo de microevolución rápida inducida por el ser humano. La resistencia a antibióticos en bacterias sigue exactamente el mismo principio.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Análisis de mecanismos evolutivos
-**Context:** Conservación de nutrias gigantes en la Amazonia colombiana
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-006`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En la población de nutrias gigantes (Pteronura brasiliensis) del río Caquetá en la Amazonia colombiana,只剩下 50 individuos reproductores. Una tormenta cause que 5 individuos migren a otra bagian del río y establezcan una nueva población. Este evento demográfico representa:
+Jean-Baptiste Lamarck propuso la teoría de los "caracteres adquiridos". Según su idea (hoy considerada incorrecta), si un fisioculturista desarrolla grandes músculos en el gimnasio:
 
-### Options
-- [ ] A) Selección natural, porque solo los más aptos sobrevivieron a la tormenta. <!-- feedback: La tormenta fue un evento aleatorio, no selectivo según aptitud biológica -->
-- [ ] B) Efecto cuello de botella, porque hubo una reducción drástica y aleatoria del tamaño poblacional. <!-- feedback: El efecto cuello de botella se refiere a la reducción de tamaño; aquí el evento principal es la separación de un grupo pequeño -->
-- [ ] C) Efecto fundador, porque un grupo pequeño establece una nueva población con bajo número de genes. <!-- feedback: Correcto: cuando un pequeño grupo de individuos establece una nueva población, hay pérdida de variabilidad genética -->
-- [ ] D) Flujo génico, porque genes de una población migran a otra. <!-- feedback: El flujo génico requiere intercambio genético entre poblaciones establecidas; aquí se crea una nueva población aislada -->
+- [ ] A) Sus hijos nacerían con músculos normales que deberán entrenar. <!-- feedback: Incorrect. Esta es la visión genética actual, pero Lamarck pensaba distinto. -->
+- [x] B) Sus hijos nacerían con una musculatura superior debido al uso intensivo de los músculos por parte del padre. <!-- feedback: Correct. Lamarck creía que los cambios físicos logrados en vida se transmitían directamente a la descendencia (uso y desuso). -->
+- [ ] C) Los músculos del padre se encogerían para ahorrar energía para el bebé. <!-- feedback: Incorrect. Lamarck hablaba de perfeccionamiento y herencia de logros. -->
+- [ ] D) El ADN del padre mutaría específicamente en los genes de los músculos. <!-- feedback: Incorrect. Lamarck no conocía la existencia del ADN ni el concepto de mutación genética. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El efecto fundador ocurre cuando un pequeño grupo de individuos (los 5 que migraron) establece una nueva población. Este grupo representa solo una fracción de la diversidad genética de la población original, lo que puede llevar a deriva genética y pérdida de alelos. El distractor B es plausible porque "cuello de botella" también implica reducción, pero aquí lo crucial es que se forma una nueva población con los genes del grupo fundador.
+Aunque Lamarck se equivocó en el mecanismo, fue un pionero al proponer que la vida cambia con el tiempo y que el ambiente influye en ese cambio.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Comprensión de conceptos de especiación
-**Context:** Investigación sobre ranas venenosas en la Serranía de la Macarena
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-007`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Dos poblaciones de ranas venenosas del género "Dendrobates" habitan bosques en lados opuestos de una montaña en la Serranía de la Macarena. Aunque morfológicamente son muy similares, los análisis genéticos revelan que no se cruzan naturalmente y sus llamadas de apareamiento son diferentes. Estas poblaciones representan:
+En una población aislada de aves en el Chocó, una tormenta arrastra a un pequeño grupo de 5 individuos hacia una isla lejana donde no hay otros miembros de su especie. La nueva población que se forme en la isla tendrá una diversidad genética mucho menor que la original. Este fenómeno se conoce como:
 
-### Options
-- [ ] A) La misma especie porque morfológicamente son idénticas. <!-- feedback: La morfología no es el único criterio para definir especie; la incompatibility reproductiva es clave -->
-- [ ] B) Variaciones intraespecíficas porque habitan el mismo bioma. <!-- feedback: No habitan el mismo bioma; están separadas geográficamente por la montaña -->
-- [ ] C) Especies distintas porque están reproductivamente aisladas. <!-- feedback: Correcto: el concepto biológico de especie se basa en el aislamiento reproductivo; estas poblaciones no se cruzan naturalmente -->
-- [ ] D) Especiación simpátrica porque coexisten geográficamente. <!-- feedback: Están alopátricas (separadas por una barrera geográfica), no simpátricas -->
+- [ ] A) Selección sexual. <!-- feedback: Incorrect. La selección sexual depende de la elección de pareja por ciertos rasgos, no del aislamiento. -->
+- [x] B) Efecto fundador (Deriva genética). <!-- feedback: Correct. Ocurre cuando un grupo pequeño inicia una nueva población; el "muestreo" de genes es limitado y no representa toda la variedad del grupo original. -->
+- [ ] C) Especiación simpátrica. <!-- feedback: Incorrect. La especiación simpátrica ocurre sin separación geográfica; aquí hay una separación física clara (isla). -->
+- [ ] D) Panmixia. <!-- feedback: Incorrect. Panmixia significa que todos los individuos tienen la misma probabilidad de cruzarse, lo opuesto al aislamiento genético. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Según el concepto biológico de especie de Mayr, dos poblaciones son especies distintas si están reproductivamente aisladas, aunque sean morfológicamente similares. Las diferencias en llamadas de apareamiento y la ausencia de cruces naturales constituyen aislamiento reproductivo prezigótico. El distractor A confunde morfología con especie; el D incorrectly aplica el concepto de especiación simpátrica.
+La deriva genética es un cambio aleatorio en las frecuencias génicas. En poblaciones pequeñas, el azar tiene un impacto mucho mayor que en poblaciones grandes.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Interpretación de diagramas evolutivos
-**Context:** Árbol filogenético de primates en investigaciones de la Universidad Nacional de Colombia
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-008`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Un investigador construye un árbol filogenético basado en secuencias de ADN mitocondrial de primates colombianos. El árbol muestra que los monos nocturnos (Aotus spp.) se agrupan más cercanamente con los titíes (Saguinus spp.) que con los monos capuchinos (Cebus spp.). Respecto a este árbol, ¿qué se puede inferir?
+El registro fósil muestra que los ancestros de los caballos modernos eran pequeños, tenían múltiples dedos en sus patas y vivían en bosques. A medida que el clima cambió y aparecieron las praderas, evolucionaron hacia animales más grandes con un solo dedo (pezuña) apto para correr. ¿Qué tipo de selección describe este cambio constante hacia un extremo?
 
-### Options
-- [ ] A) Los monos nocturnos evolucionaron a partir de titíes porque comparten genes similares. <!-- feedback: Los árboles filogenéticos no indican ancestros directos; muestran relaciones de parentesco, no descendencia -->
-- [ ] B) Los titíes y monos nocturnos comparten un ancestro común más reciente entre sí que con los capuchinos. <!-- feedback: Correcto: la agrupacion más cercana indica ancestro común más reciente (principio de máxima parsimonia) -->
-- [ ] C) Los monos capuchinos son más primitivos porque están más alejados en el árbol. <!-- feedback: La posición en el árbol no indica primitividad; todos los taxa han evolucionado por igual tiempo -->
-- [ ] D) Los titíes y monos nocturnos no están emparentados porque tienen hábitats diferentes. <!-- feedback: La cercanía en el árbol indica emparentamiento cercano, independientemente del hábitat actual -->
+- [ ] A) Selección estabilizadora. <!-- feedback: Incorrect. La estabilizadora favorece los rasgos promedio y elimina los extremos. -->
+- [x] B) Selección direccional. <!-- feedback: Correct. Se favorece un fenotipo extremo (mayor tamaño, menos dedos) sobre el promedio, desplazando la curva de la población hacia ese rasgo. -->
+- [ ] C) Selección disruptiva. <!-- feedback: Incorrect. La disruptiva favorece ambos extremos y elimina el promedio (puede llevar a especiación). -->
+- [ ] D) Selección artificial. <!-- feedback: Incorrect. Este cambio fue impulsado por cambios climáticos naturales, no por la intervención humana deliberada. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. En un árbol filogenético, los taxa que se agrupan más cercanamente comparten un ancestro común más reciente entre ellos que con otros taxa del árbol. El distractor A es un error conceptual de "lectura lineal" del árbol; el C confunde posición en el árbol con avance evolutivo; el D contradice la información del árbol por confundir hábitat con parentesco.
+La selección direccional es común cuando el ambiente cambia de forma sostenida en una dirección, empujando a las especies a adaptarse a las nuevas condiciones predominantes.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Evaluación de mecanismos evolutivos
-**Context:** Estudio de murciélagos frugívoros en la Chocó biogeográfico
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En una población de murciélagos frugívoros (Artibeus jamaicensis) del Chocó biogeográfico, se observó que la variedad genética (heterocigosidad) es muy alta. Los investigadores proponen tres hipótesis: 1) Selección estabilizadora manteniendo variabilidad, 2) Una población grande con alta tasa de mutación, y 3) Migración constante de individuos de otras poblaciones. ¿Cuál hipótesis es más consistente con los datos?
+Dos especies de ranas en la Amazonía colombiana viven en el mismo estanque, pero una se reproduce en enero y la otra en junio. Aunque son muy similares, nunca se cruzan. Este es un ejemplo de:
 
-### Options
-- [ ] A) La selección estabilizadora, porque mantiene las variantes genéticas sin cambios entre generaciones. <!-- feedback: La selección estabilizadora reduce la variabilidad, no la mantiene alta -->
-- [ ] B) Una población grande con alta tasa de mutación, porque las poblaciones grandes mantienen más variabilidad y las mutaciones generan nuevas variantes. <!-- feedback: Correcto: poblaciones grandes tienen más variabilidad genética, y las mutaciones generan diversidad >
-- [ ] C) La migración constante, porque si todos los individuos migraran traerían nuevos genes. <!-- feedback: No todos los individuos migran; migración constante implica flujo génico pero no es la explicación más parsimoniosa >
-- [ ] D) Cualquiera de las tres es igualmente válida porque todas aumentan la heterocigosidad. <!-- feedback: No todas son igualmente válidas; la selección estabilizadora reduce la variabilidad, contradictoriamente >
+- [ ] A) Aislamiento geográfico. <!-- feedback: Incorrect. Viven en el mismo lugar (estanque); no hay barreras físicas. -->
+- [x] B) Aislamiento precigótico temporal. <!-- feedback: Correct. Las barreras precigóticas impiden la formación del cigoto; en este caso, la diferencia en los tiempos de reproducción (ritmo estacional) impide el cruce. -->
+- [ ] C) Inviabilidad de los híbridos. <!-- feedback: Incorrect. Esto sería una barrera postcigótica (el embrión muere o nace estéril). -->
+- [ ] D) Aislamiento conductual. <!-- feedback: Incorrect. El conductual se basa en rituales de cortejo; aquí el factor clave es el tiempo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las poblaciones grandes tienden a mantener mayor variabilidad genética porque la deriva genética es más débil (los alelos raros tienen mayor probabilidad de mantenerse). Además, las mutaciones generan continuamente nuevas variantes. El distractor A es contradictorio porque la selección estabilizadora reduce variabilidad. El D no considera que la selección estabilizadora no es consistente con alta heterocigosidad.
+El aislamiento reproductivo es lo que define a las especies biológicas. Si no hay flujo de genes, las poblaciones pueden divergir hasta convertirse en entidades evolutivas distintas.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Comprensión de adaptaciones y supervivencia
-**Context:** Análisis de resistencia bacteriana en hospitales de Bogotá
-
-### Enunciado
-En un hospital de Bogotá, se aisla una cepa de Staphylococcus aureus resistente a meticilina (SARM). Los análisis genéticos revelan que esta resistencia es conferida por el gen mecA, que codifica una proteína que evita la unión del antibiótico a la pared bacteriana. Respecto al mecanismo evolutivo involucrado, ¿cuál afirmación es correcta?
-
-### Options
-- [ ] A) El gen mecA surgió como respuesta directa de las bacterias a la exposición al antibiótico. <!-- feedback: Las mutaciones son aleatorias; no son "dirigidas" por las necesidades del organismo >
-- [ ] B) El gen mecA se transmitió horizontalmente desde otra especie bacteriana a S. aureus. <!-- feedback: Es posible pero no es el único mecanismo; puede haber surgido por mutación >
-
----
-
-## Question 11 (Variant Basic - Difficulty D7)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis crítico de la teoría evolutiva
-**Context:** Debate sobre conservación de jaguares en la Amazonia colombiana
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-010`
+**Bloom:** [Understand]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En un programa de conservación de jaguares (Panthera onca) en la Amazonia colombiana, se plantea si los individuos de las poblaciones del sur del Caquetá deberían mezclarse con los del norte para aumentar la diversidad genética. Un biólogo argumenta que mezclarlos podría perjudicar la adaptación local. Respecto a este dilema, ¿cuál análisis es más pertinente?
+El concepto de "aptitud" (fitness) en la evolución se define mejor como:
 
-### Options
-- [ ] A) Mezclar las poblaciones siempre aumenta la aptitud porque aumenta la variabilidad genética. <!-- feedback: No siempre; puede introducir alelos mal adaptados localmente >
-- [x] B) Evaluar si existen adaptaciones locales que podrían perderse con la mezcla, ya que caracteres favorables en un ambiente pueden no serlo en otro. <!-- feedback: Correcto: la aptitud depende del contexto ambiental;adaptaciones locales pueden ser ventajas localmente >
-- [ ] C) Las adaptaciones locales no importan porque la selección natural siempre selecciona los mejores alelos. <!-- feedback: La selección opera sobre la población local; perder adaptaciones locales puede reducir la aptitud >
-- [ ] D) Siempre es mejor mantener las poblaciones separadas para preservar la integridad de las especies. <!-- feedback: En algunos casos mezclar puede ser necesario para evitar depresión por endogamia >
+- [ ] A) La fuerza física y el tamaño del individuo. <!-- feedback: Incorrect. Un individuo fuerte que no deja descendencia tiene aptitud cero. -->
+- [ ] B) La inteligencia para escapar de los depredadores. <!-- feedback: Incorrect. La inteligencia ayuda, pero la medida real es la reproducción exitosa. -->
+- [x] C) La capacidad de sobrevivir y dejar descendencia fértil para la siguiente generación. <!-- feedback: Correct. La aptitud es una medida del éxito reproductivo relativo de un genotipo. -->
+- [ ] D) La velocidad de crecimiento de un organismo. <!-- feedback: Incorrect. Crecer rápido no garantiza que los genes pasen a la posteridad si el organismo muere antes de reproducirse. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las adaptaciones locales son resultado de la selección natural en ambientes específicos y pueden ser ventajosas solo en esos contextos. Mezclar poblaciones puede diluir combinaciones genéticas beneficiosas localmente. El distractor A es simplista; el C no reconoce la importancia del contexto local; el D absolute no considera los riesgos de endogamia.
+Evolutivamente, solo "cuenta" lo que pasa a la siguiente generación. La selección natural favorece cualquier rasgo que maximice el número de nietos, no necesariamente la salud o longevidad del individuo.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de evidencia evolutiva
-**Context:** Interpretación de datos moleculares en鱼类 del río Magdalena
-
-### Enunciado
-Un estudio molecular de los peces de la familia Characidae en diferentes cuencas del río Magdalena reveló que los del alto Magdalena y los del bajo Magdalena presentan diferencias significativas en las secuencias del gen citocromo b, aunque morfológicamente son muy similares. Un investigador propone que estas poblaciones deberían considerarse especies distintas. Para evaluar esta hipótesis, ¿qué evidencia adicional sería más informativa?
-
-### Options
-- [ ] A) Más datos morfológicos para confirmar si hay diferencias físicas sutiles. <!-- feedback: La morfología ya sugiere相似; más datos no resolverían el problema de especies crípticas >
-
----
-
-## Question 13 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Síntesis de conceptos de evolución
-**Context:** Investigación sobre anfibios en los Andes occidentales colombianos
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-En los Andes occidentales de Colombia, se encuentran poblaciones de ranas de cristal (Centrolenidae) que habita quebradas pequeñas. El cambio climático ha causado que varias quebradas se sequen estacionalmente. Un investigador predice que: 1) las poblaciones en quebradas que se secan completamente desaparecerán, 2) las poblaciones en quebradas con agua residual persistente sobrevivir mejor, y 3) eventualmente las poblaciones sobrevivientes desarrollaron tolerancia a la desecación. Respecto a esta predicción, ¿cuál análisis es más apropiado?
+Al comparar las secuencias de ADN de cuatro especies (Humano, Chimpancé, Perro y Pollo), se encuentra que el Humano y el Chimpancé comparten el 98% de su secuencia, mientras que el Humano y el Pollo comparten solo el 60%. ¿Qué conclusión evolutiva es correcta?
 
-### Options
-- [ ] A) Las tres predicciones son igualmente probables porque todas son posibles. <!-- feedback: La extinción local es muy probable; el desarrollo de tolerancia requiere variabilidad genética previa o mutación >
-- [ ] B) La selección natural podría favorecer individuos con mayor tolerancia a la desecación si existe variabilidad genética para este rasgo en la población. <!-- feedback: Correcto: si existe variación heredable para tolerancia, la selección puede actuar sobre ella >
-- [ ] C) Los anfibios desarrollarían necesariamente tolerancia porque la necesidad impulsa la evolución. <!-- feedback: Lamarckismo: la necesidad no impulsa la evolución; requiere variabilidad genética >
-- [ ] D) Las poblaciones desaparecerían inevitablemente porque no pueden adaptarse suficientemente rápido. <!-- feedback: No necesariamente; depende de la variabilidad genética existente >
+- [ ] A) El pollo es un ancestro directo del ser humano. <!-- feedback: Incorrect. Compartir genes indica ancestros comunes, no descendencia directa de una especie moderna de otra. -->
+- [x] B) El Humano y el Chimpancé tuvieron un ancestro común mucho más reciente que el Humano y el Pollo. <!-- feedback: Correct. A mayor similitud molecular, menor es el tiempo transcurrido desde la divergencia de las especies. -->
+- [ ] C) El ADN del pollo ha evolucionado más rápido que el de los mamíferos. <!-- feedback: Incorrect. La tasa de mutación puede variar, pero la similitud refleja principalmente el parentesco filogenético. -->
+- [ ] D) No existe ninguna relación evolutiva entre aves y mamíferos. <!-- feedback: Incorrect. Compartir el 60% del ADN es una prueba masiva de que todas las formas de vida terrestres están relacionadas. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La selección natural puede favorecer tolerancia a la desecación solo si existe variación heredable para este rasgo. El distractor A es incorrecto porque las tres predicciones tienen probabilidades muy diferentes. El C es lamarckismo; el D es determinista y no considera la variabilidad genética existente.
+La biología molecular es el "reloj" de la evolución. Al contar las diferencias en las bases del ADN, los científicos pueden reconstruir el árbol de la vida (filogenia) con gran precisión.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Análisis de patrones evolutivos
-**Context:** Estudio de mariposas morpho en los parques nacionales de Colombia
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Las mariposas Morpho (Morpho spp.) del Parque Nacional Natural Farallones de Cali presentan coloración azul brillante, mientras que las de la Sierra Nevada de Santa Marta tienen tonalidades más violáceas. Un estudiante afirma que estas diferencias demuestran que las dos poblaciones están en proceso de especiación. Respecto a esta afirmación, ¿cuál evaluación es más rigurosa?
+La ballena azul tiene pequeños huesos de la pelvis y el fémur enterrados profundamente en sus músculos, los cuales no están conectados a la columna vertebral ni tienen función en la natación. Estos se consideran:
 
-### Options
-- [ ] A) Es correcta porque diferencias en coloración siempre indican especiación. <!-- feedback: Las diferencias fenotípicas no demuestran aislamiento reproductivo >
-- [ ] B) No es correcta porque las diferencias pueden ser plasticidad fenotípica sin base genética. <!-- feedback: Posible, pero no necessarily negate especiación; requiere más evidencia >
-- [x] C) Se requieren más datos sobre si existe aislamiento reproductivo entre las poblaciones antes de concluir especiación. <!-- feedback: Correcto: la especiación requiere aislamiento reproductivo, no solo diferenciación fenotípica >
-- [ ] D) Es correcta si las diferencias son heredables y afectan el apareamiento. <!-- feedback: Parcialmente correcto, pero no aborda si actualmente hay aislamiento reproductivo >
+- [ ] A) Adaptaciones futuras para caminar en la tierra. <!-- feedback: Incorrect. La evolución no tiene previsión; no "prepara" rasgos para el futuro. -->
+- [ ] B) Errores de desarrollo embriológico sin importancia. <!-- feedback: Incorrect. Son estructuras constantes en la especie que revelan su pasado. -->
+- [x] C) Estructuras vestigiales que indican que los ancestros de las ballenas eran mamíferos terrestres cuadrúpedos. <!-- feedback: Correct. Los vestigios son "huellas" de órganos que fueron útiles en los ancestros pero que ya no se necesitan en el estilo de vida actual. -->
+- [ ] D) Órganos análogos a las patas de los peces. <!-- feedback: Incorrect. Las ballenas son mamíferos, sus ancestros tenían patas verdaderas, no aletas de pez. -->
 
-### Explicación Pedag
+### Explicación Pedagógica
+Las estructuras vestigiales son como fósiles vivientes dentro del cuerpo. Demuestran que la evolución no siempre "diseña" desde cero, sino que modifica estructuras preexistentes.
+
+---
+
+## Question 13 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-013`
+**Bloom:** [Evaluate]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+La teoría del "Equilibrio Puntuado" propuesta por Stephen Jay Gould sugiere que:
+
+- [ ] A) La evolución ocurre a un ritmo constante y lento durante millones de años. <!-- feedback: Incorrect. Este es el gradualismo clásico darwiniano. -->
+- [x] B) Las especies pasan largos periodos de estabilidad (estasis) interrumpidos por estallidos cortos de cambios rápidos y especiación. <!-- feedback: Correct. Explica por qué a veces no encontramos "eslabones perdidos" en el registro fósil para todas las etapas. -->
+- [ ] C) La vida se originó en la tierra múltiples veces en diferentes puntos geográficos. <!-- feedback: Incorrect. La evidencia apunta a un único origen común (LUCA). -->
+- [ ] D) Solo los organismos más grandes sobreviven a las extinciones masivas. <!-- feedback: Incorrect. Históricamente, tras las extinciones masivas, suelen ser los organismos pequeños y generalistas los que sobreviven y se diversifican. -->
+
+### Explicación Pedagógica
+El equilibrio puntuado no contradice la selección natural, sino que propone una dinámica temporal diferente para la macroevolución, a menudo ligada a cambios ambientales drásticos.
+
+---
+
+## Question 14 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
+
+### Enunciado
+El pavo real macho tiene una cola enorme, pesada y colorida que lo hace muy visible ante los depredadores y dificulta su vuelo. A pesar de estos costos para su supervivencia, este rasgo ha evolucionado debido a:
+
+- [ ] A) Mutaciones aleatorias que no han podido ser eliminadas. <!-- feedback: Incorrect. Un rasgo tan costoso sería rápidamente eliminado si no tuviera una ventaja compensatoria. -->
+- [ ] B) Selección direccional para camuflarse en las flores exóticas. <!-- feedback: Incorrect. La cola del pavo real es todo lo opuesto al camuflaje. -->
+- [x] C) Selección sexual: las hembras prefieren aparearse con machos que tienen colas más grandes y brillantes. <!-- feedback: Correct. La selección sexual favorece rasgos que aumentan el éxito de apareamiento, incluso si reducen las probabilidades de supervivencia individual. -->
+- [ ] D) Especiación alopátrica inducida por la dieta. <!-- feedback: Incorrect. No tiene que ver con la separación geográfica o la alimentación. -->
+
+### Explicación Pedagógica
+La selección sexual explica los rasgos extravagantes y el dimorfismo sexual. Funciona como un indicador de "buenos genes" o salud, ya que solo un macho muy sano puede costearse el lujo de mantener una estructura tan pesada.
+
+---
+
+## Question 15 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-015`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+Se dice que los humanos y los cerdos han desarrollado una capa de grasa subcutánea similar para conservar el calor, a pesar de pertenecer a órdenes de mamíferos diferentes. Este es un ejemplo de:
+
+- [ ] A) Homología estructural. <!-- feedback: Incorrect. No se está analizando el origen óseo o embriológico común, sino la función de la grasa. -->
+- [x] B) Evolución convergente. <!-- feedback: Correct. Ocurre cuando presiones ambientales similares (necesidad de termorregulación) llevan a soluciones biológicas parecidas en grupos distintos. -->
+- [ ] C) Coevolución depredador-presa. <!-- feedback: Incorrect. No hay una interacción biológica de beneficio o daño mutuo que impulse el rasgo. -->
+- [ ] D) Deriva genética por efecto de cuello de botella. <!-- feedback: Incorrect. La grasa subcutánea es una adaptación funcional, no un cambio azaroso. -->
+
+### Explicación Pedagógica
+La convergencia evolutiva produce órganos análogos. Otros ejemplos clásicos son la forma hidrodinámica de los delfines (mamíferos) y los tiburones (peces).
+
+---
+
+## Question 16 [D7-D8]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-016`
+**Bloom:** [Evaluate]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Cuál de los siguientes eventos se considera una "fuerza evolutiva" que puede cambiar las frecuencias de los alelos en una población?
+
+- [ ] A) La respiración celular aeróbica. <!-- feedback: Incorrect. Es un proceso metabólico, no un mecanismo evolutivo. -->
+- [ ] B) La homeostasis térmica de los mamíferos. <!-- feedback: Incorrect. Es un proceso de equilibrio fisiológico individual. -->
+- [x] C) El flujo génico (migración de individuos entre poblaciones). <!-- feedback: Correct. La llegada de nuevos individuos introduce nuevos alelos o cambia las proporciones de los existentes, alterando el acervo genético. -->
+- [ ] D) La sucesión ecológica primaria tras un incendio. <!-- feedback: Incorrect. Esto describe el cambio de comunidades en un ecosistema, no la evolución de una población. -->
+
+### Explicación Pedagógica
+Las fuerzas evolutivas principales son: Selección Natural, Mutación, Deriva Genética y Flujo Génico. Sin alguna de estas, la población estaría en equilibrio de Hardy-Weinberg (sin evolucionar).
+
+---
+
+## Question 17 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+En una población en equilibrio de Hardy-Weinberg, la frecuencia del alelo recesivo "$q$" es 0.4. ¿Cuál es la frecuencia esperada de individuos heterocigotos ($2pq$) en la población?
+
+- [ ] A) 0.16 <!-- feedback: Incorrect. Este es el valor de $q^2$ (homocigotos recesivos). -->
+- [ ] B) 0.36 <!-- feedback: Incorrect. Este es el valor de $p^2$ (homocigotos dominantes), ya que $p = 1 - 0.4 = 0.6$. -->
+- [x] C) 0.48 <!-- feedback: Correct. Si $q = 0.4$, entonces $p = 0.6$ (ya que $p+q=1$). La frecuencia de heterocigotos es $2pq = 2 \times 0.6 \times 0.4 = 0.48$. -->
+- [ ] D) 0.60 <!-- feedback: Incorrect. Este es el valor del alelo dominante $p$, no la frecuencia del genotipo heterocigoto. -->
+
+### Explicación Pedagógica
+Hardy-Weinberg proporciona un modelo matemático nulo para la genética de poblaciones. Si las frecuencias reales difieren de estas predicciones, significa que alguna fuerza evolutiva está actuando sobre la población.
+
+---
+
+## Question 18 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-018`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
+
+### Enunciado
+El "altruismo biológico", donde un individuo ayuda a otro a riesgo de su propia vida (como las abejas obreras que no se reproducen), se explica evolutivamente mediante la "Selección de Parentesco" (Kin Selection) porque:
+
+- [ ] A) Las abejas son seres conscientes que valoran la ética grupal. <!-- feedback: Incorrect. El comportamiento animal se basa en instintos moldeados por la selección, no en ética moral. -->
+- [ ] B) El sacrificio individual asegura que la especie no se extinga. <!-- feedback: Incorrect. La selección natural actúa principalmente sobre genes e individuos, no sobre el "bien de la especie". -->
+- [x] C) Al ayudar a parientes cercanos, el individuo asegura la supervivencia de copias de sus propios genes. <!-- feedback: Correct. Según la Regla de Hamilton, el rasgo altruista evoluciona si el beneficio al pariente (pesado por el grado de parentesco) supera el costo individual. -->
+- [ ] D) Los depredadores no atacan a los grupos que cooperan. <!-- feedback: Incorrect. Aunque sea una ventaja secundaria, no explica por qué unos individuos renuncian totalmente a reproducirse. -->
+
+### Explicación Pedagógica
+La evolución es la supervivencia de la información genética. Si ayudar a un hermano salva más copias de mis genes que reproducirme yo solo, el altruismo será favorecido por la selección.
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Uso de conceptos]
+
+### Enunciado
+La teoría de la Endosimbiosis Seriada (Lynn Margulis) explica el origen de las células eucariotas a partir de:
+
+- [ ] A) La fusión de múltiples virus gigantes que crearon el núcleo. <!-- feedback: Incorrect. Aunque existen teorías virales para el núcleo, la endosimbiosis se refiere a orgánulos metabólicos. -->
+- [ ] B) Mutaciones puntuales en el ADN de bacterias antiguas que las hicieron crecer. <!-- feedback: Incorrect. La complejidad eucariota no surgió por pequeños cambios, sino por una unión masiva de organismos. -->
+- [x] C) Bacterias de vida libre que fueron ingeridas por otras y se convirtieron en mitocondrias y cloroplastos. <!-- feedback: Correct. La prueba es que estos orgánulos tienen su propio ADN circular, doble membrana y ribosomas de tipo bacteriano. -->
+- [ ] D) La fragmentación de una célula gigante en compartimentos internos. <!-- feedback: Incorrect. La mayoría de los orgánulos membranosos (como el Golgi) pudieron surgir por invaginación, pero mitocondrias y cloroplastos tienen un origen externo claro. -->
+
+### Explicación Pedagógica
+La evolución no siempre es competitiva (selección natural), a veces es cooperativa (simbiogénesis). Este evento permitió el salto de complejidad necesario para la vida multicelular.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P3-evolucion-biologia-079-MASTERY-020`
+**Bloom:** [Create]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+Se dice que la evolución es un proceso "oportunista" y no un ingeniero perfecto. Un ejemplo claro de esto en el ojo de los vertebrados es que los nervios y vasos sanguíneos pasan por delante de la retina, creando un "punto ciego". En contraste, los pulpos tienen los nervios detrás de la retina y no tienen punto ciego. ¿Qué lección evolutiva nos deja esto?
+
+- [ ] A) Los pulpos son más evolucionados que los humanos. <!-- feedback: Incorrect. No existe el término "más evolucionado"; cada especie está adaptada a su nicho. -->
+- [ ] B) La evolución siempre encuentra la mejor solución posible a la primera. <!-- feedback: Incorrect. Al contrario, el ojo de vertebrado es una solución subóptima pero funcional que quedó "fijada". -->
+- [x] C) La evolución trabaja modificando lo que ya existe, a menudo llevando a diseños con fallas históricas (imperfección adaptativa). <!-- feedback: Correct. Los rasgos dependen de la trayectoria histórica y los materiales disponibles en el ancestro; no hay un diseño inteligente desde cero. -->
+- [ ] D) El punto ciego es una ventaja para detectar movimientos laterales. <!-- feedback: Incorrect. El punto ciego es una limitación visual que el cerebro debe compensar mediante procesamiento de imagen. -->
+
+### Explicación Pedagógica
+Este es el concepto de "bricolaje evolutivo". La selección natural favorece lo que funciona "lo suficientemente bien" para sobrevivir, no necesariamente la perfección técnica.

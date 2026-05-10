@@ -22,6 +22,7 @@ generation:
 # ESTADO DE CALIDAD
 quality_status: "UNREVISED"
 generation_status: "RAW"
+needs_human_review: true
 
 # CURACIÓN
 curation:
