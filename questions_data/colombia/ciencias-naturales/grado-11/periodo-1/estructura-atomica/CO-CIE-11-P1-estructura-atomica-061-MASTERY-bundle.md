@@ -1,50 +1,3 @@
-<think>
-The user wants me to generate exactly 20 questions in the ICFES Saber 11 format for Colombian Sciences Naturales, topic "estructura-atomica" (atomic structure), grade 11, period 1.
-
-Let me follow the exact format with:
-- Frontmatter YAML header
-- 20 questions with progressive difficulty:
-  - Questions 1-4: Difficulty D3-D4 (Basic)
-  - Questions 5-10: Difficulty D5-D6 (Medium)
-  - Questions 11-16: Difficulty D7-D8 (Advanced)
-  - Questions 17-20: Difficulty D9-D10 (Expert)
-
-Each question must include:
-- Variant and Difficulty level
-- ID with specific format
-- Bloom taxonomy level
-- ICFES competence
-- Colombian context
-- Clear statement (enunciado)
-- 4 options (A, B, C, D) with correct one marked with [x]
-- Explanatory feedback
-- Pedagogical explanation
-
-Let me create these questions focusing on atomic structure:
-
-Topics to cover:
-1. Subatomic particles (protons, neutrons, electrons)
-2. Atomic number and mass number
-3. Isotopes
-4. Ions
-5. Electron configuration
-6. Quantum numbers
-7. Bohr model
-8. Modern atomic model
-9. Periodic table organization
-10. Periodic properties
-11. Electromagnetic radiation
-12. Photoelectric effect
-13. Wave-particle duality
-14. Valencia electrons
-15. Ionization energy
-16. Electronegativity
-
-I'll make sure to include Colombian context where relevant - Colombian mining, Colombian scientists, Colombian industry applications, etc.
-
-Let me create the questions:
-</think>
-
 ---
 id: "CO-CIE-11-P1-estructura-atomica-061-MASTERY"
 country: "colombia"
@@ -53,25 +6,16 @@ asignatura: "ciencias-naturales"
 tema: "estructura-atomica"
 periodo: 1
 protocol_version: "5.1"
-bundle_size: 20
 bundle_index: 61
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T18:37:00.107271"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.25"
+  simulated_responses: 100
+rubric_baseline: "particulas_subatomicas, configuracion_electronica, propiedades_periodicas"
 ---
 
 ## Question 1 (Variant Basic - Difficulty D3)
@@ -79,19 +23,19 @@ open_source: false
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Indagación
-**Context:** Laboratorios escolares colombianos
+**Expected_Success:** 0.85
 
 ### Enunciado
-En un laboratorio de química del Colegio Nacional de Bogotá, un estudiante observa mediante un modelo didático que el átomo de carbono tiene 6 protones en su núcleo. ¿Cuántos electrones posee este átomo en estado neutro?
+En un laboratorio de química en Bogotá, un estudiante observa un modelo del átomo de carbono. Si el núcleo tiene 6 protones y el átomo es neutro, ¿cuántos electrones orbitan alrededor del núcleo?
 
 ### Options
-- [ ] A) 12 electrones, porque el número másico es el doble del atómico
-- [ ] B) 6 electrones, porque en un átomo neutro el número de electrones es igual al número de protones <!-- feedback: Error común: confundir número atómico con número másico -->
-- [x] C) 6 electrones, porque en un átomo neutro el número de electrones es igual al número de protones <!-- feedback: En un átomo neutro, la carga eléctrica total es cero, por lo tanto, el número de electrones (carga negativa) debe ser igual al número de protones (carga positiva) -->
-- [ ] D) 0 electrones, porque los electrones se encuentran fuera del núcleo <!-- feedback: Aunque los electrones están fuera del núcleo, siguen siendo parte del átomo -->
+- [ ] A) 12 electrones <!-- feedback: Incorrecto. Este número corresponde al número másico promedio, no al número de electrones. -->
+- [ ] B) 0 electrones <!-- feedback: Incorrecto. Un átomo neutro debe tener electrones para compensar la carga positiva de los protones. -->
+- [x] C) 6 electrones <!-- feedback: Correcto. En un átomo neutro, el número de electrones (carga negativa) es igual al número de protones (carga positiva). -->
+- [ ] D) 3 electrones <!-- feedback: Incorrecto. Este número no guarda relación con la neutralidad del átomo de carbono. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. En un átomo neutro, las cargas positivas (protones) deben equilibrar las cargas negativas (electrones). El número atómico (Z) indica tanto los protones como, en estado neutro, los electrones. El error común es confundir Z con el número másico (A) o pensar que los electrones "no cuentan" porque están fuera del núcleo.
+En un átomo neutro, las cargas positivas de los protones en el núcleo deben ser compensadas por una cantidad igual de electrones negativos en la corteza. Como el carbono tiene Z=6, posee 6 protones y, por ende, 6 electrones.
 
 ---
 
@@ -100,20 +44,19 @@ La respuesta correcta es C. En un átomo neutro, las cargas positivas (protones)
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Uso de conceptos científicos
-**Context:** Minería colombiana de carbón en la Guajira
+**Expected_Success:** 0.75
 
 ### Enunciado
-El carbón mineral explotado en la Guajira colombiana contiene carbono con número atómico 6 y número másico 14. ¿Cuál es la configuración correcta de las partículas subatómicas de este átomo?
+El carbón extraído en las minas de El Cerrejón (La Guajira) contiene isótopos de carbono. Si un átomo de carbono-14 tiene número atómico 6 y número másico 14, ¿cuál es su composición de partículas subatómicas?
 
 ### Options
-- [ ] A) 6 protones, 14 neutrones y 6 electrones
-- [ ] B) 6 protones, 8 neutrones y 6 electrones <!-- feedback: Error: calcular neutrones como A-Z=14-6=8 es correcto, pero otros valores son incorrectos -->
-- [x] B) 6 protones, 8 neutrones y 6 electrones <!-- feedback: Correcto: protones = Z = 6, neutrones = A-Z = 14-6 = 8, electrones = 6 en átomo neutro -->
-- [ ] C) 14 protones, 6 neutrones y 14 electrones
-- [ ] D) 8 protones, 6 neutrones y 6 electrones
+- [ ] A) 6 protones, 14 neutrones y 6 electrones <!-- feedback: Incorrecto. 14 es el número másico (protones + neutrones), no solo el número de neutrones. -->
+- [x] B) 6 protones, 8 neutrones y 6 electrones <!-- feedback: Correcto. Protones = Z = 6. Neutrones = A - Z = 14 - 6 = 8. Electrones = Protones = 6 en estado neutro. -->
+- [ ] C) 14 protones, 6 neutrones y 14 electrones <!-- feedback: Incorrecto. Se han intercambiado los valores del número atómico y el número másico. -->
+- [ ] D) 8 protones, 6 neutrones y 6 electrones <!-- feedback: Incorrecto. El número de protones define al elemento y para el carbono siempre es 6. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El número atómico (6) indica los protones, el número másico (14) menos el número atómico da los neutrones (8), y en estado neutro los electrones igualan a los protones. El error frecuente es usar el número másico como número de protones o invertir protones y neutrones.
+El número atómico (Z) indica los protones. El número másico (A) es la suma de protones y neutrones. Restando A - Z obtenemos los neutrones (14 - 6 = 8). En un átomo neutro, los electrones igualan a los protones.
 
 ---
 
@@ -121,21 +64,20 @@ La respuesta correcta es B. El número atómico (6) indica los protones, el núm
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Explicación de fenómenos
-**Context:** Industria de fertilizantes en Córdoba
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.80
 
 ### Enunciado
-Una fábrica de fertilizantes en Córdoba utiliza nitrógeno (N) que tiene número atómico 7. ¿A qué grupo de la tabla periódica pertenece este elemento?
+En la industria de fertilizantes en el departamento de Córdoba, se utiliza nitrógeno (Z=7). ¿A qué grupo de la tabla periódica pertenece este elemento basándose en su configuración electrónica?
 
 ### Options
-- [ ] A) Grupo 1, porque tiene 7 electrones de valencia
-- [ ] B) Grupo 15, porque tiene 7 electrones de valencia <!-- feedback: Error: confundir número atómico con electrones de valencia -->
-- [x] B) Grupo 15, porque tiene 5 electrones de valencia <!-- feedback: Correcto: los elementos del Grupo 15 tienen 5 electrones en su capa de valencia; el nitrógeno tiene configuración 2,5 -->
-- [ ] C) Grupo 7, porque su número atómico es 7
-- [ ] D) Grupo 2, porque tiene 2 niveles de energía
+- [ ] A) Grupo 7 <!-- feedback: Incorrecto. El número atómico no define directamente el número de grupo en el sistema moderno. -->
+- [x] B) Grupo 15 <!-- feedback: Correcto. El nitrógeno tiene 5 electrones de valencia (2s² 2p³), lo que lo sitúa en el grupo 15 (o VA). -->
+- [ ] C) Grupo 2 <!-- feedback: Incorrecto. Este grupo corresponde a los metales alcalinotérreos con 2 electrones de valencia. -->
+- [ ] D) Grupo 17 <!-- feedback: Incorrecto. Este grupo corresponde a los halógenos con 7 electrones de valencia. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El nitrógeno tiene configuración electrónica 1s² 2s² 2p³, lo que significa 5 electrones en el último nivel (valencia), ubicándolo en el Grupo 15. Un error común es confundir el número atómico con los electrones de valencia o no saber que los grupos van del 1 al 18.
+La configuración del nitrógeno es 1s² 2s² 2p³. Al tener 5 electrones en su último nivel de energía, pertenece al grupo 15 de la tabla periódica.
 
 ---
 
@@ -144,293 +86,352 @@ La respuesta correcta es B. El nitrógeno tiene configuración electrónica 1s²
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Estudios ambientales en el Páramo de Sumapaz
+**Expected_Success:** 0.70
 
 ### Enunciado
-Un investigador del IDEAM estudia el oxígeno-16 (O-16) y el oxígeno-18 (O-18) presentes en muestras de agua del páramo de Sumapaz. ¿Qué diferencia fundamental existe entre estos dos isótopos de oxígeno?
+Científicos del IDEAM analizan isótopos de oxígeno en el agua del Páramo de Sumapaz para estudiar el cambio climático. ¿En qué se diferencian fundamentalmente los isótopos Oxígeno-16 y Oxígeno-18?
 
 ### Options
-- [ ] A) Different number of protons in the nucleus
-- [ ] B) Different electronic configuration in the outer shell
-- [x] C) Different number of neutrons in the nucleus <!-- feedback: Isotopes are atoms of the same element with different mass numbers due to different number of neutrons -->
-- [ ] D) Different chemical properties due to electron difference
+- [ ] A) En el número de protones <!-- feedback: Incorrecto. Si tuvieran diferente número de protones, serían elementos químicos distintos. -->
+- [ ] B) En su configuración electrónica <!-- feedback: Incorrecto. Los isótopos de un mismo elemento tienen la misma configuración electrónica. -->
+- [x] C) En el número de neutrones <!-- feedback: Correcto. Los isótopos son átomos del mismo elemento con igual número de protones pero diferente número de neutrones. -->
+- [ ] D) En su carga eléctrica <!-- feedback: Incorrecto. Ambos son átomos neutros; la diferencia de neutrones no afecta la carga. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Los isótopos son átomos del mismo elemento (mismo número de protones y electrones) que difieren en el número de neutrones, lo que provoca diferente número másico. Tienen propiedades químicas similares porque la química depende de los electrones de valencia, no de los neutrones.
+Los isótopos se definen como átomos de un mismo elemento (mismo Z) que poseen diferente número de neutrones, lo que resulta en diferentes números másicos (A).
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Uso de conceptos científicos
-**Context:** Producción de aluminio en Medellín
+**Expected_Success:** 0.65
 
 ### Enunciado
-El aluminio metálico producido en plantas de Medellín tiene número atómico 13. ¿Cuál es la distribución de electrones por niveles de energía para el Al en estado fundamental?
+El aluminio (Z=13) es un metal clave en la industria de Medellín. ¿Cuál es la distribución correcta de sus electrones por niveles de energía (n=1, 2, 3) en su estado fundamental?
 
 ### Options
-- [ ] A) 2-8-3
-- [ ] B) 2-8-2-1
-- [x] A) 2-8-3 <!-- feedback: Correcto: la configuración electrónica es 2, 8, 3 siguiendo el orden de llenado según el principio de Aufbau -->
-- [ ] C) 2-3-8
-- [ ] D) 13-8
+- [x] A) 2, 8, 3 <!-- feedback: Correcto. Siguiendo el orden de llenado: nivel 1 (2e⁻), nivel 2 (8e⁻) y nivel 3 (3e⁻). -->
+- [ ] B) 2, 9, 2 <!-- feedback: Incorrecto. El segundo nivel de energía tiene una capacidad máxima de 8 electrones. -->
+- [ ] C) 2, 7, 4 <!-- feedback: Incorrecto. El segundo nivel se llena con 8 electrones antes de pasar al tercero en el aluminio. -->
+- [ ] D) 8, 4, 1 <!-- feedback: Incorrecto. Los electrones deben llenar primero los niveles de menor energía (más internos). -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. El aluminio tiene 13 electrones distribuidos según el principio de Aufbau: 2 en el primer nivel, 8 en el segundo y 3 en el tercer nivel. El error frecuente es confundir el orden de llenado o pensar que los electrones se distribuyen uniformemente.
+El aluminio tiene 13 electrones. Se distribuyen 2 en el primer nivel (1s²), 8 en el segundo (2s² 2p⁶) y los 3 restantes en el tercero (3s² 3p¹).
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Datación de fósiles en la Sierra Nevada de Santa Marta
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un arqueólogo utiliza la técnica de datación por carbono-14 para determinar la edad de un hueso encontrado cerca de la Sierra Nevada de Santa Marta. Si el carbono-14 tiene 6 protones y 8 neutrones, ¿cuál es su número másico?
+Un arqueólogo en la Sierra Nevada de Santa Marta utiliza la datación por Carbono-14. Este isótopo es inestable y tiene 6 protones y 8 neutrones. ¿Cuál es el número másico (A) de este átomo?
 
 ### Options
-- [ ] A) 6, igual al número de protones
-- [ ] B) 8, igual al número de neutrones
-- [x] C) 14, la suma de protones y neutrones <!-- feedback: El número másico (A) es la suma de protones (Z) y neutrones (N): 6 + 8 = 14 -->
-- [ ] D) 2, la diferencia entre neutrones y protones
+- [ ] A) 6 <!-- feedback: Incorrecto. 6 es el número atómico (protones). -->
+- [ ] B) 8 <!-- feedback: Incorrecto. 8 es el número de neutrones. -->
+- [x] C) 14 <!-- feedback: Correcto. El número másico es la suma de protones y neutrones (6 + 8 = 14). -->
+- [ ] D) 2 <!-- feedback: Incorrecto. Este valor parece ser la diferencia entre neutrones y protones, lo cual no define el número másico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El número másico se calcula como A = Z + N (protones + neutrones). Para el carbono-14: 6 + 8 = 14. Un error común es confundir el número másico con solo protones o solo neutrones.
+El número másico (A) representa la masa aproximada del núcleo, calculada como la suma de los protones y los neutrones presentes en él.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D6)
+## Question 7 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Agricultura en el Valle del Cauca
+**Expected_Success:** 0.55
 
 ### Enunciado
-El ion calcio (Ca²⁺) es esencial para el desarrollo de cultivos de caña de azúcar en el Valle del Cauca. Si el calcio tiene número atómico 20, ¿cuántos electrones posee el ion Ca²⁺?
+En los cultivos de caña de azúcar del Valle del Cauca, el calcio es vital. Si un átomo de calcio (Z=20) pierde dos electrones para formar el ion Ca²⁺, ¿cuántos electrones tendrá este ion?
 
 ### Options
-- [ ] A) 20 electrones, igual que el átomo neutro
-- [ ] B) 22 electrones, porque ganó 2 electrones
-- [x] C) 18 electrones, porque perdió 2 electrones <!-- feedback: Correcto: Ca²⁺ significa que perdió 2 electrones, por lo tanto tiene 20-2 = 18 electrones -->
-- [ ] D) 40 electrones, igual al número másico del calcio
+- [ ] A) 22 electrones <!-- feedback: Incorrecto. Un ion con carga positiva (+) indica pérdida de electrones, no ganancia. -->
+- [ ] B) 20 electrones <!-- feedback: Incorrecto. Este es el número de electrones del átomo neutro, no del ion. -->
+- [x] C) 18 electrones <!-- feedback: Correcto. Al perder 2 electrones, un átomo con 20 electrones originales queda con 18. -->
+- [ ] D) 40 electrones <!-- feedback: Incorrecto. Este valor suele confundirse con el número másico del calcio. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Un ion positivo (catión) se forma cuando el átomo pierde electrones. Ca²⁺ indica pérdida de 2 electrones, pasando de 20 electrones (átomo neutro) a 18 electrones. El error común es confundir cationes con aniones o pensar que el superíndice indica protones.
+La formación de un catión (ion positivo) implica la pérdida de electrones. La carga 2+ indica que el átomo ha perdido dos cargas negativas, por lo que restamos 2 al número original de electrones (20 - 2 = 18).
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D5)
+## Question 8 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v8`
 **Bloom:** Understand
 **ICFES:** Uso de conceptos científicos
-**Context:** Yerba mate colombiana en Antoquia
+**Expected_Success:** 0.65
 
 ### Enunciado
-La yerba mate que se cultiva en Antioquia contiene potasio (K), elemento del Grupo 1 de la tabla periódica. ¿Cuántos electrones de valencia tiene el potasio?
+El potasio (K) es un elemento esencial para la agricultura colombiana. Si se encuentra en el Grupo 1 y Periodo 4 de la tabla periódica, ¿cuántos electrones de valencia posee?
 
 ### Options
-- [ ] A) 1 electrón de valencia, porque está en el Grupo 1
-- [ ] B) 19 electrones de valencia, porque tiene número atómico 19
-- [x] A) 1 electrón de valencia, porque está en el Grupo 1 <!-- feedback: Los elementos del Grupo 1 tienen 1 electrón en su capa de valencia externa -->
-- [ ] C) 8 electrones de valencia, para cumplir la regla del octeto
-- [ ] D) 4 electrones de valencia, porque tiene 4 niveles de energía
+- [x] A) 1 electrón <!-- feedback: Correcto. Los elementos del Grupo 1 (metales alcalinos) tienen un solo electrón en su capa de valencia. -->
+- [ ] B) 4 electrones <!-- feedback: Incorrecto. 4 es el periodo, lo que indica que tiene 4 niveles de energía, no 4 electrones de valencia. -->
+- [ ] C) 19 electrones <!-- feedback: Incorrecto. 19 es el número atómico total, no los electrones de valencia (externos). -->
+- [ ] D) 8 electrones <!-- feedback: Incorrecto. 8 electrones de valencia corresponden a los gases nobles (Grupo 18). -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Los elementos del Grupo 1 (metales alcalinos) tienen configuración ns¹, es decir, 1 electrón en su capa de valencia. El número de electrones de valencia corresponde al número de grupo para elementos de los grupos principales (A). El potasio tiene configuración 2-8-8-1.
+El número de grupo para los elementos representativos indica la cantidad de electrones en el último nivel de energía o capa de valencia. El potasio, al estar en el grupo 1, tiene 1 electrón de valencia.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
-**Context:** Purificación de agua en Bogotá
+**Expected_Success:** 0.58
 
 ### Enunciado
-En una planta de tratamiento de agua de Bogotá se utiliza cloro (Cl) para desinfectar. El cloro tiene número atómico 17 y número másico 35. ¿Cuántos neutrones posee un átomo de cloro-35?
+Para la desinfección del agua en plantas de tratamiento en Colombia se usa cloro. El isótopo Cloro-35 tiene Z=17. ¿Cuántos neutrones se encuentran en el núcleo de este átomo?
 
 ### Options
-- [ ] A) 17 neutrones, igual al número de protones
-- [ ] B) 35 neutrones, igual al número másico
-- [x] C) 18 neutrones, resultado de restar Z de A <!-- feedback: Correcto: neutrones = A - Z = 35 - 17 = 18 neutrones -->
-- [ ] D) 52 neutrones, la suma de Z y A
+- [ ] A) 35 neutrones <!-- feedback: Incorrecto. 35 es el número másico (A), la suma de protones y neutrones. -->
+- [ ] B) 17 neutrones <!-- feedback: Incorrecto. 17 es el número de protones (Z). -->
+- [x] C) 18 neutrones <!-- feedback: Correcto. Los neutrones se calculan como A - Z = 35 - 17 = 18. -->
+- [ ] D) 52 neutrones <!-- feedback: Incorrecto. Este valor es la suma errónea de A y Z. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Para calcular neutrones: N = A - Z = 35 - 17 = 18. Este es un cálculo fundamental en química. Los errores comunes incluyen no saber la fórmula o confundir las variables.
+El número de neutrones se obtiene restando el número atómico (protones) del número másico (total de nucleones). Para el Cl-35: 35 - 17 = 18 neutrones.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D5)
+## Question 10 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Indagación
-**Context:** Exploración petrolera en los Llanos Orientales
+**Expected_Success:** 0.62
 
 ### Enunciado
-Un geólogo estudia el elemento uranio que se encuentra en formaciones geológicas de los Llanos Orientales. El uranio-235 tiene 92 protones y 143 neutrones. ¿Cuál es su número másico?
+En investigaciones geológicas en los Llanos Orientales, se analiza el uranio. Un átomo de Uranio-235 tiene 92 protones. ¿Cuántos neutrones posee su núcleo?
 
 ### Options
-- [ ] A) 92, el número de protones
-- [ ] B) 143, el número de neutrones
-- [x] C) 235, la suma de protones y neutrones <!-- feedback: El número másico es A = Z + N = 92 + 143 = 235 -->
-- [ ] D) 51, la diferencia entre neutrones y protones
+- [ ] A) 92 neutrones <!-- feedback: Incorrecto. 92 es el número atómico, igual a los protones. -->
+- [ ] B) 235 neutrones <!-- feedback: Incorrecto. 235 es el número másico total. -->
+- [x] C) 143 neutrones <!-- feedback: Correcto. Los neutrones son A - Z = 235 - 92 = 143. -->
+- [ ] D) 327 neutrones <!-- feedback: Incorrecto. Este valor es la suma de protones y número másico, lo cual no tiene sentido físico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El número másico (A) es la suma del número de protones (Z) y el número de neutrones (N). Esta es una relación fundamental que los estudiantes deben dominar para entender isótopos y energía nuclear.
+La identidad química del uranio está dada por sus 92 protones. La masa total del núcleo (235) menos los protones (92) nos da la cantidad de neutrones (143).
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Uso de conceptos científicos
-**Context:** Industria petroquímica de Barrancabermeja
+**Expected_Success:** 0.48
 
 ### Enunciado
-En la refinería de Barrancabermeja se trabaja con átomos de carbono que tienen 6 electrones. Según el modelo atómico de Bohr, ¿cuál es la configuración electrónica correcta del carbono en su estado fundamental?
+En la refinería de Barrancabermeja, el carbono es fundamental. Según el principio de exclusión de Pauli y la regla de Hund, ¿cuál es la configuración electrónica detallada del carbono (Z=6) en su estado fundamental?
 
 ### Options
-- [ ] A) 1s² 2s² 2p²
-- [ ] B) 1s² 2s⁴ 2p⁰
-- [x] A) 1s² 2s² 2p² <!-- feedback: Correcto: siguiendo el principio de Aufbau y la regla de Hund, el carbono (Z=6) tiene configuración 1s² 2s² 2p² -->
-- [ ] C) 1s² 2s² 2p⁶
-- [ ] D) 1s² 2s⁴
+- [x] A) 1s² 2s² 2pₓ¹ 2pᵧ¹ <!-- feedback: Correcto. Sigue el principio de Aufbau y la regla de Hund, distribuyendo los últimos 2 electrones en orbitales p diferentes con espines paralelos. -->
+- [ ] B) 1s² 2s² 2pₓ² <!-- feedback: Incorrecto. Viola la regla de Hund, que establece que los electrones deben ocupar orbitales degenerados individualmente antes de aparearse. -->
+- [ ] C) 1s² 2s¹ 2p³ <!-- feedback: Incorrecto. Esta configuración corresponde a un estado excitado del carbono, no al estado fundamental. -->
+- [ ] D) 1s² 2s² 2p⁶ <!-- feedback: Incorrecto. Esta configuración tiene 10 electrones, correspondiente al neón, no al carbono. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. La configuración electrónica sigue el orden de llenado: 1s → 2s → 2p. Con 6 electrones: 2 en 1s, 2 en 2s, y 2 en 2p. El orbital 2p se reparte como un electrón en dos orbitales diferentes (regla de Hund). El error común es sobrellenar orbitales o saltarse niveles.
+El carbono tiene 6 electrones. Los primeros 4 llenan los orbitales 1s y 2s. Los 2 restantes entran en el subnivel 2p; según la regla de Hund, se ubican en orbitales distintos (pₓ y pᵧ) para minimizar la repulsión electrónica.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v12`
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
-**Context:** Producción de electrodomésticos en Rionegro
+**Expected_Success:** 0.45
 
 ### Enunciado
-Una empresa de electrodomésticos en Rionegro utiliza hierro (Fe, Z=26) en sus productos. ¿Cuántos electrones tiene el Fe³⁺?
+El hierro (Z=26) es vital en la industria metalúrgica de Boyacá. Cuando el hierro forma el catión Fe³⁺, pierde tres electrones. ¿Cuál es la configuración electrónica de este ion?
 
 ### Options
-- [ ] A) 26 electrones, igual al átomo neutro
-- [ ] B) 29 electrones, porque ganó 3 electrones
-- [x] C) 23 electrones, porque perdió 3 electrones <!-- feedback: Correcto: Fe³⁺ indica pérdida de 3 electrones, por lo tanto 26-3 = 23 electrones -->
-- [ ] D) 3 electrones, porque solo quedaron los de valencia
+- [ ] A) [Ar] 4s² 3d³ <!-- feedback: Incorrecto. Los electrones se pierden primero del nivel más externo, que es el 4s, antes que del 3d. -->
+- [ ] B) [Ar] 4s¹ 3d⁴ <!-- feedback: Incorrecto. No sigue el orden correcto de pérdida de electrones para metales de transición. -->
+- [x] C) [Ar] 3d⁵ <!-- feedback: Correcto. Se pierden los 2 electrones del orbital 4s y 1 del orbital 3d, quedando 5 electrones en el subnivel 3d. -->
+- [ ] D) [Ar] 4s² 3d⁶ <!-- feedback: Incorrecto. Esta es la configuración del átomo neutro, no del ion Fe³⁺. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El superíndice + indica pérdida de electrones. Fe³⁺ significa que el hierro perdió 3 electrones. Los cationes de metales de transición pueden perder electrones del orbital 4s antes que de los 3d, y el Fe comúnmente forma Fe³⁺ en compuestos como el óxido férrico.
+En los metales de transición, al ionizarse, se pierden primero los electrones del orbital 's' del nivel más externo (en este caso 4s) y luego los del orbital 'd' del nivel penúltimo (3d).
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D8)
+## Question 13 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Uso de conceptos científicos
-**Context:** Biodiversidad marina del Caribe colombiano
+**Expected_Success:** 0.42
 
 ### Enunciado
-El yodo (I) es un oligoelemento esencial que se encuentra en el océano Pacífico colombiano y es necesario para la función tiroidea. Si el yodo tiene Z=53, ¿cuál es su configuración electrónica correcta?
+El yodo (Z=53) se utiliza en la industria química y médica en Colombia. ¿Cuál es la configuración electrónica abreviada correcta del yodo en su estado fundamental?
 
 ### Options
-- [ ] A) [Kr] 4d¹⁰ 5s² 5p⁵
-- [ ] B) [Kr] 5s² 5p⁵ 4d¹⁰
-- [x] A) [Kr] 4d¹⁰ 5s² 5p⁵ <!-- feedback: Correcto: la configuración del Kr es 36 electrones, más 4d¹⁰ (10e⁻), 5s² (2e⁻) y 5p⁵ (5e⁻), total 53 electrones -->
-- [ ] C) [Xe] 5s² 5p⁵
-- [ ] D) [Ar] 4d¹⁰ 5s² 5p⁵
+- [x] A) [Kr] 4d¹⁰ 5s² 5p⁵ <!-- feedback: Correcto. El kriptón (Z=36) es el gas noble anterior; sumando los 17 electrones restantes (10+2+5) obtenemos 53. -->
+- [ ] B) [Xe] 5s² 5p⁵ <!-- feedback: Incorrecto. El xenón (Z=54) ya tiene un electrón más que el yodo; no puede ser la base de su configuración. -->
+- [ ] C) [Kr] 5s² 5p⁵ <!-- feedback: Incorrecto. Olvida incluir los 10 electrones del subnivel 4d que se llenan antes del 5p. -->
+- [ ] D) [Ar] 3d¹⁰ 4s² 4p⁶ 5s² 5p⁵ <!-- feedback: Incorrecto. Aunque la suma es correcta, no utiliza el gas noble inmediatamente anterior (Kr). -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. El yodo (Z=53) tiene como gas noble anterior al Kr (Z=36). Su configuración es [Kr] 4d¹⁰ 5s² 5p⁵, con 7 electrones de valencia (Grupo 17). Un error frecuente es usar Xe en lugar de Kr o invertir el orden de los orbitales 4d y 5s/5p.
+La configuración sigue el orden de energía: [Kr] (36e⁻), luego 5s² (38e⁻), 4d¹⁰ (48e⁻) y finalmente 5p⁵ (53e⁻). Generalmente se escribe ordenando por nivel principal: [Kr] 4d¹⁰ 5s² 5p⁵.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v14`
 **Bloom:** Apply
 **ICFES:** Indagación
-**Context:** Minería de esmeraldas en Boyacá
+**Expected_Success:** 0.50
 
 ### Enunciado
-El berilio (Be) es un metal ligero utilizado en aleaciones para la industria joyera que trabaja esmeraldas en Boyacá. Si el Be tiene Z=4, ¿cuántos electrones de valencia posee según el modelo de Bohr?
+En la minería de esmeraldas, se encuentran rastros de berilio (Z=4). ¿Cuáles son los cuatro números cuánticos (n, l, m, s) del último electrón del átomo de berilio en su estado fundamental?
 
 ### Options
-- [ ] A) 4 electrones de valencia, todos los electrones del átomo
-- [ ] B) 2 electrones de valencia, ubicados en el segundo nivel
-- [x] B) 2 electrones de valencia, ubicados en el segundo nivel <!-- feedback: Correcto: Be tiene configuración 2-2, con 2 electrones en el segundo nivel (capa de valencia) -->
-- [ ] C) 6 electrones de valencia, para completar el octeto
-- [ ] D) 1 electrón de valencia, porque está en el Grupo 2
+- [ ] A) (1, 0, 0, -1/2) <!-- feedback: Incorrecto. Estos números corresponden al segundo electrón del primer nivel (1s²). -->
+- [x] B) (2, 0, 0, -1/2) <!-- feedback: Correcto. El Be termina en 2s²; n=2, l=0 (orbital s), m=0 y el segundo electrón tiene espín opuesto. -->
+- [ ] C) (2, 1, 0, +1/2) <!-- feedback: Incorrecto. l=1 corresponde a un orbital p, pero el berilio no tiene electrones en el subnivel p. -->
+- [ ] D) (2, 0, 0, +1/2) <!-- feedback: Incorrecto. Este corresponde al penúltimo electrón (el primero del orbital 2s). -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El berilio tiene configuración 1s² 2s², lo que significa que tiene 2 electrones en el segundo nivel (n=2), que es su capa de valencia. Los metales alcalinotérreos (Grupo 2) tienen 2 electrones de valencia. El error común es confundir "todos los electrones" con "electrones de valencia".
+La configuración del berilio es 1s² 2s². El último electrón está en el nivel n=2, subnivel s (l=0), único orbital m=0, y al ser el segundo del orbital, tiene espín -1/2.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v15`
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
-**Context:** Laboratorios farmacéuticos en Cali
+**Expected_Success:** 0.40
 
 ### Enunciado
-En un laboratorio farmacéutico de Cali se sintetiza aspirina (ácido acetilsalicílico) que contiene oxígeno (O). Un estudiante afirma que el O²⁻ tiene 10 electrones y número másico 16. Respecto al átomo neutro de oxígeno, ¿qué se puede concluir sobre el O²⁻?
+Un investigador de la Universidad Nacional estudia el ion óxido (O²⁻). Comparando este ion con el átomo neutro de oxígeno (Z=8, A=16), ¿cuál de las siguientes afirmaciones sobre el O²⁻ es correcta?
 
 ### Options
-- [ ] A) Tiene 8 protones, 8 neutrones y 10 electrones, por lo tanto su carga es -2
-- [ ] B) Tiene 8 protones, 8 neutrones y 6 electrones, por lo tanto su carga es +2
-- [x] A) Tiene 8 protones, 8 neutrones y 10 electrones, por lo tanto su carga es -2 <!-- feedback: Correcto: O (Z=8) neutro tiene 8e⁻; O²⁻ tiene 8+2=10e⁻; neutrones = 16-8=8; la carga es -2 por los 2 electrones adicionales -->
-- [ ] C) Tiene 16 protones, 8 neutrones y 8 electrones
-- [ ] D) Tiene 8 protones, 16 neutrones y 8 electrones
+- [x] A) Tiene el mismo número de protones pero mayor radio atómico que el átomo neutro. <!-- feedback: Correcto. Los protones no cambian, pero el exceso de electrones aumenta la repulsión y expande la nube electrónica. -->
+- [ ] B) Tiene 10 protones y 10 electrones, lo que le da carga neutra. <!-- feedback: Incorrecto. El número de protones define al elemento (oxígeno=8) y no cambia en procesos químicos. -->
+- [ ] C) Es más pequeño que el átomo neutro porque tiene más electrones para atraer al núcleo. <!-- feedback: Incorrecto. Al haber más electrones, la repulsión electrónica supera el efecto de atracción nuclear, aumentando el tamaño. -->
+- [ ] D) Posee 6 electrones de valencia al igual que el átomo neutro. <!-- feedback: Incorrecto. Al ganar 2 electrones, el ion O²⁻ completa su octeto, teniendo 8 electrones de valencia. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. El número atómico (protones) no cambia al formar iones. El O²⁻ ganó 2 electrones (de 8 a 10), resultando en carga neta -2. El número másico sigue siendo 16, con 8 neutrones. Un error común es confundir electrones con protones o pensar que los iones cambian su número atómico.
+Los aniones siempre son más grandes que sus átomos neutros correspondientes debido a que la repulsión entre el mayor número de electrones hace que la nube electrónica se expanda, mientras la carga nuclear permanece constante.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D7)
+## Question 16 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v16`
 **Bloom:** Understand
 **ICFES:** Uso de conceptos científicos
-**Context:** Construcción de vivienda en Medellín
+**Expected_Success:** 0.46
 
 ### Enunciado
-El aluminio (Al, Z=13) se usa ampliamente en la construcción de ventanas en Medellín. ¿Cuál es el número máximo de electrones que puede contener el tercer nivel de energía (n=3)?
+En el diseño de materiales semiconductores en Colombia, se analiza el tercer nivel de energía (n=3). ¿Cuál es el número máximo de electrones que este nivel puede albergar teóricamente y qué subniveles lo componen?
 
 ### Options
-- [ ] A) 2 electrones, igual que el primer nivel
-- [ ] B) 8 electrones, igual que el segundo nivel
-- [x] C) 18 electrones, porque 2n² = 2(3)² = 18 <!-- feedback: Correcto: la fórmula 2n² indica la capacidad de electrones por nivel; para n=3: 2(3)² = 18 electrones -->
-- [ ] D) 32 electrones, la capacidad del cuarto nivel
+- [ ] A) 8 electrones; subniveles s y p. <!-- feedback: Incorrecto. Esto corresponde al segundo nivel (n=2). -->
+- [ ] B) 10 electrones; subnivel d únicamente. <!-- feedback: Incorrecto. El subnivel d solo alberga 10, pero el nivel 3 incluye otros subniveles. -->
+- [x] C) 18 electrones; subniveles s, p y d. <!-- feedback: Correcto. El número máximo es 2n² = 2(3)² = 18. Los subniveles son 3s, 3p y 3d. -->
+- [ ] D) 32 electrones; subniveles s, p, d y f. <!-- feedback: Incorrecto. Esto corresponde al cuarto nivel (n=4). -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La fórmula 2n² calcula la capacidad máxima de electrones por nivel: n=1 (2e⁻), n=2 (8e⁻), n=3 (18e⁻), n=4 (32e⁻). El tercer nivel tiene subniveles s, p, d, f, que juntos acomodan hasta 18 electrones.
+La capacidad electrónica de un nivel se define por 2n². Para n=3, es 18. Los subniveles permitidos dependen del número cuántico secundario (l) que va de 0 a n-1 (0, 1, 2), correspondiendo a s, p y d.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 (Variant Expert - Difficulty D9)
 
 **ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v17`
 **Bloom:** Create
 **ICFES:** Indagación
-**Context:** Energía nuclear en Colombia
+**Expected_Success:** 0.35
 
 ### Enunciado
-Colombia ha mostrado interés en desarrollar tecnología nuclear con fines pacíficos. El isótopo uranio-235 se utiliza como combustible nuclear. ¿Cuál de las siguientes combinaciones de partículas representa correctamente al U-235?
+Un físico nuclear en el reactor de investigación IAN-R1 en Bogotá analiza la estabilidad del Uranio-235. Si este núcleo sufre una fisión al capturar un neutrón, ¿qué cambio ocurre inicialmente en su estructura atómica antes de dividirse?
 
 ### Options
-- [ ] A) 92 protones, 92 neutrones, 92 electrones
-- [ ] B) 92 protones, 143 neutrones, 92 electrones
-- [x] B) 92 protones, 143 neutrones, 92 electrones <!-- feedback: Correcto: U tiene Z=92; para U-235, neutrones = 235-92 = 143; en estado neutro tiene 92 electrones -->
-- [ ] C) 92 protones, 235 neutrones, 92 electrones
-- [ ] D) 143 protones, 92 neutrones, 143 electrones
+- [ ] A) El número atómico aumenta a 93, convirtiéndose en Neptunio. <!-- feedback: Incorrecto. La captura de un neutrón cambia la masa, no el número de protones inicialmente. -->
+- [x] B) El número másico aumenta a 236, formando un núcleo excitado e inestable. <!-- feedback: Correcto. El neutrón se suma a la masa (235+1), creando U-236, cuya inestabilidad provoca la fisión. -->
+- [ ] C) Se pierden 2 protones para compensar la energía del nuevo neutrón. <!-- feedback: Incorrecto. Los protones no se pierden espontáneamente para "compensar" la masa del neutrón capturado. -->
+- [ ] D) El átomo gana un electrón para mantener la neutralidad eléctrica con el nuevo neutrón. <!-- feedback: Incorrecto. Los neutrones no tienen carga; su captura no requiere cambios en la corteza electrónica para la neutralidad. -->
+
+### Explicación Pedagógica
+La captura neutrónica transforma el U-235 en U-236. Este isótopo es extremadamente inestable y altamente excitado; su energía interna supera las fuerzas de cohesión nuclear, llevándolo a la división o fisión nuclear.
+
+---
+
+## Question 18 (Variant Expert - Difficulty D9)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v18`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.32
+
+### Enunciado
+En un experimento de espectroscopía en la Universidad del Valle, se observa el efecto fotoeléctrico usando una placa de cesio. Si se ilumina la placa con luz cuya energía es exactamente igual a la función de trabajo (Φ) del metal, ¿qué ocurrirá con los electrones?
+
+### Options
+- [ ] A) Los electrones serán emitidos con una energía cinética muy alta. <!-- feedback: Incorrecto. Si la energía es igual a la función de trabajo, no sobra energía para la velocidad (energía cinética). -->
+- [x] B) Los electrones se desprenderán de la superficie pero su energía cinética será cero. <!-- feedback: Correcto. La energía del fotón alcanza solo para vencer la atracción del metal (función de trabajo), sin dejar remanente para el movimiento. -->
+- [ ] C) No habrá emisión de electrones porque se requiere que la energía sea el doble de la función de trabajo. <!-- feedback: Incorrecto. La emisión comienza justo cuando la energía del fotón iguala la función de trabajo. -->
+- [ ] D) Se emitirán protones en lugar de electrones debido a la alta frecuencia. <!-- feedback: Incorrecto. El efecto fotoeléctrico involucra exclusivamente el desprendimiento de electrones. -->
+
+### Explicación Pedagógica
+Según la ecuación de Einstein para el efecto fotoeléctrico: E_fotón = Φ + Ec. Si E_fotón = Φ, entonces la energía cinética (Ec) debe ser cero. Es el umbral de emisión.
+
+---
+
+## Question 19 (Variant Expert - Difficulty D10)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Uso de conceptos científicos
+**Expected_Success:** 0.28
+
+### Enunciado
+Investigadores en nanotecnología en Medellín aplican el principio de incertidumbre de Heisenberg para estudiar electrones en "puntos cuánticos". Si se logra reducir la incertidumbre en la posición (Δx) de un electrón a un nivel extremadamente pequeño, ¿cuál es la consecuencia necesaria para su momentum (Δp)?
+
+### Options
+- [ ] A) La incertidumbre en el momentum también disminuirá proporcionalmente. <!-- feedback: Incorrecto. El principio establece una relación inversa; al disminuir una incertidumbre, la otra debe aumentar. -->
+- [x] B) La incertidumbre en el momentum aumentará de tal forma que el producto Δx·Δp ≥ h/4π. <!-- feedback: Correcto. Es imposible conocer con precisión absoluta ambos valores simultáneamente; restringir la posición "dispara" la incertidumbre en la velocidad. -->
+- [ ] C) El electrón se detendrá por completo para permitir una medición exacta. <!-- feedback: Incorrecto. Un electrón con posición definida tendría momentum infinito, lo que implica que nunca puede estar en reposo absoluto. -->
+- [ ] D) El espín del electrón cambiará de dirección para compensar la precisión. <!-- feedback: Incorrecto. El principio de incertidumbre no rige la orientación del espín de esta manera. -->
+
+### Explicación Pedagógica
+El principio de incertidumbre de Heisenberg es una propiedad intrínseca de los sistemas cuánticos. No es una limitación de los instrumentos, sino una naturaleza de la materia: la precisión en la localización espacial conlleva una indeterminación en la energía cinética y dirección.
+
+---
+
+## Question 20 (Variant Expert - Difficulty D10)
+
+**ID:** `CO-CIE-11-P1-estructura-atomica-061-MASTERY-v20`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.25
+
+### Enunciado
+En un estudio sobre superconductores en la Universidad de los Andes, se analiza la configuración electrónica del Lantano (Z=57). ¿Por qué el Lantano es el primer elemento de la serie de los lantánidos a pesar de que su electrón diferenciador entra en un orbital 5d y no en un 4f?
+
+### Options
+- [ ] A) Porque el orbital 4f tiene menor energía que el 5d en el Lantano. <!-- feedback: Incorrecto. En el Lantano, el 5d es ligeramente más estable que el 4f, por eso se llena primero. -->
+- [x] B) Porque marca el inicio de la transición hacia el llenado de los orbitales 4f en los elementos siguientes. <!-- feedback: Correcto. Aunque el La usa 5d¹, los elementos que le siguen (Ce, Pr, etc.) comienzan a llenar el subnivel 4f, compartiendo propiedades químicas. -->
+- [ ] C) Porque el orbital 5d y el 4f son idénticos en forma y energía. <!-- feedback: Incorrecto. Tienen formas (número cuántico l) y energías diferentes, aunque muy cercanas en esta zona de la tabla. -->
+- [ ] D) Porque el núcleo de Lantano expulsa los electrones 4f debido a la repulsión interna. <!-- feedback: Incorrecto. El núcleo no "expulsa" electrones; la configuración depende de la estabilidad energética de los orbitales. -->
+
+### Explicación Pedagógica
+El Lantano ([Xe] 5d¹ 6s²) es una anomalía en el orden de llenado. Su posición como "padre" de los lantánidos se debe a que su comportamiento químico es el prototipo de la serie, y a partir del Cerio (Z=58), el orbital 4f se vuelve energéticamente más favorable y comienza a llenarse.
