@@ -53,6 +53,14 @@ export interface SiteShellContent {
     ctaLabel: string;
     ctaButton: string;
   };
+  preparacion: {
+    heroIntro: string;
+    step1Title: string;
+    step1Description: string;
+    step2Title: string;
+    step2Description: string;
+    planOfficialNote?: string;
+  };
 }
 
 type SiteShellContentOverride = {
@@ -63,6 +71,7 @@ type SiteShellContentOverride = {
     github?: Partial<ContactLinkCopy>;
     email?: Partial<ContactLinkCopy>;
   };
+  preparacion?: Partial<SiteShellContent['preparacion']>;
 };
 
 function buildDefaultContent(countryConfig: RuntimeCountryConfig): SiteShellContent {
@@ -166,6 +175,14 @@ function buildDefaultContent(countryConfig: RuntimeCountryConfig): SiteShellCont
       ],
       ctaLabel: 'Listo para entrar al producto?',
       ctaButton: 'Iniciar practica'
+    },
+    preparacion: {
+      heroIntro: `Desde la convocatoria institucional hasta tu primera ruta de practica para ${examLabel}.`,
+      step1Title: 'Confirma tu convocatoria',
+      step1Description: `Revisa la convocatoria oficial de ${authority}, valida requisitos y confirma fechas vigentes.`,
+      step2Title: 'Registro oficial',
+      step2Description: 'Completa tu registro o ficha de admision asegurando que tus datos coincidan con tus documentos oficiales.',
+      planOfficialNote: `Cuando una convocatoria cambie, la fuente oficial de ${authority} prevalece sobre cualquier resumen interno.`
     }
   };
 }
@@ -174,6 +191,14 @@ const localizedContent: Partial<Record<RuntimeCountryConfig['code'], SiteShellCo
   CO: {
     footerDescription: 'Plataforma abierta de practica para las pruebas Saber en Colombia. El runtime compartido mantiene shell comun y localiza contenido, SEO y guias por tenant.',
     footerDisclaimer: 'No afiliado oficialmente con el ICFES. Contenido educativo basado en informacion publica y curaduria editorial interna.',
+    preparacion: {
+      heroIntro: 'Desde la inscripcion oficial hasta tu primera sesion de simulacro para ICFES Saber.',
+      step1Title: 'Confirma tu calendario',
+      step1Description: 'Verifica las fechas oficiales, el tipo de registro y la ruta vigente publicada por ICFES antes de pagar o diligenciar formularios.',
+      step2Title: 'Registro oficial',
+      step2Description: 'Confirma que nombres, documento y datos socioeconomicos coincidan exactamente con tus documentos oficiales.',
+      planOfficialNote: 'La fuente oficial del ICFES prevalece sobre cualquier resumen interno de este runtime.'
+    }
   },
   MX: {
     about: {
@@ -187,6 +212,14 @@ const localizedContent: Partial<Record<RuntimeCountryConfig['code'], SiteShellCo
     },
     contact: {
       description: 'Escribenos para dudas sobre la plantilla de Mexico, localizacion curricular o siguientes pasos del runtime tenant-aware.'
+    },
+    preparacion: {
+      heroIntro: 'Desde la convocatoria institucional hasta tu primera ruta de practica para EXANI-II.',
+      step1Title: 'Confirma tu convocatoria',
+      step1Description: 'Revisa la convocatoria publicada por tu universidad o sede aplicadora, valida requisitos y confirma si usaras una ficha institucional o un registro directo.',
+      step2Title: 'Completa tu ficha de admision',
+      step2Description: 'Confirma folio, sede, carrera objetivo y todos tus datos personales antes de cerrar el proceso de admision.',
+      planOfficialNote: 'Cuando una universidad publique reglas especificas, esa convocatoria prevalece sobre cualquier resumen editorial de EXANI-II.'
     }
   },
   AR: {
@@ -246,6 +279,10 @@ function mergeContent(base: SiteShellContent, override: SiteShellContentOverride
         ...override.contact?.email,
       },
       faq: override.contact?.faq || base.contact.faq,
+    },
+    preparacion: {
+      ...base.preparacion,
+      ...override.preparacion,
     }
   };
 }
