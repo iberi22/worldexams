@@ -1,34 +1,3 @@
-<think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Sciences Naturales (Natural Sciences), specifically in Organic Chemistry (química orgánica), for grade 11, period 4.
-
-I need to follow the exact format with YAML frontmatter and then 20 questions in the specified structure.
-
-Let me create questions following the difficulty progression:
-- Questions 1-4: D3-D4 difficulty
-- Questions 5-10: D5-D6 difficulty
-- Questions 11-16: D7-D8 difficulty
-- Questions 17-20: D9-D10 difficulty
-
-The questions should be about organic chemistry relevant to Colombian context and aligned with ICFES Saber 11 style.
-
-Let me generate these questions:
-
-Topics to cover for organic chemistry grade 11 period 4 in Colombia:
-- Functional groups (alcohols, aldehydes, ketones, carboxylic acids, esters, amines, amides)
-- Nomenclature
-- Properties of organic compounds
-- Organic reactions (substitution, addition, elimination, esterification, saponification)
-- Polymers
-- Biomolecules (carbohydrates, proteins, lipids)
-- Environmental chemistry (green chemistry, biodegradable materials)
-
-Let me create 20 questions with proper difficulty distribution.
-
-I'll start numbering from v1 for each question variant.
-
-</think>
-
-```yaml
 ---
 id: "CO-CIE-11-P4-quimica-organica-081-MASTERY"
 country: "colombia"
@@ -39,353 +8,390 @@ periodo: 4
 protocol_version: "5.1"
 bundle_size: 20
 bundle_index: 81
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T19:47:53.640027"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.50
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "uso_conceptos, explicacion_fenomenos, indagacion"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Identificar
-**Context:** Laboratorio escolar en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-001`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-En un experimento de laboratorio, un estudiante debe identificar el grupo funcional presente en una molécula que presenta la estructura CH₃-CH₂-CHO. ¿Cuál es el nombre sistemático de este grupo funcional?
+El átomo de carbono es la base de la química orgánica debido a su capacidad para formar cuatro enlaces covalentes estables. ¿Cómo se denomina esta propiedad fundamental del carbono?
 
-- [ ] A) Alcohol
-- [ ] B) Cetona
-- [x] C) Aldehído <!-- feedback: La estructura CH₃-CH₂-CHO presenta un grupo -CHO (formilo) unido a un carbono terminal, lo cual corresponde a un aldehído. El sufijo -al indica la presencia de este grupo funcional. -->
-- [ ] D) Ácido carboxílico <!-- feedback: Un ácido carboxílico presentaría el grupo -COOH, no solo -CHO como en este caso. -->
+- [ ] A) Electronegatividad. <!-- feedback: Incorrect. La electronegatividad es la tendencia a atraer electrones, no define el número de enlaces. -->
+- [x] B) Tetravalencia. <!-- feedback: Correct. La tetravalencia se refiere a los cuatro electrones de valencia que permiten al carbono formar cuatro enlaces con otros átomos. -->
+- [ ] C) Isomería. <!-- feedback: Incorrect. La isomería es la existencia de moléculas con la misma fórmula pero diferente estructura. -->
+- [ ] D) Concatenación. <!-- feedback: Incorrect. La concatenación es la capacidad de unirse a sí mismo formando cadenas largas, lo cual es consecuencia de su tetravalencia pero no es el nombre de la propiedad de formar 4 enlaces. -->
 
 ### Explicación Pedagógica
-El grupo funcional aldehído se caracteriza por tener el grupo carbonilo (-C=O) unido a un carbono con al menos un hidrógeno. En la estructura dada, el carbono del grupo -CHO está enlazado a un hidrógeno y a una cadena碳lica (etilo), lo que confirma que es un aldehído. El error común es confundir aldehídos con cetonas, pero las cetonas tienen el grupo carbonilo en medio de la cadena, no al final.
+La tetravalencia del carbono permite una enorme diversidad de estructuras moleculares (cadenas, ciclos, ramificaciones), lo que explica por qué existen millones de compuestos orgánicos.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Identificar
-**Context:** Industria alimentaria colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-002`
+**Bloom:** [Understand]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En la producción de Aceite de palma colombiano, los triglicéridos son componentes fundamentales. ¿Cuál es la estructura básica de un triglicérido?
+En un compuesto orgánico, un átomo de carbono que está unido únicamente a otro átomo de carbono se clasifica como un carbono:
 
-- [ ] A) Tres ácidos grasos unidos a una molécula de glicerol mediante enlaces peptídicos
-- [x] B) Tres ácidos grasos unidos a una molécula de glicerol mediante enlaces éster <!-- feedback: Los triglicéridos están formados por glicerol (propanotriol) esterificado con tres ácidos grasos. Los enlaces son de tipo éster, no peptídicos. -->
-- [ ] C) Un ácido graso unido a tres moléculas de glicerol mediante enlaces glucosídicos
-- [ ] D) Tres moléculas de glicerol unidas entre sí por enlaces de hidrógeno
+- [x] A) Primario. <!-- feedback: Correct. Un carbono primario está unido a un solo carbono adicional. -->
+- [ ] B) Secundario. <!-- feedback: Incorrect. Un carbono secundario está unido a dos átomos de carbono. -->
+- [ ] C) Terciario. <!-- feedback: Incorrect. Un carbono terciario está unido a tres átomos de carbono. -->
+- [ ] D) Cuaternario. <!-- feedback: Incorrect. Un carbono cuaternario está unido a cuatro átomos de carbono. -->
 
 ### Explicación Pedagógica
-Los triglicéridos son ésteres de glicerol (1,2,3-propanotriol) con ácidos grasos. Se forman mediante reacción de esterificación entre los tres grupos -OH del glicerol y los grupos -COOH de los ácidos grasos. El error común es confundir los enlaces éster con los peptídicos, estos últimos se encuentran en proteínas y no en lípidos.
+La clasificación de los carbonos es fundamental para entender la reactividad química y las propiedades físicas de los hidrocarburos ramificados.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprender
-**Context:** Biosíntesis en plantas colombianas
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-003`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Las plantas de cacao del departamento de Santander producen compuestos orgánicos mediante fotosíntesis. La glucosa sintetizada puede polimerizarse para formar almidón. ¿Qué tipo de reacción interviene en la formación del almidón a partir de glucosa?
+Los hidrocarburos que solo contienen enlaces sencillos (sigma) entre sus átomos de carbono se conocen como:
 
-- [ ] A) Oxidación
-- [x] B) Condensación (formación de enlaces glucosídicos) <!-- feedback: La formación de almidón (un polisacárido) a partir de unidades de glucosa ocurre mediante reacciones de condensación, donde se elimina una molécula de agua por cada enlace formed entre dos monosacáridos. -->
-- [ ] C) Electrólisis
-- [ ] D) Combustión
+- [ ] A) Alquenos. <!-- feedback: Incorrect. Los alquenos contienen al menos un doble enlace ($C=C$). -->
+- [ ] B) Alquinos. <!-- feedback: Incorrect. Los alquinos contienen al menos un triple enlace ($C \equiv C$). -->
+- [x] C) Alcanos. <!-- feedback: Correct. Los alcanos son hidrocarburos saturados, es decir, solo tienen enlaces sencillos C-C. -->
+- [ ] D) Aromáticos. <!-- feedback: Incorrect. Los aromáticos tienen estructuras cíclicas con enlaces deslocalizados (resonancia), como el benceno. -->
 
 ### Explicación Pedagógica
-Los polisacáridos como el almidón se forman por unión de monosacáridos mediante enlaces glucosídicos. Este proceso es una reacción de condensación (o síntesis por deshidratación), donde se pierde una molécula de agua por cada enlace creado entre dos monosacáridos. La reacción inversa (hidrólisis) es la que permite degradar el almidón. Los estudiantes frecuentemente confunden la dirección de estas reacciones.
+Los alcanos tienen la fórmula general $C_n H_{2n+2}$ y son los componentes principales del gas natural y el petróleo.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 [D3-D4]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Relacionar
-**Context:** Contaminación ambiental en Bogotá
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-004`
+**Bloom:** [Apply]
+**ICFES:** [Comunicación científica]
 
 ### Enunciado
-En el desarrollo de políticas ambientales en Bogotá, se considera la biodegradación de plásticos. Un plástico biodegradable contiene enlaces éster en su estructura. ¿Qué producto se espera obtener durante la biodegradación aeróbica de un polímero que contiene enlaces éster?
+¿Cuál es el nombre IUPAC correcto para un alcano de cadena lineal que contiene 5 átomos de carbono?
 
-- [ ] A) Metano y agua
-- [ ] B) Nitrógeno y oxígeno
-- [x] C) Dióxido de carbono y agua <!-- feedback: La biodegradación aeróbica de polímeros con enlaces éster (como los poliésteres) produce CO₂ y H₂O mediante oxidación completa de los carbono de la cadena polimérica. -->
-- [ ] D) Ozono e hidrógeno
+- [ ] A) Propano. <!-- feedback: Incorrect. El propano tiene 3 carbonos. -->
+- [ ] B) Butano. <!-- feedback: Incorrect. El butano tiene 4 carbonos. -->
+- [x] C) Pentano. <!-- feedback: Correct. El prefijo "pent-" indica 5 átomos de carbono y el sufijo "-ano" indica que es un alcano. -->
+- [ ] D) Hexano. <!-- feedback: Incorrect. El hexano tiene 6 carbonos. -->
 
 ### Explicación Pedagógica
-En la biodegradación aeróbica, los materiales orgánicos son oxidados completamente a CO₂ y H₂O por microorganismos que utilizan oxígeno como agente oxidante. En el caso de polímeros sintéticos biodegradables como los poliésteres, los enlaces éster son hidrolizados primero, liberando los monómeros constituyentes que luego son metabolizados a CO₂ y H₂O.
+La nomenclatura IUPAC es el lenguaje universal de la química. Conocer los prefijos fundamentales (met-, et-, prop-, but-, pent-) es esencial para identificar compuestos.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Aplicar
-**Context:** Synthesis de medicamentos en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-005`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-La aspirina (ácido acetilsalicílico) se sintetiza a partir del ácido salicílico. En el proceso de síntesis, el grupo hidroxilo del ácido salicílico reacciona con un derivado del ácido acético para formar un enlace éster. ¿Cuál es el reactivo utilizadocommonly en el laboratorio para acetilar el grupo -OH del ácido salicílico?
+Se tienen dos moléculas con la misma fórmula molecular $C_4 H_{10}$, pero una tiene cadena lineal (n-butano) y la otra es ramificada (isobutano). Estas moléculas son:
 
-- [ ] A) Ácido acético glacial
-- [x] B) Anhídrido acético (CH₃CO)₂O <!-- feedback: El anhídrido acético es el agente acetilante commonly utilizado para reaccionar con grupos -OH y formar ésteres. El ácido acético por sí solo es un agente acetilante débil. -->
-- [ ] C) Acetato de sodio
-- [ ] D) Cloruro de acetilo (más reactivo pero no el estándar para aspirina)
+- [ ] A) Isótopos. <!-- feedback: Incorrect. Los isótopos son átomos del mismo elemento con diferente número de neutrones. -->
+- [x] B) Isómeros de cadena. <!-- feedback: Correct. Tienen la misma composición atómica pero diferente conectividad u ordenamiento de los carbonos. -->
+- [ ] C) Alótropos. <!-- feedback: Incorrect. La alotropía es la capacidad de un elemento puro de existir en varias formas (ej. grafito y diamante). -->
+- [ ] D) Homólogos. <!-- feedback: Incorrect. Los homólogos pertenecen a la misma serie pero difieren en el número de grupos $-CH_2-$ (ej. metano y etano). -->
 
 ### Explicación Pedagógica
-La síntesis de aspirina utiliza anhídrido acético como agente acetilante para esterificar el grupo fenólico del ácido salicílico. El anhídrido acético es más reactivo que el ácido acético libre porque el grupo saliente (acetato) es mejor leaving group que el hidróxido. El error frecuente es pensar que el ácido acético glacial puede acetilar directamente, cuando en realidad requiere condiciones más energéticas.
+La isomería estructural es una de las razones de la vasta complejidad de la química orgánica. A pesar de tener los mismos átomos, las propiedades físicas (como el punto de ebullición) pueden variar entre isómeros.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Aplicar
-**Context:** Industria cosmética en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-006`
+**Bloom:** [Understand]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Una empresa colombiana de cosméticos utiliza ácido láurico (C₁₂H₂₄O₂) para formular productos de higiene personal. Este ácido es un ácido graso saturado de cadena larga. ¿Cuál es la representación correcta de su grupo funcional principal?
+En la hibridación $sp^3$ del carbono, característica de los alcanos, los cuatro orbitales resultantes se orientan hacia los vértices de una figura geométrica llamada:
 
-- [ ] A) -OH
-- [ ] B) -CHO
-- [x] C) -COOH <!-- feedback: Los ácidos grasos contienen el grupo funcional ácido carboxílico (-COOH). El ácido láurico es un ácido graso de 12 carbonos, saturado, con la fórmula general CH₃-(CH₂)₁₀-COOH. -->
-- [ ] D) -CO-
+- [ ] A) Plano trigonal. <!-- feedback: Incorrect. Esta es la geometría de la hibridación $sp^2$. -->
+- [ ] B) Lineal. <!-- feedback: Incorrect. Esta es la geometría de la hibridación $sp$. -->
+- [x] C) Tetraedro. <!-- feedback: Correct. En la hibridación $sp^3$, los orbitales se alejan lo máximo posible formando ángulos de 109.5°, resultando en una estructura tetraédrica. -->
+- [ ] D) Octaedro. <!-- feedback: Incorrect. Esta geometría no es común para el carbono simple. -->
 
 ### Explicación Pedagógica
-Los ácidos grasos son ácidos carboxílicos de cadena larga. El ácido láurico tiene 12 carbonos y es saturado (sin dobles enlaces), por lo que su estructura es CH₃-(CH₂)₁₀-COOH. El grupo funcional definitorio es el ácido carboxílico (-COOH). El error común es confundir la posición del grupo funcional en el nombre "láurico" y pensar que contiene un grupo cetona o aldehído.
+La geometría molecular determina la forma de las proteínas, el ADN y todas las moléculas biológicas. El ángulo de enlace es una consecuencia de la repulsión de los pares de electrones.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Interpretar
-**Context:** Análisis de alimentos en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-007`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un estudiante de laboratorio de alimentos analiza una muestra de aceite de oliva importado y encuentra que contiene ácido oleico (C₁₈H₃₄O₂), un ácido graso monoinsaturado. ¿Cuántos enlaces dobles presenta la cadena hydrocarbonada del ácido oleico?
+Al comparar el metano ($CH_4$) con el octano ($C_8 H_{18}$) a temperatura ambiente y presión de 1 atm, se observa que el metano es un gas y el octano es un líquido. Esto se debe principalmente a:
 
-- [ ] A) 0
-- [x] B) 1 <!-- feedback: El ácido oleico es un ácido graso monoinsaturado, lo que significa que tiene exactamente un enlace doble (C=C) en su cadena hydrocarbonada. Su nombre sistemático es ácido cis-9-octadecenoico. -->
-- [ ] C) 2
-- [ ] D) 3
+- [ ] A) El metano es más reactivo químicamente. <!-- feedback: Incorrect. La reactividad no define el estado físico de agregación. -->
+- [x] B) Las fuerzas intermoleculares de van der Waals son mayores en el octano debido a su mayor tamaño. <!-- feedback: Correct. A mayor superficie de contacto molecular (cadenas largas), más fuertes son las fuerzas de dispersión de London, elevando el punto de ebullición. -->
+- [ ] C) El octano forma puentes de hidrógeno fuertes entre sus moléculas. <!-- feedback: Incorrect. Los hidrocarburos son no polares y no forman puentes de hidrógeno. -->
+- [ ] D) La gravedad actúa con más fuerza sobre el octano, manteniéndolo en el suelo. <!-- feedback: Incorrect. Las fuerzas gravitacionales a nivel molecular son despreciables frente a las fuerzas electromagnéticas. -->
 
 ### Explicación Pedagógica
-Los ácidos grasos se clasifican según el grado de insaturación: saturados (sin enlaces dobles), monoinsaturados (un enlace doble) y poliinsaturados (dos o más enlaces dobles). El ácido oleico (C₁₈:1, n-9) tiene 18 carbonos con una insaturación en el carbono 9. El error común es confundir "monoinsaturado" con "saturado" y pensar que no tiene enlaces dobles.
+Las propiedades físicas de los compuestos orgánicos dependen de su estructura. Los alcanos de 1 a 4 carbonos son gases; de 5 a 17 son líquidos, y de 18 en adelante son sólidos.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Bioplásticos en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-008`
+**Bloom:** [Understand]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Colombia está desarrollando bioplásticos a partir de almidón de yuca. El almidón está composed de dos polisacáridos: amilosa y amilopectina. ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia estructural entre amilosa y amilopectina?
+El grupo funcional característico de los alcoholes, como el etanol (presente en bebidas alcohólicas y antisépticos), es el grupo:
 
-- [ ] A) La amilosa es ramificada y la amilopectina es lineal
-- [x] B) La amilosa forma una hélice y la amilopectina tiene ramificaciones α(1→6) <!-- feedback: La amilosa es esencialmente lineal, formada por unidades de glucosa unidas por enlaces α(1→4) que forman una estructura helicoidal. La amilopectina tiene ramificaciones mediante enlaces α(1→6) que se producen aproximadamente cada 24-30 residuos de glucosa. -->
-- [ ] C) La amilosa contiene unidades de fructosa y la amilopectina solo glucosa
-- [ ] D) La amilopectina es insoluble en agua y la amilosa es soluble
+- [ ] A) Carbonilo ($-C=O$). <!-- feedback: Incorrect. Este grupo pertenece a aldehídos y cetonas. -->
+- [x] B) Hidroxilo ($-OH$). <!-- feedback: Correct. El grupo $-OH$ unido a un carbono saturado define a la familia de los alcoholes. -->
+- [ ] C) Carboxilo ($-COOH$). <!-- feedback: Incorrect. Este grupo pertenece a los ácidos orgánicos. -->
+- [ ] D) Amino ($-NH_2$). <!-- feedback: Incorrect. Este grupo pertenece a las aminas. -->
 
 ### Explicación Pedagógica
-El almidón tiene dos componentes: amilosa (lineal, α(1→4), forma hélices) y amilopectina (ramificada, α(1→4) con ramificaciones α(1→6) cada 24-30 unidades). El error frecuente es invertir las características: algunos estudiantes piensan que la amilosa es ramificada y la amilopectina lineal, lo cual es incorrecto. La amilopectina tiene ramificaciones que le dan una estructura más compacta.
+Identificar los grupos funcionales es el primer paso para predecir el comportamiento químico de una molécula orgánica. El grupo hidroxilo otorga polaridad y capacidad de formar puentes de hidrógeno.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** producción de biodiesel en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-009`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-En la producción de biodiesel a partir de aceite de palma colombiano, ocurre una reacción de transesterificación. Si reaccionamos triglicéridos con metanol en presencia de un catalyst básico, se producen ésteres metílicos de ácidos grasos (biodiesel) y glicerol como subproducto. ¿Cuál es la naturaleza química del biodiesel resultante?
+¿Cuál es el producto principal de la combustión completa de un hidrocarburo (como el propano de una estufa) en presencia de abundante oxígeno?
 
-- [ ] A) Es un alcohol
-- [x] B) Es un éster de ácido graso y metanol <!-- feedback: El biodiesel consiste en ésteres metílicos de ácidos grasos (FAME - Fatty Acid Methyl Esters). Se obtienen por transesterificación de triglicéridos con metanol, donde el metanol reacciona con los ácidos grasos liberando glicerol. -->
-- [ ] C) Es un ácido carboxílico
-- [ ] D) Es un éter
+- [ ] A) Monóxido de carbono ($CO$) y hollín ($C$). <!-- feedback: Incorrect. Estos son productos de una combustión incompleta (falta de oxígeno). -->
+- [x] B) Dióxido de carbono ($CO_2$) y vapor de agua ($H_2 O$). <!-- feedback: Correct. En una combustión completa, todo el carbono se oxida a $CO_2$ y todo el hidrógeno a $H_2 O$, liberando gran cantidad de energía (exotérmica). -->
+- [ ] C) Metano ($CH_4$) y ozono ($O_3$). <!-- feedback: Incorrect. Estos no son productos típicos de la combustión de hidrocarburos. -->
+- [ ] D) Ácido sulfúrico y nitrógeno gaseoso. <!-- feedback: Incorrect. Solo se producirían si el combustible tuviera impurezas de azufre o nitrógeno. -->
 
 ### Explicación Pedagógica
-La transesterificación convierte triglicéridos en ésteres metílicos de ácidos grasos. El metanol reacciona con los enlaces éster del triglicérido, desplazando al glicerol y formando nuevos ésteres con el metanol. El biodiesel es una mezcla de estos ésteres metílicos, no un alcohol ni un ácido carboxílico. El error común es confundir "biodiesel" con "biocombustibles" en general o pensar que contiene glicerol como componente principal.
+La combustión es una reacción de oxidación-reducción rápida. Es la base de la obtención de energía en motores y calefacción, pero también la fuente principal de emisiones de gases de efecto invernadero.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 [D5-D6]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Comprender
-**Context:** Compuestos orgánicos en medicina tradicional colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-010`
+**Bloom:** [Apply]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-La quinina, un compuesto natural presente en la corteza del árbol de quina (Cinchona), tiene propiedades antipalúdicas. Este compuesto contiene un grupo amino (-NH₂). Los compuestos que contienen grupos amino se clasifican como:
+¿Cuál de las siguientes fórmulas representa a un alqueno con 6 átomos de carbono?
 
-- [ ] A) Ácidos
-- [x] B) Aminas <!-- feedback: Las aminas son compuestos orgánicos derivados del amoníaco (NH₃) donde uno o más hidrógenos son reemplazados por grupos orgánicos. La quinina contiene grupos amino secundarios en su estructura heterocíclica. -->
-- [ ] C) Ésteres
-- [ ] D) Éteres
+- [ ] A) $C_6 H_{14}$ <!-- feedback: Incorrect. Esta es la fórmula de un alcano ($C_n H_{2n+2}$). -->
+- [x] B) $C_6 H_{12}$ <!-- feedback: Correct. Los alquenos tienen un doble enlace, lo que reduce en dos el número de hidrógenos respecto al alcano ($C_n H_{2n}$). -->
+- [ ] C) $C_6 H_{10}$ <!-- feedback: Incorrect. Esta es la fórmula de un alquino ($C_n H_{2n-2}$). -->
+- [ ] D) $C_6 H_6$ <!-- feedback: Incorrect. Esta es la fórmula del benceno (aromático). -->
 
 ### Explicación Pedagógica
-Las aminas son derivadas del amoníaco (NH₃) donde átomos de hidrógeno son reemplazados por grupos alquilo o arilo. Se clasifican en primarias, secundarias y terciarias según el número de grupos orgánicos unidos al nitrógeno. El error común es pensar que el grupo amino (-NH₂) confiere propiedades ácidas al compuesto, cuando en realidad las aminas son bases débiles debido al par de electrones no compartido en el nitrógeno.
+Las fórmulas generales permiten identificar rápidamente la serie homóloga a la que pertenece un compuesto sin necesidad de dibujar su estructura completa.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Síntesis de fármacos en Colombia
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-011`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un químico farmacéutico colombiano sintetiza un nuevo analgénico y obtiene el siguiente producto: CH₃-CH₂-COO-CH₂-CH₃. Al analizar su estructura molecular, el químico determina que este compuesto es un éster. ¿Cuál es el nombre sistemático IUPAC de este compuesto?
+El benceno ($C_6 H_6$) es un hidrocarburo aromático muy estable. Su estructura se describe mejor como un anillo de seis carbonos con:
 
-- [ ] A) Ácido propanoico de etilo
-- [x] B) Propanoato de etilo <!-- feedback: El compuesto CH₃-CH₂-COO-CH₂-CH₃ es el éster del ácido propanoico (ácido propanoico + etanol). Según las reglas IUPAC, el nombre sistemático es propanoato de etilo (nombre de la sal del ácido + de + nombre del grupo alquilo). -->
-- [ ] C) Butanoato de metilo
-- [ ] D) Etanoato de propilo
+- [ ] A) Tres enlaces sencillos y tres enlaces dobles fijos. <!-- feedback: Incorrect. Los enlaces no son fijos; el benceno no se comporta como un alqueno normal. -->
+- [x] B) Enlaces deslocalizados (nube electrónica pi) representados por resonancia. <!-- feedback: Correct. Los electrones del doble enlace fluyen por todo el anillo, dándole una estabilidad extra llamada energía de resonancia. -->
+- [ ] C) Seis enlaces triples muy reactivos. <!-- feedback: Incorrect. El benceno es notablemente menos reactivo que los alquinos o alquenos. -->
+- [ ] D) Una estructura lineal que se dobla para formar un círculo. <!-- feedback: Incorrect. El benceno es planar y cíclico por naturaleza de sus orbitales hibridados $sp^2$. -->
 
 ### Explicación Pedagógica
-Para nombrar ésteres, se identifica el ácido carboxílico (propanoico) y el alcohol (etanol), generando propanoato de etilo. El error común es confundir el orden (alguno estudiantes escriben "ácido propanoico de etilo" que es incorrecto según la nomenclatura IUPAC actual). También puede confundirse con butanoato de metilo, que tendría la fórmula HCOO-CH₂-CH₂-CH₃ (incorrecta para la estructura dada).
+La aromaticidad es un concepto avanzado de estabilidad electrónica. El benceno es la unidad básica de muchos compuestos importantes, incluyendo plásticos, medicamentos y explosivos.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Investigación universitaria sobre proteínas
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-012`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Un investigador de la Universidad Nacional de Colombia estudia la estructura de una proteína globular. Él observa que la proteína contiene tanto hélices alfa como láminas beta. ¿Qué tipo de estructura proteica está observando?
+Se somete a prueba la reactividad de dos hidrocarburos desconocidos (A y B) usando agua de bromo ($Br_2$, color rojizo). Al agregar bromo a la muestra A, el color desaparece instantáneamente. En la muestra B, el color persiste. ¿Qué se puede concluir?
 
-- [ ] A) Estructura primaria
-- [x] B) Estructura terciaria <!-- feedback: La estructura terciaria de las proteínas incluye la organización tridimensional de la cadena polipeptídica, que puede incluir hélices alfa, láminas beta y regiones sin estructura definida. La combinación de diferentes tipos de estructuras secundarias caracteriza la estructura terciaria. -->
-- [ ] C) Estructura cuaternaria
-- [ ] D) Enlace peptídico
+- [ ] A) A es un alcano y B es un alqueno. <!-- feedback: Incorrect. Los alcanos no reaccionan rápido con bromo en la oscuridad. -->
+- [x] B) A es un compuesto insaturado (alqueno o alquino) y B es un alcano. <!-- feedback: Correct. Los alquenos reaccionan por adición rompiendo el doble enlace y consumiendo el bromo, lo que hace que el color desaparezca. -->
+- [ ] C) B es más reactivo que A. <!-- feedback: Incorrect. La persistencia del color indica falta de reacción. -->
+- [ ] D) Ambos son compuestos saturados pero B es más denso. <!-- feedback: Incorrect. La prueba de bromo es específica para detectar insaturaciones (enlaces múltiples). -->
 
 ### Explicación Pedagógica
-La estructura de las proteínas se organiza en niveles: primaria (secuencia de aminoácidos), secundaria (hélices alfa y láminas beta, estabilizadas por puentes de hidrógeno), terciaria (plegamiento 3D de la cadena), y cuaternaria (ensamblaje de múltiples cadenas). La presencia simultánea de hélices y láminas indica estructura terciaria, no secundaria (que se refiere a un solo tipo) ni cuaternaria (que involucra múltiples cadenas). El error frecuente es confundir estos niveles jerárquicos.
+Las reacciones de adición son características de los compuestos insaturados. Esta prueba cualitativa es estándar en los laboratorios de química orgánica para identificar tipos de hidrocarburos.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Evaluar
-**Context:** Industria química colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-013`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
 
 ### Enunciado
-En la síntesis de un polímero para empaques biodegradables, se utiliza ácido poliláctico (PLA).EI PLA se obtiene por polimerización del ácido láctico. El ácido láctico tiene un carbono quiral en su estructura. ¿Cuál es la consecuencia de tener un carbono quiral en el monómero?
+¿Cuál es la diferencia principal entre un aldehído y una cetona?
 
-- [ ] A) El polímero resultante tendrá mayor rigidez por образования de enlaces cruzados
-- [x] B) El polímero puede existir como stereoisómeros con diferentes propiedades físicas <!-- feedback: Un carbono quiral permite la formación de estereoisómeros (enantiómeros o diastereómeros). Cuando el ácido láctico quiral polimeriza, puede generar polímeros con diferentes arquitecturas (isotáctico, sindiotáctico, atáctico) y por lo tanto diferentes propiedades mecánicas y térmicas. -->
-- [ ] C) El polímero será ópticamente inactivo debido a la síntesis por condensación
-- [ ] D) El polímero presentará cadenas ramificadas inevitablemente
+- [ ] A) El aldehído tiene nitrógeno y la cetona no. <!-- feedback: Incorrect. Ambos son compuestos oxigenados. -->
+- [x] B) El grupo carbonilo ($C=O$) está en un extremo de la cadena en aldehídos y en el interior en las cetonas. <!-- feedback: Correct. Los aldehídos tienen la fórmula $R-CHO$ y las cetonas $R-CO-R'$. -->
+- [ ] C) Las cetonas siempre son sólidas y los aldehídos siempre gases. <!-- feedback: Incorrect. El estado físico depende de la masa molecular, no solo del grupo funcional. -->
+- [ ] D) Los aldehídos son hidrocarburos y las cetonas son alcoholes. <!-- feedback: Incorrect. Son familias distintas de los hidrocarburos y de los alcoholes. -->
 
 ### Explicación Pedagógica
-Un carbono quiral tiene cuatro sustituyentes diferentes, lo que genera isomería óptica. En la polimerización, la quiralidad del monómero influye en la tactilidad del polímero (isotáctico, sindiotáctico, atáctico), afectando sus propiedades cristalinas y mecánicas. El PLA puede ser sintetizado en formas D, L o mezclas, cambiando sus propiedades. El error común es pensar que la quiralidad se pierde durante la polimerización, lo cual no es correcto.
+La posición del grupo funcional cambia drásticamente la reactividad. Los aldehídos se oxidan fácilmente a ácidos carboxílicos, mientras que las cetonas son mucho más resistentes a la oxidación.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D7)
+## Question 14 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Reacciones en la industria de saponificación colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-014`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
 
 ### Enunciado
-Una empresa de jabones en Colombia utiliza el proceso de saponificación para producir jabón a partir de grasas. Este proceso involucra la hidrólisis básica de triglicéridos. Si reaccionamos триглицерид con hidróxido de sodio (NaOH), ¿cuál(es) producto(s) se forma(n)?
+El vinagre es una solución diluida de ácido acético. El nombre IUPAC correcto para este compuesto de dos carbonos con un grupo carboxilo es:
 
-- [ ] A) Solo glicerol
-- [ ] B) Solo jabones (sal sódica de ácidos grasos)
-- [x] C) Glicerol y jabones (sales sódicas de ácidos grasos) <!-- feedback: La saponificación de triglicéridos con NaOH produce glicerol (propanotriol) y las sales sódicas de los ácidos grasos (jabones). Esta es una hidrólisis básica donde los enlaces éster se rompen. -->
-- [ ] D) Ácidos grasos libres y agua
+- [ ] A) Ácido metanoico. <!-- feedback: Incorrect. Este es el ácido fórmico (1 carbono). -->
+- [x] B) Ácido etanoico. <!-- feedback: Correct. "Et-" indica dos carbonos y "-oico" indica la función de ácido carboxílico. -->
+- [ ] C) Ácido propanoico. <!-- feedback: Incorrect. Tiene 3 carbonos. -->
+- [ ] D) Ácido butanoico. <!-- feedback: Incorrect. Tiene 4 carbonos. -->
 
 ### Explicación Pedagógica
-La saponificación es la hidrólisis de triglicéridos en medio básico. El NaOH rompe los enlaces éster, produciendo glicerol y sales sódicas de ácidos grasos (jabones). El error común es pensar que se producen ácidos grasos libres, pero en medio básico estos se desprotonan inmediatamente formando las sales (jabones). La respuesta D sería correcta solo si usáramos un ácido o agua en lugar de base.
+Los ácidos carboxílicos son abundantes en la naturaleza (ácido cítrico, láctico, etc.). Su grupo funcional es el más oxidado de los compuestos orgánicos comunes.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Metabolismo energético en el cuerpo humano
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-015`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Un atleta colombiano consume glucosa antes de una competencia. La glucosa es metabolizada en las células a través de la glucólisis y el ciclo de Krebs. ¿Cuál es el objetivo principal de estas vías metabólicas?
+La reacción entre un ácido carboxílico y un alcohol para producir un éster y agua se denomina:
 
-- [ ] A) Síntetizar ácidos nucleicos para división celular
-- [ ] B) Producir agua como subproducto para hidratación celular
-- [x] C) Generar ATP y equivalentes de reducción (NADH, FADH₂) para actividad celular <!-- feedback: La glucólisis y el ciclo de Krebs son vías catabólicas cuyo objetivo principal es extraer energía de los nutrientes en forma de ATP y reducir equivalentes (NADH, FADH₂) que posteriormente se oxidan en la cadena respiratoria para generar más ATP. -->
-- [ ] D) Sintetizar proteínas para construir músculo
+- [ ] A) Saponificación. <!-- feedback: Incorrect. La saponificación es la hidrólisis de grasas con base para hacer jabón. -->
+- [x] B) Esterificación de Fischer. <!-- feedback: Correct. Es la condensación de un ácido y un alcohol, muy usada para fabricar fragancias y sabores artificiales. -->
+- [ ] C) Hidrogenación. <!-- feedback: Incorrect. La hidrogenación agrega hidrógeno a enlaces múltiples. -->
+- [ ] D) Polimerización. <!-- feedback: Incorrect. La polimerización es la unión de muchos monómeros para formar plásticos. -->
 
 ### Explicación Pedagógica
-El metabolismo oxidativo de la glucosa tiene como objetivo principal generar ATP (la "moneda energética" celular) y NADH/FADH₂ que donan electrones a la cadena respiratoria. El ciclo de Krebs también proporciona precursores para biosíntesis, pero su función principal es energético. El error frecuente es confundir el propósito catabólico con el propósito anabolic de generar bloques celulares para construcción de tejidos.
+Muchos de los olores a frutas (piña, banano, pera) en dulces y perfumes provienen de ésteres sintéticos producidos mediante esta reacción química fundamental.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16 [D7-D8]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Analizar
-**Context:** Biotecnología agrícola colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-016`
+**Bloom:** [Analyze]
+**ICFES:** [Indagación]
 
 ### Enunciado
-Los agricultores colombianos utilizan urea (NH₂-CO-NH₂) como fertilizante nitrogenado. Este compuesto orgánico contiene nitrógeno en un enlace amida. ¿Cuál es el tipo de enlace químico presente entre los átomos de nitrógeno y carbono en la urea?
+En la industria petrolera colombiana, se utiliza un proceso llamado "cracking" o craqueo térmico. ¿Cuál es el objetivo principal de este proceso?
 
-- [ ] A) Enlace peptídico entre carbonos alpha
-- [x] B) Enlace amida (enlace C-N con características parciales de doble enlace) <!-- feedback: La urea contiene enlaces amida (-CO-NH₂-), donde el nitrógeno está unido al carbono del carbonilo. Este enlace tiene características de resonancia que le dan carácter parcial de doble enlace (C=N), pero se clasifica como enlace amida. -->
-- [ ] C) Enlace imina (C=N)
-- [ ] D) Enlace sales de amonio cuaternario
+- [ ] A) Mezclar petróleo con agua para facilitar su transporte. <!-- feedback: Incorrect. El petróleo y el agua no se mezclan y el agua causaría corrosión. -->
+- [ ] B) Convertir el petróleo crudo en plástico directamente en un solo paso. <!-- feedback: Incorrect. La fabricación de plásticos requiere múltiples procesos químicos posteriores. -->
+- [x] C) Romper moléculas largas de hidrocarburos pesados en moléculas más cortas y valiosas como la gasolina. <!-- feedback: Correct. El craqueo aumenta el rendimiento de combustibles ligeros a partir de residuos pesados del petróleo. -->
+- [ ] D) Limpiar el petróleo de impurezas de arena y lodo. <!-- feedback: Incorrect. Esto se hace mediante filtración y decantación, no por craqueo. -->
 
 ### Explicación Pedagógica
-El enlace amida (-CO-NH-) se encuentra en proteínas (enlaces peptídicos) y en moléculas como urea y poliamidas. En la urea, el par de electrones del nitrógeno puede participar en resonancia con el doble enlace del carbono, dándole carácter parcial de doble enlace y planaridad. El error común es confundir "enlace amida" con "enlace peptídico", aunque estructuralmente son similares, el enlace peptídico específicamente conecta aminoácidos.
+El petróleo crudo es una mezcla compleja. El craqueo permite que las refinerías produzcan más gasolina y menos asfalto, ajustándose a la demanda del mercado energético.
 
 ---
 
-## Question 17 (Variant Mastery - Difficulty D9)
+## Question 17 [D9-D10]
 
-**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-v17`
-**Bloom:** Evaluate
-**ICFES:** Evaluar
-**Context:** Gestión de residuos en la industria química colombiana
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-017`
+**Bloom:** [Analyze]
+**ICFES:** [Uso de conceptos]
 
 ### Enunciado
-Una planta de tratamiento de aguas residuales en Colombia recibe efluentes con высокое contenido de fenoles (compuestos aromáticos con grupo -OH). Para tratar estos efluentes, se propone una oxidación con permanganato de potasio. ¿Cuál es la justificación química de usar un agente oxidante fuerte para eliminar fenoles?
+¿Cuál de los siguientes compuestos presenta isomería geométrica (Cis-Trans)?
 
-- [x] A) Los fenoles pueden oxidarse a compuestos menos tóxicos como dihidroxibencenos y ácidos carboxílicos, o mineralizarse completamente
+- [ ] A) 1-buteno. <!-- feedback: Incorrect. El primer carbono tiene dos hidrógenos iguales, por lo que no puede haber isomería geométrica. -->
+- [x] B) 2-buteno. <!-- feedback: Correct. Los carbonos del doble enlace tienen sustituyentes diferentes (un H y un metilo cada uno), permitiendo que los grupos metilo estén del mismo lado (Cis) o lados opuestos (Trans). -->
+- [ ] C) Butano. <!-- feedback: Incorrect. Los alcanos tienen libre rotación en sus enlaces sencillos, no presentan isomería geométrica. -->
+- [ ] D) Propino. <!-- feedback: Incorrect. Los alquinos tienen geometría lineal ($180°$) en el triple enlace, imposibilitando la isomería cis-trans. -->
+
+### Explicación Pedagógica
+La isomería geométrica surge de la restricción a la rotación impuesta por el doble enlace. Es crucial en la biología; por ejemplo, las grasas "Trans" tienen propiedades físicas y de salud muy diferentes a las "Cis".
+
+---
+
+## Question 18 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-018`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretación de conceptos]
+
+### Enunciado
+Un átomo de carbono quiral es aquel que está unido a cuatro grupos o átomos diferentes. La presencia de este carbono da lugar a:
+
+- [ ] A) Isómeros de posición. <!-- feedback: Incorrect. Estos dependen del lugar del grupo funcional, no de la quiralidad. -->
+- [x] B) Enantiómeros (Isómeros ópticos). <!-- feedback: Correct. Son moléculas que son imágenes especulares no superponibles, como la mano derecha y la izquierda. Desvían la luz polarizada en sentidos opuestos. -->
+- [ ] C) Isómeros de función. <!-- feedback: Incorrect. Estos tienen grupos funcionales totalmente distintos (ej. alcohol y éter). -->
+- [ ] D) Hidrocarburos aromáticos ramificados. <!-- feedback: Incorrect. La quiralidad es una propiedad geométrica espacial, no define la aromaticidad. -->
+
+### Explicación Pedagógica
+La quiralidad es vital en medicina. A veces, un enantiómero de un fármaco es curativo mientras que su "imagen en el espejo" puede ser inerte o incluso tóxica (caso de la talidomida).
+
+---
+
+## Question 19 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-019`
+**Bloom:** [Evaluate]
+**ICFES:** [Indagación]
+
+### Enunciado
+Se sospecha que una muestra de alcohol es metanol ($CH_3 OH$), el cual es altamente tóxico y puede causar ceguera, en lugar de etanol ($CH_3 CH_2 OH$). ¿Qué propiedad química permitiría diferenciarlos con mayor precisión en un laboratorio avanzado?
+
+- [ ] A) Probar su sabor y olor. <!-- feedback: Incorrect. Es extremadamente peligroso y sus olores son muy similares. Nunca se debe probar una sustancia química. -->
+- [ ] B) Ver si flotan en el agua. <!-- feedback: Incorrect. Ambos son totalmente miscibles en agua debido a sus grupos hidroxilo. -->
+- [x] C) Realizar una espectroscopía infrarroja (IR) o de resonancia magnética (RMN) para identificar el número de tipos de hidrógeno y carbono. <!-- feedback: Correct. El RMN mostraría señales muy distintas: el metanol tiene un solo tipo de carbono, el etanol tiene dos tipos diferentes. -->
+- [ ] D) Medir la temperatura a la que se congelan con un termómetro doméstico. <!-- feedback: Incorrect. Sus puntos de fusión son muy bajos ($-97°C$ y $-114°C$) y difíciles de medir sin equipo especializado. -->
+
+### Explicación Pedagógica
+La química analítica moderna utiliza las propiedades magnéticas y vibracionales de los enlaces para identificar estructuras con absoluta certeza, salvando vidas en casos de adulteración de licores.
+
+---
+
+## Question 20 [D9-D10]
+
+**ID:** `CO-CIE-11-P4-quimica-organica-081-MASTERY-020`
+**Bloom:** [Analyze]
+**ICFES:** [Explicación de fenómenos]
+
+### Enunciado
+¿Cuál es la razón principal por la que los polímeros sintéticos (plásticos) son tan resistentes a la degradación natural?
+
+- [ ] A) Porque contienen metales pesados que matan a las bacterias. <!-- feedback: Incorrect. La mayoría de los plásticos comunes (PE, PP, PS) solo contienen C e H. -->
+- [ ] B) Porque el sol no puede calentar el plástico lo suficiente. <!-- feedback: Incorrect. El calor y los UV ayudan a fragmentarlos, pero no a degradarlos químicamente. -->
+- [x] C) Porque tienen cadenas muy largas con enlaces C-C muy fuertes que las enzimas biológicas no reconocen ni pueden romper. <!-- feedback: Correct. Los seres vivos no han evolucionado con estas estructuras artificiales y no poseen las "tijeras" químicas (enzimas) para procesarlas. -->
+- [ ] D) Porque el plástico es una sustancia inorgánica como las rocas. <!-- feedback: Incorrect. El plástico es materia orgánica sintética basada en el carbono. -->
+
+### Explicación Pedagógica
+La durabilidad, que es la mayor ventaja industrial de los plásticos, es su mayor desventaja ambiental. El estudio de polímeros biodegradables busca crear enlaces que la naturaleza sí sepa romper.
