@@ -1,57 +1,3 @@
-<think>
-The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 format for Colombian high school students. The subject is "Sociales Ciudadanas" (Citizenship Social Studies), topic "derechos-humanos" (human rights), grade 11, period 2.
-
-Let me follow the strict format requirements:
-
-1. Need a YAML frontmatter block at the beginning
-2. Then 20 questions with progressive difficulty (D3-D4 for 1-4, D5-D6 for 5-10, D7-D8 for 11-16, D9-D10 for 17-20)
-3. Each question needs:
-   - Question number with variant and difficulty
-   - ID in specific format
-   - Bloom level
-   - ICFES competency
-   - Context
-   - Enunciado (question)
-   - 4 options (A, B, C, D) with [x] on correct answer
-   - Feedback in comments
-   - Explicación Pedagógica
-
-4. Topics related to human rights should include:
-   - Universal Declaration of Human Rights
-   - Constitutional rights in Colombia
-   - Human rights violations
-   - Mechanisms for protecting human rights
-   - DIH (Derecho Internacional Humanitario)
-   - Children's rights
-   - Women's rights
-   - Minority rights
-   - Social rights
-   - Civil and political rights
-
-Let me create 20 questions with Colombian context and progressive difficulty.
-
-Questions 1-4: D3-D4 (Remember, Understand)
-Questions 5-10: D5-D6 (Apply, Analyze)
-Questions 11-16: D7-D8 (Analyze, Evaluate)
-Questions 17-20: D9-D10 (Evaluate, Create)
-
-I need to make sure:
-- Correct answer has [x]
-- Include feedback comments
-- Distractors are plausible Colombian student errors
-
-
-- Each question has a clear Colombian modern context
-- Align with ICFES Saber 11 style
-- Progressive difficulty
-- 4 mandatory options
-- No "all of the above" or "none of the above"
-
-Now I'll draft the questions, starting with the YAML header and then building the 20 questions systematically with increasing complexity.
-
-</think>
-
-```yaml
 ---
 id: "CO-SOC-11-P2-derechos-humanos-098-MASTERY"
 country: "colombia"
@@ -60,381 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "derechos-humanos"
 periodo: 2
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 98
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:45:47.296340"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
-```
 
-## Question 1 (Variant Basic - Difficulty 3)
+## Question 1
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretativa
-**Context:** Conmemoración del Día de los Derechos Humanos en Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-La Declaración Universal de los Derechos Humanos, adoptada por la Asamblea General de las Naciones Unidas en 1948, establece en su artículo 1 que todos los seres humanos nacen libres e iguales en dignidad y derechos. ¿Cuál es el principio fundamental que fundamenta este artículo?
+¿Cuál es la diferencia fundamental entre los Derechos Humanos y los Derechos Fundamentales en el contexto de la Constitución de Colombia?
 
 ### Options
-- [ ] A) La jerarquía entre ciudadanos según su origen étnico <!-- Los derechos humanos no establecen jerarquías basadas en etnia -->
-- [x] B) La dignidad inherente a toda persona sin excepción <!-- La dignidad es intrínseca a cada ser humano independientemente de sus características -->
-- [ ] C) La supremacía de los derechos colectivos sobre los individuales <!-- Los derechos humanos reconocen tanto derechos individuales como colectivos -->
-- [ ] D) El cumplimiento obligatorio solo para los países firmantes <!-- Los derechos humanos son universales e inaplicables solo a firmantes -->
+- [ ] A) Los derechos humanos son para los niños y los fundamentales para los adultos. <!-- feedback: Incorrect. Ambos conceptos se aplican a todas las personas. -->
+- [ ] B) Los derechos humanos se pueden vender y los fundamentales no. <!-- feedback: Incorrect. Ninguno de los dos se puede vender; son inherentes a la dignidad humana. -->
+- [x] C) Los derechos humanos son principios universales internacionales, mientras los fundamentales son aquellos reconocidos y protegidos directamente por la Constitución de un país. <!-- feedback: Correct. En Colombia, los fundamentales están principalmente en el Capítulo 1 del Título II. -->
+- [ ] D) No hay ninguna diferencia; son exactamente lo mismo en cualquier país del mundo. <!-- feedback: Incorrect. Aunque se basan en lo mismo, la denominación "fundamentales" implica una protección judicial específica (como la tutela) en cada país. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B porque la dignidad inherente es el principio base de los derechos humanos. El artículo 1 establece que la dignidad es un atributo de todo ser humano sin distinción. Los distractores presentan errores comunes: confundir igualdad con jerarquía (A), pensar que hay conflicto entre derechos individuales y colectivos (C), y creer que los derechos humanos son pactados y no universales (D).
+Entender esta distinción ayuda a comprender por qué ciertos derechos tienen mecanismos de protección más rápidos (como la tutela) que otros, dependiendo de cómo los clasifique la Constitución.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty 3)
+## Question 2
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Interpretativa
-**Context:** Jurisprudencia colombiana sobre derechos fundamentales
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-En la Constitución Política de Colombia de 1991, los derechos fundamentales están consagrados en el Título II, Capítulo 1. ¿Cuál de los siguientes derechos NO está clasificado como derecho fundamental según la Carta Magna colombiana?
+¿Cuál de los siguientes derechos es considerado un "derecho colectivo y del ambiente" (Tercera Generación) en la Constitución colombiana?
 
 ### Options
-- [x] A) El derecho a la educación básica gratuita <!-- Este es un derecho social, no fundamental según la estructura constitucional colombiana -->
-- [ ] B) El derecho a la vida <!-- Es un derecho fundamental primordial -->
-- [ ] C) El derecho a la integridad personal <!-- Está dentro de los derechos fundamentales -->
-- [ ] D) El derecho a no ser detenido arbitrariamente <!-- Es un derecho fundamental de procedure -->
+- [ ] A) Derecho a la libre asociación. <!-- feedback: Incorrect. Es un derecho fundamental de primera generación. -->
+- [ ] B) Derecho a la huelga. <!-- feedback: Incorrect. Es un derecho social/laboral de segunda generación. -->
+- [x] C) Derecho a un medio ambiente sano. <!-- feedback: Correct. Beneficia a toda la comunidad y su protección requiere la solidaridad de todos. -->
+- [ ] D) Derecho al debido proceso. <!-- feedback: Incorrect. Es un derecho fundamental de primera generación que protege al individuo frente a juicios injustos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. En Colombia, el derecho a la educación básica gratuita (artículo 67) se clasifica como derecho social, económico y cultural, no como derecho fundamental. Los derechos fundamentales (artículos 12-35) incluyen vida, integridad, libertad, debido proceso, entre otros. Error común: confundir la educación como derecho fundamental cuando es un derecho social en la Constitución colombiana.
+Los derechos de tercera generación (derechos de solidaridad) protegen intereses que pertenecen a todos, como la paz, el espacio público y el equilibrio ecológico.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty 4)
+## Question 3
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Situación de desplazamiento forzado en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-Según el Derecho Internacional Humanitario (DIH), los conflictos armados internos tienen protección especial para la población civil. Cuando grupos armados irregulares reclutan menores de edad, ¿qué tipo de violación del DIH se configura?
+En el Derecho Internacional Humanitario (DIH), ¿cuál es el principio que prohíbe atacar objetivos que no tengan importancia militar, como escuelas, iglesias u hospitales?
 
 ### Options
-- [ ] A) Violación del principio de distinción entre combatientes y civiles <!-- Ese principio se refiere a atacar únicamente objetivos militares -->
-- [ ] B) Violación del principio de proporcionalidad en el uso de la fuerza <!-- La proporcionalidad se refiere al equilibrio entre ventaja militar y daño civil -->
-- [x] C) Violación de las normas que prohíben el reclutamiento de menores de 15 años <!-- El Protocolo Facultativo prohíbe reclutar menores de 18, y el DIH prohíbe menores de 15 -->
-- [ ] D) Violación del principio de neutralidad en conflictos armados <!-- La neutralidad aplica a Estados no involucrados -->
+- [ ] A) Principio de humanidad. <!-- feedback: Incorrect. Es un principio general, pero no define específicamente la prohibición de ataques a civiles. -->
+- [x] B) Principio de distinción. <!-- feedback: Correct. Obliga a diferenciar siempre entre combatientes y población civil, y entre objetivos militares y bienes civiles. -->
+- [ ] C) Principio de necesidad militar. <!-- feedback: Incorrect. Este principio justifica el uso de la fuerza solo para lo estrictamente necesario, pero no es el que define la distinción. -->
+- [ ] D) Principio de proporcionalidad. <!-- feedback: Incorrect. Este principio limita el daño incidental colateral, pero el de distinción es el que prohíbe el ataque directo a bienes civiles. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El reclutamiento de menores de 15 años está prohibido bajo el artículo 77 del Protocolo Adicional a los Convenios de Ginebra. El Protocolo Facultativo sobre niños en conflictos armados eleva la prohibición a menores de 18 años. El distractor A confunde con el principio de distinción; el B con proporcionalidad; el D no aplica a conflictos internos.
+El principio de distinción es la base del DIH para proteger a las víctimas de la guerra y asegurar que los civiles no sean blanco de las hostilidades.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty 4)
+## Question 4
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Argumentativa
-**Context:** Debate sobre libertad de expresión en redes sociales
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Un estudiante publica información falsa sobre un compañero de clase en redes sociales, causando sufriración. Desde la perspectiva de los derechos humanos, ¿cuál principio está en conflicto con la libertad de expresión del estudiante?
+¿Qué significa que los derechos humanos sean "Indivisibles"?
 
 ### Options
-- [ ] A) Principio de dignidad humana <!-- La dignidad no entra en conflicto con la libre expresión -->
-- [x] B) Derecho a la honra y buen nombre del compañero afectado <!-- La honra es un derecho que limita la libre expresión cuando causa daño -->
-- [ ] C) Principio de igualdad ante la ley <!-- No tiene relación directa con el caso -->
-- [ ] D) Derecho a la educación del publikador <!-- No se afecta el derecho a la educación del publikador -->
+- [ ] A) Que no se pueden repartir entre varias personas. <!-- feedback: Incorrect. No tiene relación con la distribución física de los derechos. -->
+- [ ] B) Que no se pueden romper con un martillo u objeto pesado. <!-- feedback: Incorrect. Es una interpretación literal errónea; los derechos son conceptos jurídicos. -->
+- [x] C) Que todos los derechos tienen la misma importancia y dignidad; no se puede proteger unos quitando otros. <!-- feedback: Correct. La libertad política no vale nada sin pan, y el pan no vale nada sin libertad. -->
+- [ ] D) Que solo los pueden ejercer las personas que están unidas en matrimonio. <!-- feedback: Incorrect. Los derechos pertenecen a cada individuo independientemente de su estado civil. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La libertad de expresión tiene límites cuando afecta derechos de terceros, como la honra (artículo 21 de la Constitución colombiana). Los derechos no son absolutos; el ejercicio de uno puede restringir otro cuando causa daño injustificado. Los estudiantes suelen pensar que la libre expresión es ilimitada, confundiendo el derecho con la ausencia de consecuencias legales.
+La indivisibilidad asegura una visión integral del ser humano, reconociendo que los derechos civiles, políticos, económicos y sociales forman un todo necesario para la dignidad.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty 5)
+## Question 5
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Política pública de atención a víctimas del conflicto armado
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-La Ley 1448 de 2011 (Ley de Víctimas y Restitución de Tierras) establece un conjunto de medidas reparación integral para las víctimas del conflicto armado colombiano. ¿Cuál de las siguientes medidas corresponde a una acción de satisfacción según esta ley?
+¿Cuál es la función del "Comité Internacional de la Cruz Roja" (CICR) en relación con el Derecho Internacional Humanitario en Colombia?
 
 ### Options
-- [ ] A) La indemnización económica por daños sufridos <!-- La indemnización corresponde a medidas compensatorias -->
-- [x] B) La implementación de actos de reconocimiento público de responsabilidad <!-- Las medidas de satisfacción incluyen disculpas públicas, memoriales y reconocimiento histórico -->
-- [ ] C) La devolución de bienes inmuebles abandonados <!-- La restitución de tierras es una medida diferente a la satisfacción -->
-- [ ] D) La atención psicosocial permanente <!-- La atención psicosocial es parte de la rehabilitación -->
+- [ ] A) Ayudar a ganar la guerra al ejército colombiano. <!-- feedback: Incorrect. El CICR es neutral y no toma partido en los conflictos armados. -->
+- [x] B) Actuar como intermediario neutral para proteger a las víctimas, visitar prisioneros de guerra y facilitar la liberación de secuestrados. <!-- feedback: Correct. Su labor es puramente humanitaria y basada en la confidencialidad. -->
+- [ ] C) Denunciar ante la policía a las personas que no donan sangre. <!-- feedback: Incorrect. La donación de sangre es voluntaria y no es la función principal del CICR en el conflicto. -->
+- [ ] D) Dictar las leyes del país cuando hay guerra civil. <!-- feedback: Incorrect. El CICR no tiene funciones legislativas; respeta la soberanía de los Estados. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las medidas de satisfacción incluyen actos de reconocimiento de responsabilidad, memorials, nunca más, y garantías de no repetición. Los estudiantes confunden frecuentemente las categorías: compensación (indemnización económica), restitución (devolver bienes), rehabilitación (atención psicosocial), y satisfacción (reconocimiento simbólico).
+La neutralidad del CICR le permite llegar a zonas donde otras organizaciones no pueden, brindando asistencia vital a las poblaciones afectadas por el conflicto.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty 5)
+## Question 6
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Argumentativa
-**Context:** Aplicación del bloque de constitucionalidad en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-La Corte Constitucional colombiana ha desarrollado el concepto de "bloque de constitucionalidad" mediante la sentencia C-574 de 2012. ¿Cuál es la fuente principal que integra este bloque además de la Constitución?
+¿Qué es el "Derecho a la Objeción de Conciencia" en relación con los deberes ciudadanos como el servicio militar?
 
 ### Options
-- [ ] A) Los tratados de libre comercio firmados por Colombia <!-- Los TLC no son parte del bloque de constitucionalidad -->
-- [ ] B) Las leyes ordinarias aprobadas por el Congreso <!-- Las leyes no integran el bloque de constitucionalidad -->
-- [x] C) Los tratados internacionales de derechos humanos ratificados por Colombia <!-- El bloque incluye tratados de DDHH que respetan la dignidad humana -->
-- [ ] D) Los decreto ley expedidos durante estados de excepción <!-- Los decreto ley no hacen parte del bloque -->
+- [ ] A) El derecho a no pagar impuestos porque no me gusta el gobierno. <!-- feedback: Incorrect. La objeción de conciencia se refiere a convicciones profundas, generalmente religiosas o éticas, no a desacuerdos políticos financieros. -->
+- [ ] B) La obligación de obedecer todas las órdenes de los superiores sin preguntar. <!-- feedback: Incorrect. Esto sería lo opuesto a la libertad de conciencia. -->
+- [x] C) El derecho a negarse a realizar actividades (como portar armas) que contradigan convicciones morales, éticas o religiosas profundas. <!-- feedback: Correct. En Colombia ha sido reconocido por la Corte Constitucional como un derecho fundamental. -->
+- [ ] D) El derecho a dormir hasta tarde todos los días sin que nadie me moleste. <!-- feedback: Incorrect. Es una interpretación banal de un derecho que implica un conflicto profundo de valores. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El bloque de constitucionalidad (artículo 93 CN) integra tratados internacionales de derechos humanos ratificados por Colombia que respeten la dignidad humana, especialmente aquellos que no pueden ser suspendidos en estados de excepción. Los estudiantes confunden frecuentemente incluyendo leyes ordinarias o tratados comerciales, que no tienen jerarquía constitucional.
+Este derecho muestra cómo la Constitución protege la integridad moral de la persona frente a las obligaciones que impone el Estado.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty 5)
+## Question 7
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Educación en derechos humanos en instituciones educativas
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-El artículo 13 del Protocolo de San Salvador señala que la educación debe orientarse hacia el pleno desarrollo de la personalidad humana. En Colombia, la Cátedra de la Paz (Ley 1732 de 2014) incorpora la enseñanza para la paz. ¿Cuál es el principio de derechos humanos que debe transverse toda la educación según este protocolo?
+¿Qué significa el principio de "Presunción de Inocencia" en un proceso judicial de derechos humanos?
 
 ### Options
-- [ ] A) El principio de jerarquía normativa <!-- No aplica a la educación -->
-- [x] B) El principio de no discriminación e igualdad <!-- El Protocolo establece que la educación debe promover la igualdad y no discriminación -->
-- [ ] C) El principio de soberanía nacional <!-- No es un principio educativo del Protocolo -->
-- [ ] D) El principio de libre desarrollo de la personalidad <!-- Ese principio está en la Constitución colombiana pero no es el central del Protocolo -->
+- [ ] A) Que el acusado debe demostrar que es inocente para poder salir libre. <!-- feedback: Incorrect. Es el Estado quien debe demostrar la culpabilidad, no el ciudadano su inocencia. -->
+- [ ] B) Que todas las personas son malas hasta que se demuestre lo contrario. <!-- feedback: Incorrect. Es exactamente la visión opuesta al Estado de Derecho. -->
+- [x] C) Que toda persona se considera inocente mientras no se haya declarado judicialmente su culpabilidad mediante una sentencia firme. <!-- feedback: Correct. Es una garantía fundamental del debido proceso. -->
+- [ ] D) Que los jueces deben perdonar a todos los criminales porque todos somos inocentes ante Dios. <!-- feedback: Incorrect. El sistema judicial debe juzgar y castigar, pero siguiendo reglas que protejan contra errores. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El artículo 13 del Protocolo de San Salvador establece que la educación debe orientarse hacia el respeto de los derechos humanos sin discriminación. Este principio de no discriminación e igualdad debe permeate toda la práctica educativa. Los estudiantes confunden el libre desarrollo (artículo 16 CN) con el principio del Protocolo.
+La presunción de inocencia evita que el Estado encarcele a personas arbitrariamente sin pruebas sólidas, protegiendo la libertad de los ciudadanos.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty 6)
+## Question 8
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Argumentativa
-**Context:** Conflictos entre derechos en redes sociales digitales
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-Una organización de derechos humanos publica en sus redes sociales información sobre presuntas extrajudiciales ejecutadas por agentes del Estado. El gobierno pide que se retire el contenido por afectar la seguridad nacional. Desde el marco de derechos humanos, ¿cuál análisis es correcto?
+Un grupo de trabajadores es despedido por intentar formar un sindicato. ¿Qué derecho humano de segunda generación está siendo vulnerado en este caso?
 
 ### Options
-- [ ] A) El derecho a la seguridad nacional siempre prevalece sobre el derecho a la información <!-- Los derechos no son jerárquicos; deben balancearse -->
-- [x] B) Ambos derechos deben analizarse bajo el principio de proporcionalidad para determinar cuál prevalece en el caso concreto <!-- El juicio de proporcionalidad evalúa medidas que restringen derechos -->
-- [ ] C) El derecho a la información nunca puede ser restringido por seguridad nacional <!-- Hay casos legítimos de restricción -->
-- [ ] D) La organización debe siempre obedecer al gobierno en temas de seguridad nacional <!-- Obedecer no es un principio de derechos humanos -->
+- [ ] A) El derecho a la libertad de prensa. <!-- feedback: Incorrect. No tiene relación con los medios de comunicación o la expresión pública de información. -->
+- [ ] B) El derecho a la propiedad privada de la empresa. <!-- feedback: Incorrect. La propiedad de la empresa no da derecho a vulnerar los derechos laborales de los trabajadores. -->
+- [x] C) El derecho a la libre asociación sindical y el derecho al trabajo en condiciones dignas. <!-- feedback: Correct. Los derechos laborales protegen la capacidad de los trabajadores de organizarse para defender sus intereses. -->
+- [ ] D) El derecho al voto popular. <!-- feedback: Incorrect. No tiene relación directa con el sistema electoral. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El principio de proporcionalidad (test de proporcionalidad) establece que las restricciones a derechos deben ser necesarias, proporcionales y con fines legítimos. Ningún derecho es absoluto; deben analizarse en contexto. Los estudiantes frecuentemente imaginan jerarquías rígidas (A y C) o creen que la autoridad siempre prevalece (D).
+Los derechos sociales y laborales buscan equilibrar la relación de poder entre empleadores y empleados, garantizando que el trabajo no sea una forma de explotación sin derechos.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty 6)
+## Question 9
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Derechos de los pueblos indígenas en Colombia
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-El Convenio 169 de la OIT, ratificado por Colombia mediante Ley 21 de 1991, establece el derecho de los pueblos indígenas a mantener sus instituciones y tradiciones. ¿Qué principio de derechos humanos fundamenta el derecho a la consulta previa antes de decisiones que afecten territorios indígenas?
+En Colombia, se han denunciado casos de "Desplazamiento Forzado". ¿Cómo afecta este fenómeno el ejercicio de los derechos humanos de las víctimas?
 
 ### Options
-- [ ] A) Principio de autodeterminación de los pueblos <!-- Aplica a pueblos en general, no específicamente al fundamento de la consulta previa -->
-- [x] B) Principio de participación y consentimiento libre, previo e informado <!-- La consulta previa se fundamenta en el consentimiento libre, previo e informado -->
-- [ ] C) Principio de no intervención en asuntos internos <!-- No tiene relación con la consulta previa -->
-- [ ] D) Principio de reciprocidad entre Estados <!-- No aplica -->
+- [ ] A) Les permite conocer nuevas ciudades y culturas de forma gratuita. <!-- feedback: Incorrect. Es una visión cínica de una tragedia que implica pérdida de hogar, bienes y desarraigo. -->
+- [ ] B) No afecta en nada, porque el Estado les regala una casa nueva inmediatamente. <!-- feedback: Incorrect. El Estado tiene dificultades enormes para reparar a millones de víctimas; la mayoría vive en condiciones de pobreza tras el desplazamiento. -->
+- [x] C) Genera una vulneración múltiple de derechos: vivienda, trabajo, identidad, salud y educación, además de la pérdida de la tierra y el tejido social. <!-- feedback: Correct. El desplazado pierde casi todas las condiciones materiales para ejercer sus derechos. -->
+- [ ] D) Solo afecta a las personas que no tienen cédula de ciudadanía. <!-- feedback: Incorrect. El desplazamiento afecta a cualquier persona sin importar su documentación, aunque dificulta el acceso a servicios. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El consentimiento libre, previo e informado es el principio que fundamenta la consulta previa. Se requiere: Libre (sin coacción), Previo (antes de la decisión), Informado (con información completa). Los estudiantes confunden frecuentemente con autodeterminación (derecho más amplio de pueblos) o con principios que no aplican.
+El desplazamiento forzado es considerado un "estado de cosas inconstitucional" por la Corte Constitucional debido a la vulneración masiva y sistemática de derechos que implica.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty 6)
+## Question 10
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Mecanismos de protección de derechos humanos en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-La Defensoría del Pueblo y la Personería cumplen roles diferentes en la protección de derechos humanos. ¿Cuál es la función distintiva de la Defensoría del Pueblo según la Constitución de 1991?
+¿Cuál es la labor de la "Jurisdicción Especial para la Paz" (JEP) en relación con los derechos de las víctimas del conflicto armado?
 
 ### Options
-- [ ] A) Ejercer control disciplinario sobre funcionarios públicos <!-- Función de la Personería -->
-- [ ] B) Representar judicialmente a las víctimas de violaciones de derechos humanos <!-- Función de la víctima o su abogado -->
-- [x] C) Promover y divulgar los derechos humanos y facilitar su ejercicio <!-- Función esencial de la Defensoría como defensora del pueblo -->
-- [ ] D) Investigar y sancionar violaciones de derechos humanos cometidas por el Estado <!-- Función de la Fiscalía o la Corte Constitucional -->
+- [ ] A) Perdonar a todos los guerrilleros sin que tengan que contar la verdad. <!-- feedback: Incorrect. El perdón está condicionado a la verdad plena, la reparación y la no repetición. -->
+- [ ] B) Enviar a la cárcel a todos los militares del país por el simple hecho de serlo. <!-- feedback: Incorrect. La JEP juzga casos concretos de delitos graves, no a una institución entera. -->
+- [x] C) Investigar, juzgar y sancionar los delitos más graves cometidos durante el conflicto, priorizando el derecho de las víctimas a la verdad, la justicia y la reparación. <!-- feedback: Correct. Busca una justicia restaurativa que sane las heridas del conflicto. -->
+- [ ] D) Decidir quién debe ser el próximo Presidente de Colombia. <!-- feedback: Incorrect. No tiene funciones electorales; es un tribunal de justicia transicional. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La Defensoría del Pueblo (artículo 282 CN) tiene como función promover y divulgar los derechos humanos y facilitar su ejercicio. Se diferencia de la Personería (control disciplinario), la Fiscalía (investigación penal) y los abogados (representación judicial). Los estudiantes confunden funciones entre instituciones.
+La justicia transicional busca un equilibrio entre la paz (terminar el conflicto) y la justicia (que no haya impunidad total), poniendo a las víctimas en el centro del proceso.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty 7)
+## Question 11
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Debate sobre eutanasia y derechos fundamentales en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-La Corte Constitucional mediante sentencia T-970 de 2014 reconoció el derecho a la eutanasia en Colombia. Esta decisión generó debate entre quienes defienden el derecho a la autonomía y quienes argumentan desde el derecho a la vida. ¿Qué principio constitucional permite resolver este conflicto aparente entre derechos fundamentales?
+¿Qué es el "Debido Proceso" y por qué es fundamental para los derechos humanos?
 
 ### Options
-- [ ] A) El principio de jerarquía donde la vida prima sobre la autonomía <!-- No existe jerarquía rígida entre derechos fundamentales -->
-- [ ] B) El principio de solidaridad como valor supreme de la Constitución <!-- La solidaridad no es el principio para resolver conflictos entre derechos -->
-- [x] C) El principio de dignidad humana como principio integrador que orienta la interpretación de derechos en conflicto <!-- La dignidad humana es el fundamento último de los derechos fundamentales -->
-- [ ] D) El principio de mayoría como forma de dirimir conflictos entre derechos <!-- Los derechos no se definen por mayoría -->
+- [ ] A) Es el proceso de fabricar leyes en el Congreso. <!-- feedback: Incorrect. Eso es el proceso legislativo. -->
+- [ ] B) Es la obligación de los ciudadanos de pagar todas sus deudas a tiempo. <!-- feedback: Incorrect. Es un concepto judicial sobre cómo se debe juzgar a alguien. -->
+- [x] C) Es el conjunto de garantías que aseguran que cualquier persona sea juzgada de forma justa, con un juez independiente, derecho a la defensa y pruebas legales. <!-- feedback: Correct. Evita juicios injustos y arbitrariedades del Estado. -->
+- [ ] D) Es el tiempo que tarda una carta en llegar de una ciudad a otra. <!-- feedback: Incorrect. Es una interpretación literal errónea del término "proceso". -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La dignidad humana actúa como principio integrador cuando existen conflictos entre derechos fundamentales. En la sentencia T-970, la Corte protegió tanto la vida digna como la autonomía, mostrando que la dignidad humana permite armonizar derechos aparentemente en tensión. Los estudiantes frecuentemente asumen jerarquías rígidas (A) o mecanismos democráticos (D) que no existen en el constitucionalismo colombiano.
+Sin debido proceso, cualquiera podría ser enviado a la cárcel por el simple capricho de un gobernante o un juez corrupto. Es la barrera contra el autoritarismo judicial.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty 7)
+## Question 12
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Situación de defensores de derechos humanos en zonas rurales
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-Organizaciones internacionales reportan que defensores de derechos humanos en Colombia enfrentan amenazas por su labor. ¿Qué obligación tiene el Estado colombiano frente a esta situación según el derecho internacional de los derechos humanos?
+El derecho a la "Intimidad" y al "Habeas Data" protege a los ciudadanos frente a:
 
 ### Options
-- [ ] A) Ninguna, ya que las amenazas son responsabilidad de grupos armados no estatales <!-- El Estado tiene obligaciones con su población -->
-- [ ] B) Investigar las amenazas y garantizar condiciones para que los defensores puedan trabajar <!-- Obligación de garantía del Estado -->
-- [ ] C) Prohibir que las organizaciones de derechos humanos operen en zonas de conflicto <!-- Esto vulneraría el derecho de asociación -->
-- [ ] D) Entregar seguridad física a los defensores en todo momento <!-- La obligación es de medios, no de resultado -->
-
-### Options
-- [ ] A) Ninguna, ya que las amenazas son responsabilidad de grupos armados no estatales
-- [ ] B) Investigar las amenazas y garantizar condiciones para que los defensores puedan trabajar
-- [ ] C) Prohibir que las organizaciones de derechos humanos operen en zonas de conflicto
-- [x] D) Adoptar medidas de protección para defensores de derechos humanos y crear condiciones seguras para su labor <!-- El Estado debe adoptar medidas razonables de protección -->
+- [ ] A) El derecho de los demás a saber todo sobre nuestra vida privada. <!-- feedback: Incorrect. Al contrario, protege contra esa invasión de la privacidad. -->
+- [ ] B) La obligación de pagar impuestos por usar redes sociales. <!-- feedback: Incorrect. No tiene relación con los impuestos digitales. -->
+- [x] C) El uso indebido de nuestra información personal en bases de datos públicas o privadas y la intromisión injustificada en la vida privada. <!-- feedback: Correct. Permite conocer, actualizar y rectificar la información que tengan sobre nosotros. -->
+- [ ] D) La prohibición de tener secretos con nuestra familia. <!-- feedback: Incorrect. Se refiere a la protección frente al Estado y las empresas, no al ámbito puramente familiar íntimo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es D. El Estado tiene obligación de adoptar medidas de protección para defensores de derechos humanos según la Declaración sobre Defensores de DDHH de la ONU (1998). Esta obligación es de medios, no de resultado. Los estudiantes pueden pensar que el Estado no tiene responsabilidad (A) o que debe garantizar seguridad absoluta (D incorrecto). La respuesta correcta reconoce la obligación con sus limitaciones.
+En la era digital, el Habeas Data es vital para evitar que errores en centrales de riesgo o bases de datos del gobierno afecten nuestra vida económica y social de forma injusta.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty 7)
+## Question 13
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Políticas públicas de inclusión para población marginada
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Estado colombiano ha implementado políticas de acción afirmativa para promover la igualdad real. ¿Cuál situación representa correctamente una acción afirmativa según los estándares de derechos humanos?
+¿Cuál es la función de la "Corte Interamericana de Derechos Humanos" (Corte IDH)?
 
 ### Options
-- [ ] A) Establecer cuotas de empleo público para personas con discapacidad sin considerar competencias <!-- Las acciones afirmativas deben ser razonables y respetar derechos de terceros -->
-- [ ] B) Otorgar puntos adicionales en exámenes de Estado a egresados de colegios públicos para acceso a educación superior <!-- Las acciones afirmativas deben ser proporcionales y tener duración limitada -->
-- [x] C) Reservar sièges en concejos municipales para mujeres como mecanismo de participación política equilibrada <!-- Las cuotas de género son acciones afirmativas válidas reconocidas internacionalmente -->
-- [ ] D) Eximir de impuestos a todas las empresas que contraten jóvenes de estratos bajos <!-- Los beneficios fiscales no son acciones afirmativas válidas porque no reparan brechas históricas -->
+- [ ] A) Cobrar multas a los ciudadanos que no respetan las señales de tránsito. <!-- feedback: Incorrect. No tiene funciones sobre el tránsito o delitos menores ciudadanos. -->
+- [x] B) Juzgar a los Estados americanos cuando estos han violado los derechos humanos y no han brindado justicia interna a las víctimas. <!-- feedback: Correct. Sus sentencias son obligatorias para los países que han aceptado su competencia, como Colombia. -->
+- [ ] C) Decidir qué países pueden usar el nombre de "América". <!-- feedback: Incorrect. No tiene relación con disputas de nombres geográficos. -->
+- [ ] D) Nombrar a los directores de los periódicos más importantes del continente. <!-- feedback: Incorrect. La libertad de prensa impide que una corte nombre directores de medios privados. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Las cuotas de participación política para mujeres son acciones afirmativas reconocidas que buscan equilibrar la subrepresentación histórica. Las acciones afirmativas deben ser proporcionales, tener objetivo válido (reparar desigualdad histórica), y no afectar derechos de terceros. Los estudiantes confunden frecuentemente acciones afirmativas legítimas con medidas discriminatorias inversas (A) o políticas populistas sin justificación de derechos (D).
+La Corte IDH ha sido fundamental para que en Colombia se investiguen casos de masacres y desapariciones forzadas que la justicia local intentaba ignorar.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty 7)
+## Question 14
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Debate sobre restricciones a derechos en estados de excepción
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-Durante el Estado de Conmoción Interior declarado en Colombia, el gobierno emite decreto que restringe la libre locomoción de ciudadanos en determinadas zonas. Según la Constitución colombiana y el derecho internacional, ¿qué requisito debe cumplir esta restricción para ser constitucional?
+En el marco de los derechos humanos, ¿qué se entiende por "Desaparición Forzada"?
 
 ### Options
-- [ ] A) Debe serapproved por el Congreso de la República antes de su implementación <!-- El gobierno puede declarar estados de excepción y dictar decretos de urgencia -->
-- [x] B) Debe ser proporcional, necesaria y temporal, sin afectar derechos irrenunciables <!-- Las restricciones en estados de excepción tienen límites constitucional -->
-- [ ] C) Puede suspender todos los derechos fundamentales sin límite temporal <!-- Los derechos no derrogables no pueden suspenderse nunca -->
-- [ ] D) Solo requiere autorización del Ministerio de Defensa <!-- No corresponde al Ministerio definir restricciones de derechos -->
+- [ ] A) Cuando una persona decide irse de su casa sin avisar a nadie para empezar una nueva vida. <!-- feedback: Incorrect. Esto es una decisión personal; la desaparición forzada implica un agente del Estado o grupo armado. -->
+- [ ] B) Cuando un objeto se pierde y no lo podemos encontrar por ningún lado. <!-- feedback: Incorrect. Se refiere exclusivamente a la privación de la libertad de personas. -->
+- [x] C) Cuando agentes del Estado o personas con su autorización privan de la libertad a alguien y luego ocultan su paradero o niegan su detención. <!-- feedback: Correct. Es un crimen atroz porque deja a la familia en una incertidumbre eterna sobre la vida o muerte del ser querido. -->
+- [ ] D) Cuando un pueblo entero se muda de lugar debido a un desastre natural. <!-- feedback: Incorrect. Esto es un desastre natural o desplazamiento ambiental, no una desaparición forzada criminal. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las restricciones a derechos en estados de excepción deben cumplir: proporcionalidad (adecuarse al fin), necesidad (no haber otro medio menos gravoso), temporalidad (duración limitada). Además, existen derechos no derrogables (art. 4 PIDCP) que nunca pueden suspenderse. Los estudiantes creen que en estados de excepción se suspenden todos los derechos (C) o que solo requiere autorización militar (D).
+La desaparición forzada es un delito continuo que no termina hasta que se conoce la verdad sobre el paradero de la víctima, causando un daño psicológico incalculable a sus familiares.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty 8)
+## Question 15
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Análisis de políticas públicas de reparación a víctimas
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-La Universidad Nacional de Colombia publicó un estudio mostrando que muchas víctimas del conflicto armado no acceden efectivamente a las medidas de reparación de la Ley 1448 de 2011. ¿Qué principio de derechos humanos se ve comprometido cuando las víctimas tienen derecho formal pero no acceso real a la reparación?
+¿Qué es el "Mínimo Vital" según la jurisprudencia de la Corte Constitucional colombiana?
 
 ### Options
-- [ ] A) Principio de irretroactividad de la ley <!-- No tiene relación con acceso efectivo -->
-- [x] B) Principio de efectividad de los derechos (protección internacional) <!-- La efectividad requiere acceso real, no solo reconocimiento formal -->
-- [ ] C) Principio de reserva legal en materia de derechos <!-- La reserva legal no garantiza efectividad -->
-- [ ] D) Principio de jerarquía de tratados <!-- No aplica -->
+- [ ] A) La cantidad mínima de agua que una persona debe tomar al día para estar sana. <!-- feedback: Incorrect. Es una interpretación biológica literal; el concepto es jurídico-económico. -->
+- [ ] B) El examen que deben pasar los estudiantes para graduarse de bachillerato. <!-- feedback: Incorrect. Ese es el examen Saber 11, no tiene relación con el concepto de mínimo vital. -->
+- [x] C) La porción de recursos (dinero, servicios básicos) indispensables para que una persona pueda vivir con dignidad y cubrir sus necesidades elementales. <!-- feedback: Correct. Protege que el Estado no pueda quitarle todo a una persona en un embargo o deuda. -->
+- [ ] D) La velocidad mínima a la que debe ir un carro en la autopista. <!-- feedback: Incorrect. Es una interpretación de tránsito errónea. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El principio de efectividad de los derechos exige que estos no sean solo nominales sino accesibles y utilizables. Según la Corte IDH, los derechos deben tener aplicación práctica efectiva. El tener derechos formales pero no acceso real constituye una violación del principio de efectividad. Los estudiantes confunden con otros principios abstractos que no abordan el problema de acceso real.
+El mínimo vital es lo que garantiza que la dignidad humana no sea solo un concepto abstracto, sino que se traduzca en condiciones reales de supervivencia.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty 8)
+## Question 16
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Análisis de casos de violencia de género en contextos de conflicto
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-La Fiscalía General de la Nación ha condenado a miembros de grupos armados por violencia sexual como método de guerra. En el Sistema Interamericano de Derechos Humanos, ¿qué tipo de obligación internacional se configura cuando el Estado no previene ni investiga estos hechos?
+¿Cuál es la importancia de la "Libertad de Cátedra" en las universidades y colegios?
 
 ### Options
-- [ ] A) Obligación de no hacer que prohíbe al Estado realizar actos violentos <!-- El Estado también tiene obligaciones positivas de actuar -->
-- [x] B) Obligación de hacer que requiere prevenir, investigar y sanción a responsables <!-- Las obligaciones de hacer incluyen prevenir violaciones y sancionar -->
-- [ ] C) Obligación de resultado que garantiza que no habrá más violencia <!-- Las obligaciones de derechos humanos son de medios, no de resultado -->
-- [ ] D) Obligación moral sin consecuencias jurídicas <!-- Las obligaciones internacionales de derechos humanos son jurídicas -->
+- [ ] A) El derecho de los estudiantes a no asistir a clase si no tienen ganas. <!-- feedback: Incorrect. La libertad de cátedra protege al docente y al proceso de enseñanza, no es una licencia para el ausentismo. -->
+- [ ] B) El derecho de los profesores a enseñar teorías falsas que ya han sido desmentidas por la ciencia. <!-- feedback: Incorrect. La libertad de cátedra debe basarse en la rigurosidad y el respeto a la verdad científica y ética. -->
+- [x] C) El derecho del docente a enseñar e investigar sin censura, fomentando el pensamiento crítico y la pluralidad de ideas. <!-- feedback: Correct. Evita que el gobierno o la iglesia impongan una única forma de pensar en la educación. -->
+- [ ] D) La obligación de los colegios de regalar todos los libros a los estudiantes. <!-- feedback: Incorrect. No tiene relación con la gratuidad de los materiales físicos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El Estado tiene obligaciones de hacer (obligaciones positivas): prevenir violaciones de derechos, investigar cuando ocurran, y sancionar a los responsables. Las obligaciones de derechos humanos son de medios, no de resultado (C es incorrecta). El Estado no es responsable solo por sus propios actos (obligación negativa), sino también por no cumplir su deber de debida diligencia.
+La libertad de cátedra es esencial para la democracia, pues permite que las nuevas generaciones conozcan diferentes perspectivas y aprendan a pensar por sí mismas.
 
 ---
 
-## Question 17 (Variant Advanced - Difficulty 9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v17`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Debate sobre inteligencia artificial y derechos humanos
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Una empresa colombiana implementa un sistema de reconocimiento facial para vigilancia en espacios públicos. Organizaciones de derechos humanos warnan sobre posibles violaciones. Desde el marco de derechos humanos, ¿qué análisis es pertinente sobre el uso de esta tecnología?
+El "Protocolo II" adicional a los Convenios de Ginebra es fundamental en Colombia porque regula los conflictos armados de carácter NO internacional. ¿Cuál es su objetivo principal?
 
 ### Options
-- [ ] A) Toda vigilancia viola el derecho a la privacidad siempre <!-- No toda vigilancia es violatoria; debe analizarse proporcionalidad -->
-- [x] B) El uso debe analizarse bajo principio de proporcionalidad evaluando finalidad legítima, necesidad y proporcionalidad estricta <!-- Todo límite a derechos requiere análisis de proporcionalidad -->
-- [ ] C) La empresa puede usar la tecnología
+- [ ] A) Permitir que Colombia declare la guerra a otros países sin pedir permiso a la ONU. <!-- feedback: Incorrect. Regula el conflicto interno, no las guerras internacionales de agresión. -->
+- [ ] B) Obligar a que todos los guerrilleros tengan un uniforme de color azul. <!-- feedback: Incorrect. Se enfoca en reglas de protección, no en la estética de los uniformes. -->
+- [x] C) Garantizar que incluso en una guerra civil interna se respeten derechos mínimos de la población civil y de quienes han dejado de combatir. <!-- feedback: Correct. Humaniza el conflicto interno imponiendo límites éticos y legales a los actores armados. -->
+- [ ] D) Prohibir que los periodistas hablen sobre la guerra en la televisión. <!-- feedback: Incorrect. El protocolo busca protección para las víctimas y libertad de información para denunciar abusos. -->
+
+### Explicación Pedagógica
+La aplicación del Protocolo II en Colombia significa que los grupos armados ilegales también tienen obligaciones internacionales de respetar a la población civil, aunque no sean el Estado oficial.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Considere la "Eutanasia" o el derecho a morir dignamente. En Colombia, la Corte Constitucional ha despenalizado este procedimiento en casos específicos. ¿Qué choque de derechos fundamentales se presenta en este debate?
+
+### Options
+- [ ] A) El derecho al trabajo de los médicos frente al derecho al descanso de los pacientes. <!-- feedback: Incorrect. No es una disputa laboral. -->
+- [x] B) El derecho a la vida (entendida como obligación de mantenerse vivo) frente al derecho a la autonomía personal y a no sufrir tratos crueles o inhumanos. <!-- feedback: Correct. La Corte privilegia la dignidad humana y la libertad de decidir sobre el propio cuerpo en situaciones de dolor extremo e irreversible. -->
+- [ ] C) El derecho de la familia a heredar dinero frente al derecho del hospital a cobrar la cuenta. <!-- feedback: Incorrect. El debate es sobre la autonomía de la persona y el valor de la vida, no sobre herencias. -->
+- [ ] D) El derecho a la religión del Estado frente al derecho a la ciencia de los laboratorios. <!-- feedback: Incorrect. Colombia es un Estado laico, por lo que las normas religiosas no pueden imponerse como ley civil sobre la autonomía individual. -->
+
+### Explicación Pedagógica
+Este es un caso típico donde los derechos no son absolutos y los jueces deben "ponderar" cuál debe prevalecer en situaciones trágicas, buscando siempre proteger la dignidad de la persona.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+El "Principio de Jurisdicción Universal" permite que jueces de un país juzguen crímenes de lesa humanidad ocurridos en otro país. ¿Cuál es el principal argumento a favor de este principio?
+
+### Options
+- [ ] A) Que los jueces de los países ricos saben más que los jueces de los países pobres. <!-- feedback: Incorrect. Es una postura discriminatoria que no tiene base en el derecho internacional. -->
+- [ ] B) Que los crímenes de lesa humanidad son tan graves que ofenden a toda la humanidad, por lo que no deben tener refugio en ningún lugar del mundo. <!-- feedback: Correct. Busca acabar con los "paraísos de impunidad" para dictadores y criminales. -->
+- [x] C) Que permite que los países grandes invadan a los países pequeños con la excusa de la justicia. <!-- feedback: Incorrect. El principio es judicial, no militar; requiere que el acusado esté en el territorio o haya un tratado de extradición. -->
+- [ ] D) Que es una forma de ganar dinero cobrando multas internacionales a los presidentes corruptos. <!-- feedback: Incorrect. El fin es la justicia penal (cárcel) y la verdad, no el lucro económico de otros Estados. -->
+
+### Explicación Pedagógica
+Este principio fue el que permitió, por ejemplo, que un juez español intentara juzgar al dictador chileno Augusto Pinochet, sentando un precedente de que la justicia no tiene fronteras para los crímenes atroces.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P2-derechos-humanos-098-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la frase: "Mis derechos terminan donde empiezan los del otro". ¿Cómo se aplica este concepto al derecho a la "Libertad de Expresión" en relación con el derecho al "Buen Nombre"?
+
+### Options
+- [ ] A) Que puedo decir cualquier mentira sobre alguien porque tengo libertad de expresión total. <!-- feedback: Incorrect. La libertad de expresión no protege la calumnia o la difamación. -->
+- [ ] B) Que el derecho al buen nombre prohíbe cualquier crítica contra los gobernantes o figuras públicas. <!-- feedback: Incorrect. Las figuras públicas deben tolerar una mayor crítica en una democracia. -->
+- [x] C) Que tengo derecho a opinar y denunciar, pero no tengo derecho a difamar, insultar o inventar hechos falsos que destruyan la reputación de otra persona sin pruebas. <!-- feedback: Correct. Existe una responsabilidad social en el ejercicio de la expresión. -->
+- [ ] D) Que la única forma de proteger el buen nombre es prohibiendo todas las redes sociales en el país. <!-- feedback: Incorrect. Es una medida desproporcionada que violaría el derecho a la información y la expresión. -->
+
+### Explicación Pedagógica
+La armonización de derechos es el arte de la convivencia democrática. Ningún derecho es absoluto y su ejercicio debe hacerse respetando la dignidad de los demás.

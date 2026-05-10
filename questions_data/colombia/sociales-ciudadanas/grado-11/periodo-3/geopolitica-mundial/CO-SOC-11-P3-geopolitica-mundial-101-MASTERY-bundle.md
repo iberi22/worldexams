@@ -1,51 +1,3 @@
-<think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian "Sociales Ciudadanas" subject, topic "geopolitica-mundial", grade 11, period 3.
-
-Let me follow the format exactly:
-
-1. First comes a YAML frontmatter block
-2. Then 20 questions in the specified format
-
-Let me generate questions with progressive difficulty:
-- Questions 1-4: Difficulty D3-D4
-- Questions 5-10: Difficulty D5-D6
-- Questions 11-16: Difficulty D7-D8
-- Questions 17-20: Difficulty D9-D10
-
-The questions need to be about "geopolítica mundial" (world geopolitics) with Colombian context.
-
-Let me create these:
-
-1. (D3-D4) Basic recall/understanding about geopolitical concepts
-2. (D3-D4) Understanding of current world order
-3. (D3-D4) Basic understanding of international organizations
-4. (D3-D4) Understanding of Colombia's position in the world
-
-5. (D5-D6) Application of geopolitical concepts
-6. (D5-D6) Analysis of international conflicts
-7. (D5-D6) Understanding of regional organizations
-8. (D5-D6) Application to Colombian foreign policy
-9. (D5-D6) Analysis of economic blocs
-10. (D5-D6) Understanding of soft power concepts
-
-11. (D7-D8) Analysis of complex geopolitical scenarios
-12. (D7-D8) Evaluation of international relations
-13. (D7-D8) Analysis of Colombia's diplomatic challenges
-14. (D7-D8) Evaluation of regional integration
-15. (D7-D8) Analysis of emerging powers
-16. (D7-D8) Evaluation of security issues
-
-17. (D9-D10) Complex analysis of geopolitical dynamics
-
-
-18. (D9-D10) Evaluation of Colombia's strategic options
-19. (D9-D10) Complex analysis of global governance
-20. (D9-D10) Synthesis and evaluation of geopolitical scenarios
-
-Now I'll write all 20 questions in the specified format.
-
-</think>
-
 ---
 id: "CO-SOC-11-P3-geopolitica-mundial-101-MASTERY"
 country: "colombia"
@@ -54,378 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "geopolitica-mundial"
 periodo: 3
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 101
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:57:02.259221"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identifica situaciones que reflejan relaciones de poder en contextos internacionales
-**Context:** Organizaciones internacionales y participación colombiana
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-Colombia es miembro activo de las Naciones Unidas desde 1945. Esta afiliación permite al país participar en decisiones sobre paz y seguridad mundial. ¿Qué característica define principalmente a la Organización de las Naciones Unidas (ONU)?
+¿Cuál fue el período histórico caracterizado por la tensión política y militar entre los bloques liderados por Estados Unidos (capitalista) y la Unión Soviética (socialista), que duró aproximadamente desde el fin de la Segunda Guerra Mundial hasta 1991?
 
 ### Options
-- [ ] A) Es una alianza militar permanente liderada por una sola potencia
-- [ ] B) Es una organización exclusivamente económica para el libre comercio
-- [x] C) Es una organización intergubernamental dedicada a mantener la paz y la seguridad internacional <!-- feedback: La ONU es una organización cuyo propósito principal es mantener la paz y seguridad internacionales, promover la cooperación entre Estados y proteger los derechos humanos. Fundada en 1945, agrupa a prácticamente todos los países del mundo. -->
-- [ ] D) Es un organismo que reemplaza la soberanía de los Estados miembros <!-- feedback: Incorrecto porque la ONU no reemplaza la soberanía de sus Estados miembros; opera bajo el principio de igualdad soberana de los Estados. -->
+- [ ] A) La Primera Guerra Mundial. <!-- feedback: Incorrect. Ocurrió entre 1914 y 1918 y no enfrentó a estos dos bloques en su forma bipolar clásica. -->
+- [x] B) La Guerra Fría. <!-- feedback: Correct. Se denominó "fría" porque nunca hubo un enfrentamiento militar directo y total entre las dos superpotencias, aunque sí conflictos regionales. -->
+- [ ] C) El Imperialismo. <!-- feedback: Incorrect. Es una etapa previa (siglo XIX) de expansión colonial europea. -->
+- [ ] D) La Globalización. <!-- feedback: Incorrect. Es el proceso de interconexión mundial intensificado tras el fin de la Guerra Fría. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque la ONU, fundada después de la Segunda Guerra Mundial, tiene como objetivo principal mantener la paz y seguridad internacionales. Los estudiantes frecuentemente confunden a la ONU con alianzas militares como la OTAN (opción A) o confunden su alcance con organismos puramente económicos como la OMC (opción B). La opción D es incorrecta porque la organización respeta la soberanía de sus miembros.
+La Guerra Fría definió la geopolítica del siglo XX, dividiendo al mundo en dos áreas de influencia y marcando la historia de países en todos los continentes a través de alianzas, espionaje y guerras subsidiarias.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Comprende el concepto de soberanía estatal en el sistema internacional
-**Context:** Conceptos fundamentales de las relaciones internacionales
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-En el contexto de las relaciones internacionales, el concepto de "soberanía" implica que cada Estado tiene:
+¿Cuál es la principal organización internacional, creada en 1945, cuyo objetivo primordial es mantener la paz y la seguridad internacionales y fomentar la cooperación entre las naciones?
 
 ### Options
-- [ ] A) El derecho de intervenir en los asuntos internos de otros Estados sin limitaciones
-- [x] B) La autoridad suprema dentro de su territorio y libertad de decidir en política exterior <!-- feedback: La soberanía implica que el Estado tiene autoridad suprema dentro de su territorio y puede tomar decisiones independientes en materia de política exterior, sin intervención externa ilegítima. Es un principio fundacional del sistema internacional moderno. -->
-- [ ] C) La obligación de aliarse militarmente con las potencias victoriosas de la Segunda Guerra Mundial
-- [ ] D) El compromiso de梳除 todas sus fronteras para facilitar el comercio internacional
+- [ ] A) La Unión Europea (UE). <!-- feedback: Incorrect. Es una organización regional de integración económica y política exclusiva de países europeos. -->
+- [x] B) La Organización de las Naciones Unidas (ONU). <!-- feedback: Correct. Surgió para evitar nuevos conflictos mundiales tras la devastación de la Segunda Guerra Mundial. -->
+- [ ] C) El Tratado de Libre Comercio (TLC). <!-- feedback: Incorrect. Es un tipo de acuerdo comercial, no una organización internacional política global. -->
+- [ ] D) La OTAN. <!-- feedback: Incorrect. Es una alianza militar defensiva, no una organización de cooperación global universal para la paz. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La soberanía estatal es el principio que establece la autoridad suprema de un Estado dentro de su territorio. Los estudiantes suelen confundir el concepto pensando que implica aislamiento (opción C) o apertura total (opción D). La opción A confunde soberanía con imperialismo, lo cual es conceptualmente opuesto.
+La ONU es el principal foro diplomático del mundo, donde se discuten temas de derechos humanos, medio ambiente y resolución de conflictos.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Reconoce factores que determinan el poder de un Estado en el sistema internacional
-**Context:** Poder y geopolítica contemporánea
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-El "Poder blando" (Soft Power) es un concepto desarrollado por Joseph Nye para entender la influencia internacional. Este concepto se refiere a:
+¿Cómo se denomina al proceso de interdependencia económica, tecnológica, política y cultural a escala planetaria que se ha intensificado en las últimas décadas?
 
 ### Options
-- [ ] A) La capacidad militar y el presupuesto de defensa de un Estado
-- [ ] B) Las sanciones económicas y el embargo comercial como herramientas de presión
-- [x] C) La capacidad de un Estado para influir en otros a través de la cultura, los valores y la diplomacia <!-- feedback: El Soft Power o poder blando se refiere a la capacidad de un Estado para atraer y influir en otros mediante cultura, valores políticos y política exterior. A diferencia del poder duro (militar o económico), se basa en la persuasión y el atractivo. Ejemplos: cultura estadounidense, democracia occidental. -->
-- [ ] D) El control de empresas multinacionales en mercados extranjeros
+- [ ] A) Neoliberalismo. <!-- feedback: Incorrect. Es una teoría y política económica específica dentro del proceso más amplio. -->
+- [ ] B) Proteccionismo. <!-- feedback: Incorrect. Es lo opuesto: la imposición de barreras comerciales para proteger la industria nacional. -->
+- [x] C) Globalización. <!-- feedback: Correct. Se caracteriza por la integración de los mercados mundiales y la inmediatez de la información a nivel global. -->
+- [ ] D) Bipolaridad. <!-- feedback: Incorrect. Fue la característica de la Guerra Fría (dos polos), lo opuesto a la interconexión multipolar actual. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El concepto de Soft Power, desarrollado por Joseph Nye, describe la capacidad de influir a través de la atracción en lugar de la coerción. Los estudiantes frecuentemente confunden Soft Power con Hard Power (opciones A y B). La opción D describe más bien el poder corporativo que el poder estatal blando.
+La globalización ha permitido que un evento en un lado del mundo afecte instantáneamente al otro, transformando la forma en que consumimos, trabajamos y nos relacionamos.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v4`
-**Bloom:** Apply
-**ICFES:** Aplica conceptos básicos para comprender la organización política del mundo
-**Context:** Bloques económicos y tratados de libre comercio
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Colombia participa en tratados de libre comercio con varios países y bloques económicos. El Sistema Integrado de Comercio (SIC) se encuentra en negociaciones con la Unión Europea. Esta integración económica refleja un fenómeno de:
+En la geopolítica actual, se habla de los "BRICS" como un grupo de países con economías emergentes de gran importancia. ¿Cuáles son estos países?
 
 ### Options
-- [ ] A) Aislamiento comercial para proteger la industria nacional
-- [x] B) Regionalismo abierto mediante acuerdos comerciales multilaterales <!-- feedback: El regionalismo abierto es un fenómeno donde los Estados buscan integración económica mediante tratados y acuerdos multilaterales, facilitando el flujo comercial y la inversión. Colombia, con sus TLC con Estados Unidos, la Unión Europea y países de la Alianza del Pacífico, ejemplifica este fenómeno. -->
-- [ ] C) Creación de un gobierno supranacional para reemplazar al Estado colombiano
-- [ ] D) Exclusividad comercial con una sola potencia mundial
+- [ ] A) Bélgica, Rumania, Italia, Canadá y Suiza. <!-- feedback: Incorrect. Son países europeos y norteamericanos con economías ya desarrolladas. -->
+- [x] B) Brasil, Rusia, India, China y Sudáfrica. <!-- feedback: Correct. Estos países representan una gran parte de la población y el PIB mundial, desafiando el dominio tradicional de occidente. -->
+- [ ] C) Bolivia, Ruanda, Islandia, Corea y Suecia. <!-- feedback: Incorrect. No conforman el bloque de economías emergentes conocido como BRICS. -->
+- [ ] D) Bahamas, República Dominicana, Israel, Chile y Singapur. <!-- feedback: Incorrect. Son países importantes pero no integran el núcleo original de los BRICS. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El regionalismo abierto busca la integración económica mediante acuerdos comerciales multilaterales, no el aislamiento (opción A). Los estudiantes podrían pensarerróneamente que la integración implica perder soberanía (opción C) o que se trata de alianzas exclusivas (opción D).
+El grupo BRICS busca una mayor representatividad de los países del "Sur Global" en las instituciones financieras y políticas internacionales (como el Banco Mundial o el FMI).
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Analiza el impacto de los procesos de integración regional en la política internacional
-**Context:** Organizaciones regionales y participación colombiana
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.65
 
 ### Enunciado
-La Comunidad Andina (CAN) y la Unión de Naciones Suramericanas (UNASUR) son organizaciones regionales en las que Colombia ha participado. Sin embargo, en 2018 Colombia se retiró de la UNASUR y posteriormente se incorporó a la Alianza del Pacífico. Este cambio refleja principalmente:
+¿Cuál es la función principal del "Consejo de Seguridad" de la ONU?
 
 ### Options
-- [ ] A) El abandono de toda forma de integración latinoamericana por parte de Colombia
-- [ ] B) Un cambio en la política exterior hacia una orientación más alineada con el Pacífico y mercados asiáticos
-- [ ] C) La firma de un acuerdo militar con Estados Unidos que impide la membresía en organismos sudamericanos
-- [ ] D) Una decisión económica basada exclusivamente en el mercado interno colombiano
+- [ ] A) Organizar los Juegos Olímpicos cada cuatro años. <!-- feedback: Incorrect. Los juegos los organiza el Comité Olímpico Internacional (COI), no la ONU. -->
+- [ ] B) Prestar dinero a los países pobres para que construyan carreteras. <!-- feedback: Incorrect. Esa es la función del Banco Mundial. -->
+- [x] C) Identificar amenazas a la paz y autorizar medidas como sanciones económicas o el uso legítimo de la fuerza militar. <!-- feedback: Correct. Es el único órgano de la ONU cuyas decisiones son obligatorias para todos los Estados miembros. -->
+- [ ] D) Decidir cuáles son las mejores películas del mundo cada año. <!-- feedback: Incorrect. Es una interpretación cultural errónea de las funciones de seguridad internacional. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La retirada de UNASUR y la adhesión a la Alianza del Pacífico representan una reorientación de la política exterior colombiana hacia una mayor conexión con la cuenca del Pacífico y los mercados asiáticos. Los estudiantes podrían pensarerróneamente en interpretaciones más extremas (A, C) o simplistas (D).
+El Consejo de Seguridad está compuesto por 15 miembros, de los cuales 5 son permanentes con derecho a veto (EE.UU., Rusia, China, Reino Unido y Francia), lo que refleja el poder geopolítico tras la Segunda Guerra Mundial.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v6`
-**Bloom:** Analyze
-**ICFES:** Analiza las dinámicas de conflicto y cooperación en el sistema internacional
-**Context:** Conflictos armados y desplazamiento forzado en contextos internacionales
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-El conflicto armado colombiano ha sido vinculado por la Corte Constitucional a una "economía de la guerra" conectada con dinámicas del narcotráfico internacional. Esta conexión demuestra que los conflictos internos de un país pueden estar influidos por:
+¿A qué se refiere el término "Soberanía" en las relaciones internacionales?
 
 ### Options
-- [ ] A) Exclusivamente factores internos sin conexión con mercados globales
-- [ ] B) Factores históricos coloniales que ya no tienen vigencia en el siglo XXI
-- [x] C) Redes transnationales del crimen organizado vinculadas al comercio ilegal internacional <!-- feedback: El conflicto colombiano evidencia cómo las dinámicas internas pueden estar conectadas con redes criminales transnationales. El narcotics comercio internacional, que cruza fronteras y conecta mercados globales, ha influido significativamente en la dinámica del conflicto armado en Colombia. -->
-- [ ] D) Únicamente decisiones de política doméstica sin influencia de actores externos
+- [ ] A) Al derecho de un país de invadir a sus vecinos cuando le convenga. <!-- feedback: Incorrect. La soberanía implica el respeto a las fronteras, no el derecho de agresión. -->
+- [x] B) Al poder supremo y autónomo que tiene un Estado para gobernarse a sí mismo y tomar sus propias decisiones dentro de su territorio. <!-- feedback: Correct. Es la base del sistema internacional de naciones independientes. -->
+- [ ] C) A la obligación de obedecer siempre las órdenes de las potencias mundiales. <!-- feedback: Incorrect. Al contrario, la soberanía busca proteger la autonomía frente a presiones externas injustificadas. -->
+- [ ] D) Al título que se le da a los reyes de los países europeos. <!-- feedback: Incorrect. Aunque se asocia con el monarca (el soberano), hoy es un concepto jurídico del Estado moderno. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El conflicto armado colombiano demuestra la interconexión entre dinámicas internas y redes transnationales del crimen organizado. Los estudiantes frecuentemente conceptualizan los conflictos como puramente internos (A, D) o se centran demasiado en factores históricos sin analizar conexiones actuales (B).
+La soberanía se ve limitada hoy por tratados internacionales y la protección de los derechos humanos, lo que genera debates sobre cuándo la comunidad internacional puede intervenir en un país.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Comprende el funcionamiento de los organismos internacionales en la solución de conflictos
-**Context:** Negociaciones de paz y mecanismos internacionales
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-Los acuerdos de paz firmados entre el Gobierno colombiano y las FARC-EP en 2016 fueron acompañados por el mecanismo de verificación de la Organización de las Naciones Unidas. ¿Qué papel puede desempeñar un organismo internacional como la ONU en procesos de paz?
+La "Guerra de Ucrania" (iniciada en 2022) ha tenido un gran impacto geopolítico. ¿Cuál fue una de las causas argumentadas por Rusia para su intervención, relacionada con la expansión de una alianza militar?
 
 ### Options
-- [ ] A) Reemplazar al gobierno legalmente elegido para implementar los acuerdos
-- [x] B) Acompañar y verificar el cumplimiento de los compromisos de las partes en conflicto <!-- feedback: Los organismos internacionales como la ONU pueden acompañar y verificar procesos de paz, proporcionando legitimidad internacional, monitoreo del cumplimiento y apoyo técnico. No reemplazan a los gobiernos ni imponen soluciones. -->
-- [ ] C) Decidir unilateralmente el destino político del país sin consultar a la ciudadanía
-- [ ] D) Imponer sanciones económicas al país si no se cumplen los acuerdos en un plazo determinado
+- [ ] A) El intento de Ucrania de unirse a la Liga Árabe. <!-- feedback: Incorrect. Ucrania no es un país árabe; la disputa es con una alianza occidental. -->
+- [x] B) El rechazo de Rusia a la posible entrada de Ucrania en la OTAN (Alianza del Atlántico Norte). <!-- feedback: Correct. Rusia considera que la expansión de la OTAN hacia sus fronteras es una amenaza directa a su seguridad nacional. -->
+- [ ] C) El deseo de Ucrania de adoptar el idioma chino como lengua oficial. <!-- feedback: Incorrect. No existe tal propuesta y no es el centro del conflicto geopolítico. -->
+- [ ] D) La decisión de Ucrania de prohibir la venta de petróleo a todo el mundo. <!-- feedback: Incorrect. Ucrania es una ruta de gasoductos, pero no es el principal productor de petróleo que motive el conflicto de esa forma. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Los organismos internacionales desempeñan un rol de acompañamiento y verificación en procesos de paz, nunca de sustitución de autoridades-legítimas. Los estudiantes pueden tener percepciones extremas (A, C) o confunden verificación con imposición de sanciones (D).
+Este conflicto muestra el regreso de la geopolítica de "áreas de influencia" y la tensión entre el derecho de un país a elegir sus alianzas y las preocupaciones de seguridad de sus vecinos poderosos.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Aplica el concepto de multilateralismo para comprender la política exterior colombiana
-**Context:** Política exterior y multilateralismo
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-La política exterior colombiana se ha caracterizado por el multilateralismo, buscando respaldo en organismos internacionales para resolver conflictos. Este enfoque se evidencia en la participación de Colombia en:
+El concepto de "Poder Blando" (Soft Power) en geopolítica se refiere a:
 
 ### Options
-- [x] A) La Organización de Estados Americanos (OEA) para la resolución de controversias en la región <!-- feedback: La OEA es un organismo multilateral americano donde Colombia ha participado activamente, incluyendo en procesos de resolución de controversias. Este multilateralismo se evidencia también en la participación en la ONU, CAN, Alianza del Pacífico, entre otros. -->
-- [ ] B) Exclusivamente tratados bilaterales con Estados Unidos sin participación en organismos multilaterales
-- [ ] C) Una política de no intervención total donde no participa en ningún organismo internacional
-- [ ] D) Bloques militares liderados por Venezuela para contrarrestar la influencia estadounidense
+- [ ] A) La capacidad de destruir a un enemigo mediante bombas atómicas potentes. <!-- feedback: Incorrect. El uso de la fuerza física y militar se conoce como "Poder Duro" (Hard Power). -->
+- [ ] B) El dinero que se gasta en comprar armas de plástico para los niños. <!-- feedback: Incorrect. No tiene relación con juguetes; es una teoría sobre la influencia cultural y política. -->
+- [x] C) La capacidad de un país para influir en otros a través de su cultura, valores políticos, diplomacia y prestigio, sin necesidad de usar la fuerza. <!-- feedback: Correct. Por ejemplo, la influencia del cine estadounidense, la tecnología japonesa o el diseño italiano. -->
+- [ ] D) La debilidad militar de un país que no tiene ejército. <!-- feedback: Incorrect. No es una medida de debilidad, sino una forma alternativa y efectiva de poder internacional. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. El multilateralismo colombiano se evidencia en su participación activa en la OEA, la ONU y otros organismos. Las otras opciones representan extremos o posiciones que no corresponden a la realidad histórica de la política exterior colombiana.
+El poder blando permite que las ideas de un país sean atractivas para otros, logrando que estos cooperen voluntariamente debido a la admiración o afinidad cultural.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Identifica las consecuencias del neoliberalismo en la política económica internacional
-**Context:** Economías de mercado y desigualdad social en América Latina
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Desde la década de 1990, varios países de América Latina implementaron políticas neoliberales de apertura comercial y privatización de empresas estatales. Estas políticas han sido criticadas porque:
+¿Cuál es la importancia estratégica del Estrecho de Ormuz (entre Irán y Omán) para la economía mundial?
 
 ### Options
-- [ ] A) Promovieron la igualdad social de manera inmediata en todos los países que las implementaron
-- [x] B) Generaron mayor desigualdad económica y dependencia comercial en algunos contextos <!-- feedback: Las políticas neoliberales han sido criticadas por aumentar la desigualdad y la dependencia económica en varios países de la región, al abrir mercados sin la debida protección social. Esto explica movimientos populistas y de izquierda que surgieron como reacción en varios países latinoamericanos. -->
-- [ ] C) Siempre condujeron a dictaduras militares que impidieron el desarrollo democrático
-- [ ] D) Eliminaron completamente la pobreza en los países que las implementaron
+- [ ] A) Es el lugar donde se producen las mejores perlas del mundo. <!-- feedback: Incorrect. Aunque hay perlas, no es su importancia estratégica global actual. -->
+- [x] B) Es el paso marítimo por donde transita cerca del 20% del petróleo consumido en todo el planeta. <!-- feedback: Correct. Cualquier bloqueo o tensión en esta zona provoca un aumento inmediato de los precios de la energía a nivel mundial. -->
+- [ ] C) Es la única ruta para que los barcos lleguen al Océano Antártico. <!-- feedback: Incorrect. Está en el Medio Oriente, lejos de la Antártida. -->
+- [ ] D) Es donde se encuentra la ciudad perdida de la Atlántida. <!-- feedback: Incorrect. Es una interpretación mitológica sin base en la geopolítica real. -->
 
-### Explicación Pedagógica
-La respuesta correcta es B. Las políticas neoliberales han sido criticized por generar mayores niveles de desigualdad en varios contextos latinoamericanos. Los estudiantes pueden tener visiones idealizadas (A, D) o deterministas (C) que no reflejan la complejidad histórica de la región.
+### Enunciado
+Este es un ejemplo de cómo la geografía (un paso estrecho) condiciona la seguridad energética global y las decisiones de las grandes potencias.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Comprende el concepto de interdependencia en las relaciones internacionales
-**Context:** Relaciones Colombia-Estados Unidos y dependencia económica
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Plan Colombia, implementado desde el año 2000, representó una colaboración militar y económica entre Colombia y Estados Unidos. Este tipo de relación donde ambos países dependen mutuamente para enfrentar problemas comunes se define como:
+¿A qué se refiere el término "Multipolaridad" en el orden mundial actual?
 
 ### Options
-- [ ] A) Hegemonía absoluta donde un país controla totalmente al otro
-- [ ] B) Interdependencia asimétrica donde ambos países se necesitan pero en condiciones desiguales
-- [ ] C) Autarquía total donde cada país debe resolver sus problemas sin ayuda externa
-- [ ] D) Guerra fría permanente entre las dos naciones
+- [ ] A) A que todas las personas deben vivir en el Polo Norte o el Polo Sur. <!-- feedback: Incorrect. Es una interpretación literal absurda. -->
+- [ ] B) Al dominio exclusivo de los Estados Unidos como única superpotencia mundial. <!-- feedback: Incorrect. Eso se denomina "Unipolaridad" y fue característico de la década de 1990. -->
+- [x] C) A la existencia de varios centros de poder (EE.UU., China, UE, Rusia, India) que compiten e interactúan en el escenario global. <!-- feedback: Correct. Indica que el poder ya no está concentrado en un solo lugar o en dos bloques rígidos. -->
+- [ ] D) A la obligación de que todos los países tengan presidentes que sean polistas (jugadores de polo). <!-- feedback: Incorrect. Es una interpretación humorística errónea. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las relaciones entre Colombia y Estados Unidos representan una interdependencia asimétrica: ambos países cooperan en temas como el narcotráfico, pero las condiciones de esta cooperación reflejan un desequilibrio de poder y recursos. Las opciones A, C y D representan extremos conceptuales que no corresponden a la realidad de la relación.
+La multipolaridad hace que la diplomacia sea más compleja, pues requiere negociaciones constantes entre múltiples actores con intereses diversos y a veces contradictorios.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Evalúa el papel de Colombia en los bloques económicos emergentes
-**Context:** Alianza del Pacífico y geopolítica asiática
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-La Alianza del Pacífico, integrada por Colombia, México, Chile y Perú, tiene como objetivo crear un bloque comercial orientado hacia la cuenca Asia-Pacífico. En el contexto de la rivalidad geopolítica entre Estados Unidos y China, la posición geográfica de Colombia le permite:
+La "Guerra Fría" terminó simbólicamente con un evento ocurrido en 1989. ¿Cuál fue?
 
 ### Options
-- [ ] A) Quedarse al margen de las tensiones comerciales globales para mantener neutralidad total
-- [x] B) Participar activamente en las dinámicas comerciales de la región del Pacífico como puente entre América Latina y Asia <!-- feedback: La ubicación de Colombia en el Pacífico le permite participar como actor relevante en las dinámicas comerciales entre Asia y América Latina. La Alianza del Pacífico busca facilitar el comercio y la inversión con la región Asia-Pacífico, aprovechando las ventajas geográficas de sus miembros. -->
-- [ ] C) Limitarse a relaciones bilaterales con Venezuela para resolver sus problemas económicos
-- [ ] D) Abandonar toda relación comercial con Estados Unidos para依附 a China
+- [ ] A) El hundimiento del Titanic. <!-- feedback: Incorrect. Ocurrió en 1912. -->
+- [ ] B) El primer viaje del hombre a la Luna. <!-- feedback: Incorrect. Fue en 1969, en plena Guerra Fría. -->
+- [x] C) La caída del Muro de Berlín. <!-- feedback: Correct. Simbolizó el fin de la división de Alemania y el colapso de los regímenes comunistas en Europa del Este. -->
+- [ ] D) La invención del Internet. <!-- feedback: Incorrect. Internet se desarrolló gradualmente desde los años 60, no fue un evento único que terminó la guerra en 1989. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Colombia puede actuar como puente comercial entre Asia y América Latina gracias a su acceso Pacífico. Los estudiantes pueden tener visiones de aislamiento (A, C) o de alineamiento total con una potencia (D), lo cual no refleja la política exterior pragmática de Colombia.
+La caída del muro permitió la reunificación de Alemania y marcó el inicio del fin de la Unión Soviética, que se desintegraría oficialmente en 1991.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Evalúa criticamente el papel de los organismos internacionales en la gobernanza global
-**Context:** Gobernanza global y reforma del Consejo de Seguridad de la ONU
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-El Consejo de Seguridad de las Naciones Unidas tiene 15 miembros: 5 permanentes con derecho de veto (Estados Unidos, Rusia, China, Francia, Reino Unido) y 10 no permanentes elegidos por períodos de dos años. Una crítica frecuente a esta estructura es que:
+¿Cuál es la importancia de la Antártida en la geopolítica ambiental del siglo XXI?
 
 ### Options
-- [ ] A) Permite que países pequeños tengan excesiva influencia en decisiones de paz y guerra
-- [x] B) Refleja el equilibrio de poder de 1945 y no representa la realidad geopolítica actual <!-- feedback: La estructura del Consejo de Seguridad refleja el equilibrio de poder al final de la Segunda Guerra Mundial (1945). Críticos señalan que países emergentes como India, Brasil o Japón deberían tener mayor participación, ya que la distribución actual no representa la realidad económica y demográfica del siglo XXI. -->
-- [ ] C) Ha sido reformada exitosamente en múltiples ocasiones para incluir más países
-- [ ] D) Únicamente incluye a países de América Latina y el Caribe
+- [ ] A) Es el lugar donde se planea construir la nueva capital del mundo. <!-- feedback: Incorrect. No existen planes ni condiciones para tal ciudad. -->
+- [x] B) Es una reserva vital de agua dulce y biodiversidad, protegida por un tratado que prohíbe la explotación minera y militar. <!-- feedback: Correct. El Tratado Antártico busca que el continente se use solo para fines científicos y pacíficos. -->
+- [ ] C) Es el único continente que pertenece por completo a los Estados Unidos. <!-- feedback: Incorrect. Ningún país tiene soberanía reconocida sobre la Antártida; es un territorio de cooperación internacional. -->
+- [ ] D) Es donde se guardan todas las semillas de plantas que se han extinguido. <!-- feedback: Incorrect. Aunque existe un banco de semillas en el Ártico (Svalbard), la Antártida no cumple esa función única. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El Consejo de Seguridad refleja un orden mundial de 1945, lo cual genera críticas sobre su legitimidad. Los estudiantes pueden tener visiones idealizadas sobre la estructura (A, C) o confusión sobre la composición (D).
+A medida que escasean los recursos en el resto del mundo, la presión sobre la Antártida aumenta, lo que pone a prueba la capacidad de los países para cooperar en la protección del planeta.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Analiza las relaciones de poder entre Estados y organizaciones no estatales
-**Context:** Narcotráfico y actores no estatales en la geopolítica
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-En el sistema internacional actual, además de los Estados, también actúan actores no estatales como organizaciones transnacionales, empresas multinacionales y grupos armados ilegales. El Grupo Armado Illegal más grande de Colombia, las FARC, evolucionó desde una guerrilla hasta un partido político legal. Esta transformación indica que:
+¿A qué se refiere el conflicto geopolítico entre China y Taiwán?
 
 ### Options
-- [ ] A) Los grupos armados ilegales siempre abandonan la violencia de forma voluntaria
-- [x] B) Los actores no estatales pueden transformar su naturaleza y rol en la política nacional e internacional <!-- feedback: El caso de las FARC demuestra que actores no estatales armados pueden evolucionar y abandonar la violencia para participar legalmente en política. Este proceso, facilitado por los acuerdos de paz, muestra la complejidad de los actores en la política contemporánea. -->
-- [ ] C) Los Estados pierden completamente su capacidad de regulación sobre estos grupos
-- [ ] D) Los acuerdos de paz garantizan que el conflicto nunca más se repetirá en el país
+- [ ] A) A una disputa por quién inventó los fideos de arroz. <!-- feedback: Incorrect. No es una disputa cultural o gastronómica. -->
+- [x] B) A que China considera a Taiwán como una provincia rebelde que debe reintegrarse, mientras Taiwán funciona como una democracia autónoma. <!-- feedback: Correct. Es uno de los puntos de mayor tensión militar en el mundo, involucrando también a Estados Unidos. -->
+- [ ] C) A que ambos países quieren ser dueños de todas las islas del Caribe. <!-- feedback: Incorrect. La disputa es en el Mar de la China Meridional y sobre la isla de Taiwán, no en el Caribe. -->
+- [ ] D) A que Taiwán prohibió la entrada de turistas chinos a sus playas. <!-- feedback: Incorrect. Aunque hay restricciones de viaje, el fondo del conflicto es la soberanía y el modelo político. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La transformación de las FARC ilustra cómo actores no estatales pueden cambiar su naturaleza. Las otras opciones presentan visiones deterministas o idealizadas que no reconocen la complejidad de los procesos políticos.
+Taiwán es además un centro neurálgico de la producción mundial de semiconductores (chips), lo que añade una dimensión económica vital a la disputa política por la isla.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Evalúa el impacto del cambio climático en la seguridad internacional
-**Context:** Crisis ambiental y conflictos por recursos naturales
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-El cambio climático es considerado por varios analistas como un "multiplicador de amenazas" en la seguridad internacional. ¿Por qué el calentamiento global puede aumentar los conflictos armados en ciertas regiones del mundo?
+¿Cuál es la función de la Corte Internacional de Justicia (CIJ) de La Haya en la geopolítica mundial?
 
 ### Options
-- [x] A) Porque el aumento de sequías, hambrunas y desplazamiento de poblaciones puede generar competencia por recursos y destabilizar regiones <!-- feedback: El cambio climático puede generar escasez de recursos como agua y tierra agrícola, provocando migraciones forzadas y competencia que puede derivar en conflictos. El Panel Intergubernamental sobre Cambio Climático (IPCC) ha warnado sobre estos riesgos para la seguridad. -->
-- [ ] B) Porque los países ricos永远不会 tengan problemas con el cambio climático
-- [ ] C) Porque el conflicto climático solo afecta a los países del Hemisferio Norte
-- [ ] D) Porque los ejércitos de todos los países se negarán a luchar durante las crisis ambientales
+- [ ] A) Enviar a la cárcel a los presidentes que no paguen sus deudas. <!-- feedback: Incorrect. La CIJ resuelve conflictos entre Estados, no deudas personales de mandatarios. -->
+- [x] B) Resolver disputas legales entre Estados (como fronteras marítimas o terrestres) y emitir opiniones consultivas sobre temas de derecho internacional. <!-- feedback: Correct. Por ejemplo, resolvió el litigio entre Colombia y Nicaragua por el mar Caribe. -->
+- [ ] C) Organizar un torneo mundial de abogados cada diez años. <!-- feedback: Incorrect. Es un órgano judicial serio de la ONU, no una entidad de competencias deportivas o académicas. -->
+- [ ] D) Prohibir que los países tengan ejércitos más grandes que la policía. <!-- feedback: Incorrect. No tiene autoridad para limitar el tamaño de las fuerzas militares nacionales de esa forma. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es A. El cambio climático funciona como multiplicador de amenazas al generar escasez y desplazamiento. Las opciones B, C y D presentan generalizaciones falsas o visiones deterministas que no reconocen la complejidad del fenómeno.
+La CIJ es una herramienta para la solución pacífica de controversias, evitando que los países lleguen a la guerra por desacuerdos sobre sus fronteras o derechos territoriales.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Analiza el papel de los medios de comunicación en la construcción de la opinión pública internacional
-**Context:** Fake news y desinformación en conflictos internacionales
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-En conflictos internacionales contemporáneos, la desinformación y las "noticias falsas" (fake news) han sido utilizadas como herramientas de guerra híbrida. Esto significa que:
+¿Qué es la "OCDE" (Organización para la Cooperación y el Desarrollo Económico), a la cual Colombia ingresó recientemente?
 
 ### Options
-- [ ] A) Los periódicos tradicionales han perdido toda capacidad de influir en la opinión pública
-- [ ] B) Los conflictos armados actuales ya no involucran combate militar tradicional, solo información
-- [x] C) Los Estados pueden utilizar campañas de desinformación para manipular la percepción pública y desestabilizar adversarios <!-- feedback: La guerra híbrida combina herramientas convencionales (militares) con no convencionales (desinformación, ciberguerra, influencia política). Las campañas de fake news son una herramienta de influencia que busca manipular percepciones y crear confusión en la opinión pública enemigo. -->
-- [ ] D) Las redes sociales son monitoreadas por el gobierno colombiano para evitar toda información falsa
+- [ ] A) Una alianza militar para combatir el terrorismo en África. <!-- feedback: Incorrect. Es una organización enfocada en políticas económicas y sociales, no en defensa militar. -->
+- [x] B) Un club de países que buscan promover políticas que mejoren el bienestar económico y social, basándose en buenas prácticas y estadísticas. <!-- feedback: Correct. A menudo se le llama el "club de las buenas prácticas" o el club de los países con mejores estándares de gobierno. -->
+- [ ] C) Una organización que prohíbe que los países tengan bancos privados. <!-- feedback: Incorrect. Al contrario, promueve economías de mercado sólidas y reguladas. -->
+- [ ] D) Una entidad que se encarga de cambiar los nombres de los países cada cierto tiempo. <!-- feedback: Incorrect. Es una interpretación absurda del nombre. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La guerra híbrida combina diferentes herramientas, incluyendo la desinformación. Los estudiantes pueden tener visiones extremas (A, B) o confusión sobre el rol del Estado (D).
+Ingresar a la OCDE obliga a Colombia a mejorar sus estándares en educación, transparencia, medio ambiente y economía para compararse con los países más desarrollados.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Evalúa criticamente los derechos humanos en contextos de conflicto armado
-**Context:** Desplazamiento forzado y crisis humanitaria en Colombia
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-Colombia tiene uno de los mayores índices de desplazamiento forzado interno a nivel mundial, con millones de personas obligadas a huir de sus tierras debido al conflicto armado. Esta situación representa una violación grave de derechos humanos porque:
+¿Cuál es la importancia de la "Ruta de la Seda" (Belt and Road Initiative) impulsada por China en la actualidad?
 
 ### Options
-- [ ] A) Las personas desplazadas siempre reciben compensación inmediata del Estado
-- [ ] B) El desplazamiento forzado solo ocurre en contextos de guerra civil donde no hay gobierno
-- [x] C) El desplazamiento viola el derecho a la vida, la vivienda, el trabajo y la permanencia en el territorio ancestral <!-- feedback: El desplazamiento forzado viola múltiples derechos humanos: derecho a la vida (por exposición a violencia), a la vivienda (pérdida del hogar), al trabajo (pérdida de medios de vida) y a la permanencia territorial ( Communities forzadas a abandonar sus tierras ancestrales). El derecho internacional humanitario protege a la población civil en conflictos armados. -->
-- [ ] D) Los desplazados prefieren Generally ser desplazados porque mejoran sus condiciones de vida
+- [ ] A) Es un plan para vender solo ropa de seda en todo el mundo. <!-- feedback: Incorrect. El nombre es histórico, pero el proyecto es de infraestructura masiva. -->
+- [ ] B) Es una ruta de turismo para que los chinos conozcan el desierto del Sahara. <!-- feedback: Incorrect. Aunque fomenta el turismo, su fin principal es el comercio y la influencia geopolítica. -->
+- [x] C) Es un megaproyecto de inversión en infraestructura (puertos, trenes, carreteras) para conectar a China con Asia, Europa, África y América, aumentando su influencia global. <!-- feedback: Correct. Es la apuesta de China por rediseñar el comercio mundial a su favor. -->
+- [ ] D) Es una ley que prohíbe el uso de barcos de plástico en el océano Índico. <!-- feedback: Incorrect. Es un proyecto de construcción y conectividad, no una ley prohibitiva ambiental. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El desplazamiento forzado viola múltiples derechos humanos fundamentales. Las opciones A, B y D presentan visiones idealizadas o deterministas que no corresponden a la realidad del fenómeno.
+Este proyecto muestra cómo el poder económico se traduce en influencia política, ya que los países que reciben las inversiones a menudo quedan vinculados diplomáticamente a China.
 
 ---
 
-## Question 17 (Variant Expert - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Propone soluciones a problemas geopolíticos complejos considerando múltiples actores e intereses
-**Context:** Refugiados venezolanos y crisis migratoria en Colombia
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Colombia ha recibido más de 2 millones de refugiados venezolanos, siendo el país que ha accueillido a más migrantes de Venezuela en el mundo. Esta situación requiere una respuesta coordinada entre múltiples actores. ¿Cuál sería el enfoque más efectivo para atender esta crisis humanitaria desde la perspectiva geopolítica?
+Considere el concepto de "Soberanía Alimentaria" frente a la globalización económica. ¿Cuál es el principal desafío para un país en desarrollo cuando importa la mayoría de sus alimentos básicos?
 
 ### Options
-- [ ] A) Colombia debe cerrar completamente sus fronteras para proteger el empleo nacional
-- [ ] B) La responsabilidad recae exclusivamente en Colombia sin necesidad de apoyo internacional
-- [x] C) Una estrategia multilateral que involucre apoyo internacional, cooperación regional y políticas públicas integrales para la integración de los refugiados <!-- feedback: La crisis migratoria venezolana requiere una respuesta multilateral que incluya apoyo financiero internacional, cooperación con países de la región y políticas públicas de integración social, económica y educativa. Ningún país puede enfrentar solo esta crisis de esta magnitud. -->
-- [ ] D) Desarrollar únicamente políticas de seguridad sin componente social para controlar la migración
+- [ ] A) Que los alimentos importados son más ricos y nutritivos que los nacionales. <!-- feedback: Incorrect. La nutrición no depende del origen geográfico, sino de la calidad del producto. -->
+- [x] B) La vulnerabilidad frente a las crisis de precios internacionales, problemas de transporte global y la pérdida de la capacidad de producir su propio sustento. <!-- feedback: Correct. Un país que no produce lo que come pierde autonomía política en situaciones de emergencia mundial. -->
+- [ ] C) Que los agricultores nacionales se vuelven tan ricos que ya no quieren trabajar. <!-- feedback: Incorrect. Al contrario, las importaciones masivas suelen quebrar al pequeño agricultor local. -->
+- [ ] D) La obligación de que todos los ciudadanos tengan que hablar el idioma del país que les vende la comida. <!-- feedback: Incorrect. El comercio no impone el idioma del vendedor de esa manera. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es
+El debate sobre la soberanía alimentaria muestra la tensión entre la eficiencia del mercado global (comprar donde es más barato) y la seguridad estratégica de una nación.
+
+---
+
+## Question 18 (Mastery - Difficulty D9)
+
+**ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
+
+### Enunciado
+Analice el papel de la OPEP (Organización de Países Exportadores de Petróleo). ¿Cómo puede esta organización influir en la política interna de países lejanos que no son miembros?
+
+### Options
+- [ ] A) Enviando soldados para vigilar las gasolineras de todo el mundo. <!-- feedback: Incorrect. No es una alianza militar, es un cartel económico de productores. -->
+- [x] B) Controlando la cantidad de petróleo que sale al mercado para subir o bajar el precio mundial, afectando el costo de vida y la inflación en todos los países. <!-- feedback: Correct. Cuando la gasolina sube de precio, sube el transporte de alimentos y casi todo en la economía. -->
+- [ ] C) Prohibiendo que las personas compren carros eléctricos. <!-- feedback: Incorrect. Aunque les afecta la competencia, no tienen poder para prohibir tecnologías en otros países. -->
+- [ ] D) Decidiendo quién debe ser el próximo Papa. <!-- feedback: Incorrect. Es una interpretación absurda del poder de la organización petrolera. -->
+
+### Explicación Pedagógica
+Este es un ejemplo de cómo la interdependencia global hace que decisiones tomadas en otros continentes afecten directamente el bolsillo de un ciudadano en cualquier ciudad de Colombia.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+El fenómeno de la "Cibergeopolítica" implica que el campo de batalla ya no es solo la tierra, el mar y el aire, sino también el ciberespacio. ¿Cuál es un riesgo real de esta nueva dimensión para la soberanía de un Estado?
+
+### Options
+- [ ] A) Que los virus informáticos destruyan todos los computadores de juguete de los niños. <!-- feedback: Incorrect. El riesgo es sobre la infraestructura crítica del Estado, no sobre juguetes. -->
+- [x] B) El sabotaje de sistemas de energía, salud, finanzas o elecciones mediante ataques informáticos lanzados por otros Estados o grupos criminales. <!-- feedback: Correct. Un ataque cibernético puede paralizar un país sin necesidad de disparar una sola bala. -->
+- [ ] C) Que el Internet se acabe para siempre y la gente tenga que volver a usar señales de humo. <!-- feedback: Incorrect. Es un escenario altamente improbable; la amenaza es el control y sabotaje, no la desaparición de la tecnología. -->
+- [ ] D) La obligación de que todos los ciudadanos tengan que ser programadores de software por ley. <!-- feedback: Incorrect. Es una medida absurda que no tiene relación con la soberanía cibernética. -->
+
+### Explicación Pedagógica
+La protección de los datos y de la infraestructura digital es hoy tan importante para la defensa nacional como el cuidado de las fronteras físicas.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P3-geopolitica-mundial-101-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la "Crisis de los Refugiados" a nivel global. ¿Cuál es la mayor dificultad para lograr un acuerdo internacional de protección efectivo?
+
+### Options
+- [ ] A) Que no hay suficiente espacio en el planeta para todas las personas. <!-- feedback: Incorrect. El problema no es de espacio físico total, sino de recursos, política y xenofobia. -->
+- [ ] B) Que los refugiados no quieren trabajar y solo quieren viajar por turismo. <!-- feedback: Incorrect. La gran mayoría huye de situaciones de muerte o miseria extrema; no es turismo. -->
+- [x] C) La tensión entre la obligación moral y humanitaria de proteger a los perseguidos y el deseo de los Estados de controlar sus fronteras y su seguridad nacional. <!-- feedback: Correct. Los países a menudo ven a los refugiados como una carga económica o una amenaza cultural/seguridad. -->
+- [ ] D) Que nadie sabe cómo construir casas rápidas para la gente. <!-- feedback: Incorrect. El problema es político y legal, no de capacidad técnica constructiva. -->
+
+### Explicación Pedagógica
+Este dilema pone a prueba los valores de la civilización moderna y la efectividad de los derechos humanos universales frente a los intereses egoístas de cada nación.
