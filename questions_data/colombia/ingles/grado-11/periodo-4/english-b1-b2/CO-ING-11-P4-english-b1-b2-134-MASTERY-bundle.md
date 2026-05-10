@@ -42,7 +42,6 @@ generation:
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
-needs_human_review: true
 curation:
   human_review_required: true
   human_reviewed: false
@@ -184,7 +183,6 @@ Reported speech requires backshift of tenses (will → would). Option A appears 
 **Context:** Review of a Colombian restaurant in Cartagena
 
 ### Enunciado
-Read the review:
 
 "The service was impeccable, the atmosphere charming, and the seafood platter was simply outstanding. However, the prices were somewhat steep for most locals."
 

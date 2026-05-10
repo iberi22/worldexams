@@ -14,7 +14,6 @@ generation:
   timestamp: "2026-04-03T21:05:00.000Z"
 quality_status: "NEEDS_HUMAN_REVIEW"
 generation_status: "RAW"
-needs_human_review: true
 curation:
   human_review_required: true
   agent_curated: true
