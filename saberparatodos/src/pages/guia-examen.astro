@@ -152,14 +152,20 @@ const schema = {
           </div>
         </section>
 
-        <section class="relative z-10 border-t border-white/5 bg-gradient-to-b from-transparent to-emerald-500/[0.02] px-4 py-20">
+        <section class="relative z-10 border-t border-white/5 px-4 py-20">
           <div class="mx-auto max-w-6xl">
-            <h2 class="mb-4 text-center text-3xl font-bold" data-sr="fade-up">Estadisticas de referencia</h2>
-            <p class="mb-12 text-center text-sm uppercase tracking-widest text-white/40" data-sr="fade-up" data-sr-delay="100">
-              Resumen basado en la guia oficial vigente
-            </p>
-            <div class="glass rounded-3xl p-8">
-              <StatsIcfes />
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Competencias clave</h2>
+            <div data-sr="fade-up" data-sr-delay="100">
+              <CompetencyList />
+            </div>
+          </div>
+        </section>
+
+        <section class="relative z-10 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent px-4 py-20">
+          <div class="mx-auto max-w-6xl">
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Estrategias y recomendaciones</h2>
+            <div data-sr="fade-up" data-sr-delay="100">
+              <TipsSection />
             </div>
           </div>
         </section>
@@ -271,24 +277,6 @@ const schema = {
         </div>
       </section>
     )}
-
-    <section class="relative z-10 border-t border-white/5 px-4 py-20">
-      <div class="mx-auto max-w-6xl">
-        <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Competencias clave</h2>
-        <div data-sr="fade-up" data-sr-delay="100">
-          <CompetencyList />
-        </div>
-      </div>
-    </section>
-
-    <section class="relative z-10 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent px-4 py-20">
-      <div class="mx-auto max-w-6xl">
-        <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Estrategias y recomendaciones</h2>
-        <div data-sr="fade-up" data-sr-delay="100">
-          <TipsSection />
-        </div>
-      </div>
-    </section>
 
     <section class="relative z-10 overflow-hidden border-t border-white/5 px-4 py-24">
       <div class="absolute inset-0 animate-pulse-slow bg-emerald-500/[0.03]"></div>
