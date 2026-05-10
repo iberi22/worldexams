@@ -1,55 +1,3 @@
-<think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for "Sociales Ciudadanas" topic "problemas-ambientales" (environmental problems) for grade 11, period 4.
-
-Let me generate these questions following the strict format requested. I need to:
-
-1. Start with the YAML frontmatter
-2. Generate 20 questions with progressive difficulty:
-   - Questions 1-4: Difficulty D3-D4
-   - Questions 5-10: Difficulty D5-D6
-   - Questions 11-16: Difficulty D7-D8
-   - Questions 17-20: Difficulty D9-D10
-3. Each question must have:
-   - ID
-   - Bloom level
-   - ICFES competency
-   - Context
-   - Enunciado
-   - 4 options (A, B, C, D) with one correct marked [x]
-   - Explicación Pedagógica
-4. Use Colombian context and modern situations
-5. Plausible distractors based on common student errors
-6. No "todas las anteriores" or "ninguna de las anteriores"
-
-Let me generate the questions:
-
-Topics I can cover for "problemas-ambientales" in Colombia:
-- Deforestation
-- Mining impacts
-- Water pollution
-- Climate change effects on Colombia
-- Biodiversity loss
-- Urban environmental problems
-- Illegal mining
-- Palm oil deforestation
-- Glacier melting
-- Air pollution in cities
-- Waste management
-- Environmental policies
-- Carbon footprint
-- Sustainable development
-- Environmental justice
-- Mining in páramos
-- Coastal erosion
-- Ecosystem services
-- Environmental movements in Colombia
-- Circular economy
-
-Let me create the 20 questions now.
-
-</think>
-
-```yaml
 ---
 id: "CO-SOC-11-P4-problemas-ambientales-107-MASTERY"
 country: "colombia"
@@ -58,396 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "problemas-ambientales"
 periodo: 4
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 107
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:19:04.573240"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificar causas y consecuencias de problemas ambientales
-**Context:** Situación actual de los páramos en Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-Los páramos colombiano son considerados ecosistemas únicos a nivel mundial porque:
+¿Cuál es el principal gas de efecto invernadero emitido por las actividades humanas, responsable en gran medida del calentamiento global actual?
 
-- [ ] A) Son zonas de gran extensión territorial en la Amazonia colombiana
-- [ ] B) Son el hogar de las principales especies migratorias de aves del país
-- [x] C) Son ecosistemas que regulan el ciclo del agua y concentran alta biodiversidad endémica <!-- feedback: Los páramos son ecosistema de alta montaña que actúan como esponjas hídricas y son únicos por su biodiversidad -->
-- [ ] D) Son las zonas con mayor actividad minera legalized del territorio nacional
+### Options
+- [ ] A) Oxígeno (O2). <!-- feedback: Incorrect. El oxígeno es vital para la respiración y no es un gas de efecto invernadero que atrape calor. -->
+- [x] B) Dióxido de Carbono (CO2). <!-- feedback: Correct. Proviene principalmente de la quema de combustibles fósiles (carbón, petróleo, gas) y la deforestación. -->
+- [ ] C) Nitrógeno (N2). <!-- feedback: Incorrect. Es el gas más abundante en la atmósfera (78%) pero no contribuye al efecto invernadero de forma significativa. -->
+- [ ] D) Helio (He). <!-- feedback: Incorrect. Es un gas noble muy ligero que no tiene impacto en el cambio climático. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Los páramos son fundamentales porque actúan como reguladores del ciclo hídrico, almacenando agua en época seca y liberándola gradualmente. Además, son ecosistemas únicos a nivel mundial con alta concentración de biodiversidad endémica. Los distractores A y B presentan información incorrecta: los páramos no están en la Amazonia ni son principales hábitats de aves migratorias. El distracto D es incorrecto porque la minería en páramos está prohibida por la ley colombiana.
+La acumulación de CO2 en la atmósfera atrapa la radiación infrarroja, elevando la temperatura media del planeta y alterando los sistemas climáticos globales.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Reconocer problemáticas ambientales locales y globales
-**Context:** Contaminación del aire en Bogotá
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-La principal fuente de contaminación del aire en la ciudad de Bogotá proviene de:
+¿A qué se refiere el término "Biodiversidad"?
 
-- [ ] A) Las quemas de basura en los barrios populares del sur de la ciudad
-- [ ] B) Las erupciones volcánicas del complejo volcánico de los Nevados
-- [x] C) El parque automotor y las emisiones industriales <!-- feedback: Según los estudios de calidad del aire, el transporte terrestre representa más del 60% de las emisiones contaminantes en Bogotá -->
-- [ ] D) Los incineradores de residuos hospitalarios ubicados en la zona industrial
+### Options
+- [ ] A) A la cantidad de dinero que un país invierte en parques naturales. <!-- feedback: Incorrect. Eso se refiere al presupuesto ambiental o inversión en conservación. -->
+- [ ] B) Al estudio de los diferentes tipos de nubes en el cielo. <!-- feedback: Incorrect. Eso es parte de la meteorología, no de la biodiversidad. -->
+- [x] C) A la variedad de formas de vida en la Tierra, incluyendo genes, especies y ecosistemas. <!-- feedback: Correct. Colombia es uno de los países más megadiversos del mundo. -->
+- [ ] D) A la velocidad a la que crecen las ciudades modernas. <!-- feedback: Incorrect. Eso se llama urbanización o crecimiento demográfico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El parque automotor (vehículos particulares, buses, camiones y motos) junto con las emisiones industriales constituyen la principal fuente de contaminantes atmosféricos en Bogotá. El distractor A es un problema real pero no es la fuente principal. Los distractores B y D no son fuentes significativas de contaminación udara en la capital.
+Colombia ocupa el primer lugar en especies de aves y orquídeas, lo que le otorga una responsabilidad enorme en la protección de la biodiversidad global.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprender la relación entre acciones humanas y deterioro ambiental
-**Context:** Deforestación en la Amazonia colombiana
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-En los últimos años, la deforestación en la Amazonia colombiana ha aumentado significativamente. Esta problemática se relaciona principalmente con:
+¿Qué es el "Desarrollo Sostenible"?
 
-- [ ] A) La expansión natural de comunidades indígenas que necesitan nuevos territorios
-- [ ] B) La construcción de parques nacionales para promover el ecoturismo
-- [x] C) La expansión de la frontera agrícola, la ganadería extensiva y la minería ilegal <!-- feedback: Los estudios del IDEAM confirman que las principales causas de deforestación son la conversión de bosque para ganadería, agricultura de cultivos ilícitos y minería ilegal -->
-- [ ] D) Los incendios naturales provocados por rayos durante la temporada de droughts
+### Options
+- [ ] A) Un modelo que busca agotar todos los recursos naturales lo más rápido posible para ganar dinero. <!-- feedback: Incorrect. Eso sería un modelo extractivista insostenible. -->
+- [x] B) Aquel que satisface las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. <!-- feedback: Correct. Equilibra el crecimiento económico, la equidad social y la protección ambiental. -->
+- [ ] C) Una ley que prohíbe el uso de cualquier tipo de tecnología en la industria. <!-- feedback: Incorrect. La tecnología es clave para lograr la sostenibilidad mediante energías limpias y eficiencia. -->
+- [ ] D) El crecimiento de la población sin control en las grandes ciudades. <!-- feedback: Incorrect. Al contrario, el desarrollo sostenible busca un crecimiento equilibrado y ordenado. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Las principales causas de deforestación en la Amazonia colombiana según el IDEAM son la ganadería extensiva, los cultivos de uso ilícito y la minería ilegal. El distractor A es incorrecto porque las comunidades indígenas generalmente practican conservación de sus territorios. Los distractores B y D no son causas principales del aumento de la deforestación documentado en los últimos años.
+El concepto surgió del Informe Brundtland (1987) y es hoy el eje de las políticas ambientales mundiales bajo los Objetivos de Desarrollo Sostenible (ODS) de la ONU.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Interpretar información sobre problemas ambientales
-**Context:** Gestión de residuos sólidos en ciudades colombianas
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-El relleno sanitario Doña Juana, que recibe los residuos de Bogotá, presenta problemas de saturación porque:
+¿Cuál es la principal causa de la deforestación en la selva amazónica colombiana en los últimos años?
 
-- [ ] A) Los bogotanos reciclan demasiado y generan mucho desperdicio para procesar
-- [x] B) La ciudad genera más residuos de los que puede procesar el relleno conforme a su capacidad de diseño <!-- feedback: El relleno sanitario Doña Juana alcanzó su vida útil y enfrenta problemas de saturación debido al crecimiento poblacional y patrones de consumo -->
-- [ ] C) Los vecinos del relleno se niegan a permitir que llegue el basura de otras ciudades
-- [ ] D) El diseño original preveía recibir solo residuos orgánicos y no residuos plásticos
+### Options
+- [ ] A) El crecimiento natural de los ríos que ahoga a los árboles. <!-- feedback: Incorrect. Los ríos son parte del ecosistema y no causan deforestación masiva. -->
+- [ ] B) La recolección de leña por parte de los turistas para hacer fogatas. <!-- feedback: Incorrect. Es un impacto mínimo comparado con las causas estructurales a gran escala. -->
+- [x] C) La expansión de la frontera agrícola para ganadería extensiva, cultivos de uso ilícito y minería ilegal. <!-- feedback: Correct. Estas actividades económicas transforman rápidamente la selva en pastizales o áreas degradadas. -->
+- [ ] D) La caída de meteoritos que queman grandes extensiones de bosque. <!-- feedback: Incorrect. Es un evento astronómico extremadamente raro que no explica la pérdida sistemática de bosque. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Doña Juana enfrenta saturación porque genera más residuos de los que puede procesar, principalmente debido al crecimiento poblacional y al aumento en el consumo. El distractor A es contradictorio y no representa la realidad. Los distractores C y D presentan situaciones que no corresponden con los problemas reales del relleno sanitario.
+La deforestación destruye hábitats, libera carbono almacenado y altera el ciclo del agua, afectando las lluvias incluso en el centro del país.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Aplicar conceptos ambientales a situaciones concretas
-**Context:** Cambio climático y eventos extremos en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-Colombia experimenta cada vez más eventos climáticos extremos como inundaciones y sequías. Esto se debe principalmente a:
+¿Qué es el "Efecto Invernadero" natural y por qué es necesario para la vida en la Tierra?
 
-- [ ] A) La posición geográfica del país en el ecuador que siempre ha generado clima extremo
-- [x] B) Las alteraciones en los patrones climáticos globales causadas por actividades humanas <!-- feedback: El cambio climático altera los sistemas climáticos locales, aumentando la frecuencia e intensidad de eventos extremos según el IPCC -->
-- [ ] C) La construcción de demasiados embalses que alteran el ciclo natural del agua
-- [ ] D) La ausencia de políticas de ordenamiento territorial en los municipios del país
+### Options
+- [ ] A) Es un fenómeno dañino que el hombre inventó para calentar el planeta. <!-- feedback: Incorrect. El efecto invernadero ha existido siempre; el problema es su intensificación por el hombre. -->
+- [ ] B) Es un mecanismo para filtrar los rayos solares y que no haya luz en la noche. <!-- feedback: Incorrect. No filtra la luz, sino que retiene el calor. -->
+- [x] C) Es la capacidad de la atmósfera de retener parte del calor del sol, manteniendo una temperatura adecuada para la vida. <!-- feedback: Correct. Sin él, la Tierra sería un planeta congelado (-18°C en promedio). -->
+- [ ] D) Es un sistema de riego para plantas que se usa en los campos de cultivo. <!-- feedback: Incorrect. Es una interpretación literal errónea del término "invernadero". -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El cambio climático global, causado principalmente por las emisiones de gases de efecto invernadero de actividades humanas, está alterando los patrones climáticos locales y aumentando la frecuencia e intensidad de eventos extremos. El distractor A es incorrecto: la posición geográfica de Colombia no es nueva y no explica el aumento de eventos extremos. Los distractores C y D no son causas principales de los cambios en los patrones climáticos.
+Es vital distinguir entre el efecto invernadero natural (bueno) y el cambio climático antropogénico (malo), causado por el exceso de gases emitidos por la industria y el transporte.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Identificar responsabilidades en problemáticas ambientales
-**Context:** Minería ilegal en zonas de páramo
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-La minería ilegal en los páramos representa una amenaza particularmente grave porque:
+¿Qué se entiende por "Justicia Ambiental" en el contexto de las comunidades afectadas por proyectos mineros o industriales?
 
-- [ ] A) Los páramos son zonas donde se encuentran las principales minas de oro del país
-- [ ] B) Los minerales extraídos son revendidos en mercados internacionales a bajo precio
-- [x] C) Los páramos son fuentes de agua para millones de personas y su destrucción afecta la disponibilidad hídrica regional <!-- feedback: Los páramos almacenan y regulan el agua, y su degradación afecta directamente el suministro de agua potable a poblaciones aguas abajo -->
-- [ ] D) Los páramos son propiedad de las empresas multinacionales que pierden millones por la minería ilegal
+### Options
+- [ ] A) El derecho de los animales a tener abogados en los juicios. <!-- feedback: Incorrect. Aunque hay derechos de la naturaleza, la justicia ambiental se enfoca en la distribución de cargas entre humanos. -->
+- [ ] B) La obligación de que todos los delincuentes vivan en el campo para cuidar los árboles. <!-- feedback: Incorrect. No es una medida penal de reubicación de presos. -->
+- [x] C) El tratamiento justo y la participación significativa de todas las personas, independientemente de su raza o ingresos, en la toma de decisiones ambientales que les afecten. <!-- feedback: Correct. Busca que los grupos más pobres no sufran más contaminación que los ricos. -->
+- [ ] D) El permiso para contaminar si se paga una multa muy alta al gobierno. <!-- feedback: Incorrect. Eso es una tasa retributiva, pero la justicia ambiental busca evitar el daño y garantizar la equidad. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Los páramos son considerados los "fábricas de agua" porque regulan el ciclo hídrico y son fuente de agua para millones de colombianos. La minería ilegal los destruye, afectando directamente la disponibilidad de agua potable. El distractor A es falso: los páramos no son principales zonas mineras. Los distractores B y D no reflejan la problemática ambiental central de la minería en páramos.
+La justicia ambiental denuncia el "racismo ambiental", donde vertederos o minas se ubican siempre cerca de comunidades afro, indígenas o empobrecidas.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Analizar el impacto de políticas ambientales
-**Context:** Economía naranja y medio ambiente en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-El gobierno colombiano ha promoted la economía naranja (industrias creativas y culturales). Sin embargo, esta iniciativa podría enfrentar tensiones con objetivos ambientales cuando:
+¿Cuál es la función del "Protocolo de Kioto" y el posterior "Acuerdo de París" en la política ambiental mundial?
 
-- [ ] A) Se desarrollan aplicaciones tecnológicas para monitorear la calidad del aire
-- [ ] B) Se construyen teatros y museos con materiales reciclados en zonas urbanas
-- [x] C) Se aprueba la construcción de Estudios cinematográficos en zonas de bosque nativo sin evaluación ambiental rigurosa <!-- feedback: La expansión de cualquier industria sin controles ambientales puede generar deforestación y pérdida de biodiversidad, contradictoriose con la sostenibilidad -->
-- [ ] D) Se capacitan jóvenes en oficios relacionados con el reciclaje y la reutilización
+### Options
+- [ ] A) Prohibir el uso de papel en todas las oficinas del mundo. <!-- feedback: Incorrect. Se enfocan en la energía y emisiones, no específicamente en el papel de oficina. -->
+- [x] B) Establecer compromisos internacionales para reducir las emisiones de gases de efecto invernadero y limitar el aumento de la temperatura global. <!-- feedback: Correct. Buscan que el calentamiento no supere los 1.5°C o 2°C respecto a la era preindustrial. -->
+- [ ] C) Decidir qué países pueden tener barcos y cuáles no. <!-- feedback: Incorrect. No tienen relación con la propiedad de embarcaciones. -->
+- [ ] D) Organizar la limpieza de todos los océanos en un solo fin de semana. <!-- feedback: Incorrect. Aunque la contaminación marina es importante, estos acuerdos son sobre cambio climático y atmósfera. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Cuando cualquier proyecto de desarrollo, incluyendo los culturales, se ejecuta sin la debida evaluación y controles ambientales, puede generar impactos negativos como deforestación y pérdida de ecosistemas. Los distractores A, B y D presentan situaciones coherentes con el desarrollo sostenible, no conflictos ambientales.
+Estos tratados muestran el esfuerzo del multilateralismo por resolver un problema global que ningún país puede solucionar por sí solo.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Analizar relaciones causales en problemas ambientales complejos
-**Context:** Glaciares tropicales en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-Los glaciares tropicales de Colombia, como el del Nevado del Ruiz, están retrocediendo rápidamente. Este fenómeno tiene consecuencias directas porque:
+¿Cuál es el impacto ambiental de la "Minería de Oro Aluvial" (en los ríos) que se practica ilegalmente en el Chocó y el Amazonas?
 
-- [ ] A) Aumenta el turismo de escalada lo que genera más ingresos para las comunidades locales
-- [ ] B) Disminuye la biodiversidad de las zonas de alta montaña donde habitaban osos espectacled
-- [x] C) Reduce la regulación del agua en época seca afectando el suministro para riego y consumo humano en zonas bajas <!-- feedback: Los glaciares actúan como reguladores hídricos; su derretimiento acelerado altera el ciclo del agua y afecta a poblaciones que dependen de estos recursos -->
-- [ ] D) Genera más volcanismo porque el hielo pesa menos sobre las cámaras magmáticas
+### Options
+- [ ] A) Ayuda a que el agua de los ríos brille más y se vea más bonita. <!-- feedback: Incorrect. Es una visión ingenua de un desastre ecológico. -->
+- [x] B) La contaminación de las aguas con mercurio y cianuro, la destrucción de los cauces y la muerte de la fauna acuática. <!-- feedback: Correct. El mercurio entra en la cadena alimenticia (peces) y afecta gravemente la salud humana. -->
+- [ ] C) El aumento del número de delfines rosados en el río. <!-- feedback: Incorrect. Al contrario, la contaminación y el ruido de las dragas los alejan o matan. -->
+- [ ] D) La obligación de que los mineros limpien el agua antes de usarla. <!-- feedback: Incorrect. Los mineros ilegales no suelen usar sistemas de tratamiento; vierten los tóxicos directamente al río. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Los glaciares funcionan como reservas de agua que se liberan gradualmente, regulando el suministro durante la sequía. Su desaparición afecta directamente a las comunidades que dependen de estos recursos hídricos. El distractor A no es una consecuencia directa del retroceso glacial. El distractor B no es la consecuencia más inmediata. El distractor D es científicamente incorrecto.
+La minería ilegal no solo destruye el medio ambiente sino que alimenta economías criminales y destruye la salud de las comunidades étnicas de la región.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Evaluar la coherencia de acciones frente a problemas ambientales
-**Context:** Producción de aceite de palma en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Colombia es uno de los mayores productores mundiales de aceite de palma. La expansión de este cultivo puede generar conflictos ambientales porque:
+En Colombia, se debate intensamente sobre el uso del "Fracking" para la extracción de petróleo y gas. ¿Cuál es el principal argumento de quienes se oponen a esta técnica por razones ambientales?
 
-- [ ] A) El aceite de palma es tóxico para el consumo humano directo
-- [x] B) Su expansión ha reemplazado bosques naturales y ecosistemas estratégicos como los humedales <!-- feedback: La expansión de la palma africana se ha asociado con deforestación y conversión de ecosistemas estratégicos, según reportes de Ministerios de Ambiente y organizaciones ambientales -->
-- [ ] C) El cultivo requiere grandes cantidades de agua potable para su irrigación
-- [ ] D) Los subproductos del aceite de palma contaminan los océanos
+### Options
+- [ ] A) Que el petróleo que sale con fracking es de color verde y no sirve. <!-- feedback: Incorrect. El petróleo es el mismo; el problema es el método de extracción. -->
+- [ ] B) Que hace que la gente pierda las ganas de trabajar en el campo. <!-- feedback: Incorrect. Es un argumento sociológico secundario frente a los riesgos físicos ambientales. -->
+- [x] C) El riesgo de contaminación de los acuíferos (agua subterránea), el alto consumo de agua dulce y la posibilidad de provocar sismos (temblores). <!-- feedback: Correct. La fracturación hidráulica usa grandes volúmenes de agua con químicos a alta presión. -->
+- [ ] D) Que el fracking atrae a extraterrestres que quieren robarse el agua. <!-- feedback: Incorrect. Es una opción absurda. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La expansión de la palma aceitera ha sido связана с deforestation de bosques naturales y ecosistemas estratégicos en Colombia, especialmente en regiones como la Orinoquía y la Amazonia. El distractor A es falso: el aceite de palma es comestible. El distractor C no es el problema principal. El distractor D no es un impacto significativo documentado de la producción de palma.
+El debate sobre el fracking pone a prueba la capacidad del país para elegir entre ingresos económicos rápidos y la seguridad hídrica y geológica a largo plazo.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Relacionar actores sociales con problemáticas ambientales
-**Context:** Conflictos por minería en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-En el departamento del Chocó biogeográfico, varias comunidades afrodescendientes e indígenas se han opuesto a proyectos de minería a gran escala. Su oposición se fundamenta principalmente en que:
+¿Por qué se considera que los Páramos son ecosistemas estratégicos para la seguridad nacional de Colombia?
 
-- [ ] A) Las comunidades rechazan toda actividad económica en sus territorios por principios culturales
-- [x] B) Sus territorios son fuente de agua y biodiversidad que se verían afectados, y tienen derechos constituidos sobre estos territorios <!-- feedback: Las comunidades han invoke derechos territorales constituidos y argumentos de protección ambiental y cultural para oppose proyectos extractivos -->
-- [ ] C) Las comunidades prefieren recibir regalías por petróleo en lugar de minería
-- [ ] D) El gobierno les ha prometido que no habrá ningún proyecto extractivo en el país
+### Options
+- [ ] A) Porque allí se encuentran las minas de oro más grandes del mundo. <!-- feedback: Incorrect. Aunque hay minerales, su valor estratégico principal es otro. -->
+- [ ] B) Porque es el único lugar donde se pueden ocultar los ejércitos en caso de guerra. <!-- feedback: Incorrect. No es su función estratégica principal en el siglo XXI. -->
+- [x] C) Porque son reguladores del ciclo hídrico que proveen agua potable a más del 70% de la población colombiana y a las principales ciudades. <!-- feedback: Correct. Sin páramos sanos, ciudades como Bogotá o Medellín sufrirían de sed y falta de energía hidroeléctrica. -->
+- [ ] D) Porque en los páramos crecen las plantas para fabricar billetes. <!-- feedback: Incorrect. No tiene relación con la fabricación de papel moneda. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Las comunidades del Chocó biogeográfico se oponen fundamentándose en sus derechos territoriales constituidos, la protección de fuentes de agua, y la defensa de la biodiversidad única de la región. El distractor A es simplista e inexacto. Los distractores C y D no reflejan la realidad de las preocupaciones de estas comunidades.
+Colombia posee casi la mitad de los páramos del mundo. Su protección es vital frente al cambio climático para evitar sequías extremas en las zonas andinas.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Evaluar críticamente políticas públicas ambientales
-**Context:** Política ambiental del gobierno Petro
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-El gobierno colombiano ha promoted políticas de "paz ambiental" como alternativa al modelo extractivista. Sin embargo, esta transición enfrenta desafíos porque:
+¿Qué es la "Huella Ecológica" de un individuo o de un país?
 
-- [ ] A) El Estado colombiano ha prohibido completamente todas las actividades mineras del país
-- [x] B) Existen intereses económicos establecidos, compromisos contractuales y necesidades de ingresos fiscales que generan tensiones entre la conservación y el desarrollo <!-- feedback: La transición energética enfrenta tensiones entre compromisos ambientales, obligaciones contractuales con empresas y necesidades de empleo e ingresos públicos -->
-- [ ] C) Los países vecinos han decided no participar en iniciativas de conservación regional
-- [ ] D) Las comunidades indígenas se oponen sistemáticamente a cualquier política ambiental
+### Options
+- [ ] A) El tamaño de los zapatos que usa una persona para caminar por el bosque. <!-- feedback: Incorrect. Es una interpretación literal errónea. -->
+- [ ] B) El número de árboles que una persona planta en toda su vida. <!-- feedback: Incorrect. Plantar árboles reduce la huella, pero no es la definición del indicador. -->
+- [x] C) Un indicador que mide la cantidad de tierra y agua productiva necesaria para producir los recursos que consume una población y para absorber sus residuos. <!-- feedback: Correct. Refleja el impacto del estilo de vida en el planeta. -->
+- [ ] D) La fotografía de una huella de animal encontrada en la selva. <!-- feedback: Incorrect. Eso es un rastro biológico, no un indicador de sostenibilidad económica y social. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La transición hacia modelos menos extractivistas enfrenta tensiones reales entre objetivos ambientales, contratos vigentes con empresas, necesidades de empleo y generación de ingresos fiscales. El distractor A es falso. Los distractores C y D no representan las complejidades de la transición ambiental colombiana.
+Si todos los seres humanos vivieran como un habitante promedio de Estados Unidos o Europa, se necesitarían varios planetas Tierra para sostener ese nivel de consumo.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Argumentar sobre la sostenibilidad de prácticas económicas
-**Context:** Carbón térmico en La Guajira
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-La explotación carbonífera a cielo abierto en La Guajira afecta significativamente a las comunidades wayúu porque:
+¿Cuál es la relación entre la pérdida de biodiversidad y la aparición de nuevas enfermedades (zoonosis) como ocurrió con el COVID-19?
 
-- [ ] A) El carbón extraído se vende directamente a las comunidades para cocinar sus alimentos
-- [x] B) La actividad altera cuerpos de agua, genera polvo contaminante y ha desplazado actividades tradicionales de pastoreo y agricultura de subsistencia <!-- feedback: Los estudios documentan impactos sobre fuentes hídricas, calidad del aire y desplazamiento de prácticas tradicionales de comunidades wayúu -->
-- [ ] C) El gobierno destina todos los recursos del carbón a programas culturales wayúu
-- [ ] D) Las empresas carboníferas han proporcionado tierras fértiles equivalentes a las afectadas
+### Options
+- [ ] A) No hay ninguna relación; las enfermedades son castigos divinos que no dependen de la naturaleza. <!-- feedback: Incorrect. La ciencia ha demostrado vínculos estrechos entre la salud ambiental y la salud humana. -->
+- [x] B) Al destruir ecosistemas y traficar fauna silvestre, el ser humano entra en contacto estrecho con virus que antes estaban aislados, facilitando su salto a las personas. <!-- feedback: Correct. Los ecosistemas sanos actúan como una barrera o "filtro" que nos protege de estos virus. -->
+- [ ] C) Que los animales se vuelven malos y quieren atacar a los humanos con virus. <!-- feedback: Incorrect. Los animales no actúan con maldad intencionada; el desequilibrio lo provoca la acción humana. -->
+- [ ] D) Que si hay menos plantas, el aire está tan sucio que los virus crecen solos en el polvo. <!-- feedback: Incorrect. Los virus necesitan huéspedes vivos para replicarse; el tema es el contacto forzado por la destrucción de hábitats. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La minería de carbón a cielo abierto en La Guajira genera impactos ambientales y sociales significativos sobre las comunidades wayúu, incluyendo alteración de fuentes hídricas, contaminación por polvo y desplazamiento de sus actividades tradicionales. Los distractores A, C y D no reflejan la realidad de los impactos documentados.
+Este concepto se conoce como "Una sola salud" (One Health), reconociendo que la salud de las personas está conectada con la de los animales y el medio ambiente.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v13`
-**Bloom:** Evaluate
-**ICFES:** Analizar conflictos entre derechos y obligaciones ambientales
-**Context:**pyme sector and environmental compliance
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-Una pyme en Medellín que manufactura productos químicos descubre que sus residuos están siendo vertidos incorrectamente al sistema de alcantarillado. La empresa debería:
+El "Acuerdo de Escazú" es un tratado regional para América Latina y el Caribe sobre medio ambiente. ¿Cuál es su objetivo más innovador y necesario para un país como Colombia?
 
-- [ ] A) Continuar con el proceso actual porque las multas ambientales son bajas comparadas con modernizar la planta
-- [ ] B) Verter los residuos en lotes vacíos de las zonas industriales para evitar el sistema de alcantarillado
-- [x] C) Implementar un sistema de tratamiento de aguas residuales y cumplir con la normatividad ambiental vigente <!-- feedback: La normatividad ambiental colombiana обязывает a las empresas a tratar sus residuos antes de verterlos, y el cumplimiento es tanto legal como ambientalmente responsable -->
-- [ ] D) Solicitar a los empleados queboten los residuos como basura común en la ciudad
+### Options
+- [ ] A) Prohibir que la gente use bolsas de plástico en los supermercados. <!-- feedback: Incorrect. Aunque trata sobre residuos, no es su objetivo central o innovador. -->
+- [ ] B) Obligar a que todos los edificios sean de color verde. <!-- feedback: Incorrect. Es una interpretación estética absurda de un tratado jurídico. -->
+- [x] C) Garantizar el acceso a la información ambiental, la participación ciudadana y la protección especial para los defensores de los derechos humanos en asuntos ambientales. <!-- feedback: Correct. Colombia es uno de los países más peligrosos para los líderes ambientales. -->
+- [ ] D) Crear un ejército latinoamericano para invadir a los países que no reciclan. <!-- feedback: Incorrect. El acuerdo es de cooperación civil y judicial, no de agresión militar. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Las empresas tienen la obligación legal y ambiental de tratar sus residuos antes de verterlos, según la normatividad colombiana. El distractor A refleja una actitud de no cumplimiento. Los distractores B y D son opciones ilegalese que empeorarían la contaminación y generarían mayores sanciones.
+Ratificar e implementar Escazú busca proteger la vida de quienes defienden el territorio y asegurar que las decisiones sobre el medio ambiente sean transparentes y democráticas.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Juzgar la efectividad de estrategias de conservación
-**Context:**pyme sector and environmental compliance
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-En relación con los Objetivos de Desarrollo Sostenible (ODS), Colombia ha avanzado en varios de ellos, pero enfrenta dificultades significativas en:
+¿A qué se refiere el término "Obsolescencia Programada" y cómo contribuye a los problemas ambientales?
 
-- [ ] A) ODS 4 (Educación de calidad) donde se han construido miles de escuelas nuevas
-- [ ] B) ODS 7 (Energía asequible y no contaminante) donde la generación hidroeléctrica es abundante
-- [x] C) ODS 15 (Vida de ecosistemas terrestres) donde la deforestación y pérdida de biodiversidad siguen siendo altas <!-- feedback: Los informes de seguimiento del UNDP y entidades colombianas muestran que la deforestación y pérdida de ecosistemas mantienen a Colombia rezagada en el ODS 15 -->
-- [ ] D) ODS 1 (Fin de la pobreza) donde la pobreza extrema se ha reducido significativamente
+### Options
+- [ ] A) A la obligación de estudiar historia antigua en el colegio. <!-- feedback: Incorrect. No tiene relación con el currículo educativo de historia. -->
+- [ ] B) Al hecho de que las personas se vuelven viejas y ya no pueden trabajar. <!-- feedback: Incorrect. Se refiere a los productos, no a los seres humanos. -->
+- [x] C) Al diseño de productos con una vida útil corta para obligar al consumidor a comprar uno nuevo rápidamente, generando toneladas de basura electrónica. <!-- feedback: Correct. Es una estrategia comercial que choca con la sostenibilidad. -->
+- [ ] D) A la caída del sistema de internet cuando hay mucha gente conectada. <!-- feedback: Incorrect. Eso es una saturación de red, no una programación de fin de vida del producto. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Los informes de seguimiento a los ODS en Colombia muestran que el país tiene avances en varios objetivos, pero la deforestación y pérdida de biodiversidad mantienen al país en dificultades para cumplir el ODS 15 (Vida de ecosistemas terrestres). Los distractores A, B y D señalan áreas donde el país ha tenido avances相对的.
+La obsolescencia programada es el motor de la "economía lineal" (extraer, fabricar, usar, tirar), que es la causa principal del agotamiento de recursos y la contaminación masiva.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Proponer soluciones frente a problemas ambientales complejos
-**Context:** Economía circular en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-Colombia ha conmemprado implementar políticas de economía circular para reducir la generación de residuos. Una estrategia coherente con este modelo sería:
+¿Cuál es la importancia de las "Abejas" y otros polinizadores para la seguridad alimentaria mundial?
 
-- [ ] A) Aumentar la producción de plásticos de un solo uso para generar más empleo en el sector del reciclaje
-- [x] B) Diseñar productos para que sean reparables y duraderos, reduciendo la obsolescencia programada <!-- feedback: La economía circular busca minimizar residuos desde el diseño, promoviendo productos duraderos, reparables y con materiales recuperables -->
-- [ ] C) Construir más rellenos sanitarios para procesar adecuadamente los residuos generados
-- [ ] D) Exportar los residuos plásticos a otros países para que ellos los procesen
+### Options
+- [ ] A) Producen miel que es el único alimento que los humanos necesitan para vivir. <!-- feedback: Incorrect. La miel es un complemento, no la base de la dieta humana. -->
+- [ ] B) Atacan a las plagas de los cultivos y las matan con su veneno. <!-- feedback: Incorrect. Su función no es de control de plagas (depredación), sino reproductiva vegetal. -->
+- [x] C) Permiten la reproducción de miles de especies de plantas, incluyendo la mayoría de las frutas, verduras y semillas que comemos. <!-- feedback: Correct. Sin polinizadores, la producción de alimentos colapsaría. -->
+- [ ] D) Son necesarias para fabricar la cera con la que se hacen las velas de los cumpleaños. <!-- feedback: Incorrect. Es un uso industrial menor; su valor ecológico es mucho más profundo. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La economía circular busca transformar el sistema de producción para minimizar residuos desde el diseño, promoviendo productos duraderos, reparables y con materiales recuperables. Los distractores A, C y D son estrategias lineales que no reducen la generación de residuos en su origen, sino que intentan manejar las consecuencias del modelo lineal.
+El uso masivo de pesticidas químicos está causando una desaparición alarmante de abejas, lo que representa una amenaza silenciosa pero catastrófica para la agricultura.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v16`
-**Bloom:** Create
-**ICFES:** Formular alternativas de solución a problemas ambientales
-**Context:** Contaminación del río Magdalena
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-El río Magdalena presenta altos niveles de contaminación por vertimientos domésticos e industriales. Una propuesta integral coherente con el desarrollo sostenible para abordar este problema incluiría:
+¿Qué es el "Blanqueamiento de Corales" y por qué es una señal de alarma ambiental en el Caribe colombiano?
 
-- [ ] A) Construir una represa para retener todos los contaminantes antes de que lleguen al mar
-- [x] B) Combinar el tratamiento de aguas residuales, la educación ambiental a comunidades ribereñas y sistemas de producción más limpios en la industria <!-- feedback: Las soluciones integrales combinan intervenciones en fuentes de contaminación (tratamiento de aguas), educación de comunidades y transformación de procesos productivos -->
-- [ ] C) Prohibir completamente toda actividad económica a lo largo del río Magdalena
-- [ ] D) Trasladar a todas las comunidades ribereñas a ciudades para que no contaminen más el río
+### Options
+- [ ] A) Es cuando los corales se vuelven más limpios y sanos gracias a la sal del mar. <!-- feedback: Incorrect. Al contrario, es una señal de enfermedad y muerte del coral. -->
+- [ ] B) Es una técnica de decoración para que las peceras se vean blancas. <!-- feedback: Incorrect. Es un proceso biológico natural afectado por el cambio climático. -->
+- [x] C) Es la pérdida de las algas simbióticas que dan color y alimento al coral, debido al aumento de la temperatura del agua por el cambio climático. <!-- feedback: Correct. Si el blanqueamiento dura mucho, el arrecife muere, dejando a las costas sin protección y a los peces sin hábitat. -->
+- [ ] D) Es cuando la gente tira pintura blanca al mar por accidente. <!-- feedback: Incorrect. No es una contaminación por pintura, es una respuesta térmica biológica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Los problemas ambientales complejos requieren soluciones integrales que aborden las múltiples fuentes de contaminación (domiciliarias e industriales) y promuevan cambios en hábitos de consumo y producción. Los distractores A, C y D son soluciones simplistas o extremos que no son viables ni integradas.
+Los arrecifes de coral son las "selvas del mar". Su desaparición afectaría la pesca artesanal y aumentaría la erosión de las playas en lugares como Cartagena o San Andrés.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Proponer alternativas de intervención ambiental desde la ciudadanía
-**Context:** Participación ciudadana en decisiones ambientales
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Un grupo de estudiantes de grado 11 en Cali desea contribuir a reducir la contaminación del aire en su ciudad. Una acción coherente con su rol ciudadano sería:
+Analice el concepto de "Deuda Ecológica": los países ricos consumen recursos y emiten gases que afectan a todo el mundo, mientras que los países pobres sufren las peores consecuencias del cambio climático sin haberlo causado. ¿Qué implica esto para las negociaciones mundiales?
 
-- [ ] A) Petition al alcalde que prohiba inmediatamente todos los vehículos de más de 10 años
-- [ ] B) Organizar una campaña de sensibilización sobre los efectos del parque automotor y promover el uso de bicicleta y transporte público entre sus compañeros <!-- feedback: La ciudadanía puede contribuir mediante la educación y el example personal, influencing behavior change en sus comunidades -->
-- [ ] C) Presentarse como candidatos a la prochainas elecciones para ocupar posiciones en el concejo
-- [ ] D) Demandar al Estado ante tribunales internacionales por no garantizar aire limpio
+### Options
+- [ ] A) Que los países pobres deben pedir perdón por ser tan débiles. <!-- feedback: Incorrect. Es una postura que ignora la responsabilidad histórica. -->
+- [ ] B) Que el cambio climático solo debería afectar a los países que tienen fábricas. <!-- feedback: Incorrect. El clima es un sistema global; el daño se reparte por todo el planeta. -->
+- [x] C) Que los países desarrollados tienen una "responsabilidad histórica" de financiar la adaptación y transición energética de los países en desarrollo. <!-- feedback: Correct. Es el principio de responsabilidades compartidas pero diferenciadas. -->
+- [ ] D) Que está prohibido que los países pobres tengan industrias propias. <!-- feedback: Incorrect. El debate es sobre cómo financiar un desarrollo limpio, no sobre prohibir el progreso. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Los ciudadanos pueden contribuir activamente a la solución de problemas ambientales mediante acciones de educación, sensibilización y promoción de comportamientos sostenibles. El distractor A es una demanda poco realista para estudiantes. El distractor C está fuera del alcance inmediato de estudiantes de grado 11. El distractor D es una acción jurídica legítima pero no es la forma más directa de contribuir desde su posición.
+La deuda ecológica es un concepto ético y político que busca que la lucha contra el cambio climático no aumente la brecha de desigualdad entre naciones.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v18`
-**Bloom:** Create
-**ICFES:** Diseñar estrategias de comunicación ambiental
-**Context:** Desinformación sobre cambio climático en redes sociales
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
 
 ### Enunciado
-Una organización ambiental juvenil nota que circula desinformación sobre cambio climático en redes sociales. Una estrategia efectiva para contrarrestar esta desinformación sería:
+Considere la paradoja de la "Eficiencia Energética": a veces, cuando un aparato consume menos energía, la gente lo usa más tiempo o compra más aparatos, terminando por gastar la misma o más energía que antes (Efecto Rebote). ¿Qué nos enseña esto sobre la solución tecnológica a los problemas ambientales?
 
-- [ ] A) Reportar todas las cuentas que publiquen información diferente a la posición oficial del gobierno
-- [ ] B) Crear contenido educativo con fuentes científicas verificables que explique los fundamentos del cambio climático y cite fuentes confiables <!-- feedback: La comunicación ambiental efectiva se basa en contenido verificado, fuentes confiable y explicación clara de la ciencia del clima -->
-- [ ] C) Bloquear a todos los usuarios que hagan comentarios escépticos sobre el cambio climático
-- [ ] D) Crear cuentas anónimas para atacar personalmente a los diffusores de desinformación
+### Options
+- [ ] A) Que la tecnología no sirve para nada y hay que volver a la edad de piedra. <!-- feedback: Incorrect. La tecnología ayuda, pero no es la solución mágica única. -->
+- [ ] B) Que hay que prohibir que los ingenieros inventen cosas nuevas. <!-- feedback: Incorrect. El problema no es el invento, sino el comportamiento social del consumo. -->
+- [x] C) Que la eficiencia tecnológica debe ir acompañada de cambios en los hábitos de consumo y en la cultura de la suficiencia. <!-- feedback: Correct. No basta con mejores máquinas si no cambiamos nuestra forma de vivir. -->
+- [ ] D) Que cuanta más energía gastemos, más barato se volverá el recibo de la luz. <!-- feedback: Incorrect. Al contrario, la alta demanda suele encarecer los precios y agotar recursos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La comunicación ambiental efectiva se basa en transparencia, uso de fuentes científicas verificables y explicación clara. Los distractores A, C y D son estrategias de confrontación que pueden generar más ruido y no contribuyen a la educación ambiental.
+Este dilema muestra que los problemas ambientales son "complejos" y requieren soluciones integrales: técnicas, políticas y culturales simultáneamente.
 
 ---
 
-## Question 19 (Variant Basic - Difficulty D10)
+## Question 19 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v19`
-**Bloom:** Create
-**ICFES:** Formular propuestas integrales para la sostenibilidad
-**Context:** Adaptación al cambio climático en comunidades costeras del Caribe
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-Las comunidades pesqueras del departamento del Chocó están enfrentando el aumento del nivel del mar y la reducción de capturas pesqueras. Una propuesta de adaptación integral coherente con la justicia ambiental debería incluir:
+El "Antropoceno" es un término propuesto por científicos para definir una nueva época geológica donde la actividad humana es la fuerza dominante que cambia el planeta. ¿Cuál es la mayor crítica a este concepto desde las ciencias sociales?
 
-- [ ] A) Exigir al gobierno que proporcione trabajos de oficina a todos los pescadores para que dejen la actividad pesquera
-- [x] B) Combinar programas de diversificación productiva (acuicultura sostenible), sistemas de alerta temprana, reubicación planificada de asentamientos vulnerables y compensación por servicios ecosistémicos <!-- feedback: Las propuestas de adaptación
+### Options
+- [ ] A) Que los humanos somos demasiado pequeños para cambiar la Tierra. <!-- feedback: Incorrect. La evidencia física (química atmosférica, microplásticos) demuestra que sí la hemos cambiado. -->
+- [ ] B) Que es un nombre muy difícil de pronunciar para los niños en el colegio. <!-- feedback: Incorrect. El nombre es técnico, pero la crítica de fondo es política y económica. -->
+- [x] C) Que culpa a "toda la humanidad" por igual (Antropos), cuando en realidad son un sistema económico específico (capitalismo) y un grupo de países ricos los responsables de la mayoría del daño. <!-- feedback: Correct. Algunos prefieren llamarlo "Capitaloceno". -->
+- [ ] D) Que la geología solo debe estudiar las rocas y no a las personas. <!-- feedback: Incorrect. La geología estudia las capas de la tierra; si el hombre ha dejado una capa de basura y químicos, la geología debe estudiarlo. -->
+
+### Explicación Pedagógica
+Esta crítica resalta que la responsabilidad ambiental no está repartida de forma equitativa, y que hablar de "humanidad" en general oculta las profundas injusticias globales.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P4-problemas-ambientales-107-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Analice la "Tragedia de los Comunes": cuando un recurso pertenece a todos (como el aire o los peces del mar) y nadie tiene que pagar por usarlo, cada individuo intenta sacar el máximo provecho personal hasta que el recurso se agota o se destruye para todos. ¿Cuál es la solución que propone el derecho ambiental moderno?
+
+### Options
+- [ ] A) Que cada persona sea dueña de un pedazo de aire y lo venda a sus vecinos. <!-- feedback: Incorrect. Es físicamente imposible y éticamente cuestionable privatizar recursos vitales difusos. -->
+- [ ] B) Que nadie use nunca más ningún recurso natural para que no se agoten. <!-- feedback: Incorrect. El ser humano necesita recursos para sobrevivir; la clave es la gestión. -->
+- [x] C) La creación de regulaciones estatales, tratados internacionales y normas comunitarias que limiten el uso individual y castiguen el abuso en beneficio del bien común. <!-- feedback: Correct. Se trata de gobernar lo público con reglas claras de sostenibilidad. -->
+- [ ] D) Dejar que cada uno haga lo que quiera y que la naturaleza se limpie sola. <!-- feedback: Incorrect. La naturaleza tiene límites de regeneración; sin reglas, el colapso es inevitable ante la presión humana masiva. -->
+
+### Explicación Pedagógica
+La tragedia de los comunes explica por qué es tan difícil detener la sobrepesca o la contaminación del aire: requiere que todos cedan un poco de su libertad de explotación para asegurar la supervivencia de todos a largo plazo.

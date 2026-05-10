@@ -1,51 +1,3 @@
-<think>
-The user wants me to generate 20 multiple-choice questions in the style of ICFES Saber 11 exam for Colombian high school students (grado 11) in the subject "Sociales Ciudadanas" (Citizenship Social Studies), specifically about "problemas-ambientales" (environmental problems), period 4.
-
-Let me analyze the requirements:
-
-1. 20 questions total
-2. Progressive difficulty:
-   - Questions 1-4: Difficulty D3-D4
-   - Questions 5-10: Difficulty D5-D6
-   - Questions 11-16: Difficulty D7-D8
-   - Questions 17-20: Difficulty D9-D10
-
-3. Each question must follow the exact format provided
-4. Must be relevant to Colombian context
-5. Must align with ICFES Saber 11 style
-6. 4 options per question, one correct marked with [x]
-7. No "all of the above" or "none of the above"
-8. Include pedagogical explanation for why the correct answer is correct and why distractors are plausible
-
-Let me create these questions about environmental problems in Colombia. I'll cover topics like:
-- Deforestation
-- Mining impacts
-- Water pollution
-- Climate change effects on Colombia
-- Biodiversity loss
-- Environmental policies
-- Illegal mining
-- Air pollution
-- Solid waste management
-- Protected areas
-- Sustainable development
-- Environmental justice
-- Ecosystem services
-- Green economy
-- Environmental education
-
-Let me generate the questions now.
-
-For the difficulty levels:
-- D3-D4 (Remember/Understand): Basic recall and comprehension
-- D5-D6 (Apply/Analyze): Application and analysis
-- D7-D8 (Analyze/Evaluate): Analysis and evaluation
-- D9-D10 (Evaluate/Create): Evaluation and creation/synthesis
-
-I'll craft specific question types that test different cognitive levels, focusing on real-world Colombian environmental challenges. The questions will require students to demonstrate nuanced understanding of complex environmental issues, moving beyond simple recall to critical analysis and problem-solving.
-
-</think>
-
 ---
 id: "CO-SOC-11-P4-problemas-ambientales-108-MASTERY"
 country: "colombia"
@@ -54,395 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "problemas-ambientales"
 periodo: 4
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 108
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:20:51.246337"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identifier información específica sobre problemas ambientales
-**Context:** Biodiversidad y ecosistemas colombianos
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-Colombia es considerada uno de los países con mayor biodiversidad en el mundo. Esta característica se debe principalmente a que el país posee:
+¿Cuál es el principal factor que contribuye a la "Crisis del Agua" a nivel mundial, a pesar de que el planeta tiene mucha agua?
 
 ### Options
-- [ ] A) Una extensión territorial superior a los 2 millones de kilómetros cuadrados
-- [x] B) Una variedad de pisos térmicos generados por la Cordillera de los Andes <!-- feedback: La presencia de la cordillera andina en Colombia genera múltiples pisos térmicos que van desde el nivel del mar hasta las nieves perpetuas, creando hábitats diversos para miles de especies -->
-- [ ] C) Exclusivamente clima tropical cálido en toda su extensión territorial
-- [ ] D) Cuatro océanos que bañan sus costas simultáneamente <!-- feedback: Colombia solo tiene acceso a dos océanos: Pacífico y Atlántico (Mar Caribe) -->
+- [ ] A) El agua salada se está volviendo dulce y no se puede tomar. <!-- feedback: Incorrect. Es un fenómeno imposible a gran escala y la crisis es por falta de agua dulce, no por su exceso. -->
+- [x] B) El porcentaje de agua dulce disponible es muy pequeño (3%) y gran parte está contaminada o atrapada en glaciares que se derriten hacia el mar. <!-- feedback: Correct. Además, la distribución geográfica es muy desigual y la demanda humana crece sin parar. -->
+- [ ] C) Los peces se están tomando todo el agua de los ríos. <!-- feedback: Incorrect. Es una interpretación absurda del ciclo biológico. -->
+- [ ] D) El gobierno ha prohibido el uso de agua dulce en todos los países. <!-- feedback: Incorrect. Al contrario, el acceso al agua es un derecho humano reconocido por la ONU. -->
 
 ### Explicación Pedagógica
-Colombia tiene aproximadamente 1.14 millones de km², no 2 millones. El país no tiene clima exclusivamente tropical (por ejemplo, las zonas andinas tienen clima frío). El concepto clave es que la diversidad de pisos térmicos, causados por la Cordillera de los Andes, es el factor principal que explica la mega-biodiversidad colombiana.
+La escasez de agua dulce es uno de los mayores desafíos del siglo XXI, exacerbado por el cambio climático que altera los ciclos de lluvia y el retroceso de los glaciares andinos en Colombia.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Reconocer conceptos básicos relacionados con problemáticas ambientales
-**Context:** Deforestación en Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-La deforestación en Colombia ha sido identificada como uno de los problemas ambientales más urgentes del país. Según datos del Instituto de Investigación de la Universidad Nacional de Colombia (UNAL), el departamento que registró las mayores tasas de deforestación en los últimos años fue:
+¿Qué es la "Lluvia Ácida" y por qué es un problema ambiental para las ciudades y bosques?
 
 ### Options
-- [ ] A) Chocó
-- [ ] B) Amazonas
-- [x] C) Caquetá <!-- feedback: El departamento del Caquetá, ubicado en la Amazonia colombiana, ha registrado históricamente las mayores tasas de deforestación, impulsado por la expansión de la frontera agrícola, la ganadería y la minería ilegal -->
-- [ ] D) Magdalena
+- [ ] A) Lluvia que contiene ácidos mágicos que hacen crecer las plantas más rápido. <!-- feedback: Incorrect. No es mágica y no ayuda al crecimiento; es dañina. -->
+- [ ] B) Lluvia que cae únicamente sobre las fábricas de baterías. <!-- feedback: Incorrect. La lluvia cae sobre áreas extensas según el movimiento de las nubes. -->
+- [x] C) Lluvia con niveles elevados de ácido sulfúrico y nítrico producidos por la quema de carbón y petróleo, que daña edificios, suelos y vida acuática. <!-- feedback: Correct. Corroe monumentos históricos y acidifica los lagos matando peces. -->
+- [ ] D) Lluvia que es de color rojo brillante y asusta a las personas. <!-- feedback: Incorrect. Suele verse como lluvia normal, su daño es químico y no siempre detectable a simple vista. -->
 
 ### Explicación Pedagógica
-El Caquetá es parte de la Amazonia colombiana y ha sido foco de deforestación por actividades ilegales. El Chocó es el departamento más lluvioso pero no lidera en deforestación. Amazonas es departamento selvático pero Caquetá ha registrado tasas más altas según monitoreos satelitales recientes.
+La lluvia ácida es un ejemplo de contaminación transfronteriza: los gases emitidos en una ciudad industrial pueden viajar cientos de kilómetros y caer como lluvia ácida en un bosque virgen o en otro país.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprender relaciones causales en problemáticas ambientales
-**Context:** Minería ilegal en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-La minería ilegal en Colombia genera múltiples impactos ambientales negativos. Uno de los efectos más graves de esta actividad es:
+¿Cuál es la función principal de la "Capa de Ozono" en la atmósfera terrestre?
 
 ### Options
-- [ ] A) El incremento del turismo en zonas rurales
-- [ ] B) La generación de empleo formal en comunidades indígenas
-- [x] C) La contaminación de fuentes de agua con mercurio utilizado en la extracción <!-- feedback: La minería ilegal utiliza mercurio para separar el oro de otros materiales, causando graves contaminaciones en ríos y fuentes de agua que afectan tanto ecosistemas como comunidades humanas que dependen de estos recursos -->
-- [ ] D) El fortalecimiento de la economía formal departamental
+- [ ] A) Atrapar el calor del sol para que no se escape al espacio. <!-- feedback: Incorrect. Esa es la función de los gases de efecto invernadero, no específicamente del ozono estratosférico. -->
+- [x] B) Filtrar la mayor parte de la radiación ultravioleta (UV) del sol, protegiendo a los seres vivos de daños en la piel y los ojos. <!-- feedback: Correct. Su debilitamiento por gases como los CFC fue una gran crisis ambiental en los años 80 y 90. -->
+- [ ] C) Producir oxígeno para que los aviones puedan volar más alto. <!-- feedback: Incorrect. No es su función biológica ni física en la estratosfera. -->
+- [ ] D) Evitar que los meteoritos choquen contra la Tierra. <!-- feedback: Incorrect. La desintegración de meteoritos ocurre por la fricción con toda la atmósfera, no específicamente por el ozono. -->
 
 ### Explicación Pedagógica
-La minería ilegal es reconocida por usar mercurio sin protocolos de seguridad, contaminando ecosistemas acuáticos. No genera empleo formal (es clandestina), no incrementa turismo y no fortalece economías departamentales. Los estudiantes frecuentemente confunden efectos con supuestas bondades de actividades económicas.
+El Protocolo de Montreal (1987) es el acuerdo ambiental más exitoso de la historia, logrando prohibir los químicos que destruían el ozono y permitiendo que la capa se esté recuperando.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Interpretar información sobre políticas ambientales
-**Context:** Cambio climático y Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-Colombia ha experimentado efectos significativos del cambio climático global. Entre las siguientes situaciones, aquella que NO corresponde directamente a un efecto del cambio climático en el territorio colombiano es:
+¿A qué se refiere el término "Eutrofización" en lagos y ciénagas de Colombia?
 
 ### Options
-- [ ] A) Aumento de la frecuencia e intensidad de fenómenos como La Niña y El Niño
-- [ ] B) Desaparición acelerada de glaciers en la Cordillera Central
-- [x] C) Incremento sostenido de la cobertura boscosa en la Amazonia <!-- feedback: La cobertura boscosa en la Amazonia colombiana ha DISMINUIDO, no aumentado, debido a la deforestación. Esta opción presenta la situación opuesta a la realidad -->
-- [ ] D) Aumento del nivel del mar que afecta zonas costeras del Caribe
+- [ ] A) Al proceso de congelamiento total de las aguas durante el invierno. <!-- feedback: Incorrect. Colombia es tropical y no presenta congelamiento masivo de lagos. -->
+- [ ] B) Al aumento de la transparencia del agua que permite ver el fondo. <!-- feedback: Incorrect. Al contrario, el agua se vuelve turbia y verde. -->
+- [x] C) Al exceso de nutrientes (nitrógeno y fósforo) provenientes de fertilizantes y alcantarillas, que causa un crecimiento descontrolado de algas y agota el oxígeno para los peces. <!-- feedback: Correct. Un ejemplo común es el buchón de agua cubriendo la superficie de las ciénagas. -->
+- [ ] D) A la evaporación total de un lago debido al calor extremo. <!-- feedback: Incorrect. Eso se llama desecación; la eutrofización es un desequilibrio químico por exceso de nutrientes. -->
 
 ### Explicación Pedagógica
-La deforestación en la Amazonia colombiana ha sido un problema creciente, no una ganancia de cobertura boscosa. Los estudiantes pueden confundir políticas de conservación (que existen) con la realidad de aumento de deforestación. El derretimiento de glaciares y los fenómenos climáticos extremos sí son efectos documentados del cambio climático en Colombia.
+La eutrofización mata la biodiversidad acuática y arruina la pesca artesanal, siendo causada principalmente por la mala gestión de los residuos agrícolas y domésticos.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Aplicar conceptos ambientales a casos concretos
-**Context:** Gestión de residuos sólidos en ciudades colombianas
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-En una comunidad rural del Chocó biogeográfico, los habitantes consumen productos empacados que generan residuos plásticos. Al no existir un sistema de reciclaje formal, estos residuos terminan en los ríos y quebradas de la zona. La alternativa que representa la MEJOR estrategia de manejo ambiental para esta comunidad es:
+En las ciudades colombianas como Bogotá o Medellín, se emiten alertas por "Contaminación del Aire" (Material Particulado PM2.5). ¿Cuál es la principal fuente de esta contaminación?
 
 ### Options
-- [ ] A) Quemar los plásticos en fogones al aire libre para "eliminarlos"
-- [x] B) Implementar un sistema de separación en la fuente y compostaje para residuos orgánicos, reutilizando plásticos para artesanías locales <!-- feedback: La reducción en origen y reutilización de materiales es una estrategia sostenible aplicable a comunidades con recursos limitados, mientras que el reciclaje formal requiere infraestructura que no existe -->
-- [ ] C) Transportar todos los residuos en lancha hasta Bogotá para su procesamiento
-- [ ] D) Acumular los residuos en un terreno Baldío hasta que se "decomongan"
+- [ ] A) El humo de los cigarrillos que fuman las personas en los parques. <!-- feedback: Incorrect. Aunque es dañino, no es la fuente principal de la contaminación masiva del aire urbano. -->
+- [ ] B) El polvo que traen los vientos desde el desierto del Sahara. <!-- feedback: Incorrect. Ocurre a veces, pero la causa constante y mayoritaria es interna de la ciudad. -->
+- [x] C) Las emisiones de los vehículos de transporte (especialmente los que usan diésel) y la actividad industrial de las fábricas. <!-- feedback: Correct. Las partículas diminutas entran a los pulmones y causan enfermedades respiratorias graves. -->
+- [ ] D) La falta de nubes que impide que el aire se limpie solo. <!-- feedback: Incorrect. Las nubes no limpian el aire por sí solas; la lluvia puede ayudar, pero el problema es el exceso de emisiones. -->
 
 ### Explicación Pedagógica
-Los estudiantes frecuentemente eligen opciones que transfieren el problema (enviar a otra ciudad) o que son dañinas ambientalmente (quemar plásticos libera dioxinas). El compostaje y reutilización artesanal son soluciones apropiadas al contexto rural y de bajos recursos, alineadas con economía circular básica.
+El PM2.5 es peligroso porque al ser tan pequeño llega directamente al torrente sanguíneo, afectando el corazón y el cerebro, lo que obliga a tomar medidas como el "pico y placa" ambiental.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Relacionar políticas públicas con soluciones ambientales
-**Context:** Áreas protegidas en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-El Sistema Nacional de Áreas Protegidas (SINAP) de Colombia incluye parques nacionales naturales, reservas naturales y territorios de comunidades indígenas. El propósito fundamental de estas áreas protegidas es:
+¿Qué es la "Economía Lineal" y por qué se considera el motor de los problemas ambientales modernos?
 
 ### Options
-- [ ] A) Permitir la explotación turística ilimitada para generar divisas
-- [ ] B) Reservar territorios exclusivamente para la investigación científica sin participación comunitaria
-- [x] C) Garantizar la conservación de la biodiversidad y los servicios ecosistémicos para generaciones presentes y futuras <!-- feedback: Las áreas protegidas buscan conservar la biodiversidad y los servicios ecosistémicos (regulación climática, provisión de agua, polinización) mediante figuras legales que limitan o regulan las actividades humanas -->
-- [ ] D) Expulsar a las comunidades que habitaban tradicionalmente esos territorios
+- [ ] A) Una economía donde todos los precios suben en línea recta hacia arriba. <!-- feedback: Incorrect. Es una interpretación matemática errónea del término económico. -->
+- [ ] B) Un sistema donde el dinero solo se puede gastar en una sola ciudad. <!-- feedback: Incorrect. No tiene relación con la geografía del gasto. -->
+- [x] C) El modelo de "extraer, producir, usar y tirar" que ignora los límites de la naturaleza y genera montañas de residuos. <!-- feedback: Correct. Supone que los recursos son infinitos y la capacidad de la Tierra para absorber basura también. -->
+- [ ] D) La obligación de que todos los productos se vendan en cajas cuadradas y rectas. <!-- feedback: Incorrect. Se refiere al ciclo de vida del producto, no a su forma física. -->
 
 ### Explicación Pedagógica
-Las áreas protegidas no son para turismo ilimitado ni excluyen completamente a comunidades (muchas son de gestión comunitaria). El objetivo central es la conservación a largo plazo, no la investigación exclusiva ni la expulsión de habitantes tradicionales.
+Superar la economía lineal mediante la "Economía Circular" es fundamental para salvar el planeta, buscando que los residuos se conviertan nuevamente en materias primas.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Analizar relaciones entre actividades humanas y daño ambiental
-**Context:** Contaminación del agua en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la zona urbana de Medellín, durante las últimas décadas se ha adelantado un proceso de recuperación del río Medellín (hoy called Río Aburrá). Este proceso ha incluido dragado, tratamiento de aguas residuales y creación de correlate green corridors. Estas acciones se orientan principalmente a:
+¿Cuál es la importancia del "Convenio de Diversidad Biológica" (CDB) para un país megadiverso como Colombia?
 
 ### Options
-- [ ] A) Incrementar el valor comercial de los terrenos ribereños para proyectos inmobiliarios
-- [x] B) Restaurar los servicios ecosistémicos del río y mejorar la calidad de vida de la población urbana <!-- feedback: La recuperación de ríos urbanos busca restaurar servicios ecosistémicos como la regulación de inundaciones, la purificación natural del agua, y mejorar la habitabilidad urbana -->
-- [ ] C) Garantizar el uso exclusivo del río para navegación comercial
-- [ ] D) Eliminar todas las especies marinas del río para facilitar su dragado
+- [ ] A) Obligar a que todos los colombianos tengan una mascota en su casa. <!-- feedback: Incorrect. No se refiere a animales domésticos personales. -->
+- [x] B) Establecer reglas internacionales para la conservación, el uso sostenible de los recursos naturales y el reparto justo de los beneficios derivados de los recursos genéticos. <!-- feedback: Correct. Evita que empresas extranjeras se lleven el conocimiento ancestral o las plantas de Colombia sin pagar regalías. -->
+- [ ] C) Prohibir que los científicos estudien las plantas del Amazonas. <!-- feedback: Incorrect. Al contrario, promueve la investigación pero bajo reglas de soberanía nacional. -->
+- [ ] D) Organizar concursos mundiales para elegir el animal más bonito de cada país. <!-- feedback: Incorrect. Es un tratado legal serio con implicaciones económicas y ambientales profundas. -->
 
 ### Explicación Pedagógica
-Los estudiantes pueden pensar que la recuperación de ríos es solo por motivos económicos o inmobiliarios. Sin embargo, la restauración ecológica busca devolver funciones ecosistémicas pérdidas. Eliminar especies sería contraproducente y contradictorio con cualquier programa de recuperación.
+Colombia ejerce su soberanía ambiental a través de estos tratados, asegurando que su mayor riqueza (la biodiversidad) sea un motor de desarrollo propio y no solo una fuente de saqueo.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Evaluar críticamente información ambiental
-**Context:** Energía y medio ambiente en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-Colombia ha apostado por la diversificación de su matriz energética, promoviendo la generación de energía a partir de fuentes no convencionales como la solar y la eólica. Esta estrategia energético-ambiental busca principalmente:
+¿Cuál es el impacto ambiental de los "Microplásticos" en los océanos y la cadena alimenticia?
 
 ### Options
-- [ ] A) Reducir la dependencia del gas natural producido en el país
-- [x] B) Disminuir las emisiones de gases de efecto invernadero y diversificar fuentes de energía limpia <!-- feedback: Las energías renovables no convencionales reducen emisiones de CO2 y otros contaminantes, disminuye dependencia de combustibles fósiles, y contribuye a metas climáticas nacionales e internacionales -->
-- [ ] C) Incrementar la producción de combustibles fósiles para exportación
-- [ ] D) Eliminar completamente la hidroelectricidad de la matriz energética
+- [ ] A) Ayudan a que los peces naden más rápido al reducir la fricción del agua. <!-- feedback: Incorrect. Son tóxicos y peligrosos, no una ayuda mecánica. -->
+- [x] B) Son ingeridos por animales marinos pequeños que luego son comidos por otros más grandes, llegando finalmente a los humanos con posibles efectos tóxicos. <!-- feedback: Correct. El plástico no desaparece, solo se rompe en pedazos invisibles que contaminan todo el ecosistema. -->
+- [ ] C) Hacen que el agua del mar sea más transparente y limpia. <!-- feedback: Incorrect. Al contrario, introducen contaminantes químicos y ensucian el océano a nivel microscópico. -->
+- [ ] D) Obligan a que los barcos tengan que usar filtros gigantes para poder navegar. <!-- feedback: Incorrect. Los microplásticos afectan la vida biológica, el problema no es de obstrucción a la navegación de barcos. -->
 
 ### Explicación Pedagógica
-La diversificación energética NO busca eliminar la hidroelectricidad (que es limpia) ni reducir producción de gas (Colombia sigue dependiendo de gas). El objetivo central es reducir emisiones y cumplir compromisos ambientales, no cambiar la matriz por preferencias geopolíticas.
+Se ha encontrado microplásticos en la sal, en el agua embotellada e incluso en la placenta humana, lo que demuestra que la contaminación por plástico es un problema de salud pública global.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Comparar estrategias de desarrollo
-**Context:** Desarrollo sostenible en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-El concepto de "desarrollo sostenible" se fundamenta en tres pilares fundamentales que deben equilibrarse para garantizar un desarrollo que no comprometa las necesidades de las generaciones futuras. Estos tres pilares son:
+En Colombia, se ha propuesto prohibir los "Plásticos de un Solo Uso" (pitillos, mezcladores, bolsas). ¿Cuál es el principal desafío social de esta medida?
 
 ### Options
-- [ ] A) Economía, Tecnología y Globalización
-- [x] B) Desarrollo económico, Protección ambiental y Equidad social <!-- feedback: El concepto clásica de desarrollo sostenible (Brundtland, 1987) establece que debe haber equilibrio entre crecimiento económico, responsabilidad ambiental y justicia social para satisfacer necesidades presentes sin comprometer las futuras -->
-- [ ] C) Inversión extranjera, Protección de recursos y Mano de obra calificada
-- [ ] D) Industrialización, Urbanización y Exportación
+- [ ] A) Que la gente ya no podrá tomar jugos si no tiene un pitillo de plástico. <!-- feedback: Incorrect. Existen alternativas como papel, bambú o simplemente no usar pitillo; no es un desafío social de fondo. -->
+- [ ] B) Que el plástico es el material más caro del mundo y por eso no se puede prohibir. <!-- feedback: Incorrect. Es barato, por eso se usa tanto de forma desechable. -->
+- [x] C) El impacto económico en las familias que dependen de la industria del plástico y la necesidad de cambiar la cultura ciudadana hacia el reciclaje y la reutilización. <!-- feedback: Correct. Requiere una transición justa para los trabajadores y un cambio de hábitos masivo. -->
+- [ ] D) Que los plásticos son necesarios para que los barcos no se hundan. <!-- feedback: Incorrect. Los barcos se construyen con materiales como acero, fibra de vidrio o madera, no dependen de pitillos o bolsas desechables. -->
 
 ### Explicación Pedagógica
-El término "sostenible" frecuentemente se confunde con conceptos economicistas o tecnologístas. La definición de Brundtland es clara: los tres pilares son economía, ambiente y sociedad. Opciones que solo mencionan aspectos económicos o tecnológicos no capturan la esencia del concepto.
+La lucha contra el plástico muestra el choque entre la comodidad inmediata del consumidor y la supervivencia ecológica del planeta a largo plazo.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Identificar impactos de actividades económicas
-**Context:** Agricultura y medio ambiente
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-En la región de la Orinoquía colombiana, la expansión de la frontera agrícola y ganadera ha generado debates sobre la sostenibilidad ambiental de estas actividades. El conflicto principal que surge de esta expansión es:
+¿Cuál es la importancia ambiental de los Manglares en las costas colombianas (Caribe y Pacífico)?
 
 ### Options
-- [ ] A) El exceso de mano de obra calificada disponible para el sector agrícola
-- [x] B) La transformación de ecosistemas de sabana y bosque tropical que generan pérdida de biodiversidad y afectación de comunidades étnicas <!-- feedback: La expansión agropecuaria en la Orinoquía implica transformación de ecosistemas únicos, pérdida de hábitats para especies endémicas, y frecuentemente entra en conflicto con territorios de comunidades indígenas y campesinas -->
-- [ ] C) El exceso de lluvia que impide las labores agrícolas
-- [ ] D) La falta de mercados internacionales para los productos agrícolas de la región
+- [ ] A) Producir madera de lujo para exportar a Europa y Estados Unidos. <!-- feedback: Incorrect. Aunque se usa localmente, su valor ecosistémico es inmensamente superior a su valor como madera. -->
+- [ ] B) Son los lugares donde nacen los volcanes marinos. <!-- feedback: Incorrect. No tienen relación con la actividad geológica volcánica. -->
+- [x] C) Actúan como barreras naturales contra huracanes y erosión, purifican el agua y son "salas cuna" donde se reproducen la mayoría de los peces de interés comercial. <!-- feedback: Correct. Son uno de los ecosistemas más productivos y protectores de la Tierra. -->
+- [ ] D) Evitan que el agua del mar se evapore demasiado rápido por el calor. <!-- feedback: Incorrect. La evaporación depende de la temperatura y el viento, no es la función ecológica del manglar. -->
 
 ### Explicación Pedagógica
-La Orinoquía tiene ecosistema de sabana con estaciones secas marcadas, no "exceso de lluvia". El problema no es falta de mano de obra ni falta de mercados, sino la transformación de ecosistemas frágiles. Los estudiantes pueden no conectar expansión agrícola con pérdida de biodiversidad y conflictos territoriales.
+Destruir los manglares para construir hoteles o piscinas camaroneras deja a las poblaciones costeras vulnerables a los desastres naturales y acaba con la pesca.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Argumentar posiciones sobre problemáticas ambientales
-**Context:** Conflictos ambientales en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-En el departamento del Cesar, las comunidades wayúu han enfrentado severos impactos ambientales derivados de la actividad minera de carbón a cielo abierto. Estas comunidades han realizado抗议as pacíficas cuestionando los impactos en sus fuentes de agua y territorios ancestrales. Desde la perspectiva de la justicia ambiental, la situación de las comunidades wayúu ilustra:
+¿A qué se refiere el concepto de "Servicios Ecosistémicos"?
 
 ### Options
-- [ ] A) Un conflicto entre desarrollo económico y derechos laborales
-- [x] B) La distribución inequitativa de costos y beneficios ambientales, donde comunidades vulnerables soportan las externalidades negativas de actividades extractivas <!-- feedback: La justicia ambiental plantea que las comunidades más vulnerables (pueblos indígenas, afrodescendientes, rurales) frecuentemente soporta los mayores costos ambientales de actividades económicas sin recibir los beneficios proportionally -->
-- [ ] C) Un problema de falta de educación ambiental en las comunidades indígenas
-- [ ] D) Un conflicto entre tradiciones culturales y modernidad tecnológica
+- [ ] A) A los recibos que hay que pagar por el agua y la luz cada mes. <!-- feedback: Incorrect. Esos son servicios públicos domiciliarios pagados. -->
+- [ ] B) Al trabajo que hacen los guardaparques nacionales para cuidar los bosques. <!-- feedback: Incorrect. Eso es un servicio institucional de vigilancia. -->
+- [x] C) A los beneficios gratuitos que la naturaleza ofrece a la humanidad, como la polinización, la producción de oxígeno, el control de inundaciones y la belleza del paisaje. <!-- feedback: Correct. La economía moderna intenta ponerles valor para que se entienda el costo de perderlos. -->
+- [ ] D) Al servicio de internet satelital que llega a las zonas rurales. <!-- feedback: Incorrect. No tiene relación con las telecomunicaciones. -->
 
 ### Explicación Pedagógica
-El problema no es cultural ni laboral; es fundamentalmente de distribución inequitativa de impactos ambientales. Las comunidades wayúu no cuestionan el progreso tecnológico, sino su derecho a un ambiente sano y a la consulta previa. La justicia ambiental reconoce asimetrías de poder en conflictos ecológico-distributivos.
+La naturaleza nos da "servicios" que si tuviéramos que pagarlos con tecnología serían imposibles de costear. Cuidar la naturaleza es, por lo tanto, una decisión económica inteligente.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Emitir juicios de valor fundamentados sobre políticas ambientales
-**Context:** Calidad del aire en ciudades colombianas
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-La ciudad de Bogotá ha implementado políticas para mejorar la calidad del aire, incluyendo la restricción vehicular conocida como "Pico y Placa" y la conversión de taxis a vehículos híbridos. Sin embargo, la ciudad sigue enfrentando episodios de contaminación atmosférica. Un estudiante que analiza críticamente estas políticas concluido que:
+¿Cuál es la relación entre la ganadería extensiva y la emisión de gases de efecto invernadero en Colombia?
 
 ### Options
-- [ ] A) Las políticas son innecesarias porque los vehículos modernos no generan contaminación
-- [x] B) Las políticas representan avances significativos pero insuficientes para resolver un problema estructural de movilidad y producción energética <!-- feedback: Las políticas de mejora de aire son necesarias y efectivas, pero el problema de contaminación en grandes ciudades tiene raíces estructurales (modelo de movilidad, matriz energética, geografía) que requieren soluciones comprehensivas -->
-- [ ] C) Los taxis híbridos son la causa principal de la contaminación restante
-- [ ] D) El Pico y Placa debe eliminarse porque afecta la libertad de movilidad
+- [ ] A) Las vacas no emiten gases; solo los carros y las fábricas lo hacen. <!-- feedback: Incorrect. El sector agropecuario es uno de los mayores emisores globales y nacionales. -->
+- [ ] B) Que las vacas se comen el CO2 de la atmósfera y ayudan a limpiar el aire. <!-- feedback: Incorrect. Al contrario, su digestión produce metano, que es mucho más potente que el CO2 atrapando calor. -->
+- [x] C) El proceso digestivo del ganado produce gas Metano (CH4) y la deforestación para crear pastizales libera el CO2 almacenado en los árboles. <!-- feedback: Correct. Es una de las principales fuentes de emisiones en el país. -->
+- [ ] D) La ganadería ayuda a que crezcan más árboles y por eso es buena para el clima. <!-- feedback: Incorrect. La ganadería extensiva es la causa número uno de deforestación en Colombia. -->
 
 ### Explicación Pedagógica
-Las políticas son necesarias pero no suficientes. Los estudiantes pueden caer en extremos: pensar que las políticas son inútiles o que son la solución total. La evaluación crítica reconoce logros y limitaciones. Los taxis híbridos reducen emisiones, no las aumentan.
+Transformar la ganadería extensiva en sistemas "silvopastoriles" (vacas con árboles) es una de las metas de Colombia para cumplir con el Acuerdo de París.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Analizar críticamente soluciones propuestas
-**Context:** Economía circular en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El concepto de "economía circular" se ha incorporado en políticas públicas colombianas como alternativa al modelo lineal de "extraer-producir-desechar". Una empresa textil colombiana decide implementar prácticas de economía circular. De las siguientes iniciativas, aquella que NO corresponde a los principios de la economía circular es:
+El "Cambio Climático" no es solo que haga más calor, sino la alteración de todo el sistema. ¿Cuál es un efecto esperado en la agricultura colombiana según los modelos científicos?
 
 ### Options
-- [ ] A) Diseño de prendas con materiales reciclados y fácilmente reparables
-- [ ] B) Programas de recompra de prendas usadas para su reinserción en el mercado
-- [x] C) Incremento de la producción seasonal para garantizar stock permanente en tiendas <!-- feedback: La economía circular busca reducir residuos y producción, no incrementarla. Aumentar producción seasonal es opuesto al principio de reducción de extracción de recursos y minimización de residuos -->
-- [ ] D) Sistemas de reparación y mantenimiento de prendas para extender su vida útil
+- [ ] A) Que todas las plantas crezcan el doble de rápido gracias al calor. <!-- feedback: Incorrect. El calor extremo y la irregularidad de lluvias suelen estresar y matar los cultivos. -->
+- [x] B) El cambio en las zonas aptas para cultivos (el café tendría que sembrarse más arriba en la montaña), la aparición de nuevas plagas y sequías o inundaciones más intensas. <!-- feedback: Correct. Pone en riesgo la seguridad alimentaria y la economía de los campesinos. -->
+- [ ] C) Que ya no sea necesario sembrar nada porque las plantas nacerán solas en el aire. <!-- feedback: Incorrect. Es una interpretación de fantasía imposible. -->
+- [ ] D) Que el gobierno prohíba la agricultura para que no haya emisiones. <!-- feedback: Incorrect. El reto es hacer una agricultura climáticamente inteligente, no prohibir la producción de comida. -->
 
 ### Explicación Pedagógica
-Los estudiantes pueden confundir "reciclar" con "economía circular", pero esta es mucho más amplia. Incluye reducción, reutilización, reparación y diseño para durabilidad. Aumentar producción por encima de lo necesario contradice radicalmente la lógica de la economía circular.
+Los agricultores colombianos ya están sintiendo que las épocas de siembra y cosecha tradicionales ya no funcionan, lo que los obliga a adaptarse con tecnología y nuevas variedades.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Evaluar información en contextos de complejidad ambiental
-**Context:** Servicios ecosistémicos en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-Los páramos de Colombia cumplen funciones ecológicas cruciales como reguladores del ciclo del agua, proveedores de agua dulce para millones de personas, y sumpteros de carbono. La degradación de páramos por actividades como la agricultura intensiva y la minería representa una amenaza porque:
+¿A qué se refiere el término "Extractivismo" y por qué se critica desde los movimientos ambientales?
 
 ### Options
-- [ ] A) Afecta exclusivamente a las empresas mineras que perderían su inversión
-- [x] B) Compromete la provisión de agua para comunidades humanas urbanas y rurales que dependen de estos ecosistemas como fuentes de agua reguladores de flujo <!-- feedback: Los páramos actúan como "esponjas" que regulan el flujo de agua, garantizando disponibilidad en época seca. Su degradación causa erosión, sedimentación de ríos y pérdida de este servicio ecosistémico crítico -->
-- [ ] C) Solo afecta la biodiversidad de especies endémicas sin impacto en comunidades humanas
-- [ ] D) Incrementa la biodiversidad de las zonas altas de montaña
+- [ ] A) A la técnica de sacar los dientes dañados en el dentista. <!-- feedback: Incorrect. Es un término de geografía económica y sociología. -->
+- [x] B) A un modelo económico basado en la extracción masiva de recursos naturales no renovables (petróleo, carbón, oro) para exportación, con poco valor agregado y gran impacto ambiental. <!-- feedback: Correct. Se critica porque genera dependencia económica y deja territorios destruidos tras la explotación. -->
+- [ ] C) A la obligación de que todos los ciudadanos estudien geología. <!-- feedback: Incorrect. Es una interpretación absurda del término. -->
+- [ ] D) Al proceso de sacar a las personas de la pobreza dándoles dinero. <!-- feedback: Incorrect. El extractivismo a menudo se asocia con el crecimiento del PIB pero no necesariamente con la reducción de la pobreza local en las zonas mineras. -->
 
 ### Explicación Pedagógica
-Los estudiantes pueden no entender que los páramos son fuentes de agua para millones. Los servicios ecosistémicos de provisión (agua) y regulación (almacenamiento de carbono) son cruciales para la sociedad. La degradación no aumenta biodiversidad; la reduce.
+El debate sobre el extractivismo en Colombia es central en la discusión sobre el modelo de desarrollo: ¿podemos vivir solo de lo que sacamos de la tierra o debemos producir e innovar en otros sectores?
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Formular juicios críticos sobre políticas públicas ambientales
-**Context:** Planes de Ordenamiento Territorial y ambiente
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-En el Plan de Ordenamiento Territorial (POT) de una capital colombiana, se establece una zona de expansión urbana sobre un área que anteriormente era zona de protección ambiental. El argumento económico del proyecto es la generación de empleo y vivienda para la clase media. Desde la perspectiva del derecho al ambiente sano, UN/ESTUDIANTE debería conclude que este proyecto:
+¿Cuál es el propósito de las "Licencias Ambientales" emitidas por entidades como la ANLA en Colombia?
 
 ### Options
-- [ ] A) Es enteramente beneficioso porque genera empleo para la ciudad
-- [ ] B) Debe rechazarse completamente porque toda expansión urbana es dañina
-- [x] C) Requiere un análisis riguroso de alternativas y compensaciones ambientales antes de su aprobación, considerando derechos de comunidades afectadas <!-- feedback: El desarrollo urbano puede ser necesario pero no puede desconocer el derecho al ambiente sano. Requiere estudios de impacto, alternativas, medidas de mitigación y compensación, y participación ciudadana informada -->
-- [ ] D) Debe aprobarse automáticamente porque la vivienda es un derecho constitucional
+- [ ] A) Dar permiso para contaminar todo lo que una empresa quiera a cambio de dinero. <!-- feedback: Incorrect. No es un permiso de contaminación libre, sino una regulación de impactos. -->
+- [ ] B) Cobrarle a los turistas por entrar a los parques naturales. <!-- feedback: Incorrect. Esas son tarifas de entrada; las licencias son para proyectos de infraestructura o minería. -->
+- [x] C) Evaluar los posibles impactos de un proyecto y establecer medidas para prevenir, mitigar, corregir y compensar los daños al medio ambiente. <!-- feedback: Correct. Es la herramienta de control previo del Estado sobre el desarrollo económico. -->
+- [ ] D) Prohibir cualquier tipo de construcción en todo el país. <!-- feedback: Incorrect. Permiten el desarrollo, pero bajo condiciones técnicas que protejan el entorno. -->
 
 ### Explicación Pedagógica
-El derecho a la vivienda es constitucional pero debe equilibrarse con otros derechos, incluyendo el derecho al ambiente sano. Los estudiantes tienden a polarizarse (todo坏事 o todo bien). La evaluación crítica exige análisis de alternativas, mitigación de impactos y ponderación de derechos.
+Sin licencias ambientales, cualquier empresa podría hacer una represa o una mina sin importar si destruye el agua o los bosques de una comunidad.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Analizar conflictos de valores en problemáticas ambientales
-**Context:** Megaproyectos y comunidades en Colombia
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-El proyecto hidroeléctrico de Hidroituango (Antioquia) generó争议s sobre los balances entre desarrollo energético y derechos ambientales/comunitarios. Tras la contingencia de 2018 que obligó evacuaciones, una evaluación ambiental responsable concluiría que este caso ejemplifica:
+¿Qué es la "Obsolescencia Percibida" y cómo se diferencia de la obsolescencia programada?
 
 ### Options
-- [ ] A) Que todos los proyectos hidroeléctricos deben cancelarse en Colombia
-- [x] B) La necesidad de fortalecer protocolos de gestión de riesgos y mecanismos de participación ciudadana efectiva en megaproyectos de infraestructura <!-- feedback: El caso Hidroituango muestra que megaproyectos pueden tener costos ambientales y sociales graves cuando hay fallas en planificación, gestión de riesgos y participación. No implica cancelar toda energía hidroeléctrica sino mejorar estándares -->
-- [ ] C) Que los proyectos energéticos son más importantes que los derechos ambientales
-- [ ] D) Que los affected communities deben recibir compensaciones económicas únicamente
+- [ ] A) Cuando un aparato se rompe solo porque los cables son de mala calidad. <!-- feedback: Incorrect. Eso es obsolescencia programada o de materiales. -->
+- [x] B) Cuando el consumidor siente que su producto ya es viejo o "está pasado de moda" debido a la publicidad y el diseño, aunque todavía funcione perfectamente. <!-- feedback: Correct. La programada es una falla técnica; la percibida es una presión psicológica de consumo. -->
+- [ ] C) Cuando el gobierno percibe que hay demasiada basura en las calles. <!-- feedback: Incorrect. Se refiere a la conducta del consumidor y la estrategia de marketing de las empresas. -->
+- [ ] D) Cuando las personas ya no saben cómo usar un teléfono antiguo. <!-- feedback: Incorrect. No es un tema de conocimiento técnico, sino de deseo de renovación constante. -->
 
 ### Explicación Pedagógica
-Hidroituango no es argumento para cancelar toda hidroelectricidad (es renovable) ni para priorizar energía sobre ambiente. El caso muestra fallas en gestión de riesgos y comunicación. Las compensaciones económicas no son el único mecanismo de reparación. Los estudiantes frecuentemente simplifican este tipo de conflictos.
+La obsolescencia percibida es fundamental para la moda rápida (fast fashion) y los celulares, empujando a la gente a botar cosas buenas solo por tener lo último, agotando recursos innecesariamente.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Proponer soluciones integrales a problemáticas ambientales complejas
-**Context:** Sostenibilidad urbana en Colombia
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Como alcalde/a de una ciudad intermedia colombiana, usted debe formular un plan integral para abordar simultáneamente la contaminación del aire, la gestión inadecuada de residuos sólidos y la falta de espacios verdes urbanos. De las siguientes combinaciones de medidas, aquella que representa una estrategia verdaderamente integral (que aborda las tres problemáticas de forma articulada) sería:
+Considere la "Paradoja de Jevons": a medida que la tecnología hace que el uso de un recurso sea más eficiente (se necesita menos para producir lo mismo), el consumo total de ese recurso a menudo aumenta en lugar de disminuir porque se vuelve más barato y común. ¿Cómo afecta esto las metas ambientales de ahorro de energía?
 
 ### Options
-- [ ] A) Solo construir más ciclorrutas en el centro de la ciudad
-- [x] B) Implementación de sistemas de recolección selectiva con compostaje comunitario, ampliación de zonas verdes conectadas ecológicamente, y promoción de transporte público limpio con zonas de bajas emisiones <!-- feedback: Una estrategia integral articula soluciones que se refuerzan mutuamente: el compostaje reduce residuos en rellenos, las zonas verdes mejoran aire y ofrecen espacios, y el transporte limpio reduce emisiones. Las soluciones aisladas no abordan la complejidad sistémica -->
-- [ ] C) Construir más rellenos sanitarios y importar vehículos eléctricos lujosos
-- [ ] D) Prohibir el uso de vehículos particulares sin ofrecer alternativas de transporte público
+- [ ] A) Ayuda a que ahorremos energía mucho más rápido de lo esperado. <!-- feedback: Incorrect. La paradoja explica precisamente por qué el ahorro tecnológico a menudo falla en reducir el consumo total. -->
+- [ ] B) No afecta en nada porque la tecnología siempre tiene la razón. <!-- feedback: Incorrect. Es una crítica económica a la fe ciega en la tecnología como única solución ambiental. -->
+- [x] C) Indica que las mejoras tecnológicas no son suficientes para proteger el medio ambiente si no se limitan los niveles totales de producción y consumo de la sociedad. <!-- feedback: Correct. La eficiencia no sustituye a la reducción del consumo. -->
+- [ ] D) Obliga a que todos los aparatos sean ineficientes para que la gente los use menos. <!-- feedback: Incorrect. Sería una medida absurda; el reto es la eficiencia combinada con límites al crecimiento del consumo. -->
 
 ### Explicación Pedagógica
-Las estrategias fragmentadas (solo ciclorrutas, solo rellenos sanitarios) no abordan problemas interconectados. Los estudiantes pueden elegir opciones que solo atacan un problema o que imponen restricciones sin alternativas. La integralidad requiere articulación de soluciones y enfoque sistémico.
+Esta paradoja explica por qué a pesar de tener carros y bombillos más eficientes que hace 50 años, el mundo hoy consume mucha más energía que nunca.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v18`
 **Bloom:** Evaluate
-**ICFES:** Emitir juicios de valor sobre dilemas éticos ambientales
-**Context:** Biodiversidad y bioprospección en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
 
 ### Enunciado
-Una empresa farmacéutica internacional solicita acceso a recursos genéticos de una comunidad indígena del Vaupés para investigar propiedades medicinales de plantas locales. Ofrece dinero a la comunidad y promete compartir eventuales beneficios económicos. La comunidad debe decidir sobre esta solicitud basándose en principios de justicia ambiental. La decisión más consistente con estos principios sería:
+Analice la "Ecología Política": sostiene que los problemas ambientales no son solo técnicos, sino resultado de desigualdades de poder y luchas sociales. ¿Cuál de los siguientes casos ilustra mejor esta visión en Colombia?
 
 ### Options
-- [ ] A) Aceptar la oferta sin condiciones porque la comunidad necesita recursos económicos
-- [ ] B) Rechazar completamente cualquier tipo de investigación por担心 de explotación
-- [x] C) Someter la solicitud a proceso de consulta previa, negociación de beneficios justos, y protocolos de protección del conocimiento tradicional <!-- feedback: Los principios de justicia ambiental y el marco legal
+- [ ] A) Un científico estudiando el ADN de una rana en un laboratorio. <!-- feedback: Incorrect. Es una visión técnica biológica, no necesariamente política o social. -->
+- [ ] B) El aumento de la temperatura del agua debido al sol. <!-- feedback: Incorrect. Es un fenómeno físico natural. -->
+- [x] C) El conflicto entre una comunidad indígena que quiere proteger su montaña sagrada y una multinacional que tiene el título minero del gobierno para explotarla. <!-- feedback: Correct. Muestra el choque de intereses, visiones de mundo y poder sobre el territorio. -->
+- [ ] D) La caída de las hojas de los árboles durante el otoño. <!-- feedback: Incorrect. Es un proceso biológico estacional. -->
+
+### Explicación Pedagógica
+La ecología política enseña que para salvar el medio ambiente no solo necesitamos mejores máquinas, sino también sociedades más justas donde las comunidades tengan voz sobre lo que pasa en sus territorios.
+
+---
+
+## Question 19 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+El concepto de "Límites Planetarios" indica que hay fronteras que la humanidad no debe cruzar (clima, biodiversidad, nitrógeno, etc.) para que la Tierra siga siendo habitable. ¿Cuál es el problema de usar solo el PIB (Producto Interno Bruto) como medida del éxito de un país frente a estos límites?
+
+### Options
+- [ ] A) Que el PIB es muy difícil de calcular y a los políticos no les gusta. <!-- feedback: Incorrect. El PIB se calcula en todo el mundo y es la medida favorita de los gobernantes actuales. -->
+- [ ] B) Que el PIB solo mide la felicidad de las personas y no el dinero. <!-- feedback: Incorrect. Es al revés: mide el dinero y la producción, ignorando la felicidad y el medio ambiente. -->
+- [x] C) Que el PIB crece incluso cuando destruimos la naturaleza (por ejemplo, vendiendo madera de árboles talados), ocultando que estamos agotando el capital natural del que dependemos. <!-- feedback: Correct. No distingue entre crecimiento "bueno" y crecimiento que destruye la base de la vida. -->
+- [ ] D) Que el PIB obliga a que todos los países tengan que ser industriales. <!-- feedback: Incorrect. Refleja cualquier actividad económica, pero su falla es no contabilizar las pérdidas ambientales. -->
+
+### Explicación Pedagógica
+Necesitamos nuevos indicadores (como el PIB Verde o el Índice de Desarrollo Humano) que resten la destrucción de la naturaleza para saber si realmente estamos progresando o simplemente estamos gastando los ahorros del planeta.
+
+---
+
+## Question 20 (Mastery - Difficulty D10)
+
+**ID:** `CO-SOC-11-P4-problemas-ambientales-108-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
+
+### Enunciado
+Considere la "Justicia Intergeneracional" en el marco del cambio climático. ¿Cuál es el principal dilema moral que enfrentamos los adultos de hoy frente a los niños y jóvenes del futuro?
+
+### Options
+- [ ] A) Que los jóvenes no quieren trabajar y solo quieren estar en internet. <!-- feedback: Incorrect. No es un dilema moral sobre el cambio climático. -->
+- [ ] B) Que si les dejamos mucho dinero, se lo van a gastar todo en dulces. <!-- feedback: Incorrect. Es una visión infantil del problema de la herencia planetaria. -->
+- [x] C) Que estamos disfrutando de un alto consumo y comodidad hoy, dejando a las futuras generaciones un planeta degradado, con menos recursos y un clima peligroso que ellos no causaron. <!-- feedback: Correct. Es la responsabilidad ética hacia quienes aún no han nacido. -->
+- [ ] D) Que no sabemos cómo explicarles a los niños qué es el petróleo. <!-- feedback: Incorrect. El problema es la falta de acción política y cambio de modelo, no un tema pedagógico de definición. -->
+
+### Explicación Pedagógica
+La justicia intergeneracional nos obliga a actuar hoy, no porque nos afecte a nosotros inmediatamente, sino para garantizar que el derecho a un ambiente sano sea real para quienes heredarán la Tierra.

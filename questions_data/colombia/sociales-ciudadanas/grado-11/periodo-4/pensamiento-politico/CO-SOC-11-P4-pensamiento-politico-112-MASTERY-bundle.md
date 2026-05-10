@@ -1,38 +1,3 @@
-<think>
-The user wants me to generate exactly 20 questions in ICFES Saber 11 format for Colombian Social Studies (Sociales Ciudadanas), specifically on "pensamiento-politico" (political thought), grade 11, period 4.
-
-Let me create 20 questions following the exact format requested:
-
-- Questions 1-4: Difficulty D3-D4 (basic)
-- Questions 5-10: Difficulty D5-D6 (intermediate)
-- Questions 11-16: Difficulty D7-D8 (advanced)
-- Questions 17-20: Difficulty D9-D10 (very advanced)
-
-I need to:
-1. Follow the YAML frontmatter exactly
-2. Use the exact question format
-3. Include [x] on the correct answer
-4. Make distractors plausible Colombian student errors
-5. Keep context modern and Colombian
-6. No "todas las anteriores" or "ninguna de las anteriores"
-7. Progressive difficulty
-
-Let me generate 20 questions on political thought concepts including:
-- Democracy and its forms
-- Political ideologies
-- Colombian political system
-- Human rights and citizenship
-- Political participation
-- Social movements
-- Political philosophy foundations
-- Constitution and rights
-- Political parties
-- Civic participation
-
-Let me structure them properly:
-
-</think>
-
 ---
 id: "CO-SOC-11-P4-pensamiento-politico-112-MASTERY"
 country: "colombia"
@@ -41,441 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "pensamiento-politico"
 periodo: 4
 protocol_version: "5.1"
+bundle_index: 2
 bundle_size: 20
-bundle_index: 112
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:37:23.246997"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.52
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Indagación
-**Context:** Conceptos básicos de participación ciudadana en Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-La democracia representativa, como sistema político vigente en Colombia, se caracteriza por:
+¿A qué filósofo griego se le atribuye la obra "La República", donde analiza diferentes formas de gobierno y propone la idea del "Rey Filósofo"?
 
 ### Options
-- [ ] A) La elección directa de todos los funcionarios del gobierno por parte de los ciudadanos
-- [x] C) La designación de representantes elegidos mediante voto popular para tomar decisiones políticas <!-- feedback: La democracia representativa se basa en que los ciudadanos eligen a sus representantes, quienes toman las decisiones en su nombre -->
-- [ ] B) La toma de decisiones únicamente por consulta popular permanente
-- [ ] D) La eliminación de cualquier forma de autoridad jerárquica
+- [ ] A) Aristóteles. <!-- feedback: Incorrect. Aristóteles escribió "La Política" y fue discípulo del autor de La República. -->
+- [x] B) Platón. <!-- feedback: Correct. En su obra propone una sociedad ideal gobernada por la razón y la justicia. -->
+- [ ] C) Sócrates. <!-- feedback: Incorrect. Sócrates no dejó obras escritas; conocemos su pensamiento a través de Platón. -->
+- [ ] D) Pericles. <!-- feedback: Incorrect. Fue un importante político y orador de la democracia ateniense, pero no el autor del tratado filosófico mencionado. -->
 
 ### Explicación Pedagógica
-La democracia representativa implica que los ciudadanos eligen a sus representantes mediante elecciones periódicas. Los ciudadanos no gobiernan directamente sino a través de quienes eligen. La confusión común es pensar que en una democracia los ciudadanos participan directamente en todas las decisiones o que no existe jerarquía.
+Platón buscaba un sistema político donde los más sabios gobernaran, criticando la democracia de su época por considerarla susceptible a la demagogia.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Estructura del Estado colombiano
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-En el marco de la Constitución Política de 1991, el poder público en Colombia se divide en:
+¿Cuál es la obra fundamental de Thomas Hobbes donde defiende la necesidad de un poder absoluto (Estado) para evitar que los seres humanos se destruyan entre sí en una "guerra de todos contra todos"?
 
 ### Options
-- [ ] A) Dos ramas: ejecutiva y legislativa
-- [ ] B) Tres ramas: ejecutiva, militar y judicial
-- [x] C) Cinco ramas: ejecutiva, legislativa, judicial, electoral y de control social <!-- feedback: La Constitución de 1991 estableció cinco ramas del poder público: ejecutiva, legislativa, judicial, electoral y el órgano de control social -->
-- [ ] D) Cuatro ramas: ejecutiva, legislativa, judicial y ciudadana
+- [ ] A) El Contrato Social. <!-- feedback: Incorrect. Esta obra es de Jean-Jacques Rousseau. -->
+- [x] B) Leviatán. <!-- feedback: Correct. En ella describe al Estado como un monstruo bíblico necesario para imponer orden y seguridad. -->
+- [ ] C) El Capital. <!-- feedback: Incorrect. Es la obra principal de Karl Marx sobre economía política. -->
+- [ ] D) El Príncipe. <!-- feedback: Incorrect. Es el tratado político de Nicolás Maquiavelo. -->
 
 ### Explicación Pedagógica
-Colombia unlike many countries has five branches of government, not three or four. The "ramas del poder público" are: Ejecutiva, Legislative, Judicial, Electoral, and the "órgano de control social" (Contraloría, Personería, Ministerio Público). Students often confuse this with the US three-branch system.
+Hobbes es el padre del absolutismo político moderno, basando la autoridad del Estado en el miedo a la muerte violenta y la necesidad de paz, no en el derecho divino.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Argumentación
-**Context:** Derechos fundamentales en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-El derecho a la participación política en Colombia incluye:
+¿Cómo se denomina a la ideología que busca la igualdad social mediante la eliminación de la propiedad privada y la planificación central de la economía por parte del Estado?
 
 ### Options
-- [ ] A) Solo el derecho al voto en elecciones generales
-- [ ] B) Exclusivamente el derecho a ocupar cargos públicos
-- [x] C) El derecho a elegir y ser elegido, a participar en publicidad política y a fiscalizar el poder público <!-- feedback: La participación política comprende múltiples derechos: elegir, ser elegido, expresar opiniones políticas y vigilar el ejercicio del poder -->
-- [ ] D) Únicamente el derecho a protestar públicamente
+- [ ] A) Neoliberalismo. <!-- feedback: Incorrect. Defiende el libre mercado y la reducción de la intervención del Estado. -->
+- [ ] B) Anarquismo. <!-- feedback: Incorrect. Busca eliminar el Estado, no usarlo para planificar la economía. -->
+- [x] C) Comunismo / Socialismo real. <!-- feedback: Correct. Se basa en la interpretación colectivista de los medios de producción. -->
+- [ ] D) Conservadurismo. <!-- feedback: Incorrect. Defiende la propiedad privada, la tradición y las jerarquías sociales. -->
 
 ### Explicación Pedagógica
-El derecho a la participación política es más amplio que simplemente votar. Incluye múltiples formas de participación: electoral, deliberativa, control y vigilancia del poder público. Students often reduce political participation to just voting.
+Esta corriente alcanzó su máximo desarrollo en el siglo XX en países como la Unión Soviética, China y Cuba, planteando un modelo alternativo al capitalismo liberal.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Indagación
-**Context:** Conceptos de ciudadanía
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-La ciudadanía activa se diferencia de la ciudadanía pasiva porque:
+¿Qué es la "Voluntad General" según el pensamiento de Jean-Jacques Rousseau?
 
 ### Options
-- [ ] A) La ciudadanía activa corresponde solo a quienes tienen propiedades
-- [ ] B) La ciudadanía pasiva tiene más derechos que la activa
-- [x] C) La ciudadanía activa implica el ejercicio de derechos y deberes políticos, mientras la pasiva se limita a la relación con el Estado como sujeto de protección <!-- feedback: La ciudadanía activa se define por la participación efectiva en la vida política, mientras la pasiva se caracteriza por ser receptor de políticas públicas -->
-- [ ] D) No existe diferencia, ambos términos son sinónimos
+- [ ] A) La suma de los deseos egoístas de cada una de las personas del país. <!-- feedback: Incorrect. Rousseau distingue la voluntad de todos (egoísta) de la voluntad general. -->
+- [ ] B) La decisión del gobernante más fuerte que todos deben obedecer por miedo. <!-- feedback: Incorrect. Esto sería tiranía, no voluntad general rousseauniana. -->
+- [x] C) El interés común de la sociedad que busca el bien de todos, por encima de los intereses particulares. <!-- feedback: Correct. Es la base de la soberanía popular legítima. -->
+- [ ] D) La opinión de los científicos y expertos sobre cómo debe funcionar el mundo. <!-- feedback: Incorrect. No es una decisión técnica, sino un consenso ético y político de la comunidad ciudadana. -->
 
 ### Explicación Pedagógica
-La ciudadanía activa implica participación deliberativa y ejercicio de derechos políticos. La ciudadanía pasiva se refiere al estatus básico de ser reconocido como ciudadano con derechos protegidos. Students often don't realize there's a conceptual distinction between these two forms of citizenship.
+Para Rousseau, ser libre es obedecer a la ley que nosotros mismos nos hemos dado pensando en el bien común, lo cual es el fundamento de la democracia participativa.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Interpretación
-**Context:** Partidos políticos en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.65
 
 ### Enunciado
-Los partidos políticos en un sistema democrático cumplen principalmente la función de:
+¿Cuál es la diferencia entre el "Liberalismo Político" y el "Liberalismo Económico"?
 
 ### Options
-- [ ] A) Organizar únicamente las campañas electorales de sus candidatos
-- [x] B) Agregar y representar intereses ciudadanos, articular demandas sociales y ofrecer alternativas de gobierno <!-- feedback: Los partidos políticos funcionan como intermediarios entre la sociedad y el Estado, canalizando demandas y proponiendo soluciones políticas -->
-- [ ] C) Controlar todas las instituciones del Estado
-- [ ] D) Impedir la participación de nuevos actores políticos
+- [ ] A) El político es para los adultos y el económico para los niños. <!-- feedback: Incorrect. No tiene relación con la edad de los ciudadanos. -->
+- [x] B) El político defiende derechos y libertades individuales (voto, expresión); el económico defiende el libre mercado y la no intervención del Estado en los negocios. <!-- feedback: Correct. Aunque suelen ir juntos, un país puede tener uno sin el otro. -->
+- [ ] C) El político prohíbe las empresas y el económico las fomenta. <!-- feedback: Incorrect. Ambos fomentan la iniciativa privada dentro de sus marcos respectivos. -->
+- [ ] D) No hay ninguna diferencia, son exactamente el mismo concepto aplicado a todo. <!-- feedback: Incorrect. Son dimensiones diferentes de la libertad que plantean desafíos distintos al Estado. -->
 
 ### Explicación Pedagógica
-Los partidos políticos cumplen funciones de representación, agregación de intereses, socialización política y articulación de demandas ciudadanas. Students commonly think parties only exist to win elections, not understanding their broader democratic function.
+Entender esta distinción ayuda a comprender por qué existen democracias con mucha intervención económica (Estado de Bienestar) y regímenes autoritarios con libre mercado (China actual).
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Argumentación
-**Context:** Formas de gobierno
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.60
 
 ### Enunciado
-La diferencia fundamental entre una república y una monarquía constitucional radica en:
+¿A qué se refiere el término "Legitimidad del Poder" en la ciencia política?
 
 ### Options
-- [ ] A) El número de partidos políticos permitidos
-- [ ] B) La extensión territorial del Estado
-- [x] C) La fuente de legitimidad del poder: electiva en la república y hereditaria en la monarquía <!-- feedback: En la república el poder proviene del pueblo mediante elección, mientras en la monarquía constitucional el poder del monarca es hereditario -->
-- [ ] D) El sistema económico que adoptan
+- [ ] A) A que el gobernante sea la persona más rica y poderosa del país. <!-- feedback: Incorrect. La riqueza no otorga legitimidad democrática por sí sola. -->
+- [x] B) A la aceptación y reconocimiento por parte de los ciudadanos del derecho de una autoridad a mandar y ser obedecida. <!-- feedback: Correct. Un poder legítimo no necesita usar solo la fuerza para ser respetado. -->
+- [ ] C) A la capacidad de un ejército de invadir a otros países vecinos. <!-- feedback: Incorrect. Eso es poder militar o agresión, no legitimidad interna del mando. -->
+- [ ] D) Al derecho de los reyes de gobernar por mandato de Dios. <!-- feedback: Incorrect. Esa era la legitimidad monárquica antigua, pero la moderna se basa en el consentimiento ciudadano. -->
 
 ### Explicación Pedagógica
-La diferencia central entre república y monarquía constitucional es el origen del poder: electivo-popular en la república vs. hereditario en la monarquía. Students often confuse different forms of government and their characteristics.
+En democracia, la legitimidad se obtiene principalmente a través de elecciones libres y transparentes, y se mantiene mediante el buen gobierno y el respeto a la ley.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Filosofía política
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según el pensamiento de John Locke, la principal función del gobierno es:
+¿Qué es el "Fascismo" como sistema político surgido en el siglo XX?
 
 ### Options
-- [ ] A) Expandir el territorio nacional
-- [x] B) Proteger los derechos naturales de vida, libertad y propiedad <!-- feedback: Locke propuso que los individuos en el estado de naturaleza tienen derechos naturales que el gobierno debe proteger mediante el contrato social -->
-- [ ] C) Establecer una religión oficial del Estado
-- [ ] D) Garantizar el poder de una élite dirigente
+- [ ] A) Una forma de democracia donde todos los ciudadanos son iguales. <!-- feedback: Incorrect. Es una ideología profundamente antidemocrática y desigual. -->
+- [ ] B) Un sistema económico que busca regalar dinero a todas las personas. <!-- feedback: Incorrect. No tiene como objetivo la redistribución social equitativa. -->
+- [x] C) Un movimiento totalitario, nacionalista y autoritario que exalta el poder del Estado y del líder, eliminando las libertades individuales y persiguiendo a la oposición. <!-- feedback: Correct. Ejemplos históricos fueron la Italia de Mussolini y la Alemania de Hitler. -->
+- [ ] D) La decisión de un país de no tener ejército y solo tener poetas. <!-- feedback: Incorrect. El fascismo es profundamente militarista y violento. -->
 
 ### Explicación Pedagógica
-John Locke es un pensador contractualista whose political philosophy emphasizes that governments exist primarily to protect natural rights. This contrasts with Hobbes who emphasized security, and students often confuse Locke's ideas with other theorists.
+El fascismo utiliza la propaganda masiva y el miedo para movilizar a la población contra enemigos internos o externos, justificando el control total sobre la vida de las personas.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Argumentación
-**Context:** Ideologías políticas
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.55
 
 ### Enunciado
-Una posición política liberal en la Colombia contemporánea generalmente promovería:
+¿Cuál es la importancia de la "Libertad de Prensa" para el funcionamiento de una democracia real?
 
 ### Options
-- [ ] A) La eliminación total del mercado y la propiedad privada
-- [x] B) La garantía de freedoms individuales, economía de mercado regulada y protección de derechos civiles <!-- feedback: El liberalismo propende por los derechos y libertades individuales, economía de mercado con intervención estatal moderada, y separación entre Estado y religión -->
-- [ ] C) El control absoluto del Estado sobre todos los medios de producción
-- [ ] D) La adopción de un sistema de partido único
+- [ ] A) Permitir que los periodistas se vuelvan millonarios vendiendo noticias falsas. <!-- feedback: Incorrect. La libertad de prensa tiene una función social ética, no de enriquecimiento ilícito por mentiras. -->
+- [ ] B) Lograr que el gobierno escriba todas las noticias para que la gente sea feliz. <!-- feedback: Incorrect. Eso sería censura y propaganda, lo opuesto a la libertad de prensa. -->
+- [x] C) Actuar como contrapoder que vigila al gobierno, denuncia la corrupción e informa a los ciudadanos para que tomen decisiones libres. <!-- feedback: Correct. Sin información diversa e independiente, el ciudadano no puede controlar al poder. -->
+- [ ] D) Prohibir que las personas tengan opiniones diferentes a las de los periódicos. <!-- feedback: Incorrect. La libertad de prensa garantiza precisamente la pluralidad de opiniones en el espacio público. -->
 
 ### Explicación Pedagógica
-El liberalismo político propugna por las libertades individuales, el Estado de derecho, la economía de mercado con regulación, y los derechos civiles. Students commonly confuse liberalismo with izquierda or socialism, when in fact it's a distinct ideological tradition.
+A menudo se llama a la prensa el "cuarto poder" por su capacidad de influir en la agenda pública y exigir rendición de cuentas a los gobernantes.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Argumentación
-**Context:** Participación ciudadana en Colombia
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-El fenómeno del ausentismo electoral en Colombia se explica principalmente por:
+¿A qué se refiere el concepto de "Hegemonía" según el pensador Antonio Gramsci?
 
 ### Options
-- [ ] A) La prohibición legal de votar en ciertos casos
-- [ ] B) El analfabetismo en el país
-- [x] C) La desconfianza ciudadana hacia las instituciones políticas y la percepción de falta de opciones reales <!-- feedback: El ausentismo se relaciona con la crisis de representatividad, desconfianza en partidos y sensación de que el voto no cambia la situación -->
-- [ ] D) La obligatoriedad del voto en todas las elecciones
+- [ ] A) Al uso de la fuerza militar bruta para obligar a todos a obedecer. <!-- feedback: Incorrect. Eso es dominación o coacción física. -->
+- [ ] B) A la obligación de que todos los ciudadanos estudien gramática. <!-- feedback: Incorrect. Es una interpretación literal errónea del apellido del autor. -->
+- [x] C) Al dominio de una clase o grupo sobre la sociedad a través de la cultura, los valores y las ideas, logrando que el resto acepte ese orden como algo "natural". <!-- feedback: Correct. Es el poder basado en el consenso cultural, no solo en las armas. -->
+- [ ] D) Al derecho de los países más grandes de mandar a los más pequeños. <!-- feedback: Incorrect. Es un concepto aplicable tanto al orden interno de una sociedad como a las relaciones internacionales. -->
 
 ### Explicación Pedagógica
-El ausentismo electoral en Colombia tiene raíces complejas: desconfianza institucional, percepción de falta de alternativas, frustración con la política tradicional. Students often think it's only due to ignorance or legal barriers, when it's more about disaffection.
+La hegemonía explica por qué muchas personas defienden sistemas que a veces las perjudican: lo hacen porque han interiorizado las ideas del grupo dominante a través de la escuela, la prensa y la religión.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Interpretación
-**Context:** Teoría democrática
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-El concepto de "soberanía popular" en una democracia significa que:
+¿Cuál es la tensión principal en el debate sobre el "Estado Mínimo" propuesto por el libertarismo o neoliberalismo radical?
 
 ### Options
-- [ ] A) El pueblo gobierna directamente en todo momento
-- [x] B) El poder legítimo del Estado emana del pueblo y los gobernantes son responsables ante él <!-- feedback: La soberanía popular establece que la autoridad del gobierno deriva del pueblo, quien puede designar y remover a sus representantes -->
-- [ ] C) Existe un soberano hereditary con poderes absolutos
-- [ ] D) Solo una elite iluminada puede tomar decisiones políticas
+- [ ] A) Que los políticos no quieren trabajar y por eso quieren un estado pequeño. <!-- feedback: Incorrect. El debate es ideológico sobre el papel del Estado, no sobre la pereza personal. -->
+- [x] B) El conflicto entre la máxima libertad económica individual (menos impuestos y reglas) y la capacidad del Estado para garantizar justicia social y servicios básicos a los más pobres. <!-- feedback: Correct. Menos Estado implica menos red de seguridad social. -->
+- [ ] C) La obligación de que todos los ciudadanos tengan que ser soldados. <!-- feedback: Incorrect. El estado mínimo suele proponer también la reducción del gasto militar al mínimo defensivo. -->
+- [ ] D) Que si el estado es pequeño, la gente se va a caer de la tierra. <!-- feedback: Incorrect. Es una interpretación física absurda. -->
 
 ### Explicación Pedagógica
-La soberanía popular es el principio democrático que establece que el poder político reside en el pueblo, quien lo delega en representantes. Students confuse direct democracy with representative democracy, thinking sovereignty popular means everyone votes on everything.
+Los defensores del Estado mínimo argumentan que este solo debe encargarse de la seguridad y la justicia, mientras sus críticos dicen que esto abandonaría a millones de personas a la miseria y la desigualdad extrema.
 
 ---
 
-## Question 11 (Variant Basic - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Argumentación
-**Context:** Movimientos sociales en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-Los movimientos sociales contemporáneos en Colombia como el paro nacional evidencian:
+¿Qué es el "Clientelismo" como práctica política y por qué debilita la democracia?
 
 ### Options
-- [ ] A) La debilidad total de las instituciones democráticas
-- [ ] B) Que solo los trabajadores pueden participar en política
-- [x] C) La capacidad de la sociedad civil para ejercer presión y negociación con el Estado mediante mecanismos de participación no electorales <!-- feedback: Los paros y movimientos sociales demuestran formas de participación que van más allá del voto, canalizando demandas ciudadanas -->
-- [ ] D) La necesidad de eliminar el sistema de partidos políticos
+- [ ] A) El derecho de los clientes de un banco a elegir a su gerente. <!-- feedback: Incorrect. Es un concepto político sobre el intercambio de favores, no comercial bancario. -->
+- [ ] B) La obligación de los políticos de ser amables con todas las personas. <!-- feedback: Incorrect. La cortesía es deseable, el clientelismo es una patología del sistema. -->
+- [x] C) El intercambio de favores (empleos, contratos, dinero) por votos, lo que corrompe la voluntad del elector y la eficiencia del Estado. <!-- feedback: Correct. Convierte el derecho al voto en una mercancía y el servicio público en un botín personal. -->
+- [ ] D) La decisión de un país de tener solo tiendas privadas y no públicas. <!-- feedback: Incorrect. No tiene relación con el modelo de propiedad de los comercios. -->
 
 ### Explicación Pedagógica
-Los movimientos sociales constituyen formas legítimas de participación política que complementan los canales institucionales. Students often see social protests as anti-democratic or only valid through traditional politics, when they are actually part of democratic participation.
+El clientelismo hace que las personas voten no por el mejor programa o idea, sino por la necesidad inmediata de un favor, impidiendo que el Estado funcione bajo criterios de mérito y justicia.
 
 ---
 
-## Question 12 (Variant Basic - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Filosofía política
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-La teoría de la separation de poderes formulada por Montesquieu tenía como objetivo:
+¿Cuál es la diferencia entre "Poder" y "Autoridad" según la sociología política?
 
 ### Options
-- [ ] A) Aumentar la eficiencia del gobierno concentrando el poder
-- [x] B) Evitar la tiranía distribut dividing el poder entre múltiples ramas independientes <!-- feedback: Montesquieu propuso la separación para evitar el abuso de poder, cada rama controlaría a las otras -->
-- [ ] C) Eliminar la participación ciudadana en el gobierno
-- [ ] D) Establecer la supremacía del poder ejecutivo sobre los demás
+- [ ] A) El poder es para los hombres y la autoridad para las mujeres. <!-- feedback: Incorrect. Son categorías aplicables a cualquier ejercicio del mando social. -->
+- [ ] B) No hay diferencia, son sinónimos exactos que se usan para decir lo mismo. <!-- feedback: Incorrect. Tienen matices fundamentales sobre la legitimidad del mando. -->
+- [x] C) El poder es la capacidad de imponer la voluntad (incluso por la fuerza); la autoridad es el poder reconocido como legítimo y aceptado por los que obedecen. <!-- feedback: Correct. Un asaltante tiene poder, un maestro tiene autoridad. -->
+- [ ] D) El poder lo tienen los científicos y la autoridad los policías. <!-- feedback: Incorrect. Ambos pueden tener ambas, dependiendo de cómo ejerzan sus funciones y cómo sean percibidos. -->
 
 ### Explicación Pedagógica
-Montesquieu desarrolló la teoría de separación de poderes para prevenir la tiranía, haciendo que cada rama del gobierno controlara a las otras. Students confuse this with checks and balances or don't understand the historical context of preventing absolutism.
+La política democrática busca que el poder se transforme siempre en autoridad, para que el orden social se base en el respeto y el consenso más que en el miedo.
 
 ---
 
-## Question 13 (Variant Basic - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v13`
-**Bloom:** Apply
-**ICFES:** Argumentación
-**Context:** Derechos humanos
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El principio de "progresividad" de los derechos humanos implica que:
+¿A qué se refiere el concepto de "Gobernanza" en comparación con el término tradicional de "Gobierno"?
 
 ### Options
-- [ ] A) Los derechos pueden reducirse cuando el Estado lo considere necesario
-- [x] B) Una vez reconocidos, los derechos no pueden retroceder a situaciones inferiores y deben expandirse progresivamente <!-- feedback: La progresividad significa que los derechos humanos se consolidan gradualmente sin retroceder, el Estado debe avanzar en su garantía -->
-- [ ] C) Los derechos fundamentales solo existen en países desarrollados
-- [ ] D) Los derechos económicos son más importantes que los civiles
+- [ ] A) A que el gobierno ahora solo debe usar internet para mandar. <!-- feedback: Incorrect. El medio digital es solo una herramienta, la gobernanza es un cambio de modelo de gestión. -->
+- [ ] B) A la obligación de que todos los ciudadanos sean gobernadores de su casa. <!-- feedback: Incorrect. Es una interpretación doméstica errónea del concepto público. -->
+- [x] C) A un modelo de gestión más cooperativo y horizontal, donde el Estado interactúa con empresas, ONG y ciudadanos para tomar decisiones y resolver problemas. <!-- feedback: Correct. Implica red, red de actores y participación masiva. -->
+- [ ] D) Al derecho de los gobernadores a ser presidentes automáticamente. <!-- feedback: Incorrect. No tiene relación con la carrera política personal de los funcionarios. -->
 
 ### Explicación Pedagógica
-La progresividad es un principio del derecho internacional que impide la regresión en derechos. Once a right is recognized, the State cannot reduce its scope. Students confuse this with "gradualism" or think rights can be suspended arbitrarily.
+La gobernanza reconoce que los problemas actuales son tan complejos que el Estado solo no puede resolverlos, requiriendo la colaboración activa de toda la sociedad.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Argumentación
-**Context:** Sistema político colombiano
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.45
 
 ### Enunciado
-La pluralidad política en Colombia se sustenta en el reconocimiento constitucional de:
+Un ciudadano afirma: "El Estado es un mal necesario". ¿Qué ideología política suele usar este argumento?
 
 ### Options
-- [ ] A) Un único partido político autorizado por la Constitución
-- [x] B) La libertad de fundación de partidos y movimientos políticos y la representación de minorías en el Congreso <!-- feedback: La Constitución reconoce el pluralismo político, permitiendo múltiples partidos y garantizando representación parlamentaria a diversas fuerzas -->
-- [ ] C) La obligación de todos los ciudadanos de afiliarse a un partido
-- [ ] D) La prohibición de formarse opiniones políticas diferentes
+- [ ] A) El Comunismo. <!-- feedback: Incorrect. Para el comunismo ortodoxo, el Estado es una herramienta de clase que debe desaparecer en la etapa final del paraíso comunista, pero mientras tanto es un "bien necesario" para la revolución. -->
+- [ ] B) La Teocracia. <!-- feedback: Incorrect. Para la teocracia el Estado es un instrumento divino para cumplir la voluntad de Dios en la Tierra. -->
+- [x] C) El Liberalismo Clásico. <!-- feedback: Correct. Reconoce que el Estado debe existir para proteger la propiedad y la vida, pero debe ser lo más pequeño y limitado posible. -->
+- [ ] D) El Fascismo. <!-- feedback: Incorrect. Para el fascismo el Estado es un bien absoluto y sagrado: "Todo dentro del Estado, nada fuera del Estado". -->
 
 ### Explicación Pedagógica
-El sistema político colombiano reconoce el pluralismo político como valor fundamental. Los ciudadanos pueden fundar partidos, el Congreso tiene representación de diversas fuerzas. Students confuse this with single-party systems or think pluralism means absence of rules.
+El liberalismo desconfía del poder del Estado por su tendencia a abusar de la libertad individual, por lo que propone que solo intervenga en lo estrictamente indispensable.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Teoría política
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-Según Robert Dahl, un sistema político será más democrático en la medida en que presente:
+¿Qué es el "Pluralismo Político" y por qué es una condición de la democracia?
 
 ### Options
-- [ ] A) Mayor concentración del poder en el ejecutivo
-- [ ] B) Partidos políticos que representen exactamente los mismos intereses
-- [x] C) Controles institucionalizados que impidan que cualquier grupo controle la agenda pública y las preferencias ciudadanas <!-- feedback: Dahl argumentó que la polyquía - control de muchos sobre las decisiones - reduce las posibilidades de tiranía -->
-- [ ] D) Exclusión de ciudadanos con bajos niveles educativos del proceso electoral
+- [ ] A) La obligación de que todos los ciudadanos voten por el mismo partido político. <!-- feedback: Incorrect. Eso sería un sistema de partido único, propio de dictaduras. -->
+- [ ] B) El derecho de los políticos a tener muchas casas y carros. <!-- feedback: Incorrect. No tiene relación con la propiedad privada de los funcionarios. -->
+- [x] C) El reconocimiento y garantía de la existencia de múltiples partidos, ideas y grupos con diferentes visiones que compiten pacíficamente por el poder. <!-- feedback: Correct. Sin pluralismo no hay libertad de elección. -->
+- [ ] D) La decisión de que el país sea gobernado por veinte personas elegidas al azar. <!-- feedback: Incorrect. Es una interpretación literal errónea del prefijo "pluri". -->
 
 ### Explicación Pedagógica
-Robert Dahl conceptualizó la democracia como polyquía, donde múltiples puntos de veto evitan la dominación de cualquier grupo. La idea es que ningún grupo debe poder controlar completamente las decisiones públicas. Students often oversimplify Dahl's complex framework.
+El pluralismo asegura que ninguna visión del mundo sea impuesta como la única verdad oficial del Estado, permitiendo que la sociedad evolucione a través del debate y la alternancia.
 
 ---
 
-## Question 16 (Variant Basic - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Argumentación
-**Context:** Ciudadanía digital
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.40
 
 ### Enunciado
-El ejercicio de la ciudadanía digital en Colombia implica responsabilidades como:
+¿Cuál es la importancia del concepto de "Rendición de Cuentas" (Accountability) en un sistema democrático?
 
 ### Options
-- [ ] A) Abstenerse de expresar opiniones políticas en redes sociales
-- [x] B) Verificar información antes de compartirla, respetar los derechos de otros usuarios y participar constructivamente en espacios digitales <!-- feedback: La ciudadanía digital responsable incluye el pensamiento crítico ante la información, el respeto a la dignidad de las personas y la participación constructiva -->
-- [ ] C) Solo consumir información de medios gubernamentales
-- [ ] D) Evitar cualquier tipo de participación política en línea
+- [ ] A) Lograr que todos los políticos sepan matemáticas para contar el dinero. <!-- feedback: Incorrect. Es una interpretación literal burda; se refiere a la responsabilidad política. -->
+- [ ] B) Obligar a los ciudadanos a que le cuenten sus secretos al gobierno todos los días. <!-- feedback: Incorrect. Eso sería vigilancia estatal, lo opuesto a la rendición de cuentas del poder. -->
+- [x] C) La obligación de los gobernantes de informar sobre sus acciones, justificarlas y ser sancionados si no cumplen con sus deberes o la ley. <!-- feedback: Correct. Garantiza la transparencia y el control ciudadano sobre el poder. -->
+- [ ] D) La decisión de que no se vuelvan a usar cuentas de banco para el dinero público. <!-- feedback: Incorrect. No tiene relación con la tecnología bancaria. -->
 
 ### Explicación Pedagógica
-La ciudadanía digital implica habilidades de verificación, respeto por los derechos ajenos, y participación constructiva. Students often think digital citizenship is about abstaining from politics online, when it's actually about responsible and informed participation.
+Sin rendición de cuentas, la democracia se convierte en un cheque en blanco donde los políticos pueden hacer lo que quieran una vez elegidos, fomentando la corrupción y la ineficiencia.
 
 ---
 
-## Question 17 (Variant Basic - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Argumentación
-**Context:** Análisis político
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-La crisis de representatividad política en Colombia contemporánea puede explicarse como resultado de:
+Considere la "Teoría de la Elección Racional" aplicada a la política: sugiere que tanto políticos como votantes actúan buscando su propio beneficio personal máximo. ¿Qué riesgo plantea esta visión para el concepto de "Bien Común"?
 
 ### Options
-- [ ] A) Un problema exclusivamente generacional de los jóvenes
-- [ ] B) La abundancia de opciones políticas para los ciudadanos
-- [x] C) La desconexión entre partidos tradicionales y nuevas demandas sociales, combinación de corrupción institucional y pérdida de credibilidad <!-- feedback: La crisis de representatividad tiene causas múltiples:传统 parties losing connection with new social demands, corruption, and institutional crisis of legitimacy -->
-- [ ] D) La participación excesiva de la sociedad civil en política
+- [ ] A) Que los políticos se vuelvan demasiado inteligentes y ya no necesiten asesores. <!-- feedback: Incorrect. La racionalidad de la que habla la teoría es de interés, no solo de capacidad intelectual. -->
+- [x] B) Que se descuiden las metas a largo plazo (como el medio ambiente o la justicia social profunda) porque no dan beneficios o votos inmediatos a los actores. <!-- feedback: Correct. Se prioriza el intercambio de favores a corto plazo sobre el futuro de la nación. -->
+- [ ] C) Que la gente deje de usar el dinero para usar solo la razón. <!-- feedback: Incorrect. La teoría asume que la razón se usa precisamente para obtener más recursos y poder. -->
+- [ ] D) La obligación de que todos los ciudadanos estudien economía por ley. <!-- feedback: Incorrect. Es una teoría descriptiva de la conducta, no una propuesta educativa obligatoria. -->
 
 ### Explicación Pedagógica
-La crisis de representatividad es un fenómeno complejo con múltiples causas: desconexión entre parties and citizen demands, corruption, clientelism, and institutional legitimacy crisis. Students often oversimplify or blame single causes.
+Esta visión advierte sobre el peligro de que la política se convierta solo en un mercado de votos y favores, donde nadie se preocupa realmente por los problemas que afectan a toda la sociedad en conjunto.
 
 ---
 
-## Question 18 (Variant Basic - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v18`
-**Bloom:** Analyze
-**ICFES:** Interpretación
-**Context:** Globalización y política
+**Bloom:** Evaluate
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.35
 
 ### Enunciado
-Los movimientos sociales transnacionales como los ambientales demuestran que la acción colectiva contemporánea:
+Analice la "Teoría de las Élites" (autores como Mosca o Pareto): sostiene que en toda sociedad, independientemente de si es democracia o dictadura, siempre habrá una minoría organizada (la élite) que gobierna sobre una mayoría desorganizada. ¿Cómo puede la democracia liberal contrarrestar este dominio inevitable?
 
 ### Options
-- [ ] A) Está necesariamente financiada por Estados extranjeros
-- [x] B) Trasciende fronteras nacionales y utiliza nuevos mecanismos de participación para abordar problemas globales <!-- feedback: Movimientos como el ambientalismo global muestran cómo ciudadanos se organizan internacionalmente usando redes digitales y marcos comunes -->
-- [ ] C) Solo puede lograr resultados a nivel local
-- [ ] D) Ha dejado de ser relevante para la política nacional
+- [ ] A) Prohibiendo que existan personas inteligentes y ricas. <!-- feedback: Incorrect. Sería una violación a los derechos individuales y una medida imposible. -->
+- [ ] B) Obligando a que todos los ciudadanos sean presidentes al mismo tiempo. <!-- feedback: Incorrect. La gestión del Estado requiere especialización y funciones diferenciadas. -->
+- [x] C) Fomentando la pluralidad de élites que compitan entre sí, fortaleciendo la sociedad civil organizada y garantizando canales de movilidad social para que nuevas personas lleguen al poder. <!-- feedback: Correct. Se trata de que la élite no sea cerrada ni única. -->
+- [ ] D) Que el gobierno sea elegido solo por las personas que viven en las calles. <!-- feedback: Incorrect. La democracia busca el sufragio universal, no excluir a sectores para favorecer a otros de forma arbitraria. -->
 
 ### Explicación Pedagógica
-La globalización ha transformado los movimientos sociales, permitiendo articulación transnacional sobre problemas comunes. Students either think movements are always controlled by foreign interests, or don't recognize the new forms of political participation enabled by globalization.
+La democracia no elimina la existencia de líderes y expertos (élites), pero debe asegurar que estos rindan cuentas, que haya competencia entre diferentes grupos y que cualquier ciudadano talentoso pueda llegar a ser parte de la toma de decisiones.
 
 ---
 
-## Question 19 (Variant Basic - Difficulty D10)
+## Question 19 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v19`
 **Bloom:** Evaluate
-**ICFES:** Argumentación
-**Context:** Teoría política contemporánea
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-La conceptuación de "democracia deliberativa" de Jürgen Habermas implica que:
+El filósofo Jürgen Habermas propone la "Acción Comunicativa" como base de la democracia. ¿Qué importancia tiene el "Diálogo Racional" en el espacio público según esta visión?
 
 ### Options
-- [ ] A) Las decisiones políticas deben tomarse exclusivamente mediante votación mayoritaria
-- [x] B) La legitimidad de las decisiones depende de que hayan sido discutidas públicamente bajo condiciones de igualdad y respeto entre ciudadanos <!-- feedback: Habermas propone que la racionalidad discursiva, no la votación numérica, legitima las decisiones políticas -->
-- [ ] C) Los expertos deben tomar las decisiones importantes sin consultar al público
-- [ ] D) El diálogo político es inútil y debe evitarse
+- [ ] A) Que los políticos hablen mucho por televisión para que la gente se duerma. <!-- feedback: Incorrect. Habermas busca un diálogo de calidad, no una saturación de ruido publicitario. -->
+- [x] B) Que las leyes y decisiones políticas deben ser el resultado de un debate libre de coacción, donde gane el mejor argumento y no el que tiene más dinero o armas. <!-- feedback: Correct. Es la base de la legitimidad democrática moderna. -->
+- [ ] C) La obligación de que todos los ciudadanos tengan que ser filósofos para poder votar. <!-- feedback: Incorrect. Todos los ciudadanos tienen capacidad comunicativa y derecho a participar en el debate público. -->
+- [ ] D) Que está prohibido usar el silencio en las reuniones del gobierno. <!-- feedback: Incorrect. Se refiere a la calidad de la deliberación, no a una prohibición del silencio. -->
 
 ### Explicación Pedagógica
-La democracia deliberativa强调 la importancia del discurso racional y la discusión pública para legitimar decisiones. The key is not majority voting but reasoned public deliberation. Students confuse this with simple majority rule or direct democracy.
+Para Habermas, una democracia sana requiere que los ciudadanos puedan discutir sobre los problemas comunes en igualdad de condiciones, llegando a consensos basados en la razón y no en la manipulación o el poder bruto.
 
 ---
 
-## Question 20 (Variant Basic - Difficulty D10)
+## Question 20 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P4-pensamiento-politico-112-MASTERY-v20`
-**Bloom:** Create
-**ICFES:** Argumentación
-**Context:** Análisis político colombiano
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-La implementación del Acuerdo de Paz de 2016 en Colombia representa un desafío para la democracia porque:
+Analice el concepto de "Desobediencia Civil" (autores como Thoreau o Gandhi). ¿Cuál es la condición ética fundamental para que un acto de desobediencia a una ley sea considerado legítimo en una democracia?
 
 ### Options
-- [ ] A) El Acuerdo eliminó completamente el sistema de partidos políticos
-- [ ] B) Los excombatientes no tienen derecho a participar políticamente
-- [x] C) Exige crear nuevas институuciones y mecanismos de participación que permitan la inclusión política de actores tradicionalmente excluidos, enfrentando resistencia de sectores que defienden el status quo <!-- feedback: El posconflicto requiere transformaciones institucionales profundas para incluir nuevos actores, enfrentando tensiones entre cambio y continuidad -->
-- [ ] D) El Acuerdo fue rechazado por la totalidad de la población colombiana
+- [ ] A) Que la persona que desobedece lo haga en secreto para que nadie la atrape. <!-- feedback: Incorrect. La desobediencia civil debe ser pública para tener impacto político y moral. -->
+- [ ] B) Que la persona use la violencia física para destruir los edificios del gobierno. <!-- feedback: Incorrect. La desobediencia civil se caracteriza por ser no violenta. -->
+- [x] C) Que se haga de forma pública, pacífica, basándose en principios de justicia superiores a la ley y aceptando voluntariamente las consecuencias legales (cárcel) del acto. <!-- feedback: Correct. Busca apelar a la conciencia de la mayoría para cambiar una ley injusta. -->
+- [ ] D) Que la persona tenga mucho dinero para pagar la multa y que no le pase nada. <!-- feedback: Incorrect. La desobediencia civil implica un sacrificio personal por un valor colectivo, no un privilegio de pago. -->
 
 ### Explicación Pedagógica
-El posconflicto colombiano representa un caso complejo donde la paz requiere transformación democrática: new forms of political inclusion for ex-combatants, institutional reform, dealing with historical exclusion. Students oversimplify either dismissing the challenge or denying the resistance.
+La desobediencia civil es el "último recurso" del ciudadano honesto frente a leyes que considera inmorales (como las leyes de segregación racial), mostrando que la lealtad a la justicia está por encima de la obediencia ciega a una norma temporal.

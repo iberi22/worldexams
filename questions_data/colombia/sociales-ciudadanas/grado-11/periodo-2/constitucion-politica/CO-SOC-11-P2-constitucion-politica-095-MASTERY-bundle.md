@@ -1,68 +1,3 @@
-<think>
-The user wants me to generate exactly 20 questions in ICFES Saber 11 format for Colombian Social Sciences (Sociales Ciudadanas) topic: constitucion-politica (political constitution), grade 11, period 2.
-
-The output format is specific:
-- Frontmatter YAML with metadata
-- 20 questions with progressive difficulty
-- Questions 1-4: D3-D4 (basic)
-- Questions 5-10: D5-D6 (intermediate)
-- Questions 11-16: D7-D8 (advanced)
-- Questions 17-20: D9-D10 (high mastery)
-
-Each question must have:
-- ID, Bloom level, ICFES competency, Context
-- Enunciado (statement)
-- 4 options with [x] marking correct answer
-- Explicación Pedagógica
-
-Let me generate these questions based on Colombian Political Constitution topics. I'll cover:
-- Rights and duties
-- Structure of government (ramas del poder)
-- Territorial organization
-- Supreme Court, Constitutional Court, Electoral bodies
-- Human rights
-- Democratic principles
-- Social state
-- Legislative process
-- Judicial branch
-- Executive branch
-
-Let me create them following the exact format requested.
-
-Questions 1-4 (D3-D4 difficulty):
-1. About basic rights in the Constitution
-2. About structure of the state
-3. About territorial organization
-4. About duties of citizens
-
-Questions 5-10 (D5-D6 difficulty):
-5. About mechanisms of democratic participation
-6. About the Corte Constitucional
-7. About the Rama Ejecutiva
-8. About the legislative process
-9. About territorial entities
-10. About judicial branch
-
-Questions 11-16 (D7-D8 difficulty):
-11. About fundamental rights and their protection
-12. About international human rights in domestic law
-13. About legislative control of the executive
-
-
-14. About the structure of the Consejo Nacional Electoral
-15. About constitutional reform process
-16. About the role of the Corte Suprema de Justicia
-
-Questions 17-20 (D9-D10 difficulty):
-17. Complex analysis of separation of powers
-18. Complex analysis of constitutional rights in specific scenarios
-19. Analysis of international treaties and constitutional hierarchy
-20. Complex evaluation of democratic participation mechanisms and their effectiveness in the Colombian system
-
-I'll now format these according to the specific output requirements.
-
-</think>
-
 ---
 id: "CO-SOC-11-P2-constitucion-politica-095-MASTERY"
 country: "colombia"
@@ -71,441 +6,432 @@ asignatura: "sociales-ciudadanas"
 tema: "constitucion-politica"
 periodo: 2
 protocol_version: "5.1"
+bundle_index: 1
 bundle_size: 20
-bundle_index: 95
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T20:40:27.535631"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
+alignment: "ICFES Saber 11 + MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.55
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "pensamiento_social, interpretacion_analisis_perspectivas, pensamiento_reflexivo"
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificación de derechos fundamentales
-**Context:** Estudiantes de grado 11 discuten sobre los derechos que濡护 su formación como ciudadanos
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.85
 
 ### Enunciado
-La Constitución Política de Colombia de 1991 consagra en su Título II los derechos fundamentales. Dentro de estos, el derecho a la vida se encuentra en el artículo:
+Según la Constitución Política de 1991, ¿cuál es el órgano encargado de velar por la integridad y supremacía de la Carta Magna en Colombia?
 
 ### Options
-- [ ] A) Artículo 11
-- [x] B) Artículo 13
-- [ ] C) Artículo 18
-- [ ] D) Artículo 19
+- [ ] A) El Congreso de la República. <!-- feedback: Incorrect. El Congreso hace las leyes y puede reformar la Constitución, pero no es su guardián supremo. -->
+- [x] B) La Corte Constitucional. <!-- feedback: Correct. Su función principal es decidir sobre la constitucionalidad de las leyes y proteger los derechos fundamentales. -->
+- [ ] C) La Presidencia de la República. <!-- feedback: Incorrect. El Presidente es el jefe de Estado y de Gobierno, pero está sometido a la Constitución. -->
+- [ ] D) La Procuraduría General de la Nación. <!-- feedback: Incorrect. La Procuraduría vigila la conducta de los funcionarios públicos, pero no decide sobre la validez constitucional de las leyes. -->
 
 ### Explicación Pedagógica
-El Artículo 13 de la Constitución establece el derecho a la vida. El Artículo 11 es el derecho a la vida (pero en realidad el 13), el 18 es la libertad de conciencia, el 19 es la libertad de cultos. El estudiante debe recordar que la vida como derecho fundamental está en el artículo 13 de la Carta.
+La Corte Constitucional nació con la Constitución de 1991 para asegurar que ninguna ley o acto del gobierno contradiga los principios fundamentales establecidos por el pueblo.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Comprensión de la estructura del Estado
-**Context:** Análisis de la organización política del país en clase de sociales
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.80
 
 ### Enunciado
-El Estado colombiano se define como un Estado Social de Derecho, lo cual significa que:
+¿Cuáles son las tres ramas del poder público en Colombia, según la estructura del Estado definida en la Constitución?
 
 ### Options
-- [ ] A) El gobierno es elegido directamente por el pueblo sin intermediarios
-- [ ] B) El Estado prioriza los intereses del mercado sobre los derechos sociales
-- [x] C) El Estado tiene la obligación de garantizar condiciones de vida digna para todos los ciudadanos
-- [ ] D) El poder público se concentra en una sola rama del gobierno
+- [ ] A) Presidencial, Parlamentaria y Eclesiástica. <!-- feedback: Incorrect. Colombia es un Estado laico y la Iglesia no es una rama del poder público. -->
+- [x] B) Legislativa, Ejecutiva y Judicial. <!-- feedback: Correct. Estas ramas colaboran armónicamente para la realización de los fines del Estado. -->
+- [ ] C) Administrativa, Militar y Judicial. <!-- feedback: Incorrect. Las fuerzas militares están bajo el mando de la rama ejecutiva, no son una rama independiente. -->
+- [ ] D) Nacional, Departamental y Municipal. <!-- feedback: Incorrect. Estas son divisiones territoriales y niveles de gobierno, no las ramas del poder. -->
 
 ### Explicación Pedagógica
-Un Estado Social de Derecho significa que el Estado tiene la obligación de intervenir positivamente para garantizar condiciones de vida digna, no solo limita el poder sino que actively promote social welfare. La otra opción confunde con otras formas de gobierno.
+La división de poderes busca evitar la concentración de la autoridad en una sola persona o institución, garantizando el equilibrio y el control mutuo (pesos y contrapesos).
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Análisis de la organización territorial
-**Context:** Estudio del sistema de divide político administrativo de Colombia
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.75
 
 ### Enunciado
-Colombia se divide político-administrativamente en departamentos, distritos y municipios. Los departamentos son entidades territoriales que en relación con el gobierno nacional tienen:
+La Rama Legislativa en Colombia está representada por el Congreso de la República, el cual es "bicameral". ¿Qué significa esto?
 
 ### Options
-- [ ] A) Plena autonomía para dictar su propia constitución
-- [x] B) Autonomía en la gestión de sus intereses dentro de los límites de la Constitución y la ley
-- [ ] C) Sumisión total a las decisiones del Presidente de la República
-- [ ] D) La misma autonomía que los territorios indígenas
+- [ ] A) Que tiene dos sedes: una en Bogotá y otra en Medellín. <!-- feedback: Incorrect. El Congreso tiene una sede única en el Capitolio Nacional en Bogotá. -->
+- [x] B) Que está integrado por dos cámaras: el Senado de la República y la Cámara de Representantes. <!-- feedback: Correct. Cada cámara tiene funciones específicas y una forma distinta de elección. -->
+- [ ] C) Que sus miembros son elegidos por dos periodos de gobierno seguidos. <!-- feedback: Incorrect. Los congresistas son elegidos por 4 años; la reelección depende de los votos, no de la estructura de las cámaras. -->
+- [ ] D) Que solo puede sesionar dos veces al año durante un mes. <!-- feedback: Incorrect. El Congreso sesiona en dos periodos ordinarios que suman cerca de 8 meses al año. -->
 
 ### Explicación Pedagógica
-Según el Artículo 298 de la Constitución, los departamentos tienen autonomía para la gestión de sus intereses pero dentro de los límites de la Constitución y la ley. No tienen autonomía total como para dictar constituciones propias, ni están subordinados completamente al Presidente.
+El bicameralismo permite que existan representantes de orden nacional (Senado) y representantes de orden regional (Cámara), logrando un equilibrio en la creación de las leyes.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v4`
-**Bloom:** Apply
-**ICFES:** Aplicación de deberes ciudadanos
-**Context:** Preparación para la vida cívica y electoral en Colombia
+**Bloom:** Remember
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.70
 
 ### Enunciado
-En Colombia, el voto es obligatorio para los ciudadanos que figuren en el registro electoral. Esta obligación hace parte del concepto de:
+¿Cuál es la función principal de la Rama Judicial en el Estado colombiano?
 
 ### Options
-- [ ] A) Derecho al sufragio
-- [x] B) Deber de participación ciudadana
-- [ ] C) Privilegio electoral
-- [ ] D) Libertad política
+- [ ] A) Elaborar las leyes y códigos que rigen al país. <!-- feedback: Incorrect. Esta es la función de la rama legislativa (Congreso). -->
+- [ ] B) Ejecutar las obras públicas y administrar los recursos económicos. <!-- feedback: Incorrect. Esta es la función de la rama ejecutiva (Presidente, gobernadores, alcaldes). -->
+- [x] C) Administrar justicia, solucionar conflictos entre ciudadanos o entre estos y el Estado. <!-- feedback: Correct. Se encarga de aplicar las leyes a casos particulares para garantizar la convivencia. -->
+- [ ] D) Vigilar que los congresistas asistan a las sesiones del Senado. <!-- feedback: Incorrect. La vigilancia de los funcionarios es tarea de los organismos de control, no la función esencial de la administración de justicia. -->
 
 ### Explicación Pedagógica
-El voto obligatorio representa un DEBER de participación ciudadana más que un derecho. Los estudiantes frequentemente confunden el carácter obligatorio del voto con un derecho. El Artículo 258 de la Constitución establece que el voto será obligatorio para quienes figuren en el registro electoral.
+La Rama Judicial asegura que se respeten los derechos y se cumplan las obligaciones, castigando a quienes infringen la ley a través de jueces y magistrados.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Comprensión de mecanismos de participación ciudadana
-**Context:** Concientización sobre herramientas de participación democrática en el país
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.65
 
 ### Enunciado
-La iniciativa popular es un mecanismo de participación ciudadana que permite a los ciudadanos presentar proyectos de ley ante el Congreso. Este mecanismo está contemplado en la Constitución en el artículo:
+Dentro de la estructura del Estado existen "Organismos de Control". ¿Cuál de los siguientes pertenece a esta categoría y se encarga de vigilar la gestión fiscal y el uso del dinero público?
 
 ### Options
-- [ ] A) 40
-- [ ] B) 103
-- [ ] C) 152
-- [x] D) 155
+- [ ] A) El Consejo Nacional Electoral. <!-- feedback: Incorrect. Su función es organizar y vigilar las elecciones, no el gasto del dinero. -->
+- [x] B) La Contraloría General de la República. <!-- feedback: Correct. Vigila que los recursos del Estado se gasten correctamente y no se pierdan por corrupción o mala administración. -->
+- [ ] C) La Defensoría del Pueblo. <!-- feedback: Incorrect. Aunque es de control, su foco es la protección de los derechos humanos, no el control fiscal. -->
+- [ ] D) El Banco de la República. <!-- feedback: Incorrect. Es la autoridad monetaria, no un organismo de control disciplinario o fiscal. -->
 
 ### Explicación Pedagógica
-El Artículo 155 de la Constitución establece que se podrán presentar proyectos de ley popular. El Artículo 40 desarrolla el derecho de participación, el 103 los mecanismos de participación, pero la iniciativa popular específica está en el 155.
+Los organismos de control son independientes de las tres ramas del poder para asegurar que puedan investigar y sancionar a cualquier funcionario sin presiones políticas.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Conocimiento del control constitucional
-**Context:** Estudio de las funciones de la Corte Constitucional
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.60
 
 ### Enunciado
-La Corte Constitucional tiene dentro de sus funciones principales el control de las leyes. Una de sus funciones más importantes es la revisión de los proyectos de ley que han sido objetados por el gobierno por inconveniencia. Esta revisión corresponde al proceso de:
+La Constitución de 1991 establece que Colombia es un Estado "Descentralizado". ¿Qué implica esto para los departamentos y municipios?
 
 ### Options
-- [ ] A) Acción de tutela
-- [x] B) control abstracto de constitucionalidad
-- [ ] C) hábeas corpus
-- [ ] D) acción de cumplimiento
+- [ ] A) Que ya no tienen que obedecer las leyes nacionales. <!-- feedback: Incorrect. Colombia es unitaria; las leyes nacionales se aplican en todo el territorio. -->
+- [ ] B) Que el Presidente puede nombrar directamente a los alcaldes y gobernadores. <!-- feedback: Incorrect. Desde la década de 1980 y ratificado en 1991, estos funcionarios se eligen por voto popular. -->
+- [x] C) Que poseen autonomía para administrar sus propios recursos y gestionar sus intereses dentro de los límites de la ley. <!-- feedback: Correct. Tienen capacidad de decisión propia en temas de salud, educación y desarrollo local. -->
+- [ ] D) Que cada departamento puede tener su propia moneda y su propio ejército. <!-- feedback: Incorrect. La moneda y la fuerza pública son de orden nacional y único. -->
 
 ### Explicación Pedagógica
-Cuando el Presidente objecta un proyecto de ley por inconveniencia, la Corte Constitucional hace control abstracto de constitucionalidad. Los estudiantes confunden con la acción de tutela que es control concreto. Hábeas corpus protege la libertad personal y acción de cumplimiento exige el cumplimiento de normas.
+La descentralización busca acercar el Estado al ciudadano, permitiendo que las decisiones que afectan a una comunidad se tomen localmente y no siempre desde Bogotá.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Comprensión de la estructura ejecutiva
-**Context:** Análisis del gobierno nacional y sus ramas
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.60
 
 ### Enunciado
-El Presidente de la República en Colombia es jefe del Estado, jefe de gobierno y suprema autoridad administrativa. El Vicepresidente代替 el Presidente en caso de ausencia temporal o definitiva. Esta estructura se fundamenta en el principio de:
+¿Cuál es la diferencia fundamental entre la Procuraduría General de la Nación y la Contraloría General de la República?
 
 ### Options
-- [ ] A) Separación de funciones
-- [x] B) Unidad de mando
-- [ ] C) Descentralización administrativa
-- [ ] D) Separación de poderes
+- [ ] A) La Procuraduría vigila a los ciudadanos y la Contraloría a los militares. <!-- feedback: Incorrect. Ambas vigilan a los servidores públicos y la gestión del Estado. -->
+- [x] B) La Procuraduría ejerce vigilancia disciplinaria (conducta de funcionarios) y la Contraloría ejerce vigilancia fiscal (dinero público). <!-- feedback: Correct. La Procuraduría puede sancionar o destituir a un funcionario por faltas a sus deberes. -->
+- [ ] C) La Procuraduría depende del Presidente y la Contraloría del Congreso. <!-- feedback: Incorrect. Ambas son autónomas e independientes de las ramas del poder según la Constitución. -->
+- [ ] D) No hay ninguna diferencia, son dos nombres para la misma oficina. <!-- feedback: Incorrect. Tienen funciones, presupuestos y objetivos constitucionales distintos. -->
 
 ### Explicación Pedagógica
-La figura del Presidente como jefe del Estado y de gobierno, con el Vicepresidente como替代, refleja el principio de unidad de mando. La separación de poderes se refiere a las tres ramas (ejecutiva, legislativa, judicial) y no a la estructura interna del ejecutivo.
+Entender las funciones de los entes de control permite al ciudadano saber a dónde acudir ante una denuncia de corrupción (Contraloría) o de abuso de poder (Procuraduría).
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Análisis del proceso legislativo
-**Context:** Estudio de cómo se originates y aprueban las leyes en Colombia
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.55
 
 ### Enunciado
-Un proyecto de ley en Colombia pasa por varios trámites antes de convertirse en ley. Después de que el Congreso aprueba un proyecto de ley, este debe ser:
+La Fiscalía General de la Nación hace parte de la Rama Judicial. ¿Cuál es su labor principal en el proceso legal?
 
 ### Options
-- [ ] A) Sancionado directamente por el Procurador General
-- [ ] B) Ratificado por la Corte Constitucional
-- [x] C) Sanccionado por el Presidente de la República
-- [ ] D) Votado nuevamente en referendo popular
+- [ ] A) Dictar la sentencia definitiva para enviar a alguien a la cárcel. <!-- feedback: Incorrect. La sentencia la dicta un Juez, no el Fiscal. -->
+- [x] B) Investigar los delitos y acusar a los presuntos responsables ante los jueces. <!-- feedback: Correct. Recolecta pruebas y representa al Estado en la persecución del crimen. -->
+- [ ] C) Defender a los ciudadanos que no tienen dinero para pagar un abogado. <!-- feedback: Incorrect. Esa es la labor de la Defensoría del Pueblo (Defensores de oficio). -->
+- [ ] D) Redactar los artículos del Código Penal. <!-- feedback: Incorrect. Los códigos los redacta y aprueba el Congreso de la República. -->
 
 ### Explicación Pedagógica
-Según el Artículo 157 de la Constitución, después de la aprobación del Congreso, el proyecto pasa al Presidente para su sanción. El Presidente puede sancionarlo u objetarlo. El Procurador no sanciona leyes y la Corte Constitucional solo interviene si hay objeciones o revisión automática.
+En el sistema penal colombiano hay una separación de funciones: el Fiscal investiga y acusa, mientras que el Juez decide si la persona es culpable o inocente basándose en las pruebas.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Comprensión de la organización territorial
-**Context:** Estudios sobre las entidades territoriales y su autonomía
+**Bloom:** Analyze
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.55
 
 ### Enunciado
-Los municipios en Colombia están soumis al control del Ministerio de Hacienda en relación con sus presupuestos. Este tipo de control se denomina:
+El "Sistema de Pesos y Contrapesos" se evidencia cuando una rama del poder controla a otra. ¿Cuál de los siguientes ejemplos describe este sistema correctamente?
 
 ### Options
-- [ ] A) Control político
-- [ ] B) Control social
-- [ ] C) Control ciudadano
-- [x] D) Control fiscal
+- [ ] A) El Presidente decide quiénes deben ser elegidos como congresistas. <!-- feedback: Incorrect. Esto violaría la autonomía del voto popular y la separación de ramas. -->
+- [ ] B) El Congreso le entrega todo su poder al Presidente para que gobierne por decreto para siempre. <!-- feedback: Incorrect. Esto sería un sistema autoritario, lo opuesto a los pesos y contrapesos. -->
+- [x] C) La Corte Constitucional declara que una ley aprobada por el Congreso es contraria a la Constitución y la anula. <!-- feedback: Correct. Aquí la rama judicial controla la legalidad de lo que hace la rama legislativa. -->
+- [ ] D) Los jueces le piden permiso al Presidente antes de dictar una sentencia importante. <!-- feedback: Incorrect. Los jueces deben ser independientes y no estar sometidos a la rama ejecutiva. -->
 
 ### Explicación Pedagógica
-El control que ejerce el Ministerio de Hacienda sobre los presupuestos municipales es un ejemplo de control fiscal, que busca garantizar el manejo adecuado de los recursos públicos. El control político es ejercido por los concejos sobre los alcalde, y el social es el ejercido por la comunidad.
+Este sistema garantiza que ninguna rama abuse de su autoridad, protegiendo la democracia y los derechos de los ciudadanos frente al poder del Estado.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Análisis del sistema judicial
-**Context:** Comprensión de la estructura de la rama judicial
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.50
 
 ### Enunciado
-La Jurisdicción Contencioso Administrativa en Colombia conoce de las controversias entre los particulares y la administración pública. Esta jurisdicción hace parte de:
+En Colombia, la rama ejecutiva no solo está conformada por el Presidente. ¿Qué otros funcionarios representan a esta rama en el nivel departamental y municipal?
 
 ### Options
-- [ ] A) La Fiscalía General de la Nación
-- [x] B) La Rama Judicial
-- [ ] C) La Rama Ejecutiva
-- [ ] D) La jurisdicción especial indígena
+- [ ] A) Los Magistrados y Jueces de paz. <!-- feedback: Incorrect. Estos pertenecen a la rama judicial. -->
+- [ ] B) Los Senadores y Representantes a la cámara. <!-- feedback: Incorrect. Estos pertenecen a la rama legislativa. -->
+- [x] C) Los Gobernadores y los Alcaldes. <!-- feedback: Correct. Son los jefes de la administración en sus respectivos territorios. -->
+- [ ] D) Los Procuradores y los Contralores regionales. <!-- feedback: Incorrect. Estos pertenecen a los organismos de control. -->
 
 ### Explicación Pedagógica
-La Jurisdicción Contencioso Administrativa es parte de la Rama Judicial según el Artículo 237 de la Constitución. Los estudiantes frecuentemente confunden con la Rama Ejecutiva porque involucra a entidades gubernamentales, pero el conocimiento y decisión judicial siempre corresponde a la Rama Judicial.
+La rama ejecutiva tiene una estructura piramidal y territorial que permite la prestación de servicios públicos desde la presidencia hasta la alcaldía más pequeña.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis de derechos fundamentales y sus limitaciones
-**Context:** Discusión sobre los límites de los derechos fundamentales en casos específicos
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.50
 
 ### Enunciado
-Un medio de comunicación deseja publicar información que podría afectar la vida privada de un personaje público. Según la Constitución Política, el derecho a la honra puede limitar:
+¿Cuál es la función de la "Defensoría del Pueblo" dentro del Ministerio Público?
 
 ### Options
-- [ ] A) Solamente el derecho a la privacidad de personas públicas
-- [ ] B) El derecho a la información solo en tiempos de guerra
-- [ ] C) El derecho a la libre expresión en determinadas circunstancias
-- [x] D) El derecho a la libre expresión cuando se demuestra daño grave a la honra
+- [ ] A) Perseguir a los criminales más peligrosos del país. <!-- feedback: Incorrect. Esa es función de la Policía y la Fiscalía. -->
+- [ ] B) Defender al Presidente ante los ataques de la prensa. <!-- feedback: Incorrect. El Presidente tiene sus propios abogados y oficina jurídica; la Defensoría defiende al pueblo. -->
+- [x] C) Promover, divulgar y proteger los derechos humanos de todos los habitantes. <!-- feedback: Correct. Atiende quejas sobre violaciones a los derechos y brinda asesoría legal. -->
+- [ ] D) Administrar las cárceles y centros de detención del país. <!-- feedback: Incorrect. Esa función corresponde al INPEC, bajo el Ministerio de Justicia. -->
 
 ### Explicación Pedagógica
-El Artículo 20 de la Constitución establece que la libre expresión tiene límites cuando afecta la honra de las personas. Sin embargo, los derechos fundamentales no se anulan entre sí, sino que se reconciled through proportionality. La honra no elimina la libre expresión pero la limita cuando hay daño grave demostrado.
+La Defensoría es la voz del ciudadano frente a los abusos del poder, asegurando que los derechos fundamentales no sean solo palabras en un papel.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Interpretación del Bloque de Constitucionalidad
-**Context:** Análisis de la aplicación de tratados internacionales en el ordenamiento colombiano
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.50
 
 ### Enunciado
-Colombia ratified the Convention on the Rights of the Child. Según la Constitución Política, los tratados internacionales ratificados por el Congreso relacionados con derechos humanos reciben:
+La Constitución de 1991 establece que Colombia es un Estado Pluralista. ¿Cómo se refleja este principio en la conformación del Congreso?
 
 ### Options
-- [ ] A) Jerarquía inferior a las leyes nacionales
-- [ ] B) Jerarquía superior a la Constitución
-- [x] C) Jerarquía constitucional al hacer parte del Bloque de Constitucionalidad
-- [ ] D) Jerarquía igual a las ordenanzas departamentales
+- [ ] A) Solo las personas que pertenecen a la religión oficial pueden ser elegidas. <!-- feedback: Incorrect. Colombia es laica y pluralista; no hay religión oficial para cargos públicos. -->
+- [ ] B) El Presidente elige a dedo a representantes de cada grupo social. <!-- feedback: Incorrect. Los representantes se eligen por voto popular, no por nombramiento presidencial. -->
+- [x] C) Existen circunscripciones especiales para asegurar la representación de comunidades indígenas y afrodescendientes. <!-- feedback: Correct. Esto garantiza que las minorías étnicas tengan voz y voto en la creación de las leyes. -->
+- [ ] D) Solo se permite la existencia de dos partidos políticos para evitar el caos. <!-- feedback: Incorrect. El pluralismo fomenta la existencia de múltiples partidos y movimientos políticos. -->
 
 ### Explicación Pedagógica
-Según el Artículo 93 de la Constitución, los tratados internacionales ratificados sobre derechos humanos tienen jerarquía constitucional y hacen parte del Bloque de Constitucionalidad. No son superiores a la Constitución pero tampoco son inferiores a las leyes. Son hierarchy superior a las leyes ordinarias.
+El pluralismo reconoce que Colombia es una nación diversa y que todos los sectores sociales deben tener la posibilidad de participar en la toma de decisiones.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Análisis del control político sobre el ejecutivo
-**Context:** Comprensión de los mecanismos de control del Congreso sobre el gobierno
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Congreso de la República puede citar a los ministros del despacho para débats sobre políticas públicas. Esta facultad se conoce como:
+¿Qué sucede si un proyecto de ley es aprobado por el Congreso pero el Presidente de la República lo considera inconveniente o inconstitucional?
 
 ### Options
-- [ ] A) Control fiscal
-- [ ] B) Juicio político
-- [x] C) Control político o citación
-- [ ] D) Control judicial
+- [ ] A) El Presidente lo quema y el proyecto desaparece. <!-- feedback: Incorrect. Existe un procedimiento legal de pesos y contrapesos, no una acción arbitraria. -->
+- [ ] B) El Presidente está obligado a firmarlo sin protestar. <!-- feedback: Incorrect. El Presidente tiene la facultad de "objeción". -->
+- [x] C) El Presidente lo "objeta" y lo devuelve al Congreso para su revisión. <!-- feedback: Correct. Si la objeción es por inconstitucionalidad, la Corte Constitucional debe decidir. -->
+- [ ] D) El proyecto se convierte en ley automáticamente sin la firma del Presidente. <!-- feedback: Incorrect. Toda ley requiere, por regla general, la sanción (firma) presidencial o un proceso tras la objeción. -->
 
 ### Explicación Pedagógica
-El control político es la facultad del Congreso de citar a los ministros para debatir políticas públicas. El juicio político es un proceso diferente para remover funcionarios. Los estudiantes confunden ambos mecanismos. El control fiscal lo ejerce la Contraloría y el judicial la Rama Judicial.
+Este proceso de objeción presidencial es otra herramienta de control mutuo entre las ramas ejecutiva y legislativa para asegurar la calidad y legalidad de las leyes.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Análisis del sistema electoral colombiano
-**Context:** Estudio de la organización y funciones del Consejo Nacional Electoral
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.45
 
 ### Enunciado
-El Consejo Nacional Electoral en Colombia tiene dentro de sus funciones la guarda del proceso electoral. Esta institución está integrada por:
+El "Estado de Excepción" es una medida que el Presidente puede tomar en situaciones extraordinarias (guerra exterior, conmoción interior o emergencia económica). ¿Cuál es una característica fundamental de estos estados en la Constitución de 1991?
 
 ### Options
-- [ ] A) Tres miembros elegidos por el Congreso a propuesta del Partido que tenga mayor representación
-- [x] B) Tres magistrados elegidos por el Consejo de Estado
-- [ ] C) Cinco magistrados elegidos por el Presidente de la República
-- [ ] D) Nueve miembros elegidos por suffrage universal
+- [ ] A) El Presidente adquiere poderes absolutos y puede eliminar la Constitución. <!-- feedback: Incorrect. La Constitución sigue vigente y limita los poderes del Presidente incluso en excepciones. -->
+- [ ] B) Se suspenden todos los derechos humanos y la policía puede actuar sin ley. <!-- feedback: Incorrect. Los derechos humanos son intangibles; el Presidente no puede suspender derechos fundamentales. -->
+- [x] C) Los decretos emitidos por el Presidente deben ser revisados automáticamente por la Corte Constitucional para evitar abusos. <!-- feedback: Correct. El control judicial permanece activo para proteger la democracia. -->
+- [ ] D) El Congreso se disuelve y deja de funcionar mientras dure la emergencia. <!-- feedback: Incorrect. El Congreso debe seguir funcionando y tiene poder de control político sobre las medidas del Presidente. -->
 
 ### Explicación Pedagógica
-Según el Artículo 264 de la Constitución, el CNE está integrado por tres magistrados elegidos por el Consejo de Estado de ternas enviadas por los partidos. Los estudiantes confunden con la composición del Consejo de Estado o piensan que el Presidente los elige.
+A diferencia de constituciones anteriores, la de 1991 puso límites estrictos a los estados de excepción para evitar que los presidentes gobernaran como dictadores temporales.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de procesos de reforma constitucional
-**Context:** Análisis de los mecanismos para modificar la Constitución
+**Bloom:** Understand
+**ICFES:** Pensamiento social
+**Expected_Success:** 0.45
 
 ### Enunciado
-Una reforma constitucional en Colombia puede proponerse por el Gobierno, por mínimo el veinte por ciento de los ciudadanos del censo electoral, o por la mitad más uno de los Concejos municipales. Esta última vía corresponde a la:
+¿Cuál es la función del "Consejo Nacional Electoral" (CNE) y la "Registraduría Nacional del Estado Civil" dentro de la organización electoral?
 
 ### Options
-- [ ] A) Iniciativa gubernamental
-- [ ] B) Iniciativa popular legislativa
-- [x] C) Iniciativa de las entidades territoriales
-- [ ] D) Iniciativa extraordinaria del Congreso
+- [ ] A) Gobernar los departamentos donde no hay alcaldes. <!-- feedback: Incorrect. Su función es puramente electoral y de identificación ciudadana. -->
+- [ ] B) Juzgar a los ciudadanos que no salen a votar. <!-- feedback: Incorrect. En Colombia el voto es un derecho, no una obligación legal que conlleve juicios penales por no ejercerlo. -->
+- [x] C) Organizar las elecciones, contar los votos y garantizar la transparencia del proceso democrático. <!-- feedback: Correct. La Registraduría además se encarga de la identificación (cédulas) de todos los colombianos. -->
+- [ ] D) Decidir quién será el ganador de las elecciones sin necesidad de contar los votos. <!-- feedback: Incorrect. Su labor es técnica y de vigilancia sobre el resultado real de las urnas. -->
 
 ### Explicación Pedagógica
-Según el Artículo 155 de la Constitución, la reforma puede proponerse por el Gobierno, por mínimo el veinte por ciento del censo electoral, o por la mitad más uno de los Concejos municipales. Esta última es la iniciativa de las entidades territoriales, diferente de la iniciativa popular que requiere firmas del veinte por ciento del censo.
+La organización electoral es independiente de las tres ramas del poder para evitar que el gobierno de turno manipule las elecciones a su favor.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Análisis de las funciones de la Corte Suprema de Justicia
-**Context:** Estudio del rol de la Corte Suprema como predictor del Estado
+**ICFES:** Interpretación y análisis de perspectivas
+**Expected_Success:** 0.40
 
 ### Enunciado
-La Corte Suprema de Justicia en su función de predictor del Estado tiene la potestad de juzgar a los altos funcionarios del Estado. Esta función se conoce como:
+La Constitución de 1991 eliminó el requisito de ser abogado para ser elegido como Congresista. ¿Cuál fue la intención democrática detrás de esta medida?
 
 ### Options
-- [ ] A) Control de tutela
-- [x] B) Juicio político o implicancia
-- [ ] C) Control abstracto
-- [ ] D) Acción de grupo
+- [ ] A) Desvalorizar la carrera de derecho en el país. <!-- feedback: Incorrect. No busca atacar una profesión, sino ampliar la representatividad. -->
+- [x] B) Permitir que líderes sociales, líderes indígenas, campesinos y ciudadanos de diversas profesiones puedan representar sus intereses en el Congreso. <!-- feedback: Correct. Busca que el Congreso refleje la diversidad de la sociedad colombiana y no sea solo un club de expertos legales. -->
+- [ ] C) Facilitar que el Presidente nombre a sus amigos como senadores. <!-- feedback: Incorrect. Los senadores son elegidos por el pueblo, no nombrados por el Presidente. -->
+- [ ] D) Lograr que las leyes sean más difíciles de entender para la gente común. <!-- feedback: Incorrect. La intención es que la creación de leyes sea un proceso participativo de diversos sectores sociales. -->
 
 ### Explicación Pedagógica
-La Corte Suprema actúa como predictor en el Artículo 175 de la Constitución, juzgando a los altos funcionarios del Estado. Esto se conoce como juicio político o implicancia. El control abstracto lo hace la Corte Constitucional, no la Suprema.
+La democracia representativa se fortalece cuando diferentes saberes y experiencias de vida (no solo los legales) participan en la discusión de los problemas nacionales.
 
 ---
 
-## Question 17 (Variant Mastery - Difficulty D9)
+## Question 17 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v17`
 **Bloom:** Evaluate
-**ICFES:** Evaluación del principio de separación de poderes
-**Context:** Análisis crítico de los checks and balances en el sistema político colombiano
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-El equilibrio entre las ramas del poder público en Colombia se logra mediante mutually reinforcing controls. El Presidente puede objetar por inconveniencia un proyecto de ley aprobado por el Congreso, pero si el Congreso insiste, la Corte Constitucional revisa su constitucionalidad. Este mecanismo busca:
+Considere la siguiente situación: El Congreso aprueba una ley que permite al Presidente elegir a los magistrados de la Corte Constitucional de forma directa, sin intervención de otras ramas. ¿Por qué esta ley sería declarada inconstitucional?
 
 ### Options
-- [ ] A) Eliminar la autoridad del Congreso frente al Presidente
-- [x] B) Garantizar que ninguna rama acumule demasiado poder
-- [ ] C) Acelerar el proceso legislativo
-- [ ] D) Transferir el poder legislativo al poder ejecutivo
+- [ ] A) Porque el Presidente ya tiene mucho trabajo y no le daría tiempo de elegir a tantos magistrados. <!-- feedback: Incorrect. El problema no es de tiempo o carga laboral, sino de estructura democrática. -->
+- [ ] B) Porque los magistrados deben ser elegidos solo por los ciudadanos mediante voto popular. <!-- feedback: Incorrect. Los magistrados en Colombia no se eligen por voto popular, sino por un sistema de ternas y elección en el Congreso. -->
+- [x] C) Porque rompe el equilibrio de poderes y la independencia judicial, dándole a la rama ejecutiva el control sobre quien debe juzgar sus propios actos. <!-- feedback: Correct. La autonomía judicial es un pilar fundamental del Estado de Derecho que no puede ser eliminado. -->
+- [ ] D) Porque solo el Papa puede elegir a los magistrados de las altas cortes. <!-- feedback: Incorrect. Colombia es un Estado laico y la Iglesia no interviene en el nombramiento de jueces. -->
 
 ### Explicación Pedagógica
-El sistema de checks and balances busca prevent any branch from accumulating too much power. Los estudiantes might think one branch is being stripped of power, but the goal is balance. The Congress can insist on its decision, showing it isn't being eliminated, but the Corte's review ensures constitutional boundaries are maintained.
+La independencia de las cortes es la última garantía del ciudadano frente al posible autoritarismo de un gobierno. Si el Presidente elige a sus propios jueces, ya no hay control real sobre el poder.
 
 ---
 
-## Question 18 (Variant Mastery - Difficulty D9)
+## Question 18 (Mastery - Difficulty D9)
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v18`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de derechos fundamentales en escenarios complejos
-**Context:** Análisis de dilemas constitucionales en casos reales
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.35
 
 ### Enunciado
-Un profesor de universidad es descubierto desarrollando actividades políticas dentro del aula, orientando a sus estudiantes hacia posiciones partidistas específicas. La Constitución protege la cátedra libre, pero también el derecho a la educación sin proselitismo. La tensión entre estos derechos se resuelve:
+¿Cuál es la importancia del "Control Político" que ejerce el Congreso sobre los Ministros del Despacho (citaciones a debates y moción de censura)?
 
 ### Options
-- [ ] A) Siempre a favor de la cátedra libre porque es derecho fundamental del profesor
-- [x] B) Evaluando proporcionalmente ambos derechos según las circunstancias específicas
-- [ ] C) Siempre a favor del derecho de los estudiantes a una educación neutral
-- [ ] D) Dependiendo de si la universidad es pública o privada
+- [ ] A) Permitir que los congresistas se vuelvan famosos apareciendo en televisión. <!-- feedback: Incorrect. Aunque los debates son públicos, su fin constitucional es la rendición de cuentas. -->
+- [ ] B) Lograr que el Presidente tenga que pedir permiso al Congreso para salir de vacaciones. <!-- feedback: Incorrect. No tiene que ver con la vida privada del Presidente, sino con la gestión pública de sus ministros. -->
+- [x] C) Asegurar que el Gobierno rinda cuentas sobre sus acciones y pueda ser sancionado políticamente (removiendo a un ministro) si su gestión es deficiente o ilegal. <!-- feedback: Correct. Es el control de la rama legislativa sobre la rama ejecutiva. -->
+- [ ] D) Obligar a los ministros a que le den dinero directamente a los congresistas para sus proyectos personales. <!-- feedback: Incorrect. Esto sería un acto de corrupción y no el fin legal del control político. -->
 
 ### Explicación Pedagógica
-Los derechos fundamentales no tienen jerarquía absoluta entre sí. Deben analizarse proporcionalmente según el contexto. La cátedra libre no implica可以进行政治宣传. El análisis proporcional es fundamental para resolver conflictos entre derechos en un Estado Social de Derecho.
+La moción de censura es una herramienta poderosa que permite al legislativo remover a un ministro cuando este no cumple con sus funciones o comete actos que afectan el interés nacional.
 
 ---
 
-## Question 19 (Variant Mastery - Difficulty D10)
+## Question 19 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v19`
-**Bloom:** Create
-**ICFES:** Análisis crítico de la aplicación del derecho internacional en el contexto colombiano
-**Context:** Análisis de la relación entre derecho internacional y derecho interno
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-Colombia ratifica un tratado internacional que establece estándares de protección de DD.HH. más amplios que los reconocidos en la Constitución. Según la teoría del monismo y el dualismo jurídico, y la práctica colombiana, este tratado:
+El "Bloque de Constitucionalidad" es un concepto jurídico que indica que ciertos tratados internacionales tienen la misma fuerza que la Constitución. ¿Cuál es el principal argumento para integrar tratados de derechos humanos a este bloque?
 
 ### Options
-- [ ] A) No se puede aplicar directamente porque la Constitución es jerárquicamente superior
-- [ ] B) Se aplica automáticamente reemplazando las normas constitucionales inferiores
-- [x] C) Se integra al ordenamiento jurídico colombiano con jerarquía constitucional
-- [ ] D) Requiere una ley de la República para su implementación obligatoria
+- [ ] A) Porque Colombia es un país pequeño que debe obedecer lo que digan los países grandes. <!-- feedback: Incorrect. No es un tema de sumisión política, sino de protección de la dignidad humana. -->
+- [ ] B) Para que los extranjeros puedan mandar en Colombia por encima de nuestras leyes. <!-- feedback: Incorrect. La soberanía se mantiene, pero se reconoce que hay derechos universales que están por encima de decisiones mayoritarias temporales. -->
+- [x] C) Para garantizar que los derechos fundamentales tengan una protección reforzada y sigan los estándares internacionales más altos de dignidad humana. <!-- feedback: Correct. Evita que una reforma interna pueda eliminar derechos ya reconocidos internacionalmente. -->
+- [ ] D) Porque la Constitución de 1991 se quedó corta y no tiene suficientes artículos. <!-- feedback: Incorrect. No es por falta de artículos, sino por la necesidad de armonizar la ley nacional con los avances del derecho internacional. -->
 
 ### Explicación Pedagógica
-Colombia sigue un sistema que integra el derecho internacional al derecho interno con jerarquía constitucional a través del Bloque de Constitucionalidad (Art. 93). Los estudiantes deben entender que no es monismo puro ni dualismo puro, sino una integración que respeta la supremacía de la Constitución pero elevada jerarquía a los tratados de derechos humanos.
+El Bloque de Constitucionalidad asegura que Colombia no sea una isla legal, permitiendo que las víctimas de violaciones a los derechos humanos puedan apelar a normas internacionales cuando la justicia interna falla.
 
 ---
 
-## Question 20 (Variant Mastery - Difficulty D10)
+## Question 20 (Mastery - Difficulty D10)
 
 **ID:** `CO-SOC-11-P2-constitucion-politica-095-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Evaluación crítica de mecanismos de participación democrática
-**Context:** Análisis de la efectividad de los mecanismos de participación ciudadana en Colombia
+**ICFES:** Pensamiento reflexivo y sistémico
+**Expected_Success:** 0.30
 
 ### Enunciado
-En los últimos años, varios proyectos de ley tramitados por iniciativa popular han sido archivados o modificados significativamente en el Congreso, a pesar de cumplir con los requisitos constitucionales. Esta situación sugiere que:
+Analice la siguiente paradoja: "En Colombia, la Constitución de 1991 es reconocida como una de las más progresistas del mundo en derechos, pero el país sigue teniendo altos niveles de violencia y exclusión". ¿Qué conclusión sobre la naturaleza del Estado se puede derivar de esto?
 
 ### Options
-- [ ] A) La iniciativa popular debe eliminarse del ordenamiento jurídico
-- [ ] B) Los ciudadanos no tienen真正 capacidad de proponer leyes
-- [x] C) Existen factores institucionales que dificultan la participación efectiva de los ciudadanos en la función legislativa
-- [ ] D) El Congreso debe rechazar todos los proyectos de iniciativa popular para proteger su autoridad
+- [ ] A) Que la Constitución no sirve para nada y debería ser quemada. <!-- feedback: Incorrect. La Constitución ha logrado avances enormes en protección de derechos individuales a través de la tutela. -->
+- [ ] B) Que los colombianos son personas violentas por naturaleza y ninguna ley los puede cambiar. <!-- feedback: Incorrect. Es una generalización que ignora los factores históricos y sociales del conflicto. -->
+- [x] C) Que existe una brecha significativa entre la "legalidad formal" (lo que dice la ley) y la "realidad material" (la capacidad del Estado para hacerla cumplir en todo el territorio). <!-- feedback: Correct. El reto de Colombia es la vigencia efectiva de la ley, no la falta de normas. -->
+- [ ] D) Que la solución es escribir una constitución todavía más larga y con más derechos. <!-- feedback: Incorrect. El problema no es el texto, sino la institucionalidad y la voluntad política para implementarlo. -->
 
 ### Explicación Pedagógica
-La Constitución consagra mecanismos de participación directa como la iniciativa popular, pero la práctica muestra que factores como la complejidad procedimental, falta de recursos, y resistencia institucional pueden dificultar su ejercicio efectivo. Los estudiantes deben identificar que el problema no es la norma sino su implementación, y que esto representa un desafío para el Estado Social de Derecho.
+Esta pregunta invita a reflexionar sobre la diferencia entre tener un derecho en el papel y poder ejercerlo realmente. La consolidación de la democracia depende de cerrar esa brecha mediante instituciones fuertes y una ciudadanía activa.
