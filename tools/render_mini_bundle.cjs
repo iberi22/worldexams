@@ -22,7 +22,12 @@ function render(spec) {
   out.push('---', '', `# ${spec.title}`, '', spec.summary, '', '---', '');
 
   spec.questions.forEach((question, index) => {
-    out.push(`## Question ${index + 1} (${question.level} - Difficulty ${question.difficulty})`);
+    let range = 'D3-D4';
+    if (question.difficulty >= 9) range = 'D9-D10';
+    else if (question.difficulty >= 7) range = 'D7-D8';
+    else if (question.difficulty >= 5) range = 'D5-D6';
+
+    out.push(`## Question ${index + 1} [${range}]`);
     out.push(`**ID:** \`${spec.frontmatter.id}-v${index + 1}\``);
     out.push(`**Bloom:** ${question.bloom}`);
     out.push(`**ICFES:** ${question.icfes}`);
