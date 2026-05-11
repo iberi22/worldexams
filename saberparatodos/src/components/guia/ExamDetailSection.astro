@@ -1,0 +1,45 @@
+---
+import type { CountryConfig } from '../../config';
+import type { ExamGuideContent } from '../../config/exam-guide-content';
+
+interface Props {
+  country: CountryConfig;
+  data: NonNullable<ExamGuideContent['detailSection']>;
+}
+
+const { country, data } = Astro.props;
+---
+
+<div class="space-y-8">
+  <section class="grid grid-cols-2 md:grid-cols-3 gap-4">
+    {data.stats.map((stat, index) => (
+      <article class="rounded-2xl border border-white/10 bg-white/[0.02] p-4" data-sr="fade-up" data-sr-delay={String(index * 80)}>
+        <p class:list={["text-3xl font-black", stat.color === 'emerald' ? 'text-emerald-400' : stat.color === 'blue' ? 'text-blue-400' : 'text-purple-400']}>{stat.value}</p>
+        <p class="mt-1 text-xs uppercase tracking-[0.22em] text-white/70">{stat.label}</p>
+      </article>
+    ))}
+  </section>
+
+  <section class="relative z-10 border-t border-white/5 bg-white/[0.01] px-4 py-10">
+    <div class="mx-auto max-w-4xl">
+      <div class="glass flex flex-col items-center rounded-3xl p-8" data-sr="zoom-in" data-sr-delay="100">
+        <div class="w-full max-w-lg space-y-6">
+          {data.stats.map(stat => (
+            <div>
+              <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
+                <span>{stat.label}</span>
+                <span class:list={["font-bold", stat.color === 'emerald' ? 'text-emerald-400' : stat.color === 'blue' ? 'text-blue-400' : 'text-purple-400']}>{stat.value}</span>
+              </div>
+              <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
+                <div class:list={["h-full rounded-full", stat.color === 'emerald' ? 'bg-gradient-to-r from-emerald-600 to-emerald-400' : stat.color === 'blue' ? 'bg-gradient-to-r from-blue-600 to-blue-400' : 'bg-gradient-to-r from-purple-600 to-purple-400']} style={`width: ${stat.value}`}></div>
+              </div>
+            </div>
+          ))}
+        </div>
+        <p class="mt-10 text-center text-xs uppercase tracking-widest text-white/40">
+          <strong class="text-white">{data.footer}</strong>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>

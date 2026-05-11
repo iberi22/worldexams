@@ -1,105 +1,65 @@
 ---
+import type { TipSectionData } from '../../config/exam-guide-content';
+
+interface Props {
+  data: TipSectionData;
+}
+
+const { data } = Astro.props;
+
 const tipIcons: Record<string, string> = {
   planifica: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <rect x="4" y="4" width="24" height="24" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
     <line x1="4" y1="10" x2="28" y2="10" stroke="currentColor" stroke-width="1.5"/>
-    <circle cx="10" cy="7" r="1" fill="#FCD116"/>
-    <circle cx="16" cy="7" r="1" fill="#003893"/>
-    <circle cx="22" cy="7" r="1" fill="#CE1126"/>
-    <path d="M20 16l3 3 5-5" stroke="#FCD116" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="10" cy="7" r="1" fill="var(--color-primary)"/>
+    <circle cx="16" cy="7" r="1" fill="var(--color-secondary)"/>
+    <circle cx="22" cy="7" r="1" fill="var(--color-accent)"/>
+    <path d="M20 16l3 3 5-5" stroke="var(--color-primary)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>`,
   simulacros: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <rect x="6" y="2" width="20" height="28" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
-    <circle cx="16" cy="8" r="3" stroke="#003893" stroke-width="1.5" fill="none"/>
+    <circle cx="16" cy="8" r="3" stroke="var(--color-secondary)" stroke-width="1.5" fill="none"/>
     <rect x="10" y="17" width="3" height="3" fill="currentColor" opacity="0.3"/>
-    <rect x="14" y="17" width="3" height="3" fill="#FCD116"/>
+    <rect x="14" y="17" width="3" height="3" fill="var(--color-primary)"/>
     <rect x="18" y="17" width="3" height="3" fill="currentColor" opacity="0.3"/>
     <rect x="10" y="22" width="3" height="3" fill="currentColor" opacity="0.3"/>
     <rect x="14" y="22" width="3" height="3" fill="currentColor" opacity="0.3"/>
-    <rect x="18" y="22" width="3" height="3" fill="#CE1126"/>
+    <rect x="18" y="22" width="3" height="3" fill="var(--color-accent)"/>
   </svg>`,
   lectura: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <path d="M4 6c4-2 8-2 12 0c4-2 8-2 12 0v20c-4-2-8-2-12 0c-4-2-8-2-12 0V6z" stroke="currentColor" stroke-width="1.5" fill="none"/>
     <line x1="16" y1="6" x2="16" y2="26" stroke="currentColor" stroke-width="1"/>
     <line x1="8" y1="10" x2="13" y2="10" stroke="currentColor" stroke-width="1" opacity="0.5"/>
-    <line x1="19" y1="10" x2="24" y2="10" stroke="#FCD116" stroke-width="1.5"/>
-    <line x1="19" y1="14" x2="23" y2="14" stroke="#003893" stroke-width="1.5"/>
-    <line x1="19" y1="18" x2="22" y2="18" stroke="#CE1126" stroke-width="1.5"/>
+    <line x1="19" y1="10" x2="24" y2="10" stroke="var(--color-primary)" stroke-width="1.5"/>
+    <line x1="19" y1="14" x2="23" y2="14" stroke="var(--color-secondary)" stroke-width="1.5"/>
+    <line x1="19" y1="18" x2="22" y2="18" stroke="var(--color-accent)" stroke-width="1.5"/>
   </svg>`,
   matematicas: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <rect x="4" y="4" width="24" height="24" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
-    <text x="8" y="14" fill="#FCD116" font-size="8" font-family="monospace" font-weight="bold">pi</text>
-    <text x="18" y="14" fill="#003893" font-size="8" font-family="monospace" font-weight="bold">sum</text>
-    <text x="8" y="26" fill="#CE1126" font-size="8" font-family="monospace" font-weight="bold">raiz</text>
+    <text x="8" y="14" fill="var(--color-primary)" font-size="8" font-family="monospace" font-weight="bold">pi</text>
+    <text x="18" y="14" fill="var(--color-secondary)" font-size="8" font-family="monospace" font-weight="bold">sum</text>
+    <text x="8" y="26" fill="var(--color-accent)" font-size="8" font-family="monospace" font-weight="bold">raiz</text>
     <text x="18" y="26" fill="currentColor" font-size="8" font-family="monospace">inf</text>
   </svg>`,
   bienestar: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <circle cx="16" cy="10" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/>
     <path d="M8 28c0-6 4-10 8-10s8 4 8 10" stroke="currentColor" stroke-width="1.5" fill="none"/>
-    <circle cx="13" cy="9" r="1" fill="#003893"/>
-    <circle cx="19" cy="9" r="1" fill="#003893"/>
-    <path d="M13 12c1 2 5 2 6 0" stroke="#FCD116" stroke-width="1" stroke-linecap="round"/>
+    <circle cx="13" cy="9" r="1" fill="var(--color-secondary)"/>
+    <circle cx="19" cy="9" r="1" fill="var(--color-secondary)"/>
+    <path d="M13 12c1 2 5 2 6 0" stroke="var(--color-primary)" stroke-width="1" stroke-linecap="round"/>
   </svg>`,
   examen: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
     <rect x="8" y="4" width="16" height="24" rx="1" stroke="currentColor" stroke-width="1.5" fill="none"/>
     <line x1="8" y1="10" x2="24" y2="10" stroke="currentColor" stroke-width="1"/>
-    <circle cx="16" cy="7" r="2" fill="#FCD116"/>
-    <path d="M18 21l2 2 4-4" stroke="#FCD116" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="7" r="2" fill="var(--color-primary)"/>
+    <path d="M18 21l2 2 4-4" stroke="var(--color-primary)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>`,
 };
-
-const tips = [
-  {
-    iconKey: 'planifica',
-    title: 'Define un plan realista',
-    description: 'Arma un cronograma de 8 a 12 semanas con bloques cortos y objetivos medibles.',
-    details: ['Estudia de 2 a 3 horas diarias', 'Alterna materias y evita saturarte', 'Cierra cada bloque con una meta concreta'],
-  },
-  {
-    iconKey: 'simulacros',
-    title: 'Practica con tiempo controlado',
-    description: 'Resuelve simulacros completos y revisa el tiempo por seccion para detectar cuellos de botella.',
-    details: ['Haz al menos un simulacro semanal', 'Corrige de inmediato los errores', 'Mide velocidad y precision por area'],
-  },
-  {
-    iconKey: 'lectura',
-    title: 'Lee todos los dias',
-    description: 'La lectura sostenida mejora comprension, inferencia y manejo de instrucciones largas.',
-    details: ['Reserva 20 a 30 minutos diarios', 'Combina noticias, ensayos y textos cortos', 'Resume cada lectura en una idea central'],
-  },
-  {
-    iconKey: 'matematicas',
-    title: 'Entrena con razonamiento',
-    description: 'No memorices procedimientos aislados. Resuelve problemas y explica por que una respuesta funciona.',
-    details: ['Practica algebra, geometria y estadistica', 'Escribe el procedimiento antes de responder', 'Revisa errores frecuentes y patrones'],
-  },
-  {
-    iconKey: 'bienestar',
-    title: 'Cuida energia y descanso',
-    description: 'Dormir y comer bien impacta memoria, atencion y toma de decisiones durante la prueba.',
-    details: ['Asegura 7 a 8 horas de sueno', 'Evita cambios bruscos el dia previo', 'Mantente hidratado y llega con margen'],
-  },
-  {
-    iconKey: 'examen',
-    title: 'Prepara el dia del examen',
-    description: 'Revisa citacion, documentos y elementos permitidos con anticipacion.',
-    details: ['Verifica sede, jornada y hora', 'Lleva documento y citacion', 'Revisa lo que si y no puedes ingresar'],
-  },
-];
-
-const examDayChecklist = [
-  'Documento de identidad vigente',
-  'Citacion consultada previamente',
-  'Ruta hacia la sede confirmada',
-  'Elementos permitidos verificados',
-  'Tiempo suficiente para llegar',
-  'Descanso adecuado la noche anterior',
-];
 ---
 
 <div class="space-y-8">
   <section class="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-    {tips.map((tip) => (
+    {data.tips.map((tip) => (
       <article class="group rounded-3xl border border-white/10 bg-[#1a1a1a] p-5 transition-all duration-300 hover:border-white/20">
         <div class="mb-4 flex items-start gap-3">
           <div class="flex-shrink-0 text-[#F5F5DC]" set:html={tipIcons[tip.iconKey]} />
@@ -111,7 +71,7 @@ const examDayChecklist = [
         <ul class="space-y-2 border-t border-white/10 pt-4 text-xs text-white/55">
           {tip.details.map((detail) => (
             <li class="flex items-center gap-2">
-              <span class="h-1.5 w-1.5 rounded-full bg-[#FCD116]"></span>
+              <span class="h-1.5 w-1.5 rounded-full bg-[var(--color-primary)]"></span>
               {detail}
             </li>
           ))}
@@ -123,12 +83,12 @@ const examDayChecklist = [
   <section class="grid gap-6 lg:grid-cols-[1fr_0.9fr]">
     <article class="rounded-3xl border border-[#F5F5DC]/20 bg-[#1a1a1a] p-6">
       <div class="mb-5 flex items-center gap-3">
-        <span class="text-xl font-black text-[#F5F5DC]">Checklist</span>
-        <span class="text-[11px] uppercase tracking-[0.24em] text-white/35">Dia del examen</span>
+        <span class="text-xl font-black text-[#F5F5DC]">{data.checklistTitle}</span>
+        <span class="text-[11px] uppercase tracking-[0.24em] text-white/35">{data.checklistSubtitle}</span>
       </div>
 
       <div class="grid gap-3 sm:grid-cols-2">
-        {examDayChecklist.map((item) => (
+        {data.checklistItems.map((item) => (
           <label class="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/[0.02] px-4 py-3 text-sm text-white/70">
             <input
               type="checkbox"
@@ -140,42 +100,30 @@ const examDayChecklist = [
       </div>
 
       <p class="mt-4 text-xs text-white/40">
-        La prioridad es simple: llegar con todo verificado y dejar cero decisiones logisticas para el ultimo momento.
+        {data.checklistFooter}
       </p>
     </article>
 
     <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6">
-      <h3 class="text-lg font-bold text-white">Estrategia de tiempo por sesion</h3>
+      <h3 class="text-lg font-bold text-white">{data.strategyTitle}</h3>
       <p class="mt-2 text-sm text-white/55">
-        Usa una primera pasada rapida para asegurar respuestas obvias y reserva el tramo final para revisar las mas dificiles.
+        {data.strategyDescription}
       </p>
 
       <div class="mt-5 space-y-3">
-        <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4">
-          <div class="flex items-center justify-between text-xs uppercase tracking-[0.22em] text-white/35">
-            <span>Revisar</span>
-            <span>10 min</span>
+        {data.strategySteps.map((step) => (
+          <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4">
+            <div class="flex items-center justify-between text-xs uppercase tracking-[0.22em] text-white/35">
+              <span>{step.label}</span>
+              <span>{step.duration}</span>
+            </div>
+            <p class="mt-2 text-sm text-white/60">{step.description}</p>
           </div>
-          <p class="mt-2 text-sm text-white/60">Lee todo rapido y marca las preguntas mas seguras.</p>
-        </div>
-        <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4">
-          <div class="flex items-center justify-between text-xs uppercase tracking-[0.22em] text-white/35">
-            <span>Resolver</span>
-            <span>Mayor parte del tiempo</span>
-          </div>
-          <p class="mt-2 text-sm text-white/60">Avanza por las preguntas de mayor confianza y evita atascarte.</p>
-        </div>
-        <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4">
-          <div class="flex items-center justify-between text-xs uppercase tracking-[0.22em] text-white/35">
-            <span>Revisar al final</span>
-            <span>Ultimos minutos</span>
-          </div>
-          <p class="mt-2 text-sm text-white/60">Retoma las dificiles solo si el tiempo restante lo permite.</p>
-        </div>
+        ))}
       </div>
 
       <p class="mt-4 text-xs text-white/40">
-        Tip: la estrategia sirve como apoyo de practica; para materiales, horarios y reglas de ingreso, siempre prevalece la citacion oficial.
+        {data.strategyFooter}
       </p>
     </article>
   </section>

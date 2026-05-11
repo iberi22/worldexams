@@ -1,29 +1,23 @@
 ---
-const stages = [
-  { grade: '3o', title: 'Saber 3', label: 'Diagnostico temprano', subjects: ['Matematicas', 'Lenguaje'] },
-  { grade: '5o', title: 'Saber 5', label: 'Cierre de primaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias Naturales'] },
-  { grade: '7o', title: 'Saber 7', label: 'Seguimiento intermedio', subjects: ['Matematicas', 'Lectura', 'Ciudadania'] },
-  { grade: '9o', title: 'Saber 9', label: 'Cierre de basica secundaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias'] },
-  { grade: '11o', title: 'Saber 11', label: 'Examen de Estado', subjects: ['Lectura Critica', 'Matematicas', 'Sociales', 'Ciencias', 'Ingles'] },
-];
+import type { InfographicData } from '../../config/exam-guide-content';
 
-const highlightFacts = [
-  '5 pruebas calificables',
-  '230 preguntas calificables',
-  '278 con cuestionario socioeconomico',
-  '2 sesiones de 4 horas y 30 minutos',
-];
+interface Props {
+  data: InfographicData;
+}
+
+const { data } = Astro.props;
+const { stages, highlightFacts, description, subtitle, title, highlightTitle, operationalTitle, operationalNotes } = data;
 ---
 
 <div class="space-y-12">
   <header class="flex flex-col items-center text-center">
-    <p class="mb-4 text-[11px] uppercase tracking-[0.4em] text-white/35">Sistema de evaluacion ICFES</p>
-    <h3 class="max-w-3xl text-3xl font-black text-white md:text-4xl">Mapa rapido de la trayectoria Saber</h3>
+    <p class="mb-4 text-[11px] uppercase tracking-[0.4em] text-white/35">{subtitle}</p>
+    <h3 class="max-w-3xl text-3xl font-black text-white md:text-4xl">{title}</h3>
     <p
       class="mt-6 text-sm leading-relaxed text-white/55"
       style="font-family: 'Inter', sans-serif; text-align: center; display: block; width: 100%; max-width: 500px; margin: 0 auto;"
     >
-      La guia publica una progresion clara: evaluaciones de seguimiento en basica y un examen de Estado en grado 11.
+      {description}
     </p>
   </header>
 
@@ -41,7 +35,7 @@ const highlightFacts = [
           ))}
         </ul>
         {index < stages.length - 1 && (
-          <div class="mx-auto mt-4 hidden h-px w-20 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] md:block"></div>
+          <div class="mx-auto mt-4 hidden h-px w-20 bg-gradient-to-r from-[var(--color-primary)] via-[var(--color-secondary)] to-[var(--color-accent)] md:block"></div>
         )}
       </article>
     ))}
@@ -49,7 +43,7 @@ const highlightFacts = [
 
   <section class="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:gap-12">
     <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6">
-      <h4 class="text-lg font-bold text-white">Lo mas importante de Saber 11</h4>
+      <h4 class="text-lg font-bold text-white">{highlightTitle}</h4>
       <div class="mt-4 grid gap-3 sm:grid-cols-2">
         {highlightFacts.map((fact) => (
           <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4 text-sm text-white/65">{fact}</div>
@@ -58,11 +52,11 @@ const highlightFacts = [
     </article>
 
     <article class="rounded-3xl border border-white/10 bg-white/[0.02] p-6">
-      <h4 class="text-lg font-bold text-white">Lectura operativa</h4>
+      <h4 class="text-lg font-bold text-white">{operationalTitle}</h4>
       <ul class="mt-4 space-y-3 text-sm leading-relaxed text-white/60">
-        <li>La pagina es una referencia visual, no reemplaza la citacion ni el calendario oficial.</li>
-        <li>Si una convocatoria cambia, los datos de ICFES deben prevalecer sobre cualquier tarjeta interna.</li>
-        <li>La composicion del examen 11 se mantiene centrada en cinco pruebas y un cuestionario adicional.</li>
+        {operationalNotes.map((note) => (
+          <li>{note}</li>
+        ))}
       </ul>
     </article>
   </section>

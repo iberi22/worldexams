@@ -7,23 +7,24 @@ import { getTenantRouteAvailability } from '../config/tenant-experience';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
 const availability = getTenantRouteAvailability(country, 'normasMen');
+const isEnabled = availability.state !== 'disabled';
 ---
 
 <Layout
-  title={`Lineamientos oficiales | ${country.product.siteName}`}
-  description={`Base normativa visible para el tenant ${country.name}.`}
+  title={`${availability.title} | ${country.product.siteName}`}
+  description={availability.description}
 >
   <div class="min-h-screen bg-[#121212] pt-32 pb-24 px-4 overflow-hidden relative">
     <div class="absolute top-[10%] -left-[10%] w-[500px] h-[500px] bg-blue-500/5 rounded-full blur-[120px]"></div>
     <div class="absolute bottom-[10%] -right-[10%] w-[500px] h-[500px] bg-emerald-500/5 rounded-full blur-[120px]"></div>
 
     <div class="max-w-4xl mx-auto relative z-10">
-      {country.code === 'CO' ? (
+      {isEnabled ? (
         <>
           <nav class="mb-12 flex items-center justify-center gap-4 text-[10px] font-black uppercase tracking-[0.2em] font-mono">
             <a href="/" class="text-white/20 hover:text-emerald-400 transition-colors">Inicio</a>
             <span class="text-white/10">/</span>
-            <span class="text-white/60">Normas MEN 2026</span>
+            <span class="text-white/60">{availability.title}</span>
           </nav>
 
           <div class="bg-[#1a1a1a]/40 border border-white/5 backdrop-blur-sm rounded-[3rem] p-8 md:p-16 shadow-2xl">
