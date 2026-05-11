@@ -22,7 +22,7 @@ if (country.code === 'CO') {
       const data = await response.json();
       stats.totalParticipants = data.totalParticipants || 0;
       stats.averageScore = data.metadata?.averageScore || 0;
-      stats.lastUpdated = data.lastUpdated ? new Date(data.lastUpdated).toLocaleDateString('es-CO', {
+      stats.lastUpdated = data.lastUpdated ? new Date(data.lastUpdated).toLocaleDateString(country.locale, {
         day: 'numeric',
         month: 'short',
         hour: '2-digit',
@@ -47,17 +47,17 @@ if (country.code === 'CO') {
             <a href="/" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
               ← Volver al inicio
             </a>
-            <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Ranking Colombia</h1>
+            <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Ranking {country.name}</h1>
             <p class="text-white/60 mt-2 text-sm">
-              Los mejores estudiantes practicando para rutas activas de Saber.
+              Los mejores estudiantes practicando para rutas activas de {country.examName}.
             </p>
 
             <div class="mt-4 flex flex-wrap gap-4 text-xs">
               <span class="px-3 py-1 bg-emerald-500/10 border border-emerald-500/30 rounded-full text-emerald-400">
-                {stats.totalParticipants} participantes
+                {stats.totalParticipants.toLocaleString(country.locale)} participantes
               </span>
               <span class="px-3 py-1 bg-blue-500/10 border border-blue-500/30 rounded-full text-blue-400">
-                Promedio: {stats.averageScore.toLocaleString('es-CO')} pts
+                Promedio: {stats.averageScore.toLocaleString(country.locale, { maximumFractionDigits: 1 })} pts
               </span>
               {stats.lastUpdated && (
                 <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-white/50">
@@ -81,7 +81,7 @@ if (country.code === 'CO') {
 
         <div class="max-w-4xl mx-auto px-4 pb-8">
           <div class="p-4 bg-white/5 border border-white/10 rounded-xl text-center">
-            <p class="text-xs text-white/50 mb-2">Ranking disponible solo para el tenant CO mientras se validan datasets locales equivalentes.</p>
+            <p class="text-xs text-white/50 mb-2">Ranking disponible solo para el tenant {country.code} mientras se validan datasets locales equivalentes.</p>
           </div>
         </div>
 

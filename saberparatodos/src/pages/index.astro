@@ -28,7 +28,7 @@ const tenantExperience = getTenantExperience(runtimeCountry);
 
       <div class="w-full max-w-4xl mx-auto flex flex-col items-center text-center mt-0 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest">
-          {runtimeCountry.examAuthority} 2026 • {tenantExperience.freeAccessLabel.toLowerCase()}
+          {runtimeCountry.examAuthority} {runtimeCountry.product.guideYear} • {tenantExperience.freeAccessLabel.toLowerCase()}
         </div>
 
         <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md text-center w-full">

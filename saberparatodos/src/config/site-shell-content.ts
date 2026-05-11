@@ -190,6 +190,14 @@ function buildDefaultContent(countryConfig: RuntimeCountryConfig): SiteShellCont
 const localizedContent: Partial<Record<RuntimeCountryConfig['code'], SiteShellContentOverride>> = {
   CO: {
     footerDescription: 'Plataforma abierta de practica para las pruebas Saber en Colombia. El runtime compartido mantiene shell comun y localiza contenido, SEO y guias por tenant.',
+    about: {
+      stats: [
+        { value: '24/7', label: 'Practica disponible' },
+        { value: '1', label: 'Runtime compartido' },
+        { value: '580+', label: 'Bundles curados' },
+        { value: 'OSS', label: 'Operacion abierta' },
+      ],
+    },
     footerDisclaimer: 'No afiliado oficialmente con el ICFES. Contenido educativo basado en informacion publica y curaduria editorial interna.',
     preparacion: {
       heroIntro: 'Desde la inscripcion oficial hasta tu primera sesion de simulacro para ICFES Saber.',
