@@ -1,10 +1,13 @@
 ---
+import { resolveRuntimeCountryConfig } from '../../config';
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+
 const stages = [
-  { grade: '3o', title: 'Saber 3', label: 'Diagnostico temprano', subjects: ['Matematicas', 'Lenguaje'] },
-  { grade: '5o', title: 'Saber 5', label: 'Cierre de primaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias Naturales'] },
-  { grade: '7o', title: 'Saber 7', label: 'Seguimiento intermedio', subjects: ['Matematicas', 'Lectura', 'Ciudadania'] },
-  { grade: '9o', title: 'Saber 9', label: 'Cierre de basica secundaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias'] },
-  { grade: '11o', title: 'Saber 11', label: 'Examen de Estado', subjects: ['Lectura Critica', 'Matematicas', 'Sociales', 'Ciencias', 'Ingles'] },
+  { grade: '3o', title: `${country.examName} 3`, label: 'Diagnostico temprano', subjects: ['Matematicas', 'Lenguaje'] },
+  { grade: '5o', title: `${country.examName} 5`, label: 'Cierre de primaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias Naturales'] },
+  { grade: '7o', title: `${country.examName} 7`, label: 'Seguimiento intermedio', subjects: ['Matematicas', 'Lectura', 'Ciudadania'] },
+  { grade: '9o', title: `${country.examName} 9`, label: 'Cierre de basica secundaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias'] },
+  { grade: '11o', title: `${country.examName} 11`, label: 'Examen de Estado', subjects: ['Lectura Critica', 'Matematicas', 'Sociales', 'Ciencias', 'Ingles'] },
 ];
 
 const highlightFacts = [
@@ -17,8 +20,8 @@ const highlightFacts = [
 
 <div class="space-y-12">
   <header class="flex flex-col items-center text-center">
-    <p class="mb-4 text-[11px] uppercase tracking-[0.4em] text-white/35">Sistema de evaluacion ICFES</p>
-    <h3 class="max-w-3xl text-3xl font-black text-white md:text-4xl">Mapa rapido de la trayectoria Saber</h3>
+    <p class="mb-4 text-[11px] uppercase tracking-[0.4em] text-white/35">Sistema de evaluacion {country.examAuthority}</p>
+    <h3 class="max-w-3xl text-3xl font-black text-white md:text-4xl">Mapa rapido de la trayectoria {country.examName}</h3>
     <p
       class="mt-6 text-sm leading-relaxed text-white/55"
       style="font-family: 'Inter', sans-serif; text-align: center; display: block; width: 100%; max-width: 500px; margin: 0 auto;"
@@ -49,7 +52,7 @@ const highlightFacts = [
 
   <section class="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:gap-12">
     <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6">
-      <h4 class="text-lg font-bold text-white">Lo mas importante de Saber 11</h4>
+      <h4 class="text-lg font-bold text-white">Lo mas importante de {country.examName} 11</h4>
       <div class="mt-4 grid gap-3 sm:grid-cols-2">
         {highlightFacts.map((fact) => (
           <div class="rounded-2xl border border-white/10 bg-white/[0.02] p-4 text-sm text-white/65">{fact}</div>
@@ -61,7 +64,7 @@ const highlightFacts = [
       <h4 class="text-lg font-bold text-white">Lectura operativa</h4>
       <ul class="mt-4 space-y-3 text-sm leading-relaxed text-white/60">
         <li>La pagina es una referencia visual, no reemplaza la citacion ni el calendario oficial.</li>
-        <li>Si una convocatoria cambia, los datos de ICFES deben prevalecer sobre cualquier tarjeta interna.</li>
+        <li>Si una convocatoria cambia, los datos de {country.examAuthority} deben prevalecer sobre cualquier tarjeta interna.</li>
         <li>La composicion del examen 11 se mantiene centrada en cinco pruebas y un cuestionario adicional.</li>
       </ul>
     </article>

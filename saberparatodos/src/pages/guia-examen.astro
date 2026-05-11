@@ -80,7 +80,7 @@ const schema = {
       <>
         <section class="relative z-10 px-4 py-16" data-sr="fade-up">
           <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold">Como se organiza la evaluacion en Colombia</h2>
+            <h2 class="mb-12 text-center text-3xl font-bold">{guideContent.organizationTitle}</h2>
             <div class="glass rounded-3xl p-8 md:p-16">
               <ExamInfographic />
             </div>
@@ -89,52 +89,14 @@ const schema = {
 
         <section class="relative z-10 border-t border-white/5 px-4 py-20">
           <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Que evalua el sistema por grado</h2>
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.gradesTitle}</h2>
             <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-              <GradeCard
-                grade="3o"
-                title="Saber 3"
-                description="Seguimiento temprano de aprendizajes base en primaria."
-                subjects={['Matematicas', 'Lenguaje']}
-                duration="Convocatoria oficial"
-                questions="80 a 100 reactivos aproximados"
-              />
-              <GradeCard
-                grade="5o"
-                title="Saber 5"
-                description="Control de competencias basicas al cierre de primaria."
-                subjects={['Matematicas', 'Lenguaje', 'Ciencias Naturales']}
-                duration="Sesion unica"
-                questions="Segun convocatoria"
-              />
-              <GradeCard
-                grade="7o"
-                title="Saber 7"
-                description="Punto de control intermedio para secundaria."
-                subjects={['Matematicas', 'Lectura Critica', 'Habilidades Ciudadanas']}
-                duration="Jornada oficial"
-                questions="Estructura variable"
-              />
-              <GradeCard
-                grade="9o"
-                title="Saber 9"
-                description="Evaluacion de cierre de basica secundaria."
-                subjects={['Matematicas', 'Lenguaje', 'Ciencias', 'Habilidades Ciudadanas']}
-                duration="Convocatoria ICFES"
-                questions="Consulta oficial vigente"
-              />
-              <GradeCard
-                grade="11o"
-                title="Saber 11"
-                description="Examen de Estado para estudiantes de grado 11 y poblacion habilitada."
-                subjects={['Lectura Critica', 'Matematicas', 'Sociales y Ciudadanas', 'Ciencias Naturales', 'Ingles']}
-                duration="9 horas en dos sesiones"
-                questions="230 calificables / 278 con cuestionario"
-                highlight={true}
-              />
+              {guideContent.grades?.map((grade) => (
+                <GradeCard {...grade} />
+              ))}
               {country.features.preuniversitario && (
                 <a
-                  href="/?subject=Preuniversitario&grade=11"
+                  href={`/?subject=Preuniversitario&grade=${country.grades[country.grades.length-1].id}`}
                   class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]"
                 >
                   <GradeCard
