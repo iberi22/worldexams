@@ -1,58 +1,25 @@
 ---
-import { resolveRuntimeCountryConfig } from '../../config';
-const country = resolveRuntimeCountryConfig(Astro.locals.country);
+import type { CompetencyData } from '../../config/exam-guide-content';
 
-const areas = [
-  {
-    title: 'Matematicas',
-    description:
-      'Evalua interpretacion y representacion, formulacion y ejecucion, y argumentacion a partir de situaciones autenticas.',
-    meta: 'Referencia oficial: tres competencias distribuidas por la guia vigente.',
-  },
-  {
-    title: 'Lectura critica',
-    description:
-      'Evalua identificar informacion, comprender relaciones dentro del texto y reflexionar sobre forma y contenido.',
-    meta: 'El foco esta en comprension e interpretacion, no en opiniones libres.',
-  },
-  {
-    title: 'Sociales y ciudadanas',
-    description:
-      'Evalua pensamiento social, analisis de perspectivas y razonamiento sobre problemas publicos y contexto historico.',
-    meta: 'Las preguntas piden lectura de contexto y uso de informacion.',
-  },
-  {
-    title: 'Ciencias naturales',
-    description:
-      'Evalua explicacion de fenomenos, uso comprensivo del conocimiento cientifico e indagacion.',
-    meta: 'La guia oficial prioriza explicacion y aplicacion de conceptos.',
-  },
-  {
-    title: 'Ingles',
-    description:
-      'Evalua comprension lectora y uso del idioma en contexto con niveles de desempeno reportados en el informe.',
-    meta: 'El resultado se interpreta por niveles, no por una sola escala global.',
-  },
-];
+interface Props {
+  data: CompetencyData;
+  badgeLabel?: string;
+}
 
-const resultNotes = [
-  'El puntaje global, los percentiles y los niveles por prueba aparecen en el reporte individual.',
-  'El examen reporta desempenos por componente; conviene revisar la lectura de cada area por separado.',
-  `Cuando una convocatoria cambia, la guia oficial del ${country.examAuthority} prevalece sobre cualquier resumen interno.`,
-];
+const { data, badgeLabel = 'Referencia oficial' } = Astro.props;
 ---
 
 <div class="space-y-8">
   <section class="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-    {areas.map((area, index) => (
+    {data.areas.map((area, index) => (
       <article class="relative overflow-hidden rounded-3xl border border-white/10 bg-[#1a1a1a] p-6 shadow-lg shadow-black/10" data-sr="fade-up" data-sr-delay={String(index * 80)}>
         <div class="mb-4 flex items-center justify-between">
-          <span class="text-[10px] uppercase tracking-[0.28em] text-[#FCD116]">{country.examAuthority} {country.examName} 11</span>
+          <span class="text-[10px] uppercase tracking-[0.28em] text-[var(--color-primary)]">{badgeLabel}</span>
           <span class="rounded-full border border-white/10 bg-white/[0.04] px-2 py-1 text-[10px] uppercase tracking-[0.2em] text-white/45">
             Area {index + 1}
           </span>
         </div>
-        <h3 class="border-l-2 border-[#003893] pl-3 text-lg font-bold text-white">{area.title}</h3>
+        <h3 class="border-l-2 border-[var(--color-secondary)] pl-3 text-lg font-bold text-white">{area.title}</h3>
         <p class="mt-3 text-sm leading-relaxed text-white/60">{area.description}</p>
         <p class="mt-4 text-xs leading-relaxed text-white/40">{area.meta}</p>
       </article>
@@ -60,9 +27,9 @@ const resultNotes = [
   </section>
 
   <section class="rounded-3xl border border-white/10 bg-white/[0.02] p-6">
-    <h3 class="text-center text-lg font-bold text-white">Como reporta resultados el {country.examAuthority}</h3>
+    <h3 class="text-center text-lg font-bold text-white">{data.reportingTitle}</h3>
     <div class="mt-5 grid gap-4 md:grid-cols-3">
-      {resultNotes.map((note) => (
+      {data.resultNotes.map((note) => (
         <div class="rounded-2xl border border-white/10 bg-[#1a1a1a] p-4 text-sm leading-relaxed text-white/60">
           {note}
         </div>

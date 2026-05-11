@@ -34,7 +34,7 @@ const { grade, title, description, subjects, duration, questions, highlight = fa
     >
       {grade}
       {highlight && (
-        <span class="absolute -right-1 -top-1 flex h-4 w-4 items-center justify-center rounded-full bg-[#FCD116]">
+        <span class="absolute -right-1 -top-1 flex h-4 w-4 items-center justify-center rounded-full bg-[var(--color-primary)]">
           <svg class="h-2.5 w-2.5 text-[#121212]" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
             <path
               fill-rule="evenodd"
@@ -100,7 +100,7 @@ const { grade, title, description, subjects, duration, questions, highlight = fa
     left: 0;
     right: 0;
     height: 3px;
-    background: linear-gradient(90deg, #FCD116, #003893, #CE1126);
+    background: linear-gradient(90deg, var(--color-primary), var(--color-secondary), var(--color-accent));
     transform: scaleX(0);
     transition: transform 0.3s ease;
   }
