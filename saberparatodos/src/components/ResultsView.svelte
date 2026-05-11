@@ -648,29 +648,35 @@
                 </div>
               {/if}
 
-              {#if videoMeta.availability === 'available'}
-                {@const embedUrl = getYouTubeEmbedUrl(videoMeta.entry)}
-                {#if embedUrl}
-                  <div class="pt-4 border-t border-white/5 space-y-2">
-                    <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-50">Explicación en video</span>
-                    <div class="relative w-full aspect-video rounded-lg overflow-hidden border border-white/10 bg-black">
-                      <iframe
-                        src={embedUrl}
-                        class="absolute inset-0 w-full h-full"
-                        title={`Explicación ${q.id}`}
-                        loading="lazy"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
-                      ></iframe>
+              {#if runtimeCountry.features?.mathVideos}
+                {#if videoMeta.availability === 'available'}
+                  {@const embedUrl = getYouTubeEmbedUrl(videoMeta.entry)}
+                  {#if embedUrl}
+                    <div class="pt-4 border-t border-white/5 space-y-2">
+                      <div class="flex items-center gap-2 mb-1">
+                        <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-50">Explicación paso a paso</span>
+                        <span class="px-1.5 py-0.5 rounded bg-emerald-500/10 border border-emerald-500/20 text-[9px] text-emerald-400 font-bold uppercase tracking-tighter">Video</span>
+                      </div>
+                      <div class="relative w-full aspect-video rounded-lg overflow-hidden border border-white/10 bg-black group shadow-lg">
+                        <iframe
+                          src={embedUrl}
+                          class="absolute inset-0 w-full h-full"
+                          title={`Explicación ${q.id}`}
+                          loading="lazy"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowfullscreen
+                        ></iframe>
+                      </div>
+                    </div>
+                  {/if}
+                {:else if videoMeta.availability === 'pending'}
+                  <div class="pt-4 border-t border-white/5">
+                    <div class="p-3 rounded-lg border border-amber-500/25 bg-amber-500/10 text-amber-200 text-[10px] sm:text-xs flex items-center gap-2">
+                      <div class="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></div>
+                      Video en generación para esta pregunta.
                     </div>
                   </div>
                 {/if}
-              {:else if videoMeta.availability === 'pending'}
-                <div class="pt-4 border-t border-white/5">
-                  <div class="p-3 rounded-lg border border-amber-500/25 bg-amber-500/10 text-amber-200 text-xs sm:text-sm">
-                    Video en generación para esta pregunta.
-                  </div>
-                </div>
               {/if}
 
                <!-- Feedback & Voting -->
