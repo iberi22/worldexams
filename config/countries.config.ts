@@ -66,6 +66,7 @@ export interface ProductFeatures {
   preuniversitario?: boolean;
   developerPortal?: boolean;
   comments?: boolean;
+  mathVideos?: boolean;
 }
 
 export interface GiscusConfig {
@@ -207,6 +208,7 @@ export const colombiaConfig: CountryConfig = {
       preuniversitario: true,
       developerPortal: true,
       comments: true,
+      mathVideos: true,
     },
     giscus: {
       repo: 'worldexams/worldexams',
