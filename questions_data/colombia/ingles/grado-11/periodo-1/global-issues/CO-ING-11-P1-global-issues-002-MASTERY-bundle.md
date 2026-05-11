@@ -8,6 +8,7 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 2
 bundle_size: 20
+bundle_status: "UNREVISED"
 alignment: "ICFES Saber 11 + MEN"
 target_cefr: "B1-B2"
 modern_context: true
@@ -25,7 +26,7 @@ This bundle develops Saber 11 style reading, vocabulary, grammar, and pragmatic 
 
 ---
 
-## Question 1 (Basic - Difficulty 3)
+## Question 1 [D3-D4]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Grammar
@@ -45,7 +46,7 @@ The sentence needs a simple base form that fits a general statement.
 
 ---
 
-## Question 2 (Basic - Difficulty 3)
+## Question 2 [D3-D4]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Vocabulary in Context
@@ -65,7 +66,7 @@ Vocabulary in context must match the way the term is used in public debates.
 
 ---
 
-## Question 3 (Basic - Difficulty 4)
+## Question 3 [D3-D4]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v3`
 **Bloom:** Understand
 **ICFES:** Pragmatics
@@ -85,11 +86,11 @@ Pragmatic items require the reader to infer the most plausible setting.
 
 ---
 
-## Question 4 (Intermediate - Difficulty 5)
+## Question 4 [D3-D4]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Reading
-**Expected_Success:** 0.60
+**Expected_Success:** 0.63
 
 ### Contexto
 A community garden project in a Colombian city helps families access fresh food and also creates spaces where neighbors meet, plan activities, and share responsibilities. Supporters argue that the project improves both nutrition and trust among residents.
@@ -108,7 +109,7 @@ The best answer integrates the two benefits that structure the passage.
 
 ---
 
-## Question 5 (Intermediate - Difficulty 5)
+## Question 5 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Grammar
@@ -128,7 +129,7 @@ This is a standard first conditional sentence about a realistic future result.
 
 ---
 
-## Question 6 (Intermediate - Difficulty 6)
+## Question 6 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Reading
@@ -151,7 +152,7 @@ The central concern is the imbalance between misinformation and verified communi
 
 ---
 
-## Question 7 (Intermediate - Difficulty 6)
+## Question 7 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Use of Language
@@ -171,7 +172,7 @@ The relation between the two clauses is contrast, so a contrastive connector is 
 
 ---
 
-## Question 8 (Intermediate - Difficulty 6)
+## Question 8 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Vocabulary in Context
@@ -191,11 +192,11 @@ Equity refers to fairness that accounts for unequal starting conditions.
 
 ---
 
-## Question 9 (Advanced - Difficulty 7)
+## Question 9 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Reading
-**Expected_Success:** 0.44
+**Expected_Success:** 0.47
 
 ### Contexto
 A local report on air quality compared pollution levels near schools before and after traffic restrictions. The data showed lower emissions during school hours, which supporters used to defend the measure.
@@ -214,11 +215,11 @@ Local evidence makes the argument more specific, relevant, and testable.
 
 ---
 
-## Question 10 (Advanced - Difficulty 7)
+## Question 10 [D5-D6]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Grammar
-**Expected_Success:** 0.41
+**Expected_Success:** 0.45
 
 ### Enunciado
 Choose the most accurate sentence.
@@ -234,7 +235,7 @@ Formal written English requires correct agreement and verb structure.
 
 ---
 
-## Question 11 (Advanced - Difficulty 7)
+## Question 11 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Reading
@@ -254,7 +255,7 @@ The strongest answer captures the shared logic across the passages.
 
 ---
 
-## Question 12 (Advanced - Difficulty 8)
+## Question 12 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Pragmatics
@@ -274,7 +275,7 @@ Register questions test whether language fits the situation and audience.
 
 ---
 
-## Question 13 (Advanced - Difficulty 8)
+## Question 13 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v13`
 **Bloom:** Evaluate
 **ICFES:** Use of Language
@@ -294,7 +295,7 @@ The connector must show causal progression from one stage to the next.
 
 ---
 
-## Question 14 (Advanced - Difficulty 8)
+## Question 14 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Reading
@@ -314,11 +315,11 @@ The text questions the idea that visibility or repetition guarantees truth.
 
 ---
 
-## Question 15 (Mastery - Difficulty 9)
+## Question 15 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v15`
-**Bloom:** Create
+**Bloom:** Evaluate
 **ICFES:** Reading
-**Expected_Success:** 0.27
+**Expected_Success:** 0.34
 
 ### Enunciado
 Which conclusion best integrates the three passages?
@@ -334,11 +335,11 @@ A strong synthesis preserves the main contribution of each passage.
 
 ---
 
-## Question 16 (Mastery - Difficulty 9)
+## Question 16 [D7-D8]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v16`
-**Bloom:** Create
+**Bloom:** Analyze
 **ICFES:** Vocabulary in Context
-**Expected_Success:** 0.25
+**Expected_Success:** 0.36
 
 ### Enunciado
 In policy discussions, the adjective "inclusive" most nearly means
@@ -354,7 +355,7 @@ The meaning must fit civic and social participation contexts.
 
 ---
 
-## Question 17 (Mastery - Difficulty 10)
+## Question 17 [D9-D10]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v17`
 **Bloom:** Create
 **ICFES:** Use of Language
@@ -374,7 +375,7 @@ A strong concluding sentence restates the claim with precision and purpose.
 
 ---
 
-## Question 18 (Mastery - Difficulty 10)
+## Question 18 [D9-D10]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v18`
 **Bloom:** Create
 **ICFES:** Reading
@@ -394,7 +395,7 @@ Critical reading evaluates how claims are justified, not just whether they agree
 
 ---
 
-## Question 19 (Mastery - Difficulty 9)
+## Question 19 [D9-D10]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v19`
 **Bloom:** Create
 **ICFES:** Reading
@@ -414,7 +415,7 @@ A rigorous evaluation combines content, support, and communicative purpose.
 
 ---
 
-## Question 20 (Mastery - Difficulty 9)
+## Question 20 [D9-D10]
 **ID:** `CO-ING-11-P1-global-issues-002-MASTERY-v20`
 **Bloom:** Create
 **ICFES:** Use of Language
