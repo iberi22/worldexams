@@ -65,9 +65,14 @@ async function fetchUpstreamJson(url: URL, headers: Headers): Promise<Response> 
   });
 }
 
-async function fetchSameOriginPackJson(requestUrl: URL, grade: number, subject: string): Promise<Response | null> {
+async function fetchSameOriginPackJson(requestUrl: URL, grade: number, subject: string, country?: string): Promise<Response | null> {
   const subjectKey = normalizeSubjectKey(subject || 'matematicas');
+  const countryPrefix = country ? `${country.toLowerCase()}-` : '';
+
   const candidates = [
+    `/api/packs/${countryPrefix}week-${getCurrentWeek()}-grade-${grade}-subject-${subjectKey}.json`,
+    `/api/packs/${countryPrefix}week-1-grade-${grade}-subject-${subjectKey}.json`,
+    // Fallback to legacy non-prefixed paths (usually Colombia)
     `/api/packs/week-${getCurrentWeek()}-grade-${grade}-subject-${subjectKey}.json`,
     `/api/packs/week-1-grade-${grade}-subject-${subjectKey}.json`,
   ];
@@ -210,7 +215,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
       }, firstResponse || undefined);
     }
 
-    const packResponse = await fetchSameOriginPackJson(requestUrl, grade, requestedSubject);
+    const packResponse = await fetchSameOriginPackJson(requestUrl, grade, requestedSubject, defaultCountry);
     if (packResponse?.ok) {
       const packPayload = await packResponse.json();
       const packQuestions = Array.isArray(packPayload?.questions) ? packPayload.questions : [];
