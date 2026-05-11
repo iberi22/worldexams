@@ -1,8 +1,14 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { resolveRuntimeCountryConfig } from '../../config';
+import { getTenantExperience } from '../../config/tenant-experience';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const experience = getTenantExperience(country);
+const { scoreSemantics } = experience;
 ---
 
-<Layout title="Sistema de Inteligencia Local | World Exams">
+<Layout title={`Sistema de Inteligencia Local | ${country.product.siteName}`}>
   <div class="container mx-auto px-4 py-8 text-white max-w-4xl">
     <header class="mb-12 text-center">
       <h1 class="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-blue-500">
@@ -45,26 +51,26 @@ import Layout from '../../layouts/Layout.astro';
       <div class="bg-gradient-to-br from-indigo-900/30 to-purple-900/30 border border-indigo-500/20 rounded-2xl p-6 md:p-8">
         <h2 class="text-2xl font-bold mb-4 text-indigo-400">Competencias y Diagnóstico</h2>
         <p class="text-gray-300 mb-6">
-          El sistema analiza cada respuesta para identificar patrones en competencias específicas (ej. "Razonamiento Cuantitativo" o "Lectura Inferencial").
+          El sistema analiza cada respuesta para identificar patrones en competencias específicas.
         </p>
 
         <div class="bg-black/20 rounded-lg p-4 font-mono text-sm text-indigo-200">
           > Analizando 150 preguntas...<br>
-          > Detectada fortaleza: Álgebra (Puntaje 340)<br>
-          > Detectada oportunidad: Geometría (Puntaje 210)<br>
-          > Recomendación: Repasar teoremas básicos.
+          > Detectada fortaleza: Componente A (Puntaje 340)<br>
+          > Detectada oportunidad: Componente B (Puntaje 210)<br>
+          > Recomendación: Repasar temas fundamentales.
         </div>
       </div>
 
       <div class="bg-amber-500/10 border border-amber-500/20 rounded-2xl p-6 md:p-8">
-        <h2 class="text-2xl font-bold mb-4 text-amber-300">Estimación ICFES Proxy</h2>
+        <h2 class="text-2xl font-bold mb-4 text-amber-300">{scoreSemantics.estimateHeading}</h2>
         <p class="text-gray-300 leading-relaxed">
-          El nivel de habilidad (MMR) ahora informa directamente un <strong class="text-amber-200">puntaje estimado en escala 0-500</strong> que se aproxima al formato de reporte del ICFES para orientar tu práctica.
+          {scoreSemantics.methodologySummary}
         </p>
         <ul class="list-disc list-inside mt-4 space-y-2 text-sm text-gray-400">
           <li>Combina rendimiento, dificultad, consistencia y volumen de evidencia.</li>
           <li>Con menos de 20 preguntas la lectura es <strong class="text-amber-300">provisional</strong>.</li>
-          <li><strong class="text-white">No reemplaza el reporte oficial del ICFES</strong> ni replica su metodología psicométrica.</li>
+          <li><strong class="text-white">{scoreSemantics.officialNotice}</strong></li>
         </ul>
       </div>
     </section>
