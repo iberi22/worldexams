@@ -123,7 +123,12 @@ function buildJobPayload(question) {
     content: {
       statement: question.statement,
       explanation: question.explanation,
-      narration_script: script
+      narration_script: script,
+      steps: [
+        { label: 'Paso 1: Datos', math: '', explanation: 'Identifica los datos clave del enunciado.' },
+        { label: 'Paso 2: Operación', math: '', explanation: 'Plantea la ecuación y resuelve.' },
+        { label: 'Paso 3: Resultado', math: '', explanation: 'Verifica y confirma la opción correcta.' }
+      ]
     },
     audio: {
       tts_engine: 'xtts-v2-local',
