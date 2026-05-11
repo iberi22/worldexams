@@ -1,4 +1,7 @@
 ---
+import { resolveRuntimeCountryConfig } from '../../config';
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+
 const areas = [
   {
     title: 'Matematicas',
@@ -35,7 +38,7 @@ const areas = [
 const resultNotes = [
   'El puntaje global, los percentiles y los niveles por prueba aparecen en el reporte individual.',
   'El examen reporta desempenos por componente; conviene revisar la lectura de cada area por separado.',
-  'Cuando una convocatoria cambia, la guia oficial del ICFES prevalece sobre cualquier resumen interno.',
+  `Cuando una convocatoria cambia, la guia oficial del ${country.examAuthority} prevalece sobre cualquier resumen interno.`,
 ];
 ---
 
@@ -44,7 +47,7 @@ const resultNotes = [
     {areas.map((area, index) => (
       <article class="relative overflow-hidden rounded-3xl border border-white/10 bg-[#1a1a1a] p-6 shadow-lg shadow-black/10" data-sr="fade-up" data-sr-delay={String(index * 80)}>
         <div class="mb-4 flex items-center justify-between">
-          <span class="text-[10px] uppercase tracking-[0.28em] text-[#FCD116]">ICFES Saber 11</span>
+          <span class="text-[10px] uppercase tracking-[0.28em] text-[#FCD116]">{country.examAuthority} {country.examName} 11</span>
           <span class="rounded-full border border-white/10 bg-white/[0.04] px-2 py-1 text-[10px] uppercase tracking-[0.2em] text-white/45">
             Area {index + 1}
           </span>
@@ -57,7 +60,7 @@ const resultNotes = [
   </section>
 
   <section class="rounded-3xl border border-white/10 bg-white/[0.02] p-6">
-    <h3 class="text-center text-lg font-bold text-white">Como reporta resultados el ICFES</h3>
+    <h3 class="text-center text-lg font-bold text-white">Como reporta resultados el {country.examAuthority}</h3>
     <div class="mt-5 grid gap-4 md:grid-cols-3">
       {resultNotes.map((note) => (
         <div class="rounded-2xl border border-white/10 bg-[#1a1a1a] p-4 text-sm leading-relaxed text-white/60">

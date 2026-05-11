@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { resolveRuntimeCountryConfig } from '../config';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
-const updatedAt = new Date().toLocaleDateString('es-CO', {
+const updatedAt = new Date().toLocaleDateString(country.locale, {
   year: 'numeric',
   month: 'long',
   day: 'numeric'

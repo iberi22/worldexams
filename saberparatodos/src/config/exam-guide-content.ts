@@ -5,6 +5,16 @@ export interface FaqEntry {
   answer: string;
 }
 
+export interface GradeCardData {
+  grade: string;
+  title: string;
+  description: string;
+  subjects: string[];
+  duration: string;
+  questions: string;
+  highlight?: boolean;
+}
+
 export interface ExamGuideContent {
   variant: 'co' | 'mx' | 'generic';
   badgeLabel: string;
@@ -19,11 +29,59 @@ export interface ExamGuideContent {
   ctaLabel: string;
   authoritySummary: string;
   authorityUpdatedLabel: string;
+  organizationTitle?: string;
+  gradesTitle?: string;
+  grades?: GradeCardData[];
 }
 
 const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideContent>> = {
   CO: {
     variant: 'co',
+    organizationTitle: 'Como se organiza la evaluacion en Colombia',
+    gradesTitle: 'Que evalua el sistema por grado',
+    grades: [
+      {
+        grade: '3o',
+        title: 'Saber 3',
+        description: 'Seguimiento temprano de aprendizajes base en primaria.',
+        subjects: ['Matematicas', 'Lenguaje'],
+        duration: 'Convocatoria oficial',
+        questions: '80 a 100 reactivos aproximados',
+      },
+      {
+        grade: '5o',
+        title: 'Saber 5',
+        description: 'Control de competencias basicas al cierre de primaria.',
+        subjects: ['Matematicas', 'Lenguaje', 'Ciencias Naturales'],
+        duration: 'Sesion unica',
+        questions: 'Segun convocatoria',
+      },
+      {
+        grade: '7o',
+        title: 'Saber 7',
+        description: 'Punto de control intermedio para secundaria.',
+        subjects: ['Matematicas', 'Lectura Critica', 'Habilidades Ciudadanas'],
+        duration: 'Jornada oficial',
+        questions: 'Estructura variable',
+      },
+      {
+        grade: '9o',
+        title: 'Saber 9',
+        description: 'Evaluacion de cierre de basica secundaria.',
+        subjects: ['Matematicas', 'Lenguaje', 'Ciencias', 'Habilidades Ciudadanas'],
+        duration: 'Convocatoria ICFES',
+        questions: 'Consulta oficial vigente',
+      },
+      {
+        grade: '11o',
+        title: 'Saber 11',
+        description: 'Examen de Estado para estudiantes de grado 11 y poblacion habilitada.',
+        subjects: ['Lectura Critica', 'Matematicas', 'Sociales y Ciudadanas', 'Ciencias Naturales', 'Ingles'],
+        duration: '9 horas en dos sesiones',
+        questions: '230 calificables / 278 con cuestionario',
+        highlight: true,
+      },
+    ],
     badgeLabel: 'Guia verificada con fuentes oficiales',
     badgeSourceLabel: 'ICFES',
     heroTitle: 'Guia Pruebas Saber',
