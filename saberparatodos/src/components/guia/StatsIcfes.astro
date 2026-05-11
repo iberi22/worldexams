@@ -1,5 +1,8 @@
 ---
 import { icfesExamGuideLinks } from '../../config/exam-guide-links';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
 
 const officialFacts = [
   {
@@ -10,7 +13,7 @@ const officialFacts = [
   {
     value: '230',
     label: 'Preguntas calificables',
-    note: 'Cuadernillo estandar de Saber 11.',
+    note: `Cuadernillo estandar de ${country.examName} 11.`,
   },
   {
     value: '278',
@@ -27,7 +30,7 @@ const officialFacts = [
 const structureNotes = [
   {
     title: 'Analisis de datos',
-    text: 'La seccion central del ICFES agrupa visualizadores, informes y recursos para interpretar resultados.',
+    text: `La seccion central del ${country.examAuthority} agrupa visualizadores, informes y recursos para interpretar resultados.`,
   },
   {
     title: 'Marco y ficha',
@@ -56,7 +59,9 @@ const officialLinks = icfesExamGuideLinks;
   <section class="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
     <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6" data-sr="fade-up">
       <header class="mb-5 flex items-center gap-3">
-        <div class="h-10 w-10 rounded-full bg-emerald-500/15 text-emerald-400 flex items-center justify-center font-black">11</div>
+        <div class="h-10 w-10 rounded-full bg-emerald-500/15 text-emerald-400 flex items-center justify-center font-black">
+          {country.grades[country.grades.length - 1].id}
+        </div>
         <div>
           <h3 class="text-lg font-bold text-white">Estructura oficial del examen</h3>
           <p class="text-sm text-white/50">Resumen operativo para estudiantes que se preparan con referencias oficiales.</p>
@@ -75,14 +80,14 @@ const officialLinks = icfesExamGuideLinks;
       <div class="mt-6 rounded-2xl border border-dashed border-white/10 bg-white/[0.02] p-4">
         <p class="text-xs uppercase tracking-[0.22em] text-white/35">Punto de control</p>
         <p class="mt-2 text-sm leading-relaxed text-white/60">
-          Si el calendario cambia, la pagina del ICFES debe prevalecer sobre cualquier resumen interno. Esta tarjeta solo acompana la lectura y no reemplaza la citacion oficial.
+          Si el calendario cambia, la pagina del {country.examAuthority} debe prevalecer sobre cualquier resumen interno. Esta tarjeta solo acompana la lectura y no reemplaza la citacion oficial.
         </p>
       </div>
     </article>
 
     <aside class="space-y-4">
       <article class="rounded-3xl border border-white/10 bg-[#1a1a1a] p-6" data-sr="fade-left">
-        <h3 class="text-lg font-bold text-white">Consulta directa en ICFES</h3>
+        <h3 class="text-lg font-bold text-white">Consulta directa en {country.examAuthority}</h3>
         <p class="mt-2 text-sm text-white/50">Enlaces oficiales que conviene revisar cuando quieras validar una cifra o descargar la guia mas reciente.</p>
 
         <div class="mt-4 space-y-3">
