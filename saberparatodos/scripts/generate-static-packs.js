@@ -143,7 +143,22 @@ for (const country of countries) {
           if (questions.length === 0) continue;
 
           const period = data.periodo || 1;
-          const countryCode = (data.country || country).toLowerCase();
+
+          // Normalize country code (prefer ISO code)
+          let countryCode = (data.country || country).toLowerCase();
+          const countryMap = {
+            'colombia': 'co',
+            'mexico': 'mx',
+            'peru': 'pe',
+            'chile': 'cl',
+            'ecuador': 'ec',
+            'argentina': 'ar',
+            'brasil': 'br'
+          };
+          if (countryMap[countryCode]) {
+            countryCode = countryMap[countryCode];
+          }
+
           const packKey = `${countryCode}-${PACK_ID}-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
 
           if (!packs[packKey]) {
