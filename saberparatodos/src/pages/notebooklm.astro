@@ -2,12 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import TenantRouteNotice from '../components/TenantRouteNotice.astro';
 import { resolveRuntimeCountryConfig } from '../config';
-import { getTenantRouteAvailability } from '../config/tenant-experience';
+import { getTenantExperience, getTenantRouteAvailability } from '../config/tenant-experience';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const experience = getTenantExperience(country);
 const availability = getTenantRouteAvailability(country, 'notebooklm');
-const isCO = country.code === 'CO';
-const isMX = country.code === 'MX';
+const isEnabled = availability.state !== 'disabled';
 ---
 
 <Layout
@@ -16,7 +16,7 @@ const isMX = country.code === 'MX';
 >
   <main class="min-h-screen bg-[#121212] px-4 py-16 text-[#F5F5DC]">
     <div class="mx-auto max-w-5xl">
-      {isCO || isMX ? (
+      {isEnabled ? (
         <div class="space-y-10">
           <section class="rounded-[2rem] border border-white/10 bg-[#101115]/90 p-8 text-center shadow-2xl">
             <span class="inline-flex rounded-full border border-emerald-500/30 bg-emerald-500/10 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.25em] text-emerald-400">
@@ -43,7 +43,11 @@ const isMX = country.code === 'MX';
             <article class="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <h2 class="text-2xl font-black">Cobertura editorial</h2>
               <p class="mt-4 text-white/70 leading-7">
-                Incluye estructura {country.examName}, autoridad {country.examAuthority} y una ruta de estudio basada en la cobertura activa del producto para {country.name}.
+                {experience.contentTier === 'co'
+                  ? 'Incluye estructura Saber, autoridad ICFES y una ruta de estudio basada en la cobertura activa del producto.'
+                  : experience.contentTier === 'mx'
+                    ? 'Incluye estructura EXANI-II, autoridad CENEVAL y una ruta de estudio basada en la cobertura activa del producto.'
+                    : `Incluye estructura ${country.examName}, autoridad ${country.examAuthority} y una ruta de estudio basada en la cobertura activa de ${country.name}.`}
               </p>
               <p class="mt-4 text-white/55 text-sm">
                 Si una convocatoria externa cambia, la fuente oficial de {country.examAuthority} prevalece sobre este resumen editorial.

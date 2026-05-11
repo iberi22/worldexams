@@ -5,6 +5,24 @@ export interface FaqEntry {
   answer: string;
 }
 
+export interface InfographicStage {
+  grade: string;
+  title: string;
+  label: string;
+  subjects: string[];
+}
+
+export interface InfographicData {
+  title: string;
+  subtitle: string;
+  description: string;
+  stages: InfographicStage[];
+  highlightTitle: string;
+  highlightFacts: string[];
+  operationalTitle: string;
+  operationalNotes: string[];
+}
+
 export interface GradeCardData {
   grade: string;
   title: string;
@@ -13,6 +31,39 @@ export interface GradeCardData {
   duration: string;
   questions: string;
   highlight?: boolean;
+}
+
+export interface CompetencyArea {
+  title: string;
+  description: string;
+  meta: string;
+}
+
+export interface CompetencyData {
+  title: string;
+  areas: CompetencyArea[];
+  reportingTitle: string;
+  resultNotes: string[];
+}
+
+export interface TipData {
+  iconKey: string;
+  title: string;
+  description: string;
+  details: string[];
+}
+
+export interface TipSectionData {
+  title: string;
+  tips: TipData[];
+  checklistTitle: string;
+  checklistSubtitle: string;
+  checklistItems: string[];
+  checklistFooter: string;
+  strategyTitle: string;
+  strategyDescription: string;
+  strategySteps: { label: string; duration: string; description: string }[];
+  strategyFooter: string;
 }
 
 export interface ExamGuideContent {
@@ -29,17 +80,80 @@ export interface ExamGuideContent {
   ctaLabel: string;
   authoritySummary: string;
   authorityUpdatedLabel: string;
-  organizationTitle?: string;
+  infographic?: InfographicData;
   gradesTitle?: string;
-  grades?: GradeCardData[];
+  gradeCards?: GradeCardData[];
+  competencies?: CompetencyData;
+  tips?: TipSectionData;
+  detailSection?: {
+    title: string;
+    stats: { label: string; value: string; color: string }[];
+    footer: string;
+  };
 }
 
 const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideContent>> = {
   CO: {
     variant: 'co',
-    organizationTitle: 'Como se organiza la evaluacion en Colombia',
+    badgeLabel: 'Guia verificada con fuentes oficiales',
+    badgeSourceLabel: 'ICFES',
+    heroTitle: 'Guia Pruebas Saber',
+    heroSubtitle: 'Pruebas de Estado Saber',
+    heroDescription: 'Consulta la estructura vigente de Saber 11, las competencias evaluadas y una ruta de practica enfocada en la convocatoria actual.',
+    keywords: [
+      'simulacro icfes',
+      'simulacro saber 11',
+      'preicfes gratis',
+      'estructura icfes 2026',
+      'competencias icfes',
+      'guia saber 11',
+    ],
+    faq: [
+      {
+        question: 'Como practicar un simulacro ICFES gratis?',
+        answer: 'Puedes practicar por areas, revisar retroalimentacion al finalizar y repetir los bloques donde necesites mas precision.',
+      },
+      {
+        question: 'Este simulacro sirve para Saber 11 en Colombia?',
+        answer: 'Si. Esta enfocado en estudiantes de Colombia que se preparan para Saber 11 siguiendo referencias oficiales vigentes.',
+      },
+      {
+        question: 'Simulacro o similacro ICFES: cual es correcto?',
+        answer: 'La forma correcta es simulacro ICFES.',
+      },
+    ],
+    ctaTitle: 'Listo para practicar?',
+    ctaDescription: 'Accede a preguntas verificadas, identifica tus brechas y mejora tu rendimiento con practica guiada.',
+    ctaLabel: 'Iniciar Simulacro Gratuito',
+    authoritySummary: 'Esta guia sintetiza la informacion publica del ICFES y la organiza en una experiencia de estudio mas accionable.',
+    authorityUpdatedLabel: 'Actualizado abril 2026',
+    infographic: {
+      title: 'Como se organiza la evaluacion en Colombia',
+      subtitle: 'Sistema de evaluacion ICFES',
+      description: 'La guia publica una progresion clara: evaluaciones de seguimiento en basica y un examen de Estado en grado 11.',
+      stages: [
+        { grade: '3o', title: 'Saber 3', label: 'Diagnostico temprano', subjects: ['Matematicas', 'Lenguaje'] },
+        { grade: '5o', title: 'Saber 5', label: 'Cierre de primaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias Naturales'] },
+        { grade: '7o', title: 'Saber 7', label: 'Seguimiento intermedio', subjects: ['Matematicas', 'Lectura', 'Ciudadania'] },
+        { grade: '9o', title: 'Saber 9', label: 'Cierre de basica secundaria', subjects: ['Matematicas', 'Lenguaje', 'Ciencias'] },
+        { grade: '11o', title: 'Saber 11', label: 'Examen de Estado', subjects: ['Lectura Critica', 'Matematicas', 'Sociales', 'Ciencias', 'Ingles'] },
+      ],
+      highlightTitle: 'Lo mas importante de Saber 11',
+      highlightFacts: [
+        '5 pruebas calificables',
+        '230 preguntas calificables',
+        '278 con cuestionario socioeconomico',
+        '2 sesiones de 4 horas y 30 minutos',
+      ],
+      operationalTitle: 'Lectura operativa',
+      operationalNotes: [
+        'La pagina es una referencia visual, no reemplaza la citacion ni el calendario oficial.',
+        'Si una convocatoria cambia, los datos de ICFES deben prevalecer sobre cualquier tarjeta interna.',
+        'La composicion del examen 11 se mantiene centrada en cinco pruebas y un cuestionario adicional.',
+      ],
+    },
     gradesTitle: 'Que evalua el sistema por grado',
-    grades: [
+    gradeCards: [
       {
         grade: '3o',
         title: 'Saber 3',
@@ -82,38 +196,102 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
         highlight: true,
       },
     ],
-    badgeLabel: 'Guia verificada con fuentes oficiales',
-    badgeSourceLabel: 'ICFES',
-    heroTitle: 'Guia Pruebas Saber',
-    heroSubtitle: 'Pruebas de Estado Saber',
-    heroDescription: 'Consulta la estructura vigente de Saber 11, las competencias evaluadas y una ruta de practica enfocada en la convocatoria actual.',
-    keywords: [
-      'simulacro icfes',
-      'simulacro saber 11',
-      'preicfes gratis',
-      'estructura icfes 2026',
-      'competencias icfes',
-      'guia saber 11',
-    ],
-    faq: [
-      {
-        question: 'Como practicar un simulacro ICFES gratis?',
-        answer: 'Puedes practicar por areas, revisar retroalimentacion al finalizar y repetir los bloques donde necesites mas precision.',
-      },
-      {
-        question: 'Este simulacro sirve para Saber 11 en Colombia?',
-        answer: 'Si. Esta enfocado en estudiantes de Colombia que se preparan para Saber 11 siguiendo referencias oficiales vigentes.',
-      },
-      {
-        question: 'Simulacro o similacro ICFES: cual es correcto?',
-        answer: 'La forma correcta es simulacro ICFES.',
-      },
-    ],
-    ctaTitle: 'Listo para practicar?',
-    ctaDescription: 'Accede a preguntas verificadas, identifica tus brechas y mejora tu rendimiento con practica guiada.',
-    ctaLabel: 'Iniciar Simulacro Gratuito',
-    authoritySummary: 'Esta guia sintetiza la informacion publica del ICFES y la organiza en una experiencia de estudio mas accionable.',
-    authorityUpdatedLabel: 'Actualizado abril 2026',
+    competencies: {
+      title: 'Competencias clave',
+      areas: [
+        {
+          title: 'Matematicas',
+          description: 'Evalua interpretacion y representacion, formulacion y ejecucion, y argumentacion a partir de situaciones autenticas.',
+          meta: 'Referencia oficial: tres competencias distribuidas por la guia vigente.',
+        },
+        {
+          title: 'Lectura critica',
+          description: 'Evalua identificar informacion, comprender relaciones dentro del texto y reflexionar sobre forma y contenido.',
+          meta: 'El foco esta en comprension e interpretacion, no en opiniones libres.',
+        },
+        {
+          title: 'Sociales y ciudadanas',
+          description: 'Evalua pensamiento social, analisis de perspectivas y razonamiento sobre problemas publicos y contexto historico.',
+          meta: 'Las preguntas piden lectura de contexto y uso de informacion.',
+        },
+        {
+          title: 'Ciencias naturales',
+          description: 'Evalua explicacion de fenomenos, uso comprensivo del conocimiento cientifico e indagacion.',
+          meta: 'La guia oficial prioriza explicacion y aplicacion de conceptos.',
+        },
+        {
+          title: 'Ingles',
+          description: 'Evalua comprension lectora y uso del idioma en contexto con niveles de desempeno reportados en el informe.',
+          meta: 'El resultado se interpreta por niveles, no por una sola escala global.',
+        },
+      ],
+      reportingTitle: 'Como reporta resultados el ICFES',
+      resultNotes: [
+        'El puntaje global, los percentiles y los niveles por prueba aparecen en el reporte individual.',
+        'El examen reporta desempenos por componente; conviene revisar la lectura de cada area por separado.',
+        'Cuando una convocatoria cambia, la guia oficial del ICFES prevalece sobre cualquier resumen interno.',
+      ],
+    },
+    tips: {
+      title: 'Estrategias y recomendaciones',
+      tips: [
+        {
+          iconKey: 'planifica',
+          title: 'Define un plan realista',
+          description: 'Arma un cronograma de 8 a 12 semanas con bloques cortos y objetivos medibles.',
+          details: ['Estudia de 2 a 3 horas diarias', 'Alterna materias y evita saturarte', 'Cierra cada bloque con una meta concreta'],
+        },
+        {
+          iconKey: 'simulacros',
+          title: 'Practica con tiempo controlado',
+          description: 'Resuelve simulacros completos y revisa el tiempo por seccion para detectar cuellos de botella.',
+          details: ['Haz al menos un simulacro semanal', 'Corrige de inmediato los errores', 'Mide velocidad y precision por area'],
+        },
+        {
+          iconKey: 'lectura',
+          title: 'Lee todos los dias',
+          description: 'La lectura sostenida mejora comprension, inferencia y manejo de instrucciones largas.',
+          details: ['Reserva 20 a 30 minutos diarios', 'Combina noticias, ensayos y textos cortos', 'Resume cada lectura en una idea central'],
+        },
+        {
+          iconKey: 'matematicas',
+          title: 'Entrena con razonamiento',
+          description: 'No memorices procedimientos aislados. Resuelve problemas y explica por que una respuesta funciona.',
+          details: ['Practica algebra, geometria y estadistica', 'Escribe el procedimiento antes de responder', 'Revisa errores frecuentes y patrones'],
+        },
+        {
+          iconKey: 'bienestar',
+          title: 'Cuida energia y descanso',
+          description: 'Dormir y comer bien impacta memoria, atencion y toma de decisiones durante la prueba.',
+          details: ['Asegura 7 a 8 horas de sueno', 'Evita cambios bruscos el dia previo', 'Mantente hidratado y llega con margen'],
+        },
+        {
+          iconKey: 'examen',
+          title: 'Prepara el dia del examen',
+          description: 'Revisa citacion, documentos y elementos permitidos con anticipacion.',
+          details: ['Verifica sede, jornada y hora', 'Lleva documento y citacion', 'Revisa lo que si y no puedes ingresar'],
+        },
+      ],
+      checklistTitle: 'Checklist',
+      checklistSubtitle: 'Dia del examen',
+      checklistItems: [
+        'Documento de identidad vigente',
+        'Citacion consultada previamente',
+        'Ruta hacia la sede confirmada',
+        'Elementos permitidos verificados',
+        'Tiempo suficiente para llegar',
+        'Descanso adecuado la noche anterior',
+      ],
+      checklistFooter: 'La prioridad es simple: llegar con todo verificado y dejar cero decisiones logisticas para el ultimo momento.',
+      strategyTitle: 'Estrategia de tiempo por sesion',
+      strategyDescription: 'Usa una primera pasada rapida para asegurar respuestas obvias y reserva el tramo final para revisar las mas dificiles.',
+      strategySteps: [
+        { label: 'Revisar', duration: '10 min', description: 'Lee todo rapido y marca las preguntas mas seguras.' },
+        { label: 'Resolver', duration: 'Mayor parte del tiempo', description: 'Avanza por las preguntas de mayor confianza y evita atascarte.' },
+        { label: 'Revisar al final', duration: 'Ultimos minutos', description: 'Retoma las dificiles solo si el tiempo restante lo permite.' },
+      ],
+      strategyFooter: 'Tip: la estrategia sirve como apoyo de practica; para materiales, horarios y reglas de ingreso, siempre prevalece la citacion oficial.',
+    },
   },
   MX: {
     variant: 'mx',
@@ -144,6 +322,43 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaLabel: 'Iniciar Practica Guiada',
     authoritySummary: 'Esta guia resume estructura y criterios de practica a partir de referencias publicas del ecosistema EXANI y CENEVAL.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
+    gradesTitle: 'Estructura general del examen',
+    gradeCards: [
+      {
+        grade: 'A',
+        title: 'Transversales',
+        description: 'Habilidades fundamentales para todos los aspirantes.',
+        subjects: ['Comprension Lectora', 'Redaccion Indirecta', 'Pensamiento Matematico'],
+        duration: 'Base del examen',
+        questions: '90 preguntas',
+        highlight: true,
+      },
+      {
+        grade: 'B',
+        title: 'Modulos especificos',
+        description: 'Conocimientos ligados a la carrera o institucion.',
+        subjects: ['Modulo 1', 'Modulo 2', 'Ejemplos por area'],
+        duration: 'Varia segun carrera',
+        questions: '48 preguntas',
+      },
+      {
+        grade: 'C',
+        title: 'Diagnostico',
+        description: 'Informacion adicional fuera del puntaje principal.',
+        subjects: ['Ingles', 'Reactivos piloto'],
+        duration: 'Seccion final',
+        questions: '30 preguntas',
+      },
+    ],
+    detailSection: {
+      title: 'EXANI-II en detalle',
+      stats: [
+        { label: 'Habilidades transversales', value: '54%', color: 'emerald' },
+        { label: 'Modulos especificos', value: '28%', color: 'blue' },
+        { label: 'Ingles diagnostico', value: '18%', color: 'purple' },
+      ],
+      footer: 'Total: 168 preguntas | Duracion: 4.5 horas',
+    },
   },
   AR: {
     variant: 'generic',
@@ -300,13 +515,13 @@ export function getExamGuideContent(countryConfig: CountryConfig): ExamGuideCont
     keywords: countryConfig.product.seoKeywords,
     faq: [
       {
-        question: `Como practicar para ${countryConfig.product.guideLabel}?`,
+        question: `¿Cómo practicar para ${countryConfig.product.guideLabel}?`,
         answer: `Usa la experiencia compartida del producto y luego profundiza con contenido localizado para ${countryConfig.name}.`,
       },
       {
         question: 'La estructura ya esta final para este pais?',
-      answer: 'Todavia no. Esta plantilla comparte runtime y tenanting mientras se completa la capa de contenido localizado.',
-    },
+        answer: 'Todavia no. Esta plantilla comparte runtime y tenanting mientras se completa la capa de contenido localizado.',
+      },
     ],
     ctaTitle: 'Listo para practicar?',
     ctaDescription: `Explora la experiencia base del producto mientras se completa la localizacion de ${countryConfig.name}.`,

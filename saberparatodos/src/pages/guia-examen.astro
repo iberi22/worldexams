@@ -4,14 +4,12 @@ import ExamInfographic from '../components/guia/ExamInfographic.astro';
 import GradeCard from '../components/guia/GradeCard.astro';
 import CompetencyList from '../components/guia/CompetencyList.astro';
 import TipsSection from '../components/guia/TipsSection.astro';
-import StatsIcfes from '../components/guia/StatsIcfes.astro';
+import ExamDetailSection from '../components/guia/ExamDetailSection.astro';
 import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 import { getExamGuideContent } from '../config/exam-guide-content';
 
 const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 const guideContent = getExamGuideContent(country);
-const isCO = guideContent.variant === 'co';
-const isMX = guideContent.variant === 'mx';
 const siteUrl = Astro.site ? Astro.site.toString() : country.product.siteUrl;
 
 const faqSchema = {
@@ -76,142 +74,78 @@ const schema = {
       </div>
     </section>
 
-    {isCO && (
-      <>
-        <section class="relative z-10 px-4 py-16" data-sr="fade-up">
-          <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold">{guideContent.organizationTitle}</h2>
-            <div class="glass rounded-3xl p-8 md:p-16">
-              <ExamInfographic />
-            </div>
+    {guideContent.infographic && (
+      <section class="relative z-10 px-4 py-16" data-sr="fade-up">
+        <div class="mx-auto max-w-6xl">
+          <h2 class="mb-12 text-center text-3xl font-bold">{guideContent.infographic.title}</h2>
+          <div class="glass rounded-3xl p-8 md:p-16">
+            <ExamInfographic data={guideContent.infographic} />
           </div>
-        </section>
-
-        <section class="relative z-10 border-t border-white/5 px-4 py-20">
-          <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.gradesTitle}</h2>
-            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-              {guideContent.grades?.map((grade) => (
-                <GradeCard {...grade} />
-              ))}
-              {country.features.preuniversitario && (
-                <a
-                  href={`/?subject=Preuniversitario&grade=${country.grades[country.grades.length-1].id}`}
-                  class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]"
-                >
-                  <GradeCard
-                    grade="PreU"
-                    title="Preuniversitario"
-                    description="Ruta adicional para admision universitaria con simulacros y blueprints especificos."
-                    subjects={['Diagnostico', 'Practica por componente', 'Simulacro realista', 'Overlay por carrera']}
-                    duration="Modulos de tiempo real"
-                    questions="20 a 120 preguntas"
-                    highlight={true}
-                  />
-                </a>
-              )}
-            </div>
-          </div>
-        </section>
-
-        <section class="relative z-10 border-t border-white/5 px-4 py-20">
-          <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Competencias clave</h2>
-            <div data-sr="fade-up" data-sr-delay="100">
-              <CompetencyList />
-            </div>
-          </div>
-        </section>
-
-        <section class="relative z-10 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent px-4 py-20">
-          <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Estrategias y recomendaciones</h2>
-            <div data-sr="fade-up" data-sr-delay="100">
-              <TipsSection />
-            </div>
-          </div>
-        </section>
-      </>
+        </div>
+      </section>
     )}
 
-    {isMX && (
-      <>
-        <section class="relative z-10 px-4 py-20" data-sr="fade-up">
-          <div class="mx-auto max-w-6xl">
-            <h2 class="mb-12 text-center text-3xl font-bold text-[#F5F5DC]">Estructura general del examen</h2>
-            <div class="grid gap-8 md:grid-cols-3">
-              <GradeCard
-                grade="A"
-                title="Transversales"
-                description="Habilidades fundamentales para todos los aspirantes."
-                subjects={['Comprension Lectora', 'Redaccion Indirecta', 'Pensamiento Matematico']}
-                duration="Base del examen"
-                questions="90 preguntas"
-                highlight={true}
-              />
-              <GradeCard
-                grade="B"
-                title="Modulos especificos"
-                description="Conocimientos ligados a la carrera o institucion."
-                subjects={['Modulo 1', 'Modulo 2', 'Ejemplos por area']}
-                duration="Varia segun carrera"
-                questions="48 preguntas"
-              />
-              <GradeCard
-                grade="C"
-                title="Diagnostico"
-                description="Informacion adicional fuera del puntaje principal."
-                subjects={['Ingles', 'Reactivos piloto']}
-                duration="Seccion final"
-                questions="30 preguntas"
-              />
-            </div>
+    {guideContent.gradeCards && (
+      <section class="relative z-10 border-t border-white/5 px-4 py-20">
+        <div class="mx-auto max-w-6xl">
+          <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.gradesTitle || 'Que evalua el sistema por grado'}</h2>
+          <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {guideContent.gradeCards.map((card) => (
+              <GradeCard {...card} />
+            ))}
+            {country.features.preuniversitario && (
+              <a
+                href="/?subject=Preuniversitario&grade=11"
+                class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
+              >
+                <GradeCard
+                  grade="PreU"
+                  title="Preuniversitario"
+                  description="Ruta adicional para admision universitaria con simulacros y blueprints especificos."
+                  subjects={['Diagnostico', 'Practica por componente', 'Simulacro realista', 'Overlay por carrera']}
+                  duration="Modulos de tiempo real"
+                  questions="20 a 120 preguntas"
+                  highlight={true}
+                />
+              </a>
+            )}
           </div>
-        </section>
+        </div>
+      </section>
+    )}
 
-        <section class="relative z-10 border-t border-white/5 bg-white/[0.01] px-4 py-20">
+    {guideContent.detailSection && (
+       <section class="relative z-10 border-t border-white/5 bg-white/[0.01] px-4 py-20">
           <div class="mx-auto max-w-4xl">
-            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">EXANI-II en detalle</h2>
-            <div class="glass flex flex-col items-center rounded-3xl p-8" data-sr="zoom-in" data-sr-delay="100">
-              <div class="w-full max-w-lg space-y-6">
-                <div>
-                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
-                    <span>Habilidades transversales</span>
-                    <span class="font-bold text-emerald-400">54%</span>
-                  </div>
-                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
-                    <div class="h-full rounded-full bg-gradient-to-r from-emerald-600 to-emerald-400" style="width: 54%"></div>
-                  </div>
-                </div>
-                <div>
-                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
-                    <span>Modulos especificos</span>
-                    <span class="font-bold text-blue-400">28%</span>
-                  </div>
-                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
-                    <div class="h-full rounded-full bg-gradient-to-r from-blue-600 to-blue-400" style="width: 28%"></div>
-                  </div>
-                </div>
-                <div>
-                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
-                    <span>Ingles diagnostico</span>
-                    <span class="font-bold text-purple-400">18%</span>
-                  </div>
-                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
-                    <div class="h-full rounded-full bg-gradient-to-r from-purple-600 to-purple-400" style="width: 18%"></div>
-                  </div>
-                </div>
-              </div>
-              <p class="mt-10 text-center text-xs uppercase tracking-widest text-white/40">
-                Total: <strong class="text-white">168 preguntas</strong> | Duracion: <strong class="text-white">4.5 horas</strong>
-              </p>
-            </div>
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.detailSection.title}</h2>
+            <ExamDetailSection country={country} data={guideContent.detailSection} />
           </div>
-        </section>
-      </>
+       </section>
     )}
 
-    {!isCO && !isMX && (
+    {guideContent.competencies && (
+      <section class="relative z-10 border-t border-white/5 px-4 py-20">
+        <div class="mx-auto max-w-6xl">
+          <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.competencies.title}</h2>
+          <div data-sr="fade-up" data-sr-delay="100">
+            <CompetencyList data={guideContent.competencies} badgeLabel={guideContent.badgeSourceLabel} />
+          </div>
+        </div>
+      </section>
+    )}
+
+    {guideContent.tips && (
+      <section class="relative z-10 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent px-4 py-20">
+        <div class="mx-auto max-w-6xl">
+          <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">{guideContent.tips.title}</h2>
+          <div data-sr="fade-up" data-sr-delay="100">
+            <TipsSection data={guideContent.tips} />
+          </div>
+        </div>
+      </section>
+    )}
+
+    {guideContent.variant === 'generic' && (
       <section class="relative z-10 border-t border-white/5 px-4 py-20">
         <div class="mx-auto max-w-5xl">
           <div class="glass rounded-3xl p-8">
