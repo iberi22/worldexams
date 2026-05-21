@@ -1270,7 +1270,7 @@
           {/if}
         {/if}
         {#if !roomCode || isHost}
-          {#if !isEnglishDiagnosticMode}
+          {#if !isEnglishRelated}
           <!-- Normal Grade and Subject Selection -->
           <div class="space-y-4 p-4 bg-white/5 border border-white/10 rounded-lg">
             <h3 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">📚 Configuración del Examen</h3>
