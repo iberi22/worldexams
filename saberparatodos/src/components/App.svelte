@@ -1048,7 +1048,7 @@
 
                   // Set config for English diagnostic
                   selectedGrade = 0; // Special: 0 = Cross-grade mode
-                  selectedSubject = 'Ingles Diagnostico';
+                  selectedSubject = 'Inglés Diagnóstico';
 
                   console.log(`✅ Loaded ${englishQuestions.length} English questions across all levels`);
                   showExamConfigModal = true;
@@ -1456,7 +1456,7 @@
       countryCode={countryCode}
       runtimeCountry={runtimeCountry}
       subject={selectedSubject}
-      currentGrade={selectedGrade || 11}
+      currentGrade={selectedGrade ?? 11}
       isLoggedIn={Boolean(user)}
       availableQuestions={loadedQuestions}
       initialRoomCode={initialRoomCode}
