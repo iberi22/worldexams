@@ -97,7 +97,7 @@ Select the best word for space (4):
 
 ### Options
 - [ ] A) would <!-- feedback: Incorrect. "Would" would require a conditional structure that doesn't fit here. -->
-- [ ] B) might <!-- feedback: Too weak; the experts are expressing a strong recommendation. -->
+- [ ] B) might <!-- feedback: Incorrect. Too weak; the experts are expressing a strong recommendation. -->
 - [x] C) should <!-- feedback: Correct. Used for strong recommendations and advice. -->
 - [ ] D) could <!-- feedback: Incorrect. "Could" suggests possibility, while the context implies necessity. -->
 
@@ -166,7 +166,7 @@ In the phrase "humans are now a 'geological force'", the word 'force' implies th
 ### Options
 - [x] A) Human impact is as powerful and permanent as volcanoes or tectonic plates. <!-- feedback: Correct. "Geological force" refers to the scale of impact on Earth's history. -->
 - [ ] B) Humans are physically very strong. <!-- feedback: Incorrect. It refers to collective impact, not physical strength. -->
-- [ ] C) Governments are forcing people to study geology. <!-- feedback: Absurd misinterpretation. -->
+- [ ] C) Governments are forcing people to study geology. <!-- feedback: Incorrect. Absurd misinterpretation. -->
 - [ ] D) There is a lot of pressure on scientists to find new eras. <!-- feedback: Incorrect. It describes the state of the planet, not the scientific community's pressure. -->
 
 ### Explicación Pedagógica
@@ -188,9 +188,9 @@ Based on the text, what would be the best counter-argument for a scientist who s
 
 ### Options
 - [x] A) The label is not about arrogance, but about **accountability**: acknowledging our role as a major geological impactor is a step toward fixing the damage. <!-- feedback: Correct. It transforms a label of "dominance" into a label of "responsibility". -->
-- [ ] B) Humans are indeed the most important species, so they deserve their own era. <!-- feedback: This confirms the arrogance accusation instead of countering it. -->
-- [ ] C) Geology is a very old science and needs new names to stay exciting. <!-- feedback: Superficial argument. -->
-- [ ] D) The term was invented by a Nobel Prize winner, so it must be correct. <!-- feedback: Logical fallacy (Appeal to Authority). -->
+- [ ] B) Humans are indeed the most important species, so they deserve their own era. <!-- feedback: Incorrect. This confirms the arrogance accusation instead of countering it. -->
+- [ ] C) Geology is a very old science and needs new names to stay exciting. <!-- feedback: Incorrect. Superficial argument. -->
+- [ ] D) The term was invented by a Nobel Prize winner, so it must be correct. <!-- feedback: Incorrect. Logical fallacy (Appeal to Authority). -->
 
 ### Explicación Pedagógica
 Critical thinking and stance evaluation. The student must generate an advanced justification for a scientific position within a socio-linguistic debate.
