@@ -74,20 +74,30 @@ def normalize_body(body):
             letter = opt_match.group(1)
             text = opt_match.group(2).strip()
             text = clean_bold(text)
+            text = format_feedback(text)
             result.append(f"- [ ] {letter}) {text}")
             i += 1
             continue
 
         # Handle markdown list options
-        md_opt = re.match(r"^-\s*([A-D])\)\s*(.+)$", stripped)
+        md_opt = re.match(r"^-\s*\[([ xX]?)\]\s*([A-D])\)\s*(.+)$", stripped)
+        if not md_opt:
+            md_opt = re.match(r"^-\s*([A-D])\)\s*(.+)$", stripped)
+
         if md_opt:
-            letter = md_opt.group(1)
-            text = md_opt.group(2).strip()
+            if len(md_opt.groups()) == 3:
+                mark = md_opt.group(1) if md_opt.group(1).strip() else " "
+                letter = md_opt.group(2)
+                text = md_opt.group(3).strip()
+            else:
+                letter = md_opt.group(1)
+                text = md_opt.group(2).strip()
+                mark = "x" if "[x]" in text.lower() else " "
+                text = re.sub(r"\[x\]\s*", "", text, flags=re.IGNORECASE)
+
             text = clean_bold(text)
-            has_x = "[x]" in text.lower()
-            mark = "[x]" if has_x else "[ ]"
-            text = re.sub(r"\[x\]\s*", "", text, flags=re.IGNORECASE)
-            result.append(f"- {mark} {letter}) {text}")
+            text = format_feedback(text)
+            result.append(f"- [{mark}] {letter}) {text}")
             i += 1
             continue
 
@@ -105,3 +115,28 @@ def normalize_body(body):
 def clean_bold(text):
     """Remove bold markers from text."""
     return re.sub(r"\*\*(.*?)\*\*", r"\1", text)
+
+
+def format_feedback(text):
+    """Ensure feedback is in <!-- feedback: ... --> format."""
+    # If already has the tag, do nothing
+    if "<!-- feedback:" in text:
+        return text
+
+    # Check for common feedback markers
+    feedback_markers = [
+        r"Feedback:",
+        r"Retroalimentación:",
+        r"Explicación:",
+        r"Porque:",
+        r"Razón:"
+    ]
+
+    for marker in feedback_markers:
+        match = re.search(f"{marker}\s*(.+)$", text, re.IGNORECASE)
+        if match:
+            feedback_content = match.group(1).strip()
+            base_text = text[:match.start()].strip()
+            return f"{base_text} <!-- feedback: {feedback_content} -->"
+
+    return text

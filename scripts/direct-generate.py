@@ -25,16 +25,10 @@ from normalize_gen import normalize_bundle
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Import validator (skill path)
-SKILLS_PATH = Path(r"C:\Users\belal\clawd\skills\worldexams-validator")
-if SKILLS_PATH.exists():
-    sys.path.insert(0, str(SKILLS_PATH))
-    from validate_questions import QuestionValidator
+# Import local validator
+from bundle_validator import BundleValidator
 
-    _validator = QuestionValidator()
-else:
-    _validator = None
-    print("  ⚠️ Validator skill not found - skipping validation")
+_validator = BundleValidator()
 
 
 def _trigger_review(bundle_path: str, subject: str = None, grado: int = None):
@@ -490,13 +484,13 @@ async def process_task_async(session, task, endpoint, semaphore):
             print(f"  💾 Saved: {os.path.basename(output_path)}")
 
             # Validate the saved bundle — FAIL if invalid
-            if _validator and output_path:
+            if output_path:
                 vr = _validator.validate_file(str(output_path))
                 issue_count = len(vr.issues)
                 warning_count = len(vr.warnings)
                 if vr.valid:
                     print(
-                        f"  ✅ Validated: {20 - issue_count} questions OK, {issue_count} issues, {warning_count} warnings"
+                        f"  ✅ Validated: OK, {issue_count} issues, {warning_count} warnings"
                     )
                     # Trigger async review via the worldexams-question-reviewer skill
                     _trigger_review(str(output_path), subject=task["subject"], grado=task["grado"])
@@ -506,7 +500,7 @@ async def process_task_async(session, task, endpoint, semaphore):
                     # Validation failed — delete bad file and mark task failed
                     critical_issues = [i for i in vr.issues if i.severity in ("CRITICAL", "HIGH")]
                     error_msg = (
-                        f"Validation failed: {len(vr.issues)} issues — {[i.message for i in critical_issues[:3]]}"
+                        f"Validation failed: {len(vr.issues)} issues — {', '.join([i.message for i in critical_issues[:3]])}"
                     )
                     update_task_status(task_id, "failed", error=error_msg)
                     if os.path.exists(str(output_path)):
@@ -514,8 +508,6 @@ async def process_task_async(session, task, endpoint, semaphore):
                     print(f"  ❌ Validation FAILED — bundle deleted: {os.path.basename(output_path)}")
                     print(f"  ❌ Issues: {[i.message for i in vr.issues[:5]]}")
                     return task_id, False, error_msg
-            else:
-                update_task_status(task_id, "completed", output_path=output_path)
 
             return task_id, True, None
         except Exception as save_err:
