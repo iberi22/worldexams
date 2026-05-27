@@ -35,10 +35,10 @@ This bundle focuses on grammar control, discourse markers, short notices, and re
 Choose the correct option: "My sister usually ______ to school by bus."
 
 ### Options
-- [ ] A) go <!-- feedback: The subject is third person singular, so the verb form is incomplete. -->
+- [ ] A) go <!-- feedback: Incorrect. The subject is third person singular, so the verb form is incomplete. -->
 - [x] B) goes <!-- feedback: Correct. Present simple with third person singular takes -s. -->
-- [ ] C) going <!-- feedback: That form would require an auxiliary verb. -->
-- [ ] D) gone <!-- feedback: This is a participle, not the correct present simple form. -->
+- [ ] C) going <!-- feedback: Incorrect. That form would require an auxiliary verb. -->
+- [ ] D) gone <!-- feedback: Incorrect. This is a participle, not the correct present simple form. -->
 
 ### Explicación Pedagógica
 In present simple, third person singular subjects require the verb ending `-s` or `-es`.
@@ -55,10 +55,10 @@ In present simple, third person singular subjects require the verb ending `-s` o
 Select the best option: "They ______ a science project right now."
 
 ### Options
-- [ ] A) prepare <!-- feedback: Present simple does not match the time marker "right now". -->
+- [ ] A) prepare <!-- feedback: Incorrect. Present simple does not match the time marker "right now". -->
 - [x] B) are preparing <!-- feedback: Correct. Present continuous matches an action happening now. -->
-- [ ] C) prepared <!-- feedback: Past simple does not fit the context. -->
-- [ ] D) have prepared <!-- feedback: Present perfect does not match the immediate time reference. -->
+- [ ] C) prepared <!-- feedback: Incorrect. Past simple does not fit the context. -->
+- [ ] D) have prepared <!-- feedback: Incorrect. Present perfect does not match the immediate time reference. -->
 
 ### Explicación Pedagógica
 Time expressions such as `right now` usually require the present continuous.
@@ -75,10 +75,10 @@ Time expressions such as `right now` usually require the present continuous.
 Choose the correct connector: "The road was closed, ______ we took a different route."
 
 ### Options
-- [ ] A) because <!-- feedback: That would reverse the cause-effect relation. -->
+- [ ] A) because <!-- feedback: Incorrect. That would reverse the cause-effect relation. -->
 - [x] B) so <!-- feedback: Correct. "So" introduces a result. -->
-- [ ] C) although <!-- feedback: "Although" introduces contrast, not result. -->
-- [ ] D) unless <!-- feedback: "Unless" introduces a condition. -->
+- [ ] C) although <!-- feedback: Incorrect. "Although" introduces contrast, not result. -->
+- [ ] D) unless <!-- feedback: Incorrect. "Unless" introduces a condition. -->
 
 ### Explicación Pedagógica
 `So` is commonly used to introduce the consequence of a previous situation.
@@ -96,10 +96,10 @@ Where would you most likely see this notice?
 "Please keep your student ID visible at all times."
 
 ### Options
-- [ ] A) At a bus stop <!-- feedback: A bus stop usually does not require student ID display. -->
+- [ ] A) At a bus stop <!-- feedback: Incorrect. A bus stop usually does not require student ID display. -->
 - [x] B) On a school or university campus <!-- feedback: Correct. ID visibility is common in academic institutions. -->
-- [ ] C) In a bakery <!-- feedback: The setting does not match the notice. -->
-- [ ] D) At a movie theater entrance <!-- feedback: The wording is institutional, not typical for this place. -->
+- [ ] C) In a bakery <!-- feedback: Incorrect. The setting does not match the notice. -->
+- [ ] D) At a movie theater entrance <!-- feedback: Incorrect. The wording is institutional, not typical for this place. -->
 
 ### Explicación Pedagógica
 Pragmatic questions test whether the student can infer the most plausible context of a message.
@@ -116,10 +116,10 @@ Pragmatic questions test whether the student can infer the most plausible contex
 Choose the best option: "If it rains this afternoon, we ______ the match."
 
 ### Options
-- [ ] A) cancelled <!-- feedback: Past simple breaks the first conditional pattern. -->
-- [ ] B) canceling <!-- feedback: The form is not grammatically correct in this structure. -->
+- [ ] A) cancelled <!-- feedback: Incorrect. Past simple breaks the first conditional pattern. -->
+- [ ] B) canceling <!-- feedback: Incorrect. The form is not grammatically correct in this structure. -->
 - [x] C) will cancel <!-- feedback: Correct. First conditional uses if + present, will + base verb. -->
-- [ ] D) had cancelled <!-- feedback: That tense belongs to another structure. -->
+- [ ] D) had cancelled <!-- feedback: Incorrect. That tense belongs to another structure. -->
 
 ### Explicación Pedagógica
 The first conditional expresses a real possible future result.
@@ -137,10 +137,10 @@ Select the correct reported sentence:
 Ana said, "I am tired."
 
 ### Options
-- [ ] A) Ana said that she is tired. <!-- feedback: The tense shift is incomplete in standard reporting. -->
+- [ ] A) Ana said that she is tired. <!-- feedback: Incorrect. The tense shift is incomplete in standard reporting. -->
 - [x] B) Ana said that she was tired. <!-- feedback: Correct. Present changes to past in reported speech here. -->
-- [ ] C) Ana said that I was tired. <!-- feedback: The pronoun reference changes incorrectly. -->
-- [ ] D) Ana said that she has tired. <!-- feedback: The verb form is ungrammatical. -->
+- [ ] C) Ana said that I was tired. <!-- feedback: Incorrect. The pronoun reference changes incorrectly. -->
+- [ ] D) Ana said that she has tired. <!-- feedback: Incorrect. The verb form is ungrammatical. -->
 
 ### Explicación Pedagógica
 Reported speech often changes tense and pronouns depending on the reporting situation.
@@ -158,10 +158,10 @@ Read the sentence: "The new recycling campaign was successful because residents 
 The word "willing" is closest in meaning to
 
 ### Options
-- [ ] A) forced <!-- feedback: That means the opposite of voluntary participation. -->
+- [ ] A) forced <!-- feedback: Incorrect. That means the opposite of voluntary participation. -->
 - [x] B) prepared <!-- feedback: Correct. In this context, it means ready or prepared to do something. -->
-- [ ] C) confused <!-- feedback: The sentence does not suggest uncertainty. -->
-- [ ] D) absent <!-- feedback: This does not fit the context. -->
+- [ ] C) confused <!-- feedback: Incorrect. The sentence does not suggest uncertainty. -->
+- [ ] D) absent <!-- feedback: Incorrect. This does not fit the context. -->
 
 ### Explicación Pedagógica
 Vocabulary in context depends on how a word functions inside a complete sentence, not in isolation.
@@ -179,10 +179,10 @@ Where would you most likely find this message?
 "For hygiene reasons, please wear a hairnet before entering."
 
 ### Options
-- [ ] A) In a public library <!-- feedback: A hairnet is not relevant there. -->
-- [ ] B) In a clothing store <!-- feedback: The hygiene instruction does not match the setting. -->
+- [ ] A) In a public library <!-- feedback: Incorrect. A hairnet is not relevant there. -->
+- [ ] B) In a clothing store <!-- feedback: Incorrect. The hygiene instruction does not match the setting. -->
 - [x] C) In a food processing area <!-- feedback: Correct. Hairnets are commonly required in food handling environments. -->
-- [ ] D) In a football stadium <!-- feedback: The message does not fit that context. -->
+- [ ] D) In a football stadium <!-- feedback: Incorrect. The message does not fit that context. -->
 
 ### Explicación Pedagógica
 The clue comes from the relationship between `hygiene`, `wear`, and `hairnet`.
@@ -203,10 +203,10 @@ Read the short text:
 What is the main concern in the text?
 
 ### Options
-- [ ] A) Teachers do not know how to use digital platforms. <!-- feedback: That is not stated. -->
-- [ ] B) Homework should disappear from schools completely. <!-- feedback: The text does not make that claim. -->
+- [ ] A) Teachers do not know how to use digital platforms. <!-- feedback: Incorrect. That is not stated. -->
+- [ ] B) Homework should disappear from schools completely. <!-- feedback: Incorrect. The text does not make that claim. -->
 - [x] C) Technology can improve communication, but unequal access may create problems. <!-- feedback: Correct. That tension is the central idea. -->
-- [ ] D) Students prefer paper because they dislike feedback. <!-- feedback: This idea is not mentioned. -->
+- [ ] D) Students prefer paper because they dislike feedback. <!-- feedback: Incorrect. This idea is not mentioned. -->
 
 ### Explicación Pedagógica
 The text presents both an advantage and a limitation; the main idea combines both.
@@ -223,10 +223,10 @@ The text presents both an advantage and a limitation; the main idea combines bot
 In the text, the word "widen" is closest in meaning to
 
 ### Options
-- [ ] A) hide <!-- feedback: The sentence is about increasing, not hiding. -->
-- [ ] B) solve <!-- feedback: It suggests the opposite of solving. -->
+- [ ] A) hide <!-- feedback: Incorrect. The sentence is about increasing, not hiding. -->
+- [ ] B) solve <!-- feedback: Incorrect. It suggests the opposite of solving. -->
 - [x] C) increase <!-- feedback: Correct. "Widen inequalities" means make them larger. -->
-- [ ] D) measure <!-- feedback: The sentence does not refer to measurement. -->
+- [ ] D) measure <!-- feedback: Incorrect. The sentence does not refer to measurement. -->
 
 ### Explicación Pedagógica
 Lexical meaning should be inferred from the phrase it appears in.
@@ -243,10 +243,10 @@ Lexical meaning should be inferred from the phrase it appears in.
 Choose the best option: "By the time we arrived, the seminar ______."
 
 ### Options
-- [ ] A) already starts <!-- feedback: The tense does not fit the completed earlier action. -->
-- [ ] B) has already started <!-- feedback: Present perfect is not the best match with the past reference. -->
+- [ ] A) already starts <!-- feedback: Incorrect. The tense does not fit the completed earlier action. -->
+- [ ] B) has already started <!-- feedback: Incorrect. Present perfect is not the best match with the past reference. -->
 - [x] C) had already started <!-- feedback: Correct. Past perfect marks an action completed before another past action. -->
-- [ ] D) was already starting yesterday <!-- feedback: The structure is awkward and inaccurate here. -->
+- [ ] D) was already starting yesterday <!-- feedback: Incorrect. The structure is awkward and inaccurate here. -->
 
 ### Explicación Pedagógica
 Past perfect helps order two actions that both happened in the past.
@@ -263,10 +263,10 @@ Past perfect helps order two actions that both happened in the past.
 Select the correct option: "Neither the teachers nor the principal ______ available this morning."
 
 ### Options
-- [ ] A) were <!-- feedback: The subject nearest the verb is singular. -->
+- [ ] A) were <!-- feedback: Incorrect. The subject nearest the verb is singular. -->
 - [x] B) was <!-- feedback: Correct. In this structure, the verb agrees with "the principal". -->
-- [ ] C) are <!-- feedback: The time marker points to the past, not the present. -->
-- [ ] D) have been <!-- feedback: The sentence requires a simpler past form. -->
+- [ ] C) are <!-- feedback: Incorrect. The time marker points to the past, not the present. -->
+- [ ] D) have been <!-- feedback: Incorrect. The sentence requires a simpler past form. -->
 
 ### Explicación Pedagógica
 With `neither...nor`, verb agreement often follows the subject closest to the verb.
@@ -287,10 +287,10 @@ Read the short text:
 Which statement best summarizes the debate?
 
 ### Options
-- [ ] A) Everyone agrees that car travel should be banned. <!-- feedback: The text does not state that. -->
-- [ ] B) The redesign has no effect on pollution or safety. <!-- feedback: That contradicts the supporters' argument. -->
+- [ ] A) Everyone agrees that car travel should be banned. <!-- feedback: Incorrect. The text does not state that. -->
+- [ ] B) The redesign has no effect on pollution or safety. <!-- feedback: Incorrect. That contradicts the supporters' argument. -->
 - [x] C) The changes may improve safety and the environment, but some people worry about traffic flow. <!-- feedback: Correct. It includes both perspectives. -->
-- [ ] D) Cyclists reject street redesign in every city. <!-- feedback: This is not supported by the passage. -->
+- [ ] D) Cyclists reject street redesign in every city. <!-- feedback: Incorrect. This is not supported by the passage. -->
 
 ### Explicación Pedagógica
 The correct answer captures the contrast between the two sides of the argument.
@@ -307,10 +307,10 @@ The correct answer captures the contrast between the two sides of the argument.
 Why does the author include the critics' perspective?
 
 ### Options
-- [ ] A) To prove that redesign plans always fail. <!-- feedback: The author does not conclude that. -->
-- [ ] B) To change the topic from safety to tourism. <!-- feedback: The text stays on urban mobility. -->
+- [ ] A) To prove that redesign plans always fail. <!-- feedback: Incorrect. The author does not conclude that. -->
+- [ ] B) To change the topic from safety to tourism. <!-- feedback: Incorrect. The text stays on urban mobility. -->
 - [x] C) To show that the policy has trade-offs and not only benefits. <!-- feedback: Correct. The text presents a balanced debate. -->
-- [ ] D) To argue that pollution is irrelevant in cities. <!-- feedback: This idea is absent from the passage. -->
+- [ ] D) To argue that pollution is irrelevant in cities. <!-- feedback: Incorrect. This idea is absent from the passage. -->
 
 ### Explicación Pedagógica
 Writers often include contrasting voices to show complexity and balance.
@@ -327,10 +327,10 @@ Writers often include contrasting voices to show complexity and balance.
 Choose the most accurate sentence.
 
 ### Options
-- [ ] A) She suggested to go earlier to avoid traffic. <!-- feedback: After "suggested", this pattern is incomplete here. -->
+- [ ] A) She suggested to go earlier to avoid traffic. <!-- feedback: Incorrect. After "suggested", this pattern is incomplete here. -->
 - [x] B) She suggested going earlier to avoid traffic. <!-- feedback: Correct. "Suggest" is naturally followed by a gerund in this structure. -->
-- [ ] C) She suggested that go earlier to avoid traffic. <!-- feedback: The clause structure is incorrect. -->
-- [ ] D) She suggested went earlier to avoid traffic. <!-- feedback: The verb form is not grammatical. -->
+- [ ] C) She suggested that go earlier to avoid traffic. <!-- feedback: Incorrect. The clause structure is incorrect. -->
+- [ ] D) She suggested went earlier to avoid traffic. <!-- feedback: Incorrect. The verb form is not grammatical. -->
 
 ### Explicación Pedagógica
 Verb patterns matter: `suggest` is commonly followed by `-ing` or a full clause.
@@ -348,10 +348,10 @@ Choose the best completion:
 "The report was so ______ that even non-specialists could understand the results."
 
 ### Options
-- [ ] A) obscure <!-- feedback: That means difficult to understand, which contradicts the sentence. -->
+- [ ] A) obscure <!-- feedback: Incorrect. That means difficult to understand, which contradicts the sentence. -->
 - [x] B) clear <!-- feedback: Correct. A clear report can be understood by non-specialists. -->
-- [ ] C) delayed <!-- feedback: That refers to time, not comprehension. -->
-- [ ] D) expensive <!-- feedback: Cost does not fit the meaning needed. -->
+- [ ] C) delayed <!-- feedback: Incorrect. That refers to time, not comprehension. -->
+- [ ] D) expensive <!-- feedback: Incorrect. Cost does not fit the meaning needed. -->
 
 ### Explicación Pedagógica
 The sentence requires an adjective that matches the idea of easy understanding.
@@ -372,10 +372,10 @@ Read the short text:
 What assumption do both sides share?
 
 ### Options
-- [ ] A) Creativity should be removed from education. <!-- feedback: Neither side argues that. -->
+- [ ] A) Creativity should be removed from education. <!-- feedback: Incorrect. Neither side argues that. -->
 - [x] B) Assessment methods influence how student learning is judged. <!-- feedback: Correct. Both sides discuss how evaluation works. -->
-- [ ] C) Portfolios are easier to score than any exam. <!-- feedback: Critics suggest the opposite may happen. -->
-- [ ] D) Traditional exams are always unfair. <!-- feedback: This is not stated by both sides. -->
+- [ ] C) Portfolios are easier to score than any exam. <!-- feedback: Incorrect. Critics suggest the opposite may happen. -->
+- [ ] D) Traditional exams are always unfair. <!-- feedback: Incorrect. This is not stated by both sides. -->
 
 ### Explicación Pedagógica
 Advanced reading may ask for common ground, not just explicit disagreement.
@@ -392,10 +392,10 @@ Advanced reading may ask for common ground, not just explicit disagreement.
 Choose the sentence with the best formal register for an academic email.
 
 ### Options
-- [ ] A) Hey teacher, I need the file ASAP. <!-- feedback: The register is too informal. -->
-- [ ] B) Send me the document when you can. <!-- feedback: This is understandable but not the most formal option. -->
+- [ ] A) Hey teacher, I need the file ASAP. <!-- feedback: Incorrect. The register is too informal. -->
+- [ ] B) Send me the document when you can. <!-- feedback: Incorrect. This is understandable but not the most formal option. -->
 - [x] C) Could you please share the document at your earliest convenience? <!-- feedback: Correct. The wording is polite and suitably formal. -->
-- [ ] D) I want the document right now, thanks. <!-- feedback: The tone is too direct and inappropriate. -->
+- [ ] D) I want the document right now, thanks. <!-- feedback: Incorrect. The tone is too direct and inappropriate. -->
 
 ### Explicación Pedagógica
 Pragmatic competence includes choosing language that fits context and relationship.
@@ -416,10 +416,10 @@ Read the short text:
 Which conclusion is most justified by the text?
 
 ### Options
-- [ ] A) The city should reject the proposal because public transport never improves health. <!-- feedback: That contradicts the officials' argument. -->
-- [ ] B) The plan has only economic benefits and no environmental value. <!-- feedback: The text explicitly mentions emissions and health. -->
+- [ ] A) The city should reject the proposal because public transport never improves health. <!-- feedback: Incorrect. That contradicts the officials' argument. -->
+- [ ] B) The plan has only economic benefits and no environmental value. <!-- feedback: Incorrect. The text explicitly mentions emissions and health. -->
 - [x] C) The proposal offers long-term environmental advantages, but its implementation depends on solving practical and financial concerns. <!-- feedback: Correct. It integrates both support and concern. -->
-- [ ] D) Residents oppose every form of technological change in public transport. <!-- feedback: The text says some residents support the plan. -->
+- [ ] D) Residents oppose every form of technological change in public transport. <!-- feedback: Incorrect. The text says some residents support the plan. -->
 
 ### Explicación Pedagógica
 The strongest conclusion uses all the relevant evidence without exaggeration.
@@ -437,10 +437,10 @@ Which sentence best completes the paragraph?
 "Students often believe that learning a language means memorizing long word lists. ______, real progress usually depends on using words in meaningful contexts."
 
 ### Options
-- [ ] A) For example <!-- feedback: This would introduce an illustration, not a contrast. -->
-- [ ] B) Similarly <!-- feedback: The relation is contrastive, not parallel. -->
+- [ ] A) For example <!-- feedback: Incorrect. This would introduce an illustration, not a contrast. -->
+- [ ] B) Similarly <!-- feedback: Incorrect. The relation is contrastive, not parallel. -->
 - [x] C) However <!-- feedback: Correct. It contrasts a common belief with the author's view. -->
-- [ ] D) Therefore <!-- feedback: The second sentence is not a result of the first; it challenges it. -->
+- [ ] D) Therefore <!-- feedback: Incorrect. The second sentence is not a result of the first; it challenges it. -->
 
 ### Explicación Pedagógica
 Discourse markers organize meaning. Here the paragraph needs a contrastive connector.
