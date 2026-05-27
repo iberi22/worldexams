@@ -1,102 +1,132 @@
-#!/usr/bin/env pwsh
+#Requires -Version 7.2
 <#
 .SYNOPSIS
-    WorldExams Dev Deploy — Build + Preview local para testing
+  Dev deploy script for BELA (Belal) to test WorldExams changes locally.
+
 .DESCRIPTION
-    Prepara y levanta el entorno de desarrollo para probar cambios localmente.
-    Usa variables de entorno separadas de production.
-.PARAMETER Clean
-    Elimina node_modules y hace fresh install antes de build
-.PARAMETER BuildOnly
-    Solo build, no inicia dev server
+  - Verifies the working tree is clean (no uncommitted changes).
+  - Builds saberparatodos (Astro + Cloudflare Worker).
+  - Starts a local preview server, OR deploys to a Cloudflare preview Worker.
+  - Uses development env variables (never production routes or secrets).
+  - Opens the browser automatically when possible.
+
+.PARAMETER Target
+  'local'  => `astro preview` after build (default).
+  'preview'=> Deploy to Cloudflare Workers preview env.
+
+.PARAMETER Force
+  Skip the clean-working-tree check.
+
 .PARAMETER Port
-    Puerto para el preview server (default: 4321)
+  Port for local preview (default 4321).
+
 .EXAMPLE
-    ./scripts/dev-deploy.ps1
-    ./scripts/dev-deploy.ps1 -Clean
-    ./scripts/dev-deploy.ps1 -BuildOnly
+  .\scripts\dev-deploy.ps1
+  .\scripts\dev-deploy.ps1 -Target preview
+  .\scripts\dev-deploy.ps1 -Target local -Port 3000
 #>
 
 param(
-    [switch]$Clean,
-    [switch]$BuildOnly,
-    [int]$Port = 4321
+  [ValidateSet('local','preview')]
+  [string]$Target = 'local',
+  [switch]$Force,
+  [int]$Port = 4321
 )
 
-$ROOT = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
-$SABERPARATODOS = Join-Path $ROOT "saberparatodos"
-$DEV_ENV = Join-Path $ROOT ".env.development"
+$ErrorActionPreference = 'Stop'
+$repoRoot = Split-Path -Parent $PSScriptRoot
+Set-Location $repoRoot
 
-Write-Host "⚡ WorldExams Dev Deploy" -ForegroundColor Cyan
-Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Cyan
+$devTag = "dev-$(git rev-parse --short HEAD)"
+$branch = (git rev-parse --abbrev-ref HEAD).Trim()
 
-# ── Step 0: Validate ───────────────────────────────────────────
-Write-Host "`n📋 Step 0: Validating..." -ForegroundColor Yellow
+# ---------------------------------------------------------------------------
+# 1. Verify clean working tree
+# ---------------------------------------------------------------------------
+Write-Host "[dev-deploy] Branch: $branch | Tag: $devTag" -ForegroundColor Cyan
 
-# Check for uncommitted changes
-$status = git -C $ROOT status --porcelain
-if ($status) {
-    Write-Host "  ⚠️  Uncommitted changes detected:" -ForegroundColor Yellow
-    $status | ForEach-Object { Write-Host "     $_" -ForegroundColor Gray }
-    $choice = Read-Host "  Continue anyway? (y/N)"
-    if ($choice -ne "y") {
-        Write-Host "  ❌ Aborted. Commit or stash your changes first." -ForegroundColor Red
-        exit 1
+$dirty = [bool](git status --porcelain)
+if ($dirty -and -not $Force) {
+  Write-Host '[dev-deploy] ERROR: Uncommitted changes detected.' -ForegroundColor Red
+  Write-Host '             Commit or stash before deploying, or use -Force.' -ForegroundColor Yellow
+  git status --short
+  exit 1
+}
+if ($dirty -and $Force) {
+  Write-Host '[dev-deploy] WARNING: Working tree is dirty, but -Force is set.' -ForegroundColor Yellow
+}
+
+# ---------------------------------------------------------------------------
+# 2. Build saberparatodos
+# ---------------------------------------------------------------------------
+Write-Host '[dev-deploy] Building saberparatodos...' -ForegroundColor Cyan
+npm run build:saberparatodos
+if ($LASTEXITCODE -ne 0) { throw '[dev-deploy] Build failed.' }
+Write-Host '[dev-deploy] Build OK.' -ForegroundColor Green
+
+# ---------------------------------------------------------------------------
+# 3. Choose env vars
+# ---------------------------------------------------------------------------
+$envFile = Join-Path $repoRoot 'saberparatodos' '.env.development'
+
+if ($Target -eq 'local') {
+  # -------------------------------------------------------------------------
+  # LOCAL PREVIEW (astro preview)
+  # -------------------------------------------------------------------------
+  Write-Host "[dev-deploy] Starting LOCAL preview on port $Port..." -ForegroundColor Cyan
+
+  # Astro picks up .env.development automatically in dev mode,
+  # but `preview` uses .env.production by default. We force dev env inline.
+  $env:PUBLIC_SITE_URL = "http://localhost:$Port"
+  $env:PUBLIC_API_BASE_URL = "http://localhost:$Port/api"
+
+  if (Test-Path $envFile) {
+    Get-Content $envFile | ForEach-Object {
+      if ($_ -match '^([A-Z_]+)=(.*)$') {
+        $varName = $matches[1]
+        $varValue = $matches[2]
+        if (-not [Environment]::GetEnvironmentVariable($varName)) {
+          [Environment]::SetEnvironmentVariable($varName, $varValue)
+        }
+      }
     }
+    Write-Host '[dev-deploy] Loaded .env.development overrides.' -ForegroundColor Gray
+  }
+
+  Set-Location (Join-Path $repoRoot 'saberparatodos')
+  npm run preview -- --port $Port
 }
+else {
+  # -------------------------------------------------------------------------
+  # CLOUDFLARE PREVIEW DEPLOY
+  # -------------------------------------------------------------------------
+  Write-Host '[dev-deploy] Deploying to Cloudflare PREVIEW worker...' -ForegroundColor Cyan
 
-# ── Step 1: Clean install ──────────────────────────────────────
-if ($Clean) {
-    Write-Host "`n🧹 Step 1: Clean install..." -ForegroundColor Yellow
-    if (Test-Path (Join-Path $SABERPARATODOS "node_modules")) {
-        Remove-Item -Recurse -Force (Join-Path $SABERPARATODOS "node_modules")
-        Write-Host "  ✅ Removed node_modules"
-    }
-    Remove-Item -Recurse -Force (Join-Path $SABERPARATODOS "dist") -ErrorAction SilentlyContinue
+  $projectName = "saberparatodos-dev-$($branch -replace '[^a-zA-Z0-9]','-')"
+  $workersDevSubdomain = $env:CLOUDFLARE_WORKERS_SUBDOMAIN
+  if (-not $workersDevSubdomain) {
+    $workersDevSubdomain = Read-Host '[dev-deploy] Enter your Cloudflare Workers subdomain (e.g. your-account)'
+  }
+  $previewUrl = "https://$projectName.$workersDevSubdomain.workers.dev"
+
+  Write-Host "[dev-deploy] Preview URL: $previewUrl" -ForegroundColor Cyan
+
+  Set-Location (Join-Path $repoRoot 'saberparatodos')
+
+  # Normalize wrangler for preview
+  node scripts/normalize-wrangler-config.mjs --target preview --public-site-url $previewUrl --name $projectName
+  if ($LASTEXITCODE -ne 0) { throw '[dev-deploy] Wrangler config normalization failed.' }
+
+  # Inject preview env vars inline so production secrets are never used
+  $env:PUBLIC_SITE_URL = $previewUrl
+  $env:PUBLIC_API_BASE_URL = "$previewUrl/api"
+
+  npx wrangler deploy --config dist/server/wrangler.json --name=$projectName --env preview
+  if ($LASTEXITCODE -ne 0) { throw '[dev-deploy] Wrangler deploy failed.' }
+
+  Write-Host "[dev-deploy] Preview deployed!" -ForegroundColor Green
+  Write-Host "             URL: $previewUrl" -ForegroundColor Green
+
+  # Try to open browser
+  try { Start-Process $previewUrl } catch { Write-Host '[dev-deploy] (Browser open failed — open manually)' -ForegroundColor Yellow }
 }
-
-Write-Host "`n📦 Step 1: Installing dependencies..." -ForegroundColor Yellow
-Set-Location $ROOT
-npm install 2>&1 | Out-Null
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "  ❌ npm install failed" -ForegroundColor Red
-    exit 1
-}
-Write-Host "  ✅ Dependencies installed"
-
-# ── Step 2: Generate build info ─────────────────────────────────
-Write-Host "`n🔧 Step 2: Generating build info..." -ForegroundColor Yellow
-Set-Location $SABERPARATODOS
-node scripts/generate-build-info.js 2>&1 | Out-Null
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "  ⚠️  generate-build-info had warnings, continuing..." -ForegroundColor Yellow
-} else {
-    Write-Host "  ✅ Build info generated"
-}
-
-node scripts/generate-static-packs.js 2>&1 | Out-Null
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "  ✅ Static packs generated"
-}
-
-# ── Step 3: Build ───────────────────────────────────────────────
-Write-Host "`n🏗️  Step 3: Building saberparatodos..." -ForegroundColor Yellow
-npx astro build 2>&1 | Out-Null
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "  ❌ Build failed! Check errors above." -ForegroundColor Red
-    exit 1
-}
-Write-Host "  ✅ Build successful"
-
-# ── Step 4: Dev Server or Preview ─────────────────────────────
-if ($BuildOnly) {
-    Write-Host "`n✅ Dev deploy complete (build only)." -ForegroundColor Green
-    Write-Host "   Artifacts in: $SABERPARATODOS/dist/"
-    exit 0
-}
-
-Write-Host "`n🚀 Step 4: Starting preview server on port $Port..." -ForegroundColor Yellow
-Write-Host "   Open: http://localhost:$Port" -ForegroundColor Green
-Write-Host "   Press Ctrl+C to stop.`n" -ForegroundColor Gray
-
-npx astro preview --port $Port
