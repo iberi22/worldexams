@@ -1,4 +1,4 @@
-name: 🔒 Security Scans
+name: Security Scans
 
 on:
   # DISABLED: Account billing limits exceeded (2026-03).
@@ -24,12 +24,12 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: 📥 Checkout
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: 🔍 Run Gitleaks
+      - name: Run Gitleaks
         uses: gitleaks/gitleaks-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -44,10 +44,10 @@ jobs:
       contents: read
       actions: read
     steps:
-      - name: 📥 Checkout
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 🔒 Audit dependencies (saberparatodos)
+      - name: Audit dependencies (saberparatodos)
         uses: actions/dependency-review-action@v4
         with:
           directory: ./saberparatodos
@@ -59,10 +59,10 @@ jobs:
       contents: read
       security-events: write
     steps:
-      - name: 📥 Checkout
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 🔍 Run Trivy vulnerability scanner
+      - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@master
         with:
           scan-type: 'fs'
@@ -72,7 +72,7 @@ jobs:
           severity: 'CRITICAL,HIGH'
           exit-code: '0'
 
-      - name: 📤 Upload Trivy results to GitHub Security
+      - name: Upload Trivy results to GitHub Security
         uses: github/codeql-action/upload-sarif@v3
         if: always()
         with:
