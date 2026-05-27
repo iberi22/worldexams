@@ -7,7 +7,6 @@ const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals
 const preuCatalogEntries = getPreuCatalogEntries(countryConfig.code);
 const preuMethodologySources = getPreuMethodologySources(countryConfig.code);
 const preuEnabled = isPreuRuntimeEnabled(countryConfig.code);
-const isCO = countryConfig.code === 'CO';
 const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;
 
 const statusSummary = {
@@ -48,7 +47,7 @@ const schema = {
           <p class="text-lg md:text-xl text-white/65 max-w-3xl leading-relaxed">
             {preuEnabled ? (
               <>
-                Este modulo separa investigacion institucional, calendario 2026 y banco de reactivos <strong class="text-white">v4+</strong>.
+                Este modulo separa investigacion institucional, calendario {countryConfig.product.guideYear} y banco de reactivos <strong class="text-white">v4+</strong>.
                 El objetivo actual es llegar a <strong class="text-white">10 universidades</strong> trazables por fuente oficial, con un mock troncal por institucion y overlays por carrera como capa posterior, no dentro del conteo principal.
               </>
             ) : (
@@ -333,7 +332,7 @@ const schema = {
 
         <div class="glass rounded-[1.75rem] p-8">
           <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Estado del modulo</p>
-          {preuEnabled && countryConfig.features.preuniversitario && isCO ? (
+          {preuEnabled && countryConfig.features.preuniversitario ? (
             <>
               <h2 class="text-2xl font-black mb-4">Corte implementado</h2>
               <ul class="space-y-3 text-sm text-white/70 leading-relaxed">
