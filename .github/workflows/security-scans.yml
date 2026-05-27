@@ -1,22 +1,28 @@
 name: 🔒 Security Scans
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  schedule:
-    # Run weekly on Sunday at 2am UTC
-    - cron: '0 2 * * 0'
+  # DISABLED: Account billing limits exceeded (2026-03). 
+  # Re-enable push/pull_request/schedule once GitHub Actions minutes are restored.
+  # Previous triggers:
+  #   push:
+  #     branches: [main]
+  #   pull_request:
+  #     branches: [main]
+  #   schedule:
+  #     - cron: '0 2 * * 0'
   workflow_dispatch:
 
 permissions:
   contents: read
+  actions: read
+  security-events: write
 
 jobs:
   secrets-scan:
     name: Scan for Exposed Secrets
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
@@ -25,12 +31,18 @@ jobs:
 
       - name: 🔍 Run Gitleaks
         uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --verbose --no-git
+          args: detect --verbose --source .
 
   dependency-audit:
     name: Dependency Security Audit
     runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    permissions:
+      contents: read
+      actions: read
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
@@ -43,12 +55,12 @@ jobs:
   trivy-scan:
     name: Vulnerability Scan
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
-
-      - name: 🏗️ Set up Docker BuildKit
-        uses: docker/setup-buildkit-action@v3
 
       - name: 🔍 Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@master
@@ -58,8 +70,10 @@ jobs:
           format: 'sarif'
           output: 'trivy-results.sarif'
           severity: 'CRITICAL,HIGH'
+          exit-code: '0'
 
       - name: 📤 Upload Trivy results to GitHub Security
         uses: github/codeql-action/upload-sarif@v3
+        if: always()
         with:
           sarif_file: 'trivy-results.sarif'

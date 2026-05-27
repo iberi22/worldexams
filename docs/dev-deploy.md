@@ -1,87 +1,123 @@
-# WorldExams — Dev Deploy Guide
+# Dev Deploy — Probar cambios localmente (BELA)
 
-## Prerrequisitos
+Este documento explica cómo ejecutar un **deploy de desarrollo** para probar los cambios más recientes de `saberparatodos` sin tocar producción.
 
-- Node.js >= 20
-- npm
-- PowerShell 7+
-- Variables de entorno configuradas
+---
 
-## Dev Deploy Rápido
+## Requisitos
+
+- Node.js ≥ 20 (recomendado 22 LTS)
+- npm ≥ 10
+- PowerShell ≥ 7.2 (Windows) o `pwsh`
+- Cloudflare `wrangler` CLI (solo si haces deploy a preview remoto)
+
+---
+
+## Modos de deploy
+
+| Modo | Comando | Qué hace |
+|------|---------|----------|
+| **Local** (default) | `.\scripts\dev-deploy.ps1` | Build + `astro preview` en `http://localhost:4321` |
+| **Preview remoto** | `.\scripts\dev-deploy.ps1 -Target preview` | Build + deploy a Workers dev con subdominio temporal |
+
+---
+
+### 1. Deploy local (recomendado para iteración rápida)
 
 ```powershell
-cd E:\scripts-python\worldexams
+# Desde la raíz del repo (E:\scripts-python\worldexams)
 .\scripts\dev-deploy.ps1
 ```
 
-Esto hará:
-1. Verificar cambios sin commit
-2. Instalar dependencias
-3. Generar build info
-4. Build de saberparatodos
-5. Iniciar preview server en `http://localhost:4321`
+El script:
+1. Verifica que no haya cambios sin commit (o usa `-Force` para saltarlo).
+2. Corre `npm run build:saberparatodos`.
+3. Levanta `astro preview` en `http://localhost:4321` con variables de entorno de **desarrollo** (`.env.development`).
 
-## Opciones
+> **No usa variables de producción.** `PUBLIC_SITE_URL` apunta a `localhost` y las credenciales de Supabase son las de dev (compartidas, read-only).
 
-### Build only (sin preview server)
+#### Probar después de levantar
+
+Abre en navegador:
+- **Home:** `http://localhost:4321`
+- **Guía Colombia:** `http://localhost:4321/guia-examen?country=co`
+- **API local:** `http://localhost:4321/api/questions?country=co&exam=saber11&grade=11&subject=matematicas&page=1`
+
+Para detener: `Ctrl + C` en la terminal.
+
+---
+
+### 2. Deploy a Cloudflare Preview (para compartir URL)
+
 ```powershell
-.\scripts\dev-deploy.ps1 -BuildOnly
+.\scripts\dev-deploy.ps1 -Target preview
 ```
 
-### Clean install + deploy
-```powershell
-.\scripts\dev-deploy.ps1 -Clean
+Te pedirá tu **subdominio de Cloudflare Workers** (ej: `tu-cuenta`) y generará una URL como:
+
+```
+https://saberparatodos-dev-main.tu-cuenta.workers.dev
 ```
 
-### Puerto personalizado
+Este worker usa:
+- `workers_dev = true` (sin rutas de producción).
+- Variables de entorno de preview, no las de producción.
+- Un nombre de proyecto único basado en la rama Git.
+
+> **Nunca toca** `saberparatodos.space` ni rutas de producción.
+
+---
+
+## Variables de entorno de desarrollo
+
+Las variables se cargan desde `saberparatodos/.env.development`:
+
+| Variable | Valor dev |
+|----------|-----------|
+| `PUBLIC_SITE_URL` | `http://localhost:4321` |
+| `PUBLIC_API_BASE_URL` | `http://localhost:4321/api` |
+| `PUBLIC_SUPABASE_URL` | *(misma que prod, read-only dev DB)* |
+| `PUBLIC_SUPABASE_ANON_KEY` | *(misma que prod, read-only dev DB)* |
+
+> Si necesitas apuntar a otra instancia de Supabase para dev, edita `saberparatodos/.env.development` pero **no lo commiteeas** con secretos reales.
+
+---
+
+## Solución de problemas
+
+### "Uncommitted changes detected"
+Haz commit o stash de tus cambios antes de correr el script, o usa:
+```powershell
+.\scripts\dev-deploy.ps1 -Force
+```
+
+### Build falla
+```powershell
+# Limpieza completa
+npm ci
+npm run build:saberparatodos
+```
+
+### Puerto ocupado
 ```powershell
 .\scripts\dev-deploy.ps1 -Port 3000
 ```
 
-## Variables de Entorno
-
-Para dev, usa `.env.development` (no tocar `.env` de production):
-
-```
-PUBLIC_SITE_URL=http://localhost:4321
-PUBLIC_API_URL=http://localhost:8788
-SUPABASE_URL=...
-SUPABASE_ANON_KEY=...
-```
-
-## Estructura de Archivos
-
-```
-saberparatodos/
-├── dist/           ← Build output
-├── public/         ← Static assets
-└── src/            ← Source code
-```
-
-## Testing Local
-
-Después del dev deploy:
-
-1. Abrir `http://localhost:4321`
-2. Probar con `?country=co` (Colombia/ICFES)
-3. Probar con `?country=mx` (México/EXANI)
-4. Probar con `?country=cl` (Chile/PAES)
-5. Probar `/guia-examen?country=...`
-6. Probar `/api/questions?country=...&exam=...&grade=...&subject=...`
-
-## Troubleshooting
-
-### Build falla por node_modules corruptos
+### Wrangler no está logueado
 ```powershell
-.\scripts\dev-deploy.ps1 -Clean
+npx wrangler login
 ```
 
-### Error de wrangler config
-Correr normalize manual:
-```powershell
-cd saberparatodos
-node scripts/normalize-wrangler-config.mjs --target preview
-```
+---
 
-### Preview server no responde
-Verificar que el build fue exitoso y que `dist/` existe.
+## Flujo recomendado para BELA
+
+1. Hacer cambios en `saberparatodos/src/...`
+2. Commit: `git add -A && git commit -m "feat: ..."`
+3. Correr: `.\scripts\dev-deploy.ps1`
+4. Probar en `http://localhost:4321`
+5. Si todo OK → `git push` y abrir PR.
+
+---
+
+*Última actualización: 2026-05-26*
