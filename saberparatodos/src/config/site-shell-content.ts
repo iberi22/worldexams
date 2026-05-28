@@ -202,7 +202,7 @@ const localizedContent: Partial<Record<RuntimeCountryConfig['code'], SiteShellCo
     preparacion: {
       heroIntro: 'Desde la inscripcion oficial hasta tu primera sesion de simulacro para ICFES Saber.',
       step1Title: 'Confirma tu calendario',
-      step1Description: 'Verifica las fechas oficiales, el tipo de registro y la ruta vigente publicada por ICFES antes de pagar o diligenciar formularios.',
+      step1Description: 'Verifica las fechas oficiales, el tipo de registro y la ruta vigente publicada por el ICFES antes de pagar o diligenciar formularios.',
       step2Title: 'Registro oficial',
       step2Description: 'Confirma que nombres, documento y datos socioeconomicos coincidan exactamente con tus documentos oficiales.',
       planOfficialNote: 'La fuente oficial del ICFES prevalece sobre cualquier resumen interno de este runtime.'
