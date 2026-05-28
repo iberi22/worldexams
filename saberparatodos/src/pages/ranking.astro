@@ -4,9 +4,10 @@ import LeaderboardView from '../components/LeaderboardView.svelte';
 import IdentityRegistration from '../components/IdentityRegistration.svelte';
 import TenantRouteNotice from '../components/TenantRouteNotice.astro';
 import { resolveRuntimeCountryConfig } from '../config';
-import { getTenantRouteAvailability } from '../config/tenant-experience';
+import { getTenantRouteAvailability, getTenantExperience } from '../config/tenant-experience';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const tenantExperience = getTenantExperience(country);
 const availability = getTenantRouteAvailability(country, 'ranking');
 
 let stats = {
@@ -36,8 +37,8 @@ if (country.code === 'CO') {
 ---
 
 <Layout
-  title={`Ranking | ${country.product.siteName}`}
-  description={`Ranking y hall of fame del tenant ${country.name}.`}
+  title={`${tenantExperience.rankingTitle} | ${country.product.siteName}`}
+  description={`Ranking y hall of fame del tenant ${country.name}. ${tenantExperience.rankingDescription}`}
 >
   <div class="min-h-screen bg-[#121212]">
     {country.code === 'CO' ? (
@@ -47,9 +48,9 @@ if (country.code === 'CO') {
             <a href="/" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
               ← Volver al inicio
             </a>
-            <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Ranking {country.name}</h1>
+            <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">{tenantExperience.rankingTitle}</h1>
             <p class="text-white/60 mt-2 text-sm">
-              Los mejores estudiantes practicando para rutas activas de {country.examName}.
+              {tenantExperience.rankingDescription}
             </p>
 
             <div class="mt-4 flex flex-wrap gap-4 text-xs">
