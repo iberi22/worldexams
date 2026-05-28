@@ -159,7 +159,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
         title: 'Saber 3',
         description: 'Seguimiento temprano de aprendizajes base en primaria.',
         subjects: ['Matematicas', 'Lenguaje'],
-        duration: 'Convocatoria oficial',
+        duration: 'Sesion oficial',
         questions: '80 a 100 reactivos aproximados',
       },
       {
@@ -183,7 +183,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
         title: 'Saber 9',
         description: 'Evaluacion de cierre de basica secundaria.',
         subjects: ['Matematicas', 'Lenguaje', 'Ciencias', 'Habilidades Ciudadanas'],
-        duration: 'Convocatoria ICFES',
+        duration: 'Sesion oficial',
         questions: 'Consulta oficial vigente',
       },
       {
