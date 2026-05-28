@@ -854,7 +854,7 @@
             <span class="text-white/20">|</span>
             <span class="text-emerald-500/70" title="Git commit">{buildInfo.commit?.substring(0, 7) || '?'}</span>
             <span class="text-white/20">|</span>
-            <span class="text-white/50">{new Date(buildInfo.timestamp).toLocaleDateString('es-CO', { month: 'short', day: 'numeric' })}</span>
+            <span class="text-white/50">{new Date(buildInfo.timestamp).toLocaleDateString(runtimeCountry.locale, { month: 'short', day: 'numeric' })}</span>
           {/if}
         </div>
 
@@ -1016,10 +1016,13 @@
         <!-- Grade Selection Cards -->
         <div class="w-full max-w-4xl relative z-10 mt-12">
           <!-- 🆕 Period Tracker -->
-          <PeriodTracker onOpenModal={(data) => {
-            periodTrackerData = data;
-            showPeriodTrackerModal = true;
-          }} />
+          <PeriodTracker
+            runtimeCountry={runtimeCountry}
+            onOpenModal={(data) => {
+              periodTrackerData = data;
+              showPeriodTrackerModal = true;
+            }}
+          />
 
           <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">
             {tenantExperience.gradeSectionTitle}
@@ -1469,6 +1472,7 @@
   {#if showPeriodTrackerModal && periodTrackerData}
     <PeriodTrackerModal
       {...periodTrackerData}
+      runtimeCountry={runtimeCountry}
       onClose={() => showPeriodTrackerModal = false}
     />
   {/if}

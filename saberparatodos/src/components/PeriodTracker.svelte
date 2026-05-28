@@ -3,37 +3,43 @@
   import { fade, fly } from 'svelte/transition';
 
   // State
-  let { onOpenModal } = $props();
+  let { onOpenModal, runtimeCountry } = $props();
   let today = new Date();
 
-  // Constants (Approximate Standard Calendar A)
   // We use current year dynamically
   const currentYear = today.getFullYear();
 
-  // Define Periods for current year (Approximate logic)
-  const PERIODS = [
-    { id: 1, start: new Date(currentYear, 1, 3), end: new Date(currentYear, 3, 11), name: '1er Periodo' },
-    { id: 2, start: new Date(currentYear, 3, 14), end: new Date(currentYear, 5, 13), name: '2do Periodo' },
-    { id: 3, start: new Date(currentYear, 6, 7), end: new Date(currentYear, 8, 12), name: '3er Periodo' },
-    { id: 4, start: new Date(currentYear, 8, 15), end: new Date(currentYear, 10, 28), name: '4to Periodo' }
-  ];
+  // Early return if no schedules
+  if (!runtimeCountry?.schedules) {
+    // Component will render nothing if no schedules are defined
+  }
+
+  const schedules = runtimeCountry?.schedules;
+
+  // Define Periods for current year
+  const PERIODS = schedules?.periods.map(p => ({
+    id: p.id,
+    name: p.name,
+    start: new Date(currentYear, p.startMonth - 1, p.startDay),
+    end: new Date(currentYear, p.endMonth - 1, p.endDay)
+  })) || [];
 
   // Logic to find current/next period
   let currentPeriod = PERIODS.find(p => today >= p.start && today <= p.end);
   let nextPeriod = PERIODS.find(p => today < p.start);
 
-  // Expanded Exam Dates Logic (2026)
-  const ALL_EXAMS = [
-    { id: '11B', name: 'Saber 11° (Cal. B)', date: new Date(currentYear, 2, 15), official: true },
-    { id: 'PRO', name: 'Saber Pro / TyT', date: new Date(currentYear, 3, 26), official: true },
-    { id: '11A', name: 'Saber 11° (Cal. A)', date: new Date(currentYear, 6, 26), official: true },
-    { id: '3579', name: 'Saber 3°, 5°, 7°, 9°', date: new Date(currentYear, 9, 15), official: false }
-  ];
+  // Expanded Exam Dates Logic
+  const ALL_EXAMS = schedules?.exams.map(e => ({
+    id: e.id,
+    name: e.name,
+    date: new Date(currentYear, e.month - 1, e.day),
+    official: e.official
+  })) || [];
 
   // Logic to find the NEXT upcoming exam
   let nextExam = $state(
     ALL_EXAMS.find(e => today <= e.date) ??
-    { ...ALL_EXAMS[0], date: new Date(currentYear + 1, 2, 15) }
+    (ALL_EXAMS.length > 0 ? { ...ALL_EXAMS[0], date: new Date(currentYear + 1, ALL_EXAMS[0].date.getMonth(), ALL_EXAMS[0].date.getDate()) } : null)
   );
 
   // Calculate days remaining
@@ -67,6 +73,7 @@
 
 </script>
 
+{#if schedules}
 <div class="mb-8 w-full max-w-lg mx-auto">
   <FlashlightCard
     className="p-4 flex flex-col sm:flex-row items-center justify-center sm:justify-between gap-4 border-emerald-500/20 bg-emerald-900/10 hover:border-emerald-500/40 transition-all duration-300"
@@ -92,6 +99,7 @@
      <div class="w-16 h-px bg-white/10 my-1 sm:hidden"></div>
 
      <!-- Right: Exam Tracker -->
+     {#if nextExam}
      <div class="flex items-center gap-3 sm:pr-2 text-center sm:text-right">
         <div class="flex flex-col items-center sm:items-end order-2 sm:order-1">
             <span class="text-[10px] font-bold uppercase tracking-widest text-blue-400">
@@ -105,5 +113,7 @@
             🎓
         </div>
      </div>
+     {/if}
   </FlashlightCard>
 </div>
+{/if}

@@ -1,7 +1,10 @@
 <script>
   import { fade, fly } from 'svelte/transition';
 
-  let { onClose, today, PERIODS, ALL_EXAMS, nextExam } = $props();
+  let { onClose, today, PERIODS, ALL_EXAMS, nextExam, runtimeCountry } = $props();
+
+  const schedules = runtimeCountry?.schedules;
+  const calendarTypeLabel = schedules?.calendarType === 'A' ? 'Calendario A' : (schedules?.calendarType === 'B' ? 'Calendario B' : '');
 
 </script>
 
@@ -43,14 +46,14 @@
                                   {period.name}
                               </span>
                               <span class="text-[10px] text-white/30 font-mono">
-                                  {period.start.toLocaleDateString('es-CO', {day: 'numeric', month: 'short'})} - {period.end.toLocaleDateString('es-CO', {day: 'numeric', month: 'short'})}
+                                  {period.start.toLocaleDateString(runtimeCountry?.locale || 'es-CO', {day: 'numeric', month: 'short'})} - {period.end.toLocaleDateString(runtimeCountry?.locale || 'es-CO', {day: 'numeric', month: 'short'})}
                               </span>
                           </div>
                       </div>
                   {/each}
               </div>
               <p class="text-[9px] text-white/20 mt-2 italic">
-                  * Fechas aproximadas basadas en Calendario A (MinEducación Colombia).
+                  * Fechas aproximadas {#if calendarTypeLabel}basadas en {calendarTypeLabel} {/if}({runtimeCountry?.examAuthority || 'Fuente oficial'}).
               </p>
           </div>
 
@@ -61,18 +64,18 @@
               </h3>
               <div class="space-y-3">
                   {#each ALL_EXAMS as exam}
-                      <div class={`p-3 rounded-lg border flex items-center gap-3 transition-colors ${nextExam.id === exam.id ? 'bg-blue-500/10 border-blue-500/30' : 'bg-white/5 border-white/5'}`}>
-                          <div class="text-lg">{exam.id.includes('11') ? '🇨🇴' : '🎓'}</div>
+                      <div class={`p-3 rounded-lg border flex items-center gap-3 transition-colors ${nextExam?.id === exam.id ? 'bg-blue-500/10 border-blue-500/30' : 'bg-white/5 border-white/5'}`}>
+                          <div class="text-lg">{exam.id.includes('11') && runtimeCountry?.code === 'CO' ? '🇨🇴' : '🎓'}</div>
                           <div>
-                              <div class={`text-xs font-bold ${nextExam.id === exam.id ? 'text-blue-300' : 'text-white/80'}`}>
+                              <div class={`text-xs font-bold ${nextExam?.id === exam.id ? 'text-blue-300' : 'text-white/80'}`}>
                                   {exam.name}
-                                  {#if nextExam.id === exam.id}
+                                  {#if nextExam?.id === exam.id}
                                       <span class="ml-2 text-[8px] bg-blue-500/20 text-blue-400 px-1 py-0.5 rounded uppercase font-bold">Próxima</span>
                                   {/if}
                               </div>
                               <div class="text-[10px] text-white/50">
                                   {exam.official ? 'Fecha oficial:' : 'Fecha estimada:'}
-                                  <span class="text-white/80">{exam.date.toLocaleDateString('es-CO', { day: 'numeric', month: 'long' })}</span>
+                                  <span class="text-white/80">{exam.date.toLocaleDateString(runtimeCountry?.locale || 'es-CO', { day: 'numeric', month: 'long' })}</span>
                               </div>
                           </div>
                       </div>
