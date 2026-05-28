@@ -41,7 +41,7 @@ const tenantExperience = getTenantExperience(runtimeCountry);
 
         <div class="flex flex-col items-center justify-center gap-4 mt-8">
           <div class="flex items-center justify-center gap-2 text-xs font-mono text-emerald-500/50 uppercase tracking-widest animate-pulse">
-            <span>Iniciando plataforma</span>
+            <span>{tenantExperience.loadingLabel}</span>
             <span id="countdown-timer" class="text-white font-bold ml-1">4s</span>
             <span class="flex space-x-1 ml-1">
               <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
@@ -52,7 +52,7 @@ const tenantExperience = getTenantExperience(runtimeCountry);
 
           <label class="flex items-center gap-2 text-xs text-white/40 hover:text-white/80 cursor-pointer transition-colors mt-2 bg-white/5 px-3 py-1.5 rounded-full border border-white/10">
             <input type="checkbox" id="dont-show-hero" class="rounded bg-black/50 border-white/20 text-emerald-500 focus:ring-emerald-500/30">
-            <span>No volver a mostrar</span>
+            <span>{tenantExperience.dontShowHeroLabel}</span>
           </label>
         </div>
       </div>
@@ -60,7 +60,7 @@ const tenantExperience = getTenantExperience(runtimeCountry);
 
     <noscript>
       <div class="p-8 text-center bg-red-500/10 border border-red-500/20 rounded-xl my-4 mx-auto max-w-xl text-red-400">
-        Esta aplicacion requiere JavaScript para funcionar. Por favor, activalo en tu navegador para realizar tus simulacros.
+        {tenantExperience.jsRequiredNotice}
       </div>
     </noscript>
   </div>

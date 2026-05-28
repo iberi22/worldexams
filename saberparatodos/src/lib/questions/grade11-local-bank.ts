@@ -1,3 +1,4 @@
+import { countryConfig } from '../../config';
 import { isBundleQuarantined } from './quarantine-registry';
 
 type LocalBankQuestion = {
@@ -17,7 +18,7 @@ type LocalBankQuestion = {
   bundleStatus?: string;
 };
 
-const rawGrade11Bundles = import.meta.glob('../../../../questions_data/colombia/{matematicas,lectura-critica,ciencias-naturales,sociales-ciudadanas,ingles}/grado-11/**/*.md', {
+const rawGrade11Bundles = import.meta.glob('../../../../questions_data/**/*.md', {
   query: '?raw',
   import: 'default',
   eager: true,
@@ -80,10 +81,20 @@ function parseExplanation(section: string): string | undefined {
 }
 
 function normalizeSubjectFromPath(filePath: string): string {
-  if (filePath.includes('/lectura-critica/')) return 'lectura_critica';
-  if (filePath.includes('/ciencias-naturales/')) return 'ciencias_naturales';
-  if (filePath.includes('/sociales-ciudadanas/')) return 'sociales_y_ciudadanas';
-  return filePath.split('/questions_data/colombia/')[1]?.split('/')[0]?.replace(/-/g, '_') || 'unknown';
+  const parts = filePath.split('/questions_data/')[1]?.split('/');
+  if (!parts || parts.length < 2) return 'unknown';
+
+  const country = parts[0];
+  const subject = parts[1];
+
+  // Specific aliases for Colombia mapping to global IDs or legacy internal IDs
+  if (country === 'colombia') {
+    if (subject === 'lectura-critica') return 'lectura_critica';
+    if (subject === 'ciencias-naturales') return 'ciencias_naturales';
+    if (subject === 'sociales-ciudadanas') return 'sociales_y_ciudadanas';
+  }
+
+  return subject.replace(/-/g, '_');
 }
 
 function parseProtocol(frontmatter: Record<string, string>, filePath: string): number | null {
@@ -100,6 +111,14 @@ function parseProtocol(frontmatter: Record<string, string>, filePath: string): n
 
 function parseLocalBundle(filePath: string, raw: string): LocalBankQuestion[] {
   if (filePath.includes('/legacy/')) return [];
+
+  // Filter by country
+  const countryInPath = filePath.split('/questions_data/')[1]?.split('/')[0];
+  const activeCountry = countryConfig.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  if (!countryInPath || countryInPath !== activeCountry) return [];
+
+  // Filter by grade (only Grade 11 for this local bank)
+  if (!filePath.includes('/grado-11/')) return [];
 
   const frontmatter = parseFrontmatter(raw);
   const protocol = parseProtocol(frontmatter, filePath);
