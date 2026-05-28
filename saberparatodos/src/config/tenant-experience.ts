@@ -56,6 +56,18 @@ export interface TenantExperience {
   loadingLabel: string;
   dontShowHeroLabel: string;
   jsRequiredNotice: string;
+  indexSeoTitle: string;
+  indexSeoDescription: string;
+  indexSeoKeywords: string;
+  landingHeroTitle: string;
+  rankingTitle: string;
+  rankingDescription: string;
+  resultsTitle: string;
+  resultsDescription: string;
+  resultsInterpretHeading: string;
+  resultsInterpretDescription: string;
+  resultsFacts: { value: string; label: string; note: string }[];
+  officialGuideLinks: { label: string; href: string }[];
   routeAvailability: Record<TenantRouteKey, TenantRouteAvailability>;
   scoreSemantics: TenantScoreSemantics;
 }
@@ -278,6 +290,105 @@ export function getTenantExperience(country: RuntimeCountryConfig): TenantExperi
     dontShowHeroLabel: 'No volver a mostrar',
     jsRequiredNotice:
       'Esta aplicacion requiere JavaScript para funcionar. Por favor, activalo en tu navegador para realizar tus simulacros.',
+    indexSeoTitle:
+      contentTier === 'co'
+        ? `Zona de Practica ICFES | ${country.product.siteName}`
+        : `Zona de Practica ${country.examName} | ${country.product.siteName}`,
+    indexSeoDescription:
+      contentTier === 'co'
+        ? `Accede a la app de practica de ${country.product.siteName} para crear simulacros, entrenar por areas y revisar resultados para Saber 11.`
+        : `Accede a la app de practica de ${country.product.siteName} para crear simulacros, entrenar por areas y revisar resultados para ${country.examFullName}.`,
+    indexSeoKeywords:
+      contentTier === 'co'
+        ? `simulacro saber 11, preguntas icfes, ${country.examAuthority.toLowerCase()}, ${country.name.toLowerCase()}`
+        : `practicar examenes, simulacros gratis, preguntas ${country.examName.toLowerCase()}, ${country.examAuthority.toLowerCase()}, ${country.name.toLowerCase()}`,
+    landingHeroTitle:
+      contentTier === 'co'
+        ? `Domina el ICFES`
+        : `Domina ${country.examName}`,
+    rankingTitle:
+      contentTier === 'co' ? 'Ranking Colombia' : `Ranking ${country.name}`,
+    rankingDescription:
+      contentTier === 'co'
+        ? 'Los mejores estudiantes practicando para Saber 3°, 5°, 9° y 11°.'
+        : `Los mejores estudiantes practicando para rutas activas de ${country.examName}.`,
+    resultsTitle: `Resultados ${country.product.guideYear - 1} | ${country.product.siteName}`,
+    resultsDescription: `Lectura editorial de resultados para ${country.examName}.`,
+    resultsInterpretHeading:
+      contentTier === 'co'
+        ? 'Como interpretar tus resultados'
+        : `Como interpretar tus resultados de ${country.examName}`,
+    resultsInterpretDescription:
+      contentTier === 'co'
+        ? 'Comprende como se distribuyen los puntajes a nivel nacional y que significa cada percentil con base en estadisticas oficiales de referencia.'
+        : `Comprende como se distribuyen los puntajes y que significa cada percentil para ${country.examName}.`,
+    resultsFacts:
+      contentTier === 'co'
+        ? [
+            {
+              value: '5',
+              label: 'Pruebas calificables',
+              note: 'Lectura Critica, Matematicas, Sociales y Ciudadanas, Ciencias Naturales e Ingles.',
+            },
+            {
+              value: '230',
+              label: 'Preguntas calificables',
+              note: `Cuadernillo estandar de ${country.examName} 11.`,
+            },
+            {
+              value: '278',
+              label: 'Total con cuestionario',
+              note: 'Incluye 48 preguntas del cuestionario socioeconomico.',
+            },
+            {
+              value: '2 x 4h30',
+              label: 'Duracion oficial',
+              note: 'Dos sesiones de 4 horas y 30 minutos.',
+            },
+          ]
+        : [
+            {
+              value: String(country.subjects.length),
+              label: 'Areas evaluadas',
+              note: country.subjects.map((s) => s.name).join(', '),
+            },
+            {
+              value: 'Variable',
+              label: 'Preguntas',
+              note: `Estructura oficial de ${country.examName}.`,
+            },
+            {
+              value: 'Oficial',
+              label: 'Duracion',
+              note: `Segun convocatoria de ${country.examAuthority}.`,
+            },
+          ],
+    officialGuideLinks:
+      contentTier === 'co'
+        ? [
+            {
+              label: 'Analisis de datos Saber 11',
+              href: 'https://www.icfes.gov.co/analisis-de-datos/',
+            },
+            {
+              label: 'Marco metodologico',
+              href: 'https://www.icfes.gov.co/wp-content/uploads/2025/05/marco-metodologico-de-la-operacion-estadistica.pdf',
+            },
+            {
+              label: 'Ficha metodologica',
+              href: 'https://www.icfes.gov.co/wp-content/uploads/2024/11/FICHA_METODOLOGICA_OE.pdf',
+            },
+            {
+              label: 'Guia de interpretacion',
+              href: 'https://www.icfes.gov.co/wp-content/uploads/2024/11/Guia-de-interpretacion-de-resultados-02052022.pdf',
+            },
+          ]
+        : [
+            {
+              label: `Sitio oficial ${country.examAuthority}`,
+              href: '#',
+            },
+          ],
     routeAvailability: buildDefaultRouteAvailability(country),
     scoreSemantics: buildScoreSemantics(country),
   };

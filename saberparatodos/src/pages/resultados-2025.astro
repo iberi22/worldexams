@@ -3,15 +3,16 @@ import Layout from '../layouts/Layout.astro';
 import StatsIcfes from '../components/guia/StatsIcfes.astro';
 import TenantRouteNotice from '../components/TenantRouteNotice.astro';
 import { resolveRuntimeCountryConfig } from '../config';
-import { getTenantRouteAvailability } from '../config/tenant-experience';
+import { getTenantRouteAvailability, getTenantExperience } from '../config/tenant-experience';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const tenantExperience = getTenantExperience(country);
 const availability = getTenantRouteAvailability(country, 'resultados2025');
 ---
 
 <Layout
-  title={`Resultados ${country.product.guideYear - 1} | ${country.product.siteName}`}
-  description={`Lectura editorial de resultados para ${country.examName}.`}
+  title={tenantExperience.resultsTitle}
+  description={tenantExperience.resultsDescription}
 >
   <div class="min-h-screen bg-[#121212] pt-16 pb-24 px-4">
     <div class="max-w-6xl mx-auto">
@@ -22,10 +23,10 @@ const availability = getTenantRouteAvailability(country, 'resultados2025');
               Guia de interpretacion
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-[#F5F5DC] mb-6">
-              Como interpretar tus resultados
+              {tenantExperience.resultsInterpretHeading}
             </h1>
             <p class="text-xl text-white/60 leading-relaxed max-w-[650px] mx-auto">
-              Comprende como se distribuyen los puntajes a nivel nacional y que significa cada percentil con base en estadisticas oficiales de referencia.
+              {tenantExperience.resultsInterpretDescription}
             </p>
           </section>
 

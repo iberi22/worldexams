@@ -1,31 +1,11 @@
 ---
-import { icfesExamGuideLinks } from '../../config/exam-guide-links';
 import { resolveRuntimeCountryConfig } from '../../config';
+import { getTenantExperience } from '../../config/tenant-experience';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const tenantExperience = getTenantExperience(country);
 
-const officialFacts = [
-  {
-    value: '5',
-    label: 'Pruebas calificables',
-    note: 'Lectura Critica, Matematicas, Sociales y Ciudadanas, Ciencias Naturales e Ingles.',
-  },
-  {
-    value: '230',
-    label: 'Preguntas calificables',
-    note: `Cuadernillo estandar de ${country.examName} 11.`,
-  },
-  {
-    value: '278',
-    label: 'Total con cuestionario',
-    note: 'Incluye 48 preguntas del cuestionario socioeconomico.',
-  },
-  {
-    value: '2 x 4h30',
-    label: 'Duracion oficial',
-    note: 'Dos sesiones de 4 horas y 30 minutos.',
-  },
-];
+const officialFacts = tenantExperience.resultsFacts;
 
 const structureNotes = [
   {
@@ -42,7 +22,7 @@ const structureNotes = [
   },
 ];
 
-const officialLinks = icfesExamGuideLinks;
+const officialLinks = tenantExperience.officialGuideLinks;
 ---
 
 <div class="space-y-8">
