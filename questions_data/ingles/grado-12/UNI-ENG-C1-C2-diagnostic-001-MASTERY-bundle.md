@@ -6,6 +6,7 @@ asignatura: "ingles"
 tema: "diagnostic-c1-c2"
 periodo: 1
 protocol_version: "5.1"
+cefr_level: "C1/C2"
 bundle_index: 1
 bundle_size: 20
 alignment: "CEFR C1/C2 Proficiency"
