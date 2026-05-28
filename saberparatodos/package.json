@@ -75,6 +75,7 @@
         "astro": "^6.3.1",
         "chart.js": "^4.5.1",
         "html2canvas": "^1.4.1",
+        "js-yaml": "^4.1.1",
         "jspdf": "^4.2.1",
         "katex": "^0.16.40",
         "lightningcss-linux-x64-gnu": "^1.32.0",
@@ -83,7 +84,8 @@
         "svelte": "^5.55.9",
         "tailwindcss": "^4.2.2",
         "trystero": "^0.23.1",
-        "wrangler": "^4.95.0"
+        "wrangler": "^4.95.0",
+        "yaml": "^2.9.0"
     },
     "devDependencies": {
         "@astrojs/check": "^0.9.2",
