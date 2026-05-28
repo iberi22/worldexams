@@ -2,7 +2,7 @@
   /**
    * LeaderboardView.svelte
    * Componente para mostrar el ranking de estudiantes
-   * Colombia - saberparatodos
+   * Multi-country leaderboard
    *
    * Usa archivos JSON estáticos en /leaderboards/
    */
