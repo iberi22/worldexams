@@ -23,7 +23,7 @@ const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'h
   CL: { bundleCount: 13, hasContent: true },
   PE: { bundleCount: 13, hasContent: true },
   EC: { bundleCount: 13, hasContent: true },
-  BR: { bundleCount: 0, hasContent: false },
+  BR: { bundleCount: 3, hasContent: true },
   PA: { bundleCount: 3, hasContent: true },
   CR: { bundleCount: 3, hasContent: true },
   GT: { bundleCount: 3, hasContent: true },
