@@ -93,20 +93,12 @@ const schema = {
             {guideContent.gradeCards.map((card) => (
               <GradeCard {...card} />
             ))}
-            {country.features.preuniversitario && (
+            {country.features.preuniversitario && guideContent.preuCard && (
               <a
                 href="/?subject=Preuniversitario&grade=11"
                 class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
               >
-                <GradeCard
-                  grade="PreU"
-                  title="Preuniversitario"
-                  description="Ruta adicional para admision universitaria con simulacros y blueprints especificos."
-                  subjects={['Diagnostico', 'Practica por componente', 'Simulacro realista', 'Overlay por carrera']}
-                  duration="Modulos de tiempo real"
-                  questions="20 a 120 preguntas"
-                  highlight={true}
-                />
+                <GradeCard {...guideContent.preuCard} />
               </a>
             )}
           </div>

@@ -90,6 +90,7 @@ export interface ExamGuideContent {
     stats: { label: string; value: string; color: string }[];
     footer: string;
   };
+  preuCard?: GradeCardData;
 }
 
 const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideContent>> = {
@@ -232,6 +233,15 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
         'Cuando una convocatoria cambia, la guia oficial del ICFES prevalece sobre cualquier resumen interno.',
       ],
     },
+    preuCard: {
+      grade: 'PreU',
+      title: 'Preuniversitario',
+      description: 'Ruta adicional para admision universitaria con simulacros y blueprints especificos.',
+      subjects: ['Diagnostico', 'Practica por componente', 'Simulacro realista', 'Overlay por carrera'],
+      duration: 'Modulos de tiempo real',
+      questions: '20 a 120 preguntas',
+      highlight: true,
+    },
     tips: {
       title: 'Estrategias y recomendaciones',
       tips: [
@@ -359,6 +369,15 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
       ],
       footer: 'Total: 168 preguntas | Duracion: 4.5 horas',
     },
+    preuCard: {
+      grade: 'PreU',
+      title: 'Preuniversitario MX',
+      description: 'Ruta enfocada en los modulos especificos y transversales de EXANI-II.',
+      subjects: ['Simulacro EXANI-II', 'Modulos especificos', 'Comprension lectora', 'Pensamiento matematico'],
+      duration: 'Sesion controlada',
+      questions: '168 reactivos',
+      highlight: true,
+    },
   },
   AR: {
     variant: 'generic',
@@ -417,6 +436,15 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaLabel: 'Iniciar Práctica',
     authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual de la Agencia de Calidad de la Educación.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
+    preuCard: {
+      grade: 'PreU',
+      title: 'Preuniversitario PAES',
+      description: 'Ruta de entrenamiento para la Prueba de Acceso a la Educación Superior.',
+      subjects: ['Comprensión Lectora', 'Competencia Matemática 1', 'Competencia Matemática 2', 'Ciencias/Historia'],
+      duration: 'Módulos oficiales',
+      questions: 'Variable según prueba',
+      highlight: true,
+    },
   },
   PE: {
     variant: 'generic',
@@ -445,6 +473,15 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaLabel: 'Iniciar Práctica',
     authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual del MINEDU.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
+    preuCard: {
+      grade: 'PreU',
+      title: 'Preuniversitario UNMSM/UNI',
+      description: 'Entrenamiento para exámenes de admisión de universidades nacionales.',
+      subjects: ['Habilidad Verbal', 'Habilidad Matemática', 'Conocimientos', 'Simulacro DECO'],
+      duration: 'Sesión intensiva',
+      questions: '100 reactivos',
+      highlight: true,
+    },
   },
   EC: {
     variant: 'generic',
@@ -473,6 +510,15 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaLabel: 'Iniciar Práctica',
     authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual de la SENESCYT.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
+    preuCard: {
+      grade: 'PreU',
+      title: 'Preuniversitario Ecuador',
+      description: 'Ruta para el examen de ingreso a la educación superior pública.',
+      subjects: ['Razonamiento Verbal', 'Razonamiento Numérico', 'Razonamiento Lógico', 'Atención y Concentración'],
+      duration: 'Sesión rápida',
+      questions: '80 a 120 preguntas',
+      highlight: true,
+    },
   },
   BR: {
     variant: 'generic',
@@ -505,7 +551,20 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
 };
 
 export function getExamGuideContent(countryConfig: CountryConfig): ExamGuideContent {
-  return guideContentByCountry[countryConfig.code] || {
+  const content = guideContentByCountry[countryConfig.code];
+  if (content) return content;
+
+  const preuCard: GradeCardData = {
+    grade: 'PreU',
+    title: `Preuniversitario ${countryConfig.code}`,
+    description: `Ruta adicional para admision universitaria en ${countryConfig.name}.`,
+    subjects: ['Diagnostico', 'Practica por componente', 'Simulacro realista'],
+    duration: 'Modulos adaptados',
+    questions: 'Estructura variable',
+    highlight: true,
+  };
+
+  return {
     variant: 'generic',
     badgeLabel: 'Guia de examen por tenant',
     badgeSourceLabel: countryConfig.examAuthority,
@@ -528,5 +587,6 @@ export function getExamGuideContent(countryConfig: CountryConfig): ExamGuideCont
     ctaLabel: 'Explorar Practica',
     authoritySummary: `Esta guia usa la plantilla compartida del producto y la metadata actual de ${countryConfig.examAuthority}.`,
     authorityUpdatedLabel: 'Actualizado abril 2026',
+    preuCard,
   };
 }
