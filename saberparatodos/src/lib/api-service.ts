@@ -241,7 +241,8 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanc
       if (!isEnglish) return false;
       const isNotAnswered = !answeredIds.has(q.id);
       const protocol = String(q.protocol_version || '3.1');
-      const isNewProtocol = protocol.startsWith('4.');
+      const protocolVal = parseFloat(protocol);
+      const isNewProtocol = !isNaN(protocolVal) && protocolVal >= 4.0;
 
       if (isHighLevel) {
         return isNotAnswered && isNewProtocol;

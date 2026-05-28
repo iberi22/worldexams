@@ -1,13 +1,14 @@
-
 import sys
 from pathlib import Path
+
 from bundle_validator import BundleValidator
+
 
 def test_validator():
     # Create a valid dummy bundle that meets Protocol v5.1 Mastery requirements
     questions = []
     # 4x D3-D4, 6x D5-D6, 6x D7-D8, 4x D9-D10
-    difficulties = ["D3-D4"]*4 + ["D5-D6"]*6 + ["D7-D8"]*6 + ["D9-D10"]*4
+    difficulties = ["D3-D4"] * 4 + ["D5-D6"] * 6 + ["D7-D8"] * 6 + ["D9-D10"] * 4
 
     for i, diff in enumerate(difficulties, 1):
         q = f"""
@@ -64,6 +65,7 @@ bundle_size: 20
         sys.exit(1)
 
     print("Test passed!")
+
 
 if __name__ == "__main__":
     test_validator()

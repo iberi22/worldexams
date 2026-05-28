@@ -20,13 +20,13 @@ from pathlib import Path
 import aiohttp
 import requests
 
+# Import local validator
+from bundle_validator import BundleValidator
+
 # Import normalizer
 from normalize_gen import normalize_bundle
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-
-# Import local validator
-from bundle_validator import BundleValidator
 
 _validator = BundleValidator()
 
@@ -489,9 +489,7 @@ async def process_task_async(session, task, endpoint, semaphore):
                 issue_count = len(vr.issues)
                 warning_count = len(vr.warnings)
                 if vr.valid:
-                    print(
-                        f"  ✅ Validated: OK, {issue_count} issues, {warning_count} warnings"
-                    )
+                    print(f"  ✅ Validated: OK, {issue_count} issues, {warning_count} warnings")
                     # Trigger async review via the worldexams-question-reviewer skill
                     _trigger_review(str(output_path), subject=task["subject"], grado=task["grado"])
                     update_task_status(task_id, "completed", output_path=output_path)
@@ -499,9 +497,7 @@ async def process_task_async(session, task, endpoint, semaphore):
                 else:
                     # Validation failed — delete bad file and mark task failed
                     critical_issues = [i for i in vr.issues if i.severity in ("CRITICAL", "HIGH")]
-                    error_msg = (
-                        f"Validation failed: {len(vr.issues)} issues — {', '.join([i.message for i in critical_issues[:3]])}"
-                    )
+                    error_msg = f"Validation failed: {len(vr.issues)} issues — {', '.join([i.message for i in critical_issues[:3]])}"
                     update_task_status(task_id, "failed", error=error_msg)
                     if os.path.exists(str(output_path)):
                         os.remove(str(output_path))
