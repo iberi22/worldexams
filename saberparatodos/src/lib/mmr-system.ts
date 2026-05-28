@@ -3,7 +3,7 @@
  * MMR (Matchmaking Rating) System
  * Uses a modified ELO rating system to track student skill levels.
  *
- * Base MMR: 250 (Average Student in 0-500 scale)
+ * Base MMR: 250 (Average Student in normalized 0-500 scale)
  * Min MMR: 0
  * Max MMR: 500
  */
@@ -11,8 +11,8 @@
 export const BASE_MMR = 250;
 const K_FACTOR = 16; // Adjusted for 0-500 range (was 40 for 0-3000)
 
-export const ICFES_PROXY_METHODOLOGY_VERSION = 'icfes-proxy-v1';
-export const ICFES_PROXY_DISCLAIMER =
+export const MMR_PROXY_METHODOLOGY_VERSION = 'icfes-proxy-v1';
+export const MMR_PROXY_DISCLAIMER =
   'Estimacion de practica; no reemplaza el reporte oficial del ICFES.';
 
 export const PAES_PROXY_METHODOLOGY_VERSION = 'paes-proxy-v1';
@@ -101,9 +101,9 @@ export function estimateIcfesScore(signals: IcfesProxySignals): IcfesEstimate {
     confidence,
     label: confidenceLabel(confidence),
     evidenceCount,
-    methodologyVersion: ICFES_PROXY_METHODOLOGY_VERSION,
+    methodologyVersion: MMR_PROXY_METHODOLOGY_VERSION,
     minimumEvidenceMet: evidenceCount >= 20,
-    disclaimer: ICFES_PROXY_DISCLAIMER,
+    disclaimer: MMR_PROXY_DISCLAIMER,
     estimatedModuleScores: signals.estimatedModuleScores,
     examType: 'ICFES'
   };
