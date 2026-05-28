@@ -107,11 +107,19 @@ class BundleValidator:
                 )
 
             # 2. Check metadata
-            for metadata_field in ["Bloom", "ICFES", "Expected_Success"]:
+            competency_tags = ["ICFES", "Competencia", "MINEDUC", "Aristas", "SNEPE", "APRENDER", "NAP", "EBAU", "PAA", "UNGE", "BNCC"]
+            found_competency = any(f"**{tag}:**" in block for tag in competency_tags)
+
+            for metadata_field in ["Bloom", "Expected_Success"]:
                 if f"**{metadata_field}:**" not in block:
                     issues.append(
                         ValidationIssue("HIGH", f"Question {i} missing metadata field: {metadata_field}", file_path)
                     )
+
+            if not found_competency:
+                issues.append(
+                    ValidationIssue("HIGH", f"Question {i} missing competency metadata field (e.g., **Competencia:** or **ICFES:**)", file_path)
+                )
 
             # 3. Check options and feedback
             options = re.findall(r"^\s*-\s*\[([ xX])\]\s*[A-D]\)", block, re.MULTILINE)
