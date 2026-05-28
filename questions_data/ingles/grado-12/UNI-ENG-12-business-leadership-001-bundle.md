@@ -5,7 +5,7 @@ grado: 12
 asignatura: ingles
 tema: business-leadership
 cefr_level: C1
-protocol_version: 3.1-GLOBAL
+protocol_version: "5.1"
 periodo: 1
 total_questions: 10
 international_focus: MBA / Corporate Strategy / Leadership
