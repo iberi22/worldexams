@@ -34,8 +34,8 @@ const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'h
   ES: { bundleCount: 0, hasContent: false },
   PR: { bundleCount: 0, hasContent: false },
   GQ: { bundleCount: 0, hasContent: false },
-  UY: { bundleCount: 0, hasContent: false },
-  PY: { bundleCount: 0, hasContent: false },
+  UY: { bundleCount: 1, hasContent: true },
+  PY: { bundleCount: 1, hasContent: true },
   BO: { bundleCount: 0, hasContent: false },
 };
 
