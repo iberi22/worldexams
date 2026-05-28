@@ -26,6 +26,7 @@ MARK_WARN = "[WARN]"
 WORLDEXAMS_ROOT = Path(__file__).resolve().parent.parent
 QUESTIONS_DATA = WORLDEXAMS_ROOT / "questions_data"
 
+
 def scan_directory(base_path: Path, country: Optional[str] = None) -> list[Path]:
     """Find all .md bundle files in directory."""
     bundles = []
@@ -40,6 +41,7 @@ def scan_directory(base_path: Path, country: Optional[str] = None) -> list[Path]
         bundles.append(md_file)
 
     return bundles
+
 
 def main():
     parser = argparse.ArgumentParser(description="Pre-cronjob bundle validation")
@@ -66,10 +68,14 @@ def main():
     bundles = []
     if base_path.exists():
         for md_file in base_path.rglob("*.md"):
-            if md_file.name == "README.md": continue
-            if args.country and args.country.lower() not in str(md_file).lower(): continue
-            if args.subject and args.subject.lower() not in str(md_file).lower(): continue
-            if args.grade and f"grado-{args.grade}" not in str(md_file): continue
+            if md_file.name == "README.md":
+                continue
+            if args.country and args.country.lower() not in str(md_file).lower():
+                continue
+            if args.subject and args.subject.lower() not in str(md_file).lower():
+                continue
+            if args.grade and f"grado-{args.grade}" not in str(md_file):
+                continue
             bundles.append(md_file)
 
     print(f"Scanning {len(bundles)} bundle files...\n")
@@ -120,6 +126,8 @@ def main():
         print(f"\n{MARK_PASS} ALL BUNDLES VALID - Cronjob can proceed{RESET}")
         sys.exit(0)
 
+
 if __name__ == "__main__":
     from typing import Optional
+
     main()

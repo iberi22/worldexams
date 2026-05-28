@@ -47,7 +47,10 @@ export function getNextAdaptiveQuestion(
   // --- 🆕 3-Strike Protocol Logic ---
   // If the user fails the first 3 questions (calibration-like phase),
   // we shift them away from the "New Protocol" (v4+) to traditional content.
-  const isProtocolV4 = (q: AppQuestion) => q.protocol_version?.startsWith('4') || false;
+  const isProtocolV4 = (q: AppQuestion) => {
+    const protocolVal = parseFloat(q.protocol_version || '3.1');
+    return !isNaN(protocolVal) && protocolVal >= 4.0;
+  };
 
   const firstThreeResults = answeredResults.slice(0, 3);
   const hasThreeStrikes = firstThreeResults.length >= 3 && firstThreeResults.every(r => !r.isCorrect);

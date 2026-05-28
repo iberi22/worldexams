@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 import re
 from pathlib import Path
-from typing import List, Optional, Dict, Any
+from typing import Any, Dict, List, Optional
+
 import yaml
+
 
 class ValidationIssue:
     def __init__(self, severity: str, message: str, file_path: str, line: Optional[int] = None):
@@ -11,14 +13,25 @@ class ValidationIssue:
         self.file_path = file_path
         self.line = line
 
+
 class ValidationResult:
     def __init__(self, valid: bool, issues: List[ValidationIssue], warnings: List[str]):
         self.valid = valid
         self.issues = issues
         self.warnings = warnings
 
+
 class BundleValidator:
-    REQUIRED_FRONTMATTER = ["id", "country", "grado", "asignatura", "tema", "periodo", "protocol_version", "bundle_size"]
+    REQUIRED_FRONTMATTER = [
+        "id",
+        "country",
+        "grado",
+        "asignatura",
+        "tema",
+        "periodo",
+        "protocol_version",
+        "bundle_size",
+    ]
 
     def validate_file(self, file_path: str) -> ValidationResult:
         path = Path(file_path)
@@ -52,7 +65,9 @@ class BundleValidator:
         # Check protocol_version
         protocol_version = str(fm.get("protocol_version", ""))
         if not protocol_version.startswith("5"):
-             issues.append(ValidationIssue("CRITICAL", f"Expected protocol_version 5.x, got {protocol_version}", file_path))
+            issues.append(
+                ValidationIssue("CRITICAL", f"Expected protocol_version 5.x, got {protocol_version}", file_path)
+            )
 
         # Count questions
         question_headers = re.findall(r"^##\s+(Question|Pregunta)\s+\d+", content, re.MULTILINE | re.IGNORECASE)
@@ -63,7 +78,11 @@ class BundleValidator:
         expected_size = fm.get("bundle_size") or fm.get("total_questions") or (20 if is_mastery else None)
 
         if expected_size and actual_count != expected_size:
-            issues.append(ValidationIssue("CRITICAL", f"Question count mismatch: expected {expected_size}, found {actual_count}", file_path))
+            issues.append(
+                ValidationIssue(
+                    "CRITICAL", f"Question count mismatch: expected {expected_size}, found {actual_count}", file_path
+                )
+            )
             valid = False
 
         # Validate each question block
@@ -83,38 +102,62 @@ class BundleValidator:
                 else:
                     warnings.append(f"Question {i} has unusual difficulty marker: {dm}")
             else:
-                issues.append(ValidationIssue("HIGH", f"Question {i} missing difficulty marker [D3-D4] in header", file_path))
+                issues.append(
+                    ValidationIssue("HIGH", f"Question {i} missing difficulty marker [D3-D4] in header", file_path)
+                )
 
             # 2. Check metadata
             for metadata_field in ["Bloom", "ICFES", "Expected_Success"]:
                 if f"**{metadata_field}:**" not in block:
-                    issues.append(ValidationIssue("HIGH", f"Question {i} missing metadata field: {metadata_field}", file_path))
+                    issues.append(
+                        ValidationIssue("HIGH", f"Question {i} missing metadata field: {metadata_field}", file_path)
+                    )
 
             # 3. Check options and feedback
             options = re.findall(r"^\s*-\s*\[([ xX])\]\s*[A-D]\)", block, re.MULTILINE)
             correct_options = re.findall(r"^\s*-\s*\[[xX]\]\s*[A-D]\)", block, re.MULTILINE)
 
             if len(options) < 4:
-                issues.append(ValidationIssue("HIGH", f"Question {i} has only {len(options)} options, expected 4", file_path))
+                issues.append(
+                    ValidationIssue("HIGH", f"Question {i} has only {len(options)} options, expected 4", file_path)
+                )
 
             if len(correct_options) != 1:
-                issues.append(ValidationIssue("CRITICAL", f"Question {i} must have exactly 1 correct option, found {len(correct_options)}", file_path))
+                issues.append(
+                    ValidationIssue(
+                        "CRITICAL",
+                        f"Question {i} must have exactly 1 correct option, found {len(correct_options)}",
+                        file_path,
+                    )
+                )
 
             # 4. Check for feedback in ALL options
             feedback_tags = re.findall(r"<!--\s*feedback:.*?-->", block, re.IGNORECASE)
             if len(feedback_tags) < len(options):
-                issues.append(ValidationIssue("HIGH", f"Question {i} missing feedback tags for some options (found {len(feedback_tags)} for {len(options)} options)", file_path))
+                issues.append(
+                    ValidationIssue(
+                        "HIGH",
+                        f"Question {i} missing feedback tags for some options (found {len(feedback_tags)} for {len(options)} options)",
+                        file_path,
+                    )
+                )
 
             # 5. Check for placeholder content
             if "Question " + str(i) in block and len(block.strip()) < 100:
-                 issues.append(ValidationIssue("CRITICAL", f"Question {i} appears to be placeholder content", file_path))
+                issues.append(ValidationIssue("CRITICAL", f"Question {i} appears to be placeholder content", file_path))
 
         # Check difficulty distribution for Mastery bundles (20 questions)
         if is_mastery and actual_count == 20:
             expected_dist = {"D3-D4": 4, "D5-D6": 6, "D7-D8": 6, "D9-D10": 4}
             for dm, count in expected_dist.items():
                 if difficulty_counts.get(dm) != count:
-                    issues.append(ValidationIssue("HIGH", f"Invalid difficulty distribution for {dm}: expected {count}, found {difficulty_counts.get(dm)}", file_path))
+                    issues.append(
+                        ValidationIssue(
+                            "HIGH",
+                            f"Invalid difficulty distribution for {dm}: expected {count}, found {difficulty_counts.get(dm)}",
+                            file_path,
+                        )
+                    )
 
         if issues:
             valid = False

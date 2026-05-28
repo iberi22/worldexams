@@ -124,19 +124,13 @@ def format_feedback(text):
         return text
 
     # Check for common feedback markers
-    feedback_markers = [
-        r"Feedback:",
-        r"Retroalimentación:",
-        r"Explicación:",
-        r"Porque:",
-        r"Razón:"
-    ]
+    feedback_markers = [r"Feedback:", r"Retroalimentación:", r"Explicación:", r"Porque:", r"Razón:"]
 
     for marker in feedback_markers:
         match = re.search(f"{marker}\s*(.+)$", text, re.IGNORECASE)
         if match:
             feedback_content = match.group(1).strip()
-            base_text = text[:match.start()].strip()
+            base_text = text[: match.start()].strip()
             return f"{base_text} <!-- feedback: {feedback_content} -->"
 
     return text
