@@ -90,6 +90,32 @@ export interface ProductConfig {
 }
 
 /**
+ * Academic schedule configuration
+ */
+export interface ExamDate {
+  id: string;
+  name: string;
+  month: number; // 1-12
+  day: number;
+  official: boolean;
+}
+
+export interface AcademicPeriod {
+  id: number;
+  name: string;
+  startMonth: number; // 1-12
+  startDay: number;
+  endMonth: number;
+  endDay: number;
+}
+
+export interface CountrySchedules {
+  calendarType?: 'A' | 'B' | 'standard';
+  periods: AcademicPeriod[];
+  exams: ExamDate[];
+}
+
+/**
  * Complete country configuration
  */
 export interface CountryConfig {
@@ -114,6 +140,9 @@ export interface CountryConfig {
 
   // Visual identity
   theme: ThemeConfig;
+
+  // Academic schedules
+  schedules?: CountrySchedules;
 
   // Cultural context for content
   culture: CulturalContext;
@@ -184,6 +213,21 @@ export const colombiaConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-co',
+  schedules: {
+    calendarType: 'A',
+    periods: [
+      { id: 1, name: '1er Periodo', startMonth: 2, startDay: 3, endMonth: 4, endDay: 11 },
+      { id: 2, name: '2do Periodo', startMonth: 4, startDay: 14, endMonth: 6, endDay: 13 },
+      { id: 3, name: '3er Periodo', startMonth: 7, startDay: 7, endMonth: 9, endDay: 12 },
+      { id: 4, name: '4to Periodo', startMonth: 9, startDay: 15, endMonth: 11, endDay: 28 },
+    ],
+    exams: [
+      { id: '11B', name: 'Saber 11° (Cal. B)', month: 3, day: 15, official: true },
+      { id: 'PRO', name: 'Saber Pro / TyT', month: 4, day: 26, official: true },
+      { id: '11A', name: 'Saber 11° (Cal. A)', month: 7, day: 26, official: true },
+      { id: '3579', name: 'Saber 3°, 5°, 7°, 9°', month: 10, day: 15, official: false },
+    ],
+  },
   product: {
     siteName: 'SaberParaTodos',
     siteUrl: 'https://saberparatodos.space',
