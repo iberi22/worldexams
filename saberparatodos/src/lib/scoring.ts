@@ -339,7 +339,7 @@ export function calculateExamScore(
 
 /**
  * Calcula el rango teorico de puntaje para el mismo examen.
- * Sirve para explicar al usuario que esta escala es interna y no equivale a ICFES.
+ * Explains to the user that this is an internal estimate and may not match official exam scores for their country.
  */
 export function calculateExamScoreRange(
   exam: ExamResult,

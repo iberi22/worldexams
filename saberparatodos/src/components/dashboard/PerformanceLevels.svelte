@@ -2,7 +2,7 @@
   export let score: number = 0; // 0 to 100
   export let subject: string = "";
 
-  // ICFES Saber 11 standard levels
+  // Standard score levels (tenant-specific scale)
   // Levels for core subjects (0-100 scale)
   const levels = [
     { id: 1, name: "Insuficiente", min: 0, max: 35, color: "bg-red-500", shadow: "shadow-red-500/20" },
