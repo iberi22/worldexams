@@ -208,11 +208,12 @@ export function getMonthEnd(date: Date): Date {
 }
 
 /**
- * Obtiene el semestre actual según calendario colombiano
+ * Obtiene el semestre actual según el tipo de calendario
  * Calendario A: Sem1 (Feb-Jun), Sem2 (Jul-Nov)
  * Calendario B: Sem1 (Sep-Dic), Sem2 (Ene-Jun)
+ * Standard: Sem1 (Ene-Jun), Sem2 (Jul-Dic)
  */
-export function getSemesterInfo(date: Date, calendar: 'A' | 'B'): {
+export function getSemesterInfo(date: Date, calendar: 'A' | 'B' | 'standard' = 'standard'): {
   semester: 1 | 2;
   start: Date;
   end: Date
@@ -252,7 +253,7 @@ export function getSemesterInfo(date: Date, calendar: 'A' | 'B'): {
         };
       }
     }
-  } else {
+  } else if (calendar === 'B') {
     // Calendario B: Sep-Dic = Sem1, Ene-Jun = Sem2, Jul-Ago = vacaciones
     if (month >= 8) {
       // Septiembre a Diciembre = Semestre 1
@@ -273,6 +274,21 @@ export function getSemesterInfo(date: Date, calendar: 'A' | 'B'): {
       return {
         semester: 1,
         start: new Date(year, 8, 1, 0, 0, 0, 0),
+        end: new Date(year, 11, 31, 23, 59, 59, 999)
+      };
+    }
+  } else {
+    // Calendario Standard: Ene-Jun = Sem1, Jul-Dic = Sem2
+    if (month <= 5) {
+      return {
+        semester: 1,
+        start: new Date(year, 0, 1, 0, 0, 0, 0),
+        end: new Date(year, 5, 30, 23, 59, 59, 999)
+      };
+    } else {
+      return {
+        semester: 2,
+        start: new Date(year, 6, 1, 0, 0, 0, 0),
         end: new Date(year, 11, 31, 23, 59, 59, 999)
       };
     }
@@ -300,14 +316,14 @@ export function shouldResetPeriod(
       const currentSem = getSemesterInfo(now, 'A');
       const lastSem = getSemesterInfo(lastReset, 'A');
       return currentSem.semester !== lastSem.semester ||
-             now.getFullYear() !== lastReset.getFullYear();
+             (currentSem.start.getFullYear() !== lastSem.start.getFullYear());
     }
 
     case 'semester-b': {
       const currentSem = getSemesterInfo(now, 'B');
       const lastSem = getSemesterInfo(lastReset, 'B');
       return currentSem.semester !== lastSem.semester ||
-             now.getFullYear() !== lastReset.getFullYear();
+             (currentSem.start.getFullYear() !== lastSem.start.getFullYear());
     }
 
     case 'annual':
