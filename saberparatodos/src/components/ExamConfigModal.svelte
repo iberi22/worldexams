@@ -1339,7 +1339,7 @@
                     {#if examMode === 'simulacro'}
                       <div class="absolute -right-1 -top-1 opacity-20 group-hover:scale-110 transition-transform">🎓</div>
                     {/if}
-                    Simulacro Saber 11
+                    {runtimeCountry?.examAuthority || 'Simulacro Saber 11'}
                   </button>
                   <button
                     onclick={() => examMode = 'period'}
@@ -1382,7 +1382,7 @@
                 <div class="text-lg">🏛️</div>
                 <div class="flex-1 flex items-start justify-between gap-2">
                   <p class="text-[10px] text-yellow-200/80 leading-relaxed">
-                    <strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos M.E.N. Colombia</strong>
+                    <strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos de {runtimeCountry?.examAuthority || 'M.E.N. Colombia'}</strong>
                     Los periodos están alineados con los DBA (Derechos Básicos de Aprendizaje) vigentes. Selecciona el periodo actual de tu colegio.
                   </p>
                   <button
