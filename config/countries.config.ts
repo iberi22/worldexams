@@ -1324,6 +1324,7 @@ export const uruguayConfig: CountryConfig = {
   timezone: 'America/Montevideo',
   grades: [
     { id: 9, name: '9° Grado', description: 'Noveno año de Educación Básica Integrada' },
+    { id: 11, name: '5° Bachillerato', description: 'Quinto año de Bachillerato' },
     { id: 12, name: '12° Grado', description: 'Sexto año de Bachillerato' },
   ],
   subjects: [
@@ -1378,6 +1379,7 @@ export const paraguayConfig: CountryConfig = {
   timezone: 'America/Asuncion',
   grades: [
     { id: 9, name: '9° Grado', description: 'Noveno grado de Educación Escolar Básica' },
+    { id: 11, name: '2° Curso', description: 'Segundo curso de Nivel Medio' },
     { id: 12, name: '3° Curso', description: 'Tercer curso de Nivel Medio' },
   ],
   subjects: [
