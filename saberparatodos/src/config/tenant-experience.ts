@@ -164,9 +164,15 @@ function buildDefaultRouteAvailability(country: RuntimeCountryConfig): Record<Te
       'Ranking nacional',
       'Ranking y hall of fame disponibles solo para el flujo Colombia mientras no existan datasets locales equivalentes.'
     ),
-    normasMen: coOnlyRoute(
-      'Normas MEN',
-      'Base normativa del MEN e ICFES reservada a Colombia.'
+    normasMen: makeRouteAvailability(
+      isColombia(country.code) ? 'full' : isMexico(country.code) ? 'localized' : 'disabled',
+      isColombia(country.code) ? 'Disponible' : isMexico(country.code) ? 'Localizado' : 'Solo Colombia',
+      isColombia(country.code) ? 'Normas MEN' : isMexico(country.code) ? 'Normas CENEVAL' : 'Normas Autoridad',
+      isColombia(country.code)
+        ? 'Base normativa del MEN e ICFES reservada a Colombia.'
+        : isMexico(country.code)
+          ? 'Referencia normativa y estructura oficial de CENEVAL para EXANI-II.'
+          : `Normativas de ${country.examAuthority} para ${country.name}.`
     ),
   };
 }

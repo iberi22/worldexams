@@ -28,7 +28,7 @@ const isEnabled = availability.state !== 'disabled';
           </nav>
 
           <div class="bg-[#1a1a1a]/40 border border-white/5 backdrop-blur-sm rounded-[3rem] p-8 md:p-16 shadow-2xl">
-            <MenGuidelinesContent client:load />
+            <MenGuidelinesContent client:load countryCode={country.code} />
           </div>
         </>
       ) : (

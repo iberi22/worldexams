@@ -1,130 +1,18 @@
 <script lang="ts">
   import { fade, fly } from 'svelte/transition';
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum';
+  import { getAuthorityGuidelines } from '../config/authority-guidelines';
+  import type { CountryCode } from '../config';
   import ReportModal from './ReportModal.svelte';
 
   let {
     grade = 11,
     subject = 'Matemáticas',
-    period = 1
+    period = 1,
+    countryCode = 'CO' as CountryCode
   } = $props();
 
-  // ── Mapeo de competencias ICFES por materia ──────────────────────────────
-  const ICFES_COMPETENCIAS: Record<string, { competencias: string[]; componentes: string[]; color: string }> = {
-    matematicas: {
-      competencias: ['Razonamiento y argumentación', 'Comunicación, representación y modelación', 'Planteamiento y resolución de problemas'],
-      componentes: ['Numérico-variacional', 'Geométrico-métrico', 'Aleatorio'],
-      color: '#3b82f6'
-    },
-    lecturacritica: {
-      competencias: ['Identificar y entender contenidos', 'Comprender cómo se articulan', 'Reflexionar a partir del texto'],
-      componentes: ['Semántico', 'Sintáctico', 'Pragmático'],
-      color: '#8b5cf6'
-    },
-    cienciasnaturales: {
-      competencias: ['Uso comprensivo del conocimiento científico', 'Explicación de fenómenos', 'Indagación'],
-      componentes: ['Entorno vivo', 'Entorno físico', 'Ciencia, tecnología y sociedad'],
-      color: '#10b981'
-    },
-    sociales: {
-      competencias: ['Pensamiento social', 'Interpretación y análisis de perspectivas', 'Pensamiento sistémico y reflexivo'],
-      componentes: ['Historia y culturas', 'Espacio, territorio y ambiente', 'Poder, economía y organizaciones sociales'],
-      color: '#f59e0b'
-    },
-    ingles: {
-      competencias: ['Pragmatic competence', 'Lexical competence', 'Grammatical competence'],
-      componentes: ['Listening comprehension', 'Reading comprehension', 'Vocabulary in context'],
-      color: '#ef4444'
-    }
-  };
-
-  const SUBJECT_LABELS: Record<string, string> = {
-    matematicas: 'Matemáticas',
-    lecturacritica: 'Lectura Crítica',
-    cienciasnaturales: 'Ciencias Naturales',
-    sociales: 'Sociales y Ciudadanas',
-    ingles: 'Inglés',
-  };
-
-  type ReferenceLink = {
-    label: string;
-    url: string;
-    note?: string;
-  };
-
-  type ReferenceGroup = {
-    title: string;
-    description: string;
-    tone: string;
-    accent: string;
-    links: ReferenceLink[];
-    open?: boolean;
-  };
-
-  const REFERENCE_GROUPS: ReferenceGroup[] = [
-    {
-      title: 'Fuentes base',
-      description: 'Puntos de partida oficiales para definir el foco curricular y la redaccion del bundle.',
-      tone: 'emerald',
-      accent: '#10b981',
-      open: true,
-      links: [
-        { label: 'Derechos Basicos de Aprendizaje - Colombia Aprende', url: 'https://www.colombiaaprende.edu.co/contenidos/coleccion/derechos-basicos-de-aprendizaje' },
-        { label: 'Lineamientos Curriculares MEN (PDF)', url: 'https://www.mineducacion.gov.co/1780/articles-339975_recurso_14.pdf' },
-        { label: 'Derechos Basicos de Aprendizaje en todas las areas', url: 'https://www.colombiaaprende.edu.co/recurso-coleccion/derechos-basicos-de-aprendizaje-en-todas-las-areas' }
-      ]
-    },
-    {
-      title: 'PDFs descargables',
-      description: 'Documentos listos para citar, archivar y usar como respaldo cuando se generen preguntas.',
-      tone: 'sky',
-      accent: '#38bdf8',
-      links: [
-        { label: 'Estandares basicos de competencias (PDF)', url: 'https://www.mineducacion.gov.co/1759/articles-340021_recurso_1.pdf' },
-        { label: 'DBA Matematicas (PDF)', url: 'https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_Matematicas-min.pdf' },
-        { label: 'DBA Lenguaje (PDF)', url: 'https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_Lenguaje-min.pdf' },
-        { label: 'DBA Ciencias Naturales (PDF)', url: 'https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_C.Naturales-min.pdf' },
-        { label: 'DBA Ciencias Sociales (PDF)', url: 'https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_C.Sociales-V2.pdf' }
-      ]
-    },
-    {
-      title: 'Guias y blog ICFES',
-      description: 'Piezas de divulgacion y apoyo para estudiantes que sirven como referencia viva al crear bundles.',
-      tone: 'amber',
-      accent: '#f59e0b',
-      links: [
-        { label: 'Estudiantes ICFES', url: 'https://blog.icfes.gov.co/estudiantes/' },
-        { label: 'Plataformas de estudio', url: 'https://blog.icfes.gov.co/estudiantes/plataformas-de-estudio/' },
-        { label: 'Audiolibros para estudiantes', url: 'https://blog.icfes.gov.co/estudiantes/audiolibros-estudiantes/' },
-        { label: 'Blog ICFES', url: 'https://blog.icfes.gov.co/' }
-      ]
-    },
-    {
-      title: 'Divulgacion y comunidad',
-      description: 'Lugares donde el contenido se publica, se explica o se actualiza de forma continua.',
-      tone: 'violet',
-      accent: '#a855f7',
-      links: [
-        { label: 'Blog ICFES', url: 'https://blog.icfes.gov.co/' },
-        { label: 'Estudiantes ICFES', url: 'https://blog.icfes.gov.co/estudiantes/' },
-        { label: 'Especiales Colombia Aprende', url: 'https://especiales.colombiaaprende.edu.co/' },
-        { label: 'Colombia Aprende se transforma', url: 'https://www.mineducacion.gov.co/1780/w3-article-424299.html' },
-        { label: 'Lineamientos Curriculares - MEN', url: 'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Direccion-de-Calidad/Referentes-de-Calidad/339975:Lineamientos-curriculares' }
-      ]
-    },
-    {
-      title: 'Cuentas oficiales',
-      description: 'Canales institucionales para seguimiento, divulgacion y alertas de contenido nuevo.',
-      tone: 'rose',
-      accent: '#f43f5e',
-      links: [
-        { label: 'Facebook ICFES', url: 'https://www.facebook.com/icfescol' },
-        { label: 'Facebook Ministerio de Educacion', url: 'https://www.facebook.com/Mineducacion' },
-        { label: 'Referentes de Calidad MEN', url: 'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Direccion-de-Calidad/Referentes-de-Calidad/339975:Lineamientos-curriculares' },
-        { label: 'Colombia Aprende se transforma', url: 'https://www.mineducacion.gov.co/1780/w3-article-424299.html' }
-      ]
-    }
-  ];
+  const guidelines = $derived(getAuthorityGuidelines(countryCode));
 
   // ── Derivados ────────────────────────────────────────────────────────────
   let normSubj = $derived(normalizeTopic(subject));
@@ -132,14 +20,17 @@
   let periodData = $derived.by(() => {
     if (normSubj === 'simulacrocompleto') {
       return {
-        name: 'Cobertura global del Saber 11',
+        name: `Cobertura global del examen`,
         topics: [
-          'No usa un unico DBA; mezcla competencias de varias areas',
-          'Sirve para practicar distribucion real de preguntas por componente',
+          'No usa un único referente; mezcla competencias de varias áreas',
+          'Sirve para practicar distribución real de preguntas por componente',
           'Conviene usarlo como vista general, no como referencia curricular puntual'
         ]
       };
     }
+    // Curriculum data currently only available for CO
+    if (countryCode !== 'CO') return null;
+
     const gradeData = CURRICULUM_CO[grade];
     if (!gradeData) return null;
     const subjectData = gradeData[normSubj];
@@ -148,11 +39,12 @@
   });
 
   let competencia = $derived(
-    ICFES_COMPETENCIAS[normSubj] ??
-    ICFES_COMPETENCIAS['cienciasnaturales'] // fallback
+    guidelines.competencias[normSubj] ??
+    Object.values(guidelines.competencias)[0] ??
+    { competencias: [], componentes: [], color: '#3b82f6' }
   );
 
-  let subjectLabel = $derived(SUBJECT_LABELS[normSubj] ?? subject);
+  let subjectLabel = $derived(guidelines.subjectLabels[normSubj] ?? subject);
 
   let accentColor = $derived(competencia.color);
   let showReportModal = $state(false);
@@ -172,10 +64,10 @@
       <span class="text-3xl">🏛️</span>
     </div>
     <h2 class="text-2xl font-black uppercase tracking-tight text-white mb-1 text-center w-full">
-      Lineamientos <span style="color: {accentColor}">M.E.N.</span>
+      Lineamientos <span style="color: {accentColor}">{guidelines.authorityName}</span>
     </h2>
     <p class="text-white/40 text-xs max-w-xs text-center leading-relaxed">
-      Alineación curricular 2026 — Derechos Básicos de Aprendizaje vigentes
+      {guidelines.badgeLabel}
     </p>
   </div>
 
@@ -187,7 +79,7 @@
       in:fly={{ y: 12, duration: 300, delay: 50 }}
     >
       <p class="text-[9px] font-black uppercase tracking-[0.2em] mb-2" style="color: {accentColor};">
-        Periodo activo — DBA
+        Periodo activo
       </p>
       <h3 class="text-sm font-black text-white mb-3 leading-tight">{periodData.name}</h3>
 
@@ -203,21 +95,21 @@
         {/each}
       </div>
     </div>
-  {:else}
+  {:else if countryCode === 'CO'}
     <div class="p-4 rounded-2xl border border-white/10 bg-white/5 text-center space-y-2">
-      <p class="text-[11px] text-white/40">Sin datos DBA para esta combinación</p>
+      <p class="text-[11px] text-white/40">Sin datos curriculares para esta combinación</p>
       {#if normSubj === 'simulacrocompleto'}
         <p class="text-[10px] text-white/30 leading-relaxed">
-          El simulacro completo no tiene DBA propios. Si quieres ver lineamientos por contenido, cambia a una materia concreta como Matemáticas, Lectura Crítica o Ciencias Naturales.
+          El simulacro completo no tiene referentes propios. Si quieres ver lineamientos por contenido, cambia a una materia concreta.
         </p>
       {/if}
     </div>
   {/if}
 
-  <!-- ── Competencias ICFES ────────────────────────────────────── -->
+  <!-- ── Competencias ────────────────────────────────────── -->
   <div class="text-center" in:fly={{ y: 12, duration: 300, delay: 100 }}>
     <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/30 mb-3">
-      Competencias evaluadas — ICFES Saber
+      Competencias evaluadas
     </p>
     <div class="space-y-2">
       {#each competencia.competencias as comp, i}
@@ -260,15 +152,15 @@
     <ul class="space-y-1.5">
       <li class="flex items-start gap-2">
         <span class="text-emerald-400 text-xs shrink-0">→</span>
-        <span class="text-[10px] text-emerald-200/70 leading-relaxed">Cada pregunta debe cubrir al menos uno de los tópicos DBA listados arriba.</span>
+        <span class="text-[10px] text-emerald-200/70 leading-relaxed">Cada pregunta debe cubrir al menos uno de los tópicos listados arriba.</span>
       </li>
       <li class="flex items-start gap-2">
         <span class="text-emerald-400 text-xs shrink-0">→</span>
-        <span class="text-[10px] text-emerald-200/70 leading-relaxed">Los distractores deben reflejar errores conceptuales alineados con las competencias ICFES.</span>
+        <span class="text-[10px] text-emerald-200/70 leading-relaxed">Los distractores deben reflejar errores conceptuales alineados con las competencias de {guidelines.authorityName}.</span>
       </li>
       <li class="flex items-start gap-2">
         <span class="text-emerald-400 text-xs shrink-0">→</span>
-        <span class="text-[10px] text-emerald-200/70 leading-relaxed">El nivel de dificultad progresa v1–v10 por bundle, siguiendo la progresión evaluativa Saber.</span>
+        <span class="text-[10px] text-emerald-200/70 leading-relaxed">El nivel de dificultad progresa v1–v10 por bundle, siguiendo la progresión evaluativa local.</span>
       </li>
     </ul>
   </div>
@@ -277,14 +169,14 @@
   <div in:fly={{ y: 12, duration: 300, delay: 240 }}>
     <div class="flex items-center justify-between gap-3 mb-4">
       <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/20 text-center">
-        Referencias oficiales 2026
+        Referencias oficiales
       </p>
       <span class="text-[9px] font-semibold uppercase tracking-[0.18em] text-white/25">
         Abrir en nueva pestaña
       </span>
     </div>
     <div class="space-y-3">
-      {#each REFERENCE_GROUPS as group}
+      {#each guidelines.references as group}
         <details class="group rounded-2xl border border-white/8 bg-white/[0.03] overflow-hidden" open={group.open}>
           <summary class="cursor-pointer list-none p-4 flex items-start justify-between gap-3 hover:bg-white/[0.03] transition-colors">
             <div class="min-w-0">
@@ -355,7 +247,7 @@
     userContext="MenGuidelinesContent"
     availableReportTypes={['feedback', 'guideline_disagree', 'other']}
     questionData={{
-      title: 'Lineamientos M.E.N. Colombia',
+      title: `Lineamientos ${guidelines.authorityName}`,
       grade,
       subject,
       period,

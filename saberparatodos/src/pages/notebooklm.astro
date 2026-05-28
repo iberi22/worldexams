@@ -43,11 +43,7 @@ const isEnabled = availability.state !== 'disabled';
             <article class="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <h2 class="text-2xl font-black">Cobertura editorial</h2>
               <p class="mt-4 text-white/70 leading-7">
-                {experience.contentTier === 'co'
-                  ? 'Incluye estructura Saber, autoridad ICFES y una ruta de estudio basada en la cobertura activa del producto.'
-                  : experience.contentTier === 'mx'
-                    ? 'Incluye estructura EXANI-II, autoridad CENEVAL y una ruta de estudio basada en la cobertura activa del producto.'
-                    : `Incluye estructura ${country.examName}, autoridad ${country.examAuthority} y una ruta de estudio basada en la cobertura activa de ${country.name}.`}
+                Incluye estructura {country.examName}, autoridad {country.examAuthority} y una ruta de estudio basada en la cobertura activa de {country.name}.
               </p>
               <p class="mt-4 text-white/55 text-sm">
                 Si una convocatoria externa cambia, la fuente oficial de {country.examAuthority} prevalece sobre este resumen editorial.
