@@ -53,6 +53,9 @@ export interface TenantExperience {
   gradeSectionTitle: string;
   guideShortcutLabel: string;
   guideShortcutDescription: string;
+  loadingLabel: string;
+  dontShowHeroLabel: string;
+  jsRequiredNotice: string;
   routeAvailability: Record<TenantRouteKey, TenantRouteAvailability>;
   scoreSemantics: TenantScoreSemantics;
 }
@@ -271,6 +274,10 @@ export function getTenantExperience(country: RuntimeCountryConfig): TenantExperi
       contentTier === 'co'
         ? 'Conoce la estructura del examen y tips de estudio'
         : `Conoce la estructura visible de ${country.examName} y la ruta editorial activa para ${country.name}.`,
+    loadingLabel: 'Iniciando plataforma',
+    dontShowHeroLabel: 'No volver a mostrar',
+    jsRequiredNotice:
+      'Esta aplicacion requiere JavaScript para funcionar. Por favor, activalo en tu navegador para realizar tus simulacros.',
     routeAvailability: buildDefaultRouteAvailability(country),
     scoreSemantics: buildScoreSemantics(country),
   };
