@@ -18,7 +18,7 @@ const RUNTIME_COUNTRY_CODES: CountryCode[] = ['CO', 'MX', 'AR', 'CL', 'PE', 'EC'
 
 const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'hasContent'>> = {
   CO: { bundleCount: 589, hasContent: true },
-  MX: { bundleCount: 0, hasContent: false },
+  MX: { bundleCount: 3, hasContent: true },
   AR: { bundleCount: 0, hasContent: false },
   CL: { bundleCount: 13, hasContent: true },
   PE: { bundleCount: 13, hasContent: true },
