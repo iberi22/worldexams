@@ -31,11 +31,11 @@ const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'h
   SV: { bundleCount: 0, hasContent: false },
   HN: { bundleCount: 0, hasContent: false },
   NI: { bundleCount: 0, hasContent: false },
-  ES: { bundleCount: 0, hasContent: false },
-  PR: { bundleCount: 0, hasContent: false },
-  GQ: { bundleCount: 0, hasContent: false },
-  UY: { bundleCount: 1, hasContent: true },
-  PY: { bundleCount: 1, hasContent: true },
+  ES: { bundleCount: 3, hasContent: true },
+  PR: { bundleCount: 3, hasContent: true },
+  GQ: { bundleCount: 3, hasContent: true },
+  UY: { bundleCount: 0, hasContent: false },
+  PY: { bundleCount: 0, hasContent: false },
   BO: { bundleCount: 0, hasContent: false },
 };
 
