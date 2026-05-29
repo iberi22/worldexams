@@ -17,6 +17,7 @@ describe('parseCEFRLevel', () => {
     expect(parseCEFRLevel('B1')).toBe('B1');
     expect(parseCEFRLevel('B2')).toBe('B2');
     expect(parseCEFRLevel('C1')).toBe('C1');
+    expect(parseCEFRLevel('C2')).toBe('C2');
   });
 
   it('should parse plus levels correctly', () => {
@@ -172,7 +173,7 @@ describe('examResultsToQuestionResults', () => {
 describe('60-Question Proficiency Scenarios', () => {
   // Helper to generate questions distributed across levels
   const generateDistributedQuestions = (isCorrectFn: (i: number, level: CEFRLevel) => boolean): QuestionResult[] => {
-    const levels: CEFRLevel[] = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1'];
+    const levels: CEFRLevel[] = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
     const questionsPerLevel = Math.floor(60 / levels.length); // ~6-7 per level
     const results: QuestionResult[] = [];
     let id = 0;
@@ -199,7 +200,7 @@ describe('60-Question Proficiency Scenarios', () => {
     return results;
   };
 
-  it('SCENARIO 1: 60 questions ALL CORRECT → Should estimate C1 (highest level)', () => {
+  it('SCENARIO 1: 60 questions ALL CORRECT → Should estimate C2 (highest level)', () => {
     const results = generateDistributedQuestions(() => true);
 
     console.log('\n📊 SCENARIO 1: ALL CORRECT');
@@ -215,7 +216,7 @@ describe('60-Question Proficiency Scenarios', () => {
       console.log(`    ${b.level}: ${b.accuracy}% (${b.correct}/${b.total})`);
     });
 
-    expect(proficiency.estimatedLevel).toBe('C1');
+    expect(proficiency.estimatedLevel).toBe('C2');
     expect(proficiency.overallAccuracy).toBe(100);
     expect(proficiency.confidenceLabel).toBe('Very High');
   });
