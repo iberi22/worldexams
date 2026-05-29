@@ -116,5 +116,23 @@ describe('filters', () => {
       const filtered = filterByCefrLevel(qs, 'C1'); // C1 minIndex is 8, allows 1 level below (index >= 7)
       expect(filtered.map(q => q.id)).toEqual(['q2']); // B2+ passes, A1 does not
     });
+
+    it('correctly filters questions for every CEFR level from A1 to C2', () => {
+      const levels = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
+      const pool = levels.map((lvl) => makeQuestion({ id: `q-${lvl}`, cefr_level: lvl }));
+
+      levels.forEach((targetLevel) => {
+        const filtered = filterByCefrLevel(pool, targetLevel);
+        const minIndex = levels.indexOf(targetLevel);
+        const expectedMinIndex = Math.max(0, minIndex - 1);
+
+        filtered.forEach((q) => {
+          const qIndex = levels.indexOf(q.cefr_level || '');
+          expect(qIndex).toBeGreaterThanOrEqual(expectedMinIndex);
+        });
+
+        expect(filtered.some(q => q.id === `q-${targetLevel}`)).toBe(true);
+      });
+    });
   });
 });
