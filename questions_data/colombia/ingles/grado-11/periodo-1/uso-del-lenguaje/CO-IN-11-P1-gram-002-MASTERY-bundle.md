@@ -1,5 +1,6 @@
 ---
 id: "CO-IN-11-P1-gram-002-MASTERY"
+cefr_level: A2
 country: "colombia"
 grado: 11
 asignatura: "ingles"

@@ -1,5 +1,6 @@
 ---
 id: "CO-ING-11-P2-reading-inferential-002"
+cefr_level: B1
 country: "colombia"
 grado: 11
 asignatura: "ingles"

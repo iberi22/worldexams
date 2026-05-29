@@ -6,6 +6,7 @@ The user wants me to generate 20 ICFES-style English questions about past-future
 ```yaml
 ---
 id: "CO-ING-11-P2-gramatica-past-future-121-MASTERY"
+cefr_level: A2
 country: "colombia"
 grado: 11
 asignatura: "ingles"

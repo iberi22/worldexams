@@ -17,6 +17,7 @@ Let me create the questions:
 
 ---
 id: "CO-ING-11-P3-writing-structure-130-MASTERY"
+cefr_level: B2
 country: "colombia"
 grado: 11
 asignatura: "ingles"
