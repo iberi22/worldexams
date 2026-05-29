@@ -265,7 +265,7 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     topics: (apiQuestion.tema ? [apiQuestion.tema] : []).concat(apiQuestion.topics || apiQuestion.tags || []).filter(Boolean),
     period: apiQuestion.period || apiQuestion.periodo || undefined,
     periodo: apiQuestion.periodo || apiQuestion.period || undefined,
-    cefr_level: apiQuestion.cefr_level || undefined,
+    cefr_level: apiQuestion.cefr_level || apiQuestion.target_cefr || undefined,
     protocol_version: apiQuestion.protocol_version || undefined
   };
 }
