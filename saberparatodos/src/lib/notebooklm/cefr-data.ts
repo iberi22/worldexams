@@ -268,5 +268,23 @@ export const CEFR_CURRICULUM: Record<CEFRLevel, CefrLevelData> = {
         prompt: 'Actúa como un editor experto. Dame consejos para mejorar mi estilo de escritura académica en inglés y evitar repeticiones.'
       }
     ]
+  },
+  'C2': {
+    level: 'C2',
+    description: 'Maestría - Competencia Plena',
+    canDo: [
+      'Comprender con facilidad prácticamente todo lo que oye o lee.',
+      'Reconstruir la información y los argumentos procedentes de diversas fuentes, ya sean en lengua hablada o escrita.',
+      'Expresarse espontáneamente, con gran fluidez y con un grado de precisión que permite diferenciar pequeños matices de significado.'
+    ],
+    topics: [
+      {
+        id: 'C2-MASTERY',
+        title: 'Maestría y Fluidez Absoluta',
+        description: 'Dominio de modismos extremadamente sutiles y jergas profesionales avanzadas.',
+        category: 'Skills',
+        prompt: 'Actúa como un lingüista y hablante nativo experto. Explícame el uso avanzado de expresiones idiomáticas sutiles, dobles sentidos y humor en inglés académico y profesional.'
+      }
+    ]
   }
 };
