@@ -50,13 +50,15 @@ function parseQuestionSections(body: string): string[] {
 }
 
 function parseDifficulty(section: string): number {
-  const match = section.match(/(?:Difficulty|Dificultad)\s+(\d+)/i);
-  return match ? Number(match[1]) : 0;
+  const match = section.match(/(?:Difficulty|Dificultad)\s+(\d+)/i) ||
+                section.match(/\[D(\d+)-D(\d+)\]/);
+  if (!match) return 0;
+  return match[2] ? Number(match[2]) : Number(match[1]);
 }
 
 function parseQuestionId(section: string): string | null {
-  const match = section.match(/\*\*ID:\*\*\s*`([^`]+)`/i);
-  return match ? match[1].trim() : null;
+  const match = section.match(/(?:\*\*ID:\*\*|ID:)\s*(?:`([^`]+)`|"([^"]+)"|([A-Za-z0-9._:-]+))/i);
+  return match ? (match[1] || match[2] || match[3]).trim() : null;
 }
 
 function parseOptions(section: string) {

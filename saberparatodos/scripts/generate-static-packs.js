@@ -6,14 +6,13 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, '..');
-const QUESTIONS_DATA = path.join(ROOT, '..', 'questions_data', 'colombia');
+const QUESTIONS_DATA_ROOT = path.join(ROOT, '..', 'questions_data');
 const OUTPUT_DIR = path.join(ROOT, 'public', 'api', 'packs');
 const PACK_ID = 'week-1'; // Default pack ID
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
-
 
 function parseProtocol(frontmatter, filePath) {
   const explicit = String(frontmatter.protocol_version || frontmatter.bundle_version || '').match(/(\d+(?:\.\d+)?)/);
@@ -52,13 +51,32 @@ function parseQuestions(body) {
     const id = idMatch ? (idMatch[1] || idMatch[2] || idMatch[3]) : `q-${i}`;
 
     // Extract Difficulty from header or body
-    const diffMatch = matches[i].header.match(/\((?:Nivel|Dificultad):?\s*(\d+)\)/i) || section.match(/(?:Nivel|Dificultad):?\s*(\d+)/i);
-    const difficulty = diffMatch ? Number(diffMatch[1]) : 3;
+    const diffMatch = matches[i].header.match(/\((?:Nivel|Dificultad):?\s*(\d+)\)/i) ||
+                       section.match(/(?:Nivel|Dificultad):?\s*(\d+)/i) ||
+                       matches[i].header.match(/\[D(\d+)-D(\d+)\]/) ||
+                       section.match(/\[D(\d+)-D(\d+)\]/);
+
+    let difficulty = 3;
+    if (diffMatch) {
+      // If it's a range like [D5-D6], use the second number
+      difficulty = diffMatch[2] ? Number(diffMatch[2]) : Number(diffMatch[1]);
+    }
 
     // Extract statement (everything between header and options)
     const afterHeader = section.slice(matches[i].header.length).trim();
     const optionsStart = afterHeader.search(/^\s*-\s*\[[x ]\]/m);
-    const statement = optionsStart !== -1 ? afterHeader.slice(0, optionsStart).trim() : afterHeader;
+    let rawStatement = optionsStart !== -1 ? afterHeader.slice(0, optionsStart).trim() : afterHeader;
+
+    // Clean up statement from metadata and headers
+    const statement = rawStatement
+      .replace(/(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g, '')
+      .replace(/\*\*Bloom:\*\*.*$/gm, '')
+      .replace(/\*\*ICFES:\*\*.*$/gm, '')
+      .replace(/\*\*Expected_Success:\*\*.*$/gm, '')
+      .replace(/^\s*###\s+Contexto/gm, '')
+      .replace(/^\s*###\s+Enunciado/gm, '')
+      .replace(/^\s*\*\*\d+\.\*\*/gm, '') // Remove **1.** style numbering
+      .trim();
 
     // Extract options
     const options = [];
@@ -93,167 +111,99 @@ function parseQuestions(body) {
   return sections;
 }
 
-const countries = fs.readdirSync(path.join(ROOT, '..', 'questions_data'))
-  .filter(f => fs.statSync(path.join(ROOT, '..', 'questions_data', f)).isDirectory())
-  .filter(f => f !== 'matematicas'); // Skip the shared/legacy matematicas folder if it exists at root
+const walk = (dir) => {
+  let results = [];
+  if (!fs.existsSync(dir)) return [];
+  const list = fs.readdirSync(dir);
+  list.forEach(file => {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+    if (stat && stat.isDirectory()) {
+      results = results.concat(walk(filePath));
+    } else if (file.endsWith('.md')) {
+      results.push(filePath);
+    }
+  });
+  return results;
+};
 
+const allFiles = walk(QUESTIONS_DATA_ROOT);
 const packs = {};
 
-for (const country of countries) {
-  const QUESTIONS_DATA = path.join(ROOT, '..', 'questions_data', country);
-  const subjects = fs.readdirSync(QUESTIONS_DATA).filter(f => fs.statSync(path.join(QUESTIONS_DATA, f)).isDirectory());
+for (const file of allFiles) {
+  try {
+    if (hasDuplicatedPeriodSegment(file) || file.includes('/legacy/')) {
+      continue;
+    }
 
-  // Handle flat structure: if the first-level directories ARE grade folders (like ingles/grado-X/)
-  const isFlat = subjects.every(s => s.startsWith('grado-'));
+    const { data, content } = matter.read(file);
+    const protocol = parseProtocol(data, file);
+    if (!protocol || protocol < 3) continue;
 
-  if (isFlat) {
-    // Flat structure: country/grado-X/file.md (no subject subdirectory)
-    for (const gradeFolder of subjects) {
-      const grade = parseInt(gradeFolder.replace('grado-', ''));
-      if (isNaN(grade)) continue;
-      const gradePath = path.join(QUESTIONS_DATA, gradeFolder);
-      const subject = country; // Use country name as subject since there's no subject dir
+    const questions = parseQuestions(content);
+    if (questions.length === 0) continue;
 
-      // Walk through all .md files
-      const walk = (dir) => {
-        let results = [];
-        const list = fs.readdirSync(dir);
-        list.forEach(file => {
-          file = path.join(dir, file);
-          const stat = fs.statSync(file);
-          if (stat && stat.isDirectory()) {
-            results = results.concat(walk(file));
-          } else if (file.endsWith('.md')) {
-            results.push(file);
-          }
-        });
-        return results;
-      };
+    const relPath = path.relative(QUESTIONS_DATA_ROOT, file);
+    const parts = relPath.split(path.sep);
+    const countryFolder = parts[0];
 
-      const files = walk(gradePath);
+    const grade = parseInt(data.grado || file.match(/grado-(\d+)/)?.[1] || '11');
+    let subject = data.asignatura || data.subject;
 
-      for (const file of files) {
-        try {
-          if (hasDuplicatedPeriodSegment(file)) {
-            continue;
-          }
-
-          const { data, content } = matter.read(file);
-          const protocol = parseProtocol(data, file);
-          if (!protocol || protocol < 3) continue;
-
-          const questions = parseQuestions(content);
-          if (questions.length === 0) continue;
-
-          const period = data.periodo || 1;
-
-          let countryCode = (data.country || country).toLowerCase();
-          const countryMap = {
-            'colombia': 'co',
-            'mexico': 'mx',
-            'peru': 'pe',
-            'chile': 'cl',
-            'ecuador': 'ec',
-            'argentina': 'ar',
-            'brasil': 'br',
-            'global': 'global-ingles'
-          };
-          if (countryMap[countryCode]) {
-            countryCode = countryMap[countryCode];
-          }
-
-          const packKey = `${countryCode}-${PACK_ID}-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
-
-          if (!packs[packKey]) {
-            packs[packKey] = {
-              metadata: {
-                grade,
-                subject,
-                country: countryCode,
-                pack_id: packKey,
-                generated_at: new Date().toISOString()
-              },
-              questions: []
-            };
-          }
-
-          questions.forEach(q => {
-            packs[packKey].questions.push({
-              ...q,
-              bundle_id: path.basename(file, '.md'),
-              periodo: period,
-              protocol_version: String(protocol),
-              cefr_level: data.cefr_level || data.target_cefr || null
-            });
-          });
-        } catch (e) {
-          console.error(`Error processing ${file}: ${e.message}`);
-        }
+    if (!subject) {
+      if (parts[1] && parts[1].startsWith('grado-')) {
+        subject = countryFolder;
+      } else {
+        subject = parts[1] || countryFolder;
       }
     }
-  } else {
-    // Standard structure: country/subject/grado-X/...
-    const walkDir = (dir) => {
-      let results = [];
-      const list = fs.readdirSync(dir);
-      list.forEach(file => {
-        file = path.join(dir, file);
-        const stat = fs.statSync(file);
-        if (stat && stat.isDirectory()) {
-          results = results.concat(walkDir(file));
-        } else if (file.endsWith('.md')) {
-          results.push(file);
-        }
-      });
-      return results;
+
+    const period = data.periodo || 1;
+
+    // Normalize country code
+    let rawCountry = (data.country || countryFolder).toLowerCase();
+    let countryCode = rawCountry;
+    const countryMap = {
+      'colombia': 'co',
+      'mexico': 'mx',
+      'peru': 'pe',
+      'chile': 'cl',
+      'ecuador': 'ec',
+      'argentina': 'ar',
+      'brasil': 'br',
+      'global': ''
     };
-
-    for (const subject of subjects) {
-      const subjectPath = path.join(QUESTIONS_DATA, subject);
-      const grades = fs.readdirSync(subjectPath).filter(f => f.startsWith('grado-'));
-
-      for (const gradeFolder of grades) {
-        const grade = parseInt(gradeFolder.replace('grado-', ''));
-        const gradePath = path.join(subjectPath, gradeFolder);
-        const files = walkDir(gradePath);
-
-        for (const file of files) {
-          try {
-            if (hasDuplicatedPeriodSegment(file)) continue;
-            const { data, content } = matter.read(file);
-            const protocol = parseProtocol(data, file);
-            if (!protocol || protocol < 3) continue;
-            const questions = parseQuestions(content);
-            if (questions.length === 0) continue;
-            const period = data.periodo || 1;
-            let countryCode = (data.country || country).toLowerCase();
-            const countryMap = {
-              'colombia': 'co', 'mexico': 'mx', 'peru': 'pe',
-              'chile': 'cl', 'ecuador': 'ec', 'argentina': 'ar', 'brasil': 'br'
-            };
-            if (countryMap[countryCode]) countryCode = countryMap[countryCode];
-            const packKey = `${countryCode}-${PACK_ID}-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
-            if (!packs[packKey]) {
-              packs[packKey] = {
-                metadata: { grade, subject, country: countryCode, pack_id: packKey, generated_at: new Date().toISOString() },
-                questions: []
-              };
-            }
-            questions.forEach(q => {
-              packs[packKey].questions.push({
-                ...q,
-                bundle_id: path.basename(file, '.md'),
-                periodo: period,
-                protocol_version: String(protocol),
-                cefr_level: data.cefr_level || data.target_cefr || null
-              });
-            });
-          } catch (e) {
-            console.error(`Error processing ${file}: ${e.message}`);
-          }
-        }
-      }
+    if (countryMap[countryCode] !== undefined) {
+      countryCode = countryMap[countryCode];
     }
+
+    const prefix = countryCode ? `${countryCode}-` : '';
+    const safeSubject = subject.replace(/[\/\s-]/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+    const packKey = `${prefix}${PACK_ID}-grade-${grade}-subject-${safeSubject}`;
+
+    if (!packs[packKey]) {
+      packs[packKey] = {
+        metadata: {
+          grade,
+          subject,
+          country: countryCode || 'global',
+          pack_id: packKey,
+          generated_at: new Date().toISOString()
+        },
+        questions: []
+      };
+    }
+
+    questions.forEach(q => {
+      packs[packKey].questions.push({
+        ...q,
+        bundle_id: path.basename(file, '.md'),
+        periodo: period,
+        protocol_version: String(protocol)
+      });
+    });
+  } catch (e) {
+    console.error(`Error processing ${file}: ${e.message}`);
   }
 }
 
