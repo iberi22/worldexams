@@ -107,5 +107,14 @@ describe('filters', () => {
       ];
       expect(filterByCefrLevel(qs, 'B1')).toHaveLength(2);
     });
+
+    it('correctly uses GRADE_TO_CEFR fallback for grade-only questions', () => {
+      const qs = [
+        makeQuestion({ id: 'q1', grade: 4, cefr_level: undefined as any }), // maps to A1 (index 0)
+        makeQuestion({ id: 'q2', grade: 11, cefr_level: undefined as any }), // maps to B2+ (index 7)
+      ];
+      const filtered = filterByCefrLevel(qs, 'C1'); // C1 minIndex is 8, allows 1 level below (index >= 7)
+      expect(filtered.map(q => q.id)).toEqual(['q2']); // B2+ passes, A1 does not
+    });
   });
 });
