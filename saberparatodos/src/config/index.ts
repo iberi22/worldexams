@@ -114,3 +114,4 @@ const sharedCountryConfig = currentCountryCode ? getCountryConfig(currentCountry
 export const countryConfig = resolveRuntimeCountryConfig(sharedCountryConfig);
 export const supportedCountries = allCountries.map(toRuntimeCountryConfig);
 export type CountryConfig = RuntimeCountryConfig;
+export type { CountryCode };
