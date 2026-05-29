@@ -177,8 +177,21 @@ for (const file of allFiles) {
       countryCode = countryMap[countryCode];
     }
 
+    const cleanSubject = String(subject || '')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]/g, '');
+
+    const isEnglish = cleanSubject === 'ingles' || cleanSubject === 'english';
+    const safeSubject = isEnglish ? 'ingles' : subject.replace(/[\/\s-]/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+
+    // Force English (ingles/english) to be global so all countries share the complete pool!
+    if (isEnglish) {
+      countryCode = '';
+    }
+
     const prefix = countryCode ? `${countryCode}-` : '';
-    const safeSubject = subject.replace(/[\/\s-]/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
     const packKey = `${prefix}${PACK_ID}-grade-${grade}-subject-${safeSubject}`;
 
     if (!packs[packKey]) {
