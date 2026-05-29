@@ -1,4 +1,5 @@
 import type { AppQuestion } from '../api-service';
+import { GRADE_TO_CEFR } from '../english-proficiency';
 import { CURRICULUM_CO, normalizeTopic } from '../../config/curriculum';
 import { subjectsMatch } from './subject';
 import type { QuestionSelectionRequest } from './types';
@@ -26,7 +27,7 @@ export function filterByGradeAndDiagnostic(
   return result;
 }
 
-const CEFR_ORDER = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1'];
+const CEFR_ORDER = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
 
 export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: string): AppQuestion[] {
   if (!minCefrLevel) return questions;
@@ -35,8 +36,9 @@ export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: strin
   if (minIndex === -1) return questions; // Invalid cefr level, do not filter
 
   return questions.filter((q) => {
-    if (!q.cefr_level) return true; // If no level is specified, assume it's valid
-    const qIndex = CEFR_ORDER.indexOf(q.cefr_level);
+    const qLevel = q.cefr_level || (q.grade ? GRADE_TO_CEFR[q.grade as keyof typeof GRADE_TO_CEFR] : undefined);
+    if (!qLevel) return true; // fallback only if absolutely no grade/level is known
+    const qIndex = CEFR_ORDER.indexOf(qLevel);
     // 🆕 Allow one level below for "balanced" diagnostic mixes
     return qIndex === -1 || qIndex >= Math.max(0, minIndex - 1);
   });
