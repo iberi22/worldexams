@@ -120,7 +120,7 @@
 
   // 🆕 Level Selection State
   let savedLevel = typeof localStorage !== 'undefined' ? localStorage.getItem('worldexams_user_level') : null;
-  let showLevelSelection = $state(isEnglishDiagnosticMode && !savedLevel);
+  let showLevelSelection = $state(isEnglishRelated && !savedLevel);
 
   // Update selectedEnglishLevel if savedLevel exists
   $effect(() => {
