@@ -11,19 +11,19 @@
  */
 
 // CEFR Levels ordered from lowest to highest
-export const CEFR_LEVELS = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1'] as const;
+export const CEFR_LEVELS = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'] as const;
 export type CEFRLevel = typeof CEFR_LEVELS[number];
 
 // Numeric mapping for calculations
 export const CEFR_LEVEL_NUM: Record<string, number> = {
   'A1': 1, 'A1+': 2, 'A2': 3, 'A2+': 4,
-  'B1': 5, 'B1+': 6, 'B2': 7, 'B2+': 8, 'C1': 9
+  'B1': 5, 'B1+': 6, 'B2': 7, 'B2+': 8, 'C1': 9, 'C2': 10
 };
 
 // Reverse mapping
 export const NUM_TO_CEFR: Record<number, CEFRLevel> = {
   1: 'A1', 2: 'A1+', 3: 'A2', 4: 'A2+',
-  5: 'B1', 6: 'B1+', 7: 'B2', 8: 'B2+', 9: 'C1'
+  5: 'B1', 6: 'B1+', 7: 'B2', 8: 'B2+', 9: 'C1', 10: 'C2'
 };
 
 // Grade to CEFR fallback (when question doesn't have cefr_level)
@@ -252,7 +252,7 @@ function findCeilingLevel(breakdown: LevelStats[]): {
   }
 
   // Cap at C1
-  estimatedNum = Math.min(estimatedNum, 9);
+  estimatedNum = Math.min(estimatedNum, 10);
   estimatedNum = Math.max(estimatedNum, 1);
 
   return {
