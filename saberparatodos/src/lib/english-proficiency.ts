@@ -29,13 +29,15 @@ export const NUM_TO_CEFR: Record<number, CEFRLevel> = {
 // Grade to CEFR fallback (when question doesn't have cefr_level)
 export const GRADE_TO_CEFR: Record<number, CEFRLevel> = {
   3: 'A1',
+  4: 'A1',
   5: 'A1+',
   6: 'A2',
   7: 'A2+',
   8: 'B1',
   9: 'B1+',
   10: 'B2',
-  11: 'B2+'
+  11: 'B2+',
+  12: 'B2+'
 };
 
 /**
