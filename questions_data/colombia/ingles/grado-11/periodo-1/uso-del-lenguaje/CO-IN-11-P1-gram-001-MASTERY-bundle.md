@@ -1,6 +1,7 @@
 ---
 id: "CO-IN-11-P1-gram-001-MASTERY"
-protocol_version: "5.0"
+cefr_level: A2
+protocol_version: "5.1"
 alignment: "ICFES Saber 11 / Common European Framework (CEFR B1-B2)"
 periodo: 1
 bundle_index: 1

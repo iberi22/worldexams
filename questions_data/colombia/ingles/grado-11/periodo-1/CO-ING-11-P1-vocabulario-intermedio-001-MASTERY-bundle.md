@@ -1,5 +1,6 @@
 ---
 id: "CO-ING-11-P1-vocabulario-intermedio-001"
+cefr_level: A2
 country: "colombia"
 grado: 11
 asignatura: "ingles"
