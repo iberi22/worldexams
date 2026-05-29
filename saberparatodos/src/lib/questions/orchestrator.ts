@@ -82,12 +82,15 @@ export async function prepareSoloExamQuestions(
 
   let filtered = filterBySubject(pool, request.subject);
 
-  // 🆕 For English, if pool is empty, fetch it with level awareness
-  if (subjectsMatch(request.subject, 'ingles') && filtered.length === 0) {
-    const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
-    const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
-    pool = dedupeById([...pool, ...diagnosticPool]);
-    filtered = filterBySubject(pool, request.subject);
+  // 🆕 For English, if current pool has insufficient questions of the selected CEFR level, load multi-grade level-aware pool
+  if (subjectsMatch(request.subject, 'ingles')) {
+    const matchingCount = filterByCefrLevel(filtered, request.minCefrLevel).length;
+    if (matchingCount < request.count) {
+      const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
+      const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
+      pool = dedupeById([...pool, ...diagnosticPool]);
+      filtered = filterBySubject(pool, request.subject);
+    }
   }
 
   filtered = applyFilters(filtered, request);
