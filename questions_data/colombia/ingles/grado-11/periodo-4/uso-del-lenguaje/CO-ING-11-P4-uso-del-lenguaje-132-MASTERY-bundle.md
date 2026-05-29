@@ -12,6 +12,7 @@ I need to include YAML frontmatter and all 20 questions in the exact format spec
 
 ---
 id: "CO-ING-11-P4-uso-del-lenguaje-132-MASTERY"
+cefr_level: A2
 country: "colombia"
 grado: 11
 asignatura: "ingles"
