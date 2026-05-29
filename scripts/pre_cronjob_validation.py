@@ -9,6 +9,7 @@ bundles exist before new generation runs.
 import argparse
 import sys
 from pathlib import Path
+from typing import Optional
 
 # Add scripts directory to path to import local validator
 sys.path.append(str(Path(__file__).resolve().parent))
@@ -128,6 +129,4 @@ def main():
 
 
 if __name__ == "__main__":
-    from typing import Optional
-
     main()

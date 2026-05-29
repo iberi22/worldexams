@@ -1,6 +1,6 @@
 ---
 id: CO-MAT-11-CALCULO-001
-country: CO
+country: "colombia"
 grado: 11
 asignatura: matematicas
 tema: Cálculo - Límites
