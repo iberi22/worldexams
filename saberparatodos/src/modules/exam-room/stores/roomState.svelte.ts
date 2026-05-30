@@ -168,14 +168,14 @@ class RoomState {
       // --- STANDARD MODE (Mock for now, TODO: Real Questions) ---
        this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
         id: `q-${i + 1}`,
-        enunciado: `Pregunta ${i + 1} de ${asignatura}`,
-        opciones: [
-          { id: 'A', texto: 'Opción A', es_correcta: true },
-          { id: 'B', texto: 'Opción B', es_correcta: false },
-          { id: 'C', texto: 'Opción C', es_correcta: false },
-          { id: 'D', texto: 'Opción D', es_correcta: false },
+        text: `Pregunta ${i + 1} de ${asignatura}`,
+        options: [
+          { id: 'A', text: 'Opción A' },
+          { id: 'B', text: 'Opción B' },
+          { id: 'C', text: 'Opción C' },
+          { id: 'D', text: 'Opción D' },
         ],
-        explicacion: 'Explicación de la respuesta correcta',
+        explanation: 'Explicación de la respuesta correcta',
       }));
     }
 
