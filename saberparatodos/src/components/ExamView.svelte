@@ -10,6 +10,7 @@
   import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker';
   import ReportModal from './ReportModal.svelte';
   import { getNextAdaptiveQuestion } from '../lib/adaptive-engine';
+  import SharedContextLayout from './SharedContextLayout.svelte';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -582,21 +583,9 @@
 
   <!-- Main Content Area - No scroll on desktop, optimized for mobile -->
   <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
-    <div class="max-w-4xl mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4">
-      <!-- Question Card - Flexible Height -->
-      {#if question.context}
-        <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-xl p-4 sm:p-5 mb-2 overflow-y-auto max-h-[30vh] scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
-           <div class="text-xs font-bold text-emerald-400 mb-2 uppercase tracking-wider flex items-center gap-2">
-             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5S19.832 5.477 21 6.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-             </svg>
-             Contexto  / Lectura
-           </div>
-           <div class="text-sm sm:text-base text-gray-300 font-serif leading-relaxed space-y-2">
-             <MathRenderer content={question.context?.trim()} />
-           </div>
-        </div>
-      {/if}
+    <div class="{question.context ? 'max-w-6xl' : 'max-w-4xl'} mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4 transition-all duration-500">
+      <SharedContextLayout context={question.context}>
+        <div class="space-y-4 sm:space-y-6">
 
       <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[45vh] transition-all duration-300 relative overflow-hidden group">
         <!-- Decorative gradient -->
@@ -653,7 +642,8 @@
           </div>
         {/if}
       </div>
-
+        </div>
+      </SharedContextLayout>
     </div>
   </div>
 
