@@ -8,6 +8,7 @@
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
   import ExamRoomResultsView from './ExamRoomResultsView.svelte';
+  import SharedContextLayout from './SharedContextLayout.svelte';
   import { loadVideoManifest, type VideoManifestEntry } from '../lib/video-manifest';
 
   import { supabase } from '../lib/supabase';
@@ -513,46 +514,33 @@
           {@const userAnswer = userAnswers[q.id]}
           {@const videoMeta = getVideoForQuestion(q.id)}
 
-          <div class={`
-            border rounded-lg sm:rounded-xl overflow-hidden
-            ${isCorrect ? 'border-emerald-500/30 bg-emerald-900/5' : 'border-red-500/30 bg-red-900/5'}
-          `}>
-            <!-- Question Header -->
-            <div class="p-4 sm:p-5 lg:p-6 border-b border-white/5">
-              <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 sm:gap-4">
-                <div class="space-y-2 flex-1">
-                  <div class="flex items-center gap-2">
-                    <span class="text-xs font-bold uppercase tracking-widest opacity-60">
-                      Pregunta {i + 1}
-                    </span>
-                    <div class={`
-                      px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded
-                      ${isCorrect ? 'border-emerald-500 text-emerald-500 bg-emerald-500/10' : 'border-red-500 text-red-500 bg-red-500/10'}
-                    `}>
-                      {isCorrect ? '✓ Correcta' : '✗ Incorrecta'}
+          <SharedContextLayout context={q.context} maxHeightDesktop="max-h-[50vh]">
+            <div class={`
+              border rounded-lg sm:rounded-xl overflow-hidden
+              ${isCorrect ? 'border-emerald-500/30 bg-emerald-900/5' : 'border-red-500/30 bg-red-900/5'}
+            `}>
+              <!-- Question Header -->
+              <div class="p-4 sm:p-5 lg:p-6 border-b border-white/5">
+                <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 sm:gap-4">
+                  <div class="space-y-2 flex-1">
+                    <div class="flex items-center gap-2">
+                      <span class="text-xs font-bold uppercase tracking-widest opacity-60">
+                        Pregunta {i + 1}
+                      </span>
+                      <div class={`
+                        px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded
+                        ${isCorrect ? 'border-emerald-500 text-emerald-500 bg-emerald-500/10' : 'border-red-500 text-red-500 bg-red-500/10'}
+                      `}>
+                        {isCorrect ? '✓ Correcta' : '✗ Incorrecta'}
+                      </div>
                     </div>
+
+                    <h3 class="text-sm sm:text-base lg:text-lg font-normal leading-relaxed font-sans">
+                      <MathRenderer content={q.text} />
+                    </h3>
                   </div>
-
-                  {#if q.context}
-                    <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-lg p-3 sm:p-4 mb-3 overflow-y-auto max-h-[25vh] scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
-                       <div class="text-[10px] font-bold text-emerald-400 mb-1.5 uppercase tracking-wider flex items-center gap-2">
-                         <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5S19.832 5.477 21 6.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                         </svg>
-                         Contexto / Lectura
-                       </div>
-                       <div class="text-xs sm:text-sm text-gray-300 font-serif leading-relaxed space-y-2">
-                         <MathRenderer content={q.context.trim()} />
-                       </div>
-                    </div>
-                  {/if}
-
-                  <h3 class="text-sm sm:text-base lg:text-lg font-normal leading-relaxed font-sans">
-                    <MathRenderer content={q.text} />
-                  </h3>
                 </div>
               </div>
-            </div>
 
             <!-- Answers -->
             <div class="p-4 sm:p-5 lg:p-6 space-y-4">
@@ -694,7 +682,8 @@
               </div>
             </div>
           </div>
-        {/each}
+        </SharedContextLayout>
+      {/each}
 
         <!-- NotebookLM Plan -->
         {#if proficiencyResult}
