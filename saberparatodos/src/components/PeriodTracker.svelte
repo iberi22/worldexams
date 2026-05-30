@@ -51,7 +51,7 @@
 
   let daysToPeriodEnd = currentPeriod ? getDaysDiff(currentPeriod.end) : 0;
   let daysToNextPeriod = nextPeriod ? getDaysDiff(nextPeriod.start) : 0;
-  let daysToExam = getDaysDiff(nextExam.date);
+  let daysToExam = nextExam ? getDaysDiff(nextExam.date) : 0;
 
   // Text logic
   let periodStatus = currentPeriod
