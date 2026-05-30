@@ -36,6 +36,38 @@ export function isEntryQuarantined(entry: QuestionEntry): boolean {
 }
 
 /**
+ * Clean context text by removing metadata and other internal annotations
+ */
+export function cleanContext(context: string | undefined): string {
+  if (!context) return '';
+
+  let cleaned = context;
+
+  // Remove === METADATA GLOBAL === and any content until next # header or end
+  cleaned = cleaned.replace(/===\s*METADATA\s*GLOBAL\s*===[\s\S]*?(?=#|$)/gi, '');
+  // Remove markdown tables (| ... |)
+  cleaned = cleaned.replace(/^\|.*\|$/gm, '');
+  // Remove table separators |---|---|
+  cleaned = cleaned.replace(/^\|[-:\s|]+\|$/gm, '');
+  // Remove horizontal rules
+  cleaned = cleaned.replace(/^---+$/gm, '');
+  // Remove # Bundle: headers
+  cleaned = cleaned.replace(/^#\s*Bundle:.*$/gm, '');
+  // Remove > **Fuente:** lines
+  cleaned = cleaned.replace(/^>\s*\*\*Fuente:\*\*.*$/gm, '');
+  // Remove > **Componente:** lines
+  cleaned = cleaned.replace(/^>\s*\*\*Componente:\*\*.*$/gm, '');
+  // Remove > **Competencias:** lines
+  cleaned = cleaned.replace(/^>\s*\*\*Competencias:\*\*.*$/gm, '');
+  // Remove standalone (Grade N) patterns from remaining text
+  cleaned = cleaned.replace(/\s*\(Grade\s*\d+\)/gi, '');
+  // Clean excessive whitespace
+  cleaned = cleaned.replace(/\n{3,}/g, '\n\n').trim();
+
+  return cleaned;
+}
+
+/**
  * Clean metadata from explanation text
  * Removes validation metadata tables and other internal annotations
  */
@@ -196,58 +228,56 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
   const body = entry.body;
   const questions: ParsedBundleQuestion[] = [];
 
-  // Extract shared context (everything before the first question)
-  // This captures "Texto A", "Texto B", etc.
-  const firstQuestionMatch = body.match(/## (?:Pregunta|Question)\s+\d+/i);
-  const contextEndIndex = firstQuestionMatch ? firstQuestionMatch.index : 0;
-  let context = contextEndIndex ? body.substring(0, contextEndIndex).trim() : '';
+  // 1. Extract Global Context (everything before the first major section)
+  const firstSectionMatch = body.match(/(?:^|\n)## (?:PART|Pregunta|Question|Questão)\b/i) ||
+                           body.match(/(?:^|\n)### Shared Context\b/i);
+  const globalContextEndIndex = firstSectionMatch ? firstSectionMatch.index : 0;
+  const globalContext = cleanContext(body.substring(0, globalContextEndIndex));
 
-  // Clean context: Remove metadata sections
-  if (context) {
-    // Remove === METADATA GLOBAL === and any content until next # header or end
-    context = context.replace(/===\s*METADATA\s*GLOBAL\s*===[\s\S]*?(?=#|$)/gi, '');
-    // Remove markdown tables (| ... |)
-    context = context.replace(/^\|.*\|$/gm, '');
-    // Remove table separators |---|---|
-    context = context.replace(/^\|[-:\s|]+\|$/gm, '');
-    // Remove horizontal rules
-    context = context.replace(/^---+$/gm, '');
-    // Remove # Bundle: headers
-    context = context.replace(/^#\s*Bundle:.*$/gm, '');
-    // Remove > **Fuente:** lines
-    context = context.replace(/^>\s*\*\*Fuente:\*\*.*$/gm, '');
-    // Remove > **Componente:** lines
-    context = context.replace(/^>\s*\*\*Componente:\*\*.*$/gm, '');
-    // Remove > **Competencias:** lines
-    context = context.replace(/^>\s*\*\*Competencias:\*\*.*$/gm, '');
-    // Remove # Topic: lines (e.g., "# Topic: Social Media Awareness (Grade 8)")
-    // context = context.replace(/^#\s*Topic:.*$/gm, '');
-    // Remove standalone (Grade N) patterns from remaining text
-    context = context.replace(/\s*\(Grade\s*\d+\)/gi, '');
-    // Clean excessive whitespace
-    context = context.replace(/\n{3,}/g, '\n\n').trim();
-  }
+  // 2. Define Regex to match sections: Questions, PARTS, or Shared Context
+  // We match headers and capture content until the next major header or metadata block
+  const sectionRegex = /(?:^|\n)(## (?:Pregunta|Question|Questão)\s+(\d+)\s*\(([^)]+)\)|## PART\s+.*|### Shared Context\s+.*)[\s\S]*?(?=(?:^|\n)(## (?:Pregunta|Question|Questão)\s+\d+|## PART\s+|### Shared Context\s+|## 📊 (?:Metadata|Metadados)|---\s*$)|$)/gi;
 
-  // Match ## Pregunta N or ## Question N sections
-  // We use ^|\n to ensure we match start of lines, preventing matches on inline text
-  // We specifically look for "## " to avoid matching "### "
-  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question|Questão)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question|Questão)\s+\d+|(?:^|\n)## 📊 (?:Metadata|Metadados)|---\s*$|$)/gi;
-
+  let currentSharedContext = '';
   let match;
-  while ((match = sectionRegex.exec(body)) !== null) {
-    const sectionNumber = parseInt(match[1]);
-    const sectionType = match[2].trim();
-    const sectionContent = match[0];
 
-    const question = parseQuestionSection(sectionContent, sectionNumber, sectionType, entry.data.id);
-    if (question) {
-      // Merge global context with question-specific context if both exist
-      if (context) {
-        question.context = question.context
-          ? `${context}\n\n${question.context}`
-          : context;
+  while ((match = sectionRegex.exec(body)) !== null) {
+    const sectionHeader = match[1].trim();
+    const sectionContent = match[0].trim();
+
+    if (sectionHeader.toUpperCase().startsWith('## PART') ||
+        sectionHeader.toUpperCase().startsWith('### SHARED CONTEXT')) {
+      // Update the active shared context
+      currentSharedContext = cleanContext(sectionContent);
+    } else {
+      // It's a question section
+      const sectionNumber = parseInt(match[2]);
+      const sectionType = match[3].trim();
+
+      const question = parseQuestionSection(sectionContent, sectionNumber, sectionType, entry.data.id);
+      if (question) {
+        // Build the hierarchical context
+        let finalContext = '';
+
+        if (globalContext) {
+          finalContext = globalContext;
+        }
+
+        if (currentSharedContext) {
+          finalContext = finalContext
+            ? `${finalContext}\n\n${currentSharedContext}`
+            : currentSharedContext;
+        }
+
+        if (question.context) {
+          finalContext = finalContext
+            ? `${finalContext}\n\n${question.context}`
+            : question.context;
+        }
+
+        question.context = finalContext || undefined;
+        questions.push(question);
       }
-      questions.push(question);
     }
   }
 

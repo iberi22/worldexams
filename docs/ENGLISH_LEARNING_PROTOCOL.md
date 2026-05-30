@@ -75,35 +75,33 @@ Usamos textos de temas interesantes (Ciencia, Historia, Tecnología) y aplicamos
 *   **Negative Factual:** "¿Cuál de estas NO se menciona?"
 *   **Reference:** "¿A qué se refiere la palabra 'they' en la línea 12?"
 
-### ⚠️ Regla Crítica: Contexto para Preguntas Cloze Pareadas (Q5-Q6 y Q9-Q10)
+### 📖 Contexto Compartido (Passage-Based Questions)
 
-> [!CAUTION]
-> **OBLIGATORIO:** Las preguntas 6 y 10 (que comparten el mismo texto Cloze con las preguntas 5 y 9 respectivamente) **DEBEN incluir su propio bloque `### Contexto`** con el texto completo.
->
-> **Razón:** El parser/UI procesa cada pregunta de forma independiente. Si Q6 o Q10 no tienen `### Contexto`, se mostrarán sin el pasaje de lectura, haciendo la pregunta irresoluble.
+> [!TIP]
+> **Novedad 2026:** El parser ahora soporta **Contexto Compartido**. No es necesario duplicar el texto en cada pregunta si se utiliza una cabecera de nivel 2 para definir el contexto de una sección.
 
-**Ejemplo CORRECTO:**
+Para preguntas que comparten un mismo pasaje de lectura (ej. Partes 4, 5, 6 y 7), se debe usar la siguiente estructura:
+
+1.  **## PART X:** Define el inicio de una sección con contexto compartido. Todo el texto entre esta cabecera y la siguiente cabecera `##` (ya sea otra PART o una Question) se inyectará automáticamente en la propiedad `context` de todas las preguntas siguientes.
+2.  **### Shared Context:** Directiva alternativa para casos donde no se desee usar la etiqueta "PART".
+
+**Ejemplo RECOMENDADO (Optimizado):**
 ```markdown
-## Question 6 (Part 4 - Cloze I - Difficulty 3)
-ID: UNI-ENG-07-city-001-v6
+## PART 4: Cloze Test
+The (5) ______ is blue. It (6) ______ very large.
 
-### Contexto
-**Text (same as above):**
-(5) ______ are many buildings. The (6) ______ one is the museum.
-
+## Question 5 (Part 4 - Difficulty 2)
+ID: UNI-ENG-07-city-001-v5
 ### Enunciado
-Choose the correct superlative for (6).
+Choose for (5).
+
+## Question 6 (Part 4 - Difficulty 2)
+ID: UNI-ENG-07-city-001-v6
+### Enunciado
+Choose for (6).
 ```
 
-**Ejemplo INCORRECTO (NO HACER):**
-```markdown
-## Question 6 (Part 4 - Cloze I - Difficulty 3)
-ID: UNI-ENG-07-city-001-v6
-
-### Enunciado
-Choose the correct superlative for (6).
-<!-- FALTA EL CONTEXTO! -->
-```
+*Nota: Si una pregunta específica requiere contexto adicional además del compartido, se puede seguir usando `### Contexto` dentro de la pregunta; el parser los combinará (Global + Part + Specific).*
 
 ---
 

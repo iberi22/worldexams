@@ -104,10 +104,24 @@ source_license: "CC BY-SA 4.0"
 **Bloom:** Remember
 
 ### Contexto
-[Breve contexto o texto de lectura]
+[Opcional si se usa Shared Context] Breve contexto o texto de lectura.
 
 ### Enunciado
 [Pregunta clara y específica]
+```
+
+### 4.2.1 Contexto Compartido (Novedad v4.1)
+Para grupos de preguntas que comparten un mismo estímulo (ej. Lectura Crítica, Cloze), se recomienda definir el contexto una sola vez:
+
+```markdown
+## PART X: [Título de la sección]
+[Texto de lectura compartido por las siguientes preguntas]
+
+## Question N ...
+ID: ...
+### Enunciado
+...
+```
 
 ### Options
 - [x] A) Respuesta correcta

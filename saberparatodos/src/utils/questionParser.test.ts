@@ -152,5 +152,69 @@ What is the answer?
       const questions = parseBundleQuestions(mockEntry);
       expect(questions[0].context).toBe('Only specific context.');
     });
+
+    it('should handle shared context from ## PART headers', () => {
+      const mockEntry: QuestionEntry = {
+        id: 'BUN-004',
+        body: `
+# Global Intro
+This is global.
+
+---
+
+## PART 1: Vocabulary
+This is context for Part 1.
+
+## Question 1 (Original - Dificultad 3)
+ID: BUN-004-v1
+### Enunciado
+Question 1?
+
+### Opciones
+- [x] A) Yes
+- [ ] B) No
+
+### Explicación Pedagógica
+Exp 1
+
+## PART 2: Reading
+This is context for Part 2.
+
+## Question 2 (Original - Dificultad 3)
+ID: BUN-004-v2
+### Enunciado
+Question 2?
+
+### Opciones
+- [x] A) Yes
+- [ ] B) No
+
+### Explicación Pedagógica
+Exp 2
+`,
+        data: {
+          id: 'BUN-004',
+          grado: 11,
+          asignatura: 'ingles',
+          tema: 'test'
+        }
+      };
+
+      const questions = parseBundleQuestions(mockEntry);
+      expect(questions.length).toBe(2);
+
+      // Global context should be present in both
+      expect(questions[0].context).toContain('Global Intro');
+      expect(questions[1].context).toContain('Global Intro');
+
+      // Part 1 context should be in Q1
+      expect(questions[0].context).toContain('This is context for Part 1.');
+
+      // Part 2 context should be in Q2
+      expect(questions[1].context).toContain('This is context for Part 2.');
+
+      // Q2 should NOT have Part 1 context if it's been superseded
+      expect(questions[1].context).not.toContain('This is context for Part 1.');
+    });
   });
 });
