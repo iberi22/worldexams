@@ -22,7 +22,7 @@ jobs:
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: saberparatodos/package-lock.json
 
@@ -32,7 +32,7 @@ jobs:
 
       - name: 🔍 Run Linter
         working-directory: ./saberparatodos
-        run: npm run lint
+        run: npm run check
 
       - name: 🏗️ Build Application
         working-directory: ./saberparatodos
@@ -83,7 +83,7 @@ jobs:
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: apps/worldexams-api/package-lock.json
 
