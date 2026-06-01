@@ -1,0 +1,3 @@
+npm run lint
+node scripts/validate_content.js
+npx lint-staged

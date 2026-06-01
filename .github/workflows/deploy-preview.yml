@@ -7,14 +7,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   deployments: write
 
 jobs:
-  validate-and-build:
+  pre-deploy-check:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
@@ -23,14 +22,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: saberparatodos/package-lock.json
 
       - name: 📦 Install dependencies
         working-directory: ./saberparatodos
         run: npm ci
 
-      - name: 🔍 Type check
+      - name: 🔍 Lint & Type check
         working-directory: ./saberparatodos
-        run: npx tsc --noEmit
+        run: npm run lint
+
+      - name: 🧪 Unit Tests
+        working-directory: ./saberparatodos
+        run: npm run test:unit
 
       - name: 🏗️ Build Application
         working-directory: ./saberparatodos
@@ -44,10 +49,38 @@ jobs:
         with:
           name: dist-${{ github.sha }}
           path: saberparatodos/dist
-          retention-days: 7
+          retention-days: 1
+
+      - name: ✅ Pre-deploy Validation Script
+        working-directory: ./saberparatodos
+        run: node scripts/pre-deploy-check.js
+
+      - name: 📥 Cache Playwright Browsers
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('saberparatodos/package-lock.json') }}
+
+      - name: 🧪 E2E Smoke Test
+        working-directory: ./saberparatodos
+        run: |
+          npx playwright install --with-deps chromium
+          npx playwright test tests/e2e-smoke-tag.spec.ts
+
+      - name: 🧐 Verify Current Pack Version
+        working-directory: ./saberparatodos
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          PACK_VERSION=$(node -p "require('./public/api/packs/current.json').version")
+          if [ "$VERSION" != "$PACK_VERSION" ]; then
+            echo "Version mismatch: package.json ($VERSION) vs current.json ($PACK_VERSION)"
+            exit 1
+          fi
+          echo "Version match: $VERSION"
 
   deploy-preview:
-    needs: validate-and-build
+    needs: pre-deploy-check
     runs-on: ubuntu-latest
     environment:
       name: preview-${{ github.ref_name }}
@@ -74,7 +107,31 @@ jobs:
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref_name }}
 
+  create-tag:
+    needs: deploy-preview
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🏷️ Create Tag
+        working-directory: ./saberparatodos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          VERSION=$(node -p "require('./package.json').version")
+          TIMESTAMP=$(date +'%Y%m%d-%H%M%S')
+          SHORT_SHA=$(echo ${{ github.sha }} | cut -c1-7)
+          TAG_NAME="saberparatodos-v${VERSION}-deploy-${TIMESTAMP}-${SHORT_SHA}"
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   deploy-api-preview:
+    needs: pre-deploy-check
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:

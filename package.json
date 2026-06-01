@@ -2,7 +2,7 @@
   "name": "worldexams",
   "private": true,
   "type": "module",
-  "version": "0.14.0",
+  "version": "0.15.1",
   "description": "WorldExams private prelaunch monorepo",
   "workspaces": [
     "apps/landing-worldexams",
@@ -26,9 +26,11 @@
     "preview": "npm run preview -w @worldexams/landing-worldexams",
     "test:e2e": "npm run test -w worldexams-e2e-tests",
     "astro": "npm run astro -w @worldexams/landing-worldexams",
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "prepare": "husky"
   },
   "devDependencies": {
+    "husky": "^9.1.7",
     "@playwright/test": "^1.57.0",
     "@types/node": "^20.10.0",
     "@typescript-eslint/eslint-plugin": "^8.57.2",
@@ -42,6 +44,7 @@
     "undici": "^7.25.0"
   },
   "overrides": {
+    "yaml": "^2.8.3",
     "rollup": "^4.59.0",
     "protobufjs": "^7.5.5",
     "jspdf": "^4.2.1",

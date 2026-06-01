@@ -244,7 +244,10 @@ for (const [key, data] of Object.entries(packs)) {
 }
 
 // Generate current.json and metadata.json (minimal versions for compatibility)
-fs.writeFileSync(path.join(OUTPUT_DIR, 'current.json'), JSON.stringify({ version: '1.0.0', last_update: new Date().toISOString() }));
+const pkg = JSON.parse(fs.readFileSync(path.join(ROOT, 'package.json'), 'utf8'));
+const version = pkg.version || '0.15.0';
+
+fs.writeFileSync(path.join(OUTPUT_DIR, 'current.json'), JSON.stringify({ version, last_update: new Date().toISOString() }));
 fs.writeFileSync(path.join(OUTPUT_DIR, 'metadata.json'), JSON.stringify({ packs: Object.keys(packs) }));
 
 console.log('Static packs generation completed.');
