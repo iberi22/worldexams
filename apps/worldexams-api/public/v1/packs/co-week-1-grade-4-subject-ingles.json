@@ -1,0 +1,3411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-4-subject-ingles",
+    "generated_at": "2026-05-29T20:57:31.532Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-04-classroom-words-105-v1",
+      "statement": "**I sit on a _______ in the classroom.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "table",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "chair",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "board",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "window",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"chair\" is furniture for sitting.\r\n*Español: Una \"chair\" (silla) es un mueble para sentarse.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Chair | Silla |\r\n| Desk | Escritorio / Pupitre |\r\n| Notebook | Cuaderno |\r\n| Pen | Lapicero / Pluma |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v2",
+      "statement": "**The teacher writes on the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "board",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "floor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "chair",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "pencil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** The \"board\" (whiteboard or blackboard) is where the teacher writes.\r\n*Español: El \"board\" (tablero) es donde el profesor escribe.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v3",
+      "statement": "**I write in my _______ to take notes.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eraser",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "notebook",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "ruler",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "schoolbag",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"notebook\" is for writing notes and homework.\r\n*Español: Un \"notebook\" (cuaderno) es para escribir notas y tareas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v4",
+      "statement": "**_______ me your pencil, please.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Lend",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Write",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sit",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Lend\" means to let someone use something for a short time.\r\n*Español: \"Lend\" significa prestar algo a alguien por un tiempo corto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v5",
+      "statement": "**Teacher:** \"Please listen carefully.\"\r\r\n**What should the students do?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talk to friends.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Pay attention with their ears.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Start running.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Close their books.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Listen carefully\" means to pay close attention to what someone says.\r\n*Español: \"Listen carefully\" significa prestar mucha atención a lo que alguien dice.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v6",
+      "statement": "**Text:** \"In my schoolbag, I have three pencils, one eraser, and a ruler. My schoolbag is blue.\"\r\r\n**What color is the schoolbag?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Blue.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Yellow.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Green.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text says \"My schoolbag is blue.\"\r\n*Español: El texto dice \"Mi maleta es azul\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v7",
+      "statement": "**Student:** \"Can I use an eraser?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am nine.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Yes, of course. Here you go.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Eraser is a word.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "The board is white.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B is a polite way to agree to a request.\r\n*Español: La opción B es una forma educada de aceptar una solicitud.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v8",
+      "statement": "**I need a _______ to draw straight lines.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sharpener",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "ruler",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "book",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "pen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"ruler\" is a tool for measuring and drawing lines.\r\n*Español: Una \"ruler\" (regla) es una herramienta para medir y dibujar líneas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v9",
+      "statement": "**Passage:** \"The teacher is standing in front of the class with a red marker in her hand.\"\r\r\n**What is the teacher probably going to do?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eat lunch.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Write on the board.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Go to sleep.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Play soccer.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Having a marker in front of the class suggests writing on the board.\r\n*Español: Tener un marcador frente a la clase sugiere escribir en el tablero.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-classroom-words-105-v10",
+      "statement": "**Please _______ your books on page 10.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "close",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "open",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "sit",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "listen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Open your books\" is a common classroom instruction.\r\n*Español: \"Abran sus libros\" es una instrucción común en el salón de clase.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-classroom-words-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v1",
+      "statement": "**When it is cold, you wear a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-shirt",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Jacket / Coat",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Shorts",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Swimsuit",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A jacket keeps you warm.\r\n*Español: Una chaqueta te mantiene caliente.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Shoes | Zapatos |\r\n| Hat | Sombrero / Gorra |\r\n| Dress | Vestido |\r\n| Pants | Pantalones |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v2",
+      "statement": "**Today, I (1)_______ wearing a red shirt and blue (2)_______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) am, (2) jeans",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) is, (2) jean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) are, (2) jeans",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) am, (2) hat",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"am\" with \"I.\" \"Jeans\" is always plural.\r\n*Español: Usa \"am\" con \"I\". \"Jeans\" siempre es plural.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v3",
+      "statement": "**Text:** \"Look at Sarah. She is wearing a yellow dress and brown sandals. She has a pink hat on her head.\"\r\r\n**What color is Sarah's hat?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yellow.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Brown.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pink.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Blue.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text says \"She has a pink hat.\"\r\n*Español: El texto dice \"Tiene un sombrero rosado\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v4",
+      "statement": "**You wear _______ on your feet.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Socks / Shoes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hats",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Shirts",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Skirts",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** We use socks and shoes to protect our feet.\r\n*Español: Usamos calcetines y zapatos para proteger nuestros pies.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v5",
+      "statement": "**Shop assistant:** \"May I help you?\"\r\n**Customer:** \"Yes, please. I am looking for a blue sweater.\"\r\r\n**What is the customer's goal?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To sell a sweater.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "To find and buy a specific piece of clothing.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "To eat a sweater.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "To wash their clothes.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Looking for\" indicates an intent to find and potentially purchase something.\r\n*Español: \"Looking for\" (Buscar) indica la intención de encontrar y potencialmente comprar algo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v6",
+      "statement": "**Passage:** \"The boy is at the beach. He is wearing sunglasses, a hat, and shorts. He is carrying a towel.\"\r\r\n**Is it probably hot or cold?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cold.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Hot.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Snowy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rainy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Beach clothes like shorts and sunglasses are used in hot weather.\r\n*Español: La ropa de playa como los pantalones cortos y las gafas de sol se usan en climas cálidos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v7",
+      "statement": "**Person A:** \"What is your favorite color for clothes?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am wearing a shirt.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I like black and white because they match with everything.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "My shoes are new.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "I have a dog.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B directly answers the question about color preference and adds a reason.\r\n*Español: La opción B responde directamente a la pregunta sobre la preferencia de color y añade una razón.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v8",
+      "statement": "**This is (1)_______ jacket and those (2)_______ your shoes.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) my, (2) are",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) mine, (2) is",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) I, (2) are",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) me, (2) is",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use the possessive adjective \"my\" before a noun. Use \"are\" for plural \"shoes.\"\r\n*Español: Usa el adjetivo posesivo \"my\" antes de un sustantivo. Usa \"are\" para el plural \"shoes\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v9",
+      "statement": "**Girls often wear a _______ in the summer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tie",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Skirt / Dress",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Boots",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gloves",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Skirts and dresses are common summer wear for girls.\r\n*Español: Las faldas y los vestidos son prendas de verano comunes para las niñas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-clothes-fashion-107-v10",
+      "statement": "**A traditional Colombian 'poncho' from the cold regions is often called a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-shirt",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ruana",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Bikini",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Coat",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The ruana is a traditional garment from the Colombian Andes.\r\n*Español: La ruana es una prenda tradicional de los Andes colombianos.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-fashion-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v1",
+      "statement": "**The sun is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "blue",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "yellow",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "green",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "purple",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The sun is traditionally depicted as \"yellow.\"\r\n*Español: El sol tradicionalmente se representa como \"yellow\" (amarillo).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Red | Rojo |\r\n| Blue | Azul |\r\n| Green | Verde |\r\n| Square | Cuadrado |\r\n| Circle | Círculo |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v2",
+      "statement": "**This shape has four equal sides. It's a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "square",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "circle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "triangle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "line",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** A \"square\" has 4 sides of the same length.\r\n*Español: Un \"square\" (cuadrado) tiene 4 lados de la misma longitud.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v3",
+      "statement": "**The sky is _______ on a sunny day.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "red",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "blue",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "white",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "black",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** On a clear day, the sky looks \"blue.\"\r\n*Español: En un día despejado, el cielo se ve \"blue\" (azul).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v4",
+      "statement": "**This shape is round like a ball. It's a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "square",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "circle",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "triangle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "rectangle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"circle\" is a round shape.\r\n*Español: Un \"circle\" (círculo) es una forma redonda.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v5",
+      "statement": "**The grass _______ green.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"is\" for singular subjects like \"the grass.\"\r\n*Español: Usa \"is\" para sujetos singulares como \"el pasto\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v6",
+      "statement": "**Text:** \"Look at my drawing. I have a red house with a green roof. The door is brown and the windows are blue.\"\r\r\n**What color is the roof?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Green.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Brown.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Blue.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text says the drawing has a \"green roof.\"\r\n*Español: El texto dice que el dibujo tiene un \"techo verde\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v7",
+      "statement": "**Person A:** \"What is your favorite color?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am nine.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I like purple and pink.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The square is big.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I do.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers the question about color preference.\r\n*Español: La opción B responde a la pregunta sobre el color favorito.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v8",
+      "statement": "**A banana is yellow and a tomato is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "orange",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "red",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "blue",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "green",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Tomatoes are typically \"red.\"\r\n*Español: Los tomates son típicamente rojos (\"red\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v9",
+      "statement": "**Passage:** \"The pizza is a circle, but each piece is a _______.\"\r\r\n**Which shape fits the description?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Square.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Triangle.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Rectangle.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Star.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Pizza slices are shaped like triangles.\r\n*Español: Las rebanadas de pizza tienen forma de triángulo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-colors-shapes-104-v10",
+      "statement": "**The Colombian flag has three colors: yellow, _______, and red.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "blue",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "green",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "white",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "black",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** The colors of the Colombian flag are yellow, blue, and red.\r\n*Español: Los colores de la bandera de Colombia son amarillo, azul y rojo.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-shapes-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v1",
+      "statement": "**When you win a game, you feel _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Happy / Excited",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Scared",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Winning usually makes people feel good.\r\n*Español: Ganar usualmente hace que la gente se sienta bien.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Bored | Aburrido |\r\n| Surprised | Sorprendido |\r\n| Tired | Cansado |\r\n| Healthy | Saludable |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v2",
+      "statement": "**She (1)_______ sad because she (2)_______ find her toy.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is, (2) can't",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) are, (2) doesn't",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) am, (2) can't",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) is, (2) don't",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"is\" for state of being (feelings) and \"can't\" for inability (finding the toy).\r\n*Español: Usa \"is\" para el estado de ser (sentimientos) y \"can't\" para la incapacidad (encontrar el juguete).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v3",
+      "statement": "**Text:** \"Carlos is very tired. He worked all day. Now he wants to go to his bedroom and sleep. He is not hungry, just sleepy.\"\r\r\n**How does Carlos feel?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hungry.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Angry.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tired / Sleepy.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Happy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly says \"Carlos is very tired... just sleepy.\"\r\n*Español: El texto dice explícitamente \"Carlos está muy cansado... solo tiene sueño\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v4",
+      "statement": "**When you see a big spider, you might feel _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Scared / Afraid",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Bored",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hungry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Many people are afraid of spiders.\r\n*Español: Muchas personas tienen miedo a las arañas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v5",
+      "statement": "**Friend:** \"My dog died yesterday.\"\r\n**You:** \"I'm so sorry to hear that. How are you feeling?\"\r\r\n**What is the speaker showing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happiness.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Empathy and support.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Anger.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Confusion.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"I'm so sorry to hear that\" is a common expression of empathy for someone's loss.\r\n*Español: \"Lamento mucho escuchar eso\" es una expresión común de empatía por la pérdida de alguien.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v6",
+      "statement": "**Passage:** \"Luis is jumping and shouting: 'We won! We won!'. His face is bright red and he is smiling.\"\r\r\n**What is Luis's emotion?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is bored.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "He is sad.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "He is very excited and happy.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "He is sleepy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** External actions like jumping and shouting \"We won\" indicate high excitement.\r\n*Español: Acciones externas como saltar y gritar \"Ganamos\" indican gran emoción.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v7",
+      "statement": "**Person A:** \"Are you angry with me?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am eleven years old.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "No, I am just a bit tired because I didn't sleep well.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I am happy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "In the park.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B clarifies the emotion and provides a reason for the perceived mood.\r\n*Español: La opción B aclara la emoción y proporciona una razón para el estado de ánimo percibido.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v8",
+      "statement": "**I (1)_______ happy when I (2)_______ with my friends.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) feel, (2) play",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) am, (2) playing",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) feels, (2) plays",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) feeling, (2) play",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Present simple for general feelings and habits.\r\n*Español: Presente simple para sentimientos generales y hábitos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v9",
+      "statement": "**If you have nothing to do, you might feel _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excited",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Bored",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Scared",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Thirsty",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Boredom happens when an activity is not interesting or when there is nothing to do.\r\n*Español: El aburrimiento ocurre cuando una actividad no es interesante o cuando no hay nada que hacer.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-feelings-emotions-110-v10",
+      "statement": "**On December 7th, Colombians feel very happy celebrating 'Día de las Velitas' with their _______ and neighbors.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "books",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "families",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "shoes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Día de las Velitas\" (Day of the Candles) is a traditional family celebration in Colombia.\r\n*Español: El \"Día de las Velitas\" es una celebración familiar tradicional en Colombia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-emotions-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v1",
+      "statement": "**An apple is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vegetable",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fruit",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Meat",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Drink",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Apples are common and healthy fruits.\r\n*Español: Las manzanas son frutas comunes y saludables.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Bread | Pan |\r\n| Water | Agua |\r\n| Juice | Jugo |\r\n| Rice | Arroz |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v2",
+      "statement": "**I (1)_______ like broccoli, but I (2)_______ like chocolate.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) don't, (2) do",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) doesn't, (2) do",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) am, (2) don't",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) don't, (2) am",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"don't\" for negative preferences with \"I.\"\r\n*Español: Usa \"don't\" para preferencias negativas con \"I\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v3",
+      "statement": "**Text:** \"For lunch, I have chicken, rice, and beans. I drink orange juice. My sister prefers pasta and water.\"\r\r\n**What does the sister drink?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange juice.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Milk.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Water.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Tea.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text states the sister \"prefers... water.\"\r\n*Español: El texto afirma que la hermana \"prefiere... agua\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v4",
+      "statement": "**You need a _______ to eat soup.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fork",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Spoon",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Knife",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Napkin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use a spoon for liquid foods.\r\n*Español: Usamos una cuchara (\"spoon\") para alimentos líquidos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v5",
+      "statement": "**Parent:** \"Would you like some more rice?\"\r\n**Child:** \"No, thank you. I am already full.\"\r\r\n**What is the child doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Being rude.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Politely declining / refusing more food.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Asking for dessert.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Saying they are hungry.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"No, thank you\" is a polite way to decline an offer.\r\n*Español: \"No, thank you\" es una forma educada de rechazar una oferta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v6",
+      "statement": "**Passage:** \"There is a cake with eight candles on the table. Everyone is singing and clapping.\"\r\r\n**What is happening?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A normal lunch.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A birthday party.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "A school class.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A soccer match.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Cakes with candles and singing strongly suggest a birthday celebration.\r\n*Español: Los pasteles con velas y el canto sugieren fuertemente una celebración de cumpleaños.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v7",
+      "statement": "**Person A:** \"What is your favorite food?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am hungry.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I love pizza because it has cheese and tomato.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I eat at 1:00 PM.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "My kitchen is big.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B directly answers the question with a preference and a brief explanation.\r\n*Español: La opción B responde directamente a la pregunta con una preferencia y una breve explicación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v8",
+      "statement": "**I want (1)_______ egg and (2)_______ piece of bread.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) an, (2) a",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) a, (2) an",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) an, (2) an",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) a, (2) a",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"an\" before a vowel sound (egg) and \"a\" before a consonant sound (piece).\r\n*Español: Usa \"an\" antes de un sonido vocálico y \"a\" antes de un sonido consonántico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v9",
+      "statement": "**White liquid that comes from cows is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juice",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Milk",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Soda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Coffee",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Milk is an important source of calcium for children.\r\n*Español: La leche es una fuente importante de calcio para los niños.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-food-drinks-108-v10",
+      "statement": "**In Colombia, people love 'arepas' made of _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wheat",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "corn (maiz)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "potatoes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "rice",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Corn is the essential ingredient for traditional Colombian arepas.\r\n*Español: El maíz es el ingrediente esencial para las arepas tradicionales colombianas.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-drinks-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v1",
+      "statement": "**It is a long, yellow fruit. Monkeys love it!**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Banana",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Orange",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Grapes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Bananas are yellow and long.\r\n*Español: Los bananos son amarillos y largos.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Apple | Manzana |\r\n| Banana | Banano |\r\n| Orange | Naranja |\r\n| Carrot | Zanahoria |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v2",
+      "statement": "**It is a red fruit. It is sweet and crunchy.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Onion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Potato",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lemon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Apples are often red and crunchy.\r\n*Español: Las manzanas suelen ser rojas y crujientes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v3",
+      "statement": "**It is an orange vegetable. Rabbits like it!**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomato",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Carrot",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Lettuce",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Broccoli",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Carrots are orange vegetables known as a rabbit's favorite food.\r\n*Español: Las zanahorias son vegetales naranjas conocidos como la comida favorita de los conejos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v4",
+      "statement": "**It is round and red. We use it in salads and on pizza.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Pear",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tomato",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Pineapple",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Tomatoes are red and round, commonly used in salads.\r\n*Español: Los tomates son rojos y redondos, comúnmente usados en ensaladas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v5",
+      "statement": "**I _______ like onions.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "doesn't",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "am not",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"don't\" for negative sentences with \"I.\"\r\n*Español: Usa \"don't\" para oraciones negativas con \"I\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v6",
+      "statement": "**Text:** \"I like fruit salad. My salad has apples, bananas, and strawberries. It is very sweet.\"\r\r\n**What is in the fruit salad?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potatoes and carrots.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Apples, bananas, and strawberries.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only apples.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Meat and rice.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text lists apples, bananas, and strawberries.\r\n*Español: El texto enumera manzanas, bananos y fresas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v7",
+      "statement": "**Friend:** \"What is your favorite fruit?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am ten years old.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I love strawberries!",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "My cat is black.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I do.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers the question about fruit preference.\r\n*Español: La opción B responde a la pregunta sobre la preferencia de frutas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v8",
+      "statement": "**A _______ is green on the outside and red on the inside.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orange",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Watermelon",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Lemon",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Potato",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Watermelons have a green rind and red flesh.\r\n*Español: Las sandías tienen corteza verde y pulpa roja.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v9",
+      "statement": "**Drinking orange _______ is healthy.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "food",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "juice",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "cake",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "soup",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We make juice from oranges.\r\n*Español: Hacemos jugo (\"juice\") de las naranjas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-fruits-veggies-101-v10",
+      "statement": "**In Colombia, we eat _______ with almost every meal.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sushi",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "potatoes (papas)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "tacos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "pizza",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Potatoes are a staple food in many Colombian regions.\r\n*Español: Las papas son un alimento básico en muchas regiones colombianas.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-fruits-veggies-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v1",
+      "statement": "**The room where you sleep is the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Bedroom",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We have a bed in the bedroom.\r\n*Español: Tenemos una cama en el dormitorio (\"bedroom\").*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Living room | Sala |\r\n| Dining room | Comedor |\r\n| Window | Ventana |\r\n| Door | Puerta |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v2",
+      "statement": "**In my house, (1)_______ is a kitchen and (2)_______ are three bedrooms.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) there, (2) there",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) this, (2) that",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) is, (2) are",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) here, (2) there",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"there is\" for singular and \"there are\" for plural.\r\n*Español: Usa \"there is\" para singular y \"there are\" para plural.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v3",
+      "statement": "**Text:** \"My house is small. It has a yellow kitchen, a blue living room, and a white bathroom. My favorite room is the living room because it has a big TV.\"\r\r\n**What color is the living room?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yellow.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Blue.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "White.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Green.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text states the living room is \"blue.\"\r\n*Español: El texto afirma que la sala es \"azul\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v4",
+      "statement": "**You take a shower in the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bedroom",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Living room",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The bathroom is for personal hygiene.\r\n*Español: El baño es para la higiene personal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v5",
+      "statement": "**Friend:** \"Welcome to my new house! Come in, please.\"\r\n**You:** \"Thank you! It looks very beautiful.\"\r\r\n**What is the visitor doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complaining.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Giving a compliment.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Asking for a snack.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Saying goodbye.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Saying \"It looks very beautiful\" is a polite compliment.\r\n*Español: Decir \"Se ve muy hermosa\" es un cumplido educado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v6",
+      "statement": "**Passage:** \"There is a sofa, a table, and many pictures on the wall. My family is sitting here watching a movie.\"\r\r\n**Which room is this?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bathroom.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Kitchen.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Living room.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Bedroom.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Sofas and watching movies are activities and objects typical of a living room.\r\n*Español: Los sofás y ver películas son actividades y objetos típicos de una sala.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v7",
+      "statement": "**Person A:** \"Where is your cat?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a cat.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It is under the table in the kitchen.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I like cats.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It is 5 o'clock.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B gives a specific location as requested.\r\n*Español: La opción B da una ubicación específica como se solicitó.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v8",
+      "statement": "**The book is (1)_______ the table (2)_______ the living room.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) on, (2) in",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) in, (2) at",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) at, (2) on",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) under, (2) at",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"on\" for surfaces and \"in\" for rooms or spaces.\r\n*Español: Usa \"on\" para superficies e \"in\" para habitaciones o espacios.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v9",
+      "statement": "**The object we walk through to enter a room is the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Window",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Door",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Wall",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Roof",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Doors provide access to rooms.\r\n*Español: Las puertas dan acceso a las habitaciones.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-house-rooms-106-v10",
+      "statement": "**In Colombian houses, the 'comedor' (dining room) is the place where families eat _______ together.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "books",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "lunch / dinner",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "colors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "shoes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Sharing meals in the dining room is an important family tradition.\r\n*Español: Compartir las comidas en el comedor es una tradición familiar importante.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-house-rooms-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v1",
+      "statement": "**My father's wife is my _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sister",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "mother",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "aunt",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "brother",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Your father's wife is your mother.\r\n*Español: La esposa de tu padre es tu madre.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Mother | Madre |\r\n| Father | Padre |\r\n| Sister | Hermana |\r\n| Brother | Hermano |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v2",
+      "statement": "**My mother's brother is my _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "father",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "grandfather",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "cousin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Your parent's brother is your uncle.\r\n*Español: El hermano de tu padre o madre es tu tío.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v3",
+      "statement": "**My father's father is my _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "uncle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "grandfather",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "son",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Your parent's father is your grandfather.\r\n*Español: El padre de tu padre o madre es tu abuelo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v4",
+      "statement": "**_______ is my baby sister.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "She",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "It",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "They",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use \"She\" for feminine subjects like \"sister.\"\r\n*Español: Usamos \"She\" (Ella) para sujetos femeninos como \"hermana\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v5",
+      "statement": "**My mother _______ a blue car.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Use \"has\" for singular third-person subjects (my mother = she).\r\n*Español: Usa \"has\" para sujetos singulares de tercera persona.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v6",
+      "statement": "**Text:** \"I live with my parents and my two brothers. My brothers are named Mateo and Luis. We have a dog named Toby.\"\r\r\n**How many brothers does the person have?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Two.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Three.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "None.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text states \"I live with... my two brothers.\"\r\n*Español: El texto dice \"Vivo con... mis dos hermanos\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v7",
+      "statement": "**Person A:** \"Do you have any brothers or sisters?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am a student.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I have one older brother.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "My house is big.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It is 5 o'clock.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers the question about siblings.\r\n*Español: La opción B responde a la pregunta sobre los hermanos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v8",
+      "statement": "**My aunt's children are my _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brothers",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "sisters",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "cousins",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "parents",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Your aunt or uncle's children are your cousins.\r\n*Español: Los hijos de tu tío o tía son tus primos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v9",
+      "statement": "**Passage:** \"Today is my mom's birthday. My father bought a big cake and my brother and I made a card.\"\r\r\n**What is the family doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Working.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Celebrating.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Cleaning.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sleeping.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Buying a cake and making a card for a birthday indicates a celebration.\r\n*Español: Comprar un pastel y hacer una tarjeta para un cumpleaños indica una celebración.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-my-family-102-v10",
+      "statement": "**In Colombia, we often live with our _______ (grandparents, aunts, and uncles) in the same house or very near.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pets",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "friends",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "extended family",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "teachers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** \"Extended family\" includes relatives beyond the nuclear family.\r\n*Español: \"Extended family\" (familia extendida) incluye parientes más allá de la familia nuclear.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-my-family-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v1",
+      "statement": "**What is the number 11?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ten",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "eleven",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "twelve",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "one",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** 11 is \"eleven.\"\r\n*Español: 11 es \"eleven\".*\r\n\r\n| Number | English |\r\n|--------|---------|\r\n| 11 | Eleven |\r\n| 12 | Twelve |\r\n| 13 | Thirteen |\r\n| 15 | Fifteen |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v2",
+      "statement": "**What is the number 15?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fifty",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "fifteen",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "five",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "five-teen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** 15 is \"fifteen.\" Be careful not to say \"fiveteen.\"\r\n*Español: 15 es \"fifteen\". Ten cuidado de no decir \"fiveteen\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v3",
+      "statement": "**How many apples are there? (Assume 7 + 5 = ?)**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ten",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "eleven",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "twelve",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "thirteen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** 7 + 5 = 12 (\"twelve\").\r\n*Español: 7 + 5 = 12 (\"twelve\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v4",
+      "statement": "**The number after nineteen (19) is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "twenty",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "twelve",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "ten",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "eighteen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** 20 is \"twenty.\"\r\n*Español: 20 es \"twenty\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v5",
+      "statement": "**Person A:** \"How old are you?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am fine.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I'm nine years old.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "My name is Maria.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "I am a boy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers the question about age using a number.\r\n*Español: La opción B responde a la pregunta sobre la edad usando un número.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v6",
+      "statement": "**What is 10 plus 7?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sixteen",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "seventeen",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "eighteen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "seventy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** 10 + 7 = 17 (\"seventeen\").\r\n*Español: 10 + 7 = 17 (\"seventeen\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v7",
+      "statement": "**There _______ twenty students in the classroom.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Use \"There are\" for plural numbers (more than one).\r\n*Español: Usa \"There are\" para números plurales (más de uno).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v8",
+      "statement": "**Text:** \"There are 13 boys and 7 girls in my English class. We have 20 students in total.\"\r\r\n**How many girls are in the class?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seven.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Thirteen.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Twenty.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ten.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** The text says \"there are... 7 girls.\"\r\n*Español: El texto dice \"hay... 7 niñas\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v9",
+      "statement": "**Count the fingers: 1, 2, 3, 4, 5, 6, 7, 8, 9, _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eleven",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "ten",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "twelve",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The number after 9 is 10 (\"ten\").\r\n*Español: El número después del 9 es el 10 (\"ten\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-numbers-counting-103-v10",
+      "statement": "**My phone number starts with three-zero-_______. (3-0-1)**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "one",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "seven",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "nine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"One\" correlates to the number 1.\r\n*Español: \"One\" corresponde al número 1.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-counting-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v1",
+      "statement": "**A shape with three sides is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Circle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Triangle",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Rectangle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** A triangle has three angles and three sides.\r\n*Español: Un triángulo tiene tres ángulos y tres lados.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Round | Redondo |\r\n| Small | Pequeño |\r\n| Big | Grande |\r\n| Star | Estrella |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v2",
+      "statement": "**The sun is (1)_______ and (2)_______ than the earth.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) round, (2) bigger",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) square, (2) smaller",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) round, (2) smaller",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) triangle, (2) bigger",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Adjectives describe shapes (round) and sizes (bigger).\r\n*Español: Los adjetivos describen formas (redondo) y tamaños (más grande).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v3",
+      "statement": "**Text:** \"I have a collection of buttons. I have four circular buttons, two square buttons, and one rectangular button. They are all red.\"\r\r\n**How many square buttons are there?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Two.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "One.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Seven.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly says \"two square buttons.\"\r\n*Español: El texto dice explícitamente \"dos botones cuadrados\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v4",
+      "statement": "**A shape that is perfectly round like a ball is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectangle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Circle / Sphere",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Triangle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Circles have no corners.\r\n*Español: Los círculos no tienen esquinas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v5",
+      "statement": "**Student:** \"Teacher, is a door a square or a rectangle?\"\r\n**Teacher:** \"Usually, it is a rectangle because it is taller than it is wide.\"\r\r\n**What is the student doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opening the door.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Asking for clarification about a shape.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Complaining.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Drawing.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The student is asking a question to understand the difference between shapes.\r\n*Español: El estudiante está haciendo una pregunta para entender la diferencia entre las formas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v6",
+      "statement": "**Passage:** \"My pizza is cut into eight pieces. Each piece has three sides and three sharp points.\"\r\r\n**What shape are the pizza pieces?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Squares.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Circles.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Triangles.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Hearts.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Three sides and three points describe a triangular shape.\r\n*Español: Tres lados y tres puntos describen una forma triangular.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v7",
+      "statement": "**Friend:** \"Which box should I take?\"\r\n**You:** \"Take the small one, it's easier to carry.\"\r\r\n**What is the speaker giving?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A box.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Advice or a recommendation based on size.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "A secret.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Money.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Suggesting the \"small one\" because it's \"easier\" is a piece of advice.\r\n*Español: Sugerir la \"pequeña\" porque es \"más fácil\" es un consejo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v8",
+      "statement": "**That (1)_______ mountain is very (2)_______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) big, (2) high",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) small, (2) low",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) tall, (2) short",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) round, (2) flat",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Mountains are typically described as \"big\" and \"high.\"\r\n*Español: Las montañas se describen típicamente como \"grandes\" y \"altas\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v9",
+      "statement": "**A shape with four equal sides and four right angles is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Square",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Circle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Oval",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A square is a symmetrical four-sided shape.\r\n*Español: Un cuadrado es una forma simétrica de cuatro lados.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-04-shapes-sizes-109-v10",
+      "statement": "**In Colombia, some typical houses from the 'Eje Cafetero' have rectangular _______ (windows) with many colors.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "floors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "ventanas",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "cars",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "dogs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Ventanas\" (windows) are a colorful feature of traditional houses in the coffee region.\r\n*Español: Las ventanas son una característica colorida de las casas tradicionales en la región cafetera.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-shapes-sizes-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    }
+  ]
+}

@@ -1,28 +1,27 @@
 ---
-# === METADATA GLOBAL ===
 id: "CO-ING-11-part4-grammar-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "Inglés"
 tema: "Part 4 - Incomplete Texts (Grammar focus)"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "AI-WorldExams"
 generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
 source: "ICFES Examples (Adaptation)"
 source_url: "https://www.youtube.com/watch?v=MtWa5WjimBB"
 source_license: "Public Domain / Educational Use"
 search_query: "preguntas icfes ingles parte 4 textos incompletos ejemplos gramatica"
 original_question: "Complete the text with correct grammar options (prepositions, verbs)."
 original_answer: "Multiple options per gap."
+# === METADATA GLOBAL ===
+# === LICENSING (NEW v2.1) ===
+# === SOURCE ATTRIBUTION ===
 ---
 
 # Pregunta Base: Gramática en Contexto (Cacao History)

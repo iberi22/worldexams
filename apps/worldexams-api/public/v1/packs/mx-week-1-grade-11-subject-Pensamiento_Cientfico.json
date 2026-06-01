@@ -1,0 +1,2171 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Pensamiento Científico",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-11-subject-Pensamiento_Cientfico",
+    "generated_at": "2026-06-01T17:05:46.761Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "**Dificultad: D3**\n\n¿Cuál es la unidad básica de la vida?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El órgano",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El tejido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La célula",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El átomo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "**Dificultad: D3**\n\n¿Cuál es la función principal de los glóbulos rojos?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combatir infecciones",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Transportar oxígeno",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Producir anticuerpos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Regular la temperatura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "**Dificultad: D4**\n\n¿Cómo se llama la teoría que establece que todos los seres vivos están formados por células?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teoría celular",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Teoría de la evolución",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Teoría génica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Teoría atomista",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "**Dificultad: D4**\n\n¿Cuál es la diferencia entre una célula procariota y una eucariota?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las procariotas no tienen núcleo definido; las eucariotas sí",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las procariotas son más grandes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las eucariotas no tienen ADN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la función de las mitocondrias?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar proteínas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Producir energía (ATP) mediante respiración celular",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Proteger la célula",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "**Dificultad: D5**\n\n¿Qué es el ADN?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tipo de proteína",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ácido desoxirribonucleico, portador de la información genética",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un glúcido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un lípido",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es el proceso por el cual las plantas producen su propio alimento?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fermentación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Digestión",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la ley de Mendel que establece que los alelos se separan durante la formación de gametos?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera ley (dominancia)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Segunda ley (segregación)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Tercera ley (herencia independiente)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ley de Hardy-Weinberg",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "**Dificultad: D7**\n\nSi cruzamos dos plantas de chícharo heterozygous (Aa) para цвет, ¿cuál es la proporción genotípica esperada?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 AA : 2 Aa : 1 aa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3 AA : 1 aa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1 AA : 3 aa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1 AA : 1 Aa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "**Dificultad: D7**\n\n¿Qué tipo de célula tiene mayor número de cromosomas: una célula muscular humana o una célula de cebolla?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula muscular humana (46 cromosomas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La célula de cebolla (16 cromosomas)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tienen el mismo número",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "**Dificultad: D8**\n\n¿Cuál es la diferencia entre respiración aeróbica y anaeróbica?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aeróbica usa oxígeno y produce más ATP; la anaeróbica no usa oxígeno y produce menos ATP",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La anaeróbica produce más ATP",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo las plantas hacen respiración aeróbica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son exactamente iguales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "**Dificultad: D8**\n\n¿Qué es una mutación?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cambio en el número de cromosomas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cualquier cambio permanente en la secuencia del ADN",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Solo cambios grandes en los cromosomas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un error en la división celular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "**Dificultad: D9**\n\nEn un cruzamiento dihibrido AaBb × AaBb, ¿cuál es la proporción fenotípica esperada según la tercera ley de Mendel?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9:3:3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "9:3:3:1",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "**Dificultad: D9**\n\n¿Cuál es la función del ARN de transferencia (ARNt)?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenar información genética",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Transportar aminoácidos al ribosoma durante la traducción",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sintetizar ADN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Regular la división celular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "**Dificultad: D10**\n\nSi una mujer con grupo sanguíneo A (heterocigoto IAi) tiene hijos con un hombre con grupo sanguíneo B (heterocigoto IBi), ¿qué probabilidad hay de que tengan un hijo con grupo O?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "75%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-15",
+      "statement": "**Dificultad: D10**\n\n¿Cuál es la relación entre la fotosíntesis y la respiración celular?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son procesos opuestos: la fotosíntesis captura energía y la respiración la libera",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son el mismo proceso",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo las plantas respiran",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tienen relación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-16",
+      "statement": "**Dificultad: D5**\n\n¿Cómo se llama la reproducción que requiere dos individuos de sexos diferentes?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducción sexual",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción asexual",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gemación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fragmentación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-17",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la función principal del sistema inmunológico?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombear sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Producir hormonas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Defender al organismo contra enfermedades",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Digerir alimentos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-18",
+      "statement": "**Dificultad: D7**\n\n¿Quées la apoptosis?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "División celular descontrolada",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Muerte celular programada",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Fusión celular",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Diferenciación celular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-19",
+      "statement": "**Dificultad: D8**\n\n¿Cuál es la secuencia correcta del flujo de información genética?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ADN → ARN → Proteína",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Proteína → ARN → ADN",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "ADN → ARN → Proteína",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "ARN → ADN → Proteína",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P6-biologia-001",
+      "periodo": 6,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "**Dificultad: D3**\n\n¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Julio",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Newton",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Watt",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pascal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "**Dificultad: D3**\n\nSi un auto recorre 300 km en 5 horas, ¿cuál es su velocidad promedio?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 km/h",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "60 km/h",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "70 km/h",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "80 km/h",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "**Dificultad: D4**\n\nUn objeto se deja caer desde una altura de 45 m. ¿Cuánto tiempo tarda en caer? (g = 10 m/s²)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 segundos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4.5 segundos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2 segundos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "9 segundos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "**Dificultad: D4**\n\n¿Cuál es la segunda ley de Newton?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "F = ma (la fuerza es igual a masa por aceleración)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "F = m + a",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "F = m/a",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "F = mv",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la energía cinética de un cuerpo de 10 kg que se mueve a 5 m/s?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 J",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "125 J",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "250 J",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "75 J",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es el trabajo realizado al levantar una caja de 20 kg a una altura de 3 m?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 J",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6.67 J",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "588 J",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "300 J",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "**Dificultad: D6**\n\nUn-auto de 1000 kg viaja a 72 km/h. ¿Cuál es su energía cinética?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200,000 J",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "72,000 J",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3,600,000 J",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "360,000 J",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la presión que ejerce una fuerza de 500 N sobre una superficie de 2 m²?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 Pa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "1000 Pa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "125 Pa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "500 Pa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "**Dificultad: D7**\n\nUn登山ador sube 800 m de altitud en 4 horas. Si su masa es 70 kg, ¿cuál es la potencia desarrollada? (g = 10 m/s²)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "350 W",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "388.9 W",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1,400 W",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3500 W",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "**Dificultad: D7**\n\n¿Cuál es la velocidad de la luz en el vacío?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 × 10⁸ m/s",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3 × 10⁶ m/s",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.5 × 10⁸ m/s",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "9 × 10⁸ m/s",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "**Dificultad: D8**\n\nUn proyectil se dispara a 60° con velocidad de 40 m/s. ¿Cuál es su alcance máximo? (g = 10 m/s²)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "~138.6 m",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "~160 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "~80 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "~200 m",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "**Dificultad: D8**\n\n¿Cuál es la frecuencia de una onda electromagnética con longitud de onda 600 nm?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 × 10¹⁴ Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3 × 10¹⁴ Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5 × 10¹⁴ Hz",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1.8 × 10¹² Hz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "**Dificultad: D9**\n\nUn cuerpo de 5 kg recibe una fuerza de 20 N durante 3 segundos. ¿Cuál es el impulso?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 N·s",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "300 N·s",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "15 N·s",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 N·s",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "**Dificultad: D9**\n\n¿Cuál es la energía potencial gravitatoria de un cuerpo de 3 kg a 20 m de altura? (g = 10 m/s²)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 J",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6 J",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "600 J",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "23 J",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "**Dificultad: D10**\n\nDos resistencias de 4 Ω y 6 Ω se conectan en paralelo a una batería de 12 V. ¿Cuál es la corriente total?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.2 A",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3 A",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5 A",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "2 A",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-15",
+      "statement": "**Dificultad: D10**\n\n¿Cuál es el momento de inercia de un disco sólido de masa 2 kg y radio 0.5 m respecto a su eje perpendicular?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.25 kg·m²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "0.25 kg·m²",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1 kg·m²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0.5 kg·m²",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-16",
+      "statement": "**Dificultad: D5**\n\n¿A qué fenómeno se debe el arcoíris?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la refracción y reflexión de la luz en gotas de agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "A la reflexión de la luz en nubes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "A la emisión de luz por las nubes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Al magnetismo terrestre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-17",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la relación entre potencia y trabajo?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potencia es trabajo entre tiempo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Potencia es trabajo por tiempo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Potencia es lo inverso del trabajo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-18",
+      "statement": "**Dificultad: D7**\n\n¿Para qué sirve un amperímetro en un circuito?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para medir la corriente eléctrica",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para medir la diferencia de potencial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para medir la resistencia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para generar corriente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-19",
+      "statement": "**Dificultad: D8**\n\n¿Qué tipo de onda es el sonido?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Onda electromagnética",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Onda mecánica longitudinal",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Onda electromagnética transversal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Onda gravitacional",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-fisica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "**Dificultad: D3**\n\n¿Cuál es el número atómico del carbono?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "**Dificultad: D3**\n\n¿Cómo se llama la tabla que organiza los elementos químicos?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tabla Periódica",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tabla de Mendeléyev",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tabla Periódica",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Tabla de Dalton",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "**Dificultad: D4**\n\n¿Cuál es la fórmula del agua?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CO₂",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "NaCl",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "H₂O",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "O₂",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "**Dificultad: D4**\n\n¿Cuál es el número de Avogadro?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.022 × 10²³",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3.14",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "9.8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1.6 × 10⁻¹⁹",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "**Dificultad: D5**\n\n¿Cuántos moles de agua hay en 180 g de H₂O? (Masa molar = 18 g/mol)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 mol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 mol",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1 mol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 mol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la configuración electrónica del oxígeno (Z=8)?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1s² 2s² 2p⁴",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "1s² 2s² 2p⁶",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1s² 2s² 2p²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1s² 2s² 2p³",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es el pH de una solución neutra a 25°C?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la molaridad de una solución que contiene 40 g de NaOH en 2 litros de solución? (Masa molar NaOH = 40 g/mol)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 M",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2 M",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1 M",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0.25 M",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "**Dificultad: D7**\n\n¿Cuál es la reacción de formación del agua a partir de sus elementos?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2H₂ + O₂ → 2H₂O",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "H₂ + O₂ → H₂O",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2H₂O → 2H₂ + O₂",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "H₂O₂ → H₂ + O₂",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "**Dificultad: D7**\n\n¿En qué tipo de enlace los electrones se comparten igualmente?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente no polar",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Enlace covalente polar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "**Dificultad: D8**\n\n¿Cuál es el producto de la siguiente reacción: CH₄ + 2O₂ → ?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CO₂ + 2H₂O",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "C + 2H₂O",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "CH₂O + H₂O",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "CO + H₂O",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "**Dificultad: D8**\n\n¿Quées un isótopo?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Átomos del mismo elemento con diferente número de neutrones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Átomos de diferentes elementos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Átomos con diferente número de protones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Moléculas del mismo compuesto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "**Dificultad: D9**\n\nCalcula el pH de una solución con [H⁺] = 1 × 10⁻⁴ M\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "**Dificultad: D9**\n\n¿Cuál es la entalpía de reacción estándar de: N₂ + 3H₂ → 2NH₃ si ΔHf°(NH₃) = -46 kJ/mol?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "46 kJ",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-92 kJ",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "92 kJ",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-46 kJ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "**Dificultad: D10**\n\n¿Quées la energía de ionización?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía necesaria para removeer un electrón de un átomo neutro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La energía liberada al ganar un electrón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La energía de enlace",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La energía nuclear",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-15",
+      "statement": "**Dificultad: D10**\n\nSi el pH de una solución es 3, ¿cuál es la [OH⁻]? (Kw = 1 × 10⁻¹⁴)\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 × 10⁻³ M",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1 × 10⁻⁷ M",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1 × 10⁻¹¹ M",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1 × 10⁻¹⁴ M",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-16",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la función principal de las enzimas?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelerar las reacciones químicas biológicas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Producir energía directamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar información genética",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Transportar oxígeno",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-17",
+      "statement": "**Dificultad: D6**\n\n¿Cómo se llama la representación de una reacción química con fórmulas?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecuación química",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fórmula molecular",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Estructura de Lewis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Configuración electrónica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-18",
+      "statement": "**Dificultad: D7**\n\n¿Cuál es el gas principal de la atmósfera terrestre?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nitrógeno (N₂) con ~78%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno (O₂) con ~21%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "CO₂ con ~0.04%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Argón con ~1%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-19",
+      "statement": "**Dificultad: D8**\n\n¿Qué tipo de reacción es: 2Na + Cl₂ → 2NaCl?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de síntesis (combinación directa)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de descomposición",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de sustitución simple",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de neutralización",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P5-quimica-001",
+      "periodo": 5,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

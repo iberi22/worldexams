@@ -1,24 +1,24 @@
 ---
-id: CO-ING-11-urbanization-001
-country: co
-grado: 11
-asignatura: ingles
-tema: urbanization
-cefr_level: B2
-protocol_version: 3.0-COL
-periodo: 1
-total_questions: 10
-international_focus: TOEFL Reading - Urbanization
-estado: approved
-creador: Antigravity-Agent
-generation_date: '2026-01-01'
-source: therealielts.vn
-source_url: 'https://therealielts.vn/reading-practice/urbanization-challenges-and-solutions'
-licenses:
-  v1: CC BY-SA 4.0
-  v2-v10: CC BY-NC-SA 4.0
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "CO-ING-11-urbanization-001"
+cefr_level: "B2"
+country: "co"
+grado: "11"
+asignatura: "ingles"
+tema: "urbanization"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "TOEFL Reading - Urbanization"
+estado: "approved"
+creador: "Antigravity-Agent"
+generation_date: "2026-01-01"
+source: "therealielts.vn"
+source_url: "https://therealielts.vn/reading-practice/urbanization-challenges-and-solutions"
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v10: "CC BY-NC-SA 4.0"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
 
 # Topic: Urbanization Challenges (B2+)

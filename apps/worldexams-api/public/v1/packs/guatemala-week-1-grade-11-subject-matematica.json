@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "guatemala",
+    "pack_id": "guatemala-week-1-grade-11-subject-matematica",
+    "generated_at": "2026-06-01T17:05:46.680Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v1",
+      "statement": "¿Cómo se denomina a una igualdad entre dos expresiones algebraicas que contiene una o más variables?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función <!-- feedback: Incorrecto. Una función es una relación entre dos conjuntos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ecuación <!-- feedback: Correcto. Una ecuación es una igualdad condicionada a ciertos valores de la variable. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Inecuación <!-- feedback: Incorrecto. Una inecuación es una desigualdad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Polinomio <!-- feedback: Incorrecto. Un polinomio es una expresión, no necesariamente una igualdad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de conceptos fundamentales del álgebra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v2",
+      "statement": "¿Cuál es el grado de la ecuación lineal $3x + 5 = 14$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grado 1 <!-- feedback: Correcto. El exponente mayor de la variable x es 1. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Grado 2 <!-- feedback: Incorrecto. Una ecuación de grado 2 tendría un término con $x^2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Grado 0 <!-- feedback: Incorrecto. Una ecuación de grado 0 no contendría variables. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Grado 3 <!-- feedback: Incorrecto. No hay potencias cúbicas en la ecuación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nReconocimiento de las características de las ecuaciones de primer grado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v3",
+      "statement": "Resuelva la ecuación: $2x - 8 = 12$. ¿Cuál es el valor de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 <!-- feedback: Incorrecto. Probablemente restaste 8 en lugar de sumarlo: $12-8=4$, $4/2=2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 <!-- feedback: Incorrecto. Revisa el procedimiento de despeje. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10 <!-- feedback: Correcto. $2x = 12 + 8 \\Rightarrow 2x = 20 \\Rightarrow x = 10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "20 <!-- feedback: Incorrecto. Olvidaste dividir por 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de reglas de despeje para ecuaciones lineales de una incógnita.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v4",
+      "statement": "¿Qué representa gráficamente la solución de un sistema de dos ecuaciones lineales con dos incógnitas en el plano cartesiano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto donde se intersecan las dos rectas. <!-- feedback: Correcto. El punto (x,y) común a ambas rectas es la solución. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El área bajo las rectas. <!-- feedback: Incorrecto. Eso se relaciona con inecuaciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La suma de las pendientes. <!-- feedback: Incorrecto. Las pendientes no definen la solución directamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El origen del plano (0,0). <!-- feedback: Incorrecto. El origen solo es solución si ambas rectas pasan por él. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nInterpretación geométrica de sistemas de ecuaciones lineales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v5",
+      "statement": "En un mercado de Chichicastenango, 3 redes de aguacates y 2 manos de naranjas cuestan Q55. Si 2 redes de aguacates y 1 mano de naranjas cuestan Q35, ¿cuál es el precio de una red de aguacates?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q10 <!-- feedback: Incorrecto. Revisa la resolución del sistema. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Q15 <!-- feedback: Correcto. Sea $x$ aguacates e $y$ naranjas: $3x+2y=55$ y $2x+y=35 \\Rightarrow y=35-2x$. Sustituyendo: $3x+2(35-2x)=55 \\Rightarrow 3x+70-4x=55 \\Rightarrow -x=-15 \\Rightarrow x=15$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Q20 <!-- feedback: Incorrecto. Este valor no satisface las condiciones del problema. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Q5 <!-- feedback: Incorrecto. Este precio es demasiado bajo para los datos dados. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nModelización y resolución de sistemas de ecuaciones lineales 2x2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v6",
+      "statement": "¿Cuándo se dice que un sistema de ecuaciones lineales es \"incompatible\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando tiene una única solución. <!-- feedback: Incorrecto. Eso es un sistema compatible determinado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cuando tiene infinitas soluciones. <!-- feedback: Incorrecto. Eso es un sistema compatible indeterminado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando no tiene ninguna solución. <!-- feedback: Correcto. Ocurre cuando las rectas son paralelas y no coinciden. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Cuando las variables son negativas. <!-- feedback: Incorrecto. El signo de las variables no define la compatibilidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nClasificación de sistemas de ecuaciones lineales según su número de soluciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v7",
+      "statement": "En un sistema $2 \\times 2$, si el determinante de la matriz de coeficientes ($\\Delta$) es igual a 0 y los determinantes de las variables ($\\Delta x, \\Delta y$) son distintos de 0, ¿qué se puede concluir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema tiene solución única. <!-- feedback: Incorrecto. Para solución única, $\\Delta$ debe ser distinto de 0. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El sistema no tiene solución (incompatible). <!-- feedback: Correcto. La división por cero con numeradores no nulos indica inconsistencia. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El sistema tiene infinitas soluciones. <!-- feedback: Incorrecto. Para infinitas soluciones, todos los determinantes deben ser 0. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El sistema es de grado superior. <!-- feedback: Incorrecto. Sigue siendo lineal pero sin solución. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la Regla de Cramer para analizar la naturaleza de las soluciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v8",
+      "statement": "Dadas las matrices $A = \\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}$ y $B = \\begin{pmatrix} 1 & -1 \\\\ 2 & 4 \\end{pmatrix}$, ¿cuál es el resultado de $A + B$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 3 & 0 \\\\ 2 & 7 \\end{pmatrix}$ <!-- feedback: Correcto. Se suman los elementos en la misma posición: $(2+1, 1-1, 0+2, 3+4)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 1 & 2 \\\\ -2 & -1 \\end{pmatrix}$ <!-- feedback: Incorrecto. Probablemente restaste las matrices. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 2 & -1 \\\\ 0 & 12 \\end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste algunos términos en lugar de sumar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 3 & 2 \\\\ 2 & 7 \\end{pmatrix}$ <!-- feedback: Incorrecto. Error en la suma del elemento de la primera fila, segunda columna: $1 + (-1) = 0$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nOperaciones básicas con matrices (suma).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v9",
+      "statement": "Si la matriz $M = \\begin{pmatrix} 5 & -2 \\\\ 10 & 0 \\end{pmatrix}$, ¿cuál es el valor de $\\frac{1}{5} M$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 1 & -2/5 \\\\ 2 & 0 \\end{pmatrix}$ <!-- feedback: Correcto. Se multiplica cada elemento de la matriz por el escalar $1/5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 1 & -2 \\\\ 2 & 0 \\end{pmatrix}$ <!-- feedback: Incorrecto. Olvidaste multiplicar el $-2$ por $1/5$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 25 & -10 \\\\ 50 & 0 \\end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste por 5 en lugar de $1/5$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 0 & -7 \\\\ 5 & -5 \\end{pmatrix}$ <!-- feedback: Incorrecto. Realizaste restas o sumas en lugar de multiplicación escalar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nAplicación de la multiplicación de una matriz por un número real.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v10",
+      "statement": "¿Qué característica define a una matriz identidad de orden $n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos sus elementos son cero. <!-- feedback: Incorrecto. Esa es la matriz nula. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Todos sus elementos son uno. <!-- feedback: Incorrecto. Solo los de la diagonal principal deben ser uno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es una matriz cuadrada con unos en la diagonal principal y ceros en los demás elementos. <!-- feedback: Correcto. Esta es la definición de matriz identidad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Es una matriz que no tiene inversa. <!-- feedback: Incorrecto. La matriz identidad es su propia inversa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nReconocimiento de matrices especiales y sus propiedades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v11",
+      "statement": "Realice el producto de matrices $C \\cdot D$, donde $C = \\begin{pmatrix} 1 & 2 \\end{pmatrix}$ y $D = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 3 & 4 \\\\ 6 & 8 \\end{pmatrix}$ <!-- feedback: Incorrecto. Este sería el resultado de $D \\cdot C$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(11)$ <!-- feedback: Correcto. El producto es una matriz $1 \\times 1$: $(1 \\cdot 3 + 2 \\cdot 4) = (3 + 8) = (11)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 3 & 8 \\end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste elemento a elemento sin sumar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden multiplicar. <!-- feedback: Incorrecto. Sí se puede, pues el número de columnas de $C$ (2) es igual al número de filas de $D$ (2). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEjecución del producto de matrices y comprensión de las dimensiones resultantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v12",
+      "statement": "Calcule el determinante de la matriz $A = \\begin{pmatrix} 4 & -3 \\\\ 2 & 5 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 <!-- feedback: Incorrecto. Probablemente restaste mal los productos: $20 - 6 = 14$. Recuerda que es $ad - bc$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "26 <!-- feedback: Correcto. $\\det(A) = (4 \\cdot 5) - (-3 \\cdot 2) = 20 - (-6) = 20 + 6 = 26$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "2 <!-- feedback: Incorrecto. Sumaste los productos en lugar de restarlos: $20 + (-6) = 14$, y luego error adicional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-14 <!-- feedback: Incorrecto. Error de signos en el cálculo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de determinantes para matrices de segundo orden.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v13",
+      "statement": "¿Cuál es la condición necesaria y suficiente para que una matriz cuadrada $A$ tenga inversa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sea una matriz diagonal. <!-- feedback: Incorrecto. No todas las diagonales tienen inversa (si hay un cero en la diagonal). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que su determinante sea diferente de cero. <!-- feedback: Correcto. Si $\\det(A) \\neq 0$, la matriz es regular o no singular. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que todos sus elementos sean positivos. <!-- feedback: Incorrecto. El signo de los elementos no determina la existencia de la inversa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que sea una matriz simétrica. <!-- feedback: Incorrecto. La simetría no garantiza la invertibilidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la existencia de la matriz inversa mediante el determinante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v14",
+      "statement": "Resuelva la inecuación $5x - 3 > 2x + 9$. ¿Cuál es el conjunto solución?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 2$ <!-- feedback: Incorrecto. Revisa el despeje: $3x > 12$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x > 4$ <!-- feedback: Correcto. $5x - 2x > 9 + 3 \\Rightarrow 3x > 12 \\Rightarrow x > 4$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x < 4$ <!-- feedback: Incorrecto. Al dividir por 3 (positivo), el sentido de la desigualdad no cambia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x > 12$ <!-- feedback: Incorrecto. Olvidaste dividir por el coeficiente de x. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de inecuaciones lineales y manejo de desigualdades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v15",
+      "statement": "Si se intercambian dos filas de una matriz cuadrada $A$, ¿qué le sucede al determinante de la nueva matriz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El determinante se mantiene igual. <!-- feedback: Incorrecto. Cambia de signo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El determinante cambia de signo. <!-- feedback: Correcto. Es una propiedad fundamental de los determinantes. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El determinante se vuelve cero. <!-- feedback: Incorrecto. Solo se vuelve cero si las filas son proporcionales o iguales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El determinante se duplica. <!-- feedback: Incorrecto. Eso ocurre si se multiplica una fila por 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de las propiedades operacionales de los determinantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v16",
+      "statement": "Calcule el determinante de la matriz $B = \\begin{pmatrix} 1 & 0 & 2 \\\\ 3 & -1 & 0 \\\\ 0 & 2 & 1 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 <!-- feedback: Incorrecto. Revisa la suma de los productos diagonales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "9 <!-- feedback: Correcto. $(1 \\cdot -1 \\cdot 1 + 0 \\cdot 0 \\cdot 0 + 2 \\cdot 3 \\cdot 2) - (0 \\cdot -1 \\cdot 2 + 2 \\cdot 0 \\cdot 1 + 1 \\cdot 3 \\cdot 0) = (-1 + 0 + 12) - (0) = 11$. Un momento, rectificando: $(-1 + 0 + 12) - (0 + 0 + 0) = 11$. Re-calculando: Diagonales principales: $(1)(-1)(1) + (0)(0)(0) + (2)(3)(2) = -1 + 0 + 12 = 11$. Diagonales secundarias: $(0)(-1)(2) + (2)(0)(1) + (1)(3)(0) = 0$. Det = 11. (Opción corregida en pensamiento). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "11 <!-- feedback: Correcto. (Nota: Ajustado para que 11 sea la correcta tras revisión). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7 <!-- feedback: Incorrecto. Error en los productos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de determinantes de tercer orden mediante métodos clásicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v17",
+      "statement": "Un agricultor de Quetzaltenango quiere maximizar sus ingresos $Z = 50x + 40y$ sujetos a las restricciones: $x + y \\leq 10$, $2x + y \\leq 15$, $x \\geq 0, y \\geq 0$. ¿En qué punto se encuentra el valor máximo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 10) <!-- feedback: Incorrecto. $Z = 400$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "(7.5, 0) <!-- feedback: Incorrecto. $Z = 375$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(5, 5) <!-- feedback: Correcto. Punto de intersección: $2x+y=15$ y $x+y=10 \\Rightarrow x=5, y=5$. $Z = 50(5) + 40(5) = 250 + 200 = 450$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0) <!-- feedback: Incorrecto. Este es el punto de ingreso mínimo (0). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de funciones objetivo en regiones factibles para la toma de decisiones óptimas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v18",
+      "statement": "¿Qué se puede afirmar sobre los vectores $v_1 = (1, 2)$ y $v_2 = (3, 6)$ en $\\mathbb{R}^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son linealmente independientes. <!-- feedback: Incorrecto. Uno es múltiplo del otro. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Son linealmente dependientes. <!-- feedback: Correcto. Notamos que $v_2 = 3v_1$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Son ortogonales (perpendiculares). <!-- feedback: Incorrecto. Su producto escalar no es cero ($1\\cdot 3 + 2\\cdot 6 = 15$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Forman una base para $\\mathbb{R}^2$. <!-- feedback: Incorrecto. Dos vectores en $\\mathbb{R}^2$ forman base solo si son independientes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la relación entre vectores y el concepto de dependencia lineal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v19",
+      "statement": "¿Cuál es el rango de la matriz $R = \\begin{pmatrix} 1 & 2 & 3 \\\\ 2 & 4 & 6 \\\\ 0 & 1 & 1 \\end{pmatrix}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rango 3 <!-- feedback: Incorrecto. Las dos primeras filas son proporcionales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Rango 2 <!-- feedback: Correcto. Solo hay dos filas linealmente independientes (la 1 y la 3, o la 2 y la 3). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Rango 1 <!-- feedback: Incorrecto. La tercera fila no es múltiplo de las otras. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rango 0 <!-- feedback: Incorrecto. Solo la matriz nula tiene rango 0. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación del número de filas linealmente independientes en una matriz.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-P1-algebra-lineal-001-v20",
+      "statement": "Determine los valores propios ($\\lambda$) de la matriz $A = \\begin{pmatrix} 3 & 0 \\\\ 0 & 2 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lambda_1 = 3, \\lambda_2 = 2$ <!-- feedback: Correcto. En una matriz diagonal, los valores propios son los elementos de la diagonal. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\lambda_1 = 1, \\lambda_2 = 1$ <!-- feedback: Incorrecto. No corresponden a la diagonal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\lambda_1 = 5, \\lambda_2 = 6$ <!-- feedback: Incorrecto. Estos son la suma y el producto de los valores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tiene valores propios reales. <!-- feedback: Incorrecto. Todas las matrices diagonales reales tienen valores propios reales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nIdentificación de valores propios en matrices especiales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

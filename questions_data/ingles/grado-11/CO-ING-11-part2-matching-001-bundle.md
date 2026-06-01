@@ -1,28 +1,27 @@
 ---
-# === METADATA GLOBAL ===
 id: "CO-ING-11-part2-matching-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "Inglés"
 tema: "Part 2 - Word Matching"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "AI-WorldExams"
 generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
 source: "ICFES Example Questions (Part 2)"
 source_url: "https://www.icfes.gov.co"
 source_license: "Public Domain"
 search_query: "preguntas icfes ingles parte 2 y 3 ejemplos"
 original_question: "Match the description with the correct word."
 original_answer: "Vocabulary matching."
+# === METADATA GLOBAL ===
+# === LICENSING (NEW v2.1) ===
+# === SOURCE ATTRIBUTION ===
 ---
 
 # Pregunta Base: Vocabulario de Objetos Cotidianos

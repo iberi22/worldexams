@@ -1,22 +1,23 @@
 ---
-id: UNI-ENG-09-personal-finance-001
-country: global
-grado: 9
-asignatura: ingles
-tema: personal-finance
-periodo: 1
-cefr_level: B1
-protocol_version: 3.2-GLOBAL
-total_questions: 10
-international_focus: Money / Budgeting / Savings
-licenses:
-  v1-v10: CC BY-NC-SA 4.0
-creador: AI-WorldExams
-generation_date: '2026-01-10'
-source: World Exams Original
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "UNI-ENG-09-personal-finance-001"
+cefr_level: "B1"
+country: "global"
+grado: "9"
+asignatura: "ingles"
+tema: "personal-finance"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Money / Budgeting / Savings"
+licenses: ""
+v1-v10: "CC BY-NC-SA 4.0"
+creador: "AI-WorldExams"
+generation_date: "2026-01-10"
+source: "World Exams Original"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Personal Finance (Grade 9)
 
 > **Focus:** Needs vs Wants, Budgeting, and Savings.

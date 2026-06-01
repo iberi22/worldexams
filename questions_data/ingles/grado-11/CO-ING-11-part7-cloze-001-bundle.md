@@ -1,28 +1,27 @@
 ---
-# === METADATA GLOBAL ===
 id: "CO-ING-11-part7-cloze-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "Inglés"
 tema: "Part 7 - Cloze Test (Vocabulary & Grammar)"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "AI-WorldExams"
 generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
 source: "ICFES Example Questions (Part 7)"
 source_url: "https://www.icfes.gov.co"
 source_license: "Public Domain"
 search_query: "preguntas icfes ingles parte 5 y 7 ejemplos"
-original_question: "Complete the text about Valentine's day."
+original_question: "Complete the text about Valentines day."
 original_answer: "Multiple choice cloze."
+# === METADATA GLOBAL ===
+# === LICENSING (NEW v2.1) ===
+# === SOURCE ATTRIBUTION ===
 ---
 
 # Pregunta Base: Valentine's Day (Cloze Test)

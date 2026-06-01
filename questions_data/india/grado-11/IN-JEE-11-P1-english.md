@@ -1,17 +1,18 @@
 ---
 id: "IN-JEE-11-P1-english-013"
+cefr_level: "B1"
 country: "india"
-exam: "JEE / NEET"
-grado: 11
+grado: "11"
 asignatura: "English"
 tema: "English Language"
-periodo: 1
+periodo: "1"
 protocol_version: "5.1"
-bundle_size: 20
+exam: "JEE / NEET"
+bundle_size: "20"
 alignment: "JEE/NEET 2026"
 quality_status: "UNREVISED"
 generation_status: "RAW"
-needs_human_review: true
+needs_human_review: "true"
 license: "CC BY-NC-SA 4.0"
 ---
 

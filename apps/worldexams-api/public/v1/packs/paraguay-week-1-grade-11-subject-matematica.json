@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "paraguay",
+    "pack_id": "paraguay-week-1-grade-11-subject-matematica",
+    "generated_at": "2026-06-01T17:05:46.776Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v1",
+      "statement": "Si un kilo de almidón cuesta $a$ guaraníes y un kilo de queso paraguay cuesta $q$ guaraníes, ¿cuál es la expresión que representa el costo total de comprar 3 kg de almidón y 2 kg de queso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5(a + q)$ <!-- feedback: Incorrecto. Estás sumando las cantidades y multiplicando por la suma de precios, lo cual es incorrecto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$3a + 2q$ <!-- feedback: Correcto. Multiplicás la cantidad de cada producto por su precio unitario y sumás ambos resultados. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$2a + 3q$ <!-- feedback: Incorrecto. Intercambiaste las cantidades de almidón y queso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$6aq$ <!-- feedback: Incorrecto. Multiplicaste las cantidades y los precios entre sí. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la habilidad para traducir un enunciado de compra y venta del lenguaje natural al lenguaje algebraico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v2",
+      "statement": "Simplificá la siguiente expresión: $4x + 7y - 2x + 3y$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 4y$ <!-- feedback: Incorrecto. Cometiste un error al restar los términos en $y$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$2x + 10y$ <!-- feedback: Correcto. Agrupás términos semejantes: $4x - 2x = 2x$ y $7y + 3y = 10y$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$6x + 10y$ <!-- feedback: Incorrecto. Sumaste los términos en $x$ en lugar de restarlos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$12xy$ <!-- feedback: Incorrecto. No se pueden sumar términos con variables diferentes en un solo monomio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la capacidad de identificar y reducir términos semejantes en expresiones polinomiales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v3",
+      "statement": "Tenés un saldo inicial de 20.000 Gs. en tu tarjeta de pasaje. Si cada viaje cuesta 3.400 Gs. y después de $x$ viajes te quedan 6.400 Gs., ¿cuántos viajes realizaste?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 viajes <!-- feedback: Incorrecto. El gasto sería de 10.200 Gs. y te sobrarían 9.800 Gs. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 viajes <!-- feedback: Correcto. $20.000 - 3.400x = 6.400 \\Rightarrow 13.600 = 3.400x \\Rightarrow x = 4$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "5 viajes <!-- feedback: Incorrecto. El saldo restante sería de 3.000 Gs. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6 viajes <!-- feedback: Incorrecto. No tendrías saldo suficiente para el sexto viaje. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la resolución de ecuaciones lineales de primer grado aplicadas a una situación de consumo cotidiano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v4",
+      "statement": "Si $x = -3$ e $y = 5$, ¿cuál es el valor de la expresión $2x + y^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$ <!-- feedback: Incorrecto. Error al elevar 5 al cuadrado o al operar con -6. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$19$ <!-- feedback: Correcto. $2(-3) + (5)^2 = -6 + 25 = 19$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$31$ <!-- feedback: Incorrecto. Multiplicaste mal el primer término o sumaste incorrectamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$7$ <!-- feedback: Incorrecto. Error en el signo del primer término o en la potencia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la capacidad de sustituir valores en expresiones algebraicas respetando la jerarquía de las operaciones y la regla de los signos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v5",
+      "statement": "Desarrollá el siguiente cuadrado de un binomio: $(2x - 3)^2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 - 9$ <!-- feedback: Incorrecto. Olvidaste el término central del desarrollo del binomio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2 + 9$ <!-- feedback: Incorrecto. Olvidaste el término central y el signo del último término es correcto, pero falta el medio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2 - 12x + 9$ <!-- feedback: Correcto. Aplicando $(a-b)^2 = a^2 - 2ab + b^2$, resulta $(2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2 - 6x + 9$ <!-- feedback: Incorrecto. El término central debe ser el doble del producto de los términos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvalúa el conocimiento y la aplicación de las reglas de productos notables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v6",
+      "statement": "¿Cuál es la factorización correcta de la expresión $9x^2 - 25y^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3x - 5y)^2$ <!-- feedback: Incorrecto. Esto corresponde a un trinomio cuadrado perfecto, no a una diferencia de cuadrados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(3x - 5y)(3x + 5y)$ <!-- feedback: Correcto. Es una diferencia de cuadrados: $a^2 - b^2 = (a-b)(a+b)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$3(x - 5y)(x + 5y)$ <!-- feedback: Incorrecto. Los coeficientes no están bien aplicados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(9x - 25y)(x + y)$ <!-- feedback: Incorrecto. No genera la expresión original al multiplicar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la habilidad para identificar y aplicar casos de factorización en polinomios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v7",
+      "statement": "En un corral hay gallinas y cerdos. En total hay 30 cabezas y 80 patas. ¿Cuántos cerdos hay en el corral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 <!-- feedback: Correcto. $x+y=30$ y $2x+4y=80$. Resolviendo, $2(30-y)+4y=80 \\Rightarrow 60+2y=80 \\Rightarrow 2y=20 \\Rightarrow y=10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "15 <!-- feedback: Incorrecto. Habría 15 gallinas y 15 cerdos: $30+60=90$ patas, lo cual supera el total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20 <!-- feedback: Incorrecto. Habría solo 10 gallinas: $20+80=100$ patas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5 <!-- feedback: Incorrecto. Habría 25 gallinas: $50+20=70$ patas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nEvalúa la capacidad de plantear y resolver sistemas de ecuaciones lineales aplicados a problemas lógicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v8",
+      "statement": "¿Cuáles son las soluciones de la ecuación $x^2 - 7x + 10 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2, x = -5$ <!-- feedback: Incorrecto. Error en los signos de las soluciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2, x = 5$ <!-- feedback: Correcto. Factorizando: $(x-2)(x-5)=0$. Por lo tanto, las raíces son 2 y 5. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1, x = 10$ <!-- feedback: Incorrecto. El producto es 10 pero la suma no es 7. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = -1, x = 7$ <!-- feedback: Incorrecto. Los valores no satisfacen la ecuación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la resolución de ecuaciones de segundo grado mediante el método de factorización de trinomios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v9",
+      "statement": "Dada la ecuación $x^2 - 4x + 4 = 0$, ¿qué podés decir sobre la naturaleza de sus raíces basándote en el discriminante ($\\Delta$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene dos raíces reales y distintas. <!-- feedback: Incorrecto. Eso sucede si $\\Delta > 0$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una única raíz real (raíz doble). <!-- feedback: Correcto. $\\Delta = (-4)^2 - 4(1)(4) = 16 - 16 = 0$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "No tiene raíces en el conjunto de los números reales. <!-- feedback: Incorrecto. Eso sucede si $\\Delta < 0$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tiene raíces infinitas. <!-- feedback: Incorrecto. Una ecuación cuadrática tiene como máximo dos soluciones. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la interpretación del discriminante para determinar el tipo de soluciones de una ecuación cuadrática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v10",
+      "statement": "El área de un cuadrado está representada por la expresión $x^2 + 10x + 25$. ¿Cuál es la expresión que representa la medida de uno de sus lados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 25$ <!-- feedback: Incorrecto. Esto no generaría el término central al elevar al cuadrado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x + 5$ <!-- feedback: Correcto. La expresión es un trinomio cuadrado perfecto: $(x+5)^2 = x^2 + 10x + 25$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 5$ <!-- feedback: Incorrecto. La unidad de medida del lado debe ser de primer grado si el área es de segundo grado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 10$ <!-- feedback: Incorrecto. Esto se relaciona con el perímetro, no con la raíz del área. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el reconocimiento de trinomios cuadrados perfectos y su relación con la geometría.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v11",
+      "statement": "Simplificá la siguiente fracción algebraica: $\\frac{x^2 - x - 6}{x^2 - 9}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x-2}{x-3}$ <!-- feedback: Incorrecto. Error en los signos de la factorización del numerador. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x+2}{x+3}$ <!-- feedback: Correcto. $\\frac{(x-3)(x+2)}{(x-3)(x+3)} = \\frac{x+2}{x+3}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x-3}{x+3}$ <!-- feedback: Incorrecto. Cancelaste mal los factores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1$ <!-- feedback: Incorrecto. Numerador y denominador no son expresiones equivalentes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la capacidad de simplificar expresiones racionales mediante la factorización simultánea de numerador y denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v12",
+      "statement": "Realizá la siguiente suma de fracciones: $\\frac{3}{x-1} + \\frac{2}{x+1}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{2x}$ <!-- feedback: Incorrecto. No se pueden sumar denominadores directamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5x+1}{x^2-1}$ <!-- feedback: Correcto. MCM = $(x-1)(x+1) = x^2-1$. Suma = $\\frac{3(x+1)+2(x-1)}{x^2-1} = \\frac{3x+3+2x-2}{x^2-1} = \\frac{5x+1}{x^2-1}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5x+5}{x^2-1}$ <!-- feedback: Incorrecto. Error en la distribución del segundo numerador. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{x^2-1}$ <!-- feedback: Incorrecto. Olvidaste multiplicar los numeradores por los factores correspondientes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el procedimiento para sumar expresiones algebraicas racionales con distintos denominadores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v13",
+      "statement": "Resolvé la inecuación: $5x - 8 \\geq 2x + 7$. ¿Cuál es el conjunto solución?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 3$ <!-- feedback: Incorrecto. Error de cálculo en la resta de los términos constantes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 5$ <!-- feedback: Correcto. $3x \\geq 15 \\Rightarrow x \\geq 5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq 5$ <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad sin motivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x \\geq 15$ <!-- feedback: Incorrecto. Te faltó dividir por el coeficiente de $x$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la resolución de inecuaciones de primer grado y la representación de su solución.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v14",
+      "statement": "¿Cuál es el vértice de la parábola representada por la función $f(x) = (x - 3)^2 + 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, -5)$ <!-- feedback: Incorrecto. El valor de $k$ mantiene su signo en la forma canónica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 5)$ <!-- feedback: Correcto. En la forma $f(x) = a(x-h)^2 + k$, el vértice es $(h, k)$. Aquí $h=3$ y $k=5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$(-3, 5)$ <!-- feedback: Incorrecto. El valor de $h$ cambia de signo respecto a lo que aparece dentro del paréntesis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 5)$ <!-- feedback: Incorrecto. Este sería el vértice si no hubiera desplazamiento horizontal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el reconocimiento de los elementos de una parábola a partir de su ecuación en forma canónica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v15",
+      "statement": "Resolvé la ecuación $3^{x+1} = 27$. ¿Cuál es el valor de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$ <!-- feedback: Incorrecto. Olvidaste restar el 1 del exponente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ <!-- feedback: Correcto. $3^{x+1} = 3^3 \\Rightarrow x+1 = 3 \\Rightarrow x = 2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ <!-- feedback: Incorrecto. $3^2$ no es 27. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9$ <!-- feedback: Incorrecto. Dividiste 27 entre 3. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la resolución de ecuaciones exponenciales mediante la igualación de bases.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v16",
+      "statement": "¿Para qué valor de $a$ el sistema de ecuaciones no tiene solución?\n$2x + 4y = 10$\n$x + ay = 7$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 4$ <!-- feedback: Incorrecto. El sistema tendría una solución única. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$a = 2$ <!-- feedback: Correcto. Si $a=2$, las pendientes son iguales ($\\frac{2}{1} = \\frac{4}{2}$), pero los términos independientes no guardan la misma proporción ($\\frac{10}{7}$), por lo que las rectas son paralelas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$a = 0$ <!-- feedback: Incorrecto. El sistema tendría solución única. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$a = 1$ <!-- feedback: Incorrecto. El sistema tendría solución única. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el análisis de la compatibilidad y determinación de sistemas de ecuaciones lineales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v17",
+      "statement": "¿Cuál de las siguientes expresiones es equivalente a $\\log(x^2 \\cdot y)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\log(x) \\cdot \\log(y)$ <!-- feedback: Incorrecto. El logaritmo de un producto se convierte en suma, no en multiplicación de logaritmos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$2\\log(x) + \\log(y)$ <!-- feedback: Correcto. Usando las propiedades: $\\log(x^2 \\cdot y) = \\log(x^2) + \\log(y) = 2\\log(x) + \\log(y)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\log(2x) + \\log(y)$ <!-- feedback: Incorrecto. El exponente pasa multiplicando al logaritmo, no al argumento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(\\log x)^2 + \\log y$ <!-- feedback: Incorrecto. La potencia afecta al argumento, no a la función logarítmica completa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el dominio de las propiedades de los logaritmos (producto y potencia).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v18",
+      "statement": "Si $f(x) = 2x - 5$, ¿cuál es la expresión de su función inversa $f^{-1}(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{1}{2x-5}$ <!-- feedback: Incorrecto. Esa es la función recíproca, no la inversa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x+5}{2}$ <!-- feedback: Correcto. Despejando $x$: $y = 2x - 5 \\Rightarrow y+5 = 2x \\Rightarrow x = (y+5)/2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 5x + 2$ <!-- feedback: Incorrecto. Errores en el despeje de los términos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x-5}{2}$ <!-- feedback: Incorrecto. Error de signo al pasar el término constante al otro lado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la capacidad de hallar la función inversa de una función lineal mediante despeje algebraico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v19",
+      "statement": "Dada la función $f(x) = \\frac{2x + 1}{x - 4}$, ¿cuál es su asíntota vertical y su asíntota horizontal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V: $x = -1/2$, H: $y = 4$ <!-- feedback: Incorrecto. Confundiste los valores de $x$ e $y$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "V: $x = 4$, H: $y = 2$ <!-- feedback: Correcto. La asíntota vertical ocurre donde el denominador es cero ($x=4$). La horizontal es la razón de los coeficientes principales ($2/1 = 2$). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "V: $x = 2$, H: $y = 4$ <!-- feedback: Incorrecto. Valores invertidos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntotas. <!-- feedback: Incorrecto. Las funciones racionales de este tipo siempre presentan asíntotas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa el análisis del comportamiento asintótico de funciones racionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-algebra-001-v20",
+      "statement": "Si $f(x) = x^2$ y $g(x) = x + 3$, ¿cuál es la expresión resultante de la composición $(f \\circ g)(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 3$ <!-- feedback: Incorrecto. Esto es $g(f(x))$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 6x + 9$ <!-- feedback: Correcto. $(f \\circ g)(x) = f(g(x)) = (x+3)^2 = x^2 + 6x + 9$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 9$ <!-- feedback: Incorrecto. Olvidaste el término central al desarrollar el cuadrado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x + 9$ <!-- feedback: Incorrecto. Error en la aplicación de las funciones. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la habilidad para componer funciones y desarrollar expresiones algebraicas resultantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v1",
+      "statement": "Si comprás $x$ chipas, ¿cuál de las siguientes funciones representa el costo total $C(x)$ en guaraníes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(x) = x + 5.000$ <!-- feedback: Incorrecto. Esta función sumaría la cantidad de chipas al precio, no es una relación de proporcionalidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$C(x) = 5.000x$ <!-- feedback: Correcto. El costo total es el producto del precio unitario por la cantidad de chipas compradas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$C(x) = 5.000 / x$ <!-- feedback: Incorrecto. Esta es una relación de proporcionalidad inversa, no aplica al costo de compra simple. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$C(x) = 5.000^x$ <!-- feedback: Incorrecto. Representa un crecimiento exponencial, no lineal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nLa relación entre cantidad y costo total con un precio unitario constante se modela mediante una función lineal de la forma $f(x) = mx$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v2",
+      "statement": "Determiná el dominio de la función $f(x) = \\sqrt{x - 8}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\in \\mathbb{R}$ <!-- feedback: Incorrecto. No se pueden calcular raíces cuadradas de números negativos en los números reales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 8$ <!-- feedback: Correcto. Para que la raíz esté definida en los reales, el radicando debe ser mayor o igual a cero: $x - 8 \\ge 0 \\Rightarrow x \\ge 8$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x > 8$ <!-- feedback: Incorrecto. El valor $x = 8$ es válido ya que la raíz de 0 es 0. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 8$ <!-- feedback: Incorrecto. Estos valores harían que el radicando fuera negativo (excepto el 8). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEl dominio de una función irracional con índice par se encuentra restringiendo el radicando a valores no negativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v3",
+      "statement": "Si el termo ya tiene 500 ml de agua y se llena a razón de 100 ml por segundo, ¿cuál es la función que representa el volumen $V(t)$ de agua en el termo después de $t$ segundos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(t) = 100t$ <!-- feedback: Incorrecto. No consideraste el volumen inicial de 500 ml. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$V(t) = 100t + 500$ <!-- feedback: Correcto. El volumen final es el caudal por el tiempo más el volumen inicial. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$V(t) = 500t + 100$ <!-- feedback: Incorrecto. Intercambiaste el caudal con el volumen inicial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$V(t) = 2.000 - 100t$ <!-- feedback: Incorrecto. Esta función representaría el vaciado del termo, no el llenado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nModelado de una función lineal con una ordenada al origen distinta de cero, representando una condición inicial.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v4",
+      "statement": "Si el costo total del delivery fue de ₲ 26.000, ¿a cuántos kilómetros de distancia se encuentra la casa del cliente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 km <!-- feedback: Incorrecto. Olvidaste restar el costo fijo del envío del total antes de dividir por el costo por km. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "8 km <!-- feedback: Correcto. La ecuación es $2.000x + 10.000 = 26.000 \\Rightarrow 2.000x = 16.000 \\Rightarrow x = 8$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10 km <!-- feedback: Incorrecto. Error en el cálculo aritmético. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5 km <!-- feedback: Incorrecto. El costo total sería de ₲ 20.000. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de una ecuación lineal de la forma $ax + b = c$ para encontrar el valor de la variable independiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v5",
+      "statement": "¿Cuál es la altura máxima que alcanza el proyectil?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 segundos <!-- feedback: Incorrecto. Este es el tiempo en el que alcanza la altura máxima, no la altura misma. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "45 metros <!-- feedback: Correcto. El tiempo del vértice es $t = -30 / (2 \\cdot -5) = 3$. La altura es $h(3) = -5(3^2) + 30(3) = -45 + 90 = 45$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "90 metros <!-- feedback: Incorrecto. Error de cálculo en la evaluación de la función cuadrática. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6 metros <!-- feedback: Incorrecto. Este es el tiempo en el que vuelve a tocar el suelo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación del valor máximo de una función cuadrática a través de las coordenadas del vértice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v6",
+      "statement": "Determiná las raíces (intersecciones con el eje $X$) de la función $f(x) = x^2 - 4x - 5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1, x = -5$ <!-- feedback: Incorrecto. Error en los signos de las raíces. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5, x = -1$ <!-- feedback: Correcto. Factoreando el trinomio obtenemos $(x - 5)(x + 1)$, por lo que las raíces son 5 y -1. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2, x = -2$ <!-- feedback: Incorrecto. Estos valores no anulan la función. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4, x = 1$ <!-- feedback: Incorrecto. No son soluciones de la ecuación cuadrática. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de las raíces de un polinomio de segundo grado mediante factorización o la fórmula general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v7",
+      "statement": "¿Cuál es el punto donde la gráfica de $f(x) = 2x^2 + 7x + 9$ corta al eje $Y$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 2)$ <!-- feedback: Incorrecto. Confundiste el término independiente con el coeficiente principal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 7)$ <!-- feedback: Incorrecto. Confundiste con el coeficiente lineal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 9)$ <!-- feedback: Correcto. La intersección con el eje $Y$ ocurre cuando $x = 0$, resultando en $f(0) = 9$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$(9, 0)$ <!-- feedback: Incorrecto. Esto sería una raíz en el eje $X$, no el corte con el eje $Y$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación del término independiente como la ordenada al origen de la función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v8",
+      "statement": "¿Qué tipo de función describe el costo total mensual para un consumo de $x$ GB (siendo $x > 10$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función constante. <!-- feedback: Incorrecto. El costo varía dependiendo del excedente de datos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Función lineal (afín). <!-- feedback: Correcto. El modelo es $C(x) = 50.000 + 5.000(x - 10)$, que es una recta con pendiente positiva. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Función cuadrática. <!-- feedback: Incorrecto. El incremento es constante por cada unidad, no acelerado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Función exponencial. <!-- feedback: Incorrecto. El crecimiento no se da por un factor multiplicativo constante. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nClasificación de modelos funcionales basados en la tasa de cambio de la situación planteada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v9",
+      "statement": "Si $f(x) = 2x - 1$ y $g(x) = x^2$, determiná el valor de $(g \\circ f)(3)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 <!-- feedback: Incorrecto. Calculaste $f(3) + g(3)$ o similar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "17 <!-- feedback: Incorrecto. Calculaste $f(g(3))$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25 <!-- feedback: Correcto. Primero $f(3) = 2(3) - 1 = 5$. Luego $g(5) = 5^2 = 25$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "11 <!-- feedback: Incorrecto. Error en el proceso de evaluación compuesta. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación secuencial de funciones para hallar el valor de una composición.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v10",
+      "statement": "¿Cuál es la ecuación de la parábola $y = x^2$ si se desplaza 2 unidades hacia la derecha y 3 unidades hacia arriba?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = (x + 2)^2 + 3$ <!-- feedback: Incorrecto. El signo $+$ dentro del paréntesis desplaza a la izquierda. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$y = (x - 2)^2 + 3$ <!-- feedback: Correcto. $(x - h)^2 + k$ desplaza $h$ a la derecha y $k$ hacia arriba. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$y = (x - 2)^2 - 3$ <!-- feedback: Incorrecto. El signo $-$ fuera desplaza hacia abajo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y = (x + 2)^2 - 3$ <!-- feedback: Incorrecto. Desplazamiento en direcciones opuestas a las solicitadas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de los efectos de los parámetros de traslación en la forma canónica de una función cuadrática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v11",
+      "statement": "Hallá el valor de $x$ en la ecuación: $\\log_2(x + 5) = 4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$ <!-- feedback: Incorrecto. Confundiste potencia con producto ($2 \\times 4 = 8 \\Rightarrow x=3$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 11$ <!-- feedback: Correcto. Por definición, $2^4 = x + 5 \\Rightarrow 16 = x + 5 \\Rightarrow x = 11$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 13$ <!-- feedback: Incorrecto. Error en el cálculo de la potencia de base 2. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 21$ <!-- feedback: Incorrecto. Sumaste el 5 en lugar de restarlo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de la definición del logaritmo para transformar una ecuación logarítmica en una lineal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v12",
+      "statement": "La población de una especie protegida crece según $P(t) = 200 \\cdot (1,1)^t$, donde $t$ es el tiempo en años. ¿Qué representa el número 200 en este modelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población máxima que puede alcanzar. <!-- feedback: Incorrecto. Este es un modelo de crecimiento ilimitado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La población inicial (cuando $t = 0$). <!-- feedback: Correcto. Al evaluar $P(0)$, el factor exponencial se vuelve 1, dejando el valor inicial de 200. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La tasa de crecimiento anual. <!-- feedback: Incorrecto. La tasa es del 10% (el 0.1 de 1.1). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número de años que tarda en duplicarse. <!-- feedback: Incorrecto. Ese valor se hallaría resolviendo una ecuación logarítmica. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nInterpretación semántica de los coeficientes en una función de crecimiento exponencial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v13",
+      "statement": "Si depositás ₲ 1.000.000 a una tasa del 10% anual capitalizable anualmente, ¿cuánto dinero tendrás después de 2 años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 1.100.000 <!-- feedback: Incorrecto. Este es el monto después del primer año. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "₲ 1.200.000 <!-- feedback: Incorrecto. Este sería el resultado con interés simple. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "₲ 1.210.000 <!-- feedback: Correcto. $M = 1.000.000 \\cdot (1 + 0,1)^2 = 1.000.000 \\cdot 1,21 = 1.210.000$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "₲ 1.300.000 <!-- feedback: Incorrecto. Error en el cálculo del factor exponencial. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de la fórmula de interés compuesto para el cálculo de valor futuro.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v14",
+      "statement": "Determiná los puntos de intersección entre $f(x) = x^2$ y $g(x) = x + 2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 0)$ y $(2, 4)$ <!-- feedback: Incorrecto. El punto $(0,0)$ no cumple la segunda ecuación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 4)$ y $(-1, 1)$ <!-- feedback: Correcto. $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Raíces: 2 y -1. Evaluando en cualquiera de las funciones se obtienen las ordenadas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 1)$ y $(2, 4)$ <!-- feedback: Incorrecto. El punto $(1,1)$ no cumple la segunda ecuación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, 4)$ y $(1, 3)$ <!-- feedback: Incorrecto. Estos puntos no cumplen simultáneamente ambas igualdades. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de sistemas mixtos para encontrar soluciones comunes entre distintos tipos de funciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v15",
+      "statement": "¿Cuál es la función inversa de $f(x) = \\frac{x - 3}{4}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{4}{x - 3}$ <!-- feedback: Incorrecto. Confundiste función inversa con el recíproco. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = 4x + 3$ <!-- feedback: Correcto. $y = (x - 3)/4 \\Rightarrow 4y = x - 3 \\Rightarrow x = 4y + 3$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 4x - 3$ <!-- feedback: Incorrecto. Error de signo al despejar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = x + 12$ <!-- feedback: Incorrecto. Error en la transposición de términos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación algorítmica de la función inversa mediante el despeje de la variable independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v16",
+      "statement": "¿Cuál es la asíntota vertical de la función $f(x) = \\frac{3x}{x + 4}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$ <!-- feedback: Incorrecto. Error de signo, en 4 el denominador es 8. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = -4$ <!-- feedback: Correcto. El denominador se anula en $x = -4$ (donde $-4 + 4 = 0$), lo que genera una asíntota vertical. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3$ <!-- feedback: Incorrecto. Esta es la asíntota horizontal, no la vertical. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ <!-- feedback: Incorrecto. Aquí la función vale 0, no es una asíntota. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de valores que anulan el denominador para determinar discontinuidades de tipo asintótico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v17",
+      "statement": "Si dispone de 80 metros de valla, ¿cuáles deben ser las dimensiones (largo $L$ y ancho $x$) para que el área sea máxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20, L = 20$ <!-- feedback: Incorrecto. No maximiza el área bajo las restricciones dadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 20, L = 40$ <!-- feedback: Correcto. Perímetro: $2x + L = 80 \\Rightarrow L = 80 - 2x$. Área: $A = x(80-2x) = -2x^2 + 80x$. El vértice está en $x = -80 / (2 \\cdot -2) = 20$. Entonces $L = 80 - 40 = 40$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 40, L = 40$ <!-- feedback: Incorrecto. Excede la cantidad de valla disponible ($2 \\cdot 40 + 40 = 120$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10, L = 60$ <!-- feedback: Incorrecto. El área sería de 600 m², menor a los 800 m² de la opción B. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de funciones cuadráticas para la resolución de problemas de optimización de áreas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v18",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\frac{\\sqrt{x - 3}}{\\log(10 - x)}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 3$ <!-- feedback: Incorrecto. No consideraste la restricción del logaritmo ni la asíntota en el denominador. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 10)$ <!-- feedback: Incorrecto. Olvidaste que el logaritmo no puede ser cero, lo que ocurre en $x = 9$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$[3, 9) \\cup (9, 10)$ <!-- feedback: Correcto. Raíz: $x \\ge 3$. Logaritmo: $10 - x > 0 \\Rightarrow x < 10$. Denominador $\\ne 0$: $\\log(10-x) \\ne 0 \\Rightarrow 10-x \\ne 1 \\Rightarrow x \\ne 9$. La combinación da el intervalo propuesto. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 9)$ <!-- feedback: Incorrecto. Faltan los valores entre 9 y 10. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDeterminación del dominio mediante el análisis simultáneo de restricciones algebraicas, trascendentales y de división.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v19",
+      "statement": "¿Cuál de las siguientes funciones es impar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^2 + 4$ <!-- feedback: Incorrecto. Es una función par. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^3 - 5x$ <!-- feedback: Correcto. Una función es impar si $f(-x) = -f(x)$. Aquí: $(-x)^3 - 5(-x) = -x^3 + 5x = -(x^3 - 5x)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\cos(x)$ <!-- feedback: Incorrecto. El coseno es una función par. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = e^x$ <!-- feedback: Incorrecto. No posee simetría respecto al origen ni al eje Y. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la simetría de funciones mediante la prueba algebraica de paridad/imparidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PY-MAT-11-P1-funciones-001-v20",
+      "statement": "Dada la función $f(x) = \\log_2(x)$. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dominio de la función es $(0, \\infty)$. <!-- feedback: Correcto. Esta afirmación es verdadera. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La función tiene una asíntota horizontal en $y = 0$. <!-- feedback: Correcto (esta es la falsa). Las funciones logarítmicas tienen asíntotas verticales (en este caso $x=0$), no horizontales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La función pasa por el punto $(1, 0)$. <!-- feedback: Correcto. Esta afirmación es verdadera ya que $\\log_2(1) = 0$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La función es creciente en todo su dominio. <!-- feedback: Correcto. Esta afirmación es verdadera ya que la base es mayor a 1. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis crítico de las propiedades fundamentales (dominio, rango, asíntotas y puntos notables) de las funciones logarítmicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PY-MAT-11-P1-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

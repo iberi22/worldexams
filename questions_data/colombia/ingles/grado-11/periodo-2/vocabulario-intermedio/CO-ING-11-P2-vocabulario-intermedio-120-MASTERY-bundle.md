@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P2-vocabulario-intermedio-120-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "vocabulario-intermedio"
+periodo: "2"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "120"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:08:08.034738"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 Necesito generar exactamente 20 preguntas tipo ICFES Saber 11 para inglés, vocabulario intermedio, grado 11, período 2.
 
 Puntos clave:
@@ -31,36 +62,8 @@ Vocabulario específico de nivel intermedio:
 - Prefijos y sufijos
 
 Voy a crear las preguntas siguiendo el formato exacto solicitado.
-</think>
 
----
-id: "CO-ING-11-P2-vocabulario-intermedio-120-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "vocabulario-intermedio"
-periodo: 2
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 120
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:08:08.034738"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

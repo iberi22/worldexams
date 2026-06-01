@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P2-gramatica-past-future-122-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "gramatica-past-future"
+periodo: "2"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "122"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:15:33.640509"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 El usuario quiere que genere exactamente 20 preguntas tipo ICFES Saber 11 para inglés, específicamente sobre gramática de past-future, grado 11, período 2. Debo seguir el formato exacto con frontmatter YAML y las 20 preguntas estructuradas.
 
 Necesito:
@@ -19,36 +50,8 @@ Voy a crear preguntas sobre:
 
 Empiezo con las preguntas básicas (D3-D4) y subo la dificultad progresivamente.
 
-</think>
 
----
-id: "CO-ING-11-P2-gramatica-past-future-122-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "gramatica-past-future"
-periodo: 2
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 122
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:15:33.640509"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

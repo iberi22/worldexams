@@ -1,0 +1,691 @@
+{
+  "metadata": {
+    "grade": 12,
+    "subject": "matematica",
+    "country": "ecuador",
+    "pack_id": "ecuador-week-1-grade-12-subject-matematica",
+    "generated_at": "2026-05-11T04:28:27.175Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v1",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v1`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** En un mercado de Quito, 3 kg de papas y 2 kg de cebollas cuestan $4.50. En el mismo puesto, 2 kg de papas y 4 kg de cebollas cuestan $7.00.\n\n### Enunciado\n¿Cuál es el precio de 1 kg de papas ($p$)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.50 <!-- feedback: Incorrecto. Este es el precio de la cebolla. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$0.50 <!-- feedback: Correcto. Resolviendo el sistema: $3p + 2c = 4.50$ y $2p + 4c = 7.00$. Multiplicando la primera por -2: $-6p - 4c = -9.00$. Sumando: $-4p = -2.00 \\Rightarrow p = 0.50$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1.00 <!-- feedback: Incorrecto. Valor obtenido por error en la resta de ecuaciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1.50 <!-- feedback: Incorrecto. Precio demasiado elevado para el sistema dado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de un sistema de ecuaciones lineales 2×2 por el método de reducción en un contexto de compra cotidiana.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v2",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v2`\n**Bloom:** Understand\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Un sistema de 3 ecuaciones con 3 incógnitas modela la producción de tres tipos de artesanías en Otavalo.\n\n### Enunciado\n¿Qué significa que un sistema de ecuaciones lineales sea **\"Incompatible\"**?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene una única solución para cada variable. <!-- feedback: Incorrecto. Eso se llama sistema determinado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que no tiene ninguna solución que satisfaga todas las ecuaciones a la vez. <!-- feedback: Correcto. Las rectas o planos representados no tienen puntos comunes. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que tiene infinitas soluciones posibles. <!-- feedback: Incorrecto. Eso se llama sistema indeterminado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que todas las variables son iguales a cero. <!-- feedback: Incorrecto. Esta es una solución trivial de un sistema homogéneo, pero no define la incompatibilidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDefinición de conceptos fundamentales sobre la naturaleza de las soluciones de los sistemas de ecuaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v3",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v3`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Resolución por determinantes (Método de Cramer).\n\n### Enunciado\nDado el sistema $\\begin{cases} 2x + y = 5 \\\\ 3x - 2y = 4 \\end{cases}$, ¿cuál es el valor del determinante principal ($\\Delta$)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 <!-- feedback: Incorrecto. Error de cálculo en la diagonal secundaria. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-1 <!-- feedback: Incorrecto. Olvidó restar los productos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-7 <!-- feedback: Correcto. $\\Delta = (2 \\times -2) - (1 \\times 3) = -4 - 3 = -7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "7 <!-- feedback: Incorrecto. Error en los signos de los coeficientes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación del cálculo de determinantes de segundo orden como paso previo a la resolución de un sistema por la regla de Cramer.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v4",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v4`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Un restaurante en Guayaquil vende \"Encebollados\" a $3.50 y \"Banderas\" a $5.00. En un almuerzo vendieron 40 platos en total y recaudaron $170.\n\n### Enunciado\nSi $x$ es la cantidad de encebollados e $y$ la de banderas, ¿cuál es el sistema correcto?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} x + y = 40 \\\\ 3.5x + 5y = 170 \\end{cases}$ <!-- feedback: Correcto. La primera ecuación es la suma de unidades y la segunda la recaudación económica. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} 3.5x + 5y = 40 \\\\ x + y = 170 \\end{cases}$ <!-- feedback: Incorrecto. Los totales están intercambiados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} x + y = 40 \\\\ 5x + 3.5y = 170 \\end{cases}$ <!-- feedback: Incorrecto. Los precios están asignados a las variables equivocadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} 8.5(x + y) = 170 \\\\ x + y = 40 \\end{cases}$ <!-- feedback: Incorrecto. La primera ecuación asume un precio único promedio inexistente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nTraducción de un problema de mezcla y recaudación del lenguaje natural al lenguaje algebraico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v5",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v5`\n**Bloom:** Understand\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Análisis de dominio.\n\n### Enunciado\n¿Cuál es el dominio de la función real $f(x) = \\frac{x + 3}{x^2 - 16}$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$ <!-- feedback: Incorrecto. El denominador no puede ser cero. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{R} - \\{4\\}$ <!-- feedback: Incorrecto. Olvidó que -4 también anula el denominador. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{R} - \\{-4, 4\\}$ <!-- feedback: Correcto. Los valores que hacen $x^2 - 16 = 0$ son 4 y -4. Estos deben excluirse del dominio. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} - \\{-3\\}$ <!-- feedback: Incorrecto. Confundió el numerador con el denominador. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDeterminación del dominio de una función racional identificando las asíntotas verticales (puntos donde el denominador es cero).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v6",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v6`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Vértice de una parábola. Un artesano en Cuenca determina que su costo de producción $C$ (en USD) sigue la función $C(x) = 2x^2 - 40x + 500$, donde $x$ es el número de sombreros fabricados.\n\n### Enunciado\n¿Cuántos sombreros debe fabricar para que su costo sea mínimo?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 sombreros <!-- feedback: Incorrecto. Este es el coeficiente $b$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "20 sombreros <!-- feedback: Incorrecto. Olvidó dividir por $2a$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10 sombreros <!-- feedback: Correcto. El mínimo ocurre en el vértice: $x = -b/2a = -(-40) / (2 \\times 2) = 40/4 = 10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "5 sombreros <!-- feedback: Incorrecto. Error de cálculo en la división final. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso de la función cuadrática para resolver problemas de optimización (mínimos) mediante el cálculo del vértice.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v7",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v7`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Composición de funciones.\n\n### Enunciado\nSean $f(x) = 3x - 2$ y $g(x) = x + 4$. Determine $(f \\circ g)(x)$.\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x + 2$ <!-- feedback: Incorrecto. Error en la distribución del 3. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$3x + 10$ <!-- feedback: Correcto. $f(g(x)) = 3(x + 4) - 2 = 3x + 12 - 2 = 3x + 10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$3x + 12$ <!-- feedback: Incorrecto. Olvidó restar el 2 de la función $f$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4x + 2$ <!-- feedback: Incorrecto. Sumó las funciones en lugar de componerlas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la composición de dos funciones lineales, enfatizando el uso correcto de los paréntesis y la propiedad distributiva.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v8",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v8`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Función exponencial. La población de una ciudad costera crece según la función $P(t) = 10.000 \\cdot e^{0.02t}$, donde $t$ es el tiempo en años.\n\n### Enunciado\n¿Qué representa el valor 10.000 en este modelo?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población máxima que puede soportar la ciudad. <!-- feedback: Incorrecto. Ese sería el límite de una función logística. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La población inicial al tiempo $t=0$. <!-- feedback: Correcto. Si $t=0$, $e^0 = 1$, por lo que $P(0) = 10.000$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La tasa de crecimiento anual. <!-- feedback: Incorrecto. La tasa es 0.02 (2%). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número de años necesarios para duplicar la población. <!-- feedback: Incorrecto. Ese valor se halla resolviendo una ecuación logarítmica. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los parámetros de una función exponencial en un contexto demográfico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v9",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v9`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Logaritmos.\n\n### Enunciado\nResuelva para $x$: $\\log_3(x + 1) = 2$.\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$ <!-- feedback: Incorrecto. $3^2 = 9$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 7$ <!-- feedback: Incorrecto. Error en el cálculo de la potencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$ <!-- feedback: Correcto. $x + 1 = 3^2 \\Rightarrow x + 1 = 9 \\Rightarrow x = 8$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9$ <!-- feedback: Incorrecto. Olvidó restar el 1 del argumento del logaritmo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso de la definición fundamental de logaritmo para convertir una expresión logarítmica en una potencia y despejar la incógnita.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v10",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v10`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Una empresa de alquiler de autos en el aeropuerto de Quito cobra un cargo fijo de $30 y $0.25 por cada kilómetro recorrido.\n\n### Enunciado\n¿Cuál es la función inversa que permite calcular los kilómetros recorridos ($k$) en función del costo total pagado ($C$)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0.25C - 30$ <!-- feedback: Incorrecto. Error en la transposición de términos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$k = 4C - 120$ <!-- feedback: Correcto. $C = 30 + 0.25k \\Rightarrow C - 30 = 0.25k \\Rightarrow k = (C - 30)/0.25 \\Rightarrow k = 4(C - 30) = 4C - 120$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$k = C / 0.25$ <!-- feedback: Incorrecto. Olvidó restar el cargo fijo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$k = (C + 30) / 0.25$ <!-- feedback: Incorrecto. Sumó el cargo fijo en lugar de restarlo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nObtención de la función inversa en un contexto de servicio, transformando la variable dependiente en independiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v11",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v11`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** División de polinomios.\n\n### Enunciado\n¿Cuál es el cociente de dividir $(x^2 + 5x + 6)$ entre $(x + 2)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 2$ <!-- feedback: Incorrecto. Al multiplicar $(x+2)(x+2)$ obtenemos $x^2+4x+4$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$ <!-- feedback: Correcto. $(x + 2)(x + 3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x - 3$ <!-- feedback: Incorrecto. El signo del término lineal sería negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x + 5$ <!-- feedback: Incorrecto. Error en la factorización. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de divisiones de polinomios simples, que también puede abordarse mediante factorización de trinomios.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v12",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v12`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Teorema del factor.\n\n### Enunciado\n¿Cuál de los siguientes valores de $k$ hace que $(x - 1)$ sea un factor del polinomio $P(x) = x^3 - 3x^2 + kx - 5$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 5$ <!-- feedback: Incorrecto. $1 - 3 + 5 - 5 = -2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$k = 7$ <!-- feedback: Correcto. Por el teorema del factor, $P(1) = 0 \\Rightarrow 1^3 - 3(1)^2 + k(1) - 5 = 0 \\Rightarrow 1 - 3 + k - 5 = 0 \\Rightarrow k - 7 = 0 \\Rightarrow k = 7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$k = 9$ <!-- feedback: Incorrecto. Error en la evaluación del polinomio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$k = -7$ <!-- feedback: Incorrecto. Signo equivocado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación del Teorema del Resto y del Factor para hallar coeficientes desconocidos en polinomios.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v13",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v13`\n**Bloom:** Apply\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Progresión Aritmética (P.A.). Un plan de ahorros en una cooperativa de Ambato consiste en depositar $50 el primer mes, $60 el segundo, $70 el tercero, y así sucesivamente.\n\n### Enunciado\n¿Cuánto depositará el socio en el mes número 12?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$150 <!-- feedback: Incorrecto. Corresponde al mes 11 si se cuenta mal el primer término. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$160 <!-- feedback: Correcto. $a_{12} = a_1 + (n-1)d = 50 + (11)10 = 50 + 110 = 160$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$170 <!-- feedback: Incorrecto. Sumó 12 veces la diferencia en lugar de $n-1$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$120 <!-- feedback: Incorrecto. Error en la identificación de la diferencia común. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de la fórmula del término general de una progresión aritmética para predecir valores futuros.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v14",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v14`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Progresión Geométrica (P.G.). Un video sobre las Islas Galápagos se vuelve viral. El primer día tiene 1.000 vistas, y cada día siguiente el número de vistas se triplica.\n\n### Enunciado\n¿Cuál es la expresión que representa el número de vistas el día $n$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V_n = 1.000 + 3(n-1)$ <!-- feedback: Incorrecto. Este es un modelo de progresión aritmética. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$V_n = 1.000 \\cdot 3^{n-1}$ <!-- feedback: Correcto. Fórmula del término general de una P.G.: $a_n = a_1 \\cdot r^{n-1}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$V_n = 3.000 \\cdot n$ <!-- feedback: Incorrecto. Crecimiento lineal erróneo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$V_n = 1.000 \\cdot (n-1)^3$ <!-- feedback: Incorrecto. Confundió la base con el exponente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nModelado de crecimiento acelerado mediante progresiones geométricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v15",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v15`\n**Bloom:** Evaluate\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Suma de términos de una P.A.\n\n### Enunciado\n¿Cuál es el ahorro total acumulado por el socio del problema 13 después de los 12 meses?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.200 <!-- feedback: Incorrecto. No consideró el incremento mensual. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1.260 <!-- feedback: Correcto. $S_{12} = \\frac{n(a_1 + a_{12})}{2} = \\frac{12(50 + 160)}{2} = 6(210) = 1.260$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1.320 <!-- feedback: Incorrecto. Error de cálculo en la suma de los extremos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2.520 <!-- feedback: Incorrecto. Olvidó dividir por 2 en la fórmula de la suma. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la fórmula de la suma de los $n$ primeros términos de una progresión aritmética.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v16",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v16`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Raíces de polinomios.\n\n### Enunciado\nSi las raíces de un polinomio son -2, 1 y 5, ¿cuál es el polinomio en su forma factorizada (asumiendo coeficiente principal 1)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(x) = (x-2)(x+1)(x+5)$ <!-- feedback: Incorrecto. Los signos dentro de los factores deben ser opuestos a los de las raíces. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$P(x) = (x+2)(x-1)(x-5)$ <!-- feedback: Correcto. Si $r$ es raíz, $(x-r)$ es factor. $(x - (-2)) = (x+2)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$P(x) = x^3 - 10$ <!-- feedback: Incorrecto. No representa la estructura de las raíces dadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$P(x) = (x+2)(x-1)(x+5)$ <!-- feedback: Incorrecto. Error en el signo del factor correspondiente a la raíz 5. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nRelación entre las raíces de una función polinómica y sus factores correspondientes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v17",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v17`\n**Bloom:** Analyze\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Sucesiones recursivas.\n\n### Enunciado\nUna sucesión está definida por $a_1 = 2$ y $a_{n+1} = 3a_n - 1$. ¿Cuál es el valor de $a_4$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 <!-- feedback: Incorrecto. Este es el valor de $a_2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "14 <!-- feedback: Incorrecto. Error en el proceso recursivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "17 <!-- feedback: Incorrecto. Este es el valor de $a_3$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "41 <!-- feedback: Correcto. $a_1=2$; $a_2=3(2)-1=5$; $a_3=3(5)-1=14$; $a_4=3(14)-1=41$. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nCálculo de términos en sucesiones definidas de forma recursiva, requiriendo un proceso iterativo preciso.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v18",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v18`\n**Bloom:** Evaluate\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Inecuaciones cuadráticas.\n\n### Enunciado\n¿Cuál es el conjunto solución de la inecuación $x^2 - 4x - 5 < 0$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, -1) \\cup (5, \\infty)$ <!-- feedback: Incorrecto. Este sería el conjunto si la desigualdad fuera \"mayor que cero\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(-1, 5)$ <!-- feedback: Correcto. Factorizando: $(x-5)(x+1) < 0$. Los puntos críticos son 5 y -1. Evaluando intervalos, el trinomio es negativo entre las raíces. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 5)$ <!-- feedback: Incorrecto. Signo equivocado en el punto crítico inferior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$[-1, 5]$ <!-- feedback: Incorrecto. Al ser una desigualdad estricta ($<$), los extremos no se incluyen (paréntesis). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de inecuaciones de segundo grado mediante factorización y análisis de signos por intervalos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v19",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v19`\n**Bloom:** Create\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Logaritmos y exponentes complejos.\n\n### Enunciado\nResuelva para $x$: $2^{x+1} = 5$.\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\log_2(5)$ <!-- feedback: Incorrecto. Olvidó restar el 1 del exponente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\log_2(5) - 1$ <!-- feedback: Correcto. Tomando logaritmo base 2 en ambos lados: $x + 1 = \\log_2(5) \\Rightarrow x = \\log_2(5) - 1$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1.5$ <!-- feedback: Incorrecto. Aproximación grosera. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\log_5(2) - 1$ <!-- feedback: Incorrecto. Bases del logaritmo intercambiadas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de logaritmos para resolver ecuaciones exponenciales donde las bases no son potencias comunes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "EC-MAT-12-P1-algebra-001-v20",
+      "statement": "**ID:** `EC-MAT-12-P1-algebra-001-v20`\n**Bloom:** Evaluate\n**ICFES:** Razonamiento Lógico-matemático\n**Context:** Análisis de una función logística (crecimiento limitado).\n\n### Enunciado\nLa propagación de un rumor en una universidad de Guayaquil sigue el modelo $P(t) = \\frac{5.000}{1 + 4.999 \\cdot e^{-0.8t}}$. ¿A qué valor se aproxima la cantidad de personas que conocen el rumor cuando el tiempo $t$ tiende al infinito?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 personas <!-- feedback: Incorrecto. La función crece con el tiempo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1 persona <!-- feedback: Incorrecto. Este es el valor aproximado al inicio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5.000 personas <!-- feedback: Correcto. Cuando $t \\to \\infty$, $e^{-0.8t} \\to 0$, por lo que $P(t) \\to 5.000/1 = 5.000$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas personas <!-- feedback: Incorrecto. El modelo tiene una capacidad de carga (límite superior) de 5.000. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación de límites al infinito en modelos de crecimiento poblacional o difusión de información (función logística).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-MAT-12-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    }
+  ]
+}

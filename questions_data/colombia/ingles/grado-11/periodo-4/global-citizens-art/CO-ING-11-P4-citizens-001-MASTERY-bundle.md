@@ -1,15 +1,16 @@
 ---
 id: "CO-ING-11-P4-citizens-001-MASTERY"
+cefr_level: "B1-B2"
+periodo: "4"
 protocol_version: "5.1"
 alignment: "ICFES Saber 11 / Marcos Técnicos"
 target_cefr: "B1-B2"
-periodo: 4
-bundle_index: 1
-modern_context: true
-calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.25"
-  simulated_responses: 100
+bundle_index: "1"
+modern_context: "true"
+calibration: ""
+expected_success_rate: "0.50"
+discrimination_index_target: ">= 0.25"
+simulated_responses: "100"
 rubric_baseline: "global_citizenship, art, passive_voice_advanced, relative_clauses"
 ---
 

@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "Matemáticas",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-4-subject-Matemticas",
+    "generated_at": "2026-06-01T17:05:46.764Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-04-geometria-001-v1",
+      "statement": "¿Cuántos lados tiene un cuadrado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nUn cuadrado es un cuadrilátero regular que tiene 4 lados iguales.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v2",
+      "statement": "¿Cuál de estas figuras tiene 3 lados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Círculo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rectángulo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pentágono",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nEl triángulo es la figura geométrica definida por tener exactamente 3 lados.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v3",
+      "statement": "¿Cómo se llama la figura que tiene 5 lados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pentágono",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hexágono",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Octágono",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuadrado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nEl prefijo \"penta\" significa cinco, por lo tanto, un pentágono tiene 5 lados.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v4",
+      "statement": "¿Cuál es el nombre del ángulo que mide exactamente 90 grados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Agudo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Obtuso",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Llano",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nUn ángulo de 90 grados se denomina ángulo recto y es característico de las esquinas de cuadrados y rectángulos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v5",
+      "statement": "¿Cuál es el perímetro de un rectángulo que mide 5 cm de largo y 3 cm de ancho?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "15 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nEl perímetro es la suma de todos los lados: 5 + 3 + 5 + 3 = 16 cm.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v6",
+      "statement": "Un triángulo que tiene sus tres lados iguales se llama:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equilátero",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Isósceles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Escaleno",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nUn triángulo equilátero es aquel cuyos tres lados tienen la misma longitud.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v7",
+      "statement": "Calcula el área de un cuadrado cuyo lado mide 6 cm.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "24 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "18 cm²",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\n**Paso 1:** Identificar la fórmula del área del cuadrado (Lado x Lado).\n**Paso 2:** Multiplicar 6 cm por 6 cm.\n**Resultado:** 36 cm².\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v8",
+      "statement": "¿Cuántos vértices tiene un hexágono?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nEn un polígono cerrado y simple, el número de vértices es igual al número de lados. Un hexágono tiene 6 lados y 6 vértices.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v9",
+      "statement": "Un patio rectangular mide 10 metros de largo y 4 metros de ancho. Si se quiere colocar una cerca alrededor, pero se deja un espacio de 2 metros para una puerta, ¿cuántos metros de cerca se necesitan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "28 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "14 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "24 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nPrimero calculamos el perímetro total: (10 + 4) x 2 = 28 metros. Luego restamos el espacio de la puerta: 28 - 2 = 26 metros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-04-geometria-001-v10",
+      "statement": "¿Cuál es el área de un triángulo cuya base mide 8 cm y su altura es de 5 cm?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "40 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "13 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "26 cm²",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\n\nLa fórmula del área del triángulo es (Base x Altura) / 2. Entonces: (8 x 5) / 2 = 40 / 2 = 20 cm².",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-04-geometria-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null
+    }
+  ]
+}

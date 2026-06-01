@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P1-reading-comprehension-a-118-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "reading-comprehension-a"
+periodo: "1"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "118"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:01:23.033558"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 format for English (Reading Comprehension A), grade 11, period 1. Let me follow all the specifications carefully.
 
 I need to output ONLY the markdown content with the YAML frontmatter and 20 questions, no additional text before or after.
@@ -23,36 +54,8 @@ Let me create authentic reading comprehension passages and questions that mirror
 
 I'll create 20 questions now.
 
-</think>
 
----
-id: "CO-ING-11-P1-reading-comprehension-a-118-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "reading-comprehension-a"
-periodo: 1
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 118
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:01:23.033558"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty 3)
 

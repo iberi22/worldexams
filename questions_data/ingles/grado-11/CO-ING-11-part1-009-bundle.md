@@ -1,11 +1,12 @@
 ---
 id: "CO-ING-11-part1-009"
+cefr_level: "B1"
 country: "CO"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "vocabulary-technology-science"
-
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "draft"
 creador: "Jules"
 generation_date: "2025-11-30"

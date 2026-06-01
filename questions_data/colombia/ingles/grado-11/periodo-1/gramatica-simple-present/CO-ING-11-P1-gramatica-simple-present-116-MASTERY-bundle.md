@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P1-gramatica-simple-present-116-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "gramatica-simple-present"
+periodo: "1"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "116"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T21:53:54.669494"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 The user wants me to generate exactly 20 questions in ICFES Saber 11 format for English grammar - Simple Present tense, grade 11, period 1.
 
 I need to:
@@ -14,37 +45,8 @@ I need to:
 
 Let me create this content following the format exactly.
 
-</think>
 
-```yaml
----
-id: "CO-ING-11-P1-gramatica-simple-present-116-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "gramatica-simple-present"
-periodo: 1
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 116
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T21:53:54.669494"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

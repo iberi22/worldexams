@@ -1,17 +1,18 @@
 ---
-id: CO-ENG-10-media-influence-105
-country: co
-grado: 10
-asignatura: ingles
-tema: media-influence
-periodo: 1
-cefr_level: B2
-protocol_version: 2.1
-total_questions: 1
-bilingual_support: true
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "CO-ENG-10-media-influence-105"
+cefr_level: "B2"
+country: "co"
+grado: "10"
+asignatura: "ingles"
+tema: "media-influence"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "1"
+bilingual_support: "true"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Media Influence & Critical Thinking (B2)
 
 ---

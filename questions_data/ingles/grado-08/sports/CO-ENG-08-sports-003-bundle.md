@@ -1,21 +1,21 @@
 ---
-id: CO-ENG-08-sports-003
-country: co
-grado: 8
-asignatura: ingles
-tema: sports
-periodo: 1
-cefr_level: B1
-protocol_version: 3.0-COL
-total_questions: 10
-international_focus: Cambridge PET & Sports Vocabulary
-bilingual_support: true
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
-
-quarantine: true
+id: "CO-ENG-08-sports-003"
+cefr_level: "B1"
+country: "co"
+grado: "8"
+asignatura: "ingles"
+tema: "sports"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Cambridge PET & Sports Vocabulary"
+bilingual_support: "true"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
+quarantine: "true"
 bundle_status: "quarantined"
 ---
+
 # Topic: Sports & Physical Activity (B1)
 
 ---

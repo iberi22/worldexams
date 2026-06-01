@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Inglés",
+    "country": "co",
+    "pack_id": "co-week-1-grade-11-subject-Ingls",
+    "generated_at": "2026-05-29T23:11:50.157Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-11-reading-001-v1",
+      "statement": "According to the text, Colombia is the _____ most biodiverse country in the world.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "first",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "second",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "third",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "fourth",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nEl texto dice: \"Colombia is the second most biodiverse country in the world, after Brazil.\"\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v2",
+      "statement": "What is Colombia's national bird?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The eagle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "The Andean Condor",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The parrot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "The hummingbird",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"The national bird, the Andean Condor, can be seen flying over the high mountains.\"\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v3",
+      "statement": "How many oceans does Colombia have coastlines on?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"With coastlines on both the Atlantic and Pacific Oceans\" - dos océanos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v4",
+      "statement": "The word \"approximately\" in the text means:\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "About, nearly",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Exactly",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Less than",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Never",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Approximately\" indica un número cercano pero no exacto, similar a \"about\" o \"around\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v5",
+      "statement": "According to the text, what percentage of the world's species live in Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"The country is home to approximately 10% of the world's species.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v6",
+      "statement": "Which of the following is NOT mentioned as a threat to Colombia's biodiversity?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deforestation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Illegal mining",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Climate change",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Overfishing",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\r\nEl texto menciona deforestación, minería ilegal y cambio climático, pero no la sobrepesca.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v7",
+      "statement": "What can be inferred about Colombia's geography from the text?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a flat country",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It has diverse landscapes and ecosystems",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "It only has tropical forests",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It has no mountains",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nLa mención de costas, tres cordilleras y la Amazonía implica diversidad geográfica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v8",
+      "statement": "The phrase \"natural treasures\" in the last paragraph refers to:\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gold and emeralds",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Biodiversity and ecosystems",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Tourist attractions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ancient artifacts",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nEn el contexto de conservación, \"natural treasures\" se refiere a la biodiversidad que se busca proteger.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v9",
+      "statement": "What is the main purpose of this text?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To promote tourism in Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "To criticize the Colombian government",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "To inform about Colombia's biodiversity and its challenges",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "To compare Colombia with Brazil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\nEl texto presenta información sobre la biodiversidad de Colombia y las amenazas que enfrenta.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ING-11-reading-001-v10",
+      "statement": "Based on the text, which statement is TRUE?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brazil has fewer species than Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Colombia has the most bird species in the world",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Colombia has more bird species than any other country",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "The Andean Condor lives only in the lowlands",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n\"1,900 species of birds—more than any other country\" indica que Colombia lidera en diversidad de aves.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-11-reading-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    }
+  ]
+}

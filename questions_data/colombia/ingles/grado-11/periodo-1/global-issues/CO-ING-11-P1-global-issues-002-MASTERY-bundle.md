@@ -1,22 +1,23 @@
 ---
 id: "CO-ING-11-P1-global-issues-002-MASTERY"
+cefr_level: "B1-B2"
 country: "colombia"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "global-issues"
-periodo: 1
+periodo: "1"
 protocol_version: "5.1"
-bundle_index: 2
-bundle_size: 20
+bundle_index: "2"
+bundle_size: "20"
 bundle_status: "UNREVISED"
 alignment: "ICFES Saber 11 + MEN"
 target_cefr: "B1-B2"
-modern_context: true
+modern_context: "true"
 distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: "0.45"
-  discrimination_index_target: ">= 0.22"
-  simulated_responses: 100
+calibration: ""
+expected_success_rate: "0.45"
+discrimination_index_target: ">= 0.22"
+simulated_responses: "100"
 rubric_baseline: "reading_comprehension, vocabulary_in_context, grammar_control"
 ---
 

@@ -1,22 +1,23 @@
 ---
-id: UNI-ENG-10-cyber-addiction-001
-country: global
-grado: 10
-asignatura: ingles
-tema: cyber-addiction
-periodo: 1
-cefr_level: B1+
-protocol_version: 3.1-GLOBAL
-total_questions: 10
-international_focus: Psychology / Habits / Technology
-licenses:
-  v1-v10: CC BY-NC-SA 4.0
-creador: AI-WorldExams
-generation_date: '2026-01-10'
-source: World Exams Original
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "UNI-ENG-10-cyber-addiction-001"
+cefr_level: "B1+"
+country: "global"
+grado: "10"
+asignatura: "ingles"
+tema: "cyber-addiction"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Psychology / Habits / Technology"
+licenses: ""
+v1-v10: "CC BY-NC-SA 4.0"
+creador: "AI-WorldExams"
+generation_date: "2026-01-10"
+source: "World Exams Original"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Cyber Addiction & Balance (Grade 10)
 
 > **Focus:** Dopamine, FOMO, and healthy digital habits.

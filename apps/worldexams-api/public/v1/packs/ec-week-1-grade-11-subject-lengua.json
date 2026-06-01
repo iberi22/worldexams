@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-06-01T17:05:46.672Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v1",
+      "statement": "¿Cuál de las siguientes palabras está escrita correctamente con su tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exámen <!-- feedback: Incorrecto. Es una palabra grave terminada en 'n', por lo tanto no lleva tilde. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Canción <!-- feedback: Correcto. Es una palabra aguda terminada en 'n', por lo que debe tildarse. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Arból <!-- feedback: Incorrecto. Es una palabra grave terminada en 'l', debería ser Árbol. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Corazónes <!-- feedback: Incorrecto. Al pasar a plural, el acento se mantiene pero la palabra se vuelve esdrújula, perdiendo la tilde: Corazones (grave terminada en s). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las reglas generales de acentuación gráfica en el idioma español.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v2",
+      "statement": "Elija la oración que **NO** presenta errores de dequeísmo.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me parece de que deberíamos salir temprano. <!-- feedback: Incorrecto. El verbo \"parecer\" no exige la preposición 'de'. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Yo pienso de que la solución es fácil. <!-- feedback: Incorrecto. \"Pensar que\", no \"pensar de que\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Estoy seguro de que aprobarás el examen. <!-- feedback: Correcto. El adjetivo \"seguro\" sí exige la preposición 'de' para introducir el complemento. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ella dice de que no quiere ir. <!-- feedback: Incorrecto. \"Decir que\", el uso de 'de' es innecesario. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación y corrección de vicios del lenguaje (dequeísmo y queísmo).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v3",
+      "statement": "Identifique la oración donde se usa correctamente la **coma vocativa**.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro, compró pan leche y huevos. <!-- feedback: Incorrecto. La coma está separando el sujeto del predicado, lo cual es un error. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Juan, por favor cierra la puerta al salir. <!-- feedback: Correcto. Se usa la coma para separar el vocativo (la persona a la que se dirige el mensaje) del resto de la oración. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "En la ciudad de, Quito hace frío hoy. <!-- feedback: Incorrecto. Coma innecesaria que rompe el flujo sintáctico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ayer comí, una manzana roja. <!-- feedback: Incorrecto. No se debe poner coma entre el verbo y su objeto directo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso normativo de la coma para marcar el vocativo en la comunicación directa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v4",
+      "statement": "¿Qué conector es el más adecuado para indicar una **oposición** entre dos ideas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además <!-- feedback: Incorrecto. Es un conector de adición. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Por lo tanto <!-- feedback: Incorrecto. Es un conector de consecuencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo <!-- feedback: Correcto. Es un conector adversativo que indica contraste u oposición. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "En primer lugar <!-- feedback: Incorrecto. Es un conector de orden o jerarquía. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de la función semántica de los conectores lógicos en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v5",
+      "statement": "¿A qué propiedad del texto nos referimos cuando hablamos de la relación lógica entre las ideas y el sentido global del mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cohesión <!-- feedback: Incorrecto. La cohesión se refiere a los mecanismos lingüísticos de unión (gramática, conectores). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Coherencia <!-- feedback: Correcto. Es la propiedad que permite que el texto sea percibido como una unidad con sentido lógico. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Adecuación <!-- feedback: Incorrecto. La adecuación se refiere al ajuste del texto al contexto y al receptor. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Corrección <!-- feedback: Incorrecto. Se refiere al cumplimiento de las normas ortográficas y gramaticales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación entre las propiedades fundamentales que constituyen un texto bien formado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v6",
+      "statement": "Un texto cuyo objetivo primordial es convencer o persuadir al lector sobre un punto de vista mediante razones se clasifica como:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo <!-- feedback: Incorrecto. Su fin es contar una historia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Descriptivo <!-- feedback: Incorrecto. Su fin es detallar características de algo o alguien. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Argumentativo <!-- feedback: Correcto. Busca influir en la opinión del receptor mediante argumentos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Expositivo <!-- feedback: Incorrecto. Su fin es informar o explicar un tema de manera objetiva. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nClasificación de textos según su intención comunicativa y funciones del lenguaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v7",
+      "statement": "En un párrafo, la **idea principal** es aquella que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre aparece al final del texto para resumir todo. <!-- feedback: Incorrecto. No siempre es así; puede estar al inicio o implícita. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Contiene la información esencial sin la cual el párrafo perdería su sentido. <!-- feedback: Correcto. Es el núcleo informativo del que dependen las demás ideas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para dar ejemplos y detalles adicionales. <!-- feedback: Incorrecto. Esta es la función de las ideas secundarias. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se escribe con un tipo de letra más grande. <!-- feedback: Incorrecto. La jerarquía es conceptual, no visual por defecto. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de la jerarquía informativa dentro de la unidad de párrafo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v8",
+      "statement": "¿En qué situación es más apropiado utilizar un **registro formal**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durante un almuerzo familiar en Guayaquil. <!-- feedback: Incorrecto. Aquí predomina el registro coloquial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "En una conversación por WhatsApp con amigos del colegio. <!-- feedback: Incorrecto. Se suele usar un lenguaje informal y abreviado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Al escribir una carta de solicitud de cupo a una universidad. <!-- feedback: Correcto. Las instituciones requieren un nivel de lengua culto y respetuoso. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Al gritar un gol en el estadio. <!-- feedback: Incorrecto. Es una situación de máxima informalidad y emotividad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAdaptación del registro lingüístico según el contexto comunicativo (adecuación).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v9",
+      "statement": "En la frase \"El científico realizó una **cosa** increíble\", ¿por qué palabra sería más preciso sustituir \"cosa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto <!-- feedback: Incorrecto. No aporta mayor precisión sobre la acción del científico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Investigación <!-- feedback: Correcto. Es un término específico que se ajusta al contexto del sujeto (científico). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Vaina <!-- feedback: Incorrecto. Es un término coloquial que resta formalidad y precisión. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Situación <!-- feedback: Incorrecto. Es demasiado general y no describe un logro concreto. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de vocabulario preciso para evitar el \"cosismo\" y mejorar la calidad del texto escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v10",
+      "statement": "Cuando un texto se centra en la belleza del lenguaje y en cómo se dice el mensaje, predomina la función:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referencial <!-- feedback: Incorrecto. Se centra en la información objetiva. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa <!-- feedback: Incorrecto. Se centra en influir en el receptor. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Poética <!-- feedback: Correcto. Su objetivo es la creación estética y el cuidado de la forma. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística <!-- feedback: Incorrecto. Se centra en el código (explicar la lengua misma). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nReconocimiento de las funciones del lenguaje en diferentes tipos de textos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v11",
+      "statement": "¿Cuál es la función de la **tesis** en un ensayo argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar cronológicamente los hechos. <!-- feedback: Incorrecto. Esto es propio de la narración. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Plantear la postura u opinión central que el autor defenderá a lo largo del texto. <!-- feedback: Correcto. Es la columna vertebral del ensayo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Listar los libros consultados. <!-- feedback: Incorrecto. Eso pertenece a la bibliografía. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Presentar el resumen del tema en una sola palabra. <!-- feedback: Incorrecto. La tesis debe ser una proposición completa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de las partes constitutivas y propósitos del ensayo académico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v12",
+      "statement": "¿Cuál es el objetivo principal de citar las fuentes en un trabajo de investigación escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el texto parezca más largo y difícil. <!-- feedback: Incorrecto. La brevedad suele preferirse si hay claridad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el estudiante sabe copiar y pegar. <!-- feedback: Incorrecto. El copiar y pegar sin citar es plagio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dar crédito a los autores originales y evitar el plagio académico. <!-- feedback: Correcto. Es una cuestión de ética y rigor investigativo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Cumplir con una norma que solo importa a los bibliotecarios. <!-- feedback: Incorrecto. Es vital para la validez de cualquier discurso científico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de la importancia de la honestidad académica y el uso de sistemas de referenciación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v13",
+      "statement": "Una reseña crítica se diferencia de un resumen porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reseña es mucho más corta. <!-- feedback: Incorrecto. Puede ser igual de larga o más. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La reseña incluye una valoración u opinión argumentada sobre la obra. <!-- feedback: Correcto. El resumen es solo expositivo, la reseña es valorativa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El resumen no se puede escribir en primera persona. <!-- feedback: Incorrecto. Depende del estilo, pero no es la diferencia clave. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La reseña solo sirve para películas de cine. <!-- feedback: Incorrecto. Se pueden reseñar libros, obras de teatro, eventos, etc. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación de géneros académicos y periodísticos de síntesis y evaluación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v14",
+      "statement": "En la estructura de un informe, ¿qué sección se encarga de presentar los resultados obtenidos de forma objetiva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción <!-- feedback: Incorrecto. Presenta el tema y objetivos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Metodología <!-- feedback: Incorrecto. Explica cómo se hizo el trabajo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desarrollo o Resultados <!-- feedback: Correcto. Aquí se expone la información recopilada y procesada. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Conclusiones <!-- feedback: Incorrecto. Aquí se interpretan los resultados y se cierran las ideas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nConocimiento de la estructura estándar de documentos técnicos e investigativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v15",
+      "statement": "¿Cuál de estas oraciones evita la **anfibología** (ambigüedad)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El perro de mi vecino que tiene rabia. <!-- feedback: Incorrecto. No se sabe si la rabia la tiene el perro o el vecino. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El vecino tiene un perro que padece de rabia. <!-- feedback: Correcto. La estructura deja claro que la enfermedad la tiene el animal. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Vi a un hombre con un telescopio. <!-- feedback: Incorrecto. ¿Quién tenía el telescopio: yo o el hombre? -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se venden zapatos para niños de cuero. <!-- feedback: Incorrecto. ¿Los niños son de cuero o los zapatos? -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDetección y corrección de estructuras sintácticas que generan confusión de sentido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v16",
+      "statement": "Un argumento que utiliza la opinión de un experto o una institución reconocida para validar una idea se llama:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de ejemplificación <!-- feedback: Incorrecto. Usa casos concretos para ilustrar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad <!-- feedback: Correcto. Se apoya en el prestigio de alguien para dar peso a la tesis. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Argumento por analogía <!-- feedback: Incorrecto. Compara dos situaciones similares. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de causa-efecto <!-- feedback: Incorrecto. Establece una relación lógica de origen. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los tipos de razonamientos utilizados en la construcción de textos argumentativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v17",
+      "statement": "¿Cuál es la principal diferencia entre publicidad y propaganda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La publicidad es en video y la propaganda es en carteles. <!-- feedback: Incorrecto. Ambas usan todos los canales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La publicidad siempre es verdadera y la propaganda es falsa. <!-- feedback: Incorrecto. No es una distinción de veracidad, sino de fin. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La publicidad tiene un fin comercial (vender productos), mientras que la propaganda tiene un fin ideológico o político. <!-- feedback: Correcto. Esta es la distinción técnica fundamental. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, son sinónimos exactos. <!-- feedback: Incorrecto. Tienen intencionalidades distintas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación crítica de mensajes mediáticos y sus propósitos subyacentes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v18",
+      "statement": "En la expresión \"Ese examen fue pan comido\", el significado **connotativo** es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el examen olía a pan recién horneado. <!-- feedback: Incorrecto. Este sería un sentido denotativo absurdo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que los estudiantes pudieron comer pan mientras hacían la prueba. <!-- feedback: Incorrecto. Interpretación literal errónea. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que la evaluación resultó extremadamente fácil de resolver. <!-- feedback: Correcto. Es un sentido figurado común en nuestra lengua. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que el papel del examen era comestible. <!-- feedback: Incorrecto. Sentido literal imposible. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDiferenciación entre el significado literal (denotación) y el figurado/contextual (connotación).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v19",
+      "statement": "Para evaluar la confiabilidad de un artículo encontrado en la web, ¿cuál de estos criterios es el **menos** importante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reputación de la fuente o el autor. <!-- feedback: Incorrecto. Es un criterio fundamental. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de referencias y citas bibliográficas. <!-- feedback: Incorrecto. Indica rigor en la información. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La fecha de publicación (actualidad). <!-- feedback: Incorrecto. Especialmente en temas de ciencia o tecnología es vital. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de colores y animaciones que tiene la página. <!-- feedback: Correcto. El diseño visual no garantiza la veracidad del contenido. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nDesarrollo de habilidades de alfabetización informacional y evaluación crítica de fuentes digitales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-comunicacion-001-v20",
+      "statement": "Usted debe escribir un ensayo sobre el impacto del cambio climático en los glaciares del Chimborazo. ¿Cuál sería el primer paso lógico en su proceso de producción escrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar a escribir la introducción directamente en la computadora. <!-- feedback: Incorrecto. Escribir sin planificar suele llevar a textos desorganizados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Delimitar el tema, definir el objetivo y buscar información confiable para crear un esquema. <!-- feedback: Correcto. La planificación es la etapa previa indispensable para un texto coherente. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Elegir el tipo de letra y el diseño de la portada. <!-- feedback: Incorrecto. Son aspectos estéticos secundarios al contenido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Escribir las conclusiones para saber a dónde quiero llegar. <!-- feedback: Incorrecto. Las conclusiones se derivan del desarrollo, no al revés. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de las etapas del proceso de escritura académica para garantizar la calidad textual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-comunicacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v1",
+      "statement": "¿Cuál es la característica principal del Realismo Mágico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción detallada de mundos futuristas y espaciales. <!-- feedback: Incorrecto. Esto describe a la ciencia ficción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La inclusión de elementos fantásticos percibidos como normales por los personajes. <!-- feedback: Correcto. Lo irreal se integra en la cotidianidad de manera natural y sin explicaciones lógicas necesarias. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de un lenguaje técnico y científico. <!-- feedback: Incorrecto. El lenguaje suele ser poético o regionalista, no técnico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La negación de cualquier aspecto histórico o social de la región. <!-- feedback: Incorrecto. Al contrario, suele estar profundamente arraigado en la historia latinoamericana. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDefinición conceptual del Realismo Mágico y su distinción de otros géneros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v2",
+      "statement": "¿Quién es el autor de la emblemática novela indigenista ecuatoriana *Huasipungo*?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan Montalvo <!-- feedback: Incorrecto. Montalvo fue un ensayista y crítico político del siglo XIX. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Icaza <!-- feedback: Correcto. Icaza es el máximo representante del realismo social indigenista en Ecuador con esta obra publicada en 1934. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Medardo Ángel Silva <!-- feedback: Incorrecto. Fue un poeta perteneciente a la Generación Decapitada. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Alicia Yánez Cossío <!-- feedback: Incorrecto. Es una autora contemporánea reconocida por obras como \"Bruna, soroche y los tíos\". -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de autores y obras fundamentales de la literatura nacional ecuatoriana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v3",
+      "statement": "¿Qué fenómeno describe el \"Boom\" Latinoamericano de los años 60 y 70?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una explosión demográfica en las principales ciudades de la región. <!-- feedback: Incorrecto. Fue un fenómeno puramente literario y comercial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El gran éxito editorial y la internacionalización de novelistas jóvenes de la región. <!-- feedback: Correcto. Autores como García Márquez, Cortázar y Vargas Llosa alcanzaron fama mundial. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El inicio de las guerras de independencia contra España. <!-- feedback: Incorrecto. Eso ocurrió en el siglo XIX. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la imprenta en el continente americano. <!-- feedback: Incorrecto. La imprenta llegó siglos antes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nContextualización histórica y literaria del movimiento conocido como el \"Boom\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v4",
+      "statement": "¿A qué movimiento literario perteneció el poeta ecuatoriano Medardo Ángel Silva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romanticismo <!-- feedback: Incorrecto. Aunque tiene influencias, su estilo es posterior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Modernismo <!-- feedback: Correcto. Formó parte de la Generación Decapitada, influenciada por el modernismo de Rubén Darío. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Vanguardismo <!-- feedback: Incorrecto. El vanguardismo es posterior y más rupturista en las formas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Realismo <!-- feedback: Incorrecto. Su obra es lírica y subjetiva, no descriptiva de la realidad social externa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nClasificación de autores nacionales en sus respectivos movimientos literarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v5",
+      "statement": "¿Qué figura literaria o técnica narrativa se evidencia principalmente en el inicio de la frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole <!-- feedback: Incorrecto. No hay una exageración desmedida en esta oración. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Prolepsis (anticipación) <!-- feedback: Correcto. El narrador se sitúa en un futuro para recordar un pasado, anticipando un evento (el pelotón de fusilamiento). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya <!-- feedback: Incorrecto. No hay imitación de sonidos naturales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pleonasmo <!-- feedback: Incorrecto. No hay repetición innecesaria de términos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de técnicas narrativas complejas en textos clásicos de la región.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v6",
+      "statement": "¿Cuál fue el objetivo principal de las vanguardias literarias a principios del siglo XX?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservar las rimas métricas del Siglo de Oro español. <!-- feedback: Incorrecto. Buscaban precisamente romper con la métrica tradicional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Romper con las estructuras tradicionales y experimentar con nuevas formas de expresión. <!-- feedback: Correcto. Las vanguardias buscaban la innovación total, el verso libre y el uso de metáforas insólitas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Escribir crónicas de viaje sobre la Amazonía ecuatoriana. <!-- feedback: Incorrecto. Esto es propio de los cronistas de Indias o exploradores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Promover el uso del latín en la poesía moderna. <!-- feedback: Incorrecto. El enfoque estaba en el lenguaje coloquial o en la creación de nuevos términos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de los propósitos estéticos del movimiento vanguardista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v7",
+      "statement": "¿Por qué se considera que *Rayuela* es una \"antinovela\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el autor odia la literatura. <!-- feedback: Incorrecto. Es una exploración profunda del género. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque ofrece múltiples rutas de lectura, rompiendo la linealidad tradicional. <!-- feedback: Correcto. Propone diferentes órdenes para leer los capítulos, haciendo al lector un participante activo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un libro de cuentos cortos en lugar de una novela larga. <!-- feedback: Incorrecto. Es una novela extensa y compleja. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene personajes principales. <!-- feedback: Incorrecto. Tiene personajes muy definidos como Oliveira y la Maga. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de la innovación estructural en la narrativa contemporánea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v8",
+      "statement": "¿Cuál es un tema recurrente en la obra de la chilena Gabriela Mistral, primera Premio Nobel de Literatura de Latinoamérica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "B",
+          "text": "La maternidad frustrada, la infancia y la naturaleza. <!-- feedback: Correcto. Su poesía está marcada por una profunda sensibilidad hacia los niños, el campo y el dolor de la pérdida. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "A",
+          "text": "La descripción técnica de la arquitectura colonial. <!-- feedback: Incorrecto. Su obra es emocional y humanista, no descriptiva de edificios. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La defensa del imperialismo europeo en América. <!-- feedback: Incorrecto. Fue una defensora de la identidad americana y la justicia social. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El uso de jerigonzas y lenguajes inventados. <!-- feedback: Incorrecto. Su lenguaje es claro, aunque cargado de símbolos y metáforas potentes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de las líneas temáticas de autores fundamentales del continente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v9",
+      "statement": "Juan Montalvo es famoso por su frase \"Mi pluma lo mató\", refiriéndose a:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muerte de un personaje en una de sus novelas. <!-- feedback: Incorrecto. Se refería a un hecho histórico real. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El fin de la influencia española en la literatura. <!-- feedback: Incorrecto. Su combate era político e interno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El asesinato del dictador Gabriel García Moreno. <!-- feedback: Correcto. Montalvo creía que sus ensayos contra el régimen inspiraron a quienes ejecutaron al presidente. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El cierre de un periódico en Quito. <!-- feedback: Incorrecto. No fue por una institución, sino por una persona poderosa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nContextualización de la obra ensayística y su impacto político en el Ecuador decimonónico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v10",
+      "statement": "¿Qué caracteriza al estilo \"Neobarroco\" en autores como José Lezama Lima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sencillez extrema en el vocabulario. <!-- feedback: Incorrecto. Es un estilo extremadamente complejo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El exceso ornamental, la saturación del lenguaje y las metáforas complejas. <!-- feedback: Correcto. Es una relectura del barroco español aplicada a la exuberancia americana. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El rechazo a usar adjetivos en la poesía. <!-- feedback: Incorrecto. Al contrario, usa una adjetivación abundante y rica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La brevedad de todos sus textos. <!-- feedback: Incorrecto. \"Paradiso\", su obra cumbre, es una novela monumental y densa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de estilos literarios avanzados y su estética particular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v11",
+      "statement": "¿Qué conflicto central suele presentar la \"Novela de la Tierra\" (ej. *Doña Bárbara*)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lucha entre extraterrestres y humanos. <!-- feedback: Incorrecto. Temática ajena al regionalismo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El enfrentamiento entre la civilización (ciudad) y la barbarie (naturaleza salvaje). <!-- feedback: Correcto. Se explora cómo el progreso intenta imponerse sobre las leyes de la selva o el llano. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La disputa por el control de la banca internacional. <!-- feedback: Incorrecto. Los conflictos son rurales y territoriales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El romance imposible entre dos miembros de la misma familia real. <!-- feedback: Incorrecto. No se centra en la aristocracia, sino en la fuerza de la tierra. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de temas socioliterarios en el regionalismo latinoamericano.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v12",
+      "statement": "En los relatos de Borges, el \"laberinto\" suele ser un símbolo de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mala planificación urbana de Buenos Aires. <!-- feedback: Incorrecto. Es un símbolo metafísico, no urbanístico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un parque de diversiones que visitó en su infancia. <!-- feedback: Incorrecto. Borges usa símbolos abstractos y literarios. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La complejidad del universo, el infinito y la confusión del conocimiento humano. <!-- feedback: Correcto. El laberinto representa la imposibilidad del hombre para comprender la totalidad del mundo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El sistema de pasillos de una biblioteca abandonada. <!-- feedback: Incorrecto. Aunque usa la biblioteca como símbolo, el laberinto tiene una carga filosófica más amplia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación de la simbología borgiana y sus implicaciones filosóficas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v13",
+      "statement": "¿Por qué *Trilce* (1922) se considera uno de los libros más rupturistas de la lengua española?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fue escrito totalmente en quechua. <!-- feedback: Incorrecto. Está escrito en español, aunque usa algunos neologismos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque desarticula la sintaxis, usa ortografía caprichosa y explora el dolor desde el lenguaje. <!-- feedback: Correcto. Vallejo lleva el lenguaje al límite de lo comprensible para expresar una angustia existencial profunda. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un libro ilustrado con fotografías de la época. <!-- feedback: Incorrecto. La ruptura es puramente lingüística y estética. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo contiene una palabra por página. <!-- feedback: Incorrecto. Tiene poemas de estructura compleja, aunque no tradicional. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la innovación lingüística en la vanguardia poética peruana y latinoamericana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v14",
+      "statement": "¿Cuál es la principal diferencia entre una noticia periodística y una crónica literaria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia siempre miente y la crónica siempre dice la verdad. <!-- feedback: Incorrecto. Ambas deben basarse en hechos reales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La crónica utiliza recursos narrativos de la ficción para contar hechos reales con una mirada subjetiva. <!-- feedback: Correcto. La crónica busca el \"cómo\" y el estilo, mientras que la noticia se centra en el \"qué\" de forma objetiva. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La noticia es más larga que la crónica. <!-- feedback: Incorrecto. Generalmente la crónica es mucho más extensa y detallada. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La noticia solo se publica en papel y la crónica solo en libros. <!-- feedback: Incorrecto. Ambas conviven en medios digitales e impresos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación de géneros discursivos en el ámbito del periodismo literario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v15",
+      "statement": "Muchos autores latinoamericanos contemporáneos tratan el tema de la \"memoria histórica\". ¿Cuál es el propósito de esta temática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Olvidar el pasado para poder vivir felices el presente. <!-- feedback: Incorrecto. El objetivo es justamente lo contrario: no olvidar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Procesar traumas sociales, dar voz a las víctimas y reflexionar sobre regímenes autoritarios pasados. <!-- feedback: Correcto. La literatura sirve como un espacio de justicia simbólica y reflexión colectiva. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar los nombres de los próceres en los libros de texto. <!-- feedback: Incorrecto. Se busca una verdad profunda y humana, no solo cambios nominales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Inventar historias fantásticas sobre dictadores de otros planetas. <!-- feedback: Incorrecto. Se basa en la realidad histórica de la región. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la función social de la literatura en contextos de post-conflicto o post-dictadura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v16",
+      "statement": "A diferencia del Indianismo romántico (que idealizaba al nativo), el Indigenismo buscaba:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a los indígenas a escribir novelas en español. <!-- feedback: Incorrecto. No era un proyecto pedagógico literario para ellos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Denunciar la explotación económica y social de las comunidades indígenas bajo el sistema latifundista. <!-- feedback: Correcto. Autores como Icaza o Arguedas mostraron la cruda realidad de la opresión. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a los indígenas de mudarse a las grandes ciudades. <!-- feedback: Incorrecto. Al contrario, se denunciaba cómo el sistema los despojaba de sus tierras. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Estudiar únicamente las lenguas muertas de la Amazonía. <!-- feedback: Incorrecto. El enfoque estaba en las condiciones de vida presentes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nContraste de perspectivas literarias sobre la población originaria de los Andes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v17",
+      "statement": "¿Cuál es la principal innovación narrativa que aporta Juan Rulfo en *Pedro Páramo*?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de un narrador en primera persona que es un niño. <!-- feedback: Incorrecto. El narrador es Juan Preciado, un adulto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La descripción cinematográfica de las batallas de la Revolución Mexicana. <!-- feedback: Incorrecto. La novela es más íntima y fantasmal que bélica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La estructura fragmentada donde el tiempo es circular y las voces de los muertos se confunden con las de los vivos. <!-- feedback: Correcto. Rulfo rompe la lógica temporal y espacial, creando una atmósfera de murmullo constante en Comala. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La inclusión de recetas de cocina tradicional mexicana entre capítulos. <!-- feedback: Incorrecto. No utiliza ese recurso; su estilo es austero y poético. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de innovaciones técnicas en la narrativa del siglo XX.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v18",
+      "statement": "Si se afirma que \"Latinoamérica es un continente de ficciones necesarias\", se sugiere que la literatura:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una pérdida de tiempo que distrae de la economía. <!-- feedback: Incorrecto. El término \"necesarias\" indica importancia fundamental. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Es una herramienta para construir una identidad propia frente a la imposición cultural externa. <!-- feedback: Correcto. La ficción ayuda a interpretar y dar sentido a una realidad compleja y a menudo contradictoria. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Debería ser escrita solo por políticos famosos. <!-- feedback: Incorrecto. La literatura es un campo artístico autónomo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirve para entretener a los turistas que visitan la región. <!-- feedback: Incorrecto. Su función es interna y constitutiva de la cultura. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del papel de la narrativa en la construcción de identidades nacionales y continentales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v19",
+      "statement": "¿Qué técnica tomó Gabriel García Márquez de Faulkner para crear el universo de Macondo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de rimas consonantes en los diálogos. <!-- feedback: Incorrecto. Faulkner escribía prosa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La invención de una lengua completamente nueva y difícil. <!-- feedback: Incorrecto. Ambos escriben en sus idiomas nacionales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La creación de un territorio imaginario (condado de Yoknapatawpha) donde se entrelazan múltiples sagas familiares. <!-- feedback: Correcto. El modelo de crear un \"pueblo mítico\" como escenario recurrente fue vital para la concepción de Macondo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El rechazo total a usar puntos y comas en sus textos. <!-- feedback: Incorrecto. Aunque Faulkner usa el flujo de conciencia, García Márquez mantiene una sintaxis más clásica y fluida. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de influencias literarias transnacionales y su adaptación al contexto regional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "EC-LEN-11-P1-literatura-001-v20",
+      "statement": "¿Cuál es el valor crítico de la obra de Alicia Yánez Cossío al usar el realismo mágico en un contexto andino?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo busca copiar el estilo de los autores colombianos para vender más libros. <!-- feedback: Incorrecto. Su obra tiene una voz propia y una crítica específica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Utiliza lo fantástico para cuestionar el patriarcado, el racismo y la rigidez de las tradiciones familiares serranas. <!-- feedback: Correcto. Su literatura integra lo irreal con una fuerte carga de denuncia social y feminista. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Pretende demostrar que en Quito no existen los problemas sociales. <!-- feedback: Incorrecto. Al contrario, los expone a través de la metáfora. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Evita hablar de la historia del Ecuador para no ofender a nadie. <!-- feedback: Incorrecto. Reinterpreta la historia desde perspectivas marginales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la obra de autoras contemporáneas ecuatorianas y su aporte a la crítica social.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "EC-LEN-11-P1-literatura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

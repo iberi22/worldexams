@@ -1,21 +1,22 @@
 ---
 id: "CO-IN-11-P4-gram-004-MASTERY"
+cefr_level: "C1"
 country: "colombia"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "uso-del-lenguaje"
-periodo: 4
-protocol_version: "5.2"
-bundle_index: 4
-bundle_size: 20
+periodo: "4"
+protocol_version: "5.1"
+bundle_index: "4"
+bundle_size: "20"
 alignment: "ICFES Saber 11 + MEN"
 target_cefr: "C1"
-modern_context: true
+modern_context: "true"
 distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.42
-  discrimination_index_target: ">= 0.25"
-  simulated_responses: 100
+calibration: ""
+expected_success_rate: "0.42"
+discrimination_index_target: ">= 0.25"
+simulated_responses: "100"
 rubric_baseline: "ai_ethics_vocabulary, complex_causality, ethical_synthesis"
 ---
 

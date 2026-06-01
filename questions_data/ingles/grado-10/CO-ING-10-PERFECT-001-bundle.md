@@ -1,28 +1,28 @@
 ---
-
-id: CO-ING-10-PERFECT-001
-country: co
-grado: 10
-asignatura: Inglés
-tema: Present Perfect
-periodo: 1
-protocol_version: 2.1
-total_questions: 11
-estado: published
-creador: Antigravity AI
-generation_date: '2025-12-22'
-source: World Exams Original
-lineamientos:
-  nacional: MEN - Estándares Básicos (Experiencias)
-  internacional: MCER - Nivel B1
-contexto: Life Experiences
-llm_model: gemini-1.5-pro
-agent: jules
-ide: vscode
-bundle_version: '2.0'
-dificultad: 3
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "CO-ING-10-PERFECT-001"
+cefr_level: "B1"
+country: "co"
+grado: "10"
+asignatura: "Inglés"
+tema: "Present Perfect"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "11"
+estado: "published"
+creador: "Antigravity AI"
+generation_date: "2025-12-22"
+source: "World Exams Original"
+lineamientos: ""
+nacional: "MEN - Estándares Básicos (Experiencias)"
+internacional: "MCER - Nivel B1"
+contexto: "Life Experiences"
+llm_model: "gemini-1.5-pro"
+agent: "jules"
+ide: "vscode"
+bundle_version: "2.0"
+dificultad: "3"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
 
 # Pregunta Base: Have you ever...?

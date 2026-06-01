@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "guatemala",
+    "pack_id": "guatemala-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-06-01T17:05:46.679Z"
+  },
+  "questions": [
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v1",
+      "statement": "¿Cómo se denomina al conjunto de seres vivos (comunidad) que interactúan entre sí y con los elementos no vivos (ambiente físico) en un lugar determinado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Población <!-- feedback: Incorrecto. Una población es el grupo de individuos de la misma especie. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ecosistema <!-- feedback: Correcto. Incluye tanto los factores bióticos como los abióticos y sus interacciones. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Biosfera <!-- feedback: Incorrecto. La biosfera es el conjunto de todos los ecosistemas del planeta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bioma <!-- feedback: Incorrecto. Un bioma es una región geográfica grande con clima y vegetación similares. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los niveles de organización ecológica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v2",
+      "statement": "¿Cuál de los siguientes es un factor abiótico fundamental en los ecosistemas de la selva de Petén?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jaguares <!-- feedback: Incorrecto. Los jaguares son seres vivos (factor biótico). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Humedad relativa <!-- feedback: Correcto. La humedad es un componente físico-químico del ambiente. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Árboles de Ceiba <!-- feedback: Incorrecto. La Ceiba es un organismo vivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hongos descomponedores <!-- feedback: Incorrecto. Los hongos son seres vivos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación entre componentes bióticos y abióticos del ecosistema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v3",
+      "statement": "En una cadena trófica, ¿qué organismo ocupa siempre el primer nivel productivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidor primario <!-- feedback: Incorrecto. Los consumidores ocupan niveles superiores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Productor (Autótrofo) <!-- feedback: Correcto. Transforman energía lumínica o química en materia orgánica. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedor <!-- feedback: Incorrecto. Los descomponedores actúan sobre todos los niveles. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Depredador tope <!-- feedback: Incorrecto. Se encuentra en el nivel más alto de la cadena. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de la estructura de los niveles tróficos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v4",
+      "statement": "¿Cuál es la fuente primaria de energía para casi todos los ecosistemas terrestres en Guatemala?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor volcánico <!-- feedback: Incorrecto. Solo es fuente para algunos ecosistemas muy específicos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La energía solar <!-- feedback: Correcto. El sol provee la energía que los productores captan para iniciar el flujo energético. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El agua de lluvia <!-- feedback: Incorrecto. El agua es necesaria para la vida, pero no es la fuente de energía metabólica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los minerales del suelo <!-- feedback: Incorrecto. Son nutrientes, pero no la fuente primaria de energía. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación del origen del flujo de energía en la biosfera.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v5",
+      "statement": "Un ave que se alimenta de los parásitos de la piel de un venado en la Sierra de las Minas está estableciendo una relación de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parasitismo <!-- feedback: Incorrecto. En el parasitismo uno se beneficia y el otro se perjudica; aquí ambos se benefician. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo <!-- feedback: Correcto. Ambos organismos obtienen un beneficio de la interacción. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Comensalismo <!-- feedback: Incorrecto. En el comensalismo uno se beneficia y al otro le es indiferente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Competencia <!-- feedback: Incorrecto. No están luchando por el mismo recurso limitado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación y clasificación de interacciones biológicas en la comunidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v6",
+      "statement": "Si un productor capta 10,000 unidades de energía, ¿cuánta energía aproximadamente estará disponible para el consumidor secundario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,000 unidades <!-- feedback: Incorrecto. Esto es lo que recibe el consumidor primario. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "100 unidades <!-- feedback: Correcto. Según la regla del 10%, cada nivel recibe el 10% del anterior: 10,000 -> 1,000 -> 100. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10,000 unidades <!-- feedback: Incorrecto. La energía se pierde en cada nivel por calor y procesos metabólicos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 unidades <!-- feedback: Incorrecto. Esto sería para el consumidor terciario. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las leyes de la termodinámica al flujo energético en los ecosistemas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v7",
+      "statement": "¿Cuál es el proceso biológico que retira el Dióxido de Carbono ($CO_2$) de la atmósfera y lo incorpora a la biomasa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiración celular <!-- feedback: Incorrecto. La respiración libera $CO_2$ a la atmósfera. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Combustión <!-- feedback: Incorrecto. La combustión libera $CO_2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fotosíntesis <!-- feedback: Correcto. Los organismos autótrofos fijan el carbono atmosférico en moléculas orgánicas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Descomposición <!-- feedback: Incorrecto. La descomposición libera carbono al suelo y la atmósfera. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de los mecanismos de intercambio de materia en los ciclos biogeoquímicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v8",
+      "statement": "Después de una erupción del volcán de Fuego que deja el suelo cubierto de lava nueva, ¿qué tipo de sucesión ecológica se iniciará?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión primaria <!-- feedback: Correcto. Se inicia en un área donde nunca ha habido vida o donde esta fue totalmente eliminada (roca desnuda). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión secundaria <!-- feedback: Incorrecto. Esta ocurre cuando ya existe un suelo formado tras un disturbio menor. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sucesión terciaria <!-- feedback: Incorrecto. Ese término no existe en ecología estándar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Clímax <!-- feedback: Incorrecto. El clímax es el estado final de estabilidad, no el inicio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nDiferenciación de los procesos de colonización y desarrollo de comunidades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v9",
+      "statement": "Guatemala es considerado un país \"Megadiverso\" principalmente debido a:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su gran extensión territorial. <!-- feedback: Incorrecto. Guatemala es pequeña comparada con otros países megadiversos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Su variedad de microclimas, topografía y ser un puente biológico entre Norte y Suramérica. <!-- feedback: Correcto. La diversidad de hábitats permite una enorme variedad de especies. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Tener la mayor cantidad de volcanes activos del mundo. <!-- feedback: Incorrecto. Aunque influyen, no es la razón principal de la biodiversidad biológica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Su clima exclusivamente tropical en todo el territorio. <!-- feedback: Incorrecto. El país tiene climas templados y fríos en el altiplano. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de los factores geográficos y biológicos que sustentan la riqueza natural del país.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v10",
+      "statement": "La introducción del Pez León en las costas del Caribe guatemalteco es una amenaza para el ecosistema porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayuda a limpiar el arrecife de algas. <!-- feedback: Incorrecto. Es un depredador voraz. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Carece de depredadores naturales y compite con las especies nativas por recursos. <!-- feedback: Correcto. Las especies invasoras alteran el equilibrio trófico. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Provee una nueva fuente de alimento para todos los peces. <!-- feedback: Incorrecto. Al contrario, se come a los peces pequeños nativos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Atrae más turismo de buceo. <!-- feedback: Incorrecto. Aunque ocurra, el impacto ecológico es negativo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del impacto de las especies exóticas invasoras en la estabilidad ecológica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v11",
+      "statement": "Mientras que el hábitat del Quetzal es el bosque nuboso, su nicho ecológico se define por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ubicación geográfica de la Sierra de las Minas. <!-- feedback: Incorrecto. Eso es parte de su hábitat. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Su rol como dispersor de semillas de árboles de aguacatillo y su posición en la cadena trófica. <!-- feedback: Correcto. El nicho es la función o \"profesión\" de la especie en el ecosistema. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura y humedad del bosque. <!-- feedback: Incorrecto. Estos son factores abióticos del hábitat. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La altitud sobre el nivel del mar donde vive. <!-- feedback: Incorrecto. Es una característica del hábitat. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación conceptual entre el lugar donde vive una especie y su función biológica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v12",
+      "statement": "¿Cuál es el papel fundamental de las bacterias del género *Rhizobium*, presentes en las raíces de leguminosas (como el frijol), en el ciclo del nitrógeno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convertir nitritos en nitratos. <!-- feedback: Incorrecto. Eso lo hacen las bacterias nitrificantes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Liberar nitrógeno gaseoso a la atmósfera. <!-- feedback: Incorrecto. Eso es la desnitrificación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fijar el nitrógeno atmosférico para hacerlo asimilable por las plantas. <!-- feedback: Correcto. Es un proceso de simbiosis vital para la fertilidad del suelo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Descomponer materia orgánica muerta. <!-- feedback: Incorrecto. Esa es función de descomponedores generales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de los procesos microbiológicos esenciales para la nutrición de los ecosistemas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v13",
+      "statement": "El exceso de fertilizantes agrícolas que llega al Lago de Amatitlán provoca un crecimiento desmedido de algas. ¿Cuál es la consecuencia final más grave para la fauna acuática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento exagerado de oxígeno en el agua. <!-- feedback: Incorrecto. El oxígeno se agota. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La disminución drástica de oxígeno disuelto debido a la descomposición de las algas muertas. <!-- feedback: Correcto. Las bacterias consumen el oxígeno al descomponer la biomasa algal, asfixiando a los peces. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El agua se vuelve más transparente. <!-- feedback: Incorrecto. Se vuelve turbia y verde. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los peces tienen más comida disponible. <!-- feedback: Incorrecto. La mayoría de estas algas no son alimento adecuado y el ambiente se vuelve tóxico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del proceso de eutrofización y sus efectos en la biodiversidad acuática.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v14",
+      "statement": "Si en un ecosistema se eliminan a todos los depredadores tope (como el jaguar), ¿qué efecto en cascada es más probable observar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento en la biodiversidad total. <!-- feedback: Incorrecto. Suele disminuir por competencia desmedida. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un crecimiento descontrolado de los herbívoros que llevaría a la sobreexplotación de la vegetación. <!-- feedback: Correcto. Se pierde el control \"top-down\" del ecosistema. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los herbívoros dejarán de reproducirse. <!-- feedback: Incorrecto. Al no haber depredación, se reproducirán más. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El ecosistema se volverá más estable. <!-- feedback: Incorrecto. La pérdida de un nivel trófico genera inestabilidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de las interdependencias tróficas y el papel de los reguladores biológicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v15",
+      "statement": "Muchos árboles en el corredor seco de Guatemala tienen hojas pequeñas, cerosas o espinas. Estas adaptaciones tienen como fin primordial:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilitar la captura de energía solar. <!-- feedback: Incorrecto. Las hojas pequeñas captan menos luz. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reducir la pérdida de agua por transpiración en ambientes áridos. <!-- feedback: Correcto. Son adaptaciones xerófitas para sobrevivir a la escasez de agua. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Atraer a una mayor cantidad de polinizadores. <!-- feedback: Incorrecto. Los polinizadores son atraídos por flores, no por el tipo de hoja. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Protegerse de las bajas temperaturas nocturnas. <!-- feedback: Incorrecto. El problema principal es la sequedad y el calor. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nRelación entre las características morfológicas de los organismos y los factores limitantes del ambiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v16",
+      "statement": "¿Cuál es el bioma caracterizado por alta pluviosidad, temperaturas constantes y una estratificación vertical compleja de la vegetación, típico de Izabal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bosque de Montaña <!-- feedback: Incorrecto. Es típico del altiplano y tiene coníferas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Selva Tropical Lluviosa <!-- feedback: Correcto. Presenta la mayor biodiversidad y complejidad estructural. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Selva Subtropical Húmeda <!-- feedback: Incorrecto. Tiene variaciones estacionales más marcadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Chaparral Espinoso <!-- feedback: Incorrecto. Es un bioma seco. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de las características ecológicas de los biomas nacionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v17",
+      "statement": "¿Cómo afecta el aumento de la temperatura global a los ecosistemas de \"bosque nuboso\" en las cumbres de las montañas de Guatemala?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los bosques nubosos se expandirán hacia los valles más bajos. <!-- feedback: Incorrecto. El aumento de calor sube el nivel de condensación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La franja de nubes se eleva, provocando el secado del ecosistema y la pérdida de especies endémicas que no pueden migrar más arriba. <!-- feedback: Correcto. Es un fenómeno conocido como \"ascensión de la línea de nubes\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El aumento de calor favorece una mayor producción de epífitas. <!-- feedback: Incorrecto. Las epífitas dependen de la humedad constante de las nubes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No habrá impacto ya que las montañas son muy altas. <!-- feedback: Incorrecto. El cambio climático afecta a todas las altitudes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de los impactos específicos del cambio climático en ecosistemas vulnerables.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v18",
+      "statement": "En un estudio de calidad de agua en un río de Verapaz, se encuentra una gran abundancia de larvas de efímeras (insectos muy sensibles a la contaminación) y una ausencia de gusanos tubifex (resistentes). ¿Qué conclusión puede inferirse?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El río está altamente contaminado con materia orgánica. <!-- feedback: Incorrecto. Si así fuera, habría tubifex y no efímeras. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El agua tiene una excelente calidad y niveles óptimos de oxígeno disuelto. <!-- feedback: Correcto. La presencia de especies sensibles es señal de un ecosistema sano. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El río ha perdido toda su biodiversidad. <!-- feedback: Incorrecto. Las larvas son parte de la biodiversidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura del agua es demasiado alta para la vida. <!-- feedback: Incorrecto. Las efímeras indican condiciones favorables. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la salud del ecosistema mediante el análisis de comunidades de bioindicadores.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v19",
+      "statement": "¿Por qué un ecosistema con alta biodiversidad suele ser más resiliente ante disturbios ambientales que uno con baja biodiversidad (como un monocultivo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las especies pelean menos entre sí. <!-- feedback: Incorrecto. La competencia existe, pero hay más funciones cubiertas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque existe redundancia funcional: varias especies pueden cumplir roles similares, manteniendo los procesos del ecosistema si una desaparece. <!-- feedback: Correcto. La diversidad de respuestas estabiliza el sistema. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Porque el suelo es más duro en los bosques diversos. <!-- feedback: Incorrecto. No es un factor mecánico del suelo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque las plantas en los bosques diversos son más grandes. <!-- feedback: Incorrecto. El tamaño no garantiza resiliencia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la relación entre complejidad biológica y estabilidad sistémica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-CIE-11-P1-ecosistemas-001-v20",
+      "statement": "¿Cuál de los siguientes es un \"servicio ecosistémico de regulación\" vital proporcionado por los manglares de la costa del Pacífico de Guatemala?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La extracción de madera para construcción. <!-- feedback: Incorrecto. Este es un servicio de provisión. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El uso del paisaje para el turismo fotográfico. <!-- feedback: Incorrecto. Este es un servicio cultural. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La protección de las costas contra tormentas, marejadas y erosión. <!-- feedback: Correcto. Los manglares actúan como barreras físicas naturales que regulan impactos ambientales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La provisión de peces para el consumo local. <!-- feedback: Incorrecto. Es un servicio de provisión. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación y clasificación de los beneficios que los ecosistemas brindan a la sociedad humana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-CIE-11-P1-ciencias-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

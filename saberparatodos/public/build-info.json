@@ -1,7 +1,6 @@
 {
   "version": "0.14.0",
-  "timestamp": 1780088250798,
-  "buildTime": 1780088250798,
-  "iso": "2026-05-29T20:57:30.798Z",
-  "commit": "3886cfdeb756ef2841c5250fb7bd6d4daad95972"
+  "deployDate": "2026-06-01T17:05:46.874Z",
+  "commit": "5748f888",
+  "message": "fix(ui): prevent null pointer hydration crash in PeriodTracker #377"
 }

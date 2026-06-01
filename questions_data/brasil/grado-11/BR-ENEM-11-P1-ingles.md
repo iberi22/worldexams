@@ -1,17 +1,18 @@
 ---
 id: "BR-ENEM-11-P1-ingles-001"
+cefr_level: "B1"
 country: "brasil"
-exam: "ENEM"
-grado: 11
+grado: "11"
 asignatura: "Linguagens"
 tema: "Inglês"
-periodo: 1
+periodo: "1"
 protocol_version: "5.1"
-bundle_size: 20
+exam: "ENEM"
+bundle_size: "20"
 alignment: "ENEM 2026"
 quality_status: "UNREVISED"
 generation_status: "RAW"
-needs_human_review: true
+needs_human_review: "true"
 license: "CC BY-NC-SA 4.0"
 ---
 

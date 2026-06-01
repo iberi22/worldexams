@@ -1,20 +1,21 @@
 ---
 id: "CO-ING-11-part2-003"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "vocabulary-matching"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "Jules"
 generation_date: "2025-12-14"
 source: "Macmillan Dictionary"
 source_url: "https://www.macmillandictionary.com/"
 source_license: "CC BY-SA 4.0"
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
 ---
 
 # Pregunta Base: Environment Vocabulary

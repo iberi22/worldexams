@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Diagnóstico",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-11-subject-Diagnstico",
+    "generated_at": "2026-06-01T17:05:46.760Z"
+  },
+  "questions": [
+    {
+      "id": "q-0",
+      "statement": "**Dificultad: D3**\n\n¿Cuántos estados tiene México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31 estados",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "32 entidades federativas (31 estados + CDMX)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "30 estados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "33 estados",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "**Dificultad: D3**\n\n¿Cuál es el río más largo de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Río Bravo (Río Grande)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Río Usumacinta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Río Lerma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Río Balsas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "**Dificultad: D4**\n\n¿En qué tipo de clima se encuentra la mayor parte de la Ciudad de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seco",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tropical",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Semiseco o templado según la zona",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Polar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "**Dificultad: D4**\n\n¿Cuál es el principio democrático que establece que los representantes deben actuar en beneficio de los representados?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Principio de representación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Principio de elección",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Principio de mayoría",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Principio de separación de poderes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la relieve predominante en la Sierra Madre Oriental?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llanuras costeras",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Montañas y Sierra",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Mesetas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desiertos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "**Dificultad: D5**\n\n¿Qué principio establece que los ciudadanos tienen derechos y obligaciones ante el Estado?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Principio de soberanía",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Principio de ciudadanía",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Principio de federalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Principio monárquico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la extensión territorial de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 millones de km²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1.9 millones de km²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.96 millones de km² aproximadamente",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "2.5 millones de km²",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "**Dificultad: D6**\n\n¿Cuál es la entidad federativa con mayor biodiversidad en México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sonora",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Chihuahua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Chiapas y Oaxaca (alta biodiversidad, incluyendo la Selva Lacandona)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Baja California",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "**Dificultad: D7**\n\n¿Qué tipo de industria genera el mayor PIB en México actualmente?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agricultura",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Minería",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Industria manufacturera (incluyendo automotriz y electrónica)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Pesca",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "**Dificultad: D7**\n\n¿Qué característica define a una economía de mercado?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los precios se determinan por la oferta y la demanda",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Estado controla toda la producción",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No existe el comercio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo existe la agricultura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "**Dificultad: D8**\n\n¿Qué organismos internacionales influyen en la economía de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la ONU",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Solo el Banco Mundial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "FMI, Banco Mundial, OMC, OCDE, entre otros",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "**Dificultad: D8**\n\n¿Qué es la globalización económica?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La interdependencia económica entre países a través del libre comercio y flujos de capital",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El aislamiento económico de los países",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación total de las fronteras",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La dominación económica de un solo país",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "**Dificultad: D9**\n\n¿Por qué la ubicación geográfica de México lo hace vulnerable al crimen organizado transnacional?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por su posición entre Estados Unidos (demanda de drogas) y países productores de América Latina",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un país pequeño",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene las mayores reservas de drogas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene relaciones con otros países",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "**Dificultad: D9**\n\n¿Qué regiones de México tienen los mayores índices de Marginación Social?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Norte y centro",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Norte y Bajío",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sur y Sierra Gorda de Querétaro, Sierra de Chihuahua, entre otras zonas rurales",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "CDMX y Monterrey",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "**Dificultad: D10**\n\n¿Cuál es la relación entre la distribución de la población y la actividad económica en México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay relación",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La población se concentra en el centro y norte donde hay más industria y servicios, mientras el sur tiene menor densidad poblacional",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Toda la población está evenly distribuida",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La población solo vive en zonas rurales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-15",
+      "statement": "**Dificultad: D10**\n\n¿Qué impacto tiene el nearshoring en la economía de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la inversión extranjera",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "No tiene impacto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Atrae inversión extranjera directa al trasladar cadenas de suministro a México, especialmente desde Asia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Solo beneficia a China",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-16",
+      "statement": "**Dificultad: D3**\n\n¿En qué consiste el principio de división de poderes?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gobierno se divide en Ejecutivo, Legislativo y Judiciário para evitar abusos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los jueces eligen al presidente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los militares gobiernan",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Congreso nombra al Ejecutivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-17",
+      "statement": "**Dificultad: D4**\n\n¿Qué tipo de organismo es la ONU?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organismo militar",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Organización económica regional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Organización internacional dedicada a mantener la paz y seguridad internacional",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Organismo solo para países ricos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-18",
+      "statement": "**Dificultad: D5**\n\n¿Cuál es la importancia de los tratados internacionales en el derecho mexicano?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tratados internacionales celebrados por el presidente son Ley Suprema cuando son aprobados por el Senado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No tienen importancia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo son recomendaciones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo aplican para el derecho internacional",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-19",
+      "statement": "**Dificultad: D8**\n\n¿Por qué el civismo es fundamental en una democracia?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque requiere ciudadanos informados, participativos y comprometidos con los valores democráticos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo importa en elecciones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque el gobierno lo decide todo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque no hay otras opciones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-geografia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-0",
+      "statement": "**Dificultad: D3**\n\n¿En qué año se independizó México de España?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1810",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1821",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1824",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1811",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-1",
+      "statement": "**Dificultad: D3**\n\n¿Cuál fue el evento que inició la Guerra de Independencia de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grito de Dolores (16 de septiembre de 1810)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Firma del Plan de Iguala",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La entrada de los Trigarante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Consumación de la Independencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-2",
+      "statement": "**Dificultad: D4**\n\n¿En qué año se promulgó la Constitución Política de los Estados Unidos Mexicanos de 1917?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1910",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1912",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1917",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1920",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-3",
+      "statement": "**Dificultad: D4**\n\n¿Cuál fue el principal líder de la Revolución Mexicana?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porfirio Díaz",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Antonio López de Santa Anna",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No hubo un solo líder, fue un movimiento plural",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Agustín de Iturbide",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-4",
+      "statement": "**Dificultad: D5**\n\n¿En qué consistió el Porfiriato?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodo de gobierno de Porfirio Díaz (1876-1911) caracterizado por modernización y desigualdad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un periodo de democracidadefectiva",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un gobierno anarquista",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una época de paz total sin conflictos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-5",
+      "statement": "**Dificultad: D5**\n\n¿Qué fue el Plan de Ayala?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un plan para establecer la democracia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un plan impulsada por Zapata que desconocía a Madero y demandaba tierra para los campesinos",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un plan para limitar el poder de los militares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un plan económico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-6",
+      "statement": "**Dificultad: D6**\n\n¿En qué consistió el movimiento de la Resistencia Civil durante el maximato?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una rebelión armada",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un movimiento de Calles contra el gobierno de Cárdenas",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra civil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un plan electoral",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-7",
+      "statement": "**Dificultad: D6**\n\n¿Qué fue el Cardenismo y cuál fue su principal logro?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un movimiento literario",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un periodo de privatizaciones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno de Lázaro Cárdenas (1934-1940) caracterizado por la expropiación petrolera y la repartición de tierras",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Un plan militar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-8",
+      "statement": "**Dificultad: D7**\n\n¿Cuál fue la importancia histórica de la Constitución de 1917?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue una de las primeras constituciones del mundo en reconocer derechos sociales como trabajo, educación y tierra",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fue igual a la Constitución de 1857",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No tuvo importancia histórica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo reconoció derechos políticos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-9",
+      "statement": "**Dificultad: D7**\n\n¿Por qué es importante la Revolución Mexicana en el contexto latinoamericano?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue uno de los movimientos revolucionarios más importantes del siglo XX en América Latina",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No tuvo impacto fuera de México",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fue similar a la Revolución Francesa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo influyó en Estados Unidos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-10",
+      "statement": "**Dificultad: D8**\n\n¿Qué relación hubo entre la Revolución Mexicana y el movimiento obrero?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hubo relación",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El movimiento obrero surgió después de la Revolución",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los sindicatos se consolidaron durante y después de la Revolución, quedando vinculados al Estado",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Solo existieron durante el Porfiriato",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-11",
+      "statement": "**Dificultad: D8**\n\n¿Qué fue el efecto de la Revolución Mexicana en la educación?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se impulsó la educación pública, laica y gratuita como derecho constitucional",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se eliminó la educación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo se permitió la educación privada",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La educación no cambió significativamente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-12",
+      "statement": "**Dificultad: D9**\n\n¿Cuál fue la diferencia fundamental entre los ideales de Emiliano Zapata y Pancho Villa durante la Revolución?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zapata se enfocó en la tierra y los campesinos; Villa en la protección del pueblo y la Revolución",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No hubo diferencia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ambos querían lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Zapata quería industrializar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-13",
+      "statement": "**Dificultad: D9**\n\n¿Qué consecuencias tuvo el modelo de sustitución de importaciones en México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollo industrial acelerado sin problemas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Crecimiento industrial pero con dependencia tecnológica y vulnerabilidad externa",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Desaparición de la industria",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Industrialización inmediata total",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-14",
+      "statement": "**Dificultad: D10**\n\n¿Cuál fue el contexto internacional que influyó en la Revolución Mexicana?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Revolución Mexicana occurred en un contexto de descontento global por la desigualdad y el auge del porfiriato",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No tuvo contexto internacional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fue copia directa de la Revolución Rusa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo respondió a intereses de Estados Unidos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-15",
+      "statement": "**Dificultad: D10**\n\n¿Qué papel jugaron los Tratados de Bucareli (1923) en la historia de México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Firmaron la anexión de México a Estados Unidos",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Establecieron condiciones para el reconocimiento diplomático de Estados Unidos a cambio de garantías a inversiones estadounidenses",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Terminaron la Revolución",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Establecieron la democracia en México",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-16",
+      "statement": "**Dificultad: D3**\n\n¿En qué consiste laLey de Heroes de la Patria?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ley sobre los militares",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reconocimiento a Miguel Hidalgo, José María Morelos, Vicente Guerrero e Iturbide como Padres de la Patria",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una ley económica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una ley educativa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-17",
+      "statement": "**Dificultad: D4**\n\n¿Cuál fue el legado económico del modelo neoliberal en México?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nacionalización de empresas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Privatización de empresas estatales, apertura comercial y liberalización económica",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Autarquía económica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Industrialización pesada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-18",
+      "statement": "**Dificultad: D5**\n\n¿Qué fue la Guerra de los Pasteles?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una guerra contra Frankreich",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un conflicto interno en México",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto entre México y Estados Unidos por deudas con empresarios estadounidenses (1838-1839)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Una rebelión indígena",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "q-19",
+      "statement": "**Dificultad: D8**\n\n¿Qué papel tuvo el ejército en la transformación de México tras la Revolución?\n\n# Opciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ejército fue gradualmente profesionalizado y quedó bajo control civil, aunque con períodos de intervención",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El ejército tomó el poder definitivamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El ejército desapareció",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El ejército solo luchó contra invasiones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-EXA-11-P7-historia-001",
+      "periodo": 7,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}
