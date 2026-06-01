@@ -1,6 +1,6 @@
 {
-  "version": "0.14.0",
-  "deployDate": "2026-06-01T17:05:46.874Z",
-  "commit": "5748f888",
-  "message": "fix(ui): prevent null pointer hydration crash in PeriodTracker #377"
+    "version":  "0.15.0",
+    "deployDate":  "2026-06-01T19:26:51.179Z",
+    "commit":  "c28d538f",
+    "message":  "v0.15.0: context-aware questions + CI/CD fixes + preview workflow"
 }

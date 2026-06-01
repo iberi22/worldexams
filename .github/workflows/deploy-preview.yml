@@ -1,0 +1,101 @@
+name: Deploy Preview
+
+on:
+  push:
+    branches-ignore:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 📦 Install dependencies
+        working-directory: ./saberparatodos
+        run: npm ci
+
+      - name: 🔍 Type check
+        working-directory: ./saberparatodos
+        run: npx tsc --noEmit
+
+      - name: 🏗️ Build Application
+        working-directory: ./saberparatodos
+        run: npm run build
+        env:
+          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+
+      - name: 📤 Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist-${{ github.sha }}
+          path: saberparatodos/dist
+          retention-days: 7
+
+  deploy-preview:
+    needs: validate-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: preview-${{ github.ref_name }}
+      url: ${{ steps.deploy.outputs.url }}
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 📥 Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist-${{ github.sha }}
+          path: saberparatodos/dist
+
+      - name: 🚀 Deploy to Cloudflare Pages (Preview)
+        id: deploy
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: saberparatodos
+          directory: saberparatodos/dist
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
+
+  deploy-api-preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: preview-api-${{ github.ref_name }}
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 📦 Install dependencies
+        working-directory: ./apps/worldexams-api
+        run: npm install
+
+      - name: 🚀 Deploy API Worker (Preview)
+        working-directory: ./apps/worldexams-api
+        run: npx wrangler deploy --branch ${{ github.ref_name }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

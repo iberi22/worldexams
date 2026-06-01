@@ -49,6 +49,9 @@ jobs:
   deploy:
     needs: validate-and-build
     runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://saberparatodos.space
 
     steps:
       - name: 📥 Checkout repository
@@ -73,6 +76,8 @@ jobs:
   deploy-api:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    environment:
+      name: production
 
     steps:
       - name: 📥 Checkout repository
