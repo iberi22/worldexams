@@ -1,28 +1,27 @@
 ---
-# === METADATA GLOBAL ===
 id: "CO-ING-11-part1-signs-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "Inglés"
 tema: "Part 1 - Signs Interpretation"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "AI-WorldExams"
 generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
 source: "ICFES Examples (Adaptation)"
 source_url: "https://www.thatquiz.org"
 source_license: "Public Domain / Educational Use"
 search_query: "preguntas icfes ingles parte 1 avisos ejemplos"
-original_question: "Where can you see this sign? 'Don't walk on the grass'"
+original_question: "Where can you see this sign? Dont walk on the grass"
 original_answer: "At the park"
+# === METADATA GLOBAL ===
+# === LICENSING (NEW v2.1) ===
+# === SOURCE ATTRIBUTION ===
 ---
 
 # Pregunta Base: Interpretación de Avisos

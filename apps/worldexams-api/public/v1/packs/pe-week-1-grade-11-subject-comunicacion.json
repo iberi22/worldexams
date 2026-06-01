@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-1-grade-11-subject-comunicacion",
+    "generated_at": "2026-06-01T17:05:46.769Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v1",
+      "statement": "Según el texto, ¿cuál es el origen fundamental de la gastronomía peruana actual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exclusividad de las técnicas precolombinas. <!-- feedback: Incorrecto. El texto menciona que es el resultado de un mestizaje, no de una sola fuente exclusiva. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un proceso prolongado de mestizaje cultural. <!-- feedback: Correcto. El texto afirma explícitamente que la cocina es el resultado de un largo proceso de integración de diversas culturas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La imposición de sabores europeos sobre los locales. <!-- feedback: Incorrecto. El texto habla de \"integrar\", lo que implica una mezcla voluntaria y constructiva, no una imposición. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El éxito comercial del ceviche en el extranjero. <!-- feedback: Incorrecto. Si bien es un referente mundial, el origen es el mestizaje cultural previo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de la idea principal y los factores causales mencionados explícitamente en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v2",
+      "statement": "Del texto se puede inferir que el ceviche:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se consume únicamente en las regiones costeras del Perú. <!-- feedback: Incorrecto. El texto dice que \"une a costa, sierra y selva\", lo que sugiere un consumo y significado nacional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Posee un valor que trasciende lo meramente alimenticio. <!-- feedback: Correcto. Al ser calificado como \"símbolo de identidad nacional\", se le otorga un valor cultural y simbólico superior al nutritivo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Fue creado exclusivamente por la influencia japonesa (nikkei). <!-- feedback: Incorrecto. El texto menciona múltiples influencias, no atribuye el ceviche a una sola de forma exclusiva en este fragmento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es el único plato que representa al Perú en el mundo. <!-- feedback: Incorrecto. Es un referente, pero el texto no afirma que sea el único. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCapacidad de extraer conclusiones no explícitas a partir de la terminología valorativa del autor (\"símbolo de identidad\").\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v3",
+      "statement": "En el texto, la palabra \"integrar\" tiene el sentido de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar. <!-- feedback: Incorrecto. Es el antónimo del proceso descrito. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Incorporar. <!-- feedback: Correcto. En el contexto de mezclar sabores y técnicas de diferentes culturas, integrar significa sumarlas o incorporarlas a un todo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Imponer. <!-- feedback: Incorrecto. Imponer no implica necesariamente una mezcla armónica como sugiere el texto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Analizar. <!-- feedback: Incorrecto. Analizar es el estudio de las partes, no la acción de unirlas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación del significado de una palabra basándose en el entorno semántico del párrafo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v4",
+      "statement": "¿Cuál es la función comunicativa predominante en el texto anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informativa. <!-- feedback: Correcto. El autor busca exponer hechos y características sobre la gastronomía peruana para conocimiento del lector. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa. <!-- feedback: Incorrecto. No se busca dar órdenes o convencer al lector de realizar una acción inmediata. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Estética. <!-- feedback: Incorrecto. Aunque usa lenguaje cuidado, el fin primordial no es la belleza del lenguaje sino la transmisión de datos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística. <!-- feedback: Incorrecto. El texto no habla sobre el funcionamiento del lenguaje mismo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nReconocimiento de la intención del autor y las funciones del lenguaje aplicadas al texto.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v5",
+      "statement": "Basándose en los datos hipotéticos de PISA, ¿qué porcentaje de estudiantes peruanos NO alcanza el nivel medio de comprensión lectora?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45% <!-- feedback: Incorrecto. Este es solo el nivel 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "30% <!-- feedback: Incorrecto. Este es solo el nivel 2. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75% <!-- feedback: Correcto. Los que no alcanzan el nivel medio son los de nivel 1 y 2: $45\\% + 30\\% = 75\\%$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "25% <!-- feedback: Incorrecto. Estos son los que sí alcanzan o superan el nivel medio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de integrar información de múltiples categorías en un texto discontinuo para responder a una condición negativa.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v6",
+      "statement": "Si el objetivo del Ministerio de Educación era que al menos el 50% de los estudiantes estuviera en el nivel 2 o superior, ¿se cumplió la meta según el gráfico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la suma de los niveles 2, 3 y 4 es 55%. <!-- feedback: Correcto. $30\\% + 15\\% + 10\\% = 55\\%$. Supera el 50% solicitado. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el nivel 2 solo tiene 30%. <!-- feedback: Incorrecto. La meta dice \"nivel 2 o superior\", por lo que se deben sumar los niveles más altos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la mayoría (45%) está en el nivel más bajo. <!-- feedback: Incorrecto. Aunque es un problema, no invalida el cumplimiento de la meta específica planteada. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque el nivel 1 bajó respecto a años anteriores. <!-- feedback: Incorrecto. El gráfico no proporciona datos comparativos de años anteriores. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nUso de la lógica cuantitativa para validar o refutar afirmaciones sobre el contenido de un gráfico.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v7",
+      "statement": "\"Es imperativo que el Perú invierta más en educación primaria si queremos mejorar los resultados de PISA a largo plazo\". En esta frase, la palabra \"imperativo\" denota:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una opción deseable. <!-- feedback: Incorrecto. Es una interpretación demasiado débil. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una necesidad urgente. <!-- feedback: Correcto. Imperativo indica algo que no se puede evitar o que es de cumplimiento obligatorio y necesario. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una sugerencia técnica. <!-- feedback: Incorrecto. No refleja la fuerza del adjetivo usado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un hecho consumado. <!-- feedback: Incorrecto. Se refiere a una acción futura necesaria, no a algo que ya ocurrió. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del tono y la fuerza argumentativa de los adjetivos en un discurso de opinión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v8",
+      "statement": "¿Cuál es la relación lógica entre la inversión en educación y los resultados de PISA sugerida por el autor en la frase anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradicción. <!-- feedback: Incorrecto. Las ideas no se oponen. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Causalidad. <!-- feedback: Correcto. Se sugiere que la inversión (causa) producirá la mejora en los resultados (efecto). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Comparación. <!-- feedback: Incorrecto. No se están midiendo dos entidades similares. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Concesión. <!-- feedback: Incorrecto. No se está admitiendo una dificultad para luego superarla. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de conectores lógicos implícitos en las estructuras condicionales y argumentativas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v9",
+      "statement": "El propósito principal de incluir un gráfico con niveles de desempeño en un informe es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar el texto para hacerlo más atractivo. <!-- feedback: Incorrecto. Los gráficos en textos académicos o informativos tienen una función cognitiva. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Facilitar la visualización rápida de la distribución de los datos. <!-- feedback: Correcto. Los gráficos permiten entender proporciones y comparaciones de un vistazo que en texto plano serían complejas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los datos exactos mediante barras. <!-- feedback: Incorrecto. Al contrario, los gráficos buscan clarificar y exponer los datos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los estudiantes están fallando. <!-- feedback: Incorrecto. El gráfico solo muestra la realidad; el propósito es informar, no necesariamente juzgar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de la pragmática de los elementos de diseño de información en textos complejos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v10",
+      "statement": "Si tuviéramos que ponerle un título al informe que combina el Texto 2 y el fragmento del Texto 1, ¿cuál sería el más adecuado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mejor comida del mundo. <!-- feedback: Incorrecto. Demasiado parcial, ignora el componente educativo del gráfico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Por qué fallamos en lectura. <!-- feedback: Incorrecto. Ignora el componente cultural positivo del primer texto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desafíos y logros de la realidad peruana contemporánea. <!-- feedback: Correcto. Es un título lo suficientemente amplio para cubrir tanto el logro cultural (gastronomía) como el desafío social (educación). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El INEI y las encuestas nacionales. <!-- feedback: Incorrecto. Se enfoca en la entidad, no en el contenido de los textos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de sintetizar contenidos heterogéneos bajo un concepto unificador.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v11",
+      "statement": "¿Cuál es la posición del autor respecto a la Inteligencia Artificial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alarmista. <!-- feedback: Incorrecto. No la ve como una amenaza fatal sino como una herramienta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Optimista crítica. <!-- feedback: Correcto. Ve el potencial positivo de la IA (optimista) pero señala problemas estructurales locales (crítica). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Indiferente. <!-- feedback: Incorrecto. El autor muestra una postura clara y argumentada sobre el tema. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tecnofóbica. <!-- feedback: Incorrecto. No rechaza la tecnología, propone capacitación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación del tono y la perspectiva ideológica del emisor sobre un tema de actualidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v12",
+      "statement": "Para sustentar su tesis, el autor utiliza un argumento de tipo:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autoridad. <!-- feedback: Incorrecto. No cita a ningún experto o institución específica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Analogía histórica. <!-- feedback: Correcto. Compara la situación actual de la IA con revoluciones tecnológicas pasadas para predecir un resultado similar. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Estadístico. <!-- feedback: Incorrecto. No proporciona cifras o datos numéricos en este fragmento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ético. <!-- feedback: Incorrecto. No apela a la moral o a los valores del bien y el mal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de las estrategias de persuasión y tipos de argumentos en textos de opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v13",
+      "statement": "¿Qué presupuesto es necesario aceptar para que el argumento del autor sea válido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la IA es más inteligente que los seres humanos. <!-- feedback: Incorrecto. No es necesario para el argumento sobre el empleo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que el comportamiento de las revoluciones pasadas se repetirá en la actual. <!-- feedback: Correcto. Si las revoluciones actuales fueran fundamentalmente distintas a las pasadas en su capacidad de crear empleo, su analogía fallaría. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que en el Perú no existen computadoras. <!-- feedback: Incorrecto. Es una exageración que no sostiene el texto; el autor habla de \"brecha\", no de ausencia total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los trabajos obsoletos deben ser protegidos por ley. <!-- feedback: Incorrecto. El autor parece aceptar que los oficios obsoletos se destruyen. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de premisas implícitas o condiciones de validez de un razonamiento analógico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v14",
+      "statement": "Según el autor, el verdadero obstáculo en el Perú para aprovechar la IA es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de interés de los jóvenes. <!-- feedback: Incorrecto. El texto no menciona la actitud de los jóvenes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El alto costo de las licencias de software. <!-- feedback: Incorrecto. No es un punto mencionado en el fragmento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Deficiencias estructurales en infraestructura y educación. <!-- feedback: Correcto. Se menciona explícitamente la \"brecha digital\" (infraestructura) y la \"falta de capacitación\" (educación). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La oposición de los sindicatos de trabajadores. <!-- feedback: Incorrecto. No se hace referencia a movimientos sociales opuestos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nExtracción de causas específicas atribuidas a una problemática en un contexto geográfico determinado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v15",
+      "statement": "Si añadiéramos un párrafo sobre la desnutrición infantil en el Perú a este texto sobre la IA, el resultado sería:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto más completo sobre el país. <!-- feedback: Incorrecto. Aunque sea información valiosa, no tiene conexión temática directa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un texto incoherente por falta de unidad temática. <!-- feedback: Correcto. La coherencia requiere que todas las partes del texto se relacionen con un tema central; la desnutrición es un tema ajeno a la IA y el empleo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una excelente comparación entre problemas físicos y digitales. <!-- feedback: Incorrecto. Sería una relación forzada y poco clara. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un texto argumentativo más persuasivo. <!-- feedback: Incorrecto. La falta de foco debilita la persuasión. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de las propiedades del texto (coherencia y cohesión) y la relevancia temática.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v16",
+      "statement": "¿A qué público objetivo parece estar dirigido principalmente el Texto 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Niños en edad escolar. <!-- feedback: Incorrecto. El vocabulario y el tema son de una complejidad superior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Decisores políticos y ciudadanos interesados en economía. <!-- feedback: Correcto. El tema (empleo, IA, capacitación nacional) es de relevancia para la política pública y el análisis socioeconómico. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Programadores expertos en Inteligencia Artificial. <!-- feedback: Incorrecto. El texto es de carácter general y social, no técnico-especializado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Turistas interesados en la cultura peruana. <!-- feedback: Incorrecto. No trata temas de atractivo turístico o cultural básico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación del destinatario ideal a partir del registro lingüístico y la relevancia del tema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v17",
+      "statement": "¿Cuál es el punto central de desacuerdo entre el Autor A y el Autor B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor del conocimiento en la cultura andina. <!-- feedback: Incorrecto. Ambos parecen valorar el conocimiento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La belleza de los paisajes en los Andes. <!-- feedback: Incorrecto. No es un tema relevante para la discusión educativa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La viabilidad y eficacia de la educación virtual en el contexto rural actual. <!-- feedback: Correcto. El Autor A la ve como solución y el Autor B como una ilusión que genera más desigualdad bajo las condiciones actuales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La necesidad de eliminar a los docentes de las aulas. <!-- feedback: Incorrecto. El Autor B defiende el acompañamiento docente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación del conflicto de opiniones en textos contrapuestos sobre un mismo fenómeno.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v18",
+      "statement": "¿Qué argumento del Autor B debilita más directamente la posición del Autor A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los niños prefieren jugar a estudiar. <!-- feedback: Incorrecto. No es un argumento usado por el Autor B. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La inexistencia de las condiciones materiales mínimas (conectividad) para que la \"solución\" funcione. <!-- feedback: Correcto. Si no hay internet, la educación virtual no puede \"eliminar barreras geográficas\", sino que crea una nueva barrera técnica. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que los Andes son muy altos para las señales de radio. <!-- feedback: Incorrecto. Es una simplificación técnica no mencionada explícitamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que la educación tradicional es mejor que la moderna. <!-- feedback: Incorrecto. El Autor B no defiende lo tradicional per se, sino las condiciones de eficacia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCapacidad de evaluar la fuerza de un contraargumento frente a una propuesta inicial.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v19",
+      "statement": "Una postura que logre conciliar ambas visiones (Autor A y Autor B) sostendría que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se debe prohibir la educación virtual en todo el país. <!-- feedback: Incorrecto. Esto ignoraría el potencial visto por el Autor A. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se debe regalar computadoras a todos los niños aunque no tengan luz. <!-- feedback: Incorrecto. Caería en la crítica del Autor B sobre la falta de condiciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La educación virtual es una herramienta potente, pero su implementación requiere una inversión previa y paralela en infraestructura básica. <!-- feedback: Correcto. Esta postura reconoce el valor de la herramienta (Autor A) pero acepta las condiciones de realidad necesarias (Autor B). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los docentes deben ser reemplazados por videos grabados. <!-- feedback: Incorrecto. Ignora la necesidad de acompañamiento señalada por el Autor B. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nProducción de un juicio crítico equilibrado que integre las verdades parciales de dos posturas opuestas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-001-v20",
+      "statement": "Para resolver definitivamente la controversia entre el Autor A y el Autor B, ¿cuál de las siguientes fuentes de información sería la más valiosa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un poema sobre la educación en el Cusco. <!-- feedback: Incorrecto. Es una fuente estética, no proporciona datos sobre viabilidad técnica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un informe técnico del Ministerio de Transportes y Comunicaciones sobre la cobertura de banda ancha en zonas rurales. <!-- feedback: Correcto. Proporcionaría los datos objetivos sobre conectividad que validan o refutan la posibilidad real de la educación virtual. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una entrevista a un estudiante que vive en Lima. <!-- feedback: Incorrecto. El contexto de Lima es muy distinto al rural andino mencionado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un manual de usuario para usar Zoom. <!-- feedback: Incorrecto. Es información operativa que no ayuda a resolver el debate estructural sobre acceso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCapacidad de discernir la calidad y pertinencia de fuentes externas para la resolución de debates intelectuales complejos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v1",
+      "statement": "Según el texto, ¿qué proporción del territorio peruano corresponde a la Amazonía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menos de la mitad. <!-- feedback: Incorrecto. El texto dice que ocupa \"más del 60%\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Más del 60%. <!-- feedback: Correcto. Es un dato explícito proporcionado en la primera frase del texto. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente el 50%. <!-- feedback: Incorrecto. Contradice la cifra del 60% mencionada. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La totalidad del territorio. <!-- feedback: Incorrecto. El texto especifica un porcentaje menor al 100%. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nLocalización de información literal en un texto informativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v2",
+      "statement": "El autor menciona la minería ilegal y la tala con el propósito de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promover la inversión extranjera en esos sectores. <!-- feedback: Incorrecto. El autor las califica como amenazas, no como actividades deseables. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Señalar los factores que ponen en riesgo la región amazónica. <!-- feedback: Correcto. Estas actividades son enumeradas como los desafíos y amenazas que enfrenta la selva. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Explicar cómo los pueblos originarios obtienen sus recursos. <!-- feedback: Incorrecto. El texto dice que estas actividades amenazan su modo de vida, no que formen parte de él. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comparar la economía de la selva con la de la costa. <!-- feedback: Incorrecto. El texto no establece comparaciones regionales en este fragmento. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de la función de los ejemplos dentro del discurso argumentativo del autor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v3",
+      "statement": "En la frase \"bionegocios y turismo ecológico que demuestran que es posible generar riqueza sin destruir el bosque\", la palabra \"bionegocios\" se refiere probablemente a:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La venta de maquinaria pesada para la selva. <!-- feedback: Incorrecto. No guarda relación con la conservación implícita en el prefijo \"bio\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Actividades comerciales basadas en el uso sostenible de recursos biológicos. <!-- feedback: Correcto. El prefijo \"bio\" (vida) y el contexto de no destruir el bosque sugieren sostenibilidad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La comercialización de madera de especies protegidas. <!-- feedback: Incorrecto. Esto destruiría el bosque, contradiciendo la premisa del autor. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Negocios dedicados a la construcción de carreteras en la selva. <!-- feedback: Incorrecto. No es una actividad biológica en su esencia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeducción del significado de neologismos o términos técnicos a partir de su estructura morfológica y el contexto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v4",
+      "statement": "A pesar de los problemas mencionados, la postura final del autor respecto a la Amazonía es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesimista y resignada. <!-- feedback: Incorrecto. El autor menciona una \"fuente de esperanza\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cautelosamente optimista. <!-- feedback: Correcto. Reconoce los graves problemas pero resalta alternativas que generan esperanza. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Indiferente ante los problemas ecológicos. <!-- feedback: Incorrecto. Los describe como \"desafíos sin precedentes\", mostrando preocupación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Puramente económica y comercial. <!-- feedback: Incorrecto. Se preocupa por la biodiversidad y el modo de vida de los pueblos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación de la actitud del emisor frente al tema tratado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v5",
+      "statement": "¿Cuál es la tesis fundamental de Mariátegui según el fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los indios necesitan más escuelas para progresar. <!-- feedback: Incorrecto. Mariátegui dice que las reformas educativas son superficiales si no se cambia la base económica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que la caridad (filantropía) resolverá la exclusión. <!-- feedback: Incorrecto. Él afirma que la clave no es la filantropía, sino la economía. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que la raíz del problema indígena es de carácter socioeconómico y agrario. <!-- feedback: Correcto. Identifica explícitamente el problema de la tierra como la raíz del asunto. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que el Perú debe volver a un sistema feudal para prosperar. <!-- feedback: Incorrecto. Él critica la tenencia feudal, no la propone. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de textos de carácter ensayístico y filosófico sobre la realidad nacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v6",
+      "statement": "En el fragmento, Mariátegui establece una jerarquía entre economía y educación. Según él:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La educación debe preceder a cualquier cambio económico. <!-- feedback: Incorrecto. Sostiene lo opuesto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El cambio en la estructura económica es condición previa para el éxito de la educación. <!-- feedback: Correcto. Si no se resuelve lo económico (tierra), lo educativo será superficial. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen la misma importancia y deben ocurrir al mismo tiempo. <!-- feedback: Incorrecto. El autor da prioridad a la resolución del problema de la tierra. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La educación es la única forma de cambiar la economía. <!-- feedback: Incorrecto. Mariátegui tiene una visión materialista donde la base económica determina lo demás. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de relaciones de subordinación y causalidad en el pensamiento crítico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v7",
+      "statement": "Por su contenido y forma, el Texto 2 pertenece al género:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo. <!-- feedback: Incorrecto. No cuenta una historia con personajes y acciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ensayístico/Expositivo-Argumentativo. <!-- feedback: Correcto. Presenta una interpretación intelectual y argumentos sobre una realidad social. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Descriptivo. <!-- feedback: Incorrecto. No se limita a detallar características, sino que analiza causas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Instructivo. <!-- feedback: Incorrecto. No da pasos o reglas a seguir. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nClasificación de textos según su intención comunicativa y estructura formal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v8",
+      "statement": "\"Mientras no se resuelva la tenencia feudal del suelo, cualquier reforma será superficial\". El conector \"Mientras\" establece una relación de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consecuencia. <!-- feedback: Incorrecto. No indica que una idea sea el resultado de la otra. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Oposición. <!-- feedback: Incorrecto. No está contrastando dos ideas contrarias. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Condición temporal. <!-- feedback: Correcto. Indica que la validez de la segunda parte depende de que se cumpla (o no) la primera en el tiempo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Comparación. <!-- feedback: Incorrecto. No establece analogías. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de la función de los nexos temporales y condicionales en la argumentación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v9",
+      "statement": "En la frase: \"La economía, y no la filantropía, es la clave para entender su exclusión\", ¿a quién se refiere el pronombre posesivo implícito en \"su exclusión\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Mariátegui. <!-- feedback: Incorrecto. Él es el autor, no el excluido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Al campesinado/pueblo indígena. <!-- feedback: Correcto. El texto trata sobre \"el problema del indio\" y la exclusión de este grupo social. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "A los dueños feudales de la tierra. <!-- feedback: Incorrecto. Ellos son los que excluyen, no los excluidos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A los lectores del ensayo. <!-- feedback: Incorrecto. El análisis es sociológico sobre un grupo específico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de la anáfora y la referencia pronominal para mantener la cohesión del texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v10",
+      "statement": "El tono predominante en el discurso de Mariátegui en este fragmento es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irónico. <!-- feedback: Incorrecto. No usa el sarcasmo para comunicar sus ideas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sentimental. <!-- feedback: Incorrecto. Rechaza la filantropía (caridad sentimental) en favor del análisis económico duro. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Analítico y contundente. <!-- feedback: Correcto. Utiliza un lenguaje directo para diseccionar una realidad social compleja. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Vacilante. <!-- feedback: Incorrecto. Sus afirmaciones son categóricas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación del estilo y la carga emocional/intelectual de un texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v11",
+      "statement": "El desacuerdo entre el científico y el ambientalista radica principalmente en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de minerales en el fondo marino. <!-- feedback: Incorrecto. Ninguno niega su existencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La prioridad entre el desarrollo minero-energético y la preservación de la biodiversidad marina. <!-- feedback: Correcto. Uno prioriza la obtención de recursos y el otro la protección del ecosistema. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la corriente marina peruana. <!-- feedback: Incorrecto. No hay debate sobre el nombre \"Humboldt\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Si el Perú debe o no consumir energía eléctrica. <!-- feedback: Incorrecto. El debate es sobre la fuente de los minerales para la transición, no sobre el consumo de energía. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los valores en conflicto en un debate sobre recursos naturales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v12",
+      "statement": "¿Cuál es la premisa implícita en el argumento del ambientalista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La minería siempre es mala en cualquier lugar. <!-- feedback: Incorrecto. Su argumento se centra específicamente en el ecosistema marino sensible. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La falta de conocimiento completo sobre un sistema exige precaución antes de intervenirlo. <!-- feedback: Correcto. Menciona que hay biodiversidad que \"aún no terminamos de comprender\" para justificar el no intervenir. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El Perú no necesita minerales para su desarrollo. <!-- feedback: Incorrecto. No niega la necesidad, sino que cuestiona el método y el lugar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los pescadores peruanos son más importantes que los científicos. <!-- feedback: Incorrecto. El argumento es ecológico y de sostenibilidad, no una competencia de gremios. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDetección del Principio de Precaución como base de un razonamiento ambiental.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v13",
+      "statement": "Cuando el científico habla de \"minerales críticos\", se refiere a aquellos que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Están a punto de desaparecer de la Tierra. <!-- feedback: Incorrecto. No se refiere a escasez geológica total necesariamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Son esenciales para nuevas tecnologías limpias y tienen riesgos de suministro. <!-- feedback: Correcto. En el contexto de la \"transición energética\", son minerales como el litio, cobre o cobalto. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Emiten mucha radiación y son peligrosos. <!-- feedback: Incorrecto. Confundió \"crítico\" con \"radiactivo\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo se encuentran en las costas del Perú. <!-- feedback: Incorrecto. Son críticos por su importancia estratégica global, no por ser exclusivos de un país. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de terminología técnica moderna en el ámbito de la sostenibilidad y economía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v14",
+      "statement": "¿Qué información adicional fortalecería la postura del científico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estudio que demuestre que el pescado es nutritivo. <!-- feedback: Incorrecto. Esto apoyaría más bien al ambientalista. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Evidencia tecnológica de que la minería submarina puede realizarse con un impacto mínimo en la columna de agua. <!-- feedback: Correcto. Atacaría directamente el miedo a los \"daños irreversibles\" mencionado por el oponente. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un aumento en el precio del oro en la bolsa de valores. <!-- feedback: Incorrecto. El oro no es necesariamente un mineral crítico para la transición energética comparado con el cobre o litio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una encuesta que diga que a la gente le gusta el mar. <!-- feedback: Incorrecto. Es información irrelevante para el debate técnico-económico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de evidencias que pueden inclinar la balanza en un debate dialéctico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v15",
+      "statement": "Un punto medio o de consenso entre ambas posturas podría ser:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir todo tipo de minería en el territorio peruano. <!-- feedback: Incorrecto. Ignora el punto de vista del científico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Permitir la minería sin ninguna restricción ambiental para acelerar la transición. <!-- feedback: Incorrecto. Ignora el punto de vista del ambientalista. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Invertir primero en investigación científica profunda del lecho marino para establecer zonas de exclusión y protocolos de bajo impacto. <!-- feedback: Correcto. Combina el interés por el recurso (científico) con la necesidad de conocimiento y protección (ambientalista). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que las empresas extranjeras decidan qué es lo mejor. <!-- feedback: Incorrecto. No resuelve el conflicto de valores planteado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de proponer síntesis argumentativas en situaciones de polarización ideológica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v16",
+      "statement": "Cuando el ambientalista dice que la actividad es un \"salto al vacío\", está utilizando:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una hipérbole. <!-- feedback: Incorrecto. No está exagerando una cantidad, sino calificando una acción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una metáfora. <!-- feedback: Correcto. Compara el riesgo de la minería desconocida con la acción física de saltar a un lugar sin ver el fondo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un epíteto. <!-- feedback: Incorrecto. No es un adjetivo calificativo redundante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una onomatopeya. <!-- feedback: Incorrecto. No imita un sonido. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de recursos literarios aplicados al lenguaje persuasivo cotidiano.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v17",
+      "statement": "¿Cuál es la premisa filosófica central del Texto 4?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lenguaje es un espejo fiel y pasivo de la naturaleza. <!-- feedback: Incorrecto. El autor dice que el lenguaje \"la crea\", no solo la describe. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El sistema de castas colonial era científicamente exacto. <!-- feedback: Incorrecto. El autor lo ve como una construcción de poder, no como una verdad biológica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El lenguaje es una herramienta de construcción social y ejercicio de poder. <!-- feedback: Correcto. Sostiene que las categorías lingüísticas crean órdenes sociales y jerarquías. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La política pública debe ignorar las palabras y centrarse en los hechos. <!-- feedback: Incorrecto. El autor sugiere que las palabras influyen en las políticas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de teorías del lenguaje (constructivismo lingüístico) aplicadas a la historia nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v18",
+      "statement": "A partir del texto, se puede concluir que para lograr una verdadera inclusión en el Perú actual:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Basta con cambiar las leyes económicas. <!-- feedback: Incorrecto. El texto enfatiza la importancia de las categorías mentales y lingüísticas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Hay que dejar de hablar y usar señas. <!-- feedback: Incorrecto. El texto no propone eliminar el lenguaje, sino entender su peso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es necesario revisar críticamente los conceptos y términos con los que entendemos nuestra diversidad. <!-- feedback: Correcto. Si el lenguaje carga con prejuicios históricos, debemos revisarlo para cambiar la realidad social. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Debemos volver a usar el sistema de castas colonial por tradición. <!-- feedback: Incorrecto. El texto describe ese sistema como una herramienta de poder excluyente, no como algo positivo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nExtrapolación de las ideas de un texto hacia propuestas de acción social.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v19",
+      "statement": "¿Cuál es el tono predominante en el Texto 4?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nostálgico. <!-- feedback: Incorrecto. No añora el pasado colonial, lo critica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Neutro y puramente científico. <!-- feedback: Incorrecto. Hay una clara intención de denuncia social y crítica de poder. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reflexivo y crítico-social. <!-- feedback: Correcto. Invita a pensar sobre el uso del lenguaje y su impacto en la sociedad peruana. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Eufórico. <!-- feedback: Incorrecto. El tema es serio y analítico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de la carga pragmática y el posicionamiento ético-intelectual del autor.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-COM-11-P1-lectura-critica-002-v20",
+      "statement": "Aunque el texto se centra en el Perú, su argumento sobre el lenguaje es aplicable a:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo a los países que fueron colonias de España. <!-- feedback: Incorrecto. La relación lenguaje-poder es un fenómeno humano universal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente a sociedades con diversidad étnica. <!-- feedback: Incorrecto. Incluso en sociedades homogéneas, el lenguaje crea jerarquías de otro tipo (clase, género, etc.). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier sociedad humana donde existan relaciones de poder y categorización social. <!-- feedback: Correcto. El argumento filosófico sobre el lenguaje constructor de realidad es una tesis de alcance universal. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ningún otro país, ya que el Perú es un caso único en el mundo. <!-- feedback: Incorrecto. Si bien el ejemplo es local, el mecanismo lingüístico descrito es general. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de distinguir entre el ejemplo particular (local) y el principio general (universal) en un texto argumentativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-COM-11-P1-lectura-critica-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

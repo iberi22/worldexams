@@ -1,9 +1,13 @@
-layout: bundle
-subject: ingles
-grade: 11
-period: 1
-topic: collocations
-difficulty: medium
+---
+cefr_level: "B1"
+protocol_version: "5.1"
+layout: "bundle"
+subject: "ingles"
+grade: "11"
+period: "1"
+topic: "collocations"
+difficulty: "medium"
+---
 
 Question 1 (Difficulty 3)
 Talking about daily habits and household tasks.

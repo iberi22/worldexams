@@ -67,16 +67,30 @@ function parseQuestions(body) {
     const optionsStart = afterHeader.search(/^\s*-\s*\[[x ]\]/m);
     let rawStatement = optionsStart !== -1 ? afterHeader.slice(0, optionsStart).trim() : afterHeader;
 
-    // Clean up statement from metadata and headers
-    const statement = rawStatement
-      .replace(/(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g, '')
-      .replace(/\*\*Bloom:\*\*.*$/gm, '')
-      .replace(/\*\*ICFES:\*\*.*$/gm, '')
-      .replace(/\*\*Expected_Success:\*\*.*$/gm, '')
-      .replace(/^\s*###\s+Contexto/gm, '')
-      .replace(/^\s*###\s+Enunciado/gm, '')
-      .replace(/^\s*\*\*\d+\.\*\*/gm, '') // Remove **1.** style numbering
-      .trim();
+    // Extract context if present
+    const contextMatch = section.match(/###\s*(?:Contexto|Context)([\s\S]*?)(?:###|##|$)/i);
+    const context = contextMatch ? contextMatch[1].trim() : '';
+
+    // Extract statement
+    let statement = '';
+    const enunciadoMatch = section.match(/###\s*(?:Enunciado|Statement|Question)([\s\S]*?)(?:###|##|$)/i);
+    if (enunciadoMatch) {
+      statement = enunciadoMatch[1].trim();
+    } else {
+      let cleanedRaw = rawStatement;
+      if (contextMatch) {
+        cleanedRaw = cleanedRaw.replace(contextMatch[0], '');
+      }
+      statement = cleanedRaw
+        .replace(/(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g, '')
+        .replace(/\*\*Bloom:\*\*.*$/gm, '')
+        .replace(/\*\*ICFES:\*\*.*$/gm, '')
+        .replace(/\*\*Expected_Success:\*\*.*$/gm, '')
+        .replace(/^\s*###\s+Contexto/gm, '')
+        .replace(/^\s*###\s+Enunciado/gm, '')
+        .replace(/^\s*\*\*\d+\.\*\*/gm, '') // Remove **1.** style numbering
+        .trim();
+    }
 
     // Extract options
     const options = [];
@@ -99,6 +113,7 @@ function parseQuestions(body) {
     sections.push({
       id,
       statement,
+      context,
       options,
       correct_answer: correctId,
       explanation,
@@ -212,7 +227,8 @@ for (const file of allFiles) {
         ...q,
         bundle_id: path.basename(file, '.md'),
         periodo: period,
-        protocol_version: String(protocol)
+        protocol_version: String(protocol),
+        cefr_level: data.cefr_level || null
       });
     });
   } catch (e) {

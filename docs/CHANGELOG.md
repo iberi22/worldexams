@@ -1,4 +1,26 @@
-## [Unreleased] - 2026-04-25
+## [0.14.0] - 2026-06-01
+
+### Context-Aware Questions + Shared Layout
+
+#### Added
+- Context extractor in `generate-static-packs.js`: parses `### Contexto` / `### Context` sections from markdown into JSON `context` field
+- `cefr_level` field in English question packs for CEFR-level filtering
+- SharedContextLayout component: Split-Pane (Desktop) / Modal Drawer (Mobile) for context-rich questions
+- Adaptive layout in exam-room: automatically switches to dual-column when question has context
+- Multi-grade CEFR fallback: adjacent grades supplement insufficient questions
+
+#### Fixed
+- Null pointer hydration crash in PeriodTracker (#377)
+- Global English question pool consolidation across all 10 CEFR levels (A1-C2)
+- CEFR level selector and grade-level-aware English question loading
+
+#### Deploy
+- 150 packs regenerated with `context` field (332/430 math questions have context)
+- API Gateway: 149 new assets (version `319d37d0`)
+- Frontend: 98 new assets (version `e60d95be`)
+- `current.json` updated to `2026-06-01T17:05:46Z`
+
+## [0.13.1] - 2026-04-25
 ### Changed
 - Bundle protocol_version updated from 5.1 to 5.2 in generation prompt
 

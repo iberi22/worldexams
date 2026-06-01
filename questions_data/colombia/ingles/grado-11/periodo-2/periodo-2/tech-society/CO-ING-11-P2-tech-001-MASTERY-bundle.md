@@ -1,15 +1,16 @@
 ---
 id: "CO-ING-11-P2-tech-001-MASTERY"
+cefr_level: "B1-B2"
+periodo: "2"
 protocol_version: "5.1"
 alignment: "ICFES Saber 11 / Marcos Técnicos"
 target_cefr: "B1-B2"
-periodo: 2
-bundle_index: 1
-modern_context: true
-calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.25"
-  simulated_responses: 100
+bundle_index: "1"
+modern_context: "true"
+calibration: ""
+expected_success_rate: "0.50"
+discrimination_index_target: ">= 0.25"
+simulated_responses: "100"
 rubric_baseline: "technology_impact, ai_ethics, future_work, digital_divide"
 ---
 

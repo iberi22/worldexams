@@ -1,16 +1,16 @@
 ---
-id: CO-ENG-11-entrepreneurship-109
-country: co
-grado: 11
-asignatura: ingles
-tema: entrepreneurship
-cefr_level: B2/C1
-protocol_version: 3.1-COL-Bilingual
-periodo: 1
-total_questions: 10
-bilingual_support: true
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "CO-ENG-11-entrepreneurship-109"
+cefr_level: "B2/C1"
+country: "co"
+grado: "11"
+asignatura: "ingles"
+tema: "entrepreneurship"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+bilingual_support: "true"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
 
 # TOPIC: Entrepreneurship & Leadership (B2/C1)

@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P2-reading-inferential-124-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "reading-inferential"
+periodo: "2"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "124"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:20:53.948772"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 The user wants me to generate exactly 20 ICFES-style multiple choice questions for English, specifically for the "reading-inferential" topic, grade 11, period 2. Let me carefully follow all the requirements:
 
 1. I need to output a YAML frontmatter block followed by 20 questions
@@ -54,37 +85,8 @@ I'll use Colombian contexts like:
 - Indigenous and Afro-Colombian perspectives
 - Regional diversity and traditions
 
-</think>
 
-```yaml
----
-id: "CO-ING-11-P2-reading-inferential-124-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "reading-inferential"
-periodo: 2
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 124
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:20:53.948772"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

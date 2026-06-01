@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "puerto-rico",
+    "pack_id": "puerto-rico-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-06-01T17:05:46.775Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v1",
+      "statement": "Simplifica la siguiente expresión: $3(x - 4) - 2(2x + 5)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-x + 2$ <!-- feedback: Incorrecto. Error en la distribución de los signos negativos en los términos constantes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$-x - 22$ <!-- feedback: Correcto. $3x - 12 - 4x - 10 = (3x - 4x) + (-12 - 10) = -x - 22$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$7x - 2$ <!-- feedback: Incorrecto. Se sumaron los términos de $x$ sin tener en cuenta el signo negativo del segundo paréntesis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$-x - 2$ <!-- feedback: Incorrecto. Error al sumar $-12$ y $-10$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la propiedad distributiva y agrupación de términos semejantes, con énfasis en el manejo de signos negativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v2",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por los puntos $(2, 5)$ y $(4, 13)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$ <!-- feedback: Incorrecto. Error en la aplicación de la fórmula de la pendiente ($y_2 - y_1 / x_2 - x_1$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$4$ <!-- feedback: Correcto. $m = (13 - 5) / (4 - 2) = 8 / 2 = 4$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1/4$ <!-- feedback: Incorrecto. Se calculó el recíproco de la pendiente (cambio en $x$ sobre cambio en $y$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$8$ <!-- feedback: Incorrecto. Se olvidó dividir por la diferencia en las coordenadas $x$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de la razón de cambio (pendiente) entre dos puntos en el plano cartesiano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v3",
+      "statement": "Si $f(x) = x^2 - 3x + 1$, ¿cuál es el valor de $f(-2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$ <!-- feedback: Incorrecto. Error al no elevar al cuadrado el signo negativo de $-2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$3$ <!-- feedback: Incorrecto. Error de cálculo en la multiplicación de $-3$ por $-2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$11$ <!-- feedback: Correcto. $f(-2) = (-2)^2 - 3(-2) + 1 = 4 + 6 + 1 = 11$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$9$ <!-- feedback: Incorrecto. Error aritmético en la suma final. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de una función cuadrática sustituyendo un valor negativo y respetando el orden de las operaciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v4",
+      "statement": "¿Cuál es el intercepto en el eje $y$ de la función definida por la ecuación $y = 5x - 7$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, 0)$ <!-- feedback: Incorrecto. El número 5 representa la pendiente, no el intercepto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 7)$ <!-- feedback: Incorrecto. Se ha omitido el signo negativo del término constante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(0, -7)$ <!-- feedback: Correcto. El intercepto en $y$ ocurre cuando $x=0$, resultando en $y=-7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$(7/5, 0)$ <!-- feedback: Incorrecto. Este es el intercepto en el eje $x$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nReconocimiento de los parámetros de la ecuación de una recta en su forma pendiente-intercepto ($y = mx + b$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v5",
+      "statement": "Resuelve el siguiente sistema de ecuaciones:\n$x + y = 10$\n$x - y = 4$\n¿Cuál es el valor de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ <!-- feedback: Incorrecto. Este es el valor de $y$, no de $x$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$6$ <!-- feedback: Incorrecto. La suma sería 10 pero la resta no sería 4 ($6-4=2$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$7$ <!-- feedback: Correcto. Sumando ambas ecuaciones: $2x = 14 \\Rightarrow x = 7$. Luego $7 + y = 10 \\Rightarrow y = 3$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$14$ <!-- feedback: Incorrecto. Es el resultado de la suma de las ecuaciones antes de dividir por 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso del método de eliminación para resolver sistemas de ecuaciones lineales de dos variables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v6",
+      "statement": "¿Hacia dónde abre la parábola dada por la función $f(x) = -2x^2 + 8x - 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia la derecha. <!-- feedback: Incorrecto. Las funciones de la forma $y = ax^2$ solo abren hacia arriba o hacia abajo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Hacia arriba. <!-- feedback: Incorrecto. Esto solo ocurriría si el coeficiente principal $a$ fuera positivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacia abajo. <!-- feedback: Correcto. El coeficiente principal $a = -2$ es negativo, lo que indica que la parábola abre hacia abajo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la izquierda. <!-- feedback: Incorrecto. Esto correspondería a una relación donde $x$ es función de $y^2$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación del signo del coeficiente cuadrático para determinar la concavidad de una parábola.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v7",
+      "statement": "Calcula la coordenada $x$ del vértice de la parábola $y = x^2 - 6x + 9$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ <!-- feedback: Incorrecto. Se ha olvidado dividir por $2a$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$3$ <!-- feedback: Correcto. $x_v = -b / (2a) = -(-6) / (2 \\cdot 1) = 6 / 2 = 3$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$-3$ <!-- feedback: Incorrecto. Error de signo al aplicar la fórmula. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0$ <!-- feedback: Incorrecto. Este es el valor de $x$ para el intercepto en $y$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la fórmula del vértice para encontrar el punto extremo de una función cuadrática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v8",
+      "statement": "En una tienda en Plaza Las Américas, compré 2 camisas y 1 pantalón por $\\$70$. Mi amigo compró 1 camisa y 1 pantalón por $\\$50$. ¿Cuánto cuesta cada camisa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$10$ <!-- feedback: Incorrecto. No satisface las condiciones del problema. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\$20$ <!-- feedback: Correcto. Sea $c$ el precio de la camisa y $p$ el del pantalón. $2c + p = 70$ y $c + p = 50$. Restando las ecuaciones: $(2c - c) + (p - p) = 70 - 50 \\Rightarrow c = 20$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\$30$ <!-- feedback: Incorrecto. Este es el precio del pantalón ($50 - 20 = 30$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\$25$ <!-- feedback: Incorrecto. Valor obtenido por una estimación sin resolver el sistema. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nModelación de situaciones reales mediante sistemas de ecuaciones y resolución por el método de resta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v9",
+      "statement": "Si el discriminante ($b^2 - 4ac$) de una ecuación cuadrática es igual a cero, ¿cuántas soluciones reales distintas tiene la ecuación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos soluciones reales distintas. <!-- feedback: Incorrecto. Esto ocurre si el discriminante es positivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una solución real única (solución doble). <!-- feedback: Correcto. Cuando el discriminante es cero, la raíz cuadrada en la fórmula general es cero, resultando en un solo valor. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución real. <!-- feedback: Incorrecto. Esto ocurre si el discriminante es negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones. <!-- feedback: Incorrecto. Una ecuación cuadrática tiene como máximo dos soluciones reales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nInterpretación del discriminante para determinar la naturaleza de las raíces de una ecuación de segundo grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v10",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\sqrt{x - 5}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales. <!-- feedback: Incorrecto. No se pueden calcular raíces cuadradas reales de números negativos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$ <!-- feedback: Incorrecto. El valor $x=5$ también es parte del dominio ya que $\\sqrt{0}=0$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x \\geq 5$ <!-- feedback: Correcto. Para que la raíz sea un número real, el radicando debe ser mayor o igual a cero: $x - 5 \\geq 0 \\Rightarrow x \\geq 5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$x \\leq 5$ <!-- feedback: Incorrecto. Esto haría que el interior de la raíz fuera negativo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDeterminación del dominio de funciones irracionales basado en la restricción de los números reales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v11",
+      "statement": "Simplifica la expresión $\\frac{(x^3)^4}{x^5}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2$ <!-- feedback: Incorrecto. Error al sumar exponentes en lugar de multiplicarlos en la potencia de potencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x^7$ <!-- feedback: Correcto. $(x^3)^4 = x^{3 \\cdot 4} = x^{12}$. Luego $x^{12} / x^5 = x^{12-5} = x^7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x^{17}$ <!-- feedback: Incorrecto. Se sumaron todos los exponentes sin considerar la división. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^{12/5}$ <!-- feedback: Incorrecto. Se dividieron los exponentes en lugar de restarlos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las leyes de los exponentes: potencia de una potencia y cociente de potencias de igual base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v12",
+      "statement": "¿A qué es igual $\\log_b(xy)$ según las propiedades de los logaritmos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(x) + \\log_b(y)$ <!-- feedback: Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de los factores. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(x) \\cdot \\log_b(y)$ <!-- feedback: Incorrecto. Confusión entre la operación interna y la externa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(x) - \\log_b(y)$ <!-- feedback: Incorrecto. Esta propiedad aplica al cociente, no al producto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y \\cdot \\log_b(x)$ <!-- feedback: Incorrecto. Esta propiedad aplica a la potencia $x^y$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nReconocimiento de las propiedades operativas de las funciones logarítmicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v13",
+      "statement": "Una población de bacterias se duplica cada hora. Si inicialmente hay 100 bacterias, ¿cuántas habrá después de 5 horas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$500$ <!-- feedback: Incorrecto. Esto asume un crecimiento lineal (100 por hora). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1000$ <!-- feedback: Incorrecto. Error de cálculo en la potencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$3200$ <!-- feedback: Correcto. Modelo $P(t) = P_0 \\cdot 2^t$. $P(5) = 100 \\cdot 2^5 = 100 \\cdot 32 = 3200$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$1600$ <!-- feedback: Incorrecto. Corresponde a 4 horas de crecimiento. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nModelación y cálculo de situaciones de crecimiento exponencial utilizando potencias de base 2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v14",
+      "statement": "¿Cuál es el residuo de dividir el polinomio $P(x) = x^3 - 2x^2 + 5x - 7$ entre $(x - 1)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$ <!-- feedback: Incorrecto. El valor $x=1$ no es una raíz del polinomio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$-3$ <!-- feedback: Correcto. Por el Teorema del Residuo, es $P(1) = 1^3 - 2(1)^2 + 5(1) - 7 = 1 - 2 + 5 - 7 = -3$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1$ <!-- feedback: Incorrecto. Error aritmético en la evaluación del polinomio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$-7$ <!-- feedback: Incorrecto. Este es el término independiente, no el residuo de esta división. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso del Teorema del Residuo para encontrar el resto de una división polinómica sin realizar el proceso largo de división.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v15",
+      "statement": "Si $f(x) = 2x + 3$, ¿cuál es su función inversa $f^{-1}(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{1}{2x + 3}$ <!-- feedback: Incorrecto. Esto es el recíproco de la función, no su inversa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = 2x - 3$ <!-- feedback: Incorrecto. No se ha despejado correctamente la variable. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\frac{x - 3}{2}$ <!-- feedback: Correcto. Intercambiando variables $x = 2y + 3 \\Rightarrow x - 3 = 2y \\Rightarrow y = (x - 3) / 2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x}{2} - 3$ <!-- feedback: Incorrecto. Error al no dividir todo el binomio por 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nProceso de obtención de la función inversa mediante el despeje de la variable independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v16",
+      "statement": "¿Cuál es la asíntota horizontal de la función $f(x) = \\frac{4x^2 - 1}{2x^2 + 5x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene asíntota horizontal. <!-- feedback: Incorrecto. Sí tiene, ya que los grados del numerador y denominador son iguales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2$ <!-- feedback: Correcto. Como los grados son iguales (grado 2), la asíntota es el cociente de los coeficientes principales: $4 / 2 = 2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$y = 0$ <!-- feedback: Incorrecto. Esto solo ocurriría si el grado del denominador fuera mayor. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ <!-- feedback: Incorrecto. Esta es una asíntota vertical, no horizontal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del comportamiento final de funciones racionales para identificar asíntotas horizontales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v17",
+      "statement": "Resuelve para $x$: $\\log_2(x) + \\log_2(x - 2) = 3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ <!-- feedback: Incorrecto. Al sustituir, el segundo logaritmo sería $\\log_2(0)$, que no está definido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ <!-- feedback: Correcto. $\\log_2(x(x-2)) = 3 \\Rightarrow x^2 - 2x = 2^3 = 8 \\Rightarrow x^2 - 2x - 8 = 0$. Factorizando $(x-4)(x+2)=0$. Como $x>2$, la solución es $x=4$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$ <!-- feedback: Incorrecto. Valor obtenido por una aplicación errónea de las propiedades. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$ y $x = -2$ <!-- feedback: Incorrecto. Aunque son raíces de la cuadrática, $x=-2$ no está en el dominio del logaritmo original. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de ecuaciones logarítmicas combinando propiedades de logaritmos y ecuaciones cuadráticas, con validación de dominio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v18",
+      "statement": "Dadas $f(x) = \\sqrt{x}$ y $g(x) = x^2 - 4$, ¿cuál es el dominio de la función compuesta $(f \\circ g)(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$ <!-- feedback: Incorrecto. El interior de la raíz debe ser no negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 0$ <!-- feedback: Incorrecto. Este es el dominio de $f(x)$, pero la entrada es $g(x)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$|x| \\geq 2$ <!-- feedback: Correcto. $(f \\circ g)(x) = \\sqrt{x^2 - 4}$. Requiere $x^2 - 4 \\geq 0 \\Rightarrow x^2 \\geq 4 \\Rightarrow |x| \\geq 2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$x \\geq 2$ <!-- feedback: Incorrecto. Olvida los valores negativos menores o iguales a $-2$ que también cumplen la condición. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis del dominio de una función compuesta que involucra restricciones de raíz cuadrada y desigualdades cuadráticas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v19",
+      "statement": "Si la gráfica de $y = f(x)$ se desplaza 3 unidades a la derecha y 2 unidades hacia arriba, ¿cuál es la ecuación de la nueva función $g(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g(x) = f(x + 3) + 2$ <!-- feedback: Incorrecto. Sumar dentro del paréntesis desplaza la gráfica hacia la izquierda. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) = f(x - 3) + 2$ <!-- feedback: Correcto. Restar $h$ dentro de la función desplaza $h$ unidades a la derecha, y sumar $k$ fuera desplaza $k$ unidades hacia arriba. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$g(x) = f(x - 3) - 2$ <!-- feedback: Incorrecto. Restar fuera de la función desplaza la gráfica hacia abajo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$g(x) = 3f(x) + 2$ <!-- feedback: Incorrecto. Esto representaría un estiramiento vertical, no un desplazamiento horizontal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de las traslaciones horizontales y verticales en el plano cartesiano a partir de la expresión algebraica de una función.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PR-MAT-11-P1-algebra-funciones-001-v20",
+      "statement": "La altura de la marea en una bahía de Vieques se modela con la función $h(t) = 4\\cos(\\frac{\\pi}{6}t) + 5$, donde $t$ es el tiempo en horas. ¿Cuál es la altura máxima de la marea y cada cuánto tiempo ocurre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altura 4 metros, cada 6 horas. <!-- feedback: Incorrecto. 4 es la amplitud, no el valor máximo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Altura 9 metros, cada 6 horas. <!-- feedback: Incorrecto. El periodo se calcula como $2\\pi / (\\pi/6) = 12$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Altura 9 metros, cada 12 horas. <!-- feedback: Correcto. Máximo: Amplitud + Desplazamiento = $4 + 5 = 9$. Periodo: $P = 2\\pi / (\\pi/6) = 12$ horas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Altura 5 metros, cada 12 horas. <!-- feedback: Incorrecto. 5 es la altura media (línea central), no la máxima. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación de parámetros (amplitud, periodo, desplazamiento vertical) en funciones periódicas aplicadas a fenómenos naturales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PR-MAT-11-P1-algebra-funciones-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

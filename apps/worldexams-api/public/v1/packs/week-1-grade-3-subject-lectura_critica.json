@@ -3,12 +3,12 @@
     "grade": 3,
     "subject": "lectura-critica",
     "pack_id": "week-1-grade-3-subject-lectura_critica",
-    "generated_at": "2026-04-11T21:04:22.546Z"
+    "generated_at": "2026-05-10T06:05:15.726Z"
   },
   "questions": [
     {
       "id": "CO-LEC-3-afiches-001-v1",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v1`\r\n\r\n### Enunciado\r\n¿Cuál es el nombre del evento que anuncia el afiche?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v1`\n\n### Enunciado\n¿Cuál es el nombre del evento que anuncia el afiche?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -32,7 +32,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl título del afiche indica claramente el nombre del evento.\r\n\r\n---",
+      "explanation": "Pedagógica\nEl título del afiche indica claramente el nombre del evento.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -42,7 +42,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v2",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v2`\r\n\r\n### Enunciado\r\n¿En qué lugar se realizará el evento?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v2`\n\n### Enunciado\n¿En qué lugar se realizará el evento?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -66,7 +66,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa información de \"Lugar\" especifica el sitio del evento.\r\n\r\n---",
+      "explanation": "Pedagógica\nLa información de \"Lugar\" especifica el sitio del evento.\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -76,7 +76,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v3",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v3`\r\n\r\n### Enunciado\r\n¿Cuánto cuesta la entrada al evento?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v3`\n\n### Enunciado\n¿Cuánto cuesta la entrada al evento?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl afiche dice \"¡Entrada: Totalmente Gratis!\", lo que significa costo cero.\r\n\r\n---",
+      "explanation": "Pedagógica\nEl afiche dice \"¡Entrada: Totalmente Gratis!\", lo que significa costo cero.\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -110,7 +110,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v4",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v4`\r\n\r\n### Enunciado\r\n¿Qué objetos salen del libro abierto en la imagen del afiche?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v4`\n\n### Enunciado\n¿Qué objetos salen del libro abierto en la imagen del afiche?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -134,7 +134,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa descripción de la imagen menciona elementos de fantasía como \"estrellas y cohetes\".\r\n\r\n---",
+      "explanation": "Pedagógica\nLa descripción de la imagen menciona elementos de fantasía como \"estrellas y cohetes\".\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -144,7 +144,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v5",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v5`\r\n\r\n### Enunciado\r\n¿Cuál es el propósito principal de este afiche?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v5`\n\n### Enunciado\n¿Cuál es el propósito principal de este afiche?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -168,7 +168,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLos afiches publicitarios tienen como función persuadir o invitar al público a participar en algo.\r\n\r\n---",
+      "explanation": "Pedagógica\nLos afiches publicitarios tienen como función persuadir o invitar al público a participar en algo.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -178,7 +178,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v6",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v6`\r\n\r\n### Enunciado\r\n¿Por qué crees que el afiche muestra a niños \"leyendo sonriendo\"?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v6`\n\n### Enunciado\n¿Por qué crees que el afiche muestra a niños \"leyendo sonriendo\"?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -202,7 +202,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa imagen busca asociar la lectura con emociones positivas (alegría) para atraer al público infantil.\r\n\r\n---",
+      "explanation": "Pedagógica\nLa imagen busca asociar la lectura con emociones positivas (alegría) para atraer al público infantil.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -212,7 +212,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v7",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v7`\r\n\r\n### Enunciado\r\n¿A quiénes está dirigido principalmente este evento?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v7`\n\n### Enunciado\n¿A quiénes está dirigido principalmente este evento?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -236,7 +236,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl uso de elementos infantiles (cohetes, magia, niños) indica que el público objetivo son los niños.\r\n\r\n---",
+      "explanation": "Pedagógica\nEl uso de elementos infantiles (cohetes, magia, niños) indica que el público objetivo son los niños.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -246,7 +246,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v8",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v8`\r\n\r\n### Enunciado\r\n¿Qué relación hay entre el texto \"Magia y diversión te esperan\" y la imagen de los cohetes saliendo del libro?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v8`\n\n### Enunciado\n¿Qué relación hay entre el texto \"Magia y diversión te esperan\" y la imagen de los cohetes saliendo del libro?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -270,7 +270,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl texto y la imagen se complementan para transmitir la idea de que la lectura estimula la imaginación (\"viajar\" en cohete).\r\n\r\n---",
+      "explanation": "Pedagógica\nEl texto y la imagen se complementan para transmitir la idea de que la lectura estimula la imaginación (\"viajar\" en cohete).\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -280,7 +280,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v9",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v9`\r\n\r\n### Enunciado\r\nSi el afiche no tuviera la fecha (20 de Septiembre), ¿qué problema tendría?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v9`\n\n### Enunciado\nSi el afiche no tuviera la fecha (20 de Septiembre), ¿qué problema tendría?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -304,7 +304,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa información de \"cuándo\" es esencial en un texto informativo sobre un evento; sin ella, el afiche pierde su utilidad práctica.\r\n\r\n---",
+      "explanation": "Pedagógica\nLa información de \"cuándo\" es esencial en un texto informativo sobre un evento; sin ella, el afiche pierde su utilidad práctica.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -314,7 +314,7 @@
     },
     {
       "id": "CO-LEC-3-afiches-001-v10",
-      "statement": "**ID:** `CO-LEC-3-afiches-001-v10`\r\n\r\n### Enunciado\r\n¿Qué frase podrías agregar al afiche para convencer aún a más niños de ir?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-afiches-001-v10`\n\n### Enunciado\n¿Qué frase podrías agregar al afiche para convencer aún a más niños de ir?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -338,7 +338,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nOfrecer un incentivo adicional (regalos) es una estrategia de persuasión efectiva en publicidad.\r\n\r\n---",
+      "explanation": "Pedagógica\nOfrecer un incentivo adicional (regalos) es una estrategia de persuasión efectiva en publicidad.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -348,7 +348,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v1",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v1`\r\n\r\n### Enunciado\r\n¿En qué lugares vive principalmente el Mohán según el texto?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v1`\n\n### Enunciado\n¿En qué lugares vive principalmente el Mohán según el texto?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -372,7 +372,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl texto menciona que \"vive en los ríos grandes del Tolima y el Huila\" y en \"cuevas profundas debajo del agua\".\r\n\r\n---",
+      "explanation": "Pedagógica\nEl texto menciona que \"vive en los ríos grandes del Tolima y el Huila\" y en \"cuevas profundas debajo del agua\".\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -382,7 +382,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v2",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v2`\r\n\r\n### Enunciado\r\n¿Qué aspecto físico tiene el Mohán?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v2`\n\n### Enunciado\n¿Qué aspecto físico tiene el Mohán?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa descripción física dice: \"ser de cabellera larga y abundante, con barba espesa y cuerpo musculoso\".\r\n\r\n---",
+      "explanation": "Pedagógica\nLa descripción física dice: \"ser de cabellera larga y abundante, con barba espesa y cuerpo musculoso\".\n\n---",
       "difficulty": "1",
       "images": [],
       "tags": [],
@@ -416,7 +416,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v3",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v3`\r\n\r\n### Enunciado\r\n¿A quiénes persigue el Mohán según cuentan los abuelos?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v3`\n\n### Enunciado\n¿A quiénes persigue el Mohán según cuentan los abuelos?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -440,7 +440,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl texto afirma explícitamente que \"le gusta perseguir a las lavanderas\".\r\n\r\n---",
+      "explanation": "Pedagógica\nEl texto afirma explícitamente que \"le gusta perseguir a las lavanderas\".\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -450,7 +450,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v4",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v4`\r\n\r\n### Enunciado\r\n¿Para qué fuma tabaco el Mohán?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v4`\n\n### Enunciado\n¿Para qué fuma tabaco el Mohán?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -474,7 +474,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nSe menciona que \"fuma tabaco para espantar a los insectos\".\r\n\r\n---",
+      "explanation": "Pedagógica\nSe menciona que \"fuma tabaco para espantar a los insectos\".\n\n---",
       "difficulty": "2",
       "images": [],
       "tags": [],
@@ -484,7 +484,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v5",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v5`\r\n\r\n### Enunciado\r\n¿Qué tipo de narración es este texto sobre El Mohán?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v5`\n\n### Enunciado\n¿Qué tipo de narración es este texto sobre El Mohán?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -508,7 +508,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl inicio \"Cuentan los abuelos\" y el tema de un ser fantástico indican que es un mito o leyenda.\r\n\r\n---",
+      "explanation": "Pedagógica\nEl inicio \"Cuentan los abuelos\" y el tema de un ser fantástico indican que es un mito o leyenda.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -518,7 +518,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v6",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v6`\r\n\r\n### Enunciado\r\n¿Por qué crees que el Mohán vive en cuevas \"debajo del agua\"?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v6`\n\n### Enunciado\n¿Por qué crees que el Mohán vive en cuevas \"debajo del agua\"?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -542,7 +542,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEn los mitos, los personajes tienen características mágicas que les permiten hacer cosas imposibles para los humanos, como vivir bajo el agua.\r\n\r\n---",
+      "explanation": "Pedagógica\nEn los mitos, los personajes tienen características mágicas que les permiten hacer cosas imposibles para los humanos, como vivir bajo el agua.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -552,7 +552,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v7",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v7`\r\n\r\n### Enunciado\r\n¿Qué significa que el Mohán guarda \"tesoros de oro\" en sus cuevas?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v7`\n\n### Enunciado\n¿Qué significa que el Mohán guarda \"tesoros de oro\" en sus cuevas?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -576,7 +576,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLos tesoros en las leyendas suelen simbolizar el poder, el misterio y la riqueza oculta de la naturaleza.\r\n\r\n---",
+      "explanation": "Pedagógica\nLos tesoros en las leyendas suelen simbolizar el poder, el misterio y la riqueza oculta de la naturaleza.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -586,7 +586,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v8",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v8`\r\n\r\n### Enunciado\r\n¿Quiénes son las personas que transmiten estas historias según el inicio del texto?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v8`\n\n### Enunciado\n¿Quiénes son las personas que transmiten estas historias según el inicio del texto?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -610,7 +610,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLa frase \"Cuentan los abuelos\" hace referencia a la transmisión oral de saberes de generación en generación.\r\n\r\n---",
+      "explanation": "Pedagógica\nLa frase \"Cuentan los abuelos\" hace referencia a la transmisión oral de saberes de generación en generación.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -620,7 +620,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v9",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v9`\r\n\r\n### Enunciado\r\nSi quisieras investigar más sobre el Mohán, ¿a qué departamentos de Colombia deberías ir principalmente?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v9`\n\n### Enunciado\nSi quisieras investigar más sobre el Mohán, ¿a qué departamentos de Colombia deberías ir principalmente?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -644,7 +644,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nEl texto ubica geográficamente la leyenda en \"los ríos grandes del Tolima y el Huila\".\r\n\r\n---",
+      "explanation": "Pedagógica\nEl texto ubica geográficamente la leyenda en \"los ríos grandes del Tolima y el Huila\".\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -654,7 +654,7 @@
     },
     {
       "id": "CO-LEC-3-mitos-001-v10",
-      "statement": "**ID:** `CO-LEC-3-mitos-001-v10`\r\n\r\n### Enunciado\r\n¿Cuál es la función principal de este tipo de historias en la cultura?\r\n\r\n### Opciones",
+      "statement": "**ID:** `CO-LEC-3-mitos-001-v10`\n\n### Enunciado\n¿Cuál es la función principal de este tipo de historias en la cultura?\n\n### Opciones",
       "options": [
         {
           "letter": "A",
@@ -678,7 +678,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\r\nLos mitos y leyendas forman parte de la identidad cultural y preservan la memoria colectiva de una comunidad.\r\n\r\n---",
+      "explanation": "Pedagógica\nLos mitos y leyendas forman parte de la identidad cultural y preservan la memoria colectiva de una comunidad.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],

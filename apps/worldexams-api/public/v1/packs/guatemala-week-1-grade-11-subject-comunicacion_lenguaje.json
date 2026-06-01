@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion-lenguaje",
+    "country": "guatemala",
+    "pack_id": "guatemala-week-1-grade-11-subject-comunicacion_lenguaje",
+    "generated_at": "2026-06-01T17:05:46.679Z"
+  },
+  "questions": [
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v1",
+      "statement": "¿Cuál es la obra más famosa de Miguel Ángel Asturias, Premio Nobel de Literatura guatemalteco, que critica las dictaduras en América Latina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "*Hombres de maíz* <!-- feedback: Incorrecto. Es una obra fundamental sobre la mitología maya, pero no se centra en dictaduras. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "*El Señor Presidente* <!-- feedback: Correcto. Es la novela cumbre de Asturias sobre el autoritarismo y la dictadura. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "*Leyendas de Guatemala* <!-- feedback: Incorrecto. Es una recopilación de relatos míticos y folclóricos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "*La mansión del pájaro serpiente* <!-- feedback: Incorrecto. Esta obra es de Virgilio Rodríguez Macal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de hitos de la literatura nacional y sus temáticas principales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v2",
+      "statement": "\"Al principio todo estaba en suspenso, todo en calma, en silencio; todo inmóvil, callado, y vacía la extensión del cielo.\"\nSegún el fragmento anterior del *Popol Vuh*, ¿cuál era el estado del mundo antes de la creación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caótico y ruidoso. <!-- feedback: Incorrecto. El texto dice que todo estaba en calma y silencio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Inmóvil y vacío. <!-- feedback: Correcto. El texto menciona explícitamente \"todo inmóvil\" y la \"vacía la extensión del cielo\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Lleno de animales y plantas. <!-- feedback: Incorrecto. Menciona que la extensión estaba vacía. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cubierto de fuego y lava. <!-- feedback: Incorrecto. No se mencionan elementos volcánicos en este inicio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de información explícita en textos fundacionales de la cultura guatemalteca.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v3",
+      "statement": "En Guatemala, ¿qué significa la palabra \"chulo\" aplicada a un objeto o persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alguien presumido o arrogante. <!-- feedback: Incorrecto. Ese es un significado común en España, pero no el principal en Guatemala. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Algo bonito, agradable o atractivo. <!-- feedback: Correcto. Se usa comúnmente como sinónimo de lindo o bello. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de comida tradicional. <!-- feedback: Incorrecto. No es un término gastronómico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una persona que estafa a otros. <!-- feedback: Incorrecto. No tiene esa connotación negativa en el uso general. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nConocimiento de variantes léxicas propias del español de Guatemala.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v4",
+      "statement": "\"Tikal, situada en el corazón de la selva petenera, fue una de las ciudades-estado más poderosas de la civilización maya durante el periodo Clásico.\"\nDe acuerdo con el texto, ¿en qué periodo alcanzó Tikal su mayor poderío?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodo Preclásico. <!-- feedback: Incorrecto. El texto especifica el periodo Clásico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Periodo Clásico. <!-- feedback: Correcto. Es la información que suministra el fragmento. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Periodo Posclásico. <!-- feedback: Incorrecto. Tikal ya había declinado para el Posclásico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Periodo Contemporáneo. <!-- feedback: Incorrecto. Se refiere a una civilización antigua. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nExtracción de datos específicos en textos expositivos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v5",
+      "statement": "Lea los siguientes versos:\n\"Guatemala, tu nombre es una flor que se abre al alba / y una herida que sangra en el poniente.\"\n¿Qué figura literaria se utiliza para describir a Guatemala y qué sugiere?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil; sugiere que Guatemala es solo naturaleza. <!-- feedback: Incorrecto. No usa \"como\" y la sugerencia es más compleja. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora; sugiere la dualidad entre la belleza y el sufrimiento del país. <!-- feedback: Correcto. Identifica el nombre con \"flor\" (belleza) y \"herida\" (dolor/historia). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole; sugiere que el país es demasiado grande. <!-- feedback: Incorrecto. No hay una exageración de tamaño, sino una identificación poética. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Personificación; sugiere que el país tiene sentimientos humanos. <!-- feedback: Incorrecto. No se le atribuyen acciones humanas, sino características de objetos/seres. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de recursos retóricos y su significado en contextos líricos nacionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v6",
+      "statement": "\"La protección de la Biosfera Maya no es solo una cuestión de ecología, sino de supervivencia económica para las comunidades locales.\"\n¿Cuál es la función de la expresión subrayada en el argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar una contradicción insalvable. <!-- feedback: Incorrecto. El conector \"sino\" aquí añade una razón de mayor peso, no contradice la anterior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ampliar la perspectiva del problema hacia el ámbito económico. <!-- feedback: Correcto. Muestra que hay más de una razón para proteger la zona. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Negar la importancia de la ecología. <!-- feedback: Incorrecto. No la niega, dice que \"no es SOLO\" eso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Concluir que la economía es más importante que la naturaleza. <!-- feedback: Incorrecto. El texto busca integrar ambas, no jerarquizarlas definitivamente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la función de conectores adversativos en la construcción de argumentos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v7",
+      "statement": "\"El Pepián, declarado Patrimonio Cultural de la Nación, es el resultado del sincretismo culinario entre la herencia maya y los ingredientes traídos por los españoles.\"\nSegún el autor, ¿cuál es la esencia del Pepián?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser un plato puramente indígena. <!-- feedback: Incorrecto. El texto menciona la influencia española. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ser un plato fácil de preparar. <!-- feedback: Incorrecto. El texto no habla de la dificultad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La mezcla o fusión de dos culturas distintas. <!-- feedback: Correcto. El término \"sincretismo\" alude a la fusión de elementos mayas y españoles. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ser la única comida típica de Guatemala. <!-- feedback: Incorrecto. Es una de muchas, aunque sea patrimonio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación de conceptos culturales (sincretismo) en textos descriptivos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v8",
+      "statement": "\"La volatilidad de los precios internacionales del café afecta la estabilidad de los pequeños productores en Huehuetenango.\"\n¿Cuál es el sinónimo más adecuado para la palabra subrayada en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rapidez <!-- feedback: Incorrecto. No se refiere a la velocidad, sino al cambio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Inestabilidad <!-- feedback: Correcto. La volatilidad implica cambios frecuentes e impredecibles en los precios. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Seguridad <!-- feedback: Incorrecto. Es lo opuesto a la volatilidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Claridad <!-- feedback: Incorrecto. No tiene relación con la transparencia de los precios. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación del significado de términos técnicos/económicos mediante el contexto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v9",
+      "statement": "\"El Estado de Guatemala reconoce, promueve y respeta los idiomas de los pueblos Mayas, Garífuna y Xinka.\"\n¿Qué obligación se le atribuye al Estado respecto a los idiomas indígenas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligar a todos a hablarlos. <!-- feedback: Incorrecto. El texto dice reconocer, promover y respetar, no obligar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fomentar su uso y proteger su existencia. <!-- feedback: Correcto. La promoción y el respeto implican fomento y protección. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Traducir solo los libros de texto. <!-- feedback: Incorrecto. El reconocimiento es general, no limitado a libros. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el uso del español. <!-- feedback: Incorrecto. El reconocimiento de idiomas indígenas no implica la eliminación del español. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nInterpretación de deberes ciudadanos e institucionales en textos normativos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v10",
+      "statement": "\"La Recordación Florida no fue escrita para nosotros, sino para los ojos del Rey y para justificar los privilegios de los descendientes de los conquistadores.\"\n¿Qué se puede inferir sobre la intención del autor de la *Recordación Florida* según Martínez Peláez?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quería escribir una novela de ficción. <!-- feedback: Incorrecto. Era una crónica histórica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tenía un interés político y económico personal/grupal. <!-- feedback: Correcto. Escribió para \"justificar privilegios\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Buscaba educar a los indígenas guatemaltecos. <!-- feedback: Incorrecto. Dice que \"no fue escrita para nosotros\" (el pueblo). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Su único fin era describir la naturaleza del país. <!-- feedback: Incorrecto. El fin era la justificación de derechos y privilegios. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de la intencionalidad y el sesgo en textos históricos críticos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v11",
+      "statement": "\"Atitlán se muere entre el desprecio institucional y la falta de conciencia ciudadana. Las cianobacterias no son el problema, son el síntoma de una sociedad que vierte sus desechos en su propio corazón.\"\n¿Cuál es la idea central de esta crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lago está lleno de bacterias peligrosas. <!-- feedback: Incorrecto. Eso es un dato, no la idea central de la crítica social. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La contaminación del lago es responsabilidad compartida entre el Estado y los ciudadanos. <!-- feedback: Correcto. Menciona \"desprecio institucional\" y \"falta de conciencia ciudadana\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El turismo debe ser prohibido inmediatamente. <!-- feedback: Incorrecto. El texto no propone la prohibición del turismo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El problema es puramente técnico y biológico. <!-- feedback: Incorrecto. Dice que lo biológico es solo un \"síntoma\" de lo social. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nInterpretación del sentido profundo de metáforas sociales en textos de opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v12",
+      "statement": "\"Centralizar todas las decisiones en la capital asfixia el desarrollo de los departamentos. Sin embargo, la descentralización sin fiscalización solo traslada la corrupción de un lugar a otro.\"\n¿Qué posición adopta el autor frente a la descentralización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un apoyo incondicional a la autonomía departamental. <!-- feedback: Incorrecto. Pone una condición (\"sin fiscalización...\"). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un rechazo total a cualquier cambio administrativo. <!-- feedback: Incorrecto. Critica la centralización inicial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un apoyo condicionado a la existencia de mecanismos de control. <!-- feedback: Correcto. Considera que se requiere fiscalización para que sea efectiva. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La creencia de que la capital siempre debe mandar. <!-- feedback: Incorrecto. Dice que la centralización \"asfixia\". -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de posturas matizadas y condicionales en textos argumentativos complejos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v13",
+      "statement": "\"En la aldea, el silencio se volvió un arma. Nadie hablaba, nadie miraba, porque la palabra podía ser la diferencia entre la vida y la fosa común.\"\n¿Qué atmósfera describe el autor y a través de qué recurso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una atmósfera de paz y meditación a través del silencio. <!-- feedback: Incorrecto. El silencio se asocia con un \"arma\" y la \"fosa común\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una atmósfera de terror y represión a través de la personificación del silencio. <!-- feedback: Correcto. El silencio actúa como un \"arma\", reflejando el miedo a hablar. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una atmósfera de aburrimiento por la falta de actividades. <!-- feedback: Incorrecto. El contexto es de peligro extremo, no de tedio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una atmósfera de unidad comunitaria contra el enemigo. <!-- feedback: Incorrecto. El texto describe aislamiento y desconfianza (\"Nadie hablaba\"). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la construcción de significados en textos testimoniales e históricos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v14",
+      "statement": "\"La educación superior requiere una reforma profunda. _______, es necesario evaluar el desempeño docente antes de asignar nuevos presupuestos.\"\n¿Qué conector lógico completa mejor la transición hacia una propuesta específica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el contrario <!-- feedback: Incorrecto. No se opone a la idea anterior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "En resumidas cuentas <!-- feedback: Incorrecto. No está resumiendo, está especificando. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En este sentido <!-- feedback: Correcto. Conecta la idea general (reforma) con un paso concreto coherente con ella. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Aunque <!-- feedback: Incorrecto. Introduce una concesión que no encaja aquí. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso de conectores de transición y especificación para mantener la coherencia textual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v15",
+      "statement": "Un mapa lingüístico de Guatemala muestra que el K'iche' es el idioma maya con mayor número de hablantes y cobertura geográfica. ¿Qué implicación social tiene este dato para el sistema educativo nacional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se debe prohibir el uso del español en esas zonas. <!-- feedback: Incorrecto. La educación es bilingüe, no excluyente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que el K'iche' debería ser una prioridad en los programas de Educación Bilingüe Intercultural (EBI). <!-- feedback: Correcto. Por su alcance demográfico y geográfico, requiere mayor atención. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que los demás idiomas mayas están destinados a desaparecer. <!-- feedback: Incorrecto. El dato no implica la desaparición de los otros. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los guatemaltecos hablan K'iche'. <!-- feedback: Incorrecto. El mapa muestra que es el mayoritario entre los mayas, no la totalidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de datos estadísticos/geográficos a la planeación de políticas lingüísticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v16",
+      "statement": "Mientras la literatura indigenista clásica buscaba denunciar la explotación del maya, el realismo mágico de Asturias busca capturar la esencia mítica de su pensamiento. ¿En qué radica la diferencia de enfoque?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El indigenismo es para niños y el realismo mágico para adultos. <!-- feedback: Incorrecto. Ambos son géneros complejos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Uno es de carácter sociopolítico y el otro de carácter estético-cosmogónico. <!-- feedback: Correcto. Denuncia vs. Mitología. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "No hay diferencia, ambos términos significan lo mismo. <!-- feedback: Incorrecto. Son corrientes literarias distintas con objetivos diferentes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El realismo mágico solo ocurre en Guatemala. <!-- feedback: Incorrecto. Es un fenómeno latinoamericano. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación de corrientes literarias y sus objetivos comunicativos y artísticos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v17",
+      "statement": "\"La paz no es solamente la ausencia de guerra; mientras haya pobreza, racismo, discriminación y exclusión difícilmente podremos alcanzar una paz verdadera.\"\n¿Cuál es el argumento central de la autora sobre la paz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las armas son el único problema. <!-- feedback: Incorrecto. Dice que la paz es más que la falta de armas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que la paz es un concepto integral que requiere justicia social y equidad. <!-- feedback: Correcto. Vincula la paz con la eliminación de problemas sociales profundos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que la paz es imposible de alcanzar en Guatemala. <!-- feedback: Incorrecto. No dice que sea imposible, sino qué se requiere para lograrla. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que el racismo es menos importante que la guerra. <!-- feedback: Incorrecto. Los pone al mismo nivel de importancia para la paz. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la coherencia y profundidad de definiciones conceptuales en textos retóricos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v18",
+      "statement": "El informe señala que las remesas representan el 19% del PIB de Guatemala, superando a todas las exportaciones tradicionales. Sin embargo, esto genera una \"trampa de dependencia\" que desincentiva la inversión productiva local. ¿Cuál es la paradoja económica descrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Guatemala es muy rica gracias a los migrantes. <!-- feedback: Incorrecto. Ignora el lado negativo de la \"trampa\". -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que los migrantes no deberían enviar dinero. <!-- feedback: Incorrecto. El texto no juzga el envío, sino sus efectos estructurales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que lo que sostiene la economía actual podría estar frenando el desarrollo futuro. <!-- feedback: Correcto. La remesa ayuda hoy pero desincentiva la inversión a largo plazo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que el café es más importante que las remesas. <!-- feedback: Incorrecto. El texto dice que las remesas lo superan en valor. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de identificar paradojas y relaciones complejas en textos socioeconómicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v19",
+      "statement": "\"Guatemala no es una nación, sino un proyecto de nación donde el diálogo entre el mundo maya y el occidental sigue siendo una tarea pendiente y, a veces, un campo de batalla.\"\n¿Qué visión de país propone el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una visión pesimista donde nunca habrá acuerdo. <!-- feedback: Incorrecto. Habla de \"proyecto\" y \"tarea pendiente\", lo que implica posibilidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una visión de construcción constante basada en la resolución de conflictos históricos. <!-- feedback: Correcto. El país se ve como algo no terminado que requiere diálogo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una visión donde solo una cultura debe predominar. <!-- feedback: Incorrecto. Habla de \"diálogo\", no de imposición. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una visión donde el pasado maya es irrelevante. <!-- feedback: Incorrecto. Lo pone como uno de los dos pilares del diálogo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de interpretaciones sociopolíticas y filosóficas de la realidad nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-LEN-11-P1-analisis-textual-001-v20",
+      "statement": "Al comparar una pintura costumbrista que idealiza la vida en el mercado con un poema que describe el cansancio de la vendedora de tejidos, ¿qué conclusión crítica se puede establecer sobre las formas de representación del \"otro\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la pintura es mejor porque tiene colores. <!-- feedback: Incorrecto. No es un juicio estético superficial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que la representación varía según la intención de embellecer la realidad o de humanizar el sufrimiento. <!-- feedback: Correcto. Contrasta la idealización visual con la crudeza literaria. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que nadie puede representar correctamente a los indígenas. <!-- feedback: Incorrecto. Es una generalización que el texto no sostiene. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que la literatura siempre es más triste que el arte plástico. <!-- feedback: Incorrecto. Es una generalización inválida. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de las diversas miradas y discursos estéticos sobre la identidad y los sectores sociales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-LEN-11-P1-lectura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

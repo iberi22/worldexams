@@ -1,22 +1,23 @@
 ---
-id: UNI-ENG-03-home-safety-001
-country: global
-grado: 3
-asignatura: ingles
-tema: home-safety
-periodo: 1
-cefr_level: A1
-protocol_version: 3.1-GLOBAL
-total_questions: 10
-international_focus: Safety / Home / Hazards
-licenses:
-  v1-v10: CC BY-NC-SA 4.0
-creador: AI-WorldExams
-generation_date: '2026-01-10'
-source: World Exams Original
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "UNI-ENG-03-home-safety-001"
+cefr_level: "A1"
+country: "global"
+grado: "3"
+asignatura: "ingles"
+tema: "home-safety"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Safety / Home / Hazards"
+licenses: ""
+v1-v10: "CC BY-NC-SA 4.0"
+creador: "AI-WorldExams"
+generation_date: "2026-01-10"
+source: "World Exams Original"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Home Safety (Grade 3)
 
 > **Focus:** Common home hazards: hot objects, electricity, falls, and strangers.

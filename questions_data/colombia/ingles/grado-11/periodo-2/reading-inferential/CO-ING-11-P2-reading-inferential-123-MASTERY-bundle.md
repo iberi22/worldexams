@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P2-reading-inferential-123-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "reading-inferential"
+periodo: "2"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "123"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:17:31.538850"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 The user wants me to generate 20 ICFES-style multiple choice questions for English (reading-inferential) for grade 11, period 2. Let me carefully follow all the specifications.
 
 Let me create 20 questions with progressive difficulty:
@@ -29,37 +60,8 @@ I'll use varied texts about:
 
 Let me structure this properly with the frontmatter YAML and 20 questions.
 
-</think>
 
-```yaml
----
-id: "CO-ING-11-P2-reading-inferential-123-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "reading-inferential"
-periodo: 2
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 123
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:17:31.538850"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

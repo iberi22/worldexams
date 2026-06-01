@@ -1,0 +1,2171 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencia",
+    "country": "pe",
+    "pack_id": "pe-week-1-grade-11-subject-ciencia",
+    "generated_at": "2026-06-01T17:05:46.768Z"
+  },
+  "questions": [
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v1",
+      "statement": "El agua es el componente más abundante en los seres vivos. ¿Qué tipo de enlace mantiene unidos a los átomos de hidrógeno con el oxígeno dentro de una molécula de agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico <!-- feedback: Incorrecto. No hay transferencia de electrones, sino compartición. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente polar <!-- feedback: Correcto. El oxígeno es más electronegativo que el hidrógeno, generando un dipolo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Puentes de hidrógeno <!-- feedback: Incorrecto. Estas son fuerzas intermoleculares (entre moléculas), no dentro de la molécula. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico <!-- feedback: Incorrecto. El hidrógeno y el oxígeno son no metales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación del tipo de enlace químico primario en la molécula base de la vida.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v2",
+      "statement": "¿A qué categoría de biomoléculas pertenece el almidón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteínas <!-- feedback: Incorrecto. Las proteínas están formadas por aminoácidos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Lípidos <!-- feedback: Incorrecto. Los lípidos son grasas y aceites, insolubles en agua. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Polisacáridos <!-- feedback: Correcto. El almidón es un polímero de reserva energética formado por cadenas de glucosa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ácidos nucleicos <!-- feedback: Incorrecto. Estos almacenan información genética (ADN/ARN). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nClasificación de los carbohidratos según su complejidad estructural.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v3",
+      "statement": "¿Cuál es la función principal de las enzimas en los procesos biológicos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenar energía a largo plazo. <!-- feedback: Incorrecto. Esta es función de los lípidos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Actuar como catalizadores biológicos acelerando las reacciones químicas. <!-- feedback: Correcto. Las enzimas disminuyen la energía de activación de las reacciones. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Formar la estructura de la pared celular vegetal. <!-- feedback: Incorrecto. Esta función corresponde a la celulosa (carbohidrato). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Transportar oxígeno en la sangre. <!-- feedback: Incorrecto. Aunque es una función proteica (hemoglobina), no es la definición de enzima. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del rol dinámico de las proteínas con actividad catalítica en el metabolismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v4",
+      "statement": "Los triglicéridos son biomoléculas que sirven como reserva energética. Estructuralmente, están compuestos por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres aminoácidos unidos por enlaces peptídicos. <!-- feedback: Incorrecto. Esto sería un tripéptido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una molécula de glicerol y tres ácidos grasos. <!-- feedback: Correcto. De ahí su nombre de tri-acil-glicéridos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo fosfato y dos cadenas de ácidos grasos. <!-- feedback: Incorrecto. Estos son los fosfolípidos de la membrana. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cadenas de nucleótidos unidos por enlaces fosfodiéster. <!-- feedback: Incorrecto. Descripción de un ácido nucleico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los componentes básicos de las grasas neutras.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v5",
+      "statement": "¿Cuál es la característica principal que diferencia a una célula procariota de una eucariota?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de una membrana plasmática. <!-- feedback: Incorrecto. Ambas poseen membrana celular. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La ausencia de un núcleo definido por una carioteca. <!-- feedback: Correcto. En las procariotas el ADN está libre en el citoplasma (nucleoide). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La capacidad de realizar fotosíntesis. <!-- feedback: Incorrecto. Hay organismos procariotas y eucariotas que fotosintetizan. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El uso de ribosomas para la síntesis de proteínas. <!-- feedback: Incorrecto. Ambos tipos celulares poseen ribosomas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación estructural básica en la evolución de la vida celular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v6",
+      "statement": "¿Cuál es la función principal de las mitocondrias en las células eucariotas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar la digestión intracelular de desechos. <!-- feedback: Incorrecto. Función de los lisosomas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Llevar a cabo la respiración celular para producir ATP. <!-- feedback: Correcto. El ATP es la moneda energética de la célula. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sintetizar lípidos y detoxificar la célula. <!-- feedback: Incorrecto. Función del Retículo Endoplasmático Liso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar el material genético de la célula. <!-- feedback: Incorrecto. Función del núcleo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAsociación de la estructura del organelo con su rol metabólico vital.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v7",
+      "statement": "Si un investigador observa al microscopio una célula con pared celular de celulosa, cloroplastos y una gran vacuola central, puede afirmar con seguridad que se trata de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una bacteria. <!-- feedback: Incorrecto. Las bacterias no tienen cloroplastos ni vacuolas organizadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una célula animal. <!-- feedback: Incorrecto. Las células animales carecen de pared celular y cloroplastos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una célula vegetal. <!-- feedback: Correcto. Son las características distintivas de las plantas y algas verdes. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Un virus. <!-- feedback: Incorrecto. Los virus no son células. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de tipos celulares basada en la presencia de organelos específicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v8",
+      "statement": "El modelo del \"Mosaico Fluido\" describe a la membrana celular como una estructura dinámica compuesta principalmente por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una capa sólida de proteínas insolubles. <!-- feedback: Incorrecto. No es una estructura rígida ni sólida. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una bicapa lipídica con proteínas incrustadas que pueden desplazarse. <!-- feedback: Correcto. Los fosfolípidos otorgan fluidez y las proteínas funcionalidad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una pared de quitina que impide el paso de cualquier sustancia. <!-- feedback: Incorrecto. La quitina está en hongos y exoesqueletos; la membrana es permeable. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una red de carbohidratos que almacena agua. <!-- feedback: Incorrecto. Los carbohidratos (glucocálix) están fuera, no forman la estructura principal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del modelo estructural actual de la frontera celular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v9",
+      "statement": "¿Cuál es la diferencia fundamental entre el transporte pasivo y el transporte activo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte pasivo solo ocurre en células vegetales. <!-- feedback: Incorrecto. Ocurre en todos los tipos de células. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El transporte activo requiere gasto de energía (ATP) porque va en contra del gradiente de concentración. <!-- feedback: Correcto. El pasivo va a favor del gradiente y no gasta energía. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El transporte pasivo siempre utiliza proteínas de canal. <!-- feedback: Incorrecto. La difusión simple no usa proteínas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El transporte activo es exclusivo para el paso de moléculas de agua. <!-- feedback: Incorrecto. El agua se mueve por ósmosis (pasivo). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDiferenciación de los mecanismos de intercambio de sustancias según el requerimiento energético.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v10",
+      "statement": "El organelo encargado de recibir, modificar, empaquetar y distribuir proteínas y lípidos que vienen del retículo endoplasmático es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lisosoma. <!-- feedback: Incorrecto. Se encarga de la digestión. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El aparato de Golgi. <!-- feedback: Correcto. Funciona como el centro de despacho o logística de la célula. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El nucleolo. <!-- feedback: Incorrecto. Se encarga de la síntesis de ribosomas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El peroxisoma. <!-- feedback: Incorrecto. Se encarga de la degradación del peróxido de hidrógeno. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de las funciones específicas dentro de la red de membranas internas de la célula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v11",
+      "statement": "Durante la fase luminosa de la fotosíntesis, se produce la fotólisis del agua. ¿Cuál es el producto gaseoso que se libera a la atmósfera como consecuencia de este proceso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono ($CO_2$) <!-- feedback: Incorrecto. El $CO_2$ se consume en la fase oscura (ciclo de Calvin). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno ($O_2$) <!-- feedback: Correcto. El oxígeno proviene de la ruptura de la molécula de agua. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Metano ($CH_4$) <!-- feedback: Incorrecto. No es un producto de la fotosíntesis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Nitrógeno ($N_2$) <!-- feedback: Incorrecto. No interviene directamente en este proceso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del origen del oxígeno atmosférico en el proceso fotosintético.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v12",
+      "statement": "En la respiración celular aeróbica, ¿en qué parte específica de la mitocondria ocurre el Ciclo de Krebs?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las crestas mitocondriales. <!-- feedback: Incorrecto. Aquí ocurre la cadena transportadora de electrones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "En la matriz mitocondrial. <!-- feedback: Correcto. El espacio interno fluido donde están las enzimas del ciclo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "En el espacio intermembrana. <!-- feedback: Incorrecto. Aquí se acumulan los protones ($H^+$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En los ribosomas mitocondriales. <!-- feedback: Incorrecto. Estos sintetizan proteínas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nLocalización de los procesos metabólicos dentro de la ultraestructura celular.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v13",
+      "statement": "¿Cómo se denomina al proceso por el cual las levaduras obtienen energía y producen alcohol en ausencia de oxígeno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glucólisis aeróbica. <!-- feedback: Incorrecto. La glucólisis es el paso previo, pero aquí se busca el proceso final. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fermentación alcohólica. <!-- feedback: Correcto. El piruvato se convierte en etanol y $CO_2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ciclo de Calvin. <!-- feedback: Incorrecto. Es un proceso anabólico de la fotosíntesis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fosforilación oxidativa. <!-- feedback: Incorrecto. Requiere oxígeno. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nRelación entre procesos biotecnológicos tradicionales y el metabolismo celular anaeróbico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v14",
+      "statement": "¿Cuál es la finalidad biológica de la mitosis en organismos multicelulares como el ser humano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir gametos (óvulos y espermatozoides). <!-- feedback: Incorrecto. Función de la meiosis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento corporal y la reparación de tejidos dañados. <!-- feedback: Correcto. Genera células idénticas para mantener el organismo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar la variabilidad genética de la descendencia. <!-- feedback: Incorrecto. La mitosis produce clones genéticos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reducir a la mitad el número de cromosomas. <!-- feedback: Incorrecto. Mantiene la dotación diploide ($2n$). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del significado biológico de la división celular somática.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v15",
+      "statement": "Durante la mitosis, se observa que las cromátidas hermanas se separan y se dirigen hacia los polos opuestos de la célula. ¿En qué fase ocurre este evento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profase. <!-- feedback: Incorrecto. Aquí se condensa la cromatina y desaparece el nucleolo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Metafase. <!-- feedback: Incorrecto. Aquí los cromosomas se alinean en el centro (placa ecuatorial). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Anafase. <!-- feedback: Correcto. Es la fase de migración o separación. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Telofase. <!-- feedback: Incorrecto. Aquí se reorganizan los núcleos hijos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de los eventos clave de cada etapa del ciclo celular.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v16",
+      "statement": "El proceso por el cual la información del ADN se copia a una molécula de ARN mensajero se denomina:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Replicación. <!-- feedback: Incorrecto. Es la copia de ADN a ADN. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Transcripción. <!-- feedback: Correcto. Ocurre en el núcleo de las eucariotas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Traducción. <!-- feedback: Incorrecto. Es el paso de ARN a proteínas en los ribosomas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mutación. <!-- feedback: Incorrecto. Es un cambio en la secuencia de nucleótidos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del flujo de la información genética en la célula.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v17",
+      "statement": "En una planta de arvejas, el color amarillo ($A$) es dominante sobre el verde ($a$). Si se cruzan dos plantas heterocigotas ($Aa \\times Aa$), ¿cuál es la probabilidad fenotípica de obtener plantas de color verde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% <!-- feedback: Incorrecto. Solo si ambos padres fueran homocigotos recesivos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "75% <!-- feedback: Incorrecto. Esta es la probabilidad del color dominante (amarillo). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50% <!-- feedback: Incorrecto. Probabilidad obtenida en un cruce de prueba ($Aa \\times aa$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25% <!-- feedback: Correcto. Según el cuadro de Punnett, solo el genotipo $aa$ (1 de 4) produce el color verde. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nAplicación de las leyes de Mendel para predecir proporciones genotípicas y fenotípicas en la descendencia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v18",
+      "statement": "Si un hombre daltónico ($X^dY$) tiene hijos con una mujer de visión normal pero portadora ($X^DX^d$), ¿cuál es la probabilidad de que tengan una hija daltónica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% <!-- feedback: Incorrecto. El padre aporta el cromosoma $X^d$ y la madre también puede aportarlo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25% <!-- feedback: Correcto. De los 4 posibles resultados ($X^DX^d$, $X^dX^d$, $X^DY$, $X^dY$), solo uno corresponde a una mujer daltónica ($X^dX^d$). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "50% <!-- feedback: Incorrecto. Probabilidad de que una mujer (hija) sea daltónica es del 50% respecto a las hijas, pero 25% respecto al total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "75% <!-- feedback: Incorrecto. Probabilidad excesivamente alta para una condición recesiva. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de patrones de herencia no mendeliana vinculados a los cromosomas sexuales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v19",
+      "statement": "¿Cuál es el evento crucial de la Profase I de la meiosis que garantiza que no existan dos seres humanos idénticos (excepto gemelos monocigóticos)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La duplicación del ADN. <!-- feedback: Incorrecto. Ocurre en la interfase previa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El entrecruzamiento o \"Crossing-over\" entre cromosomas homólogos. <!-- feedback: Correcto. Permite el intercambio de segmentos de ADN y nuevas combinaciones de genes. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La separación de las cromátidas hermanas. <!-- feedback: Incorrecto. Ocurre en la Anafase II. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La formación del huso acromático. <!-- feedback: Incorrecto. Es un proceso mecánico que no genera variabilidad por sí mismo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación del papel de la meiosis en la diversidad genética de las poblaciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-biologia-001-v20",
+      "statement": "El código genético es considerado \"degenerado\" o \"redundante\" porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contiene errores que provocan enfermedades frecuentemente. <!-- feedback: Incorrecto. No se refiere a la calidad de la información. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un solo codón puede codificar para varios aminoácidos distintos. <!-- feedback: Incorrecto. Esto haría al código ambiguo, lo cual no es cierto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Diferentes codones pueden codificar para un mismo aminoácido. <!-- feedback: Correcto. Por ejemplo, hay 6 codones distintos para la Leucina. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Se degrada rápidamente cuando la célula muere. <!-- feedback: Incorrecto. No tiene relación con la estabilidad química del ARN. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de las propiedades universales del código genético y su implicancia en la síntesis de proteínas y mutaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v1",
+      "statement": "¿Cuál es la característica principal de un objeto que se desplaza con MRU?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su aceleración es constante y diferente de cero. <!-- feedback: Incorrecto. Si hay aceleración, la velocidad cambia, lo cual no es MRU. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Su velocidad es constante en módulo, dirección y sentido. <!-- feedback: Correcto. En el MRU, la velocidad no cambia, por lo que recorre distancias iguales en tiempos iguales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Recorre distancias cada vez mayores en intervalos de tiempo iguales. <!-- feedback: Incorrecto. Esto describiría un movimiento acelerado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Su trayectoria es una línea curva. <!-- feedback: Incorrecto. El término \"rectilíneo\" implica trayectoria en línea recta. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDefinición fundamental del MRU y sus variables cinemáticas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v2",
+      "statement": "¿Qué distancia recorrerá el bus en un intervalo de 2 minutos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 metros <!-- feedback: Incorrecto. Olvidó convertir los minutos a segundos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1.800 metros <!-- feedback: Correcto. 2 minutos $= 120$ s. Distancia $= v \\cdot t = 15 \\text{ m/s} \\cdot 120 \\text{ s} = 1.800 \\text{ m}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "900 metros <!-- feedback: Incorrecto. Error en la multiplicación o conversión de tiempo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "300 metros <!-- feedback: Incorrecto. Dividió en lugar de multiplicar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de distancia en MRU asegurando la homogeneidad de las unidades de tiempo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v3",
+      "statement": "¿Cuál será su velocidad al cabo de 5 segundos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 m/s <!-- feedback: Incorrecto. Confundió el tiempo con la velocidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s <!-- feedback: Correcto. $v_f = v_0 + a \\cdot t = 0 + 2 \\cdot 5 = 10 \\text{ m/s}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "25 m/s <!-- feedback: Incorrecto. Realizó una operación de potencia innecesaria ($5^2$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7 m/s <!-- feedback: Incorrecto. Sumó los valores en lugar de multiplicarlos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la fórmula de velocidad final en el Movimiento Rectilíneo Uniformemente Variado (MRUV).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v4",
+      "statement": "En una gráfica de posición ($x$) versus tiempo ($t$), una línea recta con pendiente positiva representa:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un objeto en reposo. <!-- feedback: Incorrecto. Esto sería una línea horizontal (pendiente cero). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un objeto moviéndose con velocidad constante. <!-- feedback: Correcto. La pendiente de la gráfica $x$ vs $t$ representa la velocidad; si es una recta, la velocidad es constante. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un objeto que está frenando. <!-- feedback: Incorrecto. Esto se representaría con una curva (parábola). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un objeto con aceleración constante. <!-- feedback: Incorrecto. La aceleración se ve como una curvatura en esta gráfica. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nRelación geométrica entre las gráficas de movimiento y sus magnitudes físicas correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v5",
+      "statement": "Según la Primera Ley de Newton, si la fuerza neta sobre un cuerpo es cero, este:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe estar necesariamente en reposo. <!-- feedback: Incorrecto. También puede estarse moviendo con velocidad constante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Empezará a acelerar gradualmente. <!-- feedback: Incorrecto. La aceleración requiere una fuerza neta diferente de cero. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mantendrá su estado de reposo o de movimiento rectilíneo uniforme. <!-- feedback: Correcto. La inercia es la tendencia a mantener el estado actual de movimiento si no hay fuerzas externas netas. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Cambiará de dirección inmediatamente. <!-- feedback: Incorrecto. Un cambio de dirección implica una fuerza centrípeta. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión teórica del principio de inercia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v6",
+      "statement": "Una fuerza de 50 N se aplica sobre un bloque de 5 kg. Despreciando el rozamiento, ¿cuál es la aceleración del bloque?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,1 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Dividió masa entre fuerza. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$10 \\text{ m/s}^2$ <!-- feedback: Correcto. $a = F / m = 50 \\text{ N} / 5 \\text{ kg} = 10 \\text{ m/s}^2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$250 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Multiplicó fuerza por masa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$5 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Error aritmético en la división. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de aceleración a partir de la fuerza y la masa (Relación fundamental de la dinámica).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v7",
+      "statement": "Si un astronauta tiene una masa de 70 kg en la Tierra, ¿cuál será su masa y su peso aproximado en la Luna? (Considere $g_{Luna} \\approx 1,6 \\text{ m/s}^2$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Masa: 11.2 kg; Peso: 70 N <!-- feedback: Incorrecto. La masa es una propiedad intrínseca y no cambia con la gravedad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Masa: 70 kg; Peso: 700 N <!-- feedback: Incorrecto. Este sería su peso en la Tierra (con $g=10$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Masa: 70 kg; Peso: 112 N <!-- feedback: Correcto. La masa permanece en 70 kg. El peso es $m \\cdot g = 70 \\cdot 1,6 = 112$ N. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Masa: 11.2 kg; Peso: 112 N <!-- feedback: Incorrecto. Trató de cambiar la masa basándose en la gravedad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDistinción conceptual entre masa (cantidad de materia) y peso (fuerza gravitatoria).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v8",
+      "statement": "Un libro de 2 kg descansa sobre una mesa. ¿Cuál es la magnitud de la fuerza normal que la mesa ejerce sobre el libro? (Considere $g \\approx 9,8 \\text{ m/s}^2$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 N <!-- feedback: Incorrecto. Esta es solo la masa numéricamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "0 N <!-- feedback: Incorrecto. Debe haber una fuerza normal para contrarrestar el peso en equilibrio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "19,6 N <!-- feedback: Correcto. En equilibrio vertical, Normal $=$ Peso $= m \\cdot g = 2 \\cdot 9,8 = 19,6$ N. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "9,8 N <!-- feedback: Incorrecto. Olvidó multiplicar por la masa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de fuerzas en equilibrio estático.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v9",
+      "statement": "Un bloque de 10 kg se encuentra sobre una superficie horizontal con un coeficiente de rozamiento estático $\\mu_e = 0,4$. ¿Cuál es la fuerza mínima necesaria para empezar a mover el bloque? (Considere $g = 10 \\text{ m/s}^2$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 N <!-- feedback: Incorrecto. Olvidó multiplicar por la gravedad al calcular la normal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "40 N <!-- feedback: Correcto. $F_{roz} = \\mu_e \\cdot N$. Como $N = m \\cdot g = 100 \\text{ N}$, entonces $F_{roz} = 0,4 \\cdot 100 = 40$ N. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "100 N <!-- feedback: Incorrecto. Este es el peso del bloque, no la fuerza de fricción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 N <!-- feedback: Incorrecto. Error en la multiplicación de los factores. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de la fuerza de rozamiento estático máximo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v10",
+      "statement": "Un auto toma una curva circular de 50 m de radio a una velocidad constante de 10 m/s. ¿Cuál es la magnitud de su aceleración centrípeta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,2 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Dividió $v$ entre $r$ en lugar de $v^2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\text{ m/s}^2$ <!-- feedback: Correcto. $a_c = v^2 / r = 10^2 / 50 = 100 / 50 = 2 \\text{ m/s}^2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$5 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Error aritmético. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$20 \\text{ m/s}^2$ <!-- feedback: Incorrecto. Realizó una operación errónea con los valores dados. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la fórmula de aceleración centrípeta en el movimiento circular uniforme.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v11",
+      "statement": "Un obrero en una construcción en San Isidro empuja una carretilla con una fuerza de 100 N en la misma dirección de su desplazamiento. Si la desplaza 20 metros, ¿cuánto trabajo realizó?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 Joules <!-- feedback: Incorrecto. Dividió en lugar de multiplicar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "200 Joules <!-- feedback: Incorrecto. Error en la multiplicación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2.000 Joules <!-- feedback: Correcto. $W = F \\cdot d \\cdot \\cos(0^\\circ) = 100 \\cdot 20 \\cdot 1 = 2.000$ J. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "0 Joules <!-- feedback: Incorrecto. Hay fuerza y desplazamiento en la misma dirección, el trabajo es máximo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCálculo de trabajo mecánico realizado por una fuerza constante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v12",
+      "statement": "Si la velocidad de un proyectil se duplica, ¿cómo cambia su energía cinética?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica. <!-- feedback: Incorrecto. La energía cinética no es proporcional linealmente a la velocidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se triplica. <!-- feedback: Incorrecto. Relación errónea. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se cuadruplica. <!-- feedback: Correcto. $E_c = \\frac{1}{2}mv^2$. Si $v$ pasa a $2v$, entonces $(2v)^2 = 4v^2$, por lo que la energía se hace 4 veces mayor. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Permanece igual. <!-- feedback: Incorrecto. La energía cinética depende directamente de la velocidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de la relación cuadrática entre la velocidad y la energía cinética.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v13",
+      "statement": "Un objeto de 5 kg se eleva a una altura de 10 m. ¿Cuánta energía potencial ganó respecto al suelo? (Considere $g = 9,8 \\text{ m/s}^2$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 Joules <!-- feedback: Incorrecto. Olvidó multiplicar por la gravedad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "490 Joules <!-- feedback: Correcto. $E_p = m \\cdot g \\cdot h = 5 \\cdot 9,8 \\cdot 10 = 490$ J. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "98 Joules <!-- feedback: Incorrecto. Olvidó el factor de altura o masa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "500 Joules <!-- feedback: Incorrecto. Usó $g=10$ cuando se solicitaba $9,8$ o aproximó incorrectamente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de energía potencial gravitatoria en las cercanías de la superficie terrestre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v14",
+      "statement": "Una esfera se deja caer desde una altura $H$ sin fricción. Al llegar a la mitad de su altura ($H/2$), ¿cuál es la relación entre su energía cinética ($E_c$) y su energía potencial ($E_p$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$E_c = 2 E_p$ <!-- feedback: Incorrecto. Esto ocurriría a un tercio de la altura total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$E_c = E_p$ <!-- feedback: Correcto. Por conservación, la energía perdida (potencial) es igual a la ganada (cinética). A la mitad de la altura, ha perdido la mitad de su potencial, que ahora es cinética. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$E_p = 2 E_c$ <!-- feedback: Incorrecto. Esto ocurriría a los dos tercios de la altura. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$E_c = 0$ <!-- feedback: Incorrecto. Al estar cayendo ya posee velocidad y por tanto energía cinética. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación del principio de conservación de la energía mecánica en caída libre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v15",
+      "statement": "Un motor realiza un trabajo de 6.000 J en 2 minutos. ¿Cuál es su potencia promedio en Watts (W)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.000 W <!-- feedback: Incorrecto. No convirtió los minutos a segundos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "300 W <!-- feedback: Incorrecto. Error en la división. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50 W <!-- feedback: Correcto. $P = W / t = 6.000 / 120 = 50$ Watts. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "120 W <!-- feedback: Incorrecto. Confundió el tiempo con la potencia. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDefinición de potencia como la rapidez con la que se realiza un trabajo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v16",
+      "statement": "Una máquina consume 1.000 J de energía eléctrica pero solo entrega 800 J de trabajo útil. ¿Cuál es su eficiencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20% <!-- feedback: Incorrecto. Esta es la energía perdida (disipada). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "80% <!-- feedback: Correcto. Eficiencia $= (Trabajo Útil / Energía Consumida) \\times 100 = (800 / 1.000) \\times 100 = 80\\%$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "125% <!-- feedback: Incorrecto. Calculó la relación inversa; ninguna máquina real supera el 100%. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100% <!-- feedback: Incorrecto. Ignoró las pérdidas de energía inevitables en sistemas reales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nConcepto de eficiencia energética y conservación de la energía total (incluyendo calor).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v17",
+      "statement": "¿Cuál es la presión hidrostática que soporta un buzo a 20 metros de profundidad en el mar peruano? (Considere $\\rho_{agua} \\approx 1.030 \\text{ kg/m}^3$ y $g \\approx 10 \\text{ m/s}^2$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20.600 Pa <!-- feedback: Incorrecto. Error en la multiplicación por la profundidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "206.000 Pa <!-- feedback: Correcto. $P_h = \\rho \\cdot g \\cdot h = 1.030 \\cdot 10 \\cdot 20 = 206.000$ Pascales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10.300 Pa <!-- feedback: Incorrecto. Error aritmético significativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2.060 Pa <!-- feedback: Incorrecto. Olvidó los órdenes de magnitud de la densidad y gravedad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de la presión debida a una columna de líquido.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v18",
+      "statement": "Un bloque de madera flota en agua con el 20% de su volumen sumergido. ¿Cuál es la densidad del bloque? (Densidad del agua $= 1.000 \\text{ kg/m}^3$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$800 \\text{ kg/m}^3$ <!-- feedback: Incorrecto. Esta sería la densidad si el 80% estuviera sumergido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$200 \\text{ kg/m}^3$ <!-- feedback: Correcto. En flotación, Peso $=$ Empuje. $\\rho_{cuerpo} \\cdot V_{total} = \\rho_{líquido} \\cdot V_{sumergido}$. Entonces $\\rho_{cuerpo} = \\rho_{líquido} \\cdot (V_{sum}/V_{total}) = 1.000 \\cdot 0,2 = 200$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1.200 \\text{ kg/m}^3$ <!-- feedback: Incorrecto. El cuerpo se hundiría si fuera más denso que el agua. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$500 \\text{ kg/m}^3$ <!-- feedback: Incorrecto. Error en la proporción. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nRelación entre densidades y volumen sumergido en cuerpos flotantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v19",
+      "statement": "Un gas ideal recibe 500 J de calor y realiza un trabajo sobre su entorno de 200 J. ¿Cuál es la variación de su energía interna?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "700 J <!-- feedback: Incorrecto. Sumó el trabajo en lugar de restarlo (el gas pierde energía al trabajar). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "300 J <!-- feedback: Correcto. $\\Delta U = Q - W$. Donde $Q = 500$ J y $W = 200$ J. $\\Delta U = 500 - 200 = 300$ J. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "500 J <!-- feedback: Incorrecto. Ignoró el trabajo realizado por el sistema. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-300 J <!-- feedback: Incorrecto. Error en la convención de signos del calor recibido. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación del balance de energía en procesos termodinámicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-fisica-001-v20",
+      "statement": "¿Cuál es la eficiencia máxima teórica (de Carnot) de una máquina térmica que opera entre una fuente caliente a 600 K y una fría a 300 K?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% <!-- feedback: Incorrecto. Imposible según la segunda ley de la termodinámica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "50% <!-- feedback: Correcto. $\\eta = 1 - (T_{fría}/T_{caliente}) = 1 - (300/600) = 1 - 0,5 = 0,5$ (o 50%). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "25% <!-- feedback: Incorrecto. Error en la división de las temperaturas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "75% <!-- feedback: Incorrecto. Error en la aplicación de la fórmula de Carnot. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación del límite teórico de eficiencia para procesos cíclicos térmicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-fisica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v1",
+      "statement": "¿Cuáles son las partículas que se encuentran en el núcleo del átomo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrones y protones. <!-- feedback: Incorrecto. Los electrones orbitan alrededor del núcleo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Electrones y neutrones. <!-- feedback: Incorrecto. Los electrones no están en el núcleo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Protones y neutrones. <!-- feedback: Correcto. Estas dos partículas forman el núcleo atómico y concentran casi toda la masa del átomo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Solo protones. <!-- feedback: Incorrecto. Los núcleos (excepto el del hidrógeno común) también contienen neutrones. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de la estructura básica del átomo y la ubicación de sus componentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v2",
+      "statement": "¿Cuántos neutrones tiene el núcleo de este átomo de sodio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 neutrones <!-- feedback: Incorrecto. Este es el número de protones ($Z$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12 neutrones <!-- feedback: Correcto. $N = A - Z = 23 - 11 = 12$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "23 neutrones <!-- feedback: Incorrecto. Este es el número de masa ($A$), la suma de protones y neutrones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "34 neutrones <!-- feedback: Incorrecto. Sumó los valores en lugar de restarlos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de la cantidad de neutrones mediante la relación entre el número atómico y el número de masa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v3",
+      "statement": "¿Qué propiedad define el orden de los elementos en la tabla periódica moderna?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El orden alfabético de sus nombres. <!-- feedback: Incorrecto. El orden es puramente científico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Su peso atómico creciente. <!-- feedback: Incorrecto. Este era el criterio de Mendeleiev, pero presentaba inconsistencias. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Su número atómico ($Z$) creciente. <!-- feedback: Correcto. Según la Ley Periódica de Moseley, los elementos se ordenan por su cantidad de protones. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Su abundancia en la corteza terrestre. <!-- feedback: Incorrecto. No es un criterio de organización sistemática. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión del criterio de ordenamiento de los elementos químicos en la Tabla Periódica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v4",
+      "statement": "¿Cuál es la configuración electrónica correcta para un átomo de Oxígeno ($Z=8$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1s^2 2s^2 2p^6$ <!-- feedback: Incorrecto. Esta configuración suma 10 electrones (corresponde al Neón). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1s^2 2s^2 2p^4$ <!-- feedback: Correcto. Suma $2+2+4 = 8$ electrones, completando los niveles según el principio de Aufbau. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1s^2 2s^6$ <!-- feedback: Incorrecto. El orbital $s$ solo puede albergar un máximo de 2 electrones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1s^2 2s^2 2p^2 3s^2$ <!-- feedback: Incorrecto. Saltó niveles de energía antes de completar el orbital $2p$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las reglas de llenado de orbitales (Möller/Aufbau) para determinar la configuración electrónica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v5",
+      "statement": "¿Cuál es la característica principal de un enlace iónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartición equitativa de electrones entre dos átomos. <!-- feedback: Incorrecto. Esto describe un enlace covalente apolar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Transferencia de electrones de un metal a un no metal. <!-- feedback: Correcto. Resulta en la formación de cationes y aniones que se atraen electrostáticamente. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Formación de una \"nube de electrones\" libres. <!-- feedback: Incorrecto. Esto describe el enlace metálico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Unión mediante puentes de hidrógeno. <!-- feedback: Incorrecto. Esta es una fuerza intermolécular, no un enlace atómico primario. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDefinición y mecanismo de formación del enlace iónico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v6",
+      "statement": "¿Cuál es el nombre correcto del compuesto $Fe_2O_3$ según la nomenclatura tradicional? (Dato: el Hierro tiene estados de oxidación +2 y +3).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Óxido ferroso. <!-- feedback: Incorrecto. Se usa para el estado de oxidación menor (+2). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Óxido férrico. <!-- feedback: Correcto. El sufijo \"-ico\" se usa para el mayor estado de oxidación del metal (+3). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Trióxido de hierro. <!-- feedback: Incorrecto. Esta es la nomenclatura sistemática (IUPAC), no la tradicional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Óxido de hierro (III). <!-- feedback: Incorrecto. Esta es la nomenclatura Stock. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación y aplicación de las reglas de nomenclatura química para compuestos inorgánicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v7",
+      "statement": "¿Qué establece la \"Regla del Octeto\" en la formación de enlaces?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los átomos deben tener 8 protones en su núcleo. <!-- feedback: Incorrecto. La regla se refiere a los electrones externos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que los átomos tienden a ganar, perder o compartir electrones para tener 8 en su último nivel. <!-- feedback: Correcto. Esta configuración les otorga estabilidad similar a la de un gas noble. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que los compuestos siempre deben tener 8 átomos diferentes. <!-- feedback: Incorrecto. Interpretación errónea de la regla. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que la masa atómica siempre debe ser múltiplo de 8. <!-- feedback: Incorrecto. No existe tal relación física. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión del principio de estabilidad electrónica en la formación de moléculas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v8",
+      "statement": "Dadas las electronegatividades: $H = 2,1$; $Cl = 3,0$. ¿Qué tipo de enlace se forma en la molécula de $HCl$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico. <!-- feedback: Incorrecto. La diferencia de electronegatividad ($0,9$) es menor a $1,7$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente apolar. <!-- feedback: Incorrecto. Hay una diferencia significativa de electronegatividad, por lo que hay polos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enlace covalente polar. <!-- feedback: Correcto. Al ser dos no metales con diferente electronegatividad, comparten electrones de forma desigual. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico. <!-- feedback: Incorrecto. Ninguno de los elementos es un metal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso de la diferencia de electronegatividad para predecir el tipo de enlace químico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v9",
+      "statement": "Al reaccionar un óxido básico con agua, se obtiene:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ácido oxácido. <!-- feedback: Incorrecto. Esto resulta de un óxido ácido + agua. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un hidróxido (base). <!-- feedback: Correcto. Por ejemplo: $CaO + H_2O \\to Ca(OH)_2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una sal haloidea. <!-- feedback: Incorrecto. Requiere la reacción entre un ácido y una base. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un hidruro metálico. <!-- feedback: Incorrecto. Requiere la reacción directa de un metal con hidrógeno. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nPredicción de productos en reacciones de formación de funciones inorgánicas comunes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v10",
+      "statement": "¿Cuál es el estado de oxidación del Azufre ($S$) en el ion sulfato ($SO_4^{2-}$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+4 <!-- feedback: Incorrecto. Corresponde al ion sulfito ($SO_3^{2-}$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "+6 <!-- feedback: Correcto. $x + 4(-2) = -2 \\Rightarrow x - 8 = -2 \\Rightarrow x = +6$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "-2 <!-- feedback: Incorrecto. Este es el estado de oxidación del oxígeno en el ion. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "+8 <!-- feedback: Incorrecto. Supera el número máximo de electrones de valencia del azufre. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de estados de oxidación en especies poliatómicas cargadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v11",
+      "statement": "Al balancear la ecuación: $C_3H_8 + O_2 \\to CO_2 + H_2O$, ¿cuál es el coeficiente del Oxígeno ($O_2$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 <!-- feedback: Incorrecto. Solo alcanza para el carbono. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 <!-- feedback: Incorrecto. Solo alcanza para el hidrógeno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5 <!-- feedback: Correcto. La ecuación balanceada es: $C_3H_8 + 5O_2 \\to 3CO_2 + 4H_2O$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "10 <!-- feedback: Incorrecto. Duplicó innecesariamente todos los coeficientes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de la Ley de Conservación de la Masa mediante el balanceo por tanteo o inspección.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v12",
+      "statement": "¿Cuántos gramos hay en 2 moles de Agua ($H_2O$)? (Pesos atómicos: $H=1, O=16$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 g <!-- feedback: Incorrecto. Esta es la masa de un solo mol. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "36 g <!-- feedback: Correcto. Masa molar $= 2(1) + 16 = 18$ g/mol. Para 2 moles: $2 \\cdot 18 = 36$ g. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "20 g <!-- feedback: Incorrecto. Error en el cálculo de la masa molar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "54 g <!-- feedback: Incorrecto. Multiplicó por 3 en lugar de 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nConversión de unidades químicas de cantidad de sustancia a masa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v13",
+      "statement": "En la reacción $N_2 + 3H_2 \\to 2NH_3$. Si se mezclan 1 mol de $N_2$ y 4 moles de $H_2$, ¿cuál es el reactivo limitante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$N_2$ <!-- feedback: Correcto. Según la estequiometría, 1 mol de $N_2$ requiere 3 moles de $H_2$. Como hay 4 moles de $H_2$, sobra hidrógeno y el nitrógeno se acaba primero. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$H_2$ <!-- feedback: Incorrecto. Hay exceso de hidrógeno respecto a lo que el nitrógeno puede consumir. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$NH_3$ <!-- feedback: Incorrecto. Este es un producto, no puede ser un reactivo limitante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambos se consumen totalmente. <!-- feedback: Incorrecto. No están en proporciones estequiométricas exactas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nIdentificación del reactivo que determina la cantidad máxima de producto a obtener.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v14",
+      "statement": "¿Cuál es el porcentaje en masa de Carbono en el metano ($CH_4$)? (Pesos atómicos: $C=12, H=1$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% <!-- feedback: Incorrecto. Confundió el porcentaje de átomos con el porcentaje de masa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "50% <!-- feedback: Incorrecto. Error de cálculo en la masa total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75% <!-- feedback: Correcto. Masa molar $= 12 + 4(1) = 16$. Porcentaje $= (12/16) \\cdot 100 = 75\\%$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "90% <!-- feedback: Incorrecto. Sobreestimó el peso del carbono en la molécula. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDeterminación de la composición porcentual de un elemento en un compuesto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v15",
+      "statement": "¿A qué tipo pertenece la reacción $Zn + CuSO_4 \\to ZnSO_4 + Cu$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combinación (Síntesis). <!-- feedback: Incorrecto. No se están uniendo dos sustancias para formar una sola. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Descomposición. <!-- feedback: Incorrecto. Una sola sustancia no se está rompiendo en varias. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desplazamiento Simple (Sustitución). <!-- feedback: Correcto. El Zinc desplaza al Cobre de su sal debido a su mayor reactividad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Doble Desplazamiento. <!-- feedback: Incorrecto. Solo un átomo cambia de lugar, no hay intercambio mutuo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nClasificación de reacciones químicas según el mecanismo de reorganización atómica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v16",
+      "statement": "Teóricamente se deberían obtener 100 g de un producto, pero en el laboratorio de la UNMSM solo se obtuvieron 85 g. ¿Cuál es el rendimiento de la reacción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15% <!-- feedback: Incorrecto. Este es el porcentaje de pérdida o error. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "85% <!-- feedback: Correcto. Rendimiento $= (\\text{Masa real} / \\text{Masa teórica}) \\cdot 100 = (85/100) \\cdot 100 = 85\\%$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "117% <!-- feedback: Incorrecto. El rendimiento no puede superar el 100% real. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100% <!-- feedback: Incorrecto. Ignoró la diferencia entre el cálculo teórico y el resultado experimental. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo del grado de eficiencia de un proceso químico experimental.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v17",
+      "statement": "¿Qué volumen ocupará un mol de un gas ideal en condiciones normales de presión y temperatura (CNPT)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11,2 litros <!-- feedback: Incorrecto. Corresponde a medio mol. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "22,4 litros <!-- feedback: Correcto. Es el volumen molar estándar para cualquier gas ideal en CNPT ($0^\\circ$C y 1 atm). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "44,8 litros <!-- feedback: Incorrecto. Corresponde a dos moles. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1 litro <!-- feedback: Incorrecto. Valor arbitrario sin fundamento físico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación del volumen molar constante en condiciones estándar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v18",
+      "statement": "¿Cuál es el tipo de hibridación que presentan los átomos de carbono en una molécula de Etino (Acetileno, $C_2H_2$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$sp^3$ <!-- feedback: Incorrecto. Típica de alcanos con enlaces simples. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$sp^2$ <!-- feedback: Incorrecto. Típica de alquenos con enlaces dobles. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$sp$ <!-- feedback: Correcto. El etino tiene un triple enlace carbono-carbono, lo que requiere hibridación lineal $sp$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$sp^3d$ <!-- feedback: Incorrecto. El carbono no puede presentar este tipo de hibridación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nRelación entre el tipo de enlace (simple, doble, triple) y el estado de hibridación del átomo de carbono.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v19",
+      "statement": "Los compuestos Butano y Metilpropano son ejemplos de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isómeros de cadena. <!-- feedback: Correcto. Tienen la misma fórmula molecular ($C_4H_{10}$) pero diferente distribución de los átomos de carbono en la cadena. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Isómeros de posición. <!-- feedback: Incorrecto. No hay grupos funcionales o insaturaciones que cambien de lugar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Isómeros de función. <!-- feedback: Incorrecto. Ambos pertenecen a la misma función química (alcanos). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No son isómeros. <!-- feedback: Incorrecto. Sí comparten la misma fórmula molecular. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nReconocimiento de la isomería estructural en hidrocarburos saturados.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PE-CIE-11-P1-quimica-001-v20",
+      "statement": "Si a un gas se le duplica la presión manteniendo la temperatura constante, ¿qué sucede con su volumen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica. <!-- feedback: Incorrecto. La relación es inversa, no directa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se reduce a la mitad. <!-- feedback: Correcto. Según la Ley de Boyle ($P_1V_1 = P_2V_2$), la presión y el volumen son inversamente proporcionales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Se reduce a la cuarta parte. <!-- feedback: Incorrecto. Exageró el efecto de la presión. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Permanece constante. <!-- feedback: Incorrecto. El volumen debe cambiar para compensar el cambio de presión. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación cualitativa de las leyes de los gases ideales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-CIE-11-P1-quimica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

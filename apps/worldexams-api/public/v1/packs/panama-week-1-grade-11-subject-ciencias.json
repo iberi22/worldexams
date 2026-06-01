@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "panama",
+    "pack_id": "panama-week-1-grade-11-subject-ciencias",
+    "generated_at": "2026-06-01T17:05:46.767Z"
+  },
+  "questions": [
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v1",
+      "statement": "¿Cuál de las siguientes estructuras es responsable de controlar todas las actividades de la célula y contiene el material genético?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citoplasma <!-- feedback: Incorrecto. El citoplasma es el medio donde flotan los orgánulos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Núcleo <!-- feedback: Correcto. El núcleo alberga el ADN y coordina las funciones celulares. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Membrana celular <!-- feedback: Incorrecto. Su función es regular la entrada y salida de sustancias. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mitocondria <!-- feedback: Incorrecto. Se encarga de la producción de energía (ATP). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de las funciones básicas de los componentes de la célula eucariota.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v2",
+      "statement": "La capacidad de los seres vivos para mantener un equilibrio interno estable a pesar de los cambios en el ambiente exterior se denomina:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metabolismo <!-- feedback: Incorrecto. Es el conjunto de reacciones químicas para obtener energía. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción <!-- feedback: Incorrecto. Es el proceso de generar nuevos individuos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Homeostasis <!-- feedback: Correcto. Es el mecanismo de autorregulación del medio interno. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Irritabilidad <!-- feedback: Incorrecto. Es la capacidad de responder a estímulos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nReconocimiento de conceptos biológicos fundamentales aplicados a la fisiología.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v3",
+      "statement": "Durante la fotosíntesis, las plantas convierten la energía solar en energía química almacenada en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono <!-- feedback: Incorrecto. El CO2 es un reactivo, no el producto de almacenamiento energético. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Glucosa <!-- feedback: Correcto. La glucosa es el azúcar producido que almacena la energía. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Oxígeno <!-- feedback: Incorrecto. El oxígeno es un subproducto liberado, no el almacén principal de energía química. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Agua <!-- feedback: Incorrecto. El agua es un reactivo necesario para el proceso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de la transformación de energía y materia en los organismos autótrofos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v4",
+      "statement": "¿Cuál es el resultado principal del proceso de mitosis en una célula somática humana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos células hijas genéticamente idénticas a la madre. <!-- feedback: Correcto. La mitosis busca la replicación exacta para el crecimiento y reparación de tejidos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro células hijas con la mitad de los cromosomas. <!-- feedback: Incorrecto. Esto describe el resultado de la meiosis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una célula con el doble de material genético. <!-- feedback: Incorrecto. El material se duplica y luego se divide equitativamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dos células hijas con diferente información genética. <!-- feedback: Incorrecto. Salvo mutaciones, la mitosis mantiene la fidelidad genética. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nDiferenciación entre los procesos de división celular y su significado biológico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v5",
+      "statement": "En los guisantes, el color púrpura de las flores (P) es dominante sobre el blanco (p). Si cruzamos una planta de flores púrpuras heterocigota con una de flores blancas, ¿qué porcentaje de la descendencia tendrá flores blancas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% <!-- feedback: Incorrecto. Al haber un progenitor recesivo y uno heterocigoto, sí aparecerá el rasgo blanco. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25% <!-- feedback: Incorrecto. Esto ocurriría en un cruce de dos heterocigotos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50% <!-- feedback: Correcto. Cruce Pp x pp resulta en 50% Pp (púrpura) y 50% pp (blanco). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "100% <!-- feedback: Incorrecto. El progenitor dominante aporta el alelo P al otro 50%. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de las leyes de segregación de Mendel para predecir proporciones genotípicas y fenotípicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v6",
+      "statement": "El surgimiento del istmo de Panamá hace millones de años separó poblaciones de organismos marinos, lo que llevó a la formación de nuevas especies en el Pacífico y el Caribe. Este proceso se conoce como:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selección artificial <!-- feedback: Incorrecto. No hubo intervención humana en este proceso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Especiación alopátrica <!-- feedback: Correcto. Es la formación de especies debido al aislamiento geográfico. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Convergencia evolutiva <!-- feedback: Incorrecto. Esto es cuando especies distintas desarrollan rasgos similares. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mutación dirigida <!-- feedback: Incorrecto. Las mutaciones son aleatorias, no dirigidas por el ambiente geográfico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de los mecanismos evolutivos impulsados por cambios geológicos históricos en la región.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v7",
+      "statement": "Los manglares en las costas panameñas son fundamentales para la biodiversidad porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtran el agua dulce para convertirla en agua salada. <!-- feedback: Incorrecto. Su función no es cambiar la salinidad de esa forma. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sirven como áreas de crianza para muchas especies marinas y protegen la costa de la erosión. <!-- feedback: Correcto. Sus raíces complejas ofrecen refugio a juveniles de peces y crustáceos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Son la principal fuente de madera preciosa para la exportación. <!-- feedback: Incorrecto. Su valor ecológico supera por mucho cualquier uso extractivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Producen oxígeno solo durante la noche. <!-- feedback: Incorrecto. Las plantas producen oxígeno durante el día mediante la fotosíntesis. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de la importancia ecológica y los servicios ecosistémicos de biomas locales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v8",
+      "statement": "¿Cuál es el papel fundamental de las bacterias fijadoras de nitrógeno que viven en las raíces de algunas plantas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descomponer la materia orgánica para liberar CO2. <!-- feedback: Incorrecto. Esa es función de los descomponedores en el ciclo del carbono. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Convertir el nitrógeno atmosférico (N2) en formas utilizables por las plantas (como amoníaco). <!-- feedback: Correcto. El N2 es inerte para la mayoría de los seres vivos; las bacterias lo \"fijan\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Realizar la fotosíntesis en ausencia de luz. <!-- feedback: Incorrecto. La fotosíntesis requiere luz; ellas realizan procesos químicos distintos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Proteger a la planta de todos los virus del suelo. <!-- feedback: Incorrecto. No tienen una función antiviral generalizada. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de las interacciones bióticas en los ciclos biogeoquímicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v9",
+      "statement": "En una cadena alimentaria del Parque Nacional Soberanía: Planta -> Saltamontes -> Pájaro -> Serpiente. Si se aplica un insecticida que elimina a los saltamontes, ¿cuál sería el efecto inmediato esperado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la población de serpientes. <!-- feedback: Incorrecto. Al faltar su alimento indirecto, las serpientes también se verían afectadas negativamente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Disminución de la población de plantas. <!-- feedback: Incorrecto. Al no haber herbívoros (saltamontes), las plantas podrían aumentar su biomasa inicialmente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Disminución de la población de pájaros. <!-- feedback: Correcto. Los pájaros pierden su fuente directa de alimento. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los pájaros empezarán a comer serpientes. <!-- feedback: Incorrecto. Los roles tróficos no suelen cambiar de forma tan drástica e inmediata. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nPredicción de las consecuencias de la alteración de un eslabón en una cadena trófica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v10",
+      "statement": "La técnica que permite producir múltiples copias de un fragmento específico de ADN en el laboratorio se denomina:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clonación reproductiva <!-- feedback: Incorrecto. Esto busca crear un organismo completo idéntico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reacción en Cadena de la Polimerasa (PCR) <!-- feedback: Correcto. La PCR amplifica secuencias de ADN para su estudio o diagnóstico. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Terapia génica <!-- feedback: Incorrecto. Consiste en insertar genes sanos para curar enfermedades. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Electroforesis <!-- feedback: Incorrecto. Es una técnica para separar fragmentos de ADN por tamaño, no para copiarlos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de herramientas biotecnológicas modernas y sus aplicaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v11",
+      "statement": "Durante la replicación del ADN, una de las hebras se sintetiza de forma continua y la otra de forma discontinua (fragmentos de Okazaki). Esto ocurre porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula no tiene suficientes nucleótidos para ambas hebras. <!-- feedback: Incorrecto. No es una limitación de recursos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una hebra es más importante que la otra. <!-- feedback: Incorrecto. Ambas son necesarias para las células hijas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La enzima ADN polimerasa solo puede añadir nucleótidos en dirección 5' a 3'. <!-- feedback: Correcto. Debido a la naturaleza antiparalela del ADN, una hebra debe sintetizarse en sentido contrario al avance de la horquilla. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los fragmentos de Okazaki son errores que la célula debe corregir luego. <!-- feedback: Incorrecto. Son una parte normal y necesaria del proceso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de las limitaciones bioquímicas de las enzimas en los procesos de síntesis de ácidos nucleicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v12",
+      "statement": "Las vacunas de ARNm (como las usadas contra el COVID-19) funcionan proporcionando a las células las instrucciones para producir:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El virus completo pero debilitado. <!-- feedback: Incorrecto. Esto describe a las vacunas tradicionales de virus atenuado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una proteína específica del virus (proteína S) que desencadena la respuesta inmune. <!-- feedback: Correcto. El cuerpo produce la proteína y luego los anticuerpos contra ella sin haber estado en contacto con el virus real. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Antibióticos que destruyen la cápside viral. <!-- feedback: Incorrecto. Los antibióticos no actúan sobre virus. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Glóbulos blancos especializados llamados macrófagos. <!-- feedback: Incorrecto. La vacuna estimula a los que ya existen, no los \"produce\". -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de mecanismos biotecnológicos aplicados a la inmunización moderna.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v13",
+      "statement": "El daltonismo es una condición recesiva ligada al cromosoma X. Si una mujer portadora (X Xd) tiene hijos con un hombre de visión normal (X Y), ¿cuál es la probabilidad de que sus hijos varones sean daltónicos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% <!-- feedback: Incorrecto. La madre puede pasar el cromosoma afectado a sus hijos varones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25% <!-- feedback: Incorrecto. Esta sería la probabilidad considerando todos los hijos (hombres y mujeres) en conjunto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50% <!-- feedback: Correcto. Los varones reciben el Y del padre. Recibirán el X normal (50%) o el Xd afectado (50%) de la madre. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "100% <!-- feedback: Incorrecto. Solo ocurriría si la madre fuera daltónica (homocigota recesiva). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nResolución de problemas de genética no mendeliana enfocados en la determinación del sexo y rasgos ligados a cromosomas sexuales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v14",
+      "statement": "En las bacterias, el operón lac regula la producción de enzimas para digerir la lactosa. Si hay presencia de glucosa y lactosa en el medio, la bacteria preferirá metabolizar la glucosa. ¿Cuál es el mecanismo biológico detrás de esto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La glucosa destruye físicamente las enzimas de la lactosa. <!-- feedback: Incorrecto. Es un proceso de regulación genética, no de destrucción enzimática. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La lactosa se convierte en glucosa automáticamente fuera de la célula. <!-- feedback: Incorrecto. La digestión ocurre dentro o mediante enzimas secretadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Altos niveles de glucosa mantienen bajos los niveles de AMP cíclico (AMPc), impidiendo la activación máxima del operón lac. <!-- feedback: Correcto. Es un ejemplo de represión por catabolito. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La bacteria no puede detectar dos azúcares al mismo tiempo. <!-- feedback: Incorrecto. Los detecta y por eso prioriza el más eficiente energéticamente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de los sistemas de control y optimización metabólica en organismos procariontes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v15",
+      "statement": "¿Cuál es la función del oxígeno en la etapa final de la respiración celular aeróbica (cadena de transporte de electrones)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper la molécula de glucosa en el citoplasma. <!-- feedback: Incorrecto. Esto ocurre en la glucólisis y no requiere oxígeno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Producir dióxido de carbono en el Ciclo de Krebs. <!-- feedback: Incorrecto. El CO2 se produce antes de la cadena de transporte. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Actuar como el aceptador final de electrones para formar agua. <!-- feedback: Correcto. Sin oxígeno, la cadena se detiene y la producción masiva de ATP cesa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Transportar el piruvato hacia adentro de la mitocondria. <!-- feedback: Incorrecto. El piruvato entra por transporte activo, no mediado por O2 gaseoso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión detallada del rol de los reactivos químicos en los procesos bioenergéticos celulares.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v16",
+      "statement": "Una mutación en la que se inserta un solo nucleótido en una secuencia de ADN que codifica una proteína suele tener efectos más graves que una mutación en la que se sustituye un nucleótido por otro. ¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la inserción gasta más energía de la célula. <!-- feedback: Incorrecto. El gasto energético es irrelevante frente al impacto funcional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque la inserción altera el marco de lectura, cambiando todos los aminoácidos a partir del punto de mutación. <!-- feedback: Correcto. Es una mutación de \"corrimiento de pauta\". -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sustitución siempre es corregida por el ARN mensajero. <!-- feedback: Incorrecto. El ARNm no corrige el ADN; solo lo transcribe. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque las inserciones solo ocurren en genes que causan cáncer. <!-- feedback: Incorrecto. Las mutaciones pueden ocurrir en cualquier parte del genoma. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación del impacto funcional de diferentes tipos de alteraciones genéticas en la síntesis de proteínas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v17",
+      "statement": "Estudios recientes sugieren que el estrés extremo o la desnutrición en una generación pueden afectar la salud de los nietos, incluso si estos últimos crecen en condiciones óptimas. Este fenómeno se explica biológicamente por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambios en la secuencia de nucleótidos del ADN provocados por el pensamiento. <!-- feedback: Incorrecto. El ambiente no cambia la secuencia de bases nitrogenadas de esa forma. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Marcas epigenéticas que no se borraron totalmente durante la formación de los gametos y que regulan la expresión génica. <!-- feedback: Correcto. Es la herencia epigenética transgeneracional. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una maldición biológica que dura tres generaciones. <!-- feedback: Incorrecto. Explicación no científica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La teoría de Lamarck que ha sido probada como 100% correcta para todos los rasgos. <!-- feedback: Incorrecto. Si bien hay matices neo-lamarckistas en la epigenética, no invalida la genética clásica. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de mecanismos de regulación genética avanzada que trascienden la herencia mendeliana tradicional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v18",
+      "statement": "El \"Gran Intercambio Americano\" facilitado por el istmo de Panamá permitió el cruce de faunas. Si en la actualidad se perdiera la conectividad del corredor biológico mesoamericano en Panamá debido a la fragmentación del hábitat, ¿cuál sería la consecuencia evolutiva más probable a largo plazo para los grandes mamíferos terrestres?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento inmediato de la biodiversidad por aislamiento. <!-- feedback: Incorrecto. El aislamiento en poblaciones pequeñas suele llevar a la extinción o pérdida de variabilidad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que los animales aprendan a nadar a través del canal para encontrarse. <!-- feedback: Incorrecto. La adaptación conductual no compensa el aislamiento genético poblacional masivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una disminución de la variabilidad genética y un aumento de la endogamia, elevando el riesgo de extinción. <!-- feedback: Correcto. Las poblaciones aisladas pierden vigor genético. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La creación de una nueva especie de jaguar cada 10 años. <!-- feedback: Incorrecto. La especiación es un proceso mucho más lento. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de las consecuencias genéticas y evolutivas de la fragmentación de ecosistemas a gran escala.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v19",
+      "statement": "El exceso de CO2 atmosférico se disuelve en los océanos formando ácido carbónico. Este proceso reduce la concentración de iones carbonato disponibles. ¿Cuál es el impacto biológico más crítico para los arrecifes de coral del Caribe panameño?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se vuelve demasiado ácida para que los peces puedan respirar. <!-- feedback: Incorrecto. El cambio de pH afecta primero a la calcificación antes que a la respiración directa de los peces. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Los corales no pueden construir o mantener sus esqueletos de carbonato de calcio, debilitando la estructura de todo el ecosistema. <!-- feedback: Correcto. La acidificación dificulta la formación de cristales de aragonito/calcita. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Las algas crecen más rápido y asfixian a los corales. <!-- feedback: Incorrecto. Aunque ocurre por otras causas (eutrofización), no es el efecto químico directo de la falta de carbonatos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El CO2 disuelto hace que el agua hierva y queme a los pólipos. <!-- feedback: Incorrecto. Físicamente imposible en las condiciones planetarias. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de las interacciones químicas globales y su impacto específico en la fisiología de organismos marinos clave.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-CIE-11-P1-biologia-001-v20",
+      "statement": "La tecnología CRISPR permite editar el genoma de embriones humanos con precisión. Ante la posibilidad de eliminar enfermedades hereditarias versus la creación de \"humanos mejorados\", ¿cuál es el consenso ético principal que rige actualmente la investigación científica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se debe permitir todo cambio que aumente la inteligencia humana. <!-- feedback: Incorrecto. Existe un fuerte debate y restricción sobre mejoras no terapéuticas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Está prohibido usar CRISPR en cualquier organismo vivo. <!-- feedback: Incorrecto. Se usa ampliamente en plantas, animales y células somáticas humanas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se favorece su uso para terapia génica en células somáticas (no heredables), pero existe una moratoria global sobre cambios en la línea germinal (heredables) por riesgos imprevistos. <!-- feedback: Correcto. Refleja la precaución actual de la comunidad científica internacional. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Solo los gobiernos pueden decidir qué genes son \"buenos\" o \"malos\". <!-- feedback: Incorrecto. La ética científica es un campo multidisciplinario que trasciende decisiones gubernamentales unilaterales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nCapacidad de discernir y evaluar dilemas éticos complejos derivados del avance de las ciencias biológicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,22 +1,23 @@
 ---
-id: UNI-ENG-08-social-media-001
-country: global
-grado: 8
-asignatura: ingles
-tema: social-media
-periodo: 1
-cefr_level: A2+
-protocol_version: 3.1-GLOBAL
-total_questions: 10
-international_focus: Social Media / Etiquette / Privacy
-licenses:
-  v1-v10: CC BY-NC-SA 4.0
-creador: AI-WorldExams
-generation_date: '2026-01-10'
-source: World Exams Original
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "UNI-ENG-08-social-media-001"
+cefr_level: "A2+"
+country: "global"
+grado: "8"
+asignatura: "ingles"
+tema: "social-media"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Social Media / Etiquette / Privacy"
+licenses: ""
+v1-v10: "CC BY-NC-SA 4.0"
+creador: "AI-WorldExams"
+generation_date: "2026-01-10"
+source: "World Exams Original"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Social Media Awareness (Grade 8)
 
 > **Focus:** Privacy settings, likes vs reality, impacts on friendship.

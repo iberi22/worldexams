@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "espanol",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-11-subject-espanol",
+    "generated_at": "2026-06-01T17:05:46.758Z"
+  },
+  "questions": [
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v1",
+      "statement": "Lee el siguiente aviso: \"Línea 1 del Metro CDMX: Suspensión temporal del servicio entre Pantitlán y Salto del Agua por trabajos de mantenimiento\". ¿Cuál es la información principal del aviso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Línea 1 del Metro suspende parcialmente el servicio. <!-- feedback: Correcto. La idea principal es la suspensión temporal en un tramo de la Línea 1. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El metro de CDMX cerrará por completo el fin de semana. <!-- feedback: Incorrecto. Solo hay suspensión en un tramo específico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se realizarán trabajos de mantenimiento en Pantitlán. <!-- feedback: Incorrecto. Es información secundaria. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Salto del Agua permanecerá abierto toda la semana. <!-- feedback: Incorrecto. Contradice el aviso. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nIdentificar la idea central de un texto informativo breve, distinguiendo datos principales de secundarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v2",
+      "statement": "\"El ajolote mexicano es una especie endémica de los canales de Xochimilco, capaz de regenerar extremidades. Esta capacidad lo ha convertido en objeto de estudio científico mundial.\" Según el texto, ¿qué característica del ajolote es la más destacada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vive únicamente en Xochimilco. <!-- feedback: Incorrecto. Es información contextual, no la característica principal. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Puede regenerar partes de su cuerpo. <!-- feedback: Correcto. El texto enfatiza su capacidad de regeneración como lo más destacado. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Es estudiado solo en México. <!-- feedback: Incorrecto. El texto dice que es estudio mundial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es una especie en peligro de extinción. <!-- feedback: Incorrecto. El texto no menciona peligro de extinción. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de textos descriptivos e identificación de la característica principal del sujeto descrito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v3",
+      "statement": "\"Para solicitar una cita en el SAT: 1. Ingresa al portal. 2. Selecciona 'Cita'. 3. Elige la oficina. 4. Confirma el horario.\" ¿Cuál es el tercer paso del procedimiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingresar al portal. <!-- feedback: Incorrecto. Ese es el paso 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Confirmar el horario. <!-- feedback: Incorrecto. Ese es el paso 4. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Elegir la oficina. <!-- feedback: Correcto. El paso 3 es elegir la oficina. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Seleccionar 'Cita'. <!-- feedback: Incorrecto. Ese es el paso 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nSeguimiento secuencial de instrucciones en un procedimiento administrativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v4",
+      "statement": "\"El malecón de Veracruz recibió ayer a más de 10 mil visitantes durante el primer día del Carnaval. Autoridades reportaron saldo blanco y llamaron a mantener las medidas preventivas.\" ¿Qué significa \"saldo blanco\" en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no hubo incidentes graves ni lesiones. <!-- feedback: Correcto. \"Saldo blanco\" es una expresión periodística que indica cero víctimas o incidentes. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que las ventas fueron altas durante el carnaval. <!-- feedback: Incorrecto. Saldo blanco no se refiere a ventas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que el malecón se pintó de blanco. <!-- feedback: Incorrecto. Es una interpretación literal errónea. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que el clima fue soleado. <!-- feedback: Incorrecto. No se refiere al clima. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nInterpretación de expresiones idiomáticas y frases hechas en textos periodísticos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v5",
+      "statement": "Anuncio: \"Lánzate a la Feria de la Enchilada en Querétaro este fin. ¡El sabor tradicional que despierta tu alma!\" ¿Qué recurso persuasivo predomina en este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos. <!-- feedback: Incorrecto. No hay datos numéricos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Apelación emocional. <!-- feedback: Correcto. Usa \"despierta tu alma\" y \"sabor tradicional\" para evocar emociones. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Comparación con competidores. <!-- feedback: Incorrecto. No compara. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Testimonio de expertos. <!-- feedback: Incorrecto. No hay autoridad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de recursos retóricos y persuasivos en textos publicitarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v6",
+      "statement": "\"María encendió la vela y la colocó junto a la fotografía. Afuera, el viento aullaba mientras ella susurraba una oración. Las llamas titilaron cuando una corriente de aire se coló por la ventana.\" ¿Qué atmósfera crea principalmente el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De celebración y fiesta. <!-- feedback: Incorrecto. La escena no sugiere celebración. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "De misterio y recogimiento. <!-- feedback: Correcto. La vela, la fotografía, la oración y el viento crean una atmósfera íntima y misteriosa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "De acción y aventura. <!-- feedback: Incorrecto. No hay acción trepidante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "De comedia y alegría. <!-- feedback: Incorrecto. El tono es sereno, no cómico. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nInferencia de la atmósfera o tono de un texto narrativo a partir de elementos descriptivos y sensoriales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v7",
+      "statement": "\"La jornada escolar extendida en México ha demostrado mejorar los resultados en matemáticas. Según la SEP, las escuelas que implementan el programa reportan un aumento del 15% en aprovechamiento.\" ¿Qué tipo de argumento utiliza el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad y datos estadísticos. <!-- feedback: Correcto. Cita a la SEP (autoridad) y un dato porcentual. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Argumento emocional. <!-- feedback: Incorrecto. No apela a emociones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de causa y efecto sin evidencia. <!-- feedback: Incorrecto. Sí presenta evidencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Analogía con otros países. <!-- feedback: Incorrecto. No hay comparación con otros países. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nIdentificación de tipos de argumentos en un texto argumentativo formal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v8",
+      "statement": "\"La chinampa es un método agrícola mesoamericano que consiste en construir islas artificiales en lagos poco profundos. Este sistema, desarrollado por los mexicas, sigue usándose en Xochimilco.\" Según el texto, ¿cuál es la función principal de una chinampa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servir como vivienda. <!-- feedback: Incorrecto. Es un método agrícola. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cultivar alimentos en zonas lacustres. <!-- feedback: Correcto. Es un método agrícola en islas artificiales para cultivar. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Decorar los canales de Xochimilco. <!-- feedback: Incorrecto. La función es productiva, no decorativa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Purificar el agua de los lagos. <!-- feedback: Incorrecto. No se menciona purificación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de la función de un elemento cultural descrito en un texto expositivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v9",
+      "statement": "\"—¿Qué es la vida? —preguntó Juan. Su abuela sonrió y señaló el jardín. —Mira el agave, hijo. Crece despacio, almacena agua en sequía y al final florece solo una vez. Así es la vida.\" En el fragmento, el agave funciona como:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un personaje secundario. <!-- feedback: Incorrecto. El agave es un elemento simbólico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una metáfora de la vida. <!-- feedback: Correcto. La abuela compara el ciclo del agave con la vida humana. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un escenario donde ocurre la acción. <!-- feedback: Incorrecto. Es mencionado, no es el escenario. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un antagonista en la historia. <!-- feedback: Incorrecto. No hay conflicto. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de figuras retóricas y simbolismo en un texto literario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v10",
+      "statement": "\"El tequila es mucho más que una bebida: es patrimonio cultural de México. Su denominación de origen protege no solo el producto, sino el conocimiento de generaciones de jimadores.\" ¿Cuál es el propósito comunicativo principal del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar cómo se produce el tequila. <!-- feedback: Incorrecto. No describe el proceso. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Promover el consumo de tequila. <!-- feedback: Incorrecto. No llama al consumo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Destacar el valor cultural del tequila. <!-- feedback: Correcto. El texto enfatiza el patrimonio y la denominación de origen. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Criticar a quienes no valoran el tequila. <!-- feedback: Incorrecto. No hay crítica. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación del propósito comunicativo dominante en un texto de opinión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v11",
+      "statement": "\"Las becas Benito Juárez han reducido la deserción escolar en comunidades marginadas. Sin embargo, críticos señalan que el programa no resuelve la calidad educativa. ¿Cuál es la postura de los críticos?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las becas deben eliminarse. <!-- feedback: Incorrecto. No dicen que deban eliminarse. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El programa es insuficiente para mejorar la calidad. <!-- feedback: Correcto. La crítica es que las becas no resuelven el problema de calidad educativa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Las becas son innecesarias. <!-- feedback: Incorrecto. Contradice la reducción de deserción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las becas solo benefician a zonas urbanas. <!-- feedback: Incorrecto. Se enfoca en comunidades marginadas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de posturas contrarias en un texto que presenta múltiples perspectivas sobre un tema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v12",
+      "statement": "Un cartel sobre la Lotería Nacional muestra una calavera de azúcar con el texto: \"La muerte es el último sorteo, y todos tenemos boleto\". ¿Qué relación existe entre la imagen y el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imagen contradice al texto. <!-- feedback: Incorrecto. Hay coherencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ambos abordan la muerte desde una perspectiva festiva y cultural. <!-- feedback: Correcto. La calavera de azúcar y el texto humorístico-fatalista se complementan. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La imagen representa pobreza y el texto crítica social. <!-- feedback: Incorrecto. No hay crítica social directa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay relación entre imagen y texto. <!-- feedback: Incorrecto. Hay una relación temática clara. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nInterpretación de textos multimodales donde imagen y texto se complementan para transmitir un mensaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v13",
+      "statement": "\"La contaminación en el Valle de México alcanzó niveles críticos. La CAMe activó la Fase 1 de contingencia. 'Es la peor calidad del aire en cinco años', declaró la Secretaría del Medio Ambiente.\" ¿Qué evidencia concreta respalda la activación de la contingencia ambiental?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión del reportero. <!-- feedback: Incorrecto. No es opinión. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La declaración oficial y el nivel crítico reportado. <!-- feedback: Correcto. La Secretaría declara el nivel y la CAMe activa la fase basada en mediciones. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los años anteriores de contaminación. <!-- feedback: Incorrecto. Menciona los 5 años como referencia, no como evidencia para activar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de autos circulando. <!-- feedback: Incorrecto. No se menciona. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nEvaluación de la evidencia que respalda afirmaciones en una noticia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v14",
+      "statement": "\"Artículo 4° de la Constitución: Toda persona tiene derecho a la protección de la salud.\" ¿Qué tipo de enunciado predomina en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enunciativo descriptivo. <!-- feedback: Incorrecto. No describe un hecho, establece un derecho. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enunciativo normativo. <!-- feedback: Correcto. Es un artículo constitucional que establece un derecho con carácter normativo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Enunciativo narrativo. <!-- feedback: Incorrecto. No narra una historia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Enunciativo exclamativo. <!-- feedback: Incorrecto. No expresa emoción. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de tipos de enunciados según la intención comunicativa, en particular el lenguaje normativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v15",
+      "statement": "¿Cuál de las siguientes oraciones funcionaría mejor como tesis central para un ensayo sobre el impacto del teletrabajo en México?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El teletrabajo existe en muchos países. <!-- feedback: Incorrecto. Es demasiado general y no plantea una postura. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El teletrabajo transformó las dinámicas laborales en México, pero amplió la brecha digital en zonas rurales. <!-- feedback: Correcto. Presenta una postura clara y delimita el alcance del análisis. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El teletrabajo es bueno o malo. <!-- feedback: Incorrecto. Es binario y simplista. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Yo trabajo desde casa los lunes. <!-- feedback: Incorrecto. Es anecdótico, no una tesis argumentativa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvaluación de la calidad y pertinencia de una tesis para un texto argumentativo formal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v16",
+      "statement": "\"Algunos sostienen que las humanidades son irrelevantes en la era tecnológica. Sin embargo, el pensamiento crítico, la ética y la creatividad —formados por las humanidades— son hoy las competencias más demandadas por empresas como Google y Apple.\" ¿Qué falacia o debilidad tiene la primera postura citada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un argumento de autoridad sin fuente. <!-- feedback: Incorrecto. La debilidad no es esa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Es una falsa dicotomía entre tecnología y humanidades. <!-- feedback: Correcto. Plantea que son excluyentes cuando en realidad se complementan. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Es una generalización apresurada. <!-- feedback: Incorrecto. No generaliza sobre un grupo pequeño. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es una petición de principio. <!-- feedback: Incorrecto. No asume lo que quiere probar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de falacias lógicas en argumentos complejos, específicamente falsas dicotomías.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v17",
+      "statement": "\"Texto 1: 'La reforma educativa de 2019 prioriza la excelencia académica sobre la cobertura.' Texto 2: 'Sin cobertura universal, la excelencia es un privilegio, no un derecho.' ¿Cuál es el punto central del desacuerdo?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si la reforma existe o no. <!-- feedback: Incorrecto. Ambos aceptan que existe. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Si debe priorizarse la calidad sobre la cobertura o viceversa. <!-- feedback: Correcto. El debate es sobre la prioridad entre excelencia y cobertura. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Si la educación es un derecho. <!-- feedback: Incorrecto. Ambos parecen asumir que lo es. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Si la reforma es constitucional. <!-- feedback: Incorrecto. No se menciona constitucionalidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nSíntesis de posturas opuestas para identificar el punto de divergencia fundamental en un debate.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v18",
+      "statement": "\"Octavio Paz escribió: 'El mexicano es un ser que se niega a sí mismo y se recrea en la máscara.' Samuel Ramos, antes que él, describió al mexicano como un ser con 'sentimiento de inferioridad'. ¿Qué relación existe entre ambas afirmaciones?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se contradiccen completamente. <!-- feedback: Incorrecto. Ambas describen complejidades de la identidad mexicana. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La idea de la máscara de Paz desarrolla la noción de inferioridad de Ramos. <!-- feedback: Correcto. La máscara sería el mecanismo psicológico para ocultar la inferioridad descrita por Ramos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "No tienen relación porque pertenecen a décadas distintas. <!-- feedback: Incorrecto. La distancia temporal no invalida la relación temática. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Paz critica directamente a Ramos. <!-- feedback: Incorrecto. No hay crítica directa. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEstablecimiento de relaciones intertextuales entre autores que abordan un mismo tema desde distintas perspectivas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v19",
+      "statement": "Un político dice: \"Mi oponente quiere eliminar los fideicomisos culturales. Y entonces, ¿qué pasará con nuestras tradiciones? ¿Con el cine mexicano? ¿Con las artesanías? El pueblo debe decidir si quiere un país sin alma.\" ¿Qué recurso retórico predomina en su discurso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía. <!-- feedback: Incorrecto. No hay ironía. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Preguntas retóricas en cadena. <!-- feedback: Correcto. Utiliza una serie de preguntas retóricas para generar emociones y evadir un argumento directo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Analogía histórica. <!-- feedback: Incorrecto. No compara con eventos pasados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Definición formal. <!-- feedback: Incorrecto. No define conceptos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nIdentificación y análisis de recursos retóricos en el discurso político, en particular el uso de preguntas retóricas como estrategia de persuasión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-ESP-11-P1-analisis-001-v20",
+      "statement": "Después de leer un cuento donde un personaje abandona su pueblo para buscar trabajo en la ciudad, y más tarde regresa transformado, ¿cuál sería la interpretación más completa del desenlace?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El personaje fracasó en la ciudad y regresó derrotado. <!-- feedback: Incorrecto. Es una interpretación literal que ignora la transformación. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El personaje muestra que siempre es mejor quedarse en casa. <!-- feedback: Incorrecto. Simplifica el mensaje. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El viaje transforma al personaje, y su regreso simboliza que el cambio ocurre dentro de uno, no en el lugar. <!-- feedback: Correcto. Aborda la dimensión simbólica del viaje de ida y vuelta como proceso de transformación. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El pueblo cambió mientras él estaba fuera. <!-- feedback: Incorrecto. Se enfoca en el entorno en lugar del personaje. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nInterpretación simbólica y análisis del desenlace de un texto narrativo, integrando elementos temáticos y estructurales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-ESP-11-P1-analisis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 ---
 id: "CO-ING-11-part7-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "grammar-cloze-complex"
-
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "Jules"
 generation_date: "2025-12-14"
@@ -13,14 +14,14 @@ source: "WWF Columbia"
 source_url: "https://www.wwf.org.co/"
 search_query: "andean bear facts for english students"
 source_license: "CC BY-SA 4.0"
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2: "CC BY-NC-SA 4.0"
-  v3: "CC BY-NC-SA 4.0"
-  v4: "CC BY-NC-SA 4.0"
-  v5: "CC BY-NC-SA 4.0"
-  v6: "CC BY-NC-SA 4.0"
-  v7: "CC BY-NC-SA 4.0"
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2: "CC BY-NC-SA 4.0"
+v3: "CC BY-NC-SA 4.0"
+v4: "CC BY-NC-SA 4.0"
+v5: "CC BY-NC-SA 4.0"
+v6: "CC BY-NC-SA 4.0"
+v7: "CC BY-NC-SA 4.0"
 ---
 
 # === METADATA GLOBAL ===
