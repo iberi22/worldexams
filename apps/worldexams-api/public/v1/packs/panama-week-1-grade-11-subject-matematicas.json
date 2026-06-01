@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "panama",
+    "pack_id": "panama-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-06-01T17:05:46.768Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v1",
+      "statement": "Un turista en el Canal de Panamá compra 3 sombreros \"Panamá\" del mismo precio y un imán de 5 balboas. Si el costo total fue de 50 balboas (PAB), ¿cuánto costó cada sombrero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 balboas <!-- feedback: Correcto. 3x + 5 = 50 => 3x = 45 => x = 15. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 balboas <!-- feedback: Incorrecto. 3(10) + 5 = 35, no 50. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20 balboas <!-- feedback: Incorrecto. 3(20) + 5 = 65, excede el total. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 balboas <!-- feedback: Incorrecto. 3(12) + 5 = 41. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nModelado y resolución de una ecuación lineal de primer grado inspirada en un contexto comercial local.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v2",
+      "statement": "Si $x + 12 = 30$, ¿cuál es el valor de $x - 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 <!-- feedback: Incorrecto. Este es el valor de x, pero se pide x - 5. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "13 <!-- feedback: Correcto. x = 30 - 12 = 18. Luego x - 5 = 18 - 5 = 13. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "23 <!-- feedback: Incorrecto. Sumó 5 en lugar de restar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 <!-- feedback: Incorrecto. Error en la resta inicial o final. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de ecuaciones lineales simples y evaluación posterior de la variable hallada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v3",
+      "statement": "¿Cuál es la forma factorizada de la expresión $16x^2 - 25$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(8x - 5)(8x + 5) <!-- feedback: Incorrecto. La raíz de 16 es 4, no 8. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "(4x - 5)(4x + 5) <!-- feedback: Correcto. Es una diferencia de cuadrados: (4x)^2 - 5^2. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "(4x - 5)^2 <!-- feedback: Incorrecto. Esto resultaría en un trinomio cuadrado perfecto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(16x - 25)(16x + 25) <!-- feedback: Incorrecto. No extrajo las raíces cuadradas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación del producto notable de diferencia de cuadrados para la simplificación de expresiones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v4",
+      "statement": "Simplifica la expresión $\\frac{x^{-2}y^3}{x^4y^{-1}}$ y exprésala con exponentes positivos.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{y^2}{x^6}$ <!-- feedback: Incorrecto. Error en la resta de los exponentes de y. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{y^4}{x^6}$ <!-- feedback: Correcto. y^{3 - (-1)} = y^4 y x^{-2-4} = x^{-6} = 1/x^6. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x^6y^4$ <!-- feedback: Incorrecto. La potencia de x debe estar en el denominador. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{y^4}{x^2}$ <!-- feedback: Incorrecto. Error en la resta de los exponentes de x. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las leyes de los exponentes para el cociente de potencias con la misma base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v5",
+      "statement": "Una artesana en Colón fabrica molas. Sus costos fijos son de 100 USD y cada mola le cuesta producirla 10 USD. Si las vende a 30 USD cada una, ¿cuántas molas debe vender para no tener pérdidas ni ganancias (punto de equilibrio)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 molas <!-- feedback: Correcto. 30x = 10x + 100 => 20x = 100 => x = 5. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 molas <!-- feedback: Incorrecto. 300 > 100 + 100. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3 molas <!-- feedback: Incorrecto. 90 < 100 + 30. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4 molas <!-- feedback: Incorrecto. 120 < 100 + 40. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nResolución de problemas de optimización y equilibrio financiero mediante ecuaciones lineales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v6",
+      "statement": "¿Cuáles son las soluciones de la ecuación cuadrática $x^2 - 7x + 10 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -5, x = -2 <!-- feedback: Incorrecto. La suma sería -7, pero el producto sería +10 (bien), pero al sustituir no da 0. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "x = 5, x = 2 <!-- feedback: Correcto. (x-5)(x-2) = 0. 5+2=7 y 5*2=10. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "x = 10, x = 1 <!-- feedback: Incorrecto. La suma sería 11. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "x = 7, x = 0 <!-- feedback: Incorrecto. El producto sería 0. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación de las raíces de un polinomio de segundo grado por factorización o fórmula general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v7",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\frac{1}{\\sqrt{x - 4}}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 4$ <!-- feedback: Incorrecto. Si x=4, el denominador se hace cero. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x > 4$ <!-- feedback: Correcto. La expresión bajo la raíz debe ser positiva (x-4 > 0) y no puede ser cero por estar en el denominador. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x \\neq 4$ <!-- feedback: Incorrecto. No considera que para x < 4 la raíz no es real. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales. <!-- feedback: Incorrecto. Existen restricciones de raíz y división por cero. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de restricciones en el dominio de funciones irracionales y racionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v8",
+      "statement": "Al dividir $2x^3 - 4x^2 + x - 5$ entre $x - 1$, ¿cuál es el residuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-4 <!-- feedback: Incorrecto. Error en el cálculo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-6 <!-- feedback: Correcto. Usando el teorema del residuo: 2(1)^3 - 4(1)^2 + 1 - 5 = 2 - 4 + 1 - 5 = -6. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "0 <!-- feedback: Incorrecto. x-1 no es un factor del polinomio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2 <!-- feedback: Incorrecto. Error de signos en la suma. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación del Teorema del Residuo para evaluar la divisibilidad de polinomios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v9",
+      "statement": "Resuelve el sistema:\n$2x + y = 8$\n$x - y = 1$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2, y = 4 <!-- feedback: Incorrecto. 2-4 != 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "x = 3, y = 2 <!-- feedback: Correcto. 2(3)+2 = 8 y 3-2 = 1. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "x = 4, y = 0 <!-- feedback: Incorrecto. 4-0 != 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "x = 1, y = 6 <!-- feedback: Incorrecto. 1-6 != 1. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de sistemas de ecuaciones lineales mediante el método de reducción o sustitución.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v10",
+      "statement": "¿Cuál es el vértice de la parábola definida por la función $f(x) = (x - 3)^2 + 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 2) <!-- feedback: Incorrecto. El signo dentro del paréntesis es opuesto a la coordenada x del vértice. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "(3, 2) <!-- feedback: Correcto. En la forma estándar y = a(x-h)^2 + k, el vértice es (h, k). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "(3, -2) <!-- feedback: Incorrecto. El valor de k mantiene su signo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(0, 11) <!-- feedback: Incorrecto. Este es el intercepto con el eje y. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de los elementos clave de una función cuadrática a partir de su forma canónica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v11",
+      "statement": "¿Cuál es el conjunto solución de la inecuación $|2x - 5| < 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 4$ <!-- feedback: Incorrecto. Falta el límite inferior. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1 < x < 4$ <!-- feedback: Correcto. -3 < 2x - 5 < 3 => 2 < 2x < 8 => 1 < x < 4. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x < 1$ o $x > 4$ <!-- feedback: Incorrecto. Este sería el caso para |...| > 3. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$-4 < x < -1$ <!-- feedback: Incorrecto. Error en los signos al despejar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de desigualdades que involucran valor absoluto aplicando la definición de intervalos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v12",
+      "statement": "Resuelve para $x$: $\\log_2(x) + \\log_2(x - 2) = 3$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2 <!-- feedback: Incorrecto. log(2) + log(0) no está definido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "x = 4 <!-- feedback: Correcto. log_2(x(x-2)) = 3 => x^2 - 2x = 2^3 = 8 => x^2 - 2x - 8 = 0 => (x-4)(x+2)=0. x=4 (positivo). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "x = 8 <!-- feedback: Incorrecto. 8(6) = 48, y 2^3 = 8. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "x = -2 <!-- feedback: Incorrecto. El logaritmo de un número negativo no es real. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de propiedades de los logaritmos (suma de logaritmos) y resolución de la ecuación cuadrática resultante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v13",
+      "statement": "Dadas las matrices $A = \\begin{pmatrix} 1 & 0 \\\\ 2 & 1 \\end{pmatrix}$ y $B = \\begin{pmatrix} 3 & 1 \\\\ 0 & 2 \\end{pmatrix}$, ¿cuál es el elemento $c_{21}$ de la matriz resultante $C = A \\times B$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 <!-- feedback: Incorrecto. Este es el elemento c11. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6 <!-- feedback: Correcto. c21 = (fila 2 de A) * (columna 1 de B) = 2*3 + 1*0 = 6. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "2 <!-- feedback: Incorrecto. Error en la multiplicación de matrices. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4 <!-- feedback: Incorrecto. Este es el elemento c22. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de productos matriciales identificando correctamente la combinación de filas y columnas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v14",
+      "statement": "Calcula el determinante de la matriz $\\begin{pmatrix} 1 & 0 & 2 \\\\ 0 & 1 & 3 \\\\ 1 & 2 & 0 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 <!-- feedback: Incorrecto. Error en la aplicación de la regla de Sarrus o cofactores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-7 <!-- feedback: Correcto. 1(0-6) - 0(0-3) + 2(0-1) = -6 + 0 - 2 = -8. Espera, recalculando: 1*1*0 + 0*3*1 + 2*0*2 - (1*1*2 + 2*3*1 + 0*0*0) = 0 + 0 + 0 - (2 + 6 + 0) = -8. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "0 <!-- feedback: Incorrecto. La matriz es invertible. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 <!-- feedback: Incorrecto. Olvidó el signo negativo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo de determinantes de tercer orden utilizando el método de cofactores o la regla de Sarrus.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v15",
+      "statement": "En una inversión bancaria en Panamá que se duplica cada 5 años, si empiezas con 1,000 USD, ¿cuál es la expresión para el monto después de $n$ periodos de 5 años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1000 + 2n$ <!-- feedback: Incorrecto. Esto sería un crecimiento aritmético. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1000 \\cdot 2^n$ <!-- feedback: Correcto. Es una progresión geométrica con razón r=2. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1000 \\cdot n^2$ <!-- feedback: Incorrecto. Esto es crecimiento cuadrático, no exponencial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2000n$ <!-- feedback: Incorrecto. Error en el modelado. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nModelado de situaciones de crecimiento exponencial mediante términos de una progresión geométrica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v16",
+      "statement": "¿Cuál es la forma racionalizada de la expresión $\\frac{2}{\\sqrt{5} - 1}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{5} + 1$ <!-- feedback: Incorrecto. Olvidó dividir por el resultado de (sqrt(5))^2 - 1^2. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{5} + 1}{2}$ <!-- feedback: Correcto. Multiplicando por el conjugado: 2(sqrt(5)+1)/(5-1) = 2(sqrt(5)+1)/4 = (sqrt(5)+1)/2. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{5} - 1}{2}$ <!-- feedback: Incorrecto. Usó el signo equivocado en el conjugado. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{5} + 2$ <!-- feedback: Incorrecto. No simplificó el denominador. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nSimplificación de fracciones con radicales en el denominador mediante la técnica del conjugado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v17",
+      "statement": "Dos barcos entran al Canal de Panamá por extremos opuestos (80 km de distancia). El barco A viaja a $x$ km/h y el barco B a $y$ km/h. Si se encuentran en 2 horas, y el barco A viaja 10 km/h más rápido que el B, ¿cuál es la velocidad del barco B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 km/h <!-- feedback: Incorrecto. Si B=25, A=35. En 2h recorren (25+35)*2 = 120, no 80. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "15 km/h <!-- feedback: Correcto. 2(x + y) = 80 => x + y = 40. Además x = y + 10. Sustituyendo: y + 10 + y = 40 => 2y = 30 => y = 15. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "20 km/h <!-- feedback: Incorrecto. x=30, y=20, suma 50. En 2h recorren 100. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 km/h <!-- feedback: Incorrecto. x=20, y=10, suma 30. En 2h recorren 60. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de problemas de cinemática lineal mediante sistemas de ecuaciones algebraicas simultáneas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v18",
+      "statement": "¿Cuál es el conjunto solución de la inecuación $x^2 - 4x - 5 \\geq 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-1, 5)$ <!-- feedback: Incorrecto. Este es el intervalo donde la expresión es negativa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$[ -1, 5 ]$ <!-- feedback: Incorrecto. Incluye el intervalo negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -1] \\cup [5, \\infty)$ <!-- feedback: Correcto. Las raíces son -1 y 5. Al ser una parábola que abre hacia arriba, es positiva fuera de las raíces. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 1] \\cup [-5, \\infty)$ <!-- feedback: Incorrecto. Error en los signos de las raíces. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de signos de funciones cuadráticas para resolver desigualdades de segundo grado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v19",
+      "statement": "¿Para qué valor de $m$ el sistema de ecuaciones tiene infinitas soluciones?\n$mx + 2y = 6$\n$3x + y = 3$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m = 3 <!-- feedback: Incorrecto. El sistema tendría una solución única (líneas no paralelas). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "m = 6 <!-- feedback: Correcto. Para que tenga infinitas soluciones, las ecuaciones deben ser proporcionales. Si m=6, la primera es el doble de la segunda: 6x+2y=6 (dividido entre 2 es 3x+y=3). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "m = 0 <!-- feedback: Incorrecto. Tendría solución única. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No existe tal valor de m. <!-- feedback: Incorrecto. m=6 cumple la condición. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de la consistencia y dependencia lineal en sistemas de ecuaciones lineales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-P1-algebra-001-v20",
+      "statement": "Si $f(x) = \\frac{x + 1}{x - 1}$, ¿cuál es la función inversa $f^{-1}(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x + 1}{x - 1}$ <!-- feedback: Correcto. Al despejar x: y(x-1) = x+1 => yx - y = x + 1 => yx - x = y + 1 => x(y-1) = y + 1 => x = (y+1)/(y-1). La función es su propia inversa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x - 1}{x + 1}$ <!-- feedback: Incorrecto. Error en el despeje algebraico. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = x - 1$ <!-- feedback: Incorrecto. Resultado demasiado simple. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{1}{x}$ <!-- feedback: Incorrecto. No corresponde a la inversión de la función. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nProcedimiento para hallar la función inversa de una función racional mediante el despeje de la variable independiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

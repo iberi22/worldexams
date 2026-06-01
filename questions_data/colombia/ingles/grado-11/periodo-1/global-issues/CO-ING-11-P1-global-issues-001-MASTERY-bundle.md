@@ -1,21 +1,22 @@
 ---
 id: "CO-ING-11-P1-global-issues-001-MASTERY"
+cefr_level: "B1-B2"
 country: "colombia"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "global-issues"
+periodo: "1"
 protocol_version: "5.1"
-bundle_size: 20
+bundle_size: "20"
 alignment: "ICFES Saber 11 + MEN"
 target_cefr: "B1-B2"
-periodo: 1
-bundle_index: 1
-modern_context: true
+bundle_index: "1"
+modern_context: "true"
 distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.55
-  discrimination_index_target: ">= 0.25"
-  simulated_responses: 100
+calibration: ""
+expected_success_rate: "0.55"
+discrimination_index_target: ">= 0.25"
+simulated_responses: "100"
 rubric_baseline: "reading_comprehension, inferential_lexicon, pragmatics"
 ---
 
@@ -164,6 +165,16 @@ The emerging movement of "sustainable fashion" seeks to combat this. It emphasiz
 **ICFES:** Reading Comprehension (Literal)
 **Expected_Success:** 0.45
 
+### Contexto
+**The Fast Fashion Dilemma**
+Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
+
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
+
+Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
+
+The emerging movement of "sustainable fashion" seeks to combat this. It emphasizes buying fewer, higher-quality items, thrifting, and supporting brands that guarantee ethical labor practices and use organic or recycled materials. Yet, the question remains: can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?
+
 ### Enunciado
 According to the first paragraph, what is the primary business advantage of the "fast fashion" model?
 
@@ -186,6 +197,16 @@ This tests scanning for specific information. The student must link "rapid produ
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension (Inferential)
 **Expected_Success:** 0.40
+
+### Contexto
+**The Fast Fashion Dilemma**
+Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
+
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
+
+Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
+
+The emerging movement of "sustainable fashion" seeks to combat this. It emphasizes buying fewer, higher-quality items, thrifting, and supporting brands that guarantee ethical labor practices and use organic or recycled materials. Yet, the question remains: can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?
 
 ### Enunciado
 In paragraph 2, the author uses the phrase "democratizing style" to suggest that:
@@ -210,6 +231,16 @@ Students must move beyond the political definition of "democracy" to understand 
 **ICFES:** Reading Comprehension (Cause & Effect)
 **Expected_Success:** 0.35
 
+### Contexto
+**The Fast Fashion Dilemma**
+Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
+
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
+
+Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
+
+The emerging movement of "sustainable fashion" seeks to combat this. It emphasizes buying fewer, higher-quality items, thrifting, and supporting brands that guarantee ethical labor practices and use organic or recycled materials. Yet, the question remains: can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?
+
 ### Enunciado
 Based on the text, what is the direct cause of the massive shedding of microplastics into the oceans?
 
@@ -233,6 +264,16 @@ This requires careful reading of paragraph 3, tracing the chain of events from s
 **ICFES:** Reading Comprehension (Author's Purpose)
 **Expected_Success:** 0.30
 
+### Contexto
+**The Fast Fashion Dilemma**
+Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
+
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
+
+Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
+
+The emerging movement of "sustainable fashion" seeks to combat this. It emphasizes buying fewer, higher-quality items, thrifting, and supporting brands that guarantee ethical labor practices and use organic or recycled materials. Yet, the question remains: can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?
+
 ### Enunciado
 What is the author's primary purpose in writing this article?
 
@@ -255,6 +296,16 @@ Students must recognize the essay's structure: it concedes a minor point (clothe
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension (Inferential)
 **Expected_Success:** 0.28
+
+### Contexto
+**The Fast Fashion Dilemma**
+Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
+
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
+
+Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
+
+The emerging movement of "sustainable fashion" seeks to combat this. It emphasizes buying fewer, higher-quality items, thrifting, and supporting brands that guarantee ethical labor practices and use organic or recycled materials. Yet, the question remains: can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?
 
 ### Enunciado
 The final sentence of the text asks: *"can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?"*
@@ -290,6 +341,12 @@ __(12)__, critics warn of significant risks. There are profound concerns about d
 **ICFES:** Structural & Lexical Cloze
 **Expected_Success:** 0.35
 
+### Contexto
+**The Rise of Artificial Intelligence in Education**
+Artificial Intelligence (AI) is rapidly transforming classrooms worldwide. Proponents argue that AI can provide personalized tutoring, adapting instantly to a student's __(11)__ pace. Furthermore, automated grading systems can relieve teachers of tedious administrative work, allowing them to focus more passionately on interactive pedagogy.
+
+__(12)__, critics warn of significant risks. There are profound concerns about data privacy and the potential for algorithms to inherit human biases. If an AI system is trained on historically flawed data, it might unintentionally __(13)__ discrimination against minority students. Moreover, relying too heavily on screens could diminish the crucial socialization skills that children develop through human-to-human interaction. Ultimately, integrating AI into schools __(14)__ careful ethical oversight. We must ensure that technology serves as a tool to enhance human empathy, rather than an independent entity that __(15)__ human judgment.
+
 ### Enunciado
 Select the best word for blank (11):
 "adapting instantly to a student's __(11)__ pace."
@@ -310,6 +367,12 @@ Select the best word for blank (11):
 **Bloom:** Analyze
 **ICFES:** Structural & Lexical Cloze
 **Expected_Success:** 0.40
+
+### Contexto
+**The Rise of Artificial Intelligence in Education**
+Artificial Intelligence (AI) is rapidly transforming classrooms worldwide. Proponents argue that AI can provide personalized tutoring, adapting instantly to a student's __(11)__ pace. Furthermore, automated grading systems can relieve teachers of tedious administrative work, allowing them to focus more passionately on interactive pedagogy.
+
+__(12)__, critics warn of significant risks. There are profound concerns about data privacy and the potential for algorithms to inherit human biases. If an AI system is trained on historically flawed data, it might unintentionally __(13)__ discrimination against minority students. Moreover, relying too heavily on screens could diminish the crucial socialization skills that children develop through human-to-human interaction. Ultimately, integrating AI into schools __(14)__ careful ethical oversight. We must ensure that technology serves as a tool to enhance human empathy, rather than an independent entity that __(15)__ human judgment.
 
 ### Enunciado
 Select the best transition word for blank (12):
@@ -332,6 +395,12 @@ Select the best transition word for blank (12):
 **ICFES:** Structural & Lexical Cloze
 **Expected_Success:** 0.30
 
+### Contexto
+**The Rise of Artificial Intelligence in Education**
+Artificial Intelligence (AI) is rapidly transforming classrooms worldwide. Proponents argue that AI can provide personalized tutoring, adapting instantly to a student's __(11)__ pace. Furthermore, automated grading systems can relieve teachers of tedious administrative work, allowing them to focus more passionately on interactive pedagogy.
+
+__(12)__, critics warn of significant risks. There are profound concerns about data privacy and the potential for algorithms to inherit human biases. If an AI system is trained on historically flawed data, it might unintentionally __(13)__ discrimination against minority students. Moreover, relying too heavily on screens could diminish the crucial socialization skills that children develop through human-to-human interaction. Ultimately, integrating AI into schools __(14)__ careful ethical oversight. We must ensure that technology serves as a tool to enhance human empathy, rather than an independent entity that __(15)__ human judgment.
+
 ### Enunciado
 Select the best word for blank (13):
 "it might unintentionally __(13)__ discrimination against minority students."
@@ -353,6 +422,12 @@ Select the best word for blank (13):
 **ICFES:** Structural & Lexical Cloze
 **Expected_Success:** 0.25
 
+### Contexto
+**The Rise of Artificial Intelligence in Education**
+Artificial Intelligence (AI) is rapidly transforming classrooms worldwide. Proponents argue that AI can provide personalized tutoring, adapting instantly to a student's __(11)__ pace. Furthermore, automated grading systems can relieve teachers of tedious administrative work, allowing them to focus more passionately on interactive pedagogy.
+
+__(12)__, critics warn of significant risks. There are profound concerns about data privacy and the potential for algorithms to inherit human biases. If an AI system is trained on historically flawed data, it might unintentionally __(13)__ discrimination against minority students. Moreover, relying too heavily on screens could diminish the crucial socialization skills that children develop through human-to-human interaction. Ultimately, integrating AI into schools __(14)__ careful ethical oversight. We must ensure that technology serves as a tool to enhance human empathy, rather than an independent entity that __(15)__ human judgment.
+
 ### Enunciado
 Select the best word for blank (14):
 "Ultimately, integrating AI into schools __(14)__ careful ethical oversight."
@@ -373,6 +448,12 @@ Select the best word for blank (14):
 **Bloom:** Evaluate
 **ICFES:** Structural & Lexical Cloze
 **Expected_Success:** 0.20
+
+### Contexto
+**The Rise of Artificial Intelligence in Education**
+Artificial Intelligence (AI) is rapidly transforming classrooms worldwide. Proponents argue that AI can provide personalized tutoring, adapting instantly to a student's __(11)__ pace. Furthermore, automated grading systems can relieve teachers of tedious administrative work, allowing them to focus more passionately on interactive pedagogy.
+
+__(12)__, critics warn of significant risks. There are profound concerns about data privacy and the potential for algorithms to inherit human biases. If an AI system is trained on historically flawed data, it might unintentionally __(13)__ discrimination against minority students. Moreover, relying too heavily on screens could diminish the crucial socialization skills that children develop through human-to-human interaction. Ultimately, integrating AI into schools __(14)__ careful ethical oversight. We must ensure that technology serves as a tool to enhance human empathy, rather than an independent entity that __(15)__ human judgment.
 
 ### Enunciado
 Select the best phrase for blank (15):

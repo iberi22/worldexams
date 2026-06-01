@@ -1,21 +1,21 @@
 ---
-id: UNI-ENG-11-resource-management-001
-country: global
-grado: 11
-asignatura: ingles
-tema: resource-management
-cefr_level: B2+
-protocol_version: 3.1-GLOBAL
-periodo: 1
-total_questions: 10
-international_focus: Energy policy / Circular Economy
-licenses:
-  v1-v10: CC BY-NC-SA 4.0
-creador: AI-WorldExams
-generation_date: '2026-01-10'
-source: World Exams Original
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "UNI-ENG-11-resource-management-001"
+cefr_level: "B2+"
+country: "global"
+grado: "11"
+asignatura: "ingles"
+tema: "resource-management"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+international_focus: "Energy policy / Circular Economy"
+licenses: ""
+v1-v10: "CC BY-NC-SA 4.0"
+creador: "AI-WorldExams"
+generation_date: "2026-01-10"
+source: "World Exams Original"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
 
 # Topic: Resource Management & Circular Economy (B2+)

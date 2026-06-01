@@ -1,0 +1,5451 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-ingles",
+    "generated_at": "2026-05-29T20:57:31.550Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-07-daily-routines-001-v1",
+      "statement": "**What do you do when you open your eyes in the morning?**\r\n*¿Qué haces cuando abres los ojos en la mañana?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to sleep *(Ir a dormir)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Wake up *(Despertarse)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Have dinner *(Cenar)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Do homework *(Hacer tarea)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**Wake up** = open your eyes, stop sleeping. Different from \"get up\" (leave bed).\r\n*Wake up = abrir los ojos, dejar de dormir. Diferente de \"get up\" (levantarse de la cama).*\r\n\r\n**Morning Routine Vocabulary / Vocabulario de Rutina Matutina:**\r\n| English | Español |\r\n|---------|---------|\r\n| Wake up | Despertarse |\r\n| Get up | Levantarse |\r\n| Brush teeth | Cepillarse los dientes |\r\n| Take a shower | Ducharse |\r\n| Get dressed | Vestirse |\r\n| Have breakfast | Desayunar |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v2",
+      "statement": "**Sign at school:** \"Class starts at 7:30 AM. Please arrive 10 minutes early.\"\r\r\n**What time should you arrive?** *¿A qué hora deberías llegar?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7:30 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "7:20 AM",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "8:00 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7:00 AM",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n7:30 - 10 minutes = 7:20 AM. \"Arrive early\" = before the start time.\r\n*7:30 - 10 minutos = 7:20 AM. \"Arrive early\" = antes de la hora de inicio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v3",
+      "statement": "**Mom:** \"What time did you go to bed last night?\"\r\r\n**Complete with an answer + explanation.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Late. *(Tarde.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Around 10 PM. I was finishing my science project. *(Alrededor de las 10 PM. Estaba terminando mi proyecto de ciencias.)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I don't know. *(No sé.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Same as always. *(Lo mismo de siempre.)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nGood answers are specific (10 PM) and provide context (science project).\r\n*Las buenas respuestas son específicas (10 PM) y dan contexto (proyecto de ciencias).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v4",
+      "statement": "\"I (1)______ breakfast every morning. Yesterday, I (2)______ eggs.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) have, (2) had",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) had, (2) have",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) having, (2) had",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) has, (2) had",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Every morning\" = habit = present simple (have). \"Yesterday\" = past simple (had).\r\n*\"Every morning\" = hábito = presente simple. \"Yesterday\" = pasado simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v5",
+      "statement": "\"Students in South Korea often study until midnight. In Finland, school days are shorter and there is less homework. Both countries have high education rankings, showing that more hours don't always equal better results.\"\r\r\n**What does the text say about study hours?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More hours always mean better results.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Better results can be achieved without long study hours.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only South Korea has good education.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Finland has no schools.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"More hours don't always equal better results\" = the text's main point.\r\n*\"Más horas no siempre significa mejores resultados\" = el punto principal del texto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v6",
+      "statement": "\"5:30 AM: Alarm rings. 6:00 AM: Bus arrives. 6:30 AM: First class. 3:00 PM: Sports practice. 6:00 PM: Homework. 9:00 PM: Finally, free time. 10:00 PM: Sleep. Repeat.\"\r\r\n**What does this schedule suggest about the student's life?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They have unlimited free time.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Their day is extremely structured with little free time.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "They don't go to school.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "They sleep 12 hours.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Finally, free time\" at 9 PM + \"Repeat\" = busy, structured, limited rest.\r\n*\"Finally, free time\" a las 9 PM + \"Repeat\" = ocupado, estructurado, descanso limitado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v7",
+      "statement": "\"She (1)______ usually (2)______ TV in the morning.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) doesn't, (2) watch",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) don't, (2) watches",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) isn't, (2) watching",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) hasn't, (2) watched",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Usually\" = present simple. She (3rd person) = doesn't + base verb.\r\n*\"Usually\" = presente simple. She (3a persona) = doesn't + verbo base.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v8",
+      "statement": "**\"Oversleep\" means:** *\"Quedarse dormido\" significa:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sleep very little",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sleep longer than planned and wake up late",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sleep during the day",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sleep with your eyes open",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n*Over-* = too much. \"I overslept and missed class!\" = slept too long.\r\n*Over- = demasiado. \"I overslept and missed class!\" = dormí demasiado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v9",
+      "statement": "You have an exam tomorrow but you're too tired to study tonight.\r\r\n**What's the smartest approach?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stay up all night studying.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Review key points briefly, sleep early, and wake up earlier to study.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Don't study at all.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sleep through the exam.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nSleep helps memory! Brief review + good sleep = better than exhausted all-night studying.\r\n*¡El sueño ayuda a la memoria! Repaso breve + buen sueño = mejor que estudiar agotado toda la noche.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-daily-routines-001-v10",
+      "statement": "**Quote:** \"How you start your morning sets the tone for the rest of your day.\"\r\r\n**What does this mean?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mornings are unimportant.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A good morning routine can positively affect your whole day.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only mornings matter.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Routine is boring.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Sets the tone\" = establishes the mood/energy. Good morning habits → productive day.\r\n*\"Sets the tone\" = establece el ánimo/energía. Buenos hábitos matutinos → día productivo.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-daily-routines-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v1",
+      "statement": "**My brother is very _______. He is 1.90 meters!**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "short",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "tall",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "fat",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "thin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** 1.90 meters is a description for someone who is \"tall.\"\r\n*Español: 1.90 metros es una descripción para alguien que es \"tall\" (alto).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Tall | Alto |\r\n| Short | Bajo/Pequeño |\r\n| Curly hair | Cabello crespo |\r\n| Straight hair | Cabello liso |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v2",
+      "statement": "**She _______ blue eyes and long hair.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** We use \"has\" (verb to have) for \"She/He/It\" to describe physical traits like eye color or hair.\r\n*Español: Usamos \"has\" (verbo tener) para \"She/He/It\" para describir rasgos físicos como el color de ojos o el cabello.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v3",
+      "statement": "**He always tells jokes. He is a _______ person.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "serious",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "funny",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "shy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Someone who tells jokes is \"funny.\"\r\n*Español: Alguien que cuenta chistes es \"funny\" (gracioso).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v4",
+      "statement": "**My mother has _______ hair.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "curly",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "tall",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "eyes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "person",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** \"Curly\" is an adjective used to describe hair texture.\r\n*Español: \"Curly\" (crespo/rizado) es un adjetivo usado para describir la textura del cabello.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v5",
+      "statement": "**Person A:** \"What is your best friend like?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She likes pizza.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "She is very kind and helpful.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "She is at home.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "She is 13 years old.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"What is someone like?\" asks about personality or general description.\r\n*Español: \"¿Cómo es alguien?\" pregunta por la personalidad o descripción general.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v6",
+      "statement": "**They _______ very friendly.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use \"are\" for the subject \"They\" with adjectives.\r\n*Español: Usamos \"are\" para el sujeto \"They\" con adjetivos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v7",
+      "statement": "**Notice:** \"Looking for a tall man, early 20s, wearing a red cap.\"\r\r\n**What is this notice probably for?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identifying a specific person.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Buying a red cap.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Selling a house.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Describing a movie.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** The details help in identifying/finding someone.\r\n*Español: Los detalles ayudan a identificar/encontrar a alguien.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v8",
+      "statement": "**Text:** \"Tom is short and has short blond hair. He wears glasses and is very smart.\"\r\r\n**What color is Tom's hair?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Black.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Blond.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Brown.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text states he has \"short blond hair.\"\r\n*Español: El texto dice que tiene \"cabello rubio corto\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v9",
+      "statement": "**Passage:** \"Sofia never speaks in front of the class and her face becomes red when the teacher calls her name.\"\r\r\n**What is Sofia like?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talkative.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Shy.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Angry.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Brave.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Her physical reaction (face red) and behavior (never speaks) indicate she is \"shy.\"\r\n*Español: Su reacción física (cara roja) y comportamiento (nunca habla) indican que es \"shy\" (tímida).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-describing-people-104-v10",
+      "statement": "**The famous Colombian cyclist Nairo Quintana is _______ and very strong.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "blond",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "determined",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "tall",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Nairo Quintana is known for his determination in races.\r\n*Español: Nairo Quintana es conocido por su determinación en las carreras.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-describing-people-104-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v1",
+      "statement": "**I am so _______! I won the competition!**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "tired",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "bored",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Winning a competition usually makes a person feel \"happy.\"\r\n*Español: Ganar una competencia usualmente hace que una persona se sienta \"happy\" (feliz).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Happy | Feliz |\r\n| Sad | Triste |\r\n| Angry | Enojado |\r\n| Excited | Emocionado |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v2",
+      "statement": "**How _______ she feel today?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use \"does\" for \"She/He/It\" in questions about feelings in the present simple.\r\n*Español: Usamos \"does\" para \"She/He/It\" en preguntas sobre sentimientos en presente simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v3",
+      "statement": "**The movie was too long. I felt _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excited",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "happy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "bored",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "hungry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** If something is long and not interesting, you feel \"bored.\"\r\n*Español: Si algo es largo y no interesante, te sientes \"bored\" (aburrido).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v4",
+      "statement": "**Person A:** \"Are you okay? You look sad.\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am a teacher.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I'm just a bit tired, but I'm okay.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Use an umbrella.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It is 5 o'clock.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** B answers the concern about feelings directly.\r\n*Español: B responde directamente a la preocupación por los sentimientos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v5",
+      "statement": "**When I have a lot of homework, I feel _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sleepy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "stressed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "thirsty",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "funny",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Having too much to do leads to feeling \"stressed.\"\r\n*Español: Tener demasiado que hacer lleva a sentirse \"stressed\" (estresado).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v6",
+      "statement": "**Friend:** \"I'm so sorry your dog is sick.\"\r\r\n**What is the friend showing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anger.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Empathy and sympathy.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Happiness.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Confusion.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Saying \"I'm sorry\" in this context shows you share someone else's sadness.\r\n*Español: Decir \"I'm sorry\" en este contexto muestra que compartes la tristeza de otro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v7",
+      "statement": "**Text:** \"Lucas was very excited because his father promised to take him to the circus on Sunday.\"\r\r\n**Why was Lucas excited?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He finished school.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It was his birthday.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "He is going to the circus.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "He got a gift.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text says he was excited because of the circus trip.\r\n*Español: El texto dice que estaba emocionado por el viaje al circo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v8",
+      "statement": "**They _______ very angry about the noise.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "feels",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use \"are\" for the subject \"They.\"\r\n*Español: Usamos \"are\" para el sujeto \"They\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v9",
+      "statement": "**Passage:** \"Ana's hands were shaking and she couldn't remember her lines for the play.\"\r\r\n**How did Ana feel?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brave.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Happy.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nervous.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Bored.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** Shaking hands and forgetting things are signs of being \"nervous.\"\r\n*Español: Las manos temblorosas y el olvido de cosas son signos de estar \"nervous\" (nervioso).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-feelings-emotions-105-v10",
+      "statement": "**Colombians feel very _______ of their coffee!**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "proud",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "scared",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Proud\" means feeling deep pleasure or satisfaction as a result of achievements or qualities.\r\n*Español: \"Proud\" (orgulloso) significa sentir un placer o satisfacción profunda como resultado de logros o cualidades.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-feelings-emotions-105-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v1",
+      "statement": "**The first meal of the day is:** *La primera comida del día es:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Breakfast *(Desayuno)*",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lunch *(Almuerzo)*",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dinner *(Cena)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Snack *(Merienda)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n*Break* + *fast* = break the \"fast\" (not eating while sleeping). First meal!\r\n*Break + fast = romper el \"ayuno\" (no comer mientras duermes). ¡Primera comida!*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v2",
+      "statement": "**Restaurant sign:** \"Today's Special: Grilled fish with rice - $15,000\"\r\r\n**What is the \"special\"?** *¿Qué es el \"especial\"?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A normal menu item",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A featured dish, often at a better price",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Something for special people only",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A dessert",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Special\" = today's featured/recommended dish, sometimes discounted.\r\n*\"Especial\" = plato destacado/recomendado del día, a veces con descuento.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v3",
+      "statement": "**Friend:** \"Do you want to try some ajiaco? It's a traditional Colombian soup.\"\r\r\n**Complete with an interested response.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I only eat pizza.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sure! I've heard about it. What's in it?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "That sounds weird.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "I don't eat.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Sure!\" = open to trying. \"What's in it?\" = shows curiosity about culture.\r\n*\"Sure!\" = abierto a probar. \"What's in it?\" = muestra curiosidad por la cultura.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v4",
+      "statement": "\"There isn't (1)______ milk in the fridge. We need to buy (2)______.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) any, (2) some",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) some, (2) any",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) no, (2) any",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) a, (2) many",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nNegative + \"any.\" Positive statement or request + \"some.\"\r\n*Negativo + \"any.\" Afirmativo o pedido + \"some.\"*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v5",
+      "statement": "\"Arepa is a flatbread made from ground maize, popular in Colombia and Venezuela. In Colombia, arepas are often topped with butter, cheese, or hogao (a tomato-onion sauce). They're eaten for breakfast, lunch, or as a snack.\"\r\r\n**What is arepa made from?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wheat flour",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ground maize (corn)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Potatoes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Made from ground maize\" = corn-based. Different from wheat bread or rice.\r\n*\"Hecha de maíz molido\" = a base de maíz. Diferente del pan de trigo o arroz.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v6",
+      "statement": "\"My grandmother's bandeja paisa takes three hours to prepare. She insists on cooking the beans herself, never using canned. 'Fast is not the same as good,' she says, chopping slowly. In a world of instant everything, her kitchen is a time machine.\"\r\r\n**What value does the grandmother represent?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed and efficiency",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Patience and tradition in cooking",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Using pre-made ingredients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eating alone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Fast is not the same as good\" + \"time machine\" = values slow, traditional cooking.\r\n*\"Rápido no es lo mismo que bueno\" + \"máquina del tiempo\" = valora cocina lenta, tradicional.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v7",
+      "statement": "\"How (1)______ sugar do you want? I only want a (2)______.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) much, (2) little",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) many, (2) few",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) a lot, (2) many",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) few, (2) much",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Sugar\" = uncountable → \"How much\" + \"a little.\" \"Many/few\" = countable nouns.\r\n*\"Sugar\" = incontable → \"How much\" + \"a little.\" \"Many/few\" = sustantivos contables.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v8",
+      "statement": "**A \"vegetarian\" is someone who:** *Un \"vegetariano\" es alguien que:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only eats meat",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Doesn't eat meat but may eat eggs/dairy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Eats everything",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Only eats vegetables from gardens",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nVegetarian = no meat. Vegan = no animal products at all (no eggs, dairy, honey).\r\n*Vegetariano = sin carne. Vegano = sin productos animales (sin huevos, lácteos, miel).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v9",
+      "statement": "A friend with a peanut allergy is eating at your house.\r\r\n**What should you do?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cook with peanuts anyway.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Check all ingredients and avoid anything with peanuts.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Assume they'll be fine.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Make fun of their allergy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nFood allergies can be life-threatening! Always check ingredients and take allergies seriously.\r\n*¡Las alergias alimentarias pueden ser mortales! Siempre revisa los ingredientes y toma las alergias en serio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-006-v10",
+      "statement": "**Quote:** \"Tell me what you eat, and I will tell you who you are.\"\r\r\n**What does this quote suggest?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Food has no meaning.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Food choices reflect culture, values, and identity.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Everyone eats the same things.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "You are literally made of food.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nFood = cultural identity, health values, traditions, economic status. We are what we eat.\r\n*Comida = identidad cultural, valores de salud, tradiciones, estatus económico. Somos lo que comemos.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-006-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v1",
+      "statement": "**The list of food and drinks available in a restaurant is the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Map",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Menu",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ticket",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Recipe",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** You read the menu to decide what you want to eat.\r\n*Español: Lees el menú para decidir qué quieres comer.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Delicious | Delicioso |\r\n| Bill | Cuenta |\r\n| Waiter / Waitress | Mesero / Mesera |\r\n| Main course | Plato fuerte |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v2",
+      "statement": "**I (1)_______ a burger, but my friend (2)_______ a salad.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) want, (2) wants",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) wants, (2) want",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) am wanting, (2) is wanting",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) want, (2) want",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Present simple for preferences. Third-person singular adds \"-s.\"\r\n*Español: Presente simple para preferencias. La tercera persona del singular añade \"-s\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v3",
+      "statement": "**Text:** \"Our restaurant offers three types of desserts: chocolate cake, fruit salad, and vanilla ice cream. The ice cream is the cheapest option.\"\r\r\n**Which dessert is the cheapest?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chocolate cake.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fruit salad.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Vanilla ice cream.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "All of them have the same price.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly says \"The ice cream is the cheapest option.\"\r\n*Español: El texto dice explísticamente \"El helado es la opción más barata\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v4",
+      "statement": "**A person whose job is to serve customers in a restaurant is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chef",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Waiter / Waitress",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Manager",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Driver",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The waiter takes your order and brings your food.\r\n*Español: El mesero toma tu orden y trae tu comida.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v5",
+      "statement": "**Customer:** \"Could I have the bill, please?\"\r\r\n**What does the customer want to do?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Order more food.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Pay and leave.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "See the recipe.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Talk to the chef.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Asking for the bill\" means you are finished eating and want to pay.\r\n*Español: \"Pedir la cuenta\" significa que has terminado de comer y quieres pagar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v6",
+      "statement": "**Passage:** \"The restaurant was full of people. The smell of fresh bread and pasta was amazing. Everyone was laughing and talking loudly.\"\r\r\n**What is the atmosphere of the restaurant?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quiet and sad.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Lively and pleasant.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Scary.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Boring.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Laughing,\" \"talking loudly,\" and \"amazing smell\" indicate a lively and pleasant atmosphere.\r\n*Español: \"Reír\", \"hablar fuerte\" y un \"olor increíble\" indican una atmósfera animada y agradable.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v7",
+      "statement": "**Waiter:** \"How was your meal?\"\r\n**You:** \"____________\"\r\r\n**Choose the most common positive response.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am full.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It was delicious, thank you!",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "My name is Luis.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No, thanks.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"It was delicious\" is a standard polite way to compliment the food.\r\n*Español: \"Estaba delicioso\" es una forma estándar y educada de elogiar la comida.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v8",
+      "statement": "**(1)_______ sugar would you like in your coffee? Not (2)_______, please.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) How much, (2) much",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) How many, (2) many",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) How much, (2) many",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) How many, (2) much",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Sugar is uncountable, so we use \"How much\" and \"much.\"\r\n*Español: El azúcar es incontable, por lo que usamos \"How much\" y \"much\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v9",
+      "statement": "**The main part of a meal is called the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Starter",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Main course",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Side dish",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dessert",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The main course is usually the largest plate in a meal.\r\n*Español: El plato fuerte (\"main course\") es generalmente el plato más grande de una comida.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-food-110-v10",
+      "statement": "**A common Colombian soup made with chicken and three types of potatoes is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pizza",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ajiaco",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sushi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tacos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Ajiaco is a traditional and highly appreciated soup in Colombia, specifically in Bogota.\r\n*Español: El Ajiaco es una sopa tradicional y muy apreciada en Colombia, específicamente en Bogotá.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-food-110-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v1",
+      "statement": "**A \"best friend\" is:** *Un \"mejor amigo\" es:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An enemy *(Un enemigo)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A stranger *(Un desconocido)*",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Your closest friend *(Tu amigo más cercano)*",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "A classmate you don't talk to *(Un compañero con el que no hablas)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n*Best* = #1, top. Best friend = your closest, most trusted friend.\r\n*Best = #1, el mejor. Best friend = tu amigo más cercano y de confianza.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v2",
+      "statement": "**Text message:** \"Hey! Wanna hang out at the mall today? 🛍️\"\r\r\n**What is your friend asking?** *¿Qué te está preguntando tu amigo?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To do homework",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "To spend time together at the mall",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "To study for exams",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "To go to school",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Hang out\" = spend casual time together. Common informal expression.\r\n*\"Hang out\" = pasar tiempo casual juntos. Expresión informal común.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v3",
+      "statement": "**Friend:** \"I feel really sad today.\"\r\r\n**Complete with a supportive response.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That's weird. *(Eso es raro.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Get over it. *(Supéralo.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "I'm sorry to hear that. Do you want to talk about it? *(Lamento escuchar eso. ¿Quieres hablar de ello?)*",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "I don't care. *(No me importa.)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n\"I'm sorry to hear that\" = empathy. \"Do you want to talk?\" = offers support.\r\n*\"I'm sorry to hear that\" = empatía. \"Do you want to talk?\" = ofrece apoyo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v4",
+      "statement": "\"We (1)______ friends since we were 5 years old. We (2)______ each other every day.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) have been, (2) see",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) are, (2) saw",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) were, (2) seeing",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) was, (2) sees",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Since we were 5\" = present perfect (have been). \"Every day\" = present simple (see).\r\n*\"Since we were 5\" = presente perfecto. \"Every day\" = presente simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v5",
+      "statement": "\"Research shows that quality of friendships is more important than quantity. Having a few close friends leads to greater happiness than having many acquaintances. Deep conversations and shared experiences create lasting bonds.\"\r\r\n**According to the text, what matters more in friendships?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Having hundreds of friends",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Having deep, quality friendships",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only talking online",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Never sharing experiences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Quality... more important than quantity\" = the main message.\r\n*\"Calidad... más importante que cantidad\" = el mensaje principal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v6",
+      "statement": "\"When I moved to a new school, I ate lunch alone for a month. One day, a girl sat next to me and said, 'You look like you need a friend. I'm Sofia.' Five years later, she's still my best friend. One moment of kindness changed everything.\"\r\r\n**What does this story emphasize?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "New schools are terrible.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Small acts of kindness can create lasting friendships.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Eating alone is fun.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Friendship is impossible.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"One moment of kindness changed everything\" = small actions have big impact.\r\n*\"Un momento de amabilidad cambió todo\" = pequeñas acciones tienen gran impacto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v7",
+      "statement": "\"If you (1)______ my friend, you (2)______ tell me the truth.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) are, (2) should",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) were, (2) would",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) being, (2) can",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) was, (2) must",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nFirst conditional for real situations: If + present, should + verb.\r\n*Primera condicional para situaciones reales: If + presente, should + verbo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v8",
+      "statement": "**An \"acquaintance\" is:** *Un \"conocido\" es:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Your best friend",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A family member",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Someone you know slightly, not a close friend",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "An enemy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\nAcquaintance = not a stranger, but not a close friend either. You \"know\" them casually.\r\n*Conocido = no es un extraño, pero tampoco un amigo cercano. Los \"conoces\" casualmente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v9",
+      "statement": "Your friend shares something private with you and asks you not to tell anyone.\r\r\n**What should you do?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell everyone immediately.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Keep their secret unless they're in danger.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Post it on social media.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Make fun of them.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nTrust is the foundation of friendship. Exception: if they're in danger, tell a trusted adult.\r\n*La confianza es la base de la amistad. Excepción: si están en peligro, dile a un adulto de confianza.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-friends-003-v10",
+      "statement": "**Quote:** \"A friend is someone who knows all about you and still loves you.\"\r\r\n**What does this quote mean?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Friends should hide their true selves.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "True friends accept you, including your flaws.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only perfect people deserve friends.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Friends know nothing about you.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nReal friendship = acceptance. \"Knows all about you AND still loves you\" = unconditional.\r\n*Amistad real = aceptación. \"Sabe todo de ti Y aún te quiere\" = incondicional.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-friends-003-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v1",
+      "statement": "**I really enjoy _______ soccer with my friends.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "playing",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "played",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** After the verb \"enjoy,\" we use the gerund (-ing form).\r\n*Español: Después del verbo \"enjoy,\" usamos el gerundio (forma -ing).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Enjoy | Disfrutar |\r\n| Play | Jugar |\r\n| Soccer | Fútbol |\r\n| Friends | Amigos |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v2",
+      "statement": "**_______ your brother like playing video games?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Is",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Are",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Your brother\" is \"He,\" so we use \"Does\" in the question.\r\n*Español: \"Your brother\" es \"Él,\" por lo que usamos \"Does\" en la pregunta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v3",
+      "statement": "**She is good at _______ pictures.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "draw",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "drawing",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "draws",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "write",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** After the preposition \"at,\" we use the gerund form.\r\n*Español: Después de la preposición \"at,\" usamos la forma de gerundio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v4",
+      "statement": "**Person A:** \"What is your favorite hobby?\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am twelve.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I love listening to music.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "No, I don't.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It is a hobby.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The question asks for a favorite hobby, so the answer should state one.\r\n*Español: La pregunta pide un pasatiempo favorito, por lo que la respuesta debe mencionar uno.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v5",
+      "statement": "**He collects _______ from every country he visits.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stamps",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "books",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "movies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "soccer",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Collecting stamps is a common hobby.\r\n*Español: Coleccionar estampillas es un pasatiempo común.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v6",
+      "statement": "**Ad:** \"Chess Club! Join us every Friday. No experience needed!\"\r\r\n**Who can join the club?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only professionals.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Everyone, including beginners.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "People who already know how to play.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Only teachers.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"No experience needed\" means even beginners are welcome.\r\n*Español: \"No experience needed\" significa que incluso los principiantes son bienvenidos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v7",
+      "statement": "**They _______ like dancing.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "don't",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "isn't",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "aren't",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use \"don't\" for the subject \"They\" in negative present simple sentences.\r\n*Español: Usamos \"don't\" para el sujeto \"They\" en oraciones negativas de presente simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v8",
+      "statement": "**Text:** \"Maria loves swimming. She goes to the pool three times a week. On Saturdays, she also plays basketball.\"\r\r\n**How often does Maria go to the pool?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Every day.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Three times a week.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Only on Saturdays.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Once a month.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text says she goes to the pool \"three times a week.\"\r\n*Español: El texto dice que va a la piscina \"tres veces a la semana\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v9",
+      "statement": "**Passage:** \"Beto spends all his free time reading about dinosaurs. He has many books and models in his room.\"\r\r\n**What can you infer about Beto?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is afraid of dinosaurs.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "He is very interested in dinosaurs.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't go to school.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "He wants a pet dog.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** His actions (reading, collecting books/models) show intense interest.\r\n*Español: Sus acciones (leer, coleccionar libros/modelos) muestran un interés intenso.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-hobbies-interests-102-v10",
+      "statement": "**A popular traditional Colombian game played with metal discs is called _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Chess",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tennis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Golf",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Tejo is a traditional Colombian sport.\r\n*Español: El Tejo es un deporte tradicional colombiano.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-hobbies-interests-102-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v1",
+      "statement": "**Your father's mother is your:** *La mamá de tu papá es tu:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt *(Tía)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Grandmother *(Abuela)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Cousin *(Prima)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sister *(Hermana)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n*Grand-* = one generation back. Grandmother = parent's mother. Grandfather = parent's father.\r\n*Grand- = una generación atrás. Abuela = madre del padre/madre.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v2",
+      "statement": "**Note on fridge:** \"Gone to store. Dinner is in the oven. Back by 7. -Mom\"\r\r\n**Where is the food?** *¿Dónde está la comida?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the store",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "In the oven",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "In the fridge",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "At school",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Dinner is in the oven\" = food is ready and warming in the oven.\r\n*\"Dinner is in the oven\" = la comida está lista y calentándose en el horno.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v3",
+      "statement": "**Parent:** \"Can you help set the table for dinner?\"\r\r\n**Complete with a helpful response.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I'm busy watching TV.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sure! How many plates do we need?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "That's not my job.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "I don't know how.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Sure!\" = enthusiastic. Asking \"how many plates?\" shows initiative.\r\n*\"Sure!\" = entusiasta. Preguntar \"cuántos platos?\" muestra iniciativa.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v4",
+      "statement": "\"My sister is (1)______ than me. She is the (2)______ in our family.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) older, (2) oldest",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) old, (2) older",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) oldest, (2) older",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) more old, (2) most old",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nComparative: older (than). Superlative: THE oldest (in the group).\r\n*Comparativo: older (que). Superlativo: THE oldest (en el grupo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v5",
+      "statement": "\"Colombian families often include extended relatives living nearby or in the same house. Grandparents frequently help with childcare. Family gatherings for celebrations can include dozens of relatives from multiple generations.\"\r\r\n**Who often helps with childcare in Colombian families?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neighbors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Grandparents",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Strangers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nText: \"Grandparents frequently help with childcare\" = direct information.\r\n*El texto dice: \"Los abuelos frecuentemente ayudan con el cuidado de los niños.\"*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v6",
+      "statement": "\"My room used to be MY room. Now I share it with my new baby brother. His cries wake me at 3 AM. His toys cover the floor. His face lights up when he sees me. Maybe sharing isn't so bad.\"\r\r\n**How does the narrator feel at the end?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angry and resentful",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Completely indifferent",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Annoyed but also loving toward the brother",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Wanting to move away forever",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n\"Maybe sharing isn't so bad\" + \"face lights up\" = annoyed BUT accepting the positive.\r\n*\"Quizás compartir no es tan malo\" + \"su cara se ilumina\" = molesto PERO aceptando lo positivo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v7",
+      "statement": "\"There (1)______ a living room, two bedrooms, and a kitchen in my house. There (2)______ also a small garden.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is, (2) is",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) are, (2) are",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) is, (2) are",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) are, (2) is",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nAfter \"There is/are,\" use the first noun: \"a living room\" (singular) = is. \"A garden\" (singular) = is.\r\n*Después de \"There is/are,\" usa el primer sustantivo: \"a living room\" (singular) = is.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v8",
+      "statement": "**\"Chores\" are:** *\"Quehaceres\" son:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Games you play",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Household tasks like cleaning, washing dishes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "School subjects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Types of food",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nChores = regular household duties: cleaning, laundry, dishes, taking out trash.\r\n*Quehaceres = deberes domésticos regulares: limpiar, lavar ropa, platos, sacar la basura.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v9",
+      "statement": "Your parents ask you to babysit your younger sibling while they go out.\r\r\n**What's the responsible approach?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignore the sibling and play games.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Make sure they're safe, entertained, and fed if needed.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Invite many friends over without permission.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Leave the house too.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nBabysitting = responsibility for someone's safety and well-being.\r\n*Cuidar niños = responsabilidad por la seguridad y bienestar de alguien.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-004-v10",
+      "statement": "**Quote:** \"Home is not a place, it's a feeling.\"\r\r\n**What does this mean?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Houses don't exist.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Home means feeling safe, loved, and comfortable—not just a building.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Feelings are not important.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "You can only have one home.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Home\" = emotional security + belonging, not just physical structure.\r\n*\"Hogar\" = seguridad emocional + pertenencia, no solo estructura física.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-004-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v1",
+      "statement": "**The room where you cook food is the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bedroom",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Kitchen",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use the kitchen to prepare meals.\r\n*Español: Usamos la cocina para preparar las comidas.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Living room | Sala |\r\n| Dining room | Comedor |\r\n| Chores | Tareas del hogar |\r\n| Sibling | Hermano o hermana |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v2",
+      "statement": "**My mother (1)_______ the dinner while I (2)_______ the table.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is cooking, (2) am setting",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) cooks, (2) set",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) cook, (2) sets",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) cooking, (2) setting",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Present continuous for actions happening now.\r\n*Español: Presente continuo para acciones que están ocurriendo ahora.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v3",
+      "statement": "**Text:** \"In my house, everyone has chores. I clean my room, my brother washes the dishes, and my parents do the laundry.\"\r\r\n**Who washes the dishes?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The parents.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Nobody.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "The brother.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "The sister.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text says \"my brother washes the dishes.\"\r\n*Español: El texto dice \"mi hermano lava los platos\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v4",
+      "statement": "**Your mother's sister is your _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uncle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Aunt",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Cousin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Neice",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** An aunt is a relative in your extended family.\r\n*Español: Una tía (\"aunt\") es un pariente en tu familia extendida.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v5",
+      "statement": "**Father:** \"Could you please help me take out the trash?\"\r\n**You:** \"I'm busy right now, but I can do it in ten minutes.\"\r\r\n**What is the speaker doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refusing to help forever.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Making a compromise/negotiating time.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Yelling at their father.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Throwing the trash.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Saying \"I can do it in ten minutes\" shows a willingness to help after finishing a current task.\r\n*Español: Decir \"puedo hacerlo en diez minutos\" muestra disposición para ayudar después de terminar una tarea actual.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v6",
+      "statement": "**Passage:** \"Every Sunday, my whole family gathers at my grandmother's house. We eat a big lunch and talk for hours. It's the most important day of the week for us.\"\r\r\n**What can we infer about this family?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They don't like each other.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "They have a very close and traditional relationship.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "They only eat on Sundays.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "They live in different countries.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Gathering every week and considering it \"the most important day\" indicates a close bond.\r\n*Español: Reunirse todas las semanas y considerarlo \"el día más importante\" indica un vínculo estrecho.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v7",
+      "statement": "**Friend:** \"Do you live in a house or an apartment?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I do.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I live in a modern apartment on the fifth floor.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I am 12 years old.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "My father is a doctor.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B directly answers the question with specific details.\r\n*Español: La opción B responde directamente a la pregunta con detalles específicos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v8",
+      "statement": "**We (1)_______ have lunch together on weekdays because my parents (2)_______ at work.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) rarely, (2) are",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) always, (2) is",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) never, (2) am",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) often, (2) was",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** \"Rarely\" is used if they are busy at work. Parents (plural) take \"are.\"\r\n*Español: \"Rarely\" (rara vez) se usa si están ocupados en el trabajo. Parents (plural) lleva \"are\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v9",
+      "statement": "**A soft, comfortable piece of furniture for three or more people to sit on in the living room is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sofa / Couch",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A sofa is a common place for families to watch TV together.\r\n*Español: Un sofá es un lugar común para que las familias vean televisión juntas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-home-family-107-v10",
+      "statement": "**In Colombia, it is very common for children to live with their parents until they are _______ (20s or 30s).**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "babies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "adults",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "dogs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "teachers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Adult children often stay at home longer in Latin American cultures compared to others.\r\n*Español: Los hijos adultos a menudo se quedan en casa más tiempo en las culturas latinoamericanas.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-home-family-107-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v1",
+      "statement": "**In the morning, I _______ my teeth.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wash",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "brush",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "clean",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "comb",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use the verb \"brush\" for teeth and hair.\r\n*Español: Usamos el verbo \"brush\" (cepillar) para los dientes y el cabello.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Brush | Cepillar |\r\n| Teeth | Dientes |\r\n| Hair | Cabello |\r\n| Morning | Mañana |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v2",
+      "statement": "**She _______ to school every day.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "going",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "went",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** For \"She, He, It\" in the present simple, we add \"s\" or \"es\" to the verb.\r\n*Español: Para \"She, He, It\" en presente simple, agregamos \"s\" o \"es\" al verbo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v3",
+      "statement": "**Friend:** \"What time do you usually have lunch?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like pizza.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I usually have lunch at 12:30 PM.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "At school.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "In the kitchen.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The question asks for the time (\"What time\"), so the answer should include a time.\r\n*Español: La pregunta pide la hora (\"What time\"), por lo que la respuesta debe incluir una hora.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v4",
+      "statement": "**After school, I _______ my homework.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "write",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "take",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The colocation for homework is \"do homework.\"\r\n*Español: La combinación correcta para la tarea es \"do homework\" (hacer la tarea).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v5",
+      "statement": "**Mom:** \"Don't forget to set your alarm!\"\r\r\n**What is Mom's intention?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To remind you to wake up on time.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "To tell you to be quiet.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "To ask for the time.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "To check if the alarm is broken.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Mom is giving a reminder so you don't oversleep.\r\n*Español: Mamá está dando un recordatorio para que no te quedes dormido.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v6",
+      "statement": "**Text:** \"Juan gets up at 6:00 AM. He has a quick breakfast and catches the bus at 6:45 AM. He arrives at school at 7:15 AM.\"\r\r\n**What time does Juan catch the bus?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6:00 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6:45 AM",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "7:15 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7:00 AM",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly states he catches the bus at 6:45 AM.\r\n*Español: El texto dice explícitamente que toma el autobús a las 6:45 AM.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v7",
+      "statement": "**What _______ you do on weekends?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "doing",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use the auxiliary \"do\" for the subject \"you\" in questions.\r\n*Español: Usamos el auxiliar \"do\" para el sujeto \"you\" en preguntas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v8",
+      "statement": "**I go to _______ at 10:00 PM.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "home",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "bed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "house",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The phrase \"go to bed\" means to go to sleep.\r\n*Español: La frase \"go to bed\" significa irse a dormir (ir a la cama).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v9",
+      "statement": "**Passage:** \"My sister always finishes her homework before dinner so she can watch TV later. She is very organized.\"\r\r\n**Why does the sister finish her homework early?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is hungry.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "To have free time to watch TV.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "She doesn't like TV.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Her teacher is strict.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text implies she works early to enjoy her leisure activity without pressure.\r\n*Español: El texto implica que trabaja temprano para disfrutar de su tiempo libre sin presiones.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-my-routines-101-v10",
+      "statement": "**On Sundays, my family eats _______ for breakfast.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tacos",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "arepas",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "pasta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "sushi",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Arepas are a traditional Colombian breakfast food.\r\n*Español: Las arepas son una comida tradicional colombiana para el desayuno.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-my-routines-101-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v1",
+      "statement": "**I go to the _______ to mail a letter.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bank",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "post office",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "library",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "bakery",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** You send letters at the \"post office.\"\r\n*Español: Envías cartas en la \"post office\" (oficina de correos).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Post Office | Oficina de correos |\r\n| Bank | Banco |\r\n| Library | Biblioteca |\r\n| Bakery | Panadería |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v2",
+      "statement": "**There _______ a big supermarket near my house.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "are",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "be",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "am",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** We use \"There is\" for singular objects.\r\n*Español: Usamos \"There is\" para objetos singulares (un supermercado).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v3",
+      "statement": "**The _______ has many old books for people to read.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bookstore",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "library",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "bakery",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "gym",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"library\" is for borrowing/reading books; a \"bookstore\" is for buying them.\r\n*Español: Una \"library\" es para pedir prestado/leer libros; una \"bookstore\" es para comprarlos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v4",
+      "statement": "**Map:** \"You are here. Go straight for two blocks and turn left at the hospital.\"\r\r\n**Where should you turn left?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the bank.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "At the hospital.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "At the park.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "At the bakery.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The directions explicitly say turn left at the hospital.\r\n*Español: Las instrucciones dicen explícitamente girar a la izquierda en el hospital.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v5",
+      "statement": "**We buy fresh bread and cakes at the _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bakery",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "butchery",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "pharmacy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "station",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** A \"bakery\" is where bread is baked and sold.\r\n*Español: Una \"bakery\" (panadería) es donde se hornea y se vende el pan.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v6",
+      "statement": "**Are _______ any parks in your neighborhood?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "there is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "there",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "those",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "these",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** In questions with \"Are/Is,\" we use \"there\" to ask about existence.\r\n*Español: En preguntas con \"Are/Is,\" usamos \"there\" para preguntar sobre existencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v7",
+      "statement": "**Tourist:** \"Excuse me, where is the nearest ATM?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am a student.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It's next to the supermarket.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I don't like money.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "The ATM is big.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B gives useful directional information.\r\n*Español: La opción B da información útil sobre la dirección.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v8",
+      "statement": "**Text:** \"My town is small but beautiful. It has a central park with many trees, a church, and a museum near the river.\"\r\r\n**What is near the river?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The park.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A museum.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The church.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A school.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text says the museum is \"near the river.\"\r\n*Español: El texto dice que el museo está \"cerca del río\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v9",
+      "statement": "**People go to the _______ to exercise and stay fit.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "theater",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "gym",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "cinema",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "museum",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A \"gym\" is the place for physical exercise.\r\n*Español: Un \"gym\" (gimnasio) es el lugar para el ejercicio físico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-places-city-103-v10",
+      "statement": "**Passage:** \"The shopping mall is very crowded today because there is a big sale in almost every store.\"\r\r\n**Why are there many people at the mall?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a holiday.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Because of the sales and low prices.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The mall is beautiful.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "To see a movie.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Crowded\" (many people) is explained by the \"big sale.\"\r\n*Español: \"Crowded\" (muy concurrido) se explica por la \"gran oferta\" (big sale).*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-places-city-103-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v1",
+      "statement": "**The break between classes is called:**\r\n*El descanso entre clases se llama:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recess / Break *(Recreo / Descanso)*",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Homework *(Tarea)*",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Exam *(Examen)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Assembly *(Asamblea)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n*Recess* (US) or *Break* (UK) = time to play/rest between classes.\r\n*Recess (EE.UU.) o Break (Reino Unido) = tiempo para jugar/descansar entre clases.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v2",
+      "statement": "**Teacher:** \"Please take out your notebooks and turn to page 45.\"\r\r\n**What should you do?** *¿Qué deberías hacer?*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get your notebook and open to page 45.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Close your notebook.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Leave class.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ask what a notebook is.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Take out\" = remove from bag. \"Turn to page\" = open to that page.\r\n*\"Take out\" = sacar de la maleta. \"Turn to page\" = abrir en esa página.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v3",
+      "statement": "**Student A:** \"Can I borrow your eraser?\"\r\r\n**Complete with a friendly response.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No! *(¡No!)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sure, here you go! Just give it back after class. *(¡Claro, aquí tienes! Solo devuélvelo después de clase.)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Buy your own. *(Compra el tuyo.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "I don't have one. *(No tengo.)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Here you go\" = giving something. Add condition if needed (\"give it back\").\r\n*\"Here you go\" = dando algo. Agrega condición si es necesario (\"devuélvelo\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v4",
+      "statement": "\"We (1)______ math right now. We (2)______ math every Monday.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) are studying, (2) study",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) study, (2) are studying",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) studied, (2) studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) studies, (2) studying",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Right now\" = present continuous (are studying). \"Every Monday\" = habit = present simple.\r\n*\"Right now\" = presente continuo. \"Every Monday\" = hábito = presente simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v5",
+      "statement": "\"School uniforms are required in many Colombian schools. Students wear white shirts, navy blue pants or skirts, and specific shoes. Supporters say uniforms reduce bullying about clothing; critics say they limit individual expression.\"\r\r\n**One argument IN FAVOR of uniforms is:**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They limit expression.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "They reduce bullying about clothing.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "They are expensive.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Students don't like them.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nText: \"reduce bullying about clothing\" = a positive argument for uniforms.\r\n*El texto dice: \"reduce bullying about clothing\" = un argumento positivo para uniformes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v6",
+      "statement": "\"The bell rings, but no one moves. The teacher is still explaining an interesting experiment. Finally, someone asks, 'Can we stay a few more minutes?' Twenty heads nod in agreement. The next teacher will just have to wait.\"\r\r\n**What does this passage suggest?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Students hate this class.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "The teacher is boring.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Students are so engaged they want to continue learning.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "The bell is broken.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n\"Can we stay a few more minutes?\" + \"Twenty heads nod\" = students are interested!\r\n*\"¿Podemos quedarnos unos minutos más?\" + \"20 cabezas asienten\" = ¡estudiantes interesados!*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v7",
+      "statement": "\"There (1)______ many students in the library. There (2)______ a new book on the table.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) are, (2) is",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) is, (2) are",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) be, (2) been",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) was, (2) were",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Many students\" = plural = are. \"A new book\" = singular = is.\r\n*\"Many students\" = plural = are. \"A new book\" = singular = is.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v8",
+      "statement": "**The \"principal\" is:** *El \"rector/director\" es:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A student leader",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A janitor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "The head of the school",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "A classroom",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\nPrincipal = the school's top administrator. In Colombia: rector/a.\r\n*Principal = el administrador principal de la escuela. En Colombia: rector/a.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v9",
+      "statement": "You see a classmate being excluded by a group during recess.\r\r\n**What can you do?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Join in excluding them.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Invite them to join your activity.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Pretend you didn't see.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Laugh at them.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nKindness matters. One invitation can change someone's day.\r\n*La amabilidad importa. Una invitación puede cambiar el día de alguien.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-002-v10",
+      "statement": "**Quote:** \"School prepares you for life, not just exams.\"\r\r\n**What does this mean?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only exams matter.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "School teaches skills beyond academic knowledge.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Life doesn't need preparation.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Exams should be eliminated.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nSchool also teaches teamwork, time management, social skills, resilience.\r\n*La escuela también enseña trabajo en equipo, gestión del tiempo, habilidades sociales, resiliencia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-002-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v1",
+      "statement": "**The subject where you learn about numbers and shapes is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Mathematics (Math)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Physical Education",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Art",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Mathematics is the study of numbers, quantities, and shapes.\r\n*Español: Las matemáticas son el estudio de los números, las cantidades y las formas.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Subject | Asignatura |\r\n| Biology | Biología |\r\n| Geography | Geografía |\r\n| Timetable | Horario |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v2",
+      "statement": "**My favorite subject (1)_______ English because it (2)_______ fun.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is, (2) is",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) are, (2) am",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) am, (2) is",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) be, (2) be",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use \"is\" for singular third-person subjects like \"subject\" and \"it.\"\r\n*Español: Usa \"is\" para sujetos singulares de tercera persona como \"subject\" e \"it\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v3",
+      "statement": "**Text:** \"At school, we have six classes every day. We start at 7:00 AM and finish at 2:00 PM. We have a 30-minute break at 10:00 AM to eat a snack.\"\r\r\n**At what time is the break?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7:00 AM.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2:00 PM.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10:00 AM.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "12:00 PM.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly says the break is \"at 10:00 AM.\"\r\n*Español: El texto dice explícitamente que el descanso es \"a las 10:00 AM\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v4",
+      "statement": "**The room in a school where students learn is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gym",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Classroom",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cafeteria",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A classroom is where lessons take place.\r\n*Español: Un \"classroom\" (salón de clase) es donde se llevan a cabo las lecciones.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v5",
+      "statement": "**Student:** \"Excuse me, teacher. Can you repeat that, please?\"\r\r\n**Why is the student saying this?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They want to go home.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "They didn't understand and need to hear the information again.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "They are being rude.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "They want a snack.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Asking to \"repeat\" is a polite way to seek clarification.\r\n*Español: Pedir que se \"repita\" es una forma educada de buscar aclaración.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v6",
+      "statement": "**Passage:** \"Juan always has his notebook ready and asks many questions during science class. He gets very good grades in his exams.\"\r\r\n**What can we infer about Juan?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He doesn't like science.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "He is a dedicated and interested student.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "He is very lazy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "He forgets his books.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Having the \"notebook ready\" and \"asking questions\" are signs of a dedicated student.\r\n*Español: Tener el \"cuaderno listo\" y \"hacer preguntas\" son señales de un estudiante dedicado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v7",
+      "statement": "**Person A:** \"History is my least favorite subject.\"\r\n**Person B:** \"____________\"\r\r\n**Choose the best follow-up question.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like pizza.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Really? Why do you find it difficult or boring?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Goodbye.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "You are wrong.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Asking \"Why\" is a natural way to continue a conversation about preferences.\r\n*Español: Preguntar \"¿Por qué?\" es una forma natural de continuar una conversación sobre preferencias.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v8",
+      "statement": "**The teacher (1)_______ the students to (2)_______ their homework every day.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) tells, (2) do",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) tell, (2) does",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) telling, (2) doing",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) told, (2) done",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Singular third person (The teacher) takes \"tells.\" The infinitive \"to\" is followed by the base form \"do.\"\r\n*Español: La tercera persona del singular (The teacher) lleva \"tells\". El infinitivo \"to\" va seguido de la forma base \"do\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v9",
+      "statement": "**A place in the school with many books for students to read or borrow is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gym",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Lab",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Library",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** A library is a quiet place for study and reading.\r\n*Español: Una biblioteca (\"library\") es un lugar tranquilo para estudiar y leer.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-school-life-106-v10",
+      "statement": "**In Colombia, the student who helps the teacher and represents the class is often called the 'monitor' or _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boss",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Class leader / Representative",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Principal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Secretary",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** A class representative helps with communication between students and teachers.\r\n*Español: Un representante de curso ayuda con la comunicación entre estudiantes y profesores.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-school-life-106-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v1",
+      "statement": "**The sport where you use your feet to kick a ball into a net is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Basketball",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Football (Soccer)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Tennis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Swimming",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Football is the most popular sport in the world.\r\n*Español: El fútbol es el deporte más popular del mundo.*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Team | Equipo |\r\n| Match | Partido |\r\n| Score | Puntaje / Marcar |\r\n| Equipment | Equipo / Implementos |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v2",
+      "statement": "**I (1)_______ playing tennis, but my brother (2)_______ swimming.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) love, (2) prefers",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) loves, (2) prefer",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) am loving, (2) preferring",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) love, (2) prefer",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Use present simple for general preferences. Third person adds \"-s.\"\r\n*Español: Usa presente simple para preferencias generales. La tercera persona añade \"-s\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v3",
+      "statement": "**Text:** \"Cycling is very popular in Colombia. Many people ride their bikes to work or do it as a sport on weekends. Famous cyclists like Nairo Quintana are national heroes.\"\r\r\n**Who is Nairo Quintana?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A famous doctor.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A famous cyclist.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "A football player.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A music singer.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly identifies him as a \"famous cyclist.\"\r\n*Español: El texto lo identifica explícitamente como un \"ciclista famoso\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v4",
+      "statement": "**A person whose job is to train and organize a sports team is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referee",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Player",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Coach",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Fan",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\r\n**English:** A coach teaches players the skills and strategies of the game.\r\n*Español: Un entrenador (\"coach\") enseña a los jugadores las habilidades y estrategias del juego.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v5",
+      "statement": "**Fan:** \"Go! Come on! You can do it!\"\r\r\n**What is the fan doing?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complaining to the referee.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cheering and supporting their team.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Asking for an autograph.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Selling tickets.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Come on\" and \"You can do it\" are typical expressions of encouragement during sports.\r\n*Español: \"Come on\" y \"You can do it\" son expresiones típicas de ánimo durante los deportes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v6",
+      "statement": "**Passage:** \"The stadium was silent. Everyone was looking at the player. He took a deep breath and kicked the ball. A second later, the crowd exploded with joy.\"\r\r\n**What happened?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The player fell down.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "The player scored a goal.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The match ended early.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It started raining.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The transition from silence to \"joy\" after a kick implies success (scoring a goal).\r\n*Español: La transición del silencio a la \"alegría\" después de una patada implica éxito (marcar un gol).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v7",
+      "statement": "**Friend:** \"How often do you play sports?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I play football.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "I usually play basketball twice a week after school.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sports are healthy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I do.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers \"How often\" with a frequency (\"twice a week\").\r\n*Español: La opción B responde a \"¿Con qué frecuencia?\" con una frecuencia (\"dos veces por semana\").*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v8",
+      "statement": "**We (1)_______ football, (2)_______ gymnastics, and (3)_______ swimming.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) play, (2) do, (3) go",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) do, (2) play, (3) go",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) go, (2) do, (3) play",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) play, (2) go, (3) do",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** We use \"play\" for ball games, \"do\" for solo/artistic sports, and \"go\" for -ing activities.\r\n*Español: Usamos \"play\" para juegos de pelota, \"do\" para deportes individuales/artísticos y \"go\" para actividades que terminan en -ing.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v9",
+      "statement": "**A person who is a very enthusiastic supporter of a particular sport or team is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referee",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fan",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Athlete",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opponent",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Fans wear their team's colors and sing songs at matches.\r\n*Español: Los \"fans\" usan los colores de su equipo y cantan canciones en los partidos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-sports-109-v10",
+      "statement": "**A traditional Colombian game where you throw heavy metal discs at targets is called _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cricket",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tejo",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Rugby",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Baseball",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Tejo is recognized as a national sport in Colombia.\r\n*Español: El Tejo es reconocido como un deporte nacional en Colombia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-sports-109-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v1",
+      "statement": "**When water falls from clouds, it is:** *Cuando el agua cae de las nubes, es:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunny *(Soleado)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Rain *(Lluvia)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Windy *(Ventoso)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cloudy *(Nublado)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nRain = water droplets falling from clouds. Rainy = adjective (rainy day).\r\n*Rain = gotas de agua cayendo de las nubes. Rainy = adjetivo (día lluvioso).*\r\n\r\n**Weather Vocabulary / Vocabulario del Clima:**\r\n| English | Español |\r\n|---------|---------|\r\n| Sunny | Soleado |\r\n| Rainy | Lluvioso |\r\n| Cloudy | Nublado |\r\n| Windy | Ventoso |\r\n| Stormy | Tormentoso |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v2",
+      "statement": "**Weather forecast:** \"Today: Sunny, 28°C. Tonight: Thunderstorms expected. Bring an umbrella!\"\r\r\n**When should you bring an umbrella?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This morning",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tonight",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Next week",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Tonight: Thunderstorms\" = rain coming at night. The advice follows: \"Bring an umbrella!\"\r\n*\"Tonight: Thunderstorms\" = lluvia viene en la noche. El consejo sigue: \"¡Trae un paraguas!\"*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v3",
+      "statement": "**Person A:** \"What's the weather like today?\"\r\r\n**Complete with a descriptive answer.**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes. *(Sí.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It's sunny and warm—perfect for going to the park! *(Está soleado y cálido—¡perfecto para ir al parque!)*",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "I don't like weather. *(No me gusta el clima.)*",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Weather. *(Clima.)*",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nGood answers describe AND add context (sunny + warm + activity suggestion).\r\n*Las buenas respuestas describen Y agregan contexto (soleado + cálido + sugerencia de actividad).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v4",
+      "statement": "\"It (1)______ heavily right now. I wish it (2)______ soon.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is raining, (2) would stop",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) rains, (2) stops",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) rained, (2) stopped",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) has rained, (2) will stop",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Right now\" = present continuous (is raining). \"I wish\" + would = desire for change.\r\n*\"Right now\" = presente continuo. \"I wish\" + would = deseo de cambio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v5",
+      "statement": "\"Colombia doesn't have four seasons like temperate countries. Instead, it has a wet season (April-November) and a dry season (December-March). However, altitude affects climate significantly—Bogotá is cool year-round while Cartagena is hot and humid.\"\r\r\n**Why is Bogotá cooler than Cartagena?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It's farther from the equator.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It's at a higher altitude.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "It has more rain.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It has four seasons.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Altitude affects climate significantly\" = higher places are cooler. Bogotá is at 2,600m.\r\n*\"La altitud afecta el clima significativamente\" = lugares más altos son más fríos. Bogotá está a 2,600m.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v6",
+      "statement": "\"The farmer looked at the sky. 'Red sky in the morning,' he muttered, and went to cover his crops. Hours later, the storm arrived. His neighbors, who ignored the old saying, lost most of their harvest.\"\r\r\n**What does the farmer's knowledge suggest?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He can control the weather.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Traditional weather knowledge can be valuable.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Red skies mean nothing.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Crops don't need protection.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n\"Red sky in morning, sailors take warning\" = old weather proverb. Traditional knowledge has value.\r\n*\"Cielo rojo en la mañana, marineros tomen precaución\" = proverbio antiguo del clima. El conocimiento tradicional tiene valor.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v7",
+      "statement": "\"If it (1)______ tomorrow, we (2)______ the picnic.\"\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) rains, (2) will cancel",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) rained, (2) would cancel",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) will rain, (2) cancel",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) raining, (2) cancels",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nFirst conditional for real future possibility: If + present, will + verb.\r\n*Primera condicional para posibilidad real futura: If + presente, will + verbo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v8",
+      "statement": "**\"Climate\" is different from \"weather\" because:** *\"Clima\" es diferente de \"tiempo\" porque:*\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They mean the same thing.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Weather is daily conditions; climate is long-term patterns.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Climate only exists in cold places.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Weather never changes.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nWeather = today's conditions. Climate = average patterns over years/decades.\r\n*Weather = condiciones de hoy. Climate = patrones promedio durante años/décadas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v9",
+      "statement": "You're planning an outdoor event and the forecast says 50% chance of rain.\r\r\n**What's the smartest approach?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignore the forecast and hope for the best.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Have a backup indoor plan or bring tents/umbrellas.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Cancel the entire event.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Blame the weather forecasters.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n50% = uncertain. Good planning = prepare for both possibilities.\r\n*50% = incierto. Buena planificación = prepararse para ambas posibilidades.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-005-v10",
+      "statement": "**Quote:** \"There's no such thing as bad weather, only bad clothing.\"\r\r\n**What does this quote suggest?**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All weather is perfect.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "With proper preparation, you can handle any weather.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Clothing doesn't matter.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bad weather doesn't exist.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nThe quote emphasizes ADAPTATION over complaint. Prepare well = enjoy any conditions.\r\n*La cita enfatiza ADAPTACIÓN sobre quejarse. Prepárate bien = disfruta cualquier condición.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-005-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v1",
+      "statement": "**When there are many clouds in the sky, it is _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunny",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cloudy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Windy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rainy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Cloudy\" comes from the word \"cloud.\"\r\n*Español: \"Cloudy\" (nublado) proviene de la palabra \"cloud\" (nube).*\r\n\r\n| English | Español |\r\n|---------|---------|\r\n| Storm | Tormenta |\r\n| Foggy | Con niebla |\r\n| Temperature | Temperatura |\r\n| Umbrella | Paraguas |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v2",
+      "statement": "**Look! It (1)_______ outside. You (2)_______ your umbrella.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) is raining, (2) should take",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) rains, (2) take",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) rain, (2) should takes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) are raining, (2) takes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Present continuous for an action happening now and \"should\" for a piece of advice.\r\n*Español: Presente continuo para una acción que ocurre ahora y \"should\" para un consejo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v3",
+      "statement": "**Text:** \"In Bogota, the weather is often cool and cloudy. You need a jacket in the morning, but sometimes it is sunny at noon.\"\r\r\n**What is the weather like in Bogota according to the text?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very hot and dry.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cool and cloudy.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Always snowing.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Only rainy at night.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** The text explicitly says \"the weather is often cool and cloudy.\"\r\n*Español: El texto dice explícitamente \"el clima es a menudo fresco y nublado\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v4",
+      "statement": "**An instrument used for measuring the temperature is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruler",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Thermometer",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Compass",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Watch",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** We use a thermometer to see how hot or cold it is.\r\n*Español: Usamos un termómetro para ver qué tan caliente o frío está.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v5",
+      "statement": "**Person A:** \"What a beautiful day!\"\r\n**Person B:** \"Indeed! The sun is shining and the birds are singing.\"\r\r\n**What is the tone of this conversation?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angry.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Positive and cheerful.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Bored.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Worried.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Positive words like \"beautiful,\" \"sun is shining,\" and \"indeed\" indicate a cheerful tone.\r\n*Español: Las palabras positivas como \"hermoso\", \"el sol brilla\" e \"indudablemente\" indican un tono alegre.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v6",
+      "statement": "**Passage:** \"The sky turned dark and the wind started blowing strongly. People on the street started running towards the bus station.\"\r\r\n**What is probably going to happen?**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A party is starting.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A big storm is coming.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "The sun is going to shine.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "It is time for lunch.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** \"Dark sky\" and \"strong wind\" are typical signs of an approaching storm.\r\n*Español: El \"cielo oscuro\" y el \"viento fuerte\" son señales típicas de una tormenta que se acerca.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v7",
+      "statement": "**Friend:** \"What's the weather like today?\"\r\n**You:** \"____________\"\r\r\n**Choose the best answer.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I like rain.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "It's quite foggy, so be careful if you are driving.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Today is Monday.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "The weather is a word.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Option B answers the question and adds a relevant warning.\r\n*Español: La opción B responde a la pregunta y añade una advertencia pertinente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v8",
+      "statement": "**Today is (1)_______ than yesterday, but tomorrow will be the (2)_______ day of the week.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) hotter, (2) hottest",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1) more hot, (2) hotest",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(1) hot, (2) more hot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1) better, (2) goodest",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**English:** Comparative \"hotter\" (one syllable CVC) and superlative \"hottest.\"\r\n*Español: Comparativo \"hotter\" y superlativo \"hottest\".*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v9",
+      "statement": "**A period of very hot weather that lasts for several days is a _______.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blizzard",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Heatwave",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Drought",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Heatwaves can be dangerous for elderly people.\r\n*Español: Las olas de calor (\"heatwaves\") pueden ser peligrosas para las personas mayores.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    },
+    {
+      "id": "CO-ENG-07-weather-108-v10",
+      "statement": "**Because Colombia is near the equator, it doesn't have four seasons (Spring, Summer, Autumn, Winter). Instead, it has _______ and dry seasons.**\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "snowy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "rainy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "icy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "windy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\n**English:** Tropical climates like Colombia's alternate between wet (rainy) and dry periods.\r\n*Español: Los climas tropicales como el de Colombia alternan entre períodos húmedos (lluviosos) y secos.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-07-weather-108-bundle",
+      "periodo": 1,
+      "protocol_version": "3.1"
+    }
+  ]
+}

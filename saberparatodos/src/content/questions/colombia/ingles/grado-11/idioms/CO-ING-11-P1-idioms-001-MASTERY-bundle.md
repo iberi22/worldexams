@@ -1,9 +1,13 @@
-layout: bundle
-subject: ingles
-grade: 11
-period: 1
-topic: idioms
-difficulty: medium
+---
+cefr_level: "B1"
+protocol_version: "5.1"
+layout: "bundle"
+subject: "ingles"
+grade: "11"
+period: "1"
+topic: "idioms"
+difficulty: "medium"
+---
 
 Question 1 (Difficulty 3)
 Two friends are talking about a secret that was accidentally revealed.

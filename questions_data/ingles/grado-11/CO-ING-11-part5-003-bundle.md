@@ -1,11 +1,12 @@
 ---
 id: "CO-ING-11-part5-003"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "reading-comprehension-literal"
-
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "Jules"
 generation_date: "2025-12-14"
@@ -13,14 +14,14 @@ source: "Biography.com / Wikipedia"
 source_url: "https://www.biography.com/musician/shakira"
 search_query: "biography of Shakira short for students english"
 source_license: "CC BY-SA 4.0"
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2: "CC BY-NC-SA 4.0"
-  v3: "CC BY-NC-SA 4.0"
-  v4: "CC BY-NC-SA 4.0"
-  v5: "CC BY-NC-SA 4.0"
-  v6: "CC BY-NC-SA 4.0"
-  v7: "CC BY-NC-SA 4.0"
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2: "CC BY-NC-SA 4.0"
+v3: "CC BY-NC-SA 4.0"
+v4: "CC BY-NC-SA 4.0"
+v5: "CC BY-NC-SA 4.0"
+v6: "CC BY-NC-SA 4.0"
+v7: "CC BY-NC-SA 4.0"
 ---
 
 # === METADATA GLOBAL ===

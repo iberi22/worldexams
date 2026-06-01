@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "peru",
+    "pack_id": "peru-week-1-grade-11-subject-matematica",
+    "generated_at": "2026-05-11T04:28:27.183Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v1",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v1`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Un vendedor de ceviche en el mercado de Surquillo tiene un costo fijo diario de S/ 150 y cada plato le cuesta prepararlo S/ 8. Si vende cada plato a S/ 20.\n\n### Enunciado\n¿Cuál es la expresión que representa la ganancia diaria $G$ si vende $x$ platos de ceviche?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$G(x) = 150 - 12x$ <!-- feedback: Incorrecto. El costo fijo debe restarse del ingreso total, no al revés. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$G(x) = 28x - 150$ <!-- feedback: Incorrecto. Sumó los costos en lugar de restar el costo variable al precio de venta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$G(x) = 12x - 150$ <!-- feedback: Correcto. La ganancia por plato es $20 - 8 = 12$. La ganancia total es $12x$ menos el costo fijo de $150$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$G(x) = 20x - 150$ <!-- feedback: Incorrecto. Olvidó restar el costo de preparación por plato ($8x$). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nLa ganancia se define como el Ingreso Total ($20x$) menos el Costo Total ($8x + 150$). Al simplificar $20x - (8x + 150)$ obtenemos $12x - 150$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v2",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v2`\n**Bloom:** Understand\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** En una tienda de ropa en Gamarra, el precio de un polo es $P$. Si se compran más de 12 polos (una docena), se hace un descuento de S/ 5 por cada polo.\n\n### Enunciado\n¿Cuál es el costo total $C$ de comprar $x$ polos, siendo $x > 12$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C = 12P + (x-12)(P-5)$ <!-- feedback: Incorrecto. El descuento se aplica a todos los polos por comprar al por mayor, no solo a los excedentes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$C = x(P - 5)$ <!-- feedback: Correcto. Si se compra más de una docena, cada uno de los $x$ polos cuesta $P - 5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$C = xP - 5$ <!-- feedback: Incorrecto. Aquí solo descuenta 5 soles del total, no por cada polo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$C = 12(P - 5) + xP$ <!-- feedback: Incorrecto. Estructura de cobro errónea. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nSe evalúa la capacidad de modelar situaciones de descuento unitario condicionado al volumen de compra.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v3",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v3`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Resolución de inecuaciones lineales en contexto de presupuesto.\n\n### Enunciado\nLuis tiene S/ 200 para comprar entradas al cine para sus amigos en un centro comercial de Arequipa. Si cada entrada cuesta S/ 18 y el estacionamiento le costó S/ 15, ¿cuál es la mayor cantidad de amigos ($n$) que puede invitar (incluyéndose él)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 amigos <!-- feedback: Incorrecto. $18 \\times 9 + 15 = 177$. Aún le sobra dinero para una entrada más. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 amigos <!-- feedback: Correcto. $18n + 15 \\le 200 \\Rightarrow 18n \\le 185 \\Rightarrow n \\le 10.27$. El máximo entero es 10. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "11 amigos <!-- feedback: Incorrecto. $18 \\times 11 + 15 = 213$. Supera el presupuesto de S/ 200. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 amigos <!-- feedback: Incorrecto. Excede significativamente el presupuesto. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nSe resuelve una inecuación de primer grado de la forma $ax + b \\le c$ y se interpreta el resultado en el conjunto de los números naturales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v4",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v4`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** En el Metropolitano de Lima, el costo del pasaje es de S/ 3.20.\n\n### Enunciado\nSi una persona tiene una tarjeta con S/ 5 y quiere recargar lo suficiente para realizar 15 viajes en total (contando el saldo actual), ¿cuánto es lo mínimo que debe recargar?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 43.00 <!-- feedback: Incorrecto. Error de cálculo en la multiplicación o resta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "S/ 43.00 <!-- feedback: Correcto. Costo total: $15 \\times 3.20 = 48$. Recarga: $48 - 5 = 43$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "S/ 45.00 <!-- feedback: Incorrecto. Olvidó restar el saldo inicial de la tarjeta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "S/ 48.00 <!-- feedback: Incorrecto. Este es el costo total de los viajes, no el monto de la recarga. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nProblema de aplicación directa de operaciones básicas con decimales en un contexto de transporte local.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v5",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v5`\n**Bloom:** Understand\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Dominio y Rango de funciones.\n\n### Enunciado\nDada la función $f(x) = \\sqrt{x - 7}$, ¿cuál es su dominio en el conjunto de los números reales?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\in \\mathbb{R}$ <!-- feedback: Incorrecto. Las raíces cuadradas de números negativos no están definidas en los reales. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x < 7$ <!-- feedback: Incorrecto. Para estos valores el radicando sería negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 7$ <!-- feedback: Correcto. El radicando de una raíz cuadrada debe ser mayor o igual a cero: $x - 7 \\ge 0 \\Rightarrow x \\ge 7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$x > 7$ <!-- feedback: Incorrecto. El valor $x=7$ sí es válido, ya que $\\sqrt{0} = 0$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEl dominio de una función irracional de índice par se encuentra restringiendo el radicando a valores no negativos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v6",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v6`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Evaluación de funciones cuadráticas.\n\n### Enunciado\nUn proyectil es lanzado desde el Morro de Arica y su altura (en metros) respecto al nivel del mar está dada por $h(t) = -5t^2 + 20t + 160$, donde $t$ es el tiempo en segundos. ¿Cuál es la altura del proyectil al cabo de 2 segundos?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 metros <!-- feedback: Incorrecto. Esta es la altura inicial ($t=0$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "170 metros <!-- feedback: Incorrecto. Error de cálculo en la potencia. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "180 metros <!-- feedback: Correcto. $h(2) = -5(4) + 20(2) + 160 = -20 + 40 + 160 = 180$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "190 metros <!-- feedback: Incorrecto. Error aritmético en la suma final. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nConsiste en la evaluación de una función cuadrática para un valor específico de la variable independiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v7",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v7`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Intersección con los ejes.\n\n### Enunciado\n¿En qué punto corta al eje $Y$ la gráfica de la función $f(x) = 3x^2 - 5x + 12$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, -12)$ <!-- feedback: Incorrecto. El signo del término independiente es positivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 12)$ <!-- feedback: Correcto. La intersección con el eje $Y$ ocurre cuando $x=0$. $f(0) = 12$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$(12, 0)$ <!-- feedback: Incorrecto. Esto representaría una raíz, no la intersección con el eje de ordenadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 3)$ <!-- feedback: Incorrecto. Confundió el término independiente con el coeficiente principal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nConcepto de ordenada al origen: en cualquier función polinómica, el punto $(0, c)$ es donde la curva cruza el eje vertical.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v8",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v8`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Una empresa de transporte interprovincial en Lima cobra S/ 40 por el envío de un paquete de hasta 5 kg, y S/ 5 adicionales por cada kg extra.\n\n### Enunciado\n¿Qué tipo de función describe mejor el costo total del envío para un paquete que pesa $x$ kg (con $x > 5$)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función constante. <!-- feedback: Incorrecto. El precio varía según el peso excedente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Función lineal (afín). <!-- feedback: Correcto. El modelo es $C(x) = 40 + 5(x-5)$, que es una recta con pendiente 5. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Función cuadrática. <!-- feedback: Incorrecto. La variación es constante por unidad, no aumenta de forma acelerada. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Función exponencial. <!-- feedback: Incorrecto. El crecimiento no es por un factor multiplicativo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de modelos de crecimiento lineal en situaciones de la vida real con una tarifa base y una tasa variable.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v9",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v9`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Composición de funciones.\n\n### Enunciado\nSi $f(x) = 2x + 3$ y $g(x) = x^2$, ¿cuál es el valor de $(g \\circ f)(1)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 <!-- feedback: Incorrecto. Calculó $f(g(1)) + 1$ o similar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "13 <!-- feedback: Incorrecto. Calculó $f(1) + g(1)$ o similar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25 <!-- feedback: Correcto. Primero hallamos $f(1) = 2(1) + 3 = 5$. Luego calculamos $g(5) = 5^2 = 25$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "31 <!-- feedback: Incorrecto. Error en la secuencia de aplicación de las funciones. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nLa composición de funciones requiere evaluar la función interna primero y usar ese resultado como entrada para la función externa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v10",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v10`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Traslación de gráficas.\n\n### Enunciado\nSi la gráfica de $y = x^2$ se desplaza 3 unidades hacia la derecha y 2 unidades hacia arriba, ¿cuál es la nueva ecuación?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = (x + 3)^2 + 2$ <!-- feedback: Incorrecto. El signo $+$ dentro del paréntesis desplaza hacia la izquierda. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$y = (x - 3)^2 + 2$ <!-- feedback: Correcto. El término $(x-h)$ desplaza $h$ unidades a la derecha y el término $+k$ desplaza $k$ hacia arriba. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$y = (x - 3)^2 - 2$ <!-- feedback: Incorrecto. El signo $-$ fuera desplaza hacia abajo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y = (x + 3)^2 - 2$ <!-- feedback: Incorrecto. Desplazamiento en direcciones opuestas a las solicitadas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nTransformaciones de funciones: el manejo de los parámetros $h$ y $k$ en la forma vértice de una parábola.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v11",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v11`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Propiedades de logaritmos.\n\n### Enunciado\n¿Cuál es el valor de $x$ en la ecuación $\\log_2(x) + \\log_2(x - 2) = 3$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ <!-- feedback: Incorrecto. $\\log_2(0)$ no está definido. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ <!-- feedback: Correcto. $\\log_2(x(x-2)) = 3 \\Rightarrow x^2 - 2x = 2^3 \\Rightarrow x^2 - 2x - 8 = 0 \\Rightarrow (x-4)(x+2)=0$. Como $x>2$, la única solución es 4. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$ <!-- feedback: Incorrecto. No satisface la ecuación original. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = -2$ <!-- feedback: Incorrecto. Los logaritmos de números negativos no existen en los reales. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de ecuaciones logarítmicas aplicando propiedades (suma a producto) y verificación de las restricciones del dominio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v12",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v12`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Crecimiento exponencial de bacterias en un laboratorio de la UNMSM.\n\n### Enunciado\nUna población de bacterias se duplica cada 3 horas. Si inicialmente hay 1.000 bacterias, ¿cuál es la expresión que representa la cantidad de bacterias $N$ después de $t$ horas?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$N(t) = 1.000 \\cdot 2t$ <!-- feedback: Incorrecto. Este es un modelo lineal, no exponencial. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$N(t) = 1.000 \\cdot 2^{3t}$ <!-- feedback: Incorrecto. Aquí se duplicaría 3 veces cada hora. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$N(t) = 1.000 \\cdot 2^{t/3}$ <!-- feedback: Correcto. El exponente $t/3$ asegura que la población se duplique exactamente cuando $t$ es múltiplo de 3. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$N(t) = 1.000 \\cdot 3^{t/2}$ <!-- feedback: Incorrecto. Base y tasa de tiempo intercambiadas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nModelado de funciones exponenciales con periodo de duplicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v13",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v13`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Interés compuesto en una caja municipal del Cusco.\n\n### Enunciado\nUn capital de S/ 5.000 se deposita a una tasa de interés compuesto anual del 10%. ¿A cuánto ascenderá el monto total después de 2 años?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 5.500 <!-- feedback: Incorrecto. Este es el interés de un solo año. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "S/ 6.000 <!-- feedback: Incorrecto. Este sería el resultado con interés simple. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "S/ 6.050 <!-- feedback: Correcto. $M = 5.000(1 + 0.1)^2 = 5.000(1.21) = 6.050$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "S/ 6.500 <!-- feedback: Incorrecto. Error de cálculo en el exponente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de la fórmula de interés compuesto para el cálculo de valor futuro.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v14",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v14`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Sistema de ecuaciones no lineales.\n\n### Enunciado\nResuelva el sistema: $\\begin{cases} x + y = 7 \\\\ x^2 + y^2 = 25 \\end{cases}$. ¿Cuáles son los posibles valores para $x$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ o $x = 6$ <!-- feedback: Incorrecto. $1^2 + 6^2 = 37 \\ne 25$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ o $x = 5$ <!-- feedback: Incorrecto. $2^2 + 5^2 = 29 \\ne 25$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$ o $x = 4$ <!-- feedback: Correcto. Sustituyendo $y = 7-x$ en la segunda: $x^2 + (7-x)^2 = 25 \\Rightarrow 2x^2 - 14x + 49 = 25 \\Rightarrow 2x^2 - 14x + 24 = 0 \\Rightarrow x^2 - 7x + 12 = 0$. Factores $(x-3)(x-4)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ o $x = 7$ <!-- feedback: Incorrecto. $0^2 + 7^2 = 49 \\ne 25$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nResolución de sistemas mixtos (lineal-cuadrático) mediante el método de sustitución.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v15",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v15`\n**Bloom:** Understand\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Definición de función inversa.\n\n### Enunciado\n¿Cuál es la función inversa de $f(x) = \\frac{3x - 1}{2}$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{2x - 1}{3}$ <!-- feedback: Incorrecto. Error en la transposición de signos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{2x + 1}{3}$ <!-- feedback: Correcto. $y = (3x-1)/2 \\Rightarrow 2y = 3x - 1 \\Rightarrow 2y + 1 = 3x \\Rightarrow x = (2y + 1)/3$. Intercambiando variables obtenemos la inversa. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 2x + 3$ <!-- feedback: Incorrecto. Proceso de despeje incompleto. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x + 2}{3}$ <!-- feedback: Incorrecto. Error en el manejo de coeficientes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nCálculo algorítmico de la función inversa mediante el despeje de la variable independiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v16",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v16`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Gráfica de funciones trigonométricas (introducción al álgebra de funciones).\n\n### Enunciado\n¿Cuál es el periodo de la función $f(x) = 3\\text{sen}(2x)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$ <!-- feedback: Incorrecto. Este es el periodo de la función seno básica $\\text{sen}(x)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$ <!-- feedback: Correcto. El periodo de $\\text{sen}(kx)$ es $2\\pi/|k|$. Aquí $k=2$, por lo que el periodo es $2\\pi/2 = \\pi$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/2$ <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del periodo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$ <!-- feedback: Incorrecto. Multiplicó en lugar de dividir. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nComprensión de los parámetros de frecuencia y periodo en funciones circulares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v17",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v17`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Teorema del resto.\n\n### Enunciado\n¿Cuál es el resto de dividir el polinomio $P(x) = x^{20} + 3x^2 - 5$ entre $(x + 1)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3 <!-- feedback: Incorrecto. Evaluó mal las potencias pares. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-1 <!-- feedback: Incorrecto. Error aritmético en la suma. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-1 <!-- feedback: Correcto. Por el teorema del resto, evaluamos $P(-1) = (-1)^{20} + 3(-1)^2 - 5 = 1 + 3 - 5 = -1$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "4 <!-- feedback: Incorrecto. Probablemente usó $x=1$ en lugar de $x=-1$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación eficiente del Teorema del Resto para evitar divisiones largas de polinomios de grado alto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v18",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v18`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Relación entre raíces y coeficientes.\n\n### Enunciado\nSi la suma de las raíces de la ecuación $x^2 - (k+3)x + 20 = 0$ es 10, ¿cuál es el valor de $k$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 <!-- feedback: Incorrecto. Error en el signo de la relación de Vieta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "7 <!-- feedback: Correcto. Según Vieta, la suma de raíces es $-b/a$. Entonces $(k+3)/1 = 10 \\Rightarrow k = 7$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10 <!-- feedback: Incorrecto. Confundió la suma con el valor de la incógnita. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3 <!-- feedback: Incorrecto. Restó incorrectamente. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de las propiedades de Cardano-Vieta para determinar parámetros de ecuaciones de segundo grado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v19",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v19`\n**Bloom:** Create\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Desigualdades con valor absoluto.\n\n### Enunciado\n¿Cuál es el conjunto solución de la inecuación $|2x - 5| \\le 9$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le 7$ <!-- feedback: Incorrecto. Olvidó el límite inferior de la desigualdad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 7]$ <!-- feedback: Correcto. $-9 \\le 2x - 5 \\le 9 \\Rightarrow -4 \\le 2x \\le 14 \\Rightarrow -2 \\le x \\le 7$. En notación de intervalo: $[-2, 7]$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$[2, 7]$ <!-- feedback: Incorrecto. Error en la transposición del -5 al lado izquierdo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, -2] \\cup [7, \\infty)$ <!-- feedback: Incorrecto. Este sería el conjunto si la desigualdad fuera \"mayor o igual\". -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de inecuaciones con valor absoluto del tipo $|x| \\le a$ y su representación en intervalos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-algebra-001-v20",
+      "statement": "**ID:** `PE-MAT-11-P1-algebra-001-v20`\n**Bloom:** Evaluate\n**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio\n**Context:** Análisis de raíces de una cuadrática (Discriminante).\n\n### Enunciado\nDada la ecuación $x^2 + mx + 9 = 0$. ¿Para qué valores de $m$ la ecuación NO tiene soluciones reales?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m > 6$ <!-- feedback: Incorrecto. Para estos valores el discriminante es positivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$-6 < m < 6$ <!-- feedback: Correcto. No tiene raíces reales si $\\Delta < 0$. $\\Delta = m^2 - 4(1)(9) = m^2 - 36$. $m^2 - 36 < 0 \\Rightarrow m^2 < 36 \\Rightarrow |m| < 6$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$m = 6$ <!-- feedback: Incorrecto. Aquí tendría una única solución real. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$m < -6 \\cup m > 6$ <!-- feedback: Incorrecto. Aquí tendría dos soluciones reales distintas. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso del discriminante para clasificar la naturaleza de las raíces de una ecuación cuadrática bajo condiciones paramétricas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v1",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v1`\n**Bloom:** Remember\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Conversión de sistemas angulares.\n\n### Enunciado\nUn ángulo mide 45° en el sistema sexagesimal. ¿A cuántos radianes equivale?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/2$ rad <!-- feedback: Incorrecto. Este valor equivale a 90°. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/4$ rad <!-- feedback: Correcto. La relación es $180^\\circ = \\pi$ rad. Entonces $45^\\circ = 45(\\pi/180) = \\pi/4$ rad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/3$ rad <!-- feedback: Incorrecto. Este valor equivale a 60°. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3\\pi/4$ rad <!-- feedback: Incorrecto. Este valor equivale a 135°. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nEvalúa la habilidad básica de conversión entre el sistema sexagesimal y el sistema radial usando el factor de conversión $\\pi/180$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v2",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v2`\n**Bloom:** Understand\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Longitud de arco. Un aspersor de riego en un parque de Miraflores gira un ángulo de 2 rad y tiene un alcance de 5 metros.\n\n### Enunciado\n¿Cuál es la longitud del arco que recorre el agua en su extremo?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 metros <!-- feedback: Incorrecto. Dividió en lugar de multiplicar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "7 metros <!-- feedback: Incorrecto. Sumó los valores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10 metros <!-- feedback: Correcto. La longitud de arco $L$ se calcula como $L = \\theta \\cdot R$, donde $\\theta$ está en radianes. $L = 2 \\times 5 = 10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$10\\pi$ metros <!-- feedback: Incorrecto. Agregó $\\pi$ innecesariamente ya que el ángulo ya estaba dado en radianes. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAplicación de la fórmula fundamental de longitud de arco $L = \\theta \\cdot R$ con el ángulo expresado correctamente en radianes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v3",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v3`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Razones trigonométricas en un triángulo rectángulo.\n\n### Enunciado\nEn un triángulo rectángulo, el cateto opuesto al ángulo $\\alpha$ mide 3 cm y la hipotenusa mide 5 cm. ¿Cuál es el valor del coseno de $\\alpha$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/4 <!-- feedback: Incorrecto. Esta es la tangente del ángulo complementario. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3/5 <!-- feedback: Incorrecto. Este es el valor del seno de $\\alpha$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4/5 <!-- feedback: Correcto. Por Pitágoras, el cateto adyacente es $\\sqrt{5^2 - 3^2} = 4$. El $\\cos(\\alpha) = \\text{adyacente}/\\text{hipotenusa} = 4/5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "4/3 <!-- feedback: Incorrecto. Este es el valor de la cotangente de $\\alpha$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nRequiere el uso del Teorema de Pitágoras para hallar el lado faltante y luego aplicar la definición de la razón trigonométrica coseno.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v4",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v4`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Un topógrafo en el Cusco observa la parte superior de un muro inca con un ángulo de elevación de 30°. Si se encuentra a 10 metros de la base del muro.\n\n### Enunciado\n¿Cuál es la altura aproximada del muro? (Considere $\\tan(30^\\circ) = 0.577$)\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.77 metros <!-- feedback: Correcto. $\\tan(30^\\circ) = h/10 \\Rightarrow h = 10 \\cdot 0.577 = 5.77$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8.66 metros <!-- feedback: Incorrecto. Este sería el valor usando el coseno (distancia inclinada). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5.00 metros <!-- feedback: Incorrecto. Confundió $\\tan(30^\\circ)$ con $0.5$ ($\\text{sen}(30^\\circ)$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "11.55 metros <!-- feedback: Incorrecto. Dividió en lugar de multiplicar. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nResolución de problemas de alturas y distancias usando ángulos de elevación y razones trigonométricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v5",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v5`\n**Bloom:** Understand\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Ángulos en posición normal. Un punto $P(-3, 4)$ pertenece al lado final de un ángulo $\\alpha$ en posición normal.\n\n### Enunciado\n¿Cuál es el valor del seno de $\\alpha$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3/5 <!-- feedback: Incorrecto. Este es el valor del coseno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-4/3 <!-- feedback: Incorrecto. Este es el valor de la tangente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4/5 <!-- feedback: Correcto. El radio vector es $r = \\sqrt{(-3)^2 + 4^2} = 5$. El $\\text{sen}(\\alpha) = y/r = 4/5$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "3/5 <!-- feedback: Incorrecto. El punto está en el segundo cuadrante, donde el seno es positivo pero el valor absoluto es 4/5. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de razones trigonométricas de ángulos en cualquier cuadrante usando las coordenadas de un punto y el radio vector.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v6",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v6`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Signos de las razones trigonométricas.\n\n### Enunciado\nSi $\\text{sen}(\\theta) < 0$ y $\\cos(\\theta) > 0$, ¿en qué cuadrante se encuentra el ángulo $\\theta$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primer cuadrante <!-- feedback: Incorrecto. Aquí todas son positivas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Segundo cuadrante <!-- feedback: Incorrecto. Aquí el seno es positivo y el coseno negativo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tercer cuadrante <!-- feedback: Incorrecto. Aquí tanto seno como coseno son negativos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto cuadrante <!-- feedback: Correcto. En el IV cuadrante el coseno es positivo y el seno es negativo. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nIdentificación de cuadrantes basándose en el análisis de signos de las funciones trigonométricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v7",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v7`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Identidades pitagóricas.\n\n### Enunciado\nSimplifique la expresión: $E = \\text{sen}^2(x) \\cdot \\csc(x) + \\cos^2(x) \\cdot \\sec(x)$\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 <!-- feedback: Incorrecto. Confundió con la identidad $\\text{sen}^2 + \\cos^2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{sen}(x) + \\cos(x)$ <!-- feedback: Correcto. $\\text{sen}^2(x) \\cdot (1/\\text{sen}(x)) + \\cos^2(x) \\cdot (1/\\cos(x)) = \\text{sen}(x) + \\cos(x)$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan(x)$ <!-- feedback: Incorrecto. No corresponde a la simplificación de los términos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{sen}(x) \\cdot \\cos(x)$ <!-- feedback: Incorrecto. Los términos se están sumando, no multiplicando. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de identidades recíprocas ($\\csc = 1/\\text{sen}$, $\\sec = 1/\\cos$) para simplificar expresiones trigonométricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v8",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v8`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Reducción al primer cuadrante.\n\n### Enunciado\n¿A qué es igual el $\\cos(120^\\circ)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$ <!-- feedback: Incorrecto. Olvidó el signo negativo del segundo cuadrante. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$-1/2$ <!-- feedback: Correcto. $\\cos(120^\\circ) = \\cos(180^\\circ - 60^\\circ) = -\\cos(60^\\circ) = -1/2$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor del $\\text{sen}(120^\\circ)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sqrt{3}/2$ <!-- feedback: Incorrecto. Valor correspondiente a otro ángulo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las reglas de reducción al primer cuadrante y análisis de signos según el cuadrante.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v9",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v9`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Identidades de ángulos compuestos.\n\n### Enunciado\n¿Cuál es el valor exacto de $\\text{sen}(75^\\circ)$? (Sugerencia: use $45^\\circ + 30^\\circ$)\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\sqrt{6} - \\sqrt{2})/4$ <!-- feedback: Incorrecto. Este es el valor del $\\text{sen}(15^\\circ)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$(\\sqrt{6} + \\sqrt{2})/4$ <!-- feedback: Correcto. $\\text{sen}(45+30) = \\text{sen}45\\cos30 + \\cos45\\text{sen}30 = (\\sqrt{2}/2)(\\sqrt{3}/2) + (\\sqrt{2}/2)(1/2) = (\\sqrt{6}+\\sqrt{2})/4$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1/2$ <!-- feedback: Incorrecto. Valor no corresponde. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(\\sqrt{3} + 1)/2$ <!-- feedback: Incorrecto. Error en el denominador y en la simplificación de raíces. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de la fórmula del seno de la suma de dos ángulos para hallar valores de ángulos no notables.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v10",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v10`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Circunferencia Trigonométrica (C.T.).\n\n### Enunciado\nEn la C.T., ¿cuál es el valor máximo que puede tomar la línea seno?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 <!-- feedback: Incorrecto. El seno varía entre -1 y 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$ <!-- feedback: Incorrecto. El valor máximo de la función es un número real, no un ángulo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1 <!-- feedback: Correcto. En la circunferencia de radio 1, la ordenada máxima es 1 (para $90^\\circ$ o $\\pi/2$ rad). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Infinito <!-- feedback: Incorrecto. La función seno es acotada. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión de la representación de las razones trigonométricas en la circunferencia de radio unitario.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v11",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v11`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Ecuaciones trigonométricas básicas.\n\n### Enunciado\nResuelva la ecuación $2\\text{sen}(x) - 1 = 0$ para $x \\in [0, 2\\pi]$. ¿Cuál es el conjunto solución?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{30^\\circ, 60^\\circ\\}$ <!-- feedback: Incorrecto. El seno de 60 es $\\sqrt{3}/2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\{\\pi/6, 5\\pi/6\\}$ <!-- feedback: Correcto. $\\text{sen}(x) = 1/2$. Las soluciones en el primer y segundo cuadrante son $30^\\circ$ ($\\pi/6$) y $150^\\circ$ ($5\\pi/6$). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\{\\pi/3, 2\\pi/3\\}$ <!-- feedback: Incorrecto. Valores corresponden a cuando el seno es $\\sqrt{3}/2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\{\\pi/6, 7\\pi/6\\}$ <!-- feedback: Incorrecto. En $7\\pi/6$ el seno es $-1/2$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nResolución de ecuaciones trigonométricas lineales en un intervalo dado, identificando todas las soluciones posibles.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v12",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v12`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Ley de Senos. En un triángulo $ABC$, el ángulo $A = 30^\\circ$, el ángulo $B = 45^\\circ$ y el lado opuesto al ángulo $A$ mide $a = 10$ cm.\n\n### Enunciado\n¿Cuánto mide el lado $b$ (opuesto al ángulo $B$)?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{3}$ cm <!-- feedback: Incorrecto. Usó mal la relación de la ley de senos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{2}$ cm <!-- feedback: Correcto. $a/\\text{sen}A = b/\\text{sen}B \\Rightarrow 10/\\text{sen}30 = b/\\text{sen}45 \\Rightarrow 10/(1/2) = b/(\\sqrt{2}/2) \\Rightarrow 20 = 2b/\\sqrt{2} \\Rightarrow b = 10\\sqrt{2}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{2}$ cm <!-- feedback: Incorrecto. Error en la simplificación de la fracción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20 cm <!-- feedback: Incorrecto. Olvidó multiplicar por el $\\text{sen}(45^\\circ)$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de la Ley de Senos para hallar lados desconocidos en triángulos oblicuángulos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v13",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v13`\n**Bloom:** Apply\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Ley de Cosenos. Un pescador en Puno parte de un muelle y navega 3 km hacia el norte y luego 4 km en una dirección que forma 60° con la primera.\n\n### Enunciado\n¿A qué distancia del muelle se encuentra?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 km <!-- feedback: Incorrecto. Este resultado sería si el ángulo fuera de 90° (Pitágoras). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{37}$ km <!-- feedback: Correcto. $d^2 = 3^2 + 4^2 - 2(3)(4)\\cos(120^\\circ)$. El ángulo entre los vectores de desplazamiento es 120°. $d^2 = 9 + 16 - 24(-0.5) = 25 + 12 = 37 \\Rightarrow d = \\sqrt{37}$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{13}$ km <!-- feedback: Incorrecto. Usó el ángulo de 60° directamente en la fórmula sin considerar la orientación del giro. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7 km <!-- feedback: Incorrecto. Sumó las distancias directamente (camino recorrido, no desplazamiento). -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de la Ley de Cosenos para resolver problemas de desplazamiento vectorial y distancias.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v14",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v14`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Identidades de ángulo doble.\n\n### Enunciado\nSi $\\text{sen}(x) = 3/5$ y $x$ está en el primer cuadrante, ¿cuál es el valor de $\\text{sen}(2x)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/5 <!-- feedback: Incorrecto. El valor del seno nunca puede ser mayor a 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "24/25 <!-- feedback: Correcto. Si $\\text{sen}(x)=3/5$, entonces $\\cos(x)=4/5$. $\\text{sen}(2x) = 2\\text{sen}(x)\\cos(x) = 2(3/5)(4/5) = 24/25$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "7/25 <!-- feedback: Incorrecto. Este es el valor de $\\cos(2x)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12/25 <!-- feedback: Incorrecto. Olvidó el factor 2 en la fórmula del ángulo doble. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAplicación de las fórmulas de ángulo doble y relación con las identidades pitagóricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v15",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v15`\n**Bloom:** Evaluate\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Análisis de funciones trigonométricas.\n\n### Enunciado\n¿Cuál es el valor mínimo que toma la función $f(x) = 5 - 2\\cos(3x)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 <!-- feedback: Incorrecto. 5 es el valor medio de la función. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3 <!-- feedback: Correcto. El valor máximo de $\\cos(3x)$ es 1. Entonces $f_{min} = 5 - 2(1) = 3$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "7 <!-- feedback: Incorrecto. Este es el valor máximo de la función. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-1 <!-- feedback: Incorrecto. Error al considerar el rango del coseno. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis del rango de funciones trigonométricas transformadas (desplazamiento y amplitud).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v16",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v16`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Transformaciones de suma a producto.\n\n### Enunciado\nSimplifique la expresión: $\\frac{\\text{sen}(5x) + \\text{sen}(x)}{\\cos(5x) + \\cos(x)}$\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\tan(3x)$ <!-- feedback: Correcto. Usando transformaciones: $2\\text{sen}(3x)\\cos(2x) / 2\\cos(3x)\\cos(2x) = \\tan(3x)$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\cot(3x)$ <!-- feedback: Incorrecto. Invirtió la relación seno/coseno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan(3x)$ <!-- feedback: Correcto. Aplicando las fórmulas de suma a producto se obtiene la tangente del ángulo promedio. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\tan(6x)$ <!-- feedback: Incorrecto. Sumó los ángulos en lugar de promediarlos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nUso de identidades de transformación de suma de funciones trigonométricas a productos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v17",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v17`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Funciones trigonométricas inversas.\n\n### Enunciado\n¿Cuál es el valor de $E = \\text{arcsen}(1/2) + \\arctan(1)$?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45^\\circ$ <!-- feedback: Incorrecto. Solo consideró el valor de la arcotangente. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$60^\\circ$ <!-- feedback: Incorrecto. Error en los valores notables de las inversas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$75^\\circ$ <!-- feedback: Correcto. $\\text{arcsen}(1/2) = 30^\\circ$ y $\\arctan(1) = 45^\\circ$. La suma es $75^\\circ$ o $5\\pi/12$ rad. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$ <!-- feedback: Incorrecto. Suma errónea de los ángulos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nEvaluación de funciones trigonométricas inversas para valores notables.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v18",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v18`\n**Bloom:** Create\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Eliminación de arcos.\n\n### Enunciado\nSi $\\tan(x) + \\cot(x) = m$, determine el valor de $\\text{sen}(2x)$ en términos de $m$.\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m$ <!-- feedback: Incorrecto. No es una relación directa de igualdad. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$2/m$ <!-- feedback: Correcto. $\\tan + \\cot = 1/(\\text{sen}\\cos) = m \\Rightarrow \\text{sen}\\cos = 1/m$. Como $\\text{sen}(2x) = 2\\text{sen}\\cos$, entonces $\\text{sen}(2x) = 2/m$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1/m$ <!-- feedback: Incorrecto. Olvidó el factor 2 del ángulo doble. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$m/2$ <!-- feedback: Incorrecto. Relación inversa a la correcta. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDemostración y aplicación de identidades auxiliares importantes en trigonometría.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v19",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v19`\n**Bloom:** Analyze\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Resolución de triángulos con datos incompletos.\n\n### Enunciado\nEn un triángulo, los lados son proporcionales a 3, 5 y 7. ¿Cuál es la medida del mayor ángulo del triángulo?\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90^\\circ$ <!-- feedback: Incorrecto. No cumple el teorema de Pitágoras ($3^2+5^2 \\ne 7^2$). -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$120^\\circ$ <!-- feedback: Correcto. Usando ley de cosenos en el lado mayor: $7^2 = 3^2 + 5^2 - 2(3)(5)\\cos\\theta \\Rightarrow 49 = 9 + 25 - 30\\cos\\theta \\Rightarrow 15 = -30\\cos\\theta \\Rightarrow \\cos\\theta = -1/2$. El ángulo es $120^\\circ$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$135^\\circ$ <!-- feedback: Incorrecto. El coseno de 135 es $-\\sqrt{2}/2$. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$150^\\circ$ <!-- feedback: Incorrecto. El coseno de 150 es $-\\sqrt{3}/2$. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nUso de la Ley de Cosenos para determinar ángulos a partir de las proporciones de los lados de un triángulo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    },
+    {
+      "id": "PE-MAT-11-P1-trigonometria-001-v20",
+      "statement": "**ID:** `PE-MAT-11-P1-trigonometria-001-v20`\n**Bloom:** Evaluate\n**ICFES:** Resuelve problemas de forma, movimiento y localización\n**Context:** Análisis de funciones compuestas.\n\n### Enunciado\nDetermine el rango de la función $f(x) = \\text{sen}^2(x) - 4\\text{sen}(x) + 5$.\n\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[1, 10]$ <!-- feedback: Incorrecto. El seno está acotado entre -1 y 1. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$[2, 10]$ <!-- feedback: Correcto. Completando cuadrados: $f(x) = (\\text{sen}(x) - 2)^2 + 1$. Si $\\text{sen}(x) = 1$, $f(1) = (1-2)^2 + 1 = 2$. Si $\\text{sen}(x) = -1$, $f(-1) = (-1-2)^2 + 1 = 10$. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$[5, 10]$ <!-- feedback: Incorrecto. No consideró los valores donde el seno es positivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 10]$ <!-- feedback: Incorrecto. El valor mínimo es 2. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nDeterminación del rango de una función trigonométrica cuadrática mediante la técnica de completar cuadrados y análisis de extremos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PE-MAT-11-P1-trigonometria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1"
+    }
+  ]
+}

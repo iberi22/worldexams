@@ -1,17 +1,18 @@
 ---
-id: CO-ENG-07-describing-people-104
-country: co
-grado: 7
-asignatura: ingles
-tema: describing-people
-periodo: 1
-cefr_level: A2+
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
-bilingual_support: true
-dba_id: DBA-TODO
-creation_date: '2026-01-31'
+id: "CO-ENG-07-describing-people-104"
+cefr_level: "A2+"
+country: "co"
+grado: "7"
+asignatura: "ingles"
+tema: "describing-people"
+periodo: "1"
+protocol_version: "5.1"
+total_questions: "10"
+bilingual_support: "true"
+dba_id: "DBA-TODO"
+creation_date: "2026-01-31"
 ---
+
 # Topic: Describing People (A2+)
 
 ---

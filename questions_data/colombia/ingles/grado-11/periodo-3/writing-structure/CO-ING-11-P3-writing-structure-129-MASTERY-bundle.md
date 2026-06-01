@@ -1,4 +1,35 @@
-<think>
+---
+id: "CO-ING-11-P3-writing-structure-129-MASTERY"
+cefr_level: "B1"
+country: "colombia"
+grado: "11"
+asignatura: "ingles"
+tema: "writing-structure"
+periodo: "3"
+protocol_version: "5.1"
+bundle_size: "20"
+bundle_index: "129"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+generation: ""
+agent: "minimax-m2.7"
+model: "minimax/MiniMax-M2.7"
+timestamp: "2026-04-15T22:36:53.100111"
+prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: "true"
+curation: ""
+human_review_required: "true"
+human_reviewed: "false"
+agent_curated: "false"
+community_curated: "false"
+community_curation_count: "0"
+license: "CC BY-NC-SA 4.0"
+open_source: "false"
+---
+
+<!-- think:
+
 The user wants me to generate exactly 20 multiple choice questions in ICFES Saber 11 format for English (writing-structure), grade 11, period 3. The output must be a complete markdown file with YAML frontmatter and 20 questions following the specified format.
 
 Let me create this carefully:
@@ -36,37 +67,8 @@ I'll create varied contexts relevant to Colombian students:
 
 Let me generate the questions now.
 
-</think>
 
-```yaml
----
-id: "CO-ING-11-P3-writing-structure-129-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "ingles"
-tema: "writing-structure"
-periodo: 3
-protocol_version: "5.1"
-bundle_size: 20
-bundle_index: 129
-alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T22:36:53.100111"
-  prompt_version: "v2-direct"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
-license: "CC BY-NC-SA 4.0"
-open_source: false
----
+-->
 
 ## Question 1 (Variant Basic - Difficulty D3)
 

@@ -112,7 +112,7 @@ if (-not $Fast) {
 
   if (-not $SkipValidate) {
     Write-Host '[deploy] Running validation...' -ForegroundColor Gray
-    npm run validate:strict
+    pnpm run validate:strict
     if ($LASTEXITCODE -ne 0) {
       throw '[deploy] validate:strict failed.'
     }
@@ -120,7 +120,7 @@ if (-not $Fast) {
 }
 
 Write-Host '[deploy] Building bundle...' -ForegroundColor Gray
-npm run build
+pnpm run build
 if ($LASTEXITCODE -ne 0) {
   throw '[deploy] build failed.'
 }

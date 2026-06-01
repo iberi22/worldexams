@@ -1,16 +1,17 @@
 ---
 id: "CO-IN-11-P1-gram-005-MASTERY"
+cefr_level: "B2+"
 country: "colombia"
-grado: 11
+grado: "11"
 asignatura: "ingles"
 tema: "uso-del-lenguaje"
-periodo: 1
-protocol_version: "5.2"
-bundle_index: 5
-bundle_size: 20
+periodo: "1"
+protocol_version: "5.1"
+bundle_index: "5"
+bundle_size: "20"
 alignment: "ICFES Saber 11 + MEN"
 target_cefr: "B2+"
-modern_context: true
+modern_context: "true"
 distractor_profile: "plausible_peer_set"
 ---
 

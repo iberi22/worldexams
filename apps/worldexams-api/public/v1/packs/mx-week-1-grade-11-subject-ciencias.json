@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-11-subject-ciencias",
+    "generated_at": "2026-06-01T17:05:46.761Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v1",
+      "statement": "¿Cuál es la unidad básica y fundamental de todo ser vivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo. <!-- feedback: Incorrecto. El núcleo es un orgánulo celular, no la unidad fundamental. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La célula. <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El tejido. <!-- feedback: Incorrecto. El tejido es un conjunto de células especializadas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El ADN. <!-- feedback: Incorrecto. El ADN es una molécula, no la unidad del ser vivo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nIdentificación de la célula como la unidad fundamental de la vida, base de la teoría celular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v2",
+      "statement": "El ajolote mexicano (Ambystoma mexicanum) es endémico de Xochimilco. ¿Qué significa que sea una especie endémica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está en peligro de extinción. <!-- feedback: Incorrecto. Endémico no es sinónimo de peligro de extinción. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que migra a otras regiones en temporada de lluvias. <!-- feedback: Incorrecto. Endémico significa lo contrario. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que solo habita de forma natural en esa región. <!-- feedback: Correcto. Una especie endémica tiene distribución restringida a un área geográfica específica. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que fue introducida por el ser humano. <!-- feedback: Incorrecto. Introducida y endémica son conceptos opuestos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión del concepto de endemismo usando como ejemplo un ícono de la biodiversidad mexicana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v3",
+      "statement": "¿Qué orgánulo celular se encarga de la producción de energía (ATP) en las células eucariotas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo. <!-- feedback: Incorrecto. El núcleo almacena el material genético. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El aparato de Golgi. <!-- feedback: Incorrecto. Se encarga del empaquetamiento de proteínas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La mitocondria. <!-- feedback: Correcto. Las mitocondrias son las centrales energéticas de la célula. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático. <!-- feedback: Incorrecto. Participa en la síntesis de proteínas y lípidos. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de la función de organelos celulares esenciales en el metabolismo energético.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v4",
+      "statement": "¿Cuál es la principal diferencia entre células procariotas y eucariotas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las procariotas tienen mitocondrias y las eucariotas no. <!-- feedback: Incorrecto. Es al revés. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Las procariotas son más grandes. <!-- feedback: Incorrecto. Las eucariotas suelen ser más grandes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las procariotas carecen de núcleo definido. <!-- feedback: Correcto. Las procariotas no tienen núcleo delimitado por membrana. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Las eucariotas no tienen pared celular. <!-- feedback: Incorrecto. Algunas eucariotas como las plantas sí tienen pared celular. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nDistinción fundamental entre los dos grandes tipos de organización celular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v5",
+      "statement": "México es considerado un país megadiverso. ¿Qué característica principal le da esa categoría?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener la mayor extensión territorial del mundo. <!-- feedback: Incorrecto. México no está entre los países más extensos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tener el clima más extremo del planeta. <!-- feedback: Incorrecto. La megadiversidad no se define por clima extremo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Albergar una gran cantidad de especies endémicas y ecosistemas distintos. <!-- feedback: Correcto. México posee entre el 10 y 12% de las especies mundiales. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Tener la mayor población humana del continente. <!-- feedback: Incorrecto. La población humana no define megadiversidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nReconocimiento de México como país megadiverso y comprensión del concepto de biodiversidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v6",
+      "statement": "En los conejos de la sierra de Chihuahua, el color de pelo oscuro (O) es dominante sobre el claro (o). Si dos conejos heterocigotos (Oo) se cruzan, ¿qué probabilidad tienen de tener una cría de pelo claro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% <!-- feedback: Incorrecto. Al ser Oo × Oo, la probabilidad de oo es del 25%. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "100% <!-- feedback: Incorrecto. El fenotipo claro solo aparece si ambos alelos son recesivos. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75% <!-- feedback: Incorrecto. El 75% sería la probabilidad de pelo oscuro. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25% <!-- feedback: Correcto. Cuadro de Punnett: Oo × Oo = 1 OO : 2 Oo : 1 oo. El genotipo oo tiene probabilidad 1/4. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nAplicación de las leyes de Mendel para predecir proporciones genotípicas y fenotípicas en la descendencia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v7",
+      "statement": "En un ecosistema de manglar en Yucatán, las garzas se alimentan de peces, los peces comen crustáceos y los crustáceos comen algas. ¿Qué nivel trófico ocupan las garzas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores. <!-- feedback: Incorrecto. Los productores son las algas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores primarios. <!-- feedback: Incorrecto. Los consumidores primarios comen productores. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores secundarios. <!-- feedback: Incorrecto. Son terciarios, no secundarios. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Consumidores terciarios. <!-- feedback: Correcto. Algas → crustáceos → peces → garzas. Las garzas son el cuarto nivel. -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagógica\nIdentificación de niveles tróficos en una cadena alimenticia de un ecosistema costero mexicano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v8",
+      "statement": "¿Cuáles son los reactivos principales de la fotosíntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glucosa y oxígeno. <!-- feedback: Incorrecto. Esos son los productos de la fotosíntesis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Agua y oxígeno. <!-- feedback: Incorrecto. El oxígeno es un producto, no un reactivo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dióxido de carbono y agua. <!-- feedback: Correcto. 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Glucosa y dióxido de carbono. <!-- feedback: Incorrecto. La glucosa es producto, no reactivo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación de reactivos y productos de la fotosíntesis, proceso fundamental para la vida en el planeta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v9",
+      "statement": "El cactus gigante (Pachycereus pringlei) del desierto de Sonora tiene un tallo grueso y espinas en lugar de hojas. ¿Cuál es la principal ventaja adaptativa de las espinas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayudan a absorber más luz solar. <!-- feedback: Incorrecto. Las espinas no ayudan en la absorción de luz. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reducen la pérdida de agua por transpiración. <!-- feedback: Correcto. Las espinas son hojas modificadas que minimizan la superficie de evaporación. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Atraen insectos polinizadores. <!-- feedback: Incorrecto. Las flores cumplen esa función, no las espinas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Almacenan agua para la sequía. <!-- feedback: Incorrecto. El tallo almacena agua, las espinas no. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nAnálisis de adaptaciones morfológicas de plantas al estrés hídrico en el desierto de Sonora.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v10",
+      "statement": "¿Qué proceso biológico convierte el nitrógeno atmosférico (N₂) en compuestos aprovechables por las plantas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis. <!-- feedback: Incorrecto. La fotosíntesis fija carbono, no nitrógeno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La respiración celular. <!-- feedback: Incorrecto. La respiración libera CO₂. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La fijación biológica del nitrógeno. <!-- feedback: Correcto. Bacterias del suelo y nódulos de leguminosas convierten N₂ en amoniaco (NH₃). -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La transpiración. <!-- feedback: Incorrecto. La transpiración mueve agua, no nitrógeno. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nComprensión del ciclo del nitrógeno y la importancia de la fijación biológica para los ecosistemas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v11",
+      "statement": "En la Ciudad de México, la contaminación ambiental activa contingencias atmosféricas. ¿Qué efecto tiene la inhalación prolongada de partículas contaminantes en el sistema respiratorio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la capacidad pulmonar. <!-- feedback: Incorrecto. La contaminación no aumenta la capacidad pulmonar. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Mejora el intercambio de gases. <!-- feedback: Incorrecto. La contaminación perjudica el intercambio. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Daña los alveolos y reduce la capacidad de intercambio de gases. <!-- feedback: Correcto. Las partículas finas pueden inflamar y dañar el tejido pulmonar. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Estimula la producción de moco protector. <!-- feedback: Incorrecto. Aunque puede haber más moco, es una respuesta inflamatoria, no una mejora. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nRelación entre la contaminación atmosférica (problemática real de la CDMX) y la fisiología respiratoria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v12",
+      "statement": "Durante el ciclo celular, la mitosis ocurre después de la fase G₂. ¿Cuál es el propósito principal de la mitosis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Duplicar el ADN. <!-- feedback: Incorrecto. La duplicación del ADN ocurre durante la fase S. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Producir energía para la célula. <!-- feedback: Incorrecto. La producción de energía ocurre en las mitocondrias, no durante la mitosis. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dividir el núcleo para distribuir el material genético equitativamente. <!-- feedback: Correcto. La mitosis reparte los cromosomas duplicados entre dos núcleos hijos. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Sintetizar proteínas. <!-- feedback: Incorrecto. La síntesis de proteínas ocurre en todo el ciclo. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nIdentificación del propósito de la mitosis en el ciclo celular: distribución equitativa del ADN.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v13",
+      "statement": "En una población de lagartijas del Valle de Tehuacán, las que tienen escamas más oscuras sobreviven mejor al calor extremo. Con el tiempo, la población se vuelve predominantemente oscura. Este cambio es un ejemplo de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deriva génica. <!-- feedback: Incorrecto. La deriva génica es aleatoria, no dirigida por una ventaja adaptativa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Selección natural. <!-- feedback: Correcto. La ventaja reproductiva de las escamas oscuras se traduce en mayor frecuencia de ese rasgo. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Mutación inducida. <!-- feedback: Incorrecto. La mutación es la fuente de variación, no el proceso de cambio poblacional. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Migración. <!-- feedback: Incorrecto. No hay flujo génico de otras poblaciones. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\nReconocimiento de la selección natural como mecanismo evolutivo que actúa sobre variaciones existentes en una población.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v14",
+      "statement": "Cuando una persona corre bajo el sol en la playa de Cancún, su cuerpo empieza a sudar. ¿Qué mecanismo homeostático representa la sudoración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la temperatura corporal. <!-- feedback: Incorrecto. El sudor es la respuesta, no el mecanismo. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Regulación del pH sanguíneo. <!-- feedback: Incorrecto. La sudoración regula temperatura, no pH. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Termorregulación por enfriamiento evaporativo. <!-- feedback: Correcto. El sudor se evapora y enfría la superficie corporal. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación de desechos metabólicos. <!-- feedback: Incorrecto. Aunque el sudor elimina sales, su función principal es la termorregulación. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nRelación entre la sudoración como mecanismo de retroalimentación negativa para mantener la temperatura corporal constante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v15",
+      "statement": "Si una cadena de ADN tiene la secuencia A-T-G-C-C-A, ¿cuál será la secuencia complementaria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-A-C-G-G-T <!-- feedback: Correcto. El apareamiento complementario es A↔T y G↔C. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "U-A-C-G-G-U <!-- feedback: Incorrecto. Usó uracilo (U), que corresponde al ARN, no al ADN. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "A-T-G-C-C-A <!-- feedback: Incorrecto. Esa es la misma secuencia original. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "G-C-A-T-T-G <!-- feedback: Incorrecto. No respeta el apareamiento complementario. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nAplicación de la regla de complementariedad de bases nitrogenadas en la molécula de ADN.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v16",
+      "statement": "En México, el maíz transgénico ha sido objeto de debate. Un argumento científico a favor de su uso señala que ciertas variedades modificadas genéticamente pueden:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir más oxígeno que el maíz nativo. <!-- feedback: Incorrecto. La modificación genética no apunta a la producción de oxígeno. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ser resistentes a plagas sin necesidad de pesticidas. <!-- feedback: Correcto. El maíz Bt produce una proteína insecticida natural. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Crecer en cualquier tipo de suelo sin nutrientes. <!-- feedback: Incorrecto. Las modificaciones no eliminan la necesidad de nutrientes. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cruzarse naturalmente con maíz nativo para crear mejores híbridos. <!-- feedback: Incorrecto. El flujo génico con maíz nativo es un riesgo, no un beneficio. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nEvaluación de afirmaciones sobre biotecnología, distinguiendo beneficios reales de expectativas no realistas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v17",
+      "statement": "La eutrofización en el Lago de Chapala ocurre cuando fertilizantes agrícolas llegan al agua, causando un crecimiento excesivo de algas. ¿Cuál es la consecuencia ecológica inmediata de este fenómeno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento del oxígeno disuelto en el agua. <!-- feedback: Incorrecto. El crecimiento algal reduce el oxígeno, no lo aumenta. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Mayor disponibilidad de alimento para los peces. <!-- feedback: Incorrecto. El colapso algal produce toxinas y zonas muertas. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Agotamiento del oxígeno por descomposición de algas muertas. <!-- feedback: Correcto. La descomposición bacteriana consume el oxígeno disuelto. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Incremento de la biodiversidad acuática. <!-- feedback: Incorrecto. La eutrofización reduce drásticamente la biodiversidad. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nAnálisis de las consecuencias ecológicas de la eutrofización en un lago mexicano.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v18",
+      "statement": "La vacuna contra el Virus del Papiloma Humano (VPH) se aplica a adolescentes en México como parte de la Cartilla Nacional de Vacunación. ¿Qué tipo de inmunidad genera?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inmunidad pasiva natural. <!-- feedback: Incorrecto. La vacuna genera inmunidad activa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Inmunidad pasiva artificial. <!-- feedback: Incorrecto. Eso sería mediante anticuerpos preformados. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Inmunidad activa artificial. <!-- feedback: Correcto. La vacuna expone al sistema inmune a antígenos para que genere memoria. -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Inmunidad innata. <!-- feedback: Incorrecto. La inmunidad innata no es específica ni genera memoria. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedagógica\nClasificación del tipo de inmunidad generada por las vacunas, usando un ejemplo relevante de salud pública.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v19",
+      "statement": "Un estudiante quiere investigar si el agua del Canal de Xochimilco afecta el crecimiento de plantas de maíz. ¿Cuál sería un diseño experimental adecuado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regar 5 plantas con agua del canal y observar su crecimiento. <!-- feedback: Incorrecto. Sin grupo control, no se puede concluir. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Regar 3 plantas con agua del canal y 3 con agua de la llave, midiendo altura cada semana. <!-- feedback: Correcto. Incluye grupo control, variable independiente (tipo de agua) y medición cuantitativa. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar a los agricultores si el agua del canal es buena. <!-- feedback: Incorrecto. Eso no es un experimento. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Analizar la composición química del agua sin plantas. <!-- feedback: Incorrecto. Eso solo responde sobre composición, no sobre efecto en crecimiento. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nDiseño de un experimento controlado, identificando variable independiente, grupo control y mediciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-CIE-11-P1-biologia-001-v20",
+      "statement": "La mariposa Monarca migra cada año desde Canadá hasta los bosques de oyamel en Michoacán. ¿Cuál de los siguientes factores derivados del cambio climático representa la mayor amenaza para este fenómeno migratorio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de turistas en los santuarios. <!-- feedback: Incorrecto. Es una presión local, no sistémica. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La variación en los patrones de temperatura que altera su ciclo reproductivo. <!-- feedback: Correcto. El cambio climático altera las señales térmicas que sincronizan la migración. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La deforestación de los santuarios en Michoacán. <!-- feedback: Incorrecto. Es una amenaza real pero no es el principal factor climático. -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El aumento de depredadores en Canadá. <!-- feedback: Incorrecto. No se ha identificado como amenaza principal. -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\nEvaluación de los efectos del cambio climático sobre fenómenos ecológicos complejos como la migración de la Monarca.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-CIE-11-P1-biologia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null
+    }
+  ]
+}

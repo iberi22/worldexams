@@ -1,28 +1,27 @@
 ---
-# === METADATA GLOBAL ===
 id: "CO-ING-11-part6-inference-001"
+cefr_level: "B1"
 country: "co"
-grado: 11
+grado: "11"
 asignatura: "Inglés"
 tema: "Part 6 - Inferential Reading"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "5.1"
+total_questions: "7"
 estado: "published"
 creador: "AI-WorldExams"
 generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Maria's Decision (Adaptación ICFES)"
+licenses: ""
+v1: "CC BY-SA 4.0"
+v2-v7: "CC BY-NC-SA 4.0"
+source: "Marias Decision (Adaptación ICFES)"
 source_url: "https://www.icfes.gov.co"
 source_license: "Uso Educativo"
 search_query: "preguntas icfes ingles parte 6 inferencial ejemplos"
 original_question: "Why did Maria leave her job?"
 original_answer: "To pursue meaningful experience over money."
+# === METADATA GLOBAL ===
+# === LICENSING (NEW v2.1) ===
+# === SOURCE ATTRIBUTION ===
 ---
 
 # Pregunta Base: Lectura Inferencial (Maria's Story)
