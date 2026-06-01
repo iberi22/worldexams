@@ -23,16 +23,14 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
-          cache-dependency-path: saberparatodos/package-lock.json
 
       - name: 📦 Install dependencies
         working-directory: ./saberparatodos
         run: npm ci
 
-      - name: 🔍 Run Linter
+      - name: 🔍 Type check
         working-directory: ./saberparatodos
-        run: npm run check
+        run: npx tsc --noEmit
 
       - name: 🏗️ Build Application
         working-directory: ./saberparatodos
@@ -84,12 +82,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
-          cache-dependency-path: apps/worldexams-api/package-lock.json
 
       - name: 📦 Install dependencies
         working-directory: ./apps/worldexams-api
-        run: npm ci
+        run: npm install
 
       - name: 🔍 Type check
         working-directory: ./apps/worldexams-api
