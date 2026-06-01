@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.15.0] - 2026-06-01
+
+### v0.15.0: CI/CD Fixes + Preview Workflow + Packs Regeneration
+
+#### Added
+- **Preview Workflow**: deploy-preview.yml — pushes a cualquier branch excepto main deployan a Cloudflare Pages preview (*.pages.dev) automáticamente
+- **Production Gate**: Deploy a producción requiere environment con aprobación manual
+- **verify-deploy.mjs**: Script de verificación post-deploy (packs, versión, endpoints, contexto)
+- **Testing**: 150 packs regenerados con campo context extraído correctamente desde markdown
+
+#### Changed
+- **CI/CD**: Node.js 20 ? 22, type check con 
+px tsc --noEmit, sin cache npm para API
+- **Token Cloudflare**: Nuevo token ''Edit Cloudflare Workers'' con permisos Workers + Pages
+- **build-info.json**: version bump a 0.15.0
+
+#### Fixed
+- **deploy-api**: Variable CF_API_TOKEN no reconocida por Wrangler ? reemplazada por CLOUDFLARE_API_TOKEN
+- **deploy-api**: Token Cloudflare expirado (creado hace 6 meses)
+- **current.json**: Version inconsistente (1.0.0 ? 0.15.0)
+- **Tag version**: Corrección de tags para alinearlos con commits reales
+
 ## [0.14.0] - 2026-06-01
 
 ### Context-Aware Questions + Shared Layout
