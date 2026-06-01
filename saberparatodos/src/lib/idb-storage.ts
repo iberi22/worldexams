@@ -127,14 +127,21 @@ export async function saveExamResultLocal(
     // Structured Clone fail check - uses JSON as fallback for deep sanitization
     let cleanDetails = [];
     try {
+       // Deep clone all question data to strip Svelte proxies and non-cloneable objects
        cleanDetails = JSON.parse(JSON.stringify(questions || []));
     } catch (e) {
        console.warn('Could not deep clone details, stripping complex objects', e);
+    }
+
+    // If deep clone produced empty or partial results (e.g., missing question.text),
+    // serialize each entry individually with safe property extraction
+    if (!cleanDetails.length || (cleanDetails.length > 0 && !cleanDetails[0].question)) {
        cleanDetails = (questions || []).map(d => ({
          questionId: d.questionId,
          isCorrect: d.isCorrect,
          difficulty: d.difficulty,
-         timeSpentMs: d.timeSpentMs
+         timeSpentMs: d.timeSpentMs,
+         question: safeSerializeQuestion(d.question)
        }));
     }
 
@@ -645,4 +652,41 @@ export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> 
  */
 export async function markPartySessionSynced(sessionId: string): Promise<void> {
   await updatePartySession(sessionId, { synced: true });
+}
+
+/**
+ * Safely serialize a question object for storage, stripping non-cloneable fields
+ * and handling Svelte 5 proxies / circular references gracefully.
+ */
+function safeSerializeQuestion(q: any): any {
+  if (!q) return null;
+  try {
+    // First try full JSON serialization
+    const serialized = JSON.parse(JSON.stringify(q));
+    // Verify essential fields survived
+    if (serialized && typeof serialized === 'object' && serialized.id && serialized.options) {
+      return serialized;
+    }
+  } catch (e) {
+    console.warn('Question serialization failed, extracting safe fields', e);
+  }
+  // Fallback: extract only safe primitive fields
+  const safe: any = {};
+  const fields = ['id', 'text', 'statement', 'context', 'options', 'explanation',
+                  'correctOptionId', 'difficulty', 'images', 'tags', 'bundleId',
+                  'category', 'subject', 'grade', 'protocol_version'];
+  for (const f of fields) {
+    try { safe[f] = q[f]; } catch (e) { /* skip non-serializable */ }
+  }
+  // Deep-clean options array
+  if (safe.options && Array.isArray(safe.options)) {
+    safe.options = safe.options.map((opt: any) => {
+      try {
+        return JSON.parse(JSON.stringify(opt));
+      } catch (e) {
+        return { id: opt.id, text: String(opt.text || ''), is_correct: !!opt.is_correct };
+      }
+    });
+  }
+  return safe;
 }
