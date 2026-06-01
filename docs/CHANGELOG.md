@@ -1,3 +1,25 @@
+## [0.15.0] - 2026-06-01
+
+### v0.15.0: CI/CD Fixes + Preview Workflow + Packs Regeneration
+
+#### Added
+- **Preview Workflow**: deploy-preview.yml pushes to non-main branches deploy to Cloudflare Pages preview (*.pages.dev) automatically
+- **Production Gate**: Production deploy requires manual approval via GitHub Environments
+- **verify-deploy.mjs**: Post-deploy verification script (packs, version, endpoints, context field)
+- **Testing**: 150 packs regenerated with context field correctly extracted from markdown
+
+#### Changed
+- **CI/CD**: Node.js 20 ? 22, type check with 
+px tsc --noEmit, removed npm cache for API job
+- **Cloudflare Token**: New ''Edit Cloudflare Workers'' token with Workers + Pages permissions
+- **build-info.json**: version bump to 0.15.0
+
+#### Fixed
+- **deploy-api**: CF_API_TOKEN env var not recognized by Wrangler ? replaced with CLOUDFLARE_API_TOKEN
+- **deploy-api**: Cloudflare token expired (created 6 months ago)
+- **current.json**: Inconsistent version (1.0.0 ? 0.15.0)
+- **Tag version**: Tags now aligned with actual commits
+
 ## [0.14.0] - 2026-06-01
 
 ### Context-Aware Questions + Shared Layout
