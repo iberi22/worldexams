@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   deployments: write
 
 jobs:
@@ -16,30 +16,38 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🟢 Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         working-directory: ./saberparatodos
         run: npm ci
 
-      - name: 🔍 Type check
+      - name: Lint & type check
         working-directory: ./saberparatodos
-        run: npx tsc --noEmit
+        run: npx tsc --noEmit && npx astro check
 
-      - name: 🏗️ Build Application
+      - name: Unit tests
+        working-directory: ./saberparatodos
+        run: npm run test:unit
+
+      - name: Build Application
         working-directory: ./saberparatodos
         run: npm run build
         env:
           PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
 
-      - name: 📤 Upload Build Artifact
+      - name: Pre-deploy check
+        working-directory: ./saberparatodos
+        run: node scripts/pre-deploy-check.js
+
+      - name: Upload Build Artifact
         uses: actions/upload-artifact@v4
         with:
           name: dist-${{ github.sha }}
@@ -54,16 +62,16 @@ jobs:
       url: ${{ steps.deploy.outputs.url }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 📥 Download Build Artifact
+      - name: Download Build Artifact
         uses: actions/download-artifact@v4
         with:
           name: dist-${{ github.sha }}
           path: saberparatodos/dist
 
-      - name: 🚀 Deploy to Cloudflare Pages (Preview)
+      - name: Deploy to Cloudflare Pages (Preview)
         id: deploy
         uses: cloudflare/pages-action@v1
         with:
@@ -75,27 +83,81 @@ jobs:
           branch: ${{ github.ref_name }}
 
   deploy-api-preview:
+    needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
       name: preview-api-${{ github.ref_name }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🟢 Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         working-directory: ./apps/worldexams-api
         run: npm install
 
-      - name: 🚀 Deploy API Worker (Preview)
+      - name: Deploy API Worker (Preview)
         working-directory: ./apps/worldexams-api
         run: npx wrangler deploy --branch ${{ github.ref_name }}
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+  smoke-test:
+    needs: deploy-preview
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        working-directory: ./saberparatodos
+        run: npm ci
+
+      - name: Wait for deployment
+        run: sleep 30
+
+      - name: Smoke test (E2E) on preview URL
+        working-directory: ./saberparatodos
+        run: npx playwright test e2e-smoke-tag.spec.ts --reporter=list
+        env:
+          PLAYWRIGHT_BASE_URL: https://${{ github.ref_name }}.saberparatodos.pages.dev
+
+      - name: Verify API endpoint
+        working-directory: ./saberparatodos
+        run: |
+          VERSION=$(cat package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
+          echo "Expected version: $VERSION"
+          curl -s "https://${{ github.ref_name }}.saberparatodos.pages.dev/api/packs/current.json" | grep -q "$VERSION" && echo "OK version match" || (echo "FAIL version mismatch" && exit 1)
+
+  version-tag:
+    needs: smoke-test
+    runs-on: ubuntu-latest
+    if: success()
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create version tag
+        run: |
+          VERSION=$(cat saberparatodos/package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
+          SHORT_HASH=$(echo ${{ github.sha }} | cut -c1-8)
+          DATE_TAG=$(date +'%Y%m%d-%H%M%S')
+          TAG="saberparatodos-v${VERSION}-deploy-${DATE_TAG}-${SHORT_HASH}"
+          git tag "$TAG"
+          git push origin "$TAG"
+          echo "Created tag: $TAG"
