@@ -48,7 +48,7 @@
     "video:capture": "node scripts/video/capture-exam-platform.js",
     "video:pipeline:auto": "node scripts/video/auto-tutorial-pipeline.js",
     "lint": "astro check && tsc --noEmit",
-    "prepare": "husky || true",
+    "postinstall": "node scripts/install-hooks.js",
     "test": "playwright test",
     "test:ui": "playwright test --ui",
     "test:debug": "playwright test --debug",
