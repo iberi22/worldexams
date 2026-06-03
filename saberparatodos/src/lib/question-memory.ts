@@ -4,11 +4,11 @@
  * Auto-clears when user has answered >70% of available questions
  */
 
-import { supabase } from './supabase';
+import { supabase } from "./supabase";
 
-const STORAGE_KEY = 'saberparatodos_answered_questions';
-const STATS_KEY = 'saberparatodos_question_stats';
-const CLEAR_THRESHOLD = 0.70; // 70%
+const STORAGE_KEY = "saberparatodos_answered_questions";
+const STATS_KEY = "saberparatodos_question_stats";
+const CLEAR_THRESHOLD = 0.7; // 70%
 
 export interface QuestionMemory {
   answeredIds: Set<string>;
@@ -31,28 +31,31 @@ export interface QuestionStats {
  * Load stats from localStorage
  */
 export function getStats(): QuestionStats {
-  if (typeof localStorage === 'undefined') return {
-    totalAnswered: 0,
-    correctCount: 0,
-    bySubject: {},
-    byGrade: {},
-    byDifficulty: {},
-    byPeriod: {}, // 🆕
-    streakHistory: [],
-    lastSessionDate: new Date().toISOString()
-  };
+  if (typeof localStorage === "undefined")
+    return {
+      totalAnswered: 0,
+      correctCount: 0,
+      bySubject: {},
+      byGrade: {},
+      byDifficulty: {},
+      byPeriod: {}, // 🆕
+      streakHistory: [],
+      lastSessionDate: new Date().toISOString(),
+    };
 
   const stored = localStorage.getItem(STATS_KEY);
-  return stored ? JSON.parse(stored) : {
-    totalAnswered: 0,
-    correctCount: 0,
-    bySubject: {},
-    byGrade: {},
-    byDifficulty: {},
-    byPeriod: {}, // 🆕
-    streakHistory: [],
-    lastSessionDate: new Date().toISOString()
-  };
+  return stored
+    ? JSON.parse(stored)
+    : {
+        totalAnswered: 0,
+        correctCount: 0,
+        bySubject: {},
+        byGrade: {},
+        byDifficulty: {},
+        byPeriod: {}, // 🆕
+        streakHistory: [],
+        lastSessionDate: new Date().toISOString(),
+      };
 }
 
 /**
@@ -63,7 +66,7 @@ export function getStats(): QuestionStats {
  * Returns Set of IDs that are valid (answered within last 7 days)
  */
 export function loadAnsweredQuestions(): Set<string> {
-  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
     return new Set();
   }
 
@@ -86,12 +89,12 @@ export function loadAnsweredQuestions(): Set<string> {
     }
 
     if (data.answeredIds) {
-       return new Set(data.answeredIds);
+      return new Set(data.answeredIds);
     }
 
     return new Set();
   } catch (e) {
-    console.error('Error loading question memory:', e);
+    console.error("Error loading question memory:", e);
     return new Set();
   }
 }
@@ -104,10 +107,10 @@ export function loadAnsweredQuestions(): Set<string> {
  */
 export function saveAnsweredQuestions(
   answeredIds: Set<string>,
-  totalAvailable: number
+  totalAvailable: number,
 ): void {
   // Check if running in browser environment
-  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
     return;
   }
 
@@ -125,7 +128,7 @@ export function saveAnsweredQuestions(
       } else if (data.answeredIds) {
         // Migration: give all old IDs current timestamp
         data.answeredIds.forEach((id: string) => {
-            currentTimestamps[id] = now;
+          currentTimestamps[id] = now;
         });
       }
     }
@@ -133,9 +136,9 @@ export function saveAnsweredQuestions(
     const newTimestamps: Record<string, number> = {};
 
     // For every ID in the input set (current valid IDs)
-    answeredIds.forEach(id => {
+    answeredIds.forEach((id) => {
       // If we have an existing valid timestamp, keep it
-      if (currentTimestamps[id] && (now - currentTimestamps[id] < SIX_DAYS_MS)) {
+      if (currentTimestamps[id] && now - currentTimestamps[id] < SIX_DAYS_MS) {
         newTimestamps[id] = currentTimestamps[id];
       } else {
         // Otherwise it's new (or re-added), give it NOW
@@ -146,11 +149,11 @@ export function saveAnsweredQuestions(
     const data = {
       answeredTimestamps: newTimestamps,
       lastUpdated: now,
-      totalAvailable
+      totalAvailable,
     };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
   } catch (e) {
-    console.error('Error saving question memory:', e);
+    console.error("Error saving question memory:", e);
   }
 }
 
@@ -163,19 +166,26 @@ export async function markQuestionAnswered(
   questionId: string,
   totalAvailable: number,
   isCorrect: boolean,
-  metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
+  metadata?: {
+    subject?: string;
+    grade?: number;
+    difficulty?: number;
+    timeSeconds?: number;
+  },
 ): Promise<{ cacheCleared: boolean; percentAnswered: number }> {
   const answered = loadAnsweredQuestions();
   answered.add(questionId);
 
   // Update stats
-  updateStats([{
-    id: questionId,
-    isCorrect,
-    subject: metadata?.subject,
-    grade: metadata?.grade,
-    difficulty: metadata?.difficulty
-  }]);
+  updateStats([
+    {
+      id: questionId,
+      isCorrect,
+      subject: metadata?.subject,
+      grade: metadata?.grade,
+      difficulty: metadata?.difficulty,
+    },
+  ]);
 
   // 🆕 Save to database if logged in
   await saveToDatabase(questionId, isCorrect, metadata);
@@ -183,10 +193,11 @@ export async function markQuestionAnswered(
   const percentAnswered = answered.size / totalAvailable;
 
   // Check if we need to clear cache
-  if (percentAnswered > CLEAR_THRESHOLD) {
-    clearQuestionMemory();
-    return { cacheCleared: true, percentAnswered: 0 };
-  }
+  // 🚫 FIX: Never clear automatically at 70%. Let the Smart Recycle handle exhaustion.
+  // if (percentAnswered > CLEAR_THRESHOLD) {
+  //   clearQuestionMemory();
+  //   return { cacheCleared: true, percentAnswered: 0 };
+  // }
 
   saveAnsweredQuestions(answered, totalAvailable);
   return { cacheCleared: false, percentAnswered };
@@ -196,9 +207,15 @@ export async function markQuestionAnswered(
  * Mark multiple questions as answered (batch)
  */
 export function markQuestionsAnswered(
-  questions: Array<{ id: string; isCorrect: boolean; subject?: string; grade?: number; difficulty?: number }>,
+  questions: Array<{
+    id: string;
+    isCorrect: boolean;
+    subject?: string;
+    grade?: number;
+    difficulty?: number;
+  }>,
   totalAvailable: number,
-  period?: number // 🆕 Accept period
+  period?: number, // 🆕 Accept period
 ): { cacheCleared: boolean; percentAnswered: number } {
   const answered = loadAnsweredQuestions();
 
@@ -209,12 +226,14 @@ export function markQuestionsAnswered(
     answered.add(q.id);
   }
 
-  const percentAnswered = totalAvailable > 0 ? answered.size / totalAvailable : 0;
+  const percentAnswered =
+    totalAvailable > 0 ? answered.size / totalAvailable : 0;
 
-  if (percentAnswered > CLEAR_THRESHOLD) {
-    clearQuestionMemory();
-    return { cacheCleared: true, percentAnswered: 0 };
-  }
+  // 🚫 FIX: Never clear automatically at 70%. Let the Smart Recycle handle exhaustion.
+  // if (percentAnswered > CLEAR_THRESHOLD) {
+  //   clearQuestionMemory();
+  //   return { cacheCleared: true, percentAnswered: 0 };
+  // }
 
   saveAnsweredQuestions(answered, totalAvailable);
   return { cacheCleared: false, percentAnswered };
@@ -226,27 +245,29 @@ export function markQuestionsAnswered(
  */
 export function filterUnansweredQuestions<T extends { id: string }>(
   questions: T[],
-  maxQuestions?: number
+  maxQuestions?: number,
 ): { filtered: T[]; hadToRepeat: boolean; wasReset: boolean } {
   const answered = loadAnsweredQuestions();
 
   // Separate into answered and unanswered
-  const unanswered = questions.filter(q => !answered.has(q.id));
-  const previouslyAnswered = questions.filter(q => answered.has(q.id));
+  const unanswered = questions.filter((q) => !answered.has(q.id));
+  const previouslyAnswered = questions.filter((q) => answered.has(q.id));
 
   // If we have enough unanswered questions, use only those
   if (!maxQuestions || unanswered.length >= maxQuestions) {
     return {
       filtered: shuffleArray(unanswered).slice(0, maxQuestions),
       hadToRepeat: false,
-      wasReset: false
+      wasReset: false,
     };
   }
 
   // 🆕 Smart Recycle: If ALL questions have been answered, DO NOT WIPE MEMORY.
   // Instead, recycle the oldest questions but keep the memory intact.
   if (unanswered.length === 0 && previouslyAnswered.length > 0) {
-    console.log('🔄 All questions in pool exhausted - Recycling oldest questions (No Reset)');
+    console.log(
+      "🔄 All questions in pool exhausted - Recycling oldest questions (No Reset)",
+    );
     // clearAnsweredQuestionsOnly(); <--- REMOVED: Never wipe memory automatically
 
     // Sort logic is already handled by sortedFillers below if we let it fall through
@@ -260,23 +281,23 @@ export function filterUnansweredQuestions<T extends { id: string }>(
   // Instead of random shuffle, we want spaced repetition behavior
   let sortedFillers = previouslyAnswered;
 
-  if (typeof window !== 'undefined' && localStorage) {
+  if (typeof window !== "undefined" && localStorage) {
     try {
-        const stored = localStorage.getItem(STORAGE_KEY);
-        if (stored) {
-            const data = JSON.parse(stored);
-            const timestamps = data.answeredTimestamps || {};
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored) {
+        const data = JSON.parse(stored);
+        const timestamps = data.answeredTimestamps || {};
 
-            // Sort by timestamp ASC (oldest interaction first)
-            sortedFillers = previouslyAnswered.sort((a, b) => {
-                const tsA = timestamps[a.id] || Infinity; // If no timestamp, treat as recent to be safe
-                const tsB = timestamps[b.id] || Infinity;
-                return tsA - tsB;
-            });
-        }
+        // Sort by timestamp ASC (oldest interaction first)
+        sortedFillers = previouslyAnswered.sort((a, b) => {
+          const tsA = timestamps[a.id] || Infinity; // If no timestamp, treat as recent to be safe
+          const tsB = timestamps[b.id] || Infinity;
+          return tsA - tsB;
+        });
+      }
     } catch (e) {
-        // Fallback to shuffle if sorting fails
-        sortedFillers = shuffleArray(previouslyAnswered);
+      // Fallback to shuffle if sorting fails
+      sortedFillers = shuffleArray(previouslyAnswered);
     }
   } else {
     sortedFillers = shuffleArray(previouslyAnswered);
@@ -287,7 +308,7 @@ export function filterUnansweredQuestions<T extends { id: string }>(
   return {
     filtered: shuffleArray([...unanswered, ...fillers]), // Shuffle final mix
     hadToRepeat: fillers.length > 0,
-    wasReset: false
+    wasReset: false,
   };
 }
 
@@ -296,15 +317,15 @@ export function filterUnansweredQuestions<T extends { id: string }>(
  * Used for smart auto-reset when pool is exhausted
  */
 export function clearAnsweredQuestionsOnly(): void {
-  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
     return;
   }
 
   try {
     localStorage.removeItem(STORAGE_KEY);
-    console.log('🧹 Answered questions cleared (stats preserved)');
+    console.log("🧹 Answered questions cleared (stats preserved)");
   } catch (e) {
-    console.error('Error clearing answered questions:', e);
+    console.error("Error clearing answered questions:", e);
   }
 }
 
@@ -319,15 +340,16 @@ export function getMemoryStats(totalAvailable: number): {
   willResetSoon: boolean;
 } {
   const answered = loadAnsweredQuestions();
-  const percentAnswered = totalAvailable > 0 ? answered.size / totalAvailable : 0;
+  const percentAnswered =
+    totalAvailable > 0 ? answered.size / totalAvailable : 0;
   const resetThreshold = Math.floor(totalAvailable * CLEAR_THRESHOLD);
 
   return {
     answeredCount: answered.size,
     totalAvailable,
     percentAnswered,
-    remainingUntilReset: Math.max(0, resetThreshold - answered.size),
-    willResetSoon: percentAnswered > 0.60 // Warn at 60%
+    remainingUntilReset: 0, // 🚫 FIX: No longer resetting automatically
+    willResetSoon: false, // 🚫 FIX: No longer resetting automatically
   };
 }
 
@@ -352,9 +374,9 @@ export function getMemoryStatsForPool(poolSize: number): {
     answeredCount: answered.size,
     totalAvailable: poolSize,
     percentAnswered,
-    remainingUntilReset: Math.max(0, resetThreshold - answered.size),
-    willResetSoon: percentAnswered > 0.60,
-    isPoolExhausted
+    remainingUntilReset: 0, // 🚫 FIX: No longer resetting automatically
+    willResetSoon: false, // 🚫 FIX: No longer resetting automatically
+    isPoolExhausted,
   };
 }
 
@@ -362,7 +384,10 @@ export function getMemoryStatsForPool(poolSize: number): {
  * Get memory statistics for a specific subject
  * Used in ExamConfigModal to show available questions
  */
-export function getSubjectMemoryStats(questions: any[], subject?: string): {
+export function getSubjectMemoryStats(
+  questions: any[],
+  subject?: string,
+): {
   totalForSubject: number;
   answeredCount: number;
   availableCount: number;
@@ -371,23 +396,28 @@ export function getSubjectMemoryStats(questions: any[], subject?: string): {
   const answered = loadAnsweredQuestions();
 
   // Filter questions by subject if provided
-  const subjectQuestions = (subject && subject !== 'Simulacro Completo')
-    ? questions.filter(q => {
-        const category = q.category?.toUpperCase() || '';
-        const subjectUpper = subject.toUpperCase();
-        return category.includes(subjectUpper) || subjectUpper.includes(category.split(' :: ')[0]);
-      })
-    : questions;
+  const subjectQuestions =
+    subject && subject !== "Simulacro Completo"
+      ? questions.filter((q) => {
+          const category = q.category?.toUpperCase() || "";
+          const subjectUpper = subject.toUpperCase();
+          return (
+            category.includes(subjectUpper) ||
+            subjectUpper.includes(category.split(" :: ")[0])
+          );
+        })
+      : questions;
 
-  const answeredForSubject = subjectQuestions.filter(q => answered.has(q.id));
+  const answeredForSubject = subjectQuestions.filter((q) => answered.has(q.id));
 
   return {
     totalForSubject: subjectQuestions.length,
     answeredCount: answeredForSubject.length,
     availableCount: subjectQuestions.length - answeredForSubject.length,
-    percentUsed: subjectQuestions.length > 0
-      ? (answeredForSubject.length / subjectQuestions.length) * 100
-      : 0
+    percentUsed:
+      subjectQuestions.length > 0
+        ? (answeredForSubject.length / subjectQuestions.length) * 100
+        : 0,
   };
 }
 
@@ -396,46 +426,54 @@ export function getSubjectMemoryStats(questions: any[], subject?: string): {
  */
 function updateStats(questions: any[], period?: number) {
   const stats = loadStats(); // Assuming loadStats is equivalent to getStats
-  const today = new Date().toISOString().split('T')[0];
+  const today = new Date().toISOString().split("T")[0];
 
   // Reset streak if missed a day (simplified)
-  if (stats.lastSessionDate.split('T')[0] !== today) {
+  if (stats.lastSessionDate.split("T")[0] !== today) {
     // Logic for streak reset could go here
   }
 
-  questions.forEach(q => {
+  questions.forEach((q) => {
     stats.totalAnswered++;
     if (q.isCorrect) stats.correctCount++;
 
     // Subject Stats
-    const subject = (q.subject || q.category?.split(' :: ')[0] || 'GENERAL').toUpperCase(); // Use q.subject if available, fallback to category
-    if (!stats.bySubject[subject]) stats.bySubject[subject] = { answered: 0, correct: 0 };
+    const subject = (
+      q.subject ||
+      q.category?.split(" :: ")[0] ||
+      "GENERAL"
+    ).toUpperCase(); // Use q.subject if available, fallback to category
+    if (!stats.bySubject[subject])
+      stats.bySubject[subject] = { answered: 0, correct: 0 };
     stats.bySubject[subject].answered++;
     if (q.isCorrect) stats.bySubject[subject].correct++;
 
     // Grade Stats
     const grade = q.grade || 0;
-    if (!stats.byGrade[grade]) stats.byGrade[grade] = { answered: 0, correct: 0 };
+    if (!stats.byGrade[grade])
+      stats.byGrade[grade] = { answered: 0, correct: 0 };
     stats.byGrade[grade].answered++;
     if (q.isCorrect) stats.byGrade[grade].correct++;
 
     // Difficulty Stats
     const diff = q.difficulty || 3;
-    if (!stats.byDifficulty[diff]) stats.byDifficulty[diff] = { answered: 0, correct: 0 };
+    if (!stats.byDifficulty[diff])
+      stats.byDifficulty[diff] = { answered: 0, correct: 0 };
     stats.byDifficulty[diff].answered++;
     if (q.isCorrect) stats.byDifficulty[diff].correct++;
 
     // 🆕 Period Stats
     if (period) {
-        if (!stats.byPeriod) stats.byPeriod = {}; // Init if missing
-        if (!stats.byPeriod[period]) stats.byPeriod[period] = { answered: 0, correct: 0 };
-        stats.byPeriod[period].answered++;
-        if (q.isCorrect) stats.byPeriod[period].correct++;
+      if (!stats.byPeriod) stats.byPeriod = {}; // Init if missing
+      if (!stats.byPeriod[period])
+        stats.byPeriod[period] = { answered: 0, correct: 0 };
+      stats.byPeriod[period].answered++;
+      if (q.isCorrect) stats.byPeriod[period].correct++;
     }
   });
 
   stats.lastSessionDate = new Date().toISOString(); // Changed from split('T')[0] to full ISO string
-  if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+  if (typeof window !== "undefined" && typeof localStorage !== "undefined") {
     localStorage.setItem(STATS_KEY, JSON.stringify(stats)); // Assuming saveStats is equivalent to this
   }
 }
@@ -445,7 +483,7 @@ function updateStats(questions: any[], period?: number) {
  */
 export function loadStats(): QuestionStats {
   // Check if running in browser environment
-  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
     return getDefaultStats();
   }
 
@@ -467,7 +505,7 @@ function getDefaultStats(): QuestionStats {
     byDifficulty: {},
     byPeriod: {}, // 🆕
     streakHistory: [],
-    lastSessionDate: new Date().toISOString().split('T')[0]
+    lastSessionDate: new Date().toISOString().split("T")[0],
   };
 }
 
@@ -476,7 +514,7 @@ function getDefaultStats(): QuestionStats {
  */
 export function clearQuestionMemory(): void {
   // Check if running in browser environment
-  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
     return;
   }
 
@@ -484,7 +522,7 @@ export function clearQuestionMemory(): void {
     localStorage.removeItem(STORAGE_KEY);
     localStorage.removeItem(STATS_KEY);
   } catch (e) {
-    console.error('Error clearing memory:', e);
+    console.error("Error clearing memory:", e);
   }
 }
 
@@ -506,11 +544,15 @@ function shuffleArray<T>(array: T[]): T[] {
 export function exportMemory(): string {
   const answered = loadAnsweredQuestions();
   const stats = loadStats();
-  return JSON.stringify({
-    answeredIds: Array.from(answered),
-    stats,
-    timestamp: Date.now()
-  }, null, 2);
+  return JSON.stringify(
+    {
+      answeredIds: Array.from(answered),
+      stats,
+      timestamp: Date.now(),
+    },
+    null,
+    2,
+  );
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -524,7 +566,12 @@ export function exportMemory(): string {
 async function saveToDatabase(
   _questionId: string,
   _wasCorrect: boolean,
-  _metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
+  _metadata?: {
+    subject?: string;
+    grade?: number;
+    difficulty?: number;
+    timeSeconds?: number;
+  },
 ): Promise<void> {
   // 🚫 DATABASE WRITES DISABLED
   // All exam history is stored locally (localStorage/IndexedDB) only
@@ -565,24 +612,26 @@ export async function loadAnsweredQuestionsFromDB(): Promise<Set<string>> {
   const localIds = loadAnsweredQuestions();
 
   try {
-    const { data: { session } } = await supabase.auth.getSession();
+    const {
+      data: { session },
+    } = await supabase.auth.getSession();
     if (!session) return localIds; // Guest user
 
     const { data, error } = await supabase
-      .from('user_answered_questions')
-      .select('question_id')
-      .eq('user_id', session.user.id);
+      .from("user_answered_questions")
+      .select("question_id")
+      .eq("user_id", session.user.id);
 
     if (error) {
-      console.error('Error loading from DB:', error);
+      console.error("Error loading from DB:", error);
       return localIds;
     }
 
     // Merge DB + localStorage
-    const dbIds = new Set((data as any[]).map(row => row.question_id));
+    const dbIds = new Set((data as any[]).map((row) => row.question_id));
     return new Set([...localIds, ...dbIds]);
   } catch (err) {
-    console.error('Database error:', err);
+    console.error("Database error:", err);
     return localIds;
   }
 }
@@ -597,17 +646,19 @@ export async function getUserStatsFromDB(): Promise<{
   avgTimeSeconds: number;
 } | null> {
   try {
-    const { data: { session } } = await supabase.auth.getSession();
+    const {
+      data: { session },
+    } = await supabase.auth.getSession();
     if (!session) return null;
 
     const { data, error } = await supabase
-      .from('user_stats')
-      .select('*')
-      .eq('user_id', session.user.id)
+      .from("user_stats")
+      .select("*")
+      .eq("user_id", session.user.id)
       .single();
 
     if (error) {
-      console.error('Error loading stats:', error);
+      console.error("Error loading stats:", error);
       return null;
     }
 
@@ -616,11 +667,14 @@ export async function getUserStatsFromDB(): Promise<{
     return {
       totalAnswered: stats.total_answered,
       correctCount: stats.correct_count,
-      accuracy: stats.total_answered > 0 ? (stats.correct_count / stats.total_answered) * 100 : 0,
-      avgTimeSeconds: stats.avg_time_seconds || 0
+      accuracy:
+        stats.total_answered > 0
+          ? (stats.correct_count / stats.total_answered) * 100
+          : 0,
+      avgTimeSeconds: stats.avg_time_seconds || 0,
     };
   } catch (err) {
-    console.error('Database error:', err);
+    console.error("Database error:", err);
     return null;
   }
 }
