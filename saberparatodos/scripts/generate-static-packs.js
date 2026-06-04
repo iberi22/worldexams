@@ -1,33 +1,35 @@
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
-import { fileURLToPath } from 'url';
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const ROOT = path.join(__dirname, '..');
-const QUESTIONS_DATA_ROOT = path.join(ROOT, '..', 'questions_data');
-const OUTPUT_DIR = path.join(ROOT, 'public', 'api', 'packs');
-const PACK_ID = 'week-1'; // Default pack ID
+const ROOT = path.join(__dirname, "..");
+const QUESTIONS_DATA_ROOT = path.join(ROOT, "..", "questions_data");
+const OUTPUT_DIR = path.join(ROOT, "public", "api", "packs");
+const PACK_ID = "week-1"; // Default pack ID
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
 function parseProtocol(frontmatter, filePath) {
-  const explicit = String(frontmatter.protocol_version || frontmatter.bundle_version || '').match(/(\d+(?:\.\d+)?)/);
+  const explicit = String(
+    frontmatter.protocol_version || frontmatter.bundle_version || "",
+  ).match(/(\d+(?:\.\d+)?)/);
   if (explicit) return Number(explicit[1]);
 
   const lower = path.basename(filePath).toLowerCase();
-  if (lower.includes('-pro-v5') || lower.includes('-v5-bundle')) return 5;
-  if (lower.includes('-pro-v4') || lower.includes('-v4-bundle')) return 4;
-  if (lower.includes('-v3-bundle')) return 3;
-  if (lower.includes('-bundle')) return 2;
+  if (lower.includes("-pro-v5") || lower.includes("-v5-bundle")) return 5;
+  if (lower.includes("-pro-v4") || lower.includes("-v4-bundle")) return 4;
+  if (lower.includes("-v3-bundle")) return 3;
+  if (lower.includes("-bundle")) return 2;
   return null;
 }
 
 function hasDuplicatedPeriodSegment(filePath) {
-  const normalized = filePath.split(path.sep).join('/');
+  const normalized = filePath.split(path.sep).join("/");
   return /\/periodo-\d+\/periodo-\d+\//i.test(normalized);
 }
 
@@ -47,14 +49,17 @@ function parseQuestions(body) {
     const section = body.slice(start, end);
 
     // Extract ID
-    const idMatch = section.match(/(?:\*\*ID:\*\*|ID:)\s*(?:`([^`]+)`|"([^"]+)"|([A-Za-z0-9._:-]+))/);
-    const id = idMatch ? (idMatch[1] || idMatch[2] || idMatch[3]) : `q-${i}`;
+    const idMatch = section.match(
+      /(?:\*\*ID:\*\*|ID:)\s*(?:`([^`]+)`|"([^"]+)"|([A-Za-z0-9._:-]+))/,
+    );
+    const id = idMatch ? idMatch[1] || idMatch[2] || idMatch[3] : `q-${i}`;
 
     // Extract Difficulty from header or body
-    const diffMatch = matches[i].header.match(/\((?:Nivel|Dificultad):?\s*(\d+)\)/i) ||
-                       section.match(/(?:Nivel|Dificultad):?\s*(\d+)/i) ||
-                       matches[i].header.match(/\[D(\d+)-D(\d+)\]/) ||
-                       section.match(/\[D(\d+)-D(\d+)\]/);
+    const diffMatch =
+      matches[i].header.match(/\((?:Nivel|Dificultad):?\s*(\d+)\)/i) ||
+      section.match(/(?:Nivel|Dificultad):?\s*(\d+)/i) ||
+      matches[i].header.match(/\[D(\d+)-D(\d+)\]/) ||
+      section.match(/\[D(\d+)-D(\d+)\]/);
 
     let difficulty = 3;
     if (diffMatch) {
@@ -65,41 +70,52 @@ function parseQuestions(body) {
     // Extract statement (everything between header and options)
     const afterHeader = section.slice(matches[i].header.length).trim();
     const optionsStart = afterHeader.search(/^\s*-\s*\[[x ]\]/m);
-    let rawStatement = optionsStart !== -1 ? afterHeader.slice(0, optionsStart).trim() : afterHeader;
+    let rawStatement =
+      optionsStart !== -1
+        ? afterHeader.slice(0, optionsStart).trim()
+        : afterHeader;
 
     // Extract context if present
-    const contextMatch = section.match(/###\s*(?:Contexto|Context)([\s\S]*?)(?:###|##|$)/i);
-    const context = contextMatch ? contextMatch[1].trim() : '';
+    const contextMatch = section.match(
+      /###\s*(?:Contexto|Context)([\s\S]*?)(?:###|##|$)/i,
+    );
+    const context = contextMatch ? contextMatch[1].trim() : "";
 
     // Extract statement
-    let statement = '';
-    const enunciadoMatch = section.match(/###\s*(?:Enunciado|Statement|Question)([\s\S]*?)(?:###|##|$)/i);
+    let statement = "";
+    const enunciadoMatch = section.match(
+      /###\s*(?:Enunciado|Statement|Question)([\s\S]*?)(?:###|##|$)/i,
+    );
     if (enunciadoMatch) {
       statement = enunciadoMatch[1].trim();
     } else {
       let cleanedRaw = rawStatement;
       if (contextMatch) {
-        cleanedRaw = cleanedRaw.replace(contextMatch[0], '');
+        cleanedRaw = cleanedRaw.replace(contextMatch[0], "");
       }
       statement = cleanedRaw
-        .replace(/(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g, '')
-        .replace(/\*\*Bloom:\*\*.*$/gm, '')
-        .replace(/\*\*ICFES:\*\*.*$/gm, '')
-        .replace(/\*\*Expected_Success:\*\*.*$/gm, '')
-        .replace(/^\s*###\s+Contexto/gm, '')
-        .replace(/^\s*###\s+Enunciado/gm, '')
-        .replace(/^\s*\*\*\d+\.\*\*/gm, '') // Remove **1.** style numbering
+        .replace(
+          /(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g,
+          "",
+        )
+        .replace(/\*\*Bloom:\*\*.*$/gm, "")
+        .replace(/\*\*ICFES:\*\*.*$/gm, "")
+        .replace(/\*\*Expected_Success:\*\*.*$/gm, "")
+        .replace(/^\s*###\s+Contexto/gm, "")
+        .replace(/^\s*###\s+Enunciado/gm, "")
+        .replace(/^\s*\*\*\d+\.\*\*/gm, "") // Remove **1.** style numbering
         .trim();
     }
 
     // Extract options
     const options = [];
-    const optionRegex = /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
+    const optionRegex =
+      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
     let optMatch;
-    let correctId = 'A';
+    let correctId = "A";
 
     while ((optMatch = optionRegex.exec(section)) !== null) {
-      const isCorrect = optMatch[1].toLowerCase() === 'x';
+      const isCorrect = optMatch[1].toLowerCase() === "x";
       const letter = optMatch[2];
       const text = optMatch[3].trim();
       options.push({ letter, text, is_correct: isCorrect });
@@ -107,8 +123,10 @@ function parseQuestions(body) {
     }
 
     // Extract explanation
-    const expMatch = section.match(/###\s*(?:Explicación|Explanation)([\s\S]*?)(?:##|$)/i);
-    const explanation = expMatch ? expMatch[1].trim() : '';
+    const expMatch = section.match(
+      /###\s*(?:Explicación|Explanation)([\s\S]*?)(?:##|$)/i,
+    );
+    const explanation = expMatch ? expMatch[1].trim() : "";
 
     sections.push({
       id,
@@ -119,7 +137,7 @@ function parseQuestions(body) {
       explanation,
       difficulty: String(difficulty),
       images: [],
-      tags: []
+      tags: [],
     });
   }
 
@@ -130,12 +148,12 @@ const walk = (dir) => {
   let results = [];
   if (!fs.existsSync(dir)) return [];
   const list = fs.readdirSync(dir);
-  list.forEach(file => {
+  list.forEach((file) => {
     const filePath = path.join(dir, file);
     const stat = fs.statSync(filePath);
     if (stat && stat.isDirectory()) {
       results = results.concat(walk(filePath));
-    } else if (file.endsWith('.md')) {
+    } else if (file.endsWith(".md")) {
       results.push(filePath);
     }
   });
@@ -147,7 +165,7 @@ const packs = {};
 
 for (const file of allFiles) {
   try {
-    if (hasDuplicatedPeriodSegment(file) || file.includes('/legacy/')) {
+    if (hasDuplicatedPeriodSegment(file) || file.includes("/legacy/")) {
       continue;
     }
 
@@ -162,11 +180,13 @@ for (const file of allFiles) {
     const parts = relPath.split(path.sep);
     const countryFolder = parts[0];
 
-    const grade = parseInt(data.grado || file.match(/grado-(\d+)/)?.[1] || '11');
+    const grade = parseInt(
+      data.grado || file.match(/grado-(\d+)/)?.[1] || "11",
+    );
     let subject = data.asignatura || data.subject;
 
     if (!subject) {
-      if (parts[1] && parts[1].startsWith('grado-')) {
+      if (parts[1] && parts[1].startsWith("grado-")) {
         subject = countryFolder;
       } else {
         subject = parts[1] || countryFolder;
@@ -179,34 +199,37 @@ for (const file of allFiles) {
     let rawCountry = (data.country || countryFolder).toLowerCase();
     let countryCode = rawCountry;
     const countryMap = {
-      'colombia': 'co',
-      'mexico': 'mx',
-      'peru': 'pe',
-      'chile': 'cl',
-      'ecuador': 'ec',
-      'argentina': 'ar',
-      'brasil': 'br',
-      'global': ''
+      colombia: "co",
+      mexico: "mx",
+      peru: "pe",
+      chile: "cl",
+      ecuador: "ec",
+      argentina: "ar",
+      brasil: "br",
+      global: "",
     };
     if (countryMap[countryCode] !== undefined) {
       countryCode = countryMap[countryCode];
     }
 
-    const cleanSubject = String(subject || '')
+    const cleanSubject = String(subject || "")
+      .trim()
       .toLowerCase()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .replace(/[^a-z0-9]/g, '');
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[\s-]+/g, "_")
+      .replace(/[^a-z0-9_]/g, "")
+      .replace(/^_+|_+$/g, "");
 
-    const isEnglish = cleanSubject === 'ingles' || cleanSubject === 'english';
-    const safeSubject = isEnglish ? 'ingles' : subject.replace(/[\/\s-]/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+    const isEnglish = cleanSubject === "ingles" || cleanSubject === "english";
+    const safeSubject = isEnglish ? "ingles" : cleanSubject;
 
     // Force English (ingles/english) to be global so all countries share the complete pool!
     if (isEnglish) {
-      countryCode = '';
+      countryCode = "";
     }
 
-    const prefix = countryCode ? `${countryCode}-` : '';
+    const prefix = countryCode ? `${countryCode}-` : "";
     const packKey = `${prefix}${PACK_ID}-grade-${grade}-subject-${safeSubject}`;
 
     if (!packs[packKey]) {
@@ -214,21 +237,21 @@ for (const file of allFiles) {
         metadata: {
           grade,
           subject,
-          country: countryCode || 'global',
+          country: countryCode || "global",
           pack_id: packKey,
-          generated_at: new Date().toISOString()
+          generated_at: new Date().toISOString(),
         },
-        questions: []
+        questions: [],
       };
     }
 
-    questions.forEach(q => {
+    questions.forEach((q) => {
       packs[packKey].questions.push({
         ...q,
-        bundle_id: path.basename(file, '.md'),
+        bundle_id: path.basename(file, ".md"),
         periodo: period,
         protocol_version: String(protocol),
-        cefr_level: data.cefr_level || null
+        cefr_level: data.cefr_level || null,
       });
     });
   } catch (e) {
@@ -240,11 +263,19 @@ for (const file of allFiles) {
 for (const [key, data] of Object.entries(packs)) {
   const outputPath = path.join(OUTPUT_DIR, `${key}.json`);
   fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-  console.log(`Generated ${outputPath} with ${data.questions.length} questions`);
+  console.log(
+    `Generated ${outputPath} with ${data.questions.length} questions`,
+  );
 }
 
 // Generate current.json and metadata.json (minimal versions for compatibility)
-fs.writeFileSync(path.join(OUTPUT_DIR, 'current.json'), JSON.stringify({ version: '1.0.0', last_update: new Date().toISOString() }));
-fs.writeFileSync(path.join(OUTPUT_DIR, 'metadata.json'), JSON.stringify({ packs: Object.keys(packs) }));
+fs.writeFileSync(
+  path.join(OUTPUT_DIR, "current.json"),
+  JSON.stringify({ version: "1.0.0", last_update: new Date().toISOString() }),
+);
+fs.writeFileSync(
+  path.join(OUTPUT_DIR, "metadata.json"),
+  JSON.stringify({ packs: Object.keys(packs) }),
+);
 
-console.log('Static packs generation completed.');
+console.log("Static packs generation completed.");

@@ -19,7 +19,14 @@ function Invoke-Check {
     [string]$Url
   )
 
-  $response = Invoke-WebRequest -Uri $Url -Method GET -TimeoutSec 30 -UseBasicParsing
+  Write-Host "[verify-debug] Checking URL: $Url" -ForegroundColor Gray
+
+  $headers = @{
+    'Origin' = 'https://saberparatodos.space'
+    'Referer' = 'https://saberparatodos.space/'
+  }
+
+  $response = Invoke-WebRequest -Uri $Url -Method GET -TimeoutSec 30 -UseBasicParsing -Headers $headers
   [PSCustomObject]@{
     Url = $Url
     StatusCode = [int]$response.StatusCode
