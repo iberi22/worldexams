@@ -8,7 +8,20 @@ const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, '..');
 const QUESTIONS_DATA_ROOT = path.join(ROOT, '..', 'questions_data');
 const OUTPUT_DIR = path.join(ROOT, 'public', 'api', 'packs');
-const PACK_ID = 'week-1'; // Default pack ID
+
+const args = process.argv.slice(2);
+let targetPeriod = 1;
+const periodIdx = args.indexOf('--period');
+if (periodIdx !== -1 && args[periodIdx + 1]) {
+  targetPeriod = parseInt(args[periodIdx + 1]);
+} else {
+  const periodArg = args.find((arg) => arg.startsWith('--period='));
+  if (periodArg) {
+    targetPeriod = parseInt(periodArg.split('=')[1]);
+  }
+}
+
+const PACK_ID = `week-${targetPeriod}`;
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -173,13 +186,14 @@ for (const file of allFiles) {
       }
     }
 
-    const period = data.periodo || 1;
+    const period = parseInt(data.periodo || 1);
+    if (period !== targetPeriod) continue;
 
     // Normalize country code
     let rawCountry = (data.country || countryFolder).toLowerCase();
     let countryCode = rawCountry;
     const countryMap = {
-      'colombia': 'co',
+      'colombia': 'colombia',
       'mexico': 'mx',
       'peru': 'pe',
       'chile': 'cl',
@@ -243,8 +257,30 @@ for (const [key, data] of Object.entries(packs)) {
   console.log(`Generated ${outputPath} with ${data.questions.length} questions`);
 }
 
-// Generate current.json and metadata.json (minimal versions for compatibility)
-fs.writeFileSync(path.join(OUTPUT_DIR, 'current.json'), JSON.stringify({ version: '1.0.0', last_update: new Date().toISOString() }));
-fs.writeFileSync(path.join(OUTPUT_DIR, 'metadata.json'), JSON.stringify({ packs: Object.keys(packs) }));
+// Generate current.json and metadata.json
+const packageJson = JSON.parse(fs.readFileSync(path.join(ROOT, 'package.json'), 'utf8'));
+const version = packageJson.version || '1.0.0';
+
+fs.writeFileSync(
+  path.join(OUTPUT_DIR, 'current.json'),
+  JSON.stringify({ version, last_update: new Date().toISOString() }, null, 2)
+);
+
+// Merge with existing metadata if it exists
+let allPacks = Object.keys(packs);
+const metadataPath = path.join(OUTPUT_DIR, 'metadata.json');
+if (fs.existsSync(metadataPath)) {
+  try {
+    const existingMetadata = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
+    if (existingMetadata.packs && Array.isArray(existingMetadata.packs)) {
+      const packSet = new Set([...existingMetadata.packs, ...allPacks]);
+      allPacks = Array.from(packSet);
+    }
+  } catch (e) {
+    console.error(`Error reading existing metadata: ${e.message}`);
+  }
+}
+
+fs.writeFileSync(metadataPath, JSON.stringify({ packs: allPacks.sort() }, null, 2));
 
 console.log('Static packs generation completed.');
