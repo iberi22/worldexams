@@ -73,9 +73,15 @@ class BundleValidator:
         question_headers = re.findall(r"^##\s+(Question|Pregunta)\s+\d+", content, re.MULTILINE | re.IGNORECASE)
         actual_count = len(question_headers)
 
-        # Mastery bundles MUST have 20 questions
+        # Mastery bundles MUST have 20 questions, except for Grade 3 which allows 10
+        grado = str(fm.get("grado", ""))
+        is_grade_3 = grado == "3" or grado == "03"
         is_mastery = "mastery" in file_path.lower() or fm.get("bundle_size") == 20 or fm.get("total_questions") == 20
-        expected_size = fm.get("bundle_size") or fm.get("total_questions") or (20 if is_mastery else None)
+
+        if is_grade_3:
+            expected_size = fm.get("bundle_size") or fm.get("total_questions") or 10
+        else:
+            expected_size = fm.get("bundle_size") or fm.get("total_questions") or (20 if is_mastery else None)
 
         if expected_size and actual_count != expected_size:
             issues.append(
