@@ -9,17 +9,24 @@
 
 ---
 
-## 📚 Estructura del Sistema Educativo (MEN)
-
-| Nivel | Duración | Grados/Años |
-|-------|----------|-------------|
-| **Educación Básica Primaria** | 5 años | 1° a 5° grado |
-| **Educación Básica Secundaria** | 4 años | 6° a 9° grado |
-| **Educación Media** | 2 años | 10° a 11° grado |
+## 🚀 Plan Maestro de Mejora (Grados 3-11)
+Se ha iniciado un plan de expansión masiva para cubrir los estándares del MEN y pruebas Saber en todos los niveles.
+- [Ver Plan Maestro de Mejora Colombia](./MASTER_PLAN.md)
+- [Protocolo de Generación V6.0 (Multi-grado)](../../../QUESTION_GENERATION_PROTOCOL_V6.md)
 
 ---
 
-## 📐 Prueba Saber 11°
+## 📚 Estructura del Sistema Educativo (MEN)
+
+| Nivel | Duración | Grados/Años | Contenido WorldExams |
+|-------|----------|-------------|----------------------|
+| **Educación Básica Primaria** | 5 años | 1° a 5° grado | 🟠 En desarrollo (Fase 2) |
+| **Educación Básica Secundaria** | 4 años | 6° a 9° grado | 🔴 En desarrollo (Fase 1) |
+| **Educación Media** | 2 años | 10° a 11° grado | ✅ Completo (Grado 11) |
+
+---
+
+## 📐 Prueba Saber (ICFES)
 Examen nacional estandarizado para el ingreso a la educación superior.
 - **Áreas Evaluadas:** Lectura Crítica, Matemáticas, Ciencias Naturales, Sociales y Ciudadanas, Inglés.
 
