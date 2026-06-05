@@ -252,12 +252,14 @@ function validateFile(filePath) {
     }
   }
 
-  // MASTERY bundle validation (20 questions + difficulty markers)
+  // MASTERY bundle validation (20 questions + difficulty markers), except Grade 3 (10 questions)
+  const gradoStr = String(data.grado || '').trim();
+  const isGrade3 = gradoStr === '3' || gradoStr === '03';
   const isMastery = v5 || path.basename(filePath).toLowerCase().includes('mastery-bundle');
   if (isMastery) {
-    // Validate total question count = 20
-    if (inferredQuestionCount !== 20) {
-      const msg = `Bundle MASTERY debe tener 20 preguntas (detectadas=${inferredQuestionCount})`;
+    const expectedMasterySize = isGrade3 ? 10 : 20;
+    if (inferredQuestionCount !== expectedMasterySize) {
+      const msg = `Bundle MASTERY debe tener ${expectedMasterySize} preguntas para grado ${gradoStr} (detectadas=${inferredQuestionCount})`;
       addFinding('error', relFile, msg);
     }
   }
