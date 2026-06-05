@@ -1,0 +1,284 @@
+{
+  "3_lengua_P1": [
+    {
+      "c": "En la clase de lengua del Colegio Simón Bolívar en Bogotá, la profesora Carolina escribe MARIPOSA en el tablero.",
+      "e": "¿Cuántas sílabas tiene la palabra MARIPOSA?",
+      "opts": [
+        [
+          "A",
+          "2",
+          "Incorrecto. Solamente 2."
+        ],
+        [
+          "B",
+          "3",
+          "Incorrecto. Necesita 4 golpes de voz."
+        ],
+        [
+          "C",
+          "4",
+          "Correcto. MA-RI-PO-SA tiene 4 sílabas."
+        ],
+        [
+          "D",
+          "5",
+          "Incorrecto. Excede la separación."
+        ]
+      ],
+      "a": "C",
+      "fb": "MARIPOSA tiene 4 sílabas (MA-RI-PO-SA), cada golpe de voz es una sílaba."
+    },
+    {
+      "c": "En un colegio de Medellín, la maestra pide escribir oraciones con la palabra sol.",
+      "e": "¿Cuál es una ORACIÓN completa?",
+      "opts": [
+        [
+          "A",
+          "El sol",
+          "Incorrecto. No tiene verbo."
+        ],
+        [
+          "B",
+          "Sol brilla",
+          "Incorrecto. Falta artículo."
+        ],
+        [
+          "C",
+          "El sol brilla fuerte.",
+          "Correcto. Sujeto + verbo + complemento."
+        ],
+        [
+          "D",
+          "Brilla",
+          "Incorrecto. Solo es un verbo."
+        ]
+      ],
+      "a": "C",
+      "fb": "Una oración completa tiene sujeto + verbo, expresando una idea con sentido."
+    },
+    {
+      "c": "En un salón en Cali, leen La tortuga y la liebre.",
+      "e": "Según el cuento, ¿por qué ganó la tortuga?",
+      "opts": [
+        [
+          "A",
+          "Porque era más rápida",
+          "Incorrecto. La liebre era más rápida."
+        ],
+        [
+          "B",
+          "Porque la liebre se durmió",
+          "Incorrecto. La razón principal es la constancia."
+        ],
+        [
+          "C",
+          "Porque fue constante",
+          "Correcto. La tortuga nunca se rindió."
+        ],
+        [
+          "D",
+          "Porque el camino era corto",
+          "Incorrecto. La distancia no fue la razón."
+        ]
+      ],
+      "a": "C",
+      "fb": "La moraleja: la constancia y perseverancia son más importantes que la velocidad."
+    },
+    {
+      "c": "En la clase de lengua en Barranquilla, aprenden tipos de palabras.",
+      "e": "¿Cuál es un SUSTANTIVO?",
+      "opts": [
+        [
+          "A",
+          "Correr",
+          "Incorrecto. Es un verbo."
+        ],
+        [
+          "B",
+          "Hermoso",
+          "Incorrecto. Es un adjetivo."
+        ],
+        [
+          "C",
+          "Escuela",
+          "Correcto. Nombra un lugar."
+        ],
+        [
+          "D",
+          "Rápidamente",
+          "Incorrecto. Es un adverbio."
+        ]
+      ],
+      "a": "C",
+      "fb": "Los sustantivos nombran personas, animales, lugares, cosas o ideas."
+    },
+    {
+      "c": "En la biblioteca de Bucaramanga leen: Toby encontró un hueso y lo enterró debajo de un árbol.",
+      "e": "¿Dónde enterró Toby el hueso?",
+      "opts": [
+        [
+          "A",
+          "En la casa",
+          "Incorrecto. No fue ahí."
+        ],
+        [
+          "B",
+          "En el jardín",
+          "Incorrecto. Lo encontró ahí."
+        ],
+        [
+          "C",
+          "Debajo de un árbol",
+          "Correcto. El texto lo dice explícitamente."
+        ],
+        [
+          "D",
+          "En su cama",
+          "Incorrecto. No se menciona."
+        ]
+      ],
+      "a": "C",
+      "fb": "Comprensión literal: recordar información explícita del texto."
+    },
+    {
+      "c": "En Cartagena, ordenan palabras para formar oraciones.",
+      "e": "Ordena: juega - parque - en - el - María",
+      "opts": [
+        [
+          "A",
+          "María juega en el parque.",
+          "Correcto. Sujeto + verbo + complemento."
+        ],
+        [
+          "B",
+          "El parque juega María en.",
+          "Incorrecto. Desordenado."
+        ],
+        [
+          "C",
+          "Juega María parque el en.",
+          "Incorrecto. Sin sentido."
+        ],
+        [
+          "D",
+          "En juega María el parque.",
+          "Incorrecto. Orden incorrecto."
+        ]
+      ],
+      "a": "A",
+      "fb": "En español el orden básico es: sujeto + verbo + complemento."
+    },
+    {
+      "c": "En Pereira, la profe explica antónimos.",
+      "e": "¿Cuál es el ANTÓNIMO de grande?",
+      "opts": [
+        [
+          "A",
+          "Enorme",
+          "Incorrecto. Es un sinónimo."
+        ],
+        [
+          "B",
+          "Gigante",
+          "Incorrecto. Es un sinónimo."
+        ],
+        [
+          "C",
+          "Pequeño",
+          "Correcto. Significado opuesto."
+        ],
+        [
+          "D",
+          "Mediano",
+          "Incorrecto. No es el opuesto directo."
+        ]
+      ],
+      "a": "C",
+      "fb": "Los antónimos tienen significados opuestos."
+    },
+    {
+      "c": "En el concurso de escritura de Manizales preguntan el plural.",
+      "e": "Plural correcto de lápiz?",
+      "opts": [
+        [
+          "A",
+          "Lápizes",
+          "Incorrecto. Z cambia a C."
+        ],
+        [
+          "B",
+          "Lápices",
+          "Correcto. Z → C + es."
+        ],
+        [
+          "C",
+          "Lápis",
+          "Incorrecto. No existe."
+        ],
+        [
+          "D",
+          "Lápi",
+          "Incorrecto. No sigue la regla."
+        ]
+      ],
+      "a": "B",
+      "fb": "Palabras terminadas en Z: cambian Z por C y agregan -es."
+    },
+    {
+      "c": "En Cúcuta leen: El viento baila con las hojas, el río canta canciones.",
+      "e": "¿Qué figura literaria es?",
+      "opts": [
+        [
+          "A",
+          "Comparación",
+          "Incorrecto. No usa como."
+        ],
+        [
+          "B",
+          "Personificación",
+          "Correcto. Acciones humanas en elementos naturales."
+        ],
+        [
+          "C",
+          "Rima",
+          "Incorrecto. No riman."
+        ],
+        [
+          "D",
+          "Exageración",
+          "Incorrecto. No hay exageración."
+        ]
+      ],
+      "a": "B",
+      "fb": "La personificación da cualidades humanas a objetos o seres no humanos."
+    },
+    {
+      "c": "En Ibagué identifican el sujeto de la oración.",
+      "e": "En la oración Los niños alegres juegan en el patio, ¿cuál es el SUJETO?",
+      "opts": [
+        [
+          "A",
+          "juegan",
+          "Incorrecto. Es el verbo."
+        ],
+        [
+          "B",
+          "en el patio",
+          "Incorrecto. Complemento."
+        ],
+        [
+          "C",
+          "Los niños alegres",
+          "Correcto. Indica quiénes realizan la acción."
+        ],
+        [
+          "D",
+          "Los niños",
+          "Incorrecto. Alegres también es parte del sujeto."
+        ]
+      ],
+      "a": "C",
+      "fb": "El sujeto indica quién realiza la acción. ¿Quién juega? Los niños alegres."
+    }
+  ]
+}
