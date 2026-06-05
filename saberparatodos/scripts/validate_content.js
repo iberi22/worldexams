@@ -118,8 +118,8 @@ function countOptionsAndCorrect(section) {
   // - [x] A) text
   // - [x] A. text
   // - [x] **A**: text
-  const options = section.match(/^\s*-\s*\[(x|X| )\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:]\s*.*)?$/gm) || [];
-  const correct = section.match(/^\s*-\s*\[(x|X)\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:]\s*.*)?$/gm) || [];
+  const options = section.match(/^\s*-\s*\[(x|X| )\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:]\s*.*)?/gm) || [];
+  const correct = section.match(/^\s*-\s*\[(x|X)\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:]\s*.*)?/gm) || [];
   return { options: options.length, correct: correct.length };
 }
 
@@ -252,12 +252,21 @@ function validateFile(filePath) {
     }
   }
 
-  // MASTERY bundle validation (20 questions + difficulty markers)
-  const isMastery = v5 || path.basename(filePath).toLowerCase().includes('mastery-bundle');
+  // MASTERY bundle validation (variable questions + difficulty markers)
+  const isMastery = v5 || protocolVersion.startsWith('6') || path.basename(filePath).toLowerCase().includes('mastery-bundle');
   if (isMastery) {
-    // Validate total question count = 20
-    if (inferredQuestionCount !== 20) {
-      const msg = `Bundle MASTERY debe tener 20 preguntas (detectadas=${inferredQuestionCount})`;
+    const grade = Number(data.grado);
+    let expectedCount = 20;
+
+    if (grade >= 3 && grade <= 4) expectedCount = 10;
+    else if (grade >= 5 && grade <= 7) expectedCount = 15;
+    else expectedCount = 20;
+
+    // Special case for legacy Mastery v5 (mostly Grade 11, always 20)
+    if (protocolVersion.startsWith('5')) expectedCount = 20;
+
+    if (inferredQuestionCount !== expectedCount) {
+      const msg = `Bundle MASTERY (Grado ${grade}) debe tener ${expectedCount} preguntas (detectadas=${inferredQuestionCount})`;
       addFinding('error', relFile, msg);
     }
   }
