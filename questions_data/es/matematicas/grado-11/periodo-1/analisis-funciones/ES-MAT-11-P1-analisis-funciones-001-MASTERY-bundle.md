@@ -316,7 +316,7 @@ Identificación y clasificación de extremos relativos mediante el uso de la pri
 
 ### Options
 - [ ] A) $(-\infty, \infty)$ <!-- feedback: Incorrecto. La curvatura cambia en los puntos de inflexión. -->
-- [ ] B) $(-\infty, -1) \cup (1, \infty)$ <!-- feedback: Correcto. $g'(x) = 4x^3 - 12x$; $g''(x) = 12x^2 - 12$. $g''(x) > 0 \Rightarrow 12(x^2 - 1) > 0 \Rightarrow |x| > 1$. -->
+- [x] B) $(-\infty, -1) \cup (1, \infty)$ <!-- feedback: Correcto. $g'(x) = 4x^3 - 12x$; $g''(x) = 12x^2 - 12$. $g''(x) > 0 \Rightarrow 12(x^2 - 1) > 0 \Rightarrow |x| > 1$. -->
 - [ ] C) $(-1, 1)$ <!-- feedback: Incorrecto. En este intervalo la segunda derivada es negativa (cóncava hacia abajo). -->
 - [ ] D) $(0, \infty)$ <!-- feedback: Incorrecto. Ignora el comportamiento en los valores negativos. -->
 
