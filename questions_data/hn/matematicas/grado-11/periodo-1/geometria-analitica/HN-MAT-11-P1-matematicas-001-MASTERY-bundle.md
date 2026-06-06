@@ -1,5 +1,5 @@
 ---
-id: "HN-MAT-11-P1-geometria-analitica-001-MASTERY"
+id: "HN-MAT-11-P1-matematicas-001-MASTERY"
 country: "honduras"
 grado: 11
 asignatura: "matematicas"
@@ -8,447 +8,452 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "SEDUC"
+alignment: "DCNB Honduras + Bachillerato"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.60
+  expected_success_rate: 0.55
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Geometría Analítica (001)
+# MASTERY Bundle — Matemáticas: Geometría Analítica (HN-001)
 
-## Bloque A — Nivel D3–D4
-
----
-
-## Question 1 [D3-D4]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v1`
-**Bloom:** Remember
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** El plano cartesiano.
-
-### Enunciado
-¿Cuál es la fórmula para calcular la distancia entre dos puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$ en el plano cartesiano?
-
-### Options
-- [ ] A) $d = (x_2 - x_1) + (y_2 - y_1)$ <!-- feedback: Incorrecto. Esta fórmula solo suma las diferencias de coordenadas. -->
-- [x] B) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ <!-- feedback: Correcto. Es la aplicación del teorema de Pitágoras al plano. -->
-- [ ] C) $d = \frac{x_1 + x_2}{2}$ <!-- feedback: Incorrecto. Esta es parte de la fórmula del punto medio. -->
-- [ ] D) $d = (x_2 - x_1)^2 - (y_2 - y_1)^2$ <!-- feedback: Incorrecto. Revisa los signos y la estructura de la fórmula. -->
-
-### Explicación Pedagógica
-Identificación de la fórmula fundamental de distancia entre puntos.
+## Bloque A — Nivel D3–D4: Puntos, Distancia y Rectas
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v2`
-**Bloom:** Understand
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Punto medio.
-
-### Enunciado
-Determine las coordenadas del punto medio del segmento cuyos extremos son $A(2, 4)$ y $B(8, 10)$.
-
-### Options
-- [ ] A) (10, 14) <!-- feedback: Incorrecto. Sumaste las coordenadas pero no las dividiste entre 2. -->
-- [x] B) (5, 7) <!-- feedback: Correcto. $X_m = (2+8)/2 = 5$; $Y_m = (4+10)/2 = 7$. -->
-- [ ] C) (6, 6) <!-- feedback: Incorrecto. Restaste las coordenadas en lugar de sumarlas. -->
-- [ ] D) (3, 3) <!-- feedback: Incorrecto. Realizaste operaciones incorrectas con las coordenadas. -->
-
-### Explicación Pedagógica
-Cálculo de las coordenadas del punto medio de un segmento.
-
----
-
-## Question 3 [D3-D4]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v3`
-**Bloom:** Understand
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** Pendiente de una recta.
-
-### Enunciado
-Si una recta tiene una pendiente $m = 0$, ¿qué característica tiene su gráfica?
-
-### Options
-- [ ] A) Es una recta vertical. <!-- feedback: Incorrecto. Una recta vertical tiene pendiente indefinida. -->
-- [x] B) Es una recta horizontal. <!-- feedback: Correcto. No hay cambio en el eje y respecto al eje x. -->
-- [ ] C) Pasa por el origen. <!-- feedback: Incorrecto. Que sea horizontal no significa que pase por (0,0). -->
-- [ ] D) Es perpendicular al eje x. <!-- feedback: Incorrecto. Eso describiría a una recta vertical. -->
-
-### Explicación Pedagógica
-Interpretación del valor de la pendiente en la orientación de una recta.
-
----
-
-## Question 4 [D3-D4]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v4`
-**Bloom:** Remember
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Ecuación de la recta.
-
-### Enunciado
-¿Cómo se denomina a la forma de la ecuación de la recta $y = mx + b$?
-
-### Options
-- [ ] A) Ecuación general. <!-- feedback: Incorrecto. La forma general es $Ax + By + C = 0$. -->
-- [x] B) Forma pendiente-intersección. <!-- feedback: Correcto. $m$ es la pendiente y $b$ es la intersección con el eje y. -->
-- [ ] C) Forma punto-pendiente. <!-- feedback: Incorrecto. Esa es $y - y_1 = m(x - x_1)$. -->
-- [ ] D) Ecuación canónica. <!-- feedback: Incorrecto. La canónica se refiere usualmente a la forma segmentaria o normal. -->
-
-### Explicación Pedagógica
-Reconocimiento de las diferentes formas de expresar la ecuación de una recta.
-
----
-
-## Bloque B — Nivel D5–D6
-
----
-
-## Question 5 [D5-D6]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v5`
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `HN-MAT-11-P1-matematicas-001-v1`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Rectas paralelas.
+**Context:** Localización en Tegucigalpa.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la pendiente de una recta que es paralela a la recta $y = -3x + 5$?
+En un mapa cartesiano de Tegucigalpa, el punto $A(2, 3)$ representa el Estadio Nacional y el punto $B(5, 7)$ representa la Basílica de Suyapa. ¿Cuál es la distancia en unidades del mapa entre estos dos puntos?
 
 ### Options
-- [ ] A) 3 <!-- feedback: Incorrecto. Cambiaste el signo; las paralelas tienen la misma pendiente. -->
-- [x] B) -3 <!-- feedback: Correcto. Dos rectas son paralelas si y solo si sus pendientes son iguales. -->
-- [ ] C) 1/3 <!-- feedback: Incorrecto. Este es el recíproco negativo, corresponde a una perpendicular. -->
-- [ ] D) 5 <!-- feedback: Incorrecto. Este es el término independiente (b). -->
+- [ ] A) 7 unidades <!-- feedback: Incorrecto. Se sumaron las diferencias de las coordenadas ($3+4$) en lugar de aplicar el Teorema de Pitágoras. -->
+- [x] B) 5 unidades <!-- feedback: Correcto. $d = \sqrt{(5-2)^2 + (7-3)^2} = \sqrt{3^2 + 4^2} = \sqrt{9+16} = 5$. -->
+- [ ] C) 25 unidades <!-- feedback: Incorrecto. Este es el cuadrado de la distancia, olvidó extraer la raíz cuadrada final. -->
+- [ ] D) 4.5 unidades <!-- feedback: Incorrecto. Error de cálculo en la sustracción o en la elevación al cuadrado de las componentes. -->
 
 ### Explicación Pedagógica
-Aplicación de la condición de paralelismo entre rectas.
+Aplicación de la fórmula de distancia entre dos puntos en el plano cartesiano basada en el Teorema de Pitágoras.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `HN-MAT-11-P1-matematicas-001-v2`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Punto medio de un segmento.
+**Expected_Success:** 0.60
 
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v6`
+### Enunciado
+Si un tramo de carretera recta une la ciudad de San Pedro Sula en el punto $(-2, 4)$ con El Progreso en el punto $(6, 8)$, ¿cuáles son las coordenadas del punto medio del trayecto?
+
+### Options
+- [ ] A) $(4, 12)$ <!-- feedback: Incorrecto. Se sumaron las coordenadas pero no se dividieron entre 2. -->
+- [x] B) $(2, 6)$ <!-- feedback: Correcto. $x_m = (-2+6)/2 = 2$; $y_m = (4+8)/2 = 6$. El punto es $(2, 6)$. -->
+- [ ] C) $(8, 4)$ <!-- feedback: Incorrecto. Se restaron las coordenadas en lugar de promediarlas. -->
+- [ ] D) $(2, 4)$ <!-- feedback: Incorrecto. Error en la suma de números con signo o en el promedio de la ordenada $y$. -->
+
+### Explicación Pedagógica
+Cálculo de las coordenadas del punto medio de un segmento de recta en el plano.
+
+---
+
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `HN-MAT-11-P1-matematicas-001-v3`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Pendiente de una calle inclinada.
+**Expected_Success:** 0.60
+
+### Enunciado
+Una calle en una zona montañosa de Santa Rosa de Copán sube desde el punto $(1, 100)$ hasta el punto $(11, 150)$ (unidades en metros). ¿Cuál es la pendiente ($m$) de esta calle?
+
+### Options
+- [ ] A) 50 <!-- feedback: Incorrecto. Solo se calculó el cambio en la altura ($y$) sin considerar el desplazamiento horizontal ($x$). -->
+- [x] B) 5 <!-- feedback: Correcto. $m = (150-100) / (11-1) = 50 / 10 = 5$. -->
+- [ ] C) 0.2 <!-- feedback: Incorrecto. Se calculó la razón inversa (cambio en $x$ dividido por cambio en $y$). -->
+- [ ] D) 10 <!-- feedback: Incorrecto. Error aritmético en la división de los incrementos de las coordenadas. -->
+
+### Explicación Pedagógica
+Cálculo de la pendiente de una recta a partir de dos puntos conocidos e interpretación como razón de cambio.
+
+---
+
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `HN-MAT-11-P1-matematicas-001-v4`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Ecuación de la recta pendiente-intercepto.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál es la ecuación de la recta que tiene una pendiente de $-2$ y corta al eje $Y$ en el punto $(0, 5)$?
+
+### Options
+- [ ] A) $y = 5x - 2$ <!-- feedback: Incorrecto. Se intercambiaron los valores de la pendiente ($m$) y el intercepto ($b$). -->
+- [x] B) $y = -2x + 5$ <!-- feedback: Correcto. Siguiendo la forma $y = mx + b$, sustituimos $m = -2$ y $b = 5$. -->
+- [ ] C) $y = -2x - 5$ <!-- feedback: Incorrecto. El intercepto con el eje $Y$ es positivo en el enunciado. -->
+- [ ] D) $2x + y + 5 = 0$ <!-- feedback: Incorrecto. Al pasar a la forma general, el signo del 5 debería ser negativo si se iguala a cero desde la forma correcta. -->
+
+### Explicación Pedagógica
+Identificación y construcción de la ecuación de una recta dada su pendiente y su intercepto vertical.
+
+---
+
+## Bloque B — Nivel D5–D6: Rectas Especiales y Circunferencia
+
+---
+
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `HN-MAT-11-P1-matematicas-001-v5`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Rectas paralelas.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál de las siguientes rectas es paralela a la recta $L_1: y = 3x - 4$?
+
+### Options
+- [ ] A) $y = -3x + 4$ <!-- feedback: Incorrecto. Las rectas paralelas deben tener exactamente la misma pendiente, incluyendo el signo. -->
+- [x] B) $y = 3x + 10$ <!-- feedback: Correcto. Ambas rectas tienen pendiente $m = 3$, lo que asegura que nunca se intercepten. -->
+- [ ] C) $y = (1/3)x - 4$ <!-- feedback: Incorrecto. Esta es la pendiente recíproca, no la misma pendiente. -->
+- [ ] D) $y = -0.33x + 2$ <!-- feedback: Incorrecto. Esta sería aproximadamente perpendicular, no paralela. -->
+
+### Explicación Pedagógica
+Reconocimiento de la condición de paralelismo entre rectas a través del análisis de sus pendientes.
+
+---
+
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `HN-MAT-11-P1-matematicas-001-v6`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
 **Context:** Rectas perpendiculares.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si una recta tiene pendiente $m_1 = 2$, ¿cuál debe ser la pendiente $m_2$ de una recta perpendicular a ella?
+Si una recta $L_1$ tiene una pendiente $m_1 = 4$, ¿cuál debe ser la pendiente de una recta $L_2$ para que sea perpendicular a $L_1$?
 
 ### Options
-- [ ] A) 2 <!-- feedback: Incorrecto. Esto sería para una recta paralela. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Solo cambiaste el signo, no el valor recíproco. -->
-- [x] C) -1/2 <!-- feedback: Correcto. Para que sean perpendiculares, el producto de sus pendientes debe ser -1 ($m_1 \cdot m_2 = -1$). -->
-- [ ] D) 1/2 <!-- feedback: Incorrecto. Falta el signo negativo para cumplir la condición de perpendicularidad. -->
+- [ ] A) 4 <!-- feedback: Incorrecto. Esta sería la condición para que fueran paralelas. -->
+- [ ] B) -4 <!-- feedback: Incorrecto. Solo cambió el signo, pero para perpendicularidad se requiere el recíproco negativo. -->
+- [x] C) -1/4 <!-- feedback: Correcto. Dos rectas son perpendiculares si el producto de sus pendientes es $-1$. $4 \times (-1/4) = -1$. -->
+- [ ] D) 1/4 <!-- feedback: Incorrecto. Falta el cambio de signo para cumplir la condición de perpendicularidad. -->
 
 ### Explicación Pedagógica
-Aplicación de la condición de perpendicularidad entre rectas.
+Aplicación de la condición de perpendicularidad entre rectas en el plano cartesiano.
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `HN-MAT-11-P1-matematicas-001-v7`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Ecuación canónica de la circunferencia.
+**Expected_Success:** 0.60
 
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v7`
+### Enunciado
+¿Cuál es el centro y el radio de la circunferencia cuya ecuación es $(x - 3)^2 + (y + 2)^2 = 16$?
+
+### Options
+- [ ] A) Centro $(3, -2)$, Radio 16 <!-- feedback: Incorrecto. El valor a la derecha de la igualdad es el radio al cuadrado ($r^2$), no el radio. -->
+- [x] B) Centro $(3, -2)$, Radio 4 <!-- feedback: Correcto. De $(x-h)^2 + (y-k)^2 = r^2$, tenemos $h=3, k=-2$ y $r=\sqrt{16}=4$. -->
+- [ ] C) Centro $(-3, 2)$, Radio 4 <!-- feedback: Incorrecto. Se invirtieron los signos de las coordenadas del centro. -->
+- [ ] D) Centro $(0, 0)$, Radio 4 <!-- feedback: Incorrecto. La circunferencia no está centrada en el origen. -->
+
+### Explicación Pedagógica
+Identificación de los elementos fundamentales (centro y radio) de una circunferencia a partir de su ecuación estándar.
+
+---
+
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `HN-MAT-11-P1-matematicas-001-v8`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Ecuación de la circunferencia.
+**Context:** Intersección de rectas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la ecuación de una circunferencia con centro en el origen (0,0) y radio $r = 4$?
+¿En qué punto se interceptan las rectas $y = x + 2$ y $y = -x + 6$?
 
 ### Options
-- [ ] A) $x^2 + y^2 = 4$ <!-- feedback: Incorrecto. Olvidaste elevar el radio al cuadrado ($r^2$). -->
-- [x] B) $x^2 + y^2 = 16$ <!-- feedback: Correcto. La fórmula es $x^2 + y^2 = r^2$. -->
-- [ ] C) $x + y = 16$ <!-- feedback: Incorrecto. La ecuación requiere los términos al cuadrado. -->
-- [ ] D) $x^2 - y^2 = 16$ <!-- feedback: Incorrecto. Esto describiría una hipérbola. -->
+- [ ] A) $(4, 6)$ <!-- feedback: Incorrecto. Al sustituir $x=4$ en la primera daría $y=6$, pero en la segunda daría $y=2$. -->
+- [x] B) $(2, 4)$ <!-- feedback: Correcto. Igualando: $x+2 = -x+6 \Rightarrow 2x = 4 \Rightarrow x=2$. Sustituyendo: $y=2+2=4$. -->
+- [ ] C) $(0, 2)$ <!-- feedback: Incorrecto. Este es solo el intercepto con el eje $Y$ de la primera recta. -->
+- [ ] D) $(3, 3)$ <!-- feedback: Incorrecto. No satisface ninguna de las dos ecuaciones del sistema. -->
 
 ### Explicación Pedagógica
-Determinación de la ecuación canónica de la circunferencia.
+Resolución de sistemas de ecuaciones lineales para hallar puntos de intersección geométrica.
 
 ---
 
-## Question 8 [D5-D6]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v8`
-**Bloom:** Understand
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Elementos de la parábola.
-
-### Enunciado
-En la ecuación de una parábola $y = ax^2$, si $a > 0$, ¿hacia dónde abre la parábola?
-
-### Options
-- [x] A) Hacia arriba. <!-- feedback: Correcto. Un coeficiente principal positivo indica concavidad hacia arriba. -->
-- [ ] B) Hacia abajo. <!-- feedback: Incorrecto. Eso ocurriría si $a < 0$. -->
-- [ ] C) Hacia la derecha. <!-- feedback: Incorrecto. Eso ocurriría si fuera de la forma $x = ay^2$ con $a > 0$. -->
-- [ ] D) Hacia la izquierda. <!-- feedback: Incorrecto. Eso ocurriría si fuera de la forma $x = ay^2$ con $a < 0$. -->
-
-### Explicación Pedagógica
-Comprensión de la orientación de las parábolas según sus parámetros.
-
----
-
-## Question 9 [D5-D6]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v9`
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `HN-MAT-11-P1-matematicas-001-v9`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Distancia de un punto a una recta.
+**Context:** Área de un círculo en el plano.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Determine la distancia del punto $P(0, 0)$ a la recta $3x + 4y - 10 = 0$.
+Calcula el área de un círculo cuya circunferencia está definida por la ecuación $x^2 + y^2 = 9$. (Usa $\pi \approx 3.14$).
 
 ### Options
-- [ ] A) 10 <!-- feedback: Incorrecto. Solo tomaste el valor de C sin aplicar la fórmula completa. -->
-- [x] B) 2 <!-- feedback: Correcto. $d = \frac{|3(0) + 4(0) - 10|}{\sqrt{3^2 + 4^2}} = \frac{|-10|}{\sqrt{25}} = 10/5 = 2$. -->
-- [ ] C) 5 <!-- feedback: Incorrecto. Revisa el cálculo del numerador y denominador. -->
-- [ ] D) 0 <!-- feedback: Incorrecto. El punto (0,0) no pertenece a la recta. -->
+- [ ] A) $9.42$ u² <!-- feedback: Incorrecto. Se multiplicó el radio al cuadrado por $\pi$ pero se confundió con el perímetro. -->
+- [x] B) $28.26$ u² <!-- feedback: Correcto. $r^2 = 9 \Rightarrow \text{Área} = \pi \cdot r^2 = 3.14 \cdot 9 = 28.26$. -->
+- [ ] C) $18.84$ u² <!-- feedback: Incorrecto. Se calculó el perímetro ($2\pi r$) en lugar del área. -->
+- [ ] D) $81\pi$ u² <!-- feedback: Incorrecto. Se elevó el valor de $r^2$ nuevamente al cuadrado. -->
 
 ### Explicación Pedagógica
-Cálculo de la distancia de un punto a una recta en el plano.
+Relación entre la ecuación de la circunferencia y el cálculo de propiedades geométricas como el área.
 
 ---
 
-## Question 10 [D5-D6]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v10`
-**Bloom:** Understand
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** Concepto de secciones cónicas.
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `HN-MAT-11-P1-matematicas-001-v10`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Ecuación general de la recta.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué sección cónica se obtiene al cortar un cono con un plano perpendicular a su eje?
+Dada la ecuación general de la recta $3x - 4y + 12 = 0$, ¿cuál es su pendiente?
 
 ### Options
-- [ ] A) Elipse. <!-- feedback: Incorrecto. La elipse se forma con un plano inclinado que no corta la base. -->
-- [ ] B) Parábola. <!-- feedback: Incorrecto. La parábola se forma con un plano paralelo a una generatriz. -->
-- [x] C) Circunferencia. <!-- feedback: Correcto. Al ser perpendicular al eje, todas las distancias al centro son iguales. -->
-- [ ] D) Hipérbola. <!-- feedback: Incorrecto. La hipérbola se forma con un plano paralelo al eje del cono. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. No se consideró el coeficiente de $y$ ni el despeje necesario. -->
+- [x] B) 3/4 <!-- feedback: Correcto. Despejando $y$: $4y = 3x + 12 \Rightarrow y = (3/4)x + 3$. La pendiente es $3/4$. -->
+- [ ] C) -3/4 <!-- feedback: Incorrecto. Error de signo al trasponer los términos de la ecuación. -->
+- [ ] D) -4/3 <!-- feedback: Incorrecto. Se tomó el recíproco negativo de la pendiente correcta. -->
 
 ### Explicación Pedagógica
-Reconocimiento del origen geométrico de las secciones cónicas.
+Transformación de la ecuación general de la recta a la forma pendiente-intercepto para el análisis de sus parámetros.
 
 ---
 
-## Bloque C — Nivel D7–D8
+## Bloque C — Nivel D7–D8: Parábola y Elipse
 
 ---
 
-## Question 11 [D7-D8]
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `HN-MAT-11-P1-matematicas-001-v11`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Parábola con vértice en el origen.
+**Expected_Success:** 0.60
 
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v11`
+### Enunciado
+¿Cuál es la ecuación de una parábola que abre hacia arriba, tiene su vértice en el origen $(0, 0)$ y su foco está en el punto $(0, 2)$?
+
+### Options
+- [ ] A) $y^2 = 8x$ <!-- feedback: Incorrecto. Esta parábola abriría hacia la derecha (eje horizontal). -->
+- [x] B) $x^2 = 8y$ <!-- feedback: Correcto. Forma $x^2 = 4py$. Como $p=2$, entonces $4(2)=8$. -->
+- [ ] C) $x^2 = 2y$ <!-- feedback: Incorrecto. Se usó el valor de $p$ directamente en lugar de $4p$. -->
+- [ ] D) $y = x^2 + 2$ <!-- feedback: Incorrecto. Esta parábola tiene su vértice en $(0, 2)$, no en el origen. -->
+
+### Explicación Pedagógica
+Identificación de la ecuación canónica de la parábola a partir de la posición de su foco y vértice.
+
+---
+
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `HN-MAT-11-P1-matematicas-001-v12`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Ecuación de la elipse.
+**Context:** Elementos de la elipse.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Determine los focos de la elipse dada por la ecuación $\frac{x^2}{25} + \frac{y^2}{9} = 1$.
+Dada la ecuación de la elipse $\frac{x^2}{25} + \frac{y^2}{9} = 1$, ¿cuál es la longitud del eje mayor?
 
 ### Options
-- [ ] A) (0, ±4) <!-- feedback: Incorrecto. Como $a^2$ está bajo x, los focos están en el eje x. -->
-- [x] B) (±4, 0) <!-- feedback: Correcto. $a^2=25, b^2=9 \Rightarrow c^2 = a^2 - b^2 = 16 \Rightarrow c = 4$. Focos en $(\pm 4, 0)$. -->
-- [ ] C) (±5, 0) <!-- feedback: Incorrecto. Estos son los vértices mayores, no los focos. -->
-- [ ] D) (0, ±3) <!-- feedback: Incorrecto. Estos son los vértices menores. -->
+- [ ] A) 5 unidades <!-- feedback: Incorrecto. Este es el valor de $a$ (semieje mayor), la longitud total es $2a$. -->
+- [x] B) 10 unidades <!-- feedback: Correcto. $a^2 = 25 \Rightarrow a = 5$. El eje mayor mide $2a = 10$. -->
+- [ ] C) 6 unidades <!-- feedback: Incorrecto. Esta es la longitud del eje menor ($2b$). -->
+- [ ] D) 25 unidades <!-- feedback: Incorrecto. Confusión entre el denominador de la ecuación y la longitud geométrica. -->
 
 ### Explicación Pedagógica
-Identificación y cálculo de los elementos focales de una elipse.
+Análisis de los parámetros de la elipse a partir de su ecuación canónica centrada en el origen.
 
 ---
 
-## Question 12 [D7-D8]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v12`
-**Bloom:** Analyze
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** Ecuación general de la circunferencia.
-
-### Enunciado
-Dada la ecuación $x^2 + y^2 - 6x + 4y - 3 = 0$, determine las coordenadas del centro.
-
-### Options
-- [ ] A) (6, -4) <!-- feedback: Incorrecto. Olvidaste dividir por -2. -->
-- [x] B) (3, -2) <!-- feedback: Correcto. El centro se halla como $h = -D/2$ y $k = -E/2$. Entonces $h = -(-6)/2 = 3$ y $k = -(4)/2 = -2$. -->
-- [ ] C) (-3, 2) <!-- feedback: Incorrecto. Error en los signos al despejar. -->
-- [ ] D) (0, 0) <!-- feedback: Incorrecto. Esta no es una circunferencia centrada en el origen. -->
-
-### Explicación Pedagógica
-Transformación de la ecuación general de la circunferencia a su forma ordinaria para identificar elementos.
-
----
-
-## Question 13 [D7-D8]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v13`
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `HN-MAT-11-P1-matematicas-001-v13`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Ecuación de la parábola con vértice fuera del origen.
+**Context:** Focos de la elipse.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el foco de la parábola $(x - 2)^2 = 8(y + 1)$?
+Para la elipse $\frac{x^2}{25} + \frac{y^2}{16} = 1$, ¿a qué distancia del centro se encuentran los focos?
 
 ### Options
-- [ ] A) (2, -1) <!-- feedback: Incorrecto. Este es el vértice de la parábola. -->
-- [x] B) (2, 1) <!-- feedback: Correcto. Vértice $(2, -1)$. $4p = 8 \Rightarrow p = 2$. Como abre hacia arriba, el foco es $(h, k+p) = (2, -1+2) = (2, 1)$. -->
-- [ ] C) (4, -1) <!-- feedback: Incorrecto. Sumaste $p$ a la coordenada x en lugar de la y. -->
-- [ ] D) (2, -3) <!-- feedback: Incorrecto. Restaste $p$ en lugar de sumarlo. -->
+- [ ] A) 9 unidades <!-- feedback: Incorrecto. Resultado de la resta $a^2 - b^2$, pero falta extraer la raíz cuadrada para hallar $c$. -->
+- [x] B) 3 unidades <!-- feedback: Correcto. $c^2 = a^2 - b^2 = 25 - 16 = 9 \Rightarrow c = 3$. -->
+- [ ] C) 41 unidades <!-- feedback: Incorrecto. Se sumaron los denominadores en lugar de restarlos (propio de la hipérbola). -->
+- [ ] D) 4 unidades <!-- feedback: Incorrecto. Este es el valor del semieje menor $b$. -->
 
 ### Explicación Pedagógica
-Cálculo de los elementos de una parábola trasladada.
+Cálculo de la semidistancia focal en elipses utilizando la relación pitagórica fundamental entre sus parámetros.
 
 ---
 
-## Question 14 [D7-D8]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v14`
-**Bloom:** Analyze
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Asíntotas de la hipérbola.
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `HN-MAT-11-P1-matematicas-001-v14`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Ecuación general de la circunferencia (completación).
+**Expected_Success:** 0.60
 
 ### Enunciado
-Para la hipérbola $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$, ¿cuáles son las ecuaciones de sus asíntotas?
+Al completar cuadrados en la ecuación $x^2 + y^2 - 6x + 4y + 9 = 0$, ¿cuál es el radio de la circunferencia?
 
 ### Options
-- [ ] A) $y = \pm \frac{a}{b} x$ <!-- feedback: Incorrecto. Invertiste la relación de los semiejes. -->
-- [x] B) $y = \pm \frac{b}{a} x$ <!-- feedback: Correcto. Estas son las rectas hacia las que tiende la hipérbola en el infinito. -->
-- [ ] C) $y = \pm ab x$ <!-- feedback: Incorrecto. Las asíntotas dependen de la razón de los semiejes. -->
-- [ ] D) $x = \pm a, y = \pm b$ <!-- feedback: Incorrecto. Estas son rectas constantes, no las asíntotas oblicuas. -->
+- [ ] A) 9 unidades <!-- feedback: Incorrecto. Confundió el término independiente original con el radio. -->
+- [x] B) 2 unidades <!-- feedback: Correcto. $(x-3)^2 - 9 + (y+2)^2 - 4 + 9 = 0 \Rightarrow (x-3)^2 + (y+2)^2 = 4$. $r = \sqrt{4} = 2$. -->
+- [ ] C) 4 unidades <!-- feedback: Incorrecto. Este es el valor de $r^2$ tras la completación. -->
+- [ ] D) 3 unidades <!-- feedback: Incorrecto. Error en los pasos del álgebra de completación de cuadrados. -->
 
 ### Explicación Pedagógica
-Identificación de las líneas asintóticas en el análisis de hipérbolas centradas en el origen.
+Uso de la técnica de completación de cuadrados para transformar ecuaciones generales de cónicas a sus formas estándar.
 
 ---
 
-## Question 15 [D7-D8]
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `HN-MAT-11-P1-matematicas-001-v15`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Identificación de cónicas.
+**Expected_Success:** 0.60
 
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v15`
+### Enunciado
+Dada la ecuación general $Ax^2 + Cy^2 + Dx + Ey + F = 0$, ¿qué condición deben cumplir los coeficientes $A$ y $C$ para que la gráfica sea una elipse?
+
+### Options
+- [ ] A) $A = C$ <!-- feedback: Incorrecto. En este caso la figura sería una circunferencia. -->
+- [ ] B) $A = 0$ o $C = 0$ <!-- feedback: Incorrecto. Si un coeficiente es cero, la figura es una parábola. -->
+- [x] C) $A$ y $C$ tienen el mismo signo pero valores diferentes. <!-- feedback: Correcto. Esto garantiza una curva cerrada con diferentes radios de curvatura en los ejes. -->
+- [ ] D) $A$ y $C$ tienen signos opuestos. <!-- feedback: Incorrecto. Si tienen signos opuestos, la figura es una hipérbola. -->
+
+### Explicación Pedagógica
+Análisis de los coeficientes de la ecuación general de segundo grado para la clasificación de secciones cónicas.
+
+---
+
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `HN-MAT-11-P1-matematicas-001-v16`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Intersección recta-circunferencia.
+**Context:** Directriz de la parábola.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Determine los puntos de intersección entre la recta $y = x$ y la circunferencia $x^2 + y^2 = 8$.
+Halla la ecuación de la directriz de la parábola $y^2 = -12x$.
 
 ### Options
-- [x] A) (2, 2) y (-2, -2) <!-- feedback: Correcto. Sustituyendo $y$ por $x$: $x^2 + x^2 = 8 \Rightarrow 2x^2 = 8 \Rightarrow x^2 = 4 \Rightarrow x = \pm 2$. Por lo tanto, $y = \pm 2$. -->
-- [ ] B) (2, 2) <!-- feedback: Incorrecto. Te falta la solución negativa en el tercer cuadrante. -->
-- [ ] C) (4, 4) y (-4, -4) <!-- feedback: Incorrecto. Olvidaste dividir por 2 o extraer la raíz correctamente. -->
-- [ ] D) No se intersecan. <!-- feedback: Incorrecto. Existen soluciones reales para el sistema de ecuaciones. -->
+- [ ] A) $y = 3$ <!-- feedback: Incorrecto. La parábola abre horizontalmente, por lo que la directriz debe ser una recta vertical ($x = \dots$). -->
+- [x] B) $x = 3$ <!-- feedback: Correcto. $4p = -12 \Rightarrow p = -3$. El foco está en $(-3, 0)$ y la directriz en $x = -p = 3$. -->
+- [ ] C) $x = -3$ <!-- feedback: Incorrecto. Esta recta pasaría por el foco de la parábola. -->
+- [ ] D) $y = -3$ <!-- feedback: Incorrecto. Error en la orientación de la recta directriz. -->
 
 ### Explicación Pedagógica
-Resolución de sistemas de ecuaciones cuadrático-lineales.
+Determinación de los elementos lineales de la parábola a partir de su orientación y parámetro focal.
 
 ---
 
-## Question 16 [D7-D8]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v16`
-**Bloom:** Analyze
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** Excentricidad.
-
-### Enunciado
-¿Qué se puede afirmar sobre una sección cónica cuya excentricidad $e > 1$?
-
-### Options
-- [ ] A) Es una elipse. <!-- feedback: Incorrecto. Para la elipse $0 < e < 1$. -->
-- [ ] B) Es una circunferencia. <!-- feedback: Incorrecto. Para la circunferencia $e = 0$. -->
-- [ ] C) Es una parábola. <!-- feedback: Incorrecto. Para la parábola $e = 1$. -->
-- [x] D) Es una hipérbola. <!-- feedback: Correcto. Una excentricidad mayor que 1 caracteriza a las hipérbolas. -->
-
-### Explicación Pedagógica
-Clasificación de cónicas mediante el parámetro de excentricidad.
+## Bloque D — Nivel D9–D10: Aplicaciones y Casos Complejos
 
 ---
 
-## Bloque D — Nivel D9–D10
-
----
-
-## Question 17 [D9-D10]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v17`
-**Bloom:** Evaluate
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `HN-MAT-11-P1-matematicas-001-v17`
+**Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Problema de aplicación (Leyes de Kepler).
+**Context:** Espejos parabólicos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La órbita de un planeta alrededor del Sol es una elipse con el Sol en uno de sus focos. Si la distancia máxima al Sol es 150 millones de km y la mínima es 100 millones de km, ¿cuál es la excentricidad de la órbita?
+Un plato de antena satelital tiene forma de paraboloide. Si el foco (donde se pone el receptor) debe estar a 0.5 metros del vértice para una recepción óptima, ¿cuál es la ecuación que modela la sección transversal si el vértice está en el origen?
 
 ### Options
-- [ ] A) 0.5 <!-- feedback: Incorrecto. Calculaste mal la relación. -->
-- [x] B) 0.2 <!-- feedback: Correcto. $a+c = 150, a-c = 100 \Rightarrow 2a = 250, a=125$. Entonces $c = 25$. $e = c/a = 25/125 = 1/5 = 0.2$. -->
-- [ ] C) 0.1 <!-- feedback: Incorrecto. Revisa el despeje de los valores de $a$ y $c$. -->
-- [ ] D) 0.25 <!-- feedback: Incorrecto. Error aritmético en el cálculo de la razón. -->
+- [ ] A) $x^2 = 0.5y$ <!-- feedback: Incorrecto. Olvidó multiplicar el valor de $p$ por 4. -->
+- [x] B) $x^2 = 2y$ <!-- feedback: Correcto. $4p = 4(0.5) = 2$. La ecuación es $x^2 = 2y$. -->
+- [ ] C) $x^2 = 4y$ <!-- feedback: Incorrecto. Se usó $p=1$ en lugar del valor real de 0.5 m. -->
+- [ ] D) $y^2 = 2x$ <!-- feedback: Incorrecto. Esta orientación no es la estándar para una antena que apunta hacia arriba. -->
 
 ### Explicación Pedagógica
-Evaluación y aplicación de las propiedades de la elipse en modelos físicos reales.
+Modelado de objetos del mundo real utilizando ecuaciones de secciones cónicas y sus propiedades focales.
 
 ---
 
-## Question 18 [D9-D10]
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `HN-MAT-11-P1-matematicas-001-v18`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Excentricidad de la elipse.
+**Expected_Success:** 0.60
 
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v18`
-**Bloom:** Analyze
-**Competencia:** Razonamiento y resolución de problemas
+### Enunciado
+Calcula la excentricidad ($e = c/a$) de la elipse $\frac{x^2}{100} + \frac{y^2}{64} = 1$.
+
+### Options
+- [ ] A) $0.8$ <!-- feedback: Incorrecto. Se calculó la razón $b/a$ en lugar de $c/a$. -->
+- [x] B) $0.6$ <!-- feedback: Correcto. $a=10, b=8 \Rightarrow c = \sqrt{100-64} = 6$. $e = 6/10 = 0.6$. -->
+- [ ] C) $1.25$ <!-- feedback: Incorrecto. La excentricidad de la elipse siempre es un valor entre 0 y 1. -->
+- [ ] D) $0.36$ <!-- feedback: Incorrecto. Se elevó el valor de la excentricidad al cuadrado. -->
+
+### Explicación Pedagógica
+Cálculo e interpretación de la excentricidad como medida del "achatamiento" de una elipse.
+
+---
+
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `HN-MAT-11-P1-matematicas-001-v19`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
 **Context:** Tangente a una circunferencia.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Encuentre la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.
+Halla la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.
 
 ### Options
-- [x] A) $3x + 4y = 25$ <!-- feedback: Correcto. La fórmula de la tangente en un punto $(x_0, y_0)$ es $x_0x + y_0y = r^2$. -->
-- [ ] B) $4x - 3y = 0$ <!-- feedback: Incorrecto. Esta es una recta perpendicular que pasa por el origen. -->
-- [ ] C) $3x + 4y = 5$ <!-- feedback: Incorrecto. Olvidaste usar el cuadrado del radio. -->
-- [ ] D) $y - 4 = \frac{4}{3}(x - 3)$ <!-- feedback: Incorrecto. Usaste mal la pendiente. La pendiente de la tangente es la recíproca negativa de la del radio. -->
+- [ ] A) $y = (3/4)x + 25/4$ <!-- feedback: Incorrecto. La pendiente de la tangente debe ser la recíproca negativa de la pendiente del radio. -->
+- [x] B) $3x + 4y = 25$ <!-- feedback: Correcto. Pendiente del radio: $4/3$. Pendiente tangente: $-3/4$. Ec: $y - 4 = (-3/4)(x - 3) \Rightarrow 4y - 16 = -3x + 9 \Rightarrow 3x + 4y = 25$. -->
+- [ ] C) $4x - 3y = 0$ <!-- feedback: Incorrecto. Esta recta pasa por el origen y el punto, es el radio, no la tangente. -->
+- [ ] D) $y = -x + 7$ <!-- feedback: Incorrecto. No satisface la condición de perpendicularidad con el radio en el punto de contacto. -->
 
 ### Explicación Pedagógica
-Análisis y determinación de rectas tangentes a curvas de segundo grado.
+Resolución de problemas complejos que integran conceptos de rectas perpendiculares, radio de la circunferencia y tangencia.
 
 ---
 
-## Question 19 [D9-D10]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Razonamiento y resolución de problemas
-**Context:** Rotación de ejes (Concepto).
-
-### Enunciado
-¿Cuál es el propósito principal de aplicar una rotación de ejes en el análisis de una ecuación general de segundo grado $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$?
-
-### Options
-- [ ] A) Eliminar los términos lineales $D$ y $E$. <!-- feedback: Incorrecto. Eso se logra con una traslación. -->
-- [x] B) Eliminar el término mixto $Bxy$. <!-- feedback: Correcto. Al rotar los ejes un ángulo adecuado, el nuevo coeficiente $B'$ se anula, facilitando la identificación de la cónica. -->
-- [ ] C) Convertir una hipérbola en una elipse. <!-- feedback: Incorrecto. La rotación no cambia la naturaleza de la curva. -->
-- [ ] D) Hallar el centro de la cónica. <!-- feedback: Incorrecto. El centro se halla mediante traslación o completación de cuadrados. -->
-
-### Explicación Pedagógica
-Evaluación del uso de transformaciones de coordenadas para el estudio de curvas complejas.
-
----
-
-## Question 20 [D9-D10]
-
-**ID:** `HN-MAT-11-P1-geometria-analitica-001-v20`
-**Bloom:** Create
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `HN-MAT-11-P1-matematicas-001-v20`
+**Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Problema integrador de cónicas.
+**Context:** Intersección recta y elipse.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un arco en una ciudad de Honduras tiene forma de parábola con eje vertical. Su altura máxima es de 10 m y su base en el suelo mide 20 m. Determine la altura del arco a 5 m del centro de la base.
+¿Cuáles son los puntos de intersección de la recta $y = 3$ con la elipse $\frac{x^2}{16} + \frac{y^2}{25} = 1$?
 
 ### Options
-- [ ] A) 5 m <!-- feedback: Incorrecto. La variación de altura no es lineal. -->
-- [x] B) 7.5 m <!-- feedback: Correcto. Vértice en (0, 10). Pasa por (10, 0). Ecuación: $x^2 = 4p(y - 10)$. Sustituyendo (10,0): $100 = 4p(-10) \Rightarrow 4p = -10$. Ecuación: $x^2 = -10(y - 10)$. Para $x=5$: $25 = -10(y - 10) \Rightarrow -2.5 = y - 10 \Rightarrow y = 7.5$. -->
-- [ ] C) 2.5 m <!-- feedback: Incorrecto. Revisa el planteamiento de la ecuación de la parábola. -->
-- [ ] D) 8 m <!-- feedback: Incorrecto. Error en el cálculo algebraico. -->
+- [ ] A) $(4, 3)$ y $(-4, 3)$ <!-- feedback: Incorrecto. Al sustituir daría $16/16 + 9/25 = 1.36$, que es mayor que 1. -->
+- [x] B) $(3.2, 3)$ y $(-3.2, 3)$ <!-- feedback: Correcto. $x^2/16 + 9/25 = 1 \Rightarrow x^2/16 = 16/25 \Rightarrow x^2 = (16 \cdot 16)/25 \Rightarrow x = \pm 16/5 = \pm 3.2$. -->
+- [ ] C) No hay intersección. <!-- feedback: Incorrecto. Como el valor $y=3$ es menor que el semieje $b=5$, la recta necesariamente corta a la elipse. -->
+- [ ] D) $(0, 3)$ <!-- feedback: Incorrecto. Este punto está dentro de la elipse, no sobre su contorno. -->
 
 ### Explicación Pedagógica
-Modelización y resolución de problemas arquitectónicos utilizando funciones cuadráticas/parábolas.
+Evaluación de la intersección entre diferentes tipos de curvas analíticas mediante métodos algebraicos de sustitución.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Geometría Analítica para el Bachillerato en Ciencias y Humanidades en Honduras ha sido elaborado siguiendo los lineamientos del Diseño Curricular Nacional Básico (DCNB). Cubre desde los conceptos fundamentales de distancia y línea recta, aplicados a la geografía y urbanismo nacional, hasta el estudio riguroso de las cónicas (circunferencia, parábola y elipse). El enfoque permite al estudiante consolidar el manejo algebraico necesario para las pruebas de aptitud académica y el ingreso a carreras de ingeniería y ciencias aplicadas, fomentando un razonamiento lógico-espacial sólido.

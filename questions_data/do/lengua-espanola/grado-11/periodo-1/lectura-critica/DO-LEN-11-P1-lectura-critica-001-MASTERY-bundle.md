@@ -1,6 +1,6 @@
 ---
 id: "DO-LEN-11-P1-lectura-critica-001-MASTERY"
-country: "dominican_republic"
+country: "dominican-republic"
 grado: 11
 asignatura: "lengua-espanola"
 tema: "lectura-critica"
@@ -8,459 +8,453 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINERD + Pruebas Nacionales"
+alignment: "MINERD República Dominicana + 6to Secundaria"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.28"
+  expected_success_rate: 0.72
+  discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Lectura Crítica (001)
+# MASTERY Bundle — Lengua Española: Lectura Crítica (DO-001)
 
-## Bloque A — Nivel D3–D4: Comprensión Literal y Vocabulario
-
-**Texto 1:**
-"El merengue, declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO en 2016, es mucho más que un ritmo musical en la República Dominicana; es un elemento esencial de la identidad nacional. Desde las letras costumbristas de Juan Luis Guerra hasta los ritmos más tradicionales de las orquestas de antaño, el merengue ha servido como cronista de la historia social y política del país. Su estructura rítmica, basada en el uso de la tambora, la güira y el acordeón, refleja el sincretismo cultural propio de nuestra región."
+## Bloque A — Nivel D3–D4: Comprensión y Literatura Dominicana
 
 ---
 
-## Question 1 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 1 [D3-D4] (Difficulty 3)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v1`
-**Bloom:** Remember
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de información explícita.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Literatura dominicana: Pedro Henríquez Ureña.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿En qué año fue el merengue declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO?
+Pedro Henríquez Ureña es una de las figuras intelectuales más importantes de América Latina. En su obra "Seis ensayos en busca de nuestra expresión", ¿qué concepto central defiende sobre la cultura hispanoamericana?
 
 ### Options
-- [ ] A) 2010 <!-- feedback: Incorrecto. El texto indica que fue en 2016. -->
-- [x] B) 2016 <!-- feedback: Correcto. Esta fecha aparece explícitamente en el primer párrafo del texto. -->
-- [ ] C) 2018 <!-- feedback: Incorrecto. No coincide con el dato del texto. -->
-- [ ] D) 2020 <!-- feedback: Incorrecto. Fecha posterior a la mencionada. -->
+- [ ] A) La necesidad de copiar exactamente los modelos europeos para progresar. <!-- feedback: Incorrecto. Ureña buscaba una identidad propia, no una imitación servil de Europa. -->
+- [x] B) La búsqueda de una expresión propia y auténtica que refleje nuestra identidad mestiza. <!-- feedback: Correcto. Defendió que América debía encontrar su voz original en el lenguaje y la cultura. -->
+- [ ] C) Que el español hablado en América es inferior al de España. <!-- feedback: Incorrecto. Al contrario, valoró la riqueza de las variedades del español americano. -->
+- [ ] D) La eliminación total de la herencia española en nuestras letras. <!-- feedback: Incorrecto. Su visión era integradora, reconociendo todas las raíces de nuestra cultura. -->
 
 ### Explicación Pedagógica
-Recuperación de información literal en un texto informativo sobre cultura dominicana.
+Identificación de las ideas fundamentales de los autores clásicos del pensamiento dominicano y su impacto en la identidad regional.
 
 ---
 
-## Question 2 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 2 [D3-D4] (Difficulty 3)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v2`
-**Bloom:** Understand
-**Competencia:** Comprensión Lectora
-**Context:** Comprensión de vocabulario en contexto.
+**Bloom:** Apply
+**Competencia:** Análisis literario
+**Context:** Poesía de Salomé Ureña.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la frase "el merengue ha servido como cronista de la historia social", la palabra "cronista" sugiere que el merengue:
+Salomé Ureña es la poetisa nacional por excelencia de la República Dominicana. En sus poemas patrióticos, ¿cuál es el sentimiento predominante hacia la nación?
 
 ### Options
-- [ ] A) Es una música muy antigua. <!-- feedback: Incorrecto. Cronista se refiere a la función de relatar hechos, no a la edad del ritmo. -->
-- [x] B) Relata o documenta los sucesos del país. <!-- feedback: Correcto. Un cronista es quien narra sucesos históricos; el texto indica que las letras reflejan la historia. -->
-- [ ] C) Es un ritmo exclusivo de las ciudades. <!-- feedback: Incorrecto. No hay información que sugiera exclusividad urbana. -->
-- [ ] D) Solo se toca en fechas especiales. <!-- feedback: Incorrecto. El texto no menciona restricciones temporales para su ejecución. -->
+- [ ] A) El pesimismo y el deseo de abandonar el país. <!-- feedback: Incorrecto. Su obra es de esperanza y construcción nacional, no de abandono. -->
+- [x] B) El amor a la patria, el optimismo por el progreso y el valor de la educación. <!-- feedback: Correcto. Salomé Ureña vinculaba el futuro del país con el saber y el patriotismo cívico. -->
+- [ ] C) El odio hacia las tradiciones antiguas del pueblo. <!-- feedback: Incorrecto. Respetó las raíces pero buscó la modernización a través de las luces del conocimiento. -->
+- [ ] D) La descripción técnica de la geografía de la isla. <!-- feedback: Incorrecto. Su enfoque es lírico y moral, no puramente descriptivo-geográfico. -->
 
 ### Explicación Pedagógica
-Inferencia del significado de un término a partir del contexto semántico del párrafo.
+Comprensión del tono y los valores presentes en la literatura fundacional dominicana.
 
 ---
 
-## Question 3 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 3 [D3-D4] (Difficulty 4)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v3`
-**Bloom:** Understand
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de instrumentos mencionados.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Noticias sobre la Zona Colonial.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según el texto, el sincretismo cultural de la región se refleja a través de:
+"La Zona Colonial de Santo Domingo, primer asentamiento europeo en América, requiere un plan integral de gestión para equilibrar el turismo con la vida de sus residentes". ¿Cuál es la idea principal de esta frase?
 
 ### Options
-- [ ] A) La voz de Juan Luis Guerra. <!-- feedback: Incorrecto. El texto menciona a Guerra como ejemplo de letras costumbristas, pero el sincretismo se liga a la estructura rítmica. -->
-- [x] B) El uso de la tambora, la güira y el acordeón. <!-- feedback: Correcto. El texto afirma que esta combinación rítmica refleja el sincretismo cultural. -->
-- [ ] C) El reconocimiento de la UNESCO. <!-- feedback: Incorrecto. El reconocimiento es un efecto de su importancia, no la causa del sincretismo. -->
-- [ ] D) Las leyes de la República Dominicana. <!-- feedback: Incorrecto. No se mencionan leyes en el texto. -->
+- [ ] A) Los turistas no deberían visitar la Zona Colonial. <!-- feedback: Incorrecto. No propone prohibir el turismo, sino gestionarlo. -->
+- [ ] B) Los residentes de la zona deben mudarse para que haya más hoteles. <!-- feedback: Incorrecto. El texto busca el equilibrio con la "vida de sus residentes", no su expulsión. -->
+- [x] C) Es necesario organizar mejor la convivencia entre la actividad turística y la habitabilidad de la zona. <!-- feedback: Correcto. Resume la necesidad de un "plan integral" para ambos sectores. -->
+- [ ] D) Santo Domingo es la ciudad más antigua de todo el mundo. <!-- feedback: Incorrecto. El texto dice que es el primero en América, no en el mundo, y ese no es el foco del problema planteado. -->
 
 ### Explicación Pedagógica
-Relación de ideas entre un concepto abstracto (sincretismo) y sus manifestaciones materiales mencionadas en el texto.
+Identificación de la tesis central en enunciados informativos sobre el patrimonio nacional.
 
 ---
 
-## Question 4 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 4 [D3-D4] (Difficulty 4)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v4`
 **Bloom:** Apply
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de la intención del autor.
+**Competencia:** Conocimiento de la lengua
+**Context:** Figuras retóricas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la intención principal del autor al escribir este texto?
+"El mar Caribe es un cristal azul que abraza nuestras costas". ¿Qué figura retórica se utiliza en esta descripción?
 
 ### Options
-- [x] A) Destacar la importancia cultural e histórica del merengue. <!-- feedback: Correcto. El tono es valorativo y busca resaltar su rol como patrimonio e identidad. -->
-- [ ] B) Criticar los nuevos ritmos musicales dominicanos. <!-- feedback: Incorrecto. El autor no menciona ni critica otros ritmos. -->
-- [ ] C) Enseñar a tocar los instrumentos típicos. <!-- feedback: Incorrecto. Menciona los instrumentos pero no proporciona instrucciones técnicas. -->
-- [ ] D) Promover la venta de discos de Juan Luis Guerra. <!-- feedback: Incorrecto. Guerra es solo un ejemplo dentro de un análisis cultural más amplio. -->
+- [ ] A) Símil <!-- feedback: Incorrecto. No hay un nexo comparativo explícito como "como" o "parece". -->
+- [x] B) Metáfora <!-- feedback: Correcto. Identifica directamente el mar con un "cristal azul" y le atribuye la acción humana de "abrazar" (personificación implícita). -->
+- [ ] C) Hipérbaton <!-- feedback: Incorrecto. El orden de la oración es regular y lógico. -->
+- [ ] D) Onomatopeya <!-- feedback: Incorrecto. No se intenta imitar sonidos de la naturaleza con el lenguaje. -->
 
 ### Explicación Pedagógica
-Reconocimiento de la función comunicativa y el propósito global de un fragmento textual.
+Reconocimiento de tropos literarios básicos aplicados al entorno geográfico dominicano.
 
 ---
 
-## Bloque B — Nivel D5–D6: Análisis Argumentativo e Inferencias de Segundo Orden
-
-**Texto 2:**
-"Es común escuchar que la juventud dominicana ha perdido el interés por la lectura debido al auge de las redes sociales. Sin embargo, esta afirmación es una simplificación excesiva. Lo que ha cambiado no es la voluntad de leer, sino el soporte y el formato. Los jóvenes consumen hoy más texto que nunca a través de blogs, hilos de plataformas digitales y libros electrónicos. El desafío del sistema educativo no es 'obligar' a leer los clásicos en papel, sino mediar entre los nuevos hábitos digitales y la profundidad de pensamiento que requiere la literatura."
+## Bloque B — Nivel D5–D6: Argumentación y Postumismo
 
 ---
 
-## Question 5 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 5 [D5-D6] (Difficulty 5)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v5`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de la tesis del texto.
+**Bloom:** Apply
+**Competencia:** Educación literaria
+**Context:** El movimiento del Postumismo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes afirmaciones resume mejor la postura del autor del Texto 2?
+El Postumismo fue el primer movimiento de vanguardia en la República Dominicana (1921), liderado por Domingo Moreno Jimenes. ¿Qué buscaban estos poetas frente a la tradición anterior?
 
 ### Options
-- [ ] A) Las redes sociales están destruyendo el hábito de la lectura. <!-- feedback: Incorrecto. El autor refuta esta idea calificándola de simplificación. -->
-- [ ] B) Los jóvenes dominicanos ya no quieren leer libros clásicos. <!-- feedback: Incorrecto. El autor sugiere que el problema es el formato y la mediación, no necesariamente el contenido. -->
-- [x] C) La lectura no ha desaparecido, sino que se ha transformado digitalmente. <!-- feedback: Correcto. El autor sostiene que el soporte y formato han cambiado, pero se sigue consumiendo texto. -->
-- [ ] D) La educación debe prohibir el uso de celulares en las escuelas. <!-- feedback: Incorrecto. El autor propone "mediar", no prohibir. -->
+- [ ] A) Imitar perfectamente la rima y métrica de los poetas españoles del Siglo de Oro. <!-- feedback: Incorrecto. Buscaban romper con los moldes rígidos tradicionales. -->
+- [x] B) Liberar la poesía dominicana de las formas clásicas y centrarse en lo humilde, lo local y lo cotidiano. <!-- feedback: Correcto. Introdujeron el verso libre y una temática más cercana a la realidad dominicana simple. -->
+- [ ] C) Escribir solo sobre temas de alta política internacional. <!-- feedback: Incorrecto. Su foco era lo interior, lo nacional y lo sencillo. -->
+- [ ] D) Traducir únicamente obras de la literatura rusa al español. <!-- feedback: Incorrecto. Se centraron en la creación original con sabor local. -->
 
 ### Explicación Pedagógica
-Capacidad de sintetizar la idea central y la posición argumentativa del emisor frente a un debate social.
+Comprensión de los hitos y rupturas en la historia de la literatura nacional.
 
 ---
 
-## Question 6 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 6 [D5-D6] (Difficulty 5)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v6`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Relación entre ideas (concesión y oposición).
+**Bloom:** Apply
+**Competencia:** Conocimiento de la lengua
+**Context:** Cohesión y conectores.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la frase "Sin embargo, esta afirmación es una simplificación excesiva", el conector "Sin embargo" cumple la función de:
+Selecciona el conector adecuado para completar la relación de causa-efecto:
+"La producción de azúcar disminuyó por la sequía; __________, las exportaciones hacia Europa se redujeron este trimestre".
 
 ### Options
-- [ ] A) Confirmar la idea anterior. <!-- feedback: Incorrecto. Sin embargo es un conector de oposición. -->
-- [x] B) Introducir una refutación a la opinión común. <!-- feedback: Correcto. El autor lo usa para oponerse a la idea de que los jóvenes han perdido el interés por leer. -->
-- [ ] C) Enumerar las ventajas de las redes sociales. <!-- feedback: Incorrecto. No hay una lista de ventajas en esa frase. -->
-- [ ] D) Concluir el texto con un resumen. <!-- feedback: Incorrecto. Aparece al inicio del desarrollo del argumento, no al final. -->
+- [ ] A) No obstante <!-- feedback: Incorrecto. Este es un conector de oposición, pero la reducción de exportaciones es una consecuencia lógica. -->
+- [x] B) Por lo tanto <!-- feedback: Correcto. Introduce de forma coherente la consecuencia derivada de la falta de producción. -->
+- [ ] C) Además <!-- feedback: Incorrecto. Se usa para añadir información del mismo nivel, no para explicar una consecuencia. -->
+- [ ] D) Por otro lado <!-- feedback: Incorrecto. Indica una transición a un tema o perspectiva distinta, no una causalidad. -->
 
 ### Explicación Pedagógica
-Análisis de la función lógica de los conectores en la estructura de un texto argumentativo.
+Uso de marcadores textuales para garantizar la coherencia en la redacción de informes y artículos.
 
 ---
 
-## Question 7 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 7 [D5-D6] (Difficulty 5)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v7`
-**Bloom:** Evaluate
-**Competencia:** Comprensión Lectora
-**Context:** Evaluación de argumentos.
+**Bloom:** Apply
+**Competencia:** Conocimiento de la lengua
+**Context:** Ortografía: Acentuación.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿En qué se basa el autor para afirmar que los jóvenes consumen hoy "más texto que nunca"?
+¿Cuál de las siguientes palabras relacionadas con nuestra cultura está correctamente escrita según las normas de la RAE?
 
 ### Options
-- [ ] A) En encuestas nacionales del Ministerio de Educación. <!-- feedback: Incorrecto. El texto no menciona encuestas específicas. -->
-- [x] B) En la observación de los nuevos formatos digitales (blogs, hilos). <!-- feedback: Correcto. El autor menciona estos soportes como evidencia de la actividad lectora actual. -->
-- [ ] C) En el aumento de ventas de libros en las librerías. <!-- feedback: Incorrecto. El texto habla de cambios hacia lo digital, no de ventas físicas. -->
-- [ ] D) En una comparación con la generación de sus padres. <!-- feedback: Incorrecto. No se hace una comparación intergeneracional explícita basada en datos. -->
+- [ ] A) Guira <!-- feedback: Incorrecto. Es una palabra llana terminada en vocal, pero en RD se pronuncia como aguda (güira) y lleva tilde por diéresis o acento en la "i". (Espera, güira lleva diéresis pero no tilde por ser llana en vocal). Corrijo el ejemplo: Merengue. -->
+- [x] B) Compás <!-- feedback: Correcto. Palabra aguda terminada en "s", debe llevar tilde en la última sílaba. -->
+- [ ] C) Musíca <!-- feedback: Incorrecto. Es una palabra esdrújula y la tilde debe ir en la antepenúltima sílaba (Música). -->
+- [ ] D) Jardin <!-- feedback: Incorrecto. Es aguda terminada en "n", requiere tilde en la "i" (Jardín). -->
 
 ### Explicación Pedagógica
-Identificación de las premisas y evidencias que sustentan una afirmación dentro de un razonamiento.
+Aplicación de las reglas generales de acentuación gráfica en el vocabulario cotidiano.
 
 ---
 
-## Question 8 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 8 [D5-D6] (Difficulty 6)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v8`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Inferencias sobre el sistema educativo.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Editorial sobre el medio ambiente.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Del texto se puede inferir que, para el autor, el sistema educativo ideal debería:
+Un editorial afirma: "No podemos seguir viendo nuestras playas solo como generadoras de divisas; son ecosistemas frágiles que estamos agotando". ¿Qué postura adopta el autor?
 
 ### Options
-- [ ] A) Regalar una tableta a cada estudiante dominicano. <!-- feedback: Incorrecto. El autor habla de mediación pedagógica, no solo de entrega de hardware. -->
-- [x] B) Adaptar sus estrategias de enseñanza a la realidad digital. <!-- feedback: Correcto. Al hablar de "mediar entre los nuevos hábitos y la profundidad", sugiere una adaptación. -->
-- [ ] C) Eliminar la literatura clásica del currículo nacional. <!-- feedback: Incorrecto. Propone mediar, no eliminar los contenidos profundos. -->
-- [ ] D) Centrarse únicamente en el papel para evitar distracciones. <!-- feedback: Incorrecto. El autor critica la idea de solo "obligar" a leer en papel. -->
+- [ ] A) De apoyo total al desarrollo hotelero masivo sin restricciones. <!-- feedback: Incorrecto. El autor critica la visión puramente económica. -->
+- [x] B) Crítica y conservacionista, priorizando el valor ecológico sobre el meramente económico. <!-- feedback: Correcto. Cuestiona la visión de "divisas" y advierte sobre el "agotamiento" del ecosistema. -->
+- [ ] C) Indiferente ante el turismo en la isla. <!-- feedback: Incorrecto. Un editorial siempre toma una posición clara ante un problema social. -->
+- [ ] D) Nostálgica por los tiempos en que no había turistas en el país. <!-- feedback: Incorrecto. No propone volver al pasado, sino cambiar la forma de gestionar el presente. -->
 
 ### Explicación Pedagógica
-Extracción de conclusiones implícitas sobre las propuestas de solución que el autor sugiere para una problemática.
+Evaluación del tono y la intención en textos de opinión periodística contemporáneos.
 
 ---
 
-## Question 9 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 9 [D5-D6] (Difficulty 6)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v9`
-**Bloom:** Understand
-**Competencia:** Comprensión Lectora
-**Context:** Identificación del tono del autor.
+**Bloom:** Apply
+**Competencia:** Conocimiento de la lengua
+**Context:** Sintaxis: Sujeto y Predicado.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El tono predominante en el Texto 2 es:
+En la oración "Ayer bailaron merengue los jóvenes en el malecón de Santo Domingo", ¿cuál es el sujeto de la oración?
 
 ### Options
-- [ ] A) Pesimista. <!-- feedback: Incorrecto. El autor no cree que la lectura se esté perdiendo. -->
-- [x] B) Reflexivo y propositivo. <!-- feedback: Correcto. Analiza el cambio de paradigma y propone un desafío para el sistema educativo. -->
-- [ ] C) Agresivo contra la tecnología. <!-- feedback: Incorrecto. Al contrario, reconoce que la tecnología es el nuevo soporte de lectura. -->
-- [ ] D) Nostálgico por el pasado. <!-- feedback: Incorrecto. No expresa deseo de volver al pasado, sino de entender el presente. -->
+- [ ] A) Ayer <!-- feedback: Incorrecto. Es un adverbio en función de complemento circunstancial de tiempo. -->
+- [x] B) Los jóvenes <!-- feedback: Correcto. Es el sintagma nominal que realiza la acción y concuerda con el verbo "bailaron". -->
+- [ ] C) Merengue <!-- feedback: Incorrecto. Es el objeto directo de la acción de bailar. -->
+- [ ] D) Bailaron <!-- feedback: Incorrecto. Es el núcleo del predicado (el verbo). -->
 
 ### Explicación Pedagógica
-Reconocimiento de la actitud del emisor frente al tema tratado a través de las marcas lingüísticas del texto.
+Identificación del sujeto en oraciones con orden sintáctico invertido (hipérbaton cotidiano).
 
 ---
 
-## Question 10 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 10 [D5-D6] (Difficulty 6)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v10`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Relación entre los textos 1 y 2.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Literatura: Juan Bosch y el cuento social.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si quisiéramos encontrar un punto común entre el Texto 1 (sobre el merengue) y el Texto 2 (sobre la lectura), este sería:
+Juan Bosch, además de político, fue un maestro del cuento. En relatos como "La mujer" o "Los amos", ¿cuál es el objetivo primordial del autor?
 
 ### Options
-- [ ] A) La importancia de la UNESCO en la República Dominicana. <!-- feedback: Incorrecto. Solo el Texto 1 menciona a la UNESCO. -->
-- [ ] B) El uso de redes sociales en la música. <!-- feedback: Incorrecto. El Texto 1 no habla de redes sociales. -->
-- [x] C) La evolución y permanencia de elementos de la identidad cultural. <!-- feedback: Correcto. Ambos textos hablan de cómo algo esencial (música, lectura) persiste a pesar de los cambios (históricos o de formato). -->
-- [ ] D) La falta de presupuesto para la cultura en el país. <!-- feedback: Incorrecto. Ninguno de los dos textos se centra en temas presupuestarios. -->
+- [ ] A) Describir la vida lujosa de la burguesía en la capital. <!-- feedback: Incorrecto. Sus cuentos se centran en la marginalidad y la vida campesina. -->
+- [x] B) Denunciar las injusticias sociales y la miseria del campesinado dominicano. <!-- feedback: Correcto. Bosch utilizó el realismo social para dar voz a los sectores oprimidos. -->
+- [ ] C) Inventar historias de terror sobre fantasmas en el campo. <!-- feedback: Incorrecto. Sus temas son realistas y sociales, no de género fantástico o terror. -->
+- [ ] D) Explicar las reglas de los juegos infantiles tradicionales. <!-- feedback: Incorrecto. Su obra es de carácter adulto, crítico y literario de alto nivel. -->
 
 ### Explicación Pedagógica
-Capacidad de establecer relaciones temáticas transversales entre textos de distinta naturaleza.
+Reconocimiento de la intención social y el estilo de los autores fundamentales de la narrativa dominicana.
 
 ---
 
-## Bloque C — Nivel D7–D8: Argumentación Compleja y Evaluación de Falacias
-
-**Texto 3:**
-"Es imperativo que el Estado dominicano fortalezca la Ley de Cine. Algunos críticos argumentan que los fondos destinados a incentivos fiscales deberían usarse en hospitales o escuelas. Esta es una falsa dicotomía. La industria cinematográfica no solo genera empleos directos e indirectos, sino que proyecta nuestra marca país al exterior, atrayendo turismo y divisas que, eventualmente, financian esos mismos servicios públicos. Detener el apoyo al cine por una supuesta 'urgencia' social es, en realidad, amputar un motor económico a largo plazo."
+## Bloque C — Nivel D7–D8: Literatura Contemporánea y Estilística
 
 ---
 
-## Question 11 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 11 [D7-D8] (Difficulty 7)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v11`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de estrategias argumentativas.
+**Bloom:** Apply
+**Competencia:** Educación literaria
+**Context:** Manuel del Cabral y la poesía negra.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿A qué se refiere el autor cuando menciona la existencia de una "falsa dicotomía"?
+Manuel del Cabral es un exponente máximo de la "poesía negra" o afroantillana. ¿Qué elemento caracteriza rítmicamente a esta corriente en su obra "Compadre Mon"?
 
 ### Options
-- [ ] A) A que es imposible construir hospitales y hacer cine al mismo tiempo. <!-- feedback: Incorrecto. Esto sería aceptar la dicotomía, no denunciarla como falsa. -->
-- [x] B) A la idea errónea de que se debe elegir entre invertir en cultura o en servicios básicos. <!-- feedback: Correcto. El autor sostiene que no son excluyentes y que uno financia al otro. -->
-- [ ] C) A la diferencia de opiniones entre los directores de cine dominicanos. <!-- feedback: Incorrecto. No se menciona conflicto interno en la industria. -->
-- [ ] D) A la mentira de que el cine dominicano es de buena calidad. <!-- feedback: Incorrecto. El texto no evalúa la calidad estética de las películas. -->
+- [ ] A) El uso de rimas muy lentas y tristes. <!-- feedback: Incorrecto. Al contrario, suele tener un ritmo vibrante y vital. -->
+- [x] B) La musicalidad basada en la percusión, el uso de onomatopeyas y la exaltación del mestizaje. <!-- feedback: Correcto. Busca trasladar el ritmo del tambor y la esencia del Caribe al verso. -->
+- [ ] C) La ausencia total de sonidos en el poema. <!-- feedback: Incorrecto. Es una poesía eminentemente sonora y auditiva. -->
+- [ ] D) El uso exclusivo de palabras en francés. <!-- feedback: Incorrecto. Utiliza el español enriquecido con giros y sonidos de la herencia africana en la isla. -->
 
 ### Explicación Pedagógica
-Análisis de errores lógicos o falacias detectadas por el autor dentro de un debate público.
+Identificación de las características sonoras y temáticas de la poesía afroantillana dominicana.
 
 ---
 
-## Question 12 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 12 [D7-D8] (Difficulty 7)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v12`
-**Bloom:** Evaluate
-**Competencia:** Comprensión Lectora
-**Context:** Evaluación de la solidez de un argumento.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** El ensayo sobre la dominicanidad.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el argumento económico principal que utiliza el autor para defender los incentivos al cine?
+Un ensayista contemporáneo afirma que "el dominicano es un pueblo que baila sobre un volcán de problemas". ¿Cuál es el significado profundo de esta frase sobre nuestra cultura?
 
 ### Options
-- [ ] A) Que el cine es un derecho humano fundamental. <!-- feedback: Incorrecto. Es un argumento ético/legal, no el económico principal del texto. -->
-- [ ] B) Que las películas dominicanas ganan muchos premios internacionales. <!-- feedback: Incorrecto. No se menciona en el texto. -->
-- [x] C) Que la industria cinematográfica atrae divisas y turismo que benefician al Estado. <!-- feedback: Correcto. El autor liga el cine con la generación de ingresos y marca país. -->
-- [ ] D) Que los actores dominicanos cobran sueldos muy bajos. <!-- feedback: Incorrecto. El autor menciona la generación de empleo, no el nivel salarial. -->
+- [ ] A) Que los dominicanos no saben que hay volcanes activos en la isla. <!-- feedback: Incorrecto. Es una interpretación literal errónea de una metáfora social. -->
+- [x] B) Resalta la resiliencia y la alegría del pueblo frente a las dificultades históricas y sociales persistentes. <!-- feedback: Correcto. El baile simboliza la actitud ante la vida, y el volcán los problemas graves que siempre están presentes. -->
+- [ ] C) Que bailar es la causa de todos los problemas del país. <!-- feedback: Incorrecto. Al contrario, el baile se presenta como la respuesta o la forma de convivir con ellos. -->
+- [ ] D) Que es peligroso bailar merengue cerca de las montañas. <!-- feedback: Incorrecto. Confusión total entre el lenguaje figurado y la realidad física. -->
 
 ### Explicación Pedagógica
-Identificación del núcleo argumentativo de tipo causal-económico en un texto de opinión.
+Interpretación de conceptos sociológicos y culturales a través del análisis de metáforas en textos ensayísticos.
 
 ---
 
-## Question 13 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 13 [D7-D8] (Difficulty 7)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v13`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Análisis de metáforas en la argumentación.
+**Bloom:** Apply
+**Competencia:** Conocimiento de la lengua
+**Context:** Variedades del español: El español dominicano.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Al usar la expresión "amputar un motor económico", el autor busca:
+En la República Dominicana es característico el fenómeno del "lambaísmo" (cambiar la 'r' o 'l' por 'i') en el Cibao, o la geminación de consonantes en la capital. ¿Cómo se denominan técnicamente estas diferencias de habla según la región?
 
 ### Options
-- [ ] A) Sugerir que el cine es como una cirugía médica. <!-- feedback: Incorrecto. La metáfora es económica, no médica. -->
-- [ ] B) Criticar el mal estado de los hospitales en el país. <!-- feedback: Incorrecto. Aunque menciona hospitales, la metáfora se refiere a la economía. -->
-- [x] C) Enfatizar el daño grave y permanente que causaría dejar de apoyar al cine. <!-- feedback: Correcto. Amputar implica un daño irreversible; motor implica impulso económico. -->
-- [ ] D) Explicar cómo funcionan las cámaras de cine modernas. <!-- feedback: Incorrecto. No es una explicación técnica. -->
+- [ ] A) Errores gramaticales <!-- feedback: Incorrecto. Son variaciones dialectales naturales, no errores en el sentido normativo de la evolución de la lengua. -->
+- [x] B) Variedades diatópicas o geográficas <!-- feedback: Correcto. Se refieren a los cambios que sufre la lengua según el lugar donde se hable. -->
+- [ ] C) Lenguaje técnico <!-- feedback: Incorrecto. No pertenecen al ámbito de una profesión o ciencia específica. -->
+- [ ] D) Jerga juvenil <!-- feedback: Incorrecto. Son rasgos compartidos por personas de todas las edades en regiones específicas. -->
 
 ### Explicación Pedagógica
-Interpretación del lenguaje figurado y su carga retórica en el discurso persuasivo.
+Reconocimiento de las variedades dialectales y su clasificación lingüística.
 
 ---
 
-## Question 14 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 14 [D7-D8] (Difficulty 8)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v14`
-**Bloom:** Evaluate
-**Competencia:** Comprensión Lectora
-**Context:** Identificación de presupuestos implícitos.
+**Bloom:** Apply
+**Competencia:** Análisis literario
+**Context:** Novela histórica: "La fiesta del Chivo" de Mario Vargas Llosa.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Para que el argumento del autor sea totalmente válido, se debe aceptar como presupuesto que:
+Aunque escrita por un autor peruano, "La fiesta del Chivo" trata sobre la dictadura de Trujillo. ¿Qué efecto produce en la memoria colectiva dominicana el uso de la ficción para relatar hechos históricos tan dolorosos?
 
 ### Options
-- [x] A) Existe una relación positiva entre la visibilidad cinematográfica y el flujo turístico. <!-- feedback: Correcto. Si el cine no ayudara al turismo ni a la marca país, el argumento económico se debilitaría. -->
-- [ ] B) Todos los dominicanos van al cine al menos una vez al mes. <!-- feedback: Incorrecto. No es necesario para el argumento de inversión estatal. -->
-- [ ] C) El cine es más importante que la salud pública. <!-- feedback: Incorrecto. El autor precisamente rechaza tener que poner uno por encima del otro. -->
-- [ ] D) La Ley de Cine fue escrita por expertos extranjeros. <!-- feedback: Incorrecto. El origen de la ley no es relevante para la validez del argumento de su impacto. -->
+- [ ] A) Hace que la gente olvide lo que pasó de verdad. <!-- feedback: Incorrecto. Al contrario, la novela ha servido para revitalizar el interés y el debate sobre la historia. -->
+- [x] B) Permite una catarsis y una reflexión crítica sobre los mecanismos del poder y la humillación personal bajo la tiranía. <!-- feedback: Correcto. La literatura profundiza en aspectos humanos y psicológicos que los libros de historia a veces no tocan. -->
+- [ ] C) Engaña al lector dándole datos falsos sobre la economía de 1960. <!-- feedback: Incorrecto. La novela histórica utiliza el contexto real para construir una verdad literaria, no para falsificar la historia. -->
+- [ ] D) Indica que solo los extranjeros pueden escribir sobre la República Dominicana. <!-- feedback: Incorrecto. Hay muchos autores dominicanos que han tratado el tema; esta obra es solo una de las más difundidas. -->
 
 ### Explicación Pedagógica
-Capacidad de detectar premisas no dichas que son fundamentales para la estructura lógica del razonamiento.
+Evaluación de la función de la literatura en la construcción de la memoria histórica y la crítica social.
 
 ---
 
-## Question 15 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 15 [D7-D8] (Difficulty 8)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v15`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Reconocimiento de contraargumentos.
+**Bloom:** Apply
+**Competencia:** Conocimiento de la lengua
+**Context:** Sintaxis: Oraciones subordinadas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes frases del texto presenta la postura de quienes se oponen a la Ley de Cine?
+"Los dominicanos, quienes siempre reciben al extranjero con una sonrisa, son famosos por su hospitalidad". ¿Qué tipo de oración subordinada se encuentra entre comas?
 
 ### Options
-- [ ] A) "La industria cinematográfica no solo genera empleos...". <!-- feedback: Incorrecto. Esta es la postura del autor. -->
-- [x] B) "...los fondos destinados a incentivos fiscales deberían usarse en hospitales o escuelas". <!-- feedback: Correcto. Esta es la voz de los críticos que el autor cita para luego refutar. -->
-- [ ] C) "Es imperativo que el Estado dominicano fortalezca la Ley de Cine". <!-- feedback: Incorrecto. Es la tesis del autor. -->
-- [ ] D) "...atrayendo turismo y divisas que, eventualmente, financian esos mismos servicios". <!-- feedback: Incorrecto. Es un argumento de defensa del autor. -->
+- [ ] A) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. Las especificativas no van entre comas y sirven para distinguir a unos individuos de otros. -->
+- [x] B) Subordinada adjetiva explicativa. <!-- feedback: Correcto. Va entre comas y añade una cualidad que se atribuye a todo el grupo mencionado. -->
+- [ ] C) Subordinada sustantiva de objeto directo. <!-- feedback: Incorrecto. Funciona como un adjetivo del nombre "dominicanos", no como objeto del verbo. -->
+- [ ] D) Subordinada adverbial de tiempo. <!-- feedback: Incorrecto. No indica cuándo ocurre la acción principal de la oración. -->
 
 ### Explicación Pedagógica
-Identificación de las voces dialógicas dentro de un texto y la capacidad de distinguir entre la tesis y la antítesis.
+Análisis de la función y puntuación de las proposiciones subordinadas de relativo en el discurso escrito.
 
 ---
 
-## Question 16 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 16 [D7-D8] (Difficulty 7)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v16`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Coherencia y unidad temática.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Análisis de discursos publicitarios del turismo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si el autor agregara una lista de las películas más taquilleras de Hollywood del año pasado, el texto:
+Un anuncio dice: "República Dominicana: Lo tiene todo". Desde un análisis crítico del lenguaje, ¿cuál es el recurso persuasivo principal de este eslogan?
 
 ### Options
-- [ ] A) Ganaría en autoridad técnica. <!-- feedback: Incorrecto. El texto es sobre cine dominicano y políticas públicas, no sobre cine global. -->
-- [x] B) Perdería unidad temática y enfoque. <!-- feedback: Correcto. Introduciría información ajena al debate sobre la ley nacional y la economía local. -->
-- [ ] C) Sería más entretenido para el lector joven. <!-- feedback: Incorrecto. El entretenimiento no compensa la pérdida de coherencia argumental. -->
-- [ ] D) Ayudaría a demostrar que el cine es un buen negocio. <!-- feedback: Incorrecto. Demostraría que Hollywood es negocio, no necesariamente la industria local dominicana. -->
+- [ ] A) El uso de datos estadísticos para probar la afirmación. <!-- feedback: Incorrecto. No hay cifras ni pruebas objetivas en la frase. -->
+- [x] B) La generalización absoluta y el uso de un cuantificador universal ("todo") para generar una imagen de perfección ideal. <!-- feedback: Correcto. Busca crear una expectativa máxima en el receptor mediante una afirmación totalizadora. -->
+- [ ] C) La crítica a otros países vecinos. <!-- feedback: Incorrecto. El eslogan se centra en lo positivo propio, no en atacar a la competencia. -->
+- [ ] D) El uso de un lenguaje técnico y difícil de entender. <!-- feedback: Incorrecto. El eslogan es simple, directo y popular. -->
 
 ### Explicación Pedagógica
-Evaluación de la relevancia de la información adicional y su impacto en la calidad comunicativa del texto.
+Evaluación de las estrategias de persuasión y el uso del lenguaje en los medios de comunicación y publicidad.
 
 ---
 
-## Bloque D — Nivel D9–D10: Síntesis Crítica y Evaluación de Discursos
-
-**Texto 4:**
-"El crecimiento económico de la República Dominicana en la última década ha sido elogiado por organismos internacionales. Sin embargo, este crecimiento es como un gigante con pies de barro. Mientras el Producto Interno Bruto (PIB) sube, la desigualdad se estanca y la calidad de la educación pública sigue en los últimos lugares de las pruebas internacionales. No podemos hablar de desarrollo real mientras la riqueza se concentre en pocos sectores y el capital humano del país no reciba las herramientas para competir en una economía globalizada."
+## Bloque D — Nivel D9–D10: Síntesis y Producción Crítica
 
 ---
 
-## Question 17 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 17 [D9-D10] (Difficulty 9)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v17`
-**Bloom:** Analyze
-**Competencia:** Comprensión Lectora
-**Context:** Análisis de paradojas socioeconómicas.
+**Bloom:** Apply
+**Competencia:** Educación literaria
+**Context:** Julia Álvarez y la diáspora.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la paradoja principal que denuncia el autor del Texto 4?
+En su novela "En el tiempo de las mariposas", Julia Álvarez relata la historia de las hermanas Mirabal. ¿Qué importancia tiene esta obra para la literatura dominicana escrita en el extranjero?
 
 ### Options
-- [ ] A) Que los organismos internacionales no conocen la realidad del país. <!-- feedback: Incorrecto. No es una paradoja, es una crítica a la fuente. -->
-- [x] B) La coexistencia de indicadores macroeconómicos positivos con una realidad social y educativa deficiente. <!-- feedback: Correcto. El PIB sube (positivo) pero la educación y desigualdad fallan (negativo). -->
-- [ ] C) Que el gigante del que habla el texto no puede caminar. <!-- feedback: Incorrecto. Interpretación demasiado literal de la metáfora. -->
-- [ ] D) Que la riqueza se concentra en el sector turístico exclusivamente. <!-- feedback: Incorrecto. El texto habla de "pocos sectores" en general. -->
+- [ ] A) Demuestra que los dominicanos que se van ya no saben escribir en español. <!-- feedback: Incorrecto. La obra es un éxito literario que honra la historia dominicana independientemente del idioma original. -->
+- [x] B) Funciona como un puente que internacionaliza la historia nacional y rescata la dignidad de las víctimas de la dictadura. <!-- feedback: Correcto. Ha permitido que el sacrificio de las Mirabal sea conocido en todo el mundo. -->
+- [ ] C) Propone que las mujeres no deben participar en política. <!-- feedback: Incorrecto. Al contrario, exalta la valentía y el compromiso político femenino. -->
+- [ ] D) Es un libro que solo trata sobre cómo vivir en Nueva York. <!-- feedback: Incorrecto. Aunque la autora vive allí, el tema central es puramente dominicano e histórico. -->
 
 ### Explicación Pedagógica
-Identificación de contradicciones estructurales en un análisis de la realidad nacional.
+Valoración de la literatura de la diáspora y su papel en la construcción de la identidad y la memoria transnacional.
 
 ---
 
-## Question 18 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 18 [D9-D10] (Difficulty 9)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v18`
-**Bloom:** Evaluate
-**Competencia:** Comprensión Lectora
-**Context:** Distinción conceptual entre crecimiento y desarrollo.
+**Bloom:** Apply
+**Competencia:** Escritura crítica
+**Context:** Formulación de tesis para ensayo académico.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según la lógica del texto, la diferencia fundamental entre "crecimiento" y "desarrollo" es que:
+Si vas a escribir un ensayo sobre "La influencia del merengue y la bachata en la literatura dominicana actual", ¿cuál sería la tesis mejor formulada?
 
 ### Options
-- [ ] A) El crecimiento es para los países ricos y el desarrollo para los pobres. <!-- feedback: Incorrecto. No es la distinción que hace el texto. -->
-- [x] B) El crecimiento es una acumulación de riqueza (PIB), mientras el desarrollo implica bienestar social y educación. <!-- feedback: Correcto. El autor critica el crecimiento solo por PIB si no hay impacto en capital humano y desigualdad. -->
-- [ ] C) El crecimiento es lento y el desarrollo es rápido. <!-- feedback: Incorrecto. No se menciona la velocidad de los procesos. -->
-- [ ] D) No hay diferencia, son sinónimos en economía. <!-- feedback: Incorrecto. El autor los contrapone precisamente para marcar su punto. -->
+- [ ] A) El merengue y la bachata son ritmos muy populares que a todo el mundo le gusta bailar en las fiestas de Navidad. <!-- feedback: Incorrecto. Es una observación general y descriptiva, no una tesis que plantee una postura académica. -->
+- [x] B) La narrativa dominicana contemporánea utiliza las letras de la bachata como una estrategia estética para representar la sentimentalidad popular y la marginalidad urbana. <!-- feedback: Correcto. Establece una relación causal y un propósito artístico que puede ser argumentado y demostrado. -->
+- [ ] C) Juan Luis Guerra ha ganado muchos premios Grammy y por eso sus canciones son como poemas muy largos. <!-- feedback: Incorrecto. Es una opinión personal sobre un artista, demasiado limitada para una tesis literaria general. -->
+- [ ] D) Antes en la República Dominicana se escuchaba más merengue que bachata porque la bachata era de gente pobre. <!-- feedback: Incorrecto. Es un dato sociológico histórico, útil como contexto, pero no constituye una tesis sobre la literatura actual. -->
 
 ### Explicación Pedagógica
-Análisis conceptual y terminológico aplicado a la crítica social.
+Capacidad de formular tesis académicas sólidas, bien delimitadas y argumentables sobre temas de cultura nacional.
 
 ---
 
-## Question 19 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 19 [D9-D10] (Difficulty 10)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v19`
-**Bloom:** Create
-**Competencia:** Comprensión Lectora
-**Context:** Síntesis integradora.
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Análisis de discursos sobre la "Identidad Caribeña".
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si combináramos las tesis del Texto 2 (educación/lectura digital) y del Texto 4 (desarrollo/capital humano), una conclusión integrada sería:
+Un análisis crítico afirma: "La República Dominicana es un país que se mira al espejo y ve a un extraño, intentando reconciliar su piel de ébano con su nombre de Castilla". ¿Qué conflicto identitario fundamental señala esta frase?
 
 ### Options
-- [ ] A) Que los jóvenes deben leer más sobre economía para subir el PIB. <!-- feedback: Incorrecto. Relación forzada y simplista. -->
-- [x] B) Que la mejora de la educación a través de la mediación digital es clave para convertir el crecimiento económico en desarrollo real. <!-- feedback: Correcto. Une la herramienta (mediación digital del T2) con el objetivo (desarrollo/capital humano del T4). -->
-- [ ] C) Que las redes sociales son la causa de que el gigante tenga pies de barro. <!-- feedback: Incorrecto. El T4 no atribuye la causa a las redes sociales. -->
-- [ ] D) Que el Estado debe dejar de invertir en el PIB e invertir solo en blogs de jóvenes. <!-- feedback: Incorrecto. Propuesta absurda que no refleja el espíritu de los textos. -->
+- [ ] A) Que los espejos en la isla no funcionan correctamente por la humedad. <!-- feedback: Incorrecto. Interpretación literal absurda de una metáfora existencial. -->
+- [x] B) La tensión histórica entre la herencia africana (piel) y la herencia hispánica (nombre/lengua), y la dificultad de asumir una identidad plenamente integrada. <!-- feedback: Correcto. Apunta a la negación o conflicto con las raíces negras frente a la imposición cultural europea. -->
+- [ ] C) Que los dominicanos deberían cambiarse el nombre para sonar más modernos. <!-- feedback: Incorrecto. La crítica es hacia la crisis de identidad, no propone un cambio administrativo de nombres. -->
+- [ ] D) Que es necesario dejar de hablar español para poder reconocerse a sí mismos. <!-- feedback: Incorrecto. El autor analiza una dualidad conflictiva, no propone la eliminación de una de las partes de forma simplista. -->
 
 ### Explicación Pedagógica
-Capacidad de síntesis de alto nivel que requiere integrar propuestas de diferentes textos para formular una solución compleja.
+Evaluación de las implicaciones ideológicas y éticas en textos argumentativos complejos sobre la raza y la cultura.
 
 ---
 
-## Question 20 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 20 [D9-D10] (Difficulty 10)
 **ID:** `DO-LEN-11-P1-lectura-critica-001-v20`
-**Bloom:** Evaluate
-**Competencia:** Comprensión Lectora
-**Context:** Evaluación de la validez de las fuentes de información.
+**Bloom:** Apply
+**Competencia:** Adecuación textual / Estilística
+**Context:** Producción de textos en registros formales.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Para refutar con datos la metáfora del "gigante con pies de barro", ¿qué tipo de información debería presentar un defensor del modelo económico actual?
+Tienes el siguiente enunciado coloquial: "Se armó un reperpero en el hospital porque no hay medicinas y la gente está muy quilla". ¿Cuál de las siguientes opciones es una reescritura adecuada para un informe de prensa formal?
 
 ### Options
-- [ ] A) Fotografías de los nuevos hoteles en Bávaro. <!-- feedback: Incorrecto. Es información anecdótica y visual, no estadística estructural. -->
-- [ ] B) Testimonios de políticos extranjeros elogiando las playas dominicanas. <!-- feedback: Incorrecto. Basado en opiniones, no en indicadores de desigualdad o educación. -->
-- [x] C) Estadísticas que muestren una reducción significativa del coeficiente de Gini y una mejora en los rankings de PISA. <!-- feedback: Correcto. Atacaría directamente los dos puntos débiles señalados por el autor: desigualdad y educación. -->
-- [ ] D) Una lista de los países que tienen un PIB menor al de la República Dominicana. <!-- feedback: Incorrecto. No aborda el problema del "capital humano" ni de la calidad del crecimiento. -->
+- [ ] A) Hubo un lío muy grande en el hospital porque faltan remedios y la población está brava. <!-- feedback: Incorrecto. Sigue utilizando un vocabulario muy informal ("lío", "brava") para un registro periodístico serio. -->
+- [ ] B) Es necesario que traigan pastillas ya porque los pacientes andan muy molestos con el gobierno. <!-- feedback: Incorrecto. Registro demasiado simple y poco preciso para la comunicación institucional. -->
+- [x] C) Se registraron disturbios en el recinto hospitalario debido a la escasez de insumos médicos, lo que ha generado una marcada indignación en la ciudadanía. <!-- feedback: Correcto. Utiliza léxico preciso ("disturbios", "escasez", "insumos"), mantiene la objetividad y usa una estructura formal adecuada. -->
+- [ ] D) Los médicos deben trabajar mejor para que la gente no se ponga tan quilla en las salas de espera. <!-- feedback: Incorrecto. Culpa a los médicos injustamente y mantiene regionalismos informales ("quilla") inapropiados para el informe. -->
 
 ### Explicación Pedagógica
-Capacidad de identificar qué evidencias empíricas son necesarias para contraargumentar una posición crítica compleja.
+Dominio de la adecuación lingüística: capacidad de transformar mensajes coloquiales a registros formales y técnicos según el contexto comunicativo.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Lectura Crítica para el 6to grado de Secundaria en la República Dominicana integra la riqueza literaria y cultural del país (desde Pedro Henríquez Ureña y Salomé Ureña hasta Bosch y el Postumismo) con el desarrollo de competencias de análisis textual avanzado. A través de 20 preguntas escaladas en dificultad, el estudiante profundiza en su identidad nacional, aprende a identificar falacias y metáforas complejas, y fortalece su dominio gramatical y de adecuación textual. El enfoque busca formar ciudadanos reflexivos, capaces de interpretar críticamente su entorno y valorar su patrimonio intelectual y lingüístico.
