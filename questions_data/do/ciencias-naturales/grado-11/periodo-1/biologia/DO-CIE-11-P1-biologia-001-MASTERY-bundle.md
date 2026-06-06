@@ -421,7 +421,7 @@ Análisis de los límites del crecimiento poblacional y el impacto de las intera
 **Context:** Ciclos biogeoquímicos y acidificación oceánica.
 
 ### Enunciado
-El aumento de CO2 en la atmósfera no solo calienta el planeta, sino que también produce la acidificación de los océanos. ¿Cuál es la reacción química y biológica en cadena que más preocupa a los biólogos marinos dominicanos?
+El aumento de CO2 en la atmósfera no solo calienta el planeta, sino que también produce la acidificación de los océanos. ¿Cuál es la reacción químico-biológica en cadena que más preocupa a los biólogos marinos dominicanos?
 
 ### Options
 - [ ] A) CO2 + H2O -> El agua se convierte en alcohol y mata a los peces. <!-- feedback: Incorrecto. No se produce alcohol. -->

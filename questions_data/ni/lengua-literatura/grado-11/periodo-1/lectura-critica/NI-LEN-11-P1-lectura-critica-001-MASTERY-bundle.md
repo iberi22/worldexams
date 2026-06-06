@@ -434,7 +434,7 @@ Capacidad de identificar el núcleo de una refutación que ataca los fundamentos
 **Context:** Síntesis integradora.
 
 ### Enunciado
-Una postura que logre sintetizar armónicamente los Textos 1, 2, 3 y las visiones de A y B sostendría que:
+Una postura que logre sintetizar armónicamente los Textos 1, 2, 3 y las visiones de A con B sostendría que:
 
 ### Options
 - [ ] A) Se debe olvidar a Darío para poder construir el canal sin culpas poéticas. <!-- feedback: Incorrecto. Ignora el valor cultural del T1. -->
