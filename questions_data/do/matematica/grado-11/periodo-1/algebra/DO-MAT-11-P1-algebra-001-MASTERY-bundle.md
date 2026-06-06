@@ -446,7 +446,7 @@ Un rebote de una pelota de baloncesto alcanza el 80% de la altura anterior. Si s
 
 ### Options
 - [ ] A) 50 metros <!-- feedback: Incorrecto. Este es el valor de la serie sumando solo las caídas. -->
-- [ ] B) 80 metros <!-- feedback: Incorrecto. Error en el cálculo de los rebotes (subida y bajada). -->
+- [ ] B) 80 metros <!-- feedback: Incorrecto. Error en el cálculo de los rebotes (subida y de caida -->
 - [x] C) 90 metros <!-- feedback: Correcto. Distancia = h + 2(h*r + h*r^2 + ...) = 10 + 2 * [ (10*0.8) / (1 - 0.8) ] = 10 + 2 * [ 8 / 0.2 ] = 10 + 2*40 = 90. -->
 - [ ] D) 100 metros <!-- feedback: Incorrecto. Sobreestimación de la suma. -->
 
