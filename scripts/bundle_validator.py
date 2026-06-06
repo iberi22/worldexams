@@ -73,15 +73,26 @@ class BundleValidator:
         question_headers = re.findall(r"^##\s+(Question|Pregunta)\s+\d+", content, re.MULTILINE | re.IGNORECASE)
         actual_count = len(question_headers)
 
-        # Mastery bundles MUST have 20 questions, except for Grade 3 which allows 10
+        # Mastery bundles have different sizes based on grade
         grado = str(fm.get("grado", ""))
-        is_grade_3 = grado == "3" or grado == "03"
-        is_mastery = "mastery" in file_path.lower() or fm.get("bundle_size") == 20 or fm.get("total_questions") == 20
+        is_mastery = "mastery" in file_path.lower()
 
-        if is_grade_3:
-            expected_size = fm.get("bundle_size") or fm.get("total_questions") or 10
-        else:
-            expected_size = fm.get("bundle_size") or fm.get("total_questions") or (20 if is_mastery else None)
+        # Mapping grade to expected mastery size based on MASTER_PLAN.md
+        grade_mastery_sizes = {
+            "3": 10, "03": 10,
+            "4": 10,
+            "5": 15,
+            "6": 15,
+            "7": 15,
+            "8": 20,
+            "9": 20,
+            "10": 20,
+            "11": 20
+        }
+
+        expected_size = fm.get("bundle_size") or fm.get("total_questions")
+        if not expected_size and is_mastery:
+            expected_size = grade_mastery_sizes.get(grado, 20)
 
         if expected_size and actual_count != expected_size:
             issues.append(
@@ -99,8 +110,8 @@ class BundleValidator:
         difficulty_counts = {"D3-D4": 0, "D5-D6": 0, "D7-D8": 0, "D9-D10": 0}
 
         for i, (header, block) in enumerate(zip(headers, question_blocks), 1):
-            # 1. Check difficulty marker in header
-            dm_match = re.search(r"\[(D\d+[-–]D\d+)\]", header)
+            # 1. Check difficulty marker in header (accepts [D1] or [D3-D4])
+            dm_match = re.search(r"\[(D\d+(?:[-–]D\d+)?)\]", header)
             if dm_match:
                 dm = dm_match.group(1).replace("–", "-")
                 if dm in difficulty_counts:
