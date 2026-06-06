@@ -8,7 +8,7 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINED + Bachillerato"
+alignment: "MINED Nicaragua + Undécimo Grado"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
@@ -17,438 +17,442 @@ calibration:
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Biología (001)
+# MASTERY Bundle — Ciencias Naturales: Biología (NI-001)
 
-## Bloque A — Nivel D3–D4: Citología y Genética Básica
+## Bloque A — Nivel D3–D4: Citología y Bioquímica Básica
 
 ---
 
-## Question 1 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 1 [D3-D4] (Difficulty 3)
 **ID:** `NI-CIE-11-P1-biologia-001-v1`
-**Bloom:** Remember
-**Competencia:** Conocimiento Científico
-**Context:** Orgánulos celulares.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Biodiversidad en la Reserva Bosawás.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de los siguientes orgánulos celulares es el responsable de la síntesis de proteínas en la célula?
+Durante un estudio biológico en la Reserva de la Biosfera Bosawás, se analizan muestras de agua. Se identifica un organismo unicelular que no posee núcleo ni orgánulos rodeados por membranas. ¿Cómo se clasifica biológicamente a esta célula?
 
 ### Options
-- [ ] A) Mitocondria <!-- feedback: Incorrecto. La mitocondria se encarga de la respiración celular. -->
-- [ ] B) Lisosoma <!-- feedback: Incorrecto. El lisosoma se encarga de la digestión celular. -->
-- [x] C) Ribosoma <!-- feedback: Correcto. Los ribosomas son los sitios donde se ensamblan los aminoácidos para formar proteínas. -->
-- [ ] D) Aparato de Golgi <!-- feedback: Incorrecto. Se encarga de modificar y empaquetar proteínas, no de su síntesis inicial. -->
+- [ ] A) Célula Eucariota <!-- feedback: Incorrecto. Las eucariotas se definen precisamente por poseer un núcleo verdadero y orgánulos membranosos. -->
+- [x] B) Célula Procariota <!-- feedback: Correcto. Las bacterias y arqueas son procariotas, caracterizadas por tener su material genético libre en el citoplasma. -->
+- [ ] C) Virus <!-- feedback: Incorrecto. Los virus no son células; son entidades biológicas acelulares que carecen de metabolismo propio. -->
+- [ ] D) Hongo <!-- feedback: Incorrecto. Los hongos son organismos eucariotas, ya sean unicelulares (levaduras) o pluricelulares. -->
 
 ### Explicación Pedagógica
-Identificación de las funciones básicas de los orgánulos fundamentales de la célula.
+Identificación de los tipos fundamentales de organización celular basándose en la presencia o ausencia de compartimentación nuclear.
 
 ---
 
-## Question 2 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 2 [D3-D4] (Difficulty 3)
 **ID:** `NI-CIE-11-P1-biologia-001-v2`
-**Bloom:** Remember
-**Competencia:** Conocimiento Científico
-**Context:** Reproducción celular.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Componentes de la dieta nacional.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El proceso de división celular que da como resultado dos células hijas con el mismo número de cromosomas que la célula madre se denomina:
+El consumo de leguminosas como el frijol es vital en la dieta nicaragüense. ¿Qué biomolécula orgánica, fundamental para la construcción de tejidos, es abundante en estos alimentos?
 
 ### Options
-- [ ] A) Meiosis <!-- feedback: Incorrecto. La meiosis reduce el número de cromosomas a la mitad. -->
-- [x] B) Mitosis <!-- feedback: Correcto. La mitosis mantiene la dotación cromosómica constante para el crecimiento y reparación. -->
-- [ ] C) Fecundación <!-- feedback: Incorrecto. Es la unión de dos gametos, no una división. -->
-- [ ] D) Citocinesis <!-- feedback: Incorrecto. Es la división del citoplasma, parte final del proceso, pero no el nombre del ciclo completo de división nuclear. -->
+- [ ] A) Lípidos <!-- feedback: Incorrecto. Los lípidos son grasas y aceites que funcionan como reserva energética o aislamiento, no son el componente principal del frijol. -->
+- [x] B) Proteínas <!-- feedback: Correcto. Los frijoles son una excelente fuente de aminoácidos necesarios para la síntesis de proteínas estructurales y enzimáticas. -->
+- [ ] C) Ácidos Nucleicos <!-- feedback: Incorrecto. Aunque están presentes en todas las células, no son el macronutriente principal que se busca en estos alimentos. -->
+- [ ] D) Sales Minerales <!-- feedback: Incorrecto. Las sales son biomoléculas inorgánicas, no orgánicas como se solicita en el enunciado. -->
 
 ### Explicación Pedagógica
-Diferenciación entre los tipos de división celular y su finalidad biológica.
+Comprensión de la función biológica y origen alimenticio de las principales macromoléculas orgánicas.
 
 ---
 
-## Question 3 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 3 [D3-D4] (Difficulty 4)
 **ID:** `NI-CIE-11-P1-biologia-001-v3`
-**Bloom:** Understand
-**Competencia:** Explicación de Fenómenos
-**Context:** Genética mendeliana.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Adaptación de las plantas en el Pacífico.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si cruzamos una planta de flores rojas (RR) con una de flores blancas (rr), y el rojo es dominante, ¿cuál será el fenotipo de la primera generación (F1)?
+En las zonas secas del pacífico nicaragüense, las plantas deben evitar la pérdida excesiva de agua. ¿Qué orgánulo vegetal almacena grandes cantidades de agua y genera la presión necesaria para que la planta se mantenga erguida?
 
 ### Options
-- [ ] A) 50% rojas y 50% blancas <!-- feedback: Incorrecto. Todos los descendientes recibirán un alelo R dominante. -->
-- [x] B) 100% flores rojas <!-- feedback: Correcto. Todos los descendientes son heterocigotos (Rr) y manifiestan el rasgo dominante. -->
-- [ ] C) 100% flores rosadas <!-- feedback: Incorrecto. Esto ocurriría en caso de dominancia incompleta, pero el enunciado indica que el rojo es dominante. -->
-- [ ] D) 75% rojas y 25% blancas <!-- feedback: Incorrecto. Esta proporción corresponde a la segunda generación (F2). -->
+- [ ] A) Cloroplasto <!-- feedback: Incorrecto. Su función es la fotosíntesis, no el almacenamiento de agua para soporte estructural. -->
+- [ ] B) Mitocondria <!-- feedback: Incorrecto. Se encarga de la respiración celular y producción de ATP. -->
+- [x] C) Vacuola Central <!-- feedback: Correcto. En plantas, la vacuola central mantiene la turgencia celular al ejercer presión hidrostática contra la pared celular. -->
+- [ ] D) Aparato de Golgi <!-- feedback: Incorrecto. Su función principal es el empaquetamiento y transporte de proteínas y lípidos. -->
 
 ### Explicación Pedagógica
-Aplicación de la primera ley de Mendel sobre la uniformidad de los híbridos de la primera generación.
+Identificación de las funciones específicas de los orgánulos en la homeostasis y fisiología vegetal.
 
 ---
 
-## Question 4 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 4 [D3-D4] (Difficulty 4)
 **ID:** `NI-CIE-11-P1-biologia-001-v4`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Estructura del ADN.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Funcionamiento de la membrana plasmática.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la unidad básica (monómero) que compone la molécula de ADN?
+La membrana celular es selectivamente permeable. ¿Qué componente de su estructura es responsable de actuar como un "portero", permitiendo el paso de moléculas específicas que no pueden atravesar la capa de grasa?
 
 ### Options
-- [ ] A) Aminoácido <!-- feedback: Incorrecto. Los aminoácidos componen las proteínas. -->
-- [x] B) Nucleótido <!-- feedback: Correcto. Un nucleótido está formado por un azúcar, un grupo fosfato y una base nitrogenada. -->
-- [ ] C) Ácido graso <!-- feedback: Incorrecto. Los ácidos grasos componen los lípidos. -->
-- [ ] D) Monosacárido <!-- feedback: Incorrecto. Los monosacáridos componen los carbohidratos complejos. -->
+- [ ] A) Colesterol <!-- feedback: Incorrecto. El colesterol regula la fluidez de la membrana, pero no transporta moléculas de forma selectiva. -->
+- [x] B) Proteínas de transporte <!-- feedback: Correcto. Las proteínas integrales funcionan como canales o bombas para mover sustancias a través de la membrana. -->
+- [ ] C) Carbohidratos <!-- feedback: Incorrecto. Estos participan en el reconocimiento celular en la cara externa de la membrana. -->
+- [ ] D) Fosfolípidos <!-- feedback: Incorrecto. Los fosfolípidos forman la barrera estructural, pero impiden el paso de muchas sustancias hidrofílicas. -->
 
 ### Explicación Pedagógica
-Identificación de los componentes moleculares fundamentales de los ácidos nucleicos.
+Relación entre la estructura de mosaico fluido de la membrana y sus funciones de transporte y regulación.
 
 ---
 
-## Bloque B — Nivel D5–D6: Metabolismo, Ecosistemas y Homeostasis
+## Bloque B — Nivel D5–D6: Genética y Metabolismo
 
 ---
 
-## Question 5 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 5 [D5-D6] (Difficulty 5)
 **ID:** `NI-CIE-11-P1-biologia-001-v5`
 **Bloom:** Apply
-**Competencia:** Explicación de Fenómenos
-**Context:** Fotosíntesis y respiración.
+**Competencia:** Indagación
+**Context:** Genética Mendeliana aplicada al cacao.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Las plantas realizan fotosíntesis durante el día y respiración celular durante:
+Un productor de cacao en Waslala cruza una planta de semillas oscuras (dominante puro, AA) con una de semillas blancas (recesiva pura, aa). ¿Cómo será el genotipo de los descendientes en la primera generación (F1)?
 
 ### Options
-- [ ] A) Solo la noche. <!-- feedback: Incorrecto. Las plantas necesitan energía constantemente. -->
-- [ ] B) Solo el día. <!-- feedback: Incorrecto. La respiración no se detiene al ponerse el sol. -->
-- [x] C) Todo el día y la noche. <!-- feedback: Correcto. La respiración celular es un proceso continuo para mantener la vida celular. -->
-- [ ] D) Solo cuando hay exceso de agua. <!-- feedback: Incorrecto. La respiración es una función vital básica independiente del exceso de agua. -->
+- [ ] A) 50% AA y 50% aa <!-- feedback: Incorrecto. Este resultado se obtendría de un cruce entre heterocigoto y recesivo. -->
+- [x] B) 100% Aa <!-- feedback: Correcto. Según la Ley de la Uniformidad de Mendel, todos heredan un alelo dominante y uno recesivo, siendo heterocigotos. -->
+- [ ] C) 100% AA <!-- feedback: Incorrecto. Para esto ambos padres deberían ser dominantes puros. -->
+- [ ] D) 75% Aa y 25% aa <!-- feedback: Incorrecto. Esta proporción es característica de la F2 (segunda generación), no de la F1. -->
 
 ### Explicación Pedagógica
-Comprensión de la simultaneidad y continuidad de los procesos metabólicos en organismos autótrofos.
+Aplicación de las leyes fundamentales de la herencia para predecir resultados genotípicos en cruces monohíbridos.
 
 ---
 
-## Question 6 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 6 [D5-D6] (Difficulty 5)
 **ID:** `NI-CIE-11-P1-biologia-001-v6`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Redes tróficas en el Lago Cocibolca.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** El ciclo del carbono y la fotosíntesis.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En el Lago Cocibolca, si una población de peces depredadores desaparece debido a la sobrepesca, ¿qué efecto inmediato se esperaría en la población de peces pequeños que servían de presa?
+Las selvas de Nicaragua actúan como sumideros de carbono. ¿Cuál es el proceso biológico por el cual las plantas capturan el $CO_2$ de la atmósfera para convertirlo en materia orgánica (azúcares)?
 
 ### Options
-- [ ] A) Disminución drástica por tristeza. <!-- feedback: Incorrecto. No es una explicación biológica. -->
-- [x] B) Aumento rápido de la población debido a la falta de depredación. <!-- feedback: Correcto. Al eliminarse el factor de control, la tasa de supervivencia de las presas sube inicialmente. -->
-- [ ] C) Extinción inmediata de las algas del lago. <!-- feedback: Incorrecto. Sería un efecto indirecto y a más largo plazo (cascada trófica). -->
-- [ ] D) Transformación de los peces pequeños en depredadores. <!-- feedback: Incorrecto. Los roles tróficos dependen de adaptaciones evolutivas, no cambian por oportunidad individual. -->
+- [ ] A) Respiración celular <!-- feedback: Incorrecto. La respiración libera $CO_2$ como desecho, no lo captura. -->
+- [x] B) Fotosíntesis <!-- feedback: Correcto. En la etapa oscura (Ciclo de Calvin), las plantas fijan el carbono inorgánico en moléculas orgánicas utilizando energía solar. -->
+- [ ] C) Transpiración <!-- feedback: Incorrecto. Es la pérdida de vapor de agua a través de las hojas, no tiene que ver con la captura de carbono. -->
+- [ ] D) Fermentación <!-- feedback: Incorrecto. Es un proceso catabólico de degradación en ausencia de oxígeno, no de síntesis a partir de gas. -->
 
 ### Explicación Pedagógica
-Predicción de desequilibrios en ecosistemas locales basados en interacciones depredador-presa.
+Comprensión del papel de los organismos productores en el flujo de materia y energía del ecosistema.
 
 ---
 
-## Question 7 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 7 [D5-D6] (Difficulty 5)
 **ID:** `NI-CIE-11-P1-biologia-001-v7`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Homeostasis térmica.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** El Dogma Central de la Biología Molecular.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Cuando un nicaragüense hace ejercicio bajo el sol de Chinandega, su cuerpo suda para bajar la temperatura. Este es un ejemplo de:
+Para que una característica se exprese, la información debe fluir del núcleo al citoplasma. ¿Cómo se llama el proceso de copiar un segmento de ADN en una cadena de ARN mensajero?
 
 ### Options
-- [ ] A) Metabolismo anaeróbico <!-- feedback: Incorrecto. Se refiere a la obtención de energía sin oxígeno. -->
-- [x] B) Mecanismo de retroalimentación negativa para la homeostasis. <!-- feedback: Correcto. El cuerpo responde a un estímulo (calor) con una acción (sudor) que contrarresta el estímulo inicial. -->
-- [ ] C) Evolución por selección natural inmediata. <!-- feedback: Incorrecto. La evolución ocurre en poblaciones a través de generaciones, no en individuos en minutos. -->
-- [ ] D) Fotosíntesis humana inducida por el calor. <!-- feedback: Incorrecto. Los humanos no realizan fotosíntesis. -->
+- [ ] A) Replicación <!-- feedback: Incorrecto. Es el proceso de duplicar el ADN completo antes de la división celular. -->
+- [ ] B) Traducción <!-- feedback: Incorrecto. Es el paso de ARN a secuencia de aminoácidos (proteína). -->
+- [x] C) Transcripción <!-- feedback: Correcto. Ocurre en el núcleo y permite llevar el mensaje genético fuera de él en forma de ARN. -->
+- [ ] D) Mutación <!-- feedback: Incorrecto. Una mutación es un error o cambio en la secuencia original, no el proceso normal de copia. -->
 
 ### Explicación Pedagógica
-Identificación de mecanismos fisiológicos de autorregulación del medio interno.
+Diferenciación de los pasos clave en la expresión de la información genética.
 
 ---
 
-## Question 8 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 8 [D5-D6] (Difficulty 6)
 **ID:** `NI-CIE-11-P1-biologia-001-v8`
 **Bloom:** Apply
-**Competencia:** Explicación de Fenómenos
-**Context:** Ciclo del nitrógeno y agricultura.
+**Competencia:** Explicación de fenómenos
+**Context:** Ciclo celular y regeneración.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un agricultor en Estelí rota sus cultivos de maíz con siembra de frijoles porque sabe que los frijoles "enriquecen el suelo". Biológicamente, esto se debe a que los frijoles:
+Cuando te haces una herida en la piel, las células deben dividirse para cerrar la lesión. ¿En qué fase del ciclo celular ocurre la duplicación del ADN para asegurar que las nuevas células tengan la misma información?
 
 ### Options
-- [ ] A) Absorben el exceso de sal del suelo. <!-- feedback: Incorrecto. No es su función principal de mejora. -->
-- [x] B) Tienen bacterias en sus raíces que fijan el nitrógeno atmosférico en el suelo. <!-- feedback: Correcto. Las leguminosas (como el frijol) viven en simbiosis con bacterias fijadoras de N2. -->
-- [ ] C) Producen oxígeno bajo la tierra. <!-- feedback: Incorrecto. La fotosíntesis ocurre en las partes verdes aéreas. -->
-- [ ] D) Atraen lluvia mediante la transpiración de sus hojas. <!-- feedback: Incorrecto. Aunque influyen en la humedad, el "enriquecimiento del suelo" se refiere a nutrientes. -->
+- [ ] A) Mitosis <!-- feedback: Incorrecto. En la mitosis se reparte el ADN, pero la copia ya se hizo antes. -->
+- [ ] B) Fase G1 <!-- feedback: Incorrecto. Es una fase de crecimiento y funciones metabólicas normales antes de la síntesis. -->
+- [x] C) Fase S <!-- feedback: Correcto. La "S" significa Síntesis, que es cuando el ADN se replica exactamente. -->
+- [ ] D) Citocinesis <!-- feedback: Incorrecto. Es la división final del citoplasma, cuando ya se han formado los dos núcleos. -->
 
 ### Explicación Pedagógica
-Comprensión de las interacciones biológicas y su aplicación en la sostenibilidad agrícola.
+Análisis de las etapas de preparación y ejecución de la división celular somática.
 
 ---
 
-## Question 9 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 9 [D5-D6] (Difficulty 6)
 **ID:** `NI-CIE-11-P1-biologia-001-v9`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Sucesión ecológica.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Enzimas en la industria alimentaria.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Después de una erupción del volcán Masaya, la lava se enfría y queda roca desnuda. Con el tiempo, aparecen líquenes y musgos, seguidos de hierbas y arbustos. Este proceso se llama:
+En la producción de jugos naturales, se usan enzimas para aclarar el líquido. ¿Qué sucede con la velocidad de esta reacción química si se aumenta ligeramente la temperatura sin llegar a quemar el producto?
 
 ### Options
-- [ ] A) Sucesión secundaria <!-- feedback: Incorrecto. La secundaria ocurre donde ya había suelo y vida previa. -->
-- [x] B) Sucesión primaria <!-- feedback: Correcto. Comienza en un área sin suelo preexistente (como lava recién enfriada). -->
-- [ ] C) Deforestación natural <!-- feedback: Incorrecto. La deforestación es la pérdida de bosque, no el proceso de colonización. -->
-- [ ] D) Clímax ecológico inmediato <!-- feedback: Incorrecto. El clímax es la etapa final estable, no el proceso inicial. -->
+- [ ] A) La reacción se detiene inmediatamente. <!-- feedback: Incorrecto. El calor moderado suele favorecer el movimiento molecular y la catálisis. -->
+- [x] B) La velocidad de reacción aumenta debido a una mayor energía cinética. <!-- feedback: Correcto. Dentro de un rango óptimo, el calor acelera las reacciones enzimáticas. -->
+- [ ] C) La enzima se convierte en azúcar. <!-- feedback: Incorrecto. Las enzimas son proteínas y no cambian su naturaleza química básica por la temperatura. -->
+- [ ] D) La velocidad disminuye porque la enzima se cansa. <!-- feedback: Incorrecto. Las enzimas no se agotan ni se cansan, son catalizadores que se recuperan tras la reacción. -->
 
 ### Explicación Pedagógica
-Identificación de los patrones de desarrollo y recuperación de los ecosistemas tras perturbaciones geológicas.
+Evaluación de los factores que afectan la actividad enzimática y la cinética química biológica.
 
 ---
 
-## Question 10 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 10 [D5-D6] (Difficulty 6)
 **ID:** `NI-CIE-11-P1-biologia-001-v10`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Inmunología básica.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Respiración celular.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la función principal de los anticuerpos producidos por el sistema inmunológico?
+¿Cuál es el propósito principal de la respiración celular que ocurre en las mitocondrias de nuestras células?
 
 ### Options
-- [ ] A) Ingerir bacterias por fagocitosis. <!-- feedback: Incorrecto. Esa es función de los macrófagos y neutrófilos. -->
-- [x] B) Reconocer y marcar antígenos específicos para su neutralización o destrucción. <!-- feedback: Correcto. Los anticuerpos son proteínas de alta especificidad contra patógenos. -->
-- [ ] C) Transportar glóbulos rojos a la zona de la herida. <!-- feedback: Incorrecto. El flujo sanguíneo transporta las células, los anticuerpos no son transportadores. -->
-- [ ] D) Producir fiebre para matar virus. <!-- feedback: Incorrecto. La fiebre es una respuesta sistémica mediada por pirógenos, no por anticuerpos directamente. -->
+- [ ] A) Producir glucosa para alimentar al cuerpo. <!-- feedback: Incorrecto. La glucosa se obtiene de los alimentos o la fotosíntesis, no de la respiración. -->
+- [ ] B) Almacenar agua en los músculos. <!-- feedback: Incorrecto. Aunque produce agua como desecho, no es su función biológica primordial. -->
+- [x] C) Transformar la energía química de los alimentos en ATP (energía utilizable). <!-- feedback: Correcto. Es el proceso de obtención de energía para todos los trabajos de la célula. -->
+- [ ] D) Eliminar el oxígeno sobrante del cuerpo. <!-- feedback: Incorrecto. El oxígeno es un reactivo necesario, no algo que se deba "eliminar". -->
 
 ### Explicación Pedagógica
-Comprensión de los mecanismos de defensa humoral contra agentes infecciosos.
+Comprensión del metabolismo energético celular y la importancia del ATP.
 
 ---
 
-## Bloque C — Nivel D7–D8: Genética Molecular, Evolución y Biotecnología
+## Bloque C — Nivel D7–D8: Ecología y Evolución en Nicaragua
 
 ---
 
-## Question 11 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 11 [D7-D8] (Difficulty 7)
 **ID:** `NI-CIE-11-P1-biologia-001-v11`
-**Bloom:** Analyze
-**Competencia:** Explicación de Fenómenos
-**Context:** Selección natural y resistencia.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Selección Natural en los lagos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Muchas plagas en los cultivos de café han desarrollado resistencia a los pesticidas químicos. Según la teoría de la evolución, esto se explica porque:
+En las lagunas cratéricas de Nicaragua (como Apoyo), han evolucionado especies de peces cíclidos únicos. Si una población de peces tiene individuos con bocas de diferentes tamaños, ¿qué sucederá tras muchas generaciones si solo las semillas duras son la fuente de alimento disponible?
 
 ### Options
-- [ ] A) Los insectos se acostumbraron al veneno y ahora les gusta. <!-- feedback: Incorrecto. No es una adaptación de preferencia o conductual individual. -->
-- [x] B) Los individuos con variaciones genéticas resistentes sobrevivieron y transmitieron esos genes a la siguiente generación. <!-- feedback: Correcto. El pesticida actúa como un agente selectivo que elimina a los no resistentes. -->
-- [ ] C) El pesticida mutó el ADN de todos los insectos al mismo tiempo para salvarlos. <!-- feedback: Incorrecto. Las mutaciones son aleatorias y los pesticidas suelen ser tóxicos, no mutágenos dirigidos. -->
-- [ ] D) Los insectos aprendieron a aguantar la respiración cuando pasa el fumigador. <!-- feedback: Incorrecto. Explicación lamarckiana o conductual no válida para la resistencia química poblacional. -->
+- [ ] A) Todos los peces aprenderán a ablandar las semillas con agua. <!-- feedback: Incorrecto. Los organismos no "aprenden" adaptaciones biológicas heredables de ese modo. -->
+- [x] B) Los peces con bocas más fuertes sobrevivirán y dejarán más descendencia, aumentando ese rasgo en la población. <!-- feedback: Correcto. Este es el mecanismo de selección natural propuesto por Darwin. -->
+- [ ] C) Las semillas mutarán para volverse blandas y ayudar a los peces. <!-- feedback: Incorrecto. La evolución no ocurre para "ayudar" a otras especies de forma consciente. -->
+- [ ] D) La población se extinguirá inmediatamente porque el cambio es imposible. <!-- feedback: Incorrecto. Si existe variabilidad previa, la selección puede actuar sobre ella permitiendo la adaptación. -->
 
 ### Explicación Pedagógica
-Aplicación de los principios neodarwinistas a fenómenos de adaptación biológica observados en la agricultura.
+Aplicación de los principios de la selección natural a casos de especiación y adaptación local.
 
 ---
 
-## Question 12 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 12 [D7-D8] (Difficulty 7)
 **ID:** `NI-CIE-11-P1-biologia-001-v12`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento Científico
-**Context:** Biotecnología médica.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Relaciones simbióticas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La técnica de la PCR (Reacción en Cadena de la Polimerasa) fue vital para diagnosticar el COVID-19 en Nicaragua. Su función principal es:
+En los arrecifes de Corn Island, el pez limpiador se alimenta de los parásitos de peces más grandes. El pez grande queda libre de plagas y el pequeño obtiene comida. ¿Cómo se clasifica esta relación biológica?
 
 ### Options
-- [ ] A) Crear una vacuna instantánea en el cuerpo del paciente. <!-- feedback: Incorrecto. Es una técnica de diagnóstico, no de tratamiento o prevención. -->
-- [x] B) Amplificar (sacar millones de copias) de un fragmento específico de material genético viral para detectarlo. <!-- feedback: Correcto. Permite identificar la presencia del virus incluso en cantidades muy pequeñas. -->
-- [ ] C) Matar al virus mediante rayos láser invisibles. <!-- feedback: Incorrecto. La PCR ocurre en un tubo de ensayo con reactivos químicos y cambios de temperatura. -->
-- [ ] D) Cambiar el ADN del paciente para que sea inmune. <!-- feedback: Incorrecto. No altera el genoma del huésped. -->
+- [ ] A) Parasitismo <!-- feedback: Incorrecto. El parásito daña al huésped; aquí ambos se benefician. -->
+- [x] B) Mutualismo <!-- feedback: Correcto. Es una interacción donde ambas especies involucradas obtienen una ventaja para su supervivencia. -->
+- [ ] C) Comensalismo <!-- feedback: Incorrecto. En el comensalismo, uno se beneficia y el otro no se ve afectado ni positiva ni negativamente. -->
+- [ ] D) Competencia <!-- feedback: Incorrecto. No luchan por el mismo recurso, sino que cooperan de forma indirecta. -->
 
 ### Explicación Pedagógica
-Evaluación de aplicaciones tecnológicas modernas en el campo de la biología molecular y la salud pública.
+Identificación y valoración de las interacciones bióticas en ecosistemas marinos.
 
 ---
 
-## Question 13 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 13 [D7-D8] (Difficulty 7)
 **ID:** `NI-CIE-11-P1-biologia-001-v13`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Meiosis y variabilidad.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Pirámides tróficas y energía.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Durante la formación de óvulos y espermatozoides (meiosis), el proceso de "entrecruzamiento" (crossing-over) es importante porque:
+En un ecosistema como la Reserva Indio Maíz, ¿por qué la cantidad de energía disponible disminuye drásticamente a medida que subimos de las plantas a los jaguares?
 
 ### Options
-- [ ] A) Asegura que todos los hijos sean exactamente iguales a los padres. <!-- feedback: Incorrecto. Al contrario, promueve la diferencia. -->
-- [x] B) Aumenta la variabilidad genética al intercambiar fragmentos entre cromosomas homólogos. <!-- feedback: Correcto. Crea nuevas combinaciones de alelos en los gametos. -->
-- [ ] C) Reduce el tiempo de la división celular a la mitad. <!-- feedback: Incorrecto. No afecta la velocidad, sino la calidad de la información. -->
-- [ ] D) Evita que se produzcan mutaciones dañinas. <!-- feedback: Incorrecto. Las mutaciones pueden ocurrir independientemente del entrecruzamiento. -->
+- [ ] A) Porque los jaguares son muy perezosos y no buscan energía. <!-- feedback: Incorrecto. No es una cuestión de comportamiento, sino de leyes físicas. -->
+- [ ] B) Porque las plantas esconden su energía para no ser comidas. <!-- feedback: Incorrecto. Las plantas usan energía para sus propios procesos vitales. -->
+- [x] C) Porque la mayor parte de la energía se pierde como calor y en procesos metabólicos en cada nivel. <!-- feedback: Correcto. Según la regla del 10%, solo una pequeña parte de la energía pasa al siguiente nivel trófico. -->
+- [ ] D) Porque el sol solo ilumina a las plantas y no a los animales. <!-- feedback: Incorrecto. El sol es la fuente primaria, pero la energía fluye a través de la cadena alimentaria. -->
 
 ### Explicación Pedagógica
-Análisis de los mecanismos celulares que garantizan la diversidad biológica en la reproducción sexual.
+Análisis del flujo de energía y las leyes de la termodinámica aplicadas a la ecología.
 
 ---
 
-## Question 14 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 14 [D7-D8] (Difficulty 8)
 **ID:** `NI-CIE-11-P1-biologia-001-v14`
-**Bloom:** Evaluate
-**Competencia:** Explicación de Fenómenos
-**Context:** Ingeniería genética.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Impacto de especies invasoras.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un cultivo transgénico es aquel al que se le ha introducido un gen de otra especie (por ejemplo, un gen de bacteria en el maíz). ¿Cuál es una preocupación científica legítima sobre el uso de estos organismos?
+La introducción de la tilapia en lagunas naturales de Nicaragua ha causado la disminución de especies nativas (mojarras). ¿Cuál es la principal razón biológica de este impacto negativo?
 
 ### Options
-- [ ] A) Que las plantas empiecen a hablar o a caminar. <!-- feedback: Incorrecto. Imposibilidad biológica. -->
-- [x] B) El posible flujo de genes hacia variedades silvestres emparentadas, alterando la biodiversidad local. <!-- feedback: Correcto. La polinización cruzada no controlada es un riesgo ecológico real. -->
-- [ ] C) Que el ADN de la planta cambie el ADN de la persona que se la come. <!-- feedback: Incorrecto. El ADN ingerido se degrada en el sistema digestivo; no se integra al genoma del consumidor. -->
-- [ ] D) Que la planta deje de realizar fotosíntesis al tener genes extraños. <!-- feedback: Incorrecto. Los transgénicos suelen ser metabólicamente normales en sus funciones básicas. -->
+- [ ] A) La tilapia les enseña a las mojarras a nadar más lento. <!-- feedback: Incorrecto. Las especies no se transmiten comportamientos de este tipo entre sí. -->
+- [x] B) La tilapia compite por el mismo nicho ecológico (comida y espacio) y suele ser más agresiva o eficiente. <!-- feedback: Correcto. El desplazamiento por competencia es la causa principal del declive de especies nativas ante invasoras. -->
+- [ ] C) Las mojarras deciden irse a vivir a otro país. <!-- feedback: Incorrecto. Los organismos no migran de forma consciente a grandes distancias por decisión propia ante una competencia local. -->
+- [ ] D) La tilapia produce oxígeno que es tóxico para las mojarras. <!-- feedback: Incorrecto. Los peces consumen oxígeno, no lo producen en cantidades significativas (eso lo hacen las plantas/algas). -->
 
 ### Explicación Pedagógica
-Evaluación de los riesgos y beneficios de la biotecnología aplicada a la producción de alimentos.
+Evaluación de las consecuencias de la alteración de los ecosistemas por actividades humanas (biogeografía).
 
 ---
 
-## Question 15 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 15 [D7-D8] (Difficulty 8)
 **ID:** `NI-CIE-11-P1-biologia-001-v15`
-**Bloom:** Analyze
-**Competencia:** Conocimiento Científico
-**Context:** Control de la expresión génica.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Biotecnología y salud.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En las células humanas, todas las células tienen el mismo ADN, pero una neurona es muy distinta a una célula de la piel. Esto se debe a:
+Algunas bacterias han desarrollado resistencia a los antibióticos en los hospitales de Nicaragua. ¿Cómo explica la biología este fenómeno desde una perspectiva evolutiva?
 
 ### Options
-- [ ] A) Que las neuronas pierden los genes que no necesitan. <!-- feedback: Incorrecto. El ADN se mantiene íntegro (con pocas excepciones). -->
-- [x] B) La expresión diferencial de genes; solo se activan los genes necesarios para la función específica de cada tejido. <!-- feedback: Correcto. La regulación génica determina el fenotipo celular. -->
-- [ ] C) Que la piel recibe más sol y eso cambia su código genético. <!-- feedback: Incorrecto. El sol puede causar mutaciones, pero no es la causa de la diferenciación celular normal. -->
-- [ ] D) Que el cerebro produce ADN nuevo cada mañana. <!-- feedback: Incorrecto. El ADN solo se replica antes de la división celular. -->
+- [ ] A) Las bacterias se asustan de los antibióticos y se esconden. <!-- feedback: Incorrecto. Es un proceso biológico poblacional, no una respuesta psicológica individual. -->
+- [ ] B) El antibiótico muta a la bacteria para volverla más fuerte. <!-- feedback: Incorrecto. El antibiótico no causa la mutación; esta suele ser previa y aleatoria. -->
+- [x] C) El antibiótico actúa como presión selectiva, matando a las bacterias débiles y dejando que solo las resistentes se reproduzcan. <!-- feedback: Correcto. Es selección natural acelerada por la intervención humana. -->
+- [ ] D) Las bacterias roban los genes de los médicos para protegerse. <!-- feedback: Incorrecto. Las bacterias pueden intercambiar genes entre ellas (transferencia horizontal), pero no de humanos para resistencia. -->
 
 ### Explicación Pedagógica
-Comprensión de los mecanismos de diferenciación celular y regulación epigenética básica.
+Análisis de procesos evolutivos contemporáneos con impacto en la salud pública.
 
 ---
 
-## Question 16 [D7-D8] (Variant Basic - Difficulty 8)
+## Bloque D — Nivel D9–D10: Biotecnología y Desafíos Globales
 
+---
+
+## Question 16 [D7-D8] (Difficulty 7)
 **ID:** `NI-CIE-11-P1-biologia-001-v16`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Evidencias de la evolución.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Ingeniería Genética.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Las alas de un murciélago y las aletas de una ballena tienen estructuras óseas muy similares a pesar de cumplir funciones distintas. Estas estructuras se consideran:
+¿Cuál es la función de las "enzimas de restricción" en la biotecnología moderna, por ejemplo para crear insulina humana en bacterias?
 
 ### Options
-- [ ] A) Órganos análogos (misma función, diferente origen). <!-- feedback: Incorrecto. Tienen diferente función pero mismo origen óseo. -->
-- [x] B) Órganos homólogos (mismo origen evolutivo, diferente función). <!-- feedback: Correcto. Indican que ambos mamíferos comparten un ancestro común. -->
-- [ ] C) Órganos vestigiales (que ya no sirven para nada). <!-- feedback: Incorrecto. Ambas alas y aletas son plenamente funcionales. -->
-- [ ] D) Prueba de que las ballenas volaban en el pasado. <!-- feedback: Incorrecto. No hay evidencia fósil de ballenas voladoras; la homología indica ancestro común terrestre. -->
+- [ ] A) Pegar trozos de ADN de diferentes animales. <!-- feedback: Incorrecto. Esa es la función de la ADN ligasa. -->
+- [x] B) Cortar el ADN en secuencias específicas para poder insertar nuevos genes. <!-- feedback: Correcto. Funcionan como "tijeras moleculares" precisas. -->
+- [ ] C) Acelerar la respiración de las bacterias. <!-- feedback: Incorrecto. No actúan sobre el metabolismo energético directamente. -->
+- [ ] D) Evitar que el ADN se oxide con el aire. <!-- feedback: Incorrecto. No tienen una función protectora antioxidante. -->
 
 ### Explicación Pedagógica
-Análisis de las evidencias anatómicas comparadas que sustentan la teoría de la descendencia con modificación.
+Conocimiento de las herramientas moleculares básicas de la ingeniería genética.
 
 ---
 
-## Bloque D — Nivel D9–D10: Bioética, Epigenética y Ecología Global
-
----
-
-## Question 17 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 17 [D9-D10] (Difficulty 9)
 **ID:** `NI-CIE-11-P1-biologia-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento Científico
-**Context:** Epigenética y ambiente.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** El cambio climático y los corales.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Estudios en ratones han demostrado que el miedo a un olor específico puede ser transmitido a la descendencia sin que los hijos hayan tenido contacto con el olor. Este fenómeno se explica por:
+El aumento de la temperatura de los océanos provoca el "blanqueamiento de los corales" en el Caribe nicaragüense. ¿Cuál es el mecanismo biológico exacto de este proceso?
 
 ### Options
-- [ ] A) Un cambio en la secuencia de nucleótidos del gen del olfato. <!-- feedback: Incorrecto. El ambiente no cambia la secuencia de bases nitrogenadas de forma dirigida en una generación. -->
-- [x] B) Marcas químicas sobre el ADN (epigenética) que regulan la expresión del gen y que no se borraron durante la formación de gametos. <!-- feedback: Correcto. Es la base de la herencia epigenética transgeneracional. -->
-- [ ] C) Telepatía entre el padre ratón y sus hijos. <!-- feedback: Incorrecto. No es una explicación científica. -->
-- [ ] D) Que los hijos nacieron sabiendo leer las notas del padre. <!-- feedback: Incorrecto. Los animales no transmiten cultura escrita de esa forma. -->
+- [ ] A) El coral se quema con el sol como si fuera piel humana. <!-- feedback: Incorrecto. Es un proceso interno de ruptura de una relación simbiótica. -->
+- [ ] B) El agua caliente tiñe de blanco el esqueleto del coral. <!-- feedback: Incorrecto. El color blanco siempre estuvo ahí (carbonato), lo que se pierde es el tejido vivo coloreado. -->
+- [x] C) El coral expulsa a las algas simbióticas (zooxantelas) debido al estrés térmico, perdiendo su fuente de alimento y color. <!-- feedback: Correcto. Sin las algas, el tejido del coral se vuelve transparente y deja ver el esqueleto blanco. -->
+- [ ] D) Los peces se comen la pintura de los corales cuando hace calor. <!-- feedback: Incorrecto. Los corales no tienen pintura; su color proviene de pigmentos biológicos de sus simbiontes. -->
 
 ### Explicación Pedagógica
-Comprensión de procesos biológicos de vanguardia que cuestionan la herencia genética puramente mendeliana.
+Modelización de las consecuencias del estrés ambiental en las relaciones ecológicas complejas.
 
 ---
 
-## Question 18 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 18 [D9-D10] (Difficulty 9)
 **ID:** `NI-CIE-11-P1-biologia-001-v18`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Dinámica de poblaciones.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Epigenética y entorno.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Una población de jaguares en una reserva de Nicaragua llega a su "Capacidad de Carga" (K). Si el área de la reserva se reduce a la mitad debido al avance de la frontera agrícola, ¿cuál será la respuesta biológica de la población a largo plazo?
+Se ha descubierto que las plantas de café pueden "recordar" periodos de sequía severa y preparar a sus descendientes mediante marcas químicas en el ADN (sin cambiar la secuencia de letras). ¿Cómo se llama esta área de estudio?
 
 ### Options
-- [ ] A) Los jaguares se volverán la mitad de grandes para caber. <!-- feedback: Incorrecto. El tamaño individual no cambia por el espacio de la reserva. -->
-- [x] B) La población disminuirá hasta alcanzar el nuevo límite de recursos y espacio (nueva K), con mayor riesgo de endogamia. <!-- feedback: Correcto. La capacidad de carga depende directamente de los recursos disponibles. -->
-- [ ] C) Los jaguares dejarán de comer carne para ahorrar recursos. <!-- feedback: Incorrecto. Sus rasgos tróficos están fijados genéticamente. -->
-- [ ] D) La población crecerá más rápido para compensar la pérdida de espacio. <!-- feedback: Incorrecto. El estrés por espacio y comida limita el crecimiento. -->
+- [ ] A) Paleontología <!-- feedback: Incorrecto. Es el estudio de los fósiles. -->
+- [x] B) Epigenética <!-- feedback: Correcto. Estudia cambios heredables en la expresión génica que no implican alteraciones en la secuencia del ADN. -->
+- [ ] C) Taxonomía <!-- feedback: Incorrecto. Es la ciencia de clasificar a los seres vivos. -->
+- [ ] D) Embriología <!-- feedback: Incorrecto. Es el estudio del desarrollo de los embriones. -->
 
 ### Explicación Pedagógica
-Análisis de los límites ecológicos del crecimiento poblacional y el impacto de la fragmentación del hábitat.
+Reconocimiento de los avances modernos en la comprensión de la herencia y la expresión génica.
 
 ---
 
-## Question 19 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 19 [D9-D10] (Difficulty 10)
 **ID:** `NI-CIE-11-P1-biologia-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Explicación de Fenómenos
-**Context:** Bioética y edición genética.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Ética y Biotecnología.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La tecnología CRISPR permite editar el ADN con precisión de "cortar y pegar". ¿Cuál es el dilema ético más grave de usar esta tecnología en embriones humanos (línea germinal)?
-
+Si un científico propusiera clonar a un jaguar de la selva nicaragüense para salvar la especie, ¿cuál sería el argumento biológico más fuerte
 ### Options
-- [ ] A) Que los bebés salgan con colores de ojos no naturales. <!-- feedback: Incorrecto. Es un dilema estético, no el más grave éticamente. -->
-- [ ] B) Que la edición genética sea muy barata y todos la usen. <!-- feedback: Incorrecto. El acceso universal no es un dilema de seguridad biológica. -->
-- [x] C) La posibilidad de introducir cambios permanentes en el patrimonio genético de la humanidad que afecten a todas las generaciones futuras sin su consentimiento. <!-- feedback: Correcto. Es el riesgo de efectos imprevistos a escala evolutiva y social. -->
-- [ ] D) Que el ADN editado se convierta en plástico dentro del cuerpo. <!-- feedback: Incorrecto. Imposibilidad química. -->
+- [ ] A) Que los jaguares clonados serían muy feos. <!-- feedback: Incorrecto. La apariencia no es un factor científico relevante en este debate. -->
+- [ ] B) Que la clonación es muy barata y fácil de hacer. <!-- feedback: Incorrecto. Es cara y compleja, pero eso no es un argumento biológico sobre la población. -->
+- [x] C) Que la clonación no recupera la diversidad genética de la población, haciéndola vulnerable a enfermedades. <!-- feedback: Correcto. La falta de variabilidad genética pone en riesgo la supervivencia a largo plazo de la especie. -->
+- [ ] D) Que los jaguares clonados no sabrían rugir. <!-- feedback: Incorrecto. Los instintos básicos suelen mantenerse, pero el problema real es la genética poblacional. -->
 
 ### Explicación Pedagógica
-Capacidad de evaluar las implicaciones éticas, sociales y evolutivas de las tecnologías de manipulación genética de última generación.
+Evaluación crítica de las intervenciones biotecnológicas en la conservación de la biodiversidad.
 
 ---
 
-## Question 20 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 20 [D9-D10] (Difficulty 10)
 **ID:** `NI-CIE-11-P1-biologia-001-v20`
-**Bloom:** Create
-**Competencia:** Indagación y Análisis
-**Context:** Diseño experimental.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** El experimento de Miller-Urey y el origen de la vida.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Se desea probar si un extracto de una planta local nicaragüense tiene propiedades antibióticas contra una bacteria común. ¿Cuál de los siguientes es el diseño experimental más riguroso?
+El experimento de Miller-Urey intentó recrear las condiciones de la Tierra primitiva. ¿Cuál fue el hallazgo principal que dio pistas sobre el origen de la vida?
 
 ### Options
-- [ ] A) Darle el extracto a una persona enferma y ver si se cura. <!-- feedback: Incorrecto. Carece de grupo control y es peligroso éticamente sin pruebas previas. -->
-- [ ] B) Poner el extracto en una cubeta con agua del río y ver si el agua se aclara. <!-- feedback: Incorrecto. La claridad del agua no mide el crecimiento bacteriano de forma específica. -->
-- [x] C) Cultivar la bacteria en placas de Petri y colocar discos con diferentes concentraciones del extracto, usando un disco solo con agua como control negativo y un antibiótico conocido como control positivo. <!-- feedback: Correcto. Sigue el método científico con controles adecuados y medición directa del fenómeno. -->
-- [ ] D) Mirar la planta al microscopio para ver si está matando bacterias en sus hojas. <!-- feedback: Incorrecto. No prueba la eficacia del extracto de forma controlada. -->
+- [ ] A) Que se puede crear una hormiga de la nada en una semana. <!-- feedback: Incorrecto. No se crearon organismos, solo moléculas. -->
+- [ ] B) Que el oxígeno era muy abundante al principio de la Tierra. <!-- feedback: Incorrecto. Se usó una atmósfera reductora sin oxígeno libre. -->
+- [x] C) Que las moléculas orgánicas (como aminoácidos) pueden formarse a partir de materia inorgánica bajo ciertas condiciones de energía. <!-- feedback: Correcto. Demostró la posibilidad de la evolución química previa a la biológica. -->
+- [ ] D) Que los volcanes de Nicaragua son los más antiguos del mundo. <!-- feedback: Incorrecto. El experimento no trataba sobre geología regional específica. -->
 
 ### Explicación Pedagógica
-Habilidad para diseñar y evaluar protocolos de investigación científica con rigor metodológico y validez estadística.
+Análisis de las evidencias experimentales que sustentan las teorías científicas sobre el origen de las biomoléculas.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Biología para 11º Grado en Nicaragua ofrece una visión profunda y contextualizada de las ciencias de la vida. Integra conceptos fundamentales de citología, genética y ecología con realidades nacionales como la biodiversidad de Bosawás, la producción de cacao y los desafíos del cambio climático en nuestras costas. El diseño de las preguntas fomenta el pensamiento crítico y la capacidad de aplicar el conocimiento científico para comprender y proteger el patrimonio natural de Nicaragua, preparando a los estudiantes para los retos académicos y ambientales del futuro.

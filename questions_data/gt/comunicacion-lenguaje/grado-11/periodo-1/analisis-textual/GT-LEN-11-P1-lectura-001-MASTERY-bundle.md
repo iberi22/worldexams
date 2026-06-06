@@ -1,5 +1,5 @@
 ---
-id: "GT-LEN-11-P1-analisis-textual-001-MASTERY"
+id: "GT-LEN-11-P1-lectura-001-MASTERY"
 country: "guatemala"
 grado: 11
 asignatura: "comunicacion-lenguaje"
@@ -8,462 +8,453 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINEDUC"
+alignment: "CNB Guatemala + Ciclo Diversificado"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.22"
+  expected_success_rate: 0.70
+  discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Análisis Textual (001)
+# MASTERY Bundle — Comunicación y Lenguaje: Análisis Textual (GT-001)
 
-## Bloque A — Nivel D3–D4
+## Bloque A — Nivel D3–D4: Comprensión y Tipología Textual
 
 ---
 
-## Question 1 [D3-D4]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v1`
-**Bloom:** Remember
-**Competencia:** Comprensión de lectura
-**Context:** Literatura guatemalteca (Miguel Ángel Asturias).
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `GT-LEN-11-P1-lectura-001-v1`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Literatura maya contemporánea.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la obra más famosa de Miguel Ángel Asturias, Premio Nobel de Literatura guatemalteco, que critica las dictaduras en América Latina?
+En un poema del autor quiché Humberto Ak'abal, se describe el sonido del río como "el habla de los abuelos". ¿Qué función del lenguaje predomina en esta expresión literaria?
 
 ### Options
-- [ ] A) *Hombres de maíz* <!-- feedback: Incorrecto. Es una obra fundamental sobre la mitología maya, pero no se centra en dictaduras. -->
-- [x] B) *El Señor Presidente* <!-- feedback: Correcto. Es la novela cumbre de Asturias sobre el autoritarismo y la dictadura. -->
-- [ ] C) *Leyendas de Guatemala* <!-- feedback: Incorrecto. Es una recopilación de relatos míticos y folclóricos. -->
-- [ ] D) *La mansión del pájaro serpiente* <!-- feedback: Incorrecto. Esta obra es de Virgilio Rodríguez Macal. -->
+- [ ] A) Función referencial <!-- feedback: Incorrecto. Esta función busca informar de manera objetiva sobre la realidad, no crear imágenes poéticas o subjetivas. -->
+- [x] B) Función poética <!-- feedback: Correcto. Se centra en el mensaje mismo, utilizando recursos estéticos para embellecer el lenguaje y crear nuevas metáforas. -->
+- [ ] C) Función apelativa <!-- feedback: Incorrecto. El autor no intenta dar una orden o influir directamente en el comportamiento del lector con esta frase. -->
+- [ ] D) Función metalingüística <!-- feedback: Incorrecto. Esta función se utiliza para explicar o hablar sobre el código (la lengua), no para la creación artística. -->
 
 ### Explicación Pedagógica
-Reconocimiento de hitos de la literatura nacional y sus temáticas principales.
+Identificación de las funciones del lenguaje en textos con intención estética y literaria.
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v2`
-**Bloom:** Understand
-**Competencia:** Comprensión literal
-**Context:** Texto sobre el Popol Vuh.
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `GT-LEN-11-P1-lectura-001-v2`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Leyendas de Guatemala (Miguel Ángel Asturias).
+**Expected_Success:** 0.60
 
 ### Enunciado
-"Al principio todo estaba en suspenso, todo en calma, en silencio; todo inmóvil, callado, y vacía la extensión del cielo."
-Según el fragmento anterior del *Popol Vuh*, ¿cuál era el estado del mundo antes de la creación?
+En "Leyendas de Guatemala", Miguel Ángel Asturias utiliza una prosa cargada de musicalidad y símbolos. ¿Cuál es el propósito principal de una leyenda como "El Sombrerón"?
 
 ### Options
-- [ ] A) Caótico y ruidoso. <!-- feedback: Incorrecto. El texto dice que todo estaba en calma y silencio. -->
-- [x] B) Inmóvil y vacío. <!-- feedback: Correcto. El texto menciona explícitamente "todo inmóvil" y la "vacía la extensión del cielo". -->
-- [ ] C) Lleno de animales y plantas. <!-- feedback: Incorrecto. Menciona que la extensión estaba vacía. -->
-- [ ] D) Cubierto de fuego y lava. <!-- feedback: Incorrecto. No se mencionan elementos volcánicos en este inicio. -->
+- [ ] A) Dar instrucciones precisas sobre cómo evitar a personajes mágicos. <!-- feedback: Incorrecto. No es un manual de conducta ni un texto instructivo-técnico. -->
+- [x] B) Explicar sucesos misteriosos a través de la tradición oral y la fantasía. <!-- feedback: Correcto. Las leyendas mezclan hechos reales con elementos sobrenaturales para preservar la cultura popular. -->
+- [ ] C) Presentar datos estadísticos sobre el folclore guatemalteco. <!-- feedback: Incorrecto. Las leyendas no utilizan el rigor científico ni el análisis cuantitativo. -->
+- [ ] D) Promocionar productos turísticos de la época colonial. <!-- feedback: Incorrecto. El fin es narrativo y estético, no publicitario o comercial. -->
 
 ### Explicación Pedagógica
-Identificación de información explícita en textos fundacionales de la cultura guatemalteca.
+Diferenciación de los géneros narrativos tradicionales y su función dentro de la cultura y la literatura.
 
 ---
 
-## Question 3 [D3-D4]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v3`
-**Bloom:** Remember
-**Competencia:** Vocabulario
-**Context:** Regionalismos guatemaltecos.
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `GT-LEN-11-P1-lectura-001-v3`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Noticias sobre arqueología maya en Tikal.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En Guatemala, ¿qué significa la palabra "chulo" aplicada a un objeto o persona?
+"El reciente descubrimiento de una ciudad oculta bajo la selva de Petén gracias a la tecnología LiDAR ha revolucionado nuestra comprensión de la densidad poblacional maya". ¿Cuál es la idea principal de este enunciado?
 
 ### Options
-- [ ] A) Alguien presumido o arrogante. <!-- feedback: Incorrecto. Ese es un significado común en España, pero no el principal en Guatemala. -->
-- [x] B) Algo bonito, agradable o atractivo. <!-- feedback: Correcto. Se usa comúnmente como sinónimo de lindo o bello. -->
-- [ ] C) Un tipo de comida tradicional. <!-- feedback: Incorrecto. No es un término gastronómico. -->
-- [ ] D) Una persona que estafa a otros. <!-- feedback: Incorrecto. No tiene esa connotación negativa en el uso general. -->
+- [ ] A) La selva de Petén es muy difícil de explorar a pie. <!-- feedback: Incorrecto. Esta es una conclusión secundaria o implícita, no el foco central del descubrimiento reportado. -->
+- [ ] B) La tecnología LiDAR es muy cara y difícil de usar en Guatemala. <!-- feedback: Incorrecto. El texto menciona la tecnología como medio para el hallazgo, no critica su costo. -->
+- [x] C) Un nuevo hallazgo tecnológico ha cambiado la visión histórica sobre los mayas. <!-- feedback: Correcto. Resume el hecho (descubrimiento) y su consecuencia (revolución en la comprensión histórica). -->
+- [ ] D) Los mayas preferían vivir en ciudades densamente pobladas. <!-- feedback: Incorrecto. El texto dice que ahora comprendemos mejor la densidad, no que ellos tuvieran una "preferencia" específica. -->
 
 ### Explicación Pedagógica
-Conocimiento de variantes léxicas propias del español de Guatemala.
+Identificación de la idea central en textos informativos y científicos de interés nacional.
 
 ---
 
-## Question 4 [D3-D4]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v4`
-**Bloom:** Understand
-**Competencia:** Comprensión literal
-**Context:** Texto informativo sobre la civilización Maya.
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `GT-LEN-11-P1-lectura-001-v4`
+**Bloom:** Apply
+**Competencia:** Conocimiento de la Lengua
+**Context:** Cohesión textual en la redacción de informes.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"Tikal, situada en el corazón de la selva petenera, fue una de las ciudades-estado más poderosas de la civilización maya durante el periodo Clásico."
-De acuerdo con el texto, ¿en qué periodo alcanzó Tikal su mayor poderío?
+¿Cuál de los siguientes conectores establece una relación de causa-efecto de manera adecuada?
+"La tormenta dañó las cosechas en el Altiplano; __________, los precios de las verduras aumentaron en la capital".
 
 ### Options
-- [ ] A) Periodo Preclásico. <!-- feedback: Incorrecto. El texto especifica el periodo Clásico. -->
-- [x] B) Periodo Clásico. <!-- feedback: Correcto. Es la información que suministra el fragmento. -->
-- [ ] C) Periodo Posclásico. <!-- feedback: Incorrecto. Tikal ya había declinado para el Posclásico. -->
-- [ ] D) Periodo Contemporáneo. <!-- feedback: Incorrecto. Se refiere a una civilización antigua. -->
+- [ ] A) Sin embargo <!-- feedback: Incorrecto. Este conector introduce oposición, no una consecuencia lógica de lo anterior. -->
+- [x] B) Por lo tanto <!-- feedback: Correcto. Introduce de forma clara la consecuencia derivada del daño en las cosechas. -->
+- [ ] C) Además <!-- feedback: Incorrecto. Se usa para añadir información adicional, no para explicar el origen de un suceso. -->
+- [ ] D) Por ejemplo <!-- feedback: Incorrecto. Se utiliza para ilustrar una idea general con un caso particular, no para marcar causalidad. -->
 
 ### Explicación Pedagógica
-Extracción de datos específicos en textos expositivos.
+Uso de conectores lógicos para asegurar la coherencia en la redacción de textos argumentativos e informativos.
 
 ---
 
-## Bloque B — Nivel D5–D6
+## Bloque B — Nivel D5–D6: Análisis Crítico y Gramática
 
 ---
 
-## Question 5 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v5`
-**Bloom:** Understand
-**Competencia:** Comprensión inferencial
-**Context:** Poesía de autor guatemalteco.
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `GT-LEN-11-P1-lectura-001-v5`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Editorial sobre el medio ambiente en el Lago de Atitlán.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Lea los siguientes versos:
-"Guatemala, tu nombre es una flor que se abre al alba / y una herida que sangra en el poniente."
-¿Qué figura literaria se utiliza para describir a Guatemala y qué sugiere?
+Un editorial afirma: "El descuido del Lago de Atitlán es un espejo de nuestra falta de compromiso como ciudadanos". ¿Qué figura retórica se utiliza para enfatizar la crítica?
 
 ### Options
-- [ ] A) Símil; sugiere que Guatemala es solo naturaleza. <!-- feedback: Incorrecto. No usa "como" y la sugerencia es más compleja. -->
-- [x] B) Metáfora; sugiere la dualidad entre la belleza y el sufrimiento del país. <!-- feedback: Correcto. Identifica el nombre con "flor" (belleza) y "herida" (dolor/historia). -->
-- [ ] C) Hipérbole; sugiere que el país es demasiado grande. <!-- feedback: Incorrecto. No hay una exageración de tamaño, sino una identificación poética. -->
-- [ ] D) Personificación; sugiere que el país tiene sentimientos humanos. <!-- feedback: Incorrecto. No se le atribuyen acciones humanas, sino características de objetos/seres. -->
+- [ ] A) Hipérbole <!-- feedback: Incorrecto. No se está exagerando una cantidad o cualidad de forma desmedida. -->
+- [x] B) Metáfora <!-- feedback: Correcto. Se identifica el estado del lago con un "espejo" de la conducta ciudadana, estableciendo una relación de identidad. -->
+- [ ] C) Onomatopeya <!-- feedback: Incorrecto. No se intenta imitar un sonido de la naturaleza con palabras. -->
+- [ ] D) Epíteto <!-- feedback: Incorrecto. No hay un adjetivo que resalte una cualidad intrínseca del sustantivo de forma innecesaria. -->
 
 ### Explicación Pedagógica
-Análisis de recursos retóricos y su significado en contextos líricos nacionales.
+Análisis de recursos literarios aplicados a la persuasión en el lenguaje periodístico.
 
 ---
 
-## Question 6 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v6`
-**Bloom:** Analyze
-**Competencia:** Análisis de la estructura
-**Context:** Texto argumentativo sobre el medio ambiente.
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `GT-LEN-11-P1-lectura-001-v6`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Crítica gastronómica sobre el Pepián.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"La protección de la Biosfera Maya no es solo una cuestión de ecología, sino de supervivencia económica para las comunidades locales."
-¿Cuál es la función de la expresión subrayada en el argumento?
+En un texto que describe el Pepián de Antigua Guatemala como un "manjar de dioses que amalgama la herencia maya y española", ¿cuál es el tono predominante?
 
 ### Options
-- [ ] A) Presentar una contradicción insalvable. <!-- feedback: Incorrecto. El conector "sino" aquí añade una razón de mayor peso, no contradice la anterior. -->
-- [x] B) Ampliar la perspectiva del problema hacia el ámbito económico. <!-- feedback: Correcto. Muestra que hay más de una razón para proteger la zona. -->
-- [ ] C) Negar la importancia de la ecología. <!-- feedback: Incorrecto. No la niega, dice que "no es SOLO" eso. -->
-- [ ] D) Concluir que la economía es más importante que la naturaleza. <!-- feedback: Incorrecto. El texto busca integrar ambas, no jerarquizarlas definitivamente. -->
+- [ ] A) Objetivo y técnico <!-- feedback: Incorrecto. El uso de palabras como "manjar de dioses" es altamente subjetivo y emocional. -->
+- [x] B) Admirativo y elogioso <!-- feedback: Correcto. El autor utiliza un lenguaje positivo y elevado para resaltar la calidad y el valor cultural del platillo. -->
+- [ ] C) Irónico y burlón <!-- feedback: Incorrecto. No hay intención de ridiculizar o decir lo contrario de lo que se piensa. -->
+- [ ] D) Pesimista y crítico <!-- feedback: Incorrecto. El texto celebra la unión de culturas y el sabor, no presenta quejas o visiones negativas. -->
 
 ### Explicación Pedagógica
-Análisis de la función de conectores adversativos en la construcción de argumentos.
+Reconocimiento del tono y la subjetividad en textos de opinión o descriptivos-valorativos.
 
 ---
 
-## Question 7 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v7`
-**Bloom:** Understand
-**Competencia:** Comprensión crítica
-**Context:** Crónica sobre la gastronomía guatemalteca.
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `GT-LEN-11-P1-lectura-001-v7`
+**Bloom:** Apply
+**Competencia:** Conocimiento de la Lengua
+**Context:** Ortografía: Uso de la tilde.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"El Pepián, declarado Patrimonio Cultural de la Nación, es el resultado del sincretismo culinario entre la herencia maya y los ingredientes traídos por los españoles."
-Según el autor, ¿cuál es la esencia del Pepián?
+¿Cuál de las siguientes palabras está correctamente escrita según las reglas de acentuación?
 
 ### Options
-- [ ] A) Ser un plato puramente indígena. <!-- feedback: Incorrecto. El texto menciona la influencia española. -->
-- [ ] B) Ser un plato fácil de preparar. <!-- feedback: Incorrecto. El texto no habla de la dificultad. -->
-- [x] C) La mezcla o fusión de dos culturas distintas. <!-- feedback: Correcto. El término "sincretismo" alude a la fusión de elementos mayas y españoles. -->
-- [ ] D) Ser la única comida típica de Guatemala. <!-- feedback: Incorrecto. Es una de muchas, aunque sea patrimonio. -->
+- [ ] A) Examenes <!-- feedback: Incorrecto. Es una palabra esdrújula y debe llevar tilde en la primera "e" (Exámenes). -->
+- [x] B) Quetzal <!-- feedback: Correcto. Palabra aguda terminada en "l" (consonante distinta de n o s), no lleva tilde. -->
+- [ ] C) Historico <!-- feedback: Incorrecto. Es esdrújula y requiere tilde siempre en la sílaba tónica (Histórico). -->
+- [ ] D) Pais <!-- feedback: Incorrecto. Presenta un hiato de vocal abierta y cerrada tónica, debe llevar tilde en la "i" (País). -->
 
 ### Explicación Pedagógica
-Interpretación de conceptos culturales (sincretismo) en textos descriptivos.
+Aplicación de las normas de acentuación gráfica de la lengua española en vocabulario común y local.
 
 ---
 
-## Question 8 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v8`
-**Bloom:** Analyze
-**Competencia:** Vocabulario en contexto
-**Context:** Texto sobre la industria del café.
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `GT-LEN-11-P1-lectura-001-v8`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Columnas de opinión sobre la juventud.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"La volatilidad de los precios internacionales del café afecta la estabilidad de los pequeños productores en Huehuetenango."
-¿Cuál es el sinónimo más adecuado para la palabra subrayada en este contexto?
+Si un autor escribe: "Muchos jóvenes hoy en día prefieren las pantallas a los libros; sin embargo, esto no significa que no lean, sino que leen de forma distinta", ¿cuál es su intención?
 
 ### Options
-- [ ] A) Rapidez <!-- feedback: Incorrecto. No se refiere a la velocidad, sino al cambio. -->
-- [x] B) Inestabilidad <!-- feedback: Correcto. La volatilidad implica cambios frecuentes e impredecibles en los precios. -->
-- [ ] C) Seguridad <!-- feedback: Incorrecto. Es lo opuesto a la volatilidad. -->
-- [ ] D) Claridad <!-- feedback: Incorrecto. No tiene relación con la transparencia de los precios. -->
+- [ ] A) Criticar duramente a los jóvenes por no ir a las bibliotecas. <!-- feedback: Incorrecto. El autor matiza la situación, no se queda en una crítica simple o destructiva. -->
+- [ ] B) Pedir al gobierno que prohíba el uso de celulares en las escuelas. <!-- feedback: Incorrecto. El texto analiza un comportamiento, no hace una petición de ley o política pública. -->
+- [x] C) Proponer una visión equilibrada sobre los nuevos hábitos de lectura. <!-- feedback: Correcto. El autor reconoce un cambio pero evita juzgarlo negativamente, buscando comprender la nueva realidad. -->
+- [ ] D) Afirmar que los libros impresos van a desaparecer muy pronto. <!-- feedback: Incorrecto. El autor habla de cómo leen los jóvenes, no predice el fin de la industria editorial. -->
 
 ### Explicación Pedagógica
-Determinación del significado de términos técnicos/económicos mediante el contexto.
+Capacidad de síntesis y comprensión de matices en textos argumentativos contemporáneos.
 
 ---
 
-## Question 9 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v9`
-**Bloom:** Understand
-**Competencia:** Comprensión literal
-**Context:** Ley de Idiomas Nacionales.
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `GT-LEN-11-P1-lectura-001-v9`
+**Bloom:** Apply
+**Competencia:** Conocimiento de la Lengua
+**Context:** Sintaxis: Sujeto y Predicado.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"El Estado de Guatemala reconoce, promueve y respeta los idiomas de los pueblos Mayas, Garífuna y Xinka."
-¿Qué obligación se le atribuye al Estado respecto a los idiomas indígenas?
+En la oración "Los coloridos tejidos de Guatemala son reconocidos en todo el mundo", ¿cuál es el núcleo del sujeto?
 
 ### Options
-- [ ] A) Obligar a todos a hablarlos. <!-- feedback: Incorrecto. El texto dice reconocer, promover y respetar, no obligar. -->
-- [x] B) Fomentar su uso y proteger su existencia. <!-- feedback: Correcto. La promoción y el respeto implican fomento y protección. -->
-- [ ] C) Traducir solo los libros de texto. <!-- feedback: Incorrecto. El reconocimiento es general, no limitado a libros. -->
-- [ ] D) Eliminar el uso del español. <!-- feedback: Incorrecto. El reconocimiento de idiomas indígenas no implica la eliminación del español. -->
+- [ ] A) Los coloridos <!-- feedback: Incorrecto. Estos son determinantes y adjetivos que acompañan al nombre, no el núcleo. -->
+- [ ] B) Guatemala <!-- feedback: Incorrecto. Es un complemento del nombre (preposicional), no el centro de la acción o estado. -->
+- [x] C) Tejidos <!-- feedback: Correcto. Es el sustantivo principal del sujeto con el que concuerda el verbo "son". -->
+- [ ] D) Son <!-- feedback: Incorrecto. Este es el núcleo del predicado (el verbo). -->
 
 ### Explicación Pedagógica
-Interpretación de deberes ciudadanos e institucionales en textos normativos.
+Identificación de los elementos fundamentales de la oración simple y sus modificadores.
 
 ---
 
-## Question 10 [D5-D6]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v10`
-**Bloom:** Analyze
-**Competencia:** Comprensión inferencial
-**Context:** Fragmento de *La patria del criollo* de Severo Martínez Peláez.
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `GT-LEN-11-P1-lectura-001-v10`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Publicidad de festivales culturales.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"La Recordación Florida no fue escrita para nosotros, sino para los ojos del Rey y para justificar los privilegios de los descendientes de los conquistadores."
-¿Qué se puede inferir sobre la intención del autor de la *Recordación Florida* según Martínez Peláez?
+Un anuncio dice: "¡Ven al Festival del Níspero en San Juan del Obispo! No te pierdas la oportunidad de probar los mejores sabores de nuestra tierra". ¿A qué tipo de texto pertenece principalmente?
 
 ### Options
-- [ ] A) Quería escribir una novela de ficción. <!-- feedback: Incorrecto. Era una crónica histórica. -->
-- [x] B) Tenía un interés político y económico personal/grupal. <!-- feedback: Correcto. Escribió para "justificar privilegios". -->
-- [ ] C) Buscaba educar a los indígenas guatemaltecos. <!-- feedback: Incorrecto. Dice que "no fue escrita para nosotros" (el pueblo). -->
-- [ ] D) Su único fin era describir la naturaleza del país. <!-- feedback: Incorrecto. El fin era la justificación de derechos y privilegios. -->
+- [ ] A) Informativo <!-- feedback: Incorrecto. Aunque da información, su propósito principal no es solo exponer hechos, sino persuadir. -->
+- [x] B) Persuasivo o apelativo <!-- feedback: Correcto. Utiliza imperativos ("Ven", "No te pierdas") para convencer al receptor de realizar una acción. -->
+- [ ] C) Científico <!-- feedback: Incorrecto. No utiliza lenguaje especializado ni describe procesos de investigación. -->
+- [ ] D) Narrativo <!-- feedback: Incorrecto. No cuenta una historia con personajes, tiempo y espacio definidos. -->
 
 ### Explicación Pedagógica
-Identificación de la intencionalidad y el sesgo en textos históricos críticos.
+Clasificación de los textos según su intención comunicativa predominante.
 
 ---
 
-## Bloque C — Nivel D7–D8
+## Bloque C — Nivel D7–D8: Literatura y Argumentación Avanzada
 
 ---
 
-## Question 11 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v11`
-**Bloom:** Analyze
-**Competencia:** Análisis crítico
-**Context:** Editorial sobre el Lago de Atitlán.
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `GT-LEN-11-P1-lectura-001-v11`
+**Bloom:** Apply
+**Competencia:** Educación Literaria
+**Context:** Poesía de Luis Cardoza y Aragón.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"Atitlán se muere entre el desprecio institucional y la falta de conciencia ciudadana. Las cianobacterias no son el problema, son el síntoma de una sociedad que vierte sus desechos en su propio corazón."
-¿Cuál es la idea central de esta crítica?
+Luis Cardoza y Aragón afirmó: "Guatemala es una herida que yo cargo". ¿Qué interpretación es más profunda y acorde al sentimiento del autor hacia su país?
 
 ### Options
-- [ ] A) El lago está lleno de bacterias peligrosas. <!-- feedback: Incorrecto. Eso es un dato, no la idea central de la crítica social. -->
-- [x] B) La contaminación del lago es responsabilidad compartida entre el Estado y los ciudadanos. <!-- feedback: Correcto. Menciona "desprecio institucional" y "falta de conciencia ciudadana". -->
-- [ ] C) El turismo debe ser prohibido inmediatamente. <!-- feedback: Incorrecto. El texto no propone la prohibición del turismo. -->
-- [ ] D) El problema es puramente técnico y biológico. <!-- feedback: Incorrecto. Dice que lo biológico es solo un "síntoma" de lo social. -->
+- [ ] A) El autor sufría de constantes dolores físicos mientras vivía en Guatemala. <!-- feedback: Incorrecto. Es una interpretación literal errónea de una metáfora existencial y política. -->
+- [x] B) Representa el dolor causado por los problemas sociales y el exilio de su tierra. <!-- feedback: Correcto. La "herida" simboliza el vínculo afectivo doloroso con una realidad nacional difícil. -->
+- [ ] C) Sugiere que Guatemala debería tener mejores hospitales para curar a la gente. <!-- feedback: Incorrecto. No es una crítica al sistema de salud, sino una expresión lírica de identidad y sufrimiento social. -->
+- [ ] D) El autor consideraba que Guatemala era un país violento que atacaba a sus poetas. <!-- feedback: Incorrecto. Aunque hay una crítica implícita, la frase se centra en el sentimiento interno de "carga" y pertenencia. -->
 
 ### Explicación Pedagógica
-Interpretación del sentido profundo de metáforas sociales en textos de opinión.
+Análisis e interpretación de metáforas complejas en la literatura guatemalteca del siglo XX.
 
 ---
 
-## Question 12 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v12`
-**Bloom:** Evaluate
-**Competencia:** Evaluación de argumentos
-**Context:** Debate sobre la descentralización.
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `GT-LEN-11-P1-lectura-001-v12`
+**Bloom:** Apply
+**Competencia:** Educación Literaria
+**Context:** Obra de Miguel Ángel Asturias (Premio Nobel).
+**Expected_Success:** 0.60
 
 ### Enunciado
-"Centralizar todas las decisiones en la capital asfixia el desarrollo de los departamentos. Sin embargo, la descentralización sin fiscalización solo traslada la corrupción de un lugar a otro."
-¿Qué posición adopta el autor frente a la descentralización?
+En la novela "El Señor Presidente", Asturias utiliza el realismo mágico para describir una dictadura. ¿Qué recurso es fundamental en esta obra para crear esa atmósfera de pesadilla?
 
 ### Options
-- [ ] A) Un apoyo incondicional a la autonomía departamental. <!-- feedback: Incorrecto. Pone una condición ("sin fiscalización..."). -->
-- [ ] B) Un rechazo total a cualquier cambio administrativo. <!-- feedback: Incorrecto. Critica la centralización inicial. -->
-- [x] C) Un apoyo condicionado a la existencia de mecanismos de control. <!-- feedback: Correcto. Considera que se requiere fiscalización para que sea efectiva. -->
-- [ ] D) La creencia de que la capital siempre debe mandar. <!-- feedback: Incorrecto. Dice que la centralización "asfixia". -->
+- [ ] A) El uso de diálogos muy realistas y cotidianos de la gente común. <!-- feedback: Incorrecto. La obra se caracteriza precisamente por alejarse del realismo plano para usar un lenguaje onírico. -->
+- [x] B) La deformación de la realidad a través del lenguaje y las imágenes sensoriales. <!-- feedback: Correcto. El uso de la onomatopeya, el ritmo y la metáfora grotesca construye la opresión de la dictadura. -->
+- [ ] C) La inclusión de mapas y fotos reales de los presidentes de la época. <!-- feedback: Incorrecto. Es una obra de ficción literaria, no un libro de historia documental o periodismo gráfico. -->
+- [ ] D) La ausencia total de personajes que sufran o sientan miedo. <!-- feedback: Incorrecto. El miedo es el motor central de la trama y de las reacciones de los personajes. -->
 
 ### Explicación Pedagógica
-Evaluación de posturas matizadas y condicionales en textos argumentativos complejos.
+Identificación de las características del realismo mágico y el estilo de los autores fundamentales de Guatemala.
 
 ---
 
-## Question 13 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v13`
-**Bloom:** Analyze
-**Competencia:** Comprensión inferencial
-**Context:** Fragmento de testimonio sobre el conflicto armado interno.
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `GT-LEN-11-P1-lectura-001-v13`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Debates sobre la educación bilingüe.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"En la aldea, el silencio se volvió un arma. Nadie hablaba, nadie miraba, porque la palabra podía ser la diferencia entre la vida y la fosa común."
-¿Qué atmósfera describe el autor y a través de qué recurso?
+Un artículo sostiene que "la educación bilingüe en Guatemala no es un lujo, sino un derecho que fortalece la democracia". ¿Qué argumento sustenta mejor esta tesis?
 
 ### Options
-- [ ] A) Una atmósfera de paz y meditación a través del silencio. <!-- feedback: Incorrecto. El silencio se asocia con un "arma" y la "fosa común". -->
-- [x] B) Una atmósfera de terror y represión a través de la personificación del silencio. <!-- feedback: Correcto. El silencio actúa como un "arma", reflejando el miedo a hablar. -->
-- [ ] C) Una atmósfera de aburrimiento por la falta de actividades. <!-- feedback: Incorrecto. El contexto es de peligro extremo, no de tedio. -->
-- [ ] D) Una atmósfera de unidad comunitaria contra el enemigo. <!-- feedback: Incorrecto. El texto describe aislamiento y desconfianza ("Nadie hablaba"). -->
+- [ ] A) Aprender varios idiomas ayuda a conseguir trabajo en el extranjero. <!-- feedback: Incorrecto. Es un argumento pragmático individual, pero no se vincula directamente con la "democracia" o el "derecho" mencionados. -->
+- [x] B) El respeto a la lengua materna permite la participación ciudadana de todos los grupos étnicos. <!-- feedback: Correcto. Vincula directamente el idioma con el ejercicio de la ciudadanía y la inclusión en el sistema democrático. -->
+- [ ] C) Los maestros prefieren enseñar en español porque es más fácil de evaluar. <!-- feedback: Incorrecto. Esto sería un argumento en contra o una queja administrativa, no sustenta la tesis propuesta. -->
+- [ ] D) Muchos países de Europa también son bilingües y les va muy bien. <!-- feedback: Incorrecto. Es un argumento por analogía muy general que no aborda la realidad específica del derecho en Guatemala. -->
 
 ### Explicación Pedagógica
-Análisis de la construcción de significados en textos testimoniales e históricos.
+Evaluación de la solidez y pertinencia de los argumentos en relación con una tesis central.
 
 ---
 
-## Question 14 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v14`
-**Bloom:** Analyze
-**Competencia:** Cohesión y coherencia
-**Context:** Texto sobre la Reforma Universitaria.
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `GT-LEN-11-P1-lectura-001-v14`
+**Bloom:** Apply
+**Competencia:** Educación Literaria
+**Context:** La novela "La Mansión del Pájaro Serpiente" de Virgilio Rodríguez Macal.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"La educación superior requiere una reforma profunda. _______, es necesario evaluar el desempeño docente antes de asignar nuevos presupuestos."
-¿Qué conector lógico completa mejor la transición hacia una propuesta específica?
+Virgilio Rodríguez Macal es conocido por su literatura criollista. ¿Cuál es el escenario y tema predominante en su obra más famosa?
 
 ### Options
-- [ ] A) Por el contrario <!-- feedback: Incorrecto. No se opone a la idea anterior. -->
-- [ ] B) En resumidas cuentas <!-- feedback: Incorrecto. No está resumiendo, está especificando. -->
-- [x] C) En este sentido <!-- feedback: Correcto. Conecta la idea general (reforma) con un paso concreto coherente con ella. -->
-- [ ] D) Aunque <!-- feedback: Incorrecto. Introduce una concesión que no encaja aquí. -->
+- [ ] A) La vida urbana en la capital durante la Revolución de Octubre. <!-- feedback: Incorrecto. Su obra se aleja de la ciudad para enfocarse en la naturaleza y el campo. -->
+- [x] B) La selva guatemalteca, sus animales y las leyendas de los cazadores. <!-- feedback: Correcto. Macal exalta la naturaleza indómita y el conocimiento profundo de la fauna y flora nacional. -->
+- [ ] C) El viaje de los inmigrantes hacia los Estados Unidos en el siglo XXI. <!-- feedback: Incorrecto. Es un tema contemporáneo que no corresponde a la época ni al estilo criollista del autor. -->
+- [ ] D) La historia de amor entre dos príncipes mayas en la época clásica. <!-- feedback: Incorrecto. Aunque usa elementos mayas, su enfoque es sobre la selva actual y sus habitantes reales o legendarios. -->
 
 ### Explicación Pedagógica
-Uso de conectores de transición y especificación para mantener la coherencia textual.
+Reconocimiento de las temáticas y contextos de los autores del criollismo guatemalteco.
 
 ---
 
-## Question 15 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v15`
-**Bloom:** Understand
-**Competencia:** Comprensión de textos discontinuos
-**Context:** Interpretación de mapa de lenguas.
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `GT-LEN-11-P1-lectura-001-v15`
+**Bloom:** Apply
+**Competencia:** Conocimiento de la Lengua
+**Context:** Sintaxis: Oraciones compuestas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un mapa lingüístico de Guatemala muestra que el K'iche' es el idioma maya con mayor número de hablantes y cobertura geográfica. ¿Qué implicación social tiene este dato para el sistema educativo nacional?
+"Los arqueólogos que exploran las ruinas de Holmul encontraron una estela muy antigua". ¿Cuál es la función de la proposición subordinada "que exploran las ruinas de Holmul"?
 
 ### Options
-- [ ] A) Que se debe prohibir el uso del español en esas zonas. <!-- feedback: Incorrecto. La educación es bilingüe, no excluyente. -->
-- [x] B) Que el K'iche' debería ser una prioridad en los programas de Educación Bilingüe Intercultural (EBI). <!-- feedback: Correcto. Por su alcance demográfico y geográfico, requiere mayor atención. -->
-- [ ] C) Que los demás idiomas mayas están destinados a desaparecer. <!-- feedback: Incorrecto. El dato no implica la desaparición de los otros. -->
-- [ ] D) Que todos los guatemaltecos hablan K'iche'. <!-- feedback: Incorrecto. El mapa muestra que es el mayoritario entre los mayas, no la totalidad. -->
+- [ ] A) Funciona como objeto directo del verbo encontrar. <!-- feedback: Incorrecto. El objeto directo es "una estela muy antigua". -->
+- [ ] B) Es una proposición subordinada adverbial de lugar. <!-- feedback: Incorrecto. No indica dónde encontraron la estela, sino qué arqueólogos lo hicieron. -->
+- [x] C) Es una proposición subordinada adjetiva que califica al sujeto. <!-- feedback: Correcto. Actúa como un adjetivo que especifica a qué arqueólogos se refiere el texto. -->
+- [ ] D) Funciona como sujeto de la oración principal. <!-- feedback: Incorrecto. El sujeto completo es "Los arqueólogos que exploran las ruinas de Holmul", donde la proposición es solo una parte. -->
 
 ### Explicación Pedagógica
-Aplicación de datos estadísticos/geográficos a la planeación de políticas lingüísticas.
+Análisis de la función de las proposiciones subordinadas adjetivas dentro del sintagma nominal.
 
 ---
 
-## Question 16 [D7-D8]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v16`
-**Bloom:** Analyze
-**Competencia:** Análisis literario
-**Context:** Comparación entre realismo mágico y literatura indigenista.
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `GT-LEN-11-P1-lectura-001-v16`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Análisis de un ensayo de Rigoberta Menchú.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Mientras la literatura indigenista clásica buscaba denunciar la explotación del maya, el realismo mágico de Asturias busca capturar la esencia mítica de su pensamiento. ¿En qué radica la diferencia de enfoque?
+En sus discursos, Rigoberta Menchú suele usar la frase: "La paz no es solamente la ausencia de guerra". ¿Qué conclusión se extrae de esta afirmación sobre su concepto de paz?
 
 ### Options
-- [ ] A) El indigenismo es para niños y el realismo mágico para adultos. <!-- feedback: Incorrecto. Ambos son géneros complejos. -->
-- [x] B) Uno es de carácter sociopolítico y el otro de carácter estético-cosmogónico. <!-- feedback: Correcto. Denuncia vs. Mitología. -->
-- [ ] C) No hay diferencia, ambos términos significan lo mismo. <!-- feedback: Incorrecto. Son corrientes literarias distintas con objetivos diferentes. -->
-- [ ] D) El realismo mágico solo ocurre en Guatemala. <!-- feedback: Incorrecto. Es un fenómeno latinoamericano. -->
+- [ ] A) Que la guerra es necesaria para poder valorar la paz después. <!-- feedback: Incorrecto. La autora no defiende la necesidad de la guerra bajo ningún concepto. -->
+- [x] B) Que la verdadera paz requiere justicia social, educación y respeto a los derechos. <!-- feedback: Correcto. Sugiere que la paz es un concepto activo que implica condiciones de vida dignas, no solo el cese del fuego. -->
+- [ ] C) Que los tratados de paz firmados en 1996 no sirvieron para nada. <!-- feedback: Incorrecto. El enunciado es una reflexión filosófica y social más amplia, no una crítica específica a un documento. -->
+- [ ] D) Que la paz es algo imposible de alcanzar para los seres humanos. <!-- feedback: Incorrecto. El tono es de propuesta y esperanza sobre cómo construir una paz real, no de pesimismo absoluto. -->
 
 ### Explicación Pedagógica
-Diferenciación de corrientes literarias y sus objetivos comunicativos y artísticos.
+Interpretación de conceptos sociales complejos a partir de aforismos o frases célebres de figuras nacionales.
 
 ---
 
-## Bloque D — Nivel D9–D10
+## Bloque D — Nivel D9–D10: Síntesis y Comentario Crítico
 
 ---
 
-## Question 17 [D9-D10]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Evaluación crítica
-**Context:** Discurso de Rigoberta Menchú al recibir el Nobel.
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `GT-LEN-11-P1-lectura-001-v17`
+**Bloom:** Apply
+**Competencia:** Educación Literaria
+**Context:** El Popol Vuh (Libro Sagrado de los K'iche').
+**Expected_Success:** 0.60
 
 ### Enunciado
-"La paz no es solamente la ausencia de guerra; mientras haya pobreza, racismo, discriminación y exclusión difícilmente podremos alcanzar una paz verdadera."
-¿Cuál es el argumento central de la autora sobre la paz?
+En el Popol Vuh, los dioses intentan crear al hombre varias veces. Primero de lodo, luego de madera y finalmente de maíz. ¿Qué simbolismo profundo tiene el éxito final con el maíz para la cultura guatemalteca?
 
 ### Options
-- [ ] A) Que las armas son el único problema. <!-- feedback: Incorrecto. Dice que la paz es más que la falta de armas. -->
-- [x] B) Que la paz es un concepto integral que requiere justicia social y equidad. <!-- feedback: Correcto. Vincula la paz con la eliminación de problemas sociales profundos. -->
-- [ ] C) Que la paz es imposible de alcanzar en Guatemala. <!-- feedback: Incorrecto. No dice que sea imposible, sino qué se requiere para lograrla. -->
-- [ ] D) Que el racismo es menos importante que la guerra. <!-- feedback: Incorrecto. Los pone al mismo nivel de importancia para la paz. -->
+- [ ] A) Que el maíz era el producto más barato que tenían los dioses. <!-- feedback: Incorrecto. El relato no trata sobre economía, sino sobre la esencia sagrada de la vida. -->
+- [ ] B) Que la madera era demasiado dura para que el hombre pudiera pensar. <!-- feedback: Incorrecto. El hombre de madera falló porque no tenía alma ni memoria de sus creadores. -->
+- [x] C) Representa la conexión indisoluble entre la nutrición, la tierra y la esencia espiritual del ser humano. <!-- feedback: Correcto. El maíz es la base material y sagrada que permite la conciencia y el agradecimiento a los dioses. -->
+- [ ] D) Indica que los mayas solo sabían cultivar maíz y nada más. <!-- feedback: Incorrecto. Es una visión reduccionista; el relato es una cosmogonía que explica el origen del pensamiento y la cultura. -->
 
 ### Explicación Pedagógica
-Evaluación de la coherencia y profundidad de definiciones conceptuales en textos retóricos.
+Análisis de mitos de creación y su impacto en la identidad cultural y literaria de Guatemala.
 
 ---
 
-## Question 18 [D9-D10]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v18`
-**Bloom:** Analyze
-**Competencia:** Síntesis y conclusión
-**Context:** Resumen de un informe sobre migración y remesas.
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `GT-LEN-11-P1-lectura-001-v18`
+**Bloom:** Apply
+**Competencia:** Escritura Crítica
+**Context:** Planificación de un ensayo sobre la identidad nacional.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El informe señala que las remesas representan el 19% del PIB de Guatemala, superando a todas las exportaciones tradicionales. Sin embargo, esto genera una "trampa de dependencia" que desincentiva la inversión productiva local. ¿Cuál es la paradoja económica descrita?
+Para escribir un ensayo sobre "La pluriculturalidad como riqueza en la Guatemala del siglo XXI", ¿cuál sería la tesis mejor formulada?
 
 ### Options
-- [ ] A) Que Guatemala es muy rica gracias a los migrantes. <!-- feedback: Incorrecto. Ignora el lado negativo de la "trampa". -->
-- [ ] B) Que los migrantes no deberían enviar dinero. <!-- feedback: Incorrecto. El texto no juzga el envío, sino sus efectos estructurales. -->
-- [x] C) Que lo que sostiene la economía actual podría estar frenando el desarrollo futuro. <!-- feedback: Correcto. La remesa ayuda hoy pero desincentiva la inversión a largo plazo. -->
-- [ ] D) Que el café es más importante que las remesas. <!-- feedback: Incorrecto. El texto dice que las remesas lo superan en valor. -->
+- [ ] A) En Guatemala hay muchas personas que hablan diferentes idiomas mayas y viven en varios departamentos. <!-- feedback: Incorrecto. Esto es un hecho descriptivo-estadístico, no una tesis que defienda una postura para debatir. -->
+- [x] B) La integración de los saberes ancestrales en el desarrollo nacional es el motor necesario para superar la fragmentación social. <!-- feedback: Correcto. Propone una relación causa-efecto y defiende una postura clara sobre el futuro del país. -->
+- [ ] C) El turismo llega a Guatemala porque le gustan las tradiciones y los trajes típicos de los indígenas. <!-- feedback: Incorrecto. Es una observación externa sobre el turismo, muy superficial para un ensayo sobre identidad nacional profunda. -->
+- [ ] D) Rigoberta Menchú ganó el Premio Nobel de la Paz en el año 1992 y eso ayudó mucho al país. <!-- feedback: Incorrecto. Es un dato histórico, útil como ejemplo, pero no constituye una tesis general para un ensayo. -->
 
 ### Explicación Pedagógica
-Capacidad de identificar paradojas y relaciones complejas en textos socioeconómicos.
+Formulación de tesis para textos argumentativos académicos con enfoque en problemas nacionales.
 
 ---
 
-## Question 19 [D9-D10]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Evaluación de la validez
-**Context:** Texto filosófico sobre la identidad mestiza.
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `GT-LEN-11-P1-lectura-001-v19`
+**Bloom:** Apply
+**Competencia:** Comprensión Lectora
+**Context:** Crítica de arte sobre la pintura de Carlos Mérida.
+**Expected_Success:** 0.60
 
 ### Enunciado
-"Guatemala no es una nación, sino un proyecto de nación donde el diálogo entre el mundo maya y el occidental sigue siendo una tarea pendiente y, a veces, un campo de batalla."
-¿Qué visión de país propone el autor?
+Un crítico dice sobre Carlos Mérida: "Su obra es una geometría donde los cantos del Popol Vuh se vuelven líneas puras y colores planos". ¿Qué está afirmando el crítico sobre la relación entre la tradición y la modernidad en este artista?
 
 ### Options
-- [ ] A) Una visión pesimista donde nunca habrá acuerdo. <!-- feedback: Incorrecto. Habla de "proyecto" y "tarea pendiente", lo que implica posibilidad. -->
-- [x] B) Una visión de construcción constante basada en la resolución de conflictos históricos. <!-- feedback: Correcto. El país se ve como algo no terminado que requiere diálogo. -->
-- [ ] C) Una visión donde solo una cultura debe predominar. <!-- feedback: Incorrecto. Habla de "diálogo", no de imposición. -->
-- [ ] D) Una visión donde el pasado maya es irrelevante. <!-- feedback: Incorrecto. Lo pone como uno de los dos pilares del diálogo. -->
+- [ ] A) Que Mérida no sabía dibujar figuras humanas y por eso usaba reglas y compás. <!-- feedback: Incorrecto. Se ignora la intención artística de abstracción y síntesis del autor. -->
+- [ ] B) Que la pintura moderna debe alejarse totalmente de las historias antiguas. <!-- feedback: Incorrecto. Al contrario, el crítico dice que los cantos antiguos "se vuelven" líneas, hay una transformación, no una eliminación. -->
+- [x] C) Que logra traducir la esencia de la cosmovisión maya al lenguaje visual del arte abstracto moderno. <!-- feedback: Correcto. Sugiere una síntesis perfecta entre el contenido tradicional y la forma vanguardista. -->
+- [ ] D) Que los libros antiguos como el Popol Vuh son mejores que las pinturas modernas. <!-- feedback: Incorrecto. El crítico está valorando la pintura del artista por su capacidad de integrar ambos mundos, no despreciando uno. -->
 
 ### Explicación Pedagógica
-Evaluación de interpretaciones sociopolíticas y filosóficas de la realidad nacional.
+Capacidad de interpretar críticas estéticas que vinculan diferentes disciplinas (literatura y artes plásticas).
 
 ---
 
-## Question 20 [D9-D10]
-
-**ID:** `GT-LEN-11-P1-analisis-textual-001-v20`
-**Bloom:** Evaluate
-**Competencia:** Crítica intertextual
-**Context:** Análisis de la representación del indígena en la pintura y la literatura.
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `GT-LEN-11-P1-lectura-001-v20`
+**Bloom:** Apply
+**Competencia:** Escritura Crítica / Estilística
+**Context:** Adecuación de textos para la divulgación cultural.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Al comparar una pintura costumbrista que idealiza la vida en el mercado con un poema que describe el cansancio de la vendedora de tejidos, ¿qué conclusión crítica se puede establecer sobre las formas de representación del "otro"?
+Tienes el siguiente párrafo de un informe técnico: "Se ha constatado la obsolescencia de los métodos pedagógicos tradicionales frente a la diversidad lingüística del alumnado". ¿Cuál de las siguientes opciones reescribe esta idea de forma clara y atractiva para un artículo de opinión en un periódico?
 
 ### Options
-- [ ] A) Que la pintura es mejor porque tiene colores. <!-- feedback: Incorrecto. No es un juicio estético superficial. -->
-- [x] B) Que la representación varía según la intención de embellecer la realidad o de humanizar el sufrimiento. <!-- feedback: Correcto. Contrasta la idealización visual con la crudeza literaria. -->
-- [ ] C) Que nadie puede representar correctamente a los indígenas. <!-- feedback: Incorrecto. Es una generalización que el texto no sostiene. -->
-- [ ] D) Que la literatura siempre es más triste que el arte plástico. <!-- feedback: Incorrecto. Es una generalización inválida. -->
+- [ ] A) La peña ya no aprende como antes porque hablan muchos idiomas y los profes no saben qué hacer. <!-- feedback: Incorrecto. Utiliza un registro excesivamente coloquial ("la peña", "profes") inadecuado para un artículo de opinión serio. -->
+- [x] B) Los viejos métodos de enseñanza se quedan cortos ante la vibrante realidad multilingüe de nuestras aulas. <!-- feedback: Correcto. Mantiene el rigor de la idea pero usa un lenguaje más evocador y directo ("vibrante realidad"). -->
+- [ ] C) Es necesario implementar nuevas metodologías para que los niños que no saben español puedan estudiar algo. <!-- feedback: Incorrecto. El tono es un poco condescendiente y pierde la riqueza de la idea original sobre la diversidad. -->
+- [ ] D) Se deben cambiar las leyes para que los maestros enseñen bien a todos los alumnos de Guatemala. <!-- feedback: Incorrecto. Simplifica demasiado la idea, perdiendo el foco en la cuestión lingüística específica que planteaba el informe. -->
 
 ### Explicación Pedagógica
-Evaluación de las diversas miradas y discursos estéticos sobre la identidad y los sectores sociales.
+Dominio de la adecuación textual: capacidad de adaptar un mensaje técnico a un registro divulgativo eficaz.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Comunicación y Lenguaje para el ciclo diversificado en Guatemala integra el análisis textual con la riqueza literaria y cultural del país. A través de 20 preguntas que escalan en dificultad, se evalúan desde las funciones del lenguaje y la ortografía básica hasta la interpretación de autores fundamentales como Asturias, Ak'abal y Cardoza y Aragón. El enfoque busca que el estudiante no solo comprenda la gramática, sino que sea capaz de aplicarla críticamente al análisis de su realidad nacional y a la valoración de su patrimonio literario y cultural.
