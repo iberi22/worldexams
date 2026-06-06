@@ -1,5 +1,5 @@
 ---
-id: "GT-MAT-11-P1-algebra-lineal-001-MASTERY"
+id: "GT-MAT-11-P1-algebra-001-MASTERY"
 country: "guatemala"
 grado: 11
 asignatura: "matematica"
@@ -8,7 +8,7 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINEDUC"
+alignment: "CNB Guatemala + Ciclo Diversificado"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
@@ -17,438 +17,446 @@ calibration:
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Álgebra Lineal (001)
+# MASTERY Bundle — Matemática: Álgebra Lineal (GT-001)
 
-## Bloque A — Nivel D3–D4
-
----
-
-## Question 1 [D3-D4]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v1`
-**Bloom:** Remember
-**Competencia:** Utilización de herramientas matemáticas
-**Context:** Conceptos básicos de álgebra.
-
-### Enunciado
-¿Cómo se denomina a una igualdad entre dos expresiones algebraicas que contiene una o más variables?
-
-### Options
-- [ ] A) Función <!-- feedback: Incorrecto. Una función es una relación entre dos conjuntos. -->
-- [x] B) Ecuación <!-- feedback: Correcto. Una ecuación es una igualdad condicionada a ciertos valores de la variable. -->
-- [ ] C) Inecuación <!-- feedback: Incorrecto. Una inecuación es una desigualdad. -->
-- [ ] D) Polinomio <!-- feedback: Incorrecto. Un polinomio es una expresión, no necesariamente una igualdad. -->
-
-### Explicación Pedagógica
-Identificación de conceptos fundamentales del álgebra.
+## Bloque A — Nivel D3–D4: Ecuaciones y Proporcionalidad
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v2`
-**Bloom:** Understand
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Grado de una ecuación.
-
-### Enunciado
-¿Cuál es el grado de la ecuación lineal $3x + 5 = 14$?
-
-### Options
-- [x] A) Grado 1 <!-- feedback: Correcto. El exponente mayor de la variable x es 1. -->
-- [ ] B) Grado 2 <!-- feedback: Incorrecto. Una ecuación de grado 2 tendría un término con $x^2$. -->
-- [ ] C) Grado 0 <!-- feedback: Incorrecto. Una ecuación de grado 0 no contendría variables. -->
-- [ ] D) Grado 3 <!-- feedback: Incorrecto. No hay potencias cúbicas en la ecuación. -->
-
-### Explicación Pedagógica
-Reconocimiento de las características de las ecuaciones de primer grado.
-
----
-
-## Question 3 [D3-D4]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v3`
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `GT-MAT-11-P1-algebra-001-v1`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Ecuaciones lineales simples.
+**Context:** Comercio en el mercado de Chichicastenango.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Resuelva la ecuación: $2x - 8 = 12$. ¿Cuál es el valor de $x$?
+En el mercado de Chichicastenango, un comerciante vende 4 textiles típicos por el mismo precio y cobra 25 quetzales (GTQ) adicionales por el envío a la capital. Si el total cobrado fue de 625 quetzales, ¿cuál es el precio de cada textil?
 
 ### Options
-- [ ] A) 2 <!-- feedback: Incorrecto. Probablemente restaste 8 en lugar de sumarlo: $12-8=4$, $4/2=2$. -->
-- [ ] B) 4 <!-- feedback: Incorrecto. Revisa el procedimiento de despeje. -->
-- [x] C) 10 <!-- feedback: Correcto. $2x = 12 + 8 \Rightarrow 2x = 20 \Rightarrow x = 10$. -->
-- [ ] D) 20 <!-- feedback: Incorrecto. Olvidaste dividir por 2. -->
+- [x] A) 150 quetzales <!-- feedback: Correcto. Planteando la ecuación $4x + 25 = 625$, restamos 25 para obtener $4x = 600$, y al dividir entre 4 resulta $x = 150$. -->
+- [ ] B) 125 quetzales <!-- feedback: Incorrecto. Si el precio fuera 125, el total sería $4(125) + 25 = 525$, que no coincide con los 625 quetzales reportados. -->
+- [ ] C) 162.50 quetzales <!-- feedback: Incorrecto. Este valor se obtiene si no se restan los 25 quetzales del envío antes de realizar la división por 4. -->
+- [ ] D) 140 quetzales <!-- feedback: Incorrecto. Al multiplicar 140 por 4 da 560, y sumando el envío resulta en 585 quetzales, un monto menor al real. -->
 
 ### Explicación Pedagógica
-Aplicación de reglas de despeje para ecuaciones lineales de una incógnita.
+Modelado y resolución de una ecuación lineal de primer grado aplicada a una situación de intercambio comercial local.
 
 ---
 
-## Question 4 [D3-D4]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v4`
-**Bloom:** Understand
-**Competencia:** Resolución de problemas
-**Context:** Concepto de sistema de ecuaciones.
-
-### Enunciado
-¿Qué representa gráficamente la solución de un sistema de dos ecuaciones lineales con dos incógnitas en el plano cartesiano?
-
-### Options
-- [x] A) El punto donde se intersecan las dos rectas. <!-- feedback: Correcto. El punto (x,y) común a ambas rectas es la solución. -->
-- [ ] B) El área bajo las rectas. <!-- feedback: Incorrecto. Eso se relaciona con inecuaciones. -->
-- [ ] C) La suma de las pendientes. <!-- feedback: Incorrecto. Las pendientes no definen la solución directamente. -->
-- [ ] D) El origen del plano (0,0). <!-- feedback: Incorrecto. El origen solo es solución si ambas rectas pasan por él. -->
-
-### Explicación Pedagógica
-Interpretación geométrica de sistemas de ecuaciones lineales.
-
----
-
-## Bloque B — Nivel D5–D6
-
----
-
-## Question 5 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v5`
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `GT-MAT-11-P1-algebra-001-v2`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** Problema de precios en Quetzales (Q).
-
-### Enunciado
-En un mercado de Chichicastenango, 3 redes de aguacates y 2 manos de naranjas cuestan Q55. Si 2 redes de aguacates y 1 mano de naranjas cuestan Q35, ¿cuál es el precio de una red de aguacates?
-
-### Options
-- [ ] A) Q10 <!-- feedback: Incorrecto. Revisa la resolución del sistema. -->
-- [x] B) Q15 <!-- feedback: Correcto. Sea $x$ aguacates e $y$ naranjas: $3x+2y=55$ y $2x+y=35 \Rightarrow y=35-2x$. Sustituyendo: $3x+2(35-2x)=55 \Rightarrow 3x+70-4x=55 \Rightarrow -x=-15 \Rightarrow x=15$. -->
-- [ ] C) Q20 <!-- feedback: Incorrecto. Este valor no satisface las condiciones del problema. -->
-- [ ] D) Q5 <!-- feedback: Incorrecto. Este precio es demasiado bajo para los datos dados. -->
-
-### Explicación Pedagógica
-Modelización y resolución de sistemas de ecuaciones lineales 2x2.
-
----
-
-## Question 6 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v6`
-**Bloom:** Understand
 **Competencia:** Razonamiento lógico
-**Context:** Tipos de soluciones en sistemas.
+**Context:** Propiedades de las operaciones.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuándo se dice que un sistema de ecuaciones lineales es "incompatible"?
+Si resolvemos la ecuación $3(x - 4) = 18$, ¿cuál es el valor de $x$?
 
 ### Options
-- [ ] A) Cuando tiene una única solución. <!-- feedback: Incorrecto. Eso es un sistema compatible determinado. -->
-- [ ] B) Cuando tiene infinitas soluciones. <!-- feedback: Incorrecto. Eso es un sistema compatible indeterminado. -->
-- [x] C) Cuando no tiene ninguna solución. <!-- feedback: Correcto. Ocurre cuando las rectas son paralelas y no coinciden. -->
-- [ ] D) Cuando las variables son negativas. <!-- feedback: Incorrecto. El signo de las variables no define la compatibilidad. -->
+- [ ] A) 6 <!-- feedback: Incorrecto. Probablemente se dividió 18 entre 3 pero se olvidó sumar los 4 del paréntesis al final del despeje. -->
+- [x] B) 10 <!-- feedback: Correcto. Primero dividimos por 3: $x - 4 = 6$. Luego sumamos 4 a ambos lados: $x = 10$. -->
+- [ ] C) 2 <!-- feedback: Incorrecto. Error de signo; se restó 4 en lugar de sumar al pasar al otro lado de la igualdad. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. Error aritmético en el proceso de resolución de la igualdad lineal. -->
 
 ### Explicación Pedagógica
-Clasificación de sistemas de ecuaciones lineales según su número de soluciones.
+Resolución de ecuaciones lineales que involucran el uso de la propiedad distributiva o la simplificación por división directa.
 
 ---
 
-## Question 7 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v7`
-**Bloom:** Apply
-**Competencia:** Utilización de herramientas matemáticas
-**Context:** Método de determinantes (Regla de Cramer).
-
-### Enunciado
-En un sistema $2 \times 2$, si el determinante de la matriz de coeficientes ($\Delta$) es igual a 0 y los determinantes de las variables ($\Delta x, \Delta y$) son distintos de 0, ¿qué se puede concluir?
-
-### Options
-- [ ] A) El sistema tiene solución única. <!-- feedback: Incorrecto. Para solución única, $\Delta$ debe ser distinto de 0. -->
-- [x] B) El sistema no tiene solución (incompatible). <!-- feedback: Correcto. La división por cero con numeradores no nulos indica inconsistencia. -->
-- [ ] C) El sistema tiene infinitas soluciones. <!-- feedback: Incorrecto. Para infinitas soluciones, todos los determinantes deben ser 0. -->
-- [ ] D) El sistema es de grado superior. <!-- feedback: Incorrecto. Sigue siendo lineal pero sin solución. -->
-
-### Explicación Pedagógica
-Aplicación de la Regla de Cramer para analizar la naturaleza de las soluciones.
-
----
-
-## Question 8 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v8`
-**Bloom:** Analyze
-**Competencia:** Resolución de problemas
-**Context:** Matrices.
-
-### Enunciado
-Dadas las matrices $A = \begin{pmatrix} 2 & 1 \\ 0 & 3 \end{pmatrix}$ y $B = \begin{pmatrix} 1 & -1 \\ 2 & 4 \end{pmatrix}$, ¿cuál es el resultado de $A + B$?
-
-### Options
-- [x] A) $\begin{pmatrix} 3 & 0 \\ 2 & 7 \end{pmatrix}$ <!-- feedback: Correcto. Se suman los elementos en la misma posición: $(2+1, 1-1, 0+2, 3+4)$. -->
-- [ ] B) $\begin{pmatrix} 1 & 2 \\ -2 & -1 \end{pmatrix}$ <!-- feedback: Incorrecto. Probablemente restaste las matrices. -->
-- [ ] C) $\begin{pmatrix} 2 & -1 \\ 0 & 12 \end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste algunos términos en lugar de sumar. -->
-- [ ] D) $\begin{pmatrix} 3 & 2 \\ 2 & 7 \end{pmatrix}$ <!-- feedback: Incorrecto. Error en la suma del elemento de la primera fila, segunda columna: $1 + (-1) = 0$. -->
-
-### Explicación Pedagógica
-Operaciones básicas con matrices (suma).
-
----
-
-## Question 9 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v9`
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `GT-MAT-11-P1-algebra-001-v3`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
+**Context:** Escala en mapas del Lago de Atitlán.
+**Expected_Success:** 0.60
+
+### Enunciado
+Un mapa turístico del Lago de Atitlán usa una escala donde 2 centímetros representan 5 kilómetros reales. Si la distancia en el mapa entre Panajachel y Santiago Atitlán es de 6 centímetros, ¿cuántos kilómetros reales hay?
+
+### Options
+- [ ] A) 10 km <!-- feedback: Incorrecto. Solo se consideró un factor de 2, pero la relación es 5 km por cada 2 cm en el mapa. -->
+- [x] B) 15 km <!-- feedback: Correcto. Estableciendo la proporción: $2/5 = 6/x \Rightarrow 2x = 30 \Rightarrow x = 15$ km. -->
+- [ ] C) 12 km <!-- feedback: Incorrecto. Error en el planteamiento de la regla de tres o en el cálculo de la razón de proporcionalidad. -->
+- [ ] D) 30 km <!-- feedback: Incorrecto. Se multiplicaron los valores sin considerar que la unidad de referencia era de 2 centímetros, no de 1. -->
+
+### Explicación Pedagógica
+Aplicación de razones y proporciones en contextos de escalas geográficas y cartografía.
+
+---
+
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `GT-MAT-11-P1-algebra-001-v4`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Desigualdades lineales.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál es el intervalo de solución para la inecuación $2x - 8 \leq 4$?
+
+### Options
+- [x] A) $x \leq 6$ <!-- feedback: Correcto. Sumamos 8: $2x \leq 12$. Dividimos entre 2: $x \leq 6$. El valor de x puede ser 6 o cualquier número menor. -->
+- [ ] B) $x \geq 6$ <!-- feedback: Incorrecto. Se invirtió el sentido de la desigualdad sin que existiera una multiplicación o división por un número negativo. -->
+- [ ] C) $x \leq 2$ <!-- feedback: Incorrecto. Error al operar con los términos independientes; se restó 4 de 8 en lugar de sumarlos. -->
+- [ ] D) $x < 6$ <!-- feedback: Incorrecto. La desigualdad original incluye el signo de igualdad ($\leq$), por lo que el 6 debe formar parte del conjunto solución. -->
+
+### Explicación Pedagógica
+Resolución de desigualdades lineales de primer grado y representación de soluciones en formato de intervalo.
+
+---
+
+## Bloque B — Nivel D5–D6: Sistemas de Ecuaciones y Funciones
+
+---
+
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `GT-MAT-11-P1-algebra-001-v5`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Producción agrícola de café y cardamomo.
+**Expected_Success:** 0.60
+
+### Enunciado
+Un camión transporta sacos de café y de cardamomo. En total lleva 20 sacos. Si el número de sacos de café es el triple que el de cardamomo, ¿cuántos sacos de cardamomo transporta?
+
+### Options
+- [ ] A) 15 sacos <!-- feedback: Incorrecto. Este sería el número de sacos de café, ya que $3 \times 5 = 15$. La pregunta pide el cardamomo. -->
+- [x] B) 5 sacos <!-- feedback: Correcto. Sean $x$ (cardamomo) y $3x$ (café). $x + 3x = 20 \Rightarrow 4x = 20 \Rightarrow x = 5$. -->
+- [ ] C) 10 sacos <!-- feedback: Incorrecto. Si hubiera 10 de cardamomo, el total con el café (30) sería 40, no 20. -->
+- [ ] D) 4 sacos <!-- feedback: Incorrecto. Con 4 de cardamomo habría 12 de café, sumando un total de 16 sacos, no 20. -->
+
+### Explicación Pedagógica
+Modelado de problemas verbales mediante sistemas de ecuaciones lineales sencillos o ecuaciones de una variable.
+
+---
+
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `GT-MAT-11-P1-algebra-001-v6`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Pendiente de una recta.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál es la pendiente ($m$) de la recta que pasa por los puntos $A(1, 3)$ y $B(4, 12)$?
+
+### Options
+- [ ] A) 1/3 <!-- feedback: Incorrecto. Se calculó la razón inversa (cambio en x dividido cambio en y) en lugar de la pendiente correcta. -->
+- [x] B) 3 <!-- feedback: Correcto. $m = (y_2 - y_1) / (x_2 - x_1) = (12 - 3) / (4 - 1) = 9 / 3 = 3$. -->
+- [ ] C) 9 <!-- feedback: Incorrecto. Solo se calculó la diferencia de las ordenadas ($y$) sin dividir por la diferencia de las abscisas ($x$). -->
+- [ ] D) -3 <!-- feedback: Incorrecto. La recta es creciente, por lo que la pendiente debe ser positiva; hubo un error en los signos de la resta. -->
+
+### Explicación Pedagógica
+Cálculo e interpretación de la pendiente de una línea recta a partir de sus coordenadas cartesianas.
+
+---
+
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `GT-MAT-11-P1-algebra-001-v7`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Interceptos de funciones lineales.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿En qué punto corta al eje $Y$ la gráfica de la función $f(x) = -5x + 7$?
+
+### Options
+- [ ] A) $(7, 0)$ <!-- feedback: Incorrecto. Este punto estaría sobre el eje $X$. El intercepto con $Y$ ocurre cuando $x=0$. -->
+- [x] B) $(0, 7)$ <!-- feedback: Correcto. Al evaluar $f(0) = -5(0) + 7$, obtenemos $y = 7$. El punto es $(0, 7)$. -->
+- [ ] C) $(0, -5)$ <!-- feedback: Incorrecto. Se confundió la pendiente ($m = -5$) con el término independiente ($b = 7$). -->
+- [ ] D) $(1.4, 0)$ <!-- feedback: Incorrecto. Este valor corresponde al intercepto con el eje $X$ (raíz de la función). -->
+
+### Explicación Pedagógica
+Identificación de los elementos de la función lineal a partir de su ecuación en la forma pendiente-intercepto.
+
+---
+
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `GT-MAT-11-P1-algebra-001-v8`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Sistemas de ecuaciones 2x2.
+**Expected_Success:** 0.60
+
+### Enunciado
+Resuelve el siguiente sistema:
+$x + y = 10$
+$x - y = 4$
+¿Cuál es el valor de $x$?
+
+### Options
+- [ ] A) 3 <!-- feedback: Incorrecto. Este es el valor de $y$ ($7 - 3 = 4$). La pregunta pide específicamente el valor de $x$. -->
+- [x] B) 7 <!-- feedback: Correcto. Sumando ambas ecuaciones: $2x = 14 \Rightarrow x = 7$. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. Valor obtenido por un error en el procedimiento de eliminación o sustitución. -->
+- [ ] D) 14 <!-- feedback: Incorrecto. Resultado del paso intermedio de la suma de las ecuaciones antes de dividir por el coeficiente de $x$. -->
+
+### Explicación Pedagógica
+Resolución de sistemas de ecuaciones lineales de dos variables mediante el método de eliminación (suma y resta).
+
+---
+
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `GT-MAT-11-P1-algebra-001-v9`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Funciones constantes y paralelas.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál de las siguientes rectas es paralela a $y = 4x - 2$?
+
+### Options
+- [ ] A) $y = -4x + 5$ <!-- feedback: Incorrecto. Las rectas paralelas deben tener la misma pendiente; aquí el signo es opuesto. -->
+- [x] B) $y = 4x + 10$ <!-- feedback: Correcto. Ambas tienen pendiente $m = 4$, lo que garantiza que nunca se cruzarán si tienen diferente intercepto. -->
+- [ ] C) $y = \frac{1}{4}x - 2$ <!-- feedback: Incorrecto. Esta pendiente es la recíproca, no la misma, por lo que las rectas son secantes. -->
+- [ ] D) $y = -0.25x + 3$ <!-- feedback: Incorrecto. Esta sería una recta perpendicular, no paralela. -->
+
+### Explicación Pedagógica
+Identificación de condiciones geométricas (paralelismo) a partir del análisis de las pendientes en ecuaciones lineales.
+
+---
+
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `GT-MAT-11-P1-algebra-001-v10`
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Aplicaciones de la función lineal.
+**Expected_Success:** 0.60
+
+### Enunciado
+Una empresa de telefonía cobra una cuota fija de 50 quetzales al mes más 0.50 quetzales por cada minuto de llamada. ¿Cuál es la función que representa el costo mensual $C$ en términos de los minutos $x$?
+
+### Options
+- [ ] A) $C(x) = 50x + 0.50$ <!-- feedback: Incorrecto. Aquí se está multiplicando la cuota fija por los minutos, lo cual no tiene sentido económico. -->
+- [x] B) $C(x) = 0.50x + 50$ <!-- feedback: Correcto. El costo variable depende de $x$ y se le suma el cargo fijo constante. -->
+- [ ] C) $C(x) = 50.50x$ <!-- feedback: Incorrecto. Se sumaron los dos valores como si ambos dependieran de la cantidad de minutos usados. -->
+- [ ] D) $C(x) = 50 - 0.50x$ <!-- feedback: Incorrecto. La función debe ser creciente ya que a más minutos el costo aumenta, no disminuye. -->
+
+### Explicación Pedagógica
+Modelado de funciones lineales a partir de situaciones reales que distinguen entre componentes fijos y variables.
+
+---
+
+## Bloque C — Nivel D7–D8: Matrices y Determinantes
+
+---
+
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `GT-MAT-11-P1-algebra-001-v11`
+**Bloom:** Apply
+**Competencia:** Cálculo matricial
+**Context:** Operaciones con matrices 2x2.
+**Expected_Success:** 0.60
+
+### Enunciado
+Dadas las matrices $A = \begin{pmatrix} 2 & 3 \\ 1 & 4 \end{pmatrix}$ y $B = \begin{pmatrix} 0 & 1 \\ 5 & 2 \end{pmatrix}$, calcula $A + B$. ¿Cuál es el elemento en la posición $a_{21}$?
+
+### Options
+- [ ] A) 2 <!-- feedback: Incorrecto. Este es el elemento $a_{11}$ del resultado ($2+0$). -->
+- [x] B) 6 <!-- feedback: Correcto. Sumamos los elementos en la misma posición: $1 + 5 = 6$. -->
+- [ ] C) 4 <!-- feedback: Incorrecto. Este es el elemento $a_{12}$ del resultado ($3+1$). -->
+- [ ] D) 9 <!-- feedback: Incorrecto. Error al sumar los términos o confusión en la ubicación del índice de la matriz. -->
+
+### Explicación Pedagógica
+Ejecución de operaciones básicas de adición matricial e identificación de componentes por su posición (fila, columna).
+
+---
+
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `GT-MAT-11-P1-algebra-001-v12`
+**Bloom:** Apply
+**Competencia:** Cálculo matricial
+**Context:** Determinantes de segundo orden.
+**Expected_Success:** 0.60
+
+### Enunciado
+Calcula el determinante de la matriz $M = \begin{pmatrix} 5 & 2 \\ 3 & 4 \end{pmatrix}$.
+
+### Options
+- [ ] A) 26 <!-- feedback: Incorrecto. Se sumaron los productos de las diagonales en lugar de restarlos. -->
+- [x] B) 14 <!-- feedback: Correcto. $\text{det}(M) = (5 \times 4) - (2 \times 3) = 20 - 6 = 14$. -->
+- [ ] C) 20 <!-- feedback: Incorrecto. Solo se calculó el producto de la diagonal principal. -->
+- [ ] D) -14 <!-- feedback: Incorrecto. Se restó el producto de la diagonal principal del de la secundaria. -->
+
+### Explicación Pedagógica
+Cálculo del determinante de una matriz $2 \times 2$ aplicando la definición formal.
+
+---
+
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `GT-MAT-11-P1-algebra-001-v13`
+**Bloom:** Apply
+**Competencia:** Cálculo matricial
 **Context:** Multiplicación de matriz por escalar.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si la matriz $M = \begin{pmatrix} 5 & -2 \\ 10 & 0 \end{pmatrix}$, ¿cuál es el valor de $\frac{1}{5} M$?
+Si la matriz $C = \begin{pmatrix} -2 & 5 \\ 10 & 0 \end{pmatrix}$, ¿cuál es el resultado de la operación $3C$?
 
 ### Options
-- [x] A) $\begin{pmatrix} 1 & -2/5 \\ 2 & 0 \end{pmatrix}$ <!-- feedback: Correcto. Se multiplica cada elemento de la matriz por el escalar $1/5$. -->
-- [ ] B) $\begin{pmatrix} 1 & -2 \\ 2 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Olvidaste multiplicar el $-2$ por $1/5$. -->
-- [ ] C) $\begin{pmatrix} 25 & -10 \\ 50 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste por 5 en lugar de $1/5$. -->
-- [ ] D) $\begin{pmatrix} 0 & -7 \\ 5 & -5 \end{pmatrix}$ <!-- feedback: Incorrecto. Realizaste restas o sumas en lugar de multiplicación escalar. -->
+- [ ] A) $\begin{pmatrix} 1 & 8 \\ 13 & 3 \end{pmatrix}$ <!-- feedback: Incorrecto. Se sumó 3 a cada elemento en lugar de multiplicarlos. -->
+- [x] B) $\begin{pmatrix} -6 & 15 \\ 30 & 0 \end{pmatrix}$ <!-- feedback: Correcto. Cada elemento de la matriz se multiplica por el escalar 3. -->
+- [ ] C) $\begin{pmatrix} -6 & 15 \\ 13 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Se olvidó multiplicar el elemento de la segunda fila por el escalar. -->
+- [ ] D) $\begin{pmatrix} -5 & 2 \\ 7 & -3 \end{pmatrix}$ <!-- feedback: Incorrecto. Operación errónea sin relación lógica con el producto escalar. -->
 
 ### Explicación Pedagógica
-Aplicación de la multiplicación de una matriz por un número real.
+Aplicación de la propiedad del producto de una matriz por un número real (escalar).
 
 ---
 
-## Question 10 [D5-D6]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v10`
-**Bloom:** Understand
-**Competencia:** Comunicación de ideas matemáticas
-**Context:** Matriz Identidad.
-
-### Enunciado
-¿Qué característica define a una matriz identidad de orden $n$?
-
-### Options
-- [ ] A) Todos sus elementos son cero. <!-- feedback: Incorrecto. Esa es la matriz nula. -->
-- [ ] B) Todos sus elementos son uno. <!-- feedback: Incorrecto. Solo los de la diagonal principal deben ser uno. -->
-- [x] C) Es una matriz cuadrada con unos en la diagonal principal y ceros en los demás elementos. <!-- feedback: Correcto. Esta es la definición de matriz identidad. -->
-- [ ] D) Es una matriz que no tiene inversa. <!-- feedback: Incorrecto. La matriz identidad es su propia inversa. -->
-
-### Explicación Pedagógica
-Reconocimiento de matrices especiales y sus propiedades.
-
----
-
-## Bloque C — Nivel D7–D8
-
----
-
-## Question 11 [D7-D8]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v11`
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `GT-MAT-11-P1-algebra-001-v14`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** Multiplicación de matrices.
+**Competencia:** Cálculo matricial
+**Context:** Producto de matrices.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Realice el producto de matrices $C \cdot D$, donde $C = \begin{pmatrix} 1 & 2 \end{pmatrix}$ y $D = \begin{pmatrix} 3 \\ 4 \end{pmatrix}$.
+Calcula el producto de las matrices $\begin{pmatrix} 1 & 2 \end{pmatrix} \times \begin{pmatrix} 3 \\ 4 \end{pmatrix}$. ¿Cuál es el valor del escalar resultante?
 
 ### Options
-- [ ] A) $\begin{pmatrix} 3 & 4 \\ 6 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Este sería el resultado de $D \cdot C$. -->
-- [x] B) $(11)$ <!-- feedback: Correcto. El producto es una matriz $1 \times 1$: $(1 \cdot 3 + 2 \cdot 4) = (3 + 8) = (11)$. -->
-- [ ] C) $\begin{pmatrix} 3 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicaste elemento a elemento sin sumar. -->
-- [ ] D) No se pueden multiplicar. <!-- feedback: Incorrecto. Sí se puede, pues el número de columnas de $C$ (2) es igual al número de filas de $D$ (2). -->
+- [ ] A) 7 <!-- feedback: Incorrecto. Se sumaron todos los números sin realizar los productos correspondientes. -->
+- [x] B) 11 <!-- feedback: Correcto. $(1 \times 3) + (2 \times 4) = 3 + 8 = 11$. -->
+- [ ] C) $\begin{pmatrix} 3 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. El resultado del producto de una matriz fila por una columna de dimensiones compatibles es un escalar. -->
+- [ ] D) 14 <!-- feedback: Incorrecto. Error aritmético en la suma de los productos parciales. -->
 
 ### Explicación Pedagógica
-Ejecución del producto de matrices y comprensión de las dimensiones resultantes.
+Ejecución del producto punto o multiplicación de vectores (matriz fila por matriz columna).
 
 ---
 
-## Question 12 [D7-D8]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v12`
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `GT-MAT-11-P1-algebra-001-v15`
 **Bloom:** Apply
-**Competencia:** Utilización de herramientas matemáticas
-**Context:** Determinante de una matriz $2 \times 2$.
+**Competencia:** Razonamiento lógico
+**Context:** Matrices identidad.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Calcule el determinante de la matriz $A = \begin{pmatrix} 4 & -3 \\ 2 & 5 \end{pmatrix}$.
+¿Cuál de las siguientes matrices es la matriz identidad de orden 2 ($I_2$)?
 
 ### Options
-- [ ] A) 14 <!-- feedback: Incorrecto. Probablemente restaste mal los productos: $20 - 6 = 14$. Recuerda que es $ad - bc$. -->
-- [x] B) 26 <!-- feedback: Correcto. $\det(A) = (4 \cdot 5) - (-3 \cdot 2) = 20 - (-6) = 20 + 6 = 26$. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Sumaste los productos en lugar de restarlos: $20 + (-6) = 14$, y luego error adicional. -->
-- [ ] D) -14 <!-- feedback: Incorrecto. Error de signos en el cálculo. -->
+- [ ] A) $\begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix}$ <!-- feedback: Incorrecto. La matriz identidad debe tener ceros fuera de la diagonal principal. -->
+- [x] B) $\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ <!-- feedback: Correcto. Tiene unos en la diagonal principal y ceros en el resto de posiciones. -->
+- [ ] C) $\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Esta es una matriz de permutación, no la identidad (los unos están en la diagonal secundaria). -->
+- [ ] D) $\begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Falta el elemento unitario en la posición $a_{22}$. -->
 
 ### Explicación Pedagógica
-Cálculo de determinantes para matrices de segundo orden.
+Identificación de matrices especiales y sus propiedades estructurales básicas.
 
 ---
 
-## Question 13 [D7-D8]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v13`
-**Bloom:** Analyze
-**Competencia:** Resolución de problemas
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `GT-MAT-11-P1-algebra-001-v16`
+**Bloom:** Apply
+**Competencia:** Cálculo matricial
 **Context:** Inversa de una matriz.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la condición necesaria y suficiente para que una matriz cuadrada $A$ tenga inversa?
+¿Cuál es la condición necesaria para que una matriz cuadrada tenga una matriz inversa?
 
 ### Options
-- [ ] A) Que sea una matriz diagonal. <!-- feedback: Incorrecto. No todas las diagonales tienen inversa (si hay un cero en la diagonal). -->
-- [x] B) Que su determinante sea diferente de cero. <!-- feedback: Correcto. Si $\det(A) \neq 0$, la matriz es regular o no singular. -->
-- [ ] C) Que todos sus elementos sean positivos. <!-- feedback: Incorrecto. El signo de los elementos no determina la existencia de la inversa. -->
-- [ ] D) Que sea una matriz simétrica. <!-- feedback: Incorrecto. La simetría no garantiza la invertibilidad. -->
+- [ ] A) Que todos sus elementos sean positivos. <!-- feedback: Incorrecto. El signo de los elementos no influye en la existencia de la inversa. -->
+- [x] B) Que su determinante sea diferente de cero. <!-- feedback: Correcto. Si el determinante es cero, la matriz es singular y no posee inversa. -->
+- [ ] C) Que sea una matriz identidad. <!-- feedback: Incorrecto. Aunque la identidad tiene inversa, muchas otras matrices también la tienen. -->
+- [ ] D) Que la suma de sus filas sea igual a la de sus columnas. <!-- feedback: Incorrecto. Esta no es una condición matemática relacionada con la invertibilidad. -->
 
 ### Explicación Pedagógica
-Análisis de la existencia de la matriz inversa mediante el determinante.
+Comprensión del concepto de matriz regular y el papel del determinante en la existencia de la inversa.
 
 ---
 
-## Question 14 [D7-D8]
+## Bloque D — Nivel D9–D10: Álgebra Avanzada y Modelado
 
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v14`
+---
+
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `GT-MAT-11-P1-algebra-001-v17`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Inecuaciones lineales.
+**Context:** Programación lineal simple.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Resuelva la inecuación $5x - 3 > 2x + 9$. ¿Cuál es el conjunto solución?
+Un artesano de Antigua Guatemala fabrica dos tipos de máscaras. La máscara A requiere 2 horas de tallado y la B requiere 1 hora. Si dispone de un máximo de 40 horas a la semana, ¿cuál es la inecuación que representa esta restricción de tiempo?
 
 ### Options
-- [ ] A) $x > 2$ <!-- feedback: Incorrecto. Revisa el despeje: $3x > 12$. -->
-- [x] B) $x > 4$ <!-- feedback: Correcto. $5x - 2x > 9 + 3 \Rightarrow 3x > 12 \Rightarrow x > 4$. -->
-- [ ] C) $x < 4$ <!-- feedback: Incorrecto. Al dividir por 3 (positivo), el sentido de la desigualdad no cambia. -->
-- [ ] D) $x > 12$ <!-- feedback: Incorrecto. Olvidaste dividir por el coeficiente de x. -->
+- [ ] A) $x + y \leq 40$ <!-- feedback: Incorrecto. No toma en cuenta que el tiempo por máscara es diferente (2 horas para A). -->
+- [x] B) $2x + y \leq 40$ <!-- feedback: Correcto. $x$ es la cantidad de máscaras A (2h c/u) y $y$ es la cantidad de B (1h c/u). -->
+- [ ] C) $2x + y \geq 40$ <!-- feedback: Incorrecto. El signo indica un mínimo de horas, pero el enunciado dice que dispone de un máximo (límite superior). -->
+- [ ] D) $x + 2y \leq 40$ <!-- feedback: Incorrecto. Se asignó el tiempo de tallado mayor a la máscara incorrecta. -->
 
 ### Explicación Pedagógica
-Resolución de inecuaciones lineales y manejo de desigualdades.
+Modelado de restricciones en problemas de optimización mediante inecuaciones lineales.
 
 ---
 
-## Question 15 [D7-D8]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v15`
-**Bloom:** Analyze
-**Competencia:** Razonamiento lógico
-**Context:** Propiedades de los determinantes.
-
-### Enunciado
-Si se intercambian dos filas de una matriz cuadrada $A$, ¿qué le sucede al determinante de la nueva matriz?
-
-### Options
-- [ ] A) El determinante se mantiene igual. <!-- feedback: Incorrecto. Cambia de signo. -->
-- [x] B) El determinante cambia de signo. <!-- feedback: Correcto. Es una propiedad fundamental de los determinantes. -->
-- [ ] C) El determinante se vuelve cero. <!-- feedback: Incorrecto. Solo se vuelve cero si las filas son proporcionales o iguales. -->
-- [ ] D) El determinante se duplica. <!-- feedback: Incorrecto. Eso ocurre si se multiplica una fila por 2. -->
-
-### Explicación Pedagógica
-Análisis de las propiedades operacionales de los determinantes.
-
----
-
-## Question 16 [D7-D8]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v16`
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `GT-MAT-11-P1-algebra-001-v18`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** Determinante $3 \times 3$ (Regla de Sarrus).
+**Competencia:** Cálculo matricial
+**Context:** Regla de Cramer.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Calcule el determinante de la matriz $B = \begin{pmatrix} 1 & 0 & 2 \\ 3 & -1 & 0 \\ 0 & 2 & 1 \end{pmatrix}$.
+Al resolver un sistema de ecuaciones por la Regla de Cramer, el determinante principal ($\Delta$) es igual a 5 y el determinante de la variable $x$ ($\Delta x$) es igual a 20. ¿Cuál es el valor de $x$?
 
 ### Options
-- [ ] A) 5 <!-- feedback: Incorrecto. Revisa la suma de los productos diagonales. -->
-- [x] B) 9 <!-- feedback: Correcto. $(1 \cdot -1 \cdot 1 + 0 \cdot 0 \cdot 0 + 2 \cdot 3 \cdot 2) - (0 \cdot -1 \cdot 2 + 2 \cdot 0 \cdot 1 + 1 \cdot 3 \cdot 0) = (-1 + 0 + 12) - (0) = 11$. Un momento, rectificando: $(-1 + 0 + 12) - (0 + 0 + 0) = 11$. Re-calculando: Diagonales principales: $(1)(-1)(1) + (0)(0)(0) + (2)(3)(2) = -1 + 0 + 12 = 11$. Diagonales secundarias: $(0)(-1)(2) + (2)(0)(1) + (1)(3)(0) = 0$. Det = 11. (Opción corregida en pensamiento). -->
-- [ ] C) 11 <!-- feedback: Correcto. (Nota: Ajustado para que 11 sea la correcta tras revisión). -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Error en los productos. -->
+- [ ] A) 100 <!-- feedback: Incorrecto. Se multiplicaron los determinantes en lugar de dividirlos. -->
+- [x] B) 4 <!-- feedback: Correcto. Según la regla de Cramer, $x = \Delta x / \Delta = 20 / 5 = 4$. -->
+- [ ] C) 0.25 <!-- feedback: Incorrecto. Se realizó la división inversa ($\Delta / \Delta x$). -->
+- [ ] D) 15 <!-- feedback: Incorrecto. Se restaron los valores en lugar de aplicar la razón correspondiente. -->
 
 ### Explicación Pedagógica
-Cálculo de determinantes de tercer orden mediante métodos clásicos.
+Aplicación de la Regla de Cramer para la resolución de sistemas de ecuaciones lineales.
 
 ---
 
-## Bloque D — Nivel D9–D10
-
----
-
-## Question 17 [D9-D10]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Resolución de problemas
-**Context:** Programación Lineal (Contexto agrícola).
-
-### Enunciado
-Un agricultor de Quetzaltenango quiere maximizar sus ingresos $Z = 50x + 40y$ sujetos a las restricciones: $x + y \leq 10$, $2x + y \leq 15$, $x \geq 0, y \geq 0$. ¿En qué punto se encuentra el valor máximo?
-
-### Options
-- [ ] A) (0, 10) <!-- feedback: Incorrecto. $Z = 400$. -->
-- [ ] B) (7.5, 0) <!-- feedback: Incorrecto. $Z = 375$. -->
-- [x] C) (5, 5) <!-- feedback: Correcto. Punto de intersección: $2x+y=15$ y $x+y=10 \Rightarrow x=5, y=5$. $Z = 50(5) + 40(5) = 250 + 200 = 450$. -->
-- [ ] D) (0, 0) <!-- feedback: Incorrecto. Este es el punto de ingreso mínimo (0). -->
-
-### Explicación Pedagógica
-Evaluación de funciones objetivo en regiones factibles para la toma de decisiones óptimas.
-
----
-
-## Question 18 [D9-D10]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v18`
-**Bloom:** Analyze
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `GT-MAT-11-P1-algebra-001-v19`
+**Bloom:** Apply
 **Competencia:** Razonamiento lógico
-**Context:** Dependencia lineal.
+**Context:** Consistencia de sistemas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué se puede afirmar sobre los vectores $v_1 = (1, 2)$ y $v_2 = (3, 6)$ en $\mathbb{R}^2$?
+Si un sistema de dos ecuaciones lineales con dos variables tiene determinantes $\Delta = 0$ y $\Delta x = 12$, ¿qué podemos concluir sobre el sistema?
 
 ### Options
-- [ ] A) Son linealmente independientes. <!-- feedback: Incorrecto. Uno es múltiplo del otro. -->
-- [x] B) Son linealmente dependientes. <!-- feedback: Correcto. Notamos que $v_2 = 3v_1$. -->
-- [ ] C) Son ortogonales (perpendiculares). <!-- feedback: Incorrecto. Su producto escalar no es cero ($1\cdot 3 + 2\cdot 6 = 15$). -->
-- [ ] D) Forman una base para $\mathbb{R}^2$. <!-- feedback: Incorrecto. Dos vectores en $\mathbb{R}^2$ forman base solo si son independientes. -->
+- [ ] A) Tiene una solución única. <!-- feedback: Incorrecto. Para tener solución única el determinante principal ($\Delta$) debe ser distinto de cero. -->
+- [ ] B) Tiene infinitas soluciones. <!-- feedback: Incorrecto. Para infinitas soluciones, todos los determinantes ($\Delta$, $\Delta x$, $\Delta y$) deberían ser cero. -->
+- [x] C) Es un sistema incompatible (no tiene solución). <!-- feedback: Correcto. Cuando el determinante principal es cero pero los de las variables no, las rectas son paralelas y no hay intersección. -->
+- [ ] D) El valor de $x$ es cero. <!-- feedback: Incorrecto. La división por cero no está definida y no indica que la variable sea nula. -->
 
 ### Explicación Pedagógica
-Análisis de la relación entre vectores y el concepto de dependencia lineal.
+Evaluación de la naturaleza de las soluciones de un sistema de ecuaciones lineales a partir de sus determinantes.
 
 ---
 
-## Question 19 [D9-D10]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Resolución de problemas
-**Context:** Rango de una matriz.
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `GT-MAT-11-P1-algebra-001-v20`
+**Bloom:** Apply
+**Competencia:** Cálculo matricial
+**Context:** Determinante de matrices 3x3.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el rango de la matriz $R = \begin{pmatrix} 1 & 2 & 3 \\ 2 & 4 & 6 \\ 0 & 1 & 1 \end{pmatrix}$?
+Calcula el determinante de la matriz $\begin{pmatrix} 1 & 0 & 0 \\ 4 & 2 & 0 \\ 7 & 5 & 3 \end{pmatrix}$.
 
 ### Options
-- [ ] A) Rango 3 <!-- feedback: Incorrecto. Las dos primeras filas son proporcionales. -->
-- [x] B) Rango 2 <!-- feedback: Correcto. Solo hay dos filas linealmente independientes (la 1 y la 3, o la 2 y la 3). -->
-- [ ] C) Rango 1 <!-- feedback: Incorrecto. La tercera fila no es múltiplo de las otras. -->
-- [ ] D) Rango 0 <!-- feedback: Incorrecto. Solo la matriz nula tiene rango 0. -->
+- [ ] A) 0 <!-- feedback: Incorrecto. Aunque hay ceros, la matriz es triangular inferior y su determinante no es nulo. -->
+- [x] B) 6 <!-- feedback: Correcto. Para una matriz triangular, el determinante es el producto de los elementos de la diagonal principal: $1 \times 2 \times 3 = 6$. -->
+- [ ] C) 14 <!-- feedback: Incorrecto. Se sumaron los elementos de la diagonal en lugar de multiplicarlos. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. Error en el cálculo aritmético del producto de la diagonal. -->
 
 ### Explicación Pedagógica
-Evaluación del número de filas linealmente independientes en una matriz.
+Propiedades de los determinantes: cálculo simplificado para matrices triangulares.
 
 ---
 
-## Question 20 [D9-D10]
-
-**ID:** `GT-MAT-11-P1-algebra-lineal-001-v20`
-**Bloom:** Create
-**Competencia:** Utilización de herramientas matemáticas
-**Context:** Valores propios (Eigenvalues).
-
-### Enunciado
-Determine los valores propios ($\lambda$) de la matriz $A = \begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}$.
-
-### Options
-- [x] A) $\lambda_1 = 3, \lambda_2 = 2$ <!-- feedback: Correcto. En una matriz diagonal, los valores propios son los elementos de la diagonal. -->
-- [ ] B) $\lambda_1 = 1, \lambda_2 = 1$ <!-- feedback: Incorrecto. No corresponden a la diagonal. -->
-- [ ] C) $\lambda_1 = 5, \lambda_2 = 6$ <!-- feedback: Incorrecto. Estos son la suma y el producto de los valores. -->
-- [ ] D) No tiene valores propios reales. <!-- feedback: Incorrecto. Todas las matrices diagonales reales tienen valores propios reales. -->
-
-### Explicación Pedagógica
-Identificación de valores propios en matrices especiales.
+### Explicación Pedagógica Final
+Este bundle de Álgebra Lineal para 5to Bachillerato en Guatemala ha sido diseñado siguiendo el Currículo Nacional Base (CNB). El contenido progresa desde la resolución de ecuaciones lineales y proporciones aplicadas al comercio y geografía local, hasta el manejo avanzado de matrices y sistemas de ecuaciones mediante determinantes. Se enfatiza el desarrollo de competencias de razonamiento lógico y resolución de problemas, preparando al estudiante para las exigencias matemáticas del nivel universitario y el mundo laboral técnico.
