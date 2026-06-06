@@ -1,5 +1,5 @@
 ---
-id: "GT-CIE-11-P1-ecosistemas-001-MASTERY"
+id: "GT-CIE-11-P1-ciencias-001-MASTERY"
 country: "guatemala"
 grado: 11
 asignatura: "ciencias-naturales"
@@ -8,447 +8,451 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINEDUC"
+alignment: "CNB Guatemala + Ciclo Diversificado"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.60
+  expected_success_rate: 0.58
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Ecosistemas (001)
+# MASTERY Bundle — Ciencias Naturales: Ecosistemas (GT-001)
 
-## Bloque A — Nivel D3–D4
+## Bloque A — Nivel D3–D4: Ecología y Biodiversidad
 
 ---
 
-## Question 1 [D3-D4]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v1`
-**Bloom:** Remember
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Definición de ecosistema.
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `GT-CIE-11-P1-ciencias-001-v1`
+**Bloom:** Apply
+**Competencia:** Comprensión de fenómenos naturales
+**Context:** Biodiversidad de la Reserva de la Biosfera Maya.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cómo se denomina al conjunto de seres vivos (comunidad) que interactúan entre sí y con los elementos no vivos (ambiente físico) en un lugar determinado?
+Guatemala es considerada un país megadiverso. ¿Cómo se denomina al conjunto de seres vivos de diferentes especies que conviven e interactúan en un área determinada de la selva de Petén?
 
 ### Options
-- [ ] A) Población <!-- feedback: Incorrecto. Una población es el grupo de individuos de la misma especie. -->
-- [x] B) Ecosistema <!-- feedback: Correcto. Incluye tanto los factores bióticos como los abióticos y sus interacciones. -->
-- [ ] C) Biosfera <!-- feedback: Incorrecto. La biosfera es el conjunto de todos los ecosistemas del planeta. -->
-- [ ] D) Bioma <!-- feedback: Incorrecto. Un bioma es una región geográfica grande con clima y vegetación similares. -->
+- [ ] A) Población <!-- feedback: Incorrecto. Una población incluye solo individuos de la misma especie; en la selva conviven múltiples especies. -->
+- [x] B) Comunidad o Biocenosis <!-- feedback: Correcto. La comunidad biótica está formada por todas las poblaciones de distintas especies que comparten un hábitat. -->
+- [ ] C) Ecosistema <!-- feedback: Incorrecto. El ecosistema incluye tanto a los seres vivos (comunidad) como a los factores abióticos (suelo, clima, agua). -->
+- [ ] D) Bioma <!-- feedback: Incorrecto. El bioma es una unidad geográfica mucho más grande con climas y vegetación similares a escala continental. -->
 
 ### Explicación Pedagógica
-Identificación de los niveles de organización ecológica.
+Identificación de los niveles de organización ecológica: distinción entre población, comunidad y ecosistema.
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v2`
-**Bloom:** Understand
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Factores abióticos.
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `GT-CIE-11-P1-ciencias-001-v2`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** Adaptaciones en el Corredor Seco.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de los siguientes es un factor abiótico fundamental en los ecosistemas de la selva de Petén?
-
+En el Corredor Seco de Guatemala, las plantas han desarrollado adaptaciones para conservar agua. ¿Cuál de los siguientes es un factor
 ### Options
-- [ ] A) Jaguares <!-- feedback: Incorrecto. Los jaguares son seres vivos (factor biótico). -->
-- [x] B) Humedad relativa <!-- feedback: Correcto. La humedad es un componente físico-químico del ambiente. -->
-- [ ] C) Árboles de Ceiba <!-- feedback: Incorrecto. La Ceiba es un organismo vivo. -->
-- [ ] D) Hongos descomponedores <!-- feedback: Incorrecto. Los hongos son seres vivos. -->
+- [ ] A) La presencia de cabras pastando. <!-- feedback: Incorrecto. Las cabras son seres vivos, por lo tanto, representan un factor biótico. -->
+- [ ] B) La competencia entre arbustos espinosos. <!-- feedback: Incorrecto. La interacción entre organismos es un factor biótico. -->
+- [x] C) La escasez de precipitaciones (lluvia). <!-- feedback: Correcto. El agua, la temperatura y el suelo son componentes físicos y químicos no vivos (abióticos). -->
+- [ ] D) Los microorganismos descomponedores del suelo. <!-- feedback: Incorrecto. Aunque están en el suelo, las bacterias y hongos son componentes vivos (bióticos). -->
 
 ### Explicación Pedagógica
-Diferenciación entre componentes bióticos y abióticos del ecosistema.
+Diferenciación entre factores bióticos y abióticos en un ecosistema terrestre específico.
 
 ---
 
-## Question 3 [D3-D4]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v3`
-**Bloom:** Remember
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Cadena alimenticia.
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `GT-CIE-11-P1-ciencias-001-v3`
+**Bloom:** Apply
+**Competencia:** Comprensión de fenómenos naturales
+**Context:** Relaciones alimentarias en el Lago de Atitlán.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En una cadena trófica, ¿qué organismo ocupa siempre el primer nivel productivo?
+En la cadena alimentaria del Lago de Atitlán, las algas son consumidas por pequeños peces. ¿Qué papel ecológico desempeñan las algas en este sistema?
 
 ### Options
-- [ ] A) Consumidor primario <!-- feedback: Incorrecto. Los consumidores ocupan niveles superiores. -->
-- [x] B) Productor (Autótrofo) <!-- feedback: Correcto. Transforman energía lumínica o química en materia orgánica. -->
-- [ ] C) Descomponedor <!-- feedback: Incorrecto. Los descomponedores actúan sobre todos los niveles. -->
-- [ ] D) Depredador tope <!-- feedback: Incorrecto. Se encuentra en el nivel más alto de la cadena. -->
+- [ ] A) Consumidores primarios <!-- feedback: Incorrecto. Los consumidores primarios son los animales que comen plantas o algas. -->
+- [x] B) Productores primarios <!-- feedback: Correcto. Las algas realizan fotosíntesis y transforman la energía solar en energía química, siendo la base de la cadena. -->
+- [ ] C) Descomponedores <!-- feedback: Incorrecto. Los descomponedores (bacterias/hongos) degradan la materia orgánica muerta, no producen energía de la luz. -->
+- [ ] D) Consumidores secundarios <!-- feedback: Incorrecto. Los consumidores secundarios son carnívoros que se alimentan de herbívoros. -->
 
 ### Explicación Pedagógica
-Reconocimiento de la estructura de los niveles tróficos.
+Comprensión de los niveles tróficos y la función de los organismos autótrofos en el flujo de energía.
 
 ---
 
-## Question 4 [D3-D4]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v4`
-**Bloom:** Understand
-**Competencia:** Explicación de fenómenos
-**Context:** Fotosíntesis y energía.
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `GT-CIE-11-P1-ciencias-001-v4`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** El Quetzal y su hábitat.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la fuente primaria de energía para casi todos los ecosistemas terrestres en Guatemala?
+El Quetzal (*Pharomachrus mocinno*) vive principalmente en los bosques nubosos de Guatemala. ¿Cómo se define el "nicho ecológico" de esta ave nacional?
 
 ### Options
-- [ ] A) El calor volcánico <!-- feedback: Incorrecto. Solo es fuente para algunos ecosistemas muy específicos. -->
-- [x] B) La energía solar <!-- feedback: Correcto. El sol provee la energía que los productores captan para iniciar el flujo energético. -->
-- [ ] C) El agua de lluvia <!-- feedback: Incorrecto. El agua es necesaria para la vida, pero no es la fuente de energía metabólica. -->
-- [ ] D) Los minerales del suelo <!-- feedback: Incorrecto. Son nutrientes, pero no la fuente primaria de energía. -->
+- [ ] A) El lugar físico exacto donde construye su nido. <!-- feedback: Incorrecto. El lugar físico se denomina hábitat, no nicho. -->
+- [x] B) La función que cumple en el bosque, como comer frutos y dispersar semillas. <!-- feedback: Correcto. El nicho es el "oficio" o papel biológico del organismo, incluyendo su alimentación y relaciones. -->
+- [ ] C) El conjunto de todos los quetzales que viven en la Sierra de las Minas. <!-- feedback: Incorrecto. Eso se define como una población. -->
+- [ ] D) El tipo de clima templado y húmedo que prefiere. <!-- feedback: Incorrecto. El clima es un factor ambiental del hábitat. -->
 
 ### Explicación Pedagógica
-Identificación del origen del flujo de energía en la biosfera.
+Distinción conceptual entre hábitat (donde vive) y nicho ecológico (qué hace y cómo interactúa).
 
 ---
 
-## Bloque B — Nivel D5–D6
+## Bloque B — Nivel D5–D6: Procesos Biológicos y Energéticos
 
 ---
 
-## Question 5 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v5`
-**Bloom:** Understand
-**Competencia:** Aplicación de conocimientos
-**Context:** Relaciones interespecíficas.
-
-### Enunciado
-Un ave que se alimenta de los parásitos de la piel de un venado en la Sierra de las Minas está estableciendo una relación de:
-
-### Options
-- [ ] A) Parasitismo <!-- feedback: Incorrecto. En el parasitismo uno se beneficia y el otro se perjudica; aquí ambos se benefician. -->
-- [x] B) Mutualismo <!-- feedback: Correcto. Ambos organismos obtienen un beneficio de la interacción. -->
-- [ ] C) Comensalismo <!-- feedback: Incorrecto. En el comensalismo uno se beneficia y al otro le es indiferente. -->
-- [ ] D) Competencia <!-- feedback: Incorrecto. No están luchando por el mismo recurso limitado. -->
-
-### Explicación Pedagógica
-Identificación y clasificación de interacciones biológicas en la comunidad.
-
----
-
-## Question 6 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v6`
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `GT-CIE-11-P1-ciencias-001-v5`
 **Bloom:** Apply
 **Competencia:** Explicación de fenómenos
-**Context:** Flujo de energía (Regla del 10%).
+**Context:** Fotosíntesis y respiración en el bosque tropical.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si un productor capta 10,000 unidades de energía, ¿cuánta energía aproximadamente estará disponible para el consumidor secundario?
+Durante el día, un árbol de ceiba en la selva petenera realiza tanto fotosíntesis como respiración celular. ¿Cuál es la diferencia principal en el intercambio de gases entre estos dos procesos?
 
 ### Options
-- [ ] A) 1,000 unidades <!-- feedback: Incorrecto. Esto es lo que recibe el consumidor primario. -->
-- [x] B) 100 unidades <!-- feedback: Correcto. Según la regla del 10%, cada nivel recibe el 10% del anterior: 10,000 -> 1,000 -> 100. -->
-- [ ] C) 10,000 unidades <!-- feedback: Incorrecto. La energía se pierde en cada nivel por calor y procesos metabólicos. -->
-- [ ] D) 10 unidades <!-- feedback: Incorrecto. Esto sería para el consumidor terciario. -->
+- [ ] A) Ambos procesos consumen oxígeno y liberan dióxido de carbono. <!-- feedback: Incorrecto. La fotosíntesis consume $CO_2$ y libera oxígeno. -->
+- [x] B) La fotosíntesis consume $CO_2$ y libera $O_2$, mientras la respiración consume $O_2$ y libera $CO_2$. <!-- feedback: Correcto. Son procesos complementarios; la fotosíntesis fabrica azúcares y la respiración libera su energía. -->
+- [ ] C) La respiración solo ocurre de noche cuando no hay luz solar. <!-- feedback: Incorrecto. La respiración celular es constante las 24 horas para mantener viva a la célula. -->
+- [ ] D) La fotosíntesis ocurre en las mitocondrias y la respiración en los cloroplastos. <!-- feedback: Incorrecto. Las funciones están invertidas; la fotosíntesis es en cloroplastos y la respiración en mitocondrias. -->
 
 ### Explicación Pedagógica
-Aplicación de las leyes de la termodinámica al flujo energético en los ecosistemas.
+Análisis comparativo de los procesos bioenergéticos fundamentales en las células vegetales.
 
 ---
 
-## Question 7 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v7`
-**Bloom:** Understand
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Ciclo del Carbono.
-
-### Enunciado
-¿Cuál es el proceso biológico que retira el Dióxido de Carbono ($CO_2$) de la atmósfera y lo incorpora a la biomasa?
-
-### Options
-- [ ] A) Respiración celular <!-- feedback: Incorrecto. La respiración libera $CO_2$ a la atmósfera. -->
-- [ ] B) Combustión <!-- feedback: Incorrecto. La combustión libera $CO_2$. -->
-- [x] C) Fotosíntesis <!-- feedback: Correcto. Los organismos autótrofos fijan el carbono atmosférico en moléculas orgánicas. -->
-- [ ] D) Descomposición <!-- feedback: Incorrecto. La descomposición libera carbono al suelo y la atmósfera. -->
-
-### Explicación Pedagógica
-Comprensión de los mecanismos de intercambio de materia en los ciclos biogeoquímicos.
-
----
-
-## Question 8 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v8`
-**Bloom:** Understand
-**Competencia:** Explicación de fenómenos
-**Context:** Sucesión ecológica.
-
-### Enunciado
-Después de una erupción del volcán de Fuego que deja el suelo cubierto de lava nueva, ¿qué tipo de sucesión ecológica se iniciará?
-
-### Options
-- [x] A) Sucesión primaria <!-- feedback: Correcto. Se inicia en un área donde nunca ha habido vida o donde esta fue totalmente eliminada (roca desnuda). -->
-- [ ] B) Sucesión secundaria <!-- feedback: Incorrecto. Esta ocurre cuando ya existe un suelo formado tras un disturbio menor. -->
-- [ ] C) Sucesión terciaria <!-- feedback: Incorrecto. Ese término no existe en ecología estándar. -->
-- [ ] D) Clímax <!-- feedback: Incorrecto. El clímax es el estado final de estabilidad, no el inicio. -->
-
-### Explicación Pedagógica
-Diferenciación de los procesos de colonización y desarrollo de comunidades.
-
----
-
-## Question 9 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v9`
-**Bloom:** Understand
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Biodiversidad en Guatemala.
-
-### Enunciado
-Guatemala es considerado un país "Megadiverso" principalmente debido a:
-
-### Options
-- [ ] A) Su gran extensión territorial. <!-- feedback: Incorrecto. Guatemala es pequeña comparada con otros países megadiversos. -->
-- [x] B) Su variedad de microclimas, topografía y ser un puente biológico entre Norte y Suramérica. <!-- feedback: Correcto. La diversidad de hábitats permite una enorme variedad de especies. -->
-- [ ] C) Tener la mayor cantidad de volcanes activos del mundo. <!-- feedback: Incorrecto. Aunque influyen, no es la razón principal de la biodiversidad biológica. -->
-- [ ] D) Su clima exclusivamente tropical en todo el territorio. <!-- feedback: Incorrecto. El país tiene climas templados y fríos en el altiplano. -->
-
-### Explicación Pedagógica
-Reconocimiento de los factores geográficos y biológicos que sustentan la riqueza natural del país.
-
----
-
-## Question 10 [D5-D6]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v10`
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `GT-CIE-11-P1-ciencias-001-v6`
 **Bloom:** Apply
-**Competencia:** Análisis de problemas ambientales
-**Context:** Especies invasoras.
+**Competencia:** Uso del conocimiento científico
+**Context:** Ciclo del agua y deforestación.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La introducción del Pez León en las costas del Caribe guatemalteco es una amenaza para el ecosistema porque:
+La deforestación masiva en las montañas de Guatemala afecta el ciclo hidrológico local. ¿Cuál es el proceso biológico por el cual los árboles liberan vapor de agua a la atmósfera, contribuyendo a la formación de nubes?
 
 ### Options
-- [ ] A) Ayuda a limpiar el arrecife de algas. <!-- feedback: Incorrecto. Es un depredador voraz. -->
-- [x] B) Carece de depredadores naturales y compite con las especies nativas por recursos. <!-- feedback: Correcto. Las especies invasoras alteran el equilibrio trófico. -->
-- [ ] C) Provee una nueva fuente de alimento para todos los peces. <!-- feedback: Incorrecto. Al contrario, se come a los peces pequeños nativos. -->
-- [ ] D) Atrae más turismo de buceo. <!-- feedback: Incorrecto. Aunque ocurra, el impacto ecológico es negativo. -->
+- [ ] A) Condensación <!-- feedback: Incorrecto. La condensación es el paso de gas a líquido, lo que ocurre cuando se forman las nubes. -->
+- [ ] B) Infiltración <!-- feedback: Incorrecto. La infiltración es el paso del agua desde la superficie hacia el interior del suelo. -->
+- [x] C) Transpiración <!-- feedback: Correcto. Las plantas pierden agua en forma de vapor a través de los estomas de sus hojas. -->
+- [ ] D) Precipitación <!-- feedback: Incorrecto. La precipitación es la caída de agua desde la atmósfera (lluvia, granizo). -->
 
 ### Explicación Pedagógica
-Análisis del impacto de las especies exóticas invasoras en la estabilidad ecológica.
+Comprensión del papel de los seres vivos en los ciclos biogeoquímicos, específicamente en el ciclo del agua.
 
 ---
 
-## Bloque C — Nivel D7–D8
-
----
-
-## Question 11 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v11`
-**Bloom:** Analyze
-**Competencia:** Explicación de fenómenos
-**Context:** Nicho ecológico vs. Hábitat.
-
-### Enunciado
-Mientras que el hábitat del Quetzal es el bosque nuboso, su nicho ecológico se define por:
-
-### Options
-- [ ] A) La ubicación geográfica de la Sierra de las Minas. <!-- feedback: Incorrecto. Eso es parte de su hábitat. -->
-- [x] B) Su rol como dispersor de semillas de árboles de aguacatillo y su posición en la cadena trófica. <!-- feedback: Correcto. El nicho es la función o "profesión" de la especie en el ecosistema. -->
-- [ ] C) La temperatura y humedad del bosque. <!-- feedback: Incorrecto. Estos son factores abióticos del hábitat. -->
-- [ ] D) La altitud sobre el nivel del mar donde vive. <!-- feedback: Incorrecto. Es una característica del hábitat. -->
-
-### Explicación Pedagógica
-Diferenciación conceptual entre el lugar donde vive una especie y su función biológica.
-
----
-
-## Question 12 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v12`
-**Bloom:** Analyze
-**Competencia:** Explicación de fenómenos
-**Context:** Ciclo del Nitrógeno.
-
-### Enunciado
-¿Cuál es el papel fundamental de las bacterias del género *Rhizobium*, presentes en las raíces de leguminosas (como el frijol), en el ciclo del nitrógeno?
-
-### Options
-- [ ] A) Convertir nitritos en nitratos. <!-- feedback: Incorrecto. Eso lo hacen las bacterias nitrificantes. -->
-- [ ] B) Liberar nitrógeno gaseoso a la atmósfera. <!-- feedback: Incorrecto. Eso es la desnitrificación. -->
-- [x] C) Fijar el nitrógeno atmosférico para hacerlo asimilable por las plantas. <!-- feedback: Correcto. Es un proceso de simbiosis vital para la fertilidad del suelo. -->
-- [ ] D) Descomponer materia orgánica muerta. <!-- feedback: Incorrecto. Esa es función de descomponedores generales. -->
-
-### Explicación Pedagógica
-Análisis de los procesos microbiológicos esenciales para la nutrición de los ecosistemas.
-
----
-
-## Question 13 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v13`
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `GT-CIE-11-P1-ciencias-001-v7`
 **Bloom:** Apply
-**Competencia:** Análisis de problemas ambientales
-**Context:** Eutrofización.
-
-### Enunciado
-El exceso de fertilizantes agrícolas que llega al Lago de Amatitlán provoca un crecimiento desmedido de algas. ¿Cuál es la consecuencia final más grave para la fauna acuática?
-
-### Options
-- [ ] A) Un aumento exagerado de oxígeno en el agua. <!-- feedback: Incorrecto. El oxígeno se agota. -->
-- [x] B) La disminución drástica de oxígeno disuelto debido a la descomposición de las algas muertas. <!-- feedback: Correcto. Las bacterias consumen el oxígeno al descomponer la biomasa algal, asfixiando a los peces. -->
-- [ ] C) El agua se vuelve más transparente. <!-- feedback: Incorrecto. Se vuelve turbia y verde. -->
-- [ ] D) Los peces tienen más comida disponible. <!-- feedback: Incorrecto. La mayoría de estas algas no son alimento adecuado y el ambiente se vuelve tóxico. -->
-
-### Explicación Pedagógica
-Análisis del proceso de eutrofización y sus efectos en la biodiversidad acuática.
-
----
-
-## Question 14 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v14`
-**Bloom:** Analyze
 **Competencia:** Explicación de fenómenos
-**Context:** Dinámica de poblaciones.
+**Context:** Relaciones de simbiosis.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si en un ecosistema se eliminan a todos los depredadores tope (como el jaguar), ¿qué efecto en cascada es más probable observar?
+En las raíces de muchas plantas leguminosas en Guatemala (como el frijol), viven bacterias del género *Rhizobium* que fijan nitrógeno para la planta, mientras esta les da refugio y azúcares. ¿Cómo se clasifica esta relación?
 
 ### Options
-- [ ] A) Un aumento en la biodiversidad total. <!-- feedback: Incorrecto. Suele disminuir por competencia desmedida. -->
-- [x] B) Un crecimiento descontrolado de los herbívoros que llevaría a la sobreexplotación de la vegetación. <!-- feedback: Correcto. Se pierde el control "top-down" del ecosistema. -->
-- [ ] C) Los herbívoros dejarán de reproducirse. <!-- feedback: Incorrecto. Al no haber depredación, se reproducirán más. -->
-- [ ] D) El ecosistema se volverá más estable. <!-- feedback: Incorrecto. La pérdida de un nivel trófico genera inestabilidad. -->
+- [ ] A) Parasitismo <!-- feedback: Incorrecto. En el parasitismo un organismo se beneficia dañando al otro. -->
+- [x] B) Mutualismo <!-- feedback: Correcto. Ambos organismos obtienen un beneficio vital de su interacción. -->
+- [ ] C) Comensalismo <!-- feedback: Incorrecto. En el comensalismo uno se beneficia y el otro es indiferente. -->
+- [ ] D) Depredación <!-- feedback: Incorrecto. La depredación implica que un organismo mata a otro para alimentarse. -->
 
 ### Explicación Pedagógica
-Comprensión de las interdependencias tróficas y el papel de los reguladores biológicos.
+Identificación y aplicación de los tipos de interacciones biológicas interespecíficas.
 
 ---
 
-## Question 15 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v15`
-**Bloom:** Analyze
-**Competencia:** Explicación de fenómenos
-**Context:** Adaptaciones biológicas.
-
-### Enunciado
-Muchos árboles en el corredor seco de Guatemala tienen hojas pequeñas, cerosas o espinas. Estas adaptaciones tienen como fin primordial:
-
-### Options
-- [ ] A) Facilitar la captura de energía solar. <!-- feedback: Incorrecto. Las hojas pequeñas captan menos luz. -->
-- [x] B) Reducir la pérdida de agua por transpiración en ambientes áridos. <!-- feedback: Correcto. Son adaptaciones xerófitas para sobrevivir a la escasez de agua. -->
-- [ ] C) Atraer a una mayor cantidad de polinizadores. <!-- feedback: Incorrecto. Los polinizadores son atraídos por flores, no por el tipo de hoja. -->
-- [ ] D) Protegerse de las bajas temperaturas nocturnas. <!-- feedback: Incorrecto. El problema principal es la sequedad y el calor. -->
-
-### Explicación Pedagógica
-Relación entre las características morfológicas de los organismos y los factores limitantes del ambiente.
-
----
-
-## Question 16 [D7-D8]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v16`
-**Bloom:** Understand
-**Competencia:** Comprensión de conceptos científicos
-**Context:** Biomas de Guatemala.
-
-### Enunciado
-¿Cuál es el bioma caracterizado por alta pluviosidad, temperaturas constantes y una estratificación vertical compleja de la vegetación, típico de Izabal?
-
-### Options
-- [ ] A) Bosque de Montaña <!-- feedback: Incorrecto. Es típico del altiplano y tiene coníferas. -->
-- [x] B) Selva Tropical Lluviosa <!-- feedback: Correcto. Presenta la mayor biodiversidad y complejidad estructural. -->
-- [ ] C) Selva Subtropical Húmeda <!-- feedback: Incorrecto. Tiene variaciones estacionales más marcadas. -->
-- [ ] D) Chaparral Espinoso <!-- feedback: Incorrecto. Es un bioma seco. -->
-
-### Explicación Pedagógica
-Identificación de las características ecológicas de los biomas nacionales.
-
----
-
-## Bloque D — Nivel D9–D10
-
----
-
-## Question 17 [D9-D10]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Análisis de problemas ambientales
-**Context:** Cambio Climático.
-
-### Enunciado
-¿Cómo afecta el aumento de la temperatura global a los ecosistemas de "bosque nuboso" en las cumbres de las montañas de Guatemala?
-
-### Options
-- [ ] A) Los bosques nubosos se expandirán hacia los valles más bajos. <!-- feedback: Incorrecto. El aumento de calor sube el nivel de condensación. -->
-- [x] B) La franja de nubes se eleva, provocando el secado del ecosistema y la pérdida de especies endémicas que no pueden migrar más arriba. <!-- feedback: Correcto. Es un fenómeno conocido como "ascensión de la línea de nubes". -->
-- [ ] C) El aumento de calor favorece una mayor producción de epífitas. <!-- feedback: Incorrecto. Las epífitas dependen de la humedad constante de las nubes. -->
-- [ ] D) No habrá impacto ya que las montañas son muy altas. <!-- feedback: Incorrecto. El cambio climático afecta a todas las altitudes. -->
-
-### Explicación Pedagógica
-Evaluación de los impactos específicos del cambio climático en ecosistemas vulnerables.
-
----
-
-## Question 18 [D9-D10]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v18`
-**Bloom:** Evaluate
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `GT-CIE-11-P1-ciencias-001-v8`
+**Bloom:** Apply
 **Competencia:** Indagación
-**Context:** Bioindicadores.
+**Context:** Sucesión ecológica tras una erupción volcánica.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En un estudio de calidad de agua en un río de Verapaz, se encuentra una gran abundancia de larvas de efímeras (insectos muy sensibles a la contaminación) y una ausencia de gusanos tubifex (resistentes). ¿Qué conclusión puede inferirse?
+Tras una erupción del Volcán de Fuego, el terreno queda cubierto de lava sólida (roca desnuda). ¿Cómo se denomina al proceso de colonización gradual de este nuevo terreno por parte de líquenes, luego hierbas y finalmente arbustos?
 
 ### Options
-- [ ] A) El río está altamente contaminado con materia orgánica. <!-- feedback: Incorrecto. Si así fuera, habría tubifex y no efímeras. -->
-- [x] B) El agua tiene una excelente calidad y niveles óptimos de oxígeno disuelto. <!-- feedback: Correcto. La presencia de especies sensibles es señal de un ecosistema sano. -->
-- [ ] C) El río ha perdido toda su biodiversidad. <!-- feedback: Incorrecto. Las larvas son parte de la biodiversidad. -->
-- [ ] D) La temperatura del agua es demasiado alta para la vida. <!-- feedback: Incorrecto. Las efímeras indican condiciones favorables. -->
+- [x] A) Sucesión primaria <!-- feedback: Correcto. Ocurre en lugares donde nunca ha habido suelo o comunidad previa (como roca volcánica nueva). -->
+- [ ] B) Sucesión secundaria <!-- feedback: Incorrecto. La sucesión secundaria ocurre tras un disturbio (incendio) donde el suelo ya existe. -->
+- [ ] C) Clímax ecológico <!-- feedback: Incorrecto. El clímax es el estado final de estabilidad de un ecosistema, no el proceso de inicio. -->
+- [ ] D) Evolución biológica <!-- feedback: Incorrecto. La evolución se refiere a cambios genéticos en poblaciones a lo largo del tiempo, no a la colonización de terrenos. -->
 
 ### Explicación Pedagógica
-Evaluación de la salud del ecosistema mediante el análisis de comunidades de bioindicadores.
+Análisis de la dinámica de los ecosistemas y los cambios estructurales a lo largo del tiempo.
 
 ---
 
-## Question 19 [D9-D10]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v19`
-**Bloom:** Analyze
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `GT-CIE-11-P1-ciencias-001-v9`
+**Bloom:** Apply
 **Competencia:** Explicación de fenómenos
-**Context:** Resiliencia y estabilidad.
+**Context:** Eficiencia energética en pirámides tróficas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Por qué un ecosistema con alta biodiversidad suele ser más resiliente ante disturbios ambientales que uno con baja biodiversidad (como un monocultivo)?
+En una pirámide de energía de una selva tropical, solo el 10% de la energía de un nivel trófico pasa al siguiente. Si las plantas (productores) tienen 10,000 kJ de energía, ¿cuánta energía estará disponible para los carnívoros finales (consumidores terciarios)?
 
 ### Options
-- [ ] A) Porque las especies pelean menos entre sí. <!-- feedback: Incorrecto. La competencia existe, pero hay más funciones cubiertas. -->
-- [x] B) Porque existe redundancia funcional: varias especies pueden cumplir roles similares, manteniendo los procesos del ecosistema si una desaparece. <!-- feedback: Correcto. La diversidad de respuestas estabiliza el sistema. -->
-- [ ] C) Porque el suelo es más duro en los bosques diversos. <!-- feedback: Incorrecto. No es un factor mecánico del suelo. -->
-- [ ] D) Porque las plantas en los bosques diversos son más grandes. <!-- feedback: Incorrecto. El tamaño no garantiza resiliencia. -->
+- [ ] A) 1,000 kJ <!-- feedback: Incorrecto. Esta sería la energía para los herbívoros (consumidores primarios). -->
+- [ ] B) 100 kJ <!-- feedback: Incorrecto. Esta sería la energía para los consumidores secundarios. -->
+- [x] C) 10 kJ <!-- feedback: Correcto. Nivel 1 (10,000) -> Nivel 2 (1,000) -> Nivel 3 (100) -> Nivel 4 (10). -->
+- [ ] D) 1 kJ <!-- feedback: Incorrecto. Error en el cálculo de las potencias de diez al aplicar la regla del diezmo ecológico. -->
 
 ### Explicación Pedagógica
-Análisis de la relación entre complejidad biológica y estabilidad sistémica.
+Aplicación de las leyes de la termodinámica al flujo de energía en las redes alimentarias.
 
 ---
 
-## Question 20 [D9-D10]
-
-**ID:** `GT-CIE-11-P1-ecosistemas-001-v20`
-**Bloom:** Evaluate
-**Competencia:** Análisis de problemas ambientales
-**Context:** Servicios ecosistémicos.
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `GT-CIE-11-P1-ciencias-001-v10`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** Adaptación y selección natural.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de los siguientes es un "servicio ecosistémico de regulación" vital proporcionado por los manglares de la costa del Pacífico de Guatemala?
+En la costa del Pacífico guatemalteco, algunas tortugas marinas nacen con aletas un poco más fuertes que otras, lo que les permite llegar más rápido al mar y evitar depredadores. ¿Cómo llamaría Darwin a esta ventaja que les permite sobrevivir y reproducirse mejor?
 
 ### Options
-- [ ] A) La extracción de madera para construcción. <!-- feedback: Incorrecto. Este es un servicio de provisión. -->
-- [ ] B) El uso del paisaje para el turismo fotográfico. <!-- feedback: Incorrecto. Este es un servicio cultural. -->
-- [x] C) La protección de las costas contra tormentas, marejadas y erosión. <!-- feedback: Correcto. Los manglares actúan como barreras físicas naturales que regulan impactos ambientales. -->
-- [ ] D) La provisión de peces para el consumo local. <!-- feedback: Incorrecto. Es un servicio de provisión. -->
+- [ ] A) Mutación inducida <!-- feedback: Incorrecto. Darwin no conocía el término mutación; él hablaba de variaciones naturales. -->
+- [x] B) Adaptación <!-- feedback: Correcto. Una adaptación es un rasgo heredado que aumenta la probabilidad de supervivencia y éxito reproductivo. -->
+- [ ] C) Uso y desuso de órganos <!-- feedback: Incorrecto. Esta es la teoría de Lamarck, donde el esfuerzo individual cambiaba al organismo. -->
+- [ ] D) Generación espontánea <!-- feedback: Incorrecto. Idea antigua que sugería que la vida surgía de la materia inerte sin padres. -->
 
 ### Explicación Pedagógica
-Evaluación y clasificación de los beneficios que los ecosistemas brindan a la sociedad humana.
+Comprensión de los principios básicos de la evolución por selección natural aplicados a poblaciones locales.
+
+---
+
+## Bloque C — Nivel D7–D8: Impacto Humano y Conservación
+
+---
+
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `GT-CIE-11-P1-ciencias-001-v11`
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Introducción de especies exóticas en el Lago de Atitlán.
+**Expected_Success:** 0.60
+
+### Enunciado
+En la década de 1950, se introdujo la lobina negra (*Micropterus salmoides*) en el Lago de Atitlán para la pesca deportiva. ¿Cuál fue el impacto ecológico más grave de esta acción sobre el Pato Poc (*Podilymbus gigas*), ave endémica del lago?
+
+### Options
+- [ ] A) El Pato Poc y la lobina se hicieron amigos y cooperaron. <!-- feedback: Incorrecto. En la naturaleza, la introducción de depredadores rara vez termina en cooperación. -->
+- [ ] B) La lobina limpió el lago de algas, mejorando el hábitat del pato. <!-- feedback: Incorrecto. La lobina es carnívora, no come algas. -->
+- [x] C) La lobina compitió por comida y depredó a los polluelos del pato, contribuyendo a su extinción. <!-- feedback: Correcto. Las especies invasoras suelen desplazar o eliminar a las especies locales sensibles. -->
+- [ ] D) El pato aprendió a comer lobinas y su población aumentó. <!-- feedback: Incorrecto. El Pato Poc no pudo adaptarse a la presión de este nuevo depredador y competidor. -->
+
+### Explicación Pedagógica
+Evaluación de las consecuencias biológicas de la introducción de especies exóticas en ecosistemas cerrados o vulnerables.
+
+---
+
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `GT-CIE-11-P1-ciencias-001-v12`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Efecto invernadero y cambio climático.
+**Expected_Success:** 0.60
+
+### Enunciado
+El aumento de gases como el $CO_2$ y el metano en la atmósfera terrestre está provocando el calentamiento global. ¿Cuál es el mecanismo físico por el cual estos gases elevan la temperatura del planeta?
+
+### Options
+- [ ] A) Reaccionan químicamente con el nitrógeno del aire generando calor. <!-- feedback: Incorrecto. No es una reacción química exotérmica lo que calienta el aire. -->
+- [x] B) Atrapan la radiación infrarroja (calor) que la Tierra intenta emitir hacia el espacio. <!-- feedback: Correcto. Los gases dejan pasar la luz solar pero bloquean la salida del calor terrestre. -->
+- [ ] C) Destruyen la capa de ozono permitiendo que pase más luz visible. <!-- feedback: Incorrecto. El efecto invernadero y el agujero de la capa de ozono son fenómenos diferentes. -->
+- [ ] D) Aumentan la intensidad de las erupciones volcánicas en el cinturón de fuego. <!-- feedback: Incorrecto. No hay evidencia de que los gases atmosféricos controlen la actividad tectónica. -->
+
+### Explicación Pedagógica
+Análisis del fenómeno del efecto invernadero y su relación con el balance radiativo de la Tierra.
+
+---
+
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `GT-CIE-11-P1-ciencias-001-v13`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** Eutrofización en lagos de Guatemala.
+**Expected_Success:** 0.60
+
+### Enunciado
+Muchos lagos en Guatemala sufren de "eutrofización" debido al exceso de fertilizantes y aguas negras que llegan a ellos. ¿Cuál es la consecuencia directa de este proceso que causa la muerte masiva de peces?
+
+### Options
+- [ ] A) El agua se vuelve demasiado transparente y los peces se queman. <!-- feedback: Incorrecto. La eutrofización vuelve el agua turbia debido al crecimiento excesivo de algas. -->
+- [ ] B) Los peces se comen todas las algas y mueren de indigestión. <!-- feedback: Incorrecto. El problema no es el exceso de comida, sino las condiciones químicas del agua. -->
+- [x] C) La descomposición de algas muertas agota el oxígeno disuelto en el agua. <!-- feedback: Correcto. Las bacterias consumen el oxígeno al degradar la materia orgánica, asfixiando a los peces. -->
+- [ ] D) El exceso de fósforo endurece las escamas de los peces impidiendo su movimiento. <!-- feedback: Incorrecto. El efecto es sistémico sobre la calidad del agua, no mecánico sobre los peces. -->
+
+### Explicación Pedagógica
+Evaluación de los procesos de contaminación orgánica y su impacto en la dinámica de las comunidades acuáticas.
+
+---
+
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `GT-CIE-11-P1-ciencias-001-v14`
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Servicios ecosistémicos de los manglares.
+**Expected_Success:** 0.60
+
+### Enunciado
+Los manglares de las costas de Guatemala son vitales para la protección contra tormentas y son criaderos de peces. Si se eliminan para construir hoteles, ¿qué pérdida económica y ecológica es más probable a largo plazo?
+
+### Options
+- [ ] A) El aumento de la producción de madera de pino en las montañas. <!-- feedback: Incorrecto. No hay una relación directa entre los manglares costeros y la silvicultura de montaña. -->
+- [x] B) El aumento de la erosión costera y la disminución de la pesca local. <!-- feedback: Correcto. Los manglares actúan como barrera física y refugio biológico indispensable. -->
+- [ ] C) La mejora de la calidad del agua potable en la capital. <!-- feedback: Incorrecto. Los manglares filtran agua costera, no tienen impacto en el suministro de la Ciudad de Guatemala. -->
+- [ ] D) La desaparición total de los volcanes de la cadena volcánica. <!-- feedback: Incorrecto. Los ecosistemas costeros no afectan la geología volcánica del país. -->
+
+### Explicación Pedagógica
+Análisis de los servicios ecosistémicos y las consecuencias de la alteración del paisaje natural por actividades humanas.
+
+---
+
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `GT-CIE-11-P1-ciencias-001-v15`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Bioacumulación de toxinas.
+**Expected_Success:** 0.60
+
+### Enunciado
+En un ecosistema contaminado con mercurio por la minería ilegal, se mide la concentración del metal en diferentes organismos. ¿Dónde esperaría encontrar la mayor concentración de mercurio debido al proceso de biomagnificación?
+
+### Options
+- [ ] A) En las plantas acuáticas que absorben el agua directamente. <!-- feedback: Incorrecto. Tienen la concentración más baja por ser el inicio de la cadena. -->
+- [ ] B) En los pequeños peces herbívoros. <!-- feedback: Incorrecto. Tienen más que las plantas, pero menos que sus depredadores. -->
+- [ ] C) En el agua del río donde se diluye el metal. <!-- feedback: Incorrecto. El mercurio se acumula en los tejidos grasos de los seres vivos en concentraciones mucho mayores que en el agua. -->
+- [x] D) En los cocodrilos o aves rapaces que comen otros peces. <!-- feedback: Correcto. Las toxinas no eliminables se acumulan y concentran en los niveles más altos de la pirámide trófica. -->
+
+### Explicación Pedagógica
+Aplicación de conceptos de flujo de materia y acumulación de sustancias tóxicas en las redes alimentarias.
+
+---
+
+## Bloque D — Nivel D9–D10: Genética Molecular y Biotecnología
+
+---
+
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `GT-CIE-11-P1-ciencias-001-v16`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** Estructura del ADN y herencia.
+**Expected_Success:** 0.60
+
+### Enunciado
+El ADN es la molécula que contiene las instrucciones para la vida. ¿Qué parte de la estructura del ADN es la que realmente "escribe" el código genético que diferencia a un jaguar de un venado?
+
+### Options
+- [ ] A) La cadena de azúcares y fosfatos de los lados. <!-- feedback: Incorrecto. Esta es la estructura de soporte, igual en todos los seres vivos. -->
+- [x] B) La secuencia específica de las bases nitrogenadas (A, T, C, G). <!-- feedback: Correcto. El orden de las bases es lo que determina la información para fabricar proteínas específicas. -->
+- [ ] C) El número total de moléculas de hidrógeno en la célula. <!-- feedback: Incorrecto. Los átomos individuales no llevan información por sí mismos. -->
+- [ ] D) La forma de doble hélice de la molécula. <!-- feedback: Incorrecto. La forma es universal para todo el ADN, lo que cambia es el contenido interno de la secuencia. -->
+
+### Explicación Pedagógica
+Comprensión de la base molecular de la herencia y la codificación de la información biológica.
+
+---
+
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `GT-CIE-11-P1-ciencias-001-v17`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Transcripción y Traducción.
+**Expected_Success:** 0.60
+
+### Enunciado
+Para que una planta de café produzca cafeína, debe seguir las instrucciones de sus genes. ¿Cuál es el orden correcto del flujo de información genética (Dogma Central) dentro de sus células?
+
+### Options
+- [ ] A) Proteína -> ARN -> ADN <!-- feedback: Incorrecto. La información no fluye desde las proteínas hacia los ácidos nucleicos. -->
+- [ ] B) ARN -> ADN -> Proteína <!-- feedback: Incorrecto. Este flujo solo ocurre parcialmente en algunos virus, no en el proceso normal de las plantas. -->
+- [x] C) ADN -> ARN -> Proteína <!-- feedback: Correcto. El ADN se transcribe a ARN y este se traduce a proteína en el ribosoma. -->
+- [ ] D) ADN -> Proteína -> ARN <!-- feedback: Incorrecto. El ARN es un intermediario necesario en la síntesis de proteínas. -->
+
+### Explicación Pedagógica
+Modelización del flujo de información genética en los sistemas vivos.
+
+---
+
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `GT-CIE-11-P1-ciencias-001-v18`
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Ingeniería genética y cultivos en Guatemala.
+**Expected_Success:** 0.60
+
+### Enunciado
+Se han desarrollado variedades de maíz "BT" que contienen un gen de una bacteria para resistir plagas sin usar pesticidas químicos. ¿Cómo se denomina técnicamente a estos organismos que contienen genes de otra especie?
+
+### Options
+- [ ] A) Clones <!-- feedback: Incorrecto. Un clon es una copia genéticamente idéntica de un solo organismo. -->
+- [x] B) Organismos Transgénicos (OGM) <!-- feedback: Correcto. Son organismos cuyo genoma ha sido modificado mediante la inserción de ADN de una especie diferente. -->
+- [ ] C) Híbridos naturales <!-- feedback: Incorrecto. Los híbridos resultan del cruce sexual entre dos variedades o especies cercanas, no por inserción de genes en laboratorio. -->
+- [ ] D) Especies mutantes <!-- feedback: Incorrecto. Aunque su ADN cambió, el término técnico preciso para esta tecnología es transgénico. -->
+
+### Explicación Pedagógica
+Análisis de las aplicaciones y definiciones de la biotecnología moderna en la agricultura.
+
+---
+
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `GT-CIE-11-P1-ciencias-001-v19`
+**Bloom:** Apply
+**Competencia:** Uso del conocimiento científico
+**Context:** Ética y Biotecnología.
+**Expected_Success:** 0.60
+
+### Enunciado
+La tecnología CRISPR-Cas9 permite "editar" el ADN con alta precisión. Si se propusiera usar esta técnica para eliminar a todos los mosquitos que transmiten el dengue en Guatemala, ¿cuál sería el mayor riesgo ecológico a considerar?
+
+### Options
+- [ ] A) Que los mosquitos se vuelvan gigantes y ataquen a las personas. <!-- feedback: Incorrecto. Esto es ciencia ficción y no corresponde a los efectos biológicos reales de la edición genética. -->
+- [ ] B) Que la herramienta CRISPR se escape y empiece a editar a los humanos por el aire. <!-- feedback: Incorrecto. La técnica requiere manipulación directa en laboratorio o vectores específicos, no se transmite por el aire. -->
+- [x] C) La alteración de las redes tróficas, ya que los mosquitos son alimento para otras especies como aves y murciélagos. <!-- feedback: Correcto. La eliminación de una especie puede causar efectos en cascada impredecibles en el ecosistema. -->
+- [ ] D) Que el ADN de los mosquitos se convierta en oro y cause una crisis económica. <!-- feedback: Incorrecto. No tiene fundamento biológico ni químico. -->
+
+### Explicación Pedagógica
+Evaluación ética y ecológica de las intervenciones biotecnológicas a gran escala en el medio ambiente.
+
+---
+
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `GT-CIE-11-P1-ciencias-001-v20`
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Epigenética.
+**Expected_Success:** 0.60
+
+### Enunciado
+Se ha observado que el estrés ambiental (como una gran sequía en el Altiplano) puede dejar marcas químicas en el ADN de las plantas que afectan a sus "hijas" sin cambiar la secuencia de letras (A,T,C,G). ¿Qué rama de la biología estudia estos cambios heredables en la expresión de los genes?
+
+### Options
+- [ ] A) Genética Mendeliana <!-- feedback: Incorrecto. Se centra en la herencia de rasgos a través de los genes, no en las modificaciones químicas externas. -->
+- [x] B) Epigenética <!-- feedback: Correcto. Estudia cómo el ambiente modifica la expresión de los genes mediante marcas como la metilación. -->
+- [ ] C) Paleontología <!-- feedback: Incorrecto. Es el estudio de los fósiles y la vida antigua. -->
+- [ ] D) Citología <!-- feedback: Incorrecto. Es el estudio general de la estructura y función de las células. -->
+
+### Explicación Pedagógica
+Conocimiento de las fronteras modernas de la biología: regulación génica y herencia no convencional.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Ciencias Naturales para el ciclo diversificado en Guatemala integra los conceptos fundamentales de ecología, biología celular y genética con el contexto ambiental único del país. Desde la biodiversidad de la Reserva de la Biosfera Maya hasta los desafíos de la biotecnología moderna, el estudiante es guiado a través de un proceso de aprendizaje que prioriza la indagación y la comprensión de fenómenos complejos. El enfoque en el impacto humano (especies invasoras, eutrofización) busca fomentar una conciencia ambiental basada en la evidencia científica para la protección de los ecosistemas guatemaltecos.
