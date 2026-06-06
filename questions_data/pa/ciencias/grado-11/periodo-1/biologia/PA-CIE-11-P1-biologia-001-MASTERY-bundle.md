@@ -13,442 +13,447 @@ modern_context: true
 distractor_profile: "misconception_based"
 calibration:
   expected_success_rate: 0.60
-  discrimination_index_target: ">= 0.23"
+  discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Biología (001)
+# MASTERY Bundle — Ciencias: Biología (PA-001)
 
-## Bloque A — Nivel D3–D4: Fundamentos de la Vida y Biología Celular
+## Bloque A — Nivel D3–D4: Citología y Bases de la Vida
 
 ---
 
-## Question 1 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 1 [D3-D4] (Difficulty 3)
 **ID:** `PA-CIE-11-P1-biologia-001-v1`
-**Bloom:** Remember
-**Competencia:** Conocimiento Científico
-**Context:** Estructuras celulares básicas.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Biodiversidad en la selva del Darién.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes estructuras es responsable de controlar todas las actividades de la célula y contiene el material genético?
+En una expedición científica en el Darién, se descubre una nueva especie de organismo unicelular. Al observarlo al microscopio, se nota que posee un núcleo definido rodeado por una membrana. ¿A qué tipo de célula pertenece este organismo?
 
 ### Options
-- [ ] A) Citoplasma <!-- feedback: Incorrecto. El citoplasma es el medio donde flotan los orgánulos. -->
-- [x] B) Núcleo <!-- feedback: Correcto. El núcleo alberga el ADN y coordina las funciones celulares. -->
-- [ ] C) Membrana celular <!-- feedback: Incorrecto. Su función es regular la entrada y salida de sustancias. -->
-- [ ] D) Mitocondria <!-- feedback: Incorrecto. Se encarga de la producción de energía (ATP). -->
+- [ ] A) Célula Procariota <!-- feedback: Incorrecto. Las células procariotas (como las bacterias) se definen precisamente por la ausencia de un núcleo organizado y membranas internas. -->
+- [x] B) Célula Eucariota <!-- feedback: Correcto. La presencia de un núcleo verdadero y orgánulos membranosos es la característica principal de los organismos eucariotas. -->
+- [ ] C) Virus <!-- feedback: Incorrecto. Los virus no son células; son agentes infecciosos acelulares que carecen de metabolismo propio y de las estructuras observadas. -->
+- [ ] D) Bacteria <!-- feedback: Incorrecto. Las bacterias son organismos procariotas y no poseen núcleo definido por una membrana nuclear. -->
 
 ### Explicación Pedagógica
-Identificación de las funciones básicas de los componentes de la célula eucariota.
+Identificación de los tipos fundamentales de organización celular basándose en la presencia o ausencia de núcleo.
 
 ---
 
-## Question 2 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 2 [D3-D4] (Difficulty 3)
 **ID:** `PA-CIE-11-P1-biologia-001-v2`
-**Bloom:** Remember
-**Competencia:** Conocimiento Científico
-**Context:** Características de los seres vivos.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Adaptación de las plantas en el Bosque Tropical Seco.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La capacidad de los seres vivos para mantener un equilibrio interno estable a pesar de los cambios en el ambiente exterior se denomina:
+Las plantas del Bosque Tropical Seco en la provincia de Coclé deben sobrevivir largos periodos sin lluvia. ¿Qué orgánulo celular, muy desarrollado en las células vegetales, almacena agua y ayuda a mantener la turgencia de la planta?
 
 ### Options
-- [ ] A) Metabolismo <!-- feedback: Incorrecto. Es el conjunto de reacciones químicas para obtener energía. -->
-- [ ] B) Reproducción <!-- feedback: Incorrecto. Es el proceso de generar nuevos individuos. -->
-- [x] C) Homeostasis <!-- feedback: Correcto. Es el mecanismo de autorregulación del medio interno. -->
-- [ ] D) Irritabilidad <!-- feedback: Incorrecto. Es la capacidad de responder a estímulos. -->
+- [ ] A) Mitocondria <!-- feedback: Incorrecto. Su función principal es la producción de energía (ATP) mediante la respiración celular, no el almacenamiento de agua. -->
+- [ ] B) Cloroplasto <!-- feedback: Incorrecto. Los cloroplastos se encargan de la fotosíntesis, captando energía lumínica para producir azúcares. -->
+- [x] C) Vacuola Central <!-- feedback: Correcto. En las células vegetales, la vacuola central almacena agua y solutos, ejerciendo presión de turgencia contra la pared celular para dar soporte. -->
+- [ ] D) Ribosoma <!-- feedback: Incorrecto. Los ribosomas son los sitios de síntesis de proteínas y carecen de membrana o capacidad de almacenamiento hídrico. -->
 
 ### Explicación Pedagógica
-Reconocimiento de conceptos biológicos fundamentales aplicados a la fisiología.
+Comprensión de la función de los orgánulos vegetales en la homeostasis hídrica y el soporte mecánico de las plantas.
 
 ---
 
-## Question 3 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 3 [D3-D4] (Difficulty 4)
 **ID:** `PA-CIE-11-P1-biologia-001-v3`
-**Bloom:** Understand
-**Competencia:** Explicación de Fenómenos
-**Context:** Proceso de fotosíntesis.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Funcionamiento de la membrana plasmática.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Durante la fotosíntesis, las plantas convierten la energía solar en energía química almacenada en:
+La membrana celular es descrita como un "mosaico fluido". ¿Qué componente de la membrana es responsable de crear la barrera principal que impide el paso libre de sustancias polares y agua hacia el interior de la célula?
 
 ### Options
-- [ ] A) Dióxido de carbono <!-- feedback: Incorrecto. El CO2 es un reactivo, no el producto de almacenamiento energético. -->
-- [x] B) Glucosa <!-- feedback: Correcto. La glucosa es el azúcar producido que almacena la energía. -->
-- [ ] C) Oxígeno <!-- feedback: Incorrecto. El oxígeno es un subproducto liberado, no el almacén principal de energía química. -->
-- [ ] D) Agua <!-- feedback: Incorrecto. El agua es un reactivo necesario para el proceso. -->
+- [ ] A) Proteínas de canal <!-- feedback: Incorrecto. Al contrario, las proteínas de canal facilitan el paso de sustancias que no pueden atravesar la barrera de lípidos. -->
+- [ ] B) Colesterol <!-- feedback: Incorrecto. El colesterol ayuda a regular la fluidez de la membrana, pero no forma la barrera estructural primaria. -->
+- [x] C) Bicapa de fosfolípidos <!-- feedback: Correcto. La naturaleza anfipática de los fosfolípidos crea un interior hidrofóbico que actúa como barrera selectiva. -->
+- [ ] D) Carbohidratos superficiales <!-- feedback: Incorrecto. Estos participan en el reconocimiento celular y la adhesión, no en la formación de la barrera de transporte. -->
 
 ### Explicación Pedagógica
-Comprensión de la transformación de energía y materia en los organismos autótrofos.
+Relación entre la estructura molecular de los lípidos y las propiedades de permeabilidad selectiva de la célula.
 
 ---
 
-## Question 4 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 4 [D3-D4] (Difficulty 4)
 **ID:** `PA-CIE-11-P1-biologia-001-v4`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Reproducción celular.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Bioenergética básica.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el resultado principal del proceso de mitosis en una célula somática humana?
+¿Cuál es la molécula conocida como la "moneda energética" de la célula, producida principalmente en las mitocondrias durante la respiración aeróbica?
 
 ### Options
-- [x] A) Dos células hijas genéticamente idénticas a la madre. <!-- feedback: Correcto. La mitosis busca la replicación exacta para el crecimiento y reparación de tejidos. -->
-- [ ] B) Cuatro células hijas con la mitad de los cromosomas. <!-- feedback: Incorrecto. Esto describe el resultado de la meiosis. -->
-- [ ] C) Una célula con el doble de material genético. <!-- feedback: Incorrecto. El material se duplica y luego se divide equitativamente. -->
-- [ ] D) Dos células hijas con diferente información genética. <!-- feedback: Incorrecto. Salvo mutaciones, la mitosis mantiene la fidelidad genética. -->
+- [ ] A) Glucosa <!-- feedback: Incorrecto. La glucosa es la fuente de energía, pero debe ser procesada para obtener la molécula energética utilizable por la célula. -->
+- [x] B) ATP (Adenosín Trifosfato) <!-- feedback: Correcto. El ATP almacena energía en sus enlaces de fosfato, lista para ser utilizada en los procesos celulares. -->
+- [ ] C) ADN <!-- feedback: Incorrecto. El ADN almacena información genética, no energía para el trabajo celular inmediato. -->
+- [ ] D) ARN <!-- feedback: Incorrecto. El ARN participa en la síntesis de proteínas, no actúa como reservorio o transportador principal de energía química. -->
 
 ### Explicación Pedagógica
-Diferenciación entre los procesos de división celular y su significado biológico.
+Identificación del ATP como el transportador universal de energía en los sistemas biológicos.
 
 ---
 
-## Bloque B — Nivel D5–D6: Genética, Evolución y Ecología Local
+## Bloque B — Nivel D5–D6: Genética y Metabolismo
 
 ---
 
-## Question 5 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 5 [D5-D6] (Difficulty 5)
 **ID:** `PA-CIE-11-P1-biologia-001-v5`
 **Bloom:** Apply
-**Competencia:** Explicación de Fenómenos
-**Context:** Genética mendeliana.
+**Competencia:** Indagación
+**Context:** Genética Mendeliana aplicada a la agricultura en Chiriquí.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En los guisantes, el color púrpura de las flores (P) es dominante sobre el blanco (p). Si cruzamos una planta de flores púrpuras heterocigota con una de flores blancas, ¿qué porcentaje de la descendencia tendrá flores blancas?
+Un agricultor en Boquete cruza dos plantas de café puras: una con granos grandes (dominante, GG) y otra con granos pequeños (recesiva, gg). ¿Cuál será el genotipo y el fenotipo de la primera generación (F1)?
 
 ### Options
-- [ ] A) 0% <!-- feedback: Incorrecto. Al haber un progenitor recesivo y uno heterocigoto, sí aparecerá el rasgo blanco. -->
-- [ ] B) 25% <!-- feedback: Incorrecto. Esto ocurriría en un cruce de dos heterocigotos. -->
-- [x] C) 50% <!-- feedback: Correcto. Cruce Pp x pp resulta en 50% Pp (púrpura) y 50% pp (blanco). -->
-- [ ] D) 100% <!-- feedback: Incorrecto. El progenitor dominante aporta el alelo P al otro 50%. -->
+- [ ] A) 100% GG, granos grandes <!-- feedback: Incorrecto. Para esto ambos padres deberían ser dominantes puros, lo cual no ocurre en este cruce. -->
+- [x] B) 100% Gg, granos grandes <!-- feedback: Correcto. Según la primera ley de Mendel, todos los descendientes heredan un alelo de cada padre, resultando en heterocigotos que muestran el rasgo dominante. -->
+- [ ] C) 50% Gg y 50% gg, granos mezclados <!-- feedback: Incorrecto. Esta proporción ocurriría si uno de los padres fuera heterocigoto (Gg), no puro dominante. -->
+- [ ] D) 100% gg, granos pequeños <!-- feedback: Incorrecto. El alelo dominante G enmascara la expresión del alelo recesivo g en la F1. -->
 
 ### Explicación Pedagógica
-Aplicación de las leyes de segregación de Mendel para predecir proporciones genotípicas y fenotípicas.
+Aplicación de las leyes de Mendel para predecir los resultados de cruces monohíbridos entre líneas puras.
 
 ---
 
-## Question 6 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 6 [D5-D6] (Difficulty 5)
 **ID:** `PA-CIE-11-P1-biologia-001-v6`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Teoría de la evolución en el istmo.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Dogma central de la biología molecular.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El surgimiento del istmo de Panamá hace millones de años separó poblaciones de organismos marinos, lo que llevó a la formación de nuevas especies en el Pacífico y el Caribe. Este proceso se conoce como:
+En un laboratorio de la Ciudad del Saber, se estudia cómo el ADN transmite su información. ¿Cómo se llama el proceso mediante el cual se sintetiza una molécula de ARNm a partir de un molde de ADN en el núcleo?
 
 ### Options
-- [ ] A) Selección artificial <!-- feedback: Incorrecto. No hubo intervención humana en este proceso. -->
-- [x] B) Especiación alopátrica <!-- feedback: Correcto. Es la formación de especies debido al aislamiento geográfico. -->
-- [ ] C) Convergencia evolutiva <!-- feedback: Incorrecto. Esto es cuando especies distintas desarrollan rasgos similares. -->
-- [ ] D) Mutación dirigida <!-- feedback: Incorrecto. Las mutaciones son aleatorias, no dirigidas por el ambiente geográfico. -->
+- [ ] A) Replicación <!-- feedback: Incorrecto. La replicación es el proceso de copiar el ADN para obtener otra molécula de ADN idéntica. -->
+- [x] B) Transcripción <!-- feedback: Correcto. Es el paso de la información del código del ADN al ARN mensajero. -->
+- [ ] C) Traducción <!-- feedback: Incorrecto. La traducción ocurre en los ribosomas y consiste en pasar de ARN a una cadena de aminoácidos (proteína). -->
+- [ ] D) Mitosis <!-- feedback: Incorrecto. La mitosis es la división del núcleo celular, no un proceso de síntesis de ácidos nucleicos. -->
 
 ### Explicación Pedagógica
-Análisis de los mecanismos evolutivos impulsados por cambios geológicos históricos en la región.
+Diferenciación de los procesos fundamentales del flujo de información genética en la célula.
 
 ---
 
-## Question 7 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 7 [D5-D6] (Difficulty 5)
 **ID:** `PA-CIE-11-P1-biologia-001-v7`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Ecosistemas de manglar en Panamá.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Fotosíntesis y ecología.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Los manglares en las costas panameñas son fundamentales para la biodiversidad porque:
+Durante la fase luminosa de la fotosíntesis, las plantas captan energía solar. ¿Cuál es el subproducto gaseoso que liberan a la atmósfera y que es vital para la respiración de los animales en el istmo?
 
 ### Options
-- [ ] A) Filtran el agua dulce para convertirla en agua salada. <!-- feedback: Incorrecto. Su función no es cambiar la salinidad de esa forma. -->
-- [x] B) Sirven como áreas de crianza para muchas especies marinas y protegen la costa de la erosión. <!-- feedback: Correcto. Sus raíces complejas ofrecen refugio a juveniles de peces y crustáceos. -->
-- [ ] C) Son la principal fuente de madera preciosa para la exportación. <!-- feedback: Incorrecto. Su valor ecológico supera por mucho cualquier uso extractivo. -->
-- [ ] D) Producen oxígeno solo durante la noche. <!-- feedback: Incorrecto. Las plantas producen oxígeno durante el día mediante la fotosíntesis. -->
+- [ ] A) Dióxido de carbono ($CO_2$) <!-- feedback: Incorrecto. Las plantas consumen $CO_2$ durante el Ciclo de Calvin, no lo liberan como producto de la fotosíntesis. -->
+- [x] B) Oxígeno ($O_2$) <!-- feedback: Correcto. El oxígeno se libera tras la fotólisis del agua en los tilacoides del cloroplasto. -->
+- [ ] C) Nitrógeno ($N_2$) <!-- feedback: Incorrecto. El nitrógeno es el gas más abundante en la atmósfera, pero no es un producto de la fotosíntesis. -->
+- [ ] D) Vapor de agua <!-- feedback: Incorrecto. Aunque las plantas transpiran agua, no es el gas característico producido por la reacción química de la fotosíntesis. -->
 
 ### Explicación Pedagógica
-Reconocimiento de la importancia ecológica y los servicios ecosistémicos de biomas locales.
+Identificación de los reactivos y productos de la fotosíntesis y su importancia en el equilibrio ecológico.
 
 ---
 
-## Question 8 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 8 [D5-D6] (Difficulty 6)
 **ID:** `PA-CIE-11-P1-biologia-001-v8`
-**Bloom:** Analyze
-**Competencia:** Explicación de Fenómenos
-**Context:** Ciclo del nitrógeno.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Ciclo celular y salud.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el papel fundamental de las bacterias fijadoras de nitrógeno que viven en las raíces de algunas plantas?
+Si una célula somática humana (con 46 cromosomas) realiza el proceso de mitosis para reparar un tejido dañado en la piel, ¿cuántos cromosomas tendrán cada una de las dos células hijas resultantes?
 
 ### Options
-- [ ] A) Descomponer la materia orgánica para liberar CO2. <!-- feedback: Incorrecto. Esa es función de los descomponedores en el ciclo del carbono. -->
-- [x] B) Convertir el nitrógeno atmosférico (N2) en formas utilizables por las plantas (como amoníaco). <!-- feedback: Correcto. El N2 es inerte para la mayoría de los seres vivos; las bacterias lo "fijan". -->
-- [ ] C) Realizar la fotosíntesis en ausencia de luz. <!-- feedback: Incorrecto. La fotosíntesis requiere luz; ellas realizan procesos químicos distintos. -->
-- [ ] D) Proteger a la planta de todos los virus del suelo. <!-- feedback: Incorrecto. No tienen una función antiviral generalizada. -->
+- [ ] A) 23 cromosomas <!-- feedback: Incorrecto. Esta reducción a la mitad es característica de la meiosis para la formación de gametos, no de la mitosis. -->
+- [x] B) 46 cromosomas <!-- feedback: Correcto. La mitosis mantiene el número diploide de cromosomas, produciendo células genéticamente idénticas a la madre. -->
+- [ ] C) 92 cromosomas <!-- feedback: Incorrecto. Esto indicaría que la célula no se dividió tras duplicar su ADN o que hubo un error grave en la segregación. -->
+- [ ] D) 48 cromosomas <!-- feedback: Incorrecto. El número de cromosomas es específico de la especie y no aumenta arbitrariamente durante la división normal. -->
 
 ### Explicación Pedagógica
-Comprensión de las interacciones bióticas en los ciclos biogeoquímicos.
+Comprensión de la mitosis como un proceso de división conservativa del material genético.
 
 ---
 
-## Question 9 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 9 [D5-D6] (Difficulty 6)
 **ID:** `PA-CIE-11-P1-biologia-001-v9`
 **Bloom:** Apply
-**Competencia:** Indagación y Análisis
-**Context:** Análisis de una cadena alimentaria.
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Enzimología.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En una cadena alimentaria del Parque Nacional Soberanía: Planta -> Saltamontes -> Pájaro -> Serpiente. Si se aplica un insecticida que elimina a los saltamontes, ¿cuál sería el efecto inmediato esperado?
+Las enzimas son biocatalizadores que aceleran las reacciones en nuestro cuerpo. ¿Qué sucede con la actividad de una enzima si la temperatura corporal aumenta por encima del límite normal de forma extrema (hipertermia)?
 
 ### Options
-- [ ] A) Aumento de la población de serpientes. <!-- feedback: Incorrecto. Al faltar su alimento indirecto, las serpientes también se verían afectadas negativamente. -->
-- [ ] B) Disminución de la población de plantas. <!-- feedback: Incorrecto. Al no haber herbívoros (saltamontes), las plantas podrían aumentar su biomasa inicialmente. -->
-- [x] C) Disminución de la población de pájaros. <!-- feedback: Correcto. Los pájaros pierden su fuente directa de alimento. -->
-- [ ] D) Los pájaros empezarán a comer serpientes. <!-- feedback: Incorrecto. Los roles tróficos no suelen cambiar de forma tan drástica e inmediata. -->
+- [ ] A) La velocidad de reacción aumenta infinitamente. <!-- feedback: Incorrecto. Las proteínas tienen límites estructurales dictados por la temperatura. -->
+- [x] B) La enzima se desnaturaliza y pierde su función. <!-- feedback: Correcto. El calor excesivo rompe los enlaces que mantienen la forma tridimensional de la enzima, destruyendo su centro activo. -->
+- [ ] C) La enzima cambia su sustrato para adaptarse al calor. <!-- feedback: Incorrecto. Las enzimas son específicas y no cambian su afinidad química por factores físicos externos de ese modo. -->
+- [ ] D) No ocurre ningún cambio significativo. <!-- feedback: Incorrecto. La estructura y función proteica son altamente sensibles a los cambios de pH y temperatura. -->
 
 ### Explicación Pedagógica
-Predicción de las consecuencias de la alteración de un eslabón en una cadena trófica.
+Análisis del efecto de los factores ambientales en la estructura y función de las proteínas catalíticas.
 
 ---
 
-## Question 10 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 10 [D5-D6] (Difficulty 6)
 **ID:** `PA-CIE-11-P1-biologia-001-v10`
-**Bloom:** Understand
-**Competencia:** Conocimiento Científico
-**Context:** Biotecnología médica.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Respiración celular anaeróbica.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La técnica que permite producir múltiples copias de un fragmento específico de ADN en el laboratorio se denomina:
+Cuando un atleta panameño realiza un ejercicio intenso de corta duración (como un sprint), sus músculos pueden quedarse sin oxígeno suficiente. ¿Cómo se llama el proceso metabólico que permite obtener energía rápidamente y produce ácido láctico como residuo?
 
 ### Options
-- [ ] A) Clonación reproductiva <!-- feedback: Incorrecto. Esto busca crear un organismo completo idéntico. -->
-- [x] B) Reacción en Cadena de la Polimerasa (PCR) <!-- feedback: Correcto. La PCR amplifica secuencias de ADN para su estudio o diagnóstico. -->
-- [ ] C) Terapia génica <!-- feedback: Incorrecto. Consiste en insertar genes sanos para curar enfermedades. -->
-- [ ] D) Electroforesis <!-- feedback: Incorrecto. Es una técnica para separar fragmentos de ADN por tamaño, no para copiarlos. -->
+- [ ] A) Ciclo de Krebs <!-- feedback: Incorrecto. El ciclo de Krebs es parte de la respiración aeróbica y requiere oxígeno de forma indirecta a través de la cadena de electrones. -->
+- [ ] B) Fosforilación oxidativa <!-- feedback: Incorrecto. Este proceso ocurre en la membrana interna mitocondrial y es estrictamente aeróbico. -->
+- [x] C) Fermentación Láctica <!-- feedback: Correcto. Es una vía anaeróbica que regenera el NAD+ para que la glucólisis continúe produciendo ATP en ausencia de oxígeno. -->
+- [ ] D) Fotólisis <!-- feedback: Incorrecto. Este término se refiere a la ruptura del agua por la luz en la fotosíntesis, no al metabolismo muscular. -->
 
 ### Explicación Pedagógica
-Identificación de herramientas biotecnológicas modernas y sus aplicaciones.
+Conocimiento de las rutas metabólicas alternativas en condiciones de hipoxia en tejidos animales.
 
 ---
 
-## Bloque C — Nivel D7–D8: Biología Molecular, Inmunología y Genética Avanzada
+## Bloque C — Nivel D7–D8: Evolución y Ecología del Istmo
 
 ---
 
-## Question 11 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 11 [D7-D8] (Difficulty 7)
 **ID:** `PA-CIE-11-P1-biologia-001-v11`
-**Bloom:** Analyze
-**Competencia:** Explicación de Fenómenos
-**Context:** Estructura y replicación del ADN.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Formación del Istmo de Panamá.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Durante la replicación del ADN, una de las hebras se sintetiza de forma continua y la otra de forma discontinua (fragmentos de Okazaki). Esto ocurre porque:
+La formación del Istmo de Panamá hace unos 3 millones de años provocó el "Gran Intercambio Biótico Americano". ¿Qué consecuencia evolutiva tuvo este evento para las especies de mamíferos del norte y del sur?
 
 ### Options
-- [ ] A) La célula no tiene suficientes nucleótidos para ambas hebras. <!-- feedback: Incorrecto. No es una limitación de recursos. -->
-- [ ] B) Una hebra es más importante que la otra. <!-- feedback: Incorrecto. Ambas son necesarias para las células hijas. -->
-- [x] C) La enzima ADN polimerasa solo puede añadir nucleótidos en dirección 5' a 3'. <!-- feedback: Correcto. Debido a la naturaleza antiparalela del ADN, una hebra debe sintetizarse en sentido contrario al avance de la horquilla. -->
-- [ ] D) Los fragmentos de Okazaki son errores que la célula debe corregir luego. <!-- feedback: Incorrecto. Son una parte normal y necesaria del proceso. -->
+- [ ] A) Todas las especies se extinguieron debido a la competencia. <!-- feedback: Incorrecto. Aunque hubo extinciones, el evento permitió la migración y diversificación de muchos grupos. -->
+- [x] B) Se produjo una migración masiva que permitió la colonización de nuevos nichos y competencia por recursos. <!-- feedback: Correcto. El puente terrestre permitió que especies como los pumas y osos bajaran al sur, y los armadillos y perezosos subieran al norte. -->
+- [ ] C) Las especies dejaron de evolucionar al tener un clima estable. <!-- feedback: Incorrecto. El intercambio de fauna es un motor poderoso de selección natural y adaptación. -->
+- [ ] D) El istmo aisló a las poblaciones terrestres, impidiendo su evolución. <!-- feedback: Incorrecto. Al contrario, el istmo conectó a las poblaciones terrestres que antes estaban aisladas por el mar. -->
 
 ### Explicación Pedagógica
-Análisis de las limitaciones bioquímicas de las enzimas en los procesos de síntesis de ácidos nucleicos.
+Análisis de los efectos biogeográficos y evolutivos de los cambios geológicos en el continente americano.
 
 ---
 
-## Question 12 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 12 [D7-D8] (Difficulty 7)
 **ID:** `PA-CIE-11-P1-biologia-001-v12`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento Científico
-**Context:** Inmunología y vacunas.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Teoría de la Selección Natural.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Las vacunas de ARNm (como las usadas contra el COVID-19) funcionan proporcionando a las células las instrucciones para producir:
+En las islas del archipiélago de las Perlas, se observa que una especie de ave tiene picos de diferentes tamaños según el tipo de semilla disponible en cada isla. ¿Cómo explicaría Charles Darwin este fenómeno?
 
 ### Options
-- [ ] A) El virus completo pero debilitado. <!-- feedback: Incorrecto. Esto describe a las vacunas tradicionales de virus atenuado. -->
-- [x] B) Una proteína específica del virus (proteína S) que desencadena la respuesta inmune. <!-- feedback: Correcto. El cuerpo produce la proteína y luego los anticuerpos contra ella sin haber estado en contacto con el virus real. -->
-- [ ] C) Antibióticos que destruyen la cápside viral. <!-- feedback: Incorrecto. Los antibióticos no actúan sobre virus. -->
-- [ ] D) Glóbulos blancos especializados llamados macrófagos. <!-- feedback: Incorrecto. La vacuna estimula a los que ya existen, no los "produce". -->
+- [ ] A) Las aves estiran su pico durante su vida para alcanzar la comida y pasan ese cambio a sus hijos. <!-- feedback: Incorrecto. Esta es una idea lamarckista de la herencia de caracteres adquiridos, científicamente descartada. -->
+- [ ] B) El ambiente crea mutaciones específicas para que las aves puedan comer. <!-- feedback: Incorrecto. Las mutaciones son aleatorias, el ambiente no las "dirige" hacia una necesidad específica. -->
+- [x] C) Las aves con picos mejor adaptados a la semilla local sobreviven más y dejan más descendencia. <!-- feedback: Correcto. Este es el mecanismo de selección natural: los rasgos favorables aumentan su frecuencia en la población a través de las generaciones. -->
+- [ ] D) Todas las aves deciden cambiar su alimentación al mismo tiempo para no competir. <!-- feedback: Incorrecto. La evolución no es un proceso consciente o de decisión grupal de las especies. -->
 
 ### Explicación Pedagógica
-Evaluación de mecanismos biotecnológicos aplicados a la inmunización moderna.
+Evaluación de los principios de la selección natural frente a conceptos erróneos comunes como el lamarckismo.
 
 ---
 
-## Question 13 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 13 [D7-D8] (Difficulty 7)
 **ID:** `PA-CIE-11-P1-biologia-001-v13`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Herencia ligada al sexo.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Relaciones interespecíficas en el arrecife de coral.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El daltonismo es una condición recesiva ligada al cromosoma X. Si una mujer portadora (X Xd) tiene hijos con un hombre de visión normal (X Y), ¿cuál es la probabilidad de que sus hijos varones sean daltónicos?
+En los arrecifes de Bocas del Toro, el pez payaso vive entre los tentáculos venenosos de la anémona. El pez obtiene protección y la anémona recibe limpieza y restos de comida. ¿Cómo se clasifica esta relación simbiótica?
 
 ### Options
-- [ ] A) 0% <!-- feedback: Incorrecto. La madre puede pasar el cromosoma afectado a sus hijos varones. -->
-- [ ] B) 25% <!-- feedback: Incorrecto. Esta sería la probabilidad considerando todos los hijos (hombres y mujeres) en conjunto. -->
-- [x] C) 50% <!-- feedback: Correcto. Los varones reciben el Y del padre. Recibirán el X normal (50%) o el Xd afectado (50%) de la madre. -->
-- [ ] D) 100% <!-- feedback: Incorrecto. Solo ocurriría si la madre fuera daltónica (homocigota recesiva). -->
+- [ ] A) Parasitismo <!-- feedback: Incorrecto. En el parasitismo un organismo se beneficia a expensas de causar daño al otro. -->
+- [x] B) Mutualismo <!-- feedback: Correcto. Ambos organismos obtienen beneficios claros de su interacción cercana. -->
+- [ ] C) Comensalismo <!-- feedback: Incorrecto. En el comensalismo uno se beneficia y el otro no se ve afectado (ni positiva ni negativamente). -->
+- [ ] D) Competencia <!-- feedback: Incorrecto. La competencia ocurre cuando dos organismos luchan por el mismo recurso limitado. -->
 
 ### Explicación Pedagógica
-Resolución de problemas de genética no mendeliana enfocados en la determinación del sexo y rasgos ligados a cromosomas sexuales.
+Identificación y clasificación de las interacciones biológicas en ecosistemas marinos tropicales.
 
 ---
 
-## Question 14 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 14 [D7-D8] (Difficulty 8)
 **ID:** `PA-CIE-11-P1-biologia-001-v14`
-**Bloom:** Evaluate
-**Competencia:** Explicación de Fenómenos
-**Context:** Regulación de la expresión génica.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Pirámides tróficas y energía.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En las bacterias, el operón lac regula la producción de enzimas para digerir la lactosa. Si hay presencia de glucosa y lactosa en el medio, la bacteria preferirá metabolizar la glucosa. ¿Cuál es el mecanismo biológico detrás de esto?
+En un ecosistema como el de Barro Colorado, ¿por qué hay menos jaguares (depredadores tope) que venados y muchos menos que plantas?
 
 ### Options
-- [ ] A) La glucosa destruye físicamente las enzimas de la lactosa. <!-- feedback: Incorrecto. Es un proceso de regulación genética, no de destrucción enzimática. -->
-- [ ] B) La lactosa se convierte en glucosa automáticamente fuera de la célula. <!-- feedback: Incorrecto. La digestión ocurre dentro o mediante enzimas secretadas. -->
-- [x] C) Altos niveles de glucosa mantienen bajos los niveles de AMP cíclico (AMPc), impidiendo la activación máxima del operón lac. <!-- feedback: Correcto. Es un ejemplo de represión por catabolito. -->
-- [ ] D) La bacteria no puede detectar dos azúcares al mismo tiempo. <!-- feedback: Incorrecto. Los detecta y por eso prioriza el más eficiente energéticamente. -->
+- [ ] A) Porque los jaguares son más difíciles de ver por su camuflaje. <!-- feedback: Incorrecto. El número de individuos está limitado por factores biológicos y energéticos, no por la visibilidad. -->
+- [ ] B) Porque los depredadores tienen una tasa de reproducción mucho más baja por elección. <!-- feedback: Incorrecto. La reproducción está ligada a la disponibilidad de energía en el nivel trófico inferior. -->
+- [x] C) Porque la energía se pierde (como calor) al pasar de un nivel trófico al siguiente. <!-- feedback: Correcto. Según la regla del 10%, solo una pequeña parte de la energía de los productores llega a los carnívoros finales. -->
+- [ ] D) Porque los herbívoros son más resistentes a las enfermedades del bosque. <!-- feedback: Incorrecto. La estructura de la pirámide es una consecuencia de las leyes de la termodinámica aplicadas a la ecología. -->
 
 ### Explicación Pedagógica
-Análisis de los sistemas de control y optimización metabólica en organismos procariontes.
+Comprensión del flujo de energía y la eficiencia de transferencia entre niveles tróficos en una cadena alimentaria.
 
 ---
 
-## Question 15 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 15 [D7-D8] (Difficulty 8)
 **ID:** `PA-CIE-11-P1-biologia-001-v15`
-**Bloom:** Analyze
-**Competencia:** Conocimiento Científico
-**Context:** Respiración celular y transporte de electrones.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Ciclo del Nitrógeno.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la función del oxígeno en la etapa final de la respiración celular aeróbica (cadena de transporte de electrones)?
+Las leguminosas (como el frijol) son importantes en la agricultura panameña porque poseen bacterias en sus raíces que realizan la "fijación del nitrógeno". ¿En qué consiste este proceso fundamental para la vida?
 
 ### Options
-- [ ] A) Romper la molécula de glucosa en el citoplasma. <!-- feedback: Incorrecto. Esto ocurre en la glucólisis y no requiere oxígeno. -->
-- [ ] B) Producir dióxido de carbono en el Ciclo de Krebs. <!-- feedback: Incorrecto. El CO2 se produce antes de la cadena de transporte. -->
-- [x] C) Actuar como el aceptador final de electrones para formar agua. <!-- feedback: Correcto. Sin oxígeno, la cadena se detiene y la producción masiva de ATP cesa. -->
-- [ ] D) Transportar el piruvato hacia adentro de la mitocondria. <!-- feedback: Incorrecto. El piruvato entra por transporte activo, no mediado por O2 gaseoso. -->
+- [ ] A) Convertir el nitrógeno del suelo en oxígeno para las raíces. <!-- feedback: Incorrecto. El nitrógeno no se transforma en oxígeno en este proceso biológico. -->
+- [x] B) Convertir el nitrógeno atmosférico ($N_2$) en formas utilizables por las plantas como amoníaco. <!-- feedback: Correcto. El nitrógeno gaseoso es inerte para las plantas y necesita ser "fijado" por bacterias especializadas. -->
+- [ ] C) Eliminar el exceso de fertilizantes nitrogenados del agua subterránea. <!-- feedback: Incorrecto. Eso sería desnitrificación o biorremediación, no fijación inicial. -->
+- [ ] D) Producir nitrógeno a partir de la luz solar mediante fotosíntesis. <!-- feedback: Incorrecto. El nitrógeno se obtiene de la atmósfera o el suelo, no se sintetiza en la fotosíntesis. -->
 
 ### Explicación Pedagógica
-Comprensión detallada del rol de los reactivos químicos en los procesos bioenergéticos celulares.
+Análisis del papel de los microorganismos en los ciclos biogeoquímicos y su relevancia para la productividad primaria.
 
 ---
 
-## Question 16 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 16 [D7-D8] (Difficulty 7)
 **ID:** `PA-CIE-11-P1-biologia-001-v16`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Análisis de mutaciones.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Especiación en el Istmo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Una mutación en la que se inserta un solo nucleótido en una secuencia de ADN que codifica una proteína suele tener efectos más graves que una mutación en la que se sustituye un nucleótido por otro. ¿Por qué?
+Tras el cierre del Istmo de Panamá, una población de peces que vivía en el mar Caribe quedó separada de sus parientes en el océano Pacífico. Millones de años después, ya no pueden reproducirse entre sí. ¿Cómo se denomina este tipo de especiación?
 
 ### Options
-- [ ] A) Porque la inserción gasta más energía de la célula. <!-- feedback: Incorrecto. El gasto energético es irrelevante frente al impacto funcional. -->
-- [x] B) Porque la inserción altera el marco de lectura, cambiando todos los aminoácidos a partir del punto de mutación. <!-- feedback: Correcto. Es una mutación de "corrimiento de pauta". -->
-- [ ] C) Porque la sustitución siempre es corregida por el ARN mensajero. <!-- feedback: Incorrecto. El ARNm no corrige el ADN; solo lo transcribe. -->
-- [ ] D) Porque las inserciones solo ocurren en genes que causan cáncer. <!-- feedback: Incorrecto. Las mutaciones pueden ocurrir en cualquier parte del genoma. -->
+- [ ] A) Especiación Simpátrica <!-- feedback: Incorrecto. Ocurre sin barreras geográficas, generalmente por cambios genéticos o de comportamiento dentro de la misma área. -->
+- [x] B) Especiación Alopátrica <!-- feedback: Correcto. Se produce cuando una barrera geográfica física divide a una población, permitiendo que evolucionen de forma independiente. -->
+- [ ] C) Selección Artificial <!-- feedback: Incorrecto. Esto implicaría la intervención humana dirigida para criar ciertos rasgos. -->
+- [ ] D) Evolución Convergente <!-- feedback: Incorrecto. Es cuando especies diferentes desarrollan rasgos similares, no cuando una especie se divide en dos. -->
 
 ### Explicación Pedagógica
-Evaluación del impacto funcional de diferentes tipos de alteraciones genéticas en la síntesis de proteínas.
+Identificación de los mecanismos de formación de nuevas especies mediante el aislamiento geográfico.
 
 ---
 
-## Bloque D — Nivel D9–D10: Bioética, Epigenética y Problemáticas Globales
+## Bloque D — Nivel D9–D10: Biotecnología y Desafíos Globales
 
 ---
 
-## Question 17 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 17 [D9-D10] (Difficulty 9)
 **ID:** `PA-CIE-11-P1-biologia-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento Científico
-**Context:** Epigenética y herencia.
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Ingeniería genética y medicina.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Estudios recientes sugieren que el estrés extremo o la desnutrición en una generación pueden afectar la salud de los nietos, incluso si estos últimos crecen en condiciones óptimas. Este fenómeno se explica biológicamente por:
+En la producción industrial de insulina humana, se utiliza tecnología de ADN recombinante. ¿Cuál es el papel de las "enzimas de restricción" en este sofisticado proceso biotecnológico?
 
 ### Options
-- [ ] A) Cambios en la secuencia de nucleótidos del ADN provocados por el pensamiento. <!-- feedback: Incorrecto. El ambiente no cambia la secuencia de bases nitrogenadas de esa forma. -->
-- [x] B) Marcas epigenéticas que no se borraron totalmente durante la formación de los gametos y que regulan la expresión génica. <!-- feedback: Correcto. Es la herencia epigenética transgeneracional. -->
-- [ ] C) Una maldición biológica que dura tres generaciones. <!-- feedback: Incorrecto. Explicación no científica. -->
-- [ ] D) La teoría de Lamarck que ha sido probada como 100% correcta para todos los rasgos. <!-- feedback: Incorrecto. Si bien hay matices neo-lamarckistas en la epigenética, no invalida la genética clásica. -->
+- [ ] A) Pegar los fragmentos de ADN de diferentes organismos. <!-- feedback: Incorrecto. Esa es la función de la ADN ligasa, no de las de restricción. -->
+- [x] B) Cortar el ADN en secuencias específicas para extraer el gen de interés. <!-- feedback: Correcto. Actúan como "tijeras moleculares" que reconocen sitios específicos en la cadena de ADN. -->
+- [ ] C) Acelerar la división de las bacterias en los tanques de cultivo. <!-- feedback: Incorrecto. Las enzimas de restricción operan sobre el ADN, no sobre el ciclo celular bacteriano directamente. -->
+- [ ] D) Evitar que el gen humano mute una vez dentro de la bacteria. <!-- feedback: Incorrecto. No tienen función de mantenimiento o corrección tras la inserción. -->
 
 ### Explicación Pedagógica
-Comprensión de mecanismos de regulación genética avanzada que trascienden la herencia mendeliana tradicional.
+Aplicación del conocimiento sobre herramientas moleculares en la resolución de problemas médicos y biotecnológicos.
 
 ---
 
-## Question 18 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 18 [D9-D10] (Difficulty 9)
 **ID:** `PA-CIE-11-P1-biologia-001-v18`
-**Bloom:** Analyze
-**Competencia:** Indagación y Análisis
-**Context:** Pérdida de biodiversidad y servicios ecosistémicos.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** El experimento de Miller-Urey y el origen de la vida.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El "Gran Intercambio Americano" facilitado por el istmo de Panamá permitió el cruce de faunas. Si en la actualidad se perdiera la conectividad del corredor biológico mesoamericano en Panamá debido a la fragmentación del hábitat, ¿cuál sería la consecuencia evolutiva más probable a largo plazo para los grandes mamíferos terrestres?
+El experimento de Miller-Urey simuló las condiciones de la Tierra primitiva. ¿Cuál fue el hallazgo más significativo que apoyó la teoría de la evolución química del origen de la vida?
 
 ### Options
-- [ ] A) Un aumento inmediato de la biodiversidad por aislamiento. <!-- feedback: Incorrecto. El aislamiento en poblaciones pequeñas suele llevar a la extinción o pérdida de variabilidad. -->
-- [ ] B) Que los animales aprendan a nadar a través del canal para encontrarse. <!-- feedback: Incorrecto. La adaptación conductual no compensa el aislamiento genético poblacional masivo. -->
-- [x] C) Una disminución de la variabilidad genética y un aumento de la endogamia, elevando el riesgo de extinción. <!-- feedback: Correcto. Las poblaciones aisladas pierden vigor genético. -->
-- [ ] D) La creación de una nueva especie de jaguar cada 10 años. <!-- feedback: Incorrecto. La especiación es un proceso mucho más lento. -->
+- [ ] A) La creación de una célula viva completa a partir de gases. <!-- feedback: Incorrecto. El experimento nunca logró crear vida, solo los componentes básicos. -->
+- [x] B) La síntesis espontánea de aminoácidos a partir de compuestos inorgánicos simples. <!-- feedback: Correcto. Demostró que las moléculas orgánicas básicas pueden formarse bajo condiciones abióticas. -->
+- [ ] C) La demostración de que el oxígeno era abundante en la Tierra primitiva. <!-- feedback: Incorrecto. Se utilizó una atmósfera reductora sin oxígeno, que es lo que se cree existía entonces. -->
+- [ ] D) El descubrimiento de ADN en meteoritos que cayeron sobre el laboratorio. <!-- feedback: Incorrecto. El experimento se basó en reacciones químicas en un sistema cerrado, no en material extraterrestre. -->
 
 ### Explicación Pedagógica
-Análisis de las consecuencias genéticas y evolutivas de la fragmentación de ecosistemas a gran escala.
+Análisis de las evidencias experimentales que sustentan las teorías sobre el origen de las biomoléculas.
 
 ---
 
-## Question 19 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 19 [D9-D10] (Difficulty 10)
 **ID:** `PA-CIE-11-P1-biologia-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Explicación de Fenómenos
-**Context:** Cambio climático y acidificación oceánica.
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Cambio Climático y Arrecifes.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El exceso de CO2 atmosférico se disuelve en los océanos formando ácido carbónico. Este proceso reduce la concentración de iones carbonato disponibles. ¿Cuál es el impacto biológico más crítico para los arrecifes de coral del Caribe panameño?
+El aumento de la temperatura de los océanos causa el "blanqueamiento del coral" en nuestras costas. ¿Cuál es el mecanismo biológico exacto detrás de este fenómeno que amenaza la biodiversidad marina de Panamá?
 
 ### Options
-- [ ] A) El agua se vuelve demasiado ácida para que los peces puedan respirar. <!-- feedback: Incorrecto. El cambio de pH afecta primero a la calcificación antes que a la respiración directa de los peces. -->
-- [x] B) Los corales no pueden construir o mantener sus esqueletos de carbonato de calcio, debilitando la estructura de todo el ecosistema. <!-- feedback: Correcto. La acidificación dificulta la formación de cristales de aragonito/calcita. -->
-- [ ] C) Las algas crecen más rápido y asfixian a los corales. <!-- feedback: Incorrecto. Aunque ocurre por otras causas (eutrofización), no es el efecto químico directo de la falta de carbonatos. -->
-- [ ] D) El CO2 disuelto hace que el agua hierva y queme a los pólipos. <!-- feedback: Incorrecto. Físicamente imposible en las condiciones planetarias. -->
+- [ ] A) El coral se quema directamente por el calor del sol. <!-- feedback: Incorrecto. El daño es a nivel celular y simbiótico, no una quemadura física externa directa. -->
+- [ ] B) Las bacterias patógenas comen el tejido del coral debido al calor. <!-- feedback: Incorrecto. Aunque las enfermedades pueden aumentar, el blanqueamiento es inicialmente un proceso de expulsión de simbiontes. -->
+- [x] C) El estrés por calor hace que el coral expulse a las algas simbiontes (zooxantelas) que le dan color y comida. <!-- feedback: Correcto. Sin las algas, el tejido del coral es transparente y muestra el esqueleto blanco de carbonato de calcio. -->
+- [ ] D) El exceso de $CO_2$ disuelto en el agua tiñe el coral de blanco. <!-- feedback: Incorrecto. El $CO_2$ causa acidificación, que dificulta la formación del esqueleto, pero no es la causa directa del color blanco del blanqueamiento. -->
 
 ### Explicación Pedagógica
-Evaluación de las interacciones químicas globales y su impacto específico en la fisiología de organismos marinos clave.
+Evaluación de las consecuencias del estrés ambiental en las relaciones simbióticas críticas para los ecosistemas.
 
 ---
 
-## Question 20 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 20 [D9-D10] (Difficulty 10)
 **ID:** `PA-CIE-11-P1-biologia-001-v20`
-**Bloom:** Create
-**Competencia:** Indagación y Análisis
-**Context:** Bioética y edición genética.
+**Bloom:** Apply
+**Competencia:** Indagación
+**Context:** Epigenética y entorno.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La tecnología CRISPR permite editar el genoma de embriones humanos con precisión. Ante la posibilidad de eliminar enfermedades hereditarias versus la creación de "humanos mejorados", ¿cuál es el consenso ético principal que rige actualmente la investigación científica?
+Se ha descubierto que factores ambientales en el Istmo (como la dieta o el estrés) pueden "encender" o "apagar" genes sin cambiar la secuencia del ADN. ¿Cómo se denomina este campo de la biología y cuál es uno de sus mecanismos principales?
 
 ### Options
-- [ ] A) Se debe permitir todo cambio que aumente la inteligencia humana. <!-- feedback: Incorrecto. Existe un fuerte debate y restricción sobre mejoras no terapéuticas. -->
-- [ ] B) Está prohibido usar CRISPR en cualquier organismo vivo. <!-- feedback: Incorrecto. Se usa ampliamente en plantas, animales y células somáticas humanas. -->
-- [x] C) Se favorece su uso para terapia génica en células somáticas (no heredables), pero existe una moratoria global sobre cambios en la línea germinal (heredables) por riesgos imprevistos. <!-- feedback: Correcto. Refleja la precaución actual de la comunidad científica internacional. -->
-- [ ] D) Solo los gobiernos pueden decidir qué genes son "buenos" o "malos". <!-- feedback: Incorrecto. La ética científica es un campo multidisciplinario que trasciende decisiones gubernamentales unilaterales. -->
+- [x] A) Epigenética - Metilación del ADN <!-- feedback: Correcto. La epigenética estudia cambios heredables en la expresión génica; la metilación es una marca química que silencia genes. -->
+- [ ] B) Mutagénesis - Radiación UV <!-- feedback: Incorrecto. La mutagénesis cambia la secuencia del ADN, lo cual contradice el enunciado. -->
+- [ ] C) Selección Disruptiva - Aislamiento reproductivo <!-- feedback: Incorrecto. Estos son conceptos de evolución de poblaciones, no de control de expresión génica individual por el entorno. -->
+- [ ] D) Proteómica - Síntesis de ribosomas <!-- feedback: Incorrecto. La proteómica estudia el conjunto total de proteínas, no los mecanismos de control de encendido de genes. -->
 
 ### Explicación Pedagógica
-Capacidad de discernir y evaluar dilemas éticos complejos derivados del avance de las ciencias biológicas.
+Modelización de los mecanismos modernos de regulación génica y su interacción con el ambiente.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Biología para el Grado 11 en Panamá ofrece una visión integral de las ciencias de la vida, desde la estructura molecular de la célula hasta los desafíos ecológicos globales. Al integrar contextos locales como la biodiversidad del Darién, la formación geológica del istmo y la biotecnología en la Ciudad del Saber, se logra un aprendizaje significativo y situado. El diseño riguroso de las preguntas y distractores permite a los estudiantes no solo prepararse para el bachillerato, sino también desarrollar un pensamiento crítico basado en la evidencia científica para comprender y proteger el patrimonio natural de Panamá.

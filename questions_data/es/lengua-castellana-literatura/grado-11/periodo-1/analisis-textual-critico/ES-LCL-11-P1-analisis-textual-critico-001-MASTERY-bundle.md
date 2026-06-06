@@ -12,455 +12,448 @@ alignment: "LOMLOE + EBAU"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.55
-  discrimination_index_target: ">= 0.22"
+  expected_success_rate: 0.65
+  discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 ---
 
 # MASTERY Bundle — Análisis Textual y Crítico (ES-001)
 
-## Bloque A — Nivel D3–D4: Comprensión y Estructura Básica
-
-**Texto 1:**
-"La lectura de los clásicos no se hace por deber o por respeto, sino solo por amor. Excepto en la escuela: la escuela debe haceros conocer cierto número de clásicos entre los cuales podáis luego elegir vuestros clásicos. La escuela está obligada a daros los instrumentos para efectuar una elección; pero las elecciones que cuentan son las que ocurren fuera o después de cualquier escuela." (Italo Calvino, *Por qué leer los clásicos*)
+## Bloque A — Nivel D3–D4: Comprensión y Tipología Textual
 
 ---
 
 ## Question 1 [D3-D4] (Difficulty 3)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v1`
-**Bloom:** Understand
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Comprensión de la tesis del autor sobre la escuela.
+**Bloom:** Remember
+**EBAU:** Comunicación escrita: Comprensión
+**Context:** Elementos de la comunicación.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según el autor, ¿cuál es la función principal de la escuela en relación con los libros clásicos?
+En un artículo de opinión publicado en un diario nacional español, el autor utiliza la ironía para criticar una nueva ley. ¿Cuál es la función del lenguaje predominante cuando el autor busca influir en la opinión del lector?
 
 ### Options
-- [ ] A) Obligar a los alumnos a amar la literatura clásica mediante exámenes. <!-- feedback: Incorrecto. El autor dice que el amor es la única razón para leer clásicos, pero no sugiere que la escuela deba "obligar a amar". -->
-- [x] B) Proporcionar las herramientas necesarias para que el alumno pueda elegir en el futuro. <!-- feedback: Correcto. El texto afirma que la escuela debe dar los instrumentos para efectuar una elección posterior. -->
-- [ ] C) Sustituir las elecciones personales que los jóvenes hacen fuera del aula. <!-- feedback: Incorrecto. El texto dice que las elecciones que cuentan son las de fuera o después de la escuela. -->
-- [ ] D) Definir de forma cerrada y definitiva qué libros son clásicos y cuáles no. <!-- feedback: Incorrecto. El papel de la escuela es presentar una variedad para que el alumno elija sus propios clásicos. -->
+- [ ] A) Función referencial <!-- feedback: Incorrecto. Esta función se centra en transmitir información objetiva sobre la realidad, no en influir en el receptor. -->
+- [x] B) Función apelativa o conativa <!-- feedback: Correcto. Predomina cuando la intención es influir, aconsejar o llamar la atención del receptor para que actúe o piense de cierta forma. -->
+- [ ] C) Función expresiva <!-- feedback: Incorrecto. Se centra en la subjetividad del emisor, pero en un artículo de crítica el objetivo final suele ser la reacción del lector. -->
+- [ ] D) Función metalingüística <!-- feedback: Incorrecto. Esta función se utiliza para hablar del propio código (la lengua), no para argumentar o criticar. -->
 
 ### Explicación Pedagógica
-Identificación de la función instrumental de la educación formal según el fragmento propuesto.
+Identificación de las funciones del lenguaje aplicadas al análisis de textos periodísticos de opinión.
 
 ---
 
 ## Question 2 [D3-D4] (Difficulty 3)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v2`
-**Bloom:** Remember
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Uso del lenguaje y registro.
+**Bloom:** Understand
+**EBAU:** Conocimiento de la lengua
+**Context:** Cohesión textual.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la frase "la escuela debe haceros conocer cierto número de clásicos", el uso del pronombre "os" indica que el autor se dirige a:
+¿Cuál de los siguientes mecanismos de cohesión consiste en la sustitución de un término por otro de significado equivalente para evitar la repetición en un texto?
 
 ### Options
-- [ ] A) Un grupo de profesores de secundaria. <!-- feedback: Incorrecto. Aunque ellos enseñan, el contexto de "haceros conocer" apunta a quienes reciben el conocimiento. -->
-- [x] B) Los estudiantes o lectores jóvenes. <!-- feedback: Correcto. El uso de la segunda persona del plural (vosotros) es típico para dirigirse directamente a la audiencia que está en etapa formativa. -->
-- [ ] C) Las autoridades del Ministerio de Educación. <!-- feedback: Incorrecto. El tono es personal y pedagógico, no administrativo o político. -->
-- [ ] D) Otros escritores de su misma generación. <!-- feedback: Incorrecto. El contenido sobre la escuela y el aprendizaje sugiere un destinatario en formación. -->
+- [ ] A) Elipsis <!-- feedback: Incorrecto. La elipsis consiste en suprimir elementos que se sobreentienden, no en sustituirlos. -->
+- [x] B) Sinonimia <!-- feedback: Correcto. Es el uso de sinónimos para mantener el referente sin repetir la misma palabra, favoreciendo la elegancia textual. -->
+- [ ] C) Deixis anafórica <!-- feedback: Incorrecto. La anáfora usa pronombres o adverbios para referirse a algo ya dicho, no necesariamente términos equivalentes. -->
+- [ ] D) Recurrencia léxica <!-- feedback: Incorrecto. La recurrencia es precisamente la repetición de la misma palabra, lo contrario de lo que se pregunta. -->
 
 ### Explicación Pedagógica
-Reconocimiento del destinatario y la situación comunicativa a través de marcas deícticas.
+Comprensión de los mecanismos léxico-semánticos que garantizan la cohesión y variedad de un texto escrito.
 
 ---
 
 ## Question 3 [D3-D4] (Difficulty 4)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v3`
 **Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Coherencia y conectores.
+**EBAU:** Educación literaria
+**Context:** Géneros literarios.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué relación lógica establece el conector "pero" en la última oración del texto?
+Un texto literario presenta una voz que expresa sus sentimientos más profundos de forma subjetiva, con un ritmo marcado y un uso abundante de metáforas. ¿A qué género literario pertenece principalmente?
 
 ### Options
-- [ ] A) Causa-consecuencia entre la escuela y la elección. <!-- feedback: Incorrecto. El conector "pero" no indica causalidad, sino oposición o matización. -->
-- [ ] B) Adición de una nueva obligación para el sistema escolar. <!-- feedback: Incorrecto. No está sumando tareas, sino limitando el alcance de lo que la escuela hace. -->
-- [x] C) Contraste entre la función de la escuela y la relevancia de la elección personal. <!-- feedback: Correcto. Opone el deber de la escuela de dar instrumentos frente al valor superior de la elección libre fuera de ella. -->
-- [ ] D) Explicación del motivo por el cual los clásicos son difíciles de leer. <!-- feedback: Incorrecto. El texto no trata sobre la dificultad de lectura, sino sobre la libertad de elección. -->
+- [ ] A) Género narrativo <!-- feedback: Incorrecto. La narrativa se centra en el relato de hechos realizados por personajes en un tiempo y espacio. -->
+- [ ] B) Género dramático <!-- feedback: Incorrecto. El drama se basa en el diálogo y la acción destinada a la representación escénica. -->
+- [x] C) Género lírico <!-- feedback: Correcto. La lírica es el género de la subjetividad por excelencia, donde el autor expresa emociones y estados de ánimo. -->
+- [ ] D) Género didáctico <!-- feedback: Incorrecto. Su finalidad es la enseñanza o la divulgación de ideas, no la expresión de sentimientos íntimos. -->
 
 ### Explicación Pedagógica
-Análisis de la función de los conectores adversativos en la estructuración de la argumentación.
+Análisis de las características definitorias de los grandes géneros literarios y su intención comunicativa.
 
 ---
 
 ## Question 4 [D3-D4] (Difficulty 4)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v4`
 **Bloom:** Understand
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Significado de palabras en contexto.
+**EBAU:** Comunicación escrita: Comprensión
+**Context:** Estructura del texto expositivo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En el texto, la palabra "clásicos" se refiere fundamentalmente a:
+En un manual de Historia de España, un capítulo explica las causas de la Guerra Civil. ¿Qué estructura suele seguir este tipo de texto cuya finalidad es informar de forma objetiva?
 
 ### Options
-- [x] A) Obras literarias que perduran en el tiempo y mantienen su relevancia. <!-- feedback: Correcto. En el contexto de Calvino y la literatura, se refiere a libros de valor universal y duradero. -->
-- [ ] B) Modelos de comportamiento antiguos que debemos imitar. <!-- feedback: Incorrecto. El texto habla de lectura y elección de libros, no de normas sociales antiguas. -->
-- [ ] C) Estudiantes que sacan las mejores notas en lengua y literatura. <!-- feedback: Incorrecto. No se refiere a personas, sino a los objetos de lectura presentados por la escuela. -->
-- [ ] D) Libros que solo se leen en las universidades de prestigio. <!-- feedback: Incorrecto. Calvino defiende que los clásicos son para todos los que los amen, no solo para una élite académica. -->
+- [ ] A) Tesis - Argumentos - Conclusión <!-- feedback: Incorrecto. Esta es la estructura propia del texto argumentativo, no del puramente expositivo. -->
+- [x] B) Introducción - Desarrollo - Conclusión <!-- feedback: Correcto. Es la estructura canónica de los textos expositivos para organizar la información de forma lógica y clara. -->
+- [ ] C) Planteamiento - Nudo - Desenlace <!-- feedback: Incorrecto. Esta estructura pertenece a los textos narrativos de ficción o crónicas. -->
+- [ ] D) Exordio - Narración - Epílogo <!-- feedback: Incorrecto. Son términos propios de la retórica clásica para discursos orales persuasivos. -->
 
 ### Explicación Pedagógica
-Identificación del referente semántico principal en un texto de crítica literaria.
+Reconocimiento de los esquemas organizativos básicos de los textos informativos y expositivos académicos.
 
 ---
 
-## Bloque B — Nivel D5–D6: Análisis Sintáctico y Tipología Textual
-
-**Texto 2:**
-"Es posible que, en los próximos años, veamos un cambio radical en la forma en que consumimos información. Los periódicos en papel, que antaño fueron los soberanos de la opinión pública, luchan ahora por sobrevivir en un ecosistema dominado por la inmediatez de las redes sociales. No obstante, la calidad del periodismo de investigación sigue siendo el baluarte contra la desinformación."
+## Bloque B — Nivel D5–D6: Análisis Sintáctico y Semántico
 
 ---
 
 ## Question 5 [D5-D6] (Difficulty 5)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v5`
-**Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Análisis sintáctico.
+**Bloom:** Apply
+**EBAU:** Conocimiento de la lengua: Sintaxis
+**Context:** Análisis de la oración simple.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la oración "Los periódicos en papel, que antaño fueron los soberanos de la opinión pública, luchan ahora por sobrevivir", la proposición subordinada es:
+En la oración "El Museo del Prado recibió a miles de visitantes este verano", ¿cuál es la función sintáctica de "a miles de visitantes"?
 
 ### Options
-- [ ] A) Sustantiva en función de sujeto. <!-- feedback: Incorrecto. No cumple la función de un sustantivo sustituible por "esto". -->
-- [x] B) Adjetiva (o de relativo) explicativa. <!-- feedback: Correcto. Va entre comas y aporta una información adicional sobre el antecedente "los periódicos en papel". -->
-- [ ] C) Adjetiva (o de relativo) especificativa. <!-- feedback: Incorrecto. Al ir entre comas, es explicativa; las especificativas no llevan comas y restringen el significado. -->
-- [ ] D) Adverbial de tiempo. <!-- feedback: Incorrecto. Aunque incluye "antaño", la proposición completa describe al nombre, no al verbo principal. -->
+- [ ] A) Sujeto <!-- feedback: Incorrecto. El sujeto es "El Museo del Prado", que concuerda en número y persona con el verbo. -->
+- [x] B) Complemento Directo <!-- feedback: Correcto. Es el elemento sobre el que recae la acción. Se puede sustituir por "los" (los recibió) y pasa a sujeto en la pasiva. -->
+- [ ] C) Complemento Indirecto <!-- feedback: Incorrecto. El CI indica el destinatario o beneficiario, no el objeto directo de la recepción. -->
+- [ ] D) Complemento de Régimen <!-- feedback: Incorrecto. El verbo "recibir" no exige una preposición específica para completar su significado básico. -->
 
 ### Explicación Pedagógica
-Reconocimiento de proposiciones subordinadas de relativo y su distinción según la puntuación.
+Identificación de complementos verbales mediante pruebas de sustitución pronominal y transformación pasiva.
 
 ---
 
 ## Question 6 [D5-D6] (Difficulty 5)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v6`
-**Bloom:** Apply
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Categorías gramaticales.
+**Bloom:** Understand
+**EBAU:** Conocimiento de la lengua: Semántica
+**Context:** Relaciones semánticas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿A qué categoría gramatical pertenece la palabra "No obstante" en el Texto 2?
+En el par de palabras "haya" (árbol) y "halla" (del verbo hallar), nos encontramos ante un fenómeno de:
 
 ### Options
-- [ ] A) Preposición simple. <!-- feedback: Incorrecto. Es una estructura compuesta por dos palabras. -->
-- [ ] B) Conjunción subordinante final. <!-- feedback: Incorrecto. No indica finalidad ni es una conjunción simple. -->
-- [x] C) Locución conjuntiva adversativa. <!-- feedback: Correcto. Es un conjunto de palabras que funciona como una conjunción expresando oposición o contraste. -->
-- [ ] D) Adverbio de modo. <!-- feedback: Incorrecto. No modifica al verbo indicando cómo se realiza la acción, sino que conecta ideas opuestas. -->
+- [ ] A) Polisemia <!-- feedback: Incorrecto. La polisemia es un solo significante con varios significados relacionados. -->
+- [x] B) Homofonía <!-- feedback: Correcto. Se pronuncian igual pero se escriben de forma distinta y tienen significados diferentes. -->
+- [ ] C) Homonimia absoluta <!-- feedback: Incorrecto. Sería absoluta si se escribieran exactamente igual (homografía). -->
+- [ ] D) Sinonimia <!-- feedback: Incorrecto. Los significados no tienen ninguna relación de semejanza. -->
 
 ### Explicación Pedagógica
-Identificación de locuciones y su valor conectivo en el discurso.
+Distinción entre fenómenos de ambigüedad léxica basados en la fonética y la ortografía del castellano.
 
 ---
 
 ## Question 7 [D5-D6] (Difficulty 5)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v7`
-**Bloom:** Understand
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Tipología textual.
+**Bloom:** Apply
+**EBAU:** Conocimiento de la lengua: Sintaxis
+**Context:** Oraciones subordinadas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Por su estructura y contenido, el Texto 2 puede clasificarse como:
+Identifica el tipo de proposición subordinada en la siguiente oración: "Es necesario que estudies con constancia para la EBAU".
 
 ### Options
-- [ ] A) Un fragmento de una novela de ciencia ficción. <!-- feedback: Incorrecto. Trata sobre la realidad del periodismo actual, no es una narración ficcional de futuro. -->
-- [x] B) Un artículo de opinión o editorial periodística. <!-- feedback: Correcto. Expresa una visión subjetiva y reflexiva sobre un tema de actualidad social. -->
-- [ ] C) Una receta técnica para crear una red social. <!-- feedback: Incorrecto. No da instrucciones paso a paso ni tiene lenguaje técnico de programación. -->
-- [ ] D) Un poema lírico sobre la nostalgia del papel. <!-- feedback: Incorrecto. Aunque menciona el pasado, su tono es expositivo-argumentativo, no poético. -->
+- [ ] A) Subordinada adjetiva <!-- feedback: Incorrecto. No modifica a un sustantivo ni puede sustituirse por un adjetivo. -->
+- [x] B) Subordinada sustantiva de sujeto <!-- feedback: Correcto. La proposición "que estudies..." funciona como sujeto del verbo "es". Se puede sustituir por "Eso" (Eso es necesario). -->
+- [ ] C) Subordinada sustantiva de objeto directo <!-- feedback: Incorrecto. El verbo "ser" es copulativo y no admite objeto directo. -->
+- [ ] D) Subordinada adverbial final <!-- feedback: Incorrecto. Aunque hay una intención, la estructura marcada por "que" tras un adjetivo atributivo es sustantiva. -->
 
 ### Explicación Pedagógica
-Reconocimiento de los géneros periodísticos y su intención comunicativa.
+Reconocimiento de las funciones de las proposiciones subordinadas sustantivas en estructuras impersonales con verbos copulativos.
 
 ---
 
 ## Question 8 [D5-D6] (Difficulty 6)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v8`
 **Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Análisis de metáforas.
+**EBAU:** Conocimiento de la lengua: Morfología
+**Context:** Formación de palabras.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Cuando el autor llama a los periódicos "soberanos de la opinión pública", está utilizando:
+La palabra "antiimperialista" se ha formado mediante el proceso de:
 
 ### Options
-- [ ] A) Una hipérbole para burlarse de la prensa antigua. <!-- feedback: Incorrecto. No hay tono burlesco, sino descriptivo de un poder pasado. -->
-- [x] B) Una metáfora para indicar el poder y la influencia que tenían. <!-- feedback: Correcto. Identifica el dominio de los periódicos con la soberanía de un monarca. -->
-- [ ] C) Una personificación para dotar de vida a los objetos inanimados. <!-- feedback: Incorrecto. Aunque "soberano" se aplica a personas, la intención es marcar jerarquía y poder social, no rasgos humanos. -->
-- [ ] D) Un pleonasmo innecesario. <!-- feedback: Incorrecto. No hay repetición de conceptos, sino una sustitución figurada. -->
+- [ ] A) Composición <!-- feedback: Incorrecto. No es la unión de dos lexemas independientes de la lengua. -->
+- [ ] B) Derivación por sufijación <!-- feedback: Incorrecto. Aunque tiene sufijo, también tiene un prefijo clave al inicio. -->
+- [x] C) Derivación por prefijación y sufijación <!-- feedback: Correcto. Contiene el prefijo "anti-", el lexema "imperi-" y los sufijos "-al-" e "-ista". -->
+- [ ] D) Parasíntesis <!-- feedback: Incorrecto. En la parasíntesis la prefijación y sufijación deben ser simultáneas (sin una no existe la otra), lo cual no es el caso aquí ("imperialista" existe). -->
 
 ### Explicación Pedagógica
-Interpretación de figuras retóricas en el lenguaje periodístico y su función comunicativa.
+Análisis de la estructura interna de las palabras y los procedimientos de creación léxica en español.
 
 ---
 
 ## Question 9 [D5-D6] (Difficulty 6)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v9`
-**Bloom:** Evaluate
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Intencionalidad y tesis.
+**Bloom:** Analyze
+**EBAU:** Comunicación escrita: Comprensión
+**Context:** Tipos de argumentos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la idea central que el autor defiende en el último enunciado del Texto 2?
+En un debate sobre el cambio climático, un ponente afirma: "Como dice el último informe del IPCC, las temperaturas globales seguirán subiendo". ¿Qué tipo de argumento está utilizando?
 
 ### Options
-- [ ] A) Que las redes sociales son mejores que el periodismo tradicional. <!-- feedback: Incorrecto. El autor destaca el valor del periodismo de investigación frente a la desinformación. -->
-- [ ] B) Que el periodismo de investigación ha desaparecido por completo. <!-- feedback: Incorrecto. Lo califica de "baluarte", lo que implica que aún resiste y es necesario. -->
-- [x] C) Que el rigor informativo es la defensa esencial contra las noticias falsas. <!-- feedback: Correcto. El término "baluarte contra la desinformación" refuerza esta idea. -->
-- [ ] D) Que ya no es necesario investigar porque todo está en Internet. <!-- feedback: Incorrecto. Precisamente defiende la investigación como antídoto a los problemas de Internet. -->
+- [x] A) Argumento de autoridad <!-- feedback: Correcto. Se basa en el prestigio o conocimiento de una persona o institución experta en la materia para validar la tesis. -->
+- [ ] B) Argumento de experiencia personal <!-- feedback: Incorrecto. No se basa en lo que el ponente ha vivido personalmente, sino en datos externos expertos. -->
+- [ ] C) Argumento de analogía <!-- feedback: Incorrecto. No establece una comparación entre dos situaciones similares para extraer una conclusión. -->
+- [ ] D) Argumento de generalización indiscutible <!-- feedback: Incorrecto. Se apoya en una fuente específica, no en el "sentir general" de la sociedad. -->
 
 ### Explicación Pedagógica
-Extracción de la tesis fundamental de un párrafo argumentativo breve.
+Identificación de estrategias argumentativas en textos de carácter científico o divulgativo.
 
 ---
 
 ## Question 10 [D5-D6] (Difficulty 6)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v10`
-**Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Registro lingüístico.
+**Bloom:** Understand
+**EBAU:** Conocimiento de la lengua
+**Context:** Valores del "se".
+**Expected_Success:** 0.60
 
 ### Enunciado
-El uso de palabras como "antaño", "soberanos" y "baluarte" confiere al texto un registro:
+Indica el valor del pronombre "se" en la oración: "Se venden apartamentos en la costa granadina".
 
 ### Options
-- [ ] A) Coloquial y desenfadado, propio de una charla entre amigos. <!-- feedback: Incorrecto. Ese vocabulario es demasiado formal y preciso para el registro coloquial. -->
-- [ ] B) Vulgar, con errores gramaticales evidentes. <!-- feedback: Incorrecto. El texto está perfectamente construido y utiliza términos cultos. -->
-- [x] C) Culto y formal, adecuado para el análisis intelectual. <!-- feedback: Correcto. Son términos precisos y con cierta carga literaria que elevan el tono del discurso. -->
-- [ ] D) Técnico-científico, lleno de jerga informática. <!-- feedback: Incorrecto. Aunque menciona redes sociales, el vocabulario principal es humanístico y literario. -->
+- [ ] A) Se reflexivo <!-- feedback: Incorrecto. Los apartamentos no se venden a sí mismos; la acción no recae sobre el mismo sujeto que la realiza. -->
+- [x] B) Se de pasiva refleja <!-- feedback: Correcto. Equivale a "Apartamentos son vendidos". El elemento "apartamentos" es el sujeto paciente (concuerda con el verbo). -->
+- [ ] C) Se impersonal <!-- feedback: Incorrecto. En las impersonales el verbo siempre va en 3ª persona del singular y no hay un elemento que funcione como sujeto. -->
+- [ ] D) Se recíproco <!-- feedback: Incorrecto. No hay varios sujetos que realicen y reciban la acción mutuamente. -->
 
 ### Explicación Pedagógica
-Identificación de los niveles del lenguaje y adecuación al contexto.
+Análisis de los diferentes valores gramaticales del pronombre "se", crucial para la interpretación correcta de oraciones complejas.
 
 ---
 
-## Bloque C — Nivel D7–D8: Argumentación Compleja y Pensamiento Crítico
-
-**Texto 3:**
-"El Quijote no es un libro sobre un loco, sino sobre la frontera entre la realidad y el deseo. Cervantes, al enfrentaros a la figura de Alonso Quijano, no busca que os burléis de su demencia, sino que comprendáis que la ficción es, a menudo, más verdadera que la prosaica realidad de las ventas manchegas. En un mundo que nos obliga a ser realistas, la 'locura' de Don Quijote es un acto de resistencia ética."
+## Bloque C — Nivel D7–D8: Literatura y Comentario Crítico
 
 ---
 
 ## Question 11 [D7-D8] (Difficulty 7)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v11`
 **Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Interpretación literaria profunda.
+**EBAU:** Educación literaria: Siglo de Oro
+**Context:** Poesía barroca.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Según el Texto 3, la locura de Don Quijote debe entenderse como:
+"Érase un hombre a una nariz pegado, / érase una nariz superlativa...". Estos versos de Quevedo son un ejemplo máximo de:
 
 ### Options
-- [ ] A) Una enfermedad mental que Cervantes quería denunciar socialmente. <!-- feedback: Incorrecto. El texto dice que no es un libro sobre un loco, sino sobre la resistencia ética. -->
-- [ ] B) Un recurso cómico para entretener a los lectores menos formados. <!-- feedback: Incorrecto. El autor rechaza la idea de la burla simple. -->
-- [x] C) Una forma de rechazo a una realidad excesivamente materialista o vulgar. <!-- feedback: Correcto. Se describe como un "acto de resistencia ética" frente a la "prosaica realidad". -->
-- [ ] D) Una consecuencia directa de haber leído demasiados libros de caballerías. <!-- feedback: Incorrecto. Aunque es el origen en la trama, el texto propone una interpretación simbólica más profunda. -->
+- [ ] A) Culteranismo <!-- feedback: Incorrecto. El culteranismo (Góngora) busca la belleza formal y la complejidad sintáctica, no necesariamente la agudeza del concepto. -->
+- [x] B) Conceptismo <!-- feedback: Correcto. Se basa en la agudeza mental, el juego de palabras y la asociación ingeniosa de conceptos. -->
+- [ ] C) Renacimiento <!-- feedback: Incorrecto. El equilibrio y la armonía renacentistas son ajenos a la deformación grotesca de este poema. -->
+- [ ] D) Misticismo <!-- feedback: Incorrecto. No trata sobre la unión del alma con Dios, sino sobre la burla satírica de un defecto físico. -->
 
 ### Explicación Pedagógica
-Análisis de la interpretación simbólica de personajes clásicos en la crítica literaria moderna.
+Identificación de las corrientes estéticas del Barroco español a través de sus autores y rasgos estilísticos representativos.
 
 ---
 
 ## Question 12 [D7-D8] (Difficulty 7)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v12`
-**Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Estructura de la argumentación.
+**Bloom:** Apply
+**EBAU:** Educación literaria: Generación del 27
+**Context:** Federico García Lorca.
+**Expected_Success:** 0.60
 
 ### Enunciado
-La expresión "no es un libro sobre un loco, sino sobre la frontera entre la realidad y el deseo" constituye:
+En "La casa de Bernarda Alba", el bastón de Bernarda funciona como un símbolo de:
 
 ### Options
-- [x] A) Una antítesis que redefine el tema principal de la obra. <!-- feedback: Correcto. Opone dos conceptos (loco vs. frontera realidad/deseo) para clarificar la tesis. -->
-- [ ] B) Una tautología que repite lo que ya se sabe del personaje. <!-- feedback: Incorrecto. Al contrario, busca alejarse de la visión simplista tradicional. -->
-- [ ] C) Una falacia ad hominem contra Cervantes. <!-- feedback: Incorrecto. No ataca a la persona, sino que analiza su creación. -->
-- [ ] D) Una enumeración caótica de temas secundarios. <!-- feedback: Incorrecto. Hay una estructura clara de negación y afirmación, no una lista sin orden. -->
+- [ ] A) La vejez y la sabiduría. <!-- feedback: Incorrecto. Bernarda no utiliza el bastón por necesidad física, sino como herramienta de imposición. -->
+- [x] B) La autoridad y el poder tiránico. <!-- feedback: Correcto. El bastón representa el mando absoluto de Bernarda sobre sus hijas; su ruptura simboliza el fin de ese orden. -->
+- [ ] C) La ceguera ante la realidad de sus hijas. <!-- feedback: Incorrecto. Aunque Bernarda está ciega a la realidad, el bastón es un símbolo activo de represión, no pasivo de ignorancia. -->
+- [ ] D) La hospitalidad y el orden doméstico. <!-- feedback: Incorrecto. La casa es una cárcel y el bastón es el arma del carcelero. -->
 
 ### Explicación Pedagógica
-Identificación de recursos retóricos argumentativos (corrección y matización).
+Interpretación de la simbología en el teatro lorquiano y su relación con los temas de la opresión y la libertad.
 
 ---
 
 ## Question 13 [D7-D8] (Difficulty 7)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v13`
 **Bloom:** Evaluate
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Evaluación de la postura del autor.
+**EBAU:** Educación literaria: Realismo
+**Context:** Benito Pérez Galdós.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué actitud muestra el autor del Texto 3 hacia la figura de Don Quijote?
+¿Cuál es la técnica narrativa principal que utiliza Galdós en sus novelas para permitir al lector acceder directamente a los pensamientos más íntimos y desordenados de los personajes?
 
 ### Options
-- [ ] A) Distante y objetiva, analizando datos clínicos de su mente. <!-- feedback: Incorrecto. El tono es valorativo y empático con la "resistencia ética" del personaje. -->
-- [ ] B) Crítica y negativa, lamentando que no fuera un caballero real. <!-- feedback: Incorrecto. Al contrario, valora la ficción por encima de la realidad. -->
-- [x] C) Admirativa y reivindicativa, resaltando el valor moral de su idealismo. <!-- feedback: Correcto. Utiliza términos positivos como "resistencia ética" y "más verdadera que la realidad". -->
-- [ ] D) Indiferente, tratando la obra como un texto antiguo sin vigencia. <!-- feedback: Incorrecto. Conecta la obra con la obligación de ser realistas en el "mundo actual". -->
+- [ ] A) Narrador omnisciente limitado. <!-- feedback: Incorrecto. Aunque es omnisciente, esta técnica no describe el pensamiento crudo sino que lo relata. -->
+- [x] B) Monólogo interior o estilo indirecto libre. <!-- feedback: Correcto. Permite insertar la voz del personaje en el discurso del narrador sin marcas introductorias, ganando realismo psicológico. -->
+- [ ] C) Epistolario (cartas). <!-- feedback: Incorrecto. Aunque lo usa, no es la técnica que define la modernidad psicológica de sus grandes novelas. -->
+- [ ] D) Descripción objetivista externa. <!-- feedback: Incorrecto. Galdós profundiza en el interior, no se queda solo en la apariencia física de las cosas. -->
 
 ### Explicación Pedagógica
-Determinación del tono y la perspectiva del autor sobre un objeto de estudio literario.
+Análisis de las innovaciones narrativas del Realismo español hacia la introspección psicológica del personaje.
 
 ---
 
 ## Question 14 [D7-D8] (Difficulty 8)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v14`
 **Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Relación texto-contexto histórico.
+**EBAU:** Educación literaria: Modernismo
+**Context:** Rubén Darío.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Al mencionar las "prosaicas realidad de las ventas manchegas", el autor hace referencia a:
+"Los claros clarines de pronto levantan sus sones...". El uso de la aliteración y el ritmo marcado en este verso de Rubén Darío responde a la búsqueda modernista de:
 
 ### Options
-- [ ] A) El éxito turístico actual de la región de Castilla-La Mancha. <!-- feedback: Incorrecto. El contexto es literario y cervantino, no sobre el turismo moderno. -->
-- [x] B) El entorno cotidiano y vulgar que contrasta con el mundo caballeresco. <!-- feedback: Correcto. "Prosaico" se refiere a lo que carece de idealismo o belleza, representando la realidad cruda de la España de la época. -->
-- [ ] C) Los problemas económicos de Cervantes para pagar sus deudas. <!-- feedback: Incorrecto. Se refiere al escenario de la novela y su significado simbólico, no a la biografía económica del autor. -->
-- [ ] D) La falta de higiene en los establecimientos de hostelería del siglo XVII. <!-- feedback: Incorrecto. Es una lectura demasiado literal y simplista del término "prosaica". -->
+- [ ] A) La sencillez expresiva. <!-- feedback: Incorrecto. El modernismo huye de la sencillez buscando el artificio y la exquisitez. -->
+- [x] B) La musicalidad del verso. <!-- feedback: Correcto. Para los modernistas, la sonoridad de las palabras era tan importante como su significado. -->
+- [ ] C) El compromiso social. <!-- feedback: Incorrecto. El modernismo inicial es esteticista y suele evadir la realidad social inmediata. -->
+- [ ] D) La objetividad científica. <!-- feedback: Incorrecto. Es un movimiento subjetivo y sensorial, opuesto al espíritu racionalista. -->
 
 ### Explicación Pedagógica
-Interpretación semántica de adjetivos valorativos en el análisis de escenarios literarios.
+Identificación de los rasgos estéticos del Modernismo: sensorialidad, musicalidad y refinamiento formal.
 
 ---
 
 ## Question 15 [D7-D8] (Difficulty 8)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v15`
-**Bloom:** Create
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Síntesis argumentativa.
+**Bloom:** Evaluate
+**EBAU:** Comunicación escrita: Comentario de texto
+**Context:** Análisis de la intención comunicativa.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si tuvierais que resumir el argumento central del Texto 3 en una sola frase que incluya los conceptos de "ética" e "idealismo", ¿cuál sería la más precisa?
+Al analizar un editorial de un periódico sobre la reforma educativa, observamos un uso abundante de adjetivos valorativos y verbos en modo imperativo. ¿Qué podemos concluir sobre la actitud del emisor?
 
 ### Options
-- [ ] A) Don Quijote era un idealista que olvidó la ética al atacar a inocentes. <!-- feedback: Incorrecto. El texto defiende que su locura es precisamente un acto ético. -->
-- [ ] B) La ética de Cervantes le obligaba a burlarse del idealismo de su tiempo. <!-- feedback: Incorrecto. El texto dice que no busca la burla, sino la comprensión del idealismo como verdad superior. -->
-- [x] C) El idealismo de Don Quijote constituye una postura ética frente a una realidad vulgar y restrictiva. <!-- feedback: Correcto. Une ambos conceptos reflejando fielmente la tesis del fragmento. -->
-- [ ] D) El mundo actual es demasiado idealista y carece de una ética realista. <!-- feedback: Incorrecto. El texto dice lo contrario: el mundo nos obliga a ser realistas. -->
+- [ ] A) Que busca ser neutral y dejar que el lector decida. <!-- feedback: Incorrecto. La adjetivación valorativa y el imperativo son marcas claras de subjetividad y deseo de influir. -->
+- [x] B) Que adopta una postura subjetiva y busca persuadir al receptor. <!-- feedback: Correcto. Los adjetivos califican la realidad según su visión y el imperativo busca mover a la acción o adhesión. -->
+- [ ] C) Que desconoce el tema y por eso usa un lenguaje impreciso. <!-- feedback: Incorrecto. La fuerza expresiva no implica desconocimiento, sino una voluntad ideológica marcada. -->
+- [ ] D) Que el texto es puramente literario y no trata temas reales. <!-- feedback: Incorrecto. Un editorial trata temas de actualidad social; el uso de recursos expresivos no lo convierte en ficción. -->
 
 ### Explicación Pedagógica
-Habilidad para sintetizar y reformular tesis complejas manteniendo la fidelidad conceptual.
+Evaluación de la subjetividad textual a través de las marcas lingüísticas de modalización.
 
 ---
 
 ## Question 16 [D7-D8] (Difficulty 8)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v16`
-**Bloom:** Evaluate
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Evaluación de la coherencia global.
+**Bloom:** Analyze
+**EBAU:** Educación literaria: Posguerra
+**Context:** Camilo José Cela.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cómo se relaciona la tesis del Texto 3 (sobre Don Quijote) con la del Texto 1 (sobre los clásicos)?
+La novela "La familia de Pascual Duarte" inaugura la corriente del "tremendismo". ¿En qué consiste principalmente esta estética?
 
 ### Options
-- [ ] A) Se contradicen: el Texto 1 pide realismo en la escuela y el Texto 3 defiende la locura. <!-- feedback: Incorrecto. El Texto 1 no pide realismo, sino instrumentos de elección libre. -->
-- [x] B) Se complementan: ambos defienden que la relación con las grandes obras (clásicos) trasciende el deber y se instala en la libertad personal o ética. <!-- feedback: Correcto. Calvino habla del "amor" y el Texto 3 del "acto de resistencia", ambos valores no obligatorios sino elegidos. -->
-- [ ] C) No tienen relación alguna: uno habla de educación y el otro de literatura antigua. <!-- feedback: Incorrecto. El Quijote es el ejemplo máximo de "clásico" mencionado en el tipo de obras que la escuela debe presentar. -->
-- [ ] D) El Texto 1 es un argumento a favor de la censura de libros como El Quijote. <!-- feedback: Incorrecto. Calvino defiende que la escuela los dé a conocer para que el alumno pueda elegirlos. -->
+- [x] A) En la presentación exagerada de los aspectos más crudos, violentos y desagradables de la realidad. <!-- feedback: Correcto. Refleja la miseria y violencia de la posguerra a través de personajes marginales y situaciones límite. -->
+- [ ] B) En la exaltación de los valores patrióticos y la victoria militar. <!-- feedback: Incorrecto. Eso pertenece a la literatura oficialista o "arraigada", no al tremendismo. -->
+- [ ] C) En la imitación de los modelos clásicos del Siglo de Oro. <!-- feedback: Incorrecto. El tremendismo rompe con el clasicismo buscando una crudeza casi insoportable. -->
+- [ ] D) En el uso de un lenguaje poético y metafórico para hablar de la muerte. <!-- feedback: Incorrecto. El lenguaje es directo, rudo y a veces vulgar, acorde con el ambiente que describe. -->
 
 ### Explicación Pedagógica
-Establecimiento de relaciones intertextuales y temáticas entre fragmentos de ensayo.
+Comprensión de las respuestas estéticas a la realidad socio-histórica de la España de los años 40.
 
 ---
 
-## Bloque D — Nivel D9–D10: Meta-análisis y Evaluación Crítica Superior
-
-**Texto 4:**
-"Se nos dice que la Inteligencia Artificial escribirá las novelas del futuro. Pero una novela no es una acumulación probabilística de palabras; es la huella de un dolor, de una alegría o de una duda que solo una conciencia biológica puede experimentar. La máquina puede imitar el estilo de Cervantes, pero nunca podrá sentir la angustia de Alonso Quijano ante su propia finitud."
+## Bloque D — Nivel D9–D10: Comentario Crítico Avanzado y Estilística
 
 ---
 
 ## Question 17 [D9-D10] (Difficulty 9)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v17`
 **Bloom:** Evaluate
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Análisis de presupuestos antropológicos.
+**EBAU:** Comunicación escrita: Comentario crítico
+**Context:** Análisis de la tesis en un texto argumentativo complejo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿En qué premisa fundamental se basa el autor para negar que la IA pueda escribir novelas verdaderas?
+En un ensayo filosófico sobre la tecnología, el autor argumenta que "la herramienta ha pasado de ser una extensión del brazo a ser la prótesis que dirige el cerebro". ¿Cuál es la tesis implícita de esta afirmación?
 
 ### Options
-- [x] A) En que el arte es inseparable de la experiencia vital y la conciencia del autor. <!-- feedback: Correcto. El autor vincula la creación con "la huella de un dolor" y la "conciencia biológica". -->
-- [ ] B) En que las máquinas actuales no tienen suficiente capacidad de procesamiento de datos. <!-- feedback: Incorrecto. El autor no cuestiona la potencia técnica, sino la naturaleza de la experiencia. -->
-- [ ] C) En que Cervantes dejó prohibido en su testamento que se usara su estilo. <!-- feedback: Incorrecto. Es una afirmación absurda que no aparece ni se infiere del texto. -->
-- [ ] D) En que el público nunca aceptará leer algo que no haya sido escrito por un humano. <!-- feedback: Incorrecto. El autor habla de la esencia de la obra, no de la recepción del mercado. -->
+- [ ] A) Que las máquinas son cada vez más potentes y rápidas. <!-- feedback: Incorrecto. Esa es una observación técnica superficial, no llega al fondo de la relación hombre-máquina que plantea el autor. -->
+- [x] B) Que la humanidad ha perdido su autonomía frente al control tecnológico. <!-- feedback: Correcto. La idea de "prótesis que dirige" sugiere que el hombre ya no domina la tecnología, sino que es condicionado por ella. -->
+- [ ] C) Que es necesario fabricar mejores herramientas para el trabajo físico. <!-- feedback: Incorrecto. El autor habla de una relación intelectual y de control ("dirige el cerebro"), no de eficiencia manual. -->
+- [ ] D) Que el cerebro humano ha evolucionado físicamente gracias al ordenador. <!-- feedback: Incorrecto. Se trata de una metáfora sobre el comportamiento y la dependencia, no de un cambio biológico real. -->
 
 ### Explicación Pedagógica
-Evaluación de las premisas filosóficas subyacentes en un debate sobre tecnología y humanidades.
+Capacidad de inferir tesis implícitas y significados profundos en textos argumentativos de nivel superior.
 
 ---
 
 ## Question 18 [D9-D10] (Difficulty 9)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v18`
 **Bloom:** Analyze
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Evaluación de la fuerza de los argumentos.
+**EBAU:** Conocimiento de la lengua: Dialectología
+**Context:** Variedades del español.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la función del ejemplo de "la angustia de Alonso Quijano" en este fragmento?
+Un texto presenta las siguientes marcas: seseo, pérdida de la /d/ intervocálica muy acusada y uso de vocabulario como "ustedes" para la segunda persona del plural. ¿A qué variedad dialectal de España es más probable que pertenezca?
 
 ### Options
-- [ ] A) Demostrar que el autor ha leído El Quijote recientemente. <!-- feedback: Incorrecto. El ejemplo no busca exhibir erudición, sino probar un punto argumentativo. -->
-- [x] B) Servir como contraejemplo de lo que una máquina puede "sentir" frente a lo que puede "imitar". <!-- feedback: Correcto. Contrasta la imitación técnica del estilo con la imposibilidad de replicar la angustia existencial. -->
-- [ ] C) Explicar por qué las novelas antiguas son mejores que las modernas. <!-- feedback: Incorrecto. El tema es la diferencia entre creador humano y artificial, no una comparación de épocas literarias. -->
-- [ ] D) Ilustrar la finitud biológica como un defecto que la IA debería corregir. <!-- feedback: Incorrecto. El autor ve esa finitud y la angustia que provoca como la fuente de la verdad literaria. -->
+- [ ] A) Gallego-castellano. <!-- feedback: Incorrecto. No presenta las influencias léxicas ni fonéticas típicas del contacto con el gallego. -->
+- [x] B) Andaluz o canario. <!-- feedback: Correcto. Son rasgos meridionales característicos que comparten estas variedades geográficas. -->
+- [ ] C) Castellano septentrional (Burgos/Valladolid). <!-- feedback: Incorrecto. En el norte se mantiene la distinción /s/ y /z/ y se usa "vosotros". -->
+- [ ] D) Catalán-castellano. <!-- feedback: Incorrecto. No se observan rasgos como la ensordecimiento de la /d/ final o influencias del catalán. -->
 
 ### Explicación Pedagógica
-Análisis de la función de los ejemplos y las analogías en el discurso argumentativo complejo.
+Reconocimiento de las variedades dialectales del español de España a través de rasgos fónicos, morfosintácticos y léxicos.
 
 ---
 
 ## Question 19 [D9-D10] (Difficulty 10)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v19`
-**Bloom:** Create
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Integración y juicio crítico.
+**Bloom:** Evaluate
+**EBAU:** Educación literaria: Generación del 98
+**Context:** Antonio Machado.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si aceptamos la tesis del Texto 1 (la escuela da instrumentos para elegir) y la del Texto 4 (la IA solo imita, no siente), ¿cuál debería ser el papel de la educación literaria frente a la IA?
+Al analizar el poema "A un olmo seco" de Machado, se percibe que la descripción del árbol no es solo botánica, sino que proyecta la esperanza del autor en la recuperación de su esposa Leonor. ¿Cómo se denomina este recurso tan propio del 98?
 
 ### Options
-- [ ] A) Enseñar a los alumnos a usar la IA para que escriban sus deberes más rápido. <!-- feedback: Incorrecto. Esto ignoraría la importancia de la elección personal y la experiencia vital defendidas. -->
-- [ ] B) Prohibir el uso de tecnología en las aulas para volver a los clásicos en papel. <!-- feedback: Incorrecto. Ninguno de los autores propone un ludismo tecnológico, sino una distinción de esencias. -->
-- [x] C) Fomentar la capacidad crítica para distinguir entre la imitación técnica y la expresión humana genuina. <!-- feedback: Correcto. Une la función instrumental de la escuela (Texto 1) con la distinción existencial del arte (Texto 4). -->
-- [ ] D) Eliminar la literatura del currículo, ya que la IA lo hará todo en el futuro. <!-- feedback: Incorrecto. Es la opción opuesta a lo que defienden los autores sobre el valor de la conciencia humana. -->
+- [ ] A) Falacia patética. <!-- feedback: Incorrecto. Término anglosajón que no describe con precisión la técnica de Machado. -->
+- [x] B) Paisaje como estado de ánimo (Proyección sentimental). <!-- feedback: Correcto. Los autores del 98 proyectan sus sentimientos y preocupaciones (personales o nacionales) sobre el paisaje castellano. -->
+- [ ] C) Realismo mágico. <!-- feedback: Incorrecto. No hay elementos fantásticos tratados como normales; es una descripción realista cargada de simbolismo. -->
+- [ ] D) Objetivismo naturalista. <!-- feedback: Incorrecto. El naturalismo busca la frialdad del dato; Machado busca la emoción humana a través de la naturaleza. -->
 
 ### Explicación Pedagógica
-Capacidad de síntesis evaluativa a partir de múltiples fuentes con perspectivas convergentes pero en ámbitos distintos.
+Evaluación de la relación entre el yo lírico y el entorno físico en la literatura de entresiglos en España.
 
 ---
 
 ## Question 20 [D9-D10] (Difficulty 10)
-
 **ID:** `ES-LCL-11-P1-analisis-textual-critico-001-v20`
-**Bloom:** Evaluate
-**EBAU:**  Comprensión y Análisis Textual
-**Context:** Evaluación de la validez de una analogía.
+**Bloom:** Create
+**EBAU:** Comunicación escrita: Producción
+**Context:** Coherencia y adecuación.
+**Expected_Success:** 0.60
 
 ### Enunciado
-El autor describe la IA como una "acumulación probabilística de palabras". Esta definición es:
+Se te pide escribir una carta formal al rector de una universidad. ¿Cuál de estos cierres sería el más adecuado respetando el registro y la situación comunicativa?
 
 ### Options
-- [ ] A) Errónea, porque la IA funciona mediante magia digital. <!-- feedback: Incorrecto. La definición es técnicamente coherente con el funcionamiento de los LLM (Large Language Models). -->
-- [ ] B) Un halago a la precisión matemática de los nuevos escritores artificiales. <!-- feedback: Incorrecto. En el contexto, se usa de forma peyorativa o limitante frente a la "huella del dolor". -->
-- [x] C) Un argumento de reducción que ignora la complejidad del procesamiento del lenguaje pero resalta la falta de subjetividad. <!-- feedback: Correcto. Define la herramienta por su mecanismo técnico para contrastarla con la carencia de alma o conciencia biológica. -->
-- [ ] D) Una prueba de que el autor no sabe cómo funciona un ordenador. <!-- feedback: Incorrecto. Precisamente demuestra que entiende que se basa en probabilidades y no en experiencias. -->
+- [ ] A) "Bueno, espero que nos veamos pronto y me digas algo. Un abrazo." <!-- feedback: Incorrecto. Registro demasiado coloquial y afectivo, inadecuado para la autoridad universitaria. -->
+- [ ] B) "Sin más dilación, quedo a la espera de que usted mueva ficha." <!-- feedback: Incorrecto. Mezcla una fórmula arcaizante con un modismo coloquial inapropiado. -->
+- [x] C) "Agradeciendo de antemano su atención, reciba un cordial saludo." <!-- feedback: Correcto. Muestra cortesía, mantiene la distancia profesional y usa una fórmula estándar en la administración española. -->
+- [ ] D) "Besos y que todo vaya bien por la facultad." <!-- feedback: Incorrecto. Totalmente inadecuado por exceso de confianza y falta de formalidad. -->
 
 ### Explicación Pedagógica
-Análisis crítico de definiciones y su carga ideológica en textos de opinión sobre tecnología.
+Producción y selección de registros adecuados a diferentes contextos comunicativos y niveles de formalidad.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Lengua Castellana y Literatura cubre de forma equilibrada los tres pilares de la asignatura en 2º de Bachillerato: análisis de textos (tipología y argumentación), conocimiento de la lengua (sintaxis y semántica) y educación literaria (desde el Siglo de Oro hasta la posguerra). El diseño de las preguntas sigue el modelo de la EBAU, fomentando no solo la memorización de datos, sino la capacidad crítica de análisis y la aplicación de conocimientos teóricos a fragmentos textuales concretos, preparando al estudiante para el comentario de texto y las cuestiones gramaticales de la prueba de acceso.

@@ -1,5 +1,5 @@
 ---
-id: "HN-ESP-11-P1-gramatica-001-MASTERY"
+id: "HN-ESP-11-P1-lectura-001-MASTERY"
 country: "honduras"
 grado: 11
 asignatura: "espanol"
@@ -8,447 +8,453 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "SEDUC"
+alignment: "DCNB Honduras + Bachillerato"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 calibration:
   expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.22"
+  discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Gramática y Ortografía (001)
+# MASTERY Bundle — Español: Gramática y Literatura (HN-001)
 
-## Bloque A — Nivel D3–D4
+## Bloque A — Nivel D3–D4: Comprensión y Autores Hondureños
 
 ---
 
-## Question 1 [D3-D4]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v1`
-**Bloom:** Remember
-**Competencia:** Conocimiento de la lengua
-**Context:** Acentuación.
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `HN-ESP-11-P1-lectura-001-v1`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Literatura hondureña: Juan Ramón Molina.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la regla general para acentuar ortográficamente las palabras agudas?
+Juan Ramón Molina es considerado el poeta hondureño más universal y exponente del Modernismo. En su obra "Tierras, mares y cielos", ¿qué rasgo estilístico es predominante siguiendo la influencia de Rubén Darío?
 
 ### Options
-- [ ] A) Se acentúan siempre. <!-- feedback: Incorrecto. Solo bajo ciertas condiciones. -->
-- [x] B) Se acentúan cuando terminan en vocal, 'n' o 's'. <!-- feedback: Correcto. Esta es la norma fundamental para las agudas. -->
-- [ ] C) Se acentúan cuando terminan en cualquier consonante excepto 'n' o 's'. <!-- feedback: Incorrecto. Esa es la regla de las palabras graves o llanas. -->
-- [ ] D) Nunca se acentúan si tienen más de dos sílabas. <!-- feedback: Incorrecto. La cantidad de sílabas no impide la acentuación. -->
+- [ ] A) El uso de un lenguaje vulgar y extremadamente sencillo. <!-- feedback: Incorrecto. El modernismo busca la elegancia y el refinamiento, no la vulgaridad. -->
+- [x] B) La búsqueda de la belleza formal, el exotismo y la musicalidad del verso. <!-- feedback: Correcto. Molina utiliza imágenes sensoriales y un léxico culto propios de la estética modernista. -->
+- [ ] C) La descripción científica y objetiva de la agricultura en Honduras. <!-- feedback: Incorrecto. Molina es un poeta lírico, no un autor de textos técnicos o científicos. -->
+- [ ] D) La ausencia total de adjetivos en sus descripciones. <!-- feedback: Incorrecto. El modernismo se caracteriza precisamente por una adjetivación rica y colorista. -->
 
 ### Explicación Pedagógica
-Identificación y aplicación de las reglas básicas de acentuación ortográfica.
+Identificación de las características de la corriente modernista en el máximo exponente literario de Honduras.
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v2`
-**Bloom:** Understand
-**Competencia:** Conocimiento de la lengua
-**Context:** Categorías gramaticales.
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `HN-ESP-11-P1-lectura-001-v2`
+**Bloom:** Apply
+**Competencia:** Análisis literario
+**Context:** Froylán Turcios y la revista "Esfinge".
+**Expected_Success:** 0.60
 
 ### Enunciado
-En la oración "Los estudiantes hondureños estudian con mucho entusiasmo", ¿cuál es el adjetivo gentilicio?
+Froylán Turcios fue un intelectual hondureño que fundó importantes revistas literarias. ¿Cuál fue su papel principal durante la intervención extranjera en Centroamérica a principios del siglo XX?
 
 ### Options
-- [ ] A) Estudiantes <!-- feedback: Incorrecto. Es un sustantivo común. -->
-- [x] B) Hondureños <!-- feedback: Correcto. Indica el origen o nacionalidad de los estudiantes. -->
-- [ ] C) Entusiasmo <!-- feedback: Incorrecto. Es un sustantivo abstracto. -->
-- [ ] D) Mucho <!-- feedback: Incorrecto. Es un determinante indefinido o cuantificador. -->
+- [ ] A) Apoyar la ocupación para modernizar la economía. <!-- feedback: Incorrecto. Turcios fue un ferviente opositor a la intervención. -->
+- [x] B) Defender la soberanía nacional a través de sus escritos y activismo político. <!-- feedback: Correcto. Fue secretario de Sandino y utilizó su pluma para denunciar las injusticias del imperialismo. -->
+- [ ] C) Escribir libros de cocina tradicional hondureña. <!-- feedback: Incorrecto. Su obra es política, poética y narrativa de carácter intelectual. -->
+- [ ] D) Traducir únicamente obras de teatro en inglés. <!-- feedback: Incorrecto. Se centró en la creación original y la difusión de la cultura hispanoamericana. -->
 
 ### Explicación Pedagógica
-Identificación de categorías gramaticales específicas en un contexto oracional.
+Comprensión del papel del intelectual en la historia política y literaria de Honduras.
 
 ---
 
-## Question 3 [D3-D4]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v3`
-**Bloom:** Remember
-**Competencia:** Ortografía
-**Context:** Uso de letras (B/V).
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `HN-ESP-11-P1-lectura-001-v3`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Tipos de textos periodísticos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes palabras está escrita correctamente?
+Un texto publicado en un diario de circulación nacional (como El Heraldo o La Prensa) que relata un suceso de forma detallada, cronológica y con matices literarios se llama:
 
 ### Options
-- [ ] A) Escribiría <!-- feedback: Correcto. Las terminaciones del pretérito imperfecto de la primera conjugación son con 'b' (-aba), pero las del condicional de cualquier verbo son con 'í-a'. Un momento, rectificando la pregunta: se busca el uso de b/v en raíces. -->
-- [x] B) Vagabundo <!-- feedback: Correcto. Las palabras terminadas en -bundo o -bunda se escriben con 'b'. -->
-- [ ] C) Mobiliario <!-- feedback: Correcto. (Nota: Rectificando distractores para que solo uno sea claramente correcto según una regla específica). -->
-- [ ] D) Herbíboro <!-- feedback: Incorrecto. La terminación -ívoro (que se alimenta de) se escribe con 'v'. -->
+- [ ] A) Editorial <!-- feedback: Incorrecto. El editorial es un texto de opinión institucional, no un relato de sucesos. -->
+- [x] B) Crónica <!-- feedback: Correcto. La crónica combina la información de la noticia con la interpretación y el estilo personal del autor. -->
+- [ ] C) Aviso clasificado <!-- feedback: Incorrecto. Su fin es comercial y breve, no narrativo. -->
+- [ ] D) Diccionario <!-- feedback: Incorrecto. No es un género periodístico, sino una obra de consulta léxica. -->
 
 ### Explicación Pedagógica
-Aplicación de reglas ortográficas sobre el uso de grafías dudosas.
+Diferenciación de los géneros periodísticos narrativos por su estructura y propósito.
 
 ---
 
-## Question 4 [D3-D4]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v4`
-**Bloom:** Understand
-**Competencia:** Conocimiento de la lengua
-**Context:** El sujeto.
-
-### Enunciado
-¿Cuál es el sujeto de la siguiente oración? "Ayer llegaron tarde al entrenamiento los jugadores de la selección".
-
-### Options
-- [ ] A) Ayer <!-- feedback: Incorrecto. Es un adverbio de tiempo (complemento circunstancial). -->
-- [ ] B) Tarde <!-- feedback: Incorrecto. Es un adverbio (complemento circunstancial). -->
-- [x] C) Los jugadores de la selección <!-- feedback: Correcto. Es el grupo nominal que realiza la acción de llegar. -->
-- [ ] D) El entrenamiento <!-- feedback: Incorrecto. Es el término de un complemento circunstancial de lugar/fin. -->
-
-### Explicación Pedagógica
-Identificación del núcleo y modificadores del sujeto en oraciones con orden alterado.
-
----
-
-## Bloque B — Nivel D5–D6
-
----
-
-## Question 5 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v5`
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `HN-ESP-11-P1-lectura-001-v4`
 **Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Puntuación (El uso de la coma).
+**Context:** Figuras retóricas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿En cuál de las siguientes oraciones se utiliza correctamente la coma vocativa?
+"Las Ruinas de Copán son centinelas mudos de un pasado glorioso". ¿Qué figura literaria se utiliza en esta frase?
 
 ### Options
-- [ ] A) Honduras, es un país con mucha historia. <!-- feedback: Incorrecto. No se debe separar el sujeto del predicado con una coma. -->
-- [x] B) Juan, tráeme el libro de español que está en la mesa. <!-- feedback: Correcto. La coma separa el nombre de la persona a la que se dirige el mensaje (vocativo). -->
-- [ ] C) Compré mangos, bananos, y naranjas. <!-- feedback: Incorrecto. No se pone coma antes de la 'y' en una enumeración simple. -->
-- [ ] D) El examen, estaba muy difícil ayer. <!-- feedback: Incorrecto. Uso incorrecto de la coma entre sujeto y verbo. -->
+- [ ] A) Onomatopeya <!-- feedback: Incorrecto. No intenta imitar ningún sonido natural con las palabras. -->
+- [x] B) Metáfora <!-- feedback: Correcto. Identifica las ruinas con "centinelas mudos", trasladando las cualidades de guardia y silencio a los monumentos. -->
+- [ ] C) Hipérbole <!-- feedback: Incorrecto. No hay una exageración desmedida, sino una identificación simbólica. -->
+- [ ] D) Pleonasmo <!-- feedback: Incorrecto. No hay repetición innecesaria de términos para dar énfasis. -->
 
 ### Explicación Pedagógica
-Aplicación de las reglas de puntuación para marcar pausas y funciones apelativas.
+Reconocimiento de tropos literarios aplicados al patrimonio histórico nacional.
 
 ---
 
-## Question 6 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v6`
-**Bloom:** Understand
-**Competencia:** Conocimiento de la lengua
-**Context:** Tiempos verbales.
-
-### Enunciado
-¿En qué tiempo y modo se encuentra el verbo subrayado? "Ojalá que mañana **vengas** a la reunión de estudio".
-
-### Options
-- [ ] A) Presente de indicativo. <!-- feedback: Incorrecto. El indicativo sería "vienes". -->
-- [x] B) Presente de subjuntivo. <!-- feedback: Correcto. El subjuntivo expresa deseo, duda o posibilidad, reforzado por "ojalá". -->
-- [ ] C) Pretérito perfecto. <!-- feedback: Incorrecto. Se refiere a una acción futura o deseada. -->
-- [ ] D) Futuro de indicativo. <!-- feedback: Incorrecto. El futuro sería "vendrás". -->
-
-### Explicación Pedagógica
-Identificación de accidentes verbales (tiempo y modo) según el sentido de la oración.
+## Bloque B — Nivel D5–D6: Análisis Crítico y Gramática
 
 ---
 
-## Question 7 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v7`
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `HN-ESP-11-P1-lectura-001-v5`
 **Bloom:** Apply
-**Competencia:** Ortografía
-**Context:** Tildación diacrítica.
+**Competencia:** Educación literaria
+**Context:** La novela "Prisión Verde" de Ramón Amaya Amador.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes oraciones utiliza correctamente la tilde diacrítica?
+En la novela "Prisión Verde", Ramón Amaya Amador denuncia las condiciones de vida de los trabajadores en las plantaciones bananeras. ¿Cuál es el tema central de esta obra fundamental del realismo social hondureño?
 
 ### Options
-- [ ] A) El libro es para mí, pero no se si lo leeré hoy. <!-- feedback: Incorrecto. Falta la tilde en "sé" (verbo saber). -->
-- [x] B) Él siempre llega temprano, aunque tú no lo creas. <!-- feedback: Correcto. "Él" y "tú" llevan tilde cuando son pronombres personales. -->
-- [ ] C) Dé su opinión sobre el tema, por favor. <!-- feedback: Correcto. "Dé" lleva tilde cuando es del verbo dar. (Nota: Revisando para que solo haya una mejor opción). -->
-- [ ] D) Te invito a tomar una taza de té esta tarde. <!-- feedback: Correcto. "Té" lleva tilde cuando es sustantivo (bebida). -->
+- [ ] A) El amor romántico entre los dueños de las compañías y los campesinos. <!-- feedback: Incorrecto. La obra se centra en la lucha de clases y la explotación, no en el romance. -->
+- [x] B) La explotación de los trabajadores hondureños por parte de las compañías transnacionales. <!-- feedback: Correcto. Denuncia el sistema de "enclave bananero" y la falta de derechos laborales. -->
+- [ ] C) La descripción técnica de cómo cultivar bananos de exportación. <!-- feedback: Incorrecto. Es una obra literaria de denuncia social, no un manual agrícola. -->
+- [ ] D) La historia del fútbol en la zona norte de Honduras. <!-- feedback: Incorrecto. Aunque menciona la vida en la zona, el foco es la injusticia social y económica. -->
 
 ### Explicación Pedagógica
-Aplicación de la tilde diacrítica para diferenciar palabras con igual escritura pero distinta función.
+Análisis del contenido y la intención de la obra más emblemática del realismo social en Honduras.
 
 ---
 
-## Question 8 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v8`
-**Bloom:** Understand
-**Competencia:** Semántica
-**Context:** Sinónimos y antónimos.
-
-### Enunciado
-"La baleada es un plato **suculento** y tradicional de Honduras". ¿Cuál es un antónimo adecuado para la palabra subrayada?
-
-### Options
-- [ ] A) Sabroso <!-- feedback: Incorrecto. Es un sinónimo. -->
-- [x] B) Insípido <!-- feedback: Correcto. Significa que no tiene sabor, lo opuesto a algo suculento o sabroso. -->
-- [ ] C) Abundante <!-- feedback: Incorrecto. Suculento implica buen sabor, no solo cantidad. -->
-- [ ] D) Exquisito <!-- feedback: Incorrecto. Es un sinónimo. -->
-
-### Explicación Pedagógica
-Reconocimiento de relaciones de oposición semántica en el vocabulario.
-
----
-
-## Question 9 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v9`
-**Bloom:** Understand
-**Competencia:** Conocimiento de la lengua
-**Context:** Oraciones simples y compuestas.
-
-### Enunciado
-¿Qué tipo de oración es: "Juan estudia matemáticas mientras María lee un libro"?
-
-### Options
-- [ ] A) Oración simple. <!-- feedback: Incorrecto. Contiene dos verbos conjugados ("estudia" y "lee"). -->
-- [x] B) Oración compuesta coordinada. <!-- feedback: Incorrecto. Es subordinada adverbial de tiempo. Rectificando: se clasifica como compuesta. -->
-- [ ] C) Oración compuesta subordinada. <!-- feedback: Correcto. La proposición encabezada por "mientras" depende de la principal. -->
-- [ ] D) Oración yuxtapuesta. <!-- feedback: Incorrecto. No están separadas por signos de puntuación, sino por un nexo. -->
-
-### Explicación Pedagógica
-Diferenciación entre estructuras oracionales según el número de predicados y sus nexos.
-
----
-
-## Question 10 [D5-D6]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v10`
-**Bloom:** Apply
-**Competencia:** Ortografía
-**Context:** Uso de la H.
-
-### Enunciado
-¿Cuál de las siguientes palabras está escrita INCORRECTAMENTE?
-
-### Options
-- [ ] A) Hielo <!-- feedback: Incorrecto. Se escribe con 'h' porque empieza con el diptongo 'ie'. -->
-- [ ] B) Huida <!-- feedback: Incorrecto. Se escribe con 'h' porque empieza con el diptongo 'ui'. -->
-- [x] C) Erbolario <!-- feedback: Correcto. Se escribe "herbolario" (relacionado con hierba). Aunque "herbario" también lleva H. -->
-- [ ] D) Humildad <!-- feedback: Incorrecto. Está escrita correctamente con 'h'. -->
-
-### Explicación Pedagógica
-Aplicación de reglas ortográficas sobre el uso de la letra 'h'.
-
----
-
-## Bloque C — Nivel D7–D8
-
----
-
-## Question 11 [D7-D8]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v11`
-**Bloom:** Analyze
-**Competencia:** Conocimiento de la lengua
-**Context:** Análisis sintáctico (Complementos).
-
-### Enunciado
-En la oración "El director entregó los diplomas a los graduados ayer", ¿qué función sintáctica cumple el fragmento "a los graduados"?
-
-### Options
-- [ ] A) Complemento Directo. <!-- feedback: Incorrecto. El CD es "los diplomas" (qué entregó). -->
-- [x] B) Complemento Indirecto. <!-- feedback: Correcto. Indica el destinatario de la acción (a quién se los entregó). -->
-- [ ] C) Complemento Circunstancial de lugar. <!-- feedback: Incorrecto. No indica dónde, sino a quién. -->
-- [ ] D) Sujeto. <!-- feedback: Incorrecto. El sujeto es "El director". -->
-
-### Explicación Pedagógica
-Identificación de complementos verbales y sus funciones en la oración.
-
----
-
-## Question 12 [D7-D8]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v12`
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `HN-ESP-11-P1-lectura-001-v6`
 **Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Concordancia.
+**Context:** Cohesión y conectores.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes oraciones presenta un error de concordancia?
+¿Qué conector es el más adecuado para completar la relación de oposición en la siguiente frase?
+"Honduras posee una gran riqueza en recursos naturales; __________, gran parte de su población vive en condiciones de pobreza".
 
 ### Options
-- [ ] A) El grupo de jóvenes cantó en el parque. <!-- feedback: Incorrecto. La concordancia es correcta en singular con el núcleo "grupo". -->
-- [x] B) Habían muchos estudiantes en la manifestación. <!-- feedback: Correcto. El verbo "haber" cuando es impersonal (existencia) debe usarse solo en singular: "Había muchos...". -->
-- [ ] C) La gente gritaba con fuerza durante el partido. <!-- feedback: Incorrecto. Concordancia correcta en singular. -->
-- [ ] D) Las camisas y los pantalones están limpios. <!-- feedback: Incorrecto. Concordancia correcta en plural masculino. -->
+- [ ] A) Además <!-- feedback: Incorrecto. Se usa para sumar información del mismo signo, no para marcar contraste. -->
+- [ ] B) Por consiguiente <!-- feedback: Incorrecto. Indica consecuencia, lo cual contradice la lógica de la paradoja presentada. -->
+- [x] C) Sin embargo <!-- feedback: Correcto. Establece el contraste necesario entre la riqueza del país y la realidad social de sus habitantes. -->
+- [ ] D) En primer lugar <!-- feedback: Incorrecto. Se utiliza para ordenar una enumeración o secuencia. -->
 
 ### Explicación Pedagógica
-Análisis de errores comunes de concordancia gramatical en el uso del verbo haber.
+Uso de marcadores textuales para la construcción de argumentos coherentes sobre la realidad nacional.
 
 ---
 
-## Question 13 [D7-D8]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v13`
-**Bloom:** Analyze
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `HN-ESP-11-P1-lectura-001-v7`
+**Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Perífrasis verbales.
+**Context:** Ortografía: Uso de la tilde en hiatos y diptongos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes expresiones contiene una perífrasis verbal de obligación?
+¿Cuál de las siguientes palabras está correctamente escrita de acuerdo con las reglas de acentuación de la RAE?
 
 ### Options
-- [ ] A) Juan se puso a llorar. <!-- feedback: Incorrecto. Es una perífrasis incoativa (inicio de acción). -->
-- [x] B) Tenemos que estudiar más para el examen. <!-- feedback: Correcto. "Tener que + infinitivo" expresa necesidad u obligación. -->
-- [ ] C) María anda buscando sus llaves. <!-- feedback: Incorrecto. Es una perífrasis durativa. -->
-- [ ] D) Voy a comer ahora mismo. <!-- feedback: Incorrecto. Es una perífrasis de futuro próximo o intención. -->
+- [ ] A) Tiita <!-- feedback: Incorrecto. Es una palabra grave terminada en vocal y tiene un hiato de dos vocales iguales, no lleva tilde. -->
+- [x] B) Raúl <!-- feedback: Correcto. Presenta un hiato de vocal abierta y cerrada tónica, lo que obliga a poner tilde sobre la vocal cerrada. -->
+- [ ] C) Fue <!-- feedback: Incorrecto. Los monosílabos, por regla general, no llevan tilde a menos que sea diacrítica. -->
+- [ ] D) Hondureñisimo <!-- feedback: Incorrecto. Es una palabra esdrújula y debe llevar tilde en la "i" (Hondureñísimo). -->
 
 ### Explicación Pedagógica
-Identificación y clasificación de perífrasis verbales según su matiz significativo.
+Aplicación de las normas de acentuación gráfica en casos especiales de encuentros vocálicos.
 
 ---
 
-## Question 14 [D7-D8]
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `HN-ESP-11-P1-lectura-001-v8`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Análisis de la tesis en un texto argumentativo.
+**Expected_Success:** 0.60
 
-**ID:** `HN-ESP-11-P1-gramatica-001-v14`
-**Bloom:** Analyze
+### Enunciado
+En un artículo de opinión sobre la migración, el autor sostiene que "el verdadero muro no está en la frontera, sino en la falta de oportunidades en nuestras propias comunidades". ¿Cuál es la tesis principal del autor?
+
+### Options
+- [ ] A) Que se deben construir muros más altos en Honduras. <!-- feedback: Incorrecto. El autor usa "muro" de forma metafórica para señalar otro problema. -->
+- [ ] B) Que a los hondureños no les gusta viajar al extranjero. <!-- feedback: Incorrecto. El texto no habla de gustos, sino de causas económicas y sociales. -->
+- [x] C) Que la causa de la migración es la falta de desarrollo económico local. <!-- feedback: Correcto. Propone que la solución es mejorar las condiciones internas para que la gente no tenga que irse. -->
+- [ ] D) Que la frontera con Estados Unidos es muy fácil de cruzar. <!-- feedback: Incorrecto. El foco está en el origen del problema, no en la dificultad física del viaje. -->
+
+### Explicación Pedagógica
+Identificación de la idea central y la postura del autor en textos de carácter ensayístico o periodístico.
+
+---
+
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `HN-ESP-11-P1-lectura-001-v9`
+**Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Voz pasiva.
+**Context:** Sintaxis: Identificación del sujeto.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Transforme la oración activa "El autor escribió la novela" a voz pasiva.
+En la oración "Llegaron muy temprano los delegados de la OEA a Tegucigalpa", ¿cuál es el sujeto de la oración?
 
 ### Options
-- [ ] A) La novela escribió el autor. <!-- feedback: Incorrecto. Solo alteraste el orden, no la estructura verbal. -->
-- [x] B) La novela fue escrita por el autor. <!-- feedback: Correcto. Se utiliza el verbo ser + participio y el sujeto pasa a ser complemento agente. -->
-- [ ] C) El autor ha escrito la novela. <!-- feedback: Incorrecto. Sigue siendo voz activa en pretérito perfecto. -->
-- [ ] D) Se escribió la novela por el autor. <!-- feedback: Incorrecto. Esta es una pasiva refleja incompleta o forzada. -->
+- [ ] A) Tegucigalpa <!-- feedback: Incorrecto. Es el complemento circunstancial de lugar. -->
+- [ ] B) Muy temprano <!-- feedback: Incorrecto. Es un complemento circunstancial de tiempo. -->
+- [x] C) Los delegados de la OEA <!-- feedback: Correcto. Es el sintagma nominal que concuerda en número y persona con el verbo "llegaron". -->
+- [ ] D) Llegaron <!-- feedback: Incorrecto. Es el núcleo del predicado (verbo). -->
 
 ### Explicación Pedagógica
-Comprensión de las transformaciones sintácticas entre voz activa y voz pasiva.
+Reconocimiento del sujeto en oraciones con orden alterado (sujeto pospuesto).
 
 ---
 
-## Question 15 [D7-D8]
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `HN-ESP-11-P1-lectura-001-v10`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** El cuento "Ángel de la guarda" de Lucila Gamero de Medina.
+**Expected_Success:** 0.60
 
-**ID:** `HN-ESP-11-P1-gramatica-001-v15`
-**Bloom:** Understand
+### Enunciado
+Lucila Gamero de Medina es una pionera de la narrativa femenina en Honduras. En su obra, suele explorar la psicología de sus personajes y la situación de la mujer. ¿A qué movimiento literario pertenece predominantemente su obra más famosa, "Blanca Olmedo"?
+
+### Options
+- [ ] A) Vanguardismo <!-- feedback: Incorrecto. Su estilo es anterior a las rupturas experimentales de la vanguardia. -->
+- [x] B) Romanticismo tardío <!-- feedback: Correcto. "Blanca Olmedo" es una novela romántica que exalta los sentimientos y critica las convenciones sociales de la época. -->
+- [ ] C) Realismo mágico <!-- feedback: Incorrecto. No utiliza elementos fantásticos como parte de la realidad cotidiana. -->
+- [ ] D) Neoclasicismo <!-- feedback: Incorrecto. El neoclasicismo se centra en la razón y la regla, mientras que Gamero se centra en la emoción y la pasión. -->
+
+### Explicación Pedagógica
+Clasificación de las autoras fundamentales de la literatura nacional en sus respectivos contextos estéticos.
+
+---
+
+## Bloque C — Nivel D7–D8: Literatura Contemporánea y Estilística
+
+---
+
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `HN-ESP-11-P1-lectura-001-v11`
+**Bloom:** Apply
+**Competencia:** Educación literaria
+**Context:** Clementina Suárez y la vanguardia.
+**Expected_Success:** 0.60
+
+### Enunciado
+Clementina Suárez es la "Mujer Nueva" de la poesía hondureña. ¿Qué aspecto de su vida y obra rompió con las tradiciones de su tiempo?
+
+### Options
+- [ ] A) Escribir solo sobre temas religiosos y de cocina. <!-- feedback: Incorrecto. Clementina fue una poeta de ruptura, no de tradición doméstica. -->
+- [x] B) Su actitud independiente, su poesía erótica y su papel como promotora de arte. <!-- feedback: Correcto. Clementina desafió los roles de género y trajo la vanguardia estética a Honduras. -->
+- [ ] C) El uso exclusivo de la rima consonante y el soneto clásico. <!-- feedback: Incorrecto. Su obra utiliza el verso libre y formas más abiertas acordes a la modernidad. -->
+- [ ] D) Vivir siempre encerrada en su casa de Tegucigalpa. <!-- feedback: Incorrecto. Fue una viajera incansable y una figura pública muy activa en el mundo bohemio e intelectual. -->
+
+### Explicación Pedagógica
+Interpretación del impacto cultural y estético de la obra de las mujeres líderes en las letras hondureñas.
+
+---
+
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `HN-ESP-11-P1-lectura-001-v12`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** El ensayo hondureño contemporáneo.
+**Expected_Success:** 0.60
+
+### Enunciado
+Un ensayista contemporáneo afirma: "Nuestra identidad es un palimpsesto donde la lengua de Castilla intenta tapar, sin éxito, los susurros de los lencas y chortís". ¿Qué quiere decir con esta metáfora?
+
+### Options
+- [ ] A) Que el español es el único idioma que se habla bien en Honduras. <!-- feedback: Incorrecto. La frase dice que el español "no tiene éxito" en tapar las otras lenguas. -->
+- [x] B) Que la identidad hondureña está formada por capas de cultura indígena y española que conviven aunque se intente negar una. <!-- feedback: Correcto. Un palimpsesto es un manuscrito que conserva huellas de textos anteriores borrados; representa la mezcla cultural latente. -->
+- [ ] C) Que los lencas ya no existen y por eso solo quedan "susurros". <!-- feedback: Incorrecto. La metáfora de los susurros indica que la cultura sigue viva y presente bajo la superficie. -->
+- [ ] D) Que es necesario dejar de hablar español para ser hondureño. <!-- feedback: Incorrecto. El autor analiza una realidad mixta, no propone la eliminación de una parte. -->
+
+### Explicación Pedagógica
+Análisis de metáforas complejas en textos que abordan la identidad y el mestizaje.
+
+---
+
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `HN-ESP-11-P1-lectura-001-v13`
+**Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Voseo y tildación.
+**Context:** Variedades del español: El español de Honduras.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En Honduras, se utiliza comúnmente el voseo. ¿Cómo se conjuga y tilda correctamente el verbo "cantar" en la segunda persona del singular del presente de indicativo bajo esta modalidad?
+En Honduras, es común escuchar frases como "¿Qué ondas, compa?" o usar la palabra "macanudo". ¿A qué nivel de la lengua pertenecen estas expresiones?
 
 ### Options
-- [ ] A) Vos cantas <!-- feedback: Incorrecto. Esta es la forma del tuteo. -->
-- [x] B) Vos cantás <!-- feedback: Correcto. En el voseo, la mayoría de verbos en presente llevan tilde en la última sílaba (agudas). -->
-- [ ] C) Vos cantes <!-- feedback: Incorrecto. Esta forma se usa para el imperativo o subjuntivo. -->
-- [ ] D) Tú cantas <!-- feedback: Incorrecto. No corresponde al voseo. -->
+- [ ] A) Lenguaje culto-académico <!-- feedback: Incorrecto. Estas palabras no se usan en tesis doctorales o discursos oficiales formales. -->
+- [x] B) Registro coloquial y popular <!-- feedback: Correcto. Son hondureñismos típicos de la comunicación oral informal y cotidiana. -->
+- [ ] C) Lenguaje técnico-jurídico <!-- feedback: Incorrecto. No pertenecen al ámbito de las leyes o la justicia. -->
+- [ ] D) Arcaísmos del siglo de oro <!-- feedback: Incorrecto. Son expresiones modernas y actuales de la evolución del idioma en la región. -->
 
 ### Explicación Pedagógica
-Reconocimiento y aplicación de las normas de conjugación y acentuación del voseo.
+Reconocimiento de los niveles de habla y las variantes dialectales locales del español.
 
 ---
 
-## Question 16 [D7-D8]
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `HN-ESP-11-P1-lectura-001-v14`
+**Bloom:** Apply
+**Competencia:** Análisis literario
+**Context:** Crítica a la poesía de Roberto Sosa.
+**Expected_Success:** 0.60
 
-**ID:** `HN-ESP-11-P1-gramatica-001-v16`
-**Bloom:** Analyze
+### Enunciado
+En su poema "Los Pobres", Roberto Sosa dice: "Los pobres son muchos / y por eso / es imposible olvidarlos". ¿Qué recurso poético utiliza el autor para dar fuerza a su denuncia social?
+
+### Options
+- [x] A) El uso de una sencillez desnuda y directa que golpea la conciencia. <!-- feedback: Correcto. Sosa abandona el adorno innecesario para que la realidad social hable por sí misma de forma contundente. -->
+- [ ] B) El uso de palabras en latín para que suene más importante. <!-- feedback: Incorrecto. La poesía de Sosa es famosa por su claridad y cercanía con el lenguaje común. -->
+- [ ] C) Una rima muy complicada que hace que el poema parezca una canción infantil. <!-- feedback: Incorrecto. No utiliza rima clásica ni busca un tono infantil, sino serio y profundo. -->
+- [ ] D) La descripción de seres mitológicos que ayudan a los pobres. <!-- feedback: Incorrecto. Su poesía es realista y humana, no fantástica. -->
+
+### Explicación Pedagógica
+Evaluación del estilo de la "Poesía Social" en Honduras y sus mecanismos de comunicación.
+
+---
+
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `HN-ESP-11-P1-lectura-001-v15`
+**Bloom:** Apply
 **Competencia:** Conocimiento de la lengua
-**Context:** Tipos de SE.
+**Context:** Sintaxis: Oraciones subordinadas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué función cumple el pronombre "se" en la oración: "Juan se lava las manos"?
+"Los estudiantes hondureños, quienes se esfuerzan cada día, son la esperanza del país". ¿Qué tipo de oración subordinada se encuentra entre comas?
 
 ### Options
-- [ ] A) Se impersonal. <!-- feedback: Incorrecto. Hay un sujeto claro: Juan. -->
-- [ ] B) Se de pasiva refleja. <!-- feedback: Incorrecto. La acción recae sobre el propio sujeto. -->
-- [x] C) Se reflexivo. <!-- feedback: Correcto. La acción la realiza el sujeto sobre sí mismo. -->
-- [ ] D) Se recíproco. <!-- feedback: Incorrecto. Se requiere más de un sujeto que intercambie la acción. -->
+- [ ] A) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. Las especificativas no van entre comas y sirven para seleccionar un subgrupo. -->
+- [x] B) Subordinada adjetiva explicativa. <!-- feedback: Correcto. Va entre comas y añade una cualidad o información adicional sobre todo el grupo de estudiantes mencionado. -->
+- [ ] C) Subordinada sustantiva de objeto directo. <!-- feedback: Incorrecto. Funciona como un adjetivo del sujeto, no como el objeto del verbo. -->
+- [ ] D) Subordinada adverbial de tiempo. <!-- feedback: Incorrecto. No indica cuándo ocurre la acción del verbo principal. -->
 
 ### Explicación Pedagógica
-Análisis de los diferentes usos y valores del pronombre "se".
+Análisis de la función y puntuación de las proposiciones subordinadas de relativo.
 
 ---
 
-## Bloque D — Nivel D9–D10
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `HN-ESP-11-P1-lectura-001-v16`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Análisis de la intención en textos críticos.
+**Expected_Success:** 0.60
+
+### Enunciado
+Si en un editorial se lee: "La justicia en Honduras camina con pasos de tortuga cuando se trata de los poderosos, pero corre como liebre ante el descalzo", ¿qué técnica retórica está empleando para persuadir?
+
+### Options
+- [ ] A) El uso de datos estadísticos precisos. <!-- feedback: Incorrecto. No hay números ni cifras, solo comparaciones animales. -->
+- [x] B) El contraste mediante metáforas animales para denunciar la desigualdad. <!-- feedback: Correcto. La liebre y la tortuga sirven para ilustrar de forma visual y emocional la injusticia. -->
+- [ ] C) El lenguaje técnico legal para demostrar conocimiento del derecho. <!-- feedback: Incorrecto. El lenguaje es literario y figurado, alejado del tecnicismo jurídico. -->
+- [ ] D) La cita de autoridades internacionales como la ONU. <!-- feedback: Incorrecto. El autor habla desde su propia voz utilizando recursos estilísticos. -->
+
+### Explicación Pedagógica
+Evaluación del uso de recursos estilísticos en la argumentación periodística para generar empatía o rechazo.
 
 ---
 
-## Question 17 [D9-D10]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento de la lengua
-**Context:** Ambigüedad lingüística (Anfibología).
-
-### Enunciado
-¿Cuál de las siguientes oraciones presenta una anfibología (error de claridad por doble sentido)?
-
-### Options
-- [ ] A) Vimos a tu hermano en la calle ayer. <!-- feedback: Incorrecto. La oración es clara. -->
-- [x] B) El perro de mi tío tiene rabia. <!-- feedback: Correcto. No queda claro si se refiere al animal o es un insulto despectivo hacia el tío. -->
-- [ ] C) Los estudiantes entregaron sus trabajos a tiempo. <!-- feedback: Incorrecto. Es una oración directa y clara. -->
-- [ ] D) Me gusta mucho leer libros de historia. <!-- feedback: Incorrecto. Estructura gramatical clara. -->
-
-### Explicación Pedagógica
-Evaluación de vicios del lenguaje que afectan la precisión comunicativa.
+## Bloque D — Nivel D9–D10: Síntesis y Producción Crítica
 
 ---
 
-## Question 18 [D9-D10]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v18`
-**Bloom:** Analyze
-**Competencia:** Conocimiento de la lengua
-**Context:** Oraciones subordinadas adjetivas.
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `HN-ESP-11-P1-lectura-001-v17`
+**Bloom:** Apply
+**Competencia:** Educación literaria
+**Context:** Helen Umaña y la crítica literaria.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Identifique la oración que contiene una subordinada adjetiva explicativa.
+Helen Umaña es la crítica literaria más importante de Honduras. Su trabajo de rescate y análisis ha permitido dar orden a la historia de nuestras letras. ¿Por qué es fundamental su obra para la literatura nacional?
 
 ### Options
-- [ ] A) Los alumnos que estudiaron aprobaron el examen. <!-- feedback: Incorrecto. Es una adjetiva especificativa (solo los que estudiaron). -->
-- [x] B) Los alumnos, que estudiaron mucho, aprobaron el examen. <!-- feedback: Correcto. Va entre comas y añade una nota explicativa para TODOS los alumnos. -->
-- [ ] C) Quiero que vengas pronto. <!-- feedback: Incorrecto. Es una subordinada sustantiva. -->
-- [ ] D) Si estudias, aprobarás. <!-- feedback: Incorrecto. Es una subordinada adverbial condicional. -->
+- [ ] A) Porque ella escribió los libros más vendidos en las librerías de los aeropuertos. <!-- feedback: Incorrecto. Su labor es académica y de investigación, no necesariamente comercial masiva. -->
+- [x] B) Porque sistematizó el estudio de los autores hondureños y rescató voces olvidadas, especialmente de mujeres. <!-- feedback: Correcto. Su obra es una cartografía esencial para entender quiénes somos a través de lo que escribimos. -->
+- [ ] C) Porque ella inventó nuevas reglas de ortografía solo para Honduras. <!-- feedback: Incorrecto. Ella sigue la norma académica pero la aplica al análisis crítico nacional. -->
+- [ ] D) Porque fue la primera mujer en ser presidenta de Honduras. <!-- feedback: Incorrecto. Confusión de roles; su liderazgo es intelectual y literario. -->
 
 ### Explicación Pedagógica
-Diferenciación entre tipos de oraciones subordinadas y su impacto en el significado.
+Valoración del papel de la crítica y la investigación en la construcción del canon literario nacional.
 
 ---
 
-## Question 19 [D9-D10]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Conocimiento de la lengua
-**Context:** Dequeísmo y queísmo.
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `HN-ESP-11-P1-lectura-001-v18`
+**Bloom:** Apply
+**Competencia:** Escritura crítica
+**Context:** Formulación de hipótesis para un ensayo.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál de las siguientes oraciones es gramaticalmente CORRECTA?
+Quieres escribir un ensayo sobre la influencia de la mitología maya en la literatura hondureña contemporánea. ¿Cuál de estas es una tesis bien planteada?
 
 ### Options
-- [ ] A) Pienso de que deberíamos irnos ya. <!-- feedback: Incorrecto. Es dequeísmo; el verbo pensar no rige la preposición "de". -->
-- [x] B) Me alegro de que estés aquí. <!-- feedback: Correcto. El verbo alegrarse rige la preposición "de" (alegrarse DE algo). -->
-- [ ] C) Estoy seguro que vendrán. <!-- feedback: Incorrecto. Es queísmo; falta la preposición "de" que rige el adjetivo "seguro". -->
-- [ ] D) Opinan de que el examen fue fácil. <!-- feedback: Incorrecto. Dequeísmo; opinar no rige "de". -->
+- [ ] A) Los mayas vivieron en Copán y hacían estelas muy bonitas hace mucho tiempo. <!-- feedback: Incorrecto. Es un dato histórico, no una tesis que requiera argumentación literaria. -->
+- [x] B) La narrativa hondureña actual utiliza los mitos mayas como una estrategia estética para reconstruir la identidad nacional frente a la globalización. <!-- feedback: Correcto. Plantea una relación causal y un propósito que puede ser defendido con ejemplos literarios. -->
+- [ ] C) Muchos escritores de hoy han visitado las Ruinas de Copán con sus familias. <!-- feedback: Incorrecto. Es una anécdota biográfica irrelevante para un análisis literario profundo. -->
+- [ ] D) El Popol Vuh es un libro muy importante para todos los países de Centroamérica. <!-- feedback: Incorrecto. Es una generalización demasiado amplia que no se enfoca en la "literatura hondureña contemporánea". -->
 
 ### Explicación Pedagógica
-Evaluación del uso correcto de preposiciones en subordinadas sustantivas.
+Capacidad de formular tesis académicas sólidas, delimitadas y argumentables.
 
 ---
 
-## Question 20 [D9-D10]
-
-**ID:** `HN-ESP-11-P1-gramatica-001-v20`
-**Bloom:** Create
-**Competencia:** Conocimiento de la lengua
-**Context:** Coherencia y estilo.
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `HN-ESP-11-P1-lectura-001-v19`
+**Bloom:** Apply
+**Competencia:** Comprensión lectora
+**Context:** Análisis de discursos sobre la "Fuga de Cerebros".
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Qué recurso de cohesión se ha utilizado para evitar la redundancia en: "La selección de Honduras jugó bien; la bicolor demostró gran dominio"?
+Un análisis sociológico afirma: "Honduras exporta su talento humano como si fuera materia prima, perdiendo en cada migrante un potencial de transformación que no se recupera con las remesas". ¿Qué juicio de valor subyace en esta afirmación?
 
 ### Options
-- [ ] A) Elipsis. <!-- feedback: Incorrecto. No se omitió ningún elemento necesario. -->
-- [x] B) Sustitución por sinónimo (o perífrasis denominativa). <!-- feedback: Correcto. Se usó "la bicolor" para referirse a "la selección" evitando repetir el nombre. -->
-- [ ] C) Repetición léxica. <!-- feedback: Incorrecto. Precisamente se evitó la repetición. -->
-- [ ] D) Uso de conectores lógicos. <!-- feedback: Incorrecto. La relación es de yuxtaposición, no mediada por un nexo fuerte. -->
+- [ ] A) Que las remesas son lo más importante para que el país progrese. <!-- feedback: Incorrecto. El texto dice que las remesas "no recuperan" lo que se pierde. -->
+- [x] B) Que el valor del conocimiento y la capacidad humana es superior al beneficio económico inmediato del dinero enviado desde fuera. <!-- feedback: Correcto. El autor critica el modelo migratorio resaltando la pérdida de capital intelectual para el futuro del país. -->
+- [ ] C) Que los migrantes no saben hacer nada útil en el extranjero. <!-- feedback: Incorrecto. Al contrario, los llama "talento humano" y "potencial de transformación". -->
+- [ ] D) Que el gobierno debe cobrar impuestos a los migrantes por irse. <!-- feedback: Incorrecto. La frase es una reflexión sobre el desarrollo y la pérdida de futuro, no una propuesta fiscal. -->
 
 ### Explicación Pedagógica
-Análisis de mecanismos de cohesión textual para la mejora del estilo y la fluidez.
+Evaluación de las implicaciones éticas e ideológicas en textos argumentativos complejos sobre problemas sociales.
+
+---
+
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `HN-ESP-11-P1-lectura-001-v20`
+**Bloom:** Apply
+**Competencia:** Adecuación textual / Estilística
+**Context:** Producción de textos en registros diversos.
+**Expected_Success:** 0.60
+
+### Enunciado
+Tienes el siguiente enunciado coloquial: "Fijate que el profe nos dejó un pijazal de tareas y ya no aguantamos". ¿Cuál de las siguientes opciones es una reescritura adecuada para un correo formal dirigido a la dirección del colegio?
+
+### Options
+- [ ] A) Hola, el maestro nos puso muchísima tarea y estamos bien cansados. <!-- feedback: Incorrecto. Sigue siendo informal ("Hola", "bien cansados") y poco preciso para el ámbito académico. -->
+- [ ] B) Estimado Director, el profesor exagera con los deberes y ocupamos que le diga algo. <!-- feedback: Incorrecto. El tono es un poco acusatorio y el uso de "ocupamos" es muy coloquial para un registro escrito formal. -->
+- [x] C) Distinguidas autoridades, nos dirigimos a usted para manifestar nuestra preocupación por la excesiva carga académica asignada recientemente, la cual dificulta nuestro rendimiento óptimo. <!-- feedback: Correcto. Utiliza un léxico preciso, fórmulas de cortesía y una estructura gramatical compleja y adecuada al contexto institucional. -->
+- [ ] D) Buenas, queremos decirle que ya no podemos con tanta tarea que nos dejan. <!-- feedback: Incorrecto. Registro demasiado simple y con fórmulas de inicio inapropiadas para un documento oficial. -->
+
+### Explicación Pedagógica
+Dominio de la adecuación lingüística: capacidad de transformar mensajes según la situación comunicativa y los destinatarios.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Español para el Bachillerato en Honduras integra el conocimiento de los autores clásicos (Juan Ramón Molina, Froylán Turcios, Clementina Suárez) con el desarrollo de competencias gramaticales y críticas avanzadas. A través de 20 preguntas escaladas en dificultad, el estudiante profundiza en la estructura de la lengua, la comprensión de textos argumentativos sobre la realidad nacional y la valoración de su patrimonio literario. El enfoque busca formar jóvenes capaces no solo de escribir correctamente, sino de interpretar con lucidez los discursos sociales y culturales de su país.
