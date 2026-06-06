@@ -254,7 +254,7 @@ Se lanza una piedra verticalmente hacia arriba con una velocidad inicial de 30 m
 ### Options
 - [ ] A) 1.5 s <!-- feedback: Incorrecto. Revisa la relación entre velocidad y gravedad. -->
 - [x] B) 3 s <!-- feedback: Correcto. En la altura máxima $v = 0$. Usando $v = v_0 - gt \Rightarrow 0 = 30 - 10t \Rightarrow t = 3$ s. -->
-- [ ] C) 6 s <!-- feedback: Incorrecto. Este es el tiempo total de vuelo (subida y bajada). -->
+- [ ] C) 6 s <!-- feedback: Incorrecto. Este es el tiempo total de vuelo (subida y de caida). -->
 - [ ] D) 30 s <!-- feedback: Incorrecto. Dividiste la velocidad entre 1 en lugar de la gravedad. -->
 
 ### Explicación Pedagógica
