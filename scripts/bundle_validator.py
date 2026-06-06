@@ -113,7 +113,15 @@ class BundleValidator:
                 )
 
             # 2. Check metadata
-            for metadata_field in ["Bloom", "ICFES", "Expected_Success"]:
+            # Accept ICFES or other country-specific competency tags
+            competency_tags = ["ICFES", "EBAU", "Competencia", "MINED", "CNB", "MEDUCA", "SNEPE", "Aristas", "BNCC", "PAA", "UNGE", "DCNB", "MINERD"]
+
+            if not any(f"**{tag}:**" in block for tag in competency_tags):
+                 issues.append(
+                    ValidationIssue("HIGH", f"Question {i} missing competency metadata field (e.g., ICFES, Competencia, etc.)", file_path)
+                )
+
+            for metadata_field in ["Bloom", "Expected_Success"]:
                 if f"**{metadata_field}:**" not in block:
                     issues.append(
                         ValidationIssue("HIGH", f"Question {i} missing metadata field: {metadata_field}", file_path)

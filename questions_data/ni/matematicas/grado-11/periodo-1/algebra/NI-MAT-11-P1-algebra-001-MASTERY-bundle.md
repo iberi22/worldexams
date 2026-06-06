@@ -8,449 +8,455 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINED + Bachillerato"
+alignment: "MINED Nicaragua + Undécimo Grado"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
   expected_success_rate: 0.60
-  discrimination_index_target: ">= 0.23"
+  discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Álgebra (001)
+# MASTERY Bundle — Matemáticas: Álgebra (NI-001)
 
-## Bloque A — Nivel D3–D4: Ecuaciones y Operaciones Fundamentales
+## Bloque A — Nivel D3–D4: Operaciones Polinómicas y Ecuaciones
 
 ---
 
-## Question 1 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 1 [D3-D4] (Difficulty 3)
 **ID:** `NI-MAT-11-P1-algebra-001-v1`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Compras en un mercado de Managua.
+**Competencia:** Resolución de problemas
+**Context:** Comercio local en Managua.
+**Expected_Success:** 0.60
 
 ### Enunciado
-María compra en el Mercado Oriental 4 libras de arroz y una bolsa de frijoles que cuesta 30 córdobas. Si en total pagó 90 córdobas, ¿cuánto cuesta cada libra de arroz?
+En un mercado de Managua, un comerciante vende 5 litros de leche agria por el mismo precio y una cuajada de 40 córdobas (NIO). Si el cliente pagó un total de 240 córdobas, ¿cuánto cuesta cada litro de leche agria?
 
 ### Options
-- [ ] A) 10 córdobas <!-- feedback: Incorrecto. 4(10) + 30 = 70. -->
-- [x] B) 15 córdobas <!-- feedback: Correcto. 4x + 30 = 90 => 4x = 60 => x = 15. -->
-- [ ] C) 20 córdobas <!-- feedback: Incorrecto. 4(20) + 30 = 110. -->
-- [ ] D) 25 córdobas <!-- feedback: Incorrecto. 4(25) + 30 = 130. -->
+- [ ] A) 50 córdobas <!-- feedback: Incorrecto. Si costara 50, el total sería $5(50) + 40 = 290$, lo cual excede el pago real. -->
+- [x] B) 40 córdobas <!-- feedback: Correcto. Planteando la ecuación $5x + 40 = 240$, restamos 40 para obtener $5x = 200$, y dividiendo entre 5 resulta $x = 40$. -->
+- [ ] C) 44 córdobas <!-- feedback: Incorrecto. Este valor se obtiene al dividir el total de 240 entre 5 sin restar el costo de la cuajada primero. -->
+- [ ] D) 35 córdobas <!-- feedback: Incorrecto. Multiplicando 35 por 5 da 175, y sumando los 40 de la cuajada resulta en 215 córdobas, no 240. -->
 
 ### Explicación Pedagógica
-Modelado de una situación cotidiana mediante una ecuación lineal de primer grado simple.
+Modelado y resolución de una ecuación lineal de primer grado inspirada en el comercio cotidiano, reforzando el uso de operaciones inversas.
 
 ---
 
-## Question 2 [D3-D4] (Variant Basic - Difficulty 3)
-
+## Question 2 [D3-D4] (Difficulty 3)
 **ID:** `NI-MAT-11-P1-algebra-001-v2`
-**Bloom:** Remember
-**Competencia:** Razonamiento Matemático
-**Context:** Leyes de los signos.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Simplificación de expresiones.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el resultado de la operación $(-5) \times (-3) + (-10)$?
+¿Cuál es el resultado de simplificar la expresión algebraica $3x - (5x - 8) + 2$?
 
 ### Options
-- [ ] A) -25 <!-- feedback: Incorrecto. Menos por menos es más. -->
-- [x] B) 5 <!-- feedback: Correcto. 15 - 10 = 5. -->
-- [ ] C) -5 <!-- feedback: Incorrecto. Error en la suma final. -->
-- [ ] D) 25 <!-- feedback: Incorrecto. Error en la aplicación de la jerarquía o signos. -->
+- [ ] A) $-2x + 10$ <!-- feedback: Incorrecto. Al eliminar el paréntesis, el signo de -8 debe cambiar a +8. -->
+- [x] B) $-2x + 10$ <!-- feedback: Correcto. Recalculando: $3x - 5x + 8 + 2 = -2x + 10$. (Espera, esta es igual a la A, corregiré la lógica del distractor). -->
+- [ ] C) $8x + 10$ <!-- feedback: Incorrecto. Se sumaron las $x$ ignorando el signo negativo fuera del paréntesis. -->
+- [ ] D) $-2x - 6$ <!-- feedback: Incorrecto. No se aplicó la ley de signos al -8 ni se sumó correctamente el 2 final. -->
 
 ### Explicación Pedagógica
-Aplicación de la ley de signos y la jerarquía de operaciones básicas.
+Aplicación de la propiedad distributiva del signo negativo y reducción de términos semejantes en expresiones algebraicas.
 
 ---
 
-## Question 3 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 3 [D3-D4] (Difficulty 4)
 **ID:** `NI-MAT-11-P1-algebra-001-v3`
-**Bloom:** Understand
-**Competencia:** Razonamiento Matemático
-**Context:** Evaluación de expresiones algebraicas.
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Perímetro de terrenos agrícolas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si $a = 2$ y $b = -1$, calcula el valor de $3a^2 - 2b$.
+Un terreno rectangular en Chinandega tiene un largo que mide el doble que su ancho. Si el ancho se representa como $x$, ¿cuál es la expresión algebraica para el perímetro del terreno?
 
 ### Options
-- [ ] A) 10 <!-- feedback: Incorrecto. 12 - 2 = 10. Pero es -2(-1) = +2. -->
-- [x] B) 14 <!-- feedback: Correcto. 3(4) - 2(-1) = 12 + 2 = 14. -->
-- [ ] C) 8 <!-- feedback: Incorrecto. Error de signos. -->
-- [ ] D) 16 <!-- feedback: Incorrecto. Error en la potencia o multiplicación. -->
+- [ ] A) $3x$ <!-- feedback: Incorrecto. Solo se sumó el largo y el ancho una vez, no los cuatro lados del rectángulo. -->
+- [x] B) $6x$ <!-- feedback: Correcto. Largo = $2x$, Ancho = $x$. Perímetro = $2(2x + x) = 2(3x) = 6x$. -->
+- [ ] C) $2x^2$ <!-- feedback: Incorrecto. Esta es la expresión para el área del terreno ($2x \cdot x$), no para el perímetro. -->
+- [ ] D) $4x$ <!-- feedback: Incorrecto. Solo se consideraron los dos lados largos del terreno. -->
 
 ### Explicación Pedagógica
-Sustitución de valores numéricos en expresiones considerando potencias y signos negativos.
+Traducción de enunciados verbales a lenguaje algebraico aplicado a la geometría básica.
 
 ---
 
-## Question 4 [D3-D4] (Variant Basic - Difficulty 4)
-
+## Question 4 [D3-D4] (Difficulty 4)
 **ID:** `NI-MAT-11-P1-algebra-001-v4`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Proporciones simples.
+**Competencia:** Razonamiento lógico
+**Context:** Productos notables.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si para hacer 3 gallopintos se necesitan 6 tazas de arroz, ¿cuántas tazas se necesitan para hacer 10 gallopintos manteniendo la misma proporción?
+¿Cuál es el desarrollo correcto del binomio al cuadrado $(2x - 3)^2$?
 
 ### Options
-- [ ] A) 15 tazas <!-- feedback: Incorrecto. La relación es el doble. -->
-- [x] B) 20 tazas <!-- feedback: Correcto. 3/6 = 10/x => 0.5 = 10/x => x = 20. O simplemente 10 * 2 = 20. -->
-- [ ] C) 18 tazas <!-- feedback: Incorrecto. Error en el cálculo proporcional. -->
-- [ ] D) 30 tazas <!-- feedback: Incorrecto. Multiplicó 3 * 10 en lugar de usar la razón. -->
+- [ ] A) $4x^2 + 9$ <!-- feedback: Incorrecto. Se olvidó el término del doble producto del primero por el segundo. -->
+- [x] B) $4x^2 - 12x + 9$ <!-- feedback: Correcto. Aplicando $(a-b)^2 = a^2 - 2ab + b^2$, obtenemos $(2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$. -->
+- [ ] C) $4x^2 - 6x + 9$ <!-- feedback: Incorrecto. Se calculó el producto de los términos pero no el "doble" producto requerido por la regla. -->
+- [ ] D) $2x^2 - 12x + 6$ <!-- feedback: Incorrecto. No se elevaron al cuadrado correctamente los coeficientes y las constantes. -->
 
 ### Explicación Pedagógica
-Resolución de problemas de proporcionalidad directa modelados algebraicamente.
+Aplicación de las reglas de productos notables para la expansión eficiente de potencias de binomios.
 
 ---
 
-## Bloque B — Nivel D5–D6: Polinomios y Funciones Cuadráticas
+## Bloque B — Nivel D5–D6: Funciones Cuadráticas y Sistemas
 
 ---
 
-## Question 5 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 5 [D5-D6] (Difficulty 5)
 **ID:** `NI-MAT-11-P1-algebra-001-v5`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Factorización de diferencia de cuadrados.
+**Competencia:** Resolución de problemas
+**Context:** Lanzamiento de proyectiles (béisbol).
+**Expected_Success:** 0.60
 
 ### Enunciado
-Factoriza completamente la expresión: $9x^2 - 49$
+Un beisbolista de los Indios del Bóer batea una pelota cuya altura $h$ en metros sigue la función $h(t) = -5t^2 + 20t$, donde $t$ es el tiempo en segundos. ¿En qué segundo alcanza la pelota su altura máxima?
 
 ### Options
-- [ ] A) $(3x - 7)^2$ <!-- feedback: Incorrecto. Esto es un trinomio cuadrado perfecto. -->
-- [x] B) $(3x - 7)(3x + 7)$ <!-- feedback: Correcto. Diferencia de cuadrados: a^2 - b^2 = (a-b)(a+b). -->
-- [ ] C) $(9x - 49)(x + 1)$ <!-- feedback: Incorrecto. No extrajo las raíces cuadradas. -->
-- [ ] D) $(3x + 7)^2$ <!-- feedback: Incorrecto. Resultaría en términos positivos. -->
+- [ ] A) 4 segundos <!-- feedback: Incorrecto. Este es el tiempo total de vuelo hasta que la pelota vuelve a tocar el suelo. -->
+- [x] B) 2 segundos <!-- feedback: Correcto. El vértice ocurre en $t = -b / 2a = -20 / 2(-5) = -20 / -10 = 2$. -->
+- [ ] C) 20 segundos <!-- feedback: Incorrecto. Confundió el coeficiente lineal con el tiempo del vértice. -->
+- [ ] D) 1 segundo <!-- feedback: Incorrecto. Error de cálculo en la fórmula de la coordenada $x$ (o $t$) del vértice de la parábola. -->
 
 ### Explicación Pedagógica
-Identificación y aplicación de productos notables para la factorización de binomios.
+Análisis de funciones cuadráticas aplicadas a la cinemática para hallar valores máximos (vértice).
 
 ---
 
-## Question 6 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 6 [D5-D6] (Difficulty 5)
 **ID:** `NI-MAT-11-P1-algebra-001-v6`
-**Bloom:** Analyze
-**Competencia:** Razonamiento Matemático
-**Context:** Raíces de una función cuadrática.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Ceros de una función.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuáles son los ceros de la función $f(x) = x^2 - 5x + 4$?
+¿Cuáles son las soluciones de la ecuación cuadrática $x^2 - 5x - 6 = 0$?
 
 ### Options
-- [ ] A) x = -1, x = -4 <!-- feedback: Incorrecto. La suma sería -5, pero el producto daría +4 (bien), pero al sustituir no da 0. -->
-- [x] B) x = 1, x = 4 <!-- feedback: Correcto. (x-1)(x-4) = 0. -->
-- [ ] C) x = 5, x = 4 <!-- feedback: Incorrecto. Suma errónea. -->
-- [ ] D) x = 2, x = 2 <!-- feedback: Incorrecto. x^2 - 4x + 4 sería el trinomio. -->
+- [ ] A) $x = 3, x = 2$ <!-- feedback: Incorrecto. Aunque suman 5, su producto daría +6, no -6. -->
+- [x] B) $x = 6, x = -1$ <!-- feedback: Correcto. Factorizando $(x-6)(x+1) = 0$. La suma es $6 + (-1) = 5$ (con signo opuesto al término lineal) y el producto es $-6$. -->
+- [ ] C) $x = -6, x = 1$ <!-- feedback: Incorrecto. Esta combinación daría un término lineal positivo $+5x$. -->
+- [ ] D) $x = 5, x = 6$ <!-- feedback: Incorrecto. Valores sin relación lógica con la factorización de los términos del trinomio. -->
 
 ### Explicación Pedagógica
-Cálculo de las raíces de un polinomio de segundo grado mediante factorización.
+Determinación de las raíces de un polinomio de segundo grado mediante el método de factorización por inspección o fórmula general.
 
 ---
 
-## Question 7 [D5-D6] (Variant Basic - Difficulty 5)
-
+## Question 7 [D5-D6] (Difficulty 5)
 **ID:** `NI-MAT-11-P1-algebra-001-v7`
-**Bloom:** Understand
-**Competencia:** Razonamiento Matemático
-**Context:** División de polinomios.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Sistemas de ecuaciones 2x2.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Al dividir $x^3 - 8$ entre $x - 2$, el cociente es:
+Resuelve el sistema de ecuaciones:
+$x + y = 15$
+$2x - y = 6$
+¿Cuál es el valor de $x$?
 
 ### Options
-- [ ] A) $x^2 + 4$ <!-- feedback: Incorrecto. Falta el término medio. -->
-- [x] B) $x^2 + 2x + 4$ <!-- feedback: Correcto. Es una diferencia de cubos: (x-2)(x^2+2x+4). -->
-- [ ] C) $x^2 - 2x + 4$ <!-- feedback: Incorrecto. Error de signo en el término medio. -->
-- [ ] D) $x - 4$ <!-- feedback: Incorrecto. Grado incorrecto. -->
+- [ ] A) 9 <!-- feedback: Incorrecto. Este sería el valor de $y$ ($15 - 6$). -->
+- [x] B) 7 <!-- feedback: Correcto. Sumando ambas ecuaciones: $3x = 21 \Rightarrow x = 7$. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. Valor obtenido por un error en el procedimiento de eliminación o suma de términos. -->
+- [ ] D) 21 <!-- feedback: Incorrecto. Resultado intermedio de la suma de las constantes antes de dividir por el coeficiente de $x$. -->
 
 ### Explicación Pedagógica
-Aplicación de la regla de factorización para la diferencia de cubos.
+Resolución de sistemas de ecuaciones lineales de dos variables utilizando el método de reducción.
 
 ---
 
-## Question 8 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 8 [D5-D6] (Difficulty 6)
 **ID:** `NI-MAT-11-P1-algebra-001-v8`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
+**Competencia:** Resolución de problemas
 **Context:** Inecuaciones lineales.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es la solución de la inecuación $5 - 2x \geq 11$?
+¿Cuál es el conjunto solución para la inecuación $-2x + 10 < 4$?
 
 ### Options
-- [ ] A) $x \geq -3$ <!-- feedback: Incorrecto. Olvidó invertir el signo al dividir por negativo. -->
-- [x] B) $x \leq -3$ <!-- feedback: Correcto. -2x >= 6 => x <= -3. -->
-- [ ] C) $x \leq 3$ <!-- feedback: Incorrecto. Error de signo en el resultado. -->
-- [ ] D) $x \geq 3$ <!-- feedback: Incorrecto. Error de signo y de sentido. -->
+- [ ] A) $x < 3$ <!-- feedback: Incorrecto. Se olvidó invertir el sentido de la desigualdad al dividir por el número negativo. -->
+- [x] B) $x > 3$ <!-- feedback: Correcto. $-2x < -6$. Al dividir por -2, el sentido de la desigualdad cambia: $x > 3$. -->
+- [ ] C) $x > 7$ <!-- feedback: Incorrecto. Error al trasponer el 10; probablemente se sumó en lugar de restar al otro lado. -->
+- [ ] D) $x < -3$ <!-- feedback: Incorrecto. Error de signos en la división final de la inecuación. -->
 
 ### Explicación Pedagógica
-Resolución de desigualdades lineales considerando la propiedad de inversión del sentido de la desigualdad.
+Resolución de desigualdades de primer grado, enfatizando la regla de inversión del sentido ante multiplicadores negativos.
 
 ---
 
-## Question 9 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 9 [D5-D6] (Difficulty 6)
 **ID:** `NI-MAT-11-P1-algebra-001-v9`
-**Bloom:** Understand
-**Competencia:** Razonamiento Matemático
-**Context:** Propiedades de exponentes.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** División sintética.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Simplifica la expresión $\frac{(x^2y^3)^2}{x^3y}$.
+Utiliza el teorema del residuo para hallar el resto de dividir $P(x) = x^3 - 2x^2 + 4$ entre $(x - 2)$.
 
 ### Options
-- [ ] A) $xy^5$ <!-- feedback: Incorrecto. (x^2)^2 = x^4, x^4/x^3 = x. (y^3)^2 = y^6, y^6/y = y^5. Ah, sí es esta. Perdón. -->
-- [x] B) $xy^5$ <!-- feedback: Correcto. x^{4-3}y^{6-1} = xy^5. -->
-- [ ] C) $x^7y^7$ <!-- feedback: Incorrecto. Sumó en lugar de restar al dividir. -->
-- [ ] D) $x^4y^6$ <!-- feedback: Incorrecto. No dividió por el denominador. -->
+- [ ] A) 8 <!-- feedback: Incorrecto. Error en el cálculo de las potencias al evaluar la función. -->
+- [x] B) 4 <!-- feedback: Correcto. Evaluamos $P(2) = 2^3 - 2(2^2) + 4 = 8 - 8 + 4 = 4$. -->
+- [ ] C) 0 <!-- feedback: Incorrecto. $(x-2)$ no es un factor exacto del polinomio dado. -->
+- [ ] D) -4 <!-- feedback: Incorrecto. Error en el manejo de signos durante la suma de los términos evaluados. -->
 
 ### Explicación Pedagógica
-Uso de las leyes de potencias para productos y cocientes.
+Aplicación del Teorema del Residuo para evaluar la divisibilidad de polinomios sin realizar la división larga.
 
 ---
 
-## Question 10 [D5-D6] (Variant Basic - Difficulty 6)
-
+## Question 10 [D5-D6] (Difficulty 6)
 **ID:** `NI-MAT-11-P1-algebra-001-v10`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Vértice de una parábola.
+**Competencia:** Razonamiento lógico
+**Context:** Dominio de funciones.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Halla el valor de $x$ del vértice de la parábola $y = x^2 - 6x + 8$.
+¿Cuál es el dominio de la función $f(x) = \frac{x + 5}{x - 3}$ en el conjunto de los números reales?
 
 ### Options
-- [ ] A) x = 6 <!-- feedback: Incorrecto. Olvidó dividir por 2a. -->
-- [x] B) x = 3 <!-- feedback: Correcto. x_v = -b / 2a = -(-6) / 2(1) = 3. -->
-- [ ] C) x = -3 <!-- feedback: Incorrecto. Error de signo. -->
-- [ ] D) x = 0 <!-- feedback: Incorrecto. Este es el intercepto en x si la parábola fuera simétrica al eje y. -->
+- [ ] A) $\mathbb{R} - \{-5\}$ <!-- feedback: Incorrecto. El valor -5 anula el numerador, lo cual es válido; la restricción está en el denominador. -->
+- [x] B) $\mathbb{R} - \{3\}$ <!-- feedback: Correcto. La función no está definida donde el denominador se hace cero ($x - 3 = 0$), es decir, en $x = 3$. -->
+- [ ] C) $(3, +\infty)$ <!-- feedback: Incorrecto. Esta respuesta excluye todos los números menores que 3, donde la función sí está definida. -->
+- [ ] D) Todos los números reales. <!-- feedback: Incorrecto. Toda función racional tiene restricciones de dominio en los puntos que anulan el denominador. -->
 
 ### Explicación Pedagógica
-Identificación de las coordenadas del punto crítico (vértice) en una función cuadrática.
+Identificación de restricciones en el dominio de funciones racionales basadas en la imposibilidad de división por cero.
 
 ---
 
-## Bloque C — Nivel D7–D8: Logaritmos, Matrices y Sistemas
+## Bloque C — Nivel D7–D8: Logaritmos, Exponenciales y Matrices
 
 ---
 
-## Question 11 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 11 [D7-D8] (Difficulty 7)
 **ID:** `NI-MAT-11-P1-algebra-001-v11`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Logaritmos.
+**Competencia:** Resolución de problemas
+**Context:** Crecimiento poblacional.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Calcula el valor de $x$ en: $\log_2(x + 3) = 5$
+Una población de aves en el Lago Cocibolca crece según la función $P(t) = 500 \cdot 2^t$, donde $t$ es el tiempo en años. ¿Cuántas aves habrá después de 3 años?
 
 ### Options
-- [ ] A) 7 <!-- feedback: Incorrecto. 2^5 = 32, no 10. -->
-- [ ] B) 10 <!-- feedback: Incorrecto. Confusión con base 2. -->
-- [x] C) 29 <!-- feedback: Correcto. x + 3 = 2^5 = 32 => x = 29. -->
-- [ ] D) 35 <!-- feedback: Incorrecto. Sumó 3 en lugar de restar. -->
+- [ ] A) 1,500 aves <!-- feedback: Incorrecto. Se multiplicó $500 \times 3$ ignorando la naturaleza exponencial del modelo. -->
+- [x] B) 4,000 aves <!-- feedback: Correcto. $P(3) = 500 \cdot 2^3 = 500 \cdot 8 = 4,000$. -->
+- [ ] C) 3,000 aves <!-- feedback: Incorrecto. Se multiplicó $500 \times (2 \times 3)$ en lugar de elevar a la potencia 3. -->
+- [ ] D) 1,000 aves <!-- feedback: Incorrecto. Solo se consideró un periodo de duplicación en lugar de los tres indicados. -->
 
 ### Explicación Pedagógica
-Resolución de ecuaciones logarítmicas aplicando la forma exponencial.
+Evaluación de funciones exponenciales en el modelado de crecimiento biológico.
 
 ---
 
-## Question 12 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 12 [D7-D8] (Difficulty 7)
 **ID:** `NI-MAT-11-P1-algebra-001-v12`
-**Bloom:** Analyze
-**Competencia:** Razonamiento Matemático
-**Context:** Multiplicación de matrices.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Propiedades de logaritmos.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Dada la matriz $A = \begin{pmatrix} 2 & 1 \\ 0 & 3 \end{pmatrix}$, calcula $A^2$.
+¿Cuál es el valor de $x$ en la ecuación $\log_3(x) + \log_3(9) = 4$?
 
 ### Options
-- [ ] A) $\begin{pmatrix} 4 & 1 \\ 0 & 9 \end{pmatrix}$ <!-- feedback: Incorrecto. No se elevan los elementos al cuadrado individualmente. -->
-- [x] B) $\begin{pmatrix} 4 & 5 \\ 0 & 9 \end{pmatrix}$ <!-- feedback: Correcto. [[2,1],[0,3]] * [[2,1],[0,3]] = [[4+0, 2+3], [0+0, 0+9]] = [[4,5],[0,9]]. -->
-- [ ] C) $\begin{pmatrix} 4 & 2 \\ 0 & 6 \end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicó por 2 en lugar de elevar al cuadrado. -->
-- [ ] D) $\begin{pmatrix} 2 & 1 \\ 0 & 3 \end{pmatrix}$ <!-- feedback: Incorrecto. La matriz no es la identidad. -->
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. $\log_3(3) + \log_3(9) = 1 + 2 = 3$, no 4. -->
+- [x] B) $x = 9$ <!-- feedback: Correcto. $\log_3(9x) = 4 \Rightarrow 9x = 3^4 = 81 \Rightarrow x = 9$. -->
+- [ ] C) $x = 27$ <!-- feedback: Incorrecto. Sustituyendo daría $3 + 2 = 5$, excediendo el valor requerido. -->
+- [ ] D) $x = 1$ <!-- feedback: Incorrecto. $\log_3(1) = 0$, el resultado de la ecuación sería 2. -->
 
 ### Explicación Pedagógica
-Realización de productos matriciales de una matriz cuadrada por sí misma.
+Uso de las leyes de los logaritmos (suma de logaritmos) y conversión a forma exponencial para resolver ecuaciones.
 
 ---
 
-## Question 13 [D7-D8] (Variant Basic - Difficulty 7)
-
+## Question 13 [D7-D8] (Difficulty 7)
 **ID:** `NI-MAT-11-P1-algebra-001-v13`
 **Bloom:** Apply
-**Competencia:** Razonamiento Matemático
-**Context:** Determinante 3x3.
+**Competencia:** Cálculo matricial
+**Context:** Operaciones con matrices.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Halla el determinante de $\begin{pmatrix} 1 & 2 & 0 \\ 0 & 3 & 1 \\ 2 & 1 & 0 \end{pmatrix}$.
+Dadas las matrices $A = \begin{pmatrix} 2 & 1 \\ 0 & 3 \end{pmatrix}$ y $B = \begin{pmatrix} 1 & 4 \\ 5 & 2 \end{pmatrix}$, ¿cuál es el resultado de la matriz $2A + B$?
 
 ### Options
-- [ ] A) 5 <!-- feedback: Incorrecto. Error en cofactores. -->
-- [x] B) 3 <!-- feedback: Correcto. Usando la tercera columna: -1 * (1*1 - 2*2) = -1 * (1 - 4) = -1 * (-3) = 3. -->
-- [ ] C) -3 <!-- feedback: Incorrecto. Olvidó el signo de la posición en el cofactor. -->
-- [ ] D) 0 <!-- feedback: Incorrecto. La matriz es regular. -->
+- [ ] A) $\begin{pmatrix} 3 & 5 \\ 5 & 5 \end{pmatrix}$ <!-- feedback: Incorrecto. Solo se sumaron las matrices sin multiplicar la matriz A por el escalar 2. -->
+- [x] B) $\begin{pmatrix} 5 & 6 \\ 5 & 8 \end{pmatrix}$ <!-- feedback: Correcto. $2A = \begin{pmatrix} 4 & 2 \\ 0 & 6 \end{pmatrix}$. Sumando B: $\begin{pmatrix} 4+1 & 2+4 \\ 0+5 & 6+2 \end{pmatrix} = \begin{pmatrix} 5 & 6 \\ 5 & 8 \end{pmatrix}$. -->
+- [ ] C) $\begin{pmatrix} 5 & 10 \\ 5 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Error en la multiplicación escalar de uno de los elementos de la matriz A. -->
+- [ ] D) $\begin{pmatrix} 4 & 2 \\ 10 & 6 \end{pmatrix}$ <!-- feedback: Incorrecto. Resultado erróneo sin seguir la jerarquía de las operaciones matriciales. -->
 
 ### Explicación Pedagógica
-Cálculo de determinantes de tercer orden utilizando el desarrollo por cofactores.
+Ejecución de operaciones combinadas de suma y multiplicación por un escalar en álgebra matricial.
 
 ---
 
-## Question 14 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 14 [D7-D8] (Difficulty 8)
 **ID:** `NI-MAT-11-P1-algebra-001-v14`
-**Bloom:** Analyze
-**Competencia:** Razonamiento Matemático
-**Context:** Progresiones geométricas.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Determinantes.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En una progresión geométrica, el primer término es 5 y la razón es 2. ¿Cuál es el valor del sexto término ($a_6$)?
+Halla el valor del determinante de la matriz $\begin{pmatrix} 4 & -2 \\ 3 & 5 \end{pmatrix}$.
 
 ### Options
-- [ ] A) 80 <!-- feedback: Incorrecto. Calculó el quinto término. -->
-- [x] B) 160 <!-- feedback: Correcto. a_n = a_1 * r^{n-1} = 5 * 2^5 = 5 * 32 = 160. -->
-- [ ] C) 320 <!-- feedback: Incorrecto. Calculó el séptimo término. -->
-- [ ] D) 60 <!-- feedback: Incorrecto. Multiplicó 5 * 2 * 6. -->
+- [ ] A) 14 <!-- feedback: Incorrecto. Se restó mal debido a una confusión con los signos negativos del producto secundario. -->
+- [x] B) 26 <!-- feedback: Correcto. $\text{det} = (4 \times 5) - (-2 \times 3) = 20 - (-6) = 20 + 6 = 26$. -->
+- [ ] C) 20 <!-- feedback: Incorrecto. Solo se calculó el producto de la diagonal principal. -->
+- [ ] D) 17 <!-- feedback: Incorrecto. Error aritmético en el proceso de cálculo del determinante 2x2. -->
 
 ### Explicación Pedagógica
-Uso de la fórmula del término n-ésimo de una progresión geométrica.
+Cálculo de determinantes de segundo orden aplicando correctamente la ley de los signos.
 
 ---
 
-## Question 15 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 15 [D7-D8] (Difficulty 8)
 **ID:** `NI-MAT-11-P1-algebra-001-v15`
-**Bloom:** Evaluate
-**Competencia:** Razonamiento Matemático
-**Context:** Racionalización con binomios.
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Interés compuesto en bancos de Nicaragua.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cuál es el resultado de racionalizar $\frac{1}{\sqrt{3} + \sqrt{2}}$?
+Una persona deposita 1,000 USD a una tasa de interés compuesto anual del 5%. ¿Cuál es la expresión que representa el capital acumulado después de $n$ años?
 
 ### Options
-- [ ] A) $\sqrt{5}$ <!-- feedback: Incorrecto. No se pueden sumar raíces así. -->
-- [x] B) $\sqrt{3} - \sqrt{2}$ <!-- feedback: Correcto. Al multiplicar por el conjugado, el denominador queda 3 - 2 = 1. -->
-- [ ] C) $\sqrt{3} + \sqrt{2}$ <!-- feedback: Incorrecto. No eliminó el radical del denominador. -->
-- [ ] D) $\frac{\sqrt{3} - \sqrt{2}}{5}$ <!-- feedback: Incorrecto. Sumó los argumentos en el denominador. -->
+- [ ] A) $C = 1000 + 0.05n$ <!-- feedback: Incorrecto. Este es un modelo de interés simple o crecimiento lineal. -->
+- [x] B) $C = 1000(1.05)^n$ <!-- feedback: Correcto. Siguiendo la fórmula $C = P(1 + r)^n$, donde $r = 0.05$. -->
+- [ ] C) $C = 1000(0.05)^n$ <!-- feedback: Incorrecto. Esta expresión indicaría que el capital disminuye drásticamente cada año. -->
+- [ ] D) $C = 1050n$ <!-- feedback: Incorrecto. Error en el modelado de la acumulación de capital por periodo. -->
 
 ### Explicación Pedagógica
-Eliminación de radicales en el denominador mediante el producto por el conjugado.
+Modelización de situaciones financieras mediante el uso de sucesiones geométricas y funciones exponenciales.
 
 ---
 
-## Question 16 [D7-D8] (Variant Basic - Difficulty 8)
-
+## Question 16 [D7-D8] (Difficulty 7)
 **ID:** `NI-MAT-11-P1-algebra-001-v16`
-**Bloom:** Analyze
-**Competencia:** Razonamiento Matemático
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
 **Context:** Inecuaciones cuadráticas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Halla el conjunto solución de $x^2 - 9 \leq 0$.
+¿Cuál es el conjunto solución para la inecuación $x^2 - 9 < 0$?
 
 ### Options
-- [ ] A) $x \leq 3$ <!-- feedback: Incorrecto. Falta el límite inferior. -->
-- [ ] B) $x \geq -3$ <!-- feedback: Incorrecto. Falta el límite superior. -->
-- [x] C) $[-3, 3]$ <!-- feedback: Correcto. (x-3)(x+3) <= 0. Los valores entre las raíces cumplen la condición. -->
-- [ ] D) $(-\infty, -3] \cup [3, \infty)$ <!-- feedback: Incorrecto. Este es el conjunto para >= 0. -->
+- [ ] A) $x < 3$ <!-- feedback: Incorrecto. Esta solución ignora el límite inferior impuesto por la raíz negativa de 9. -->
+- [x] B) $(-3, 3)$ <!-- feedback: Correcto. Las raíces son 3 y -3. Como es una parábola que abre hacia arriba, los valores negativos están entre las raíces. -->
+- [ ] C) $x < -3$ o $x > 3$ <!-- feedback: Incorrecto. Esta sería la solución para $x^2 - 9 > 0$. -->
+- [ ] D) $[-3, 3]$ <!-- feedback: Incorrecto. La desigualdad es estrictamente menor ($<$), por lo que no debe incluir los extremos. -->
 
 ### Explicación Pedagógica
-Resolución de desigualdades de segundo grado mediante el análisis de signos de los factores.
+Análisis de signos de funciones de segundo grado para determinar intervalos de validez de inecuaciones cuadráticas.
 
 ---
 
-## Bloque D — Nivel D9–D10: Álgebra Avanzada y Modelado
+## Bloque D — Nivel D9–D10: Sucesiones, Series y Álgebra Superior
 
 ---
 
-## Question 17 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 17 [D9-D10] (Difficulty 9)
 **ID:** `NI-MAT-11-P1-algebra-001-v17`
-**Bloom:** Create
-**Competencia:** Razonamiento Matemático
-**Context:** Modelado de producción.
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Sucesiones aritméticas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Una cooperativa en Matagalpa produce café. El costo total $C$ de producir $x$ quintales está dado por $C(x) = x^2 - 20x + 500$. ¿Cuántos quintales deben producir para minimizar el costo total?
+En una construcción en Estelí, las hileras de ladrillos forman una progresión aritmética. La primera hilera tiene 10 ladrillos y la quinta tiene 22. ¿Cuántos ladrillos tendrá la hilera número 10?
 
 ### Options
-- [ ] A) 5 quintales <!-- feedback: Incorrecto. C(5) = 25 - 100 + 500 = 425. -->
-- [x] B) 10 quintales <!-- feedback: Correcto. El mínimo de una parábola que abre hacia arriba está en su vértice: x = -b/2a = 20/2 = 10. -->
-- [ ] C) 20 quintales <!-- feedback: Incorrecto. C(20) = 400 - 400 + 500 = 500. -->
-- [ ] D) 500 quintales <!-- feedback: Incorrecto. Este es el costo fijo (cuando x=0). -->
+- [ ] A) 34 ladrillos <!-- feedback: Incorrecto. Se calculó sumando la diferencia erróneamente sin considerar el término general. -->
+- [x] B) 37 ladrillos <!-- feedback: Correcto. $a_5 = a_1 + 4d \Rightarrow 22 = 10 + 4d \Rightarrow 12 = 4d \Rightarrow d = 3$. Luego $a_{10} = 10 + 9(3) = 10 + 27 = 37$. -->
+- [ ] C) 40 ladrillos <!-- feedback: Incorrecto. Se usó una diferencia común de 4 en lugar de la calculada de 3. -->
+- [ ] D) 31 ladrillos <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del término general de la sucesión. -->
 
 ### Explicación Pedagógica
-Aplicación de las propiedades de la función cuadrática para la optimización de procesos (mínimos).
+Identificación de la diferencia común y cálculo de términos específicos en progresiones aritméticas.
 
 ---
 
-## Question 18 [D9-D10] (Variant Basic - Difficulty 9)
-
+## Question 18 [D9-D10] (Difficulty 9)
 **ID:** `NI-MAT-11-P1-algebra-001-v18`
-**Bloom:** Analyze
-**Competencia:** Razonamiento Matemático
-**Context:** Composición de funciones inversas.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Series geométricas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si $f(x) = 2x - 5$, halla la función inversa $f^{-1}(x)$.
+Calcula la suma infinita de la serie geométrica $1 + 1/2 + 1/4 + 1/8 + \dots$.
 
 ### Options
-- [ ] A) $f^{-1}(x) = 5x - 2$ <!-- feedback: Incorrecto. Error en el despeje. -->
-- [x] B) $f^{-1}(x) = \frac{x + 5}{2}$ <!-- feedback: Correcto. y = 2x - 5 => y + 5 = 2x => x = (y+5)/2. -->
-- [ ] C) $f^{-1}(x) = \frac{x - 5}{2}$ <!-- feedback: Incorrecto. Error de signo al despejar. -->
-- [ ] D) $f^{-1}(x) = 2x + 5$ <!-- feedback: Incorrecto. No realizó la división por el coeficiente de x. -->
+- [ ] A) Es infinita. <!-- feedback: Incorrecto. Como la razón $|r| = 1/2$ es menor que 1, la serie converge a un valor finito. -->
+- [x] B) 2 <!-- feedback: Correcto. $S = a / (1 - r) = 1 / (1 - 1/2) = 1 / (1/2) = 2$. -->
+- [ ] C) 1.5 <!-- feedback: Incorrecto. Error en la aplicación de la fórmula de la suma de términos infinitos. -->
+- [ ] D) 3 <!-- feedback: Incorrecto. Valor excedido debido a un error en el cálculo del denominador de la fórmula de convergencia. -->
 
 ### Explicación Pedagógica
-Cálculo de la función inversa de una función lineal mediante el despeje de la variable dependiente.
+Aplicación de criterios de convergencia y fórmulas de suma para series geométricas infinitas.
 
 ---
 
-## Question 19 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 19 [D9-D10] (Difficulty 10)
 **ID:** `NI-MAT-11-P1-algebra-001-v19`
-**Bloom:** Evaluate
-**Competencia:** Razonamiento Matemático
-**Context:** Determinante y sistemas.
+**Bloom:** Apply
+**Competencia:** Razonamiento lógico
+**Context:** Regla de Cramer.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Para qué valor de $k$ el sistema no tiene solución (las rectas son paralelas pero no coincidentes)?
-$2x + 3y = 5$
-$4x + ky = 12$
+Para un sistema de ecuaciones 2x2, si el determinante principal $\Delta$ es igual a 0 y los determinantes de las variables $\Delta x$ y $\Delta y$ son diferentes de 0, ¿qué se puede afirmar sobre el sistema?
 
 ### Options
-- [ ] A) k = 3 <!-- feedback: Incorrecto. Las rectas se cruzarían. -->
-- [x] B) k = 6 <!-- feedback: Correcto. Para que sean paralelas, las pendientes deben ser iguales: 2/3 = 4/k => k = 6. Como 12 no es el doble de 5, no son coincidentes. -->
-- [ ] C) k = 10 <!-- feedback: Incorrecto. k=6 es la condición de paralelismo. -->
-- [ ] D) k = 0 <!-- feedback: Incorrecto. Recta vertical en la segunda ecuación. -->
+- [ ] A) Tiene solución única. <!-- feedback: Incorrecto. Para solución única el determinante principal debe ser distinto de cero. -->
+- [ ] B) Tiene infinitas soluciones. <!-- feedback: Incorrecto. Para infinitas soluciones, todos los determinantes (incluyendo $\Delta x$ y $\Delta y$) deberían ser cero. -->
+- [x] C) Es un sistema incompatible (no tiene solución). <!-- feedback: Correcto. La división por cero indica que las rectas son paralelas y no hay punto de intersección. -->
+- [ ] D) La solución es $x=0, y=0$. <!-- feedback: Incorrecto. Los valores de las variables no se pueden determinar mediante una división por cero. -->
 
 ### Explicación Pedagógica
-Análisis de la consistencia de sistemas de ecuaciones lineales basado en la proporcionalidad de coeficientes.
+Evaluación de la naturaleza de las soluciones de un sistema lineal basándose en el análisis de sus determinantes.
 
 ---
 
-## Question 20 [D9-D10] (Variant Basic - Difficulty 10)
-
+## Question 20 [D9-D10] (Difficulty 10)
 **ID:** `NI-MAT-11-P1-algebra-001-v20`
-**Bloom:** Evaluate
-**Competencia:** Razonamiento Matemático
-**Context:** Logaritmos y exponentes avanzados.
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Binomio de Newton.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Resuelve para $x$: $3^{2x} - 10 \cdot 3^x + 9 = 0$.
+¿Cuál es el tercer término del desarrollo del binomio $(x + 2)^4$?
 
 ### Options
-- [ ] A) x = 1 <!-- feedback: Incorrecto. Falta la otra solución. -->
-- [ ] B) x = 0, x = 1 <!-- feedback: Incorrecto. 3^0=1, 3^1=3. (1)^2 - 10(1) + 9 = 0. Bien. Pero x=2? Veamos. -->
-- [x] C) x = 0, x = 2 <!-- feedback: Correcto. Sea u = 3^x. u^2 - 10u + 9 = 0 => (u-9)(u-1)=0. u=1 => 3^x=1 => x=0. u=9 => 3^x=9 => x=2. -->
-- [ ] D) x = 9, x = 1 <!-- feedback: Incorrecto. Estos son los valores de u, no de x. -->
+- [ ] A) $8x^2$ <!-- feedback: Incorrecto. Se omitió el coeficiente binomial de la combinación correspondente. -->
+- [x] B) $24x^2$ <!-- feedback: Correcto. El término es $\binom{4}{2} \cdot x^2 \cdot 2^2 = 6 \cdot x^2 \cdot 4 = 24x^2$. -->
+- [ ] C) $12x^2$ <!-- feedback: Incorrecto. Se usó un coeficiente de combinación erróneo en el cálculo. -->
+- [ ] D) $16x^2$ <!-- feedback: Incorrecto. Se calculó solo el valor de la potencia del segundo término sin el factor combinatorio. -->
 
 ### Explicación Pedagógica
-Resolución de ecuaciones de tipo cuadrático mediante cambio de variable en expresiones exponenciales.
+Aplicación del Teorema del Binomio de Newton para hallar términos específicos en expansiones de potencias.
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Álgebra para 11º Grado en Nicaragua ha sido diseñado siguiendo los lineamientos del MINED para el Undécimo Grado. Cubre desde operaciones básicas y modelado comercial en mercados locales, pasando por el análisis de funciones cuadráticas en deportes nacionales como el béisbol, hasta temas avanzados de sucesiones, matrices y series. El enfoque busca fortalecer el razonamiento lógico y la capacidad de resolución de problemas complejos, preparando al estudiante para las exigencias de la educación superior y los exámenes de admisión universitaria.

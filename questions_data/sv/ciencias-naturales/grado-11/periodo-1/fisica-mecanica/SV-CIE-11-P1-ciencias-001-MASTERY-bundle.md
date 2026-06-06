@@ -1,5 +1,5 @@
 ---
-id: "SV-CIE-11-P1-fisica-mecanica-001-MASTERY"
+id: "SV-CIE-11-P1-ciencias-001-MASTERY"
 country: "el-salvador"
 grado: 11
 asignatura: "ciencias-naturales"
@@ -8,447 +8,452 @@ periodo: 1
 protocol_version: "5.1"
 bundle_index: 1
 bundle_size: 20
-alignment: "MINED"
+alignment: "MINED El Salvador + Bachillerato"
 modern_context: true
 distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.60
+  expected_success_rate: 0.55
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 ---
 
-# MASTERY Bundle — Física Mecánica (001)
+# MASTERY Bundle — Ciencias Naturales: Física Mecánica (SV-001)
 
-## Bloque A — Nivel D3–D4
+## Bloque A — Nivel D3–D4: Cinemática y Movimiento Rectilíneo
 
 ---
 
-## Question 1 [D3-D4]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v1`
-**Bloom:** Remember
+## Question 1 [D3-D4] (Difficulty 3)
+**ID:** `SV-CIE-11-P1-ciencias-001-v1`
+**Bloom:** Apply
 **Competencia:** Uso comprensivo del conocimiento científico
-**Context:** Conceptos básicos de cinemática.
+**Context:** Transporte en la carretera Panamericana.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Cómo se define la rapidez media de un objeto en movimiento?
+Un autobús viaja por la carretera Panamericana desde San Salvador hacia San Miguel con una velocidad constante de 80 km/h. ¿Cómo se denomina este tipo de movimiento donde la velocidad no cambia en el tiempo y la trayectoria es recta?
 
 ### Options
-- [ ] A) El cambio de velocidad dividido por el tiempo. <!-- feedback: Incorrecto. Esta es la definición de aceleración media. -->
-- [x] B) La distancia total recorrida dividida por el tiempo total transcurrido. <!-- feedback: Correcto. La rapidez es una magnitud escalar que relaciona distancia y tiempo. -->
-- [ ] C) El desplazamiento total dividido por el tiempo. <!-- feedback: Incorrecto. Esta es la definición de velocidad media (magnitud vectorial). -->
-- [ ] D) El producto de la masa por la aceleración. <!-- feedback: Incorrecto. Esta es la definición de fuerza nuta según la segunda ley de Newton. -->
+- [ ] A) Movimiento Rectilíneo Uniformemente Variado (MRUV) <!-- feedback: Incorrecto. En el MRUV la velocidad cambia constantemente debido a una aceleración. -->
+- [x] B) Movimiento Rectilíneo Uniforme (MRU) <!-- feedback: Correcto. En el MRU la velocidad es constante (aceleración nula) y la trayectoria es una línea recta. -->
+- [ ] C) Movimiento Circular Uniforme <!-- feedback: Incorrecto. La trayectoria en este caso sería una circunferencia, no una línea recta. -->
+- [ ] D) Movimiento de Caída Libre <!-- feedback: Incorrecto. Este es un movimiento vertical bajo la influencia de la gravedad, con velocidad variable. -->
 
 ### Explicación Pedagógica
-Identificación de magnitudes cinemáticas básicas y sus definiciones.
+Identificación de las características fundamentales del Movimiento Rectilíneo Uniforme (MRU).
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v2`
-**Bloom:** Remember
-**Competencia:** Uso comprensivo del conocimiento científico
-**Context:** Primera Ley de Newton.
-
-### Enunciado
-¿Qué establece la Primera Ley de Newton o Ley de la Inercia?
-
-### Options
-- [ ] A) Para toda acción hay una reacción igual y opuesta. <!-- feedback: Incorrecto. Esta es la tercera ley de Newton. -->
-- [x] B) Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme a menos que una fuerza neta actúe sobre él. <!-- feedback: Correcto. La inercia es la resistencia al cambio en el estado de movimiento. -->
-- [ ] C) La fuerza es igual a la masa por la aceleración. <!-- feedback: Incorrecto. Esta es la segunda ley de Newton. -->
-- [ ] D) La energía no se crea ni se destruye, solo se transforma. <!-- feedback: Incorrecto. Este es el principio de conservación de la energía. -->
-
-### Explicación Pedagógica
-Reconocimiento de los principios fundamentales de la dinámica.
-
----
-
-## Question 3 [D3-D4]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v3`
-**Bloom:** Understand
-**Competencia:** Explicación de fenómenos
-**Context:** Diferencia entre masa y peso.
-
-### Enunciado
-¿Cuál es la diferencia fundamental entre la masa y el peso de un objeto?
-
-### Options
-- [ ] A) Son lo mismo y se miden en las mismas unidades. <!-- feedback: Incorrecto. La masa es escalar y el peso es vectorial; tienen unidades diferentes. -->
-- [x] B) La masa es la cantidad de materia (constante) y el peso es la fuerza gravitatoria (varía con la gravedad). <!-- feedback: Correcto. La masa no cambia según el lugar, el peso sí. -->
-- [ ] C) El peso se mide en kilogramos y la masa en Newtons. <!-- feedback: Incorrecto. Es al revés: masa en kg y peso en N. -->
-- [ ] D) La masa depende de la aceleración y el peso no. <!-- feedback: Incorrecto. El peso es una fuerza que depende de la aceleración de la gravedad ($P=mg$). -->
-
-### Explicación Pedagógica
-Comprensión de las propiedades de la materia y su interacción gravitatoria.
-
----
-
-## Question 4 [D3-D4]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v4`
-**Bloom:** Understand
-**Competencia:** Uso comprensivo del conocimiento científico
-**Context:** Unidades del SI.
-
-### Enunciado
-¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional de Unidades (SI)?
-
-### Options
-- [ ] A) Joule (J) <!-- feedback: Incorrecto. El Joule es la unidad de trabajo y energía. -->
-- [ ] B) Watt (W) <!-- feedback: Incorrecto. El Watt es la unidad de potencia. -->
-- [x] C) Newton (N) <!-- feedback: Correcto. Se define como kg·m/s². -->
-- [ ] D) Pascal (Pa) <!-- feedback: Incorrecto. El Pascal es la unidad de presión. -->
-
-### Explicación Pedagógica
-Identificación de unidades fundamentales y derivadas en física.
-
----
-
-## Bloque B — Nivel D5–D6
-
----
-
-## Question 5 [D5-D6]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v5`
+## Question 2 [D3-D4] (Difficulty 3)
+**ID:** `SV-CIE-11-P1-ciencias-001-v2`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** MRU (Movimiento Rectilíneo Uniforme).
+**Context:** Desplazamiento urbano.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un bus de la ruta 201 viaja de Santa Ana a San Salvador a una velocidad constante de 60 km/h. Si la distancia entre ambas ciudades es de 66 km, ¿cuánto tiempo tardará en completar el recorrido?
+Si un vehículo circula por el Bulevar de Los Próceres recorriendo 500 metros en 20 segundos, ¿cuál es su rapidez media en metros por segundo (m/s)?
 
 ### Options
-- [ ] A) 1 hora y 10 minutos <!-- feedback: Incorrecto. Revisa el cálculo decimal: $66/60 = 1.1$ horas. -->
-- [x] B) 1 hora y 6 minutos <!-- feedback: Correcto. $t = d/v = 66 / 60 = 1.1$ horas. Como $0.1$ horas son 6 minutos ($0.1 \cdot 60$), el tiempo es 1h 6min. -->
-- [ ] C) 55 minutos <!-- feedback: Incorrecto. El tiempo debe ser mayor a una hora puesto que la distancia es mayor a la velocidad por hora. -->
-- [ ] D) 1 hora y 15 minutos <!-- feedback: Incorrecto. Error en la conversión de decimales a minutos. -->
+- [ ] A) 10 m/s <!-- feedback: Incorrecto. Resultado obtenido de un error en la división aritmética. -->
+- [x] B) 25 m/s <!-- feedback: Correcto. Rapidez = distancia / tiempo = 500 m / 20 s = 25 m/s. -->
+- [ ] C) 50 m/s <!-- feedback: Incorrecto. Valor sobreestimado, probablemente por un error en la simplificación de los ceros. -->
+- [ ] D) 100 m/s <!-- feedback: Incorrecto. Error en el planteamiento de la operación fundamental de la cinemática. -->
 
 ### Explicación Pedagógica
-Aplicación de fórmulas de movimiento uniforme y conversión de unidades de tiempo.
+Aplicación de la fórmula básica de rapidez media en contextos de movilidad urbana.
 
 ---
 
-## Question 6 [D5-D6]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v6`
-**Bloom:** Understand
+## Question 3 [D3-D4] (Difficulty 4)
+**ID:** `SV-CIE-11-P1-ciencias-001-v3`
+**Bloom:** Apply
 **Competencia:** Explicación de fenómenos
-**Context:** Tercera Ley de Newton.
+**Context:** Concepto de aceleración.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Al disparar un cañón, este retrocede con cierta velocidad. ¿Qué ley de la física explica este fenómeno?
+Un motociclista que espera en un semáforo en Santa Tecla arranca y aumenta su velocidad de 0 m/s a 20 m/s en 5 segundos. ¿Qué magnitud física describe este cambio de velocidad por unidad de tiempo?
 
 ### Options
-- [ ] A) Segunda Ley de Newton. <!-- feedback: Incorrecto. Aunque se relaciona, la explicación directa es la acción-reacción. -->
-- [x] B) Tercera Ley de Newton (Acción y Reacción). <!-- feedback: Correcto. La fuerza que impulsa la bala hacia adelante genera una fuerza igual y opuesta sobre el cañón. -->
-- [ ] C) Ley de la Gravitación Universal. <!-- feedback: Incorrecto. No se debe a la atracción de masas, sino al contacto de fuerzas. -->
-- [ ] D) Principio de Pascal. <!-- feedback: Incorrecto. Este se aplica a fluidos en equilibrio. -->
+- [ ] A) Distancia <!-- feedback: Incorrecto. La distancia es una magnitud escalar que mide la longitud del camino recorrido. -->
+- [ ] B) Inercia <!-- feedback: Incorrecto. La inercia es la resistencia de un cuerpo a cambiar su estado de movimiento o reposo. -->
+- [x] C) Aceleración <!-- feedback: Correcto. La aceleración mide la variación de la velocidad en un intervalo de tiempo determinado. -->
+- [ ] D) Fuerza <!-- feedback: Incorrecto. Aunque la fuerza causa la aceleración, la magnitud que mide el cambio de velocidad es la aceleración misma. -->
 
 ### Explicación Pedagógica
-Comprensión de la naturaleza de las fuerzas de interacción.
+Comprensión conceptual de la aceleración como la tasa de cambio de la velocidad.
 
 ---
 
-## Question 7 [D5-D6]
+## Question 4 [D3-D4] (Difficulty 4)
+**ID:** `SV-CIE-11-P1-ciencias-001-v4`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Conversión de unidades.
+**Expected_Success:** 0.60
 
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v7`
+### Enunciado
+La velocidad máxima permitida en ciertos tramos de la carretera a Comalapa es de 90 km/h. ¿A cuánto equivale esta velocidad en el Sistema Internacional de unidades (m/s)?
+
+### Options
+- [ ] A) 90 m/s <!-- feedback: Incorrecto. No se realizó la conversión de unidades de km a m y de h a s. -->
+- [x] B) 25 m/s <!-- feedback: Correcto. 90 km/h * (1000m / 1km) * (1h / 3600s) = 90000 / 3600 = 25 m/s. -->
+- [ ] C) 32.4 m/s <!-- feedback: Incorrecto. Valor obtenido por una conversión errónea de las unidades de tiempo. -->
+- [ ] D) 15 m/s <!-- feedback: Incorrecto. Error de cálculo en la simplificación de los factores de conversión. -->
+
+### Explicación Pedagógica
+Ejecución de conversiones de unidades de velocidad entre el sistema técnico y el sistema internacional.
+
+---
+
+## Bloque B — Nivel D5–D6: Leyes de Newton y Dinámica
+
+---
+
+## Question 5 [D5-D6] (Difficulty 5)
+**ID:** `SV-CIE-11-P1-ciencias-001-v5`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Primera Ley de Newton (Inercia).
+**Expected_Success:** 0.60
+
+### Enunciado
+Un pasajero viaja en un microbús de la ruta 101-D. Si el conductor frena bruscamente, el cuerpo del pasajero tiende a irse hacia adelante. ¿Qué ley de la física explica este comportamiento?
+
+### Options
+- [x] A) Ley de la Inercia (1ª Ley de Newton) <!-- feedback: Correcto. Todo cuerpo tiende a mantener su estado de movimiento a menos que una fuerza externa actúe sobre él. -->
+- [ ] B) Ley de la Fuerza y Aceleración (2ª Ley de Newton) <!-- feedback: Incorrecto. Esta ley describe la relación cuantitativa entre fuerza, masa y aceleración. -->
+- [ ] C) Ley de Acción y Reacción (3ª Ley de Newton) <!-- feedback: Incorrecto. Esta ley explica que a toda acción corresponde una reacción de igual magnitud y sentido opuesto. -->
+- [ ] D) Ley de Gravitación Universal <!-- feedback: Incorrecto. Esta ley explica la atracción entre masas, no el comportamiento de los cuerpos en movimiento rectilíneo. -->
+
+### Explicación Pedagógica
+Identificación y aplicación de la Primera Ley de Newton en situaciones de la vida cotidiana.
+
+---
+
+## Question 6 [D5-D6] (Difficulty 5)
+**ID:** `SV-CIE-11-P1-ciencias-001-v6`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Segunda Ley de Newton.
+**Expected_Success:** 0.60
+
+### Enunciado
+Se aplica una fuerza de 150 N sobre un bloque de 30 kg de masa que descansa en una superficie sin fricción. ¿Cuál es la aceleración que adquiere el bloque?
+
+### Options
+- [ ] A) 4500 m/s² <!-- feedback: Incorrecto. Se multiplicaron los valores en lugar de dividirlos según la fórmula F = m * a. -->
+- [x] B) 5 m/s² <!-- feedback: Correcto. Aceleración = Fuerza / masa = 150 N / 30 kg = 5 m/s². -->
+- [ ] C) 0.2 m/s² <!-- feedback: Incorrecto. Se realizó la división inversa (masa / fuerza). -->
+- [ ] D) 120 m/s² <!-- feedback: Incorrecto. Se restaron los valores en lugar de aplicar la relación física correcta. -->
+
+### Explicación Pedagógica
+Cálculo de la aceleración utilizando la Segunda Ley de Newton.
+
+---
+
+## Question 7 [D5-D6] (Difficulty 5)
+**ID:** `SV-CIE-11-P1-ciencias-001-v7`
+**Bloom:** Apply
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Diferencia entre masa y peso.
+**Expected_Success:** 0.60
+
+### Enunciado
+¿Cuál es la diferencia fundamental entre la masa de un objeto y su peso?
+
+### Options
+- [ ] A) No hay diferencia, son lo mismo medido en unidades distintas. <!-- feedback: Incorrecto. Son conceptos físicos totalmente diferentes. -->
+- [x] B) La masa es la cantidad de materia (constante) y el peso es la fuerza de gravedad sobre ella (variable). <!-- feedback: Correcto. La masa no cambia según el lugar, pero el peso depende de la gravedad local. -->
+- [ ] C) El peso se mide en kilogramos y la masa en Newtons. <!-- feedback: Incorrecto. Las unidades están invertidas: masa en kg, peso en Newtons. -->
+- [ ] D) La masa depende de la velocidad del objeto y el peso de su posición. <!-- feedback: Incorrecto. La masa es una propiedad intrínseca (en física clásica). -->
+
+### Explicación Pedagógica
+Distinción conceptual y técnica entre las magnitudes de masa y peso.
+
+---
+
+## Question 8 [D5-D6] (Difficulty 6)
+**ID:** `SV-CIE-11-P1-ciencias-001-v8`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Tercera Ley de Newton en el deporte.
+**Expected_Success:** 0.60
+
+### Enunciado
+Cuando un futbolista salvadoreño patea un balón, el pie ejerce una fuerza sobre el balón. Según la Tercera Ley de Newton, ¿qué sucede simultáneamente?
+
+### Options
+- [ ] A) El balón no ejerce ninguna fuerza sobre el pie porque tiene menos masa. <!-- feedback: Incorrecto. Las fuerzas siempre aparecen en pares, independientemente de la masa. -->
+- [x] B) El balón ejerce una fuerza de igual magnitud pero en sentido opuesto sobre el pie. <!-- feedback: Correcto. Principio de acción y reacción: las fuerzas ocurren en pares sobre cuerpos distintos. -->
+- [ ] C) El balón absorbe la fuerza y la convierte en energía potencial únicamente. <!-- feedback: Incorrecto. El intercambio de fuerzas es una interacción mecánica inmediata. -->
+- [ ] D) El pie se detiene automáticamente para cumplir la ley de conservación. <!-- feedback: Incorrecto. El pie puede seguir moviéndose si la fuerza muscular supera la reacción. -->
+
+### Explicación Pedagógica
+Análisis de las fuerzas de interacción según el principio de acción y reacción.
+
+---
+
+## Question 9 [D5-D6] (Difficulty 6)
+**ID:** `SV-CIE-11-P1-ciencias-001-v9`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Dinámica con fricción.
+**Expected_Success:** 0.60
+
+### Enunciado
+Un objeto de 10 kg es empujado con una fuerza de 50 N. Si existe una fuerza de fricción contraria al movimiento de 10 N, ¿cuál es la fuerza neta que actúa sobre el objeto?
+
+### Options
+- [ ] A) 60 N <!-- feedback: Incorrecto. Se sumaron las fuerzas, pero la fricción siempre se opone al movimiento. -->
+- [x] B) 40 N <!-- feedback: Correcto. Fuerza neta = Fuerza aplicada - Fuerza de fricción = 50 N - 10 N = 40 N. -->
+- [ ] C) 50 N <!-- feedback: Incorrecto. Se ignoró la existencia de la fuerza de fricción mencionada. -->
+- [ ] D) 500 N <!-- feedback: Incorrecto. Se multiplicó la fuerza por la masa, lo cual no corresponde al cálculo de fuerza neta. -->
+
+### Explicación Pedagógica
+Cálculo de la fuerza neta en sistemas con fuerzas colineales opuestas.
+
+---
+
+## Question 10 [D5-D6] (Difficulty 6)
+**ID:** `SV-CIE-11-P1-ciencias-001-v10`
+**Bloom:** Apply
+**Competencia:** Explicación de fenómenos
+**Context:** Caída libre en el Volcán de San Salvador.
+**Expected_Success:** 0.60
+
+### Enunciado
+Si se deja caer una piedra desde un mirador del Volcán de San Salvador (despreciando la resistencia del aire), ¿qué sucede con su velocidad y su aceleración mientras cae?
+
+### Options
+- [ ] A) La velocidad es constante y la aceleración aumenta. <!-- feedback: Incorrecto. La velocidad aumenta debido a la gravedad. -->
+- [ ] B) Tanto la velocidad como la aceleración son constantes. <!-- feedback: Incorrecto. Si la aceleración es constante y distinta de cero, la velocidad debe cambiar. -->
+- [x] C) La velocidad aumenta linealmente y la aceleración es constante (g). <!-- feedback: Correcto. En caída libre la aceleración es la de la gravedad ($9.8 \text{ m/s}^2$) y es constante. -->
+- [ ] D) El objeto sube primero antes de empezar a caer por inercia. <!-- feedback: Incorrecto. El enunciado dice que se "deja caer", por lo que inicia con velocidad cero hacia abajo. -->
+
+### Explicación Pedagógica
+Análisis del movimiento de caída libre como un caso de Movimiento Rectilíneo Uniformemente Variado (MRUV).
+
+---
+
+## Bloque C — Nivel D7–D8: Trabajo, Energía y Potencia
+
+---
+
+## Question 11 [D7-D8] (Difficulty 7)
+**ID:** `SV-CIE-11-P1-ciencias-001-v11`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
 **Context:** Trabajo mecánico.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un trabajador en el Puerto de Acajutla empuja una caja con una fuerza horizontal de 200 N a lo largo de una distancia de 5 metros. Si la fuerza de fricción es despreciable, ¿cuánto trabajo realiza el trabajador?
+Un operario en una bodega de Sonsonate desplaza una caja una distancia de 10 metros aplicando una fuerza horizontal constante de 200 N. ¿Cuánto trabajo mecánico ha realizado?
 
 ### Options
-- [ ] A) 40 J <!-- feedback: Incorrecto. Dividiste la fuerza entre la distancia. El trabajo es producto. -->
-- [x] B) 1000 J <!-- feedback: Correcto. $W = F \cdot d = 200 \text{ N} \cdot 5 \text{ m} = 1000 \text{ Joules}$. -->
-- [ ] C) 205 J <!-- feedback: Incorrecto. Sumaste los valores en lugar de multiplicarlos. -->
-- [ ] D) 100 J <!-- feedback: Incorrecto. Error en la multiplicación. -->
+- [ ] A) 20 Joules <!-- feedback: Incorrecto. Se dividió la fuerza entre la distancia en lugar de multiplicarlas. -->
+- [x] B) 2000 Joules <!-- feedback: Correcto. Trabajo (W) = Fuerza * distancia = 200 N * 10 m = 2000 J. -->
+- [ ] C) 210 Joules <!-- feedback: Incorrecto. Se sumaron los valores de las magnitudes físicas involucradas. -->
+- [ ] D) 0 Joules <!-- feedback: Incorrecto. El trabajo es nulo solo si la fuerza es perpendicular al desplazamiento o si no hay movimiento. -->
 
 ### Explicación Pedagógica
-Cálculo de trabajo mecánico realizado por una fuerza constante.
+Aplicación de la definición de trabajo mecánico para fuerzas constantes paralelas al desplazamiento.
 
 ---
 
-## Question 8 [D5-D6]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v8`
+## Question 12 [D7-D8] (Difficulty 7)
+**ID:** `SV-CIE-11-P1-ciencias-001-v12`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** Energía cinética.
+**Competencia:** Uso comprensivo del conocimiento científico
+**Context:** Conservación de la energía mecánica.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Determine la energía cinética de un vehículo de 1000 kg que circula por la carretera Panamericana a una velocidad de 20 m/s.
+En un sistema conservativo (sin fricción), si un objeto pierde 500 J de energía potencial gravitatoria al caer, ¿qué sucede con su energía cinética?
 
 ### Options
-- [ ] A) 20,000 J <!-- feedback: Incorrecto. Olvidaste elevar la velocidad al cuadrado en la fórmula. -->
-- [x] B) 200,000 J <!-- feedback: Correcto. $Ec = \frac{1}{2} m v^2 = \frac{1}{2} (1000)(20^2) = 500 \cdot 400 = 200,000$ J. -->
-- [ ] C) 10,000 J <!-- feedback: Incorrecto. Error en el uso de la fórmula de energía cinética. -->
-- [ ] D) 400,000 J <!-- feedback: Incorrecto. No multiplicaste por el factor $1/2$. -->
+- [ ] A) Se pierde totalmente por el calor generado. <!-- feedback: Incorrecto. En un sistema conservativo la energía mecánica total se mantiene. -->
+- [x] B) Aumenta exactamente en 500 J. <!-- feedback: Correcto. Por la Ley de Conservación de la Energía, la pérdida de una forma de energía se convierte en ganancia de la otra. -->
+- [ ] C) Se mantiene constante durante toda la caída. <!-- feedback: Incorrecto. La energía cinética debe aumentar a medida que el objeto gana velocidad. -->
+- [ ] D) Disminuye para compensar la caída. <!-- feedback: Incorrecto. Esto violaría la conservación de la energía mecánica. -->
 
 ### Explicación Pedagógica
-Aplicación de la fórmula de energía cinética para cuerpos en traslación.
+Comprensión de las transformaciones de energía en sistemas mecánicos ideales.
 
 ---
 
-## Question 9 [D5-D6]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v9`
-**Bloom:** Understand
-**Competencia:** Explicación de fenómenos
-**Context:** Conservación de la energía.
-
-### Enunciado
-Una pelota se deja caer desde lo alto de un edificio. A medida que cae (despreciando la resistencia del aire), ¿cómo cambian sus energías?
-
-### Options
-- [ ] A) La energía potencial aumenta y la cinética disminuye. <!-- feedback: Incorrecto. Al bajar, la altura disminuye, por lo que la potencial baja. -->
-- [x] B) La energía potencial disminuye y la cinética aumenta. <!-- feedback: Correcto. La energía potencial se transforma en cinética a medida que el objeto gana velocidad. -->
-- [ ] C) Ambas energías aumentan. <!-- feedback: Incorrecto. Esto violaría el principio de conservación de la energía. -->
-- [ ] D) Ambas energías permanecen constantes. <!-- feedback: Incorrecto. Cambian de forma, aunque su suma sea constante. -->
-
-### Explicación Pedagógica
-Comprensión de la transformación de energía mecánica en sistemas conservativos.
-
----
-
-## Question 10 [D5-D6]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v10`
+## Question 13 [D7-D8] (Difficulty 7)
+**ID:** `SV-CIE-11-P1-ciencias-001-v13`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
 **Context:** Potencia mecánica.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Una grúa levanta una carga realizando un trabajo de 6000 J en un tiempo de 20 segundos. ¿Cuál es la potencia desarrollada por la grúa?
+Un motor eléctrico eleva un ascensor realizando un trabajo de 12,000 J en un tiempo de 6 segundos. ¿Cuál es la potencia desarrollada por el motor en Watts (W)?
 
 ### Options
-- [ ] A) 120,000 W <!-- feedback: Incorrecto. Multiplicaste el trabajo por el tiempo. La potencia es la rapidez con que se hace el trabajo ($W/t$). -->
-- [x] B) 300 W <!-- feedback: Correcto. $P = W / t = 6000 \text{ J} / 20 \text{ s} = 300 \text{ Watts}$. -->
-- [ ] C) 6020 W <!-- feedback: Incorrecto. Sumaste los valores en lugar de dividirlos. -->
-- [ ] D) 30 W <!-- feedback: Incorrecto. Error en la división de los ceros. -->
+- [ ] A) 72,000 W <!-- feedback: Incorrecto. Se multiplicó el trabajo por el tiempo en lugar de dividirlos. -->
+- [x] B) 2000 W <!-- feedback: Correcto. Potencia = Trabajo / tiempo = 12000 J / 6 s = 2000 W. -->
+- [ ] C) 1200 W <!-- feedback: Incorrecto. Error de cálculo aritmético en la división de las magnitudes. -->
+- [ ] D) 6 W <!-- feedback: Incorrecto. Valor sin fundamento en la relación física de potencia. -->
 
 ### Explicación Pedagógica
-Cálculo de la potencia mecánica a partir del trabajo y el tiempo.
+Cálculo de la potencia como la rapidez con la que se realiza un trabajo mecánico.
 
 ---
 
-## Bloque C — Nivel D7–D8
-
----
-
-## Question 11 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v11`
+## Question 14 [D7-D8] (Difficulty 8)
+**ID:** `SV-CIE-11-P1-ciencias-001-v14`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** MRUV (Caída Libre).
-
-### Enunciado
-Se lanza una piedra verticalmente hacia arriba con una velocidad inicial de 30 m/s. ¿Cuánto tiempo tardará en alcanzar su altura máxima? (Use $g \approx 10 \text{ m/s}^2$).
-
-### Options
-- [ ] A) 1.5 s <!-- feedback: Incorrecto. Revisa la relación entre velocidad y gravedad. -->
-- [x] B) 3 s <!-- feedback: Correcto. En la altura máxima $v = 0$. Usando $v = v_0 - gt \Rightarrow 0 = 30 - 10t \Rightarrow t = 3$ s. -->
-- [ ] C) 6 s <!-- feedback: Incorrecto. Este es el tiempo total de vuelo (subida y bajada). -->
-- [ ] D) 30 s <!-- feedback: Incorrecto. Dividiste la velocidad entre 1 en lugar de la gravedad. -->
-
-### Explicación Pedagógica
-Análisis de movimientos con aceleración constante en el eje vertical.
-
----
-
-## Question 12 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v12`
-**Bloom:** Analyze
 **Competencia:** Explicación de fenómenos
-**Context:** Fricción o rozamiento.
+**Context:** Energía cinética y velocidad.
+**Expected_Success:** 0.60
 
 ### Enunciado
-¿Por qué es más difícil empezar a empujar un mueble pesado que mantenerlo en movimiento una vez que ya ha comenzado a deslizarse?
+Si la velocidad de un vehículo que transita por la carretera Litoral se duplica, ¿qué sucede con su energía cinética?
 
 ### Options
-- [ ] A) Porque la gravedad es mayor cuando el objeto está quieto. <!-- feedback: Incorrecto. La gravedad no depende del movimiento relativo. -->
-- [x] B) Porque el coeficiente de fricción estática es mayor que el coeficiente de fricción cinética. <!-- feedback: Correcto. Se requiere más fuerza para romper el estado de reposo que para vencer la fricción en movimiento. -->
-- [ ] C) Porque el aire empuja más fuerte al objeto en reposo. <!-- feedback: Incorrecto. La resistencia del aire es despreciable a bajas velocidades. -->
-- [ ] D) Porque el objeto pesa más cuando no se mueve. <!-- feedback: Incorrecto. El peso (masa por gravedad) es el mismo. -->
+- [ ] A) Se duplica también. <!-- feedback: Incorrecto. La energía cinética depende del cuadrado de la velocidad. -->
+- [ ] B) Se mantiene igual. <!-- feedback: Incorrecto. Al aumentar la velocidad, aumenta necesariamente la energía cinética. -->
+- [x] C) Se cuadruplica ($4 \times$). <!-- feedback: Correcto. $Ec = (1/2)mv^2$. Si $v$ es $2v$, entonces $(2v)^2 = 4v^2$. La energía se multiplica por 4. -->
+- [ ] D) Aumenta en un 50%. <!-- feedback: Incorrecto. La relación entre energía cinética y velocidad no es lineal. -->
 
 ### Explicación Pedagógica
-Análisis de las fuerzas de fricción y sus coeficientes según el estado de movimiento.
+Análisis de la dependencia cuadrática de la energía cinética respecto a la velocidad.
 
 ---
 
-## Question 13 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v13`
+## Question 15 [D7-D8] (Difficulty 8)
+**ID:** `SV-CIE-11-P1-ciencias-001-v15`
 **Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Cantidad de movimiento (Momentum).
+**Context:** Energía potencial gravitatoria.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Un futbolista patea un balón de 0.5 kg que estaba en reposo, imprimiéndole una velocidad de 20 m/s. ¿Cuál es el impulso recibido por el balón?
+Calcula la energía potencial gravitatoria de una roca de 5 kg situada a una altura de 20 metros sobre el suelo en el Cerro Verde. (Usa $g = 10 \text{ m/s}^2$).
 
 ### Options
-- [ ] A) 40 kg·m/s <!-- feedback: Incorrecto. Dividiste la velocidad por la masa. -->
-- [x] B) 10 N·s <!-- feedback: Correcto. El impulso es igual al cambio en la cantidad de movimiento: $I = \Delta p = m(v_f - v_i) = 0.5(20 - 0) = 10$ kg·m/s o N·s. -->
-- [ ] C) 20 N·s <!-- feedback: Incorrecto. No multiplicaste por la masa correctamente. -->
-- [ ] D) 5 N·s <!-- feedback: Incorrecto. Error en la multiplicación. -->
+- [ ] A) 100 J <!-- feedback: Incorrecto. Se omitió uno de los factores de la fórmula $m \cdot g \cdot h$. -->
+- [x] B) 1000 J <!-- feedback: Correcto. $Ep = m \cdot g \cdot h = 5 \text{ kg} \cdot 10 \text{ m/s}^2 \cdot 20 \text{ m} = 1000 \text{ J}$. -->
+- [ ] C) 500 J <!-- feedback: Incorrecto. Error en la multiplicación de los tres componentes de la energía potencial. -->
+- [ ] D) 25 J <!-- feedback: Incorrecto. Error en el planteamiento algebraico del problema. -->
 
 ### Explicación Pedagógica
-Aplicación del teorema del impulso y la cantidad de movimiento.
+Aplicación de la fórmula de energía potencial gravitatoria en un entorno geográfico local.
 
 ---
 
-## Question 14 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v14`
-**Bloom:** Analyze
-**Competencia:** Explicación de fenómenos
-**Context:** Movimiento Circular Uniforme (MCU).
-
-### Enunciado
-En un movimiento circular uniforme, aunque la rapidez sea constante, existe una aceleración. ¿Hacia dónde apunta este vector de aceleración centripeta?
-
-### Options
-- [ ] A) Hacia afuera de la trayectoria circular (centrífuga). <!-- feedback: Incorrecto. La centrífuga es una fuerza ficticia; la aceleración real es hacia el centro. -->
-- [ ] B) En la misma dirección del movimiento (tangencial). <!-- feedback: Incorrecto. Si hubiera aceleración tangencial, la rapidez cambiaría. -->
-- [x] C) Hacia el centro del círculo de la trayectoria. <!-- feedback: Correcto. La aceleración centrípeta cambia la dirección del vector velocidad. -->
-- [ ] D) Hacia arriba, en contra de la gravedad. <!-- feedback: Incorrecto. No depende de la gravedad, sino de la trayectoria. -->
-
-### Explicación Pedagógica
-Análisis vectorial de las aceleraciones en trayectorias curvas.
-
----
-
-## Question 15 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v15`
+## Question 16 [D7-D8] (Difficulty 7)
+**ID:** `SV-CIE-11-P1-ciencias-001-v16`
 **Bloom:** Apply
-**Competencia:** Resolución de problemas
-**Context:** Estática (Momentos o Torques).
-
-### Enunciado
-Para aflojar una tuerca en un vehículo, un mecánico aplica una fuerza de 100 N perpendicularmente al extremo de una llave de 0.4 metros de largo. ¿Cuál es el torque o momento de fuerza aplicado?
-
-### Options
-- [ ] A) 250 N·m <!-- feedback: Incorrecto. Dividiste la fuerza por la distancia. -->
-- [x] B) 40 N·m <!-- feedback: Correcto. $\tau = F \cdot r \cdot \text{sen}(\theta) = 100 \cdot 0.4 \cdot \text{sen}(90^\circ) = 40$ N·m. -->
-- [ ] C) 100.4 N·m <!-- feedback: Incorrecto. Sumaste los valores. -->
-- [ ] D) 400 N·m <!-- feedback: Incorrecto. Multiplicaste 100 por 4 en lugar de 0.4. -->
-
-### Explicación Pedagógica
-Cálculo del momento de una fuerza respecto a un punto de rotación.
-
----
-
-## Question 16 [D7-D8]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v16`
-**Bloom:** Analyze
-**Competencia:** Uso comprensivo del conocimiento científico
-**Context:** Densidad y Empuje (Principio de Arquímedes).
-
-### Enunciado
-¿Por qué un barco de acero puede flotar en el agua si la densidad del acero es mucho mayor que la del agua?
-
-### Options
-- [ ] A) Porque el acero cambia su densidad al estar en contacto con el agua. <!-- feedback: Incorrecto. La densidad del material es constante. -->
-- [x] B) Porque el diseño del barco desplaza un volumen de agua cuyo peso es igual al peso total del barco. <!-- feedback: Correcto. La densidad promedio del barco (incluyendo el aire en su interior) es menor que la del agua. -->
-- [ ] C) Porque el agua salada tiene una fuerza de atracción especial por el metal. <!-- feedback: Incorrecto. No es atracción, es una fuerza de empuje hacia arriba. -->
-- [ ] D) Porque el motor del barco lo mantiene hacia arriba. <!-- feedback: Incorrecto. Los barcos apagan motores y siguen flotando. -->
-
-### Explicación Pedagógica
-Análisis de las condiciones de flotabilidad mediante el Principio de Arquímedes.
-
----
-
-## Bloque D — Nivel D9–D10
-
----
-
-## Question 17 [D9-D10]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v17`
-**Bloom:** Evaluate
-**Competencia:** Resolución de problemas
-**Context:** Choques inelásticos.
-
-### Enunciado
-Un bloque de 2 kg que se mueve a 4 m/s choca y se queda pegado a otro bloque de 2 kg que estaba en reposo sobre una superficie sin fricción. ¿Cuál es la velocidad final del conjunto?
-
-### Options
-- [ ] A) 4 m/s <!-- feedback: Incorrecto. La masa se duplicó, la velocidad debe disminuir para conservar el momentum. -->
-- [x] B) 2 m/s <!-- feedback: Correcto. Conservación de momentum: $m_1 v_1 = (m_1 + m_2) V \Rightarrow 2 \cdot 4 = (2 + 2) V \Rightarrow 8 = 4V \Rightarrow V = 2$ m/s. -->
-- [ ] C) 1 m/s <!-- feedback: Incorrecto. Error en la aplicación de la igualdad de momentum. -->
-- [ ] D) 0 m/s <!-- feedback: Incorrecto. Los bloques se siguen moviendo tras el choque inelástico. -->
-
-### Explicación Pedagógica
-Evaluación de sistemas en colisión mediante el principio de conservación de la cantidad de movimiento.
-
----
-
-## Question 18 [D9-D10]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v18`
-**Bloom:** Analyze
 **Competencia:** Indagación
-**Context:** Movimiento parabólico.
+**Context:** Rendimiento de máquinas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-En un lanzamiento de proyectil (como un balón de fútbol despejado por un portero), despreciando el aire, ¿qué magnitudes permanecen constantes durante todo el vuelo?
+Una máquina consume 1000 J de energía eléctrica pero solo entrega 800 J de trabajo útil. ¿Cuál es la eficiencia o rendimiento de esta máquina?
 
 ### Options
-- [ ] A) La velocidad total y la aceleración. <!-- feedback: Incorrecto. La velocidad total cambia de dirección y magnitud. -->
-- [x] B) La componente horizontal de la velocidad ($v_x$) y la aceleración de la gravedad ($g$). <!-- feedback: Correcto. No hay fuerzas horizontales, por lo que $v_x$ no cambia; la gravedad es constante hacia abajo. -->
-- [ ] C) La altura y la energía cinética. <!-- feedback: Incorrecto. Ambas varían durante la trayectoria. -->
-- [ ] D) La componente vertical de la velocidad ($v_y$) y la posición. <!-- feedback: Incorrecto. $v_y$ cambia por efecto de la gravedad. -->
+- [ ] A) 1.25% <!-- feedback: Incorrecto. Se realizó la división inversa y no se multiplicó por cien. -->
+- [x] B) 80% <!-- feedback: Correcto. Eficiencia = (Energía útil / Energía consumida) * 100 = (800 / 1000) * 100 = 80%. -->
+- [ ] C) 20% <!-- feedback: Incorrecto. Este es el porcentaje de energía que se pierde (disipa), no la eficiencia útil. -->
+- [ ] D) 180% <!-- feedback: Incorrecto. Ninguna máquina real puede tener una eficiencia superior al 100% (violación de la termodinámica). -->
 
 ### Explicación Pedagógica
-Análisis de la independencia de movimientos en cinemática bidimensional.
+Evaluación del rendimiento energético y el concepto de energía disipada en procesos reales.
 
 ---
 
-## Question 19 [D9-D10]
+## Bloque D — Nivel D9–D10: Estática y Movimiento Circular
 
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v19`
-**Bloom:** Evaluate
+---
+
+## Question 17 [D9-D10] (Difficulty 9)
+**ID:** `SV-CIE-11-P1-ciencias-001-v17`
+**Bloom:** Apply
 **Competencia:** Resolución de problemas
-**Context:** Dinámica con fricción.
+**Context:** Equilibrio de rotación (Torque).
+**Expected_Success:** 0.60
 
 ### Enunciado
-Se aplica una fuerza horizontal de 50 N a un bloque de 5 kg sobre una mesa. Si el coeficiente de fricción cinética es 0.2, ¿cuál es la aceleración del bloque? (Use $g \approx 10 \text{ m/s}^2$).
+Un niño de 30 kg se sienta a 2 metros del centro de un sube y baja. ¿A qué distancia del centro debe sentarse su padre de 60 kg para que el sistema esté en equilibrio horizontal?
 
 ### Options
-- [ ] A) 10 m/s² <!-- feedback: Incorrecto. No restaste la fuerza de fricción de la fuerza aplicada. -->
-- [x] B) 8 m/s² <!-- feedback: Correcto. Fuerza de fricción $f_k = \mu \cdot m \cdot g = 0.2 \cdot 5 \cdot 10 = 10$ N. Fuerza neta $F_n = 50 - 10 = 40$ N. Aceleración $a = F_n / m = 40 / 5 = 8$ m/s². -->
-- [ ] C) 4 m/s² <!-- feedback: Incorrecto. Error en el cálculo de la fuerza neta o la fricción. -->
-- [ ] D) 12 m/s² <!-- feedback: Incorrecto. Sumaste la fricción en lugar de restarla. -->
+- [ ] A) 4 metros <!-- feedback: Incorrecto. Al tener más masa, el padre debe estar más cerca del eje, no más lejos. -->
+- [x] B) 1 metro <!-- feedback: Correcto. Equilibrio de torques: $30 \text{ kg} * 2 \text{ m} = 60 \text{ kg} * d \Rightarrow 60 = 60d \Rightarrow d = 1 \text{ m}$. -->
+- [ ] C) 0.5 metros <!-- feedback: Incorrecto. El torque generado sería insuficiente para equilibrar al niño. -->
+- [ ] D) 2 metros <!-- feedback: Incorrecto. Solo funcionaría si tuvieran la misma masa. -->
 
 ### Explicación Pedagógica
-Evaluación de sistemas dinámicos integrando fuerzas aplicadas y fuerzas de resistencia.
+Aplicación de las condiciones de equilibrio de rotación utilizando el concepto de momento de fuerza o torque.
 
 ---
 
-## Question 20 [D9-D10]
-
-**ID:** `SV-CIE-11-P1-fisica-mecanica-001-v20`
-**Bloom:** Evaluate
+## Question 18 [D9-D10] (Difficulty 9)
+**ID:** `SV-CIE-11-P1-ciencias-001-v18`
+**Bloom:** Apply
 **Competencia:** Explicación de fenómenos
-**Context:** Energía y calor.
+**Context:** Fuerza centrípeta en curvas.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Cuando un vehículo frena bruscamente en una carretera mojada y se detiene, ¿qué sucedió con toda la energía cinética que tenía inicialmente?
+Cuando un vehículo toma una curva circular en una carretera, ¿hacia dónde apunta la fuerza neta (fuerza centrípeta) que permite que el vehículo no se salga de la trayectoria?
 
 ### Options
-- [ ] A) Desapareció por completo. <!-- feedback: Incorrecto. La energía no desaparece, se transforma. -->
-- [ ] B) Se transformó íntegramente en energía potencial gravitatoria. <!-- feedback: Incorrecto. El vehículo no subió de altura. -->
-- [x] C) Se transformó principalmente en calor debido a la fricción de los frenos y las llantas con el pavimento. <!-- feedback: Correcto. La energía mecánica se disipa como energía térmica en el ambiente. -->
-- [ ] D) Se almacenó en la batería del vehículo para su uso posterior. <!-- feedback: Incorrecto. Solo en vehículos híbridos/eléctricos ocurre esto parcialmente (frenado regenerativo), pero no de forma total ni en frenadas bruscas convencionales. -->
+- [ ] A) Hacia afuera de la curva (tangencial). <!-- feedback: Incorrecto. Esta es la tendencia por inercia, no la fuerza que permite el giro. -->
+- [x] B) Hacia el centro del círculo de la curva. <!-- feedback: Correcto. La fuerza centrípeta siempre apunta radialmente hacia el centro de la trayectoria circular. -->
+- [ ] C) Hacia atrás, oponiéndose al movimiento. <!-- feedback: Incorrecto. Esta sería la fuerza de fricción de frenado, no la centrípeta. -->
+- [ ] D) Desaparece porque la velocidad es constante. <!-- feedback: Incorrecto. Aunque la rapidez sea constante, la dirección de la velocidad cambia, lo que requiere una fuerza. -->
 
 ### Explicación Pedagógica
-Evaluación del principio de conservación de la energía en sistemas con fuerzas no conservativas (disipativas).
+Análisis de la dinámica del movimiento circular uniforme y la dirección de la aceleración centrípeta.
+
+---
+
+## Question 19 [D9-D10] (Difficulty 10)
+**ID:** `SV-CIE-11-P1-ciencias-001-v19`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Impulso y cantidad de movimiento.
+**Expected_Success:** 0.60
+
+### Enunciado
+Una pelota de béisbol de 0.2 kg viaja a 30 m/s y es golpeada por un bate, saliendo en dirección opuesta a 40 m/s. Si el contacto duró 0.01 s, ¿cuál fue la fuerza media ejercida por el bate?
+
+### Options
+- [ ] A) 200 N <!-- feedback: Incorrecto. Error al no considerar el cambio de dirección (signo de la velocidad) en el cálculo del impulso. -->
+- [x] B) 1400 N <!-- feedback: Correcto. Impulso = m * (vf - vi) = 0.2 * (40 - (-30)) = 0.2 * 70 = 14 Ns. Fuerza = Impulso / tiempo = 14 / 0.01 = 1400 N. -->
+- [ ] C) 20 N <!-- feedback: Incorrecto. Error grave de magnitudes en el cálculo de la variación del momentum. -->
+- [ ] D) 700 N <!-- feedback: Incorrecto. Se omitió el factor de masa en la ecuación de la fuerza media. -->
+
+### Explicación Pedagógica
+Evaluación de interacciones mecánicas breves mediante el Teorema del Impulso y la Variación de la Cantidad de Movimiento.
+
+---
+
+## Question 20 [D9-D10] (Difficulty 10)
+**ID:** `SV-CIE-11-P1-ciencias-001-v20`
+**Bloom:** Apply
+**Competencia:** Resolución de problemas
+**Context:** Proyectiles (Tiro parabólico).
+**Expected_Success:** 0.60
+
+### Enunciado
+Se lanza un proyectil con una velocidad inicial de 50 m/s y un ángulo de $30^\circ$ sobre la horizontal. ¿Cuál es la altura máxima alcanzada? (Usa $g = 10 \text{ m/s}^2$ y $\sin 30^\circ = 0.5$).
+
+### Options
+- [ ] A) 125 metros <!-- feedback: Incorrecto. Se utilizó el valor de la velocidad total en lugar de la componente vertical ($vy = 25 \text{ m/s}$). -->
+- [x] B) 31.25 metros <!-- feedback: Correcto. $vy = 50 * \sin 30 = 25 \text{ m/s}$. Altura máx = $(vy^2) / (2g) = (25^2) / 20 = 625 / 20 = 31.25 \text{ m}$. -->
+- [ ] C) 62.5 metros <!-- feedback: Incorrecto. Se olvidó dividir entre 2 en la fórmula del alcance vertical máximo. -->
+- [ ] D) 15.6 metros <!-- feedback: Incorrecto. Error aritmético en la elevación al cuadrado o la división final. -->
+
+### Explicación Pedagógica
+Modelización y resolución de problemas complejos de cinemática en dos dimensiones (lanzamiento de proyectiles).
+
+---
+
+### Explicación Pedagógica Final
+Este bundle de Ciencias Naturales enfocado en Física Mecánica para el 2º año de Bachillerato en El Salvador cubre los estándares del currículo nacional. Progresa desde los conceptos cinemáticos básicos (distancia, velocidad, aceleración) situados en las carreteras del país, pasando por las Leyes de Newton y el análisis de la energía, hasta llegar a problemas complejos de torque, proyectiles e impulso. El diseño de distractores apunta a errores conceptuales típicos como la confusión entre masa y peso, fallos en la conversión de unidades y la omisión de vectores en el cálculo de colisiones, permitiendo una preparación integral para las pruebas de grado y el ingreso universitario.
