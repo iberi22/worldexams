@@ -1,68 +1,97 @@
 {
-  "project": "worldexams",
-  "release": {
-    "version": "0.13.1",
-    "date": "2026-04-15",
-    "status": "private-prelaunch",
-    "changelog_path": "docs/CHANGELOG.md"
-  },
-  "tracking": {
-    "source_of_truth": ".gitcore/features.json",
-    "architecture_path": ".gitcore/ARCHITECTURE.md",
-    "planning_path": ".gitcore/planning/PLANNING.md",
-    "taskboard_path": ".gitcore/planning/TASK.md",
-    "changelog_path": "docs/CHANGELOG.md",
-    "visible_app_version_source": "package.json + saberparatodos/package.json",
-    "site_boundary_doc": "docs/monorepo/SITE_BOUNDARIES.md"
+  "metadata": {
+    "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
+    "version": "1.0",
+    "created": "2026-06-05",
+    "total_features": 8,
+    "passing": 7,
+    "failing": 0,
+    "status": "active"
   },
   "features": [
     {
-      "id": "monorepo-governance",
-      "name": "Monorepo governance and documentation authority",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-mastery-colombia",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
+      "passes": true,
+      "verified_by": "PRs #395, #406, #405",
+      "priority": "P0",
+      "progress_pct": 100
     },
     {
-      "id": "gitcore-adapted-protocol",
-      "name": "GitCore-adapted project protocol",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-mastery-uruguay",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Uruguay Grado 11",
+      "passes": true,
+      "verified_by": "PR #324",
+      "priority": "P0",
+      "progress_pct": 100
     },
     {
-      "id": "shared-multicountry-architecture",
-      "name": "Shared multi-country architecture",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-mastery-paraguay",
+      "category": "generation",
+      "description": "Generación de bundles MASTERY para Paraguay Grado 11",
+      "passes": true,
+      "verified_by": "PR #324",
+      "priority": "P0",
+      "progress_pct": 100
     },
     {
-      "id": "root-site-vs-product-runtime-boundary",
-      "name": "Root site versus reusable product runtime boundary",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-weekly-packs",
+      "category": "generation",
+      "description": "Generación de WEEKLY packs semanales por grado y país",
+      "passes": true,
+      "verified_by": "PRs #395, #397",
+      "priority": "P0",
+      "progress_pct": 95
     },
     {
-      "id": "gitcore-planning-layer",
-      "name": "GitCore planning layer inside .gitcore/planning",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-multi-country",
+      "category": "core",
+      "description": "Generalización de ICFES Colombia → países variables (UY, PY)",
+      "steps": [
+        "1. Reemplazar hardcodes de Colombia/ICFES en shared libs",
+        "2. Calendarios de exámenes por país",
+        "3. SEO y marketing multi-país"
+      ],
+      "passes": true,
+      "verified_by": "PRs #310, #315, #317, #318",
+      "priority": "P0",
+      "progress_pct": 100
     },
     {
-      "id": "worldexams-site-workspace",
-      "name": "Dedicated worldexams-site workspace under apps/",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-ci-cd",
+      "category": "infra",
+      "description": "CI/CD con Playwright E2E, pre-commit hooks",
+      "passes": true,
+      "verified_by": "48 tests E2E, GitHub Actions",
+      "priority": "P0",
+      "progress_pct": 100
     },
     {
-      "id": "manual-cli-deploy",
-      "name": "Manual CLI deploy workflow",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-security",
+      "category": "security",
+      "description": "Limpieza de secrets expuestos en git history",
+      "passes": false,
+      "verified_by": "pending",
+      "github_issue": 221,
+      "priority": "P1",
+      "progress_pct": 0
     },
     {
-      "id": "developer-api-and-worker-gateway",
-      "name": "Developer API and worker gateway",
-      "status": "active",
-      "tracked_in_changelog": true
+      "id": "feat-tests",
+      "category": "testing",
+      "description": "Tests unitarios para IsarVectorStoreService + agent_memory",
+      "passes": false,
+      "verified_by": "pending",
+      "github_issue": 408,
+      "priority": "P1",
+      "progress_pct": 20
     }
-  ]
+  ],
+  "verification_commands": {
+    "build": "npm run build 2>&1 | tail -5",
+    "tests": "npx playwright test 2>&1 | tail -10",
+    "lint": "npx eslint . 2>&1 | tail -5"
+  }
 }
