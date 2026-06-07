@@ -99,7 +99,7 @@ En educacion fisica, tres estudiantes corrieron diferentes distancias en la pist
 ### Options
 - [ ] A) Lucia corrio mas que los otros dos <!-- feedback: Incorrecto. 1/4 = 2/8 = 3/12, son equivalentes. Todas representan la misma cantidad. -->
 - [ ] B) Valentina corrio menos porque 3/12 es la fraccion mas pequena <!-- feedback: Incorrecto. Error comun: no simplificar. 3/12 simplificado es 1/4, igual que las demas. -->
-- [x] C) Los tres recorrieron la misma distancia porque las fracciones son equivalentes <!-- feedback: Correcto. 1/4 = 2/8 = 3/12. Simplificando: 2/8 ˜ 2/2 = 1/4, 3/12 ˜ 3/3 = 1/4. -->
+- [x] C) Los tres recorrieron la misma distancia porque las fracciones son equivalentes <!-- feedback: Correcto. 1/4 = 2/8 = 3/12. Simplificando: 2/8 ÔøΩ 2/2 = 1/4, 3/12 ÔøΩ 3/3 = 1/4. -->
 - [ ] D) Santiago corrio el doble que Lucia <!-- feedback: Incorrecto. 2/8 = 1/4, es exactamente la misma distancia, no el doble. -->
 
 ### Explicacion Pedagogica
@@ -121,7 +121,7 @@ La familia de Juan Pablo compro una torta para un paseo al Parque Sim√≥n Bolivar
 - [ ] A) Si, 24 dividido entre 8 personas da 3 porciones cada una <!-- feedback: Parcialmente correcto pero incompleto. La afirmacion de Juan Pablo es correcta, pero falta reconocer que 3/24 simplificado es 1/8. -->
 - [ ] B) No, porque cada persona debe recibir 8/24 <!-- feedback: Incorrecto. Confundir el numero de partes totales con lo que recibe cada uno. Cada persona recibe 24/8 = 3 porciones, no 8. -->
 - [ ] C) No, porque 3/24 es menos de lo que le corresponde a cada uno <!-- feedback: Incorrecto. 3/24 simplificado es 1/8, que es exactamente lo que le corresponde a cada uno. Error comun: pensar que 3/24 es menor sin simplificar. -->
-- [x] D) Si, cada persona recibe 3/24 y al simplificar es 1/8 de la torta <!-- feedback: Correcto. 24 ˜ 8 = 3 porciones por persona = 3/24. Simplificando: 3/24 ˜ 3/3 = 1/8. -->
+- [x] D) Si, cada persona recibe 3/24 y al simplificar es 1/8 de la torta <!-- feedback: Correcto. 24 ÔøΩ 8 = 3 porciones por persona = 3/24. Simplificando: 3/24 ÔøΩ 3/3 = 1/8. -->
 
 ### Explicacion Pedagogica
 Si hay 24 porciones para 8 personas: 24 √∑ 8 = 3 porciones por persona. Cada persona recibe 3/24. Simplificando: 3/24 √∑ 3/3 = 1/8 de la torta. Juan Pablo tiene razon: 3/24 = 1/8.
