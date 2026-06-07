@@ -98,7 +98,7 @@ Según la Ley 48 de 1993, el servicio militar obligatorio aplica a todos los var
 ¿Qué es la objeción de conciencia en relación con el servicio militar?
 
 ### Options
-- [ ] A) Es el derecho de un ciudadano a negarse a prestar servicio militar por razones de conciencia, creencias religiosas o convicciones éticas profundas <!-- feedback: Correcto. La objeción de conciencia exime del servicio armado. -->
+- [x] A) Es el derecho de un ciudadano a negarse a prestar servicio militar por razones de conciencia, creencias religiosas o convicciones éticas profundas <!-- feedback: Correcto. La objeción de conciencia exime del servicio armado. -->
 - [ ] B) Es la excusa médica para no prestar servicio militar <!-- feedback: Incorrecto. Eso es una inhabilidad física, no objeción de conciencia. -->
 - [ ] C) Es el derecho a pagar una suma de dinero para no prestar servicio <!-- feedback: Incorrecto. La objeción de conciencia no es una transacción económica. -->
 - [ ] D) Es la posibilidad de escoger en qué unidad militar prestar servicio <!-- feedback: Incorrecto. Eso no es objeción de conciencia. -->
