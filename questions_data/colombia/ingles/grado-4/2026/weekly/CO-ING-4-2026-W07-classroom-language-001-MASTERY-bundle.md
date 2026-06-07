@@ -1,414 +1,252 @@
 ---
-id: CO-ING-4-2026-W07-classroom-language-001-MASTERY-bundle
-title: Classroom Language - Lenguaje en el aula
-subject: ingles
-grade: 4
-year: 2026
-week: 07
-topic: classroom-language
-type: MASTERY
-generated: 2026-06-06
-version: 5.2
-protocol_version: 5.2
-schema_version: bundle-v5.2
-cefr: A1
-exam_type: ICFES Saber
-region: Colombia
-target: Grado 4
-total_items: 10
-bloom_levels:
-  - D1
-  - D2
-  - D3
-  - D4
-  - D5
-  - D6
-tags:
-  - ingles
-  - grado-4
-  - classroom
-  - language
-  - commands
-  - A1
-  - weekly
-  - MASTERY
-  - W07
-pedagogical_explanation:
-  Enfoque: Comandos e instrucciones básicas en el aula de clase.
-  Vocabulario: Sit down, stand up, open your book, close your door, listen, repeat, read, write, raise your hand, be quiet.
-  Estructura: Imperativos afirmativos y negativos (Don't run, Don't shout, Don't eat in class).
-  Contexto: Escenarios cotidianos del salón de clase en escuelas colombianas.
-learning_objectives:
-  - Comprender comandos básicos del docente en inglés.
-  - Seguir instrucciones simples en el salón de clase.
-  - Producir comandos y solicitudes básicas en inglés.
-  - Identificar lenguaje de cortesía en el aula.
-curriculum_reference:
-  document: EBC - Estándares Básicos de Competencias en Lenguas Extranjeras - Inglés
-  grade: 4
-  level: A1
-  standards:
-    - Sigo instrucciones relacionadas con actividades del aula.
-    - Comprendo preguntas sencillas sobre mí y mi entorno cotidiano.
-    - Respondo a comandos e instrucciones verbales básicas.
-  dba:
-    - DBA 3: Intercambia ideas sobre temas cotidianos y del entorno escolar.
-    - DBA 5: Comprende y sigue instrucciones básicas en contextos familiares.
-assessment_criteria:
-  - Identifica comandos básicos del aula correctamente al escucharlos o leerlos.
-  - Relaciona imágenes con instrucciones verbales de forma precisa.
-  - Produce respuestas adecuadas a comandos e instrucciones.
-  - Reconoce lenguaje de cortesía en interacciones del aula.
-bundle_metadata:
-  total_questions: 10
-  recommended_time_minutes: 20
-  difficulty: Fácil
-  prerequisites:
-    - Greetings and introductions
-    - Numbers 1-100
-    - Colors and adjectives
+id: "CO-ING-4-2026-W07-classroom-language-001-MASTERY"
+country: "colombia"
+grado: 4
+asignatura: "ingles"
+tema: "classroom-language"
+periodo: "weekly"
+protocol_version: "5.2"
+bundle_index: 1
+bundle_size: 10
+alignment: "MEN"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+cefr_level: "A1"
+calibration:
+  expected_success_rate: 0.75
+  discrimination_index_target: ">= 0.25"
+  simulated_responses: 100
+rubric_baseline: "Language and Communication — Classroom commands, instructions, polite expressions, and basic interaction language."
 ---
-# Classroom Language - Lenguaje en el aula
 
-## Grado 4 - Inglés - Semana 07
+# Weekly Pack W07: Classroom Language (CEFR A1)
 
-**Tema:** Comandos, instrucciones y lenguaje básico del salón de clase.
-**Nivel CEFR:** A1
-**Total preguntas:** 10
-**Tiempo sugerido:** 20 minutos
+Este bundle evalúa el lenguaje de aula en inglés: comandos básicos del profesor, instrucciones, expresiones de cortesía y frases para la interacción diaria en clase. Nivel A1. Contexto colombiano.
 
 ---
 
-### Pregunta 1
+## Question 1 [D1]
 
-**Bloom Level:** D1 - Recordar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v1`
+**Bloom:** [Remember]
+**ICFES:** [Comunicación y representación]
+**Context:** Following teacher instructions.
 
-**Enunciado:**
-Lee el siguiente comando y selecciona su significado en español:
+### Enunciado
+The teacher says: "Stand up."
 
-_"Open your book, please."_
+What should you do?
 
-**Opciones:**
+### Options
+- [x] A) Get up from your chair <!-- feedback: Correct. "Stand up" means levántate / ponte de pie. -->
+- [ ] B) Sit down on your chair <!-- feedback: Incorrect. "Sit down" means siéntate. "Stand up" is the opposite. -->
+- [ ] C) Open your book <!-- feedback: Incorrect. "Open your book" means abre tu libro. -->
+- [ ] D) Close the door <!-- feedback: Incorrect. "Close the door" means cierra la puerta. -->
 
-A) Cierra tu libro, por favor.
-B) Abre tu libro, por favor.
-C) Lee tu libro, por favor.
-D) Toma tu libro, por favor.
-
-**Respuesta correcta:** B
-
-**Feedback correcto:** ✅ ¡Excelente! "Open your book, please" significa "Abre tu libro, por favor". Es una de las instrucciones más comunes que la profesora usa al inicio de la clase en un salón colombiano.
-
-**Feedback incorrecto:**
-- A ❌ "Close your book" sería "Cierra tu libro". Recuerda que "open" es abrir, no cerrar.
-- C ❌ "Read your book" sería "Lee tu libro". La palabra "read" no aparece en la instrucción.
-- D ❌ "Take your book" sería "Toma tu libro". La palabra "take" no está en la oración.
-
-**Explicación pedagógica:**
-Esta pregunta evalúa la comprensión literal de un comando básico del aula. Los estudiantes deben reconocer el verbo "open" (abrir) y el sustantivo "book" (libro) dentro de una estructura imperativa. Es fundamental para seguir instrucciones en clase de inglés.
-
-**ICFES category:** Lingüística - Comprensión léxica
+### Explicación Pedagógica
+This question tests basic classroom commands. "Stand up" (ponte de pie / levántate) is one of the first commands students learn. Teachers in Colombian bilingual programs use this daily. Common errors occur when students confuse "stand up" with "sit down."
 
 ---
 
-### Pregunta 2
+## Question 2 [D1]
 
-**Bloom Level:** D1 - Recordar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v2`
+**Bloom:** [Remember]
+**ICFES:** [Comunicación y representación]
+**Context:** Asking for permission.
 
-**Enunciado:**
-La profesora dice: _"Sit down, please."_
+### Enunciado
+You need to go to the bathroom. What do you say to the teacher?
 
-¿Qué deben hacer los estudiantes?
+### Options
+- [ ] A) I want bathroom <!-- feedback: Incorrect. This is grammatically incorrect and too direct. -->
+- [ ] B) Where is bathroom <!-- feedback: Incorrect. You know where it is; you're asking for permission to go. -->
+- [x] C) May I go to the bathroom? <!-- feedback: Correct. "May I" is the polite way to ask for permission. -->
+- [ ] D) Go to bathroom now <!-- feedback: Incorrect. This is a command, not a polite request. -->
 
-**Opciones:**
-
-A) Pararse frente al tablero.
-B) Sentarse en sus puestos.
-C) Salir del salón en silencio.
-D) Levantar la mano para hablar.
-
-**Respuesta correcta:** B
-
-**Feedback correcto:** ✅ ¡Muy bien! "Sit down" significa "Siéntense". Es una instrucción que la profesora da al comenzar la clase o después de una actividad en el Colegio San José de Bogotá.
-
-**Feedback incorrecto:**
-- A ❌ "Stand up" sería "Párense". "Sit down" es lo opuesto.
-- C ❌ "Leave the classroom quietly" sería una instrucción diferente. "Sit down" no indica salir.
-- D ❌ "Raise your hand" sería otra instrucción. "Sit down" no tiene relación con levantar la mano.
-
-**Explicación pedagógica:**
-Evalúa la asociación directa entre el comando "sit down" y la acción correspondiente. Es uno de los primeros comandos que los estudiantes aprenden en primaria y aparece en los EBC para nivel A1.
-
-**ICFES category:** Lingüística - Comprensión léxica
+### Explicación Pedagógica
+This question tests polite requests in the classroom. "May I go to the bathroom?" (¿Puedo ir al baño?) is the standard polite expression. "May I" is more formal and polite than "Can I", though both are used. Errors include using impolite commands or incomplete phrases.
 
 ---
 
-### Pregunta 3
+## Question 3 [D2]
 
-**Bloom Level:** D2 - Comprender
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v3`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación y representación]
+**Context:** Understanding a classroom instruction.
 
-**Enunciado:**
-Observa la siguiente situación: Estás en clase de inglés en el Colegio La Salle de Medellín. La profesora entra al salón y dice: _"Good morning, class. Please, sit down and open your notebooks."_
+### Enunciado
+The teacher says: "Please be quiet."
 
-¿Cuáles son las dos acciones que debes realizar?
+What does the teacher want?
 
-**Opciones:**
+### Options
+- [ ] A) The students to talk loudly <!-- feedback: Incorrect. "Be quiet" means stop talking, not talk loudly. -->
+- [x] B) The students to stop talking <!-- feedback: Correct. "Be quiet" (silencio / callados) means stop making noise. -->
+- [ ] C) The students to stand up <!-- feedback: Incorrect. "Stand up" means levántense, not be quiet. -->
+- [ ] D) The students to sit down <!-- feedback: Incorrect. "Sit down" means siéntense, not be quiet. -->
 
-A) Cerrar la puerta y sentarte.
-B) Pararte y saludar a la profesora.
-C) Sentarte y abrir tu cuaderno.
-D) Abrir tu libro y leer en silencio.
-
-**Respuesta correcta:** C
-
-**Feedback correcto:** ✅ ¡Perfecto! La profesora te pide dos cosas: "sit down" (sentarte) y "open your notebooks" (abrir tus cuadernos). Es una rutina muy común en los colegios de Colombia.
-
-**Feedback incorrecto:**
-- A ❌ Ella no menciona "close the door" (cerrar la puerta). Solo menciona "sit down" y "open your notebooks".
-- B ❌ No te pide "stand up" (pararte). Las instrucciones son sentarte y abrir tu cuaderno.
-- D ❌ Te pide abrir tu "notebook" (cuaderno), no tu "book" (libro). Además, no menciona "read" (leer).
-
-**Explicación pedagógica:**
-Requiere que el estudiante procese una secuencia de dos instrucciones y las ejecute mentalmente. Esto desarrolla la comprensión auditiva y la capacidad de seguir múltiples comandos, habilidad clave en los DBA de inglés para grado 4.
-
-**ICFES category:** Pragmática - Comprensión de instrucciones secuenciales
+### Explicación Pedagógica
+This question tests understanding of the common classroom command "Be quiet" (silencio / guarden silencio). Teachers use this when the class is too noisy. The word "please" makes it a polite request.
 
 ---
 
-### Pregunta 4
+## Question 4 [D2]
 
-**Bloom Level:** D2 - Comprender
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v4`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación y representación]
+**Context:** Responding to a roll call.
 
-**Enunciado:**
-Lee el diálogo:
+### Enunciado
+The teacher calls your name: "Valentina Pérez?"
 
-Teacher: _"Listen to the audio, then repeat the words."_
-Student: _"Yes, teacher."_
+What do you say?
 
-¿Qué deben hacer los estudiantes primero?
+### Options
+- [ ] A) Good morning <!-- feedback: Incorrect. "Good morning" is a greeting for the beginning of class, not a response to roll call. -->
+- [ ] B) I don't know <!-- feedback: Incorrect. You are answering roll call, not answering a question. -->
+- [x] C) Present <!-- feedback: Correct. "Present" (presente) is the standard response when the teacher calls your name. -->
+- [ ] D) Thank you <!-- feedback: Incorrect. "Thank you" expresses gratitude, not attendance. -->
 
-**Opciones:**
-
-A) Repetir las palabras en voz alta.
-B) Escribir las palabras en el cuaderno.
-C) Escuchar el audio.
-D) Leer las palabras del tablero.
-
-**Respuesta correcta:** C
-
-**Feedback correcto:** ✅ ¡Correcto! "Listen" significa "escuchar". La instrucción dice que primero escuchen el audio y después repitan. Es importante seguir el orden de las instrucciones en clase.
-
-**Feedback incorrecto:**
-- A ❌ "Repeat" (repetir) es el segundo paso, no el primero. La palabra "then" (después) indica que escuchar va primero.
-- B ❌ En ninguna parte la profesora pide escribir. La instrucción solo menciona "listen" y "repeat".
-- D ❌ La instrucción no menciona "board" (tablero) ni "read" (leer). Habla de escuchar un audio.
-
-**Explicación pedagógica:**
-Evalúa la comprensión de secuencias temporales usando el conector "then" (después). Los estudiantes deben entender que las instrucciones tienen un orden y seguirlo correctamente, habilidad transversal para todas las áreas.
-
-**ICFES category:** Pragmática - Secuenciación de instrucciones
+### Explicación Pedagógica
+This question tests classroom procedure vocabulary. When the teacher takes attendance (pasa lista), students respond "Present" (presente) to indicate they are in class. Some teachers also accept "Here" or "Yes."
 
 ---
 
-### Pregunta 5
+## Question 5 [D3]
 
-**Bloom Level:** D3 - Aplicar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v5`
+**Bloom:** [Apply]
+**ICFES:** [Comunicación y representación]
+**Context:** Asking for help.
 
-**Enunciado:**
-Estás en clase de inglés en el Instituto Técnico de Bucaramanga. Tu compañero de al lado no deja de hablar mientras la profesora explica. Ella mira hacia tu lado y dice: _"Don't talk, please. Be quiet."_
+### Enunciado
+You don't understand the homework. What do you say?
 
-¿Qué debes hacer?
+### Options
+- [ ] A) This is boring <!-- feedback: Incorrect. This expresses an opinion, not a request for help. -->
+- [ ] B) Homework no understand <!-- feedback: Incorrect. This is grammatically incorrect. -->
+- [x] C) I don't understand. Can you help me, please? <!-- feedback: Correct. This is a polite and complete request for help. -->
+- [ ] D) Give me the answers <!-- feedback: Incorrect. This demands answers instead of asking for help to understand. -->
 
-**Opciones:**
-
-A) Decirle a tu compañero que hable más duro.
-B) Permanecer en silencio y pedirle a tu compañero que también guarde silencio.
-C) Levantar la mano y contarle a la profesora lo que pasa.
-D) Seguir hablando porque la profesora no te señaló directamente.
-
-**Respuesta correcta:** B
-
-**Feedback correcto:** ✅ ¡Excelente! "Don't talk" significa "No hablen" y "Be quiet" es "Guarden silencio". La instrucción es para todo el grupo. Debes dejar de hablar y pedirle a tu compañero que también lo haga.
-
-**Feedback incorrecto:**
-- A ❌ Decirle que hable más duro va en dirección opuesta a la instrucción. La profesora pidió silencio.
-- C ❌ Aunque levantar la mano es buena práctica, la instrucción directa es guardar silencio. Primero obedece la instrucción.
-- D ❌ "Don't talk" es un imperativo dirigido a toda la clase (plural en español). Todos deben dejar de hablar.
-
-**Explicación pedagógica:**
-Evalúa la capacidad de aplicar un comando negativo (Don't + verbo) en un contexto social real. Los estudiantes deben entender que "Be quiet" (guardar silencio) aplica a todos y tomar acción apropiada en el entorno escolar.
-
-**ICFES category:** Pragmática - Aplicación de normas y comandos en contexto
+### Explicación Pedagógica
+This question tests how to ask for help in English. "I don't understand" (no entiendo) + "Can you help me, please?" (¿puedes ayudarme, por favor?) is the appropriate classroom expression. Errors include being impolite or using incorrect grammar.
 
 ---
 
-### Pregunta 6
+## Question 6 [D3]
 
-**Bloom Level:** D3 - Aplicar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v6`
+**Bloom:** [Apply]
+**ICFES:** [Comunicación y representación]
+**Context:** Following a multi-step instruction.
 
-**Enunciado:**
-La profesora dice: _"Raise your hand if you know the answer."_
+### Enunciado
+The teacher says: "Take out your notebook and write the date."
 
-¿Qué acción es correcta?
+What do you do FIRST?
 
-**Opciones:**
+### Options
+- [ ] A) Write the date <!-- feedback: Incorrect. You first need to take out your notebook before writing. -->
+- [x] B) Take out your notebook <!-- feedback: Correct. "Take out" (saca) is the first action; "write" (escribe) is the second action. -->
+- [ ] C) Open the door <!-- feedback: Incorrect. The teacher didn't say anything about the door. -->
+- [ ] D) Close your book <!-- feedback: Incorrect. This is the opposite of what was asked. -->
 
-A) Gritar la respuesta desde el puesto.
-B) Pararte y caminar hacia el tablero.
-C) Levantar la mano para pedir la palabra.
-D) Escribir la respuesta en una hoja y pasarla al frente.
-
-**Respuesta correcta:** C
-
-**Feedback correcto:** ✅ ¡Muy bien! "Raise your hand" significa "Levanta la mano". En los colegios colombianos, esta es la forma correcta de pedir la palabra en clase, tanto en inglés como en español.
-
-**Feedback incorrecto:**
-- A ❌ Gritar la respuesta no sigue la instrucción. La profesora pide específicamente levantar la mano.
-- B ❌ Pararse y caminar al tablero no es lo que pide la instrucción. "Raise your hand" solo implica levantar la mano.
-- D ❌ Escribir la respuesta no es lo solicitado. La instrucción clara es "raise your hand" (levantar la mano).
-
-**Explicación pedagógica:**
-Aplica el comando "raise your hand" en un contexto real de clase. Evalúa si el estudiante comprende que este gesto es parte de las normas de participación en el aula y no solo una frase para memorizar.
-
-**ICFES category:** Pragmática - Aplicación de rutinas del aula
+### Explicación Pedagógica
+This question tests the ability to understand sequence in classroom instructions. "Take out your notebook" is the first command, then "write the date" is the second. Students must understand the order implied by the sentence structure.
 
 ---
 
-### Pregunta 7
+## Question 7 [D4]
 
-**Bloom Level:** D4 - Analizar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v7`
+**Bloom:** [Apply]
+**ICFES:** [Comunicación y representación]
+**Context:** Polite expressions.
 
-**Enunciado:**
-Lee la siguiente situación:
+### Enunciado
+Your classmate lends you an eraser. What do you say?
 
-La profesora ha dado tres instrucciones:
-1. _"Take out your pencil."_
-2. _"Don't use markers."_
-3. _"Write your name on the paper."_
+### Options
+- [ ] A) Sorry <!-- feedback: Incorrect. "Sorry" (lo siento) is for apologizing, not thanking. -->
+- [x] B) Thank you <!-- feedback: Correct. "Thank you" (gracias) is used to express gratitude when someone helps you. -->
+- [ ] C) Excuse me <!-- feedback: Incorrect. "Excuse me" (disculpa) is used to get someone's attention or apologize briefly. -->
+- [ ] D) Please <!-- feedback: Incorrect. "Please" (por favor) is used when making a request, not after receiving something. -->
 
-Un estudiante sacó un marcador azul y empezó a escribir su nombre. ¿Cuál de las instrucciones NO siguió correctamente?
-
-**Opciones:**
-
-A) La instrucción 1, porque no sacó el lápiz.
-B) La instrucción 2, porque usó marcador en lugar de lápiz.
-C) La instrucción 3, porque no escribió su nombre correctamente.
-D) La instrucción 1 y 3, porque no siguió el orden.
-
-**Respuesta correcta:** B
-
-**Feedback correcto:** ✅ ¡Correcto! La instrucción 2 dice "Don't use markers" (No uses marcadores). El estudiante usó un marcador, por lo que no siguió esa instrucción. Sacar su nombre no es el problema, sino el material que usó.
-
-**Feedback incorrecto:**
-- A ❌ La instrucción 1 pide sacar el lápiz. El estudiante sacó algo para escribir (el marcador), pero no era lo correcto. El problema principal es la instrucción 2.
-- C ❌ La instrucción 3 pide escribir su nombre. El estudiante sí empezó a escribirlo. Cumplió esa instrucción.
-- D ❌ El estudiante sí empezó a escribir su nombre (instrucción 3). El error es específicamente el marcador (instrucción 2).
-
-**Explicación pedagógica:**
-Requiere que el estudiante analice múltiples instrucciones simultáneamente, identifique cuáles se cumplieron y cuáles no, y determine la causa del incumplimiento. Desarrolla pensamiento crítico sobre la ejecución de comandos en el aula.
-
-**ICFES category:** Pragmática - Análisis de cumplimiento de instrucciones
+### Explicación Pedagógica
+This question tests polite social expressions in the classroom. After receiving help (being lent an eraser), the correct response is "Thank you" (gracias). Errors occur when students confuse "thank you" with other polite expressions like "sorry" or "please."
 
 ---
 
-### Pregunta 8
+## Question 8 [D4]
 
-**Bloom Level:** D4 - Analizar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v8`
+**Bloom:** [Understand]
+**ICFES:** [Comunicación y representación]
+**Context:** Understanding when class ends.
 
-**Enunciado:**
-Observa las siguientes expresiones:
+### Enunciado
+The teacher says: "That's all for today. You can go to recess."
 
-1. _"Can I go to the bathroom, please?"_
-2. _"I need a pencil, teacher."_
-3. _"Don't run in the hallway."_
+What does this mean?
 
-¿Cuál de las siguientes afirmaciones es correcta?
+### Options
+- [x] A) Class is finished and you can go play <!-- feedback: Correct. "That's all for today" means class is over. "Go to recess" means go play. -->
+- [ ] B) Class is starting <!-- feedback: Incorrect. "That's all" means it's over, not starting. -->
+- [ ] C) You must write more <!-- feedback: Incorrect. "That's all" means no more work today. -->
+- [ ] D) The teacher is angry <!-- feedback: Incorrect. The teacher says "you can go to recess" which is positive, not angry. -->
 
-**Opciones:**
-
-A) Las tres expresiones son solicitudes de los estudiantes al profesor.
-B) Las expresiones 1 y 2 son solicitudes; la 3 es una instrucción o norma.
-C) Las tres expresiones son instrucciones del profesor a los estudiantes.
-D) Las expresiones 1 y 3 son preguntas; la 2 es una instrucción.
-
-**Respuesta correcta:** B
-
-**Feedback correcto:** ✅ ¡Excelente análisis! La expresión 1 ("Can I go to the bathroom?") y la 2 ("I need a pencil") son solicitudes de los estudiantes. La 3 ("Don't run in the hallway") es una instrucción o norma escolar.
-
-**Feedback incorrecto:**
-- A ❌ La expresión 3 es una instrucción (imperativo negativo), no una solicitud. Es el profesor o un cartel dando una norma.
-- C ❌ Las expresiones 1 y 2 no son instrucciones del profesor. Son frases que un estudiante diría al profesor para pedir algo.
-- D ❌ La expresión 3 no es una pregunta, es un imperativo. Además, la expresión 2 no es una instrucción, es una necesidad expresada por un estudiante.
-
-**Explicación pedagógica:**
-Los estudiantes deben clasificar expresiones según su función comunicativa (solicitud vs. instrucción) y analizar quién es el emisor (estudiante o profesor). Esto desarrolla conciencia pragmática sobre los roles en la comunicación del aula.
-
-**ICFES category:** Pragmática - Análisis de funciones comunicativas
+### Explicación Pedagógica
+This question tests understanding of phrases that signal the end of an activity. "That's all for today" (eso es todo por hoy) and "you can go to recess" (pueden ir a recreo) indicate class is over. Students should recognize these as positive signals.
 
 ---
 
-### Pregunta 9
+## Question 9 [D5]
 
-**Bloom Level:** D5 - Evaluar
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v9`
+**Bloom:** [Analyze]
+**ICFES:** [Comunicación y representación]
+**Context:** Matching instructions to actions.
 
-**Enunciado:**
-Evalúa la siguiente situación:
+### Enunciado
+Match each instruction with the correct action:
 
-En clase de inglés del Colegio Gabriel García Márquez en Cali, un estudiante nuevo no entiende las instrucciones. La profesora dice: _"Please, don't talk. Listen to me. Repeat after me."_
+1. "Listen to the audio" → ________
+2. "Repeat after me" → ________
+3. "Work in pairs" → ________
 
-El estudiante se queda en silencio pero no repite nada. Según la evaluación formativa, ¿cuál es la razón MÁS probable de su comportamiento?
+### Options
+- [ ] A) Read a book / Write an essay / Raise your hand <!-- feedback: Incorrect. None of these match the instructions given. -->
+- [x] B) Pay attention to the speaker / Say the words again / Work with a classmate <!-- feedback: Correct. "Listen" = pay attention, "Repeat" = say again, "Work in pairs" = with a classmate. -->
+- [ ] C) Close your eyes / Stand up / Leave the room <!-- feedback: Incorrect. These actions don't match the instructions. -->
+- [ ] D) Draw a picture / Sing a song / Clean the board <!-- feedback: Incorrect. These don't correspond to "listen", "repeat", or "work in pairs". -->
 
-**Opciones:**
-
-A) El estudiante está siendo desobediente y no quiere participar.
-B) El estudiante no entendió la palabra "repeat" y por eso no sabe qué hacer.
-C) El estudiante escuchó "don't talk" y cree que debe permanecer en completo silencio.
-D) El estudiante está aburrido y prefiere no repetir las palabras.
-
-**Respuesta correcta:** C
-
-**Feedback correcto:** ✅ ¡Muy buen análisis! El estudiante probablemente escuchó "Don't talk" y aplicó esa regla de forma absoluta, sin entender que "Repeat after me" es una instrucción diferente. Esto pasa frecuentemente con estudiantes que están empezando a aprender inglés.
-
-**Feedback incorrecto:**
-- A ❌ Es muy probable que no sea desobediencia, sino confusión. Los estudiantes nuevos a menudo se bloquean cuando reciben instrucciones en un idioma que están aprendiendo.
-- B ❌ Aunque es posible que no conozca "repeat", la instrucción "don't talk" es más clara para él. Es más probable que haya priorizado esa instrucción.
-- D ❌ No hay evidencia de aburrimiento. La situación describe a un estudiante nuevo que probablemente está ansioso, no aburrido.
-
-**Explicación pedagógica:**
-Evalúa la capacidad del estudiante para analizar una situación comunicativa real, considerar el nivel de competencia del hablante (A1) y diagnosticar la causa del malentendido. Esto desarrolla empatía y comprensión de los desafíos del aprendizaje de una segunda lengua.
-
-**ICFES category:** Pragmática - Evaluación de situaciones comunicativas
+### Explicación Pedagógica
+This question tests the ability to match classroom instructions with their meanings. "Listen" = prestar atención al audio, "Repeat after me" = repetir las palabras, "Work in pairs" = trabajar con un compañero. This is an important skill for following daily classroom routines.
 
 ---
 
-### Pregunta 10
+## Question 10 [D5]
 
-**Bloom Level:** D6 - Crear
+**ID:** `CO-ING-4-2026-W07-classroom-language-001-MASTERY-v10`
+**Bloom:** [Analyze]
+**ICFES:** [Comunicación y representación]
+**Context:** Complete the classroom dialogue.
 
-**Enunciado:**
-Tu profesor de inglés te pide que escribas TRES comandos o instrucciones para el "Classroom Rules Poster" (cartelera de reglas del salón) que van a poner en el salón de clase del Colegio Simón Bolívar de Barranquilla.
+### Enunciado
+Read the classroom conversation:
 
-Selecciona la opción que contiene TRES comandos correctos en inglés para una cartelera de reglas del aula:
+**Student A:** "I'm sorry I'm late. ________ I come in?"
+**Teacher:** "Yes, you may. But please ________ next time."
 
-**Opciones:**
+### Options
+- [ ] A) Can / be late <!-- feedback: Incorrect. The teacher says "next time", meaning she wants the student to be on time, not late again. -->
+- [x] B) May / be on time <!-- feedback: Correct. "May I come in?" is the polite request, and "be on time" (llega a tiempo) is what the teacher expects next time. -->
+- [ ] C) Will / go away <!-- feedback: Incorrect. "Go away" is impolite and doesn't fit the context. -->
+- [ ] D) Do / be quiet <!-- feedback: Incorrect. "Be quiet" doesn't relate to being late. -->
 
-A) "Raise your hand" / "Be respectful" / "Don't eat in class"
-B) "The book is blue" / "I am a student" / "She is my friend"
-C) "Breakfast is important" / "Don't run" / "Mathematics is fun"
-D) "Colombia is beautiful" / "Raise your hand" / "Listen to the teacher"
-
-**Respuesta correcta:** A
-
-**Feedback correcto:** ✅ ¡Excelente creación! Las tres opciones ("Raise your hand" - Levanta la mano, "Be respectful" - Sé respetuoso, "Don't eat in class" - No comas en clase) son comandos apropiados para una cartelera de reglas del salón en un colegio colombiano.
-
-**Feedback incorrecto:**
-- B ❌ Estas son oraciones declarativas ("El libro es azul", "Soy un estudiante"), no comandos ni reglas para un salón de clase.
-- C ❌ "Breakfast is important" no es un comando, es una afirmación. No funciona como regla de clase.
-- D ❌ "Colombia is beautiful" es una afirmación, no un comando. Aunque "Raise your hand" y "Listen to the teacher" sí son comandos válidos, la opción incluye una frase irrelevante.
-
-**Explicación pedagógica:**
-Requiere que el estudiante demuestre su comprensión del lenguaje imperativo (comandos) aplicándolo creativamente a una situación real: crear reglas para el salón de clase. Debe discriminar entre oraciones declarativas y comandos, y evaluar la pertinencia de cada expresión para el contexto específico.
-
-**ICFES category:** Pragmática - Producción creativa de comandos en contexto
-
+### Explicación Pedagógica
+This question tests understanding of a common classroom scenario (arriving late) and the appropriate expressions. "May I come in?" (¿puedo entrar?) is the polite request. "Be on time" (llegar a tiempo / ser puntual) is the expected expression for the teacher's reminder. This combines classroom language with real-life classroom etiquette.
 ---
