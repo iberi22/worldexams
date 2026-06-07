@@ -71,10 +71,10 @@ En un bus de Transmilenio con capacidad para 40 pasajeros, viajan 30 personas se
 La receta de arroz con leche de la abuela de Sofia pide 2/3 de taza de leche condensada. Sofia solo tiene una taza medidora marcada en sextos (1/6, 2/6, 3/6, 4/6, 5/6, 6/6). ¿Cuantos sextos debe medir para obtener la misma cantidad que 2/3 de taza?
 
 ### Options
-- [ ] A) 2/6 (Error: cambiar solo el denominador sin multiplicar el numerador)
-- [ ] B) 3/6 (Error: 3/6 = 1/2, que es menos que 2/3)
-- [x] C) 4/6 (Correcto: 2/3 = (2×2)/(3×2) = 4/6)
-- [ ] D) 6/6 (Error: 6/6 = 1 taza completa, mucho mas que 2/3)
+- [ ] A) 2/6 <!-- feedback: Incorrecto. Cambiar solo el denominador (3 a 6) sin multiplicar el numerador (2 se queda en 2). Para fracciones equivalentes se multiplica numerador Y denominador por el mismo numero. -->
+- [ ] B) 3/6 <!-- feedback: Incorrecto. 3/6 = 1/2, que es menos que 2/3. Para verificar: 1/2 = 0.5 mientras 2/3 ~ 0.667. -->
+- [x] C) 4/6 <!-- feedback: Correcto. 2/3 = (2*2)/(3*2) = 4/6. Multiplicamos numerador y denominador por 2 para convertir a sextos. -->
+- [ ] D) 6/6 <!-- feedback: Incorrecto. 6/6 = 1 taza completa, mucho mas que 2/3. Recordar que 2/3 es menos que un entero. -->
 
 ### Explicacion Pedagogica
 Para encontrar la fraccion equivalente, multiplicamos numerador y denominador por el mismo numero. Queremos convertir 2/3 a sextos: ¿por cuanto multiplicamos 3 para obtener 6? Por 2. Entonces multiplicamos el numerador tambien: 2×2=4. 2/3 = 4/6.
