@@ -243,7 +243,10 @@ Imagina que tu profesor de español te pide que escribas un párrafo sobre "la i
 
 ### Options
 - [ ] A) Mi colegio queda en la calle 10. <!-- feedback: Incorrecto. Es información irrelevante para el tema del reciclaje. -->
+<<<<<<< HEAD
 - [x] B) El reciclaje ayuda a cuidar el medio ambiente y mantener limpio nuestro colegio. <!-- feedback: Correcto. Esa oración expresa la idea central sobre la importancia del reciclaje. -->
+=======
+- [ ] B) El reciclaje ayuda a cuidar el medio ambiente y mantener limpio nuestro colegio. <!-- feedback: Correcto. Esa oración expresa la idea central sobre la importancia del reciclaje. -->
 - [ ] C) Ayer vi una botella en el piso. <!-- feedback: Incorrecto. Es un ejemplo anecdótico, no una idea principal. -->
 - [ ] D) No me gusta reciclar porque es difícil. <!-- feedback: Incorrecto. Es una opinión personal, no una idea principal para un texto informativo. -->
 
@@ -254,3 +257,4 @@ Se evalúa la capacidad de aplicar el concepto de idea principal en la producci�
 
 ### Explicación Pedagógica Final
 Este bundle desarrolla la habilidad de identificar la idea principal en textos cortos, una competencia esencial en la comprensión lectora. Las preguntas progresan desde la identificación literal (Bloom D2) hasta el análisis y la aplicación (Bloom D4-D5). Se utilizaron contextos culturales colombianos (Quibdó, Chocó, café, artesanías, Sierra Nevada, Nariño, Bahía Solano) para conectar con el entorno del estudiante. La capacidad de distinguir lo esencial de lo secundario es fundamental para el éxito académico.
+
