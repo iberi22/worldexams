@@ -58,7 +58,7 @@ Las preguntas básicas que toda noticia debe responder son conocidas como las "5
 
 ### Options
 - [ ] A) Quién, qué, cómo, por qué, para qué <!-- feedback: Incorrecto. "Para qué" no es una de las 5W tradicionales. La lista correcta incluye "dónde" y "cuándo". -->
-- [ ] B) Quién, qué, cuándo, dónde, por qué <!-- feedback: ¡Correcto! Las 5W son: Who (quién), What (qué), When (cuándo), Where (dónde) y Why (por qué). Estas preguntas garantizan que la noticia tenga la información esencial. -->
+-   B) Quién, qué, cuándo, dónde, por qué <!-- feedback: ¡Correcto! Las 5W son: Who (quién), What (qué), When (cuándo), Where (dónde) y Why (por qué). Estas preguntas garantizan que la noticia tenga la información esencial. -->
 - [ ] C) Quién, qué, cuánto, cómo, dónde <!-- feedback: Incorrecto. "Cuánto" no es una de las 5W básicas, aunque puede ser un dato adicional relevante. Faltan "cuándo" y "por qué". -->
 - [ ] D) Cómo, cuándo, dónde, por qué, para quién <!-- feedback: Incorrecto. "Para quién" no es una W. La tradición periodística usa las 5W mencionadas en la opción B. -->
 

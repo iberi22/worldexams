@@ -93,7 +93,7 @@ Piensa en los actos como los capítulos de un libro: dividen la historia en part
 
 ### Options
 - [ ] A) Ya sabemos cómo termina la obra <!-- feedback: Incorrecto. El planteamiento presenta la situación inicial, no el final. -->
-- [ ] B) Sabemos quiénes son los personajes principales (Sofía y Camilo) y la situación (llega una estudiante nueva de quien no saben mucho) <!-- feedback: ¡Correcto! En el planteamiento conocemos el lugar (colegio de Medellín), los personajes (Sofía, Camilo) y la situación que generará el conflicto (la llegada de una nueva estudiante). -->
+- [x] B) Sabemos quiénes son los personajes principales (Sofía y Camilo) y la situación (llega una estudiante nueva de quien no saben mucho) <!-- feedback: ¡Correcto! En el planteamiento conocemos el lugar (colegio de Medellín), los personajes (Sofía, Camilo) y la situación que generará el conflicto (la llegada de una nueva estudiante). -->
 - [ ] C) El conflicto ya está resuelto <!-- feedback: Incorrecto. El conflicto apenas se está presentando: la llegada de la nueva estudiante. Falta todo el desarrollo. -->
 - [ ] D) Sabemos que Valeria será la antagonista <!-- feedback: Incorrecto. Aún no sabemos qué papel jugará Valeria. El planteamiento solo presenta la llegada, no su rol. -->
 
@@ -217,7 +217,7 @@ Un grupo de estudiantes planea escribir una obra sobre la protección de los hum
 
 ### Options
 - [ ] A) 1-2-3-4-5 <!-- feedback: Incorrecto. La presentación de personajes (4) debe ir al inicio, no al final. -->
-- [ ] B) 4-1-5-2-3 <!-- feedback: ¡Correcto! Planteamiento (4 y 1: conocemos personajes y surge el conflicto), Nudo (5 y 2: el conflicto se complica y los personajes reaccionan), Desenlace (3: se resuelve el conflicto). -->
+- [x] B) 4-1-5-2-3 <!-- feedback: ¡Correcto! Planteamiento (4 y 1: conocemos personajes y surge el conflicto), Nudo (5 y 2: el conflicto se complica y los personajes reaccionan), Desenlace (3: se resuelve el conflicto). -->
 - [ ] C) 3-2-1-5-4 <!-- feedback: Incorrecto. Este orden no sigue la progresión lógica: el desenlace (3) no puede ir al inicio de la obra. -->
 - [ ] D) 2-4-5-1-3 <!-- feedback: Incorrecto. La protesta (2) no tiene sentido antes de conocer a los personajes (4) ni antes de que el conflicto sea presentado (1). -->
 

@@ -104,7 +104,7 @@ Identificación de la ubicación geográfica del hábitat del oso de anteojos.
 
 ### Options
 - [ ] A) Que solo come frutas. <!-- feedback: Incorrecto. -->
-- [ ] B) Que come plantas y animales. <!-- feedback: Correcto. -->
+- [x] B) Que come plantas y animales. <!-- feedback: Correcto. -->
 - [ ] C) Que solo come carne. <!-- feedback: Incorrecto. -->
 - [ ] D) Que no come nada. <!-- feedback: Incorrecto. -->
 
