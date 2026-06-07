@@ -29,10 +29,10 @@ alignment: "DBA MEN + Estandares Basicos Ciclo 2"
 En la tienda de Don Carlos hay 12 empanadas en el mostrador. Maria Jose compra 5 empanadas para su familia. ¿Que fraccion del total de empanadas representa lo que compro Maria Jose?
 
 ### Options
-- [ ] A) 5/7 (Confundir las que quedan con el denominador: 12 - 5 = 7)
-- [ ] B) 12/5 (Invertir numerador y denominador)
-- [x] C) 5/12 (Correcto: 5 empanadas compradas de 12 totales)
-- [ ] D) 7/12 (Representar las que NO compro en vez de las que SI)
+- [ ] A) 5/7 <!-- feedback: Incorrecto. Confundir las que quedan con el denominador: 12 - 5 = 7. Las 5 empanadas compradas van en el numerador, no las que quedan. -->
+- [ ] B) 12/5 <!-- feedback: Incorrecto. Invertir numerador y denominador. El numerador debe ser la parte (5) y el denominador el total (12), no al reves. -->
+- [x] C) 5/12 <!-- feedback: Correcto. 5 empanadas compradas de 12 totales: numerador = parte comprada, denominador = total. -->
+- [ ] D) 7/12 <!-- feedback: Incorrecto. Representar las que NO compro (7) en vez de las que SI (5). La pregunta pide lo que compro Maria Jose. -->
 
 ### Explicacion Pedagogica
 Una fraccion representa la relacion entre una parte (numerador) y un todo (denominador). Aqui el todo son 12 empanadas y la parte son las 5 que compro Maria Jose. La fraccion es 5/12.
@@ -50,10 +50,10 @@ Una fraccion representa la relacion entre una parte (numerador) y un todo (denom
 En un bus de Transmilenio con capacidad para 40 pasajeros, viajan 30 personas sentadas y el resto de puestos estan vacios. ¿Que fraccion del total de puestos representa los puestos ocupados?
 
 ### Options
-- [ ] A) 3/4 (Error: confundir fraccion simplificada con la representacion directa; correcta pero se pide del total de 40)
-- [ ] B) 10/40 (Error: representar los puestos vacios en vez de los ocupados)
-- [x] C) 30/40 (Correcto: 30 puestos ocupados de 40 totales)
-- [ ] D) 40/30 (Error: invertir numerador y denominador)
+- [ ] A) 3/4 <!-- feedback: Incorrecto. Confundir fraccion simplificada con la representacion directa. 3/4 es equivalente a 30/40 (simplificado) pero la fraccion directa es 30/40. -->
+- [ ] B) 10/40 <!-- feedback: Incorrecto. Representar los puestos vacios (10) en vez de los ocupados (30). La pregunta pide los puestos ocupados. -->
+- [x] C) 30/40 <!-- feedback: Correcto. 30 puestos ocupados de 40 totales: numerador = ocupados, denominador = total. -->
+- [ ] D) 40/30 <!-- feedback: Incorrecto. Invertir numerador y denominador. El numerador son los puestos ocupados (30) y el denominador el total (40). -->
 
 ### Explicacion Pedagogica
 30 de 40 puestos estan ocupados. La fraccion directa es 30/40. Simplificando: 30/40 ÷ 10/10 = 3/4 del bus esta ocupado.
@@ -97,10 +97,10 @@ En educacion fisica, tres estudiantes corrieron diferentes distancias en la pist
 ¿Que afirmacion es correcta?
 
 ### Options
-- [ ] A) Lucia corrio mas que los otros dos (Error: 1/4 = 2/8 = 3/12, son equivalentes)
-- [ ] B) Valentina corrio menos porque 3/12 es la fraccion mas pequena (Error: no simplificar)
-- [x] C) Los tres recorrieron la misma distancia porque las fracciones son equivalentes (Correcto)
-- [ ] D) Santiago corrio el doble que Lucia (Error: 2/8 = 1/4, es igual)
+- [ ] A) Lucia corrio mas que los otros dos <!-- feedback: Incorrecto. 1/4 = 2/8 = 3/12, son equivalentes. Todas representan la misma cantidad. -->
+- [ ] B) Valentina corrio menos porque 3/12 es la fraccion mas pequena <!-- feedback: Incorrecto. Error comun: no simplificar. 3/12 simplificado es 1/4, igual que las demas. -->
+- [x] C) Los tres recorrieron la misma distancia porque las fracciones son equivalentes <!-- feedback: Correcto. 1/4 = 2/8 = 3/12. Simplificando: 2/8 � 2/2 = 1/4, 3/12 � 3/3 = 1/4. -->
+- [ ] D) Santiago corrio el doble que Lucia <!-- feedback: Incorrecto. 2/8 = 1/4, es exactamente la misma distancia, no el doble. -->
 
 ### Explicacion Pedagogica
 Todas las fracciones son equivalentes: 1/4 = 2/8 = 3/12. Simplificando: 2/8 ÷ 2/2 = 1/4, 3/12 ÷ 3/3 = 1/4. Los tres estudiantes recorrieron exactamente la misma distancia.
@@ -118,10 +118,10 @@ Todas las fracciones son equivalentes: 1/4 = 2/8 = 3/12. Simplificando: 2/8 ÷ 2
 La familia de Juan Pablo compro una torta para un paseo al Parque Simón Bolivar. La torta se dividio en 24 porciones iguales. Hay 8 personas en la familia y cada una debe recibir la misma cantidad de torta. Juan Pablo afirma que cada persona debe recibir 3/24 de la torta. ¿Tiene razon Juan Pablo?
 
 ### Options
-- [ ] A) Si, 24 dividido entre 8 personas da 3 porciones cada una (Razonamiento correcto pero incompleto)
-- [ ] B) No, porque cada persona debe recibir 8/24 (Error: confundir el numero de partes con lo que recibe cada uno)
-- [ ] C) No, porque 3/24 es menos de lo que le corresponde a cada uno (Error: pensar que 3/24 < 1/8 sin simplificar)
-- [x] D) Si, cada persona recibe 3/24 y al simplificar es 1/8 de la torta (Correcto: 3/24 = 1/8)
+- [ ] A) Si, 24 dividido entre 8 personas da 3 porciones cada una <!-- feedback: Parcialmente correcto pero incompleto. La afirmacion de Juan Pablo es correcta, pero falta reconocer que 3/24 simplificado es 1/8. -->
+- [ ] B) No, porque cada persona debe recibir 8/24 <!-- feedback: Incorrecto. Confundir el numero de partes totales con lo que recibe cada uno. Cada persona recibe 24/8 = 3 porciones, no 8. -->
+- [ ] C) No, porque 3/24 es menos de lo que le corresponde a cada uno <!-- feedback: Incorrecto. 3/24 simplificado es 1/8, que es exactamente lo que le corresponde a cada uno. Error comun: pensar que 3/24 es menor sin simplificar. -->
+- [x] D) Si, cada persona recibe 3/24 y al simplificar es 1/8 de la torta <!-- feedback: Correcto. 24 � 8 = 3 porciones por persona = 3/24. Simplificando: 3/24 � 3/3 = 1/8. -->
 
 ### Explicacion Pedagogica
 Si hay 24 porciones para 8 personas: 24 ÷ 8 = 3 porciones por persona. Cada persona recibe 3/24. Simplificando: 3/24 ÷ 3/3 = 1/8 de la torta. Juan Pablo tiene razon: 3/24 = 1/8.
