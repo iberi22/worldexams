@@ -5,7 +5,7 @@ grado: 6
 asignatura: "ingles"
 tema: "free-time-activities"
 periodo: 4
-protocol_version: "5.1"
+protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"
