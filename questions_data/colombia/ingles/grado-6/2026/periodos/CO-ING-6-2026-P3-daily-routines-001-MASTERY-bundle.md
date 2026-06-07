@@ -5,7 +5,7 @@ grado: 6
 asignatura: "ingles"
 tema: "daily-routines"
 periodo: 3
-protocol_version: "5.1"
+protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos"

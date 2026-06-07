@@ -5,7 +5,7 @@ grado: 6
 asignatura: "ciencias-naturales"
 tema: "energia"
 periodo: 4
-protocol_version: "5.1"
+protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 10
 alignment: "ICFES Saber + DBA"
