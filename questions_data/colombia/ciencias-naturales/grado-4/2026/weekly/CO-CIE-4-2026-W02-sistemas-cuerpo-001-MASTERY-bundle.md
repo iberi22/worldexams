@@ -82,7 +82,10 @@ El cuerpo humano tiene varios sistemas: **sistema óseo** (huesos), **sistema mu
 ¿Cuál es la función principal del **sistema óseo**?
 
 ### Opciones
+<<<<<<< HEAD
 - [ ] A) Bomberar sangre por todo el cuerpo
+=======
+- [ ] A) Bombear sangre por todo el cuerpo
   <!-- feedback: No. Bombear sangre es función del sistema circulatorio y el corazón. -->
 - [x] B) Sostener el cuerpo y proteger los órganos internos
   <!-- feedback: ¡Correcto! El sistema óseo (los huesos) da soporte al cuerpo y protege órganos como el cerebro y el corazón. -->
@@ -268,3 +271,4 @@ El **sistema óseo** y el **sistema muscular** trabajan juntos para:
 
 ### Explicación Pedagógica
 El **sistema óseo** y el **sistema muscular** forman el **sistema locomotor**. Los huesos son las palancas y los músculos son los motores que las mueven. Los músculos están sujetos a los huesos mediante tendones. Cuando un músculo se contrae, jala el hueso y produce el movimiento.
+
