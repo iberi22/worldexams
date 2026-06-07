@@ -1,0 +1,21 @@
+﻿---
+id: "COL-SOC-CIU-4-2026-W01-comunidad-barrio-001-MASTERY"
+country: "colombia"
+grado: 4
+asignatura: "sociales-ciudadanas"
+tema: "comunidad-barrio"
+periodo: "W01"
+protocol_version: "5.2"
+bundle_index: 1
+bundle_size: 10
+alignment: "DBA MEN + Estándares Básicos"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+calibration:
+  expected_success_rate: 0.75
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "Comunidad, barrio, convivencia vecinal, espacios públicos, relaciones de vecindad"
+---
+
+# TASK COMPLETE: W01-W07 files regenerated
