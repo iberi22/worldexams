@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "colors"
+periodo: "weekly"
 semana: 4
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.80
+rubric_baseline: "Recognition of primary and secondary colors and basic descriptive use."
 ---
 
 # Weekly Pack W04: Colors (A1)
 
-Este bundle evalúa los colores básicos en inglés, nivel A1. Los estudiantes deben reconocer, nombrar y asociar colores con objetos cotidianos.
+Este bundle evalúa el reconocimiento de los colores en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What color is a **tomato**?
+
+### Options
+- [ ] A) Blue <!-- feedback: Incorrect. Blue is the color of the sky. -->
+- [ ] B) Green <!-- feedback: Incorrect. Green is the color of grass. -->
+- [x] C) Red <!-- feedback: Correct! Tomatoes are red. -->
+- [ ] D) Yellow <!-- feedback: Incorrect. Bananas are yellow. -->
+
+### Explicación Pedagógica
+El color rojo en inglés se dice "red". Los tomates maduros son rojos.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What color is **the sky** on a sunny day?
+What color is the **sky** on a sunny day?
 
 ### Options
-- [ ] A) Red <!-- feedback: Incorrect. Red is the color of roses, not the sky. -->
-- [x] B) Blue <!-- feedback: Correct! The sky is blue on a sunny day. -->
-- [ ] C) Green <!-- feedback: Incorrect. Green is the color of grass. -->
-- [ ] D) Yellow <!-- feedback: Incorrect. Yellow is the color of the sun. -->
+- [x] A) Blue <!-- feedback: Correct! The sky is blue. -->
+- [ ] B) Black <!-- feedback: Incorrect. The sky is black at night. -->
+- [ ] C) Pink <!-- feedback: Incorrect. Pink is a different color. -->
+- [ ] D) Orange <!-- feedback: Incorrect. Oranges are orange. -->
 
 ### Explicación Pedagógica
-"Blue" = azul. El cielo (sky) en un día soleado es azul. "Blue" se pronuncia "blu".
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is **"Rojo"** in English?
-
-### Options
-- [ ] A) Blue <!-- feedback: Incorrect. "Blue" means azul. -->
-- [ ] B) Green <!-- feedback: Incorrect. "Green" means verde. -->
-- [x] C) Red <!-- feedback: Correct! "Red" = rojo. -->
-- [ ] D) Yellow <!-- feedback: Incorrect. "Yellow" means amarillo. -->
-
-### Explicación Pedagógica
-"Red" = rojo. La bandera de Colombia tiene rojo. "Red" se pronuncia "red" como en español.
+El color azul en inglés se dice "blue". Es el color característico del cielo despejado.
 
 ---
 
@@ -66,119 +68,119 @@ What is **"Rojo"** in English?
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What color is **grass**?
+Which color is **"Amarillo"**?
 
 ### Options
-- [ ] A) White <!-- feedback: Incorrect. White is the color of snow. -->
-- [ ] B) Black <!-- feedback: Incorrect. Black is the color of night. -->
-- [x] C) Green <!-- feedback: Correct! Grass is green. -->
-- [ ] D) Orange <!-- feedback: Incorrect. Orange is the color of oranges. -->
+- [ ] A) Red <!-- feedback: Incorrect. Red is rojo. -->
+- [ ] B) Green <!-- feedback: Incorrect. Green is verde. -->
+- [x] C) Yellow <!-- feedback: Correct! Yellow is amarillo. -->
+- [ ] D) White <!-- feedback: Incorrect. White is blanco. -->
 
 ### Explicación Pedagógica
-"Green" = verde. El pasto (grass) es verde en casi todas partes. "Green" se pronuncia "grin".
+El color amarillo se dice "yellow". ¡Recuerda que se escribe con doble 'l'!
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v4`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+What color do you get if you mix **Blue and Yellow**?
+
+### Options
+- [ ] A) Red <!-- feedback: Incorrect. -->
+- [x] B) Green <!-- feedback: Correct! Blue + Yellow = Green. -->
+- [ ] C) Purple <!-- feedback: Incorrect. -->
+- [ ] D) Orange <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Al mezclar azul (blue) y amarillo (yellow), obtenemos el color verde, que en inglés es "green".
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-What color is a **banana** when it is ripe?
+What color is an **elephant**?
 
 ### Options
-- [ ] A) Red <!-- feedback: Incorrect. Ripe bananas are not red. -->
-- [ ] B) Blue <!-- feedback: Incorrect. Bananas are never blue. -->
-- [x] C) Yellow <!-- feedback: Correct! A ripe banana is yellow. -->
-- [ ] D) Purple <!-- feedback: Incorrect. Purple is the color of grapes. -->
+- [ ] A) Pink <!-- feedback: Incorrect. -->
+- [ ] B) White <!-- feedback: Incorrect. -->
+- [x] C) Grey <!-- feedback: Correct! Elephants are grey. -->
+- [ ] D) Black <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Yellow" = amarillo. Un banano (banana) maduro es amarillo. "Yellow" se pronuncia "yé-low".
+El color gris en inglés se puede escribir "grey" (UK) o "gray" (USA). Los elefantes son de este color.
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v5`
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Blanco"** in English?
+What color is **"Naranja"**?
 
 ### Options
-- [ ] A) Brown <!-- feedback: Incorrect. "Brown" means marrón. -->
-- [ ] B) Gray <!-- feedback: Incorrect. "Gray" means gris. -->
-- [x] C) White <!-- feedback: Correct! "White" = blanco. -->
-- [ ] D) Pink <!-- feedback: Incorrect. "Pink" means rosado. -->
+- [ ] A) Purple <!-- feedback: Incorrect. -->
+- [x] B) Orange <!-- feedback: Correct! Orange is both the fruit and the color. -->
+- [ ] C) Pink <!-- feedback: Incorrect. -->
+- [ ] D) Brown <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"White" = blanco. Las nubes (clouds) son blancas. "White" se pronuncia "wáit".
+En inglés, la palabra "orange" sirve tanto para la fruta (naranja) como para el color.
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Which color do you get when you mix **red and yellow**?
+What color is **chocolate**?
 
 ### Options
-- [ ] A) Green <!-- feedback: Incorrect. Blue + yellow = green. -->
-- [ ] B) Purple <!-- feedback: Incorrect. Red + blue = purple. -->
-- [x] C) Orange <!-- feedback: Correct! Red and yellow make orange. -->
-- [ ] D) Brown <!-- feedback: Incorrect. Red + green = brown. -->
+- [ ] A) Red <!-- feedback: Incorrect. -->
+- [ ] B) Black <!-- feedback: Incorrect. -->
+- [x] C) Brown <!-- feedback: Correct! Chocolate is brown. -->
+- [ ] D) Yellow <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Orange" = naranja. Rojo + amarillo = naranja. Como el color de las naranjas. "Orange" se pronuncia "ó-rench".
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-What color is **coal** or **the night sky**?
-
-### Options
-- [ ] A) White <!-- feedback: Incorrect. The night sky is not white. -->
-- [ ] B) Yellow <!-- feedback: Incorrect. The night sky is not yellow. -->
-- [x] C) Black <!-- feedback: Correct! Coal and the night sky are black. -->
-- [ ] D) Pink <!-- feedback: Incorrect. The night sky is not pink. -->
-
-### Explicación Pedagógica
-"Black" = negro. El carbón (coal) y el cielo nocturno (night sky) son negros. "Black" se pronuncia "blak".
+El color café o marrón se dice "brown" en inglés.
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete the sentence: **"The Colombian flag has yellow, blue, and _____."**
+What color are **clouds** before it rains?
 
 ### Options
-- [ ] A) White <!-- feedback: Incorrect. The Colombian flag does not have white. -->
-- [ ] B) Green <!-- feedback: Incorrect. The Colombian flag does not have green. -->
-- [x] C) Red <!-- feedback: Correct! The Colombian flag is yellow, blue, and red. -->
-- [ ] D) Black <!-- feedback: Incorrect. The Colombian flag does not have black. -->
+- [ ] A) White <!-- feedback: Incorrect. White clouds are for sunny days. -->
+- [x] B) Dark grey <!-- feedback: Correct! Storm clouds are dark grey. -->
+- [ ] C) Blue <!-- feedback: Incorrect. -->
+- [ ] D) Yellow <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La bandera de Colombia tiene tres colores: yellow (amarillo), blue (azul) y red (rojo). ¡Un dato muy importante para los estudiantes colombianos!
+Cuando va a llover, las nubes se ponen de color gris oscuro (dark grey).
 
 ---
 
@@ -186,19 +188,19 @@ La bandera de Colombia tiene tres colores: yellow (amarillo), blue (azul) y red 
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-Your teacher says: **"Color the apple red."** What color do you use?
+Complete: **"The grass is _______."**
 
 ### Options
-- [ ] A) Blue <!-- feedback: Incorrect. Apples are not blue. -->
-- [x] B) Red <!-- feedback: Correct! The teacher said to color the apple red. -->
-- [ ] C) Yellow <!-- feedback: Incorrect. The teacher said red, not yellow. -->
-- [ ] D) Green <!-- feedback: Incorrect. The teacher said red, not green. -->
+- [x] A) Green <!-- feedback: Correct! Grass is green. -->
+- [ ] B) Blue <!-- feedback: Incorrect. -->
+- [ ] C) Purple <!-- feedback: Incorrect. -->
+- [ ] D) Red <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Cuando el profesor da una instrucción en inglés, debemos seguirla. "Color the apple red" = Colorea la manzana de rojo.
+El pasto o la hierba es de color verde, que en inglés es "green".
 
 ---
 
@@ -206,16 +208,16 @@ Cuando el profesor da una instrucción en inglés, debemos seguirla. "Color the 
 **ID:** `CO-ING-3-2026-W04-colors-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-What is the color of a **school bus** in Colombia?
+Which color is **"Morado"**?
 
 ### Options
-- [ ] A) Blue <!-- feedback: Incorrect. Most school buses are not blue. -->
-- [ ] B) Green <!-- feedback: Incorrect. School buses are usually not green. -->
-- [x] C) Yellow <!-- feedback: Correct! In Colombia, many school buses (rutas) are yellow. -->
-- [ ] D) Purple <!-- feedback: Incorrect. School buses are not purple. -->
+- [ ] A) Pink <!-- feedback: Incorrect. Pink is rosado. -->
+- [x] B) Purple <!-- feedback: Correct! Purple is morado. -->
+- [ ] C) Orange <!-- feedback: Incorrect. -->
+- [ ] D) Blue <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Yellow" = amarillo. En Colombia, muchas rutas escolares (school buses) son amarillas como en Estados Unidos. ¡Un color muy recognizable!
+El color morado o púrpura se dice "purple" en inglés.

@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "greetings-farewells"
+periodo: "weekly"
 semana: 1
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,55 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.80
+rubric_baseline: "Greetings and farewells, hello, goodbye, good morning, good night, how are you."
 ---
 
 # Weekly Pack W01: Greetings and Farewells (A1)
 
-Este bundle evalúa saludos y despedidas básicas en inglés, nivel A1. Los estudiantes deben reconocer y usar expresiones cotidianas para saludar y despedirse.
+Este bundle evalúa saludos y despedidas básicas en inglés, nivel A1 para grado 3.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.90
+**Expected_Success:** 0.95
+**Context:** Meeting a friend in the morning.
 
 ### Enunciado
-What do you say when you meet a friend in the **morning**?
+What do you say when you see a friend at **7:00 AM**?
 
 ### Options
-- [ ] A) Good night <!-- feedback: Incorrect. "Good night" (buenas noches) se usa al despedirse o al ir a dormir. -->
-- [x] B) Good morning <!-- feedback: Correct! "Good morning" (buenos días) se usa en la mañana. -->
-- [ ] C) Goodbye <!-- feedback: Incorrect. "Goodbye" (adiós) es una despedida, no un saludo. -->
-- [ ] D) See you later <!-- feedback: Incorrect. "See you later" (hasta luego) es una despedida. -->
+- [ ] A) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse en la noche, no para saludar en la mañana. -->
+- [x] B) Good morning <!-- feedback: Correct! "Good morning" es el saludo correcto para las 7 de la mañana. -->
+- [ ] C) Good afternoon <!-- feedback: Incorrect. "Good afternoon" se usa después del mediodía (12:00 PM). -->
+- [ ] D) Goodbye <!-- feedback: Incorrect. "Goodbye" es una despedida, no un saludo al encontrarse. -->
 
 ### Explicación Pedagógica
-En inglés, los saludos cambian según la hora del día. "Good morning" se usa desde que amanece hasta el mediodía.
+En inglés, al igual que en español, usamos diferentes saludos según la hora del día. Para la mañana (antes de las 12:00 PM), el saludo adecuado es "Good morning" (Buenos días).
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.85
+**Expected_Success:** 0.90
+**Context:** Standard greeting.
 
 ### Enunciado
-What is **"Hola"** in English?
+What is the most common way to say **"Hola"** in English?
 
 ### Options
-- [ ] A) Goodbye <!-- feedback: Incorrect. "Goodbye" significa adiós. -->
-- [x] B) Hello <!-- feedback: Correct! "Hello" = hola, el saludo más común en inglés. -->
-- [ ] C) Thank you <!-- feedback: Incorrect. "Thank you" significa gracias. -->
-- [ ] D) Sorry <!-- feedback: Incorrect. "Sorry" significa lo siento. -->
+- [x] A) Hello <!-- feedback: Correct! "Hello" es la forma estándar de decir hola. -->
+- [ ] B) Bye <!-- feedback: Incorrect. "Bye" es una forma corta de decir adiós. -->
+- [ ] C) Please <!-- feedback: Incorrect. "Please" significa por favor. -->
+- [ ] D) Thanks <!-- feedback: Incorrect. "Thanks" es una forma corta de decir gracias. -->
 
 ### Explicación Pedagógica
-"Hello" es la forma más básica y universal de saludar en inglés. También puedes decir "Hi" para un saludo más informal.
+"Hello" es el saludo más universal en inglés. También existe "Hi", que es un poco más informal, pero ambos significan "Hola".
 
 ---
 
@@ -66,141 +70,148 @@ What is **"Hola"** in English?
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
+**Context:** Saying goodbye.
 
 ### Enunciado
-What do you say when you **leave** school in the afternoon?
+Your friend is going home. What do you say to say **"Adiós"**?
 
 ### Options
-- [ ] A) Hello <!-- feedback: Incorrect. "Hello" es un saludo para cuando llegas. -->
-- [ ] B) Good morning <!-- feedback: Incorrect. "Good morning" es un saludo de la mañana. -->
-- [x] C) Goodbye <!-- feedback: Correct! "Goodbye" se usa al irse o despedirse. -->
-- [ ] D) How are you? <!-- feedback: Incorrect. "How are you?" es una pregunta, no una despedida. -->
+- [ ] A) Hello <!-- feedback: Incorrect. "Hello" es para saludar al llegar. -->
+- [x] B) Goodbye <!-- feedback: Correct! "Goodbye" significa adiós. -->
+- [ ] C) Good morning <!-- feedback: Incorrect. Esto es un saludo de mañana. -->
+- [ ] D) Hi <!-- feedback: Incorrect. "Hi" es hola. -->
 
 ### Explicación Pedagógica
-"Goodbye" es la despedida estándar en inglés. También puedes usar "Bye" que es más corto e informal.
+Para despedirnos de alguien que se va, usamos "Goodbye" (Adiós). También podemos usar la versión corta "Bye".
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Pragmática
-**Expected_Success:** 0.75
-
-### Enunciado
-Your friend says: **"Good afternoon!"** What time is it?
-
-### Options
-- [ ] A) 7:00 in the morning <!-- feedback: Incorrect. At 7:00 AM we say "Good morning." -->
-- [x] B) 2:00 in the afternoon <!-- feedback: Correct! "Good afternoon" se usa de 12:00 PM a 6:00 PM aprox. -->
-- [ ] C) 9:00 at night <!-- feedback: Incorrect. At night we say "Good evening" or "Good night." -->
-- [ ] D) 5:00 in the morning <!-- feedback: Incorrect. Early morning uses "Good morning." -->
-
-### Explicación Pedagógica
-"Good afternoon" se usa después del mediodía hasta el atardecer. Es importante asociar cada saludo con su momento del día.
-
----
-
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v5`
-**Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.70
+**Expected_Success:** 0.80
+**Context:** Greeting in the afternoon.
 
 ### Enunciado
-What is **"Buenas noches"** in English?
+It is **3:00 PM**. How do you greet your teacher?
 
 ### Options
-- [ ] A) Good morning <!-- feedback: Incorrect. "Good morning" es buenos días. -->
-- [ ] B) Good afternoon <!-- feedback: Incorrect. "Good afternoon" es buenas tardes. -->
-- [x] C) Good night <!-- feedback: Correct! "Good night" = buenas noches, se usa al despedirse en la noche. -->
-- [ ] D) Hello <!-- feedback: Incorrect. "Hello" es un saludo general. -->
+- [ ] A) Good morning <!-- feedback: Incorrect. La mañana ya terminó, ahora es la tarde. -->
+- [x] B) Good afternoon <!-- feedback: Correct! "Good afternoon" se usa desde el mediodía hasta el atardecer. -->
+- [ ] C) Good night <!-- feedback: Incorrect. Todavía no es hora de dormir o despedirse en la noche. -->
+- [ ] D) Hello, morning <!-- feedback: Incorrect. No combinamos hello con morning si es la tarde. -->
 
 ### Explicación Pedagógica
-"Good night" se usa para despedirse en la noche o antes de dormir. "Good evening" también se usa en la noche pero más como saludo.
+"Good afternoon" se traduce como "Buenas tardes". Lo usamos después de las 12:00 PM (noon) hasta aproximadamente las 6:00 PM.
 
 ---
 
-## Question 6 [D4-D5]
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v5`
+**Bloom:** Understand
+**ICFES:** Lingüística
+**Expected_Success:** 0.75
+**Context:** Basic conversation.
+
+### Enunciado
+Complete the dialogue:
+**Sam:** "How are you?"
+**Lina:** "I am ______, thank you."
+
+### Options
+- [ ] A) hello <!-- feedback: Incorrect. "Hello" no responde a cómo estás. -->
+- [x] B) fine <!-- feedback: Correct! "I am fine" significa estoy bien. -->
+- [ ] C) goodbye <!-- feedback: Incorrect. "Goodbye" es para irse. -->
+- [ ] D) morning <!-- feedback: Incorrect. "Morning" es mañana, no un estado de ánimo. -->
+
+### Explicación Pedagógica
+Cuando alguien nos pregunta "How are you?" (¿Cómo estás?), la respuesta más común y educada es "I am fine, thank you" (Estoy bien, gracias).
+
+---
+
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Pragmática
-**Expected_Success:** 0.65
+**Expected_Success:** 0.70
+**Context:** Evening greeting.
 
 ### Enunciado
-A classmate says: **"See you tomorrow!"** What does it mean?
+You arrive at a party at **8:00 PM**. What do you say to greet people?
 
 ### Options
-- [ ] A) Te veo ahora <!-- feedback: Incorrect. "See you tomorrow" no significa ahora. -->
-- [x] B) Nos vemos mañana <!-- feedback: Correct! "See you tomorrow" = nos vemos mañana. -->
-- [ ] C) Hasta luego <!-- feedback: Incorrect. "See you later" sería hasta luego. -->
-- [ ] D) Buenos días <!-- feedback: Incorrect. Es un saludo, no una despedida para mañana. -->
+- [ ] A) Good morning <!-- feedback: Incorrect. Es de noche, no de mañana. -->
+- [x] B) Good evening <!-- feedback: Correct! "Good evening" se usa como saludo al llegar en la noche. -->
+- [ ] C) Good night <!-- feedback: Incorrect. "Good night" se usa para despedirse, no para saludar al llegar. -->
+- [ ] D) Goodbye <!-- feedback: Incorrect. Acabas de llegar, no te estás yendo. -->
 
 ### Explicación Pedagógica
-"See you tomorrow" es una despedida informal que indica que volverán a verse al día siguiente.
+En inglés hay dos formas de decir "buenas noches": "Good evening" se usa para saludar al llegar, y "Good night" se usa para despedirse o antes de dormir.
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D5-D6]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Pragmática
-**Expected_Success:** 0.60
+**ICFES:** Lingüística
+**Expected_Success:** 0.65
+**Context:** Farewell for the next day.
 
 ### Enunciado
-A teacher enters the classroom at 8:00 AM. What should you say?
+What does **"See you tomorrow"** mean?
 
 ### Options
-- [ ] A) Good night <!-- feedback: Incorrect. 8:00 AM is morning, not night. -->
-- [x] B) Good morning, teacher <!-- feedback: Correct! At 8:00 AM we say "Good morning." -->
-- [ ] C) Goodbye <!-- feedback: Incorrect. "Goodbye" is for leaving, not arriving. -->
-- [ ] D) See you later <!-- feedback: Incorrect. The class is just starting. -->
+- [ ] A) Hola mañana <!-- feedback: Incorrect. No es un saludo. -->
+- [x] B) Nos vemos mañana <!-- feedback: Correct! "See you" es nos vemos y "tomorrow" es mañana. -->
+- [ ] C) Te veo ahora <!-- feedback: Incorrect. "Tomorrow" no significa ahora. -->
+- [ ] D) Adiós por siempre <!-- feedback: Incorrect. Es una despedida temporal para el día siguiente. -->
 
 ### Explicación Pedagógica
-En la escuela colombiana, al llegar en la mañana saludamos "Good morning". Es una forma de mostrar respeto al profesor.
+"See you tomorrow" es una expresión muy común en la escuela. Significa que volverás a ver a la persona al día siguiente.
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Pragmática
-**Expected_Success:** 0.55
+**ICFES:** Lingüística
+**Expected_Success:** 0.60
+**Context:** Formal greeting.
 
 ### Enunciado
-Complete the dialogue:
-**A: "Hello, how are you?"**
-**B: "_______, thank you!"**
+Choose the correct formal greeting:
 
 ### Options
-- [ ] A) Goodbye <!-- feedback: Incorrect. "Goodbye" does not answer "how are you?" -->
-- [x] B) I'm fine <!-- feedback: Correct! "I'm fine, thank you" responde a "How are you?" -->
-- [ ] C) Good night <!-- feedback: Incorrect. "Good night" is not an answer to "How are you?" -->
-- [ ] D) Sorry <!-- feedback: Incorrect. "Sorry" does not answer "How are you?" -->
+- [x] A) Good morning, Mr. Smith <!-- feedback: Correct! Es una forma educada y formal de saludar. -->
+- [ ] B) What's up? <!-- feedback: Incorrect. "What's up" es muy informal (¿Qué pasa?). -->
+- [ ] C) Bye-bye <!-- feedback: Incorrect. Es una despedida infantil o muy informal. -->
+- [ ] D) Hey! <!-- feedback: Incorrect. "Hey" es un saludo muy informal para amigos. -->
 
 ### Explicación Pedagógica
-"How are you?" es una pregunta común después del saludo. La respuesta típica es "I'm fine, thank you" (Estoy bien, gracias).
+Para hablar con profesores o adultos, usamos saludos más formales como "Good morning" o "Hello", seguidos de su título y apellido si es necesario.
 
 ---
 
 ## Question 9 [D5-D6]
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v9`
-**Bloom:** Remember
+**Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
+**Context:** Asking for a name.
 
 ### Enunciado
-What is **"Hasta pronto"** in English?
+How do you ask someone's name in English?
 
 ### Options
-- [ ] A) Good morning <!-- feedback: Incorrect. "Good morning" is a greeting. -->
-- [ ] B) Goodbye <!-- feedback: Incorrect. "Goodbye" is more final. -->
-- [x] C) See you soon <!-- feedback: Correct! "See you soon" = hasta pronto. -->
-- [ ] D) How are you? <!-- feedback: Incorrect. "How are you?" is a question. -->
+- [ ] A) How are you? <!-- feedback: Incorrect. Esto pregunta cómo estás. -->
+- [x] B) What is your name? <!-- feedback: Correct! Esta es la pregunta para saber el nombre de alguien. -->
+- [ ] C) Who are you? <!-- feedback: Incorrect. Aunque gramaticalmente correcta, puede sonar un poco ruda en una presentación básica. -->
+- [ ] D) My name is Tom <!-- feedback: Incorrect. Esto es una respuesta, no una pregunta. -->
 
 ### Explicación Pedagógica
-"See you soon" se usa cuando sabes que verás a la persona nuevamente en poco tiempo.
+Después de saludar, solemos preguntar el nombre de la persona con "¿What is your name?". La respuesta suele empezar con "My name is...".
 
 ---
 
@@ -208,16 +219,17 @@ What is **"Hasta pronto"** in English?
 **ID:** `CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Pragmática
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
+**Context:** End of a phone call at night.
 
 ### Enunciado
-It is 7:00 PM. You finish talking to your grandmother on the phone. What do you say?
+You are talking on the phone at **9:30 PM**. You are going to sleep. What do you say?
 
 ### Options
-- [ ] A) Good morning <!-- feedback: Incorrect. 7:00 PM is not morning. -->
-- [ ] B) Good afternoon <!-- feedback: Incorrect. 7:00 PM is night time. -->
-- [x] C) Good night, grandma <!-- feedback: Correct! At night, before ending a call, say "Good night." -->
-- [ ] D) Goodbye, good morning <!-- feedback: Incorrect. Mixing greetings is confusing. -->
+- [ ] A) Good afternoon <!-- feedback: Incorrect. Es muy tarde para ser la tarde. -->
+- [ ] B) Hello <!-- feedback: Incorrect. Te vas a dormir, no estás empezando la charla. -->
+- [x] C) Good night <!-- feedback: Correct! "Good night" se usa para despedirse en la noche o antes de dormir. -->
+- [ ] D) Good morning <!-- feedback: Incorrect. Aún faltan muchas horas para la mañana. -->
 
 ### Explicación Pedagógica
-Después de las 6:00 PM aproximadamente, usamos "Good night" al despedirnos. "Good evening" se usa como saludo a esa hora.
+"Good night" es la despedida perfecta para la noche, especialmente si ya te vas a descansar o a dormir.

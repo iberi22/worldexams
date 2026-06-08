@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "months-year"
+periodo: "weekly"
 semana: 29
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.70
+rubric_baseline: "Vocabulary for the twelve months of the year."
 ---
 
 # Weekly Pack W29: Months of the Year (A1)
 
-Este bundle evalúa los meses del año en inglés, nivel A1.
+Este bundle evalúa el vocabulario de los meses del año en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-How many months are there in a **year**?
+What is the **first** month of the year?
 
 ### Options
-- [ ] A) 10 <!-- feedback: Incorrect. There are 12 months in a year. -->
-- [ ] B) 11 <!-- feedback: Incorrect. There are 12 months. -->
-- [x] C) 12 <!-- feedback: Correct! There are 12 months in a year. -->
-- [ ] D) 13 <!-- feedback: Incorrect. There are 12 months. -->
+- [ ] A) February <!-- feedback: Incorrect. -->
+- [x] B) January <!-- feedback: Correct! January is enero. -->
+- [ ] C) March <!-- feedback: Incorrect. -->
+- [ ] D) December <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Months" = meses. Un año (year) tiene 12 months. ¡Enero a diciembre! En inglés se escriben con mayúscula.
+Enero se dice "January". Es el mes número 1.
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
 
 ### Enunciado
-What is the **first month** of the year?
+What is the **last** month of the year? 🎄
 
 ### Options
-- [ ] A) February <!-- feedback: Incorrect. February is the second month. -->
-- [x] B) January <!-- feedback: Correct! January (enero) is the first month. -->
-- [ ] C) March <!-- feedback: Incorrect. March is the third month. -->
-- [ ] D) December <!-- feedback: Incorrect. December is the last month. -->
+- [ ] A) November <!-- feedback: Incorrect. -->
+- [x] B) December <!-- feedback: Correct! December is diciembre. -->
+- [ ] C) October <!-- feedback: Incorrect. -->
+- [ ] D) January <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"January" = enero. Es el primer mes del año. ¡January 1st es New Year's Day (Año Nuevo)! Se pronuncia "yá-niu-e-ri".
+Diciembre se dice "December". Es el mes número 12 y cuando celebramos Navidad.
 
 ---
 
@@ -69,136 +71,136 @@ What is the **first month** of the year?
 **Expected_Success:** 0.80
 
 ### Enunciado
-What is **"Marzo"** in English?
+What month comes after **August**?
 
 ### Options
-- [ ] A) April <!-- feedback: Incorrect. "April" means abril. -->
-- [ ] B) May <!-- feedback: Incorrect. "May" means mayo. -->
-- [x] C) March <!-- feedback: Correct! "March" = marzo. -->
-- [ ] D) June <!-- feedback: Incorrect. "June" means junio. -->
+- [ ] A) July <!-- feedback: Incorrect. -->
+- [ ] B) October <!-- feedback: Incorrect. -->
+- [x] C) September <!-- feedback: Correct! August -> September. -->
+- [ ] D) June <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"March" = marzo. En marzo comienza la primavera (spring) en el hemisferio norte. "March" se pronuncia "march".
+Septiembre se dice "September". Va después de agosto (August).
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-Which month comes **after June**?
+How many months are in a **year**?
 
 ### Options
-- [ ] A) May <!-- feedback: Incorrect. May is before June. -->
-- [ ] B) August <!-- feedback: Incorrect. August is after July. -->
-- [x] C) July <!-- feedback: Correct! July (julio) comes after June. -->
-- [ ] D) September <!-- feedback: Incorrect. September is much later. -->
+- [ ] A) Seven <!-- feedback: Incorrect. That's days in a week. -->
+- [ ] B) Ten <!-- feedback: Incorrect. -->
+- [x] C) Twelve <!-- feedback: Correct! -->
+- [ ] D) Thirty <!-- feedback: Incorrect. That's days in a month. -->
 
 ### Explicación Pedagógica
-El orden: May (Mayo), June (Junio), July (Julio), August (Agosto). Después de June viene July.
+Un año tiene doce (twelve) meses.
 
 ---
 
-## Question 5 [D4-D5]
+## Question 5 [D3-D4]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Diciembre"** in English?
+What is **"Abril"** in English?
 
 ### Options
-- [ ] A) November <!-- feedback: Incorrect. "November" means noviembre. -->
-- [ ] B) October <!-- feedback: Incorrect. "October" means octubre. -->
-- [x] C) December <!-- feedback: Correct! "December" = diciembre. -->
-- [ ] D) September <!-- feedback: Incorrect. "September" means septiembre. -->
+- [ ] A) May <!-- feedback: Incorrect. May is mayo. -->
+- [x] B) April <!-- feedback: Correct! -->
+- [ ] C) June <!-- feedback: Incorrect. -->
+- [ ] D) March <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"December" = diciembre. ¡Es el último mes del año! En diciembre celebramos Navidad (Christmas) y Año Nuevo. Muy especial.
+Abril se escribe "April" en inglés. Se parece mucho al español.
 
 ---
 
-## Question 6 [D4-D5]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v6`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-**Christmas** is celebrated in:
+In which month is **Halloween**? 🎃
 
 ### Options
-- [ ] A) October <!-- feedback: Incorrect. Christmas is not in October. -->
-- [ ] B) November <!-- feedback: Incorrect. Christmas is in December. -->
-- [x] C) December <!-- feedback: Correct! Christmas (Navidad) is in December. -->
-- [ ] D) January <!-- feedback: Incorrect. Christmas is not in January. -->
+- [ ] A) September <!-- feedback: Incorrect. -->
+- [x] B) October <!-- feedback: Correct! Halloween is in October. -->
+- [ ] C) November <!-- feedback: Incorrect. -->
+- [ ] D) December <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Christmas" = Navidad. Se celebra el 25 de December. ¡En Colombia, la Navidad se celebra con novenas, luces y regalos!
+Octubre se dice "October". Es el mes de las brujas y disfraces.
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D5-D6]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v7`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
 
 ### Enunciado
-**School** in Colombia usually starts in:
+What is **"Julio"** in English?
 
 ### Options
-- [ ] A) December <!-- feedback: Incorrect. School is on vacation in December. -->
-- [ ] B) July <!-- feedback: Incorrect. July is in the middle of the year. -->
-- [x] C) February <!-- feedback: Correct! The school year in Colombia usually starts in February (febrero). -->
-- [ ] D) October <!-- feedback: Incorrect. School is already in session by October. -->
+- [x] A) July <!-- feedback: Correct! -->
+- [ ] B) June <!-- feedback: Incorrect. June is junio. -->
+- [ ] C) January <!-- feedback: Incorrect. -->
+- [ ] D) Jelly <!-- feedback: Incorrect. Jelly is gelatina! -->
 
 ### Explicación Pedagógica
-En Colombia, el año escolar (school year) empieza en February (febrero). ¡Los niños comienzan clases en febrero!
+Julio se dice "July".
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
 
 ### Enunciado
-Complete: **"January is the first month. December is the _____ month."**
+Which month is between **May** and **July**?
 
 ### Options
-- [ ] A) eleventh <!-- feedback: Incorrect. December is not the 11th. -->
-- [x] B) twelfth <!-- feedback: Correct! December is the 12th (twelfth) and last month. -->
-- [ ] C) tenth <!-- feedback: Incorrect. December is the 12th. -->
-- [ ] D) ninth <!-- feedback: Incorrect. December is the 12th. -->
+- [ ] A) April <!-- feedback: Incorrect. -->
+- [ ] B) August <!-- feedback: Incorrect. -->
+- [x] C) June <!-- feedback: Correct! May, June, July. -->
+- [ ] D) March <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Números ordinales: first (1st), second (2nd)... twelfth (12th). December es el twelfth (12º) mes del año.
+Junio se dice "June". Está entre mayo y julio.
 
 ---
 
 ## Question 9 [D5-D6]
 **ID:** `CO-ING-3-2026-W29-months-year-001-MASTERY-v9`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.50
 
 ### Enunciado
-Your birthday is in **May**. What month is it in Spanish?
+In Colombia, we celebrate **Mother's Day** (Día de la Madre) in:
 
 ### Options
-- [ ] A) Marzo <!-- feedback: Incorrect. "March" = marzo. -->
-- [x] B) Mayo <!-- feedback: Correct! "May" = mayo. -->
-- [ ] C) Junio <!-- feedback: Incorrect. "June" = junio. -->
-- [ ] D) Abril <!-- feedback: Incorrect. "April" = abril. -->
+- [ ] A) April <!-- feedback: Incorrect. -->
+- [x] B) May <!-- feedback: Correct! Mother's day is in May. -->
+- [ ] C) June <!-- feedback: Incorrect. -->
+- [ ] D) March <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"May" = mayo. Es el quinto mes del año. "May" se pronuncia "méi". ¡Mayo es un mes hermoso con flores!
+El mes de las madres en Colombia es mayo, que en inglés se dice "May".
 
 ---
 
@@ -209,13 +211,13 @@ Your birthday is in **May**. What month is it in Spanish?
 **Expected_Success:** 0.45
 
 ### Enunciado
-Put the months in order: **October, November, _____**
+How do you ask someone about their **birthday**?
 
 ### Options
-- [ ] A) September <!-- feedback: Incorrect. September is before October. -->
-- [ ] B) January <!-- feedback: Incorrect. January is at the beginning. -->
-- [x] C) December <!-- feedback: Correct! The order is October, November, December. -->
-- [ ] D) August <!-- feedback: Incorrect. August is before October. -->
+- [ ] A) How old are you? <!-- feedback: Incorrect. This asks for age. -->
+- [x] B) When is your birthday? <!-- feedback: Correct! -->
+- [ ] C) What is your birthday? <!-- feedback: Incorrect structure. -->
+- [ ] D) Where is your birthday? <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Los últimos meses: October (Octubre) → November (Noviembre) → December (Diciembre). Luego el año termina y empieza January.
+Para preguntar por el cumpleaños de alguien decimos "¿When is your birthday?".

@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "alphabet-spelling"
+periodo: "weekly"
 semana: 2
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Alphabet recognition, letter sounds, and basic spelling of 3-4 letter words."
 ---
 
 # Weekly Pack W02: Alphabet and Spelling (A1)
 
-Este bundle evalúa el reconocimiento del alfabeto en inglés y la habilidad básica de deletrear palabras simples.
+Este bundle evalúa el reconocimiento del abecedario y el deletreo de palabras sencillas en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-How many letters does the English alphabet have?
+Which is the **first** letter of the alphabet?
 
 ### Options
-- [ ] A) 24 <!-- feedback: Incorrect. The English alphabet has more than 24 letters. -->
-- [ ] B) 25 <!-- feedback: Incorrect. Check again, there are more than 25 letters. -->
-- [x] C) 26 <!-- feedback: Correct! The English alphabet has 26 letters from A to Z. -->
-- [ ] D) 27 <!-- feedback: Incorrect. The alphabet has 26, not 27 letters. -->
+- [x] A) A <!-- feedback: Correct! "A" is the first letter. -->
+- [ ] B) B <!-- feedback: Incorrect. "B" is the second letter. -->
+- [ ] C) Z <!-- feedback: Incorrect. "Z" is the last letter. -->
+- [ ] D) E <!-- feedback: Incorrect. "E" is the fifth letter. -->
 
 ### Explicación Pedagógica
-El alfabeto inglés tiene 26 letras (A-Z), igual que el alfabeto español. ¡Ya conoces casi todas las letras!
+El abecedario en inglés comienza con la letra "A". Es fundamental conocer el orden de las letras.
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
 
 ### Enunciado
-What is the **first** letter of the English alphabet?
+How do you spell the word **"CAT"**?
 
 ### Options
-- [ ] A) B <!-- feedback: Incorrect. B is the second letter. -->
-- [ ] B) C <!-- feedback: Incorrect. C is the third letter. -->
-- [x] C) A <!-- feedback: Correct! A is the first letter of the alphabet. -->
-- [ ] D) Z <!-- feedback: Incorrect. Z is the last letter of the alphabet. -->
+- [ ] A) K - A - T <!-- feedback: Incorrect. We use "C", not "K" for cat. -->
+- [x] B) C - A - T <!-- feedback: Correct! C-A-T spells cat. -->
+- [ ] C) S - A - T <!-- feedback: Incorrect. "Sat" is a different word. -->
+- [ ] D) C - E - T <!-- feedback: Incorrect. The middle letter is "A". -->
 
 ### Explicación Pedagógica
-La primera letra del alfabeto inglés es A, igual que en español. La última letra es Z.
+Para deletrear "cat" (gato), usamos las letras C (si), A (ei), T (ti).
 
 ---
 
@@ -69,96 +71,96 @@ La primera letra del alfabeto inglés es A, igual que en español. La última le
 **Expected_Success:** 0.80
 
 ### Enunciado
-What letter comes **after** the letter **C**?
+Which of these are **vowels** (vocales) in English?
 
 ### Options
-- [ ] A) A <!-- feedback: Incorrect. A is at the beginning, not after C. -->
-- [x] B) D <!-- feedback: Correct! D comes after C: A-B-C-D. -->
-- [ ] C) B <!-- feedback: Incorrect. B comes before C, not after. -->
-- [ ] D) E <!-- feedback: Incorrect. E comes after D, not right after C. -->
+- [ ] A) B, C, D, F <!-- feedback: Incorrect. These are consonants. -->
+- [x] B) A, E, I, O, U <!-- feedback: Correct! These are the five vowels. -->
+- [ ] C) X, Y, Z <!-- feedback: Incorrect. These are consonants. -->
+- [ ] D) M, N, P <!-- feedback: Incorrect. These are consonants. -->
 
 ### Explicación Pedagógica
-El orden alfabético: A-B-C-D. La letra que sigue después de C es D. Es como contar: C es la tercera, D la cuarta.
+Al igual que en español, el inglés tiene cinco vocales: A, E, I, O, U.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-What is the **last** letter of the word **DOG**?
+What is the **last** letter of the alphabet?
 
 ### Options
-- [ ] A) D <!-- feedback: Incorrect. D is the first letter of DOG. -->
-- [ ] B) O <!-- feedback: Incorrect. O is the middle letter of DOG. -->
-- [x] C) G <!-- feedback: Correct! G is the last letter: D-O-G. -->
-- [ ] D) A <!-- feedback: Incorrect. The letter A is not in DOG. -->
+- [ ] A) A <!-- feedback: Incorrect. "A" is the first. -->
+- [ ] B) M <!-- feedback: Incorrect. "M" is in the middle. -->
+- [ ] C) Y <!-- feedback: Incorrect. "Y" is the second to last. -->
+- [x] D) Z <!-- feedback: Correct! "Z" is the last letter. -->
 
 ### Explicación Pedagógica
-Cada palabra tiene un inicio y un final. "Dog" = D-O-G. La primera letra es D, la última es G.
+La letra "Z" cierra el abecedario tanto en inglés como en español.
 
 ---
 
-## Question 5 [D4-D5]
+## Question 5 [D3-D4]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v5`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What are the **five vowels** in English?
+How do you pronounce the letter **"E"** in English?
 
 ### Options
-- [ ] A) A, B, C, D, E <!-- feedback: Incorrect. B, C, D are consonants, not vowels. -->
-- [x] B) A, E, I, O, U <!-- feedback: Correct! The five vowels are A, E, I, O, U. -->
-- [ ] C) A, E, I, O, Y <!-- feedback: Incorrect. Y is sometimes a vowel, but U is the fifth vowel. -->
-- [ ] D) A, E, O, U, Z <!-- feedback: Incorrect. Z is a consonant, and I is missing. -->
+- [ ] A) /e/ (como en español) <!-- feedback: Incorrect. En inglés "E" no suena como "e". -->
+- [x] B) /i/ <!-- feedback: Correct! The letter E sounds like "i" in English. -->
+- [ ] C) /ai/ <!-- feedback: Incorrect. /ai/ is the sound of the letter "I". -->
+- [ ] D) /ei/ <!-- feedback: Incorrect. /ei/ is the sound of the letter "A". -->
 
 ### Explicación Pedagógica
-Las vocales en inglés son las mismas que en español: A, E, I, O, U. Todas las demás letras son consonantes.
+Es común confundirse: en inglés, la letra **A** suena /ei/, la **E** suena /i/, y la **I** suena /ai/.
 
 ---
 
-## Question 6 [D4-D5]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Your teacher spells: **C-A-T**. What word is it?
+Choose the word that starts with the letter **"B"**:
 
 ### Options
-- [ ] A) Dog <!-- feedback: Incorrect. C-A-T spells "cat," not "dog." -->
-- [x] B) Cat <!-- feedback: Correct! C-A-T spells "cat" (gato). -->
-- [ ] C) Car <!-- feedback: Incorrect. "Car" would be C-A-R. -->
-- [ ] D) Cow <!-- feedback: Incorrect. "Cow" would be C-O-W. -->
+- [ ] A) Apple <!-- feedback: Incorrect. Apple starts with A. -->
+- [x] B) Ball <!-- feedback: Correct! Ball starts with B. -->
+- [ ] C) Cat <!-- feedback: Incorrect. Cat starts with C. -->
+- [ ] D) Dog <!-- feedback: Incorrect. Dog starts with D. -->
 
 ### Explicación Pedagógica
-Deletrear (spelling) ayuda a escribir correctamente. C-A-T = cat. Cada letra tiene un sonido.
+La palabra "Ball" (balón) comienza con la letra B.
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D5-D6]
 **ID:** `CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-v7`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
 
 ### Enunciado
-Which word starts with the letter **B**?
+Spell the number **"FOUR"**:
 
 ### Options
-- [ ] A) Apple <!-- feedback: Incorrect. "Apple" starts with A, not B. -->
-- [x] B) Book <!-- feedback: Correct! "Book" (libro) starts with the letter B. -->
-- [ ] C) Cat <!-- feedback: Incorrect. "Cat" starts with C, not B. -->
-- [ ] D) Door <!-- feedback: Incorrect. "Door" starts with D, not B. -->
+- [ ] A) F - O - R <!-- feedback: Incorrect. Missing the "U". -->
+- [x] B) F - O - U - R <!-- feedback: Correct! F-O-U-R spells 4. -->
+- [ ] C) F - U - O - R <!-- feedback: Incorrect. Wrong order of vowels. -->
+- [ ] D) P - O - U - R <!-- feedback: Incorrect. Starts with F, not P. -->
 
 ### Explicación Pedagógica
-"Book" empieza con la letra B. En inglés, la B suena como en español: /b/. B de "book" = libro.
+El número 4 en inglés se escribe "Four". Se deletrea F-O-U-R.
 
 ---
 
@@ -169,16 +171,16 @@ Which word starts with the letter **B**?
 **Expected_Success:** 0.55
 
 ### Enunciado
-Spell the word **PEN** out loud. What are the letters?
+Complete the word: **"A _ P L E"** (It is a red fruit).
 
 ### Options
-- [ ] A) P-A-N <!-- feedback: Incorrect. P-A-N spells "pan," not "pen." -->
-- [x] B) P-E-N <!-- feedback: Correct! P-E-N spells "pen" (bolígrafo). -->
-- [ ] C) P-I-N <!-- feedback: Incorrect. P-I-N spells "pin" (alfiler). -->
-- [ ] D) P-O-N <!-- feedback: Incorrect. P-O-N is not a word. -->
+- [x] A) P <!-- feedback: Correct! APPLE is the word. -->
+- [ ] B) B <!-- feedback: Incorrect. "Able" is not a red fruit. -->
+- [ ] C) T <!-- feedback: Incorrect. "Atple" is not a word. -->
+- [ ] D) M <!-- feedback: Incorrect. "Ample" means something else. -->
 
 ### Explicación Pedagógica
-"Pen" tiene tres letras: P, E, N. En inglés, la letra E no suena como en español, sino como /e/ corta.
+La palabra "Apple" (manzana) lleva doble "P". Se escribe A-P-P-L-E.
 
 ---
 
@@ -189,16 +191,16 @@ Spell the word **PEN** out loud. What are the letters?
 **Expected_Success:** 0.50
 
 ### Enunciado
-Put these letters in alphabetical order: **G, E, F**
+What is the letter after **"J"**?
 
 ### Options
-- [ ] A) G, F, E <!-- feedback: Incorrect. G is not first alphabetically. -->
-- [ ] B) F, G, E <!-- feedback: Incorrect. E goes before F. -->
-- [x] C) E, F, G <!-- feedback: Correct! E comes first, then F, then G. -->
-- [ ] D) F, E, G <!-- feedback: Incorrect. E comes before F. -->
+- [ ] A) I <!-- feedback: Incorrect. "I" comes before J. -->
+- [x] B) K <!-- feedback: Correct! K comes after J. -->
+- [ ] C) L <!-- feedback: Incorrect. "L" comes after K. -->
+- [ ] D) H <!-- feedback: Incorrect. "H" is earlier in the alphabet. -->
 
 ### Explicación Pedagógica
-Orden alfabético: E es la quinta letra, F la sexta, G la séptima. Así que el orden correcto es E, F, G.
+En la secuencia del abecedario: ... H, I, J, **K**, L ... La letra K sigue a la J.
 
 ---
 
@@ -209,13 +211,13 @@ Orden alfabético: E es la quinta letra, F la sexta, G la séptima. Así que el 
 **Expected_Success:** 0.45
 
 ### Enunciado
-Your teacher says: **"Write the first letter of your name."** You are Carlos. What letter do you write?
+Which word is spelled correctly?
 
 ### Options
-- [ ] A) A <!-- feedback: Incorrect. Carlos starts with C, not A. -->
-- [ ] B) S <!-- feedback: Incorrect. Carlos starts with C, and S is for Sergio, not Carlos. -->
-- [x] C) C <!-- feedback: Correct! Carlos starts with C. The first letter of your name is C. -->
-- [ ] D) L <!-- feedback: Incorrect. L is not the first letter of Carlos. -->
+- [ ] A) Buk <!-- feedback: Incorrect. It should be "Book". -->
+- [ ] B) Skool <!-- feedback: Incorrect. It should be "School". -->
+- [x] C) Pencil <!-- feedback: Correct! Pencil is spelled correctly. -->
+- [ ] D) Pencl <!-- feedback: Incorrect. Missing the "I". -->
 
 ### Explicación Pedagógica
-La primera letra de tu nombre se llama "initial". Carlos empieza con C. ¡Cada persona tiene su inicial!
+"Pencil" (lápiz) se escribe P-E-N-C-I-L. Es importante memorizar la escritura de objetos escolares comunes.
