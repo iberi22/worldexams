@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Clasificación de animales según su alimentación: herbívoros, carnívoros y omnívoros."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clasificación de los Animales según su Alimentación
@@ -267,3 +270,8 @@ La dieta herbívora (plantas) aporta poca energía por cada bocado, por eso los 
 ### Explicación Pedagógica
 
 Clasificar animales requiere observar su dieta completa. Muchos animales que pensamos que son solo una cosa, resultan ser omnívoros al observar su comportamiento real en la naturaleza, lo que les da más oportunidades de sobrevivir.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

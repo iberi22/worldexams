@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "places in town, city vocabulary, Colombian towns and cities"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Places in Town (W33)
@@ -228,3 +231,8 @@ Passport office / immigration office = oficina de migración/pasaportes. In Colo
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

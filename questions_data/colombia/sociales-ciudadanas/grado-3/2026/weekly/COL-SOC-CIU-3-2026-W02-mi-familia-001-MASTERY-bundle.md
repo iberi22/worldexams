@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "mi_familia, tipos_de_familia, roles_familiares, parentesco, valores_familiares, responsabilidades_en_el_hogar"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mi Familia
@@ -197,3 +200,8 @@ Tatiana dice: "Mi familia no es como la de mis amigos porque yo vivo solo con mi
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la capacidad de valorar la diversidad familiar. En Colombia, la Constitución y la ley reconocen diferentes tipos de familia. Lo fundamental no es la estructura, sino la calidad de las relaciones: el amor, el respeto, la protección y el cuidado mutuo. Los niños deben aprender a respetar y valorar todas las formas de familia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

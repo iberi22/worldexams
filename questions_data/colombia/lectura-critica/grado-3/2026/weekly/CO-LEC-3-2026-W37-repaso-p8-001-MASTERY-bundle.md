@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 37
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 8
@@ -202,3 +205,8 @@ Si tuvieras que **refutar** (llevarle la contraria con una buena razón) a este 
 
 ### Explicación Pedagógica
 Evaluar y contra-argumentar desarrolla la capacidad de debate y defensa de ideas propias. El estudiante debe identificar cuál razón responde mejor al punto de vista opuesto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

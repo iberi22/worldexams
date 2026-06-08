@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Recursos naturales no renovables: petróleo, carbón, gas natural y minerales. Agotamiento y consecuencias ambientales."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Recursos Naturales No Renovables
@@ -267,3 +270,8 @@ Esto se llama transición energética. Como sabemos que el petróleo y el carbó
 ### Explicación Pedagógica
 
 Esto se llama ética intergeneracional. Los recursos de la Tierra no son solo para nosotros; debemos administrarlos para que alcancen para los que vienen después, buscando siempre alternativas que no dañen su futuro.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -11,6 +11,9 @@ bundle_size: 20
 alignment: "DBA MEN + Pre-ICFES"
 modern_context: true
 distractor_profile: "plausible_peer_set"
+license: "FREE"
+tier: "legacy"
+
 ---
 # Bundle MASTERY: Literatura Universal Intro, Critica Textual (P1)
 
@@ -233,3 +236,8 @@ distractor_profile: "plausible_peer_set"
 - [ ] B) El significado es fijo y lo determina el autor. <!-- feedback: Incorrecto. El texto rechaza la idea de un significado unico. -->
 - [x] C) El significado se negocia entre el lector y el texto, con restricciones textuales. <!-- feedback: Correcto. Esta es la postura del lector implicito o la hermeneutica contemporanea: el lector participa en la construccion del sentido, pero el texto establece limites. -->
 - [ ] D) El texto no tiene significado. <!-- feedback: Incorrecto. El texto afirma que el significado existe pero no es fijo. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

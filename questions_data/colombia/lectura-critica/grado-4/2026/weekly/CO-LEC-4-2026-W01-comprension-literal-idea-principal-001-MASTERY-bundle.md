@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "idea principal, comprensión literal, textos cortos, información explícita"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W01: Comprensión literal: idea principal
@@ -234,3 +237,8 @@ Sintetizar título.
 
 ### Explicación Pedagógica Final
 Bundle de idea principal para grado 4. Contextos colombianos variados.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

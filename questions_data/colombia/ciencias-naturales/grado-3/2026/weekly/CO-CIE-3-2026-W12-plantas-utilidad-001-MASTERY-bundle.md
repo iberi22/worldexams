@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Utilidad de las plantas para el ser humano: alimenticias, medicinales, industriales y ornamentales."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Utilidad de las Plantas
@@ -267,3 +270,8 @@ Muchas plantas tienen utilidades múltiples. Conocerlas nos ayuda a valorar más
 ### Explicación Pedagógica
 
 Es importante equilibrar la utilidad económica (vender flores) con la utilidad ecológica (tener bosques). Las plantas nos dan riqueza, pero su utilidad más grande es mantener las condiciones necesarias para que la vida continúe en el planeta.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

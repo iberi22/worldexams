@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 2
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Las Sílabas
@@ -198,3 +201,8 @@ Un niño está escribiendo una carta y tiene dudas sobre dónde poner la tilde e
 
 ### Explicación Pedagógica
 La palabra "camión" termina en 'n' y tiene el acento en la última sílaba, por lo que es una palabra aguda y debe llevar tilde. La unión de la vocal cerrada 'i' y la abierta 'o' con tilde crea un diptongo tónico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

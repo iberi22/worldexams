@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Colombian Constitution 1991, rights, duties, branches of power, democratic principles"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Constitution 1991
@@ -241,3 +244,8 @@ A citizen is someone who ___.
 Citizenship means having both rights and responsibilities within a state.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Valor posicional de números hasta 9.999: unidades, decenas, centenas, unidades de mil; notación desarrollada; tablero posicional; equivalencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Valor Posicional — Grado 4
@@ -269,3 +272,8 @@ Armamos el número según las pistas: 6 en UM (6.000), 0 en C (0), 7 en D (70), 
 ### Explicación Pedagógica
 En 5.903, de derecha a izquierda: 3 unidades, 0 decenas, 9 centenas, 5 unidades de mil. El 9 está en centenas, por lo tanto su valor es 9 × 100 = 900. Sofía tiene la razón porque entendió correctamente el valor posicional del 9.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

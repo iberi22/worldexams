@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W14 — Porcentajes: Conceptos
@@ -253,3 +256,8 @@ Paso 2: baja 20%. Pero el 20% se calcula sobre $60.000, no sobre $50.000.
 Descuento = 20% de $60.000 = $12.000. Precio final = $60.000 - $12.000 = $48.000.
 El precio final ($48.000) es MENOR que el original ($50.000).
 Esto ocurre porque el porcentaje de bajada se aplica a una base mayor. En general, subir y bajar el mismo porcentaje siempre da un valor menor.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Greetings, introductions, and basic social expressions."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W01: Greetings and Introductions (CEFR A1)
@@ -251,3 +254,8 @@ Which combination is correct?
 ### Explicación Pedagógica
 This question tests understanding of time-based greetings in English. Good morning (before 12 PM), Good afternoon (12 PM - 6 PM), Good evening (after 6 PM). Good night is used only when saying goodbye at the end of the day or before sleeping. Errors typically involve confusing "good evening" with "good night" or misassigning time ranges.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

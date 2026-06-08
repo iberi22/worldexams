@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 5
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 1
@@ -200,3 +203,8 @@ Si alguien te dice: "**Abre el paraguas o te vas a mojar**".
 
 ### Explicación Pedagógica
 Evaluar la intención comunicativa (pragmática) cierra el ciclo de repaso del periodo 1. El estudiante debe entender la relación de causa-efecto planteada en el lenguaje cotidiano.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W35 — Repaso de Geometria
@@ -252,3 +255,8 @@ Resolucion en tres pasos:
 3. Volumen de tierra: V = 14.28 × 0.3 = 4.284 m³
 
 Don Pedro necesita 4.284 metros cubicos de tierra para llenar la jardinera.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

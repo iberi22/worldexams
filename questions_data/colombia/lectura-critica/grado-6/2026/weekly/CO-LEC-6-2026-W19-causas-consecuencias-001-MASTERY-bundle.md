@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "identificación de causas y consecuencias, relaciones de causalidad, cadenas de causa-efecto, conectores causales, explicación de fenómenos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Causas y Consecuencias
@@ -208,3 +211,8 @@ Reflexión final sobre el mensaje central del texto: la relación de causalidad 
 
 ### Explicación Pedagógica Final
 Bundle enfocado en la identificación y análisis de relaciones de causa y consecuencia. A través del caso real del río Fúquene en Cundinamarca, los estudiantes aprenden a reconocer causas múltiples, consecuencias directas e indirectas, cadenas causales y soluciones basadas en la comprensión de las causas. Contexto colombiano con un problema ambiental actual y relevante.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

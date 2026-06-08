@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "migraciones_cultura_global"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Migraciones y Cultura Global
@@ -170,3 +173,8 @@ Que es la globalizacion?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

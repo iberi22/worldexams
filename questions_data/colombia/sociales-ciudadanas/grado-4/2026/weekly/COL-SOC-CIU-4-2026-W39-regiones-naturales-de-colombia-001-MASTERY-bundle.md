@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Regiones naturales de Colombia: Caribe, Pacífica, Andina, Orinoquía, Amazonía, Insular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Regiones naturales de Colombia
@@ -236,3 +239,8 @@ Diseña una feria de las regiones naturales para tu colegio. ¿Qué incluirías?
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W39, aborda las seis regiones naturales de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

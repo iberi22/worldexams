@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Guerra Fría, bloques geopolíticos, Declaración Universal de Derechos Humanos, geografía política mundial, conflictos contemporáneos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Guerra Fría, Derechos Humanos y Geografía Política Mundial
@@ -336,3 +339,8 @@ La Constitución colombiana de 1991 permite al presidente declarar estados de ex
 
 ### Explicación Pedagógica
 El fin de la Guerra Fría no simplificó el mundo, sino que lo hizo más complejo. Pasamos de un orden bipolar predecible a un sistema multipolar con múltiples actores y desafíos: cambio climático, ciberseguridad, pandemias, desigualdad global y conflictos regionales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

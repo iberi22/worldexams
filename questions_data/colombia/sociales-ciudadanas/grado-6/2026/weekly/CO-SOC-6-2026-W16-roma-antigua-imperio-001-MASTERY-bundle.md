@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "roma_antigua_imperio"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Roma Antigua: El Imperio
@@ -182,3 +185,8 @@ Constantino legalizo:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Edicto de Milan (313 d.C.).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

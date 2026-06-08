@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "mi_barrio, comunidad_vecinal, servicios_publicos, espacios_comunitarios, convivencia_vecinal, organizacion_barrial, juntas_accion_comunal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mi Barrio
@@ -197,3 +200,8 @@ Carlos dice: "El cuidado del barrio es solo responsabilidad del alcalde, porque 
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la comprensión de la responsabilidad compartida en el cuidado del espacio público. En Colombia, la Constitución establece que es deber de todos los ciudadanos proteger los recursos culturales y naturales de la nación. El cuidado del barrio requiere la participación activa de autoridades, juntas de acción comunal, instituciones educativas y cada vecino.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

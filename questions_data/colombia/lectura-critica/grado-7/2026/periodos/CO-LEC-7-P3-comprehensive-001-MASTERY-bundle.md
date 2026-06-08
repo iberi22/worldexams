@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos_discontinuos, genero_narrativo, sintaxis_oracional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lenguaje / Lectura Crítica Grado 7 — Periodo 3
@@ -388,3 +391,8 @@ Analiza la siguiente oración compuesta: "Los estudiantes leyeron el libro, pero
 
 ### Explicación Pedagógica
 Las oraciones compuestas por coordinación unen oraciones independientes mediante conjunciones. Las adversativas (pero, sino, mas) expresan contraste u oposición entre las ideas. Son fundamentales en la argumentación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

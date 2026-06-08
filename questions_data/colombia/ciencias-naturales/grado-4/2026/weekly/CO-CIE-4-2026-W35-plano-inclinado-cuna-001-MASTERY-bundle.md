@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "plano inclinado, cuÃ±a, aplicaciones, ventaja mecÃ¡nica, herramientas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Plano inclinado y cuÃ±a â€” Grado 4 â€” W35
@@ -278,3 +281,8 @@ MÃ¡s largo: menos fuerza.
 Dientes incisivos: cuÃ±a para cortar.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

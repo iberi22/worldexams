@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Propiedades de la materia, estados, mezclas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Materia y sus Propiedades
@@ -238,3 +241,8 @@ La leche y la gelatina son coloides.
 ### Explicación Pedagógica
 
 Agua y arena en reposo forma suspensión.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

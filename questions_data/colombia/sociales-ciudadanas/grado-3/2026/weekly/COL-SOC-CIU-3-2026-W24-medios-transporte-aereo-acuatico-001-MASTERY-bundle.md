@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medios_transporte, aereo, avion, helicoptero, acuatico, barco, lancha, transporte_fluvial"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Medios de Transporte Aereo y Acuatico
@@ -181,3 +184,8 @@ Que pasaria si Colombia no tuviera transporte aereo ni acuatico?
 
 ### Explicacion Pedagogica
 El transporte aereo y acuatico es vital para conectar las regiones de Colombia y para el comercio.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

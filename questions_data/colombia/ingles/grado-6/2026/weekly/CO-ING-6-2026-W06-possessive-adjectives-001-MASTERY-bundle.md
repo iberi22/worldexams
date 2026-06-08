@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "possessive adjectives, describing family, simple sentences with to be"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Possessive Adjectives (W06)
@@ -227,3 +230,8 @@ En un diálogo, la persona A habla de los zapatos de la persona B. Por eso usa "
 "Its" es el posesivo de "it". Se usa para animales y cosas. El error común es confundir "its" (posesivo) con "it's" (it is = es/está).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

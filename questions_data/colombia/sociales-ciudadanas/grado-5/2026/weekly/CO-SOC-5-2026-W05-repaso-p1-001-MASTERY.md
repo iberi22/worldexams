@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso general conceptos geográficos básicos: continentes, océanos, mapas, orientación, representaciones de la Tierra"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Colombia está ubicada en el hemisferio norte, cerca del Ecuador. También está
 La ubicación de Colombia se describe con dos coordenadas: latitud (distancia desde el Ecuador) y longitud (distancia desde Greenwich). Está en el hemisferio norte (latitud 4° N) y en el hemisferio occidental (longitud 74° O).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

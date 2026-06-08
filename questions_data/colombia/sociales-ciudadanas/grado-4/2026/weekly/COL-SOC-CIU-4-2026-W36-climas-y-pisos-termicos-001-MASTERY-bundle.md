@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Climas y pisos térmicos de Colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Climas y pisos térmicos de Colombia
@@ -236,3 +239,8 @@ Diseña una actividad para que tus compañeros aprendan los pisos térmicos de f
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W36, aborda los climas y pisos térmicos de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

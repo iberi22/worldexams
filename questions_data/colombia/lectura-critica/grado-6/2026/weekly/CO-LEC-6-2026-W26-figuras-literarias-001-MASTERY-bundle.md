@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "figuras literarias, recursos estilísticos, lenguaje figurado, metáfora, símil, personificación, hipérbole, onomatopeya, aliteración"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Figuras Literarias
@@ -218,3 +221,8 @@ Reflexión sobre el propósito de las figuras literarias: el lenguaje literal in
 
 ### Explicación Pedagógica Final
 Bundle enfocado en figuras literarias: identificación de metáfora, símil, personificación, hipérbole, onomatopeya y aliteración a través de fragmentos inspirados en paisajes y cultura colombiana (Barbosa, Santander; Pacífico colombiano; Sierra Nevada del Cocuy). Los estudiantes aprenden a distinguir entre tipos de figuras, a interpretar imágenes poéticas y a comprender por qué los escritores eligen el lenguaje figurado para crear belleza y emoción.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

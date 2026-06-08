@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "conflict resolution, dialogue, mediation, tolerance, coexistence, peace culture"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Conflict Resolution
@@ -241,3 +244,8 @@ Which skill helps resolve conflicts peacefully?
 Empathy (understanding others' feelings) helps find peaceful solutions.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

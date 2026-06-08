@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "entidades territoriales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Entidades territoriales: municipios, departamentos y resguardos — W31
@@ -560,3 +563,8 @@ En la clase de la Institución Educativa de Medellín, los estudiantes analizan 
 ### Explicación Pedagógica
 
 El estudio de las las entidades territoriales colombianas colombianas es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre las las entidades territoriales colombianas colombianas es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

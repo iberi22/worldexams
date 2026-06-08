@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Grupos étnicos: pueblos indígenas colombianos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Grupos étnicos — Indígenas colombianos
@@ -236,3 +239,8 @@ Diseña una actividad para que los estudiantes de tu colegio conozcan mejor la c
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W23, aborda los pueblos indígenas colombianos: su cultura, territorios, lenguas y derechos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

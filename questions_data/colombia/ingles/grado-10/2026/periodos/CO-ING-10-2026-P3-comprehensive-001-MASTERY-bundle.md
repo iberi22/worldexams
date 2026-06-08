@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "reading_comprehension_B1, modal_perfect, must_have, might_have, should_have, could_have, inferential_reading"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Ingles Grado 10 - Periodo 3
@@ -362,3 +365,8 @@ Which version BEST demonstrates mastery of perfect modal verbs?
 
 ### Explicacion Pedagogica
 Option B demonstrates B1 mastery: (1) 'Should have prepared' (regret/criticism), (2) 'Could have researched' (missed opportunity/ability), (3) 'Might have impressed' (unrealized possibility), (4) 'Must have made' (logical deduction). The text weaves these modals into a coherent analysis of past events, showing advanced grammatical control.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

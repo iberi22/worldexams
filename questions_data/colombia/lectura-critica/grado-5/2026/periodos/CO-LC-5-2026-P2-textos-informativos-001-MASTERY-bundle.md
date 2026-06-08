@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos informativos, noticia, artículo, idea principal, datos clave"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Informativos
@@ -241,3 +244,8 @@ El reportaje es un texto informativo que investiga un tema en profundidad.
 La idea principal resume el tema central del texto informativo.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

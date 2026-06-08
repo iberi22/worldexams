@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso: reinos, respiración, circulación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Período 1 G5
@@ -238,3 +241,8 @@ Se mide con sismógrafo y escala Richter.
 ### Explicación Pedagógica
 
 El método científico usa observación y experimentación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

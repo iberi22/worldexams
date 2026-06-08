@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecosistemas_colombia, reacciones_quimicas, energia_mecanica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciencias Naturales Grado 7 — Periodo 3
@@ -366,3 +369,8 @@ Usando conservación de la energía mecánica ($g = 10$ m/s²), ¿cuál es la ve
 
 ### Explicación Pedagógica
 Por el principio de conservación de la energía mecánica (sin rozamiento): $E_p$ inicial = $E_c$ final, por lo tanto $mgh = \frac{1}{2}mv^2$, y $v = \sqrt{2gh}$.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

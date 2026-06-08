@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W23 — Causa y Efecto en Textos
@@ -284,3 +287,8 @@ Un estudiante escribió el siguiente párrafo:
 
 Una de las falacias más comunes es confundir correlación con causalidad. Que dos cosas ocurran al mismo tiempo o una después de la otra no significa que una sea causa de la otra. Para establecer una relación causal válida necesitamos: (1) que la causa preceda al efecto, (2) que exista un mecanismo que las conecte, y (3) que no haya otras explicaciones posibles.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

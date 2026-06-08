@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "comparación de textos, semejanzas y diferencias, propósito comunicativo, género textual, punto de vista, recursos lingüísticos, contraste de perspectivas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Comparación de Textos
@@ -220,3 +223,8 @@ Los textos narrativos tienen la ventaja de generar conexión emocional y empatí
 
 ### Explicación Pedagógica Final
 Bundle enfocado en la comparación de textos sobre un mismo tema (fiestas tradicionales colombianas) pero con géneros, propósitos y recursos diferentes. Los estudiantes aprenden a identificar semejanzas y diferencias en propósito, tono, recursos lingüísticos, enfoque y utilidad según distintos fines de lectura. Contexto colombiano con el pueblo de San Jerónimo en Antioquia y datos culturales del país.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

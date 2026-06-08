@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for parts of the face: eyes, nose, mouth, ears, hair."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W12: My Face (A1)
@@ -221,3 +224,8 @@ Complete: **"I see with my _______."**
 
 ### Explicación Pedagógica
 Vemos (see) con los ojos (eyes).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

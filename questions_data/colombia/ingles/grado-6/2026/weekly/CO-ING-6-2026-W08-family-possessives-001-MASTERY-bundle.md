@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "possession with 's, possessive adjectives review, family vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Family and Possessives (W08)
@@ -227,3 +230,8 @@ El apóstrofe es esencial para indicar posesión. Sin él, las oraciones cambian
 Para resolver relaciones familiares: sigue la cadena. Luis → Ana (hija). Ana → Carlos (hijo). Por lo tanto Luis → Carlos (abuelo → nieto).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

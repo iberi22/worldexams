@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos_continuos, textos_discontinuos, interpretacion_graficas, lectura_tablas, infografias, comprension_multimodal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Lectura Crítica Grado 10 - Periodo 3
@@ -535,3 +538,7 @@ Fuente 2 (Informe de la Defensoría del Pueblo): "El 40% de los estudiantes en z
 
 ### Explicación Pedagógica
 Evaluar y crear una postura propia requiere integrar fuentes diversas, no elegir una y descartar la otra. Ambas fuentes pueden ser correctas: una mide avances en cobertura (Ministerio), la otra señala deficiencias persistentes (Defensoría). La postura crítica más sólida reconoce la complejidad.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

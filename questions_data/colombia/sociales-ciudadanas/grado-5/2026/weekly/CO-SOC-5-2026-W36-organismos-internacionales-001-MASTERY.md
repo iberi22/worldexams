@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Organismos internacionales: ONU, OEA, UNICEF, derechos humanos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que son importantes los organismos internacionales para Colombia?
 Los organismos internacionales facilitan la cooperacion en temas como paz, derechos humanos, comercio y medio ambiente, fortaleciendo la democracia y el desarrollo.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

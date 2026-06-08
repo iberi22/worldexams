@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Grupos étnicos: afrocolombianos y sus aportes culturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Grupos étnicos — Afrocolombianos
@@ -236,3 +239,8 @@ Diseña una actividad para el colegio que visibilice los aportes afrocolombianos
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W24, explica los grupos étnicos afrocolombianos y sus aportes culturales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 20
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 4
@@ -201,3 +204,8 @@ Repaso de secuencia de eventos (Semana 19). La reconstrucción de la línea de t
 
 ### Explicación Pedagógica
 Diferenciar entre lenguaje figurado/literario y lenguaje informativo/científico es una habilidad de análisis crítico fundamental para el uso de fuentes de información en primaria.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

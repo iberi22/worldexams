@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Comunidad, barrio, convivencia vecinal, espacios públicos, relaciones de vecindad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Comunidad y Barrio
@@ -236,3 +239,8 @@ Se evalúa la capacidad creativa para proponer soluciones a problemas comunitari
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 1, aborda el tema de Comunidad y Barrio desde una perspectiva colombiana. Evalúa la comprensión del concepto de comunidad, las características del barrio, los espacios públicos, la Junta de Acción Comunal, la resolución de conflictos vecinales, la diferencia entre barrio abierto y conjunto cerrado, y la importancia de la participación comunitaria. El objetivo es que los estudiantes reconozcan su barrio como el primer espacio de participación ciudadana y valoren la convivencia y el trabajo colectivo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

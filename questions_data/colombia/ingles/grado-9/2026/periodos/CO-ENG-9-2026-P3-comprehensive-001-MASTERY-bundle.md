@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "basic phrasal verbs, narrative writing"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Phrasal Verbs and Narrative Writing (CEFR B1)
@@ -337,3 +340,8 @@ Which paragraph best demonstrates B1 narrative writing with phrasal verbs?
 
 ### Explicación Pedagógica
 Good B1 narrative writing: 1) Has a clear story structure (beginning, middle, end), 2) Uses past tenses effectively, 3) Includes phrasal verbs naturally, 4) Uses time connectives, 5) Shows creativity and descriptive language.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

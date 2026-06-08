@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Energía renovable y no renovable"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Energía: Fuentes y Transformación
@@ -238,3 +241,8 @@ Centrales térmicas: ~40% eficiencia.
 ### Explicación Pedagógica
 
 Reduce vulnerabilidad geopolítica.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

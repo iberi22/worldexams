@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 9
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Fábula
@@ -199,3 +202,8 @@ Un autor decide escribir una fábula donde el personaje que siempre miente (el p
 
 ### Explicación Pedagógica
 Evaluar temas abstractos como la "confianza" a través de una narración es un ejercicio de madurez lectora. El estudiante debe juzgar el comportamiento humano representado en la fábula y extraer una conclusión ética.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

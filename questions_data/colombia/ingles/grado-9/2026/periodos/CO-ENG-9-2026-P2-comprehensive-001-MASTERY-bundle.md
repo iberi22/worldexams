@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "second conditional, introductory reported speech"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Second Conditional and Reported Speech (CEFR B1)
@@ -337,3 +340,8 @@ Which paragraph correctly and naturally combines both structures?
 
 ### Explicación Pedagógica
 Combining reported speech and conditionals shows advanced B1 proficiency. The structure: reporting verb (said) + that + second conditional clause. "The expert said that if Colombia invested more in renewable energy, it would reduce carbon emissions."
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "primeras_civilizaciones_mesopotamia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Primeras Civilizaciones: Mesopotamia
@@ -190,3 +193,8 @@ Que unifico a los imperios acadio, babilonico y asirio?
 > **Respuesta correcta:** C
 
 **Retroalimentacion:** Acadios, babilonios y asirios controlaron la region mesopotamica en distintos periodos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

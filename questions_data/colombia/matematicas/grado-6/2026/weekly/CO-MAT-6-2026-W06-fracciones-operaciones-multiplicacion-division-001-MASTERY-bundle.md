@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W06 — Fracciones: Multiplicacion y Division
@@ -258,3 +261,8 @@ Resolvamos paso a paso:
 Paso 1: Multiplicacion: 3/4 × 2/5 = (3×2)/(4×5) = 6/20 = 3/10.
 Paso 2: Division: 3/10 ÷ 1/2 = 3/10 × 2/1 = (3×2)/(10×1) = 6/10 = 3/5.
 Ana hizo correctamente ambos pasos ✓. Carlos solo hizo la multiplicacion. Maria sumo denominadores. Juan calculo mal la multiplicacion y luego la division.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

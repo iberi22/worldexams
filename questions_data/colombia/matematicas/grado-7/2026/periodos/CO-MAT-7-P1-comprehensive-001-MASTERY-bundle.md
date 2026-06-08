@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "numeros_racionales, proporcionalidad, triangulos, geometria_basica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matemáticas Grado 7 — Periodo 1
@@ -368,3 +371,8 @@ Si un grupo de 7 amigos quiere ir al Nevado del Tolima, ¿cuál es la opción m�
 
 ### Explicación Pedagógica
 En problemas de optimización, se deben calcular los costos totales de cada opción considerando las restricciones (como el límite de personas por grupo), y comparar.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

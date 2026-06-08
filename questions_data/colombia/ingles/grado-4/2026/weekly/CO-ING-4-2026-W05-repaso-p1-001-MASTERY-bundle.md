@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Cumulative review of greetings, introductions, alphabet, spelling, numbers 1-100, colors, and basic adjectives."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W05: REPASO P1 — Cumulative Review (CEFR A1)
@@ -252,3 +255,8 @@ Read the dialogue. Which option fills BOTH blanks correctly?
 ### Explicación Pedagógica
 This review question combines greetings (W01) with age numbers (W03). Students must understand that "How old are you?" (¿Cuántos años tienes?) is the question that elicits an age answer. Matching the question to the expected answer type is a key conversational skill.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

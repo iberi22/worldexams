@@ -22,6 +22,9 @@ coverage:
   - "P2: Grammar — present perfect, conditionals type 1 and 2"
   - "P3: Vocabulary — environment, technology, Colombian culture in English"
   - "P4: Writing strategies — text organization, coherence, cohesion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: English Grade 9 — Periods 1–4 (CEFR B1)
@@ -378,3 +381,8 @@ Which of the following conclusions best synthesizes both perspectives?
 
 ### Explicación Pedagógica
 Synthesis (the highest level of thinking) involves integrating multiple perspectives to form a new, more complete understanding. A good synthesis does not simply choose one side but finds a solution that incorporates valid concerns from all sides. This reflective and systemic thinking is exactly what the ICFES test evaluates at the highest level.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

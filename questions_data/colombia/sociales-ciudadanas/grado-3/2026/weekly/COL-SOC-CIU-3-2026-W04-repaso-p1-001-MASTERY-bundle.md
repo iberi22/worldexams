@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_periodo_1, mi_colegio, mi_familia, mi_barrio, integracion_temas, evaluacion_periodo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Período 1
@@ -197,3 +200,8 @@ Después de estudiar el colegio, la familia y el barrio, un estudiante dice: "Mi
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la capacidad de formar un juicio propio sobre la importancia de los diferentes espacios sociales. Aunque la educación y el trabajo son importantes, el barrio cumple una función social esencial como espacio de convivencia, solidaridad y construcción de comunidad. Todos los espacios estudiados contribuyen al desarrollo integral de la persona.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

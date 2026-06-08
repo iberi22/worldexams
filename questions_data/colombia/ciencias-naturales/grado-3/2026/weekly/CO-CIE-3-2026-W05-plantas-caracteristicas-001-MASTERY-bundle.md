@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Características generales de las plantas: autótrofas, sésiles y estructura básica."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Mundo de las Plantas
@@ -267,3 +270,8 @@ Las plantas insectívoras viven en suelos muy pobres. Aunque atrapan hormigas o 
 ### Explicación Pedagógica
 
 La vida no es solo apariencia. Ser planta requiere una organización celular microscópica que permite transformar la materia inerte (agua, aire, luz) en materia viva. El arte imita la vida, pero no puede reemplazar sus funciones biológicas reales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

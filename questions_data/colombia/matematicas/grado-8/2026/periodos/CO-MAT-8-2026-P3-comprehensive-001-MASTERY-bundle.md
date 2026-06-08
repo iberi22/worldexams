@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "factorización, función afín y lineal, probabilidad compuesta, eventos independientes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Factorización, Función Afín y Probabilidad Compuesta
@@ -336,3 +339,8 @@ En eventos dependientes (sin reemplazo), la probabilidad de que ambos ocurran es
 
 ### Explicación Pedagógica
 Para la unión de eventos independientes, $P(A \cup B) = P(A) + P(B) - P(A)P(B)$. También se puede calcular como $1 - P(\text{ninguno falle}) = 1 - (0.98)(0.97) = 1 - 0.9506 = 0.0494$.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

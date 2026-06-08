@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "comprehensive review: semester 1 topics W01-W18"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Semester 1 Review (W37)
@@ -228,3 +231,8 @@ Reading comprehension: identify the activity at each time. 5 AM = wake up, 6 AM 
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

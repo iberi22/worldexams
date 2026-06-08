@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W09 — Potenciacion: Propiedades
@@ -270,3 +273,8 @@ Paso 1: Producto en el numerador: 2⁴ × 2² = 2^(4+2) = 2⁶.
 Paso 2: Division: 2⁶ ÷ 2³ = 2^(6-3) = 2³.
 Respuesta correcta: 2³ = 8.
 Regla general: cuando hay multiplicaciones y divisiones consecutivas con la misma base, los exponentes se suman (multiplicacion) y se restan (division) en orden: (4+2) - 3 = 3.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

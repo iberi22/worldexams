@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso p4"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso: economía, sociedad e Iglesia-Estado S.XIX — W16
@@ -344,3 +347,8 @@ Para cerrar el periodo, el docente del Colegio de Cali organiza un repaso genera
 ### Explicación Pedagógica
 
 El estudio de repaso p4 es fundamental para comprender la realidad colombiana. ¿Cuál de los siguientes conceptos está relacionado con repaso p4? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

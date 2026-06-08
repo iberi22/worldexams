@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "constitucion_politica_1991, ramas_del_poder_publico, mecanismos_participacion_ciudadana, derechos_fundamentales, organizacion_territorial"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY Grado 10 — Sociales y Ciudadanas, Periodo 1, Bundle 002
@@ -455,3 +458,7 @@ Segun el principio de jerarquia normativa en Colombia, que debe prevalecer?
 
 ### Options
 - [
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "geopolitica_actores_globales, globalizacion_economica_cultural, conflicto_armado_colombiano, procesos_paz, organismos_internacionales, derechos_humanos_conflicto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Periodo 3
@@ -465,3 +468,7 @@ La justicia climática vincula cambio climático con desigualdad global. Países
 La geopolítica del siglo XXI exige equilibrar múltiples relaciones. La diversificación estratégica evita la dependencia excesiva de un solo socio preservando el margen de maniobra.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

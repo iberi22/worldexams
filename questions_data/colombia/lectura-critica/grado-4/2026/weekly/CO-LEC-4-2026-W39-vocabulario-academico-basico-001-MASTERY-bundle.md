@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "vocabulario académico, palabras formales, definiciones, uso en contexto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W39: Vocabulario académico básico
@@ -234,3 +237,8 @@ Aplicar.
 
 ### Explicación Pedagógica Final
 Bundle vocabulario académico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

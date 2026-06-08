@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "problemas de logica, secuencias, relaciones numericas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W39: Razonamiento Matematico
@@ -223,3 +226,8 @@ Que numero sigue: 2, 4, 6, 8, __?
 Patron: suma 2 cada vez. 2, 4, 6, 8, 10.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

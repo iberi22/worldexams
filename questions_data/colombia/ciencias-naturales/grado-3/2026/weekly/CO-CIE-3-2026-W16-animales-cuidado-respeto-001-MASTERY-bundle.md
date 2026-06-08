@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Cuidado y respeto por los animales: bienestar animal, tenencia responsable y protección de la fauna silvestre."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Cuidado y Respeto por los Animales
@@ -267,3 +270,8 @@ No podemos decir que respetamos a los animales si destruimos sus bosques. El res
 ### Explicación Pedagógica
 
 El respeto animal es una cuestión de ética humana. Reconocer que otros seres vivos comparten el planeta con nosotros y tienen derecho a no sufrir es el nivel más alto de conciencia que podemos alcanzar como especie.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

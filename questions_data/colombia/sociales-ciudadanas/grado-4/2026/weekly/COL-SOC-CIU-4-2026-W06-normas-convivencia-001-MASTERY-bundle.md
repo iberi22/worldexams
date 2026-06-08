@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Normas de convivencia, reglas, respeto, tolerancia, resolución pacífica de conflictos, manual de convivencia, acuerdos, ciudadanía"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Normas de Convivencia
@@ -236,3 +239,8 @@ Se evalúa la capacidad creativa para proponer normas de convivencia equilibrada
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 6, aborda las Normas de Convivencia desde el contexto colombiano. Evalúa la comprensión del concepto de norma, el Manual de Convivencia escolar, la resolución pacífica de conflictos, la tolerancia y el respeto por la diversidad, la aplicación de normas en la familia y la comunidad, los mecanismos democráticos para modificar normas, y la capacidad de proponer reglas justas y equilibradas. El objetivo es que los estudiantes comprendan que las normas no son restricciones arbitrarias sino acuerdos necesarios para la vida armónica en sociedad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

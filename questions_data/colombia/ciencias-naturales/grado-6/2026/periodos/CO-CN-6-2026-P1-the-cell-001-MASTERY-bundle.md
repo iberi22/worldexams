@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "cell, cell theory, organelles, plant cell, animal cell, unicellular, multicellular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: The Cell
@@ -241,3 +244,8 @@ Red blood cells are disc-shaped to ___.
 The disc shape of red blood cells increases surface area for oxygen transport.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

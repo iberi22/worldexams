@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Servicios públicos, acueducto, alcantarillado, energía eléctrica, gas, aseo, reciclaje, pago de servicios, uso responsable"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Servicios Públicos
@@ -236,3 +239,8 @@ Se evalúa la capacidad creativa para implementar prácticas de reciclaje. La re
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 2, aborda el tema de Servicios Públicos desde el contexto colombiano. Evalúa el conocimiento de los servicios domiciliarios básicos (agua, energía, gas, alcantarillado, aseo), su importancia para la salud y el bienestar, la lectura de facturas, el ahorro, el reciclaje y la responsabilidad ciudadana en su uso. El objetivo es que los estudiantes reconozcan el valor de los servicios públicos y desarrollen hábitos de consumo responsable.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

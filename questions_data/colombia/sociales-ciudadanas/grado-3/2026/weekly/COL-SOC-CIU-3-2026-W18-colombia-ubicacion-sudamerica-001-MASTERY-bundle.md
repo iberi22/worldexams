@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "colombia, ubicacion_sudamerica, mapa, fronteras, geografia_colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombia: Nombre y Ubicacion en Sudamerica
@@ -181,3 +184,8 @@ Por que es importante conocer la ubicacion de Colombia?
 
 ### Explicacion Pedagogica
 Conocer la ubicacion de Colombia ayuda a entender nuestra identidad y relacion con el mundo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

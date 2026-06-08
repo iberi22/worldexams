@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "salud_prevencion, nomenclatura_quimica, electricidad_basica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciencias Naturales Grado 7 — Periodo 4
@@ -366,3 +369,8 @@ En la clase de ciencias de la I.E. Técnica de Barrancabermeja, se realiza un ex
 
 ### Explicación Pedagógica
 La electricidad estática se produce por la transferencia de electrones entre dos materiales al frotarlos. El peine cargado atrae objetos neutros por el fenómeno de inducción electrostática.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

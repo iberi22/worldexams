@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Respiratorio, circulatorio, relación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Sistema Respiratorio y Circulatorio
@@ -238,3 +241,8 @@ Conectan arterias y venas.
 ### Explicación Pedagógica
 
 Contienen hemoglobina que une oxígeno.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

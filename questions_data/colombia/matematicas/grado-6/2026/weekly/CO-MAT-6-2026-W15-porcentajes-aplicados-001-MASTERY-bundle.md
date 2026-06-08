@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W15 — Porcentajes Aplicados
@@ -257,3 +260,8 @@ Tienda A (lleve 3 pague 2): Paga 2 vestidos ($200.000) y lleva 3.
 Precio por vestido: $200.000 ÷ 3 = $66.667. Descuento efectivo: 33,3%.
 Tienda B (30% descuento): Precio por vestido: $100.000 × 0,70 = $70.000. Descuento: 30%.
 La Tienda A ofrece cada vestido a $66.667, que es mas barato que los $70.000 de la Tienda B. La oferta "lleve 3 pague 2" equivale a un 33,3% de descuento.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

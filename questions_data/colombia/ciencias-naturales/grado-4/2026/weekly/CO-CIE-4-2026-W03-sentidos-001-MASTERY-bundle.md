@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Órganos de los sentidos: vista (ojos), oído (orejas), olfato (nariz), gusto (lengua), tacto (piel); funciones y cuidados"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Los Sentidos — Grado 4
@@ -268,3 +271,8 @@ El **gusto** y el **olfato** están estrechamente relacionados. Cuando masticamo
 
 ### Explicación Pedagógica
 Cada sentido tiene un tipo específico de estímulo que puede detectar. El **tacto** (piel) detecta presión, temperatura, textura y dolor. El **oído** (oídos) detecta ondas sonoras. Por eso escuchar el canto de un pájaro es una función exclusiva del oído, no del tacto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

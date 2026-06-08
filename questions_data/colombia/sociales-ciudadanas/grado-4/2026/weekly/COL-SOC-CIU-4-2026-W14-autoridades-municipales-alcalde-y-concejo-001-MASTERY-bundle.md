@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Autoridades del municipio colombiano: el alcalde y el concejo municipal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Autoridades municipales (alcalde y concejo)
@@ -246,3 +249,7 @@ Se evalúa [Create].
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W14, aborda el tema de Autoridades municipales (alcalde y concejo) desde una perspectiva colombiana.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

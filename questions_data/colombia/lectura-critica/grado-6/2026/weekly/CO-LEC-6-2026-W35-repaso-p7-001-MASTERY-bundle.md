@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W35 — REPASO Periodo 7
@@ -273,3 +276,8 @@ Durante el Periodo 7 estudiaste tres géneros: el teatro, la historieta y la car
 El Periodo 7 te introdujo a los textos multimodales: aquellos que usan más de un lenguaje para comunicarse. El teatro no es solo texto: es actuación, voz, movimiento, luz, sonido. La historieta no es solo dibujo: es secuencia, diálogo, simbolismo visual. La caricatura no es solo un retrato exagerado: es opinión, crítica, sátira. Comprender cómo se combinan estos lenguajes te hace un lector más completo y crítico.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

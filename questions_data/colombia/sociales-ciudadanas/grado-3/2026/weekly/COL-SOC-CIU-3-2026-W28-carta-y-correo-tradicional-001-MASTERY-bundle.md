@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "carta, correo_tradicional, comunicacion_escrita, postal, 4-72, mensajeria"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Carta y el Correo Tradicional
@@ -181,3 +184,8 @@ La tecnologia ha hecho que la comunicacion escrita sea mas rapida a traves de em
 
 ### Explicacion Pedagogica
 Las cartas tradicionales aun tienen valor en contextos formales y en comunidades sin acceso digital.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

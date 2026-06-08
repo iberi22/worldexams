@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W34 — Volumen (Cilindro, Cono, Esfera)
@@ -237,3 +240,8 @@ Una empresa de dulces en Boyaca quiere envasar bocadillos en esferas de chocolat
 
 ### Explicacion Pedagogica
 La caja cubica tiene de lado el diametro de la esfera: lado = 2 × r = 8 cm. V_caja = 8³ = 512 cm³. V_esfera = (4/3) × π × 64 = (4/3) × 3.14 × 64 = (4/3) × 200.96 = 267.95 cm³. El espacio vacio es V_caja - V_esfera = 512 - 267.95 = 244.05 cm³. Esto significa que aproximadamente el 47.7% de la caja esta vacio.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

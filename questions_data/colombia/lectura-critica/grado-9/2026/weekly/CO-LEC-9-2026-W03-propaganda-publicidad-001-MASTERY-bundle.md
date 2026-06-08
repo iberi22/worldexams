@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "propaganda, publicidad, persuasion, estrategias retoricas, omision selectiva, apelacion emocional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G9 — Analisis de Campanas Publicitarias en Colombia
@@ -215,3 +218,7 @@ El analisis permite distinguir entre:
 
 ### Explicación Pedagógica Final
 Bundle para grado 9 — Semana 03. Tema: Propaganda Publicidad. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

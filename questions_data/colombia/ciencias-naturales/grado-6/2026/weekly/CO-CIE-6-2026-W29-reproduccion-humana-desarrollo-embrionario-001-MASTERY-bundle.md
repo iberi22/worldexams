@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W29 — Reproducción Humana y Desarrollo Embrionario
@@ -357,3 +360,8 @@ La **lactancia materna** es el estándar de oro para la alimentación infantil p
 - Lactancia complementada hasta los 2 años o más
 - En Colombia, la Ley 1822 de 2017 estableció la licencia de maternidad de 18 semanas para fomentar la lactancia
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

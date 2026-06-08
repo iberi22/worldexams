@@ -21,6 +21,9 @@ coverage:
   - "P2: Democracia y participación ciudadana — mecanismos de participación, ramas del poder público"
   - "P3: Derechos humanos y Constitución de 1991 — derechos fundamentales, sociales y colectivos"
   - "P4: Colombia en el siglo XX — conflicto armado, procesos de paz, desplazamiento"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sociales y Ciudadanas Grado 9 — Periodos 1–4
@@ -344,3 +347,8 @@ Colombia es uno de los países más biodiversos del mundo y también uno de los 
 - [ ] B) Aumentar la explotación de recursos para generar más ingresos que se redistribuyan equitativamente. <!-- feedback: Incorrect. Asume que más extracción automáticamente llevará a más redistribución, lo cual no ha ocurrido históricamente. -->
 - [ ] C) Dejar la decisión exclusivamente a las empresas privadas que explotan los recursos. <!-- feedback: Incorrect. Ignora la responsabilidad del Estado en la regulación y redistribución. -->
 - [x] D) Implementar una reforma que combine: regulación ambiental estricta, consulta previa efectiva, redistribución de regalías hacia los territorios extractivos, diversificación económica local y fortalecimiento institucional en las regiones más pobres. <!-- feedback: Correct. Un enfoque sistémico aborda múltiples dimensiones del problema: ambiental, social, económica e institucional. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

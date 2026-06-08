@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derechos_nino, proteccion, identidad, recreacion, derecho_juego, familia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Derechos del Nino: Proteccion, Identidad y Recreacion
@@ -181,3 +184,8 @@ El juego desarrolla creatividad, habilidades sociales y motricidad.
 
 ### Explicacion Pedagogica
 El derecho a la recreacion no es un lujo, es una necesidad infantil.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "servicio publico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Función pública: carrera administrativa y meritocracia — W17
@@ -560,3 +563,8 @@ Los estudiantes de grado 11 en la I.E. de Bucaramanga exploran la función públ
 ### Explicación Pedagógica
 
 El estudio de la función pública en Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la función pública en Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

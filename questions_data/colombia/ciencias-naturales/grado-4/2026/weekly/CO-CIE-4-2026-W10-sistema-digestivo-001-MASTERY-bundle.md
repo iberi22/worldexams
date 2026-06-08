@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "sistema digestivo, boca, esÃ³fago, estÃ³mago, intestino delgado, intestino grueso"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema digestivo: Ã³rganos y funciÃ³n â€” Grado 4 â€” W10
@@ -278,3 +281,8 @@ Moco protege pared estomacal.
 Digestivo: transforma alimentos en nutrientes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

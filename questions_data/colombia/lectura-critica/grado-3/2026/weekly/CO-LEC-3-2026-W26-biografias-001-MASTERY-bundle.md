@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 26
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Biografías
@@ -206,3 +209,8 @@ Al leer la biografía de una científica colombiana que descubrió una cura para
 
 ### Explicación Pedagógica
 Evaluar la objetividad en los textos biográficos es fundamental. A menudo los biógrafos admiran a sus sujetos, y el estudiante debe saber distinguir entre los logros reales y los elogios del autor.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

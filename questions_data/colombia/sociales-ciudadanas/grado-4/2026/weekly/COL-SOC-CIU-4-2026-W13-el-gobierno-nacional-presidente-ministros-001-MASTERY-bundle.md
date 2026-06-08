@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "El Gobierno Nacional colombiano: presidente y ministros"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Gobierno Nacional (presidente, ministros)
@@ -246,3 +249,7 @@ Se evalúa [Create].
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W13, aborda el tema de El Gobierno Nacional (presidente, ministros) desde una perspectiva colombiana.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

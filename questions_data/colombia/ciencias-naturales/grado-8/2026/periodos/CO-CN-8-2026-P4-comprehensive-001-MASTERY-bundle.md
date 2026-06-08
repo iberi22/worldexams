@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "biotecnología, ADN recombinante, nomenclatura química, compuestos inorgánicos, circuitos eléctricos, ley de Ohm"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Biotecnología, Nomenclatura Química y Electricidad
@@ -336,3 +339,8 @@ En las instalaciones eléctricas domésticas, los bombillos se conectan en paral
 
 ### Explicación Pedagógica
 La tecnología del ADN recombinante revolucionó la producción de fármacos. Al insertar el gen humano de la insulina en un plásmido bacteriano, las bacterias producen insulina humana pura en grandes cantidades, a bajo costo y sin riesgo de contaminación con patógenos animales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

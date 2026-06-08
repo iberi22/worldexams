@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "inferencia, causas, relaciones causales, por qué"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W06: Comprensión inferencial: inferir causas
@@ -234,3 +237,8 @@ Seleccionar causa razonable.
 
 ### Explicación Pedagógica Final
 Bundle sobre inferencia de causas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 32
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 7
@@ -210,3 +213,8 @@ yo le presto mi atención".
 
 ### Explicación Pedagógica
 Evaluar el uso de figuras literarias complejas como la personificación permite al estudiante comprender cómo se anima la realidad en la literatura infantil.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

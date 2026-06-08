@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "reacciones_oxido_reduccion, balanceo_ecuaciones, mol_y_masa_molar, ondas_sonoras, fenomenos_ondulatorios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY Grado 10 — Ciencias Naturales, Periodo 1, Bundle 002
@@ -489,3 +492,7 @@ L = 21.25 cm = 0.2125 m.
 Este resultado coincide con la velocidad del sonido en el aire a temperatura ambiente (20-25 grados C). La resonancia ocurre cuando la frecuencia del diapason coincide con una frecuencia natural del tubo.
 
 ### Options
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

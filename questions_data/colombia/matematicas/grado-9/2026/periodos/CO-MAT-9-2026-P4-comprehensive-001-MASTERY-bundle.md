@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistemas de ecuaciones 3x3, geometría analítica (distancia entre puntos, ecuación de la recta), probabilidad condicional y eventos independientes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistemas 3x3, Geometría Analítica y Probabilidad Avanzada
@@ -339,3 +342,8 @@ Cual es la cantidad de vehiculos de cada tipo?
 
 ### Explicacion Pedagogica
 Resolviendo el sistema: de x=3y y z=x+y+20, sustituimos en x+y+z=180. 3y+y+(3y+y+20)=180, 8y=160, y=20. Luego x=60, z=60+20+20=100. La solucion es (60,20,100).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

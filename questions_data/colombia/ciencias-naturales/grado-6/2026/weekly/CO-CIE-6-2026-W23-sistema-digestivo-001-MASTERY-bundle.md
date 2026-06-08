@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W23 — Sistema Digestivo
@@ -179,3 +182,7 @@ La microbiota (100 billones de bacterias) ayuda a digerir fibra y produce vitami
 ### Explicación Pedagógica
 Hábitos saludables: masticar bien, porciones moderadas, fibra (frutas, verduras), probióticos, agua, no acostarse tras comer (esperar 2-3h), evitar exceso de grasas y picante.
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

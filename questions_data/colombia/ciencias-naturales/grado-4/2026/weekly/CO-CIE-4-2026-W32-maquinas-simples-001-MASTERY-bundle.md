@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "mÃ¡quinas simples, palanca, polea, plano inclinado, ventaja mecÃ¡nica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: MÃ¡quinas simples (palanca, polea, plano inclinado) â€” Grado 4 â€” W32
@@ -278,3 +281,8 @@ Mayor distancia: menor fuerza.
 MÃ¡quinas: transforman, no crean.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral: seres vivos, plantas, animales y fotosíntesis."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Integral: La Vida en la Tierra
@@ -267,3 +270,8 @@ La metamorfosis permite que el animal se adapte a diferentes necesidades: la oru
 ### Explicación Pedagógica
 
 Existen seres como las algas que no parecen plantas típicas (no tienen flores ni raíces verdaderas), pero como hacen fotosíntesis, se agrupan con los productores de energía del planeta. Lo que define a una "planta" en sentido amplio es su capacidad autótrofa.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

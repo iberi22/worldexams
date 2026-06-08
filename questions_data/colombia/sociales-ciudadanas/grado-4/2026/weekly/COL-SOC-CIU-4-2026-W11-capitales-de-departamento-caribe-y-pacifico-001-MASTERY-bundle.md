@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Capitales de los departamentos de las regiones Caribe y Pacífico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Capitales de departamento: Caribe y Pacífico
@@ -246,3 +249,7 @@ Se evalúa [Create].
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W11, aborda el tema de Capitales de departamento: Caribe y Pacífico desde una perspectiva colombiana.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

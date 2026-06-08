@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "patrones numericos y geometricos, secuencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W34: Patrones y Secuencias
@@ -223,3 +226,8 @@ Un rectangulo mide 6 cm de largo y 3 cm de ancho. Cual es su perimetro?
 Perimetro: suma de todos los lados. 6+3+6+3 = 18 cm.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

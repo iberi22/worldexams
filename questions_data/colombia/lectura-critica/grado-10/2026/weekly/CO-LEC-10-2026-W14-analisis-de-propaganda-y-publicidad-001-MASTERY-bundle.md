@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "propaganda, publicidad, discurso persuasivo, retorica visual, recursos persuasivos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Análisis de Propaganda y Publicidad — Grado 10
@@ -251,3 +254,8 @@ Usa el prestigio de una celebridad para asociarlo al producto (testimonial).
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W14. Tema: Análisis de Propaganda y Publicidad. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

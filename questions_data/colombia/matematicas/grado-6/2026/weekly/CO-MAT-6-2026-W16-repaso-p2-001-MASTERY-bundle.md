@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W16 — REPASO Periodo 2
@@ -229,3 +232,8 @@ Andrés tiene $120.000. Gasta 1/4 en libros, 2/5 en uniformes y el resto en úti
 
 ### Explicacion Pedagogica
 Libros: 1/4×$120.000=$30.000. Uniformes: 2/5×$120.000=$48.000. Gastado: $78.000. Útiles: $120.000-$78.000=$42.000.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

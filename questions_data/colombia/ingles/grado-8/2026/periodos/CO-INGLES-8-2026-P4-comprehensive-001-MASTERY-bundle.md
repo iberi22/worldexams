@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Passive voice (simple), second conditional, narrative writing connectors, CEFR A2-B1"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Passive Voice, Second Conditional, and Narrative Writing
@@ -336,3 +339,8 @@ Why does the expert use the second conditional here?
 
 ### Explicación Pedagógica
 El segundo condicional se usa para contrastar una situación hipotética/imaginaria con la realidad. "If learners only studied grammar (they don't), they would not develop real skills (imaginary result)." La implicación es que los estudiantes deben hacer más que solo gramática.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

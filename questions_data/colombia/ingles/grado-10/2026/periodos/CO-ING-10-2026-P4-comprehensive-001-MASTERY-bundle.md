@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "passive_voice, mixed_conditionals, past_perfect_passive, present_simple_passive, future_passive, third_second_conditional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Ingles Grado 10 - Periodo 4
@@ -362,3 +365,8 @@ Which analysis BEST meets the requirements?
 
 ### Explicacion Pedagogica
 Option A demonstrates B1 mastery of both required structures. Passive voice: 'was not supported enough,' 'was paid' (focus on the action, not the doer). Mixed conditional: 'If the federation had invested more' (past perfect, unreal past) + 'the team would be more competitive today' (would + infinitive, present unreal result). The combination creates a sophisticated analytical paragraph.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

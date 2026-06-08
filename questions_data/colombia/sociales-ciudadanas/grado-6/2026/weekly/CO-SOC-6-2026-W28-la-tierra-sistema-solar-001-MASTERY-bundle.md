@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "la_tierra_sistema_solar"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Tierra en el Sistema Solar
@@ -190,3 +193,8 @@ La Luna es:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** La Luna orbita la Tierra cada 27.3 dias.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

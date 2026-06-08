@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for immediate family members: mother, father, brother, sister, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W08: Family Members 1 (A1)
@@ -221,3 +224,8 @@ If you have a **"Sister"**, she is:
 
 ### Explicación Pedagógica
 "Sister" (hermana) es un miembro femenino de la familia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

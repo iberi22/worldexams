@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "textos literarios, narrativa, poesia, figuras literarias, analisis literario"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Literarios — Grado 10
@@ -251,3 +254,8 @@ La repetición refuerza el tema central del poema.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W28. Tema: Textos Literarios. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

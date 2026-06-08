@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_moderna_descubrimiento_america"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Moderna: Descubrimiento de America
@@ -190,3 +193,8 @@ Naves de Colon?
 > **Respuesta correcta:** C
 
 **Retroalimentacion:** La Nina y la Pinta eran carabelas; la Santa Maria era una nao.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Adaptaciones de las plantas al medio: desierto, selva húmeda y ambientes acuáticos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Adaptaciones de las Plantas
@@ -267,3 +270,8 @@ Esto se llama caducifoliedad. Es como si el árbol entrara en una siesta profund
 ### Explicación Pedagógica
 
 La adaptación no es un acto de voluntad. Es un proceso biológico donde solo los más aptos sobreviven y dejan hijos. Los cambios humanos (como la contaminación) son tan rápidos que muchas plantas no tienen tiempo de evolucionar y terminan desapareciendo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

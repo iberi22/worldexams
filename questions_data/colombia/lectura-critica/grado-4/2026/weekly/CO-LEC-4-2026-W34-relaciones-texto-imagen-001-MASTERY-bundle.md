@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "relación texto-imagen, complementariedad, anclaje, redundancia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W34: Relaciones entre texto e imagen
@@ -234,3 +237,8 @@ Crear relación.
 
 ### Explicación Pedagógica Final
 Bundle relación texto-imagen.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

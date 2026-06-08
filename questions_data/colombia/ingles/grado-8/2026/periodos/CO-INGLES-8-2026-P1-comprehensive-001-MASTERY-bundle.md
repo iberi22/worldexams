@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Present perfect regular, modal verbs (must/should), travel vocabulary, CEFR A2-B1"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Present Perfect, Modal Verbs and Travel Vocabulary
@@ -336,3 +339,8 @@ Why does the teacher use both "must" and "should" in this sentence?
 
 ### Explicación Pedagógica
 La elección entre "must" y "should" comunica el nivel de importancia. "Must" (esencial/obligatorio) se usa para lo fundamental. "Should" (aconsejable/recomendable) se usa para lo complementario. Esta distinción permite matizar el mensaje.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

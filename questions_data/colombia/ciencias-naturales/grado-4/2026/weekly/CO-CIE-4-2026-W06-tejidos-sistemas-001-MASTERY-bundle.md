@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Tejidos, órganos, sistemas óseo y muscular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Tejidos y Sistemas
@@ -238,3 +241,8 @@ El corazón late sin que pensemos en ello.
 ### Explicación Pedagógica
 
 Se contrae para inhalar y se relaja para exhalar.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

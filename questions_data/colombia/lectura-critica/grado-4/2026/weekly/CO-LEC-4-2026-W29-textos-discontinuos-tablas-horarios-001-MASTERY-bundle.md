@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "tablas, horarios, lectura de datos, texto discontinuo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W29: Textos discontinuos: tablas y horarios
@@ -234,3 +237,8 @@ Crear tabla.
 
 ### Explicación Pedagógica Final
 Bundle tablas-horarios.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

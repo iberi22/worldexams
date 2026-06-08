@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W25 — Textos Periodísticos
@@ -279,3 +282,8 @@ Tu amigo te comparte una noticia que dice: "Un estudio revela que comer mango pr
 
 Para evaluar si una noticia es confiable, verifica: (1) ¿la fuente está identificada y es reconocible? (2) ¿el lenguaje es moderado o exagerado? (3) ¿hay afirmaciones absolutas como "siempre", "nunca", "100%"? (4) ¿otros medios confiables también están reportando lo mismo? Las noticias falsas suelen usar sensacionalismo y fuentes vagas.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

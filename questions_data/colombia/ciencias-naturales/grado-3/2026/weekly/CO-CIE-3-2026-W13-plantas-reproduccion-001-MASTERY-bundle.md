@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Reproducción de las plantas: polinización, fecundación y formación de la semilla y el fruto."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Reproducción de las Plantas
@@ -267,3 +270,8 @@ Esto se llama dispersión. Si todas las semillas cayeran bajo el árbol madre, h
 ### Explicación Pedagógica
 
 A veces por falta de conocimiento cometemos errores ambientales. El polen no es suciedad, es el tesoro de la planta. Sin los insectos polinizadores, la agricultura humana colapsaría y el mundo se quedaría sin la mayoría de sus alimentos favoritos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

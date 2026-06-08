@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "secuencia lógica, orden, coherencia, conectores, causa-efecto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W35: Secuencias lógicas en textos
@@ -234,3 +237,8 @@ Crear secuencia.
 
 ### Explicación Pedagógica Final
 Bundle secuencias lógicas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

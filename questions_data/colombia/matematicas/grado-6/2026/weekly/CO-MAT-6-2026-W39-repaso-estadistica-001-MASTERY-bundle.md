@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W39 — Repaso de Estadistica
@@ -267,3 +270,8 @@ Porcentaje de Educacion: 80/200 = 0.4 = 40%.
 Angulo del sector: 40% de 360° = 0.4 × 360 = 144°.
 
 La encuesta muestra que la poblacion prioriza la educacion (40%), seguida de salud (25%), infraestructura (20%) y seguridad (15%). La alcaldia deberia asignar el mayor presupuesto a educacion, aunque considerando tambien las demas necesidades. Es un ejemplo de como la estadistica ayuda en la toma de decisiones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

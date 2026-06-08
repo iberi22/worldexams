@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Teorias del poblamiento de America: estrecho de Bering, rutas migratorias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Cual fue el principal efecto del poblamiento humano en America para los ecosiste
 La llegada del ser humano a America coincidio con la extincion de la megafauna. Ademas de la caza, los cambios climaticos tambien influyeron.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

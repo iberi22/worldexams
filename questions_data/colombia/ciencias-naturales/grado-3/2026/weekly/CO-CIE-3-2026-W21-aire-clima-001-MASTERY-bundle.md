@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Elementos del clima: temperatura, humedad y viento. Influencia del aire en el estado del tiempo."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Aire y el Clima
@@ -267,3 +270,8 @@ La atmósfera es un motor de calor. El sol calienta el aire, este sube, y el air
 ### Explicación Pedagógica
 
 Las plantas son acondicionadores de aire naturales. Su presencia cambia la humedad y la temperatura del aire que respiramos en la calle. Quitar un bosque, por pequeño que sea, siempre hace que el lugar se vuelva más caluroso.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

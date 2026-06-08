@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W07 — Decimales: Operaciones
@@ -254,3 +257,8 @@ Verifiquemos la suma paso a paso:
 4.250 + 2.800 = 7.050
 7.050 + 6.500 = 13.550
 El ticket es correcto. Es importante siempre verificar las sumas, especialmente en compras del dia a dia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

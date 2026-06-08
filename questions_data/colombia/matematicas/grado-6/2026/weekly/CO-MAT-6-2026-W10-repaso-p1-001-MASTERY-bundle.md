@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W10 — REPASO Periodo 1
@@ -261,3 +264,8 @@ Analicemos el problema:
 Operacion: 3/5 + 1/4 = 12/20 + 5/20 = 17/20.
 El tanque quedara lleno hasta 17/20 de su capacidad.
 Las otras opciones usan resta (B), multiplicacion (C), o suma incorrecta (D).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

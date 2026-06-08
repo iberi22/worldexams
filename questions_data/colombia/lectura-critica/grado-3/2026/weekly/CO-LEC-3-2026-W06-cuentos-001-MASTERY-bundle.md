@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 6
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Cuento
@@ -203,3 +206,8 @@ Al final de un cuento, el lobo que siempre asustaba a los animales se siente sol
 
 ### Explicación Pedagógica
 La evaluación de las acciones de los personajes y la extracción de enseñanzas o moralejas es una habilidad de lectura crítica. El estudiante debe juzgar la situación y entender el mensaje ético o social del relato.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

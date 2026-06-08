@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Imanes, campo magnético, electroimanes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Magnetismo y Electroimanes
@@ -238,3 +241,8 @@ Van del polo norte al sur fuera del imán.
 ### Explicación Pedagógica
 
 Actúa a distancia sin contacto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

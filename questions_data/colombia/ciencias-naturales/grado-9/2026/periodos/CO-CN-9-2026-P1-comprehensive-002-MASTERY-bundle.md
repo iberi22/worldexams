@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "genética mendeliana, herencia biológica, sistema nervioso, coordinación, tabla periódica, elementos químicos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Genética, Sistema Nervioso y Tabla Periódica
@@ -336,3 +339,8 @@ La ley de Hardy-Weinberg establece que $p^2 + 2pq + q^2 = 1$, donde $q$ es la fr
 
 ### Explicación Pedagógica
 La codominancia ocurre cuando ambos alelos se expresan completamente en el heterocigoto, sin mezclarse. El ejemplo clásico es el grupo sanguíneo AB (alelos Iᴬ e Iᴮ). En la F2 del cruce, la proporción 1:2:1 corresponde a BB (azul), BA (manchado), AA (amarillo).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso y profundización del ciclo del agua: procesos, cambios de estado e importancia biológica."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Ciclo Vital del Agua
@@ -267,3 +270,8 @@ Basado en lo que sabes del ciclo del agua, ¿por qué es casi imposible que el a
 ### Explicación Pedagógica
 
 Este es uno de los conceptos más profundos de la ciencia: la materia se transforma, no se crea. El agua que hoy está en tu vaso ha recorrido el mundo miles de veces a través del ciclo, desde la época de los dinosaurios hasta hoy.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

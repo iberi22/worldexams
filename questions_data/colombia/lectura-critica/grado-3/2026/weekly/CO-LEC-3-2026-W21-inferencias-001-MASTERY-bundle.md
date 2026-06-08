@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 21
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Inferencias
@@ -199,3 +202,8 @@ Esta es una inferencia lógica de tipo deductivo. Si A implica B, y escuchamos B
 
 ### Explicación Pedagógica
 Evaluar las intenciones de un personaje a partir de pistas no verbales (miradas, gestos) es un nivel avanzado de inferencia que conecta la descripción física con el desarrollo de la trama.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

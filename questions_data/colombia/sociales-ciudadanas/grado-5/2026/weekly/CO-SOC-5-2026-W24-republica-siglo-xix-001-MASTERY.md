@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "La Republica en el siglo XIX: guerras civiles, Constitucion de 1886"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que el siglo XIX colombiano se caracterizo por la violencia politica?
 El conflicto entre los dos partidos politicos por definir el modelo de pais (centralista/federalista, laico/catolico, proteccionista/librecambista) causo decadas de guerras civiles.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

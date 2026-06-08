@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Hidrografia de Colombia: principales rios y cuencas hidrograficas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Como se relacionan el relieve y la hidrografia de Colombia?
 El relieve determina la hidrografia: las cordilleras separan las cuencas, los valles concentran los rios principales (Magdalena, Cauca), y las llanuras permiten la formacion de rios lentos y meandros.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

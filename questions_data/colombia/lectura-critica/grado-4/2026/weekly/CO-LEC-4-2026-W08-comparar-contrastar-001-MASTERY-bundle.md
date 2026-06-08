@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "comparar, contrastar, semejanzas, diferencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W08: Comparar y contrastar información
@@ -234,3 +237,8 @@ Concluir.
 
 ### Explicación Pedagógica Final
 Bundle comparar y contrastar.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

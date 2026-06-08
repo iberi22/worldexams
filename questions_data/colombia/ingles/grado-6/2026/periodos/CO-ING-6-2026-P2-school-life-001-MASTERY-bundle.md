@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "school life, subjects, timetable, facilities, present simple, there is/are, prepositions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: School Life
@@ -241,3 +244,8 @@ Art class involves drawing and painting. Match subject to activity.
 Mustn't = prohibido. 'Must' = obligación.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

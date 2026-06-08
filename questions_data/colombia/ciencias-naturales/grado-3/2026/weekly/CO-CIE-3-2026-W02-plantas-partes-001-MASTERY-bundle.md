@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Partes de la planta (raíz, tallo, hojas, flores y frutos) y sus funciones principales."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Las Partes de las Plantas
@@ -267,3 +270,8 @@ Las raíces y tallos de reserva son adaptaciones de supervivencia. Almacenan alm
 ### Explicación Pedagógica
 
 Las partes de los seres vivos no son solo estructuras físicas, sino órganos biológicos complejos. La raíz real interactúa con el suelo, el tallo transporta vida y la hoja transforma energía; las imitaciones artificiales solo copian la forma pero no la función vital.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

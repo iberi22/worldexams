@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "culturas precolombinas, Muisca, Tairona, Quimbaya, organización social, legado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombia Precolombina
@@ -241,3 +244,8 @@ Los españoles introdujeron caballos, vacas, ovejas, trigo y caña de azúcar.
 Palabras de origen indígena: chocolate (náhuatl), canoa (taíno), papa (quechua).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

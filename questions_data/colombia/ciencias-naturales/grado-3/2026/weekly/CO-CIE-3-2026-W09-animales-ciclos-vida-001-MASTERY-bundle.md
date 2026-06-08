@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ciclos de vida de los animales: etapas (nacimiento, crecimiento, reproducción y muerte) y metamorfosis."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Ciclos de Vida de los Animales
@@ -267,3 +270,8 @@ La vejez es la parte final del crecimiento. Es un proceso natural donde el cuerp
 ### Explicación Pedagógica
 
 Esto nos enseña que el ciclo de vida es un equilibrio de energía. El animal invierte todo su tiempo de joven en comer y crecer para que, al ser adulto, pueda concentrarse 100% en tener hijos antes de morir, asegurando el futuro de su especie.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

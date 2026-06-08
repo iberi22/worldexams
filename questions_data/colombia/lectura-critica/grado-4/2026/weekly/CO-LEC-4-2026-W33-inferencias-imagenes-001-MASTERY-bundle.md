@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "inferencia, imágenes, interpretación visual, lectura de imagen"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W33: Inferencias a partir de imágenes
@@ -234,3 +237,8 @@ Complemento.
 
 ### Explicación Pedagógica Final
 Bundle inferencias-imágenes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "reading_comprehension_B1, vocabulary_context, grammar_B1, communication, inferential_reading"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Inglés Grado 10 - Comprehensive P1-P4 (CEFR B1)
@@ -488,3 +491,8 @@ What is the author's overall assessment of English proficiency in Colombia?
 
 ### Explicación Pedagógica
 The author presents a balanced assessment: progress has been made ("improved significantly," "encouraging"), but challenges remain ("still ranks below," "focus too much on grammar"). This balanced view is characteristic of analytical writing.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

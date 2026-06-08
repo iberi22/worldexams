@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_p2, campo_ciudad, actividades_economicas, servicios_publicos, deberes_ciudadanos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 2
@@ -181,3 +184,8 @@ Los impuestos financian servicios publicos e infraestructura.
 
 ### Explicacion Pedagogica
 Mantener la ciudad limpia es responsabilidad de todos los ciudadanos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "profesiones, aporte_social, medico, docente, ingeniero, enfermero, bomberos, policia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Profesiones y su Aporte a la Sociedad
@@ -181,3 +184,8 @@ Que pasaria si no hubiera medicos en una ciudad?
 
 ### Explicacion Pedagogica
 Los medicos son esenciales para la salud y supervivencia de la poblacion.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W09 — Ecosistemas Colombianos - Selvas y Bosques
@@ -229,3 +232,7 @@ El bosque seco tropical es el ecosistema más amenazado de Colombia (8% remanent
 Colombia libera 50-100 toneladas de mercurio al año (mayor contaminador per cápita del mundo). El mercurio se convierte en metilmercurio (altamente tóxico), se bioacumula en peces y afecta la salud humana, especialmente comunidades indígenas amazónicas que dependen del pescado. El Convenio de Minamata busca reducir su uso.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

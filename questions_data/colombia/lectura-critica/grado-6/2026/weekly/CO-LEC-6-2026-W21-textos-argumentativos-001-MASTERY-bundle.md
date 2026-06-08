@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "texto argumentativo, tesis, argumentos, contraargumentos, conclusión, estructura persuasiva, opinión fundamentada"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Textos Argumentativos
@@ -206,3 +209,8 @@ Reflexión metacognitiva sobre los tipos de texto: distinguir entre propósito p
 
 ### Explicación Pedagógica Final
 Bundle enfocado en textos argumentativos: identificación de tesis, argumentos, contraargumentos y tipos de evidencia. A través de un debate escolar actual —la prohibición de celulares en colegios colombianos— los estudiantes aprenden a analizar posturas enfrentadas, evaluar la solidez de los argumentos y formarse una opinión propia fundamentada en la evidencia presentada.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

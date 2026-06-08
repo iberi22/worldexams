@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Medios de transporte, terrestre, aéreo, marítimo, fluvial, transporte público, seguridad vial, señales de tránsito"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Medios de Transporte
@@ -236,3 +239,8 @@ Se evalúa la capacidad de proponer estrategias educativas en seguridad vial. La
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 3, aborda los Medios de Transporte en el contexto colombiano. Evalúa la clasificación de los medios de transporte (terrestre, acuático, aéreo), su relación con la geografía del país, las normas de seguridad vial, la importancia del transporte público, los problemas de movilidad urbana y las alternativas sostenibles. El objetivo es que los estudiantes comprendan la importancia del transporte para la comunicación entre regiones y desarrollen hábitos seguros como peatones y pasajeros.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

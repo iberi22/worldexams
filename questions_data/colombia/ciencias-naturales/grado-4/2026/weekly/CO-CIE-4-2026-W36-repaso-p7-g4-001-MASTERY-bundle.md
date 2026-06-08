@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso perÃ­odo 7, mÃ¡quinas simples, palanca, polea, plano inclinado, cuÃ±a"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P7 â€” Grado 4 â€” W36
@@ -278,3 +281,8 @@ Poleas: esfuerzo reducido.
 Rampa larga: menos fuerza.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

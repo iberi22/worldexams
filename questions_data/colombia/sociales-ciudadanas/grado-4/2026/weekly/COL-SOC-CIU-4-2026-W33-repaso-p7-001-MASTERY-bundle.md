@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso P7: diversidad cultural, fechas cívicas y geografía"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P7 — Diversidad cultural, fechas cívicas y geografía
@@ -236,3 +239,8 @@ Diseña un proyecto que integre geografía, cultura y civismo para tu colegio.
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W33, repasa diversidad cultural, fechas cívicas y geografía de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

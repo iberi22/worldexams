@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "funciones_trigonometricas, vectores_2d, limite_intuitivo, circulo_unitario, razones_trigonometricas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Funciones Trigonométricas, Vectores 2D y Límite Intuitivo
@@ -465,3 +468,7 @@ Evalúa el comportamiento de f(x) = |x|/x cuando x se acerca a 0. ¿Cuál es la 
 
 ### Explicación Pedagógica
 La función f(x) = |x|/x es un ejemplo clásico de función con límite lateral diferente. El límite bilateral existe solo cuando los límites laterales son iguales. Este caso ilustra la importancia de verificar ambos lados al calcular límites.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

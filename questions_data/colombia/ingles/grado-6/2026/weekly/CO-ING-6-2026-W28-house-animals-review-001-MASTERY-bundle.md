@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: animals, house, there is/are, prepositions of place"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Animals and House Review (W28)
@@ -228,3 +231,8 @@ Reading comprehension: identify what is behind (detrás de) the house = a garden
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

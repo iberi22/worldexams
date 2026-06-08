@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W37 — Graficas Estadisticas (Barras, Circular, Linea)
@@ -297,3 +300,8 @@ Verificacion: los angulos de todos los sectores deben sumar 360°.
 - Naranja: 72°
 - Uvas: 72°
 Total: 108 + 72 + 36 + 72 + 72 = 360° ✓
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

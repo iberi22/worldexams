@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Cinco reinos: Monera, Protista, Fungi, Plantae, Animalia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clasificación de los Seres Vivos
@@ -238,3 +241,8 @@ Tiburones y sardinas son peces.
 ### Explicación Pedagógica
 
 Insectos, arañas y cangrejos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

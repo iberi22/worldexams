@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "regiones_naturales, andina, caribe, pacifica, orinoquia, amazonia, insular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Las Regiones Naturales de Colombia
@@ -181,3 +184,8 @@ Por que es importante conocer las regiones de Colombia?
 
 ### Explicacion Pedagogica
 Conocer las regiones ayuda a comprender la riqueza natural y cultural de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

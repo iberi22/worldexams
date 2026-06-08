@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "poleas, polea fija, polea mÃ³vil, polipasto, aplicaciones cotidianas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Poleas y su uso cotidiano â€” Grado 4 â€” W34
@@ -278,3 +281,8 @@ Poleas: esfuerzo reducido.
 MÃºltiples poleas: fuerza muy reducida.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

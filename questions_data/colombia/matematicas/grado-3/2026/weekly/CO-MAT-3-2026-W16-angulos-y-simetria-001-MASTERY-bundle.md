@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "angulos rectos, agudos y obtusos; ejes de simetria"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W16: Angulos y Simetria
@@ -223,3 +226,8 @@ Cuantos lados tiene un triangulo?
 Triangulo = 3 lados, 3 vertices. Tri significa 3.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

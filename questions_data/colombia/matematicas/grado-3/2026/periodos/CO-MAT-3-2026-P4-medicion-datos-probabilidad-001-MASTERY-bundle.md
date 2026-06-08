@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medicion de longitud, peso, capacidad, tiempo, pictogramas, graficas de barras, probabilidad basica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Periodo P4: Medicion, Datos y Probabilidad
@@ -322,3 +325,8 @@ Si 345 + 200 = 545, cuanto es 545 - 200?
 Si a+b=c, entonces c-b=a. 345+200=545, entonces 545-200=345.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

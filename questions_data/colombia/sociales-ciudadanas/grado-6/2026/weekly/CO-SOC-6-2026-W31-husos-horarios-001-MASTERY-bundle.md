@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "husos_horarios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Husos Horarios
@@ -190,3 +193,8 @@ Cambio de hora por ahorro de energia se llama:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

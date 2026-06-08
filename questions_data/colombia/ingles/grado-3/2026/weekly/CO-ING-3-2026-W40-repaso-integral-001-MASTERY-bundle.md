@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.65
 rubric_baseline: "General review of all Grade 3 English topics."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W40: Repaso Integral (A1)
@@ -181,3 +184,8 @@ What is **"Mañana"** (el día siguiente)?
 
 ### Explicación Pedagógica
 Mañana se dice "tomorrow".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

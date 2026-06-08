@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "La conquista espanola: llegada, fundaciones, resistencia indigena"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que los espanoles pudieron conquistar America a pesar de ser menos numerosos
 Los espanoles tenian ventajas militares (armas de fuego, caballos, armaduras), politicas (alianzas con grupos indigenas enemigos) y biologicas (enfermedades).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

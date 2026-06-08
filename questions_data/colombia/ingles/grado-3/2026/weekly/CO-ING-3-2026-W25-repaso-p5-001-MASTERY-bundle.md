@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of food, drinks, likes/dislikes, toys, and clothes."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W25: Repaso Periodo 5 (A1)
@@ -181,3 +184,8 @@ What do you wear on your **feet**?
 
 ### Explicación Pedagógica
 Los zapatos (shoes) se usan en los pies.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "historia_colombia_sigloXX, constitucion_1991, derechos_humanos, geografia_economica, geopolitica, mecanismos_participacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Comprehensive P1-P4
@@ -468,3 +471,8 @@ La propuesta más democrática es crear o fortalecer espacios de participación 
 
 ### Explicación Pedagógica
 El autor defiende explícitamente la importancia de enfrentar el pasado para construir la paz, argumentando que la experiencia internacional respalda esta postura. Este es un tema central en la construcción de paz y justicia transicional en Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

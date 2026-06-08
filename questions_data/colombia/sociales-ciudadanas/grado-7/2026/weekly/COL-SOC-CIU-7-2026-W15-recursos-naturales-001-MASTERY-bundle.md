@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "recursos naturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Recursos naturales: minería, hidrocarburos y energías renovables — W15
@@ -290,3 +293,8 @@ En la clase de sociales del Colegio de Bogotá, el profesor inicia la explicaci�
 ### Explicación Pedagógica
 
 El estudio de los los recursos naturales de Colombia de Colombia es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre los recursos naturales de Colombia y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

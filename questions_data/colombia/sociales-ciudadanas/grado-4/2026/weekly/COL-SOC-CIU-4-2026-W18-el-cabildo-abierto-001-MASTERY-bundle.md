@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Mecanismos de participación: el cabildo abierto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El cabildo abierto
@@ -236,3 +239,8 @@ Diseña un volante para invitar a los vecinos de tu barrio a un cabildo abierto 
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W18, explica el cabildo abierto como mecanismo de participación ciudadana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

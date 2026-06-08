@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "argumentation, opinion, claim, evidence, persuasive language, counterargument"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Introduction to Argumentation
@@ -241,3 +244,8 @@ A good argumentative paragraph begins with ___.
 Topic sentence introduces the paragraph's main claim, followed by supporting evidence.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

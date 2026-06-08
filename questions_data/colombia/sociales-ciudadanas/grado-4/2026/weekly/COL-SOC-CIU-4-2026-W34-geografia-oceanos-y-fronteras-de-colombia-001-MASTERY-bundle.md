@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Geografía de Colombia: océanos, fronteras terrestres y marítimas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Geografía — Océanos y fronteras de Colombia
@@ -236,3 +239,8 @@ Diseña una propuesta para que los estudiantes de tu colegio aprendan más sobre
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W34, aborda la geografía de Colombia: océanos, fronteras terrestres y marítimas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

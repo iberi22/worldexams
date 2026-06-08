@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "daily routines, present simple, frequency adverbs, time expressions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Daily Routines
@@ -241,3 +244,8 @@ Present simple with I/you/we/they uses the base verb: I go, you go, we go.
 'Go to bed' = irse a la cama. 'Sleep' = dormir.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

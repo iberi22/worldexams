@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for main body parts: head, shoulders, arms, hands, legs, feet."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W11: Parts of the Body (A1)
@@ -221,3 +224,8 @@ Where are your **fingers**?
 
 ### Explicación Pedagógica
 Los dedos de las manos se llaman "fingers". Los dedos de los pies se llaman "toes".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

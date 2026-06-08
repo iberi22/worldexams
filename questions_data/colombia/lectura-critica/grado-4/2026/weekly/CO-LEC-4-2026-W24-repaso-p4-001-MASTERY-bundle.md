@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso: diccionario, sinónimos, antónimos, claves de contexto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W24: Repaso P4
@@ -234,3 +237,8 @@ Estrategia.
 
 ### Explicación Pedagógica Final
 Bundle repaso P4.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

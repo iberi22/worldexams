@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Pisos térmicos en Colombia: relación entre altitud y temperatura, y su efecto en la flora y fauna."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Los Pisos Térmicos en Colombia
@@ -267,3 +270,8 @@ Este es un problema grave para los frailejones y los animales de páramo. Como e
 ### Explicación Pedagógica
 
 La frase es una forma creativa de describir nuestra riqueza geográfica. Los pisos térmicos nos permiten tener una variedad increíble de paisajes, comidas y experiencias en distancias muy cortas, algo que pocos países en el mundo tienen.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

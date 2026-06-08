@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W11 — Ecosistemas Colombianos
@@ -280,3 +283,8 @@ Para proteger los ecosistemas colombianos se requieren acciones a diferentes niv
 - **Legal**: denunciar actividades ilegales como la tala, la minería ilegal y el tráfico de especies
 
 Colombia tiene más de 60 Parques Nacionales Naturales que protegen ecosistemas representativos de todo el país. La conservación es responsabilidad de todos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

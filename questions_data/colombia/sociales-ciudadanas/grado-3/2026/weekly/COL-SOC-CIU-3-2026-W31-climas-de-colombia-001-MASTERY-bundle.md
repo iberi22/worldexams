@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "climas_colombia, clima_calido, clima_templado, clima_frio, pisos_termicos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Climas de Colombia: Calido, Templado y Frio
@@ -181,3 +184,8 @@ Como influye el clima en las actividades de las personas?
 
 ### Explicacion Pedagogica
 El clima influye en casi todos los aspectos de la vida: agricultura, vestimenta, vivienda y economia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

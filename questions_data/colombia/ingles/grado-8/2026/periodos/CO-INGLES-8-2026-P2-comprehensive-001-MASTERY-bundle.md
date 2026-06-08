@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Present perfect irregular, might/could/may, jobs and professions, CEFR A2-B1"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Present Perfect (Irregular), Might/Could/May, Jobs and Professions
@@ -336,3 +339,8 @@ Why does the counselor use three different modals in this sentence?
 
 ### Explicación Pedagógica
 Los modals permiten matizar el mensaje: "might" (posibilidad incierta), "must" (obligación/necesidad), "should" (recomendación). Usarlos correctamente permite comunicar con precisión diferentes niveles de certeza, obligación y consejo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

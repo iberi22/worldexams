@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Mecanismos de participación ciudadana: voto popular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mecanismos de participación — El voto popular
@@ -236,3 +239,8 @@ Diseña una campaña para motivar a los ciudadanos de tu barrio a votar en las p
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W16, explica el voto popular como mecanismo de participación ciudadana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

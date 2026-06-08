@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 34
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Argumentativos
@@ -201,3 +204,8 @@ Analizar cómo se usan los hechos (gastos, tiempo) como argumentos para sostener
 
 ### Explicación Pedagógica
 Evaluar la calidad de los argumentos es el nivel más alto de la lectura crítica. El estudiante debe distinguir entre una opinión razonada y una opinión impuesta o sin sustento.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

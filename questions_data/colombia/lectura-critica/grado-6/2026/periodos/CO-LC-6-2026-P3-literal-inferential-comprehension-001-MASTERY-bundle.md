@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "literal comprehension, inferential comprehension, implicit information, conclusions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Literal and Inferential Comprehension
@@ -241,3 +244,8 @@ Author's purpose: inform, persuade, entertain (IPE). This text wants to persuade
 Overgeneralization uses words like 'all', 'never', 'always' without evidence.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

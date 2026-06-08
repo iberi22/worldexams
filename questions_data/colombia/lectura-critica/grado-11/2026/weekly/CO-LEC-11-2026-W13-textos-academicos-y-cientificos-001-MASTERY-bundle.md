@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "textos academicos, textos cientificos, articulo de investigacion, metodo cientifico, divulgacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Académicos y Científicos — Grado 11
@@ -251,3 +254,8 @@ Silogismo deductivo: premisa universal + particular → conclusión necesaria.
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W13. Tema: Textos Académicos y Científicos. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

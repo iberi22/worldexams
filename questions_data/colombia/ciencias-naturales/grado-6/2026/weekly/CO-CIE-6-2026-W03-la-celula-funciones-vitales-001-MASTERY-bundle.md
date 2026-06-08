@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W03 — La Célula: Funciones Vitales
@@ -295,3 +298,8 @@ El "crecimiento" de un cristal no es biológico: los iones de sodio y cloruro se
 Esta distinción es clave: los virus también generan debate porque cumplen algunas funciones vitales solo dentro de una célula huésped, lo que los sitúa en el límite entre lo vivo y lo no vivo.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

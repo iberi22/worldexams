@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Reproducción animal: dimorfismo sexual, cortejo y cuidado parental en diferentes especies."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Reproducción y el Cuidado de las Crías
@@ -267,3 +270,8 @@ Los animales que no reciben cuidado parental nacen con instintos muy fuertes. Sa
 ### Explicación Pedagógica
 
 El tiempo de cuidado parental está relacionado con la complejidad de la especie. Especies con vidas cortas y cuerpos sencillos crecen rápido. Especies inteligentes y longevas como los humanos invierten décadas en formar a la siguiente generación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

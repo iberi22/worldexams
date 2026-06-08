@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W08 — Repaso Periodo 2: Reproducción Celular
@@ -259,3 +262,8 @@ La fisión binaria cada 20 minutos es característica de bacterias (procariotas)
 Ejemplo: una infección urinaria no tratada puede convertirse en una infección renal grave en pocos días. La fiebre (defensa del cuerpo) y los antibióticos ayudan a controlar la población bacteriana.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

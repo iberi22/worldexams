@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Diversidad cultural colombiana: etnias, lenguas, tradiciones"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Diversidad cultural colombiana
@@ -236,3 +239,8 @@ Diseña una feria de la diversidad cultural en tu colegio. ¿Qué incluirías?
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W32, explica la diversidad cultural de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

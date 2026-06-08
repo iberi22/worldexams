@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "medios masivos, redes sociales, analisis critico, desinformacion, alfabetizacion mediatica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Análisis de Medios y Redes Sociales — Grado 10
@@ -251,3 +254,8 @@ Pensamiento crítico y verificación son fundamentales.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W31. Tema: Análisis de Medios y Redes Sociales. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

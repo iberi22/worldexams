@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "republica liberal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: República Liberal: 1930-1946 y Revolución en Marcha — W02
@@ -344,3 +347,8 @@ Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la 
 ### Explicación Pedagógica
 
 El estudio de la República Liberal es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la República Liberal es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

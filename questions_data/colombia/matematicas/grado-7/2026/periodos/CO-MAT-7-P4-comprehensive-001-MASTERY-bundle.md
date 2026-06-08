@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "numeros_enteros_potencias, circunferencia_circulo, datos_agrupados"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matemáticas Grado 7 — Periodo 4
@@ -380,3 +383,8 @@ En el observatorio astronómico de la Universidad Nacional sede Manizales, se es
 
 ### Explicación Pedagógica
 La notación científica $a \times 10^n$ representa el número $a$ seguido de $n$ ceros (si $n$ es positivo). $3 \times 10^8 = 300.000.000$.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

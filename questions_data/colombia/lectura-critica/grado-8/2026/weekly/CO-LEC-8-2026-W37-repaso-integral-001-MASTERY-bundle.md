@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso integral"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — Repaso: Deberia Colombia Prohibir el Fracking?
@@ -183,3 +186,7 @@ Que sugiere para decision final?
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 37. Tema: Repaso Integral. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

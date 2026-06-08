@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El viento como aire en movimiento: formación, tipos de viento y utilidad para los seres vivos y el hombre."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Viento: Aire en Movimiento
@@ -267,3 +270,8 @@ El viento no solo sopla de lado a lado, también hay corrientes que suben y baja
 ### Explicación Pedagógica
 
 La ciencia busca causas naturales y medibles. El viento no ocurre para ayudar a los barcos, sino como resultado de que la atmósfera busca equilibrar el calor y la presión. Los seres humanos simplemente hemos aprendido a aprovechar ese fenómeno natural para nuestro beneficio.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

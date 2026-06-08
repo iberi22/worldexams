@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Colombia siglo XIX, geografía humana mundial, ideologías políticas, federalismo-centralismo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombia Siglo XIX, Geografía Humana e Ideologías Políticas
@@ -336,3 +339,8 @@ La historia política colombiana del siglo XIX muestra que tanto el federalismo 
 
 ### Explicación Pedagógica
 En el siglo XIX colombiano, las diferencias entre liberales y conservadores eran reales, pero a menudo se superponían con rivalidades regionales, familiares y personales. Las guerras civiles frecuentes (nueve en total) reflejaban tanto conflictos ideológicos como luchas por el poder regional.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W18 — Repaso P4: Sistema Nervioso y Sentidos
@@ -229,3 +232,7 @@ Los implantes cocleares permiten a personas sordas escuchar. ¿Cómo funcionan?
 El implante coclear tiene: (1) micrófono externo capta sonido, (2) procesador lo convierte en señales digitales, (3) electrodos internos estimulan el nervio auditivo directamente. No restaura la audición normal pero permite percibir sonidos y desarrollar lenguaje. En Colombia, el programa de implantes cocleares del Instituto Nacional para Sordos (INSOR) ha beneficiado a cientos de niños.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

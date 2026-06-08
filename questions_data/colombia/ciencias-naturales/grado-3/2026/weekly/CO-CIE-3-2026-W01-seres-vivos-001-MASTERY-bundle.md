@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Características de los seres vivos, diferencias entre seres vivos y objetos inertes, ciclo de vida básico."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Seres Vivos: Características Fundamentales
@@ -267,3 +270,8 @@ Incluso las plantas, que parecen estáticas, muestran funciones de relación. La
 ### Explicación Pedagógica
 
 A pesar de los avances tecnológicos, los robots son máquinas programadas. Los seres vivos tienen una estructura basada en células, un metabolismo propio y la capacidad de evolucionar y reproducirse de forma biológica, criterios que distinguen la vida de la inteligencia artificial.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

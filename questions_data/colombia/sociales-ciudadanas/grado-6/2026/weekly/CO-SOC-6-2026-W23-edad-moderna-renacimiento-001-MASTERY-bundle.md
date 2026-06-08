@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_moderna_renacimiento"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Moderna: Renacimiento
@@ -190,3 +193,8 @@ Quien pinto la Capilla Sixtina?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Miguel Angel pinto el techo de la Capilla Sixtina (Vaticano).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

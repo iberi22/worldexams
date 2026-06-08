@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fauna_colombia, flora_colombia, biodiversidad, orquidea, condor, palma_cera"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fauna y Flora Representativa de Colombia
@@ -181,3 +184,8 @@ Que pasaria si desapareciera el condor de los Andes?
 
 ### Explicacion Pedagogica
 Cada especie cumple una funcion en el ecosistema. Proteger la biodiversidad es proteger la vida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

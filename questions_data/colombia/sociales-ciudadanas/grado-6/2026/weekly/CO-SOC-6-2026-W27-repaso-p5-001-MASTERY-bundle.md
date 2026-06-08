@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "repaso_p5"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso P5: Edad Moderna
@@ -190,3 +193,8 @@ Como cambio Europa tras la Reforma?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

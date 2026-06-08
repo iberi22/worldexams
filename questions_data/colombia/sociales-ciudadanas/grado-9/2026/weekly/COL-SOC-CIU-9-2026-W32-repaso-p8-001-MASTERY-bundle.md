@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso p8"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso: Constitución 1886, conservadores y obreros — W32
@@ -344,3 +347,8 @@ En la sesión de repaso de la I.E. de Medellín, los estudiantes resuelven dudas
 ### Explicación Pedagógica
 
 El estudio de repaso p8 es fundamental para comprender la realidad colombiana. ¿Cuál de los siguientes conceptos está relacionado con repaso p8? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

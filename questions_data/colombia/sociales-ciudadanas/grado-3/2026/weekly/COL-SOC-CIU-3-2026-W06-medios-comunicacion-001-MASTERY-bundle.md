@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medios_comunicacion, medios_masivos, television_radio_prensa, internet_redes_sociales, comunicacion_tradicional, uso_responsable_medios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Medios de Comunicación
@@ -197,3 +200,8 @@ Pedro pasa 5 horas al día viendo videos en su celular y ya no juega con sus ami
 
 ### Explicación Pedagógica
 El uso responsable de los medios de comunicación y la tecnología implica establecer límites. La Organización Mundial de la Salud recomienda que los niños de 6 a 12 años no pasen más de 2 horas diarias frente a pantallas con fines recreativos. El juego al aire libre, la interacción social y el estudio son fundamentales para el desarrollo infantil.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

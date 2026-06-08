@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Derechos humanos y derechos del nino en Colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Relaciona los derechos humanos con la democracia: cual afirmacion es correcta?
 La democracia y los derechos humanos van de la mano. Sin derechos humanos no hay democracia real, y sin democracia los derechos humanos son vulnerables.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "potenciación, radicación, expresiones algebraicas, funciones lineales, plano cartesiano"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Potenciación, Radicación, Expresiones Algebraicas y Funciones Lineales
@@ -336,3 +339,8 @@ La raíz cúbica de un número $a$ es el número $b$ tal que $b^3 = a$. Las raí
 
 ### Explicación Pedagógica
 La utilidad es la diferencia entre ingresos y costos. En funciones lineales, se modela como $U(x) = I(x) - C(x)$. El punto de equilibrio ocurre cuando $U(x) = 0$, y la utilidad objetivo se encuentra despejando $x$.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

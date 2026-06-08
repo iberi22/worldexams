@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W32 — Area de Figuras Planas (Circulo, Trapecio, Rombo)
@@ -238,3 +241,8 @@ Para esta figura compuesta:
 - Semicirculo (radio = 10 m): A₂ = (π × 10²) ÷ 2 = (3.14 × 100) ÷ 2 = 157 m²
 - Area total: A = 240 + 157 = 397 m²
 Recordar que el semicirculo es exactamente la mitad de un circulo completo, por eso dividimos entre 2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

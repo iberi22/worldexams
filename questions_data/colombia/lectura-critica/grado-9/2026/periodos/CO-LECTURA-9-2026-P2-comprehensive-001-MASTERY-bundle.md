@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Literatura universal introductoria, discurso persuasivo, figuras retóricas, ethos-pathos-logos, metáfora, ironía"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Literatura Universal, Discurso Persuasivo y Figuras Retóricas
@@ -346,3 +349,8 @@ El ethos es la credibilidad del orador. Aristóteles decía que el ethos es el m
 
 ### Explicación Pedagógica
 Evaluar críticamente una afirmación requiere examinar sus supuestos y su lógica. Decir que algo es irrelevante por ser antiguo es una falacia. La relevancia de una obra depende de su capacidad para iluminar aspectos de la experiencia humana, no de su fecha de publicación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

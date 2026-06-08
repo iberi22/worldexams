@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso perÃ­odo 3, respiratorio, circulatorio, excretor, Ã³seo, muscular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P3 â€” Grado 4 â€” W17
@@ -278,3 +281,8 @@ Mayor necesidad de Oâ‚‚.
 Buena postura: salud de columna.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

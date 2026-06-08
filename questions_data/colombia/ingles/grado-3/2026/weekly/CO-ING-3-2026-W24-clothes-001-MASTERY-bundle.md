@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for common clothing items: T-shirt, pants, skirt, shoes, hat."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W24: Clothes (A1)
@@ -221,3 +224,8 @@ What is **"Vestido"** in English? 👗
 
 ### Explicación Pedagógica
 El vestido se dice "dress".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)
