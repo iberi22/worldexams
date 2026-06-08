@@ -9,221 +9,228 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Est�ndares B�sicos de Competencias en Lenguaje"
+alignment: "DBA MEN + Estándares Básicos de Competencias en Lenguaje"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.78
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
-rubric_baseline: "detalles explícitos, información literal, datos, números, lugares"
+rubric_baseline: "detalles explícitos, información literal, datos, números, fechas"
 ---
 
 # Lectura Crítica G4 — W02: Comprensión literal: detalles explícitos
-
-*Los detalles explícitos son los datos que el autor nos dice directamente: fechas, cantidades, nombres. Esta semana los buscaremos en textos sobre Colombia.*
----
 
 ## Question 1 [D1]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Horario del mercado.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Edad de personaje.
 
 ### Enunciado
-*"El mercado de Sincelejo abre a las 5 a.m. y cierra al mediodía."* ¿A qué hora cierra?
+*"Ana tiene 9 años y vive en Sincelejo."* ¿Cuántos años tiene Ana?
 
 ### Options
-- [ ] A) 5 p.m. <!-- feedback:  -->
-- [x] B) Al mediodía. <!-- feedback: Correcto. -->
-- [ ] C) 3 p.m. <!-- feedback:  -->
-- [ ] D) No cierra. <!-- feedback:  -->
+- [ ] A) 7 años.
+- [ ] B) 8 años.
+- [x] C) 9 años. <!-- feedback: Correcto. -->
+- [ ] D) 10 años.
 
 ### Explicación Pedagógica
-Identificar detalle explícito de horario.
+Identificar edad explícita.
 
 ---
+
 ## Question 2 [D1]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Medida rana dorada.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Color de objeto.
 
 ### Enunciado
-*"La rana dorada del Chocó mide 2 cm."* ¿Cuánto mide?
+*"La mochila de Pedro es azul con rayas rojas."* ¿De qué color es la mochila?
 
 ### Options
-- [ ] A) 5 cm. <!-- feedback:  -->
-- [ ] B) 10 cm. <!-- feedback:  -->
-- [x] C) 2 cm. <!-- feedback: Correcto. -->
-- [ ] D) 1 cm. <!-- feedback:  -->
+- [ ] A) Verde.
+- [x] B) Azul con rayas rojas. <!-- feedback: Correcto. -->
+- [ ] C) Roja con rayas azules.
+- [ ] D) Negra.
 
 ### Explicación Pedagógica
-Identificar detalle numérico.
+Identificar color.
 
 ---
+
 ## Question 3 [D1]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Lugar de nacimiento.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Lugar.
 
 ### Enunciado
-*"Policarpa Salavarrieta nació en Guaduas, Cundinamarca."* ¿Dónde nació?
+*"La escuela Rafael Núñez queda en la calle 10 con carrera 15, en Montería."* ¿Dónde queda la escuela?
 
 ### Options
-- [ ] A) Bogotá. <!-- feedback:  -->
-- [x] B) Guaduas. <!-- feedback: Correcto. -->
-- [ ] C) Medellín. <!-- feedback:  -->
-- [ ] D) Cartagena. <!-- feedback:  -->
+- [ ] A) Bogotá.
+- [x] B) Montería. <!-- feedback: Correcto. -->
+- [ ] C) Medellín.
+- [ ] D) Cali.
 
 ### Explicación Pedagógica
 Identificar lugar explícito.
 
 ---
+
 ## Question 4 [D2]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** ¿Quién teje?
+**ICFES:** Comprensión del sentido global
+**Context:** Cantidad.
 
 ### Enunciado
-*"La mochila wayúu es tejida por las mujeres de La Guajira."* ¿Quiénes tejen?
+*"En la biblioteca hay 150 libros de cuentos y 80 libros de ciencias."* ¿Cuántos libros de ciencias hay?
 
 ### Options
-- [ ] A) Hombres wayúu. <!-- feedback:  -->
-- [x] B) Mujeres wayúu. <!-- feedback: Correcto. -->
-- [ ] C) Niños. <!-- feedback:  -->
-- [ ] D) Artesanos de Bogotá. <!-- feedback:  -->
+- [ ] A) 150. <!-- feedback: Esa es la cantidad de cuentos. -->
+- [ ] B) 230. <!-- feedback: Es la suma. -->
+- [x] C) 80. <!-- feedback: Correcto. -->
+- [ ] D) 100.
 
 ### Explicación Pedagógica
-Identificar sujeto.
+Identificar cantidad explícita.
 
 ---
+
 ## Question 5 [D2]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Deporte popular.
+**Context:** Nombre del animal.
 
 ### Enunciado
-*"El deporte más popular en Colombia es el fútbol."* ¿Cuál es el más popular?
+*"El perro de María se llama Copito porque es blanco y esponjoso."* ¿Cómo se llama el perro?
 
 ### Options
-- [ ] A) Ciclismo. <!-- feedback:  -->
-- [ ] B) Béisbol. <!-- feedback:  -->
-- [x] C) Fútbol. <!-- feedback: Correcto. -->
-- [ ] D) Boxeo. <!-- feedback:  -->
+- [ ] A) Nieve.
+- [x] B) Copito. <!-- feedback: Correcto. -->
+- [ ] C) Blanco.
+- [ ] D) Peluche.
 
 ### Explicación Pedagógica
-Identificar afirmación principal.
+Identificar nombre.
 
 ---
-## Question 6 [D2]
+
+## Question 6 [D3]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Duración carnaval.
+**Bloom:** Apply
+**ICFES:** Dimensión inferencial
+**Context:** Detalle numérico.
 
 ### Enunciado
-*"El Carnaval de Barranquilla dura cuatro días."* ¿Cuánto dura?
+*"El árbol de mango mide 12 metros de alto y da frutos 2 veces al año."* ¿Cuánto mide el árbol?
 
 ### Options
-- [ ] A) Siete días. <!-- feedback:  -->
-- [ ] B) Dos días. <!-- feedback:  -->
-- [x] C) Cuatro días. <!-- feedback: Correcto. -->
-- [ ] D) Una semana. <!-- feedback:  -->
+- [ ] A) 10 metros.
+- [x] B) 12 metros. <!-- feedback: Correcto. -->
+- [ ] C) 15 metros.
+- [ ] D) 20 metros.
 
 ### Explicación Pedagógica
-Detalle numérico.
+Identificar medida explícita.
 
 ---
+
 ## Question 7 [D3]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Calcular grupos.
+**Context:** Fecha.
 
 ### Enunciado
-*"35 estudiantes. Grupos de máximo 10."* ¿Cuántos grupos?
+*"El 20 de julio de 1810 fue un día importante para Colombia."* ¿En qué fecha ocurrió?
 
 ### Options
-- [ ] A) 2 <!-- feedback: Solo 20. -->
-- [ ] B) 3 <!-- feedback: Solo 30. -->
-- [x] C) 4 <!-- feedback: Correcto. 4x10=40. -->
-- [ ] D) 5 <!-- feedback: Sobra. -->
+- [x] A) 20 de julio de 1810. <!-- feedback: Correcto. -->
+- [ ] B) 20 de junio de 1810.
+- [ ] C) 7 de agosto de 1819.
+- [ ] D) 15 de septiembre de 1810.
 
 ### Explicación Pedagógica
-Calcular a partir de datos explícitos.
+Identificar fecha explícita.
 
 ---
-## Question 8 [D2]
+
+## Question 8 [D4]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Comprensión del sentido global
-**Context:** Palma de cera.
+**Bloom:** Analyze
+**ICFES:** Dimensión inferencial
+**Context:** Comparar cantidades.
 
 ### Enunciado
-*"La palma de cera vive entre 80 y 100 años."* ¿Cuánto vive?
+*"En primer grado hay 25 estudiantes. En segundo hay 30."* ¿En qué grado hay más estudiantes?
 
 ### Options
-- [ ] A) 50-60 años. <!-- feedback:  -->
-- [x] B) 80-100 años. <!-- feedback: Correcto. -->
-- [ ] C) 150 años. <!-- feedback:  -->
-- [ ] D) +200 años. <!-- feedback:  -->
+- [ ] A) En primero. <!-- feedback: Primero tiene 25. -->
+- [x] B) En segundo. <!-- feedback: Correcto. Segundo tiene 30. -->
+- [ ] C) Tienen el mismo número.
+- [ ] D) No se puede saber.
 
 ### Explicación Pedagógica
-Detalle numérico.
+Comparar cantidades.
 
 ---
+
 ## Question 9 [D4]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Presente vs ausente.
+**Context:** Ubicar en el texto.
 
 ### Enunciado
-*"Los manglares están en costas Pacífico y Caribe. Viven cangrejos, peces, aves."* ¿Qué NO aparece?
+*"La capital de Colombia es Bogotá. Está a 2.600 metros sobre el nivel del mar."* ¿Qué información NO está en el texto?
 
 ### Options
-- [ ] A) Están en costas Pacífico y Caribe. <!-- feedback: Sí aparece. -->
-- [ ] B) Viven cangrejos, peces, aves. <!-- feedback: Sí aparece. -->
-- [x] C) El más grande está en el Pacífico. <!-- feedback: No aparece. -->
-- [ ] D) Protegen de tormentas. <!-- feedback: Sí aparece. -->
+- [ ] A) Bogotá es la capital. <!-- feedback: Sí está. -->
+- [ ] B) Está a 2.600 metros. <!-- feedback: Sí está. -->
+- [x] C) Bogotá tiene 8 millones de habitantes. <!-- feedback: Esa información no aparece en el texto. -->
+- [ ] D) Bogotá está en Colombia. <!-- feedback: Se puede inferir. -->
 
 ### Explicación Pedagógica
-Distinguir información presente vs ausente.
+Reconocer qué no está explícito.
 
 ---
+
 ## Question 10 [D4]
 
 **ID:** `CO-LEC-4-2026-W02-comprension-literal-detalles-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Apoyar afirmación.
+**Context:** Verificar exactitud.
 
 ### Enunciado
-Afirmación: *"Los niños tienen derecho a la educación."* ¿Qué detalle la apoya mejor?
+*"El texto dice: ‘El colibrí es un ave pequeña’."* Un compañero dice que es un insecto. ¿Quién tiene la razón?
 
 ### Options
-- [ ] A) Juegan fútbol. <!-- feedback:  -->
-- [x] B) Hay escuelas públicas y privadas. <!-- feedback: Correcto. -->
-- [ ] C) Colombia tiene montañas. <!-- feedback:  -->
-- [ ] D) Usan uniforme azul. <!-- feedback:  -->
+- [ ] A) El compañero, porque es pequeño.
+- [x] B) El texto, porque dice que es un ave. <!-- feedback: Correcto. Debemos confiar en la información del texto. -->
+- [ ] C) Ambos tienen razón.
+- [ ] D) Ninguno.
 
 ### Explicación Pedagógica
-Evaluar pertinencia de detalles.
+Verificar información leída.
 
 ---
 
+
 ### Explicación Pedagógica Final
-Bundle enfocado en detalles explícitos. Contextos colombianos diversos.
+Bundle de detalles explícitos. Contextos cotidianos colombianos.
