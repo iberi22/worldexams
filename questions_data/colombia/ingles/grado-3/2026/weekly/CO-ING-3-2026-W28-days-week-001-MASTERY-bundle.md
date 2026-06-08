@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "days-week"
+periodo: "weekly"
 semana: 28
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Vocabulary for the seven days of the week and basic time concepts like today and tomorrow."
 ---
 
 # Weekly Pack W28: Days of the Week (A1)
 
-Este bundle evalúa los días de la semana en inglés, nivel A1.
+Este bundle evalúa el vocabulario de los días de la semana en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What is the **first** day of the week?
+
+### Options
+- [x] A) Monday <!-- feedback: Correct! Monday is lunes. -->
+- [ ] B) Friday <!-- feedback: Incorrect. -->
+- [ ] C) Sunday <!-- feedback: Incorrect. -->
+- [ ] D) Tuesday <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El lunes se dice "Monday". Es el primer día de la semana laboral y escolar.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-How many days are there in a **week**?
+What is **"Sábado"** in English?
 
 ### Options
-- [ ] A) 5 <!-- feedback: Incorrect. There are 5 weekdays, but 7 days in a week. -->
-- [ ] B) 6 <!-- feedback: Incorrect. A week has 7 days. -->
-- [x] C) 7 <!-- feedback: Correct! There are 7 days in a week. -->
-- [ ] D) 8 <!-- feedback: Incorrect. A week has 7 days. -->
+- [ ] A) Sunday <!-- feedback: Incorrect. Sunday is domingo. -->
+- [x] B) Saturday <!-- feedback: Correct! Saturday is sábado. -->
+- [ ] C) Thursday <!-- feedback: Incorrect. -->
+- [ ] D) Friday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Week" = semana. Una semana tiene 7 days (días). Los días son Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is the **first day** of the week in English?
-
-### Options
-- [ ] A) Tuesday <!-- feedback: Incorrect. Tuesday is the third day. -->
-- [ ] B) Sunday <!-- feedback: Incorrect. Sunday is the last day. -->
-- [x] C) Monday <!-- feedback: Correct! Monday (lunes) is the first day of the week. -->
-- [ ] D) Friday <!-- feedback: Incorrect. Friday is the fifth day. -->
-
-### Explicación Pedagógica
-"Monday" = lunes. Es el primer día de la semana laboral. En inglés, los días se escriben con mayúscula: Monday.
+El sábado se dice "Saturday".
 
 ---
 
@@ -66,99 +68,99 @@ What is the **first day** of the week in English?
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What is **"Martes"** in English?
+What day comes after **Tuesday**?
 
 ### Options
-- [ ] A) Monday <!-- feedback: Incorrect. "Monday" means lunes. -->
-- [ ] B) Wednesday <!-- feedback: Incorrect. "Wednesday" means miércoles. -->
-- [x] C) Tuesday <!-- feedback: Correct! "Tuesday" = martes. -->
-- [ ] D) Thursday <!-- feedback: Incorrect. "Thursday" means jueves. -->
+- [ ] A) Monday <!-- feedback: Incorrect. -->
+- [ ] B) Thursday <!-- feedback: Incorrect. -->
+- [x] C) Wednesday <!-- feedback: Correct! Tuesday -> Wednesday. -->
+- [ ] D) Friday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Tuesday" = martes. Se pronuncia "túz-dei". ¡Los martes son el segundo día de la semana!
+El miércoles se dice "Wednesday". Va después del martes (Tuesday).
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+What day is **"Viernes"**?
+
+### Options
+- [x] A) Friday <!-- feedback: Correct! Friday is viernes. -->
+- [ ] B) Thursday <!-- feedback: Incorrect. -->
+- [ ] C) Saturday <!-- feedback: Incorrect. -->
+- [ ] D) Monday <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El viernes se dice "Friday". Es el último día de clases de la semana.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v5`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-What day comes **after Wednesday**?
+How many days are in a **week**?
 
 ### Options
-- [ ] A) Tuesday <!-- feedback: Incorrect. Tuesday is before Wednesday. -->
-- [ ] B) Friday <!-- feedback: Incorrect. Friday is after Thursday. -->
-- [x] C) Thursday <!-- feedback: Correct! Thursday (jueves) comes after Wednesday. -->
-- [ ] D) Saturday <!-- feedback: Incorrect. Saturday is the weekend. -->
+- [ ] A) Five <!-- feedback: Incorrect. -->
+- [ ] B) Six <!-- feedback: Incorrect. -->
+- [x] C) Seven <!-- feedback: Correct! -->
+- [ ] D) Ten <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La secuencia: Monday (Mon), Tuesday (Tue), Wednesday (Wed), Thursday (Thu). Después de Wednesday viene Thursday (jueves).
+Hay siete (seven) días en una semana.
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v5`
-**Bloom:** Remember
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v6`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Sábado"** in English?
+What days are the **weekend**?
 
 ### Options
-- [ ] A) Sunday <!-- feedback: Incorrect. "Sunday" means domingo. -->
-- [x] B) Saturday <!-- feedback: Correct! "Saturday" = sábado. -->
-- [ ] C) Friday <!-- feedback: Incorrect. "Friday" means viernes. -->
-- [ ] D) Monday <!-- feedback: Incorrect. "Monday" means lunes. -->
+- [ ] A) Monday and Tuesday <!-- feedback: Incorrect. -->
+- [ ] B) Wednesday and Thursday <!-- feedback: Incorrect. -->
+- [x] C) Saturday and Sunday <!-- feedback: Correct! -->
+- [ ] D) Friday and Saturday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Saturday" = sábado. Es el primer día del weekend (fin de semana). ¡No hay clase! "Saturday" se pronuncia "sá-tur-dei".
+El fin de semana (weekend) está compuesto por el sábado (Saturday) y el domingo (Sunday).
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-The **weekend** includes:
+What does **"Tomorrow"** mean?
 
 ### Options
-- [ ] A) Monday and Tuesday <!-- feedback: Incorrect. Those are weekdays. -->
-- [ ] B) Wednesday and Thursday <!-- feedback: Incorrect. Those are weekdays. -->
-- [x] C) Saturday and Sunday <!-- feedback: Correct! The weekend (fin de semana) is Saturday and Sunday. -->
-- [ ] D) Thursday and Friday <!-- feedback: Incorrect. Friday is a weekday. -->
+- [ ] A) Hoy <!-- feedback: Incorrect. Hoy is today. -->
+- [x] B) Mañana <!-- feedback: Correct! Tomorrow means the next day. -->
+- [ ] C) Ayer <!-- feedback: Incorrect. Ayer is yesterday. -->
+- [ ] D) Siempre <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Weekend" = fin de semana. Son Saturday (sábado) y Sunday (domingo). ¡Días para descansar y jugar!
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-Children go to school on **weekdays**. Which are weekdays?
-
-### Options
-- [ ] A) Saturday and Sunday <!-- feedback: Incorrect. Those are the weekend. -->
-- [x] B) Monday to Friday <!-- feedback: Correct! Weekdays (días laborales) are Monday through Friday. -->
-- [ ] C) Only Monday and Tuesday <!-- feedback: Incorrect. There are five weekdays. -->
-- [ ] D) Only Wednesday and Thursday <!-- feedback: Incorrect. All weekdays count. -->
-
-### Explicación Pedagógica
-"Weekdays" = días de semana (lunes a viernes). Los niños van a la escuela (school) de Monday a Friday. ¡El fin de semana es libre!
+"Tomorrow" significa mañana (el día siguiente).
 
 ---
 
@@ -166,19 +168,19 @@ Children go to school on **weekdays**. Which are weekdays?
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete: **"Today is Monday. Tomorrow is _____."**
+If today is **Wednesday**, tomorrow is:
 
 ### Options
-- [ ] A) Sunday <!-- feedback: Incorrect. Sunday was yesterday. -->
-- [ ] B) Wednesday <!-- feedback: Incorrect. Wednesday is two days after. -->
-- [x] C) Tuesday <!-- feedback: Correct! After Monday comes Tuesday (martes). -->
-- [ ] D) Thursday <!-- feedback: Incorrect. Thursday is three days after. -->
+- [ ] A) Tuesday <!-- feedback: Incorrect. -->
+- [x] B) Thursday <!-- feedback: Correct! -->
+- [ ] C) Friday <!-- feedback: Incorrect. -->
+- [ ] D) Monday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Tomorrow" = mañana. Si today (hoy) es Monday, tomorrow es Tuesday. "Today is Monday, tomorrow is Tuesday."
+Si hoy es miércoles (Wednesday), mañana es jueves (Thursday).
 
 ---
 
@@ -186,19 +188,19 @@ Complete: **"Today is Monday. Tomorrow is _____."**
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-**"Yesterday was Sunday."** What day is today?
+If today is **Monday**, yesterday was:
 
 ### Options
-- [ ] A) Saturday <!-- feedback: Incorrect. Saturday is before Sunday, not after. -->
-- [ ] B) Friday <!-- feedback: Incorrect. Friday is two days before. -->
-- [x] C) Monday <!-- feedback: Correct! If yesterday was Sunday (domingo), today is Monday (lunes). -->
-- [ ] D) Tuesday <!-- feedback: Incorrect. Tuesday is two days after Sunday. -->
+- [ ] A) Tuesday <!-- feedback: Incorrect. -->
+- [ ] B) Saturday <!-- feedback: Incorrect. -->
+- [x] C) Sunday <!-- feedback: Correct! -->
+- [ ] D) Friday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Yesterday" = ayer. Si yesterday fue Sunday (domingo), today (hoy) es Monday (lunes). ¡A la escuela!
+Si hoy es lunes (Monday), ayer (yesterday) fue domingo (Sunday).
 
 ---
 
@@ -206,16 +208,16 @@ Complete: **"Today is Monday. Tomorrow is _____."**
 **ID:** `CO-ING-3-2026-W28-days-week-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-Put the days in order: **Wednesday, _____, Friday**
+I go to school on:
 
 ### Options
-- [ ] A) Tuesday <!-- feedback: Incorrect. Tuesday comes before Wednesday. -->
-- [x] B) Thursday <!-- feedback: Correct! Between Wednesday and Friday is Thursday (jueves). -->
-- [ ] C) Monday <!-- feedback: Incorrect. Monday is at the beginning. -->
-- [ ] D) Saturday <!-- feedback: Incorrect. Saturday is after Friday. -->
+- [x] A) Monday to Friday <!-- feedback: Correct! Weekdays. -->
+- [ ] B) Saturday and Sunday <!-- feedback: Incorrect. No school on weekends. -->
+- [ ] C) Only Sunday <!-- feedback: Incorrect. -->
+- [ ] D) Only Saturday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Orden de los días: ...Wednesday (Wed), Thursday (Thu), Friday (Fri)... El día entre Wednesday y Friday es Thursday.
+Normalmente vamos al colegio de lunes (Monday) a viernes (Friday).

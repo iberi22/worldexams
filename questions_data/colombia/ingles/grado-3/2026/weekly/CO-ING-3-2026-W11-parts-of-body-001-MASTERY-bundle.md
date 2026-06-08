@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "parts-of-body"
+periodo: "weekly"
 semana: 11
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,37 +14,58 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.80
+rubric_baseline: "Vocabulary for main body parts: head, shoulders, arms, hands, legs, feet."
 ---
 
 # Weekly Pack W11: Parts of the Body (A1)
 
-Este bundle evalúa las partes del cuerpo en inglés, nivel A1. Los estudiantes deben identificar y nombrar partes básicas del cuerpo humano.
+Este bundle evalúa el vocabulario de las partes principales del cuerpo humano en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What is **"Cabeza"** in English?
+
+### Options
+- [x] A) Head <!-- feedback: Correct! Head is cabeza. -->
+- [ ] B) Hand <!-- feedback: Incorrect. Hand is mano. -->
+- [ ] C) Foot <!-- feedback: Incorrect. Foot is pie. -->
+- [ ] D) Arm <!-- feedback: Incorrect. Arm is brazo. -->
+
+### Explicación Pedagógica
+La cabeza se dice "head" en inglés. Es la parte superior del cuerpo.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What part of your body do you use to **see**?
+How many **arms** (brazos) do you have?
 
 ### Options
-- [ ] A) Ears <!-- feedback: Incorrect. Ears are for hearing. -->
-- [ ] B) Mouth <!-- feedback: Incorrect. The mouth is for eating and speaking. -->
-- [x] C) Eyes <!-- feedback: Correct! You see (ves) with your eyes (ojos). -->
-- [ ] D) Nose <!-- feedback: Incorrect. The nose is for smelling. -->
+- [ ] A) One <!-- feedback: Incorrect. -->
+- [x] B) Two <!-- feedback: Correct! You have two arms. -->
+- [ ] C) Ten <!-- feedback: Incorrect. -->
+- [ ] D) Five <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Eyes" = ojos. Los ojos nos permiten ver (see) el mundo. En inglés "eye" se pronuncia "ái". Cuidado: es singular (eye) y plural (eyes).
+"Arm" significa brazo. La mayoría de las personas tenemos dos (two) brazos.
 
 ---
 
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v2`
+## Question 3 [D3-D4]
+**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
@@ -52,113 +74,93 @@ What part of your body do you use to **see**?
 What is **"Mano"** in English?
 
 ### Options
-- [ ] A) Foot <!-- feedback: Incorrect. "Foot" means pie. -->
-- [ ] B) Leg <!-- feedback: Incorrect. "Leg" means pierna. -->
-- [ ] C) Arm <!-- feedback: Incorrect. "Arm" means brazo. -->
-- [x] D) Hand <!-- feedback: Correct! "Hand" = mano. -->
+- [ ] A) Foot <!-- feedback: Incorrect. -->
+- [ ] B) Head <!-- feedback: Incorrect. -->
+- [x] C) Hand <!-- feedback: Correct! Hand is mano. -->
+- [ ] D) Leg <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Hand" = mano. Usamos las hands para agarrar, escribir y saludar. "Hand" se pronuncia "jand". ¡La mano tiene cinco dedos (fingers)!
-
----
-
-## Question 3 [D3-D4]
-**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.80
-
-### Enunciado
-What is **"Cabeza"** in English?
-
-### Options
-- [ ] A) Shoulder <!-- feedback: Incorrect. "Shoulder" means hombro. -->
-- [ ] B) Knee <!-- feedback: Incorrect. "Knee" means rodilla. -->
-- [x] C) Head <!-- feedback: Correct! "Head" = cabeza. -->
-- [ ] D) Neck <!-- feedback: Incorrect. "Neck" means cuello. -->
-
-### Explicación Pedagógica
-"Head" = cabeza. En la head están los eyes, nose, mouth, ears. "Head" se pronuncia "jed". ¡Head, shoulders, knees and toes!
+La mano se dice "hand". Al final de cada brazo tenemos una mano.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+What is **"Pierna"** in English?
+
+### Options
+- [ ] A) Arm <!-- feedback: Incorrect. -->
+- [x] B) Leg <!-- feedback: Correct! Leg is pierna. -->
+- [ ] C) Shoulder <!-- feedback: Incorrect. -->
+- [ ] D) Knee <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+La pierna se dice "leg". Usamos las piernas para caminar y correr.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v5`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-You use your **legs** to:
+What is **"Pie"** in English?
 
 ### Options
-- [ ] A) Write <!-- feedback: Incorrect. You write with your hands. -->
-- [ ] B) Eat <!-- feedback: Incorrect. You eat with your mouth. -->
-- [x] C) Walk and run <!-- feedback: Correct! Legs (piernas) are for walking (caminar) and running (correr). -->
-- [ ] D) Listen <!-- feedback: Incorrect. You listen with your ears. -->
+- [x] A) Foot <!-- feedback: Correct! Foot is pie. -->
+- [ ] B) Hand <!-- feedback: Incorrect. -->
+- [ ] C) Head <!-- feedback: Incorrect. -->
+- [ ] D) Leg <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Legs" = piernas. Las piernas nos permiten caminar, correr y saltar. En la canción: "Head, shoulders, knees and toes, knees and toes!"
+Un pie se dice "foot". Si son los dos, decimos "feet".
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v5`
-**Bloom:** Remember
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v6`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Boca"** in English?
+You wear a hat on your:
 
 ### Options
-- [ ] A) Nose <!-- feedback: Incorrect. "Nose" means nariz. -->
-- [ ] B) Ear <!-- feedback: Incorrect. "Ear" means oreja. -->
-- [x] C) Mouth <!-- feedback: Correct! "Mouth" = boca. -->
-- [ ] D) Tooth <!-- feedback: Incorrect. "Tooth" means diente. -->
+- [x] A) Head <!-- feedback: Correct! You wear hats on your head. -->
+- [ ] B) Foot <!-- feedback: Incorrect. -->
+- [ ] C) Hand <!-- feedback: Incorrect. -->
+- [ ] D) Arm <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Mouth" = boca. Usamos la mouth para hablar (speak), comer (eat) y sonreír (smile). Se pronuncia "máuz".
+El sombrero (hat) se usa en la cabeza (head).
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-What part of your body goes **between your head and your body**?
+You wear shoes on your:
 
 ### Options
-- [ ] A) Arm <!-- feedback: Incorrect. The arm is attached to the shoulder. -->
-- [ ] B) Leg <!-- feedback: Incorrect. The leg is at the bottom. -->
-- [x] C) Neck <!-- feedback: Correct! The neck (cuello) connects your head to your body. -->
-- [ ] D) Hand <!-- feedback: Incorrect. The hand is at the end of the arm. -->
+- [ ] A) Hands <!-- feedback: Incorrect. -->
+- [ ] B) Arms <!-- feedback: Incorrect. -->
+- [x] C) Feet <!-- feedback: Correct! Shoes go on your feet. -->
+- [ ] D) Head <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Neck" = cuello. El cuello conecta la cabeza con el resto del cuerpo. "Neck" se pronuncia "nek".
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-You wear a **ring** on your:
-
-### Options
-- [ ] A) Foot <!-- feedback: Incorrect. Rings are not worn on feet. -->
-- [ ] B) Head <!-- feedback: Incorrect. A ring is too small for a head. -->
-- [ ] C) Arm <!-- feedback: Incorrect. Bracelets go on the arm, rings go on fingers. -->
-- [x] D) Finger <!-- feedback: Correct! A ring (anillo) goes on your finger (dedo). -->
-
-### Explicación Pedagógica
-"Finger" = dedo de la mano. Tenemos five fingers en cada hand. "Finger" se pronuncia "fín-guer". ¡Los anillos se ponen en los fingers!
+Los zapatos (shoes) se usan en los pies (feet).
 
 ---
 
@@ -166,19 +168,19 @@ You wear a **ring** on your:
 **ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete the song: **"Head, shoulders, ____, and toes"**
+Which part of the body is **"Hombro"**?
 
 ### Options
-- [ ] A) hands <!-- feedback: Incorrect. The song says "knees," not hands. -->
-- [x] B) knees <!-- feedback: Correct! The song goes: Head, shoulders, knees (rodillas), and toes. -->
-- [ ] C) elbows <!-- feedback: Incorrect. Elbows are not in this part of the song. -->
-- [ ] D) fingers <!-- feedback: Incorrect. Fingers are not in this song. -->
+- [ ] A) Knee <!-- feedback: Incorrect. -->
+- [x] B) Shoulder <!-- feedback: Correct! Shoulder is hombro. -->
+- [ ] C) Elbow <!-- feedback: Incorrect. -->
+- [ ] D) Toe <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-La canción infantil "Head, Shoulders, Knees and Toes" enseña partes del cuerpo. "Knees" = rodillas. ¡Canta la canción para recordar!
+El hombro se dice "shoulder". Recuerda la canción: "Head, shoulders, knees and toes".
 
 ---
 
@@ -186,19 +188,19 @@ La canción infantil "Head, Shoulders, Knees and Toes" enseña partes del cuerpo
 **ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-You point to your **stomach** after eating a big meal. Where is it?
+What are **"Rodillas"** in English?
 
 ### Options
-- [ ] A) On your head <!-- feedback: Incorrect. Your stomach is not on your head. -->
-- [x] B) In the middle of your body <!-- feedback: Correct! Your stomach (estómago/barriga) is in your abdomen. -->
-- [ ] C) On your leg <!-- feedback: Incorrect. Your stomach is not on your leg. -->
-- [ ] D) On your back <!-- feedback: Incorrect. The back is behind you. -->
+- [ ] A) Shoulders <!-- feedback: Incorrect. -->
+- [ ] B) Toes <!-- feedback: Incorrect. -->
+- [x] C) Knees <!-- feedback: Correct! Knees are rodillas. -->
+- [ ] D) Fingers <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Stomach" = estómago o barriga. Está en el medio de tu cuerpo. Los niños colombianos dicen "barriga" y en inglés es "tummy" o "stomach".
+Las rodillas se dicen "knees". La "k" al principio es muda, no suena.
 
 ---
 
@@ -206,16 +208,16 @@ You point to your **stomach** after eating a big meal. Where is it?
 **ID:** `CO-ING-3-2026-W11-parts-of-body-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-Your teacher says: **"Touch your nose!"** What do you do?
+Where are your **fingers**?
 
 ### Options
-- [ ] A) Touch your ear <!-- feedback: Incorrect. The teacher said nose, not ear. -->
-- [x] B) Touch your nose <!-- feedback: Correct! "Touch your nose" = toca tu nariz. -->
-- [ ] C) Touch your mouth <!-- feedback: Incorrect. The teacher said nose, not mouth. -->
-- [ ] D) Touch your eye <!-- feedback: Incorrect. The teacher said nose, not eye. -->
+- [ ] A) On your feet <!-- feedback: Incorrect. Those are toes. -->
+- [x] B) On your hands <!-- feedback: Correct! You have fingers on your hands. -->
+- [ ] C) On your head <!-- feedback: Incorrect. -->
+- [ ] D) On your legs <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Touch" = tocar. "Nose" = nariz. Es un juego divertido: "Touch your nose!" ¡Sigue las instrucciones en inglés!
+Los dedos de las manos se llaman "fingers". Los dedos de los pies se llaman "toes".
