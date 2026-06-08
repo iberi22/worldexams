@@ -5,197 +5,265 @@ grado: 3
 asignatura: "ciencias-naturales"
 tema: "plantas-partes"
 semana: "W02"
+periodo: 1
 protocol_version: "5.2"
+year: 2026
 bundle_index: 1
-bundle_size: 8
+bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.22"
-  simulated_responses: 100
-rubric_baseline: "plantas, partes de la planta, raíz, tallo, hojas, flores, frutos, fotosíntesis básica"
+rubric_baseline: "Partes de la planta (raíz, tallo, hojas, flores y frutos) y sus funciones principales."
 ---
 
-# Bundle Mastery: Partes de las Plantas — Semana 2
+# Las Partes de las Plantas
 
-Este bundle cubre las partes principales de las plantas: raíz, tallo, hojas, flores y frutos, así como sus funciones básicas como la fotosíntesis y la absorción de nutrientes.
+Este bundle explora la anatomía de las plantas y cómo cada una de sus partes cumple una función vital para su crecimiento y supervivencia.
 
----
-
-## Pregunta 1 [D1]
+## Pregunta 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Comunicación y Representación
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Juan observa un árbol de naranjas en el patio de su abuela en el Valle del Cauca y nota que está bien sujeto al suelo.
 **Expected_Success:** 0.90
-**Context:** En un colegio de Bogotá, la profesora muestra el dibujo de una planta con sus partes señaladas.
 
 ### Enunciado
-¿Cómo se llama la parte de la planta que está debajo de la tierra?
+
+¿Qué parte de la planta se encarga de sujetarla al suelo y absorber agua?
 
 ### Opciones
-- [x] A) Raíz <!-- feedback: Correcto. La raíz crece debajo de la tierra. -->
-- [ ] B) Hoja <!-- feedback: Incorrecto. Las hojas están en el tallo, sobre la tierra. -->
-- [ ] C) Flor <!-- feedback: Incorrecto. Las flores están sobre la tierra. -->
-- [ ] D) Fruto <!-- feedback: Incorrecto. Los frutos crecen sobre la tierra. -->
+
+- [ ] A) El tallo <!-- feedback: El tallo sostiene las hojas y flores, pero no es la parte principal encargada de absorber el agua del suelo. -->
+- [x] B) La raíz <!-- feedback: La raíz crece bajo la tierra, fija la planta al sustrato y succiona el agua y los minerales necesarios para vivir. -->
+- [ ] C) Las hojas <!-- feedback: Las hojas se encargan principalmente de la respiración y la fotosíntesis, no de la absorción de agua subterránea. -->
+- [ ] D) El fruto <!-- feedback: El fruto protege las semillas y sirve para la reproducción, no cumple funciones de soporte o absorción de nutrientes. -->
 
 ### Explicación Pedagógica
-La raíz es la parte de la planta que crece hacia abajo, dentro del suelo. Su función principal es absorber agua y minerales para alimentar a la planta.
+
+La raíz es el órgano que permite a la planta obtener recursos del suelo. Además de fijarla firmemente para que no se caiga con el viento, posee pelos absorbentes que captan el agua y las sales minerales, transportándolas hacia el resto de la planta.
 
 ---
 
-## Pregunta 2 [D1]
+## Pregunta 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES category:** Comunicación y Representación
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Si cortamos una flor y la ponemos en un florero, el agua sube por una parte central para llegar a los pétalos.
 **Expected_Success:** 0.85
-**Context:** Los estudiantes en Medellín tocan diferentes partes de una planta de frijol.
 
 ### Enunciado
-¿Qué parte de la planta sostiene las hojas y las flores?
+
+¿Cuál es la función principal del tallo en una planta?
 
 ### Opciones
-- [ ] A) La raíz <!-- feedback: Incorrecto. La raíz está bajo tierra. -->
-- [x] B) El tallo <!-- feedback: Correcto. El tallo sostiene las hojas y las flores. -->
-- [ ] C) El fruto <!-- feedback: Incorrecto. El fruto contiene las semillas. -->
-- [ ] D) La semilla <!-- feedback: Incorrecto. La semilla da origen a la planta. -->
+
+- [ ] A) Captar la luz del sol <!-- feedback: Captar la luz es la función principal de las hojas, las cuales son planas y anchas para este propósito. -->
+- [ ] B) Producir las semillas <!-- feedback: Las semillas se producen dentro de los frutos a partir de las flores, no directamente en el tallo. -->
+- [x] C) Transportar agua y nutrientes <!-- feedback: El tallo funciona como una autopista que lleva el agua desde la raíz hasta las hojas y distribuye el alimento por toda la planta. -->
+- [ ] D) Enterrarse en la tierra <!-- feedback: El tallo generalmente crece hacia arriba, buscando la luz; la parte que se entierra es la raíz. -->
 
 ### Explicación Pedagógica
-El tallo es la estructura que sostiene la planta hacia arriba. Transporta agua y nutrientes desde la raíz hasta las hojas, y sostiene las hojas, flores y frutos.
+
+El tallo sirve de soporte para las hojas, flores y frutos. Internamente tiene unos tubos muy delgados que transportan la savia (el alimento de la planta), conectando todos los órganos para que funcionen como un solo sistema.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES category:** Comunicación y Representación
-**Expected_Success:** 0.75
-**Context:** En un jardín de Cali, los niños observan las hojas de un árbol de mango.
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** En una ensalada de almuerzo, los niños identifican hojas de lechuga y espinaca.
+**Expected_Success:** 0.88
 
 ### Enunciado
-¿Qué función principal tienen las hojas de las plantas?
+
+¿Qué proceso muy importante para la vida ocurre principalmente en las hojas de las plantas?
 
 ### Opciones
-- [ ] A) Absorber agua del suelo <!-- feedback: Incorrecto. Esa es función de la raíz. -->
-- [x] B) Hacer el alimento de la planta <!-- feedback: Correcto. Las hojas hacen fotosíntesis. -->
-- [ ] C) Sostener la planta <!-- feedback: Incorrecto. Esa es función del tallo. -->
-- [ ] D) Producir semillas <!-- feedback: Incorrecto. Esa es función de la flor. -->
+
+- [x] A) La fotosíntesis <!-- feedback: En las hojas se transforma la luz del sol, el agua y el gas carbónico en alimento y oxígeno, un proceso vital para el planeta. -->
+- [ ] B) La absorción de minerales <!-- feedback: Los minerales se absorben por las raíces en la parte subterránea de la planta, no por las hojas verdes. -->
+- [ ] C) El nacimiento de las raíces <!-- feedback: Las raíces nacen de la semilla o de la base del tallo, no son producidas por las hojas superiores. -->
+- [ ] D) La excavación del suelo <!-- feedback: Las hojas están en el aire; ninguna parte de la hoja tiene la función de excavar o remover la tierra. -->
 
 ### Explicación Pedagógica
-Las hojas realizan la fotosíntesis: usan la luz del sol, el agua y el dióxido de carbono para fabricar el alimento (azúcar) que la planta necesita para crecer.
+
+Las hojas son las "fábricas" de alimento de la planta. Gracias a una sustancia llamada clorofila, captan la energía solar y realizan la fotosíntesis, liberando además el oxígeno que la mayoría de los seres vivos respiramos.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Comunicación y Representación
-**Expected_Success:** 0.70
-**Context:** En Barranquilla, la abuela de un estudiante le explica que las flores se convierten en frutos.
+**ICFES:** Indagación
+**Context:** Un jardinero observa que algunas plantas tienen flores de colores muy brillantes y un olor dulce muy agradable.
+**Expected_Success:** 0.80
 
 ### Enunciado
-¿Para qué sirven las flores en las plantas?
+
+¿Para qué le sirven los colores y el olor a las flores de la planta?
 
 ### Opciones
-- [ ] A) Para absorber agua <!-- feedback: Incorrecto. Las flores no absorben agua. -->
-- [ ] B) Para sujetar la planta al suelo <!-- feedback: Incorrecto. Sujetar es función de la raíz. -->
-- [x] C) Para reproducirse y formar frutos y semillas <!-- feedback: Correcto. Las flores son los órganos reproductivos. -->
-- [ ] D) Para almacenar alimento <!-- feedback: Incorrecto. Algunas raíces almacenan, no las flores. -->
+
+- [ ] A) Para que las personas las compren <!-- feedback: Aunque a los humanos nos gustan, el objetivo de la planta es biológico y no comercial. -->
+- [x] B) Para atraer insectos polinizadores <!-- feedback: Los colores y olores atraen abejas y mariposas que ayudan a que la planta se reproduzca y produzca frutos. -->
+- [ ] C) Para asustar a los animales hambrientos <!-- feedback: Generalmente, los olores dulces y colores vivos atraen, mientras que los pinchos o venenos son los que asustan. -->
+- [ ] D) Para absorber más agua de la lluvia <!-- feedback: La flor no absorbe agua; su estructura está diseñada para la reproducción y no para la hidratación. -->
 
 ### Explicación Pedagógica
-Las flores son los órganos reproductivos de las plantas. Después de la polinización, la flor se transforma en un fruto que contiene las semillas, permitiendo que la planta se reproduzca.
+
+La flor es el órgano reproductor de muchas plantas. Su belleza y fragancia tienen el fin de atraer a animales polinizadores que transportan el polen de una flor a otra, permitiendo la formación de semillas y la continuidad de la especie.
 
 ---
 
-## Pregunta 5 [D3]
+## Pregunta 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES category:** Razonamiento y Argumentación
-**Expected_Success:** 0.65
-**Context:** En Bucaramanga, un estudiante riega su planta pero el agua se queda en la superficie.
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Context:** Después de que la flor se marchita en un árbol de café, aparece un grano rojo muy conocido en Colombia.
+**Expected_Success:** 0.75
 
-### Enunciado**
-Si las raíces de una planta están dañadas, ¿qué podría pasarle?
+### Enunciado
+
+¿Qué función cumple el fruto (como el grano de café) para la planta?
 
 ### Opciones
-- [x] A) No podría absorber agua y la planta se marchitaría <!-- feedback: Correcto. Las raíces dañadas no pueden absorber agua. -->
-- [ ] B) La planta crecería más rápido <!-- feedback: Incorrecto. Las raíces dañadas perjudican a la planta. -->
-- [ ] C) Las hojas harían más fotosíntesis <!-- feedback: Incorrecto. Sin agua no hay fotosíntesis. -->
-- [ ] D) La planta produciría más flores <!-- feedback: Incorrecto. La planta estaría debilitada. -->
+
+- [ ] A) Sostener las ramas pesadas <!-- feedback: El fruto cuelga de las ramas pero no les da soporte; de hecho, si hay muchos frutos, la rama puede doblarse. -->
+- [ ] B) Fabricar el oxígeno del aire <!-- feedback: La fabricación de oxígeno ocurre en las partes verdes (hojas y tallos jóvenes) mediante la fotosíntesis. -->
+- [x] C) Proteger y dispersar las semillas <!-- feedback: El fruto guarda las semillas en su interior y ayuda a que viajen a otros lugares cuando los animales se los comen. -->
+- [ ] D) Alimentar a la raíz con azúcar <!-- feedback: El fruto no alimenta a la raíz; es la hoja la que envía alimento a todas las partes de la planta. -->
 
 ### Explicación Pedagógica
-Las raíces son esenciales para absorber agua y minerales del suelo. Si están dañadas, la planta no puede obtener los recursos que necesita y termina marchitándose.
+
+El fruto es el resultado de la fecundación de la flor. Su misión principal es proteger a las semillas mientras se desarrollan y asegurar que lleguen a un lugar adecuado para germinar, muchas veces siendo transportadas por animales.
 
 ---
 
-## Pregunta 6 [D4]
+## Pregunta 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
-**Expected_Success:** 0.60
-**Context:** En el mercado de Sincelejo, un agricultor vende tomates, zanahorias y lechuga.
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Context:** Un estudiante decide cubrir todas las hojas de una pequeña planta con papel aluminio para que no les dé nada de luz.
+**Expected_Success:** 0.65
 
-### Enunciado**
-De los siguientes alimentos, ¿cuál es la raíz de una planta?
+### Enunciado
+
+¿Qué es lo más probable que le suceda a la planta después de unos días?
 
 ### Opciones
-- [ ] A) La lechuga <!-- feedback: Incorrecto. La lechuga son las hojas de la planta. -->
-- [x] B) La zanahoria <!-- feedback: Correcto. La zanahoria es una raíz que almacena nutrientes. -->
-- [ ] C) El tomate <!-- feedback: Incorrecto. El tomate es el fruto de la planta. -->
-- [ ] D) El brócoli <!-- feedback: Incorrecto. El brócoli son las flores de la planta. -->
+
+- [ ] A) Crecerá más rápido buscando la luz <!-- feedback: Si no recibe nada de luz, no tendrá energía para crecer y sus procesos biológicos se detendrán. -->
+- [x] B) Se debilitará y se pondrá amarilla <!-- feedback: Al no poder realizar la fotosíntesis en sus hojas, la planta no tendrá alimento y empezará a morir lentamente. -->
+- [ ] C) Las raíces saldrán por las hojas <!-- feedback: Las raíces no cambian su lugar de crecimiento; se quedarían en la tierra pero sin recibir energía de arriba. -->
+- [ ] D) Producirá flores más grandes <!-- feedback: La producción de flores requiere mucha energía, algo que la planta no tendrá si sus hojas están tapadas. -->
 
 ### Explicación Pedagógica
-La zanahoria es una raíz modificada que la planta usa para almacenar nutrientes. Las personas la consumen como alimento. La lechuga son hojas, el tomate es un fruto y el brócoli son flores.
+
+Este experimento demuestra que las hojas son fundamentales para la nutrición. Al bloquear la luz, impedimos la fotosíntesis, y como la planta no puede fabricar su comida, utiliza sus reservas hasta agotarlas y debilitarse.
 
 ---
 
-## Pregunta 7 [D5]
+## Pregunta 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
-**Expected_Success:** 0.55
-**Context:** En Neiva, una niña pone apio en un vaso con colorante azul y al día siguiente las hojas se ven azules.
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Existen plantas como el cactus que tienen espinas en lugar de hojas grandes y verdes.
+**Expected_Success:** 0.70
 
-### Enunciado**
-¿Por qué el colorante azul llegó hasta las hojas del apio?
+### Enunciado
+
+¿Por qué el cactus tiene espinas en lugar de hojas en el desierto?
 
 ### Opciones
-- [ ] A) Porque las hojas atrajeron el colorante con su olor <!-- feedback: Incorrecto. No es por el olor. -->
-- [x] B) Porque el tallo del apio transporta agua (con colorante) desde el vaso hasta las hojas <!-- feedback: Correcto. El tallo transporta agua y nutrientes. -->
-- [ ] C) Porque las raíces del apio absorbieron el colorante <!-- feedback: Incorrecto. El apio no tiene raíces visibles en el agua. -->
-- [ ] D) Porque el colorante manchó el tallo desde afuera <!-- feedback: Incorrecto. El colorante sube por dentro del tallo. -->
+
+- [ ] A) Porque se le olvidó crecer <!-- feedback: La forma de las plantas no es un olvido, sino una adaptación evolutiva a su ambiente específico. -->
+- [x] B) Para evitar perder agua por el calor <!-- feedback: Las hojas grandes pierden mucha agua; las espinas protegen la planta y reducen la evaporación en lugares secos. -->
+- [ ] C) Para poder pinchar a los turistas <!-- feedback: El objetivo de la planta no es lastimar humanos, sino sobrevivir a la falta de agua y evitar ser comida por animales. -->
+- [ ] D) Porque las espinas hacen fotosíntesis mejor <!-- feedback: En los cactus, el tallo verde y grueso es el que realiza la fotosíntesis, no las espinas. -->
 
 ### Explicación Pedagógica
-El tallo del apio tiene conductos llamados vasos conductores que transportan agua desde la base hasta las hojas. El colorante azul viajó por estos conductos, demostrando cómo el tallo transporta agua y nutrientes.
+
+Las partes de las plantas pueden cambiar según el clima. En el desierto, donde hay poca agua, las hojas se transforman en espinas para ahorrar líquido. El tallo se vuelve gordo y verde para guardar agua y realizar el trabajo de las hojas.
 
 ---
 
-## Pregunta 8 [D5]
+## Pregunta 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
-**Expected_Success:** 0.45
-**Context:** En Pereira, un cultivo de café tiene plantas con hojas amarillas y los agricultores están preocupados.
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Context:** Algunas plantas, como la hiedra, tienen tallos que se enredan en las paredes o en otros árboles para subir muy alto.
+**Expected_Success:** 0.72
 
-### Enunciado**
-Si las hojas de una planta de café se ponen amarillas, ¿qué podría estar faltándole?
+### Enunciado
+
+¿Cuál es la ventaja de que el tallo de la hiedra crezca de esa manera?
 
 ### Opciones
-- [ ] A) Le falta protección del viento <!-- feedback: Incorrecto. El viento no causa hojas amarillas directamente. -->
-- [x] B) Le faltan nutrientes del suelo porque las raíces no los están absorbiendo bien <!-- feedback: Correcto. Las hojas amarillas indican deficiencia de nutrientes. -->
-- [ ] C) Le falta espacio para crecer <!-- feedback: Incorrecto. El espacio no se relaciona con el color de las hojas. -->
-- [ ] D) Le falta música para crecer <!-- feedback: Incorrecto. Las plantas no necesitan música. -->
+
+- [ ] A) Para estar más cerca de la lluvia <!-- feedback: La lluvia cae en todas partes; subir no garantiza recibir más agua de la que ya recibe en el suelo. -->
+- [x] B) Para alcanzar más luz del sol <!-- feedback: Al trepar, las hojas de la hiedra evitan la sombra de otras plantas y pueden realizar mejor la fotosíntesis. -->
+- [ ] C) Para esconderse de los insectos <!-- feedback: Al subir, en realidad se expone a más insectos voladores que podrían comerse sus hojas. -->
+- [ ] D) Para que las raíces no se mojen <!-- feedback: Las raíces siempre necesitan estar en un lugar húmedo (la tierra) para absorber agua y nutrientes. -->
 
 ### Explicación Pedagógica
-Las hojas amarillas son un signo de que la planta no está recibiendo suficientes nutrientes, especialmente nitrógeno, que es esencial para producir clorofila (el pigmento verde de las hojas). Esto puede ocurrir si las raíces no funcionan bien o si el suelo está agotado.
+
+El tallo tiene una función de ubicación espacial. Al trepar, la planta busca una posición ventajosa donde sus hojas reciban luz directa, demostrando cómo las partes de la planta se adaptan para cumplir su función de nutrición.
 
 ---
+
+## Pregunta 9 [D7-D8]
+
+**ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v9`
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Context:** Si comparamos una zanahoria (que es una raíz) con una papa (que es un tallo subterráneo), vemos que ambas guardan alimento.
+**Expected_Success:** 0.60
+
+### Enunciado
+
+¿Por qué algunas plantas guardan alimento en sus raíces o tallos bajo la tierra?
+
+### Opciones
+
+- [ ] A) Porque no tienen espacio en las hojas <!-- feedback: El espacio no es el problema, sino la protección y la reserva de energía para tiempos difíciles. -->
+- [x] B) Para sobrevivir cuando no hay buenas condiciones <!-- feedback: Estas reservas permiten que la planta vuelva a crecer después de una sequía o un invierno fuerte. -->
+- [ ] C) Para que los humanos tengamos qué comer <!-- feedback: Aunque los humanos las aprovechemos, la planta lo hace para su propia supervivencia biológica. -->
+- [ ] D) Porque les da miedo el sol <!-- feedback: Las plantas necesitan el sol; guardar alimento abajo es una estrategia de almacenamiento de energía química. -->
+
+### Explicación Pedagógica
+
+Las raíces y tallos de reserva son adaptaciones de supervivencia. Almacenan almidón y nutrientes que la planta fabricó en las hojas, permitiéndole tener energía ahorrada para cuando no pueda realizar fotosíntesis.
+
+---
+
+## Pregunta 10 [D9-D10]
+
+**ID:** `CO-CIE-3-2026-W02-plantas-partes-001-MASTERY-v10`
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un científico crea una planta artificial que tiene raíces de plástico, tallo de metal y hojas de tela verde, pero no puede crecer ni dar semillas.
+**Expected_Success:** 0.55
+
+### Enunciado
+
+¿Cumplen estas partes artificiales la misma función que las de una planta real?
+
+### Opciones
+
+- [ ] A) Sí, porque se ve igual a una planta real <!-- feedback: La apariencia externa no significa que los procesos internos de vida estén ocurriendo. -->
+- [ ] B) Sí, porque sostiene las hojas en el aire <!-- feedback: Sostener es solo una parte física; falta el transporte de savia y la vida celular del tallo. -->
+- [x] C) No, porque no realizan procesos vitales biológicos <!-- feedback: Las partes reales están vivas, respiran, transportan nutrientes y permiten la reproducción, cosas que el plástico y metal no hacen. -->
+- [ ] D) No, porque el metal es muy pesado para la planta <!-- feedback: El problema no es el peso, sino la incapacidad de realizar metabolismo, crecimiento y reproducción. -->
+
+### Explicación Pedagógica
+
+Las partes de los seres vivos no son solo estructuras físicas, sino órganos biológicos complejos. La raíz real interactúa con el suelo, el tallo transporta vida y la hoja transforma energía; las imitaciones artificiales solo copian la forma pero no la función vital.
