@@ -5,276 +5,265 @@ grado: 3
 asignatura: "ciencias-naturales"
 tema: "animales-reproduccion"
 semana: "W09"
+periodo: 1
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
+alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "reproducciÃ³n animal, ovÃ­paros, vivÃ­paros"
+rubric_baseline: "Reproducción animal: dimorfismo sexual, cortejo y cuidado parental en diferentes especies."
 ---
 
-# Bundle Mastery: Animales: reproducciÃ³n (ovÃ­paros, vivÃ­paros) â€” Grado 3 â€” W09
+# La Reproducción y el Cuidado de las Crías
 
-10 preguntas sobre reproducciÃ³n animal: ovÃ­paros y vivÃ­paros.
+Este bundle explora cómo los animales se preparan para tener crías, las diferencias entre machos y hembras, y cómo algunos padres cuidan a sus hijos para que sobrevivan.
 
-## Pregunta 1 [D1]
+## Pregunta 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
-**Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** En un estanque, vemos que el pavo real macho tiene una cola gigante de colores, mientras que la hembra es de color café sencillo.
+**Expected_Success:** 0.90
 
 ### Enunciado
-Los animales que nacen de huevos se llaman:
+
+¿Cómo se llama la diferencia física notable entre el macho y la hembra de una misma especie?
 
 ### Opciones
-- [ ] A) VivÃ­paros
-  <!-- feedback: No. Nacen del vientre materno. -->
-- [x] B) OvÃ­paros
-  <!-- feedback: Â¡Correcto! Nacen de huevos. -->
-- [ ] C) MamÃ­feros
-  <!-- feedback: No. Es una clase de animal. -->
-- [ ] D) Reptiles
-  <!-- feedback: No. Es una clase de animal. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Los ovÃ­paros (gallinas, tortugas, peces) se desarrollan en huevos.
+- [ ] A) Cambio de piel <!-- feedback: El cambio de piel (muda) es un proceso de crecimiento, no se refiere a las diferencias entre sexos. -->
+- [x] B) Dimorfismo sexual <!-- feedback: El dimorfismo sexual son las variaciones de forma, color o tamaño que permiten distinguir al macho de la hembra. -->
+- [ ] C) Camuflaje de pareja <!-- feedback: El camuflaje es para esconderse del peligro; las diferencias sexuales suelen ser para llamar la atención. -->
+- [ ] D) Amistad biológica <!-- feedback: No es un término científico; la diferencia física responde a roles específicos en la reproducción de la especie. -->
+
+### Explicación Pedagógica
+
+El dimorfismo sexual ayuda a los animales a reconocerse. Muchas veces el macho es más llamativo (colores brillantes, melenas, cuernos) para atraer a la hembra y demostrar que es un individuo sano y fuerte para tener crías.
 
 ---
 
-## Pregunta 2 [D1]
+## Pregunta 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Antes de aparearse, algunos pájaros realizan bailes complicados, cantan canciones especiales o construyen nidos muy bonitos.
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Valledupar, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Los que se desarrollan dentro del vientre materno son:
+
+¿Cuál es el objetivo de estos comportamientos llamados "cortejo"?
 
 ### Opciones
-- [ ] A) OvÃ­paros
-  <!-- feedback: No. Ponen huevos. -->
-- [x] B) VivÃ­paros
-  <!-- feedback: Â¡Correcto! Nacen del vientre. -->
-- [ ] C) HerbÃ­voros
-  <!-- feedback: No. Es por alimentaciÃ³n. -->
-- [ ] D) Aves
-  <!-- feedback: No. Son ovÃ­paras. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Los vivÃ­paros (perros, vacas, humanos) se desarrollan dentro de la madre.
+- [ ] A) Aprender a bailar para fiestas <!-- feedback: Los animales no bailan por diversión social como los humanos; sus acciones tienen un fin biológico serio. -->
+- [ ] B) Asustar a otros animales <!-- feedback: Aunque a veces alejan competidores, el fin principal del cortejo es atraer a una pareja de su misma especie. -->
+- [x] C) Convencer a la pareja para reproducirse <!-- feedback: El cortejo es una forma de comunicación que asegura que ambos animales están listos para ser padres. -->
+- [ ] D) Hacer ejercicio para crecer <!-- feedback: El crecimiento ocurre en otras etapas; el cortejo sucede cuando el animal ya es un adulto maduro. -->
+
+### Explicación Pedagógica
+
+El cortejo es vital para la supervivencia de la especie. Asegura que los animales se junten con individuos de su misma clase y que elijan a la mejor pareja posible para que sus hijos nazcan sanos y fuertes.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Santa Marta, la profesora presenta el siguiente ejercicio.
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Después de nacer, un ternero busca la ubre de su madre para tomar leche tibia y nutritiva.
+**Expected_Success:** 0.88
 
 ### Enunciado
-La gallina pone huevos y nacen pollitos. Es:
+
+¿Qué grupo de animales se caracteriza por alimentar a sus crías con leche producida por la madre?
 
 ### Opciones
-- [ ] A) VivÃ­para
-  <!-- feedback: No. -->
-- [x] B) OvÃ­para
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Hermafrodita
-  <!-- feedback: No. -->
-- [ ] D) Asexual
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-La gallina es ovÃ­para: pone huevos y los empolla.
+- [ ] A) Los reptiles <!-- feedback: Los reptiles no producen leche; sus crías suelen ser independientes o comen insectos y plantas desde que nacen. -->
+- [x] B) Los mamíferos <!-- feedback: Los mamíferos (como vacas, perros y humanos) tienen glándulas mamarias para nutrir a sus hijos en sus primeros meses. -->
+- [ ] C) Las aves <!-- feedback: Las aves alimentan a sus crías con semillas o insectos que traen en su pico, pero no producen leche biológica. -->
+- [ ] D) Los peces <!-- feedback: Los peces no amamantan; sus crías (alevinos) buscan comida microscópica en el agua por su cuenta. -->
+
+### Explicación Pedagógica
+
+La lactancia es una forma de cuidado parental muy avanzada. Permite que la cría crezca rápido y segura, recibiendo todos los nutrientes y defensas contra enfermedades directamente de su madre.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
+**ICFES:** Indagación
+**Context:** Algunos peces ponen miles de huevos y se van, dejando que los bebés sobrevivan solos. Los pingüinos cuidan un solo huevo durante meses.
+**Expected_Success:** 0.80
 
 ### Enunciado
-El ternero nace del vientre de la vaca y toma leche. Es:
+
+¿Cuál es la ventaja de cuidar a las crías en lugar de poner muchos huevos y abandonarlos?
 
 ### Opciones
-- [ ] A) OvÃ­para
-  <!-- feedback: No. -->
-- [x] B) VivÃ­para
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) CarnÃ­vora
-  <!-- feedback: No. -->
-- [ ] D) OmnÃ­vora
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-La vaca es vivÃ­para: su crÃ­a se desarrolla dentro del vientre.
+- [ ] A) Que los padres no se aburren <!-- feedback: Los animales no cuidan crías por entretenimiento, sino por una fuerte necesidad instintiva de supervivencia. -->
+- [x] B) Que hay más probabilidades de que el hijo llegue a ser adulto <!-- feedback: Al protegerlo de depredadores y alimentarlo, el hijo tiene una vida más segura aunque sea uno solo. -->
+- [ ] C) Que el hijo aprende a hablar más rápido <!-- feedback: Los animales no hablan; el beneficio es puramente biológico de protección y nutrición física. -->
+- [ ] D) Que los huevos no se mojan <!-- feedback: En el caso de los peces, los huevos deben estar mojados; la ventaja es la protección contra los ataques de otros animales. -->
+
+### Explicación Pedagógica
+
+Existen dos estrategias en la naturaleza. Tener miles de hijos y no cuidarlos (muchos mueren), o tener pocos hijos y cuidarlos mucho (la mayoría sobrevive). Ambas funcionan, pero los mamíferos y aves prefieren el cuidado parental.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en Girardot, la profesora presenta el siguiente ejercicio.
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un cocodrilo hembra carga a sus bebés recién nacidos en su boca para llevarlos desde el nido de arena hasta el agua del río.
+**Expected_Success:** 0.75
 
 ### Enunciado
-Â¿CuÃ¡l de estos es VIVÃPARO?
+
+¿Es este un ejemplo de cuidado parental?
 
 ### Opciones
-- [ ] A) Tortuga
-  <!-- feedback: No. Pone huevos. -->
-- [x] B) Perro
-  <!-- feedback: Â¡Correcto! Nace del vientre. -->
-- [ ] C) Cocodrilo
-  <!-- feedback: No. Pone huevos. -->
-- [ ] D) Rana
-  <!-- feedback: No. Pone huevos. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-El perro es vivÃ­paro. Los demÃ¡s son ovÃ­paros.
+- [ ] A) No, se los está tratando de comer <!-- feedback: Aunque parezca peligroso, los cocodrilos son madres muy cuidadosas y no lastiman a sus crías con los dientes. -->
+- [x] B) Sí, los está protegiendo y ayudando a llegar al agua <!-- feedback: El cuidado parental incluye cualquier acción de los padres que aumente la supervivencia de sus hijos. -->
+- [ ] C) No, es solo un juego de natación <!-- feedback: Los animales silvestres no realizan "juegos" de transporte; es una conducta de supervivencia seria y necesaria. -->
+- [ ] D) Sí, porque los cocodrilos son mamíferos <!-- feedback: Los cocodrilos son reptiles; este ejemplo enseña que algunos reptiles también cuidan a sus hijos. -->
+
+### Explicación Pedagógica
+
+Aunque asociamos el cuidado de los hijos con los humanos o los perros, muchos otros animales lo hacen. Las madres cocodrilo defienden sus nidos con ferocidad y ayudan a sus bebés en sus primeros momentos de vida.
 
 ---
 
-## Pregunta 6 [D3]
+## Pregunta 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Context:** En los caballitos de mar, es el macho el que guarda los huevos en una bolsa de su panza hasta que nacen los bebés.
+**Expected_Success:** 0.70
 
 ### Enunciado
-Nido con huevos en un Ã¡rbol. Â¿QuiÃ©n los puso?
+
+¿Qué nos enseña este ejemplo sobre los roles de los padres en la naturaleza?
 
 ### Opciones
-- [ ] A) Un perro
-  <!-- feedback: No. Los perros son vivÃ­paros. -->
-- [x] B) Un ave
-  <!-- feedback: Â¡Correcto! Las aves son ovÃ­paras. -->
-- [ ] C) Un caballo
-  <!-- feedback: No. Es vivÃ­paro. -->
-- [ ] D) Un gato
-  <!-- feedback: No. Es vivÃ­paro. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Las aves son ovÃ­paras y construyen nidos para sus huevos.
+- [ ] A) Que los machos no sirven para nada <!-- feedback: Al contrario, en esta especie el macho cumple el papel más importante de protección de los huevos. -->
+- [ ] B) Que las hembras son perezosas <!-- feedback: La hembra produce los huevos, lo cual requiere mucha energía; el trabajo simplemente se divide. -->
+- [x] C) Que tanto machos como hembras pueden cuidar a las crías <!-- feedback: Dependiendo de la especie, el cuidado puede ser de la madre, del padre o de ambos trabajando juntos. -->
+- [ ] D) Que el caballito de mar es un insecto <!-- feedback: El caballito de mar es un pez vertebrado con una forma de reproducción muy especial. -->
+
+### Explicación Pedagógica
+
+La naturaleza es muy variada. No siempre es la hembra la que cuida. En algunas aves y peces, el padre es el encargado de proteger el nido y alimentar a los pequeños, demostrando que el objetivo es que la especie continúe.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Pasto, la profesora presenta el siguiente ejercicio.
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Context:** Un nido de avispas tiene una "reina" que pone todos los huevos y miles de "obreras" que cuidan a las larvas aunque no sean sus propias hijas.
+**Expected_Success:** 0.65
 
 ### Enunciado
-En una granja hay gallinas, vacas y patos. Â¿CuÃ¡les son OVÃPAROS?
+
+¿Cómo se llama esta forma de vivir y reproducirse en grupo organizado?
 
 ### Opciones
-- [x] A) Gallinas y patos
-  <!-- feedback: Â¡Correcto! -->
-- [ ] B) Vacas
-  <!-- feedback: No. Son vivÃ­paras. -->
-- [ ] C) Todos
-  <!-- feedback: No. Las vacas no. -->
-- [ ] D) Ninguno
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Gallinas y patos son ovÃ­paros. Las vacas son vivÃ­paras.
+- [ ] A) Competencia feroz <!-- feedback: Al contrario, están colaborando para que toda la colonia sobreviva y prospere junta. -->
+- [x] B) Vida social o colonial <!-- feedback: Insectos como abejas, hormigas y avispas viven en sociedades donde el cuidado de las crías es una tarea compartida. -->
+- [ ] C) Juego de equipo escolar <!-- feedback: Es una estructura biológica instintiva, mucho más compleja y rígida que un juego humano. -->
+- [ ] D) Soledad absoluta <!-- feedback: La vida colonial es lo opuesto a la soledad; ningún individuo podría sobrevivir mucho tiempo separado del grupo. -->
+
+### Explicación Pedagógica
+
+Los animales sociales han llevado el cuidado de las crías a otro nivel. Al trabajar todas juntas, aseguran que la reina pueda poner miles de huevos mientras otras buscan comida y protegen el hogar de los enemigos.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un león macho joven trata de entrar a una manada que ya tiene un jefe. Ambos pelean usando sus garras y rugidos.
+**Expected_Success:** 0.68
 
 ### Enunciado
-Tortuga marina entierra sus huevos en la playa. Es:
+
+¿Por qué pelean los machos de muchas especies durante la época de reproducción?
 
 ### Opciones
-- [ ] A) VivÃ­para
-  <!-- feedback: No. Las crÃ­as no se desarrollan dentro. -->
-- [x] B) OvÃ­para
-  <!-- feedback: Â¡Correcto! Pone huevos. -->
-- [ ] C) MamÃ­fera
-  <!-- feedback: No. No amamanta. -->
-- [ ] D) Asexual
-  <!-- feedback: No. Necesita dos padres. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-La tortuga marina es ovÃ­para: entierra los huevos en la arena.
+- [ ] A) Porque les gusta lastimarse <!-- feedback: Las peleas son peligrosas y los animales tratan de evitarlas a menos que sea necesario por un recurso vital. -->
+- [x] B) Para demostrar quién es el más fuerte y apto <!-- feedback: El ganador tendrá el derecho de aparearse con las hembras, asegurando que las crías tengan genes de un padre fuerte. -->
+- [ ] C) Para ver quién tiene el rugido más feo <!-- feedback: El rugido es una herramienta de competencia, pero el objetivo final es el éxito reproductivo. -->
+- [ ] D) Para que las crías aprendan a pelear <!-- feedback: Las crías ni siquiera han nacido; la pelea es una competencia entre adultos por el territorio y la pareja. -->
+
+### Explicación Pedagógica
+
+La competencia entre machos es común en la naturaleza. Aunque nos parezca violento, es una forma de selección natural que permite que solo los individuos más sanos y capaces pasen su información a la siguiente generación.
 
 ---
 
-## Pregunta 9 [D4]
+## Pregunta 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES category:** Razonamiento y ArgumentaciÃ³n
-**Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en QuibdÃ³, la profesora presenta el siguiente ejercicio.
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Las tortugas de tierra entierran sus huevos en la arena y se van. Al nacer, las tortuguitas saben perfectamente que deben caminar hacia el refugio.
+**Expected_Success:** 0.60
 
 ### Enunciado
-Diferencia clave entre perro (vivÃ­paro) y cocodrilo (ovÃ­paro):
+
+¿Cómo saben las tortugas bebés qué hacer si sus padres nunca estuvieron allí para enseñarles?
 
 ### Opciones
-- [ ] A) El perro es mÃ¡s grande
-  <!-- feedback: No es diferencia reproductiva. -->
-- [x] B) Perro: crÃ­a interna; cocodrilo: huevo externo
-  <!-- feedback: Â¡Correcto! Diferencia fundamental. -->
-- [ ] C) El perro es mÃ¡s inteligente
-  <!-- feedback: No. -->
-- [ ] D) El cocodrilo no se reproduce
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-En vivÃ­paros el embriÃ³n crece dentro de la madre; en ovÃ­paros en huevo externo.
+- [ ] A) Porque lo vieron en la televisión <!-- feedback: Los animales no usan tecnología humana; su conocimiento viene de sus genes desde antes de nacer. -->
+- [x] B) Por puro instinto natural <!-- feedback: El instinto es el comportamiento heredado que permite a los animales realizar tareas complejas sin que nadie se las enseñe. -->
+- [ ] C) Porque otras tortugas les gritan desde lejos <!-- feedback: Las tortugas no se comunican de esa forma; cada pequeña tortuga actúa por su propia programación interna. -->
+- [ ] D) Porque tienen un mapa en la pata <!-- feedback: El "mapa" es biológico y está guardado en su cerebro en forma de instinto de supervivencia. -->
+
+### Explicación Pedagógica
+
+Los animales que no reciben cuidado parental nacen con instintos muy fuertes. Saben qué comer, dónde esconderse y cómo moverse desde el primer segundo. Es la forma en que compensan la falta de protección de sus padres.
 
 ---
 
-## Pregunta 10 [D4]
+## Pregunta 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES category:** Razonamiento y ArgumentaciÃ³n
-**Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Barranquilla, la profesora presenta el siguiente ejercicio.
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Los humanos cuidamos a nuestros hijos por casi 20 años, mientras que un ratón solo cuida a los suyos por unas pocas semanas.
+**Expected_Success:** 0.55
 
 ### Enunciado
-Â¿Por quÃ© las tortugas marinas ponen muchos huevos y los perros pocas crÃ­as?
+
+¿Cuál es la razón científica de que los humanos necesitemos tanto tiempo de cuidado?
 
 ### Opciones
-- [ ] A) Las tortugas son mÃ¡s grandes
-  <!-- feedback: No. -->
-- [x] B) Tortugas no cuidan crÃ­as; perros sÃ­
-  <!-- feedback: Â¡Correcto! Muchos huevos compensan mortalidad. -->
-- [ ] C) Los perros tambiÃ©n ponen huevos
-  <!-- feedback: No. Son vivÃ­paros. -->
-- [ ] D) Las tortugas viven mÃ¡s
-  <!-- feedback: No se relaciona. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Las tortugas ponen muchos huevos porque las crÃ­as tienen muchos depredadores.
+- [ ] A) Porque somos más perezosos que los ratones <!-- feedback: La maduración de un organismo complejo y con un cerebro grande como el humano requiere mucho tiempo de desarrollo. -->
+- [x] B) Porque tenemos mucho que aprender y un cuerpo que madura lento <!-- feedback: Nuestro cerebro necesita años para aprender el lenguaje y la vida social, y nuestro cuerpo tarda en ser físicamente independiente. -->
+- [ ] C) Porque el ratón vive en una casa pequeña <!-- feedback: El tamaño de la casa no influye en la velocidad de crecimiento biológico de la especie. -->
+- [ ] D) Porque los humanos no tienen instintos <!-- feedback: Los humanos sí tenemos instintos, pero nuestra supervivencia depende mucho más del aprendizaje y la cultura. -->
 
----
+### Explicación Pedagógica
+
+El tiempo de cuidado parental está relacionado con la complejidad de la especie. Especies con vidas cortas y cuerpos sencillos crecen rápido. Especies inteligentes y longevas como los humanos invierten décadas en formar a la siguiente generación.

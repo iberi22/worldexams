@@ -5,276 +5,265 @@ grado: 3
 asignatura: "ciencias-naturales"
 tema: "clima-tiempo"
 semana: "W24"
+periodo: 3
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
+alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "diferencia entre clima y tiempo atmosfÃ©rico"
+rubric_baseline: "Diferencia entre clima y estado del tiempo. Instrumentos meteorológicos y predicción básica."
 ---
 
-# Bundle Mastery: Clima vs tiempo â€” Grado 3 â€” W24
+# Clima y Estado del Tiempo
 
-10 preguntas sobre la diferencia entre clima y tiempo atmosfÃ©rico.
+Este bundle ayuda a los estudiantes a diferenciar entre las condiciones permanentes de una región (clima) y los cambios diarios que ocurren en la atmósfera (estado del tiempo).
 
-## Pregunta 1 [D1]
+## Pregunta 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
-**Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Tunja, la profesora presenta el siguiente ejercicio.
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Mariana mira por la ventana y dice: "Hoy está lloviendo mucho, mejor me quedo en casa".
+**Expected_Success:** 0.95
 
 ### Enunciado
-El tiempo atmosfÃ©rico es:
+
+¿A qué se refiere Mariana cuando habla de la lluvia que está cayendo en este momento exacto?
 
 ### Opciones
-- [ ] A) El clima de muchos aÃ±os
-  <!-- feedback: No. -->
-- [x] B) El estado de la atmÃ³sfera en un momento y lugar
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Solo la temperatura
-  <!-- feedback: No. -->
-- [ ] D) La humedad del suelo
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Tiempo: condiciones atmosfÃ©ricas momentÃ¡neas.
+- [ ] A) Al clima de su ciudad <!-- feedback: El clima es lo que pasa durante muchos años; un evento de un momento se llama de otra forma. -->
+- [x] B) Al estado del tiempo <!-- feedback: El tiempo atmosférico describe las condiciones del aire en un momento y lugar determinado (ahora mismo). -->
+- [ ] C) Al año calendario <!-- feedback: El calendario mide el tiempo cronológico (días, meses), no las condiciones de lluvia o sol. -->
+- [ ] D) A la fotosíntesis nocturna <!-- feedback: La fotosíntesis es un proceso de las plantas, no una descripción del estado del aire. -->
+
+### Explicación Pedagógica
+
+El estado del tiempo cambia rápido. Puede estar soleado en la mañana y lluvioso en la tarde. Es lo que vemos cuando consultamos el celular para saber si necesitamos llevar paraguas hoy.
 
 ---
 
-## Pregunta 2 [D1]
+## Pregunta 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
-**Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en MedellÃ­n, la profesora presenta el siguiente ejercicio.
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un profesor explica que en los Llanos Orientales siempre hace calor y hay épocas de mucha lluvia todos los años.
+**Expected_Success:** 0.92
 
 ### Enunciado
-El clima es:
+
+¿Cómo se le llama al conjunto de condiciones atmosféricas que se repiten en una región durante muchos años?
 
 ### Opciones
-- [ ] A) El tiempo de hoy
-  <!-- feedback: No. -->
-- [x] B) El promedio del tiempo en un lugar durante muchos aÃ±os
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Solo la lluvia
-  <!-- feedback: No. -->
-- [ ] D) El viento del dÃ­a
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Clima: patrÃ³n de tiempo a largo plazo.
+- [x] A) Clima <!-- feedback: El clima es el promedio de las condiciones del tiempo medido durante al menos 30 años en un lugar. -->
+- [ ] B) Noticiero <!-- feedback: Las noticias informan sobre el tiempo, pero no son el fenómeno natural en sí mismo. -->
+- [ ] C) Estación de radio <!-- feedback: Es un medio de comunicación; el término científico para las condiciones permanentes es clima. -->
+- [ ] D) Inundación momentánea <!-- feedback: Una inundación es un evento del tiempo extremo, no el estado normal y permanente de una región. -->
+
+### Explicación Pedagógica
+
+El clima es la "personalidad" de un lugar. Por ejemplo, el clima de la costa es cálido, aunque hoy el tiempo esté un poco fresco por una lluvia pasajera. El clima es estable, el tiempo es caprichoso.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en MedellÃ­n, la profesora presenta el siguiente ejercicio.
+**ICFES:** Explicación de fenómenos
+**Context:** Para estudiar el clima de un país como Colombia, los científicos necesitan recolectar datos todos los días durante décadas.
+**Expected_Success:** 0.88
 
 ### Enunciado
-"Hoy hace 30Â°C y estÃ¡ soleado" se refiere al:
+
+¿Qué instrumentos usan los científicos (meteorólogos) para medir el estado del tiempo?
 
 ### Opciones
-- [ ] A) Clima
-  <!-- feedback: No. -->
-- [x] B) Tiempo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Ecosistema
-  <!-- feedback: No. -->
-- [ ] D) Suelo
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Tiempo: condiciones del dÃ­a.
+- [ ] A) Regla, compás y transportador <!-- feedback: Estos son instrumentos de geometría para medir ángulos y distancias en papel. -->
+- [x] B) Termómetro, pluviómetro y veleta <!-- feedback: Miden la temperatura, la cantidad de lluvia y la dirección del viento, respectivamente. -->
+- [ ] C) Reloj, cronómetro y calendario <!-- feedback: Estos miden el paso del tiempo cronológico, no las variables de la atmósfera. -->
+- [ ] D) Microscopio y telescopio <!-- feedback: Sirven para ver cosas muy pequeñas o muy lejanas, no para medir la lluvia o el calor del aire. -->
+
+### Explicación Pedagógica
+
+La meteorología es la ciencia que estudia el tiempo. Usando estos aparatos, los científicos pueden predecir si va a llover mañana o si un huracán se está acercando a la costa.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Tunja, la profesora presenta el siguiente ejercicio.
+**ICFES:** Indagación
+**Context:** Juan vive en Neiva y sabe que allí casi siempre hace calor. Un día, cae una granizada muy extraña que dura 10 minutos.
+**Expected_Success:** 0.85
 
 ### Enunciado
-"BogotÃ¡ tiene clima frÃ­o de montaÃ±a" se refiere al:
+
+¿Cambiaron esos 10 minutos de granizo el "clima" de Neiva?
 
 ### Opciones
-- [x] A) Clima
-  <!-- feedback: Â¡Correcto! -->
-- [ ] B) Tiempo
-  <!-- feedback: No. -->
-- [ ] C) Viento
-  <!-- feedback: No. -->
-- [ ] D) DÃ­a
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Clima: patrÃ³n general de una regiÃ³n.
+- [ ] A) Sí, ahora Neiva tiene clima polar <!-- feedback: Un evento corto no cambia las condiciones promedio de calor de una ciudad tropical. -->
+- [ ] B) Sí, porque el hielo es muy frío <!-- feedback: El hielo baja la temperatura un momento, pero el sol volverá a calentar como siempre. -->
+- [x] C) No, fue solo un cambio pasajero del estado del tiempo <!-- feedback: El clima sigue siendo cálido; la granizada fue un evento atmosférico inusual y corto. -->
+- [ ] D) No, porque el granizo es de mentira <!-- feedback: El granizo es real (precipitación sólida), pero no define el promedio de temperatura de años. -->
+
+### Explicación Pedagógica
+
+Es fundamental entender la escala de tiempo. El clima es como tu carácter (siempre eres alegre), y el estado del tiempo es como un momento de mal genio (un ratito y ya). El granizo no hace que Neiva deje de ser una ciudad caliente.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Neiva, la profesora presenta el siguiente ejercicio.
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Tienes que elegir qué ropa llevar para una excursión de 15 días a la selva del Amazonas.
+**Expected_Success:** 0.82
 
 ### Enunciado
-La temperatura, humedad y viento son elementos del:
+
+¿En qué debes basar tu elección de ropa para esos 15 días: en el clima de la selva o en el tiempo que hace hoy en tu casa?
 
 ### Opciones
-- [ ] A) Solo clima
-  <!-- feedback: No. -->
-- [ ] B) Solo tiempo
-  <!-- feedback: No. -->
-- [x] C) Clima y tiempo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] D) Suelo
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Elementos atmosfÃ©ricos comunes.
+- [ ] A) En el tiempo de mi casa <!-- feedback: Tu casa puede estar en un clima muy diferente al de la selva, por lo que llevarías ropa equivocada. -->
+- [x] B) En el clima de la selva (calor y lluvia) <!-- feedback: Conocer el clima te permite saber qué es lo más probable que necesites durante dos semanas. -->
+- [ ] C) Solo en lo que digan mis amigos <!-- feedback: La información científica sobre el clima regional es más confiable que las opiniones personales. -->
+- [ ] D) No importa, la selva es de cemento <!-- feedback: La selva es un ecosistema natural con condiciones de humedad y calor muy específicas. -->
+
+### Explicación Pedagógica
+
+Prepararse para un viaje requiere conocer el clima. Si sabemos que el Amazonas tiene un clima cálido y húmedo, llevaremos ropa fresca y un impermeable, sin importar cómo esté el cielo en nuestra ciudad hoy.
 
 ---
 
-## Pregunta 6 [D3]
+## Pregunta 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Bucaramanga, la profesora presenta el siguiente ejercicio.
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Context:** El pluviómetro de una estación marca que han caído 50 milímetros de agua en una sola hora. El promedio de lluvia de ese lugar es de 10 milímetros por mes.
+**Expected_Success:** 0.75
 
 ### Enunciado
-Si maÃ±ana llueve, estamos hablando del:
+
+¿Qué podemos decir sobre el estado del tiempo en ese lugar durante esa hora?
 
 ### Opciones
-- [ ] A) Clima
-  <!-- feedback: No. Es de corto plazo. -->
-- [x] B) Tiempo
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) AÃ±o
-  <!-- feedback: No. -->
-- [ ] D) Siglo
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-MaÃ±ana: tiempo, no clima.
+- [ ] A) Que no llovió nada <!-- feedback: El número 50 indica una cantidad considerable de agua captada por el instrumento. -->
+- [x] B) Que hubo una tormenta muy fuerte e inusual <!-- feedback: Cayó en una hora lo que normalmente cae en cinco meses; es un evento del tiempo extremo. -->
+- [ ] C) Que el clima cambió para siempre <!-- feedback: Una tormenta, por fuerte que sea, es un dato que se suma al promedio, no cambia el clima de inmediato. -->
+- [ ] D) Que el pluviómetro está roto <!-- feedback: Los datos extremos ocurren en la naturaleza y sirven para estudiar los cambios en el tiempo atmosférico. -->
+
+### Explicación Pedagógica
+
+Los eventos extremos son parte del estudio del tiempo. Cuando ocurren muchas tormentas así seguidas durante años, entonces los científicos empiezan a pensar que tal vez el clima sí está cambiando.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en QuibdÃ³, la profesora presenta el siguiente ejercicio.
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un mapa del clima de Colombia muestra colores verdes oscuros para las selvas y amarillos para los desiertos.
+**Expected_Success:** 0.80
 
 ### Enunciado
-Cartagena tiene clima cÃ¡lido. Esto significa:
+
+¿Qué información nos dan esos colores en el mapa climático?
 
 ### Opciones
-- [ ] A) Solo hoy hace calor
-  <!-- feedback: No. -->
-- [x] B) Generalmente hace calor durante todo el aÃ±o
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Nunca llueve
-  <!-- feedback: No. -->
-- [ ] D) Siempre hace frÃ­o
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Clima cÃ¡lido: patrÃ³n anual.
+- [ ] A) Dónde va a llover mañana a las 5:00 PM <!-- feedback: Esa información es de un pronóstico del tiempo, no de un mapa de climas permanentes. -->
+- [x] B) Las condiciones generales de humedad y vegetación de cada región <!-- feedback: El mapa muestra cómo es normalmente cada lugar, ayudándonos a entender la geografía nacional. -->
+- [ ] C) El color de las casas de la gente <!-- feedback: El clima influye en la arquitectura, pero los colores del mapa representan variables naturales (lluvia/calor). -->
+- [ ] D) Por dónde caminan los animales <!-- feedback: Aunque los animales siguen el clima, el mapa describe la atmósfera y el suelo, no rutas individuales. -->
+
+### Explicación Pedagógica
+
+Los mapas climáticos son herramientas para planear el futuro. Sirven para saber dónde construir represas, dónde sembrar comida o qué zonas proteger porque son desiertos muy secos.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
-**Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Cali, la profesora presenta el siguiente ejercicio.
+**ICFES:** Indagación
+**Context:** Mariana quiere saber si mañana debe llevar botas de caucho al colegio porque el camino se llena de barro cuando llueve.
+**Expected_Success:** 0.88
 
 ### Enunciado
-Para saber el clima de un lugar necesitamos:
+
+¿Qué debe consultar Mariana para tomar su decisión?
 
 ### Opciones
-- [ ] A) Observar un dÃ­a
-  <!-- feedback: No. -->
-- [x] B) Datos de muchos aÃ±os
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Preguntar a una persona
-  <!-- feedback: No. -->
-- [ ] D) Solo ver el cielo
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Clima: datos de largo plazo.
+- [ ] A) El mapa de los climas del mundo <!-- feedback: Ese mapa le dirá que vive en el trópico, pero no si va a llover mañana específicamente. -->
+- [ ] B) Un libro de historia antigua <!-- feedback: La historia cuenta el pasado humano, no las condiciones atmosféricas de las próximas 24 horas. -->
+- [x] C) El pronóstico del tiempo para su ciudad <!-- feedback: El pronóstico es la predicción científica de cómo estará el aire en las próximas horas o días. -->
+- [ ] D) La temperatura de su nevera <!-- feedback: La nevera tiene un control de temperatura artificial que no tiene relación con el cielo exterior. -->
+
+### Explicación Pedagógica
+
+El pronóstico del tiempo es una aplicación práctica de la ciencia. Gracias a satélites y computadoras, podemos saber con bastante precisión si el tiempo va a cambiar pronto, ayudándonos en nuestra vida diaria.
 
 ---
 
-## Pregunta 9 [D4]
+## Pregunta 9 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y ArgumentaciÃ³n
-**Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en Cali, la profesora presenta el siguiente ejercicio.
+**ICFES:** Explicación de fenómenos
+**Context:** En Colombia decimos que hay "época de verano" y "época de invierno" (lluvias), pero estas duran varios meses.
+**Expected_Success:** 0.70
 
 ### Enunciado
-Â¿Por quÃ© el clima es diferente en la costa y en la montaÃ±a?
+
+¿Estas "épocas" de varios meses forman parte del clima o del estado del tiempo diario?
 
 ### Opciones
-- [ ] A) Porque el sol es diferente
-  <!-- feedback: No. -->
-- [x] B) Por la altura, latitud y cercanÃ­a al mar
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Porque la luna cambia
-  <!-- feedback: No. -->
-- [ ] D) No hay razÃ³n
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Altura y ubicaciÃ³n determinan clima.
+- [x] A) Son variaciones estacionales de nuestro clima tropical <!-- feedback: Al durar meses y repetirse todos los años, son características estables de nuestro clima. -->
+- [ ] B) Son cambios del tiempo de cada hora <!-- feedback: El tiempo diario puede ser soleado en pleno "invierno" o lluvioso en pleno "verano" regional. -->
+- [ ] C) Son inventos de la gente <!-- feedback: Son fenómenos reales causados por el movimiento de las nubes y los vientos en el ecuador. -->
+- [ ] D) Son culpa de los astronautas <!-- feedback: La actividad espacial no influye en los ciclos de lluvia y sequía naturales de la Tierra. -->
+
+### Explicación Pedagógica
+
+En el trópico no tenemos las cuatro estaciones (primavera, etc.), pero nuestro clima tiene ciclos de lluvia y sequía. Conocer estos ciclos es vital para que los campesinos sepan cuándo sembrar sus semillas.
 
 ---
 
-## Pregunta 10 [D4]
+## Pregunta 10 [D9-D10]
 
 **ID:** `CO-CIE-3-2026-W24-clima-tiempo-001-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES category:** Razonamiento y ArgumentaciÃ³n
-**Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en ChÃ­a, la profesora presenta el siguiente ejercicio.
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Una persona afirma: "Como ayer hizo frío y hoy también, eso significa que el clima de mi ciudad ya cambió para siempre".
+**Expected_Success:** 0.60
 
 ### Enunciado
-Si el tiempo de un dÃ­a es lluvioso pero el clima es seco, Â¿quÃ© significa?
+
+¿Es correcto el razonamiento de esta persona desde el punto de vista científico?
 
 ### Opciones
-- [ ] A) Que nunca llueve
-  <!-- feedback: No. -->
-- [x] B) Que excepcionalmente lloviÃ³, pero en general es seco
-  <!-- feedback: Â¡Correcto! -->
-- [ ] C) Que el clima cambiÃ³
-  <!-- feedback: No. -->
-- [ ] D) Que siempre llueve
-  <!-- feedback: No. -->
 
-### ExplicaciÃ³n PedagÃ³gica
-Un dÃ­a no define el clima.
+- [ ] A) Sí, dos días son suficientes para saberlo <!-- feedback: Dos días son un suspiro en el tiempo de la Tierra; no definen un clima regional. -->
+- [ ] B) Sí, porque el frío se contagia <!-- feedback: La temperatura es una variable física, no una enfermedad que se contagie entre los días. -->
+- [x] C) No, se necesitan muchos años de datos para hablar de un cambio de clima <!-- feedback: El clima se mide en décadas; lo que la persona siente es solo una racha del estado del tiempo. -->
+- [ ] D) No, porque en las ciudades no hay clima <!-- feedback: Todas las partes del planeta tienen un clima, ya sea natural o modificado por el hombre. -->
 
----
+### Explicación Pedagógica
+
+Para decir que el clima cambió, debemos ver que la temperatura promedio de los últimos 30 años es mayor o menor que la de los 30 años anteriores. No podemos juzgar el clima por lo que pasó ayer o hoy; eso es solo el tiempo atmosférico.
