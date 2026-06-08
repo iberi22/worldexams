@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "seasons"
+periodo: "weekly"
 semana: 27
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Vocabulary for the four seasons: spring, summer, fall/autumn, winter."
 ---
 
-# Weekly Pack W27: Seasons of the Year (A1)
+# Weekly Pack W27: Seasons (A1)
 
-Este bundle evalúa las estaciones del año en inglés, nivel A1.
+Este bundle evalúa el vocabulario de las estaciones del año en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What season is very **hot** and people go to the beach? ☀️🏖️
+
+### Options
+- [ ] A) Winter <!-- feedback: Incorrect. -->
+- [x] B) Summer <!-- feedback: Correct! Summer is verano. -->
+- [ ] C) Fall <!-- feedback: Incorrect. -->
+- [ ] D) Spring <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El verano se dice "summer". Es la estación más calurosa.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-How many **seasons** are there in a year (in many countries)?
+What season is very **cold** and has snow? ❄️☃️
 
 ### Options
-- [ ] A) Two <!-- feedback: Incorrect. There are more than two seasons. -->
-- [ ] B) Three <!-- feedback: Incorrect. There are not just three. -->
-- [x] C) Four <!-- feedback: Correct! There are four seasons: spring, summer, fall, winter. -->
-- [ ] D) Five <!-- feedback: Incorrect. There are four seasons. -->
+- [x] A) Winter <!-- feedback: Correct! Winter is invierno. -->
+- [ ] B) Summer <!-- feedback: Incorrect. -->
+- [ ] C) Spring <!-- feedback: Incorrect. -->
+- [ ] D) Fall <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Seasons" = estaciones. En muchos países hay four seasons: spring (primavera), summer (verano), fall/autumn (otoño), winter (invierno). En Colombia, ¡casi no sentimos las estaciones!
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is **"Verano"** in English?
-
-### Options
-- [ ] A) Winter <!-- feedback: Incorrect. "Winter" means invierno. -->
-- [x] B) Summer <!-- feedback: Correct! "Summer" = verano. -->
-- [ ] C) Spring <!-- feedback: Incorrect. "Spring" means primavera. -->
-- [ ] D) Fall <!-- feedback: Incorrect. "Fall" means otoño. -->
-
-### Explicación Pedagógica
-"Summer" = verano. Es la estación más caliente (hottest). En Estados Unidos y Europa, los niños tienen summer vacation (vacaciones de verano).
+El invierno se dice "winter". Es la estación más fría.
 
 ---
 
@@ -66,119 +68,119 @@ What is **"Verano"** in English?
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What is **"Invierno"** in English?
+In what season do **flowers** grow? 🌸🌻
 
 ### Options
-- [ ] A) Summer <!-- feedback: Incorrect. "Summer" means verano. -->
-- [ ] B) Spring <!-- feedback: Incorrect. "Spring" means primavera. -->
-- [x] C) Winter <!-- feedback: Correct! "Winter" = invierno. -->
-- [ ] D) Fall <!-- feedback: Incorrect. "Fall" means otoño. -->
+- [ ] A) Winter <!-- feedback: Incorrect. -->
+- [ ] B) Fall <!-- feedback: Incorrect. -->
+- [x] C) Spring <!-- feedback: Correct! Spring is primavera. -->
+- [ ] D) Summer <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Winter" = invierno. Es la estación más fría (coldest). En algunos países nieva (snows) en winter. En Colombia no tenemos winter como en otros países.
+La primavera se dice "spring". Es cuando las flores crecen.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v4`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+In what season do **leaves** (hojas) fall from trees? 🍂
+
+### Options
+- [ ] A) Spring <!-- feedback: Incorrect. -->
+- [ ] B) Summer <!-- feedback: Incorrect. -->
+- [x] C) Fall <!-- feedback: Correct! Fall (or Autumn) is otoño. -->
+- [ ] D) Winter <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El otoño se dice "fall" (en Estados Unidos) o "autumn" (en el Reino Unido). "Fall" también significa caer, como caen las hojas.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-In **spring**, flowers:
+How many seasons are there?
 
 ### Options
-- [ ] A) Die <!-- feedback: Incorrect. In spring, plants grow, not die. -->
-- [x] B) Bloom and grow <!-- feedback: Correct! In spring (primavera), flowers bloom (florecen). -->
-- [ ] C) Freeze <!-- feedback: Incorrect. Freezing happens in winter. -->
-- [ ] D) Fall from trees <!-- feedback: Incorrect. Leaves fall in autumn. -->
+- [ ] A) Two <!-- feedback: Incorrect. -->
+- [ ] B) Three <!-- feedback: Incorrect. -->
+- [x] C) Four <!-- feedback: Correct! Spring, Summer, Fall, Winter. -->
+- [ ] D) Twelve <!-- feedback: Incorrect. That's months. -->
 
 ### Explicación Pedagógica
-"Spring" = primavera. En spring, las flores (flowers) bloom (florecen) y los árboles se llenan de hojas. ¡Todo se ve hermoso!
+Hay cuatro (four) estaciones en muchos países.
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v5`
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Otoño"** in English?
+What is another name for **"Fall"**?
 
 ### Options
-- [ ] A) Summer <!-- feedback: Incorrect. "Summer" = verano. -->
-- [ ] B) Winter <!-- feedback: Incorrect. "Winter" = invierno. -->
-- [x] C) Fall (or Autumn) <!-- feedback: Correct! "Fall" or "Autumn" = otoño. -->
-- [ ] D) Spring <!-- feedback: Incorrect. "Spring" = primavera. -->
+- [x] A) Autumn <!-- feedback: Correct! -->
+- [ ] B) Spring <!-- feedback: Incorrect. -->
+- [ ] C) Winter <!-- feedback: Incorrect. -->
+- [ ] D) August <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Fall" = otoño. También se dice "autumn". En fall, las hojas (leaves) de los árboles cambian de color y caen. ¡Muy bonito!
+"Autumn" es la forma británica de decir otoño.
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Which season comes **after winter**?
+In **Summer**, the weather is usually:
 
 ### Options
-- [ ] A) Summer <!-- feedback: Incorrect. Summer comes after spring. -->
-- [ ] B) Fall <!-- feedback: Incorrect. Fall comes after summer. -->
-- [x] C) Spring <!-- feedback: Correct! After winter comes spring (primavera). -->
-- [ ] D) Autumn <!-- feedback: Incorrect. Autumn is the same as fall. -->
+- [ ] A) Cold and snowy <!-- feedback: Incorrect. -->
+- [x] B) Hot and sunny <!-- feedback: Correct! -->
+- [ ] C) Rainy and cool <!-- feedback: Incorrect. -->
+- [ ] D) Windy and dark <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El orden de las estaciones: winter → spring → summer → fall (winter). Después de winter (invierno) viene spring (primavera).
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-In Colombia, near the equator, we **don't have** strong seasons. The weather is:
-
-### Options
-- [ ] A) Very cold all year <!-- feedback: Incorrect. Some parts are cold, but not all year. -->
-- [ ] B) Very snowy all year <!-- feedback: Incorrect. It doesn't snow in most of Colombia. -->
-- [x] C) Similar all year, with dry and rainy periods <!-- feedback: Correct! Colombia has dry and rainy seasons. -->
-- [ ] D) Only summer <!-- feedback: Incorrect. Colombia doesn't have just one season. -->
-
-### Explicación Pedagógica
-Colombia está cerca del ecuador (equator). Por eso no tenemos four seasons marcadas como en otros países. Tenemos temporadas secas y de lluvia.
+En verano el clima suele ser caluroso y soleado.
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete: **"In _____, it is cold and sometimes it snows in many countries."**
+In **Winter**, you wear:
 
 ### Options
-- [ ] A) summer <!-- feedback: Incorrect. Summer is hot. -->
-- [ ] B) spring <!-- feedback: Incorrect. Spring is mild. -->
-- [x] C) winter <!-- feedback: Correct! Winter (invierno) is cold and snowy in many countries. -->
-- [ ] D) fall <!-- feedback: Incorrect. Fall is cool, not as cold as winter. -->
+- [ ] A) A swimsuit <!-- feedback: Incorrect. -->
+- [ ] B) Shorts and T-shirt <!-- feedback: Incorrect. -->
+- [x] C) A heavy jacket and gloves <!-- feedback: Correct! -->
+- [ ] D) Sunglasses and sandals <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Winter" = invierno. En los países con estaciones, en winter hace frío y a veces nieva (snows). En Colombia, no tenemos snow.
+En invierno necesitamos ropa abrigada como una chaqueta pesada y guantes.
 
 ---
 
@@ -186,19 +188,19 @@ Complete: **"In _____, it is cold and sometimes it snows in many countries."**
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-In **summer**, children have vacation. What do they do?
+Choose the correct season: **"It is very cold. I make a snowman."**
 
 ### Options
-- [ ] A) Stay inside because it's cold <!-- feedback: Incorrect. Summer is for outdoor activities. -->
-- [x] B) Go to the beach and play outside <!-- feedback: Correct! In summer, kids go to the beach and play. -->
-- [ ] C) Watch snow fall <!-- feedback: Incorrect. Snow is for winter. -->
-- [ ] D) See leaves falling from trees <!-- feedback: Incorrect. That's fall. -->
+- [ ] A) Summer <!-- feedback: Incorrect. -->
+- [ ] B) Spring <!-- feedback: Incorrect. -->
+- [x] C) Winter <!-- feedback: Correct! -->
+- [ ] D) Fall <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Summer" = verano. Es la estación para ir a la playa (beach), nadar y jugar afuera. ¡Summer vacation!
+Hacemos muñecos de nieve en invierno (winter).
 
 ---
 
@@ -206,16 +208,16 @@ In **summer**, children have vacation. What do they do?
 **ID:** `CO-ING-3-2026-W27-seasons-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-When leaves fall from trees and the weather gets cool, it is:
+In Colombia, we don't have four seasons, but we have:
 
 ### Options
-- [ ] A) Spring <!-- feedback: Incorrect. In spring, leaves grow, not fall. -->
-- [ ] B) Summer <!-- feedback: Incorrect. Summer is hot. -->
-- [ ] C) Winter <!-- feedback: Incorrect. Winter is very cold and trees are bare. -->
-- [x] D) Fall <!-- feedback: Correct! In fall (otoño), leaves fall and it gets cool. -->
+- [x] A) Dry and rainy seasons <!-- feedback: Correct! Estaciones seca y lluviosa. -->
+- [ ] B) Only winter <!-- feedback: Incorrect. -->
+- [ ] C) Only summer <!-- feedback: Incorrect. -->
+- [ ] D) Snow every day <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Fall" se llama así porque las hojas (leaves) fall (caen) de los árboles. También se dice "autumn". ¡El otoño es hermoso con hojas de colores!
+En Colombia, por estar en el trópico, tenemos temporada seca (dry season) y temporada de lluvias (rainy season).

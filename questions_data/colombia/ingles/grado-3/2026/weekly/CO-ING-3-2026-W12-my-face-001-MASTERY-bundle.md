@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "my-face"
+periodo: "weekly"
 semana: 12
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.80
+rubric_baseline: "Vocabulary for parts of the face: eyes, nose, mouth, ears, hair."
 ---
 
 # Weekly Pack W12: My Face (A1)
 
-Este bundle evalúa las partes de la cara en inglés: eyes, nose, mouth, ears. Nivel A1.
+Este bundle evalúa el vocabulario de las partes de la cara en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What are these: 👀 ?
+
+### Options
+- [x] A) Eyes <!-- feedback: Correct! These are eyes. -->
+- [ ] B) Ears <!-- feedback: Incorrect. Ears are for hearing. -->
+- [ ] C) Nose <!-- feedback: Incorrect. -->
+- [ ] D) Mouth <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Los ojos se dicen "eyes" en inglés. Usamos los ojos para ver.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What is **"Ojos"** in English?
+What is **"Nariz"** in English?
 
 ### Options
-- [ ] A) Ears <!-- feedback: Incorrect. "Ears" means orejas. -->
-- [x] B) Eyes <!-- feedback: Correct! "Eyes" = ojos. -->
-- [ ] C) Nose <!-- feedback: Incorrect. "Nose" means nariz. -->
-- [ ] D) Mouth <!-- feedback: Incorrect. "Mouth" means boca. -->
+- [ ] A) Mouth <!-- feedback: Incorrect. -->
+- [x] B) Nose <!-- feedback: Correct! Nose is nariz. -->
+- [ ] C) Eye <!-- feedback: Incorrect. -->
+- [ ] D) Hair <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Eyes" = ojos. Los ojos nos permiten ver. En inglés se dice "ái" para un ojo y "áis" para los ojos. ¡Cuidado con la pronunciación!
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What part of your face do you use to **smell**?
-
-### Options
-- [ ] A) Eyes <!-- feedback: Incorrect. Eyes are for seeing, not smelling. -->
-- [x] B) Nose <!-- feedback: Correct! You smell (hueles) with your nose (nariz). -->
-- [ ] C) Ears <!-- feedback: Incorrect. Ears are for hearing. -->
-- [ ] D) Mouth <!-- feedback: Incorrect. The mouth is for eating and speaking. -->
-
-### Explicación Pedagógica
-"Nose" = nariz. La nariz nos permite oler las flores, la comida y el café colombiano. "Nose" se pronuncia "nóus".
+La nariz se dice "nose". La usamos para oler.
 
 ---
 
@@ -66,99 +68,99 @@ What part of your face do you use to **smell**?
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What is **"Orejas"** in English?
+What is **"Boca"** in English?
 
 ### Options
-- [ ] A) Eyes <!-- feedback: Incorrect. "Eyes" means ojos. -->
-- [x] B) Ears <!-- feedback: Correct! "Ears" = orejas. -->
-- [ ] C) Eyebrows <!-- feedback: Incorrect. "Eyebrows" means cejas. -->
-- [ ] D) Cheeks <!-- feedback: Incorrect. "Cheeks" means mejillas. -->
+- [ ] A) Face <!-- feedback: Incorrect. -->
+- [ ] B) Teeth <!-- feedback: Incorrect. -->
+- [x] C) Mouth <!-- feedback: Correct! Mouth is boca. -->
+- [ ] D) Nose <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Ears" = orejas. Usamos las ears para escuchar (listen). "Ear" se pronuncia "ír". ¡Tenemos two ears!
+La boca se dice "mouth". La usamos para hablar y comer.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+What are **"Orejas"** in English?
+
+### Options
+- [x] A) Ears <!-- feedback: Correct! Ears are orejas. -->
+- [ ] B) Eyes <!-- feedback: Incorrect. -->
+- [ ] C) Nose <!-- feedback: Incorrect. -->
+- [ ] D) Mouth <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+Las orejas o oídos se dicen "ears". Las usamos para escuchar.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v5`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-Which part of your face opens to **eat food**?
+What is **"Cabello"** or **"Pelo"**?
 
 ### Options
-- [ ] A) Nose <!-- feedback: Incorrect. Food does not go through your nose. -->
-- [ ] B) Eyes <!-- feedback: Incorrect. You don't eat with your eyes. -->
-- [x] C) Mouth <!-- feedback: Correct! You eat food with your mouth (boca). -->
-- [ ] D) Ears <!-- feedback: Incorrect. You don't eat with your ears. -->
+- [ ] A) Head <!-- feedback: Incorrect. Head is the whole part. -->
+- [x] B) Hair <!-- feedback: Correct! Hair is cabello. -->
+- [ ] C) Face <!-- feedback: Incorrect. -->
+- [ ] D) Eye <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Mouth" = boca. La boca se abre para comer (eat) y hablar (speak). "Mouth" se pronuncia "máuz".
+El pelo o cabello se dice "hair".
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v5`
-**Bloom:** Remember
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v6`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Dientes"** in English?
+You listen to music with your:
 
 ### Options
-- [ ] A) Tongue <!-- feedback: Incorrect. "Tongue" means lengua. -->
-- [x] B) Teeth <!-- feedback: Correct! "Teeth" = dientes. -->
-- [ ] C) Lips <!-- feedback: Incorrect. "Lips" means labios. -->
-- [ ] D) Chin <!-- feedback: Incorrect. "Chin" means barbilla. -->
+- [ ] A) Eyes <!-- feedback: Incorrect. -->
+- [ ] B) Nose <!-- feedback: Incorrect. -->
+- [x] C) Ears <!-- feedback: Correct! You listen with your ears. -->
+- [ ] D) Mouth <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Teeth" = dientes. Singular: tooth (diente), plural: teeth (dientes). En Colombia, ¡cepillarse los teeth es muy importante! "Brush your teeth!"
+Escuchamos música con los oídos (ears).
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-You wear **glasses** (gafas) on your:
+You eat an apple with your:
 
 ### Options
-- [ ] A) Ears <!-- feedback: Incorrect. Glasses are not worn on ears, but they rest on them. -->
-- [x] B) Eyes <!-- feedback: Correct! Glasses go on your eyes to help you see better. -->
-- [ ] C) Mouth <!-- feedback: Incorrect. You don't wear glasses on your mouth. -->
-- [ ] D) Nose <!-- feedback: Incorrect. Glasses rest on the nose but cover the eyes. -->
+- [ ] A) Nose <!-- feedback: Incorrect. -->
+- [x] B) Mouth <!-- feedback: Correct! You eat with your mouth. -->
+- [ ] C) Ears <!-- feedback: Incorrect. -->
+- [ ] D) Hair <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Glasses" = gafas. Se usan sobre los eyes (ojos) para ver mejor. En inglés también se dice "eyeglasses".
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-What are the parts of the face that are **above your eyes**?
-
-### Options
-- [ ] A) Cheeks <!-- feedback: Incorrect. Cheeks are below the eyes. -->
-- [ ] B) Lips <!-- feedback: Incorrect. Lips are around the mouth. -->
-- [x] C) Eyebrows <!-- feedback: Correct! Eyebrows (cejas) are above your eyes. -->
-- [ ] D) Chin <!-- feedback: Incorrect. The chin is below the mouth. -->
-
-### Explicación Pedagógica
-"Eyebrows" = cejas. Están sobre los ojos (above the eyes). Sirven para expresar emociones y proteger los ojos del sudor.
+Comemos (eat) con la boca (mouth).
 
 ---
 
@@ -166,19 +168,19 @@ What are the parts of the face that are **above your eyes**?
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete: **"I have two _____, one _____, and one _____."** (face parts)
+What are inside your mouth? (Blancos y duros).
 
 ### Options
-- [ ] A) ears, hands, feet <!-- feedback: Incorrect. Hands and feet are not on the face. -->
-- [x] B) eyes, nose, mouth <!-- feedback: Correct! Two eyes, one nose, one mouth = typical face. -->
-- [ ] C) fingers, toes, knees <!-- feedback: Incorrect. Those are not face parts. -->
-- [ ] D) arms, legs, head <!-- feedback: Incorrect. Arms and legs are body parts. -->
+- [ ] A) Eyes <!-- feedback: Incorrect. -->
+- [x] B) Teeth <!-- feedback: Correct! Teeth are inside your mouth. -->
+- [ ] C) Hair <!-- feedback: Incorrect. -->
+- [ ] D) Nose <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-En la cara (face) tenemos: two eyes (dos ojos), one nose (una nariz) y one mouth (una boca). ¡Y también two ears!
+Los dientes se dicen "teeth". Un solo diente es "tooth".
 
 ---
 
@@ -186,19 +188,19 @@ En la cara (face) tenemos: two eyes (dos ojos), one nose (una nariz) y one mouth
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-Your teacher says: **"Close your eyes."** What do you do?
+Which word is **"Cara"**?
 
 ### Options
-- [ ] A) Open your mouth <!-- feedback: Incorrect. The teacher said eyes, not mouth. -->
-- [x] B) Close your eyes <!-- feedback: Correct! "Close your eyes" = cierra los ojos. -->
-- [ ] C) Cover your ears <!-- feedback: Incorrect. The teacher said eyes, not ears. -->
-- [ ] D) Touch your nose <!-- feedback: Incorrect. The teacher said close your eyes. -->
+- [ ] A) Head <!-- feedback: Incorrect. -->
+- [x] B) Face <!-- feedback: Correct! Face is cara. -->
+- [ ] C) Body <!-- feedback: Incorrect. -->
+- [ ] D) Hand <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Close your eyes" = cierra los ojos. Los profesores lo usan para orar, meditar o jugar "escondidas" en inglés.
+Toda la parte delantera de la cabeza donde están los ojos y la boca se llama "face" (cara).
 
 ---
 
@@ -206,16 +208,16 @@ Your teacher says: **"Close your eyes."** What do you do?
 **ID:** `CO-ING-3-2026-W12-my-face-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-Draw a face. Which part do you draw in the **middle** of the face?
+Complete: **"I see with my _______."**
 
 ### Options
-- [ ] A) Ears <!-- feedback: Incorrect. Ears are on the sides of the face. -->
-- [x] B) Nose <!-- feedback: Correct! The nose (nariz) is in the middle of the face. -->
-- [ ] C) Eyes <!-- feedback: Incorrect. Eyes are above the nose. -->
-- [ ] D) Mouth <!-- feedback: Incorrect. The mouth is below the nose. -->
+- [x] A) Eyes <!-- feedback: Correct! -->
+- [ ] B) Ears <!-- feedback: Incorrect. -->
+- [ ] C) Nose <!-- feedback: Incorrect. -->
+- [ ] D) Mouth <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-En el centro (middle) de la cara está la nose (nariz). Arriba (above) están los eyes y abajo (below) está la mouth. ¡Practica dibujando una cara!
+Vemos (see) con los ojos (eyes).

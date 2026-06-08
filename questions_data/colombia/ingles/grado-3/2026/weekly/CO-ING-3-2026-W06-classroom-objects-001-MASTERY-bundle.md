@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "classroom-objects"
+periodo: "weekly"
 semana: 6
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.80
+rubric_baseline: "Vocabulary for common classroom objects like pencil, book, desk, etc."
 ---
 
 # Weekly Pack W06: Classroom Objects (A1)
 
-Este bundle evalúa el vocabulario de objetos del salón de clase en inglés, nivel A1. Los estudiantes deben identificar, nombrar y usar palabras relacionadas con útiles escolares.
+Este bundle evalúa el vocabulario de objetos comunes en el salón de clases.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What is this object: ✏️ ?
+
+### Options
+- [x] A) Pencil <!-- feedback: Correct! That is a pencil. -->
+- [ ] B) Pen <!-- feedback: Incorrect. A pen uses ink. -->
+- [ ] C) Eraser <!-- feedback: Incorrect. -->
+- [ ] D) Ruler <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+El lápiz se dice "pencil" en inglés. Es una de las palabras más importantes en el colegio.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What do you use to **write** on a notebook?
+You use it to read: 📖. What is it?
 
 ### Options
-- [ ] A) An eraser <!-- feedback: Incorrect. An eraser is for erasing, not writing. -->
-- [ ] B) A ruler <!-- feedback: Incorrect. A ruler is for measuring and drawing lines. -->
-- [x] C) A pencil <!-- feedback: Correct! You use a pencil (lápiz) to write. -->
-- [ ] D) A backpack <!-- feedback: Incorrect. A backpack carries your things. -->
+- [ ] A) Notebook <!-- feedback: Incorrect. A notebook is for writing. -->
+- [x] B) Book <!-- feedback: Correct! This is a book. -->
+- [ ] C) Desk <!-- feedback: Incorrect. -->
+- [ ] D) Chair <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Pencil" = lápiz. Es el objeto más común para escribir en el salón de clase. En inglés se pronuncia "pén-sil".
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-What is **"Cuaderno"** in English?
-
-### Options
-- [ ] A) Book <!-- feedback: Incorrect. "Book" means libro. -->
-- [x] B) Notebook <!-- feedback: Correct! "Notebook" = cuaderno. -->
-- [ ] C) Paper <!-- feedback: Incorrect. "Paper" means papel. -->
-- [ ] D) Pencil <!-- feedback: Incorrect. "Pencil" means lápiz. -->
-
-### Explicación Pedagógica
-"Notebook" = cuaderno. Note = nota, book = libro. ¡Un libro para notas! En Colombia decimos "nota" también.
+Un libro se dice "book" en inglés.
 
 ---
 
@@ -66,119 +68,119 @@ What is **"Cuaderno"** in English?
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What do you use to **erase** pencil marks?
+What is **"Borrador"** in English?
 
 ### Options
-- [ ] A) A sharpener <!-- feedback: Incorrect. A sharpener is for sharpening pencils. -->
-- [x] B) An eraser <!-- feedback: Correct! An eraser (borrador) removes pencil marks. -->
-- [ ] C) A ruler <!-- feedback: Incorrect. A ruler is for measuring. -->
-- [ ] D) Scissors <!-- feedback: Incorrect. Scissors are for cutting. -->
+- [ ] A) Pencil <!-- feedback: Incorrect. -->
+- [x] B) Eraser <!-- feedback: Correct! "Eraser" is borrador. -->
+- [ ] C) Sharpener <!-- feedback: Incorrect. That is sacapuntas. -->
+- [ ] D) Case <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Eraser" = borrador. En inglés americano también se dice "rubber" en algunos países. "Eraser" se pronuncia "i-réi-ser".
+Para borrar lo que escribimos con el lápiz usamos el "eraser".
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+Where do you sit in class?
+
+### Options
+- [ ] A) Desk <!-- feedback: Incorrect. You sit AT the desk, but ON the chair. -->
+- [x] B) Chair <!-- feedback: Correct! You sit on a chair. -->
+- [ ] C) Board <!-- feedback: Incorrect. The board is for writing. -->
+- [ ] D) Floor <!-- feedback: Incorrect. Not usually in the classroom. -->
+
+### Explicación Pedagógica
+La silla se dice "chair" en inglés.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v5`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-Which object do you open to **read stories**?
+What is the teacher writing on?
 
 ### Options
-- [ ] A) Pencil case <!-- feedback: Incorrect. A pencil case holds pencils, not stories. -->
-- [x] B) Book <!-- feedback: Correct! You open a book (libro) to read. -->
-- [ ] C) Ruler <!-- feedback: Incorrect. A ruler does not have stories. -->
-- [ ] D) Backpack <!-- feedback: Incorrect. A backpack carries books, but you don't read it. -->
+- [ ] A) Window <!-- feedback: Incorrect. -->
+- [ ] B) Door <!-- feedback: Incorrect. -->
+- [x] C) Board <!-- feedback: Correct! The teacher writes on the board. -->
+- [ ] D) Table <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Book" = libro. Los libros tienen historias (stories) para leer. ¡Leer libros en inglés ayuda a aprender!
+El tablero o la pizarra se llama "board" en inglés.
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v5`
-**Bloom:** Remember
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v6`
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Tijeras"** in English?
+What is **"Cuaderno"** in English?
 
 ### Options
-- [ ] A) Glue <!-- feedback: Incorrect. "Glue" means pegamento. -->
-- [ ] B) Tape <!-- feedback: Incorrect. "Tape" means cinta adhesiva. -->
-- [x] C) Scissors <!-- feedback: Correct! "Scissors" = tijeras. -->
-- [ ] D) Stapler <!-- feedback: Incorrect. "Stapler" means grapadora. -->
+- [x] A) Notebook <!-- feedback: Correct! Notebook is cuaderno. -->
+- [ ] B) Book <!-- feedback: Incorrect. Book is libro. -->
+- [ ] C) Paper <!-- feedback: Incorrect. Paper is papel. -->
+- [ ] D) Pencil <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Scissors" = tijeras. Siempre se usa en plural. Se pronuncia "sí-sors". ¡Ten cuidado al usarlas!
+Un cuaderno, donde tomamos notas, se dice "notebook".
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v6`
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Where do you **put your books and notebooks** to carry them?
+You use it to draw straight lines:
 
 ### Options
-- [ ] A) A desk <!-- feedback: Incorrect. A desk is for working on, not carrying. -->
-- [ ] B) A chair <!-- feedback: Incorrect. You sit on a chair. -->
-- [x] C) A backpack <!-- feedback: Correct! A backpack (mochila) carries your school things. -->
-- [ ] D) A board <!-- feedback: Incorrect. A board (tablero) is on the wall. -->
+- [ ] A) Pen <!-- feedback: Incorrect. -->
+- [ ] B) Eraser <!-- feedback: Incorrect. -->
+- [x] C) Ruler <!-- feedback: Correct! A ruler is used for lines. -->
+- [ ] D) Backpack <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Backpack" = mochila. En Colombia decimos "maleta" o "mochila". Lleva tus libros y cuadernos a la escuela.
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-The teacher writes on the **board** with a:
-
-### Options
-- [ ] A) Pencil <!-- feedback: Incorrect. Pencils are for paper, not the board. -->
-- [x] B) Marker <!-- feedback: Correct! Teachers use markers (marcadores) on the board. -->
-- [ ] C) Pen <!-- feedback: Incorrect. Pens are for writing on paper. -->
-- [ ] D) Crayon <!-- feedback: Incorrect. Crayons are for coloring. -->
-
-### Explicación Pedagógica
-"Marker" = marcador. Los profesores usan marcadores para escribir en el tablero (board). En Colombia decimos "marcador" también.
+La regla se dice "ruler". Sirve para medir y hacer líneas rectas.
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-You need to **cut paper**. What do you ask for?
+What is **"Maleta"** or **"Morral"**?
 
 ### Options
-- [ ] A) "Pass me the glue, please." <!-- feedback: Incorrect. Glue is for sticking, not cutting. -->
-- [ ] B) "Pass me the ruler, please." <!-- feedback: Incorrect. A ruler is for measuring. -->
-- [x] C) "Pass me the scissors, please." <!-- feedback: Correct! Scissors are for cutting. -->
-- [ ] D) "Pass me the book, please." <!-- feedback: Incorrect. You don't cut with a book. -->
+- [ ] A) Case <!-- feedback: Incorrect. -->
+- [ ] B) Box <!-- feedback: Incorrect. -->
+- [x] C) Backpack <!-- feedback: Correct! Backpack is maleta. -->
+- [ ] D) Bag <!-- feedback: Incorrect. Bag is more general. -->
 
 ### Explicación Pedagógica
-Para cortar (cut) papel necesitas scissors (tijeras). "Pass me the scissors, please" = Pásame las tijeras, por favor.
+El morral o maleta escolar donde llevamos los útiles se dice "backpack".
 
 ---
 
@@ -186,19 +188,19 @@ Para cortar (cut) papel necesitas scissors (tijeras). "Pass me the scissors, ple
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-What is on your **desk** at school?
+Where do you put your pens and pencils?
 
 ### Options
-- [ ] A) A bed <!-- feedback: Incorrect. A bed is at home, not on a desk. -->
-- [x] B) A notebook and a pencil <!-- feedback: Correct! On your desk you have school supplies. -->
-- [ ] C) A refrigerator <!-- feedback: Incorrect. A refrigerator is in the kitchen. -->
-- [ ] D) A shower <!-- feedback: Incorrect. A shower is in the bathroom. -->
+- [ ] A) Book <!-- feedback: Incorrect. -->
+- [x] B) Pencil case <!-- feedback: Correct! This is for pencils. -->
+- [ ] C) Chair <!-- feedback: Incorrect. -->
+- [ ] D) Window <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Desk" = escritorio o pupitre. En tu desk tienes tus útiles escolares como un notebook (cuaderno) y un pencil (lápiz).
+La cartuchera se dice "pencil case".
 
 ---
 
@@ -206,16 +208,16 @@ What is on your **desk** at school?
 **ID:** `CO-ING-3-2026-W06-classroom-objects-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-The teacher says: **"Take out your pencil case."** What do you do?
+What is **"Sacapuntas"**?
 
 ### Options
-- [ ] A) Take out your eraser only <!-- feedback: Incorrect. A pencil case is bigger than an eraser. -->
-- [x] B) Take out your bag with pencils, eraser, and sharpener <!-- feedback: Correct! A pencil case (estuche) contains school supplies. -->
-- [ ] C) Take out your lunch box <!-- feedback: Incorrect. A lunch box is for food. -->
-- [ ] D) Take out your book <!-- feedback: Incorrect. A book is not a pencil case. -->
+- [x] A) Sharpener <!-- feedback: Correct! -->
+- [ ] B) Ruler <!-- feedback: Incorrect. -->
+- [ ] C) Eraser <!-- feedback: Incorrect. -->
+- [ ] D) Pencil <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Pencil case" = estuche o cartuchera. Es donde guardas tus lápices, borrador y tajalápiz. "Take out" = saca.
+El sacapuntas se dice "sharpener" (viene de 'sharp', que significa afilado).

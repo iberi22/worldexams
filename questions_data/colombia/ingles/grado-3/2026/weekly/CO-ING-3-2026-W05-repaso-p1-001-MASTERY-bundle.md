@@ -4,61 +4,63 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "repaso-p1"
+periodo: "weekly"
 semana: 5
 protocol_version: "5.2"
 bundle_index: 1
-bundle_size: 10
+bundle_size: 8
 alignment: "DBA MEN + Estándares Básicos Grado 3"
 cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.70
+rubric_baseline: "Review of greetings, alphabet, numbers 1-20, and colors."
 ---
 
 # Weekly Pack W05: Repaso Periodo 1 (A1)
 
-Este bundle de repaso evalúa los temas vistos en las semanas W01-W04: saludos, despedidas, alfabeto, números 1-20 y colores.
+Este bundle es un repaso de los temas vistos en las semanas 1 a 4: saludos, abecedario, números 1-20 y colores.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What do you say when you arrive at school in the morning?
+How do you say **"Buenas tardes"**?
 
 ### Options
-- [ ] A) Goodbye <!-- feedback: Incorrect. "Goodbye" is for leaving. -->
-- [ ] B) Good night <!-- feedback: Incorrect. "Good night" is for nighttime. -->
-- [x] C) Good morning <!-- feedback: Correct! In the morning we say "Good morning." -->
-- [ ] D) See you later <!-- feedback: Incorrect. "See you later" is a farewell. -->
+- [ ] A) Good morning <!-- feedback: Incorrect. This is for the morning. -->
+- [x] B) Good afternoon <!-- feedback: Correct! "Afternoon" is for the time after 12:00 PM. -->
+- [ ] C) Good night <!-- feedback: Incorrect. This is for the night. -->
+- [ ] D) Hello <!-- feedback: Incorrect. This is just "hola". -->
 
 ### Explicación Pedagógica
-Repaso de saludos: "Good morning" se usa en la mañana (de 6 AM a 12 PM). ¡Saludar al llegar es una muestra de respeto!
+"Good afternoon" es el saludo adecuado para la tarde en inglés.
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
 
 ### Enunciado
-What is the **third letter** of the alphabet?
+What is the letter after **B**?
 
 ### Options
-- [ ] A) A <!-- feedback: Incorrect. A is the first letter. -->
-- [ ] B) B <!-- feedback: Incorrect. B is the second letter. -->
-- [x] C) C <!-- feedback: Correct! C is the third letter of the alphabet. -->
-- [ ] D) D <!-- feedback: Incorrect. D is the fourth letter. -->
+- [ ] A) A <!-- feedback: Incorrect. A is before B. -->
+- [x] B) C <!-- feedback: Correct! A, B, C... -->
+- [ ] C) D <!-- feedback: Incorrect. D is after C. -->
+- [ ] D) E <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-El alfabeto en orden: A (1), B (2), C (3), D (4). La tercera letra es C.
+En la secuencia del abecedario, la letra C sigue a la letra B.
 
 ---
 
@@ -69,153 +71,113 @@ El alfabeto en orden: A (1), B (2), C (3), D (4). La tercera letra es C.
 **Expected_Success:** 0.80
 
 ### Enunciado
-What is the number **7** in English?
+What number is **"TWELVE"**?
 
 ### Options
-- [ ] A) Six <!-- feedback: Incorrect. Six = 6. -->
-- [ ] B) Eight <!-- feedback: Incorrect. Eight = 8. -->
-- [x] C) Seven <!-- feedback: Correct! Seven = 7. -->
-- [ ] D) Nine <!-- feedback: Incorrect. Nine = 9. -->
+- [ ] A) 2 <!-- feedback: Incorrect. 2 is "two". -->
+- [ ] B) 10 <!-- feedback: Incorrect. 10 is "ten". -->
+- [ ] C) 11 <!-- feedback: Incorrect. 11 is "eleven". -->
+- [x] D) 12 <!-- feedback: Correct! 12 is "twelve". -->
 
 ### Explicación Pedagógica
-"Seven" = 7. Los números después de six (6) son seven (7), eight (8), nine (9), ten (10).
+El número 12 se escribe "twelve" en inglés.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-What color is **a ripe mango** in Colombia?
+What color is a **banana**?
 
 ### Options
-- [ ] A) Blue <!-- feedback: Incorrect. Mangos are never blue. -->
-- [ ] B) Red <!-- feedback: Incorrect. Mangos are usually not red. -->
-- [ ] C) Green <!-- feedback: Incorrect. Green mangos are not ripe yet. -->
-- [x] D) Yellow <!-- feedback: Correct! Ripe mangos in Colombia are yellow. -->
+- [x] A) Yellow <!-- feedback: Correct! Bananas are yellow. -->
+- [ ] B) Red <!-- feedback: Incorrect. -->
+- [ ] C) Blue <!-- feedback: Incorrect. -->
+- [ ] D) Green <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Los mangos maduros en Colombia son amarillos (yellow). El mango es una fruta tropical deliciosa.
+El color amarillo en inglés se dice "yellow".
 
 ---
 
-## Question 5 [D4-D5]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-Your friend says: **"See you later!"** What does it mean?
+Spell the word **"RED"**:
 
 ### Options
-- [ ] A) Adiós para siempre <!-- feedback: Incorrect. "See you later" is not forever. -->
-- [ ] B) Buenas tardes <!-- feedback: Incorrect. It is a farewell, not a greeting. -->
-- [x] C) Hasta luego <!-- feedback: Correct! "See you later" = hasta luego, nos vemos después. -->
-- [ ] D) Buenos días <!-- feedback: Incorrect. That is a morning greeting. -->
+- [x] A) R - E - D <!-- feedback: Correct! -->
+- [ ] B) R - A - D <!-- feedback: Incorrect. -->
+- [ ] C) B - E - D <!-- feedback: Incorrect. That spells bed. -->
+- [ ] D) R - E - T <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"See you later" es una despedida informal que significa que se verán de nuevo, pero no necesariamente al día siguiente.
+El color rojo se escribe R-E-D.
 
 ---
 
-## Question 6 [D4-D5]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Spell the word **BED**:
+How many is **seven + four**?
 
 ### Options
-- [ ] A) B-D-E <!-- feedback: Incorrect. The correct spelling has different letters. -->
-- [ ] B) D-E-B <!-- feedback: Incorrect. That order is not correct. -->
-- [x] C) B-E-D <!-- feedback: Correct! B-E-D spells "bed." -->
-- [ ] D) B-E-E <!-- feedback: Incorrect. B-E-E spells "bee" (abeja). -->
+- [ ] A) Ten <!-- feedback: Incorrect. -->
+- [x] B) Eleven <!-- feedback: Correct! 7 + 4 = 11. -->
+- [ ] C) Twelve <!-- feedback: Incorrect. -->
+- [ ] D) Nine <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Bed" = cama. Se deletrea B-E-D. La letra inicial es B, la del medio es E, la final es D.
+Siete (seven) más cuatro (four) son once (eleven).
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v7`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
 
 ### Enunciado
-You have **three** red apples and **two** green apples. How many apples total?
+What do you say when you **leave** a place?
 
 ### Options
-- [ ] A) Four <!-- feedback: Incorrect. 3 + 2 = 5, not 4. -->
-- [ ] B) Six <!-- feedback: Incorrect. 3 + 2 = 5, not 6. -->
-- [x] C) Five <!-- feedback: Correct! 3 + 2 = 5 apples. "Five" = 5. -->
-- [ ] D) Seven <!-- feedback: Incorrect. 3 + 2 = 5, not 7. -->
+- [ ] A) Hello <!-- feedback: Incorrect. -->
+- [x] B) Goodbye <!-- feedback: Correct! -->
+- [ ] C) Good morning <!-- feedback: Incorrect. -->
+- [ ] D) How are you? <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Sumar en inglés: three (3) + two (2) = five (5). ¡Las matemáticas también se practican en inglés!
+Al irnos de un lugar, usamos la despedida "Goodbye".
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v8`
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.55
 
 ### Enunciado
-Complete: **"Hello, my name _____ Juan."**
+Which color is **"Verde"**?
 
 ### Options
-- [ ] A) are <!-- feedback: Incorrect. "Are" is for "you, we, they." -->
-- [ ] B) am <!-- feedback: Incorrect. "Am" goes with "I." -->
-- [x] C) is <!-- feedback: Correct! "My name is Juan" = Me llamo Juan. -->
-- [ ] D) be <!-- feedback: Incorrect. "Be" is the base form, not used here. -->
+- [ ] A) Blue <!-- feedback: Incorrect. -->
+- [ ] B) Yellow <!-- feedback: Incorrect. -->
+- [x] C) Green <!-- feedback: Correct! -->
+- [ ] D) Orange <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"My name is..." es la forma de presentarse en inglés. "Is" se usa con "my name" (nombre). ¡Úsalo para presentarte!
-
----
-
-## Question 9 [D5-D6]
-**ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Lingüística
-**Expected_Success:** 0.50
-
-### Enunciado
-What color do you get mixing **blue and yellow**?
-
-### Options
-- [ ] A) Orange <!-- feedback: Incorrect. Red + yellow = orange. -->
-- [x] B) Green <!-- feedback: Correct! Blue + yellow = green (verde). -->
-- [ ] C) Purple <!-- feedback: Incorrect. Red + blue = purple. -->
-- [ ] D) Pink <!-- feedback: Incorrect. Red + white = pink. -->
-
-### Explicación Pedagógica
-Mezcla de colores: blue (azul) + yellow (amarillo) = green (verde). ¡Como el pasto o las hojas de los árboles!
-
----
-
-## Question 10 [D5-D6]
-**ID:** `CO-ING-3-2026-W05-repaso-p1-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Pragmática
-**Expected_Success:** 0.45
-
-### Enunciado
-It is 3:00 in the afternoon. A new student enters the classroom. What do you say?
-
-### Options
-- [ ] A) Goodbye <!-- feedback: Incorrect. You don't say goodbye when someone arrives. -->
-- [ ] B) Good morning <!-- feedback: Incorrect. In the afternoon, we use a different greeting. -->
-- [x] C) Good afternoon <!-- feedback: Correct! At 3:00 PM we say "Good afternoon." -->
-- [ ] D) Good night <!-- feedback: Incorrect. 3:00 PM is afternoon, not night. -->
-
-### Explicación Pedagógica
-"Good afternoon" se usa de 12:00 PM a 6:00 PM aproximadamente. Es la forma correcta de saludar a las 3 de la tarde.
+Verde en inglés se dice "green".

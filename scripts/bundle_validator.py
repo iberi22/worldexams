@@ -178,7 +178,6 @@ class BundleValidator:
 
         return ValidationResult(valid, issues, warnings)
 
-
 if __name__ == "__main__":
     import sys
 

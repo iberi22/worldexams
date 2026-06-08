@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "family-members-2"
+periodo: "weekly"
 semana: 9
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Vocabulary for extended family members: grandfather, grandmother, uncle, aunt, cousin."
 ---
 
-# Weekly Pack W09: Family Members - Part 2 (A1)
+# Weekly Pack W09: Family Members 2 (A1)
 
-Este bundle evalúa vocabulario de la familia extendida en inglés: grandparents, aunt, uncle, cousin. Nivel A1.
+Este bundle evalúa el vocabulario de la familia extendida (abuelos, tíos, primos).
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What is **"Abuelo"** in English?
+What is **"Abuela"** in English?
 
 ### Options
-- [ ] A) Grandmother <!-- feedback: Incorrect. "Grandmother" means abuela. -->
-- [x] B) Grandfather <!-- feedback: Correct! "Grandfather" = abuelo. También "grandpa." -->
-- [ ] C) Uncle <!-- feedback: Incorrect. "Uncle" means tío. -->
-- [ ] D) Cousin <!-- feedback: Incorrect. "Cousin" means primo. -->
+- [ ] A) Grandfather <!-- feedback: Incorrect. That is abuelo. -->
+- [x] B) Grandmother <!-- feedback: Correct! Grandmother is abuela. -->
+- [ ] C) Mother <!-- feedback: Incorrect. -->
+- [ ] D) Aunt <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Grandfather" = abuelo. En inglés, los niños dicen "grandpa" como forma cariñosa. ¡El abuelo cuenta las mejores historias!
+"Grandmother" es la abuela. También se puede decir "Grandma" o "Granny".
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
 
 ### Enunciado
-What is **"Tío"** in English?
+What is **"Abuelo"** in English?
 
 ### Options
-- [ ] A) Aunt <!-- feedback: Incorrect. "Aunt" means tía. -->
-- [ ] B) Cousin <!-- feedback: Incorrect. "Cousin" means primo/prima. -->
-- [x] C) Uncle <!-- feedback: Correct! "Uncle" = tío. -->
-- [ ] D) Nephew <!-- feedback: Incorrect. "Nephew" means sobrino. -->
+- [x] A) Grandfather <!-- feedback: Correct! Grandfather is abuelo. -->
+- [ ] B) Grandmother <!-- feedback: Incorrect. -->
+- [ ] C) Father <!-- feedback: Incorrect. -->
+- [ ] D) Uncle <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Uncle" = tío. Es el hermano de tu mamá o de tu papá. Se pronuncia "án-kl". ¡Los tíos son divertidos!
+"Grandfather" es el abuelo. También se puede decir "Grandpa".
 
 ---
 
@@ -69,136 +71,136 @@ What is **"Tío"** in English?
 **Expected_Success:** 0.80
 
 ### Enunciado
-What is **"Abuela"** in English?
+What is **"Tío"** in English?
 
 ### Options
-- [ ] A) Grandfather <!-- feedback: Incorrect. "Grandfather" is male. -->
-- [x] B) Grandmother <!-- feedback: Correct! "Grandmother" = abuela. También "grandma." -->
-- [ ] C) Aunt <!-- feedback: Incorrect. "Aunt" means tía. -->
-- [ ] D) Sister <!-- feedback: Incorrect. "Sister" means hermana. -->
+- [ ] A) Aunt <!-- feedback: Incorrect. Aunt is tía. -->
+- [x] B) Uncle <!-- feedback: Correct! Uncle is tío. -->
+- [ ] C) Cousin <!-- feedback: Incorrect. Cousin is primo/a. -->
+- [ ] D) Brother <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Grandmother" = abuela. Los niños dicen "grandma" o "granny" para llamar a su abuela. ¡La abuela siempre nos mima!
+"Uncle" es el hermano de tu padre o de tu madre.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-Your mother's sister is your:
+What is **"Tía"** in English?
 
 ### Options
-- [ ] A) Grandmother <!-- feedback: Incorrect. Your grandmother is your parent's mother. -->
-- [x] B) Aunt <!-- feedback: Correct! Your mother's sister is your aunt (tía). -->
-- [ ] C) Cousin <!-- feedback: Incorrect. Your cousin is your aunt/uncle's child. -->
-- [ ] D) Sister <!-- feedback: Incorrect. Your sister is your sibling. -->
+- [x] A) Aunt <!-- feedback: Correct! Aunt is tía. -->
+- [ ] B) Uncle <!-- feedback: Incorrect. -->
+- [ ] C) Sister <!-- feedback: Incorrect. -->
+- [ ] D) Mother <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Aunt" = tía. Tu mother's sister (hermana de tu mamá) es tu aunt. También tu father's sister es tu aunt. Se pronuncia "ant" o "ont".
+"Aunt" es la hermana de tu padre o de tu madre.
 
 ---
 
-## Question 5 [D4-D5]
+## Question 5 [D3-D4]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Primo / Prima"** in English?
+What is **"Primo"** or **"Prima"** in English?
 
 ### Options
-- [ ] A) Uncle / Aunt <!-- feedback: Incorrect. Uncle/Aunt is tío/tía. -->
-- [ ] B) Brother / Sister <!-- feedback: Incorrect. Brother/Sister is hermano/hermana. -->
-- [x] C) Cousin <!-- feedback: Correct! "Cousin" = primo o prima. Es la misma palabra para ambos. -->
-- [ ] D) Nephew / Niece <!-- feedback: Incorrect. Nephew/Niece is sobrino/sobrina. -->
+- [ ] A) Brother <!-- feedback: Incorrect. -->
+- [ ] B) Sister <!-- feedback: Incorrect. -->
+- [x] C) Cousin <!-- feedback: Correct! Cousin serves for both boys and girls. -->
+- [ ] D) Nephew <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Cousin" = primo o prima. En inglés no cambia para masculino y femenino. ¡Los cousins son como amigos de la familia!
+En inglés, "cousin" se usa tanto para primo como para prima. ¡Es muy fácil!
 
 ---
 
-## Question 6 [D4-D5]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-Your father's mother is your:
+Your mother's mother is your:
 
 ### Options
-- [ ] A) Aunt <!-- feedback: Incorrect. Your father's mother is not his sister. -->
-- [ ] B) Mother <!-- feedback: Incorrect. Your mother is your parent. -->
-- [x] C) Grandmother <!-- feedback: Correct! Your father's mother is your grandmother (abuela). -->
-- [ ] D) Cousin <!-- feedback: Incorrect. Your father's mother is not a cousin. -->
+- [ ] A) Aunt <!-- feedback: Incorrect. -->
+- [x] B) Grandmother <!-- feedback: Correct! Your mom's mom is your grandma. -->
+- [ ] C) Sister <!-- feedback: Incorrect. -->
+- [ ] D) Cousin <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Tu father's mother = la mamá de tu papá = tu grandmother (abuela). En Colombia decimos "abuelita" con cariño.
+La madre de tu mamá es tu abuela (grandmother).
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D5-D6]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Lingüística
 **Expected_Success:** 0.60
 
 ### Enunciado
-Your aunt's children are your:
+Your father's brother is your:
 
 ### Options
-- [ ] A) Brothers and sisters <!-- feedback: Incorrect. They are not your siblings. -->
-- [x] B) Cousins <!-- feedback: Correct! Your aunt's children are your cousins. -->
-- [ ] C) Uncles <!-- feedback: Incorrect. They are not your uncles. -->
-- [ ] D) Grandparents <!-- feedback: Incorrect. They are not your grandparents. -->
+- [ ] A) Grandfather <!-- feedback: Incorrect. -->
+- [x] B) Uncle <!-- feedback: Correct! Your dad's brother is your uncle. -->
+- [ ] C) Cousin <!-- feedback: Incorrect. -->
+- [ ] D) Brother <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Los hijos de tu aunt (tía) son tus cousins (primos). ¡En Colombia, los primos son como hermanos!
+El hermano de tu papá es tu tío (uncle).
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.55
 
 ### Enunciado
-Complete: **"My _____ and _____ visit us on Sundays. They are my parents' parents."**
+Grandmother + Grandfather = ?
 
 ### Options
-- [ ] A) aunt, uncle <!-- feedback: Incorrect. Aunt and uncle are siblings of your parents. -->
-- [x] B) grandparents <!-- feedback: Correct! Grandparents = grandfather and grandmother. -->
-- [ ] C) cousins <!-- feedback: Incorrect. Cousins are your aunt/uncle's children. -->
-- [ ] D) siblings <!-- feedback: Incorrect. Siblings are your brothers and sisters. -->
+- [ ] A) Parents <!-- feedback: Incorrect. -->
+- [x] B) Grandparents <!-- feedback: Correct! They are your grandparents. -->
+- [ ] C) Cousins <!-- feedback: Incorrect. -->
+- [ ] D) Friends <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Grandparents" = abuelos. Incluye a grandfather (abuelo) y grandmother (abuela). Ellos son los padres de tus padres.
+Al igual que "parents" son mamá y papá, "grandparents" son la abuela y el abuelo.
 
 ---
 
 ## Question 9 [D5-D6]
 **ID:** `CO-ING-3-2026-W09-family-members-2-001-MASTERY-v9`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.50
 
 ### Enunciado
-Introduce your aunt: **"This is my _____, my mother's sister."**
+Who is your uncle's son?
 
 ### Options
-- [ ] A) uncle <!-- feedback: Incorrect. An uncle is male. Your mother's sister is female. -->
-- [ ] B) grandmother <!-- feedback: Incorrect. Your grandmother is older, not your mother's sister. -->
-- [x] C) aunt <!-- feedback: Correct! Your mother's sister is your aunt (tía). -->
-- [ ] D) cousin <!-- feedback: Incorrect. A cousin is not your mother's sister. -->
+- [ ] A) Your brother <!-- feedback: Incorrect. -->
+- [x] B) Your cousin <!-- feedback: Correct! Your uncle's child is your cousin. -->
+- [ ] C) Your father <!-- feedback: Incorrect. -->
+- [ ] D) Your aunt <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Aunt" = tía. Para presentarla: "This is my aunt." Si quieres ser más específico: "This is my aunt, my mother's sister."
+El hijo de tu tío es tu primo (cousin).
 
 ---
 
@@ -209,13 +211,13 @@ Introduce your aunt: **"This is my _____, my mother's sister."**
 **Expected_Success:** 0.45
 
 ### Enunciado
-In Colombia, it is common to call your aunt "tía" and your uncle "tío." In English, you call them:
+How do you say **"Mi familia"**?
 
 ### Options
-- [ ] A) Grandma and Grandpa <!-- feedback: Incorrect. Those are for grandparents. -->
-- [ ] B) Mom and Dad <!-- feedback: Incorrect. Those are for parents. -->
-- [x] C) Aunt and Uncle <!-- feedback: Correct! Aunt = tía, Uncle = tío. -->
-- [ ] D) Sister and Brother <!-- feedback: Incorrect. Those are siblings. -->
+- [ ] A) My family is <!-- feedback: Incorrect. -->
+- [x] B) My family <!-- feedback: Correct! -->
+- [ ] C) Me family <!-- feedback: Incorrect. -->
+- [ ] D) Mine family <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Aunt" = tía y "Uncle" = tío. Son miembros importantes de la familia extendida. ¡En Colombia los tíos son muy cercanos!
+"My" significa mi. Por lo tanto, "My family" es mi familia.
