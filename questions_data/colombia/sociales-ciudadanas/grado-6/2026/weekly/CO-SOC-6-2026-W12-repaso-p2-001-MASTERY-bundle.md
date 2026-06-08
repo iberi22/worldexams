@@ -1,192 +1,225 @@
 ---
 id: "CO-SOC-6-2026-W12-repaso-p2-001-MASTERY"
 country: "colombia"
-asignatura: "sociales-ciudadanas"
-tema: "Repaso P2: Civilizaciones Antiguas"
 grado: 6
+asignatura: "sociales-ciudadanas"
+tema: "repaso-p2"
 semana: 12
 protocol_version: "5.2"
+year: 2026
 bundle_index: 1
 bundle_size: 10
-
+alignment: "DBA MEN + Estándares Básicos de Competencias Ciudadanas"
+modern_context: true
+distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.65
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-
-rubric_baseline: "repaso_p2"
+rubric_baseline: "repaso, grecia, polis, democracia, filosofia, arte, guerras, alejandro"
 ---
 
-# Repaso P2: Civilizaciones Antiguas
+# Bundle Mastery: Repaso P2: Grecia Antigua – Semana 12
 
-Preguntas de Sociales Ciudadanas para grado 6 - Semana 12.
+Este bundle cubre los temas correspondientes a la semana 12. Alineado con los DBA de Competencias Ciudadanas para grado 6.
 
-## Pregunta 1
+---
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v1
+## Question 1
 
-**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Pensamiento Social
 
-Cual fue la primera civilizacion en desarrollar escritura?
+### Enunciado
+Cómo comenzó Roma?
 
-- **A.** Egipto
-- **B.** Mesopotamia (sumerios)
-- **C.** China
-- **D.** India
+### Options
+- [ ] A) Como imperio <!-- feedback: Incorrecto. -->
+- [x] B) Pequeña aldea en el Lacio (Italia central) <!-- feedback: Correcto! -->
+- [ ] C) Colonia griega <!-- feedback: Incorrecto. -->
+- [ ] D) Reino persa <!-- feedback: Incorrecto. -->
 
-> **Respuesta correcta:** B
+### Explicación Pedagógica
+Roma comenzó como aldea en el Lacio en el siglo VIII a.C.
 
-**Retroalimentacion:** Los sumerios en Mesopotamia crearon la escritura cuneiforme.
+---
 
-## Pregunta 2
+## Question 2
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v2
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v2`
+**Bloom:** Remember
+**ICFES:** Pensamiento Social
 
-**Taxonomia:** Bloom: _Understand_ | ICFES: _Pensamiento Social_
+### Enunciado
+Qué fue la República Romana?
 
-Que rio fue vital para Egipto?
+### Options
+- [ ] A) Democracia directa <!-- feedback: Incorrecto. -->
+- [x] B) Sistema con senado, magistrados y asambleas, sin rey <!-- feedback: Correcto! -->
+- [ ] C) Imperio <!-- feedback: Incorrecto. -->
+- [ ] D) Monarquía absoluta <!-- feedback: Incorrecto. -->
 
-- **A.** Tigris
-- **B.** Eufrates
-- **C.** Nilo
-- **D.** Indo
+### Explicación Pedagógica
+La República (509-27 a.C.) tenía senado, cónsules y asambleas.
 
-> **Respuesta correcta:** C
+---
 
-**Retroalimentacion:** El Nilo con sus inundaciones anuales fertilizaba las tierras.
+## Question 3
 
-## Pregunta 3
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v3`
+**Bloom:** Understand
+**ICFES:** Pensamiento Social
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v3
+### Enunciado
+Quiénes eran patricios y plebeyos?
 
-**Taxonomia:** Bloom: _Apply_ | ICFES: _Pensamiento Social_
+### Options
+- [x] A) Patricios: nobleza. Plebeyos: pueblo común <!-- feedback: Correcto! -->
+- [ ] B) Ambos iguales <!-- feedback: Incorrecto. -->
+- [ ] C) Plebeyos: nobleza. Patricios: pueblo <!-- feedback: Incorrecto. -->
+- [ ] D) Eran esclavos <!-- feedback: Incorrecto. -->
 
-Comparando faraon egipcio con presidente colombiano:
+### Explicación Pedagógica
+Patricios: aristocracia. Plebeyos: pueblo sin derechos políticos.
 
-- **A.** Ambos son elegidos
-- **B.** Ambos son vitalicios
-- **C.** El faraon era dios, el presidente es elegido por voto popular
-- **D.** No hay diferencia
+---
 
-> **Respuesta correcta:** C
+## Question 4
 
-**Retroalimentacion:** Egipto: teocracia. Colombia: democracia.
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v4`
+**Bloom:** Apply
+**ICFES:** Pensamiento Social
 
-## Pregunta 4
+### Enunciado
+Un tribuno de la plebe podía:
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v4
+### Options
+- [x] A) Vetar leyes que perjudicaran a los plebeyos <!-- feedback: Correcto! -->
+- [ ] B) Ser rey <!-- feedback: Incorrecto. -->
+- [ ] C) Comandar ejércitos <!-- feedback: Incorrecto. -->
+- [ ] D) Declarar guerras <!-- feedback: Incorrecto. -->
 
-**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
+### Explicación Pedagógica
+Los tribunos tenían poder de veto.
 
-Donde se desarrollo el budismo?
+---
 
-- **A.** China
-- **B.** India
-- **C.** Egipto
-- **D.** Persia
+## Question 5
 
-> **Respuesta correcta:** B
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v5`
+**Bloom:** Understand
+**ICFES:** Pensamiento Social
 
-**Retroalimentacion:** El budismo surgio en la India en el siglo VI a.C.
+### Enunciado
+Qué eran las Guerras Púnicas?
 
-## Pregunta 5
+### Options
+- [ ] A) Guerras civiles romanas <!-- feedback: Incorrecto. -->
+- [x] B) Conflictos entre Roma y Cartago <!-- feedback: Correcto! -->
+- [ ] C) Roma vs Grecia <!-- feedback: Incorrecto. -->
+- [ ] D) Roma vs Egipto <!-- feedback: Incorrecto. -->
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v5
+### Explicación Pedagógica
+Roma vs Cartago (264-146 a.C.) por el Mediterráneo.
 
-**Taxonomia:** Bloom: _Understand_ | ICFES: _Pensamiento Social_
+---
 
-Cual era la principal actividad fenicia?
+## Question 6
 
-- **A.** Agricultura
-- **B.** Comercio maritimo
-- **C.** Guerra
-- **D.** Mineria
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v6`
+**Bloom:** Analyze
+**ICFES:** Pensamiento Social
 
-> **Respuesta correcta:** B
+### Enunciado
+Por qué Roma conquistó el Mediterráneo?
 
-**Retroalimentacion:** Los fenicios eran comerciantes y navegantes.
+### Options
+- [ ] A) Por azar <!-- feedback: Incorrecto. -->
+- [x] B) Ejército eficiente, diplomacia y organización <!-- feedback: Correcto! -->
+- [ ] C) Religión <!-- feedback: Incorrecto. -->
+- [ ] D) Arte <!-- feedback: Incorrecto. -->
 
-## Pregunta 6
+### Explicación Pedagógica
+Legiones romanas y capacidad de integrar pueblos.
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v6
+---
 
-**Taxonomia:** Bloom: _Analyze_ | ICFES: _Pensamiento Social_
+## Question 7
 
-Por que los hebreos fueron importantes?
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v7`
+**Bloom:** Remember
+**ICFES:** Pensamiento Social
 
-- **A.** Su imperio duro siglos
-- **B.** Introdujeron el monoteismo
-- **C.** Inventaron el alfabeto
-- **D.** Construyeron piramides
+### Enunciado
+Qué era el Senado Romano?
 
-> **Respuesta correcta:** B
+### Options
+- [ ] A) Asamblea del pueblo <!-- feedback: Incorrecto. -->
+- [x] B) Consejo de ancianos nobles con gran poder <!-- feedback: Correcto! -->
+- [ ] C) Rey <!-- feedback: Incorrecto. -->
+- [ ] D) Tribunal <!-- feedback: Incorrecto. -->
 
-**Retroalimentacion:** El monoteismo hebreo influyo en cristianismo e islam.
+### Explicación Pedagógica
+Era el consejo de la aristocracia romana.
 
-## Pregunta 7
+---
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v7
+## Question 8
 
-**Taxonomia:** Bloom: _Apply_ | ICFES: _Pensamiento Social_
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v8`
+**Bloom:** Apply
+**ICFES:** Pensamiento Social
 
-Maqueta de zigurat en museo de Bogota: funcion?
+### Enunciado
+Para qué servían las calzadas romanas?
 
-- **A.** Tumba faraonica
-- **B.** Templo religioso escalonado
-- **C.** Mercado
-- **D.** Palacio
+### Options
+- [ ] A) Decoración <!-- feedback: Incorrecto. -->
+- [x] B) Movimiento rápido de ejércitos y comercio <!-- feedback: Correcto! -->
+- [ ] C) Ferrocarriles <!-- feedback: Incorrecto. -->
+- [ ] D) Aviones <!-- feedback: Incorrecto. -->
 
-> **Respuesta correcta:** B
+### Explicación Pedagógica
+Permitían desplazar ejércitos y mercancías rápidamente.
 
-**Retroalimentacion:** Zigurats: templos mesopotamicos en forma de torre escalonada.
+---
 
-## Pregunta 8
+## Question 9
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v8
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v9`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Social
 
-**Taxonomia:** Bloom: _Evaluate_ | ICFES: _Pensamiento Social_
+### Enunciado
+Comparando República Romana con democracia colombiana:
 
-Que legado persa influye hoy?
+### Options
+- [ ] A) Idénticas <!-- feedback: Incorrecto. -->
+- [x] B) Roma: república con senado y cónsules. Colombia: democracia representativa <!-- feedback: Correcto! -->
+- [ ] C) Roma: monarquía <!-- feedback: Incorrecto. -->
+- [ ] D) Colombia: imperio <!-- feedback: Incorrecto. -->
 
-- **A.** La democracia
-- **B.** La administracion de provincias (satrapias)
-- **C.** El alfabeto
-- **D.** Las piramides
+### Explicación Pedagógica
+Ambas separan poderes pero Roma era oligárquica.
 
-> **Respuesta correcta:** B
+---
 
-**Retroalimentacion:** Las satrapias persas son antecedente de la administracion provincial.
+## Question 10
 
-## Pregunta 9
+**ID:** `CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v10`
+**Bloom:** Understand
+**ICFES:** Pensamiento Social
 
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v9
+### Enunciado
+Qué derecho importante desarrollaron los romanos?
 
-**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
+### Options
+- [ ] A) Penal solo <!-- feedback: Incorrecto. -->
+- [x] B) Derecho romano (base del derecho civil occidental) <!-- feedback: Correcto! -->
+- [ ] C) Divino <!-- feedback: Incorrecto. -->
+- [ ] D) Marítimo <!-- feedback: Incorrecto. -->
 
-Escritura egipcia?
+### Explicación Pedagógica
+Base del derecho civil con la Ley de las XII Tablas.
 
-- **A.** Cuneiforme
-- **B.** Jeroglifico
-- **C.** Alfabeto
-- **D.** Sanscrito
-
-> **Respuesta correcta:** B
-
-**Retroalimentacion:** Jeroglificos: escritura sagrada egipcia.
-
-## Pregunta 10
-
-**ID:** CO-SOC-6-2026-W12-repaso-p2-001-MASTERY-v10
-
-**Taxonomia:** Bloom: _Understand_ | ICFES: _Pensamiento Social_
-
-Sociedad india se organizaba en:
-
-- **A.** Clases sociales moviles
-- **B.** Castas hereditarias
-- **C.** Tribus igualitarias
-- **D.** Ciudades-estado
-
-> **Respuesta correcta:** B
-
-**Retroalimentacion:** Sistema de castas (varnas): sacerdotes, guerreros, comerciantes, sirvientes.
