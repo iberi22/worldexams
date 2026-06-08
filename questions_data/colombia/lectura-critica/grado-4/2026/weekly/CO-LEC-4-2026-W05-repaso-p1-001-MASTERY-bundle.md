@@ -9,7 +9,7 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Est�ndares B�sicos de Competencias en Lenguaje"
+alignment: "DBA MEN + Estándares Básicos de Competencias en Lenguaje"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
@@ -21,209 +21,216 @@ rubric_baseline: "repaso: idea principal, detalles, secuencia, personajes"
 
 # Lectura Crítica G4 — W05: Repaso P1
 
-*¡Semana de repaso! Integraremos idea principal, detalles, secuencias y personajes.*
----
-
 ## Question 1 [D2]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Idea principal.
+**Context:** Repaso idea principal.
 
 ### Enunciado
-*"El río Magdalena es la principal arteria fluvial de Colombia."* ¿Idea principal?
+*"Los mangos son frutas tropicales. En Colombia hay muchas variedades."* ¿Idea principal?
 
 ### Options
-- [ ] A) El río tiene agua. <!-- feedback:  -->
-- [x] B) El Magdalena es la principal vía fluvial. <!-- feedback: Correcto. -->
-- [ ] C) Navegan barcos. <!-- feedback:  -->
-- [ ] D) Está en Colombia. <!-- feedback:  -->
+- [ ] A) Los mangos son rojos.
+- [x] B) Los mangos son frutas tropicales de Colombia. <!-- feedback: Correcto. -->
+- [ ] C) Los mangos son caros.
+- [ ] D) Los mangos crecen en el desierto.
 
 ### Explicación Pedagógica
 Repaso idea principal.
 
 ---
+
 ## Question 2 [D1]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Detalle explícito.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Repaso detalle explícito.
 
 ### Enunciado
-*"Colombia tiene 32 departamentos."* ¿Cuántos?
+*"La iguana verde mide hasta 2 metros de largo."* ¿Cuánto mide?
 
 ### Options
-- [ ] A) 30. <!-- feedback:  -->
-- [x] B) 32. <!-- feedback: Correcto. -->
-- [ ] C) 35. <!-- feedback:  -->
-- [ ] D) 28. <!-- feedback:  -->
+- [ ] A) 1 metro.
+- [x] B) 2 metros. <!-- feedback: Correcto. -->
+- [ ] C) 3 metros.
+- [ ] D) 50 cm.
 
 ### Explicación Pedagógica
-Repaso detalles.
+Repaso detalle explícito.
 
 ---
-## Question 3 [D1]
+
+## Question 3 [D2]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v3`
-**Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Personaje.
+**Bloom:** Understand
+**ICFES:** Comprensión del sentido global
+**Context:** Repaso secuencia.
 
 ### Enunciado
-*"La señora María es la bibliotecaria."* ¿Quién es?
+*"Primero lavar las frutas, después picarlas y finalmente licuarlas."* ¿Qué se hace después de lavar?
 
 ### Options
-- [ ] A) Profesora. <!-- feedback:  -->
-- [x] B) Bibliotecaria. <!-- feedback: Correcto. -->
-- [ ] C) Médica. <!-- feedback:  -->
-- [ ] D) Cocinera. <!-- feedback:  -->
+- [ ] A) Licuar. <!-- feedback: Eso es al final. -->
+- [x] B) Picar las frutas. <!-- feedback: Correcto. -->
+- [ ] C) Servir.
+- [ ] D) Comprar.
 
 ### Explicación Pedagógica
-Repaso personajes.
+Repaso orden de pasos.
 
 ---
+
 ## Question 4 [D2]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Secuencia.
+**Context:** Repaso personaje.
 
 ### Enunciado
-*"Primero sembraron, luego regaron, finalmente cosecharon."* ¿Después de sembrar?
+*"Don José es un campesino que cultiva café en la Sierra Nevada."* ¿Qué es Don José?
 
 ### Options
-- [ ] A) Cosechar. <!-- feedback: Al final. -->
-- [x] B) Regar. <!-- feedback: Correcto. -->
-- [ ] C) Podar. <!-- feedback:  -->
-- [ ] D) Vender. <!-- feedback:  -->
+- [ ] A) Médico.
+- [x] B) Campesino cafetero. <!-- feedback: Correcto. -->
+- [ ] C) Profesor.
+- [ ] D) Pescador.
 
 ### Explicación Pedagógica
-Repaso secuencia.
+Repaso personaje.
 
 ---
-## Question 5 [D2]
+
+## Question 5 [D3]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Detalle geográfico.
-
-### Enunciado
-*"El cóndor de los Andes vive en las montañas de Colombia."* ¿Dónde vive?
-
-### Options
-- [ ] A) Selva. <!-- feedback:  -->
-- [x] B) Montañas. <!-- feedback: Correcto. -->
-- [ ] C) Costa. <!-- feedback:  -->
-- [ ] D) Desierto. <!-- feedback:  -->
-
-### Explicación Pedagógica
-Repaso detalle.
-
----
-## Question 6 [D3]
-
-**ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Inferir personalidad.
+**Context:** Repaso idea implícita.
 
 ### Enunciado
-*"Sara siempre presta sus lápices y ayuda con tareas."* ¿Cómo es?
+*"Las aulas tienen luz tenue. Los estudiantes bostezan. Algunos se duermen."* ¿Qué pasa?
 
 ### Options
-- [ ] A) Egoísta. <!-- feedback:  -->
-- [x] B) Solidaria. <!-- feedback: Correcto. -->
-- [ ] C) Perezosa. <!-- feedback:  -->
-- [ ] D) Enojada. <!-- feedback:  -->
+- [ ] A) Están felices.
+- [x] B) Están aburridos o con sueño. <!-- feedback: Correcto. -->
+- [ ] C) Están jugando.
+- [ ] D) Cantan.
 
 ### Explicación Pedagógica
-Repaso inferir personalidad.
+Repaso inferencia.
 
 ---
-## Question 7 [D2]
+
+## Question 6 [D1]
+
+**ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v6`
+**Bloom:** Remember
+**ICFES:** Identifi. de contenidos locales
+**Context:** Repaso detalle: lugar.
+
+### Enunciado
+*"La Feria de las Flores se celebra en Medellín cada año."* ¿Dónde se celebra?
+
+### Options
+- [ ] A) Bogotá.
+- [x] B) Medellín. <!-- feedback: Correcto. -->
+- [ ] C) Cali.
+- [ ] D) Barranquilla.
+
+### Explicación Pedagógica
+Repaso detalle-lugar.
+
+---
+
+## Question 7 [D4]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Comprensión del sentido global
-**Context:** Idea principal vs detalle.
+**Bloom:** Analyze
+**ICFES:** Dimensión inferencial
+**Context:** Repaso comparar.
 
 ### Enunciado
-*"Colombia produce excelente café. Se cultiva en el Eje Cafetero."* ¿Idea principal?
+*"Un texto dice: ‘El cóndor es grande’. Otro dice: ‘El colibrí es pequeño’."* ¿Qué hacen?
 
 ### Options
-- [x] A) Colombia produce excelente café. <!-- feedback: Correcto. -->
-- [ ] B) Se cultiva en el Eje Cafetero. <!-- feedback: Detalle. -->
-- [ ] C) El café es amargo. <!-- feedback:  -->
-- [ ] D) Tiene cafeína. <!-- feedback:  -->
+- [x] A) Comparar dos aves. <!-- feedback: Correcto. -->
+- [ ] B) Describir el clima.
+- [ ] C) Dar opinión.
+- [ ] D) Contar cuento.
 
 ### Explicación Pedagógica
-Repaso diferenciar idea principal.
+Repaso comparación.
 
 ---
+
 ## Question 8 [D4]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Dimensión inferencial
-**Context:** Orden lógico.
+**ICFES:** Reflexión sobre el contenido
+**Context:** Repaso evaluar.
 
 ### Enunciado
-*"María se levantó, se vistió y salió. Compró pan en la calle."* ¿Antes de salir?
+*"¿Es la frase ‘Las tortugas son malas’ una idea principal válida?"*
 
 ### Options
-- [ ] A) Compró pan. <!-- feedback: Después. -->
-- [x] B) Se vistió. <!-- feedback: Correcto. -->
-- [ ] C) Desayunó. <!-- feedback:  -->
-- [ ] D) Llegó al colegio. <!-- feedback:  -->
+- [ ] A) Sí, alguien lo dice.
+- [x] B) No, es opinión, no hecho. <!-- feedback: Correcto. -->
+- [ ] C) Sí, todas válidas.
+- [ ] D) Depende.
 
 ### Explicación Pedagógica
-Repaso orden inverso.
+Repaso evaluar ideas.
 
 ---
+
 ## Question 9 [D4]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Personaje adecuado.
+**Context:** Repaso orden cronológico.
 
 ### Enunciado
-Cuento de aventura en la selva: ¿qué personaje necesitas?
+*"¿Qué pasa si en una receta primero horneas y luego mezclas?"*
 
 ### Options
-- [ ] A) Un chef. <!-- feedback:  -->
-- [x] B) Un explorador. <!-- feedback: Correcto. -->
-- [ ] C) Un profesor de piano. <!-- feedback:  -->
-- [ ] D) Una bailarina. <!-- feedback:  -->
+- [ ] A) Funciona igual.
+- [x] B) No funciona, el orden importa. <!-- feedback: Correcto. -->
+- [ ] C) Solo si horneas bien.
+- [ ] D) Se puede al revés.
 
 ### Explicación Pedagógica
-Repaso coherencia personaje-género.
+Repaso importancia del orden.
 
 ---
-## Question 10 [D4]
+
+## Question 10 [D3]
 
 **ID:** `CO-LEC-4-2026-W05-repaso-p1-001-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar suficiencia.
+**Bloom:** Apply
+**ICFES:** Dimensión inferencial
+**Context:** Repaso personaje: acciones.
 
 ### Enunciado
-*"El agua es importante."* ¿Suficiente detalle?
+*"La niña devolvió la billetera que encontró en la calle."* ¿Cómo es?
 
 ### Options
-- [ ] A) Sí. <!-- feedback:  -->
-- [x] B) No, falta por qué y para qué. <!-- feedback: Correcto. -->
-- [ ] C) Sí, es clara. <!-- feedback:  -->
-- [ ] D) No, pero da igual. <!-- feedback:  -->
+- [ ] A) Deshonesta.
+- [x] B) Honesta. <!-- feedback: Correcto. -->
+- [ ] C) Desordenada.
+- [ ] D) Perezosa.
 
 ### Explicación Pedagógica
-Repaso evaluar suficiencia.
+Repaso inferir personalidad.
 
 ---
 
+
 ### Explicación Pedagógica Final
-Bundle de repaso P1 integrando idea principal, detalles, secuencia y personajes.
+Bundle de repaso P1.

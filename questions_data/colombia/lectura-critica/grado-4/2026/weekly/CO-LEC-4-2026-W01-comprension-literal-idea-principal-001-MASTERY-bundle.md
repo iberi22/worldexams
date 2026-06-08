@@ -21,209 +21,216 @@ rubric_baseline: "idea principal, comprensión literal, textos cortos, informaci
 
 # Lectura Crítica G4 — W01: Comprensión literal: idea principal
 
-*Esta semana aprenderemos a encontrar la idea principal en textos cortos. La idea principal es la información más importante que el autor quiere comunicar.*
----
-
 ## Question 1 [D1]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Oración simple.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Idea principal en oración.
 
 ### Enunciado
-Lee la oración: *"El río Amazonas atraviesa el sur de Colombia."* ¿Qué río se menciona?
+*"La tortuga es un animal que vive muchos años y puede pesar hasta 300 kilos."* ¿Cuál es la idea principal?
 
 ### Options
-- [ ] A) El río Magdalena. <!-- feedback: No se menciona. -->
-- [ ] B) El río Cauca. <!-- feedback: No aparece. -->
-- [x] C) El río Amazonas. <!-- feedback: Correcto. -->
-- [ ] D) El río Orinoco. <!-- feedback: No se menciona. -->
+- [ ] A) Las tortugas son lentas.
+- [x] B) Las tortugas viven muchos años y pesan hasta 300 kilos. <!-- feedback: Correcto. Es la información principal de la oración. -->
+- [ ] C) Las tortugas nadan rápido.
+- [ ] D) Las tortugas ponen huevos.
 
 ### Explicación Pedagógica
-Identificación de información explícita en oración simple.
+Idea principal explícita.
 
 ---
+
 ## Question 2 [D1]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
-**Context:** Clima en Colombia.
+**ICFES:** Identifi. de contenidos locales
+**Context:** Idea principal de dos oraciones.
 
 ### Enunciado
-*"En la costa Caribe colombiana hace calor casi todo el año."* ¿Qué clima tiene?
+*"Los niños reciclaron botellas plásticas. Con ellas hicieron macetas para el jardín de la escuela."* ¿Cuál es la idea principal?
 
 ### Options
-- [ ] A) Frío. <!-- feedback:  -->
-- [ ] B) Templado. <!-- feedback:  -->
-- [x] C) Caluroso. <!-- feedback: Correcto. -->
-- [ ] D) Lluvioso todo el año. <!-- feedback:  -->
+- [ ] A) Los niños botan botellas.
+- [x] B) Los niños usaron botellas recicladas para hacer jardineras. <!-- feedback: Correcto. -->
+- [ ] C) El jardín cerró.
+- [ ] D) Las macetas son de barro.
 
 ### Explicación Pedagógica
-Identificar característica climática explícita.
+Idea principal del conjunto.
 
 ---
-## Question 3 [D2]
+
+## Question 3 [D1]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Comprensión del sentido global
-**Context:** Campesinos de Nariño.
+**Bloom:** Remember
+**ICFES:** Identifi. de contenidos locales
+**Context:** Personaje principal.
 
 ### Enunciado
-*"Cada mañana los campesinos de Nariño recogen papas, las lavan y las empacan para el mercado."* ¿Idea principal?
+*"Había una vez un campesino llamado José que vivía en una vereda de Boyacá."* ¿Quién es el personaje principal?
 
 ### Options
-- [ ] A) Lavan papas en el río. <!-- feedback: Es detalle. -->
-- [ ] B) Las papas se venden en Pasto. <!-- feedback: Detalle. -->
-- [x] C) Los campesinos trabajan en la cosecha y preparación. <!-- feedback: Correcto. -->
-- [ ] D) Nariño tiene ríos limpios. <!-- feedback: No aparece. -->
+- [ ] A) El pueblo de Boyacá.
+- [x] B) José, el campesino. <!-- feedback: Correcto. -->
+- [ ] C) La vereda.
+- [ ] D) Los animales.
 
 ### Explicación Pedagógica
-Identificar idea principal vs detalles.
+Identificar personaje principal.
 
 ---
+
 ## Question 4 [D2]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Hábitat del tucán.
+**ICFES:** Comprensión del sentido global
+**Context:** Tema de texto.
 
 ### Enunciado
-*"El tucán vive en las selvas de Colombia."* ¿Dónde vive?
+*"En las montañas de Colombia crecen muchas orquídeas. Hay más de 4.000 especies."* ¿De qué trata el texto?
 
 ### Options
-- [ ] A) Montañas. <!-- feedback:  -->
-- [ ] B) Desiertos. <!-- feedback:  -->
-- [x] C) Selvas de Colombia. <!-- feedback: Correcto. -->
-- [ ] D) Ciudades. <!-- feedback:  -->
+- [ ] A) De los pájaros.
+- [x] B) De las orquídeas de Colombia. <!-- feedback: Correcto. -->
+- [ ] C) De las montañas.
+- [ ] D) De los colores.
 
 ### Explicación Pedagógica
-Identificar hábitat explícito.
+Identificar tema.
 
 ---
+
 ## Question 5 [D2]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** La arepa.
+**Context:** Resumir idea principal.
 
 ### Enunciado
-*"La arepa es un alimento tradicional colombiano hecho de harina de maíz."* ¿Tema central?
+*"En la costa Caribe, los niños juegan fútbol en la arena. También construyen castillos y recogen conchas."* ¿Cuál es la idea principal?
 
 ### Options
-- [ ] A) Tipos de queso. <!-- feedback:  -->
-- [x] B) La arepa como alimento tradicional. <!-- feedback: Correcto. -->
-- [ ] C) Cómo cocinar carne. <!-- feedback:  -->
-- [ ] D) Desayunos colombianos. <!-- feedback:  -->
+- [ ] A) Los niños trabajan en la costa.
+- [x] B) Los niños juegan y se divierten en la playa. <!-- feedback: Correcto. -->
+- [ ] C) La costa es peligrosa.
+- [ ] D) Solo juegan solos.
 
 ### Explicación Pedagógica
-Identificar tema central.
+Resumir en oración.
 
 ---
+
 ## Question 6 [D3]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Significado por contexto.
+**Context:** Idea principal implícita.
 
 ### Enunciado
-*"Don Manuel aró la tierra con bueyes en Tuta, Boyacá."* ¿Qué significa "aró"?
+*"El agua del río estaba sucia. Los peces desaparecieron. Los pescadores ya no pescan."* ¿Cuál es la idea principal?
 
 ### Options
-- [ ] A) Regar. <!-- feedback:  -->
-- [ ] B) Cortar plantas. <!-- feedback:  -->
-- [x] C) Preparar la tierra haciendo surcos. <!-- feedback: Correcto. -->
-- [ ] D) Cosechar. <!-- feedback:  -->
+- [ ] A) Los peces se fueron de vacaciones.
+- [x] B) La contaminación del río afectó a los peces y pescadores. <!-- feedback: Correcto. Se infiere del texto. -->
+- [ ] C) El río está limpio.
+- [ ] D) Los pescadores descansan.
 
 ### Explicación Pedagógica
-Inferir significado por contexto.
+Inferir idea principal.
 
 ---
-## Question 7 [D2]
+
+## Question 7 [D3]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Secuencia de cocina.
+**Bloom:** Apply
+**ICFES:** Dimensión inferencial
+**Context:** Seleccionar el mejor título.
 
 ### Enunciado
-*"Primero peló plátanos, luego los friendó, finalmente los sirvió con hogao."* ¿Después de pelar?
+*"Las hormigas trabajan juntas. Cada una tiene una tarea. Así construyen su hormiguero."* ¿Cuál es el mejor título?
 
 ### Options
-- [ ] A) Servirlos. <!-- feedback: Último paso. -->
-- [x] B) Freírlos. <!-- feedback: Correcto. -->
-- [ ] C) Comprarlos. <!-- feedback:  -->
-- [ ] D) Cortarlos. <!-- feedback:  -->
+- [ ] A) Hormigas solitarias.
+- [x] B) El trabajo en equipo de las hormigas. <!-- feedback: Correcto. -->
+- [ ] C) Cómo vuelan las hormigas.
+- [ ] D) El color de las hormigas.
 
 ### Explicación Pedagógica
-Seguir secuencia temporal.
+Elegir título adecuado.
 
 ---
-## Question 8 [D2]
+
+## Question 8 [D4]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Comprensión del sentido global
-**Context:** Café colombiano.
+**Bloom:** Analyze
+**ICFES:** Dimensión inferencial
+**Context:** Diferenciar detalles.
 
 ### Enunciado
-*"El café colombiano es conocido mundialmente por su sabor suave."* ¿Idea principal?
+*"La guadua es una planta que crece rápido. Se usa en construcción. Es muy resistente."* ¿Cuál es un DETALLE, no la idea principal?
 
 ### Options
-- [ ] A) Se cultiva en el Eje Cafetero. <!-- feedback: Detalle. -->
-- [x] B) Es reconocido mundialmente. <!-- feedback: Correcto. -->
-- [ ] C) Se exporta. <!-- feedback: Detalle. -->
-- [ ] D) Es suave. <!-- feedback: Parcial. -->
+- [x] A) La guadua es resistente. <!-- feedback: Correcto. Eso es un detalle de apoyo. -->
+- [ ] B) La guadua es una planta útil. <!-- feedback: Esa es la idea principal. -->
+- [ ] C) La guadua crece en Colombia. <!-- feedback: Idea general. -->
+- [ ] D) La guadua es natural.
 
 ### Explicación Pedagógica
-Integrar información en idea principal.
+Distinguir detalle de idea principal.
 
 ---
+
 ## Question 9 [D4]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Dimensión inferencial
-**Context:** Idea implícita.
+**ICFES:** Reflexión sobre el contenido
+**Context:** Evaluar si la idea es correcta.
 
 ### Enunciado
-*"Doña Elena vende jugos en la plaza. Se levanta a las 4 a.m. Sus clientes la esperan."* ¿Qué infieres?
+*"Los loros hablan como las personas."* ¿Es esta una idea principal correcta para un texto científico?
 
 ### Options
-- [ ] A) Vende jugos. <!-- feedback: Explícito. -->
-- [ ] B) Se levanta a las 4. <!-- feedback: Explícito. -->
-- [x] C) Es trabajadora y dedicada. <!-- feedback: Correcto. -->
-- [ ] D) La plaza abre temprano. <!-- feedback:  -->
+- [ ] A) Sí, los loros hablan.
+- [x] B) No, los loros imitan sonidos pero no hablan con significado. <!-- feedback: Correcto. La afirmación no es precisa. -->
+- [ ] C) Sí, porque tienen cuerdas vocales.
+- [ ] D) No, pero es entretenido.
 
 ### Explicación Pedagógica
-Inferir idea no dicha.
+Evaluar validez de idea.
 
 ---
+
 ## Question 10 [D4]
 
 **ID:** `CO-LEC-4-2026-W01-comprension-literal-idea-principal-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Título representativo.
+**Context:** Crear título para un párrafo.
 
 ### Enunciado
-*"Los frailejones protegen las fuentes de agua en los páramos."* ¿Mejor título?
+*"El café colombiano se cultiva en las montañas. Es reconocido en todo el mundo por su sabor suave."* ¿Mejor título?
 
 ### Options
-- [ ] A) Hojas peludas. <!-- feedback: Detalle. -->
-- [ ] B) Plantas del páramo. <!-- feedback: Parcial. -->
-- [x] C) Importancia de los frailejones para el agua. <!-- feedback: Correcto. -->
-- [ ] D) Cómo crecen plantas. <!-- feedback: General. -->
+- [ ] A) Cómo hacer café.
+- [x] B) El café colombiano: sabor de montaña. <!-- feedback: Correcto. Resume ambas ideas. -->
+- [ ] C) Las montañas de Colombia.
+- [ ] D) Cafeteras del mundo.
 
 ### Explicación Pedagógica
-Sintetizar en título.
+Sintetizar título.
 
 ---
 
+
 ### Explicación Pedagógica Final
-Bundle que desarrolla identificación de la idea principal en textos cortos. Contextos colombianos variados.
+Bundle de idea principal para grado 4. Contextos colombianos variados.
