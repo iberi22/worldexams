@@ -15,12 +15,12 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "Océanos y fronteras de Colombia"
+rubric_baseline: "Geografía de Colombia: océanos, fronteras terrestres y marítimas"
 ---
 
-# Bundle Mastery: Geografía: océanos y fronteras de Colombia
+# Bundle Mastery: Geografía — Océanos y fronteras de Colombia
 
-Este bundle explica las fronteras terrestres y marítimas de Colombia.
+Este bundle explica la ubicación geográfica de Colombia, sus océanos, fronteras terrestres y marítimas.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Fronteras Colombia
+**Context:** Ubicación de Colombia
 
 ### Enunciado
-¿Con cuántos países limita Colombia?
+¿En qué continente se encuentra Colombia?
 
 ### Options
-
-- [x] A) 5 países. <!-- feedback: 5. -->
-- [ ] B) 3 países. <!-- feedback: 5. -->
-- [ ] C) 7 países. <!-- feedback: 5. -->
-- [ ] D) 2 países. <!-- feedback: 5. -->
+- [ ] A) Asia. <!-- feedback: Incorrecto. Colombia está en América. -->
+- [ ] B) Europa. <!-- feedback: Incorrecto. Colombia está en América del Sur. -->
+- [x] C) América del Sur. <!-- feedback: Correcto. Colombia está ubicada en el noroccidente de América del Sur. -->
+- [ ] D) África. <!-- feedback: Incorrecto. Colombia está en América. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar la ubicación continental de Colombia.
 
 ---
 
@@ -51,20 +50,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Países fronterizos
+**Context:** Océanos de Colombia
 
 ### Enunciado
-¿Qué países limitan con Colombia?
+¿Con qué océanos limita Colombia?
 
 ### Options
-
-- [ ] A) Chile, Argentina, Uruguay. <!-- feedback: No. -->
-- [x] B) Venezuela, Brasil, Perú, Ecuador y Panamá. <!-- feedback: 5 países. -->
-- [ ] C) México, Guatemala. <!-- feedback: Centroamérica. -->
-- [ ] D) España, Francia. <!-- feedback: Europa. -->
+- [ ] A) Océano Atlántico solamente. <!-- feedback: Incorrecto. Colombia tiene dos océanos. -->
+- [ ] B) Océano Pacífico solamente. <!-- feedback: Incorrecto. Colombia tiene dos océanos. -->
+- [x] C) Océano Pacífico y Océano Atlántico (Mar Caribe). <!-- feedback: Correcto. Colombia tiene costas en ambos océanos. -->
+- [ ] D) Océano Índico y Océano Atlántico. <!-- feedback: Incorrecto. Colombia no tiene costas en el Índico. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar los océanos que bañan las costas colombianas.
 
 ---
 
@@ -73,20 +71,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Océanos
+**Context:** Fronteras terrestres
 
 ### Enunciado
-¿Con qué océanos limita Colombia?
+¿Con qué países limita Colombia por tierra?
 
 ### Options
-
-- [ ] A) Solo Pacífico. <!-- feedback: También Atlántico. -->
-- [ ] B) Solo Atlántico. <!-- feedback: También Pacífico. -->
-- [x] C) Océano Atlántico (Caribe) y Pacífico. <!-- feedback: Dos océanos. -->
-- [ ] D) Con ninguno. <!-- feedback: Dos. -->
+- [ ] A) Solo Venezuela y Brasil. <!-- feedback: Incorrecto. Colombia limita con más países. -->
+- [ ] B) Ecuador, Perú y Brasil solamente. <!-- feedback: Incorrecto. Faltan varios. -->
+- [x] C) Venezuela, Brasil, Perú, Ecuador y Panamá. <!-- feedback: Correcto. Colombia tiene 5 fronteras terrestres. -->
+- [ ] D) México, Guatemala y Honduras. <!-- feedback: Incorrecto. Esos países no comparten frontera terrestre con Colombia. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender con qué países limita Colombia por tierra.
 
 ---
 
@@ -95,20 +92,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Mar Caribe
+**Context:** Fronteras marítimas
 
 ### Enunciado
-¿En qué dirección está el mar Caribe?
+Además de los países vecinos por tierra, ¿con qué otros países tiene fronteras marítimas Colombia?
 
 ### Options
-
-- [ ] A) Al occidente. <!-- feedback: Norte. -->
-- [ ] B) Al sur. <!-- feedback: Norte. -->
-- [ ] C) Al oriente. <!-- feedback: Norte. -->
-- [x] D) Al norte de Colombia. <!-- feedback: Norte. -->
+- [ ] A) Con ningún otro país. <!-- feedback: Incorrecto. Colombia tiene fronteras marítimas. -->
+- [ ] B) Solo con Estados Unidos. <!-- feedback: Incorrecto. EE. UU. no tiene frontera marítima con Colombia. -->
+- [x] C) Con países como Jamaica, Haití, República Dominicana, Nicaragua, Costa Rica y Honduras en el Caribe. <!-- feedback: Correcto. Colombia tiene fronteras marítimas con varios países del Caribe. -->
+- [ ] D) Solo con Panamá. <!-- feedback: Incorrecto. Panamá es frontera terrestre y marítima. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender la extensión de las fronteras marítimas colombianas.
 
 ---
 
@@ -117,20 +113,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Océano Pacífico
+**Context:** Mar Caribe
 
 ### Enunciado
-¿En qué dirección está el Pacífico?
+¿Qué ciudades colombianas tienen costas en el Mar Caribe?
 
 ### Options
-
-- [x] A) Al occidente de Colombia. <!-- feedback: Occidente. -->
-- [ ] B) Al norte. <!-- feedback: Occidente. -->
-- [ ] C) Al sur. <!-- feedback: Occidente. -->
-- [ ] D) Al oriente. <!-- feedback: Occidente. -->
+- [ ] A) Bogotá y Medellín. <!-- feedback: Incorrecto. Esas ciudades están en el interior. -->
+- [ ] B) Cali y Popayán. <!-- feedback: Incorrecto. Están en el interior del país. -->
+- [x] C) Cartagena, Barranquilla, Santa Marta y Riohacha. <!-- feedback: Correcto. Esas son ciudades costeras del Caribe colombiano. -->
+- [ ] D) Bucaramanga y Cúcuta. <!-- feedback: Incorrecto. Están en la región Andina. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre las ciudades de la costa Caribe.
 
 ---
 
@@ -139,20 +134,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Límite con Brasil
+**Context:** Costa Pacífica
 
 ### Enunciado
-¿Por qué región limita Colombia con Brasil?
+¿Qué ciudades colombianas están en la costa del Océano Pacífico?
 
 ### Options
-
-- [ ] A) Por la costa Caribe. <!-- feedback: Amazonía. -->
-- [x] B) Por la Amazonía. <!-- feedback: Amazonía. -->
-- [ ] C) Por la cordillera. <!-- feedback: Amazonía. -->
-- [ ] D) Por el Pacífico. <!-- feedback: Amazonía. -->
+- [ ] A) Santa Marta y Riohacha. <!-- feedback: Incorrecto. Esas son del Caribe. -->
+- [ ] B) Sincelejo y Montería. <!-- feedback: Incorrecto. Esas están en el Caribe interior. -->
+- [x] C) Buenaventura y Tumaco. <!-- feedback: Correcto. Buenaventura (Valle) y Tumaco (Nariño) son puertos del Pacífico. -->
+- [ ] D) Leticia e Inírida. <!-- feedback: Incorrecto. Esas son ciudades amazónicas. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre los puertos del Pacífico colombiano.
 
 ---
 
@@ -161,20 +155,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Frontera con Panamá
+**Context:** Importancia de los océanos
 
 ### Enunciado
-¿Dónde está la frontera con Panamá?
+¿Por qué es importante para Colombia tener costas en dos océanos?
 
 ### Options
-
-- [ ] A) En la Guajira. <!-- feedback: Darién. -->
-- [ ] B) En Leticia. <!-- feedback: Darién. -->
-- [x] C) En el Darién, en el noroccidente. <!-- feedback: Darién. -->
-- [ ] D) En Tumaco. <!-- feedback: Darién. -->
+- [ ] A) No es importante, Colombia podría ser solo tierra. <!-- feedback: Incorrecto. Tener dos océanos es una gran ventaja. -->
+- [x] B) Porque permite el comercio internacional, la conexión con diferentes mercados y la diversidad de ecosistemas marinos. <!-- feedback: Correcto. Dos océanos facilitan el comercio y la biodiversidad. -->
+- [ ] C) Solo sirve para el turismo de playa. <!-- feedback: Incorrecto. Los beneficios van más allá del turismo. -->
+- [ ] D) Es un problema porque hay que defender más fronteras. <!-- feedback: Incorrecto. Es una ventaja geográfica estratégica. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la importancia geoestratégica de tener dos océanos.
 
 ---
 
@@ -183,20 +176,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Frontera marítima
+**Context:** Frontera con Panamá
 
 ### Enunciado
-¿Colombia tiene frontera marítima?
+¿Qué característica especial tiene la frontera de Colombia con Panamá?
 
 ### Options
-
-- [ ] A) No existe. <!-- feedback: Sí. -->
-- [ ] B) No, solo terrestre. <!-- feedback: Sí. -->
-- [ ] C) Solo con Jamaica. <!-- feedback: Varios. -->
-- [x] D) Sí, con varios países del Caribe. <!-- feedback: Sí. -->
+- [ ] A) Es la frontera más larga. <!-- feedback: Incorrecto. La frontera más larga es con Venezuela. -->
+- [ ] B) No hay paso terrestre porque está el Tapón del Darién. <!-- feedback: Correcto. La selva del Darién impide la comunicación terrestre directa. -->
+- [ ] C) Es una frontera fluvial. <!-- feedback: Incorrecto. Es terrestre pero selvática. -->
+- [ ] D) No existe frontera con Panamá. <!-- feedback: Incorrecto. Sí existe. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la particularidad de la frontera colombo-panameña.
 
 ---
 
@@ -205,20 +197,19 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia fronteras
+**Context:** Relación fronteriza
 
 ### Enunciado
-¿Por qué importan las fronteras?
+¿Crees que Colombia aprovecha bien su ubicación geográfica con dos océanos?
 
 ### Options
-
-- [x] A) Porque delimitan el territorio y la soberanía nacional. <!-- feedback: Soberanía. -->
-- [ ] B) No son importantes. <!-- feedback: Sí. -->
-- [ ] C) Para viajar. <!-- feedback: Soberanía. -->
-- [ ] D) Solo comercio. <!-- feedback: También. -->
+- [ ] A) Sí, al máximo. <!-- feedback: Incorrecto. Colombia podría aprovechar más. -->
+- [x] B) Podría aprovechar más sus puertos y el comercio internacional, pero hay desafíos de infraestructura. <!-- feedback: Correcto. Colombia tiene potencial marítimo no totalmente explotado. -->
+- [ ] C) No tiene ningún beneficio. <!-- feedback: Incorrecto. Tiene grandes beneficios potenciales. -->
+- [ ] D) Solo los países grandes deben tener puertos. <!-- feedback: Incorrecto. Todos los países costeros se benefician. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar el aprovechamiento de la posición geográfica colombiana.
 
 ---
 
@@ -227,22 +218,21 @@ Este bundle explica las fronteras terrestres y marítimas de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W34-geografia-oceanos-y-fronteras-de-colombia-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Cuidar fronteras
+**Context:** Propuesta marítima
 
 ### Enunciado
-¿Cómo cuidamos las fronteras?
+Diseña una propuesta para que los estudiantes de tu colegio aprendan más sobre la geografía marítima de Colombia.
 
 ### Options
-
-- [ ] A) Cerrándolas. <!-- feedback: No. -->
-- [x] B) Protegiendo recursos naturales y la soberanía. <!-- feedback: Soberanía. -->
-- [ ] C) Ignorándolas. <!-- feedback: Cuidar. -->
-- [ ] D) No hacer nada. <!-- feedback: Proteger. -->
+- [ ] A) Leer un libro de geografía sin imágenes. <!-- feedback: Incorrecto. Hay formas más atractivas de aprender. -->
+- [x] B) Crear una maqueta interactiva de Colombia con sus dos océanos, países vecinos y principales puertos. <!-- feedback: Correcto. Una maqueta interactiva facilita el aprendizaje visual y práctico. -->
+- [ ] C) Ver una película de piratas. <!-- feedback: Incorrecto. No representa la geografía colombiana. -->
+- [ ] D) Solo hacer un examen escrito. <!-- feedback: Incorrecto. El aprendizaje puede ser más dinámico. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear un proyecto educativo sobre geografía marítima.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W34, aborda el tema de Geografía: océanos y fronteras de Colombia desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W34, aborda la geografía de Colombia: océanos, fronteras terrestres y marítimas.
