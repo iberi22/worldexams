@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Organización territorial colombiana: veredas, corregimientos, municipios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Organización territorial: veredas, corregimientos, municipios
@@ -246,3 +249,7 @@ Se evalúa [Create] con el tema de la pregunta.
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W08, aborda el tema de Organización territorial: veredas, corregimientos, municipios desde una perspectiva colombiana. Evalúa la comprensión del concepto, las características principales, la aplicación en contextos cotidianos, el análisis de situaciones, la evaluación crítica y la capacidad creativa para proponer soluciones. El objetivo es que los estudiantes reconozcan la importancia de estos temas en su vida diaria como ciudadanos colombianos y fortalezcan su pensamiento social y reflexivo.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

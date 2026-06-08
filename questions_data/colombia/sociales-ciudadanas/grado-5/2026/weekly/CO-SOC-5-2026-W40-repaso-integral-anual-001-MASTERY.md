@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral anual de Sociales y Ciudadanas Grado 5"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que es importante estudiar Ciencias Sociales?
 Las Ciencias Sociales nos ensenan de donde venimos, como funciona la sociedad, cuales son nuestros derechos y deberes, y nos preparan para ser ciudadanos activos y responsables.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El proceso de la fotosíntesis: ingredientes (luz, agua, CO2) y productos (glucosa, oxígeno)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Fotosíntesis: La Fábrica de las Plantas
@@ -267,3 +270,8 @@ La fotosíntesis no solo ocurre en la tierra. Más de la mitad del oxígeno que 
 ### Explicación Pedagógica
 
 Esta es la diferencia más grande entre plantas y animales. Las plantas son autónomas para alimentarse (autótrofas), mientras que nosotros dependemos siempre de lo que ellas fabrican para poder vivir (heterótrofos).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

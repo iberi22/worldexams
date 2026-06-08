@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "herencia mendeliana, reacciones químicas, trabajo mecánico, energía cinética y potencial"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Herencia Mendeliana, Reacciones Químicas y Trabajo-Energía
@@ -336,3 +339,8 @@ En física, el trabajo requiere desplazamiento. Es posible aplicar mucha fuerza 
 
 ### Explicación Pedagógica
 Por el principio de conservación de la energía, la energía no se destruye sino que se transforma. La energía cinética inicial se convierte en energía térmica (calor) por la fricción de los frenos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

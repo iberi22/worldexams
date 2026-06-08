@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "inventos, rueda, electricidad, internet, penicilina, imprenta, aviÃ³n"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Inventos que cambiaron el mundo â€” Grado 4 â€” W39
@@ -278,3 +281,8 @@ Rueda: base de la tecnologÃ­a.
 Penicilina: primera cura para infecciones.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

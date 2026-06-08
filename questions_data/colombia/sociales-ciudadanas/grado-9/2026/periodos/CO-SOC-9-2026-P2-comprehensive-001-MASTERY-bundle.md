@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Primera Guerra Mundial, Segunda Guerra Mundial, Colombia siglo XX, Hegemonía Conservadora, República Liberal, globalización"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Guerras Mundiales, Colombia Siglo XX e Introducción a la Globalización
@@ -336,3 +339,8 @@ La globalización contemporánea se construyó sobre instituciones creadas despu
 
 ### Explicación Pedagógica
 Colombia presenta una paradoja: experimentó un crecimiento económico sostenido y modernización social (urbanización, expansión de la educación, industrialización), pero también violencia política persistente y desigualdad. Esta dualidad es clave para entender la historia colombiana del siglo XX.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

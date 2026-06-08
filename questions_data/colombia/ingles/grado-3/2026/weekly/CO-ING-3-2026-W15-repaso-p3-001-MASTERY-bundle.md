@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of body parts, face, rooms, and furniture."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W15: Repaso Periodo 3 (A1)
@@ -181,3 +184,8 @@ What is **"Silla"**?
 
 ### Explicación Pedagógica
 Silla en inglés se dice "chair".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

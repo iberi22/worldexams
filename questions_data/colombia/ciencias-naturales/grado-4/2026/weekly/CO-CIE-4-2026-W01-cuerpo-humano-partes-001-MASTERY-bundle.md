@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Partes del cuerpo humano: cabeza, tronco, extremidades superiores e inferiores, órganos principales, funciones básicas, ubicación anatómica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Partes del Cuerpo Humano — Grado 4
@@ -268,3 +271,8 @@ Las **costillas** son huesos curvos que forman una jaula protectora alrededor de
 
 ### Explicación Pedagógica
 Las **extremidades superiores** (brazos) tienen manos con pulgares oponibles que permiten agarrar y manipular objetos con precisión. Las **extremidades inferiores** (piernas) son más robustas y fuertes porque deben sostener todo el peso del cuerpo y permitir el desplazamiento.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

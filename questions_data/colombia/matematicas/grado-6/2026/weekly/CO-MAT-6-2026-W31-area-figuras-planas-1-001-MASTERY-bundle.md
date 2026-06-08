@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W31 — Area de Figuras Planas (Triangulo, Cuadrado, Rectangulo)
@@ -234,3 +237,8 @@ Para figuras compuestas, sumamos las areas de las figuras que la conforman:
 - Triangulo: A₂ = (8 × 3) ÷ 2 = 24 ÷ 2 = 12 m²
 - Area total: A = 40 + 12 = 52 m²
 Este tipo de problemas muestra como figuras complejas se pueden descomponer en figuras simples cuyas formulas conocemos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

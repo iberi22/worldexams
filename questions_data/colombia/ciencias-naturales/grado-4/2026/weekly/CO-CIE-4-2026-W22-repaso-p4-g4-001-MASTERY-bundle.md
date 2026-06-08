@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso perÃ­odo 4, ecosistemas colombianos, cadenas alimenticias, relaciones ecolÃ³gicas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P4 â€” Grado 4 â€” W22
@@ -278,3 +281,8 @@ PÃ¡ramo: fuente de agua.
 Ecosistema: equilibrio interdependiente.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

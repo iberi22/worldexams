@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W02 — La Célula: Tipos de Células
@@ -282,3 +285,8 @@ La producción de insulina humana mediante bacterias (Escherichia coli modificad
 Ventajas: bajo costo, producción a gran escala, insulina idéntica a la humana (evita reacciones alérgicas que ocurrían con insulina porcina o bovina), y las bacterias se reproducen cada 20-30 minutos, produciendo grandes cantidades rápidamente. Este método, desarrollado en los años 70-80 con tecnología de ADN recombinante, revolucionó el tratamiento de la diabetes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

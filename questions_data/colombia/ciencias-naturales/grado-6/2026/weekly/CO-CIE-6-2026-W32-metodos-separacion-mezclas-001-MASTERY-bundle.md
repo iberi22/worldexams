@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W32 — Métodos de Separación de Mezclas
@@ -322,3 +325,8 @@ Esta es una mezcla de tres componentes que requieren diferentes métodos:
 
 Este ejemplo muestra que en la vida real las mezclas suelen tener múltiples componentes y se necesita una combinación de métodos, aplicados en secuencia lógica. La clave es identificar primero las propiedades de cada componente (tamaño, densidad, solubilidad, punto de ebullición) para elegir el método adecuado.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

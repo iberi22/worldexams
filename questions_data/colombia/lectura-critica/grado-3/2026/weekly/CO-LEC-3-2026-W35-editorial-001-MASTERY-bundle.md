@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 35
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Editorial Infantil
@@ -202,3 +205,8 @@ Imagina un editorial escolar que dice: "**Los niños de tercer grado son los má
 
 ### Explicación Pedagógica
 Evaluar la ética y la justicia de una opinión permite desarrollar ciudadanos críticos. El estudiante debe reconocer cuándo un texto usa prejuicios o castigos injustos en lugar de una crítica constructiva.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

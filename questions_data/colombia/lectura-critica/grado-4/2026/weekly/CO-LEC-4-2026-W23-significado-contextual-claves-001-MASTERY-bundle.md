@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "claves de contexto, significado, inferencia léxica, contexto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W23: Significado contextual (claves de contexto)
@@ -234,3 +237,8 @@ Aplicar estrategia.
 
 ### Explicación Pedagógica Final
 Bundle claves de contexto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

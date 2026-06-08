@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral sobre aire y clima: atmósfera, vientos, humedad y pisos térmicos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso: El Aire y el Clima
@@ -267,3 +270,8 @@ Conocer la velocidad del viento es clave para la seguridad. Si el anemómetro ma
 ### Explicación Pedagógica
 
 Los bosques son reguladores del clima. Al soltar agua por sus hojas (transpiración), las plantas usan el calor del aire, enfriándolo en el proceso. Un viento que pasa por un bosque siempre llegará más fresco a la ciudad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

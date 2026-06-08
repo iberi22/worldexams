@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Redondeo de números hasta 9.999 a la decena, centena y unidad de mil más cercana; aproximaciones en contextos cotidianos; estimación de cantidades"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Redondeo — Grado 4
@@ -269,3 +272,8 @@ Redondeamos cada uno a la centena: 1.280 (decenas 8 ≥ 5, centenas 2→3) → 1
 ### Explicación Pedagógica
 Para redondear 7.580 a la unidad de mil más cercana, miramos las centenas: 5. Como 5 ≥ 5, aumentamos las unidades de mil: 7 → 8. Centenas, decenas y unidades se vuelven 0. Resultado: 8.000. Don Carlos está en lo correcto, pues 7.580 está más cerca de 8.000 que de 7.000.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derechos, deberes, Constitución, ciudadanía, participación, democracia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Derechos Ciudadanos
@@ -241,3 +244,8 @@ En Colombia el sufragio es a partir de los 18 años, es un derecho y un deber.
 La Defensoría del Pueblo protege y promueve los derechos humanos en Colombia.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

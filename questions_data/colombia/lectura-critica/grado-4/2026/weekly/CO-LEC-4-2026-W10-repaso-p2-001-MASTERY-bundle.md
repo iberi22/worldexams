@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso: inferencias, comparar, problema-solución"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W10: Repaso P2
@@ -234,3 +237,8 @@ Repaso estructura.
 
 ### Explicación Pedagógica Final
 Bundle repaso P2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

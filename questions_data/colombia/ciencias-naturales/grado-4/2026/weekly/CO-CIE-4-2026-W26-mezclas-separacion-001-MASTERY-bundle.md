@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "mezclas, homogÃ©neas, heterogÃ©neas, mÃ©todos de separaciÃ³n, tamizado, filtraciÃ³n, destilaciÃ³n"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mezclas y separaciÃ³n â€” Grado 4 â€” W26
@@ -278,3 +281,8 @@ Polaridad: agua polar, aceite no polar.
 ImÃ¡n: atrae hierro.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

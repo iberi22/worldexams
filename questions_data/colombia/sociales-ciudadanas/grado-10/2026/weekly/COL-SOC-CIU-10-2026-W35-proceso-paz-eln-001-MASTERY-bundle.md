@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "proceso paz eln"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Proceso de paz ELN: diálogos y cese al fuego — W35
@@ -344,3 +347,8 @@ Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de el 
 ### Explicación Pedagógica
 
 El estudio de el proceso de paz con el ELN es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de el proceso de paz con el ELN es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

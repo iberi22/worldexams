@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "reflexión, lectura crítica, opinión, juicio, valoración"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W37: Preguntas de reflexión sobre la lectura
@@ -234,3 +237,8 @@ Meta-reflexión.
 
 ### Explicación Pedagógica Final
 Bundle reflexión lectura.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

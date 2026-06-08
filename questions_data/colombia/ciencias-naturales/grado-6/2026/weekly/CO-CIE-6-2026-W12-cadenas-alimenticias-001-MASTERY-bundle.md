@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W12 — Cadenas Alimenticias
@@ -267,3 +270,8 @@ En esta cadena de la región papera colombiana (Cundinamarca, Boyacá):
 - Serpiente (consumidor terciario): come muchas ranas → concentración máxima de pesticida
 
 La serpiente puede tener una concentración de pesticida millones de veces mayor que la papa inicial. Por eso los depredadores tope son los más afectados por la contaminación química.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

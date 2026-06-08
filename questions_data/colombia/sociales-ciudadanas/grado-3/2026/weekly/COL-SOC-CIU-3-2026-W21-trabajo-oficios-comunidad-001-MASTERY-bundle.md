@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "trabajo, oficios, comunidad, ocupaciones, trabajo_digno, economia_local"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Trabajo y los Oficios en Mi Comunidad
@@ -181,3 +184,8 @@ Todos los oficios son valiosos. Sin panaderos no hay pan, sin carpinteros no hay
 
 ### Explicacion Pedagogica
 Todos los trabajos merecen respeto. Un carpintero es tan valioso como un medico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

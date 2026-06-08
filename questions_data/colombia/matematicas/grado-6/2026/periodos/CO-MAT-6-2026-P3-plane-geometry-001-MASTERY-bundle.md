@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "plane geometry, triangles, quadrilaterals, angles, perimeter, area, Pythagorean theorem"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Plane Geometry
@@ -241,3 +244,8 @@ A rectangle 10m long and 3m wide has a 2mx2m square cut out. Remaining area?
 Original: 10x3=30. Cutout: 2x2=4. Remaining: 30-4=26 m².
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

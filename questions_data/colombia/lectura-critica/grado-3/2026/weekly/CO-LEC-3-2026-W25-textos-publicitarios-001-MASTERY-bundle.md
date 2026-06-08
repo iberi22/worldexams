@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 25
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Publicitarios
@@ -200,3 +203,8 @@ Un anuncio de un juguete nuevo dice: "**¡EL JUGUETE QUE TODOS TUS AMIGOS YA TIE
 
 ### Explicación Pedagógica
 Evaluar las estrategias de presión social en la publicidad infantil es fundamental para el desarrollo de la autonomía del estudiante como consumidor. Debe reconocer que "lo que todos tienen" no es necesariamente lo que él necesita.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

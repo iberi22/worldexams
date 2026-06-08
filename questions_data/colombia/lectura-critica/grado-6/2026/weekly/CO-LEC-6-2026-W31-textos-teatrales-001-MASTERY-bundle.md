@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W31 — Textos Teatrales
@@ -281,3 +284,8 @@ Un grupo de estudiantes escribió y presentó la siguiente obra para la feria de
 Para evaluar una obra teatral, pregúntate: ¿Hay un conflicto claro? ¿Los personajes tienen objetivos distintos? ¿El diálogo hace avanzar la historia? ¿Tiene un inicio, desarrollo y desenlace? Esta obra cumple con los elementos esenciales del género dramático. El conflicto (progreso vs. naturaleza) es relevante y actual, especialmente en contextos colombianos donde estos debates son frecuentes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 17
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Comprensión Literal
@@ -207,3 +210,8 @@ Si una familia de **tres personas** quiere entrar a ver la película, ¿cuántos
 
 ### Explicación Pedagógica
 Este ejercicio evalúa la capacidad de distinguir entre diferentes tipos de datos (tiempo vs. precio) y evitar distracciones lógicas (multiplicar el tiempo por el número de personas). Es una prueba de rigor en la lectura literal.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

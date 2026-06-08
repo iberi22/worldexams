@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "energy, forms, sources, renewable, non-renewable, transformation, conservation"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Energy
@@ -241,3 +244,8 @@ Energy efficiency means ___.
 Energy efficiency: doing the same work with less energy input.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

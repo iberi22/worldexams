@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W33 — Cambios Físicos y Químicos
@@ -358,3 +361,8 @@ Distinguir entre cambios físicos y químicos es fundamental para el reciclaje:
 
 La comprensión de los cambios físicos y químicos nos ayuda a tomar decisiones más sostenibles sobre cómo manejar los residuos.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

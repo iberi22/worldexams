@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "argumentación avanzada, estructura de textos académicos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Argumentación Avanzada y Textos Académicos
@@ -336,3 +339,8 @@ Evaluar fuentes es una habilidad crítica. Las fuentes gubernamentales son gener
 
 ### Explicación Pedagógica
 Un artículo académico sólido: 1) Presenta una tesis clara, 2) Respaldada con evidencia (datos, estudios previos), 3) Considera perspectivas opuestas, 4) Incluye análisis crítico propio, 5) Cita correctamente las fuentes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

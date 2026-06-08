@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "past perfect tense, introduction to passive voice"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Past Perfect and Passive Voice (CEFR B1)
@@ -338,3 +341,8 @@ Which paragraph correctly uses both structures?
 
 ### Explicación Pedagógica
 Combining past perfect and passive voice allows for sophisticated expression: "had been collected" shows action before another past event, and "was founded" / "is visited" show appropriate passive forms in different tenses.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

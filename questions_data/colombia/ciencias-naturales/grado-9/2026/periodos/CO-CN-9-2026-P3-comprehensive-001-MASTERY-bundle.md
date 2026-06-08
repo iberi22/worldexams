@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "genetica mendeliana, enlaces quimicos (ionico, covalente, metalico), termodinamica basica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Genetica Mendeliana, Enlaces Quimicos y Termodinamica
@@ -336,3 +339,8 @@ Asumiendo que la poblacion esta en equilibrio de Hardy-Weinberg, cual es la frec
 
 ### Explicacion Pedagogica
 El principio de Hardy-Weinberg establece que p+q=1 y p2+2pq+q2=1. La frecuencia de homocigotos recesivos es q2. Si la frecuencia del fenotipo recesivo es 0.16, entonces q = raiz(0.16) = 0.4 y p = 0.6.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

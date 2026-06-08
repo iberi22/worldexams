@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso general, sintesis de lectura critica grado 8, analisis y evaluacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — Repaso: La Deforestacion en la Amazonia Colombiana
@@ -185,3 +188,7 @@ Tipo de solucion propuesta:
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 36. Tema: Repaso Sintesis. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

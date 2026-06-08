@@ -21,6 +21,9 @@ coverage:
   - "P2: Textos argumentativos, tesis, y estrategias retóricas"
   - "P3: Textos filosóficos, pensamiento crítico, inferencia"
   - "P4: Tipologías textuales, contexto comunicativo, intención del autor"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lectura Crítica Grado 9 — Periodos 1–4
@@ -367,3 +370,8 @@ El pensamiento crítico de nivel superior (evaluación) implica reconocer que mu
 
 ### Explicación Pedagógica
 El pensamiento sistémico y reflexivo (nivel más alto de la taxonomía de Bloom modificada) implica integrar múltiples perspectivas para formar un entendimiento completo. Los datos objetivos (Fragmento A) y el análisis crítico de su contexto (Fragmento B) son complementarios, no excluyentes. Esta habilidad es fundamental para la prueba Saber 11 y para la vida ciudadana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

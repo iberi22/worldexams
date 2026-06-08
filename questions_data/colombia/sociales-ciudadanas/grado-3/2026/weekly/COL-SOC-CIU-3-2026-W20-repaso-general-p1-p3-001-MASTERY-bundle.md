@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_general, colegio, familia, barrio, campo_ciudad, derechos_nino, normas, simbolos_patrios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso General Periodos 1-3
@@ -181,3 +184,8 @@ Que aprendizaje has tenido en este periodo sobre Colombia?
 
 ### Explicacion Pedagogica
 El periodo integro geografia, civismo, derechos y deberes para formar ciudadanos conscientes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

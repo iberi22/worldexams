@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "normas_convivencia, aula, respeto, orden_clase, participacion, manual_convivencia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Normas de Convivencia en el Aula
@@ -181,3 +184,8 @@ Un estudiante propone eliminar todas las normas del salon. Funcionaria?
 
 ### Explicacion Pedagogica
 Las normas no limitan la libertad, la organizan.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

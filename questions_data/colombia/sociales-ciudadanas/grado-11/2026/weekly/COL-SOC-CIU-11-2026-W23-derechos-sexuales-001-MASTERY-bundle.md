@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derechos sexuales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Derechos sexuales y reproductivos: igualdad y diversidad — W23
@@ -560,3 +563,8 @@ Según los datos oficiales más recientes, ¿cuál es la tendencia principal rel
 ### Explicación Pedagógica
 
 El estudio de los los derechos sexuales y reproductivos y reproductivos es fundamental para comprender la realidad colombiana. Según los datos oficiales más recientes, ¿cuál es la tendencia principal relacionada con los los derechos sexuales y reproductivos y reproductivos en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

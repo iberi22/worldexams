@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "identidades_trigonometricas, vectores_3d, continuidad, limites_laterales, teorema_valor_intermedio"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Identidades Trigonométricas, Vectores 3D y Continuidad
@@ -464,3 +467,8 @@ Para modelar con coseno: si el máximo ocurre en t=0, usamos A cos(ωt)+D. Para 
 
 ### Explicación Pedagógica
 Para la continuidad de una función a trozos en el punto de unión, los límites laterales deben ser iguales al valor de la función. Esto genera una ecuación que relaciona los parámetros.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

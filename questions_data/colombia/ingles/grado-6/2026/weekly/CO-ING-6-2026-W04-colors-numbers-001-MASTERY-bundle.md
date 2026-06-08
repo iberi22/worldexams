@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "colors, numbers 1-20, the alphabet, spelling"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colors and Numbers (W04)
@@ -227,3 +230,8 @@ Al deletrear números, se dice cada dígito individualmente. 147 = one-four-seve
 En inglés el orden es: número + adjetivo + sustantivo. "Five yellow pencils". Los colores no tienen forma plural.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

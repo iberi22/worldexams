@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "productos notables, ecuaciones lineales con dos variables, datos bivariados, diagrama de dispersión"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Productos Notables, Ecuaciones Lineales y Datos Bivariados
@@ -336,3 +339,8 @@ Si la empresa decide invertir 20 millones en publicidad, ¿cuál será el valor 
 
 ### Explicación Pedagógica
 La recta de regresión permite hacer predicciones dentro del rango de datos observados (interpolación). Fuera de ese rango (extrapolación), las predicciones son menos confiables porque no sabemos si la relación lineal se mantiene.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "relaciones ecolÃ³gicas, mutualismo, comensalismo, parasitismo, competencia, depredaciÃ³n"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Relaciones entre seres vivos â€” Grado 4 â€” W21
@@ -278,3 +281,8 @@ Diferencia entre parasitismo y depredaciÃ³n:
 DepredaciÃ³n: muerte. Parasitismo: convivencia.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

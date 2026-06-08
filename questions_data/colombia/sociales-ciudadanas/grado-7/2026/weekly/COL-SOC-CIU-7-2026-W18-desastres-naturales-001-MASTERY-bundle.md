@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "desastres naturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Desastres naturales históricos: Armero, Mocoa y gestión del riesgo — W18
@@ -290,3 +293,8 @@ Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran los los desastres 
 ### Explicación Pedagógica
 
 El estudio de los los los desastres naturales en Colombia en Colombia en Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre los los los desastres naturales en Colombia en Colombia en Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

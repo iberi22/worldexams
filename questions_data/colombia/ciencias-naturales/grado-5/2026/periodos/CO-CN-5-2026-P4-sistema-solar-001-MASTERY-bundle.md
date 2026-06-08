@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistema solar, planetas, Sol, Luna, rotación, traslación, fases lunares"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Sistema Solar
@@ -241,3 +244,8 @@ Los astronautas experimentan microgravedad porque están en caída libre orbital
 La atmósfera protege la vida filtrando radiación UV y desintegrando meteoritos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

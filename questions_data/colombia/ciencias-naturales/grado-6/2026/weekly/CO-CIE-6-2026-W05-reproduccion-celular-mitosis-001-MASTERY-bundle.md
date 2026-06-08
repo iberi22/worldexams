@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W05 — Reproducción Celular: Mitosis
@@ -280,3 +283,8 @@ La quimioterapia actúa sobre células que se dividen rápidamente (alta tasa mi
 Los efectos son temporales porque estos tejidos sanos se regeneran después del tratamiento. La investigación busca quimioterapias más dirigidas que solo ataquen células cancerosas (terapias blanco, inmunoterapia).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

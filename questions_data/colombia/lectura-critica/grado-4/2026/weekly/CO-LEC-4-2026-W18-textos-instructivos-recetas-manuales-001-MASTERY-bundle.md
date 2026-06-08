@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "instrucciones, pasos, recetas, manuales, orden"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W18: Textos instructivos: recetas, manuales
@@ -234,3 +237,8 @@ Elementos de instructivo.
 
 ### Explicación Pedagógica Final
 Bundle instructivos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

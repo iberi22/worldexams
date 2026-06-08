@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W01 — La Célula: Partes y Funciones
@@ -262,3 +265,8 @@ La resistencia a los antibióticos es un ejemplo de selección natural a nivel m
 Este fenómeno es un grave problema de salud pública: la OMS lo considera una de las mayores amenazas para la salud global. En Colombia, se han implementado programas de uso racional de antibióticos para combatir este problema.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

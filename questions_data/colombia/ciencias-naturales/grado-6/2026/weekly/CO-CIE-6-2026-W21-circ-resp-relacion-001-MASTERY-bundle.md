@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W21 — Relación Circulatorio y Respiratorio
@@ -229,3 +232,7 @@ El acropaquia digital (dedos en palillo de tambor) es un signo de enfermedades p
 Las políticas de salud pública más efectivas combinan prevención primaria: (1) impuestos a tabaco y alcohol, (2) prohibición de fumar en lugares públicos, (3) impuesto a bebidas azucaradas, (4) ciclorrutas y espacios para ejercicio, (5) educación nutricional en escuelas, (6) entornos escolares saludables (sin venta de comida chatarra).
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

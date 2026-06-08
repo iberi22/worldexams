@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W20 — REPASO: Geometría (Perímetros, Áreas y Volúmenes)
@@ -227,3 +230,8 @@ Se construye una caja abierta cortando cuadrados de 5 cm en las esquinas de una 
 
 ### Explicacion Pedagogica
 Al cortar cuadrados de 5 cm en cada esquina, la base mide (30-10)×(20-10)=20×10=200 cm². Altura=5 cm. Volumen=200×5=1.000 cm³.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

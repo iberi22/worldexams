@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W18 — Geometría: Áreas de Figuras Planas
@@ -227,3 +230,8 @@ Dos rectángulos tienen el mismo perímetro de 24 m. El primero tiene 7 m de lar
 
 ### Explicacion Pedagogica
 Rectángulo 1: P=2×(7+5)=24 m, A=7×5=35 m². Rectángulo 2: P=2×(8+4)=24 m, A=8×4=32 m². El primero tiene mayor área. Esto muestra que con el mismo perímetro, la forma más cercana al cuadrado tiene mayor área.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

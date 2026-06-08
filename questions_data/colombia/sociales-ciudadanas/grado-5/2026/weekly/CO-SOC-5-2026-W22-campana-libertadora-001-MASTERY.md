@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Campana Libertadora: Simon Bolivar, Batalla de Boyaca"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que la Batalla de Boyaca es considerada decisiva?
 En solo dos horas, el ejercito patriota capturo a los jefes espanoles, al ejercito realista y todo su armamento. El poder espanol en la region colapso.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

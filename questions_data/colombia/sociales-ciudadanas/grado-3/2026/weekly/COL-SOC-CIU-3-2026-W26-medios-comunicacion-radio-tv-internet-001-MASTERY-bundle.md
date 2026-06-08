@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medios_comunicacion, radio, television, internet, comunicacion_masiva, informacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Medios de Comunicacion: Radio, TV e Internet
@@ -181,3 +184,8 @@ Los medios de comunicacion son esenciales para una sociedad informada.
 
 ### Explicacion Pedagogica
 El internet es una herramienta poderosa para aprender, investigar y comunicarse.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

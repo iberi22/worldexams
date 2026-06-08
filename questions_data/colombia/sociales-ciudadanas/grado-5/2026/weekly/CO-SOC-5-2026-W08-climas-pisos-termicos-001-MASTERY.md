@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Climas y pisos termicos en Colombia: relaciones clima-altitud"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que la ubicacion de Colombia cerca del Ecuador y su relieve diverso crean cl
 Colombia tiene todos los pisos termicos: desde el calido en las costas y llanuras hasta el frio y paramo en las montanas. Esto permite cultivar desde banano hasta papa, y tener ecosistemas diversos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "textos expositivos, textos argumentativos, estructura textual, tesis, argumentos, falacias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Expositivos y Argumentativos — Grado 10
@@ -251,3 +254,8 @@ Ad hominem = 'contra el hombre'; se descalifica al interlocutor.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W03. Tema: Textos Expositivos y Argumentativos. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for rooms in a house: kitchen, bedroom, bathroom, living room."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W13: House - Rooms (A1)
@@ -221,3 +224,8 @@ Where do you take a **shower**?
 
 ### Explicación Pedagógica
 Nos duchamos o bañamos en el "bathroom".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral del agua: propiedades, estados, ciclo, distribución y cuidado."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Integral: El Agua en la Naturaleza
@@ -267,3 +270,8 @@ Basado en todo lo que has aprendido, ¿cuál es el mejor argumento científico p
 ### Explicación Pedagógica
 
 El agua es el solvente de la vida. Permite que las proteínas, el ADN y los nutrientes se muevan y reaccionen. Sin agua, las células se detendrían y la vida se apagaría, por eso cuidarla es nuestra misión más importante en la Tierra.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

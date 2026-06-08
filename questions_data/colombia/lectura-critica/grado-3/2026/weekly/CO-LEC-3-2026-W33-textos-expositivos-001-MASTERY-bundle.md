@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 33
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Expositivos
@@ -199,3 +202,8 @@ Un texto expositivo sobre los perros dice: "Son los mejores amigos del hombre po
 
 ### Explicación Pedagógica
 Evaluar la adecuación del lenguaje al propósito comunicativo es una habilidad crítica superior. El estudiante debe reconocer que el rigor técnico es preferible en contextos académicos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

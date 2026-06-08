@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Propiedades del agua: incolora, inodora, insípida y capacidad de disolución."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Propiedades del Agua
@@ -267,3 +270,8 @@ La capilaridad es vital para las plantas. Gracias a ella, el agua puede subir de
 ### Explicación Pedagógica
 
 Las propiedades del agua pura (incolora, inodora, insípida) son los estándares de calidad. Cuando agregamos cosas al agua, estamos cambiando su química. Para la ciencia, la pureza se reconoce por la ausencia de esas características sensoriales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

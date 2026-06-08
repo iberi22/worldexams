@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "present_perfect_experiences, travel_vocabulary, requests_offers"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: English Grade 7 — Period 3
@@ -372,3 +375,8 @@ Find and correct the errors in present perfect.
 
 ### Explicación Pedagógica
 To form present perfect correctly: (1) Use the correct past participle (fly → flown, not "fly" or "flew"). (2) For regular verbs, add -ed (travel → travelled in British English, traveled in American). Always check both auxiliary and participle.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

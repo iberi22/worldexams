@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 18
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Idea Principal
@@ -201,3 +204,8 @@ Si tuvieras que escribir una sola oración que resuma estos tres puntos, ¿cuál
 
 ### Explicación Pedagógica
 La capacidad de síntesis es el nivel más alto de la identificación de la idea principal. El estudiante debe construir o elegir una idea que integre todos los aspectos relevantes del texto sin dejar fuera información clave.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

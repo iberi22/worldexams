@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "matter, states, properties, mixtures, solutions, physical/chemical changes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matter
@@ -241,3 +244,8 @@ If 10g of wood burns, the mass of products (ash+gas) is ___.
 Law of Conservation of Mass: mass is neither created nor destroyed in reactions.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

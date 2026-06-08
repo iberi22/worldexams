@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derecho internacional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: DIH: Convenios de Ginebra y aplicación en Colombia — W35
@@ -560,3 +563,8 @@ La profesora de la I.E. de Cali presenta un estudio de caso sobre el El el El De
 ### Explicación Pedagógica
 
 El estudio de el El el El Derecho Internacional Humanitario Humanitario humanitario Humanitario es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre el El Derecho Internacional Humanitario Humanitario y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

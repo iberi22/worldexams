@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 10
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 2
@@ -201,3 +204,8 @@ Imagina que un amigo te cuenta un cuento que empieza por el final: "Y así fue c
 
 ### Explicación Pedagógica
 Este ejercicio evalúa la comprensión global de la estructura narrativa (Semana 6). El estudiante debe reconocer que el desenlace por sí solo no constituye una historia completa y coherente.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

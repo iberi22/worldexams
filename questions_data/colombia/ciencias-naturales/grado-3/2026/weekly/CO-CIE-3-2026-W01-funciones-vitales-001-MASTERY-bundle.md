@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Funciones vitales: nutrición, relación y reproducción. Importancia para la supervivencia de los organismos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Las Funciones Vitales
@@ -267,3 +270,8 @@ Este es un ejemplo de cómo las funciones se complementan. El árbol "siente" la
 ### Explicación Pedagógica
 
 Aunque un individuo sea estéril (no pueda tener hijos), sigue siendo un ser vivo si respira, se alimenta y reacciona al entorno. La reproducción es una función vital "de especie", mientras que la nutrición y la relación son vitales para el individuo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

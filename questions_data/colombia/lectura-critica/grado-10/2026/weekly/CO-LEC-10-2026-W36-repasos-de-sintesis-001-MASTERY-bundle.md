@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso sintesis, integracion de competencias, analisis multidimensional, evaluacion critica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repasos de Síntesis — Grado 10
@@ -251,3 +254,8 @@ Dato cuantitativo verificable de fuente confiable que respalda la tesis.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W36. Tema: Repasos de Síntesis. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

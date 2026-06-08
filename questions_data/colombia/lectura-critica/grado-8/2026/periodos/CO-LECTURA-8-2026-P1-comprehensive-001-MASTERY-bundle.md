@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Textos discontinuos, medios masivos, análisis multimodal, comprensión lectora crítica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Discontinuos, Medios Masivos y Análisis Multimodal
@@ -342,3 +345,8 @@ En el análisis multimodal, las imágenes no son neutras: la selección de qué 
 
 ### Explicación Pedagógica
 Las redes sociales permiten que cualquier persona sea productora de contenido (democratización), pero al no haber filtros editoriales ni verificación profesional, la desinformación se propaga fácilmente. La alfabetización mediática es crucial para navegar este entorno.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

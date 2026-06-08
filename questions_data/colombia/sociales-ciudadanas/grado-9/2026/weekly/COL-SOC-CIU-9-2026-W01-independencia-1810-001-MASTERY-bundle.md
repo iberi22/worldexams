@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "independencia 1810"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Independencia: Grito de 1810, Patria Boba y Reconquista — W01
@@ -344,3 +347,8 @@ La profesora de la I.E. de Cali presenta un estudio de caso sobre la independenc
 ### Explicación Pedagógica
 
 El estudio de la independencia de Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la independencia de Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

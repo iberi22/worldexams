@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "free time activities, hobbies, sports, like/don't like, can/can't, present continuous"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Free Time Activities
@@ -241,3 +244,8 @@ Simple present: I draw, you draw, he/she draws.
 'Good at + -ing': good at singing, good at dancing, good at drawing.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "comparacion de fracciones con igual denominador"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W12: Comparacion de Fracciones
@@ -223,3 +226,8 @@ En Colegio San Francisco de Asis de Popayan de Bogota, un estudiante coloreo 3/5
 El total es 5/5. Coloreo 3/5. Falta: 5/5 - 3/5 = 2/5.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

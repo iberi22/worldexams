@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fechas_civicas, 20_julio, independencia, 7_agosto, batalla_boyaca, historia_colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fechas Civicas: 20 de Julio y 7 de Agosto
@@ -181,3 +184,8 @@ Que significa ser un pais independiente?
 
 ### Explicacion Pedagogica
 La independencia significa autodeterminacion y soberania.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

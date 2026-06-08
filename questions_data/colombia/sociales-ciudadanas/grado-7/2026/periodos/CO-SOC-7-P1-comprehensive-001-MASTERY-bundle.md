@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "edad_media_feudalismo, iglesia_cultura_medieval, cartografia_avanzada"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sociales Grado 7 — Periodo 1
@@ -366,3 +369,8 @@ En la clase de sociales de la I.E. Técnica de Tuluá, se analiza por qué los c
 
 ### Explicación Pedagógica
 Los castillos medievales cumplían funciones militares (defensa, protección), administrativas (centro del feudo) y residenciales. Su ubicación estratégica y diseño defensivo reflejaban el contexto de inseguridad de la época.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

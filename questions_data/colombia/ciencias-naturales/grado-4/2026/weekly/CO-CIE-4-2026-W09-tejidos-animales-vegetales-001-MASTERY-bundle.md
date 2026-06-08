@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "tejidos, tipos de tejidos, animales, vegetales, epitelial, muscular, nervioso, conductor"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Tejidos animales y vegetales â€” Grado 4 â€” W09
@@ -278,3 +281,8 @@ Diferencia entre tejido animal y vegetal:
 Diferencias estructurales.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

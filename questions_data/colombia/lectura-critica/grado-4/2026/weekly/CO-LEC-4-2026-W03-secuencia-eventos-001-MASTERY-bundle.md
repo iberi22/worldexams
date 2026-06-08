@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "secuencia temporal, orden cronológico, conectores, primero, luego, después"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W03: Secuencia de eventos en un texto
@@ -234,3 +237,8 @@ Evaluar importancia del orden.
 
 ### Explicación Pedagógica Final
 Bundle de secuencia de eventos. Conectores temporales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

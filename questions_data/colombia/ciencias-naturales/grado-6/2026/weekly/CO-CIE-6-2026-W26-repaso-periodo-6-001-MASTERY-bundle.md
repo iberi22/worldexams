@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W26 — Repaso P6: Digestivo y Excretor
@@ -178,3 +181,7 @@ Diabetes e hipertensión causan ~70% de enfermedad renal. Prevención: control g
 ### Explicación Pedagógica
 El alcohol daña hígado (cirrosis) y páncreas. El tabaco daña vasos renales y aumenta riesgo de cáncer digestivo. La combinación alcohol+tabaco multiplica los riesgos. Abstinencia es la mejor protección.
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

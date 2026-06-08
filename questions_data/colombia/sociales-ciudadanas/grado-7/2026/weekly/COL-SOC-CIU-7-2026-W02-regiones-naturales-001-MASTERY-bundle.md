@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "regiones naturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Regiones naturales colombianas: características generales — W02
@@ -290,3 +293,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de las las regiones naturales de Colombia de Colombia es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre las regiones naturales de Colombia y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

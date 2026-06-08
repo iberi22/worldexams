@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecologia de poblaciones, propiedades de la tabla periodica, leyes de Newton aplicadas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecologia, Tabla Periodica y Leyes de Newton
@@ -336,3 +339,8 @@ Cual de las siguientes afirmaciones es correcta sobre estas muestras?
 
 ### Explicacion Pedagogica
 El numero de Avogadro (6.022 x 10^23) es la cantidad de particulas en un mol de cualquier sustancia. Aunque las masas molares son diferentes, el numero de atomos en 1 mol es siempre el mismo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: family, possessive adjectives, describing people, family vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Review: Unit 2 - Family (W14)
@@ -228,3 +231,8 @@ I have two sisters. ___ names are Luisa and Elena.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

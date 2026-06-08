@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Economia de Colombia: sectores economicos, recursos naturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que es importante diversificar la economia colombiana?
 Diversificar la economia significa no depender de un solo producto. Colombia busca fortalecer la industria, la tecnologia, el turismo y los servicios para crecer de forma sostenible.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

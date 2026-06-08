@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Diferencia entre clima y estado del tiempo. Instrumentos meteorológicos y predicción básica."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clima y Estado del Tiempo
@@ -267,3 +270,8 @@ En el trópico no tenemos las cuatro estaciones (primavera, etc.), pero nuestro 
 ### Explicación Pedagógica
 
 Para decir que el clima cambió, debemos ver que la temperatura promedio de los últimos 30 años es mayor o menor que la de los 30 años anteriores. No podemos juzgar el clima por lo que pasó ayer o hoy; eso es solo el tiempo atmosférico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

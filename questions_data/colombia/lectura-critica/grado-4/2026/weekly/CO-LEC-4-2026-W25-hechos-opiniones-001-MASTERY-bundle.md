@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "hechos, opiniones, objetividad, subjetividad, verificar"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W25: Diferenciar hechos de opiniones
@@ -234,3 +237,8 @@ Importancia.
 
 ### Explicación Pedagógica Final
 Bundle hechos-opiniones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

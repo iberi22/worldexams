@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "comprensión inferencial, información implícita, deducción de significados no literales, inferencias basadas en pistas textuales, lectura entre líneas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Comprensión Inferencial
@@ -206,3 +209,8 @@ Evaluación de las posibles consecuencias de un cambio en las reglas implícitas
 
 ### Explicación Pedagógica Final
 Bundle enfocado en comprensión inferencial: los estudiantes aprenden a leer "entre líneas", deducir significados implícitos y captar mensajes no literales. A través de la historia de la tienda de don Matías en Sincelejo, se exploran temas como la confianza comunitaria, el crecimiento gradual y las tradiciones culturales colombianas del "fiado".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

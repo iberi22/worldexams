@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W36 — Transformaciones de la Energía y la Energía en los Seres Vivos
@@ -269,3 +272,8 @@ El principio: el agua de lluvia se infiltra en el subsuelo, encuentra roca calie
 Los **paneles solares fotovoltaicos** convierten la energía luminosa (fotones) directamente en energía eléctrica mediante el **efecto fotoeléctrico**. Están hechos de **silicio** (material semiconductor) dopado con otros elementos para crear dos capas: una con exceso de electrones (tipo N) y otra con defecto de electrones (tipo P). Cuando un fotón de luz solar golpea el panel, excita un electrón en la capa N, que salta a la capa P, generando una diferencia de potencial (voltaje) y una corriente eléctrica continua. Un **inversor** convierte la corriente continua (DC) en corriente alterna (AC) que usan los hogares colombianos (110V, 60Hz).
 
 La energía solar está creciendo rápidamente en Colombia: la **Granja Solar El Paso** (Cesar, 60 MW, operada por Enel) y la **Granja Solar La Loma** (Cesar, 210 MW) son algunos de los proyectos más grandes. El gobierno colombiano promueve la energía solar mediante la **Ley 1715 de 2014**, que ofrece deducciones de impuestos para proyectos de energías renovables. Un sistema solar en una casa colombiana puede costar 5-15 millones de pesos y se amortiza en 4-7 años.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

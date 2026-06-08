@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Distribución del agua en la Tierra: agua salada y agua dulce. Localización y disponibilidad."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Distribución del Agua en la Tierra
@@ -267,3 +270,8 @@ Las reservas de agua dulce de los polos son como nuestra "cuenta de ahorros" de 
 ### Explicación Pedagógica
 
 Aprender la distribución del agua nos enseña responsabilidad. Ver el mar inmenso nos hace creer que el agua nunca se acabará, pero el agua dulce que sale de tu grifo es un pequeño milagro de la naturaleza que debemos proteger con todas nuestras fuerzas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

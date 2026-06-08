@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_p6, regiones_naturales, climas, fauna, flora, geografia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 6
@@ -181,3 +184,8 @@ Que riqueza natural hemos aprendido que tiene Colombia?
 
 ### Explicacion Pedagogica
 Colombia es uno de los paises mas biodiversos del mundo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

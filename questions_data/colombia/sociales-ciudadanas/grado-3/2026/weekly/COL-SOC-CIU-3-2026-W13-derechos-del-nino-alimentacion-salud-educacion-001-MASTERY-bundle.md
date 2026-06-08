@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derechos_nino, alimentacion, salud, educacion, codigo_infancia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Derechos del Nino: Alimentacion, Salud y Educacion
@@ -181,3 +184,8 @@ El Estado debe proteger la salud de los ninos segun la Constitucion y la Convenc
 
 ### Explicacion Pedagogica
 Los controles regulares y vacunas previenen enfermedades graves.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

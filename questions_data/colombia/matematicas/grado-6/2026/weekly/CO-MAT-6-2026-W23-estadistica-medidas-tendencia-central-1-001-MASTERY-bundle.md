@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W23 -- Estadistica: Medidas de Tendencia Central (Parte 1)
@@ -185,3 +188,7 @@ Promedio de 4 notas = 3.5. Tres notas: 3.0, 4.0, 3.5. Cuarta nota?
 
 ### Explicacion Pedagogica
 Suma=3x14+2x15+1x16=42+30+16=88. Media=88/6=14.67s.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

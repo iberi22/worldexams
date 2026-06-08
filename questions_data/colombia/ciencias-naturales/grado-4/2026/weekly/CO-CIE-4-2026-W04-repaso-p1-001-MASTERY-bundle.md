@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral: partes del cuerpo humano, sistemas del cuerpo, órganos de los sentidos, integración de sistemas y sentidos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 1 — Grado 4
@@ -268,3 +271,8 @@ Si una persona no pudiera usar el sentido del **tacto**, ¿qué actividades se l
 
 ### Explicación Pedagógica
 El **tacto** es esencial para percibir **temperatura**, **dolor**, **presión** y **textura**. Perderlo sería muy peligroso porque no sentiríamos si algo nos quema, si nos estamos lastimando o si estamos sosteniendo algo. También perderíamos la capacidad de sentir caricias, abrazos y el contacto con otras personas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

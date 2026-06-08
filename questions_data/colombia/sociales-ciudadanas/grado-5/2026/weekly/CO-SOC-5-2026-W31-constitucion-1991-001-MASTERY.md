@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Constitucion de 1991: derechos fundamentales, mecanismos de participacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Compara la Constitucion de 1886 con la de 1991.
 La de 1886 centralizo el poder y limito la participacion. La de 1991 descentralizo, creo la tutela y reconocio la diversidad.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

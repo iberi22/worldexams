@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W40 — Magnetismo Básico, Imanes y Electromagnetismo
@@ -285,3 +288,8 @@ La **relación de transformación** es: **V₁ / V₂ = N₁ / N₂**
 - **Transformador elevador (step-up)**: N₁ < N₂, V₁ < V₂. Sube el voltaje para transmisión a larga distancia.
 
 En Colombia, la red de transmisión (ISA) opera a 500,000V y 230,000V; la subtransmisión a 115,000V y 34,500V; la distribución primaria a 11,400V y 13,200V; y la distribución secundaria (hogares) a 110V/220V. Los transformadores en los postes de luz ("transformadores de distribución") son esenciales para llevar electricidad segura a los hogares colombianos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

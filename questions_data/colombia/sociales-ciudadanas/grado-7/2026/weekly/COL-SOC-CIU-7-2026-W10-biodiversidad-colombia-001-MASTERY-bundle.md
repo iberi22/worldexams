@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "biodiversidad colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Biodiversidad: ecosistemas y especies endémicas — W10
@@ -290,3 +293,8 @@ A partir de la explicación del profesor, ¿cuál de los siguientes enunciados d
 ### Explicación Pedagógica
 
 El estudio de la la biodiversidad colombianana es fundamental para comprender la realidad colombiana. A partir de la explicación del profesor, ¿cuál de los siguientes enunciados describe mejor un efecto de la la biodiversidad colombianana en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

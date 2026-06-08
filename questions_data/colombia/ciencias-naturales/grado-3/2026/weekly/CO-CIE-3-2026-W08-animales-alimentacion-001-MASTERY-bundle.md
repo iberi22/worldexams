@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Clasificación de animales según su alimentación: herbívoros, carnívoros y omnívoros. Adaptaciones dentales y de comportamiento."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # ¿Qué comen los animales?
@@ -267,3 +270,8 @@ Este es un ejemplo de especialización extrema. Al comer solo insectos pequeños
 ### Explicación Pedagógica
 
 Los omnívoros, como nosotros o los cerdos, tenemos dentaduras mixtas. Esto nos permite aprovechar diferentes tipos de comida según la época del año o el lugar donde estemos, siendo una de las dietas más exitosas de la naturaleza.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

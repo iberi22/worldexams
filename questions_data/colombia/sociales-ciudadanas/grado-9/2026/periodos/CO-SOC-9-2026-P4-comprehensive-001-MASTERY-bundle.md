@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Colombia contemporánea, Constitución de 1991, mecanismos de participación, integración económica global, TLC, organizaciones supranacionales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombia Contemporánea, Constitución de 1991 e Integración Económica
@@ -336,3 +339,8 @@ La Constitución de 1991 no fue una solución mágica a la violencia, pero sí t
 
 ### Explicación Pedagógica
 Colombia presenta una paradoja: es una democracia estable y vibrante con independencia judicial y prensa libre, pero tiene una desigualdad persistente que limita el goce efectivo de derechos. Cerrar esta brecha es uno de los principales desafíos del país.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

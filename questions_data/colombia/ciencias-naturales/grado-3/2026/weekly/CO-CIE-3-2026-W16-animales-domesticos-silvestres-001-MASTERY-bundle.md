@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Diferencia entre animales domésticos y silvestres. Importancia de la fauna silvestre y cuidado de los domésticos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Animales Domésticos y Silvestres
@@ -267,3 +270,8 @@ La domesticación es un cambio en la mente del animal. El perro ve al humano com
 ### Explicación Pedagógica
 
 Tener una mascota es un compromiso serio. Significa estudiar qué come, cuánto ejercicio necesita y qué cosas le hacen daño. El amor por un animal se demuestra dándole lo que su cuerpo necesita para estar sano.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

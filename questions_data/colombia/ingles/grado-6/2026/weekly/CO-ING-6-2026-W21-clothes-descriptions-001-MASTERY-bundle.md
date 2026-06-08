@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "clothes, colors for clothes, descriptions using have got and be"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Clothes and Descriptions (W21)
@@ -228,3 +231,8 @@ School uniforms in Colombia: usually white, blue, gray, navy, khaki. Neon/bright
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

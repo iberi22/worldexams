@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "estructura del ensayo, textos filosóficos básicos, pensamiento crítico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Introducción al Ensayo y Textos Filosóficos
@@ -336,3 +339,8 @@ Los textos argumentativos pueden tener diferentes estructuras: argumentación en
 
 ### Explicación Pedagógica
 Un buen ensayo argumentativo debe: 1) Tener una tesis clara, 2) Presentar argumentos con evidencia, 3) Reconocer y refutar contraargumentos (esto muestra que el autor consideró otras perspectivas), 4) Concluir reforzando la tesis.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

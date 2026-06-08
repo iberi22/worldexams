@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Numbers 1-100, counting, number-word recognition, and basic arithmetic vocabulary."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W03: Numbers 1-100 (CEFR A1)
@@ -239,3 +242,8 @@ What is the English word for **98**?
 ### Explicación Pedagógica
 This question tests understanding of how English forms compound numbers. English uses "tens + ones" (ninety-eight), unlike some other languages that might use a different order. The tens digit always comes first: ninety (90) + eight (8) = ninety-eight (98).
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

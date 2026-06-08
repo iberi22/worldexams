@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Economia colonial: mineria, agricultura, comercio y mita"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Que papel jugaba Cartagena en la economia colonial?
 Cartagena era el puerto mas importante. Por alli entraban mercancias europeas y esclavos africanos, y se exportaba oro hacia Espana. Tambien era una plaza militar fortificada.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

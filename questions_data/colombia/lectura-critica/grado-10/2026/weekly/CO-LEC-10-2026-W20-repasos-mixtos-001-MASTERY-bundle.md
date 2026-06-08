@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso mixto, comprension lectora, analisis textual, evaluacion de argumentos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repasos Mixtos — Grado 10
@@ -136,3 +139,8 @@ Encuestar solo en Bogotá no es representativo de la diversidad regional.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W20. Tema: Repasos Mixtos. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W30 -- REPASO: Divisibilidad, mcm, mcd y Factorizacion
@@ -227,3 +230,7 @@ Cuantos divisores tiene 180?
 
 ### Explicacion Pedagogica
 180=2^2x3^2x5. Exponentes: 2,2,1. Divisores=(2+1)(2+1)(1+1)=3x3x2=18.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

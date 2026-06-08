@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "classroom commands, instructions, imperatives, polite requests"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Classroom Commands (W03)
@@ -227,3 +230,8 @@ El imperativo negativo se forma con "Don't" + verbo: "Don't run" (no corras), "D
 "Close your books" y "Shut your books" son ambas correctas. "Close" es más común en contextos educativos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "personajes, características físicas, personalidad, descripción"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W04: Personajes y sus características
@@ -234,3 +237,8 @@ Elegir adjetivos apropiados.
 
 ### Explicación Pedagógica Final
 Bundle de personajes y características. Contextos familiares colombianos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

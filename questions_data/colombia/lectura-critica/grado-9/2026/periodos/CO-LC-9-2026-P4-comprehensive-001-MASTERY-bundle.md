@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "análisis crítico multimodal, medios de comunicación y alfabetización mediática"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Crítica Multimodal y Medios de Comunicación
@@ -338,3 +341,8 @@ Las campañas multimodales efectivas: 1) Conocen a su público, 2) Adaptan el me
 
 ### Explicación Pedagógica
 Las campañas contra la desinformación más efectivas: usan lenguaje positivo (no solo desmentir), ofrecen alternativas, usan fuentes confiables y cercanas, adaptan el mensaje a la audiencia, y fomentan la participación activa en lugar de solo transmitir información.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

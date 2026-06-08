@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "parts of the house, rooms, furniture vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Parts of the House (W26)
@@ -228,3 +231,8 @@ Between = entre dos cosas. "The kitchen is between the dining room and the bathr
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

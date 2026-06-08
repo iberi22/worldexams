@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "weather vocabulary, seasons in Colombia, weather expressions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Weather Vocabulary (W29)
@@ -228,3 +231,8 @@ Weather-appropriate clothing: cold+rainy → coat + boots + umbrella. Hot+sunny 
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

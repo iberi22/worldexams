@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso p4"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso: trabajo, vivienda y servicios públicos — W16
@@ -290,3 +293,8 @@ Durante el repaso de repaso p4, un estudiante pregunta: ¿cuál es la idea princ
 ### Explicación Pedagógica
 
 El estudio de repaso p4 es fundamental para comprender la realidad colombiana. Durante el repaso de repaso p4, un estudiante pregunta: ¿cuál es la idea principal que debemos recordar? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

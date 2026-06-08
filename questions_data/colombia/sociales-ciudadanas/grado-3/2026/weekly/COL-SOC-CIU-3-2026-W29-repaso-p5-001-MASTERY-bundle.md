@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_p5, radio, tv, internet, periodico, noticia, carta, correo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 5
@@ -181,3 +184,8 @@ Que hemos aprendido sobre comunicacion?
 
 ### Explicacion Pedagogica
 La variedad de medios permite elegir el mas adecuado segun la situacion.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

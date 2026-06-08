@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W05 â€” Fracciones: Suma y Resta
@@ -300,3 +303,8 @@ Analicemos paso a paso:
 Juan Pablo ha recorrido 14/15 de la distancia total, que es MENOS que la distancia total. Le falta 1/15 para llegar al colegio. Esto significa que hay una inconsistencia en los datos del problema, o que 1/15 de la distancia la recorre de otra forma (como entrar al colegio desde la parada del bus).
 
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

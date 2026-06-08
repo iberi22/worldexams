@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "descripción, personas, animales, adjetivos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W16: Textos descriptivos: personas, animales
@@ -234,3 +237,8 @@ Seleccionar adjetivos.
 
 ### Explicación Pedagógica Final
 Bundle descriptivo personas-animales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

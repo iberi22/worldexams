@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "discurso, retorica, figuras retoricas, persuasion, ethos pathos logos, analisis discursivo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Análisis de Discursos y Retórica — Grado 11
@@ -251,3 +254,8 @@ Usa el cargo del ministro como única razón, sin examinar el contenido de la re
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W06. Tema: Análisis de Discursos y Retórica. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "la violencia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El período de el período de El período de La Violencia: 1946-1958, causas, actores y magnitud — W05
@@ -344,3 +347,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de el período de El período de el período de El período de La Violencia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre el período de El período de el período de El período de La Violencia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

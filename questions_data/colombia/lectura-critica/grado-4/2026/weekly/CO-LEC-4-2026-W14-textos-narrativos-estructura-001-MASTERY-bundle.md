@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "estructura narrativa, inicio, nudo, desenlace"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W14: Textos narrativos: estructura (inicio, nudo, desenlace)
@@ -234,3 +237,8 @@ Estructura completa.
 
 ### Explicación Pedagógica Final
 Bundle estructura narrativa.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

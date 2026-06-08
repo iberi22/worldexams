@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Recursos naturales renovables: agua, aire, suelo (parcial), flora y fauna. Características y uso sostenible."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Recursos Naturales Renovables
@@ -267,3 +270,8 @@ El suelo está en el límite. Se renueva tan lento que para los humanos es casi 
 ### Explicación Pedagógica
 
 Ser renovable no es una "licencia para desperdiciar". Cada recurso que usamos requiere energía de la Tierra para volver a aparecer. La verdadera sostenibilidad es usar solo lo que necesitamos, respetando los ritmos de la naturaleza.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

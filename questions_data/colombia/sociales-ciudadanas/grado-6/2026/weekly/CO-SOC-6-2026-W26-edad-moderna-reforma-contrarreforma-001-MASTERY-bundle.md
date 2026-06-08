@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_moderna_reforma_contrarreforma"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Moderna: Reforma y Contrarreforma
@@ -190,3 +193,8 @@ Que fue el Concilio de Trento?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Concilio de Trento (1545-1563): definio doctrina catolica contra la Reforma.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

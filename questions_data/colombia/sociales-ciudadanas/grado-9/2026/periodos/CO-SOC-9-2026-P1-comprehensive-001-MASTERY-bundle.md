@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Revolución Francesa, independencia americana, Colombia siglo XIX, formación del Estado-nación, ciudadanía"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Revolución Francesa, Independencia Americana y Colombia Siglo XIX
@@ -336,3 +339,8 @@ La influencia de la Revolución Francesa fue ideológica, no causal directa. Los
 
 ### Explicación Pedagógica
 El concepto de "nación colombiana" se fue construyendo durante el siglo XIX mediante conflictos y acuerdos. Las constantes guerras civiles (nueve conflictos nacionales entre 1839 y 1902) reflejaban profundas divisiones sobre federalismo vs. centralismo, el papel de la Iglesia y el modelo de desarrollo económico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

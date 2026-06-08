@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "evolucion por seleccion natural, compuestos organicos fundamentales, electricidad basica (circuitos, ley de Ohm)"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Evolucion, Compuestos Organicos y Electricidad
@@ -336,3 +339,8 @@ Que tipo de seleccion natural esta actuando?
 
 ### Explicacion Pedagogica
 La seleccion natural puede ser: direccional (favorece un extremo), estabilizadora (favorece el promedio) o disruptiva (favorece ambos extremos). Aqui, la seleccion direccional aumenta la coloracion brillante con el tiempo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

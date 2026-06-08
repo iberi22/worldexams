@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Respiratorio, circulatorio, relación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Sistema Respiratorio y Circulatorio
@@ -238,3 +241,8 @@ Puede ser desencadenada por alergias.
 ### Explicación Pedagógica
 
 Causada por bacterias, virus u hongos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

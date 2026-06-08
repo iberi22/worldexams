@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "statistics, data collection, frequency tables, bar graphs, mean, median, mode"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Basic Statistics
@@ -241,3 +244,8 @@ What is the first step in a statistical study?
 First: define the research question. Then collect, organize, analyze, interpret data.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

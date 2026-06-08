@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 19
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Secuencia de Eventos
@@ -207,3 +210,8 @@ Si organizamos los hechos de forma **cronológica** (como pasaron en el tiempo),
 
 ### Explicación Pedagógica
 Reconstruir la línea temporal de una narración no lineal es una habilidad de análisis superior. El estudiante debe separar la estructura del relato (cómo se cuenta) de la estructura de la historia (cómo pasó).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

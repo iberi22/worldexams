@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fracciones como parte de un todo, comparacion de fracciones, figuras geometricas, angulos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Periodo P3: Fracciones y Geometria
@@ -322,3 +325,8 @@ Si 345 + 200 = 545, cuanto es 545 - 200?
 Si a+b=c, entonces c-b=a. 345+200=545, entonces 545-200=345.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

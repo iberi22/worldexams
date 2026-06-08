@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Clasificación de plantas según su tallo: hierbas, arbustos y árboles."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clasificación de las Plantas según su Tallo
@@ -267,3 +270,8 @@ La competencia por la luz es una batalla constante en la naturaleza. Los árbole
 ### Explicación Pedagógica
 
 A veces las plantas nos confunden. El banano es la hierba más grande del mundo. Al no tener un tronco de madera real, si lo cortas verás que es pura fibra y agua, demostrando que la clasificación depende de la estructura interna y no solo del tamaño.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

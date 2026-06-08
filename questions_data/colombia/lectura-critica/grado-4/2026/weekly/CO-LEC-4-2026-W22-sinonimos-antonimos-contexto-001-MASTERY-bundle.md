@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "sinónimos, antónimos, vocabulario, contexto, palabras parecidas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W22: Sinónimos y antónimos en contexto
@@ -234,3 +237,8 @@ Evaluar sinónimo.
 
 ### Explicación Pedagógica Final
 Bundle sinónimos-antónimos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso integral anual G4, cÃ©lula, sistemas, ecosistemas, materia, energÃ­a, mÃ¡quinas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso integral anual â€” Grado 4 â€” W40
@@ -278,3 +281,8 @@ Agua: esencial para funciones vitales.
 Ecosistemas: biodiversidad y servicios.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

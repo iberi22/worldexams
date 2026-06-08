@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "family members, possessive adjectives (my, your, his, her), family vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Family Members (W05)
@@ -227,3 +230,8 @@ Relaciones familiares: mother's sister = aunt (tía), father's brother = uncle (
 "Father's parents" = grandparents (abuelos). Grandfather = abuelo, grandmother = abuela. A veces se dice "grandpa" y "grandma" de manera informal.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

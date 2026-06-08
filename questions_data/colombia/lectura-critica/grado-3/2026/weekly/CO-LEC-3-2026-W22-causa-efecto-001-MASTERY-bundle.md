@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 22
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Causa y Efecto
@@ -198,3 +201,8 @@ Imagina un cuento donde un niño ayuda a una anciana a cruzar la calle y ella, e
 
 ### Explicación Pedagógica
 Evaluar la carga moral o el mensaje de una relación causa-efecto en la ficción ayuda a los estudiantes a internalizar valores y a comprender la justicia poética en los relatos literarios.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

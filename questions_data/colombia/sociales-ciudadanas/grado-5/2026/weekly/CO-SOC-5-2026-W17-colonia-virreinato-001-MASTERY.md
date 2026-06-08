@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "La Colonia: Virreinato de Nueva Granada, instituciones coloniales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que se creo el Virreinato de Nueva Granada?
 Antes de 1717, el territorio dependia del Virreinato del Peru. Se creo el nuevo virreinato para administrar mejor la region y defenderla de piratas ingleses y franceses.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

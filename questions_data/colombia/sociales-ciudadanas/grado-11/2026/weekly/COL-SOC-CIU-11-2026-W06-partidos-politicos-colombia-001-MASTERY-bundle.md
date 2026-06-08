@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "partidos politicos colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Partidos políticos: sistema electoral, reformas y financiación — W06
@@ -560,3 +563,8 @@ Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de los
 ### Explicación Pedagógica
 
 El estudio de los partidos y movimientos políticos en Colombia es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de los partidos y movimientos políticos en Colombia es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

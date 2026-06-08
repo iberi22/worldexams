@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "descriptions, adjectives, appearance, personality, verb to be, have/has"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Descriptions
@@ -241,3 +244,8 @@ Getting a gift makes most people feel happy. Emotions: happy, sad, angry, tired.
 'Loving' means 'cariñosa' in Spanish. Descriptions tell how someone is.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

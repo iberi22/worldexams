@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W30 — Punto de Vista del Autor
@@ -271,3 +274,8 @@ El punto de vista del autor también revela información sobre quién es: su eda
 Un texto puede tener un punto de vista definido y aun así ser valioso. La clave está en evaluar: 1) si los argumentos se basan en evidencias, 2) si el autor reconoce otras posturas, 3) si el lenguaje es respetuoso o descalificador. Un texto parcial pero bien argumentado es más confiable que uno "neutral" pero sin sustento. La lectura crítica no exige neutralidad total, sino transparencia en los argumentos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

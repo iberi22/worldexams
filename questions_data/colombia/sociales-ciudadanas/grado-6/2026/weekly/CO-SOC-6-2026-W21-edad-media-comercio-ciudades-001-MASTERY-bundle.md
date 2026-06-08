@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_media_comercio_ciudades"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Media: Comercio y Ciudades
@@ -190,3 +193,8 @@ Que crisis afecto la Baja Edad Media?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Peste Negra (1347-1351) mato a un tercio de la poblacion europea.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

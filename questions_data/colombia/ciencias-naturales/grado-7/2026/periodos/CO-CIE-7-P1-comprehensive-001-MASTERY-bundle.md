@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "celula_reproduccion, tejidos, fuerzas_movimiento"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciencias Naturales Grado 7 — Periodo 1
@@ -366,3 +369,8 @@ Si una planta de tomate se cultiva en un ambiente con baja humedad, ¿qué cambi
 
 ### Explicación Pedagógica
 Las plantas se adaptan a su ambiente. En condiciones de baja humedad (estrés hídrico), desarrollan una cutícula más gruesa, menor cantidad de estomas y otras adaptaciones para conservar agua.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

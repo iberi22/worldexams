@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Desplazamiento animal: caminar, correr, nadar, volar y reptar. Relación con el hábitat y las extremidades."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # ¿Cómo se mueven los animales?
@@ -267,3 +270,8 @@ El pingüino es un ejemplo de ave que cambió su forma de desplazamiento. Sus al
 ### Explicación Pedagógica
 
 El desplazamiento animal es un proceso biológico complejo. No es solo mover piezas, sino coordinar sentidos, cerebro y músculos. Un animal puede trepar, saltar y correr en terrenos donde una máquina se quedaría atascada, demostrando la perfección del movimiento vivo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

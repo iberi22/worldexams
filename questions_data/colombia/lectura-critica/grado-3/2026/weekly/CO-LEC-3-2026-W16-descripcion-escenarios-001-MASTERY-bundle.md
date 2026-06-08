@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 16
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Descripción de Escenarios
@@ -201,3 +204,8 @@ Si fueras el autor, ¿para qué tipo de historia usarías este escenario?
 
 ### Explicación Pedagógica
 Evaluar la relación entre el escenario y el género narrativo es una competencia literaria avanzada. El estudiante debe reconocer que el ambiente físico condiciona el tipo de emociones que se pueden narrar.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

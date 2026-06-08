@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fuerzas militares"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Las las Las Fuerzas Militares y la Policía Nacional y la Policía Nacional y la policía nacional y Policía: misión y reformas — W19
@@ -560,3 +563,8 @@ A partir de la explicación del profesor, ¿cuál de los siguientes enunciados d
 ### Explicación Pedagógica
 
 El estudio de las Las las Las Fuerzas Militares y la Policía Nacional y la Policía Nacional y la policía nacional y la Policía Nacional es fundamental para comprender la realidad colombiana. A partir de la explicación del profesor, ¿cuál de los siguientes enunciados describe mejor un efecto de las Las las Las Fuerzas Militares y la Policía Nacional y la Policía Nacional y la policía nacional y la Policía Nacional en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

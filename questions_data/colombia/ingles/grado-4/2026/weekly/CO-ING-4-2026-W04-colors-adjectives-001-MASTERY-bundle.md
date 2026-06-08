@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Color vocabulary, basic adjectives, color-noun agreement, and descriptive phrases."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W04: Colors and Adjectives (CEFR A1)
@@ -240,3 +243,8 @@ The ________ ________ elephant walked slowly through the savanna.
 ### Explicación Pedagógica
 This question tests logical adjective + color combinations. Students must use real-world knowledge: elephants are large (big) and have gray skin. Errors occur when students choose adjectives that are factually incorrect about elephants or colors that don't match reality.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

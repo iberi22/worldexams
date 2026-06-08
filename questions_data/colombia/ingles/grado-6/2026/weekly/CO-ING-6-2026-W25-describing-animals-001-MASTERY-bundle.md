@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "describing animals, can/can't for animal abilities, animal body parts"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Describing Animals (W25)
@@ -228,3 +231,8 @@ Giraffe (jirafa) has the longest neck of all animals. They can eat leaves from t
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_media_caida_imperio_romano"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Media: Caida del Imperio Romano
@@ -172,3 +175,8 @@ No caracteriza inicio EM:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

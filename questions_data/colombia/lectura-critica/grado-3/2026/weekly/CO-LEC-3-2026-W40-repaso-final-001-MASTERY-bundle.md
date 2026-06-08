@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 40
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Final de Grado 3
@@ -206,3 +209,8 @@ Un autor escribe: "**Los cuentos de hadas son mejores que los libros de ciencias
 
 ### Explicación Pedagógica
 Repaso de textos argumentativos (Semana 34). Evaluar y construir argumentos que resalten el valor de la información verídica frente a la ficción desarrolla la madurez intelectual del estudiante.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

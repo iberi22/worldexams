@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El aire y la atmósfera: composición, importancia para la vida y protección."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Aire que nos Rodea
@@ -267,3 +270,8 @@ Los bosques son los "pulmones" de la Tierra porque reciclan el aire. Lo que para
 ### Explicación Pedagógica
 
 Un sistema cerrado necesita equilibrio. Sin el aire inmenso de la atmósfera exterior, tendríamos que imitar a la perfección el ciclo de las plantas para no asfixiarnos con nuestro propio aire usado.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

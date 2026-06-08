@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Alimentación saludable: grupos de alimentos, nutrientes, plato del bien comer, hidratación, consecuencias de una mala alimentación, alimentos típicos colombianos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Alimentación Saludable — Grado 4
@@ -268,3 +271,8 @@ Observa la siguiente descripción: medio plato de verduras y frutas, un cuarto d
 
 ### Explicación Pedagógica
 El **Plato del Bien Comer** o **Plato Saludable** recomienda llenar la mitad del plato con **verduras y frutas** (vitaminas, minerales, fibra), un cuarto con **cereales integrales** (energía) y un cuarto con **proteínas** (crecimiento y reparación). Acompañar con **agua** y limitar azúcares y grasas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

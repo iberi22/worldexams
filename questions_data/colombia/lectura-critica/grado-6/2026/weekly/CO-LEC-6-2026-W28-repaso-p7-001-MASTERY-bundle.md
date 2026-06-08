@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W28 — REPASO Periodo 7
@@ -284,3 +287,8 @@ Imagina que debes escribir una reseña crítica de tu libro favorito. ¿Cuál de
 
 Escribir una buena reseña es una habilidad que combina comprensión lectora, pensamiento crítico y expresión escrita. Los pasos clave: (1) identificar la obra, (2) describir sin spoilers, (3) analizar con ejemplos concretos (no solo opiniones), (4) dar un veredicto con recomendación. Una buena reseña es útil incluso para quienes no están de acuerdo con ella.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

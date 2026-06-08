@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Ramas Legislativa y Judicial del poder público"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ramas Legislativa y Judicial del poder público
@@ -236,3 +239,8 @@ Si tu colegio se organizara como un Estado con tres ramas del poder, ¿cómo se 
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W29, explica las Ramas Legislativa y Judicial del poder público.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

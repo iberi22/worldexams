@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso P6: Constitución y ramas del poder público"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P6 — Constitución y ramas del poder público
@@ -236,3 +239,8 @@ Diseña una mini constitución para tu salón de clases. ¿Qué incluirías?
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W30, repasa la Constitución y las ramas del poder público.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "salud colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema de salud: SGSSS, EPS y desafíos — W11
@@ -290,3 +293,8 @@ La profesora de la I.E. de Cali presenta un estudio de caso sobre el sistema de 
 ### Explicación Pedagógica
 
 El estudio de el sistema de el sistema de salud colombianono es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre el sistema de salud colombiano y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

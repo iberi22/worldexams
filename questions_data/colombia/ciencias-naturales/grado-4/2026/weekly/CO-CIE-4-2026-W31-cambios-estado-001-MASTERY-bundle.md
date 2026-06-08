@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Fusión, evaporación, condensación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Cambios de Estado
@@ -238,3 +241,8 @@ El agua se expande al congelarse.
 ### Explicación Pedagógica
 
 La sal derrite el hielo en las calles.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

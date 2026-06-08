@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Productores, consumidores, descomponedores"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Cadenas Alimenticias
@@ -216,3 +219,8 @@ Depende de la productividad primaria.
 ### Explicación Pedagógica
 
 Sin ellas, los nutrientes no regresarían al suelo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

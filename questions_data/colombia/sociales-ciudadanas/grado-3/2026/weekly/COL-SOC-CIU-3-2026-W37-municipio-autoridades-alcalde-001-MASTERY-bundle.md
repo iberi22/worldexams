@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "municipio, alcalde, gobierno_municipal, administracion_local"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Municipio y sus Autoridades: El Alcalde
@@ -181,3 +184,8 @@ Que pasaria en un municipio sin alcalde?
 
 ### Explicacion Pedagogica
 El alcalde es esencial para el funcionamiento del municipio.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

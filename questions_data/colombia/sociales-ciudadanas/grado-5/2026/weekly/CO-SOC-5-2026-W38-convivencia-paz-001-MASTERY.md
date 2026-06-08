@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Convivencia pacifica, cultura de paz, resolucion de conflictos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que es importante construir paz desde la escuela?
 La educacion para la paz es fundamental. La escuela no solo ensena matematicas, sino tambien valores, respeto y resolucion de conflictos. Asi se forman ciudadanos para la paz.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

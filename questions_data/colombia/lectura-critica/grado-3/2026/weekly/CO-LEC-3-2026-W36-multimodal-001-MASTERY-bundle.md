@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 36
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Multimodales
@@ -205,3 +208,8 @@ Un aviso en la carretera muestra un **triángulo rojo con un dibujo de un ciervo
 
 ### Explicación Pedagógica
 Evaluar la coherencia entre los diferentes canales de un texto multimodal es una competencia crítica de alto nivel. El estudiante debe notar la contradicción entre el icono de peligro y la orden del texto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

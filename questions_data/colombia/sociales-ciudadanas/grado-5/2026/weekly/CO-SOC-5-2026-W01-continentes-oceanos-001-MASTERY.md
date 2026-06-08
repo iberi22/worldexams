@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ubicación básica de continentes y océanos en el mapamundi"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Colombia se encuentra en el continente americano, específicamente en el norocci
 América es el segundo continente más grande del mundo en extensión territorial, después de Asia. Se divide en América del Norte, América Central y América del Sur. Colombia está ubicada en América del Sur.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

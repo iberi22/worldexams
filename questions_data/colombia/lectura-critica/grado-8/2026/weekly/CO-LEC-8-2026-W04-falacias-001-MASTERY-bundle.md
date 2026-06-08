@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "falacias logicas, falacia ad hominem, falsa causa, generalizacion apresurada, razonamiento invalido, argumentacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — Identificando Falacias en Redes Sociales
@@ -187,3 +190,7 @@ Valor para estudiantes:
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 04. Tema: Falacias. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "simulacro saber 11, competencias lectoras, comprension, analisis, evaluacion, reflexion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Simulacros Saber 11 — Grado 11
@@ -136,3 +139,8 @@ Encuestar solo en Bogotá no es representativo de la diversidad regional.
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W40. Tema: Simulacros Saber 11. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sintesis de lectura critica grado 9, formatos textuales y analisis mediatico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G9 — Repaso: El Cambio Climatico en los Paramos Colombianos
@@ -222,3 +225,7 @@ La tabla refuerza el mensaje del texto mediante:
 
 ### Explicación Pedagógica Final
 Bundle para grado 9 — Semana 33. Tema: Repaso Sintesis. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

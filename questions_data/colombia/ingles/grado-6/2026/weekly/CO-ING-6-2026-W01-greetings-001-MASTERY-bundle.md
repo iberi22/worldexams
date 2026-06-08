@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "basic greetings, introductions, farewells, formal vs informal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Greetings and Introductions (W01)
@@ -227,3 +230,8 @@ Al llegar tarde, lo apropiado es saludar ("Good morning") y disculparse ("Sorry 
 "Nice to meet you" es la respuesta estándar cuando alguien se presenta. La otra persona responde "Nice to meet you too".
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

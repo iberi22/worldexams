@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Características generales de los animales: nutrición heterótrofa, desplazamiento y respuesta a estímulos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Características de los Animales
@@ -267,3 +270,8 @@ La anatomía de los animales está directamente relacionada con su forma de vida
 ### Explicación Pedagógica
 
 Para ser un animal, no basta con parecerse a uno o imitar un sonido. Se requiere una organización celular compleja y la realización autónoma de la nutrición, relación y reproducción. El peluche es un objeto inerte fabricado por el hombre.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

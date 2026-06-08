@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W21 -- Estadistica: Recoleccion y Organizacion de Datos
@@ -227,3 +230,7 @@ Rango A=3.0; B=1.5. Mayor rango = mayor variab.
 
 ### Explicacion Pedagogica
 Total=30, perros=12, fraccion=12/30=2/5.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

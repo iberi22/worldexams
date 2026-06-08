@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso de animales: características, clasificación, alimentación, desplazamiento y hábitats."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso General: El Reino Animal
@@ -267,3 +270,8 @@ Esto se llama pirámide de energía. La naturaleza es equilibrada. Si hubiera de
 ### Explicación Pedagógica
 
 El ornitorrinco es el ejemplo perfecto de que la naturaleza no es una lista de reglas rígidas. Se clasifica como mamífero (monotrema) porque tiene pelo y glándulas mamarias, aunque su forma de nacer sea como la de un ave o reptil.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

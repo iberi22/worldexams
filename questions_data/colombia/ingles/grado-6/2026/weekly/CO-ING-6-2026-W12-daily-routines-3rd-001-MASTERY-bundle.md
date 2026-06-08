@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "daily routines third person, simple present, daily activities, frequency expressions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Daily Routines (3rd Person) (W12)
@@ -228,3 +231,8 @@ Comparativos: early → earlier, late → later.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

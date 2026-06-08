@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 4
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Comprensión de Oraciones
@@ -200,3 +203,8 @@ Un niño le pregunta a su papá: "¿Podemos ir mañana a cine?". El papá respon
 
 ### Explicación Pedagógica
 Identificar oraciones condicionales es clave para entender acuerdos, reglas e instrucciones. El estudiante debe reconocer que el cumplimiento de una acción depende obligatoriamente de la realización de otra previa.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

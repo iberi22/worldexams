@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "cadena alimenticia, productores, consumidores, descomponedores, niveles trÃ³ficos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Cadenas alimenticias â€” Grado 4 â€” W20
@@ -278,3 +281,8 @@ Solo 10% de energÃ­a pasa al siguiente nivel.
 Descomponedores: cierran ciclo de nutrientes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 23
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Periodísticos
@@ -204,3 +207,8 @@ Un periódico publica una noticia sobre un nuevo videojuego, pero la nota fue es
 
 ### Explicación Pedagógica
 Evaluar la fuente de la información es un paso crucial en la lectura crítica. Reconocer los posibles intereses de quien emite el mensaje ayuda a distinguir la publicidad disfrazada de noticia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

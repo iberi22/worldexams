@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Guerra Fría, organizaciones internacionales, Colombia contemporánea, posconflicto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Guerra Fría, Organización Internacional y Colombia Contemporánea
@@ -336,3 +339,8 @@ La Guerra Fría terminó formalmente en 1991, pero su legado es visible hoy: la 
 
 ### Explicación Pedagógica
 El conflicto armado colombiano se desarrolló en el contexto de la Guerra Fría: las guerrillas se inspiraron en la Revolución Cubana y el marxismo, EE.UU. apoyó al gobierno con ayuda militar para combatir "la amenaza comunista", y el narcotráfico creció alimentado por la demanda estadounidense.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

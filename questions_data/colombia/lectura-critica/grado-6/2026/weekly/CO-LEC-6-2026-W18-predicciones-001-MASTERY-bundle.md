@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "predicciones, anticipación de eventos, uso de pistas textuales para proyectar desenlaces, inferencia prospectiva, hipótesis de lectura"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Predicciones
@@ -212,3 +215,8 @@ Evaluación y predicción fundamentada: el estudiante debe usar las pistas del t
 
 ### Explicación Pedagógica Final
 Bundle enfocado en predicciones a partir de pistas textuales. A través de la historia de un préstamo arqueológico al Museo del Oro de Bogotá, los estudiantes practican la anticipación de desenlaces usando títulos, diálogos, finales abiertos y el contraste entre perspectivas. Contexto colombiano con la orfebrería muisca y el debate actual sobre la restitución de piezas arqueológicas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "etnias colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Diversidad étnica: indígenas, afrocolombianos, raizales, ROM — W06
@@ -290,3 +293,8 @@ En la clase de sociales del Colegio de Bogotá, el profesor inicia la explicaci�
 ### Explicación Pedagógica
 
 El estudio de la diversidad étnica colombiana es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la diversidad étnica colombiana y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

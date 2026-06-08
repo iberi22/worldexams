@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "funciones_trigonometricas, vectores_2d, limite_intuitivo, estadistica_descriptiva, probabilidad_condicional, geometria_analitica, funciones_polinomicas_grado_10"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Matemáticas Grado 10 - Comprehensive P1-P4
@@ -471,3 +474,7 @@ Estudiante 4: "El límite no existe"
 
 ### Explicación Pedagógica
 El límite bilateral existe solo si los límites laterales son igual
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

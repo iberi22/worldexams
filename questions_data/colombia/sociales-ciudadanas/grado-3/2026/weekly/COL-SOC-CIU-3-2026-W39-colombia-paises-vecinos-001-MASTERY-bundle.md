@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "paises_vecinos, fronteras, venezuela, brasil, ecuador, peru, panama"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombia y sus Paises Vecinos
@@ -181,3 +184,8 @@ Que significa ser un pais fronterizo?
 
 ### Explicacion Pedagogica
 Ser fronterizo implica relacionarse con los paises vecinos en muchos aspectos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

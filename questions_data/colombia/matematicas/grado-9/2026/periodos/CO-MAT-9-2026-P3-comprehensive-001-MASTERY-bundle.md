@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "función exponencial y logarítmica, resolución de triángulos (ley de seno/coseno), correlación estadística y diagrama de dispersión"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Función Exponencial, Trigonometría de Triángulos y Estadística
@@ -333,3 +336,8 @@ Usando la ley del coseno, ¿cuál es la distancia aproximada entre $A$ y $B$? ($
 - [ ] B) 47.8 m <!-- feedback: Correct. $c^2 = 40^2 + 35^2 - 2(40)(35)(0.2588) = 1600 + 1225 - 724.64 = 2100.36$. $c \approx \sqrt{2100.36} \approx 45.83$ m. -->
 - [x] C) 45.8 m <!-- feedback: Correct. $c^2 = 40^2 + 35^2 - 2(40)(35)\cos(75^\circ) = 1600 + 1225 - 2800(0.2588) = 2825 - 724.64 = 2100.36$. $c = \sqrt{2100.36} \approx 45.83$ m. -->
 - [ ] D) 53.2 m <!-- feedback: Incorrect. Probablemente se sumaron los cuadrados sin restar el término $-2ab\cos(C)$. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

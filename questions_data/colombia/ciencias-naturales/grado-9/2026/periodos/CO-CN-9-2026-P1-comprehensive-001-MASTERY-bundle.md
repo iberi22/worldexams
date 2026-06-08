@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistema nervioso humano, reacciones químicas básicas, trabajo y energía mecánica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema Nervioso, Reacciones Químicas y Trabajo-Energía
@@ -336,3 +339,8 @@ De acuerdo con la primera ley de la termodinamica, cual es el cambio en la energ
 
 ### Explicacion Pedagogica
 La primera ley: deltaU = Q - W, donde Q es calor agregado al sistema y W es trabajo realizado POR el sistema. Si el sistema recibe calor y realiza trabajo, la energia interna cambia segun la diferencia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

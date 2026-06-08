@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "comprension_critica, semantica, produccion_textual"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lenguaje / Lectura Crítica Grado 7 — Periodo 4
@@ -376,3 +379,8 @@ Para el ensayo final, la profesora pide: "Escribe un ensayo de tres párrafos so
 
 ### Explicación Pedagógica
 La estructura del ensayo se adapta al número de párrafos solicitados. Con tres párrafos: párrafo 1 = introducción + tesis; párrafo 2 = desarrollo con argumentos; párrafo 3 = conclusión.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

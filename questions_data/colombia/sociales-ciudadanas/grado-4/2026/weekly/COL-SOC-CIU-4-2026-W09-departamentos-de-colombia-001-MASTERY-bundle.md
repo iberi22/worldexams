@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Los departamentos colombianos, su concepto y cuántos son"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Departamentos de Colombia
@@ -246,3 +249,7 @@ Se evalúa [Create] con el tema de la pregunta.
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W09, aborda el tema de Departamentos de Colombia desde una perspectiva colombiana. Evalúa la comprensión del concepto, las características principales, la aplicación en contextos cotidianos, el análisis de situaciones, la evaluación crítica y la capacidad creativa para proponer soluciones. El objetivo es que los estudiantes reconozcan la importancia de estos temas en su vida diaria como ciudadanos colombianos y fortalezcan su pensamiento social y reflexivo.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

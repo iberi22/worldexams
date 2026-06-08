@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "daily routines, simple present, time expressions, first person"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Daily Routines (W11)
@@ -228,3 +231,8 @@ Para identificar el orden, busca la hora más temprana. 5 AM (wake up) es la pri
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

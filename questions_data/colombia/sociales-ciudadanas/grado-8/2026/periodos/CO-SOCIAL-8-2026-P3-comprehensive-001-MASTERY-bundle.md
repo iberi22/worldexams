@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "causas de las guerras mundiales, Colombia siglo XX, geografía económica, globalización"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Guerras Mundiales, Colombia Siglo XX y Geografía Económica
@@ -336,3 +339,8 @@ Colombia no participó militarmente en las guerras mundiales, pero sí se vio af
 
 ### Explicación Pedagógica
 A pesar de los procesos de industrialización del siglo XX, Colombia mantiene una economía dependiente de la exportación de materias primas (petróleo, carbón, café, oro, níquel). Esto la hace vulnerable a las fluctuaciones de los precios internacionales, un desafío típico de los países en desarrollo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

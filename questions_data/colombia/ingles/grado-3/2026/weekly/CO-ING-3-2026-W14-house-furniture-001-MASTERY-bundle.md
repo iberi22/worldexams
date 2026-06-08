@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for furniture: bed, sofa, table, chair, lamp."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W14: House - Furniture (A1)
@@ -221,3 +224,8 @@ Which one is in the **kitchen**?
 
 ### Explicación Pedagógica
 La estufa (stove) es un elemento que encontramos en la cocina (kitchen).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

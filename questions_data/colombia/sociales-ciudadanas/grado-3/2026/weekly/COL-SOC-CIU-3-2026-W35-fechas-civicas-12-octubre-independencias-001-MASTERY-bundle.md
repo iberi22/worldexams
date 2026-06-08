@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fechas_civicas, 12_octubre, descubrimiento_america, diversidad_cultural, independencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fechas Civicas: 12 de Octubre e Independencias
@@ -181,3 +184,8 @@ Que podemos aprender del 12 de octubre hoy?
 
 ### Explicacion Pedagogica
 El 12 de octubre nos invita a celebrar la diversidad cultural de America.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

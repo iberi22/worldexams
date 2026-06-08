@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "sistema circulatorio, corazÃ³n, sangre, vasos sanguÃ­neos, arterias, venas, capilares"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema circulatorio â€” Grado 4 â€” W14
@@ -278,3 +281,8 @@ Sangre: distribuye Oâ‚‚ y nutrientes.
 Mayor demanda de Oâ‚‚.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

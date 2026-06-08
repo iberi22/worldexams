@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W36 — Estadistica: Media, Mediana, Moda
@@ -258,3 +261,8 @@ Calculamos cada medida:
 - Media: (5×3 + 8×3.5 + 12×4 + 5×4.5 + 2×5) ÷ 32 = (15 + 28 + 48 + 22.5 + 10) ÷ 32 = 123.5 ÷ 32 ≈ 3.86
 
 Tanto la moda como la mediana son 4.0, que es la medida mas favorable. Esto muestra como la eleccion de la medida estadistica puede influir en la interpretacion de los datos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral sobre luz y sonido: fuentes, propagación, cualidades y fenómenos relacionados."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso: Energía de Luz y Sonido
@@ -267,3 +270,8 @@ En el agua, el sonido viaja casi cinco veces más rápido que en el aire. Por es
 ### Explicación Pedagógica
 
 La luz y el sonido son los canales de comunicación con la realidad. Sin ellos, el ser vivo queda aislado. Por eso hemos desarrollado órganos tan complejos como los ojos y los oídos: para transformar esas energías en información útil para la vida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)
