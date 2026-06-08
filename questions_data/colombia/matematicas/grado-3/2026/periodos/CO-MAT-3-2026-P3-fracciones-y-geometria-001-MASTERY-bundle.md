@@ -1,10 +1,10 @@
 ---
-id: "CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY"
+id: "CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY"
 country: "colombia"
 grado: 3
 asignatura: "matematicas"
-tema: "numeros-hasta-1000"
-periodo: 1
+tema: "fracciones-y-geometria"
+periodo: 3
 protocol_version: "5.2"
 bundle_index: 1
 bundle_size: 15
@@ -15,22 +15,22 @@ calibration:
   expected_success_rate: 0.70
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "lectura, escritura, valor posicional, suma, resta de numeros hasta 1000"
+rubric_baseline: "fracciones como parte de un todo, comparacion de fracciones, figuras geometricas, angulos"
 ---
 
-# Bundle Periodo P1: Numeros hasta 1000 y Valor Posicional
+# Bundle Periodo P3: Fracciones y Geometria
 
-Este bundle cubre los conceptos fundamentales de numeracion y valor posicional hasta 1000, incluyendo suma y resta con reagrupacion. Las preguntas presentan situaciones cotidianas colombianas como compras en tiendas, conteo en colegios y actividades familiares.
+Este bundle cubre fracciones basicas (medios, tercios, cuartos), comparacion de fracciones y figuras geometricas planas (triangulos, cuadrados, rectangulos, circulos) con sus propiedades.
 
 ## Question 1 [D3-D4]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v1`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.92
-**Context:** En Colegio San Agustin de Sincelejo de Neiva
+**Context:** En Gimnasio Campestre de Tunja de Cartagena
 
 ### Enunciado
-En la biblioteca del Colegio San Agustin de Sincelejo, hay 246 libros de ciencia y 189 de historia. Cuantos MAS de ciencia?
+En la biblioteca del Gimnasio Campestre de Tunja, hay 246 libros de ciencia y 189 de historia. Cuantos MAS de ciencia?
 
 ### Options
 - [x] A) 57 <!-- feedback: Correcto! 246-189=57. -->
@@ -43,11 +43,11 @@ Unidades:6-9=presto=16-9=7. Decenas:3-8=presto=13-8=5. Centenas:1-1=0. Diferenci
 
 ---
 ## Question 2 [D3-D4]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v2`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.9
-**Context:** En Colegio El Rosario de Ibague de Medellin
+**Context:** En Inem Santiago Perez de Armenia de Manizales
 
 ### Enunciado
 Don Miguel tiene 24 huevos y los empaca en cartones de 6. Cuantos cartones?
@@ -63,11 +63,11 @@ Reparto equitativo: 24 huevos ÷ 6 por carton = 4 cartones.
 
 ---
 ## Question 3 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v3`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.88
-**Context:** En Colegio INEM de Pereira de Pasto
+**Context:** En Colegio San Francisco de Asis de Popayan de Cartagena
 
 ### Enunciado
 Cual de estas es una fraccion equivalente a 1/2?
@@ -83,11 +83,11 @@ Fracciones equivalentes representan la misma cantidad. 1/2 = 2/4 = 3/6 = 4/8. To
 
 ---
 ## Question 4 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v4`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.85
-**Context:** En Colegio San Bartolome de Bogota
+**Context:** En Instituto Tecnico Industrial de Cartagena
 
 ### Enunciado
 Cuantos vertices tiene un cuadrado?
@@ -103,11 +103,11 @@ Vertices: puntos donde se unen los lados. Cuadrado: 4 vertices.
 
 ---
 ## Question 5 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v5`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.82
-**Context:** En Inem Santiago Perez de Armenia de Ibague
+**Context:** En Colegio San Bartolome de Cartagena
 
 ### Enunciado
 Si son las 3:00, que hora es?
@@ -123,11 +123,11 @@ Cuando el minutero esta en el 12, es la hora en punto. 3:00 = las 3 en punto.
 
 ---
 ## Question 6 [D5-D6]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v6`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.8
-**Context:** En Colegio La Salle de Medellin de Sincelejo
+**Context:** En Colegio San Agustin de Sincelejo de Popayan
 
 ### Enunciado
 Si en una bolsa hay 3 canicas rojas y 1 azul, cual color es MAS PROBABLE de sacar?
@@ -143,11 +143,11 @@ A mayor cantidad de un color, mayor probabilidad de sacarlo. 3/4 roja vs 1/4 azu
 
 ---
 ## Question 7 [D5-D6]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v7`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.77
-**Context:** En Colegio San Agustin de Sincelejo de Popayan
+**Context:** En Inem Santiago Perez de Armenia de Barranquilla
 
 ### Enunciado
 Cual es el MENOR? 234, 243, 324, 342
@@ -163,11 +163,11 @@ Compara centenas primero. 234 y 243 tienen 2 centenas. Entre ellos, 3 < 4 decena
 
 ---
 ## Question 8 [D5-D6]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v8`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.75
-**Context:** En Inem Santiago Perez de Armenia de Manizales
+**Context:** En Colegio San Francisco de Asis de Popayan de Bucaramanga
 
 ### Enunciado
 Doña Maria compra 3kg papa a $1.200/kg y 2kg cebolla a $800/kg. Cuanto paga?
@@ -183,11 +183,11 @@ Papas:3x1.200=3.600. Cebollas:2x800=1.600. Total:3.600+1.600=5.200.
 
 ---
 ## Question 9 [D3-D4]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v9`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.72
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Pasto
+**Context:** En Instituto Tecnico Industrial de Cartagena
 
 ### Enunciado
 En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
@@ -203,11 +203,11 @@ En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 
 ---
 ## Question 10 [D3-D4]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v10`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v10`
 **Bloom:** Remember
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.7
-**Context:** En Colegio Nuestra Senora del Rosario de Bogota
+**Context:** En Colegio San Bartolome de Neiva
 
 ### Enunciado
 Que fraccion representa 1 de 4 partes iguales de una pizza?
@@ -223,11 +223,11 @@ Fraccion como parte de un todo: numerador (partes que tomamos) / denominador (to
 
 ---
 ## Question 11 [D3-D4]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v11`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Razonamiento Logico
 **Expected_Success:** 0.67
-**Context:** En Colegio San Bartolome de Neiva
+**Context:** En Colegio San Luis Gonzaga de Manizales de Medellin
 
 ### Enunciado
 Que figura geometrica tiene 4 lados iguales?
@@ -243,11 +243,11 @@ Cuadrado: 4 lados iguales, 4 esquinas (vertices).
 
 ---
 ## Question 12 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v12`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v12`
 **Bloom:** Apply
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.65
-**Context:** En Colegio Simon Bolivar de Bucaramanga de Neiva
+**Context:** En Gimnasio Campestre de Tunja de Pasto
 
 ### Enunciado
 Cuantos dias tiene una semana?
@@ -263,11 +263,11 @@ Semana: lunes, martes, miercoles, jueves, viernes, sabado, domingo = 7 dias.
 
 ---
 ## Question 13 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v13`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v13`
 **Bloom:** Analyze
 **ICFES:** Comunicacion y Representacion
 **Expected_Success:** 0.62
-**Context:** En Colegio San Bartolome de Ibague
+**Context:** En Colegio San Bartolome de Tunja
 
 ### Enunciado
 Cual de estos eventos es IMPOSIBLE?
@@ -283,11 +283,11 @@ Evento imposible = no puede ocurrir jamas. Llover caramelos va contra las leyes 
 
 ---
 ## Question 14 [D4-D5]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v14`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v14`
 **Bloom:** Evaluate
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.6
-**Context:** En Colegio San Francisco de Asis de Popayan de Bogota
+**Context:** En Liceo Nacional San Mateo de Armenia
 
 ### Enunciado
 Que numero esta ANTES de 500?
@@ -303,11 +303,11 @@ El numero anterior es uno menos: 500 - 1 = 499.
 
 ---
 ## Question 15 [D5-D6]
-**ID:** `CO-MAT-3-2026-P1-numeros-hasta-1000-001-MASTERY-v15`
+**ID:** `CO-MAT-3-2026-P3-fracciones-y-geometria-001-MASTERY-v15`
 **Bloom:** Remember
 **ICFES:** Solucion de Problemas
 **Expected_Success:** 0.57
-**Context:** En Colegio Nuestra Senora del Rosario de Neiva
+**Context:** En Colegio San Francisco de Asis de Popayan de Armenia
 
 ### Enunciado
 Si 345 + 200 = 545, cuanto es 545 - 200?
