@@ -12,7 +12,7 @@ bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Organismos internacionales: ONU, OEA, Unicef, Cruz Roja, Banco Mundial, FMI"
+rubric_baseline: "Organismos internacionales: ONU, OEA, UNICEF, derechos humanos"
 ---
 
 ## Pregunta 1 [D1]
@@ -20,19 +20,19 @@ rubric_baseline: "Organismos internacionales: ONU, OEA, Unicef, Cruz Roja, Banco
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Qué significan las siglas ONU?
+Que significa ONU?
 
 ### Opciones
-- [ ] A) Organización Nacional de Universidades <!-- feedback: Incorrecto. No es una organización educativa. -->
-- [x] B) Organización de las Naciones Unidas <!-- feedback: Correcto. Es la organización internacional más importante del mundo. -->
-- [ ] C) Organización de Nuevos Unificados <!-- feedback: Incorrecto. No es el nombre correcto. -->
-- [ ] D) Organización de Naciones Ultramarinas <!-- feedback: Incorrecto. El nombre correcto es Organización de las Naciones Unidas. -->
+- [ ] A) Organizacion Nacional Unida <!-- feedback: Incorrecto. -->
+- [x] B) Organizacion de las Naciones Unidas <!-- feedback: Correcto. -->
+- [ ] C) Orden Natural Universal <!-- feedback: Incorrecto. -->
+- [ ] D) Oficina Nacional de Uso <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La ONU es la organización internacional más grande del mundo. Fue fundada en 1945 después de la Segunda Guerra Mundial para mantener la paz y la seguridad internacional. Actualmente tiene 193 países miembros, incluyendo Colombia.
+La ONU fue fundada en 1945 despues de la Segunda Guerra Mundial para mantener la paz y seguridad internacional.
 
 ---
 
@@ -41,186 +41,186 @@ La ONU es la organización internacional más grande del mundo. Fue fundada en 1
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Qué significan las siglas OEA?
+Cuantos paises son miembros de la ONU?
 
 ### Opciones
-- [ ] A) Organización de Estados Africanos <!-- feedback: Incorrecto. Esa es la Unión Africana. -->
-- [x] B) Organización de los Estados Americanos <!-- feedback: Correcto. Es la organización regional de América. -->
-- [ ] C) Organización Europea de Ayuda <!-- feedback: Incorrecto. No es europea. -->
-- [ ] D) Organización de Empresas Asociadas <!-- feedback: Incorrecto. No tiene nada que ver. -->
+- [ ] A) 100 <!-- feedback: Incorrecto. -->
+- [x] B) 193 <!-- feedback: Correcto. Casi todos los paises del mundo. -->
+- [ ] C) 50 <!-- feedback: Incorrecto. -->
+- [ ] D) 300 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La OEA es la organización regional más importante del continente americano. Fue fundada en 1948 y tiene 35 estados miembros. Su sede está en Washington D.C. y promueve la democracia, los derechos humanos y el desarrollo en América.
+La ONU tiene 193 Estados miembros. Colombia es miembro fundador desde 1945.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v3`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Cuál es la función principal de la ONU?
+Que funcion principal tiene la ONU?
 
 ### Opciones
-- [ ] A) Organizar los Juegos Olímpicos <!-- feedback: Incorrecto. Eso lo hace el COI. -->
-- [x] B) Mantener la paz y la seguridad internacional, promover los derechos humanos y el desarrollo <!-- feedback: Correcto. Son sus tres pilares fundamentales. -->
-- [ ] C) Regular el comercio mundial <!-- feedback: Incorrecto. Eso es función de la OMC. -->
-- [ ] D) Prestar dinero a los países <!-- feedback: Incorrecto. Esa es función del Banco Mundial y el FMI. -->
+- [ ] A) Gobernar todos los paises <!-- feedback: Incorrecto. -->
+- [x] B) Mantener la paz y seguridad internacional, promover derechos humanos y desarrollo <!-- feedback: Correcto. -->
+- [ ] C) Recaudar impuestos mundiales <!-- feedback: Incorrecto. -->
+- [ ] D) Organizar guerras <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La ONU tiene varios objetivos principales: mantener la paz mundial, promover el respeto a los derechos humanos, fomentar el desarrollo económico y social, y ser un espacio de diálogo entre las naciones.
+La ONU busca prevenir conflictos, proteger los derechos humanos, promover el desarrollo sostenible.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Qué organismo internacional se encarga de proteger a los niños y niñas del mundo?
+Que es UNICEF?
 
 ### Opciones
-- [ ] A) La OMS <!-- feedback: Incorrecto. La OMS se enfoca en la salud en general. -->
-- [x] B) UNICEF <!-- feedback: Correcto. UNICEF trabaja por los derechos de la infancia. -->
-- [ ] C) La FAO <!-- feedback: Incorrecto. La FAO se enfoca en la alimentación y la agricultura. -->
-- [ ] D) La UNESCO <!-- feedback: Incorrecto. La UNESCO se enfoca en educación, ciencia y cultura. -->
+- [ ] A) Un partido politico <!-- feedback: Incorrecto. -->
+- [x] B) El Fondo de las Naciones Unidas para la Infancia <!-- feedback: Correcto. Protege los derechos de los ninos. -->
+- [ ] C) Un banco <!-- feedback: Incorrecto. -->
+- [ ] D) Un ejercito <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-UNICEF (Fondo de las Naciones Unidas para la Infancia) trabaja en más de 190 países para proteger los derechos de los niños: educación, salud, nutrición, protección contra la violencia y acceso al agua potable.
+UNICEF trabaja en todo el mundo para proteger los derechos de los ninos: educacion, salud, nutricion.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v5`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Cuál es el símbolo más conocido de la Cruz Roja Internacional?
+Que es la OEA?
 
 ### Opciones
-- [ ] A) Una bandera azul con estrellas <!-- feedback: Incorrecto. Esa no es la Cruz Roja. -->
-- [x] B) Una cruz roja sobre fondo blanco <!-- feedback: Correcto. Es el símbolo internacional de ayuda humanitaria. -->
-- [ ] C) Una paloma blanca <!-- feedback: Incorrecto. La paloma simboliza la paz, pero no es el logo de la Cruz Roja. -->
-- [ ] D) Un corazón rojo <!-- feedback: Incorrecto. No es el símbolo de la Cruz Roja. -->
+- [x] A) Organizacion de Estados Americanos <!-- feedback: Correcto. Reune a los paises de America. -->
+- [ ] B) Oficina de Educacion Ambiental <!-- feedback: Incorrecto. -->
+- [ ] C) Organizacion Europea <!-- feedback: Incorrecto. -->
+- [ ] D) Orden de Estados Africanos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Cruz Roja Internacional fue fundada en 1863. Su misión es proteger la vida y la dignidad de las personas afectadas por conflictos armados y emergencias. No toma partido en las guerras, solo ayuda a los heridos y necesitados.
+La OEA fue fundada en 1948 (Bogota) y reune a 35 paises de America.
 
 ---
 
-## Pregunta 6 [D2]
+## Pregunta 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Si en Colombia ocurre un terremoto y llega ayuda de otros países organizada por la ONU, ¿qué organismo coordinaría la ayuda humanitaria?
+Que es la Declaracion Universal de los Derechos Humanos?
 
 ### Opciones
-- [ ] A) La OEA <!-- feedback: Incorrecto. La OEA es política, no de ayuda humanitaria directa. -->
-- [x] B) La Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) <!-- feedback: Correcto. OCHA coordina la respuesta humanitaria. -->
-- [ ] C) El Banco Mundial <!-- feedback: Incorrecto. El Banco Mundial presta dinero, no coordina ayuda humanitaria. -->
-- [ ] D) La FIFA <!-- feedback: Incorrecto. La FIFA organiza fútbol. -->
+- [ ] A) Una ley colombiana <!-- feedback: Incorrecto. -->
+- [x] B) Un documento adoptado por la ONU en 1948 que establece los derechos fundamentales de todas las personas <!-- feedback: Correcto. -->
+- [ ] C) Un tratado de comercio <!-- feedback: Incorrecto. -->
+- [ ] D) Un libro de historia <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Las Naciones Unidas tienen varios organismos especializados. En desastres naturales, la OCHA coordina la respuesta humanitaria internacional. También participan UNICEF (para niños), la OMS (para salud) y el PMA (para alimentos).
+La DUDH fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 1948. Establece 30 derechos fundamentales que todos los paises deben respetar.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v7`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto global
+**Context:** Contexto colombiano
 
 ### Enunciado
-Cuál es la diferencia entre la ONU y la OEA?
+Cuales son algunos derechos humanos fundamentales?
 
 ### Opciones
-- [ ] A) Son exactamente iguales <!-- feedback: Incorrecto. Tienen alcances diferentes. -->
-- [x] B) La ONU es mundial; la OEA es solo del continente americano <!-- feedback: Correcto. La OEA es una organización regional dentro del sistema de la ONU. -->
-- [ ] C) La OEA es más importante que la ONU <!-- feedback: Incorrecto. La ONU es la organización global más importante. -->
-- [ ] D) La ONU solo trabaja en Europa <!-- feedback: Incorrecto. La ONU trabaja en todo el mundo. -->
+- [x] A) Derecho a la vida, libertad, igualdad, educacion, salud y trabajo <!-- feedback: Correcto. -->
+- [ ] B) Solo derecho a votar <!-- feedback: Incorrecto. -->
+- [ ] C) Derecho a no pagar impuestos <!-- feedback: Incorrecto. -->
+- [ ] D) Derecho a gobernar siempre <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La ONU es una organización global con 193 países miembros. La OEA es una organización regional que solo incluye países de América (Norte, Centro, Sur y Caribe). La OEA trabaja en coordinación con la ONU pero enfocada en problemas del continente americano.
+La DUDH incluye: derecho a la vida, libertad, igualdad ante la ley, educacion, salud, trabajo, libertad de expresion y mas.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cómo beneficia a Colombia ser miembro de la ONU?
+Que es la UNESCO?
 
 ### Opciones
-- [ ] A) No le da ningún beneficio <!-- feedback: Incorrecto. Los beneficios son múltiples. -->
-- [x] B) Recibe cooperación técnica y financiera, participa en decisiones globales y puede solicitar ayuda humanitaria <!-- feedback: Correcto. Colombia se beneficia de múltiples programas de la ONU. -->
-- [ ] C) Solo paga cuotas sin recibir nada <!-- feedback: Incorrecto. Recibe muchos beneficios por su membresía. -->
-- [ ] D) Puede exigir que le presten dinero sin intereses <!-- feedback: Incorrecto. La ONU no presta dinero. -->
+- [ ] A) Un club deportivo <!-- feedback: Incorrecto. -->
+- [x] B) La Organizacion de la ONU para la Educacion, la Ciencia y la Cultura <!-- feedback: Correcto. -->
+- [ ] C) Un banco <!-- feedback: Incorrecto. -->
+- [ ] D) Un partido politico <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Colombia recibe apoyo de la ONU en áreas como: desarrollo rural (PNUD), protección infantil (UNICEF), salud pública (OPS/OMS), educación (UNESCO) y atención a desplazados (ACNUR). También participa en las misiones de paz de la ONU.
+UNESCO promueve la educacion, la ciencia, la cultura y la comunicacion. Protege el patrimonio cultural de la humanidad (sitios como el Cartagena colonial).
 
 ---
 
-## Pregunta 9 [D3]
+## Pregunta 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Por qué la Cruz Roja Colombiana es importante durante un desastre natural?
+Como contribuye Colombia a los organismos internacionales?
 
 ### Opciones
-- [ ] A) Porque reemplaza al gobierno <!-- feedback: Incorrecto. La Cruz Roja apoya pero no reemplaza al gobierno. -->
-- [x] B) Porque brinda primeros auxilios, refugio, alimentos y atención médica a las víctimas de emergencias <!-- feedback: Correcto. La Cruz Roja es la primera en llegar a las emergencias. -->
-- [ ] C) Porque investiga las causas del desastre <!-- feedback: Incorrecto. Esa función es de los científicos. -->
-- [ ] D) Porque cobra por la ayuda que presta <!-- feedback: Incorrecto. La Cruz Roja es una organización humanitaria que no cobra por su ayuda. -->
+- [ ] A) No participa <!-- feedback: Incorrecto. -->
+- [x] B) Participa activamente en misiones de paz de la ONU, la OEA y la CAN <!-- feedback: Correcto. -->
+- [ ] C) Solo paga cuotas <!-- feedback: Incorrecto. -->
+- [ ] D) Envia solo delegaciones <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Cruz Roja Colombiana es parte del Movimiento Internacional de la Cruz Roja. Sus voluntarios están capacitados para responder a emergencias: avalanchas, terremotos, inundaciones. Brindan ayuda gratuita sin discriminación.
+Colombia es miembro activo de la ONU, OEA, CAN, Alianza del Pacifico. Participa en misiones de paz (como en Sinai) y promueve la agenda 2030.
 
 ---
 
 ## Pregunta 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W36-organismos-internacionales-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
-**Context:** Contexto global
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
+**Context:** Contexto colombiano
 
 ### Enunciado
-Evalúa: ¿Por qué es importante que existan organismos internacionales como la ONU?
+Por que son importantes los organismos internacionales para Colombia?
 
 ### Opciones
-- [ ] A) No son importantes porque los países poderosos hacen lo que quieren <!-- feedback: Incorrecto. Aunque hay limitaciones, los organismos internacionales tienen un papel importante. -->
-- [x] B) Porque promueven la paz, los derechos humanos, la cooperación entre países y ayudan a resolver problemas que ningún país puede resolver solo <!-- feedback: Correcto. Los problemas globales necesitan soluciones globales. -->
-- [ ] C) Solo sirven para que los políticos viajen y gasten dinero <!-- feedback: Incorrecto. Es una visión muy negativa y poco precisa. -->
-- [ ] D) Son innecesarios porque cada país debe resolver sus propios problemas <!-- feedback: Incorrecto. Muchos problemas son globales y requieren cooperación internacional. -->
+- [ ] A) No son importantes <!-- feedback: Incorrecto. -->
+- [x] B) Permiten la cooperacion, la defensa de los derechos humanos, la paz y el desarrollo economico entre paises <!-- feedback: Correcto. -->
+- [ ] C) Gobiernan Colombia <!-- feedback: Incorrecto. -->
+- [ ] D) Impiden el comercio <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Los organismos internacionales son necesarios porque muchos problemas no respetan fronteras: el cambio climático, las pandemias, el terrorismo, el narcotráfico. Ningún país puede resolverlos solo. La cooperación internacional es fundamental para la supervivencia de la humanidad.
+Los organismos internacionales facilitan la cooperacion en temas como paz, derechos humanos, comercio y medio ambiente, fortaleciendo la democracia y el desarrollo.
 
 ---
