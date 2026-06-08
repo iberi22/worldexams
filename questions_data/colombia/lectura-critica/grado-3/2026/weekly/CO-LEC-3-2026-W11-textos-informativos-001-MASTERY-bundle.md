@@ -7,13 +7,13 @@ tema: "textos-informativos"
 periodo: "2026-W11"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 11
 ---
 
 # Bundle Mastery: Textos Informativos
 
-Este bundle evalúa la comprensión de textos informativos: identificar la idea principal, datos importantes y el propósito del texto. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de extraer información de textos no literarios cuyo propósito es informar sobre hechos, animales o lugares de manera objetiva.
 
 ---
 
@@ -24,46 +24,44 @@ Este bundle evalúa la comprensión de textos informativos: identificar la idea 
 **Expected_Success:** 0.90
 
 ### Contexto
-**El oso de anteojos**
-
-El oso de anteojos vive en los bosques de Colombia, especialmente en la Cordillera de los Andes. Se llama así porque tiene manchas blancas alrededor de los ojos que parecen anteojos. Este oso es herbívoro, come frutas, hojas y raíces. Es un animal en peligro de extinción.
+**El Parque Explora**
+El Parque Explora es un centro de ciencia y tecnología ubicado en Medellín, Colombia. Cuenta con un acuario de agua dulce muy grande, un planetario y salas interactivas donde los niños pueden aprender jugando sobre física, biología y astronomía.
 
 ### Enunciado
-¿Dónde vive el oso de anteojos?
+¿En qué ciudad de Colombia se encuentra ubicado el Parque Explora?
 
 ### Options
-- [ ] A) En el mar <!-- feedback: Incorrecto. -->
-- [ ] B) En el desierto <!-- feedback: Incorrecto. -->
-- [x] C) En los bosques de la Cordillera de los Andes <!-- feedback: ¡Correcto! Vive en los bosques de los Andes colombianos. -->
-- [ ] D) En la selva amazónica <!-- feedback: Incorrecto. -->
+- [ ] A) En Bogotá. <!-- feedback: Incorrecto. El texto dice que está ubicado en Medellín. -->
+- [x] B) En Medellín. <!-- feedback: ¡Correcto! El texto informativo proporciona este dato específico al inicio del párrafo. -->
+- [ ] C) En Cali. <!-- feedback: Incorrecto. No se menciona la ciudad de Cali en este texto. -->
+- [ ] D) En Cartagena. <!-- feedback: Incorrecto. Medellín es la ubicación correcta según la lectura. -->
 
 ### Explicación Pedagógica
-El texto informativo dice que el oso de anteojos vive en los bosques de la Cordillera de los Andes en Colombia.
+La localización de datos específicos es la base de la comprensión de textos informativos. Identificar el lugar (Medellín) permite al estudiante verificar que ha comprendido la información puntual que el texto pretende comunicar de forma directa.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-v2`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**El cóndor de los Andes**
-
-El cóndor es el ave voladora más grande del mundo. Vive en las montañas más altas de los Andes. Puede medir hasta 3 metros con las alas abiertas. Se alimenta de animales muertos. En Colombia, se puede ver en el Parque Nacional Natural Nevado del Huila.
+**La Palma de Cera**
+La Palma de Cera del Quindío es el árbol nacional de Colombia. Puede llegar a medir hasta 60 metros de altura y vive principalmente en el Valle de Cocora. Sus hojas son de color verde oscuro y su tronco es liso y cubierto de cera.
 
 ### Enunciado
-¿Qué come el cóndor de los Andes?
+¿Cuál es la función principal de este texto?
 
 ### Options
-- [ ] A) Frutas y verduras <!-- feedback: Incorrecto. -->
-- [x] B) Animales muertos <!-- feedback: ¡Correcto! El cóndor se alimenta de animales muertos. -->
-- [ ] C) Pescado <!-- feedback: Incorrecto. -->
-- [ ] D) Semillas <!-- feedback: Incorrecto. -->
+- [ ] A) Contar un cuento de fantasía sobre un árbol que habla. <!-- feedback: Incorrecto. El texto no narra una historia, sino que da datos reales. -->
+- [x] B) Dar información real y objetiva sobre la Palma de Cera. <!-- feedback: ¡Correcto! Es un texto informativo porque su intención es enseñar características reales de un ser vivo. -->
+- [ ] C) Expresar sentimientos de amor hacia la naturaleza. <!-- feedback: Incorrecto. Aunque es un tema positivo, el lenguaje es técnico e informativo, no poético. -->
+- [ ] D) Convencer a la gente de comprar palmas de cera. <!-- feedback: Incorrecto. No es un anuncio publicitario, sino una descripción científica básica. -->
 
 ### Explicación Pedagógica
-El texto informativo dice: "Se alimenta de animales muertos." Eso significa que es carroñero.
+Diferenciar la intención comunicativa es clave en tercer grado. El estudiante debe distinguir entre un texto que busca informar (informativo) y uno que busca entretener (narrativo) o persuadir (apelativo).
 
 ---
 
@@ -74,46 +72,46 @@ El texto informativo dice: "Se alimenta de animales muertos." Eso significa que 
 **Expected_Success:** 0.80
 
 ### Contexto
-**La guadua**
-
-La guadua es un tipo de bambú que crece en Colombia. Es muy resistente y se usa para construir casas, muebles y puentes. Crece rápido, hasta 10 centímetros por día. En el Eje Cafetero, muchas viviendas están hechas de guadua. También es buena para el medio ambiente porque limpia el aire.
+"Los colibríes son aves muy pequeñas que se alimentan del néctar de las flores. En Colombia existen más de 150 especies diferentes. Estas aves pueden batir sus alas hasta 80 veces por segundo, lo que les permite quedarse quietas en el aire".
 
 ### Enunciado
-¿Cuál es una característica importante de la guadua?
+Según el texto, ¿qué les permite a los colibríes mantenerse quietos en el aire mientras vuelan?
 
 ### Options
-- [ ] A) Es muy débil <!-- feedback: Incorrecto. -->
-- [x] B) Es muy resistente y crece rápido <!-- feedback: ¡Correcto! La guadua es resistente y crece hasta 10 cm por día. -->
-- [ ] C) Solo sirve para decorar <!-- feedback: Incorrecto. -->
-- [ ] D) Crece solo en el mar <!-- feedback: Incorrecto. -->
+- [ ] A) El color de sus plumas brillantes. <!-- feedback: Incorrecto. El color no influye en la forma de volar. -->
+- [ ] B) El tipo de flores de las que se alimentan. <!-- feedback: Incorrecto. La comida les da energía, pero no es la razón mecánica de su vuelo. -->
+- [x] C) La rapidez con la que baten sus alas (80 veces por segundo). <!-- feedback: ¡Correcto! El texto establece una relación directa entre el batido rápido de alas y su capacidad de sostenerse en el aire. -->
+- [ ] D) El tamaño tan pequeño de su cuerpo. <!-- feedback: Incorrecto. Aunque son pequeños, el texto destaca el movimiento de las alas como la causa de su estabilidad. -->
 
 ### Explicación Pedagógica
-El texto dice que la guadua "es muy resistente" y "crece rápido, hasta 10 centímetros por día."
+Identificar relaciones de causa y efecto en un texto informativo ayuda a profundizar en la comprensión. El estudiante debe conectar el dato numérico (80 veces por segundo) con la habilidad física del ave.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**El río Amazonas**
-
-El río Amazonas es el río más caudaloso del mundo. Nace en Perú y atraviesa Colombia y Brasil antes de llegar al océano Atlántico. En Colombia, pasa por el departamento del Amazonas. A su alrededor hay una selva muy grande con muchos animales como delfines rosados, jaguares y guacamayas.
+**Aviso Informativo en el Zoológico:**
+"HORARIO DE ALIMENTACIÓN DE LOS MONOS:
+- Mañana: 9:30 a.m.
+- Tarde: 3:30 p.m.
+Favor no darles comida extra, pues tienen una dieta especial controlada por veterinarios".
 
 ### Enunciado
-¿Por qué es famoso el río Amazonas?
+Si un visitante llega al zoológico a las **10:30 a.m.**, ¿qué acaba de ocurrir hace una hora?
 
 ### Options
-- [ ] A) Por ser el más largo del mundo <!-- feedback: Incorrecto. El texto no dice eso. -->
-- [x] B) Por ser el más caudaloso del mundo <!-- feedback: ¡Correcto! El texto dice que es el río más caudaloso. -->
-- [ ] C) Por ser el más frío del mundo <!-- feedback: Incorrecto. -->
-- [ ] D) Por ser el más corto del mundo <!-- feedback: Incorrecto. -->
+- [ ] A) Los veterinarios se fueron a descansar. <!-- feedback: Incorrecto. No hay información sobre el descanso de los veterinarios. -->
+- [x] B) Los monos recibieron su alimentación de la mañana. <!-- feedback: ¡Correcto! Si son las 10:30, la alimentación de las 9:30 pasó exactamente hace una hora. -->
+- [ ] C) Los monos están recibiendo su comida de la tarde. <!-- feedback: Incorrecto. La comida de la tarde es a las 3:30 p.m. -->
+- [ ] D) El zoológico cerró sus puertas. <!-- feedback: Incorrecto. El texto no menciona la hora de cierre. -->
 
 ### Explicación Pedagógica
-"caudaloso" significa que lleva mucha agua. El texto dice que el Amazonas es el río más caudaloso del mundo.
+Este ejercicio combina la lectura de tablas o listas informativas con el razonamiento temporal. Extraer información y aplicarla a una situación hipotética es una habilidad de nivel aplicado.
 
 ---
 
@@ -124,93 +122,90 @@ El río Amazonas es el río más caudaloso del mundo. Nace en Perú y atraviesa 
 **Expected_Success:** 0.70
 
 ### Contexto
-**El café colombiano**
-
-Colombia es famosa por su café. El café se cultiva en la zona andina, especialmente en el Eje Cafetero (Caldas, Quindío y Risaralda). La planta del café se llama cafeto y produce unas frutas rojas llamadas cerezas. Dentro de cada cereza hay dos semillas: los granos de café. Colombia produce uno de los cafés más suaves del mundo.
+**Ficha Técnica: El Café de Colombia**
+- **Origen:** Zonas montañosas (Eje Cafetero, Huila, Santander).
+- **Proceso:** Recolección manual, lavado y secado al sol.
+- **Sabor:** Suave con aroma pronunciado.
+- **Exportación:** Se envía a más de 80 países en el mundo.
 
 ### Enunciado
-¿Cómo se llaman las frutas que produce el cafeto?
+Si una persona quiere saber **cómo se prepara el café para la venta** después de ser cultivado, ¿en qué parte de la ficha debe mirar?
 
 ### Options
-- [ ] A) Granos <!-- feedback: Incorrecto. Los granos están dentro de las frutas. -->
-- [ ] B) Café <!-- feedback: Incorrecto. -->
-- [x] C) Cerezas <!-- feedback: ¡Correcto! El cafeto produce frutas rojas llamadas cerezas. -->
-- [ ] D) Semillas <!-- feedback: Incorrecto. -->
+- [ ] A) En el Origen. <!-- feedback: Incorrecto. Ahí solo dice de dónde viene geográficamente. -->
+- [x] B) En el Proceso. <!-- feedback: ¡Correcto! El proceso explica los pasos (recolección, lavado, secado) para prepararlo. -->
+- [ ] C) En el Sabor. <!-- feedback: Incorrecto. El sabor describe cómo se siente al tomarlo, no cómo se hizo. -->
+- [ ] D) En la Exportación. <!-- feedback: Incorrecto. La exportación habla de a dónde se envía después de estar listo. -->
 
 ### Explicación Pedagógica
-El texto explica que el cafeto produce "unas frutas rojas llamadas cerezas" y que dentro están los granos.
+Reconocer la estructura de una ficha técnica o infografía permite al estudiante navegar la información de forma eficiente. Saber bajo qué subtítulo se encuentra cada dato es una habilidad organizativa de la lectura.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Los frailejones**
-
-Los frailejones son plantas que solo crecen en los páramos de Colombia, Ecuador y Venezuela. Tienen hojas peludas que les ayudan a retener el agua. Son muy importantes porque absorben el agua de la niebla y la liberan poco a poco en los ríos. Sin los frailejones, los páramos no podrían guardar agua. Colombia tiene el 50% de los páramos del mundo.
+"El agua es un recurso vital para la vida en el planeta. Se encuentra en océanos, ríos, glaciares y lagunas. Aunque la mayor parte de la Tierra está cubierta de agua, solo una pequeña porción es apta para el consumo humano (agua dulce)".
 
 ### Enunciado
-¿Por qué son importantes los frailejones?
+¿Cuál es la idea principal de este párrafo?
 
 ### Options
-- [ ] A) Porque son muy bonitos <!-- feedback: Incorrecto. -->
-- [x] B) Porque absorben agua de la niebla y alimentan los ríos <!-- feedback: ¡Correcto! Los frailejones guardan agua y la liberan en los ríos. -->
-- [ ] C) Porque dan frutas ricas <!-- feedback: Incorrecto. -->
-- [ ] D) Porque dan sombra <!-- feedback: Incorrecto. -->
+- [ ] A) Los océanos son muy grandes y profundos. <!-- feedback: Incorrecto. Esto es un detalle, pero no la idea que resume todo el texto. -->
+- [x] B) La importancia del agua y su limitada disponibilidad para los humanos. <!-- feedback: ¡Correcto! El texto destaca que es vital pero que solo una parte se puede consumir. -->
+- [ ] C) El agua dulce se encuentra en los glaciares. <!-- feedback: Incorrecto. Es un dato presente, pero no resume la intención total del párrafo. -->
+- [ ] D) Todos los animales necesitan beber agua. <!-- feedback: Incorrecto. Aunque es cierto, el texto no se enfoca en los animales, sino en el recurso agua en general. -->
 
 ### Explicación Pedagógica
-El texto explica que los frailejones "absorben el agua de la niebla y la liberan poco a poco en los ríos."
+Identificar la idea principal en textos expositivos cortos ayuda al estudiante a sintetizar lo leído y a comprender el propósito global del autor, separando lo esencial de los detalles secundarios.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-v7`
-**Bloom:** Apply
+**Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**El Carnaval de Barranquilla**
-
-El Carnaval de Barranquilla es una de las fiestas más importantes de Colombia. Se celebra en febrero o marzo, antes de la Cuaresma. En el carnaval hay desfiles, música y bailes tradicionales como la cumbia y el mapalé. La gente usa disfraces coloridos. En 2003, la Unesco declaró el Carnaval de Barranquilla como Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad.
+**Texto A:** "El Sol es una estrella de tipo espectral G2 que se encuentra en el centro de nuestro sistema planetario".
+**Texto B:** "El Sol brillaba como una moneda de oro en medio del cielo azul, saludando a los niños que salían a jugar".
 
 ### Enunciado
-¿Cuál es el tema principal de este texto?
+¿Cuál de los dos textos es un **texto informativo** y por qué?
 
 ### Options
-- [ ] A) Los disfraces de Colombia <!-- feedback: Incorrecto. Solo es una parte del texto. -->
-- [ ] B) La música colombiana <!-- feedback: Incorrecto. -->
-- [x] C) El Carnaval de Barranquilla y su importancia <!-- feedback: ¡Correcto! El texto explica qué es el carnaval y por qué es importante. -->
-- [ ] D) La Unesco <!-- feedback: Incorrecto. Solo se menciona al final. -->
+- [ ] A) El Texto B, porque es más bonito y usa comparaciones. <!-- feedback: Incorrecto. El uso de comparaciones ("como moneda de oro") es típico de textos literarios, no informativos. -->
+- [x] B) El Texto A, porque usa lenguaje preciso y científico para dar datos reales. <!-- feedback: ¡Correcto! El texto informativo evita adornos y se centra en hechos verificables (estrella tipo G2). -->
+- [ ] C) Ambos son informativos porque hablan del Sol. <!-- feedback: Incorrecto. Hablar de un tema real no hace que el texto sea informativo; lo que importa es cómo se dice. -->
+- [ ] D) Ninguno, porque el Sol es un tema de la naturaleza. <!-- feedback: Incorrecto. Los temas de la naturaleza son perfectos para textos informativos científicos. -->
 
 ### Explicación Pedagógica
-El tema principal es el Carnaval de Barranquilla: cuándo es, qué se hace y por qué es importante para el mundo.
+Contrastar tipos de textos sobre un mismo tema permite al estudiante identificar las marcas lingüísticas de la objetividad (datos científicos) frente a la subjetividad (metáforas y sentimientos).
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W11-textos-informativos-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Semántico
+**Bloom:** Analyze
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**El delfín rosado**
-
-El delfín rosado vive en los ríos de la Amazonía colombiana. Es diferente al delfín del mar porque tiene el hocico más largo y su color puede cambiar de gris a rosado. Puede nadar entre los árboles cuando el río crece. Se alimenta de peces pequeños. Está en peligro por la contaminación de los ríos.
+Un folleto informativo sobre salud dice: "Para evitar enfermedades, lávate las manos con agua y jabón antes de comer y después de ir al baño. Así eliminarás los microbios que no puedes ver".
 
 ### Enunciado
-¿En qué se diferencia el delfín rosado del delfín de mar?
+¿A qué conclusión llegas sobre los microbios después de leer el texto?
 
 ### Options
-- [ ] A) En que es más pequeño <!-- feedback: Incorrecto. -->
-- [x] B) En que tiene el hocico más largo y cambia de color <!-- feedback: ¡Correcto! El texto menciona esas dos diferencias. -->
-- [ ] C) En que nada más rápido <!-- feedback: Incorrecto. -->
-- [ ] D) En que vive en el mar <!-- feedback: Incorrecto. Vive en el río. -->
+- [ ] A) Que son animales grandes que podemos atrapar. <!-- feedback: Incorrecto. El texto dice que "no puedes ver", lo que indica que son minúsculos. -->
+- [ ] B) Que solo aparecen si no usamos jabón. <!-- feedback: Incorrecto. Los microbios están ahí, el jabón es para eliminarlos. -->
+- [x] C) Que son peligrosos para la salud pero fáciles de combatir con limpieza. <!-- feedback: ¡Correcto! Causan enfermedades y el texto da una instrucción sencilla para evitarlas. -->
+- [ ] D) Que el agua sola es suficiente para eliminarlos. <!-- feedback: Incorrecto. El texto especifica "agua y jabón" para que sea efectivo. -->
 
 ### Explicación Pedagógica
-El texto menciona dos diferencias clave: "tiene el hocico más largo" y "puede cambiar de color de gris a rosado."
+Extraer conclusiones no explícitas es un nivel de lectura inferencial sobre textos informativos. El estudiante debe entender el riesgo (enfermedad) y la solución (higiene) planteados por el autor.

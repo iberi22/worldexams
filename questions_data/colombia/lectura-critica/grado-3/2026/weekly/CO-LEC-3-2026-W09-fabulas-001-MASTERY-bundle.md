@@ -7,210 +7,195 @@ tema: "fabulas"
 periodo: "2026-W09"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 9
 ---
 
-# Bundle Mastery: Fábulas
+# Bundle Mastery: La Fábula
 
-Este bundle evalúa la comprensión de fábulas, la identificación de la moraleja y el aprendizaje de valores. Contexto colombiano para grado 3.
+Este bundle evalúa la comprensión de fábulas, identificando sus personajes (animales con características humanas), la estructura narrativa y, especialmente, la moraleja o enseñanza final.
 
 ---
 
 ## Question 1 [D1-D2]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v1`
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Semántico
 **Expected_Success:** 0.90
 
 ### Contexto
-**El perro y el hueso**
-
-Un perro cruzaba un puente llevando un hueso en la boca. Al mirar hacia abajo, vio su propio reflejo en el agua. Creyó que era otro perro con un hueso más grande. Quiso quitarle el hueso a ese otro perro y abrió la boca. Al hacerlo, su hueso cayó al río y lo perdió.
+**La Zorra y las Uvas**
+Una zorra caminaba hambrienta y vio unos hermosos racimos de uvas colgando de una parra. Intentó saltar muchas veces pero no pudo alcanzarlas. Al final, se dio la vuelta y dijo: "No me importa, igual están verdes".
 
 ### Enunciado
-¿Qué tenía el perro en la boca al cruzar el puente?
+¿Cuál es la principal característica de los personajes en una fábula como esta?
 
 ### Options
-- [ ] A) Un pan <!-- feedback: Incorrecto. -->
-- [x] B) Un hueso <!-- feedback: ¡Correcto! El perro llevaba un hueso en la boca. -->
-- [ ] C) Una piedra <!-- feedback: Incorrecto. -->
-- [ ] D) Una flor <!-- feedback: Incorrecto. -->
+- [ ] A) Que son personas reales de la historia de Colombia. <!-- feedback: Incorrecto. Los personajes de las fábulas suelen ser animales. -->
+- [x] B) Que son animales que hablan y actúan como seres humanos. <!-- feedback: ¡Correcto! Esta es la característica principal de la fábula: dar rasgos humanos a los animales. -->
+- [ ] C) Que son monstruos gigantes con poderes mágicos. <!-- feedback: Incorrecto. Esos suelen ser personajes de mitos o leyendas, no de fábulas tradicionales. -->
+- [ ] D) Que son objetos inanimados que no se mueven. <!-- feedback: Incorrecto. Los personajes de la fábula tienen mucha acción y sentimientos. -->
 
 ### Explicación Pedagógica
-El primer párrafo dice: "Un perro cruzaba un puente llevando un hueso en la boca." Ese es el dato clave.
+La personificación de animales es el rasgo distintivo de la fábula. Identificar esto ayuda al estudiante a diferenciar este género de otros tipos de textos narrativos como el cuento realista o la noticia.
 
 ---
 
 ## Question 2 [D1-D2]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v2`
-**Bloom:** Remember
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v2`
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**La zorra y las uvas**
-
-Una zorra caminaba por un camino de tierra en el campo colombiano. Vio un racimo de uvas colgando de una parra muy alta. La zorra saltó una y otra vez para alcanzar las uvas, pero no pudo. Cansada, se fue diciendo: "Están verdes, no me gustan."
+En la fábula de "El León y el Ratón", el pequeño ratón le pide perdón al león para que no lo coma, prometiendo que algún día le devolverá el favor. El león se ríe pensando que un animal tan pequeño nunca podrá ayudar a un rey como él.
 
 ### Enunciado
-¿Por qué la zorra no pudo alcanzar las uvas?
+¿Por qué el león se ríe del ratón al principio de la historia?
 
 ### Options
-- [ ] A) Porque eran muy pequeñas <!-- feedback: Incorrecto. -->
-- [ ] B) Porque no tenía hambre <!-- feedback: Incorrecto. -->
-- [x] C) Porque la parra estaba muy alta <!-- feedback: ¡Correcto! Las uvas colgaban de una parra muy alta y no las alcanzó. -->
-- [ ] D) Porque estaban verdes <!-- feedback: Incorrecto. Ella dijo eso al final, pero no es por lo que no las alcanzó. -->
+- [ ] A) Porque el ratón le contó un chiste muy bueno. <!-- feedback: Incorrecto. Se ríe por la idea de que el ratón pueda ayudarle algún día. -->
+- [x] B) Porque cree que por ser pequeño, el ratón es débil e inútil. <!-- feedback: ¡Correcto! El león subestima al ratón basándose solo en su tamaño físico. -->
+- [ ] C) Porque el ratón tiene una voz muy graciosa. <!-- feedback: Incorrecto. El texto se enfoca en la diferencia de poder y tamaño. -->
+- [ ] D) Porque el león es muy simpático con todos. <!-- feedback: Incorrecto. Al principio el león se muestra soberbio y superior. -->
 
 ### Explicación Pedagógica
-El texto dice que la parra estaba "muy alta" y la zorra saltó "una y otra vez" sin poder alcanzarlas.
+Comprender las motivaciones y actitudes de los personajes ayuda a seguir la trama de la fábula. En este caso, la soberbia del león es el punto de partida para la enseñanza final.
 
 ---
 
 ## Question 3 [D2-D3]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v3`
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Inferencial
+**ICFES:** Semántico
 **Expected_Success:** 0.80
 
 ### Contexto
-**La cigarra y la hormiga**
-
-Durante el verano, la cigarra cantaba y jugaba sin parar. Mientras tanto, la hormiga trabajaba guardando granos de maíz en su hormiguero. Cuando llegó el invierno, la cigarra no tenía comida y fue a pedirle a la hormiga. La hormiga le dijo: "Mientras yo trabajaba, tú cantabas. Ahora tendrás que aprender que el trabajo es importante."
+Al final de la fábula del León y el Ratón, el león queda atrapado en una red de cazadores. El ratón aparece y con sus dientes filosos corta las cuerdas, liberando al gran felino.
 
 ### Enunciado
-¿Qué hizo la hormiga mientras la cigarra cantaba?
+¿Qué demuestra la acción final del ratón?
 
 ### Options
-- [ ] A) Cantaba también <!-- feedback: Incorrecto. -->
-- [ ] B) Dormía <!-- feedback: Incorrecto. -->
-- [x] C) Trabajaba guardando comida <!-- feedback: ¡Correcto! La hormiga guardaba granos de maíz para el invierno. -->
-- [ ] D) Jugaba <!-- feedback: Incorrecto. -->
+- [ ] A) Que el ratón quería comerse la red. <!-- feedback: Incorrecto. Lo hizo para salvar al león como prometió. -->
+- [ ] B) Que los cazadores no saben hacer nudos fuertes. <!-- feedback: Incorrecto. El éxito se debe a la habilidad y lealtad del ratón. -->
+- [x] C) Que nadie es tan pequeño que no pueda ayudar a otro. <!-- feedback: ¡Correcto! Esta es la idea central que resuelve el conflicto de la fábula. -->
+- [ ] D) Que el león es muy pesado para la red. <!-- feedback: Incorrecto. La red lo sostenía bien hasta que el ratón la rompió. -->
 
 ### Explicación Pedagógica
-La fábula dice que mientras la cigarra cantaba, la hormiga "trabajaba guardando granos de maíz en su hormiguero".
+Relacionar el desenlace con el conflicto inicial permite al estudiante extraer la lógica de la historia. La acción del ratón valida su promesa y cambia la perspectiva del león.
 
 ---
 
 ## Question 4 [D2-D3]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Inferencial
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v4`
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**El viento y el sol**
-
-El viento y el sol discutían sobre quién era más fuerte. Vieron a un campesino que caminaba por un sendero en Boyacá. El viento dijo: "Yo haré que se quite el abrigo." El viento sopló muy fuerte, pero el campesino se envolvió más en su abrigo. Luego, el sol brilló con toda su fuerza. El campesino sintió calor y se quitó el abrigo.
+"La cigarra pasó todo el verano cantando y disfrutando del sol, mientras la hormiga trabajaba duro guardando comida para el invierno. Cuando llegó el frío, la cigarra no tenía qué comer y fue a pedirle ayuda a la hormiga".
 
 ### Enunciado
-¿Quién logró que el campesino se quitara el abrigo?
+¿Cuál es la **moraleja** o enseñanza que podemos sacar de esta fábula?
 
 ### Options
-- [ ] A) El viento <!-- feedback: Incorrecto. Con el viento el campesino se envolvió más. -->
-- [x] B) El sol <!-- feedback: ¡Correcto! Con el calor del sol, el campesino se quitó el abrigo. -->
-- [ ] C) Los dos <!-- feedback: Incorrecto. Solo el sol lo logró. -->
-- [ ] D) Ninguno <!-- feedback: Incorrecto. -->
+- [ ] A) Que cantar es malo para la salud. <!-- feedback: Incorrecto. El problema no es cantar, sino no prepararse para el futuro. -->
+- [ ] B) Que las hormigas son egoístas por no compartir. <!-- feedback: Incorrecto. Aunque se puede debatir, la fábula clásica critica la pereza de la cigarra. -->
+- [x] C) Que debemos trabajar y esforzarnos hoy para no pasar necesidades mañana. <!-- feedback: ¡Correcto! La previsión y el trabajo duro son los valores que resalta esta fábula. -->
+- [ ] D) Que el invierno es la mejor estación para descansar. <!-- feedback: Incorrecto. El invierno es cuando más se sufre si no se está preparado. -->
 
 ### Explicación Pedagógica
-El viento intentó con fuerza pero no lo logró. El sol, con calor suave, sí consiguió que el campesino se quitara el abrigo.
+La moraleja es el elemento didáctico fundamental de la fábula. Identificarla requiere que el estudiante reflexione sobre las consecuencias de las conductas de los personajes y aplique esa lección a la vida real.
 
 ---
 
 ## Question 5 [D3-D4]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v5`
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Inferencial
+**ICFES:** Semántico
 **Expected_Success:** 0.70
 
 ### Contexto
-**El león y el ratón**
-
-Un león dormía en la selva cuando un ratón pasó corriendo sobre su nariz. El león despertó y atrapó al ratón. El ratón le dijo: "Por favor, déjame ir. Tal vez algún día pueda ayudarte." El león se rió pero lo soltó. Días después, el león quedó atrapado en una red de cazadores. El ratón escuchó sus rugidos, fue corriendo y con sus dientes rompió la red. El león quedó libre.
+En una fábula moderna, un celular y un libro discuten sobre quién es más importante. El celular presume de sus luces y sonidos, pero cuando se queda sin batería en medio del campo, solo el libro puede seguir contando historias al viajero.
 
 ### Enunciado
-¿Qué enseñanza deja esta fábula?
+Si este texto es una fábula, ¿cuál es su **moraleja**?
 
 ### Options
-- [ ] A) Que los ratones son más fuertes que los leones <!-- feedback: Incorrecto. -->
-- [ ] B) Que los leones no deben dormir <!-- feedback: Incorrecto. -->
-- [x] C) Que los pequeños también pueden ayudar a los grandes <!-- feedback: ¡Correcto! El ratón pequeño ayudó al león grande a liberarse. -->
-- [ ] D) Que los cazadores son malos <!-- feedback: Incorrecto. No es la enseñanza principal. -->
+- [ ] A) Que siempre debemos llevar un cargador. <!-- feedback: Incorrecto. Las moralejas hablan de valores, no de consejos técnicos. -->
+- [x] B) Que no debemos presumir de lo que tenemos, pues todo tiene su utilidad según el momento. <!-- feedback: ¡Correcto! Se critica la vanidad del celular y se resalta el valor duradero del libro. -->
+- [ ] C) Que los libros son más pesados que los celulares. <!-- feedback: Incorrecto. Ese es un hecho físico, pero no es una enseñanza moral. -->
+- [ ] D) Que es mejor vivir en la ciudad que en el campo. <!-- feedback: Incorrecto. El lugar es secundario al mensaje sobre los objetos. -->
 
 ### Explicación Pedagógica
-La moraleja de esta fábula es que no debemos subestimar a los demás por su tamaño. Todos podemos ayudar.
+Aplicar el concepto de fábula a temas modernos ayuda a los estudiantes a ver la vigencia del género. La moraleja se extrae de la situación de humildad en la que queda el personaje presumido.
 
 ---
 
 ## Question 6 [D3-D4]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v6`
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**El pastorcito mentiroso**
-
-Un pastorcito cuidaba ovejas en las montañas de Antioquia. Por aburrimiento, empezó a gritar: "¡El lobo! ¡El lobo!" Los vecinos del pueblo corrían a ayudarlo, pero no había ningún lobo. El pastorcito se reía. Un día, el lobo llegó de verdad. El pastorcito gritó: "¡El lobo! ¡Por favor, ayúdenme!" Pero los vecinos pensaron que era otra mentira y no fueron. El lobo se comió varias ovejas.
+"Aquel que mucho abarca, poco aprieta", le dijo el abuelo al niño que intentaba cargar diez naranjas al mismo tiempo y se le caían todas al suelo.
 
 ### Enunciado
-¿Por qué los vecinos no ayudaron al pastorcito cuando llegó el lobo de verdad?
+Esta frase corta que encierra una enseñanza se parece a la moraleja de una fábula. ¿Cómo se le llama también a estas frases?
 
 ### Options
-- [ ] A) Porque estaban ocupados <!-- feedback: Incorrecto. -->
-- [ ] B) Porque no escucharon <!-- feedback: Incorrecto. -->
-- [x] C) Porque pensaron que era otra mentira <!-- feedback: ¡Correcto! Como había mentido antes, ya no le creyeron. -->
-- [ ] D) Porque tenían miedo del lobo <!-- feedback: Incorrecto. -->
+- [ ] A) Poemas. <!-- feedback: Incorrecto. Los poemas suelen ser más largos y buscan la belleza del lenguaje, no solo una enseñanza. -->
+- [x] B) Refranes o dichos populares. <!-- feedback: ¡Correcto! Los refranes son sentencias breves que transmiten sabiduría popular, muy similares a las moralejas. -->
+- [ ] C) Noticias de última hora. <!-- feedback: Incorrecto. Las noticias informan hechos reales recientes. -->
+- [ ] D) Títulos de cuentos. <!-- feedback: Incorrecto. Un título nombra la obra, pero no necesariamente da una enseñanza. -->
 
 ### Explicación Pedagógica
-La fábula nos enseña que si mentimos, la gente deja de creernos. Cuando dijo la verdad, ya nadie confiaba en él.
+Relacionar las moralejas con los refranes ayuda al estudiante a comprender la función social del lenguaje: transmitir valores y consejos de generación en generación de forma breve y memorable.
 
 ---
 
 ## Question 7 [D4-D5]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v7`
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**La liebre y la tortuga**
-
-La liebre siempre se burlaba de la tortuga porque caminaba muy lento. Un día, la tortuga retó a la liebre a una carrera. La liebre aceptó riéndose. Al comenzar la carrera, la liebre salió corriendo y muy pronto iba muy adelante. Creyendo que ya había ganado, se acostó a dormir bajo un árbol. La tortuga siguió caminando sin detenerse. Pasó a la liebre mientras dormía y llegó primera a la meta.
+Imagina una fábula donde un grupo de ovejas decide que ya no necesitan al perro pastor porque "él solo ladra y no nos deja comer tranquilas". Al día siguiente, sin la protección del perro, el lobo entra al rebaño.
 
 ### Enunciado
-¿Cuál fue el error de la liebre?
+¿Cuál fue el error de juicio de las ovejas que dio lugar a la moraleja?
 
 ### Options
-- [ ] A) Correr muy rápido <!-- feedback: Incorrecto. Correr rápido no fue un error. -->
-- [x] B) Confiarse y dormirse <!-- feedback: ¡Correcto! La liebre se confió, se durmió y perdió la carrera. -->
-- [ ] C) Aceptar la carrera <!-- feedback: Incorrecto. -->
-- [ ] D) Burlarse de la tortuga <!-- feedback: Eso no fue cortés pero no le hizo perder la carrera directamente. -->
+- [ ] A) Que el perro ladraba muy fuerte. <!-- feedback: Incorrecto. Eso era una molestia menor comparada con la protección que brindaba. -->
+- [ ] B) Que el pasto no estaba lo suficientemente verde. <!-- feedback: Incorrecto. No es el problema central de la historia. -->
+- [x] C) Valorar más la comodidad del momento que la seguridad necesaria. <!-- feedback: ¡Correcto! Las ovejas no entendieron que el perro, aunque molesto, era su única defensa contra el peligro real (el lobo). -->
+- [ ] D) Que el lobo era amigo del perro. <!-- feedback: Incorrecto. El lobo es el enemigo natural en este tipo de relatos. -->
 
 ### Explicación Pedagógica
-La liebre perdió porque se confió y se durmió. La lección es que la constancia y el esfuerzo valen más que la rapidez.
+Analizar el error de los personajes permite al estudiante profundizar en la comprensión de la fábula. El juicio crítico implica sopesar los beneficios y costos de una decisión, tal como lo hacen los personajes.
 
 ---
 
 ## Question 8 [D4-D5]
-**ID:** `CO-LEC-3-2026-W09-fabulas-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Semántico
+**ID:** `CO-LEC-3-2026-W01-fabulas-001-MASTERY-v8`
+**Bloom:** Evaluate
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**El cuervo y el zorro**
-
-Un cuervo encontró un trozo de queso y se posó en la rama de un árbol. Un zorro que pasaba por allí vio el queso y quiso quitárselo. El zorro le dijo al cuervo: "Señor cuervo, qué hermosas plumas tiene. Seguro que su voz también es hermosa. ¿Podría cantar algo para mí?" El cuervo, halagado, abrió el pico para cantar. El queso cayó al suelo y el zorro lo atrapó y se lo comió.
+Un autor decide escribir una fábula donde el personaje que siempre miente (el pastorcito mentiroso) pide perdón y todos le creen inmediatamente, pero luego él vuelve a mentir y causa un gran desastre.
 
 ### Enunciado
-¿Qué quería realmente el zorro cuando le pidió al cuervo que cantara?
+¿Qué nos enseña esta versión de la historia sobre la **confianza**?
 
 ### Options
-- [ ] A) Escuchar una canción bonita <!-- feedback: Incorrecto. El zorro solo fingía. -->
-- [ ] B) Hacerse amigo del cuervo <!-- feedback: Incorrecto. -->
-- [x] C) Que el cuervo soltara el queso <!-- feedback: ¡Correcto! El zorro lo engañó para que abriera el pico y dejara caer el queso. -->
-- [ ] D) Que el cuervo volara <!-- feedback: Incorrecto. -->
+- [ ] A) Que siempre hay que perdonar a la primera vez. <!-- feedback: Incorrecto. El texto muestra que perdonar sin pruebas llevó a un desastre. -->
+- [x] B) Que la confianza se pierde fácilmente con la mentira y es difícil de recuperar. <!-- feedback: ¡Correcto! La moraleja resalta que mentir daña las relaciones y que la confianza no se recupera solo con pedir perdón. -->
+- [ ] C) Que mentir es una buena forma de llamar la atención. <!-- feedback: Incorrecto. El desastre final demuestra que mentir tiene consecuencias negativas. -->
+- [ ] D) Que los pastores no deben cuidar ovejas. <!-- feedback: Incorrecto. El problema es el carácter del personaje, no su profesión. -->
 
 ### Explicación Pedagógica
-El zorro usó halagos para engañar al cuervo. Solo quería el queso. La moraleja es que no debemos dejarnos engañar por los halagos.
+Evaluar temas abstractos como la "confianza" a través de una narración es un ejercicio de madurez lectora. El estudiante debe juzgar el comportamiento humano representado en la fábula y extraer una conclusión ética.

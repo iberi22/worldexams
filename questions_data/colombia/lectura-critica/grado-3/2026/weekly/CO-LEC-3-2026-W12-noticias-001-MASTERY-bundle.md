@@ -7,13 +7,13 @@ tema: "noticias"
 periodo: "2026-W12"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 12
 ---
 
-# Bundle Mastery: Noticias
+# Bundle Mastery: La Noticia
 
-Este bundle evalúa la comprensión de noticias breves: identificar qué pasó, quiénes participan, dónde y cuándo ocurrió. Contexto colombiano para grado 3.
+Este bundle evalúa la comprensión de noticias cortas, identificando sus partes (titular, cuerpo, imagen) y respondiendo a las preguntas básicas: ¿qué pasó?, ¿quién?, ¿cuándo?, ¿dónde? y ¿por qué?
 
 ---
 
@@ -24,21 +24,20 @@ Este bundle evalúa la comprensión de noticias breves: identificar qué pasó, 
 **Expected_Success:** 0.90
 
 ### Contexto
-**Noticia: Nueva biblioteca en Santa Marta**
-
-SANTA MARTA, 10 de marzo de 2026. El alcalde de Santa Marta inauguró ayer una nueva biblioteca pública en el barrio San Martín. La biblioteca tiene más de 5.000 libros, computadoras y una sala de lectura para niños. Los estudiantes del barrio podrán ir después de sus clases.
+**ESTUDIANTES DE CALI GANAN CONCURSO DE ROBÓTICA**
+Ayer lunes, en la ciudad de Cali, un grupo de cinco estudiantes de tercer grado ganó el primer premio en el Concurso Nacional de Robótica Escolar. Los niños construyeron un robot que ayuda a separar la basura en el salón de clases.
 
 ### Enunciado
-¿Qué abrieron en el barrio San Martín de Santa Marta?
+¿Quiénes son los protagonistas de esta noticia?
 
 ### Options
-- [ ] A) Un parque <!-- feedback: Incorrecto. -->
-- [x] B) Una biblioteca pública <!-- feedback: ¡Correcto! Inauguraron una nueva biblioteca pública. -->
-- [ ] C) Un colegio <!-- feedback: Incorrecto. -->
-- [ ] D) Un hospital <!-- feedback: Incorrecto. -->
+- [ ] A) Los profesores de robótica. <!-- feedback: Incorrecto. La noticia se centra en el logro de los estudiantes. -->
+- [x] B) Un grupo de estudiantes de tercer grado. <!-- feedback: ¡Correcto! La noticia informa sobre el premio que ganaron ellos. -->
+- [ ] C) Los organizadores del concurso. <!-- feedback: Incorrecto. Ellos organizan, pero no son de quienes se habla principalmente. -->
+- [ ] D) Los robots del colegio. <!-- feedback: Incorrecto. El robot es el invento, pero los protagonistas son los niños que lo hicieron. -->
 
 ### Explicación Pedagógica
-La noticia dice: "inauguró una nueva biblioteca pública en el barrio San Martín."
+Identificar al sujeto (quién) de una noticia es fundamental para comprender la información periodística. El estudiante debe localizar a los actores principales de los hechos narrados.
 
 ---
 
@@ -49,21 +48,20 @@ La noticia dice: "inauguró una nueva biblioteca pública en el barrio San Mart�
 **Expected_Success:** 0.85
 
 ### Contexto
-**Noticia: Concurso de cuentos infantiles**
-
-MEDELLÍN, 15 de abril de 2026. La Secretaría de Cultura de Medellín abrió las inscripciones para el Concurso de Cuentos Infantiles. Pueden participar niños de 7 a 12 años. Los cuentos deben tener máximo dos páginas. El ganador recibirá una bicicleta y sus cuentos serán publicados en un libro.
+**NUEVO PARQUE INFANTIL EN BARRANQUILLA**
+Este sábado se inaugurará el "Parque de la Alegría" en el barrio Las Flores. El evento comenzará a las 10:00 de la mañana y contará con la presencia del alcalde. El parque tiene juegos modernos, canchas de fútbol y muchas zonas verdes para las familias.
 
 ### Enunciado
-¿Quiénes pueden participar en el concurso de cuentos?
+¿Cuándo se inaugurará el nuevo parque?
 
 ### Options
-- [ ] A) Adultos de todas las edades <!-- feedback: Incorrecto. -->
-- [ ] B) Solo niños de Medellín <!-- feedback: Incorrecto. -->
-- [x] C) Niños de 7 a 12 años <!-- feedback: ¡Correcto! Pueden participar niños de 7 a 12 años. -->
-- [ ] D) Maestros de escuela <!-- feedback: Incorrecto. -->
+- [ ] A) El próximo lunes. <!-- feedback: Incorrecto. La noticia especifica que será este sábado. -->
+- [x] B) Este sábado a las 10:00 a.m. <!-- feedback: ¡Correcto! El texto da la fecha y hora exacta del evento. -->
+- [ ] C) El viernes por la noche. <!-- feedback: Incorrecto. No coincide con la información del texto. -->
+- [ ] D) Hace una semana. <!-- feedback: Incorrecto. El texto habla de un evento que "se inaugurará" (futuro próximo), no que ya pasó. -->
 
 ### Explicación Pedagógica
-La noticia dice: "Pueden participar niños de 7 a 12 años."
+Localizar datos temporales (cuándo) permite situar la noticia en el tiempo. Esta es una habilidad básica de recuperación de información en textos periodísticos.
 
 ---
 
@@ -74,21 +72,20 @@ La noticia dice: "Pueden participar niños de 7 a 12 años."
 **Expected_Success:** 0.80
 
 ### Contexto
-**Noticia: Tortugas liberadas en el Pacífico**
-
-BUENAVENTURA, 22 de mayo de 2026. La Corporación Autónoma Regional del Valle liberó ayer 200 tortugas marinas en las playas de Buenaventura. Las tortugas fueron cuidadas durante seis meses después de haber sido rescatadas de redes de pesca. Los niños de la escuela local ayudaron a llevar las tortugas al mar.
+**NACEN TRES TIGRES DE BENGALA EN EL ZOOLÓGICO**
+La administración del zoológico anunció con alegría el nacimiento de tres cachorros de tigre de bengala. Los veterinarios informaron que los bebés están en perfecto estado de salud y que por ahora permanecerán bajo el cuidado de su madre en una zona privada antes de ser mostrados al público.
 
 ### Enunciado
-¿Dónde ocurrió la liberación de las tortugas?
+¿Cuál es la **función principal** del título (titular) en esta noticia?
 
 ### Options
-- [ ] A) En Cartagena <!-- feedback: Incorrecto. -->
-- [x] B) En las playas de Buenaventura <!-- feedback: ¡Correcto! Las tortugas fueron liberadas en las playas de Buenaventura. -->
-- [ ] C) En un zoológico <!-- feedback: Incorrecto. -->
-- [ ] D) En un río <!-- feedback: Incorrecto. -->
+- [ ] A) Contar toda la historia con lujo de detalles. <!-- feedback: Incorrecto. El título debe ser corto, los detalles van en el cuerpo. -->
+- [x] B) Resumir lo más importante para llamar la atención del lector. <!-- feedback: ¡Correcto! El titular presenta el hecho principal de forma rápida y atractiva. -->
+- [ ] C) Poner los nombres de los veterinarios. <!-- feedback: Incorrecto. Los nombres no aparecen en el titular. -->
+- [ ] D) Explicar cómo nacieron los tigres. <!-- feedback: Incorrecto. Eso hace parte de la información detallada del cuerpo de la noticia. -->
 
 ### Explicación Pedagógica
-El titular y el primer párrafo indican que la liberación fue en las playas de Buenaventura.
+Comprender la estructura de la noticia incluye reconocer la función de cada una de sus partes. El titular es la puerta de entrada a la información y su objetivo es la síntesis impactante.
 
 ---
 
@@ -99,21 +96,19 @@ El titular y el primer párrafo indican que la liberación fue en las playas de 
 **Expected_Success:** 0.75
 
 ### Contexto
-**Noticia: Jornada de vacunación en Cali**
-
-CALI, 3 de junio de 2026. El Hospital Universitario del Valle inició una jornada de vacunación para niños menores de 5 años. Las vacunas son gratuitas y se aplican en todos los centros de salud de la ciudad. Los padres deben llevar el carné de vacunación de sus hijos. La jornada durará hasta el 30 de junio.
+"Debido a las fuertes lluvias en la región andina, las autoridades han pedido a los viajeros tener precaución en las carreteras por posibles deslizamientos de tierra".
 
 ### Enunciado
-¿Qué deben llevar los padres para vacunar a sus hijos?
+¿Cuál es el **motivo (por qué)** del aviso de precaución a los viajeros?
 
 ### Options
-- [ ] A) La cédula de ellos <!-- feedback: Incorrecto. -->
-- [ ] B) Una autorización del colegio <!-- feedback: Incorrecto. -->
-- [x] C) El carné de vacunación de sus hijos <!-- feedback: ¡Correcto! Los padres deben llevar el carné de vacunación. -->
-- [ ] D) Una fotografía del niño <!-- feedback: Incorrecto. -->
+- [ ] A) Porque las carreteras están en reparación. <!-- feedback: Incorrecto. No se menciona mantenimiento vial. -->
+- [ ] B) Porque hay muchas vacaciones y muchos carros. <!-- feedback: Incorrecto. No se habla de tráfico por vacaciones. -->
+- [x] C) Porque las fuertes lluvias pueden causar derrumbes. <!-- feedback: ¡Correcto! El texto vincula las lluvias con el riesgo de deslizamientos. -->
+- [ ] D) Porque el precio de la gasolina subió. <!-- feedback: Incorrecto. El tema económico no aparece en el texto. -->
 
 ### Explicación Pedagógica
-La noticia dice: "Los padres deben llevar el carné de vacunación de sus hijos."
+Identificar la relación de causalidad (por qué) en una noticia corta ayuda al estudiante a entender la lógica de los hechos reportados y la importancia de la prevención en este contexto.
 
 ---
 
@@ -124,21 +119,22 @@ La noticia dice: "Los padres deben llevar el carné de vacunación de sus hijos.
 **Expected_Success:** 0.70
 
 ### Contexto
-**Noticia: Maratón de lectura en Pereira**
-
-PEREIRA, 12 de junio de 2026. La Biblioteca Pública de Pereira organizó una maratón de lectura de 24 horas. Participaron 300 personas, entre niños, jóvenes y adultos. Leyeron cuentos, poemas y novelas cortas. La persona que leyó más tiempo fue una niña de 9 años llamada Valentina, que leyó durante 6 horas seguidas.
+Imagina que eres periodista y tienes estos datos:
+- Qué: Un perro rescató a un gatito de un árbol.
+- Dónde: En el parque principal de Envigado.
+- Cuándo: Esta mañana.
 
 ### Enunciado
-¿Quién leyó más tiempo en la maratón?
+¿Cuál sería el mejor **titular** para tu noticia?
 
 ### Options
-- [ ] A) Un adulto <!-- feedback: Incorrecto. -->
-- [ ] B) Un joven <!-- feedback: Incorrecto. -->
-- [x] C) Una niña de 9 años llamada Valentina <!-- feedback: ¡Correcto! Valentina leyó 6 horas seguidas. -->
-- [ ] D) Un bibliotecario <!-- feedback: Incorrecto. -->
+- [ ] A) El parque de Envigado es muy bonito. <!-- feedback: Incorrecto. Este título no informa sobre el hecho del perro y el gato. -->
+- [x] B) Perro héroe rescata a gatito en Envigado. <!-- feedback: ¡Correcto! Resume el "qué", el "quién" y el "dónde" de forma atractiva. -->
+- [ ] C) Los gatos no saben bajar de los árboles. <!-- feedback: Incorrecto. Es una opinión o generalización, no una noticia. -->
+- [ ] D) Mañana lloverá en todo el municipio. <!-- feedback: Incorrecto. Ese titular habla de otro tema totalmente diferente. -->
 
 ### Explicación Pedagógica
-La noticia menciona que "la persona que leyó más tiempo fue una niña de 9 años llamada Valentina."
+Crear o seleccionar titulares a partir de datos sueltos desarrolla la capacidad de síntesis y la comprensión de la jerarquía informativa. El estudiante debe elegir la opción que mejor represente el evento central.
 
 ---
 
@@ -149,68 +145,65 @@ La noticia menciona que "la persona que leyó más tiempo fue una niña de 9 añ
 **Expected_Success:** 0.65
 
 ### Contexto
-**Noticia: Feria de ciencias escolares**
-
-BOGOTÁ, 18 de junio de 2026. En el parque Simón Bolívar se realizó la Feria de Ciencias de los colegios públicos de Bogotá. 40 colegios presentaron proyectos sobre reciclaje, energía solar y cuidado del agua. El primer puesto fue para el Colegio José María Córdoba, que creó un filtro de agua con materiales reciclados.
+**EXITOSA FERIA DEL LIBRO EN BOGOTÁ**
+Miles de personas visitaron los pabellones de Corferias este fin de semana. (Imagen: Una niña sonriente cargando tres libros nuevos frente a un estante colorido).
 
 ### Enunciado
-¿Cuál fue el proyecto ganador de la feria?
+¿Cómo ayuda la **imagen** a complementar la información de esta noticia?
 
 ### Options
-- [ ] A) Un carro solar <!-- feedback: Incorrecto. -->
-- [x] B) Un filtro de agua con materiales reciclados <!-- feedback: ¡Correcto! El colegio ganador creó un filtro de agua reciclado. -->
-- [ ] C) Un robot <!-- feedback: Incorrecto. -->
-- [ ] D) Una huerta escolar <!-- feedback: Incorrecto. -->
+- [ ] A) Nos dice cuántos libros se vendieron exactamente. <!-- feedback: Incorrecto. Una foto de una niña no puede dar la cifra exacta de ventas de toda la feria. -->
+- [x] B) Muestra la alegría de los asistentes y el ambiente de la feria. <!-- feedback: ¡Correcto! La imagen apoya visualmente el mensaje de que la feria fue "exitosa" y agradable. -->
+- [ ] C) Nos explica cómo llegar a Corferias. <!-- feedback: Incorrecto. Una foto no es un mapa ni da instrucciones de dirección. -->
+- [ ] D) Reemplaza todo el texto para que no tengamos que leer nada. <!-- feedback: Incorrecto. La imagen y el texto trabajan juntos para informar mejor. -->
 
 ### Explicación Pedagógica
-La noticia dice: "El primer puesto fue para el Colegio José María Córdoba, que creó un filtro de agua con materiales reciclados."
+En los medios de comunicación, la imagen tiene una función informativa y emocional. Comprender la relación entre el texto y el soporte visual (multimodalidad) es una competencia clave en la sociedad actual.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W12-noticias-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Noticia: Niños siembran árboles en la ciudad**
-
-BUCARAMANGA, 25 de junio de 2026. Estudiantes de cinco colegios de Bucaramanga sembraron 500 árboles en las laderas de la ciudad. La actividad fue organizada por la Alcaldía. Los niños sembraron árboles de caoba, cedro y guayacán. El objetivo es recuperar las zonas verdes que se perdieron por los incendios del año pasado.
+"Un estudio reciente afirma que leer 15 minutos al día mejora la memoria de los niños. Los expertos recomiendan crear este hábito desde los 6 años".
 
 ### Enunciado
-¿Por qué es importante sembrar árboles en las laderas de Bucaramanga?
+¿En qué sección de un periódico encontrarías probablemente esta noticia?
 
 ### Options
-- [ ] A) Para tener más frutas <!-- feedback: Incorrecto. -->
-- [ ] B) Para decorar la ciudad <!-- feedback: Incorrecto. -->
-- [x] C) Para recuperar las zonas verdes perdidas por incendios <!-- feedback: ¡Correcto! El objetivo es recuperar lo que los incendios dañaron. -->
-- [ ] D) Para construir casas <!-- feedback: Incorrecto. -->
+- [ ] A) Deportes. <!-- feedback: Incorrecto. La lectura y la memoria no son temas de competencias deportivas. -->
+- [ ] B) Clasificados (ventas). <!-- feedback: Incorrecto. No se está vendiendo un objeto, se está informando sobre un beneficio. -->
+- [x] C) Educación o Salud. <!-- feedback: ¡Correcto! El tema trata sobre el desarrollo infantil, el aprendizaje y el bienestar mental. -->
+- [ ] D) Judicial (crímenes). <!-- feedback: Incorrecto. Leer no es un delito ni tiene relación con la policía. -->
 
 ### Explicación Pedagógica
-La noticia explica que el objetivo es "recuperar las zonas verdes que se perdieron por los incendios del año pasado."
+Categorizar noticias por secciones ayuda a los estudiantes a organizar mentalmente los diferentes ámbitos de la realidad social y a saber dónde buscar información específica según sus intereses.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W12-noticias-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Semántico
+**Bloom:** Evaluate
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Noticia: Nuevo sendero ecológico en Minca**
-
-MINCA, Magdalena, 28 de junio de 2026. El pueblo de Minca inauguró un sendero ecológico de 3 kilómetros. El sendero pasa por cascadas, bosques y cultivos de café. Los turistas y las escuelas pueden visitarlo de forma gratuita. Hay guías que explican sobre las plantas y animales de la región. Se espera que el sendero atraiga a más visitantes a la Sierra Nevada.
+Lee estas dos formas de dar la misma noticia:
+- Opción 1: "El equipo de fútbol perdió el partido por culpa del árbitro".
+- Opción 2: "El equipo de fútbol perdió el partido 2 a 1 tras un juego muy reñido".
 
 ### Enunciado
-Según la noticia, ¿qué pueden hacer los visitantes en el sendero ecológico de Minca?
+¿Cuál de las dos opciones suena más como una noticia **objetiva** (basada en hechos) y por qué?
 
 ### Options
-- [ ] A) Pescar en el río <!-- feedback: Incorrecto. -->
-- [ ] B) Nadar en la cascada <!-- feedback: Incorrecto, el texto no dice eso. -->
-- [x] C) Aprender sobre plantas y animales con guías <!-- feedback: ¡Correcto! Hay guías que explican sobre las plantas y animales. -->
-- [ ] D) Acampar en el bosque <!-- feedback: Incorrecto. -->
+- [ ] A) La Opción 1, porque dice la verdad sobre el árbitro. <!-- feedback: Incorrecto. Decir "por culpa de" es una opinión o un juicio, no un hecho comprobado. -->
+- [x] B) La Opción 2, porque da el resultado exacto (2 a 1) sin echarle la culpa a nadie. <!-- feedback: ¡Correcto! La objetividad periodística busca informar hechos medibles y verificables sin sesgos personales. -->
+- [ ] C) Ambas son noticias porque hablan de fútbol. <!-- feedback: Incorrecto. Que el tema sea el mismo no significa que la forma de contarlo sea igual de profesional. -->
+- [ ] D) Ninguna, las noticias solo deben hablar de cosas tristes. <!-- feedback: Incorrecto. Las noticias informan sobre cualquier evento relevante de la sociedad. -->
 
 ### Explicación Pedagógica
-La noticia dice: "Hay guías que explican sobre las plantas y animales de la región."
+Distinguir entre información objetiva y opiniones es una de las metas más importantes de la lectura crítica. El estudiante debe reconocer que el lenguaje neutro y los datos precisos son propios de la buena información periodística.

@@ -7,252 +7,203 @@ tema: "secuencia-eventos"
 periodo: "2026-W19"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 19
 ---
 
 # Bundle Mastery: Secuencia de Eventos
 
-Este bundle enseña a los estudiantes a identificar el orden en que ocurren los eventos en una narración. Los niños aprenderán a usar palabras clave como "primero", "luego", "después" y "finalmente" para entender la secuencia temporal de las historias. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de organizar hechos en el tiempo, identificar conectores temporales y comprender la relación lógica en procesos y narraciones de mayor complejidad.
 
 ---
 
 ## Question 1 [D1-D2]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.90
 
 ### Contexto
-**Texto: La rutina de Lucía**
-
-Todas las mañanas, Lucía se despierta a las 6:00 a.m. Primero se lava la cara y se cepilla los dientes. Luego se viste el uniforme del colegio. Después desayuna arepa con huevo y chocolate caliente. Finalmente, toma su mochila y camina al colegio con su mamá.
+**El día de mercado**
+"Doña Marta salió hacia la plaza de mercado a las 7:00 de la mañana. Primero, compró las verduras frescas. Media hora después, pasó por el puesto de las carnes. Finalmente, se detuvo a comprar unas flores antes de regresar a su casa".
 
 ### Enunciado
-¿Qué hace Lucía inmediatamente después de lavarse la cara?
+¿A qué hora compró Doña Marta la carne si pasó por allí media hora después de salir de su casa?
 
 ### Options
-- [ ] A) Desayunar <!-- feedback: Incorrecto. Eso es después de vestirse. -->
-- [x] B) Vestirse el uniforme <!-- feedback: ¡Correcto! Primero se lava la cara, Luego se viste. -->
-- [ ] C) Cepillarse los dientes <!-- feedback: Incorrecto. Eso lo hace al mismo tiempo que lavarse la cara. -->
-- [ ] D) Tomar la mochila <!-- feedback: Incorrecto. Eso es lo último. -->
+- [ ] A) A las 7:00 a.m. <!-- feedback: Incorrecto. A esa hora fue cuando salió de su casa. -->
+- [x] B) A las 7:30 a.m. <!-- feedback: ¡Correcto! Si salió a las 7:00 y pasó media hora después, la hora exacta son las 7:30. -->
+- [ ] C) A las 8:00 a.m. <!-- feedback: Incorrecto. Eso sería una hora después, no media hora. -->
+- [ ] D) A las 6:30 a.m. <!-- feedback: Incorrecto. Esa hora es antes de que ella saliera de su casa. -->
 
 ### Explicación Pedagógica
-Las palabras de secuencia como "primero", "luego", "después" y "finalmente" nos ayudan a entender el orden de las acciones. Aquí "luego" nos indica qué viene después de lavarse la cara.
+La secuenciación temporal a menudo requiere realizar cálculos sencillos basados en la información del texto. Identificar el momento exacto de un evento refuerza la atención al detalle y el pensamiento lógico-matemático aplicado a la lectura.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**Texto: Cómo sembrar una semilla de frijol**
-
-1. Consigue una semilla de frijol y un vaso con tierra.
-2. Haz un hoyo pequeño en la tierra con tu dedo.
-3. Pon la semilla dentro del hoyo.
-4. Cubre la semilla con tierra.
-5. Riega con un poco de agua.
-6. Coloca el vaso en un lugar donde le dé el sol.
-7. Espera una semana y verás que la semilla germina.
+**El ciclo de la mariposa**
+1. La mariposa pone un huevo en una hoja.
+2. Del huevo nace una oruga que come muchas hojas.
+3. La oruga forma una crisálida y se queda quieta por un tiempo.
+4. Finalmente, la crisálida se abre y sale una hermosa mariposa.
 
 ### Enunciado
-¿Qué debes hacer justo después de poner la semilla en el hoyo?
+¿Qué ocurre **inmediatamente antes** de que se forme la crisálida?
 
 ### Options
-- [ ] A) Hacer el hoyo en la tierra <!-- feedback: Incorrecto. Eso se hace antes. -->
-- [ ] B) Regar con agua <!-- feedback: Incorrecto. Eso es después de cubrir. -->
-- [x] C) Cubrir la semilla con tierra <!-- feedback: ¡Correcto! Después de poner la semilla (paso 3), viene cubrirla (paso 4). -->
-- [ ] D) Colocar el vaso al sol <!-- feedback: Incorrecto. Eso es después de regar. -->
+- [ ] A) La mariposa pone un huevo. <!-- feedback: Incorrecto. Eso es lo primero que ocurre, pero no justo antes de la crisálida. -->
+- [x] B) La oruga nace y se alimenta de hojas. <!-- feedback: ¡Correcto! Según el orden 1-2-3-4, el paso 2 (la oruga) precede al paso 3 (la crisálida). -->
+- [ ] C) Sale una mariposa con alas de colores. <!-- feedback: Incorrecto. Eso ocurre después de la crisálida. -->
+- [ ] D) La hoja se seca y se cae al suelo. <!-- feedback: Incorrecto. El texto no menciona que la hoja se seque. -->
 
 ### Explicación Pedagógica
-Las instrucciones tienen un orden específico. Saltarse un paso o cambiarlo de lugar puede hacer que el resultado no sea el esperado. Por eso es importante seguir la secuencia.
+Identificar el orden de los pasos en un proceso biológico permite al estudiante comprender la continuidad y la lógica de la naturaleza. Los términos "antes" y "después" son claves para esta habilidad.
 
 ---
 
 ## Question 3 [D2-D3]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.80
 
 ### Contexto
-**Texto: El paseo al río**
-
-El sábado pasado, la familia Pérez fue de paseo al río en San Gil. Primero empacaron la comida: arepas, carne para asar y jugo de corozo. Luego, don Carlos encendió el carbón para la parrilla. Mientras la carne se asaba, los niños se metieron al río a nadar. Después del almuerzo, doña Ana sacó una sandía bien fría. Para terminar, todos se acostaron en una lona a mirar las nubes y escuchar el río.
+Mira estas acciones desordenadas para enviar una carta por correo:
+- Poner la carta en el buzón.
+- Escribir el mensaje en una hoja de papel.
+- Guardar la hoja en un sobre y poner la dirección.
 
 ### Enunciado
-¿Qué hicieron los niños mientras la carne se asaba?
+¿Cuál es el orden lógico para realizar estas tres acciones?
 
 ### Options
-- [ ] A) Empacaron la comida <!-- feedback: Incorrecto. Eso fue primero. -->
-- [ ] B) Se acostaron a mirar las nubes <!-- feedback: Incorrecto. Eso fue al final. -->
-- [x] C) Se metieron al río a nadar <!-- feedback: ¡Correcto! El texto dice: "Mientras la carne se asaba, los niños se metieron al río a nadar." -->
-- [ ] D) Comieron sandía <!-- feedback: Incorrecto. Eso fue después del almuerzo. -->
+- [ ] A) Poner en el buzón -> Escribir el mensaje -> Guardar en el sobre. <!-- feedback: Incorrecto. No puedes enviar algo que no has escrito todavía. -->
+- [ ] B) Guardar en el sobre -> Escribir el mensaje -> Poner en el buzón. <!-- feedback: Incorrecto. No puedes guardar una hoja que no tiene mensaje. -->
+- [x] C) Escribir el mensaje -> Guardar en el sobre -> Poner en el buzón. <!-- feedback: ¡Correcto! Primero se crea el contenido, luego se empaca y finalmente se envía. -->
+- [ ] D) Poner en el buzón -> Guardar en el sobre -> Escribir el mensaje. <!-- feedback: Incorrecto. Carece de sentido lógico. -->
 
 ### Explicación Pedagógica
-A veces dos eventos ocurren al mismo tiempo. La palabra "mientras" nos indica que dos acciones suceden simultáneamente. Identificar estas relaciones temporales es parte de entender la secuencia.
+La organización de eventos cotidianos desarrolla la capacidad de planificación y comprensión de procesos. El estudiante debe aplicar su conocimiento del mundo para establecer la secuencia correcta.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Texto: El día que conocí el mar**
-
-Valentina vive en Bogotá y nunca había visto el mar. En las vacaciones de diciembre, su familia viajó a Santa Marta. Cuando llegaron a la playa, Valentina se quedó quieta viendo el agua. Primero sintió miedo porque las olas eran grandes. Luego, su papá la tomó de la mano y entraron juntos al agua. Después, Valentina se animó y empezó a saltar las olas. Finalmente, no quería salirse del mar. Ahora sueña con volver.
+"El atleta comenzó su entrenamiento trotando 10 minutos. Luego, realizó ejercicios de estiramiento para sus piernas. **A continuación**, corrió a toda velocidad por la pista durante media hora. Para terminar, bebió mucha agua".
 
 ### Enunciado
-Ordena los siguientes eventos según ocurrieron en la historia:
-1. Valentina saltó las olas.
-2. Valentina sintió miedo de las olas.
-3. El papá la tomó de la mano.
-4. Valentina no quería salirse del mar.
-
-¿Cuál es el orden correcto?
+¿Qué significa la expresión resaltada en negrita "**A continuación**"?
 
 ### Options
-- [ ] A) 1 - 2 - 3 - 4 <!-- feedback: Incorrecto. -->
-- [x] B) 2 - 3 - 1 - 4 <!-- feedback: ¡Correcto! Primero sintió miedo, luego su papá la tomó de la mano, después saltó las olas y finalmente no quería salirse. -->
-- [ ] C) 3 - 2 - 1 - 4 <!-- feedback: Incorrecto. -->
-- [ ] D) 2 - 1 - 3 - 4 <!-- feedback: Incorrecto. Su papá la tomó de la mano antes de que ella saltara las olas. -->
+- [ ] A) Que la acción pasó mucho tiempo después. <!-- feedback: Incorrecto. Indica una secuencia inmediata o seguida. -->
+- [x] B) Que es la acción que sigue inmediatamente en el tiempo. <!-- feedback: ¡Correcto! Es un conector de secuencia que indica el siguiente paso. -->
+- [ ] C) Que fue lo primero que el atleta hizo. <!-- feedback: Incorrecto. Lo primero fue trotar. -->
+- [ ] D) Que la acción se repitió muchas veces. <!-- feedback: Incorrecto. No indica repetición, sino orden. -->
 
 ### Explicación Pedagógica
-Ordenar eventos en secuencia requiere identificar el momento en que ocurre cada acción usando las palabras clave del texto. Las palabras "primero", "luego", "después" y "finalmente" son nuestras guías.
+El reconocimiento de conectores de secuencia (luego, después, a continuación) permite al estudiante navegar por el texto identificando la estructura cronológica de los hechos.
 
 ---
 
 ## Question 5 [D3-D4]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.70
 
 ### Contexto
-**Texto: La preparación de la chicha**
-
-La chicha es una bebida tradicional colombiana hecha de maíz. Doña Bertha, en Boyacá, la prepara así:
-- Primero, remoja el maíz en agua toda la noche.
-- Al día siguiente, muele el maíz remojado.
-- Luego, pone la masa molida en una olla con agua a hervir.
-- Después de hervir, cuela la mezcla para separar los sólidos.
-- Finalmente, agrega panela rallada y deja fermentar por tres días.
+**Instrucciones para un experimento:**
+"Primero, llena un vaso con agua hasta la mitad. Segundo, agrega tres gotas de colorante azul. Tercero, mezcla con una cuchara. Por último, observa cómo el agua cambia de color".
 
 ### Enunciado
-¿Qué pasa entre moler el maíz y colar la mezcla?
+Si un niño agrega el colorante **antes** de poner el agua en el vaso, ¿qué está cambiando en el experimento?
 
 ### Options
-- [ ] A) Remojar el maíz <!-- feedback: Incorrecto. Eso se hace antes de moler. -->
-- [ ] B) Agregar panela <!-- feedback: Incorrecto. Eso es al final. -->
-- [x] C) Hervir la masa molida en agua <!-- feedback: ¡Correcto! Después de moler (moler) se hierve la masa (hervir), y luego se cuela. -->
-- [ ] D) Dejar fermentar <!-- feedback: Incorrecto. Eso es al final. -->
+- [ ] A) El resultado final, porque el agua no se pintará. <!-- feedback: Incorrecto. El agua se pintará de todos modos cuando la eches. -->
+- [x] B) El orden de los pasos, pero probablemente el resultado sea parecido. <!-- feedback: ¡Correcto! Está alterando la secuencia, aunque en este caso específico la mezcla ocurrirá igual. -->
+- [ ] C) Los materiales, porque ahora necesita un vaso más grande. <!-- feedback: Incorrecto. El tamaño del vaso no cambia por el orden. -->
+- [ ] D) Nada, las instrucciones se pueden seguir en cualquier orden. <!-- feedback: Incorrecto. Muchas instrucciones requieren un orden estricto para funcionar. -->
 
 ### Explicación Pedagógica
-Para identificar qué ocurre entre dos pasos, debemos leer la secuencia completa y encontrar la acción que está entre esos dos momentos. Es como llenar un espacio en medio de una línea de tiempo.
+Analizar la flexibilidad de una secuencia instructiva ayuda a los estudiantes a valorar la importancia del orden. Aunque en algunos casos el orden no afecte el producto final, seguir la secuencia es una habilidad de disciplina lectora.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Texto: La carrera de observación**
-
-En el colegio de Tunja hicieron una carrera de observación. Los alumnos tenían que:
-1. Salir del salón y buscar una pista escondida en la biblioteca.
-2. La pista de la biblioteca los llevaba al laboratorio de ciencias.
-3. En el laboratorio debían encontrar un frasco con una solución verde.
-4. Con el frasco, ir al patio principal y vaciar la solución en un círculo pintado en el piso.
-5. Al vaciarlo, aparecía el mensaje secreto: "El tesoro es el conocimiento".
+"Antes de que sonara la campana del recreo, los estudiantes ya habían guardado sus cuadernos en los maletines. Cuando la profesora dio la señal, todos salieron ordenadamente al patio".
 
 ### Enunciado
-¿Qué debían hacer los alumnos inmediatamente después de encontrar el frasco en el laboratorio?
+¿Qué evento sucedió **primero** en la realidad?
 
 ### Options
-- [ ] A) Salir del salón <!-- feedback: Incorrecto. Eso es el paso 1. -->
-- [ ] B) Buscar una pista en la biblioteca <!-- feedback: Incorrecto. Eso también es antes. -->
-- [x] C) Ir al patio principal y vaciar la solución en el círculo pintado <!-- feedback: ¡Correcto! Después de encontrar el frasco (paso 3), debían ir al patio a vaciarlo (paso 4). -->
-- [ ] D) Leer el mensaje secreto <!-- feedback: Incorrecto. Eso pasa después de vaciar. -->
+- [ ] A) Sonó la campana del recreo. <!-- feedback: Incorrecto. El texto dice que "antes" de eso, ya habían guardado los cuadernos. -->
+- [x] B) Los estudiantes guardaron sus cuadernos. <!-- feedback: ¡Correcto! Esta acción ocurrió antes de cualquier otro sonido o señal. -->
+- [ ] C) Los niños jugaron en el patio. <!-- feedback: Incorrecto. Eso ocurrió después de salir del salón. -->
+- [ ] D) La profesora dio la señal de salida. <!-- feedback: Incorrecto. La señal fue lo último que pasó antes de salir. -->
 
 ### Explicación Pedagógica
-Para seguir una secuencia de varios pasos, es útil visualizar la ruta: lugar por lugar, acción por acción. Cada paso depende del anterior.
+Comprender frases que usan "antes de que" requiere una lectura atenta para no confundir el orden de aparición de las palabras con el orden real de los hechos.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Texto: De la oruga a la mariposa**
-
-La transformación de una oruga en mariposa ocurre en varias etapas:
-
-**Etapa 1 - El huevo:**
-La mariposa adulta pone huevos en una hoja. Los huevos son muy pequeños, del tamaño de una cabeza de alfiler.
-
-**Etapa 2 - La oruga:**
-Del huevo sale una pequeña oruga que come hojas sin parar. Crece rápidamente y cambia de piel varias veces.
-
-**Etapa 3 - La crisálida:**
-La oruga se cuelga de una rama y forma una crisálida. Adentro, su cuerpo se transforma por completo.
-
-**Etapa 4 - La mariposa adulta:**
-De la crisálida sale una mariposa con alas mojadas. Espera a que sus alas se sequen para poder volar. Sale a buscar flores y a poner nuevos huevos.
+"Para que un libro llegue a tus manos, primero un autor debe escribir la historia. Luego, una editorial revisa el texto y lo imprime en papel. Después, los camiones transportan los libros a las librerías. Finalmente, tú puedes comprarlo y leerlo".
 
 ### Enunciado
-¿Qué sucede entre la etapa de la oruga y la etapa de la mariposa adulta?
+¿Cuál es el papel de los camiones de transporte en esta secuencia de producción?
 
 ### Options
-- [ ] A) La mariposa pone huevos <!-- feedback: Incorrecto. Eso ocurre al final. -->
-- [ ] B) La oruga come hojas <!-- feedback: Incorrecto. Eso pasa durante la etapa de oruga. -->
-- [x] C) La oruga se cuelga de una rama y forma una crisálida donde se transforma <!-- feedback: ¡Correcto! La crisálida es la etapa intermedia entre la oruga y la mariposa. -->
-- [ ] D) Las alas de la mariposa se secan <!-- feedback: Incorrecto. Eso ya es parte de la etapa de mariposa adulta. -->
+- [ ] A) Escribir nuevas historias para los niños. <!-- feedback: Incorrecto. Eso lo hace el autor. -->
+- [ ] B) Vender los libros a las personas en la calle. <!-- feedback: Incorrecto. El texto dice que se venden en las librerías. -->
+- [x] C) Ser el enlace o conexión entre la imprenta y el lugar de venta (librerías). <!-- feedback: ¡Correcto! Es el paso logístico que permite que el libro se mueva de donde se hace a donde se vende. -->
+- [ ] D) Revisar que el libro no tenga errores de ortografía. <!-- feedback: Incorrecto. Eso lo hace la editorial. -->
 
 ### Explicación Pedagógica
-A veces la secuencia tiene un paso oculto o de transición que no es obvio. Para entender bien el proceso, hay que identificar las fases completas y no saltarse ninguna.
+Analizar la función de cada eslabón en una cadena de eventos ayuda al estudiante a comprender sistemas y procesos complejos de la sociedad.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W19-secuencia-eventos-001-MASTERY-v8`
-**Bloom:** Evaluate
+**Bloom:** Analyze
 **ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Texto: El problema con la tarea**
-
-Eran las 7 de la noche y Andrés recordó que tenía una tarea de ciencias para el día siguiente. Tenía que hacer una maqueta del sistema solar. Andrés se asustó.
-
-Primero, buscó en su casa los materiales. Encontró una caja de cartón, pinturas, un marcador negro y bolitas de icopor.
-
-Luego, pintó las bolitas de colores: el sol de amarillo, la Tierra de azul y verde, Marte de rojo. Mientras pintaba, se dio cuenta de que no tenía naranja para Júpiter.
-
-Después, fue a la tienda de la esquina a comprar pintura naranja. Eran las 8:30 p.m.
-
-Finalmente, terminó la maqueta a las 9:30 p.m. Estaba orgulloso de su trabajo. Su mamá le dijo: "Hijo, la próxima vez empieza la tarea más temprano".
+Imagina un cuento que se cuenta de atrás para adelante: "Y vivieron felices para siempre. Pero antes, tuvieron que vencer al dragón. Y mucho antes, se conocieron en un bosque encantado".
 
 ### Enunciado
-¿Qué cambio haría la mamá de Andrés para que todo fuera más fácil?
+Si organizamos los hechos de forma **cronológica** (como pasaron en el tiempo), ¿cuál es el orden correcto?
 
 ### Options
-- [ ] A) Comprar pintura naranja antes <!-- feedback: Incorrecto. No es el cambio principal. -->
-- [ ] B) No hacer la maqueta <!-- feedback: Incorrecto. -->
-- [x] C) Empezar la tarea con suficiente tiempo, no a las 7 p.m. del día anterior <!-- feedback: ¡Correcto! La mamá dice "empieza la tarea más temprano". Si Andrés hubiera empezado antes, no habría tenido que ir a la tienda corriendo a las 8:30 p.m. -->
-- [ ] D) Usar solo bolitas de icopor sin pintar <!-- feedback: Incorrecto. -->
+- [ ] A) Vivieron felices -> Vencieron al dragón -> Se conocieron. <!-- feedback: Incorrecto. Este es el orden del texto, no el cronológico. -->
+- [ ] B) Vencieron al dragón -> Se conocieron -> Vivieron felices. <!-- feedback: Incorrecto. Nadie vence dragones con personas que no conoce todavía. -->
+- [x] C) Se conocieron -> Vencieron al dragón -> Vivieron felices. <!-- feedback: ¡Correcto! Primero es el encuentro, luego la lucha contra el problema y al final la felicidad. -->
+- [ ] D) Se conocieron -> Vivieron felices -> Vencieron al dragón. <!-- feedback: Incorrecto. El final feliz suele ir después de resolver los problemas. -->
 
 ### Explicación Pedagógica
-Evaluar la secuencia de eventos también implica pensar críticamente sobre lo que debería haber sido diferente. La mamá de Andrés señala que el problema de raíz fue empezar tarde, no un material faltante. La organización del tiempo es clave.
+Reconstruir la línea temporal de una narración no lineal es una habilidad de análisis superior. El estudiante debe separar la estructura del relato (cómo se cuenta) de la estructura de la historia (cómo pasó).
