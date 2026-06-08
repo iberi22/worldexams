@@ -12,7 +12,7 @@ bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Organización del Estado colombiano: ramas del poder público, estructuras de gobierno local y nacional"
+rubric_baseline: "Organizacion del Estado colombiano: ramas del poder publico"
 ---
 
 ## Pregunta 1 [D1]
@@ -23,16 +23,16 @@ rubric_baseline: "Organización del Estado colombiano: ramas del poder público,
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cuántas ramas del poder público existen en Colombia según la Constitución de 1991?
+En cuantas ramas se divide el poder publico en Colombia?
 
 ### Opciones
-- [ ] A) Dos: Ejecutiva y Judicial <!-- feedback: Incorrecto. Falta la rama Legislativa. -->
-- [x] B) Tres: Ejecutiva, Legislativa y Judicial <!-- feedback: Correcto. Son tres las ramas del poder público. -->
-- [ ] C) Cuatro: Ejecutiva, Legislativa, Judicial y Electoral <!-- feedback: Incorrecto. La Electoral es un organismo autónomo, no una rama. -->
-- [ ] D) Una sola: la Presidencial <!-- feedback: Incorrecto. El poder está dividido en tres ramas. -->
+- [ ] A) 2 <!-- feedback: Incorrecto. -->
+- [x] B) 3 <!-- feedback: Correcto. Legislativa, Ejecutiva y Judicial. -->
+- [ ] C) 4 <!-- feedback: Incorrecto. -->
+- [ ] D) 5 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 establece tres ramas del poder público: la Rama Ejecutiva (Presidente, gobernadores, alcaldes), la Rama Legislativa (Congreso) y la Rama Judicial (jueces y tribunales). Esta división evita la concentración del poder.
+Las tres ramas evitan la concentracion del poder: Legislativa (hace leyes), Ejecutiva (las ejecuta) y Judicial (las aplica).
 
 ---
 
@@ -44,58 +44,58 @@ La Constitución de 1991 establece tres ramas del poder público: la Rama Ejecut
 **Context:** Contexto colombiano
 
 ### Enunciado
-Quién es la máxima autoridad de la Rama Ejecutiva en Colombia?
+Quien ejerce la Rama Ejecutiva?
 
 ### Opciones
-- [ ] A) El presidente del Congreso <!-- feedback: Incorrecto. El Congreso es la rama Legislativa. -->
-- [x] B) El Presidente de la República <!-- feedback: Correcto. Es el jefe de Estado y de Gobierno. -->
-- [ ] C) El presidente de la Corte Suprema <!-- feedback: Incorrecto. Pertenece a la rama Judicial. -->
-- [ ] D) El Fiscal General <!-- feedback: Incorrecto. Es un organismo de control. -->
+- [ ] A) El Congreso <!-- feedback: Incorrecto. -->
+- [x] B) El Presidente de la Republica y su gabinete <!-- feedback: Correcto. -->
+- [ ] C) La Corte Suprema <!-- feedback: Incorrecto. -->
+- [ ] D) La Procuraduria <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Presidente de la República es el jefe del Estado, jefe del Gobierno y suprema autoridad administrativa. Es elegido por voto popular para un periodo de cuatro años.
+La Rama Ejecutiva esta encabezada por el Presidente (Jefe de Estado y de Gobierno), ministros, gobernadores y alcaldes.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v3`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cuál es la función principal de la Rama Legislativa (Congreso de la República)?
+Que funcion tiene la Rama Legislativa?
 
 ### Opciones
-- [ ] A) Juzgar a los delincuentes <!-- feedback: Incorrecto. Esa función es de la rama Judicial. -->
-- [x] B) Hacer las leyes y ejercer control político sobre el gobierno <!-- feedback: Correcto. Esa es su función principal. -->
-- [ ] C) Administrar los colegios públicos <!-- feedback: Incorrecto. Esa función es del Ejecutivo a través del Ministerio de Educación. -->
-- [ ] D) Declarar la guerra <!-- feedback: Incorrecto. Aunque puede hacerlo, esa no es su función principal diaria. -->
+- [ ] A) Ejecutar las leyes <!-- feedback: Incorrecto. -->
+- [x] B) Hacer las leyes y controlar al gobierno <!-- feedback: Correcto. -->
+- [ ] C) Juzgar a los delincuentes <!-- feedback: Incorrecto. -->
+- [ ] D) Declarar la guerra <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Congreso está compuesto por el Senado (108 miembros) y la Cámara de Representantes (188 miembros). Debaten, aprueban o modifican las leyes y vigilan las acciones del Presidente y sus ministros.
+El Congreso (Senado y Camara de Representantes) elabora las leyes y ejerce control politico sobre el gobierno.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué autoridad representa al gobierno nacional en cada departamento de Colombia?
+Cuantos senadores tiene el Congreso colombiano?
 
 ### Opciones
-- [ ] A) El alcalde <!-- feedback: Incorrecto. El alcalde gobierna el municipio. -->
-- [x] B) El gobernador <!-- feedback: Correcto. El gobernador es la máxima autoridad del departamento. -->
-- [ ] C) El presidente de la república <!-- feedback: Incorrecto. Es la máxima autoridad nacional, no departamental. -->
-- [ ] D) El personero <!-- feedback: Incorrecto. El personero es un funcionario municipal de control. -->
+- [ ] A) 100 <!-- feedback: Incorrecto. -->
+- [x] B) 108 <!-- feedback: Correcto. 100 elegidos nacionalmente, 2 indigenas y 5 del partido FARC. -->
+- [ ] C) 50 <!-- feedback: Incorrecto. -->
+- [ ] D) 200 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El gobernador es la máxima autoridad administrativa del departamento. Es elegido por voto popular y dirige la ejecución de políticas departamentales en educación, salud, infraestructura, entre otras.
+El Senado tiene 108 miembros elegidos para periodos de 4 anos. Representan a todo el pais.
 
 ---
 
@@ -107,120 +107,120 @@ El gobernador es la máxima autoridad administrativa del departamento. Es elegid
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cómo se llama la autoridad máxima de un municipio en Colombia?
+Que organos son las altas cortes de la Rama Judicial?
 
 ### Opciones
-- [ ] A) El gobernador <!-- feedback: Incorrecto. El gobernador gobierna el departamento. -->
-- [ ] B) El senador <!-- feedback: Incorrecto. El senador representa en el Congreso Nacional. -->
-- [x] C) El alcalde <!-- feedback: Correcto. Es la máxima autoridad municipal. -->
-- [ ] D) El concejal <!-- feedback: Incorrecto. El concejal es miembro del Concejo Municipal, que hace control político, pero no es la máxima autoridad. -->
+- [ ] A) La policia <!-- feedback: Incorrecto. -->
+- [x] B) Corte Suprema de Justicia, Corte Constitucional y Consejo de Estado <!-- feedback: Correcto. -->
+- [ ] C) El Congreso <!-- feedback: Incorrecto. -->
+- [ ] D) El Presidente <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El alcalde es el jefe de la administración municipal. Es elegido por voto popular para un periodo de cuatro años y se encarga del desarrollo local: servicios públicos, infraestructura, educación y salud municipal.
+Las altas cortes son: Corte Suprema (justicia ordinaria), Corte Constitucional (constitucionalidad) y Consejo de Estado (contencioso administrativo).
 
 ---
 
-## Pregunta 6 [D2]
+## Pregunta 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Si en tu barrio hay un problema grave de inseguridad, ¿ante qué autoridad local deberías acudir primero?
+Quien elige al Presidente en Colombia?
 
 ### Opciones
-- [ ] A) Al presidente de la república <!-- feedback: Incorrecto. No es una autoridad de primer contacto para problemas locales. -->
-- [x] B) Al alcalde municipal <!-- feedback: Correcto. Es la autoridad responsable de la seguridad local. -->
-- [ ] C) Al senador de tu departamento <!-- feedback: Incorrecto. Los senadores trabajan en el Congreso en Bogotá. -->
-- [ ] D) Al gobernador directamente <!-- feedback: Incorrecto. El primer nivel de atención es el municipio. -->
+- [ ] A) El Congreso <!-- feedback: Incorrecto. -->
+- [x] B) El pueblo mediante voto popular directo <!-- feedback: Correcto. -->
+- [ ] C) La Corte Suprema <!-- feedback: Incorrecto. -->
+- [ ] D) Los gobernadores <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El alcalde es la autoridad más cercana a la comunidad. Es responsable de la seguridad ciudadana, el espacio público, los servicios públicos y el orden local. Puede coordinar con la policía municipal para resolver problemas de su barrio.
+El presidente es elegido por voto popular directo para un periodo de 4 anos.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v7`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Analiza: Si el Congreso aprueba una ley que va en contra de la Constitución, ¿quién puede anularla?
+Que son los organismos de control del Estado?
 
 ### Opciones
-- [ ] A) El Presidente de la República <!-- feedback: Incorrecto. El Presidente puede objetarla, pero la última palabra es de la Corte. -->
-- [ ] B) La Asamblea Departamental <!-- feedback: Incorrecto. Las asambleas departamentales son para temas regionales. -->
-- [x] C) La Corte Constitucional <!-- feedback: Correcto. Es la encargada de revisar que las leyes respeten la Constitución. -->
-- [ ] D) La Fiscalía General de la Nación <!-- feedback: Incorrecto. La Fiscalía investiga delitos, no revisa leyes. -->
+- [ ] A) Empresas privadas <!-- feedback: Incorrecto. -->
+- [x] B) Entidades que vigilan el funcionamiento del Estado <!-- feedback: Correcto. -->
+- [ ] C) Partidos politicos <!-- feedback: Incorrecto. -->
+- [ ] D) Medios de comunicacion <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Corte Constitucional es la máxima autoridad en temas constitucionales. Cuando una ley va contra la Constitución, la Corte puede declararla inexequible (anularla). Así funciona el sistema de "pesos y contrapesos" entre las ramas del poder.
+Los organismos de control son: Procuraduria (vigila funcionarios), Contraloria (controla gasto) y Defensoria del Pueblo (protege DDHH).
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué organismos de control existen en Colombia para vigilar a los funcionarios públicos?
+Como se organiza territorialmente Colombia?
 
 ### Opciones
-- [ ] A) Solo la Policía Nacional <!-- feedback: Incorrecto. La policía no vigila a todos los funcionarios públicos. -->
-- [ ] B) El Concejo Municipal y la Asamblea Departamental <!-- feedback: Incorrecto. Esos son corporaciones administrativas. -->
-- [x] C) La Procuraduría General, la Contraloría General y la Defensoría del Pueblo <!-- feedback: Correcto. Son los organismos de control del Estado colombiano. -->
-- [ ] D) Los partidos políticos <!-- feedback: Incorrecto. Los partidos no son organismos de control del Estado. -->
+- [ ] A) En provincias <!-- feedback: Incorrecto. -->
+- [x] B) En departamentos, municipios y distritos <!-- feedback: Correcto. -->
+- [ ] C) En estados federales <!-- feedback: Incorrecto. -->
+- [ ] D) En colonias <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Los organismos de control son: la Procuraduría (vigila a los funcionarios públicos), la Contraloría (vigila el manejo del presupuesto) y la Defensoría del Pueblo (protege los derechos humanos). Son independientes de las tres ramas del poder.
+Colombia tiene 32 departamentos, mas de 1100 municipios y distritos especiales (Bogota, Cartagena, Barranquilla, Santa Marta).
 
 ---
 
-## Pregunta 9 [D3]
+## Pregunta 9 [D1]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Por qué es importante que el poder público esté dividido en tres ramas independientes?
+Que funcion cumplen los gobernadores?
 
 ### Opciones
-- [ ] A) Para que el presidente tenga todo el poder <!-- feedback: Incorrecto. Es exactamente lo contrario. -->
-- [ ] B) Para que sea más fácil cambiar las leyes <!-- feedback: Incorrecto. No es el propósito. -->
-- [x] C) Para evitar la concentración del poder y garantizar que nadie abuse de su autoridad <!-- feedback: Correcto. Ese es el principio de separación de poderes. -->
-- [ ] D) Para que haya más funcionarios públicos <!-- feedback: Incorrecto. No se trata de cantidad. -->
+- [ ] A) Gobernar el pais <!-- feedback: Incorrecto. -->
+- [x] B) Administrar los departamentos y ejecutar politicas regionales <!-- feedback: Correcto. -->
+- [ ] C) Hacer leyes nacionales <!-- feedback: Incorrecto. -->
+- [ ] D) Juzgar delitos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La separación de poderes es un principio democrático fundamental. Cada rama tiene funciones distintas y se controlan mutuamente. Así se evitan abusos de autoridad y se protegen los derechos de los ciudadanos.
+Los gobernadores son jefes de la administracion departamental, elegidos por voto popular por 4 anos.
 
 ---
 
 ## Pregunta 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W32-organizacion-estado-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Evalúa la siguiente afirmación: "El Presidente de Colombia puede gobernar sin el Congreso porque fue elegido por el pueblo". ¿Es correcta?
+Por que es importante la separacion de poderes?
 
 ### Opciones
-- [ ] A) Sí, porque el presidente es la máxima autoridad <!-- feedback: Incorrecto. El presidente no puede gobernar sin control del Congreso. -->
-- [x] B) No, porque el Congreso ejerce control político y debe aprobar leyes y presupuestos <!-- feedback: Correcto. El presidente necesita del Congreso para gobernar. -->
-- [ ] C) Sí, porque la Constitución se lo permite <!-- feedback: Incorrecto. La Constitución establece que las leyes las hace el Congreso. -->
-- [ ] D) No, porque el Congreso es más importante que el presidente <!-- feedback: Incorrecto. No se trata de quién es más importante, sino de equilibrio de poderes. -->
+- [ ] A) Para concentrar el poder <!-- feedback: Incorrecto. -->
+- [x] B) Para evitar abusos y garantizar la democracia mediante el equilibrio entre ramas <!-- feedback: Correcto. -->
+- [ ] C) Para que no haya gobierno <!-- feedback: Incorrecto. -->
+- [ ] D) Para que el presidente tenga poder absoluto <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-En una democracia no existe un poder absoluto. El Presidente necesita que el Congreso apruebe las leyes y el presupuesto. Además, el Congreso puede hacer control político citando a ministros e incluso iniciar juicios políticos (impeachment) contra el Presidente.
+La separacion de poderes (Montesquieu) evita la tirania. Cada rama controla a las otras.
 
 ---
