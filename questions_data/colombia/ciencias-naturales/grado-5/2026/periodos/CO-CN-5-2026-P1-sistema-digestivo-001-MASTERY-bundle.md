@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistema digestivo, órganos, digestión, nutrientes, boca, estómago, intestinos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema Digestivo
@@ -241,3 +244,8 @@ La vesícula biliar almacena la bilis producida por el hígado.
 La digestión procesa los alimentos; la nutrición utiliza los nutrientes obtenidos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

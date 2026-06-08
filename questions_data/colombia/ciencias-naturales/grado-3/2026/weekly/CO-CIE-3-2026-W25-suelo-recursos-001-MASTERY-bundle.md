@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El suelo como recurso natural: importancia económica, agrícola y de conservación."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Suelo como Recurso Natural
@@ -267,3 +270,8 @@ Esta capa se llama mantillo. Es la forma en que la naturaleza se protege a sí m
 ### Explicación Pedagógica
 
 En la naturaleza todo está conectado. No podemos elegir un recurso sobre otro. Sin suelo sano el agua se ensucia, y sin agua el suelo se muere. Debemos aprender a valorar y proteger todo el conjunto de la vida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

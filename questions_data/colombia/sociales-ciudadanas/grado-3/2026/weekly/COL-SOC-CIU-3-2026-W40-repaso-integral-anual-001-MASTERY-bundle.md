@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_integral, anual, todos_temas, ciudadania, geografia, historia, derechos, deberes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Integral Anual
@@ -181,3 +184,8 @@ Que has aprendido este ano en Sociales y Ciudadanas?
 
 ### Explicacion Pedagogica
 Este ano aprendimos sobre geografia, historia, derechos, deberes y convivencia en Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

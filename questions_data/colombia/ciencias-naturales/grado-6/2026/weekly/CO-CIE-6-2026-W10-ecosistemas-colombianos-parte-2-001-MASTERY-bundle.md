@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W10 — Ecosistemas Colombianos - Páramos y Humedales
@@ -233,3 +236,7 @@ La Sentencia C-035/2016 de la Corte Constitucional delimitó los páramos como "
 La restauración de la Ciénaga Grande de Santa Marta ha sido un proceso exitoso: (1) se reabrieron canales (caños) que conectaban la ciénaga con el río Magdalena y el mar Caribe, que habían sido cerrados por la carretera Ciénaga-Barranquilla, (2) se restauraron 12,000 ha de manglares, (3) se recuperaron los niveles de salinidad adecuados, (4) la pesca artesanal se ha recuperado parcialmente. La restauración de humedales es una de las estrategias más efectivas de adaptación al cambio climático porque almacenan carbono, regulan inundaciones y proveen agua.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

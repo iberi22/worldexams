@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W38 — Probabilidad Basica
@@ -255,3 +258,8 @@ Analizamos el valor esperado:
 - Ganancia neta esperada = $1,875 - $1,000 = $875
 
 En promedio, el jugador "gana" $875 cada vez que juega. Sin embargo, la mayoria de las veces (62.5%) perdera sus $1,000. En un juego justo, el valor esperado del premio seria igual al costo. Aqui, $1,875 > $1,000, asi que el juego favorece al jugador en valor esperado, aunque la mayoria de las veces perdera.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

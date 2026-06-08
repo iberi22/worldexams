@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "geografia economica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Geografía económica: regiones productivas e infraestructura — W19
@@ -290,3 +293,8 @@ Según los datos oficiales más recientes, ¿cuál es la tendencia principal rel
 ### Explicación Pedagógica
 
 El estudio de la geografía económica de Colombia es fundamental para comprender la realidad colombiana. Según los datos oficiales más recientes, ¿cuál es la tendencia principal relacionada con la geografía económica de Colombia en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

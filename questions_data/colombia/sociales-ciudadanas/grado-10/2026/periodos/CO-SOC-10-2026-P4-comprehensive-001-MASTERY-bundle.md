@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "globalizacion_economica_cultural, derechos_humanos, DUDH, justicia_transicional, corte_penal_internacional, ODS, equidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Periodo 4
@@ -361,3 +364,8 @@ Que puntos deberia incluir la agenda colombiana?
 
 ### Explicacion Pedagogica
 Una agenda integral para Colombia en 2027 deberia incluir: (1) Accion climatica y transicion energetica justa, (2) Regulacion de IA y derechos digitales, (3) Proteccion a lideres sociales y defensores ambientales (Colombia es el pais mas peligroso para defensores), (4) Equidad de genero y derechos de mujeres, (5) Reforma de instituciones globales (FMI, BM, ONU) para mayor representacion del Sur Global, (6) Justicia transicional y paz total.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

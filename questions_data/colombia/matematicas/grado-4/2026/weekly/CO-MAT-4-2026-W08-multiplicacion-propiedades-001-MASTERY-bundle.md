@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Propiedades de la multiplicación: conmutativa, asociativa, distributiva y elemento neutro; aplicación en problemas de contexto colombiano; identificación de términos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Propiedades de la Multiplicación — Grado 4

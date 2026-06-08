@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Texto ensayístico, crítica textual, análisis del discurso, subtexto, presuposiciones, ideología en el discurso"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Texto Ensayístico, Crítica Textual y Análisis del Discurso
@@ -347,3 +350,8 @@ El análisis crítico del discurso (ACD) sostiene que el lenguaje no es transpar
 
 ### Explicación Pedagógica
 El análisis del discurso requiere identificar marcas lingüísticas específicas: selección léxica (sustantivos, adjetivos, verbos valorativos), tiempos verbales (pasado como ideal), metáforas (la nación como familia, el cambio como amenaza), presuposiciones y deixis (nosotros vs. ellos).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso: inferencias visuales, secuencias lógicas, relación texto-imagen"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W36: Repaso P7
@@ -234,3 +237,8 @@ Repaso aplicar.
 
 ### Explicación Pedagógica Final
 Bundle repaso P7.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "campo_ciudad, diferencias_urbano_rural, vida_campesina, vida_urbana, actividades_campo_ciudad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Campo y la Ciudad
@@ -181,3 +184,8 @@ Ambos espacios son importantes. El campo ofrece naturaleza y alimentos; la ciuda
 
 ### Explicacion Pedagogica
 Visitar el campo permite valorar el trabajo campesino y entender que los alimentos son resultado del trabajo rural.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

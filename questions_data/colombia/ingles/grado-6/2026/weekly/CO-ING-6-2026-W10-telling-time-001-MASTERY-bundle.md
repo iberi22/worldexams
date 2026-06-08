@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "telling time, o'clock, half past, quarter to/past, daily schedule"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Telling Time (W10)
@@ -228,3 +231,8 @@ Before = antes, after = después. 12:30 PM (lunch) es before (antes de) 1:20 PM 
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

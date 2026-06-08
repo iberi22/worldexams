@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "genética básica, enlaces químicos, leyes de Newton, ADN, fuerzas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Genética Básica, Enlaces Químicos y Leyes de Newton
@@ -336,3 +339,8 @@ La masa es una propiedad intrínseca de la materia que no cambia con la ubicaci�
 
 ### Explicación Pedagógica
 Las leyes de Mendel predicen que en un cruce de heterocigotos (Aa × Aa), la descendencia presenta una proporción fenotípica de 3:1 (dominante:recesivo). Por lo tanto, de 400 semillas, 100 (25%) serán blancas (aa) y 300 (75%) amarillas (AA o Aa).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

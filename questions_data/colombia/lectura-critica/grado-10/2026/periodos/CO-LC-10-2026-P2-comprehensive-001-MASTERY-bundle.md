@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "signo_linguistico, semiotica_icono_indice_simbolo, contexto_literario, barthes_mito, relacion_autor_obra_epoca"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Lectura Critica Grado 10 - Periodo 2
@@ -361,3 +364,8 @@ Cual posicion es mas solida segun los conceptos semioticos estudiados?
 
 ### Explicacion Pedagogica
 Lotman mostraria que el Quijote es un sistema modelizante que usa la parodia caballeresca como forma estetica para criticar la sociedad espanola. Eco defenderia que la interpretacion que considera el contexto historico y la estructura textual es mas valida que una lectura puramente comica.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

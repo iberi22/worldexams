@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "ecosistemas, bosque seco tropical, manglar, adaptaciones, biodiversidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecosistemas colombianos: bosque seco y manglar â€” Grado 4 â€” W19
@@ -278,3 +281,8 @@ Manglar: protecciÃ³n costera.
 Bosque seco: amenazado por actividad humana.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

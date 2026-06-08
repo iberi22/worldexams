@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "inferencia, consecuencias, efectos, resultados"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W07: Comprensión inferencial: inferir consecuencias
@@ -234,3 +237,8 @@ Consecuencia de sequía.
 
 ### Explicación Pedagógica Final
 Bundle sobre inferencia de consecuencias.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

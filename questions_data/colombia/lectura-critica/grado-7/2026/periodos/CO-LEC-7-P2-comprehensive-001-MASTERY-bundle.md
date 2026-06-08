@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos_argumentativos, cuento_colombiano, figuras_literarias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lenguaje / Lectura Crítica Grado 7 — Periodo 2
@@ -368,3 +371,8 @@ En el debate final del año, un estudiante afirma: "El servicio militar debería
 
 ### Explicación Pedagógica
 El argumento por analogía compara una situación con otra similar. Su fortaleza depende de qué tan comparables sean las situaciones. La limitación es que dos contextos diferentes (Colombia vs EE.UU.) pueden no ser directamente comparables.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

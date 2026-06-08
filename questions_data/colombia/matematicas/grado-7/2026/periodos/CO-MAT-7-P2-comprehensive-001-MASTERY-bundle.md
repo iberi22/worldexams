@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "proporcionalidad_inversa, area_poligonos, estadistica_medidas_variacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matemáticas Grado 7 — Periodo 2
@@ -368,3 +371,8 @@ Un contratista de obras en Sincelejo debe pintar las paredes de un salón. Con 2
 
 ### Explicación Pedagógica
 En problemas combinados de proporcionalidad, se calcula primero el trabajo total en "obrero-días", se resta lo ya ejecutado, y se divide entre la nueva cantidad de obreros.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

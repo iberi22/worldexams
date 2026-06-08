@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "poblacion_mundial_distribucion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Poblacion Mundial: Distribucion
@@ -188,3 +191,8 @@ Esperanza de vida:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

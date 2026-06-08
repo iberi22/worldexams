@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for fruits and vegetables: apple, banana, carrot, potato, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W18: Fruits and Vegetables (A1)
@@ -221,3 +224,8 @@ What is a **"Watermelon"**?
 
 ### Explicación Pedagógica
 La sandía o patilla se dice "watermelon" (melón de agua).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

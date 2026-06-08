@@ -21,6 +21,9 @@ coverage:
   - "P2: Función cuadrática y sus aplicaciones"
   - "P3: Teorema de Pitágoras y geometría"
   - "P4: Estadística descriptiva y probabilidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matemáticas Grado 9 — Periodos 1–4
@@ -341,3 +344,8 @@ Sea $x$ el número de partidos ganados y $y$ el número de partidos empatados. �
 
 ### Explicación Pedagógica
 Este problema integra álgebra con sistemas de ecuaciones lineales en un contexto deportivo real. Primero se determina que $x + y = 10$ (partidos sin perder), luego $3x + y = 22$. Resolviendo: $3x + (10 - x) = 22 \implies 2x = 12 \implies x = 6$ ganados, $y = 4$ empatados. El periodista tiene razón.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W24 — Sistema Excretor
@@ -178,3 +181,7 @@ La nefrectomía es posible porque el riñón restante alcanza ~70-80% de funció
 ### Explicación Pedagógica
 Para cuidar riñones: 1.5-2 L agua/día, presión <130/80, controlar diabetes, sal <5g/día, no fumar, evitar AINEs excesivos, chequeos anuales (creatinina).
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

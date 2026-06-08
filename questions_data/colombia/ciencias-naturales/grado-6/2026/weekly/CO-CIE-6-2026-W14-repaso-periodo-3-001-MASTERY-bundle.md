@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W14 — Repaso P3: Ecosistemas
@@ -229,3 +232,7 @@ La Corte Constitucional (Sentencia C-035/2016) protege los páramos por ser ecos
 Acciones de impacto: consumir local, reducir plásticos, reciclar, apoyar ONGs de conservación, no comprar fauna silvestre, denunciar minería ilegal, ahorrar agua y energía.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

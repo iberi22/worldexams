@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Textos académicos, reseña crítica, análisis de intención del autor, evaluación de fuentes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Académicos, Reseña Crítica y Análisis de Intención del Autor
@@ -336,3 +339,8 @@ Tener muchas citas no garantiza confiabilidad. El lector crítico debe verificar
 
 ### Explicación Pedagógica
 En la era digital, cualquier persona puede publicar sin filtros. Esto genera una sobrecarga informativa donde conviven información valiosa con desinformación. La lectura crítica (evaluar fuentes, identificar sesgos, contrastar información) es una habilidad esencial para la ciudadanía democrática.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

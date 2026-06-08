@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for prepositions of place: in, on, under, next to."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W36: Prepositions of Place (A1)
@@ -221,3 +224,8 @@ Where is the **ruler**? (Al lado del cuaderno).
 
 ### Explicación Pedagógica
 "Next to" es la expresión para decir al lado de.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

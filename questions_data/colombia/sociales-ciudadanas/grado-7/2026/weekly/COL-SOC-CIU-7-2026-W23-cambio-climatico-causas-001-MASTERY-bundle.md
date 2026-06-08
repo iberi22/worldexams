@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "cambio climatico causas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Cambio climático: causas antropogénicas y Acuerdo de París — W23
@@ -290,3 +293,8 @@ Según los datos oficiales más recientes, ¿cuál es la tendencia principal rel
 ### Explicación Pedagógica
 
 El estudio de las causas del cambio climático es fundamental para comprender la realidad colombiana. Según los datos oficiales más recientes, ¿cuál es la tendencia principal relacionada con las causas del cambio climático en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

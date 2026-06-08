@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_media_iglesia_cultura"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Media: Iglesia y Cultura
@@ -190,3 +193,8 @@ Que orden religiosa fundo San Francisco?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** San Francisco de Asis fundo la orden franciscana en 1209.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

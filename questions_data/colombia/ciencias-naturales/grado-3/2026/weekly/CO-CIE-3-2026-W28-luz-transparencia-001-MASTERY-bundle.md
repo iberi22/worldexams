@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Comportamiento de la luz con los objetos: materiales transparentes, translúcidos y opacos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Luz y los Materiales
@@ -267,3 +270,8 @@ La transparencia tiene un límite. Incluso el material más transparente, si es 
 ### Explicación Pedagógica
 
 Necesitamos materiales opacos para protegernos. En la Tierra, la atmósfera hace ese trabajo, pero en el espacio, las paredes de la nave deben actuar como el suelo y los muros de una casa, bloqueando las energías dañinas del sol.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

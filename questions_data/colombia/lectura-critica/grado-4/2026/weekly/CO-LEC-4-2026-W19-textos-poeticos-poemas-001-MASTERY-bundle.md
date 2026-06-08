@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "poesía, poemas, rima, verso, estrofa, lenguaje figurado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W19: Textos poéticos: poemas cortos
@@ -234,3 +237,8 @@ Crear rima.
 
 ### Explicación Pedagógica Final
 Bundle poemas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

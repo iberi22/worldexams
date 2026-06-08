@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "palanca, tipos de palanca, primer gÃ©nero, segundo gÃ©nero, tercer gÃ©nero, aplicaciones"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La palanca: tipos y aplicaciones â€” Grado 4 â€” W33
@@ -280,3 +283,8 @@ Cascanueces: multiplica fuerza.
 BalancÃ­n: apoyo central.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

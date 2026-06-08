@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medios_transporte, terrestre, automovil, bus, bicicleta, moto, TransMilenio"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Medios de Transporte Terrestre
@@ -181,3 +184,8 @@ El cinturon de seguridad salva vidas. Es obligatorio usarlo siempre.
 
 ### Explicacion Pedagogica
 La bicicleta es un medio de transporte ecologico que beneficia a toda la comunidad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for wild animals: lion, tiger, elephant, giraffe, monkey."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W17: Animals - Wild (A1)
@@ -221,3 +224,8 @@ Where do wild animals live?
 
 ### Explicación Pedagógica
 Los animales salvajes (wild animals) viven en la naturaleza, como la selva (jungle) o el bosque (forest).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

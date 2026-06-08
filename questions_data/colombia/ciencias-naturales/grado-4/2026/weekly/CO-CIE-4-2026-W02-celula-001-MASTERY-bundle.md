@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Concepto de célula, partes, célula animal y vegetal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Célula
@@ -238,3 +241,8 @@ Los lisosomas tienen enzimas digestivas.
 ### Explicación Pedagógica
 
 La meiosis reduce el número de cromosomas a la mitad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for common classroom objects like pencil, book, desk, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W06: Classroom Objects (A1)
@@ -221,3 +224,8 @@ What is **"Sacapuntas"**?
 
 ### Explicación Pedagógica
 El sacapuntas se dice "sharpener" (viene de 'sharp', que significa afilado).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

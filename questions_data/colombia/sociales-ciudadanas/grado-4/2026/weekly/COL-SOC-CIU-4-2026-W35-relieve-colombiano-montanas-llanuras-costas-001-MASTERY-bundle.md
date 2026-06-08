@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Relieve colombiano: montañas, llanuras, costas y valles"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Relieve colombiano — Montañas, llanuras y costas
@@ -236,3 +239,8 @@ Diseña un mapa del relieve colombiano para enseñar a tus compañeros. ¿Qué i
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W35, aborda el relieve colombiano: montañas, llanuras, valles y costas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "independencia_colombia, gran_colombia, republica_siglo_xix"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sociales Grado 7 — Periodo 3
@@ -366,3 +369,8 @@ En el auditorio del Colegio de la Universidad Javeriana de Bogotá, un panel de 
 
 ### Explicación Pedagógica
 La independencia política no vino acompañada de una transformación social. El latifundio, la exclusión de indígenas y afrodescendientes, y la desigualdad económica persistieron, lo que lleva a muchos historiadores a hablar de "independencia inconclusa".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

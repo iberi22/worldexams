@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "constitucion 1991 principios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Constitución 1991: principios y Estado Social de Derecho — W01
@@ -560,3 +563,8 @@ A partir de la explicación del profesor, ¿cuál de los siguientes enunciados d
 ### Explicación Pedagógica
 
 El estudio de los principios fundamentales de la Constitución de 1991 es fundamental para comprender la realidad colombiana. A partir de la explicación del profesor, ¿cuál de los siguientes enunciados describe mejor un efecto de los principios fundamentales de la Constitución de 1991 en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

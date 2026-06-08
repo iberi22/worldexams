@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "primeras_civilizaciones_fenicios_hebreos_persas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Primeras Civilizaciones: Fenicios, Hebreos y Persas
@@ -190,3 +193,8 @@ Los persas dividieron su imperio en:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Satrapias: provincias con gobernador (satrapa) y cierto autogobierno.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

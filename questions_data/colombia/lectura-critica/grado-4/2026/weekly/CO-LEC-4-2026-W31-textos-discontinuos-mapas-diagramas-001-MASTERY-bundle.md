@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "mapas, diagramas, lectura visual, organización espacial"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W31: Textos discontinuos: mapas y diagramas
@@ -234,3 +237,8 @@ Crear.
 
 ### Explicación Pedagógica Final
 Bundle mapas-diagramas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

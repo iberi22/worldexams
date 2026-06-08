@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Símbolos patrios: bandera, escudo e himno nacional de Colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Símbolos patrios — Bandera, escudo e himno
@@ -236,3 +239,8 @@ Si pudieras crear un nuevo símbolo patrio para Colombia, ¿qué sería y por qu
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W37, aborda los símbolos patrios de Colombia: bandera, escudo e himno nacional.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

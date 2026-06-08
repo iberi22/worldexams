@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W29 -- Numeros Primos y Compuestos: Factorizacion
@@ -227,3 +230,7 @@ Se factoriza 360 como 2^3 x 3^2 x 5. Cuales son todos sus divisores?
 
 ### Explicacion Pedagogica
 Exponentes: 2(0-3)=4, 3(0-2)=3, 5(0-1)=2. 4x3x2=24 divisores.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

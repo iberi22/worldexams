@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Recognition of primary and secondary colors and basic descriptive use."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W04: Colors (A1)
@@ -221,3 +224,8 @@ Which color is **"Morado"**?
 
 ### Explicación Pedagógica
 El color morado o púrpura se dice "purple" en inglés.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

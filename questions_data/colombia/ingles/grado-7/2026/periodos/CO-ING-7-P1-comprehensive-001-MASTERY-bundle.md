@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "past_simple, comparatives_superlatives, directions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: English Grade 7 — Period 1
@@ -380,3 +383,8 @@ All the past simple verbs in this text are:
 
 ### Explicación Pedagógica
 When narrating past events, ALL main verbs must be in past simple. Mixing base forms with past is a common error. Always check that your verbs are all in the correct tense when telling a story about the past.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

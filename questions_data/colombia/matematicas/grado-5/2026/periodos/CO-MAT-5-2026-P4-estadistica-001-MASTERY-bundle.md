@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "estadística, datos, frecuencia, gráfica de barras, moda, promedio"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Estadística
@@ -241,3 +244,8 @@ Con 5 datos, la mediana es el tercer valor: 9.
 Datos bimodales: 6 y 8 aparecen con mayor frecuencia (2 cada uno).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

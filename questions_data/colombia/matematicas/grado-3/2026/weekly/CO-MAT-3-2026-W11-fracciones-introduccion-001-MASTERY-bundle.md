@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fracciones como parte de un todo, medios, tercios y cuartos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W11: Introduccion a Fracciones
@@ -223,3 +226,8 @@ En Colegio San Jose de Pasto de Barranquilla, un estudiante coloreo 3/5 de un di
 El total es 5/5. Coloreo 3/5. Falta: 5/5 - 3/5 = 2/5.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

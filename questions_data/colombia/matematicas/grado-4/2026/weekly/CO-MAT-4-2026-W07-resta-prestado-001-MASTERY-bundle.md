@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Resta prestando con números de hasta 4 cifras: préstamo simple y múltiple; resta con ceros intermedios; resta de cantidades de dinero; verificación de resultados; comparación de diferencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Resta prestando — Grado 4
@@ -269,3 +272,8 @@ Para saber cuánto falta, restamos 4.000 - 1.358. Préstamo en cadena desde UM: 
 ### Explicación Pedagógica
 Primero sumamos las ventas: 2.350 + 1.890 = 4.240 mangos vendidos. Luego restamos del total: 6.000 - 4.240. Préstamo en cadena: UM 6→5, centenas 0→10. Centenas 10→9, decenas 0→10. Decenas 10→9, unidades 0→10. Unidades 10-0=0, decenas 9-4=5, centenas 9-2=7, UM 5-4=1. Total: 1.760 mangos.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

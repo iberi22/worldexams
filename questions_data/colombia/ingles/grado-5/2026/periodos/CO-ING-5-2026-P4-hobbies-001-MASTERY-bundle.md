@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "hobbies, sports, free time activities, present continuous, can/can't"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Hobbies
@@ -241,3 +244,8 @@ Singing and dancing are performing arts. Other arts: drawing, painting, acting.
 'My favorite hobby is reading books.' After 'is' we use the -ing form as a gerund.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

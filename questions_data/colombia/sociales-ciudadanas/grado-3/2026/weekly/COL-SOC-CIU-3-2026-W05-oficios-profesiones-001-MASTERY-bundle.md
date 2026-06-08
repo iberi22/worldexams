@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "oficios_profesiones, trabajo_digno, ocupaciones_comunitarias, aporte_social, servicios_a_la_comunidad, roles_laborales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Oficios y Profesiones
@@ -197,3 +200,8 @@ Un niño de 10 años trabaja en una ladrillera para ayudar a su familia económi
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la comprensión de los derechos de los niños frente al trabajo infantil. En Colombia, el Código de Infancia y Adolescencia (Ley 1098 de 2006) prohíbe el trabajo de menores de 15 años. El Estado debe implementar políticas de apoyo a las familias vulnerables para garantizar que los niños accedan a la educación y no al trabajo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 30
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lenguaje Figurado
@@ -200,3 +203,8 @@ Imagina que un periodista escribe en el periódico: "**El equipo de fútbol mord
 
 ### Explicación Pedagógica
 Evaluar el uso del lenguaje figurado según el contexto (literario vs. periodístico) desarrolla el criterio sobre la adecuación comunicativa. El estudiante debe reconocer cuándo es mejor ser directo y literal.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "transportation, modes of transport, how do you go to school"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Transportation (W35)
@@ -228,3 +231,8 @@ Fastest transport: plane (avión). Colombia has many domestic flights between ci
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "primeras_civilizaciones_india_china"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Primeras Civilizaciones: India y China
@@ -190,3 +193,8 @@ Que aislo geograficamente a China?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** El Himalaya, desierto de Gobi y Pacifico aislaron a China.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

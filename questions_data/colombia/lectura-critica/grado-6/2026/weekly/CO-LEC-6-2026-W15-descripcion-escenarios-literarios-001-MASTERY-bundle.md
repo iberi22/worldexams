@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "escenarios literarios, descripción de ambientes, espacio narrativo, atmósfera, ambientación, contexto de la historia, elementos sensoriales, tipos de escenarios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Descripción de Escenarios Literarios
@@ -204,3 +207,8 @@ Crear o extender una descripción requiere mantener coherencia con el escenario 
 
 ### Explicación Pedagógica Final
 Bundle enfocado en la descripción de escenarios literarios: identificación de elementos del espacio narrativo, reconocimiento de la atmósfera y el tono, análisis de cómo los detalles sensoriales construyen el ambiente, y evaluación de cómo cambiar los detalles modifica la percepción del escenario. Contexto colombiano con una casona del Quindío como escenario principal.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

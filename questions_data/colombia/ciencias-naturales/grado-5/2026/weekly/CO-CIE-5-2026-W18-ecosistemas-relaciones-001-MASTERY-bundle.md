@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Relaciones interespecíficas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Relaciones en los Ecosistemas
@@ -238,3 +241,8 @@ Incluye alimentación, reproducción, comportamiento.
 ### Explicación Pedagógica
 
 Sucesión primaria: roca desnuda -> líquenes -> plantas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

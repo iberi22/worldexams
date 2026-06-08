@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "gráficas, barras, pictogramas, interpretación visual"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W30: Textos discontinuos: gráficas sencillas
@@ -234,3 +237,8 @@ Utilidad.
 
 ### Explicación Pedagógica Final
 Bundle gráficas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

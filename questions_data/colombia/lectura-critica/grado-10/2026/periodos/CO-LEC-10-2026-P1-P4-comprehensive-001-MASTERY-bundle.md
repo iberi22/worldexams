@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "tipologia_textual, estructura_argumentativa, falacias, analisis_critico_medios, literatura_colombiana_sigloXX, discurso_politico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Lectura Crítica Grado 10 - Comprehensive P1-P4
@@ -461,3 +464,8 @@ Según el texto, ¿cuál es la postura epistemológica correcta sobre la interpr
 
 ### Explicación Pedagógica
 Esta es la postura de la teoría de la recepción (Iser, Jauss): el lector participa activamente en la construcción del sentido, pero el texto establece límites (lo que Umberto Eco llamó "los límites de la interpretación").
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W15 — Sistema Nervioso
@@ -229,3 +232,7 @@ Conmociones repetidas pueden causar encefalopatía traumática crónica (ETC). E
 Dormir bien consolida recuerdos y elimina toxinas cerebrales (beta-amiloide del Alzheimer). El ejercicio estimula neurogénesis y libera endorfinas. Omega-3 y antioxidantes nutren las neuronas. Evitar alcohol y drogas.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

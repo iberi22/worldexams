@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "personal information, introductions, verb to be, wh-questions, possessive adjectives"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Personal Information
@@ -241,3 +244,8 @@ Numbers: 321-555-1234 = three two one, five five five, one two three four.
 'I live in Ibagué' = 'Vivo en Ibagué.' City names don't need 'the'.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

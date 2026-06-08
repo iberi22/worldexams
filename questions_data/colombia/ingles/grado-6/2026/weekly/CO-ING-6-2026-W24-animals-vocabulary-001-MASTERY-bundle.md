@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "animals, pets, farm animals, wild animals, animal descriptions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Animals Vocabulary (W24)
@@ -228,3 +231,8 @@ Animal abilities: birds fly, fish swim, cows/horses run/walk. Can/can't for abil
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "grecia_antigua_cultura_arte"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Grecia Antigua: Cultura y Arte
@@ -190,3 +193,8 @@ Quien escribio la Iliada y la Odisea?
 > **Respuesta correcta:** C
 
 **Retroalimentacion:** Poemas epicos sobre la guerra de Troya.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

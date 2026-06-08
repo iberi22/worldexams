@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso general: todos los tipos de texto, primer semestre"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W20: Repaso general P1-P3
@@ -234,3 +237,8 @@ Inferencia.
 
 ### Explicación Pedagógica Final
 Bundle repaso general P1-P3.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

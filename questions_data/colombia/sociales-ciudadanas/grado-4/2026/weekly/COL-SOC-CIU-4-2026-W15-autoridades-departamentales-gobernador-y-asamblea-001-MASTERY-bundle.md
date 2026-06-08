@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Autoridades del departamento colombiano: el gobernador y la asamblea departamental"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Autoridades departamentales (gobernador y asamblea)
@@ -246,3 +249,7 @@ Se evalúa [Create].
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W15, aborda el tema de Autoridades departamentales (gobernador y asamblea) desde una perspectiva colombiana.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

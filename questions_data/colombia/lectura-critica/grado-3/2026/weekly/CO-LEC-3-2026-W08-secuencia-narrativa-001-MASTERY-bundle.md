@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 8
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Secuencia Narrativa
@@ -208,3 +211,8 @@ Un cuento cuenta que un niño sacó una mala nota en una evaluación porque no e
 
 ### Explicación Pedagógica
 Evaluar la relación causa-efecto dentro de una secuencia narrativa permite al estudiante comprender la responsabilidad de las acciones. La secuencia no es solo temporal, sino también causal.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

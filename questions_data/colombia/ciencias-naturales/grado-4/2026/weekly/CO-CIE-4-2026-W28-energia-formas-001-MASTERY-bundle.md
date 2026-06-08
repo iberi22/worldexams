@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "formas de energÃ­a, cinÃ©tica, potencial, tÃ©rmica, elÃ©ctrica, quÃ­mica, solar, eÃ³lica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: EnergÃ­a: formas y fuentes â€” Grado 4 â€” W28
@@ -278,3 +281,8 @@ ConservaciÃ³n: transformaciÃ³n, no creaciÃ³n.
 Paneles: solar â†’ elÃ©ctrica.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

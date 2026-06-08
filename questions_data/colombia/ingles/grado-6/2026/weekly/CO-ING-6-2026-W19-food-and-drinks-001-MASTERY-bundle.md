@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "food and drinks vocabulary, count/uncount nouns, some/any"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Food and Drinks (W19)
@@ -228,3 +231,8 @@ Common uncountable foods: milk, rice, bread, sugar, salt, coffee, tea, water, ju
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Mecanismos de participación: plebiscito, referendo y consulta popular"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Plebiscito, referendo y consulta popular
@@ -236,3 +239,8 @@ Propón un tema para una consulta popular en tu municipio. ¿Sobre qué pregunta
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W17, explica el plebiscito, referendo y consulta popular.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

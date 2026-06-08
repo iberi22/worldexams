@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W22 — Inferencia Textual
@@ -292,3 +295,8 @@ Después de leer el siguiente texto, cuatro estudiantes hicieron inferencias. ¿
 
 Para evaluar si una inferencia es válida, debemos preguntarnos: ¿el texto me da suficientes pistas para llegar a esa conclusión? Una inferencia válida se basa en evidencia textual, no en suposiciones externas. La opción C usa las palabras exactas del texto ("fallas mecánicas", "no puede visitar") para llegar a una conclusión lógica. Las otras opciones añaden información que el texto no respalda.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

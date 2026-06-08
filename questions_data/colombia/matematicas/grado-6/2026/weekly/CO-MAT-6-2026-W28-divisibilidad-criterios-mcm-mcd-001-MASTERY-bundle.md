@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W28 -- Divisibilidad: Criterios, mcm y mcd
@@ -227,3 +230,7 @@ Si mcm(a,b)=a x b, que podemos decir de a y b?
 
 ### Explicacion Pedagogica
 mcm = producto solo cuando a y b son primos relativos (mcd=1). Ej: 4 y 9 -> mcm=36=4x9.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

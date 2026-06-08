@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: food, likes/dislikes, meals, eating habits"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Food Review (W20)
@@ -228,3 +231,8 @@ Healthy breakfast: fruit, cereal, eggs, milk, bread. Avoid: candy, soda, chips.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

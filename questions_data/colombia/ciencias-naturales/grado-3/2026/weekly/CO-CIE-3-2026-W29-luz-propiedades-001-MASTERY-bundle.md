@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Propiedades de la luz: reflexión, refracción y descomposición (colores)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Propiedades de la Luz
@@ -267,3 +270,8 @@ A esto se le llama reflexión interna total y alta dispersión. El diamante es c
 ### Explicación Pedagógica
 
 El arcoíris es una ilusión óptica natural. No está en un lugar fijo del cielo; depende de dónde estés parado tú y dónde esté el Sol detrás de ti. Es la prueba más hermosa de que la luz blanca guarda un secreto de muchos colores.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

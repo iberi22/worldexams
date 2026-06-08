@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Defining and non-defining relative clauses, wish + past tenses, prefer + gerund/infinitive, intermediate phrasal verbs"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: English Period 4 – Relative Clauses, Wish/Prefer & Intermediate Phrasal Verbs
@@ -341,3 +344,8 @@ What phrasal verb errors does this email contain?
 
 ### Explicación Pedagógica
 Omitting the particle from a phrasal verb changes or destroys the meaning. "Come up" ≠ "come up with." "Figure" ≠ "figure out." With separable phrasal verbs, when using a pronoun, it MUST go between verb and particle: "figure it out" (NOT "figure out it").
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

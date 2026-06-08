@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W27 -- Divisibilidad: Multiplos y Divisores
@@ -227,3 +230,7 @@ Si un numero es multiplo de 4 y de 6, necesariamente es multiplo de 24?
 
 ### Explicacion Pedagogica
 12 es multiplo de 4 y de 6 pero no de 24. Los multiplos comunes son multiplos del mcm(4,6)=12, no necesariamente de 24.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

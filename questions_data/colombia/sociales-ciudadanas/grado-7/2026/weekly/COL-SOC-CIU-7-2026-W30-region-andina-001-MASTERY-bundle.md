@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "region andina"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Región Andina: geografía, clima y economía — W30
@@ -290,3 +293,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de la región Andina es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la región Andina es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

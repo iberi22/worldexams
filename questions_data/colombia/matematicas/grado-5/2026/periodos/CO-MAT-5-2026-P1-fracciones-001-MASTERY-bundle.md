@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fracciones, representación, comparación, equivalencia, operaciones básicas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fracciones
@@ -241,3 +244,8 @@ Si el pastel tiene 15 porciones, ¿cuántas son de chocolate?
 3/5 de 15 = (15÷5)x3 = 3x3 = 9 porciones.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "graficas, tablas, interpretacion de datos, informacion visual, analisis cuantitativo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G9 — Resultados Pruebas Saber 2025 por Region
@@ -221,3 +224,7 @@ Propuesta de nivelacion demuestra:
 
 ### Explicación Pedagógica Final
 Bundle para grado 9 — Semana 10. Tema: Graficas Tablas. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

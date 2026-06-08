@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "cambios de estado, fusiÃ³n, solidificaciÃ³n, vaporizaciÃ³n, condensaciÃ³n, sublimaciÃ³n"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Cambios de estado â€” Grado 4 â€” W25
@@ -278,3 +281,8 @@ EvaporaciÃ³n: absorbe calor.
 Cambio de estado: reorganizaciÃ³n molecular.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

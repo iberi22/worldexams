@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "colonizacion antioquena"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colonización antioqueña: expansión y eje cafetero — W27
@@ -344,3 +347,8 @@ Los estudiantes de grado 9 en la I.E. de Bucaramanga exploran la colonización a
 ### Explicación Pedagógica
 
 El estudio de la colonización antioqueña es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la colonización antioqueña y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

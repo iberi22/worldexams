@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W13 — Regla de Tres Directa Aplicada
@@ -256,3 +259,8 @@ Ambos metodos son equivalentes:
 Metodo 1 (Regla de tres): x = (15×36.000)/12 = 540.000/12 = 45.000.
 Metodo 2 (Unitario): 36.000/12 = 3.000/cuaderno. 15×3.000 = 45.000.
 Ambos son correctos. La regla de tres es simplemente una forma organizada de aplicar la proporcion directa.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

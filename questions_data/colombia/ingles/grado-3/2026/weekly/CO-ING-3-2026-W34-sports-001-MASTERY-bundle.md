@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for common sports: soccer, basketball, swimming, running, tennis."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W34: Sports (A1)
@@ -221,3 +224,8 @@ Which one is **not** a sport?
 
 ### Explicación Pedagógica
 Comer (eating) es una necesidad, no un deporte (sport).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "gran colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La la La Gran Colombia: creación, división y Congreso de Cúcuta — W03
@@ -344,3 +347,8 @@ La profesora de la I.E. de Cali presenta un estudio de caso sobre la La la La Gr
 ### Explicación Pedagógica
 
 El estudio de la La la La Gran Colombia es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la La Gran Colombia y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

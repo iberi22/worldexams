@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso: idea principal, detalles, secuencia, personajes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W05: Repaso P1
@@ -234,3 +237,8 @@ Repaso inferir personalidad.
 
 ### Explicación Pedagógica Final
 Bundle de repaso P1.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

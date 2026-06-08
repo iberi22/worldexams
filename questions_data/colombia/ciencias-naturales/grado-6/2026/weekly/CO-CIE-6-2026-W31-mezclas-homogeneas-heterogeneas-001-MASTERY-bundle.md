@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W31 — Mezclas Homogéneas y Heterogéneas
@@ -321,3 +324,8 @@ La **destilación fraccionada** separa los componentes según su punto de ebulli
 
 En Colombia, la refinería de Barrancabermeja (Santander) y la de Reficar en Cartagena procesan petróleo crudo para obtener estos productos. Este proceso industrial es un ejemplo perfecto de cómo se aprovechan las propiedades de las mezclas: cada componente tiene un punto de ebullición diferente, lo que permite su separación física.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

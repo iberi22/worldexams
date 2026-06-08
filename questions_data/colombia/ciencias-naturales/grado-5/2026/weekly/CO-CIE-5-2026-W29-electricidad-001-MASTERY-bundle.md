@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Carga eléctrica, circuitos, conductores"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Electricidad Básica
@@ -238,3 +241,8 @@ Los aislantes no dejan pasar la corriente.
 ### Explicación Pedagógica
 
 Si un bombillo se funde, todos se apagan.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

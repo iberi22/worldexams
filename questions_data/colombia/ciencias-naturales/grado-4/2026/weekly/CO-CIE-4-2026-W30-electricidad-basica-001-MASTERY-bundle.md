@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "electricidad, corriente elÃ©ctrica, circuitos, conductores, aislantes, pilas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La electricidad bÃ¡sica â€” Grado 4 â€” W30
@@ -278,3 +281,8 @@ Cubierta: seguridad.
 Circuito cerrado: flujo continuo.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

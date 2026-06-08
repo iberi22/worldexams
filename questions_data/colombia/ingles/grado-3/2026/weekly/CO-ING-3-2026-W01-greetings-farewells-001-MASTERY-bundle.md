@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Greetings and farewells, hello, goodbye, good morning, good night, how are you."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W01: Greetings and Farewells (A1)
@@ -233,3 +236,8 @@ You are talking on the phone at **9:30 PM**. You are going to sleep. What do you
 
 ### Explicación Pedagógica
 "Good night" es la despedida perfecta para la noche, especialmente si ya te vas a descansar o a dormir.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

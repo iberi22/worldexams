@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Suma llevando con números de hasta 4 cifras: reagrupación en unidades, decenas, centenas y unidades de mil; suma de tres o más sumandos; problemas cotidianos con llevadas múltiples; estimación y verificación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Suma llevando — Grado 4
@@ -269,3 +272,8 @@ Primer tramo: 1.450 + 2.380 = 3.830. Segundo tramo: 3.830 + 1.670. Unidades: 0+0
 ### Explicación Pedagógica
 Sumamos: 1.680 + 2.750 = 4.430. Luego 4.430 + 1.590. Unidades: 0+0=0. Decenas: 3+9=12 (llevo 1). Centenas: 4+5+1=10 (llevo 1). UM: 4+1+1=6. Total: 6.020 kg. Supera los 6.000 kg por 20 kg.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

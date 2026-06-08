@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W25 — Relación Digestivo y Excretor
@@ -178,3 +181,7 @@ La fibra soluble (avena, manzana) forma gel que retiene agua; la insoluble (cere
 ### Explicación Pedagógica
 Políticas efectivas: eliminar comida chatarra de tiendas escolares, ofrecer frutas y agua, educación nutricional desde primaria, huertos escolares, enseñanza de etiquetado nutricional.
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

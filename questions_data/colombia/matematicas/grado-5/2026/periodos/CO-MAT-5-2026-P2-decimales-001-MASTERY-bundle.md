@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "decimales, décimas, centésimas, milésimas, comparación, operaciones"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Decimales
@@ -241,3 +244,8 @@ Multiplicar por 10 corre el punto decimal una posición a la derecha.
 2.5 + 1.75 = 2.50 + 1.75 = 4.25.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

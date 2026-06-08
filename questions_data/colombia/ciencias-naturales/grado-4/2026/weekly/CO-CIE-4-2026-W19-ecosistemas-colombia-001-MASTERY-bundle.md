@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Páramos, selvas, manglares, biodiversidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Ecosistemas Colombianos
@@ -238,3 +241,8 @@ Cubre 9 países sudamericanos.
 ### Explicación Pedagógica
 
 Es una de las zonas más lluviosas del planeta.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

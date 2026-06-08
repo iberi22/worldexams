@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "normas_convivencia, comunidad, barrio, vecinos, espacios_publicos, civismo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Normas de Convivencia en la Comunidad
@@ -181,3 +184,8 @@ Las normas de transito protegen la vida de peatones y conductores. Cruzar por la
 
 ### Explicacion Pedagogica
 El barrio es de todos sus habitantes. Mantenerlo limpio es responsabilidad compartida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

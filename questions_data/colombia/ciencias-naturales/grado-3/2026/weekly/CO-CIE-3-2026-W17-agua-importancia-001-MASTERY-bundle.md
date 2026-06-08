@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Importancia del agua para los seres vivos, usos en el hogar y la agricultura, y ahorro del agua."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Importancia del Agua para la Vida
@@ -267,3 +270,8 @@ Colombia es privilegiada por tener páramos. Estos ecosistemas de alta montaña 
 ### Explicación Pedagógica
 
 El ciclo del agua es un equilibrio delicado. Si gastamos más rápido de lo que la naturaleza repone, o si contaminamos las fuentes, nos quedaremos sin agua potable. El agua es un recurso finito que debemos administrar con sabiduría para el futuro.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

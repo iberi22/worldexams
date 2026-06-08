@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "analisis critico de medios, desinformacion, fake news, sesgos mediaticos, discurso mediatico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Análisis Crítico de Medios — Grado 11
@@ -251,3 +254,8 @@ Titulares predictivos sin fuentes son desinformación típica.
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W29. Tema: Análisis Crítico de Medios. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

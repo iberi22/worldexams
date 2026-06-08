@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "movimiento_rectilineo, movimiento_circular, leyes_newton, enlaces_quimicos, genetica_mendeliana, acidos_bases_pH, ondas_mecanicas, calor_termodinamica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Ciencias Naturales Grado 10 - Comprehensive P1-P4
@@ -471,3 +474,8 @@ Estudiante 4: "Los pasajeros salen hacia atrás."
 
 ### Explicación Pedagógica
 La primera ley de Newton establece que un cuerpo en movimiento tiende a seguir en movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él. Al frenar el bus, el cuerpo del pasajero tiende a seguir con la velocidad que tenía (inercia).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

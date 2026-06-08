@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Vocabulary for the twelve months of the year."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W29: Months of the Year (A1)
@@ -221,3 +224,8 @@ How do you ask someone about their **birthday**?
 
 ### Explicación Pedagógica
 Para preguntar por el cumpleaños de alguien decimos "¿When is your birthday?".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

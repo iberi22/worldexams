@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecuación cuadrática y fórmula general, razones trigonométricas (seno, coseno, tangente), probabilidad clásica y frecuencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecuación Cuadrática, Trigonometría y Probabilidad
@@ -336,3 +339,8 @@ Cuando el orden no importa, se usan combinaciones: $\binom{n}{k} = \frac{n!}{k!(
 
 ### Explicación Pedagógica
 El objeto toca el suelo cuando $h(t) = 0$. Se resuelve la ecuación cuadrática y se toma la solución positiva, ya que el tiempo negativo no tiene sentido físico.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

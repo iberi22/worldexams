@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "justicia colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema judicial: rama judicial y acceso a la justicia — W18
@@ -290,3 +293,8 @@ En la clase de la Institución Educativa de Medellín, los estudiantes analizan 
 ### Explicación Pedagógica
 
 El estudio de el sistema judicial colombiano es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre el sistema judicial colombiano es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

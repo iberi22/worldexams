@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "noticias, texto informativo, estructura, titulares"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W11: Textos informativos: noticias
@@ -234,3 +237,8 @@ Elementos.
 
 ### Explicación Pedagógica Final
 Bundle noticias.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

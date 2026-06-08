@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecosistemas, hábitat, comunidades, cadenas alimenticias, productores, consumidores"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecosistemas
@@ -241,3 +244,8 @@ Los ecosistemas se diferencian por clima, especialmente temperatura y precipitac
 Reciclar, no contaminar y cuidar recursos naturales protege los ecosistemas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W34 — Repaso Periodo 8: Mezclas, Separación y sus Aplicaciones
@@ -234,3 +237,8 @@ Une con líneas los siguientes conceptos con su ejemplo correcto:
 
 ### Explicación Pedagógica
 Para afianzar los conceptos del periodo 8: las **mezclas homogéneas** (soluciones) tienen una fase uniforme como la gaseosa (agua + CO₂ + azúcar + saborizantes). Las **mezclas heterogéneas** tienen fases distinguibles como la granola (avena, frutos secos, miel, chocolate). Los **métodos de separación** se eligen según la propiedad física que difiera entre componentes: **decantación** para diferencias de densidad (agua y aceite), **tamizado** para diferencias de tamaño de partícula (piedras y arena), **imantación** para propiedades magnéticas (hierro y azufre), **destilación** para diferencias en punto de ebullición (alcohol y agua), y **filtración** para separar sólidos insolubles de líquidos (café molido y café líquido).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

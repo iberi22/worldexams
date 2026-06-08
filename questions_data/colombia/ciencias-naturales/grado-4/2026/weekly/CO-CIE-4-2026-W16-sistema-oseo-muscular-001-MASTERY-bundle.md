@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "sistema Ã³seo, esqueleto, huesos, mÃºsculos, articulaciones, movimiento"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema Ã³seo y muscular â€” Grado 4 â€” W16
@@ -278,3 +281,8 @@ Estructura porosa: resistencia y ligereza.
 Huesos: palanca. MÃºsculos: fuerza.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for pets and farm animals: dog, cat, cow, pig, chicken, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W16: Animals - Pets and Farm (A1)
@@ -221,3 +224,8 @@ What animal has **wool** (lana)?
 
 ### Explicación Pedagógica
 La oveja se dice "sheep". De ellas sacamos la lana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

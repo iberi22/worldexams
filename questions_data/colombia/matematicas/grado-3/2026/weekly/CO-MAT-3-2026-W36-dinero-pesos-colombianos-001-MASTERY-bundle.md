@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "billetes y monedas, equivalencias, vueltos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W36: Dinero: Billetes y Monedas Colombianas
@@ -223,3 +226,8 @@ Si tienes 2 billetes de $20.000 y 3 monedas de $1.000, cuanto dinero tienes?
 2 x 20.000 = 40.000. 3 x 1.000 = 3.000. Total: 40.000 + 3.000 = 43.000.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

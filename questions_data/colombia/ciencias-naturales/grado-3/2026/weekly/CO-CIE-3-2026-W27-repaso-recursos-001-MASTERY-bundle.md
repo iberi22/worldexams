@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso de recursos naturales renovables y no renovables. Conservación y sostenibilidad."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso: Nuestros Recursos Naturales
@@ -267,3 +270,8 @@ Colombia es líder en energía renovable porque tenemos mucha agua. Sin embargo,
 ### Explicación Pedagógica
 
 La tecnología nos ayuda, pero no puede reemplazar a la naturaleza. No existe ninguna máquina que pueda limpiar todo el aire del mundo como lo hacen los bosques, ni nada que reemplace el agua dulce natural. Cuidar lo que tenemos es la única opción segura.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

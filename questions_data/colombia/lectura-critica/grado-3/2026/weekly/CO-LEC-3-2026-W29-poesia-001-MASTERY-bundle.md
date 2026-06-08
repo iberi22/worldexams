@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 29
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Poesía (Estrofa y Verso)
@@ -221,3 +224,8 @@ Analizar la complejidad de la rima desarrolla la agudeza auditiva y el conocimie
 
 ### Explicación Pedagógica
 Diferenciar la intención expresiva de la poesía frente a otras intenciones comunicativas es el nivel más alto de análisis de géneros. El estudiante debe reconocer el lenguaje estético y subjetivo del poema.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

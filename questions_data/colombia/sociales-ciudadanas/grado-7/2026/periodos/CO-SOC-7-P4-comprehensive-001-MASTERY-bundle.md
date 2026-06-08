@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "colombia_siglo_xx, conflictos_mundiales, geopolitica_basica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sociales Grado 7 — Periodo 4
@@ -366,3 +369,8 @@ En el auditorio del Colegio de la Universidad de los Andes, se debate el papel d
 
 ### Explicación Pedagógica
 Colombia ocupa una posición geoestratégica en Suramérica: acceso a dos océanos, parte de la cuenca amazónica, socio clave de EE.UU., miembro de la OCDE y la Alianza del Pacífico. Sin embargo, enfrenta desafíos de seguridad y desigualdad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

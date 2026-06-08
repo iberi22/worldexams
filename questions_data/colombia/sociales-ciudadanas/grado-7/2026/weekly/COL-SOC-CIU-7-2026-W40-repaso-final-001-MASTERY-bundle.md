@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso final"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso final: geografía física integral — W40
@@ -290,3 +293,8 @@ Durante la clase de repaso en el Colegio de Bogotá, la profesora recuerda los c
 ### Explicación Pedagógica
 
 El estudio de repaso final es fundamental para comprender la realidad colombiana. ¿Cuál de los siguientes conceptos está relacionado con repaso final? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

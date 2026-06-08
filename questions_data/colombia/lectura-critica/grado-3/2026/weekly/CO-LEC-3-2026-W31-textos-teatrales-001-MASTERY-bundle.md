@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 31
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Teatrales
@@ -207,3 +210,8 @@ Imagina que en una obra de teatro un personaje dice: "**¡No aguanto más este c
 
 ### Explicación Pedagógica
 Evaluar el uso del humor y la contradicción en el teatro desarrolla el sentido de la ironía y la comprensión de los recursos expresivos avanzados. El estudiante debe interpretar la intención del autor detrás de la escena.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

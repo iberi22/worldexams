@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "repaso_p7"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso P7: Economia y Medios
@@ -190,3 +193,8 @@ Factores de produccion:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Tierra, trabajo, capital.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

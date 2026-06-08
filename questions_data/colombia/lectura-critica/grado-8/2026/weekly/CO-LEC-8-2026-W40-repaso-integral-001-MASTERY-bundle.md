@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso integral"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — Repaso: Campanas de Salud Publica en Colombia
@@ -187,3 +190,7 @@ Que comparten estas campanas?
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 40. Tema: Repaso Integral. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

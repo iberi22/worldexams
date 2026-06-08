@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "poesía, estrofa, rima, verso, ritmo, estructura poética, tipos de rima"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Poesía, Estrofa y Rima
@@ -229,3 +232,8 @@ Reflexión sobre la poesía en la vida cotidiana: la poesía no está solo en lo
 
 ### Explicación Pedagógica Final
 Bundle enfocado en poesía, estrofa y rima: identificación de estrofas, versos, tipos de rima (consonante y asonante), patrones de rima (cruzada ABAB), recursos poéticos (anáfora) y comprensión de cómo la estructura poética se adapta al propósito y la tradición cultural. A través de poemas inspirados en tres regiones colombianas (río Magdalena, Llanos Orientales, Pacífico), los estudiantes descubren que la poesía no es una forma extraña y lejana, sino una expresión artística que vive en las canciones y tradiciones de nuestra tierra.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

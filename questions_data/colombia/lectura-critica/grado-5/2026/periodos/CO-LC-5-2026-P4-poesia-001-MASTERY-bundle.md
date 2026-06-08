@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "poesía, rima, verso, estrofa, figuras literarias, metáfora, símil"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Poesía
@@ -241,3 +244,8 @@ El poema se organiza en versos y estrofas; la prosa en párrafos.
 La métrica mide la cantidad de sílabas de cada verso.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

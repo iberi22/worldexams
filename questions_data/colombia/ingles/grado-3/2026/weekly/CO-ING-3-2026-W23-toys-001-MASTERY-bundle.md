@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for common toys: ball, doll, car, kite, bike, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W23: Toys (A1)
@@ -221,3 +224,8 @@ Which toy is **soft** (suave)?
 
 ### Explicación Pedagógica
 Los peluches (como el teddy bear) son suaves (soft).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

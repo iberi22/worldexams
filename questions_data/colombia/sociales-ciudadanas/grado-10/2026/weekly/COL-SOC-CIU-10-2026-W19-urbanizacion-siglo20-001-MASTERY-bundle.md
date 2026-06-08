@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "urbanizacion siglo20"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Urbanización acelerada: crecimiento ciudades — W19
@@ -344,3 +347,8 @@ En la clase de sociales del Colegio de Bogotá, el profesor inicia la explicaci�
 ### Explicación Pedagógica
 
 El estudio de la urbanización en el siglo XX es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la urbanización en el siglo XX es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

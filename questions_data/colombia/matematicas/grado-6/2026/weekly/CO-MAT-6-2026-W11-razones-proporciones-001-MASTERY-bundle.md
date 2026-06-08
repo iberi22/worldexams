@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W11 — Razones y Proporciones
@@ -260,3 +263,8 @@ Para comparar, vemos cuanta pintura blanca hay por cada galon de azul:
 Debida: 4 ÷ 1 = 4 galones de blanca por galon de azul.
 Real: 8 ÷ 3 = 2,67 galones de blanca por galon de azul.
 Como 2,67 < 4, la mezcla real tiene MENOS pintura blanca por cada galon de azul, lo que significa que tiene MAS azul de la debida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

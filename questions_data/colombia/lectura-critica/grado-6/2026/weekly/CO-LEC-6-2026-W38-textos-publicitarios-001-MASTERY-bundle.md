@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W38 — Textos Publicitarios
@@ -274,3 +277,8 @@ Dos productos similares (gaseosas) pueden usar estrategias publicitarias complet
 
 La publicidad engañosa viola los derechos del consumidor. En Colombia, la Ley de Protección al Consumidor prohíbe afirmaciones falsas o que induzcan a error. Para protegerse, el consumidor debe: (1) leer la lista de ingredientes, no solo la publicidad, (2) desconfiar de afirmaciones absolutas como "100%", y (3) recordar que la publicidad muestra lo que el producto QUIERE ser, no siempre lo que ES.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

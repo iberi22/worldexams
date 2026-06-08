@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "medios masivos, redes sociales, consumo digital, camaras de eco, verificacion de fuentes, alfabetizacion mediatica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G9 — La Prensa Colombiana y los Jovenes
@@ -215,3 +218,7 @@ El 10% que usa prensa tradicional indica:
 
 ### Explicación Pedagógica Final
 Bundle para grado 9 — Semana 28. Tema: Medios Masivos Avanzado. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "grecia_antigua_organizacion_politica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Grecia Antigua: Organizacion Politica
@@ -190,3 +193,8 @@ Que hizo Pericles?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

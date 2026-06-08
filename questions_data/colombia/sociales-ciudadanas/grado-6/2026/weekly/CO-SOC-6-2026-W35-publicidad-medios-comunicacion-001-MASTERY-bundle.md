@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "publicidad_medios_comunicacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Publicidad y Medios de Comunicacion
@@ -188,3 +191,8 @@ Medio mas rapido hoy:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

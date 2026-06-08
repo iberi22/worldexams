@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "descripción, lugares, objetos, adjetivos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W17: Textos descriptivos: lugares, objetos
@@ -234,3 +237,8 @@ Elementos descriptivos.
 
 ### Explicación Pedagógica Final
 Bundle descriptivo lugares-objetos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

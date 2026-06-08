@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "reported_speech, third_conditional, backshift, indirect_questions, conditional_perfect"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Ingles Grado 10 - Periodo 1 (CEFR B1)
@@ -473,3 +476,8 @@ Option C demonstrates advanced B1 level by combining reported speech ('explained
 **Difficulty Range:** D3-D10  
 **Questions:** 20  
 **Alignment:** DBA MEN + Pre-ICFES
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

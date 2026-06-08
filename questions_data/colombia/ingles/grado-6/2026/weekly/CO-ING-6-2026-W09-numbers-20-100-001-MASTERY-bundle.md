@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "numbers 20-100, age, quantity, counting"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Numbers 20-100 (W09)
@@ -227,3 +230,8 @@ Escuchar números requiere atención. Seventy (70) + eight (8) = seventy-eight (
 Comparar números en inglés: ninety-nine (99) > fifty-three (53) > forty-one (41) > thirty-nine (39).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

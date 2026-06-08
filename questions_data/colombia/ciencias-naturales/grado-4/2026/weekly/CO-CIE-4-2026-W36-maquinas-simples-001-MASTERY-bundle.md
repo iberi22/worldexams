@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Palanca, rueda, polea, tornillo, cuña"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Máquinas Simples
@@ -238,3 +241,8 @@ El lubricante crea una capa entre piezas.
 ### Explicación Pedagógica
 
 Arquímedes dijo: dadme un punto de apoyo...”
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

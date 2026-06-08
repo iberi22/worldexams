@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "análisis del discurso, literatura universal clásica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Análisis del Discurso y Literatura Universal
@@ -336,3 +339,8 @@ El Análisis Crítico del Discurso (ACD), desarrollado por Teun van Dijk y Norma
 
 ### Explicación Pedagógica
 El análisis crítico del discurso no se queda en la superficie lingüística. Examina: el contexto de producción, las ideologías subyacentes, las relaciones de poder, lo que se dice y lo que se silencia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

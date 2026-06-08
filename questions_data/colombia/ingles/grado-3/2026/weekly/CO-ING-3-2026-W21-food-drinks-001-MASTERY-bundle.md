@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.80
 rubric_baseline: "Vocabulary for common food and drinks: bread, milk, water, juice, rice, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W21: Food and Drinks (A1)
@@ -221,3 +224,8 @@ What do you eat for **breakfast**? (En Colombia es común).
 
 ### Explicación Pedagógica
 Es común desayunar huevos (eggs) y pan (bread).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

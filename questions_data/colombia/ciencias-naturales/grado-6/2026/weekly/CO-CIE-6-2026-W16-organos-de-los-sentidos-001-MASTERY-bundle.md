@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W16 — Órganos de los Sentidos
@@ -229,3 +232,7 @@ Las células ciliadas de la cóclea no se regeneran. Exposición a >85 dB las da
 La retina no tiene nociceptores, por lo que no sentimos dolor al dañarla. La luz solar directa quema la mácula (retinopatía solar), causando pérdida de visión central permanente. Protección: filtros certificados ISO 12312-2, nunca lentes comunes, radiografías o CD.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

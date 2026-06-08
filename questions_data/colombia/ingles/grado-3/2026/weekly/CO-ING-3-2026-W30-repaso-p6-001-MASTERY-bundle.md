@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of weather, seasons, days, and months."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W30: Repaso Periodo 6 (A1)
@@ -181,3 +184,8 @@ What month is **Christmas**? 🎄
 
 ### Explicación Pedagógica
 Navidad es en diciembre (December).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

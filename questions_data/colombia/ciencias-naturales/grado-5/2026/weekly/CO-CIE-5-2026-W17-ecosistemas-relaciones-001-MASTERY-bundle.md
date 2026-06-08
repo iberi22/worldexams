@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Relaciones interespecíficas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Relaciones en los Ecosistemas
@@ -238,3 +241,8 @@ Abejas, aves y viento polinizan.
 ### Explicación Pedagógica
 
 Animales, viento y agua dispersan semillas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Sistema digestivo, nutrientes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Sistema Digestivo y Nutrición
@@ -238,3 +241,8 @@ Los molares tienen superficie plana para moler.
 ### Explicación Pedagógica
 
 Contiene la enzima amilasa salival.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

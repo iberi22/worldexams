@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_moderna_conquista_america"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Moderna: Conquista de America
@@ -190,3 +193,8 @@ Explorador que cruzo el Istmo de Panama?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Vasco Nunez de Balboa fue el primer europeo en ver el Oceano Pacifico desde America.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "familia, tipos_familia, funciones_familiares, nucleo_familiar, monoparental, valores"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Familia: Tipos y Funciones
@@ -181,3 +184,8 @@ Todas las familias son iguales?
 
 ### Explicacion Pedagogica
 La diversidad familiar es normal. Lo importante es que haya amor y respeto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Derechos del niño, deberes escolares y familiares, ICBF, protección infantil, participación infantil, Convención Derechos del Niño"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Deberes y Derechos del Niño
@@ -236,3 +239,8 @@ Se evalúa la capacidad de proponer estrategias educativas creativas sobre derec
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 5, aborda los Deberes y Derechos del Niño desde el contexto colombiano. Evalúa el conocimiento de los derechos fundamentales según la ley colombiana y la Convención Internacional, los deberes de los niños en la familia y la escuela, la relación entre derechos y deberes, la identificación de violaciones de derechos, el papel del ICBF y las rutas de denuncia. El objetivo es que los estudiantes conozcan sus derechos, sepan exigirlos responsablemente y comprendan que los derechos vienen acompañados de deberes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

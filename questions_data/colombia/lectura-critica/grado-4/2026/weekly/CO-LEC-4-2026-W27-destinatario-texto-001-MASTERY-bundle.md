@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "destinatario, audiencia, lector ideal, público objetivo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W27: Identificar destinatario del texto
@@ -234,3 +237,8 @@ Importancia.
 
 ### Explicación Pedagógica Final
 Bundle destinatario.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

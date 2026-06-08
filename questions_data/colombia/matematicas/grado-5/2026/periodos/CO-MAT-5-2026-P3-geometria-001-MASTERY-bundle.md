@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "geometría, polígonos, ángulos, perímetro, área"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Geometría
@@ -241,3 +244,8 @@ El triángulo rectángulo tiene un ángulo de exactamente 90°.
 El diámetro es el doble del radio: 2 x 3 = 6 cm.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

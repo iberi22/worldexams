@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "trigonometria_analitica, estadistica_inferencial, derivada_intro, tasa_cambio, IC_interpretacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Trigonometría Analítica, Estadística Inferencial y Derivada Intro
@@ -462,3 +465,8 @@ La derivada S'(t) es la tasa de cambio instantánea. Para S(t) = -t² + 12t + 50
 - [ ] B) n = 150 <!-- feedback: Incorrecto. El cálculo da aproximadamente 271. -->
 - [x] C) n = 272 <!-- feedback: Correcto. n = (z*·σ/ME)² = (1.96·2.1/0.25)² = (16.464)² = 271.03. Se redondea a 272. -->
 - [ ] D) n = 68 <!-- feedback: Incorrecto. Probablemente usaste ME=0.5 en lugar de ME=0.25 (porque ancho 0.5 → margen 0.25). -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

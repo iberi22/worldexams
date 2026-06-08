@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Frente Nacional (1958-1974): alternacion politica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Cual fue el balance del Frente Nacional?
 El Frente Nacional logro pacificar el pais y estabilizar la economia, pero excluyo a otras fuerzas politicas, lo que contribuyo al surgimiento de la guerrilla.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

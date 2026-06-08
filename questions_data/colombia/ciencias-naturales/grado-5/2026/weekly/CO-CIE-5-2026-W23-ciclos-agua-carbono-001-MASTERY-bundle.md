@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ciclo del agua, ciclo del carbono"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Ciclos del Agua y del Carbono
@@ -238,3 +241,8 @@ Reducir la huella ayuda al clima.
 ### Explicación Pedagógica
 
 La reforestación secuestra carbono.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

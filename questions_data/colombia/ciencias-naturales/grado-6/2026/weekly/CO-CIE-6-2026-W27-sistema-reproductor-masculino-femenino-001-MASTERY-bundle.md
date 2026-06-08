@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W27 — Sistema Reproductor Masculino y Femenino
@@ -296,3 +299,8 @@ El conocimiento del sistema reproductor es fundamental por múltiples razones:
 
 La educación sexual integral basada en evidencia ha demostrado reducir embarazos adolescentes, ITS y violencia sexual. En Colombia, la edad de inicio de relaciones sexuales es aproximadamente 15-16 años en promedio, por lo que la información temprana es clave.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

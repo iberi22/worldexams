@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Historia del himno nacional de Colombia: origen, autor, letra y uso"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Historia del himno nacional de Colombia
@@ -236,3 +239,8 @@ Diseña un acto cívico para tu colegio donde se honre el himno nacional de una 
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W38, aborda la historia del himno nacional de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

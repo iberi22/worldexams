@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "productos notables, factorización, función cuadrática, teorema de Pitágoras, geometría triángulo rectángulo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Productos Notables, Factorización y Teorema de Pitágoras
@@ -336,3 +339,8 @@ El discriminante $\Delta = b^2 - 4ac$ determina la naturaleza de las soluciones:
 
 ### Explicación Pedagógica
 En una función cuadrática $f(x) = ax^2 + bx + c$ con $a < 0$, el vértice representa el valor máximo. El tiempo al alcanzar la altura máxima es $t_v = -b/(2a)$ y la altura máxima es $h(t_v)$.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

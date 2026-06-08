@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W04 — Repaso Periodo 1: La Célula
@@ -284,3 +287,8 @@ Ejemplo: la penicilina inhibe la síntesis de peptidoglicano de la pared bacteri
 En Colombia, el abuso de antibióticos para infecciones respiratorias (muchas virales) ha contribuido a la resistencia bacteriana.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

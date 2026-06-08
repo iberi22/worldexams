@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Reproducción animal: animales ovíparos (huevos) y vivíparos (vientre materno)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Reproducción en los Animales
@@ -267,3 +270,8 @@ El nivel de desarrollo al nacer varía según la especie. Los animales que viven
 ### Explicación Pedagógica
 
 La naturaleza tiene soluciones intermedias. Los ovovivíparos (como algunos tiburones y serpientes) ofrecen la nutrición de un huevo pero la seguridad del vientre materno. Es una adaptación asombrosa para proteger a las crías en ambientes peligrosos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

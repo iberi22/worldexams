@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "democracia_representativa, democracia_participativa, derechos_humanos_generaciones, constitucion_1991, ramas_poder_publico, mecanismos_participacion_ciudadana"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Sociales Ciudadanas Grado 10 - Periodo 2
@@ -466,3 +469,7 @@ Fuente B (informe gubernamental): "Colombia tiene uno de los marcos constitucion
 
 ### Explicación Pedagógica
 Evaluar y crear una postura propia requiere integrar fuentes diversas. Las dos fuentes no se contradicen: la primera muestra fallas de implementación, la segunda muestra avances normativos. Una tesis sólida reconoce ambas dimensiones y pregunta: ¿por qué un marco legal avanzado no se traduce en resultados efectivos?
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

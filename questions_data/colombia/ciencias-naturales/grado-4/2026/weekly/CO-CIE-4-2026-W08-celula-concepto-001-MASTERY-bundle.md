@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "cÃ©lula, tipos de cÃ©lulas, animales, vegetales, orgÃ¡nulos bÃ¡sicos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: CÃ©lula: concepto y tipos bÃ¡sicos â€” Grado 4 â€” W08
@@ -278,3 +281,8 @@ Pared celular da forma.
 TeorÃ­a celular: omnis cellula e cellula.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

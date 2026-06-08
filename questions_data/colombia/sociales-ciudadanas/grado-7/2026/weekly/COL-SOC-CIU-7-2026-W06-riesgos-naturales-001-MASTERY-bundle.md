@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "riesgos naturales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Riesgos naturales en Colombia: sismos, erupciones e inundaciones — W06
@@ -290,3 +293,8 @@ Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran los los riesgos na
 ### Explicación Pedagógica
 
 El estudio de los los los riesgos naturales en Colombia en Colombia en Colombia es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre los riesgos naturales en Colombia y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

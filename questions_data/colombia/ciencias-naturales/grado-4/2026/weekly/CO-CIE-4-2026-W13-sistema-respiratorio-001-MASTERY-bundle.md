@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "sistema respiratorio, nariz, trÃ¡quea, bronquios, pulmones, alvÃ©olos, diafragma"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema respiratorio â€” Grado 4 â€” W13
@@ -278,3 +281,8 @@ AlvÃ©olos: oxigenan la sangre.
 AlvÃ©olos daÃ±ados: mala oxigenaciÃ³n.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

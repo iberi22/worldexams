@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Fechas cívicas de Colombia: 20 de julio, 7 de agosto y 12 de octubre"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fechas cívicas — 20 de julio, 7 de agosto y 12 de octubre
@@ -236,3 +239,8 @@ Diseña un acto cívico para el 20 de julio en tu colegio que sea entretenido y 
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W31, explica las fechas cívicas del 20 de julio, 7 de agosto y 12 de octubre.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

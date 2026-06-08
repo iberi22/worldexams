@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral ciencias naturales grado 5"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Integral G5
@@ -238,3 +241,8 @@ La energía solar impulsa todos los procesos terrestres.
 ### Explicación Pedagógica
 
 Ejemplos: ciclo del carbono, nitrógeno, fósforo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Cinco reinos: Monera, Protista, Fungi, Plantae, Animalia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clasificación de los Seres Vivos
@@ -238,3 +241,8 @@ El hongo da soporte, el alga alimento.
 ### Explicación Pedagógica
 
 Las algas verdes tienen clorofila similar a plantas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

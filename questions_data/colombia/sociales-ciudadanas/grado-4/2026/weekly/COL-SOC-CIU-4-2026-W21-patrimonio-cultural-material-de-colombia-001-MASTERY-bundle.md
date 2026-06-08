@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Patrimonio cultural material de Colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Patrimonio cultural material de Colombia
@@ -236,3 +239,8 @@ Diseña una campaña para proteger un monumento histórico de tu ciudad.
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W21, aborda el patrimonio cultural material de Colombia desde una perspectiva pedagógica con Bloom variado.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

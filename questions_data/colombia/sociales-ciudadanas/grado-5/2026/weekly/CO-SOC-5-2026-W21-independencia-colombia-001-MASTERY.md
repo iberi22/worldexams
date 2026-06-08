@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Independencia: 1810, El Florero de Llorente, primeras juntas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Que consecuencias tuvo la Reconquista espanola?
 Morillo ejecuto a lideres como Camilo Torres, Francisco Jose de Caldas y Policarpa Salavarrieta. Pero en los Llanos Orientales y Venezuela, la resistencia continuaba.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

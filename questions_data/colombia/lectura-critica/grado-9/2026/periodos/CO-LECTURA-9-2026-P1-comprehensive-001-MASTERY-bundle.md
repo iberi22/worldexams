@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Estructura del ensayo, textos filosóficos introductorios, análisis argumentativo, tesis y argumentos, tipos de argumentos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ensayo, Textos Filosóficos y Análisis Argumentativo
@@ -348,3 +351,8 @@ Las generalizaciones requieren muestras representativas. Para afirmar algo sobre
 
 ### Explicación Pedagógica
 Evaluar argumentos requiere analizar tanto el contenido (¿las premisas son ciertas?) como la forma (¿la conclusión se sigue de las premisas?). Un argumento puede ser emocionalmente persuasivo pero lógicamente débil, o lógicamente válido pero basado en premisas falsas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

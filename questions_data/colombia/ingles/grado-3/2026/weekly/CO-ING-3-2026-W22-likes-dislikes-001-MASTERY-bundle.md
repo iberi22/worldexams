@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Expressing preferences using I like, I don't like, and asking Do you like...?"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W22: Likes and Dislikes (A1)
@@ -223,3 +226,8 @@ Which sentence is correct?
 
 ### Explicación Pedagógica
 "I like bananas" es la estructura correcta. Con el sujeto "I", el verbo "like" no lleva "s".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

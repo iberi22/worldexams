@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "food vocabulary, meals, common Colombian foods in English"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Food Vocabulary (W17)
@@ -228,3 +231,8 @@ Healthy food: fruits, vegetables, lean proteins. Unhealthy: fried food, candy, s
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

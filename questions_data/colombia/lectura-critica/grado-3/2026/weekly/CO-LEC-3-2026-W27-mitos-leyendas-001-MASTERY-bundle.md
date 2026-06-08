@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 27
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mitos y Leyendas
@@ -202,3 +205,8 @@ En un pueblo, todos dicen que no hay que tirar basura al río porque el "Espíri
 
 ### Explicación Pedagógica
 Evaluar el impacto de los mitos y leyendas en la vida real de las comunidades permite al estudiante comprender que la literatura oral tiene un valor práctico y educativo en la sociedad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 14
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 3
@@ -211,3 +214,8 @@ Lees dos noticias sobre el mismo tema:
 
 ### Explicación Pedagógica
 Evaluar la carga subjetiva de los textos periodísticos desarrolla el pensamiento crítico. El estudiante debe identificar cuándo una información se convierte en un ataque personal u opinión sin sustento.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

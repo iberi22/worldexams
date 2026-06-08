@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Number recognition from 1 to 20, counting, and matching number names with digits."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W03: Numbers 1-20 (A1)
@@ -222,3 +225,8 @@ What is **10 + 8**?
 
 ### Explicación Pedagógica
 Diez (ten) más ocho (eight) es dieciocho. En inglés, combinamos "eight" con "-teen" para formar "eighteen".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

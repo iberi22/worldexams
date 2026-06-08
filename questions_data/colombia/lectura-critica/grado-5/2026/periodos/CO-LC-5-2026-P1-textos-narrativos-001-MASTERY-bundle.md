@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos narrativos, cuento, fábula, estructura narrativa, personajes, escenario"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Narrativos
@@ -241,3 +244,8 @@ La novela es más extensa, con más personajes y tramas más complejas.
 El nudo es la parte donde se desarrolla el conflicto principal de la historia.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

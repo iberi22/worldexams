@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "present perfect for experiences, first conditional (future), comparative and superlative adjectives, Colombian contexts"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Present Perfect, First Conditional and Comparatives (CEFR B1)
@@ -339,3 +342,8 @@ Read the following student paragraph and identify which sentence contains a gram
 
 ### Explicación Pedagógica
 The error is in sentence B. Present perfect ("have visited") cannot be used with specific past time expressions like "last year", "yesterday", or "in 2020". The correct version uses simple past: "I visited the Coffee Region last year." Present perfect would be correct without the specific time: "I have visited the Coffee Region."
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

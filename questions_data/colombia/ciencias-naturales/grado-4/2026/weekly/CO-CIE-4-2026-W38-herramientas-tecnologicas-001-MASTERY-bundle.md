@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "herramientas tecnolÃ³gicas, tecnologÃ­a, inventos, instrumentos, mediciÃ³n"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Herramientas tecnolÃ³gicas â€” Grado 4 â€” W38
@@ -278,3 +281,8 @@ TecnologÃ­a: necesidades humanas.
 TecnologÃ­a: comunicaciÃ³n global.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

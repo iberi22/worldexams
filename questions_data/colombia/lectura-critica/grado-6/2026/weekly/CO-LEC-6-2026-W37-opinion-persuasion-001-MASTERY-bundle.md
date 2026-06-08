@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "opinión, persuasión, recursos retóricos, apelación, argumentación persuasiva"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Opinión y Persuasión
@@ -211,3 +214,8 @@ Reflexión metacognitiva sobre la lectura crítica: un lector crítico no se dej
 
 ### Explicación Pedagógica Final
 Bundle enfocado en opinión y persuasión: identificación de opiniones, reconocimiento de recursos persuasivos (preguntas retóricas, datos, apelaciones emocionales vs. racionales), estrategias de concesión y refutación, y evaluación crítica de la efectividad persuasiva. A través de un debate colombiano actual —la reducción de la jornada escolar— los estudiantes desarrollan habilidades para leer críticamente textos persuasivos y reconocer cómo los autores buscan influir en sus lectores.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

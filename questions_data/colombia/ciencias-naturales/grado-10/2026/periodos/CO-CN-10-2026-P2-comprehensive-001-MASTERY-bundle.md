@@ -11,6 +11,9 @@ bundle_size: 20
 alignment: "DBA MEN + Pre-ICFES"
 modern_context: true
 distractor_profile: "plausible_peer_set"
+license: "FREE"
+tier: "legacy"
+
 ---
 # Bundle MASTERY: Ondas-Sonido, Genética Avanzada, Nomenclatura Química
 
@@ -237,3 +240,8 @@ Estudiante D: FeCl
 - [x] B) 9:3:3:1 <!-- feedback: Correcto. 9 lisa-amarilla : 3 lisa-verde : 3 rugosa-amarilla : 1 rugosa-verde. -->
 - [ ] C) 9:3:4 <!-- feedback: Incorrecto. 9:3:4 corresponde a epistasis recesiva, no a segregación independiente. -->
 - [ ] D) 1:2:1 <!-- feedback: Incorrecto. 1:2:1 es la proporción genotípica de un cruce monohíbrido. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

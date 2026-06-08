@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Sociedad colonial: castas, clases sociales y oficios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Como influye la epoca colonial en la Colombia actual?
 El legado colonial es inmenso: idioma espanol, religion catolica, arquitectura colonial, el mestizaje racial y cultural, las ciudades fundadas y muchas tradiciones.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

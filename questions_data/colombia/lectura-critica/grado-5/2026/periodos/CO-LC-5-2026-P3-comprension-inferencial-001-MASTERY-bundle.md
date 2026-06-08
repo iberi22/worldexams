@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "inferencia, deducción, causa-efecto, conclusión implícita"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Comprensión Inferencial
@@ -241,3 +244,8 @@ La preocupación ante un examen difícil sugiere falta de preparación o dificul
 Mirar el reloj y luego correr indica que la persona va tarde.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

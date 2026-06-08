@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "derivadas_basicas, reglas_derivacion, distribucion_normal, probabilidad_binomial, geometria_vectorial, secciones_conicas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Derivadas Básicas, Probabilidad y Distribuciones, Geometría Vectorial
@@ -458,3 +461,8 @@ La ecuación canónica de la parábola es y = a(x-h)² + k con vértice (h,k). S
 - [ ] B) x=200 unidades <!-- feedback: Incorrecto. G'(x)=0 → x=350. -->
 - [x] C) x=350 unidades <!-- feedback: Correcto. G(x)=120x-0.2x²-1000-50x+0.1x² = -0.1x²+70x-1000. G'(x)=-0.2x+70=0 → x=350. G''(350)=-0.2<0 → máximo. -->
 - [ ] D) x=500 unidades <!-- feedback: Incorrecto. G'(500)=-100+70=-30<0, la ganancia ya está decreciendo. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

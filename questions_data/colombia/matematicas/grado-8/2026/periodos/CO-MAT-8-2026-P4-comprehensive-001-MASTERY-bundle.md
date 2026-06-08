@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistemas de ecuaciones 2x2, volumen de cuerpos geométricos, introducción a estadística inferencial"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistemas 2x2, Volumen y Estadística Inferencial
@@ -336,3 +339,8 @@ La estadística inferencial permite estimar características de una población b
 
 ### Explicación Pedagógica
 Al aplicar fórmulas en situaciones reales, es importante verificar si el resultado cumple los requisitos. En este caso, $V = \frac{1}{3}\pi(6)^2(8) \approx 301.44$ m³, que supera el mínimo de 300 m³.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

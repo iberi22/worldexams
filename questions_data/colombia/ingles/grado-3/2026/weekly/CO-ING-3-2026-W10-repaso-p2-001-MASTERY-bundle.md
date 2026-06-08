@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of classroom objects, commands, and family members."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W10: Repaso Periodo 2 (A1)
@@ -181,3 +184,8 @@ Which object is used to **erase**?
 
 ### Explicación Pedagógica
 El borrador se llama "eraser".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

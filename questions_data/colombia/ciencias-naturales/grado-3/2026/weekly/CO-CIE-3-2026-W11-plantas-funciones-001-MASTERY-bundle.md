@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Funciones vitales de las plantas: nutrición, relación y reproducción vegetal."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Funciones de las Plantas
@@ -267,3 +270,8 @@ Basado en lo que aprendiste de sus funciones, ¿por qué esa afirmación es inco
 ### Explicación Pedagógica
 
 Las plantas son las fábricas químicas más eficientes del mundo. Sin ellas, no habría oxígeno ni comida para los animales. Su "quietud" es solo exterior; por dentro, son organismos increíblemente activos y necesarios para la vida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

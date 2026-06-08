@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "repaso_p6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso P6: Geografia Fisica
@@ -190,3 +193,8 @@ Linea intl. de cambio de fecha:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Meridiano 180°.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

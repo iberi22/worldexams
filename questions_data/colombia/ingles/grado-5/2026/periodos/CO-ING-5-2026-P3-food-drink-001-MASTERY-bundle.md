@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "food, drinks, countable, uncountable, likes/dislikes, restaurant vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Food and Drink
@@ -241,3 +244,8 @@ Beverages = bebidas. Appetizers = entradas. Main course = plato fuerte. Desserts
 Arepas with milk or chocolate is a typical Colombian breakfast.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

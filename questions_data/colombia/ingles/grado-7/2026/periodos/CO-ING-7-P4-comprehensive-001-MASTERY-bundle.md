@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "past_continuous, present_perfect_vs_past_simple, reading_comprehension"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: English Grade 7 — Period 4
@@ -377,3 +380,8 @@ Which sentence about Laura is TRUE?
 
 ### Explicación Pedagógica
 Reading comprehension requires careful attention to every sentence. This text uses present perfect (life experiences, ongoing situation) and past simple (specific events). Understanding these tenses helps you answer accurately.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

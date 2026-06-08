@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W22 — Repaso P5: Circulatorio y Respiratorio
@@ -229,3 +232,7 @@ El pulso es la onda de presión que viaja por las arterias con cada latido. Se p
 El ejercicio aeróbico (correr, nadar, montar bicicleta, caminar rápido) mejora: (1) capacidad cardíaca (bombea más sangre con menos esfuerzo), (2) capacidad pulmonar (más eficiencia en intercambio de gases), (3) reduce presión arterial y colesterol, (4) controla peso, (5) reduce estrés y ansiedad, (6) mejora sueño. Recomendación OMS: 150 min/semana de actividad moderada.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "physical appearance, hair, eyes, height, body adjectives"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Describing People - Appearance (W22)
@@ -228,3 +231,8 @@ Vocabulary for body types: lanky (larguirucho/a), slim (delgado/a), stocky (rech
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

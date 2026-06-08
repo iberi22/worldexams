@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W30 — Repaso Periodo 7: Sistema Reproductor, Pubertad y Salud Sexual
@@ -231,3 +234,8 @@ Ordena cronológicamente los siguientes eventos del sistema reproductor femenino
 
 ### Explicación Pedagógica
 El **orden cronológico del ciclo reproductivo femenino** es: (1) Bajo efecto de la FSH, varios folículos ováricos comienzan a madurar, pero solo uno se vuelve dominante; (2) Aproximadamente el día 14 del ciclo, un pico de LH desencadena la **ovulación**, el folículo se rompe y libera el óvulo; (3) Si hay espermatozoides en las trompas de Falopio, puede ocurrir la **fecundación** (unión del óvulo y el espermatozoide) formando un cigoto; (4) Si no hay fecundación, el óvulo se desintegra, el cuerpo lúteo degenera, los niveles de progesterona caen, y el endometrio se desprende causando la **menstruación** (aprox. día 28). El ciclo se repite aproximadamente cada 28 días desde la menarquia hasta la menopausia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

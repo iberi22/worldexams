@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "texto expositivo, estructura informativa, datos, hechos, explicacion objetiva, causas y consecuencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — La Deforestacion en la Amazonia Colombiana
@@ -185,3 +188,7 @@ Tipo de solucion propuesta:
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 06. Tema: Texto Expositivo. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

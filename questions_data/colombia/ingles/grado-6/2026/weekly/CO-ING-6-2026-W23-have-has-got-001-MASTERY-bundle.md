@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "have/has got for possession, describing objects, has got questions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Have / Has Got (W23)
@@ -228,3 +231,8 @@ Error correction: 'She have got' → 'She has got'. Third person singular must u
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

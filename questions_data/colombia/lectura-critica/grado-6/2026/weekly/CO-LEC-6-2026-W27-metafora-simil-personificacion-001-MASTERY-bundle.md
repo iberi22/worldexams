@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "metáfora, símil, personificación, lenguaje figurado, imágenes poéticas, interpretación"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Metáfora, Símil y Personificación
@@ -211,3 +214,8 @@ Aplicación práctica: transformar lenguaje literal en lenguaje figurado. La cla
 
 ### Explicación Pedagógica Final
 Bundle enfocado en las tres figuras literarias fundamentales: metáfora, símil y personificación. A través de textos inspirados en la cultura colombiana (abuela, cafetales del Quindío, mochilas Wayúu de La Guajira), los estudiantes aprenden a identificar cada figura, distinguir entre metáfora y símil, reconocer personificaciones, y comprender cómo el lenguaje figurado transforma lo cotidiano en algo bello y significativo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

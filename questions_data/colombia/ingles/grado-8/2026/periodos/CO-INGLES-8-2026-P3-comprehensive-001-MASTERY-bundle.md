@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Past perfect basic, conditional type 1, future continuous, CEFR A2-B1"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Past Perfect, Conditional Type 1, and Future Continuous
@@ -336,3 +339,8 @@ Why does the teacher use three different future/conditional structures?
 
 ### Explicación Pedagógica
 Cada estructura temporal comunica un matiz diferente: first conditional (condición y resultado posible), future continuous (proceso gradual en el futuro), future perfect (acción completada en un punto futuro). Elegir la estructura correcta permite expresar significados precisos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "daily routines, present simple, time, frequency, adverbs of frequency"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Daily Routines
@@ -241,3 +244,8 @@ Irregular plural: tooth → teeth (not 'tooths').
 'Watch TV' = ver televisión. 'Watch' is for moving images.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

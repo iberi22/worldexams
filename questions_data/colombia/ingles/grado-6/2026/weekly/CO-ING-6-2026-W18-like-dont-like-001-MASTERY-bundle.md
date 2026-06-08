@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "like/don't like, food preferences, simple present questions and answers"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Like and Don't Like (W18)
@@ -228,3 +231,8 @@ Reading and understanding who likes and who doesn't like something.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

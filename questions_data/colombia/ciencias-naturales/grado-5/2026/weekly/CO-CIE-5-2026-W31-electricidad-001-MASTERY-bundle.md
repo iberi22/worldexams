@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Carga eléctrica, circuitos, conductores"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Electricidad Básica
@@ -238,3 +241,8 @@ El rayo busca el camino de menor resistencia.
 ### Explicación Pedagógica
 
 Protege edificios de daños.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

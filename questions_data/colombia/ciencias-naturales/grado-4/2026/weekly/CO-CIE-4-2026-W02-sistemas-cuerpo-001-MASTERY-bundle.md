@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Sistemas del cuerpo humano: sistema óseo, muscular, digestivo, respiratorio, circulatorio, nervioso; funciones principales y órganos asociados"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistemas del Cuerpo Humano — Grado 4
@@ -272,3 +275,8 @@ El **sistema óseo** y el **sistema muscular** trabajan juntos para:
 ### Explicación Pedagógica
 El **sistema óseo** y el **sistema muscular** forman el **sistema locomotor**. Los huesos son las palancas y los músculos son los motores que las mueven. Los músculos están sujetos a los huesos mediante tendones. Cuando un músculo se contrae, jala el hueso y produce el movimiento.
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

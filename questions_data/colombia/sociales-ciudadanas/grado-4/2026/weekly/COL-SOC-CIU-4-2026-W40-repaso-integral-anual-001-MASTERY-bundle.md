@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso integral anual de Ciencias Sociales y Ciudadanas - Grado 4"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso integral anual
@@ -236,3 +239,8 @@ Diseña un proyecto que aplique todo lo aprendido en Ciencias Sociales para mejo
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W40, es el repaso integral anual de los temas vistos durante todo el año.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

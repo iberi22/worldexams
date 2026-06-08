@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Familia, tipos de familia, nuclear, extensa, monoparental, homoparental, roles familiares, funciones de la familia, valores familiares"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Familia y sus Tipos
@@ -236,3 +239,8 @@ Se evalúa la capacidad de proponer actividades inclusivas que respeten la diver
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, semana 7, aborda la Familia y sus Tipos desde el contexto colombiano. Evalúa el conocimiento de los diferentes tipos de familia (nuclear, extensa, monoparental, ensamblada, homoparental), la comprensión de sus funciones (protección, educación en valores, satisfacción de necesidades básicas), la capacidad de analizar situaciones familiares diversas, y la habilidad de proponer actividades inclusivas que respeten la diversidad familiar. El objetivo es que los estudiantes reconozcan y valoren la diversidad de familias en la Colombia actual y comprendan que lo esencial en una familia es el amor, el respeto y el cuidado mutuo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

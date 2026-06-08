@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W26 -- REPASO Periodo 3
@@ -227,3 +230,7 @@ Curso A: media 3.8, mediana 4.0. Curso B: media 3.8, mediana 3.5. Que curso es p
 
 ### Explicacion Pedagogica
 Misma media, pero mediana A=4.0 > B=3.5 sugiere que A tiene mejores notas.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

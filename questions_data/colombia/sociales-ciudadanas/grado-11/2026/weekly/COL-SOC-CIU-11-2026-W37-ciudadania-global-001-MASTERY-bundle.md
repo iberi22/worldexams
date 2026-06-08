@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ciudadania global"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciudadanía global: ODS y Agenda 2030 en Colombia — W37
@@ -560,3 +563,8 @@ Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la 
 ### Explicación Pedagógica
 
 El estudio de la ciudadanía global y los ODS es fundamental para comprender la realidad colombiana. Teniendo en cuenta la situación de Colombia en 2025-2026, ¿qué aspecto de la ciudadanía global y los ODS es más relevante para el desarrollo del país? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

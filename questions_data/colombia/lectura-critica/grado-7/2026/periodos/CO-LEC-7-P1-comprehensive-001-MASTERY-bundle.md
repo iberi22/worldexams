@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos_expositivos, idea_principal, argumentos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lenguaje / Lectura Crítica Grado 7 — Periodo 1
@@ -377,3 +380,8 @@ Un artículo de opinión afirma: "Si no protegemos los páramos colombianos, las
 
 ### Explicación Pedagógica
 La argumentación causal establece una relación de causa y efecto: la no protección de páramos genera escasez de agua, lo que justifica la conclusión (prohibir la minería). Identificar la estructura ayuda a evaluar la solidez del argumento.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

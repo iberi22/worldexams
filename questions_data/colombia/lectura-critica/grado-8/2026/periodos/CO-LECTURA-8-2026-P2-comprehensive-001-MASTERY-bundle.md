@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Oratoria, argumentación, figuras literarias, sintaxis avanzada, discurso persuasivo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Oratoria, Argumentación, Figuras Literarias y Sintaxis Avanzada
@@ -336,3 +339,8 @@ La postura crítica no es sinónimo de descalificación total. Un lector crític
 
 ### Explicación Pedagógica
 La "posverdad" (post-truth) se refiere a un contexto sociopolítico donde los hechos objetivos tienen menos influencia en la opinión pública que las emociones y las creencias personales. Esto hace que la lectura crítica y la argumentación sólida sean habilidades esenciales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

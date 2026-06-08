@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "literatura colombiana, literatura latinoamericana, analisis literario, contexto historico, generos literarios"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Literatura Colombiana y Latinoamericana — Grado 11
@@ -251,3 +254,8 @@ Identificación directa sin 'como' (ojos = luceros).
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W25. Tema: Literatura Colombiana y Latinoamericana. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

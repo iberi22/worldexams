@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "physical appearance, adjectives, has/have, describing family members"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Describing People (W07)
@@ -228,3 +231,8 @@ Leer descripciones requiere conectar adjetivos con personas plausibles. "Tall", 
 "I am short hair" es incorrecto porque "short hair" no es una característica de identidad. Lo correcto es "I have short hair" o "My hair is short".
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

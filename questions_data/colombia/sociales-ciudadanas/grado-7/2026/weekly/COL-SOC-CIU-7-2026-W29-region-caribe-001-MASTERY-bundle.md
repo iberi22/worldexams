@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "region caribe"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Región Caribe: geografía, clima y economía — W29
@@ -290,3 +293,8 @@ Los estudiantes de grado 7 en la I.E. de Bucaramanga exploran la región Caribe 
 ### Explicación Pedagógica
 
 El estudio de la región Caribe es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre la región Caribe y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

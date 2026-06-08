@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "tesis, argumentos, premisas, conclusión, estructura argumentativa, evidencia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Tesis y Argumentos
@@ -206,3 +209,8 @@ Reflexión metacognitiva sobre la diferencia entre hechos y opiniones en textos 
 
 ### Explicación Pedagógica Final
 Bundle enfocado en tesis y argumentos: identificación de posturas, reconocimiento de tesis, tipos de argumentos (basados en datos, principios éticos, experiencia), contraargumentos y evaluación de la solidez argumentativa. A través de un debate actual en Colombia —la eliminación del servicio militar obligatorio— los estudiantes aprenden a analizar argumentos contrastantes, distinguir hechos de opiniones y evaluar críticamente la evidencia presentada.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)
