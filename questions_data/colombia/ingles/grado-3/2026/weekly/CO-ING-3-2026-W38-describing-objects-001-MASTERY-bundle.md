@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "describing-objects"
+periodo: "weekly"
 semana: 38
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,52 +14,53 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Basic adjectives for describing objects: big, small, new, old, heavy, light."
 ---
 
 # Weekly Pack W38: Describing Objects (A1)
 
-Este bundle evalúa adjetivos para describir objetos en inglés: old, new, big, small. Nivel A1.
+Este bundle evalúa adjetivos básicos para describir objetos en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.95
+
+### Enunciado
+What is **"Grande"** in English? 🐘
+
+### Options
+- [x] A) Big <!-- feedback: Correct! Big is grande. -->
+- [ ] B) Small <!-- feedback: Incorrect. Small is pequeño. -->
+- [ ] C) New <!-- feedback: Incorrect. -->
+- [ ] D) Heavy <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Big" significa grande.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-You just bought a **new** pencil. What does "new" mean?
+What is **"Pequeño"** in English? 🐜
 
 ### Options
-- [ ] A) Viejo <!-- feedback: Incorrect. "Old" = viejo. -->
-- [x] B) Nuevo <!-- feedback: Correct! "New" = nuevo. A new pencil is recently bought. -->
-- [ ] C) Pequeño <!-- feedback: Incorrect. "Small" = pequeño. -->
-- [ ] D) Usado <!-- feedback: Incorrect. "Used" = usado. -->
+- [ ] A) Big <!-- feedback: Incorrect. -->
+- [x] B) Small <!-- feedback: Correct! Small is pequeño. -->
+- [ ] C) Old <!-- feedback: Incorrect. -->
+- [ ] D) Long <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"New" = nuevo. Algo new es recién comprado o fabricado. "New" se pronuncia "niú". ¡Un pencil new es emocionante!
-
----
-
-## Question 2 [D2-D3]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Lingüística
-**Expected_Success:** 0.85
-
-### Enunciado
-Your grandfather's car is very **old**. What does "old" mean for objects?
-
-### Options
-- [ ] A) Nuevo <!-- feedback: Incorrect. "New" = nuevo. -->
-- [ ] B) Rápido <!-- feedback: Incorrect. "Fast" = rápido. -->
-- [x] C) Viejo <!-- feedback: Correct! "Old" = viejo o antiguo. -->
-- [ ] D) Moderno <!-- feedback: Incorrect. "Modern" = moderno. -->
-
-### Explicación Pedagógica
-"Old" = viejo o antiguo (para objetos). Un carro old tiene muchos años. "Old" se pronuncia "óuld".
+"Small" significa pequeño.
 
 ---
 
@@ -66,119 +68,119 @@ Your grandfather's car is very **old**. What does "old" mean for objects?
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Lingüística
-**Expected_Success:** 0.80
+**Expected_Success:** 0.85
 
 ### Enunciado
-What is the opposite of **big**?
+An object you just bought is: ✨
 
 ### Options
-- [ ] A) Tall <!-- feedback: Incorrect. "Tall" is for height. -->
-- [ ] B) New <!-- feedback: Incorrect. Opposite of new is old. -->
-- [x] C) Small <!-- feedback: Correct! Big (grande) ↔ Small (pequeño). -->
-- [ ] D) Old <!-- feedback: Incorrect. Opposite of old is new. -->
+- [ ] A) Old <!-- feedback: Incorrect. -->
+- [x] B) New <!-- feedback: Correct! New is nuevo. -->
+- [ ] C) Big <!-- feedback: Incorrect. -->
+- [ ] D) Heavy <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-Opposites: big (grande) ↔ small (pequeño). "A big elephant and a small mouse" = un elefante grande y un ratón pequeño.
+"New" significa nuevo.
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
+**ICFES:** Lingüística
+**Expected_Success:** 0.80
+
+### Enunciado
+An object from many years ago is: 📻
+
+### Options
+- [x] A) Old <!-- feedback: Correct! Old is viejo. -->
+- [ ] B) New <!-- feedback: Incorrect. -->
+- [ ] C) Small <!-- feedback: Incorrect. -->
+- [ ] D) Light <!-- feedback: Incorrect. -->
+
+### Explicación Pedagógica
+"Old" significa viejo o antiguo cuando hablamos de objetos.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v5`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-An **old** book has:
+A **rock** is: 🪨
 
 ### Options
-- [ ] A) New pages <!-- feedback: Incorrect. New books have new pages. -->
-- [ ] B) A fresh smell <!-- feedback: Incorrect. New books smell fresh. -->
-- [x] C) Yellow pages and may look worn <!-- feedback: Correct! Old books have yellow pages and look used. -->
-- [ ] D) A modern cover <!-- feedback: Incorrect. Modern covers are for new books. -->
+- [ ] A) Light <!-- feedback: Incorrect. Light is ligero/liviano. -->
+- [x] B) Heavy <!-- feedback: Correct! Heavy is pesado. -->
+- [ ] C) New <!-- feedback: Incorrect. -->
+- [ ] D) Soft <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Old book" = libro viejo. Los libros old tienen páginas amarillas y pueden estar gastados. ¡Pero los old books tienen historias valiosas!
+"Heavy" significa pesado.
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v5`
+## Question 6 [D5-D6]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Pesado"** in English?
+A **feather** (pluma) is: 🪶
 
 ### Options
-- [ ] A) Light <!-- feedback: Incorrect. "Light" = liviano. -->
-- [ ] B) Small <!-- feedback: Incorrect. "Small" = pequeño. -->
-- [x] C) Heavy <!-- feedback: Correct! "Heavy" = pesado. -->
-- [ ] D) Big <!-- feedback: Incorrect. "Big" = grande. -->
+- [x] A) Light <!-- feedback: Correct! Light is ligero o liviano. -->
+- [ ] B) Heavy <!-- feedback: Incorrect. -->
+- [ ] C) Big <!-- feedback: Incorrect. -->
+- [ ] D) New <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Heavy" = pesado. Una maleta llena de libros es heavy. "Heavy" se pronuncia "jé-vi". ¡Los libros son heavy!
+"Light" significa ligero o liviano. ¡Es lo opuesto a heavy!
 
 ---
 
-## Question 6 [D4-D5]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v6`
-**Bloom:** Understand
+## Question 7 [D5-D6]
+**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v7`
+**Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-A feather is **light**. What does "light" mean?
+A **ruler** is: 📏
 
 ### Options
-- [ ] A) Pesado <!-- feedback: Incorrect. "Heavy" = pesado. -->
-- [x] B) Liviano <!-- feedback: Correct! "Light" = liviano. A feather (pluma) is very light. -->
-- [ ] C) Nuevo <!-- feedback: Incorrect. "New" = nuevo. -->
-- [ ] D) Duro <!-- feedback: Incorrect. "Hard" = duro. -->
+- [ ] A) Round <!-- feedback: Incorrect. -->
+- [x] B) Long <!-- feedback: Correct! Long is largo. -->
+- [ ] C) Short <!-- feedback: Incorrect. -->
+- [ ] D) Heavy <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Light" = liviano. Una pluma (feather) es light. "Light" se pronuncia "láit". ¡Casi no pesa!
-
----
-
-## Question 7 [D4-D5]
-**ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Lingüística
-**Expected_Success:** 0.60
-
-### Enunciado
-A rock is **hard**. A pillow is **soft**. What do "hard" and "soft" mean?
-
-### Options
-- [ ] A) Duro y pesado <!-- feedback: Incorrect. "Soft" is not heavy. -->
-- [ ] B) Blando y suave <!-- feedback: "Hard" is not soft. -->
-- [x] C) Duro y suave <!-- feedback: Correct! "Hard" = duro, "Soft" = suave. -->
-- [ ] D) Suave y blando <!-- feedback: Incorrect. "Hard" is not soft. -->
-
-### Explicación Pedagógica
-"Hard" = duro (como una roca). "Soft" = suave (como una almohada). ¡Cosas diferentes!
+"Long" significa largo.
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v8`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Lingüística
-**Expected_Success:** 0.55
+**Expected_Success:** 0.60
 
 ### Enunciado
-Complete: **"My backpack is very _____. It has many books inside."**
+A **pencil** that you have used a lot is: ✏️
 
 ### Options
-- [ ] A) light <!-- feedback: Incorrect. Many books make it heavy, not light. -->
-- [ ] B) small <!-- feedback: Incorrect. It could be small but that's not the main point. -->
-- [x] C) heavy <!-- feedback: Correct! Many books make a backpack heavy (pesada). -->
-- [ ] D) new <!-- feedback: Incorrect. It may be new, but the clue is "many books." -->
+- [ ] A) Long <!-- feedback: Incorrect. -->
+- [x] B) Short <!-- feedback: Correct! Short is corto/bajo. -->
+- [ ] C) Big <!-- feedback: Incorrect. -->
+- [ ] D) Heavy <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Heavy" = pesado. Si tienes muchos libros (many books) en tu mochila, está heavy. ¡Los estudiantes lo saben bien!
+"Short" significa corto cuando hablamos de la longitud de un objeto.
 
 ---
 
@@ -186,19 +188,19 @@ Complete: **"My backpack is very _____. It has many books inside."**
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.50
+**Expected_Success:** 0.55
 
 ### Enunciado
-You describe a **new smartphone**. It is:
+Complete: **"An elephant is big, but an ant is _______."**
 
 ### Options
-- [ ] A) Old and slow <!-- feedback: Incorrect. A new smartphone is modern. -->
-- [ ] B) Heavy and hard <!-- feedback: Incorrect. New phones are usually light. -->
-- [x] C) New and fast <!-- feedback: Correct! New smartphones are new (nuevos) and fast (rápidos). -->
-- [ ] D) Old and big <!-- feedback: Incorrect. A new phone is not old. -->
+- [ ] A) new <!-- feedback: Incorrect. -->
+- [ ] B) heavy <!-- feedback: Incorrect. -->
+- [x] C) small <!-- feedback: Correct! -->
+- [ ] D) long <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"New" = nuevo. "Fast" = rápido. Los smartphones new son modernos y rápidos. ¡Tecnología!
+El opuesto de "big" (grande) es "small" (pequeño).
 
 ---
 
@@ -206,16 +208,16 @@ You describe a **new smartphone**. It is:
 **ID:** `CO-ING-3-2026-W38-describing-objects-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Lingüística
-**Expected_Success:** 0.45
+**Expected_Success:** 0.50
 
 ### Enunciado
-Which word describes **this table**? It is very old but also very _____.
+What is the opposite of **"New"**?
 
 ### Options
-- [ ] A) new <!-- feedback: Incorrect. If it's old, it's not new. -->
-- [x] B) strong <!-- feedback: Correct! An old table can be strong (fuerte/sólida). -->
-- [ ] C) light <!-- feedback: Incorrect. The table's weight is not mentioned. -->
-- [ ] D) soft <!-- feedback: Incorrect. Tables are usually hard, not soft. -->
+- [ ] A) Big <!-- feedback: Incorrect. -->
+- [x] B) Old <!-- feedback: Correct! -->
+- [ ] C) Short <!-- feedback: Incorrect. -->
+- [ ] D) Light <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Strong" = fuerte/sólido. Una mesa old pero bien hecha puede ser very strong. ¡Calidad!
+El opuesto de "new" (nuevo) es "old" (viejo).

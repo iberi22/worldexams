@@ -177,3 +177,43 @@ class BundleValidator:
             valid = False
 
         return ValidationResult(valid, issues, warnings)
+
+if __name__ == "__main__":
+    import sys
+    import os
+
+    if len(sys.argv) < 2:
+        print("Usage: python3 bundle_validator.py <file_or_directory>")
+        sys.exit(1)
+
+    validator = BundleValidator()
+    target = sys.argv[1]
+
+    files_to_validate = []
+    if os.path.isfile(target):
+        files_to_validate.append(target)
+    elif os.path.isdir(target):
+        for root, _, files in os.walk(target):
+            for file in files:
+                if file.endswith(".md"):
+                    files_to_validate.append(os.path.join(root, file))
+
+    all_valid = True
+    for file_path in files_to_validate:
+        result = validator.validate_file(file_path)
+        if not result.valid:
+            all_valid = False
+            print(f"\n❌ INVALID: {file_path}")
+            for issue in result.issues:
+                print(f"  [{issue.severity}] {issue.message}")
+
+        if result.warnings:
+            print(f"\n⚠️ WARNINGS: {file_path}")
+            for warning in result.warnings:
+                print(f"  {warning}")
+
+    if all_valid:
+        print("\n✅ All files are valid!")
+        sys.exit(0)
+    else:
+        sys.exit(1)

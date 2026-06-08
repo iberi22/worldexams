@@ -4,6 +4,7 @@ country: "colombia"
 grado: 3
 asignatura: "ingles"
 tema: "likes-dislikes"
+periodo: "weekly"
 semana: 22
 protocol_version: "5.2"
 bundle_index: 1
@@ -13,209 +14,212 @@ cefr_level: "A1"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
+  expected_success_rate: 0.75
+rubric_baseline: "Expressing preferences using I like, I don't like, and asking Do you like...?"
 ---
 
 # Weekly Pack W22: Likes and Dislikes (A1)
 
-Este bundle evalúa cómo expresar gustos y preferencias en inglés usando "I like" e "I don't like", nivel A1.
+Este bundle evalúa cómo expresar gustos y preferencias en inglés.
 
 ---
 
-## Question 1 [D2-D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.90
 
 ### Enunciado
-What does **"I like"** mean in Spanish?
+How do you say **"Me gusta"**?
 
 ### Options
-- [ ] A) No me gusta <!-- feedback: Incorrect. That is "I don't like." -->
-- [ ] B) Odio <!-- feedback: Incorrect. "I hate" is stronger. -->
-- [x] C) Me gusta <!-- feedback: Correct! "I like" = me gusta. -->
-- [ ] D) Prefiero <!-- feedback: Incorrect. "I prefer" means prefiero. -->
+- [x] A) I like <!-- feedback: Correct! I like is me gusta. -->
+- [ ] B) I don't like <!-- feedback: Incorrect. This is no me gusta. -->
+- [ ] C) I am <!-- feedback: Incorrect. -->
+- [ ] D) I have <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"I like" = me gusta. Es la frase más básica para expresar que algo te agrada. "I like pizza" = Me gusta la pizza.
+Para expresar que algo nos gusta, usamos "I like".
 
 ---
 
-## Question 2 [D2-D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v2`
 **Bloom:** Remember
 **ICFES:** Lingüística
 **Expected_Success:** 0.85
 
 ### Enunciado
-What does **"I don't like"** mean in Spanish?
+How do you say **"No me gusta"**?
 
 ### Options
-- [ ] A) Me gusta mucho <!-- feedback: Incorrect. That means "I like a lot." -->
-- [ ] B) Me encanta <!-- feedback: Incorrect. "I love" = me encanta. -->
-- [x] C) No me gusta <!-- feedback: Correct! "I don't like" = no me gusta. -->
-- [ ] D) Tal vez <!-- feedback: Incorrect. "Maybe" = tal vez. -->
+- [ ] A) I like <!-- feedback: Incorrect. -->
+- [x] B) I don't like <!-- feedback: Correct! I don't like is no me gusta. -->
+- [ ] C) I am not <!-- feedback: Incorrect. -->
+- [ ] D) I like not <!-- feedback: Incorrect structure. -->
 
 ### Explicación Pedagógica
-"I don't like" = no me gusta. Se usa para expresar que algo no te agrada. "I don't like spinach" = No me gusta la espinaca.
+Para expresar que algo no nos gusta, usamos "I don't like".
 
 ---
 
 ## Question 3 [D3-D4]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.80
 
 ### Enunciado
-Someone says: **"I like dogs."** Is this positive or negative?
+How do you ask someone: **"¿Te gusta la pizza?"**
 
 ### Options
-- [ ] A) Negative <!-- feedback: Incorrect. "Like" is positive, not negative. -->
-- [x] B) Positive <!-- feedback: Correct! "Like" (gustar) is positive. The person likes dogs. -->
-- [ ] C) Neutral <!-- feedback: Incorrect. "Like" shows a clear positive feeling. -->
-- [ ] D) Angry <!-- feedback: Incorrect. "Like" is not angry. -->
+- [ ] A) You like pizza? <!-- feedback: Incorrect structure for a question. -->
+- [x] B) Do you like pizza? <!-- feedback: Correct! This is the standard question form. -->
+- [ ] C) Like you pizza? <!-- feedback: Incorrect structure. -->
+- [ ] D) Are you like pizza? <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"I like" expresa algo positivo. Si alguien dice "I like dogs", significa que le gustan los perros. ¡Positivo!
+Para hacer preguntas sobre gustos, usamos "Do you like...?".
 
 ---
 
 ## Question 4 [D3-D4]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.75
 
 ### Enunciado
-**"I don't like broccoli."** The speaker:
+If you like apples, you say:
 
 ### Options
-- [ ] A) Likes broccoli <!-- feedback: Incorrect. "Don't like" is negative. -->
-- [x] B) Does not like broccoli <!-- feedback: Correct! The person does not like broccoli (brócoli). -->
-- [ ] C) Loves broccoli <!-- feedback: Incorrect. "Loves" is very positive. -->
-- [ ] D) Wants broccoli <!-- feedback: Incorrect. "Want" means querer. -->
+- [x] A) I like apples <!-- feedback: Correct! -->
+- [ ] B) I like apple <!-- feedback: Incorrect. We usually use plural for general likes. -->
+- [ ] C) I don't like apples <!-- feedback: Incorrect. This says you don't like them. -->
+- [ ] D) I am apple <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"Don't like" = no gusta. La persona no disfruta el brócoli. ¡Muchos niños colombianos tampoco!
+"I like apples" significa "Me gustan las manzanas".
 
 ---
 
-## Question 5 [D4-D5]
-**ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v5`
-**Bloom:** Remember
+## Question 5 [D3-D4]
+**ID:** `CO-ING-3-2022-W22-likes-dislikes-001-MASTERY-v5`
+**Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.70
 
 ### Enunciado
-What is **"Me encanta"** in English?
+Answer the question: **"Do you like milk?"** (Respuesta afirmativa).
 
 ### Options
-- [ ] A) I don't like <!-- feedback: Incorrect. "I don't like" is negative. -->
-- [ ] B) I like <!-- feedback: Incorrect. "I like" is less strong. -->
-- [x] C) I love <!-- feedback: Correct! "I love" = me encanta. Es más fuerte que "I like." -->
-- [ ] D) I hate <!-- feedback: Incorrect. "I hate" means odio. -->
+- [x] A) Yes, I do <!-- feedback: Correct! Standard short answer. -->
+- [ ] B) Yes, I like <!-- feedback: Incorrect. In short answers we use the auxiliary "do". -->
+- [ ] C) No, I don't <!-- feedback: Incorrect. This is negative. -->
+- [ ] D) Yes, I am <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"I love" = me encanta. Es más fuerte que "I like". "I love ice cream" = Me encanta el helado. ¡Una expresión de mucho gusto!
+Al responder una pregunta que empieza con "Do", usamos "Yes, I do" para sí, o "No, I don't" para no.
 
 ---
 
-## Question 6 [D4-D5]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Pragmática
+**Bloom:** Apply
+**ICFES:** Lingüística
 **Expected_Success:** 0.65
 
 ### Enunciado
-You want to say you **like** playing soccer. What do you say?
+Answer the question: **"Do you like spiders?"** 🕷️ (Respuesta negativa).
 
 ### Options
-- [ ] A) I don't like soccer. <!-- feedback: Incorrect. That means you don't like it. -->
-- [x] B) I like soccer. <!-- feedback: Correct! "I like soccer" = Me gusta el fútbol. -->
-- [ ] C) I hate soccer. <!-- feedback: Incorrect. "I hate" means odio. -->
-- [ ] D) I am soccer. <!-- feedback: Incorrect. That doesn't make sense. -->
+- [ ] A) Yes, I do <!-- feedback: Incorrect. -->
+- [x] B) No, I don't <!-- feedback: Correct! Standard negative short answer. -->
+- [ ] C) No, I like not <!-- feedback: Incorrect. -->
+- [ ] D) I don't like <!-- feedback: Incorrect as a short answer to a Do-question. -->
 
 ### Explicación Pedagógica
-Para decir que te gusta algo: "I like + [cosa]". "I like soccer" (me gusta el fútbol). ¡El fútbol es el deporte favorito de Colombia!
+"No, I don't" es la forma corta y correcta de decir que algo no te gusta ante una pregunta.
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D5-D6]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Pragmática
 **Expected_Success:** 0.60
 
 ### Enunciado
-**"I don't like spinach."** How can you say the same?
+What does **"I love chocolate"** mean?
 
 ### Options
-- [ ] A) I like spinach. <!-- feedback: Incorrect. That's the opposite. -->
-- [ ] B) I love spinach. <!-- feedback: Incorrect. That's very positive. -->
-- [x] C) I hate spinach. <!-- feedback: Closest! "Hate" (odiar) is stronger but also negative. -->
-- [ ] D) Spinach is good. <!-- feedback: Incorrect. That's positive. -->
+- [ ] A) No me gusta el chocolate <!-- feedback: Incorrect. -->
+- [ ] B) Me gusta el chocolate <!-- feedback: Incorrect. Love is stronger than like. -->
+- [x] C) Me encanta el chocolate <!-- feedback: Correct! Love means encantar or amar. -->
+- [ ] D) No quiero chocolate <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
-"I hate" = odio. Es más fuerte que "I don't like" pero expresa también desagrado. "I hate spinach" = Odio la espinaca.
+"I love" es una forma más fuerte de "I like", significa "me encanta".
 
 ---
 
 ## Question 8 [D5-D6]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.55
 
 ### Enunciado
-Complete: **"I _____ chocolate. It is my favorite!"**
+Complete: **"I _______ like onions. They are yucky!"**
 
 ### Options
-- [ ] A) don't like <!-- feedback: Incorrect. If it's your favorite, you like it. -->
-- [ ] B) hate <!-- feedback: Incorrect. If it's your favorite, you don't hate it. -->
-- [x] C) love <!-- feedback: Correct! "I love chocolate" = Me encanta el chocolate. -->
-- [ ] D) hate <!-- feedback: Incorrect. Same negative option repeated. -->
+- [ ] A) do <!-- feedback: Incorrect. Yucky means it's bad. -->
+- [x] B) don't <!-- feedback: Correct! If it's yucky, you don't like it. -->
+- [ ] C) am <!-- feedback: Incorrect. -->
+- [ ] D) not <!-- feedback: Incorrect without "do". -->
 
 ### Explicación Pedagógica
-"Love" expresa un gusto muy fuerte. Si el chocolate es tu favorite (favorito), dices "I love chocolate."
+"Yucky" significa asqueroso o desagradable. Por eso usamos "I don't like".
 
 ---
 
 ## Question 9 [D5-D6]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v9`
 **Bloom:** Apply
-**ICFES:** Pragmática
+**ICFES:** Lingüística
 **Expected_Success:** 0.50
 
 ### Enunciado
-Your friend says: **"I like arepas."** You also like arepas. What do you say?
+Complete the dialogue:
+**Tom:** "Do you like soccer?"
+**Lila:** "Yes, ______."
 
 ### Options
-- [ ] A) I don't like arepas. <!-- feedback: Incorrect. You do like them. -->
-- [ ] B) I hate arepas. <!-- feedback: Incorrect. You don't hate them. -->
-- [x] C) I like arepas too! <!-- feedback: Correct! "Too" = también. A ti también te gustan. -->
-- [ ] D) Arepas are bad. <!-- feedback: Incorrect. You like them. -->
+- [ ] A) I like <!-- feedback: Incorrect. -->
+- [x] B) I do <!-- feedback: Correct! -->
+- [ ] C) I am <!-- feedback: Incorrect. -->
+- [ ] D) you do <!-- feedback: Incorrect. Lila is talking about herself. -->
 
 ### Explicación Pedagógica
-"Too" = también. "I like arepas too" = A mí también me gustan las arepas. ¡Las arepas colombianas son deliciosas!
+La respuesta corta correcta es "Yes, I do".
 
 ---
 
 ## Question 10 [D5-D6]
 **ID:** `CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Pragmática
+**Bloom:** Understand
+**ICFES:** Lingüística
 **Expected_Success:** 0.45
 
 ### Enunciado
-Your mother asks: **"Do you like vegetables?"** You don't. What do you answer?
+Which sentence is correct?
 
 ### Options
-- [ ] A) Yes, I like vegetables. <!-- feedback: Incorrect. You don't like them. -->
-- [ ] B) I love vegetables. <!-- feedback: Incorrect. You don't love them. -->
-- [x] C) No, I don't like vegetables. <!-- feedback: Correct! You answer "No, I don't like vegetables." -->
-- [ ] D) Vegetables are my favorite. <!-- feedback: Incorrect. That means you like them. -->
+- [x] A) I like bananas <!-- feedback: Correct! -->
+- [ ] B) I like a bananas <!-- feedback: Incorrect. No "a" before plural. -->
+- [ ] C) I don't likes bananas <!-- feedback: Incorrect. No "s" in the verb with "I". -->
+- [ ] D) I not like bananas <!-- feedback: Incorrect structure. -->
 
 ### Explicación Pedagógica
-Para responder negativamente a "Do you like...?" se dice "No, I don't like..." (No, no me gusta...). ¡Pero come verduras, son saludables!
+"I like bananas" es la estructura correcta. Con el sujeto "I", el verbo "like" no lleva "s".
