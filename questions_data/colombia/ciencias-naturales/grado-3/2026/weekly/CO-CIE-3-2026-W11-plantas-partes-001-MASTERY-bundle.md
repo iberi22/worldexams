@@ -9,13 +9,13 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "partes de las plantas, raíz, tallo, hojas, flores, frutos"
+rubric_baseline: "partes de las plantas, raÃ­z, tallo, hojas, flores, frutos"
 ---
 
-# Bundle Mastery: Plantas: partes (raíz, tallo, hojas, flores, frutos) — Grado 3 — W11
+# Bundle Mastery: Plantas: partes (raÃ­z, tallo, hojas, flores, frutos) â€” Grado 3 â€” W11
 
 10 preguntas sobre las partes de las plantas.
 
@@ -23,25 +23,25 @@ rubric_baseline: "partes de las plantas, raíz, tallo, hojas, flores, frutos"
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Cuál NO es parte de una planta?
+Â¿CuÃ¡l NO es parte de una planta?
 
 ### Opciones
-- [ ] A) Raíz
-  <!-- feedback: Sí. -->
+- [ ] A) RaÃ­z
+  <!-- feedback: SÃ­. -->
 - [ ] B) Tallo
-  <!-- feedback: Sí. -->
+  <!-- feedback: SÃ­. -->
 - [x] C) Cerebro
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Hoja
-  <!-- feedback: Sí. -->
+  <!-- feedback: SÃ­. -->
 
-### Explicación Pedagógica
-Plantas: raíz, tallo, hojas, flores, frutos.
+### ExplicaciÃ³n PedagÃ³gica
+Plantas: raÃ­z, tallo, hojas, flores, frutos.
 
 ---
 
@@ -49,9 +49,9 @@ Plantas: raíz, tallo, hojas, flores, frutos.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Medellín, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en MedellÃ­n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Parte bajo tierra:
@@ -59,15 +59,15 @@ Parte bajo tierra:
 ### Opciones
 - [ ] A) Flor
   <!-- feedback: No. -->
-- [x] B) Raíz
-  <!-- feedback: ¡Correcto! -->
+- [x] B) RaÃ­z
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Hoja
   <!-- feedback: No. -->
 - [ ] D) Fruto
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíz crece bajo tierra.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­z crece bajo tierra.
 
 ---
 
@@ -75,24 +75,24 @@ Raíz crece bajo tierra.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Girardot, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Girardot, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué sostiene hojas y flores?
+Â¿QuÃ© sostiene hojas y flores?
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [x] B) Tallo
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Hoja
   <!-- feedback: No. -->
 - [ ] D) Fruto
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Tallo sostiene y transporta.
 
 ---
@@ -101,9 +101,9 @@ Tallo sostiene y transporta.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio San José en Cali, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio San JosÃ© en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Hojas verdes por:
@@ -112,13 +112,13 @@ Hojas verdes por:
 - [ ] A) Agua
   <!-- feedback: No. -->
 - [x] B) Clorofila
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Tierra
   <!-- feedback: No. -->
 - [ ] D) Flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Clorofila da color verde.
 
 ---
@@ -127,25 +127,25 @@ Clorofila da color verde.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Leticia, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Parte que produce semillas:
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [ ] B) Tallo
   <!-- feedback: No. -->
 - [x] C) Flor
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Hoja
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Flor es órgano reproductor.
+### ExplicaciÃ³n PedagÃ³gica
+Flor es Ã³rgano reproductor.
 
 ---
 
@@ -153,25 +153,25 @@ Flor es órgano reproductor.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Al regar, ¿qué parte absorbe agua?
+Al regar, Â¿quÃ© parte absorbe agua?
 
 ### Opciones
 - [ ] A) Hojas
   <!-- feedback: No. -->
-- [x] B) Raíz
-  <!-- feedback: ¡Correcto! -->
+- [x] B) RaÃ­z
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Flores
   <!-- feedback: No. -->
 - [ ] D) Fruto
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíz absorbe agua.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­z absorbe agua.
 
 ---
 
@@ -179,25 +179,25 @@ Raíz absorbe agua.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Santa Marta, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Santa Marta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Mariposa en una flor. ¿Qué parte visita?
+Mariposa en una flor. Â¿QuÃ© parte visita?
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [ ] B) Hoja
   <!-- feedback: No. -->
 - [x] C) Flor
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Tallo
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Flor produce néctar para polinizadores.
+### ExplicaciÃ³n PedagÃ³gica
+Flor produce nÃ©ctar para polinizadores.
 
 ---
 
@@ -205,24 +205,24 @@ Flor produce néctar para polinizadores.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Escuela Rural en Bucaramanga, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Tras polinización se forma:
+Tras polinizaciÃ³n se forma:
 
 ### Opciones
-- [ ] A) Raíces
+- [ ] A) RaÃ­ces
   <!-- feedback: No. -->
 - [x] B) Fruto con semillas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Tallos
   <!-- feedback: No. -->
 - [ ] D) Hojas
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Flor se convierte en fruto.
 
 ---
@@ -231,25 +231,25 @@ Flor se convierte en fruto.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Escuela Rural en Villavicencio, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Planta sin hojas no podría hacer:
+Planta sin hojas no podrÃ­a hacer:
 
 ### Opciones
 - [ ] A) Absorber agua
   <!-- feedback: No. -->
-- [x] B) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+- [x] B) FotosÃ­ntesis
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Sujetarse
   <!-- feedback: No. -->
 - [ ] D) Producir flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Hojas hacen fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Hojas hacen fotosÃ­ntesis.
 
 ---
 
@@ -257,24 +257,24 @@ Hojas hacen fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W11-plantas-partes-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Chía, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en ChÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Función del fruto:
+FunciÃ³n del fruto:
 
 ### Opciones
 - [ ] A) Ser colorido
   <!-- feedback: No. -->
 - [x] B) Proteger y dispersar semillas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Dar sombra
   <!-- feedback: No. -->
 - [ ] D) Almacenar agua
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Fruto protege y dispersa semillas.
 
 ---

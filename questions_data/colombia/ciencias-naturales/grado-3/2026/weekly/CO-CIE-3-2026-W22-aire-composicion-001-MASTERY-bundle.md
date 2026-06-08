@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "composición del aire, nitrógeno, oxígeno, dióxido de carbono, gases"
+rubric_baseline: "composiciÃ³n del aire, nitrÃ³geno, oxÃ­geno, diÃ³xido de carbono, gases"
 ---
 
-# Bundle Mastery: Aire: composición básica — Grado 3 — W22
+# Bundle Mastery: Aire: composiciÃ³n bÃ¡sica â€” Grado 3 â€” W22
 
-10 preguntas sobre la composición básica del aire.
+10 preguntas sobre la composiciÃ³n bÃ¡sica del aire.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Ibagué, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El aire está compuesto principalmente por:
+El aire estÃ¡ compuesto principalmente por:
 
 ### Opciones
-- [x] A) Oxígeno y nitrógeno
-  <!-- feedback: ¡Correcto! -->
+- [x] A) OxÃ­geno y nitrÃ³geno
+  <!-- feedback: Â¡Correcto! -->
 - [ ] B) Agua y tierra
   <!-- feedback: No. -->
-- [ ] C) Solo oxígeno
+- [ ] C) Solo oxÃ­geno
   <!-- feedback: No. -->
-- [ ] D) Solo CO₂
+- [ ] D) Solo COâ‚‚
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Aire: 78% nitrógeno, 21% oxígeno.
+### ExplicaciÃ³n PedagÃ³gica
+Aire: 78% nitrÃ³geno, 21% oxÃ­geno.
 
 ---
 
@@ -49,7 +49,7 @@ Aire: 78% nitrógeno, 21% oxígeno.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Manizales, la profesora presenta el siguiente ejercicio.
 
@@ -57,17 +57,17 @@ Aire: 78% nitrógeno, 21% oxígeno.
 El gas que necesitamos para respirar es:
 
 ### Opciones
-- [ ] A) Nitrógeno
+- [ ] A) NitrÃ³geno
   <!-- feedback: No. -->
-- [x] B) Oxígeno
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) CO₂
+- [x] B) OxÃ­geno
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) COâ‚‚
   <!-- feedback: No. -->
 - [ ] D) Helio
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Oxígeno es esencial para respirar.
+### ExplicaciÃ³n PedagÃ³gica
+OxÃ­geno es esencial para respirar.
 
 ---
 
@@ -75,7 +75,7 @@ Oxígeno es esencial para respirar.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Santa Marta, la profesora presenta el siguiente ejercicio.
 
@@ -86,13 +86,13 @@ El aire:
 - [ ] A) No existe
   <!-- feedback: No. -->
 - [x] B) Es materia aunque no la veamos
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Solo está en el campo
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Solo estÃ¡ en el campo
   <!-- feedback: No. -->
-- [ ] D) Es líquido
+- [ ] D) Es lÃ­quido
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Aire: materia gaseosa invisible.
 
 ---
@@ -101,24 +101,24 @@ Aire: materia gaseosa invisible.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Barranquilla, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Barranquilla, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué ocupa espacio: el aire o el vacío?
+Â¿QuÃ© ocupa espacio: el aire o el vacÃ­o?
 
 ### Opciones
-- [ ] A) El vacío
+- [ ] A) El vacÃ­o
   <!-- feedback: No. -->
 - [x] B) El aire
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Ninguno
   <!-- feedback: No. -->
 - [ ] D) Ambos
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Aire ocupa espacio (volumen).
 
 ---
@@ -127,25 +127,25 @@ Aire ocupa espacio (volumen).
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Sogamoso, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Sogamoso, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El dióxido de carbono en el aire:
+El diÃ³xido de carbono en el aire:
 
 ### Opciones
 - [ ] A) No existe
   <!-- feedback: No. -->
-- [x] B) Es usado por plantas para fotosíntesis
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Es el gas más abundante
+- [x] B) Es usado por plantas para fotosÃ­ntesis
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Es el gas mÃ¡s abundante
   <!-- feedback: No. -->
-- [ ] D) Es tóxico siempre
+- [ ] D) Es tÃ³xico siempre
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Plantas usan CO₂ para fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Plantas usan COâ‚‚ para fotosÃ­ntesis.
 
 ---
 
@@ -153,24 +153,24 @@ Plantas usan CO₂ para fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Yopal, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Si tapas un frasco vacío y lo sumerges, el agua no entra porque:
+Si tapas un frasco vacÃ­o y lo sumerges, el agua no entra porque:
 
 ### Opciones
 - [ ] A) El agua no puede mojar
   <!-- feedback: No. -->
 - [x] B) El aire ocupa espacio
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) El frasco es mágico
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) El frasco es mÃ¡gico
   <!-- feedback: No. -->
-- [ ] D) El agua es más ligera
+- [ ] D) El agua es mÃ¡s ligera
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Aire ocupa espacio y no deja entrar agua.
 
 ---
@@ -179,25 +179,25 @@ Aire ocupa espacio y no deja entrar agua.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Colegio Nacional en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Los seres vivos liberan CO₂ al:
+Los seres vivos liberan COâ‚‚ al:
 
 ### Opciones
 - [ ] A) Comer
   <!-- feedback: No. -->
 - [x] B) Respirar
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Dormir
   <!-- feedback: No. -->
 - [ ] D) Correr
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Respiración libera CO₂.
+### ExplicaciÃ³n PedagÃ³gica
+RespiraciÃ³n libera COâ‚‚.
 
 ---
 
@@ -205,25 +205,25 @@ Respiración libera CO₂.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Bucaramanga, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Bucaramanga, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Sin oxígeno en el aire:
+Sin oxÃ­geno en el aire:
 
 ### Opciones
-- [ ] A) Viviríamos igual
+- [ ] A) VivirÃ­amos igual
   <!-- feedback: No. -->
-- [x] B) No podríamos respirar
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Habría más plantas
+- [x] B) No podrÃ­amos respirar
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) HabrÃ­a mÃ¡s plantas
   <!-- feedback: No. -->
-- [ ] D) El cielo sería rojo
+- [ ] D) El cielo serÃ­a rojo
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Oxígeno: esencial para respiración.
+### ExplicaciÃ³n PedagÃ³gica
+OxÃ­geno: esencial para respiraciÃ³n.
 
 ---
 
@@ -231,24 +231,24 @@ Oxígeno: esencial para respiración.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en Montería, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué las plantas son importantes para mantener el aire limpio?
+Â¿Por quÃ© las plantas son importantes para mantener el aire limpio?
 
 ### Opciones
 - [ ] A) No son importantes
   <!-- feedback: No. -->
-- [x] B) Absorben CO₂ y liberan oxígeno
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Producen CO₂
+- [x] B) Absorben COâ‚‚ y liberan oxÃ­geno
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Producen COâ‚‚
   <!-- feedback: No. -->
 - [ ] D) Solo decoran
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Plantas purifican el aire.
 
 ---
@@ -257,24 +257,24 @@ Plantas purifican el aire.
 
 **ID:** `CO-CIE-3-2026-W22-aire-composicion-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Agustíniano en Pereira, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Pereira, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Si el aire no existiera, ¿qué pasaría?
+Si el aire no existiera, Â¿quÃ© pasarÃ­a?
 
 ### Opciones
-- [x] A) No habría sonido ni vida
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Habría más vida
+- [x] A) No habrÃ­a sonido ni vida
+  <!-- feedback: Â¡Correcto! -->
+- [ ] B) HabrÃ­a mÃ¡s vida
   <!-- feedback: No. -->
-- [ ] C) Solo habría agua
+- [ ] C) Solo habrÃ­a agua
   <!-- feedback: No. -->
-- [ ] D) No cambiaría nada
+- [ ] D) No cambiarÃ­a nada
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Aire: esencial para sonido y respiración.
+### ExplicaciÃ³n PedagÃ³gica
+Aire: esencial para sonido y respiraciÃ³n.
 
 ---

@@ -15,12 +15,12 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "Regiones naturales de Colombia"
+rubric_baseline: "Regiones naturales de Colombia: Caribe, Pacífica, Andina, Orinoquía, Amazonía, Insular"
 ---
 
 # Bundle Mastery: Regiones naturales de Colombia
 
-Este bundle explica las 5 regiones naturales de Colombia.
+Este bundle explica las seis regiones naturales de Colombia: características, relieve, clima, cultura y economía.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle explica las 5 regiones naturales de Colombia.
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Regiones naturales
+**Context:** Regiones naturales en Manizales
 
 ### Enunciado
-Cuantas regiones naturales tiene Colombia?
+¿Cuántas regiones naturales tiene Colombia?
 
 ### Options
-
-- [x] A) 5 regiones. <!-- feedback: 5. -->
-- [ ] B) 3 regiones. <!-- feedback: 5. -->
-- [ ] C) 7 regiones. <!-- feedback: 5. -->
-- [ ] D) 4 regiones. <!-- feedback: 5. -->
+- [ ] A) Cuatro regiones. <!-- feedback: Incorrecto. Colombia tiene 6 regiones. -->
+- [x] B) Seis regiones: Caribe, Pacífica, Andina, Orinoquía, Amazonía e Insular. <!-- feedback: Correcto. Colombia se divide en seis regiones naturales. -->
+- [ ] C) Cinco regiones. <!-- feedback: Incorrecto. Son seis. -->
+- [ ] D) Ocho regiones. <!-- feedback: Incorrecto. Son seis las reconocidas. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar las seis regiones naturales de Colombia.
 
 ---
 
@@ -51,20 +50,19 @@ Cuantas regiones naturales tiene Colombia?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Nombres regiones
+**Context:** Región Andina
 
 ### Enunciado
-Cuales son las regiones?
+¿Cuál es la región más poblada de Colombia?
 
 ### Options
-
-- [ ] A) Norte, sur, este, oeste. <!-- feedback: No. -->
-- [x] B) Caribe, Pacifico, Andina, Orinoquia y Amazonia. <!-- feedback: 5 regiones. -->
-- [ ] C) Bogota, Medellin, Cali. <!-- feedback: Ciudades. -->
-- [ ] D) Costa, montana. <!-- feedback: 5. -->
+- [ ] A) Región Caribe. <!-- feedback: Incorrecto. Aunque tiene ciudades importantes, no es la más poblada. -->
+- [x] B) Región Andina. <!-- feedback: Correcto. La región Andina concentra las principales ciudades y la mayor parte de la población. -->
+- [ ] C) Región Pacífica. <!-- feedback: Incorrecto. Es menos poblada. -->
+- [ ] D) Región Amazonía. <!-- feedback: Incorrecto. Es la menos poblada. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar la región más poblada de Colombia.
 
 ---
 
@@ -73,20 +71,19 @@ Cuales son las regiones?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Region Caribe
+**Context:** Región Caribe
 
 ### Enunciado
-Que caracteriza la region Caribe?
+¿Qué caracteriza a la región Caribe colombiana?
 
 ### Options
-
-- [ ] A) Selva amazonica. <!-- feedback: Amazonia. -->
-- [ ] B) Montanas y frio. <!-- feedback: Andina. -->
-- [x] C) Costas, playas, calor y musica como vallenato. <!-- feedback: Caribe. -->
-- [ ] D) Llanos. <!-- feedback: Orinoquia. -->
+- [ ] A) Clima frío y montañoso. <!-- feedback: Incorrecto. El Caribe es cálido. -->
+- [x] B) Clima cálido, costas sobre el Mar Caribe, cultura afrocolombiana e indígenas wayúu, música vallenato y cumbia. <!-- feedback: Correcto. La región Caribe es diversa en cultura y geografía. -->
+- [ ] C) Selva amazónica densa. <!-- feedback: Incorrecto. Esa es la Amazonía. -->
+- [ ] D) Llanuras extensas con ganadería. <!-- feedback: Incorrecto. Eso es la Orinoquía. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender las características de la región Caribe.
 
 ---
 
@@ -95,20 +92,19 @@ Que caracteriza la region Caribe?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Region Andina
+**Context:** Región Pacífica
 
 ### Enunciado
-Que caracteriza la region Andina?
+¿Qué caracteriza a la región Pacífica colombiana?
 
 ### Options
-
-- [ ] A) Llanuras. <!-- feedback: Orinoquia. -->
-- [ ] B) Playas y mar. <!-- feedback: Caribe. -->
-- [ ] C) Selva tropical. <!-- feedback: Amazonia. -->
-- [x] D) Montanas, cordilleras, clima variado y mayor poblacion. <!-- feedback: Andina. -->
+- [ ] A) Grandes centros comerciales. <!-- feedback: Incorrecto. Es una región con alta biodiversidad y cultura afro. -->
+- [ ] B) Clima templado y cultivo de café. <!-- feedback: Incorrecto. El café es andino. -->
+- [x] C) Alta pluviosidad, selvas húmedas, población afrocolombiana, música currulao y puertos como Buenaventura. <!-- feedback: Correcto. El Pacífico es una región muy lluviosa y biodiversa. -->
+- [ ] D) Desiertos y dunas de arena. <!-- feedback: Incorrecto. Eso es parte de La Guajira (Caribe). -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender las características de la región Pacífica.
 
 ---
 
@@ -117,20 +113,19 @@ Que caracteriza la region Andina?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Region Pacifico
+**Context:** Región Orinoquía
 
 ### Enunciado
-Que caracteriza el Pacifico?
+¿Qué actividad económica predomina en la región de la Orinoquía (Llanos Orientales)?
 
 ### Options
-
-- [x] A) Lluvias intensas, selva y cultura afrocolombiana. <!-- feedback: Pacifico. -->
-- [ ] B) Desierto. <!-- feedback: Lluvias. -->
-- [ ] C) Nieve. <!-- feedback: No. -->
-- [ ] D) Llanos. <!-- feedback: Selva. -->
+- [ ] A) Pesca marítima. <!-- feedback: Incorrecto. La Orinoquía no tiene costa. -->
+- [x] B) Ganadería extensiva y agricultura. <!-- feedback: Correcto. Los Llanos Orientales son conocidos por la ganadería y el cultivo de arroz y palma. -->
+- [ ] C) Minería de carbón. <!-- feedback: Incorrecto. Eso es más común en La Guajira. -->
+- [ ] D) Turismo de nieve. <!-- feedback: Incorrecto. No hay nieve en la Orinoquía. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre la economía de la Orinoquía.
 
 ---
 
@@ -139,20 +134,19 @@ Que caracteriza el Pacifico?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Region Orinoquia
+**Context:** Región Insular
 
 ### Enunciado
-Que hay en la Orinoquia?
+¿Qué territorios hacen parte de la región Insular de Colombia?
 
 ### Options
-
-- [ ] A) Montanas. <!-- feedback: Llanos. -->
-- [x] B) Llanos extensos, ganaderia y el joropo. <!-- feedback: Llanos. -->
-- [ ] C) Selva. <!-- feedback: Amazonia. -->
-- [ ] D) Costa. <!-- feedback: Caribe. -->
+- [ ] A) Solo la Isla de San Andrés. <!-- feedback: Incorrecto. Hay más islas. -->
+- [x] B) El archipiélago de San Andrés, Providencia y Santa Catalina en el Caribe, y las islas Malpelo y Gorgona en el Pacífico. <!-- feedback: Correcto. La región Insular incluye islas en ambos océanos. -->
+- [ ] C) La isla de Margarita. <!-- feedback: Incorrecto. Esa isla es de Venezuela. -->
+- [ ] D) Las islas Galápagos. <!-- feedback: Incorrecto. Esas son de Ecuador. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre la región Insular colombiana.
 
 ---
 
@@ -161,20 +155,19 @@ Que hay en la Orinoquia?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Region Amazonia
+**Context:** Amazonía colombiana
 
 ### Enunciado
-Que hay en la Amazonia?
+¿Por qué la región Amazónica es importante para el mundo?
 
 ### Options
-
-- [ ] A) Montanas. <!-- feedback: Selva. -->
-- [ ] B) Desierto. <!-- feedback: Selva. -->
-- [x] C) Selva tropical, gran biodiversidad y pueblos indigenas. <!-- feedback: Amazonia. -->
-- [ ] D) Playas. <!-- feedback: Selva. -->
+- [ ] A) Porque tiene grandes ciudades. <!-- feedback: Incorrecto. La Amazonía tiene poca población urbana. -->
+- [x] B) Porque es una de las reservas de biodiversidad más importantes del planeta y produce oxígeno. <!-- feedback: Correcto. El Amazonas es el pulmón del mundo. -->
+- [ ] C) Porque allí se cultiva café. <!-- feedback: Incorrecto. El café no es amazónico. -->
+- [ ] D) Porque tiene playas turísticas. <!-- feedback: Incorrecto. La Amazonía no tiene playas. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la importancia global de la Amazonía colombiana.
 
 ---
 
@@ -183,20 +176,19 @@ Que hay en la Amazonia?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Biodiversidad
+**Context:** Diferencias regionales
 
 ### Enunciado
-Que region es la mas biodiversa?
+¿Por qué hay tantas diferencias culturales entre las regiones naturales de Colombia?
 
 ### Options
-
-- [ ] A) El Caribe. <!-- feedback: Amazonia. -->
-- [ ] B) La Andina. <!-- feedback: Amazonia. -->
-- [ ] C) Los llanos. <!-- feedback: Amazonia. -->
-- [x] D) La Amazonia. <!-- feedback: Amazonia. -->
+- [ ] A) Porque están en diferentes continentes. <!-- feedback: Incorrecto. Todas están en el mismo país. -->
+- [ ] B) No hay diferencias, todas las regiones son iguales. <!-- feedback: Incorrecto. Hay grandes diferencias. -->
+- [x] C) Por las diferencias de clima, relieve, historia, grupos étnicos y actividades económicas de cada región. <!-- feedback: Correcto. Múltiples factores crean identidades regionales distintas. -->
+- [ ] D) Solo por el idioma. <!-- feedback: Incorrecto. Todas hablan español. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar las causas de la diversidad cultural regional.
 
 ---
 
@@ -205,20 +197,19 @@ Que region es la mas biodiversa?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia regiones
+**Context:** Desarrollo regional
 
 ### Enunciado
-Por que conocer las regiones?
+¿Crees que todas las regiones de Colombia tienen las mismas oportunidades de desarrollo?
 
 ### Options
-
-- [x] A) Para entender la diversidad geografica y cultural. <!-- feedback: Diversidad. -->
-- [ ] B) No es util. <!-- feedback: Si. -->
-- [ ] C) Solo para el mapa. <!-- feedback: Mucho. -->
-- [ ] D) Para viajar. <!-- feedback: Entender. -->
+- [ ] A) Sí, todas están igual de desarrolladas. <!-- feedback: Incorrecto. Hay grandes disparidades. -->
+- [x] B) No, la región Andina y Caribe tienen más desarrollo económico, mientras que la Pacífica y Amazonía enfrentan mayores desafíos. <!-- feedback: Correcto. Hay desigualdades regionales significativas. -->
+- [ ] C) La Amazonía es la más desarrollada. <!-- feedback: Incorrecto. Es la menos desarrollada. -->
+- [ ] D) Todas tienen el mismo nivel de pobreza. <!-- feedback: Incorrecto. Los niveles de desarrollo varían mucho. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar las disparidades de desarrollo entre las regiones.
 
 ---
 
@@ -227,22 +218,21 @@ Por que conocer las regiones?
 **ID:** `COL-SOC-CIU-4-2026-W39-regiones-naturales-de-colombia-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto regiones
+**Context:** Feria de regiones
 
 ### Enunciado
-Que proyecto harian sobre regiones?
+Diseña una feria de las regiones naturales para tu colegio. ¿Qué incluirías?
 
 ### Options
-
-- [ ] A) Solo leer. <!-- feedback: Practico. -->
-- [x] B) Exposicion con trajes tipicos y comidas de cada region. <!-- feedback: Exposicion. -->
-- [ ] C) No hacer. <!-- feedback: Crear. -->
-- [ ] D) Solo dibujar. <!-- feedback: Exposicion. -->
+- [ ] A) Solo mapas dibujados en cartulina. <!-- feedback: Incorrecto. Se pueden incluir más elementos interactivos. -->
+- [x] B) Muestras de comidas típicas, trajes regionales, música, bailes, maquetas del relieve y explicaciones sobre cada región. <!-- feedback: Correcto. Una feria interactiva permite experimentar la diversidad regional. -->
+- [ ] C) Un examen escrito sobre regiones. <!-- feedback: Incorrecto. No es una feria, es una evaluación. -->
+- [ ] D) Ver videos de turismo de otras regiones. <!-- feedback: Incorrecto. Ver videos no es interactivo. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear una feria interactiva sobre las regiones naturales de Colombia.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W39, aborda el tema de Regiones naturales de Colombia desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W39, aborda las seis regiones naturales de Colombia.

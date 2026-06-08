@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "función de raíz, tallo, hoja, flor, fruto"
+rubric_baseline: "funciÃ³n de raÃ­z, tallo, hoja, flor, fruto"
 ---
 
-# Bundle Mastery: Plantas: funciones de cada parte — Grado 3 — W13
+# Bundle Mastery: Plantas: funciones de cada parte â€” Grado 3 â€” W13
 
-10 preguntas sobre funciones específicas de las partes de la planta.
+10 preguntas sobre funciones especÃ­ficas de las partes de la planta.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Sincelejo, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Función principal de la raíz:
+FunciÃ³n principal de la raÃ­z:
 
 ### Opciones
-- [ ] A) Fotosíntesis
+- [ ] A) FotosÃ­ntesis
   <!-- feedback: No. -->
 - [x] B) Absorber agua y minerales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Producir semillas
   <!-- feedback: No. -->
 - [ ] D) Atraer polinizadores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíz absorbe agua y minerales.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­z absorbe agua y minerales.
 
 ---
 
@@ -49,24 +49,24 @@ Raíz absorbe agua y minerales.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Cali, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Transporta agua de raíz a hojas:
+Transporta agua de raÃ­z a hojas:
 
 ### Opciones
 - [ ] A) Hojas
   <!-- feedback: No. -->
 - [x] B) Tallo
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Flor
   <!-- feedback: No. -->
 - [ ] D) Fruto
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Tallo transporta nutrientes.
 
 ---
@@ -75,25 +75,25 @@ Tallo transporta nutrientes.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Riohacha, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Riohacha, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Dónde ocurre fotosíntesis?
+Â¿DÃ³nde ocurre fotosÃ­ntesis?
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [ ] B) Tallo
   <!-- feedback: No. -->
 - [x] C) Hojas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Fotosíntesis en hojas con clorofila.
+### ExplicaciÃ³n PedagÃ³gica
+FotosÃ­ntesis en hojas con clorofila.
 
 ---
 
@@ -101,9 +101,9 @@ Fotosíntesis en hojas con clorofila.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Pereira, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Pereira, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La flor sirve para:
@@ -111,15 +111,15 @@ La flor sirve para:
 ### Opciones
 - [ ] A) Absorber agua
   <!-- feedback: No. -->
-- [x] B) Reproducción
-  <!-- feedback: ¡Correcto! -->
+- [x] B) ReproducciÃ³n
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Sostener
   <!-- feedback: No. -->
 - [ ] D) Almacenar alimento
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Flor: órgano reproductor.
+### ExplicaciÃ³n PedagÃ³gica
+Flor: Ã³rgano reproductor.
 
 ---
 
@@ -127,24 +127,24 @@ Flor: órgano reproductor.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Agustíniano en Sincelejo, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Función del fruto:
+FunciÃ³n del fruto:
 
 ### Opciones
-- [ ] A) Fotosíntesis
+- [ ] A) FotosÃ­ntesis
   <!-- feedback: No. -->
 - [x] B) Proteger semillas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Absorber agua
   <!-- feedback: No. -->
 - [ ] D) Sostener
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Fruto protege semillas.
 
 ---
@@ -153,25 +153,25 @@ Fruto protege semillas.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Sin hojas no podría:
+Sin hojas no podrÃ­a:
 
 ### Opciones
 - [ ] A) Absorber agua
   <!-- feedback: No. -->
-- [x] B) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+- [x] B) FotosÃ­ntesis
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Sujetarse
   <!-- feedback: No. -->
 - [ ] D) Producir flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Hojas hacen fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Hojas hacen fotosÃ­ntesis.
 
 ---
 
@@ -179,25 +179,25 @@ Hojas hacen fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Raíces profundas para:
+RaÃ­ces profundas para:
 
 ### Opciones
 - [ ] A) Verse bonitas
   <!-- feedback: No. -->
 - [x] B) Sujetarse y buscar agua
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Volar
   <!-- feedback: No. -->
 - [ ] D) Producir frutos
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíces profundas buscan agua.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­ces profundas buscan agua.
 
 ---
 
@@ -205,9 +205,9 @@ Raíces profundas buscan agua.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Facatativá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en FacatativÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Tallo roto provoca:
@@ -216,13 +216,13 @@ Tallo roto provoca:
 - [ ] A) Nada
   <!-- feedback: No. -->
 - [x] B) Agua no llega a hojas
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Raíz crece más
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) RaÃ­z crece mÃ¡s
   <!-- feedback: No. -->
-- [ ] D) Flor más grande
+- [ ] D) Flor mÃ¡s grande
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Tallo transporta agua.
 
 ---
@@ -231,9 +231,9 @@ Tallo transporta agua.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Popayán, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Hojas planas y anchas para:
@@ -241,15 +241,15 @@ Hojas planas y anchas para:
 ### Opciones
 - [ ] A) Verse bonitas
   <!-- feedback: No. -->
-- [x] B) Capturar más luz
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Capturar mÃ¡s luz
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Pesar menos
   <!-- feedback: No. -->
 - [ ] D) Almacenar agua
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Hojas anchas capturan más luz.
+### ExplicaciÃ³n PedagÃ³gica
+Hojas anchas capturan mÃ¡s luz.
 
 ---
 
@@ -257,24 +257,24 @@ Hojas anchas capturan más luz.
 
 **ID:** `CO-CIE-3-2026-W13-plantas-funciones-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Facatativá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en FacatativÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Relación flor y fruto:
+RelaciÃ³n flor y fruto:
 
 ### Opciones
-- [ ] A) No tienen relación
+- [ ] A) No tienen relaciÃ³n
   <!-- feedback: No. -->
 - [x] B) Flor se transforma en fruto
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Fruto se vuelve flor
   <!-- feedback: No. -->
 - [ ] D) Son lo mismo
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Flor polinizada se transforma en fruto.
 
 ---

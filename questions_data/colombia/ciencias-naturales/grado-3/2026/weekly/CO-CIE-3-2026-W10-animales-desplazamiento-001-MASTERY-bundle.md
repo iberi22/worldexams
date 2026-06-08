@@ -9,21 +9,21 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "desplazamiento animal, cubierta corporal, pelos, plumas, escamas, nadar, volar"
 ---
 
-# Bundle Mastery: Animales: desplazamiento y cubierta corporal — Grado 3 — W10
+# Bundle Mastery: Animales: desplazamiento y cubierta corporal â€” Grado 3 â€” W10
 
-10 preguntas sobre cómo se desplazan los animales y qué cubre su cuerpo.
+10 preguntas sobre cÃ³mo se desplazan los animales y quÃ© cubre su cuerpo.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Sincelejo, la profesora presenta el siguiente ejercicio.
 
@@ -34,13 +34,13 @@ Los peces se desplazan:
 - [ ] A) Caminando
   <!-- feedback: No. -->
 - [x] B) Nadando
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Volando
   <!-- feedback: No. -->
 - [ ] D) Saltando
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Peces nadan con aletas.
 
 ---
@@ -49,7 +49,7 @@ Peces nadan con aletas.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Villavicencio, la profesora presenta el siguiente ejercicio.
 
@@ -60,13 +60,13 @@ Las aves tienen el cuerpo cubierto de:
 - [ ] A) Escamas
   <!-- feedback: No. -->
 - [x] B) Plumas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Pelo
   <!-- feedback: No. -->
-- [ ] D) Caparazón
+- [ ] D) CaparazÃ³n
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Aves tienen plumas.
 
 ---
@@ -75,7 +75,7 @@ Aves tienen plumas.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Escuela Rural en Duitama, la profesora presenta el siguiente ejercicio.
 
@@ -88,12 +88,12 @@ Perros y gatos tienen:
 - [ ] B) Plumas
   <!-- feedback: No. -->
 - [x] C) Pelo
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Concha
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Mamíferos tienen pelo.
+### ExplicaciÃ³n PedagÃ³gica
+MamÃ­feros tienen pelo.
 
 ---
 
@@ -101,9 +101,9 @@ Mamíferos tienen pelo.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Fusagasugá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animal que se arrastra y tiene escamas:
@@ -112,13 +112,13 @@ Animal que se arrastra y tiene escamas:
 - [ ] A) Pez
   <!-- feedback: No. -->
 - [x] B) Serpiente
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Ave
   <!-- feedback: No. -->
-- [ ] D) Mamífero
+- [ ] D) MamÃ­fero
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Reptiles tienen escamas.
 
 ---
@@ -127,24 +127,24 @@ Reptiles tienen escamas.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Facatativá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en FacatativÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué animal se desplaza saltando?
+Â¿QuÃ© animal se desplaza saltando?
 
 ### Opciones
 - [ ] A) Pez
   <!-- feedback: No. -->
 - [x] B) Canguro/rana
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Serpiente
   <!-- feedback: No. -->
 - [ ] D) Ave
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Canguro y rana saltan.
 
 ---
@@ -153,9 +153,9 @@ Canguro y rana saltan.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Popayán, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animal con aletas y escamas que vive en agua:
@@ -164,13 +164,13 @@ Animal con aletas y escamas que vive en agua:
 - [ ] A) Reptil
   <!-- feedback: No. -->
 - [x] B) Pez
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Mamífero
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) MamÃ­fero
   <!-- feedback: No. -->
 - [ ] D) Ave
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Pez: aletas y escamas.
 
 ---
@@ -179,7 +179,7 @@ Pez: aletas y escamas.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Riohacha, la profesora presenta el siguiente ejercicio.
 
@@ -187,17 +187,17 @@ Pez: aletas y escamas.
 Animal que vuela y tiene plumas:
 
 ### Opciones
-- [ ] A) Murciélago
+- [ ] A) MurciÃ©lago
   <!-- feedback: No. Tiene pelo. -->
 - [x] B) Ave
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Insecto
   <!-- feedback: No. -->
 - [ ] D) Reptil
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Aves: únicas con plumas.
+### ExplicaciÃ³n PedagÃ³gica
+Aves: Ãºnicas con plumas.
 
 ---
 
@@ -205,7 +205,7 @@ Aves: únicas con plumas.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Cali, la profesora presenta el siguiente ejercicio.
 
@@ -215,15 +215,15 @@ Vaca con pelo y 4 patas:
 ### Opciones
 - [ ] A) Ave
   <!-- feedback: No. -->
-- [x] B) Mamífero terrestre
-  <!-- feedback: ¡Correcto! -->
+- [x] B) MamÃ­fero terrestre
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Pez
   <!-- feedback: No. -->
 - [ ] D) Reptil
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Vaca es mamífero terrestre.
+### ExplicaciÃ³n PedagÃ³gica
+Vaca es mamÃ­fero terrestre.
 
 ---
 
@@ -231,24 +231,24 @@ Vaca es mamífero terrestre.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Cúcuta, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué los peces tienen escamas y los perros pelo?
+Â¿Por quÃ© los peces tienen escamas y los perros pelo?
 
 ### Opciones
-- [ ] A) Peces en agua fría
+- [ ] A) Peces en agua frÃ­a
   <!-- feedback: No. -->
-- [x] B) Escamas protegen en agua; pelo aísla del frío
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Perros más evolucionados
+- [x] B) Escamas protegen en agua; pelo aÃ­sla del frÃ­o
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Perros mÃ¡s evolucionados
   <!-- feedback: No. -->
-- [ ] D) Peces sin protección
+- [ ] D) Peces sin protecciÃ³n
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Cada cubierta se adapta al ambiente.
 
 ---
@@ -257,24 +257,24 @@ Cada cubierta se adapta al ambiente.
 
 **ID:** `CO-CIE-3-2026-W10-animales-desplazamiento-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Escuela Rural en Tunja, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué las aves tienen plumas y no pelo?
+Â¿Por quÃ© las aves tienen plumas y no pelo?
 
 ### Opciones
 - [x] A) Plumas ligeras para volar
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Aves no sienten frío
+  <!-- feedback: Â¡Correcto! -->
+- [ ] B) Aves no sienten frÃ­o
   <!-- feedback: No. -->
 - [ ] C) Pelo no existe
   <!-- feedback: No. -->
-- [ ] D) Más fácil de limpiar
+- [ ] D) MÃ¡s fÃ¡cil de limpiar
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Plumas son aerodinámicas y permiten volar.
+### ExplicaciÃ³n PedagÃ³gica
+Plumas son aerodinÃ¡micas y permiten volar.
 
 ---

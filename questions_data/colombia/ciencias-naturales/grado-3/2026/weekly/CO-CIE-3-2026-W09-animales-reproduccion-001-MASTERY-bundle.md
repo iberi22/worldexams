@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "reproducción animal, ovíparos, vivíparos"
+rubric_baseline: "reproducciÃ³n animal, ovÃ­paros, vivÃ­paros"
 ---
 
-# Bundle Mastery: Animales: reproducción (ovíparos, vivíparos) — Grado 3 — W09
+# Bundle Mastery: Animales: reproducciÃ³n (ovÃ­paros, vivÃ­paros) â€” Grado 3 â€” W09
 
-10 preguntas sobre reproducción animal: ovíparos y vivíparos.
+10 preguntas sobre reproducciÃ³n animal: ovÃ­paros y vivÃ­paros.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los animales que nacen de huevos se llaman:
 
 ### Opciones
-- [ ] A) Vivíparos
+- [ ] A) VivÃ­paros
   <!-- feedback: No. Nacen del vientre materno. -->
-- [x] B) Ovíparos
-  <!-- feedback: ¡Correcto! Nacen de huevos. -->
-- [ ] C) Mamíferos
+- [x] B) OvÃ­paros
+  <!-- feedback: Â¡Correcto! Nacen de huevos. -->
+- [ ] C) MamÃ­feros
   <!-- feedback: No. Es una clase de animal. -->
 - [ ] D) Reptiles
   <!-- feedback: No. Es una clase de animal. -->
 
-### Explicación Pedagógica
-Los ovíparos (gallinas, tortugas, peces) se desarrollan en huevos.
+### ExplicaciÃ³n PedagÃ³gica
+Los ovÃ­paros (gallinas, tortugas, peces) se desarrollan en huevos.
 
 ---
 
@@ -49,25 +49,25 @@ Los ovíparos (gallinas, tortugas, peces) se desarrollan en huevos.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Valledupar, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Valledupar, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los que se desarrollan dentro del vientre materno son:
 
 ### Opciones
-- [ ] A) Ovíparos
+- [ ] A) OvÃ­paros
   <!-- feedback: No. Ponen huevos. -->
-- [x] B) Vivíparos
-  <!-- feedback: ¡Correcto! Nacen del vientre. -->
-- [ ] C) Herbívoros
-  <!-- feedback: No. Es por alimentación. -->
+- [x] B) VivÃ­paros
+  <!-- feedback: Â¡Correcto! Nacen del vientre. -->
+- [ ] C) HerbÃ­voros
+  <!-- feedback: No. Es por alimentaciÃ³n. -->
 - [ ] D) Aves
-  <!-- feedback: No. Son ovíparas. -->
+  <!-- feedback: No. Son ovÃ­paras. -->
 
-### Explicación Pedagógica
-Los vivíparos (perros, vacas, humanos) se desarrollan dentro de la madre.
+### ExplicaciÃ³n PedagÃ³gica
+Los vivÃ­paros (perros, vacas, humanos) se desarrollan dentro de la madre.
 
 ---
 
@@ -75,25 +75,25 @@ Los vivíparos (perros, vacas, humanos) se desarrollan dentro de la madre.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Santa Marta, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Santa Marta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La gallina pone huevos y nacen pollitos. Es:
 
 ### Opciones
-- [ ] A) Vivípara
+- [ ] A) VivÃ­para
   <!-- feedback: No. -->
-- [x] B) Ovípara
-  <!-- feedback: ¡Correcto! -->
+- [x] B) OvÃ­para
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Hermafrodita
   <!-- feedback: No. -->
 - [ ] D) Asexual
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-La gallina es ovípara: pone huevos y los empolla.
+### ExplicaciÃ³n PedagÃ³gica
+La gallina es ovÃ­para: pone huevos y los empolla.
 
 ---
 
@@ -101,25 +101,25 @@ La gallina es ovípara: pone huevos y los empolla.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Fusagasugá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El ternero nace del vientre de la vaca y toma leche. Es:
 
 ### Opciones
-- [ ] A) Ovípara
+- [ ] A) OvÃ­para
   <!-- feedback: No. -->
-- [x] B) Vivípara
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Carnívora
+- [x] B) VivÃ­para
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) CarnÃ­vora
   <!-- feedback: No. -->
-- [ ] D) Omnívora
+- [ ] D) OmnÃ­vora
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-La vaca es vivípara: su cría se desarrolla dentro del vientre.
+### ExplicaciÃ³n PedagÃ³gica
+La vaca es vivÃ­para: su crÃ­a se desarrolla dentro del vientre.
 
 ---
 
@@ -127,25 +127,25 @@ La vaca es vivípara: su cría se desarrolla dentro del vientre.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Colegio Nacional en Girardot, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Cuál de estos es VIVÍPARO?
+Â¿CuÃ¡l de estos es VIVÃPARO?
 
 ### Opciones
 - [ ] A) Tortuga
   <!-- feedback: No. Pone huevos. -->
 - [x] B) Perro
-  <!-- feedback: ¡Correcto! Nace del vientre. -->
+  <!-- feedback: Â¡Correcto! Nace del vientre. -->
 - [ ] C) Cocodrilo
   <!-- feedback: No. Pone huevos. -->
 - [ ] D) Rana
   <!-- feedback: No. Pone huevos. -->
 
-### Explicación Pedagógica
-El perro es vivíparo. Los demás son ovíparos.
+### ExplicaciÃ³n PedagÃ³gica
+El perro es vivÃ­paro. Los demÃ¡s son ovÃ­paros.
 
 ---
 
@@ -153,25 +153,25 @@ El perro es vivíparo. Los demás son ovíparos.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Nido con huevos en un árbol. ¿Quién los puso?
+Nido con huevos en un Ã¡rbol. Â¿QuiÃ©n los puso?
 
 ### Opciones
 - [ ] A) Un perro
-  <!-- feedback: No. Los perros son vivíparos. -->
+  <!-- feedback: No. Los perros son vivÃ­paros. -->
 - [x] B) Un ave
-  <!-- feedback: ¡Correcto! Las aves son ovíparas. -->
+  <!-- feedback: Â¡Correcto! Las aves son ovÃ­paras. -->
 - [ ] C) Un caballo
-  <!-- feedback: No. Es vivíparo. -->
+  <!-- feedback: No. Es vivÃ­paro. -->
 - [ ] D) Un gato
-  <!-- feedback: No. Es vivíparo. -->
+  <!-- feedback: No. Es vivÃ­paro. -->
 
-### Explicación Pedagógica
-Las aves son ovíparas y construyen nidos para sus huevos.
+### ExplicaciÃ³n PedagÃ³gica
+Las aves son ovÃ­paras y construyen nidos para sus huevos.
 
 ---
 
@@ -179,25 +179,25 @@ Las aves son ovíparas y construyen nidos para sus huevos.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en Pasto, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Pasto, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-En una granja hay gallinas, vacas y patos. ¿Cuáles son OVÍPAROS?
+En una granja hay gallinas, vacas y patos. Â¿CuÃ¡les son OVÃPAROS?
 
 ### Opciones
 - [x] A) Gallinas y patos
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] B) Vacas
-  <!-- feedback: No. Son vivíparas. -->
+  <!-- feedback: No. Son vivÃ­paras. -->
 - [ ] C) Todos
   <!-- feedback: No. Las vacas no. -->
 - [ ] D) Ninguno
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Gallinas y patos son ovíparos. Las vacas son vivíparas.
+### ExplicaciÃ³n PedagÃ³gica
+Gallinas y patos son ovÃ­paros. Las vacas son vivÃ­paras.
 
 ---
 
@@ -205,25 +205,25 @@ Gallinas y patos son ovíparos. Las vacas son vivíparas.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Tortuga marina entierra sus huevos en la playa. Es:
 
 ### Opciones
-- [ ] A) Vivípara
-  <!-- feedback: No. Las crías no se desarrollan dentro. -->
-- [x] B) Ovípara
-  <!-- feedback: ¡Correcto! Pone huevos. -->
-- [ ] C) Mamífera
+- [ ] A) VivÃ­para
+  <!-- feedback: No. Las crÃ­as no se desarrollan dentro. -->
+- [x] B) OvÃ­para
+  <!-- feedback: Â¡Correcto! Pone huevos. -->
+- [ ] C) MamÃ­fera
   <!-- feedback: No. No amamanta. -->
 - [ ] D) Asexual
   <!-- feedback: No. Necesita dos padres. -->
 
-### Explicación Pedagógica
-La tortuga marina es ovípara: entierra los huevos en la arena.
+### ExplicaciÃ³n PedagÃ³gica
+La tortuga marina es ovÃ­para: entierra los huevos en la arena.
 
 ---
 
@@ -231,25 +231,25 @@ La tortuga marina es ovípara: entierra los huevos en la arena.
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Quibdó, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en QuibdÃ³, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Diferencia clave entre perro (vivíparo) y cocodrilo (ovíparo):
+Diferencia clave entre perro (vivÃ­paro) y cocodrilo (ovÃ­paro):
 
 ### Opciones
-- [ ] A) El perro es más grande
+- [ ] A) El perro es mÃ¡s grande
   <!-- feedback: No es diferencia reproductiva. -->
-- [x] B) Perro: cría interna; cocodrilo: huevo externo
-  <!-- feedback: ¡Correcto! Diferencia fundamental. -->
-- [ ] C) El perro es más inteligente
+- [x] B) Perro: crÃ­a interna; cocodrilo: huevo externo
+  <!-- feedback: Â¡Correcto! Diferencia fundamental. -->
+- [ ] C) El perro es mÃ¡s inteligente
   <!-- feedback: No. -->
 - [ ] D) El cocodrilo no se reproduce
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-En vivíparos el embrión crece dentro de la madre; en ovíparos en huevo externo.
+### ExplicaciÃ³n PedagÃ³gica
+En vivÃ­paros el embriÃ³n crece dentro de la madre; en ovÃ­paros en huevo externo.
 
 ---
 
@@ -257,24 +257,24 @@ En vivíparos el embrión crece dentro de la madre; en ovíparos en huevo extern
 
 **ID:** `CO-CIE-3-2026-W09-animales-reproduccion-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Barranquilla, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Barranquilla, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué las tortugas marinas ponen muchos huevos y los perros pocas crías?
+Â¿Por quÃ© las tortugas marinas ponen muchos huevos y los perros pocas crÃ­as?
 
 ### Opciones
-- [ ] A) Las tortugas son más grandes
+- [ ] A) Las tortugas son mÃ¡s grandes
   <!-- feedback: No. -->
-- [x] B) Tortugas no cuidan crías; perros sí
-  <!-- feedback: ¡Correcto! Muchos huevos compensan mortalidad. -->
-- [ ] C) Los perros también ponen huevos
-  <!-- feedback: No. Son vivíparos. -->
-- [ ] D) Las tortugas viven más
+- [x] B) Tortugas no cuidan crÃ­as; perros sÃ­
+  <!-- feedback: Â¡Correcto! Muchos huevos compensan mortalidad. -->
+- [ ] C) Los perros tambiÃ©n ponen huevos
+  <!-- feedback: No. Son vivÃ­paros. -->
+- [ ] D) Las tortugas viven mÃ¡s
   <!-- feedback: No se relaciona. -->
 
-### Explicación Pedagógica
-Las tortugas ponen muchos huevos porque las crías tienen muchos depredadores.
+### ExplicaciÃ³n PedagÃ³gica
+Las tortugas ponen muchos huevos porque las crÃ­as tienen muchos depredadores.
 
 ---

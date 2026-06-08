@@ -15,12 +15,12 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "Simbolos patrios de Colombia"
+rubric_baseline: "Símbolos patrios: bandera, escudo e himno nacional de Colombia"
 ---
 
-# Bundle Mastery: Simbolos patrios (bandera, escudo, himno)
+# Bundle Mastery: Símbolos patrios — Bandera, escudo e himno
 
-Este bundle explica los simbolos patrios: bandera, escudo e himno nacional.
+Este bundle explica los símbolos patrios de Colombia: su significado, historia y uso correcto.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle explica los simbolos patrios: bandera, escudo e himno nacional.
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Simbolos patrios
+**Context:** Símbolos patrios en Neiva
 
 ### Enunciado
-Cuales son los simbolos patrios de Colombia?
+¿Cuáles son los símbolos patrios de Colombia?
 
 ### Options
-
-- [x] A) La bandera, el escudo y el himno nacional. <!-- feedback: Simbolos. -->
-- [ ] B) El futbolista. <!-- feedback: No. -->
-- [ ] C) La comida. <!-- feedback: No. -->
-- [ ] D) El presidente. <!-- feedback: No. -->
+- [ ] A) Solo la bandera. <!-- feedback: Incorrecto. Hay más símbolos. -->
+- [x] B) La bandera, el escudo y el himno nacional. <!-- feedback: Correcto. Estos son los tres símbolos patrios principales. -->
+- [ ] C) El himno y el escudo solamente. <!-- feedback: Incorrecto. También está la bandera. -->
+- [ ] D) La flor nacional y el árbol nacional. <!-- feedback: Incorrecto. Esos son símbolos adicionales. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar los símbolos patrios colombianos.
 
 ---
 
@@ -51,20 +50,19 @@ Cuales son los simbolos patrios de Colombia?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Colores bandera
+**Context:** Colores de la bandera
 
 ### Enunciado
-Que colores tiene la bandera colombiana?
+¿Qué colores tiene la bandera de Colombia?
 
 ### Options
-
-- [ ] A) Verde, blanco, rojo. <!-- feedback: No. -->
-- [x] B) Amarillo, azul y rojo. <!-- feedback: Tricolor. -->
-- [ ] C) Azul, blanco, amarillo. <!-- feedback: No. -->
-- [ ] D) Rojo, blanco, azul. <!-- feedback: No. -->
+- [ ] A) Rojo, blanco y azul. <!-- feedback: Incorrecto. Esos son los colores de otras banderas. -->
+- [ ] B) Verde, blanco y rojo. <!-- feedback: Incorrecto. Esa no es la bandera colombiana. -->
+- [x] C) Amarillo, azul y rojo. <!-- feedback: Correcto. La bandera de Colombia tiene tres franjas: amarillo, azul y rojo. -->
+- [ ] D) Azul, blanco y amarillo. <!-- feedback: Incorrecto. El orden correcto es amarillo, azul y rojo. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar los colores de la bandera colombiana.
 
 ---
 
@@ -73,20 +71,19 @@ Que colores tiene la bandera colombiana?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Significado amarillo
+**Context:** Significado de los colores
 
 ### Enunciado
-Que representa el amarillo de la bandera?
+¿Qué representa el color amarillo en la bandera de Colombia?
 
 ### Options
-
-- [ ] A) La sangre. <!-- feedback: Rojo. -->
-- [ ] B) El mar. <!-- feedback: Azul. -->
-- [x] C) La riqueza y el oro de Colombia. <!-- feedback: Riqueza. -->
-- [ ] D) La paz. <!-- feedback: No. -->
+- [ ] A) La sangre de los héroes. <!-- feedback: Incorrecto. Eso representa el rojo. -->
+- [x] B) La riqueza del suelo colombiano, especialmente el oro. <!-- feedback: Correcto. El amarillo simboliza las riquezas del país. -->
+- [ ] C) El mar Caribe. <!-- feedback: Incorrecto. Eso representa el azul. -->
+- [ ] D) La paz. <!-- feedback: Incorrecto. El blanco no está en la bandera. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender el significado del color amarillo.
 
 ---
 
@@ -95,20 +92,19 @@ Que representa el amarillo de la bandera?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Significado azul
+**Context:** Significado del escudo
 
 ### Enunciado
-Que representa el azul?
+¿Qué elementos aparecen en el escudo de Colombia?
 
 ### Options
-
-- [ ] A) La tierra. <!-- feedback: No. -->
-- [ ] B) El oro. <!-- feedback: No. -->
-- [ ] C) La sangre. <!-- feedback: No. -->
-- [x] D) El mar y los rios de Colombia. <!-- feedback: Agua. -->
+- [ ] A) Un león y una espada. <!-- feedback: Incorrecto. No son esos elementos. -->
+- [x] B) Un cóndor, una granada, dos mares y un gorro frigio. <!-- feedback: Correcto. El escudo tiene el cóndor, la granada, los océanos y el gorro de la libertad. -->
+- [ ] C) Una estrella y una luna. <!-- feedback: Incorrecto. No son elementos del escudo. -->
+- [ ] D) Una montaña y un río. <!-- feedback: Incorrecto. No son los elementos principales. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender los elementos del escudo nacional.
 
 ---
 
@@ -117,20 +113,19 @@ Que representa el azul?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Escudo nacional
+**Context:** Uso de la bandera
 
 ### Enunciado
-Que tiene el escudo de Colombia?
+¿En qué fechas se debe izar la bandera de Colombia en las casas y edificios públicos?
 
 ### Options
-
-- [x] A) Un condor, granadas y cuernos de la abundancia. <!-- feedback: Escudo. -->
-- [ ] B) Un leon. <!-- feedback: No. -->
-- [ ] C) Un aguila. <!-- feedback: Condor. -->
-- [ ] D) Un caballo. <!-- feedback: No. -->
+- [ ] A) Solo el 20 de julio. <!-- feedback: Incorrecto. Se iza en varias fechas. -->
+- [x] B) En las fechas patrias: 20 de julio, 7 de agosto, y otras fechas cívicas. <!-- feedback: Correcto. Las fechas patrias son las principales para izar la bandera. -->
+- [ ] C) Todos los días del año. <!-- feedback: Incorrecto. Se iza en fechas especiales. -->
+- [ ] D) Solo cuando hay elecciones. <!-- feedback: Incorrecto. Las elecciones no son fechas de izada de bandera. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre el uso correcto de la bandera.
 
 ---
 
@@ -139,20 +134,19 @@ Que tiene el escudo de Colombia?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Condor
+**Context:** Cóndor de los Andes
 
 ### Enunciado
-Que representa el condor en el escudo?
+¿Qué ave aparece en el escudo de Colombia y qué simboliza?
 
 ### Options
-
-- [ ] A) La guerra. <!-- feedback: Libertad. -->
-- [x] B) La libertad y la soberania. <!-- feedback: Libertad. -->
-- [ ] C) La pobreza. <!-- feedback: No. -->
-- [ ] D) El mar. <!-- feedback: No. -->
+- [ ] A) Una paloma, simbolizando la paz. <!-- feedback: Incorrecto. La paloma no está en el escudo. -->
+- [ ] B) Un colibrí, simbolizando la agilidad. <!-- feedback: Incorrecto. El colibrí no es el ave del escudo. -->
+- [x] C) El cóndor de los Andes, simbolizando la libertad y la soberanía. <!-- feedback: Correcto. El cóndor es el ave emblemática del escudo colombiano. -->
+- [ ] D) Un loro, simbolizando la alegría. <!-- feedback: Incorrecto. No es un loro. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre el cóndor en el escudo nacional.
 
 ---
 
@@ -161,20 +155,19 @@ Que representa el condor en el escudo?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Himno nacional
+**Context:** Símbolos y unidad nacional
 
 ### Enunciado
-Quien escribio el himno nacional?
+¿Por qué los símbolos patrios son importantes para la unidad nacional?
 
 ### Options
-
-- [ ] A) Jose Asuncion Silva. <!-- feedback: No. -->
-- [ ] B) Simon Bolivar. <!-- feedback: No. -->
-- [x] C) Rafael Nunez (letra) y Oreste Sindici (musica). <!-- feedback: Autores. -->
-- [ ] D) Gabriel Garcia Marquez. <!-- feedback: No. -->
+- [ ] A) Porque son obligatorios por ley. <!-- feedback: Parcialmente cierto, pero hay más. -->
+- [ ] B) Porque representan a cada región por separado. <!-- feedback: Incorrecto. Representan a toda la nación unida. -->
+- [x] C) Porque representan la historia, los valores y la identidad compartida de todos los colombianos. <!-- feedback: Correcto. Los símbolos unen a los ciudadanos alrededor de una identidad común. -->
+- [ ] D) Porque son bonitos. <!-- feedback: Incorrecto. Su importancia es histórica y cultural. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la función unificadora de los símbolos patrios.
 
 ---
 
@@ -183,20 +176,19 @@ Quien escribio el himno nacional?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Respeto simbolos
+**Context:** Respeto a los símbolos
 
 ### Enunciado
-Como debemos tratar los simbolos patrios?
+¿Qué significa faltarle el respeto a los símbolos patrios?
 
 ### Options
-
-- [ ] A) Ignorandolos. <!-- feedback: Respetar. -->
-- [ ] B) Jugando con ellos. <!-- feedback: No. -->
-- [ ] C) Daniandolos. <!-- feedback: No. -->
-- [x] D) Con respeto y solemnidad. <!-- feedback: Respeto. -->
+- [ ] A) No tiene ninguna consecuencia. <!-- feedback: Incorrecto. Es una falta grave. -->
+- [ ] B) Es una falta menor sin importancia. <!-- feedback: Incorrecto. Es una ofensa a la nación. -->
+- [x] C) Es ofender los valores y la historia que representan, y puede tener consecuencias legales. <!-- feedback: Correcto. Irrespetar los símbolos es una falta grave. -->
+- [ ] D) Solo es malo si se hace en público. <!-- feedback: Incorrecto. Siempre debe respetarse. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la importancia del respeto a los símbolos patrios.
 
 ---
 
@@ -205,20 +197,19 @@ Como debemos tratar los simbolos patrios?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia simbolos
+**Context:** Orgullo patrio
 
 ### Enunciado
-Por que son importantes los simbolos patrios?
+¿Crees que los colombianos sienten orgullo por sus símbolos patrios?
 
 ### Options
-
-- [x] A) Porque representan la identidad y unidad nacional. <!-- feedback: Identidad. -->
-- [ ] B) Porque son bonitos. <!-- feedback: No. -->
-- [ ] C) Son obligatorios. <!-- feedback: Identidad. -->
-- [ ] D) No importan. <!-- feedback: Si. -->
+- [ ] A) No, a nadie le importan. <!-- feedback: Incorrecto. Muchos colombianos sienten orgullo. -->
+- [x] B) En general sí, especialmente en fechas patrias y eventos deportivos internacionales. <!-- feedback: Correcto. Los símbolos patrios generan orgullo y pertenencia. -->
+- [ ] C) Solo los adultos mayores. <!-- feedback: Incorrecto. Personas de todas las edades se identifican con los símbolos. -->
+- [ ] D) Solo en el extranjero. <!-- feedback: Incorrecto. También en Colombia. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar el sentimiento de orgullo por los símbolos patrios.
 
 ---
 
@@ -227,22 +218,21 @@ Por que son importantes los simbolos patrios?
 **ID:** `COL-SOC-CIU-4-2026-W37-simbolos-patrios-bandera-escudo-himno-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Crear simbolo
+**Context:** Nuevo símbolo patrio
 
 ### Enunciado
-Que simbolo nuevo crearias para Colombia?
+Si pudieras crear un nuevo símbolo patrio para Colombia, ¿qué sería y por qué?
 
 ### Options
-
-- [ ] A) No crearia. <!-- feedback: Crear. -->
-- [x] B) Un simbolo que represente la biodiversidad. <!-- feedback: Biodiversidad. -->
-- [ ] C) Un robot. <!-- feedback: No. -->
-- [ ] D) Una flor artificial. <!-- feedback: Natural. -->
+- [ ] A) Una marca de ropa famosa. <!-- feedback: Incorrecto. Un símbolo patrio debe representar valores de la nación. -->
+- [x] B) El sombrero vueltiao, porque representa la artesanía y la cultura de la región Caribe, reconocida internacionalmente. <!-- feedback: Correcto. El sombrero vueltiao ya es un símbolo cultural no oficial que podría ser oficial. -->
+- [ ] C) Un teléfono celular de última generación. <!-- feedback: Incorrecto. No representa la identidad nacional. -->
+- [ ] D) Un plato de comida rápida. <!-- feedback: Incorrecto. No representa adecuadamente la cultura colombiana. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear una propuesta de nuevo símbolo patrio para Colombia.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W37, aborda el tema de Simbolos patrios (bandera, escudo, himno) desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W37, aborda los símbolos patrios de Colombia: bandera, escudo e himno nacional.
