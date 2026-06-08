@@ -9,38 +9,38 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "repaso período 3, fotosíntesis, plantas utilidad, animales utilidad"
+rubric_baseline: "repaso perÃ­odo 3, fotosÃ­ntesis, plantas utilidad, animales utilidad"
 ---
 
-# Bundle Mastery: Repaso P3 — Grado 3 — W17
+# Bundle Mastery: Repaso P3 â€” Grado 3 â€” W17
 
-10 preguntas de repaso del período 3.
+10 preguntas de repaso del perÃ­odo 3.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Colegio Nacional en Duitama, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Cómo se llama el alimento que producen las plantas?
+Â¿CÃ³mo se llama el alimento que producen las plantas?
 
 ### Opciones
 - [ ] A) Agua
   <!-- feedback: No. -->
 - [x] B) Glucosa
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Oxígeno
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) OxÃ­geno
   <!-- feedback: No. -->
-- [ ] D) CO₂
+- [ ] D) COâ‚‚
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Glucosa es el alimento vegetal.
 
 ---
@@ -49,9 +49,9 @@ Glucosa es el alimento vegetal.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Montería, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La miel la producen:
@@ -60,13 +60,13 @@ La miel la producen:
 - [ ] A) Vacas
   <!-- feedback: No. -->
 - [x] B) Abejas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Gallinas
   <!-- feedback: No. -->
 - [ ] D) Peces
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Abejas producen miel.
 
 ---
@@ -75,25 +75,25 @@ Abejas producen miel.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Colegio Nacional en Barranquilla, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-La fotosíntesis ocurre en:
+La fotosÃ­ntesis ocurre en:
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [ ] B) Tallo
   <!-- feedback: No. -->
 - [x] C) Hojas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Hojas hacen fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Hojas hacen fotosÃ­ntesis.
 
 ---
 
@@ -101,25 +101,25 @@ Hojas hacen fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Escuela Rural en San Andrés, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Escuela Rural en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Las plantas liberan:
 
 ### Opciones
-- [ ] A) CO₂
+- [ ] A) COâ‚‚
   <!-- feedback: No. -->
-- [x] B) Oxígeno
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Nitrógeno
+- [x] B) OxÃ­geno
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) NitrÃ³geno
   <!-- feedback: No. -->
-- [ ] D) Plástico
+- [ ] D) PlÃ¡stico
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Plantas liberan oxígeno.
+### ExplicaciÃ³n PedagÃ³gica
+Plantas liberan oxÃ­geno.
 
 ---
 
@@ -127,9 +127,9 @@ Plantas liberan oxígeno.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio San José en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio San JosÃ© en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La lana se obtiene de:
@@ -138,13 +138,13 @@ La lana se obtiene de:
 - [ ] A) Vaca
   <!-- feedback: No. -->
 - [x] B) Oveja
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Cerdo
   <!-- feedback: No. -->
 - [ ] D) Pez
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Ovejas dan lana.
 
 ---
@@ -153,25 +153,25 @@ Ovejas dan lana.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Sin luz, una planta:
 
 ### Opciones
-- [ ] A) Crece más
+- [ ] A) Crece mÃ¡s
   <!-- feedback: No. -->
 - [x] B) Se debilita
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Florece más
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Florece mÃ¡s
   <!-- feedback: No. -->
 - [ ] D) No cambia
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Sin luz no hay fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Sin luz no hay fotosÃ­ntesis.
 
 ---
 
@@ -179,7 +179,7 @@ Sin luz no hay fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Cali, la profesora presenta el siguiente ejercicio.
 
@@ -190,13 +190,13 @@ El cuero para zapatos viene de:
 - [ ] A) Plantas
   <!-- feedback: No. -->
 - [x] B) Animales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Minerales
   <!-- feedback: No. -->
 - [ ] D) Agua
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Cuero de animales.
 
 ---
@@ -205,25 +205,25 @@ Cuero de animales.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Agustíniano en Yopal, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué los árboles son importantes?
+Â¿Por quÃ© los Ã¡rboles son importantes?
 
 ### Opciones
 - [ ] A) Solo por su sombra
   <!-- feedback: No. -->
-- [x] B) Dan oxígeno, madera, frutos y regulan clima
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Dan oxÃ­geno, madera, frutos y regulan clima
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo son decorativos
   <!-- feedback: No. -->
 - [ ] D) No son importantes
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Árboles son vitales.
+### ExplicaciÃ³n PedagÃ³gica
+Ãrboles son vitales.
 
 ---
 
@@ -231,25 +231,25 @@ Cuero de animales.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Girardot, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué es importante la fotosíntesis para los humanos?
+Â¿Por quÃ© es importante la fotosÃ­ntesis para los humanos?
 
 ### Opciones
 - [ ] A) No es importante
   <!-- feedback: No. -->
-- [x] B) Produce el oxígeno que respiramos y alimentos
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Produce el oxÃ­geno que respiramos y alimentos
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo ayuda a las plantas
   <!-- feedback: No. -->
 - [ ] D) Contamina el aire
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Fotosíntesis produce oxígeno y alimentos.
+### ExplicaciÃ³n PedagÃ³gica
+FotosÃ­ntesis produce oxÃ­geno y alimentos.
 
 ---
 
@@ -257,24 +257,24 @@ Fotosíntesis produce oxígeno y alimentos.
 
 **ID:** `CO-CIE-3-2026-W17-repaso-p3-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Girardot, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Girardot, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Relación entre animales domésticos y humanos:
+RelaciÃ³n entre animales domÃ©sticos y humanos:
 
 ### Opciones
-- [ ] A) No hay relación
+- [ ] A) No hay relaciÃ³n
   <!-- feedback: No. -->
-- [x] B) Los humanos dependemos de animales para alimento, trabajo y compañía
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Solo los perros son útiles
+- [x] B) Los humanos dependemos de animales para alimento, trabajo y compaÃ±Ã­a
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Solo los perros son Ãºtiles
   <!-- feedback: No. -->
 - [ ] D) Los animales no necesitan humanos
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Animales domésticos benefician a humanos.
+### ExplicaciÃ³n PedagÃ³gica
+Animales domÃ©sticos benefician a humanos.
 
 ---

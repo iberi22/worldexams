@@ -18,9 +18,9 @@ calibration:
 rubric_baseline: "Climas y pisos térmicos de Colombia"
 ---
 
-# Bundle Mastery: Climas y pisos térmicos
+# Bundle Mastery: Climas y pisos térmicos de Colombia
 
-Este bundle explica los diferentes climas y pisos térmicos.
+Este bundle explica los pisos térmicos y la variedad de climas en Colombia debido a su relieve.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Clima Colombia
+**Context:** Diversidad climática en Tunja
 
 ### Enunciado
-¿Qué caracteriza el clima colombiano?
+¿Cuántos pisos térmicos existen en Colombia?
 
 ### Options
-
-- [x] A) Es diverso por su ubicación ecuatorial y relieve. <!-- feedback: Diverso. -->
-- [ ] B) Es igual en todo el país. <!-- feedback: Diverso. -->
-- [ ] C) Solo frío. <!-- feedback: Variado. -->
-- [ ] D) Solo cálido. <!-- feedback: Variado. -->
+- [ ] A) Dos: cálido y frío. <!-- feedback: Incorrecto. Hay más pisos térmicos. -->
+- [x] B) Cinco: cálido, templado, frío, páramo y nieves perpetuas. <!-- feedback: Correcto. Colombia tiene cinco pisos térmicos bien definidos. -->
+- [ ] C) Tres: cálido, templado y frío. <!-- feedback: Incorrecto. Hay dos adicionales. -->
+- [ ] D) Siete pisos térmicos. <!-- feedback: Incorrecto. Son cinco. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar los pisos térmicos de Colombia.
 
 ---
 
@@ -51,20 +50,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Pisos térmicos
+**Context:** Piso térmico cálido
 
 ### Enunciado
-¿Qué son los pisos térmicos?
+¿Cuál es el piso térmico predominante en las costas colombianas?
 
 ### Options
-
-- [ ] A) Tipos de suelo. <!-- feedback: Clima. -->
-- [x] B) Zonas climáticas según altura. <!-- feedback: Altura. -->
-- [ ] C) Capas de la tierra. <!-- feedback: Clima. -->
-- [ ] D) Corrientes marinas. <!-- feedback: Altura. -->
+- [ ] A) Piso frío. <!-- feedback: Incorrecto. Las costas son cálidas. -->
+- [x] B) Piso cálido. <!-- feedback: Correcto. Las costas del Caribe y Pacífico tienen clima cálido. -->
+- [ ] C) Páramo. <!-- feedback: Incorrecto. Los páramos están en las altas montañas. -->
+- [ ] D) Nieve perpetua. <!-- feedback: Incorrecto. Solo en las cumbres más altas. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar el piso térmico de las costas.
 
 ---
 
@@ -73,20 +71,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Piso cálido
+**Context:** Pisos térmicos y altura
 
 ### Enunciado
-¿Dónde hay piso cálido?
+¿Qué determina los pisos térmicos en Colombia?
 
 ### Options
-
-- [ ] A) En el piso templado. <!-- feedback: Cálido. -->
-- [ ] B) En el piso frío. <!-- feedback: Cálido. -->
-- [x] C) En la costa Caribe, 0-1000 msnm. <!-- feedback: Cálido. -->
-- [ ] D) En el glacial. <!-- feedback: Cálido. -->
+- [ ] A) La distancia al mar. <!-- feedback: Parcialmente, pero el principal factor es otro. -->
+- [x] B) La altura sobre el nivel del mar. <!-- feedback: Correcto. A mayor altura, menor temperatura. -->
+- [ ] C) La cantidad de lluvia. <!-- feedback: Incorrecto. Las lluvias dependen de otros factores. -->
+- [ ] D) La cercanía al Ecuador. <!-- feedback: Incorrecto. Colombia está en el Ecuador, pero la altura es el factor determinante. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender la relación entre altura y temperatura.
 
 ---
 
@@ -95,20 +92,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Piso frío
+**Context:** Páramo
 
 ### Enunciado
-¿Dónde hay piso frío?
+¿Qué es un páramo y por qué es importante para Colombia?
 
 ### Options
-
-- [ ] A) En los llanos. <!-- feedback: Altura. -->
-- [ ] B) En la costa. <!-- feedback: Altura. -->
-- [ ] C) A nivel del mar. <!-- feedback: Altura. -->
-- [x] D) Entre 2000 y 3000 msnm. <!-- feedback: Frío. -->
+- [ ] A) Una zona desértica muy caliente. <!-- feedback: Incorrecto. El páramo es frío y húmedo. -->
+- [ ] B) Un bosque seco tropical. <!-- feedback: Incorrecto. El páramo está en alta montaña. -->
+- [x] C) Un ecosistema de alta montaña que regula el agua que consumen millones de colombianos. <!-- feedback: Correcto. Los páramos son fábricas de agua fundamentales para el país. -->
+- [ ] D) Una zona de cultivos de café. <!-- feedback: Incorrecto. El café se cultiva en clima templado. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender la importancia de los páramos.
 
 ---
 
@@ -117,20 +113,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Páramo
+**Context:** Cultivos según el clima
 
 ### Enunciado
-¿Qué es un páramo?
+¿Qué cultivo es típico del piso térmico templado en Colombia?
 
 ### Options
-
-- [x] A) Ecosistema de alta montaña que provee agua. <!-- feedback: Páramo. -->
-- [ ] B) Un desierto. <!-- feedback: Montaña. -->
-- [ ] C) Una playa. <!-- feedback: No. -->
-- [ ] D) Un bosque tropical. <!-- feedback: Alta montaña. -->
+- [ ] A) Coco y plátano. <!-- feedback: Incorrecto. Esos son de clima cálido. -->
+- [x] B) Café y maíz. <!-- feedback: Correcto. El café se cultiva en clima templado (800-1800 msnm). -->
+- [ ] C) Papa y trigo. <!-- feedback: Incorrecto. Esos son de clima frío. -->
+- [ ] D) Piña y mango. <!-- feedback: Incorrecto. Esos son de clima cálido. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre los cultivos según el piso térmico.
 
 ---
 
@@ -139,20 +134,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Piso Bogotá
+**Context:** Ciudades y pisos térmicos
 
 ### Enunciado
-¿En qué piso está Bogotá?
+Bogotá está a 2600 msnm. ¿En qué piso térmico se encuentra?
 
 ### Options
-
-- [ ] A) Piso cálido. <!-- feedback: Frío. -->
-- [x] B) Piso frío (2600 msnm). <!-- feedback: Frío. -->
-- [ ] C) Piso templado. <!-- feedback: Frío. -->
-- [ ] D) Piso glacial. <!-- feedback: Frío. -->
+- [ ] A) Cálido. <!-- feedback: Incorrecto. Bogotá es fría. -->
+- [ ] B) Templado. <!-- feedback: Incorrecto. El templado va hasta 2000 msnm. -->
+- [x] C) Frío. <!-- feedback: Correcto. Bogotá está en el piso frío (2000-3000 msnm). -->
+- [ ] D) Páramo. <!-- feedback: Incorrecto. El páramo empieza desde 3000 msnm. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre pisos térmicos para ubicar ciudades.
 
 ---
 
@@ -161,20 +155,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Piso glacial
+**Context:** Biodiversidad y clima
 
 ### Enunciado
-¿Dónde hay piso glacial?
+¿Por qué Colombia tiene tanta biodiversidad?
 
 ### Options
-
-- [ ] A) En los llanos. <!-- feedback: No. -->
-- [ ] B) En la costa. <!-- feedback: Altura. -->
-- [x] C) Cumbres más altas de la Sierra Nevada. <!-- feedback: Glacial. -->
-- [ ] D) En el mar. <!-- feedback: No. -->
+- [ ] A) Porque es un país pequeño. <!-- feedback: Incorrecto. El tamaño no explica la biodiversidad. -->
+- [x] B) Porque tiene múltiples pisos térmicos, variedad de climas y ecosistemas. <!-- feedback: Correcto. La variedad de climas y relieves crea múltiples hábitats. -->
+- [ ] C) Solo por estar en el Ecuador. <!-- feedback: Parcialmente, pero hay más factores. -->
+- [ ] D) Porque tiene muchos volcanes. <!-- feedback: Incorrecto. Los volcanes no son el principal factor. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la relación entre pisos térmicos y biodiversidad.
 
 ---
 
@@ -183,20 +176,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Clima y agricultura
+**Context:** Cambio climático
 
 ### Enunciado
-¿Qué se cultiva en piso templado?
+¿Cómo afecta el cambio climático a los pisos térmicos colombianos?
 
 ### Options
-
-- [ ] A) Palma. <!-- feedback: Cálido. -->
-- [ ] B) Coco. <!-- feedback: Cálido. -->
-- [ ] C) Papa. <!-- feedback: Frío. -->
-- [x] D) Café. <!-- feedback: Café. -->
+- [ ] A) No los afecta en absoluto. <!-- feedback: Incorrecto. El cambio climático afecta a todos los ecosistemas. -->
+- [ ] B) Solo afecta las costas. <!-- feedback: Incorrecto. Afecta todos los pisos térmicos. -->
+- [x] C) El calentamiento global hace que los pisos térmicos se desplacen hacia arriba, afectando los cultivos y los páramos. <!-- feedback: Correcto. El cambio climático altera los patrones climáticos tradicionales. -->
+- [ ] D) El cambio climático beneficia a los páramos. <!-- feedback: Incorrecto. Los páramos son especialmente vulnerables. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar el impacto del cambio climático en los pisos térmicos.
 
 ---
 
@@ -205,20 +197,19 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Importancia pisos
+**Context:** Vivir en diferentes climas
 
 ### Enunciado
-¿Por qué conocer los pisos térmicos?
+¿Crees que la variedad de climas es una ventaja para Colombia?
 
 ### Options
-
-- [x] A) Para saber qué cultivar y cómo vestir. <!-- feedback: Agricultura. -->
-- [ ] B) No es importante. <!-- feedback: Sí. -->
-- [ ] C) Solo turismo. <!-- feedback: También. -->
-- [ ] D) Decoración. <!-- feedback: Práctico. -->
+- [ ] A) No, es un problema porque dificulta la comunicación. <!-- feedback: Incorrecto. La variedad de climas es una riqueza. -->
+- [x] B) Sí, porque permite cultivar diversos productos, atrae turismo y genera variedad de ecosistemas. <!-- feedback: Correcto. La diversidad climática es una gran ventaja para el país. -->
+- [ ] C) No tiene ninguna ventaja. <!-- feedback: Incorrecto. Tiene múltiples ventajas. -->
+- [ ] D) Solo beneficia a los agricultores. <!-- feedback: Incorrecto. Beneficia a todo el país. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar las ventajas de la diversidad climática colombiana.
 
 ---
 
@@ -227,22 +218,21 @@ Este bundle explica los diferentes climas y pisos térmicos.
 **ID:** `COL-SOC-CIU-4-2026-W36-climas-y-pisos-termicos-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto climas
+**Context:** Mapa de pisos térmicos
 
 ### Enunciado
-¿Qué proyecto harías sobre climas?
+Diseña una actividad para que tus compañeros aprendan los pisos térmicos de forma divertida.
 
 ### Options
-
-- [ ] A) Solo leer. <!-- feedback: Práctico. -->
-- [x] B) Maqueta de los pisos térmicos con sus cultivos. <!-- feedback: Maqueta. -->
-- [ ] C) No hacer nada. <!-- feedback: Crear. -->
-- [ ] D) Solo dibujar. <!-- feedback: Maqueta. -->
+- [ ] A) Leer un largo texto explicativo. <!-- feedback: Incorrecto. Hay formas más interactivas. -->
+- [x] B) Construir una torre de pisos térmicos con materiales reciclados, donde cada nivel representa un piso con sus cultivos y animales característicos. <!-- feedback: Correcto. Una maqueta tridimensional ayuda a visualizar y aprender. -->
+- [ ] C) Ver un documental aburrido. <!-- feedback: Incorrecto. No todos los documentales son aburridos, pero la actividad práctica es mejor. -->
+- [ ] D) Hacer un examen sin estudiar. <!-- feedback: Incorrecto. No es una forma divertida de aprender. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear una actividad lúdica para aprender los pisos térmicos.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W36, aborda el tema de Climas y pisos térmicos desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W36, aborda los climas y pisos térmicos de Colombia.

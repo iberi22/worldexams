@@ -15,12 +15,12 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "Repaso integral de todo el ano escolar"
+rubric_baseline: "Repaso integral anual de Ciencias Sociales y Ciudadanas - Grado 4"
 ---
 
 # Bundle Mastery: Repaso integral anual
 
-Este bundle de repaso final cubre los conceptos principales del ano.
+Repaso final de todo el año de Ciencias Sociales y Ciudadanas para grado cuarto.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle de repaso final cubre los conceptos principales del ano.
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Organizacion territorial
+**Context:** Repaso general
 
 ### Enunciado
-Unidad rural mas pequena:
+¿Cuál es la ley más importante de Colombia?
 
 ### Options
-
-- [x] A) La vereda. <!-- feedback: Vereda. -->
-- [ ] B) Municipio. <!-- feedback: Agrupa. -->
-- [ ] C) Departamento. <!-- feedback: Agrupa. -->
-- [ ] D) Corregimiento. <!-- feedback: Centro. -->
+- [ ] A) El Código de Tránsito. <!-- feedback: Incorrecto. No es la ley más importante. -->
+- [ ] B) El Código Civil. <!-- feedback: Incorrecto. Es importante pero no la principal. -->
+- [x] C) La Constitución Política. <!-- feedback: Correcto. La Constitución es la norma fundamental del país. -->
+- [ ] D) El Código Penal. <!-- feedback: Incorrecto. Es una ley importante pero no la fundamental. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar la ley fundamental de Colombia.
 
 ---
 
@@ -51,20 +50,19 @@ Unidad rural mas pequena:
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Departamentos
+**Context:** Símbolos patrios
 
 ### Enunciado
-Cuantos departamentos tiene Colombia?
+¿Qué colores tiene la bandera de Colombia?
 
 ### Options
-
-- [ ] A) 30. <!-- feedback: 32. -->
-- [x] B) 32 + Bogota D.C. <!-- feedback: 32. -->
-- [ ] C) 35. <!-- feedback: 32. -->
-- [ ] D) 28. <!-- feedback: 32. -->
+- [ ] A) Rojo, blanco y azul. <!-- feedback: Incorrecto. Esos son los colores de otra bandera. -->
+- [ ] B) Verde, amarillo y rojo. <!-- feedback: Incorrecto. No es la bandera colombiana. -->
+- [x] C) Amarillo, azul y rojo. <!-- feedback: Correcto. La bandera colombiana tiene esos tres colores. -->
+- [ ] D) Azul, blanco y rojo. <!-- feedback: Incorrecto. El orden correcto es amarillo, azul y rojo. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar los colores de la bandera.
 
 ---
 
@@ -73,20 +71,19 @@ Cuantos departamentos tiene Colombia?
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Capital Antioquia
+**Context:** Mecanismos de participación
 
 ### Enunciado
-Capital de Antioquia:
+¿Qué es el voto popular?
 
 ### Options
-
-- [ ] A) Cali. <!-- feedback: Valle. -->
-- [ ] B) Bogota. <!-- feedback: Cundinamarca. -->
-- [x] C) Medellin. <!-- feedback: Antioquia. -->
-- [ ] D) Bucaramanga. <!-- feedback: Santander. -->
+- [ ] A) Un tipo de impuesto. <!-- feedback: Incorrecto. El voto no es un impuesto. -->
+- [x] B) Un mecanismo para elegir gobernantes mediante la participación ciudadana. <!-- feedback: Correcto. El voto permite a los ciudadanos elegir a sus representantes. -->
+- [ ] C) Una multa por no asistir a clase. <!-- feedback: Incorrecto. No es una sanción. -->
+- [ ] D) Un partido de fútbol. <!-- feedback: Incorrecto. No es deportivo. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender el voto como mecanismo de participación.
 
 ---
 
@@ -95,20 +92,19 @@ Capital de Antioquia:
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Gobierno Nacional
+**Context:** Ramas del poder
 
 ### Enunciado
-Quien lidera el Gobierno Nacional?
+¿Para qué sirve la separación del poder en tres ramas?
 
 ### Options
-
-- [ ] A) El concejal. <!-- feedback: No. -->
-- [ ] B) El alcalde. <!-- feedback: Local. -->
-- [ ] C) El gobernador. <!-- feedback: Dep. -->
-- [x] D) El Presidente. <!-- feedback: Ejecutivo. -->
+- [ ] A) Para que el presidente tenga más poder. <!-- feedback: Incorrecto. Todo lo contrario. -->
+- [ ] B) Para que sea más difícil gobernar. <!-- feedback: Incorrecto. Es para equilibrar el poder. -->
+- [x] C) Para evitar la concentración de poder y garantizar controles entre las ramas. <!-- feedback: Correcto. La separación de poderes protege la democracia. -->
+- [ ] D) Para que los jueces puedan ser presidentes. <!-- feedback: Incorrecto. No es ese el propósito. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender la razón de la separación de poderes.
 
 ---
 
@@ -117,20 +113,19 @@ Quien lidera el Gobierno Nacional?
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Autoridad municipal
+**Context:** Diversidad cultural
 
 ### Enunciado
-Autoridad del municipio:
+¿Qué grupos étnicos forman parte de la diversidad cultural colombiana?
 
 ### Options
-
-- [x] A) Alcalde. <!-- feedback: Municipal. -->
-- [ ] B) Gobernador. <!-- feedback: Dep. -->
-- [ ] C) Presidente. <!-- feedback: Nac. -->
-- [ ] D) Diputado. <!-- feedback: Dep. -->
+- [ ] A) Solo mestizos. <!-- feedback: Incorrecto. Hay más grupos. -->
+- [ ] B) Indígenas y afrocolombianos. <!-- feedback: Parcial, falta el pueblo ROM. -->
+- [x] C) Indígenas, afrocolombianos y ROM (pueblo gitano). <!-- feedback: Correcto. Estos son los tres grupos étnicos reconocidos constitucionalmente. -->
+- [ ] D) Europeos y asiáticos. <!-- feedback: Incorrecto. Esos no son grupos étnicos minoritarios. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre la composición étnica de Colombia.
 
 ---
 
@@ -139,20 +134,19 @@ Autoridad del municipio:
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Autoridad departamental
+**Context:** Relieve colombiano
 
 ### Enunciado
-Autoridad del departamento:
+¿Cuáles son las tres cordilleras de Colombia?
 
 ### Options
-
-- [ ] A) Alcalde. <!-- feedback: Municipal. -->
-- [x] B) Gobernador. <!-- feedback: Dep. -->
-- [ ] C) Presidente. <!-- feedback: Nac. -->
-- [ ] D) Concejal. <!-- feedback: Municipal. -->
+- [ ] A) Norte, Sur y Central. <!-- feedback: Incorrecto. Esos no son los nombres correctos. -->
+- [x] B) Occidental, Central y Oriental. <!-- feedback: Correcto. Los Andes colombianos se dividen en estos tres ramales. -->
+- [ ] C) Andina, Caribe y Pacífica. <!-- feedback: Incorrecto. Esos son nombres de regiones, no de cordilleras. -->
+- [ ] D) Alta, Media y Baja. <!-- feedback: Incorrecto. No son esos los nombres. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar conocimiento sobre las cordilleras colombianas.
 
 ---
 
@@ -161,20 +155,19 @@ Autoridad del departamento:
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Ramas del poder
+**Context:** Patrimonio cultural
 
 ### Enunciado
-Cuales son las ramas del poder publico?
+¿Por qué el Carnaval de Barranquilla es patrimonio inmaterial de la humanidad?
 
 ### Options
-
-- [ ] A) Alcalde, gobernador. <!-- feedback: No. -->
-- [ ] B) Presidente, Congreso. <!-- feedback: No. -->
-- [x] C) Ejecutiva, legislativa y judicial. <!-- feedback: Tres. -->
-- [ ] D) Senado, camara. <!-- feedback: No. -->
+- [ ] A) Porque es el carnaval más grande del mundo. <!-- feedback: Incorrecto. No es el más grande. -->
+- [x] B) Porque representa la mezcla de culturas indígenas, africanas y europeas a través de danzas, música y tradiciones. <!-- feedback: Correcto. La UNESCO reconoció su diversidad cultural. -->
+- [ ] C) Porque tiene los disfraces más caros. <!-- feedback: Incorrecto. No es un criterio de UNESCO. -->
+- [ ] D) Porque asisten muchos turistas. <!-- feedback: Incorrecto. El turismo no es un criterio de la UNESCO. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar por qué el Carnaval de Barranquilla es patrimonio de la humanidad.
 
 ---
 
@@ -183,20 +176,19 @@ Cuales son las ramas del poder publico?
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Constitucion 1991
+**Context:** Deberes y derechos
 
 ### Enunciado
-Que se hizo en 1991?
+¿Por qué los derechos y los deberes van de la mano?
 
 ### Options
-
-- [ ] A) La fundacion de Bogota. <!-- feedback: 1538. -->
-- [ ] B) La independencia. <!-- feedback: 1810. -->
-- [ ] C) La batalla de Boyaca. <!-- feedback: 1819. -->
-- [x] D) Se promulgo la nueva Constitucion. <!-- feedback: 1991. -->
+- [ ] A) No tienen relación. <!-- feedback: Incorrecto. Están vinculados. -->
+- [ ] B) Los derechos son más importantes que los deberes. <!-- feedback: Incorrecto. Ambos son igualmente importantes. -->
+- [x] C) Porque a cada derecho le corresponde un deber que garantiza su ejercicio. <!-- feedback: Correcto. Derechos y deberes son complementarios. -->
+- [ ] D) Los deberes no son necesarios. <!-- feedback: Incorrecto. Son fundamentales para la convivencia. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la relación entre derechos y deberes.
 
 ---
 
@@ -205,20 +197,19 @@ Que se hizo en 1991?
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Diversidad
+**Context:** Aprendizajes del año
 
 ### Enunciado
-Que caracteriza a Colombia?
+¿Qué aprendizaje de Ciencias Sociales te parece más útil para tu vida?
 
 ### Options
-
-- [x] A) Su diversidad cultural y etnica. <!-- feedback: Diversa. -->
-- [ ] B) Que todos son iguales. <!-- feedback: Diversa. -->
-- [ ] C) Solo una cultura. <!-- feedback: Muchas. -->
-- [ ] D) No hay diversidad. <!-- feedback: Si. -->
+- [ ] A) Ninguno, las sociales no sirven para nada. <!-- feedback: Incorrecto. Las sociales son fundamentales para la vida ciudadana. -->
+- [x] B) Conocer los mecanismos de participación y los derechos, porque me permite ser un ciudadano activo y defender mis derechos. <!-- feedback: Correcto. La formación ciudadana es esencial para la vida en democracia. -->
+- [ ] C) Solo la geografía porque puedo ubicarme en el mapa. <!-- feedback: Parcial. Hay otros conocimientos igualmente importantes. -->
+- [ ] D) Solo los símbolos patrios porque son bonitos. <!-- feedback: Incorrecto. Hay aprendizajes más profundos. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar la utilidad de los conocimientos adquiridos.
 
 ---
 
@@ -227,22 +218,21 @@ Que caracteriza a Colombia?
 **ID:** `COL-SOC-CIU-4-2026-W40-repaso-integral-anual-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Proyecto social
+**Context:** Proyecto final
 
 ### Enunciado
-Que proyecto harian para mejorar la comunidad?
+Diseña un proyecto que aplique todo lo aprendido en Ciencias Sociales para mejorar tu comunidad.
 
 ### Options
-
-- [ ] A) No hacer nada. <!-- feedback: Participar. -->
-- [x] B) Jornada de limpieza y reciclaje en el barrio. <!-- feedback: Ambiente. -->
-- [ ] C) Tirar basura. <!-- feedback: No. -->
-- [ ] D) Ignorar. <!-- feedback: Actuar. -->
+- [ ] A) No hacer nada, terminar el año y ya. <!-- feedback: Incorrecto. Los conocimientos deben aplicarse. -->
+- [x] B) Un proyecto de recuperación de una zona verde del barrio, usando mecanismos de participación como el cabildo abierto para solicitar apoyo del concejo municipal. <!-- feedback: Correcto. Este proyecto integra participación ciudadana, geografía y valores cívicos. -->
+- [ ] C) Hacer un mapa del colegio. <!-- feedback: Incorrecto. Es solo un aspecto parcial. -->
+- [ ] D) Escribir un ensayo de 20 páginas. <!-- feedback: Incorrecto. Un proyecto práctico es más significativo. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear un proyecto de aplicación práctica de los conocimientos de sociales.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W40, aborda el tema de Repaso integral anual desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W40, es el repaso integral anual de los temas vistos durante todo el año.

@@ -9,23 +9,23 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "utilidad de animales, alimentación, transporte, vestido, compañía"
+rubric_baseline: "utilidad de animales, alimentaciÃ³n, transporte, vestido, compaÃ±Ã­a"
 ---
 
-# Bundle Mastery: Animales: utilidad para el ser humano — Grado 3 — W16
+# Bundle Mastery: Animales: utilidad para el ser humano â€” Grado 3 â€” W16
 
-10 preguntas sobre cómo los humanos utilizamos los animales.
+10 preguntas sobre cÃ³mo los humanos utilizamos los animales.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en Quibdó, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Nacional en QuibdÃ³, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 De las vacas obtenemos:
@@ -34,13 +34,13 @@ De las vacas obtenemos:
 - [ ] A) Huevos
   <!-- feedback: No. -->
 - [x] B) Leche y carne
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Miel
   <!-- feedback: No. -->
 - [ ] D) Lana
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Vacas dan leche y carne.
 
 ---
@@ -49,9 +49,9 @@ Vacas dan leche y carne.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Neiva, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Neiva, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animal que nos da miel:
@@ -62,11 +62,11 @@ Animal que nos da miel:
 - [ ] B) Oveja
   <!-- feedback: No. -->
 - [x] C) Abeja
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Gallina
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Abejas producen miel.
 
 ---
@@ -75,9 +75,9 @@ Abejas producen miel.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Neiva, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en Neiva, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 La lana viene de:
@@ -86,13 +86,13 @@ La lana viene de:
 - [ ] A) Vaca
   <!-- feedback: No. -->
 - [x] B) Oveja
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Cerdo
   <!-- feedback: No. -->
 - [ ] D) Pez
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Ovejas producen lana.
 
 ---
@@ -101,7 +101,7 @@ Ovejas producen lana.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Leticia, la profesora presenta el siguiente ejercicio.
 
@@ -112,13 +112,13 @@ Animales de carga ayudan a:
 - [ ] A) Volar
   <!-- feedback: No. -->
 - [x] B) Transportar
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Cocinar
   <!-- feedback: No. -->
 - [ ] D) Nadar
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Caballos y burros transportan.
 
 ---
@@ -127,9 +127,9 @@ Caballos y burros transportan.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio San José en Yopal, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio San JosÃ© en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Perros nos sirven como:
@@ -137,15 +137,15 @@ Perros nos sirven como:
 ### Opciones
 - [ ] A) Solo mascota
   <!-- feedback: No. -->
-- [x] B) Compañía, guía y seguridad
-  <!-- feedback: ¡Correcto! -->
+- [x] B) CompaÃ±Ã­a, guÃ­a y seguridad
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo para cazar
   <!-- feedback: No. -->
 - [ ] D) Para leche
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Perros son compañía y ayuda.
+### ExplicaciÃ³n PedagÃ³gica
+Perros son compaÃ±Ã­a y ayuda.
 
 ---
 
@@ -153,7 +153,7 @@ Perros son compañía y ayuda.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Colegio La Salle en Duitama, la profesora presenta el siguiente ejercicio.
 
@@ -164,13 +164,13 @@ Los huevos provienen de:
 - [ ] A) Vaca
   <!-- feedback: No. -->
 - [x] B) Gallina
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Cerdo
   <!-- feedback: No. -->
 - [ ] D) Caballo
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Gallinas ponen huevos.
 
 ---
@@ -179,9 +179,9 @@ Gallinas ponen huevos.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El cuero para zapatos viene de:
@@ -190,13 +190,13 @@ El cuero para zapatos viene de:
 - [ ] A) Plantas
   <!-- feedback: No. -->
 - [x] B) Animales (vacas)
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Piedras
   <!-- feedback: No. -->
-- [ ] D) Plástico
+- [ ] D) PlÃ¡stico
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 El cuero se obtiene de la piel de animales.
 
 ---
@@ -205,7 +205,7 @@ El cuero se obtiene de la piel de animales.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Escuela Rural en Girardot, la profesora presenta el siguiente ejercicio.
 
@@ -216,13 +216,13 @@ Los caballos sirven para:
 - [ ] A) Poner huevos
   <!-- feedback: No. -->
 - [x] B) Transporte y trabajo
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Dar leche
   <!-- feedback: No. -->
 - [ ] D) Hacer miel
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Caballos ayudan en transporte.
 
 ---
@@ -231,9 +231,9 @@ Caballos ayudan en transporte.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Popayán, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los animales son importantes porque:
@@ -241,15 +241,15 @@ Los animales son importantes porque:
 ### Opciones
 - [ ] A) No son importantes
   <!-- feedback: No. -->
-- [x] B) Nos dan alimento, vestido, trabajo y compañía
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Solo son decoración
+- [x] B) Nos dan alimento, vestido, trabajo y compaÃ±Ã­a
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Solo son decoraciÃ³n
   <!-- feedback: No. -->
 - [ ] D) Solo son mascotas
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Animales nos proporcionan múltiples beneficios.
+### ExplicaciÃ³n PedagÃ³gica
+Animales nos proporcionan mÃºltiples beneficios.
 
 ---
 
@@ -257,24 +257,24 @@ Animales nos proporcionan múltiples beneficios.
 
 **ID:** `CO-CIE-3-2026-W16-animales-utilidad-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Colegio La Salle en Riohacha, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué pasaría si las abejas desaparecieran?
+Â¿QuÃ© pasarÃ­a si las abejas desaparecieran?
 
 ### Opciones
 - [ ] A) Nada importante
   <!-- feedback: No. -->
-- [x] B) No habría miel y muchas plantas no se polinizarían
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Habría más flores
+- [x] B) No habrÃ­a miel y muchas plantas no se polinizarÃ­an
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) HabrÃ­a mÃ¡s flores
   <!-- feedback: No. -->
-- [ ] D) Produciríamos más miel
+- [ ] D) ProducirÃ­amos mÃ¡s miel
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Abejas polinizan plantas y producen miel.
 
 ---
