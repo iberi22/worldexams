@@ -15,12 +15,12 @@ calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "La Constitución de 1991 y los derechos fundamentales"
+rubric_baseline: "La Constitución Política de 1991: derechos fundamentales, sociales y colectivos"
 ---
 
-# Bundle Mastery: La Constitución Política de 1991 (derechos)
+# Bundle Mastery: La Constitución Política de 1991 — Derechos
 
-Este bundle explica la Constitución de 1991 y los derechos que establece.
+Este bundle explica la Constitución Política de Colombia de 1991 y los derechos que reconoce a los ciudadanos.
 
 ---
 
@@ -29,20 +29,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v1`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Constitución 1991
+**Context:** Clase de constitución en Ibagué
 
 ### Enunciado
-¿Qué es la Constitución Política?
+¿Qué es la Constitución Política de Colombia?
 
 ### Options
-
-- [x] A) La ley de leyes que organiza el Estado colombiano. <!-- feedback: Ley fundamental. -->
-- [ ] B) Un libro de historia. <!-- feedback: No. -->
-- [ ] C) Una novela. <!-- feedback: Ley. -->
-- [ ] D) Un decreto del alcalde. <!-- feedback: Ley suprema. -->
+- [x] A) La ley más importante del país, que establece los derechos y deberes de los ciudadanos y la organización del Estado. <!-- feedback: Correcto. La Constitución es la norma suprema de Colombia. -->
+- [ ] B) Un libro de historia sobre Colombia. <!-- feedback: Incorrecto. Es un documento legal, no un libro de historia. -->
+- [ ] C) Un manual de convivencia escolar. <!-- feedback: Incorrecto. Es la ley fundamental del país. -->
+- [ ] D) Una recopilación de canciones patrióticas. <!-- feedback: Incorrecto. No tiene relación con la música. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar la definición de Constitución Política.
 
 ---
 
@@ -51,20 +50,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v2`
 **Bloom:** [Remember]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Derechos fundamentales
+**Context:** Año de la Constitución actual
 
 ### Enunciado
-¿Qué son los derechos fundamentales?
+¿En qué año se promulgó la actual Constitución Política de Colombia?
 
 ### Options
-
-- [ ] A) Privilegios del presidente. <!-- feedback: De todos. -->
-- [x] B) Derechos básicos de toda persona. <!-- feedback: Básicos. -->
-- [ ] C) Impuestos. <!-- feedback: No. -->
-- [ ] D) Multas. <!-- feedback: No. -->
+- [ ] A) 1810. <!-- feedback: Incorrecto. 1810 fue el Grito de Independencia. -->
+- [ ] B) 1886. <!-- feedback: Incorrecto. Esa fue la Constitución anterior. -->
+- [x] C) 1991. <!-- feedback: Correcto. La actual Constitución fue promulgada en 1991. -->
+- [ ] D) 2000. <!-- feedback: Incorrecto. Fue en 1991. -->
 
 ### Explicación Pedagógica
-[Remember]
+[Remember] Recordar el año de la Constitución vigente.
 
 ---
 
@@ -73,20 +71,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v3`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derecho a la vida
+**Context:** Derechos fundamentales
 
 ### Enunciado
-¿Qué derecho es el más importante?
+¿Qué son los derechos fundamentales?
 
 ### Options
-
-- [ ] A) Derecho a no estudiar. <!-- feedback: No. -->
-- [ ] B) Derecho a la televisión. <!-- feedback: No fundamental. -->
-- [x] C) El derecho a la vida. <!-- feedback: Fundamental. -->
-- [ ] D) Derecho a votar a los 10. <!-- feedback: No. -->
+- [ ] A) Derechos que solo tienen los adultos. <!-- feedback: Incorrecto. Los derechos fundamentales son para todos. -->
+- [x] B) Derechos básicos e irrenunciables de todas las personas, como la vida, la libertad y la igualdad. <!-- feedback: Correcto. Los derechos fundamentales protegen la dignidad humana. -->
+- [ ] C) Derechos que se pueden comprar y vender. <!-- feedback: Incorrecto. Los derechos no se compran ni se venden. -->
+- [ ] D) Derechos que solo tienen los colombianos en el exterior. <!-- feedback: Incorrecto. Aplican a todas las personas en territorio colombiano. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender el concepto de derechos fundamentales.
 
 ---
 
@@ -95,20 +92,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v4`
 **Bloom:** [Understand]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derecho a educación
+**Context:** Derecho a la educación
 
 ### Enunciado
-¿Qué dice la Constitución sobre educación?
+Según la Constitución, ¿la educación en Colombia es un derecho?
 
 ### Options
-
-- [ ] A) Solo en ciudades. <!-- feedback: Todos. -->
-- [ ] B) Solo para ricos. <!-- feedback: Para todos. -->
-- [ ] C) No es obligatorio. <!-- feedback: Es derecho. -->
-- [x] D) Es un derecho de todos los colombianos. <!-- feedback: Derecho. -->
+- [ ] A) No, la educación es un privilegio. <!-- feedback: Incorrecto. La Constitución reconoce la educación como un derecho. -->
+- [x] B) Sí, la educación es un derecho fundamental de todos los niños y niñas. <!-- feedback: Correcto. La educación es un derecho fundamental. -->
+- [ ] C) Solo hasta los 12 años. <!-- feedback: Incorrecto. La educación básica es obligatoria hasta los 15 años. -->
+- [ ] D) Solo para quienes pueden pagarla. <!-- feedback: Incorrecto. La educación pública es gratuita. -->
 
 ### Explicación Pedagógica
-[Understand]
+[Understand] Comprender la educación como derecho constitucional.
 
 ---
 
@@ -117,20 +113,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v5`
 **Bloom:** [Apply]
 **ICFES:** [Uso comprensivo del conocimiento social]
-**Context:** Derecho a salud
+**Context:** Derecho a la salud
 
 ### Enunciado
-¿La salud en Colombia es:
+María necesita atención médica pero no tiene dinero. Según la Constitución, ¿tiene derecho a recibir atención en salud?
 
 ### Options
-
-- [x] A) Un derecho fundamental. <!-- feedback: Fundamental. -->
-- [ ] B) Un servicio opcional. <!-- feedback: Derecho. -->
-- [ ] C) Solo para adultos. <!-- feedback: Todos. -->
-- [ ] D) Un privilegio. <!-- feedback: Derecho. -->
+- [ ] A) No, porque no puede pagar. <!-- feedback: Incorrecto. La salud es un derecho. -->
+- [x] B) Sí, la salud es un derecho fundamental y el Estado debe garantizarla. <!-- feedback: Correcto. La Constitución garantiza el derecho a la salud. -->
+- [ ] C) Solo si trabaja. <!-- feedback: Incorrecto. El derecho a la salud no depende del empleo. -->
+- [ ] D) Solo en emergencias muy graves. <!-- feedback: Incorrecto. La atención en salud es un derecho general. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar el derecho constitucional a la salud.
 
 ---
 
@@ -139,20 +134,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v6`
 **Bloom:** [Apply]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Derechos niños
+**Context:** Derecho a un ambiente sano
 
 ### Enunciado
-¿Qué derechos especiales tienen los niños?
+¿Qué tipo de derecho es vivir en un ambiente sano según la Constitución de 1991?
 
 ### Options
-
-- [ ] A) A trabajar desde los 5. <!-- feedback: Protección. -->
-- [x] B) A la vida, educación, salud y protección. <!-- feedback: Niños. -->
-- [ ] C) A no estudiar. <!-- feedback: Educación. -->
-- [ ] D) A votar. <!-- feedback: Adultos. -->
+- [ ] A) No es un derecho reconocido. <!-- feedback: Incorrecto. Sí está reconocido. -->
+- [x] B) Es un derecho colectivo y del ambiente. <!-- feedback: Correcto. La Constitución reconoce los derechos colectivos y del ambiente. -->
+- [ ] C) Es un derecho de los adultos solamente. <!-- feedback: Incorrecto. Beneficia a todos. -->
+- [ ] D) Es un derecho que se puede vender. <!-- feedback: Incorrecto. No es un bien comercial. -->
 
 ### Explicación Pedagógica
-[Apply]
+[Apply] Aplicar el conocimiento sobre derechos colectivos en la Constitución.
 
 ---
 
@@ -161,20 +155,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v7`
 **Bloom:** [Analyze]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Derecho igualdad
+**Context:** Acción de tutela
 
 ### Enunciado
-¿Qué significa igualdad ante la ley?
+¿Qué mecanismo creó la Constitución de 1991 para proteger los derechos fundamentales?
 
 ### Options
-
-- [ ] A) Solo hombres tienen derechos. <!-- feedback: Todos. -->
-- [ ] B) Unos tienen más derechos. <!-- feedback: Igualdad. -->
-- [x] C) Todos tenemos los mismos derechos sin discriminación. <!-- feedback: Iguales. -->
-- [ ] D) Los ricos tienen más. <!-- feedback: Igualdad. -->
+- [ ] A) La declaración de guerra. <!-- feedback: Incorrecto. No tiene relación. -->
+- [ ] B) El voto popular. <!-- feedback: Incorrecto. El voto elige gobernantes. -->
+- [x] C) La acción de tutela. <!-- feedback: Correcto. La tutela es un mecanismo rápido para proteger derechos fundamentales. -->
+- [ ] D) El impuesto a la renta. <!-- feedback: Incorrecto. No es un mecanismo de protección de derechos. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar la acción de tutela como mecanismo de protección de derechos.
 
 ---
 
@@ -183,20 +176,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v8`
 **Bloom:** [Analyze]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Derecho libre expresión
+**Context:** Constitución anterior
 
 ### Enunciado
-¿Qué es la libertad de expresión?
+¿Qué cambios importantes trajo la Constitución de 1991 respecto a la de 1886?
 
 ### Options
-
-- [ ] A) Solo el presidente. <!-- feedback: Todos. -->
-- [ ] B) Obligación de callar. <!-- feedback: Expresar. -->
-- [ ] C) Solo escribir. <!-- feedback: Hablar y escribir. -->
-- [x] D) Derecho a expresar ideas libremente. <!-- feedback: Expresar. -->
+- [ ] A) Ningún cambio importante. <!-- feedback: Incorrecto. Fue una transformación profunda. -->
+- [ ] B) Solo cambió el nombre del país. <!-- feedback: Incorrecto. Hubo cambios mucho más significativos. -->
+- [x] C) Reconoció la diversidad étnica y cultural, creó la tutela, la Corte Constitucional y fortaleció la descentralización. <!-- feedback: Correcto. La Constitución de 1991 fue una reforma integral del Estado colombiano. -->
+- [ ] D) Eliminó todos los derechos de los ciudadanos. <!-- feedback: Incorrecto. Amplió los derechos. -->
 
 ### Explicación Pedagógica
-[Analyze]
+[Analyze] Analizar los cambios introducidos por la Constitución de 1991.
 
 ---
 
@@ -205,20 +197,19 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v9`
 **Bloom:** [Evaluate]
 **ICFES:** [Interpretación y análisis de perspectivas]
-**Context:** Proteger derechos
+**Context:** Importancia de conocer la Constitución
 
 ### Enunciado
-¿Qué hacer si violan tus derechos?
+¿Crees que es importante que los ciudadanos conozcan la Constitución?
 
 ### Options
-
-- [x] A) Acudir a un juez o a la Defensoría del Pueblo. <!-- feedback: Defensa. -->
-- [ ] B) Nada. <!-- feedback: Actuar. -->
-- [ ] C) Tomar justicia por mano propia. <!-- feedback: Legal. -->
-- [ ] D) Irse del país. <!-- feedback: Defensa. -->
+- [ ] A) No, porque es muy larga y complicada. <!-- feedback: Incorrecto. Aunque es extensa, conocer los derechos básicos es fundamental. -->
+- [x] B) Sí, porque así pueden exigir el cumplimiento de sus derechos y conocer sus deberes. <!-- feedback: Correcto. Conocer la Constitución empodera a los ciudadanos. -->
+- [ ] C) No, porque solo los abogados deben conocerla. <!-- feedback: Incorrecto. Todos los ciudadanos deberían conocer sus derechos. -->
+- [ ] D) Sí, pero solo los adultos mayores. <!-- feedback: Incorrecto. Todos los ciudadanos, desde niños, deben conocer sus derechos. -->
 
 ### Explicación Pedagógica
-[Evaluate]
+[Evaluate] Evaluar la importancia del conocimiento constitucional para la ciudadanía.
 
 ---
 
@@ -227,22 +218,21 @@ Este bundle explica la Constitución de 1991 y los derechos que establece.
 **ID:** `COL-SOC-CIU-4-2026-W26-la-constitucion-politica-de-1991-derechos-001-MASTERY-v10`
 **Bloom:** [Create]
 **ICFES:** [Pensamiento reflexivo y sistémico]
-**Context:** Crear un derecho
+**Context:** Constitución escolar
 
 ### Enunciado
-¿Qué nuevo derecho propondrías?
+Crea un artículo para una "Constitución escolar" que proteja un derecho importante para los estudiantes.
 
 ### Options
-
-- [ ] A) Derecho a no hacer tareas. <!-- feedback: No. -->
-- [x] B) Derecho a un ambiente sano y libre de contaminación. <!-- feedback: Ambiente. -->
-- [ ] C) Derecho a comer dulces. <!-- feedback: Serio. -->
-- [ ] D) No crearía. <!-- feedback: Crear. -->
+- [ ] A) "Todos los estudiantes deben pagar por usar los baños." <!-- feedback: Incorrecto. Eso no protege un derecho, lo limita. -->
+- [x] B) "Todos los estudiantes tienen derecho a ser escuchados por los profesores y directivos antes de tomar decisiones que los afecten." <!-- feedback: Correcto. Este artículo protege el derecho a la participación estudiantil. -->
+- [ ] C) "Los estudiantes no pueden opinar en clase." <!-- feedback: Incorrecto. Limita la libertad de expresión. -->
+- [ ] D) "Solo los mejores estudiantes tienen derecho a recreo." <!-- feedback: Incorrecto. El recreo no debe ser un privilegio. -->
 
 ### Explicación Pedagógica
-[Create]
+[Create] Crear un artículo constitucional escolar que proteja derechos estudiantiles.
 
 ---
 
 ### Explicación Pedagógica Final
-Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W26, aborda el tema de La Constitución Política de 1991 (derechos) desde una perspectiva colombiana.
+Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W26, aborda la Constitución Política de 1991 y los derechos que reconoce.
