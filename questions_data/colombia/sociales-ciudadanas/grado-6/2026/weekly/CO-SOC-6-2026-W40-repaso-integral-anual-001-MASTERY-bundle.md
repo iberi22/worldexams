@@ -1,225 +1,172 @@
 ---
 id: "CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY"
 country: "colombia"
-grado: 6
 asignatura: "sociales-ciudadanas"
-tema: "repaso-integral-anual"
+tema: "Repaso Integral Anual"
+grado: 6
 semana: 40
 protocol_version: "5.2"
-year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Competencias Ciudadanas"
-modern_context: true
-distractor_profile: "plausible_peer_set"
+
 calibration:
   expected_success_rate: 0.65
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "repaso_anual, historia, geografia, economia, democracia, contenidos"
+
+rubric_baseline: "repaso_integral_anual"
 ---
 
-# Bundle Mastery: Repaso Integral Anual – Semana 40
+# Repaso Integral Anual
 
-Este bundle cubre los temas correspondientes a la semana 40. Alineado con los DBA de Competencias Ciudadanas para grado 6.
+Preguntas de Sociales Ciudadanas para grado 6 - Semana 40.
 
----
+## Pregunta 1
 
-## Question 1
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v1
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Pensamiento Social
+**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
 
-### Enunciado
-Tres etapas de la Prehistoria:
+Escritura cuneiforme pertenece a:
 
-### Options
-- [ ] A) Antigua, Media, Moderna <!-- feedback: Incorrecto. -->
-- [x] B) Paleolítico, Neolítico, Edad de los Metales <!-- feedback: Correcto! -->
-- [ ] C) Piedra, Bronce, Hierro <!-- feedback: Incorrecto. -->
-- [ ] D) 1, 2, 3 <!-- feedback: Incorrecto. -->
+- **A.** Egipto
+- **B.** Mesopotamia
 
-### Explicación Pedagógica
-Paleolítico, Neolítico y Edad de los Metales.
+> **Respuesta correcta:** B
 
----
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-## Question 2
+## Pregunta 2
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Pensamiento Social
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v2
 
-### Enunciado
-Primeras civilizaciones surgieron cerca de:
+**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
 
-### Options
-- [ ] A) Montañas <!-- feedback: Incorrecto. -->
-- [x] B) Grandes ríos (Nilo, Tigris, Indo) <!-- feedback: Correcto! -->
-- [ ] C) Desiertos <!-- feedback: Incorrecto. -->
-- [ ] D) Mares <!-- feedback: Incorrecto. -->
+Faraon egipcio era:
 
-### Explicación Pedagógica
-Valles fluviales fértiles.
+- **A.** Rey elegido
+- **B.** Gobernante absoluto y dios viviente
 
----
+> **Respuesta correcta:** B
 
-## Question 3
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Pensamiento Social
+## Pregunta 3
 
-### Enunciado
-Forma de gobierno creada en Grecia:
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v3
 
-### Options
-- [ ] A) Monarquía <!-- feedback: Incorrecto. -->
-- [x] B) Democracia <!-- feedback: Correcto! -->
-- [ ] C) Teocracia <!-- feedback: Incorrecto. -->
-- [ ] D) Imperio <!-- feedback: Incorrecto. -->
+**Taxonomia:** Bloom: _Understand_ | ICFES: _Pensamiento Social_
 
-### Explicación Pedagógica
-Democracia ateniense.
+Democracia nacio en:
 
----
+- **A.** Roma
+- **B.** Atenas (Grecia)
 
-## Question 4
+> **Respuesta correcta:** B
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v4`
-**Bloom:** Remember
-**ICFES:** Pensamiento Social
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-### Enunciado
-Primer emperador romano:
+## Pregunta 4
 
-### Options
-- [ ] A) Julio César <!-- feedback: Incorrecto. -->
-- [x] B) Augusto <!-- feedback: Correcto! -->
-- [ ] C) Nerón <!-- feedback: Incorrecto. -->
-- [ ] D) Constantino <!-- feedback: Incorrecto. -->
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v4
 
-### Explicación Pedagógica
-Augusto, 27 a.C.
+**Taxonomia:** Bloom: _Apply_ | ICFES: _Pensamiento Social_
 
----
+Republica Romana tenia similar a nuestro Congreso:
 
-## Question 5
+- **A.** Coliseo
+- **B.** El Senado
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES:** Pensamiento Social
+> **Respuesta correcta:** B
 
-### Enunciado
-Sistema medieval basado en feudos:
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-### Options
-- [x] A) Feudalismo <!-- feedback: Correcto! -->
-- [ ] B) Capitalismo <!-- feedback: Incorrecto. -->
-- [ ] C) Socialismo <!-- feedback: Incorrecto. -->
-- [ ] D) Esclavismo <!-- feedback: Incorrecto. -->
+## Pregunta 5
 
-### Explicación Pedagógica
-Feudalismo.
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v5
 
----
+**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
 
-## Question 6
+Caida de Roma:
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v6`
-**Bloom:** Analyze
-**ICFES:** Pensamiento Social
+- **A.** 1492
+- **B.** 476 d.C.
 
-### Enunciado
-Evento que dividió la Edad Media de la Moderna:
+> **Respuesta correcta:** B
 
-### Options
-- [ ] A) Revolución Francesa <!-- feedback: Incorrecto. -->
-- [x] B) Descubrimiento de América (1492) / Caída de Constantinopla (1453) <!-- feedback: Correcto! -->
-- [ ] C) Primera Guerra Mundial <!-- feedback: Incorrecto. -->
-- [ ] D) Reforma <!-- feedback: Incorrecto. -->
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-### Explicación Pedagógica
-Transición a la Edad Moderna.
+## Pregunta 6
 
----
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v6
 
-## Question 7
+**Taxonomia:** Bloom: _Understand_ | ICFES: _Pensamiento Social_
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v7`
-**Bloom:** Remember
-**ICFES:** Pensamiento Social
+Feudalismo se basaba en:
 
-### Enunciado
-Año del Descubrimiento de América:
+- **A.** Comercio
+- **B.** Relaciones de vasallaje y la tierra
 
-### Options
-- [x] A) 1492 <!-- feedback: Correcto! -->
-- [ ] B) 1500 <!-- feedback: Incorrecto. -->
-- [ ] C) 1519 <!-- feedback: Incorrecto. -->
-- [ ] D) 1521 <!-- feedback: Incorrecto. -->
+> **Respuesta correcta:** B
 
-### Explicación Pedagógica
-12 de octubre de 1492.
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
----
+## Pregunta 7
 
-## Question 8
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v7
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Pensamiento Social
+**Taxonomia:** Bloom: _Apply_ | ICFES: _Pensamiento Social_
 
-### Enunciado
-Elementos de un mapa: escala, leyenda, rosa vientos. Para qué sirven?
+Escala de mapa: 1 cm = ?
 
-### Options
-- [ ] A) Decorar <!-- feedback: Incorrecto. -->
-- [x] B) Interpretar y orientarse en el mapa <!-- feedback: Correcto! -->
-- [ ] C) Navegar <!-- feedback: Incorrecto. -->
-- [ ] D) Calcular tiempo <!-- feedback: Incorrecto. -->
+- **A.** Depende de la escala
+- **B.** Siempre 1 km
 
-### Explicación Pedagógica
-Lectura cartográfica.
+> **Respuesta correcta:** A
 
----
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es A.
 
-## Question 9
+## Pregunta 8
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v9`
-**Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v8
 
-### Enunciado
-Diferencia entre coordenadas y husos horarios:
+**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
 
-### Options
-- [ ] A) Son iguales <!-- feedback: Incorrecto. -->
-- [x] B) Coordenadas: ubicación. Husos: hora. <!-- feedback: Correcto! -->
-- [ ] C) Coordenadas: hora. Husos: ubicación <!-- feedback: Incorrecto. -->
-- [ ] D) No se relacionan <!-- feedback: Incorrecto. -->
+Colombia huso horario:
 
-### Explicación Pedagógica
-Ambos sistemas geográficos.
+- **A.** UTC+0
+- **B.** UTC-5
 
----
+> **Respuesta correcta:** B
 
-## Question 10
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
 
-**ID:** `CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Pensamiento Social
+## Pregunta 9
 
-### Enunciado
-Sectores económicos en Colombia:
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v9
 
-### Options
-- [ ] A) Solo uno <!-- feedback: Incorrecto. -->
-- [x] B) Primario (agricultura), secundario (industria), terciario (servicios) <!-- feedback: Correcto! -->
-- [ ] C) Solo terciario <!-- feedback: Incorrecto. -->
-- [ ] D) Solo primario <!-- feedback: Incorrecto. -->
+**Taxonomia:** Bloom: _Evaluate_ | ICFES: _Pensamiento Social_
 
-### Explicación Pedagógica
-Economía diversificada.
+Legado de la Antigua Grecia a Colombia:
 
+- **A.** Ninguno
+- **B.** Democracia, filosofia, teatro, deporte
+
+> **Respuesta correcta:** B
+
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+## Pregunta 10
+
+**ID:** CO-SOC-6-2026-W40-repaso-integral-anual-001-MASTERY-v10
+
+**Taxonomia:** Bloom: _Remember_ | ICFES: _Pensamiento Social_
+
+Sector terciario:
+
+- **A.** Agricultura
+- **B.** Servicios
+
+> **Respuesta correcta:** B
+
+**Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
