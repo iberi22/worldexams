@@ -5,197 +5,265 @@ grado: 3
 asignatura: "ciencias-naturales"
 tema: "repaso-p1"
 semana: "W04"
+periodo: 1
 protocol_version: "5.2"
-bundle_index: 1
-bundle_size: 8
+year: 2026
+bundle_index: 2
+bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-calibration:
-  expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.22"
-  simulated_responses: 100
-rubric_baseline: "repaso, seres vivos, plantas, animales, clasificación, características, ciclo de vida, funciones vitales"
+rubric_baseline: "Repaso integral del Periodo 1: Seres vivos, plantas y animales (características, clasificación y reproducción)."
 ---
 
-# Bundle Mastery: Repaso del Período 1 — Semana 4
+# Repaso Integral: Seres Vivos, Plantas y Animales
 
-Este bundle integra y repasa los conceptos vistos en las semanas 1, 2 y 3: características de los seres vivos, partes de las plantas y clasificación de animales. Evalúa la capacidad de relacionar y aplicar estos conocimientos.
+Este bundle integra los conocimientos adquiridos sobre los seres vivos, sus funciones vitales y la clasificación básica de plantas y animales.
 
----
-
-## Pregunta 1 [D1]
+## Pregunta 1 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Comunicación y Representación
-**Expected_Success:** 0.90
-**Context:** En un salón de clases en Bogotá, la profesora repasa las funciones vitales.
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Imagina que vas de excursión a un páramo colombiano y ves frailejones, rocas, agua cristalina y un cóndor volando.
+**Expected_Success:** 0.85
 
 ### Enunciado
-¿Cuál de las siguientes NO es una función vital de los seres vivos?
+
+¿Cuál de los siguientes pares está formado únicamente por seres vivos?
 
 ### Opciones
-- [ ] A) Nutrición <!-- feedback: Incorrecto. La nutrición sí es una función vital. -->
-- [ ] B) Reproducción <!-- feedback: Incorrecto. La reproducción sí es una función vital. -->
-- [x] C) Volar <!-- feedback: Correcto. Volar no es una función vital, solo algunos seres vivos lo hacen. -->
-- [ ] D) Crecimiento <!-- feedback: Incorrecto. El crecimiento sí es una función vital. -->
+
+- [ ] A) Las rocas y el cóndor <!-- feedback: El cóndor es un ser vivo (animal), pero las rocas son objetos inertes compuestos de minerales sin vida. -->
+- [x] B) El frailejón y el cóndor <!-- feedback: Ambos cumplen las funciones vitales de nacer, crecer, nutrirse, relacionarse y reproducirse (planta y animal). -->
+- [ ] C) El agua y el frailejón <!-- feedback: El agua es un elemento esencial para la vida pero no está viva por sí misma; el frailejón sí es un ser vivo. -->
+- [ ] D) El aire y las rocas <!-- feedback: Ninguno de los dos tiene células ni realiza funciones biológicas, por lo tanto ambos son elementos inertes. -->
 
 ### Explicación Pedagógica
-Las funciones vitales de todos los seres vivos son: nutrición (obtener alimento), relación (responder a estímulos), reproducción (crear descendencia) y crecimiento. Volar es una capacidad que tienen algunos animales, pero no es una función vital necesaria para la vida.
+
+Identificar los componentes bióticos (vivos) y abióticos (inertes) es el primer paso para entender la naturaleza. Los seres vivos se distinguen por su organización celular y su capacidad de realizar procesos biológicos autónomos.
 
 ---
 
-## Pregunta 2 [D1]
+## Pregunta 2 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES category:** Comunicación y Representación
-**Expected_Success:** 0.85
-**Context:** Los estudiantes en Medellín repasan las partes de la planta con un modelo de plastilina.
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Un estudiante observa que una hormiga carga una migaja de pan y la lleva hacia su hormiguero.
+**Expected_Success:** 0.80
 
 ### Enunciado
-¿Cuál es la parte de la planta que generalmente tiene color verde y capta la luz del sol?
+
+¿Qué función vital está asegurando la hormiga al realizar esta acción?
 
 ### Opciones
-- [ ] A) La raíz <!-- feedback: Incorrecto. La raíz está bajo tierra y no es verde. -->
-- [x] B) La hoja <!-- feedback: Correcto. Las hojas son verdes y captan la luz solar. -->
-- [ ] C) La flor <!-- feedback: Incorrecto. Las flores tienen colores variados. -->
-- [ ] D) El fruto <!-- feedback: Incorrecto. Los frutos tienen varios colores. -->
+
+- [ ] A) La reproducción de la reina <!-- feedback: Llevar comida ayuda a mantener a la colonia, pero el acto de alimentarse es parte de la nutrición, no de la reproducción. -->
+- [ ] B) El crecimiento del hormiguero <!-- feedback: El hormiguero es una construcción; la hormiga busca energía para su propio cuerpo y el de sus compañeras. -->
+- [x] C) La nutrición de su comunidad <!-- feedback: Al buscar y transportar alimento, las hormigas obtienen la materia y energía necesarias para seguir viviendo y trabajando. -->
+- [ ] D) La relación con el pan <!-- feedback: Aunque interactúa con el pan, el objetivo biológico final de esa interacción es alimentarse (nutrición). -->
 
 ### Explicación Pedagógica
-Las hojas son generalmente de color verde porque contienen clorofila, un pigmento que capta la energía del sol para realizar la fotosíntesis y fabricar el alimento de la planta.
+
+La nutrición en los animales implica la búsqueda activa de alimento. La hormiga, como consumidor, debe recolectar nutrientes del medio ambiente para que sus células tengan la energía suficiente para cumplir sus funciones.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D3-D4]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v3`
-**Bloom:** Understand
-**ICFES category:** Comunicación y Representación
-**Expected_Success:** 0.75
-**Context:** En un parque de Cali, los estudiantes observan diferentes animales.
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** En la huerta escolar, los niños ven que las plantas de tomate tienen flores amarillas y frutos rojos.
+**Expected_Success:** 0.90
 
 ### Enunciado
-Un animal tiene el cuerpo cubierto de plumas, dos patas y pico. ¿Qué tipo de animal es?
+
+¿Cuál es la función principal de la flor en una planta?
 
 ### Opciones
-- [ ] A) Mamífero <!-- feedback: Incorrecto. Los mamíferos tienen pelo. -->
-- [x] B) Ave <!-- feedback: Correcto. Las aves tienen plumas, dos patas y pico. -->
-- [ ] C) Reptil <!-- feedback: Incorrecto. Los reptiles tienen escamas. -->
-- [ ] D) Insecto <!-- feedback: Incorrecto. Los insectos tienen seis patas. -->
+
+- [ ] A) Absorber el agua de la lluvia <!-- feedback: La absorción de agua es tarea de la raíz; la flor no tiene las estructuras necesarias para hidratar a la planta. -->
+- [ ] B) Sostener las hojas pesadas <!-- feedback: El tallo es el encargado de dar soporte y altura a la planta, no la flor que es más delicada. -->
+- [x] C) Permitir la reproducción <!-- feedback: La flor contiene los órganos reproductores que darán lugar a las semillas y, por lo tanto, a nuevas plantas. -->
+- [ ] D) Proteger a la raíz del sol <!-- feedback: Las flores suelen estar en la parte superior para atraer polinizadores, no para dar sombra a la raíz subterránea. -->
 
 ### Explicación Pedagógica
-Las aves son animales vertebrados que se caracterizan por tener el cuerpo cubierto de plumas, dos patas, un pico y alas. Ejemplos: gallinas, loros, palomas y águilas.
+
+La flor es el órgano especializado para la reproducción sexual en las plantas. A través de la polinización, permite que se formen semillas que luego el fruto protegerá hasta que estén listas para germinar.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES category:** Razonamiento y Argumentación
-**Expected_Success:** 0.70
-**Context:** En Barranquilla, los estudiantes comparan la semilla de un frijol con una piedra del mismo tamaño.
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un cocodrilo pone sus huevos en un nido de arena, mientras que una vaca cuida a su ternero que nació de su vientre.
+**Expected_Success:** 0.85
 
 ### Enunciado
-¿Qué diferencia hay entre una semilla de frijol y una piedra del mismo tamaño?
+
+¿Cómo clasificarías a estos dos animales según su forma de nacimiento?
 
 ### Opciones
-- [ ] A) La piedra puede germinar y la semilla no <!-- feedback: Incorrecto. Es al revés. -->
-- [x] B) La semilla puede germinar porque es un ser vivo, la piedra no <!-- feedback: Correcto. La semilla está viva y puede crecer. -->
-- [ ] C) Los dos pueden crecer si los riegas <!-- feedback: Incorrecto. La piedra no crece. -->
-- [ ] D) La piedra necesita agua y la semilla no <!-- feedback: Incorrecto. La semilla necesita agua para germinar. -->
+
+- [ ] A) Ambos son ovíparos <!-- feedback: Solo el cocodrilo nace de huevo; la vaca es un mamífero vivíparo cuyo bebé se desarrolla internamente. -->
+- [ ] B) Ambos son vivíparos <!-- feedback: No, el cocodrilo usa huevos externos con cáscara, lo que lo define como un animal ovíparo. -->
+- [x] C) El cocodrilo es ovíparo y la vaca es vivípara <!-- feedback: Esta es la clasificación correcta basada en si el desarrollo ocurre en un huevo externo o dentro de la madre. -->
+- [ ] D) El cocodrilo es acuático y la vaca es aérea <!-- feedback: La vaca vive en tierra y el cocodrilo es semiacuático, pero esto no clasifica su forma de nacer. -->
 
 ### Explicación Pedagógica
-La semilla es un ser vivo en estado de latencia (como "dormido") que contiene un embrión de planta. Con agua y condiciones adecuadas, germinará y crecerá. La piedra es un objeto inerte que nunca crecerá ni tendrá vida.
+
+Los ovíparos (como el cocodrilo) confían en la protección del huevo, mientras que los vivíparos (como la vaca) confían en la protección del cuerpo materno. Ambas son estrategias exitosas para traer vida al mundo.
 
 ---
 
-## Pregunta 5 [D3]
+## Pregunta 5 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v5`
-**Bloom:** Understand
-**ICFES category:** Razonamiento y Argumentación
-**Expected_Success:** 0.65
-**Context:** En un bosque de Antioquia, los niños escuchan el sonido de un grillo.
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Context:** Un científico encuentra un animal marino que tiene espinas internas, branquias para respirar y aletas para nadar.
+**Expected_Success:** 0.75
 
 ### Enunciado
-Un grillo tiene 6 patas, antenas y su cuerpo tiene 3 partes. ¿Qué tipo de animal es?
+
+¿A qué grupo de vertebrados pertenece este animal?
 
 ### Opciones
-- [ ] A) Arácnido <!-- feedback: Incorrecto. Los arácnidos tienen 8 patas. -->
-- [x] B) Insecto <!-- feedback: Correcto. Los insectos tienen 6 patas, antenas y 3 partes del cuerpo. -->
-- [ ] C) Anfibio <!-- feedback: Incorrecto. Los anfibios tienen 4 patas y piel húmeda. -->
-- [ ] D) Reptil <!-- feedback: Incorrecto. Los reptiles tienen 4 patas y escamas. -->
+
+- [ ] A) Anfibios <!-- feedback: Los anfibios tienen piel desnuda y suelen tener patas en su etapa adulta para vivir también en la tierra. -->
+- [ ] B) Mamíferos marinos <!-- feedback: Los mamíferos marinos (como delfines) respiran aire con pulmones, no usan branquias para extraer oxígeno del agua. -->
+- [x] C) Peces <!-- feedback: Los peces se caracterizan por ser vertebrados acuáticos que respiran por branquias y tienen extremidades en forma de aletas. -->
+- [ ] D) Invertebrados marinos <!-- feedback: El enunciado dice que tiene "espinas internas", lo que significa que posee un esqueleto óseo (es un vertebrado). -->
 
 ### Explicación Pedagógica
-Los insectos tienen tres pares de patas (6 patas), un par de antenas y el cuerpo dividido en cabeza, tórax y abdomen. El grillo, la hormiga y la mariposa son ejemplos de insectos.
+
+La combinación de esqueleto interno (vertebrado), respiración por branquias y vida acuática permanente define al grupo de los peces. Es un ejemplo de cómo las características físicas nos ayudan a clasificar a los animales.
 
 ---
 
-## Pregunta 6 [D4]
+## Pregunta 6 [D5-D6]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
-**Expected_Success:** 0.60
-**Context:** En la finca de un estudiante en Sincelejo, tienen varios animales: vacas, gallinas, perros y peces en un estanque.
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Las hojas de una planta son planas, anchas y de color verde.
+**Expected_Success:** 0.80
 
-### Enunciado**
-De los animales de la finca, ¿cuáles son mamíferos?
+### Enunciado
+
+¿Cómo ayuda la forma plana y ancha de la hoja a la nutrición de la planta?
 
 ### Opciones
-- [ ] A) Gallinas y peces <!-- feedback: Incorrecto. Las gallinas son aves y los peces son peces. -->
-- [ ] B) Solo los peces <!-- feedback: Incorrecto. Los peces no son mamíferos. -->
-- [x] C) Las vacas y los perros <!-- feedback: Correcto. Vacas y perros son mamíferos. -->
-- [ ] D) Las gallinas y las vacas <!-- feedback: Incorrecto. Las gallinas son aves. -->
+
+- [x] A) Para captar más luz del sol <!-- feedback: Una superficie mayor permite que la hoja reciba más energía solar, necesaria para realizar la fotosíntesis con eficiencia. -->
+- [ ] B) Para poder volar con el viento <!-- feedback: Las plantas están fijas al suelo por sus raíces; las hojas no tienen la función de permitir el vuelo. -->
+- [ ] C) Para que los pájaros descansen <!-- feedback: Aunque los pájaros las usen, la función biológica de la hoja es para el beneficio nutricional de la propia planta. -->
+- [ ] D) Para que la lluvia no moje el tallo <!-- feedback: La lluvia moja toda la planta; la forma de la hoja responde a la necesidad de luz y no de protección contra el agua. -->
 
 ### Explicación Pedagógica
-Los mamíferos se caracterizan por tener pelo, ser de sangre caliente y amamantar a sus crías. Las vacas y los perros son mamíferos. Las gallinas son aves y los peces son peces.
+
+La fotosíntesis requiere luz solar. Por eso, las hojas han evolucionado para ser como paneles solares naturales: extensas y orientadas hacia la luz para producir el alimento que la planta necesita para crecer.
 
 ---
 
-## Pregunta 7 [D5]
+## Pregunta 7 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
-**Expected_Success:** 0.55
-**Context:** En Pereira, los estudiantes hacen un experimento: ponen una flor blanca en agua con colorante rojo.
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un pulpo y una lagartija se encuentran en la costa. El pulpo se esconde en una grieta pequeña y la lagartija corre sobre las rocas.
+**Expected_Success:** 0.65
 
 ### Enunciado
-Después de unas horas, la flor blanca se vuelve rojiza. ¿Qué parte de la planta transportó el colorante hasta los pétalos?
+
+¿Cuál es la diferencia más importante en la estructura de sus cuerpos?
 
 ### Opciones
-- [x] A) El tallo <!-- feedback: Correcto. El tallo transporta agua y sustancias por toda la planta. -->
-- [ ] B) La raíz <!-- feedback: Incorrecto. La raíz absorbe, pero el tallo transporta. -->
-- [ ] C) La hoja <!-- feedback: Incorrecto. Las hojas realizan fotosíntesis. -->
-- [ ] D) El fruto <!-- feedback: Incorrecto. El fruto protege las semillas. -->
+
+- [ ] A) El pulpo es vertebrado y la lagartija no <!-- feedback: Es al revés: la lagartija es un reptil (vertebrado) y el pulpo es un molusco (invertebrado). -->
+- [ ] B) Ambos son animales invertebrados <!-- feedback: Incorrecto. La lagartija tiene huesos y columna vertebral, lo que la hace parte del grupo de los vertebrados. -->
+- [x] C) La lagartija es vertebrada y el pulpo invertebrado <!-- feedback: La lagartija tiene un esqueleto interno de huesos; el pulpo carece de huesos, lo que le da su gran flexibilidad. -->
+- [ ] D) No hay diferencias porque ambos son animales <!-- feedback: Aunque ambos son animales, pertenecen a grupos muy distintos según la presencia o ausencia de huesos internos. -->
 
 ### Explicación Pedagógica
-El tallo contiene vasos conductores (xilema) que transportan agua y minerales desde la raíz hasta las hojas y flores. El colorante rojo viajó por estos conductos hasta los pétalos de la flor, tiñéndolos.
+
+La clasificación en vertebrados e invertebrados es fundamental. Los huesos dan soporte rígido y permiten movimientos rápidos en tierra, mientras que la falta de ellos permite a ciertos animales marinos una flexibilidad asombrosa.
 
 ---
 
-## Pregunta 8 [D5]
+## Pregunta 8 [D7-D8]
 
 **ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
-**Expected_Success:** 0.50
-**Context:** En la clase de ciencias de Bucaramanga, la profesora pide comparar dos animales: una vaca y una rana.
+**Bloom:** Apply
+**ICFES:** Indagación
+**Context:** Un león caza una cebra, mientras que un chimpancé come frutas, hojas y también algunos insectos o carne pequeña.
+**Expected_Success:** 0.70
 
 ### Enunciado
-¿Cuál es la diferencia más importante entre una vaca y una rana en su forma de nacer?
+
+¿Cómo clasificarías a estos dos animales según su alimentación?
 
 ### Opciones
-- [ ] A) La rana nace con pelo y la vaca sin pelo <!-- feedback: Incorrecto. La rana no tiene pelo. -->
-- [x] B) La vaca nace de la panza de su mamá, mientras que la rana nace de un huevo en el agua <!-- feedback: Correcto. La vaca es vivípara y la rana es ovípara. -->
-- [ ] C) Las dos nacen de huevos en el agua <!-- feedback: Incorrecto. La vaca no nace de huevo. -->
-- [ ] D) La vaca nace de un huevo y la rana de la panza <!-- feedback: Incorrecto. Es al revés. -->
+
+- [ ] A) León herbívoro y chimpancé carnívoro <!-- feedback: El león come carne (carnívoro) y el chimpancé tiene una dieta variada (omnívoro). -->
+- [x] B) León carnívoro y chimpancé omnívoro <!-- feedback: El león se especializa en carne, mientras que el chimpancé consume tanto vegetales como alimentos de origen animal. -->
+- [ ] C) Ambos son animales carnívoros <!-- feedback: Aunque ambos coman carne, el chimpancé basa gran parte de su dieta en plantas, lo que lo hace omnívoros. -->
+- [ ] D) Ambos son animales herbívoros <!-- feedback: Ninguno de los dos vive exclusivamente de plantas; el león moriría si solo comiera vegetales. -->
 
 ### Explicación Pedagógica
-Los mamíferos como la vaca son vivíparos: las crías se desarrollan dentro del vientre de la madre y nacen directamente. Las ranas son ovíparas: ponen huevos en el agua, de los cuales salen renacuajos que luego se transforman en ranas adultas.
+
+Entender las dietas ayuda a comprender el papel de cada animal en la cadena alimentaria. Los carnívoros controlan las poblaciones de otros animales, mientras que los omnívoros tienen dietas más flexibles que les permiten adaptarse mejor.
 
 ---
+
+## Pregunta 9 [D7-D8]
+
+**ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v9`
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Context:** Cuando un gato ve un perro que ladra, se le eriza el pelo y sale corriendo a esconderse en un árbol.
+**Expected_Success:** 0.72
+
+### Enunciado
+
+¿Qué función vital está realizando el gato en ese momento?
+
+### Opciones
+
+- [ ] A) Función de nutrición <!-- feedback: El gato no está buscando energía o alimento; está respondiendo a una amenaza inmediata del ambiente. -->
+- [x] B) Función de relación <!-- feedback: El gato percibe un estímulo (el perro ladrando) y reacciona para protegerse, interactuando con lo que sucede a su alrededor. -->
+- [ ] C) Función de reproducción <!-- feedback: El acto de huir no tiene como objetivo crear descendencia, sino preservar la vida del individuo. -->
+- [ ] D) Función de crecimiento acelerado <!-- feedback: Erizar el pelo lo hace ver más grande, pero no es un proceso biológico de crecimiento real de sus tejidos. -->
+
+### Explicación Pedagógica
+
+La función de relación es como el sistema de comunicación y defensa del ser vivo. Permite detectar peligros, encontrar pareja o buscar comida, asegurando que el animal se comporte de forma adecuada según lo que pase afuera.
+
+---
+
+## Pregunta 10 [D9-D10]
+
+**ID:** `CO-CIE-3-2026-W04-repaso-p1-001-MASTERY-v10`
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Context:** Un robot de última tecnología puede "crecer" agregando piezas metálicas, puede "reproducirse" haciendo copias de sí mismo en una fábrica y "come" electricidad.
+**Expected_Success:** 0.55
+
+### Enunciado
+
+¿Por qué, a pesar de estas capacidades, un robot sigue siendo un objeto inerte?
+
+### Opciones
+
+- [ ] A) Porque es muy caro de fabricar <!-- feedback: El precio no determina si algo está vivo o no; hay seres vivos muy valiosos y otros muy comunes. -->
+- [ ] B) Porque no tiene un nombre bonito <!-- feedback: Muchos animales no tienen nombre y están vivos; el nombre es una etiqueta humana y no una característica biológica. -->
+- [x] C) Porque no tiene células ni procesos biológicos autónomos <!-- feedback: La vida se define por la organización celular y la capacidad biológica natural, no por procesos mecánicos o industriales programados. -->
+- [ ] D) Porque no le gusta jugar al fútbol <!-- feedback: Jugar no es una función vital; muchos seres vivos como las plantas o bacterias no juegan y tienen vida. -->
+
+### Explicación Pedagógica
+
+Este es el concepto más importante de la biología. La vida es un fenómeno natural basado en la célula. Las máquinas pueden imitar comportamientos vivos, pero carecen de la complejidad biológica, la evolución orgánica y el metabolismo natural que definen a los seres vivos.
