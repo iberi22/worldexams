@@ -9,221 +9,228 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Est�ndares B�sicos de Competencias en Lenguaje"
+alignment: "DBA MEN + Estándares Básicos de Competencias en Lenguaje"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
-rubric_baseline: "personajes, características físicas y de personalidad, descripción, roles"
+rubric_baseline: "personajes, características físicas, personalidad, descripción"
 ---
 
 # Lectura Crítica G4 — W04: Personajes y sus características
-
-*Los personajes son quienes actúan en las historias. Reconocer sus características nos ayuda a entenderlos mejor.*
----
 
 ## Question 1 [D1]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
+**ICFES:** Identifi. de contenidos locales
 **Context:** Nombre del personaje.
 
 ### Enunciado
-*"Tomás es un niño de 10 años que vive en Antioquia."* ¿Cómo se llama?
+*"Había una vez un perro llamado Max que vivía en Santa Marta."* ¿Cómo se llama el perro?
 
 ### Options
-- [ ] A) Pedro. <!-- feedback:  -->
-- [x] B) Tomás. <!-- feedback: Correcto. -->
-- [ ] C) Juan. <!-- feedback:  -->
-- [ ] D) Carlos. <!-- feedback:  -->
+- [ ] A) Rex.
+- [x] B) Max. <!-- feedback: Correcto. -->
+- [ ] C) Toby.
+- [ ] D) Luna.
 
 ### Explicación Pedagógica
-Identificar nombre del personaje.
+Identificar nombre.
 
 ---
+
 ## Question 2 [D1]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Identificación de contenidos locales
+**ICFES:** Identifi. de contenidos locales
 **Context:** Característica física.
 
 ### Enunciado
-*"La abuela Rosa tiene el pelo blanco y usa gafas."* ¿Qué característica física tiene?
+*"La abuela de Camilo tiene el cabello blanco y usa gafas."* ¿Cómo es el cabello de la abuela?
 
 ### Options
-- [ ] A) Es alta. <!-- feedback:  -->
-- [x] B) Pelo blanco. <!-- feedback: Correcto. -->
-- [ ] C) Es joven. <!-- feedback:  -->
-- [ ] D) Viste de azul. <!-- feedback:  -->
+- [ ] A) Negro.
+- [x] B) Blanco. <!-- feedback: Correcto. -->
+- [ ] C) Café.
+- [ ] D) Rojo.
 
 ### Explicación Pedagógica
-Identificar característica física explícita.
+Identificar característica física.
 
 ---
+
 ## Question 3 [D2]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Rol del personaje.
-
-### Enunciado
-*"Don José es el profesor de matemáticas."* ¿Qué rol cumple?
-
-### Options
-- [ ] A) Médico. <!-- feedback:  -->
-- [x] B) Profesor. <!-- feedback: Correcto. -->
-- [ ] C) Carpintero. <!-- feedback:  -->
-- [ ] D) Conductor. <!-- feedback:  -->
-
-### Explicación Pedagógica
-Identificar el rol.
-
----
-## Question 4 [D2]
-
-**ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v4`
-**Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Personalidad.
+**Context:** Personalidad del personaje.
 
 ### Enunciado
-*"Lucía siempre ayuda a sus compañeros y comparte su merienda."* ¿Cómo es?
+*"Sofía siempre compartía su almuerzo con los que no traían."* ¿Cómo es Sofía?
 
 ### Options
-- [ ] A) Egoísta. <!-- feedback:  -->
-- [x] B) Generosa y amable. <!-- feedback: Correcto. -->
-- [ ] C) Perezosa. <!-- feedback:  -->
-- [ ] D) Triste. <!-- feedback:  -->
+- [ ] A) Egoísta.
+- [x] B) Generosa. <!-- feedback: Correcto. Compartir es una acción generosa. -->
+- [ ] C) Triste.
+- [ ] D) Perezosa.
 
 ### Explicación Pedagógica
 Inferir personalidad por acciones.
 
 ---
+
+## Question 4 [D2]
+
+**ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v4`
+**Bloom:** Understand
+**ICFES:** Comprensión del sentido global
+**Context:** Profesión.
+
+### Enunciado
+*"Don Carlos arregla los dientes de las personas en su consultorio."* ¿Qué es Don Carlos?
+
+### Options
+- [ ] A) Médico general.
+- [x] B) Odontólogo. <!-- feedback: Correcto. -->
+- [ ] C) Veterinario.
+- [ ] D) Profesor.
+
+### Explicación Pedagógica
+Identificar oficio.
+
+---
+
 ## Question 5 [D2]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Comprensión del sentido global
-**Context:** Sentimientos.
+**Context:** Sentimiento.
 
 ### Enunciado
-*"Cuando Pedro vio su nota, saltó de alegría y abrazó a su mamá."* ¿Cómo se sintió?
+*"Cuando María vio su nota, saltó de alegría y abrazó a su mamá."* ¿Cómo se sintió María?
 
 ### Options
-- [ ] A) Enojado. <!-- feedback:  -->
-- [ ] B) Triste. <!-- feedback:  -->
+- [ ] A) Triste.
+- [ ] B) Enojada.
 - [x] C) Alegre. <!-- feedback: Correcto. -->
-- [ ] D) Asustado. <!-- feedback:  -->
+- [ ] D) Aburrida.
 
 ### Explicación Pedagógica
-Inferir emoción por reacción.
+Identificar emoción.
 
 ---
+
 ## Question 6 [D3]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Dimensión inferencial
-**Context:** Comparar personajes.
+**Context:** Describir personaje.
 
 ### Enunciado
-*"Ana es ordenada y estudiosa. David es desordenado pero creativo."* ¿Diferencia?
+*"Pedro es alto, delgado y siempre ayuda a los demás."* ¿Cuál de las siguientes NO es una característica de Pedro?
 
 ### Options
-- [ ] A) Ana es mayor. <!-- feedback:  -->
-- [x] B) Ana ordenada, David creativo. <!-- feedback: Correcto. -->
-- [ ] C) David estudia más. <!-- feedback:  -->
-- [ ] D) Ana es desordenada. <!-- feedback:  -->
+- [ ] A) Alto. <!-- feedback: Sí es característica. -->
+- [ ] B) Delgado. <!-- feedback: Sí es característica. -->
+- [x] C) Bajo. <!-- feedback: El texto dice que es alto. -->
+- [ ] D) Ayudador. <!-- feedback: Sí es característica. -->
 
 ### Explicación Pedagógica
-Comparar características.
+Clasificar características.
 
 ---
-## Question 7 [D2]
+
+## Question 7 [D3]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Identificación de contenidos locales
-**Context:** Edad del personaje.
+**Bloom:** Apply
+**ICFES:** Dimensión inferencial
+**Context:** Distinguir personaje principal.
 
 ### Enunciado
-*"Don Manuel, de 65 años, es el abuelo de María."* ¿Edad?
+*"Un niño llamado Tomás encontró un loro herido. El loro se llamaba Pepe. Tomás cuidó de Pepe hasta que sanó."* ¿Quién es el personaje principal?
 
 ### Options
-- [ ] A) 50. <!-- feedback:  -->
-- [x] B) 65. <!-- feedback: Correcto. -->
-- [ ] C) 70. <!-- feedback:  -->
-- [ ] D) 80. <!-- feedback:  -->
+- [ ] A) Pepe el loro. <!-- feedback: Es importante pero no principal. -->
+- [x] B) Tomás. <!-- feedback: Correcto. La historia gira en torno a él. -->
+- [ ] C) El veterinario. <!-- feedback: No aparece. -->
+- [ ] D) La mamá. <!-- feedback: No aparece. -->
 
 ### Explicación Pedagógica
-Identificar edad explícita.
+Identificar personaje principal.
 
 ---
+
 ## Question 8 [D4]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Dimensión inferencial
-**Context:** Propósito del personaje.
+**Context:** Comparar personajes.
 
 ### Enunciado
-*"Max es un perro que busca a su dueño."* ¿Cuál es su propósito?
+*"Ana es tranquila y ordenada. Luis es inquieto y desordenado."* ¿Qué tienen en común?
 
 ### Options
-- [ ] A) Jugar. <!-- feedback:  -->
-- [x] B) Encontrar a su dueño. <!-- feedback: Correcto. -->
-- [ ] C) Vivir en la calle. <!-- feedback:  -->
-- [ ] D) Ser adoptado. <!-- feedback:  -->
+- [ ] A) Son iguales.
+- [x] B) Ambos tienen una personalidad definida. <!-- feedback: Correcto. -->
+- [ ] C) Ambos son inquietos.
+- [ ] D) Ambos son ordenados.
 
 ### Explicación Pedagógica
-Inferir motivación.
+Identificar características compartidas.
 
 ---
+
 ## Question 9 [D4]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v9`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Evaluar descripción.
+**Context:** Evaluar coherencia del personaje.
 
 ### Enunciado
-*"Tatiana es una niña de Bucaramanga."* ¿Es suficiente para conocerla?
+*"El texto dice que el personaje es generoso, pero no comparte sus juguetes."* ¿Hay coherencia?
 
 ### Options
-- [ ] A) Sí. <!-- feedback:  -->
-- [x] B) No, falta cómo es física y emocionalmente. <!-- feedback: Correcto. -->
-- [ ] C) Sí, sabemos de dónde es. <!-- feedback:  -->
-- [ ] D) No, pero no importa. <!-- feedback:  -->
+- [ ] A) Sí, es normal.
+- [x] B) No, hay contradicción entre lo que dice y lo que hace. <!-- feedback: Correcto. -->
+- [ ] C) Da igual.
+- [ ] D) Solo a veces.
 
 ### Explicación Pedagógica
-Evaluar suficiencia de descripción.
+Evaluar coherencia de personaje.
 
 ---
+
 ## Question 10 [D4]
 
 **ID:** `CO-LEC-4-2026-W04-personajes-caracteristicas-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Reflexión sobre el contenido
-**Context:** Crear personaje.
+**Context:** Describir con adjetivos.
 
 ### Enunciado
-Para un cuento de aventura, ¿qué característica le darías al héroe?
+*"La mamá de Juan cocina rico y siempre recibe a los invitados con sonrisa."* ¿Cuál de estos adjetivos la describe mejor?
 
 ### Options
-- [ ] A) Tímido. <!-- feedback:  -->
-- [x] B) Audaz y decidido. <!-- feedback: Correcto. -->
-- [ ] C) Perezoso. <!-- feedback:  -->
-- [ ] D) Distraído. <!-- feedback:  -->
+- [ ] A) Antipática.
+- [x] B) Acogedora y amable. <!-- feedback: Correcto. -->
+- [ ] C) Perezosa.
+- [ ] D) Triste.
 
 ### Explicación Pedagógica
-Seleccionar características coherentes.
+Elegir adjetivos apropiados.
 
 ---
 
+
 ### Explicación Pedagógica Final
-Bundle sobre personajes y sus características. Contextos colombianos.
+Bundle de personajes y características. Contextos familiares colombianos.

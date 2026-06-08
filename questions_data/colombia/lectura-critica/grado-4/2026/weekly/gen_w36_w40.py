@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+"""Generate W36-W40 bundles for Lectura Critica G4 (final weeks)."""
+import sys
+sys.path.insert(0, r"E:\scripts-python\worldexams\questions_data\colombia\lectura-critica\grado-4\2026\weekly")
+from gen_all_v2 import make, opt
+
+make(36, "repaso-p7", "Repaso P7",
+"repaso: inferencias visuales, secuencias l\u00f3gicas, relaci\u00f3n texto-imagen", 0.70, [
+("U","G","Inferir imagen.","*\"Imagen: nubes grises, paraguas, charcos. \u00bfQu\u00e9 clima es?\"*",opt(("A","Soleado.",False),("B","Lluvioso.",True,"Correcto."),("C","Nevado.",False),("D","Caluroso.",False)),"Repaso inferir."),
+("R","L","Secuencia l\u00f3gica.","*\"\u00bfQu\u00e9 conector indica orden?\"*",opt(("A","porque.",False),("B","luego.",True,"Correcto."),("C","pero.",False),("D","aunque.",False)),"Repaso conector."),
+("U","G","Complemento texto-imagen.","*\"Texto: playa. Imagen: mar y arena. \u00bfRelaci\u00f3n?\"*",opt(("A","Contradicci\u00f3n.",False),("B","Complemento.",True,"Correcto."),("C","Ninguna.",False),("D","Confusi\u00f3n.",False)),"Repaso complemento."),
+("U","G","Orden l\u00f3gico.","*\"1. Sembrar. 2. Regar. 3. _________. 4. Cosechar.\"* \u00bfQu\u00e9 falta?",opt(("A","Dormir.",False),("B","Cuidar y esperar.",True,"Correcto."),("C","Coser.",False),("D","Correr.",False)),"Repaso completar."),
+("Ap","I","Inferir emoci\u00f3n.","*\"Imagen: persona con l\u00e1grimas y cabeza baja. \u00bfEmoci\u00f3n?\"*",opt(("A","Alegr\u00eda.",False),("B","Tristeza.",True,"Correcto."),("C","Enojo.",False),("D","Sorpresa.",False)),"Repaso emoci\u00f3n."),
+("An","I","Analizar.","*\"Texto: \u201810 estudiantes\u2019. Imagen: 5 estudiantes. \u00bfProblema?\"*",opt(("A","Ninguno.",False),("B","No coincide.",True,"Correcto."),("C","Es mejor.",False),("D","La imagen aclara.",False)),"Repaso analizar."),
+("An","R","Evaluar.","*\"\u00bfEs l\u00f3gico \u2018encender el horno y luego meter la comida antes de precalentar\u2019?\"*",opt(("A","S\u00ed.",False),("B","No, hay que precalentar antes.",True,"Correcto."),("C","Da igual.",False),("D","Solo si es r\u00e1pido.",False)),"Repaso evaluar."),
+("Ap","I","Reordenar.","*\"Desorden: leer, abrir libro, buscar p\u00e1gina. \u00bfOrden?\"*",opt(("A","Abrir, buscar, leer.",True,"Correcto."),("B","Leer, abrir, buscar.",False),("C","Buscar, leer, abrir.",False),("D","Buscar, abrir, leer.",False)),"Repaso reordenar."),
+("An","R","Importancia.","*\"\u00bfPor qu\u00e9 es importante que texto e imagen coincidan?\"*",opt(("A","No es importante.",False),("B","Para no confundir al lector.",True,"Correcto."),("C","Por est\u00e9tica.",False),("D","Para ocupar espacio.",False)),"Repaso importancia."),
+("Ap","I","Aplicar.","*\"Necesitas explicar c\u00f3mo hacer un avi\u00f3n de papel. \u00bfQu\u00e9 usas?\"*",opt(("A","Solo texto.",False),("B","Texto + im\u00e1genes/diagramas.",True,"Correcto."),("C","Solo im\u00e1genes.",False),("D","Solo gr\u00e1fica.",False)),"Repaso aplicar."),
+], "Bundle repaso P7.")
+
+make(37, "reflexion-lectura", "Preguntas de reflexi\u00f3n sobre la lectura",
+"reflexi\u00f3n, lectura cr\u00edtica, opini\u00f3n, juicio, valoraci\u00f3n", 0.72, [
+("R","L","Reflexionar.","*\"\u00bfQu\u00e9 significa reflexionar sobre un texto?\"*",opt(("A","Leer r\u00e1pido.",False),("B","Pensar y opinar sobre lo le\u00eddo.",True,"Correcto."),("C","Memorizar.",False),("D","Copiar.",False)),"Definir."),
+("U","G","Opini\u00f3n personal.","*\"Despu\u00e9s de leer un cuento, te preguntan \u00bfte gust\u00f3?. \u00bfQu\u00e9 das?\"*",opt(("A","Un hecho.",False),("B","Una opini\u00f3n personal.",True,"Correcto."),("C","Un dato.",False),("D","Una definici\u00f3n.",False)),"Opini\u00f3n."),
+("U","G","Relacionar.","*\"El cuento habla de compartir. \u00bfT\u00fa compartes en tu vida?\"* \u00bfTipo de pregunta?\"*",opt(("A","De reflexi\u00f3n personal.",True,"Correcto."),("B","De comprensi\u00f3n literal.",False),("C","De vocabulario.",False),("D","De gram\u00e1tica.",False)),"Reflexi\u00f3n."),
+("U","G","Aplicar a la vida.","*\"La f\u00e1bula ense\u00f1a a no mentir. \u00bfC\u00f3mo aplicas esto?\"* \u00bfQu\u00e9 tipo de pregunta?\"*",opt(("A","De memoria.",False),("B","De reflexi\u00f3n y aplicaci\u00f3n.",True,"Correcto."),("C","De verdadero/falso.",False),("D","De selecci\u00f3n.",False)),"Aplicar."),
+("U","G","Valorar.","*\"\u00bfCrees que el personaje actu\u00f3 correctamente? \u00bfPor qu\u00e9?\"* \u00bfQu\u00e9 se pide?\"*",opt(("A","Un resumen.",False),("B","Una valoraci\u00f3n personal.",True,"Correcto."),("C","Una lista.",False),("D","Un dibujo.",False)),"Valorar."),
+("Ap","I","Justificar.","*\"\u00bfPor qu\u00e9 crees que el personaje hizo lo correcto?\"* \u00bfQu\u00e9 debes hacer?\"*",opt(("A","Adivinar.",False),("B","Dar argumentos.",True,"Correcto."),("C","Copiar del texto.",False),("D","No responder.",False)),"Justificar."),
+("Ap","I","Conectar.","*\"\u00bfEn qu\u00e9 se parece esta historia a algo que te haya pasado?\"* \u00bfQu\u00e9 se pide?\"*",opt(("A","Desconectar.",False),("B","Conectar con experiencia personal.",True,"Correcto."),("C","Inventar.",False),("D","Memorizar.",False)),"Conectar."),
+("An","I","Analizar.","*\"\u00bfPor qu\u00e9 el autor eligi\u00f3 ese final? \u00bfQu\u00e9 otra opci\u00f3n habr\u00eda?\"* \u00bfTipo?\"*",opt(("A","Literal.",False),("B","Anal\u00edtica y reflexiva.",True,"Correcto."),("C","De vocabulario.",False),("D","De ortograf\u00eda.",False)),"Analizar."),
+("An","R","Evaluar.","*\"\u00bfRecomendar\u00edas este libro a un amigo? \u00bfPor qu\u00e9?\"* \u00bfQu\u00e9 se pide?\"*",opt(("A","Solo s\u00ed o no.",False),("B","Una opini\u00f3n razonada.",True,"Correcto."),("C","Una copia.",False),("D","Un resumen.",False)),"Recomendar."),
+("An","R","Meta-reflexi\u00f3n.","*\"\u00bfQu\u00e9 aprendiste con esta lectura? \u00bfCambi\u00f3 tu forma de pensar?\"* \u00bfTipo?\"*",opt(("A","Memor\u00edstica.",False),("B","Reflexiva y metacognitiva.",True,"Correcto."),("C","Literal.",False),("D","De datos.",False)),"Meta-reflexi\u00f3n."),
+], "Bundle reflexi\u00f3n lectura.")
+
+make(38, "resumir-informacion", "Resumir informaci\u00f3n de un texto",
+"resumen, s\u00edntesis, ideas principales, condensar informaci\u00f3n", 0.73, [
+("R","L","Resumen.","*\"\u00bfQu\u00e9 es un resumen?\"*",opt(("A","Copiar todo el texto.",False),("B","Decir lo m\u00e1s importante en pocas palabras.",True,"Correcto."),("C","A\u00f1adir informaci\u00f3n nueva.",False),("D","Opinar sobre el texto.",False)),"Definir resumen."),
+("R","L","Idea principal.","*\"\u00bfQu\u00e9 se debe incluir en un resumen?\"*",opt(("A","Detalles sin importancia.",False),("B","Solo la idea principal.",True,"Correcto."),("C","Todo el texto.",False),("D","Opiniones personales.",False)),"Qu\u00e9 incluir."),
+("U","G","Resumir texto corto.","*\"El caf\u00e9 colombiano es famoso. Se cultiva en monta\u00f1as. Es suave y arom\u00e1tico.\"* \u00bfResumen?\"*",opt(("A","El caf\u00e9 es una bebida.",False),("B","El caf\u00e9 colombiano es famoso, de monta\u00f1a, suave.",True,"Correcto."),("C","Me gusta el caf\u00e9.",False),("D","Colombia tiene monta\u00f1as.",False)),"Resumir."),
+("U","G","No incluir.","*\"\u00bfQu\u00e9 NO debe ir en un resumen?\"*",opt(("A","Ideas principales.",False,"S\u00ed debe ir."),("B","Opiniones personales.",True,"Correcto."),("C","Datos importantes.",False,"S\u00ed debe ir."),("D","Informaci\u00f3n clave.",False,"S\u00ed debe ir.")),"Qu\u00e9 excluir."),
+("U","G","Extensi\u00f3n.","*\"\u00bfUn resumen debe ser m\u00e1s corto o m\u00e1s largo que el original?\"*",opt(("A","M\u00e1s largo.",False),("B","M\u00e1s corto.",True,"Correcto."),("C","Igual.",False),("D","No importa.",False)),"Extensi\u00f3n."),
+("Ap","I","Resumir p\u00e1rrafo.","*\"Los delfines son mam\u00edferos marinos. Respiran aire. Viven en grupos. Son inteligentes.\"* \u00bfResumen?\"*",opt(("A","Los delfines nadan.",False),("B","Delfines: mam\u00edferos marinos, inteligentes, viven en grupo.",True,"Correcto."),("C","Hay delfines en el mar.",False),("D","Los delfines son peces.",False)),"Resumir p\u00e1rrafo."),
+("Ap","I","Seleccionar.","*\"Texto de 5 ideas. \u00bfCu\u00e1ntas incluyes en el resumen?\"*",opt(("A","Las 5 igual.",False),("B","Solo las m\u00e1s importantes.",True,"Correcto."),("C","Ninguna.",False),("D","Solo 1.",False)),"Seleccionar."),
+("An","I","Evaluar resumen.","*\"Resumen: \u2018Hab\u00eda una vez un perro\u2019 para un texto de 3 p\u00e1ginas. \u00bfEs bueno?\"*",opt(("A","S\u00ed, corto.",False),("B","No, es demasiado corto, faltan ideas.",True,"Correcto."),("C","Excelente.",False),("D","No, muy largo.",False)),"Evaluar."),
+("An","R","Comparar.","*\"\u00bfDiferencia entre resumen y opini\u00f3n?\"*",opt(("A","Son iguales.",False),("B","Resumen expone ideas del texto; opini\u00f3n es personal.",True,"Correcto."),("C","Ambos son personales.",False),("D","Resumen es m\u00e1s largo.",False)),"Diferenciar."),
+("An","R","Practicar.","*\"Resume: \u2018El sol es una estrella. Da luz y calor. Sin \u00e9l no hay vida\u2019.\"*",opt(("A","El sol es amarillo.",False),("B","El sol es una estrella que da luz, calor y permite la vida.",True,"Correcto."),("C","El sol sale todos los d\u00edas.",False),("D","Me gusta el sol.",False)),"Practicar."),
+], "Bundle resumir.")
+
+make(39, "vocabulario-academico-basico", "Vocabulario acad\u00e9mico b\u00e1sico",
+"vocabulario acad\u00e9mico, palabras formales, definiciones, uso en contexto", 0.75, [
+("R","L","Definir.","*\"\u00bfQu\u00e9 significa \u2018investigar\u2019?\"*",opt(("A","Jugar.",False),("B","Buscar informaci\u00f3n para aprender.",True,"Correcto."),("C","Dormir.",False),("D","Cantar.",False)),"Definir investigar."),
+("R","L","Sin\u00f3nimo acad\u00e9mico.","*\"\u2018Analizar\u2019 significa casi lo mismo que...\"*",opt(("A","Ignorar.",False),("B","Estudiar detenidamente.",True,"Correcto."),("C","Saltar.",False),("D","Olvidar.",False)),"Analizar."),
+("U","G","Contexto.","*\"El cient\u00edfico va a \u2018experimentar\u2019. \u00bfQu\u00e9 har\u00e1?\"*",opt(("A","Cantar.",False),("B","Hacer pruebas y observar.",True,"Correcto."),("C","Dormir.",False),("D","Correr.",False)),"Experimentar."),
+("U","G","Comparar.","*\"\u2018Conclusi\u00f3n\u2019 es lo que se...\"*",opt(("A","Olvida.",False),("B","Decide o deduce al final.",True,"Correcto."),("C","Come.",False),("D","Compra.",False)),"Conclusi\u00f3n."),
+("U","G","Opuesto acad\u00e9mico.","*\"Lo opuesto de \u2018v\u00e1lido\u2019 es...\"*",opt(("A","Correcto.",False),("B","Inv\u00e1lido.",True,"Correcto."),("C","Bueno.",False),("D","Cierto.",False)),"V\u00e1lido."),
+("Ap","I","Usar palabra.","*\"\u00bfEn qu\u00e9 frase se usa bien \u2018hip\u00f3tesis\u2019?\"*",opt(("A","La hip\u00f3tesis es mi comida favorita.",False),("B","Mi hip\u00f3tesis es que las plantas crecen m\u00e1s con sol.",True,"Correcto."),("C","La hip\u00f3tesis me duele.",False),("D","Compr\u00e9 una hip\u00f3tesis.",False)),"Usar."),
+("Ap","I","Definir con ejemplos.","*\"\u2018Clasificar\u2019 significa...\"*",opt(("A","Botar cosas.",False),("B","Organizar en grupos seg\u00fan caracter\u00edsticas.",True,"Correcto."),("C","Pintar.",False),("D","Cantar.",False)),"Clasificar."),
+("An","I","Relacionar.","*\"\u00bfQu\u00e9 relaci\u00f3n hay entre \u2018observar\u2019 y \u2018concluir\u2019?\"*",opt(("A","Ninguna.",False),("B","Primero observas, luego concluyes.",True,"Correcto."),("C","Son sin\u00f3nimos.",False),("D","Primero concluyes.",False)),"Relacionar."),
+("An","R","Evaluar uso.","*\"\u2018El an\u00e1lisis de datos es importante.\u2019 \u00bfQu\u00e9 significa esto?\"*",opt(("A","No es importante.",False),("B","Estudiar los datos para entenderlos.",True,"Correcto."),("C","Botar los datos.",False),("D","Ignorarlos.",False)),"Evaluar."),
+("An","R","Aplicar.","*\"\u00bfCu\u00e1l de estas es una \u2018conclusi\u00f3n\u2019?\"*",opt(("A","El agua hierve a 100\u00b0C.",False,"Eso es un hecho."),("B","Por lo tanto, el experimento muestra que la planta necesita sol.",True,"Correcto."),("C","\u00a1Hola!",False),("D","Me gusta el caf\u00e9.",False)),"Aplicar."),
+], "Bundle vocabulario acad\u00e9mico.")
+
+make(40, "repaso-integral-anual", "Repaso integral anual",
+"repaso anual, integraci\u00f3n, todas las habilidades lectoras", 0.68, [
+("U","G","Idea principal.","*\"Colombia es un pa\u00eds megadiverso con muchos ecosistemas.\"* \u00bfIdea principal?\"*",opt(("A","Colombia tiene monta\u00f1as.",False),("B","Colombia es muy diversa en ecosistemas.",True,"Correcto."),("C","Colombia es peque\u00f1o.",False),("D","No hay diversidad.",False)),"Repaso integral."),
+("R","L","Detalle.","*\"El c\u00f3ndor puede vivir hasta 70 a\u00f1os.\"* \u00bfCu\u00e1nto vive?\"*",opt(("A","50 a\u00f1os.",False),("B","70 a\u00f1os.",True,"Correcto."),("C","100 a\u00f1os.",False),("D","20 a\u00f1os.",False)),"Detalle."),
+("U","G","Causa-efecto.","*\"Los \u00e1rboles purifican el aire. Si talamos muchos, el aire se contamina.\"* \u00bfRelaci\u00f3n?\"*",opt(("A","No hay relaci\u00f3n.",False),("B","Talar \u00e1rboles contamina el aire.",True,"Correcto."),("C","Talamos para respirar.",False),("D","Los \u00e1rboles contaminan.",False)),"Causa-efecto."),
+("U","G","Prop\u00f3sito.","*\"Un anuncio para cuidar el agua. \u00bfProp\u00f3sito?\"*",opt(("A","Vender agua.",False),("B","Persuadir a cuidar el agua.",True,"Correcto."),("C","Entretener.",False),("D","Describir.",False)),"Prop\u00f3sito."),
+("U","G","Tipo texto.","*\"Pasos para armar un juguete. \u00bfTipo de texto?\"*",opt(("A","Narrativo.",False),("B","Instructivo.",True,"Correcto."),("C","Po\u00e9tico.",False),("D","Noticia.",False)),"Tipo."),
+("Ap","I","Inferir.","*\"Todos los estudiantes tienen botas puestas. \u00bfQu\u00e9 se puede inferir?\"*",opt(("A","Hace sol.",False),("B","Est\u00e1 lloviendo o hay lodo.",True,"Correcto."),("C","Es navidad.",False),("D","Est\u00e1n en la playa.",False)),"Inferir."),
+("An","I","Comparar.","*\"\u00bfDiferencia entre poema y noticia?\"*",opt(("A","Ambos informan.",False),("B","Poema expresa sentimientos, noticia informa hechos.",True,"Correcto."),("C","Ambos riman.",False),("D","Noticia es ficci\u00f3n.",False)),"Comparar."),
+("An","R","Evaluar.","*\"\u00bfQu\u00e9 aprendiste este a\u00f1o en Lectura Cr\u00edtica?\"*",opt(("A","Nada.",False),("B","A comprender, inferir, comparar, resumir y reflexionar.",True,"Correcto."),("C","Solo a leer r\u00e1pido.",False),("D","Solo ortograf\u00eda.",False)),"Evaluar anual."),
+("Ap","I","Aplicar todo.","*\"Te dan un texto sobre animales. \u00bfQu\u00e9 puedes hacer?\"*",opt(("A","Solo leer.",False),("B","Identificar idea, detalles, inferir, opinar.",True,"Correcto."),("C","Solo copiar.",False),("D","Solo colorear.",False)),"Aplicar habilidades."),
+("An","R","Reflexi\u00f3n final.","*\"\u00bfPor qu\u00e9 es importante leer cr\u00edticamente?\"*",opt(("A","No es importante.",False),("B","Para entender mejor, formar opini\u00f3n y no ser enga\u00f1ado.",True,"Correcto."),("C","Solo para la escuela.",False),("D","Para tener buena nota.",False)),"Reflexi\u00f3n final."),
+], "Bundle repaso integral anual.")
