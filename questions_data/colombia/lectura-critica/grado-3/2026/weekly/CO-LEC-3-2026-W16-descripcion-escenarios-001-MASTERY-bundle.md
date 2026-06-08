@@ -7,13 +7,13 @@ tema: "descripcion-escenarios"
 periodo: "2026-W16"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 16
 ---
 
 # Bundle Mastery: Descripción de Escenarios
 
-Este bundle enseña a los estudiantes a identificar y comprender descripciones de escenarios y ambientes en textos literarios. Los niños aprenderán a visualizar los lugares donde ocurren las historias y a entender cómo el escenario influye en lo que sucede. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de visualizar y comprender entornos físicos a partir de descripciones literarias o informativas, identificando elementos geográficos, climáticos y de ambiente.
 
 ---
 
@@ -24,46 +24,43 @@ Este bundle enseña a los estudiantes a identificar y comprender descripciones d
 **Expected_Success:** 0.90
 
 ### Contexto
-**Texto: La plaza de mi pueblo**
-
-La plaza principal del pueblo es grande y colorida. En el centro hay una fuente de piedra donde siempre hay agua cristalina. Alrededor de la fuente hay bancas de madera pintadas de verde. En las esquinas de la plaza hay árboles de mango muy altos que dan sombra. Los domingos, la plaza se llena de puestos de frutas y artesanías.
+**El Valle de Cocora**
+"Es un lugar verde rodeado de montañas altísimas. En el fondo del valle se ven las Palmas de Cera, que parecen tocar las nubes. El aire es frío y a veces la neblina cubre todo el paisaje".
 
 ### Enunciado
-¿Qué hay en el centro de la plaza?
+¿Qué elemento del paisaje parece "tocar las nubes" según el texto?
 
 ### Options
-- [ ] A) Una iglesia <!-- feedback: Incorrecto. -->
-- [ ] B) Un parque infantil <!-- feedback: Incorrecto. -->
-- [x] C) Una fuente de piedra <!-- feedback: ¡Correcto! El texto dice que en el centro hay una fuente de piedra. -->
-- [ ] D) Una tienda <!-- feedback: Incorrecto. -->
+- [ ] A) Las montañas. <!-- feedback: Incorrecto. Aunque las montañas son altas, el texto usa esa comparación específicamente para las Palmas de Cera. -->
+- [x] B) Las Palmas de Cera. <!-- feedback: ¡Correcto! El texto menciona que estas palmas son tan altas que dan esa impresión visual. -->
+- [ ] C) La neblina. <!-- feedback: Incorrecto. La neblina cubre el paisaje, no toca las nubes (pues ella misma es como una nube baja). -->
+- [ ] D) El aire frío. <!-- feedback: Incorrecto. El aire es algo que se siente, no algo que se ve tocando las nubes. -->
 
 ### Explicación Pedagógica
-Recordar los elementos que componen un escenario es el primer paso para entender el lugar donde transcurre una historia.
+Identificar referentes específicos en una descripción de paisaje ayuda a fijar la atención en los detalles. Reconocer qué objeto cumple con una característica dada es una habilidad de recuperación de información.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-v2`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**Texto: La casa de la montaña**
-
-En lo alto de una montaña en la Cordillera Occidental, cerca del municipio de Jardín en Antioquia, hay una casa de madera pintada de azul. Tiene un techo de tejas rojas y un jardín lleno de flores silvestres. Al frente hay un sendero de piedras que baja hasta el río. Desde la terraza se ven montañas verdes hasta donde alcanza la vista.
+"La cueva estaba completamente a oscuras. Se escuchaba el goteo constante del agua cayendo desde el techo sobre el suelo de piedra, y un olor a tierra húmeda llenaba todo el espacio".
 
 ### Enunciado
-¿De qué color está pintada la casa?
+¿Cuáles son los dos sentidos que más se usan para describir la cueva en este texto?
 
 ### Options
-- [ ] A) Verde <!-- feedback: Incorrecto. -->
-- [ ] B) Roja <!-- feedback: Incorrecto. -->
-- [x] C) Azul <!-- feedback: ¡Correcto! El texto dice que la casa de madera está pintada de azul. -->
-- [ ] D) Blanca <!-- feedback: Incorrecto. -->
+- [ ] A) La vista y el gusto. <!-- feedback: Incorrecto. La cueva está oscura (no se ve) y no se menciona el sabor de nada. -->
+- [ ] B) El tacto y la vista. <!-- feedback: Incorrecto. La vista no es protagonista por la oscuridad. -->
+- [x] C) El oído y el olfato. <!-- feedback: ¡Correcto! El texto menciona un sonido (goteo) y un olor (tierra húmeda). -->
+- [ ] D) Solo el sentido de la vista. <!-- feedback: Incorrecto. Al estar a oscuras, los otros sentidos toman el control de la descripción. -->
 
 ### Explicación Pedagógica
-Identificar colores y características físicas de los escenarios ayuda a los niños a construir imágenes mentales de los lugares que describe el texto.
+Las descripciones no son solo visuales. Comprender que los autores usan sonidos y olores para crear un ambiente completo desarrolla la percepción sensorial a través de la lectura.
 
 ---
 
@@ -74,125 +71,113 @@ Identificar colores y características físicas de los escenarios ayuda a los ni
 **Expected_Success:** 0.80
 
 ### Contexto
-**Texto: El mercado de Sincelejo**
-
-El mercado de Sincelejo es un lugar bullicioso y lleno de vida. Desde muy temprano se escuchan los gritos de los vendedores: "¡Queso costeño! ¡Mazorca asada!" El olor a queso frito, a frutas maduras y a café recién colado se mezcla en el aire. Las mujeres llevan coloridas faldas largas y sombreros anchos. Los niños corren entre los puestos cargando bolsas de mercado.
+**La Plaza de Bolívar en Bogotá**
+"Es un espacio inmenso de piedra, rodeado de edificios antiguos con grandes puertas de madera. En el centro, cientos de palomas vuelan de un lado a otro esperando que alguien les lance granos de maíz".
 
 ### Enunciado
-¿Qué se siente al estar en el mercado de Sincelejo según la descripción?
+¿Qué tipo de ambiente se describe en este texto?
 
 ### Options
-- [ ] A) Un lugar tranquilo y silencioso <!-- feedback: Incorrecto. -->
-- [ ] B) Un lugar vacío y solitario <!-- feedback: Incorrecto. -->
-- [x] C) Un lugar bullicioso, lleno de vida, olores y colores <!-- feedback: ¡Correcto! La descripción habla de gritos, olores de comida, colores de faldas y niños corriendo. -->
-- [ ] D) Un lugar triste y aburrido <!-- feedback: Incorrecto. -->
+- [ ] A) Un ambiente de selva natural. <!-- feedback: Incorrecto. El texto habla de piedra, edificios y plazas urbanas. -->
+- [x] B) Un ambiente de ciudad histórica. <!-- feedback: ¡Correcto! La mención de edificios antiguos y la plaza central de piedra es típica de un centro histórico. -->
+- [ ] C) Una playa tranquila del Caribe. <!-- feedback: Incorrecto. No se menciona el mar ni la arena. -->
+- [ ] D) Un salón de clases moderno. <!-- feedback: Incorrecto. El espacio descrito es exterior e inmenso. -->
 
 ### Explicación Pedagógica
-Los escenarios se describen con palabras que evocan sensaciones: lo que se ve, se oye y se huele. Unir estas sensaciones nos da una idea completa de cómo es el lugar.
+Clasificar el tipo de escenario (urbano, rural, histórico, natural) a partir de sus elementos constitutivos demuestra una comprensión global del entorno descrito.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Texto: El río en temporada de lluvias**
-
-El río Guatapurí, que atraviesa Valledupar, cambia según la temporada. En enero, cuando hace calor, el río baja con poca agua y las piedras se ven grandes y blancas. Se puede cruzar caminando sin problema. Pero en junio, cuando empiezan las lluvias, el río crece. El agua se vuelve marrón y corre con fuerza. Ya no se puede cruzar porque la corriente es peligrosa.
+"El desierto de la Tatacoa tiene una tierra de color ocre y gris. No hay casi árboles, solo cactus que crecen entre las rocas. El sol brilla con mucha fuerza y el calor se siente en cada paso".
 
 ### Enunciado
-¿Cómo cambia el río Guatapurí entre enero y junio?
+Si tuvieras que añadir un objeto a este escenario, ¿cuál de estos **no encajaría** de forma natural?
 
 ### Options
-- [ ] A) Se seca completamente <!-- feedback: Incorrecto. -->
-- [ ] B) Se congela <!-- feedback: Incorrecto. -->
-- [x] C) Pasa de ser un río bajito y tranquilo a uno crecido y caudaloso <!-- feedback: ¡Correcto! En enero tiene poca agua y se puede cruzar; en junio crece, el agua se vuelve marrón y la corriente es peligrosa. -->
-- [ ] D) Se vuelve azul y cristalino <!-- feedback: Incorrecto. -->
+- [ ] A) Una gorra para el sol. <!-- feedback: Incorrecto. Una gorra es muy útil en un desierto caluroso. -->
+- [ ] B) Una botella de agua fría. <!-- feedback: Incorrecto. El agua es necesaria en un lugar donde hace tanto calor. -->
+- [x] C) Un paraguas para protegerse de la lluvia fuerte. <!-- feedback: ¡Correcto! El texto describe un desierto donde el sol brilla con fuerza, por lo que la lluvia no es común. -->
+- [ ] D) Unas gafas oscuras. <!-- feedback: Incorrecto. Son ideales para protegerse del brillo fuerte del sol mencionado. -->
 
 ### Explicación Pedagógica
-Entender cómo cambia un escenario a lo largo del tiempo nos ayuda a comprender las historias que allí ocurren. Los cambios en la naturaleza afectan lo que los personajes pueden o no hacer.
+Aplicar el conocimiento del ambiente para juzgar qué elementos son coherentes con él desarrolla la lógica ambiental. El estudiante debe entender que un desierto se caracteriza por la falta de lluvia.
 
 ---
 
 ## Question 5 [D3-D4]
 **ID:** `CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Inferencial
+**ICFES:** Semántico
 **Expected_Success:** 0.70
 
 ### Contexto
-**Texto: La biblioteca del colegio**
-
-La biblioteca del colegio Rafael Uribe Uribe queda en el segundo piso. Es un salón grande con ventanales que dejan entrar mucha luz natural. Las paredes están llenas de estantes de madera con libros de todos los colores. Hay alfombras en el piso y cojines grandes donde los niños se sientan a leer. Siempre hay un silencio suave, solo se escucha el pasar de las hojas y, a veces, la risa baja de algún niño que encontró un cuento gracioso.
+**En la Selva Amazónica**
+"Caminábamos por un sendero estrecho donde las hojas gigantes de los árboles no dejaban pasar la luz. El suelo estaba cubierto de raíces entrelazadas y se escuchaba el rugido de los monos aulladores en la distancia".
 
 ### Enunciado
-¿Qué tipo de ambiente tiene la biblioteca?
+¿Cuál es la razón por la que en este escenario la luz del sol es escasa?
 
 ### Options
-- [ ] A) Un ambiente oscuro y aburrido <!-- feedback: Incorrecto. -->
-- [ ] B) Un ambiente ruidoso y desordenado <!-- feedback: Incorrecto. -->
-- [x] C) Un ambiente tranquilo, iluminado y acogedor para la lectura <!-- feedback: ¡Correcto! Hay luz natural, alfombras, cojines, silencio suave y risas bajas. Es un lugar agradable para leer. -->
-- [ ] D) Un ambiente frío y vacío <!-- feedback: Incorrecto. -->
+- [ ] A) Porque ya era de noche. <!-- feedback: Incorrecto. El texto no dice que sea de noche, sino que la luz no pasa por una razón física. -->
+- [ ] B) Porque estaba lloviendo muy fuerte. <!-- feedback: Incorrecto. No se menciona lluvia, aunque la selva sea húmeda. -->
+- [x] C) Debido al tamaño de las hojas y la densidad de los árboles. <!-- feedback: ¡Correcto! El texto dice que "las hojas gigantes... no dejaban pasar la luz". -->
+- [ ] D) Porque los monos se robaron la luz. <!-- feedback: Incorrecto. Esta es una idea fantasiosa que no tiene base en el texto descriptivo. -->
 
 ### Explicación Pedagógica
-El ambiente de un escenario se construye con muchos detalles. No solo importa cómo se ve, sino cómo se siente estar allí. Esto nos ayuda a entender por qué los personajes se sienten de cierta manera en ese lugar.
+Identificar relaciones de causalidad dentro de una descripción física ayuda a comprender el funcionamiento de los ecosistemas o entornos. La densidad del follaje es la causa de la oscuridad relativa.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Texto: Saliendo de la cueva**
-
-Sofía y su papá entraron a la cueva de los Guácharos, en el departamento del Huila. Adentro estaba muy oscuro y se escuchaba el goteo constante del agua. El piso era resbaloso y el aire se sentía frío y húmedo. De las paredes colgaban estalactitas que parecían dientes gigantes. Más adentro empezaron a escuchar un ruido extraño: el aleteo de miles de guácharos. Después de caminar un rato, vieron una luz al final: era la salida. Al salir, el sol los cegó por un momento y sintieron el calor en la piel.
+"El puerto pesquero era un caos de colores y sonidos. Se mezclaba el olor a pescado fresco con el de la sal del mar. Los pescadores gritaban los precios de su mercancía mientras las gaviotas volaban en círculos buscando sobras".
 
 ### Enunciado
-¿Qué cambio sintieron Sofía y su papá al salir de la cueva?
+¿Qué palabra describe mejor el **ambiente** que se vive en el puerto según el texto?
 
 ### Options
-- [ ] A) Sintieron más frío y oscuridad <!-- feedback: Incorrecto. -->
-- [ ] B) Sintieron hambre y sueño <!-- feedback: Incorrecto. -->
-- [x] C) Sintieron calor y luz después del frío y la oscuridad de la cueva <!-- feedback: ¡Correcto! Adentro hacía frío y estaba oscuro; afuera el sol los cegó y sintieron calor. -->
-- [ ] D) Sintieron miedo porque no conocían el lugar <!-- feedback: Incorrecto. -->
+- [ ] A) Silencioso. <!-- feedback: Incorrecto. El texto dice que los pescadores gritaban y había caos de sonidos. -->
+- [ ] B) Triste. <!-- feedback: Incorrecto. Aunque hay caos, se describe una actividad comercial viva, no tristeza. -->
+- [x] C) Animado o bullicioso. <!-- feedback: ¡Correcto! La mezcla de gritos, gaviotas y actividad indica un lugar con mucho movimiento y ruido. -->
+- [ ] D) Desierto. <!-- feedback: Incorrecto. Un lugar con pescadores y compradores no está desierto. -->
 
 ### Explicación Pedagógica
-Los contrastes entre escenarios ayudan a entender cómo se sienten los personajes. El cambio abrupto de un lugar oscuro y frío a uno brillante y cálido nos hace experimentar junto con los personajes.
+Extraer el tono o la atmósfera de un escenario a partir de las acciones descritas es una habilidad de inferencia básica. "Bullicioso" es el adjetivo que resume el ruido y el movimiento del puerto.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W16-descripcion-escenarios-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Crítico
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Texto: Dos parques, dos ambientes**
-
-**Parque del barrio El Poblado:**
-El parque de El Poblado en Medellín es moderno y ordenado. Tiene bancas de metal, senderos de cemento y jardines geométricos. La gente camina rápido, con audífonos, mirando sus teléfonos. Hay una fuente que cambia de color con luces LED.
-
-**Parque del barrio La Candelaria:**
-El parque de La Candelaria es antiguo y desordenado. Las bancas son de madera y están gastadas por el uso. Los árboles son viejos y enormes. La gente se sienta a conversar, los niños juegan fútbol en medio de la plazoleta y un señor vende mango biche con sal y limón.
+"La habitación de los abuelos era un viaje al pasado. Las paredes estaban llenas de fotografías en blanco y negro, y en una esquina reposaba un viejo tocadiscos que aún funcionaba".
 
 ### Enunciado
-¿Cuál es la principal diferencia entre los dos parques?
+¿Por qué el autor dice que la habitación era un "**viaje al pasado**"?
 
 ### Options
-- [ ] A) Uno es más grande que el otro <!-- feedback: Incorrecto. No se compara el tamaño. -->
-- [ ] B) Uno tiene fuente y el otro no <!-- feedback: Incorrecto. No es la principal diferencia. -->
-- [x] C) El parque de El Poblado es moderno y la gente va sola y rápida; el de La Candelaria es antiguo y la gente se reúne y conversa <!-- feedback: ¡Correcto! En El Poblado la gente va rápido y aislada, en La Candelaria hay más comunidad y encuentro. -->
-- [ ] D) Uno es de Medellín y el otro no <!-- feedback: Incorrecto. Ambos son de Medellín. -->
+- [ ] A) Porque los abuelos eran muy viajeros y tenían mapas. <!-- feedback: Incorrecto. El texto no menciona viajes físicos ni mapas. -->
+- [x] B) Porque los objetos que hay en ella (fotos antiguas, tocadiscos) son de épocas anteriores. <!-- feedback: ¡Correcto! El uso de objetos antiguos crea la sensación de estar en otro tiempo histórico. -->
+- [ ] C) Porque la habitación tenía una máquina del tiempo real. <!-- feedback: Incorrecto. Es una descripción realista, no de ciencia ficción. -->
+- [ ] D) Porque en la habitación no había luz eléctrica. <!-- feedback: Incorrecto. Se puede viajar al pasado a través de los recuerdos sin necesidad de quitar la luz. -->
 
 ### Explicación Pedagógica
-Comparar dos escenarios nos permite entender que los lugares no solo se diferencian por su apariencia física, sino también por la forma en que la gente los usa y se comporta en ellos. Esto nos dice mucho sobre la cultura de cada barrio.
+Interpretar metáforas sencillas en descripciones de ambientes desarrolla el pensamiento simbólico. El estudiante debe conectar el significado de "pasado" con los objetos descritos (fotos antiguas, tocadiscos).
 
 ---
 
@@ -203,22 +188,16 @@ Comparar dos escenarios nos permite entender que los lugares no solo se diferenc
 **Expected_Success:** 0.50
 
 ### Contexto
-**Texto: El lugar favorito de Camila**
-
-Camila tiene 9 años y vive en un apartamento pequeño en Bogotá. Su lugar favorito de toda la casa es la ventana de su cuarto. Desde allí ve los techos de las casas vecinas, las montañas a lo lejos y, cuando el cielo está despejado, hasta el nevado del Ruiz. En las tardes, el sol se pone detrás de las montañas y el cielo se vuelve naranja y morado. A veces ve palomas volando y escucha el sonido de los buses.
-
-Un día, su amiga Laura la invitó a su casa, que queda en el campo, en Cundinamarca. Allí no hay edificios, solo árboles y cultivos. No se escuchan buses, solo pájaros y el viento. Laura tiene un jardín enorme con flores y un columpio en un árbol de guayaba.
-
-Cuando Camila volvió a su casa, su mamá le preguntó: "¿Dónde prefieres vivir, hija?". Camila pensó un rato y respondió: "Me gusta más el campo para visitar, pero mi ventana es mi lugar favorito en el mundo".
+Imagina un cuento que ocurre en un **parque de diversiones abandonado**, donde los juegos están oxidados y el viento hace rechinar las cadenas de los columpios.
 
 ### Enunciado
-¿Por qué Camila dice que su ventana es su lugar favorito aunque el campo sea bonito?
+Si fueras el autor, ¿para qué tipo de historia usarías este escenario?
 
 ### Options
-- [ ] A) Porque no le gusta el campo <!-- feedback: Incorrecto. Le gusta para visitar. -->
-- [ ] B) Porque en el campo hay mucho ruido <!-- feedback: Incorrecto. El campo es tranquilo. -->
-- [x] C) Porque su ventana es especial para ella, desde allí siente conexión con su hogar y disfruta de la vista y los sonidos que conoce <!-- feedback: ¡Correcto! Los lugares favoritos no siempre son los más bonitos, sino los que tienen significado personal y nos hacen sentir en casa. -->
-- [ ] D) Porque su cuarto es más grande que el de Laura <!-- feedback: Incorrecto. No se menciona el tamaño. -->
+- [ ] A) Para una historia de risa y chistes de payasos. <!-- feedback: Incorrecto. Un lugar abandonado y oxidado no sugiere alegría. -->
+- [x] B) Para una historia de misterio o de suspenso. <!-- feedback: ¡Correcto! Los lugares abandonados y los sonidos chirriantes son ideales para crear una atmósfera de miedo o intriga. -->
+- [ ] C) Para una historia sobre cómo construir parques nuevos. <!-- feedback: Incorrecto. El enfoque está en lo viejo y abandonado, no en la construcción. -->
+- [ ] D) Para un reportaje sobre las mejores vacaciones del mundo. <!-- feedback: Incorrecto. Un parque abandonado no es el lugar ideal para promocionar vacaciones. -->
 
 ### Explicación Pedagógica
-Evaluar la importancia de un escenario va más allá de lo físico. Los lugares adquieren valor por las experiencias y emociones que asociamos con ellos. Camila valora su ventana porque es parte de su hogar y su vida diaria.
+Evaluar la relación entre el escenario y el género narrativo es una competencia literaria avanzada. El estudiante debe reconocer que el ambiente físico condiciona el tipo de emociones que se pueden narrar.

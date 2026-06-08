@@ -7,13 +7,13 @@ tema: "idea-principal"
 periodo: "2026-W18"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 18
 ---
 
 # Bundle Mastery: Idea Principal
 
-Este bundle enseña a los estudiantes a identificar la idea principal de textos cortos, es decir, la información más importante que el autor quiere comunicar. Los niños aprenderán a distinguir entre detalles secundarios y lo esencial de cada texto. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de identificar el tema central y la idea más importante de un párrafo o texto corto, diferenciándola de los detalles secundarios o ejemplos.
 
 ---
 
@@ -24,46 +24,42 @@ Este bundle enseña a los estudiantes a identificar la idea principal de textos 
 **Expected_Success:** 0.90
 
 ### Contexto
-**Texto: El delfín rosado**
-
-El delfín rosado vive en los ríos de la Amazonía colombiana. Es de color gris cuando es bebé y se vuelve rosado cuando crece. Puede medir hasta 2.5 metros. Se alimenta de peces y cangrejos. Es un animal muy inteligente y juguetón. Los científicos dicen que es el delfín de río más grande del mundo.
+"Los delfines son mamíferos marinos muy inteligentes. Se comunican entre ellos mediante sonidos y saltos, viven en grupos llamados manadas y son conocidos por ayudar a otros animales y a seres humanos en peligro".
 
 ### Enunciado
-¿Cuál es el tema principal de este texto?
+¿De qué trata principalmente el texto anterior?
 
 ### Options
-- [ ] A) Los peces de la Amazonía <!-- feedback: Incorrecto. El texto habla de delfines, no de peces. -->
-- [x] B) El delfín rosado y sus características <!-- feedback: ¡Correcto! Todo el texto describe al delfín rosado: su color, tamaño, alimentación y comportamiento. -->
-- [ ] C) Los ríos de Colombia <!-- feedback: Incorrecto. Solo se menciona dónde vive el delfín. -->
-- [ ] D) Los animales inteligentes <!-- feedback: Incorrecto. Aunque el delfín es inteligente, no es el tema principal. -->
+- [ ] A) De cómo nadan los peces en el mar. <!-- feedback: Incorrecto. El texto se enfoca específicamente en los delfines, que son mamíferos. -->
+- [x] B) De las características y la inteligencia de los delfines. <!-- feedback: ¡Correcto! Todo el párrafo describe rasgos que definen a los delfines. -->
+- [ ] C) De los peligros del océano para los humanos. <!-- feedback: Incorrecto. El peligro es solo un detalle para mencionar que los delfines ayudan. -->
+- [ ] D) De los diferentes sonidos que hay bajo el agua. <!-- feedback: Incorrecto. Los sonidos son solo una forma de comunicación mencionada, no el tema central. -->
 
 ### Explicación Pedagógica
-El tema principal responde a la pregunta "¿De qué trata este texto?". Es la idea general que abarca toda la información. Aquí todo gira en torno al delfín rosado.
+Identificar el tema central es el primer paso para comprender la idea principal. El estudiante debe reconocer qué sujeto u objeto es el eje de toda la información proporcionada.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W18-idea-principal-001-MASTERY-v2`
-**Bloom:** Remember
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**Texto: La chiva, el bus tradicional colombiano**
-
-La chiva es un medio de transporte típico de Colombia. Es un bus colorido y decorado con dibujos de flores, paisajes y figuras. Se usa principalmente en zonas rurales para llevar personas, animales y mercancía. Arriba del techo llevan bultos y hasta gallinas. Las chivas tienen música alegre y la gente viaja cantando.
+"Colombia es un país con una gran biodiversidad. En su territorio podemos encontrar desde selvas húmedas y páramos fríos hasta desiertos calurosos y hermosas playas. Esta variedad de climas permite que vivan miles de especies de plantas y animales".
 
 ### Enunciado
-¿Qué quiere mostrar principalmente este texto?
+¿Cuál es la idea más importante que el autor quiere transmitir?
 
 ### Options
-- [ ] A) Cómo se decoran los buses <!-- feedback: Incorrecto. Solo es un detalle. -->
-- [ ] B) Los animales que viajan en chiva <!-- feedback: Incorrecto. Es un detalle, no lo principal. -->
-- [x] C) Qué es la chiva y para qué se usa en Colombia <!-- feedback: ¡Correcto! El texto explica qué es la chiva, cómo es y cómo se usa en las zonas rurales. -->
-- [ ] D) La música que se escucha en la chiva <!-- feedback: Incorrecto. Es solo un detalle. -->
+- [ ] A) Que en Colombia hay muchas playas bonitas. <!-- feedback: Incorrecto. Las playas son solo un ejemplo de la variedad que hay. -->
+- [x] B) Que Colombia tiene una gran variedad de climas y seres vivos. <!-- feedback: ¡Correcto! Esta idea resume todo el contenido del párrafo sobre la biodiversidad. -->
+- [ ] C) Que los páramos son lugares muy fríos. <!-- feedback: Incorrecto. Este es un detalle específico, pero no resume todo el texto. -->
+- [ ] D) Que es difícil viajar por todo el país. <!-- feedback: Incorrecto. El texto no habla de la dificultad de viajar, sino de la riqueza natural. -->
 
 ### Explicación Pedagógica
-La idea principal es la información más importante que el autor quiere transmitir. Los demás datos son detalles que complementan esa idea central.
+La idea principal suele ser una afirmación global que abarca a todos los ejemplos dados en el texto. Reconocer que los diferentes paisajes son ejemplos de "biodiversidad" ayuda a encontrar la idea central.
 
 ---
 
@@ -74,46 +70,42 @@ La idea principal es la información más importante que el autor quiere transmi
 **Expected_Success:** 0.80
 
 ### Contexto
-**Texto: Cuidado con las pilas usadas**
-
-Las pilas que usamos en los controles remotos, juguetes y relojes contienen químicos tóxicos. Cuando botamos las pilas a la basura normal, esos químicos se filtran en la tierra y contaminan el agua. Los peces y plantas se enferman. Por eso es importante llevar las pilas usadas a puntos de recolección especiales. En varias ciudades de Colombia hay contenedores en centros comerciales y supermercados para reciclar pilas.
+"Es fundamental lavarse las manos frecuentemente para evitar el contagio de enfermedades. Al usar agua y jabón, eliminamos bacterias y virus que recogemos al tocar objetos o saludar a otras personas".
 
 ### Enunciado
-¿Cuál es la idea más importante del texto?
+¿Cuál es el mensaje central de este texto?
 
 ### Options
-- [ ] A) Los controles remotos usan pilas <!-- feedback: Incorrecto. Es un detalle menor. -->
-- [ ] B) En los supermercados hay contenedores <!-- feedback: Incorrecto. Es un detalle. -->
-- [x] C) Las pilas usadas contaminan y deben reciclarse en puntos especiales <!-- feedback: ¡Correcto! La idea principal es que las pilas son peligrosas para el ambiente y deben desecharse correctamente. -->
-- [ ] D) Las pilas tienen químicos <!-- feedback: Incorrecto. Es solo una parte de la explicación. -->
+- [ ] A) El jabón huele muy rico y limpia bien. <!-- feedback: Incorrecto. El olor es un detalle sin importancia para el mensaje de salud. -->
+- [x] B) La importancia del lavado de manos para la salud. <!-- feedback: ¡Correcto! El texto argumenta por qué debemos realizar esta acción higiénica. -->
+- [ ] C) Cómo saludar correctamente a los amigos. <!-- feedback: Incorrecto. El saludo se menciona solo como una forma de ensuciarse las manos. -->
+- [ ] D) Que el agua es necesaria para vivir. <!-- feedback: Incorrecto. El texto se enfoca en la higiene, no en el consumo de agua. -->
 
 ### Explicación Pedagógica
-La idea principal muchas veces incluye un problema y su solución. Aquí el problema es que las pilas contaminan y la solución es reciclarlas en puntos especiales.
+Identificar el propósito o mensaje central ayuda a jerarquizar la información. El estudiante debe distinguir entre el medio (agua y jabón) y el fin o mensaje principal (salud y prevención).
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W18-idea-principal-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Inferencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Texto: El tejo, deporte colombiano**
-
-El tejo es un deporte tradicional de Colombia. Se juega lanzando un disco de metal llamado "tejo" hacia una caja con barro que tiene un triángulo de pólvora en el centro. Cuando el tejo golpea la pólvora, ¡explota! El jugador que más veces hace explotar la pólvora gana. Se juega por equipos y se celebra con música y comida típica.
+"El reciclaje ayuda a proteger el medio ambiente. Cuando reutilizamos el papel, evitamos que se corten más árboles. Al reciclar el plástico, impedimos que llegue a los ríos y océanos, salvando a muchos animales marinos".
 
 ### Enunciado
-Si tuvieras que explicarle a un amigo de qué trata este texto en una sola oración, ¿qué le dirías?
+Si el texto anterior tuviera un título, ¿cuál sería el más adecuado?
 
 ### Options
-- [ ] A) Que el tejo es un disco de metal <!-- feedback: Incorrecto. Eso es solo un detalle. -->
-- [x] B) Que el tejo es un deporte tradicional colombiano donde se lanza un disco para hacer explotar pólvora <!-- feedback: ¡Correcto! Esta oración resume lo más importante: qué es y en qué consiste. -->
-- [ ] C) Que en el tejo se come comida típica <!-- feedback: Incorrecto. Eso solo pasa después del juego. -->
-- [ ] D) Que el tejo explota cuando golpea la pólvora <!-- feedback: Incorrecto. Es un detalle, no la idea completa. -->
+- [ ] A) La vida de los peces en el mar. <!-- feedback: Incorrecto. Solo se mencionan al final como un beneficio del reciclaje. -->
+- [ ] B) Los árboles y sus hojas verdes. <!-- feedback: Incorrecto. El texto trata sobre una acción humana, no solo sobre plantas. -->
+- [x] C) Los beneficios del reciclaje para la naturaleza. <!-- feedback: ¡Correcto! Este título engloba los ejemplos de los árboles y los animales marinos bajo un solo tema. -->
+- [ ] D) Cómo fabricar botellas de plástico. <!-- feedback: Incorrecto. El texto habla de reciclar, no de fabricar plástico. -->
 
 ### Explicación Pedagógica
-Poder resumir un texto en una oración significa que hemos identificado correctamente la idea principal. Los detalles se quedan fuera, solo lo esencial permanece.
+Elegir un título adecuado es una aplicación práctica de la identificación de la idea principal. El título debe ser la síntesis máxima del contenido del texto.
 
 ---
 
@@ -124,71 +116,65 @@ Poder resumir un texto en una oración significa que hemos identificado correcta
 **Expected_Success:** 0.70
 
 ### Contexto
-**Texto: ¿Por qué se mueven los barcos?**
-
-Los barcos flotan en el agua aunque sean muy pesados. Esto parece mágico, pero tiene una explicación científica. El agua empuja hacia arriba con una fuerza que se llama "flotabilidad". Si el barco está bien diseñado, el agua lo sostiene. Por eso los barcos, aunque sean enormes, no se hunden. Esto se llama el principio de Arquímedes.
+"Para que una planta crezca sana, necesita tres cosas esenciales: luz del sol, agua y nutrientes de la tierra. Si le falta alguno de estos elementos, la planta se marchitará y no podrá producir sus propias flores o frutos".
 
 ### Enunciado
-¿Cuál de estas oraciones NO es parte de la idea principal del texto?
+¿Cuál es la idea principal que resume este párrafo?
 
 ### Options
-- [ ] A) Los barcos flotan gracias a la fuerza del agua que los empuja hacia arriba <!-- feedback: Sí es parte de la idea principal. -->
-- [ ] B) Esto se llama el principio de Arquímedes <!-- feedback: Sí es parte de la idea principal. -->
-- [x] C) Los barcos a veces pueden hundirse <!-- feedback: Incorrecto, el texto dice que los barcos bien diseñados no se hunden. Esto NO es parte de la idea principal. -->
-- [ ] D) El agua ejerce una fuerza llamada flotabilidad que sostiene los barcos <!-- feedback: Sí es parte de la idea principal. -->
+- [ ] A) Las flores son la parte más bonita de la planta. <!-- feedback: Incorrecto. El texto habla de la salud de toda la planta, no solo de su belleza. -->
+- [x] B) Los elementos necesarios para el crecimiento de las plantas. <!-- feedback: ¡Correcto! El párrafo enumera y explica por qué son importantes la luz, el agua y la tierra. -->
+- [ ] C) El sol brilla mucho durante el día. <!-- feedback: Incorrecto. Es un hecho general pero no resume el tema de la botánica tratado. -->
+- [ ] D) Por qué el agua es de color transparente. <!-- feedback: Incorrecto. El texto no explica características del agua, sino su necesidad para la planta. -->
 
 ### Explicación Pedagógica
-Identificar la idea principal también implica reconocer lo que NO pertenece. Las ideas falsas o que contradicen el texto deben descartarse.
+Diferenciar entre la idea principal y las ideas secundarias (los ejemplos específicos como la luz o el agua) es una competencia crítica. La idea principal es el "paraguas" que cubre a las demás.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W18-idea-principal-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Texto: El auxiliar de bus escolar**
-
-Don Roberto es el auxiliar del bus escolar de la ruta de Soacha a Bogotá. Todas las mañanas recoge a los niños en las paradas, los ayuda a subir al bus, revisa que tengan puesto el cinturón y los cuida durante el trayecto. Cuando un niño se sienta triste, Don Roberto le cuenta chistes. Él conoce el nombre de todos los niños y sabe en qué parada se baja cada uno.
+"Aunque el fútbol es el deporte más popular en Colombia, el ciclismo ha dado grandes glorias al país. Ciclistas como Lucho Herrera, Nairo Quintana y Egan Bernal han ganado importantes carreras en Europa, demostrando el talento y la fuerza de los deportistas colombianos".
 
 ### Enunciado
-¿Cuál es la función principal de Don Roberto según el texto?
+¿Cuál es la idea que el autor quiere destacar sobre el ciclismo?
 
 ### Options
-- [ ] A) Manejar el bus escolar <!-- feedback: Incorrecto. No se dice que él maneje. -->
-- [ ] B) Contar chistes a los niños <!-- feedback: Incorrecto. Es solo algo que hace a veces. -->
-- [x] C) Cuidar a los niños en el bus y ayudarlos a subir y bajar <!-- feedback: ¡Correcto! Su función principal es cuidar a los niños durante el trayecto escolar. -->
-- [ ] D) Conocer los nombres de todos los niños <!-- feedback: Incorrecto. Es un detalle que muestra que hace bien su trabajo. -->
+- [ ] A) Que el fútbol es más importante que el ciclismo. <!-- feedback: Incorrecto. El autor menciona el fútbol solo para contrastar que el ciclismo también es muy relevante. -->
+- [x] B) El éxito y talento de los ciclistas colombianos en el mundo. <!-- feedback: ¡Correcto! El texto se enfoca en resaltar los logros de estos deportistas. -->
+- [ ] C) Los nombres de todas las carreras de Europa. <!-- feedback: Incorrecto. No se mencionan los nombres de las carreras, solo que han ganado. -->
+- [ ] D) Que todos los colombianos deben comprar una bicicleta. <!-- feedback: Incorrecto. El texto no es una invitación de venta, sino un reconocimiento al talento. -->
 
 ### Explicación Pedagógica
-Para encontrar la función principal de una persona en un texto, nos preguntamos "¿cuál es su trabajo principal?" y descartamos las actividades secundarias.
+A veces la idea principal no está al principio. El estudiante debe leer todo el párrafo para entender que el énfasis está en el éxito del ciclismo, a pesar de que empiece hablando de fútbol.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W18-idea-principal-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Crítico
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Texto: El agua del río Bogotá**
-
-Durante muchos años, el río Bogotá ha sido uno de los más contaminados del mundo. Las fábricas y las casas botaban sus desechos directamente al río. El agua se volvió gris y maloliente, y los peces desaparecieron. En los últimos años, el gobierno y la comunidad han trabajado para limpiarlo. Han construido plantas de tratamiento, han sembrado árboles en las orillas y han creado parques ecológicos. Poco a poco, el río Bogotá está volviendo a la vida. Ya se ven otra vez algunas aves y peces.
+"Los libros son ventanas a mundos fantásticos. A través de la lectura, podemos viajar a planetas lejanos, conocer personajes históricos o aprender cómo funcionan las máquinas. Leer desarrolla nuestra imaginación y nos permite aprender sin salir de casa".
 
 ### Enunciado
-¿Cuál es la idea principal de este texto?
+¿Cuál es la **metáfora** que el autor usa para expresar la idea principal?
 
 ### Options
-- [ ] A) El río Bogotá estaba muy contaminado <!-- feedback: Incorrecto. Es solo la primera parte. -->
-- [ ] B) Las fábricas contaminaron el río <!-- feedback: Incorrecto. Es una causa, no la idea completa. -->
-- [x] C) El río Bogotá estuvo muy contaminado pero ahora hay esfuerzos para recuperarlo y está mejorando <!-- feedback: ¡Correcto! El texto presenta el problema (contaminación), las acciones (limpieza) y el resultado (mejoría). La idea completa abarca toda la historia. -->
-- [ ] D) Ya hay aves y peces en el río Bogotá <!-- feedback: Incorrecto. Es la conclusión, no la idea principal. -->
+- [ ] A) Los libros son puertas pesadas. <!-- feedback: Incorrecto. El autor usa la imagen de una "ventana", no de una puerta pesada. -->
+- [x] B) Los libros son ventanas a otros mundos. <!-- feedback: ¡Correcto! Esta metáfora resume la idea de que la lectura nos permite "ver" y "viajar" a otros lugares. -->
+- [ ] C) Los libros son como la televisión. <!-- feedback: Incorrecto. El texto no compara los libros con la televisión. -->
+- [ ] D) Los libros son herramientas de trabajo. <!-- feedback: Incorrecto. Aunque lo son, el autor usa una imagen más poética (ventanas). -->
 
 ### Explicación Pedagógica
-A veces la idea principal no es solo la primera oración ni el problema, sino el proceso completo: cómo algo cambia con el tiempo. Incluye el problema, las acciones para solucionarlo y el resultado.
+Analizar cómo se expresa la idea principal a través del lenguaje figurado eleva el nivel de comprensión. El estudiante debe identificar la figura literaria que sostiene el mensaje del autor.
 
 ---
 
@@ -199,22 +185,19 @@ A veces la idea principal no es solo la primera oración ni el problema, sino el
 **Expected_Success:** 0.50
 
 ### Contexto
-**Texto: Dos anuncios de la misma papelería**
-
-**Anuncio 1 (en la puerta):**
-"PAPELERÍA LA ESQUINA - Cuadernos, lápices, colores, cartulinas. ¡Todo para tu regreso a clases! Descuentos del 20% en mochilas. ¡Te esperamos en la Carrera 5 # 15-20, Ibagué!"
-
-**Anuncio 2 (en el periódico local):**
-"Papelería La Esquina, un negocio familiar fundado en 1985 por Don Manuel Rojas, cumple 40 años sirviendo a la comunidad educativa de Ibagué. Don Manuel empezó vendiendo lápices en una mesa y hoy tiene uno de los almacenes escolares más completos de la ciudad. Es conocido por su buen servicio y por ayudar a familias de escasos recursos."
+Imagina un texto que habla sobre:
+1. Las abejas producen miel.
+2. Las abejas polinizan las flores para que haya frutos.
+3. Las abejas viven en colmenas organizadas.
 
 ### Enunciado
-Si el dueño de la papelería quiere que la gente venga a comprar, ¿cuál anuncio cumple mejor ese propósito?
+Si tuvieras que escribir una sola oración que resuma estos tres puntos, ¿cuál elegirías como **idea principal**?
 
 ### Options
-- [ ] A) El anuncio 1, pero solo para adultos <!-- feedback: Incorrecto. El anuncio 1 funciona para todos. -->
-- [ ] B) El anuncio 2, porque cuenta la historia de Don Manuel <!-- feedback: Incorrecto. No invita directamente a comprar. -->
-- [x] C) El anuncio 1, porque da información concreta sobre productos, descuentos y ubicación para que la gente vaya a comprar <!-- feedback: ¡Correcto! La idea principal del anuncio 1 es invitar a comprar, mientras que el anuncio 2 cuenta la historia del negocio pero no motiva directamente a ir a la tienda. -->
-- [ ] D) Ambos anuncios son igual de efectivos <!-- feedback: Incorrecto. Tienen propósitos diferentes. -->
+- [ ] A) La miel de abeja es muy dulce y nutritiva. <!-- feedback: Incorrecto. Esto solo resume el punto 1, pero ignora los otros dos. -->
+- [x] B) Las abejas son insectos fundamentales para la naturaleza y tienen una vida organizada. <!-- feedback: ¡Correcto! Esta frase abarca la producción (utilidad), la polinización (importancia natural) y la vida en colmena (organización). -->
+- [ ] C) Las flores necesitan que alguien las visite. <!-- feedback: Incorrecto. Es demasiado general y no menciona a las protagonistas (las abejas). -->
+- [ ] D) Las abejas pueden picar si se sienten amenazadas. <!-- feedback: Incorrecto. Este dato no aparece en ninguno de los tres puntos originales. -->
 
 ### Explicación Pedagógica
-La idea principal depende del propósito del texto. Un mismo negocio puede tener distintos textos con diferentes objetivos. Para saber cuál cumple mejor un propósito, analizamos si la información principal de cada texto se alinea con ese objetivo.
+La capacidad de síntesis es el nivel más alto de la identificación de la idea principal. El estudiante debe construir o elegir una idea que integre todos los aspectos relevantes del texto sin dejar fuera información clave.
