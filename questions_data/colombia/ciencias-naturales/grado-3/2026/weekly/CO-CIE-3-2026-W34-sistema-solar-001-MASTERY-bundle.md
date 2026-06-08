@@ -9,232 +9,272 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Sistema solar: Sol, planetas, Luna, movimientos Tierra"
+rubric_baseline: "sistema solar, Sol, Tierra, Luna, movimientos, caracterÃ­sticas"
 ---
 
-# El Sistema Solar
+# Bundle Mastery: Sistema solar: Sol, Tierra, Luna â€” Grado 3 â€” W34
 
-Bundle de 10 preguntas para Ciencias Naturales - El Sistema Solar
+10 preguntas sobre el sistema solar: Sol, Tierra y Luna.
 
-## Pregunta N [DN]
+## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Indagación y Comprensión
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
+**Expected_Success:** 0.85
+**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Barranquilla, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué causa las estaciones del año?
+El Sol es:
 
 ### Opciones
+- [ ] A) Un planeta
+  <!-- feedback: No. -->
+- [x] B) Una estrella
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) La Luna
+  <!-- feedback: No. -->
+- [ ] D) Un satÃ©lite
+  <!-- feedback: No. -->
 
-- [x] A) Inclinación del eje terrestre <!-- feedback: Correcto. -->
-- [ ] B) Distancia al Sol <!-- feedback: Poca variación. -->
-- [ ] C) Velocidad orbital <!-- feedback: No. -->
-- [ ] D) La Luna <!-- feedback: No. -->
+### ExplicaciÃ³n PedagÃ³gica
+Sol: estrella del sistema solar.
 
-### Explicación Pedagógica
+---
 
-El eje inclinado 23.5° causa verano e invierno.
-
-## Pregunta N [DN]
+## Pregunta 2 [D1]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
+**Expected_Success:** 0.85
+**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es un eclipse solar?
+La Tierra es el planeta donde:
 
 ### Opciones
+- [x] A) Hay vida
+  <!-- feedback: Â¡Correcto! -->
+- [ ] B) Solo hay agua
+  <!-- feedback: No. -->
+- [ ] C) No hay atmÃ³sfera
+  <!-- feedback: No. -->
+- [ ] D) No hay gravedad
+  <!-- feedback: No. -->
 
-- [x] A) La Luna se interpone entre Tierra y Sol <!-- feedback: Correcto. -->
-- [ ] B) La Tierra entre Sol y Luna <!-- feedback: Lunar. -->
-- [ ] C) El Sol se apaga <!-- feedback: No. -->
-- [ ] D) Nubes cubren el Sol <!-- feedback: No. -->
+### ExplicaciÃ³n PedagÃ³gica
+Tierra: planeta con vida.
 
-### Explicación Pedagógica
+---
 
-El eclipse solar ocurre en luna nueva.
-
-## Pregunta N [DN]
+## Pregunta 3 [D2]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
+**Expected_Success:** 0.76
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es un eclipse lunar?
+La Luna es:
 
 ### Opciones
+- [ ] A) Una estrella
+  <!-- feedback: No. -->
+- [x] B) Un satÃ©lite natural de la Tierra
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Un planeta
+  <!-- feedback: No. -->
+- [ ] D) Un cometa
+  <!-- feedback: No. -->
 
-- [x] A) La Tierra se interpone entre Sol y Luna <!-- feedback: Correcto. -->
-- [ ] B) La Luna entre Tierra y Sol <!-- feedback: Solar. -->
-- [ ] C) La Luna se oscurece <!-- feedback: No. -->
-- [ ] D) El Sol se eclipsa <!-- feedback: No. -->
+### ExplicaciÃ³n PedagÃ³gica
+Luna: satÃ©lite natural.
 
-### Explicación Pedagógica
+---
 
-El eclipse lunar ocurre en luna llena.
-
-## Pregunta N [DN]
+## Pregunta 4 [D2]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Indagación y Comprensión
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
+**Expected_Success:** 0.76
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué planeta tiene anillos visibles?
+El Sol nos da:
 
 ### Opciones
+- [ ] A) Solo luz
+  <!-- feedback: No. -->
+- [x] B) Luz y calor
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Solo calor
+  <!-- feedback: No. -->
+- [ ] D) Agua
+  <!-- feedback: No. -->
 
-- [x] A) Saturno <!-- feedback: Correcto. -->
-- [ ] B) Júpiter <!-- feedback: Débiles. -->
-- [ ] C) Urano <!-- feedback: Débiles. -->
-- [ ] D) Neptuno <!-- feedback: Débiles. -->
+### ExplicaciÃ³n PedagÃ³gica
+Sol: luz y calor.
 
-### Explicación Pedagógica
+---
 
-Los anillos de Saturno son de hielo y rocas.
-
-## Pregunta N [DN]
+## Pregunta 5 [D2]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
+**Expected_Success:** 0.76
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en BogotÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Cuál es el planeta más grande?
+La Tierra es el tercer planeta desde el:
 
 ### Opciones
+- [x] A) Sol
+  <!-- feedback: Â¡Correcto! -->
+- [ ] B) La Luna
+  <!-- feedback: No. -->
+- [ ] C) Marte
+  <!-- feedback: No. -->
+- [ ] D) JÃºpiter
+  <!-- feedback: No. -->
 
-- [x] A) Júpiter <!-- feedback: Correcto. -->
-- [ ] B) Saturno <!-- feedback: Segundo. -->
-- [ ] C) Urano <!-- feedback: Tercero. -->
-- [ ] D) Neptuno <!-- feedback: Cuarto. -->
+### ExplicaciÃ³n PedagÃ³gica
+Tierra: 3er planeta.
 
-### Explicación Pedagógica
+---
 
-Júpiter es 1,300 veces más grande que la Tierra.
-
-## Pregunta N [DN]
+## Pregunta 6 [D3]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Formulación y Ejecución
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
+**Expected_Success:** 0.67
+**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Riohacha, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es un asteroide?
+La Luna gira alrededor de:
 
 ### Opciones
+- [ ] A) El Sol
+  <!-- feedback: No. -->
+- [x] B) La Tierra
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Marte
+  <!-- feedback: No. -->
+- [ ] D) Venus
+  <!-- feedback: No. -->
 
-- [x] A) Roca espacial que orbita el Sol <!-- feedback: Correcto. -->
-- [ ] B) Estrella pequeña <!-- feedback: No. -->
-- [ ] C) Satélite natural <!-- feedback: Luna. -->
-- [ ] D) Cometa <!-- feedback: Hielo. -->
+### ExplicaciÃ³n PedagÃ³gica
+Luna: Ã³rbita terrestre.
 
-### Explicación Pedagógica
+---
 
-La mayoría de asteroides están en el cinturón entre Marte y Júpiter.
-
-## Pregunta N [DN]
+## Pregunta 7 [D3]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Razonamiento y Argumentación
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
+**Expected_Success:** 0.67
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en ChÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es un cometa?
+La Tierra gira alrededor del Sol. Esto se llama:
 
 ### Opciones
+- [ ] A) RotaciÃ³n
+  <!-- feedback: No. -->
+- [x] B) TraslaciÃ³n
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Eclipse
+  <!-- feedback: No. -->
+- [ ] D) Gravedad
+  <!-- feedback: No. -->
 
-- [x] A) Bola de hielo y polvo que orbita el Sol <!-- feedback: Correcto. -->
-- [ ] B) Estrella con cola <!-- feedback: No. -->
-- [ ] C) Asteroide helado <!-- feedback: Similar. -->
-- [ ] D) Planeta pequeño <!-- feedback: No. -->
+### ExplicaciÃ³n PedagÃ³gica
+TraslaciÃ³n: Ã³rbita alrededor del Sol.
 
-### Explicación Pedagógica
+---
 
-Los cometas tienen órbita muy elíptica.
-
-## Pregunta N [DN]
+## Pregunta 8 [D3]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Explicación de fenómenos
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**Bloom:** Apply
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
+**Expected_Success:** 0.67
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Villavicencio, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Por qué la Luna tiene fases?
+Sin el Sol, la Tierra serÃ­a:
 
 ### Opciones
+- [ ] A) MÃ¡s cÃ¡lida
+  <!-- feedback: No. -->
+- [x] B) Un lugar frÃ­o sin vida
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Igual que ahora
+  <!-- feedback: No. -->
+- [ ] D) MÃ¡s brillante
+  <!-- feedback: No. -->
 
-- [x] A) Por su posición relativa respecto a Tierra y Sol <!-- feedback: Correcto. -->
-- [ ] B) Por la sombra de la Tierra <!-- feedback: Solo eclipse. -->
-- [ ] C) Por nubes <!-- feedback: No. -->
-- [ ] D) Por rotación <!-- feedback: Sí, pero orbita. -->
+### ExplicaciÃ³n PedagÃ³gica
+Sin Sol: sin luz ni calor.
 
-### Explicación Pedagógica
+---
 
-Las fases son: nueva, creciente, llena, menguante.
-
-## Pregunta N [DN]
+## Pregunta 9 [D4]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Razonamiento y Argumentación
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
+**Expected_Success:** 0.58
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es una órbita?
+Â¿Por quÃ© el Sol se ve mÃ¡s grande que otras estrellas?
 
 ### Opciones
+- [ ] A) Es la mÃ¡s grande del universo
+  <!-- feedback: No. -->
+- [x] B) EstÃ¡ mÃ¡s cerca de la Tierra
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Es mÃ¡s brillante
+  <!-- feedback: No. -->
+- [ ] D) Las otras no existen
+  <!-- feedback: No. -->
 
-- [x] A) Trayectoria curva de un cuerpo alrededor de otro <!-- feedback: Correcto. -->
-- [ ] B) Línea recta <!-- feedback: No. -->
-- [ ] C) Caída libre <!-- feedback: Parte. -->
-- [ ] D) Rotación <!-- feedback: Sobre eje. -->
+### ExplicaciÃ³n PedagÃ³gica
+CercanÃ­a: Sol parece mÃ¡s grande.
 
-### Explicación Pedagógica
+---
 
-La órbita es elíptica (leyes de Kepler).
-
-## Pregunta N [DN]
+## Pregunta 10 [D4]
 
 **ID:** `CO-CIE-3-2026-W34-sistema-solar-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
-**Context:** En Cali, Colegio Santa Cecilia, los estudiantes de grado 3 exploran el sistema solar.
+**Bloom:** Analyze
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
+**Expected_Success:** 0.58
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Duitama, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-
-¿Qué es la Vía Láctea?
+Â¿Por quÃ© la Luna tiene fases?
 
 ### Opciones
+- [ ] A) Cambia de forma
+  <!-- feedback: No. -->
+- [x] B) Cambia su posiciÃ³n respecto al Sol y la Tierra
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Se enciende y apaga
+  <!-- feedback: No. -->
+- [ ] D) Tiene luz propia variable
+  <!-- feedback: No. -->
 
-- [x] A) Nuestra galaxia <!-- feedback: Correcto. -->
-- [ ] B) Un planeta <!-- feedback: No. -->
-- [ ] C) Una estrella <!-- feedback: No. -->
-- [ ] D) Un cúmulo <!-- feedback: No. -->
+### ExplicaciÃ³n PedagÃ³gica
+Fases: posiciÃ³n relativa Sol-Tierra-Luna.
 
-### Explicación Pedagógica
-
-La Vía Láctea tiene miles de millones de estrellas.
+---

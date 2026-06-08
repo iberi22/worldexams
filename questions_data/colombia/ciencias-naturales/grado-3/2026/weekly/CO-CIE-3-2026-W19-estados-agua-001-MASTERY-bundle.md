@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "estados del agua, sólido, líquido, gaseoso, hielo, agua, vapor"
+rubric_baseline: "estados del agua, sÃ³lido, lÃ­quido, gaseoso, hielo, agua, vapor"
 ---
 
-# Bundle Mastery: Estados del agua — Grado 3 — W19
+# Bundle Mastery: Estados del agua â€” Grado 3 â€” W19
 
-10 preguntas sobre los estados del agua: sólido, líquido y gaseoso.
+10 preguntas sobre los estados del agua: sÃ³lido, lÃ­quido y gaseoso.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Colegio La Salle en Santa Marta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El agua en estado sólido se llama:
+El agua en estado sÃ³lido se llama:
 
 ### Opciones
 - [ ] A) Vapor
   <!-- feedback: No. -->
 - [x] B) Hielo
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Agua líquida
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Agua lÃ­quida
   <!-- feedback: No. -->
 - [ ] D) Nube
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Hielo es agua en estado sólido.
+### ExplicaciÃ³n PedagÃ³gica
+Hielo es agua en estado sÃ³lido.
 
 ---
 
@@ -49,7 +49,7 @@ Hielo es agua en estado sólido.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Manizales, la profesora presenta el siguiente ejercicio.
 
@@ -62,11 +62,11 @@ El agua en estado gaseoso se llama:
 - [ ] B) Lluvia
   <!-- feedback: No. -->
 - [x] C) Vapor de agua
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Nieve
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Vapor de agua es el estado gaseoso.
 
 ---
@@ -75,25 +75,25 @@ Vapor de agua es el estado gaseoso.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Cali, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El agua líquida:
+El agua lÃ­quida:
 
 ### Opciones
 - [ ] A) Tiene forma fija
   <!-- feedback: No. -->
 - [x] B) Toma la forma del recipiente
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) No se puede ver
   <!-- feedback: No. -->
-- [ ] D) Siempre es sólida
+- [ ] D) Siempre es sÃ³lida
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Agua líquida se adapta al recipiente.
+### ExplicaciÃ³n PedagÃ³gica
+Agua lÃ­quida se adapta al recipiente.
 
 ---
 
@@ -101,9 +101,9 @@ Agua líquida se adapta al recipiente.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Bogotá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en BogotÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El hielo tiene forma:
@@ -112,14 +112,14 @@ El hielo tiene forma:
 - [ ] A) Variable
   <!-- feedback: No. -->
 - [x] B) Fija y definida
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) De gas
   <!-- feedback: No. -->
 - [ ] D) No tiene forma
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Sólidos tienen forma fija.
+### ExplicaciÃ³n PedagÃ³gica
+SÃ³lidos tienen forma fija.
 
 ---
 
@@ -127,9 +127,9 @@ Sólidos tienen forma fija.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El vapor de agua:
@@ -138,13 +138,13 @@ El vapor de agua:
 - [ ] A) Se puede tocar
   <!-- feedback: No. -->
 - [x] B) Es invisible
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Es pesado
   <!-- feedback: No. -->
 - [ ] D) Tiene forma fija
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Vapor de agua es invisible.
 
 ---
@@ -153,9 +153,9 @@ Vapor de agua es invisible.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Bogotá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en BogotÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Si pones agua en el congelador:
@@ -164,14 +164,14 @@ Si pones agua en el congelador:
 - [ ] A) Se evapora
   <!-- feedback: No. -->
 - [x] B) Se vuelve hielo
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Hierve
   <!-- feedback: No. -->
 - [ ] D) Desaparece
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Al congelarse, el agua se vuelve sólida.
+### ExplicaciÃ³n PedagÃ³gica
+Al congelarse, el agua se vuelve sÃ³lida.
 
 ---
 
@@ -179,9 +179,9 @@ Al congelarse, el agua se vuelve sólida.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Si hierves agua, se convierte en:
@@ -190,13 +190,13 @@ Si hierves agua, se convierte en:
 - [ ] A) Hielo
   <!-- feedback: No. -->
 - [x] B) Vapor
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Polvo
   <!-- feedback: No. -->
 - [ ] D) Gasolina
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Al hervir, el agua se evapora.
 
 ---
@@ -205,24 +205,24 @@ Al hervir, el agua se evapora.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Las nubes están formadas por:
+Las nubes estÃ¡n formadas por:
 
 ### Opciones
-- [ ] A) Algodón
+- [ ] A) AlgodÃ³n
   <!-- feedback: No. -->
-- [x] B) Pequeñas gotas de agua
-  <!-- feedback: ¡Correcto! -->
+- [x] B) PequeÃ±as gotas de agua
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Humo
   <!-- feedback: No. -->
 - [ ] D) Gas
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Nubes son gotitas de agua.
 
 ---
@@ -231,24 +231,24 @@ Nubes son gotitas de agua.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en San Andrés, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué el hielo flota en el agua?
+Â¿Por quÃ© el hielo flota en el agua?
 
 ### Opciones
-- [ ] A) Porque es más pesado
+- [ ] A) Porque es mÃ¡s pesado
   <!-- feedback: No. -->
-- [x] B) Porque es menos denso que el agua líquida
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Porque es menos denso que el agua lÃ­quida
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Porque tiene aire
   <!-- feedback: No. -->
-- [ ] D) Porque es más caliente
+- [ ] D) Porque es mÃ¡s caliente
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Hielo es menos denso, por eso flota.
 
 ---
@@ -257,24 +257,24 @@ Hielo es menos denso, por eso flota.
 
 **ID:** `CO-CIE-3-2026-W19-estados-agua-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Leticia, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El agua puede estar en tres estados. ¿Qué permite esto?
+El agua puede estar en tres estados. Â¿QuÃ© permite esto?
 
 ### Opciones
 - [ ] A) Nada especial
   <!-- feedback: No. -->
 - [x] B) El ciclo del agua y la vida en la Tierra
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo cambios de clima
   <!-- feedback: No. -->
-- [ ] D) Contaminación
+- [ ] D) ContaminaciÃ³n
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Los tres estados permiten el ciclo del agua.
 
 ---

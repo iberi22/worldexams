@@ -9,13 +9,13 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "viento, aire en movimiento, erosión, energía eólica, efectos"
+rubric_baseline: "viento, aire en movimiento, erosiÃ³n, energÃ­a eÃ³lica, efectos"
 ---
 
-# Bundle Mastery: Viento y efectos — Grado 3 — W23
+# Bundle Mastery: Viento y efectos â€” Grado 3 â€” W23
 
 10 preguntas sobre el viento y sus efectos.
 
@@ -23,9 +23,9 @@ rubric_baseline: "viento, aire en movimiento, erosión, energía eólica, efecto
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en San Andrés, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El viento es:
@@ -34,13 +34,13 @@ El viento es:
 - [ ] A) Agua en movimiento
   <!-- feedback: No. -->
 - [x] B) Aire en movimiento
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Tierra moviéndose
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Tierra moviÃ©ndose
   <!-- feedback: No. -->
 - [ ] D) Fuego
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Viento: aire en movimiento.
 
 ---
@@ -49,9 +49,9 @@ Viento: aire en movimiento.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Bucaramanga, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Bucaramanga, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El viento se produce por:
@@ -60,13 +60,13 @@ El viento se produce por:
 - [ ] A) La Luna
   <!-- feedback: No. -->
 - [x] B) Diferencias de temperatura en el aire
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Los árboles
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Los Ã¡rboles
   <!-- feedback: No. -->
 - [ ] D) Los animales
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Diferencias de temperatura crean viento.
 
 ---
@@ -75,9 +75,9 @@ Diferencias de temperatura crean viento.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Bogotá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en BogotÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El viento fuerte puede:
@@ -86,14 +86,14 @@ El viento fuerte puede:
 - [ ] A) No hacer nada
   <!-- feedback: No. -->
 - [x] B) Mover objetos y erosionar el suelo
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Crear montañas
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) Crear montaÃ±as
   <!-- feedback: No. -->
 - [ ] D) Congelar el agua
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Viento: transporte de objetos y erosión.
+### ExplicaciÃ³n PedagÃ³gica
+Viento: transporte de objetos y erosiÃ³n.
 
 ---
 
@@ -101,25 +101,25 @@ Viento: transporte de objetos y erosión.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Ibagué, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Franciscano en IbaguÃ©, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-La energía eólica se obtiene del:
+La energÃ­a eÃ³lica se obtiene del:
 
 ### Opciones
 - [ ] A) Agua
   <!-- feedback: No. -->
 - [x] B) Viento
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Sol
   <!-- feedback: No. -->
 - [ ] D) Suelo
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Energía eólica: del viento.
+### ExplicaciÃ³n PedagÃ³gica
+EnergÃ­a eÃ³lica: del viento.
 
 ---
 
@@ -127,9 +127,9 @@ Energía eólica: del viento.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Cúcuta, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Salesiano en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los molinos de viento sirven para:
@@ -138,14 +138,14 @@ Los molinos de viento sirven para:
 - [ ] A) Solo decorar
   <!-- feedback: No. -->
 - [x] B) Generar electricidad o moler granos
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Crear viento
   <!-- feedback: No. -->
 - [ ] D) Parar el viento
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Molinos generan energía.
+### ExplicaciÃ³n PedagÃ³gica
+Molinos generan energÃ­a.
 
 ---
 
@@ -153,24 +153,24 @@ Molinos generan energía.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Si el viento sopla fuerte, las semillas de diente de león:
+Si el viento sopla fuerte, las semillas de diente de leÃ³n:
 
 ### Opciones
 - [ ] A) Caen al suelo
   <!-- feedback: No. -->
 - [x] B) Vuelan lejos
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Se convierten en piedras
   <!-- feedback: No. -->
 - [ ] D) Desaparecen
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Viento dispersa semillas.
 
 ---
@@ -179,9 +179,9 @@ Viento dispersa semillas.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Chía, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en ChÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El viento puede erosionar rocas porque:
@@ -189,15 +189,15 @@ El viento puede erosionar rocas porque:
 ### Opciones
 - [ ] A) Las rocas son blandas
   <!-- feedback: No. -->
-- [x] B) Transporta partículas que desgastan la roca
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) El viento es sólido
+- [x] B) Transporta partÃ­culas que desgastan la roca
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) El viento es sÃ³lido
   <!-- feedback: No. -->
 - [ ] D) Las rocas se derriten
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Viento: desgaste por partículas.
+### ExplicaciÃ³n PedagÃ³gica
+Viento: desgaste por partÃ­culas.
 
 ---
 
@@ -205,9 +205,9 @@ Viento: desgaste por partículas.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Agustíniano en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio AgustÃ­niano en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los veleros se mueven gracias al:
@@ -216,13 +216,13 @@ Los veleros se mueven gracias al:
 - [ ] A) Motor
   <!-- feedback: No. -->
 - [x] B) Viento
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Agua
   <!-- feedback: No. -->
 - [ ] D) Remos
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Viento impulsa veleros.
 
 ---
@@ -231,25 +231,25 @@ Viento impulsa veleros.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Cúcuta, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en CÃºcuta, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué en la costa sopla viento del mar hacia la tierra?
+Â¿Por quÃ© en la costa sopla viento del mar hacia la tierra?
 
 ### Opciones
 - [ ] A) Porque el mar empuja
   <!-- feedback: No. -->
-- [x] B) Porque la tierra se calienta más rápido que el mar
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Porque la tierra se calienta mÃ¡s rÃ¡pido que el mar
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Porque los peces soplan
   <!-- feedback: No. -->
 - [ ] D) Porque la luna atrae
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Diferencia térmica tierra-mar genera brisa.
+### ExplicaciÃ³n PedagÃ³gica
+Diferencia tÃ©rmica tierra-mar genera brisa.
 
 ---
 
@@ -257,9 +257,9 @@ Diferencia térmica tierra-mar genera brisa.
 
 **ID:** `CO-CIE-3-2026-W23-viento-efectos-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Quibdó, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en QuibdÃ³, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 El viento es importante para:
@@ -267,14 +267,14 @@ El viento es importante para:
 ### Opciones
 - [ ] A) Nada
   <!-- feedback: No. -->
-- [x] B) Polinizar plantas, mover nubes y generar energía
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Polinizar plantas, mover nubes y generar energÃ­a
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo enfriar
   <!-- feedback: No. -->
 - [ ] D) Solo hacer ruido
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Viento: polinización, nubes, energía.
+### ExplicaciÃ³n PedagÃ³gica
+Viento: polinizaciÃ³n, nubes, energÃ­a.
 
 ---

@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "fotosíntesis, clorofila, luz solar, CO₂, oxígeno, glucosa"
+rubric_baseline: "fotosÃ­ntesis, clorofila, luz solar, COâ‚‚, oxÃ­geno, glucosa"
 ---
 
-# Bundle Mastery: Fotosíntesis básica — Grado 3 — W14
+# Bundle Mastery: FotosÃ­ntesis bÃ¡sica â€” Grado 3 â€” W14
 
-10 preguntas sobre el proceso básico de fotosíntesis.
+10 preguntas sobre el proceso bÃ¡sico de fotosÃ­ntesis.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en San Andrés, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en San AndrÃ©s, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Proceso donde plantas fabrican su alimento:
 
 ### Opciones
-- [ ] A) Respiración
+- [ ] A) RespiraciÃ³n
   <!-- feedback: No. -->
-- [ ] B) Digestión
+- [ ] B) DigestiÃ³n
   <!-- feedback: No. -->
-- [x] C) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
-- [ ] D) Transpiración
+- [x] C) FotosÃ­ntesis
+  <!-- feedback: Â¡Correcto! -->
+- [ ] D) TranspiraciÃ³n
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Fotosíntesis produce alimento vegetal.
+### ExplicaciÃ³n PedagÃ³gica
+FotosÃ­ntesis produce alimento vegetal.
 
 ---
 
@@ -49,25 +49,25 @@ Fotosíntesis produce alimento vegetal.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Colegio Franciscano en Villavicencio, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Las plantas necesitan para fotosíntesis:
+Las plantas necesitan para fotosÃ­ntesis:
 
 ### Opciones
 - [ ] A) Solo agua
   <!-- feedback: No. -->
 - [ ] B) Solo tierra
   <!-- feedback: No. -->
-- [x] C) Luz solar, agua y CO₂
-  <!-- feedback: ¡Correcto! -->
-- [ ] D) Luz y oxígeno
+- [x] C) Luz solar, agua y COâ‚‚
+  <!-- feedback: Â¡Correcto! -->
+- [ ] D) Luz y oxÃ­geno
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Fotosíntesis: luz + agua + CO₂.
+### ExplicaciÃ³n PedagÃ³gica
+FotosÃ­ntesis: luz + agua + COâ‚‚.
 
 ---
 
@@ -75,9 +75,9 @@ Fotosíntesis: luz + agua + CO₂.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Pigmento verde que captura luz:
@@ -88,11 +88,11 @@ Pigmento verde que captura luz:
 - [ ] B) Agua
   <!-- feedback: No. -->
 - [x] C) Clorofila
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Tierra
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Clorofila captura luz solar.
 
 ---
@@ -101,24 +101,24 @@ Clorofila captura luz solar.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio La Salle en Montería, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio La Salle en MonterÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué produce la fotosíntesis como alimento?
+Â¿QuÃ© produce la fotosÃ­ntesis como alimento?
 
 ### Opciones
 - [ ] A) Agua
   <!-- feedback: No. -->
 - [ ] B) Sal
   <!-- feedback: No. -->
-- [x] C) Glucosa (azúcar)
-  <!-- feedback: ¡Correcto! -->
-- [ ] D) CO₂
+- [x] C) Glucosa (azÃºcar)
+  <!-- feedback: Â¡Correcto! -->
+- [ ] D) COâ‚‚
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Glucosa es el alimento producido.
 
 ---
@@ -127,7 +127,7 @@ Glucosa es el alimento producido.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Girardot, la profesora presenta el siguiente ejercicio.
 
@@ -135,17 +135,17 @@ Glucosa es el alimento producido.
 Gas que liberan las plantas:
 
 ### Opciones
-- [ ] A) CO₂
+- [ ] A) COâ‚‚
   <!-- feedback: No. -->
-- [ ] B) Nitrógeno
+- [ ] B) NitrÃ³geno
   <!-- feedback: No. -->
-- [x] C) Oxígeno
-  <!-- feedback: ¡Correcto! -->
+- [x] C) OxÃ­geno
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Metano
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Plantas liberan oxígeno.
+### ExplicaciÃ³n PedagÃ³gica
+Plantas liberan oxÃ­geno.
 
 ---
 
@@ -153,25 +153,25 @@ Plantas liberan oxígeno.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Leticia, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Leticia, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Planta en cuarto oscuro varios días:
+Planta en cuarto oscuro varios dÃ­as:
 
 ### Opciones
-- [ ] A) Crece más rápido
+- [ ] A) Crece mÃ¡s rÃ¡pido
   <!-- feedback: No. -->
 - [x] B) Se debilita
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) No le pasa nada
   <!-- feedback: No. -->
-- [ ] D) Produce más flores
+- [ ] D) Produce mÃ¡s flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Sin luz no hay fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Sin luz no hay fotosÃ­ntesis.
 
 ---
 
@@ -179,7 +179,7 @@ Sin luz no hay fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Liceo Infantil en Cartagena, la profesora presenta el siguiente ejercicio.
 
@@ -189,15 +189,15 @@ Importancia de regar:
 ### Opciones
 - [ ] A) Para que no se ensucie
   <!-- feedback: No. -->
-- [x] B) Agua necesaria para fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+- [x] B) Agua necesaria para fotosÃ­ntesis
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Para que baile
   <!-- feedback: No. -->
 - [ ] D) Para que haga ruido
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Agua es esencial en fotosíntesis.
+### ExplicaciÃ³n PedagÃ³gica
+Agua es esencial en fotosÃ­ntesis.
 
 ---
 
@@ -205,24 +205,24 @@ Agua es esencial en fotosíntesis.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Fusagasugá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Fotosíntesis ocurre en:
+FotosÃ­ntesis ocurre en:
 
 ### Opciones
-- [ ] A) Raíz
+- [ ] A) RaÃ­z
   <!-- feedback: No. -->
 - [ ] B) Tallo
   <!-- feedback: No. -->
 - [x] C) Hojas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] D) Flores
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Hojas contienen clorofila.
 
 ---
@@ -231,25 +231,25 @@ Hojas contienen clorofila.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en Duitama, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en Duitama, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Sin plantas, el oxígeno:
+Sin plantas, el oxÃ­geno:
 
 ### Opciones
-- [ ] A) Aumentaría
+- [ ] A) AumentarÃ­a
   <!-- feedback: No. -->
-- [x] B) Disminuiría
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) No cambiaría
+- [x] B) DisminuirÃ­a
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) No cambiarÃ­a
   <!-- feedback: No. -->
-- [ ] D) Se volvería agua
+- [ ] D) Se volverÃ­a agua
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Plantas producen el oxígeno.
+### ExplicaciÃ³n PedagÃ³gica
+Plantas producen el oxÃ­geno.
 
 ---
 
@@ -257,24 +257,24 @@ Plantas producen el oxígeno.
 
 **ID:** `CO-CIE-3-2026-W14-fotosintesis-basica-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Hojas amarillas en otoño porque:
+Hojas amarillas en otoÃ±o porque:
 
 ### Opciones
-- [ ] A) Les da frío
+- [ ] A) Les da frÃ­o
   <!-- feedback: No. -->
 - [x] B) Menos luz, clorofila se descompone
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) No necesitan color
   <!-- feedback: No. -->
 - [ ] D) Se enferman
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Sin luz, clorofila se descompone.
 
 ---

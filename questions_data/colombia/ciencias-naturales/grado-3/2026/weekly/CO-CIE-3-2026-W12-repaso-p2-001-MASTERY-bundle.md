@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "repaso período 2, alimentación, reproducción, desplazamiento, plantas"
+rubric_baseline: "repaso perÃ­odo 2, alimentaciÃ³n, reproducciÃ³n, desplazamiento, plantas"
 ---
 
-# Bundle Mastery: Repaso P2 — Grado 3 — W12
+# Bundle Mastery: Repaso P2 â€” Grado 3 â€” W12
 
-10 preguntas de repaso del período 2.
+10 preguntas de repaso del perÃ­odo 2.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Zipaquirá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en ZipaquirÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animales que comen solo plantas:
 
 ### Opciones
-- [ ] A) Carnívoros
+- [ ] A) CarnÃ­voros
   <!-- feedback: No. -->
-- [x] B) Herbívoros
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Omnívoros
+- [x] B) HerbÃ­voros
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) OmnÃ­voros
   <!-- feedback: No. -->
-- [ ] D) Insectívoros
+- [ ] D) InsectÃ­voros
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Herbívoros comen plantas.
+### ExplicaciÃ³n PedagÃ³gica
+HerbÃ­voros comen plantas.
 
 ---
 
@@ -49,25 +49,25 @@ Herbívoros comen plantas.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
 **Context:** En la clase de Ciencias Naturales del Escuela Normal Superior en Duitama, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-La raíz sirve para:
+La raÃ­z sirve para:
 
 ### Opciones
-- [ ] A) Fotosíntesis
+- [ ] A) FotosÃ­ntesis
   <!-- feedback: No. -->
 - [x] B) Fijar y absorber agua
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Producir flores
   <!-- feedback: No. -->
 - [ ] D) Atraer insectos
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíz fija y absorbe.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­z fija y absorbe.
 
 ---
 
@@ -75,9 +75,9 @@ Raíz fija y absorbe.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Técnico Industrial en Popayán, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio TÃ©cnico Industrial en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animal con escamas que se arrastra:
@@ -86,13 +86,13 @@ Animal con escamas que se arrastra:
 - [ ] A) Perro
   <!-- feedback: No. -->
 - [x] B) Serpiente
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Ave
   <!-- feedback: No. -->
 - [ ] D) Pez
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Serpiente: escamas y arrastra.
 
 ---
@@ -101,24 +101,24 @@ Serpiente: escamas y arrastra.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Bucaramanga, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Bucaramanga, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué cubre a las aves?
+Â¿QuÃ© cubre a las aves?
 
 ### Opciones
 - [ ] A) Escamas
   <!-- feedback: No. -->
 - [x] B) Plumas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Pelo
   <!-- feedback: No. -->
-- [ ] D) Caparazón
+- [ ] D) CaparazÃ³n
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Aves tienen plumas.
 
 ---
@@ -127,24 +127,24 @@ Aves tienen plumas.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
 **Context:** En la clase de Ciencias Naturales del Colegio Salesiano en Sincelejo, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Función del tallo:
+FunciÃ³n del tallo:
 
 ### Opciones
 - [ ] A) Absorber agua
   <!-- feedback: No. -->
 - [x] B) Sostener y transportar
-  <!-- feedback: ¡Correcto! -->
-- [ ] C) Fotosíntesis
+  <!-- feedback: Â¡Correcto! -->
+- [ ] C) FotosÃ­ntesis
   <!-- feedback: No. -->
 - [ ] D) Producir semillas
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Tallo sostiene y transporta.
 
 ---
@@ -153,9 +153,9 @@ Tallo sostiene y transporta.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Riohacha, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Riohacha, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Dientes planos = come:
@@ -164,14 +164,14 @@ Dientes planos = come:
 - [ ] A) Carne
   <!-- feedback: No. -->
 - [x] B) Plantas
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Insectos
   <!-- feedback: No. -->
 - [ ] D) Piedras
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Dientes planos = herbívoro.
+### ExplicaciÃ³n PedagÃ³gica
+Dientes planos = herbÃ­voro.
 
 ---
 
@@ -179,9 +179,9 @@ Dientes planos = herbívoro.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Para germinar, semilla necesita:
@@ -190,13 +190,13 @@ Para germinar, semilla necesita:
 - [ ] A) Solo agua
   <!-- feedback: No. -->
 - [x] B) Agua, tierra y sol
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Solo tierra
   <!-- feedback: No. -->
 - [ ] D) Leche
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Agua, tierra y luz solar.
 
 ---
@@ -205,24 +205,24 @@ Agua, tierra y luz solar.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio Santa María en Yopal, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Santa MarÃ­a en Yopal, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Gallina es ovípara porque:
+Gallina es ovÃ­para porque:
 
 ### Opciones
 - [ ] A) Nace del vientre
   <!-- feedback: No. -->
 - [x] B) Pone huevos
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Tiene pelo
   <!-- feedback: No. -->
 - [ ] D) Vuela
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Gallina pone huevos.
 
 ---
@@ -231,24 +231,24 @@ Gallina pone huevos.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Carnívoro tiene colmillos para:
+CarnÃ­voro tiene colmillos para:
 
 ### Opciones
-- [ ] A) Ser más fuerte
+- [ ] A) Ser mÃ¡s fuerte
   <!-- feedback: No. -->
 - [x] B) Desgarrar carne
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) No tiene dientes
   <!-- feedback: No. -->
-- [ ] D) Ser más inteligente
+- [ ] D) Ser mÃ¡s inteligente
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Colmillos para desgarrar.
 
 ---
@@ -257,24 +257,24 @@ Colmillos para desgarrar.
 
 **ID:** `CO-CIE-3-2026-W12-repaso-p2-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Institución Educativa en Fusagasugá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa en FusagasugÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Planta sin raíz no podría:
+Planta sin raÃ­z no podrÃ­a:
 
 ### Opciones
-- [ ] A) Fotosíntesis
+- [ ] A) FotosÃ­ntesis
   <!-- feedback: No. -->
 - [x] B) Absorber agua ni sostenerse
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Â¡Correcto! -->
 - [ ] C) Producir flores
   <!-- feedback: No. -->
 - [ ] D) Crecer
   <!-- feedback: No. -->
 
-### Explicación Pedagógica
-Raíz absorbe agua y sujeta.
+### ExplicaciÃ³n PedagÃ³gica
+RaÃ­z absorbe agua y sujeta.
 
 ---

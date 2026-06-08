@@ -9,39 +9,39 @@ protocol_version: "5.2"
 year: 2026
 bundle_index: 1
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
+alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "clasificación por alimentación, herbívoros, carnívoros, omnívoros"
+rubric_baseline: "clasificaciÃ³n por alimentaciÃ³n, herbÃ­voros, carnÃ­voros, omnÃ­voros"
 ---
 
-# Bundle Mastery: Animales: alimentación (herbívoros, carnívoros, omnívoros) — Grado 3 — W08
+# Bundle Mastery: Animales: alimentaciÃ³n (herbÃ­voros, carnÃ­voros, omnÃ­voros) â€” Grado 3 â€” W08
 
-10 preguntas sobre clasificación de animales según su alimentación.
+10 preguntas sobre clasificaciÃ³n de animales segÃºn su alimentaciÃ³n.
 
 ## Pregunta 1 [D1]
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Liceo Infantil en Bogotá, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Liceo Infantil en BogotÃ¡, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Los animales que se alimentan solo de plantas se llaman:
 
 ### Opciones
-- [ ] A) Carnívoros
-  <!-- feedback: No. Los carnívoros comen carne. -->
-- [ ] B) Omnívoros
-  <!-- feedback: No. Los omnívoros comen plantas y carne. -->
-- [x] C) Herbívoros
-  <!-- feedback: ¡Correcto! Los herbívoros comen solo plantas. -->
-- [ ] D) Insectívoros
-  <!-- feedback: No. Los insectívoros comen insectos. -->
+- [ ] A) CarnÃ­voros
+  <!-- feedback: No. Los carnÃ­voros comen carne. -->
+- [ ] B) OmnÃ­voros
+  <!-- feedback: No. Los omnÃ­voros comen plantas y carne. -->
+- [x] C) HerbÃ­voros
+  <!-- feedback: Â¡Correcto! Los herbÃ­voros comen solo plantas. -->
+- [ ] D) InsectÃ­voros
+  <!-- feedback: No. Los insectÃ­voros comen insectos. -->
 
-### Explicación Pedagógica
-Los hervíboros se alimentan solo de plantas. Ej: vaca, caballo, conejo.
+### ExplicaciÃ³n PedagÃ³gica
+Los hervÃ­boros se alimentan solo de plantas. Ej: vaca, caballo, conejo.
 
 ---
 
@@ -49,25 +49,25 @@ Los hervíboros se alimentan solo de plantas. Ej: vaca, caballo, conejo.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES category:** Indagación y Comprensión
+**ICFES category:** IndagaciÃ³n y ComprensiÃ³n
 **Expected_Success:** 0.85
-**Context:** En la clase de Ciencias Naturales del Jardín Infantil en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del JardÃ­n Infantil en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-El león se alimenta de otros animales. Según su alimentación es:
+El leÃ³n se alimenta de otros animales. SegÃºn su alimentaciÃ³n es:
 
 ### Opciones
-- [ ] A) Herbívoro
-  <!-- feedback: No. Los herbívoros comen plantas. -->
-- [x] B) Carnívoro
-  <!-- feedback: ¡Correcto! El león es carnívoro. -->
-- [ ] C) Omnívoro
-  <!-- feedback: No. Los omnívoros comen plantas y carne. -->
-- [ ] D) Frugívoro
-  <!-- feedback: No. Los frugívoros comen frutas. -->
+- [ ] A) HerbÃ­voro
+  <!-- feedback: No. Los herbÃ­voros comen plantas. -->
+- [x] B) CarnÃ­voro
+  <!-- feedback: Â¡Correcto! El leÃ³n es carnÃ­voro. -->
+- [ ] C) OmnÃ­voro
+  <!-- feedback: No. Los omnÃ­voros comen plantas y carne. -->
+- [ ] D) FrugÃ­voro
+  <!-- feedback: No. Los frugÃ­voros comen frutas. -->
 
-### Explicación Pedagógica
-Los carnívoros (león, tigre, lobo) se alimentan de otros animales.
+### ExplicaciÃ³n PedagÃ³gica
+Los carnÃ­voros (leÃ³n, tigre, lobo) se alimentan de otros animales.
 
 ---
 
@@ -75,25 +75,25 @@ Los carnívoros (león, tigre, lobo) se alimentan de otros animales.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Colegio Bilingüe en Cartagena, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio BilingÃ¼e en Cartagena, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Un cerdo come pasto, frutas y restos de carne. Es:
 
 ### Opciones
-- [ ] A) Herbívoro
-  <!-- feedback: No. Solo come plantas pero el cerdo también come carne. -->
-- [ ] B) Carnívoro
-  <!-- feedback: No. Solo come carne pero el cerdo también come plantas. -->
-- [x] C) Omnívoro
-  <!-- feedback: ¡Correcto! Come plantas y carne. -->
+- [ ] A) HerbÃ­voro
+  <!-- feedback: No. Solo come plantas pero el cerdo tambiÃ©n come carne. -->
+- [ ] B) CarnÃ­voro
+  <!-- feedback: No. Solo come carne pero el cerdo tambiÃ©n come plantas. -->
+- [x] C) OmnÃ­voro
+  <!-- feedback: Â¡Correcto! Come plantas y carne. -->
 - [ ] D) Ninguno
-  <!-- feedback: No. Sí tiene clasificación. -->
+  <!-- feedback: No. SÃ­ tiene clasificaciÃ³n. -->
 
-### Explicación Pedagógica
-Los omnívoros (cerdo, oso, humano) comen plantas y carne.
+### ExplicaciÃ³n PedagÃ³gica
+Los omnÃ­voros (cerdo, oso, humano) comen plantas y carne.
 
 ---
 
@@ -101,25 +101,25 @@ Los omnívoros (cerdo, oso, humano) comen plantas y carne.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Liceo Infantil en Chía, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Liceo Infantil en ChÃ­a, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Una lombriz come restos de plantas descompuestas. Se clasifica como:
 
 ### Opciones
-- [ ] A) Carnívora
+- [ ] A) CarnÃ­vora
   <!-- feedback: No. No come animales vivos. -->
-- [x] B) Herbívora/Detritívora
-  <!-- feedback: ¡Correcto! Come materia vegetal descompuesta. -->
-- [ ] C) Omnívora
+- [x] B) HerbÃ­vora/DetritÃ­vora
+  <!-- feedback: Â¡Correcto! Come materia vegetal descompuesta. -->
+- [ ] C) OmnÃ­vora
   <!-- feedback: No. Solo come plantas. -->
-- [ ] D) Carroñera
-  <!-- feedback: No. Las carroñeras comen animales muertos. -->
+- [ ] D) CarroÃ±era
+  <!-- feedback: No. Las carroÃ±eras comen animales muertos. -->
 
-### Explicación Pedagógica
-Las lombrices son detritívoras: descomponen materia vegetal y fertilizan el suelo.
+### ExplicaciÃ³n PedagÃ³gica
+Las lombrices son detritÃ­voras: descomponen materia vegetal y fertilizan el suelo.
 
 ---
 
@@ -127,25 +127,25 @@ Las lombrices son detritívoras: descomponen materia vegetal y fertilizan el sue
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES category:** Uso comprensivo del conocimiento científico
+**ICFES category:** Uso comprensivo del conocimiento cientÃ­fico
 **Expected_Success:** 0.76
-**Context:** En la clase de Ciencias Naturales del Instituto Técnico en Cali, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Instituto TÃ©cnico en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Qué tipo de dientes tiene un herbívoro como la vaca?
+Â¿QuÃ© tipo de dientes tiene un herbÃ­voro como la vaca?
 
 ### Opciones
 - [ ] A) Colmillos afilados
-  <!-- feedback: No. Los colmillos son de carnívoros. -->
+  <!-- feedback: No. Los colmillos son de carnÃ­voros. -->
 - [x] B) Dientes planos para moler
-  <!-- feedback: ¡Correcto! Para moler plantas. -->
+  <!-- feedback: Â¡Correcto! Para moler plantas. -->
 - [ ] C) Pico
   <!-- feedback: No. Las vacas no tienen pico. -->
 - [ ] D) Sin dientes
-  <!-- feedback: No. Las vacas sí tienen dientes. -->
+  <!-- feedback: No. Las vacas sÃ­ tienen dientes. -->
 
-### Explicación Pedagógica
-Los herbívoros tienen molares planos para triturar plantas.
+### ExplicaciÃ³n PedagÃ³gica
+Los herbÃ­voros tienen molares planos para triturar plantas.
 
 ---
 
@@ -153,24 +153,24 @@ Los herbívoros tienen molares planos para triturar plantas.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Colegio de la Presentación en Medellín, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio de la PresentaciÃ³n en MedellÃ­n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Un animal tiene dientes planos y anchos. ¿Qué alimentación tiene?
+Un animal tiene dientes planos y anchos. Â¿QuÃ© alimentaciÃ³n tiene?
 
 ### Opciones
-- [ ] A) Carnívoro
-  <!-- feedback: No. Los carnívoros tienen dientes afilados. -->
-- [x] B) Herbívoro
-  <!-- feedback: ¡Correcto! Dientes planos para moler plantas. -->
-- [ ] C) Omnívoro
-  <!-- feedback: Puede ser, pero es más típico de herbívoros. -->
+- [ ] A) CarnÃ­voro
+  <!-- feedback: No. Los carnÃ­voros tienen dientes afilados. -->
+- [x] B) HerbÃ­voro
+  <!-- feedback: Â¡Correcto! Dientes planos para moler plantas. -->
+- [ ] C) OmnÃ­voro
+  <!-- feedback: Puede ser, pero es mÃ¡s tÃ­pico de herbÃ­voros. -->
 - [ ] D) Ninguno
-  <!-- feedback: No. Sí tiene clasificación. -->
+  <!-- feedback: No. SÃ­ tiene clasificaciÃ³n. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Los dientes se adaptan a la dieta.
 
 ---
@@ -179,24 +179,24 @@ Los dientes se adaptan a la dieta.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
 **Context:** En la clase de Ciencias Naturales del Colegio Nacional en Cali, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-Encuentras frutas mordidas bajo un árbol. El animal probablemente es:
+Encuentras frutas mordidas bajo un Ã¡rbol. El animal probablemente es:
 
 ### Opciones
-- [ ] A) Carnívoro
-  <!-- feedback: No. Los carnívoros no comen frutas. -->
-- [x] B) Herbívoro u omnívoro
-  <!-- feedback: ¡Correcto! Comer frutas indica que come plantas. -->
-- [ ] C) Exclusivamente herbívoro
-  <!-- feedback: No necesariamente. Podría ser omnívoro. -->
-- [ ] D) Insectívoro
-  <!-- feedback: No. Los insectívoros comen insectos. -->
+- [ ] A) CarnÃ­voro
+  <!-- feedback: No. Los carnÃ­voros no comen frutas. -->
+- [x] B) HerbÃ­voro u omnÃ­voro
+  <!-- feedback: Â¡Correcto! Comer frutas indica que come plantas. -->
+- [ ] C) Exclusivamente herbÃ­voro
+  <!-- feedback: No necesariamente. PodrÃ­a ser omnÃ­voro. -->
+- [ ] D) InsectÃ­voro
+  <!-- feedback: No. Los insectÃ­voros comen insectos. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Las frutas mordidas indican que el animal come plantas.
 
 ---
@@ -205,25 +205,25 @@ Las frutas mordidas indican que el animal come plantas.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES category:** Formulación y Ejecución
+**ICFES category:** FormulaciÃ³n y EjecuciÃ³n
 **Expected_Success:** 0.67
-**Context:** En la clase de Ciencias Naturales del Institución Educativa Técnica en Manizales, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del InstituciÃ³n Educativa TÃ©cnica en Manizales, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
 Animal con grandes colmillos y garras afiladas es probablemente:
 
 ### Opciones
-- [ ] A) Herbívoro
+- [ ] A) HerbÃ­voro
   <!-- feedback: No. No necesita esas adaptaciones. -->
-- [x] B) Carnívoro
-  <!-- feedback: ¡Correcto! Adaptaciones para cazar. -->
-- [ ] C) Omnívoro
-  <!-- feedback: Podría ser, pero típico de carnívoros. -->
+- [x] B) CarnÃ­voro
+  <!-- feedback: Â¡Correcto! Adaptaciones para cazar. -->
+- [ ] C) OmnÃ­voro
+  <!-- feedback: PodrÃ­a ser, pero tÃ­pico de carnÃ­voros. -->
 - [ ] D) Ninguno
-  <!-- feedback: No. Tiene clasificación. -->
+  <!-- feedback: No. Tiene clasificaciÃ³n. -->
 
-### Explicación Pedagógica
-Los carnívoros tienen colmillos para desgarrar y garras para sujetar presas.
+### ExplicaciÃ³n PedagÃ³gica
+Los carnÃ­voros tienen colmillos para desgarrar y garras para sujetar presas.
 
 ---
 
@@ -231,24 +231,24 @@ Los carnívoros tienen colmillos para desgarrar y garras para sujetar presas.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
 **Context:** En la clase de Ciencias Naturales del Colegio La Salle en Duitama, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué el caballo (herbívoro) no tiene colmillos como el tigre?
+Â¿Por quÃ© el caballo (herbÃ­voro) no tiene colmillos como el tigre?
 
 ### Opciones
 - [ ] A) No necesita defenderse
   <!-- feedback: No. Los caballos se defienden pateando. -->
 - [x] B) Necesita moler plantas, no desgarrar
-  <!-- feedback: ¡Correcto! Sus dientes se adaptan a moler. -->
-- [ ] C) Es más grande
-  <!-- feedback: No. El tamaño no determina el tipo de dientes. -->
+  <!-- feedback: Â¡Correcto! Sus dientes se adaptan a moler. -->
+- [ ] C) Es mÃ¡s grande
+  <!-- feedback: No. El tamaÃ±o no determina el tipo de dientes. -->
 - [ ] D) No tiene dientes
-  <!-- feedback: No. Sí tiene dientes. -->
+  <!-- feedback: No. SÃ­ tiene dientes. -->
 
-### Explicación Pedagógica
+### ExplicaciÃ³n PedagÃ³gica
 Cada tipo de diente se adapta a la dieta.
 
 ---
@@ -257,24 +257,24 @@ Cada tipo de diente se adapta a la dieta.
 
 **ID:** `CO-CIE-3-2026-W08-animales-alimentacion-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES category:** Razonamiento y Argumentación
+**ICFES category:** Razonamiento y ArgumentaciÃ³n
 **Expected_Success:** 0.58
-**Context:** En la clase de Ciencias Naturales del Colegio Nacional en Popayán, la profesora presenta el siguiente ejercicio.
+**Context:** En la clase de Ciencias Naturales del Colegio Nacional en PopayÃ¡n, la profesora presenta el siguiente ejercicio.
 
 ### Enunciado
-¿Por qué los omnívoros pueden vivir en más lugares que los carnívoros puros?
+Â¿Por quÃ© los omnÃ­voros pueden vivir en mÃ¡s lugares que los carnÃ­voros puros?
 
 ### Opciones
-- [ ] A) Son más grandes
-  <!-- feedback: No es la razón. -->
+- [ ] A) Son mÃ¡s grandes
+  <!-- feedback: No es la razÃ³n. -->
 - [x] B) Comen diferentes alimentos y se adaptan mejor
-  <!-- feedback: ¡Correcto! Más opciones = más hábitats. -->
+  <!-- feedback: Â¡Correcto! MÃ¡s opciones = mÃ¡s hÃ¡bitats. -->
 - [ ] C) No necesitan agua
   <!-- feedback: No. Todos necesitan agua. -->
-- [ ] D) Son más inteligentes
-  <!-- feedback: No es la razón principal. -->
+- [ ] D) Son mÃ¡s inteligentes
+  <!-- feedback: No es la razÃ³n principal. -->
 
-### Explicación Pedagógica
-Los omnívoros se adaptan mejor a distintos ambientes.
+### ExplicaciÃ³n PedagÃ³gica
+Los omnÃ­voros se adaptan mejor a distintos ambientes.
 
 ---
