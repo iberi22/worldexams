@@ -177,3 +177,31 @@ class BundleValidator:
             valid = False
 
         return ValidationResult(valid, issues, warnings)
+
+
+if __name__ == "__main__":
+    import sys
+
+    if len(sys.argv) < 2:
+        print("Usage: python3 bundle_validator.py <file_path1> <file_path2> ...")
+        sys.exit(1)
+
+    validator = BundleValidator()
+    all_valid = True
+
+    for file_path in sys.argv[1:]:
+        result = validator.validate_file(file_path)
+        if not result.valid:
+            all_valid = False
+            print(f"\n❌ Validation failed for {file_path}:")
+            for issue in result.issues:
+                line_info = f" (line {issue.line})" if issue.line else ""
+                print(f"  - [{issue.severity}] {issue.message}{line_info}")
+        else:
+            print(f"✅ {file_path} is valid")
+
+        for warning in result.warnings:
+            print(f"  - [WARNING] {warning}")
+
+    if not all_valid:
+        sys.exit(1)
