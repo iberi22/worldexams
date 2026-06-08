@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "descubrimiento_america, conquista_america, colonia_organizacion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sociales Grado 7 — Periodo 2
@@ -366,3 +369,8 @@ Desde una perspectiva histórica actual, ¿cómo se considera más apropiado lla
 
 ### Explicación Pedagógica
 La historiografía contemporánea evita el término "descubrimiento" por ser eurocéntrico. Se prefieren términos como "encuentro de dos mundos" (que reconoce la existencia previa de culturas americanas) o "conquista e invasión" (que visibiliza la violencia del proceso).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

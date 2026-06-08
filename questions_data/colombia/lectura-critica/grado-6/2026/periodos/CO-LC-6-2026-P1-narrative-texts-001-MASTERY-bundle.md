@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "narrative texts, story elements, plot, characters, setting, narrator"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Narrative Texts
@@ -241,3 +244,8 @@ To create suspense, a writer should ___.
 Suspense is created through pacing, cliffhangers, and withholding some information.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 3
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Lectura de Palabras
@@ -198,3 +201,8 @@ Mira estas dos palabras: **BANCO** (donde se guarda dinero) y **BANCO** (donde s
 
 ### Explicación Pedagógica
 Entender la polisemia y la homografía permite al estudiante interpretar el significado de una palabra según el contexto de la oración. Esto evita confusiones y mejora la precisión en la comprensión lectora de textos más complejos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

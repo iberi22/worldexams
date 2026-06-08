@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W07 — Reproducción Sexual en Organismos
@@ -277,3 +280,8 @@ Ejemplos históricos: la realeza europea (hemofilia en descendientes de la reina
 En conservación, se evita la endogamia mediante: (1) corredores biológicos que conectan poblaciones, (2) programas de intercambio de individuos entre zoológicos, (3) bancos de semen para diversidad genética. En Colombia, el jaguar y el oso de anteojos se benefician de corredores biológicos que conectan poblaciones aisladas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

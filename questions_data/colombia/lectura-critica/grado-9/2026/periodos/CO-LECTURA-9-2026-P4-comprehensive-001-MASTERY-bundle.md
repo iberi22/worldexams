@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Literatura del siglo XX, contexto histórico-literario, semiótica básica, signo lingüístico, significante y significado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Literatura del Siglo XX, Contexto Histórico-Literario y Semiótica
@@ -342,3 +345,8 @@ Un estudiante afirma: "La semiótica es una teoría del siglo XX que ya no sirve
 
 ### Explicación Pedagógica
 La semiótica ha evolucionado desde Saussure y Peirce hasta la semiótica multimodal actual (Kress, van Leeuwen). Hoy se aplica al análisis de interfaces digitales, redes sociales, publicidad en línea, videojuegos y cultura meme. Es una disciplina fundamental para la alfabetización digital crítica.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

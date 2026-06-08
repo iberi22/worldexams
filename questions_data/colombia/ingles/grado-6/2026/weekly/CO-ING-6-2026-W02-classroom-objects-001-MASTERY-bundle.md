@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "classroom objects, articles a/an, colors, school supplies"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Classroom Objects (W02)
@@ -227,3 +230,8 @@ The teacher says: "___ the door, please."
 El imperativo en inglés usa el verbo en su forma base: "Open the door", "Close the window", "Sit down", "Stand up".
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

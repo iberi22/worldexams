@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "rueda, engranajes, transmisiÃ³n de movimiento, aplicaciones"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Rueda y engranajes â€” Grado 4 â€” W37
@@ -278,3 +281,8 @@ Engranajes: transmisiÃ³n precisa.
 Velocidades: relaciÃ³n de engranajes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

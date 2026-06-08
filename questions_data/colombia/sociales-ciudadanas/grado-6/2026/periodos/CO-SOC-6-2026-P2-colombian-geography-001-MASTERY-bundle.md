@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Colombian geography, regions, departments, capitals, climate zones, biodiversity"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Colombian Geography
@@ -241,3 +244,8 @@ The longest river in Colombia is ___.
 The Magdalena River is ~1,528 km long, the longest entirely in Colombia.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

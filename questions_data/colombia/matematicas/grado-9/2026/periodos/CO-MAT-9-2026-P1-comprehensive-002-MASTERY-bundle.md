@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecuaciones cuadráticas, función cuadrática vértice, sistemas de ecuaciones 2x2, modelación algebraica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecuaciones Cuadráticas y Sistemas de Ecuaciones
@@ -336,3 +339,8 @@ $h(t) = -5t^2 + 30t = -5t(t-6)$. Las raíces son $t=0$ (lanzamiento) y $t=6$ (ca
 
 ### Explicación Pedagógica
 Para $C(x) = x^2 - 12x + 50$ con $a = 1 > 0$, el vértice representa el mínimo. $x_v = -\frac{-12}{2(1)} = 6$ L/min. $C(6) = 36 - 72 + 50 = 14$ mil COP. El ingeniero tiene toda la razón.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

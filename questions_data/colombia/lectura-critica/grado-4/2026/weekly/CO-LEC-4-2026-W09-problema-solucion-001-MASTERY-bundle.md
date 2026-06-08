@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "problema, solución, conflicto, resolución"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W09: Identificar el problema y la solución
@@ -234,3 +237,8 @@ Estructura incompleta.
 
 ### Explicación Pedagógica Final
 Bundle problema-solución.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

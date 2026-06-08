@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Deberes ciudadanos según la Constitución Política de Colombia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Constitución — Deberes ciudadanos
@@ -236,3 +239,8 @@ Diseña una cartelera para tu salón que recuerde los principales deberes de los
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W27, explica los deberes ciudadanos según la Constitución de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

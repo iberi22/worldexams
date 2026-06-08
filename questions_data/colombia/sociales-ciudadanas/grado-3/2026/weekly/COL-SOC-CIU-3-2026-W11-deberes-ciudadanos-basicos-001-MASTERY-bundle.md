@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "deberes_ciudadanos, constitucion, respeto_leyes, participacion_ciudadana, civismo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Deberes Ciudadanos Basicos
@@ -181,3 +184,8 @@ Un ciudadano dice: "Yo no vote, para que sirve votar?" Que le respondes?
 
 ### Explicacion Pedagogica
 El voto es el mecanismo fundamental de la democracia. Al votar, los ciudadanos eligen a sus gobernantes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

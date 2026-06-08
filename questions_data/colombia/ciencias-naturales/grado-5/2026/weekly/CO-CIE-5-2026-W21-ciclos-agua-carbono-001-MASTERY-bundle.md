@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ciclo del agua, ciclo del carbono"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Ciclos del Agua y del Carbono
@@ -238,3 +241,8 @@ El CO₂ se convierte en glucosa.
 ### Explicación Pedagógica
 
 Todos los seres vivos liberan CO₂ al respirar.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 7
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Personajes en la Narración
@@ -199,3 +202,8 @@ Si tuvieras que describir a la gallina al final de la historia, ¿qué adjetivo 
 
 ### Explicación Pedagógica
 Evaluar el comportamiento de un personaje y asignarle un rasgo de personalidad basado en el resultado de sus acciones desarrolla el juicio crítico. El estudiante debe valorar la inteligencia de la gallina por encima de su debilidad física inicial.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

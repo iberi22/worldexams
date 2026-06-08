@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "servicios_publicos, agua, energia_electrica, gas, acueducto, alcantarillado, comunidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Servicios Publicos en Mi Comunidad
@@ -181,3 +184,8 @@ Un nino dice: "Yo pago el recibo, puedo gastar el agua que quiera". ?Que opinas?
 
 ### Explicacion Pedagogica
 El agua es un recurso natural limitado. Debemos cuidarla aunque paguemos por ella, porque es responsabilidad de todos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

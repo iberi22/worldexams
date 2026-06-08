@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of animals (pets, farm, wild), fruits, vegetables, and morning routines."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W20: Repaso Periodo 4 (A1)
@@ -181,3 +184,8 @@ What is **"Despertarse"**?
 
 ### Explicación Pedagógica
 Despertarse se dice "wake up".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

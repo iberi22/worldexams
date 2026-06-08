@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "modal verbs for deduction, B1 reading comprehension"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Modal Verbs for Deduction and B1 Reading (CEFR B1)
@@ -350,3 +353,8 @@ What can Carlos be thinking?
 
 ### Explicación Pedagógica
 This question combines reading comprehension with modal verb use. Understanding the situation (woke up late, exam soon, 30 min away) leads to the logical conclusion: he must hurry and can't be late.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

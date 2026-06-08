@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso del período 1: números de 4 cifras, valor posicional, comparación, orden, redondeo, suma y resta con números hasta 9.999"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Período 1 — Grado 4
@@ -269,3 +272,8 @@ Todos tienen 3 UM. Comparamos centenas: 3.125 → 1 centena, 3.215 → 2 centena
 ### Explicación Pedagógica
 Para redondear 5.890 a la UM, miramos las centenas: 8. Como 8 ≥ 5, aumentamos las UM de 5 a 6. Centenas, decenas y unidades se vuelven 0. Resultado: 6.000. Además, la distancia a 6.000 es 110, mientras que a 5.000 es 890. Luisa tiene la razón.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

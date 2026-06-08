@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "ecosistemas colombianos, selva tropical, pÃ¡ramo, caracterÃ­sticas, biodiversidad"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecosistemas colombianos: selva y pÃ¡ramo â€” Grado 4 â€” W18
@@ -278,3 +281,8 @@ PÃ¡ramo: regulaciÃ³n hÃ­drica.
 Selva: condiciones Ã³ptimas para vida.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

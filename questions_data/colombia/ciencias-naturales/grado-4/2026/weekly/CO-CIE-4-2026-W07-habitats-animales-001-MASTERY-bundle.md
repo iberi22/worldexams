@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Hábitats de animales: terrestre, acuático, aéreo; adaptaciones de los animales a su hábitat; hábitats colombianos (selva, páramo, manglar, océano, río); cadena alimenticia básica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Hábitats de Animales — Grado 4
@@ -268,3 +271,8 @@ La **deforestación** (tala de árboles) destruye el hábitat de muchos animales
 
 ### Explicación Pedagógica
 El **páramo de Sumapaz** (Cundinamarca) es un ecosistema de alta montaña, con temperaturas cercanas a 0°C, vegetación de frailejones y pajonales. La **selva amazónica** (Amazonas, Caquetá, Putumayo) es cálida (28°C promedio) y muy lluviosa, con árboles que alcanzan 50 metros. Cada hábitat tiene animales y plantas únicos adaptados a sus condiciones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

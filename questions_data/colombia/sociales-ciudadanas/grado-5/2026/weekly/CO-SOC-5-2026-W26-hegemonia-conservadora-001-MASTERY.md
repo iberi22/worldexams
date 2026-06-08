@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Colombia siglo XX: Hegemonia conservadora (1886-1930)"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Cual fue el legado de la Hegemonia Conservadora?
 La Hegemonia Conservadora centralizo el poder, modernizo parte de la infraestructura pero reprimio las protestas sociales. Sento las bases del bipartidismo del siglo XX.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

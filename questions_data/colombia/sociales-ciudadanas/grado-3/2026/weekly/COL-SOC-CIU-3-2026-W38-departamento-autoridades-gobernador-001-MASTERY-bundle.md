@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "departamento, gobernador, gobierno_regional, asamblea_departamental"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Departamento y sus Autoridades: El Gobernador
@@ -181,3 +184,8 @@ Por que Colombia esta organizada en departamentos y municipios?
 
 ### Explicacion Pedagogica
 La organizacion territorial permite una administracion mas eficiente y cercana a los ciudadanos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

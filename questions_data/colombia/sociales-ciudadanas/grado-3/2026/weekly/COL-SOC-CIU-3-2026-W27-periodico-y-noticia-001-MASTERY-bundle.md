@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "periodico, noticia, prensa_escrita, periodismo, lectura_critica, medios_impresos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: El Periodico y la Noticia
@@ -181,3 +184,8 @@ El periodismo serio verifica datos y fuentes antes de publicar.
 
 ### Explicacion Pedagogica
 Es importante verificar la informacion en fuentes confiables antes de creerla.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

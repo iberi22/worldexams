@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "federalismo centralismo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Federalismo vs Centralismo: Estados Unidos de Colombia — W05
@@ -344,3 +347,8 @@ En la clase de la Institución Educativa de Medellín, los estudiantes analizan 
 ### Explicación Pedagógica
 
 El estudio de el federalismo y el centralismo en Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre el federalismo y el centralismo en Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: numbers 1-100, time, daily routines, simple present"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Review: Unit 3 - Numbers, Time, Routines (W15)
@@ -228,3 +231,8 @@ Daily routines = what you do every day: eat, sleep, brush teeth, go to school.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

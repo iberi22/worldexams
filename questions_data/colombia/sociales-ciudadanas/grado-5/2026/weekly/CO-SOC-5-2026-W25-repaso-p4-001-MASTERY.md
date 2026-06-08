@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso independencia, Gran Colombia y siglo XIX"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que es importante recordar las guerras civiles del siglo XIX?
 La historia nos muestra que la violencia politica solo trae atraso. Las guerras civiles del XIX nos ensenan la importancia del dialogo, la tolerancia y la construccion de paz.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

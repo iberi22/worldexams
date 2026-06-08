@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W19 — Sistema Circulatorio
@@ -229,3 +232,7 @@ En Colombia, se necesitan ~500,000 donaciones al año. Solo dona el 1.5% de la p
 Hábitos cardiovasculares saludables: (1) ejercicio 150 min/semana (caminar, nadar, montar bicicleta), (2) dieta DASH (baja en sodio y grasas saturadas), (3) no fumar (el tabaco daña las arterias), (4) mantener peso saludable, (5) controlar estrés y dormir 7-8 horas, (6) chequeos médicos regulares.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

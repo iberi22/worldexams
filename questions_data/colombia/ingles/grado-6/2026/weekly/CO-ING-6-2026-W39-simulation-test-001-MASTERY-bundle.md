@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "simulation exam: mixed topics, all skills, Bloom Remember-Analyze"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Simulation Test (W39)
@@ -228,3 +231,8 @@ Comparatives and superlatives: cold → colder → coldest. Bogotá is the colde
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

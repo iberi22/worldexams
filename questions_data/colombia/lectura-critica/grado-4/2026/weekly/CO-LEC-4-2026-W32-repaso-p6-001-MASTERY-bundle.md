@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "repaso: textos discontinuos, tablas, gráficas, mapas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W32: Repaso P6
@@ -234,3 +237,8 @@ Repaso aplicar.
 
 ### Explicación Pedagógica Final
 Bundle repaso P6.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

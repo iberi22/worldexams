@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Colombia siglo XX: Republica Liberal (1930-1946)"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Por que la Republica Liberal es importante para Colombia?
 La Republica Liberal modernizo el pais: reformas agrarias, educacion publica, derechos laborales, intervencion del Estado en la economia. Muchas de sus reformas aun son vigentes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

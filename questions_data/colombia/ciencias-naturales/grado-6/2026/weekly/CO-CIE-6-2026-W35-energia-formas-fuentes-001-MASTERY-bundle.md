@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W35 — Energía: Formas y Fuentes de Energía
@@ -367,3 +370,8 @@ El cambio a **bombillas LED** es una de las medidas de ahorro energético más e
 - **Desconectar "vampiros energéticos"**: cargadores, televisores en stand-by (consumen ~5-10% de su consumo normal)
 - **En Colombia**: la estrategia "Apagar Paga" del Gobierno promueve el ahorro. La CREG (Comisión de Regulación de Energía y Gas) regula las tarifas. El estrato socioeconómico afecta el subsidio (estratos 1-3 reciben subsidio; 5-6 pagan contribución extra)
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

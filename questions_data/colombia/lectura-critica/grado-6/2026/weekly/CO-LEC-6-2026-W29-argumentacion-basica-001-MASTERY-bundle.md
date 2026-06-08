@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W29 — Argumentación Básica
@@ -271,3 +274,8 @@ Imagina que debes escribir una carta al rector de tu colegio pidiendo que instal
 Para evaluar la calidad de un argumento, pregúntate: 1) ¿Se basa en hechos o solo en opiniones? 2) ¿Ofrece beneficios concretos? 3) ¿Considera a quién va dirigido? 4) ¿Es específico o demasiado general? Los mejores argumentos combinan datos objetivos con un beneficio claro para la persona o institución a la que se dirige el mensaje. Esta habilidad es esencial para escribir textos persuasivos efectivos.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

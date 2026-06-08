@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W12 — Proporcionalidad Directa
@@ -260,3 +263,8 @@ x=4, y=10 → y/x = 10/4 = 2,5
 x=6, y=15 → y/x = 15/6 = 2,5
 x=8, y=20 → y/x = 20/8 = 2,5
 La constante k=2,5 se mantiene para todos los pares. SI son directamente proporcionales. y = 2,5x.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

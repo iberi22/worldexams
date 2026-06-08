@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "informative texts, expository, main idea, supporting details, text structure"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Informative Texts
@@ -241,3 +244,8 @@ A good summary should ___.
 Summaries condense the main ideas without adding personal opinions.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

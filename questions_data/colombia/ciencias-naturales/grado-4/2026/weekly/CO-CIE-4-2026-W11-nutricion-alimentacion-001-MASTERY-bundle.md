@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "nutriciÃ³n, alimentaciÃ³n saludable, carbohidratos, proteÃ­nas, grasas, vitaminas, minerales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: NutriciÃ³n y alimentaciÃ³n saludable â€” Grado 4 â€” W11
@@ -278,3 +281,8 @@ Exceso azÃºcar: problemas de salud.
 Variedad: cobertura nutricional.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

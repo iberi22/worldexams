@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: places, directions, transportation, city vocabulary"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Town and Transport Review (W36)
@@ -228,3 +231,8 @@ Comparative: faster than (más rápido que), slower than (más lento que). Metro
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "bioquimica_macromoleculas, pH_acidos_bases, MCU, MCUV, fuerzas_centripetas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Bioquímica Intro, Ácidos y Bases, Movimiento Circular
@@ -462,3 +465,8 @@ Evalúa la afirmación del estudiante sobre las concentraciones de OH⁻.
 - [x] B) Es correcta. pH+pOH=14. X: [OH⁻]=10⁻¹²; Z: [OH⁻]=10⁻². Z/X=10⁻²/10⁻¹²=10¹⁰. <!-- feedback: Correcto. X: pH=2, pOH=12, [OH⁻]=10⁻¹². Y: pH=7, pOH=7, [OH⁻]=10⁻⁷. Z: pH=12, pOH=2, [OH⁻]=10⁻². 10⁻²/10⁻¹²=10¹⁰. -->
 - [ ] C) Es falsa; la concentración de OH⁻ en Z es 10⁴ veces mayor. <!-- feedback: Incorrecto. Posible confusión con [H⁺]. -->
 - [ ] D) Es correcta; pero solo si las soluciones están a 25°C. <!-- feedback: Correcto también. La relación pH+pOH=14 solo es válida a 25°C, aunque a temperatura ambiente es una buena aproximación. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

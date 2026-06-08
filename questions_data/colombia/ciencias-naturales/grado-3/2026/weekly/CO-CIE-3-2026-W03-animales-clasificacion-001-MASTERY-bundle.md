@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Clasificación de animales: vertebrados (esqueleto interno) e invertebrados (sin esqueleto interno)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Clasificación de los Animales: Vertebrados e Invertebrados
@@ -267,3 +270,8 @@ Tener huesos internos (ser vertebrado) permite un crecimiento constante y suave.
 ### Explicación Pedagógica
 
 La clasificación científica se basa en características fundamentales de la estructura del cuerpo. Sin importar dónde viva, qué coma o cómo nazca, si un animal posee una columna vertebral, siempre será clasificado como un vertebrado.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

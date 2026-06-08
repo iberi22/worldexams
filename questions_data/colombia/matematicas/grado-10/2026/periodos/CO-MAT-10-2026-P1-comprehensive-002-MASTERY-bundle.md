@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "recta_parametrizacion_vectorial, producto_punto_vectores, circunferencia_y_elipse, propiedades_logaritmos, ecuaciones_logaritmicas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY Grado 10 — Matematicas, Periodo 1, Bundle 002
@@ -504,3 +507,8 @@ Sustituyendo: \((x-2)^2 + y^2 + (x+2)^2 + y^2 = 20\)
 
 El lugar geometrico es una circunferencia con centro en el origen y radio \(\sqrt{6}\). Note que aunque los focos recuerdan a una elipse, la condicion es diferente: suma de cuadrados de distancias, no suma de distancias.
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

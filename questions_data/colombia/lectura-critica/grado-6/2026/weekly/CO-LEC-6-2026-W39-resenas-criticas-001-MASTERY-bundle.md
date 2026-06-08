@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W39 — Reseñas Críticas
@@ -274,3 +277,8 @@ La diferencia entre "me gustó" (opinión) y "es una buena obra porque..." (crí
 
 Una reseña útil ayuda al lector a tomar una decisión informada. Para eso debe: (a) describir de qué trata la obra sin spoilers, (b) evaluar diferentes aspectos (historia, actuación, producción), (c) señalar tanto lo bueno como lo mejorable, y (d) indicar para qué tipo de persona es recomendada. La utilidad de una reseña no está en estar de acuerdo con ella, sino en que aporte información para decidir.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

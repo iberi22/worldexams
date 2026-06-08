@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Relaciones interespecíficas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Relaciones en los Ecosistemas
@@ -216,3 +219,8 @@ Forma ciudadanos responsables.
 ### Explicación Pedagógica
 
 Reúne países para acordar acciones climáticas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

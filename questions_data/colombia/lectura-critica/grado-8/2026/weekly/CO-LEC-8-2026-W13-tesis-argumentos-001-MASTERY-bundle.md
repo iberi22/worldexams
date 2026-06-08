@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "tesis, argumentos, premisas, conclusion, evidencia, razonamiento, debate fundamentado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G8 — La Jornada Escolar Unica en Colombia
@@ -185,3 +188,7 @@ Debate demuestra:
 
 ### Explicación Pedagógica Final
 Bundle para grado 8 — Semana 13. Tema: Tesis Argumentos. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "textos continuos, textos discontinuos, graficas, tablas, infografias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Continuos y Discontinuos — Grado 10
@@ -251,3 +254,8 @@ La discrepancia requiere verificar fuentes; puede ser error de representación.
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W08. Tema: Textos Continuos y Discontinuos. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

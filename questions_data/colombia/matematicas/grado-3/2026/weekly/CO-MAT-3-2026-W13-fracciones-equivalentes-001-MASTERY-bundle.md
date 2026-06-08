@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fracciones equivalentes, misma cantidad representada de diferentes formas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W13: Fracciones Equivalentes
@@ -223,3 +226,8 @@ En Gimnasio Campestre de Tunja de Bucaramanga, un estudiante coloreo 3/5 de un d
 El total es 5/5. Coloreo 3/5. Falta: 5/5 - 3/5 = 2/5.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

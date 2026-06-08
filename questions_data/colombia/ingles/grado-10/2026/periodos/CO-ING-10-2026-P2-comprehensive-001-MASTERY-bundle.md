@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "argumentative_writing, phrasal_verbs, opinion_essay, linkers, two_part_verbs"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: Ingles Grado 10 - Periodo 2
@@ -362,3 +365,8 @@ Which response BEST uses argumentative structure at B1 level?
 
 ### Explicacion Pedagogica
 Option B demonstrates B1 mastery: (1) Clear thesis implied (students should learn a third language), (2) Supporting points with 'Firstly' and 'Moreover,' (3) Counterargument with 'On the other hand,' (4) Rebuttal with 'However,' (5) Conclusion with 'Therefore.' This structure and linking word variety is expected for grade 10 B1 writing.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

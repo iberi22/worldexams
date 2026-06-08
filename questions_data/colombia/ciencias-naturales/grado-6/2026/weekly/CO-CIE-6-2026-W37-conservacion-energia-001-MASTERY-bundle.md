@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W37 — Conservación de la Energía
@@ -424,3 +427,8 @@ La quema de combustibles fósiles contribuye al calentamiento global por dos mec
 - **Electrificación**: vehículos eléctricos, bombas de calor (pueden usar electricidad de fuentes limpias)
 - En Colombia, el gobierno se comprometió a reducir emisiones de CO₂ en 51% para 2030 (Acuerdo de París)
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

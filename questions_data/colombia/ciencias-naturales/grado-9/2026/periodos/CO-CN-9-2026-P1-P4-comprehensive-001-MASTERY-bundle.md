@@ -21,6 +21,9 @@ coverage:
   - "P2: Física — Cinemática, MRU, MRUV, gráficas de movimiento"
   - "P3: Biología — Reproducción celular, mitosis, meiosis"
   - "P4: Biología — Reproducción humana, sistemas del cuerpo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciencias Naturales Grado 9 — Periodos 1–4
@@ -354,3 +357,8 @@ Relacionando conceptos de biología (reproducción humana, sistema endocrino) co
 
 ### Explicación Pedagógica
 La educación sexual integral (ESI) combina el conocimiento científico del sistema reproductor, el ciclo hormonal y la anticoncepción con habilidades para la vida como la comunicación asertiva, la toma de decisiones informadas y la construcción de un proyecto de vida. Este enfoque biopsicosocial ha demostrado reducir el embarazo adolescente y la deserción escolar asociada en países como Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

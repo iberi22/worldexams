@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "actividades_economicas, campo, agricultura, ganaderia, pesca, economia_rural"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Actividades Economicas del Campo
@@ -181,3 +184,8 @@ Las vias terciarias en mal estado dificultan sacar productos al mercado, causand
 
 ### Explicacion Pedagogica
 Mejorar vias terciarias y dar capacitacion permite a campesinos transportar productos a mejores precios.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

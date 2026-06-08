@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 13
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Instrucciones y Recetas
@@ -219,3 +222,8 @@ Un niño está siguiendo las instrucciones para armar un juguete de bloques. El 
 
 ### Explicación Pedagógica
 Evaluar los diferentes lenguajes (verbal y visual) en los textos instructivos es parte de la alfabetización multimodal. El estudiante debe reconocer la utilidad práctica de las imágenes como apoyo a la acción.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "mapas_tipos_elementos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Mapas: Tipos y Elementos
@@ -190,3 +193,8 @@ Proyeccion cartografica mas conocida?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Mercator (1569): distorsiona areas cerca a polos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

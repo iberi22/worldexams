@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "economia_distribucion_consumo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Economia: Distribucion y Consumo
@@ -190,3 +193,8 @@ Presupuesto familiar incluye:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

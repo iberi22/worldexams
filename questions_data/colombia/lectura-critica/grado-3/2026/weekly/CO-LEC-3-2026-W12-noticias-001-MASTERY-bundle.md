@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 12
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Noticia
@@ -207,3 +210,8 @@ Lee estas dos formas de dar la misma noticia:
 
 ### Explicación Pedagógica
 Distinguir entre información objetiva y opiniones es una de las metas más importantes de la lectura crítica. El estudiante debe reconocer que el lenguaje neutro y los datos precisos son propios de la buena información periodística.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

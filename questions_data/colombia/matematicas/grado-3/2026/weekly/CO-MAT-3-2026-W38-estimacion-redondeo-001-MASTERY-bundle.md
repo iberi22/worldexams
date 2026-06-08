@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "estimacion de cantidades, redondeo a decenas y centenas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W38: Estimacion y Redondeo
@@ -223,3 +226,8 @@ Estima: 198 + 301 es aproximadamente cuanto?
 Redondea cada numero: 198~200, 301~300. Suma: 200+300=500.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

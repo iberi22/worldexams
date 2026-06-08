@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Introducción a la luz y el sonido: fuentes, propagación y percepción sensorial."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Luz y el Sonido
@@ -267,3 +270,8 @@ El eco es como el reflejo de un espejo, pero para los oídos. Las ondas de sonid
 ### Explicación Pedagógica
 
 Esta es una gran diferencia: la luz SÍ puede viajar por el vacío (por eso vemos el sol y las estrellas), pero el sonido es "tímido" y necesita materia (aire, agua, metal) para poder moverse. En el espacio reina el silencio absoluto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

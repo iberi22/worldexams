@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "resumen, síntesis, ideas principales, condensar información"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W38: Resumir información de un texto
@@ -234,3 +237,8 @@ Practicar.
 
 ### Explicación Pedagógica Final
 Bundle resumir.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "region costena siglo19"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Región Caribe S.XIX: Cartagena y comercio — W38
@@ -344,3 +347,8 @@ Según los datos oficiales más recientes, ¿cuál es la tendencia principal rel
 ### Explicación Pedagógica
 
 El estudio de la región Caribe en el siglo XIX es fundamental para comprender la realidad colombiana. Según los datos oficiales más recientes, ¿cuál es la tendencia principal relacionada con la región Caribe en el siglo XIX en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

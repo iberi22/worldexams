@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El ciclo del agua: evaporación, condensación, precipitación e infiltración. Importancia para la vida."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Ciclo del Agua
@@ -267,3 +270,8 @@ La Tierra es como una nave espacial cerrada. No nos llega agua de otros planetas
 ### Explicación Pedagógica
 
 El ciclo del agua depende de los ecosistemas. Si quitamos los árboles, hay menos transpiración, lo que significa menos nubes y menos lluvia para todos, incluso si el mar está cerca. Los bosques son "bombas de agua" para el ciclo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

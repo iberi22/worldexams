@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Lectura básica de mapas, planos y coordenadas geográficas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Dos estudiantes comparan dos mapas de Colombia. Uno es un mapa político (escala
 Entre más grande es la escala (denominador más pequeño), más detalle se muestra. El plano de Bogotá (1:25.000) tiene una escala más grande que el mapa de Colombia (1:10.000.000), por lo que permite ver calles, parques y edificios con mayor detalle. Los mapas nacionales solo muestran ciudades, carreteras principales y accidentes geográficos grandes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

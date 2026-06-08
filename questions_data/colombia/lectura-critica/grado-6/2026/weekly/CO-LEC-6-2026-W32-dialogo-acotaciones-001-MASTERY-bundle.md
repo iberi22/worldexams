@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W32 — Diálogo y Acotaciones
@@ -295,3 +298,8 @@ Un estudiante escribió esta escena para un concurso de teatro escolar:
 Una acotación debe ser específica y descriptiva. "Hace algo" no sirve porque no indica qué hace ni cómo. "Reacciona" no dice si se alegra, se sorprende o se enoja. Buenas acotaciones: "(Arreglando distraídamente los libros mientras habla)", "(Con una sonrisa nerviosa)", "(Mirando el reloj con impaciencia)". Piensa: si esta acotación fuera la única instrucción para el actor, ¿sabría exactamente qué hacer?
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

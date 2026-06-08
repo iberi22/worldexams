@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for extended family members: grandfather, grandmother, uncle, aunt, cousin."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W09: Family Members 2 (A1)
@@ -221,3 +224,8 @@ How do you say **"Mi familia"**?
 
 ### Explicación Pedagógica
 "My" significa mi. Por lo tanto, "My family" es mi familia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

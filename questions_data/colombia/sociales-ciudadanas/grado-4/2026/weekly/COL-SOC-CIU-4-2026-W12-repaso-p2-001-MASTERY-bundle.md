@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso del segundo período: organización territorial, departamentos y capitales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P2
@@ -246,3 +249,7 @@ Se evalúa [Create].
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W12, aborda el tema de Repaso P2 desde una perspectiva colombiana.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

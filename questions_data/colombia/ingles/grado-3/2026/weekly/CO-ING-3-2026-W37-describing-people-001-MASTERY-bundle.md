@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Basic adjectives for describing people: tall, short, happy, sad, old, young."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W37: Describing People (A1)
@@ -221,3 +224,8 @@ What is the opposite of **"Happy"**?
 
 ### Explicación Pedagógica
 El opuesto de "happy" (feliz) es "sad" (triste).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

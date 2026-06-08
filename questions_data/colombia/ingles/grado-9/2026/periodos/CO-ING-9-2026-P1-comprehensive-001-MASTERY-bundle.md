@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Past perfect tense, second conditional, reported speech introduction, backshift of tenses, embedded questions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: English Period 1 – Past Perfect, Conditionals & Reported Speech
@@ -344,3 +347,8 @@ A student writes: "If the government would invest more in education, the country
 
 ### Explicación Pedagógica
 Common mistakes with conditionals: putting "would" in the if-clause (✗ If I would have time), or mixing structures inconsistently. Remember: "would" only goes in the result clause, not the if-clause.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

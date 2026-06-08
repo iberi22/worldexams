@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W24 -- Estadistica: Medidas de Tendencia Central (Parte 2 - Mediana)
@@ -185,3 +188,7 @@ Datos: 2, 4, 4, 6, 8, 8, 8, 10. Media, mediana y moda?
 
 ### Explicacion Pedagogica
 Suma=50, media=6.25. 8 datos: medianas=(6+8)/2=7. Moda=8.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

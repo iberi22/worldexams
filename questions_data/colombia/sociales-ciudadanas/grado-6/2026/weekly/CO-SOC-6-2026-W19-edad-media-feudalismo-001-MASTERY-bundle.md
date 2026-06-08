@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "edad_media_feudalismo"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Edad Media: El Feudalismo
@@ -190,3 +193,8 @@ Que hacia la nobleza en la sociedad feudal?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

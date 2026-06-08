@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W34 — Fuentes Confiables
@@ -286,3 +289,8 @@ Ordénalas de MÁS confiable a MENOS confiable:
 Evaluar fuentes requiere considerar múltiples factores: 1) AUTORIDAD: ¿el autor o institución tiene credenciales en el tema? 2) CONFIABILIDAD: ¿la información pasa por procesos de verificación? 3) ACTUALIDAD: ¿es reciente? 4) SESGO: ¿el autor tiene interés en que creas cierta información? 5) CONSENSO: ¿otras fuentes independientes coinciden? La jerarquía general es: instituciones científicas > universidades > gobiernos > medios serios > organizaciones con intereses > individuos sin credenciales. Pero siempre hay excepciones, por eso hay que evaluar caso por caso.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

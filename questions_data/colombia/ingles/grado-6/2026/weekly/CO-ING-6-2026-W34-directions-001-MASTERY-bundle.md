@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "giving directions, prepositions of movement, imperative for directions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Giving Directions (W34)
@@ -228,3 +231,8 @@ Block = cuadra (the street segment between two intersections). "Two blocks" = do
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

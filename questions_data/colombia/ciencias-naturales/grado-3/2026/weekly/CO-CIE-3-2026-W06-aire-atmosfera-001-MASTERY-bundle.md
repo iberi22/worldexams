@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El aire como recurso natural, composición de la atmósfera e importancia para la vida."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Aire y la Atmósfera
@@ -267,3 +270,8 @@ La atmósfera tiene diferentes niveles. El ozono se encuentra en la estratosfera
 ### Explicación Pedagógica
 
 El aire es el tercer elemento indispensable para la vida terrestre junto con el agua y el alimento. La atmósfera no solo nos da qué respirar, sino que es el "traje espacial" natural que permite que la Tierra sea un lugar habitable y seguro.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

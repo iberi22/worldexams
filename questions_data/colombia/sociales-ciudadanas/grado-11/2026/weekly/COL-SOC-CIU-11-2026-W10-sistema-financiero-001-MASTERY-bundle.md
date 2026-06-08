@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "sistema financiero"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Sistema financiero: Banco de la República, banca y fintech — W10
@@ -560,3 +563,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de el el sistema financiero colombiano colombiano es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre el el sistema financiero colombiano colombiano es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

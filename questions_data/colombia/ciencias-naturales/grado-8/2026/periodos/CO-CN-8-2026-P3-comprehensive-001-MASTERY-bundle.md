@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "evolución, selección natural, tabla periódica, propiedades periódicas, ondas, sonido"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Evolución, Tabla Periódica y Ondas-Sonido
@@ -336,3 +339,8 @@ La selección natural opera a nivel del individuo (supervivencia y reproducción
 
 ### Explicación Pedagógica
 La escala de decibelios (dB) es logarítmica: cada aumento de 10 dB representa 10 veces más intensidad. La exposición prolongada por encima de 85 dB puede causar pérdida auditiva. A 120 dB, el daño puede ocurrir en minutos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "cuentos, fábulas, moraleja, narración"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W13: Textos narrativos: cuentos y fábulas
@@ -234,3 +237,8 @@ Evaluar final.
 
 ### Explicación Pedagógica Final
 Bundle cuentos y fábulas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

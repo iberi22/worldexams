@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "tipología textual (narrativa, argumentativa), inferencia local y global, estructura textual, coherencia y cohesión"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Narrativos, Argumentativos e Inferencia Lectora
@@ -336,3 +339,8 @@ El modelo interactivo de lectura sostiene que el significado no está solo en el
 
 ### Explicación Pedagógica
 Esta es una generalización apresurada (sacada de contexto) y posiblemente un argumento por estadística engañosa. Evaluar un sistema educativo requiere múltiples indicadores (comprensión lectora, matemáticas, ciencias, acceso, equidad), no una sola habilidad específica.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

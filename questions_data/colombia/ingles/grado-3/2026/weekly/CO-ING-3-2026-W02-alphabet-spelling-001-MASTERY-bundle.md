@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Alphabet recognition, letter sounds, and basic spelling of 3-4 letter words."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W02: Alphabet and Spelling (A1)
@@ -221,3 +224,8 @@ Which word is spelled correctly?
 
 ### Explicación Pedagógica
 "Pencil" (lápiz) se escribe P-E-N-C-I-L. Es importante memorizar la escritura de objetos escolares comunes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

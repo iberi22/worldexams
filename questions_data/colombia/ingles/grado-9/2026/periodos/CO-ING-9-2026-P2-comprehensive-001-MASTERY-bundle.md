@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Passive voice in all tenses, basic phrasal verbs, opinion writing structure, thesis statement for opinion essays"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: English Period 2 – Passive Voice, Phrasal Verbs & Opinion Writing
@@ -345,3 +348,8 @@ What is wrong with this paragraph and how should it be improved?
 
 ### Explicación Pedagógica
 Active voice: subject → action → object (I bought a ticket). Passive voice: object → action → agent (A ticket was bought by me). Overusing passive when the agent is known creates weak, indirect writing. In opinion writing, use active voice for clarity and conviction.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

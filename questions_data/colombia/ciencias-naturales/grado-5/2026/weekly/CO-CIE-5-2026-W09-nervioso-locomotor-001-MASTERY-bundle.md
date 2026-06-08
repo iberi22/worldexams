@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Neuronas, sistema nervioso, huesos, músculos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Sistema Nervioso y Locomotor
@@ -238,3 +241,8 @@ Lesiones en el bulbo son mortales.
 ### Explicación Pedagógica
 
 Conecta el cerebro con el resto del cuerpo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of telling time, afternoon/evening routines, school subjects, and sports."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W35: Repaso Periodo 7 (A1)
@@ -181,3 +184,8 @@ What do you eat at **7:00 PM**?
 
 ### Explicación Pedagógica
 Cenamos (dinner) por la noche.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

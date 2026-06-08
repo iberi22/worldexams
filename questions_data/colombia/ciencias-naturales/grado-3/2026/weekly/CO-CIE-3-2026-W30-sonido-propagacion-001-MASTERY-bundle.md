@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Propagación del sonido: medios de transmisión (sólido, líquido, gaseoso) y cualidades del sonido (tono e intensidad)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Propagación del Sonido
@@ -267,3 +270,8 @@ Los murciélagos tienen un radar natural. Al analizar cómo rebota su propio gri
 ### Explicación Pedagógica
 
 En la acústica (ciencia del sonido), no siempre es bueno que el sonido rebote. En lugares como cines o teatros, se usan alfombras y telas en las paredes para "atrapar" el sonido y que la experiencia sea clara y agradable.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

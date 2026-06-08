@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "resta de numeros de 4 cifras con prestado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W27: Resta con 4 Cifras
@@ -223,3 +226,8 @@ En el recreo hay 8 mesas con 4 sillas cada una. Total sillas?
 8 mesas x 4 sillas = 8x4 = 32 sillas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

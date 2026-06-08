@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Patrimonio cultural inmaterial: carnavales, fiestas y tradiciones colombianas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Patrimonio cultural inmaterial — Carnavales y fiestas
@@ -236,3 +239,8 @@ Diseña una celebración para tu colegio que rescate una tradición cultural col
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W22, aborda el patrimonio cultural inmaterial de Colombia: carnavales, fiestas y tradiciones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

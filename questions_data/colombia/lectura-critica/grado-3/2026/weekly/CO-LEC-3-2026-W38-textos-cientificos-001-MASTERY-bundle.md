@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 38
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Científicos Infantiles
@@ -199,3 +202,8 @@ Lees en una revista infantil: "**Se ha descubierto un nuevo animal en la selva d
 
 ### Explicación Pedagógica
 Evaluar la confiabilidad de la información científica es una competencia crítica vital. El estudiante debe reconocer cuándo un texto carece de los estándares mínimos de la ciencia (pruebas y autoridad).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

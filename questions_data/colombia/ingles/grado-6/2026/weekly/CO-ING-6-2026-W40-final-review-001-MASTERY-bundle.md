@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "final comprehensive review: all topics W01-W39, year-end assessment simulation"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Final Review (W40)
@@ -228,3 +231,8 @@ Year summary: greetings, classroom objects, family, possessives, numbers, time, 
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

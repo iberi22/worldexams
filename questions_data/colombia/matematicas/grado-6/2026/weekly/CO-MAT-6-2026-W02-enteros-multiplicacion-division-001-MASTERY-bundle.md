@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W02 â€” Numeros Enteros: Multiplicacion y Division
@@ -276,3 +279,8 @@ Analicemos la situacion:
 - Como Valentina DEBE ese dinero (no lo tiene), la deuda se representa como -$120,000.
 
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W13 — Cadenas y Redes Alimenticias (Parte 2)
@@ -248,3 +251,7 @@ La **sobrepesca** tiene efectos en cascada en el ecosistema acuático. El bagre 
 Soluciones: vedas (temporadas de prohibición de pesca), tallas mínimas, repoblación con alevinos, y creación de áreas protegidas acuáticas.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

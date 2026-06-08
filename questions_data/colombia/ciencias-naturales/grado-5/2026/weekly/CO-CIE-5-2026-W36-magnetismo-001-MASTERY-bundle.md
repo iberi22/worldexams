@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Imanes, campo magnético, electroimanes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Magnetismo y Electroimanes
@@ -238,3 +241,8 @@ La IRM usa potentes imanes y ondas de radio.
 ### Explicación Pedagógica
 
 Las aves migratorias y tortugas marinas lo usan.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

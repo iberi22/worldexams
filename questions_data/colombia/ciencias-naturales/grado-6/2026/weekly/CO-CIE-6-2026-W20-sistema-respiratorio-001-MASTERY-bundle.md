@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W20 — Sistema Respiratorio
@@ -229,3 +232,7 @@ En ciudades como Bogotá, Medellín y Cali, los vehículos son la principal fuen
 Para proteger los pulmones: (1) no fumar ni vapear (el vaping también daña los pulmones), (2) ejercicio aeróbico fortalece la capacidad pulmonar, (3) evitar lugares contaminados, (4) vacunarse contra influenza y COVID-19, (5) mantener buena postura para que los pulmones se expandan bien, (6) lavado de manos para prevenir infecciones respiratorias.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

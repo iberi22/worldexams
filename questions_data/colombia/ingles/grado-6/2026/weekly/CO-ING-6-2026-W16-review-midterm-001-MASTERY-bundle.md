@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "comprehensive review: units 1-3, greetings through daily routines"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Midterm Review (W16)
@@ -227,3 +230,8 @@ Negative simple present: I don't, you don't, he/she/it doesn't. After doesn't, t
 Calculate time difference: go to school (7 AM) - get up (5 AM) = 2 hours. In this time: breakfast, brush teeth, get dressed.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

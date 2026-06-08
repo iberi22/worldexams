@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Composición del suelo: materia orgánica (humus), materia inorgánica (rocas, arena, arcilla), aire y agua."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # ¿De qué está hecho el suelo?
@@ -267,3 +270,8 @@ Cada ecosistema tiene un suelo diferente. Las plantas de playa, como las palmera
 ### Explicación Pedagógica
 
 El suelo es un recurso natural no renovable a escala humana (tarda cientos de años en formarse un solo centímetro). Es la base de la seguridad alimentaria y del equilibrio del clima. Proteger el suelo es proteger la vida misma.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

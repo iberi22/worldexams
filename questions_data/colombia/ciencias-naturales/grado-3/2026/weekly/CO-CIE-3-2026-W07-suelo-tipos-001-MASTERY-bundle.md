@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Tipos de suelo: arenosos, arcillosos y humíferos. Características y usos."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Tipos de Suelos
@@ -267,3 +270,8 @@ Este es el peligro de la deforestación. Los árboles no solo viven en el suelo,
 ### Explicación Pedagógica
 
 En la ciencia evitamos decir "bueno" o "malo". Decimos "adecuado para un fin". El suelo arenoso es excelente para los cactus y para construir casas con buen drenaje; el arcilloso es vital para mantener humedales y hacer ladrillos. La diversidad de suelos permite la diversidad de vida.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

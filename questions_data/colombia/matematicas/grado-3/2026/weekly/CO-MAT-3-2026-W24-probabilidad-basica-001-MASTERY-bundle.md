@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "eventos seguros, posibles e imposibles"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W24: Probabilidad Basica
@@ -223,3 +226,8 @@ En un pictograma, cada cara feliz representa 2 estudiantes. Hay 5 caras. Cuantos
 Pictograma: cada simbolo tiene un valor. 5 caras x 2 estudiantes = 10.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Review of greetings, alphabet, numbers 1-20, and colors."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W05: Repaso Periodo 1 (A1)
@@ -181,3 +184,8 @@ Which color is **"Verde"**?
 
 ### Explicación Pedagógica
 Verde en inglés se dice "green".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

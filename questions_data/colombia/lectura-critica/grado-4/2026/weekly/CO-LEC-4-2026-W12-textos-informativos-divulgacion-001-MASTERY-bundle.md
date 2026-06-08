@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "divulgación, texto expositivo, información científica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W12: Textos informativos: artículos de divulgación
@@ -234,3 +237,8 @@ Reconocer propósito.
 
 ### Explicación Pedagógica Final
 Bundle divulgación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

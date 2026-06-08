@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "normas_convivencia, normas_casa, normas_escuela, derechos_deberes, resolucion_conflictos, respeto_mutuo, convivencia_pacifica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Normas en Casa y en la Escuela
@@ -197,3 +200,8 @@ En la clase de Sociales, los estudiantes proponen crear nuevas normas para el sa
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la comprensión de la función de las normas. Las normas de participación en el aula (levantar la mano, esperar el turno, no interrumpir) no existen para limitar la expresión, sino para garantizar que todos puedan expresarse en un ambiente ordenado donde sea posible escuchar y aprender. La participación democrática implica tanto expresar ideas como respetar los espacios de los demás.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

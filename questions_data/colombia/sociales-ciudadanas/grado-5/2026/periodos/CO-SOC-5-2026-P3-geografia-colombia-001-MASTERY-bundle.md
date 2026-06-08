@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "geografía, regiones naturales, relieve, hidrografía, Andes, Amazonía, Caribe, Pacífico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Geografía de Colombia
@@ -241,3 +244,8 @@ La Amazonía colombiana incluye Amazonas, Caquetá, Putumayo, Guaviare, Vaupés 
 La ganadería extensiva es la actividad principal en la Orinoquía (Llanos Orientales).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

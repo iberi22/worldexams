@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Rama Ejecutiva del poder público: presidente, ministros, gobernadores y alcaldes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Rama Ejecutiva del poder público
@@ -236,3 +239,8 @@ Si fueras candidato a personero estudiantil, ¿qué propuestas harías para mejo
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W28, explica la Rama Ejecutiva del poder público en Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

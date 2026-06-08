@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Third conditional (past unreal), advanced reported speech (mixed tenses), argumentative writing, counterargument and rebuttal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle MASTERY: English Period 3 – Third Conditional, Advanced Reported Speech & Argumentative Writing
@@ -352,3 +355,8 @@ What transformations were applied correctly in this summary?
 
 ### Explicación Pedagógica
 Good academic reporting requires accurate backshift. When the reported information is still true (climate change is still accelerating), some writers keep the present tense to emphasize ongoing truth. But in formal academic writing, backshift is the standard.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

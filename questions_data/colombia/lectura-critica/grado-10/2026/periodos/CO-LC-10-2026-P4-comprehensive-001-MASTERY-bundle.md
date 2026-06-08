@@ -11,6 +11,9 @@ bundle_size: 20
 alignment: "DBA MEN + Pre-ICFES"
 modern_context: true
 distractor_profile: "plausible_peer_set"
+license: "FREE"
+tier: "legacy"
+
 ---
 # Bundle MASTERY: Textos Academicos Avanzados, Argumentacion Filosofica (P4)
 
@@ -233,3 +236,8 @@ distractor_profile: "plausible_peer_set"
 - [ ] B) La libertad nos permite ser felices siempre.
 - [x] C) No podemos evitar elegir, y cada eleccion nos define ante nosotros y ante los demas, generando responsabilidad absoluta.
 - [ ] D) Dios determina nuestras elecciones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

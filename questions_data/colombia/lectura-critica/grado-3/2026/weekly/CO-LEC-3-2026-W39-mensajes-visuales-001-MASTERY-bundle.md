@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 39
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mensajes Visuales
@@ -200,3 +203,8 @@ Un diseñador crea una señal para una salida de emergencia que es de **color ne
 
 ### Explicación Pedagógica
 Evaluar la efectividad de la comunicación visual en situaciones críticas permite al estudiante comprender los principios del diseño funcional. El color verde y el icono de movimiento son estándares de seguridad que el diseño fallido ignora.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

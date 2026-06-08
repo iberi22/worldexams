@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "indicadores sociales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Indicadores sociales: IDH, NBI y pobreza multidimensional — W34
@@ -290,3 +293,8 @@ En la clase de sociales del Colegio de Bogotá, el profesor inicia la explicaci�
 ### Explicación Pedagógica
 
 El estudio de los los los indicadores sociales en Colombia en Colombia en Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre los los los indicadores sociales en Colombia en Colombia en Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

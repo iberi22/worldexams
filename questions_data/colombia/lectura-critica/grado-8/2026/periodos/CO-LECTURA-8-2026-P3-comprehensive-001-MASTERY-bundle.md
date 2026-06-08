@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Literatura latinoamericana, ensayo crítico, análisis de discurso político"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Literatura Latinoamericana, Ensayo Crítico y Discurso Político
@@ -336,3 +339,8 @@ La literatura no solo entretiene: permite explorar la condición humana, conocer
 
 ### Explicación Pedagógica
 Muchos escritores latinoamericanos combinaron literatura y compromiso político: García Márquez denunció el imperialismo ("El otoño del patriarca"), Neruda escribió poesía social, Vargas Llosa criticó dictaduras. La literatura fue una forma de construir identidad y resistir culturalmente.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

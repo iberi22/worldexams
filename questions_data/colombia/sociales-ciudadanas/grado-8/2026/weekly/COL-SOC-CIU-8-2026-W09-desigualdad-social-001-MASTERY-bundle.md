@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "desigualdad social"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Desigualdad social: GINI, pobreza y brechas regionales — W09
@@ -290,3 +293,8 @@ En la clase de la Institución Educativa de Medellín, los estudiantes analizan 
 ### Explicación Pedagógica
 
 El estudio de la la la desigualdad social en Colombia en Colombia en Colombia es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la la la desigualdad social en Colombia en Colombia en Colombia es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

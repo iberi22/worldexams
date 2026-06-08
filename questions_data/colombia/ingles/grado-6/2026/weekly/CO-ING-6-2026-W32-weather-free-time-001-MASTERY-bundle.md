@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "review: weather, seasons, free time, hobbies, can/can't"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Weather and Free Time Review (W32)
@@ -228,3 +231,8 @@ Match activity to weather: cold+rainy → indoor activities (read, watch TV, dra
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

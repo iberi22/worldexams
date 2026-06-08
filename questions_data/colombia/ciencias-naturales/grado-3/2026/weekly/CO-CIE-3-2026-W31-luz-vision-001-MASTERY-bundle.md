@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "La luz y el sentido de la vista: anatomía básica del ojo y proceso de visión."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Luz y el Sentido de la Vista
@@ -267,3 +270,8 @@ Los depredadores nocturnos tienen adaptaciones especiales. Al reflejar la luz de
 ### Explicación Pedagógica
 
 La ciencia distingue entre percibir e imaginar. La percepción visual es una función de relación con el entorno actual que depende 100% de la energía física de la luz. La imaginación es un proceso creativo interno.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

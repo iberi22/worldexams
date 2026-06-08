@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 1
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Vocales y Abecedario
@@ -198,3 +201,8 @@ La maestra les muestra una lámina con la palabra **ORQUÍDEA**, que es la flor 
 
 ### Explicación Pedagógica
 Existen palabras curiosas en español llamadas "pentavocálicas" que contienen las cinco vocales. "Orquídea" es un ejemplo emblemático en Colombia. Reconocer esto requiere un escaneo visual completo y una clasificación precisa de cada grafema.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

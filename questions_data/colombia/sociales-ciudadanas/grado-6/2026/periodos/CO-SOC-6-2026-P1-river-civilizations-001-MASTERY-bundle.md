@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "river civilizations, Mesopotamia, Egypt, Indus, China, agriculture, writing, social organization"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: River Civilizations
@@ -241,3 +244,8 @@ Which legacy came from Roman civilization?
 Romans built extensive road networks and aqueducts for water supply.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

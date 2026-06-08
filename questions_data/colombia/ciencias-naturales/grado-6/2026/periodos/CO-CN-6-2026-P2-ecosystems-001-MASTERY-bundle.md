@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "ecosystems, biomes, food webs, trophic levels, energy flow, nutrient cycles"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ecosystems
@@ -241,3 +244,8 @@ The Colombian páramo is a unique ___.
 Páramos are high-altitude ecosystems in the Andes, vital water sources.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W33 — Volumen de Cuerpos Geometricos (Cubo, Prisma)
@@ -241,3 +244,8 @@ Calculamos cada volumen:
 - Caja C: V = 12 × 5 × 8 = 480 cm³ (falta 20 cm³)
 
 La Caja A es la unica que da exactamente 500 cm³, siendo la opcion optima. Este problema muestra como el volumen de un prisma rectangular puede ajustarse variando sus dimensiones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

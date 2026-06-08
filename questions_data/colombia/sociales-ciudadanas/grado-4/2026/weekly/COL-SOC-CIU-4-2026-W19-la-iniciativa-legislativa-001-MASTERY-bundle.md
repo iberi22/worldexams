@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Mecanismos de participación: la iniciativa legislativa"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La iniciativa legislativa
@@ -236,3 +239,8 @@ Diseña el borrador de una iniciativa legislativa para tu colegio que proponga u
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W19, explica la iniciativa legislativa como mecanismo de participación ciudadana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

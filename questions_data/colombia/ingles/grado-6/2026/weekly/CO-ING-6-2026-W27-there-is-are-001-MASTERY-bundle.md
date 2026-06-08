@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "there is/are, describing house and animals, prepositions of place"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: There Is / There Are (W27)
@@ -228,3 +231,8 @@ Reading: identify items in each room. Living room → TV. Kitchen → chairs.
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

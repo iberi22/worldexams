@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.70
 rubric_baseline: "Vocabulary and basic phrases for telling time: o'clock, what time is it?"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W31: Telling Time (A1)
@@ -221,3 +224,8 @@ What does **AM** mean?
 
 ### Explicación Pedagógica
 "AM" (ante meridiem) se usa para las horas de la mañana, desde la medianoche hasta el mediodía.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

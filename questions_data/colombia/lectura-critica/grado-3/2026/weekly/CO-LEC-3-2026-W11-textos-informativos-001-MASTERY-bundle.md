@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 11
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Textos Informativos
@@ -209,3 +212,8 @@ Un folleto informativo sobre salud dice: "Para evitar enfermedades, lávate las 
 
 ### Explicación Pedagógica
 Extraer conclusiones no explícitas es un nivel de lectura inferencial sobre textos informativos. El estudiante debe entender el riesgo (enfermedad) y la solución (higiene) planteados por el autor.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

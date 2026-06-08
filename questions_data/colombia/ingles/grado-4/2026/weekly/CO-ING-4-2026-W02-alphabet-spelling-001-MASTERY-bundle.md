@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Alphabet recognition, letter sounds, and basic spelling skills."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W02: Alphabet and Spelling (CEFR A1)
@@ -246,3 +249,8 @@ Put them in **alphabetical order** (A to Z). Which is correct?
 ### Explicación Pedagógica
 This question tests the skill of alphabetizing words. Students compare the first letter of each word: A(pple), B(ook), C(at), D(og). When two words start with the same letter, compare the second letter. This is a practical skill for using dictionaries and indexes.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

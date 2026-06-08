@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Higiene personal: lavado de manos, cepillado dental, baño diario, cuidado de uñas y cabello, prevención de enfermedades, microbios y gérmenes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Higiene Personal — Grado 4
@@ -268,3 +271,8 @@ La **gripa** se transmite por **gotitas de saliva** que expulsamos al estornudar
 
 ### Explicación Pedagógica
 No lavarse las manos después de ir al baño y antes de comer es una de las principales causas de **enfermedades gastrointestinales** como diarrea, cólicos e infecciones por parásitos. Las heces contienen bacterias como la *E. coli* que pueden causar enfermedades graves, especialmente en niños.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

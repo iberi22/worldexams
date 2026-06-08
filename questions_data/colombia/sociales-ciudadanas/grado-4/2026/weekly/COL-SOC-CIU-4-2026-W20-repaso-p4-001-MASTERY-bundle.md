@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso P4: mecanismos de participación ciudadana"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P4 — Mecanismos de participación ciudadana
@@ -236,3 +239,8 @@ Diseña una actividad para el Día de la Democracia en tu colegio que promueva l
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W20, repasa los mecanismos de participación ciudadana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

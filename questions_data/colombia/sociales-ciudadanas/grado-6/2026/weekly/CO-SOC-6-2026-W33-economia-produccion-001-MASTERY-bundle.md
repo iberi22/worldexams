@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "economia_produccion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Economia: Procesos de Produccion
@@ -190,3 +193,8 @@ Sector terciario incluye:
 > **Respuesta correcta:** C
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es C.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

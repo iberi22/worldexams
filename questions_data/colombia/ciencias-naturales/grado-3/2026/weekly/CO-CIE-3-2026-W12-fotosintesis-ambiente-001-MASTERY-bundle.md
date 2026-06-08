@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Importancia de la fotosíntesis en el ecosistema, equilibrio de gases y cadena alimentaria."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Fotosíntesis y el Medio Ambiente
@@ -267,3 +270,8 @@ Este es un ejemplo de ahorro de energía. Cuando no hay buenas condiciones para 
 ### Explicación Pedagógica
 
 La luz solar es el motor de la vida en la Tierra. Cualquier acción humana que bloquee la luz de forma permanente destruiría la base de toda la vida: la fotosíntesis. Debemos cuidar el sol y las plantas como un solo sistema unido.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

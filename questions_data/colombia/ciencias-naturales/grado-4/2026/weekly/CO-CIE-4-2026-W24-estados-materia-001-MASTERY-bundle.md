@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "estados de la materia, sÃ³lido, lÃ­quido, gaseoso, plasma, cambios de estado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Estados de la materia â€” Grado 4 â€” W24
@@ -278,3 +281,8 @@ SÃ³lido: fuertes fuerzas intermoleculares.
 Gas: espacio entre partÃ­culas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "electricidad, circuitos simples, conductores, aislantes, pilas, bombillos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Electricidad Básica
@@ -241,3 +244,8 @@ Circuito paralelo: cada componente conectado independientemente. Serie: en líne
 El consumo eléctrico se mide en kilovatios-hora (kWh).
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

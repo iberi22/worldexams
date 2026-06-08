@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W08 — Potenciacion: Conceptos
@@ -263,3 +266,8 @@ Los errores mas comunes con potencias:
 - Maria confunde potencia con suma (6² vs 6+2).
 - Juan ignora el exponente por completo.
 La respuesta correcta es 6² = 6 × 6 = 36. Es util recordar que "al cuadrado" es multiplicar el numero por si mismo, como calcular el area de un cuadrado de lado 6.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

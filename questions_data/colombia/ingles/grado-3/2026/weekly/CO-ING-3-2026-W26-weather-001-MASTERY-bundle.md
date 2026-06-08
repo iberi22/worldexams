@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for weather conditions: sunny, rainy, cloudy, snowy, hot, cold."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W26: Weather (A1)
@@ -221,3 +224,8 @@ How do you ask about the weather?
 
 ### Explicación Pedagógica
 La pregunta para saber cómo está el clima es "¿How is the weather?".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

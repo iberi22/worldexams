@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral de las plantas: partes, fotosíntesis, adaptaciones y utilidad."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Integral: El Mundo Vegetal
@@ -267,3 +270,8 @@ Este proceso es la polinización. Es una colaboración asombrosa entre animales 
 ### Explicación Pedagógica
 
 La conexión entre plantas y animales es un equilibrio de gases. Nosotros somos los clientes y ellas las proveedoras del oxígeno. Sin su trabajo constante y silencioso, la vida humana en la Tierra se detendría en pocos minutos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

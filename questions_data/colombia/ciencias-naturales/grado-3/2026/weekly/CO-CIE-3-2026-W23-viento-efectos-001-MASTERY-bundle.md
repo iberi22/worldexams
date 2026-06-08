@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Efectos del viento en el relieve y en los seres vivos: erosión, polinización y cambios en el paisaje."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Los Efectos del Viento
@@ -267,3 +270,8 @@ Los huracanes son máquinas térmicas. Toman el calor del mar y lo convierten en
 ### Explicación Pedagógica
 
 Las barreras vivas son la mejor tecnología natural. Las raíces de los árboles amarran el suelo mientras que sus copas rompen la fuerza del viento sin detenerlo bruscamente, protegiendo los cultivos de forma equilibrada y saludable.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W38 — Repaso Periodo 9: Energía, Calor y sus Transformaciones
@@ -287,3 +290,8 @@ Sin embargo, la **potencia** (trabajo por unidad de tiempo, P = W/t) es diferent
 - Ascensor: P = 392 J / 10 s = 39.2 W
 
 El ascensor **entrega más potencia** (realiza el mismo trabajo en menos tiempo). Los aires acondicionados se miden en BTU/h (potencia), los bombillos en Watts (potencia), los carros en caballos de fuerza (potencia). La potencia indica qué tan rápido se realiza el trabajo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for the four seasons: spring, summer, fall/autumn, winter."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W27: Seasons (A1)
@@ -221,3 +224,8 @@ In Colombia, we don't have four seasons, but we have:
 
 ### Explicación Pedagógica
 En Colombia, por estar en el trópico, tenemos temporada seca (dry season) y temporada de lluvias (rainy season).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W17 — Tacto, Olfato y Gusto
@@ -229,3 +232,7 @@ Una persona ciega usa un bastón blanco para desplazarse. ¿Qué principio senso
 El bastón blanco extiende el sentido del tacto: al golpear objetos, las vibraciones viajan por el bastón a la mano y al cerebro. Algunas personas ciegas también usan ecolocalización activa (chasquidos con la lengua) para "ver" con el sonido, similar a los murciélagos.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

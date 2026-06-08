@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Sistema digestivo, nutrientes"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Sistema Digestivo y Nutrición
@@ -238,3 +241,8 @@ Afecta el crecimiento y desarrollo.
 ### Explicación Pedagógica
 
 Son contracciones musculares involuntarias.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

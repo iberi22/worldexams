@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W28 — Pubertad y Cambios en la Adolescencia
@@ -325,3 +328,8 @@ La **variación en el ritmo de desarrollo** durante la pubertad es completamente
 
 El respeto por los diferentes ritmos de desarrollo es parte fundamental de la convivencia y la empatía.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

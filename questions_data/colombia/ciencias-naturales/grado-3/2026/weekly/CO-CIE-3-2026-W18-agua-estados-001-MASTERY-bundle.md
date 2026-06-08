@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Estados del agua (sólido, líquido, gaseoso) y cambios de estado por temperatura."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Los Estados del Agua
@@ -267,3 +270,8 @@ Las nubes son agua en estado líquido (gotitas diminutas) o sólido (cristales d
 ### Explicación Pedagógica
 
 Esta es la magia del agua en nuestro planeta. Su capacidad de coexistir como sólido, líquido y gas permite que el ciclo del agua funcione constantemente, moviendo la vida por toda la superficie terrestre, desde el mar hasta las cumbres más altas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

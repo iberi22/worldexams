@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 3"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W24 — REPASO Periodo 6
@@ -282,3 +285,8 @@ Un estudiante escribió:
 
 Un argumento débil se caracteriza por: generalidades sin sustento ("es malo"), apelaciones a lo que "todos saben" o "todo el mundo dice" (falacia ad populum), y falta de evidencia concreta. Para mejorar este argumento, habría que agregar datos: "contiene altos niveles de azúcar que se asocian con obesidad infantil, y en Colombia el 24% de los niños tiene sobrepeso".
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

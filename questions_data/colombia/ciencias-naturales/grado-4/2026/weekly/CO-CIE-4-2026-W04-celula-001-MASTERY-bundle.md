@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Concepto de célula, partes, célula animal y vegetal"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Célula
@@ -238,3 +241,8 @@ No requiere energía.
 ### Explicación Pedagógica
 
 Usa ATP para mover sustancias contra gradiente.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

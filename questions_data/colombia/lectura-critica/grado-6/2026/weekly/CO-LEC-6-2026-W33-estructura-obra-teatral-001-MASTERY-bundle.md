@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Lenguaje + Estándares Básicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W33 — Estructura de la Obra Teatral
@@ -321,3 +324,8 @@ Una obra de teatro escolar sobre la diversidad cultural colombiana tiene esta es
 Una estructura equilibrada asigna tiempos proporcionales a cada parte según su importancia narrativa. Si inviertes mucho tiempo en desarrollar un conflicto complejo, no puedes resolverlo en un minuto con una solución mágica. El público sentirá que el final es apresurado o falso. Un buen desenlace debe mostrar el proceso de resolución, las disculpas genuinas y los cambios en los personajes.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

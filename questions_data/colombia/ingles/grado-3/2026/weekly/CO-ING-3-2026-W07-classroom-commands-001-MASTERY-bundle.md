@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Basic classroom commands like sit down, stand up, open your book, etc."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W07: Classroom Commands (A1)
@@ -221,3 +224,8 @@ The teacher says: **"Raise your hand"**. Why?
 
 ### Explicación Pedagógica
 "Raise your hand" significa levantar la mano. Se hace para pedir permiso para hablar en clase.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

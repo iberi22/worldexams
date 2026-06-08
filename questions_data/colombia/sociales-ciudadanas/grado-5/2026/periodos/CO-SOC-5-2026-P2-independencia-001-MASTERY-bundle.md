@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "independencia, 1810, 1819, Simón Bolívar, Campaña Libertadora, Batalla de Boyacá"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Independencia de Colombia
@@ -241,3 +244,8 @@ La Gran Colombia se disolvió en 1830 luego de las diferencias políticas entre 
 La independencia estableció la república y la soberanía del pueblo colombiano.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

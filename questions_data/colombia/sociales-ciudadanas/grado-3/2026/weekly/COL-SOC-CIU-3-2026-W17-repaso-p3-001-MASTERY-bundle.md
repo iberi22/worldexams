@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_p3, derechos_nino, normas_aula, normas_comunidad, convivencia"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 3
@@ -181,3 +184,8 @@ Derechos y deberes son complementarios.
 
 ### Explicacion Pedagogica
 Todos, incluso los ninos, tienen derechos y deberes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

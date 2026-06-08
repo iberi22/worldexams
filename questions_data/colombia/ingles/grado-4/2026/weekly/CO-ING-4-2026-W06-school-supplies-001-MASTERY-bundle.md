@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — School supply vocabulary, classroom objects, possessives, and basic requests."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W06: School Supplies (CEFR A1)
@@ -252,3 +255,8 @@ The teacher gives something to cut paper. What is the missing word?
 ### Explicación Pedagógica
 This question tests the ability to infer a missing school supply from context. The key clue is "something to cut paper" = scissors (tijeras). Students must read the entire dialogue and use the context clues to identify the correct item.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

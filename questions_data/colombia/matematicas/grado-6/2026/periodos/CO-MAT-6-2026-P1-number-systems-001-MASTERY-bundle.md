@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "number systems, natural numbers, integers, number line, absolute value, operations"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Number Systems
@@ -241,3 +244,8 @@ From least to greatest on number line: -4, -1, 0, 3.
 Order: multiply first (4x2=8), then add (3+8=11). PEMDAS/Papomudas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

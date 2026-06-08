@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "detalles explícitos, información literal, datos, números, fechas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W02: Comprensión literal: detalles explícitos
@@ -234,3 +237,8 @@ Verificar información leída.
 
 ### Explicación Pedagógica Final
 Bundle de detalles explícitos. Contextos cotidianos colombianos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

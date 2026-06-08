@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "estructura textual, introduccion desarrollo cierre, organizacion del texto, coherencia, progresion tematica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G7 — La Tortuga del Rio Atrato: Especie en Peligro
@@ -185,3 +188,7 @@ Por que es importante conocer el nombre cientifico?
 
 ### Explicación Pedagógica Final
 Bundle para grado 7 — Semana 30. Tema: Estructura Texto Avanzado. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

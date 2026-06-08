@@ -11,6 +11,9 @@ bundle_size: 20
 alignment: "DBA MEN + Pre-ICFES"
 modern_context: true
 distractor_profile: "plausible_peer_set"
+license: "FREE"
+tier: "legacy"
+
 ---
 # Bundle MASTERY: Filosofia Politica, Colombia Contemporanea (P1)
 
@@ -233,3 +236,8 @@ distractor_profile: "plausible_peer_set"
 - [ ] B) El poder es militar; la violencia es politica.
 - [x] C) El poder emerge de la accion colectiva consensuada; la violencia es instrumental y unilateral.
 - [ ] D) La violencia es superior al poder.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Utilidad de los animales para el hombre: alimentación, compañía, trabajo y materia prima industrial."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Utilidad de los Animales
@@ -267,3 +270,8 @@ La utilidad no siempre es solo para los humanos. Los animales también son útil
 ### Explicación Pedagógica
 
 Todos los animales tienen una utilidad ecológica, incluso si no nos sirven de forma directa. Los depredadores son los "policías" de la salud de los bosques. Sin ellos, el equilibrio se rompe y los ecosistemas mueren, afectándonos a todos indirectamente.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

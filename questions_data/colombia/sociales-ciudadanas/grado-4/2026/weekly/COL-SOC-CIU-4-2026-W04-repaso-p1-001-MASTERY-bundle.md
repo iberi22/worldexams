@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Repaso de comunidad-barrio, servicios públicos, medios de transporte; integración de conceptos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso del Primer Periodo (W01-W03)
@@ -236,3 +239,8 @@ Se evalúa la capacidad de sintetizar los tres temas del periodo en una propuest
 
 ### Explicación Pedagógica Final
 Este bundle de repaso del primer periodo (semanas 1-3) integra los temas de Comunidad y Barrio, Servicios Públicos y Medios de Transporte en el contexto colombiano. Las preguntas combinan conceptos de las tres unidades para evaluar la capacidad de los estudiantes de relacionar, aplicar y evaluar los contenidos de forma integral. Se evalúa la comprensión de que el barrio, los servicios públicos y el transporte son elementos interdependientes que determinan la calidad de vida de las comunidades. El objetivo es consolidar los aprendizajes del periodo y preparar a los estudiantes para los siguientes temas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

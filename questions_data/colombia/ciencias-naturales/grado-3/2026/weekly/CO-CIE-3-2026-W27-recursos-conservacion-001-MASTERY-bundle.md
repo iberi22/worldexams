@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Conservación de recursos naturales: las 3R (reducir, reutilizar, reciclar), ahorro de energía y protección de la biodiversidad."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Conservación de Nuestros Recursos
@@ -267,3 +270,8 @@ En la naturaleza, nada sobra. Incluso una concha vacía de caracol tiene un pape
 ### Explicación Pedagógica
 
 La naturaleza no es un supermercado infinito. Hay cosas que el dinero no puede comprar, como un aire limpio para respirar o un río sano para bañarse. Cuidar los recursos es una obligación con la vida, no con la billetera.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

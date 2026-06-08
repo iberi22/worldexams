@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Ilustración, Revolución Francesa, Independencia de Colombia, pensamiento ilustrado"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ilustración, Revolución Francesa e Independencia de Colombia
@@ -336,3 +339,8 @@ Robespierre fue un líder de la Revolución que inicialmente defendió la democr
 
 ### Explicación Pedagógica
 Aunque la independencia proclamó la igualdad, en la práctica mantuvo muchas desigualdades: la esclavitud no se abolió totalmente hasta 1851, los indígenas perdieron tierras, y el poder político quedó en manos de la élite criolla.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso_p4, oficios, profesiones, transporte_terrestre, transporte_aereo, transporte_acuatico"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso Periodo 4
@@ -181,3 +184,8 @@ Que hemos aprendido sobre el trabajo en la sociedad?
 
 ### Explicacion Pedagogica
 Cada trabajo, oficio o profesion, aporta algo esencial a la comunidad.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

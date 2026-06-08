@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Colombia contemporanea: conflicto armado, proceso de paz, siglo XXI"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Cual es el mayor desafio de Colombia en el siglo XXI?
 Los principales desafios de Colombia hoy son: consolidar la paz, reducir la desigualdad, combatir el narcotrafico, proteger la biodiversidad y fortalecer la democracia.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

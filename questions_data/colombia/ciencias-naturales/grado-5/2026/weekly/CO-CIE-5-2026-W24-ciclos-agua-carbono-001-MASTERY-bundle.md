@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Ciclo del agua, ciclo del carbono"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Ciclos del Agua y del Carbono
@@ -238,3 +241,8 @@ Al descongelarse libera metano y CO₂.
 ### Explicación Pedagógica
 
 La lluvia ácida contiene CO₂ disuelto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

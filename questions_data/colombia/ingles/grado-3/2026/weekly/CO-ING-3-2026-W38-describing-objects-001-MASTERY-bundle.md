@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Basic adjectives for describing objects: big, small, new, old, heavy, light."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W38: Describing Objects (A1)
@@ -221,3 +224,8 @@ What is the opposite of **"New"**?
 
 ### Explicación Pedagógica
 El opuesto de "new" (nuevo) es "old" (viejo).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

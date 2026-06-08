@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for school subjects: Math, Science, English, Music, Art, PE."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W33: School Subjects (A1)
@@ -221,3 +224,8 @@ What is your **favorite** subject?
 
 ### Explicación Pedagógica
 Para responder cuál es tu materia favorita, puedes decir "I like [Subject]" o "My favorite subject is [Subject]".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

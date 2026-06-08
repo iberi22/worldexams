@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral sobre el suelo: formación, composición, tipos y conservación."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso: El Suelo, Nuestra Base
@@ -267,3 +270,8 @@ El suelo es el soporte de todo. A menudo lo ignoramos porque lo pisamos todos lo
 ### Explicación Pedagógica
 
 El progreso debe ser equilibrado. Necesitamos calles, pero necesitamos mucho más el suelo natural. El barro no es suciedad, es tierra viva trabajando. Un mundo sin suelo natural sería un mundo muerto.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

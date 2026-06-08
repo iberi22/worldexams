@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for the seven days of the week and basic time concepts like today and tomorrow."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W28: Days of the Week (A1)
@@ -221,3 +224,8 @@ I go to school on:
 
 ### Explicación Pedagógica
 Normalmente vamos al colegio de lunes (Monday) a viernes (Friday).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

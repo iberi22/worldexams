@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "hegemonia conservadora"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Hegemonía conservadora: 1886-1930 y Quinquenio Reyes — W17
@@ -344,3 +347,8 @@ Según los datos oficiales más recientes, ¿cuál es la tendencia principal rel
 ### Explicación Pedagógica
 
 El estudio de la hegemonía conservadora es fundamental para comprender la realidad colombiana. Según los datos oficiales más recientes, ¿cuál es la tendencia principal relacionada con la hegemonía conservadora en Colombia? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

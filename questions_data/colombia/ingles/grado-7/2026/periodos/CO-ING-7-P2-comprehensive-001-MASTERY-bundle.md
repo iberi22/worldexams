@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "future_will_going_to, present_continuous, opinions"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: English Grade 7 — Period 2
@@ -376,3 +379,8 @@ When should you use "will" instead of "going to"?
 
 ### Explicación Pedagógica
 "Will" is used for: (1) spontaneous decisions ("The phone is ringing. I'll answer it."), (2) promises ("I will help you"), (3) offers ("I'll carry that for you"), (4) predictions without evidence ("I think it will rain tomorrow").
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

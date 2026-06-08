@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "repaso_p2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso P2: Civilizaciones Antiguas
@@ -190,3 +193,8 @@ Sociedad india se organizaba en:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Sistema de castas (varnas): sacerdotes, guerreros, comerciantes, sirvientes.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

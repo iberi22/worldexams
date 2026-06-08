@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W39 — Electricidad Básica: Circuitos Simples
@@ -447,3 +450,8 @@ La electricidad es un **servicio público esencial** en Colombia por su impacto 
 
 La electricidad no es un lujo — es un derecho que permite el desarrollo humano y la dignidad.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

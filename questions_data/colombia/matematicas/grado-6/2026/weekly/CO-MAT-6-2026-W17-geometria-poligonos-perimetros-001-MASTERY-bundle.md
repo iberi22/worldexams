@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W17 — Geometría: Polígonos y Perímetros
@@ -227,3 +230,8 @@ Un granjero tiene 60 m de malla para hacer un corral rectangular. Si el largo de
 
 ### Explicacion Pedagogica
 Si ancho=a, largo=2a. Perímetro=2×(a+2a)=2×3a=6a. 6a=60 → a=10 m (ancho). Largo=2×10=20 m.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

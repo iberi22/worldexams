@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "El viento como recurso: energía eólica, transporte de semillas y efectos en el relieve."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # El Viento: Fuerza en Movimiento
@@ -267,3 +270,8 @@ Este es el transporte eólico. El viento tiene la capacidad de mover miles de to
 ### Explicación Pedagógica
 
 Para obtener energía del viento (energía eólica), necesitamos lugares con vientos constantes y fuertes. Las ciudades son laberintos que rompen el viento, por eso los mejores lugares son las costas y las cimas de las montañas despejadas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

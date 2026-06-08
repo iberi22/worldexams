@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso integrador de angulos, simetria y medicion"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W20: Repaso Periodo 4
@@ -223,3 +226,8 @@ En el calendario, si hoy es 15 de marzo, en que mes estaremos en 30 dias?
 Marzo tiene 31 dias. Del 15 al 31 son 16 dias. 30-16=14. Caemos el 14 de abril.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

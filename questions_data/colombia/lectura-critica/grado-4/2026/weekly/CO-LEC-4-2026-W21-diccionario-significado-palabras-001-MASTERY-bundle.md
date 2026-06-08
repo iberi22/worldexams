@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "diccionario, significado, definición, consulta, orden alfabético"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G4 — W21: El diccionario y el significado de palabras
@@ -234,3 +237,8 @@ Múltiples significados.
 
 ### Explicación Pedagógica Final
 Bundle diccionario.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

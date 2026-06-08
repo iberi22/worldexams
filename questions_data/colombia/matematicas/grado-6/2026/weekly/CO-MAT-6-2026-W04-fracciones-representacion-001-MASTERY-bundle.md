@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W04 — Fracciones: Representacion
@@ -241,3 +244,8 @@ La profesora de Matematicas hizo una encuesta en el salon de 30 estudiantes sobr
 
 ### Explicacion Pedagogica
 12 de 30 estudiantes prefieren mango = 12/30. Simplificamos: 12/30 ÷ 6/6 = 2/5. Para convertir a fraccion decimal con denominador 100: 2/5 = (2×20)/(5×20) = 40/100. Como porcentaje: 40/100 = 40%. Tambien se puede hacer: 12 ÷ 30 = 0.4, y 0.4 × 100 = 40%.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

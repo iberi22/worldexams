@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Puntos cardinales: norte, sur, este, oeste. Orientación en mapas y el terreno"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Al desplazarse 3 km al norte y luego 3 km al sur, estos movimientos se cancelan 
 La brújula funciona gracias a que su aguja imantada se alinea con el campo magnético terrestre. Los objetos metálicos (como llaves, cinturones, vehículos) y los dispositivos electrónicos (celulares, computadoras) generan sus propios campos magnéticos que interfieren y desvían la aguja, dando lecturas incorrectas.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

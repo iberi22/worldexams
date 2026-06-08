@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 28
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 6
@@ -200,3 +203,8 @@ En una biografía de un inventor famoso, el libro dice: "Él siempre fue el mejo
 
 ### Explicación Pedagógica
 Desarrollar el sentido crítico frente a las biografías permite a los estudiantes comprender que los personajes históricos fueron seres humanos reales con virtudes y defectos, y no seres perfectos de ficción.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

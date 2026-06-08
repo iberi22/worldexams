@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "lideres sociales"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Liderazgo social: defensores DDHH y asesinatos — W37
@@ -344,3 +347,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de el liderazgo social y la defensa de los DDHH es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre el liderazgo social y la defensa de los DDHH y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

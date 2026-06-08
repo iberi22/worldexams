@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Contaminación del agua: causas (basura, químicos, derrames) y consecuencias para la salud y los ecosistemas."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Contaminación del Agua
@@ -267,3 +270,8 @@ La contaminación es un viaje. Un químico que cae al agua hoy en la montaña, p
 ### Explicación Pedagógica
 
 La suma de pequeñas acciones negativas causa grandes desastres. El aceite de cocina debe guardarse en botellas y entregarse para reciclaje, nunca botarse por el desagüe. Ser conscientes de nuestras pequeñas gotas ayuda a salvar los grandes ríos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "repaso_p4"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso P4: Edad Media
@@ -190,3 +193,8 @@ Por que la Iglesia tenia tanto poder?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

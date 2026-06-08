@@ -12,6 +12,9 @@ alignment: "DBA MEN + Estándares Básicos Inglés"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "comprehensive review: semester 2 topics W19-W36"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Semester 2 Review (W38)
@@ -228,3 +231,8 @@ Reading: identify climate zones in Colombia. Coast (hot) vs Mountains (cold).
 
 ---
 
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

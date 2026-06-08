@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso integral, comprension, analisis, evaluacion, sintesis de competencias"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repasos Integrales — Grado 10
@@ -251,3 +254,8 @@ Definición y contexto, desarrollo con datos, cierre con síntesis es la estruct
 ### Explicación Pedagógica Final
 
 Bundle para grado 10 — Semana W37. Tema: Repasos Integrales. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

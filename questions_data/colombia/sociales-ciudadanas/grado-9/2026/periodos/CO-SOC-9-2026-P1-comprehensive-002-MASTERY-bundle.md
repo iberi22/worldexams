@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "independencia de Colombia siglo XIX, Constitución de 1886, Guerra de los Mil Días, capitalismo, globalización económica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Independencia de Colombia, Constitución de 1886 y Globalización
@@ -336,3 +339,8 @@ La Regeneración logró estabilidad al centralizar el poder y unificar el país 
 
 ### Explicación Pedagógica
 La independencia fue liderada por las élites criollas que, aunque querían autonomía política, no buscaban transformar radicalmente la estructura social y económica que las beneficiaba. Así, la hacienda, la minería, la exportación de materias primas y la desigualdad social continuaron.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

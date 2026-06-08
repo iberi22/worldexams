@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for afternoon and evening routines: do homework, watch TV, have dinner, go to bed."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W32: Daily Routines - Afternoon and Evening (A1)
@@ -221,3 +224,8 @@ Choose the correct afternoon activity:
 
 ### Explicación Pedagógica
 Una actividad típica de la tarde después del colegio es hacer la tarea (do homework).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

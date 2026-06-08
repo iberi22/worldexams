@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "textos teatrales, obra de teatro, diálogo, acto, escena, acotaciones, personajes, parlamento, conflicto dramático, estructura teatral"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Textos Teatrales
@@ -249,3 +252,8 @@ El teatro y la narrativa son géneros distintos. El teatro muestra la acción di
 
 ### Explicación Pedagógica Final
 Bundle enfocado en textos teatrales con una obra en un acto ambientada en un jardín comunitario de Medellín. Los estudiantes aprenden a identificar los elementos propios del género (personajes, acotaciones, diálogos, escenografía), comprenden la función del conflicto dramático, analizan la transformación de los personajes y evalúan las diferencias entre el género teatral y el narrativo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Grado 6"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W06 — Reproducción Asexual
@@ -229,3 +232,7 @@ Un proyecto de reforestación en Colombia quiere propagar rápidamente una espec
 Los **esquejes** son más rápidos que las semillas para propagación masiva: (1) los esquejes pueden enraizar en 2-4 semanas, (2) las plantas obtenidas son genéticamente idénticas (se preservan las características deseables), (3) alcanzan tamaño adulto más rápido que las plantas de semilla. Sin embargo, el riesgo es la baja diversidad genética. Una estrategia combinada: usar esquejes para recuperación rápida y semillas (con diversidad genética) para poblaciones a largo plazo. En Colombia, proyectos de restauración ecológica usan ambas estrategias.
 
 ---
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

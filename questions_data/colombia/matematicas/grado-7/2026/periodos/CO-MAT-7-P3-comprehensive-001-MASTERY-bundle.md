@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "transformaciones_isometricas, ecuaciones_lineales, probabilidad_condicional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Matemáticas Grado 7 — Periodo 3
@@ -366,3 +369,8 @@ Si se encuentra una tableta defectuosa, ¿cuál es la probabilidad de que haya s
 
 ### Explicación Pedagógica
 El teorema de Bayes permite calcular la probabilidad de la causa dado el efecto observado. Se considera tanto la probabilidad de cada máquina como su tasa de defectos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

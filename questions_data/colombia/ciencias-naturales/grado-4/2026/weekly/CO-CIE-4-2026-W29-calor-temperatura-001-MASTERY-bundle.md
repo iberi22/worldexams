@@ -13,6 +13,9 @@ alignment: "DBA MEN + EstÃ¡ndares BÃ¡sicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "calor, temperatura, conducciÃ³n, convecciÃ³n, radiaciÃ³n, termÃ³metro"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Calor y temperatura â€” Grado 4 â€” W29
@@ -278,3 +281,8 @@ Termo: aislamiento tÃ©rmico.
 Metales: electrones libres conducen calor.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

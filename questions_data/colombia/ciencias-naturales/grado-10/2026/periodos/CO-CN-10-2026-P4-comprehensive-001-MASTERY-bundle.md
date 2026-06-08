@@ -11,6 +11,9 @@ bundle_size: 20
 alignment: "DBA MEN + Pre-ICFES"
 modern_context: true
 distractor_profile: "plausible_peer_set"
+license: "FREE"
+tier: "legacy"
+
 ---
 # Bundle MASTERY: Genetica de Poblaciones, Electroquimica, Optica Fisica (P4)
 
@@ -233,3 +236,8 @@ distractor_profile: "plausible_peer_set"
 - [ ] B) Celda 2 (Cu) porque el cobre tiene valencia 2. <!-- feedback: Incorrecto. Por mol de e-: Ag = 107.9 g, Cu = 31.75 g. -->
 - [ ] C) Celda 3 (Al) porque necesita 3 electrones por atomo. <!-- feedback: Incorrecto. Mayor numero de electrones necesarios por atomo significa MENOS atomos depositados. -->
 - [ ] D) Todas depositan la misma masa. <!-- feedback: Incorrecto. La masa depende de MA/n donde n es electrones por ion. -->
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

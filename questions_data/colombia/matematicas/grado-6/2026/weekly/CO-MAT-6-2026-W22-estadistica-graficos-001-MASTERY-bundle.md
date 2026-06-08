@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W22 -- Estadistica: Graficos Estadisticos
@@ -227,3 +230,7 @@ Ventas: Ene $2M, Feb $2.5M, Mar $3M, Abr $2.8M, May $3.5M. Que tendencia?
 
 ### Explicacion Pedagogica
 Aunque abril bajo levemente, tendencia general es ascendente.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

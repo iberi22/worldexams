@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Composición del aire: mezcla de gases, partículas en suspensión y su importancia química."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # ¿De qué está hecho el aire?
@@ -267,3 +270,8 @@ Esto se llama presión atmosférica. En la costa, el aire está "apretado" y hay
 ### Explicación Pedagógica
 
 La composición del aire es perfecta para la vida. El nitrógeno es el ingrediente que mantiene la calma. Si solo hubiera oxígeno, cualquier chispa causaría un incendio gigante que no se apagaría nunca y nuestros pulmones se dañarían por exceso de oxidación.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

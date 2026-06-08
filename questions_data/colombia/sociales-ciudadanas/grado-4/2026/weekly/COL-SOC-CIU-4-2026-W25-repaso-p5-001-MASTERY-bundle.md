@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "Repaso P5: patrimonio cultural y grupos étnicos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso P5 — Patrimonio cultural y grupos étnicos
@@ -236,3 +239,8 @@ Diseña un museo escolar sobre la diversidad cultural colombiana.
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W25, repasa patrimonio cultural y grupos étnicos de Colombia.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

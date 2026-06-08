@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "reproduccion_humana, tabla_periodica, ondas_sonido"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Ciencias Naturales Grado 7 — Periodo 2
@@ -366,3 +369,8 @@ Un médico genetista del Instituto de Genética de la Universidad Nacional de Bo
 
 ### Explicación Pedagógica
 La fecundación une los 23 cromosomas del óvulo con los 23 del espermatozoide, formando un cigoto con 46 cromosomas (23 pares). Esto restaura el número diploide característico de la especie humana.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W25 -- Probabilidad: Conceptos Basicos
@@ -227,3 +230,7 @@ Lanzaron una moneda 100 veces: 58 caras, 42 sellos. La probabilidad teorica de c
 
 ### Explicacion Pedagogica
 La frecuencia relativa 58/100=0.58 se aproxima a 0.5, sin ser exacta. Es la ley de grandes numeros.
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

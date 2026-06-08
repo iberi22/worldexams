@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 24
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso de Periodo 5
@@ -200,3 +203,8 @@ Un científico dice: "La temperatura de la Tierra ha subido un grado en los últ
 
 ### Explicación Pedagógica
 Evaluar el proceso de pensamiento detrás de una inferencia ayuda a los estudiantes a ser más conscientes de cómo construyen sus propias conclusiones a partir de lo que leen y escuchan.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

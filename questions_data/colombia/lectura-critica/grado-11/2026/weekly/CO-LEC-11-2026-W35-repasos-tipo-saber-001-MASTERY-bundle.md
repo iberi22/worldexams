@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Competencias Comunicativas"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "repaso tipo saber 11, competencias lectoras, analisis textual, evaluacion, preguntas tipo ICFES"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repasos Tipo Saber — Grado 11
@@ -251,3 +254,8 @@ La mayoría no determina la verdad; falacia de apelación popular.
 ### Explicación Pedagógica Final
 
 Bundle para grado 11 — Semana W35. Tema: Repasos Tipo Saber. Contexto colombiano actual, alineado a competencias ICFES de Lectura Crítica, protocolo v5.2.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

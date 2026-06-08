@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Fuentes de luz: naturales y artificiales. Objetos luminosos y no luminosos (reflejantes)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Fuentes de Luz
@@ -267,3 +270,8 @@ Estas señales usan la luz de los carros para ser vistas. Es una forma inteligen
 ### Explicación Pedagógica
 
 Esta es una conexión profunda: la leña que quemas es energía solar guardada por un árbol. La electricidad de una represa viene del agua que el sol evaporó. Al final, el Sol es el gran motor de casi toda la luz de nuestro mundo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "fractions, decimals, equivalence, operations, percentages, rational numbers"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Fractions and Decimals
@@ -241,3 +244,8 @@ Carlos ate 1/3 of a cake and María ate 1/4. How much remains?
 Total eaten: 4/12+3/12 = 7/12. Remaining: 12/12-7/12 = 5/12.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

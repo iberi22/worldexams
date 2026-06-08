@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Repaso integral del Periodo 1: Seres vivos, plantas y animales (características, clasificación y reproducción)."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Repaso Integral: Seres Vivos, Plantas y Animales
@@ -267,3 +270,8 @@ La función de relación es como el sistema de comunicación y defensa del ser v
 ### Explicación Pedagógica
 
 Este es el concepto más importante de la biología. La vida es un fenómeno natural basado en la célula. Las máquinas pueden imitar comportamientos vivos, pero carecen de la complejidad biológica, la evolución orgánica y el metabolismo natural que definen a los seres vivos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

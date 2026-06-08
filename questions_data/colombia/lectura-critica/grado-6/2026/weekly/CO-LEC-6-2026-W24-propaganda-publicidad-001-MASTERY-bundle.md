@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "propaganda, publicidad, recursos persuasivos, eslogan, llamado a la acción, mensaje implícito"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Lectura Crítica G6 — Propaganda y Publicidad
@@ -212,3 +215,8 @@ Reflexión sobre la publicidad moderna y el marketing de influencers: reconocer 
 
 ### Explicación Pedagógica Final
 Bundle enfocado en propaganda y publicidad: identificación de tipos de anuncios (comercial, política, bien público), análisis de recursos persuasivos (asociación de estilos de vida, mensajes implícitos, eslóganes, narrativa visual), comparación de credibilidad de fuentes, y detección de información oculta o minimizada. A través de ejemplos colombianos concretos, los estudiantes desarrollan habilidades de lectura crítica de los mensajes que consumen diariamente en medios y redes sociales.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

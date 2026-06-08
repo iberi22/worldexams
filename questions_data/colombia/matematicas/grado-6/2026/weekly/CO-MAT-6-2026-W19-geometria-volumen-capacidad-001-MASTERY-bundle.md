@@ -12,6 +12,9 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + Estandares Basicos Ciclo 2"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W19 — Geometría: Volumen y Capacidad
@@ -227,3 +230,8 @@ Un almacén tiene 5 m de largo, 4 m de ancho y 3 m de alto. ¿Cuántas cajas cú
 
 ### Explicacion Pedagogica
 Largo: 500÷50=10 cajas. Ancho: 400÷50=8 cajas. Sin apilar (suelo): 10×8=80 cajas.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

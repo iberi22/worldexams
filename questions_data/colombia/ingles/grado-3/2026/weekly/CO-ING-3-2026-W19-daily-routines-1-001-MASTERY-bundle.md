@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.75
 rubric_baseline: "Vocabulary for basic morning routines: wake up, brush teeth, have breakfast."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W19: Daily Routines - Morning (A1)
@@ -221,3 +224,8 @@ Choose the correct order:
 
 ### Explicación Pedagógica
 Las rutinas tienen un orden lógico: primero despertamos, luego desayunamos y finalmente vamos al colegio.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

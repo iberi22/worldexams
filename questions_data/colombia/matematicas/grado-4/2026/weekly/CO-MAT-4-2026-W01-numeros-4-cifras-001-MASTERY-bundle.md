@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Números de cuatro cifras hasta 9.999: lectura, escritura, descomposición, valor posicional, comparación, orden, recta numérica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Números de 4 cifras — Grado 4
@@ -269,3 +272,8 @@ Camila afirma que tiene 2.638 puntos. ¿Es correcto? ¿Cuántos puntos tiene en 
 ### Explicación Pedagógica
 Cada ficha roja vale 1.000: 2 × 1.000 = 2.000. Cada azul vale 100: 6 × 100 = 600. Cada verde vale 10: 3 × 10 = 30. Cada amarilla vale 1: 8 × 1 = 8. Sumando: 2.000 + 600 + 30 + 8 = 2.638. Camila tiene razón.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

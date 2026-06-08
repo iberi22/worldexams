@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "prensa opinion siglo19"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Prensa S.XIX: periódicos y debate político — W22
@@ -344,3 +347,8 @@ El equipo docente del Colegio de Barranquilla prepara una actividad práctica so
 ### Explicación Pedagógica
 
 El estudio de la prensa y la opinión pública en el siglo XIX es fundamental para comprender la realidad colombiana. ¿Cuál de las siguientes afirmaciones sobre la prensa y la opinión pública en el siglo XIX es correcta según lo estudiado en clase? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

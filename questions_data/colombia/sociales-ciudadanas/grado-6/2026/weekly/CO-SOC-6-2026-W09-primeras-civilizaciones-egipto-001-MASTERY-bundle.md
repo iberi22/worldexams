@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "primeras_civilizaciones_egipto"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Primeras Civilizaciones: Egipto
@@ -190,3 +193,8 @@ Papel escribas?
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Sabian leer y escribir, administraban el Estado.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

@@ -15,6 +15,9 @@ calibration:
   simulated_responses: 100
 
 rubric_baseline: "roma_antigua_republica"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Roma Antigua: La Republica
@@ -188,3 +191,8 @@ Hermanos Graco propusieron:
 > **Respuesta correcta:** B
 
 **Retroalimentacion:** Explicacion complementaria: la respuesta correcta es B.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

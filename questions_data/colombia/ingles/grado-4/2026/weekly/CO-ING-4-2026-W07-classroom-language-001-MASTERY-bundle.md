@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.25"
   simulated_responses: 100
 rubric_baseline: "Language and Communication — Classroom commands, instructions, polite expressions, and basic interaction language."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W07: Classroom Language (CEFR A1)
@@ -250,3 +253,8 @@ Read the classroom conversation:
 ### Explicación Pedagógica
 This question tests understanding of a common classroom scenario (arriving late) and the appropriate expressions. "May I come in?" (¿puedo entrar?) is the polite request. "Be on time" (llegar a tiempo / ser puntual) is the expected expression for the teacher's reminder. This combines classroom language with real-life classroom etiquette.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

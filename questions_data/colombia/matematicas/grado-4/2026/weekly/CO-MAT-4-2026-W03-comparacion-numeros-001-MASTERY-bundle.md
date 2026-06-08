@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Primaria"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Comparación y orden de números hasta 9.999: uso de signos <, >, =; orden ascendente y descendente; recta numérica; situaciones cotidianas con cantidades"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Comparación de números — Grado 4
@@ -269,3 +272,8 @@ Comparamos UM (todas 7). Centenas: 7.098 → 0, 7.809 → 8, 7.890 → 8, 7.908 
 ### Explicación Pedagógica
 Los tres tienen 4 UM. Centenas: A=5, B=5, C=6. C es el mayor (6 centenas). Entre A y B, ambos con 5 centenas, comparamos decenas: A=6, B=7. Como 6 < 7, A < B. Orden: A (4.567) < B (4.576) < C (4.657). El mayor es C y el menor es A.
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

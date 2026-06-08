@@ -9,6 +9,9 @@ protocol_version: "5.2"
 bundle_size: 8
 alignment: "DBA MEN"
 bundle_index: 15
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Descripciones
@@ -201,3 +204,8 @@ Un autor escribe: "El viejo pueblo parecía dormido bajo el sol del mediodía. L
 
 ### Explicación Pedagógica
 La descripción de ambientes a menudo busca generar una emoción en el lector. Evaluar el "tono" de la descripción es una habilidad avanzada que conecta la lectura con la sensibilidad literaria.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

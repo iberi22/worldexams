@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "argumentación, tesis, opinión, persuasión, propaganda, publicidad, recursos retóricos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W25 — REPASO Periodo 5
@@ -259,3 +262,8 @@ Imagina que ves el siguiente titular en una red social: "¡Médicos descubren qu
 La desinformación y las noticias falsas (fake news) usan titulares impactantes para provocar reacciones emocionales y compartidos sin verificación. Como lector crítico: (1) desconfía de titulares demasiado buenos o malos para ser verdad, (2) busca la fuente original, (3) verifica con fuentes confiables, (4) no compartas sin verificar.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

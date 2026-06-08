@@ -13,6 +13,9 @@ alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Relieve colombiano: cordilleras, valles, llanuras y montanas"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 ## Pregunta 1 [D1]
@@ -224,3 +227,8 @@ Como afecta el relieve a la vida de los colombianos?
 El relieve influye en todos los aspectos: en las montanas hace mas frio, se cultiva cafe y papa; en las llanuras hace calor y se cultiva arroz y ganado. Las montanas dificultan el transporte.
 
 ---
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

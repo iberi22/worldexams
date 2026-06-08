@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "mi_colegio, comunidad_educativa, convivencia_escolar, manual_convivencia, actores_escolares, derechos_deberes_estudiantiles"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Mi Colegio
@@ -197,3 +200,8 @@ Un estudiante dice: "No es justo que los niños de grado 3 tengamos que pedir pe
 
 ### Explicación Pedagógica
 Esta pregunta evalúa la capacidad de analizar críticamente las normas escolares. En las instituciones educativas colombianas, las normas se ajustan al desarrollo evolutivo de los estudiantes. Los niños de grado 3 requieren más acompañamiento y supervisión que los adolescentes de grado 11, que han desarrollado mayor autonomía. Esto no es una cuestión de favoritismo sino de adecuación pedagógica.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

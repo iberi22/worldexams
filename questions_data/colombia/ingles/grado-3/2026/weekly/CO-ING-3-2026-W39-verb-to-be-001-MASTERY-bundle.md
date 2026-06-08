@@ -16,6 +16,9 @@ distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.65
 rubric_baseline: "Basic use of the verb to be: am, is, are in simple affirmative sentences."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Weekly Pack W39: Verb To Be (A1)
@@ -221,3 +224,8 @@ Choose the correct sentence:
 
 ### Explicación Pedagógica
 La única combinación correcta de sujeto y verbo "to be" es "She is".
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

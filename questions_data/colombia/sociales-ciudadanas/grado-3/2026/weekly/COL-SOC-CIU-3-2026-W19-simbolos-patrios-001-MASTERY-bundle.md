@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "simbolos_patrios, bandera_colombia, escudo_colombia, himno_nacional, identidad_nacional"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Simbolos Patrios: Bandera, Escudo e Himno
@@ -181,3 +184,8 @@ Un estudiante dice: "Los simbolos patrios no significan nada". Que opinas?
 
 ### Explicacion Pedagogica
 Los simbolos patrios tienen un profundo significado historico y cultural para todos los colombianos.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

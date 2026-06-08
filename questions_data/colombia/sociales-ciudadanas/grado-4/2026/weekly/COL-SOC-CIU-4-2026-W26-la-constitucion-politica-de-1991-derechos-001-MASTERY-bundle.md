@@ -16,6 +16,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "La Constitución Política de 1991: derechos fundamentales, sociales y colectivos"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: La Constitución Política de 1991 — Derechos
@@ -236,3 +239,8 @@ Crea un artículo para una "Constitución escolar" que proteja un derecho import
 
 ### Explicación Pedagógica Final
 Este bundle de Ciencias Sociales y Ciudadanas para grado cuarto, W26, aborda la Constitución Política de 1991 y los derechos que reconoce.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

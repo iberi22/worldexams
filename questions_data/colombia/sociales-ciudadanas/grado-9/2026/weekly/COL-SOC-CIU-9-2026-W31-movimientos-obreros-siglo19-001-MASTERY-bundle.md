@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "movimientos obreros siglo19"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Movimientos obreros: artesanos, mutuales y huelgas — W31
@@ -344,3 +347,8 @@ En la clase de la Institución Educativa de Medellín, los estudiantes analizan 
 ### Explicación Pedagógica
 
 El estudio de los movimientos obreros es fundamental para comprender la realidad colombiana. ¿Qué relación existe entre los movimientos obreros y la realidad social colombiana actual? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

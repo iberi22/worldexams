@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Importancia de las plantas para la vida: producción de oxígeno, refugio, alimento y regulación del clima."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # La Importancia de las Plantas para la Vida
@@ -267,3 +270,8 @@ Las plantas son el motor de la industria verde. Proporcionan materiales renovabl
 ### Explicación Pedagógica
 
 Incluso para conquistar otros mundos, dependemos de las plantas. Ellas son nuestro soporte de vida natural: nos dan qué respirar y qué comer, demostrando que son nuestras compañeras indispensables en cualquier lugar del universo.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

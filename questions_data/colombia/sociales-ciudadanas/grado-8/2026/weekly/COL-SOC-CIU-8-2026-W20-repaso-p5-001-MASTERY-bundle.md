@@ -17,6 +17,9 @@ calibration:
   discrimination_index_target: ">= 0.22"
   simulated_responses: 100
 rubric_baseline: "repaso p5"
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Bundle Mastery: Repaso: seguridad, justicia y género — W20
@@ -290,3 +293,8 @@ Al repasar repaso p5, ¿qué afirmación es correcta?
 ### Explicación Pedagógica
 
 El estudio de repaso p5 es fundamental para comprender la realidad colombiana. Al repasar repaso p5, ¿qué afirmación es correcta? La opción correcta refleja con precisión los conceptos y datos más actualizados disponibles sobre el tema en Colombia (2024-2026).
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)

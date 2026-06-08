@@ -14,6 +14,9 @@ alignment: "DBA MEN + Estándares Básicos de Ciencias Naturales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
 rubric_baseline: "Hábitats animales: tipos (terrestres, acuáticos, aeroterrestres) y adaptaciones al entorno."
+license: "FREE"
+tier: "legacy"
+
 ---
 
 # Los Hábitats de los Animales
@@ -267,3 +270,8 @@ El camuflaje es una herramienta de relación con el hábitat. Un tigre en la nie
 ### Explicación Pedagógica
 
 La pérdida de hábitat es la mayor amenaza para los animales hoy en día. Sin su "casa" natural, las especies no pueden cumplir sus funciones vitales. Por eso es tan importante proteger los ecosistemas y planear bien nuestras construcciones.
+
+
+[//]: # (QUALITY_REVIEW)
+[//]: # (STATUS: LEGACY - FREE USE)
+[//]: # (SCORE: N/A - Pre-QR era)
