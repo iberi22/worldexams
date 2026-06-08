@@ -7,13 +7,13 @@ tema: "repaso-p3"
 periodo: "2026-W14"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 14
 ---
 
-# Bundle Mastery: Repaso Periodo 3
+# Bundle Mastery: Repaso de Periodo 3
 
-Este bundle de repaso cubre los temas del tercer periodo: textos informativos, noticias e instrucciones/recetas. Contexto colombiano para grado 3.
+Este bundle integra los conocimientos de las semanas 11 a 13: textos informativos, noticias e instrucciones/recetas. Se enfoca en la extracción de datos y el seguimiento de procesos.
 
 ---
 
@@ -24,21 +24,19 @@ Este bundle de repaso cubre los temas del tercer periodo: textos informativos, n
 **Expected_Success:** 0.90
 
 ### Contexto
-**La mariposa monarca**
-
-La mariposa monarca viaja desde Canadá y Estados Unidos hasta los bosques de México. En Colombia se ven algunas mariposas monarca en los bosques de la Sierra Nevada de Santa Marta. Las monarcas son de color naranja con manchas negras. Pueden volar hasta 4.000 kilómetros en su viaje.
+"El cóndor de los Andes es el ave voladora más grande del mundo. Habita en las altas montañas de la cordillera de los Andes y se alimenta de animales muertos (es carroñero)".
 
 ### Enunciado
-¿De qué color es la mariposa monarca?
+Según el texto, ¿de qué se alimenta el cóndor?
 
 ### Options
-- [ ] A) Azul con blanco <!-- feedback: Incorrecto. -->
-- [x] B) Naranja con manchas negras <!-- feedback: ¡Correcto! El texto dice que son de color naranja con manchas negras. -->
-- [ ] C) Verde con amarillo <!-- feedback: Incorrecto. -->
-- [ ] D) Roja con azul <!-- feedback: Incorrecto. -->
+- [ ] A) De frutas pequeñas. <!-- feedback: Incorrecto. El texto dice que se alimenta de animales muertos. -->
+- [ ] B) De peces del océano. <!-- feedback: Incorrecto. El cóndor vive en las montañas, no en el mar. -->
+- [x] C) De animales muertos. <!-- feedback: ¡Correcto! El texto especifica que es carroñero y que esta es su fuente de alimento. -->
+- [ ] D) De insectos voladores. <!-- feedback: Incorrecto. No se mencionan los insectos en la dieta del cóndor. -->
 
 ### Explicación Pedagógica
-El texto informativo describe: "Son de color naranja con manchas negras."
+Repaso de textos informativos (Semana 11). Localizar datos literales sobre las características de los animales es una habilidad básica que permite consolidar la lectura de textos de ciencias naturales.
 
 ---
 
@@ -49,21 +47,20 @@ El texto informativo describe: "Son de color naranja con manchas negras."
 **Expected_Success:** 0.85
 
 ### Contexto
-**Noticia: Arreglo de la cancha del barrio**
-
-BARRANQUILLA, 5 de julio de 2026. La Alcaldía de Barranquilla arregló la cancha de fútbol del barrio La Paz. Pusieron grama nueva, pintaron las porterías e instalaron luces. Los niños del barrio estaban muy contentos porque ahora pueden jugar hasta la noche. La cancha estará abierta de lunes a viernes de 4 a 8 de la noche.
+**NOTICIA DE ÚLTIMA HORA:**
+"Ayer se inauguró la nueva biblioteca municipal. El evento contó con música en vivo y la asistencia de muchos niños que leyeron sus cuentos favoritos".
 
 ### Enunciado
-¿Qué arreglaron en el barrio La Paz?
+¿Cuál es el **titular** más apropiado para esta noticia?
 
 ### Options
-- [ ] A) Un parque <!-- feedback: Incorrecto. -->
-- [x] B) La cancha de fútbol <!-- feedback: ¡Correcto! Arreglaron la cancha de fútbol. -->
-- [ ] C) La biblioteca <!-- feedback: Incorrecto. -->
-- [ ] D) El colegio <!-- feedback: Incorrecto. -->
+- [x] A) Nueva biblioteca abre sus puertas a la comunidad. <!-- feedback: ¡Correcto! Resume perfectamente el hecho principal mencionado en el texto. -->
+- [ ] B) Los niños prefieren jugar que leer. <!-- feedback: Incorrecto. La noticia dice que los niños leyeron cuentos, no que prefieran jugar. -->
+- [ ] C) El concierto de música de ayer. <!-- feedback: Incorrecto. La música fue solo una parte de la inauguración de la biblioteca. -->
+- [ ] D) Se venden libros usados en el centro. <!-- feedback: Incorrecto. La noticia habla de una biblioteca, no de una venta de libros. -->
 
 ### Explicación Pedagógica
-La noticia dice: "arregló la cancha de fútbol del barrio La Paz."
+Repaso de noticias (Semana 12). El titular debe capturar la esencia del evento reportado. Identificar la opción que mejor sintetiza la información es un ejercicio de comprensión global.
 
 ---
 
@@ -74,63 +71,47 @@ La noticia dice: "arregló la cancha de fútbol del barrio La Paz."
 **Expected_Success:** 0.80
 
 ### Contexto
-**Receta: Arroz con leche**
-
-Ingredientes:
-- 1 taza de arroz
-- 4 tazas de leche
-- 1 astilla de canela
-- 1 taza de azúcar
-- Pasas al gusto
-- Cáscara de limón
-
-Preparación:
-1. Lava el arroz con agua fría.
-2. Pon la leche a hervir con la canela y la cáscara de limón.
-3. Agrega el arroz y cocina a fuego bajo por 30 minutos.
-4. Añade el azúcar y las pasas.
-5. Revuelve y cocina 10 minutos más.
-6. Sirve frío o caliente.
+**PASOS PARA CEPILLARSE LOS DIENTES:**
+1. Poner un poco de crema en el cepillo.
+2. Cepillar suavemente con movimientos circulares.
+3. Enjuagar la boca con abundante agua.
+4. Lavar el cepillo y guardarlo.
 
 ### Enunciado
-¿Qué ingrediente le da el sabor especial al arroz con leche?
+¿Cuál es la función del paso número 3 en este instructivo?
 
 ### Options
-- [ ] A) El arroz <!-- feedback: Incorrecto. -->
-- [ ] B) El azúcar <!-- feedback: Incorrecto. -->
-- [x] C) La canela y la cáscara de limón <!-- feedback: ¡Correcto! La canela y el limón le dan el sabor especial. -->
-- [ ] D) La leche <!-- feedback: Incorrecto. -->
+- [ ] A) Ensuciar el lavamanos. <!-- feedback: Incorrecto. El objetivo de las instrucciones es la limpieza y el cuidado personal. -->
+- [x] B) Eliminar los restos de crema y suciedad de la boca. <!-- feedback: ¡Correcto! El enjuague sirve para dejar la boca limpia después del cepillado. -->
+- [ ] C) Hacer burbujas con la crema. <!-- feedback: Incorrecto. Aunque puede pasar, no es la finalidad del paso en la higiene dental. -->
+- [ ] D) Mojar la ropa del niño. <!-- feedback: Incorrecto. Se debe hacer con cuidado para evitar precisamente eso. -->
 
 ### Explicación Pedagógica
-La receta incluye canela y cáscara de limón como ingredientes para dar sabor, además del arroz y la leche.
+Repaso de instrucciones (Semana 13). Comprender el "para qué" de cada paso ayuda al estudiante a entender la lógica de los procedimientos de cuidado personal.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W14-repaso-p3-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Instrucciones: Cómo reciclar en casa**
-
-1. Separa los residuos en tres grupos: orgánicos (cáscaras, sobras), reciclables (plástico, vidrio, papel) y no reciclables.
-2. Limpia los recipientes reciclables antes de guardarlos.
-3. Pon cada tipo de residuo en una bolsa diferente.
-4. Lleva los reciclables al punto de reciclaje más cercano.
+**Texto A:** "La vaca es un mamífero rumiante que produce leche para el consumo humano".
+**Texto B:** "La vaquita de mi finca tiene manchas negras y siempre me mira con sus ojos grandes cuando le llevo pasto".
 
 ### Enunciado
-¿Qué debes hacer justo después de separar los residuos?
+¿Cuál es la diferencia de **propósito** entre el Texto A y el Texto B?
 
 ### Options
-- [ ] A) Llevarlos al punto de reciclaje <!-- feedback: Incorrecto. Eso es el paso 4. -->
-- [x] B) Limpiar los recipientes reciclables <!-- feedback: ¡Correcto! Después de separar, se limpian los reciclables. -->
-- [ ] C) Botar todo a la basura <!-- feedback: Incorrecto. -->
-- [ ] D) Ponerlos en una bolsa <!-- feedback: Incorrecto. Eso es el paso 3. -->
+- [ ] A) El Texto A es para entretener y el Texto B para informar. <!-- feedback: Incorrecto. Es al revés: el A informa y el B parece parte de un relato personal. -->
+- [x] B) El Texto A da información científica y el Texto B cuenta una experiencia personal. <!-- feedback: ¡Correcto! El lenguaje del Texto A es objetivo y el del B es afectivo y descriptivo de un caso particular. -->
+- [ ] C) Ambos textos quieren que compremos una vaca. <!-- feedback: Incorrecto. Ninguno tiene lenguaje de venta o publicidad. -->
+- [ ] D) Los dos textos son exactamente iguales. <!-- feedback: Incorrecto. Usan palabras y tonos muy diferentes para hablar del mismo animal. -->
 
 ### Explicación Pedagógica
-El paso 1 es separar, el paso 2 es limpiar los reciclables. El orden es importante para reciclar bien.
+Este ejercicio integra la capacidad de distinguir tipos de textos (Informativo vs. Narrativo/Descriptivo), una habilidad central para la lectura crítica en primaria.
 
 ---
 
@@ -141,105 +122,92 @@ El paso 1 es separar, el paso 2 es limpiar los reciclables. El orden es importan
 **Expected_Success:** 0.70
 
 ### Contexto
-**La palma de cera del Quindío**
-
-La palma de cera del Quindío es el árbol nacional de Colombia. Puede medir hasta 60 metros de altura, lo que equivale a un edificio de 20 pisos. Crece en los bosques de la Cordillera Central, especialmente en el departamento del Quindío. Está en peligro de extinción porque han talado muchos bosques. El loro orejiamarillo depende de esta palma para vivir.
+En una noticia sobre el clima: "Se espera que este fin de semana haga mucho calor en la región Caribe. Se recomienda usar bloqueador solar y beber mucha agua".
 
 ### Enunciado
-¿Cuál es la principal razón por la que la palma de cera está en peligro?
+Si una persona lee esta noticia y decide **quedarse en casa viendo televisión sin tomar agua**, ¿qué parte de la noticia está ignorando?
 
 ### Options
-- [ ] A) Porque crece muy lento <!-- feedback: Incorrecto. -->
-- [ ] B) Porque los loros se la comen <!-- feedback: Incorrecto. -->
-- [x] C) Porque han talado muchos bosques <!-- feedback: ¡Correcto! El texto dice que ha sido por la tala de bosques. -->
-- [ ] D) Porque es muy alta <!-- feedback: Incorrecto. -->
+- [ ] A) El titular sobre el clima. <!-- feedback: Incorrecto. Sabe que hará calor, pero no sigue los consejos. -->
+- [x] B) Las recomendaciones de salud dadas por el periodista. <!-- feedback: ¡Correcto! La noticia no solo informa el hecho (calor), sino que da instrucciones de cuidado que la persona no está siguiendo. -->
+- [ ] C) El lugar donde ocurrirá el calor. <!-- feedback: Incorrecto. Sabe que es en su región pero decide no actuar. -->
+- [ ] D) La fecha de la noticia. <!-- feedback: Incorrecto. La acción de ignorar se refiere a los consejos de bienestar. -->
 
 ### Explicación Pedagógica
-El texto informativo explica que la palma de cera está "en peligro de extinción porque han talado muchos bosques."
+Las noticias a menudo incluyen una parte instructiva o de servicio a la comunidad. Reconocer esta función mixta ayuda al estudiante a aplicar lo leído a su vida diaria.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W14-repaso-p3-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Noticia: Olimpiadas escolares en Ibagué**
-
-IBAGUÉ, 10 de julio de 2026. Comenzaron las Olimpiadas Escolares en la ciudad de Ibagué. Participan 15 colegios públicos. Las competencias son: atletismo, natación, fútbol y ajedrez. El evento dura una semana. El viernes se hará la ceremonia de premiación en el estadio Manuel Murillo Toro.
+**RECETA DE ENSALADA DE FRUTAS**
+(Faltan las palabras de orden)
+- __________ lava las frutas.
+- __________ pica las frutas en trozos.
+- __________ mezcla con yogur.
+- __________ sirve y disfruta.
 
 ### Enunciado
-¿Cuándo será la ceremonia de premiación de las Olimpiadas?
+¿Cuál es el grupo de palabras que completa correctamente el orden de la receta?
 
 ### Options
-- [ ] A) El lunes al empezar <!-- feedback: Incorrecto. -->
-- [ ] B) El miércoles <!-- feedback: Incorrecto. -->
-- [ ] C) El sábado <!-- feedback: Incorrecto. -->
-- [x] D) El viernes en el estadio <!-- feedback: ¡Correcto! El viernes es la premiación en el estadio Manuel Murillo Toro. -->
+- [ ] A) Después - Primero - Finalmente - Luego <!-- feedback: Incorrecto. No podemos empezar por "Después". -->
+- [ ] B) Finalmente - Luego - Después - Primero <!-- feedback: Incorrecto. Este es el orden inverso, no tiene lógica en una receta. -->
+- [x] C) Primero - Luego - Después - Finalmente <!-- feedback: ¡Correcto! Estas palabras marcan el orden lógico desde el inicio hasta el final de la preparación. -->
+- [ ] D) Nunca - Siempre - A veces - Quizás <!-- feedback: Incorrecto. Estas palabras no indican orden temporal, sino frecuencia. -->
 
 ### Explicación Pedagógica
-La noticia dice: "El viernes se hará la ceremonia de premiación en el estadio Manuel Murillo Toro."
+El uso de adverbios y conectores temporales es fundamental para la coherencia de los textos instructivos y narrativos. Este ejercicio refuerza la estructuración lógica de los procesos.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W14-repaso-p3-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Noticia: Campeonato de ajedrez infantil**
-
-PASTO, 14 de julio de 2026. La Biblioteca Departamental de Nariño organizó el primer Campeonato de Ajedrez Infantil. Participaron 60 niños de 8 a 12 años de todos los municipios del departamento. Las partidas duraron entre 20 y 40 minutos. El ganador fue Miguel Ángel Rosero, un niño de 10 años de la ciudad de Pasto, quien ganó las 5 partidas que jugó.
+"Los computadores son máquinas que procesan información rápidamente. Para que funcionen, necesitan hardware (partes físicas como el teclado) y software (programas y aplicaciones)".
 
 ### Enunciado
-¿Qué información se puede deducir sobre Miguel Ángel Rosero?
+¿Qué podemos deducir sobre un computador si **se le daña el teclado**?
 
 ### Options
-- [ ] A) Que es el niño más grande del torneo <!-- feedback: Incorrecto. Había niños de hasta 12 años. -->
-- [ ] B) Que nunca había jugado ajedrez <!-- feedback: Incorrecto. -->
-- [x] C) Que es muy bueno jugando ajedrez <!-- feedback: ¡Correcto! Ganó las 5 partidas que jugó, eso muestra que es muy bueno. -->
-- [ ] D) Que viajó desde otro país <!-- feedback: Incorrecto. -->
+- [ ] A) Que el software dejará de existir. <!-- feedback: Incorrecto. Los programas siguen ahí, pero no podemos interactuar con ellos fácilmente. -->
+- [x] B) Que una parte de su hardware está fallando y esto afectará su funcionamiento. <!-- feedback: ¡Correcto! El teclado es hardware y su falla impide el uso normal de la máquina según el texto. -->
+- [ ] C) Que el computador procesará la información más rápido. <!-- feedback: Incorrecto. Un daño nunca mejora la velocidad del equipo. -->
+- [ ] D) Que ya no necesita software para funcionar. <!-- feedback: Incorrecto. Sigue necesitando ambos componentes para estar completo. -->
 
 ### Explicación Pedagógica
-Ganar las 5 partidas del torneo demuestra que Miguel Ángel tiene mucha habilidad en el ajedrez.
+Analizar definiciones técnicas permite al estudiante realizar inferencias lógicas. Comprender la relación entre las partes (hardware/software) y el todo (computador) es un ejercicio de pensamiento analítico.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W14-repaso-p3-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Evaluate
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Instrucciones: Cómo hacer un germinador de frijol**
-
-Materiales:
-- Un frasco de vidrio
-- Algodón
-- 5 semillas de frijol
-- Agua
-
-Pasos:
-1. Pon una capa de algodón en el fondo del frasco.
-2. Humedece el algodón sin encharcarlo.
-3. Coloca las semillas sobre el algodón húmedo.
-4. Pon el frasco cerca de una ventana donde le dé luz.
-5. Todos los días revisa que el algodón esté húmedo.
-6. En una semana verás que las semillas germinan y salen raíces.
+Lees dos noticias sobre el mismo tema:
+1. "El equipo perdió porque los jugadores estaban muy cansados".
+2. "El equipo perdió porque el entrenador no sabe nada de fútbol".
 
 ### Enunciado
-Según el texto, ¿qué debes hacer todos los días para que las semillas germinen?
+¿Por qué la noticia número 2 es menos confiable que la número 1?
 
 ### Options
-- [ ] A) Cambiar el frasco <!-- feedback: Incorrecto. -->
-- [ ] B) Poner más semillas <!-- feedback: Incorrecto. -->
-- [x] C) Revisar que el algodón esté húmedo <!-- feedback: ¡Correcto! El paso 5 dice que hay que revisar la humedad todos los días. -->
-- [ ] D) Tapar el frasco <!-- feedback: Incorrecto. -->
+- [ ] A) Porque es más corta y fácil de leer. <!-- feedback: Incorrecto. La longitud no define la confiabilidad. -->
+- [x] B) Porque usa un insulto u opinión negativa en lugar de dar una razón física o real. <!-- feedback: ¡Correcto! Decir "no sabe nada" es una opinión ofensiva, mientras que "estar cansados" es una condición física observable. -->
+- [ ] C) Porque no menciona el nombre del equipo. <!-- feedback: Incorrecto. Ninguna de las dos lo menciona en este ejemplo corto. -->
+- [ ] D) Porque las dos dicen la verdad absoluta. <!-- feedback: Incorrecto. Las noticias pueden tener diferentes niveles de objetividad. -->
 
 ### Explicación Pedagógica
-Las semillas necesitan humedad constante para germinar. Por eso hay que revisar el algodón todos los días.
+Evaluar la carga subjetiva de los textos periodísticos desarrolla el pensamiento crítico. El estudiante debe identificar cuándo una información se convierte en un ataque personal u opinión sin sustento.

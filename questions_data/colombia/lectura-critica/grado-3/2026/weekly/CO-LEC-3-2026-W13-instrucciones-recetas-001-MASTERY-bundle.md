@@ -7,13 +7,13 @@ tema: "instrucciones-recetas"
 periodo: "2026-W13"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 13
 ---
 
 # Bundle Mastery: Instrucciones y Recetas
 
-Este bundle evalúa la comprensión de textos instructivos: seguir pasos, identificar ingredientes y entender el propósito de recetas e instrucciones. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de seguir pasos ordenados, comprender el uso de ingredientes y materiales, y entender la importancia del orden lógico en los textos instructivos.
 
 ---
 
@@ -24,259 +24,198 @@ Este bundle evalúa la comprensión de textos instructivos: seguir pasos, identi
 **Expected_Success:** 0.90
 
 ### Contexto
-**Receta: Limonada colombiana**
-
-Ingredientes:
-- 4 limones
-- 4 cucharadas de azúcar
-- 1 litro de agua
-- Hielo al gusto
-
-Preparación:
-1. Lavar bien los limones.
-2. Partir los limones por la mitad y exprimirlos.
-3. Mezclar el jugo de limón con el agua y el azúcar.
-4. Servir en un vaso con hielo.
+**RECETA PARA UN JUGO DE MANGO**
+- **Ingredientes:** 2 mangos maduros, 1 litro de agua, azúcar al gusto.
+- **Preparación:**
+  1. Lavar y pelar los mangos.
+  2. Cortar la pulpa en trozos.
+  3. Licuar con el agua y el azúcar.
+  4. Colar y servir frío.
 
 ### Enunciado
-¿Cuántos limones se necesitan para hacer la limonada?
+¿Qué es lo **primero** que se debe hacer antes de cortar la pulpa del mango?
 
 ### Options
-- [ ] A) 2 <!-- feedback: Incorrecto. Son 4 limones. -->
-- [x] B) 4 <!-- feedback: ¡Correcto! La receta dice 4 limones. -->
-- [ ] C) 6 <!-- feedback: Incorrecto. -->
-- [ ] D) 1 <!-- feedback: Incorrecto. -->
+- [ ] A) Licuar con azúcar. <!-- feedback: Incorrecto. Eso se hace después de tener la pulpa cortada. -->
+- [x] B) Lavar y pelar los mangos. <!-- feedback: ¡Correcto! La receta indica que el lavado y pelado es el paso inicial. -->
+- [ ] C) Servir el jugo frío. <!-- feedback: Incorrecto. Servir es el último paso de todos. -->
+- [ ] D) Colar la mezcla. <!-- feedback: Incorrecto. Solo se puede colar después de haber licuado. -->
 
 ### Explicación Pedagógica
-La lista de ingredientes dice: "4 limones". Es importante leer la receta completa antes de empezar.
+Seguir la secuencia temporal en un texto instructivo es vital para el éxito de la tarea. Identificar el paso previo demuestra que el estudiante comprende la estructura de pasos ordenados de la receta.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**Instrucciones: Cómo cuidar una planta**
-
-1. Pon la maceta en un lugar donde le dé la luz del sol.
-2. Riégala cada dos días con poca agua.
-3. Quita las hojas secas cuando las veas.
-4. Abona la tierra una vez al mes.
+**INSTRUCCIONES PARA UN JUEGO DE MESA**
+- Cada jugador elige una ficha de diferente color.
+- Tiren el dado; quien saque el número más alto comienza el juego.
+- Avancen tantas casillas como indique el dado en cada turno.
+- Gana quien llegue primero a la casilla 50.
 
 ### Enunciado
-¿Qué debes hacer primero para cuidar la planta?
+¿Quién gana el juego según las instrucciones?
 
 ### Options
-- [ ] A) Regarla <!-- feedback: Incorrecto. Eso es el paso 2. -->
-- [x] B) Pon la maceta donde le dé la luz del sol <!-- feedback: ¡Correcto! El primer paso es ponerla al sol. -->
-- [ ] C) Quitar las hojas secas <!-- feedback: Incorrecto. Eso es el paso 3. -->
-- [ ] D) Abonar la tierra <!-- feedback: Incorrecto. Eso es el paso 4. -->
+- [ ] A) Quien elija la ficha de color rojo. <!-- feedback: Incorrecto. El color de la ficha no decide quién gana. -->
+- [ ] B) Quien saque el número más alto al tirar el dado por primera vez. <!-- feedback: Incorrecto. Sacar el número más alto solo sirve para decidir quién empieza. -->
+- [x] C) El primer jugador que logre llegar a la casilla número 50. <!-- feedback: ¡Correcto! Las reglas establecen esta meta específica para declarar al ganador. -->
+- [ ] D) Todos los jugadores al mismo tiempo. <!-- feedback: Incorrecto. Las instrucciones dicen que gana quien llegue "primero". -->
 
 ### Explicación Pedagógica
-Las instrucciones tienen un orden. El paso 1 es: "Pon la maceta en un lugar donde le dé la luz del sol."
+Identificar el objetivo o meta en un texto instructivo permite al estudiante comprender el propósito de las reglas. Saber "cómo se gana" es la base para interpretar cualquier reglamento de juego.
 
 ---
 
 ## Question 3 [D2-D3]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.80
 
 ### Contexto
-**Receta: Arepas de queso**
-
-Ingredientes:
-- 2 tazas de harina de maíz
-- 1 taza de queso rallado
-- 1 cucharadita de sal
-- 2 tazas de agua
-- 2 cucharadas de mantequilla
-
-Preparación:
-1. Mezclar la harina con la sal.
-2. Agregar el agua poco a poco y amasar.
-3. Añadir el queso rallado y mezclar bien.
-4. Formar bolitas y aplastarlas para hacer las arepas.
-5. Cocinar en un sartén con mantequilla hasta que doren.
+Para armar un avión de papel:
+"Toma una hoja de papel tamaño carta. Dóblala por la mitad a lo largo y vuelve a abrirla. Luego, dobla las dos esquinas de arriba hacia la línea del centro..."
 
 ### Enunciado
-¿Qué debes hacer justo después de mezclar la harina con la sal?
+¿Qué material se necesita **obligatoriamente** para realizar esta actividad?
 
 ### Options
-- [ ] A) Añadir el queso rallado <!-- feedback: Incorrecto. Eso es el paso 3. -->
-- [x] B) Agregar el agua y amasar <!-- feedback: ¡Correcto! Después de mezclar harina y sal, se agrega el agua. -->
-- [ ] C) Cocinar en el sartén <!-- feedback: Incorrecto. Eso es el paso 5. -->
-- [ ] D) Formar las arepas <!-- feedback: Incorrecto. Eso es el paso 4. -->
+- [ ] A) Tijeras y pegante. <!-- feedback: Incorrecto. El texto solo menciona el uso de papel y la acción de doblar. -->
+- [x] B) Una hoja de papel tamaño carta. <!-- feedback: ¡Correcto! Es el único material que mencionan las instrucciones. -->
+- [ ] C) Colores y marcadores. <!-- feedback: Incorrecto. Puedes usarlos para decorar, pero no son necesarios para armar el avión. -->
+- [ ] D) Una regla de metal. <!-- feedback: Incorrecto. No se menciona la regla en las instrucciones. -->
 
 ### Explicación Pedagógica
-Siguiendo los pasos numerados: 1. Mezclar harina y sal. 2. Agregar agua y amasar. El orden es clave.
+Diferenciar entre materiales necesarios y opcionales es parte de la comprensión de textos instructivos. El estudiante debe extraer de la lectura qué elementos son indispensables para cumplir el objetivo.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Instrucciones: Cómo hacer un avión de papel**
-
-Materiales: una hoja de papel tamaño carta.
-
-Pasos:
-1. Dobla la hoja por la mitad a lo largo y desdóblala.
-2. Dobla las dos esquinas superiores hacia el centro.
-3. Vuelve a doblar los bordes hacia el centro.
-4. Dobla el papel por la mitad.
-5. Dobla las alas hacia abajo.
+**PASOS PARA SEMBRAR UNA SEMILLA:**
+1. Haz un hueco pequeño en la tierra.
+2. Introduce la semilla.
+3. Cubre la semilla con un poco de tierra.
+4. Riega con agua sin inundar el lugar.
 
 ### Enunciado
-¿Qué materiales necesitas para hacer el avión de papel?
+Si un niño introduce la semilla en la tierra pero **se le olvida** hacer el paso 3, ¿qué pasará?
 
 ### Options
-- [x] A) Una hoja de papel <!-- feedback: ¡Correcto! Solo necesitas una hoja de papel. -->
-- [ ] B) Tijeras y pegamento <!-- feedback: Incorrecto. -->
-- [ ] C) Una hoja y un lápiz <!-- feedback: Incorrecto. -->
-- [ ] D) Cartulina y marcadores <!-- feedback: Incorrecto. -->
+- [ ] A) La semilla crecerá mucho más rápido. <!-- feedback: Incorrecto. La semilla necesita estar cubierta para protegerse y germinar bien. -->
+- [x] B) La semilla quedará al aire libre y los pájaros podrían comérsela. <!-- feedback: ¡Correcto! Si no se cubre con tierra, la semilla no está protegida del ambiente. -->
+- [ ] C) El agua la cubrirá automáticamente. <!-- feedback: Incorrecto. El agua no reemplaza la función de la tierra protectora. -->
+- [ ] D) No pasará nada, la tierra no es importante. <!-- feedback: Incorrecto. La tierra es fundamental para el crecimiento de la planta. -->
 
 ### Explicación Pedagógica
-Las instrucciones indican: "Materiales: una hoja de papel tamaño carta." Con eso es suficiente.
+Entender la importancia de cada paso en una secuencia permite al estudiante predecir consecuencias de errores o descuidos. Esto demuestra que comprende la función lógica de cada instrucción.
 
 ---
 
 ## Question 5 [D3-D4]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Secuencial
-**Expected_Success:** 0.65
+**ICFES:** Semántico
+**Expected_Success:** 0.70
 
 ### Contexto
-**Receta: Obleas con arequipe**
-
-Ingredientes:
-- 6 obleas
-- 1 tarro de arequipe (dulce de leche)
-- Queso rallado (opcional)
-- Fresas en rodajas (opcional)
-
-Preparación:
-1. Coloca una oblea en un plato.
-2. Unta una capa de arequipe sobre la oblea.
-3. Si quieres, añade queso rallado o fresas.
-4. Tapa con otra oblea.
-5. Repite los pasos 2, 3 y 4 hasta terminar las obleas.
+**REGLAS DE LA BIBLIOTECA ESCOLAR:**
+- Entrar en silencio para no molestar a los demás.
+- Devolver los libros en la fecha indicada.
+- No consumir alimentos ni bebidas dentro de la sala.
+- Cuidar los libros, no rayarlos ni arrancarles hojas.
 
 ### Enunciado
-Si quieres hacer una oblea con fresas, ¿cuándo debes añadirlas?
+¿Cuál es la regla que ayuda a mantener la **limpieza** del lugar?
 
 ### Options
-- [ ] A) Al final, después de tapar con la última oblea <!-- feedback: Incorrecto. -->
-- [ ] B) Antes de untar el arequipe <!-- feedback: Incorrecto. -->
-- [x] C) Después de untar el arequipe <!-- feedback: ¡Correcto! Primero se unta arequipe, luego se añaden las fresas. -->
-- [ ] D) Al principio, antes de colocar la oblea <!-- feedback: Incorrecto. -->
+- [ ] A) Entrar en silencio. <!-- feedback: Incorrecto. Esta regla es para evitar el ruido, no para la limpieza. -->
+- [ ] B) Devolver los libros a tiempo. <!-- feedback: Incorrecto. Esta regla es para la organización del préstamo. -->
+- [x] C) No consumir alimentos ni bebidas. <!-- feedback: ¡Correcto! Esta norma evita que caigan migas o se derramen líquidos que ensucien el espacio. -->
+- [ ] D) Cuidar los libros. <!-- feedback: Incorrecto. Aunque ayuda al cuidado, se refiere más al estado físico de los libros que a la limpieza general del salón. -->
 
 ### Explicación Pedagógica
-El paso 2 es untar arequipe y el paso 3 es añadir los ingredientes opcionales. Las fresas van después del arequipe.
+Categorizar reglas según su propósito (silencio, limpieza, puntualidad) desarrolla habilidades de análisis y clasificación. El estudiante debe entender el "por qué" detrás de cada norma social o escolar.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Secuencial
-**Expected_Success:** 0.60
+**Bloom:** Understand
+**ICFES:** Semántico
+**Expected_Success:** 0.65
 
 ### Contexto
-**Instrucciones: Cómo preparar una lonchera saludable**
-
-1. Escoge una fruta (manzana, pera o banano).
-2. Prepara un sándwich con pan integral, pollo y lechuga.
-3. Pon agua en una botella reutilizable.
-4. Empaca todo en la lonchera.
-5. Pon una servilleta y un tenedor pequeño.
+"Mezcle suavemente los ingredientes secos (harina y azúcar) con los húmedos (leche y huevos) hasta obtener una masa sin grumos".
 
 ### Enunciado
-Según las instrucciones, ¿qué debes hacer justo antes de empacar todo en la lonchera?
+¿Qué significa la expresión "**hasta obtener una masa sin grumos**"?
 
 ### Options
-- [ ] A) Escoger una fruta <!-- feedback: Incorrecto. Eso es el paso 1. -->
-- [ ] B) Preparar el sándwich <!-- feedback: Incorrecto. Eso es el paso 2. -->
-- [x] C) Poner agua en una botella <!-- feedback: ¡Correcto! Paso 3 es poner agua. Paso 4 es empacar. -->
-- [ ] D) Poner la servilleta <!-- feedback: Incorrecto. Eso es el paso 5, después de empacar. -->
+- [ ] A) Que debemos parar de mezclar apenas juntemos los ingredientes. <!-- feedback: Incorrecto. Hay que mezclar el tiempo suficiente para que la textura sea lisa. -->
+- [x] B) Que debemos seguir batiendo hasta que la mezcla sea suave y no tenga bolitas de harina. <!-- feedback: ¡Correcto! "Grumos" son las acumulaciones de harina que deben desaparecer con el batido. -->
+- [ ] C) Que debemos agregar más harina si la masa está muy líquida. <!-- feedback: Incorrecto. El texto habla de la textura de la mezcla, no de la cantidad. -->
+- [ ] D) Que la masa debe tener trozos grandes de comida. <!-- feedback: Incorrecto. "Sin grumos" significa precisamente lo contrario. -->
 
 ### Explicación Pedagógica
-El paso 3 es poner agua en la botella. El paso 4 es empacar todo. Antes de empacar, se necesita el agua lista.
+El vocabulario específico de los textos instructivos (como "grumos") debe ser interpretado correctamente para que la acción se realice de forma adecuada. Identificar sinónimos o descripciones de estos términos es clave en grado 3.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Secuencial
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**Instrucciones: Cómo jugar al tingo tango**
-
-Para jugar al tingo tango necesitas: un grupo de personas y un objeto pequeño (como una pelota o un pañuelo).
-
-Instrucciones:
-1. Todos se sientan en un círculo.
-2. Una persona se queda en el centro y cierra los ojos.
-3. Los jugadores se pasan el objeto mientras la persona del centro dice "tingo, tingo, tingo..."
-4. Cuando la persona del centro dice "¡tango!", el que tenga el objeto en las manos sale del círculo.
-5. Gana el último que quede en el círculo.
+Observa estas dos instrucciones para cruzar la calle:
+1. "Mira para ambos lados antes de pasar".
+2. "Cruza la calle solo cuando el semáforo esté en verde para los peatones".
 
 ### Enunciado
-¿Qué pasa cuando la persona del centro dice "¡tango!"?
+¿Cuál es la relación entre estas dos instrucciones?
 
 ### Options
-- [ ] A) Todos cambian de puesto <!-- feedback: Incorrecto. -->
-- [ ] B) El juego termina <!-- feedback: Incorrecto. -->
-- [x] C) El que tiene el objeto sale del círculo <!-- feedback: ¡Correcto! Cuando dice "tango", el que tiene el objeto sale. -->
-- [ ] D) La persona del centro se sienta <!-- feedback: Incorrecto. -->
+- [ ] A) La primera instrucción es más importante que la segunda. <!-- feedback: Incorrecto. Ambas son importantes y se complementan. -->
+- [ ] B) Dicen cosas opuestas, hay que elegir una sola. <!-- feedback: Incorrecto. No son opuestas, son consejos de seguridad que funcionan juntos. -->
+- [x] C) Son dos reglas de seguridad que juntas ayudan a evitar accidentes. <!-- feedback: ¡Correcto! Ambas instrucciones buscan el mismo objetivo: que el peatón cruce de forma segura. -->
+- [ ] D) La segunda solo aplica para los que van en carro. <!-- feedback: Incorrecto. La instrucción dice claramente "para los peatones". -->
 
 ### Explicación Pedagógica
-El paso 4 dice: "Cuando la persona del centro dice '¡tango!', el que tenga el objeto en las manos sale del círculo."
+Analizar la complementariedad de instrucciones ayuda a los estudiantes a integrar información de diferentes fuentes o frases para construir una conducta segura o un procedimiento completo.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W13-instrucciones-recetas-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Semántico
+**Bloom:** Evaluate
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Receta: Champus (bebida típica del Valle)**
-
-Ingredientes:
-- 1 taza de maíz trillado
-- 1 taza de panela rallada
-- 1 taza de lulo picado
-- 1 astilla de canela
-- 2 litros de agua
-- Hielo al gusto
-
-Preparación:
-1. Pon el maíz a remojar en agua desde la noche anterior.
-2. Al día siguiente, hierve el maíz con la panela y la canela por 30 minutos.
-3. Agrega el lulo picado y cocina 10 minutos más.
-4. Deja enfriar y sirve con hielo.
+Un niño está siguiendo las instrucciones para armar un juguete de bloques. El manual tiene dibujos pero no tiene palabras.
 
 ### Enunciado
-¿Por qué es necesario remojar el maíz desde la noche anterior?
+¿Qué ventaja tienen los **dibujos** sobre las palabras en un manual de instrucciones?
 
 ### Options
-- [ ] A) Para que sepa mejor <!-- feedback: Incorrecto. -->
-- [x] B) Para que se ablande antes de cocinarlo <!-- feedback: ¡Correcto! Remojar el maíz ayuda a que se ablande y se cocine mejor. -->
-- [ ] C) Para que se pegue a la olla <!-- feedback: Incorrecto. -->
-- [ ] D) Para que cambie de color <!-- feedback: Incorrecto. -->
+- [ ] A) Ninguna, siempre es mejor tener solo palabras. <!-- feedback: Incorrecto. Los dibujos son muy útiles para ver cómo deben quedar las piezas. -->
+- [x] B) Permiten entender los pasos sin importar el idioma que hables y muestran cómo va cada pieza. <!-- feedback: ¡Correcto! El lenguaje visual es universal y facilita la comprensión de formas y posiciones. -->
+- [ ] C) Hacen que el manual sea más pesado y difícil de cargar. <!-- feedback: Incorrecto. El peso no es el factor importante en la utilidad de un manual. -->
+- [ ] D) Los dibujos solo sirven para que el manual se vea más colorido. <!-- feedback: Incorrecto. Los dibujos tienen una función técnica de guía en las instrucciones. -->
 
 ### Explicación Pedagógica
-Remojar el maíz es un paso importante para que se ablande. La receta indica hacerlo "desde la noche anterior" por esta razón.
+Evaluar los diferentes lenguajes (verbal y visual) en los textos instructivos es parte de la alfabetización multimodal. El estudiante debe reconocer la utilidad práctica de las imágenes como apoyo a la acción.
