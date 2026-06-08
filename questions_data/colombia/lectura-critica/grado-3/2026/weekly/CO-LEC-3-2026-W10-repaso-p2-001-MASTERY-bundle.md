@@ -7,13 +7,13 @@ tema: "repaso-p2"
 periodo: "2026-W10"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 10
 ---
 
-# Bundle Mastery: Repaso Periodo 2
+# Bundle Mastery: Repaso de Periodo 2
 
-Este bundle de repaso cubre los temas del segundo periodo: cuentos infantiles, secuencia narrativa y fábulas. Contexto colombiano para grado 3.
+Este bundle integra los conocimientos de las semanas 6 a 9: estructura del cuento, análisis de personajes, secuencia narrativa y las características de la fábula.
 
 ---
 
@@ -24,193 +24,180 @@ Este bundle de repaso cubre los temas del segundo periodo: cuentos infantiles, s
 **Expected_Success:** 0.90
 
 ### Contexto
-**El caballo y el burro**
-
-Un campesino en el Cauca tenía un caballo y un burro. El caballo siempre se negaba a cargar cosas. El burro cargaba todo sin quejarse. Un día, el burro se enfermó de tanto trabajar. El campesino tuvo que ponerle la carga al caballo. El caballo terminó cargando más de lo que debía.
+Recordamos las partes de una historia: **Inicio**, **Nudo** y **Desenlace**.
 
 ### Enunciado
-¿Quién se enfermó por trabajar tanto?
+¿En qué parte de la historia se presenta el problema o conflicto que deben resolver los personajes?
 
 ### Options
-- [ ] A) El campesino <!-- feedback: Incorrecto. -->
-- [ ] B) El caballo <!-- feedback: Incorrecto. El caballo no trabajaba. -->
-- [x] C) El burro <!-- feedback: ¡Correcto! El burro se enfermó de tanto trabajar. -->
-- [ ] D) Los dos animales <!-- feedback: Incorrecto. -->
+- [ ] A) En el Inicio. <!-- feedback: Incorrecto. El inicio es para presentar personajes y el lugar. -->
+- [x] B) En el Nudo. <!-- feedback: ¡Correcto! El nudo es la parte central donde ocurre el conflicto o la dificultad. -->
+- [ ] C) En el Desenlace. <!-- feedback: Incorrecto. El desenlace es para resolver el problema, no para presentarlo. -->
+- [ ] D) En el título. <!-- feedback: Incorrecto. El título nombra la obra pero no es una de las tres partes de la estructura interna. -->
 
 ### Explicación Pedagógica
-El texto dice claramente: "El burro se enfermó de tanto trabajar."
+Identificar las partes de la estructura narrativa es fundamental para organizar la lectura. El nudo es el motor de la historia, ya que sin conflicto no habría trama.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**La visita al zoológico**
-
-La profesora de la escuela en Pereira organizó una visita al zoológico. Primero, los niños formaron dos filas. Luego, subieron al bus. Después de veinte minutos, llegaron al zoológico. Allí vieron monos, tigres y loros. Por último, almorzaron en el parque y regresaron al colegio.
+"La profesora de matemáticas, Doña Clara, es una mujer bajita, usa gafas redondas y siempre carga una regla de madera muy larga".
 
 ### Enunciado
-¿Qué hicieron los niños primero?
+¿Qué tipo de descripción se está haciendo de Doña Clara?
 
 ### Options
-- [x] A) Formaron dos filas <!-- feedback: ¡Correcto! Primero formaron las filas para organizarse. -->
-- [ ] B) Subieron al bus <!-- feedback: Incorrecto. Eso fue después de hacer filas. -->
-- [ ] C) Visitaron a los monos <!-- feedback: Incorrecto. Eso fue al llegar al zoológico. -->
-- [ ] D) Almorzaron en el parque <!-- feedback: Incorrecto. Eso fue al final. -->
+- [ ] A) De sus sentimientos. <!-- feedback: Incorrecto. No se menciona si está feliz o triste. -->
+- [x] B) De su apariencia física. <!-- feedback: ¡Correcto! Se habla de su estatura, sus gafas y lo que carga, que son rasgos observables. -->
+- [ ] C) De su historia de vida. <!-- feedback: Incorrecto. No se dice dónde nació o qué hizo en el pasado. -->
+- [ ] D) De su comida favorita. <!-- feedback: Incorrecto. No se menciona nada sobre alimentación. -->
 
 ### Explicación Pedagógica
-La secuencia de eventos comienza con formar las filas. Después subieron al bus, llegaron al zoológico y almorzaron.
+Este es un repaso de la descripción de personajes (Semana 7). Diferenciar rasgos físicos de otros tipos de información es clave para la comprensión de textos descriptivos y narrativos.
 
 ---
 
 ## Question 3 [D2-D3]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Inferencial
+**ICFES:** Semántico
 **Expected_Success:** 0.80
 
 ### Contexto
-**La zorra y el chivo**
-
-Una zorra cayó en un pozo profundo y no podía salir. Pasó un chivo y la vio. La zorra le dijo: "El agua de este pozo es deliciosa, bájate a probarla." El chivo saltó al pozo. La zorra se subió en los cuernos del chivo y saltó fuera. El chivo quedó atrapado en el pozo.
+Observa esta secuencia de una receta:
+1. Poner el pan en la tostadora.
+2. Esperar a que el pan esté doradito.
+3. Untarle mantequilla y mermelada.
 
 ### Enunciado
-¿Qué hizo la zorra para salir del pozo?
+¿Qué palabra usarías para conectar el paso 2 con el paso 3?
 
 ### Options
-- [ ] A) Saltó muy alto <!-- feedback: Incorrecto. No podía saltar tan alto. -->
-- [x] B) Usó los cuernos del chivo para subir <!-- feedback: ¡Correcto! Se subió en los cuernos del chivo y saltó fuera. -->
-- [ ] C) El chivo la empujó <!-- feedback: Incorrecto. -->
-- [ ] D) Esperó a que llegara ayuda <!-- feedback: Incorrecto. -->
+- [ ] A) Primero. <!-- feedback: Incorrecto. "Primero" se usa para el paso 1. -->
+- [ ] B) Al principio. <!-- feedback: Incorrecto. Esto también indica el comienzo del proceso. -->
+- [x] C) Luego o Después. <!-- feedback: ¡Correcto! Estas palabras indican que una acción sigue a la otra en el tiempo. -->
+- [ ] D) Hace mucho tiempo. <!-- feedback: Incorrecto. Esto se usa para cuentos antiguos, no para pasos de una receta. -->
 
 ### Explicación Pedagógica
-La zorra engañó al chivo para que saltara al pozo y luego usó sus cuernos como escalera para salir.
+El uso de conectores temporales es vital para la secuencia narrativa (Semana 8). Ayuda al estudiante a dar orden y claridad a los procesos que describe o lee.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Mariana siembra una mata**
-
-Mariana vive en una finca cerca de Manizales. Un domingo, su abuelo le enseñó a sembrar una mata de frijol. Primero, hicieron un hueco en la tierra. Luego, pusieron dos semillas dentro. Después, taparon el hueco con tierra. Por último, Mariana le echó agua. Todas las mañanas, Mariana revisaba si ya había salido la planta.
+En un cuento, el protagonista es un niño que pierde su juguete favorito y el **antagonista** es un perro travieso que se lo lleva para esconderlo en el patio.
 
 ### Enunciado
-¿Qué hicieron Mariana y su abuelo después de poner las semillas?
+¿Cuál es el papel del perro en esta historia?
 
 ### Options
-- [ ] A) Hicieron un hueco <!-- feedback: Incorrecto. Eso fue lo primero. -->
-- [x] B) Taparon el hueco con tierra <!-- feedback: ¡Correcto! Después de poner las semillas, taparon el hueco. -->
-- [ ] C) Echaron agua <!-- feedback: Incorrecto. Eso fue al final. -->
-- [ ] D) Revisaron la planta <!-- feedback: Incorrecto. Eso fue después de varios días. -->
+- [ ] A) Ser el mejor amigo del niño. <!-- feedback: Incorrecto. En esta historia específica, el perro está causando el problema. -->
+- [ ] B) Contar la historia a los lectores. <!-- feedback: Incorrecto. El perro es un personaje, no el narrador. -->
+- [x] C) Oponerse al deseo del protagonista (el niño). <!-- feedback: ¡Correcto! El antagonista es quien crea el conflicto o se interpone en el camino del personaje principal. -->
+- [ ] D) Encontrar el juguete para devolvérselo al niño. <!-- feedback: Incorrecto. El texto dice que el perro lo esconde, no que lo devuelva. -->
 
 ### Explicación Pedagógica
-El orden es: hacer hueco → poner semillas → tapar con tierra → echar agua. Tapar es el tercer paso.
+Repaso de roles de personajes (Semana 7). Comprender que el antagonista no siempre es un "villano" malo, sino simplemente alguien que se opone a los planes del protagonista, es un avance en el análisis literario.
 
 ---
 
 ## Question 5 [D3-D4]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Inferencial
+**ICFES:** Semántico
 **Expected_Success:** 0.70
 
 ### Contexto
-**El patito feo**
-
-En una laguna de la Sabana de Bogotá, una pata empolló sus huevos. De todos los patitos que nacieron, uno era diferente: más grande, de color gris y con un pico más ancho. Los otros patitos se burlaban de él. El patito se sintió muy triste y se fue a vivir solo. Pasó el tiempo y el patito gris se convirtió en un hermoso cisne blanco. Todos quedaron asombrados al verlo.
+"El Tortugo y la Liebre" es una historia donde un animal muy lento gana una carrera a uno muy rápido porque el rápido se queda dormido por exceso de confianza. Al final dice: "Despacio se llega lejos".
 
 ### Enunciado
-¿Cómo crees que se sintió el patito cuando los otros se burlaban de él?
+¿Qué elemento nos permite confirmar que este texto es una **fábula**?
 
 ### Options
-- [ ] A) Feliz <!-- feedback: Incorrecto. -->
-- [ ] B) Enojado <!-- feedback: Incorrecto. -->
-- [x] C) Triste <!-- feedback: ¡Correcto! Se sintió muy triste y por eso se fue a vivir solo. -->
-- [ ] D) Orgulloso <!-- feedback: Incorrecto. -->
+- [ ] A) Que tiene un final feliz para todos. <!-- feedback: Incorrecto. Muchos tipos de cuentos tienen finales felices. -->
+- [x] B) Que los personajes son animales con comportamientos humanos y tiene una moraleja. <!-- feedback: ¡Correcto! Estas son las dos características que definen el género de la fábula. -->
+- [ ] C) Que habla sobre una carrera deportiva. <!-- feedback: Incorrecto. El deporte no define el género literario. -->
+- [ ] D) Que es una historia muy corta. <!-- feedback: Incorrecto. Hay cuentos cortos que no son fábulas. -->
 
 ### Explicación Pedagógica
-El cuento dice que "el patito se sintió muy triste y se fue a vivir solo" porque se burlaban de él.
+Repaso de las características de la fábula (Semana 9). El estudiante debe ser capaz de justificar por qué un texto pertenece a un género específico basándose en sus rasgos internos.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**El desfile de la Independencia**
-
-En la ciudad de Cartagena, celebraron el 20 de julio con un gran desfile. A las 9 de la mañana, empezó el desfile con los estudiantes marchando. A las 10, pasaron los bomberos con su carro rojo. Después, una banda de música tocó por las calles. Al mediodía, la gente hizo un picnic en el parque.
+"Antes de salir de viaje hacia la Costa Atlántica, mi papá revisó el aceite del carro. Durante el camino, paramos a comer butifarras en Soledad. Finalmente, cruzamos el puente Pumarejo y entramos a Barranquilla".
 
 ### Enunciado
-¿Qué pasó después de que pasaron los bomberos?
+Según el texto, ¿qué acción ocurrió en la mitad del viaje?
 
 ### Options
-- [ ] A) Empezó el desfile con los estudiantes <!-- feedback: Incorrecto. Eso fue primero. -->
-- [ ] B) La gente hizo un picnic <!-- feedback: Incorrecto. Eso fue al mediodía, después de la banda. -->
-- [x] C) Una banda de música tocó por las calles <!-- feedback: ¡Correcto! Después de los bomberos, pasó la banda de música. -->
-- [ ] D) Se acabó el desfile <!-- feedback: Incorrecto. -->
+- [ ] A) Entrar a Barranquilla. <!-- feedback: Incorrecto. Eso fue lo último que pasó (finalmente). -->
+- [x] B) Comer butifarras en Soledad. <!-- feedback: ¡Correcto! El conector "Durante el camino" indica que pasó en el intermedio de la secuencia. -->
+- [ ] C) Revisar el aceite del carro. <!-- feedback: Incorrecto. Eso pasó "Antes de salir", es decir, al inicio. -->
+- [ ] D) Comprar los tiquetes del bus. <!-- feedback: Incorrecto. El texto dice que iban en carro, no en bus. -->
 
 ### Explicación Pedagógica
-La secuencia del desfile es: estudiantes → bomberos → banda de música → picnic al mediodía.
+Repaso de secuencia narrativa (Semana 8). Localizar eventos en una línea de tiempo narrativa requiere atención a los conectores y a la lógica cronológica del relato.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Inferencial
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.55
 
 ### Contexto
-**El caracol y el colibrí**
-
-Un caracol y un colibrí vivían en el jardín de una casa en Cali. El colibrí se burlaba del caracol porque se movía muy despacio. Un día, el colibrí se lastimó una ala y no podía volar. El caracol fue hasta la casa y avisó a la dueña. La señora recogió al colibrí y lo cuidó hasta que sanó. Desde entonces, el colibrí nunca más se burló del caracol.
+Un personaje de un cuento es descrito así: "Aunque tenía mucho dinero y tierras, su corazón estaba seco como la tierra en verano. Nunca compartía sus frutos y cerraba la puerta a quien pedía ayuda".
 
 ### Enunciado
-¿Qué enseñanza nos deja esta historia?
+¿Qué podemos inferir sobre la **personalidad** de este personaje?
 
 ### Options
-- [ ] A) Que los colibríes son frágiles <!-- feedback: Incorrecto. -->
-- [ ] B) Que los caracoles son lentos <!-- feedback: Incorrecto. -->
-- [x] C) Que no debemos burlarnos de los demás porque todos tenemos cualidades <!-- feedback: ¡Correcto! El caracol lento pudo ayudar al colibrí rápido. -->
-- [ ] D) Que los jardines son bonitos <!-- feedback: Incorrecto. -->
+- [ ] A) Que es una persona muy trabajadora. <!-- feedback: Incorrecto. El texto no habla de su trabajo, sino de su actitud hacia los demás. -->
+- [ ] B) Que le gusta mucho el verano. <!-- feedback: Incorrecto. El "verano" es una comparación para decir que es poco generoso. -->
+- [x] C) Que es una persona egoísta y poco solidaria. <!-- feedback: ¡Correcto! Las pistas "nunca compartía" y "cerraba la puerta" nos llevan a esta conclusión. -->
+- [ ] D) Que es un agricultor exitoso. <!-- feedback: Incorrecto. Aunque tenga tierras, el énfasis está en su carácter negativo. -->
 
 ### Explicación Pedagógica
-Aunque el caracol era lento, pudo ayudar al colibrí. La historia enseña que no debemos burlarnos de nadie.
+Repaso de análisis de personajes (Semana 7). El estudiante debe ir más allá de la descripción física y deducir rasgos psicológicos a partir de comparaciones y acciones descritas en el texto.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W10-repaso-p2-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Semántico
+**Bloom:** Evaluate
+**ICFES:** Crítico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Los tres cabritos**
-
-Tres cabritos vivían en una montaña del Eje Cafetero. El más pequeño cruzó un puente y debajo vivía un ogro. El ogro dijo: "¡Te voy a comer!" El cabrito pequeño dijo: "Espera a mi hermano, que es más grande." El ogro lo dejó pasar. Luego llegó el mediano y también dijo que esperara al grande. Por último, llegó el cabrito grande. Cuando el ogro salió, el cabrito grande lo embistió y lo tumbó al río. Los tres cabritos cruzaron felices.
+Imagina que un amigo te cuenta un cuento que empieza por el final: "Y así fue como el gato y el ratón terminaron siendo mejores amigos...".
 
 ### Enunciado
-¿Cómo lograron los cabritos cruzar el puente?
+¿Qué le falta a tu amigo por contar para que la historia tenga una estructura completa?
 
 ### Options
-- [ ] A) Corrieron muy rápido <!-- feedback: Incorrecto. -->
-- [ ] B) Escondiéndose <!-- feedback: Incorrecto. -->
-- [x] C) El cabrito grande venció al ogro <!-- feedback: ¡Correcto! El cabrito grande embistió al ogro y lo tumbó al río. -->
-- [ ] D) El ogro se fue solito <!-- feedback: Incorrecto. -->
+- [ ] A) Solo le falta decir el título. <!-- feedback: Incorrecto. El título es importante, pero no hace parte de la trama interna. -->
+- [ ] B) Le falta contar más finales diferentes. <!-- feedback: Incorrecto. Una historia solo necesita un desenlace claro. -->
+- [x] C) Le faltan el inicio (quiénes son y dónde estaban) y el nudo (qué pasó para que se hicieran amigos). <!-- feedback: ¡Correcto! Una narración completa necesita presentar los antecedentes y el conflicto que llevó al desenlace. -->
+- [ ] D) No le falta nada, así está perfecto. <!-- feedback: Incorrecto. Sin inicio ni nudo, el lector no entiende por qué los personajes terminaron así. -->
 
 ### Explicación Pedagógica
-Los cabritos usaron la astucia. Los pequeños engañaron al ogro y el grande lo venció con su fuerza.
+Este ejercicio evalúa la comprensión global de la estructura narrativa (Semana 6). El estudiante debe reconocer que el desenlace por sí solo no constituye una historia completa y coherente.
