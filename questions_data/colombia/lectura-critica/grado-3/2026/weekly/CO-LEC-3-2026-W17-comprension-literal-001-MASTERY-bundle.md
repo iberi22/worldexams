@@ -7,13 +7,13 @@ tema: "comprension-literal"
 periodo: "2026-W17"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 17
 ---
 
 # Bundle Mastery: Comprensión Literal
 
-Este bundle se enfoca en la comprensión literal de textos, donde los estudiantes aprenden a identificar información que está dicha de manera explícita y directa. Los niños practicarán responder preguntas cuyas respuestas se encuentran textualmente en lo que leen. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de recuperar información explícita que aparece directamente escrita en el texto, identificando datos, nombres, fechas y acciones puntuales.
 
 ---
 
@@ -24,21 +24,20 @@ Este bundle se enfoca en la comprensión literal de textos, donde los estudiante
 **Expected_Success:** 0.90
 
 ### Contexto
-**Texto: La fruta favorita de María**
-
-A María le encanta la fruta. Todas las mañanas come un plato de frutas picadas. Su fruta favorita es la papaya, pero también le gusta el mango y la guanábana. A veces su mamá le prepara un jugo de lulo para acompañar el desayuno.
+**La Ballena Yubarta**
+"Cada año, entre los meses de julio y noviembre, las ballenas yubartas llegan a las aguas cálidas del Pacífico colombiano para tener a sus crías. Viajan miles de kilómetros desde el frío sur hasta lugares como Bahía Málaga".
 
 ### Enunciado
-¿Cuál es la fruta favorita de María?
+¿En qué meses llegan las ballenas yubartas al Pacífico colombiano?
 
 ### Options
-- [ ] A) El mango <!-- feedback: Incorrecto. -->
-- [ ] B) La guanábana <!-- feedback: Incorrecto. -->
-- [x] C) La papaya <!-- feedback: ¡Correcto! El texto dice explícitamente que su fruta favorita es la papaya. -->
-- [ ] D) El lulo <!-- feedback: Incorrecto. -->
+- [ ] A) En enero y febrero. <!-- feedback: Incorrecto. El texto dice claramente que llegan entre julio y noviembre. -->
+- [x] B) Entre julio y noviembre. <!-- feedback: ¡Correcto! Esta información aparece de forma literal en el primer renglón del texto. -->
+- [ ] C) Todo el año. <!-- feedback: Incorrecto. El texto especifica un periodo de tiempo determinado. -->
+- [ ] D) Solo en el mes de diciembre. <!-- feedback: Incorrecto. Diciembre no está incluido en el rango mencionado. -->
 
 ### Explicación Pedagógica
-La comprensión literal es la habilidad de encontrar información que está escrita directamente en el texto. Aquí la respuesta está en la frase "Su fruta favorita es la papaya".
+La recuperación de datos temporales es el nivel más básico de la comprensión literal. El estudiante debe localizar la información exacta sin necesidad de interpretar o deducir nada más allá de lo escrito.
 
 ---
 
@@ -49,21 +48,19 @@ La comprensión literal es la habilidad de encontrar información que está escr
 **Expected_Success:** 0.85
 
 ### Contexto
-**Texto: El cumpleaños de la abuela**
-
-El sábado 15 de marzo celebramos el cumpleaños de la abuela Clara en su casa de Pamplona. Vinieron todos sus hijos y nietos. Comimos sancocho de gallina y de postre había torta de tres leches. La abuela sopló las velas y pidió un deseo. Todos cantamos "Feliz cumpleaños" y aplaudimos.
+"Para preparar una arepa de huevo, se necesita masa de maíz, huevos frescos, aceite para freír y una pizca de sal. Es un plato típico de la región Caribe colombiana".
 
 ### Enunciado
-¿Qué día se celebró el cumpleaños de la abuela Clara?
+Según el texto, ¿en qué región de Colombia es típica la arepa de huevo?
 
 ### Options
-- [ ] A) El domingo 16 de marzo <!-- feedback: Incorrecto. -->
-- [ ] B) El viernes 14 de marzo <!-- feedback: Incorrecto. -->
-- [x] C) El sábado 15 de marzo <!-- feedback: ¡Correcto! El texto dice "El sábado 15 de marzo" celebramos el cumpleaños. -->
-- [ ] D) El lunes 17 de marzo <!-- feedback: Incorrecto. -->
+- [ ] A) En la región Andina. <!-- feedback: Incorrecto. El texto no menciona la región Andina. -->
+- [ ] B) En la Amazonía. <!-- feedback: Incorrecto. No se habla de la Amazonía en el texto. -->
+- [x] C) En la región Caribe. <!-- feedback: ¡Correcto! El texto afirma literalmente que es un plato típico de esta región. -->
+- [ ] D) En todo el mundo. <!-- feedback: Incorrecto. El texto especifica su origen en el Caribe colombiano. -->
 
 ### Explicación Pedagógica
-Las fechas y datos numéricos aparecen escritos de manera explícita en los textos. Basta con localizarlos para responder correctamente.
+Identificar lugares o regiones mencionadas explícitamente en el texto refuerza la capacidad de atención y memoria de trabajo. El estudiante localiza el dato geográfico directo.
 
 ---
 
@@ -74,50 +71,46 @@ Las fechas y datos numéricos aparecen escritos de manera explícita en los text
 **Expected_Success:** 0.80
 
 ### Contexto
-**Texto: Los animales de la granja**
-
-En la granja de Don Jacinto, en la sabana de Bogotá, hay varios animales. Hay cinco vacas que dan leche todas las mañanas. También hay diez gallinas que ponen huevos. En el establo viven dos caballos: uno blanco llamado Rayo y uno café llamado Trueno. Además hay tres cerdos que siempre están en el lodo.
+"Simón Bolívar, conocido como el Libertador, nació en la ciudad de Caracas el 24 de julio de 1783. Luchó por la independencia de varios países de América del Sur".
 
 ### Enunciado
-¿Cómo se llaman los caballos de la granja?
+¿Cuál es el apodo o nombre por el que se conoce a Simón Bolívar según la lectura?
 
 ### Options
-- [ ] A) Jacinto y Bogotá <!-- feedback: Incorrecto. -->
-- [x] B) Rayo y Trueno <!-- feedback: ¡Correcto! El texto dice que los caballos se llaman Rayo y Trueno. -->
-- [ ] C) Blanco y Café <!-- feedback: Incorrecto. Esos son sus colores, no sus nombres. -->
-- [ ] D) Cinco y Diez <!-- feedback: Incorrecto. -->
+- [ ] A) El General. <!-- feedback: Incorrecto. Aunque fue general, el texto menciona otro nombre específico. -->
+- [x] B) El Libertador. <!-- feedback: ¡Correcto! El texto dice "conocido como el Libertador" justo después de su nombre. -->
+- [ ] C) El Presidente. <!-- feedback: Incorrecto. Esa palabra no aparece como un sobrenombre en el texto. -->
+- [ ] D) El Ciudadano. <!-- feedback: Incorrecto. El texto usa el término Libertador. -->
 
 ### Explicación Pedagógica
-Identificar nombres propios es parte de la comprensión literal. Los nombres son información explícita que ayuda a distinguir personas y animales en los textos.
+Reconocer apelativos o sinonimia explícita ("conocido como...") es una tarea de comprensión literal que requiere identificar cómo se nombra a un sujeto dentro del texto.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W17-comprension-literal-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**Texto: Preparando la maleta**
-
-Para ir a la playa en Santa Marta, Camilo empacó su maleta en este orden:
-1. Primero puso los pantalones cortos y las camisetas.
-2. Luego agregó el traje de baño y las chanclas.
-3. Después puso el bloqueador solar y la gorra.
-4. Por último metió el libro de aventuras que está leyendo.
+**Reglas del Parque:**
+1. No pisar las flores.
+2. Mantener a los perros con correa.
+3. Arrojar la basura en los cestos rojos.
+4. No usar bicicletas en los senderos peatonales.
 
 ### Enunciado
-¿Qué puso Camilo después del traje de baño y las chanclas?
+Si una persona tiene una botella de plástico vacía, ¿qué debe hacer según la regla número 3?
 
 ### Options
-- [ ] A) Los pantalones cortos <!-- feedback: Incorrecto. Eso fue primero. -->
-- [ ] B) El libro de aventuras <!-- feedback: Incorrecto. Eso fue al último. -->
-- [x] C) El bloqueador solar y la gorra <!-- feedback: ¡Correcto! Después del traje de baño (paso 2) vino el bloqueador y la gorra (paso 3). -->
-- [ ] D) Las camisetas <!-- feedback: Incorrecto. -->
+- [ ] A) Llevársela para su casa. <!-- feedback: Incorrecto. La regla dice qué hacer en el parque. -->
+- [ ] B) Dejarla sobre el pasto. <!-- feedback: Incorrecto. Eso iría en contra del cuidado del parque. -->
+- [x] C) Arrojarla en un cesto de color rojo. <!-- feedback: ¡Correcto! La regla 3 especifica el lugar y el color del recipiente para la basura. -->
+- [ ] D) Buscar un cesto de color azul. <!-- feedback: Incorrecto. El texto menciona específicamente cestos rojos. -->
 
 ### Explicación Pedagógica
-Seguir el orden de una secuencia es una habilidad importante de comprensión literal. Las palabras "primero", "luego", "después", "por último" nos guían para entender el orden de las acciones.
+La aplicación de una instrucción literal a un objeto específico (botella = basura) demuestra que el estudiante comprende la norma y puede localizar la indicación exacta para cumplirla.
 
 ---
 
@@ -128,60 +121,42 @@ Seguir el orden de una secuencia es una habilidad importante de comprensión lit
 **Expected_Success:** 0.70
 
 ### Contexto
-**Texto: El Torneo de Fútbol Intercolegiado**
-
-El Torneo Intercolegiado de Fútbol de Cundinamarca comenzó el 2 de mayo. Participan 12 colegios. Las reglas son:
-- Los partidos duran 60 minutos.
-- Cada equipo tiene 7 jugadores en la cancha.
-- No se permite el juego brusco.
-- El arquero puede usar las manos, los demás jugadores no.
-- Si un equipo recibe dos tarjetas amarillas, queda descalificado.
-- El partido final se jugará el 20 de junio en el estadio de Zipaquirá.
+"El sistema solar tiene ocho planetas principales. Los cuatro más cercanos al Sol son rocosos (Mercurio, Venus, Tierra y Marte). Los otros cuatro son gigantes gaseosos (Júpiter, Saturno, Urano y Neptuno)".
 
 ### Enunciado
-Según las reglas del torneo, ¿qué pasa si un equipo recibe dos tarjetas amarillas?
+Según el texto, ¿qué característica tienen en común **Júpiter y Neptuno**?
 
 ### Options
-- [ ] A) Saca al jugador por 10 minutos <!-- feedback: Incorrecto. -->
-- [ ] B) Le dan un tiro penal en contra <!-- feedback: Incorrecto. -->
-- [x] C) Queda descalificado del torneo <!-- feedback: ¡Correcto! El texto dice explícitamente "si un equipo recibe dos tarjetas amarillas, queda descalificado". -->
-- [ ] D) Pierde un punto <!-- feedback: Incorrecto. -->
+- [ ] A) Que son planetas rocosos. <!-- feedback: Incorrecto. Esos son los cuatro más cercanos al Sol. -->
+- [x] B) Que son gigantes gaseosos. <!-- feedback: ¡Correcto! El texto los agrupa en la categoría de "gigantes gaseosos". -->
+- [ ] C) Que están muy cerca del Sol. <!-- feedback: Incorrecto. El texto dice que "los otros cuatro" son los que no están cerca del Sol. -->
+- [ ] D) Que no pertenecen al sistema solar. <!-- feedback: Incorrecto. El texto dice que son parte de los ocho planetas principales. -->
 
 ### Explicación Pedagógica
-A veces la información importante está en una lista de reglas o condiciones. Localizar la regla específica nos da la respuesta exacta.
+Identificar categorías de clasificación dentro del texto permite al estudiante agrupar elementos según la información explícita. El estudiante debe localizar el grupo al que pertenecen los planetas mencionados.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W17-comprension-literal-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.65
 
 ### Contexto
-**Texto: Aviso de la biblioteca**
-
-AVISO IMPORTANTE A LOS ESTUDIANTES
-Biblioteca Municipal de Bucaramanga
-
-A partir del 1 de junio, la biblioteca cambia su horario:
-- Lunes a viernes: 8:00 a.m. a 6:00 p.m.
-- Sábados: 9:00 a.m. a 1:00 p.m.
-- Domingos y festivos: CERRADA
-
-Para sacar libros en préstamo, necesitas presentar tu carné de la biblioteca. Puedes tener hasta 3 libros por 15 días. Si devuelves los libros después de la fecha, pagas una multa de $500 por día de retraso.
+"El museo abre sus puertas de martes a domingo, de 9:00 a.m. a 5:00 p.m. Los lunes permanece cerrado por mantenimiento general de las salas y limpieza de las obras".
 
 ### Enunciado
-¿Cuánto es la multa por cada día de retraso al devolver un libro?
+¿Cuál es la razón por la que el museo no abre los días lunes?
 
 ### Options
-- [ ] A) $1.000 <!-- feedback: Incorrecto. -->
-- [ ] B) $200 <!-- feedback: Incorrecto. -->
-- [x] C) $500 por día <!-- feedback: ¡Correcto! El texto dice que la multa es de $500 por día de retraso. -->
-- [ ] D) $2.000 <!-- feedback: Incorrecto. -->
+- [ ] A) Porque los trabajadores se van de viaje. <!-- feedback: Incorrecto. El texto da razones de mantenimiento y limpieza. -->
+- [ ] B) Porque no hay suficientes obras de arte. <!-- feedback: Incorrecto. No se menciona falta de obras. -->
+- [x] C) Por limpieza de las obras y mantenimiento de las salas. <!-- feedback: ¡Correcto! El texto explica literalmente estos dos motivos para el cierre de los lunes. -->
+- [ ] D) Porque a la gente no le gusta ir los lunes. <!-- feedback: Incorrecto. El cierre es una decisión del museo por razones técnicas, no por falta de público. -->
 
 ### Explicación Pedagógica
-Los avisos y carteles contienen información de servicios, horarios y reglas. Encontrar el dato exacto requiere leer con atención cada detalle.
+Localizar la justificación o el "por qué" explícito de una situación es fundamental para la comprensión de textos informativos de servicios públicos.
 
 ---
 
@@ -192,65 +167,43 @@ Los avisos y carteles contienen información de servicios, horarios y reglas. En
 **Expected_Success:** 0.55
 
 ### Contexto
-**Texto: El horario de clases de Valeria**
-
-Valeria está en tercer grado en el colegio Gabriel García Márquez de Cartagena. Este es su horario de clases:
-
-| Hora        | Lunes      | Martes     | Miércoles  | Jueves     | Viernes    |
-|-------------|-----------|-----------|-----------|-----------|-----------|
-| 7:00-7:50   | Matemáticas | Lenguaje   | Matemáticas | Ciencias   | Lenguaje   |
-| 7:50-8:40   | Lenguaje   | Matemáticas | Lenguaje   | Matemáticas | Ciencias   |
-| 8:40-9:30   | Ciencias   | Inglés     | Sociales   | Inglés     | Educación Física |
-| 9:30-10:00  | RECREO    | RECREO    | RECREO    | RECREO    | RECREO    |
-| 10:00-10:50 | Sociales   | Ciencias   | Educación Física | Lenguaje   | Matemáticas |
-| 10:50-11:40 | Inglés     | Sociales   | Ciencias   | Artística  | Sociales   |
+"La deforestación consiste en la tala masiva de árboles. Esto provoca que muchos animales pierdan su hogar y que el aire sea menos puro, ya que los árboles se encargan de producir oxígeno".
 
 ### Enunciado
-Según el horario, ¿cuántas veces a la semana tiene clase de Ciencias Valeria?
+¿Cuál es la relación que establece el texto entre los árboles y el aire?
 
 ### Options
-- [ ] A) 2 veces <!-- feedback: Incorrecto. -->
-- [ ] B) 5 veces <!-- feedback: Incorrecto. -->
-- [x] C) 4 veces <!-- feedback: ¡Correcto! Ciencias aparece lunes (7:50-8:40 y 10:50-11:40), martes (10:00-10:50) y miércoles (10:50-11:40). Eso da 4 clases de Ciencias a la semana. -->
-- [ ] D) 3 veces <!-- feedback: Incorrecto. Revisa de nuevo el horario con cuidado. -->
+- [ ] A) Los árboles ensucian el aire con sus hojas. <!-- feedback: Incorrecto. El texto dice que los árboles hacen que el aire sea puro. -->
+- [x] B) Los árboles purifican el aire porque producen oxígeno. <!-- feedback: ¡Correcto! El texto vincula directamente la producción de oxígeno de los árboles con la pureza del aire. -->
+- [ ] C) El aire es el que ayuda a que los árboles crezcan. <!-- feedback: Incorrecto. Aunque el aire es necesario, el texto se enfoca en lo que el árbol hace por el aire. -->
+- [ ] D) No hay ninguna relación entre los dos. <!-- feedback: Incorrecto. El texto explica una relación de causa y efecto clara. -->
 
 ### Explicación Pedagógica
-Leer tablas y horarios requiere atención a las filas y columnas. Hay que cruzar la información para encontrar datos que no están en un solo lugar del texto.
+Identificar relaciones lógicas explícitas (causa-efecto) es un paso superior en la comprensión literal. El estudiante debe seguir el razonamiento que el autor ha dejado escrito.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W17-comprension-literal-001-MASTERY-v8`
-**Bloom:** Evaluate
-**ICFES:** Crítico
+**Bloom:** Analyze
+**ICFES:** Semántico
 **Expected_Success:** 0.50
 
 ### Contexto
-**Texto: Dos recetas de limonada**
-
-**Receta de la abuela Carmen (Pereira):**
-- 2 limones grandes
-- 4 cucharadas de azúcar
-- 1 litro de agua
-- Hielo al gusto
-Preparación: Exprime los limones en una jarra. Agrega el azúcar y el agua. Revuelve bien. Sirve con hielo.
-
-**Receta del chef Ricardo (Bogotá):**
-- 3 limones
-- 2 cucharadas de azúcar morena
-- 1 litro de agua mineral
-- Hojas de hierbabuena
-- Hielo picado
-Preparación: Exprime los limones. Mezcla con el azúcar morena. Agrega el agua mineral y la hierbabuena. Sirve en vasos altos con hielo picado.
+**Aviso en la entrada de un cine:**
+"Película: El viaje espacial.
+Clasificación: Todo público (Apta para niños).
+Duración: 95 minutos.
+Precio: $12.000 pesos por persona".
 
 ### Enunciado
-¿Cuál es la principal diferencia en los ingredientes de las dos recetas?
+Si una familia de **tres personas** quiere entrar a ver la película, ¿cuántos minutos durarán dentro de la sala según el texto?
 
 ### Options
-- [ ] A) Una usa limón y la otra lima <!-- feedback: Incorrecto. Ambas usan limón. -->
-- [x] B) La receta del chef usa azúcar morena, agua mineral y hierbabuena, mientras que la de la abuela usa azúcar blanca y agua normal <!-- feedback: ¡Correcto! Comparando los ingredientes, la receta del chef tiene azúcar morena, agua mineral y hierbabuena que la de la abuela no tiene. -->
-- [ ] C) La abuela no usa hielo <!-- feedback: Incorrecto. La abuela también usa hielo. -->
-- [ ] D) El chef usa limón y la abuela no <!-- feedback: Incorrecto. Ambas usan limón. -->
+- [ ] A) 285 minutos. <!-- feedback: Incorrecto. El tiempo de la película es el mismo sin importar cuántas personas la vean al mismo tiempo. -->
+- [x] B) 95 minutos. <!-- feedback: ¡Correcto! El texto indica que la duración de la película es de 95 minutos. -->
+- [ ] C) 36.000 minutos. <!-- feedback: Incorrecto. Estás confundiendo el tiempo con el precio total de las boletas. -->
+- [ ] D) No se puede saber. <!-- feedback: Incorrecto. El dato de la duración aparece claramente en el aviso. -->
 
 ### Explicación Pedagógica
-Para comparar dos textos y encontrar diferencias, debemos leer con atención cada lista de ingredientes y preparación, identificando qué elementos aparecen en uno pero no en el otro.
+Este ejercicio evalúa la capacidad de distinguir entre diferentes tipos de datos (tiempo vs. precio) y evitar distracciones lógicas (multiplicar el tiempo por el número de personas). Es una prueba de rigor en la lectura literal.

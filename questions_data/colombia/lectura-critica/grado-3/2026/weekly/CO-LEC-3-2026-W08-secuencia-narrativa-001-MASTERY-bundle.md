@@ -7,217 +7,204 @@ tema: "secuencia-narrativa"
 periodo: "2026-W08"
 protocol_version: "5.2"
 bundle_size: 8
-alignment: "ICFES Saber 3°"
+alignment: "DBA MEN"
 bundle_index: 8
 ---
 
 # Bundle Mastery: Secuencia Narrativa
 
-Este bundle evalúa la capacidad de identificar el orden de los eventos en cuentos e historias cortas. Contexto colombiano para grado 3.
+Este bundle evalúa la capacidad de ordenar los hechos de una historia en el tiempo (primero, después, finalmente) y comprender la relación lógica entre los eventos de una narración.
 
 ---
 
 ## Question 1 [D1-D2]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.90
 
 ### Contexto
-**El paseo al río**
-
-La mamá de Lucas le dijo: "Vamos al río el sábado." Lucas se puso muy contento. El sábado, empacaron la comida y salieron de su casa en Bucaramanga. Llegaron al río, extendieron una cobija y almorzaron. Después, Lucas se metió al agua a jugar. Al final de la tarde regresaron a casa.
+**La mañana de Camilo**
+Camilo se despertó muy temprano. Primero, se lavó los dientes y se bañó. Después, se puso su uniforme del colegio. Finalmente, se sentó a desayunar unas ricas arepas con chocolate.
 
 ### Enunciado
-¿Qué hizo Lucas primero cuando llegaron al río?
+¿Qué hizo Camilo **justo antes** de sentarse a desayunar?
 
 ### Options
-- [ ] A) Se metió al agua a jugar <!-- feedback: Incorrecto. Eso fue después. -->
-- [ ] B) Empacaron la comida <!-- feedback: Incorrecto. Eso lo hicieron en casa antes de salir. -->
-- [x] C) Extendieron una cobija y almorzaron <!-- feedback: ¡Correcto! Primero almorzaron y luego Lucas se metió al agua. -->
-- [ ] D) Regresaron a casa <!-- feedback: Incorrecto. Eso fue al final. -->
+- [ ] A) Lavarse los dientes. <!-- feedback: Incorrecto. Eso fue lo primero que hizo, no lo que hizo justo antes de desayunar. -->
+- [x] B) Ponerse el uniforme. <!-- feedback: ¡Correcto! El texto dice que "después" se puso el uniforme y "finalmente" desayunó. -->
+- [ ] C) Bañarse. <!-- feedback: Incorrecto. Bañarse fue parte de lo primero que hizo. -->
+- [ ] D) Irse para el colegio. <!-- feedback: Incorrecto. El texto no menciona que ya se haya ido. -->
 
 ### Explicación Pedagógica
-La secuencia dice: llegaron, extendieron la cobija, almorzaron, luego Lucas se metió al agua, y al final regresaron.
+Identificar el orden temporal de acciones simples es una habilidad fundamental de secuenciación. Las palabras clave como "primero", "después" y "finalmente" ayudan a establecer la línea de tiempo en el relato.
 
 ---
 
 ## Question 2 [D1-D2]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Secuencial
+**Bloom:** Understand
+**ICFES:** Semántico
 **Expected_Success:** 0.85
 
 ### Contexto
-**La huerta de la abuela**
-
-La abuela de Valeria tiene una huerta en su casa de Sincelejo. Primero, preparó la tierra con una pala. Luego, sembró semillas de tomate y cebolla. Después, regó las plantas todos los días. Por último, recogió los tomates y las cebollas para hacer una sopa.
+**El Ciclo de la Planta**
+Para tener una planta, primero debemos sembrar la semilla en la tierra. Luego, debemos regarla con agua todos los días. Con el paso del tiempo, veremos cómo brotan las primeras hojas verdes.
 
 ### Enunciado
-¿Qué hizo la abuela después de sembrar las semillas?
+¿Cuál es el **primer paso** para tener una planta según el texto?
 
 ### Options
-- [ ] A) Preparó la tierra <!-- feedback: Incorrecto. Eso fue antes de sembrar. -->
-- [x] B) Regó las plantas <!-- feedback: ¡Correcto! Después de sembrar, regó las plantas todos los días. -->
-- [ ] C) Recogió los tomates <!-- feedback: Incorrecto. Eso fue al final. -->
-- [ ] D) Hizo una sopa <!-- feedback: Incorrecto. Eso fue al final. -->
+- [ ] A) Regarla con mucha agua. <!-- feedback: Incorrecto. El agua se pone después de que la semilla ya está en la tierra. -->
+- [x] B) Sembrar la semilla en la tierra. <!-- feedback: ¡Correcto! El texto inicia con esta acción necesaria para comenzar el proceso. -->
+- [ ] C) Ver las hojas verdes. <!-- feedback: Incorrecto. Esto es el resultado final del proceso. -->
+- [ ] D) Cortar las flores. <!-- feedback: Incorrecto. El texto no menciona esta acción. -->
 
 ### Explicación Pedagógica
-Para entender la secuencia: preparar la tierra → sembrar → regar → recoger. Entre sembrar y recoger está regar.
+Reconocer el inicio de un proceso o narración es clave para la comprensión estructural. Entender que hay una acción inicial obligatoria permite al estudiante seguir instrucciones y procesos lógicos.
 
 ---
 
 ## Question 3 [D2-D3]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Secuencial
+**ICFES:** Semántico
 **Expected_Success:** 0.80
 
 ### Contexto
-**La carta de María**
-
-María vive en Popayán y quería invitar a su prima a su cumpleaños. Primero, escribió una carta bonita. Luego, metió la carta en un sobre. Después, pegó una estampilla. Por último, llevó la carta a la oficina de correos.
+Mira estas tres acciones desordenadas de un partido de fútbol:
+1. El árbitro pitó el final del encuentro.
+2. Los jugadores salieron a la cancha.
+3. El delantero anotó un golazo.
 
 ### Enunciado
-¿Qué pasó después de que María metió la carta en el sobre?
+¿Cuál es el orden lógico en el que ocurrieron estos hechos?
 
 ### Options
-- [ ] A) Escribió la carta <!-- feedback: Incorrecto. Escribir la carta fue lo primero. -->
-- [ ] B) Llevó la carta al correo <!-- feedback: Incorrecto. Eso fue al final. -->
-- [x] C) Pegó una estampilla <!-- feedback: ¡Correcto! Después de meter la carta en el sobre, pegó la estampilla. -->
-- [ ] D) Invitó a su prima en persona <!-- feedback: Incorrecto. -->
+- [ ] A) 1, 2, 3 <!-- feedback: Incorrecto. El final (1) no puede ocurrir antes que el inicio (2). -->
+- [ ] B) 3, 1, 2 <!-- feedback: Incorrecto. El gol no puede ser antes de que los jugadores salgan a la cancha. -->
+- [x] C) 2, 3, 1 <!-- feedback: ¡Correcto! Primero salen a jugar (2), luego ocurre el juego donde hay goles (3) y finalmente termina el partido (1). -->
+- [ ] D) 2, 1, 3 <!-- feedback: Incorrecto. El gol no puede ocurrir después de que el árbitro pitó el final. -->
 
 ### Explicación Pedagógica
-El orden correcto es: escribir → meter en sobre → pegar estampilla → llevar al correo. Pegar la estampilla es el tercer paso.
+Organizar eventos basados en el conocimiento del mundo y la lógica temporal desarrolla el pensamiento secuencial. El estudiante debe entender que ciertas acciones son requisitos para que ocurran otras.
 
 ---
 
 ## Question 4 [D2-D3]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Secuencial
+**Bloom:** Apply
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 
 ### Contexto
-**El día de Santiago**
-
-Santiago se despertó temprano. Se lavó la cara y se cepilló los dientes. Luego desayunó arepa con chocolate. Después, salió de su casa en Medellín y caminó hasta el colegio. Cuando llegó, saludó a su profesora y se sentó en su puesto.
+"El panadero preparó la masa con harina y levadura. Después de dejarla reposar, la metió al horno caliente. Al cabo de unos minutos, el aroma a pan recién horneado inundó toda la panadería".
 
 ### Enunciado
-¿Qué hizo Santiago justo después de desayunar?
+¿Qué pasó **después** de dejar reposar la masa?
 
 ### Options
-- [ ] A) Se lavó la cara <!-- feedback: Incorrecto. Eso lo hizo antes de desayunar. -->
-- [x] B) Salió de su casa <!-- feedback: ¡Correcto! Después de desayunar, salió caminando al colegio. -->
-- [ ] C) Saludó a su profesora <!-- feedback: Incorrecto. Eso fue cuando llegó al colegio. -->
-- [ ] D) Se cepilló los dientes <!-- feedback: Incorrecto. Eso fue antes de desayunar. -->
+- [ ] A) El panadero compró la harina. <!-- feedback: Incorrecto. Eso tuvo que pasar antes de preparar la masa. -->
+- [x] B) Metió la masa al horno. <!-- feedback: ¡Correcto! El texto indica que esta acción sigue al tiempo de reposo de la masa. -->
+- [ ] C) La gente se comió el pan. <!-- feedback: Incorrecto. El texto solo llega hasta el aroma del pan, no menciona que lo comieran. -->
+- [ ] D) El panadero lavó los platos. <!-- feedback: Incorrecto. No se menciona esta acción en el relato. -->
 
 ### Explicación Pedagógica
-La secuencia del cuento es: despertar → lavarse → desayunar → salir de casa → caminar → llegar → saludar.
+Seguir la secuencia de un proceso de producción (como hacer pan) ayuda a los estudiantes a comprender textos instructivos y narraciones donde el orden de los pasos es fundamental para el resultado.
 
 ---
 
 ## Question 5 [D3-D4]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Secuencial
-**Expected_Success:** 0.65
+**ICFES:** Semántico
+**Expected_Success:** 0.70
 
 ### Contexto
-**El árbol de mango**
-
-Carlos vio un árbol de mango en el solar de su casa en Valledupar. Los mangos estaban muy verdes. Carlos esperó una semana. Los mangos se pusieron amarillos. Entonces, Carlos subió al árbol y cogió tres mangos. Bajó, lavó los mangos y se los comió con su hermano.
+En un cuento de misterio: "Al entrar a la vieja casona, escuchamos un ruido extraño. Antes de que pudiéramos prender la linterna, una sombra cruzó velozmente el pasillo. Nos quedamos inmóviles del susto".
 
 ### Enunciado
-¿Qué pasó justo antes de que Carlos cogiera los mangos?
+¿Qué evento ocurrió **primero**: la sombra cruzó el pasillo o se prendió la linterna?
 
 ### Options
-- [ ] A) Los mangos estaban verdes <!-- feedback: Incorrecto. Eso fue al principio, una semana antes. -->
-- [x] B) Los mangos se pusieron amarillos <!-- feedback: ¡Correcto! Esperó a que maduraran y luego los cogió. -->
-- [ ] C) Lavó los mangos <!-- feedback: Incorrecto. Eso fue después de cogerlos. -->
-- [ ] D) Subió al árbol <!-- feedback: Incorrecto. Primero se pusieron amarillos, luego subió. -->
+- [ ] A) Se prendió la linterna. <!-- feedback: Incorrecto. El texto dice "antes de que pudiéramos...", lo que significa que no alcanzaron a prenderla cuando pasó la sombra. -->
+- [x] B) La sombra cruzó el pasillo. <!-- feedback: ¡Correcto! La sombra pasó antes de que tuvieran oportunidad de encender la luz. -->
+- [ ] C) Ambas cosas pasaron al mismo tiempo. <!-- feedback: Incorrecto. El texto marca una prioridad temporal de la sombra sobre la acción de la linterna. -->
+- [ ] D) No pasó ninguna de las dos. <!-- feedback: Incorrecto. El texto confirma que la sombra sí pasó. -->
 
 ### Explicación Pedagógica
-La secuencia muestra que Carlos esperó hasta que los mangos cambia ron de color. Cuando estuvieron amarillos (maduros), entonces subió a cogerlos.
+El uso de conectores temporales como "antes de que" puede ser confuso. Identificar la prioridad de los hechos en estos casos demuestra una comprensión lectora más profunda y atenta a los detalles gramaticales.
 
 ---
 
 ## Question 6 [D3-D4]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Secuencial
-**Expected_Success:** 0.60
+**Bloom:** Analyze
+**ICFES:** Semántico
+**Expected_Success:** 0.65
 
 ### Contexto
-**La feria del pueblo**
-
-Cada año en Barichara se celebra la feria del pueblo. Primero, los vecinos adornan la plaza con banderas de colores. Luego, llegan los vendedores con sus puestos de comida y artesanías. Después, empiezan los juegos: la carrera de encostalados, el trompo y la cometa. Al final de la tarde, la banda toca música y la gente baila.
+Observa la estructura de esta receta de ensalada de frutas:
+1. Lavar y pelar las frutas.
+2. Picar las frutas en cubos pequeños.
+3. Mezclar todo en un tazón grande.
+4. Agregar miel o leche condensada al gusto.
 
 ### Enunciado
-¿En qué orden ocurren los juegos?
+¿Por qué es importante seguir este orden y no empezar por el paso 3?
 
 ### Options
-- [ ] A) Bailan, corren encostalados, juegan trompo <!-- feedback: Incorrecto. -->
-- [ ] B) Trompo, cometa, carrera encostalados <!-- feedback: Incorrecto. -->
-- [x] C) Carrera de encostalados, trompo, cometa <!-- feedback: ¡Correcto! El texto dice ese orden. -->
-- [ ] D) Cometa, carrera encostalados, trompo <!-- feedback: Incorrecto. -->
+- [ ] A) Porque el tazón se puede romper. <!-- feedback: Incorrecto. El orden no tiene que ver con la resistencia del tazón. -->
+- [x] B) Porque no se puede mezclar la fruta si antes no ha sido lavada, pelada y picada. <!-- feedback: ¡Correcto! Los pasos 1 y 2 son necesarios para poder realizar el paso 3 con éxito. -->
+- [ ] C) Porque el paso 3 es el más difícil de todos. <!-- feedback: Incorrecto. No se trata de dificultad, sino de lógica en la preparación. -->
+- [ ] D) Porque así lo dice el libro de cocina. <!-- feedback: Incorrecto. Aunque el libro lo diga, la razón real es la necesidad lógica de los pasos previos. -->
 
 ### Explicación Pedagógica
-El texto dice: "empiezan los juegos: la carrera de encostalados, el trompo y la cometa." Ese es el orden exacto.
+Analizar la lógica de una secuencia ayuda a los estudiantes a entender la relación de dependencia entre acciones. En este caso, la preparación previa de los ingredientes es un requisito indispensable para el mezclado.
 
 ---
 
 ## Question 7 [D4-D5]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Secuencial
-**Expected_Success:** 0.50
+**Bloom:** Analyze
+**ICFES:** Semántico
+**Expected_Success:** 0.55
 
 ### Contexto
-**Un día en la playa**
-
-La familia de Camila fue a la playa de Taganga. Camila entró al agua primero. Luego construyó un castillo de arena con su hermana. Después, se sentó a almorzar pescado frito con patacones. Por último, recogió conchitas en la orilla. Al volver a casa, Camila estaba muy cansada.
+**La Aventura del Viaje**
+"Finalmente llegamos a Cartagena y vimos el mar. El viaje en bus había sido largo desde Medellín. Al salir de casa, mis padres revisaron que las maletas estuvieran completas".
 
 ### Enunciado
-Si Camila quisiera contar su día desde el principio, ¿cómo empezaría?
+¿Cuál es el orden real en el que ocurrieron estos hechos, aunque el texto los cuente en un orden diferente?
 
 ### Options
-- [ ] A) "Recogí conchitas en la orilla..." <!-- feedback: Incorrecto. Eso fue al final. -->
-- [ ] B) "Almorcé pescado con patacones..." <!-- feedback: Incorrecto. Eso fue después del castillo. -->
-- [x] C) "Entré al agua primero..." <!-- feedback: ¡Correcto! Entrar al agua fue lo primero que hizo en la playa. -->
-- [ ] D) "Construí un castillo de arena..." <!-- feedback: Incorrecto. Eso fue después de entrar al agua. -->
+- [ ] A) Llegada a Cartagena -> Viaje en bus -> Revisión de maletas. <!-- feedback: Incorrecto. Este es el orden en que aparecen en el texto, pero no como pasaron en la realidad. -->
+- [x] B) Revisión de maletas -> Viaje en bus -> Llegada a Cartagena. <!-- feedback: ¡Correcto! Lógicamente, primero se empaca, luego se viaja y al final se llega al destino. -->
+- [ ] C) Viaje en bus -> Revisión de maletas -> Llegada a Cartagena. <!-- feedback: Incorrecto. Uno no revisa las maletas de la casa en medio del viaje en bus. -->
+- [ ] D) Llegada a Cartagena -> Revisión de maletas -> Viaje en bus. <!-- feedback: Incorrecto. No tiene sentido lógico. -->
 
 ### Explicación Pedagógica
-Para contar una historia desde el principio, hay que identificar el primer evento. En este cuento, Camila entró al agua primero.
+A veces los autores cuentan las historias empezando por el final o usando recuerdos. El estudiante debe ser capaz de reconstruir la "historia lógica" o cronológica a partir de un texto que no sigue un orden temporal lineal.
 
 ---
 
 ## Question 8 [D4-D5]
 **ID:** `CO-LEC-3-2026-W08-secuencia-narrativa-001-MASTERY-v8`
-**Bloom:** Understand
-**ICFES:** Secuencial
-**Expected_Success:** 0.45
+**Bloom:** Evaluate
+**ICFES:** Crítico
+**Expected_Success:** 0.50
 
 ### Contexto
-**La preparación del sancocho**
-
-Doña Rosa va a preparar sancocho para su familia en Cali. Sigue estos pasos:
-
-1. Pelar las papas, la yuca y el plátano.
-2. Poner a hervir agua con pollo en una olla grande.
-3. Echar las verduras peladas al caldo.
-4. Añadir sal, cilantro y aliños al gusto.
-5. Cocinar a fuego lento por una hora.
-6. Servir caliente con arroz y aguacate.
+Un cuento cuenta que un niño sacó una mala nota en una evaluación porque no estudió. Antes del examen, se quedó jugando videojuegos hasta tarde. Sus padres le habían advertido que debía prepararse.
 
 ### Enunciado
-¿Qué debe hacer doña Rosa justo después de echar las verduras al caldo?
+¿Cuál fue la **causa inicial** que desencadenó el problema de la mala nota?
 
 ### Options
-- [ ] A) Pelar las papas y la yuca <!-- feedback: Incorrecto. Eso fue antes de hervir el agua. -->
-- [ ] B) Poner a hervir el agua <!-- feedback: Incorrecto. Eso fue antes de echar las verduras. -->
-- [x] C) Añadir sal, cilantro y aliños <!-- feedback: ¡Correcto! Después de echar las verduras, se añaden los aliños. -->
-- [ ] D) Servir caliente con arroz <!-- feedback: Incorrecto. Eso es lo último. -->
+- [ ] A) La evaluación estaba muy difícil. <!-- feedback: Incorrecto. El texto dice que fue porque no estudió. -->
+- [x] B) La decisión del niño de jugar videojuegos en lugar de estudiar. <!-- feedback: ¡Correcto! Esta acción previa fue la que impidió el estudio y provocó la mala calificación. -->
+- [ ] C) Que los padres no le ayudaron. <!-- feedback: Incorrecto. Los padres sí le advirtieron que debía estudiar. -->
+- [ ] D) Que el profesor no explicó bien. <!-- feedback: Incorrecto. El texto no menciona nada sobre el profesor. -->
 
 ### Explicación Pedagógica
-Siguiendo la lista numerada: después del paso 3 (echar verduras), viene el paso 4 (añadir sal, cilantro y aliños).
+Evaluar la relación causa-efecto dentro de una secuencia narrativa permite al estudiante comprender la responsabilidad de las acciones. La secuencia no es solo temporal, sino también causal.
