@@ -12,7 +12,7 @@ bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Repaso: Constitución 1991, organización del Estado, democracia y participación ciudadana"
+rubric_baseline: "Repaso Constitucion, Estado y democracia"
 ---
 
 ## Pregunta 1 [D1]
@@ -23,16 +23,16 @@ rubric_baseline: "Repaso: Constitución 1991, organización del Estado, democrac
 **Context:** Contexto colombiano
 
 ### Enunciado
-En qué año se promulgó la actual Constitución Política de Colombia?
+En que ano se promulgo la actual Constitucion de Colombia?
 
 ### Opciones
-- [ ] A) 1958 <!-- feedback: Incorrecto. Ese año inició el Frente Nacional. -->
-- [x] B) 1991 <!-- feedback: Correcto. La Constitución de 1991 rige actualmente. -->
-- [ ] C) 1886 <!-- feedback: Incorrecto. Esa fue la constitución anterior. -->
-- [ ] D) 1810 <!-- feedback: Incorrecto. Ese año inició el proceso de independencia. -->
+- [ ] A) 1886 <!-- feedback: Incorrecto. -->
+- [x] B) 1991 <!-- feedback: Correcto. -->
+- [ ] C) 1810 <!-- feedback: Incorrecto. -->
+- [ ] D) 2000 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 fue promulgada el 4 de julio. Reemplazó a la de 1886 y transformó a Colombia en un Estado Social de Derecho, ampliando los derechos y mecanismos de participación.
+La Constitucion de 1991 reemplazo a la de 1886.
 
 ---
 
@@ -44,183 +44,183 @@ La Constitución de 1991 fue promulgada el 4 de julio. Reemplazó a la de 1886 y
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cuáles son las tres ramas del poder público en Colombia?
+Cuales son las tres ramas del poder publico?
 
 ### Opciones
-- [ ] A) Presidencial, Ministerial y Municipal <!-- feedback: Incorrecto. Esas no son las ramas establecidas en la Constitución. -->
-- [x] B) Ejecutiva, Legislativa y Judicial <!-- feedback: Correcto. Son las tres ramas del poder público. -->
-- [ ] C) Nacional, Departamental y Municipal <!-- feedback: Incorrecto. Esa es la división territorial, no las ramas del poder. -->
-- [ ] D) Política, Económica y Social <!-- feedback: Incorrecto. No son ramas del poder público. -->
+- [x] A) Ejecutiva, Legislativa y Judicial <!-- feedback: Correcto. -->
+- [ ] B) Federal, Estatal y Municipal <!-- feedback: Incorrecto. -->
+- [ ] C) Economica, Social y Cultural <!-- feedback: Incorrecto. -->
+- [ ] D) Alta, Media y Baja <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 divide el poder en tres ramas independientes: Ejecutiva (Presidente, gobernadores, alcaldes), Legislativa (Congreso) y Judicial (jueces y tribunales). Así se evita la concentración del poder.
+Cada rama tiene funciones especificas y se controlan mutuamente.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v3`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué es la acción de tutela?
+Que mecanismo creo la Constitucion de 1991 para proteger derechos?
 
 ### Opciones
-- [ ] A) Un impuesto para financiar el Estado <!-- feedback: Incorrecto. La tutela no es un impuesto. -->
-- [x] B) Un mecanismo para proteger los derechos fundamentales cuando son violados <!-- feedback: Correcto. Es el mecanismo más usado en Colombia. -->
-- [ ] C) Un tipo de elección popular <!-- feedback: Incorrecto. No es un proceso electoral. -->
-- [ ] D) Una ley aprobada por el Congreso <!-- feedback: Incorrecto. Es un mecanismo judicial, no una ley. -->
+- [ ] A) El juicio oral <!-- feedback: Incorrecto. -->
+- [x] B) La Accion de Tutela <!-- feedback: Correcto. -->
+- [ ] C) El voto <!-- feedback: Incorrecto. -->
+- [ ] D) El impuesto <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La acción de tutela fue creada por la Constitución de 1991. Cualquier persona puede presentarla ante un juez cuando siente que sus derechos fundamentales están siendo violados.
+La tutela es un recurso rapido y gratuito para proteger derechos fundamentales.
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué función cumple el Congreso de la República?
+A partir de que edad se puede votar en Colombia?
 
 ### Opciones
-- [ ] A) Juzgar a los delincuentes <!-- feedback: Incorrecto. Esa función es de los jueces. -->
-- [x] B) Hacer las leyes y controlar al gobierno <!-- feedback: Correcto. Esa es la función principal de la rama Legislativa. -->
-- [ ] C) Administrar los colegios <!-- feedback: Incorrecto. Esa función es del Ejecutivo. -->
-- [ ] D) Declarar la independencia <!-- feedback: Incorrecto. Colombia ya es independiente. -->
+- [ ] A) 16 anos <!-- feedback: Incorrecto. -->
+- [x] B) 18 anos <!-- feedback: Correcto. -->
+- [ ] C) 21 anos <!-- feedback: Incorrecto. -->
+- [ ] D) 25 anos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Congreso de la República está compuesto por Senado y Cámara de Representantes. Sus funciones principales son aprobar leyes, modificar el presupuesto nacional y hacer control político al gobierno.
+La mayoria de edad en Colombia es a los 18 anos.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v5`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cuál de los siguientes es un mecanismo de participación ciudadana?
+Que es un plebiscito?
 
 ### Opciones
-- [ ] A) La declaración de renta <!-- feedback: Incorrecto. Es una obligación tributaria. -->
-- [x] B) El voto popular <!-- feedback: Correcto. Elegir a nuestros gobernantes es el mecanismo principal de participación. -->
-- [ ] C) La matrícula universitaria <!-- feedback: Incorrecto. No es un mecanismo de participación ciudadana. -->
-- [ ] D) La afiliación al sistema de salud <!-- feedback: Incorrecto. Es un derecho, no un mecanismo de participación. -->
+- [ ] A) Una eleccion <!-- feedback: Incorrecto. -->
+- [x] B) Una consulta del presidente al pueblo <!-- feedback: Correcto. -->
+- [ ] C) Un impuesto <!-- feedback: Incorrecto. -->
+- [ ] D) Una ley <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Además del voto, existen otros mecanismos de participación: plebiscito, referendo, consulta popular, cabildo abierto, iniciativa legislativa y revocatoria del mandato.
+Ejemplo: el plebiscito de 2016 para refrendar el Acuerdo de Paz.
 
 ---
 
-## Pregunta 6 [D2]
+## Pregunta 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-La comunidad de un barrio quiere proponer un proyecto para mejorar el parque local. ¿Qué mecanismo de participación deben usar?
+Quien ejerce la Rama Ejecutiva?
 
 ### Opciones
-- [ ] A) Un referendo nacional <!-- feedback: Incorrecto. Es muy grande para un problema local. -->
-- [ ] B) Una tutela <!-- feedback: Incorrecto. La tutela es para derechos violados, no para proponer proyectos. -->
-- [x] C) Una iniciativa legislativa o acudir al cabildo abierto municipal <!-- feedback: Correcto. Son mecanismos adecuados a nivel local. -->
-- [ ] D) Una revocatoria del mandato <!-- feedback: Incorrecto. Eso es para destituir a un funcionario. -->
+- [ ] A) El Congreso <!-- feedback: Incorrecto. -->
+- [x] B) El Presidente <!-- feedback: Correcto. -->
+- [ ] C) La Corte Suprema <!-- feedback: Incorrecto. -->
+- [ ] D) La Procuraduria <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Para proponer mejoras locales, los ciudadanos pueden usar la iniciativa legislativa (presentar proyectos ante el Concejo Municipal) o participar en un cabildo abierto donde expresen sus ideas directamente.
+El presidente, ministros, gobernadores y alcaldes ejercen la rama ejecutiva.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v7`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Analiza: ¿Cuál es la diferencia entre un alcalde y un gobernador?
+Que funcion tiene la Rama Legislativa?
 
 ### Opciones
-- [ ] A) Son el mismo cargo con diferente nombre <!-- feedback: Incorrecto. Tienen funciones y jurisdicciones diferentes. -->
-- [x] B) El alcalde gobierna el municipio; el gobernador gobierna el departamento <!-- feedback: Correcto. Son autoridades de diferentes niveles territoriales. -->
-- [ ] C) El gobernador es elegido por el alcalde <!-- feedback: Incorrecto. Ambos son elegidos por voto popular. -->
-- [ ] D) El alcalde solo existe en las ciudades grandes <!-- feedback: Incorrecto. Todos los municipios tienen alcalde. -->
+- [ ] A) Ejecutar leyes <!-- feedback: Incorrecto. -->
+- [x] B) Hacer las leyes y controlar al gobierno <!-- feedback: Correcto. -->
+- [ ] C) Juzgar delitos <!-- feedback: Incorrecto. -->
+- [ ] D) Recaudar impuestos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El alcalde es la máxima autoridad del municipio y se encarga de los servicios públicos locales. El gobernador es la máxima autoridad del departamento y coordina las políticas regionales en educación, salud e infraestructura.
+El Congreso (Senado y Camara) elabora las leyes.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v8`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Por qué la Constitución de 1991 se llama "Constitución de derechos"?
+Cuantos departamentos tiene Colombia?
 
 ### Opciones
-- [ ] A) Porque eliminó todos los impuestos <!-- feedback: Incorrecto. No tiene relación. -->
-- [x] B) Porque incluye un amplio catálogo de derechos fundamentales, sociales, económicos, culturales y ambientales <!-- feedback: Correcto. Es una de las constituciones más completas del mundo en derechos. -->
-- [ ] C) Porque solo habla de derechos y no de deberes <!-- feedback: Incorrecto. También establece deberes ciudadanos. -->
-- [ ] D) Porque fue escrita por abogados <!-- feedback: Incorrecto. Eso no la define. -->
+- [x] A) 32 <!-- feedback: Correcto. -->
+- [ ] B) 20 <!-- feedback: Incorrecto. -->
+- [ ] C) 50 <!-- feedback: Incorrecto. -->
+- [ ] D) 10 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 contiene derechos fundamentales (vida, igualdad, libertad), derechos sociales (educación, salud, trabajo), derechos colectivos (ambiente sano) y derechos de grupos étnicos. Por eso recibe ese nombre.
+Colombia tiene 32 departamentos y un Distrito Capital.
 
 ---
 
 ## Pregunta 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v9`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Compara el gobierno escolar con el gobierno nacional. ¿Qué tienen en común?
+Compara democracia representativa y participativa.
 
 ### Opciones
-- [ ] A) Nada, son completamente diferentes <!-- feedback: Incorrecto. Ambos son espacios democráticos. -->
-- [x] B) Ambos son espacios de participación democrática donde se eligen representantes y se toman decisiones colectivas <!-- feedback: Correcto. El gobierno escolar es una preparación para la democracia nacional. -->
-- [ ] C) Solo el gobierno nacional tiene elecciones <!-- feedback: Incorrecto. El gobierno escolar también elige representantes. -->
-- [ ] D) El gobierno escolar no tiene normas <!-- feedback: Incorrecto. También tiene un reglamento y manual de convivencia. -->
+- [ ] A) Son lo mismo <!-- feedback: Incorrecto. -->
+- [x] B) Representativa: elegimos representantes; participativa: decidimos directamente <!-- feedback: Correcto. -->
+- [ ] C) En la participativa no votamos <!-- feedback: Incorrecto. -->
+- [ ] D) La representativa es mejor <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El gobierno escolar enseña a los estudiantes cómo funciona la democracia: eligen a su personero estudiantil, participan en el consejo directivo y aprenden a tomar decisiones colectivas. Es una práctica de lo que vivirán como ciudadanos adultos.
+Ambas se complementan en Colombia.
 
 ---
 
 ## Pregunta 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W34-repaso-p6-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Evalúa: ¿Por qué es importante que los ciudadanos conozcan la Constitución de 1991?
+Por que la separacion de poderes es fundamental?
 
 ### Opciones
-- [ ] A) No es importante porque es muy complicada <!-- feedback: Incorrecto. Todos los ciudadanos deben conocer sus derechos. -->
-- [x] B) Porque así pueden exigir sus derechos, participar en la democracia y entender cómo funciona el Estado <!-- feedback: Correcto. La Constitución es la base de nuestra convivencia. -->
-- [ ] C) Solo es importante para los abogados <!-- feedback: Incorrecto. Todos los ciudadanos se benefician de conocerla. -->
-- [ ] D) Porque es obligatorio memorizarla <!-- feedback: Incorrecto. No es necesario memorizarla, pero sí conocer sus principios. -->
+- [ ] A) Para que el presidente tenga todo el poder <!-- feedback: Incorrecto. -->
+- [x] B) Para evitar la concentracion de poder y garantizar equilibrio <!-- feedback: Correcto. -->
+- [ ] C) Para que no haya gobierno <!-- feedback: Incorrecto. -->
+- [ ] D) Para que solo un partido gobierne <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Conocer la Constitución empodera a los ciudadanos. Saber que tenemos derecho a la tutela, al voto, a la educación y a la salud nos permite exigir su cumplimiento. Además, entender cómo funciona el Estado nos ayuda a participar mejor en la democracia.
+La separacion de poderes evita abusos.
 
 ---

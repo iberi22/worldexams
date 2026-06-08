@@ -12,7 +12,7 @@ bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Constitución 1991: derechos fundamentales, mecanismos de participación y estructura del Estado"
+rubric_baseline: "Constitucion de 1991: derechos fundamentales, mecanismos de participacion"
 ---
 
 ## Pregunta 1 [D1]
@@ -23,58 +23,58 @@ rubric_baseline: "Constitución 1991: derechos fundamentales, mecanismos de part
 **Context:** Contexto colombiano
 
 ### Enunciado
-En qué año se promulgó la actual Constitución Política de Colombia?
+En que ano se promulgo la actual Constitucion de Colombia?
 
 ### Opciones
-- [ ] A) 1886 <!-- feedback: Incorrecto. Esa es la Constitución anterior que estuvo vigente más de 100 años. -->
-- [x] B) 1991 <!-- feedback: Correcto. La Constitución de 1991 es la actual carta magna colombiana. -->
-- [ ] C) 1958 <!-- feedback: Incorrecto. Ese año comenzó el Frente Nacional, no se promulgó una constitución. -->
-- [ ] D) 2000 <!-- feedback: Incorrecto. No hubo una nueva constitución en ese año. -->
+- [ ] A) 1886 <!-- feedback: Incorrecto. Esa fue la anterior. -->
+- [x] B) 1991 <!-- feedback: Correcto. Reemplazo a la de 1886. -->
+- [ ] C) 1810 <!-- feedback: Incorrecto. -->
+- [ ] D) 1958 <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 fue promulgada el 4 de julio de ese año por una Asamblea Nacional Constituyente. Es la constitución que rige actualmente a Colombia y reemplazó a la de 1886.
+La Constitucion de 1991 fue promulgada el 4 de julio. Resulto de una Asamblea Nacional Constituyente convocada por la Septima Papeleta.
 
 ---
 
 ## Pregunta 2 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v2`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Cuál de los siguientes es un derecho fundamental establecido en la Constitución de 1991?
+Que fue la 'Septima Papeleta'?
 
 ### Opciones
-- [ ] A) El derecho a tener un carro <!-- feedback: Incorrecto. No es un derecho fundamental. -->
-- [x] B) El derecho a la vida <!-- feedback: Correcto. Es el primer derecho fundamental en la Constitución. -->
-- [ ] C) El derecho a viajar al extranjero <!-- feedback: Incorrecto. No es un derecho fundamental como tal. -->
-- [ ] D) El derecho a tener mascotas <!-- feedback: Incorrecto. No aparece como derecho fundamental. -->
+- [ ] A) Un partido politico <!-- feedback: Incorrecto. -->
+- [x] B) El movimiento estudiantil que impulso la creacion de una nueva constitucion en 1990 <!-- feedback: Correcto. -->
+- [ ] C) Una ley electoral <!-- feedback: Incorrecto. -->
+- [ ] D) Un medio de comunicacion <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 establece en su Título II los derechos fundamentales: vida, igualdad, libertad de expresión, educación, salud, entre otros. El derecho a la vida es el primero y más importante.
+Los estudiantes impulsaron la Septima Papeleta para que los ciudadanos votaran por una Asamblea Constituyente. Esto llevo a la Constitucion de 1991.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v3`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué es la acción de tutela en Colombia?
+Cuales son los derechos fundamentales segun la Constitucion de 1991?
 
 ### Opciones
-- [ ] A) Un impuesto que deben pagar los ciudadanos <!-- feedback: Incorrecto. La tutela no es un impuesto. -->
-- [x] B) Un mecanismo para proteger los derechos fundamentales cuando son violados <!-- feedback: Correcto. Es el mecanismo más usado en Colombia. -->
-- [ ] C) Un examen escolar <!-- feedback: Incorrecto. No tiene relación con la educación. -->
-- [ ] D) Un tipo de voto <!-- feedback: Incorrecto. No es un mecanismo de votación. -->
+- [ ] A) Solo el derecho a votar <!-- feedback: Incorrecto. -->
+- [x] B) Derecho a la vida, igualdad, libertad, educacion, salud, trabajo y mas <!-- feedback: Correcto. -->
+- [ ] C) Solo derechos politicos <!-- feedback: Incorrecto. -->
+- [ ] D) Ningun derecho <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La acción de tutela fue creada por la Constitución de 1991. Cualquier persona puede usarla para reclamar ante un juez la protección inmediata de sus derechos fundamentales cuando siente que están siendo violados.
+La Constitucion consagra derechos fundamentales: vida, igualdad, libertad de expresion, educacion, salud, trabajo, debido proceso.
 
 ---
 
@@ -86,141 +86,141 @@ La acción de tutela fue creada por la Constitución de 1991. Cualquier persona 
 **Context:** Contexto colombiano
 
 ### Enunciado
-Quién fue el presidente de Colombia cuando se promulgó la Constitución de 1991?
+Que mecanismo de proteccion de derechos creo la Constitucion de 1991?
 
 ### Opciones
-- [ ] A) Virgilio Barco <!-- feedback: Incorrecto. Su gobierno fue 1986-1990. -->
-- [x] B) César Gaviria <!-- feedback: Correcto. Fue presidente de 1990 a 1994. -->
-- [ ] C) Belisario Betancur <!-- feedback: Incorrecto. Su gobierno fue 1982-1986. -->
-- [ ] D) Andrés Pastrana <!-- feedback: Incorrecto. Su gobierno fue 1998-2002. -->
+- [ ] A) El juicio oral <!-- feedback: Incorrecto. -->
+- [x] B) La Accion de Tutela <!-- feedback: Correcto. Cualquier persona puede pedir proteccion inmediata de sus derechos. -->
+- [ ] C) El voto popular <!-- feedback: Incorrecto. -->
+- [ ] D) No creo mecanismos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-César Gaviria Trujillo era el presidente de Colombia en 1991. Durante su gobierno se convocó la Asamblea Nacional Constituyente que redactó la nueva Constitución.
+La tutela es un mecanismo rapido y gratuito para reclamar ante un juez la proteccion de derechos fundamentales vulnerados.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v5`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué cambio importante trajo la Constitución de 1991 en comparación con la de 1886?
+Que es la diversidad etnica y cultural reconocida por la Constitucion?
 
 ### Opciones
-- [ ] A) Restableció la monarquía <!-- feedback: Incorrecto. Colombia nunca ha sido monarquía. -->
-- [x] B) Fortaleció los derechos humanos y creó mecanismos de participación ciudadana <!-- feedback: Correcto. Fue un cambio profundo. -->
-- [ ] C) Eliminó la educación pública <!-- feedback: Incorrecto. Al contrario, la fortaleció. -->
-- [ ] D) Prohibió las elecciones <!-- feedback: Incorrecto. La democracia se fortaleció. -->
+- [ ] A) Que todos son iguales sin diferencias <!-- feedback: Incorrecto. -->
+- [x] B) El reconocimiento de Colombia como pais pluri-etnico y multicultural <!-- feedback: Correcto. -->
+- [ ] C) Que solo existe una cultura <!-- feedback: Incorrecto. -->
+- [ ] D) Que los indigenas no existen <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 transformó a Colombia: pasó de un Estado de Derecho a un Estado Social de Derecho, amplió derechos fundamentales, creó la tutela, la Corte Constitucional y fortaleció la participación ciudadana.
+La Constitucion reconoce que Colombia es diversa: indigenas, afrocolombianos, ROM y raizales tienen derechos culturales y territoriales.
 
 ---
 
-## Pregunta 6 [D2]
+## Pregunta 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Si en tu colegio no te permiten estudiar por tu origen étnico, ¿qué derecho fundamental estarían violando?
+Cuales son los mecanismos de participacion ciudadana?
 
 ### Opciones
-- [ ] A) Derecho al voto <!-- feedback: Incorrecto. El voto no tiene relación directa con estudiar. -->
-- [ ] B) Derecho a la propiedad <!-- feedback: Incorrecto. No se trata de propiedad. -->
-- [x] C) Derecho a la igualdad y a la educación <!-- feedback: Correcto. Discriminar por origen étnico viola el derecho a la igualdad y a la educación. -->
-- [ ] D) Derecho al trabajo <!-- feedback: Incorrecto. Se trata de educación, no de trabajo. -->
+- [ ] A) Solo el voto <!-- feedback: Incorrecto. -->
+- [x] B) Voto, plebiscito, referendo, consulta popular, cabildo abierto, iniciativa legislativa y revocatoria del mandato <!-- feedback: Correcto. -->
+- [ ] C) No existen mecanismos <!-- feedback: Incorrecto. -->
+- [ ] D) Solo las encuestas <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 dice en su Artículo 13 que todas las personas nacen libres e iguales y prohíbe la discriminación por origen étnico, género, religión u otra condición. Todos los niños tienen derecho a la educación sin discriminación.
+La Constitucion creo varios mecanismos: voto, plebiscito, referendo, cabildo abierto, y revocatoria del mandato.
 
 ---
 
-## Pregunta 7 [D2]
+## Pregunta 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v7`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué es la Corte Constitucional de Colombia?
+Que funcion cumple la Corte Constitucional?
 
 ### Opciones
-- [ ] A) Un tribunal que juzga delincuentes comunes <!-- feedback: Incorrecto. Esa función es de la justicia penal ordinaria. -->
-- [x] B) El tribunal encargado de velar por que las leyes respeten la Constitución <!-- feedback: Correcto. Es la máxima autoridad en temas constitucionales. -->
-- [ ] C) Una universidad de derecho <!-- feedback: Incorrecto. No es una institución educativa. -->
-- [ ] D) El Congreso de la República <!-- feedback: Incorrecto. El Congreso hace las leyes, no las revisa. -->
+- [ ] A) Juzgar delitos comunes <!-- feedback: Incorrecto. -->
+- [x] B) Velar por que las leyes esten de acuerdo con la Constitucion <!-- feedback: Correcto. -->
+- [ ] C) Elegir al presidente <!-- feedback: Incorrecto. -->
+- [ ] D) Recaudar impuestos <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Corte Constitucional fue creada por la Constitución de 1991. Su función principal es revisar que las leyes aprobadas por el Congreso estén de acuerdo con lo que dice la Constitución.
+La Corte Constitucional revisa leyes y actos del gobierno para asegurar que no violen la Constitucion. Tambien revisa tutelas.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v8`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Analiza la siguiente situación: Un alcalde decide no permitir una manifestación pacífica en la plaza principal. ¿Qué derecho fundamental estaría limitando?
+Que derecho protege la libertad de expresion?
 
 ### Opciones
-- [ ] A) Derecho a la salud <!-- feedback: Incorrecto. La manifestación no está relacionada con la salud. -->
-- [ ] B) Derecho a la propiedad privada <!-- feedback: Incorrecto. No se está afectando propiedades. -->
-- [x] C) Derecho a la libre reunión y manifestación pacífica <!-- feedback: Correcto. La Constitución garantiza este derecho. -->
-- [ ] D) Derecho al trabajo <!-- feedback: Incorrecto. No es el derecho afectado. -->
+- [ ] A) Derecho a guardar silencio <!-- feedback: Incorrecto. -->
+- [x] B) Derecho a expresar y difundir libremente el pensamiento y opiniones <!-- feedback: Correcto. -->
+- [ ] C) Derecho a no ser escuchado <!-- feedback: Incorrecto. -->
+- [ ] D) Derecho a mentir impunemente <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Artículo 37 de la Constitución reconoce el derecho de reunión y manifestación pacífica. Las autoridades pueden regularlo pero no prohibirlo arbitrariamente. Es un derecho fundamental para la participación ciudadana.
+El Articulo 20 de la Constitucion garantiza la libertad de expresion sin censura previa.
 
 ---
 
-## Pregunta 9 [D3]
+## Pregunta 9 [D4]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Por qué la Constitución de 1991 es considerada una "Constitución de derechos"?
+Por que la Constitucion de 1991 fue importante para la paz?
 
 ### Opciones
-- [ ] A) Porque solo habla de los deberes de los ciudadanos <!-- feedback: Incorrecto. No es así. -->
-- [x] B) Porque contiene un amplio catálogo de derechos fundamentales, sociales, económicos y culturales <!-- feedback: Correcto. Es una de las constituciones más completas del mundo. -->
-- [ ] C) Porque no tiene artículos sobre el gobierno <!-- feedback: Incorrecto. Sí tiene una organización del Estado. -->
-- [ ] D) Porque eliminó todos los impuestos <!-- feedback: Incorrecto. Eso no es cierto. -->
+- [ ] A) Porque declaro la guerra <!-- feedback: Incorrecto. -->
+- [x] B) Porque abrio espacios de participacion, reconocio la diversidad y busco incluir a todos <!-- feedback: Correcto. -->
+- [ ] C) Porque elimino el gobierno <!-- feedback: Incorrecto. -->
+- [ ] D) No tuvo relacion con la paz <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1991 incluye derechos fundamentales (vida, igualdad, libertad), derechos sociales (educación, salud, trabajo), derechos colectivos (ambiente sano) y derechos de grupos étnicos. Por eso es llamada "Constitución de derechos".
+La Constitucion busco construir paz a traves de la inclusion: derechos de minorias, mecanismos de participacion y justicia.
 
 ---
 
 ## Pregunta 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W31-constitucion-1991-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Evalúa: ¿Por qué fue necesario reemplazar la Constitución de 1886 por la de 1991?
+Compara la Constitucion de 1886 con la de 1991.
 
 ### Opciones
-- [ ] A) Porque la de 1886 era muy moderna <!-- feedback: Incorrecto. Era una constitución del siglo XIX. -->
-- [x] B) Porque la de 1886 ya no respondía a las necesidades de un país que buscaba paz, democracia participativa y protección de derechos <!-- feedback: Correcto. Colombia necesitaba una nueva carta política. -->
-- [ ] C) Porque la de 1886 era demasiado larga <!-- feedback: Incorrecto. No era ese el problema. -->
-- [ ] D) Porque la de 1886 no tenía artículos <!-- feedback: Incorrecto. Sí los tenía. -->
+- [ ] A) La de 1886 era mas democratica <!-- feedback: Incorrecto. -->
+- [x] B) La de 1886 era centralista; la de 1991 es participativa y pluralista <!-- feedback: Correcto. -->
+- [ ] C) Son iguales <!-- feedback: Incorrecto. -->
+- [ ] D) La de 1991 es mas autoritaria <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La Constitución de 1886 era centralista, excluía la participación ciudadana, no protegía adecuadamente los derechos humanos y había sido reformada muchas veces. La de 1991 buscó un nuevo pacto social incluyente, participativo y respetuoso de los derechos.
+La de 1886 centralizo el poder y limito la participacion. La de 1991 descentralizo, creo la tutela y reconocio la diversidad.
 
 ---

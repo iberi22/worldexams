@@ -12,7 +12,7 @@ bundle_size: 10
 alignment: "DBA MEN + Estándares Básicos Ciencias Sociales"
 modern_context: true
 distractor_profile: "plausible_peer_set"
-rubric_baseline: "Convivencia pacífica, cultura de paz, resolución de conflictos, acuerdo de paz 2016"
+rubric_baseline: "Convivencia pacifica, cultura de paz, resolucion de conflictos"
 ---
 
 ## Pregunta 1 [D1]
@@ -23,16 +23,16 @@ rubric_baseline: "Convivencia pacífica, cultura de paz, resolución de conflict
 **Context:** Contexto colombiano
 
 ### Enunciado
-En qué año se firmó el Acuerdo de Paz entre el Gobierno de Colombia y las FARC?
+Que es la convivencia pacifica?
 
 ### Opciones
-- [ ] A) 1991 <!-- feedback: Incorrecto. Ese año fue la Constitución, no la paz con las FARC. -->
-- [x] B) 2016 <!-- feedback: Correcto. Se firmó el 24 de noviembre de 2016 en el Teatro Colón. -->
-- [ ] C) 1958 <!-- feedback: Incorrecto. Ese año comenzó el Frente Nacional. -->
-- [ ] D) 2002 <!-- feedback: Incorrecto. Ese año inició el gobierno de Uribe, no se firmó la paz. -->
+- [ ] A) Vivir sin relacionarse con otros <!-- feedback: Incorrecto. -->
+- [x] B) La capacidad de vivir en armonia con los demas respetando las diferencias <!-- feedback: Correcto. -->
+- [ ] C) Estar siempre de acuerdo <!-- feedback: Incorrecto. -->
+- [ ] D) No hablar con nadie <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Acuerdo de Paz con las FARC fue firmado el 24 de noviembre de 2016 en Bogotá, después de 4 años de negociaciones en La Habana, Cuba. Puso fin a más de 50 años de conflicto armado con esa guerrilla.
+La convivencia pacifica implica respetar a los demas, aceptar las diferencias (culturales, politicas, religiosas), resolver conflictos sin violencia y trabajar juntos por el bien comun.
 
 ---
 
@@ -44,183 +44,183 @@ El Acuerdo de Paz con las FARC fue firmado el 24 de noviembre de 2016 en Bogotá
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué significa la palabra "paz"?
+Que es un conflicto?
 
 ### Opciones
-- [ ] A) Guerra y conflicto <!-- feedback: Incorrecto. Es lo opuesto. -->
-- [x] B) Situación de armonía, tranquilidad y ausencia de violencia <!-- feedback: Correcto. La paz es el ideal de convivencia armónica. -->
-- [ ] C) Competencia deportiva <!-- feedback: Incorrecto. No es el significado de paz. -->
-- [ ] D) Silencio absoluto <!-- feedback: Incorrecto. Paz no es solo silencio. -->
+- [ ] A) Una fiesta <!-- feedback: Incorrecto. -->
+- [x] B) Una situacion de desacuerdo entre dos o mas personas <!-- feedback: Correcto. -->
+- [ ] C) Un deporte <!-- feedback: Incorrecto. -->
+- [ ] D) Un juego <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La paz no es solo la ausencia de guerra. Es un estado de armonía donde las personas conviven respetándose mutuamente, resolviendo sus conflictos sin violencia y trabajando juntas por el bien común.
+El conflicto es natural en las relaciones humanas. Surge cuando hay diferencias de intereses, opiniones o necesidades. Lo importante es resolverlo de forma pacifica.
 
 ---
 
-## Pregunta 3 [D2]
+## Pregunta 3 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v3`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué es una cultura de paz?
+Cuales son las formas de resolver un conflicto de manera pacifica?
 
 ### Opciones
-- [ ] A) Una cultura donde se celebra la guerra <!-- feedback: Incorrecto. Es lo contrario. -->
-- [x] B) Un conjunto de valores, actitudes y comportamientos que rechazan la violencia y promueven el diálogo y la resolución pacífica de conflictos <!-- feedback: Correcto. La cultura de paz se construye día a día. -->
-- [ ] C) Una religión que promueve la paz <!-- feedback: Incorrecto. No es una religión. -->
-- [ ] D) Un tratado internacional <!-- feedback: Incorrecto. No es un documento. -->
+- [ ] A) A golpes <!-- feedback: Incorrecto. La violencia no resuelve. -->
+- [x] B) Dialogo, negociacion, mediacion y arbitraje <!-- feedback: Correcto. -->
+- [ ] C) Ignorando el problema <!-- feedback: Incorrecto. -->
+- [ ] D) Gritando <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La cultura de paz fue definida por la ONU. Incluye valores como el respeto, la tolerancia, la solidaridad, la justicia y la resolución pacífica de conflictos. Se construye desde la familia, la escuela y la comunidad.
+Las formas pacificas de resolver conflictos son: el dialogo (hablar), la negociacion (llegar a acuerdos), la mediacion (un tercero ayuda) y el arbitraje (un tercero decide).
 
 ---
 
-## Pregunta 4 [D2]
+## Pregunta 4 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v4`
-**Bloom:** Understand
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto escolar
+**Context:** Contexto colombiano
 
 ### Enunciado
-Cuál es la mejor forma de resolver un conflicto entre dos compañeros de clase?
+Que es la mediacion escolar?
 
 ### Opciones
-- [ ] A) Que los dos se golpeen para ver quién gana <!-- feedback: Incorrecto. La violencia nunca es la solución. -->
-- [x] B) Dialogar con la ayuda de un mediador (profesor o compañero) para llegar a un acuerdo <!-- feedback: Correcto. El diálogo y la mediación son herramientas efectivas. -->
-- [ ] C) Ignorar el problema y no hablar nunca más <!-- feedback: Incorrecto. Ignorar los conflictos no los resuelve. -->
-- [ ] D) Que el más fuerte imponga su opinión <!-- feedback: Incorrecto. La imposición no es una solución justa. -->
+- [ ] A) Una clase de matematicas <!-- feedback: Incorrecto. -->
+- [x] B) Un proceso donde un estudiante mediador ayuda a resolver conflictos entre companeros <!-- feedback: Correcto. -->
+- [ ] C) Un castigo <!-- feedback: Incorrecto. -->
+- [ ] D) Un examen <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La resolución pacífica de conflictos implica: 1) Dialogar sin insultos, 2) Escuchar al otro, 3) Buscar soluciones donde ambos ganen, 4) Pedir ayuda de un mediador si es necesario. Así se construye una cultura de paz.
+La mediacion escolar es una estrategia de convivencia donde estudiantes capacitados como mediadores ayudan a sus companeros a resolver conflictos de forma dialogada y pacifica.
 
 ---
 
-## Pregunta 5 [D2]
+## Pregunta 5 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v5`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto escolar
+**Context:** Contexto colombiano
 
 ### Enunciado
-Si en tu salón hay un compañero que siempre insulta y molesta a otros, ¿qué deberías hacer?
+Que es la cultura de paz?
 
 ### Opciones
-- [ ] A) Ignorarlo porque no es tu problema <!-- feedback: Incorrecto. Todos somos responsables de la convivencia. -->
-- [ ] B) Insultarlo también para que aprenda <!-- feedback: Incorrecto. Responder con violencia no resuelve nada. -->
-- [x] C) Hablar con un profesor o adulto de confianza y apoyar al compañero que está siendo molestado <!-- feedback: Correcto. La mejor forma de ayudar es buscar apoyo de un adulto. -->
-- [ ] D) Unirte a los que molestan para que no te molesten a ti <!-- feedback: Incorrecto. Eso es cómplice del acoso. -->
+- [ ] A) Una cultura de guerra <!-- feedback: Incorrecto. -->
+- [x] B) Un conjunto de valores, actitudes y comportamientos que rechazan la violencia y promueven la paz <!-- feedback: Correcto. -->
+- [ ] C) Una celebracion <!-- feedback: Incorrecto. -->
+- [ ] D) Un tipo de musica <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El acoso escolar no es un problema de quien lo sufre, es de toda la comunidad educativa. Si ves que alguien está siendo molestado, debes contárselo a un adulto. Callarse o unirse al agresor solo empeora la situación.
+La cultura de paz promueve valores como el respeto, la tolerancia, la solidaridad, el dialogo y la justicia. Busca prevenir conflictos y construir una sociedad mas pacifica.
 
 ---
 
-## Pregunta 6 [D2]
+## Pregunta 6 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v6`
-**Bloom:** Apply
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
-**Context:** Contexto comunitario
+**Context:** Contexto colombiano
 
 ### Enunciado
-En tu barrio hay una disputa entre vecinos por el uso del espacio público. ¿Cómo podrían resolverlo pacíficamente?
+Que son los derechos humanos en la convivencia escolar?
 
 ### Opciones
-- [ ] A) Cada uno poniendo rejas para apropiarse del espacio <!-- feedback: Incorrecto. Eso genera más conflictos. -->
-- [x] B) Reunirse con la Junta de Acción Comunal para dialogar y encontrar una solución que beneficie a todos <!-- feedback: Correcto. El diálogo comunitario es la mejor vía. -->
-- [ ] C) Llamar a la policía para que arresten a todos <!-- feedback: Incorrecto. No es un delito, es un problema de convivencia. -->
-- [ ] D) Que el vecino más antiguo decida <!-- feedback: Incorrecto. La antigüedad no da derecho a decidir por todos. -->
+- [ ] A) No existen en la escuela <!-- feedback: Incorrecto. -->
+- [x] B) Los derechos que todos los miembros de la comunidad educativa deben respetar: respeto, no discriminacion, participacion <!-- feedback: Correcto. -->
+- [ ] C) Solo derechos de los profesores <!-- feedback: Incorrecto. -->
+- [ ] D) Solo derechos de los padres <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Los conflictos comunitarios se resuelven mejor mediante el diálogo y la mediación. La Junta de Acción Comunal, el personero o la defensoría pueden ayudar a mediar. El objetivo es llegar a acuerdos donde todos ganen.
+En la escuela, los derechos humanos se aplican: derecho al respeto, a no ser discriminado, a la participacion, a la educacion de calidad y a un ambiente seguro.
 
 ---
 
-## Pregunta 7 [D3]
+## Pregunta 7 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v7`
-**Bloom:** Analyze
+**Bloom:** Remember
 **ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Analiza: ¿Cuál fue uno de los principales efectos del Acuerdo de Paz de 2016?
+Que es el bullying y como prevenirlo?
 
 ### Opciones
-- [ ] A) Terminó inmediatamente toda la violencia en Colombia <!-- feedback: Incorrecto. La paz total no se logró, otros grupos continúan. -->
-- [x] B) Permitió la desmovilización de miles de guerrilleros y su reincorporación a la vida civil, además de reducir la violencia en varias regiones <!-- feedback: Correcto. El acuerdo tuvo efectos positivos importantes. -->
-- [ ] C) No tuvo ningún efecto <!-- feedback: Incorrecto. Sí tuvo efectos, aunque no resolvió todos los problemas. -->
-- [ ] D) Empeoró la violencia en todo el país <!-- feedback: Incorrecto. La violencia se redujo en varias zonas. -->
+- [ ] A) Una forma de jugar <!-- feedback: Incorrecto. -->
+- [x] B) El acoso escolar repetitivo; se previene con respeto, denuncia y programas de convivencia <!-- feedback: Correcto. -->
+- [ ] C) Un deporte <!-- feedback: Incorrecto. -->
+- [ ] D) Una celebracion <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-El Acuerdo de Paz permitió que más de 13.000 guerrilleros dejaran las armas y se reintegraran a la sociedad. Se redujeron los homicidios y secuestros. Sin embargo, otros grupos armados continuaron delinquiendo en algunas regiones.
+El bullying o acoso escolar es la agresion fisica o psicologica repetida. Se previene fomentando el respeto, denunciando casos, y creando comites de convivencia escolar.
 
 ---
 
-## Pregunta 8 [D3]
+## Pregunta 8 [D1]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Qué papel juegan las víctimas en la construcción de paz en Colombia?
+Que es la 'reconciliacion'?
 
 ### Opciones
-- [ ] A) Deben olvidar lo que pasó y no hablar del tema <!-- feedback: Incorrecto. Las víctimas tienen derecho a la verdad y la justicia. -->
-- [x] B) Tienen derecho a la verdad, la justicia, la reparación y las garantías de no repetición <!-- feedback: Correcto. Los derechos de las víctimas son fundamentales en el proceso de paz. -->
-- [ ] C) Deben perdonar sin condiciones <!-- feedback: Incorrecto. El perdón no se puede exigir. -->
-- [ ] D) No tienen ningún papel en la paz <!-- feedback: Incorrecto. Las víctimas son el centro del proceso de paz. -->
+- [ ] A) Seguir peleando <!-- feedback: Incorrecto. -->
+- [x] B) El proceso de restaurar una relacion despues de un conflicto <!-- feedback: Correcto. -->
+- [ ] C) Olvidar lo que paso <!-- feedback: Incorrecto. -->
+- [ ] D) Vengarse <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-En el proceso de paz colombiano, las víctimas son protagonistas. Tienen derecho a saber la verdad sobre lo ocurrido, a que los responsables sean juzgados, a recibir reparación y a que el Estado garantice que la violencia no se repita.
+La reconciliacion implica reconocer los errores, pedir perdon, reparar el dano y reconstruir la confianza. Es clave para la paz en relaciones personales y sociales.
 
 ---
 
-## Pregunta 9 [D4]
+## Pregunta 9 [D3]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v9`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
 **Context:** Contexto colombiano
 
 ### Enunciado
-Evalúa: "La paz es solo responsabilidad del gobierno". ¿Estás de acuerdo?
+Que papel juegan los valores en la convivencia?
 
 ### Opciones
-- [ ] A) Sí, solo el gobierno debe encargarse de la paz <!-- feedback: Incorrecto. La paz es una responsabilidad de todos. -->
-- [x] B) No, la paz es responsabilidad de todos: gobierno, comunidad, familias, escuelas y cada persona en su vida diaria <!-- feedback: Correcto. La paz se construye entre todos. -->
-- [ ] C) Sí, porque los ciudadanos comunes no pueden hacer nada <!-- feedback: Incorrecto. Todos podemos contribuir a la paz. -->
-- [ ] D) No, la paz solo es responsabilidad de las FARC <!-- feedback: Incorrecto. La paz es un esfuerzo colectivo. -->
+- [ ] A) No son importantes <!-- feedback: Incorrecto. -->
+- [x] B) Son fundamentales: el respeto, la tolerancia, la responsabilidad y la solidaridad permiten una convivencia armoniosa <!-- feedback: Correcto. -->
+- [ ] C) Solo en la casa <!-- feedback: Incorrecto. -->
+- [ ] D) Solo en el colegio <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-La paz no se logra solo con acuerdos entre el gobierno y los grupos armados. La paz se construye día a día en cada hogar, cada escuela, cada barrio. Cuando resolvemos un conflicto dialogando, cuando respetamos al diferente, estamos construyendo paz.
+Los valores son la base de la convivencia. El respeto permite aceptar las diferencias, la tolerancia evita conflictos, la responsabilidad cumple con los deberes y la solidaridad ayuda al otro.
 
 ---
 
 ## Pregunta 10 [D4]
 
 **ID:** `CO-SOC-5-2026-W38-convivencia-paz-001-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Sociales y Ciudadanas Pensamiento Social
-**Context:** Contexto escolar
+**Bloom:** Remember
+**ICFES:** Sociales y Ciudadanas Competencia
+**Context:** Contexto colombiano
 
 ### Enunciado
-Como estudiante de grado 5, ¿cómo puedes contribuir a la paz en tu colegio y comunidad?
+Por que es importante construir paz desde la escuela?
 
 ### Opciones
-- [ ] A) No haciendo nada porque los niños no pueden hacer la paz <!-- feedback: Incorrecto. Todos podemos contribuir. -->
-- [x] B) Respetando a mis compañeros, resolviendo conflictos dialogando, no haciendo bullying y participando en actividades que promuevan la convivencia <!-- feedback: Correcto. Son acciones concretas y poderosas. -->
-- [ ] C) Solamente el día de la paz haciendo un dibujo <!-- feedback: Incorrecto. La paz se construye todos los días. -->
-- [ ] D) Exigiendo que los adultos resuelvan todo <!-- feedback: Incorrecto. Nosotros también podemos aportar. -->
+- [ ] A) Porque la escuela no tiene que ver con la paz <!-- feedback: Incorrecto. -->
+- [x] B) Porque la escuela forma ciudadanos; aprender a convivir en paz prepara a los estudiantes para construir una sociedad pacifica <!-- feedback: Correcto. -->
+- [ ] C) Solo se aprende paz en la casa <!-- feedback: Incorrecto. -->
+- [ ] D) La paz no se aprende <!-- feedback: Incorrecto. -->
 
 ### Explicación Pedagógica
-Los niños y niñas pueden construir paz todos los días: no insultar, no golpear, incluir a quien está solo, pedir disculpas cuando se equivocan, ayudar a mediar en conflictos, y ser ejemplo de respeto y tolerancia.
+La educacion para la paz es fundamental. La escuela no solo ensena matematicas, sino tambien valores, respeto y resolucion de conflictos. Asi se forman ciudadanos para la paz.
 
 ---
