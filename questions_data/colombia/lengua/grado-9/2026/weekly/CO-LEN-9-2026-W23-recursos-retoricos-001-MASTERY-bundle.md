@@ -1,0 +1,270 @@
+---
+id: "CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY"
+country: "colombia"
+grado: 9
+asignatura: "lengua"
+tema: "recursos-retoricos"
+semana: "W23"
+protocol_version: "5.2"
+year: 2026
+bundle_index: 1
+bundle_size: 12
+alignment: "DBA MEN Colombia 2026"
+modern_context: true
+distractor_profile: "plausible_peer_set"
+rubric_baseline: "Recursos retoricos - Grado 9 - lengua"
+license: "FREE"
+
+---
+
+# Bundle MASTERY: Recursos retoricos - Grado 9
+
+Este bundle contiene 12 preguntas sobre **recursos retoricos** para grado 9,
+alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
+
+---
+
+
+## Pregunta 1 [D1]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Comunicación Escrita
+**Expected_Success:** 0.92
+
+### Enunciado
+¿Qué es un sustantivo?
+
+### Opciones
+- [x] A) Nombra personas, cosas, ideas
+- [ ] B) Expresa acciones
+- [ ] C) Describe cualidades
+- [ ] D) Une oraciones
+
+### Explicación Pedagógica
+Categoría que designa entidades
+
+---
+
+## Pregunta 2 [D2]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v2`
+**Bloom:** Understand
+**ICFES:** Comprensión Lectora
+**Expected_Success:** 0.9
+
+### Enunciado
+¿Quién escribió 'Cien años de soledad'?
+
+### Opciones
+- [x] A) Gabriel García Márquez
+  <!-- feedback: Nobel 1982 -->
+- [ ] B) Jorge Luis Borges
+- [ ] C) Mario Vargas Llosa
+- [ ] D) Julio Cortázar
+
+### Explicación Pedagógica
+Gabo, Nobel colombiano
+
+---
+
+## Pregunta 3 [D3]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v3`
+**Bloom:** Apply
+**ICFES:** Producción Textual
+**Expected_Success:** 0.87
+
+### Enunciado
+Función de la coma:
+
+### Opciones
+- [x] A) Separar elementos en lista
+- [ ] B) Terminar oración
+- [ ] C) Preguntar
+- [ ] D) Exclamar
+
+### Explicación Pedagógica
+Signo de puntuación
+
+---
+
+## Pregunta 4 [D3]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v4`
+**Bloom:** Analyze
+**ICFES:** Comunicación Escrita
+**Expected_Success:** 0.84
+
+### Enunciado
+¿Cuántas letras tiene el abecedario español?
+
+### Opciones
+- [x] A) 27
+  <!-- feedback: A-Z -->
+- [ ] B) 30
+- [ ] C) 25
+- [ ] D) 29
+
+### Explicación Pedagógica
+27 letras
+
+---
+
+## Pregunta 5 [D4]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v5`
+**Bloom:** Evaluate
+**ICFES:** Comprensión Lectora
+**Expected_Success:** 0.82
+
+### Enunciado
+¿Qué es un verbo?
+
+### Opciones
+- [x] A) Palabra que expresa acción
+- [ ] B) Nombra cosas
+- [ ] C) Describe
+- [ ] D) Conecta
+
+### Explicación Pedagógica
+Acción, proceso o estado
+
+---
+
+## Pregunta 6 [D4]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v6`
+**Bloom:** Remember
+**ICFES:** Producción Textual
+**Expected_Success:** 0.8
+
+### Enunciado
+¿Qué es el Modernismo?
+
+### Opciones
+- [x] A) Renovación estética hispanoamericana
+- [ ] B) Literatura medieval
+- [ ] C) Género literario
+- [ ] D) Escritura automática
+
+### Explicación Pedagógica
+Rubén Darío, finales s.XIX
+
+---
+
+## Pregunta 7 [D5]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v7`
+**Bloom:** Understand
+**ICFES:** Comunicación Escrita
+**Expected_Success:** 0.77
+
+### Enunciado
+Función de texto expositivo:
+
+### Opciones
+- [x] A) Informar y explicar
+- [ ] B) Convencer
+- [ ] C) Narrar ficción
+- [ ] D) Expresar sentimientos
+
+### Explicación Pedagógica
+Texto informativo objetivo
+
+---
+
+## Pregunta 8 [D4-D5]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v8`
+**Bloom:** Apply
+**ICFES:** Comprensión Lectora
+**Expected_Success:** 0.74
+
+### Enunciado
+Figura: 'tus ojos son dos luceros'
+
+### Opciones
+- [x] A) Metáfora
+- [ ] B) Símil
+- [ ] C) Hipérbole
+- [ ] D) Personificación
+
+### Explicación Pedagógica
+Comparación implícita
+
+---
+
+## Pregunta 9 [D2-D3]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v9`
+**Bloom:** Remember
+**ICFES:** Producción Textual
+**Expected_Success:** 0.72
+
+### Enunciado
+¿Qué es un sustantivo?
+
+### Opciones
+- [x] A) Nombra personas, cosas, ideas
+- [ ] B) Expresa acciones
+- [ ] C) Describe cualidades
+- [ ] D) Une oraciones
+
+### Explicación Pedagógica
+Categoría que designa entidades
+
+---
+
+## Pregunta 10 [D3-D4]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v10`
+**Bloom:** Understand
+**ICFES:** Comunicación Escrita
+**Expected_Success:** 0.7
+
+### Enunciado
+¿Quién escribió 'Cien años de soledad'?
+
+### Opciones
+- [x] A) Gabriel García Márquez
+  <!-- feedback: Nobel 1982 -->
+- [ ] B) Jorge Luis Borges
+- [ ] C) Mario Vargas Llosa
+- [ ] D) Julio Cortázar
+
+### Explicación Pedagógica
+Gabo, Nobel colombiano
+
+---
+
+## Pregunta 11 [D5]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v11`
+**Bloom:** Apply
+**ICFES:** Comprensión Lectora
+**Expected_Success:** 0.67
+
+### Enunciado
+Función de la coma:
+
+### Opciones
+- [x] A) Separar elementos en lista
+- [ ] B) Terminar oración
+- [ ] C) Preguntar
+- [ ] D) Exclamar
+
+### Explicación Pedagógica
+Signo de puntuación
+
+---
+
+## Pregunta 12 [D4-D5]
+**ID:** `CO-LEN-9-2026-W23-recursos-retoricos-001-MASTERY-v12`
+**Bloom:** Analyze
+**ICFES:** Producción Textual
+**Expected_Success:** 0.65
+
+### Enunciado
+¿Cuántas letras tiene el abecedario español?
+
+### Opciones
+- [x] A) 27
+  <!-- feedback: A-Z -->
+- [ ] B) 30
+- [ ] C) 25
+- [ ] D) 29
+
+### Explicación Pedagógica
+27 letras
+
+---
