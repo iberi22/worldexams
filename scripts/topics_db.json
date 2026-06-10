@@ -1,0 +1,4376 @@
+{
+ "matematicas_10": {
+  "1": {
+   "topic": "circulo-unitario",
+   "title": "Circulo unitario"
+  },
+  "2": {
+   "topic": "funciones-trigonometricas",
+   "title": "Funciones trigonometricas"
+  },
+  "3": {
+   "topic": "identidades-basicas",
+   "title": "Identidades basicas"
+  },
+  "4": {
+   "topic": "ley-seno-coseno",
+   "title": "Ley seno coseno"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "graficas-trigonometricas",
+   "title": "Graficas trigonometricas"
+  },
+  "7": {
+   "topic": "ecuaciones-trigonometricas",
+   "title": "Ecuaciones trigonometricas"
+  },
+  "8": {
+   "topic": "identidades-pitagoricas",
+   "title": "Identidades pitagoricas"
+  },
+  "9": {
+   "topic": "aplicaciones-trigonometria",
+   "title": "Aplicaciones trigonometria"
+  },
+  "10": {
+   "topic": "ejercicios-trigonometria",
+   "title": "Ejercicios trigonometria"
+  },
+  "11": {
+   "topic": "vectores-2d",
+   "title": "Vectores 2D"
+  },
+  "12": {
+   "topic": "operaciones-vectoriales",
+   "title": "Operaciones vectoriales"
+  },
+  "13": {
+   "topic": "matrices-basicas",
+   "title": "Matrices basicas"
+  },
+  "14": {
+   "topic": "determinantes",
+   "title": "Determinantes"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "producto-vectorial",
+   "title": "Producto vectorial"
+  },
+  "17": {
+   "topic": "producto-punto",
+   "title": "Producto punto"
+  },
+  "18": {
+   "topic": "operaciones-matriciales",
+   "title": "Operaciones matriciales"
+  },
+  "19": {
+   "topic": "matriz-inversa",
+   "title": "Matriz inversa"
+  },
+  "20": {
+   "topic": "aplicaciones-matrices",
+   "title": "Aplicaciones matrices"
+  },
+  "21": {
+   "topic": "circunferencia",
+   "title": "Circunferencia"
+  },
+  "22": {
+   "topic": "parabola",
+   "title": "Parabola"
+  },
+  "23": {
+   "topic": "elipse",
+   "title": "Elipse"
+  },
+  "24": {
+   "topic": "hiperbola",
+   "title": "Hiperbola"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "secciones-conicas",
+   "title": "Secciones conicas"
+  },
+  "27": {
+   "topic": "aplicaciones-conicas",
+   "title": "Aplicaciones conicas"
+  },
+  "28": {
+   "topic": "ecuacion-general-conicas",
+   "title": "Ecuacion general conicas"
+  },
+  "29": {
+   "topic": "graficas-conicas",
+   "title": "Graficas conicas"
+  },
+  "30": {
+   "topic": "ejercicios-conicas",
+   "title": "Ejercicios conicas"
+  },
+  "31": {
+   "topic": "limites-basicos",
+   "title": "Limites basicos"
+  },
+  "32": {
+   "topic": "propiedades-limites",
+   "title": "Propiedades limites"
+  },
+  "33": {
+   "topic": "limites-indeterminados",
+   "title": "Limites indeterminados"
+  },
+  "34": {
+   "topic": "continuidad",
+   "title": "Continuidad"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "limites-laterales",
+   "title": "Limites laterales"
+  },
+  "37": {
+   "topic": "limites-infinito",
+   "title": "Limites infinito"
+  },
+  "38": {
+   "topic": "asintotas",
+   "title": "Asintotas"
+  },
+  "39": {
+   "topic": "teorema-encaje",
+   "title": "Teorema encaje"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "matematicas_11": {
+  "1": {
+   "topic": "limites-al-infinito",
+   "title": "Limites infinito"
+  },
+  "2": {
+   "topic": "limites-laterales-avanzados",
+   "title": "Limites laterales avanzados"
+  },
+  "3": {
+   "topic": "continuidad-funciones",
+   "title": "Continuidad funciones"
+  },
+  "4": {
+   "topic": "teorema-valor-medio",
+   "title": "Teorema valor medio"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "limites-trigonometricos",
+   "title": "Limites trigonometricos"
+  },
+  "7": {
+   "topic": "propiedades-continuidad",
+   "title": "Propiedades continuidad"
+  },
+  "8": {
+   "topic": "tipos-discontinuidad",
+   "title": "Tipos discontinuidad"
+  },
+  "9": {
+   "topic": "funciones-continuas-tramos",
+   "title": "Funciones continuas tramos"
+  },
+  "10": {
+   "topic": "ejercicios-limites",
+   "title": "Ejercicios limites"
+  },
+  "11": {
+   "topic": "derivada-definicion",
+   "title": "Derivada definicion"
+  },
+  "12": {
+   "topic": "reglas-derivacion",
+   "title": "Reglas derivacion"
+  },
+  "13": {
+   "topic": "derivada-compuesta",
+   "title": "Derivada compuesta"
+  },
+  "14": {
+   "topic": "aplicaciones-derivadas",
+   "title": "Aplicaciones derivadas"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "derivada-implicita",
+   "title": "Derivada implicita"
+  },
+  "17": {
+   "topic": "derivada-orden-superior",
+   "title": "Derivadas orden superior"
+  },
+  "18": {
+   "topic": "optimizacion",
+   "title": "Optimizacion"
+  },
+  "19": {
+   "topic": "razon-cambio",
+   "title": "Razon cambio"
+  },
+  "20": {
+   "topic": "analisis-curvas",
+   "title": "Analisis curvas"
+  },
+  "21": {
+   "topic": "integral-indefinida",
+   "title": "Integral indefinida"
+  },
+  "22": {
+   "topic": "integral-definida",
+   "title": "Integral definida"
+  },
+  "23": {
+   "topic": "teorema-fundamental",
+   "title": "Teorema fundamental calculo"
+  },
+  "24": {
+   "topic": "aplicaciones-integrales",
+   "title": "Aplicaciones integrales"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "tecnicas-integracion",
+   "title": "Tecnicas integracion"
+  },
+  "27": {
+   "topic": "integracion-sustitucion",
+   "title": "Integracion sustitucion"
+  },
+  "28": {
+   "topic": "area-bajo-curva",
+   "title": "Area bajo curva"
+  },
+  "29": {
+   "topic": "volumen-solidos",
+   "title": "Volumen solidos"
+  },
+  "30": {
+   "topic": "integracion-ejercicios",
+   "title": "Ejercicios integracion"
+  },
+  "31": {
+   "topic": "probabilidad-avanzada",
+   "title": "Probabilidad avanzada"
+  },
+  "32": {
+   "topic": "distribuciones",
+   "title": "Distribuciones"
+  },
+  "33": {
+   "topic": "inferencia-estadistica",
+   "title": "Inferencia estadistica"
+  },
+  "34": {
+   "topic": "correlacion",
+   "title": "Correlacion"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "distribucion-normal",
+   "title": "Distribucion normal"
+  },
+  "37": {
+   "topic": "pruebas-hipotesis",
+   "title": "Pruebas hipotesis"
+  },
+  "38": {
+   "topic": "intervalos-confianza",
+   "title": "Intervalos confianza"
+  },
+  "39": {
+   "topic": "analisis-regresion",
+   "title": "Analisis regresion"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ciencias-naturales_8": {
+  "1": {
+   "topic": "celula-unidad-vida",
+   "title": "Celula unidad vida"
+  },
+  "2": {
+   "topic": "organelos-celulares",
+   "title": "Organelos celulares"
+  },
+  "3": {
+   "topic": "membrana-transporte",
+   "title": "Membrana transporte"
+  },
+  "4": {
+   "topic": "reproduccion-celular",
+   "title": "Reproduccion celular"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "niveles-organizacion",
+   "title": "Niveles organizacion"
+  },
+  "7": {
+   "topic": "tejidos-humanos",
+   "title": "Tejidos humanos"
+  },
+  "8": {
+   "topic": "sistema-oseo",
+   "title": "Sistema oseo"
+  },
+  "9": {
+   "topic": "sistema-muscular",
+   "title": "Sistema muscular"
+  },
+  "10": {
+   "topic": "ejercicios-biologia",
+   "title": "Ejercicios biologia"
+  },
+  "11": {
+   "topic": "sistema-digestivo",
+   "title": "Sistema digestivo"
+  },
+  "12": {
+   "topic": "sistema-respiratorio",
+   "title": "Sistema respiratorio"
+  },
+  "13": {
+   "topic": "sistema-circulatorio",
+   "title": "Sistema circulatorio"
+  },
+  "14": {
+   "topic": "sistema-nervioso",
+   "title": "Sistema nervioso"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "sistema-endocrino",
+   "title": "Sistema endocrino"
+  },
+  "17": {
+   "topic": "sistema-inmune",
+   "title": "Sistema inmune"
+  },
+  "18": {
+   "topic": "sistema-excretor",
+   "title": "Sistema excretor"
+  },
+  "19": {
+   "topic": "sistema-reproductor",
+   "title": "Sistema reproductor"
+  },
+  "20": {
+   "topic": "salud-enfermedad",
+   "title": "Salud enfermedad"
+  },
+  "21": {
+   "topic": "elementos-compuestos",
+   "title": "Elementos compuestos"
+  },
+  "22": {
+   "topic": "tabla-periodica",
+   "title": "Tabla periodica"
+  },
+  "23": {
+   "topic": "enlaces-quimicos",
+   "title": "Enlaces quimicos"
+  },
+  "24": {
+   "topic": "reacciones-quimicas",
+   "title": "Reacciones quimicas"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "nomenclatura-quimica",
+   "title": "Nomenclatura quimica"
+  },
+  "27": {
+   "topic": "balanceo-ecuaciones",
+   "title": "Balanceo ecuaciones"
+  },
+  "28": {
+   "topic": "estados-materia",
+   "title": "Estados materia"
+  },
+  "29": {
+   "topic": "cambios-estado",
+   "title": "Cambios estado"
+  },
+  "30": {
+   "topic": "propiedades-materia",
+   "title": "Propiedades materia"
+  },
+  "31": {
+   "topic": "movimiento-rectilineo",
+   "title": "Movimiento rectilineo"
+  },
+  "32": {
+   "topic": "leyes-newton",
+   "title": "Leyes Newton"
+  },
+  "33": {
+   "topic": "fuerza-masa",
+   "title": "Fuerza masa"
+  },
+  "34": {
+   "topic": "energia-trabajo",
+   "title": "Energia trabajo"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "potencia-mecanica",
+   "title": "Potencia mecanica"
+  },
+  "37": {
+   "topic": "energia-cinetica-potencial",
+   "title": "Energia cinetica potencial"
+  },
+  "38": {
+   "topic": "conservacion-energia",
+   "title": "Conservacion energia"
+  },
+  "39": {
+   "topic": "maquinas-simples",
+   "title": "Maquinas simples"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ciencias-naturales_9": {
+  "1": {
+   "topic": "adn-arn",
+   "title": "ADN ARN"
+  },
+  "2": {
+   "topic": "leyes-mendel",
+   "title": "Leyes Mendel"
+  },
+  "3": {
+   "topic": "herencia-genetica",
+   "title": "Herencia genetica"
+  },
+  "4": {
+   "topic": "evolucion-seleccion",
+   "title": "Evolucion seleccion"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "genetica-poblacional",
+   "title": "Genetica poblacional"
+  },
+  "7": {
+   "topic": "ingenieria-genetica",
+   "title": "Ingenieria genetica"
+  },
+  "8": {
+   "topic": "biotecnologia",
+   "title": "Biotecnologia"
+  },
+  "9": {
+   "topic": "clonacion",
+   "title": "Clonacion"
+  },
+  "10": {
+   "topic": "aplicaciones-genetica",
+   "title": "Aplicaciones genetica"
+  },
+  "11": {
+   "topic": "ecosistemas",
+   "title": "Ecosistemas"
+  },
+  "12": {
+   "topic": "cadenas-alimenticias",
+   "title": "Cadenas alimenticias"
+  },
+  "13": {
+   "topic": "ciclos-biogeoquimicos",
+   "title": "Ciclos biogeoquimicos"
+  },
+  "14": {
+   "topic": "biodiversidad",
+   "title": "Biodiversidad"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "relaciones-ecologicas",
+   "title": "Relaciones ecologicas"
+  },
+  "17": {
+   "topic": "sucesion-ecologica",
+   "title": "Sucesion ecologica"
+  },
+  "18": {
+   "topic": "biomas-colombianos",
+   "title": "Biomas colombianos"
+  },
+  "19": {
+   "topic": "areas-protegidas",
+   "title": "Areas protegidas"
+  },
+  "20": {
+   "topic": "conservacion-ambiental",
+   "title": "Conservacion ambiental"
+  },
+  "21": {
+   "topic": "nomenclatura-quimica",
+   "title": "Nomenclatura quimica"
+  },
+  "22": {
+   "topic": "oxidos-bases",
+   "title": "Oxidos bases"
+  },
+  "23": {
+   "topic": "acidos-sales",
+   "title": "Acidos sales"
+  },
+  "24": {
+   "topic": "reacciones-inorganicas",
+   "title": "Reacciones inorganicas"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "ph-escalas",
+   "title": "pH escalas"
+  },
+  "27": {
+   "topic": "neutralizacion",
+   "title": "Neutralizacion"
+  },
+  "28": {
+   "topic": "soluciones-quimicas",
+   "title": "Soluciones quimicas"
+  },
+  "29": {
+   "topic": "concentracion",
+   "title": "Concentracion"
+  },
+  "30": {
+   "topic": "laboratorio-quimica",
+   "title": "Laboratorio quimica"
+  },
+  "31": {
+   "topic": "cinematica-mru",
+   "title": "Cinematica MRU"
+  },
+  "32": {
+   "topic": "mruv-caida-libre",
+   "title": "MRUV caida libre"
+  },
+  "33": {
+   "topic": "estequiometria-basica",
+   "title": "Estequiometria basica"
+  },
+  "34": {
+   "topic": "mol-masa-molar",
+   "title": "Mol masa molar"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "leyes-gases",
+   "title": "Leyes gases"
+  },
+  "37": {
+   "topic": "presion-temperatura",
+   "title": "Presion temperatura"
+  },
+  "38": {
+   "topic": "termodinamica-basica",
+   "title": "Termodinamica basica"
+  },
+  "39": {
+   "topic": "calor-temperatura",
+   "title": "Calor temperatura"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ciencias-naturales_10": {
+  "1": {
+   "topic": "dinamica-rotacion",
+   "title": "Dinamica rotacion"
+  },
+  "2": {
+   "topic": "trabajo-energia",
+   "title": "Trabajo energia"
+  },
+  "3": {
+   "topic": "potencia-rendimiento",
+   "title": "Potencia rendimiento"
+  },
+  "4": {
+   "topic": "cantidad-movimiento",
+   "title": "Cantidad movimiento"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "choques-colisiones",
+   "title": "Choques colisiones"
+  },
+  "7": {
+   "topic": "momento-inercia",
+   "title": "Momento inercia"
+  },
+  "8": {
+   "topic": "torque",
+   "title": "Torque"
+  },
+  "9": {
+   "topic": "equilibrio-rotacional",
+   "title": "Equilibrio rotacional"
+  },
+  "10": {
+   "topic": "ejercicios-fisica",
+   "title": "Ejercicios fisica"
+  },
+  "11": {
+   "topic": "enlace-covalente",
+   "title": "Enlace covalente"
+  },
+  "12": {
+   "topic": "enlace-ionico",
+   "title": "Enlace ionico"
+  },
+  "13": {
+   "topic": "fuerzas-intermoleculares",
+   "title": "Fuerzas intermoleculares"
+  },
+  "14": {
+   "topic": "estados-materia-avanzado",
+   "title": "Estados materia avanzado"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "solubilidad",
+   "title": "Solubilidad"
+  },
+  "17": {
+   "topic": "propiedades-coligativas",
+   "title": "Propiedades coligativas"
+  },
+  "18": {
+   "topic": "cinetica-quimica",
+   "title": "Cinetica quimica"
+  },
+  "19": {
+   "topic": "equilibrio-quimico",
+   "title": "Equilibrio quimico"
+  },
+  "20": {
+   "topic": "laboratorio-quimica-inorganica",
+   "title": "Lab quimica inorganica"
+  },
+  "21": {
+   "topic": "poblaciones-biologicas",
+   "title": "Poblaciones biologicas"
+  },
+  "22": {
+   "topic": "comunidades-ecologicas",
+   "title": "Comunidades ecologicas"
+  },
+  "23": {
+   "topic": "flujo-energia",
+   "title": "Flujo energia"
+  },
+  "24": {
+   "topic": "sucesion-ecologica",
+   "title": "Sucesion ecologica"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "ecosistemas-colombianos",
+   "title": "Ecosistemas colombianos"
+  },
+  "27": {
+   "topic": "cambio-climatico",
+   "title": "Cambio climatico"
+  },
+  "28": {
+   "topic": "contaminacion-ambiental",
+   "title": "Contaminacion ambiental"
+  },
+  "29": {
+   "topic": "desarrollo-sostenible",
+   "title": "Desarrollo sostenible"
+  },
+  "30": {
+   "topic": "politicas-ambientales",
+   "title": "Politicas ambientales"
+  },
+  "31": {
+   "topic": "hidrocarburos",
+   "title": "Hidrocarburos"
+  },
+  "32": {
+   "topic": "grupos-funcionales",
+   "title": "Grupos funcionales"
+  },
+  "33": {
+   "topic": "isomeria",
+   "title": "Isomeria"
+  },
+  "34": {
+   "topic": "polimeros",
+   "title": "Polimeros"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "reacciones-organicas",
+   "title": "Reacciones organicas"
+  },
+  "37": {
+   "topic": "alcoholes-fenoles",
+   "title": "Alcoholes fenoles"
+  },
+  "38": {
+   "topic": "aldehidos-cetonas",
+   "title": "Aldehidos cetonas"
+  },
+  "39": {
+   "topic": "acidos-carboxilicos",
+   "title": "Acidos carboxilicos"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ciencias-naturales_11": {
+  "1": {
+   "topic": "compuestos-organicos",
+   "title": "Compuestos organicos"
+  },
+  "2": {
+   "topic": "reacciones-organicas",
+   "title": "Reacciones organicas"
+  },
+  "3": {
+   "topic": "biomoleculas",
+   "title": "Biomoleculas"
+  },
+  "4": {
+   "topic": "metabolismo-celular",
+   "title": "Metabolismo celular"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "proteinas",
+   "title": "Proteinas"
+  },
+  "7": {
+   "topic": "lipidos",
+   "title": "Lipidos"
+  },
+  "8": {
+   "topic": "carbohidratos-avanzados",
+   "title": "Carbohidratos avanzados"
+  },
+  "9": {
+   "topic": "vitaminas-minerales",
+   "title": "Vitaminas minerales"
+  },
+  "10": {
+   "topic": "nutricion-celular",
+   "title": "Nutricion celular"
+  },
+  "11": {
+   "topic": "carbohidratos",
+   "title": "Carbohidratos"
+  },
+  "12": {
+   "topic": "lipidos-proteinas",
+   "title": "Lipidos proteinas"
+  },
+  "13": {
+   "topic": "enzimas",
+   "title": "Enzimas"
+  },
+  "14": {
+   "topic": "respiracion-celular",
+   "title": "Respiracion celular"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "fotosintesis",
+   "title": "Fotosintesis"
+  },
+  "17": {
+   "topic": "sintesis-proteinas",
+   "title": "Sintesis proteinas"
+  },
+  "18": {
+   "topic": "regulacion-genica",
+   "title": "Regulacion genica"
+  },
+  "19": {
+   "topic": "biotecnologia-avanzada",
+   "title": "Biotecnologia avanzada"
+  },
+  "20": {
+   "topic": "bioquimica-ejercicios",
+   "title": "Ejercicios bioquimica"
+  },
+  "21": {
+   "topic": "fotosintesis-avanzada",
+   "title": "Fotosintesis avanzada"
+  },
+  "22": {
+   "topic": "sintesis-proteinas-avanzada",
+   "title": "Sintesis proteinas avanzada"
+  },
+  "23": {
+   "topic": "regulacion-genica-avanzada",
+   "title": "Regulacion genica avanzada"
+  },
+  "24": {
+   "topic": "biotecnologia-aplicada",
+   "title": "Biotecnologia aplicada"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "genomica",
+   "title": "Genomica"
+  },
+  "27": {
+   "topic": "proteomica",
+   "title": "Proteomica"
+  },
+  "28": {
+   "topic": "bioinformatica",
+   "title": "Bioinformatica"
+  },
+  "29": {
+   "topic": "etica-biotecnologia",
+   "title": "Etica biotecnologia"
+  },
+  "30": {
+   "topic": "aplicaciones-biomoleculas",
+   "title": "Aplicaciones biomoleculas"
+  },
+  "31": {
+   "topic": "relatividad",
+   "title": "Relatividad"
+  },
+  "32": {
+   "topic": "fisica-cuantica",
+   "title": "Fisica cuantica"
+  },
+  "33": {
+   "topic": "ondas-electromagneticas",
+   "title": "Ondas electromagneticas"
+  },
+  "34": {
+   "topic": "fisica-nuclear",
+   "title": "Fisica nuclear"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "fisica-moderna-aplicada",
+   "title": "Fisica moderna aplicada"
+  },
+  "37": {
+   "topic": "cosmologia",
+   "title": "Cosmologia"
+  },
+  "38": {
+   "topic": "particulas-elementales",
+   "title": "Particulas elementales"
+  },
+  "39": {
+   "topic": "astronomia",
+   "title": "Astronomia"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_8": {
+  "1": {
+   "topic": "mitos-leyendas",
+   "title": "Mitos leyendas"
+  },
+  "2": {
+   "topic": "popol-vuh",
+   "title": "Popol Vuh"
+  },
+  "3": {
+   "topic": "poesia-precolombina",
+   "title": "Poesia precolombina"
+  },
+  "4": {
+   "topic": "narrativa-indigena",
+   "title": "Narrativa indigena"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "literatura-prehispanica",
+   "title": "Literatura prehispanica"
+  },
+  "7": {
+   "topic": "tradicion-oral",
+   "title": "Tradicion oral"
+  },
+  "8": {
+   "topic": "cosmogonia-indigena",
+   "title": "Cosmogonia indigena"
+  },
+  "9": {
+   "topic": "literatura-maya",
+   "title": "Literatura maya"
+  },
+  "10": {
+   "topic": "analisis-lectura",
+   "title": "Analisis lectura"
+  },
+  "11": {
+   "topic": "cronistas-indias",
+   "title": "Cronistas Indias"
+  },
+  "12": {
+   "topic": "poesia-colonial",
+   "title": "Poesia colonial"
+  },
+  "13": {
+   "topic": "teatro-colonial",
+   "title": "Teatro colonial"
+  },
+  "14": {
+   "topic": "sor-juana",
+   "title": "Sor Juana Ines"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "barroco-americano",
+   "title": "Barroco americano"
+  },
+  "17": {
+   "topic": "literatura-novohispana",
+   "title": "Literatura novohispana"
+  },
+  "18": {
+   "topic": "cronica-indias",
+   "title": "Cronica Indias"
+  },
+  "19": {
+   "topic": "analisis-literatura-colonial",
+   "title": "Analisis literatura colonial"
+  },
+  "20": {
+   "topic": "ejercicios-comprension",
+   "title": "Ejercicios comprension"
+  },
+  "21": {
+   "topic": "modernismo",
+   "title": "Modernismo"
+  },
+  "22": {
+   "topic": "creacionismo",
+   "title": "Creacionismo"
+  },
+  "23": {
+   "topic": "surrealismo",
+   "title": "Surrealismo"
+  },
+  "24": {
+   "topic": "poesia-vanguardista",
+   "title": "Poesia vanguardista"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "narrativa-vanguardista",
+   "title": "Narrativa vanguardista"
+  },
+  "27": {
+   "topic": "teatro-vanguardista",
+   "title": "Teatro vanguardista"
+  },
+  "28": {
+   "topic": "literatura-contemporanea",
+   "title": "Literatura contemporanea"
+  },
+  "29": {
+   "topic": "analisis-vanguardias",
+   "title": "Analisis vanguardias"
+  },
+  "30": {
+   "topic": "creacion-literaria",
+   "title": "Creacion literaria"
+  },
+  "31": {
+   "topic": "estructura-ensayo",
+   "title": "Estructura ensayo"
+  },
+  "32": {
+   "topic": "ensayo-literario",
+   "title": "Ensayo literario"
+  },
+  "33": {
+   "topic": "ensayo-cientifico",
+   "title": "Ensayo cientifico"
+  },
+  "34": {
+   "topic": "ensayo-politico",
+   "title": "Ensayo politico"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "ensayo-critico",
+   "title": "Ensayo critico"
+  },
+  "37": {
+   "topic": "argumentacion-ensayistica",
+   "title": "Argumentacion ensayistica"
+  },
+  "38": {
+   "topic": "retorica",
+   "title": "Retorica"
+  },
+  "39": {
+   "topic": "analisis-ensayos",
+   "title": "Analisis ensayos"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_9": {
+  "1": {
+   "topic": "narrativa-colombiana",
+   "title": "Narrativa colombiana"
+  },
+  "2": {
+   "topic": "garcia-marquez",
+   "title": "Garcia Marquez"
+  },
+  "3": {
+   "topic": "poesia-colombiana",
+   "title": "Poesia colombiana"
+  },
+  "4": {
+   "topic": "teatro-colombiano",
+   "title": "Teatro colombiano"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "cuento-colombiano",
+   "title": "Cuento colombiano"
+  },
+  "7": {
+   "topic": "novela-colombiana-sXX",
+   "title": "Novela colombiana s.XX"
+  },
+  "8": {
+   "topic": "literatura-paisa",
+   "title": "Literatura paisa"
+  },
+  "9": {
+   "topic": "literatura-costena",
+   "title": "Literatura costena"
+  },
+  "10": {
+   "topic": "creacion-narrativa",
+   "title": "Creacion narrativa"
+  },
+  "11": {
+   "topic": "modernismo-hispanoamericano",
+   "title": "Modernismo hispanoamericano"
+  },
+  "12": {
+   "topic": "ruben-dario",
+   "title": "Ruben Dario"
+  },
+  "13": {
+   "topic": "posmodernismo",
+   "title": "Posmodernismo"
+  },
+  "14": {
+   "topic": "narrativa-moderna",
+   "title": "Narrativa moderna"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "poesia-modernista",
+   "title": "Poesia modernista"
+  },
+  "17": {
+   "topic": "prosa-modernista",
+   "title": "Prosa modernista"
+  },
+  "18": {
+   "topic": "simbolismo",
+   "title": "Simbolismo"
+  },
+  "19": {
+   "topic": "parnasianismo",
+   "title": "Parnasianismo"
+  },
+  "20": {
+   "topic": "analisis-estilistico",
+   "title": "Analisis estilistico"
+  },
+  "21": {
+   "topic": "tipos-argumentos",
+   "title": "Tipos argumentos"
+  },
+  "22": {
+   "topic": "estructura-argumentativa",
+   "title": "Estructura argumentativa"
+  },
+  "23": {
+   "topic": "recursos-retoricos",
+   "title": "Recursos retoricos"
+  },
+  "24": {
+   "topic": "contraargumentacion",
+   "title": "Contraargumentacion"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "argumentacion-escrita",
+   "title": "Argumentacion escrita"
+  },
+  "27": {
+   "topic": "debate",
+   "title": "Debate"
+  },
+  "28": {
+   "topic": "falacias-logicas",
+   "title": "Falacias logicas"
+  },
+  "29": {
+   "topic": "argumento-autoridad",
+   "title": "Argumento autoridad"
+  },
+  "30": {
+   "topic": "produccion-textos-argumentativos",
+   "title": "Produccion textos argumentativos"
+  },
+  "31": {
+   "topic": "corrientes-criticas",
+   "title": "Corrientes criticas"
+  },
+  "32": {
+   "topic": "analisis-obra",
+   "title": "Analisis obra"
+  },
+  "33": {
+   "topic": "critica-contextual",
+   "title": "Critica contextual"
+  },
+  "34": {
+   "topic": "resena-critica",
+   "title": "Resena critica"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "critica-literaria-colombiana",
+   "title": "Critica literaria colombiana"
+  },
+  "37": {
+   "topic": "ensayo-literario-avanzado",
+   "title": "Ensayo literario avanzado"
+  },
+  "38": {
+   "topic": "interpretacion-textual",
+   "title": "Interpretacion textual"
+  },
+  "39": {
+   "topic": "analisis-literario-integral",
+   "title": "Analisis literario integral"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_10": {
+  "1": {
+   "topic": "literatura-griega",
+   "title": "Literatura griega"
+  },
+  "2": {
+   "topic": "literatura-medieval",
+   "title": "Literatura medieval"
+  },
+  "3": {
+   "topic": "renacimiento",
+   "title": "Renacimiento"
+  },
+  "4": {
+   "topic": "barroco-europeo",
+   "title": "Barroco europeo"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "literatura-renacentista",
+   "title": "Literatura renacentista"
+  },
+  "7": {
+   "topic": "shakespeare",
+   "title": "Shakespeare"
+  },
+  "8": {
+   "topic": "clasicismo",
+   "title": "Clasicismo"
+  },
+  "9": {
+   "topic": "neoclasicismo",
+   "title": "Neoclasicismo"
+  },
+  "10": {
+   "topic": "analisis-literatura-universal",
+   "title": "Analisis literatura universal"
+  },
+  "11": {
+   "topic": "platon-aristoteles",
+   "title": "Platon Aristoteles"
+  },
+  "12": {
+   "topic": "maquiavelo",
+   "title": "Maquiavelo"
+  },
+  "13": {
+   "topic": "rousseau",
+   "title": "Rousseau"
+  },
+  "14": {
+   "topic": "marx-pensamiento",
+   "title": "Marx pensamiento"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "filosofia-moderna",
+   "title": "Filosofia moderna"
+  },
+  "17": {
+   "topic": "ilustracion-filosofica",
+   "title": "Ilustracion filosofica"
+  },
+  "18": {
+   "topic": "existencialismo",
+   "title": "Existencialismo"
+  },
+  "19": {
+   "topic": "filosofia-latinoamericana",
+   "title": "Filosofia latinoamericana"
+  },
+  "20": {
+   "topic": "etica-politica",
+   "title": "Etica politica"
+  },
+  "21": {
+   "topic": "declaracion-universal-ddhh",
+   "title": "Declaracion universal DDHH"
+  },
+  "22": {
+   "topic": "derechos-civiles",
+   "title": "Derechos civiles"
+  },
+  "23": {
+   "topic": "derechos-sociales",
+   "title": "Derechos sociales"
+  },
+  "24": {
+   "topic": "derechos-colectivos",
+   "title": "Derechos colectivos"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "derechos-culturales",
+   "title": "Derechos culturales"
+  },
+  "27": {
+   "topic": "constitucion-derechos",
+   "title": "Constitucion derechos"
+  },
+  "28": {
+   "topic": "mecanismos-proteccion-ddhh",
+   "title": "Mecanismos proteccion DDHH"
+  },
+  "29": {
+   "topic": "derecho-internacional-humanitario",
+   "title": "DIH"
+  },
+  "30": {
+   "topic": "aplicaciones-ddhh",
+   "title": "Aplicaciones DDHH"
+  },
+  "31": {
+   "topic": "cultura-global",
+   "title": "Cultura global"
+  },
+  "32": {
+   "topic": "identidad-cultural",
+   "title": "Identidad cultural"
+  },
+  "33": {
+   "topic": "medios-comunicacion",
+   "title": "Medios comunicacion"
+  },
+  "34": {
+   "topic": "diversidad-cultural",
+   "title": "Diversidad cultural"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "globalizacion-cultura",
+   "title": "Globalizacion cultura"
+  },
+  "37": {
+   "topic": "industrias-culturales",
+   "title": "Industrias culturales"
+  },
+  "38": {
+   "topic": "patrimonio-cultural",
+   "title": "Patrimonio cultural"
+  },
+  "39": {
+   "topic": "dialogo-intercultural",
+   "title": "Dialogo intercultural"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_11": {
+  "1": {
+   "topic": "convivencia-paz",
+   "title": "Convivencia paz"
+  },
+  "2": {
+   "topic": "participacion-ciudadana",
+   "title": "Participacion ciudadana"
+  },
+  "3": {
+   "topic": "pluralidad",
+   "title": "Pluralidad"
+  },
+  "4": {
+   "topic": "identidad-colombiana",
+   "title": "Identidad colombiana"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "etica-ciudadana",
+   "title": "Etica ciudadana"
+  },
+  "7": {
+   "topic": "democracia-participativa",
+   "title": "Democracia participativa"
+  },
+  "8": {
+   "topic": "responsabilidad-social",
+   "title": "Responsabilidad social"
+  },
+  "9": {
+   "topic": "diversidad-colombia",
+   "title": "Diversidad Colombia"
+  },
+  "10": {
+   "topic": "ejercicios-competencia-ciudadana",
+   "title": "Ejercicios competencia ciudadana"
+  },
+  "11": {
+   "topic": "etica-medica",
+   "title": "Etica medica"
+  },
+  "12": {
+   "topic": "biotecnologia-etica",
+   "title": "Biotecnologia etica"
+  },
+  "13": {
+   "topic": "medioambiente-etica",
+   "title": "Medioambiente etica"
+  },
+  "14": {
+   "topic": "dilemas-bioeticos",
+   "title": "Dilemas bioeticos"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "investigacion-etica",
+   "title": "Investigacion etica"
+  },
+  "17": {
+   "topic": "derecho-salud",
+   "title": "Derecho salud"
+  },
+  "18": {
+   "topic": "biopolitica",
+   "title": "Biopolitica"
+  },
+  "19": {
+   "topic": "eutanasia-ddhh",
+   "title": "Eutanasia DDHH"
+  },
+  "20": {
+   "topic": "casos-bioetica",
+   "title": "Casos bioetica"
+  },
+  "21": {
+   "topic": "adn-recombinante",
+   "title": "ADN recombinante"
+  },
+  "22": {
+   "topic": "clonacion-etica",
+   "title": "Clonacion etica"
+  },
+  "23": {
+   "topic": "terapia-genica",
+   "title": "Terapia genica"
+  },
+  "24": {
+   "topic": "bioetica-avanzada",
+   "title": "Bioetica avanzada"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "organismos-geneticamente-modificados",
+   "title": "OGMs"
+  },
+  "27": {
+   "topic": "medicina-genomica",
+   "title": "Medicina genomica"
+  },
+  "28": {
+   "topic": "edicion-genetica-crispr",
+   "title": "Edicion genetica CRISPR"
+  },
+  "29": {
+   "topic": "farmacogenomica",
+   "title": "Farmacogenomica"
+  },
+  "30": {
+   "topic": "aplicaciones-biotecnologicas",
+   "title": "Aplicaciones biotecnologicas"
+  },
+  "31": {
+   "topic": "comprension-lectora-saber11",
+   "title": "Comprension lectora Saber 11"
+  },
+  "32": {
+   "topic": "analisis-textual-saber11",
+   "title": "Analisis textual Saber 11"
+  },
+  "33": {
+   "topic": "argumentacion-icfes",
+   "title": "Argumentacion ICFES"
+  },
+  "34": {
+   "topic": "simulacro-lengua-saber11",
+   "title": "Simulacro lengua Saber 11"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "lectura-critica-saber11",
+   "title": "Lectura critica Saber 11"
+  },
+  "37": {
+   "topic": "produccion-textual-saber11",
+   "title": "Produccion textual Saber 11"
+  },
+  "38": {
+   "topic": "semantica-pragmatica",
+   "title": "Semantica pragmatica"
+  },
+  "39": {
+   "topic": "preparacion-final-icfes",
+   "title": "Preparacion final ICFES"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "sociales-ciudadanas_8": {
+  "1": {
+   "topic": "ilustracion",
+   "title": "Ilustracion"
+  },
+  "2": {
+   "topic": "revolucion-francesa",
+   "title": "Revolucion Francesa"
+  },
+  "3": {
+   "topic": "independencia-eeuu",
+   "title": "Independencia EEUU"
+  },
+  "4": {
+   "topic": "repercusiones-america",
+   "title": "Repercusiones America"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "liberalismo-clasico",
+   "title": "Liberalismo clasico"
+  },
+  "7": {
+   "topic": "revoluciones-atlanticas",
+   "title": "Revoluciones atlanticas"
+  },
+  "8": {
+   "topic": "constitucionalismo",
+   "title": "Constitucionalismo"
+  },
+  "9": {
+   "topic": "derechos-hombre",
+   "title": "Derechos hombre"
+  },
+  "10": {
+   "topic": "analisis-revoluciones",
+   "title": "Analisis revoluciones"
+  },
+  "11": {
+   "topic": "independencia-colombia",
+   "title": "Independencia Colombia"
+  },
+  "12": {
+   "topic": "revolucion-industrial",
+   "title": "Revolucion Industrial"
+  },
+  "13": {
+   "topic": "cambios-sociales",
+   "title": "Cambios sociales"
+  },
+  "14": {
+   "topic": "liberalismo-nacionalismo",
+   "title": "Liberalismo nacionalismo"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "capitalismo",
+   "title": "Capitalismo"
+  },
+  "17": {
+   "topic": "movimientos-obreros",
+   "title": "Movimientos obreros"
+  },
+  "18": {
+   "topic": "imperialismo-sXIX",
+   "title": "Imperialismo s.XIX"
+  },
+  "19": {
+   "topic": "colonialismo-africa",
+   "title": "Colonialismo Africa"
+  },
+  "20": {
+   "topic": "consecuencias-revolucion-industrial",
+   "title": "Consecuencias Rev. Industrial"
+  },
+  "21": {
+   "topic": "gran-colombia",
+   "title": "Gran Colombia"
+  },
+  "22": {
+   "topic": "regeneracion",
+   "title": "Regeneracion"
+  },
+  "23": {
+   "topic": "guerra-mil-dias",
+   "title": "Guerra Mil Dias"
+  },
+  "24": {
+   "topic": "separacion-panama",
+   "title": "Separacion Panama"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "hegemonia-conservadora",
+   "title": "Hegemonia conservadora"
+  },
+  "27": {
+   "topic": "republica-liberal",
+   "title": "Republica liberal"
+  },
+  "28": {
+   "topic": "violencia-partidista",
+   "title": "Violencia partidista"
+  },
+  "29": {
+   "topic": "frente-nacional",
+   "title": "Frente Nacional"
+  },
+  "30": {
+   "topic": "historia-colombia-sXX",
+   "title": "Historia Colombia s.XX"
+  },
+  "31": {
+   "topic": "etica-moral",
+   "title": "Etica moral"
+  },
+  "32": {
+   "topic": "normas-sociales",
+   "title": "Normas sociales"
+  },
+  "33": {
+   "topic": "convivencia-ciudadana",
+   "title": "Convivencia ciudadana"
+  },
+  "34": {
+   "topic": "resolucion-conflictos",
+   "title": "Resolucion conflictos"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "valores-ciudadanos",
+   "title": "Valores ciudadanos"
+  },
+  "37": {
+   "topic": "tolerancia-respeto",
+   "title": "Tolerancia respeto"
+  },
+  "38": {
+   "topic": "identidad-nacional",
+   "title": "Identidad nacional"
+  },
+  "39": {
+   "topic": "diversidad-cultural",
+   "title": "Diversidad cultural"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "sociales-ciudadanas_9": {
+  "1": {
+   "topic": "primera-guerra-mundial",
+   "title": "Primera Guerra Mundial"
+  },
+  "2": {
+   "topic": "periodo-entreguerras",
+   "title": "Periodo entreguerras"
+  },
+  "3": {
+   "topic": "segunda-guerra-mundial",
+   "title": "Segunda Guerra Mundial"
+  },
+  "4": {
+   "topic": "consecuencias-genocidio",
+   "title": "Consecuencias genocidio"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "tratado-versalles",
+   "title": "Tratado Versalles"
+  },
+  "7": {
+   "topic": "auge-fascismo",
+   "title": "Auge fascismo"
+  },
+  "8": {
+   "topic": "holocausto",
+   "title": "Holocausto"
+  },
+  "9": {
+   "topic": "consecuencias-guerra",
+   "title": "Consecuencias guerra"
+  },
+  "10": {
+   "topic": "analisis-guerras-mundiales",
+   "title": "Analisis guerras mundiales"
+  },
+  "11": {
+   "topic": "guerra-fria",
+   "title": "Guerra Fria"
+  },
+  "12": {
+   "topic": "descolonizacion",
+   "title": "Descolonizacion"
+  },
+  "13": {
+   "topic": "muro-berlin",
+   "title": "Muro Berlin"
+  },
+  "14": {
+   "topic": "caida-urss",
+   "title": "Caida URSS"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "carrera-espacial",
+   "title": "Carrera espacial"
+  },
+  "17": {
+   "topic": "conflictos-corea-vietnam",
+   "title": "Conflictos Corea Vietnam"
+  },
+  "18": {
+   "topic": "movimientos-paz",
+   "title": "Movimientos paz"
+  },
+  "19": {
+   "topic": "nuevo-orden-mundial",
+   "title": "Nuevo orden mundial"
+  },
+  "20": {
+   "topic": "globalizacion-geopolitica",
+   "title": "Globalizacion geopolitica"
+  },
+  "21": {
+   "topic": "violencia-partidista-colombia",
+   "title": "Violencia partidista Colombia"
+  },
+  "22": {
+   "topic": "frente-nacional-colombia",
+   "title": "Frente Nacional"
+  },
+  "23": {
+   "topic": "conflicto-armado-colombia",
+   "title": "Conflicto armado Colombia"
+  },
+  "24": {
+   "topic": "proceso-paz",
+   "title": "Proceso paz"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "narcotrafico-colombia",
+   "title": "Narcotrafico Colombia"
+  },
+  "27": {
+   "topic": "desplazamiento-forzado",
+   "title": "Desplazamiento forzado"
+  },
+  "28": {
+   "topic": "memoria-historica",
+   "title": "Memoria historica"
+  },
+  "29": {
+   "topic": "justicia-transicional",
+   "title": "Justicia transicional"
+  },
+  "30": {
+   "topic": "posconflicto-colombia",
+   "title": "Posconflicto Colombia"
+  },
+  "31": {
+   "topic": "derechos-humanos-ddhh",
+   "title": "Derechos humanos"
+  },
+  "32": {
+   "topic": "mecanismos-participacion",
+   "title": "Mecanismos participacion"
+  },
+  "33": {
+   "topic": "constitucion-1991",
+   "title": "Constitucion 1991"
+  },
+  "34": {
+   "topic": "ddhh-colombia",
+   "title": "DDHH Colombia"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "cpidh",
+   "title": "Corte Penal Internacional"
+  },
+  "37": {
+   "topic": "derecho-internacional",
+   "title": "Derecho internacional"
+  },
+  "38": {
+   "topic": "onu-organizacion",
+   "title": "ONU"
+  },
+  "39": {
+   "topic": "corte-constitucional",
+   "title": "Corte Constitucional"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "sociales-ciudadanas_10": {
+  "1": {
+   "topic": "estado-gobierno",
+   "title": "Estado y gobierno"
+  },
+  "2": {
+   "topic": "regimenes-politicos",
+   "title": "Regimenes politicos"
+  },
+  "3": {
+   "topic": "democracia",
+   "title": "Democracia"
+  },
+  "4": {
+   "topic": "partidos-politicos-colombia",
+   "title": "Partidos politicos Colombia"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "ideologias-politicas",
+   "title": "Ideologias politicas"
+  },
+  "7": {
+   "topic": "sistemas-electorales",
+   "title": "Sistemas electorales"
+  },
+  "8": {
+   "topic": "opinion-publica",
+   "title": "Opinion publica"
+  },
+  "9": {
+   "topic": "participacion-politica",
+   "title": "Participacion politica"
+  },
+  "10": {
+   "topic": "analisis-politico",
+   "title": "Analisis politico"
+  },
+  "11": {
+   "topic": "sistemas-economicos",
+   "title": "Sistemas economicos"
+  },
+  "12": {
+   "topic": "desarrollo-sostenible",
+   "title": "Desarrollo sostenible"
+  },
+  "13": {
+   "topic": "economia-colombiana",
+   "title": "Economia colombiana"
+  },
+  "14": {
+   "topic": "comercio-internacional",
+   "title": "Comercio internacional"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "globalizacion-economica",
+   "title": "Globalizacion economica"
+  },
+  "17": {
+   "topic": "tlc-acuerdos",
+   "title": "TLC acuerdos"
+  },
+  "18": {
+   "topic": "presupuesto-nacional",
+   "title": "Presupuesto nacional"
+  },
+  "19": {
+   "topic": "reforma-tributaria",
+   "title": "Reforma tributaria"
+  },
+  "20": {
+   "topic": "economia-digital",
+   "title": "Economia digital"
+  },
+  "21": {
+   "topic": "justicia-transicional",
+   "title": "Justicia transicional"
+  },
+  "22": {
+   "topic": "corte-penal",
+   "title": "Corte Penal"
+  },
+  "23": {
+   "topic": "derecho-internacional",
+   "title": "Derecho internacional"
+  },
+  "24": {
+   "topic": "memoria-historica-p3",
+   "title": "Memoria historica"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "reconciliacion",
+   "title": "Reconciliacion"
+  },
+  "27": {
+   "topic": "reparacion-victimas",
+   "title": "Reparacion victimas"
+  },
+  "28": {
+   "topic": "verdad-justicia",
+   "title": "Verdad y justicia"
+  },
+  "29": {
+   "topic": "garantias-no-repeticion",
+   "title": "Garantias no repeticion"
+  },
+  "30": {
+   "topic": "construccion-paz",
+   "title": "Construccion paz"
+  },
+  "31": {
+   "topic": "orden-mundial",
+   "title": "Orden mundial"
+  },
+  "32": {
+   "topic": "onu-organismos",
+   "title": "ONU organismos"
+  },
+  "33": {
+   "topic": "latinoamerica-geopolitica",
+   "title": "Latinoamerica geopolitica"
+  },
+  "34": {
+   "topic": "seguridad-internacional",
+   "title": "Seguridad internacional"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "cambio-climatico",
+   "title": "Cambio climatico"
+  },
+  "37": {
+   "topic": "migracion-global",
+   "title": "Migracion global"
+  },
+  "38": {
+   "topic": "desigualdad-pobreza",
+   "title": "Desigualdad pobreza"
+  },
+  "39": {
+   "topic": "tecnologia-sociedad",
+   "title": "Tecnologia sociedad"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "sociales-ciudadanas_11": {
+  "1": {
+   "topic": "conflicto-colombiano",
+   "title": "Conflicto colombiano"
+  },
+  "2": {
+   "topic": "actores-conflicto",
+   "title": "Actores conflicto"
+  },
+  "3": {
+   "topic": "acuerdo-paz-2016",
+   "title": "Acuerdo paz 2016"
+  },
+  "4": {
+   "topic": "posconflicto",
+   "title": "Posconflicto"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "causas-conflicto",
+   "title": "Causas conflicto"
+  },
+  "7": {
+   "topic": "victimas-conflicto",
+   "title": "Victimas conflicto"
+  },
+  "8": {
+   "topic": "desmovilizacion",
+   "title": "Desmovilizacion"
+  },
+  "9": {
+   "topic": "reincorporacion",
+   "title": "Reincorporacion"
+  },
+  "10": {
+   "topic": "construccion-paz-colombia",
+   "title": "Construccion paz"
+  },
+  "11": {
+   "topic": "geografia-colombiana",
+   "title": "Geografia colombiana"
+  },
+  "12": {
+   "topic": "region-andina",
+   "title": "Region Andina"
+  },
+  "13": {
+   "topic": "region-caribe-pacifico",
+   "title": "Region Caribe Pacifico"
+  },
+  "14": {
+   "topic": "region-orinoquia-amazonia",
+   "title": "Orinoquia Amazonia"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "region-caribe",
+   "title": "Region Caribe"
+  },
+  "17": {
+   "topic": "region-pacifico",
+   "title": "Region Pacifico"
+  },
+  "18": {
+   "topic": "recursos-naturales",
+   "title": "Recursos naturales"
+  },
+  "19": {
+   "topic": "biodiversidad-colombia",
+   "title": "Biodiversidad Colombia"
+  },
+  "20": {
+   "topic": "desarrollo-regional",
+   "title": "Desarrollo regional"
+  },
+  "21": {
+   "topic": "constitucion-1991-ddhh",
+   "title": "Constitucion 1991"
+  },
+  "22": {
+   "topic": "ramas-poder-publico",
+   "title": "Ramas poder publico"
+  },
+  "23": {
+   "topic": "organismos-control",
+   "title": "Organismos control"
+  },
+  "24": {
+   "topic": "participacion-ciudadana-p3",
+   "title": "Participacion ciudadana"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "derechos-fundamentales",
+   "title": "Derechos fundamentales"
+  },
+  "27": {
+   "topic": "acciones-constitucionales",
+   "title": "Acciones constitucionales"
+  },
+  "28": {
+   "topic": "tutela-derechos",
+   "title": "Tutela derechos"
+  },
+  "29": {
+   "topic": "rendicion-cuentas",
+   "title": "Rendicion cuentas"
+  },
+  "30": {
+   "topic": "control-social",
+   "title": "Control social"
+  },
+  "31": {
+   "topic": "cambio-climatico-global",
+   "title": "Cambio climatico"
+  },
+  "32": {
+   "topic": "migracion-global-p4",
+   "title": "Migracion global"
+  },
+  "33": {
+   "topic": "desigualdad-pobreza-p4",
+   "title": "Desigualdad pobreza"
+  },
+  "34": {
+   "topic": "tecnologia-sociedad-p4",
+   "title": "Tecnologia sociedad"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "desafios-ambientales",
+   "title": "Desafios ambientales"
+  },
+  "37": {
+   "topic": "ciudades-sostenibles",
+   "title": "Ciudades sostenibles"
+  },
+  "38": {
+   "topic": "derechos-humanos-digitales",
+   "title": "DDHH digitales"
+  },
+  "39": {
+   "topic": "futuro-colombia",
+   "title": "Futuro Colombia"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ingles_8": {
+  "1": {
+   "topic": "conditional-type3",
+   "title": "Conditional type 3"
+  },
+  "2": {
+   "topic": "third-conditional-form",
+   "title": "Third conditional form"
+  },
+  "3": {
+   "topic": "mixed-conditionals",
+   "title": "Mixed conditionals"
+  },
+  "4": {
+   "topic": "wishes-regrets",
+   "title": "Wishes regrets"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "conditional-exercises",
+   "title": "Conditional exercises"
+  },
+  "7": {
+   "topic": "reading-conditional",
+   "title": "Reading conditional"
+  },
+  "8": {
+   "topic": "writing-conditionals",
+   "title": "Writing conditionals"
+  },
+  "9": {
+   "topic": "speaking-conditionals",
+   "title": "Speaking conditionals"
+  },
+  "10": {
+   "topic": "practice-grammar",
+   "title": "Practice grammar"
+  },
+  "11": {
+   "topic": "passive-simple-present",
+   "title": "Passive simple present"
+  },
+  "12": {
+   "topic": "passive-simple-past",
+   "title": "Passive simple past"
+  },
+  "13": {
+   "topic": "passive-perfect-tenses",
+   "title": "Passive perfect tenses"
+  },
+  "14": {
+   "topic": "passive-modals",
+   "title": "Passive modals"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "16": {
+   "topic": "passive-exercises",
+   "title": "Passive exercises"
+  },
+  "17": {
+   "topic": "reading-passive",
+   "title": "Reading passive"
+  },
+  "18": {
+   "topic": "writing-passive",
+   "title": "Writing passive"
+  },
+  "19": {
+   "topic": "speaking-passive",
+   "title": "Speaking passive"
+  },
+  "20": {
+   "topic": "passive-practice",
+   "title": "Passive practice"
+  },
+  "21": {
+   "topic": "environment-vocabulary",
+   "title": "Environment vocabulary"
+  },
+  "22": {
+   "topic": "reading-environment",
+   "title": "Reading environment"
+  },
+  "23": {
+   "topic": "sustainability",
+   "title": "Sustainability"
+  },
+  "24": {
+   "topic": "compare-environment",
+   "title": "Compare environment"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "26": {
+   "topic": "environmental-issues",
+   "title": "Environmental issues"
+  },
+  "27": {
+   "topic": "debate-environment",
+   "title": "Debate environment"
+  },
+  "28": {
+   "topic": "writing-essay",
+   "title": "Writing essay"
+  },
+  "29": {
+   "topic": "presentation-environment",
+   "title": "Presentation environment"
+  },
+  "30": {
+   "topic": "environment-project",
+   "title": "Environment project"
+  },
+  "31": {
+   "topic": "grammar-review-p4",
+   "title": "Grammar review"
+  },
+  "32": {
+   "topic": "vocabulary-review-p4",
+   "title": "Vocabulary review"
+  },
+  "33": {
+   "topic": "reading-comprehension-p4",
+   "title": "Reading comprehension"
+  },
+  "34": {
+   "topic": "mock-test",
+   "title": "Mock test"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "36": {
+   "topic": "exam-preparation",
+   "title": "Exam preparation"
+  },
+  "37": {
+   "topic": "speaking-practice",
+   "title": "Speaking practice"
+  },
+  "38": {
+   "topic": "listening-practice",
+   "title": "Listening practice"
+  },
+  "39": {
+   "topic": "writing-practice",
+   "title": "Writing practice"
+  },
+  "40": {
+   "topic": "final-review",
+   "title": "Final review"
+  }
+ },
+ "ingles_9": {
+  "1": {
+   "topic": "describing-people",
+   "title": "Describing people"
+  },
+  "2": {
+   "topic": "daily-routines",
+   "title": "Daily routines"
+  },
+  "3": {
+   "topic": "hobbies-interests",
+   "title": "Hobbies interests"
+  },
+  "4": {
+   "topic": "future-plans",
+   "title": "Future plans"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "personality-traits",
+   "title": "Personality traits"
+  },
+  "7": {
+   "topic": "likes-dislikes",
+   "title": "Likes dislikes"
+  },
+  "8": {
+   "topic": "describing-places",
+   "title": "Describing places"
+  },
+  "9": {
+   "topic": "comparatives",
+   "title": "Comparatives"
+  },
+  "10": {
+   "topic": "superlatives",
+   "title": "Superlatives"
+  },
+  "11": {
+   "topic": "going-to-vs-will",
+   "title": "Going to vs will"
+  },
+  "12": {
+   "topic": "present-continuous-future",
+   "title": "Present continuous future"
+  },
+  "13": {
+   "topic": "future-perfect",
+   "title": "Future perfect"
+  },
+  "14": {
+   "topic": "future-conditional",
+   "title": "Future conditional"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "16": {
+   "topic": "predictions",
+   "title": "Predictions"
+  },
+  "17": {
+   "topic": "plans-intentions",
+   "title": "Plans intentions"
+  },
+  "18": {
+   "topic": "arrangements",
+   "title": "Arrangements"
+  },
+  "19": {
+   "topic": "future-time-clauses",
+   "title": "Future time clauses"
+  },
+  "20": {
+   "topic": "future-practice",
+   "title": "Future practice"
+  },
+  "21": {
+   "topic": "modal-verbs",
+   "title": "Modal verbs"
+  },
+  "22": {
+   "topic": "relative-clauses",
+   "title": "Relative clauses"
+  },
+  "23": {
+   "topic": "reading-environment-p3",
+   "title": "Reading environment"
+  },
+  "24": {
+   "topic": "discussion-opinions",
+   "title": "Discussion opinions"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "26": {
+   "topic": "obligation-prohibition",
+   "title": "Obligation prohibition"
+  },
+  "27": {
+   "topic": "ability-possibility",
+   "title": "Ability possibility"
+  },
+  "28": {
+   "topic": "advice-suggestions",
+   "title": "Advice suggestions"
+  },
+  "29": {
+   "topic": "debate-environment",
+   "title": "Debate environment"
+  },
+  "30": {
+   "topic": "modal-practice",
+   "title": "Modal practice"
+  },
+  "31": {
+   "topic": "grammar-practice",
+   "title": "Grammar practice"
+  },
+  "32": {
+   "topic": "vocabulary-practice",
+   "title": "Vocabulary practice"
+  },
+  "33": {
+   "topic": "reading-practice",
+   "title": "Reading practice"
+  },
+  "34": {
+   "topic": "writing-practice",
+   "title": "Writing practice"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "36": {
+   "topic": "mock-exam-1",
+   "title": "Mock exam 1"
+  },
+  "37": {
+   "topic": "mock-exam-2",
+   "title": "Mock exam 2"
+  },
+  "38": {
+   "topic": "error-correction",
+   "title": "Error correction"
+  },
+  "39": {
+   "topic": "final-project",
+   "title": "Final project"
+  },
+  "40": {
+   "topic": "final-review",
+   "title": "Final review"
+  }
+ },
+ "ingles_10": {
+  "1": {
+   "topic": "present-perfect",
+   "title": "Present perfect"
+  },
+  "2": {
+   "topic": "life-experiences",
+   "title": "Life experiences"
+  },
+  "3": {
+   "topic": "travel-stories",
+   "title": "Travel stories"
+  },
+  "4": {
+   "topic": "achievements",
+   "title": "Achievements"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "present-perfect-continuous",
+   "title": "Present perfect continuous"
+  },
+  "7": {
+   "topic": "since-for",
+   "title": "Since for"
+  },
+  "8": {
+   "topic": "ever-never",
+   "title": "Ever never"
+  },
+  "9": {
+   "topic": "experiences-interview",
+   "title": "Experiences interview"
+  },
+  "10": {
+   "topic": "writing-experiences",
+   "title": "Writing experiences"
+  },
+  "11": {
+   "topic": "second-conditional",
+   "title": "Second conditional"
+  },
+  "12": {
+   "topic": "third-conditional",
+   "title": "Third conditional"
+  },
+  "13": {
+   "topic": "wish-sentences",
+   "title": "Wish sentences"
+  },
+  "14": {
+   "topic": "i-would-rather",
+   "title": "I would rather"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "16": {
+   "topic": "unreal-past",
+   "title": "Unreal past"
+  },
+  "17": {
+   "topic": "hypothetical-situations",
+   "title": "Hypothetical situations"
+  },
+  "18": {
+   "topic": "expressing-regrets",
+   "title": "Expressing regrets"
+  },
+  "19": {
+   "topic": "conditional-writing",
+   "title": "Conditional writing"
+  },
+  "20": {
+   "topic": "hypothetical-speaking",
+   "title": "Hypothetical speaking"
+  },
+  "21": {
+   "topic": "expressing-opinions",
+   "title": "Expressing opinions"
+  },
+  "22": {
+   "topic": "agree-disagree",
+   "title": "Agree disagree"
+  },
+  "23": {
+   "topic": "debate-language",
+   "title": "Debate language"
+  },
+  "24": {
+   "topic": "persuasive-speaking",
+   "title": "Persuasive speaking"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "26": {
+   "topic": "argument-essay",
+   "title": "Argument essay"
+  },
+  "27": {
+   "topic": "discussion-forum",
+   "title": "Discussion forum"
+  },
+  "28": {
+   "topic": "formal-debate",
+   "title": "Formal debate"
+  },
+  "29": {
+   "topic": "opinion-article",
+   "title": "Opinion article"
+  },
+  "30": {
+   "topic": "critical-thinking",
+   "title": "Critical thinking"
+  },
+  "31": {
+   "topic": "social-media",
+   "title": "Social media"
+  },
+  "32": {
+   "topic": "technology-vocabulary",
+   "title": "Technology vocabulary"
+  },
+  "33": {
+   "topic": "digital-citizenship",
+   "title": "Digital citizenship"
+  },
+  "34": {
+   "topic": "future-technology",
+   "title": "Future technology"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "36": {
+   "topic": "media-literacy",
+   "title": "Media literacy"
+  },
+  "37": {
+   "topic": "tech-debate",
+   "title": "Tech debate"
+  },
+  "38": {
+   "topic": "project-presentation",
+   "title": "Project presentation"
+  },
+  "39": {
+   "topic": "final-essay",
+   "title": "Final essay"
+  },
+  "40": {
+   "topic": "final-review",
+   "title": "Final review"
+  }
+ },
+ "ingles_11": {
+  "1": {
+   "topic": "advanced-vocabulary",
+   "title": "Advanced vocabulary"
+  },
+  "2": {
+   "topic": "phrasal-verbs",
+   "title": "Phrasal verbs"
+  },
+  "3": {
+   "topic": "collocations",
+   "title": "Collocations"
+  },
+  "4": {
+   "topic": "academic-word-list",
+   "title": "Academic word list"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "idioms",
+   "title": "Idioms"
+  },
+  "7": {
+   "topic": "word-formation",
+   "title": "Word formation"
+  },
+  "8": {
+   "topic": "register-formality",
+   "title": "Register formality"
+  },
+  "9": {
+   "topic": "academic-collocations",
+   "title": "Academic collocations"
+  },
+  "10": {
+   "topic": "vocabulary-building",
+   "title": "Vocabulary building"
+  },
+  "11": {
+   "topic": "inversion-subject",
+   "title": "Inversion subject"
+  },
+  "12": {
+   "topic": "causative-verbs",
+   "title": "Causative verbs"
+  },
+  "13": {
+   "topic": "conditional-advanced",
+   "title": "Conditional advanced"
+  },
+  "14": {
+   "topic": "reported-speech",
+   "title": "Reported speech"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "16": {
+   "topic": "emphasis-cleft",
+   "title": "Emphasis cleft"
+  },
+  "17": {
+   "topic": "participle-clauses",
+   "title": "Participle clauses"
+  },
+  "18": {
+   "topic": "relative-advanced",
+   "title": "Relative advanced"
+  },
+  "19": {
+   "topic": "subjunctive",
+   "title": "Subjunctive"
+  },
+  "20": {
+   "topic": "advanced-grammar-practice",
+   "title": "Advanced grammar practice"
+  },
+  "21": {
+   "topic": "academic-texts",
+   "title": "Academic texts"
+  },
+  "22": {
+   "topic": "critical-analysis",
+   "title": "Critical analysis"
+  },
+  "23": {
+   "topic": "argument-structure",
+   "title": "Argument structure"
+  },
+  "24": {
+   "topic": "synthesis-writing",
+   "title": "Synthesis writing"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "26": {
+   "topic": "research-articles",
+   "title": "Research articles"
+  },
+  "27": {
+   "topic": "abstract-summary",
+   "title": "Abstract summary"
+  },
+  "28": {
+   "topic": "academic-presentation",
+   "title": "Academic presentation"
+  },
+  "29": {
+   "topic": "thesis-statement",
+   "title": "Thesis statement"
+  },
+  "30": {
+   "topic": "academic-writing",
+   "title": "Academic writing"
+  },
+  "31": {
+   "topic": "reading-part1",
+   "title": "Reading part 1"
+  },
+  "32": {
+   "topic": "reading-part2",
+   "title": "Reading part 2"
+  },
+  "33": {
+   "topic": "vocabulary-grammar",
+   "title": "Vocabulary grammar"
+  },
+  "34": {
+   "topic": "full-mock",
+   "title": "Full mock"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "36": {
+   "topic": "listening-practice-p4",
+   "title": "Listening practice"
+  },
+  "37": {
+   "topic": "speaking-practice-p4",
+   "title": "Speaking practice"
+  },
+  "38": {
+   "topic": "writing-task",
+   "title": "Writing task"
+  },
+  "39": {
+   "topic": "final-preparation",
+   "title": "Final preparation"
+  },
+  "40": {
+   "topic": "final-review",
+   "title": "Final review"
+  }
+ },
+ "matematicas_4": {
+  "1": {
+   "topic": "numeros-4-cifras",
+   "title": "Numeros 4 cifras"
+  },
+  "2": {
+   "topic": "suma-resta",
+   "title": "Suma y resta"
+  },
+  "3": {
+   "topic": "multiplicacion",
+   "title": "Multiplicacion"
+  },
+  "4": {
+   "topic": "division",
+   "title": "Division"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "tablas-multiplicar",
+   "title": "Tablas multiplicar"
+  },
+  "7": {
+   "topic": "multiplicacion-2-cifras",
+   "title": "Multiplicacion 2 cifras"
+  },
+  "8": {
+   "topic": "division-1-cifra",
+   "title": "Division 1 cifra"
+  },
+  "9": {
+   "topic": "problemas-operaciones",
+   "title": "Problemas operaciones"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "11": {
+   "topic": "fracciones-intro",
+   "title": "Introduccion fracciones"
+  },
+  "12": {
+   "topic": "fracciones-equivalentes",
+   "title": "Fracciones equivalentes"
+  },
+  "13": {
+   "topic": "suma-resta-fracciones",
+   "title": "Suma resta fracciones"
+  },
+  "14": {
+   "topic": "decimales",
+   "title": "Decimales"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "16": {
+   "topic": "relacion-fracciones-decimales",
+   "title": "Fracciones decimales"
+  },
+  "17": {
+   "topic": "comparacion-decimales",
+   "title": "Comparacion decimales"
+  },
+  "18": {
+   "topic": "redondeo",
+   "title": "Redondeo"
+  },
+  "19": {
+   "topic": "problemas-fracciones",
+   "title": "Problemas fracciones"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "21": {
+   "topic": "figuras-geometricas",
+   "title": "Figuras geometricas"
+  },
+  "22": {
+   "topic": "perimetro",
+   "title": "Perimetro"
+  },
+  "23": {
+   "topic": "area",
+   "title": "Area"
+  },
+  "24": {
+   "topic": "angulos",
+   "title": "Angulos"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Repaso P5"
+  },
+  "26": {
+   "topic": "clasificacion-triangulos",
+   "title": "Clasificacion triangulos"
+  },
+  "27": {
+   "topic": "lineas-simbolos",
+   "title": "Lineas y simbolos"
+  },
+  "28": {
+   "topic": "simetria",
+   "title": "Simetria"
+  },
+  "29": {
+   "topic": "cuerpos-geometricos",
+   "title": "Cuerpos geometricos"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Repaso P6"
+  },
+  "31": {
+   "topic": "medidas-longitud",
+   "title": "Medidas longitud"
+  },
+  "32": {
+   "topic": "medidas-masa",
+   "title": "Medidas masa"
+  },
+  "33": {
+   "topic": "medidas-capacidad",
+   "title": "Medidas capacidad"
+  },
+  "34": {
+   "topic": "medidas-tiempo",
+   "title": "Medidas tiempo"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Repaso P7"
+  },
+  "36": {
+   "topic": "resolucion-problemas",
+   "title": "Resolucion problemas"
+  },
+  "37": {
+   "topic": "graficos-barras",
+   "title": "Graficos barras"
+  },
+  "38": {
+   "topic": "tablas-datos",
+   "title": "Tablas datos"
+  },
+  "39": {
+   "topic": "probabilidad-basica",
+   "title": "Probabilidad basica"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "matematicas_5": {
+  "1": {
+   "topic": "numeros-5-cifras",
+   "title": "Numeros 5 cifras"
+  },
+  "2": {
+   "topic": "millones",
+   "title": "Millones"
+  },
+  "3": {
+   "topic": "suma-resta-millones",
+   "title": "Suma resta millones"
+  },
+  "4": {
+   "topic": "multiplicacion-3-cifras",
+   "title": "Multiplicacion 3 cifras"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "division-2-cifras",
+   "title": "Division 2 cifras"
+  },
+  "7": {
+   "topic": "operaciones-combinadas",
+   "title": "Operaciones combinadas"
+  },
+  "8": {
+   "topic": "problemas-operaciones-combinadas",
+   "title": "Problemas operaciones combinadas"
+  },
+  "9": {
+   "topic": "estimacion",
+   "title": "Estimacion"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "11": {
+   "topic": "fracciones-heterogeneas",
+   "title": "Fracciones heterogeneas"
+  },
+  "12": {
+   "topic": "suma-resta-heterogeneas",
+   "title": "Suma resta heterogeneas"
+  },
+  "13": {
+   "topic": "multiplicacion-fracciones",
+   "title": "Multiplicacion fracciones"
+  },
+  "14": {
+   "topic": "division-fracciones",
+   "title": "Division fracciones"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "16": {
+   "topic": "decimales-milesimas",
+   "title": "Decimales milesimas"
+  },
+  "17": {
+   "topic": "operaciones-decimales",
+   "title": "Operaciones decimales"
+  },
+  "18": {
+   "topic": "porcentajes",
+   "title": "Porcentajes"
+  },
+  "19": {
+   "topic": "razones-proporciones",
+   "title": "Razones proporciones"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "21": {
+   "topic": "figuras-compuestas",
+   "title": "Figuras compuestas"
+  },
+  "22": {
+   "topic": "area-figuras",
+   "title": "Area figuras"
+  },
+  "23": {
+   "topic": "circunferencia",
+   "title": "Circunferencia"
+  },
+  "24": {
+   "topic": "volumen-cubos",
+   "title": "Volumen cubos"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Repaso P5"
+  },
+  "26": {
+   "topic": "coordenadas-cartesianas",
+   "title": "Coordenadas cartesianas"
+  },
+  "27": {
+   "topic": "transformaciones",
+   "title": "Transformaciones"
+  },
+  "28": {
+   "topic": "traslacion",
+   "title": "Traslacion"
+  },
+  "29": {
+   "topic": "reflexion",
+   "title": "Reflexion"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Repaso P6"
+  },
+  "31": {
+   "topic": "medidas-angulo",
+   "title": "Medidas angulo"
+  },
+  "32": {
+   "topic": "sistema-metrico",
+   "title": "Sistema metrico"
+  },
+  "33": {
+   "topic": "conversion-unidades",
+   "title": "Conversion unidades"
+  },
+  "34": {
+   "topic": "area-perimetro-problemas",
+   "title": "Area perimetro problemas"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Repaso P7"
+  },
+  "36": {
+   "topic": "resolucion-problemas-avanzado",
+   "title": "Resolucion problemas"
+  },
+  "37": {
+   "topic": "introduccion-estadistica",
+   "title": "Introduccion estadistica"
+  },
+  "38": {
+   "topic": "promedio",
+   "title": "Promedio"
+  },
+  "39": {
+   "topic": "moda-mediana",
+   "title": "Moda mediana"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_4": {
+  "1": {
+   "topic": "comunicacion",
+   "title": "Comunicacion"
+  },
+  "2": {
+   "topic": "lenguaje-verbal-no-verbal",
+   "title": "Lenguaje verbal no verbal"
+  },
+  "3": {
+   "topic": "oracion-sujeto-predicado",
+   "title": "Oracion sujeto predicado"
+  },
+  "4": {
+   "topic": "clases-oraciones",
+   "title": "Clases oraciones"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "sustantivos-propios",
+   "title": "Sustantivos propios"
+  },
+  "7": {
+   "topic": "sustantivos-comunes",
+   "title": "Sustantivos comunes"
+  },
+  "8": {
+   "topic": "genero-numero",
+   "title": "Genero numero"
+  },
+  "9": {
+   "topic": "articulos",
+   "title": "Articulos"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "11": {
+   "topic": "adjetivos-calificativos",
+   "title": "Adjetivos calificativos"
+  },
+  "12": {
+   "topic": "grados-adjetivo",
+   "title": "Grados adjetivo"
+  },
+  "13": {
+   "topic": "verbos-accion",
+   "title": "Verbos accion"
+  },
+  "14": {
+   "topic": "tiempos-verbales",
+   "title": "Tiempos verbales"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "16": {
+   "topic": "sujeto-tacito",
+   "title": "Sujeto tacito"
+  },
+  "17": {
+   "topic": "predicado-nominal-verbal",
+   "title": "Predicado nominal verbal"
+  },
+  "18": {
+   "topic": "concordancia",
+   "title": "Concordancia"
+  },
+  "19": {
+   "topic": "complementos",
+   "title": "Complementos"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "21": {
+   "topic": "cuento-narrativa",
+   "title": "Cuento narrativa"
+  },
+  "22": {
+   "topic": "elementos-cuento",
+   "title": "Elementos cuento"
+  },
+  "23": {
+   "topic": "fabula-moraleja",
+   "title": "Fabula moraleja"
+  },
+  "24": {
+   "topic": "poema-rima",
+   "title": "Poema rima"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Repaso P5"
+  },
+  "26": {
+   "topic": "carta-personal",
+   "title": "Carta personal"
+  },
+  "27": {
+   "topic": "texto-instructivo",
+   "title": "Texto instructivo"
+  },
+  "28": {
+   "topic": "texto-informativo",
+   "title": "Texto informativo"
+  },
+  "29": {
+   "topic": "noticia",
+   "title": "Noticia"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Repaso P6"
+  },
+  "31": {
+   "topic": "prefijos-sufijos",
+   "title": "Prefijos sufijos"
+  },
+  "32": {
+   "topic": "familia-palabras",
+   "title": "Familia palabras"
+  },
+  "33": {
+   "topic": "sinonimos-antonimos",
+   "title": "Sinonimos antonimos"
+  },
+  "34": {
+   "topic": "aumentativos-diminutivos",
+   "title": "Aumentativos diminutivos"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Repaso P7"
+  },
+  "36": {
+   "topic": "reglas-ortograficas",
+   "title": "Reglas ortograficas"
+  },
+  "37": {
+   "topic": "uso-mayusculas",
+   "title": "Uso mayusculas"
+  },
+  "38": {
+   "topic": "signos-puntuacion",
+   "title": "Signos puntuacion"
+  },
+  "39": {
+   "topic": "comprension-lectora",
+   "title": "Comprension lectora"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "lengua_5": {
+  "1": {
+   "topic": "comunicacion-oral",
+   "title": "Comunicacion oral"
+  },
+  "2": {
+   "topic": "dialogo-conversacion",
+   "title": "Dialogo conversacion"
+  },
+  "3": {
+   "topic": "exposicion-oral",
+   "title": "Exposicion oral"
+  },
+  "4": {
+   "topic": "debate",
+   "title": "Debate"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "sujeto-expreso",
+   "title": "Sujeto expreso"
+  },
+  "7": {
+   "topic": "predicado-verbal",
+   "title": "Predicado verbal"
+  },
+  "8": {
+   "topic": "complemento-directo",
+   "title": "Complemento directo"
+  },
+  "9": {
+   "topic": "complemento-indirecto",
+   "title": "Complemento indirecto"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "11": {
+   "topic": "adverbios",
+   "title": "Adverbios"
+  },
+  "12": {
+   "topic": "preposiciones",
+   "title": "Preposiciones"
+  },
+  "13": {
+   "topic": "conjunciones",
+   "title": "Conjunciones"
+  },
+  "14": {
+   "topic": "interjecciones",
+   "title": "Interjecciones"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "16": {
+   "topic": "oracion-compuesta",
+   "title": "Oracion compuesta"
+  },
+  "17": {
+   "topic": "yuxtaposicion",
+   "title": "Yuxtaposicion"
+  },
+  "18": {
+   "topic": "coordinacion",
+   "title": "Coordinacion"
+  },
+  "19": {
+   "topic": "subordinacion",
+   "title": "Subordinacion"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "21": {
+   "topic": "mitos",
+   "title": "Mitos"
+  },
+  "22": {
+   "topic": "leyendas",
+   "title": "Leyendas"
+  },
+  "23": {
+   "topic": "cuento-latinoamericano",
+   "title": "Cuento latinoamericano"
+  },
+  "24": {
+   "topic": "novela-infantil",
+   "title": "Novela infantil"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Repaso P5"
+  },
+  "26": {
+   "topic": "texto-expositivo",
+   "title": "Texto expositivo"
+  },
+  "27": {
+   "topic": "texto-argumentativo",
+   "title": "Texto argumentativo"
+  },
+  "28": {
+   "topic": "reseña",
+   "title": "Resena"
+  },
+  "29": {
+   "topic": "biografia-autobiografia",
+   "title": "Biografia autobiografia"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Repaso P6"
+  },
+  "31": {
+   "topic": "hiato-diptongo",
+   "title": "Hiato diptongo"
+  },
+  "32": {
+   "topic": "acentuacion",
+   "title": "Acentuacion"
+  },
+  "33": {
+   "topic": "palabras-llaves",
+   "title": "Palabras llaves"
+  },
+  "34": {
+   "topic": "siglas-abreviaturas",
+   "title": "Siglas abreviaturas"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Repaso P7"
+  },
+  "36": {
+   "topic": "produccion-textual",
+   "title": "Produccion textual"
+  },
+  "37": {
+   "topic": "comprension-lectora-p8",
+   "title": "Comprension lectora"
+  },
+  "38": {
+   "topic": "analisis-lector",
+   "title": "Analisis lector"
+  },
+  "39": {
+   "topic": "vocabulario-contextual",
+   "title": "Vocabulario contextual"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "ingles_4": {
+  "1": {
+   "topic": "greetings",
+   "title": "Greetings"
+  },
+  "2": {
+   "topic": "alphabet",
+   "title": "Alphabet"
+  },
+  "3": {
+   "topic": "numbers-1-50",
+   "title": "Numbers 1-50"
+  },
+  "4": {
+   "topic": "colors",
+   "title": "Colors"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "classroom-objects",
+   "title": "Classroom objects"
+  },
+  "7": {
+   "topic": "family-members",
+   "title": "Family members"
+  },
+  "8": {
+   "topic": "animals",
+   "title": "Animals"
+  },
+  "9": {
+   "topic": "parts-body",
+   "title": "Parts body"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "11": {
+   "topic": "days-months",
+   "title": "Days months"
+  },
+  "12": {
+   "topic": "weather",
+   "title": "Weather"
+  },
+  "13": {
+   "topic": "seasons",
+   "title": "Seasons"
+  },
+  "14": {
+   "topic": "clothes",
+   "title": "Clothes"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "16": {
+   "topic": "food-drinks",
+   "title": "Food drinks"
+  },
+  "17": {
+   "topic": "like-dont-like",
+   "title": "Like dont like"
+  },
+  "18": {
+   "topic": "simple-present",
+   "title": "Simple present"
+  },
+  "19": {
+   "topic": "adjectives",
+   "title": "Adjectives"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "21": {
+   "topic": "to-be",
+   "title": "Verb to be"
+  },
+  "22": {
+   "topic": "have-has",
+   "title": "Have has"
+  },
+  "23": {
+   "topic": "can-cannot",
+   "title": "Can cannot"
+  },
+  "24": {
+   "topic": "present-continuous",
+   "title": "Present continuous"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Review P5"
+  },
+  "26": {
+   "topic": "prepositions-place",
+   "title": "Prepositions place"
+  },
+  "27": {
+   "topic": "there-is-are",
+   "title": "There is are"
+  },
+  "28": {
+   "topic": "house-vocabulary",
+   "title": "House vocabulary"
+  },
+  "29": {
+   "topic": "describe-house",
+   "title": "Describe house"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Review P6"
+  },
+  "31": {
+   "topic": "school-subjects",
+   "title": "School subjects"
+  },
+  "32": {
+   "topic": "daily-routines-g4",
+   "title": "Daily routines"
+  },
+  "33": {
+   "topic": "time",
+   "title": "Time"
+  },
+  "34": {
+   "topic": "hobbies",
+   "title": "Hobbies"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Review P7"
+  },
+  "36": {
+   "topic": "sports",
+   "title": "Sports"
+  },
+  "37": {
+   "topic": "abilities",
+   "title": "Abilities"
+  },
+  "38": {
+   "topic": "reading-comprehension-g4",
+   "title": "Reading comprehension"
+  },
+  "39": {
+   "topic": "vocabulary-review-g4",
+   "title": "Vocabulary review"
+  },
+  "40": {
+   "topic": "final-review",
+   "title": "Final review"
+  }
+ },
+ "ingles_5": {
+  "1": {
+   "topic": "personal-introduction",
+   "title": "Personal introduction"
+  },
+  "2": {
+   "topic": "verb-to-be-g5",
+   "title": "Verb to be"
+  },
+  "3": {
+   "topic": "have-has-g5",
+   "title": "Have has"
+  },
+  "4": {
+   "topic": "possessive-adjectives",
+   "title": "Possessive adjectives"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Review P1"
+  },
+  "6": {
+   "topic": "simple-present-g5",
+   "title": "Simple present"
+  },
+  "7": {
+   "topic": "daily-routines-g5",
+   "title": "Daily routines"
+  },
+  "8": {
+   "topic": "adverbs-frequency",
+   "title": "Adverbs frequency"
+  },
+  "9": {
+   "topic": "likes-dislikes-g5",
+   "title": "Likes dislikes"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Review P2"
+  },
+  "11": {
+   "topic": "present-continuous-g5",
+   "title": "Present continuous"
+  },
+  "12": {
+   "topic": "actions-now",
+   "title": "Actions now"
+  },
+  "13": {
+   "topic": "can-ability",
+   "title": "Can ability"
+  },
+  "14": {
+   "topic": "must-obligation",
+   "title": "Must obligation"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Review P3"
+  },
+  "16": {
+   "topic": "countable-uncountable",
+   "title": "Countable uncountable"
+  },
+  "17": {
+   "topic": "some-any",
+   "title": "Some any"
+  },
+  "18": {
+   "topic": "there-is-are-g5",
+   "title": "There is are"
+  },
+  "19": {
+   "topic": "quantifiers",
+   "title": "Quantifiers"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Review P4"
+  },
+  "21": {
+   "topic": "comparatives-g5",
+   "title": "Comparatives"
+  },
+  "22": {
+   "topic": "superlatives-g5",
+   "title": "Superlatives"
+  },
+  "23": {
+   "topic": "personality-g5",
+   "title": "Personality"
+  },
+  "24": {
+   "topic": "describing-people-g5",
+   "title": "Describing people"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Review P5"
+  },
+  "26": {
+   "topic": "past-simple-be",
+   "title": "Past simple be"
+  },
+  "27": {
+   "topic": "past-simple-regular",
+   "title": "Past simple regular"
+  },
+  "28": {
+   "topic": "past-simple-irregular",
+   "title": "Past simple irregular"
+  },
+  "29": {
+   "topic": "past-time-expressions",
+   "title": "Past time expressions"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Review P6"
+  },
+  "31": {
+   "topic": "future-going-to",
+   "title": "Future going to"
+  },
+  "32": {
+   "topic": "future-will",
+   "title": "Future will"
+  },
+  "33": {
+   "topic": "plans-predictions",
+   "title": "Plans predictions"
+  },
+  "34": {
+   "topic": "prepositions-time",
+   "title": "Prepositions time"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Review P7"
+  },
+  "36": {
+   "topic": "reading-comprehension-g5",
+   "title": "Reading comprehension"
+  },
+  "37": {
+   "topic": "writing-description",
+   "title": "Writing description"
+  },
+  "38": {
+   "topic": "vocabulary-building-g5",
+   "title": "Vocabulary building"
+  },
+  "39": {
+   "topic": "grammar-review-g5",
+   "title": "Grammar review"
+  },
+  "40": {
+   "topic": "final-review-g5",
+   "title": "Final review"
+  }
+ },
+ "lectura-critica_5": {
+  "1": {
+   "topic": "comprension-literaria",
+   "title": "Comprension literaria"
+  },
+  "2": {
+   "topic": "idea-principal-g5",
+   "title": "Idea principal"
+  },
+  "3": {
+   "topic": "informacion-explicita",
+   "title": "Informacion explicita"
+  },
+  "4": {
+   "topic": "personajes-trama",
+   "title": "Personajes trama"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "secuencia-eventos",
+   "title": "Secuencia eventos"
+  },
+  "7": {
+   "topic": "causa-efecto",
+   "title": "Causa efecto"
+  },
+  "8": {
+   "topic": "comparacion-textos",
+   "title": "Comparacion textos"
+  },
+  "9": {
+   "topic": "vocabulario-contexto-g5",
+   "title": "Vocabulario contexto"
+  },
+  "10": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "11": {
+   "topic": "textos-narrativos-g5",
+   "title": "Textos narrativos"
+  },
+  "12": {
+   "topic": "cuentos-fantasticos-g5",
+   "title": "Cuentos fantasticos"
+  },
+  "13": {
+   "topic": "fabula-moraleja-g5",
+   "title": "Fabula moraleja"
+  },
+  "14": {
+   "topic": "poesia-infantil",
+   "title": "Poesia infantil"
+  },
+  "15": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "16": {
+   "topic": "textos-informativos",
+   "title": "Textos informativos"
+  },
+  "17": {
+   "topic": "noticia-g5",
+   "title": "Noticia"
+  },
+  "18": {
+   "topic": "texto-expositivo-g5",
+   "title": "Texto expositivo"
+  },
+  "19": {
+   "topic": "texto-instructivo-g5",
+   "title": "Texto instructivo"
+  },
+  "20": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "21": {
+   "topic": "inferencia-basica",
+   "title": "Inferencia basica"
+  },
+  "22": {
+   "topic": "prediccion",
+   "title": "Prediccion"
+  },
+  "23": {
+   "topic": "conclusion",
+   "title": "Conclusion"
+  },
+  "24": {
+   "topic": "preguntas-inferenciales",
+   "title": "Preguntas inferenciales"
+  },
+  "25": {
+   "topic": "repaso-p5",
+   "title": "Repaso P5"
+  },
+  "26": {
+   "topic": "textos-argumentativos-g5",
+   "title": "Textos argumentativos"
+  },
+  "27": {
+   "topic": "opinion-hecho",
+   "title": "Opinion hecho"
+  },
+  "28": {
+   "topic": "persuasion-basica",
+   "title": "Persuasion basica"
+  },
+  "29": {
+   "topic": "punto-vista",
+   "title": "Punto vista"
+  },
+  "30": {
+   "topic": "repaso-p6",
+   "title": "Repaso P6"
+  },
+  "31": {
+   "topic": "textos-discontinuos-g5",
+   "title": "Textos discontinuos"
+  },
+  "32": {
+   "topic": "graficas-tablas-g5",
+   "title": "Graficas tablas"
+  },
+  "33": {
+   "topic": "mapas-planos-g5",
+   "title": "Mapas planos"
+  },
+  "34": {
+   "topic": "infografias-g5",
+   "title": "Infografias"
+  },
+  "35": {
+   "topic": "repaso-p7",
+   "title": "Repaso P7"
+  },
+  "36": {
+   "topic": "resumen-textos",
+   "title": "Resumen textos"
+  },
+  "37": {
+   "topic": "preguntas-explicitas",
+   "title": "Preguntas explicitas"
+  },
+  "38": {
+   "topic": "preguntas-implicitas",
+   "title": "Preguntas implicitas"
+  },
+  "39": {
+   "topic": "comprension-global",
+   "title": "Comprension global"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "matematicas_8": {
+  "1": {
+   "topic": "lenguaje-algebraico",
+   "title": "Lenguaje algebraico"
+  },
+  "2": {
+   "topic": "terminos-semejantes",
+   "title": "Terminos semejantes"
+  },
+  "3": {
+   "topic": "valor-numerico",
+   "title": "Valor numerico"
+  },
+  "4": {
+   "topic": "reduccion-expresiones",
+   "title": "Reduccion expresiones"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "productos-notables-intro",
+   "title": "Introduccion prod. notables"
+  },
+  "7": {
+   "topic": "binomio-suma-cuadrado",
+   "title": "Binomio suma cuadrado"
+  },
+  "8": {
+   "topic": "binomio-diferencia-cuadrado",
+   "title": "Binomio diferencia cuadrado"
+  },
+  "9": {
+   "topic": "binomio-conjugado",
+   "title": "Binomio conjugado"
+  },
+  "10": {
+   "topic": "ejercicios-productos",
+   "title": "Ejercicios productos notables"
+  },
+  "11": {
+   "topic": "binomio-cuadrado",
+   "title": "Binomio cuadrado"
+  },
+  "12": {
+   "topic": "binomio-conjugado-avanzado",
+   "title": "Binomio conjugado avanzado"
+  },
+  "13": {
+   "topic": "binomio-al-cubo",
+   "title": "Binomio al cubo"
+  },
+  "14": {
+   "topic": "productos-mixtos",
+   "title": "Productos notables mixtos"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "factorizacion-intro",
+   "title": "Introduccion factorizacion"
+  },
+  "17": {
+   "topic": "factor-comun",
+   "title": "Factor comun"
+  },
+  "18": {
+   "topic": "agrupacion-terminos",
+   "title": "Agrupacion terminos"
+  },
+  "19": {
+   "topic": "ejercicios-factorizacion",
+   "title": "Ejercicios factorizacion"
+  },
+  "20": {
+   "topic": "diferencia-cuadrados",
+   "title": "Diferencia cuadrados"
+  },
+  "21": {
+   "topic": "factor-comun-avanzado",
+   "title": "Factor comun avanzado"
+  },
+  "22": {
+   "topic": "diferencia-cuadrados-avanzada",
+   "title": "Diferencia cuadrados avanzada"
+  },
+  "23": {
+   "topic": "trinomio-cuadrado-perfecto",
+   "title": "Trinomio cuadrado perfecto"
+  },
+  "24": {
+   "topic": "teorema-pitagoras",
+   "title": "Teorema Pitagoras"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "aplicaciones-pitagoras",
+   "title": "Aplicaciones Pitagoras"
+  },
+  "27": {
+   "topic": "estadistica-descriptiva",
+   "title": "Estadistica descriptiva"
+  },
+  "28": {
+   "topic": "tablas-frecuencia",
+   "title": "Tablas frecuencia"
+  },
+  "29": {
+   "topic": "graficos-estadisticos",
+   "title": "Graficos estadisticos"
+  },
+  "30": {
+   "topic": "medidas-tendencia-central",
+   "title": "Medidas tendencia central"
+  },
+  "31": {
+   "topic": "media-mediana-moda",
+   "title": "Media mediana moda"
+  },
+  "32": {
+   "topic": "graficos-barras-circular",
+   "title": "Graficos barras circular"
+  },
+  "33": {
+   "topic": "probabilidad-basica",
+   "title": "Probabilidad basica"
+  },
+  "34": {
+   "topic": "eventos-excluyentes",
+   "title": "Eventos excluyentes"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "probabilidad-experimental",
+   "title": "Probabilidad experimental"
+  },
+  "37": {
+   "topic": "diagrama-arbol",
+   "title": "Diagrama arbol"
+  },
+  "38": {
+   "topic": "combinatoria-basica",
+   "title": "Combinatoria basica"
+  },
+  "39": {
+   "topic": "permutaciones",
+   "title": "Permutaciones"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ },
+ "matematicas_9": {
+  "1": {
+   "topic": "ecuaciones-lineales",
+   "title": "Ecuaciones lineales"
+  },
+  "2": {
+   "topic": "metodo-sustitucion",
+   "title": "Metodo sustitucion"
+  },
+  "3": {
+   "topic": "metodo-igualacion",
+   "title": "Metodo igualacion"
+  },
+  "4": {
+   "topic": "metodo-reduccion",
+   "title": "Metodo reduccion"
+  },
+  "5": {
+   "topic": "repaso-p1",
+   "title": "Repaso P1"
+  },
+  "6": {
+   "topic": "sistemas-ecuaciones-2x2",
+   "title": "Sistemas ecuaciones 2x2"
+  },
+  "7": {
+   "topic": "problemas-sistemas",
+   "title": "Problemas sistemas"
+  },
+  "8": {
+   "topic": "inecuaciones-lineales",
+   "title": "Inecuaciones lineales"
+  },
+  "9": {
+   "topic": "sistemas-inecuaciones",
+   "title": "Sistemas inecuaciones"
+  },
+  "10": {
+   "topic": "ejercicios-sistemas",
+   "title": "Ejercicios sistemas"
+  },
+  "11": {
+   "topic": "definicion-funcion",
+   "title": "Definicion funcion"
+  },
+  "12": {
+   "topic": "pendiente-intercepto",
+   "title": "Pendiente intercepto"
+  },
+  "13": {
+   "topic": "grafica-funcion-lineal",
+   "title": "Grafica funcion lineal"
+  },
+  "14": {
+   "topic": "aplicaciones-lineales",
+   "title": "Aplicaciones lineales"
+  },
+  "15": {
+   "topic": "repaso-p2",
+   "title": "Repaso P2"
+  },
+  "16": {
+   "topic": "funcion-constante-identidad",
+   "title": "Funcion constante identidad"
+  },
+  "17": {
+   "topic": "funcion-afin",
+   "title": "Funcion afin"
+  },
+  "18": {
+   "topic": "dominio-rango",
+   "title": "Dominio rango"
+  },
+  "19": {
+   "topic": "funcion-creciente-decreciente",
+   "title": "Funcion creciente decreciente"
+  },
+  "20": {
+   "topic": "funcion-lineal-ejercicios",
+   "title": "Ejercicios funcion lineal"
+  },
+  "21": {
+   "topic": "funcion-cuadratica",
+   "title": "Funcion cuadratica"
+  },
+  "22": {
+   "topic": "vertice-ejes",
+   "title": "Vertice ejes"
+  },
+  "23": {
+   "topic": "solucion-ecuaciones-cuadraticas",
+   "title": "Ecuaciones cuadraticas"
+  },
+  "24": {
+   "topic": "aplicaciones-cuadraticas",
+   "title": "Aplicaciones cuadraticas"
+  },
+  "25": {
+   "topic": "repaso-p3",
+   "title": "Repaso P3"
+  },
+  "26": {
+   "topic": "discriminante",
+   "title": "Discriminante"
+  },
+  "27": {
+   "topic": "analisis-grafico-cuadraticas",
+   "title": "Analisis grafico cuadraticas"
+  },
+  "28": {
+   "topic": "funciones-segmentadas",
+   "title": "Funciones segmentadas"
+  },
+  "29": {
+   "topic": "traslacion-funciones",
+   "title": "Traslacion funciones"
+  },
+  "30": {
+   "topic": "modelacion-matematica",
+   "title": "Modelacion matematica"
+  },
+  "31": {
+   "topic": "radicales-basicos",
+   "title": "Radicales basicos"
+  },
+  "32": {
+   "topic": "operaciones-radicales",
+   "title": "Operaciones radicales"
+  },
+  "33": {
+   "topic": "razones-trigonometricas",
+   "title": "Razones trigonometricas"
+  },
+  "34": {
+   "topic": "triangulos-rectangulos",
+   "title": "Triangulos rectangulos"
+  },
+  "35": {
+   "topic": "repaso-p4",
+   "title": "Repaso P4"
+  },
+  "36": {
+   "topic": "angulos-notables",
+   "title": "Angulos notables"
+  },
+  "37": {
+   "topic": "aplicaciones-trigonometria",
+   "title": "Aplicaciones trigonometria"
+  },
+  "38": {
+   "topic": "teoremas-triangulos",
+   "title": "Teoremas triangulos"
+  },
+  "39": {
+   "topic": "funciones-trigonometricas",
+   "title": "Funciones trigonometricas"
+  },
+  "40": {
+   "topic": "repaso-anual",
+   "title": "Repaso anual"
+  }
+ }
+}
