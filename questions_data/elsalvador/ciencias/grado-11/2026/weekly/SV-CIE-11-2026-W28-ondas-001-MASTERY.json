@@ -1,0 +1,722 @@
+{
+  "id": "SV-CIE-11-2026-W28-ondas-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "ciencias",
+  "subject_code": "CIE",
+  "topic": "ondas",
+  "week": 28,
+  "week_label": "W28",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "de",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Fermentación",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Digestión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "Objeto de 7 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21 N",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "14 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "24 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "F = ma = 7×3 = 21 N.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Mejicanos estudiando ondas.",
+      "stem": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El hígado",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias en Mejicanos estudiando ondas.",
+      "stem": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición a la luz",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento de las plantas",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura ambiente",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de planta",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Mejicanos estudiando ondas.",
+      "stem": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El átomo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La molécula",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tejido",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias en Soyapango estudiando ondas.",
+      "stem": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Fermentación",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Digestión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias en Soyapango estudiando ondas.",
+      "stem": "Objeto de 8 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 N",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "24 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "36 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "8 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "F = ma = 8×4 = 32 N.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El hígado",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición a la luz",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento de las plantas",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura ambiente",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de planta",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Santa Ana estudiando ondas.",
+      "stem": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El átomo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La molécula",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tejido",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias en Mejicanos estudiando ondas.",
+      "stem": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Fermentación",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Digestión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias en Santa Ana estudiando ondas.",
+      "stem": "Objeto de 3 kg acelera a 2 m/s². ¿Fuerza aplicada? (F=ma)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 N",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "8 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "F = ma = 3×2 = 6 N.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Santa Ana estudiando ondas.",
+      "stem": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El hígado",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición a la luz",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento de las plantas",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura ambiente",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de planta",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Soyapango estudiando ondas.",
+      "stem": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El átomo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La molécula",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tejido",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fotosíntesis",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Fermentación",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Digestión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias en San Salvador estudiando ondas.",
+      "stem": "Objeto de 3 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 N",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "16 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3 N",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "F = ma = 3×4 = 12 N.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Soyapango estudiando ondas.",
+      "stem": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El hígado",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias en Mejicanos estudiando ondas.",
+      "stem": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición a la luz",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento de las plantas",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura ambiente",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de planta",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias en Santa Ana estudiando ondas.",
+      "stem": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La célula",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El átomo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La molécula",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tejido",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "id_suffix": "v020"
+    }
+  ]
+}

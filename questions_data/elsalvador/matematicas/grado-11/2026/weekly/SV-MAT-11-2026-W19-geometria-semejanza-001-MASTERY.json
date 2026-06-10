@@ -1,0 +1,722 @@
+{
+  "id": "SV-MAT-11-2026-W19-geometria-semejanza-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "matematicas",
+  "subject_code": "MAT",
+  "topic": "geometria-semejanza",
+  "week": 19,
+  "week_label": "W19",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "en",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando geometria semejanza.",
+      "stem": "Simplifica: 5(3x + 13)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15x + 65",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "15x + 13",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "8x + 65",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "15x - 65",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 5(3x + 13) = 5×3x + 5×13 = 15x + 65.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Salvador practicando geometria semejanza.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "María compra 6 libros a $12.1 c/u y 12 cuadernos a $6.1 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$144.1",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$72.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$72.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$234",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 6×12 + 12×6 = 144.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Mejicanos practicando geometria semejanza.",
+      "stem": "Resuelve: 2(x + 8) = 22",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 8) = 22 → x + 8 = 11 → x = 3.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Miguel practicando geometria semejanza.",
+      "stem": "Resuelve: 5x + 3 = 28",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 3 de ambos lados: 5x = 25. Divide por 5: x = 5.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando geometria semejanza.",
+      "stem": "Simplifica: 2(3x + 29)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6x + 58",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "6x + 29",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5x + 58",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6x - 58",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 2(3x + 29) = 2×3x + 2×29 = 6x + 58.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando geometria semejanza.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando geometria semejanza.",
+      "stem": "María compra 4 libros a $11.4 c/u y 11 cuadernos a $4.4 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$88.4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$44.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$44.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$225",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 4×11 + 11×4 = 88.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando geometria semejanza.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Mejicanos practicando geometria semejanza.",
+      "stem": "Resuelve: 8x + 12 = 52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 12 de ambos lados: 8x = 40. Divide por 8: x = 5.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "Simplifica: 8(8x + 19)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "64x + 152",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "64x + 19",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "16x + 152",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "64x - 152",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 8(8x + 19) = 8×8x + 8×19 = 64x + 152.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando geometria semejanza.",
+      "stem": "Encuentra la pendiente de f(x) = 3x + 6",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 3.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando geometria semejanza.",
+      "stem": "María compra 6 libros a $6.2 c/u y 6 cuadernos a $6.2 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72.2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$36.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$36.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$96",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 6×6 + 6×6 = 72.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando geometria semejanza.",
+      "stem": "Resuelve: 2(x + 7) = 20",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 7) = 20 → x + 7 = 10 → x = 3.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando geometria semejanza.",
+      "stem": "Resuelve: 4x + 10 = 30",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 10 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "Simplifica: 7(1x + 37)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7x + 259",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "7x + 37",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "8x + 259",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7x - 259",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 7(1x + 37) = 7×1x + 7×37 = 7x + 259.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Soyapango practicando geometria semejanza.",
+      "stem": "Encuentra la pendiente de f(x) = 8x + 9",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 8.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "María compra 8 libros a $5.3 c/u y 5 cuadernos a $8.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$40.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$40.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$104",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 8×5 + 5×8 = 80.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Santa Ana practicando geometria semejanza.",
+      "stem": "Resuelve: 4x + 4 = 24",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 4 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v020"
+    }
+  ]
+}

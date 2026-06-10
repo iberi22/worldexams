@@ -1,0 +1,722 @@
+{
+  "id": "SV-MAT-11-2026-W24-razones-trigonometricas-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "matematicas",
+  "subject_code": "MAT",
+  "topic": "razones-trigonometricas",
+  "week": 24,
+  "week_label": "W24",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "en",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones trigonometricas.",
+      "stem": "Simplifica: 7(1x + 46)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7x + 322",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "7x + 46",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "8x + 322",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7x - 322",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 7(1x + 46) = 7×1x + 7×46 = 7x + 322.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Salvador practicando razones trigonometricas.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando razones trigonometricas.",
+      "stem": "María compra 5 libros a $12.5 c/u y 12 cuadernos a $5.5 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120.5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$60.5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$60.5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$289",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 5×12 + 12×5 = 120.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Santa Ana practicando razones trigonometricas.",
+      "stem": "Resuelve: 2(x + 4) = 14",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 4) = 14 → x + 4 = 7 → x = 3.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando razones trigonometricas.",
+      "stem": "Resuelve: 7x + 12 = 47",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 12 de ambos lados: 7x = 35. Divide por 7: x = 5.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "Simplifica: 8(8x + 13)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "64x + 104",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "64x + 13",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "16x + 104",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "64x - 104",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 8(8x + 13) = 8×8x + 8×13 = 64x + 104.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando razones trigonometricas.",
+      "stem": "Encuentra la pendiente de f(x) = 6x + 9",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 6.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "María compra 5 libros a $8.3 c/u y 8 cuadernos a $5.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$40.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$40.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$143",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 5×8 + 8×5 = 80.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "Resuelve: 2(x + 5) = 16",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 5) = 16 → x + 5 = 8 → x = 3.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Salvador practicando razones trigonometricas.",
+      "stem": "Resuelve: 2x + 12 = 22",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 12 de ambos lados: 2x = 10. Divide por 2: x = 5.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones trigonometricas.",
+      "stem": "Simplifica: 2(3x + 10)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6x + 20",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "6x + 10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5x + 20",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6x - 20",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 2(3x + 10) = 2×3x + 2×10 = 6x + 20.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Santa Ana practicando razones trigonometricas.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando razones trigonometricas.",
+      "stem": "María compra 6 libros a $2.4 c/u y 2 cuadernos a $6.4 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24.4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$12.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$12.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$48",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 6×2 + 2×6 = 24.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "Resuelve: 7x + 6 = 41",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 6 de ambos lados: 7x = 35. Divide por 7: x = 5.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones trigonometricas.",
+      "stem": "Simplifica: 7(6x + 24)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42x + 168",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "42x + 24",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "13x + 168",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "42x - 168",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 7(6x + 24) = 7×6x + 7×24 = 42x + 168.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "Encuentra la pendiente de f(x) = 3x + 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 3.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Miguel practicando razones trigonometricas.",
+      "stem": "María compra 2 libros a $6.2 c/u y 6 cuadernos a $2.2 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24.2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$12.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$12.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$64",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 2×6 + 6×2 = 24.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Santa Ana practicando razones trigonometricas.",
+      "stem": "Resuelve: 2(x + 8) = 22",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 8) = 22 → x + 8 = 11 → x = 3.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando razones trigonometricas.",
+      "stem": "Resuelve: 4x + 4 = 24",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 4 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v020"
+    }
+  ]
+}

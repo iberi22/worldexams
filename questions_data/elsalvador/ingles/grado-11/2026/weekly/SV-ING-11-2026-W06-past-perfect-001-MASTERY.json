@@ -1,0 +1,722 @@
+{
+  "id": "SV-ING-11-2026-W06-past-perfect-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "ingles",
+  "subject_code": "ING",
+  "topic": "past-perfect",
+  "week": 6,
+  "week_label": "W06",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "class",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Choose the correct option: 'I ___ reading a book right now.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present continuous: I am + verb-ing.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "English class in Mejicanos, SV.",
+      "stem": "What does 'benevolent' mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kind and generous",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Mean and cruel",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Quick and fast",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Slow and lazy",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bees are important for pollination and honey",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Bees are dangerous insects",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Honey is the only product bees make",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Flowers don't need bees",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in San Miguel, SV.",
+      "stem": "Which is the correct past form of 'go'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "goed",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in Santa Ana, SV.",
+      "stem": "Which sentence uses the present simple correctly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She goes to school every day.",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "She go to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "She going to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "She gone to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "English class in San Miguel, SV.",
+      "stem": "Choose the correct option: 'I ___ reading a book right now.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present continuous: I am + verb-ing.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "English class in Soyapango, SV.",
+      "stem": "What does 'benevolent' mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kind and generous",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Mean and cruel",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Quick and fast",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Slow and lazy",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bees are important for pollination and honey",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Bees are dangerous insects",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Honey is the only product bees make",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Flowers don't need bees",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in Mejicanos, SV.",
+      "stem": "Which is the correct past form of 'go'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "goed",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Which sentence uses the present simple correctly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She goes to school every day.",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "She go to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "She going to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "She gone to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Choose the correct option: 'I ___ reading a book right now.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present continuous: I am + verb-ing.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "English class in Mejicanos, SV.",
+      "stem": "What does 'benevolent' mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kind and generous",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Mean and cruel",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Quick and fast",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Slow and lazy",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "English class in San Salvador, SV.",
+      "stem": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bees are important for pollination and honey",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Bees are dangerous insects",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Honey is the only product bees make",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Flowers don't need bees",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in San Miguel, SV.",
+      "stem": "Which is the correct past form of 'go'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "goed",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in San Miguel, SV.",
+      "stem": "Which sentence uses the present simple correctly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She goes to school every day.",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "She go to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "She going to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "She gone to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Choose the correct option: 'I ___ reading a book right now.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present continuous: I am + verb-ing.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "English class in San Salvador, SV.",
+      "stem": "What does 'benevolent' mean?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kind and generous",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Mean and cruel",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Quick and fast",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Slow and lazy",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "English class in Soyapango, SV.",
+      "stem": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bees are important for pollination and honey",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Bees are dangerous insects",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "Honey is the only product bees make",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "Flowers don't need bees",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in Mejicanos, SV.",
+      "stem": "Which is the correct past form of 'go'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "goed",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "English class in San Miguel, SV.",
+      "stem": "Which sentence uses the present simple correctly?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She goes to school every day.",
+          "correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "She go to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "C",
+          "text": "She going to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        },
+        {
+          "letter": "D",
+          "text": "She gone to school every day.",
+          "correct": false,
+          "feedback": "Incorrect. Review the concept."
+        }
+      ],
+      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "id_suffix": "v020"
+    }
+  ]
+}
