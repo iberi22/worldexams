@@ -1,0 +1,722 @@
+{
+  "id": "SV-MAT-11-2026-W03-razones-proporciones-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "matematicas",
+  "subject_code": "MAT",
+  "topic": "razones-proporciones",
+  "week": 3,
+  "week_label": "W03",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "en",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Simplifica: 7(10x + 38)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70x + 266",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "70x + 38",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "17x + 266",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "70x - 266",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 7(10x + 38) = 7×10x + 7×38 = 70x + 266.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Santa Ana practicando razones proporciones.",
+      "stem": "Encuentra la pendiente de f(x) = 7x + 4",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 7.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones proporciones.",
+      "stem": "María compra 7 libros a $8.4 c/u y 8 cuadernos a $7.4 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$112.4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$56.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$56.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$180",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 7×8 + 8×7 = 112.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Miguel practicando razones proporciones.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Salvador practicando razones proporciones.",
+      "stem": "Resuelve: 8x + 2 = 42",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 2 de ambos lados: 8x = 40. Divide por 8: x = 5.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Miguel practicando razones proporciones.",
+      "stem": "Simplifica: 8(1x + 46)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8x + 368",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "8x + 46",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9x + 368",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "8x - 368",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 8(1x + 46) = 8×1x + 8×46 = 8x + 368.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando razones proporciones.",
+      "stem": "Encuentra la pendiente de f(x) = 6x + 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 6.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "María compra 7 libros a $8.3 c/u y 8 cuadernos a $7.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$112.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$56.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$56.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$165",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 7×8 + 8×7 = 112.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Salvador practicando razones proporciones.",
+      "stem": "Resuelve: 2x + 6 = 16",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 6 de ambos lados: 2x = 10. Divide por 2: x = 5.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Simplifica: 6(7x + 31)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42x + 186",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "42x + 31",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "13x + 186",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "42x - 186",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 6(7x + 31) = 6×7x + 6×31 = 42x + 186.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando razones proporciones.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones proporciones.",
+      "stem": "María compra 2 libros a $1.3 c/u y 1 cuadernos a $2.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$2.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$2.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 2×1 + 1×2 = 4.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Resuelve: 2(x + 5) = 16",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 5) = 16 → x + 5 = 8 → x = 3.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Salvador practicando razones proporciones.",
+      "stem": "Resuelve: 7x + 12 = 47",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 12 de ambos lados: 7x = 35. Divide por 7: x = 5.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Simplifica: 5(2x + 24)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10x + 120",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "10x + 24",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "7x + 120",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "10x - 120",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 5(2x + 24) = 5×2x + 5×24 = 10x + 120.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando razones proporciones.",
+      "stem": "Encuentra la pendiente de f(x) = 8x + 9",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 8.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando razones proporciones.",
+      "stem": "María compra 2 libros a $8.4 c/u y 8 cuadernos a $2.4 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32.4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$16.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$16.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$120",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 2×8 + 8×2 = 32.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Resuelve: 2(x + 4) = 14",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 4) = 14 → x + 4 = 7 → x = 3.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando razones proporciones.",
+      "stem": "Resuelve: 7x + 2 = 37",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 2 de ambos lados: 7x = 35. Divide por 7: x = 5.",
+      "id_suffix": "v020"
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "id": "SV-MAT-11-2026-W10-inecuaciones-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "matematicas",
+  "subject_code": "MAT",
+  "topic": "inecuaciones",
+  "week": 10,
+  "week_label": "W10",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "en",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando inecuaciones.",
+      "stem": "Simplifica: 7(6x + 19)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42x + 133",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "42x + 19",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "13x + 133",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "42x - 133",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 7(6x + 19) = 7×6x + 7×19 = 42x + 133.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Salvador practicando inecuaciones.",
+      "stem": "Encuentra la pendiente de f(x) = 8x + 1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 8.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Miguel practicando inecuaciones.",
+      "stem": "María compra 4 libros a $11.3 c/u y 11 cuadernos a $4.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$88.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$44.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$44.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$210",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 4×11 + 11×4 = 88.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Miguel practicando inecuaciones.",
+      "stem": "Resuelve: 2(x + 2) = 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 2) = 10 → x + 2 = 5 → x = 3.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Salvador practicando inecuaciones.",
+      "stem": "Resuelve: 2x + 4 = 14",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 4 de ambos lados: 2x = 10. Divide por 2: x = 5.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando inecuaciones.",
+      "stem": "Simplifica: 5(6x + 17)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30x + 85",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "30x + 17",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "11x + 85",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "30x - 85",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 5(6x + 17) = 5×6x + 5×17 = 30x + 85.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando inecuaciones.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando inecuaciones.",
+      "stem": "María compra 6 libros a $2.2 c/u y 2 cuadernos a $6.2 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24.2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$12.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$12.2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$32",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 6×2 + 2×6 = 24.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Miguel practicando inecuaciones.",
+      "stem": "Resuelve: 2(x + 2) = 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 2) = 10 → x + 2 = 5 → x = 3.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en San Miguel practicando inecuaciones.",
+      "stem": "Resuelve: 4x + 3 = 23",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 3 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando inecuaciones.",
+      "stem": "Simplifica: 6(8x + 40)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48x + 240",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "48x + 40",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "14x + 240",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "48x - 240",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 6(8x + 40) = 6×8x + 6×40 = 48x + 240.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando inecuaciones.",
+      "stem": "Encuentra la pendiente de f(x) = 3x + 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 3.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando inecuaciones.",
+      "stem": "María compra 5 libros a $11.4 c/u y 11 cuadernos a $5.4 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$110.4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$55.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$55.4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$240",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 5×11 + 11×5 = 110.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando inecuaciones.",
+      "stem": "Resuelve: 2(x + 7) = 20",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 7) = 20 → x + 7 = 10 → x = 3.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando inecuaciones.",
+      "stem": "Resuelve: 2x + 1 = 11",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 1 de ambos lados: 2x = 10. Divide por 2: x = 5.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando inecuaciones.",
+      "stem": "Simplifica: 6(8x + 36)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48x + 216",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "48x + 36",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "14x + 216",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "48x - 216",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 6(8x + 36) = 6×8x + 6×36 = 48x + 216.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando inecuaciones.",
+      "stem": "Encuentra la pendiente de f(x) = 4x + 9",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 4.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando inecuaciones.",
+      "stem": "María compra 5 libros a $10.1 c/u y 10 cuadernos a $5.1 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100.1",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$50.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$50.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$165",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 5×10 + 10×5 = 100.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Santa Ana practicando inecuaciones.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Mejicanos practicando inecuaciones.",
+      "stem": "Resuelve: 2x + 11 = 21",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 11 de ambos lados: 2x = 10. Divide por 2: x = 5.",
+      "id_suffix": "v020"
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "sociales",
+  "subject_code": "SOC",
+  "topic": "globalizacion",
+  "week": 28,
+  "week_label": "W28",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "de",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
+      "stem": "¿Qué documento establece la organización del Estado?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
+      "stem": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
+      "stem": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
+      "stem": "¿Qué documento establece la organización del Estado?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
+      "stem": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
+      "stem": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Qué documento establece la organización del Estado?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
+      "stem": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
+      "stem": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
+      "stem": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
+      "stem": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
+      "stem": "¿Qué documento establece la organización del Estado?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
+      "stem": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de ciencias sociales en Mejicanos estudiando globalizacion.",
+      "stem": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
+      "stem": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
+      "stem": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "id_suffix": "v020"
+    }
+  ]
+}
