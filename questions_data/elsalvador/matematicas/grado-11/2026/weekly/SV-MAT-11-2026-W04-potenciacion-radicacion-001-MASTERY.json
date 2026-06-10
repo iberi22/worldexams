@@ -1,0 +1,722 @@
+{
+  "id": "SV-MAT-11-2026-W04-potenciacion-radicacion-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "matematicas",
+  "subject_code": "MAT",
+  "topic": "potenciacion-radicacion",
+  "week": 4,
+  "week_label": "W04",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "en",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Simplifica: 8(2x + 19)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16x + 152",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "16x + 19",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "10x + 152",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "16x - 152",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 8(2x + 19) = 8×2x + 8×19 = 16x + 152.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Miguel practicando potenciacion radicacion.",
+      "stem": "Encuentra la pendiente de f(x) = 5x + 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 5.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando potenciacion radicacion.",
+      "stem": "María compra 4 libros a $7.3 c/u y 7 cuadernos a $4.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$56.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$28.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$28.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$110",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 4×7 + 7×4 = 56.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Resuelve: 2(x + 4) = 14",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 4) = 14 → x + 4 = 7 → x = 3.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Soyapango practicando potenciacion radicacion.",
+      "stem": "Resuelve: 4x + 7 = 27",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 7 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Simplifica: 3(3x + 29)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9x + 87",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "9x + 29",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6x + 87",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "9x - 87",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 3(3x + 29) = 3×3x + 3×29 = 9x + 87.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Encuentra la pendiente de f(x) = 2x + 7",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 2.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en San Salvador practicando potenciacion radicacion.",
+      "stem": "María compra 2 libros a $10.3 c/u y 10 cuadernos a $2.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$20.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$20.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$156",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 2×10 + 10×2 = 40.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Resuelve: 2(x + 8) = 22",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 8) = 22 → x + 8 = 11 → x = 3.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Santa Ana practicando potenciacion radicacion.",
+      "stem": "Resuelve: 5x + 10 = 35",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 10 de ambos lados: 5x = 25. Divide por 5: x = 5.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando potenciacion radicacion.",
+      "stem": "Simplifica: 5(6x + 40)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30x + 200",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "30x + 40",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "11x + 200",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "30x - 200",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 5(6x + 40) = 5×6x + 5×40 = 30x + 200.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en San Salvador practicando potenciacion radicacion.",
+      "stem": "Encuentra la pendiente de f(x) = 5x + 1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 5.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "María compra 6 libros a $4.1 c/u y 4 cuadernos a $6.1 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$48.1",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$24.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$24.1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$50",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 6×4 + 4×6 = 48.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en San Salvador practicando potenciacion radicacion.",
+      "stem": "Resuelve: 2(x + 3) = 12",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 3) = 12 → x + 3 = 6 → x = 3.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Mejicanos practicando potenciacion radicacion.",
+      "stem": "Resuelve: 8x + 4 = 44",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 4 de ambos lados: 8x = 40. Divide por 8: x = 5.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Soyapango practicando potenciacion radicacion.",
+      "stem": "Simplifica: 5(12x + 43)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60x + 215",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "60x + 43",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "17x + 215",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "60x - 215",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Propiedad distributiva: 5(12x + 43) = 5×12x + 5×43 = 60x + 215.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D5",
+      "bloom": "Analyze",
+      "context": "Estudiantes en Soyapango practicando potenciacion radicacion.",
+      "stem": "Encuentra la pendiente de f(x) = 5x + 11",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "En f(x) = mx + n, la pendiente es m = 5.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Estudiantes en Santa Ana practicando potenciacion radicacion.",
+      "stem": "María compra 2 libros a $1.3 c/u y 1 cuadernos a $2.3 c/u. ¿Gasto total?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "$2.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "$2.3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "$12",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Total = 2×1 + 1×2 = 4.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Estudiantes en Soyapango practicando potenciacion radicacion.",
+      "stem": "Resuelve: 2(x + 4) = 14",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "2(x + 4) = 14 → x + 4 = 7 → x = 3.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Estudiantes en Santa Ana practicando potenciacion radicacion.",
+      "stem": "Resuelve: 4x + 10 = 30",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Resta 10 de ambos lados: 4x = 20. Divide por 4: x = 5.",
+      "id_suffix": "v020"
+    }
+  ]
+}

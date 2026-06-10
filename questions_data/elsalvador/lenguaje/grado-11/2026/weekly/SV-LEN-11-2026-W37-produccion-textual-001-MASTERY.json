@@ -1,0 +1,722 @@
+{
+  "id": "SV-LEN-11-2026-W37-produccion-textual-001-MASTERY",
+  "country": "SV",
+  "country_name": "El Salvador",
+  "exam": "PAES",
+  "agency": "MINED",
+  "grade": 11,
+  "grado": "grado-11",
+  "subject": "lenguaje",
+  "subject_code": "LEN",
+  "topic": "produccion-textual",
+  "week": 37,
+  "week_label": "W37",
+  "year": 2026,
+  "alignment": "MINED - PAES El Salvador",
+  "protocol_version": "5.2",
+  "bundle_size": 20,
+  "city": "de",
+  "school": "Instituto Nacional",
+  "questions": [
+    {
+      "order": 1,
+      "difficulty": "D4",
+      "bloom": "Analyze",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear atmósfera o ambiente",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un argumento",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar eventos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un diálogo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las descripciones del entorno crean la atmósfera de la narración.",
+      "id_suffix": "v001"
+    },
+    {
+      "order": 2,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresiva o emotiva",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Referencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La función expresiva manifiesta emociones del emisor.",
+      "id_suffix": "v002"
+    },
+    {
+      "order": 3,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Conector adecuado: 'Santa Ana es hermosa, ____ su gente es acogedora.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "además",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "sin embargo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "por lo tanto",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "aunque",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "'Además' añade información complementaria.",
+      "id_suffix": "v003"
+    },
+    {
+      "order": 4,
+      "difficulty": "D5",
+      "bloom": "Evaluate",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Qué oración está bien escrita?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes estudian mucho.",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes estudia mucho.",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La oración A sigue correctamente las normas ortográficas.",
+      "id_suffix": "v004"
+    },
+    {
+      "order": 5,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es esencial y debe cuidarse",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo bebemos agua",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua no es importante",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es infinita",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El texto destaca la importancia del agua y la necesidad de conservarla.",
+      "id_suffix": "v005"
+    },
+    {
+      "order": 6,
+      "difficulty": "D4",
+      "bloom": "Analyze",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear atmósfera o ambiente",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un argumento",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar eventos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un diálogo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las descripciones del entorno crean la atmósfera de la narración.",
+      "id_suffix": "v006"
+    },
+    {
+      "order": 7,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresiva o emotiva",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Referencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La función expresiva manifiesta emociones del emisor.",
+      "id_suffix": "v007"
+    },
+    {
+      "order": 8,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Conector adecuado: 'San Salvador es hermosa, ____ su gente es acogedora.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "además",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "sin embargo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "por lo tanto",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "aunque",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "'Además' añade información complementaria.",
+      "id_suffix": "v008"
+    },
+    {
+      "order": 9,
+      "difficulty": "D5",
+      "bloom": "Evaluate",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Qué oración está bien escrita?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes estudian mucho.",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes estudia mucho.",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La oración A sigue correctamente las normas ortográficas.",
+      "id_suffix": "v009"
+    },
+    {
+      "order": 10,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es esencial y debe cuidarse",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo bebemos agua",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua no es importante",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es infinita",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El texto destaca la importancia del agua y la necesidad de conservarla.",
+      "id_suffix": "v010"
+    },
+    {
+      "order": 11,
+      "difficulty": "D4",
+      "bloom": "Analyze",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear atmósfera o ambiente",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un argumento",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar eventos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un diálogo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las descripciones del entorno crean la atmósfera de la narración.",
+      "id_suffix": "v011"
+    },
+    {
+      "order": 12,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresiva o emotiva",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Referencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La función expresiva manifiesta emociones del emisor.",
+      "id_suffix": "v012"
+    },
+    {
+      "order": 13,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Conector adecuado: 'San Salvador es hermosa, ____ su gente es acogedora.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "además",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "sin embargo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "por lo tanto",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "aunque",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "'Además' añade información complementaria.",
+      "id_suffix": "v013"
+    },
+    {
+      "order": 14,
+      "difficulty": "D5",
+      "bloom": "Evaluate",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Qué oración está bien escrita?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes estudian mucho.",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes estudia mucho.",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La oración A sigue correctamente las normas ortográficas.",
+      "id_suffix": "v014"
+    },
+    {
+      "order": 15,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es esencial y debe cuidarse",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo bebemos agua",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua no es importante",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es infinita",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El texto destaca la importancia del agua y la necesidad de conservarla.",
+      "id_suffix": "v015"
+    },
+    {
+      "order": 16,
+      "difficulty": "D4",
+      "bloom": "Analyze",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "'El sol brillaba intensamente mientras los pájaros cantaban.' ¿Qué función cumple esta descripción?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear atmósfera o ambiente",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un argumento",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar eventos",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un diálogo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "Las descripciones del entorno crean la atmósfera de la narración.",
+      "id_suffix": "v016"
+    },
+    {
+      "order": 17,
+      "difficulty": "D3",
+      "bloom": "Remember",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Cuál es la función del lenguaje en '¡Feliz cumpleaños!'?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresiva o emotiva",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Referencial",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La función expresiva manifiesta emociones del emisor.",
+      "id_suffix": "v017"
+    },
+    {
+      "order": 18,
+      "difficulty": "D4",
+      "bloom": "Apply",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Conector adecuado: 'San Salvador es hermosa, ____ su gente es acogedora.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "además",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "sin embargo",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "por lo tanto",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "aunque",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "'Además' añade información complementaria.",
+      "id_suffix": "v018"
+    },
+    {
+      "order": 19,
+      "difficulty": "D5",
+      "bloom": "Evaluate",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "¿Qué oración está bien escrita?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes estudian mucho.",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes estudia mucho.",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes estudian mucho",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "La oración A sigue correctamente las normas ortográficas.",
+      "id_suffix": "v019"
+    },
+    {
+      "order": 20,
+      "difficulty": "D3",
+      "bloom": "Understand",
+      "context": "Clase de lenguaje y comunicación en SV.",
+      "stem": "Lectura: 'El agua es esencial para la vida y debemos cuidarla.' ¿Cuál es la idea principal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es esencial y debe cuidarse",
+          "correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo bebemos agua",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua no es importante",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es infinita",
+          "correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "explanation": "El texto destaca la importancia del agua y la necesidad de conservarla.",
+      "id_suffix": "v020"
+    }
+  ]
+}
