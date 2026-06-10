@@ -114,7 +114,7 @@ class BundleValidator:
 
             # 2. Check metadata
             # Accept ICFES or other country-specific competency tags
-            competency_tags = ["ICFES", "EBAU", "Competencia", "MINED", "CNB", "MEDUCA", "SNEPE", "Aristas", "BNCC", "PAA", "UNGE", "DCNB", "MINERD", "NCEA", "CAPS", "EXANI-II", "Aprender"]
+            competency_tags = ["ICFES", "EBAU", "Competencia", "MINED", "CNB", "MEDUCA", "SNEPE", "Aristas", "BNCC", "PAA", "UNGE", "DCNB", "MINERD", "NCEA", "CAPS", "EXANI-II", "Aprender", "NAP"]
 
             if not any(f"**{tag}:**" in block for tag in competency_tags):
                  issues.append(
