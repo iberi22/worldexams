@@ -23,8 +23,8 @@ MODELS = [
     "minimax-m2.7",
 ]
 
-CONCURRENT_TASKS = 4
-REQUEST_TIMEOUT = 180
+CONCURRENT_TASKS = 1
+REQUEST_TIMEOUT = 300
 
 def load_queue():
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
@@ -81,15 +81,44 @@ def build_prompt(task, system_prompt):
     topic = task.get("topic", "algebra")
     country = task.get("country", "colombia")
 
-    prompt_parts = [system_prompt, "\n\n"]
-    prompt_parts.append(f"Genera un bundle de preguntas MASTERY para:\n")
-    prompt_parts.append(f"- País: {country}\n")
-    prompt_parts.append(f"- Asignatura: {subject}\n")
-    prompt_parts.append(f"- Grado: {grado}\n")
-    prompt_parts.append(f"- Periodo: {periodo}\n")
-    prompt_parts.append(f"- Tema: {topic}\n")
-    prompt_parts.append(f"\nGenera EXACTAMENTE 20 preguntas en formato Protocol v5.1.\n")
-    prompt_parts.append(f"Usa el código de país correcto en los IDs.\n")
+    # Country metadata
+    meta = {
+        "colombia": {"label": "Colombia", "code": "CO", "exam": "ICFES Saber 11", "curriculum": "DBA MEN", "dir": "Preguntas de opcion multiple estilo ICFES"},
+        "mexico": {"label": "Mexico", "code": "MX", "exam": "EXANI-II", "curriculum": "SEP", "dir": "Preguntas de opcion multiple estilo EXANI-II"},
+        "argentina": {"label": "Argentina", "code": "AR", "exam": "Aprender", "curriculum": "NAP", "dir": "Preguntas de opcion multiple estilo Aprender"},
+        "newzealand": {"label": "New Zealand", "code": "NZ", "exam": "NCEA", "curriculum": "NZC", "dir": "Multiple-choice questions in English for NCEA preparation"},
+        "southafrica": {"label": "South Africa", "code": "ZA", "exam": "NSC Matric", "curriculum": "CAPS", "dir": "Multiple-choice questions in English for NSC Matric preparation"},
+    }
+    m = meta.get(country, {"label": country, "code": "XX", "exam": "Standard", "curriculum": "National", "dir": "Multiple-choice questions"})
+
+    prompt_parts = []
+    if system_prompt and country in ("colombia", "mexico", "argentina"):
+        prompt_parts.append(system_prompt)
+        prompt_parts.append("\n\n")
+    elif country in ("newzealand", "southafrica"):
+        prompt_parts.append("# MASTERY Bundle Generator\n")
+        prompt_parts.append("## Bundle Rules\n")
+        prompt_parts.append("- EXACTLY 20 questions per bundle\n")
+        prompt_parts.append("- 4 options per question (A, B, C, D)\n")
+        prompt_parts.append("- Use [x] to mark correct answer\n")
+        prompt_parts.append("- Difficulty: D3-D4 (Q1-4), D5-D6 (Q5-10), D7-D8 (Q11-16), D9-D10 (Q17-20)\n")
+        prompt_parts.append("- All 4 options must be PLAUSIBLE\n")
+        prompt_parts.append("- Write ALL questions in English\n")
+        prompt_parts.append("- Frontmatter YAML with id, country, grade, subject, topic, periodo\n\n")
+    elif system_prompt:
+        prompt_parts.append(system_prompt)
+        prompt_parts.append("\n\n")
+
+    prompt_parts.append(f"Generate a MASTERY bundle for:\n")
+    prompt_parts.append(f"- Country: {m['label']}\n")
+    prompt_parts.append(f"- Curriculum: {m['curriculum']}\n")
+    prompt_parts.append(f"- Exam: {m['exam']}\n")
+    prompt_parts.append(f"- Subject: {subject}\n")
+    prompt_parts.append(f"- Grade: {grado}\n")
+    prompt_parts.append(f"- Period: {periodo}\n")
+    prompt_parts.append(f"- Topic: {topic}\n")
+    prompt_parts.append(f"\n{m['dir']}.\n")
+    prompt_parts.append(f"Protocol v5.2. Generate EXACTLY 20 questions. Use code {m['code']}.\n")
 
     return "".join(prompt_parts)
 
@@ -108,6 +137,7 @@ def get_output_path(task):
         "chile": "chile", "peru": "peru", "ecuador": "ecuador",
         "brazil": "brasil", "guatemala": "gt", "panama": "pa",
         "spain": "es", "dominican": "do",
+        "newzealand": "newzealand", "southafrica": "southafrica",
     }
     country_dir = country_map.get(country, country)
 
@@ -152,8 +182,9 @@ async def call_model(session, prompt, model_idx=0):
                     print(f"   {model} success ({len(content)} chars)")
                     return content
                 elif status == 429:
-                    print(f"   Rate limited on {model}, trying next model...")
-                    await asyncio.sleep(5)
+                    wait_time = 10 * (attempt + 1)
+                    print(f"   Rate limited on {model}, waiting {wait_time}s...")
+                    await asyncio.sleep(wait_time)
                     continue
                 else:
                     error_text = await resp.text()
@@ -168,6 +199,19 @@ async def call_model(session, prompt, model_idx=0):
 
     raise Exception(f"All models failed after {len(MODELS)} attempts")
 
+async def call_model_with_retry(session, prompt, model_idx=0, max_global_retries=3):
+    """Call model with global retry + exponential backoff on rate limits."""
+    for attempt in range(max_global_retries + 1):
+        try:
+            return await call_model(session, prompt, model_idx)
+        except Exception as e:
+            if attempt < max_global_retries:
+                wait = 15 * (attempt + 1)
+                print(f"   Global retry {attempt+1}/{max_global_retries} after {wait}s...")
+                await asyncio.sleep(wait)
+            else:
+                raise
+
 async def process_task(task, semaphore, model_idx):
     """Process a single generation task."""
     async with semaphore:
@@ -181,7 +225,7 @@ async def process_task(task, semaphore, model_idx):
         import aiohttp
         async with aiohttp.ClientSession() as session:
             try:
-                content = await call_model(session, prompt, model_idx)
+                content = await call_model_with_retry(session, prompt, model_idx)
                 output_path.write_text(content, encoding="utf-8")
                 queue = load_queue()
                 mark_completed(queue, task_id, output_path)
