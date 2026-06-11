@@ -21,7 +21,7 @@ quality_review_score: 95
 ## Pregunta 1 [D3]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En la clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora Carolina pregunta sobre los géneros literarios tradicionales.
 **Expected_Success:** 0.85
 
@@ -42,7 +42,7 @@ Desde Aristóteles en su "Poética", la literatura se clasifica en tres géneros
 ## Pregunta 2 [D4]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** María lee un texto que comienza: "En un pueblo de la costa Caribe colombiana, cerca de Cartagena, vivía un pescador llamado Pedro..." y se pregunta a qué género pertenece.
 **Expected_Success:** 0.82
 
@@ -63,7 +63,7 @@ El género narrativo se caracteriza por la presencia de un narrador que cuenta u
 ## Pregunta 3 [D4]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En el colegio de Medellín, Andrés debe identificar las características del género lírico para su exposición.
 **Expected_Success:** 0.80
 
@@ -84,7 +84,7 @@ El género lírico se caracteriza por la expresión subjetiva de sentimientos y 
 ## Pregunta 4 [D5]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Laura asiste a una obra de teatro en el Teatro Colón de Bogotá. La obra tiene personajes que dialogan entre sí, acotaciones escénicas y está dividida en actos.
 **Expected_Success:** 0.78
 
@@ -105,7 +105,7 @@ El género dramático (teatro) se caracteriza por estar escrito para ser represe
 ## Pregunta 5 [D5]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** En clase, el profesor de Lengua del colegio de Cali muestra dos textos: un cuento de Gabriel García Márquez y un poema de José Asunción Silva.
 **Expected_Success:** 0.76
 
@@ -126,7 +126,7 @@ La diferencia esencial entre los géneros narrativo y lírico radica en su prop�
 ## Pregunta 6 [D6]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Valentina encuentra un texto en la biblioteca de su colegio en Barranquilla que tiene esta estructura: "Acto I, Escena 1. (Salón de una casa campesina. Sentada frente a una ventana, JULIA cose una camisa.)".
 **Expected_Success:** 0.72
 
@@ -147,7 +147,7 @@ Las acotaciones son instrucciones del dramaturgo sobre la escenografía, vestuar
 ## Pregunta 7 [D6]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Santiago lee un fragmento de "La Vorágine" de José Eustasio Rivera en su clase de Lengua en el colegio de Bucaramanga y debe clasificarlo por género.
 **Expected_Success:** 0.65
 
@@ -168,7 +168,7 @@ Aunque "La Vorágine" es una novela (narrativa), este fragmento específico tien
 ## Pregunta 8 [D7]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** En el colegio de Pereira, el profesor pide a los estudiantes analizar un fragmento que contiene diálogos de personajes, pero no hay acotaciones ni indicaciones de representación. Es solo la conversación escrita.
 **Expected_Success:** 0.60
 
@@ -189,7 +189,7 @@ El diálogo no es exclusivo de ningún género literario. En la narrativa, los d
 ## Pregunta 9 [D7]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v9`
 **Bloom:** Evaluate
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Camila debe clasificar "Cien Años de Soledad" de Gabriel García Márquez según los géneros literarios. Algunos dicen que es realismo mágico, otros que es narrativa.
 **Expected_Success:** 0.55
 
@@ -210,7 +210,7 @@ El realismo mágico es una corriente estilística, no un género literario. "Cie
 ## Pregunta 10 [D8]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v10`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Isabella encuentra un texto anónimo del siglo XIX que narra las hazañas de un héroe popular colombiano durante la independencia, escrito en versos octosílabos.
 **Expected_Success:** 0.52
 
@@ -231,7 +231,7 @@ La épica o poesía épica es un subgénero narrativo que narra hazañas heroica
 ## Pregunta 11 [D8]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** En el colegio de Ibagué, el profesor propone un debate: "¿La crónica periodística es un género literario o periodístico?"
 **Expected_Success:** 0.48
 
@@ -252,7 +252,7 @@ La crónica periodística es un género híbrido que utiliza técnicas narrativa
 ## Pregunta 12 [D9]
 **ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Daniel y sus compañeros del Colegio San José de Sincelejo debaten: "Un guion de cine, ¿a qué género literario pertenece?"
 **Expected_Success:** 0.42
 
