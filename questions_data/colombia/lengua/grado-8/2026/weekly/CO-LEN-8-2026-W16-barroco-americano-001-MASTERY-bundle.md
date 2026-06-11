@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "barroco-americano"
 semana: "W16"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1

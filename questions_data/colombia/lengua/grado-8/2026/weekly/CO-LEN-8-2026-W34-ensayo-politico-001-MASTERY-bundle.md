@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "ensayo-politico"
 semana: "W34"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
