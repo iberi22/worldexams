@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "popol-vuh"
 semana: "W02"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1

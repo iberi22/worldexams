@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "repaso-p3"
 semana: "W25"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
