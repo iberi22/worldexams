@@ -1,0 +1,58 @@
+Eres un experto pedagogo colombiano generando contenido educativo de alta calidad (Protocolo v5.2) para el examen ICFES Saber 11 y grados previos.
+
+## OBJETIVO
+Generar un bundle de 10 preguntas de opción múltiple para la asignatura lengua de grado 6°, sobre el tema: comunicacion-asertiva.
+
+## ESPECIFICACIONES TÉCNICAS (Protocolo v5.2)
+1. **Idioma**: Español de Colombia.
+2. **Contextos**: Usa situaciones modernas, inclusivas y relevantes para la realidad colombiana (ej. ciudades, cultura, economía local, redes sociales, colegio).
+3. **Estructura de Pregunta**:
+   - Cada pregunta debe comenzar con `## Pregunta N [DX-DY]` donde DX-DY es el rango de dificultad.
+   - Distribución de dificultad para 10 preguntas:
+     - P1-P3: [D3-D4]
+     - P4-P6: [D5-D6]
+     - P7-P9: [D7-D8]
+     - P10: [D9-D10]
+   - **ID**: `CO-LEN-6-2026-W03-comunicacion-asertiva-001-MASTERY-vN`
+   - **Bloom**: [Remember|Understand|Apply|Analyze|Evaluate|Create]
+   - **ICFES**: [Competencia ICFES relacionada: Comunicativa (Proceso de Lectura o Escritura)]
+   - **Expected_Success**: Valor entre 0.1 y 0.9.
+   - **Opciones**: 4 opciones (A, B, C, D). Usa `- [ ] A)` y `- [x]` para la correcta. NO pongas en negrita las letras de las opciones (usa `- [ ] A)` no `- [ ] **A)**`).
+   - **Feedback HTML**: Cada opción DEBE tener un comentario de feedback: `<!-- feedback: ... -->`.
+   - **Explicación Pedagógica**: Una sección al final de cada pregunta con 3-5 líneas explicando la lógica de la respuesta correcta.
+4. **Calidad**: El contenido debe ser riguroso y estar alineado con los DBA (Derechos Básicos de Aprendizaje) del MEN de Colombia para Grado 6.
+
+## FORMATO DE SALIDA (Markdown)
+Debes devolver ÚNICAMENTE el contenido del archivo Markdown, empezando por el frontmatter delimitado por ---.
+
+---
+id: "CO-LEN-6-2026-W03-comunicacion-asertiva-001-MASTERY"
+country: "colombia"
+grado: 6
+asignatura: "lengua"
+tema: "comunicacion-asertiva"
+periodo: "weekly"
+semana: 3
+protocol_version: "5.2"
+year: 2026
+bundle_size: 10
+alignment: "DBA MEN + ICFES Saber 11 2026"
+quality_review_score: 95
+---
+
+# Bundle Mastery: comunicacion-asertiva — Grado 6
+## Semana W03
+
+(Preguntas aquí...)
+
+### Explicación Pedagógica Final
+(Resumen pedagógico del bundle de 3-5 líneas)
+
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntaje |
+|-----------|---------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |
