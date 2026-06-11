@@ -21,7 +21,7 @@ quality_review_score: 95
 ## Pregunta 1 [D3]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En clase de Lengua Castellana del Colegio Los Nogales de Bogotá, la profesora introduce el género lírico.
 **Expected_Success:** 0.85
 
@@ -40,7 +40,7 @@ La poesía (o género lírico) es una forma literaria que expresa los sentimient
 ## Pregunta 2 [D3]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** María estudia los elementos del poema para su examen en Medellín.
 **Expected_Success:** 0.83
 
@@ -59,7 +59,7 @@ Elementos de la poesía: (1) Verso: cada línea del poema. (2) Estrofa: conjunto
 ## Pregunta 3 [D4]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Carlos aprende la diferencia entre rima consonante y asonante en Cali.
 **Expected_Success:** 0.80
 
@@ -78,7 +78,7 @@ La rima CONSONANTE (o perfecta): coinciden todos los sonidos (vocales y consonan
 ## Pregunta 4 [D4]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Laura cuenta las sílabas de un verso en Barranquilla: "El cielo está nublado" (9 sílabas).
 **Expected_Success:** 0.78
 
@@ -97,7 +97,7 @@ Según la métrica: (1) Arte menor: versos de 2 a 8 sílabas (ej: 8 sílabas es 
 ## Pregunta 5 [D5]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Andrés identifica figuras literarias en un poema en Cartagena.
 **Expected_Success:** 0.75
 
@@ -116,7 +116,7 @@ La metáfora es una figura literaria que identifica un término real (ojos) con 
 ## Pregunta 6 [D5]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Santiago escribe un poema y usa: "El viento susurraba secretos al oído." Su profesor en Bucaramanga pide identificar la figura.
 **Expected_Success:** 0.72
 
@@ -135,7 +135,7 @@ La personificación o prosopopeya atribuye cualidades o acciones humanas a objet
 ## Pregunta 7 [D6]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Valentina analiza un soneto en Pereira.
 **Expected_Success:** 0.65
 
@@ -154,7 +154,7 @@ El soneto es una composición poética de 14 versos endecasílabos (11 sílabas)
 ## Pregunta 8 [D6]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Camila compara un poema con una canción en Manizales.
 **Expected_Success:** 0.62
 
@@ -173,7 +173,7 @@ La poesía y la música están íntimamente relacionadas: ambas trabajan con el 
 ## Pregunta 9 [D7]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v9`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Sebastián lee un poema de José Asunción Silva en Ibagué y no entiende su significado.
 **Expected_Success:** 0.55
 
@@ -192,7 +192,7 @@ La poesía se caracteriza por su polisemia (múltiples significados). A diferenc
 ## Pregunta 10 [D8]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Isabella discute con su compañera: "La poesía moderna ya no rima, ¿eso es válido?"
 **Expected_Success:** 0.50
 
@@ -211,7 +211,7 @@ El verso libre (vers libre) es una forma poética que no sigue rima fija ni mét
 ## Pregunta 11 [D8]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Daniel identifica la hipérbole en un poema en Sincelejo: "Te amo más que a mi propia vida."
 **Expected_Success:** 0.48
 
@@ -230,7 +230,7 @@ La hipérbole es una figura literaria que consiste en exagerar deliberadamente u
 ## Pregunta 12 [D9]
 **ID:** `CO-LEN-7-2026-W05-poesia-001-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En clase de Lengua en Cúcuta, el profesor pregunta: "¿Un poema puede tratar temas cotidianos como tomar tinto o ir al mercado?"
 **Expected_Success:** 0.42
 

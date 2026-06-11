@@ -21,7 +21,7 @@ quality_review_score: 95
 ## Pregunta 1 [D3]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En clase de Lengua Castellana del Colegio Gimnasio Moderno de Bogotá, la profesora introduce el género del ensayo.
 **Expected_Success:** 0.85
 
@@ -42,7 +42,7 @@ El ensayo es un género literario en prosa en el que el autor desarrolla sus ide
 ## Pregunta 2 [D3]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** María estudia las características del ensayo para su examen de Lengua en Medellín.
 **Expected_Success:** 0.83
 
@@ -63,7 +63,7 @@ Características del ensayo: (1) Es breve o de extensión media. (2) Es subjetiv
 ## Pregunta 3 [D4]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Carlos compara un ensayo con un artículo científico en su colegio de Cali.
 **Expected_Success:** 0.80
 
@@ -84,7 +84,7 @@ El artículo científico busca la objetividad: presenta datos, métodos y conclu
 ## Pregunta 4 [D4]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Laura identifica las partes del ensayo mientras lee "El hombre mediocre" de José Ingenieros en Barranquilla.
 **Expected_Success:** 0.78
 
@@ -105,7 +105,7 @@ Aunque el ensayo tiene estructura libre, generalmente sigue este esquema: (1) In
 ## Pregunta 5 [D5]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Andrés debe escribir un ensayo sobre la tecnología en la educación para su clase de Lengua en Cartagena.
 **Expected_Success:** 0.75
 
@@ -126,7 +126,7 @@ Una buena introducción debe: (1) Captar la atención del lector. (2) Contextual
 ## Pregunta 6 [D5]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Santiago escribe un ensayo sobre la identidad cultural colombiana en Bucaramanga.
 **Expected_Success:** 0.72
 
@@ -147,7 +147,7 @@ El desarrollo del ensayo admite múltiples recursos: citas textuales de otros au
 ## Pregunta 7 [D6]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Valentina analiza un fragmento de "El laberinto de la soledad" de Octavio Paz (ensayo sobre la identidad mexicana).
 **Expected_Success:** 0.68
 
@@ -168,7 +168,7 @@ Los ensayos se clasifican por tema: (1) Literario: sobre obras y autores. (2) Fi
 ## Pregunta 8 [D6]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Camila lee un ensayo donde el autor usa "yo creo", "a mi parecer", "considero que". Estudia en Pereira.
 **Expected_Success:** 0.62
 
@@ -189,7 +189,7 @@ El uso de la primera persona ("yo", "me parece", "considero") es característico
 ## Pregunta 9 [D7]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v9`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Sebastián lee un ensayo que termina así: "En conclusión..." y solo repite lo dicho. Su profesor en Ibagué le pide evaluar la conclusión.
 **Expected_Success:** 0.55
 
@@ -210,7 +210,7 @@ Una buena conclusión no repite mecánicamente la introducción o los argumentos
 ## Pregunta 10 [D7]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Isabella compara un ensayo literario con uno de opinión periodístico en Neiva.
 **Expected_Success:** 0.50
 
@@ -231,7 +231,7 @@ Aunque ambos expresan opiniones, se diferencian en: (1) Extensión: el ensayo es
 ## Pregunta 11 [D8]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Daniel encuentra un ensayo que cita a Gabriel García Márquez, a Platón y datos del DANE. Se pregunta si eso es correcto en Sincelejo.
 **Expected_Success:** 0.48
 
@@ -252,7 +252,7 @@ El ensayo se caracteriza por la intertextualidad: el autor puede combinar librem
 ## Pregunta 12 [D9]
 **ID:** `CO-LEN-7-2026-W04-ensayo-001-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** En clase de Lengua en Cúcuta, el profesor pregunta: "¿Un ensayo puede cambiar de opinión a lo largo del texto?"
 **Expected_Success:** 0.42
 
