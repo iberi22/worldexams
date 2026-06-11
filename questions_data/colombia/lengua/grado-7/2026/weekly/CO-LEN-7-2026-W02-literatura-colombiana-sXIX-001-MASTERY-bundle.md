@@ -21,7 +21,7 @@ quality_review_score: 95
 ## Pregunta 1 [D3]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En la clase de Lengua Castellana del Colegio Nacional de Bogotá, la profesora pregunta sobre los movimientos literarios del siglo XIX en Colombia.
 **Expected_Success:** 0.85
 
@@ -42,7 +42,7 @@ La literatura colombiana del siglo XIX pasó por tres grandes movimientos: el Ro
 ## Pregunta 2 [D4]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** María lee un poema que dice: "¡Oh patria mía! Por ti daría mi vida, / tus montañas y tus valles son mi anhelo." Su profesor en Medellín dice que es del Romanticismo.
 **Expected_Success:** 0.80
 
@@ -63,7 +63,7 @@ El Romanticismo colombiano (1830-1880) se caracterizó por la exaltación de los
 ## Pregunta 3 [D4]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v3`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Carlos busca información en la biblioteca de su colegio en Cali sobre el Costumbrismo colombiano.
 **Expected_Success:** 0.82
 
@@ -84,7 +84,7 @@ Tomás Carrasquilla (1858-1940) es considerado el mayor exponente del Costumbris
 ## Pregunta 4 [D5]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Laura está leyendo "María" de Jorge Isaacs, una de las novelas más importantes de la literatura colombiana. La historia transcurre en el Valle del Cauca.
 **Expected_Success:** 0.78
 
@@ -105,7 +105,7 @@ Tomás Carrasquilla (1858-1940) es considerado el mayor exponente del Costumbris
 ## Pregunta 5 [D5]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Santiago debe identificar si un texto es costumbrista o realista para su clase en el colegio de Barranquilla. El texto describe con lujo de detalle cómo se prepara el sancocho en un pueblo de la costa.
 **Expected_Success:** 0.76
 
@@ -126,7 +126,7 @@ El Costumbrismo se caracteriza por la descripción minuciosa de las costumbres, 
 ## Pregunta 6 [D6]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v6`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Valentina lee "Frutos de mi tierra" de Tomás Carrasquilla y nota que el autor usa expresiones como "pueque", "pos", "naide" (por "pues", "pues", "nadie").
 **Expected_Success:** 0.70
 
@@ -147,7 +147,7 @@ El Costumbrismo se caracteriza por usar el lenguaje vernáculo de las regiones p
 ## Pregunta 7 [D6]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Andrés compara dos novelas del siglo XIX: "María" y "Frutos de mi tierra". Nota que una es muy sentimental y la otra muy descriptiva.
 **Expected_Success:** 0.65
 
@@ -168,7 +168,7 @@ El Costumbrismo se caracteriza por usar el lenguaje vernáculo de las regiones p
 ## Pregunta 8 [D7]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** En el colegio de Bucaramanga, Sebastián debe escribir un texto costumbrista sobre su región (Santander).
 **Expected_Success:** 0.60
 
@@ -189,7 +189,7 @@ Para escribir un texto costumbrista, se deben incluir: descripciones de tradicio
 ## Pregunta 9 [D7]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Camila lee fragmentos de "El moro" de José Manuel Marroquín y nota que el narrador describe con precisión paisajes, animales y actividades del campo colombiano del siglo XIX.
 **Expected_Success:** 0.58
 
@@ -210,7 +210,7 @@ Para escribir un texto costumbrista, se deben incluir: descripciones de tradicio
 ## Pregunta 10 [D8]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Isabella discute con su compañero sobre la importancia de la literatura del siglo XIX en Colombia. Él dice que ya no es relevante.
 **Expected_Success:** 0.50
 
@@ -231,7 +231,7 @@ La literatura del siglo XIX es fundamental porque documenta la formación de la 
 ## Pregunta 11 [D8]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Daniel encuentra un poema: "Nocturno" de José Asunción Silva, que dice: "Una noche, una noche toda llena de murmullos, de perfumes y de música de alas..."
 **Expected_Success:** 0.48
 
@@ -252,7 +252,7 @@ José Asunción Silva (1865-1896) es considerado un poeta de transición porque,
 ## Pregunta 12 [D9]
 **ID:** `CO-LEN-7-2026-W02-literatura-colombiana-sXIX-001-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En clase de literatura del colegio de Cúcuta, el profesor pregunta: "¿Qué relación hay entre el Costumbrismo del siglo XIX y la televisión colombiana actual con novelas como 'Yo soy Betty, la fea' o 'La casa de las flores'?"
 **Expected_Success:** 0.42
 

@@ -21,7 +21,7 @@ quality_review_score: 95
 ## Pregunta 1 [D3]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** En clase de Lengua Castellana del Colegio Mayor de Bogotá, la profesora explica qué es un texto argumentativo.
 **Expected_Success:** 0.85
 
@@ -42,7 +42,7 @@ El texto argumentativo tiene como objetivo convencer al lector o receptor de una
 ## Pregunta 2 [D3]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v2`
 **Bloom:** Remember
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** María está estudiando la estructura de los textos argumentativos para su examen en Medellín.
 **Expected_Success:** 0.83
 
@@ -63,7 +63,7 @@ La estructura específica del texto argumentativo es: (1) Tesis: la idea princip
 ## Pregunta 3 [D4]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Carlos lee un editorial del periódico El Tiempo que dice: "Debemos reducir el consumo de plásticos de un solo uso porque contaminan los océanos y afectan la vida marina."
 **Expected_Success:** 0.80
 
@@ -84,7 +84,7 @@ La tesis es la afirmación principal que el autor quiere defender. Es la idea ce
 ## Pregunta 4 [D4]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Laura debe identificar la diferencia entre un argumento y una opinión. Su profesor en Cali le da ejemplos.
 **Expected_Success:** 0.78
 
@@ -105,7 +105,7 @@ Una opinión es una apreciación personal que no requiere evidencia ("me gusta",
 ## Pregunta 5 [D5]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Andrés debe escribir un texto argumentativo para su clase en Barranquilla. Elige como tema: "¿Debe prohibirse el uso de celulares en las escuelas?"
 **Expected_Success:** 0.75
 
@@ -126,7 +126,7 @@ Una buena tesis debe ser: (1) Debatible (no un hecho incuestionable), (2) Clara 
 ## Pregunta 6 [D5]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Santiago lee: "El reciclaje es importante porque reduce la cantidad de basura en los rellenos sanitarios. Además, ahorra energía y recursos naturales. Por otro lado, genera empleos verdes."
 **Expected_Success:** 0.72
 
@@ -147,7 +147,7 @@ Los argumentos son las razones que el autor presenta para apoyar su tesis. En es
 ## Pregunta 7 [D6]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v7`
 **Bloom:** Analyze
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Valentina analiza una carta al director que dice: "Estoy de acuerdo con la jornada única escolar, pero entiendo que muchos padres trabajan hasta tarde y no podrían recoger a sus hijos."
 **Expected_Success:** 0.65
 
@@ -168,7 +168,7 @@ La concesión es un recurso argumentativo donde el autor reconoce que la posici�
 ## Pregunta 8 [D6]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Camila encuentra dos textos sobre el mismo tema. Uno dice: "Las redes sociales aíslan a los jóvenes." El otro dice: "Las redes sociales conectan a los jóvenes."
 **Expected_Success:** 0.60
 
@@ -189,7 +189,7 @@ En argumentación, la antítesis es la posición contraria a la tesis que se def
 ## Pregunta 9 [D7]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v9`
 **Bloom:** Apply
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** Sebastián debe escribir una CONCLUSIÓN para su texto argumentativo sobre la educación virtual en el colegio de Bucaramanga.
 **Expected_Success:** 0.55
 
@@ -210,7 +210,7 @@ Una conclusión efectiva debe: (1) Reafirmar la tesis de manera clara, (2) Sinte
 ## Pregunta 10 [D8]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Explicación de fenómenos
+**ICFES:** Competencia Lectora (Inferencial)
 **Context:** Isabella evalúa la calidad de un argumento: "Debemos prohibir las bolsas plásticas porque mi vecino dice que son malas."
 **Expected_Success:** 0.50
 
@@ -231,7 +231,7 @@ El problema es que usa una autoridad no calificada (el vecino) como respaldo. Pa
 ## Pregunta 11 [D8]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Uso comprensivo del conocimiento científico
+**ICFES:** Competencia Lectora (Literal)
 **Context:** Daniel revisa un texto argumentativo de su amigo que dice: "El servicio militar debería ser obligatorio. Si no estás de acuerdo, eres antipatriota."
 **Expected_Success:** 0.48
 
@@ -252,7 +252,7 @@ Decir que quien no está de acuerdo "es antipatriota" es una descalificación pe
 ## Pregunta 12 [D9]
 **ID:** `CO-LEN-7-2026-W03-textos-argumentativos-001-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Indagación
+**ICFES:** Competencia Lectora (Crítica)
 **Context:** En clase de Lengua en Cúcuta, el profesor pregunta: "¿Un texto argumentativo pierde validez si no convence al lector?"
 **Expected_Success:** 0.42
 
