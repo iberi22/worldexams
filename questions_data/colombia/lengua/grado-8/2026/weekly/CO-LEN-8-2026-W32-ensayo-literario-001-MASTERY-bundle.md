@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "ensayo-literario"
 semana: "W32"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
