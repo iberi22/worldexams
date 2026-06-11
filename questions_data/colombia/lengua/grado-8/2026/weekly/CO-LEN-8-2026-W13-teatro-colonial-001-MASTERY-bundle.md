@@ -5,6 +5,7 @@ grado: 8
 asignatura: "lengua"
 tema: "teatro-colonial"
 semana: "W13"
+periodo: "weekly"
 protocol_version: "5.2"
 year: 2026
 bundle_index: 1
