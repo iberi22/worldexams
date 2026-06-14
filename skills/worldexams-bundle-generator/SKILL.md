@@ -1,93 +1,125 @@
 ---
 name: worldexams-bundle-generator
-description: Sistema de generación masiva de bundles de alta calidad para WorldExams. Implementa el Protocolo v5.1, asegura neutralidad regional y calidad psicométrica superior.
+description: Sistema de generacion de bundles semanales WorldExams v5.2 para Jules.
 ---
 
-# WorldExams Bundle Generator Skill (Protocol v5.1)
+# WorldExams Bundle Generator Skill - Protocol v5.2
 
-Este skill otorga la capacidad de generar bundles de preguntas de alta calidad para la plataforma WorldExams, cumpliendo estrictamente con los estándares del ICFES (Colombia) y otros marcos nacionales.
+Este skill reemplaza cualquier instruccion v5.1 anterior. Jules debe generar bundles semanales v5.2, no bundles por periodo `P1`.
 
-## 🎯 Objetivo
-Generar bundles de **20 preguntas** con dificultad progresiva, alineación curricular perfecta y sin errores técnicos (duplicados, alucinaciones o fugas de IA).
+## Objective
 
-## 🛠️ Requisitos de Jules
-Cuando este skill se active vía GitHub Issue, Jules debe:
-1. Identificar el **País**, **Asignatura**, **Grado**, **Periodo** y **Tema**.
-2. Verificar si es una **Regeneración** (si ya existe un archivo previo).
-3. Generar el contenido siguiendo el **Workflow de Generación v5.1**.
+Generar bundles MASTERY semanales de alta calidad para WorldExams/SaberParaTodos, alineados al pais, grado, asignatura y semana solicitados en el issue.
 
+## Canonical Output
+
+Un bundle final debe estar en:
+
+```text
+questions_data/{country}/{subject}/grado-{N}/2026/weekly/{CODE}-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle.md
+```
+
+Brasil 3o ano usa:
+
+```text
+questions_data/brasil/matematica/3o-ano/2026/weekly/BR-MAT-3EM-2026-W{NN}-{topic}-001-MASTERY-bundle.md
+```
+
+No crear scripts, prompts, logs ni archivos temporales en el PR final.
+
+## Required Frontmatter
+
+```yaml
 ---
-
-## 📜 Protocolo de Generación v5.1
-
-### 1. Estructura del Bundle
-- **Archivo**: `[COUNTRY]-[SUBJ]-[GRADE]-P[N]-[TOPIC]-[###]-MASTERY-bundle.md`
-- **Frontmatter**: YAML completo con `protocol_version: "5.1"`.
-- **Cantidad**: EXACTAMENTE 20 preguntas.
-
-### 2. Dificultad Progresiva (MASTERY)
-| Rango | Dificultad | Nivel Bloom |
-|-------|------------|-------------|
-| 1-4   | D3-D4      | Remember / Understand |
-| 5-10  | D5-D6      | Apply |
-| 11-16 | D7-D8      | Analyze |
-| 17-20 | D9-D10     | Evaluate / Create |
-
-### 3. Anatomía de la Pregunta
-Cada pregunta DEBE incluir:
-- **ID**: `[BUNDLE_ID]-vN`
-- **Bloom**: Nivel taxonómico.
-- **ICFES**: Competencia específica según el marco oficial.
-- **Contexto**: Situación relevante y moderna (evitar contextos genéricos).
-- **Enunciado**: Claro, sin ambigüedades.
-- **4 Opciones**: A, B, C, D.
-  - **[x]** para la correcta.
-  - **[ ]** para los distractores.
-  - **feedback**: Explicación de por qué es correcta/incorrecta para CADA opción.
-- **Explicación Pedagógica**: Resumen del concepto evaluado.
-
+id: "{CODE}-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle"
+country: "{country}"
+grado: {grade}
+asignatura: "{subject}"
+tema: "{topic}"
+periodo: "weekly"
+week: "W{NN}"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: {question_count}
+bundle_size: {question_count}
+alignment: "{official_alignment}"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
+```
 
-## 🚫 Reglas Anti-Errores (CRÍTICO)
+Do not use `semana` instead of `week`. The `id` includes `-bundle` and must match the file basename without `.md`.
 
-1. **PROHIBIDO Distractores Duplicados**: El texto de las 4 opciones debe ser único. NUNCA repetir la opción correcta como un distractor.
-2. **PROHIBIDO AI Leakage**: Eliminar bloques de `<think>`, `<process>` o cualquier residuo de la generación del modelo. El archivo debe empezar directamente con el frontmatter.
-3. **PROHIBIDO Alucinaciones Científicas**: Validar símbolos químicos, fórmulas físicas y constantes universales. No inventar notación (ej: no usar `₇⁹Au`).
-4. **PROHIBIDO "Todas las anteriores"**: No usar opciones tipo "todas las anteriores", "ninguna de las anteriores", "A y B son correctas".
-5. **Contexto Útil**: El contexto debe ser necesario para resolver la pregunta o para dar marco situacional ICFES, no relleno decorativo.
+## Question Counts
 
----
+- G3-G5: 8
+- G6-G7: 10
+- G8-G10: 12
+- G11 and Brazil 3EM: 20
 
-## 📂 Ubicación Canónica
-Los bundles deben guardarse en:
-`questions_data/[country]/[asignatura]/grado-[N]/periodo-[P]/[tema]/[ID]-bundle.md`
+## Exact Question Anatomy
 
-## 🗺️ Reglas de Contextualización Regional
+```markdown
+## Question N [D3]
+**ID:** {BUNDLE_ID}-v{N}
+**Bloom:** Remember
+**ICFES:** Numerico
+**Expected_Success:** 0.90
+**Contexto:** Local, useful scenario.
 
-Jules debe adaptar el contenido según el país (`country`) definido en el issue:
-- **Moneda**: Usar la moneda local (ej: `COP $` para Colombia, `CLP $` para Chile, `BRL R$` para Brasil).
-- **Geografía**: Usar ciudades y regiones del país destino.
-- **Nombres**: Usar nombres comunes en la cultura local.
-- **Curriculum**: Mapear los temas a los exámenes nacionales (SIMCE en Chile, ECE en Perú, etc.).
-- **Variante Idiomática**: Usar voseo (`vos`) para Argentina/Uruguay/Paraguay.
+### Enunciado
+Question text.
 
-## ✅ Fase de Verificación (Obligatoria para Jules)
+### Opciones
+- [x] A) Correct answer
+  <!-- feedback: Why this is correct. -->
+- [ ] B) Distractor
+  <!-- feedback: Misconception explanation. -->
+- [ ] C) Distractor
+  <!-- feedback: Misconception explanation. -->
+- [ ] D) Distractor
+  <!-- feedback: Misconception explanation. -->
 
-Antes de realizar el commit de un bundle, Jules DEBE:
-1.  **Ejecutar el Auditor Local**:
-    ```bash
-    npx ts-node scripts/review-bundle.ts --bundle=[ruta_al_bundle]
-    ```
-2.  **Validar el resultado**: Si el auditor arroja `errors` o flags como `DUPLICATE_DISTRACTORS`, Jules debe corregir el archivo y volver a auditar.
-3.  **Comprobar `bundle_size`**: Asegurarse de que el número de preguntas coincide con el frontmatter.
+### Explicacion Pedagogica
+Pedagogical explanation.
+```
 
-## 🤖 Instrucciones para Jules (System Prompt Integration)
-"Eres Jules, el agente de generación de contenido de WorldExams. Tu misión es la excelencia pedagógica. Al recibir un issue con el label `jules` y una solicitud de bundle:
-1. Lee este skill (`skills/worldexams-bundle-generator/SKILL.md`).
-2. Genera el bundle siguiendo el protocolo v5.1.
-3. **AUDITA** tu propio trabajo usando `scripts/review-bundle.ts` antes de subirlo.
-4. Si el auditor falla, **CORRIGE** hasta que el reporte de revisión esté limpio.
-5. Si es una regeneración de un bundle `minimax-m2.7`, asegúrate de que el nuevo contenido sea 100% original y superior en calidad."
+Mandatory exact labels:
+- `## Question`, not `## Pregunta`
+- `**Contexto:**`, not `**Context:**`
+- `### Opciones`, not `### Options`
+- `### Explicacion Pedagogica`, not bold text
 
----
-*Versión 1.1 | Mayo 2026*
+## Quality Rules
+
+1. Exactly one `[x]` option per question.
+2. Exactly four options A-D.
+3. Every option has `<!-- feedback: ... -->`.
+4. No duplicated option text inside a question.
+5. No "all/none of the above" patterns in any language.
+6. No `<think>`, `<process>`, prompt text, markdown fences around the bundle, or internal notes.
+7. No unverified formulas, dates, constants, laws or exam claims.
+8. Contexts must fit the target country and language.
+9. Do not delete existing bundles unless the issue explicitly says replace and lists the files.
+
+## Validation
+
+Before opening a PR, run:
+
+```bash
+npm run validate -- {generated_file_1} {generated_file_2}
+```
+
+If validation fails, fix the files and run it again.
+
+## Jules Issue Workflow
+
+1. Read `AGENTS.md`.
+2. Read this skill.
+3. Read `skills/bundle-creator/SKILL.md`.
+4. Read the target country rule file.
+5. Generate only the requested `.md` files.
+6. Validate.
+7. Comment the issue with generated IDs.
