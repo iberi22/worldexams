@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.881Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una ecuación cuadrática completa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ax + b = 0",
+          "is_correct": false,
+          "feedback": "Esta es la forma de una ecuación lineal de primer grado."
+        },
+        {
+          "letter": "B",
+          "text": "ax² + bx + c = 0",
+          "is_correct": true,
+          "feedback": "Forma estándar donde a, b y c son coeficientes reales y a ≠ 0."
+        },
+        {
+          "letter": "C",
+          "text": "ax³ + bx² + cx + d = 0",
+          "is_correct": false,
+          "feedback": "Esta es la forma de una ecuación cúbica (tercer grado)."
+        },
+        {
+          "letter": "D",
+          "text": "x² + y² = r²",
+          "is_correct": false,
+          "feedback": "Esta es la ecuación de una circunferencia en el plano cartesiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una ecuación cuadrática o de segundo grado se caracteriza por tener la incógnita elevada al cuadrado como su mayor exponente. La forma general o estándar es ax² + bx + c = 0, donde \"a\" es el coeficiente cuadrático, \"b\" el lineal y \"c\" el término independiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v2",
+      "statement": "Gráficamente, ¿qué figura representa el conjunto de soluciones de una función cuadrática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea recta.",
+          "is_correct": false,
+          "feedback": "Representa a las funciones lineales."
+        },
+        {
+          "letter": "B",
+          "text": "Una parábola.",
+          "is_correct": true,
+          "feedback": "Las funciones de segundo grado siempre grafican una parábola."
+        },
+        {
+          "letter": "C",
+          "text": "Una circunferencia.",
+          "is_correct": false,
+          "feedback": "No es una función, sino una relación geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "Una hipérbola.",
+          "is_correct": false,
+          "feedback": "Corresponde a otro tipo de funciones (racionales específicas)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda función cuadrática de la forma f(x) = ax² + bx + c genera una curva simétrica llamada parábola. Si el coeficiente \"a\" es positivo, la parábola abre hacia arriba; si es negativo, abre hacia abajo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v3",
+      "statement": "En la fórmula general x = [-b ± √(b² - 4ac)] / 2a, ¿cómo se le llama a la expresión (b² - 4ac)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radicando simple.",
+          "is_correct": false,
+          "feedback": "Nombre genérico para lo que está dentro de una raíz."
+        },
+        {
+          "letter": "B",
+          "text": "Factor común.",
+          "is_correct": false,
+          "feedback": "Concepto de factorización, no de la fórmula general."
+        },
+        {
+          "letter": "C",
+          "text": "Discriminante.",
+          "is_correct": true,
+          "feedback": "Su valor determina el número y tipo de soluciones de la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice.",
+          "is_correct": false,
+          "feedback": "Es el punto máximo o mínimo de la parábola, no una parte de la fórmula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expresión dentro de la raíz cuadrada en la fórmula general se denomina discriminante (denotado por Δ o D). Es fundamental porque nos indica si la ecuación tiene dos soluciones reales distintas (D > 0), una solución real única (D = 0) o ninguna solución real (D < 0).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las soluciones (raíces) de la ecuación x² - 49 = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7",
+          "is_correct": false,
+          "feedback": "Falta la solución negativa (-7)."
+        },
+        {
+          "letter": "B",
+          "text": "x = 49",
+          "is_correct": false,
+          "feedback": "Error al no extraer la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "x = 7, x = -7",
+          "is_correct": true,
+          "feedback": "Al despejar x² = 49, se obtienen ambos valores."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real.",
+          "is_correct": false,
+          "feedback": "Como 49 es positivo, sí tiene raíces reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver x² - 49 = 0, despejamos x²: x² = 49. Al aplicar raíz cuadrada en ambos lados, debemos considerar tanto el valor positivo como el negativo, ya que ambos elevados al cuadrado dan 49. Por lo tanto, x = ±7.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la medida del ancho del estanque?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 metros",
+          "is_correct": true,
+          "feedback": "x * 2x = 200; 2x² = 200; x² = 100; x = 10."
+        },
+        {
+          "letter": "B",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Este sería el largo (2x)."
+        },
+        {
+          "letter": "C",
+          "text": "14.14 metros",
+          "is_correct": false,
+          "feedback": "Error al no considerar que el largo es el doble del ancho."
+        },
+        {
+          "letter": "D",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Error de cálculo en la resolución de la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sea x el ancho. El largo es 2x. El área es x \\times 2x = 2x². Planteamos la ecuación: 2x² = 200. Dividimos por 2: x² = 100. Extraemos raíz cuadrada: x = 10 (solo tomamos el valor positivo por ser una longitud). El ancho es 10 m.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v6",
+      "statement": "Resuelve factorizando la ecuación: x² - 5x + 6 = 0. ¿Cuáles son sus raíces?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -2, x = -3",
+          "is_correct": false,
+          "feedback": "Estos valores darían un término lineal positivo (+5x)."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2, x = 3",
+          "is_correct": true,
+          "feedback": "(x-2)(x-3) = 0; las soluciones son los valores que anulan cada paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, x = 6",
+          "is_correct": false,
+          "feedback": "El producto es 6 pero la suma sería 7, no 5."
+        },
+        {
+          "letter": "D",
+          "text": "x = -1, x = -6",
+          "is_correct": false,
+          "feedback": "Error en la elección de los factores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos dos números que multiplicados den 6 y sumados den -5. Esos números son -2 y -3. Factorizamos como (x - 2)(x - 3) = 0. Para que el producto sea cero, x - 2 = 0 (x = 2) o x - 3 = 0 (x = 3).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas soluciones reales tiene la ecuación x² - 4x + 4 = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos soluciones reales distintas.",
+          "is_correct": false,
+          "feedback": "Requiere discriminante mayor a cero."
+        },
+        {
+          "letter": "B",
+          "text": "Una única solución real.",
+          "is_correct": true,
+          "feedback": "El discriminante es (-4)² - 4(1)(4) = 16 - 16 = 0."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución real.",
+          "is_correct": false,
+          "feedback": "Requiere discriminante negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Las ecuaciones cuadráticas no pueden tener infinitas soluciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos el discriminante D = b² - 4ac. Aquí a=1, b=-4, c=4. D = (-4)² - 4(1)(4) = 16 - 16 = 0. Cuando el discriminante es cero, la ecuación es un trinomio cuadrado perfecto (x - 2)² = 0 y tiene una sola raíz real \"doble\" (x = 2).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v8",
+      "statement": "¿En qué tiempo (t) el proyectil regresa al suelo (h = 0)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 segundos",
+          "is_correct": false,
+          "feedback": "Este es el tiempo en el que alcanza la altura máxima (vértice)."
+        },
+        {
+          "letter": "B",
+          "text": "4 segundos",
+          "is_correct": true,
+          "feedback": "-5t² + 20t = 0; -5t(t - 4) = 0; t=0 (salida) y t=4 (regreso)."
+        },
+        {
+          "letter": "C",
+          "text": "20 segundos",
+          "is_correct": false,
+          "feedback": "Error en el despeje de la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "5 segundos",
+          "is_correct": false,
+          "feedback": "Cálculo incorrecto de las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos h a cero: -5t² + 20t = 0. Factorizamos por término común: -5t(t - 4) = 0. Las soluciones son t = 0 (momento del lanzamiento) y t - 4 = 0, lo que nos da t = 4 segundos (momento del impacto con el suelo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v9",
+      "statement": "Si en la función f(x) = ax² + bx + c, el valor de \"a\" es negativo, ¿qué podemos afirmar sobre el vértice de la parábola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se encuentra en el origen (0,0).",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre si b y c son cero."
+        },
+        {
+          "letter": "B",
+          "text": "Es el punto mínimo de la función.",
+          "is_correct": false,
+          "feedback": "Esto ocurre si a es positivo (abre hacia arriba)."
+        },
+        {
+          "letter": "C",
+          "text": "Es el punto máximo de la función.",
+          "is_correct": true,
+          "feedback": "Si a es negativo, la parábola abre hacia abajo y el vértice es el punto más alto."
+        },
+        {
+          "letter": "D",
+          "text": "La parábola no tiene vértice.",
+          "is_correct": false,
+          "feedback": "Todas las parábolas tienen un vértice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El signo del coeficiente \"a\" determina la concavidad de la parábola. Si a < 0, la curva es cóncava hacia abajo (forma de \"U\" invertida), lo que implica que el vértice representa el valor más alto o punto máximo de la trayectoria o función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es ese número?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4² = 16, mientras que 8(4) = 32."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "8² = 64 y 8(8) = 64."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "2² = 4, mientras que 8(2) = 16."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Error al confundir el cuadrado con el resultado de la multiplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la ecuación: x² = 8x. Movemos todos los términos a un lado: x² - 8x = 0. Factorizamos: x(x - 8) = 0. Las soluciones son x = 0 y x = 8. Como el problema pide un número (implícitamente distinto de cero en este contexto de diseño), la respuesta es 8.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor de x₁ para la ecuación 2x² - 7x + 3 = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "2(2)² - 7(2) + 3 = 8 - 14 + 3 = -3. No es raíz."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "x = [7 ± √(49 - 24)] / 4 = [7 ± 5] / 4. x₁ = 12/4 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Esta es la segunda raíz (x₂ = 2/4 = 0.5), pero no la que aparece como principal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Error de signo en la aplicación de la fórmula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula general con a=2, b=-7, c=3. Discriminante D = (-7)² - 4(2)(3) = 49 - 24 = 25. Las raíces son x = [7 ± √25] / (2*2) = [7 ± 5] / 4. Una raíz es x = (7+5)/4 = 3, y la otra es x = (7-5)/4 = 0.5.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v12",
+      "statement": "Si la ecuación que modela el lado \"x\" de un terreno cuadrado es x² - 6x - 16 = 0, ¿cuál es la medida del lado x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4² - 6(4) - 16 = 16 - 24 - 16 = -24. No es raíz."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "16² - 6(16) - 16 = 256 - 96 - 16 = 144. No es raíz."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "8² - 6(8) - 16 = 64 - 48 - 16 = 0. Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "2² - 6(2) - 16 = 4 - 12 - 16 = -24. No es raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver la ecuación x² - 6x - 16 = 0 por factorización, buscamos dos números que multiplicados den -16 y sumados den -6. Estos números son -8 y 2. Factorizamos como (x - 8)(x + 2) = 0. Las soluciones son x = 8 y x = -2. Dado que x representa una medida física, tomamos el valor positivo 8.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la coordenada \"x\" del vértice de la parábola representada por f(x) = x² - 6x + 5?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Se debe usar la fórmula -b/2a."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "x = -(-6) / (2*1) = 6 / 2 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Error de signo en la aplicación de la fórmula del vértice."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Esta es la ordenada al origen (intersección con el eje y)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordenada x del vértice de una parábola f(x) = ax² + bx + c se calcula mediante la fórmula x = -b / 2a. Sustituyendo los valores a = 1 y b = -6, obtenemos x = -(-6) / (2 * 1) = 6 / 2 = 3.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v14",
+      "statement": "Resuelve la ecuación: 3x² + 12x = 0",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 0, x = 4",
+          "is_correct": false,
+          "feedback": "Error de signo al despejar el factor (x+4)."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0, x = -4",
+          "is_correct": true,
+          "feedback": "3x(x + 4) = 0; x = 0 y x + 4 = 0."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2, x = -2",
+          "is_correct": false,
+          "feedback": "Esta sería la solución si fuera una diferencia de cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución.",
+          "is_correct": false,
+          "feedback": "Las ecuaciones incompletas mixtas siempre tienen solución (una de ellas es cero)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una ecuación incompleta mixta (ax² + bx = 0), siempre factorizamos por término común x. Aquí: 3x(x + 4) = 0. Igualamos cada factor a cero: 3x = 0 \\rightarrow x = 0; y x + 4 = 0 \\rightarrow x = -4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v15",
+      "statement": "En la ecuación x² - kx + 9 = 0, ¿qué valores puede tomar k para que el sistema tenga una sola solución real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo k = 6",
+          "is_correct": false,
+          "feedback": "También se debe considerar el valor negativo."
+        },
+        {
+          "letter": "B",
+          "text": "k = 3, k = -3",
+          "is_correct": false,
+          "feedback": "Error al no elevar al cuadrado correctamente en el discriminante."
+        },
+        {
+          "letter": "C",
+          "text": "k = 6, k = -6",
+          "is_correct": true,
+          "feedback": "D = k² - 4(1)(9) = k² - 36. Para D=0, k²=36."
+        },
+        {
+          "letter": "D",
+          "text": "k = 0",
+          "is_correct": false,
+          "feedback": "Si k=0, x²+9=0 no tiene soluciones reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que haya una sola solución, el discriminante debe ser cero: b² - 4ac = 0. En este caso: (-k)² - 4(1)(9) = 0 \\rightarrow k² - 36 = 0. Despejando k², obtenemos k² = 36, por lo que k puede ser 6 o -6.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v16",
+      "statement": "Dada la ecuación x² + 5x + 4 = 0, ¿cuál es el producto de sus raíces (x₁ \\times x₂)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Esta es la suma de las raíces (-b/a)."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Error de signo en la relación de la suma."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "El producto de las raíces es igual a c/a."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Error de signo en la relación del producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Según las propiedades de las raíces de una ecuación cuadrática (Teorema de Vieta), para una ecuación x² + bx + c = 0, el producto de las raíces x₁ \\times x₂ es igual al término independiente \"c\" (cuando a=1). En este caso, el producto es 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v17",
+      "statement": "Resuelve la ecuación x⁴ - 13x² + 36 = 0 (Ecuación bicuadrática). ¿Cuáles son los valores positivos de x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 4, x = 9",
+          "is_correct": false,
+          "feedback": "Estos son los valores de x², falta extraer la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2, x = 3",
+          "is_correct": true,
+          "feedback": "Sea u = x²; u² - 13u + 36 = 0 -> (u-4)(u-9)=0. x²=4 y x²=9."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, x = 6",
+          "is_correct": false,
+          "feedback": "Error en la factorización del trinomio."
+        },
+        {
+          "letter": "D",
+          "text": "x = 16, x = 81",
+          "is_correct": false,
+          "feedback": "Se elevó al cuadrado en lugar de extraer raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hacemos un cambio de variable u = x². La ecuación se convierte en u² - 13u + 36 = 0. Factorizamos: (u - 4)(u - 9) = 0. Obtenemos u₁ = 4 y u₂ = 9. Regresando a la variable original: x² = 4 \\rightarrow x = ±2; y x² = 9 \\rightarrow x = ±3. Los valores positivos son 2 y 3.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v18",
+      "statement": "Una foto de 10x15 cm tiene un marco de ancho uniforme \"x\". Si el área total (foto + marco) es de 300 cm², ¿qué ecuación permite hallar el ancho x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(10+x)(15+x) = 300",
+          "is_correct": false,
+          "feedback": "El marco se añade a ambos lados, por lo que el aumento es 2x."
+        },
+        {
+          "letter": "B",
+          "text": "(10+2x)(15+2x) = 300",
+          "is_correct": true,
+          "feedback": "El largo total es 15+2x y el ancho total 10+2x."
+        },
+        {
+          "letter": "C",
+          "text": "150 + 2x = 300",
+          "is_correct": false,
+          "feedback": "Error al plantear un modelo lineal para un problema de área."
+        },
+        {
+          "letter": "D",
+          "text": "150 + x² = 300",
+          "is_correct": false,
+          "feedback": "No considera la geometría del marco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El marco rodea la foto por los cuatro costados. Si el ancho del marco es x, la nueva base será 15 + x + x = 15 + 2x. La nueva altura será 10 + x + x = 10 + 2x. El área total es el producto de estas nuevas dimensiones igualado a 300.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuáles son las soluciones de la ecuación x² + 25 = 0 en el conjunto de los números complejos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5, x = -5",
+          "is_correct": false,
+          "feedback": "Estas serían soluciones para x² - 25 = 0."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5i, x = -5i",
+          "is_correct": true,
+          "feedback": "x² = -25; x = ±√(-25) = ±5i."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene solución.",
+          "is_correct": false,
+          "feedback": "No tiene solución real, pero sí en los complejos."
+        },
+        {
+          "letter": "D",
+          "text": "x = 25i, x = -25i",
+          "is_correct": false,
+          "feedback": "Error al no extraer la raíz de 25."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejamos x²: x² = -25. Al extraer la raíz cuadrada, obtenemos x = ±√(-25). Como la raíz cuadrada de -1 se define como la unidad imaginaria \"i\", tenemos x = ±√(25) * √(-1) = ±5i.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor de x₁ al resolver x² - 8x + 13 = 0 completando el trinomio cuadrado perfecto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 + √13",
+          "is_correct": false,
+          "feedback": "El 13 debe restarse tras completar el cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "4 + √3",
+          "is_correct": true,
+          "feedback": "(x-4)² - 16 + 13 = 0; (x-4)² = 3; x-4 = ±√3."
+        },
+        {
+          "letter": "C",
+          "text": "8 + √3",
+          "is_correct": false,
+          "feedback": "Error al determinar la mitad del coeficiente lineal."
+        },
+        {
+          "letter": "D",
+          "text": "4 + 3",
+          "is_correct": false,
+          "feedback": "Error al no extraer la raíz del resultado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para completar el cuadrado: tomamos la mitad de -8, que es -4, y elevamos al cuadrado (16). Escribimos: (x - 4)² - 16 + 13 = 0. Simplificamos: (x - 4)² - 3 = 0 \\rightarrow (x - 4)² = 3. Despejamos x: x - 4 = ±√3 \\rightarrow x = 4 ± √3.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 100 |\n| Curricular | 100 |\n| Contexto | 100 |\n| Redacción | 100 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W05-algebra-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

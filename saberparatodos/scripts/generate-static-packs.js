@@ -1,16 +1,21 @@
 import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
+import { execSync } from "child_process";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, "..");
 const QUESTIONS_DATA_ROOT = path.join(ROOT, "..", "questions_data");
-const OUTPUT_DIR = path.join(ROOT, "public", "api", "packs");
+const OUTPUT_DIRS = [
+  path.join(ROOT, "public", "api", "packs"),
+  path.join(ROOT, "..", "apps", "worldexams-api", "public", "v1", "packs"),
+];
 
 const args = process.argv.slice(2);
 let targetPeriod = 1;
+const generateAllWeekly = args.includes("--all-weekly");
+const changedOnly = args.includes("--changed-only");
 const periodIdx = args.indexOf("--period");
 if (periodIdx !== -1 && args[periodIdx + 1]) {
   targetPeriod = parseInt(args[periodIdx + 1]);
@@ -21,10 +26,10 @@ if (periodIdx !== -1 && args[periodIdx + 1]) {
   }
 }
 
-const PACK_ID = `week-${targetPeriod}`;
-
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+for (const outputDir of OUTPUT_DIRS) {
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 }
 
 function parseProtocol(frontmatter, filePath) {
@@ -44,6 +49,28 @@ function parseProtocol(frontmatter, filePath) {
 function hasDuplicatedPeriodSegment(filePath) {
   const normalized = filePath.split(path.sep).join("/");
   return /\/periodo-\d+\/periodo-\d+\//i.test(normalized);
+}
+
+function readMarkdownWithFrontmatter(file) {
+  const raw = fs.readFileSync(file, "utf8");
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  if (!match) return { data: {}, content: raw };
+
+  const data = {};
+  for (const line of match[1].split(/\r?\n/)) {
+    const separator = line.indexOf(":");
+    if (separator === -1) continue;
+    const key = line.slice(0, separator).trim();
+    let value = line.slice(separator + 1).trim();
+    value = value.replace(/^["']|["']$/g, "");
+    if (/^\d+$/.test(value)) {
+      data[key] = Number(value);
+    } else {
+      data[key] = value;
+    }
+  }
+
+  return { data, content: raw.slice(match[0].length) };
 }
 
 function parseQuestions(body) {
@@ -72,6 +99,7 @@ function parseQuestions(body) {
       matches[i].header.match(/\((?:Nivel|Dificultad):?\s*(\d+)\)/i) ||
       section.match(/(?:Nivel|Dificultad):?\s*(\d+)/i) ||
       matches[i].header.match(/\[D(\d+)-D(\d+)\]/) ||
+      matches[i].header.match(/\[D(\d+)\]/) ||
       section.match(/\[D(\d+)-D(\d+)\]/);
 
     let difficulty = 3;
@@ -130,14 +158,18 @@ function parseQuestions(body) {
     while ((optMatch = optionRegex.exec(section)) !== null) {
       const isCorrect = optMatch[1].toLowerCase() === "x";
       const letter = optMatch[2];
-      const text = optMatch[3].trim();
-      options.push({ letter, text, is_correct: isCorrect });
+      const feedbackMatch = optMatch[3].match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/);
+      const text = optMatch[3]
+        .replace(/<!--\s*feedback:[\s\S]*?-->/, "")
+        .trim();
+      const feedback = feedbackMatch ? feedbackMatch[1].trim() : "";
+      options.push({ letter, text, is_correct: isCorrect, feedback });
       if (isCorrect) correctId = letter;
     }
 
     // Extract explanation
     const expMatch = section.match(
-      /###\s*(?:Explicación|Explanation)([\s\S]*?)(?:##|$)/i,
+      /###\s*(?:Explicaci(?:o|\u00f3)n(?:\s+Pedag(?:o|\u00f3)gica)?|Explanation)([\s\S]*?)(?:##|$)/i,
     );
     const explanation = expMatch ? expMatch[1].trim() : "";
 
@@ -174,15 +206,30 @@ const walk = (dir) => {
 };
 
 const allFiles = walk(QUESTIONS_DATA_ROOT);
+const changedFiles = changedOnly
+  ? new Set(
+      execSync("git diff --name-only origin/main...HEAD", {
+        cwd: path.join(ROOT, ".."),
+        encoding: "utf8",
+      })
+        .split(/\r?\n/)
+        .filter((file) => file.startsWith("questions_data/") && file.endsWith(".md"))
+        .map((file) => path.resolve(path.join(ROOT, "..", file))),
+    )
+  : null;
 const packs = {};
 
 for (const file of allFiles) {
   try {
+    if (changedFiles && !changedFiles.has(path.resolve(file))) {
+      continue;
+    }
+
     if (hasDuplicatedPeriodSegment(file) || file.includes("/legacy/")) {
       continue;
     }
 
-    const { data, content } = matter.read(file);
+    const { data, content } = readMarkdownWithFrontmatter(file);
     const protocol = parseProtocol(data, file);
     if (!protocol || protocol < 3) continue;
 
@@ -206,20 +253,29 @@ for (const file of allFiles) {
       }
     }
 
-    const period = parseInt(data.periodo || 1);
-    if (period !== targetPeriod) continue;
+    const rawPeriod = String(data.periodo || "").toLowerCase();
+    const isWeeklyBundle = rawPeriod === "weekly" || data.bundle_type === "weekly";
+    const weekMatch = String(data.week || "").match(/^W(\d{2})$/i);
+    const period = isWeeklyBundle
+      ? (weekMatch ? Number(weekMatch[1]) : NaN)
+      : parseInt(data.periodo || 1);
+    if (!Number.isFinite(period)) continue;
+    if (!generateAllWeekly && period !== targetPeriod) continue;
+    if (generateAllWeekly && !isWeeklyBundle) continue;
+    const packId = `week-${period}`;
 
     // Normalize country code
     let rawCountry = (data.country || countryFolder).toLowerCase();
     let countryCode = rawCountry;
     const countryMap = {
-      colombia: "colombia",
+      colombia: "co",
       mexico: "mx",
       peru: "pe",
       chile: "cl",
       ecuador: "ec",
       argentina: "ar",
       brasil: "br",
+      brazil: "br",
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
@@ -243,7 +299,7 @@ for (const file of allFiles) {
     }
 
     const prefix = countryCode ? `${countryCode}-` : "";
-    const packKey = `${prefix}${PACK_ID}-grade-${grade}-subject-${safeSubject}`;
+    const packKey = `${prefix}${packId}-grade-${grade}-subject-${safeSubject}`;
 
     if (!packs[packKey]) {
       packs[packKey] = {
@@ -272,44 +328,47 @@ for (const file of allFiles) {
   }
 }
 
-// Write packs to disk
-for (const [key, data] of Object.entries(packs)) {
-  const outputPath = path.join(OUTPUT_DIR, `${key}.json`);
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-  console.log(
-    `Generated ${outputPath} with ${data.questions.length} questions`,
-  );
-}
-
-// Generate current.json and metadata.json
 const packageJson = JSON.parse(
   fs.readFileSync(path.join(ROOT, "package.json"), "utf8"),
 );
 const version = packageJson.version || "1.0.0";
 
-fs.writeFileSync(
-  path.join(OUTPUT_DIR, "current.json"),
-  JSON.stringify({ version, last_update: new Date().toISOString() }, null, 2),
-);
-
-// Merge with existing metadata if it exists
-let allPacks = Object.keys(packs);
-const metadataPath = path.join(OUTPUT_DIR, "metadata.json");
-if (fs.existsSync(metadataPath)) {
-  try {
-    const existingMetadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
-    if (existingMetadata.packs && Array.isArray(existingMetadata.packs)) {
-      const packSet = new Set([...existingMetadata.packs, ...allPacks]);
-      allPacks = Array.from(packSet);
-    }
-  } catch (e) {
-    console.error(`Error reading existing metadata: ${e.message}`);
+// Write packs, current.json, and metadata.json to each served static pack root.
+for (const outputDir of OUTPUT_DIRS) {
+  for (const [key, data] of Object.entries(packs)) {
+    const outputPath = path.join(outputDir, `${key}.json`);
+    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+    console.log(
+      `Generated ${outputPath} with ${data.questions.length} questions`,
+    );
   }
-}
 
-fs.writeFileSync(
-  metadataPath,
-  JSON.stringify({ packs: allPacks.sort() }, null, 2),
-);
+  fs.writeFileSync(
+    path.join(outputDir, "current.json"),
+    JSON.stringify({ version, last_update: new Date().toISOString() }, null, 2),
+  );
+
+  let allPacks = Object.keys(packs);
+  const metadataPath = path.join(outputDir, "metadata.json");
+  if (fs.existsSync(metadataPath)) {
+    try {
+      const existingMetadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
+      if (existingMetadata.packs && Array.isArray(existingMetadata.packs)) {
+        const existingPacks = existingMetadata.packs.filter(
+          (pack) => !String(pack).startsWith("colombia-week-"),
+        );
+        const packSet = new Set([...existingPacks, ...allPacks]);
+        allPacks = Array.from(packSet);
+      }
+    } catch (e) {
+      console.error(`Error reading existing metadata: ${e.message}`);
+    }
+  }
+
+  fs.writeFileSync(
+    metadataPath,
+    JSON.stringify({ packs: allPacks.sort() }, null, 2),
+  );
+}
 
 console.log("Static packs generation completed.");

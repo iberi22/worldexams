@@ -55,10 +55,95 @@ function normalizeSubjectKey(subject: string) {
   return aliasMap[normalized] || normalized;
 }
 
+function getCountryPackPrefixes(country: string) {
+  const normalized = String(country || "").trim().toLowerCase();
+  const aliases: Record<string, string[]> = {
+    co: ["co"],
+    colombia: ["co"],
+    mx: ["mx"],
+    mexico: ["mx"],
+    ar: ["ar"],
+    argentina: ["ar"],
+    br: ["br"],
+    brasil: ["br"],
+    brazil: ["br"],
+    cl: ["cl", "chile"],
+    chile: ["cl", "chile"],
+    pe: ["pe", "peru"],
+    peru: ["pe", "peru"],
+    ec: ["ec"],
+    ecuador: ["ec"],
+    pa: ["panama"],
+    panama: ["panama"],
+    cr: ["costa-rica"],
+    "costa-rica": ["costa-rica"],
+    gt: ["guatemala"],
+    guatemala: ["guatemala"],
+    do: ["dominican_republic"],
+    "dominican-republic": ["dominican_republic"],
+    dominican_republic: ["dominican_republic"],
+    sv: ["el-salvador"],
+    "el-salvador": ["el-salvador"],
+    hn: ["honduras"],
+    honduras: ["honduras"],
+    ni: ["nicaragua"],
+    nicaragua: ["nicaragua"],
+    es: ["spain"],
+    spain: ["spain"],
+    pr: ["puerto-rico"],
+    "puerto-rico": ["puerto-rico"],
+    gq: ["guinea-ecuatorial"],
+    "guinea-ecuatorial": ["guinea-ecuatorial"],
+    uy: ["uruguay"],
+    uruguay: ["uruguay"],
+    py: ["paraguay"],
+    paraguay: ["paraguay"],
+    bo: ["bolivia"],
+    bolivia: ["bolivia"],
+  };
+
+  return aliases[normalized] || (normalized ? [normalized] : []);
+}
+
+function getSubjectPackAliases(subject: string) {
+  const normalized = normalizeSubjectKey(subject);
+  const aliases = new Set([normalized]);
+
+  if (normalized === "matematicas") aliases.add("matematica");
+  if (normalized === "matematica") aliases.add("matematicas");
+  if (normalized === "lectura_critica") {
+    aliases.add("lengua");
+    aliases.add("lenguaje");
+  }
+  if (normalized === "lengua" || normalized === "lenguaje") {
+    aliases.add("lectura_critica");
+  }
+
+  return Array.from(aliases).filter(Boolean);
+}
+
 function getCurrentWeek() {
   const elapsed = Math.max(0, Date.now() - ANCHOR_DATE_MS);
   const week = Math.ceil(elapsed / ONE_WEEK_MS);
   return ((week - 1) % 52) + 1;
+}
+
+function normalizePackOption(option: any) {
+  const rawText = String(option?.text || "");
+  const feedbackMatch = rawText.match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/);
+  return {
+    ...option,
+    text: rawText.replace(/<!--\s*feedback:[\s\S]*?-->/, "").trim(),
+    feedback: String(option?.feedback || feedbackMatch?.[1] || "").trim(),
+  };
+}
+
+function normalizePackQuestion(question: any) {
+  if (!Array.isArray(question?.options)) return question;
+  return {
+    ...question,
+    options: question.options.map(normalizePackOption),
+  };
 }
 
 async function fetchUpstreamJson(
@@ -79,15 +164,23 @@ async function fetchSameOriginPackJson(
   locals?: any,
 ): Promise<Response | null> {
   const subjectKey = normalizeSubjectKey(subject || "matematicas");
-  const countryPrefix = country ? `${country.toLowerCase()}-` : "";
+  const subjectAliases = getSubjectPackAliases(subjectKey);
+  const countryPrefixes = getCountryPackPrefixes(country || "");
+  const weekCandidates = [getCurrentWeek(), 1];
+  const candidates: string[] = [];
 
-  const candidates = [
-    `/api/packs/${countryPrefix}week-${getCurrentWeek()}-grade-${grade}-subject-${subjectKey}.json`,
-    `/api/packs/${countryPrefix}week-1-grade-${grade}-subject-${subjectKey}.json`,
-    // Fallback to legacy non-prefixed paths (usually Colombia)
-    `/api/packs/week-${getCurrentWeek()}-grade-${grade}-subject-${subjectKey}.json`,
-    `/api/packs/week-1-grade-${grade}-subject-${subjectKey}.json`,
-  ];
+  for (const week of weekCandidates) {
+    for (const subjectAlias of subjectAliases) {
+      for (const prefix of countryPrefixes) {
+        candidates.push(
+          `/api/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`,
+        );
+      }
+      candidates.push(
+        `/api/packs/week-${week}-grade-${grade}-subject-${subjectAlias}.json`,
+      );
+    }
+  }
 
   // 1. Try using Cloudflare's local ASSETS binding (highly recommended in production)
   let cfEnv = null;
@@ -330,7 +423,9 @@ export const GET: APIRoute = async ({ request, locals }) => {
       const pageSize = 10;
       const startIndex = (page - 1) * pageSize;
       const visibleQuestions = filterQuarantinedQuestions(
-        packQuestions.slice(startIndex, startIndex + pageSize),
+        packQuestions
+          .slice(startIndex, startIndex + pageSize)
+          .map(normalizePackQuestion),
       );
 
       return buildJsonResponse(

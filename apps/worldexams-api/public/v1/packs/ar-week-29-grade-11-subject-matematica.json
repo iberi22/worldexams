@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-29-grade-11-subject-matematica",
+    "generated_at": "2026-06-14T23:26:45.848Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que el límite de f(x) cuando x tiende a 'a' es igual a L?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que f(a) es exactamente igual a L.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite describe el comportamiento CERCA del punto, no necesariamente EN el punto."
+        },
+        {
+          "letter": "B",
+          "text": "Que a medida que x se acerca a 'a', los valores de f(x) se acercan arbitrariamente a L.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición intuitiva de límite."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es continua en x = a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una función puede tener límite y no ser continua."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función está definida en x = a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite puede existir incluso si la función no está definida en ese punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de límite se centra en la tendencia de los valores de la función cuando la variable independiente se aproxima a un valor específico, independientemente de lo que suceda exactamente en dicho valor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v2",
+      "statement": "Para que el límite general de f(x) en x = a exista, ¿qué condición deben cumplir los límites laterales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben ser distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si son distintos, el límite general no existe."
+        },
+        {
+          "letter": "B",
+          "text": "Deben existir y ser iguales entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. La igualdad de los límites laterales es la condición necesaria y suficiente para la existencia del límite general."
+        },
+        {
+          "letter": "C",
+          "text": "Uno de ellos debe ser infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si un límite lateral es infinito, el límite general no es un número real finito."
+        },
+        {
+          "letter": "D",
+          "text": "No es necesario que existan los límites laterales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite general depende enteramente de ellos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El límite existe si y solo si el límite por la izquierda (x -> a⁻) y el límite por la derecha (x -> a⁺) tienden al mismo valor numérico L.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor del límite de f(x) = 2x + 5 cuando x → 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el término 2x."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el valor de 2 * 3."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando sustitución directa: 2(3) + 5 = 6 + 5 = 11."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función polinómica, el límite siempre existe y coincide con el valor de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para funciones continuas como las polinómicas, el límite en un punto se puede hallar simplemente evaluando la función en dicho punto (sustitución directa).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v4",
+      "statement": "¿A qué es igual el límite de una constante k cuando x tiende a c?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "c",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite depende de la función, no del punto de tendencia en este caso."
+        },
+        {
+          "letter": "B",
+          "text": "k",
+          "is_correct": true,
+          "feedback": "Correcto. El límite de una constante es la misma constante, ya que su valor no cambia nunca."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sería 0 si k fuera 0."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones constantes tienen límites finitos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como la función constante siempre devuelve el mismo valor k sin importar el valor de x, su tendencia al acercarse a cualquier punto sigue siendo k.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v5",
+      "statement": "Si al intentar evaluar un límite por sustitución directa obtenemos la forma \"0/0\", ¿qué podemos concluir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite es igual a 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0/0 no es 0."
+        },
+        {
+          "letter": "B",
+          "text": "El límite no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas veces el límite existe tras simplificar la expresión."
+        },
+        {
+          "letter": "C",
+          "text": "Es una indeterminación y debemos realizar algún procedimiento algebraico para salvarla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debemos factorizar, racionalizar o usar otras técnicas para hallar el valor real del límite."
+        },
+        {
+          "letter": "D",
+          "text": "El límite es infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Infinito suele surgir de la forma k/0 con k ≠ 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma 0/0 indica que hay un factor común (x - a) en el numerador y el denominador que está causando la anulación. Al simplificarlo, generalmente se obtiene el valor del límite.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor final del límite de (x² - 9) / (x - 3) cuando x tiende a 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la evaluación antes de simplificar."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: (x-3)(x+3). Simplificando con el denominador queda lim (x+3). Evaluando: 3+3 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación final."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe tras salvar la indeterminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la diferencia de cuadrados para factorizar x² - 9 como (x - 3)(x + 3). Al cancelar (x - 3) eliminamos la causa de la indeterminación 0/0.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del límite de f(x) = 1/x cuando x tiende a +∞?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. A medida que el denominador se hace infinitamente grande, el valor de la fracción se acerca cada vez más a cero."
+        },
+        {
+          "letter": "B",
+          "text": "+∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor disminuye, no aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sería 1 si x fuera 1."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe y es 0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividir una constante fija por un número cada vez más grande da como resultado valores cada vez más pequeños, tendiendo al cero como límite.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor del límite de (3x² + 5) / (x² - 2) cuando x → ∞?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si el grado del denominador fuera mayor."
+        },
+        {
+          "letter": "B",
+          "text": "+∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si el grado del numerador fuera mayor."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Al tener el mismo grado, el límite es el cociente de los coeficientes principales: 3 / 1 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "-2,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para límites al infinito de funciones racionales, si los grados del numerador y denominador son iguales, el límite es el cociente de los coeficientes de los términos de mayor grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el comportamiento del límite de f(x) cuando x tiende a 4 por la derecha (x → 4⁺)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+∞",
+          "is_correct": true,
+          "feedback": "Correcto. x - 4 será un número positivo muy pequeño, por lo que 1 dividido ese número tiende a más infinito."
+        },
+        {
+          "letter": "B",
+          "text": "-∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si x tendiera a 4 por la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor se hace muy grande, no muy chico."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al comportamiento asintótico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al acercarnos a 4 desde valores mayores (como 4,001), el denominador es positivo y muy cercano a cero. Una constante positiva sobre algo positivo que tiende a cero resulta en más infinito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el límite de f(x) cuando x tiende a 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de f(2), no el límite."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Límite por izquierda: 2+1=3. Límite por derecha: 2(2)-1=3. Como son iguales, el límite es 3."
+        },
+        {
+          "letter": "C",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque f(2) es distinto, los límites laterales coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación de los tramos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El límite depende de lo que sucede ALREDEDOR de x=2. Como por ambos lados la función se acerca a 3, el límite es 3, independientemente de que f(2) sea 5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor del límite de (√(x + 1) - 1) / x cuando x → 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluación incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por el conjugado (√(x+1)+1): queda (x+1-1) / [x(√(x+1)+1)] = x / [x(√(x+1)+1)] = 1 / (√(x+1)+1). Evaluando en 0: 1 / (1+1) = 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La técnica del conjugado permite salvar la indeterminación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver límites de la forma 0/0 que involucran raíces cuadradas, se utiliza habitualmente la técnica de multiplicar numerador y denominador por el binomio conjugado de la expresión radical.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor del límite fundamental trigonométrico: lim (sen x) / x cuando x → 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sen(0)=0, el límite de la razón es 1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es un límite fundamental demostrado mediante el teorema del emparedado."
+        },
+        {
+          "letter": "C",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe y es la base de muchas derivadas trigonométricas."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está acotada cerca de 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este límite es fundamental en el cálculo infinitesimal. Indica que para ángulos muy pequeños expresados en radianes, el valor del seno es casi idéntico al valor del ángulo mismo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del límite cuando x tiende a infinito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Como el grado del denominador (4) es mayor que el del numerador (3), el denominador crece más rápido y la fracción tiende a cero."
+        },
+        {
+          "letter": "B",
+          "text": "2/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si ambos tuvieran el mismo grado."
+        },
+        {
+          "letter": "C",
+          "text": "+∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador domina la expresión."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a ninguna regla de límites racionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el grado del polinomio del denominador es estrictamente mayor que el del numerador, el límite de la función racional cuando x tiende a infinito es siempre 0.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación de factores."
+        },
+        {
+          "letter": "B",
+          "text": "3/2",
+          "is_correct": true,
+          "feedback": "Correcto. Numerador: (x-1)(x²+x+1). Denominador: (x-1)(x+1). Simplificando: (x²+x+1)/(x+1). Evaluando en 1: (1+1+1)/(1+1) = 3/2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la indeterminación inicial."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de diferencia de cubos para el numerador: a³ - b³ = (a - b)(a² + ab + b²). Luego simplificamos el factor (x - 1) que genera el 0/0.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor de este límite fundamental?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la base tiende a 1, el exponente tiende a infinito, generando una indeterminación 1^∞."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a este límite exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "e (Número de Euler ≈ 2,718)",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una de las definiciones clásicas del número irracional e."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión converge a un valor finito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La indeterminación del tipo 1 elevado a infinito es una de las más importantes y suele resolverse mediante la identificación con el número e o el uso de logaritmos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v16",
+      "statement": "¿Qué ocurre con el límite de |x| / x cuando x tiende a 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite es 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo por la derecha es 1."
+        },
+        {
+          "letter": "B",
+          "text": "El límite es -1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo por la izquierda es -1."
+        },
+        {
+          "letter": "C",
+          "text": "El límite no existe.",
+          "is_correct": true,
+          "feedback": "Correcto. El límite por derecha es 1 y por izquierda es -1. Como son distintos, el límite general no existe."
+        },
+        {
+          "letter": "D",
+          "text": "El límite es 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función nunca vale 0 cerca de 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para x > 0, |x|=x, entonces x/x = 1. Para x < 0, |x|=-x, entonces -x/x = -1. Al no coincidir las tendencias laterales, la función no posee un límite único en el origen.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v17",
+      "statement": "Calculá el valor del límite aplicando la Regla de L'Hôpital (derivando sucesivamente).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere derivar más veces para encontrar el valor real."
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "is_correct": true,
+          "feedback": "Correcto. 1ra deriv: (1-cos x)/3x². 2da deriv: (sen x)/6x. 3ra deriv: (cos x)/6. Evaluando: cos(0)/6 = 1/6."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los coeficientes de las derivadas."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de L'Hôpital permite resolver indeterminaciones 0/0 o ∞/∞ derivando numerador y denominador de forma independiente. En este caso se debió aplicar tres veces.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor del límite de (1 - cos x) / x² cuando x → 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se anula el límite de la razón."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el conjugado (1+cos x) queda sen²x / [x²(1+cos x)]. Como sen²x/x² tiende a 1, queda 1 / (1+1) = 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el límite de sen x / x."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es finito y determinado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este límite es otro de los resultados clásicos del cálculo. Puede resolverse mediante identidades trigonométricas o aplicando la regla de L'Hôpital dos veces.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor del límite? (Sugerencia: usar propiedad de logaritmos y el número e).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se anula la expresión."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. lim ln(1+x)^(1/x) = ln(lim (1+x)^(1/x)) = ln(e) = 1."
+        },
+        {
+          "letter": "C",
+          "text": "e",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite de la base es e, pero falta aplicar el logaritmo neperiano."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un límite determinado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizando la propiedad k * ln(A) = ln(A^k), transformamos la expresión en el logaritmo de la definición del número e. Como ln(e) = 1, el límite es 1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Como sen(1/x) está acotado entre -1 y 1, al multiplicarlo por algo que tiende a 0 (x), el resultado final tiende a 0."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este no es el límite fundamental, aquí el argumento tiende a infinito, no a cero."
+        },
+        {
+          "letter": "C",
+          "text": "No existe por oscilación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sen(1/x) oscila, pero el factor 'x' lo \"aplasta\" hacia el cero."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiende a infinito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos el Teorema del Enfrentamiento: -|x| ≤ x * sen(1/x) ≤ |x|. Como ambos extremos tienden a 0 cuando x tiende a 0, la función central también debe tender forzosamente a 0.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W29-limites-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

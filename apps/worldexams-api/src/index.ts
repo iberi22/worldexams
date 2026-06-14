@@ -70,15 +70,99 @@ function normalizeSubjectKey(subject: string) {
   return aliasMap[normalized] || normalized
 }
 
+function getCountryPackPrefixes(country: string) {
+  const normalized = String(country || "").trim().toLowerCase()
+  const aliases: Record<string, string[]> = {
+    co: ["co"],
+    colombia: ["co"],
+    mx: ["mx"],
+    mexico: ["mx"],
+    ar: ["ar"],
+    argentina: ["ar"],
+    br: ["br"],
+    brasil: ["br"],
+    brazil: ["br"],
+    cl: ["cl"],
+    chile: ["cl", "chile"],
+    pe: ["pe", "peru"],
+    peru: ["pe", "peru"],
+    ec: ["ec"],
+    ecuador: ["ec"],
+    pa: ["panama"],
+    panama: ["panama"],
+    cr: ["costa-rica"],
+    "costa-rica": ["costa-rica"],
+    gt: ["guatemala"],
+    guatemala: ["guatemala"],
+    do: ["dominican_republic"],
+    "dominican-republic": ["dominican_republic"],
+    dominican_republic: ["dominican_republic"],
+    sv: ["el-salvador"],
+    "el-salvador": ["el-salvador"],
+    hn: ["honduras"],
+    honduras: ["honduras"],
+    ni: ["nicaragua"],
+    nicaragua: ["nicaragua"],
+    es: ["spain"],
+    spain: ["spain"],
+    pr: ["puerto-rico"],
+    "puerto-rico": ["puerto-rico"],
+    gq: ["guinea-ecuatorial"],
+    "guinea-ecuatorial": ["guinea-ecuatorial"],
+    uy: ["uruguay"],
+    uruguay: ["uruguay"],
+    py: ["paraguay"],
+    paraguay: ["paraguay"],
+    bo: ["bolivia"],
+    bolivia: ["bolivia"],
+  }
+
+  return aliases[normalized] || (normalized ? [normalized] : [])
+}
+
+function getSubjectPackAliases(subject: string) {
+  const normalized = normalizeSubjectKey(subject)
+  const aliases = new Set([normalized])
+
+  if (normalized === "matematicas") {
+    aliases.add("matematica")
+  }
+  if (normalized === "matematica") {
+    aliases.add("matematicas")
+  }
+  if (normalized === "lectura_critica") {
+    aliases.add("lengua")
+    aliases.add("lenguaje")
+  }
+  if (normalized === "lengua" || normalized === "lenguaje") {
+    aliases.add("lectura_critica")
+  }
+
+  return Array.from(aliases).filter(Boolean)
+}
+
 function getCurrentWeek() {
   const elapsed = Math.max(0, Date.now() - ANCHOR_DATE_MS)
   const week = Math.ceil(elapsed / ONE_WEEK_MS)
   return ((week - 1) % 52) + 1
 }
 
+function normalizePackOption(option: any) {
+  const rawText = String(option?.text || "")
+  const feedbackMatch = rawText.match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/)
+  return {
+    ...option,
+    text: rawText.replace(/<!--\s*feedback:[\s\S]*?-->/, "").trim(),
+    feedback: String(option?.feedback || feedbackMatch?.[1] || "").trim(),
+  }
+}
+
 function normalizePackQuestion(question: any) {
   if (Array.isArray(question?.options) && question.options.length >= 2) {
-    return question
+    return {
+      ...question,
+      options: question.options.map(normalizePackOption),
+    }
   }
 
   const rawStatement = String(question?.statement || "")
@@ -94,7 +178,7 @@ function normalizePackQuestion(question: any) {
     if (hasMarker) markedCorrectOption = letter
     const isCorrect = hasMarker || (!markedCorrectOption && String(question?.correct_answer || "").toUpperCase() === letter)
     const text = rawText.replace(/\s*\[x\]\s*$/i, "").replace(/\n+/g, " ").trim()
-    options.push({ letter, text, is_correct: isCorrect })
+    options.push(normalizePackOption({ letter, text, is_correct: isCorrect }))
   }
 
   const cleanedStatement = rawStatement
@@ -121,10 +205,19 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const subject = normalizeSubjectKey(url.searchParams.get("subject") || "matematicas")
   const page = Math.max(1, parseInt(url.searchParams.get("page") || "1", 10) || 1)
   const pageSize = 10
-  const candidates = [
-    `/v1/packs/week-${getCurrentWeek()}-grade-${grade}-subject-${subject}.json`,
-    `/v1/packs/week-1-grade-${grade}-subject-${subject}.json`,
-  ]
+  const subjectAliases = getSubjectPackAliases(subject)
+  const countryPrefixes = getCountryPackPrefixes(country)
+  const weekCandidates = [getCurrentWeek(), 1]
+  const candidates: string[] = []
+
+  for (const week of weekCandidates) {
+    for (const subjectAlias of subjectAliases) {
+      for (const prefix of countryPrefixes) {
+        candidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
+      }
+      candidates.push(`/v1/packs/week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
+    }
+  }
 
   for (const path of candidates) {
     const assetResponse = await env.ASSETS.fetch(new Request(new URL(path, url.origin).toString(), {

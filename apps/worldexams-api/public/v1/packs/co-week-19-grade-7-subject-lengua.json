@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-7-subject-lengua",
+    "generated_at": "2026-06-14T23:26:45.862Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué par de palabras son sinónimos adecuados para referirse a una vivienda en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apartamento - Garaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El garaje es una parte de la vivienda, no un sinónimo de ella."
+        },
+        {
+          "letter": "B",
+          "text": "Casa - Hogar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambas palabras se refieren al lugar donde vive una persona o familia."
+        },
+        {
+          "letter": "C",
+          "text": "Edificio - Parque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son lugares totalmente diferentes en una ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Habitación - Ventana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ventana es un elemento de la habitación, no su sinónimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sinónimos permiten variar el léxico. \"Casa\" se refiere más a la construcción física y \"hogar\" tiene una connotación más afectiva y familiar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el antónimo correcto de la palabra \"efímero\" (que dura poco tiempo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Breve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Breve\" es un sinónimo de efímero."
+        },
+        {
+          "letter": "B",
+          "text": "Duradero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es lo opuesto a algo que pasa rápidamente."
+        },
+        {
+          "letter": "C",
+          "text": "Rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se relaciona con la velocidad, no necesariamente con la duración total."
+        },
+        {
+          "letter": "D",
+          "text": "Pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al tamaño, no al tiempo de duración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender las oposiciones temporales ayuda a describir procesos y situaciones con mayor precisión en los textos narrativos y científicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v3",
+      "statement": "En la frase: \"La selección Colombia realizó una **operación** exitosa para recuperar el balón\", ¿por qué palabra podrías sustituir \"operación\" sin cambiar el sentido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cirugía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un tipo de operación, en el contexto deportivo no tiene sentido médico."
+        },
+        {
+          "letter": "B",
+          "text": "Suma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a una operación matemática, no aplicable al fútbol."
+        },
+        {
+          "letter": "C",
+          "text": "Maniobra.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En este contexto se refiere a una acción o movimiento táctico de los jugadores."
+        },
+        {
+          "letter": "D",
+          "text": "Negocio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se habla de una transacción comercial en ese momento del juego."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sinonimia contextual exige analizar el campo semántico. En el deporte, \"operación\" o \"maniobra\" se refieren a tácticas colectivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v4",
+      "statement": "Si el antónimo de \"frío\" es \"caliente\", ¿qué palabra representa un punto intermedio en la escala de temperatura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gélido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un grado extremo de frío, no un punto intermedio."
+        },
+        {
+          "letter": "B",
+          "text": "Tibio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el término que se encuentra entre los dos extremos de la escala."
+        },
+        {
+          "letter": "C",
+          "text": "Hirviendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un grado extremo de calor."
+        },
+        {
+          "letter": "D",
+          "text": "Helado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es sinónimo de gélido o muy frío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los antónimos graduales son importantes para describir sensaciones con matices, evitando caer en simplificaciones extremas (blanco o negro).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v5",
+      "statement": "Considera la palabra **cuerda**. ¿En cuál de las siguientes oraciones su sinónimo adecuado sería \"sensata\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El escalador revisó que la cuerda estuviera firme antes de subir a la Sierra Nevada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se refiere a un objeto físico (soga)."
+        },
+        {
+          "letter": "B",
+          "text": "A pesar de la crisis, ella se mantuvo cuerda y tomó las mejores decisiones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se refiere a tener juicio o salud mental, por lo que \"sensata\" es el sinónimo correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Tienes que darle cuerda al reloj antiguo de tu abuelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un mecanismo de energía mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "Esa guitarra necesita una cuerda nueva para sonar bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un elemento de un instrumento musical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de la polisemia es fundamental para la comprensión lectora, ya que una misma palabra puede pertenecer a categorías gramaticales o campos semánticos muy distintos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los siguientes pares representa una antonimia de tipo **recíproco**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto - Bajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos graduales (hay personas de estatura media)."
+        },
+        {
+          "letter": "B",
+          "text": "Vivo - Muerto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos complementarios (uno excluye al otro)."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar - Vender.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para que alguien compre, necesariamente otra persona debe vender; una acción requiere la otra."
+        },
+        {
+          "letter": "D",
+          "text": "Luz - Oscuridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente se consideran complementarios o graduales según el contexto físico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los antónimos recíprocos definen relaciones sociales o comerciales. Otros ejemplos son profesor-alumno, padre-hijo, dar-recibir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v7",
+      "statement": "En la oración: \"El científico **hizo** un descubrimiento asombroso\", ¿por qué verbo más preciso podrías sustituir \"hizo\" para mejorar el estilo del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabricó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un descubrimiento no se fabrica como un objeto industrial."
+        },
+        {
+          "letter": "B",
+          "text": "Realizó.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un verbo de acción más formal y preciso para el contexto científico."
+        },
+        {
+          "letter": "C",
+          "text": "Cocinó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se usaría en lenguaje figurado o coloquial de forma inadecuada aquí."
+        },
+        {
+          "letter": "D",
+          "text": "Puso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otro verbo \"baúl\" que no aporta precisión al tipo de logro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos \"baúl\" (hacer, tener, poner, decir) deben ser reemplazados en textos académicos por verbos con mayor carga semántica (efectuar, poseer, colocar, manifestar).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v8",
+      "statement": "¿Qué grupo de palabras forma sus antónimos utilizando únicamente prefijos de negación (in-, des-, i-)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lindo, Grande, Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus antónimos son palabras diferentes (feo, pequeño, débil)."
+        },
+        {
+          "letter": "B",
+          "text": "Salir, Entrar, Subir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usan prefijos para oponerse."
+        },
+        {
+          "letter": "C",
+          "text": "Creíble, Peinar, Legal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Increíble, Despeinar, Ilegal."
+        },
+        {
+          "letter": "D",
+          "text": "Bueno, Malo, Justo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bueno y malo son raíces diferentes; justo sí usa prefijo (injusto), pero el grupo no es homogéneo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La formación de antónimos por prefijación es un mecanismo morfológico muy productivo que permite ampliar el léxico de manera lógica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v9",
+      "statement": "Analiza la siguiente situación: Un periodista escribe que un político fue \"sentenciado\" por sus opiniones. El editor le sugiere cambiar la palabra por \"criticado\". ¿Por qué es importante este cambio de sinónimo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque \"sentenciado\" es una palabra muy larga y difícil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de la palabra no es el problema principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque \"sentenciado\" solo se puede usar para hablar de deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa principalmente en el ámbito judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque \"sentenciado\" implica una condena judicial legal, mientras que \"criticado\" se refiere a una opinión negativa de la sociedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usar \"sentenciado\" podría ser una difamación si no hubo un juicio real."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ambas palabras significan exactamente lo mismo y el editor solo quiere molestar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen significados legales y sociales muy distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La precisión léxica es una responsabilidad ética en el lenguaje. Confundir procesos legales con opiniones sociales puede cambiar totalmente la interpretación de una noticia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle-v10",
+      "statement": "En los versos de un poema colombiano: \"Es un **hielo abrasador**, es un **fuego helado**\", ¿qué efecto producen los antónimos resaltados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir al lector para que no entienda el poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía busca expresar sentimientos complejos, no confundir por error."
+        },
+        {
+          "letter": "B",
+          "text": "Crear una contradicción (oxímoron) que expresa la intensidad y confusión del sentimiento amoroso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al unir palabras opuestas se genera una imagen poética potente que describe algo que parece imposible."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el autor no sabe el significado correcto de las palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un uso deliberado y magistral del lenguaje figurado."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que el clima en Colombia es muy variable y cambia de frío a calor rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metáfora sobre el amor, no un reporte meteorológico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura utiliza las propiedades del lenguaje, como la antonimia, para expandir los límites del significado y evocar emociones que las palabras simples no alcanzan a describir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W19-sinonimos-antonimos-contexto-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-35-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.897Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el desarrollo correcto del binomio $(x + y)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término del doble producto."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 2xy + y^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el desarrollo clásico de un trinomio cuadrado perfecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 2xy + y^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el desarrollo de (x-y)^2."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 2y$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuadrado de un binomio sigue la regla: el cuadrado del primero, más el doble producto del primero por el segundo, más el cuadrado del segundo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v2",
+      "statement": "En el Triángulo de Pascal, ¿cuáles son los coeficientes que corresponden al desarrollo de un binomio elevado a la potencia 3 ($n=3$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos corresponden a n=2."
+        },
+        {
+          "letter": "B",
+          "text": "1, 3, 3, 1",
+          "is_correct": true,
+          "feedback": "Correcto. La cuarta fila del triángulo (para n=3) contiene estos valores."
+        },
+        {
+          "letter": "C",
+          "text": "1, 4, 6, 4, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos corresponden a n=4."
+        },
+        {
+          "letter": "D",
+          "text": "1, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Triángulo de Pascal proporciona los coeficientes binomiales. Para $n=3$, los coeficientes son $\\binom{3}{0}, \\binom{3}{1}, \\binom{3}{2}, \\binom{3}{3}$, que equivalen a 1, 3, 3, 1.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v3",
+      "statement": "En el desarrollo de $(a + b)^n$, ¿cuántos términos tiene el resultado final después de simplificar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$n + 1$ términos",
+          "is_correct": true,
+          "feedback": "Correcto. Un binomio elevado a la n siempre genera n+1 términos en su expansión."
+        },
+        {
+          "letter": "C",
+          "text": "$n - 1$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$2n$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por el Teorema del Binomio, los términos van desde $\\binom{n}{0}$ hasta $\\binom{n}{n}$, lo que suma un total de $n+1$ términos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el desarrollo de $(x - 1)^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 - 3x^2 + 3x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Los signos alternan en un binomio resta: +, -, +, -. Los coeficientes son 1, 3, 3, 1."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 3x^2 + 3x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el desarrollo de (x+1)^3."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 - x^2 + x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan los coeficientes binomiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. Sustituyendo $a=x$ y $b=1$: $x^3 - 3x^2(1) + 3x(1)^2 - 1^3 = x^3 - 3x^2 + 3x - 1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v5",
+      "statement": "En el desarrollo de $(x + 2)^4$, ¿cuál es el coeficiente del término que contiene a $x^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el coeficiente binomial, falta multiplicar por la potencia de 2."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. El término es \\binom{4}{1} * x^3 * 2^1 = 4 * x^3 * 2 = 8x^3."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término general es $T_{k+1} = \\binom{n}{k} a^{n-k} b^k$. Para $x^3$, $n-k=3 \\rightarrow k=1$. El coeficiente es $\\binom{4}{1} \\cdot 2^1 = 4 \\cdot 2 = 8$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la suma de todos los coeficientes del desarrollo de $(x + y)^5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los coeficientes se obtiene evaluando el binomio en x=1, y=1: (1+1)^5 = 2^5 = 32."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la suma de coeficientes de cualquier polinomio, sustituimos las variables por 1. En este caso: $(1+1)^5 = 2^5 = 32$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v7",
+      "statement": "Determina el tercer término del desarrollo de $(2x + 3)^4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "216x^2",
+          "is_correct": true,
+          "feedback": "Correcto. T_3 = \\binom{4}{2} * (2x)^2 * (3)^2 = 6 * 4x^2 * 9 = 216x^2."
+        },
+        {
+          "letter": "C",
+          "text": "96x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "432x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos $T_{k+1}$ con $k=2$: $\\binom{4}{2} (2x)^{4-2} (3)^2 = 6 \\cdot (4x^2) \\cdot 9 = 216x^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v8",
+      "statement": "En la expansión de $(a^2 + b^3)^n$, ¿cómo se comportan los exponentes de $a$ y $b$ término a término?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos aumentan.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos disminuyen.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Los exponentes de 'a' disminuyen de 2 en 2, mientras los de 'b' aumentan de 3 en 3.",
+          "is_correct": true,
+          "feedback": "Correcto. Los exponentes del primer término bajan (multiplicados por su potencia original) y los del segundo suben."
+        },
+        {
+          "letter": "D",
+          "text": "Se mantienen constantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En $(x+y)^n$, el exponente de $x$ baja y el de $y$ sube. Como aquí son $a^2$ y $b^3$, los cambios son múltiplos de 2 y 3 respectivamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v9",
+      "statement": "Calcula el término central del desarrollo de $(x + 2y)^6$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20x^3y^3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar el coeficiente 2 a la potencia 3."
+        },
+        {
+          "letter": "B",
+          "text": "160x^3y^3",
+          "is_correct": true,
+          "feedback": "Correcto. T_4 = \\binom{6}{3} * x^3 * (2y)^3 = 20 * x^3 * 8y^3 = 160x^3y^3."
+        },
+        {
+          "letter": "C",
+          "text": "40x^3y^3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "80x^3y^3",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para $n=6$, el término central es el cuarto ($k=3$). $T_4 = \\binom{6}{3} x^3 (2y)^3 = 20 \\cdot x^3 \\cdot 8y^3 = 160x^3y^3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la relación entre el coeficiente del segundo término y el del penúltimo término en el desarrollo de $(x + y)^n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son recíprocos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Son iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Por la simetría de los coeficientes binomiales, \\binom{n}{1} = \\binom{n}{n-1}."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo es mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El penúltimo es mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los coeficientes binomiales son simétricos respecto al centro del desarrollo: $\\binom{n}{k} = \\binom{n}{n-k}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v11",
+      "statement": "Encuentra el término independiente de $x$ en el desarrollo de $(x + \\frac{1}{x})^4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. El término independiente es cuando los exponentes de x se cancelan (n-k = k => 2k=4 => k=2). T_3 = \\binom{4}{2} * x^2 * (1/x)^2 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el término donde el exponente final de $x$ sea 0. En este caso, $x^{4-k} \\cdot x^{-k} = x^{4-2k}$. Igualando $4-2k=0$, obtenemos $k=2$. El término es $\\binom{4}{2} = 6$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el coeficiente del término $x^2y^2$ en el desarrollo de $(3x - 2y)^4$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "216",
+          "is_correct": true,
+          "feedback": "Correcto. $T_3 = \\binom{4}{2} \\cdot (3x)^2 \\cdot (-2y)^2 = 6 \\cdot 9x^2 \\cdot 4y^2 = 216x^2y^2$."
+        },
+        {
+          "letter": "D",
+          "text": "-216",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al elevar al cuadrado, el signo negativo desaparece."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para $x^2y^2$, $k=2$. El término es $\\binom{4}{2} (3x)^2 (-2y)^2 = 6 \\cdot (9x^2) \\cdot (4y^2) = 216x^2y^2$. El signo es positivo porque $k$ es par.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el quinto término de la expansión de $(a + b)^7$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35a^3b^4",
+          "is_correct": true,
+          "feedback": "Correcto. T_5 (k=4) = \\binom{7}{4} a^(7-4) b^4 = 35a^3b^4."
+        },
+        {
+          "letter": "B",
+          "text": "21a^3b^4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "35a^4b^3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el cuarto término."
+        },
+        {
+          "letter": "D",
+          "text": "7a^6b",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos $T_{k+1}$ con $k=4$: $\\binom{7}{4} a^3 b^4 = 35 a^3 b^4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v14",
+      "statement": "Simplifica el cuarto término del desarrollo de $(\\frac{x}{2} - \\frac{2}{x})^6$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite parte del coeficiente combinatorio del cuarto t?rmino."
+        },
+        {
+          "letter": "B",
+          "text": "-20",
+          "is_correct": true,
+          "feedback": "Correcto. T_4 (k=3) = \\binom{6}{3} * (x/2)^3 * (-2/x)^3 = 20 * (x^3/8) * (-8/x^3) = 20 * (-1) = -20."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo debe ser negativo."
+        },
+        {
+          "letter": "D",
+          "text": "-160",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para $k=3$: $\\binom{6}{3} (\\frac{x}{2})^3 (-\\frac{2}{x})^3 = 20 \\cdot \\frac{x^3}{8} \\cdot \\frac{-8}{x^3} = 20(-1) = -20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v15",
+      "statement": "En el desarrollo de $(1 + x)^n$, si los coeficientes de los términos segundo y tercero son iguales, ¿cuál debe ser el valor de $n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Coeficientes: \\binom{n}{1} y \\binom{n}{2}. n = n(n-1)/2 => 2 = n-1 => n=3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No es posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos $\\binom{n}{1} = \\binom{n}{2} \\rightarrow n = \\frac{n(n-1)}{2} \\rightarrow 1 = \\frac{n-1}{2} \\rightarrow n-1 = 2 \\rightarrow n=3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v16",
+      "statement": "Usa los primeros dos términos del Binomio de Newton para estimar el valor de $(1.02)^5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.10",
+          "is_correct": true,
+          "feedback": "Correcto. (1 + 0.02)^5 \\approx \\binom{5}{0}1^5 + \\binom{5}{1}1^4(0.02) = 1 + 5(0.02) = 1 + 0.10 = 1.10."
+        },
+        {
+          "letter": "B",
+          "text": "1.02",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "1.20",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1.05",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $(1+x)^n$ con $x$ pequeño, $(1+x)^n \\approx 1 + nx$. Aquí: $1 + 5(0.02) = 1 + 0.10 = 1.10$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v17",
+      "statement": "En el desarrollo de $(x + 2)^n$, el tercer término tiene un coeficiente de 112. ¿Cuál es el valor de $n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. T_3 = \\binom{n}{2} * x^(n-2) * 2^2 = 112 => [n(n-1)/2] * 4 = 112 => 2n(n-1) = 112 => n(n-1) = 56 => n=8."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El coeficiente es $4 \\cdot \\binom{n}{2} = 112$. Entonces $\\binom{n}{2} = 28$. La ecuación $\\frac{n(n-1)}{2} = 28 \\rightarrow n(n-1) = 56$ nos da $n=8$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el coeficiente del término $x^2$ en la expansión de Taylor de $(1 - x)^{-1}$ para $|x| < 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. (1-x)^-1 = 1 + x + x^2 + x^3... Todos los coeficientes son 1."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta es una serie geométrica infinita. El desarrollo es $1 + x + x^2 + x^3...$, por lo que el coeficiente de $x^2$ es 1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v19",
+      "statement": "Encuentra el valor de la suma: $\\binom{n}{0} + \\binom{n}{1} + \\binom{n}{2} + ... + \\binom{n}{n}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$2^n$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta suma es equivalente a evaluar (1+1)^n usando el Binomio de Newton."
+        },
+        {
+          "letter": "C",
+          "text": "$2n$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$n!$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de una fila $n$ del Triángulo de Pascal es siempre $2^n$. Se deriva de $(1+1)^n = \\sum_{k=0}^n \\binom{n}{k} 1^{n-k} 1^k = 2^n$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v20",
+      "statement": "En el desarrollo de $(1 + 1)^n$, ¿qué término tiene el coeficiente más grande?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El último.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El término central (o los dos centrales).",
+          "is_correct": true,
+          "feedback": "Correcto. Los coeficientes binomiales crecen hacia el centro del triángulo de Pascal."
+        },
+        {
+          "letter": "D",
+          "text": "Todos son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Debido a la estructura del Triángulo de Pascal, los valores $\\binom{n}{k}$ aumentan hasta alcanzar el centro ($k=n/2$ o aproximado) y luego disminuyen.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

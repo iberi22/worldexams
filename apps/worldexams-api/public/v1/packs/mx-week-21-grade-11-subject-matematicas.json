@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-21-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.888Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v1",
+      "statement": "Dada la función $f(x) = 3x - 5$, determine el valor del límite $\\lim_{x \\to 2} (3x - 5)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor al que tiende x, no el resultado del límite."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Al sustituir directamente x = 2 en la función lineal, obtenemos 3(2) - 5 = 6 - 5 = 1."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el signo de la operación 6 - 5."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el producto de 3 por 2, falta restar la constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones polinomiales, el límite cuando $x$ tiende a un valor $a$ se puede calcular mediante la sustitución directa del valor en la función, ya que estas funciones son continuas en todos los números reales. En este caso, $3(2) - 5 = 1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor del límite de una constante $k$ cuando $x$ tiende a cualquier valor $a$? $\\lim_{x \\to a} k$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite de una constante no depende del valor al que tiende x."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite de una constante solo es cero si la constante es cero."
+        },
+        {
+          "letter": "C",
+          "text": "$k$",
+          "is_correct": true,
+          "feedback": "Correcto. Por propiedad de los límites, el límite de una función constante es la misma constante."
+        },
+        {
+          "letter": "D",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de un límite es un valor numérico o una constante, no la variable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad fundamental de los límites establece que $\\lim_{x \\to a} c = c$. Esto se debe a que el valor de la función no cambia sin importar cuánto se acerque $x$ al valor $a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v3",
+      "statement": "Calcule el valor del siguiente límite: $\\lim_{x \\to -1} (x^2 + 2x + 1)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise la sustitución de x = -1; recuerde que (-1)^2 es 1 positivo."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al sumar los términos: 1 - 2 + 1 no es 2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo x = -1 tenemos: (-1)^2 + 2(-1) + 1 = 1 - 2 + 1 = 0."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique los signos de la operación resultante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al tratarse de una función polinomial (cuadrática), aplicamos la sustitución directa. El valor del límite coincide con el valor de la función en el punto porque la parábola es continua.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v4",
+      "statement": "Si $\\lim_{x \\to a} f(x) = 5$ y $\\lim_{x \\to a} g(x) = -2$, determine el valor de $\\lim_{x \\to a} [f(x) + g(x)]$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el resultado del límite del producto, no de la suma."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una resta del valor negativo en lugar de sumar algebraicamente."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Según las propiedades de los límites, el límite de la suma es la suma de los límites: 5 + (-2) = 3."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar el valor del límite de g(x)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad de la suma de límites establece que $\\lim_{x \\to a} [f(x) + g(x)] = \\lim_{x \\to a} f(x) + \\lim_{x \\to a} g(x)$. Aplicando los valores dados: $5 + (-2) = 3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v5",
+      "statement": "Calcule el límite: $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque 3 es el valor al que tiende x, no es el resultado tras simplificar."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión es (x-3)(x+3)/(x-3). Al simplificar queda x+3. Evaluando en 3: 3+3=6."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite 0/0 es una indeterminación que debe resolverse mediante factorización."
+        },
+        {
+          "letter": "D",
+          "text": "Indefinido",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pesar de que la función no está definida en x=3, el límite sí existe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este límite presenta la forma indeterminada $0/0$. Al factorizar el numerador como una diferencia de cuadrados $(x-3)(x+3)$ y cancelar el factor $(x-3)$, obtenemos una función equivalente para el cálculo del límite.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v6",
+      "statement": "Determine el valor del límite: $\\lim_{x \\to -2} \\frac{x^2 + 5x + 6}{x + 2}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: (x+2)(x+3). Cancelando (x+2) queda x+3. Evaluando en -2: -2+3=1."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituyó el valor de tendencia en lugar de resolver la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al factorizar el trinomio del numerador."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuvo 0 en el numerador pero no resolvió la división por cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sustituir $x = -2$ se obtiene $0/0$. Factorizamos el trinomio $x^2 + 5x + 6$ como $(x+2)(x+3)$. Al simplificar la fracción, el límite se reduce a evaluar $x+3$ en $x=-2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del límite al infinito de la función $f(x) = \\frac{4x + 1}{2x - 5}$? $\\lim_{x \\to \\infty} \\frac{4x + 1}{2x - 5}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grado del numerador y denominador es el mismo, por lo que el límite no es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no crece indefinidamente ya que los grados son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Para límites al infinito de funciones racionales de igual grado, el resultado es el cociente de los coeficientes principales: 4/2 = 2."
+        },
+        {
+          "letter": "D",
+          "text": "-1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor se obtiene de los términos constantes, lo cual no es correcto para límites al infinito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular límites al infinito de funciones racionales, dividimos cada término por la mayor potencia de $x$ presente en el denominador. En este caso, $x^1$. Los términos con $x$ en el denominador tienden a cero, dejando solo el cociente $4/2 = 2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v8",
+      "statement": "Identifique el valor del límite especial: $\\lim_{x \\to \\infty} (1 + \\frac{1}{x})^x$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque 1/x tiende a 0, la potencia crece a infinito, lo que genera una forma indeterminada 1^infinito."
+        },
+        {
+          "letter": "B",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base se acerca a 1, lo que impide que el resultado sea infinito."
+        },
+        {
+          "letter": "C",
+          "text": "$e$",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el límite fundamental que define el número de Euler (e ≈ 2.71828)."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión siempre es mayor que 1 para x positivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El límite $\\lim_{x \\to \\infty} (1 + \\frac{1}{x})^x$ es uno de los límites notables en cálculo y define la base de los logaritmos naturales, el número $e$. Es fundamental en el estudio del crecimiento exponencial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v9",
+      "statement": "Dada la función $f(x) = \\begin{cases} x + 2 & \\text{si } x < 1 \\\\ 4 - x & \\text{si } x \\geq 1 \\end{cases}$, calcule $\\lim_{x \\to 1^-} f(x)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. El límite por la izquierda utiliza la expresión x + 2. Evaluando en 1: 1 + 2 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la variable x en la segunda rama de la función."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de x, no el resultado de la función."
+        },
+        {
+          "letter": "D",
+          "text": "No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite lateral izquierdo sí existe y es finito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los límites laterales se calculan observando la rama de la función correspondiente al lado desde el cual nos aproximamos. Para $x \\to 1^-$, usamos la definición para $x < 1$, que es $x+2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v10",
+      "statement": "Determine $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sin(0)=0, la división por x genera una indeterminación cuyo límite es 1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Este es un límite trigonométrico especial fundamental demostrado mediante el teorema del emparedado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está acotada y no diverge en el origen."
+        },
+        {
+          "letter": "D",
+          "text": "No definido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la división por cero no existe, el límite sí está definido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El límite $\\lim_{x \\to 0} \\frac{\\sin(x)}{x} = 1$ es esencial para derivar funciones trigonométricas. Se puede verificar geométricamente o mediante la regla de L'Hôpital (aunque usualmente se enseña antes de esta).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v11",
+      "statement": "Calcule el siguiente límite utilizando racionalización: $\\lim_{x \\to 0} \\frac{\\sqrt{x+1} - 1}{x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al simplificar después de multiplicar por el conjugado."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por el conjugado (\\sqrt{x+1}+1), el numerador queda x. Al cancelar x con el denominador y evaluar en 0: 1/(\\sqrt{0+1}+1) = 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite 0/0 debe resolverse racionalizando el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió el resultado final durante el proceso de racionalización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un límite con radicales produce $0/0$, se multiplica numerador y denominador por el conjugado de la expresión radical. Esto permite eliminar la raíz del numerador y simplificar el factor que causa la indeterminación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v12",
+      "statement": "Determine el valor de $\\lim_{x \\to \\infty} \\frac{3x^2 - 5x + 2}{x^3 + 4x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Como el grado del denominador (3) es mayor que el del numerador (2), el límite al infinito es 0."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el límite si ambos grados fueran iguales a 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función decrece hacia cero ya que el denominador crece más rápido que el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una relación de coeficientes que resulte en 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En funciones racionales, si el grado del polinomio del denominador es mayor que el del numerador, el denominador crece mucho más rápido para valores de $x$ muy grandes, haciendo que la fracción tienda a cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor de $\\lim_{x \\to 2} \\frac{|x - 2|}{x - 2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el límite por la derecha (x > 2)."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el límite por la izquierda (x < 2)."
+        },
+        {
+          "letter": "C",
+          "text": "No existe",
+          "is_correct": true,
+          "feedback": "Correcto. Los límites laterales son diferentes (1 y -1), por lo tanto, el límite general no existe."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función nunca toma el valor cero cerca de x=2; siempre es 1 o -1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que un límite exista, los límites laterales deben ser iguales. Aquí, si $x > 2$, la expresión es $(x-2)/(x-2) = 1$. Si $x < 2$, es $-(x-2)/(x-2) = -1$. Al ser $1 \\neq -1$, el límite no existe.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v14",
+      "statement": "Evalúe $\\lim_{x \\to 0^+} \\frac{1}{x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. A medida que x se hace pequeño y positivo, 1/x se hace extremadamente grande."
+        },
+        {
+          "letter": "B",
+          "text": "$+\\infty$",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando x tiende a 0 desde valores positivos, el cociente crece sin límite."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el límite por la izquierda (x -> 0-)."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 1 se obtiene solo si x = 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los límites de la forma $k/0$ con $k \\neq 0$ indican una asíntota vertical. El signo del infinito depende del signo de la constante $k$ y del signo al que se aproxima el denominador desde el lado indicado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v15",
+      "statement": "Determine $\\lim_{x \\to 1} \\frac{x^3 - 1}{x^2 - 1}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al simplificar los exponentes."
+        },
+        {
+          "letter": "B",
+          "text": "3/2",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: (x-1)(x^2+x+1) / (x-1)(x+1). Cancelando (x-1) queda (x^2+x+1)/(x+1). Evaluando en 1: (1+1+1)/(1+1) = 3/2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indeterminación 0/0 debe resolverse mediante factorización de diferencia de cubos y cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó los términos intermedios de la factorización del cubo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se utilizan las fórmulas de productos notables: $x^3 - 1 = (x-1)(x^2+x+1)$ y $x^2 - 1 = (x-1)(x+1)$. Tras cancelar el factor común $(x-1)$, la sustitución directa permite hallar el valor del límite.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v16",
+      "statement": "Calcule $\\lim_{x \\to \\infty} \\frac{\\sqrt{4x^2 + 3}}{3x - 1}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada del coeficiente principal del numerador."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "is_correct": true,
+          "feedback": "Correcto. El término dominante en el numerador es sqrt(4x^2) = 2x. El del denominador es 3x. El cociente de dominantes es 2/3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los grados efectivos del numerador y denominador son iguales (grado 1)."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador y denominador crecen a la misma tasa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al evaluar límites al infinito con raíces, identificamos el grado efectivo del término radical. Aquí, $\\sqrt{x^2}$ se comporta como $x$. Al dividir todo entre $x$, los términos menores tienden a cero, dejando $\\sqrt{4}/3 = 2/3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v17",
+      "statement": "Utilice el Teorema del Emparedado (o del Sandwich) para calcular $\\lim_{x \\to 0} x^2 \\sin(\\frac{1}{x})$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió este límite con el límite fundamental sin(x)/x."
+        },
+        {
+          "letter": "B",
+          "text": "No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sin(1/x) oscila, el factor x^2 \"aplasta\" la función hacia un valor específico."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Como -1 <= sin(1/x) <= 1, entonces -x^2 <= x^2 sin(1/x) <= x^2. Como lim x^2 = 0 y lim -x^2 = 0, el límite central debe ser 0."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor x^2 tiende a cero, no a infinito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Teorema del Emparedado es útil cuando una función está acotada entre otras dos que tienden al mismo límite. Dado que el seno siempre está entre -1 y 1, la función completa queda atrapada entre dos parábolas que se cierran en el origen.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v18",
+      "statement": "Determine el valor de $\\lim_{x \\to \\infty} \\frac{\\sin(x)}{x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. El numerador está acotado entre -1 y 1, mientras que el denominador crece indefinidamente. Cualquier número entre [-1, 1] dividido por infinito es 0."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el límite cuando x tiende a 0, no a infinito."
+        },
+        {
+          "letter": "C",
+          "text": "No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sin(x) oscila, al estar dividido por x, la amplitud de la oscilación tiende a cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador nunca permite que la función crezca sin límite."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un caso de una función acotada dividida por una función que diverge. Por la propiedad de límites, el producto de una función que tiende a cero (1/x) por una función acotada (sin x) siempre es cero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v19",
+      "statement": "Calcule el valor del límite: $\\lim_{x \\to 0} (1 + 2x)^{1/x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el resultado si el término fuera (1+x)^(1/x)."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró que el exponente crece más rápido de lo que la base se acerca a 1."
+        },
+        {
+          "letter": "C",
+          "text": "$e^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la propiedad lim (1 + u)^(1/u) = e, aquí u = 2x. Entonces (1+2x)^(1/2x * 2) = [(1+2x)^(1/2x)]^2 -> e^2."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado debe expresarse en términos de la constante de Euler."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este límite es una variante del límite fundamental del número $e$. Mediante un cambio de variable o aplicando logaritmos naturales y la regla de L'Hôpital, se demuestra que el coeficiente de $x$ en la base se convierte en el exponente de $e$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v20",
+      "statement": "Determine $\\lim_{x \\to \\infty} (\\frac{x + 3}{x - 1})^x$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al calcular la diferencia de los términos constantes."
+        },
+        {
+          "letter": "B",
+          "text": "$e^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró la constante del numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$e^4$",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión se puede reescribir como [ (1 + 3/x) / (1 - 1/x) ]^x. El numerador tiende a e^3 y el denominador a e^(-1). El cociente e^3 / e^(-1) = e^4."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al igual que otros límites de esta forma, la base tiende a 1 pero el exponente a infinito, resultando en un valor basado en e."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver límites de la forma $(f(x)/g(x))^x$ que resultan en $1^\\infty$, se puede aplicar la fórmula $e^{\\lim x(f(x)/g(x) - 1)}$. En este caso, $x((x+3)/(x-1) - 1) = x(4/(x-1))$, cuyo límite al infinito es 4. Por lo tanto, el resultado es $e^4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

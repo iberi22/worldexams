@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.882Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición fundamental para que una relación entre dos conjuntos, $A$ y $B$, sea clasificada matemáticamente como una función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los elementos del conjunto $B$ tengan una preimagen en el conjunto $A$.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de función suprayectiva, no la condición básica de función."
+        },
+        {
+          "letter": "B",
+          "text": "Que a cada elemento del conjunto $A$ le corresponda exactamente un único elemento del conjunto $B$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es la definición formal de función: unicidad de la imagen para cada elemento del dominio."
+        },
+        {
+          "letter": "C",
+          "text": "Que el conjunto $A$ y el conjunto $B$ tengan la misma cantidad de elementos.",
+          "is_correct": false,
+          "feedback": "No es necesario que tengan el mismo tamaño; el dominio y el codominio pueden ser distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la relación pueda representarse gráficamente mediante una línea recta que pase por el origen.",
+          "is_correct": false,
+          "feedback": "Esto describe específicamente a una función lineal de proporcionalidad directa, no al concepto general de función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es una regla de correspondencia que asigna a cada elemento del conjunto de partida (dominio) uno y solo un elemento del conjunto de llegada (codominio). La característica clave es la unicidad de la imagen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v2",
+      "statement": "Si se tiene la gráfica de una relación en el plano cartesiano, ¿qué método visual permite determinar de manera rápida si dicha gráfica corresponde a una función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prueba de la recta horizontal.",
+          "is_correct": false,
+          "feedback": "La prueba de la recta horizontal se usa para determinar si una función es inyectiva (uno a uno), no si es función."
+        },
+        {
+          "letter": "B",
+          "text": "Verificar si la gráfica cruza el eje de las abscisas en más de un punto.",
+          "is_correct": false,
+          "feedback": "Esto determinaría la cantidad de raíces o ceros, pero no define si es función o no."
+        },
+        {
+          "letter": "C",
+          "text": "La prueba de la recta vertical.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Si cualquier recta vertical corta a la gráfica en más de un punto, significa que un valor de x tiene más de una imagen, por lo que no es función."
+        },
+        {
+          "letter": "D",
+          "text": "Comprobar si la gráfica es simétrica respecto al eje de las ordenadas.",
+          "is_correct": false,
+          "feedback": "La simetría respecto al eje y define si una función es par, pero no es criterio de existencia de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La prueba de la recta vertical establece que si es posible trazar una línea vertical que toque la gráfica en dos o más puntos, la relación no es una función, ya que violaría el principio de unicidad (un valor de entrada con múltiples salidas).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v3",
+      "statement": "Dada la expresión $f(x) = 2x^2 - 5$, ¿cuál de las siguientes opciones describe correctamente el significado de la letra $x$ en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa el valor de la función o variable dependiente.",
+          "is_correct": false,
+          "feedback": "El valor de la función está representado por f(x) o y, no por la x aislada."
+        },
+        {
+          "letter": "B",
+          "text": "Representa la variable independiente o elemento del dominio.",
+          "is_correct": true,
+          "feedback": "Correcto. x es el argumento de la función, el valor que ingresa al proceso para obtener un resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Es una constante que determina la pendiente de la función.",
+          "is_correct": false,
+          "feedback": "x es una variable, no una constante. Las constantes son valores fijos como el 2 o el -5."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la función es siempre positiva para cualquier valor real.",
+          "is_correct": false,
+          "feedback": "La variable x por sí sola no indica el signo de la salida de la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la notación $f(x)$, $x$ es la variable independiente (entrada), mientras que $f(x)$ representa la variable dependiente (salida) que resulta de aplicar la regla $f$ sobre $x$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v4",
+      "statement": "En el estudio de funciones, ¿cómo se le denomina técnicamente al conjunto de todos los valores de salida posibles que una función puede efectivamente tomar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio.",
+          "is_correct": false,
+          "feedback": "El dominio es el conjunto de valores de entrada, no de salida."
+        },
+        {
+          "letter": "B",
+          "text": "Rango o imagen.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El rango (también llamado imagen o recorrido) es el subconjunto del codominio formado por los valores que la función realmente alcanza."
+        },
+        {
+          "letter": "C",
+          "text": "Asíntota.",
+          "is_correct": false,
+          "feedback": "Una asíntota es una recta a la que la gráfica se aproxima indefinidamente, no es un conjunto de valores."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto vacío.",
+          "is_correct": false,
+          "feedback": "El conjunto vacío no contiene elementos; una función real estándar tiene valores de salida definidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio son los valores permitidos de entrada ($x$), y el rango o imagen son los valores resultantes de salida ($y$ o $f(x)$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v5",
+      "statement": "Si el ingeniero desea conocer la concentración exactamente a las 3 horas ($t=3$), ¿cuál es el valor de $C(3)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo: 3(3^2) - 2(3) + 10 = 3(9) - 6 + 10 = 27 - 6 + 10 = 31."
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al sustituir t=3 obtenemos 3(9) - 6 + 10 = 27 - 6 + 10 = 31."
+        },
+        {
+          "letter": "C",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Error en la resta o suma final. 27 - 6 + 10 es 31, no 37."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Probablemente no elevaste el 3 al cuadrado correctamente o hubo un error de signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una función consiste en sustituir la variable independiente por el valor dado y realizar las operaciones aritméticas respetando la jerarquía: potencias primero, luego multiplicaciones y finalmente sumas/restas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el dominio de la función real $g(x) = \\frac{5}{x - 4}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "No puede ser todo R porque hay un valor que causa una división entre cero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x > 4\\}$.",
+          "is_correct": false,
+          "feedback": "Los valores menores a 4 también son válidos; el único problema es el 4 exacto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq 4\\}$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En una función racional, el denominador no puede ser cero. x-4=0 cuando x=4, por lo que este valor debe excluirse."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq 0\\}$.",
+          "is_correct": false,
+          "feedback": "El cero es un valor válido (g(0) = 5/-4). El problema ocurre cuando el denominador completo se hace cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para funciones racionales (fracciones), el dominio consiste en todos los números reales excepto aquellos que hacen que el denominador sea igual a cero, ya que la división entre cero no está definida en los reales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor resultante de evaluar $f(g(4))$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Calculaste g(f(4)): f(4)=7, g(7)=14. Se pidió f(g(4))."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "¡Correcto! Primero calculamos g(4) = 2(4) = 8. Luego evaluamos f(8) = 8 + 3 = 11."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Revisa los pasos. g(4)=8, f(8)=11."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "7 es el resultado de f(4), pero falta aplicar g o el orden es inverso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la evaluación de funciones compuestas $f(g(x))$, se resuelve de adentro hacia afuera: primero se obtiene el valor de la función interna $g(4)$ y ese resultado se usa como entrada para la función externa $f$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v8",
+      "statement": "Si esta relación se comporta como una función lineal $I(k) = mk$, ¿cuál es el valor de $I(10)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$360",
+          "is_correct": false,
+          "feedback": "Este sería el valor para 8 kg. Para 10 kg se requiere multiplicar 45 por 10."
+        },
+        {
+          "letter": "B",
+          "text": "\\$450",
+          "is_correct": true,
+          "feedback": "¡Correcto! La razón de cambio (precio por kg) es 45. Por lo tanto, I(10) = 45 * 10 = 450."
+        },
+        {
+          "letter": "C",
+          "text": "\\$405",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a 9 kg."
+        },
+        {
+          "letter": "D",
+          "text": "\\$500",
+          "is_correct": false,
+          "feedback": "Revisa la constante de proporcionalidad (45/1 = 45)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A partir de la tabla se identifica la regla de correspondencia. En este caso, $I(k) = 45k$. Evaluar para $k=10$ implica una multiplicación directa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se conoce comúnmente a la función $f(x) = |x|$ y cuál es su característica principal respecto al rango?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función identidad; su rango son todos los reales negativos.",
+          "is_correct": false,
+          "feedback": "La función identidad es f(x)=x. f(x)=|x| es valor absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "Función constante; su rango es siempre cero.",
+          "is_correct": false,
+          "feedback": "No es constante; el valor cambia según x, aunque siempre sea no negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Función valor absoluto; su rango son todos los números reales no negativos ($y \\geq 0$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El valor absoluto de cualquier número real es siempre positivo o cero."
+        },
+        {
+          "letter": "D",
+          "text": "Función cuadrática; su rango es idéntico al de $x^2$.",
+          "is_correct": false,
+          "feedback": "Aunque comparten el rango (y >= 0), f(x)=|x| no es una función cuadrática (polinomio de grado 2)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función valor absoluto transforma cualquier entrada en su magnitud positiva. Gráficamente tiene forma de \"V\" con el vértice en el origen, y su rango está limitado al intervalo $[0, \\infty)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el rango de la función $h(x) = x^2 + 5$ si el dominio son todos los números reales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0, \\infty)$",
+          "is_correct": false,
+          "feedback": "Este sería el rango de f(x)=x^2. Al sumar 5, toda la gráfica se desplaza hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Las funciones cuadráticas con coeficiente principal positivo tienen un valor mínimo, por lo que el rango no es todo R."
+        },
+        {
+          "letter": "C",
+          "text": "$[5, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como x^2 es mínimo 0, el valor más pequeño de h(x) es 0 + 5 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 5]$",
+          "is_correct": false,
+          "feedback": "Esto sería si el coeficiente de x^2 fuera negativo (parábola abriendo hacia abajo)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango se determina analizando los valores posibles de salida. Dado que $x^2 \\geq 0$ para todo $x$ real, entonces $x^2 + 5 \\geq 5$. El valor mínimo es 5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v11",
+      "statement": "Determine el dominio de la función real $f(x) = \\sqrt{2x - 6}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\neq 3$",
+          "is_correct": false,
+          "feedback": "Esto aplica para denominadores, no para raíces cuadradas en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para que la raíz sea real, el radicando debe ser no negativo: 2x - 6 >= 0 => 2x >= 6 => x >= 3."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 3$",
+          "is_correct": false,
+          "feedback": "El valor 3 es permitido, ya que la raíz de cero es cero (un número real válido)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\leq 3$",
+          "is_correct": false,
+          "feedback": "Si x < 3, por ejemplo x=0, el radicando sería negativo (-6), lo cual no da un resultado real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En funciones con raíces de índice par (como la raíz cuadrada), el dominio está restringido a los valores que hacen que el contenido de la raíz (radicando) sea mayor o igual a cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v12",
+      "statement": "A partir de la expresión $y = \\sqrt{4 - x^2}$, identifique correctamente el dominio y el rango de esta función.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio: $[-4, 4]$, Rango: $[0, 4]$",
+          "is_correct": false,
+          "feedback": "El radio es 2, por lo que el dominio es [-2, 2]."
+        },
+        {
+          "letter": "B",
+          "text": "Dominio: $[-2, 2]$, Rango: $[0, 2]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! x^2 no puede exceder a 4, por lo que x está entre -2 y 2. El valor máximo de y es sqrt(4)=2 y el mínimo sqrt(0)=0."
+        },
+        {
+          "letter": "C",
+          "text": "Dominio: $(-\\infty, \\infty)$, Rango: $[0, \\infty)$",
+          "is_correct": false,
+          "feedback": "La función solo está definida donde 4-x^2 >= 0. No es todo R."
+        },
+        {
+          "letter": "D",
+          "text": "Dominio: $[0, 2]$, Rango: $[-2, 2]$",
+          "is_correct": false,
+          "feedback": "Los conceptos de dominio y rango están invertidos o mal calculados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para el dominio: \\$4 - x^2 \\geq 0 \\Rightarrow x^2 \\leq 4 \\Rightarrow |x| \\leq 2 \\Rightarrow -2 \\leq x \\leq 2$. Para el rango: el valor mínimo ocurre en los extremos del dominio ($y=0$) y el máximo en $x=0$ ($y=2$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v13",
+      "statement": "Si un cliente envía un paquete que pesa 3.5 kg, ¿cuál es el costo total del servicio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$70",
+          "is_correct": false,
+          "feedback": "Olvidaste sumar la cuota base de los primeros kg o aplicaste mal la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "\\$100",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como 3.5 > 1, usamos la segunda regla: 50 + 20(3.5 - 1) = 50 + 20(2.5) = 50 + 50 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "\\$120",
+          "is_correct": false,
+          "feedback": "Revisa la resta (3.5 - 1) = 2.5. 20 * 2.5 = 50."
+        },
+        {
+          "letter": "D",
+          "text": "\\$50",
+          "is_correct": false,
+          "feedback": "Este es el costo solo si el paquete pesara 1 kg o menos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones definidas por partes requieren identificar primero en qué intervalo se encuentra el valor de entrada para aplicar la regla de correspondencia correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes funciones se clasifica como una **función par**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "Esta es una función impar, ya que f(-x) = -f(x). Tiene simetría respecto al origen."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 - 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una función es par si f(-x) = f(x). Al elevar (-x)^2 obtenemos x^2, por lo que el valor no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x + 1$",
+          "is_correct": false,
+          "feedback": "No es par ni impar. f(-x) = -x + 1, que no es igual a f(x) ni a -f(x)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{1}{x}$",
+          "is_correct": false,
+          "feedback": "Es una función impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es par si presenta simetría respecto al eje vertical (Y). Algebraicamente, se cumple que $f(x) = f(-x)$ para todo $x$ en su dominio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v15",
+      "statement": "Dada la función $f(x) = -x^2 + 6x$, ¿en qué intervalo de su dominio la función presenta un comportamiento **creciente**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Las parábolas cambian de dirección en su vértice; no pueden ser siempre crecientes."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "En este intervalo, al ser el coeficiente de x^2 negativo, la función está bajando (decreciente)."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice está en x = -b/(2a) = -6/(-2) = 3. Antes del 3, la parábola sube."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 6]$",
+          "is_correct": false,
+          "feedback": "En este intervalo la función sube y luego baja (cruza el vértice)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para una parábola que abre hacia abajo ($a < 0$), la función es creciente desde $-\\infty$ hasta la coordenada $x$ del vértice, y decreciente de ahí en adelante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v16",
+      "statement": "Si $f(x) = x^2 + 2x$, ¿cuál es la expresión simplificada para $f(x+h)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 2x + h$",
+          "is_correct": false,
+          "feedback": "Solo sumaste h al final, no sustituiste x por (x+h) en todos los términos."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + h^2 + 2x + 2h$",
+          "is_correct": false,
+          "feedback": "Olvidaste el término cruzado 2xh que surge al desarrollar el binomio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 2xh + h^2 + 2x + 2h$",
+          "is_correct": true,
+          "feedback": "¡Correcto! f(x+h) = (x+h)^2 + 2(x+h) = x^2 + 2xh + h^2 + 2x + 2h."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 2x + 2h$",
+          "is_correct": false,
+          "feedback": "Desarrollo incompleto de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar $f(x+h)$ implica reemplazar cada instancia de la variable $x$ en la regla original por el binomio $(x+h)$ y luego simplificar los términos resultantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la función $V(x)$ que representa el volumen de la caja resultante en términos de la altura $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(x) = (20 - x)^2 x$",
+          "is_correct": false,
+          "feedback": "Al cortar dos esquinas, se resta x de cada lado, por lo que la base es (20 - 2x)."
+        },
+        {
+          "letter": "B",
+          "text": "$V(x) = (20 - 2x)^2 x$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El largo y ancho de la base son (20 - 2x) y la altura es x. Volumen = base * altura."
+        },
+        {
+          "letter": "C",
+          "text": "$V(x) = 400x - 4x^3$",
+          "is_correct": false,
+          "feedback": "Revisa el desarrollo: (20-2x)^2 * x = (400 - 80x + 4x^2) * x = 400x - 80x^2 + 4x^3."
+        },
+        {
+          "letter": "D",
+          "text": "$V(x) = 20x^2$",
+          "is_correct": false,
+          "feedback": "Esta fórmula no considera el recorte de las esquinas para formar la profundidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La modelación requiere traducir condiciones físicas a expresiones algebraicas. Aquí, el recorte reduce las dimensiones originales en dos veces el valor de $x$ (una por cada extremo).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v18",
+      "statement": "Dada la función $f(x) = \\frac{3x - 1}{x + 2}$ con $x \\neq -2$, ¿cuál es su función inversa $f^{-1}(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x + 2}{3x - 1}$",
+          "is_correct": false,
+          "feedback": "Esto es el recíproco, no la inversa. La inversa requiere despejar x."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{2x + 1}{3 - x}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si y = (3x-1)/(x+2), entonces y(x+2) = 3x-1 => yx + 2y = 3x - 1 => 2y + 1 = 3x - yx => x = (2y+1)/(3-y)."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\frac{3x + 1}{x - 2}$",
+          "is_correct": false,
+          "feedback": "Error en el manejo de signos durante el despeje algebraico."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{2x - 1}{3 + x}$",
+          "is_correct": false,
+          "feedback": "Revisa los signos al trasponer términos de un lado a otro de la igualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la inversa: 1) Escribir $y = f(x)$. 2) Intercambiar $x$ e $y$. 3) Despejar la nueva $y$. Este proceso deshace la operación original de la función.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el dominio de la función real $L(x) = \\log_{10}(x^2 - 9)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Los valores negativos menores a -3 también son válidos porque al elevarlos al cuadrado resultan mayores a 9."
+        },
+        {
+          "letter": "B",
+          "text": "$[-3, 3]$",
+          "is_correct": false,
+          "feedback": "En este intervalo x^2 - 9 es cero o negativo, y el logaritmo no está definido para esos valores."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -3) \\cup (3, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El argumento del logaritmo debe ser estrictamente mayor a cero: x^2 - 9 > 0 => x^2 > 9 => |x| > 3."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} \\setminus \\{3, -3\\}$",
+          "is_correct": false,
+          "feedback": "No basta con excluir el 3 y -3; los valores intermedios (como x=0) también deben excluirse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de una función logarítmica está restringido a que su argumento sea positivo ($> 0$). Resolver la desigualdad cuadrática resultante define los intervalos permitidos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v20",
+      "statement": "Si la función original es $g(x)$, ¿cuál es la expresión de la nueva función $h(x)$ tras aplicar las tres transformaciones mencionadas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h(x) = g(x + 3) - 2$",
+          "is_correct": false,
+          "feedback": "Falta aplicar la reflexión respecto al eje X (signo negativo externo)."
+        },
+        {
+          "letter": "B",
+          "text": "$h(x) = -g(x + 3) - 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El \"-\" exterior refleja en X, el \"+3\" interno desplaza a la izquierda y el \"-2\" externo desplaza hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "$h(x) = -g(x - 3) + 2$",
+          "is_correct": false,
+          "feedback": "El \"-3\" interno desplaza a la derecha y el \"+2\" desplaza hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "$h(x) = g(-x + 3) - 2$",
+          "is_correct": false,
+          "feedback": "El \"-\" interno refleja respecto al eje Y, no respecto al eje X."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las transformaciones de gráficas se aplican mediante cambios en la ecuación: $-f(x)$ refleja en X, $f(x+c)$ desplaza a la izquierda, y $f(x)-d$ desplaza hacia abajo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

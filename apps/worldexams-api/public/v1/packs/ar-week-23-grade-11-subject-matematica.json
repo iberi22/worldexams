@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-23-grade-11-subject-matematica",
+    "generated_at": "2026-06-14T23:26:45.845Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes fórmulas representa correctamente el Teorema de Bayes para dos eventos A y B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P(A|B) = P(A ∩ B) / P(A)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador debe ser la probabilidad del evento condicionante (B)."
+        },
+        {
+          "letter": "B",
+          "text": "P(A|B) = [P(B|A) * P(A)] / P(B)",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la expresión clásica del Teorema de Bayes."
+        },
+        {
+          "letter": "C",
+          "text": "P(A|B) = P(A) + P(B) - P(A ∩ B)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para la probabilidad de la unión."
+        },
+        {
+          "letter": "D",
+          "text": "P(A|B) = P(B|A) * P(B)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la relación de proporcionalidad correcta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de Bayes permite calcular la probabilidad de un evento A dado que ocurrió B, a partir de la probabilidad de B dado A y las probabilidades marginales de cada evento. Es fundamental para actualizar probabilidades a medida que aparece nueva información.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v2",
+      "statement": "En el Teorema de Bayes, ¿qué representa el término P(A)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Probabilidad condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condicional se escribe con una barra vertical."
+        },
+        {
+          "letter": "B",
+          "text": "Probabilidad a priori",
+          "is_correct": true,
+          "feedback": "Correcto. Representa la creencia o probabilidad inicial antes de conocer nueva evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Probabilidad a posteriori",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad calculada después de aplicar el teorema."
+        },
+        {
+          "letter": "D",
+          "text": "Verosimilitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. La verosimilitud suele asociarse al término P(B|A)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(A) se denomina probabilidad \"a priori\" porque es la probabilidad asignada al evento antes de recolectar nuevos datos o evidencias (como el resultado de un test).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el nombre del teorema que permite calcular la probabilidad total P(B) necesaria para el denominador del Teorema de Bayes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teorema de Pitágoras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese teorema es para triángulos rectángulos."
+        },
+        {
+          "letter": "B",
+          "text": "Teorema de la Probabilidad Total",
+          "is_correct": true,
+          "feedback": "Correcto. Este teorema suma las probabilidades de B a través de una partición del espacio muestral."
+        },
+        {
+          "letter": "C",
+          "text": "Ley de Laplace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ley es para casos equiprobables."
+        },
+        {
+          "letter": "D",
+          "text": "Teorema Central del Límite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este teorema describe la distribución de promedios de muestras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de la Probabilidad Total permite calcular la probabilidad de un evento B sumando las probabilidades de que ocurra B junto con cada uno de los eventos disjuntos que forman el espacio muestral.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v4",
+      "statement": "Si P(Voto | Jóvenes) = 0,6 y P(Voto | Adultos) = 0,8, ¿es posible que la probabilidad total de voto P(Voto) sea 0,9?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, si hay más adultos que jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor total debe estar en el rango de los valores condicionales."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque P(Voto) debe ser un promedio ponderado entre 0,6 y 0,8.",
+          "is_correct": true,
+          "feedback": "Correcto. El valor total nunca puede ser mayor al máximo ni menor al mínimo de las probabilidades condicionadas."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, si la mayoría de la población no vota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene sentido con los datos dados."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de cuántas personas fueron encuestadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción es independiente del tamaño de muestra para este concepto teórico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad total es una suma ponderada: P(B) = Σ P(B|Ai)P(Ai). Matemáticamente, esto implica que el resultado final debe estar comprendido entre el valor mínimo y el máximo de las probabilidades condicionales involucradas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de que una botella elegida al azar tenga una falla en el corcho?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,07",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar las tasas de falla directamente."
+        },
+        {
+          "letter": "B",
+          "text": "0,032",
+          "is_correct": true,
+          "feedback": "Correcto. P(F) = (0,60 * 0,02) + (0,40 * 0,05) = 0,012 + 0,020 = 0,032."
+        },
+        {
+          "letter": "C",
+          "text": "0,035",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el promedio simple, no el ponderado."
+        },
+        {
+          "letter": "D",
+          "text": "0,012",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la probabilidad de falla en la línea 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la probabilidad total: P(Falla) = P(Falla|L1)P(L1) + P(Falla|L2)P(L2). 0,02 * 0,60 + 0,05 * 0,40 = 0,012 + 0,020 = 0,032 (3,2%).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de que esa botella fallada provenga de la Línea 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad a priori de ser de la línea 2."
+        },
+        {
+          "letter": "B",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de falla dado que es de la línea 2."
+        },
+        {
+          "letter": "C",
+          "text": "0,625",
+          "is_correct": true,
+          "feedback": "Correcto. P(L2|F) = P(F|L2)P(L2) / P(F) = 0,020 / 0,032 = 0,625."
+        },
+        {
+          "letter": "D",
+          "text": "0,375",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que provenga de la línea 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicamos el Teorema de Bayes: P(L2|Falla) = P(Falla ∩ L2) / P(Falla). El numerador es 0,05 * 0,40 = 0,020. El denominador es 0,032. 0,020 / 0,032 = 20/32 = 5/8 = 0,625.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la probabilidad total de que el test dé positivo en un paciente elegido al azar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la tasa de verdaderos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "0,18",
+          "is_correct": true,
+          "feedback": "Correcto. P(+) = P(+|A)P(A) + P(+|NA)P(NA) = 0,90*0,10 + 0,10*0,90 = 0,09 + 0,09 = 0,18."
+        },
+        {
+          "letter": "C",
+          "text": "0,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la tasa de falsos positivos o la prevalencia."
+        },
+        {
+          "letter": "D",
+          "text": "0,20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los cálculos ponderados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(+) = (Prob. de positivo si tiene alergia * Prob. de tener alergia) + (Prob. de positivo si no tiene alergia * Prob. de no tener alergia). P(+) = (0,9 * 0,1) + (0,1 * 0,9) = 0,09 + 0,09 = 0,18.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la probabilidad de que el paciente realmente TENGA la alergia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sensibilidad del test."
+        },
+        {
+          "letter": "B",
+          "text": "0,50",
+          "is_correct": true,
+          "feedback": "Correcto. P(A|+) = P(+|A)P(A) / P(+) = 0,09 / 0,18 = 0,50."
+        },
+        {
+          "letter": "C",
+          "text": "0,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad previa a realizar el test."
+        },
+        {
+          "letter": "D",
+          "text": "0,18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad total de dar positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos Bayes: P(Alergia | Positivo) = (0,9 * 0,1) / 0,18 = 0,09 / 0,18 = 0,5. A pesar de que el test parece bueno, solo hay un 50% de probabilidad de tener la alergia tras un positivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la probabilidad de que un barco elegido al azar sea extranjero Y transporte carga peligrosa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad condicionada."
+        },
+        {
+          "letter": "B",
+          "text": "0,20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser extranjero."
+        },
+        {
+          "letter": "C",
+          "text": "0,03",
+          "is_correct": true,
+          "feedback": "Correcto. P(E ∩ P) = P(P|E) * P(E) = 0,15 * 0,20 = 0,03."
+        },
+        {
+          "letter": "D",
+          "text": "0,07",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad total de carga peligrosa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para la intersección de eventos dependientes: P(A ∩ B) = P(A|B) * P(B). La probabilidad de ser extranjero y peligroso es 0,20 * 0,15 = 0,03 (3%).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la probabilidad de que un graduado haya realizado una pasantía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una probabilidad condicional."
+        },
+        {
+          "letter": "B",
+          "text": "0,56",
+          "is_correct": true,
+          "feedback": "Correcto. P(Pas) = 0,80*0,60 + 0,20*0,40 = 0,48 + 0,08 = 0,56."
+        },
+        {
+          "letter": "C",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma ponderada."
+        },
+        {
+          "letter": "D",
+          "text": "0,60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de conseguir empleo rápido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(Pas) = P(Pas | Rápido)P(Rápido) + P(Pas | Lento)P(Lento) = (0,8 * 0,6) + (0,2 * 0,4) = 0,48 + 0,08 = 0,56.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v11",
+      "statement": "Si una queja NO se resolvió en la primera llamada, ¿cuál es la probabilidad de que haya sido atendida por un agente nuevo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad previa."
+        },
+        {
+          "letter": "B",
+          "text": "0,18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que sea nuevo y no resuelva."
+        },
+        {
+          "letter": "C",
+          "text": "0,90",
+          "is_correct": true,
+          "feedback": "Correcto. P(NoR) = 0,05*0,4 + 0,3*0,6 = 0,02 + 0,18 = 0,20. P(Nuevo|NoR) = 0,18 / 0,20 = 0,9."
+        },
+        {
+          "letter": "D",
+          "text": "0,70",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al cálculo de Bayes inverso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calculamos P(No Resuelto) = 0,20. De ese 20%, la parte que corresponde a los agentes nuevos es 0,18 (60% de 30% de fallas). P = 0,18 / 0,20 = 0,9. Es muy probable que si no se resolvió, el agente fuera nuevo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v12",
+      "statement": "Si un cliente tuvo un accidente este año, ¿cuál es la probabilidad de que sea un conductor de bajo riesgo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,50",
+          "is_correct": true,
+          "feedback": "Correcto. P(Acc) = 0,4*0,2 + 0,1*0,8 = 0,08 + 0,08 = 0,16. P(BR|Acc) = 0,08 / 0,16 = 0,5."
+        },
+        {
+          "letter": "B",
+          "text": "0,80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser de bajo riesgo antes de saber del accidente."
+        },
+        {
+          "letter": "C",
+          "text": "0,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de accidente dado que es bajo riesgo."
+        },
+        {
+          "letter": "D",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la fórmula de Bayes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "P(Accidente) = 0,16. Los dos grupos contribuyen con la misma cantidad absoluta de accidentes: 0,08 los de alto riesgo y 0,08 los de bajo riesgo. Por ende, dado que hubo un accidente, hay 50% de probabilidad para cada grupo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la probabilidad de que una pieza elegida al azar NO sea defectuosa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,017",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser defectuosa."
+        },
+        {
+          "letter": "B",
+          "text": "0,983",
+          "is_correct": true,
+          "feedback": "Correcto. P(Def) = 0,5*0,01 + 0,3*0,02 + 0,2*0,03 = 0,005 + 0,006 + 0,006 = 0,017. P(No Def) = 1 - 0,017 = 0,983."
+        },
+        {
+          "letter": "C",
+          "text": "0,95",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el promedio de las tasas de buen estado."
+        },
+        {
+          "letter": "D",
+          "text": "0,99",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplica a la máquina A."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos la probabilidad total de defecto sumando los aportes de cada máquina (0,017). La probabilidad de que no sea defectuosa es el complemento: 1 - 0,017 = 0,983 (98,3%).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál máquina es la que tiene mayor probabilidad de haber producido esa pieza defectuosa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La máquina A",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pesar de producir más, su tasa de error es baja."
+        },
+        {
+          "letter": "B",
+          "text": "Las máquinas B y C por igual",
+          "is_correct": true,
+          "feedback": "Correcto. P(B|Def) = 0,006/0,017 ≈ 0,353 y P(C|Def) = 0,006/0,017 ≈ 0,353. Ambas superan a P(A|Def) = 0,005/0,017 ≈ 0,294."
+        },
+        {
+          "letter": "C",
+          "text": "La máquina C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tiene la tasa más alta, produce menos volumen."
+        },
+        {
+          "letter": "D",
+          "text": "Todas tienen la misma probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La máquina A tiene una probabilidad menor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad a posteriori depende tanto del volumen de producción como de la tasa de error. B y C aportan 0,006 cada una al total de defectos, mientras que A aporta 0,005. Por lo tanto, B y C son las fuentes más probables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v15",
+      "statement": "Si la alarma suena, ¿cuál es la probabilidad de que realmente haya un incendio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,99",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fiabilidad del sensor ante el evento real."
+        },
+        {
+          "letter": "B",
+          "text": "0,09",
+          "is_correct": true,
+          "feedback": "Correcto. P(+) = 0,99*0,001 + 0,01*0,999 ≈ 0,011. P(F|+) = 0,00099 / 0,01098 ≈ 0,09."
+        },
+        {
+          "letter": "C",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los eventos tienen probabilidades de base muy dispares."
+        },
+        {
+          "letter": "D",
+          "text": "0,01",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de falsa alarma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debido a que el incendio es un evento muy raro (0,1%), la mayoría de las veces que la alarma suena se debe al pequeño margen de error (1%) aplicado a la gran cantidad de días sin incendio. P(F|+) ≈ 9%.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v16",
+      "statement": "Si un empleado llegó temprano, ¿cuál es la probabilidad de que NO use bicicleta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,70",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad a priori de no usar bicicleta."
+        },
+        {
+          "letter": "B",
+          "text": "0,28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la intersección P(No Bici y Temprano)."
+        },
+        {
+          "letter": "C",
+          "text": "0,609",
+          "is_correct": true,
+          "feedback": "Correcto. P(T) = 0,6*0,3 + 0,4*0,7 = 0,18 + 0,28 = 0,46. P(NoB|T) = 0,28 / 0,46 ≈ 0,609."
+        },
+        {
+          "letter": "D",
+          "text": "0,391",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que sí use bicicleta dado que llegó temprano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "P(Temprano) = 0,46. El grupo de los que no usan bicicleta aporta más a los \"llegados temprano\" (0,28) que el grupo de los ciclistas (0,18). P = 0,28 / 0,46 = 14/23 ≈ 0,609.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la probabilidad de que la segunda bola sea blanca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el promedio simple de blancas en ambas urnas."
+        },
+        {
+          "letter": "B",
+          "text": "17/28",
+          "is_correct": true,
+          "feedback": "Correcto. P(U1|B1) = (5/7 * 1/2) / (5/7 * 1/2 + 3/7 * 1/2) = 5/8. P(U2|B1) = 3/8. P(B2) = P(B2|U1)P(U1|B1) + P(B2|U2)P(U2|B1) = (5/7 * 5/8) + (3/7 * 3/8) = (25+9)/56 = 34/56 = 17/28."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No refleja la mayor probabilidad de estar en la urna 1."
+        },
+        {
+          "letter": "D",
+          "text": "5/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto supone que estamos seguro en la urna 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al sacar una blanca primero, la probabilidad de estar en la Urna 1 (que tiene más blancas) sube de 0,5 a 0,625. Usamos esa nueva probabilidad para calcular la segunda extracción: (5/7 * 0,625) + (3/7 * 0,375) = 17/28 ≈ 0,607.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v18",
+      "statement": "Si el sistema ACEPTA un acceso, ¿cuál es la probabilidad de que se trate de un impostor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,0000001",
+          "is_correct": true,
+          "feedback": "Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. Es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación."
+        },
+        {
+          "letter": "B",
+          "text": "0,01",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera la proporción de base de clientes legítimos."
+        },
+        {
+          "letter": "C",
+          "text": "0,001",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la tasa de impostores previa."
+        },
+        {
+          "letter": "D",
+          "text": "0,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la alta precisión del sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad de que un acceso aceptado sea de un impostor es bajísima porque: 1) hay pocos impostores (0,1%) y 2) el sistema casi nunca los deja pasar (0,01%). El cálculo formal confirma un valor cercano a una millonésima.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la probabilidad de ganar si decidís CAMBIAR tu elección a la Caja C?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta era la probabilidad inicial."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apertura de la caja vacía por alguien que sabe no reparte las chances 50/50."
+        },
+        {
+          "letter": "C",
+          "text": "2/3",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar, ganás siempre que tu elección inicial haya sido incorrecta, lo cual ocurre el 66,6% de las veces."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio se redujo, la probabilidad debe aumentar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un clásico de Bayes. P(Premio en C | Conductor abre B) = [P(Conductor abre B | C) * P(C)] / P(Cond abre B). Al calcularlo, resulta que la probabilidad de la caja no elegida inicialmente se duplica al abrirse una de las otras.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v20",
+      "statement": "Si tiró el dado y salió un 6, ¿cuál es la probabilidad de que haya sacado una figura del mazo? (Mazo de 52 cartas francesas).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de sacar figura del mazo."
+        },
+        {
+          "letter": "B",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dado normal también puede sacar un 6."
+        },
+        {
+          "letter": "C",
+          "text": "0,473",
+          "is_correct": true,
+          "feedback": "Correcto. P(Fig) = 12/52 = 3/13. P(NoFig) = 10/13. P(6) = (0,5 * 3/13) + (1/6 * 10/13) ≈ 0,1154 + 0,1282 = 0,2436. P(Fig|6) = 0,1154 / 0,2436 ≈ 0,473."
+        },
+        {
+          "letter": "D",
+          "text": "0,11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la intersección de sacar figura y sacar 6."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "P(Figura y 6) = (3/13) * 0,5 ≈ 0,115. P(No Figura y 6) = (10/13) * (1/6) ≈ 0,128. P(Total de 6) ≈ 0,243. Bayes: 0,115 / 0,243 ≈ 0,473. El dado cargado hace que las figuras \"pesen\" casi la mitad de los casos de obtener un 6.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

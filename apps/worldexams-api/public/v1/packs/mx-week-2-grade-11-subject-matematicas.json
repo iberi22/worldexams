@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.880Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "En la expresión algebraica -5x³y², ¿cuál es el coeficiente numérico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "El coeficiente incluye el signo negativo."
+        },
+        {
+          "letter": "B",
+          "text": "-5",
+          "is_correct": true,
+          "feedback": "El coeficiente es el número con su respectivo signo que acompaña a las literales."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Este es el exponente de la literal x."
+        },
+        {
+          "letter": "D",
+          "text": "-5x",
+          "is_correct": false,
+          "feedback": "El coeficiente solo incluye la parte numérica, no las variables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un término algebraico consta de cuatro elementos: signo, coeficiente, literal (base) y exponente. En el término -5x³y², el signo es \"-\", el coeficiente es 5 (tomados juntos como -5), las literales son x e y, y los exponentes son 3 y 2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresión algebraica representa el costo total de comprar \"x\" cuadernos y \"y\" lápices?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 + 5",
+          "is_correct": false,
+          "feedback": "Esto solo suma los precios unitarios, no considera las cantidades."
+        },
+        {
+          "letter": "B",
+          "text": "30xy",
+          "is_correct": false,
+          "feedback": "No se deben multiplicar las variables entre sí ni por la suma de los precios."
+        },
+        {
+          "letter": "C",
+          "text": "25x + 5y",
+          "is_correct": true,
+          "feedback": "Multiplicamos el precio de cada artículo por su cantidad respectiva y los sumamos."
+        },
+        {
+          "letter": "D",
+          "text": "(25+5)(x+y)",
+          "is_correct": false,
+          "feedback": "Esto multiplicaría la suma de los precios por la suma de las cantidades, lo cual es incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para expresar un costo total, multiplicamos el precio unitario de cada producto por la cantidad adquirida de dicho producto. En este caso, 25 pesos por x cuadernos (25x) más 5 pesos por y lápices (5y).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica la expresión algebraica 3x² - 5x + 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monomio",
+          "is_correct": false,
+          "feedback": "Un monomio tiene un solo término."
+        },
+        {
+          "letter": "B",
+          "text": "Binomio",
+          "is_correct": false,
+          "feedback": "Un binomio tiene exactamente dos términos."
+        },
+        {
+          "letter": "C",
+          "text": "Trinomio",
+          "is_correct": true,
+          "feedback": "La expresión tiene tres términos separados por signos de suma o resta."
+        },
+        {
+          "letter": "D",
+          "text": "Término independiente",
+          "is_correct": false,
+          "feedback": "Esto solo se refiere al número que no tiene variable (el 2)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones algebraicas se clasifican por la cantidad de términos: Monomio (1), Binomio (2), Trinomio (3) y Polinomio (en general, pero suele usarse para 4 o más). Dado que 3x², -5x y +2 son tres términos distintos, es un trinomio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "Si el largo del terreno es \"L\" y el ancho es \"A\", ¿cuál es la expresión para el perímetro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L * A",
+          "is_correct": false,
+          "feedback": "Esto representa el área del rectángulo, no el perímetro."
+        },
+        {
+          "letter": "B",
+          "text": "2L + 2A",
+          "is_correct": true,
+          "feedback": "El perímetro es la suma de los cuatro lados: L + L + A + A."
+        },
+        {
+          "letter": "C",
+          "text": "L + A",
+          "is_correct": false,
+          "feedback": "Esto es solo la suma de dos lados (semiperímetro)."
+        },
+        {
+          "letter": "D",
+          "text": "L² + A²",
+          "is_correct": false,
+          "feedback": "Esto se relaciona con el teorema de Pitágoras, no con el perímetro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El perímetro de cualquier figura es la suma de las longitudes de todos sus lados. Un rectángulo tiene dos lados iguales llamados largo y dos lados iguales llamados ancho. Por lo tanto, P = L + L + A + A = 2L + 2A.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "Simplifica la siguiente expresión: 4x² - 3y + 2x² + 7y - 5",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6x⁴ + 4y² - 5",
+          "is_correct": false,
+          "feedback": "Los exponentes no se suman al reducir términos semejantes."
+        },
+        {
+          "letter": "B",
+          "text": "6x² + 4y - 5",
+          "is_correct": true,
+          "feedback": "(4x² + 2x²) = 6x²; (-3y + 7y) = 4y; el -5 se mantiene igual."
+        },
+        {
+          "letter": "C",
+          "text": "10x²y - 5",
+          "is_correct": false,
+          "feedback": "No se pueden sumar términos con diferentes literales (x² y y)."
+        },
+        {
+          "letter": "D",
+          "text": "6x² - 10y - 5",
+          "is_correct": false,
+          "feedback": "Error al operar los signos: -3 + 7 es 4 positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reducir términos semejantes, sumamos o restamos los coeficientes de los términos que tienen exactamente las mismas literales con los mismos exponentes. 4x² y 2x² son semejantes (6x²). -3y y 7y son semejantes (4y). El término constante -5 no tiene semejantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor numérico de la expresión 2a² - 3b + 5 cuando a = 3 y b = -2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "2(3)² - 3(-2) + 5 = 2(9) + 6 + 5 = 18 + 6 + 5 = 29."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Error al no elevar al cuadrado o al manejar los signos negativos."
+        },
+        {
+          "letter": "C",
+          "text": "29",
+          "is_correct": true,
+          "feedback": "2(9) - 3(-2) + 5 = 18 + 6 + 5 = 29."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Error en el orden de las operaciones o en la sustitución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituimos los valores: 2(3)² - 3(-2) + 5. Primero elevamos al cuadrado: 2(9) - 3(-2) + 5. Realizamos las multiplicaciones: 18 + 6 + 5. Finalmente sumamos: 29. Es crucial recordar que menos por menos da más.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "Realiza la multiplicación de los siguientes binomios: (x + 3)(x - 5)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x² - 15",
+          "is_correct": false,
+          "feedback": "Falta el término lineal obtenido al multiplicar los términos medios y extremos."
+        },
+        {
+          "letter": "B",
+          "text": "x² - 2x - 15",
+          "is_correct": true,
+          "feedback": "x*x = x²; x*(-5) = -5x; 3*x = 3x; 3*(-5) = -15. Sumando: x² - 2x - 15."
+        },
+        {
+          "letter": "C",
+          "text": "x² + 2x - 15",
+          "is_correct": false,
+          "feedback": "Error de signo al sumar -5x + 3x."
+        },
+        {
+          "letter": "D",
+          "text": "2x - 2",
+          "is_correct": false,
+          "feedback": "No se realizó la multiplicación correctamente, esto parece una suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la propiedad distributiva (método FOIL): multiplicamos los primeros términos (x \\times x = x²), los externos (x \\times -5 = -5x), los internos (3 \\times x = 3x) y los últimos (3 \\times -5 = -15). Reducimos términos semejantes: -5x + 3x = -2x. El resultado es x² - 2x - 15.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el resultado de dividir (12x⁴ - 8x³ + 4x²) entre 4x²?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3x⁶ - 2x⁵ + 1",
+          "is_correct": false,
+          "feedback": "En la división los exponentes se restan, no se suman."
+        },
+        {
+          "letter": "B",
+          "text": "3x² - 2x + 1",
+          "is_correct": true,
+          "feedback": "12x⁴/4x²=3x²; -8x³/4x²=-2x; 4x²/4x²=1."
+        },
+        {
+          "letter": "C",
+          "text": "3x² - 2x",
+          "is_correct": false,
+          "feedback": "Se olvidó incluir el resultado de 4x² / 4x², que es 1."
+        },
+        {
+          "letter": "D",
+          "text": "8x² - 4x + 0",
+          "is_correct": false,
+          "feedback": "Error al restar los coeficientes en lugar de dividirlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividimos cada término del polinomio por el monomio 4x². Para los coeficientes: 12/4=3, -8/4=-2, 4/4=1. Para las literales, restamos los exponentes: x⁴⁻²=x², x³⁻²=x, x²⁻²=x⁰=1. El resultado es 3x² - 2x + 1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Identifica el grado absoluto del siguiente polinomio: 5x³y⁴ - 2x⁵y + 8x²y⁶",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Este es el grado respecto a la variable x."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Este es el mayor exponente individual de la variable y."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Es la suma de exponentes del primer y segundo término, pero no el mayor."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "El tercer término tiene una suma de exponentes de 2+6=8, que es la mayor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El grado absoluto de un polinomio es el mayor de los grados de sus términos. Calculamos el grado de cada término sumando sus exponentes: T1 (3+4=7), T2 (5+1=6), T3 (2+6=8). El grado absoluto es 8.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "Desarrolla el siguiente binomio al cuadrado: (2x + 3)²",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4x² + 9",
+          "is_correct": false,
+          "feedback": "Falta el término del doble producto del primero por el segundo."
+        },
+        {
+          "letter": "B",
+          "text": "4x² + 12x + 9",
+          "is_correct": true,
+          "feedback": "(2x)² + 2(2x)(3) + 3² = 4x² + 12x + 9."
+        },
+        {
+          "letter": "C",
+          "text": "4x² + 6x + 9",
+          "is_correct": false,
+          "feedback": "El doble producto es 2*2x*3 = 12x, no 6x."
+        },
+        {
+          "letter": "D",
+          "text": "2x² + 12x + 6",
+          "is_correct": false,
+          "feedback": "Error al elevar al cuadrado los términos del binomio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la regla del binomio al cuadrado: (a + b)² = a² + 2ab + b². Aquí a = 2x y b = 3. Por lo tanto: (2x)² = 4x², el doble producto es 2(2x)(3) = 12x, y 3² = 9. Sumando todo: 4x² + 12x + 9.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "Simplifica la siguiente expresión factorizando: (x² - 9) / (x + 3)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x + 3",
+          "is_correct": false,
+          "feedback": "x² - 9 es una diferencia de cuadrados que resulta en (x+3)(x-3). Al dividir por (x+3) queda (x-3)."
+        },
+        {
+          "letter": "B",
+          "text": "x - 3",
+          "is_correct": true,
+          "feedback": "(x+3)(x-3) / (x+3) = x - 3."
+        },
+        {
+          "letter": "C",
+          "text": "x - 9",
+          "is_correct": false,
+          "feedback": "No se puede simplificar restando términos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "x² - 3",
+          "is_correct": false,
+          "feedback": "Error en el proceso de simplificación algebraica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El numerador x² - 9 es una diferencia de cuadrados perfectos. Se factoriza como el producto de binomios conjugados: (x + 3)(x - 3). Al dividir esta expresión por el denominador (x + 3), los términos iguales se cancelan, dejando como resultado x - 3.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la factorización correcta de x² - 10x + 25?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 5)²",
+          "is_correct": false,
+          "feedback": "Esto resultaría en x² + 10x + 25."
+        },
+        {
+          "letter": "B",
+          "text": "(x - 5)²",
+          "is_correct": true,
+          "feedback": "Es un trinomio cuadrado perfecto donde el término medio es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "(x + 5)(x - 5)",
+          "is_correct": false,
+          "feedback": "Esto resultaría en x² - 25."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 10)(x - 2.5)",
+          "is_correct": false,
+          "feedback": "No corresponde a la factorización de un trinomio cuadrado perfecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un trinomio cuadrado perfecto tiene la forma a² ± 2ab + b². Aquí a² = x² (a = x) y b² = 25 (b = 5). El término medio es -10x, que corresponde a -2ab (-2 * x * 5). Por lo tanto, la factorización es (a - b)², es decir, (x - 5)².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v13",
+      "statement": "Factoriza completamente la expresión: 6x³y² - 9x²y³ + 3x²y²",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3xy(2x²y - 3xy² + xy)",
+          "is_correct": false,
+          "feedback": "El factor común puede ser mayor (3x²y²)."
+        },
+        {
+          "letter": "B",
+          "text": "3x²y²(2x - 3y + 1)",
+          "is_correct": true,
+          "feedback": "El Máximo Común Factor es 3x²y²."
+        },
+        {
+          "letter": "C",
+          "text": "3x²y²(2x - 3y)",
+          "is_correct": false,
+          "feedback": "Se olvidó incluir el +1 resultante de dividir el último término por el factor común."
+        },
+        {
+          "letter": "D",
+          "text": "x²y²(6x - 9y + 3)",
+          "is_correct": false,
+          "feedback": "El coeficiente 3 también es un factor común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el Máximo Común Factor (MCF). Para los coeficientes (6, 9, 3) es 3. Para las literales, tomamos el menor exponente: x² y y². El MCF es 3x²y². Dividimos cada término original por este MCF para obtener los términos dentro del paréntesis.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v14",
+      "statement": "Si el área se expresa como el producto de (base * altura), ¿cuáles son las expresiones para el largo y el ancho del jardín?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 10) y (x + 1)",
+          "is_correct": false,
+          "feedback": "El producto es correcto pero la suma daría 11x, no 7x."
+        },
+        {
+          "letter": "B",
+          "text": "(x + 5) y (x + 2)",
+          "is_correct": true,
+          "feedback": "5 * 2 = 10 y 5 + 2 = 7. Cumple con la forma x² + (a+b)x + ab."
+        },
+        {
+          "letter": "C",
+          "text": "(x - 5) y (x - 2)",
+          "is_correct": false,
+          "feedback": "La suma daría -7x y el producto +10."
+        },
+        {
+          "letter": "D",
+          "text": "(x + 7) y (x + 10)",
+          "is_correct": false,
+          "feedback": "Error en la lógica de factorización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorizamos el trinomio de la forma x² + bx + c. Buscamos dos números que multiplicados den 10 (término constante) y sumados den 7 (coeficiente del término lineal). Esos números son 5 y 2. Por tanto, la expresión factorizada es (x + 5)(x + 2).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v15",
+      "statement": "Simplifica la expresión: (2 / x) + (3 / 2x)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 / 2x",
+          "is_correct": false,
+          "feedback": "Error al sumar numeradores sin tener el mismo denominador común."
+        },
+        {
+          "letter": "B",
+          "text": "5 / 3x",
+          "is_correct": false,
+          "feedback": "No se pueden sumar denominadores directamente."
+        },
+        {
+          "letter": "C",
+          "text": "7 / 2x",
+          "is_correct": true,
+          "feedback": "Denominador común es 2x. (4/2x) + (3/2x) = 7/2x."
+        },
+        {
+          "letter": "D",
+          "text": "6 / 2x²",
+          "is_correct": false,
+          "feedback": "Error en el proceso de suma de fracciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar fracciones con distinto denominador, buscamos el mínimo común múltiplo de los denominadores x y 2x, que es 2x. Convertimos la primera fracción: 2/x = 4/2x. Ahora sumamos: 4/2x + 3/2x = 7/2x.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la factorización de la expresión x³ - 8?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x - 2)³",
+          "is_correct": false,
+          "feedback": "El desarrollo de un cubo de un binomio es más complejo."
+        },
+        {
+          "letter": "B",
+          "text": "(x - 2)(x² + 2x + 4)",
+          "is_correct": true,
+          "feedback": "Aplicación correcta de la fórmula a³ - b³ = (a - b)(a² + ab + b²)."
+        },
+        {
+          "letter": "C",
+          "text": "(x - 2)(x² - 2x + 4)",
+          "is_correct": false,
+          "feedback": "El signo del segundo término del trinomio debe ser positivo."
+        },
+        {
+          "letter": "D",
+          "text": "(x + 2)(x² - 2x + 4)",
+          "is_correct": false,
+          "feedback": "Esta es la factorización de x³ + 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula para la diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b²). Aquí a = x y b = 2 (ya que 2³ = 8). Sustituyendo obtenemos: (x - 2)(x² + x(2) + 2²), que simplificado es (x - 2)(x² + 2x + 4).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v17",
+      "statement": "Simplifica totalmente la expresión: [ (x² - 4) / (x² - 4x + 4) ] * [ (x - 2) / (x + 2) ]",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x + 2",
+          "is_correct": false,
+          "feedback": "No es el resultado final tras todas las cancelaciones."
+        },
+        {
+          "letter": "B",
+          "text": "(x - 2) / (x + 2)",
+          "is_correct": false,
+          "feedback": "Error en la simplificación de los términos factorizados."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "[ (x-2)(x+2) / (x-2)² ] * [ (x-2) / (x+2) ] = [ (x+2) / (x-2) ] * [ (x-2) / (x+2) ] = 1."
+        },
+        {
+          "letter": "D",
+          "text": "(x² - 4)",
+          "is_correct": false,
+          "feedback": "Resultado incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Factorizamos todas las partes: x² - 4 = (x - 2)(x + 2) y x² - 4x + 4 = (x - 2)². La expresión queda: [ (x - 2)(x + 2) / (x - 2)² ] * [ (x - 2) / (x + 2) ]. Cancelamos términos arriba y abajo: un (x+2) con un (x+2), y los dos (x-2) de arriba con el (x-2)² de abajo. El resultado final es 1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v18",
+      "statement": "Para que la expresión x² + 12x + k sea un trinomio cuadrado perfecto, ¿cuál debe ser el valor de la constante k?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Se debe elevar a la mitad del coeficiente lineal al cuadrado, no solo dividirlo."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "El valor de k no es igual al coeficiente de x."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Error en el cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": true,
+          "feedback": "(12/2)² = 6² = 36."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para completar un trinomio cuadrado perfecto de la forma x² + bx + c, el valor de c debe ser (b/2)². En este caso, b = 12. Calculamos (12 / 2)² = 6² = 36. Así, x² + 12x + 36 = (x + 6)².\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el residuo de dividir el polinomio P(x) = x³ - 2x² + x - 5 entre (x - 2)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La división no es exacta."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Por el teorema del residuo, evaluamos P(2) = 2³ - 2(2)² + 2 - 5 = 8 - 8 + 2 - 5 = -3."
+        },
+        {
+          "letter": "C",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Error en la evaluación del polinomio."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Error al sustituir el valor en el teorema del residuo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según el Teorema del Residuo, el residuo de dividir un polinomio P(x) entre (x - a) es igual a P(a). En este caso, a = 2. Sustituimos x=2 en x³ - 2x² + x - 5: (2)³ - 2(2)² + (2) - 5 = 8 - 8 + 2 - 5 = -3.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v20",
+      "statement": "Racionaliza el denominador de la siguiente expresión: 1 / (√x - 2)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(√x + 2) / x",
+          "is_correct": false,
+          "feedback": "Al multiplicar el denominador por su conjugado queda x - 4, no x."
+        },
+        {
+          "letter": "B",
+          "text": "(√x + 2) / (x - 4)",
+          "is_correct": true,
+          "feedback": "Multiplicamos arriba y abajo por el conjugado (√x + 2)."
+        },
+        {
+          "letter": "C",
+          "text": "√x + 2",
+          "is_correct": false,
+          "feedback": "Falta el denominador resultante del producto de binomios conjugados."
+        },
+        {
+          "letter": "D",
+          "text": "(√x - 2) / (x + 4)",
+          "is_correct": false,
+          "feedback": "Se usó el signo incorrecto en el conjugado y el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para racionalizar un denominador binomio con raíces cuadradas, multiplicamos tanto el numerador como el denominador por el conjugado del denominador. El conjugado de (√x - 2) es (√x + 2). Numerador: 1 * (√x + 2) = √x + 2. Denominador: (√x - 2)(√x + 2) = (√x)² - 2² = x - 4. El resultado es (√x + 2) / (x - 4).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 100 |\n| Curricular | 100 |\n| Contexto | 100 |\n| Redacción | 100 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

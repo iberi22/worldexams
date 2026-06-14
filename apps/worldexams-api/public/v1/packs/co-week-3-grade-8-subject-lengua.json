@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-3-grade-8-subject-lengua",
+    "generated_at": "2026-06-14T23:26:45.867Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la obra más importante de la épica castellana, cuyo manuscrito conservado fue copiado por Per Abbat en el siglo XIV?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cantar de Roldán",
+          "is_correct": false,
+          "feedback": "Esta es la obra cumbre de la épica francesa, no castellana."
+        },
+        {
+          "letter": "B",
+          "text": "El Cantar de Mio Cid",
+          "is_correct": true,
+          "feedback": "Es el poema épico más antiguo y mejor conservado de la literatura española."
+        },
+        {
+          "letter": "C",
+          "text": "El Cantar de los Nibelungos",
+          "is_correct": false,
+          "feedback": "Es la obra principal de la épica germánica."
+        },
+        {
+          "letter": "D",
+          "text": "La Eneida",
+          "is_correct": false,
+          "feedback": "Es una epopeya latina escrita por Virgilio en la época romana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Cantar de Mio Cid es la piedra angular de la literatura en lengua castellana, narrando el proceso de recuperación del honor del héroe Rodrigo Díaz de Vivar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina el primer cantar de la obra, en el que Rodrigo Díaz de Vivar debe abandonar su tierra por orden del rey Alfonso VI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cantar de las Bodas",
+          "is_correct": false,
+          "feedback": "Este es el segundo cantar, donde las hijas del Cid se casan con los Infantes de Carrión."
+        },
+        {
+          "letter": "B",
+          "text": "Cantar del Destierro",
+          "is_correct": true,
+          "feedback": "Narra la salida del Cid de Vivar y sus primeras victorias contra los moros para ganar riquezas y el favor real."
+        },
+        {
+          "letter": "C",
+          "text": "Cantar de la Afrenta de Corpes",
+          "is_correct": false,
+          "feedback": "Este es el tercer cantar, centrado en el maltrato a las hijas del Cid."
+        },
+        {
+          "letter": "D",
+          "text": "Cantar del Honor Recobrado",
+          "is_correct": false,
+          "feedback": "No es un nombre oficial de las partes del poema, aunque el tema del honor recorre toda la obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Cantar del Destierro establece la situación inicial de conflicto y pérdida de honor (deshonra pública) que motiva todas las acciones posteriores del héroe.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la forma métrica característica de los cantares de gesta castellanos, donde los versos tienen un número variable de sílabas y una pausa central?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuaderna vía",
+          "is_correct": false,
+          "feedback": "La cuaderna vía tiene versos alejandrinos (14 sílabas) fijos, propia del mester de clerecía."
+        },
+        {
+          "letter": "B",
+          "text": "Soneto",
+          "is_correct": false,
+          "feedback": "El soneto es una forma culta de 14 versos endecasílabos que se popularizó en el Renacimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Serie o tirada monorrima asonante",
+          "is_correct": true,
+          "feedback": "Los versos se agrupan en tiradas de extensión variable con la misma rima asonante."
+        },
+        {
+          "letter": "D",
+          "text": "Octavilla real",
+          "is_correct": false,
+          "feedback": "Es una estrofa de ocho versos de arte menor, no usada en la épica medieval."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La métrica irregular (anisosilabismo) y la rima asonante facilitaban la improvisación y la memorización del juglar durante las sesiones de recitación pública.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v4",
+      "statement": "¿Qué acción del Cid demuestra su \"mesura\" tras descubrir que las arcas de arena que entregó a los judíos Raquel y Vidas eran un engaño necesario para financiar su ejército?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Burlarse públicamente de ellos para demostrar su ingenio.",
+          "is_correct": false,
+          "feedback": "El Cid no busca la humillación, sino la supervivencia en una situación desesperada."
+        },
+        {
+          "letter": "B",
+          "text": "Matarlos para que no pudieran reclamar su dinero de vuelta.",
+          "is_correct": false,
+          "feedback": "Esto iría en contra del código de honor del Cid."
+        },
+        {
+          "letter": "C",
+          "text": "Prometer devolverles el dinero con intereses una vez que logre sus conquistas.",
+          "is_correct": true,
+          "feedback": "La mesura implica responsabilidad y la intención de reparar los males causados por la necesidad."
+        },
+        {
+          "letter": "D",
+          "text": "Negar haberlos conocido nunca ante el rey Alfonso.",
+          "is_correct": false,
+          "feedback": "El Cid es honesto con sus acciones, aunque sean astutas por necesidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mesura es la cualidad que diferencia al Cid de otros héroes épicos más impulsivos; representa la madurez y la sabiduría del caballero castellano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función del epíteto épico \"el que en buena hora ciñó espada\" en el contexto de la recitación oral del poema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar que el Cid era un caballero joven que acababa de recibir sus armas.",
+          "is_correct": false,
+          "feedback": "El Cid ya era un guerrero experimentado; la frase alude a su destino heroico."
+        },
+        {
+          "letter": "B",
+          "text": "Informar al público sobre la hora exacta en la que se realizaban las batallas.",
+          "is_correct": false,
+          "feedback": "\"Buena hora\" es una expresión simbólica de buena suerte o destino favorable."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener el ritmo del verso y reforzar la imagen positiva y predestinada del héroe.",
+          "is_correct": true,
+          "feedback": "Estos recursos ayudaban a la sonoridad y a la caracterización constante del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Diferenciar al Cid de los moros, quienes no usaban espadas sino lanzas.",
+          "is_correct": false,
+          "feedback": "Ambos bandos usaban espadas; el epíteto es exclusivo para honrar al protagonista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los epítetos épicos son fórmulas fijas que permiten al juglar \"descansar\" mentalmente mientras prepara el siguiente verso, al tiempo que fijan la identidad del héroe.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función narrativa cumple el contraste entre la actitud del Cid y la de los Infantes de Carrión en el episodio del león?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que el Cid era un experto domador de animales salvajes.",
+          "is_correct": false,
+          "feedback": "El episodio tiene un valor simbólico y moral, no zootécnico."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar por qué los leones eran comunes en la España medieval.",
+          "is_correct": false,
+          "feedback": "No es una lección de historia natural, sino un recurso dramático."
+        },
+        {
+          "letter": "C",
+          "text": "Establecer la superioridad moral y física del héroe frente a la cobardía de los antagonistas.",
+          "is_correct": true,
+          "feedback": "Este hecho justifica el odio posterior de los infantes y la necesidad del juicio final."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los Infantes eran inteligentes al evitar un peligro innecesario.",
+          "is_correct": false,
+          "feedback": "En el código de caballería, esconderse por miedo era una mancha irreparable al honor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este episodio marca el clímax de la caracterización de los personajes: la valentía natural del Cid frente a la nobleza de sangre (pero no de espíritu) de los Infantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo influye el factor económico en la construcción de la figura heroica del Cid en comparación con héroes mitológicos como Aquiles?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que el Cid parezca menos heroico y más interesado en el dinero.",
+          "is_correct": false,
+          "feedback": "Para el público medieval, proveer para los suyos era una virtud fundamental del líder."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el Cid era un comerciante que usaba la guerra como excusa.",
+          "is_correct": false,
+          "feedback": "El Cid es un guerrero; el botín es la consecuencia legal y justa de la victoria."
+        },
+        {
+          "letter": "C",
+          "text": "Le otorga un realismo humano único, presentándolo como un padre y líder responsable.",
+          "is_correct": true,
+          "feedback": "El Cid lucha por el honor, pero sabe que el honor requiere sustento material y protección para los suyos."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el autor del poema era un banquero que quería promover los préstamos.",
+          "is_correct": false,
+          "feedback": "El autor (o autores) refleja la mentalidad de una sociedad de frontera basada en el botín de guerra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El realismo económico es una de las características más originales del Cantar de Mio Cid, bajando al héroe de los altares míticos para convertirlo en un modelo social cercano.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v8",
+      "statement": "¿Qué significado político tiene el segundo matrimonio de las hijas del Cid con los príncipes de los reinos de Navarra y Aragón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Cid quería vengarse de Alfonso VI aliándose con otros reyes.",
+          "is_correct": false,
+          "feedback": "Al contrario, el Cid busca el consentimiento de Alfonso para estos matrimonios."
+        },
+        {
+          "letter": "B",
+          "text": "Que las hijas del Cid no podían vivir sin estar casadas.",
+          "is_correct": false,
+          "feedback": "El matrimonio es una herramienta de ascenso social y alianzas políticas en la época."
+        },
+        {
+          "letter": "C",
+          "text": "El ascenso social definitivo de la familia del Cid, vinculando su linaje con la alta realeza.",
+          "is_correct": true,
+          "feedback": "El héroe pasa de ser un hidalgo desterrado a estar emparentado con los reyes de España."
+        },
+        {
+          "letter": "D",
+          "text": "Un castigo del Rey por los problemas causados con los Infantes de Carrión.",
+          "is_correct": false,
+          "feedback": "Es un premio y un reconocimiento a la valía del Cid."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desenlace del poema confirma el triunfo total del mérito personal sobre la nobleza de sangre heredada, un mensaje poderoso para la sociedad de la época.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v9",
+      "statement": "¿Qué nos revela la comparación \"como la uña de la carne\" sobre la sensibilidad del héroe épico castellano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Cid tenía problemas de salud en las manos por las batallas.",
+          "is_correct": false,
+          "feedback": "Es una metáfora, no una descripción médica."
+        },
+        {
+          "letter": "B",
+          "text": "Que era un hombre rudo que no sabía expresar sus sentimientos con delicadeza.",
+          "is_correct": false,
+          "feedback": "La metáfora es profundamente expresiva y dolorosa."
+        },
+        {
+          "letter": "C",
+          "text": "La profundidad del vínculo afectivo y el dolor físico que le produce la separación familiar.",
+          "is_correct": true,
+          "feedback": "Muestra el lado humano y tierno del guerrero, reforzando la empatía del público."
+        },
+        {
+          "letter": "D",
+          "text": "Que para el Cid, su familia era una herramienta de trabajo similar a sus manos.",
+          "is_correct": false,
+          "feedback": "La metáfora indica unión vital, no utilidad laboral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ternura familiar es otra faceta del realismo del Cantar, humanizando al héroe y elevando el drama personal al nivel del drama bélico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la consecuencia literaria de que los cantares de gesta fueran principalmente orales en su origen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los poemas épicos eran idénticos en todas las regiones de Europa.",
+          "is_correct": false,
+          "feedback": "La oralidad permitía variantes locales y adaptaciones según el público."
+        },
+        {
+          "letter": "B",
+          "text": "Que no se utilizaban figuras retóricas para no confundir a los oyentes.",
+          "is_correct": false,
+          "feedback": "La oralidad tiene sus propias figuras retóricas (paralelismos, epítetos)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de múltiples versiones de un mismo hecho y la pérdida de muchos textos tras el fin del oficio de juglaría.",
+          "is_correct": true,
+          "feedback": "Sin el soporte escrito, la supervivencia dependía de la memoria y la continuidad de los juglares."
+        },
+        {
+          "letter": "D",
+          "text": "Que la literatura medieval era solo para personas ricas que podían pagar a un juglar.",
+          "is_correct": false,
+          "feedback": "Al contrario, la recitación en plazas hacía la literatura accesible a todo el pueblo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oralidad define la estructura, el estilo y la precaria conservación de la épica medieval, marcando una diferencia fundamental con la literatura de autor moderna.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v11",
+      "statement": "¿Qué visión de la frontera y de la Reconquista nos ofrece el Cantar de Mio Cid, más allá de la lucha religiosa simplista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no había diferencias entre cristianos y musulmanes en la Edad Media.",
+          "is_correct": false,
+          "feedback": "Las diferencias existían y eran el motor del conflicto, pero el poema muestra matices."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Cid era un traidor a la fe cristiana por tener amigos moros.",
+          "is_correct": false,
+          "feedback": "El Cid es el campeón del cristianismo, pero actúa con pragmatismo y respeto feudal."
+        },
+        {
+          "letter": "C",
+          "text": "Una realidad compleja de alianzas políticas, respeto personal y convivencia en un territorio en disputa.",
+          "is_correct": true,
+          "feedback": "El respeto mutuo entre el Cid y Abengalbón muestra un código de caballería que cruzaba fronteras religiosas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la guerra era solo por el control de la agricultura en Valencia.",
+          "is_correct": false,
+          "feedback": "La agricultura era importante, pero el honor y el territorio eran los motivos principales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Cantar refleja una \"sociedad de frontera\" donde las relaciones personales y el valor guerrero a veces superaban las barreras ideológicas o religiosas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué el autor del Cantar incluiría un episodio tan cruel y aparentemente ajeno a las batallas como la Afrenta de Corpes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para llenar espacio porque el poema era demasiado corto.",
+          "is_correct": false,
+          "feedback": "El poema ya es extenso; cada episodio cumple una función estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Porque le gustaba la violencia gratuita para atraer a más público.",
+          "is_correct": false,
+          "feedback": "La violencia tiene una justificación moral y legal en la trama."
+        },
+        {
+          "letter": "C",
+          "text": "Para trasladar el conflicto del ámbito bélico al ámbito familiar y legal, permitiendo la apoteosis final del héroe en las Cortes.",
+          "is_correct": true,
+          "feedback": "La deshonra familiar es necesaria para que el Cid demuestre su valor como hombre de leyes, no solo como guerrero."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que viajar por los bosques de Soria era muy peligroso en el siglo XII.",
+          "is_correct": false,
+          "feedback": "No es una advertencia de viaje, sino un conflicto de honor entre linajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura del Cantar es una doble curva de pérdida y recuperación del honor: primero el honor político y luego el honor familiar, logrando una victoria completa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

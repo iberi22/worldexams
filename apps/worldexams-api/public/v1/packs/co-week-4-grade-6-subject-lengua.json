@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-6-subject-lengua",
+    "generated_at": "2026-06-14T23:26:45.857Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el medio principal a través del cual se transmite el mensaje en la comunicación oral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El papel y la tinta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la comunicación escrita."
+        },
+        {
+          "letter": "B",
+          "text": "Las ondas sonoras que viajan por el aire.",
+          "is_correct": true,
+          "feedback": "Correcto. La comunicación oral utiliza sonidos articulados que se transmiten físicamente a través de ondas sonoras."
+        },
+        {
+          "letter": "C",
+          "text": "El código Morse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sistema de señales, no es comunicación oral directa."
+        },
+        {
+          "letter": "D",
+          "text": "Las imágenes y colores de una cartelera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es comunicación visual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comunicación oral se produce mediante la articulación de sonidos (palabras habladas) que viajan a través de un canal físico, generalmente el aire, en forma de ondas sonoras hasta el oído del receptor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v2",
+      "statement": "¿Qué elemento de la comunicación oral está fallando en esta situación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El código, porque no está usando el idioma español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante usa español, pero la forma de emitirlo es el problema."
+        },
+        {
+          "letter": "B",
+          "text": "El mensaje, porque las ballenas no son un tema interesante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema es válido, el problema es la ejecución técnica."
+        },
+        {
+          "letter": "C",
+          "text": "El paralenguaje y la kinésica, debido al volumen bajo y la falta de contacto visual.",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen de voz (paralenguaje) y la postura/mirada (kinésica) son vitales para una buena comunicación oral."
+        },
+        {
+          "letter": "D",
+          "text": "El receptor, porque sus compañeros no están prestando atención.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla principal se origina en el emisor y su manejo de la voz y el cuerpo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación oral, no solo importan las palabras. El paralenguaje (volumen, tono, ritmo) y la kinésica (gestos, contacto visual) son elementos que refuerzan o debilitan el mensaje que queremos transmitir.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es una ventaja principal de la comunicación oral frente a la comunicación escrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mensaje permanece guardado para siempre sin cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una ventaja de la comunicación escrita."
+        },
+        {
+          "letter": "B",
+          "text": "La inmediatez y la posibilidad de retroalimentación (feedback) inmediata.",
+          "is_correct": true,
+          "feedback": "Correcto. En el habla podemos corregir, aclarar o responder dudas en el mismo momento en que ocurren."
+        },
+        {
+          "letter": "C",
+          "text": "Que no requiere que el emisor y el receptor compartan el mismo código.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas requieren que se hable el mismo idioma."
+        },
+        {
+          "letter": "D",
+          "text": "Que siempre es más formal y elegante que escribir una carta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad suele ser más informal que la escritura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comunicación oral es efímera (dura poco tiempo), pero permite una interacción rápida. Si el receptor no entiende algo, puede preguntar de inmediato y el emisor puede aclarar su idea, algo que no ocurre tan rápido con un texto escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v4",
+      "statement": "¿Qué debe hacer el estudiante para garantizar una comunicación oral efectiva durante la entrevista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer un cuestionario sin mirar al abuelo para no distraerse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contacto visual es esencial para la conexión humana."
+        },
+        {
+          "letter": "B",
+          "text": "Interrumpir al abuelo cada vez que diga algo que el estudiante no conoce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interrumpir corta el flujo de la comunicación y es irrespetuoso."
+        },
+        {
+          "letter": "C",
+          "text": "Practicar la escucha activa, asintiendo con la cabeza y haciendo preguntas de seguimiento basadas en lo que el abuelo cuenta.",
+          "is_correct": true,
+          "feedback": "Correcto. La escucha activa es una habilidad fundamental de la comunicación oral exitosa."
+        },
+        {
+          "letter": "D",
+          "text": "Hablar más tiempo que el abuelo para demostrar que sabe mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una entrevista, el protagonista debe ser el entrevistado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comunicación oral es un proceso de doble vía. Ser un buen comunicador oral no solo significa hablar bien, sino también saber escuchar con atención (escucha activa) para responder de forma coherente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué este inicio de la comunicación oral puede ser contraproducente para el mensaje que quiere dar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usar la palabra \"silencio\" es incorrecto gramaticalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra está bien usada, el problema es la forma."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los representantes de grupo no tienen autoridad para pedir silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen la función de liderar, pero el método de gritar no es el mejor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el tono agresivo puede generar rechazo en los oyentes, cerrando el canal de comunicación emocional.",
+          "is_correct": true,
+          "feedback": "Correcto. El \"cómo\" se dice (paralenguaje) afecta la disposición del receptor para escuchar el \"qué\" se dice."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en las asambleas nadie debe hacer silencio nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio es necesario, pero se debe invitar a él de forma asertiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación oral, el tono de voz establece el clima de la interacción. Un tono autoritario o agresivo suele poner a la audiencia a la defensiva, dificultando que el mensaje real sea aceptado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v6",
+      "statement": "¿Qué estrategia de comunicación oral debería usar el guía para que su explicación sea comprendida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hablar muy rápido para que los turistas se acostumbren al acento bogotano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar rápido dificulta la comprensión, especialmente para extranjeros."
+        },
+        {
+          "letter": "B",
+          "text": "Utilizar una dicción clara, un ritmo pausado y apoyarse en gestos y señalamientos hacia las piezas del museo.",
+          "is_correct": true,
+          "feedback": "Correcto. La buena pronunciación (dicción) y el apoyo visual/gestual facilitan el entendimiento del mensaje oral."
+        },
+        {
+          "letter": "C",
+          "text": "Usar términos técnicos muy complejos para demostrar que es un experto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje técnico sin explicación aleja al receptor que no domina el tema."
+        },
+        {
+          "letter": "D",
+          "text": "No decir nada y dejar que los turistas lean los letreros por su cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto elimina la comunicación oral que es la función del guía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dicción es la capacidad de pronunciar claramente las palabras. Una buena dicción, sumada a un ritmo adecuado de habla, garantiza que los sonidos lleguen nítidos al receptor, facilitando la decodificación del mensaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v7",
+      "statement": "¿Qué indican las muletillas en el flujo de la comunicación oral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el emisor tiene un vocabulario muy amplio y rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las muletillas suelen indicar lo contrario: falta de recursos léxicos en el momento."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay baches o pausas en el pensamiento que el emisor llena con sonidos repetitivos mientras busca la siguiente idea.",
+          "is_correct": true,
+          "feedback": "Correcto. Las muletillas son apoyos verbales innecesarios que surgen por nerviosismo o falta de preparación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el mensaje es muy importante y debe repetirse muchas veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las muletillas no añaden significado al mensaje, solo ruido."
+        },
+        {
+          "letter": "D",
+          "text": "Que el canal de comunicación (la televisión) está fallando técnicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las muletillas son producidas por el hablante, no por el aparato técnico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen comunicador oral debe intentar reducir las muletillas. Aunque son naturales en el habla espontánea, en situaciones formales (como exposiciones o debates) restan seguridad y claridad al discurso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambios debería hacer en su paralenguaje para lograr esta representación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hablar muy fuerte y muy rápido con un tono agudo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso suena más a un niño emocionado que a un anciano cansado."
+        },
+        {
+          "letter": "B",
+          "text": "Gritar todas las palabras para que el público lo escuche bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cansancio no se comunica con gritos constantes."
+        },
+        {
+          "letter": "C",
+          "text": "Bajar el volumen de la voz, usar un tono más grave y hacer pausas frecuentes como si le faltara el aire.",
+          "is_correct": true,
+          "feedback": "Correcto. El tono, el ritmo y el volumen (paralenguaje) crean la caracterización del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Leer un libro en voz alta sin hacer ningún cambio en su forma de hablar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no es una representación dramática a través de la voz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El paralenguaje tiene una función expresiva fundamental. A través de variaciones en la voz, podemos transmitir estados físicos (cansancio, enfermedad), emociones (tristeza, alegría) y rasgos de personalidad sin necesidad de describirlos con palabras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el lugar y el momento en que se habla son tan importantes para entender el mensaje oral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque si el lugar es ruidoso, no se escucha nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es solo un problema del canal (ruido), no es el fondo de la importancia del contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las palabras escritas no necesitan contexto para entenderse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo mensaje necesita contexto, pero el oral es más dependiente del \"aquí y ahora\"."
+        },
+        {
+          "letter": "C",
+          "text": "Porque una misma frase como \"¿Estás listo?\" significa cosas muy distintas en un hospital, en una carrera de atletismo o antes de un examen.",
+          "is_correct": true,
+          "feedback": "Correcto. El contexto físico y situacional le da el significado final a las palabras habladas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el contexto solo importa si el emisor y el receptor no se conocen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluso entre amigos, el contexto determina el sentido de lo que se dice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de un libro, que puede leerse años después en otro país, la comunicación oral ocurre en un espacio y tiempo determinados. El contexto situacional completa el sentido de lo que decimos, permitiéndonos usar menos palabras porque el entorno ya nos da mucha información.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la conclusión que el abogado puede proponer basándose en la comunicación oral y no verbal del testigo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el testigo tiene un dolor de garganta muy fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal y poco probable en un contexto judicial."
+        },
+        {
+          "letter": "B",
+          "text": "Que el testigo es una persona muy tímida y por eso no mira al juez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La timidez es una posibilidad, pero en un juicio se analiza más la veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el testimonio puede ser falso o que el testigo está ocultando información, debido a la falta de coherencia entre su relato y sus gestos de nerviosismo.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de contacto visual y los gestos de autoprotección (tocar el cuello) son indicadores comunes de que la persona no está siendo totalmente honesta."
+        },
+        {
+          "letter": "D",
+          "text": "Que el testigo está muy feliz de estar ayudando a la justicia colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nerviosismo descrito no se asocia con la felicidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comunicación oral integral incluye la observación de micro-expresiones y gestos. En situaciones críticas, como un juicio o una negociación, aprender a leer la coherencia entre lo que se dice y lo que el cuerpo expresa es una habilidad de análisis avanzada.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

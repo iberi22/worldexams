@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.883Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes condiciones es obligatoria para que una función sea considerada un polinomio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos sus coeficientes sean números enteros positivos.",
+          "is_correct": false,
+          "feedback": "Los coeficientes pueden ser cualquier número real (negativos, decimales, etc.)."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los exponentes de la variable independiente sean números enteros no negativos (\\$0, 1, 2, \\dots$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un polinomio no puede tener variables con exponentes negativos o fraccionarios."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función tenga al menos tres términos diferentes.",
+          "is_correct": false,
+          "feedback": "Un polinomio puede tener un solo término (monomio)."
+        },
+        {
+          "letter": "D",
+          "text": "Que la gráfica de la función sea siempre una línea recta.",
+          "is_correct": false,
+          "feedback": "Solo los polinomios de grado 1 son líneas rectas; existen polinomios de grados superiores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función polinomial es una expresión de la forma $P(x) = a_n x^n + a_{n-1} x^{n-1} + \\dots + a_0$. La regla fundamental es que el exponente $n$ debe ser un número entero natural (incluyendo el cero).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v2",
+      "statement": "Dada la función $f(x) = 4x^2 - 5x^5 + 2x - 7$, ¿cuál es el grado del polinomio y cuál es su coeficiente principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grado: 2, Coeficiente principal: 4",
+          "is_correct": false,
+          "feedback": "El grado es el exponente más alto presente en la función, no el del primer término escrito."
+        },
+        {
+          "letter": "B",
+          "text": "Grado: 5, Coeficiente principal: -5",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exponente más alto es 5, y el número que acompaña a esa potencia es -5."
+        },
+        {
+          "letter": "C",
+          "text": "Grado: 5, Coeficiente principal: 4",
+          "is_correct": false,
+          "feedback": "El coeficiente principal debe corresponder al término de mayor grado."
+        },
+        {
+          "letter": "D",
+          "text": "Grado: 4, Coeficiente principal: 2",
+          "is_correct": false,
+          "feedback": "Has confundido los coeficientes con los exponentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El grado de un polinomio es el mayor exponente de la variable $x$. El coeficiente principal es el número que multiplica a la potencia de mayor grado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v3",
+      "statement": "En cualquier función polinomial $P(x)$, ¿qué representa físicamente el término independiente $a_0$ en la gráfica de la función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la función en el origen.",
+          "is_correct": false,
+          "feedback": "La pendiente en el origen se relaciona con el coeficiente del término lineal (x^1)."
+        },
+        {
+          "letter": "B",
+          "text": "El punto de intersección de la gráfica con el eje de las ordenadas (eje Y).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cuando x=0, todos los términos con x se anulan, quedando solo a0."
+        },
+        {
+          "letter": "C",
+          "text": "El valor máximo absoluto que alcanza la función.",
+          "is_correct": false,
+          "feedback": "El término independiente no determina por sí solo el valor máximo."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de veces que la gráfica cruza el eje X.",
+          "is_correct": false,
+          "feedback": "Esto depende del grado y de las raíces, no del término independiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término independiente es el valor de $P(0)$. Por lo tanto, indica el punto $(0, a_0)$ donde la curva cruza el eje vertical.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el comportamiento de los extremos de una función polinomial de grado impar con coeficiente principal positivo cuando $x$ tiende a infinito positivo y a infinito negativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos extremos suben hacia el infinito positivo.",
+          "is_correct": false,
+          "feedback": "Esto ocurre en funciones de grado par con coeficiente positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos extremos bajan hacia el infinito negativo.",
+          "is_correct": false,
+          "feedback": "Esto ocurre en funciones de grado par con coeficiente negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Sube hacia la derecha ($+\\infty$) y baja hacia la izquierda ($-\\infty$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las funciones de grado impar \"cruzan\" el plano de un infinito al otro."
+        },
+        {
+          "letter": "D",
+          "text": "Se estabiliza en una línea horizontal (asíntota).",
+          "is_correct": false,
+          "feedback": "Los polinomios (excepto el de grado 0) siempre tienden a infinito en sus extremos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comportamiento final depende del término de mayor grado. Si el grado es impar y el coeficiente es positivo, la función se comporta como $x^3$, yendo de $-\\infty$ a $+\\infty$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la presión a los 3 segundos ($t = 3$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo: 3^3 - 4(3^2) + 6 = 27 - 4(9) + 6 = 27 - 36 + 6."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "¡Correcto! 27 - 36 + 6 = -9 + 6 = -3."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Probablemente sumaste 36 en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "27 - 36 + 6 es -3, no 3 positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un polinomio consiste en sustituir la variable por el valor indicado y realizar las operaciones siguiendo la jerarquía: potencias, multiplicaciones y finalmente sumas/restas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v6",
+      "statement": "Al evaluar $P(2)$ en la función $P(x) = x^3 - 5x + 2$, ¿cuál es el residuo obtenido y qué significa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Residuo 10; no es factor.",
+          "is_correct": false,
+          "feedback": "2^3 - 5(2) + 2 = 8 - 10 + 2 = 0."
+        },
+        {
+          "letter": "B",
+          "text": "Residuo 0; $(x - 2)$ sí es un factor del polinomio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como P(2) = 0, el residuo de la división es cero y por tanto es un factor exacto."
+        },
+        {
+          "letter": "C",
+          "text": "Residuo -4; no es factor.",
+          "is_correct": false,
+          "feedback": "Error en el cálculo: 8 - 10 + 2 = 0."
+        },
+        {
+          "letter": "D",
+          "text": "Residuo 2; es una raíz.",
+          "is_correct": false,
+          "feedback": "Para ser raíz, el residuo debe ser exactamente cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según el Teorema del Residuo, el resto de dividir $P(x)$ entre $(x - c)$ es igual a $P(c)$. Si $P(c) = 0$, entonces $(x - c)$ es un factor de $P(x)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son las raíces reales de la función polinomial $f(x) = (x + 3)(x - 1)(x - 4)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$3, -1, -4$",
+          "is_correct": false,
+          "feedback": "Las raíces tienen el signo opuesto al valor que acompaña a x dentro de cada factor."
+        },
+        {
+          "letter": "B",
+          "text": "$-3, 1, 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! x + 3 = 0 => x = -3; x - 1 = 0 => x = 1; x - 4 = 0 => x = 4."
+        },
+        {
+          "letter": "C",
+          "text": "\\$0, 3, 1, 4$",
+          "is_correct": false,
+          "feedback": "El cero no es una raíz a menos que exista un factor x solo."
+        },
+        {
+          "letter": "D",
+          "text": "$-3, 1, -4$",
+          "is_correct": false,
+          "feedback": "El último factor (x-4) da una raíz positiva x=4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una función escrita en forma factorizada $a(x-r_1)(x-r_2)\\dots$, las raíces son simplemente los valores $r_1, r_2, \\dots$ que hacen que cada paréntesis sea igual a cero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v8",
+      "statement": "Si una función polinomial tiene un factor de la forma $(x - 2)^2$, ¿cómo se comporta la gráfica de la función al pasar por el punto $x = 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruza el eje X de forma lineal.",
+          "is_correct": false,
+          "feedback": "Esto ocurre si la multiplicidad es impar (exponente 1, 3, 5...)."
+        },
+        {
+          "letter": "B",
+          "text": "Toca el eje X y regresa (rebota) sin cruzarlo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una multiplicidad par (exponente 2, 4...) hace que la gráfica sea tangente al eje en ese punto."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota vertical en ese punto.",
+          "is_correct": false,
+          "feedback": "Las asíntotas verticales ocurren en funciones racionales cuando el denominador es cero."
+        },
+        {
+          "letter": "D",
+          "text": "La función desaparece en ese valor.",
+          "is_correct": false,
+          "feedback": "La función está definida y vale cero en ese punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicidad de una raíz determina el comportamiento local: si es impar, la gráfica cruza el eje; si es par, la gráfica es tangente (rebota).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el grado mínimo que debe tener un polinomio para poder tener 4 raíces reales distintas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grado 2.",
+          "is_correct": false,
+          "feedback": "Un polinomio de grado 2 tiene como máximo 2 raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "Grado 3.",
+          "is_correct": false,
+          "feedback": "Máximo 3 raíces reales."
+        },
+        {
+          "letter": "C",
+          "text": "Grado 4.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El número de raíces reales no puede exceder el grado del polinomio."
+        },
+        {
+          "letter": "D",
+          "text": "Grado 5.",
+          "is_correct": false,
+          "feedback": "Aunque un grado 5 puede tener 4 raíces, se pregunta por el grado mínimo necesario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por el Teorema Fundamental del Álgebra, un polinomio de grado $n$ tiene exactamente $n$ raíces (contando complejas y multiplicidad). Por lo tanto, para 4 raíces reales se requiere al menos grado 4.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función resultante de sumar $f(x)$ y $g(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$3x^3 + 4x^2 - 5x + 12$",
+          "is_correct": false,
+          "feedback": "Revisa la suma del término constante: 10 + (-2) = 8."
+        },
+        {
+          "letter": "B",
+          "text": "\\$3x^3 + 4x^2 - 5x + 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando términos semejantes: (2+1)x^3 + 4x^2 - 5x + (10-2)."
+        },
+        {
+          "letter": "C",
+          "text": "\\$2x^3 + 4x^2 - 5x + 8$",
+          "is_correct": false,
+          "feedback": "Olvidaste sumar los términos de x^3."
+        },
+        {
+          "letter": "D",
+          "text": "\\$3x^6 + 4x^2 - 5x + 8$",
+          "is_correct": false,
+          "feedback": "Al sumar polinomios los exponentes no se suman; solo se suman los coeficientes de los términos del mismo grado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar polinomios se agrupan los términos que tienen el mismo grado (términos semejantes) y se suman sus coeficientes. Los exponentes permanecen iguales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el cociente y el residuo de dividir $(x^3 - 2x^2 + 5)$ entre $(x - 1)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cociente: $x^2 - x$, Residuo: 4",
+          "is_correct": false,
+          "feedback": "1^3 - 2(1)^2 + 5 = 1 - 2 + 5 = 4. El residuo es correcto, pero revisa el cociente."
+        },
+        {
+          "letter": "B",
+          "text": "Cociente: $x^2 - x - 1$, Residuo: 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplicando división sintética con r=1: 1, -2, 0, 5 -> 1(1)=1, -2+1=-1; 1(-1)=-1, 0-1=-1; 1(-1)=-1, 5-1=4."
+        },
+        {
+          "letter": "C",
+          "text": "Cociente: $x^2 + x + 1$, Residuo: 0",
+          "is_correct": false,
+          "feedback": "El residuo no es cero, por lo que no es una división exacta."
+        },
+        {
+          "letter": "D",
+          "text": "Cociente: $x^2 - 3x + 3$, Residuo: 2",
+          "is_correct": false,
+          "feedback": "Los cálculos de la división sintética no coinciden con estos valores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La división de polinomios puede realizarse mediante el algoritmo de división larga o división sintética cuando el divisor es lineal. El cociente tendrá un grado menor que el dividendo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes funciones podría corresponder a una parábola (grado 2) que cruza el eje X en $-2$ y \\$3$, y abre hacia arriba?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = (x - 2)(x + 3)$",
+          "is_correct": false,
+          "feedback": "Las raíces de esta función son 2 y -3, lo cual es lo opuesto a lo solicitado."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = (x + 2)(x - 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raíces son -2 y 3. Al ser el coeficiente principal positivo (+1), abre hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -(x + 2)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Esta función abre hacia abajo debido al signo negativo exterior."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^2 - x + 6$",
+          "is_correct": false,
+          "feedback": "Las raíces de esta función no son reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para construir un polinomio a partir de sus raíces $r_1, r_2$, usamos la forma $a(x-r_1)(x-r_2)$. Los signos dentro de los paréntesis deben permitir que al sustituir la raíz el resultado sea cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v13",
+      "statement": "Si se sabe que \\$3 + 2i$ es una raíz de la función polinomial $P(x)$ con coeficientes reales, ¿qué otra raíz debe tener obligatoriamente dicha función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-3 - 2i$",
+          "is_correct": false,
+          "feedback": "El teorema de las raíces complejas exige el conjugado, no el negativo de ambos términos."
+        },
+        {
+          "letter": "B",
+          "text": "\\$3 + 2i$ (raíz doble)",
+          "is_correct": false,
+          "feedback": "No necesariamente es doble, pero sí debe existir su pareja conjugada."
+        },
+        {
+          "letter": "C",
+          "text": "\\$3 - 2i$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por el Teorema de las Raíces Complejas Conjugadas, si a+bi es raíz, a-bi también lo es."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La existencia de raíces complejas no implica que el cero sea raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En polinomios con coeficientes reales, las raíces complejas siempre aparecen en pares conjugados. El conjugado de un número complejo se obtiene cambiando el signo de la parte imaginaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la expresión polinomial simplificada que representa el área de este rectángulo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$2x^3 - 15$",
+          "is_correct": false,
+          "feedback": "Olvidaste realizar la multiplicación de todos los términos (distributiva)."
+        },
+        {
+          "letter": "B",
+          "text": "\\$2x^3 - 5x^2 + 6x - 15$",
+          "is_correct": true,
+          "feedback": "¡Correcto! (x^2 * 2x) + (x^2 * -5) + (3 * 2x) + (3 * -5) = 2x^3 - 5x^2 + 6x - 15."
+        },
+        {
+          "letter": "C",
+          "text": "\\$2x^3 + 5x^2 + 6x + 15$",
+          "is_correct": false,
+          "feedback": "Revisa los signos de los productos."
+        },
+        {
+          "letter": "D",
+          "text": "\\$3x^2 + 2x - 2$",
+          "is_correct": false,
+          "feedback": "Esto parece una suma de términos en lugar de una multiplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicación de polinomios requiere aplicar la propiedad distributiva: cada término del primer polinomio debe multiplicarse por cada término del segundo, sumando luego los resultados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el número máximo de puntos de retorno (máximos o mínimos locales) que puede tener una función polinomial de grado 4?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "El número de vueltas es siempre menor al grado."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un polinomio de grado n puede tener como máximo n-1 puntos de inflexión o retorno."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Grado 4 puede tener hasta 3 puntos de retorno (como una W)."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "No puede tener más puntos de retorno que su grado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Visualmente, cada \"vuelta\" o cambio de dirección consume un grado de la función. El número de puntos críticos (máximos/mínimos) es a lo más $n-1$, donde $n$ es el grado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v16",
+      "statement": "De acuerdo con el Teorema Fundamental del Álgebra, si un polinomio de grado 6 tiene 2 raíces reales y 4 raíces complejas, ¿cuál es el número total de raíces (contando multiplicidad)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Estas son solo las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Estas son solo las raíces complejas."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "¡Correcto! El grado indica el número total de raíces en el sistema de los números complejos."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "El total de raíces es igual al grado, no a la suma de grado y tipos de raíces."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El grado de un polinomio define el número total de soluciones que posee la ecuación $P(x) = 0$, siempre que se consideren las raíces en el plano complejo y se cuente su multiplicidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el dominio físico (valores de $x$ que tienen sentido en la realidad) para la función de volumen $V(x) = x(10 - 2x)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "El lado de un cuadrado no puede ser negativo ni tan grande que consuma toda la cartulina."
+        },
+        {
+          "letter": "B",
+          "text": "$[0, 10]$",
+          "is_correct": false,
+          "feedback": "Si x = 10, estarías quitando 20 cm de un lado que solo mide 10. Imposible."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! x debe ser positivo y 2x debe ser menor a 10 (por lo tanto x < 5) para que quede cartulina para la base."
+        },
+        {
+          "letter": "D",
+          "text": "$[5, 10]$",
+          "is_correct": false,
+          "feedback": "En este rango no podrías formar una caja ya que el recorte excedería el tamaño de la cartulina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En problemas de optimización física, el dominio está restringido por las dimensiones reales. No se pueden recortar más de la mitad del lado de cada extremo, por lo que \\$2x < Lado$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v18",
+      "statement": "Si un polinomio de grado mínimo con coeficientes reales tiene raíces en $x = 0$ y $x = 2 + i$, ¿cuál es la expresión de dicho polinomio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(x) = x(x - 2 - i)$",
+          "is_correct": false,
+          "feedback": "Para tener coeficientes reales, debe incluir la raíz conjugada 2-i."
+        },
+        {
+          "letter": "B",
+          "text": "$P(x) = x(x^2 - 4x + 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raíces son 0, 2+i y 2-i. El producto de los complejos es (x-(2+i))(x-(2-i)) = (x-2)^2 + 1 = x^2-4x+5. Multiplicado por x da x^3-4x^2+5x."
+        },
+        {
+          "letter": "C",
+          "text": "$P(x) = x^2 - 4x + 5$",
+          "is_correct": false,
+          "feedback": "Falta la raíz x=0 que se indica en el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "$P(x) = x^3 + 4x^2 + 5x$",
+          "is_correct": false,
+          "feedback": "Error de signos en el desarrollo del producto de las raíces complejas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para obtener un polinomio con coeficientes reales a partir de raíces complejas, se debe multiplicar por el factor del conjugado. Luego se multiplica por el factor de la raíz real.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v19",
+      "statement": "De acuerdo con la Regla de los Signos de Descartes, ¿cuál es el número máximo de raíces reales positivas que puede tener el polinomio $P(x) = x^4 - 3x^3 + 2x^2 + x - 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Se deben contar los cambios de signo en los coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Hay 3 cambios de signo en total."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los signos son (+, -, +, +, -). Los cambios ocurren entre (+,-), (-,+) y (+,-). Hay 3 cambios, por lo que puede haber 3 o 1 raíces positivas."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "3 es el máximo posible según la regla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Regla de Descartes establece que el número de raíces positivas es igual al número de variaciones en los signos de los coeficientes de $P(x)$ o menor que este en un número par.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el comportamiento final de la función $P(x) = -2x^5 + 3x^2 - 1$ cuando $x \\to \\infty$ y cuando $x \\to -\\infty$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sube hacia la derecha y baja hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Esto sería si el coeficiente principal fuera positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Baja hacia la derecha ($-\\infty$) y sube hacia la izquierda ($+\\infty$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser grado impar y coeficiente negativo, la orientación normal se invierte."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos lados bajan hacia $-\\infty$.",
+          "is_correct": false,
+          "feedback": "Esto ocurre si el grado es par."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos lados suben hacia $+\\infty$.",
+          "is_correct": false,
+          "feedback": "Esto ocurre si el grado es par y coeficiente positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un polinomio de grado impar, los extremos van en direcciones opuestas. Si el coeficiente principal es negativo, la función \"cae\" hacia la derecha y \"sube\" hacia la izquierda.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

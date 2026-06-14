@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-27-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.891Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define el \"orden\" o \"dimensión\" de una matriz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el número total de elementos que contiene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el tamaño, pero el orden especifica la disposición."
+        },
+        {
+          "letter": "B",
+          "text": "Por el valor del elemento más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de los elementos no determina el orden."
+        },
+        {
+          "letter": "C",
+          "text": "Por el número de renglones (filas) y el número de columnas que tiene.",
+          "is_correct": true,
+          "feedback": "Correcto. Se expresa como m x n, donde m es el número de filas y n el de columnas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo por el número de columnas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una matriz es bidimensional, requiere filas y columnas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una matriz es un arreglo rectangular de números. Su orden nos indica su forma: el primer número siempre representa las líneas horizontales (filas) y el segundo las verticales (columnas).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v2",
+      "statement": "En una matriz $A = [a_{ij}]$, ¿qué representan los subíndices $i$ y $j$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$i$ es la columna y $j$ es la fila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden estándar es fila primero, luego columna."
+        },
+        {
+          "letter": "B",
+          "text": "$i$ es la fila (renglón) y $j$ es la columna.",
+          "is_correct": true,
+          "feedback": "Correcto. El primer subíndice indica la posición horizontal y el segundo la vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Son los valores que se deben multiplicar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son índices de posición, no valores numéricos de los elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Representan el exponente de la matriz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición no indica potencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La notación universal $a_{ij}$ permite localizar cualquier elemento dentro de la matriz. Por ejemplo, $a_{23}$ es el elemento ubicado en la segunda fila y la tercera columna.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la condición indispensable para poder sumar o restar dos matrices?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ambas sean matrices cuadradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden ser rectangulares siempre que tengan el mismo orden."
+        },
+        {
+          "letter": "B",
+          "text": "Que tengan el mismo orden (mismas dimensiones).",
+          "is_correct": true,
+          "feedback": "Correcto. Para sumar elemento con elemento, la estructura de ambas matrices debe ser idéntica."
+        },
+        {
+          "letter": "C",
+          "text": "Que el número de columnas de la primera sea igual a las filas de la segunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la condición para la multiplicación, no para la suma."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos sus elementos sean números positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pueden sumar matrices con cualquier tipo de número real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de matrices se realiza sumando los elementos que ocupan la misma posición. Si las matrices no tienen el mismo número de filas y columnas, habrá elementos que no tengan \"pareja\" para sumarse, por lo que la operación no está definida.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué caracteriza a una \"Matriz Identidad\" ($I$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos sus elementos son iguales a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una matriz de unos."
+        },
+        {
+          "letter": "B",
+          "text": "Es una matriz cuadrada con 1 en la diagonal principal y 0 en los demás lugares.",
+          "is_correct": true,
+          "feedback": "Correcto. Funciona como el elemento neutro multiplicativo en las matrices."
+        },
+        {
+          "letter": "C",
+          "text": "Todos sus elementos son iguales a 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la matriz nula."
+        },
+        {
+          "letter": "D",
+          "text": "Es una matriz que solo tiene una fila y una columna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser de cualquier orden n x n."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La matriz identidad es fundamental porque al multiplicarla por cualquier matriz $A$ del mismo orden, el resultado es la misma matriz $A$. Es el equivalente al número 1 en los números reales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v5",
+      "statement": "Dadas las matrices $A = \\begin{pmatrix} 2 & 5 \\\\ -1 & 3 \\end{pmatrix}$ y $B = \\begin{pmatrix} 4 & -2 \\\\ 0 & 6 \\end{pmatrix}$, calcule $A + B$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 6 & 7 \\\\ -1 & 9 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar 5 + (-2); el resultado debería ser 3."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 6 & 3 \\\\ -1 & 9 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando posiciones: (2+4, 5-2), (-1+0, 3+6) = (6, 3), (-1, 9)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 8 & -10 \\\\ 0 & 18 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una multiplicación de elementos en lugar de una suma."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 2 & 3 \\\\ 1 & 3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una resta de matrices (B - A)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar matrices, sumamos los elementos que están en la misma fila y columna: $a_{11}+b_{11}$, $a_{12}+b_{12}$, etc. Es vital aplicar correctamente la suma de números con signos distintos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v6",
+      "statement": "Si la matriz $C = \\begin{pmatrix} 5 & -3 \\\\ 2 & 0 \\end{pmatrix}$, determine el resultado de $2C$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 10 & -3 \\\\ 2 & 0 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicó el primer elemento por el escalar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 10 & -6 \\\\ 4 & 0 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. El escalar 2 multiplica a todos y cada uno de los elementos de la matriz."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 7 & -1 \\\\ 4 & 2 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el escalar 2 a cada elemento en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 25 & 9 \\\\ 4 & 0 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevó los elementos al cuadrado en lugar de multiplicar por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicación de una matriz por un escalar consiste en multiplicar cada entrada de la matriz por ese número. El orden de la matriz no cambia en esta operación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v7",
+      "statement": "Dadas $X = \\begin{pmatrix} 8 \\\\ 5 \\end{pmatrix}$ y $Y = \\begin{pmatrix} 3 \\\\ -2 \\end{pmatrix}$, calcule $X - Y$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos: 5 - (-2) es igual a 7, no a 3."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando componentes: (8-3) = 5, (5 - (-2)) = 7."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 11 \\\\ 3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los elementos en lugar de restarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 5 \\\\ -7 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la ley de los signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resta de matrices $X - Y$ es equivalente a sumar a $X$ la matriz opuesta de $Y$. Debemos tener especial cuidado al restar números negativos, ya que se convierten en una suma: $5 - (-2) = 5 + 2 = 7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v8",
+      "statement": "Determine si es posible realizar la multiplicación $A \\cdot B$ si el orden de $A$ es $2 \\times 3$ y el de $B$ es $3 \\times 4$. Si es posible, ¿cuál será el orden del resultado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es posible porque el número de columnas de A coincide con el de filas de B."
+        },
+        {
+          "letter": "B",
+          "text": "Sí es posible y el resultado será de orden $2 \\times 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dimensiones internas coinciden (3) y las externas definen el orden final (2x4)."
+        },
+        {
+          "letter": "C",
+          "text": "Sí es posible y el resultado será de orden $3 \\times 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden final se toma de los extremos de las dimensiones."
+        },
+        {
+          "letter": "D",
+          "text": "Sí es posible y el resultado será de orden $4 \\times 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es fila por columna, no se debe invertir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para multiplicar matrices, el número de columnas de la primera matriz debe ser igual al número de filas de la segunda. El orden de la matriz resultante tendrá el número de filas de la primera y el número de columnas de la segunda.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v9",
+      "statement": "Calcule el elemento $c_{11}$ del producto $C = A \\cdot B$, donde $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ y $B = \\begin{pmatrix} 5 & 6 \\\\ 7 & 8 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicó los primeros elementos de cada matriz."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó 2 por 7 pero olvidó sumar el producto del otro par de elementos."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": true,
+          "feedback": "Correcto. c11 = (fila 1 de A) * (columna 1 de B) = (1*5) + (2*7) = 5 + 14 = 19."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los elementos en lugar de realizar el producto punto de fila por columna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para obtener un elemento en la posición $ij$ del producto, multiplicamos la fila $i$ de la primera matriz por la columna $j$ de la segunda, sumando los productos parciales. Para $c_{11}$, usamos la primera fila de $A$ y la primera columna de $B$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v10",
+      "statement": "Dadas dos matrices cuadradas $A$ y $B$ del mismo orden, ¿cuál de las siguientes afirmaciones sobre la multiplicación es generalmente cierta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A \\cdot B = B \\cdot A$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación de matrices NO es conmutativa en la mayoría de los casos."
+        },
+        {
+          "letter": "B",
+          "text": "$A \\cdot B \\neq B \\cdot A$",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia de los números reales, el orden de los factores sí altera el producto en las matrices."
+        },
+        {
+          "letter": "C",
+          "text": "El producto siempre da una matriz identidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo si B es la inversa de A."
+        },
+        {
+          "letter": "D",
+          "text": "El producto siempre es una matriz nula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo si una de las matrices es nula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicación de matrices es una de las primeras operaciones matemáticas que los estudiantes encuentran que no es conmutativa. Cambiar el orden de las matrices suele producir un resultado completamente diferente o incluso hacer que la operación sea imposible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v11",
+      "statement": "Calcule el producto $A \\cdot B$ de las matrices $A = \\begin{pmatrix} 1 & 0 \\\\ 0 & 2 \\end{pmatrix}$ y $B = \\begin{pmatrix} 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el efecto del valor 2 en la matriz diagonal."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 3 & 4 \\\\ 10 & 12 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. (1*3 + 0*5, 1*4 + 0*6) = (3, 4); (0*3 + 2*5, 0*4 + 2*6) = (10, 12)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 3 & 8 \\\\ 5 & 12 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó elementos correspondientes en lugar de fila por columna."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 3 & 0 \\\\ 0 & 12 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató la segunda matriz como si fuera diagonal también."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al multiplicar por una matriz diagonal por la izquierda, cada fila de la segunda matriz se multiplica por el elemento correspondiente de la diagonal. La primera fila se mantiene igual (multiplicada por 1) y la segunda fila se duplica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v12",
+      "statement": "Dada $I = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$ y $A = \\begin{pmatrix} 0.2 & 0.1 \\\\ 0.4 & 0.3 \\end{pmatrix}$, calcule $I - A$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 1.2 & 0.1 \\\\ 0.4 & 1.3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una suma en lugar de una resta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 0.8 & -0.1 \\\\ -0.4 & 0.7 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. (1-0.2, 0-0.1) = (0.8, -0.1); (0-0.4, 1-0.3) = (-0.4, 0.7)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} -0.2 & -0.1 \\\\ -0.4 & -0.3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar de los elementos de la matriz identidad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 0.8 & 0.9 \\\\ 0.6 & 0.7 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicó correctamente los signos negativos al restar de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta operación es común en modelos económicos lineales. Restamos cada elemento de $A$ del elemento correspondiente en la identidad. Los ceros de la identidad hacen que los elementos fuera de la diagonal de $A$ simplemente cambien de signo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v13",
+      "statement": "Si $A$ es una matriz de $3 \\times 2$, $B$ es de $2 \\times 5$ y $C$ es de $5 \\times 1$, ¿cuál es el orden del producto resultante $A \\cdot B \\cdot C$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 \\times 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el orden de A*B, falta considerar la matriz C."
+        },
+        {
+          "letter": "B",
+          "text": "$3 \\times 1$",
+          "is_correct": true,
+          "feedback": "Correcto. (3x2 * 2x5) da 3x5. Luego (3x5 * 5x1) da 3x1."
+        },
+        {
+          "letter": "C",
+          "text": "$1 \\times 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden final es Filas de la primera por Columnas de la última."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden multiplicar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las dimensiones internas coinciden (2 con 2, y 5 con 5)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicación de matrices es asociativa. Podemos multiplicar primero $A \\cdot B$ y luego el resultado por $C$. Al seguir la cadena de dimensiones, los valores internos se cancelan y permanecen solo los extremos: el 3 de las filas de $A$ y el 1 de las columnas de $C$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la matriz transpuesta de $A = \\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 4 & 5 & 6 \\\\ 1 & 2 & 3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió las filas pero no las convirtió en columnas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 1 & 4 \\\\ 2 & 5 \\\\ 3 & 6 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. La transpuesta intercambia filas por columnas. La primera fila (1 2 3) se convierte en la primera columna."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 6 & 5 & 4 \\\\ 3 & 2 & 1 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió el orden de los elementos pero no cambió la estructura."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\\\ 5 & 6 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la reorganización de los elementos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La operación de transposición \"voltea\" la matriz sobre su diagonal principal. Matemáticamente, el elemento $a_{ij}$ pasa a ser el elemento $a_{ji}$. Una matriz de $m \\times n$ se convierte en una de $n \\times m$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v15",
+      "statement": "Dada la ecuación $2X + A = B$, donde $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ y $B = \\begin{pmatrix} 5 & 10 \\\\ 7 & 12 \\end{pmatrix}$, determine la matriz $X$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 4 & 8 \\\\ 4 & 8 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por el escalar 2 tras restar las matrices."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 2 & 4 \\\\ 2 & 4 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. B - A = (4, 8), (4, 8). Luego dividiendo entre 2: (2, 4), (2, 4)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 3 & 6 \\\\ 5 & 8 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó la suma A + B y luego dividió entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 6 & 12 \\\\ 10 & 16 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las matrices sin despejar correctamente la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la ecuación matricial igual que una ecuación lineal: restamos $A$ de ambos lados y luego multiplicamos por el recíproco del escalar ($1/2$). Las operaciones de suma y multiplicación por escalar se aplican a cada elemento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v16",
+      "statement": "Calcule el producto $A \\cdot B$ si $A = \\begin{pmatrix} 1 & 2 & 3 \\end{pmatrix}$ y $B = \\begin{pmatrix} 4 \\\\ 5 \\\\ 6 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 4 & 10 & 18 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de multiplicar una matriz 1x3 por una 3x1 debe ser una matriz 1x1 (un escalar)."
+        },
+        {
+          "letter": "B",
+          "text": "$(32)$",
+          "is_correct": true,
+          "feedback": "Correcto. (1*4) + (2*5) + (3*6) = 4 + 10 + 18 = 32."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 4 & 5 & 6 \\\\ 8 & 10 & 12 \\\\ 12 & 15 & 18 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el resultado de B*A (columna por fila), no de A*B."
+        },
+        {
+          "letter": "D",
+          "text": "$(15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los elementos de las matrices en lugar de realizar el producto punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un caso especial de multiplicación. Al ser las dimensiones $1 \\times 3$ y $3 \\times 1$, el resultado es una matriz de $1 \\times 1$, que es equivalente a un número escalar. Es esencialmente el producto punto de dos vectores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v17",
+      "statement": "Dada la matriz $A = \\begin{pmatrix} 0 & 1 \\\\ 0 & 0 \\end{pmatrix}$, determine el valor de $A^2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 0 & 1 \\\\ 0 & 0 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matriz no es su propio cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correcto. (0*0 + 1*0, 0*1 + 1*0) = (0, 0); (0*0 + 0*0, 0*1 + 0*0) = (0, 0). Es una matriz nilpotente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 0 & 2 \\\\ 0 & 0 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó el elemento por 2 en lugar de realizar la multiplicación de matrices A*A."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadrado de una matriz no nula no siempre es la identidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para elevar una matriz al cuadrado, multiplicamos la matriz por sí misma ($A \\cdot A$). En este caso particular, el resultado es la matriz nula. Las matrices que tienen esta propiedad se llaman nilpotentes y son útiles en álgebra avanzada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v18",
+      "statement": "¿A qué es igual la transpuesta del producto de dos matrices, $(A \\cdot B)^T$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A^T \\cdot B^T$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al transponer un producto, el orden de los factores debe invertirse."
+        },
+        {
+          "letter": "B",
+          "text": "$B^T \\cdot A^T$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una propiedad fundamental: la transpuesta del producto es el producto de las transpuestas en orden inverso."
+        },
+        {
+          "letter": "C",
+          "text": "$(B \\cdot A)^T$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no simplifica la expresión según las leyes del álgebra matricial."
+        },
+        {
+          "letter": "D",
+          "text": "$A \\cdot B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transposición generalmente cambia la matriz original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta propiedad es crucial en demostraciones de álgebra lineal. Al transponer, no solo cambian las posiciones de los elementos internos, sino que para que las dimensiones sigan siendo compatibles para la multiplicación, el orden de las matrices debe invertirse.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v19",
+      "statement": "¿Qué condición debe cumplir una matriz cuadrada para ser considerada \"Simétrica\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos sus elementos deben ser iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una matriz constante."
+        },
+        {
+          "letter": "B",
+          "text": "Su determinante debe ser cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una matriz simétrica puede tener cualquier determinante."
+        },
+        {
+          "letter": "C",
+          "text": "Debe ser igual a su propia transpuesta ($A = A^T$).",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos a_ij deben ser iguales a los elementos a_ji."
+        },
+        {
+          "letter": "D",
+          "text": "Su diagonal principal debe ser de puros ceros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe a una matriz antisimétrica si además los otros elementos cambian de signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una matriz simétrica, los elementos son como un \"espejo\" respecto a la diagonal principal. Por ejemplo, el elemento en la fila 1 columna 2 es idéntico al de la fila 2 columna 1. Son muy comunes en física y estadística.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v20",
+      "statement": "Dada la expresión $A(B + C) - AB$, ¿a qué es equivalente simplificando mediante las propiedades de las matrices?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$AC - AB$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la propiedad distributiva."
+        },
+        {
+          "letter": "B",
+          "text": "$AC$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando distributividad: AB + AC - AB. Los términos AB y -AB se cancelan, quedando solo AC."
+        },
+        {
+          "letter": "C",
+          "text": "$A(B + C)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la resta del término final."
+        },
+        {
+          "letter": "D",
+          "text": "$C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que la matriz A sigue multiplicando al resultado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las matrices cumplen con la propiedad distributiva respecto a la suma: $A(B+C) = AB + AC$. Al realizar la resta posterior, el término $AB$ se anula. Es importante notar que el orden se mantiene (A siempre multiplica por la izquierda).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

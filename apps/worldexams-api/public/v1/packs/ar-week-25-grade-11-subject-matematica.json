@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-25-grade-11-subject-matematica",
+    "generated_at": "2026-06-14T23:26:45.846Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la moda del conjunto de notas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la nota más baja, pero no la más frecuente."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. La moda es el valor que más veces se repite (aparece 2 veces)."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la nota central (mediana), no la moda."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la nota más alta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moda es la medida de tendencia central que representa el valor con mayor frecuencia absoluta en un conjunto de datos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la mediana de estas temperaturas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el tercer valor de la serie ordenada."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el quinto valor de siete."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto ya está ordenado: {28, 30, 31, 32, 35, 38, 40}. El valor central (4ta posición) es el 32."
+        },
+        {
+          "letter": "D",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor es cercano al promedio, no la mediana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediana es el valor que ocupa la posición central cuando los datos están ordenados. Como hay 7 datos (número impar), la mediana es el dato que ocupa exactamente la posición central: (7+1)/2 = 4ta posición. En este caso, el valor es 32.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la medida de tendencia central que se ve más afectada (distorsionada) por el sueldo de $1.200.000?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana se mantiene en $450.000, es robusta ante valores extremos."
+        },
+        {
+          "letter": "B",
+          "text": "La moda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moda sigue siendo $450.000."
+        },
+        {
+          "letter": "C",
+          "text": "La media aritmética (promedio)",
+          "is_correct": true,
+          "feedback": "Correcto. El promedio suma todos los valores, por lo que el valor extremo lo eleva significativamente."
+        },
+        {
+          "letter": "D",
+          "text": "El rango",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango no es una medida de tendencia central, sino de dispersión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La media aritmética es sensible a valores extremos (outliers). En este caso, el sueldo alto \"tira\" el promedio hacia arriba, haciendo que no sea representativo de la mayoría de los empleados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué medida de dispersión indica la diferencia entre el precio más caro y el más barato?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Varianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La varianza mide el promedio de los cuadrados de las desviaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Rango",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto."
+        },
+        {
+          "letter": "C",
+          "text": "Desviación estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la raíz de la varianza."
+        },
+        {
+          "letter": "D",
+          "text": "Coeficiente de variación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida relativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango es la medida de dispersión más simple y se calcula restando el valor mínimo al valor máximo de una muestra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el promedio de puntos por partido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar todos los valores o dividió mal."
+        },
+        {
+          "letter": "B",
+          "text": "17,5",
+          "is_correct": true,
+          "feedback": "Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de redondeo o suma."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el promedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media aritmética se calcula sumando todos los valores de la muestra y dividiendo el resultado por el tamaño de la muestra (n).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué interpretación es correcta respecto a ese valor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 3% de los jóvenes usa el celular 1 hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuartil no representa porcentajes de la variable, sino proporciones de la población."
+        },
+        {
+          "letter": "B",
+          "text": "El 25% de los jóvenes usa el celular 3 horas o menos.",
+          "is_correct": true,
+          "feedback": "Correcto. El Q1 deja por debajo al 25% de la distribución ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "El 75% de los jóvenes usa el celular 3 horas o menos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería al Cuartil 3 (Q3)."
+        },
+        {
+          "letter": "D",
+          "text": "El promedio de uso es de 3 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuartil es una medida de posición, no de tendencia central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuartiles dividen la muestra ordenada en cuatro partes iguales. El primer cuartil (Q1) separa al 25% inferior de los datos del resto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grupo B es más homogéneo que el Grupo A.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor desviación significa mayor dispersión (menos homogeneidad)."
+        },
+        {
+          "letter": "B",
+          "text": "El Grupo A es más homogéneo y sus integrantes tienen alturas más parecidas entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Una menor desviación estándar indica que los datos están más cerca del promedio."
+        },
+        {
+          "letter": "C",
+          "text": "En el Grupo B hay más personas que miden exactamente 1,70 m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación alta indica justamente lo contrario: que hay más variedad."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque los promedios son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión es justamente lo que permite diferenciarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desviación estándar mide cuánto se alejan, en promedio, los datos respecto de la media. A menor desviación, los datos están más concentrados (muestra más homogénea).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se denomina al intervalo [80, 90)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clase mediana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para la mediana se debe mirar la frecuencia acumulada."
+        },
+        {
+          "letter": "B",
+          "text": "Clase modal",
+          "is_correct": true,
+          "feedback": "Correcto. En datos agrupados, la clase modal es el intervalo con la mayor frecuencia absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Rango intercuartílico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango es una diferencia de valores, no un intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "Marca de clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca de clase es el valor 85, no el intervalo completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En distribuciones de frecuencias con datos agrupados, el intervalo que registra la mayor cantidad de observaciones se denomina clase modal o intervalo modal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la desviación estándar de este conjunto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la varianza."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la mitad de la varianza."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar es la raíz cuadrada positiva de la varianza. √16 = 4."
+        },
+        {
+          "letter": "D",
+          "text": "2500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería el cuadrado del promedio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desviación estándar se define como la raíz cuadrada de la varianza. Se utiliza para expresar la dispersión en las mismas unidades que la variable original.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántos alumnos tienen 12 o más inasistencias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 alumnos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 90% (36) tiene 12 o menos."
+        },
+        {
+          "letter": "B",
+          "text": "4 alumnos",
+          "is_correct": true,
+          "feedback": "Correcto. El P90 deja al 10% superior por encima. El 10% de 40 es 4."
+        },
+        {
+          "letter": "C",
+          "text": "90 alumnos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supera el total del curso."
+        },
+        {
+          "letter": "D",
+          "text": "12 alumnos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 es el valor de la variable (inasistencias), no la cantidad de alumnos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los percentiles dividen los datos en 100 partes. El P90 indica que el 90% de los datos son menores o iguales a ese valor, lo que implica que el 10% restante es mayor o igual. 10% de 40 = 4.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué sucede con el promedio de la nueva muestra de 11 datos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El promedio aumenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aumentaría si el dato fuera mayor a 25."
+        },
+        {
+          "letter": "B",
+          "text": "El promedio disminuye.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo disminuiría si el dato fuera menor a 25."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio se mantiene igual.",
+          "is_correct": true,
+          "feedback": "Correcto. Agregar un dato igual a la media no altera el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin conocer todos los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propiedad matemática general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si el nuevo valor incorporado es exactamente igual a la media aritmética actual, la suma total aumenta proporcionalmente al número de datos, por lo que el promedio no varía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor de la mediana según la fórmula: Me = Li + ai * [(n/2 - Fi-1) / fi]?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55",
+          "is_correct": true,
+          "feedback": "Correcto. Me = 50 + 10 * [(50 - 40) / 20] = 50 + 10 * [10/20] = 50 + 5 = 55."
+        },
+        {
+          "letter": "B",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación dentro del paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el límite inferior, falta sumar el ajuste por frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "52,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de la aplicación correcta de la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la fórmula de interpolación para la mediana en datos agrupados. La diferencia (n/2 - Fi-1) nos dice cuántos datos nos faltan dentro del intervalo para llegar a la mitad, y se escala por la densidad de ese intervalo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v13",
+      "statement": "¿Qué indica esta característica sobre la distribución de los tiempos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distribución es simétrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una simétrica los bigotes tendrían largos similares."
+        },
+        {
+          "letter": "B",
+          "text": "La distribución tiene asimetría positiva (cola hacia la derecha).",
+          "is_correct": true,
+          "feedback": "Correcto. El bigote largo hacia valores altos indica que hay tiempos muy dispersos o extremos en la parte superior."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los corredores hicieron tiempos muy parecidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el bigote largo indica mayor dispersión en ese sector."
+        },
+        {
+          "letter": "D",
+          "text": "La mediana es igual al valor máximo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Físicamente imposible si existe un bigote superior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un Boxplot, la longitud de los bigotes representa la dispersión de los datos fuera del rango intercuartílico. Un bigote superior largo indica que el 25% de los datos superiores está muy disperso (asimetría a la derecha).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál será la nueva varianza expresada en kg²?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se divide la varianza por la constante linealmente."
+        },
+        {
+          "letter": "B",
+          "text": "0,01",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si se dividiera por la constante, no por su cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "0,0001",
+          "is_correct": true,
+          "feedback": "Correcto. Var(kX) = k² * Var(X). Aquí k = 1/1000. Nueva Var = (1/1000)² * 100 = 100 / 1.000.000 = 0,0001."
+        },
+        {
+          "letter": "D",
+          "text": "0,001",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el factor de escala de la varianza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si multiplicamos todos los datos por una constante k, la media queda multiplicada por k, pero la varianza queda multiplicada por k². Esto es fundamental para entender cómo escalan las medidas de dispersión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v15",
+      "statement": "¿En qué ciudad hay mayor dispersión relativa de precios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la Ciudad 1",
+          "is_correct": true,
+          "feedback": "Correcto. CV1 = 40/800 = 0,05 (5%). CV2 = 45/1000 = 0,045 (4,5%)."
+        },
+        {
+          "letter": "B",
+          "text": "En la Ciudad 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la desviación absoluta es mayor (45 vs 40), respecto a su media es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Es igual en ambas ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los porcentajes son distintos."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede calcular sin el número de estaciones de servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CV solo requiere media y desviación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Coeficiente de Variación permite comparar la dispersión entre grupos con distintas medias. Aquí, la Ciudad 1 tiene una variabilidad mayor en relación con su nivel de precios (5% frente a 4,5%).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v16",
+      "statement": "¿Qué representa este valor de 20?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia entre el valor máximo y el mínimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el rango total."
+        },
+        {
+          "letter": "B",
+          "text": "El rango donde se concentra el 50% central de los datos.",
+          "is_correct": true,
+          "feedback": "Correcto. El RI mide la dispersión del 50% de los datos que están alrededor de la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "El valor por debajo del cual está el 20% de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un percentil."
+        },
+        {
+          "letter": "D",
+          "text": "El promedio de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida de dispersión, no de tendencia central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango intercuartílico es una medida de dispersión robusta que no se ve afectada por valores extremos, ya que solo considera la variabilidad de la mitad central de la muestra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v17",
+      "statement": "¿Qué se puede afirmar con seguridad sobre los datos de esta muestra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los datos están distribuidos uniformemente entre 0 y 20.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría una varianza alta."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los datos son iguales a 10.",
+          "is_correct": true,
+          "feedback": "Correcto. La única forma de que la varianza sea 0 es que no haya ninguna desviación respecto a la media."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de los datos es 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es n * media = 50."
+        },
+        {
+          "letter": "D",
+          "text": "Hay datos negativos y positivos que se compensan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría una varianza mayor a 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La varianza es una suma de cuadrados, por lo que siempre es mayor o igual a cero. Si es igual a cero, cada término (xi - media)² debe ser cero, lo que implica que cada dato es igual a la media.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué valores tendrán la mediana y la moda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Serán menores a 150.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En distribuciones simétricas coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana será 150 y la moda mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas serán iguales a 150.",
+          "is_correct": true,
+          "feedback": "Correcto. En distribuciones simétricas unimodales (como la Normal), las tres medidas de tendencia central coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar sin los datos originales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propiedad de la forma de la distribución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La simetría implica que el \"centro\" es el mismo para la frecuencia (moda), la posición (mediana) y el equilibrio aritmético (media).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la nueva media y la nueva desviación estándar de Y?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media 80, Desv 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante a la media."
+        },
+        {
+          "letter": "B",
+          "text": "Media 90, Desv 10",
+          "is_correct": true,
+          "feedback": "Correcto. Nueva Media = 2 * 40 + 10 = 90. Nueva Desv = 2 * 5 = 10 (la constante sumada no afecta la dispersión)."
+        },
+        {
+          "letter": "C",
+          "text": "Media 90, Desv 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación no se eleva al cuadrado (eso es para la varianza)."
+        },
+        {
+          "letter": "D",
+          "text": "Media 100, Desv 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de las fórmulas de transformación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedades de transformaciones lineales: E[aX + b] = aE[X] + b y σ[aX + b] = |a|σ[X]. La suma de una constante desplaza los datos pero no cambia su separación (dispersión).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle-v20",
+      "statement": "Si sos un inversor conservador que busca estabilidad, ¿cuál fondo elegirías y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Fondo A, porque tiene un rango intercuartílico menor, lo que indica rendimientos más estables y menos riesgo.",
+          "is_correct": true,
+          "feedback": "Correcto. Menor medida de dispersión significa que los resultados reales suelen estar más cerca del promedio."
+        },
+        {
+          "letter": "B",
+          "text": "El Fondo B, porque la mayor dispersión permite ganar mucho más algunos meses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es para perfiles arriesgados, no conservadores; además, también se puede perder más."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquiera, ya que ambos tienen el mismo promedio de ganancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio no cuenta toda la historia; el riesgo es fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque el RI no sirve para evaluar inversiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida válida de riesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En finanzas, el riesgo se asocia con la dispersión de los rendimientos. Un fondo con menor variabilidad (menor RI o desviación) ofrece mayor certidumbre y estabilidad para el inversor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W25-estadistica-medidas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

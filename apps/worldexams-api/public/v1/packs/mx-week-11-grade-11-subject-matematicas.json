@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.884Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para calcular la suma de los ángulos internos de un polígono convexo de $n$ lados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S = 180(n + 2)$",
+          "is_correct": false,
+          "feedback": "Esta fórmula aumentaría la suma en lugar de disminuirla proporcionalmente a los triángulos formados."
+        },
+        {
+          "letter": "B",
+          "text": "$S = 180(n - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los ángulos internos se basa en que un polígono de n lados se puede dividir en (n-2) triángulos."
+        },
+        {
+          "letter": "C",
+          "text": "$S = 360(n - 2)$",
+          "is_correct": false,
+          "feedback": "El factor multiplicativo es 180 grados, que es la suma de los ángulos de un triángulo, no 360."
+        },
+        {
+          "letter": "D",
+          "text": "$S = 180n$",
+          "is_correct": false,
+          "feedback": "Esta fórmula no resta los dos triángulos que no se forman desde un solo vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier polígono convexo de $n$ lados, el número de triángulos que se pueden trazar desde un solo vértice es $n-2$. Dado que la suma de los ángulos internos de cada triángulo es $180^{\\circ}$, la suma total es $180(n-2)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al cuadrilátero que tiene exactamente un par de lados paralelos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paralelogramo",
+          "is_correct": false,
+          "feedback": "Un paralelogramo tiene dos pares de lados paralelos, no solo uno."
+        },
+        {
+          "letter": "B",
+          "text": "Rombo",
+          "is_correct": false,
+          "feedback": "El rombo es un tipo de paralelogramo con cuatro lados iguales; tiene dos pares de lados paralelos."
+        },
+        {
+          "letter": "C",
+          "text": "Trapecio",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, un trapecio es un cuadrilátero con un solo par de lados paralelos (llamados bases)."
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": false,
+          "feedback": "Un rectángulo tiene dos pares de lados paralelos y ángulos de 90 grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clasificación de los cuadriláteros se basa en el paralelismo de sus lados. El trapecio se distingue por tener únicamente un par de lados opuestos paralelos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v3",
+      "statement": "Si el diámetro de un círculo se duplica, ¿qué sucede con su circunferencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuadruplica",
+          "is_correct": false,
+          "feedback": "La circunferencia es lineal respecto al diámetro (C = πd), no cuadrática."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica",
+          "is_correct": true,
+          "feedback": "Correcto. Como C = πd, si d se convierte en 2d, la nueva circunferencia es π(2d) = 2(πd), es decir, el doble."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece igual",
+          "is_correct": false,
+          "feedback": "La circunferencia depende directamente de la medida del diámetro."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta en un factor de π",
+          "is_correct": false,
+          "feedback": "π es la constante de proporcionalidad, pero el factor de cambio es el mismo que el del diámetro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia de un círculo es directamente proporcional a su diámetro ($C = \\pi d$). Al ser una relación lineal, cualquier factor de escala aplicado al diámetro se aplicará de la misma forma a la circunferencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v4",
+      "statement": "En un triángulo equilátero, ¿cuál es la medida de cada uno de sus ángulos exteriores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el valor de los ángulos interiores, no los exteriores."
+        },
+        {
+          "letter": "B",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Un triángulo equilátero no tiene ángulos rectos."
+        },
+        {
+          "letter": "C",
+          "text": "$120^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo exterior es suplementario al interior (180 - 60 = 120)."
+        },
+        {
+          "letter": "D",
+          "text": "$180^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Un ángulo exterior no puede ser llano en un polígono convexo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo equilátero, todos los ángulos internos miden $60^{\\circ}$. El ángulo exterior es el suplemento del ángulo interior adyacente, por lo tanto: $180^{\\circ} - 60^{\\circ} = 120^{\\circ}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v5",
+      "statement": "Si cada lado del hexágono mide 4 metros y su apotema es de aproximadamente 3.46 metros, ¿cuál es el área del jardín?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13.84\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este valor es solo el producto del lado por la apotema, no el área total."
+        },
+        {
+          "letter": "B",
+          "text": "$20.76\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo del perímetro en la fórmula del área."
+        },
+        {
+          "letter": "C",
+          "text": "$41.52\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (Perímetro × apotema) / 2. Perímetro = 6 × 4 = 24. Área = (24 × 3.46) / 2 = 41.52."
+        },
+        {
+          "letter": "D",
+          "text": "$83.04\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Olvidaste dividir entre 2 en la fórmula del área de un polígono regular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un polígono regular se calcula con la fórmula $A = \\frac{P \\cdot a}{2}$. El perímetro $P$ de un hexágono de lado 4 m es $24\\text{ m}$. Entonces, $A = \\frac{24 \\cdot 3.46}{2} = 12 \\cdot 3.46 = 41.52\\text{ m}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v6",
+      "statement": "El trapecio tiene bases de 10 cm y 18 cm, y una altura de 6 cm. ¿Cuál es su área?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$168\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Multiplicaste la suma de las bases por la altura sin dividir entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "$84\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = [(B + b) × h] / 2 = [(18 + 10) × 6] / 2 = (28 × 6) / 2 = 84."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Solo consideraste una de las bases para el cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "$42\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Dividiste el resultado correcto entre dos nuevamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un trapecio se obtiene con la fórmula $A = \\frac{(B + b)h}{2}$. Sustituyendo los valores: $A = \\frac{(18 + 10) \\cdot 6}{2} = \\frac{28 \\cdot 6}{2} = 14 \\cdot 6 = 84\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v7",
+      "statement": "Si el diámetro de la glorieta es de 12 metros, ¿cuál es su área aproximada? (Considera $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$37.68\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a la circunferencia, no al área."
+        },
+        {
+          "letter": "B",
+          "text": "$452.16\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Usaste el diámetro en lugar del radio en la fórmula del área (πd²)."
+        },
+        {
+          "letter": "C",
+          "text": "$113.04\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. El radio es 6 m. Área = πr² = 3.14 × (6)² = 3.14 × 36 = 113.04."
+        },
+        {
+          "letter": "D",
+          "text": "$18.84\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del radio multiplicado por π, lo cual es incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular el área de un círculo ($A = \\pi r^2$), primero identificamos el radio, que es la mitad del diámetro ($12 / 2 = 6\\text{ m}$). Aplicamos la fórmula: $A = 3.14 \\cdot (6)^2 = 3.14 \\cdot 36 = 113.04\\text{ m}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v8",
+      "statement": "Si las diagonales del rombo miden 16 cm y 12 cm, ¿cuál es el área de la superficie delimitada por el marco?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$192\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Multiplicaste las diagonales pero olvidaste dividir entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "$96\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (D × d) / 2 = (16 × 12) / 2 = 192 / 2 = 96."
+        },
+        {
+          "letter": "C",
+          "text": "$28\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste las diagonales en lugar de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$56\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste las diagonales y multiplicaste por dos, lo cual no corresponde al área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un rombo se calcula multiplicando su diagonal mayor ($D$) por su diagonal menor ($d$) y dividiendo el resultado entre dos: $A = \\frac{D \\cdot d}{2}$. Así, $A = \\frac{16 \\cdot 12}{2} = 96\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la medida de cada ángulo interno de un hexágono regular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el ángulo de un cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$108^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el ángulo interno de un pentágono regular."
+        },
+        {
+          "letter": "C",
+          "text": "$120^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma = 180(6-2) = 720. Cada ángulo = 720 / 6 = 120."
+        },
+        {
+          "letter": "D",
+          "text": "$140^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde a un hexágono regular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos internos de un hexágono ($n=6$) es $180(6-2) = 720^{\\circ}$. Al ser un polígono regular, todos sus ángulos son iguales, por lo que cada uno mide $720^{\\circ} / 6 = 120^{\\circ}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v10",
+      "statement": "Calcula el área de un sector circular cuyo radio mide 10 cm y cuyo ángulo central es de $60^{\\circ}$. (Considera $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$31.4\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor se obtiene al no elevar el radio al cuadrado en la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$52.33\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (πr² × θ) / 360 = (3.14 × 100 × 60) / 360 = 314 / 6 ≈ 52.33."
+        },
+        {
+          "letter": "C",
+          "text": "$104.66\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor es el doble del área del sector solicitado."
+        },
+        {
+          "letter": "D",
+          "text": "$314\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área del círculo completo, no solo del sector de 60 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un sector circular es una fracción del área total del círculo, proporcional al ángulo central: $A = \\frac{\\pi r^2 \\theta}{360}$. Para $r=10$ y $\\theta=60$: $A = \\frac{3.14 \\cdot 100 \\cdot 60}{360} = \\frac{314}{6} \\approx 52.33\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v11",
+      "statement": "El rectángulo central mide 80 m de largo y 40 m de ancho. Si los semicírculos tienen un diámetro igual al ancho del rectángulo (40 m), ¿cuál es el área total de la pista? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3,200\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Solo calculaste el área del rectángulo central."
+        },
+        {
+          "letter": "B",
+          "text": "$3,828\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste el área de un solo semicírculo en lugar de dos."
+        },
+        {
+          "letter": "C",
+          "text": "$4,456\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área rect = 80×40 = 3200. Área 2 semicirc (1 círculo) = π(20)² = 1256. Total = 3200 + 1256 = 4456."
+        },
+        {
+          "letter": "D",
+          "text": "$8,224\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Usaste el diámetro en lugar del radio para el área de los semicírculos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pista se compone de un rectángulo ($80 \\cdot 40 = 3,200\\text{ m}^2$) y dos semicírculos que forman un círculo completo de radio $20\\text{ m}$ ($A = 3.14 \\cdot 20^2 = 1,256\\text{ m}^2$). Sumando ambas áreas: $3,200 + 1,256 = 4,456\\text{ m}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el área de la región del círculo que queda fuera del cuadrado? (Considera $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25.0\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del área de un triángulo formado por el radio y el lado del cuadrado, no la región buscada."
+        },
+        {
+          "letter": "B",
+          "text": "$28.5\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área círculo = 78.5. El lado del cuadrado es s = 5√2, s² = 50. Diferencia = 78.5 - 50 = 28.5."
+        },
+        {
+          "letter": "C",
+          "text": "$53.5\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Restaste incorrectamente el área del cuadrado o calculaste mal su lado."
+        },
+        {
+          "letter": "D",
+          "text": "$18.5\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error en el cálculo del área del cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El círculo tiene área $A_c = \\pi(5)^2 = 78.5\\text{ cm}^2$. Para el cuadrado inscrito, su diagonal es el diámetro del círculo ($10\\text{ cm}$). El área del cuadrado es $A_q = \\frac{d^2}{2} = \\frac{10^2}{2} = 50\\text{ cm}^2$. El área sombreada es $78.5 - 50 = 28.5\\text{ cm}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la altura de dicho triángulo equilátero si su base pasa por un punto que está a una distancia igual al radio desde el vértice superior (es decir, el centro del círculo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Esta es solo la distancia del centro al vértice, falta la distancia del centro a la base."
+        },
+        {
+          "letter": "B",
+          "text": "$6\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo equilátero inscrito, el centro divide a la altura en relación 2:1. Altura = R + R/2 = 4 + 2 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Esta medida corresponde al diámetro del círculo, no a la altura del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\sqrt{3}\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este es el valor de un lado del triángulo, no su altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo equilátero inscrito, el centro del círculo es el baricentro. El baricentro divide a la altura en dos segmentos de razón $2:1$. El segmento superior es el radio $R=4$, por lo que el segmento inferior es $R/2 = 2$. La altura total es $4 + 2 = 6\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v14",
+      "statement": "Si para formar el octágono se cortan los cuatro rincones del cuadrado (triángulos rectángulos isósceles), ¿cuál es el perímetro del octágono resultante si el lado del octágono mide aproximadamente 4.14 cm?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este es el perímetro del cuadrado original."
+        },
+        {
+          "letter": "B",
+          "text": "$33.12\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un octágono regular tiene 8 lados iguales. Perímetro = 8 × 4.14 = 33.12."
+        },
+        {
+          "letter": "C",
+          "text": "$16.56\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Dividiste el perímetro correcto entre dos."
+        },
+        {
+          "letter": "D",
+          "text": "$41.4\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Multiplicaste por 10 en lugar de por 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un octágono regular posee ocho lados de igual longitud. Dado que se especifica que el lado mide $4.14\\text{ cm}$, el perímetro se calcula simplemente multiplicando esta medida por ocho: $4.14 \\cdot 8 = 33.12\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el área que ocupa la vereda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,500\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área total del terreno original."
+        },
+        {
+          "letter": "B",
+          "text": "$1,196\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área del rectángulo interior resultante, no la de la vereda."
+        },
+        {
+          "letter": "C",
+          "text": "$304\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área total = 1500. Rectángulo interior = (50-4)×(30-4) = 46×26 = 1196. Vereda = 1500 - 1196 = 304."
+        },
+        {
+          "letter": "D",
+          "text": "$320\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de las nuevas dimensiones del rectángulo interior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área original es $50 \\cdot 30 = 1,500\\text{ m}^2$. Al restar la vereda de $2\\text{ m}$ por cada lado, las nuevas dimensiones son $50-4=46\\text{ m}$ y $30-4=26\\text{ m}$. El área interior es $46 \\cdot 26 = 1,196\\text{ m}^2$. El área de la vereda es la diferencia: $1,500 - 1,196 = 304\\text{ m}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v16",
+      "statement": "Tres círculos de radio 10 cm son tangentes entre sí dos a dos. ¿Cuál es el área del triángulo que se forma al unir sus centros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde al área de un triángulo equilátero de lado 20."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\sqrt{3}\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Los lados del triángulo miden R+R = 20. Área = (s²√3)/4 = (400√3)/4 = 100√3."
+        },
+        {
+          "letter": "C",
+          "text": "$200\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de la fórmula del área del triángulo equilátero."
+        },
+        {
+          "letter": "D",
+          "text": "$50\\sqrt{3}\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Dividiste incorrectamente o usaste un lado de 10 en lugar de 20."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al unir los centros de tres círculos tangentes de radio $R$, se forma un triángulo equilátero cuyos lados miden $2R$. Con $R=10$, el lado $s=20$. El área de un triángulo equilátero es $\\frac{s^2\\sqrt{3}}{4} = \\frac{20^2\\sqrt{3}}{4} = \\frac{400\\sqrt{3}}{4} = 100\\sqrt{3}\\text{ cm}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la expresión general para el área de un hexágono regular en términos únicamente de la longitud de su lado $L$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3L^2$",
+          "is_correct": false,
+          "feedback": "Esta expresión subestima el área total del hexágono."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3L^2}{2}$",
+          "is_correct": false,
+          "feedback": "Falta el factor de raíz de 3 característico de los triángulos equiláteros que componen el hexágono."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3\\sqrt{3}L^2}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un hexágono regular se compone de 6 triángulos equiláteros de área (L²√3)/4. Total = 6 × (L²√3)/4 = (3√3L²)/2."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{3}L^2$",
+          "is_correct": false,
+          "feedback": "Esta expresión sobreestima el área por un factor de 4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un hexágono regular se divide en 6 triángulos equiláteros. El área de uno de estos triángulos con lado $L$ es $A_t = \\frac{L^2\\sqrt{3}}{4}$. Multiplicando por 6 obtenemos el área total: $A = 6 \\cdot \\frac{L^2\\sqrt{3}}{4} = \\frac{3\\sqrt{3}L^2}{2}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué sucede con el área de un polígono regular de $n$ lados, inscrito en un círculo de radio fijo $R$, a medida que el número de lados $n$ tiende al infinito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área tiende a infinito",
+          "is_correct": false,
+          "feedback": "El área está acotada por el círculo en el que el polígono está inscrito."
+        },
+        {
+          "letter": "B",
+          "text": "El área tiende a cero",
+          "is_correct": false,
+          "feedback": "Al aumentar los lados, el polígono ocupa más espacio dentro del círculo, no menos."
+        },
+        {
+          "letter": "C",
+          "text": "El área tiende a $\\pi R^2$",
+          "is_correct": true,
+          "feedback": "Correcto. A medida que n aumenta, el polígono se aproxima cada vez más a la forma del círculo que lo contiene."
+        },
+        {
+          "letter": "D",
+          "text": "El área tiende a $2\\pi R$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la circunferencia (longitud), no del área."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es el concepto fundamental del cálculo integral desarrollado por Arquímedes. Al aumentar indefinidamente el número de lados de un polígono inscrito, el polígono \"agota\" el área del círculo, convergiendo a $\\pi R^2$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el área de la región donde se traslapan los cuatro semicírculos (el \"pétalo\" central formado)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2(\\pi - 1)$",
+          "is_correct": false,
+          "feedback": "Esta expresión resultaría en un área mayor que la del cuadrado mismo."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2(\\frac{\\pi}{2} - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. El área de la región de traslape de dos semicírculos opuestos menos el cuadrado permite deducir esta forma característica."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi a^2}{4}$",
+          "is_correct": false,
+          "feedback": "Este es solo el área de un cuarto de círculo."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2(1 - \\frac{\\pi}{4})$",
+          "is_correct": false,
+          "feedback": "Esta es el área de las esquinas del cuadrado no cubiertas por un cuarto de círculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema se resuelve mediante la suma de áreas de sectores circulares y la resta de áreas de triángulos o del cuadrado mismo. La intersección de los semicírculos genera una figura cuya área es $a^2(\\frac{\\pi}{2} - 1)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v20",
+      "statement": "Si la distancia entre los centros de los dos círculos es igual al radio $R$, ¿cuál es el área de la región común (intersección)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$R^2(\\frac{\\pi}{2})$",
+          "is_correct": false,
+          "feedback": "Esta es el área de medio círculo, no corresponde a la intersección dada."
+        },
+        {
+          "letter": "B",
+          "text": "$R^2(\\frac{2\\pi}{3} - \\frac{\\sqrt{3}}{2})$",
+          "is_correct": true,
+          "feedback": "Correcto. Se calcula restando segmentos circulares o mediante la integración de las áreas de los sectores de 120 grados."
+        },
+        {
+          "letter": "C",
+          "text": "$R^2(\\frac{\\pi}{3} - \\frac{\\sqrt{3}}{4})$",
+          "is_correct": false,
+          "feedback": "Este valor es solo la mitad del área de la intersección."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi R^2$",
+          "is_correct": false,
+          "feedback": "Este es el área de un círculo completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intersección de dos círculos con centros separados por una distancia $R$ forma dos sectores circulares de $120^{\\circ}$ superpuestos. El área se obtiene sumando las áreas de estos sectores y restando el área del rombo formado por los radios. El resultado es $R^2(\\frac{2\\pi}{3} - \\frac{\\sqrt{3}}{2})$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

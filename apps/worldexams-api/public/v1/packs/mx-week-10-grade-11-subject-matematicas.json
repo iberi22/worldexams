@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-14T23:26:45.883Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición matemática de una función racional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una función donde la variable independiente $x$ está elevada a una potencia fraccionaria.",
+          "is_correct": false,
+          "feedback": "Esto describe una función radical o de potencia racional, no una función racional estándar."
+        },
+        {
+          "letter": "B",
+          "text": "Es una función que puede expresarse como el cociente de dos polinomios, $f(x) = \\frac{P(x)}{Q(x)}$, donde $Q(x)$ no es el polinomio cero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una función racional es la razón de dos expresiones polinomiales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una función cuya gráfica es siempre una línea recta con pendiente fraccionaria.",
+          "is_correct": false,
+          "feedback": "Las funciones racionales suelen tener curvas complejas y asíntotas, no son líneas rectas."
+        },
+        {
+          "letter": "D",
+          "text": "Es una función que solo acepta números enteros como valores de entrada.",
+          "is_correct": false,
+          "feedback": "El dominio de una función racional son casi todos los números reales (excepto donde el denominador es cero)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función racional es de la forma $f(x) = \\frac{p(x)}{q(x)}$. Su comportamiento está fuertemente influenciado por los valores que hacen que el denominador sea igual a cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el valor $x = 0$ se excluye del dominio de la función $f(x) = \\frac{1}{x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el resultado de la función sería cero.",
+          "is_correct": false,
+          "feedback": "Si dividieras 1 entre un número muy pequeño, el resultado sería muy grande, no cero."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la división entre cero no está definida en el conjunto de los números reales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cualquier valor que anule el denominador crea una indeterminación o una asíntota."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gráfica de la función debe ser continua en todo momento.",
+          "is_correct": false,
+          "feedback": "La exclusión de un punto precisamente hace que la función sea discontinua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el rango de la función solo admite números positivos.",
+          "is_correct": false,
+          "feedback": "El rango de 1/x admite tanto positivos como negativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una función racional, el dominio está formado por todos los números reales excepto aquellos que provocan una división por cero en el denominador.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se le denomina a la recta vertical a la cual la gráfica de una función racional se aproxima indefinidamente pero nunca llega a tocar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eje de simetría.",
+          "is_correct": false,
+          "feedback": "El eje de simetría divide a una figura en dos partes iguales, no es necesariamente una línea de aproximación infinita."
+        },
+        {
+          "letter": "B",
+          "text": "Asíntota vertical.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las asíntotas verticales ocurren en los valores de x que anulan al denominador (y no al numerador)."
+        },
+        {
+          "letter": "C",
+          "text": "Directriz.",
+          "is_correct": false,
+          "feedback": "La directriz es un elemento de la parábola, no de las funciones racionales en general."
+        },
+        {
+          "letter": "D",
+          "text": "Tangente horizontal.",
+          "is_correct": false,
+          "feedback": "Una tangente toca a la curva; una asíntota es una línea límite que no se toca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las asíntotas verticales son rectas de la forma $x = c$. Indican que cuando $x$ se acerca a $c$, los valores de la función tienden a $+\\infty$ o $-\\infty$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la intersección con el eje $y$ de la función $C(x) = \\frac{2x + 10}{x + 2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la asíntota horizontal (coeficientes principales), no de la intersección con y."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! C(0) = (2*0 + 10) / (0 + 2) = 10 / 2 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 10)$",
+          "is_correct": false,
+          "feedback": "Olvidaste dividir por el término constante del denominador (2)."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, 0)$",
+          "is_correct": false,
+          "feedback": "Este punto ni siquiera está en el dominio de la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier función, la intersección con el eje $y$ se encuentra evaluando la función en $x = 0$. En funciones racionales, esto resulta en el cociente de los términos constantes de los polinomios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las ecuaciones de las asíntotas verticales de la función $f(x) = \\frac{x + 4}{x^2 - 9}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Debes encontrar los valores de x que hacen que x^2-9 sea cero."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -4$",
+          "is_correct": false,
+          "feedback": "Este es el valor que anula al numerador (intersección con x), no al denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$ y $x = -3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! x^2 - 9 = 0 => (x-3)(x+3) = 0, por lo tanto x=3 y x=-3."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "Esta es una asíntota horizontal, no vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las asíntotas verticales se localizan encontrando los ceros del denominador que no anulan simultáneamente al numerador. Se resuelven mediante factorización o despeje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la ecuación de la asíntota horizontal de la función $V(t) = \\frac{6t - 2}{2t + 5}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre cuando el grado del denominador es mayor que el del numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cuando los grados son iguales, la asíntota horizontal es el cociente de los coeficientes principales: 6 / 2 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -0.4$",
+          "is_correct": false,
+          "feedback": "Este valor es el cociente de los términos constantes, no de los principales."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntota horizontal.",
+          "is_correct": false,
+          "feedback": "Todas las funciones racionales donde el grado del numerador es menor o igual al del denominador tienen asíntota horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si el grado del numerador es igual al grado del denominador, la asíntota horizontal es la recta $y = \\frac{a}{b}$, donde $a$ y $b$ son los coeficientes de los términos de mayor grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v7",
+      "statement": "¿En qué valores de $x$ la función $g(x) = \\frac{x^2 - 16}{x + 5}$ interseca al eje de las abscisas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Este valor anula al denominador, creando una asíntota, no una intersección."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ y $x = -4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La función es cero cuando el numerador es cero: x^2 - 16 = 0 => x^2 = 16 => x=4, x=-4."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 16$",
+          "is_correct": false,
+          "feedback": "Debes extraer la raíz cuadrada para resolver x^2 = 16."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Al sustituir x=0 obtenemos la intersección con el eje y, no con el eje x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las intersecciones con el eje $x$ de una función racional ocurren en los valores de $x$ que hacen que el numerador sea cero, siempre y cuando esos valores pertenezcan al dominio de la función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la asíntota horizontal de la función $f(x) = \\frac{10}{x^2 + 1}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como el grado del denominador (2) es mayor que el del numerador (0), la función tiende a cero cuando x tiende a infinito."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 10$",
+          "is_correct": false,
+          "feedback": "El 10 es el numerador, no la ubicación de la asíntota horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "x=0 es una recta vertical; las asíntotas horizontales se definen con y = ..."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene, ya que el denominador nunca es cero.",
+          "is_correct": false,
+          "feedback": "El hecho de que no tenga asíntotas verticales no impide que tenga una asíntota horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el grado del polinomio del denominador es mayor que el grado del polinomio del numerador, el eje $x$ ($y = 0$) es automáticamente la asíntota horizontal de la función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el costo promedio por libreta si se producen 500 unidades?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$5.00",
+          "is_correct": false,
+          "feedback": "Este es el costo variable por libreta, pero falta prorratear el costo fijo entre las 500 unidades."
+        },
+        {
+          "letter": "B",
+          "text": "\\$7.00",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(500) = (5*500 + 1000) / 500 = (2500 + 1000) / 500 = 3500 / 500 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "\\$10.00",
+          "is_correct": false,
+          "feedback": "Revisa la suma: 2500 + 1000 = 3500. Al dividir entre 500 da 7."
+        },
+        {
+          "letter": "D",
+          "text": "\\$2.00",
+          "is_correct": false,
+          "feedback": "Error en el cálculo. El costo promedio debe ser mayor al costo variable (5)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones de costo promedio suelen ser racionales. Evaluar para un valor $n$ implica calcular el costo total y dividirlo entre la cantidad de artículos producidos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v10",
+      "statement": "¿Hacia dónde se desplazó la gráfica de $f(x)$ y dónde se encuentran ahora sus asíntotas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 unidades a la izquierda y 2 arriba; asíntotas en $x = -5, y = 2$.",
+          "is_correct": false,
+          "feedback": "El signo -5 desplaza hacia la derecha (valor que anula al denominador)."
+        },
+        {
+          "letter": "B",
+          "text": "5 unidades a la derecha y 2 arriba; asíntotas en $x = 5, y = 2$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! x-5=0 indica asíntota en x=5. El +2 externo desplaza la asíntota horizontal a y=2."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades a la derecha y 2 abajo; asíntotas en $x = 5, y = -2$.",
+          "is_correct": false,
+          "feedback": "El +2 al final desplaza hacia arriba, no hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "2 unidades a la derecha y 5 arriba; asíntotas en $x = 2, y = 5$.",
+          "is_correct": false,
+          "feedback": "Se confundieron los valores de los desplazamientos horizontal y vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma $y = \\frac{a}{x - h} + k$, el valor de $h$ desplaza la asíntota vertical a $x = h$ y el valor de $k$ desplaza la asíntota horizontal a $y = k$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ocurre en la gráfica de la función $f(x) = \\frac{x^2 - 1}{x - 1}$ en el valor $x = 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una asíntota vertical.",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre si el factor del denominador no se cancela con uno del numerador."
+        },
+        {
+          "letter": "B",
+          "text": "Existe un \"hueco\" o discontinuidad removible.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al factorizar (x-1)(x+1)/(x-1), el factor (x-1) se cancela, dejando una recta con un punto vacío en x=1."
+        },
+        {
+          "letter": "C",
+          "text": "La función es continua y vale 2 en ese punto.",
+          "is_correct": false,
+          "feedback": "La función original no está definida en x=1, aunque su límite sea 2."
+        },
+        {
+          "letter": "D",
+          "text": "Existe una asíntota horizontal en $y = 1$.",
+          "is_correct": false,
+          "feedback": "La función se comporta como una recta y=x+1, por lo que no tiene asíntota horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si un factor $(x - c)$ se encuentra tanto en el numerador como en el denominador, se produce una discontinuidad removible (un pequeño círculo vacío en la gráfica) en lugar de una asíntota vertical.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes expresiones podría representar a la función descrita con asíntotas en $x = 1, x = -1$ e $y = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = \\frac{x^2 - 1}{x}$",
+          "is_correct": false,
+          "feedback": "Esta función tiene asíntota vertical en x=0, no en 1 o -1."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = \\frac{x}{x^2 - 1}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador x^2-1 se anula en 1 y -1 (asíntotas verticales). Al ser grado denominador > numerador, y=0 es asíntota horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\frac{1}{x - 1}$",
+          "is_correct": false,
+          "feedback": "Solo tiene una asíntota vertical en x=1."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{x^2}{x^2 - 1}$",
+          "is_correct": false,
+          "feedback": "Esta tendría una asíntota horizontal en y=1, no en y=0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para tener asíntotas en \\$1$ y $-1$, el denominador debe contener los factores $(x-1)$ y $(x+1)$. Para que la asíntota horizontal sea $y=0$, el grado del numerador debe ser menor al del denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v13",
+      "statement": "¿En qué intervalo de valores de $x$ la función $f(x) = \\frac{x - 3}{x + 2}$ arroja resultados **negativos** ($f(x) < 0$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, -2) \\cup (3, \\infty)$",
+          "is_correct": false,
+          "feedback": "En estos intervalos los signos del numerador y denominador coinciden, resultando en valores positivos."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2, 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si x=0 (dentro del intervalo), f(0) = -3/2 = -1.5, que es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Aquí tanto x-3 como x+2 son positivos, por lo que la función es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, -2)$",
+          "is_correct": false,
+          "feedback": "Aquí tanto x-3 como x+2 son negativos, por lo que el cociente es positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo cambia en los valores que anulan al numerador (\\$3$) o al denominador ($-2$). Al probar valores en los intervalos definidos por estos puntos, se determina la región donde la función es negativa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de asíntota presenta la función $h(x) = \\frac{x^2 + 1}{x - 1}$ además de su asíntota vertical?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asíntota horizontal en $y = 1$.",
+          "is_correct": false,
+          "feedback": "El grado del numerador es mayor al del denominador, por lo que no hay asíntota horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "Una asíntota oblicua (diagonal).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esto ocurre cuando el grado del numerador es exactamente uno mayor que el del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna otra asíntota.",
+          "is_correct": false,
+          "feedback": "Al realizar la división sintética o larga se obtiene una parte lineal que define una recta oblicua."
+        },
+        {
+          "letter": "D",
+          "text": "Una asíntota horizontal en $y = 0$.",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre si el denominador tiene mayor grado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las asíntotas oblicuas ocurren cuando el grado del numerador ($n$) es exactamente $n = m + 1$, donde $m$ es el grado del denominador. Se obtiene realizando la división de los polinomios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el dominio de la función real $k(x) = \\frac{5}{x^2 + 4}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq \\pm 2\\}$.",
+          "is_correct": false,
+          "feedback": "x^2+4 nunca se hace cero para valores reales de x (2^2+4=8, (-2)^2+4=8)."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales ($(-\\infty, \\infty)$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador x^2+4 es siempre mayor o igual a 4, por lo que nunca es cero y no hay restricciones."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x > 4\\}$.",
+          "is_correct": false,
+          "feedback": "No hay restricciones para valores pequeños o negativos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq 4\\}$.",
+          "is_correct": false,
+          "feedback": "El valor x=4 daría 4^2+4=20 en el denominador, lo cual es válido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No todas las funciones racionales tienen asíntotas verticales. Si el denominador nunca es igual a cero para ningún valor real de $x$, el dominio de la función es todo el conjunto $\\mathbb{R}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la forma simplificada de la expresión $\\frac{2x^2 - 8}{x + 2}$ para valores de $x \\neq -2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$2x - 8$",
+          "is_correct": false,
+          "feedback": "Olvidaste factorizar el 2 y aplicar la diferencia de cuadrados correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "\\$2x - 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2(x^2 - 4) / (x + 2) = 2(x-2)(x+2) / (x+2) = 2(x-2) = 2x - 4."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 2$",
+          "is_correct": false,
+          "feedback": "El factor 2 que multiplica a x^2 debe conservarse en el resultado final."
+        },
+        {
+          "letter": "D",
+          "text": "\\$2x + 4$",
+          "is_correct": false,
+          "feedback": "El factor que queda tras cancelar (x+2) es (x-2), por lo tanto 2(x-2) = 2x-4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificar funciones racionales requiere factorizar tanto el numerador como el denominador para identificar y cancelar factores comunes, teniendo en cuenta las restricciones del dominio original.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la función $T(v)$ que representa el tiempo total de ida y vuelta en términos de la velocidad de ida $v$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$T(v) = \\frac{240}{2v + 20}$",
+          "is_correct": false,
+          "feedback": "Los tiempos de ida y vuelta se calculan por separado y se suman, no se puede simplemente promediar las velocidades en el denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$T(v) = \\frac{120}{v} + \\frac{120}{v + 20}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tiempo = Distancia / Velocidad. T_total = T_ida (120/v) + T_regreso (120/(v+20))."
+        },
+        {
+          "letter": "C",
+          "text": "$T(v) = \\frac{v}{120} + \\frac{v + 20}{120}$",
+          "is_correct": false,
+          "feedback": "Esto representaría el recíproco del tiempo, no el tiempo en sí."
+        },
+        {
+          "letter": "D",
+          "text": "$T(v) = \\frac{240v + 2400}{v^2 + 20v}$",
+          "is_correct": false,
+          "feedback": "Esta es una forma simplificada parcial, pero la opción B es la representación directa del problema de modelado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de tiempo-distancia-velocidad, si hay diferentes tramos, el tiempo total es la suma de las funciones racionales que representan el tiempo en cada tramo: $T = \\frac{d_1}{v_1} + \\frac{d_2}{v_2}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las siguientes funciones cumple simultáneamente con tener asíntotas verticales en $x = 2, x = 4$ y horizontal en $y = 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = \\frac{3x}{x^2 - 6x + 8}$",
+          "is_correct": false,
+          "feedback": "Esta tiene y=0 como asíntota horizontal porque el grado del denominador es mayor."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = \\frac{3x^2}{x^2 - 6x + 8}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Denominador (x-2)(x-4) = x^2-6x+8 da las verticales. Los grados iguales con coeficientes 3 y 1 dan y=3/1=3."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\frac{3}{(x - 2)(x - 4)}$",
+          "is_correct": false,
+          "feedback": "Asíntota horizontal en y=0."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{x^2 - 6x + 8}{3x^2}$",
+          "is_correct": false,
+          "feedback": "Esta tendría asíntota horizontal en y=1/3 y vertical en x=0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para controlar las asíntotas verticales usamos los factores del denominador. Para controlar la horizontal en $y=k$ (con $k \\neq 0$), el numerador debe tener el mismo grado que el denominador y su coeficiente principal debe ser $k$ veces el del denominador.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v19",
+      "statement": "¿Hacia qué valor tiende $f(x) = \\frac{5x - 1}{x - 2}$ cuando $x$ se aproxima a 2 por valores ligeramente mayores (por la derecha)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$+\\infty$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El numerador tiende a 5(2)-1=9 (positivo) y el denominador a un valor positivo muy pequeño (ej. 2.1-2=0.1). Positivo/Positivo = Positivo grande."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\infty$",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si nos acercáramos por la izquierda (ej. 1.9), donde el denominador sería negativo."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Este es el valor de la asíntota horizontal (comportamiento en el infinito), no cerca del valor prohibido."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La función tiene una asíntota vertical en x=2, por lo que no puede tender a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de límites laterales en las asíntotas verticales permite determinar si la gráfica \"sube\" o \"baja\" al acercarse al valor crítico. Se evalúa el signo del numerador y del denominador cerca del punto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el rango de la función $f(x) = \\frac{4x + 1}{x - 3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{y \\in \\mathbb{R} \\mid y \\neq 3\\}$",
+          "is_correct": false,
+          "feedback": "3 es el valor excluido del dominio, no del rango."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{y \\in \\mathbb{R} \\mid y \\neq 4\\}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La asíntota horizontal está en y=4/1=4. En este tipo de funciones (lineal/lineal), ese es el único valor que la función no puede tomar."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "Las funciones racionales de este tipo siempre tienen un valor de y que no pueden alcanzar (la asíntota horizontal)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{y \\in \\mathbb{R} \\mid y > 0\\}$",
+          "is_correct": false,
+          "feedback": "La función puede tomar valores negativos y positivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones racionales de la forma $\\frac{ax+b}{cx+d}$, el rango consiste en todos los números reales excepto el valor de la asíntota horizontal $y = \\frac{a}{c}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W10-funciones-funcion-racional-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

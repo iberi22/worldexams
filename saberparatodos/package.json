@@ -9,6 +9,8 @@
     "prebuild": "node scripts/generate-build-info.js && node scripts/generate-static-packs.js",
     "build": "astro build",
     "postbuild": "echo 'Build complete'",
+    "generate:packs:weekly": "node scripts/generate-static-packs.js --all-weekly",
+    "generate:packs:changed-weekly": "node scripts/generate-static-packs.js --all-weekly --changed-only",
     "preview": "astro preview",
     "sync:api": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/copy-api.ps1",
     "predeploy": "npm run lint && npm run test:unit && npm run build && node scripts/pre-deploy-check.js",

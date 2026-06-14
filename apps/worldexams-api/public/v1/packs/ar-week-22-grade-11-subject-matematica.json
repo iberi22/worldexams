@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-22-grade-11-subject-matematica",
+    "generated_at": "2026-06-14T23:26:45.844Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la notación matemática correcta para expresar la probabilidad de que un turista haya visitado el Teatro Colón, SABIENDO que ya probó el asado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P(Colón ∩ Asado)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de la intersección (ambos a la vez)."
+        },
+        {
+          "letter": "B",
+          "text": "P(Colón | Asado)",
+          "is_correct": true,
+          "feedback": "Correcto. La barra vertical indica que el evento a su derecha es la condición dada."
+        },
+        {
+          "letter": "C",
+          "text": "P(Colón U Asado)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de la unión (uno u otro)."
+        },
+        {
+          "letter": "D",
+          "text": "P(Asado | Colón)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la probabilidad de haber probado asado dado que visitó el Colón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad condicional de un evento A dado un evento B se escribe P(A | B). Se lee como \"la probabilidad de A dado B\" o \"la probabilidad de A sabiendo que ocurrió B\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v2",
+      "statement": "Si elegimos un alumno que estudia italiano, ¿cuál es la probabilidad de que también estudie francés?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de la intersección respecto al total de alumnos."
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "is_correct": true,
+          "feedback": "Correcto. P(F|I) = P(F ∩ I) / P(I) = 0,05 / 0,30 = 5/30 = 1/6."
+        },
+        {
+          "letter": "C",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al cálculo de probabilidad condicional."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si se dividiera por la probabilidad de francés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula de probabilidad condicional es P(A|B) = P(A ∩ B) / P(B). Aquí, P(F|I) = P(Francés ∩ Italiano) / P(Italiano) = 0,05 / 0,30 = 1/6.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v3",
+      "statement": "Dos eventos A y B son independientes si y solo si se cumple que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P(A ∩ B) = P(A) * P(B)",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición formal de independencia de eventos."
+        },
+        {
+          "letter": "B",
+          "text": "P(A | B) = P(B)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia significa que P(A|B) = P(A)."
+        },
+        {
+          "letter": "C",
+          "text": "P(A U B) = P(A) + P(B)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se cumple si los eventos son mutuamente excluyentes o disjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "P(A | B) = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto significaría que los eventos son incompatibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La independencia implica que la ocurrencia de un evento no afecta la probabilidad del otro. Matemáticamente, esto se traduce en que la probabilidad de la intersección es el producto de las probabilidades individuales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la probabilidad de que un neumático tenga falla de presión SABIENDO que tiene falla de dibujo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,005",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que tenga ambas fallas."
+        },
+        {
+          "letter": "B",
+          "text": "0,10",
+          "is_correct": true,
+          "feedback": "Correcto. Como son independientes, P(Presión | Dibujo) = P(Presión)."
+        },
+        {
+          "letter": "C",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de falla de dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "0,15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que tenga al menos una falla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si dos eventos A y B son independientes, entonces P(A|B) = P(A). El hecho de saber que ocurrió B no cambia la probabilidad de que ocurra A.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v5",
+      "statement": "Si elegimos un paciente que fuma, ¿cuál es la probabilidad de que tenga la enfermedad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,08",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser fumador Y tener la enfermedad."
+        },
+        {
+          "letter": "B",
+          "text": "0,20",
+          "is_correct": true,
+          "feedback": "Correcto. El enunciado indica directamente la probabilidad condicionada: de los que fuman, el 20% tiene la enfermedad."
+        },
+        {
+          "letter": "C",
+          "text": "0,40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de fumar."
+        },
+        {
+          "letter": "D",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de tener la enfermedad dado que no fuma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La información dada \"De los que fuman, el 20% tiene la enfermedad\" representa directamente la probabilidad condicional P(Enfermedad | Fuma) = 0,20.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de que un paciente elegido al azar tenga la enfermedad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,11",
+          "is_correct": true,
+          "feedback": "Correcto. P(E) = P(E|F)*P(F) + P(E|NF)*P(NF) = 0,20*0,40 + 0,05*0,60 = 0,08 + 0,03 = 0,11."
+        },
+        {
+          "letter": "B",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar las probabilidades condicionadas directamente."
+        },
+        {
+          "letter": "C",
+          "text": "0,08",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la parte de los fumadores que enferman."
+        },
+        {
+          "letter": "D",
+          "text": "0,15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la ponderación de los grupos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos el Teorema de la Probabilidad Total. La probabilidad de estar enfermo es la suma de la probabilidad de estar enfermo y fumar, más la probabilidad de estar enfermo y no fumar. P(E) = (0,20 * 0,40) + (0,05 * 0,60) = 0,11.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la probabilidad de que la segunda carta sea un \"Rey\", sabiendo que la primera fue un \"Rey\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que la primera sea Rey."
+        },
+        {
+          "letter": "B",
+          "text": "3/39",
+          "is_correct": true,
+          "feedback": "Correcto. Si ya salió un Rey, quedan 3 en un mazo que ahora tiene 39 cartas."
+        },
+        {
+          "letter": "C",
+          "text": "4/39",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedan 3 Reyes, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "3/40",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de cartas disminuyó a 39."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al no haber reposición, los eventos son dependientes. La probabilidad del segundo evento cambia según el resultado del primero. Si la primera fue Rey, quedan 3 Reyes sobre un total de 39 cartas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la probabilidad de que un alfajor sea defectuoso Y provenga de la máquina B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,02",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser defectuoso dado que es de B."
+        },
+        {
+          "letter": "B",
+          "text": "0,008",
+          "is_correct": true,
+          "feedback": "Correcto. P(Defectuoso ∩ B) = P(Defectuoso | B) * P(B) = 0,02 * 0,40 = 0,008."
+        },
+        {
+          "letter": "C",
+          "text": "0,012",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que sea defectuoso e integrante de la máquina A."
+        },
+        {
+          "letter": "D",
+          "text": "0,014",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad total de ser defectuoso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la regla de la multiplicación: P(A ∩ B) = P(A|B) * P(B). La probabilidad de que un alfajor sea de la máquina B y además sea defectuoso es 0,40 * 0,02 = 0,008.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v9",
+      "statement": "Si el primer marcador fue azul, ¿cuál es la probabilidad de que el segundo sea rojo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/10",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de marcadores cambió tras la primera extracción."
+        },
+        {
+          "letter": "B",
+          "text": "4/9",
+          "is_correct": true,
+          "feedback": "Correcto. Quedan los 4 rojos originales en un total de 9 marcadores."
+        },
+        {
+          "letter": "C",
+          "text": "3/9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la probabilidad si el primero hubiera sido rojo."
+        },
+        {
+          "letter": "D",
+          "text": "5/9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la probabilidad de que el segundo sea azul."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(Rojo en 2do | Azul en 1ro). Al sacar un azul, quedan 9 elementos en la caja (5 azules y 4 rojos). La probabilidad de sacar rojo ahora es 4/9.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la probabilidad de que un socio elegido al azar NO asista al estadio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,68",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que sí asista."
+        },
+        {
+          "letter": "B",
+          "text": "0,32",
+          "is_correct": true,
+          "feedback": "Correcto. P(Asiste) = 0,8*0,7 + 0,4*0,3 = 0,56 + 0,12 = 0,68. P(No asiste) = 1 - 0,68 = 0,32."
+        },
+        {
+          "letter": "C",
+          "text": "0,12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la parte de los hinchas de Buenos Aires que asiste."
+        },
+        {
+          "letter": "D",
+          "text": "0,44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los cálculos intermedios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos primero la probabilidad total de asistir: P(A) = P(A|L)P(L) + P(A|B)P(B) = (0,80 * 0,70) + (0,40 * 0,30) = 0,56 + 0,12 = 0,68. La probabilidad de no asistir es el complemento: 1 - 0,68 = 0,32.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v11",
+      "statement": "Si elegimos a una persona que prefiere Jugo, ¿cuál es la probabilidad de que sea mujer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,70",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de preferir jugo dado que es mujer."
+        },
+        {
+          "letter": "B",
+          "text": "0,35",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser mujer y preferir jugo respecto al total."
+        },
+        {
+          "letter": "C",
+          "text": "7/11",
+          "is_correct": true,
+          "feedback": "Correcto. Total de personas que prefieren jugo = 40 + 70 = 110. De esas, 70 son mujeres. P = 70/110 = 7/11."
+        },
+        {
+          "letter": "D",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más mujeres que hombres en el grupo que prefiere jugo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Restringimos el espacio muestral al evento condicionante \"prefiere Jugo\" (110 personas). Dentro de ese grupo, contamos cuántas son mujeres (70). P = 70/110 ≈ 0,636.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v12",
+      "statement": "¿Son los eventos A y B independientes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque P(A|B) = P(A) = 1/6.",
+          "is_correct": true,
+          "feedback": "Correcto. P(A) = 6/36 = 1/6. P(A|B): si el primero es 4, solo el 3 en el segundo da suma 7, así que P(A|B) = 1/6."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque si sale 4 en el primero, la suma está condicionada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque parezca que sí, matemáticamente la probabilidad no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la suma de dos dados siempre es independiente de cada dado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No siempre es así para otras sumas."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque P(A ∩ B) = 1/36 y P(A)*P(B) = 1/12.",
+          "is_correct": false,
+          "feedback": "Incorrecto. P(A)*P(B) = (1/6)*(1/6) = 1/36, lo cual es igual a la intersección."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calculamos P(A) = 6/36 = 1/6. Calculamos P(B) = 6/36 = 1/6. La intersección es el par (4,3), P(A ∩ B) = 1/36. Como 1/36 = (1/6)*(1/6), los eventos son independientes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la probabilidad de que una persona elegida al azar haya aprobado AMBAS partes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad condicional de la práctica."
+        },
+        {
+          "letter": "B",
+          "text": "0,56",
+          "is_correct": true,
+          "feedback": "Correcto. P(T ∩ P) = P(P|T) * P(T) = 0,80 * 0,70 = 0,56."
+        },
+        {
+          "letter": "C",
+          "text": "0,75",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge del producto de las probabilidades dadas."
+        },
+        {
+          "letter": "D",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la regla del producto para la intersección de eventos dependientes: P(A ∩ B) = P(B|A) * P(A). Aquí: P(Teórica ∩ Práctica) = 0,70 * 0,80 = 0,56.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la probabilidad de que el alfajor extraído sea de chocolate?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13/20",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar los casos directamente si las cajas tienen distinta probabilidad de ser elegidas (o si se ignora el proceso de elección)."
+        },
+        {
+          "letter": "B",
+          "text": "0,65",
+          "is_correct": true,
+          "feedback": "Correcto. P(Ch) = P(Ch|C1)P(C1) + P(Ch|C2)P(C2) = (8/10 * 0,5) + (5/10 * 0,5) = 0,4 + 0,25 = 0,65."
+        },
+        {
+          "letter": "C",
+          "text": "0,80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la probabilidad si fuera de la caja 1."
+        },
+        {
+          "letter": "D",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad si fuera de la caja 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la Probabilidad Total. La probabilidad de elegir chocolate depende de qué caja se elija. Como cada caja tiene 1/2 de probabilidad: P(Ch) = (0,5 * 0,8) + (0,5 * 0,5) = 0,4 + 0,25 = 0,65.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v15",
+      "statement": "Si se selecciona una máquina y esta falló, ¿cuál es la probabilidad de que haya requerido mantenimiento ese mes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de fallo dado que requiere mantenimiento."
+        },
+        {
+          "letter": "B",
+          "text": "0,714",
+          "is_correct": true,
+          "feedback": "Correcto. P(M|F) = P(F|M)P(M) / P(F). P(F) = 0,1*0,2 + 0,01*0,8 = 0,028. P(M|F) = 0,02 / 0,028 ≈ 0,714."
+        },
+        {
+          "letter": "C",
+          "text": "0,20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad a priori de mantenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "0,02",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que requiera mantenimiento y falle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema de Teorema de Bayes. P(M|F) = [P(F|M)*P(M)] / [P(F|M)*P(M) + P(F|NM)*P(NM)]. P(M|F) = (0,1 * 0,2) / (0,1 * 0,2 + 0,01 * 0,8) = 0,02 / 0,028 = 5/7 ≈ 0,714.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v16",
+      "statement": "Si el blanco fue alcanzado por EXACTAMENTE un disparo, ¿cuál es la probabilidad de que haya sido el de Facundo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,70",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es su probabilidad de acierto general."
+        },
+        {
+          "letter": "B",
+          "text": "0,368",
+          "is_correct": true,
+          "feedback": "Correcto. P(F acierta y M falla) = 0,7*0,2 = 0,14. P(M acierta y F falla) = 0,8*0,3 = 0,24. Total exactamente uno = 0,38. P(F | exact. uno) = 0,14 / 0,38 ≈ 0,368."
+        },
+        {
+          "letter": "C",
+          "text": "0,14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que Facundo acierte y Martín no, pero respecto al total."
+        },
+        {
+          "letter": "D",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Martín tiene mayor probabilidad de acierto, por lo que la respuesta debería ser menor a 0,5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Condicionamos el espacio a que solo uno acertó (0,38). Los casos donde ese uno fue Facundo pesan 0,14. P = 0,14 / 0,38 = 14/38 = 7/19 ≈ 0,368.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v17",
+      "statement": "Si el test da positivo, ¿cuál es la probabilidad de que el agua esté realmente contaminada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,99",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sensibilidad, no el valor predictivo positivo."
+        },
+        {
+          "letter": "B",
+          "text": "0,167",
+          "is_correct": true,
+          "feedback": "Correcto. P(C|+) = (0,99*0,01) / (0,99*0,01 + 0,05*0,99) = 0,0099 / (0,0099 + 0,0495) = 0,0099 / 0,0594 = 1/6 ≈ 0,167."
+        },
+        {
+          "letter": "C",
+          "text": "0,95",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la especificidad."
+        },
+        {
+          "letter": "D",
+          "text": "0,01",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad a priori de contaminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el test es muy preciso, la baja prevalencia (1%) hace que la mayoría de los positivos sean falsos positivos del 99% sano. P(C|+) = 0,0099 / 0,0594 = 1/6.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la probabilidad de que el número sea múltiplo de 2, dado que NO es múltiplo de 5?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,625",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor sobreestima la proporción de pares dentro del subgrupo condicionado."
+        },
+        {
+          "letter": "B",
+          "text": "0,50",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 50 pares. De esos, 10 son múltiplos de 5. Quedan 40. Total no múltiplos de 5 = 80. P = 40/80 = 0,5."
+        },
+        {
+          "letter": "C",
+          "text": "0,40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el porcentaje de pares no múltiplos de 5 respecto al total."
+        },
+        {
+          "letter": "D",
+          "text": "0,60",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la proporción en el subgrupo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eventos A (múltiplo de 2) y C (múltiplo de 5) son independientes porque P(A∩C) = P(múltiplo de 10) = 10/100 = 0,1 y P(A)P(C) = 0,5 * 0,2 = 0,1. Por independencia, P(A | C') = P(A) = 0,5.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v19",
+      "statement": "Si la pareja A ganó la partida, ¿cuál es la probabilidad de que hayan empezado siendo \"mano\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empezar siendo mano da ventaja, por lo que la probabilidad debe ser mayor a 0,5."
+        },
+        {
+          "letter": "B",
+          "text": "0,60",
+          "is_correct": true,
+          "feedback": "Correcto. P(M|G) = P(G|M)P(M) / P(G). P(G) = 0,6*0,5 + 0,4*0,5 = 0,5. P(M|G) = 0,3 / 0,5 = 0,6."
+        },
+        {
+          "letter": "C",
+          "text": "0,30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser mano y ganar."
+        },
+        {
+          "letter": "D",
+          "text": "0,75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un valor demasiado alto para los datos dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(G) = 0,5. La probabilidad conjunta de ser mano y ganar es 0,6 * 0,5 = 0,3. Aplicando Bayes: P(M|G) = 0,3 / 0,5 = 0,6.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v20",
+      "statement": "Si el sistema NO funciona, ¿cuál es la probabilidad de que se deba ÚNICAMENTE a que falló el segundo componente (el de 0,8)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de fallo del segundo componente aisladamente."
+        },
+        {
+          "letter": "B",
+          "text": "0,541",
+          "is_correct": true,
+          "feedback": "Correcto. P(Fallo sist) = 1 - (0,9*0,8*0,95) = 1 - 0,684 = 0,316. P(Solo falla 2do) = 0,9 * 0,2 * 0,95 = 0,171. P = 0,171 / 0,316 ≈ 0,541."
+        },
+        {
+          "letter": "C",
+          "text": "0,171",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que solo falle el segundo componente respecto al total."
+        },
+        {
+          "letter": "D",
+          "text": "0,80",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la probabilidad condicionada solicitada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P(Sistema falla) = 1 - 0,684 = 0,316. La probabilidad de que específicamente el componente 2 falle y los otros no es 0,9 * 0,2 * 0,95 = 0,171. La probabilidad condicionada es 0,171 / 0,316 ≈ 0,541.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

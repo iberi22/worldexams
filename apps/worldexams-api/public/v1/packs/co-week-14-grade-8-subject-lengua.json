@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-8-subject-lengua",
+    "generated_at": "2026-06-14T23:26:45.870Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la principal razón por la que la novela fue el género predilecto de los escritores realistas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque era más corta y rápida de escribir que un poema.",
+          "is_correct": false,
+          "feedback": "Al contrario, las novelas realistas suelen ser muy largas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no requería saber rima ni métrica.",
+          "is_correct": false,
+          "feedback": "Aunque es prosa, requiere una técnica narrativa muy compleja."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permitía describir con amplitud la complejidad de la sociedad y la psicología humana.",
+          "is_correct": true,
+          "feedback": "Su extensión y libertad formal son ideales para el análisis social detallado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los libros de poemas estaban prohibidos en el siglo XIX.",
+          "is_correct": false,
+          "feedback": "La poesía seguía existiendo, pero la novela conectaba mejor con el público burgués."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La novela ofrece el espacio necesario para el desarrollo de tramas complejas, descripciones minuciosas y la evolución de los personajes en el tiempo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes rasgos es típico de los personajes de una novela realista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser héroes legendarios con poderes sobrenaturales.",
+          "is_correct": false,
+          "feedback": "Los personajes realistas son personas comunes sin poderes mágicos."
+        },
+        {
+          "letter": "B",
+          "text": "Ser individuos con virtudes y defectos, influenciados por su entorno social.",
+          "is_correct": true,
+          "feedback": "Se busca la verosimilitud y el retrato psicológico profundo."
+        },
+        {
+          "letter": "C",
+          "text": "Representar ideas abstractas como \"el Bien\" o \"el Mal\" de forma pura.",
+          "is_correct": false,
+          "feedback": "El Realismo huye de los personajes planos o puramente simbólicos."
+        },
+        {
+          "letter": "D",
+          "text": "Ser siempre nobles de la antigüedad griega o romana.",
+          "is_correct": false,
+          "feedback": "Los personajes pertenecen a la época contemporánea del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El personaje realista es complejo y contradictorio, movido por intereses materiales, pasiones humanas y presiones sociales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v3",
+      "statement": "¿A qué se refiere el concepto de \"escenario social\" en la novela realista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los teatros donde se representaban las novelas después de escribirlas.",
+          "is_correct": false,
+          "feedback": "Las novelas se leían, no se representaban en teatros por defecto."
+        },
+        {
+          "letter": "B",
+          "text": "A los paisajes naturales donde no vive ninguna persona.",
+          "is_correct": false,
+          "feedback": "El Realismo prefiere los espacios habitados y sociales."
+        },
+        {
+          "letter": "C",
+          "text": "A los ambientes (casas, barrios, ciudades) que definen y condicionan la vida de los personajes.",
+          "is_correct": true,
+          "feedback": "El lugar donde vive el personaje explica gran parte de su comportamiento y clase social."
+        },
+        {
+          "letter": "D",
+          "text": "A las pinturas que los autores realistas hacían para ilustrar sus libros.",
+          "is_correct": false,
+          "feedback": "Es una metáfora narrativa, no se refiere a ilustraciones físicas necesariamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El escenario en el Realismo es sociológico; la descripción de un salón burgués o de una fábrica aporta información vital sobre el conflicto dramático.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto busca el autor al utilizar un narrador que parece saber más que los propios personajes sobre su destino?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el lector se aburra al contarle el final antes de tiempo.",
+          "is_correct": false,
+          "feedback": "La omnisciencia no implica necesariamente revelar el final, sino explicar el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el autor es más inteligente que sus propias creaciones.",
+          "is_correct": false,
+          "feedback": "El objetivo es la claridad analítica, no la vanidad del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Crear una sensación de autoridad y objetividad científica sobre los hechos narrados.",
+          "is_correct": true,
+          "feedback": "El narrador actúa como un \"dios\" laico que analiza la realidad con precisión."
+        },
+        {
+          "letter": "D",
+          "text": "Permitir que los personajes puedan hablar con el narrador durante la historia.",
+          "is_correct": false,
+          "feedback": "Esto sería un recurso metaficcional moderno, ajeno al Realismo clásico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La autoridad del narrador omnisciente refuerza la pretensión de verdad del Realismo, guiando al lector en la interpretación de la \"selva\" social.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v5",
+      "statement": "Si en una novela leemos: \"Juan caminaba por la calle. ¿Acaso no merecía él aquel ascenso más que nadie? Sí, estaba seguro\", ¿qué recurso se está utilizando para mostrar la mente de Juan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diálogo directo entre dos personajes.",
+          "is_correct": false,
+          "feedback": "No hay intercambio verbal entre dos personas."
+        },
+        {
+          "letter": "B",
+          "text": "Monólogo teatral recitado ante el público.",
+          "is_correct": false,
+          "feedback": "No es una representación teatral, sino una técnica narrativa en prosa."
+        },
+        {
+          "letter": "C",
+          "text": "Estilo indirecto libre.",
+          "is_correct": true,
+          "feedback": "El narrador adopta la perspectiva y las preguntas íntimas del personaje sin usar \"él pensó que...\"."
+        },
+        {
+          "letter": "D",
+          "text": "Descripción objetiva desde una cámara de video.",
+          "is_correct": false,
+          "feedback": "La técnica muestra el interior del personaje, algo que una cámara no capta directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estilo indirecto libre es una de las grandes aportaciones técnicas del Realismo, permitiendo una inmersión psicológica más fluida y natural.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el tema del dinero es tan recurrente y central en la mayoría de las novelas realistas del siglo XIX?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los autores realistas eran muy codiciosos y solo pensaban en cobrar sus libros.",
+          "is_correct": false,
+          "feedback": "El tema refleja la realidad de la época, no la moral personal del autor necesariamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en el siglo XIX no existían los sentimientos, solo los negocios.",
+          "is_correct": false,
+          "feedback": "Los sentimientos existían, pero estaban condicionados por la realidad material."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el dinero era el nuevo motor de la sociedad burguesa y determinaba el destino y la felicidad de las personas.",
+          "is_correct": true,
+          "feedback": "La posición social y el éxito personal dependían de la riqueza en un mundo capitalista ascendente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno obligaba a los autores a escribir sobre economía.",
+          "is_correct": false,
+          "feedback": "Fue una elección temática libre basada en la observación de la realidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dinero en la novela realista es el símbolo de la transformación social, sustituyendo al linaje o la sangre como factor de poder.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v7",
+      "statement": "En \"La Regenta\", la ciudad ficticia de Vetusta representa una sociedad provinciana asfixiante. ¿Qué papel cumple esta ciudad en el destino trágico de la protagonista, Ana Ozores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un lugar maravilloso donde Ana puede cumplir todos sus sueños de libertad.",
+          "is_correct": false,
+          "feedback": "Vetusta es precisamente lo contrario: un entorno represivo."
+        },
+        {
+          "letter": "B",
+          "text": "La ciudad no tiene ninguna importancia, lo que importa es solo lo que Ana piensa.",
+          "is_correct": false,
+          "feedback": "La presión de la ciudad es lo que finalmente destruye a la protagonista."
+        },
+        {
+          "letter": "C",
+          "text": "Vetusta funciona como una fuerza opresiva que vigila, juzga y finalmente destruye a quien intenta romper sus normas.",
+          "is_correct": true,
+          "feedback": "El entorno social es el verdadero antagonista de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Es una ciudad fantástica llena de fantasmas que asustan a Ana por las noches.",
+          "is_correct": false,
+          "feedback": "El Realismo de Clarín se basa en la observación social, no en elementos sobrenaturales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Vetusta es la personificación de la hipocresía y el estancamiento de la sociedad española de finales del siglo XIX, condicionando de forma absoluta la psicología de los personajes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera el sistema de publicación por entregas afectó la forma en que se escribían las novelas realistas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haciendo que las novelas fueran muy cortas para que cupieran en una página.",
+          "is_correct": false,
+          "feedback": "Al contrario, el sistema incentivaba las novelas largas para durar más meses en el periódico."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminando las descripciones para ir directamente a la acción.",
+          "is_correct": false,
+          "feedback": "Las descripciones detalladas eran muy valoradas por el público de la época."
+        },
+        {
+          "letter": "C",
+          "text": "Creando finales de capítulo con suspense para mantener el interés del lector hasta la siguiente semana.",
+          "is_correct": true,
+          "feedback": "El ritmo narrativo se adaptaba a la necesidad comercial de fidelizar al público."
+        },
+        {
+          "letter": "D",
+          "text": "Obligando a los autores a no usar palabras difíciles para que los vendedores de periódicos las entendieran.",
+          "is_correct": false,
+          "feedback": "El público de los folletines era amplio, pero el nivel literario solía mantenerse alto en los grandes autores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicación por entregas democratizó el acceso a la literatura y creó una relación muy cercana entre el autor y su público, influyendo en la estructura episódica de muchas obras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el peligro de confundir la mimesis artística con una simple copia fotográfica de la realidad en la novela?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fotografía sea más barata que comprar un libro.",
+          "is_correct": false,
+          "feedback": "No es una cuestión de precio, sino de valor artístico."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor no tenga que trabajar nada porque solo copia lo que ve.",
+          "is_correct": false,
+          "feedback": "Seleccionar y organizar la realidad para darle sentido literario exige un gran esfuerzo creativo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la novela se convierta en una lista aburrida de hechos sin ninguna intención estética o sentido profundo.",
+          "is_correct": true,
+          "feedback": "El arte realista selecciona los detalles significativos para construir una verdad literaria, no solo datos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la realidad cambie tan rápido que el libro quede antiguo en una semana.",
+          "is_correct": false,
+          "feedback": "Las grandes novelas realistas captan lo esencial de una época, trascendiendo el momento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Realismo no es una copia pasiva, sino una recreación interpretativa de la realidad donde el autor elige qué fragmentos del mundo son relevantes para contar una historia con sentido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v10",
+      "statement": "¿De qué manera la ficción novelesca pudo ser más eficaz que los informes políticos para cambiar las leyes sociales en el siglo XIX?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las novelas tenían dibujos bonitos que los políticos preferían mirar.",
+          "is_correct": false,
+          "feedback": "La eficacia residía en el texto y la capacidad de conmover."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las novelas eran más baratas de imprimir que los informes del gobierno.",
+          "is_correct": false,
+          "feedback": "Es una cuestión de impacto emocional y social, no de costos de imprenta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la novela humanizaba los datos estadísticos, generando empatía y conciencia emocional en los lectores.",
+          "is_correct": true,
+          "feedback": "Al ponerle nombre y sentimientos al sufrimiento, la novela movilizaba a la opinión pública."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el siglo XIX estaba prohibido leer informes políticos en público.",
+          "is_correct": false,
+          "feedback": "No estaba prohibido, pero la literatura tenía un alcance mucho más masivo y popular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La novela realista funcionó como una poderosa herramienta de reforma social al hacer visible el dolor de los sectores marginados ante el resto de la sociedad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v11",
+      "statement": "¿Qué diferencia el realismo de Dostoievski del realismo más \"externo\" de autores franceses como Balzac?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Dostoievski escribía sobre fantasmas y Balzac sobre personas reales.",
+          "is_correct": false,
+          "feedback": "Ambos son realistas; Dostoievski no usa elementos sobrenaturales."
+        },
+        {
+          "letter": "B",
+          "text": "Que Dostoievski no describía nunca los edificios ni las calles.",
+          "is_correct": false,
+          "feedback": "Describe el ambiente de San Petersburgo de forma magistral."
+        },
+        {
+          "letter": "C",
+          "text": "Su enfoque en el \"realismo psicológico\" extremo, explorando las contradicciones morales y el alma atormentada de los personajes.",
+          "is_correct": true,
+          "feedback": "Dostoievski profundiza en las simas del pensamiento humano, el pecado y la redención."
+        },
+        {
+          "letter": "D",
+          "text": "Que Dostoievski escribía sus novelas en verso y Balzac en prosa.",
+          "is_correct": false,
+          "feedback": "Ambos son maestros de la prosa novelesca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El realismo ruso expande las fronteras del género hacia la introspección filosófica, analizando no solo la sociedad externa sino el abismo interior del individuo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v12",
+      "statement": "¿Qué pérdida y qué ganancia supuso para la literatura este cambio radical de enfoque hacia la observación de la realidad cotidiana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se perdió la capacidad de escribir y se ganó la capacidad de leer.",
+          "is_correct": false,
+          "feedback": "Es una afirmación sin sentido; ambas capacidades se mantuvieron y crecieron."
+        },
+        {
+          "letter": "B",
+          "text": "Se perdió el uso de adjetivos y se ganó el uso de muchos sustantivos.",
+          "is_correct": false,
+          "feedback": "El cambio fue temático y filosófico, no una simple sustitución de categorías gramaticales."
+        },
+        {
+          "letter": "C",
+          "text": "Se perdió el idealismo heroico y la evasión fantástica, pero se ganó en profundidad social, verdad humana y compromiso crítico.",
+          "is_correct": true,
+          "feedback": "La literatura bajó de las nubes románticas para ocuparse de los problemas reales de los hombres."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo ninguna ganancia, ya que la literatura realista es una copia aburrida de la vida.",
+          "is_correct": false,
+          "feedback": "El Realismo creó algunas de las obras más complejas y fascinantes de la historia de la humanidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Realismo marca la madurez de la novela como instrumento de conocimiento humano y social, renunciando a la fantasía para ganar en lucidez y honestidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
