@@ -1,79 +1,150 @@
-# 🌎 SaberParaTodos Bundle Creator Skill
+# SaberParaTodos Bundle Creator Skill - v5.2
 
 ## Purpose
-Create MASTERY bundles (protocol_version: "5.1") for the SaberParaTodos multi-tenant exam prep platform. Each bundle = 20 multiple-choice questions aligned to a specific country's official exam framework.
 
-## Bundle Protocol (5.1) Format
+Create weekly MASTERY bundles for SaberParaTodos using `protocol_version: "5.2"`.
+
+This skill is country-aware. Always read the matching file in `skills/bundle-creator/rules/` before generating.
+
+## Canonical ID
+
+```text
+{COUNTRY_CODE}-{SUBJ}-{GRADE}-2026-W{NN}-{topic}-001-MASTERY-bundle
+```
+
+Examples:
+
+```text
+CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle
+MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle
+BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle
+```
+
+The filename must be `{id}.md`.
+
+## Required Route
+
+```text
+questions_data/{country}/{subject}/grado-{N}/2026/weekly/{id}.md
+```
+
+Brazil 3EM:
+
+```text
+questions_data/brasil/matematica/3o-ano/2026/weekly/{id}.md
+```
+
+## Required Frontmatter
+
+```yaml
+---
+id: "{id}"
+country: "{country}"
+grado: {grade}
+asignatura: "{subject}"
+tema: "{topic}"
+periodo: "weekly"
+week: "W{NN}"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: {question_count}
+bundle_size: {question_count}
+alignment: "{official_alignment}"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+```
+
+## Question Counts
+
+- G3-G5: 8
+- G6-G7: 10
+- G8-G10: 12
+- G11 and BR 3EM: 20
+
+## Difficulty Distribution
+
+For 10 questions:
+
+- Q1-Q2: D3-D4
+- Q3-Q5: D5-D6
+- Q6-Q8: D7-D8
+- Q9-Q10: D9-D10
+
+For 20 questions:
+
+- Q1-Q4: D3-D4
+- Q5-Q10: D5-D6
+- Q11-Q16: D7-D8
+- Q17-Q20: D9-D10
+
+## Bloom Distribution
+
+For 10 questions:
+
+- Remember: 2
+- Understand: 2
+- Apply: 3
+- Analyze: 2
+- Evaluate: 1
+
+For 20 questions:
+
+- Remember: 2
+- Understand: 4
+- Apply: 6
+- Analyze: 4
+- Evaluate: 4
+
+For 8 or 12 questions, keep the same progression and avoid overloading expert questions.
+
+## Exact Question Format
+
 ```markdown
----
-id: "CO-AREA-11-P1-topic-001-MASTERY"
-country: "colombia"
-grado: 11
-asignatura: "area"
-tema: "topic"
-periodo: 1
-protocol_version: "5.1"
-bundle_index: 1
-bundle_size: 20
-alignment: "ICFES Saber 11°"
-modern_context: true
-distractor_profile: "misconception_based"
-calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.22"
-  simulated_responses: 100
----
-...
-
-## Question N [Difficulty]
-
-**ID:** `CO-AREA-11-P1-topic-001-vN`
-**Bloom:** [Remember|Understand|Apply|Analyze|Evaluate]
-**Context:** Brief context.
+## Question N [D{level}]
+**ID:** {id}-v{N}
+**Bloom:** {Remember|Understand|Apply|Analyze|Evaluate}
+**ICFES:** {competency_or_exam_axis}
+**Expected_Success:** 0.80
+**Contexto:** Local country context.
 
 ### Enunciado
 Question text.
 
-### Options
-- [ ] A) Option <!-- feedback: Explanation. -->
-- [ ] B) Option <!-- feedback: Explanation. -->
-- [x] C) Option <!-- feedback: CORRECT. Explanation. -->
-- [ ] D) Option <!-- feedback: Explanation. -->
+### Opciones
+- [ ] A) Distractor
+  <!-- feedback: Explanation of the misconception. -->
+- [x] B) Correct answer
+  <!-- feedback: Explanation of why it is correct. -->
+- [ ] C) Distractor
+  <!-- feedback: Explanation of the misconception. -->
+- [ ] D) Distractor
+  <!-- feedback: Explanation of the misconception. -->
 
-### Explicación Pedagógica
-Step-by-step explanation.
+### Explicacion Pedagogica
+Step-by-step pedagogical explanation.
 ```
 
-## ID Convention
-`{COUNTRY_CODE}-{SUBJECT}-{GRADE}-{PERIOD}-{TOPIC}-{INDEX}-MASTERY`
-- COUNTRY_CODE: MX, AR, BR, CL, PE, EC, CO, ES, PR, GQ, PA, CR, GT, DO, SV, HN, NI, UY, PY, BO
-- SUBJECT: MAT, LEN, CIE, SOC, etc.
-- GRADE: 11 (last year), optionally 10, 9
-- PERIOD: 1 (first semester/period)
-- TOPIC: subtopic (algebra, geometria, biologia, lectura, etc.)
-- INDEX: 001, 002, etc.
-
-## Difficulty Distribution (per 20 questions)
-- D3-D4 (Basic): 4 questions (Q1-Q4)
-- D5-D6 (Intermediate): 6 questions (Q5-Q10)
-- D7-D8 (Advanced): 6 questions (Q11-Q16)
-- D9-D10 (Expert): 4 questions (Q17-Q20)
-
-## Bloom's Taxonomy Distribution
-- Remember: 2 questions
-- Understand: 4 questions
-- Apply: 6 questions
-- Analyze: 4 questions
-- Evaluate: 4 questions
-
 ## Critical Rules
-1. EACH question MUST have EXACTLY ONE `[x]` answer (correct)
-2. Never have two `[x]` in same question
-3. Each question MUST have a `### Explicación Pedagógica` section
-4. IDs must be UNIQUE across all bundles
-5. 20 questions per bundle, no more, no less
-6. feedback in HTML comments: correct goes to `[x]`, incorrect feedback explains the misconception
-7. `context:` should reference real-life scenarios when possible
 
-## Per-Country Rules
-Each country has its own skill rule file in `skills/bundle-creator/rules/`. ALWAYS consult the corresponding rule file before creating bundles for that country.
+1. Use exact Spanish structural labels: `Contexto`, `Enunciado`, `Opciones`, `Explicacion Pedagogica`.
+2. Use `## Question`, not `## Pregunta`.
+3. Exactly one `[x]`.
+4. Four unique options A-D.
+5. Feedback for every option.
+6. No all/none-of-the-above options.
+7. No prompt leakage or markdown code fences around the bundle.
+8. Do not create scripts, logs, prompts or temporary generation directories in content PRs.
+9. Do not delete unrelated bundles.
+
+## Validation
+
+Run:
+
+```bash
+npm run validate -- {generated_files}
+```
+
+The PR is not ready until validation passes.

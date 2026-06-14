@@ -11,6 +11,7 @@
     "tests"
   ],
   "scripts": {
+    "validate": "node scripts/validate-bundles-v52.mjs",
     "dev": "npm run dev:landing-worldexams",
     "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
     "dev:saberparatodos": "npm run dev -w saberparatodos",
