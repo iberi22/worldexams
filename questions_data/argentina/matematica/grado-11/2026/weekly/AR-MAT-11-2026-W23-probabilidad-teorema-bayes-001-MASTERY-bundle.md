@@ -434,7 +434,7 @@ Al sacar una blanca primero, la probabilidad de estar en la Urna 1 (que tiene m�
 Si el sistema ACEPTA un acceso, ¿cuál es la probabilidad de que se trate de un impostor?
 
 ### Opciones
-- [x] A) 0,0001 <!-- feedback: Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. (Revisando: es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación). -->
+- [x] A) 0,0000001 <!-- feedback: Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. Es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación. -->
 - [ ] B) 0,01 <!-- feedback: Incorrecto. No considera la proporción de base de clientes legítimos. -->
 - [ ] C) 0,001 <!-- feedback: Incorrecto. Esta es la tasa de impostores previa. -->
 - [ ] D) 0,10 <!-- feedback: Incorrecto. No corresponde a la alta precisión del sistema. -->

@@ -409,7 +409,7 @@ El proceso consiste en tomar la mitad del coeficiente lineal ($b/2 = -5$), eleva
 **Contexto:** Un físico en un centro de investigación en Ensenada encuentra la función $y = 3x^2 - 2x + 5$. Intenta encontrar las raíces reales.
 
 ### Enunciado
-¿Qué tipo de soluciones tiene la ecuación \$3x^2 - 2x + 5 = 0$ y qué significa esto para la gráfica de la función?
+¿Qué tipo de soluciones tiene la ecuación $3x^2 - 2x + 5 = 0$ y qué significa esto para la gráfica de la función?
 
 ### Opciones
 - [ ] A) Dos raíces reales; la parábola cruza el eje X dos veces. <!-- feedback: Calcula el discriminante: (-2)^2 - 4(3)(5) = 4 - 60 = -56. -->

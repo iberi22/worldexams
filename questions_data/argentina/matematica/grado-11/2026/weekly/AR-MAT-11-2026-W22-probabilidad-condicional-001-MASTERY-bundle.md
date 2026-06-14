@@ -435,7 +435,7 @@ Aunque el test es muy preciso, la baja prevalencia (1%) hace que la mayoría de 
 ¿Cuál es la probabilidad de que el número sea múltiplo de 2, dado que NO es múltiplo de 5?
 
 ### Opciones
-- [ ] A) 0,625 <!-- feedback: Incorrecto. Este valor sobreestima la proporci?n de pares dentro del subgrupo condicionado. -->
+- [ ] A) 0,625 <!-- feedback: Incorrecto. Este valor sobreestima la proporción de pares dentro del subgrupo condicionado. -->
 - [x] B) 0,50 <!-- feedback: Correcto. Hay 50 pares. De esos, 10 son múltiplos de 5. Quedan 40. Total no múltiplos de 5 = 80. P = 40/80 = 0,5. -->
 - [ ] C) 0,40 <!-- feedback: Incorrecto. Este es el porcentaje de pares no múltiplos de 5 respecto al total. -->
 - [ ] D) 0,60 <!-- feedback: Incorrecto. No corresponde a la proporción en el subgrupo. -->
