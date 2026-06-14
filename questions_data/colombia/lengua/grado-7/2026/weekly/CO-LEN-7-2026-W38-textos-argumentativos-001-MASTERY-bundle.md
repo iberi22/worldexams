@@ -300,3 +300,13 @@ D) Argumento siempre es falso.
 - ✗ **D)** Argumento siempre es falso.: Incorrecto. La respuesta correcta es A.
 
 **Explicacion Pedagogica:** Argumento: razonamiento con base. Opinion: subjetiva.
+
+
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

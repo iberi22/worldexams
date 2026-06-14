@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Pereira
+**Contexto:** I.E. Gabriel García Márquez en Pereira
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Pereira, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Barranquilla
+**Contexto:** Colegio Nacional San Bartolomé en Barranquilla
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Barranqu
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Neiva
+**Contexto:** I.E. Gabriel García Márquez en Neiva
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Neiva, se 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.63
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Cúcuta, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Sincelejo
+**Contexto:** Gimnasio Moderno en Sincelejo
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Sincelejo, se discute s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Pasto
+**Contexto:** Colegio Nacional San Bartolomé en Pasto
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Pasto, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Cúcuta
+**Contexto:** I.E. Santa Luisa de Marillac en Cúcuta
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Cúcuta, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Quibdó
+**Contexto:** Colegio La Presentación en Quibdó
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del Colegio La Presentación en Quibdó, se dis
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Riohacha
+**Contexto:** Colegio Nacional San Bartolomé en Riohacha
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Riohacha
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Colegio Nacional San Bartolomé en Neiva
+**Contexto:** Colegio Nacional San Bartolomé en Neiva
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Neiva, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Bucaramanga
+**Contexto:** I.E. Gabriel García Márquez en Bucaramanga
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Bucaramang
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Bogotá
+**Contexto:** Colegio La Presentación en Bogotá
 **Expected_Success:** 0.53
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del Colegio La Presentación en Bogotá, se dis
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 32 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 32 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

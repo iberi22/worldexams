@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Armenia
+**Contexto:** I.E. Santa Luisa de Marillac en Armenia
 **Expected_Success:** 0.59
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Armenia, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Cali
+**Contexto:** I.E. San José en Cali
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del I.E. San José en Cali, se discute sobre Te
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Sincelejo
+**Contexto:** I.E. Jorge Eliécer Gaitán en Sincelejo
 **Expected_Success:** 0.61
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Sincelejo, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Neiva
+**Contexto:** I.E. Santa Luisa de Marillac en Neiva
 **Expected_Success:** 0.79
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Neiva, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del I.E. San José en Sincelejo, se discute sob
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Ibagué
+**Contexto:** Gimnasio Moderno en Ibagué
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Ibagué, se discute sob
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Gimnasio Moderno en Manizales
+**Contexto:** Gimnasio Moderno en Manizales
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Manizales, se discute s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Barranquilla
+**Contexto:** I.E. San José en Barranquilla
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del I.E. San José en Barranquilla, se discute 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Bucaramanga
+**Contexto:** Colegio Nacional San Bartolomé en Bucaramanga
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Bucarama
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Neiva
+**Contexto:** I.E. Gabriel García Márquez en Neiva
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Neiva, se 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Remember
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cartagena
+**Contexto:** I.E. Gabriel García Márquez en Cartagena
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Cartagena,
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Francisco de Paula Santander en Cúcuta
+**Contexto:** I.E. Francisco de Paula Santander en Cúcuta
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Cúcut
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 31 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 31 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

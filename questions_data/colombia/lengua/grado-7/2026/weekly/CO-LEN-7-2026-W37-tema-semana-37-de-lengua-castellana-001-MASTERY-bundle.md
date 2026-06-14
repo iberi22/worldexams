@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Manizales
+**Contexto:** I.E. Francisco de Paula Santander en Manizales
 **Expected_Success:** 0.63
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Maniza
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Tunja
+**Contexto:** I.E. Jorge Eliécer Gaitán en Tunja
 **Expected_Success:** 0.69
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Tunja, se di
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Pasto
+**Contexto:** I.E. Jorge Eliécer Gaitán en Pasto
 **Expected_Success:** 0.66
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Pasto, se di
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Pasto,
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Medellín
+**Contexto:** I.E. Santa Luisa de Marillac en Medellín
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Medellín, 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Cúcuta
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cúcuta
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Cúcuta, se 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Quibdó, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Competencia 1
-**Context:** Colegio Nacional San Bartolomé en Sincelejo
+**Contexto:** Colegio Nacional San Bartolomé en Sincelejo
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Sincelej
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Medellín
+**Contexto:** I.E. Jorge Eliécer Gaitán en Medellín
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Medellín, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Barranquilla
+**Contexto:** I.E. Gabriel García Márquez en Barranquilla
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Barranquil
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Remember
 **ICFES:** Competencia 2
-**Context:** I.E. Francisco de Paula Santander en Ibagué
+**Contexto:** I.E. Francisco de Paula Santander en Ibagué
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Ibagu�
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Neiva
+**Contexto:** Gimnasio Moderno en Neiva
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Neiva, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 37 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 37 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

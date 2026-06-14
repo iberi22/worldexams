@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Ibagué
+**Contexto:** I.E. Jorge Eliécer Gaitán en Ibagué
 **Expected_Success:** 0.71
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Ibagué, se 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Ibagué
+**Contexto:** I.E. Santa Luisa de Marillac en Ibagué
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Ibagué, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Manizales
+**Contexto:** Colegio La Presentación en Manizales
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del Colegio La Presentación en Manizales, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** I.E. Gabriel García Márquez en Armenia
+**Contexto:** I.E. Gabriel García Márquez en Armenia
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Armenia, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Riohacha
+**Contexto:** Gimnasio Moderno en Riohacha
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Riohacha, se discute so
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Tunja, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Apply
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Armenia
+**Contexto:** Colegio La Presentación en Armenia
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del Colegio La Presentación en Armenia, se dis
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Pasto
+**Contexto:** I.E. Santa Luisa de Marillac en Pasto
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Pasto, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** Colegio La Presentación en Sincelejo
+**Contexto:** Colegio La Presentación en Sincelejo
 **Expected_Success:** 0.61
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del Colegio La Presentación en Sincelejo, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Medellín
+**Contexto:** I.E. Gabriel García Márquez en Medellín
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Medellín,
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Create
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Ibagué
+**Contexto:** I.E. Francisco de Paula Santander en Ibagué
 **Expected_Success:** 0.54
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Ibagu�
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Armenia
+**Contexto:** I.E. San José en Armenia
 **Expected_Success:** 0.56
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del I.E. San José en Armenia, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 40 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 40 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

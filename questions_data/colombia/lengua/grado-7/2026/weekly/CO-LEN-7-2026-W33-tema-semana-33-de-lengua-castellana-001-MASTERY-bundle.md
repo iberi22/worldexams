@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Tunja, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Analyze
 **ICFES:** Competencia 2
-**Context:** Colegio Nacional San Bartolomé en Manizales
+**Contexto:** Colegio Nacional San Bartolomé en Manizales
 **Expected_Success:** 0.64
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del Colegio Nacional San Bartolomé en Manizale
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Competencia 2
-**Context:** I.E. Jorge Eliécer Gaitán en Riohacha
+**Contexto:** I.E. Jorge Eliécer Gaitán en Riohacha
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Riohacha, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. Santa Luisa de Marillac en Villavicencio
+**Contexto:** I.E. Santa Luisa de Marillac en Villavicencio
 **Expected_Success:** 0.53
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Villavicenc
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Cali
+**Contexto:** I.E. San José en Cali
 **Expected_Success:** 0.57
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del I.E. San José en Cali, se discute sobre Te
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Remember
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del I.E. San José en Sincelejo, se discute sob
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Cali
+**Contexto:** I.E. Jorge Eliécer Gaitán en Cali
 **Expected_Success:** 0.68
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Cali, se dis
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Sincelejo
+**Contexto:** I.E. San José en Sincelejo
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del I.E. San José en Sincelejo, se discute sob
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cali
+**Contexto:** I.E. Gabriel García Márquez en Cali
 **Expected_Success:** 0.67
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Cali, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Evaluate
 **ICFES:** Competencia 2
-**Context:** I.E. San José en Cali
+**Contexto:** I.E. San José en Cali
 **Expected_Success:** 0.63
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del I.E. San José en Cali, se discute sobre Te
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. San José en Ibagué
+**Contexto:** I.E. San José en Ibagué
 **Expected_Success:** 0.53
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. San José en Ibagué, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Apply
 **ICFES:** Competencia 1
-**Context:** Colegio La Presentación en Medellín
+**Contexto:** Colegio La Presentación en Medellín
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del Colegio La Presentación en Medellín, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 33 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 33 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

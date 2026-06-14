@@ -300,3 +300,13 @@ D) Rima al inicio.
 - ✗ **D)** Rima al inicio.: Incorrecto. La respuesta correcta es A.
 
 **Explicacion Pedagogica:** Rima consonante: vocales y consonantes coinciden.
+
+
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |

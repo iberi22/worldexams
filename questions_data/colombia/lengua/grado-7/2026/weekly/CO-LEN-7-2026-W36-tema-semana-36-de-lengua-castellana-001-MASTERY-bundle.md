@@ -24,7 +24,7 @@ alignment: "DBA MEN + Estándares Básicos"
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v1`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Bucaramanga
+**Contexto:** Gimnasio Moderno en Bucaramanga
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -36,7 +36,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Bucaramanga, se discute
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -46,7 +46,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Pereira
+**Contexto:** I.E. Santa Luisa de Marillac en Pereira
 **Expected_Success:** 0.75
 
 ### Enunciado
@@ -58,7 +58,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Pereira, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -68,7 +68,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v3`
 **Bloom:** Analyze
 **ICFES:** Competencia 3
-**Context:** I.E. Francisco de Paula Santander en Pasto
+**Contexto:** I.E. Francisco de Paula Santander en Pasto
 **Expected_Success:** 0.70
 
 ### Enunciado
@@ -80,7 +80,7 @@ En la clase de Lengua Castellana del I.E. Francisco de Paula Santander en Pasto,
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -90,7 +90,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v4`
 **Bloom:** Create
 **ICFES:** Competencia 2
-**Context:** I.E. Gabriel García Márquez en Quibdó
+**Contexto:** I.E. Gabriel García Márquez en Quibdó
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -102,7 +102,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Quibdó, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -112,7 +112,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Competencia 1
-**Context:** I.E. Gabriel García Márquez en Cali
+**Contexto:** I.E. Gabriel García Márquez en Cali
 **Expected_Success:** 0.59
 
 ### Enunciado
@@ -124,7 +124,7 @@ En la clase de Lengua Castellana del I.E. Gabriel García Márquez en Cali, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -134,7 +134,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v6`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. Jorge Eliécer Gaitán en Manizales
+**Contexto:** I.E. Jorge Eliécer Gaitán en Manizales
 **Expected_Success:** 0.53
 
 ### Enunciado
@@ -146,7 +146,7 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Manizales, s
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -156,7 +156,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Gimnasio Moderno en Tunja
+**Contexto:** Gimnasio Moderno en Tunja
 **Expected_Success:** 0.69
 
 ### Enunciado
@@ -168,7 +168,7 @@ En la clase de Lengua Castellana del Gimnasio Moderno en Tunja, se discute sobre
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -178,7 +178,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v8`
 **Bloom:** Evaluate
 **ICFES:** Competencia 3
-**Context:** I.E. Santa Luisa de Marillac en Neiva
+**Contexto:** I.E. Santa Luisa de Marillac en Neiva
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -190,7 +190,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Neiva, se d
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -200,7 +200,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v9`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** Colegio La Presentación en Pasto
+**Contexto:** Colegio La Presentación en Pasto
 **Expected_Success:** 0.57
 
 ### Enunciado
@@ -212,7 +212,7 @@ En la clase de Lengua Castellana del Colegio La Presentación en Pasto, se discu
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -222,7 +222,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v10`
 **Bloom:** Create
 **ICFES:** Competencia 1
-**Context:** I.E. Santa Luisa de Marillac en Ibagué
+**Contexto:** I.E. Santa Luisa de Marillac en Ibagué
 **Expected_Success:** 0.73
 
 ### Enunciado
@@ -234,7 +234,7 @@ En la clase de Lengua Castellana del I.E. Santa Luisa de Marillac en Ibagué, se
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -244,7 +244,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v11`
 **Bloom:** Understand
 **ICFES:** Competencia 3
-**Context:** I.E. San José en Manizales
+**Contexto:** I.E. San José en Manizales
 **Expected_Success:** 0.77
 
 ### Enunciado
@@ -256,7 +256,7 @@ En la clase de Lengua Castellana del I.E. San José en Manizales, se discute sob
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
 ---
@@ -266,7 +266,7 @@ El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7�
 **ID:** `CO-LEN-7-2026-W00-tema seman-001-MASTERY-v12`
 **Bloom:** Understand
 **ICFES:** Competencia 1
-**Context:** I.E. Jorge Eliécer Gaitán en Armenia
+**Contexto:** I.E. Jorge Eliécer Gaitán en Armenia
 **Expected_Success:** 0.59
 
 ### Enunciado
@@ -278,15 +278,15 @@ En la clase de Lengua Castellana del I.E. Jorge Eliécer Gaitán en Armenia, se 
 - [ ] C) Aspecto incorrecto C relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Se confunde con un concepto secundario. -->
 - [ ] D) Aspecto incorrecto D relacionado con Tema Semana 36 de Lengua Castellana <!-- feedback: Incorrecto. Es un distractor común basado en malentendidos. -->
 
-### Explicación Pedagógica
+### Explicacion Pedagogica
 El tema de Tema Semana 36 de Lengua Castellana es central en el currículo de 7°. La respuesta correcta destaca el concepto clave mientras que los distractores representan errores comunes de los estudiantes.
 
-[//]: # (QUALITY_REVIEW)
 
-| Dimensión | Score | Notas |
-|-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con DBA y estándares colombianos. |
-| Contexto | 20/20 | Contexto local colombiano integrado. |
-| Redacción | 10/10 | Alta claridad y distractores homogéneos. |
-| **TOTAL** | **100/100** | |
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 30/30 |
+| Curricular | 40/40 |
+| Contexto | 20/20 |
+| Redacción | 10/10 |
+| **Total** | **100/100** |
