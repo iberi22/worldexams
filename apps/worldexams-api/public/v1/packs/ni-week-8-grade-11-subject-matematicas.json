@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.439Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la Identidad Pitagórica fundamental que relaciona el seno y el coseno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin \\theta + \\cos \\theta = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma simple de seno y coseno no es constante."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin^2 \\theta + \\cos^2 \\theta = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta identidad es válida para cualquier ángulo real y deriva del Teorema de Pitágoras."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin^2 \\theta - \\cos^2 \\theta = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo debe ser de suma."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin \\theta \\cdot \\cos \\theta = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de seno y coseno no es constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta identidad es la piedra angular de la trigonometría. Permite expresar una función en términos de la otra: $\\sin^2 \\theta = 1 - \\cos^2 \\theta$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v2",
+      "statement": "¿A qué es igual la expresión $1 / \\tan \\theta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno no es el recíproco de la tangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sec \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secante es el recíproco del coseno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cot \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, la cotangente es la razón inversa de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\csc \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cosecante es el recíproco del seno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las identidades recíprocas relacionan las seis funciones trigonométricas básicas en pares cuya multiplicación es igual a 1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la identidad que relaciona la tangente y la secante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 + \\sin^2 \\theta = \\cos^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es una identidad válida."
+        },
+        {
+          "letter": "B",
+          "text": "$1 + \\tan^2 \\theta = \\sec^2 \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Se obtiene dividiendo la identidad fundamental ($\\sin^2 + \\cos^2 = 1$) entre $\\cos^2 \\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "$1 + \\cot^2 \\theta = \\sec^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cotangente se relaciona con la cosecante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\tan^2 \\theta - 1 = \\sec^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del 1 debe ser positivo en el lado de la tangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades pitagóricas secundarias son útiles para simplificar expresiones que contienen potencias cuadradas de funciones trigonométricas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Qué diferencia a una identidad trigonométrica de una ecuación trigonométrica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, son sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen significados matemáticos distintos respecto a su validez."
+        },
+        {
+          "letter": "B",
+          "text": "Una identidad es válida para todos los valores del dominio, mientras que una ecuación solo es válida para valores específicos.",
+          "is_correct": true,
+          "feedback": "Correcto. La identidad es una igualdad absoluta; la ecuación busca encontrar incógnitas."
+        },
+        {
+          "letter": "C",
+          "text": "Las identidades no usan funciones como seno o coseno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas utilizan funciones trigonométricas."
+        },
+        {
+          "letter": "D",
+          "text": "Las ecuaciones siempre tienen infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque muchas tienen infinitas soluciones, algunas pueden no tener ninguna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolver una ecuación trigonométrica implica hallar el conjunto de ángulos que satisfacen la igualdad, generalmente dentro de un intervalo como $[0, 2\\pi)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la fórmula correcta para el seno de la suma de dos ángulos, $\\sin(\\alpha + \\beta)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin \\alpha \\sin \\beta + \\cos \\alpha \\cos \\beta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la estructura del coseno de la resta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin \\alpha \\cos \\beta + \\cos \\alpha \\sin \\beta$",
+          "is_correct": true,
+          "feedback": "Correcto. El seno de la suma mezcla seno y coseno de ambos ángulos con el mismo signo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin \\alpha \\cos \\beta - \\cos \\alpha \\sin \\beta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para la resta de ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin(\\alpha + \\beta) = \\sin \\alpha + \\sin \\beta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas no son lineales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades de suma y resta permiten calcular valores trigonométricos de ángulos no notables (como 75° = 45° + 30°) a partir de ángulos conocidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son las soluciones de la ecuación $\\sin \\theta = 1/2$ en el intervalo $[0, 360^\\circ)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo 30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la solución del segundo cuadrante donde el seno también es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "30° y 150°",
+          "is_correct": true,
+          "feedback": "Correcto. El seno es positivo en los cuadrantes I y II. Los ángulos con referencia 30° son 30° y 180°-30°=150°."
+        },
+        {
+          "letter": "C",
+          "text": "30° y 210°",
+          "is_correct": false,
+          "feedback": "Incorrecto. A los 210° (III cuadrante) el seno es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "30° y 330°",
+          "is_correct": false,
+          "feedback": "Incorrecto. A los 330° (IV cuadrante) el seno es negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debido a la naturaleza periódica y simétrica de las funciones circulares, una ecuación básica suele tener dos soluciones en una vuelta completa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v7",
+      "statement": "Simplifica la expresión: $\\sin \\theta \\cdot \\cot \\theta$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cancela el seno del numerador de la cotangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin \\theta \\cdot (\\cos \\theta / \\sin \\theta) = \\cos \\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente es el recíproco de la cotangente."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son funciones recíprocas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al sustituir las funciones por sus definiciones en términos de seno y coseno, las simplificaciones algebraicas se vuelven evidentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la identidad para el seno del ángulo doble, $\\sin(2\\theta)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\sin \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función seno no es lineal."
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\sin \\theta \\cos \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta identidad se deriva de la fórmula de la suma haciendo $\\alpha = \\beta$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cos^2 \\theta - \\sin^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para el coseno del ángulo doble."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la expansión del ángulo doble."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades de ángulo doble son herramientas fundamentales para resolver ecuaciones donde aparecen diferentes frecuencias del mismo ángulo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v9",
+      "statement": "Halla las soluciones de $2 \\cos^2 \\theta - 1 = 0$ en el intervalo $[0, 180^\\circ]$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos^2(30^\\circ) = 3/4$, lo que no satisface la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "45° y 135°",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos^2 \\theta = 1/2 \\Rightarrow \\cos \\theta = \\pm \\sqrt{1/2} = \\pm \\sqrt{2}/2$. Esto ocurre a los 45° (+) y 135° (-)."
+        },
+        {
+          "letter": "C",
+          "text": "60° y 120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos^2(60^\\circ) = 1/4$."
+        },
+        {
+          "letter": "D",
+          "text": "Solo 45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la solución del segundo cuadrante permitida por el intervalo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la ecuación despejando el coseno. Al ser cuadrática, obtenemos dos valores posibles ($\\pm$), cada uno con su correspondiente ángulo en el rango dado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v10",
+      "statement": "Si $\\cos \\theta = 3/5$, ¿cuál es el valor de $\\cos(2\\theta)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del coseno nunca puede ser mayor que 1."
+        },
+        {
+          "letter": "B",
+          "text": "9/25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se elevó al cuadrado el valor del coseno."
+        },
+        {
+          "letter": "C",
+          "text": "-7/25",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos(2\\theta) = 2 \\cos^2 \\theta - 1 = 2(9/25) - 1 = 18/25 - 25/25 = -7/25$."
+        },
+        {
+          "letter": "D",
+          "text": "16/25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\sin^2 \\theta$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizamos la forma de la identidad del ángulo doble que solo depende del coseno: $\\cos(2\\theta) = 2 \\cos^2 \\theta - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v11",
+      "statement": "Simplifica la expresión: $(\\sec^2 \\theta - 1) / \\tan^2 \\theta$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\tan \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador es igual al denominador."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Por la identidad $1 + \\tan^2 \\theta = \\sec^2 \\theta$, el numerador es exactamente $\\tan^2 \\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sec \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la sustitución de la identidad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado inconsistente con la igualdad de términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer las diferentes formas de las identidades pitagóricas permite realizar simplificaciones instantáneas en expresiones racionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v12",
+      "statement": "¿A qué es equivalente la expresión $\\frac{\\sin \\theta}{1 + \\cos \\theta} + \\frac{1 + \\cos \\theta}{\\sin \\theta}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\sin \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término final es recíproco al seno."
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\csc \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar las fracciones: $\\frac{\\sin^2 \\theta + (1 + \\cos \\theta)^2}{\\sin \\theta(1 + \\cos \\theta)} = \\frac{\\sin^2 \\theta + 1 + 2\\cos \\theta + \\cos^2 \\theta}{\\dots} = \\frac{2 + 2\\cos \\theta}{\\sin \\theta(1 + \\cos \\theta)} = \\frac{2(1 + \\cos \\theta)}{\\sin \\theta(1 + \\cos \\theta)} = 2 / \\sin \\theta = 2 \\csc \\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la función en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\tan \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se llega a una relación de tangente mediante esta suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema requiere sumar fracciones algebraicas, aplicar la identidad pitagórica fundamental y luego factorizar para simplificar el resultado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v13",
+      "statement": "Encuentra las soluciones de $\\sin \\theta \\cos \\theta - \\sin \\theta = 0$ en $[0, 2\\pi)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo $\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del seno sería 1 y el del coseno 0, no satisface la resta."
+        },
+        {
+          "letter": "B",
+          "text": "0 y $\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: $\\sin \\theta (\\cos \\theta - 1) = 0$. Esto da $\\sin \\theta = 0 \\Rightarrow 0, \\pi$ y $\\cos \\theta = 1 \\Rightarrow 0$. El conjunto es $\\{0, \\pi\\}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/2$ y $3\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son soluciones para el coseno igual a cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi/4$ y $5\\pi/4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores que no anulan ninguno de los factores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nunca se debe \"dividir\" ambos lados por una función (como $\\sin \\theta$), ya que se pierden soluciones. El método correcto es factorizar e igualar cada factor a cero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la forma correcta de expresar $\\cos(2\\theta)$ únicamente en términos del seno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 - \\sin^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es simplemente $\\cos^2 \\theta$."
+        },
+        {
+          "letter": "B",
+          "text": "$1 - 2\\sin^2 \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Partiendo de $\\cos^2 \\theta - \\sin^2 \\theta$ y sustituyendo $\\cos^2$ por $1 - \\sin^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sin^2 \\theta - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sin \\theta \\cos \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la identidad del seno del ángulo doble."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El coseno del ángulo doble tiene tres formas equivalentes. La capacidad de cambiar entre ellas es vital para resolver ecuaciones que mezclan diferentes funciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor exacto de $\\cos(75^\\circ)$? (Usa $75^\\circ = 45^\\circ + 30^\\circ$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\sin(75^\\circ)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos(45+30) = \\cos 45 \\cos 30 - \\sin 45 \\sin 30 = \\frac{\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{\\sqrt{2}}{2} \\cdot \\frac{1}{2} = \\frac{\\sqrt{6} - \\sqrt{2}}{4}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3} - 1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el manejo de los denominadores al sumar las fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{2}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor correspondiente a 45°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la identidad del coseno de la suma: $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Es importante notar que el signo de la fórmula es el opuesto al de la suma de ángulos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v16",
+      "statement": "¿A qué es igual $\\sin(\\pi/2 - \\theta)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la identidad para $\\sin(\\pi - \\theta)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. El seno de un ángulo es igual al coseno de su complemento."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\cos \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo debe ser positivo en el primer cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\tan \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe relación directa de complementariedad con la tangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades de ángulos complementarios (co-funciones) muestran el estrecho vínculo entre las funciones armónicas: el gráfico de una es el de la otra desplazado $\\pi/2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v17",
+      "statement": "Halla las soluciones de $\\sin^2 \\theta + 3\\cos \\theta - 3 = 0$ en $[0, 2\\pi)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sin^2(\\pi/2) = 1$, pero $\\cos(\\pi/2) = 0$. $1-3 \\neq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituimos $\\sin^2$ por $1 - \\cos^2$: $(1 - \\cos^2 \\theta) + 3\\cos \\theta - 3 = 0 \\Rightarrow -\\cos^2 \\theta + 3\\cos \\theta - 2 = 0 \\Rightarrow \\cos^2 \\theta - 3\\cos \\theta + 2 = 0$. Factorizando $(\\cos \\theta - 2)(\\cos \\theta - 1) = 0$. La única válida es $\\cos \\theta = 1 \\Rightarrow \\theta = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(\\pi) = -1$, daría $0 - 3 - 3 \\neq 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $2\\pi$ está excluido por el paréntesis del intervalo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver ecuaciones que mezclan seno y coseno, usamos la identidad pitagórica para dejar toda la expresión en términos de una sola función, convirtiéndola en una ecuación cuadrática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la expresión equivalente para $\\tan(\\theta/2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1 - \\cos \\theta}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma del seno cuadrado del ángulo mitad."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1 - \\cos \\theta}{\\sin \\theta}$",
+          "is_correct": true,
+          "feedback": "Correcto. Una de las formas más útiles para la tangente del ángulo mitad que no requiere raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sin \\theta}{1 - \\cos \\theta}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1 - \\cos \\theta}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el denominador y el factor 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades de ángulo mitad son fundamentales en la integración de funciones trigonométricas y en el diseño de mecanismos de precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v19",
+      "statement": "¿Cuántas soluciones tiene la ecuación $\\sin(3\\theta) = 1$ en el intervalo $[0, 2\\pi)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al triplicar la frecuencia, se multiplican las ocurrencias de los picos."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el número de soluciones si fuera $\\sin(3\\theta) = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(x)=1$ tiene una solución por ciclo. Al haber 3 ciclos completos en $2\\pi$, hay 3 soluciones ($\\pi/6, 5\\pi/6, 3\\pi/2$)."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 1 solo se alcanza una vez por periodo de la función básica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al aumentar la frecuencia angular de la función, \"comprimimos\" los ciclos en el mismo espacio, permitiendo que la condición se cumpla más veces dentro del intervalo estándar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle-v20",
+      "statement": "¿A qué es equivalente el producto $\\sin \\alpha \\cos \\beta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(\\alpha + \\beta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el otro término de la expansión del seno de la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} [\\sin(\\alpha + \\beta) + \\sin(\\alpha - \\beta)]$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta identidad de Werner permite transformar productos en sumas, útil en el análisis de señales."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cos(\\alpha - \\beta) - \\cos(\\alpha + \\beta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la base para el producto de dos senos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin \\alpha + \\cos \\beta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas no se suman linealmente tras un producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las identidades de producto a suma son el puente final en el álgebra trigonométrica avanzada, permitiendo simplificar expresiones integrales y ondulatorias complejas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W08-trigonometria-identidades-ecuaciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

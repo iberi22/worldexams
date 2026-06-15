@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.440Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para calcular la distancia ($d$) entre dos puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$ en el plano cartesiano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = (x_2 - x_1) + (y_2 - y_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es la distancia euclidiana."
+        },
+        {
+          "letter": "B",
+          "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta fórmula deriva del Teorema de Pitágoras aplicado a las diferencias de las coordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$d = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben restar las coordenadas, no sumarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$d = \\frac{x_1 + x_2}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es parte de la fórmula del punto medio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia entre dos puntos es la longitud del segmento que los une. Se calcula hallando la raíz cuadrada de la suma de los cuadrados de las diferencias de sus coordenadas $x$ e $y$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el punto medio del segmento que une los puntos $A(2, 4)$ y $B(6, 10)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(8, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se sumaron las coordenadas sin promediarlas."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 7)$",
+          "is_correct": true,
+          "feedback": "Correcto. Punto medio = $((x_1+x_2)/2, (y_1+y_2)/2) = (8/2, 14/2) = (4, 7)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas en lugar de sumarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$(4, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio de 4 y 10 no es 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto medio es el promedio aritmético de las coordenadas de los extremos. Geométricamente, es el punto que divide al segmento en dos partes iguales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la fórmula para calcular la pendiente ($m$) de una recta que pasa por los puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es el cambio en y sobre el cambio en x."
+        },
+        {
+          "letter": "B",
+          "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente representa la razón de cambio vertical respecto al cambio horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es una razón, no un producto."
+        },
+        {
+          "letter": "D",
+          "text": "$m = \\frac{y_2 + y_1}{x_2 + x_1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben restar los valores para hallar los desplazamientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente cuantifica la inclinación de la recta. Un valor positivo indica ascenso, uno negativo indica descenso y cero indica una línea horizontal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la forma \"punto-pendiente\" de la ecuación de la recta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = mx + b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma pendiente-intercepto."
+        },
+        {
+          "letter": "B",
+          "text": "$y - y_1 = m(x - x_1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta forma permite construir la ecuación conociendo un punto y la inclinación."
+        },
+        {
+          "letter": "C",
+          "text": "$Ax + By + C = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma general o implícita."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x}{a} + \\frac{y}{b} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma simétrica o canónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma punto-pendiente es especialmente útil cuando se conocen las coordenadas de un punto específico por donde pasa la recta y su pendiente $m$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v5",
+      "statement": "Si dos rectas son paralelas, ¿qué se puede afirmar sobre sus pendientes $m_1$ y $m_2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_1 \\cdot m_2 = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la condición para rectas perpendiculares."
+        },
+        {
+          "letter": "B",
+          "text": "$m_1 = m_2$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas tienen exactamente la misma inclinación."
+        },
+        {
+          "letter": "C",
+          "text": "$m_1 = -m_2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendientes opuestas no garantizan paralelismo."
+        },
+        {
+          "letter": "D",
+          "text": "$m_1 + m_2 = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta condición no define la relación geométrica de paralelismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente y diferentes interceptos con el eje $y$, lo que asegura que nunca se crucen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v6",
+      "statement": "Si dos rectas son perpendiculares, ¿cuál es la relación entre sus pendientes $m_1$ y $m_2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_1 \\cdot m_2 = -1$",
+          "is_correct": true,
+          "feedback": "Correcto. Las pendientes de rectas perpendiculares son recíprocas y opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "$m_1 = m_2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la condición de paralelismo."
+        },
+        {
+          "letter": "C",
+          "text": "$m_1 \\cdot m_2 = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Deben tener signos opuestos."
+        },
+        {
+          "letter": "D",
+          "text": "$m_1 + m_2 = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa, no aditiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que dos rectas formen un ángulo de 90°, el producto de sus pendientes debe ser -1. Si una tiene pendiente 2, la otra debe tener pendiente -1/2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el intercepto con el eje $y$ de la recta con ecuación $3x - 2y + 6 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, -6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, -2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó el coeficiente de y."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. En el eje y, $x=0$. Entonces $-2y + 6 = 0 \\Rightarrow 2y = 6 \\Rightarrow y = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, -3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la transposición de términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el intercepto con el eje $y$, sustituimos $x=0$ en la ecuación y despejamos $y$. El punto siempre tiene la forma $(0, y)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la pendiente de la recta dada por la ecuación $5x + 10y - 7 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es simplemente el coeficiente de x."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división de coeficientes."
+        },
+        {
+          "letter": "C",
+          "text": "-1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando y: $10y = -5x + 7 \\Rightarrow y = (-5/10)x + 7/10 \\Rightarrow y = -1/2 x + 0.7$. La pendiente es -1/2."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el signo negativo al trasponer el término en x."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la forma general $Ax + By + C = 0$, la pendiente es siempre $-A/B$. En este caso, $-5/10 = -1/2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v9",
+      "statement": "Halla la ecuación de la recta que pasa por el punto $(0, 5)$ y es paralela a la recta $y = 3x - 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -3x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes deben ser iguales para que sean paralelas."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 3x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser paralela, hereda la pendiente $m=3$. Al pasar por $(0,5)$, el intercepto $b=5$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 1/3 x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la pendiente recíproca, no la igual."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto con y debe ser positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rectas paralelas comparten la misma pendiente. Usamos la forma $y = mx + b$ sustituyendo $m$ por 3 y $b$ por el valor dado en el punto $(0, 5)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $k$ para que los puntos $(1, 2), (3, 4)$ y $(5, k)$ sean colineales (estén en la misma recta)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k=5, la pendiente entre los últimos dos puntos no es igual a la de los primeros."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente entre los primeros dos es $(4-2)/(3-1) = 2/2 = 1$. Entonces entre los últimos debe ser $(k-4)/(5-3) = 1 \\Rightarrow (k-4)/2 = 1 \\Rightarrow k-4 = 2 \\Rightarrow k = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la igualdad de pendientes."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor inconsistente con una progresión lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tres puntos son colineales si la pendiente calculada con cualquier par de ellos es la misma. Esto define una tasa de cambio constante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v11",
+      "statement": "Halla la ecuación de la recta que pasa por los puntos $(1, 3)$ y $(3, 7)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x=1, daría y=4."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x + 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = (7-3)/(3-1) = 4/2 = 2$. Luego $y - 3 = 2(x - 1) \\Rightarrow y = 2x + 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 4x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendiente mal calculada."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 2x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto con y es positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la pendiente y luego usamos la forma punto-pendiente con cualquiera de los dos puntos dados para obtener la ecuación final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la recta que pasa por $(2, 1)$ y es perpendicular a la recta $y = 2x + 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -1/2 x + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente perpendicular es -1/2. Entonces $y - 1 = -1/2(x - 2) \\Rightarrow y = -1/2 x + 1 + 1 \\Rightarrow y = -1/2 x + 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -1/2 x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del intercepto b."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 1/2 x + 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la recíproca pero no la opuesta."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -2x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente debe ser recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de la recta perpendicular es el recíproco negativo de la pendiente original. Aplicamos este valor en la forma punto-pendiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v13",
+      "statement": "Si una recta tiene intercepto con el eje $x$ en $(4, 0)$ e intercepto con el eje $y$ en $(0, -2)$, ¿cuál es su ecuación en la forma simétrica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x}{4} + \\frac{y}{2} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoró el signo negativo del intercepto en y."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x}{4} - \\frac{y}{2} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma es $x/a + y/b = 1$, donde $a=4$ y $b=-2$."
+        },
+        {
+          "letter": "C",
+          "text": "$4x - 2y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es la estructura de la forma simétrica."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x}{2} - \\frac{y}{4} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los interceptos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma simétrica $x/a + y/b = 1$ permite ver directamente dónde cruza la recta a cada uno de los ejes coordenados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la distancia mínima del punto $(0, 0)$ a la recta $3x + 4y - 10 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplicó la fórmula de la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "2 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = |3(0) + 4(0) - 10| / \\sqrt{3^2 + 4^2} = |-10| / 5 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó solo el denominador de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético en la división final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia de un punto a una recta se calcula mediante el valor absoluto de la ecuación evaluada en el punto, dividido por el módulo del vector normal de la recta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el ángulo de inclinación aproximado de la recta con pendiente $m = 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente de 30° es $\\sqrt{3}/3$."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo es $\\arctan(1) = 45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente de 60° es $\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente de 90° es indefinida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente de una recta es igual a la tangente del ángulo que forma con el eje positivo de las abscisas ($m = \\tan \\theta$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el punto de intersección de las rectas $y = x + 1$ y $y = -x + 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la segunda ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando: $x + 1 = -x + 5 \\Rightarrow 2x = 4 \\Rightarrow x = 2$. Entonces $y = 2 + 1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la segunda ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$(4, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la primera ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de intersección es el conjunto de coordenadas que satisfacen ambas ecuaciones simultáneamente. Gráficamente, es el lugar donde las dos líneas se cruzan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v17",
+      "statement": "Halla la ecuación de la mediatriz del segmento que une los puntos $(0, 0)$ y $(4, 0)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una línea horizontal, no vertical."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. El punto medio es $(2, 0)$. El segmento es horizontal ($m=0$), por lo que la mediatriz es vertical ($m$ indefinida) y pasa por x=2."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es perpendicular al segmento dado."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta línea pasa por uno de los extremos, no por el medio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio. En este caso, el segmento está sobre el eje $x$, por lo que su mediatriz es una recta vertical.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el área del triángulo formado por los ejes coordenados y la recta $2x + 3y - 12 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la fórmula del área del triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "12 unidades cuadradas",
+          "is_correct": true,
+          "feedback": "Correcto. Interceptos: $x=6$ (base), $y=4$ (altura). Área = $(6 \\times 4) / 2 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "24 unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó dividir entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "10 unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al hallar los interceptos con los ejes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El triángulo es rectángulo con vértices en el origen y los dos interceptos de la recta. Aplicamos la fórmula base por altura entre dos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el ángulo agudo formado por las rectas $y = 0$ (eje x) e $y = \\sqrt{3}x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan(30^\\circ) = 1/\\sqrt{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan(45^\\circ) = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente de la segunda recta es $\\sqrt{3}$. El ángulo es $\\arctan(\\sqrt{3}) = 60^\\circ$."
+        },
+        {
+          "letter": "D",
+          "text": "75°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor inconsistente con las pendientes notables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ángulo entre el eje $x$ y una recta que pasa por el origen es simplemente el arco-tangente de su pendiente. $\\sqrt{3}$ es la pendiente característica de los 60 grados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la distancia entre las rectas paralelas $y = 2x + 1$ e $y = 2x + 6$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la diferencia vertical, no la distancia mínima (perpendicular)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{5}$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = |C_2 - C_1| / \\sqrt{A^2 + B^2}$. En forma general: $2x - y + 1 = 0$ y $2x - y + 6 = 0$. $d = |6 - 1| / \\sqrt{2^2 + (-1)^2} = 5 / \\sqrt{5} = \\sqrt{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "2.5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la fórmula de distancia entre paralelas."
+        },
+        {
+          "letter": "D",
+          "text": "1 unidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado insuficiente para el desplazamiento entre las líneas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia entre dos rectas paralelas es constante. Se mide a lo largo de un segmento perpendicular a ambas y se calcula usando los coeficientes de su forma general.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

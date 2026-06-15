@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.441Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición geométrica de la circunferencia como lugar geométrico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de puntos cuya suma de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una elipse."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de puntos en un plano que equidistan de un punto fijo llamado centro.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia constante se denomina radio."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de puntos cuya distancia a una recta es igual a la distancia a un punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una parábola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia es el caso más simple de las secciones cónicas. Se define por un centro $(h, k)$ y un radio constante $r$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la ecuación canónica u ordinaria de una circunferencia con centro en $(h, k)$ y radio $r$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + h)^2 + (y + k)^2 = r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos deben ser negativos para representar los desplazamientos."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - h)^2 + (y - k)^2 = r^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta forma deriva directamente de la fórmula de distancia entre un punto $(x, y)$ y el centro."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es para centro en el origen y falta elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - h) + (y - k) = r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos deben estar elevados al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma ordinaria $(x-h)^2 + (y-k)^2 = r^2$ permite identificar visualmente el centro y el radio de la figura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la ecuación de una circunferencia con centro en el origen $(0, 0)$ y radio 5?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio debe elevarse al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $h=0, k=0$ y $r=5$, obtenemos $x^2 + y^2 = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "$x + y = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No representa una figura cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - y^2 = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la ecuación de una hipérbola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para circunferencias centradas en el origen, la ecuación se simplifica a $x^2 + y^2 = r^2$, conocida como forma canónica simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v4",
+      "statement": "Dada la ecuación $(x - 3)^2 + (y + 2)^2 = 16$, ¿cuál es el centro y el radio de la circunferencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(3, -2)$, Radio 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 16 es el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(3, -2)$, Radio 4",
+          "is_correct": true,
+          "feedback": "Correcto. Los desplazamientos son $h=3, k=-2$ y $\\sqrt{16}=4$."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(-3, 2)$, Radio 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del centro son opuestos a los de la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(3, 2)$, Radio 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo de k y valor de r erróneos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al extraer los datos, recordamos que la ecuación usa $(x-h)$ y $(y-k)$. Por lo tanto, el centro cambia los signos que vemos en los paréntesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el término que se debe sumar a $x^2 + 6x$ para completar el trinomio cuadrado perfecto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe sumar el cuadrado de la mitad del coeficiente."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. $(6/2)^2 = 3^2 = 9$. Esto forma $(x+3)^2$."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es el cuadrado del coeficiente, no de su mitad."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Completar el cuadrado es la técnica fundamental para pasar de la forma general $x^2+y^2+Dx+Ey+F=0$ a la forma ordinaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v6",
+      "statement": "En la ecuación general de las cónicas $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$, ¿qué condiciones deben cumplir los coeficientes para que represente una circunferencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = 0$ y $C = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría una línea recta."
+        },
+        {
+          "letter": "B",
+          "text": "$A = C$ (y no nulos) y $B = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Los términos cuadráticos deben ser iguales y no debe haber término de producto cruzado $xy$."
+        },
+        {
+          "letter": "C",
+          "text": "$A$ y $C$ deben tener signos opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría una hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "$B$ debe ser mayor que $A$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término $xy$ debe ser inexistente en la circunferencia estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una circunferencia tiene la misma curvatura en todas las direcciones, por eso los coeficientes de $x^2$ y $y^2$ deben ser idénticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la ecuación de la circunferencia con centro en $(0, 0)$ que pasa por el punto $(3, 4)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. El radio al cuadrado es $r^2 = 3^2 + 4^2 = 9 + 16 = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron las coordenadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la circunferencia pasa por un punto, la distancia del centro a ese punto define el radio. Usamos el teorema de Pitágoras para hallarlo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v8",
+      "statement": "Si los extremos del diámetro de una circunferencia son $A(-2, 0)$ y $B(4, 0)$, ¿cuál es su centro y su radio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(1, 0)$, Radio 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 es la longitud del diámetro."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(1, 0)$, Radio 3",
+          "is_correct": true,
+          "feedback": "Correcto. Centro es el punto medio: $(-2+4)/2 = 1$. El diámetro mide 6, por lo que el radio mide 3."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(2, 0)$, Radio 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del punto medio."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(0, 0)$, Radio 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores inconsistentes con los extremos dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El centro de la circunferencia es siempre el punto medio de cualquier diámetro. El radio es la mitad de la longitud del diámetro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v9",
+      "statement": "Si el área de una plaza circular en León es de $49\\pi$ metros cuadrados, ¿cuál es la ecuación que representa su borde si está centrada en el origen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 49$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $\\pi r^2 = 49\\pi$, entonces $r^2 = 49$. La ecuación es $x^2 + y^2 = 49$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = 24.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la relación entre área y radio."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = 2,401$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó el área al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área del círculo nos proporciona directamente el valor de $r^2$. Este valor es el término constante en la forma canónica de la circunferencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la ecuación de la circunferencia $x^2 + y^2 = 9$ después de ser desplazada 2 unidades a la derecha y 1 unidad hacia arriba?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 2)^2 + (y + 1)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desplazamientos positivos requieren signos negativos en la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 2)^2 + (y - 1)^2 = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Reemplazamos x por $(x-h)$ e y por $(y-k)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 2)^2 + (y - 1)^2 = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio al cuadrado debe mantenerse en 9."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 2)^2 + (y - 1)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el signo del desplazamiento horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las traslaciones cambian el centro de $(0,0)$ a $(h,k)$, lo que se refleja como restas dentro de los términos cuadráticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v11",
+      "statement": "Dada la ecuación general $x^2 + y^2 - 4x + 2y - 4 = 0$, ¿cuál es el radio de la circunferencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al completar los cuadrados y sumar la constante."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-2)^2 + (y+1)^2 = 4 + 4 + 1 = 9$. Por lo tanto $r = \\sqrt{9} = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó incluir la constante original de la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupamos términos en x e y, completamos cuadrados sumando los términos necesarios a ambos lados, y extraemos la raíz del lado derecho para hallar el radio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la circunferencia con centro en $(3, 5)$ que es tangente al eje $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 3)^2 + (y - 5)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería tangente al eje y."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)^2 + (y - 5)^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. Si es tangente al eje x, su radio es la distancia vertical desde el centro al eje, es decir, el valor absoluto de k (5)."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)^2 + (y - 5)^2 = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar el radio (5) al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro no está en el origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangencia a un eje determina automáticamente el valor del radio basándose en la coordenada correspondiente del centro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v13",
+      "statement": "¿Dónde se ubica el punto $(2, 2)$ respecto a la circunferencia $x^2 + y^2 = 9$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^2 + 2^2 = 8$, no 9."
+        },
+        {
+          "letter": "B",
+          "text": "En el interior de la circunferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $8 < 9$, la distancia del punto al centro es menor que el radio."
+        },
+        {
+          "letter": "C",
+          "text": "En el exterior de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia al centro es menor que el radio."
+        },
+        {
+          "letter": "D",
+          "text": "En el centro de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro es $(0, 0)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para determinar la posición, evaluamos las coordenadas en la ecuación: si el resultado es menor a $r^2$ es interior, igual es sobre la curva, y mayor es exterior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v14",
+      "statement": "Halla el radio de la circunferencia con centro en $(0, 0)$ que es tangente a la recta $3x + 4y - 10 = 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. El radio es la distancia del punto $(0,0)$ a la recta: $d = |3(0)+4(0)-10|/\\sqrt{3^2+4^2} = 10/5 = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre el módulo del vector normal."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la distancia punto-recta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado inconsistente con el procedimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio de una circunferencia tangente a una recta es igual a la distancia perpendicular desde el centro hasta dicha recta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el centro de la circunferencia que pasa por los puntos $(0, 0), (6, 0)$ y $(0, 8)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo uno de los puntos por donde pasa."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este punto está muy lejos de los dados."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Los puntos forman un triángulo rectángulo con hipotenusa entre $(6,0)$ y $(0,8)$. El centro es el punto medio de la hipotenusa."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al considerar solo dos puntos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo rectángulo inscrito en una circunferencia, el centro de la circunferencia (circuncentro) es el punto medio de la hipotenusa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el área del círculo delimitado por la circunferencia $x^2 + y^2 - 100 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio es 10, pero la fórmula del área es $\\pi r^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $r^2 = 100$. Área = $\\pi \\cdot r^2 = 100\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la longitud de la circunferencia (perímetro)."
+        },
+        {
+          "letter": "D",
+          "text": "$50\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la fórmula del área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación nos da directamente $r^2$. El área es simplemente $\\pi$ multiplicado por ese valor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v17",
+      "statement": "¿En cuántos puntos se cortan la circunferencia $x^2 + y^2 = 25$ y la recta $x = 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como el valor de x (3) es menor que el radio (5), la recta atraviesa el círculo."
+        },
+        {
+          "letter": "B",
+          "text": "Uno (es tangente)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ser tangente, x debería ser 5."
+        },
+        {
+          "letter": "C",
+          "text": "Dos",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo x=3: $9 + y^2 = 25 \\Rightarrow y^2 = 16 \\Rightarrow y = \\pm 4$. Los puntos son $(3, 4)$ y $(3, -4)$."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta y una circunferencia solo pueden cortarse en máximo dos puntos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intersección se halla resolviendo el sistema de ecuaciones. Si al sustituir obtenemos una ecuación cuadrática con discriminante positivo, hay dos puntos de corte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v18",
+      "statement": "Halla la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3/4 x + 25/4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente debe ser perpendicular al radio."
+        },
+        {
+          "letter": "B",
+          "text": "$3x + 4y = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente del radio es $4/3$, por lo que la tangente es $-3/4$. $y - 4 = -3/4(x - 3) \\Rightarrow 4y - 16 = -3x + 9 \\Rightarrow 3x + 4y = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "$4x - 3y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta recta pasa por el origen."
+        },
+        {
+          "letter": "D",
+          "text": "$3x + 4y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pasa por el punto de tangencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La recta tangente es siempre perpendicular al radio que llega al punto de tangencia. Usamos la propiedad de pendientes perpendiculares ($m_1 \\cdot m_2 = -1$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la relación entre las circunferencias $C_1: x^2 + y^2 = 4$ y $C_2: (x - 5)^2 + y^2 = 9$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son concéntricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen centros distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Son tangentes externas.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia entre centros es 5. Los radios son 2 y 3. Como $d = r_1 + r_2$, se tocan en un solo punto exterior."
+        },
+        {
+          "letter": "C",
+          "text": "Se cortan en dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia entre centros no es menor a la suma de radios."
+        },
+        {
+          "letter": "D",
+          "text": "Una está dentro de la otra sin tocarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia entre centros es mayor a la diferencia de radios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición relativa de dos circunferencias se determina comparando la distancia entre sus centros con la suma o resta de sus radios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la ecuación del lugar geométrico de los puntos $(x, y)$ cuya distancia al origen es el doble de su distancia al punto $(3, 0)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea recta paralela al eje y.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación de distancias al cuadrado genera términos cuadráticos de igual coeficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Una circunferencia con centro en $(4, 0)$.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{x^2+y^2} = 2\\sqrt{(x-3)^2+y^2} \\Rightarrow x^2+y^2 = 4(x^2-6x+9+y^2) \\Rightarrow 3x^2+3y^2-24x+36=0 \\Rightarrow x^2+y^2-8x+12=0 \\Rightarrow (x-4)^2+y^2=4$."
+        },
+        {
+          "letter": "C",
+          "text": "Una parábola que abre a la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una relación de distancia a recta."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto vacío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen infinitos puntos que cumplen la condición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un ejemplo del Círculo de Apolonio: el lugar geométrico de los puntos cuya razón de distancias a dos puntos fijos es una constante distinta de 1 es siempre una circunferencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W10-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

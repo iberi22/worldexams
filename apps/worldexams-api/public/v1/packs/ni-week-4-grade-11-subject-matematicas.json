@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.435Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición fundamental de un logaritmo en base $b$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(x) = y$ es equivalente a $x^b = y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base del logaritmo debe ser la base de la potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(x) = y$ es equivalente a $b^y = x$.",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo es el exponente al que hay que elevar la base para obtener el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(x) = y$ es equivalente a $y^x = b$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es la relación inversa correcta entre logaritmos y potencias."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_b(x) = y$ es equivalente a $b \\cdot y = x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo no es un factor multiplicativo, sino un exponente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El logaritmo es la operación inversa de la exponenciación. Si $b^y = x$, entonces decimos que $y$ es el logaritmo en base $b$ de $x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el dominio de la función logarítmica básica $f(x) = \\log_b(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales ($\\mathbb{R}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo no está definido para números negativos ni para el cero."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales positivos $(0, \\infty)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Solo se pueden calcular logaritmos de números estrictamente mayores que cero."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números reales excepto el cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de un número negativo tampoco es un número real."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo $[1, \\infty)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números entre 0 y 1 también tienen logaritmo (son valores negativos)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como la función exponencial $b^y$ siempre da resultados positivos, su función inversa (el logaritmo) solo puede recibir argumentos positivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el intercepto con el eje $x$ de la función logarítmica básica $f(x) = \\log_b(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el intercepto con el eje y de la función exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo de 1 en cualquier base válida es siempre 0, ya que $b^0 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función logarítmica básica no pasa por el origen; tiene una asíntota vertical en $x=0$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene intercepto con el eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las funciones logarítmicas básicas cruzan el eje x en 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función logarítmica es la inversa de la exponencial. Como la exponencial pasa por $(0, 1)$, su inversa debe pasar por $(1, 0)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v4",
+      "statement": "¿A qué base se refiere el logaritmo común, representado simplemente como $\\log(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Base $e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo en base e se llama logaritmo natural ($\\ln$)."
+        },
+        {
+          "letter": "B",
+          "text": "Base 10",
+          "is_correct": true,
+          "feedback": "Correcto. Por convención, si no se escribe la base, se entiende que es 10."
+        },
+        {
+          "letter": "C",
+          "text": "Base 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base 2 se usa comúnmente en computación, pero se especifica como $\\log_2$."
+        },
+        {
+          "letter": "D",
+          "text": "Base 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base 1 no es válida para logaritmos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los logaritmos en base 10 son fundamentales para la notación científica y escalas como el pH o los decibelios, por lo que se consideran la base estándar o común.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la relación gráfica entre la función exponencial $f(x) = b^x$ y la función logarítmica $g(x) = \\log_b(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son paralelas entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen la misma pendiente ni dirección."
+        },
+        {
+          "letter": "B",
+          "text": "Son simétricas respecto al eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una reflexión vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Son simétricas respecto a la recta identidad $y = x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda función y su inversa son reflejos mutuos sobre esta diagonal."
+        },
+        {
+          "letter": "D",
+          "text": "Son simétricas respecto al origen $(0,0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto indicaría que son funciones impares relacionadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Gráficamente, intercambiar $x$ por $y$ equivale a reflejar la curva sobre la línea de 45 grados ($y=x$), lo cual define a las funciones inversas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la asíntota vertical de la función $f(x) = \\log_2(x - 4) + 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la asíntota de la función básica."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. El desplazamiento horizontal de 4 unidades a la derecha mueve la asíntota vertical a $x=4$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo tiene asíntota vertical, no horizontal (aunque crece muy lento)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo dentro del paréntesis indica un movimiento hacia la derecha (valores positivos de x)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asíntota vertical se encuentra igualando el argumento a cero: $x - 4 = 0 \\Rightarrow x = 4$. El logaritmo no puede evaluar valores menores o iguales a 4 en este caso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor exacto de $\\log_5(125)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^2 = 25$, no 125."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Porque $5^3 = 5 \\times 5 \\times 5 = 125$."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el resultado de la potencia con el exponente."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^5 = 3,125$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolver un logaritmo es responder a la pregunta: ¿A qué potencia debo elevar 5 para obtener 125? La respuesta es 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de $\\log_2(1/8)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^3 = 8$, no $1/8$."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Correcto. $2^{-3} = 1 / 2^3 = 1/8$."
+        },
+        {
+          "letter": "C",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^{-4} = 1/16$."
+        },
+        {
+          "letter": "D",
+          "text": "0.125",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor decimal del argumento, no el logaritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el argumento es menor que 1 (pero mayor que 0) y la base es mayor que 1, el logaritmo siempre es un número negativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se representa el logaritmo en base $e$, conocido como logaritmo natural o neperiano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este suele representar la base 10."
+        },
+        {
+          "letter": "B",
+          "text": "$\\ln(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. La abreviatura proviene del latín \"logarithmus naturalis\"."
+        },
+        {
+          "letter": "C",
+          "text": "$\\exp(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función exponencial inversa ($e^x$)."
+        },
+        {
+          "letter": "D",
+          "text": "$e^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función exponencial, no el logaritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El logaritmo natural utiliza como base el número irracional $e \\approx 2.718$. Es fundamental en el cálculo y modelos de crecimiento natural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $\\ln(e^5)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo \"cancela\" la base exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Por la propiedad de funciones inversas: $\\log_b(b^x) = x$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\ln(e) = 1$, pero aquí tenemos $e$ a la quinta potencia."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\ln(1) = 0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como el logaritmo natural y la base $e$ son inversos, su composición devuelve simplemente el exponente del argumento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v11",
+      "statement": "De acuerdo con las propiedades de los logaritmos, ¿a qué es igual $\\log_b(M \\cdot N)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(M) + \\log_b(N)$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo de un producto es la suma de los logaritmos de los factores."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(M) - \\log_b(N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la propiedad para el cociente (división)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(M) \\cdot \\log_b(N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una propiedad que simplifique el producto de dos logaritmos de esta manera."
+        },
+        {
+          "letter": "D",
+          "text": "$N \\cdot \\log_b(M)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la propiedad para el logaritmo de una potencia ($M^N$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta propiedad refleja que al multiplicar potencias de igual base, los exponentes se suman. Como los logaritmos son exponentes, el logaritmo del producto es la suma de los logaritmos individuales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la expresión equivalente a $\\log(50) - \\log(5)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log(45)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se restan los argumentos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $\\log(50) - \\log(5) = \\log(50/5) = \\log(10) = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log(250)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto resultaría de una suma de logaritmos."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado del argumento es 10, pero el logaritmo de 10 es 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando la propiedad del cociente: $\\log M - \\log N = \\log(M/N)$. En este caso, $\\log(50/5) = \\log(10)$, y como la base es 10, el resultado es 1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v13",
+      "statement": "¿A qué es igual la expresión $\\log_b(x^k)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\log_b x)^k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar el logaritmo a una potencia no es lo mismo que el logaritmo de la potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$k \\cdot \\log_b(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente del argumento pasa a multiplicar al logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(x) + \\log_b(k)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta propiedad aplica para el producto $x \\cdot k$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\log_b x}{k}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la propiedad para la raíz k-ésima de x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta propiedad es crucial para resolver ecuaciones exponenciales, ya que permite \"bajar\" la variable del exponente a una posición donde se puede despejar linealmente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la fórmula correcta para cambiar la base de un logaritmo $\\log_a(x)$ a una nueva base $b$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\log_b(x)}{\\log_b(a)}$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo del argumento original se divide entre el logaritmo de la base original, ambos en la nueva base."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(x) - \\log_b(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de base involucra división, no resta."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(x) \\cdot \\log_b(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación correcta es el cociente de los logaritmos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\log_x(b)}{\\log_a(b)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los argumentos y bases están mal posicionados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta fórmula permite calcular logaritmos en cualquier base (como base 2 o base 7) usando solo los botones de $\\log$ (base 10) o $\\ln$ (base $e$) de una calculadora.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v15",
+      "statement": "El pH se define como $pH = -\\log[H^+]$, donde $[H^+]$ es la concentración de iones de hidrógeno. Si el pH es 4, ¿cuál es la concentración de iones $[H^+]$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto daría un pH de -4."
+        },
+        {
+          "letter": "B",
+          "text": "$10^{-4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $-\\log(10^{-4}) = -(-4) = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es exponencial de base 10, no multiplicativa."
+        },
+        {
+          "letter": "D",
+          "text": "$0.4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la escala logarítmica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejando la ecuación: $\\log[H^+] = -pH \\Rightarrow [H^+] = 10^{-pH}$. Para un pH de 4, la concentración es $10^{-4}$ moles por litro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el comportamiento de la función $f(x) = \\log_{0.5}(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estrictamente creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser la base menor que 1, la función decrece."
+        },
+        {
+          "letter": "B",
+          "text": "Es estrictamente decreciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Similar a las exponenciales, una base entre 0 y 1 invierte la monotonía del logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una asíntota horizontal en $y=0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los logaritmos tienen asíntotas verticales."
+        },
+        {
+          "letter": "D",
+          "text": "Su dominio son los reales negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dominio sigue siendo $(0, \\infty)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $b > 1$, el logaritmo crece. Si $0 < b < 1$, el logaritmo decrece. En este caso, $0.5 < 1$, por lo que a medida que $x$ aumenta, su logaritmo se vuelve más negativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v17",
+      "statement": "Halla el valor de $x$ en la ecuación: $\\log_2(x + 5) = 4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\log_2(14)$ no es igual a 4."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. Convertimos a forma exponencial: $x + 5 = 2^4 = 16$. Restando 5 obtenemos $x = 11$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\log_2(6)$ no es un número entero."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\log_2(26)$ no es 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver ecuaciones logarítmicas, transformamos la expresión a su forma exponencial equivalente: $\\text{argumento} = \\text{base}^{\\text{resultado}}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v18",
+      "statement": "La intensidad sonora en decibelios se calcula como $dB = 10 \\cdot \\log(I/I_0)$. Si un sonido tiene una intensidad $I$ que es 1,000 veces mayor que el umbral $I_0$, ¿cuántos decibelios marca el equipo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar por el logaritmo de la razón."
+        },
+        {
+          "letter": "B",
+          "text": "100 dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del logaritmo de 1,000."
+        },
+        {
+          "letter": "C",
+          "text": "30 dB",
+          "is_correct": true,
+          "feedback": "Correcto. $\\log(1,000) = 3$. Entonces $10 \\times 3 = 30$ dB."
+        },
+        {
+          "letter": "D",
+          "text": "3 dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por el factor 10 de la escala decibélica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La escala de decibelios es logarítmica. Un aumento de un factor de 10 en la intensidad física corresponde a un aumento de 10 decibelios. Un factor de 1,000 ($10^3$) suma 30 decibelios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\ln(9 - x^2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera los valores negativos de x que también podrían invalidar el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "$(-3, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento debe ser positivo: $9 - x^2 > 0 \\Rightarrow x^2 < 9 \\Rightarrow |x| < 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos valores de x (como x=5) harían el argumento negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para estos valores, el argumento $9 - x^2$ sería negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio se halla resolviendo la inecuación del argumento $> 0$. En este caso, la parábola $9-x^2$ es positiva solo entre sus raíces -3 y 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle-v20",
+      "statement": "Calcula el valor de $x$ si $\\log_2(\\log_3(x)) = 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\log_3(3) = 1$, y $\\log_2(1) = 0$, no 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento del logaritmo exterior debe ser 2."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. $\\log_2(\\dots)=1 \\Rightarrow \\log_3(x) = 2^1 = 2$. Luego $x = 3^2 = 9$."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación sucesiva de la definición de logaritmo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para logaritmos anidados, resolvemos \"de afuera hacia adentro\" aplicando la definición de logaritmo en cada paso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W04-funciones-logaritmicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
