@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:30:14.690Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define matemáticamente la relación entre dos cantidades que se comparan por medio de un cociente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Razón",
+          "is_correct": true,
+          "feedback": "Correcto. Una razón es el cociente entre dos cantidades comparables."
+        },
+        {
+          "letter": "B",
+          "text": "Proporción",
+          "is_correct": false,
+          "feedback": "Una proporción es la igualdad entre dos razones, no la relación individual."
+        },
+        {
+          "letter": "C",
+          "text": "Porcentaje",
+          "is_correct": false,
+          "feedback": "El porcentaje es una razón cuyo denominador es 100, pero no es la definición general."
+        },
+        {
+          "letter": "D",
+          "text": "Diferencia",
+          "is_correct": false,
+          "feedback": "La diferencia es el resultado de una resta, no de un cociente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La razón es la comparación por cociente entre dos magnitudes. Se puede expresar como $a/b$ o $a:b$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón de leche a agua según la receta mencionada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3:1$",
+          "is_correct": false,
+          "feedback": "Esta es la razón de agua a leche, pero se solicita leche a agua."
+        },
+        {
+          "letter": "B",
+          "text": "$1:3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por cada 1 taza de leche hay 3 de agua."
+        },
+        {
+          "letter": "C",
+          "text": "$4:1$",
+          "is_correct": false,
+          "feedback": "El 4 representaría el total de tazas, no la relación entre los ingredientes."
+        },
+        {
+          "letter": "D",
+          "text": "$3:4$",
+          "is_correct": false,
+          "feedback": "Esta razón no corresponde a la relación directa entre leche y agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El orden en una razón es fundamental. Al pedir \"leche a agua\", la cantidad de leche debe ser el antecedente y la de agua el consecuente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v3",
+      "statement": "En una proporción de la forma $a/b = c/d$, ¿cuál es la propiedad fundamental que permite verificar si es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de los antecedentes es igual a la de los consecuentes.",
+          "is_correct": false,
+          "feedback": "Esta propiedad no es general para verificar proporciones básicas."
+        },
+        {
+          "letter": "B",
+          "text": "El producto de los medios es igual al producto de los extremos ($ad = bc$).",
+          "is_correct": true,
+          "feedback": "Correcto. Es la propiedad fundamental de las proporciones."
+        },
+        {
+          "letter": "C",
+          "text": "Los numeradores deben ser iguales a los denominadores.",
+          "is_correct": false,
+          "feedback": "No es necesario; basta con que las fracciones sean equivalentes."
+        },
+        {
+          "letter": "D",
+          "text": "La resta de los términos debe ser constante.",
+          "is_correct": false,
+          "feedback": "Esto aplicaría a una progresión aritmética, no a una proporción geométrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad fundamental de las proporciones establece que en toda proporción, el producto de los extremos es igual al producto de los medios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de relación existe entre el número de tejedores (trabajando al mismo ritmo) y el tiempo necesario para terminar un pedido grande?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionalidad directa",
+          "is_correct": false,
+          "feedback": "En la directa, si aumenta una variable, aumenta la otra. Aquí, más tejedores implican menos tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Proporcionalidad inversa",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor número de trabajadores, menor es el tiempo requerido para completar la tarea."
+        },
+        {
+          "letter": "C",
+          "text": "Relación constante",
+          "is_correct": false,
+          "feedback": "Una relación constante implicaría que el tiempo no cambia sin importar los tejedores."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionalidad al cuadrado",
+          "is_correct": false,
+          "feedback": "No hay evidencia de que la relación sea cuadrática en este contexto laboral estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la proporcionalidad inversa, el producto de las dos magnitudes relacionadas es constante. Al aumentar una, la otra disminuye en la misma proporción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v5",
+      "statement": "Si el agricultor necesita usar 25 kg de fósforo, ¿cuántos kg de nitrógeno debe agregar para mantener la proporción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. $8/25$ no es igual a $4/10$."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ kg",
+          "is_correct": true,
+          "feedback": "Correcto. $4/10 = x/25 \\Rightarrow 10x = 100 \\Rightarrow x = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al resolver la regla de tres simple."
+        },
+        {
+          "letter": "D",
+          "text": "$6.25$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $25$ entre $4$ en lugar de seguir la proporción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica una regla de tres simple directa: $\\frac{4}{10} = \\frac{x}{25}$. Multiplicando cruzado, se obtiene el valor de la incógnita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v6",
+      "statement": "Si un artículo tiene un $25\\%$ de descuento, ¿qué fracción del precio original representa el ahorro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "$1/2$ representa el $50\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$1/5$",
+          "is_correct": false,
+          "feedback": "$1/5$ representa el $20\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$1/4$",
+          "is_correct": true,
+          "feedback": "Correcto. $25\\% = 25/100 = 1/4$."
+        },
+        {
+          "letter": "D",
+          "text": "$3/4$",
+          "is_correct": false,
+          "feedback": "$3/4$ representa el $75\\%$, que es lo que se paga, no el ahorro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los porcentajes son razones con denominador 100. Simplificar la fracción $25/100$ permite visualizar la relación de manera más sencilla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v7",
+      "statement": "Si un turista cambia $\\$150.00$, ¿cuántos Quetzales recibirá?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $1,050.00$",
+          "is_correct": false,
+          "feedback": "Error en la multiplicación de los valores."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $1,170.00$",
+          "is_correct": true,
+          "feedback": "Correcto. $150 \\times 7.80 = 1,170.00$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $1,155.00$",
+          "is_correct": false,
+          "feedback": "Error aritmético durante el cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $19.23$",
+          "is_correct": false,
+          "feedback": "Se dividió en lugar de multiplicar. Esto sería si se cambiaran Quetzales a Dólares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema de proporcionalidad directa. A más dólares, más quetzales. La constante de proporcionalidad es la tasa de cambio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué porcentaje de los estudiantes prefiere el fútbol?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\%$",
+          "is_correct": false,
+          "feedback": "$50\\%$ de 30 sería 15 estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "$60\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $(18/30) \\times 100 = 0.6 \\times 100 = 60\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$18\\%$",
+          "is_correct": false,
+          "feedback": "El 18 es la cantidad absoluta, no el porcentaje relativo al total de 30."
+        },
+        {
+          "letter": "D",
+          "text": "$75\\%$",
+          "is_correct": false,
+          "feedback": "$75\\%$ de 30 sería 22.5 estudiantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el porcentaje, se divide la parte entre el todo y se multiplica por 100. La fracción $18/30$ se puede simplificar a $3/5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v9",
+      "statement": "Si para el regreso decide aumentar su velocidad a $100$ km/h, ¿cuánto tiempo tardará en realizar el mismo trayecto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.6$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. Es proporcionalidad inversa. $80 \\times 2 = 100 \\times t \\Rightarrow 160 = 100t \\Rightarrow t = 1.6$."
+        },
+        {
+          "letter": "B",
+          "text": "$2.5$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor velocidad debe tardar menos tiempo, no más."
+        },
+        {
+          "letter": "C",
+          "text": "$1.8$ horas",
+          "is_correct": false,
+          "feedback": "Error al realizar la división de la constante de distancia por la nueva velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "$1.2$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo proporcional inverso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación entre velocidad y tiempo para una distancia fija es inversamente proporcional ($v_1 t_1 = v_2 t_2$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v10",
+      "statement": "Si el precio de un televisor antes de impuestos es de GTQ $2,500.00$, ¿cuál es el valor únicamente del impuesto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $250.00$",
+          "is_correct": false,
+          "feedback": "Este valor corresponde al $10\\%$, no al $12\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $300.00$",
+          "is_correct": true,
+          "feedback": "Correcto. $2,500 \\times 0.12 = 300$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $2,800.00$",
+          "is_correct": false,
+          "feedback": "Este es el precio total con el impuesto incluido, no solo el impuesto."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $120.00$",
+          "is_correct": false,
+          "feedback": "Se confundió el porcentaje con una cantidad fija o error en el cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cálculo del impuesto se realiza multiplicando la base imponible por la tasa impositiva expresada en decimal ($0.12$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v11",
+      "statement": "Si se utilizan $14$ metros cúbicos de arena, ¿cuál es el volumen total de la mezcla producida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$28$ m³",
+          "is_correct": false,
+          "feedback": "Este es solo el volumen de piedrín."
+        },
+        {
+          "letter": "B",
+          "text": "$42$ m³",
+          "is_correct": false,
+          "feedback": "Error al sumar las partes proporcionales."
+        },
+        {
+          "letter": "C",
+          "text": "$49$ m³",
+          "is_correct": true,
+          "feedback": "Correcto. Si 2 partes = 14, cada parte = 7. Total partes = $1+2+4=7$. $7 \\times 7 = 49$ m³."
+        },
+        {
+          "letter": "D",
+          "text": "$56$ m³",
+          "is_correct": false,
+          "feedback": "Error al calcular el valor de cada parte de la razón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En razones múltiples, se identifica el valor de una \"parte\" dividiendo la cantidad conocida por su término en la razón, luego se multiplica por la suma total de los términos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál fue el porcentaje de incremento en el precio del galón de gasolina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7\\%$",
+          "is_correct": false,
+          "feedback": "7 es la diferencia absoluta en Quetzales, no el porcentaje."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\%$",
+          "is_correct": false,
+          "feedback": "Error al dividir la diferencia por el precio final en lugar del inicial."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $((35 - 28) / 28) \\times 100 = (7 / 28) \\times 100 = 0.25 \\times 100 = 25\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$30\\%$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo del porcentaje de variación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El porcentaje de incremento se calcula como la diferencia entre el valor nuevo y el antiguo, dividida por el valor antiguo, todo multiplicado por 100.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v13",
+      "statement": "Si la brigada recibe a $10$ personas más, ¿cuántos días durarán los mismos suministros si todos consumen la misma ración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18.75$ días",
+          "is_correct": false,
+          "feedback": "Se aplicó proporcionalidad directa, pero a más personas los suministros duran menos tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ días",
+          "is_correct": true,
+          "feedback": "Correcto. Inversa: $40 \\times 15 = 50 \\times d \\Rightarrow 600 = 50d \\Rightarrow d = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$11.25$ días",
+          "is_correct": false,
+          "feedback": "Error al realizar la operación con la nueva cantidad total de personas (50)."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ días",
+          "is_correct": false,
+          "feedback": "Estimación incorrecta sin base en el cálculo proporcional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es un problema de regla de tres simple inversa. La cantidad total de personas es $40 + 10 = 50$. El producto de personas por días debe permanecer constante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál será el monto total (capital + interés) en la cuenta después de $4$ años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $10,600.00$",
+          "is_correct": false,
+          "feedback": "Este es el monto después de solo 1 año."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $12,400.00$",
+          "is_correct": true,
+          "feedback": "Correcto. Interés = $10,000 \\times 0.06 \\times 4 = 2,400$. Monto = $10,000 + 2,400 = 12,400$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $11,200.00$",
+          "is_correct": false,
+          "feedback": "Se calculó el interés para 2 años únicamente."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $2,400.00$",
+          "is_correct": false,
+          "feedback": "Este es solo el interés ganado, el enunciado pide el monto total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El interés simple se calcula con la fórmula $I = C \\cdot r \\cdot t$. El monto total es la suma del capital inicial y el interés acumulado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v15",
+      "statement": "¿Cuántas prendas producirán $10$ máquinas en $3$ horas, asumiendo que todas trabajan al mismo ritmo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,500$ prendas",
+          "is_correct": true,
+          "feedback": "Correcto. Producción por máquina-hora = $1,200 / (6 \\times 4) = 50$. Entonces $10 \\times 3 \\times 50 = 1,500$."
+        },
+        {
+          "letter": "B",
+          "text": "$1,800$ prendas",
+          "is_correct": false,
+          "feedback": "Error al plantear la regla de tres compuesta."
+        },
+        {
+          "letter": "C",
+          "text": "$1,250$ prendas",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la eficiencia por unidad de tiempo y máquina."
+        },
+        {
+          "letter": "D",
+          "text": "$2,000$ prendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimación por error en la proporcionalidad directa de los factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un problema de regla de tres compuesta. Se puede resolver encontrando la tasa unitaria de producción o mediante el método de proporciones combinadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el precio final que paga el comerciante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $350.00$",
+          "is_correct": false,
+          "feedback": "Se sumaron los porcentajes ($30\\%$) incorrectamente. Los descuentos sucesivos no se suman."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $360.00$",
+          "is_correct": true,
+          "feedback": "Correcto. Primer descuento: $500 \\times 0.8 = 400$. Segundo descuento: $400 \\times 0.9 = 360$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $400.00$",
+          "is_correct": false,
+          "feedback": "Solo se aplicó el primer descuento."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $375.00$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los descuentos sucesivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los descuentos sucesivos se aplican uno tras otro sobre el valor residual. No son equivalentes a la suma de los porcentajes individuales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v17",
+      "statement": "¿Cuántos kg de maíz se deben añadir si ya se tienen $250$ kg de soya en el recipiente para que la mezcla cumpla con la razón requerida al completar la tonelada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$700$ kg",
+          "is_correct": false,
+          "feedback": "Esto sería si la mezcla fuera de 1,000 kg totales partiendo de cero, pero ya hay soya."
+        },
+        {
+          "letter": "B",
+          "text": "$583.33$ kg",
+          "is_correct": true,
+          "feedback": "Correcto. La soya total será $300$ kg ($30\\%$ de $1,000$). Como ya hay $250$ kg, faltan $50$ kg de soya y $700$ kg de maíz. Si la pregunta fuera cuánto maíz falta para la razón $7:3$ con los $250$ kg de soya: $250/3 \\times 7 = 583.33$."
+        },
+        {
+          "letter": "C",
+          "text": "$750$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la proporción $7:3$ establecida."
+        },
+        {
+          "letter": "D",
+          "text": "$450$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor insuficiente para alcanzar la proporción con la soya presente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se debe calcular la cantidad de maíz necesaria para que, junto a la soya presente, se mantenga la razón $7:3$. $Maíz / 250 = 7 / 3 \\Rightarrow Maíz = 1750 / 3 \\approx 583.33$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v18",
+      "statement": "Si se depositan GTQ $8,000.00$, ¿cuál será el saldo después de $2$ años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $8,800.00$",
+          "is_correct": false,
+          "feedback": "Este es el resultado usando interés simple."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $8,820.00$",
+          "is_correct": true,
+          "feedback": "Correcto. Año 1: $8,000 \\times 1.05 = 8,400$. Año 2: $8,400 \\times 1.05 = 8,820$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $9,200.00$",
+          "is_correct": false,
+          "feedback": "Error significativo en el cálculo del interés compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $8,400.00$",
+          "is_correct": false,
+          "feedback": "Solo se calculó el saldo después del primer año."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El interés compuesto se diferencia del simple porque los intereses generados en cada periodo se suman al capital para generar nuevos intereses. Fórmula: $M = C(1+r)^t$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v19",
+      "statement": "¿Cuánto dinero más recibe el socio que más invirtió en comparación con el que menos invirtió?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $30,000.00$",
+          "is_correct": false,
+          "feedback": "Esta es la ganancia del socio que menos invirtió."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $75,000.00$",
+          "is_correct": false,
+          "feedback": "Esta es la ganancia del socio que más invirtió."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $45,000.00$",
+          "is_correct": true,
+          "feedback": "Correcto. Total partes = 10. Valor por parte = $15,000$. Socio 1 = $30,000$. Socio 3 = $75,000$. Diferencia = $45,000$."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $15,000.00$",
+          "is_correct": false,
+          "feedback": "Este es el valor de una sola parte proporcional, no la diferencia solicitada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se calcula la ganancia de cada socio basándose en su participación proporcional y luego se realiza la sustracción para hallar la diferencia entre los extremos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v20",
+      "statement": "Si en el mapa la distancia entre la Ciudad de Guatemala y Antigua Guatemala es de $18$ cm, ¿cuál es la distancia real en kilómetros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.5$ km",
+          "is_correct": false,
+          "feedback": "Error al realizar la conversión de centímetros a kilómetros."
+        },
+        {
+          "letter": "B",
+          "text": "$45$ km",
+          "is_correct": true,
+          "feedback": "Correcto. $18 \\times 250,000 = 4,500,000$ cm. Dividiendo por 100 para metros (45,000) y por 1,000 para km (45)."
+        },
+        {
+          "letter": "C",
+          "text": "$450$ km",
+          "is_correct": false,
+          "feedback": "Error de un orden de magnitud al convertir unidades de longitud."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ km",
+          "is_correct": false,
+          "feedback": "Se ignoró el factor de escala del mapa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las escalas en mapas son razones de proporcionalidad directa. Se debe multiplicar la medida del mapa por el denominador de la escala y luego convertir las unidades de cm a km.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

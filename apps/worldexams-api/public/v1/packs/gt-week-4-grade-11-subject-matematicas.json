@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:30:14.690Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina a una igualdad algebraica que solo es verdadera para ciertos valores específicos de las variables involucradas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identidad",
+          "is_correct": false,
+          "feedback": "Una identidad es verdadera para cualquier valor de las variables (ej. $x+x = 2x$)."
+        },
+        {
+          "letter": "B",
+          "text": "Ecuación",
+          "is_correct": true,
+          "feedback": "Correcto. Una ecuación es una igualdad condicionada que se cumple solo para ciertos valores llamados soluciones."
+        },
+        {
+          "letter": "C",
+          "text": "Expresión",
+          "is_correct": false,
+          "feedback": "Una expresión no contiene el signo de igualdad ($=$)."
+        },
+        {
+          "letter": "D",
+          "text": "Inecuación",
+          "is_correct": false,
+          "feedback": "Una inecuación utiliza signos de desigualdad ($<, >, \\le, \\ge$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación es una igualdad entre dos expresiones algebraicas que se satisface para valores determinados de la incógnita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la propiedad que permite sumar o restar la misma cantidad en ambos miembros de una ecuación sin alterar su solución?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false,
+          "feedback": "La propiedad conmutativa se refiere al orden de los términos en una operación."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Asociativa",
+          "is_correct": false,
+          "feedback": "La propiedad asociativa se refiere al agrupamiento de términos."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad de Uniformidad (o Aditiva de la Igualdad)",
+          "is_correct": true,
+          "feedback": "Correcto. Establece que si se realiza la misma operación en ambos lados de una igualdad, esta se mantiene."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Distributiva",
+          "is_correct": false,
+          "feedback": "La propiedad distributiva relaciona la multiplicación con la suma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las propiedades de la igualdad son la base del despeje de incógnitas, permitiendo transformar una ecuación en otra equivalente más simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v3",
+      "statement": "Si el artesano vende cada pulsera a GTQ $15.00$ y quiere obtener GTQ $450.00$, ¿cuál es la ecuación lineal que modela esta situación donde $x$ es la cantidad de pulseras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15x = 450$",
+          "is_correct": true,
+          "feedback": "Correcto. El precio por unidad multiplicado por la cantidad debe ser igual al total deseado."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 15 = 450$",
+          "is_correct": false,
+          "feedback": "Esto representaría que a la cantidad se le suman 15 quetzales, lo cual no es coherente con el precio por unidad."
+        },
+        {
+          "letter": "C",
+          "text": "$x / 15 = 450$",
+          "is_correct": false,
+          "feedback": "Esto indicaría que la cantidad dividida entre 15 da 450, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$450x = 15$",
+          "is_correct": false,
+          "feedback": "Esto sugeriría un precio de 450 por pulsera para un total de 15."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelado de problemas reales mediante ecuaciones lineales requiere identificar la variable dependiente (ingresos) y la independiente (cantidad).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifica un sistema de ecuaciones lineales que no tiene ninguna solución (sus gráficas son rectas paralelas)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Compatible Determinado",
+          "is_correct": false,
+          "feedback": "Tiene una solución única (las rectas se cruzan)."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Compatible Indeterminado",
+          "is_correct": false,
+          "feedback": "Tiene infinitas soluciones (las rectas son la misma)."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Incompatible",
+          "is_correct": true,
+          "feedback": "Correcto. No tiene solución porque las condiciones son contradictorias o las rectas nunca se tocan."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema Lineal Simple",
+          "is_correct": false,
+          "feedback": "No es una clasificación estándar basada en el número de soluciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sistemas incompatibles carecen de puntos comunes entre las ecuaciones que los conforman, lo que gráficamente se traduce en rectas que nunca se intersectan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v5",
+      "statement": "Resuelve la siguiente ecuación para hallar el valor de $x$: $3x + 12 = 45$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 19$",
+          "is_correct": false,
+          "feedback": "Error al realizar la resta $45 - 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x = 45 - 12 \\Rightarrow 3x = 33 \\Rightarrow x = 11$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 15$",
+          "is_correct": false,
+          "feedback": "Error al dividir 45 entre 3 directamente sin restar el 12 primero."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 21$",
+          "is_correct": false,
+          "feedback": "Error aritmético en el proceso de despeje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El proceso de despeje implica realizar las operaciones inversas en el orden adecuado: primero sumas/restas y luego multiplicaciones/divisiones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v6",
+      "statement": "El doble de un número más 5 es igual a 21. ¿De qué número se trata?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": "$2(13) + 5 = 26 + 5 = 31 \\ne 21$."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x + 5 = 21 \\Rightarrow 2x = 16 \\Rightarrow x = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$10.5$",
+          "is_correct": false,
+          "feedback": "Error al plantear o resolver la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Solo se restó 21 - 5, faltó dividir entre 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resolución de problemas verbales implica traducir el enunciado a una ecuación simbólica y resolverla sistemáticamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la medida del ancho del terreno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Perímetro = $2(x + 3x) = 160 \\Rightarrow 8x = 160 \\Rightarrow x = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$40$ m",
+          "is_correct": false,
+          "feedback": "Este sería el valor si el perímetro fuera solo la suma de un largo y un ancho."
+        },
+        {
+          "letter": "C",
+          "text": "$60$ m",
+          "is_correct": false,
+          "feedback": "Este es el valor del largo, no del ancho."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Error al plantear la ecuación del perímetro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar dimensiones, se define una incógnita para la medida base (ancho) y se expresa la otra en términos de esta (largo = 3x), usando luego la fórmula del perímetro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v8",
+      "statement": "¿En qué consiste el primer paso del método de sustitución?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar las dos ecuaciones para eliminar una variable.",
+          "is_correct": false,
+          "feedback": "Este es el método de reducción o eliminación."
+        },
+        {
+          "letter": "B",
+          "text": "Despejar una de las variables en una de las ecuaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Se aísla una incógnita para luego reemplazarla en la otra ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "Graficar ambas rectas para encontrar el punto de intersección.",
+          "is_correct": false,
+          "feedback": "Este es el método gráfico."
+        },
+        {
+          "letter": "D",
+          "text": "Igualar las dos expresiones resultantes de despejar la misma variable.",
+          "is_correct": false,
+          "feedback": "Este es el método de igualación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada método algebraico tiene una estrategia distinta para reducir el sistema de dos variables a una sola ecuación con una variable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v9",
+      "statement": "Dado el sistema:\n$x + y = 10$\n$x - y = 2$\n¿Cuál es el valor de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Si $x=4$, entonces $y=6$ para la primera, pero $4-6 = -2 \\ne 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando ambas: $2x = 12 \\Rightarrow x = 6$. Entonces $y = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface ambas igualdades simultáneamente."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación del método de reducción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El método de reducción es ideal cuando los coeficientes de una variable son opuestos, permitiendo su eliminación inmediata al sumar las ecuaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v10",
+      "statement": "Tres cafés y dos panes dulces cuestan GTQ $48.00$. Si un café cuesta GTQ $10.00$, ¿cuánto cuesta cada pan dulce?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $12.00$",
+          "is_correct": false,
+          "feedback": "Error al calcular el costo restante."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $9.00$",
+          "is_correct": true,
+          "feedback": "Correcto. $3(10) + 2x = 48 \\Rightarrow 30 + 2x = 48 \\Rightarrow 2x = 18 \\Rightarrow x = 9$."
+        },
+        {
+          "letter": "C",
+          "text": "GTQ $6.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el despeje de la variable $x$."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $18.00$",
+          "is_correct": false,
+          "feedback": "Este es el costo total de los dos panes, falta dividir entre 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituir valores conocidos en una ecuación lineal permite hallar el valor de la incógnita restante en situaciones de consumo cotidiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v11",
+      "statement": "Resuelve el sistema de ecuaciones por el método de igualación:\n$y = 2x + 1$\n$y = -x + 4$\n¿Cuál es el valor de la coordenada $x$ del punto de intersección?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x + 1 = -x + 4 \\Rightarrow 3x = 3 \\Rightarrow x = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Error al agrupar los términos con la variable $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1.5$",
+          "is_correct": false,
+          "feedback": "Error aritmético durante la resolución de la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad de las dos expresiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El método de igualación es directo cuando ambas ecuaciones ya tienen despejada la misma variable. El resultado es el punto donde ambas condiciones se cumplen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la ecuación: $\\frac{x}{2} + \\frac{x}{3} = 5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Error al operar con las fracciones."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por 6: $3x + 2x = 30 \\Rightarrow 5x = 30 \\Rightarrow x = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Error al buscar el mínimo común denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1.2$",
+          "is_correct": false,
+          "feedback": "Error en el proceso de despeje final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver ecuaciones con fracciones, es recomendable multiplicar todos los términos por el mínimo común múltiplo de los denominadores para trabajar con números enteros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el sistema de ecuaciones que representa este problema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + y = 650$; $10x + 15y = 50$",
+          "is_correct": false,
+          "feedback": "Se intercambiaron los totales de cantidad y costo."
+        },
+        {
+          "letter": "B",
+          "text": "$x + y = 50$; $10x + 15y = 650$",
+          "is_correct": true,
+          "feedback": "Correcto. Una ecuación para la cantidad total y otra para el costo total."
+        },
+        {
+          "letter": "C",
+          "text": "$10x + 15y = 50 \\times 650$",
+          "is_correct": false,
+          "feedback": "Planteamiento incorrecto de las relaciones de costo."
+        },
+        {
+          "letter": "D",
+          "text": "$x - y = 50$; $10x - 15y = 650$",
+          "is_correct": false,
+          "feedback": "Se usaron restas en lugar de sumas para representar el total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los problemas de mezclas generan sistemas donde una ecuación representa las unidades físicas y la otra representa el valor monetario o concentración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v14",
+      "statement": "En el sistema:\n$2x + 3y = 8$\n$x - y = -1$\n¿Cuál es el valor del determinante principal ($\\Delta$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Error al calcular el producto cruzado."
+        },
+        {
+          "letter": "B",
+          "text": "$-5$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\Delta = (2)(-1) - (1)(3) = -2 - 3 = -5$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Error de signo en la resta del determinante."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Error en la identificación de los coeficientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinante principal de un sistema $2 \\times 2$ se calcula restando el producto de la diagonal secundaria del producto de la diagonal principal de la matriz de coeficientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de los siguientes sistemas es dependiente (Compatible Indeterminado), es decir, tiene infinitas soluciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + y = 5$; $x - y = 5$",
+          "is_correct": false,
+          "feedback": "Es determinado (solución única $x=5, y=0$)."
+        },
+        {
+          "letter": "B",
+          "text": "$2x - 4y = 8$; $x - 2y = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. La primera ecuación es el doble de la segunda; son la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "$x + y = 3$; $x + y = 4$",
+          "is_correct": false,
+          "feedback": "Es incompatible (no tiene solución)."
+        },
+        {
+          "letter": "D",
+          "text": "$3x + 2y = 6$; $x + y = 2$",
+          "is_correct": false,
+          "feedback": "Es determinado con solución única."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema es compatible indeterminado cuando las ecuaciones son equivalentes (proporcionales), lo que significa que representan la misma recta en el plano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v16",
+      "statement": "La suma de dos números es $30$ y su diferencia es $10$. ¿Cuáles son los números?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$ y $15$",
+          "is_correct": false,
+          "feedback": "La suma es 30, pero la diferencia es 0."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ y $10$",
+          "is_correct": true,
+          "feedback": "Correcto. $20 + 10 = 30$ y $20 - 10 = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ y $5$",
+          "is_correct": false,
+          "feedback": "La suma es 30, pero la diferencia es 20."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ y $12$",
+          "is_correct": false,
+          "feedback": "La suma es 30, pero la diferencia es 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema clásico se resuelve planteando un sistema de suma y resta: $x+y=30$ y $x-y=10$. Sumando ambas ecuaciones se obtiene $2x=40$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el precio de equilibrio ($P$) donde la cantidad demandada es igual a la cantidad ofrecida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P = 20$",
+          "is_correct": false,
+          "feedback": "$Q_d = 60, Q_s = 80$. No hay equilibrio."
+        },
+        {
+          "letter": "B",
+          "text": "$P = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. $100 - 2P = 20 + 3P \\Rightarrow 80 = 5P \\Rightarrow P = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$P = 24$",
+          "is_correct": false,
+          "feedback": "Error al despejar la variable $P$ de la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$P = 12$",
+          "is_correct": false,
+          "feedback": "Error en el proceso de agrupación de términos semejantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El equilibrio se halla igualando las funciones de oferta y demanda, lo cual resulta en una ecuación lineal de una variable para el precio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v18",
+      "statement": "Resuelve el sistema:\n$0.5x + 0.2y = 1.3$\n$0.3x - 0.4y = 0.0$\n¿Cuál es la solución para el par $(x, y)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 4)$",
+          "is_correct": false,
+          "feedback": "$0.5(1) + 0.2(4) = 0.5 + 0.8 = 1.3$ (cumple), pero $0.3(1) - 0.4(4) = -1.3 \\ne 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 1.5)$",
+          "is_correct": true,
+          "feedback": "Correcto. De la segunda: $0.3x = 0.4y \\Rightarrow 3x = 4y \\Rightarrow y = 0.75x$. Sustituyendo: $0.5x + 0.2(0.75x) = 1.3 \\Rightarrow 0.5x + 0.15x = 1.3 \\Rightarrow 0.65x = 1.3 \\Rightarrow x = 2, y = 1.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface ambas igualdades simultáneamente."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 2.5)$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la variable dependiente $y$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para simplificar sistemas con decimales, es útil multiplicar cada ecuación por una potencia de 10 antes de aplicar cualquier método de resolución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v19",
+      "statement": "¿Bajo qué condición el sistema $kx + 2y = 5$; $2x + y = 4$ tiene una solución única?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo si $k = 4$",
+          "is_correct": false,
+          "feedback": "Si $k=4$, las rectas son paralelas (incompatible), no tiene solución única."
+        },
+        {
+          "letter": "B",
+          "text": "Para cualquier valor de $k$ excepto $k = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. El determinante es $k(1) - 2(2) = k - 4$. Para solución única $\\Delta \\ne 0$, por lo que $k \\ne 4$."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si $k = 1$",
+          "is_correct": false,
+          "feedback": "Si $k=1$ hay solución única, pero no es el único valor posible."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca puede tener solución única.",
+          "is_correct": false,
+          "feedback": "Falso. Casi todos los valores de $k$ permiten una intersección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema de ecuaciones lineales tiene solución única si y solo si el determinante de su matriz de coeficientes es diferente de cero.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle-v20",
+      "statement": "La edad de un padre es el triple de la de su hijo. Hace 10 años, la edad del padre era el quíntuple de la de su hijo. ¿Cuántos años tiene el hijo actualmente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$ años",
+          "is_correct": false,
+          "feedback": "Padre tendría 45. Hace 10: 35 y 5. 35 es 7 veces 5, no 5 veces."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ años",
+          "is_correct": true,
+          "feedback": "Correcto. Padre = 60. Hace 10: Padre = 50, Hijo = 10. 50 es el quíntuple de 10."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ años",
+          "is_correct": false,
+          "feedback": "Padre tendría 75. Hace 10: 65 y 15. No cumple la relación."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ años",
+          "is_correct": false,
+          "feedback": "Padre tendría 30. Hace 10: 20 y 0. No es posible según el enunciado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los problemas de edades requieren plantear ecuaciones para el presente y para el pasado/futuro, recordando que el paso del tiempo afecta a ambos sujetos por igual.\n$P = 3H$\n$P - 10 = 5(H - 10)$\nSustituyendo: $3H - 10 = 5H - 50 \\Rightarrow 40 = 2H \\Rightarrow H = 20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W04-ecuaciones-lineales-sistemas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
