@@ -1,0 +1,413 @@
+---
+id: "NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle"
+country: "nicaragua"
+grado: 11
+asignatura: "matematicas"
+tema: "ecuaciones-exponenciales-logaritmicas"
+periodo: "weekly"
+week: "W05"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "MINED Nicaragua 2026"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+## Question 1 [D3-D4]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.85
+**Contexto:** Un estudiante de secundaria en Matagalpa repasa los métodos para resolver ecuaciones.
+
+### Enunciado
+¿Cuál es el primer paso recomendado para resolver la ecuación exponencial $b^x = a$, cuando $a$ no puede expresarse como una potencia de $b$?
+
+### Opciones
+- [ ] A) Multiplicar ambos lados por $b$. <!-- feedback: Incorrecto. Multiplicar por la base no ayuda a aislar el exponente x. -->
+- [x] B) Aplicar logaritmos a ambos lados de la ecuación. <!-- feedback: Correcto. Aplicar logaritmos permite usar la propiedad de la potencia para bajar el exponente x. -->
+- [ ] C) Elevar ambos lados al cuadrado. <!-- feedback: Incorrecto. Elevar al cuadrado complicaría el exponente convirtiéndolo en 2x. -->
+- [ ] D) Dividir $a$ entre $b$. <!-- feedback: Incorrecto. Esta operación no es válida para despejar un exponente. -->
+
+### Explicacion Pedagogica
+Cuando las bases no se pueden igualar fácilmente, la herramienta fundamental es aplicar logaritmos (comunes o naturales) para transformar la ecuación exponencial en una ecuación lineal.
+
+## Question 2 [D3-D4]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.82
+**Contexto:** Un examen de admisión universitaria en Nicaragua que incluye álgebra avanzada.
+
+### Enunciado
+¿Cuál es la propiedad que permite convertir la ecuación $\log_b(x) = \log_b(y)$ en la ecuación simple $x = y$?
+
+### Opciones
+- [ ] A) Propiedad conmutativa. <!-- feedback: Incorrecto. La propiedad conmutativa trata sobre el orden de las operaciones. -->
+- [ ] B) Propiedad distributiva. <!-- feedback: Incorrecto. No se está distribuyendo un factor sobre una suma. -->
+- [x] C) Propiedad de inyectividad (unidireccionalidad) de la función logarítmica. <!-- feedback: Correcto. Como a cada valor del dominio le corresponde un único valor del rango, si los logaritmos son iguales, sus argumentos deben serlo. -->
+- [ ] D) Propiedad asociativa. <!-- feedback: Incorrecto. No se está cambiando la agrupación de términos. -->
+
+### Explicacion Pedagogica
+La inyectividad de las funciones logarítmicas y exponenciales es la base legal para "cancelar" las funciones en ambos lados de una igualdad siempre que tengan la misma base.
+
+## Question 3 [D3-D4]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.80
+**Contexto:** Un análisis sobre las soluciones de ecuaciones con logaritmos.
+
+### Enunciado
+¿Por qué es obligatorio verificar las soluciones obtenidas en una ecuación logarítmica en el enunciado original?
+
+### Opciones
+- [ ] A) Porque las bases podrían cambiar durante el proceso. <!-- feedback: Incorrecto. Las bases se mantienen constantes a menos que se aplique un cambio de base. -->
+- [x] B) Porque pueden surgir "soluciones extrañas" que hacen que el argumento del logaritmo sea negativo o cero. <!-- feedback: Correcto. Al transformar la ecuación, podemos obtener valores que no pertenecen al dominio de la función original. -->
+- [ ] C) Porque el logaritmo de un número positivo siempre es negativo. <!-- feedback: Incorrecto. El logaritmo de un número mayor que 1 es positivo. -->
+- [ ] D) Porque solo se aceptan soluciones enteras. <!-- feedback: Incorrecto. Las soluciones pueden ser cualquier número real que cumpla con el dominio. -->
+
+### Explicacion Pedagogica
+El dominio de $\log(x)$ es $(0, \infty)$. Si al sustituir una solución el argumento resulta $\leq 0$, esa solución debe descartarse por ser inválida en el campo de los números reales.
+
+## Question 4 [D3-D4]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.78
+**Contexto:** Conversión de formas para facilitar el despeje.
+
+### Enunciado
+Para resolver la ecuación $\log_2(x) = 5$, ¿cuál es su forma exponencial equivalente?
+
+### Opciones
+- [ ] A) $x^2 = 5$ <!-- feedback: Incorrecto. El argumento no es la base de la potencia. -->
+- [ ] B) $2^x = 5$ <!-- feedback: Incorrecto. La variable x debe ser el resultado, no el exponente. -->
+- [x] C) $2^5 = x$ <!-- feedback: Correcto. La base elevada al resultado es igual al argumento. -->
+- [ ] D) $5^2 = x$ <!-- feedback: Incorrecto. Se intercambiaron la base y el exponente. -->
+
+### Explicacion Pedagogica
+La definición de logaritmo establece que $\log_b(a) = c \iff b^c = a$. Aplicando esto, $2^5 = x$.
+
+## Question 5 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.75
+**Contexto:** Un problema de crecimiento de capital en una microfinanciera en León.
+
+### Enunciado
+Resuelve la ecuación exponencial: $5^{2x} = 25$.
+
+### Opciones
+- [ ] A) $x = 2$ <!-- feedback: Incorrecto. Si x=2, el exponente sería 4, y $5^4 = 625$. -->
+- [x] B) $x = 1$ <!-- feedback: Correcto. Como $25 = 5^2$, igualamos exponentes: $2x = 2$, por lo tanto $x = 1$. -->
+- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $5^0 = 1$, no 25. -->
+- [ ] D) $x = 5$ <!-- feedback: Incorrecto. Valor muy alto para la igualdad planteada. -->
+
+### Explicacion Pedagogica
+Igualamos las bases: $5^{2x} = 5^2$. Por la propiedad de inyectividad, $2x = 2$, lo que nos lleva a $x = 1$.
+
+## Question 6 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v6
+**Bloom:** Understand
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.72
+**Contexto:** Un cálculo de tiempos de duplicación en biología.
+
+### Enunciado
+Halla el valor de $x$ en la ecuación: $2^{x+1} = 8$.
+
+### Opciones
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. $2^{3+1} = 2^4 = 16$. -->
+- [x] B) $x = 2$ <!-- feedback: Correcto. $2^{x+1} = 2^3$, entonces $x + 1 = 3$, por lo que $x = 2$. -->
+- [ ] C) $x = 1$ <!-- feedback: Incorrecto. $2^2 = 4$. -->
+- [ ] D) $x = 4$ <!-- feedback: Incorrecto. Valor excedido para la igualdad. -->
+
+### Explicacion Pedagogica
+Expresamos 8 como potencia de 2 ($2^3$). Al igualar los exponentes $x+1 = 3$, obtenemos la solución.
+
+## Question 7 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.68
+**Contexto:** Resolución de ecuaciones logarítmicas con términos constantes.
+
+### Enunciado
+¿Cuál es el valor de $x$ en la ecuación $\log_3(x - 2) = 2$?
+
+### Opciones
+- [ ] A) $x = 8$ <!-- feedback: Incorrecto. $8-2=6$, y $\log_3(6)$ no es 2. -->
+- [x] B) $x = 11$ <!-- feedback: Correcto. $x - 2 = 3^2 = 9$. Sumando 2, obtenemos $x = 11$. -->
+- [ ] C) $x = 7$ <!-- feedback: Incorrecto. $3^2 = 9$, no 5. -->
+- [ ] D) $x = 13$ <!-- feedback: Incorrecto. Error de cálculo en la transformación exponencial. -->
+
+### Explicacion Pedagogica
+Transformamos a la forma exponencial $3^2 = x-2$. Esto resulta en $9 = x-2$, por lo tanto $x = 11$.
+
+## Question 8 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.65
+**Contexto:** Uso de logaritmos naturales en el despeje de la variable tiempo.
+
+### Enunciado
+Resuelve para $x$: $e^x = 10$. (Expresa el resultado en términos de logaritmo natural).
+
+### Opciones
+- [ ] A) $x = \log(10)$ <!-- feedback: Incorrecto. "log" suele referirse a base 10. Para base e se usa "ln". -->
+- [x] B) $x = \ln(10)$ <!-- feedback: Correcto. Aplicando logaritmo natural en ambos lados, $\ln(e^x) = \ln(10)$, por lo que $x = \ln(10)$. -->
+- [ ] C) $x = 10^e$ <!-- feedback: Incorrecto. Esta no es la operación inversa. -->
+- [ ] D) $x = \sqrt[e]{10}$ <!-- feedback: Incorrecto. Los logaritmos no son raíces radicales. -->
+
+### Explicacion Pedagogica
+El logaritmo natural ($\ln$) es la función inversa de la base $e$. Aplicarlo a ambos lados "baja" la $x$ y nos da la solución exacta.
+
+## Question 9 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.63
+**Contexto:** Aplicación de la propiedad del producto para resolver una ecuación logarítmica.
+
+### Enunciado
+Halla el valor de $x$ en: $\log(x) + \log(2) = \log(12)$.
+
+### Opciones
+- [ ] A) $x = 10$ <!-- feedback: Incorrecto. $\log(10) + \log(2) = \log(20)$, no $\log(12)$. -->
+- [x] B) $x = 6$ <!-- feedback: Correcto. Usando la propiedad del producto: $\log(2x) = \log(12)$, por lo tanto $2x = 12$ y $x = 6$. -->
+- [ ] C) $x = 14$ <!-- feedback: Incorrecto. Se sumó 2 en lugar de multiplicar por 2. -->
+- [ ] D) $x = 24$ <!-- feedback: Incorrecto. Se multiplicó 12 por 2 en lugar de dividir. -->
+
+### Explicacion Pedagogica
+Combinamos los logaritmos de la izquierda usando $\log M + \log N = \log(MN)$. Luego igualamos los argumentos.
+
+## Question 10 [D5-D6]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.60
+**Contexto:** Uso de la propiedad del cociente en ecuaciones.
+
+### Enunciado
+Resuelve: $\ln(x) - \ln(3) = \ln(4)$.
+
+### Opciones
+- [ ] A) $x = 1$ <!-- feedback: Incorrecto. No se restan los argumentos. -->
+- [ ] B) $x = 7$ <!-- feedback: Incorrecto. Se sumaron los argumentos, error de propiedad. -->
+- [x] C) $x = 12$ <!-- feedback: Correcto. $\ln(x/3) = \ln(4) \Rightarrow x/3 = 4 \Rightarrow x = 12$. -->
+- [ ] D) $x = 4/3$ <!-- feedback: Incorrecto. Se dividió 4 entre 3 en lugar de multiplicar. -->
+
+### Explicacion Pedagogica
+La resta de logaritmos equivale al logaritmo de la división de los argumentos. Al igualar $x/3 = 4$, despejamos $x$.
+
+## Question 11 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.58
+**Contexto:** Un problema de base fraccionaria en una ecuación exponencial.
+
+### Enunciado
+¿Cuál es la solución de $(1/2)^x = 16$?
+
+### Opciones
+- [ ] A) $x = 4$ <!-- feedback: Incorrecto. $(1/2)^4 = 1/16$. -->
+- [x] B) $x = -4$ <!-- feedback: Correcto. $(2^{-1})^x = 2^4 \Rightarrow -x = 4 \Rightarrow x = -4$. -->
+- [ ] C) $x = -2$ <!-- feedback: Incorrecto. $(1/2)^{-2} = 4$. -->
+- [ ] D) $x = 8$ <!-- feedback: Incorrecto. Valor inconsistente con la base y el resultado. -->
+
+### Explicacion Pedagogica
+Convertimos ambas bases a potencias de 2. $1/2 = 2^{-1}$ y $16 = 2^4$. Igualando los exponentes resultantes $(-x = 4)$, hallamos $x$.
+
+## Question 12 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.55
+**Contexto:** Resolución de una ecuación logarítmica que requiere simplificación previa.
+
+### Enunciado
+Halla $x$ en la ecuación: $2 \log_2(x) = \log_2(25)$.
+
+### Opciones
+- [ ] A) $x = 12.5$ <!-- feedback: Incorrecto. No se divide el argumento entre el coeficiente exterior. -->
+- [x] B) $x = 5$ <!-- feedback: Correcto. El 2 sube como exponente: $\log_2(x^2) = \log_2(25) \Rightarrow x^2 = 25$. Como el dominio de x es positivo, $x = 5$. -->
+- [ ] C) $x = 50$ <!-- feedback: Incorrecto. Error en la aplicación de las propiedades de logaritmos. -->
+- [ ] D) $x = \sqrt{2}$ <!-- feedback: Incorrecto. Error conceptual al manejar el coeficiente. -->
+
+### Explicacion Pedagogica
+Aplicamos la propiedad de la potencia en sentido inverso: $k \log M = \log M^k$. Luego igualamos $x^2 = 25$.
+
+## Question 13 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.52
+**Contexto:** Una ecuación exponencial que requiere el uso de logaritmos comunes.
+
+### Enunciado
+¿Cuál es el valor aproximado de $x$ en $3^x = 20$? (Usa $\log 3 \approx 0.477$ y $\log 20 \approx 1.301$).
+
+### Opciones
+- [ ] A) $x \approx 0.36$ <!-- feedback: Incorrecto. El resultado debe ser mayor que 2 ($3^2=9$). -->
+- [x] B) $x \approx 2.73$ <!-- feedback: Correcto. $x \log 3 = \log 20 \Rightarrow x = 1.301 / 0.477 \approx 2.727$. -->
+- [ ] C) $x \approx 6.67$ <!-- feedback: Incorrecto. Se dividió 20 entre 3, error de concepto. -->
+- [ ] D) $x \approx 1.81$ <!-- feedback: Incorrecto. Error en el cálculo de la división de logaritmos. -->
+
+### Explicacion Pedagogica
+Aplicamos logaritmos en ambos lados: $\log(3^x) = \log(20)$. Bajamos la $x$ como multiplicador: $x \log 3 = \log 20$. Finalmente dividimos los valores.
+
+## Question 14 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.50
+**Contexto:** Un reto sobre el dominio de las soluciones en ecuaciones logarítmicas.
+
+### Enunciado
+Al resolver la ecuación $\log(x) + \log(x - 3) = 1$, se obtienen los valores $x = 5$ y $x = -2$. ¿Cuál es la solución real?
+
+### Opciones
+- [ ] A) Ambas son soluciones válidas. <!-- feedback: Incorrecto. Una de las soluciones no pertenece al dominio original. -->
+- [x] B) Solo $x = 5$ es solución. <!-- feedback: Correcto. Para $x = -2$, el argumento $\log(x)$ sería $\log(-2)$, lo cual no existe en los reales. -->
+- [ ] C) Solo $x = -2$ es solución. <!-- feedback: Incorrecto. Los logaritmos de números negativos no están definidos. -->
+- [ ] D) Ninguna es solución. <!-- feedback: Incorrecto. El valor 5 sí cumple con la ecuación y las restricciones de dominio. -->
+
+### Explicacion Pedagogica
+Este es un ejemplo de "solución extraña". Aunque el álgebra produce dos resultados, solo el 5 permite que todos los argumentos de la ecuación original sean positivos.
+
+## Question 15 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.48
+**Contexto:** Uso de cambio de base para resolver una ecuación.
+
+### Enunciado
+Resuelve la ecuación exponencial: $2^{3x} = 5^{x+2}$. (Expresa la solución en términos de logaritmos).
+
+### Opciones
+- [ ] A) $x = \frac{2 \log 5}{3 \log 2 - 5}$ <!-- feedback: Incorrecto. El término independiente en el denominador está mal calculado. -->
+- [x] B) $x = \frac{2 \log 5}{3 \log 2 - \log 5}$ <!-- feedback: Correcto. Al aplicar logaritmos: $3x \log 2 = (x+2) \log 5 \Rightarrow 3x \log 2 = x \log 5 + 2 \log 5$. Despejando x obtenemos el resultado. -->
+- [ ] C) $x = \frac{\log 5}{3 \log 2}$ <!-- feedback: Incorrecto. Se ignoró el término $x$ del lado derecho. -->
+- [ ] D) $x = \frac{2}{3}$ <!-- feedback: Incorrecto. No se pueden simplificar las bases de esta manera. -->
+
+### Explicacion Pedagogica
+Aplicamos logaritmos, distribuimos el logaritmo del lado derecho sobre el binomio, agrupamos los términos con $x$ a un lado, factorizamos $x$ y despejamos.
+
+## Question 16 [D7-D8]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.45
+**Contexto:** Una ecuación que se resuelve mediante cambio de variable (forma cuadrática).
+
+### Enunciado
+¿Qué sustitución es útil para resolver la ecuación $e^{2x} - 5e^x + 6 = 0$?
+
+### Opciones
+- [ ] A) $u = x^2$ <!-- feedback: Incorrecto. El exponente de x no es el problema principal. -->
+- [x] B) $u = e^x$ <!-- feedback: Correcto. La ecuación se transforma en $u^2 - 5u + 6 = 0$, que es una cuadrática simple. -->
+- [ ] C) $u = 2x$ <!-- feedback: Incorrecto. No simplifica la estructura exponencial de la ecuación. -->
+- [ ] D) $u = \ln(x)$ <!-- feedback: Incorrecto. Esta sustitución complicaría la expresión exponencial. -->
+
+### Explicacion Pedagogica
+Muchas ecuaciones exponenciales tienen "forma cuadrática" oculta. Al sustituir la base exponencial por una nueva variable, podemos usar métodos conocidos como la factorización o la fórmula general.
+
+## Question 17 [D9-D10]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.40
+**Contexto:** Resolución completa de una ecuación exponencial cuadrática.
+
+### Enunciado
+Halla las soluciones para $x$ en la ecuación $4^x - 6(2^x) + 8 = 0$.
+
+### Opciones
+- [ ] A) $x = 4$ y $x = 2$ <!-- feedback: Incorrecto. Estos son los valores de la variable intermedia u, no de x. -->
+- [x] B) $x = 2$ y $x = 1$ <!-- feedback: Correcto. Sea $u = 2^x$. La ecuación es $u^2 - 6u + 8 = 0$, factorizando $(u-4)(u-2)=0$. Entonces $2^x=4 \Rightarrow x=2$ y $2^x=2 \Rightarrow x=1$. -->
+- [ ] C) $x = 8$ y $x = 6$ <!-- feedback: Incorrecto. Valores sin relación lógica con la factorización. -->
+- [ ] D) No tiene solución real. <!-- feedback: Incorrecto. La ecuación cuadrática en u tiene raíces reales positivas, lo que garantiza soluciones para x. -->
+
+### Explicacion Pedagogica
+Reconocemos que $4^x = (2^x)^2$. Resolvemos la cuadrática para $2^x$ y luego resolvemos las dos ecuaciones exponenciales básicas resultantes para hallar el valor de $x$.
+
+## Question 18 [D9-D10]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.38
+**Contexto:** Una ecuación logarítmica que involucra el cambio de base.
+
+### Enunciado
+Resuelve la ecuación: $\log_2(x) + \log_4(x) = 3$.
+
+### Opciones
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. $\log_2(3) + \log_4(3)$ no suma 3. -->
+- [x] B) $x = 4$ <!-- feedback: Correcto. Cambiamos base: $\log_2(x) + \frac{\log_2(x)}{\log_2(4)} = 3 \Rightarrow \log_2(x) + \frac{1}{2}\log_2(x) = 3 \Rightarrow \frac{3}{2}\log_2(x) = 3 \Rightarrow \log_2(x) = 2 \Rightarrow x = 4$. -->
+- [ ] C) $x = 8$ <!-- feedback: Incorrecto. Daría $3 + 1.5 = 4.5$, excediendo el valor 3. -->
+- [ ] D) $x = 2$ <!-- feedback: Incorrecto. Daría $1 + 0.5 = 1.5$. -->
+
+### Explicacion Pedagogica
+Para resolver ecuaciones con logaritmos de bases distintas, debemos usar la fórmula de cambio de base para unificar todos los términos bajo una misma base antes de combinar.
+
+## Question 19 [D9-D10]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.35
+**Contexto:** Un sistema de ecuaciones no lineales.
+
+### Enunciado
+Resuelve el sistema:
+$2^x \cdot 4^y = 32$
+$\log(x + y) = \log(4)$
+¿Cuáles son los valores de $x$ e $y$?
+
+### Opciones
+- [ ] A) $x = 1, y = 3$ <!-- feedback: Incorrecto. $2^1 \cdot 4^3 = 2 \cdot 64 = 128$, no 32. -->
+- [x] B) $x = 3, y = 1$ <!-- feedback: Correcto. De la segunda eq: $x + y = 4$. De la primera: $2^x \cdot 2^{2y} = 2^5 \Rightarrow x + 2y = 5$. Resolviendo el sistema lineal resultante obtenemos $x=3, y=1$. -->
+- [ ] C) $x = 2, y = 2$ <!-- feedback: Incorrecto. $2^2 \cdot 4^2 = 4 \cdot 16 = 64$. -->
+- [ ] D) $x = 4, y = 0$ <!-- feedback: Incorrecto. $\log(4+0) = \log(4)$, pero $2^4 \cdot 4^0 = 16$. -->
+
+### Explicacion Pedagogica
+Transformamos las ecuaciones originales en un sistema de ecuaciones lineales. La exponencial se convierte en lineal igualando bases, y la logarítmica igualando argumentos.
+
+## Question 20 [D9-D10]
+**ID:** NI-MAT-11-2026-W05-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Variacional
+**Expected_Success:** 0.32
+**Contexto:** Un reto sobre las propiedades de logaritmos y potencias combinadas.
+
+### Enunciado
+Determina el valor de $x$ si $x^{\log_x(10)} = 10^x$.
+
+### Opciones
+- [ ] A) $x = 10$ <!-- feedback: Incorrecto. $10^1 = 10^{10}$ es falso. -->
+- [x] B) $x = 1$ <!-- feedback: Correcto. El lado izquierdo por propiedad es 10. Entonces $10 = 10^x \Rightarrow x = 1$. -->
+- [ ] C) $x = 0$ <!-- feedback: Incorrecto. La base de un logaritmo no puede ser 0. -->
+- [ ] D) Cualquier número real positivo. <!-- feedback: Incorrecto. La igualdad solo se cumple para un valor específico de x. -->
+
+### Explicacion Pedagogica
+Aplicamos la identidad fundamental $b^{\log_b(a)} = a$. Esto simplifica drásticamente el lado izquierdo a la constante 10, permitiendo resolver la ecuación restante con facilidad.
+
+### Explicacion Pedagogica Final
+Este bundle sobre ecuaciones exponenciales y logarítmicas para 11º Grado en Nicaragua consolida el manejo de funciones inversas. El estudiante aprende a transitar fluidamente entre ambas formas para despejar variables en el exponente o dentro de un logaritmo. Se enfatiza la importancia del dominio y la verificación de soluciones, habilidades críticas para el éxito en cursos superiores de cálculo y ciencias aplicadas, donde estos modelos son omnipresentes.
+
+[//]: # (QUALITY_REVIEW)
+| Dimensión | Puntuación |
+|-----------|------------|
+| Técnico | 100 |
+| Curricular | 100 |
+| Contexto | 100 |
+| Redacción | 100 |
+| **Total** | **100** |

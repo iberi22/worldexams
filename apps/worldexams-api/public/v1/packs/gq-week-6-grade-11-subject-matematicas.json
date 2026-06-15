@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:40:01.123Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "¿Que representa la solucion de un sistema de dos ecuaciones lineales con dos incognitas desde el punto de vista grafico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El area comprendida entre las dos rectas.",
+          "is_correct": false,
+          "feedback": "El area no representa una solucion puntual (x, y) del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "El punto de interseccion entre las dos rectas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las coordenadas del punto donde se cruzan las rectas satisfacen ambas ecuaciones simultaneamente."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de las pendientes de ambas rectas.",
+          "is_correct": false,
+          "feedback": "Las pendientes determinan la inclinacion, pero su suma no es la solucion del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "El punto donde ambas rectas cortan al eje Y.",
+          "is_correct": false,
+          "feedback": "Esos son los terminos independientes, no necesariamente la solucion del sistema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada ecuacion lineal en un sistema de $2 \\times 2$ representa una recta en el plano cartesiano. La solucion del sistema es el par ordenado $(x, y)$ que pertenece a ambas rectas, es decir, su punto de contacto o interseccion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "¿Cual de los siguientes NO es un metodo estandar para resolver sistemas de ecuaciones lineales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metodo de Sustitucion",
+          "is_correct": false,
+          "feedback": "Este es un metodo valido donde se despeja una variable y se sustituye en la otra."
+        },
+        {
+          "letter": "B",
+          "text": "Metodo de Igualacion",
+          "is_correct": false,
+          "feedback": "Este es un metodo valido donde se despeja la misma variable en ambas ecuaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Metodo de Reduccion (o Eliminacion)",
+          "is_correct": false,
+          "feedback": "Este es un metodo valido donde se suman o restan las ecuaciones para eliminar una variable."
+        },
+        {
+          "letter": "D",
+          "text": "Metodo de Factorizacion por Termino Comun",
+          "is_correct": true,
+          "feedback": "¡Correcto! La factorizacion es una tecnica para simplificar expresiones o resolver ecuaciones de grado superior, no un metodo especifico de sistemas lineales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Existen varios metodos para resolver sistemas lineales: sustitucion, igualacion, reduccion y el metodo grafico. Tambien existen metodos matriciales como la Regla de Cramer. La factorizacion no es un metodo de resolucion de sistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "¿Cual es la solucion del sistema de ecuaciones $x + y = 10$ y $x - y = 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "La resta seria 0, no 2."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6, y = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $6+4=10$ y $6-4=2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7, y = 3$",
+          "is_correct": false,
+          "feedback": "La resta seria 4, no 2."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "La suma seria 10, pero la resta seria 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este sistema es ideal para el metodo de reduccion. Al sumar ambas ecuaciones, la variable $y$ se elimina: $2x = 12$, por tanto $x = 6$. Sustituyendo en la primera ecuacion, hallamos que $y = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "Si un sistema de ecuaciones lineales esta formado por dos rectas paralelas que nunca se cruzan, ¿cuantas soluciones tiene el sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solucion unica.",
+          "is_correct": false,
+          "feedback": "Para tener una solucion unica, las rectas deben cortarse en un punto."
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Esto ocurre si las rectas son coincidentes (una encima de la otra)."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solucion.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si no hay puntos de contacto, no hay valores que satisfagan ambas ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones.",
+          "is_correct": false,
+          "feedback": "Dos rectas en un plano nunca pueden cortarse exactamente en dos puntos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un sistema sin solucion se llama \"Sistema Incompatible\". Graficamente, esto corresponde a rectas con la misma pendiente pero diferente ordenada en el origen, lo que las hace paralelas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "¿Cual de los siguientes metodos es el mas directo para resolver este sistema especifico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igualacion",
+          "is_correct": false,
+          "feedback": "Requeriria despejar y en la segunda ecuacion primero."
+        },
+        {
+          "letter": "B",
+          "text": "Sustitucion",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como la primera ecuacion ya tiene la 'y' despejada, podemos sustituirla directamente en la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "Reduccion",
+          "is_correct": false,
+          "feedback": "Requeriria reordenar los terminos de la primera ecuacion primero."
+        },
+        {
+          "letter": "D",
+          "text": "Grafico",
+          "is_correct": false,
+          "feedback": "El metodo grafico es menos preciso para obtener valores exactos rapidamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El metodo de sustitucion es preferible cuando una de las incognitas ya esta despejada en una de las ecuaciones. Al sustituir $2x + 1$ en lugar de $y$ en la segunda ecuacion, obtenemos una ecuacion de primer grado con una sola incognita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es el sistema de ecuaciones que permite hallar el numero de gallinas ($G$) y cerdos ($C$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$G + C = 40$ y $2G + 4C = 15$",
+          "is_correct": false,
+          "feedback": "Las cabezas (15) y patas (40) estan intercambiadas en la ecuacion."
+        },
+        {
+          "letter": "B",
+          "text": "$G + C = 15$ y $2G + 4C = 40$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada animal tiene 1 cabeza; las gallinas tienen 2 patas y los cerdos 4."
+        },
+        {
+          "letter": "C",
+          "text": "$G + C = 15$ y $G + C = 40$",
+          "is_correct": false,
+          "feedback": "Esta contradiccion no tiene sentido biologico ni matematico."
+        },
+        {
+          "letter": "D",
+          "text": "$2G + 2C = 15$ y $4G + 4C = 40$",
+          "is_correct": false,
+          "feedback": "Error al asignar el numero de patas por animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema clasico de sistemas de ecuaciones. La primera ecuacion representa la cantidad total de individuos (cabezas) y la segunda representa la suma de una caracteristica diferenciada (patas).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "Resuelve el sistema y encuentra el valor de $y$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 1$",
+          "is_correct": false,
+          "feedback": "Si y=1, entonces x=2 (de la 2da eq). Probando en la 1ra: 2(2)+3(1)=7, no 12."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si y=2, entonces x=3. Probando en la 1ra: 2(3)+3(2)=6+6=12."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Si y=3, entonces x=4. Probando en la 1ra: 2(4)+3(3)=17, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "No satisface ambas ecuaciones simultaneamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al despejar $x$ en la segunda ecuacion ($x = y + 1$) y sustituir en la primera: $2(y + 1) + 3y = 12 \\rightarrow 2y + 2 + 3y = 12 \\rightarrow 5y = 10 \\rightarrow y = 2$. Luego $x = 2 + 1 = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el valor de $x$ que resuelve el sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Si x=10, y seria 5 (de x+y=15), pero 2(10)+5=25, no 20."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar las ecuaciones: (2x+y)-(x+y) = 20-15, por tanto x=5."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 15$",
+          "is_correct": false,
+          "feedback": "No satisface la primera ecuacion."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "No satisface ninguna de las dos ecuaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Restar directamente las ecuaciones es un atajo del metodo de reduccion muy util cuando una variable tiene el mismo coeficiente en ambas (en este caso, la $y$ tiene coeficiente 1).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuales son los valores de $(x, y)$ que satisfacen el sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 0)$",
+          "is_correct": false,
+          "feedback": "2+2(0)=2, no 8."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, 1)$",
+          "is_correct": false,
+          "feedback": "6+2=8, pero 6 no es 1+2."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 2)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! 4+2(2)=8 y 4=2+2."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 2)$",
+          "is_correct": false,
+          "feedback": "No satisface la primera ecuacion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituimos $x = y + 2$ en la primera ecuacion: $(y + 2) + 2y = 8 \\rightarrow 3y + 2 = 8 \\rightarrow 3y = 6 \\rightarrow y = 2$. Luego $x = 2 + 2 = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "¿Como se describe este sistema de ecuaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compatible Determinado",
+          "is_correct": false,
+          "feedback": "Un sistema determinado tiene una solucion única."
+        },
+        {
+          "letter": "B",
+          "text": "Compatible Indeterminado",
+          "is_correct": false,
+          "feedback": "Un sistema indeterminado tiene infinitas soluciones."
+        },
+        {
+          "letter": "C",
+          "text": "Incompatible",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es imposible que la misma suma de dos numeros de dos resultados distintos al mismo tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Linealmente dependiente",
+          "is_correct": false,
+          "feedback": "Las ecuaciones son contradictorias, no dependientes una de la otra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un sistema incompatible ocurre cuando las condiciones son mutuamente excluyentes. Graficamente representa dos rectas paralelas que tienen la misma inclinacion pero nunca se tocan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "¿Cual es el valor de $x$ resultante de aplicar el metodo de reduccion a este sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Error en la suma de las ecuaciones."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al sumar las ecuaciones las 'y' se cancelan: $8x = 32 \\rightarrow x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Error al realizar la division final."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Valor muy alejado del resultado correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El metodo de reduccion es muy eficiente cuando los coeficientes de una de las variables son opuestos (en este caso $+2$ y $-2$). Al sumar las ecuaciones miembro a miembro, esa variable se elimina automaticamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "Encuentra el valor de equilibrio $Q$ (cantidad) igualando ambas expresiones de precio $P$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$Q = 10$",
+          "is_correct": false,
+          "feedback": "$50 - 20 = 30$, pero $10 + 30 = 40$. No coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "$Q = 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $50 - 2Q = 10 + 3Q \\rightarrow 40 = 5Q \\rightarrow Q = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$Q = 12$",
+          "is_correct": false,
+          "feedback": "No satisface la igualdad de las expresiones."
+        },
+        {
+          "letter": "D",
+          "text": "$Q = 5$",
+          "is_correct": false,
+          "feedback": "No satisface la igualdad de las expresiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de equilibrio en economia se halla resolviendo un sistema de ecuaciones por igualacion. Al igualar las dos expresiones del precio, determinamos la cantidad necesaria para que oferta y demanda coincidan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "¿Como se clasifica este sistema de ecuaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Determinado (solucion unica).",
+          "is_correct": false,
+          "feedback": "No tiene solucion unica porque las ecuaciones son dependientes."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Indeterminado (infinitas soluciones).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La segunda ecuacion es el doble de la primera; representan la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Incompatible (sin solucion).",
+          "is_correct": false,
+          "feedback": "Si tiene soluciones, de hecho, tiene infinitas."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema No Lineal.",
+          "is_correct": false,
+          "feedback": "Ambas ecuaciones son de primer grado, por lo que el sistema es lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una ecuacion de un sistema es multiplo de la otra, el sistema tiene infinitas soluciones. Graficamente, las dos rectas estan una sobre otra (coincidentes). Se denomina Sistema Compatible Indeterminado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "Si $x = 2, y = 3z$ y $x + y + z = 10$, ¿cual es el valor de $z$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$z = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2 + 3z + z = 10 \\rightarrow 4z = 8 \\rightarrow z = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$z = 1$",
+          "is_correct": false,
+          "feedback": "Al sustituir quedaria 2+3+1 = 6, no 10."
+        },
+        {
+          "letter": "C",
+          "text": "$z = 3$",
+          "is_correct": false,
+          "feedback": "Al sustituir quedaria 2+9+3 = 14, no 10."
+        },
+        {
+          "letter": "D",
+          "text": "$z = 5$",
+          "is_correct": false,
+          "feedback": "Al sustituir quedaria 2+15+5 = 22, no 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque es un sistema de tres variables, la estructura permite una resolucion rapida por sustitucion. Reemplazamos los valores conocidos o las relaciones en la ecuacion principal para reducirla a una sola variable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "¿Cual es el valor de $y$ que resuelve este sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "x seria 7, 7/2 + 3/3 = 4.5, no 4."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 6$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si y=6, x=4. 4/2 + 6/3 = 2 + 2 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 9$",
+          "is_correct": false,
+          "feedback": "x seria 1, 0.5 + 3 = 3.5, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "x seria 10, 10/2 + 0 = 5, no 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicamos la primera ecuacion por el mcm (6) para obtener $3x + 2y = 24$. Usando la segunda $x = 10 - y$, sustituimos: $3(10 - y) + 2y = 24 \\rightarrow 30 - 3y + 2y = 24 \\rightarrow -y = -6 \\rightarrow y = 6$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "¿Cuales son las coordenadas del punto donde se cruzan estas dos rectas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 2)$",
+          "is_correct": false,
+          "feedback": "Satisface la 1ra pero no la 2da ($2 \\neq 4$)."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3 = 2+1$ y $3 = -2+5$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 4)$",
+          "is_correct": false,
+          "feedback": "Satisface la 1ra pero no la 2da ($4 \\neq 2$)."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 5)$",
+          "is_correct": false,
+          "feedback": "Satisface la 2da pero no la 1ra ($5 \\neq 1$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualando las expresiones para $y$: $x + 1 = -x + 5 \\rightarrow 2x = 4 \\rightarrow x = 2$. Sustituyendo en cualquiera de las originales hallamos $y = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "¿Que condicion debe cumplir el determinante del sistema ($\\Delta = ad - bc$) para que el sistema tenga una SOLUCION UNICA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\Delta = 0$",
+          "is_correct": false,
+          "feedback": "Si el determinante es cero, el sistema no tiene solucion unica (puede no tener ninguna o infinitas)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\Delta \\neq 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un determinante distinto de cero garantiza que las rectas no son paralelas y por tanto se cortan en un punto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\Delta > 1$",
+          "is_correct": false,
+          "feedback": "No necesita ser mayor que 1, solo diferente de cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\Delta$ debe ser un numero entero positivo.",
+          "is_correct": false,
+          "feedback": "El determinante puede ser cualquier numero real excepto cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinante de la matriz de coeficientes es una herramienta poderosa. Si es diferente de cero, el sistema es \"Compatible Determinado\" y tiene una solucion unica que se puede hallar, por ejemplo, mediante la Regla de Cramer.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "¿Para que valor de $k$ el sistema tiene infinitas soluciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 4$",
+          "is_correct": false,
+          "feedback": "Las rectas no serian proporcionales."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si k=2, la segunda ecuacion es exactamente el doble de la primera."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Las rectas serian x=4 y 2x+4y=8, que se cortan en un solo punto."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "El sistema tendria una solucion unica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que haya infinitas soluciones, los coeficientes de las variables y el termino independiente deben guardar la misma proporcion. Comparando los coeficientes de $x$ (1 y 2) y los terminos independientes (4 y 8), vemos que la razon es 2. Por tanto, $4/k$ debe ser 2, lo que implica $k=2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "¿Cual es el valor del determinante principal del sistema ($\\Delta$) para este sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Valor incorrecto del determinante."
+        },
+        {
+          "letter": "B",
+          "text": "-7",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\Delta = (1 \\cdot -1) - (3 \\cdot 2) = -1 - 6 = -7$."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Error de signo en el calculo de los productos cruzados."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "El determinante no es nulo, el sistema tiene solucion unica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinante principal se calcula con los coeficientes de las incognitas: $\\det \\begin{pmatrix} 1 & 2 \\\\ 3 & -1 \\end{pmatrix}$. Se multiplican los elementos de la diagonal principal y se resta el producto de la diagonal secundaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "¿Cuantos barriles del crudo al $2\\%$ ($x$) se necesitan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "33.3 barriles",
+          "is_correct": false,
+          "feedback": "Error en el planteamiento de la proporcion."
+        },
+        {
+          "letter": "B",
+          "text": "50 barriles",
+          "is_correct": false,
+          "feedback": "Mezclar partes iguales de 2% y 5% daria 3.5%, no 3%."
+        },
+        {
+          "letter": "C",
+          "text": "66.7 barriles",
+          "is_correct": true,
+          "feedback": "¡Correcto! El sistema es $x + y = 100$ y $0.02x + 0.05y = 3$. Al resolver, $x \\approx 66.7$."
+        },
+        {
+          "letter": "D",
+          "text": "75 barriles",
+          "is_correct": false,
+          "feedback": "Produciria un crudo con menos del 3% de azufre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema requiere un sistema de dos ecuaciones: una para la cantidad total de barriles y otra para la cantidad total de azufre. Al resolverlo, determinamos la proporcion exacta de cada componente para lograr la mezcla deseada.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W06-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

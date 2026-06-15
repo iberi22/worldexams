@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:49:03.717Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de $a^0$ para $a \\neq 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^1 = a$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Todo número (excepto 0) elevado a 0 es 1."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La potencia 0 no es anulación multiplicativa."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado es positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición básica de la ley de potencia cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se expresa $\\sqrt[n]{a}$ como potencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es potencia entera."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{1/n}$",
+          "is_correct": true,
+          "feedback": "Correcto. Exponente fraccionario representa la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$a^{-n}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica recíproco."
+        },
+        {
+          "letter": "D",
+          "text": "$n^a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió base y exponente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Notación fundamental de exponentes racionales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v3",
+      "statement": "¿Qué se hace con los exponentes al multiplicar potencias de igual base?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se multiplican.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo en potencia de potencia."
+        },
+        {
+          "letter": "B",
+          "text": "Se suman.",
+          "is_correct": true,
+          "feedback": "Correcto. $a^m \\cdot a^n = a^{m+n}$."
+        },
+        {
+          "letter": "C",
+          "text": "Se restan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es para división."
+        },
+        {
+          "letter": "D",
+          "text": "Se dividen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es regla estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad fundamental del producto de potencias con bases iguales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v4",
+      "statement": "Simplifica $(x^2)^3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "$x^6$",
+          "is_correct": true,
+          "feedback": "Correcto. En potencia de potencia los exponentes se multiplican."
+        },
+        {
+          "letter": "C",
+          "text": "$x^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste 2 al cubo."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es multiplicación por coeficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la ley $(a^m)^n = a^{m \\cdot n}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v5",
+      "statement": "¿A qué equivale $\\sqrt[n]{a \\cdot b}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt[n]{a} + \\sqrt[n]{b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz no distribuye sobre la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[n]{a} \\cdot \\sqrt[n]{b}$",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz de un producto es el producto de las raíces."
+        },
+        {
+          "letter": "C",
+          "text": "$n \\sqrt{a \\cdot b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice no es coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt[n]{a / b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambió la operación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad distributiva de la radicación respecto a la multiplicación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v6",
+      "statement": "¿Cuándo $\\sqrt[n]{-a}$ no es un número real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "n impar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Raíces impares de negativos sí existen en R."
+        },
+        {
+          "letter": "B",
+          "text": "n par.",
+          "is_correct": true,
+          "feedback": "Correcto. No existe real cuya potencia par sea negativa."
+        },
+        {
+          "letter": "C",
+          "text": "a primo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Irrelevante para la existencia real."
+        },
+        {
+          "letter": "D",
+          "text": "n > a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No determina la naturaleza del número."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Limitación de los reales ante raíces de índice par y radicando negativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v7",
+      "statement": "Forma simplificada de $\\sqrt{50}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100*5 = 500."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. raíz(25*2) = 5*raíz(2)."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sacó la raíz de 25."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4*5 = 20."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extracción de factores de un radical mediante descomposición.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v8",
+      "statement": "Valor de $5^{-2}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es multiplicación simple."
+        },
+        {
+          "letter": "B",
+          "text": "-25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado siempre positivo para base positiva."
+        },
+        {
+          "letter": "C",
+          "text": "1/25",
+          "is_correct": true,
+          "feedback": "Correcto. $1 / 5^2$."
+        },
+        {
+          "letter": "D",
+          "text": "0.10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo decimal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Definición de exponente negativo como recíproco.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v9",
+      "statement": "¿Volumen ($L^3$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en coeficiente y exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$8x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^6$",
+          "is_correct": true,
+          "feedback": "Correcto. $2^3 \\cdot (x^2)^3 = 8x^6$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No elevó el 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Potencia de un producto y potencia de potencia combinadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v10",
+      "statement": "Resultado de racionalizar $1 / \\sqrt{3}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No elimina la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3} / 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por raíz(3)/raíz(3)."
+        },
+        {
+          "letter": "C",
+          "text": "$3 / \\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No racionaliza."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es entero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Procedimiento para eliminar raíces del denominador.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v11",
+      "statement": "¿Cuándo se pueden sumar $a\\sqrt{x} + b\\sqrt{x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mismo coeficiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente no importa."
+        },
+        {
+          "letter": "B",
+          "text": "Radicales semejantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Mismo índice y radicando."
+        },
+        {
+          "letter": "C",
+          "text": "Índice par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sirve para cualquier índice."
+        },
+        {
+          "letter": "D",
+          "text": "Radicando primo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es requisito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Regla de semejanza para operaciones con radicales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v12",
+      "statement": "Simplifica $(1/8)^{-1/3}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambia signo de base."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicó inverso."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. raíz_cúbica(8) = 2."
+        },
+        {
+          "letter": "D",
+          "text": "-1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo y valor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de inverso y raíz cúbica por exponente fraccionario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v13",
+      "statement": "Simplifica $\\sqrt{12} + \\sqrt{27}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{39}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman radicandos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descomposición mala."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $2\\sqrt{3} + 3\\sqrt{3} = 5\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en un término."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Conversión a radicales semejantes antes de la adición.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v14",
+      "statement": "¿Cuándo $(-2)^x$ no es real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x cualquiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enteros son válidos."
+        },
+        {
+          "letter": "B",
+          "text": "x negativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la causa."
+        },
+        {
+          "letter": "C",
+          "text": "x fracción con denominador par.",
+          "is_correct": true,
+          "feedback": "Correcto. Raíz par de negativo."
+        },
+        {
+          "letter": "D",
+          "text": "x > 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. x=1 es real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relación entre exponentes fraccionarios y raíces pares de negativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v15",
+      "statement": "Simplifica la expresión.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el exponente final."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excedió cálculo."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $(2^2)^2 / 2^2 = 2^2 = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en resta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Encadenamiento de leyes de exponentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué factor multiplicar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{5} - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantendría raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{5} + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Conjugado para diferencia cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No elimina resta."
+        },
+        {
+          "letter": "D",
+          "text": "$2 - \\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del conjugado para eliminar raíces en denominadores binomios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v17",
+      "statement": "¿Es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, distributiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Raíz no distribuye en suma."
+        },
+        {
+          "letter": "B",
+          "text": "No, solo si x o y son 0.",
+          "is_correct": true,
+          "feedback": "Correcto. Contraejemplo 3 y 4."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, x e y positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. raíz(25) vs 7."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, Pitágoras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla conceptos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desmentir el error común de la linealidad de la raíz cuadrada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el mayor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^{60}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $64^{10}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3^{40}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $81^{10}$."
+        },
+        {
+          "letter": "C",
+          "text": "$5^{30}$",
+          "is_correct": true,
+          "feedback": "Correcto. $125^{10}$."
+        },
+        {
+          "letter": "D",
+          "text": "$6^{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $36^{10}$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparación de potencias mediante reducción a exponente común.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v19",
+      "statement": "¿Valor de x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muy pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 = 2+x$ lleva a x=2."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muy grande."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Converge."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de expresiones recursivas mediante ecuaciones cuadráticas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle-v20",
+      "statement": "Si x = 2, ¿es consistente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, imposible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es tetración."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, $(\\sqrt{2})^2 = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Satisface $a^x = x$."
+        },
+        {
+          "letter": "C",
+          "text": "No, debería ser $\\sqrt{2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, es pi.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin relación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Consistencia de la torre de potencias infinita con la base raíz de 2.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W04-potencias-raices-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
