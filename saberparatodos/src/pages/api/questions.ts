@@ -146,6 +146,76 @@ function normalizePackQuestion(question: any) {
   };
 }
 
+function normalizeQuestionText(value: unknown) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/\\\(|\\\)|\\\[|\\\]/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function questionIdentityKey(question: any) {
+  const id = normalizeQuestionText(question?.id || question?.question_id);
+  if (id) return `id:${id}`;
+
+  const bundleId = normalizeQuestionText(question?.bundle_id || question?.bundleId);
+  const localId = normalizeQuestionText(question?.local_id || question?.questionId);
+  if (bundleId && localId) return `bundle:${bundleId}:${localId}`;
+
+  return "";
+}
+
+function questionSemanticKey(question: any) {
+  const statement = normalizeQuestionText(
+    question?.statement ||
+      question?.enunciado ||
+      question?.question ||
+      question?.text ||
+      question?.prompt,
+  );
+  if (!statement) return "";
+
+  const options = Array.isArray(question?.options)
+    ? question.options
+        .map((option: any) => normalizeQuestionText(option?.text || option?.label || option))
+        .filter(Boolean)
+        .sort()
+        .join("|")
+    : "";
+
+  return `semantic:${statement.slice(0, 240)}::${options.slice(0, 240)}`;
+}
+
+function dedupeQuestions<T>(questions: T[]) {
+  const seenIdentity = new Set<string>();
+  const seenSemantic = new Set<string>();
+  const deduped: T[] = [];
+  let duplicateCount = 0;
+
+  for (const question of questions as any[]) {
+    const identityKey = questionIdentityKey(question);
+    const semanticKey = questionSemanticKey(question);
+    const isDuplicate =
+      (identityKey && seenIdentity.has(identityKey)) ||
+      (semanticKey && seenSemantic.has(semanticKey));
+
+    if (isDuplicate) {
+      duplicateCount += 1;
+      continue;
+    }
+
+    if (identityKey) seenIdentity.add(identityKey);
+    if (semanticKey) seenSemantic.add(semanticKey);
+    deduped.push(question as T);
+  }
+
+  return { questions: deduped, duplicateCount };
+}
+
 async function fetchUpstreamJson(
   url: URL,
   headers: Headers,
@@ -316,12 +386,13 @@ export const GET: APIRoute = async ({ request, locals }) => {
       if (country === "co" && exam === "icfes") {
         const localQuestions = getLocalGrade11Questions(subject);
         if (localQuestions.length > 0) {
-          const visibleLocalQuestions =
-            filterQuarantinedQuestions(localQuestions);
+          const visibleLocalQuestions = dedupeQuestions(
+            filterQuarantinedQuestions(localQuestions).map(normalizePackQuestion),
+          );
           return buildJsonResponse({
             success: true,
-            questions: visibleLocalQuestions,
-            total_questions: visibleLocalQuestions.length,
+            questions: visibleLocalQuestions.questions,
+            total_questions: visibleLocalQuestions.questions.length,
             grade: 11,
             subject: subject || null,
             country,
@@ -329,6 +400,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
             page: "all",
             meta: {
               aggregated_pages: 1,
+              duplicate_filtered: visibleLocalQuestions.duplicateCount,
               source: "local-grade11-bank",
             },
           });
@@ -374,29 +446,25 @@ export const GET: APIRoute = async ({ request, locals }) => {
         if (pageQuestions.length < 10) break;
       }
 
-      const uniqueQuestions = filterQuarantinedQuestions(
-        Array.from(
-          new Map(
-            aggregatedQuestions.map((question) => [
-              String(question?.id || ""),
-              question,
-            ]),
-          ).values(),
-        ),
-      ).filter((question) => Boolean(question?.id));
+      const dedupedQuestions = dedupeQuestions(
+        filterQuarantinedQuestions(
+          aggregatedQuestions.map(normalizePackQuestion),
+        ).filter((question) => Boolean(question?.id)),
+      );
 
       return buildJsonResponse(
         {
           success: true,
-          questions: uniqueQuestions,
-          total_questions: uniqueQuestions.length,
+          questions: dedupedQuestions.questions,
+          total_questions: dedupedQuestions.questions.length,
           grade: 11,
           subject: requestUrl.searchParams.get("subject") || null,
           country: defaultCountry || null,
           exam_type: defaultExam || null,
           page: "all",
           meta: {
-            aggregated_pages: Math.ceil(uniqueQuestions.length / 10),
+            aggregated_pages: Math.ceil(dedupedQuestions.questions.length / 10),
+            duplicate_filtered: dedupedQuestions.duplicateCount,
             source: "free-api-grade11-expanded",
           },
         },
@@ -421,11 +489,15 @@ export const GET: APIRoute = async ({ request, locals }) => {
         Number(requestUrl.searchParams.get("page") || "1") || 1,
       );
       const pageSize = 10;
+      const dedupedQuestions = dedupeQuestions(
+        filterQuarantinedQuestions(
+          packQuestions.map(normalizePackQuestion),
+        ),
+      );
       const startIndex = (page - 1) * pageSize;
-      const visibleQuestions = filterQuarantinedQuestions(
-        packQuestions
-          .slice(startIndex, startIndex + pageSize)
-          .map(normalizePackQuestion),
+      const visibleQuestions = dedupedQuestions.questions.slice(
+        startIndex,
+        startIndex + pageSize,
       );
 
       return buildJsonResponse(
@@ -441,6 +513,8 @@ export const GET: APIRoute = async ({ request, locals }) => {
           page,
           meta: {
             available_questions: packQuestions.length,
+            deduplicated_questions: dedupedQuestions.questions.length,
+            duplicate_filtered: dedupedQuestions.duplicateCount,
             source: "same-origin-pack-proxy",
           },
         },
@@ -468,13 +542,19 @@ export const GET: APIRoute = async ({ request, locals }) => {
     const upstreamQuestions = Array.isArray(upstreamPayload?.questions)
       ? upstreamPayload.questions
       : [];
-    const visibleQuestions = filterQuarantinedQuestions(upstreamQuestions);
+    const visibleQuestions = dedupeQuestions(
+      filterQuarantinedQuestions(upstreamQuestions.map(normalizePackQuestion)),
+    );
 
     return buildJsonResponse(
       {
         ...upstreamPayload,
-        questions: visibleQuestions,
-        total_questions: visibleQuestions.length,
+        questions: visibleQuestions.questions,
+        total_questions: visibleQuestions.questions.length,
+        meta: {
+          ...(upstreamPayload?.meta || {}),
+          duplicate_filtered: visibleQuestions.duplicateCount,
+        },
       },
       upstreamResponse,
     );
