@@ -26,7 +26,8 @@ assignees: []
 7. No borrar bundles existentes no listados como reemplazo.
 8. Ejecutar `npm run validate -- {archivos_generados}`.
 9. Corregir hasta que la validacion pase.
-10. Comentar este issue con `[OK] Generados N bundles: {lista de IDs}`.
+10. No afirmar que los bundles estan publicados en `saberparatodos.space`; la publicacion requiere generar static packs.
+11. Comentar este issue con `[OK] Generados N bundles: {lista de IDs}`.
 
 ## Objetivo
 
@@ -138,6 +139,22 @@ Antes de abrir PR:
 npm run validate -- {archivo_1} {archivo_2}
 ```
 
+## Publicacion en static packs
+
+Despues de mergear bundles validados, el integrador debe ejecutar:
+
+```bash
+cd saberparatodos
+node scripts/generate-static-packs.js --all-weekly --changed-only
+```
+
+Luego debe verificar al menos:
+
+```bash
+curl https://api.saberparatodos.space/v1/packs/{code}-week-{N}-grade-{G}-subject-{subject}.json
+curl "https://api.saberparatodos.space/v1/questions?country={code}&grade={G}&subject={subject}"
+```
+
 ## Criterios de aceptacion
 
 - [ ] {NUM_BUNDLES} archivos creados en la ruta correcta.
@@ -149,3 +166,4 @@ npm run validate -- {archivo_1} {archivo_2}
 - [ ] Formato de preguntas exacto.
 - [ ] Contexto regional correcto.
 - [ ] `npm run validate -- {archivos}` pasa sin errores.
+- [ ] No se afirma publicacion en produccion sin static packs verificados.

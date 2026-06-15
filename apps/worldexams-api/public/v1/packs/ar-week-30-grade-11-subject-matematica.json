@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-30-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T00:00:21.760Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes es una condición necesaria para que una función f(x) sea continua en x = a?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(a) debe ser igual a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función puede valer cualquier número real."
+        },
+        {
+          "letter": "B",
+          "text": "f(a) debe estar definida (existir).",
+          "is_correct": true,
+          "feedback": "Correcto. Si no hay valor en el punto, la función tiene un \"hueco\" y no puede ser continua."
+        },
+        {
+          "letter": "C",
+          "text": "El límite en el punto debe ser infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el límite es infinito, hay una discontinuidad asintótica."
+        },
+        {
+          "letter": "D",
+          "text": "La función debe ser un polinomio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas funciones no polinómicas son continuas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La existencia de la función en el punto (f(a)) es la primera de las tres condiciones formales de continuidad. Si el punto no pertenece al dominio, la función es discontinua allí.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la condición final que asegura la continuidad tras verificar que existen f(c) y el límite de f(x) cuando x → c?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite de f(x) cuando x → c debe ser igual a f(c).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta condición garantiza que la tendencia de la función coincida con su valor real en el punto."
+        },
+        {
+          "letter": "B",
+          "text": "El límite debe ser distinto de f(c).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto generaría una discontinuidad evitable."
+        },
+        {
+          "letter": "C",
+          "text": "El límite debe ser positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del límite no influye en la continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "f(c) debe ser un número entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser cualquier valor real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La continuidad requiere que el \"agujero\" que podría dejar el límite sea \"tapado\" exactamente por el valor de la función en ese punto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica la discontinuidad en x = 2 si el límite de f(x) cuando x → 2 existe y es finito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esencial de primera especie (salto).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salto ocurre cuando los límites laterales son distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Esencial de segunda especie (asintótica).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre si el límite es infinito."
+        },
+        {
+          "letter": "C",
+          "text": "Evitable (o removible).",
+          "is_correct": true,
+          "feedback": "Correcto. Se llama así porque bastaría con definir o redefinir f(2) como el valor del límite para que la función sea continua."
+        },
+        {
+          "letter": "D",
+          "text": "Salto infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a este caso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una discontinuidad es evitable cuando el límite existe pero la función no está definida en el punto o su valor no coincide con el del límite.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de discontinuidad presenta f(x) = 1/x en x = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede salvar definiendo un valor finito en 0."
+        },
+        {
+          "letter": "B",
+          "text": "Esencial de segunda especie (Asintótica).",
+          "is_correct": true,
+          "feedback": "Correcto. Como los límites laterales tienden a infinito, existe una asíntota vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Esencial de primera especie (Salto finito).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor se dispara al infinito, no salta a otro número real."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene discontinuidad, es continua en todo R.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 0 no está en el dominio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando al menos uno de los límites laterales en un punto tiende a infinito, se dice que la función presenta una discontinuidad esencial asintótica (o de segunda especie).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál debe ser el valor de k para que f(x) sea continua en x = 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría un límite de 1 por derecha y 3 por izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "k = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría un límite de 2 por derecha."
+        },
+        {
+          "letter": "C",
+          "text": "k = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Límite izquierda (y f(1)) = 1² + 2 = 3. Límite derecha = k(1). Igualando: k = 3."
+        },
+        {
+          "letter": "D",
+          "text": "k = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función sería discontinua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que la función sea continua, los límites laterales en el punto de unión de los tramos deben ser iguales. Igualamos las expresiones evaluadas en el punto crítico x = 1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los puntos de discontinuidad de f(x)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el otro valor que anula el denominador."
+        },
+        {
+          "letter": "B",
+          "text": "Solo x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el otro valor que anula el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3 y x = -3",
+          "is_correct": true,
+          "feedback": "Correcto. Son los valores que hacen cero el denominador x² - 9."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene discontinuidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones racionales son discontinuas donde el denominador se anula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los puntos de discontinuidad de una función racional son aquellos valores de x que no pertenecen a su dominio, es decir, las raíces del denominador.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de discontinuidad hay en x = -3 y en x = 3 respectivamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son evitables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una lo es."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son asintóticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una lo es."
+        },
+        {
+          "letter": "C",
+          "text": "Evitable en x = -3 y Asintótica en x = 3.",
+          "is_correct": true,
+          "feedback": "Correcto. En -3 el límite es finito (-1/6) porque el factor (x+3) se cancela. En 3 el límite es infinito (k/0)."
+        },
+        {
+          "letter": "D",
+          "text": "Asintótica en x = -3 y Evitable en x = 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es el inverso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si un valor anula numerador y denominador simultáneamente, suele ser evitable (tras simplificar). Si solo anula al denominador, suele ser asintótica (infinito).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de discontinuidad representa este cambio brusco de precio en x = 5 kg?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un punto aislado, hay un cambio de nivel."
+        },
+        {
+          "letter": "B",
+          "text": "Esencial de primera especie (Salto finito).",
+          "is_correct": true,
+          "feedback": "Correcto. Los límites por izquierda y derecha son números reales distintos, lo que genera un \"escalón\" en la gráfica."
+        },
+        {
+          "letter": "C",
+          "text": "Asintótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no se vuelve infinito."
+        },
+        {
+          "letter": "D",
+          "text": "Discontinuidad puntual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el término técnico para este salto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando los límites laterales existen pero son diferentes, la función presenta un salto finito. Es típico de funciones definidas por tramos (como tarifas o impuestos).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la hipótesis principal del Teorema de Bolzano para una función f(x) en el intervalo [a, b]?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la función sea derivable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo requiere continuidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que la función sea continua en [a, b] y que f(a) y f(b) tengan distinto signo.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas condiciones aseguran que la función debe cruzar el eje x al menos una vez."
+        },
+        {
+          "letter": "C",
+          "text": "Que el límite sea infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto impediría la aplicación del teorema."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función sea siempre positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera siempre positiva, no habría raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bolzano establece que si una función continua cambia de signo en los extremos de un intervalo, existe al menos un punto intermedio c tal que f(c) = 0.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v10",
+      "statement": "¿Podemos asegurar que existe una raíz de f(x) entre 0 y 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque f(0) = 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. f(0) = -1."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la función es creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que sea creciente no impide tener raíces."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque f(x) es continua, f(0) = -1 (negativo) y f(1) = 1 (positivo).",
+          "is_correct": true,
+          "feedback": "Correcto. Al haber cambio de signo y ser continua, Bolzano garantiza la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque es una parábola.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función cúbica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calculamos f(0) = -1 y f(1) = 1. Como f es un polinomio (continua) y los signos son opuestos, la curva debe atravesar el eje x en algún valor c perteneciente a (0, 1).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v11",
+      "statement": "¿Es f(x) continua en x = 1? Si no lo es, ¿cómo se podría redefinir para que lo sea?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es continua, no hace falta hacer nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador se anula en 1."
+        },
+        {
+          "letter": "B",
+          "text": "No es continua y no se puede arreglar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe."
+        },
+        {
+          "letter": "C",
+          "text": "No es continua, pero se vuelve continua si definimos f(1) = 1.",
+          "is_correct": true,
+          "feedback": "Correcto. lim (x²-x)/(x-1) = lim x(x-1)/(x-1) = lim x = 1. Redefiniendo f(1)=1 se salva la discontinuidad."
+        },
+        {
+          "letter": "D",
+          "text": "No es continua y se arregla definiendo f(1) = 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de f(1) debe coincidir con el límite, que es 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una discontinuidad evitable. Al simplificar la función queda f(x) = x para x ≠ 1. El límite cuando x tiende a 1 es 1. Por lo tanto, asignar el valor 1 en el punto x=1 la hace continua.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v12",
+      "statement": "¿En qué puntos es discontinua la función parte entera?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En x = 0 solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay muchos más puntos."
+        },
+        {
+          "letter": "B",
+          "text": "En todos los números enteros (Z).",
+          "is_correct": true,
+          "feedback": "Correcto. En cada entero la función salta de un valor al siguiente, generando un salto finito de 1 unidad."
+        },
+        {
+          "letter": "C",
+          "text": "En los números irracionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los irracionales es continua."
+        },
+        {
+          "letter": "D",
+          "text": "Es continua en todo su dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la función \"escalonada\" por excelencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier entero n, el límite por izquierda es n-1 y el límite por derecha es n. Al ser distintos, hay una discontinuidad de salto finito en cada valor entero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v13",
+      "statement": "¿Qué tipo de discontinuidad presenta esta función en x = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no existe."
+        },
+        {
+          "letter": "B",
+          "text": "Salto finito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiende a dos valores fijos por los lados."
+        },
+        {
+          "letter": "C",
+          "text": "Esencial de segunda especie por oscilación.",
+          "is_correct": true,
+          "feedback": "Correcto. Al acercarse a cero, la función oscila infinitamente entre -1 y 1, por lo que el límite no existe."
+        },
+        {
+          "letter": "D",
+          "text": "Asintótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está acotada, no se va al infinito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque la función está definida en x=0 y acotada en todo su dominio, la falta de un límite único debido a la oscilación infinita hace que sea imposible que sea continua allí.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v14",
+      "statement": "Según el Teorema de Weierstrass, ¿qué podemos asegurar sobre f(x)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que f(x) alcanza un valor máximo y un valor mínimo absolutos en ese intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda función continua en un intervalo cerrado y acotado alcanza sus valores extremos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la función tiene al menos una raíz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es Bolzano, y requiere cambio de signo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es una línea recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay restricciones sobre la forma, solo sobre la continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que la derivada de f(x) es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema no habla de derivadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema de Weierstrass garantiza la existencia de extremos absolutos para funciones continuas definidas en dominios cerrados y acotados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál debe ser el valor de 'a'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la condición del límite."
+        },
+        {
+          "letter": "B",
+          "text": "a = 4",
+          "is_correct": true,
+          "feedback": "Correcto. El límite en x=a es lim (x-a)(x+a)/(x-a) = lim (x+a) = 2a. Para que sea continua, 2a = 8 => a = 4."
+        },
+        {
+          "letter": "C",
+          "text": "a = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría un límite de 16."
+        },
+        {
+          "letter": "D",
+          "text": "a = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría un límite de 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos el límite de la función en x = a simplificando la expresión (x + a). Como el límite debe ser igual al valor de la función en ese punto (8), igualamos 2a = 8.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v16",
+      "statement": "¿Qué podemos afirmar sobre el signo de f(x) en todo el intervalo (1, 10)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede cambiar de signo en cualquier punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cambiara de signo, por Bolzano debería tener una raíz."
+        },
+        {
+          "letter": "B",
+          "text": "Es positiva en todo el intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser continua y no tener raíces, no puede cruzar al lado negativo. Como f(5) es positivo, toda la función es positiva."
+        },
+        {
+          "letter": "C",
+          "text": "Es negativa en todo el intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contradice que f(5) = 4."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber nada sobre el signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La continuidad y la falta de raíces obligan a mantener el signo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una aplicación del corolario del Teorema de Bolzano: entre dos raíces consecutivas (o en un intervalo sin raíces), una función continua mantiene el mismo signo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v17",
+      "statement": "¿Es posible redefinir f(1) para que la función sea continua en x = 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, definiendo f(1) = 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No soluciona la diferencia con el límite izquierdo."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, definiendo f(1) = 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No soluciona los límites laterales distintos."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque presenta una discontinuidad de salto finito (límites laterales 1 y -1).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser los límites distintos, no existe un valor único que se pueda asignar para \"unir\" la función."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque la discontinuidad es evitable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es evitable, el límite general no existe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una discontinuidad de salto finito (primera especie), la brecha entre los tramos de la función es insalvable mediante la simple definición de un punto. La función es intrínsecamente discontinua allí.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el argumento más sólido utilizando los contenidos vistos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como f(x) es un polinomio (continua) y tiende a -∞ cuando x → -∞ y a +∞ cuando x → +∞, debe cruzar el eje x por el Teorema de Bolzano.",
+          "is_correct": true,
+          "feedback": "Correcto. Los polinomios de grado impar siempre tienen al menos una raíz real por su comportamiento en los extremos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque toda ecuación de tercer grado se puede resolver por la fórmula de Baskara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Baskara es solo para segundo grado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque f(0) es positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. f(0) = -1."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la función es siempre creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto asegura que la raíz sea única, pero no garantiza su existencia por sí solo sin los límites."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Combinando la continuidad de los polinomios con el estudio de los límites al infinito, podemos aplicar Bolzano en un intervalo suficientemente grande para garantizar la existencia de raíces.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v19",
+      "statement": "¿Es f(x) continua en x = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque lim (x → 0⁻) = 0 * (-1) = 0 y lim (x → 0⁺) = 0 * 0 = 0. Además f(0) = 0.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque E(x) es discontinua en 0, el factor x tiende a cero y \"anula\" el salto de la otra función."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque E(x) es discontinua en x = 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de una discontinua por otra puede resultar en una continua."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el límite por izquierda es -1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por x, que tiende a 0."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque todas las funciones que incluyen a x son continuas en 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una regla general válida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un caso interesante donde una función \"corrige\" la discontinuidad de otra al multiplicarse. El valor 0 del factor x compensa los diferentes valores finitos que toma E(x) cerca del origen.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v20",
+      "statement": "¿Qué asegura el Teorema del Valor Intermedio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que existe al menos un c en (a, b) tal que f(c) = k.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función continua no puede saltar valores; debe pasar por todos los valores intermedios entre sus extremos."
+        },
+        {
+          "letter": "B",
+          "text": "Que f(c) debe ser igual a (f(a) + f(b)) / 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es solo un caso particular, no obligatorio para todo c."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es una línea recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No impone linealidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que k es el valor máximo de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. k es simplemente cualquier valor intermedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema del Valor Intermedio es la base conceptual de muchos algoritmos de búsqueda de soluciones. Asegura que la imagen de un intervalo conexo por una función continua es también un intervalo conexo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-2-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.775Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el nombre genérico que reciben los poemas épicos medievales que narran las hazañas de héroes legendarios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Novelas de caballería",
+          "is_correct": false,
+          "feedback": "Las novelas de caballería son en prosa y posteriores a los grandes poemas épicos."
+        },
+        {
+          "letter": "B",
+          "text": "Romances antiguos",
+          "is_correct": false,
+          "feedback": "Los romances son composiciones más breves, a menudo derivadas de los cantares de gesta."
+        },
+        {
+          "letter": "C",
+          "text": "Cantares de gesta",
+          "is_correct": true,
+          "feedback": "\"Gesta\" significa hazañas; son los poemas que narran los hechos heroicos de un caballero."
+        },
+        {
+          "letter": "D",
+          "text": "Epopeyas griegas",
+          "is_correct": false,
+          "feedback": "Las epopeyas griegas, como la Ilíada, pertenecen a la Antigüedad clásica, no a la Edad Media."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cantares de gesta son la manifestación literaria de la épica en la Edad Media, caracterizados por su carácter histórico-legendario y su difusión oral.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor fundamental que el Cid intenta recuperar a lo largo de todo el cantar tras ser desterrado por el rey Alfonso VI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su juventud perdida",
+          "is_correct": false,
+          "feedback": "El Cid es un héroe maduro; el tema de la juventud no es central en la obra."
+        },
+        {
+          "letter": "B",
+          "text": "El tesoro de los moros",
+          "is_correct": false,
+          "feedback": "Aunque obtiene riquezas, estas son un medio para demostrar su valía, no el fin principal."
+        },
+        {
+          "letter": "C",
+          "text": "Su honor y el favor real",
+          "is_correct": true,
+          "feedback": "El destierro supone la pérdida de la honra pública, que el Cid recupera mediante sus victorias y lealtad."
+        },
+        {
+          "letter": "D",
+          "text": "La corona de Castilla",
+          "is_correct": false,
+          "feedback": "El Cid nunca aspira a ser rey; su lealtad al monarca es inquebrantable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El eje estructural del Cantar de Mio Cid es la recuperación de la honra, tanto política (ante el rey) como familiar (tras la afrenta de Corpes).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v3",
+      "statement": "¿Qué característica define mejor la relación de un héroe épico como Roldán o el Cid con su señor feudal o rey?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rebeldía constante ante las órdenes injustas.",
+          "is_correct": false,
+          "feedback": "Aunque puede haber tensiones, la lealtad es la norma general del héroe."
+        },
+        {
+          "letter": "B",
+          "text": "Lealtad y vasallaje incondicional.",
+          "is_correct": true,
+          "feedback": "El héroe épico encarna el ideal del buen vasallo que sirve con fidelidad a su señor."
+        },
+        {
+          "letter": "C",
+          "text": "Indiferencia total hacia los asuntos políticos.",
+          "is_correct": false,
+          "feedback": "El héroe está profundamente involucrado en la defensa y expansión de su reino."
+        },
+        {
+          "letter": "D",
+          "text": "Búsqueda de la independencia para formar un propio reino.",
+          "is_correct": false,
+          "feedback": "El objetivo del héroe suele ser la gloria de su señor y su pueblo, no la secesión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lealtad es un pilar del sistema feudal reflejado en la literatura épica; el héroe se define por su servicio al soberano y a la fe.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se manifiesta el realismo en el Cantar de Mio Cid en comparación con otras epopeyas europeas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la presencia de dragones y magos que ayudan al héroe.",
+          "is_correct": false,
+          "feedback": "Esto es propio de la épica nórdica o los libros de caballería, no del Cid."
+        },
+        {
+          "letter": "B",
+          "text": "En la descripción detallada de lugares geográficos reales y aspectos cotidianos.",
+          "is_correct": true,
+          "feedback": "El Cid se mueve por una geografía reconocible y se preocupa por temas humanos como el dinero o la familia."
+        },
+        {
+          "letter": "C",
+          "text": "En la invención de lenguas mágicas para los diálogos de los personajes.",
+          "is_correct": false,
+          "feedback": "Los personajes hablan en el castellano de la época, sin elementos lingüísticos fantásticos."
+        },
+        {
+          "letter": "D",
+          "text": "En el uso de una métrica perfecta y culta sin variaciones.",
+          "is_correct": false,
+          "feedback": "El realismo se refiere al contenido; la métrica del Cid es irregular (anisosilabismo)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El realismo castellano hace que el héroe sea más humano, alejándolo de la figura semidivina o puramente mítica de otras tradiciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v5",
+      "statement": "Si en un texto épico leemos constantemente frases como \"El que en buena hora ciñó espada\", ¿cuál es la función técnica de este recurso literario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar que el héroe tiene poderes mágicos en su espada.",
+          "is_correct": false,
+          "feedback": "Es una descripción honorífica, no implica necesariamente magia."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar el verdadero nombre del personaje por motivos de seguridad.",
+          "is_correct": false,
+          "feedback": "El lector o el oyente conoce perfectamente de quién se trata."
+        },
+        {
+          "letter": "C",
+          "text": "Facilitar la memorización del juglar y enfatizar una cualidad del héroe.",
+          "is_correct": true,
+          "feedback": "Los epítetos épicos son recursos de la oralidad para fijar la imagen del héroe en la audiencia."
+        },
+        {
+          "letter": "D",
+          "text": "Rellenar los versos que no tienen rima para mantener el ritmo.",
+          "is_correct": false,
+          "feedback": "Aunque ayudan a la métrica, su función principal es caracterizar al héroe de forma solemne."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El epíteto épico es una marca distintiva del mester de juglaría, sirviendo tanto para la estructura del verso como para la glorificación del personaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v6",
+      "statement": "¿Qué simboliza la muerte de Roldán al negarse a tocar el olifante (cuerno) para pedir ayuda hasta que es demasiado tarde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su falta de entrenamiento militar y cobardía.",
+          "is_correct": false,
+          "feedback": "Roldán es el modelo de valentía; su error no es la cobardía."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de orgullo heroico y el sacrificio por el honor.",
+          "is_correct": true,
+          "feedback": "Su \"desmesura\" u orgullo le impide pedir ayuda, prefiriendo morir antes que parecer débil."
+        },
+        {
+          "letter": "C",
+          "text": "El odio profundo que sentía hacia Carlomagno y sus tropas.",
+          "is_correct": false,
+          "feedback": "Roldán es el vasallo más leal de Carlomagno."
+        },
+        {
+          "letter": "D",
+          "text": "Una táctica militar secreta para engañar al enemigo.",
+          "is_correct": false,
+          "feedback": "No es una táctica, sino una decisión personal basada en su código de honor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El orgullo (o \"desmesura\") es un rasgo común en los héroes trágicos de la épica, donde el honor personal a veces choca con la lógica de la supervivencia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la razón principal por la que la épica medieval suele exagerar las fuerzas de los enemigos o la magnitud de las batallas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para enseñar matemáticas y estrategias de conteo a los oyentes.",
+          "is_correct": false,
+          "feedback": "La literatura no tenía ese fin pedagógico específico en este caso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los juglares no conocían la realidad de las guerras de su tiempo.",
+          "is_correct": false,
+          "feedback": "Los juglares vivían en una sociedad guerrera y conocían bien el ambiente bélico."
+        },
+        {
+          "letter": "C",
+          "text": "Para engrandecer la figura del héroe al vencer dificultades aparentemente imposibles.",
+          "is_correct": true,
+          "feedback": "Cuanto más poderoso es el enemigo, mayor es la gloria del héroe que lo derrota."
+        },
+        {
+          "letter": "D",
+          "text": "Debido a errores en la traducción de los textos originales latinos.",
+          "is_correct": false,
+          "feedback": "Las exageraciones son recursos literarios conscientes, no errores de traducción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipérbole épica es un recurso fundamental para la creación del mito heroico, transformando un conflicto histórico en una lucha simbólica y grandiosa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v8",
+      "statement": "¿Qué nos indica el hecho de que el Cid pida justicia al Rey mediante un juicio en las cortes en lugar de matar directamente a los Infantes de Carrión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Cid tenía miedo de pelear contra la nobleza de Carrión.",
+          "is_correct": false,
+          "feedback": "El Cid demuestra su valor en innumerables batallas; no es miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Que las hijas del Cid no eran importantes para él.",
+          "is_correct": false,
+          "feedback": "El Cid ama profundamente a su familia y busca reparar el daño hecho."
+        },
+        {
+          "letter": "C",
+          "text": "La transición hacia un sistema legal civilizado y el respeto a la autoridad real.",
+          "is_correct": true,
+          "feedback": "El Cid actúa como un \"buen vasallo\" que confía en las leyes y en el juicio del monarca."
+        },
+        {
+          "letter": "D",
+          "text": "Que el Cid había perdido sus habilidades de guerrero por la vejez.",
+          "is_correct": false,
+          "feedback": "El Cid sigue siendo un guerrero formidable, pero elige la vía legal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este pasaje muestra al Cid como un héroe \"mesurado\" y sabio, que prefiere la justicia institucional a la venganza ciega, algo innovador para la épica de la época.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v9",
+      "statement": "Considerando el final trágico de Sigfrido, ¿qué diferencia se observa en la visión del mundo entre la épica nórdica/germánica y la castellana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La épica castellana es atea, mientras que la germánica es muy religiosa.",
+          "is_correct": false,
+          "feedback": "Ambas son religiosas, aunque con matices diferentes (cristianismo vs paganismo latente)."
+        },
+        {
+          "letter": "B",
+          "text": "La épica germánica es cómica y la castellana es profundamente triste.",
+          "is_correct": false,
+          "feedback": "Es al revés; la épica germánica suele ser más sombría y trágica."
+        },
+        {
+          "letter": "C",
+          "text": "La germánica enfatiza un destino fatal inevitable, mientras que la castellana permite la restauración mediante la acción y la justicia.",
+          "is_correct": true,
+          "feedback": "El Cid logra triunfar y restaurar su honor; Sigfrido sucumbe a la traición y el destino."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias, ya que todas las historias medievales terminan igual.",
+          "is_correct": false,
+          "feedback": "Cada tradición cultural aportó matices distintos a la estructura del relato épico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La épica germánica conserva una atmósfera de fatalismo trágico heredada de las tradiciones paganas, mientras que la castellana está más imbuida de un optimismo moral cristiano.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v10",
+      "statement": "¿De qué manera el Cantar de Mio Cid pudo haber servido como herramienta de cohesión social durante la Reconquista en España?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñando al pueblo a hablar árabe para entenderse con el enemigo.",
+          "is_correct": false,
+          "feedback": "El objetivo era la diferenciación y la lucha, no la integración lingüística."
+        },
+        {
+          "letter": "B",
+          "text": "Presentando un modelo de héroe que unifica la lealtad cristiana, la valentía militar y el éxito económico.",
+          "is_correct": true,
+          "feedback": "El Cid es un espejo donde los caballeros y el pueblo podían ver recompensado su esfuerzo por la fe y el rey."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrando que la guerra es algo divertido que todos deberían experimentar.",
+          "is_correct": false,
+          "feedback": "La guerra se presenta como una necesidad dura pero honrosa, no como diversión."
+        },
+        {
+          "letter": "D",
+          "text": "Promoviendo el desprecio hacia la figura del rey para buscar la libertad total.",
+          "is_correct": false,
+          "feedback": "Al contrario, el Cid refuerza la figura del monarca como fuente de justicia y legitimidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La épica cumple una función socializadora, creando una identidad común y valores compartidos (patria, fe, honor) necesarios para los objetivos políticos de la época.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo desafía o refuerza la figura de Krimilda los estereotipos de género de la literatura medieval épica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los refuerza, ya que solo se preocupa por tareas domésticas durante toda la obra.",
+          "is_correct": false,
+          "feedback": "Krimilda toma acciones políticas y guerreras drásticas para su venganza."
+        },
+        {
+          "letter": "B",
+          "text": "Los desafía al asumir un rol activo y violento en la política y la guerra para vengar a su esposo.",
+          "is_correct": true,
+          "feedback": "Su papel rompe con la pasividad habitual de las mujeres en la épica, aunque su fin sea trágico."
+        },
+        {
+          "letter": "C",
+          "text": "Los refuerza, porque demuestra que las mujeres no pueden tomar decisiones importantes.",
+          "is_correct": false,
+          "feedback": "Sus decisiones mueven toda la segunda parte del poema, demostrando un gran poder de voluntad."
+        },
+        {
+          "letter": "D",
+          "text": "Los desafía al casarse muchas veces por interés económico puro.",
+          "is_correct": false,
+          "feedback": "Su motivación es el honor y la venganza por Sigfrido, no el dinero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque la épica es un género predominantemente masculino, personajes como Krimilda muestran la complejidad de las figuras femeninas cuando el honor familiar está en juego.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el efecto estético y psicológico de usar el presente histórico en los cantares de gesta cuando el juglar recitaba ante su público?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar confusión en la audiencia sobre si el héroe aún está vivo.",
+          "is_correct": false,
+          "feedback": "El público sabía que eran leyendas del pasado; el objetivo no era engañar."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el juglar no sabía usar los tiempos verbales del pasado.",
+          "is_correct": false,
+          "feedback": "Los juglares eran expertos en el manejo del lenguaje oral para su oficio."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el dinamismo y la sensación de inmediatez, haciendo que el público se sienta testigo de la hazaña.",
+          "is_correct": true,
+          "feedback": "El presente acerca la acción al oyente, generando una mayor implicación emocional."
+        },
+        {
+          "letter": "D",
+          "text": "Reducir el tiempo de la recitación para poder terminar más rápido.",
+          "is_correct": false,
+          "feedback": "No afecta la duración, sino la viveza y el estilo de la narración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de tiempos verbales dinámicos es una técnica narrativa propia de la oralidad que busca la inmersión del espectador en el relato heroico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.776Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es el máximo representante y creador de la estética culterana en la poesía española del siglo XVII?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Francisco de Quevedo",
+          "is_correct": false,
+          "feedback": "Quevedo es el líder del Conceptismo, la corriente opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Luis de Góngora",
+          "is_correct": true,
+          "feedback": "Su estilo fue tan influyente que al Culteranismo también se le llama Gongorismo."
+        },
+        {
+          "letter": "C",
+          "text": "Lope de Vega",
+          "is_correct": false,
+          "feedback": "Lope de Vega es conocido principalmente por su teatro y una poesía más clara."
+        },
+        {
+          "letter": "D",
+          "text": "Miguel de Cervantes",
+          "is_correct": false,
+          "feedback": "Cervantes es el maestro de la novela moderna, no del culteranismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Luis de Góngora transformó la poesía española buscando la perfección formal y un lenguaje noble que se alejara de la expresión cotidiana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el objetivo principal del lenguaje culterano en la poesía barroca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que la poesía sea fácil de entender para todo el pueblo.",
+          "is_correct": false,
+          "feedback": "Al contrario, el Culteranismo buscaba una élite intelectual."
+        },
+        {
+          "letter": "B",
+          "text": "Criticar de forma directa la corrupción de los políticos de la época.",
+          "is_correct": false,
+          "feedback": "Aunque podía haber crítica, su foco era la belleza estética."
+        },
+        {
+          "letter": "C",
+          "text": "Crear un mundo de belleza absoluta mediante un lenguaje sonoro y brillante.",
+          "is_correct": true,
+          "feedback": "Se prioriza la forma, la musicalidad y la riqueza de las imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "Registrar de forma objetiva los descubrimientos científicos del siglo XVII.",
+          "is_correct": false,
+          "feedback": "La literatura culterana es subjetiva e idealizada, no científica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Culteranismo busca la fascinación del lector a través de los sentidos (oído, vista) y de un vocabulario culto y selecto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se denominan las palabras tomadas directamente del latín o del griego que conservan su forma original y se incorporan al castellano para darle mayor elegancia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arcaísmos",
+          "is_correct": false,
+          "feedback": "Los arcaísmos son palabras antiguas que han caído en desuso."
+        },
+        {
+          "letter": "B",
+          "text": "Neologismos",
+          "is_correct": false,
+          "feedback": "Los neologismos son palabras nuevas creadas para realidades nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "Cultismos",
+          "is_correct": true,
+          "feedback": "El uso masivo de cultismos es una de las señas de identidad del Culteranismo."
+        },
+        {
+          "letter": "D",
+          "text": "Jergas",
+          "is_correct": false,
+          "feedback": "Las jergas son lenguajes técnicos o de grupos específicos, no necesariamente cultos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cultismos (como \"púrpura\", \"argénteo\", \"canoro\") permiten al poeta crear una atmósfera de nobleza y erudición clásica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué los poetas culteranos como Góngora utilizaban el hipérbaton de forma tan extrema en sus versos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no conocían bien las reglas gramaticales del castellano.",
+          "is_correct": false,
+          "feedback": "Eran expertos en gramática y dominaban perfectamente la lengua."
+        },
+        {
+          "letter": "B",
+          "text": "Para imitar la estructura sintáctica del latín y dar mayor prestigio al poema.",
+          "is_correct": true,
+          "feedback": "El latín era la lengua de cultura suprema y el hipérbaton le daba un aire solemne."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las rimas fueran más fáciles de encontrar al final de los versos.",
+          "is_correct": false,
+          "feedback": "Aunque ayuda a la rima, el motivo principal era la distinción estilística."
+        },
+        {
+          "letter": "D",
+          "text": "Porque escribían tan rápido que no les importaba el orden de las palabras.",
+          "is_correct": false,
+          "feedback": "Sus poemas eran fruto de un trabajo de pulido y corrección minucioso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hipérbaton obliga al lector a detenerse y reconstruir la frase, convirtiendo la lectura en un desafío intelectual reservado para personas cultas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v5",
+      "statement": "Si un poeta culterano escribe \"el cristal de las aguas\" para referirse a un río, y luego dice \"el herido cristal\" para referirse a una piedra que cae al agua, ¿qué está buscando con este recurso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir al lector para que no sepa de qué está hablando.",
+          "is_correct": false,
+          "feedback": "El lector culto debía ser capaz de descifrar la imagen."
+        },
+        {
+          "letter": "B",
+          "text": "Ahorrar papel al no tener que describir los objetos con sus nombres reales.",
+          "is_correct": false,
+          "feedback": "Al contrario, estas metáforas suelen alargar el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Embellecer la realidad transformando objetos cotidianos en materias preciosas y nobles.",
+          "is_correct": true,
+          "feedback": "El agua se vuelve cristal, el sol oro, los dientes perlas, etc."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar geografía y física mediante analogías literarias.",
+          "is_correct": false,
+          "feedback": "La función es estética y poética, no pedagógica científica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La metáfora culterana busca la \"nobleza\" del objeto, evitando llamarlo por su nombre vulgar y sustituyéndolo por una imagen de gran valor sensorial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v6",
+      "statement": "En la \"Fábula de Polifemo y Galatea\", Góngora describe al cíclope Polifemo. ¿Qué aspecto del Culteranismo se refleja en el uso de mitos griegos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deseo de convertir a España en una provincia de Grecia.",
+          "is_correct": false,
+          "feedback": "Es una influencia cultural y literaria, no un proyecto político."
+        },
+        {
+          "letter": "B",
+          "text": "El rechazo a la religión cristiana en favor de los dioses antiguos.",
+          "is_correct": false,
+          "feedback": "El uso de la mitología era un recurso estético aceptado por la cultura cristiana del momento."
+        },
+        {
+          "letter": "C",
+          "text": "La vinculación de la poesía con la tradición culta y clásica de la Antigüedad.",
+          "is_correct": true,
+          "feedback": "El mito sirve como marco para el despliegue de imágenes brillantes y cultas."
+        },
+        {
+          "letter": "D",
+          "text": "La falta de temas originales sobre los cuales escribir en el siglo XVII.",
+          "is_correct": false,
+          "feedback": "Los temas clásicos se recreaban con una sensibilidad y estilo totalmente nuevos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mitología clásica proporciona al Culteranismo un repertorio de imágenes y símbolos conocidos por la élite intelectual, permitiendo juegos alusivos complejos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál era la crítica principal que los defensores de otras corrientes lanzaban contra el estilo de Góngora?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus poemas eran demasiado cortos y simples.",
+          "is_correct": false,
+          "feedback": "Las críticas eran precisamente por lo contrario: extensión y complejidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que utilizaba un lenguaje demasiado vulgar y popular.",
+          "is_correct": false,
+          "feedback": "Se le criticaba por ser excesivamente culto y oscuro."
+        },
+        {
+          "letter": "C",
+          "text": "Que se preocupaba tanto por el adorno exterior que el contenido perdía sentido u oscuridad.",
+          "is_correct": true,
+          "feedback": "Se decía que era una cáscara brillante pero vacía o difícil de romper."
+        },
+        {
+          "letter": "D",
+          "text": "Que no sabía rimar correctamente en los sonetos.",
+          "is_correct": false,
+          "feedback": "Góngora era un maestro absoluto de la técnica métrica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La \"oscuridad\" culterana era vista por sus detractores como un defecto que impedía la comunicación, mientras que para sus defensores era una virtud que elevaba la poesía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación existe entre la decoración excesiva de una iglesia barroca y un poema de Góngora?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, porque la literatura y la arquitectura son artes totalmente distintas.",
+          "is_correct": false,
+          "feedback": "En el Barroco todas las artes comparten la misma sensibilidad estética."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas buscan la sencillez para que el fiel se concentre en la oración.",
+          "is_correct": false,
+          "feedback": "Ambas buscan la fascinación mediante la complejidad y el adorno."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas comparten el principio de llenar el espacio con adornos complejos para maravillar al espectador.",
+          "is_correct": true,
+          "feedback": "Es el concepto de \"horror vacui\" o miedo al vacío, propio del Barroco."
+        },
+        {
+          "letter": "D",
+          "text": "Que tanto los arquitectos como los poetas eran pagados por las mismas empresas.",
+          "is_correct": false,
+          "feedback": "El mecenazgo existía, pero la relación es estética y conceptual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Culteranismo es la manifestación literaria de la tendencia barroca hacia la ornamentación, la curva y el dinamismo visual trasladado a las palabras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto produce en el lector el uso constante de perífrasis y alusiones mitológicas en lugar de términos directos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rapidez en la lectura y comprensión inmediata.",
+          "is_correct": false,
+          "feedback": "Estos recursos ralentizan la lectura y exigen reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "Aburrimiento por la falta de figuras retóricas.",
+          "is_correct": false,
+          "feedback": "Al contrario, el texto está saturado de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Un distanciamiento de la realidad cotidiana y la creación de un mundo puramente poético.",
+          "is_correct": true,
+          "feedback": "El lenguaje no sirve para nombrar el mundo, sino para recrearlo de forma artística."
+        },
+        {
+          "letter": "D",
+          "text": "Una mayor precisión científica sobre los fenómenos naturales descritos.",
+          "is_correct": false,
+          "feedback": "La perífrasis es menos precisa científicamente pero más rica estéticamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La perífrasis culterana es un mecanismo de evasión y embellecimiento que busca la sorpresa constante a través de la erudición.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué poetas modernos como García Lorca admiraban tanto a Góngora a pesar de que su estilo era de tres siglos atrás?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque querían volver a escribir en latín y griego como él.",
+          "is_correct": false,
+          "feedback": "Los poetas del 27 escribían en un español moderno y vibrante."
+        },
+        {
+          "letter": "B",
+          "text": "Porque apreciaban su capacidad para crear imágenes autónomas y su libertad creativa con el lenguaje.",
+          "is_correct": true,
+          "feedback": "Vieron en Góngora a un precursor de la metáfora pura y el arte por el arte."
+        },
+        {
+          "letter": "C",
+          "text": "Porque estaban de acuerdo con las ideas políticas y religiosas del Barroco.",
+          "is_correct": false,
+          "feedback": "Su interés era técnico y estético, no ideológico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no conocían a otros poetas españoles anteriores al siglo XX.",
+          "is_correct": false,
+          "feedback": "Eran profundos conocedores de toda la tradición literaria española."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reivindicación de Góngora en 1927 supuso el reconocimiento de la importancia de la forma y la autonomía del lenguaje poético frente al sentimentalismo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v11",
+      "statement": "Desde un punto de vista democrático actual, ¿cómo se podría valorar la intención de Góngora de escribir solo para \"los entendidos\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como un acto de bondad para no molestar a la gente que no sabía leer.",
+          "is_correct": false,
+          "feedback": "No era por bondad, sino por una concepción aristocrática del arte."
+        },
+        {
+          "letter": "B",
+          "text": "Como una visión aristocrática del arte que prioriza la excelencia técnica sobre la accesibilidad social.",
+          "is_correct": true,
+          "feedback": "Para Góngora, el esfuerzo del lector era parte del valor de la obra de arte."
+        },
+        {
+          "letter": "C",
+          "text": "Como un error técnico que impidió que sus poemas fueran famosos en su época.",
+          "is_correct": false,
+          "feedback": "Góngora fue inmensamente famoso y polémico en su tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Como una estrategia de marketing para vender libros más caros.",
+          "is_correct": false,
+          "feedback": "En su época la poesía se difundía mucho por copias manuscritas, no solo por venta de libros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El debate sobre el elitismo en el arte tiene en el Culteranismo uno de sus ejemplos más claros, enfrentando la \"oscuridad brillante\" con la \"claridad popular\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el significado estético de unir conceptos opuestos como \"fuego helado\" o \"nieve ardiente\" en la descripción de una dama culterana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poeta no sabe distinguir las temperaturas de los objetos.",
+          "is_correct": false,
+          "feedback": "Son paradojas literarias conscientes, no errores de percepción."
+        },
+        {
+          "letter": "B",
+          "text": "Que en el siglo XVII el clima en España era muy extraño.",
+          "is_correct": false,
+          "feedback": "No se refiere a la meteorología, sino a la intensidad del sentimiento y la belleza."
+        },
+        {
+          "letter": "C",
+          "text": "Expresar la intensidad de las pasiones y la perfección de una belleza que supera las leyes de la naturaleza.",
+          "is_correct": true,
+          "feedback": "El contraste resalta la cualidad excepcional y maravillosa de lo descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el idioma castellano tenía pocas palabras y había que repetirlas.",
+          "is_correct": false,
+          "feedback": "El vocabulario culterano es, por el contrario, riquísimo y variado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de contrastes violentos y paradojas es una muestra del dinamismo barroco, que busca la tensión y la sorpresa constante en el lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

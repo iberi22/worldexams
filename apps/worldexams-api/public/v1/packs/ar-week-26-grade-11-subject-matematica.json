@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-26-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T00:00:21.758Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor del área total bajo la curva de una distribución normal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área a un solo lado de la media."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Como representa la probabilidad total de todo el espacio muestral, el área es 1."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad máxima es 1 (o 100%)."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la desviación estándar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin importar la forma, el área total siempre es la unidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La curva normal es una función de densidad de probabilidad. Por definición, la integral de cualquier función de densidad sobre todo su dominio debe ser igual a 1.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v2",
+      "statement": "¿Qué porcentaje aproximado de los datos se encuentra en el intervalo [μ - σ, μ + σ]?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el porcentaje entre el primer y tercer cuartil en otras distribuciones, o a un lado de la media."
+        },
+        {
+          "letter": "B",
+          "text": "68%",
+          "is_correct": true,
+          "feedback": "Correcto. Según la regla empírica, aproximadamente el 68,2% de los datos cae a una desviación estándar de la media."
+        },
+        {
+          "letter": "C",
+          "text": "95%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a dos desviaciones estándar."
+        },
+        {
+          "letter": "D",
+          "text": "99,7%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a tres desviaciones estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla empírica o regla 68-95-99,7 describe los porcentajes de datos que caen dentro de 1, 2 y 3 desviaciones estándar de la media en una distribución normal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la fórmula correcta para calcular el puntaje Z (o tipificación)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Z = (μ - x) / σ",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de la resta es importante."
+        },
+        {
+          "letter": "B",
+          "text": "Z = (x - μ) / σ",
+          "is_correct": true,
+          "feedback": "Correcto. Restamos la media para centrar en cero y dividimos por la desviación para ajustar la escala."
+        },
+        {
+          "letter": "C",
+          "text": "Z = x - μ / σ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el paréntesis, el orden de operaciones sería erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "Z = (x - σ) / μ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se divide por la desviación, no por la media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estandarizar permite comparar datos de distintas distribuciones normales. Z indica cuántas desviaciones estándar se encuentra un valor x por encima (positivo) o por debajo (negativo) de la media.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la probabilidad P(Z < 0)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay datos menores a la media."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": true,
+          "feedback": "Correcto. Por simetría, la mitad de los datos están a la izquierda de la media (que es 0)."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad total."
+        },
+        {
+          "letter": "D",
+          "text": "-0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad nunca puede ser negativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distribución normal es perfectamente simétrica respecto a su media. En la normal estándar, la media es 0, por lo que el 50% del área está por debajo de 0 y el 50% por encima.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el puntaje Z de un perno que mide 10,4 cm?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por la desviación estándar."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Z = (10,4 - 10) / 0,2 = 0,4 / 0,2 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es mayor que la media, el puntaje debe ser positivo."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge del cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos Z = (x - μ) / σ. El valor de 10,4 está a 0,4 cm de la media. Como cada desviación es de 0,2 cm, el valor está a exactamente 2 desviaciones estándar por encima de la media.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v6",
+      "statement": "¿Qué puntaje Z le corresponde a un alumno que sacó 50?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es menor que la media, el puntaje debe ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "-1,5",
+          "is_correct": true,
+          "feedback": "Correcto. Z = (50 - 65) / 10 = -15 / 10 = -1,5."
+        },
+        {
+          "letter": "C",
+          "text": "-15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por la desviación estándar."
+        },
+        {
+          "letter": "D",
+          "text": "-0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta o división."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Z = (50 - 65) / 10 = -1,5. El signo negativo indica que el alumno obtuvo una calificación por debajo del promedio de la clase.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la probabilidad P(Z > 1)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,1587",
+          "is_correct": true,
+          "feedback": "Correcto. P(Z > 1) = 1 - P(Z < 1) = 1 - 0,8413 = 0,1587."
+        },
+        {
+          "letter": "B",
+          "text": "0,8413",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser menor."
+        },
+        {
+          "letter": "C",
+          "text": "-0,8413",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad no es negativa."
+        },
+        {
+          "letter": "D",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a este valor de Z."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad de que Z sea mayor que un valor se calcula restando de 1 (el total) la probabilidad de que sea menor (el complemento).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v8",
+      "statement": "Si una lámpara tiene un puntaje Z = 0, ¿cuántas horas duró?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Z=0 no significa valor cero de la variable."
+        },
+        {
+          "letter": "B",
+          "text": "1000 horas",
+          "is_correct": true,
+          "feedback": "Correcto. Un puntaje Z de 0 corresponde exactamente al valor de la media aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "1100 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería Z = 1."
+        },
+        {
+          "letter": "D",
+          "text": "900 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería Z = -1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de estandarización, el valor de la media (μ) siempre se mapea al valor 0 en la distribución normal estándar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v9",
+      "statement": "Debido a la simetría de la campana, ¿a qué es igual la probabilidad P(Z > -1,64)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de ser menor a -1,64."
+        },
+        {
+          "letter": "B",
+          "text": "0,95",
+          "is_correct": true,
+          "feedback": "Correcto. Por simetría, el área a la derecha de -1,64 es igual al área a la izquierda de 1,64."
+        },
+        {
+          "letter": "C",
+          "text": "0,45",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de la propiedad de simetría directa."
+        },
+        {
+          "letter": "D",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor solo es para Z=0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La simetría de la curva normal implica que P(Z > -a) = P(Z < a). El área \"de la cola izquierda\" hacia el centro es igual al área \"de la cola derecha\" hacia el centro.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v10",
+      "statement": "Visualmente, ¿cómo se diferencia la campana de la máquina A respecto a la de la máquina B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La campana de A está más a la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen la misma media, están centradas igual."
+        },
+        {
+          "letter": "B",
+          "text": "La campana de A es más alta y estrecha.",
+          "is_correct": true,
+          "feedback": "Correcto. Menor desviación estándar significa que los datos están más concentrados cerca de la media."
+        },
+        {
+          "letter": "C",
+          "text": "La campana de A es más baja y ancha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería si tuviera mayor desviación estándar."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia visual, todas las normales son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma depende críticamente de σ."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desviación estándar controla la \"dispersión\" o ancho de la campana. Una σ pequeña produce una campana leptocúrtica (picuda y estrecha), mientras que una σ grande produce una platicúrtica (achatada y ancha).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v11",
+      "statement": "Sabiendo que P(Z < 2) = 0,9772, ¿qué porcentaje de los aspirantes es \"sobresaliente\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "97,72%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el porcentaje que NO es sobresaliente."
+        },
+        {
+          "letter": "B",
+          "text": "2,28%",
+          "is_correct": true,
+          "feedback": "Correcto. 130 corresponde a Z = (130-100)/15 = 2. La prob. de ser mayor a Z=2 es 1 - 0,9772 = 0,0228 (2,28%)."
+        },
+        {
+          "letter": "C",
+          "text": "5%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor aproximado pero no exacto según la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "30%",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al cálculo de estandarización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos Z = 2. Luego, como buscamos a los que superan ese valor, calculamos el área a la derecha: 1 - 0,9772 = 0,0228. Multiplicamos por 100 para obtener el porcentaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor de P(-1 < Z < 1)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,8413",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el área desde el extremo izquierdo hasta 1."
+        },
+        {
+          "letter": "B",
+          "text": "0,6826",
+          "is_correct": true,
+          "feedback": "Correcto. P(-1 < Z < 1) = P(Z < 1) - P(Z < -1). Como P(Z < -1) = 1 - 0,8413 = 0,1587, entonces 0,8413 - 0,1587 = 0,6826."
+        },
+        {
+          "letter": "C",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor muy bajo para una desviación estándar completa."
+        },
+        {
+          "letter": "D",
+          "text": "0,3413",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la probabilidad entre 0 y 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular P(a < Z < b) restamos F(b) - F(a). Por simetría, el área fuera del intervalo [-1, 1] es dos veces la cola externa: 2 * 0,1587 = 0,3174. El área interna es 1 - 0,3174 = 0,6826.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la desviación estándar de los tiempos de descarga?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la diferencia absoluta (x - μ)."
+        },
+        {
+          "letter": "B",
+          "text": "1,22 segundos",
+          "is_correct": true,
+          "feedback": "Correcto. De Z = (x - μ) / σ despejamos σ = (x - μ) / Z = (10 - 8) / 1,64 ≈ 1,219."
+        },
+        {
+          "letter": "C",
+          "text": "0,82 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el despeje de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "3,28 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en lugar de dividir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de estandarización para hallar un parámetro desconocido. Despejando: σ = (x - μ) / Z. Reemplazando: (10 - 8) / 1,64 = 1,219... ≈ 1,22.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la probabilidad de que el error sea mayor a 0,02 en valor absoluto (es decir, error > 0,02 o error < -0,02)? Dato: P(Z < 2) = 0,9772.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,0228",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la probabilidad de la cola derecha."
+        },
+        {
+          "letter": "B",
+          "text": "0,0456",
+          "is_correct": true,
+          "feedback": "Correcto. Z = 0,02 / 0,01 = 2. Buscamos las dos colas externas: 2 * (1 - 0,9772) = 2 * 0,0228 = 0,0456."
+        },
+        {
+          "letter": "C",
+          "text": "0,9544",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que el error sea menor a 0,02."
+        },
+        {
+          "letter": "D",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor aproximado pero no exacto según el dato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos P(|X| > 0,02), que equivale a las áreas externas a 2 desviaciones estándar. Como cada cola tiene 0,0228, el total es 0,0456.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la probabilidad de que en un mes determinado el inversor pierda dinero (retorno menor a 0%)? Dato: P(Z < 0,5) = 0,6915.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media es 2%, es más probable ganar que perder."
+        },
+        {
+          "letter": "B",
+          "text": "0,3085",
+          "is_correct": true,
+          "feedback": "Correcto. Z = (0 - 2) / 4 = -0,5. P(Z < -0,5) = 1 - P(Z < 0,5) = 1 - 0,6915 = 0,3085."
+        },
+        {
+          "letter": "C",
+          "text": "0,6915",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de que el retorno sea menor a 4%."
+        },
+        {
+          "letter": "D",
+          "text": "0,1915",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al cálculo de la cola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perder dinero significa X < 0. Estandarizando: Z = (0 - 2) / 4 = -0,5. Por simetría, P(Z < -0,5) es igual a 1 - P(Z < 0,5). 1 - 0,6915 = 0,3085 (aprox 31%).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v16",
+      "statement": "¿A qué puntaje Z corresponde el percentil 10?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el P90."
+        },
+        {
+          "letter": "B",
+          "text": "-1,28",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a la simetría, si el 10% superior empieza en Z=1,28, el 10% inferior termina en Z=-1,28."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el percentil 50."
+        },
+        {
+          "letter": "D",
+          "text": "-0,90",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puntaje Z no es igual al porcentaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La simetría de la distribución normal implica que los percentiles complementarios (10 y 90, 5 y 95, etc.) tienen puntajes Z de igual valor absoluto pero distinto signo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor de la media (μ) y la desviación estándar (σ)? Dato: Z para el 10% superior es 1,28.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "μ = 500, σ = 78,1",
+          "is_correct": true,
+          "feedback": "Correcto. Por simetría, la media está en el centro: (600+400)/2 = 500. Luego, 600 = 500 + 1,28*σ => 100 = 1,28*σ => σ = 100/1,28 = 78,125."
+        },
+        {
+          "letter": "B",
+          "text": "μ = 500, σ = 100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor Z de 1,28."
+        },
+        {
+          "letter": "C",
+          "text": "μ = 450, σ = 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media no es 450 debido a la simetría de los porcentajes extremos."
+        },
+        {
+          "letter": "D",
+          "text": "μ = 500, σ = 128",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó mal los factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como el 10% superior e inferior están a la misma distancia de probabilidad, la media debe ser el promedio de los valores: 500. Luego usamos 600 = 500 + 1,28σ para hallar que σ ≈ 78,1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v18",
+      "statement": "Si la empresa quiere que solo se rechace el 1% de las botellas (Z para 1% es -2,33), ¿a qué valor debe ajustar la media (μ) manteniendo la desviación en 10 ml?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2010 ml",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con este valor se rechazaría más del 1%."
+        },
+        {
+          "letter": "B",
+          "text": "2008,3 ml",
+          "is_correct": true,
+          "feedback": "Correcto. Queremos que 1985 corresponda a Z = -2,33. -2,33 = (1985 - μ) / 10 => -23,3 = 1985 - μ => μ = 1985 + 23,3 = 2008,3 ml."
+        },
+        {
+          "letter": "C",
+          "text": "2000 ml",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor actual donde se rechaza más."
+        },
+        {
+          "letter": "D",
+          "text": "1995,5 ml",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajar la media aumentaría la cantidad de botellas vacías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reducir el desperdicio (rechazos), la empresa debe \"alejar\" el promedio del límite crítico. Calculamos el nuevo promedio necesario para que el límite de 1985 quede a 2,33 desviaciones estándar de la media.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la probabilidad aproximada de obtener más de 210 caras? Dato: P(Z < 1) = 0,8413.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. 210 es mayor que la media (200)."
+        },
+        {
+          "letter": "B",
+          "text": "0,1587",
+          "is_correct": true,
+          "feedback": "Correcto. μ = 400*0,5 = 200. σ = √(400*0,5*0,5) = 10. Z = (210 - 200) / 10 = 1. P(Z > 1) = 1 - 0,8413 = 0,1587."
+        },
+        {
+          "letter": "C",
+          "text": "0,8413",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la probabilidad de obtener menos de 210."
+        },
+        {
+          "letter": "D",
+          "text": "0,0228",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor para Z=2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para muestras grandes, la Binomial se aproxima a la Normal. Aquí μ=200 y σ=10. El valor 210 está a una desviación estándar de la media, por lo que buscamos el área de la cola derecha de Z=1.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la nota mínima para estar en el 15,87% de los mejores alumnos? Dato: Z para 2,28% superior es 2. Z para 15,87% superior es 1.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el cálculo de la desviación estándar primero."
+        },
+        {
+          "letter": "B",
+          "text": "55",
+          "is_correct": true,
+          "feedback": "Correcto. 70 = 40 + 2*σ => 30 = 2σ => σ = 15. Para el top 15,87% (Z=1): x = 40 + 1*15 = 55."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a un valor intermedio."
+        },
+        {
+          "letter": "D",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado cerca de la media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos σ usando el dato del top 2,28% (Z=2), lo que nos da σ = 15. Luego aplicamos Z=1 para hallar el valor correspondiente al top 15,87%. x = 40 + 15 = 55.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
