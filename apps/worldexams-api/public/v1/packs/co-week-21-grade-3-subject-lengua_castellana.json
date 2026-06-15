@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-21-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.032Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v1",
+      "statement": "¿A qué tipo de lenguaje pertenecen las palabras escritas en un libro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje verbal (escrito)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lenguaje verbal usa palabras, ya sean habladas o escritas."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje de señas",
+          "is_correct": false,
+          "feedback": "No, el lenguaje de señas usa movimientos de manos."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje corporal",
+          "is_correct": false,
+          "feedback": "No, el lenguaje corporal usa gestos del cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje icónico",
+          "is_correct": false,
+          "feedback": "El lenguaje icónico usa dibujos o imágenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lenguaje verbal es aquel que utiliza signos lingüísticos (palabras) para transmitir mensajes. Puede ser oral o escrito.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v2",
+      "statement": "Cuando nos comunicamos usando solo gestos, posturas y movimientos del cuerpo, estamos usando:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje verbal",
+          "is_correct": false,
+          "feedback": "No, porque no se usan palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje no verbal (corporal)",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los gestos son parte esencial de la comunicación no verbal."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje matemático",
+          "is_correct": false,
+          "feedback": "El lenguaje matemático usa números y símbolos."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje de programación",
+          "is_correct": false,
+          "feedback": "Se usa para dar instrucciones a computadoras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje no verbal corporal permite transmitir estados de ánimo y mensajes sin necesidad de emitir sonidos o escribir.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v3",
+      "statement": "¿Cómo se llama el tipo de lenguaje que utiliza imágenes, dibujos o símbolos para dar un mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje sonoro",
+          "is_correct": false,
+          "feedback": "El lenguaje sonoro usa ruidos o música."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje escrito",
+          "is_correct": false,
+          "feedback": "El lenguaje escrito usa letras."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje icónico",
+          "is_correct": true,
+          "feedback": "¡Excelente! Los íconos o imágenes son la base de este lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje de humo",
+          "is_correct": false,
+          "feedback": "Era una forma antigua, pero no es la respuesta correcta aquí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje icónico es fundamental en la señalización pública, ya que permite que personas de diferentes idiomas entiendan el mismo mensaje.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v4",
+      "statement": "¿Qué tipo de lenguaje predomina en una transmisión radial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje verbal oral",
+          "is_correct": true,
+          "feedback": "¡Correcto! El locutor se comunica principalmente a través de la voz."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje visual",
+          "is_correct": false,
+          "feedback": "En la radio no podemos ver al locutor, solo escucharlo."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje de señas",
+          "is_correct": false,
+          "feedback": "No se puede transmitir por radio tradicional."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje escrito",
+          "is_correct": false,
+          "feedback": "Aunque el locutor lea un guion, nosotros escuchamos sonidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lenguaje verbal oral se basa en la emisión y recepción de sonidos articulados que forman palabras.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v5",
+      "statement": "Si Carlos no dice ninguna palabra pero mueve su mano para despedirse, ¿qué está ocurriendo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay comunicación porque no habló.",
+          "is_correct": false,
+          "feedback": "Sí hay comunicación, el mensaje se entendió."
+        },
+        {
+          "letter": "B",
+          "text": "Es un lenguaje verbal incompleto.",
+          "is_correct": false,
+          "feedback": "No es lenguaje verbal, es otro tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Está usando lenguaje no verbal (gestual) para enviar un mensaje.",
+          "is_correct": true,
+          "feedback": "¡Así es! El movimiento de la mano es un gesto con significado claro."
+        },
+        {
+          "letter": "D",
+          "text": "Está practicando gimnasia para la mano.",
+          "is_correct": false,
+          "feedback": "En este contexto, el movimiento tiene un fin comunicativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Muchos gestos cotidianos sustituyen frases completas del lenguaje verbal, facilitando la comunicación rápida.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v6",
+      "statement": "¿Para qué sirve el recuadro con la persona que usa lenguaje de señas en el noticiero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el noticiero se vea más moderno.",
+          "is_correct": false,
+          "feedback": "Es una función de inclusión, no solo estética."
+        },
+        {
+          "letter": "B",
+          "text": "Para que las personas con discapacidad auditiva puedan entender las noticias.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Es el Lenguaje de Señas Colombiano (LSC)."
+        },
+        {
+          "letter": "C",
+          "text": "Para enseñar a los niños a bailar con las manos.",
+          "is_correct": false,
+          "feedback": "No es un baile, es un idioma con reglas propias."
+        },
+        {
+          "letter": "D",
+          "text": "Para traducir las noticias a otro idioma como el inglés.",
+          "is_correct": false,
+          "feedback": "Es una traducción, pero para la comunidad sorda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje de señas es una lengua natural con estructura gramatical propia, vital para la inclusión de la comunidad sorda.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v7",
+      "statement": "¿Qué tipo de lenguaje está usando la película para decirte que algo emocionante va a pasar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje icónico.",
+          "is_correct": false,
+          "feedback": "No es una imagen, es un sonido."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje escrito.",
+          "is_correct": false,
+          "feedback": "No son letras."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje sonoro (no verbal).",
+          "is_correct": true,
+          "feedback": "¡Muy bien! La música y los efectos de sonido comunican emociones."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje químico.",
+          "is_correct": false,
+          "feedback": "No es el caso en una película común."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje sonoro utiliza el ritmo, la intensidad y el tono para transmitir sensaciones y mensajes sin palabras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v8",
+      "statement": "En una infografía que mezcla dibujos, flechas y textos cortos, ¿qué tipos de lenguaje se están combinando?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo lenguaje escrito.",
+          "is_correct": false,
+          "feedback": "Hay dibujos y flechas también."
+        },
+        {
+          "letter": "B",
+          "text": "Solo lenguaje icónico.",
+          "is_correct": false,
+          "feedback": "Hay palabras también."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje verbal (escrito) e icónico.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La mezcla de ambos hace que la información sea más clara."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje oral y corporal.",
+          "is_correct": false,
+          "feedback": "El libro no habla ni se mueve solo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos multimodales, como las infografías, aprovechan diferentes tipos de lenguaje para mejorar la comprensión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v9",
+      "statement": "¿Por qué este código de luces se considera una forma de lenguaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usan espejos caros.",
+          "is_correct": false,
+          "feedback": "El costo de los objetos no define si es lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Porque han asignado un significado a las señales de luz para entenderse.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un lenguaje requiere un sistema de signos con significados compartidos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sol brilla mucho en Colombia.",
+          "is_correct": false,
+          "feedback": "El clima ayuda pero no es la razón de que sea un lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "No es lenguaje, es solo un juego de luces.",
+          "is_correct": false,
+          "feedback": "Cualquier sistema de signos creado para comunicar es una forma de lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje es un sistema de comunicación que requiere un código (las luces) y un acuerdo sobre su significado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-v10",
+      "statement": "¿Cuál sería la forma más efectiva de usar el lenguaje no verbal para este mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir \"Silencio\" en una hoja muy pequeña.",
+          "is_correct": false,
+          "feedback": "Esto sería lenguaje verbal escrito y difícil de ver."
+        },
+        {
+          "letter": "B",
+          "text": "Poner el dedo índice sobre los labios cerrados.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es un gesto universal de lenguaje no verbal gestual."
+        },
+        {
+          "letter": "C",
+          "text": "Gritar \"¡Hagan silencio!\" muy fuerte.",
+          "is_correct": false,
+          "feedback": "Esto sería lenguaje verbal oral, lo contrario a lo pedido."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar los ojos y esperar.",
+          "is_correct": false,
+          "feedback": "Podría confundirse con que tienes sueño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir el tipo de lenguaje adecuado depende del contexto y del objetivo que queramos lograr en la comunicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W21-tipos-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

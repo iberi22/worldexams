@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T20:24:55.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de los conectores textuales en la escritura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el texto sea más largo para cumplir con el número de palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función no es la extensión, sino la cohesión y la lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer relaciones lógicas entre las ideas para que el texto sea coherente y fácil de entender.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son como el \"pegamento\" que une las partes de un mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar dónde debemos poner las mayúsculas en las oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso existen las reglas de puntuación y ortografía."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir a los verbos para que la oración sea más corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores unen ideas, no reemplazan a los núcleos del predicado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin conectores, un texto parecería una lista de frases sueltas sin relación. Los conectores ayudan al lector a seguir el hilo del pensamiento del autor, indicando si se está sumando una idea, oponiendo otra o explicando una causa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de conectores ha utilizado Valentina para organizar sus actividades?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectores de oposición (adversativos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acciones no se oponen entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Conectores de orden o secuencia temporal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indican la sucesión de los hechos en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Conectores de causa-efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica que una acción sea el motivo de la otra."
+        },
+        {
+          "letter": "D",
+          "text": "Conectores de resumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está sintetizando una idea previa, sino enumerando pasos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de orden (en primer lugar, después, a continuación, por último) son vitales en los textos instructivos y narrativos para que el lector entienda el proceso paso a paso.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué relación lógica establece el conector \"por lo tanto\" en la frase anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación de suma de dos problemas distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Establece un vínculo de dependencia lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de duda sobre la importancia de los páramos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector afirma una consecuencia lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Relación de consecuencia o conclusión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La protección es la consecuencia lógica de que sean vitales."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de tiempo pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica cuándo ocurre, sino por qué debe ocurrir una acción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores de consecuencia (por eso, en consecuencia, por consiguiente) son las herramientas estrella de los textos argumentativos. Permiten derivar conclusiones sólidas a partir de premisas o datos presentados previamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes opciones utiliza correctamente un conector de OPOSICIÓN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me gusta el sancocho de pescado porque es muy nutritivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" es un conector de causa."
+        },
+        {
+          "letter": "B",
+          "text": "Mañana lloverá en Bogotá, así que llevaré paraguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Así que\" es un conector de consecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Estudié mucho para el examen de sociales; sin embargo, me sentí muy nervioso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Sin embargo\" presenta un contraste entre el estudio y el nerviosismo."
+        },
+        {
+          "letter": "D",
+          "text": "Además de ser buen estudiante, Santiago es un gran futbolista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Además\" es un conector de adición o suma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Saber contrastar ideas con conectores como \"pero\", \"aunque\", \"no obstante\" o \"al contrario\" demuestra un manejo avanzado del idioma. Ayuda a mostrar matices en la realidad donde las cosas no siempre son de una sola forma.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes conectores de ADICIÓN sería el más adecuado para que Santiago sume información nueva a su relato?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En resumen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para terminar o sintetizar, no para añadir datos nuevos."
+        },
+        {
+          "letter": "B",
+          "text": "Asimismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un conector formal de adición, similar a \"también\" o \"además\"."
+        },
+        {
+          "letter": "C",
+          "text": "Por ejemplo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para ilustrar una idea con casos concretos, no para sumar una idea distinta."
+        },
+        {
+          "letter": "D",
+          "text": "En cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para oponer dos situaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de adición (además, también, igualmente, por otra parte) permiten enriquecer un párrafo sin sonar repetitivo. \"Asimismo\" es una opción elegante y formal muy usada en textos académicos y literarios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v6",
+      "statement": "Identifica el error en el uso del conector en la siguiente frase: \"Me saqué una excelente nota en el examen, **porque** mis padres se pusieron muy felices\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ningún error, el conector está bien usado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una confusión lógica entre causa y efecto."
+        },
+        {
+          "letter": "B",
+          "text": "El error es usar \"porque\", debería ser \"asimismo\" para sumar la felicidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Asimismo\" no indica la relación lógica de resultado."
+        },
+        {
+          "letter": "C",
+          "text": "El error es que el conector indica causa, pero la frase expresa una consecuencia; debería ser: \"Me saqué buena nota, **por eso** mis padres se alegraron\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La alegría de los padres es el resultado de la nota, no su causa."
+        },
+        {
+          "letter": "D",
+          "text": "El error es que se debe escribir \"porque\" separado (\"por que\").",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso es una sola palabra (\"porque\" de causa)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un error común. La causa va antes del efecto. La buena nota CAUSA la alegría. Si usamos \"porque\", estaríamos diciendo que la alegría de los padres hizo que el estudiante sacara buena nota mágicamente. El análisis lógico es fundamental antes de elegir el conector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes oraciones utiliza un conector EXPLICATIVO de manera correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volcán está activo; en conclusión, hay que evacuar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de consecuencia, no explicativo."
+        },
+        {
+          "letter": "B",
+          "text": "Los anfibios son animales de doble vida; es decir, viven tanto en el agua como en la tierra.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Es decir\" introduce una aclaración que explica el concepto de \"doble vida\"."
+        },
+        {
+          "letter": "C",
+          "text": "Compré frutas, verduras y, por ejemplo, carne para el almuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por ejemplo\" se usa para casos específicos, no para cerrar una lista."
+        },
+        {
+          "letter": "D",
+          "text": "En primer lugar, lávate las manos, o sea, antes de comer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"O sea\" está mal ubicado; es un conector explicativo que aquí suena redundante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores explicativos (es decir, o sea, esto es, en otras palabras) son puentes de claridad. Sirven para decir lo mismo pero de una forma más sencilla o detallada, asegurando que el lector no se pierda en tecnicismos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos conectores es el más apropiado para iniciar el párrafo de CIERRE de un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por otra parte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica que se va a hablar de un tema nuevo o distinto."
+        },
+        {
+          "letter": "B",
+          "text": "En conclusión",
+          "is_correct": true,
+          "feedback": "¡Correcto! Avisa al lector que se ha llegado al final y se van a resumir las ideas principales."
+        },
+        {
+          "letter": "C",
+          "text": "Para empezar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para el inicio del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para contrastar ideas, no para cerrar un texto completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de conectores conclusivos (para terminar, finalmente, en suma, en conclusión) le da una estructura profesional al escrito. Ayuda a \"amarrar\" todas las ideas presentadas y a dejar una impresión clara en el lector al final del camino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto produciría en el sentido del texto si cambiamos \"No obstante\" por el conector \"Además\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sentido sigue siendo el mismo porque ambos son conectores positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen funciones lógicas opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "El texto sería más claro porque \"Además\" es una palabra más común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto perdería su sentido de advertencia y contraste."
+        },
+        {
+          "letter": "C",
+          "text": "Se perdería la relación de oposición y parecería que la deforestación es una \"riqueza\" o algo bueno que se suma a la región.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se cambiaría un contraste por una suma, creando un sinsentido lógico."
+        },
+        {
+          "letter": "D",
+          "text": "El texto se volvería una poesía sobre los ríos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de conector afecta la lógica, no necesariamente el género literario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir el conector equivocado puede cambiar totalmente el mensaje. El análisis crítico implica entender que los conectores no son adornos, sino indicadores de la postura del autor ante los hechos. \"No obstante\" indica una preocupación; \"Además\" indicaría una simple acumulación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v10",
+      "statement": "Identifica el conector que falta para que la siguiente relación de CAUSA sea lógica: \"El joven no pudo terminar la carrera __________ se lesionó un tobillo durante el ascenso\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría que la lesión fue el resultado de no terminar la carrera, lo cual no tiene sentido."
+        },
+        {
+          "letter": "B",
+          "text": "puesto que",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Puesto que\" introduce la causa o motivo por el cual no terminó la carrera."
+        },
+        {
+          "letter": "C",
+          "text": "pero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría un obstáculo que no necesariamente explica la causa directa en este contexto."
+        },
+        {
+          "letter": "D",
+          "text": "en primer lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría orden, no el motivo de la acción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores causales (ya que, debido a que, porque, puesto que) son esenciales para explicar el porqué de las cosas. Su uso correcto permite que el lector comprenda la cadena de eventos y la motivación de los personajes o de los hechos históricos descritos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

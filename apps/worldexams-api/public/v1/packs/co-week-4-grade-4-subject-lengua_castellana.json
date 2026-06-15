@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.049Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal de los verbos en una oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombrar objetos o personas.",
+          "is_correct": false,
+          "feedback": "Esa es la función de los sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar acciones, estados o procesos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo indica lo que el sujeto hace o le sucede."
+        },
+        {
+          "letter": "C",
+          "text": "Decir cómo son las cosas.",
+          "is_correct": false,
+          "feedback": "Esa es la función de los adjetivos."
+        },
+        {
+          "letter": "D",
+          "text": "Unir dos oraciones diferentes.",
+          "is_correct": false,
+          "feedback": "Esa es la función de los conectores o conjunciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo es la categoría gramatical que dota de dinamismo a la oración, funcionando como núcleo del predicado.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v2",
+      "statement": "¿Cómo se llama el modo verbal que usamos para dar órdenes, consejos o peticiones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modo Indicativo.",
+          "is_correct": false,
+          "feedback": "Se usa para expresar hechos reales."
+        },
+        {
+          "letter": "B",
+          "text": "Modo Subjuntivo.",
+          "is_correct": false,
+          "feedback": "Se usa para deseos o dudas."
+        },
+        {
+          "letter": "C",
+          "text": "Modo Imperativo.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Como en \"¡Estudia!\" o \"Cierra la puerta\"."
+        },
+        {
+          "letter": "D",
+          "text": "Modo Infinitivo.",
+          "is_correct": false,
+          "feedback": "El infinitivo no es un modo, sino una forma no personal del verbo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El modo imperativo se caracteriza por carecer de tiempos verbales y dirigirse siempre a una segunda persona.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v3",
+      "statement": "En la oración \"El deportista **compite** hoy en la final\", ¿qué indica el tiempo presente del verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción que ya terminó hace mucho tiempo.",
+          "is_correct": false,
+          "feedback": "Eso sería pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Una acción que ocurre en el mismo momento en que se habla.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El presente sitúa la acción en el ahora."
+        },
+        {
+          "letter": "C",
+          "text": "Un deseo que tal vez se cumpla mañana.",
+          "is_correct": false,
+          "feedback": "Eso sería futuro o subjuntivo."
+        },
+        {
+          "letter": "D",
+          "text": "Una acción que se repitió muchas veces ayer.",
+          "is_correct": false,
+          "feedback": "Eso sería pretérito imperfecto (pasado)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo gramatical presente permite vincular la acción con el momento de la enunciación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v4",
+      "statement": "¿Cuál es la persona gramatical y el número del verbo en la frase: \"Ellos **estudiaron** mucho\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera persona del plural.",
+          "is_correct": false,
+          "feedback": "Sería \"Nosotros estudiamos\"."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda persona del singular.",
+          "is_correct": false,
+          "feedback": "Sería \"Tú estudiaste\"."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera persona del plural.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Ellos\" corresponde a la 3ª persona plural."
+        },
+        {
+          "letter": "D",
+          "text": "Tercera persona del singular.",
+          "is_correct": false,
+          "feedback": "Sería \"Él estudió\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La persona gramatical indica quién realiza la acción, y debe haber concordancia obligatoria con el pronombre sujeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v5",
+      "statement": "En la oración \"Colombia **ha ganado** muchos premios\", ¿qué tipo de tiempo verbal se usa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiempo simple (presente).",
+          "is_correct": false,
+          "feedback": "Los tiempos simples tienen una sola palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Tiempo compuesto (pretérito perfecto).",
+          "is_correct": true,
+          "feedback": "¡Así es! Se usa el verbo auxiliar \"haber\" + un participio."
+        },
+        {
+          "letter": "C",
+          "text": "Tiempo futuro.",
+          "is_correct": false,
+          "feedback": "Sería \"ganará\"."
+        },
+        {
+          "letter": "D",
+          "text": "Modo imperativo.",
+          "is_correct": false,
+          "feedback": "No es una orden."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los tiempos compuestos se forman con el verbo \"haber\" conjugado y el participio del verbo principal, indicando acciones terminadas con relevancia en el presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v6",
+      "statement": "\"Ayer **comí** fruta\" / \"Antes **comía** mucha fruta\". ¿Cuál es la diferencia entre los dos verbos en pasado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna diferencia, significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Sí hay una diferencia de matiz temporal."
+        },
+        {
+          "letter": "B",
+          "text": "\"Comí\" indica una acción terminada en un momento exacto; \"comía\" indica una acción que se repetía en el pasado.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Es la diferencia entre acciones puntuales y hábitos pasados."
+        },
+        {
+          "letter": "C",
+          "text": "\"Comí\" es para el futuro y \"comía\" para el presente.",
+          "is_correct": false,
+          "feedback": "Ambos están en pasado."
+        },
+        {
+          "letter": "D",
+          "text": "\"Comí\" es más elegante que \"comía\".",
+          "is_correct": false,
+          "feedback": "No es una cuestión de elegancia, sino de gramática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El español tiene varios tiempos para el pasado que permiten precisar si la acción fue única o habitual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v7",
+      "statement": "¿Cuál es la forma correcta del verbo **\"ir\"** en pasado para la primera persona (Yo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo ií.",
+          "is_correct": false,
+          "feedback": "No existe esa forma."
+        },
+        {
+          "letter": "B",
+          "text": "Yo fui.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El verbo \"ir\" es irregular y cambia totalmente su forma."
+        },
+        {
+          "letter": "C",
+          "text": "Yo fue.",
+          "is_correct": false,
+          "feedback": "Eso es para \"Él\" o \"Ella\"."
+        },
+        {
+          "letter": "D",
+          "text": "Yo iré.",
+          "is_correct": false,
+          "feedback": "Eso es tiempo futuro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos irregulares no siguen el modelo de su conjugación y deben aprenderse por su alta frecuencia de uso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v8",
+      "statement": "Relaciona correctamente: **Caminar**, **Caminando**, **Caminado**. ¿En qué orden están?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitivo, Gerundio, Participio.",
+          "is_correct": true,
+          "feedback": "¡Excelente! -ar (infinitivo), -ando (gerundio), -ado (participio)."
+        },
+        {
+          "letter": "B",
+          "text": "Participio, Infinitivo, Gerundio.",
+          "is_correct": false,
+          "feedback": "El orden no coincide con las terminaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Gerundio, Participio, Infinitivo.",
+          "is_correct": false,
+          "feedback": "El orden no coincide."
+        },
+        {
+          "letter": "D",
+          "text": "Son tres verbos diferentes.",
+          "is_correct": false,
+          "feedback": "Es el mismo verbo en sus tres formas no personales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las formas no personales del verbo no indican quién hace la acción ni en qué tiempo, pero son la base de muchas construcciones gramaticales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v9",
+      "statement": "¿Cuál es el error en la frase: \"La orquesta de músicos **tocaron** muy bien\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error.",
+          "is_correct": false,
+          "feedback": "Sí lo hay, de concordancia de número."
+        },
+        {
+          "letter": "B",
+          "text": "El sujeto es \"La orquesta\" (singular), por lo tanto el verbo debe ser \"tocó\" (singular).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aunque haya muchos músicos, la palabra orquesta es singular."
+        },
+        {
+          "letter": "C",
+          "text": "El verbo debe estar en futuro.",
+          "is_correct": false,
+          "feedback": "El tiempo está bien, el error es el número."
+        },
+        {
+          "letter": "D",
+          "text": "Falta una tilde en \"orquesta\".",
+          "is_correct": false,
+          "feedback": "Orquesta es grave terminada en vocal, no lleva tilde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sustantivos colectivos requieren siempre el verbo en singular, lo cual es un desafío común en la redacción avanzada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases usa correctamente el modo **imperativo** para dar una instrucción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños usan el computador con cuidado.",
+          "is_correct": false,
+          "feedback": "Es una descripción en modo indicativo."
+        },
+        {
+          "letter": "B",
+          "text": "Ojalá usáramos el computador con cuidado.",
+          "is_correct": false,
+          "feedback": "Es un deseo en modo subjuntivo."
+        },
+        {
+          "letter": "C",
+          "text": "Use el computador con cuidado y apáguelo al terminar.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Son órdenes claras y directas en modo imperativo."
+        },
+        {
+          "letter": "D",
+          "text": "Usar el computador con cuidado es importante.",
+          "is_correct": false,
+          "feedback": "Es una afirmación con infinitivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio del modo imperativo es esencial para la producción de textos instructivos y normativos eficaces.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W04-gramatica-verbos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

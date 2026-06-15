@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.031Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v1",
+      "statement": "¿Qué es lo primero que debes hacer antes de empezar a escribir un cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir \"Fin\" en la hoja.",
+          "is_correct": false,
+          "feedback": "No, eso se hace al terminar."
+        },
+        {
+          "letter": "B",
+          "text": "Imaginar los personajes y el lugar donde ocurrirá la historia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La planeación es el primer paso para una buena historia."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer un dibujo muy grande y pintarlo.",
+          "is_correct": false,
+          "feedback": "Puede ayudar, pero no es la planeación de la escritura."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar todo lo que pienses.",
+          "is_correct": false,
+          "feedback": "¡Al contrario! Debes atrapar todas tus ideas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La planeación textual permite organizar las ideas y dar coherencia al relato antes de la redacción.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v2",
+      "statement": "¿Cuál es la función del título en un cuento corto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocupar espacio en la hoja.",
+          "is_correct": false,
+          "feedback": "No es su función."
+        },
+        {
+          "letter": "B",
+          "text": "Atraer la atención del lector y darle una idea de qué trata la historia.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El título es la puerta de entrada al cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Decir quién es el autor de la historia.",
+          "is_correct": false,
+          "feedback": "El autor suele ir debajo del título o al final."
+        },
+        {
+          "letter": "D",
+          "text": "Enumerar las páginas del libro.",
+          "is_correct": false,
+          "feedback": "No, esa es la numeración o paginación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un título sugerente despierta la curiosidad y anticipa el tema o el género del relato.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v3",
+      "statement": "¿Cuál de estas frases es la más común para iniciar la narración en un cuento infantil?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Y así vivieron felices...",
+          "is_correct": false,
+          "feedback": "Esto se usa para el final."
+        },
+        {
+          "letter": "B",
+          "text": "Querido diario:",
+          "is_correct": false,
+          "feedback": "Se usa para escribir un diario personal."
+        },
+        {
+          "letter": "C",
+          "text": "Había una vez...",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es la frase clásica para abrir un mundo de fantasía."
+        },
+        {
+          "letter": "D",
+          "text": "Se vende esta casa.",
+          "is_correct": false,
+          "feedback": "Esto es un aviso publicitario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fórmulas de inicio tradicionales ayudan a establecer rápidamente el pacto de ficción con el lector.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v4",
+      "statement": "¿Qué elemento no puede faltar en el **nudo** de tu cuento para que sea emocionante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de los zapatos del protagonista.",
+          "is_correct": false,
+          "feedback": "Es un detalle, pero no crea emoción por sí solo."
+        },
+        {
+          "letter": "B",
+          "text": "Un problema o desafío que el personaje deba resolver.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin conflicto no hay aventura."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de todos los amigos del personaje.",
+          "is_correct": false,
+          "feedback": "No es necesario para que sea emocionante."
+        },
+        {
+          "letter": "D",
+          "text": "Muchos puntos y comas.",
+          "is_correct": false,
+          "feedback": "La puntuación ayuda a leer, pero la emoción viene de la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto es el motor de la narración; es lo que motiva las acciones de los personajes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v5",
+      "statement": "Si tu protagonista es una hormiga muy trabajadora, ¿qué adjetivos usarías para describirla mejor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gigante y perezosa.",
+          "is_correct": false,
+          "feedback": "No concuerda con la realidad de las hormigas ni con el carácter \"trabajadora\"."
+        },
+        {
+          "letter": "B",
+          "text": "Pequeña, rápida y constante.",
+          "is_correct": true,
+          "feedback": "¡Así es! Son adjetivos que describen sus rasgos físicos y su forma de ser."
+        },
+        {
+          "letter": "C",
+          "text": "Azul y muy lenta.",
+          "is_correct": false,
+          "feedback": "No es lo común en las hormigas ni en alguien trabajador."
+        },
+        {
+          "letter": "D",
+          "text": "Enojada y gritona.",
+          "is_correct": false,
+          "feedback": "No describe la cualidad de ser trabajadora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción del personaje debe ser coherente con su rol y sus acciones en la historia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v6",
+      "statement": "¿Cuál de estos finales es el más adecuado para un cuento infantil con desenlace feliz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño nunca volvió a ver a sus padres y lloró mucho.",
+          "is_correct": false,
+          "feedback": "Es un final muy triste y no resuelve el problema positivamente."
+        },
+        {
+          "letter": "B",
+          "text": "Finalmente, un guardia ayudó al niño a encontrar a su mamá y se dieron un gran abrazo.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Se resuelve el conflicto y termina con una emoción positiva."
+        },
+        {
+          "letter": "C",
+          "text": "El centro comercial cerró y el niño se quedó encerrado allí.",
+          "is_correct": false,
+          "feedback": "Es un final abierto que puede causar angustia."
+        },
+        {
+          "letter": "D",
+          "text": "De repente, empezó a llover muy fuerte afuera.",
+          "is_correct": false,
+          "feedback": "Esto no resuelve el problema de estar perdido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desenlace debe estar vinculado directamente con la resolución del conflicto planteado en el nudo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v7",
+      "statement": "¿Cómo puedes mostrar lo que dicen tus personajes en el cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haciendo un dibujo de sus bocas abiertas.",
+          "is_correct": false,
+          "feedback": "El dibujo acompaña, pero el texto debe mostrar el diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Escribiendo todo en secreto.",
+          "is_correct": false,
+          "feedback": "El lector debe poder leerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Usando guiones largos (—) para indicar que alguien está hablando.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El guion de diálogo es la señal para el lector."
+        },
+        {
+          "letter": "D",
+          "text": "No poner nada, el lector debe adivinar.",
+          "is_correct": false,
+          "feedback": "El escritor debe dar las pistas claras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de los signos de puntuación específicos (guiones o comillas) es fundamental para distinguir las voces de los personajes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v8",
+      "statement": "¿Qué debes revisar después de terminar de escribir el borrador de tu cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo si el dibujo quedó bonito.",
+          "is_correct": false,
+          "feedback": "La revisión del texto es lo más importante."
+        },
+        {
+          "letter": "B",
+          "text": "Que las oraciones se entiendan bien, que no falten puntos y que las mayúsculas estén correctas.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La revisión es parte esencial del proceso de escritura."
+        },
+        {
+          "letter": "C",
+          "text": "Nada, el primer borrador siempre es el que se entrega.",
+          "is_correct": false,
+          "feedback": "Todos los escritores revisan y mejoran sus textos."
+        },
+        {
+          "letter": "D",
+          "text": "Si el papel huele rico.",
+          "is_correct": false,
+          "feedback": "No tiene importancia para la calidad de la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escritura es un proceso recursivo que incluye planear, redactar, revisar y corregir.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v9",
+      "statement": "¿Qué hace que un cuento corto sea \"original\" y creativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar exactamente la historia de una película famosa.",
+          "is_correct": false,
+          "feedback": "Eso es una copia, no es original."
+        },
+        {
+          "letter": "B",
+          "text": "Ponerle ideas propias, personajes diferentes y situaciones inesperadas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La creatividad nace de usar nuestra propia imaginación."
+        },
+        {
+          "letter": "C",
+          "text": "Escribirlo con una letra muy difícil de leer.",
+          "is_correct": false,
+          "feedback": "Eso solo hace que sea difícil de entender, no más creativo."
+        },
+        {
+          "letter": "D",
+          "text": "Que no tenga sentido nada de lo que pasa.",
+          "is_correct": false,
+          "feedback": "El cuento debe tener sentido aunque sea fantástico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La originalidad consiste en dar una visión personal a temas universales a través de la imaginación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-v10",
+      "statement": "¿Cuál sería un buen título para esta historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gato que duerme mucho.",
+          "is_correct": false,
+          "feedback": "No se relaciona con su deseo de ser chef."
+        },
+        {
+          "letter": "B",
+          "text": "Los ingredientes de la torta.",
+          "is_correct": false,
+          "feedback": "Es un título para una receta, no para un cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Michi y el secreto de los pasteles mágicos.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Sugiere un protagonista (Michi) y un tema emocionante."
+        },
+        {
+          "letter": "D",
+          "text": "Tarea de Lengua Castellana.",
+          "is_correct": false,
+          "feedback": "Ese es el nombre de la actividad, no el título del cuento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El título creativo debe sintetizar la esencia de la historia o del personaje principal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W19-produccion-escrita-cuento-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-24-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.064Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman las partículas que se añaden **al principio** de una palabra para cambiar su significado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sufijos.",
+          "is_correct": false,
+          "feedback": "Los sufijos se añaden al final."
+        },
+        {
+          "letter": "B",
+          "text": "Prefijos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Pre\" significa antes."
+        },
+        {
+          "letter": "C",
+          "text": "Raíces.",
+          "is_correct": false,
+          "feedback": "La raíz es la parte base de la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Tildes.",
+          "is_correct": false,
+          "feedback": "La tilde es un signo ortográfico de acento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los prefijos son afijos que se anteponen a la raíz o lexema para formar palabras derivadas con nuevos significados.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v2",
+      "statement": "¿Cómo se llaman las partículas que se añaden **al final** de una palabra para formar otra nueva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prefijos.",
+          "is_correct": false,
+          "feedback": "Los prefijos van al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Sufijos.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Se agregan después de la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "Comas.",
+          "is_correct": false,
+          "feedback": "La coma es un signo de puntuación."
+        },
+        {
+          "letter": "D",
+          "text": "Artículos.",
+          "is_correct": false,
+          "feedback": "Los artículos son palabras independientes que van antes del sustantivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sufijos permiten crear sustantivos, adjetivos o verbos a partir de otras palabras base.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v3",
+      "statement": "Si el prefijo **\"des-\"** significa lo contrario o la negación de algo, ¿qué significa la palabra **\"desorden\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo está muy bien puesto.",
+          "is_correct": false,
+          "feedback": "Eso sería orden."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de orden o lo contrario al orden.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El prefijo invierte el sentido de la palabra base."
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de comida colombiana.",
+          "is_correct": false,
+          "feedback": "No tiene relación con la alimentación."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre de un niño muy juicioso.",
+          "is_correct": false,
+          "feedback": "No, se refiere al estado de las cosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el valor semántico de los prefijos facilita la comprensión de palabras desconocidas que los contengan.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v4",
+      "statement": "Muchos sufijos como **\"-ero\"** indican una profesión u oficio. ¿Cuál de estas palabras indica una persona que tiene un oficio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Florero.",
+          "is_correct": false,
+          "feedback": "Aquí indica el objeto donde se ponen flores."
+        },
+        {
+          "letter": "B",
+          "text": "Panadero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la persona que hace o vende pan."
+        },
+        {
+          "letter": "C",
+          "text": "Salero.",
+          "is_correct": false,
+          "feedback": "Es el objeto para la sal."
+        },
+        {
+          "letter": "D",
+          "text": "Perro.",
+          "is_correct": false,
+          "feedback": "Es una palabra simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un mismo sufijo puede tener diferentes funciones (lugar, objeto, oficio) según la raíz a la que se una.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v5",
+      "statement": "El prefijo **\"sub-\"** significa \"debajo de\". ¿Qué palabra significa un tren que va por debajo de la tierra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Supertren.",
+          "is_correct": false,
+          "feedback": "Significa un tren muy grande o superior."
+        },
+        {
+          "letter": "B",
+          "text": "Subterráneo o Subte.",
+          "is_correct": true,
+          "feedback": "¡Así es! \"Sub\" (debajo) + \"terra\" (tierra)."
+        },
+        {
+          "letter": "C",
+          "text": "Pantano.",
+          "is_correct": false,
+          "feedback": "No tiene prefijo sub-."
+        },
+        {
+          "letter": "D",
+          "text": "Avión.",
+          "is_correct": false,
+          "feedback": "El avión va por arriba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La etimología y el análisis de prefijos ayudan a entender términos tecnológicos y de infraestructura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v6",
+      "statement": "En la frase \"El nevado es **hermosísimo**\", ¿qué función cumple el sufijo resaltado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que el nevado es pequeño.",
+          "is_correct": false,
+          "feedback": "Eso sería \"hermosito\"."
+        },
+        {
+          "letter": "B",
+          "text": "Indica un grado máximo o muy alto de la cualidad (superlativo).",
+          "is_correct": true,
+          "feedback": "¡Exacto! Significa \"muy pero muy hermoso\"."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el nevado es feo.",
+          "is_correct": false,
+          "feedback": "No cambia el sentido a lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que hay muchos nevados.",
+          "is_correct": false,
+          "feedback": "El plural se marca con \"s\", no con \"-ísimo\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sufijos derivativos también sirven para expresar intensidad o afectividad en los adjetivos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v7",
+      "statement": "¿Cuál es la palabra que usa un prefijo para decir que algo tiene **muchos** colores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bicolor.",
+          "is_correct": false,
+          "feedback": "Significa dos colores."
+        },
+        {
+          "letter": "B",
+          "text": "Unicolor.",
+          "is_correct": false,
+          "feedback": "Significa un solo color."
+        },
+        {
+          "letter": "C",
+          "text": "Multicolores o Policromado.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! \"Multi\" y \"Poli\" significan muchos."
+        },
+        {
+          "letter": "D",
+          "text": "Sincolor.",
+          "is_correct": false,
+          "feedback": "Indica falta de color."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los prefijos numerales o de cantidad permiten categorizar objetos según sus propiedades numéricas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v8",
+      "statement": "¿Cuál es la **palabra primitiva** de la que nacen: **relojero, relojería, relojito**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiempo.",
+          "is_correct": false,
+          "feedback": "Es un significado relacionado, pero no la raíz física de la palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Reloj.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la palabra base que no viene de ninguna otra."
+        },
+        {
+          "letter": "C",
+          "text": "Arena.",
+          "is_correct": false,
+          "feedback": "Solo se relaciona con los relojes antiguos."
+        },
+        {
+          "letter": "D",
+          "text": "Relojería.",
+          "is_correct": false,
+          "feedback": "Esta es una palabra derivada, no la primitiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda familia de palabras con prefijos y sufijos tiene como origen una palabra simple o primitiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v9",
+      "statement": "¿Qué ocurre con la palabra **\"feliz\"** cuando le añadimos el sufijo **\"-mente\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se escribe \"felismente\" con s.",
+          "is_correct": false,
+          "feedback": "No, se debe respetar la letra de la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "Se escribe \"felizmente\" conservando la z de la raíz.",
+          "is_correct": true,
+          "feedback": "¡Excelente! En este caso la z se mantiene antes de la m."
+        },
+        {
+          "letter": "C",
+          "text": "Se le quita la z.",
+          "is_correct": false,
+          "feedback": "Quedaría incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia a \"felicemente\".",
+          "is_correct": false,
+          "feedback": "No es correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al añadir afijos, es vital mantener la coherencia ortográfica de la raíz de la palabra original.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-v10",
+      "statement": "Usando prefijos y sufijos, ¿cuál sería el nombre más creativo y correcto para tu invento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aburrimiento no.",
+          "is_correct": false,
+          "feedback": "Es una frase, no una palabra nueva."
+        },
+        {
+          "letter": "B",
+          "text": "Divertido máquina.",
+          "is_correct": false,
+          "feedback": "No es una formación morfológica."
+        },
+        {
+          "letter": "C",
+          "text": "Desaburridor o Antiaburrimiento.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Usas prefijos (des-, anti-) y sufijos (-dor) de forma lógica."
+        },
+        {
+          "letter": "D",
+          "text": "Aburrido.",
+          "is_correct": false,
+          "feedback": "Es la palabra original, no el nombre del invento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de los mecanismos de formación de palabras permite al estudiante jugar con el lenguaje y crear significados potentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W24-prefijos-sufijos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-18-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.030Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de una carta personal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vender un producto a muchas personas.",
+          "is_correct": false,
+          "feedback": "No, eso es publicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Comunicarse con alguien lejano para contarle noticias o sentimientos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un medio de comunicación directo entre dos personas."
+        },
+        {
+          "letter": "C",
+          "text": "Dar instrucciones de cómo usar un televisor.",
+          "is_correct": false,
+          "feedback": "No, eso es un manual."
+        },
+        {
+          "letter": "D",
+          "text": "Contar una historia de fantasía con dragones.",
+          "is_correct": false,
+          "feedback": "No, eso es un cuento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La carta es un texto informativo y personal que permite acortar distancias entre las personas.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v2",
+      "statement": "¿Qué es lo primero que se debe escribir en una carta, generalmente en la parte superior derecha?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El saludo.",
+          "is_correct": false,
+          "feedback": "El saludo va después."
+        },
+        {
+          "letter": "B",
+          "text": "Lugar y fecha.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Indica desde dónde y cuándo se escribe."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de quien recibe la carta.",
+          "is_correct": false,
+          "feedback": "Eso es parte del saludo o destinatario."
+        },
+        {
+          "letter": "D",
+          "text": "La despedida.",
+          "is_correct": false,
+          "feedback": "La despedida va al final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fecha y el lugar sitúan al lector en el contexto temporal y geográfico del emisor.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v3",
+      "statement": "\"Querido tío Jorge:\". ¿A qué parte de la carta pertenece esta frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despedida",
+          "is_correct": false,
+          "feedback": "No se está despidiendo."
+        },
+        {
+          "letter": "B",
+          "text": "Saludo",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es la forma amable de empezar a dirigirse a la persona."
+        },
+        {
+          "letter": "C",
+          "text": "Cuerpo de la carta",
+          "is_correct": false,
+          "feedback": "El cuerpo es el mensaje largo que viene después."
+        },
+        {
+          "letter": "D",
+          "text": "Firma",
+          "is_correct": false,
+          "feedback": "La firma es el nombre de quien escribe, al final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El saludo establece el tono de la relación (formal o informal) entre el remitente y el destinatario.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v4",
+      "statement": "¿Cómo se llama la parte de la carta donde escribimos todo lo que queremos contar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Título",
+          "is_correct": false,
+          "feedback": "Las cartas personales no suelen llevar título."
+        },
+        {
+          "letter": "B",
+          "text": "Firma",
+          "is_correct": false,
+          "feedback": "La firma solo lleva el nombre."
+        },
+        {
+          "letter": "C",
+          "text": "Cuerpo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el contenido principal del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Posdata",
+          "is_correct": false,
+          "feedback": "La posdata es un mensaje corto al final de todo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuerpo de la carta es donde se desarrolla la intención comunicativa del texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v5",
+      "statement": "¿Cómo se llama la persona a la que va dirigida la carta (quien la recibe)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remitente",
+          "is_correct": false,
+          "feedback": "El remitente es quien escribe y envía la carta."
+        },
+        {
+          "letter": "B",
+          "text": "Destinatario",
+          "is_correct": true,
+          "feedback": "¡Así es! Es el destino final de la carta."
+        },
+        {
+          "letter": "C",
+          "text": "Cartero",
+          "is_correct": false,
+          "feedback": "El cartero es quien la transporta."
+        },
+        {
+          "letter": "D",
+          "text": "Autor",
+          "is_correct": false,
+          "feedback": "Es sinónimo de remitente en este caso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es fundamental diferenciar entre los roles de la comunicación escrita para organizar bien la información.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v6",
+      "statement": "Si le escribes una carta al director de tu colegio, ¿cuál sería la despedida más apropiada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chao, nos vemos.",
+          "is_correct": false,
+          "feedback": "Es demasiado informal para un director."
+        },
+        {
+          "letter": "B",
+          "text": "Te quiero mucho, besitos.",
+          "is_correct": false,
+          "feedback": "Es una despedida afectuosa para familiares o amigos íntimos."
+        },
+        {
+          "letter": "C",
+          "text": "Atentamente, (tu nombre).",
+          "is_correct": true,
+          "feedback": "¡Exacto! \"Atentamente\" o \"Cordialmente\" son despedidas formales y respetuosas."
+        },
+        {
+          "letter": "D",
+          "text": "Un abrazo de oso.",
+          "is_correct": false,
+          "feedback": "Es muy informal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje de la carta debe ajustarse al nivel de confianza y al cargo de la persona que la recibe.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v7",
+      "statement": "¿Para qué sirve la **P.D.** (Posdata) al final de una carta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para poner la fecha si se nos olvidó al principio.",
+          "is_correct": false,
+          "feedback": "La fecha siempre debe ir arriba."
+        },
+        {
+          "letter": "B",
+          "text": "Para añadir algo importante que se nos olvidó escribir en el cuerpo.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es una nota adicional después de la firma."
+        },
+        {
+          "letter": "C",
+          "text": "Para dibujar algo bonito.",
+          "is_correct": false,
+          "feedback": "No es su función principal."
+        },
+        {
+          "letter": "D",
+          "text": "Para escribir la dirección de la casa.",
+          "is_correct": false,
+          "feedback": "La dirección va en el sobre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posdata es un recurso útil en la escritura manuscrita para evitar tachones o tener que repetir toda la carta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v8",
+      "statement": "¿Qué información debe ir OBLIGATORIAMENTE en el sobre de la carta para que llegue a su destino?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color favorito del destinatario.",
+          "is_correct": false,
+          "feedback": "No ayuda al cartero."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre completo y la dirección exacta (ciudad, barrio, calle).",
+          "is_correct": true,
+          "feedback": "¡Excelente! Sin estos datos la carta se perdería."
+        },
+        {
+          "letter": "C",
+          "text": "Una foto de quien escribe la carta.",
+          "is_correct": false,
+          "feedback": "No es obligatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Un chiste gracioso para el cartero.",
+          "is_correct": false,
+          "feedback": "No es necesario para el envío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La precisión en los datos de envío es vital para el funcionamiento del servicio postal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v9",
+      "statement": "¿Cuál es una ventaja de la carta escrita a mano frente al correo electrónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que llega mucho más rápido.",
+          "is_correct": false,
+          "feedback": "Al contrario, el e-mail es instantáneo."
+        },
+        {
+          "letter": "B",
+          "text": "Que es más barata porque no gasta papel.",
+          "is_correct": false,
+          "feedback": "La carta sí gasta papel y tinta."
+        },
+        {
+          "letter": "C",
+          "text": "Que se siente más personal y especial para quien la recibe.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El esfuerzo de escribir a mano demuestra mucho cariño e interés."
+        },
+        {
+          "letter": "D",
+          "text": "Que nunca se puede perder.",
+          "is_correct": false,
+          "feedback": "Las cartas físicas se pueden extraviar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque existan medios digitales, la carta manuscrita conserva un valor sentimental y cultural importante.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases sería la mejor para iniciar el **cuerpo** de tu carta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chao, espero que vengas pronto.",
+          "is_correct": false,
+          "feedback": "Esto es una despedida."
+        },
+        {
+          "letter": "B",
+          "text": "Te escribo porque me gustaría mucho que vinieras a visitarme a la playa en diciembre.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Expresa claramente el motivo de la carta desde el inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Mi mamá compró pescado hoy en el mercado.",
+          "is_correct": false,
+          "feedback": "Puede ser un detalle, pero no es el inicio ideal para una invitación."
+        },
+        {
+          "letter": "D",
+          "text": "Cartagena, 15 de noviembre de 2026.",
+          "is_correct": false,
+          "feedback": "Esto es la fecha y el lugar, no el cuerpo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Iniciar el cuerpo de la carta con el motivo principal ayuda a que el destinatario entienda rápidamente el mensaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W18-produccion-escrita-carta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

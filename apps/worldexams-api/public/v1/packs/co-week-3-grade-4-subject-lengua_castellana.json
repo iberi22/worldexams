@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-3-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.048Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v1",
+      "statement": "¿Qué es un párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sola palabra que rima con otra.",
+          "is_correct": false,
+          "feedback": "Eso es un verso o rima."
+        },
+        {
+          "letter": "B",
+          "text": "Un conjunto de oraciones que tratan sobre un mismo tema o idea central.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El párrafo es la unidad de sentido que desarrolla una idea."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la persona que escribe el libro.",
+          "is_correct": false,
+          "feedback": "Ese es el autor."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de ingredientes para una receta.",
+          "is_correct": false,
+          "feedback": "Puede serlo, pero no es la definición general de párrafo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El párrafo es una estructura textual que agrupa oraciones relacionadas para desarrollar un aspecto específico de un tema.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v2",
+      "statement": "¿Cómo podemos reconocer visualmente dónde termina un párrafo y empieza otro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hay un dibujo en medio.",
+          "is_correct": false,
+          "feedback": "No siempre hay dibujos entre párrafos."
+        },
+        {
+          "letter": "B",
+          "text": "Por el uso del punto y aparte y el inicio en un nuevo renglón.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Son las marcas gráficas fundamentales del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el tipo de letra cambia de color.",
+          "is_correct": false,
+          "feedback": "El color no define la estructura de los párrafos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se acaba la página.",
+          "is_correct": false,
+          "feedback": "Un párrafo puede continuar en la siguiente página."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puntuación (punto y aparte) y el sangrado o espacio entre bloques son las señales que organizan visualmente el texto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v3",
+      "statement": "¿Qué función cumple la **idea principal** dentro de un párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar ejemplos muy largos para que el texto se vea bien.",
+          "is_correct": false,
+          "feedback": "Esa es función de las ideas secundarias."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar la información más importante sin la cual el párrafo no tendría sentido.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es el núcleo informativo del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar qué día se escribió el texto.",
+          "is_correct": false,
+          "feedback": "Eso es parte de la fecha o encabezado."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir el título muchas veces.",
+          "is_correct": false,
+          "feedback": "No es necesario repetir el título dentro de cada párrafo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal sintetiza el contenido esencial; las demás oraciones giran en torno a ella para ampliarla o aclararla.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v4",
+      "statement": "¿Para qué sirven las ideas secundarias en un párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para confundir al lector con muchas palabras.",
+          "is_correct": false,
+          "feedback": "Al contrario, su objetivo es dar claridad."
+        },
+        {
+          "letter": "B",
+          "text": "Para explicar, dar ejemplos o ampliar la idea principal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Complementan y dan cuerpo a la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "Para contar un chiste antes de terminar.",
+          "is_correct": false,
+          "feedback": "No es su función académica."
+        },
+        {
+          "letter": "D",
+          "text": "Solo para que el párrafo se vea más cuadrado.",
+          "is_correct": false,
+          "feedback": "Tienen una función de contenido, no solo estética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ideas secundarias proporcionan el soporte y los detalles necesarios para la comprensión profunda del tema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v5",
+      "statement": "¿Cuál de estos conectores usarías para añadir información en un párrafo?\n\"El Quindío tiene hermosos paisajes, __________ es famoso por su café\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pero",
+          "is_correct": false,
+          "feedback": "Se usa para contrastar o contradecir."
+        },
+        {
+          "letter": "B",
+          "text": "Además",
+          "is_correct": true,
+          "feedback": "¡Así es! Es un conector de adición que permite agregar datos."
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Indica oposición."
+        },
+        {
+          "letter": "D",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Indica oposición total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores son palabras que establecen relaciones lógicas entre las oraciones de un párrafo, garantizando la cohesión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v6",
+      "statement": "\"Los ciclistas colombianos son reconocidos en todo el mundo. Han ganado las carreras más importantes en Europa. Gracias a su esfuerzo en las montañas, dejan el nombre del país en alto\".\n¿Cuál es la idea principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reconocimiento mundial de los ciclistas colombianos.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Es la idea general que resumen todas las oraciones."
+        },
+        {
+          "letter": "B",
+          "text": "Que las carreras son en Europa.",
+          "is_correct": false,
+          "feedback": "Es un detalle secundario de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el ciclismo se practica en montañas.",
+          "is_correct": false,
+          "feedback": "Es un detalle descriptivo del entrenamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Que los ciclistas son personas muy altas.",
+          "is_correct": false,
+          "feedback": "El texto no menciona la estatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal suele aparecer al principio del párrafo como una afirmación general que luego se sustenta con hechos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v7",
+      "statement": "¿Cuál es el orden más lógico para estas oraciones en un párrafo?\n1. Por eso, debemos comer frutas todos los días.\n2. Las frutas nos aportan vitaminas esenciales.\n3. Una buena alimentación es clave para la salud.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 3.",
+          "is_correct": false,
+          "feedback": "Empezar con \"Por eso\" sin contexto es confuso."
+        },
+        {
+          "letter": "B",
+          "text": "2, 1, 3.",
+          "is_correct": false,
+          "feedback": "No tiene una secuencia lógica de lo general a lo particular."
+        },
+        {
+          "letter": "C",
+          "text": "3, 2, 1.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Va de la idea general (salud) al ejemplo (frutas) y luego a la conclusión (por eso)."
+        },
+        {
+          "letter": "D",
+          "text": "3, 1, 2.",
+          "is_correct": false,
+          "feedback": "La conclusión (1) queda en medio de la explicación (2)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia textual se logra organizando las oraciones de forma que el pensamiento avance con claridad para el lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v8",
+      "statement": "¿Cuál de estas oraciones NO debería estar en un párrafo sobre los delfines rosados del Amazonas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estos delfines viven en las aguas dulces del río.",
+          "is_correct": false,
+          "feedback": "Está bien, habla del hábitat."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen un color rosado único que los hace especiales.",
+          "is_correct": false,
+          "feedback": "Está bien, habla de su apariencia."
+        },
+        {
+          "letter": "C",
+          "text": "Los computadores son herramientas muy útiles para estudiar.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Esta oración rompe la unidad temática del párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Se encuentran en peligro debido a la contaminación ambiental.",
+          "is_correct": false,
+          "feedback": "Está bien, habla de su situación actual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un párrafo debe mantener la **unidad temática**; todas sus oraciones deben referirse al mismo tema central.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v9",
+      "statement": "¿Por qué el siguiente párrafo es de MALA calidad?\n\"Cartagena es bonita. El mar es azul. Hace calor siempre. Los turistas vienen mucho. La comida es rica.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque habla de Cartagena.",
+          "is_correct": false,
+          "feedback": "Ese es el tema, está bien."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las oraciones son muy largas.",
+          "is_correct": false,
+          "feedback": "Al contrario, son demasiado cortas y simples."
+        },
+        {
+          "letter": "C",
+          "text": "Porque parece una lista de frases sueltas y no usa conectores para unirlas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Le falta fluidez y conexión entre las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene ningún error de ortografía.",
+          "is_correct": false,
+          "feedback": "La buena ortografía no compensa la mala redacción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La redacción de párrafos requiere integrar las oraciones mediante el uso de pausas y enlaces lógicos, no solo listarlas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-v10",
+      "statement": "¿Cuál sería la mejor oración para iniciar tu párrafo y presentar el tema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cohete era de color blanco brillante.",
+          "is_correct": false,
+          "feedback": "Es un detalle descriptivo, no presenta el tema general del viaje."
+        },
+        {
+          "letter": "B",
+          "text": "Desde que era un niño, mi sueño siempre fue viajar a la Luna y explorar sus cráteres.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Presenta al protagonista, el lugar y la motivación de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Finalmente, las estrellas se veían muy grandes.",
+          "is_correct": false,
+          "feedback": "Es una oración de cierre o de mitad de historia."
+        },
+        {
+          "letter": "D",
+          "text": "La Luna no es de queso.",
+          "is_correct": false,
+          "feedback": "Es una curiosidad, pero no un buen inicio para una narración de viaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oración inicial (o introductoria) de un párrafo narrativo debe captar el interés y establecer el marco de la acción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W03-escritura-parrafos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

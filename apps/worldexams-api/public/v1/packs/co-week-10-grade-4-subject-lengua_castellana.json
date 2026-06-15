@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.053Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v1",
+      "statement": "¿Qué objeto usan los niños como portería según el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unos palos de madera.",
+          "is_correct": false,
+          "feedback": "No es lo que menciona el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Dos piedras.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un dato literal que aparece en el primer párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Sus propias maletas.",
+          "is_correct": false,
+          "feedback": "No se mencionan maletas."
+        },
+        {
+          "letter": "D",
+          "text": "Arcos de metal.",
+          "is_correct": false,
+          "feedback": "No, usan piedras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el nivel es crítico, identificar datos básicos es el cimiento para cualquier análisis posterior.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v2",
+      "statement": "¿Cuál es el tema principal que plantea el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las reglas del fútbol profesional.",
+          "is_correct": false,
+          "feedback": "El texto no habla de reglas profesionales."
+        },
+        {
+          "letter": "B",
+          "text": "La situación del juego infantil en las calles y la necesidad de espacios seguros.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El autor reflexiona sobre dónde juegan los niños y el impacto en la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "El ruido que hacen los niños en Bogotá.",
+          "is_correct": false,
+          "feedback": "El ruido es solo una parte de la queja de algunos adultos, no el tema central."
+        },
+        {
+          "letter": "D",
+          "text": "Cómo construir porterías con piedras.",
+          "is_correct": false,
+          "feedback": "No es un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar el tema central permite al lector crítico entender la base de la discusión planteada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v3",
+      "statement": "¿Qué intención tiene el autor al preguntar: \"¿Es la calle un lugar seguro para jugar hoy en día?\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quiere que el lector le dé la dirección de una calle.",
+          "is_correct": false,
+          "feedback": "No es una pregunta informativa de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Quiere hacer reflexionar al lector sobre los peligros actuales de la ciudad.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es una pregunta retórica para invitar al pensamiento crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Está preguntando porque él no vive en Colombia.",
+          "is_correct": false,
+          "feedback": "No hay indicios de que el autor sea extranjero."
+        },
+        {
+          "letter": "D",
+          "text": "Quiere saber si el fútbol es peligroso.",
+          "is_correct": false,
+          "feedback": "La pregunta es sobre el lugar (la calle), no sobre el deporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preguntas dentro de un texto suelen ser estrategias para involucrar emocional e intelectualmente al lector.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v4",
+      "statement": "El texto menciona a dos tipos de adultos con opiniones diferentes. ¿Cuál es el conflicto entre ellos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que unos quieren jugar fútbol y otros no.",
+          "is_correct": false,
+          "feedback": "Los adultos no son los que juegan en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Unos ven el juego como una molestia (ruido) y otros como un recuerdo valioso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor muestra dos formas de percibir la misma situación."
+        },
+        {
+          "letter": "C",
+          "text": "Que unos tienen carro y otros no.",
+          "is_correct": false,
+          "feedback": "El texto menciona los carros al final, pero no como conflicto entre adultos."
+        },
+        {
+          "letter": "D",
+          "text": "Que unos viven en el primer piso y otros en el segundo.",
+          "is_correct": false,
+          "feedback": "No se especifica dónde viven."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de perspectivas opuestas es una habilidad fundamental del pensamiento crítico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v5",
+      "statement": "¿Cuál es la opinión del autor respecto a la solución del problema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los niños dejen de jugar para siempre.",
+          "is_correct": false,
+          "feedback": "Al contrario, el autor defiende la alegría de los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Que los adultos se pongan tapones en los oídos.",
+          "is_correct": false,
+          "feedback": "No propone eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que se deben crear más parques y reducir el tráfico de carros.",
+          "is_correct": true,
+          "feedback": "¡Así es! El autor propone mejorar el espacio urbano para el bienestar infantil."
+        },
+        {
+          "letter": "D",
+          "text": "Que los niños deben comprar porterías de verdad.",
+          "is_correct": false,
+          "feedback": "No menciona la compra de equipos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión crítica implica identificar las propuestas o tesis que el autor defiende en su escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v6",
+      "statement": "¿Por qué el autor usa la expresión \"la alegría de los niños\" en lugar de decir simplemente \"el ruido de los niños\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se equivocó de palabra.",
+          "is_correct": false,
+          "feedback": "Es una elección deliberada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque quiere mostrar el lado positivo y vital del juego.",
+          "is_correct": true,
+          "feedback": "¡Exacto! El lenguaje elegido revela que el autor está a favor de los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el ruido no es alegría.",
+          "is_correct": false,
+          "feedback": "Para el autor, en este contexto, sí lo es."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el texto rime mejor.",
+          "is_correct": false,
+          "feedback": "No es un poema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras no son neutras; la selección léxica del autor comunica su ideología o sentimiento hacia el tema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v7",
+      "statement": "Si en tu barrio pasara lo mismo que en el texto, ¿cuál sería la acción más coherente con la idea del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llamar a la policía para que los niños se vayan.",
+          "is_correct": false,
+          "feedback": "Esto iría en contra del espíritu del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar un carro nuevo y manejar por esa calle.",
+          "is_correct": false,
+          "feedback": "El autor dice que se necesitan menos carros."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir a la alcaldía que convierta un lote vacío en un parque seguro.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Esta acción busca solucionar la raíz del problema que plantea el autor."
+        },
+        {
+          "letter": "D",
+          "text": "Enojarse con los vecinos que sonríen.",
+          "is_correct": false,
+          "feedback": "No soluciona el problema de fondo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica debe llevar a la transferencia: aplicar lo comprendido a situaciones de la vida real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v8",
+      "statement": "¿A qué tipo de público crees que va dirigido principalmente este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo a los niños que juegan fútbol.",
+          "is_correct": false,
+          "feedback": "Ellos ya saben que juegan, el texto busca concientizar a otros."
+        },
+        {
+          "letter": "B",
+          "text": "A los adultos y autoridades de la ciudad.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Busca que quienes toman decisiones piensen en los espacios para la infancia."
+        },
+        {
+          "letter": "C",
+          "text": "A los fabricantes de balones.",
+          "is_correct": false,
+          "feedback": "No es un texto comercial."
+        },
+        {
+          "letter": "D",
+          "text": "A los científicos que estudian las piedras.",
+          "is_correct": false,
+          "feedback": "No es un texto científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todo texto se escribe pensando en un destinatario específico para lograr un efecto determinado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v9",
+      "statement": "Cuando el autor dice que algunos adultos \"se quejan por el ruido\", ¿qué nos está diciendo sobre la forma de pensar de esas personas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que son personas muy sabias.",
+          "is_correct": false,
+          "feedback": "El texto no las califica como sabias."
+        },
+        {
+          "letter": "B",
+          "text": "Que valoran más su tranquilidad individual que la recreación colectiva de los niños.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una interpretación crítica de la actitud descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Que tienen un oído muy sensible.",
+          "is_correct": false,
+          "feedback": "No se refiere a un problema médico, sino a una actitud social."
+        },
+        {
+          "letter": "D",
+          "text": "Que no saben hablar español.",
+          "is_correct": false,
+          "feedback": "No tiene relación con el tema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las conductas descritas permite entender los valores que entran en juego en una situación social.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-v10",
+      "statement": "¿Crees que el autor logra convencer al lector de que los niños necesitan mejores espacios? ¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque no dice cuánto cuesta hacer un parque.",
+          "is_correct": false,
+          "feedback": "El costo económico no es necesario para convencer sobre la importancia social."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque usa la emoción (recuerdos de infancia) y la lógica (peligro de los carros) para defender su punto.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Identificaste las dos grandes estrategias de persuasión del autor."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque no puso fotos de los niños.",
+          "is_correct": false,
+          "feedback": "Las palabras por sí solas pueden ser muy convincentes."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque el fútbol es el mejor deporte.",
+          "is_correct": false,
+          "feedback": "Es una opinión personal, no un análisis del texto del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la capacidad persuasiva de un texto requiere identificar los recursos retóricos y emocionales utilizados por el emisor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W10-comprension-critica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
