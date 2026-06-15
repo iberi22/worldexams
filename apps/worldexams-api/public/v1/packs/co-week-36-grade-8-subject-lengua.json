@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-36-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.738Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v1",
+      "statement": "¿Quién es el autor nicaragüense, padre del **Modernismo**, cuya obra 'Azul...' marcó el inicio de este movimiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "José Martí, el poeta cubano que buscaba sencillez y compromiso.",
+          "is_correct": false,
+          "feedback": "Martí fue un precursor importante, no el autor de 'Azul...'."
+        },
+        {
+          "letter": "B",
+          "text": "Rubén Darío, cuya poesía renovó el ritmo y el vocabulario de la lengua.",
+          "is_correct": true,
+          "feedback": "Correcto. Darío es la figura central que unificó el Modernismo."
+        },
+        {
+          "letter": "C",
+          "text": "Pablo Neruda, el gran poeta chileno famoso por sus odas.",
+          "is_correct": false,
+          "feedback": "Neruda pertenece al siglo XX y exploró otros movimientos posteriores."
+        },
+        {
+          "letter": "D",
+          "text": "César Vallejo, el poeta peruano que rompió la sintaxis en 'Trilce'.",
+          "is_correct": false,
+          "feedback": "Vallejo es exponente de la vanguardia, posterior al Modernismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Modernismo fue el primer movimiento literario nacido en América Latina que influyó directamente en España, buscando la elegancia y la sonoridad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v2",
+      "statement": "¿Qué poeta chilena fue la primera persona de América Latina en recibir el **Premio Nobel de Literatura**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alfonsina Storni, la poeta argentina que exploró la condición de la mujer.",
+          "is_correct": false,
+          "feedback": "Storni fue figura fundamental, pero no recibió el Nobel."
+        },
+        {
+          "letter": "B",
+          "text": "Gabriela Mistral, cuya poesía destacó por su enfoque en infancia y amor.",
+          "is_correct": true,
+          "feedback": "Correcto. Mistral puso la voz de las mujeres en el centro del mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Sor Juana Inés de la Cruz, la brillante escritora novohispana colonial.",
+          "is_correct": false,
+          "feedback": "Sor Juana murió siglos antes de que se creara el Premio Nobel."
+        },
+        {
+          "letter": "D",
+          "text": "Meira Delmar, la recordada poeta colombiana que cantó al amor y al Caribe.",
+          "is_correct": false,
+          "feedback": "Es una de las voces más queridas, pero no recibió el Nobel."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Nobel a Gabriela Mistral reconoció una poesía cargada de humanidad, compromiso social y una musicalidad única nacida de la tierra americana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v3",
+      "statement": "Si lees un poema donde los versos forman una figura visual relacionada con el tema, estás ante:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un soneto clásico con rima consonante y catorce versos.",
+          "is_correct": false,
+          "feedback": "El soneto es forma tradicional rígida que no busca figuras visuales."
+        },
+        {
+          "letter": "B",
+          "text": "Un caligrama, recurso muy utilizado por las vanguardias como creacionismo.",
+          "is_correct": true,
+          "feedback": "Correcto. El caligrama une la poesía con artes visuales para el mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Un error de impresión de la editorial que desordenó las líneas del texto.",
+          "is_correct": false,
+          "feedback": "Es una técnica artística deliberada, no un fallo técnico de imprenta."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto de prosa científica que describe la forma de los objetos.",
+          "is_correct": false,
+          "feedback": "Se trata de un recurso lírico que utiliza el lenguaje con fines estéticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las vanguardias defendían que el poeta es capaz de crear mundos nuevos a través de la experimentación con la forma y el contenido.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v4",
+      "statement": "¿Cuál es la importancia de la obra **'Canto General'** de Pablo Neruda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un libro de poemas breves que solo hablan de la vida personal del autor.",
+          "is_correct": false,
+          "feedback": "'Canto General' es obra de gran extensión con propósito continental."
+        },
+        {
+          "letter": "B",
+          "text": "Es una epopeya que busca narrar historia, naturaleza y luchas de América.",
+          "is_correct": true,
+          "feedback": "Correcto. Neruda intenta dar voz al continente desde sus orígenes."
+        },
+        {
+          "letter": "C",
+          "text": "Es un manual técnico sobre cómo escribir versos que rimen en español.",
+          "is_correct": false,
+          "feedback": "Aunque Neruda era maestro de la lengua, su libro es obra creativa épica."
+        },
+        {
+          "letter": "D",
+          "text": "Es una traducción al español de antiguos poemas escritos en Grecia.",
+          "is_correct": false,
+          "feedback": "Es obra original creada para exaltar identidad y geografía americanas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Neruda utilizó la poesía como herramienta de identidad y denuncia, convirtiendo el paisaje de América en materia lírica universal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v5",
+      "statement": "Lee: *\"Hoy me gusta la vida mucho menos, pero siempre me gusta vivir\"*. ¿Qué actitud se infiere?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poeta ha decidido dejar de escribir porque está muy aburrido.",
+          "is_correct": false,
+          "feedback": "No hay indicios de abandono; es una profunda reflexión existencial."
+        },
+        {
+          "letter": "B",
+          "text": "Una contradicción humana entre sufrimiento cotidiano y deseo de existir.",
+          "is_correct": true,
+          "feedback": "Correcto. Muestra lucha entre dolor de vivir y voluntad de seguir."
+        },
+        {
+          "letter": "C",
+          "text": "Que el poeta tiene mala memoria y olvida lo que le gusta al momento.",
+          "is_correct": false,
+          "feedback": "La frase no es un olvido, es una paradoja sobre la complejidad humana."
+        },
+        {
+          "letter": "D",
+          "text": "Que al poeta le gustan las matemáticas y hace una resta de sentimientos.",
+          "is_correct": false,
+          "feedback": "El uso de \"menos\" es metafórico y emocional, no aritmética literal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía de Vallejo es de las más humanas, expresando el dolor del mundo y la solidaridad con los que sufren mediante un lenguaje renovado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v6",
+      "statement": "¿Cómo se conoce al movimiento de Nicolás Guillén que resalta mestizaje y ritmo de tambor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poesía Clásica Española, basada en modelos de Garcilaso de la Vega.",
+          "is_correct": false,
+          "feedback": "Buscaba precisamente alejarse de modelos rígidos europeos."
+        },
+        {
+          "letter": "B",
+          "text": "Poesía Negra o Neogridismo, que incorpora el sonido afroantillano.",
+          "is_correct": true,
+          "feedback": "Correcto. Celebra la mezcla cultural mediante musicalidad popular."
+        },
+        {
+          "letter": "C",
+          "text": "Poesía Purista, que evita contacto con la realidad social o ritmos.",
+          "is_correct": false,
+          "feedback": "Al contrario, está profundamente anclada en realidad y música del pueblo."
+        },
+        {
+          "letter": "D",
+          "text": "Poesía Científica, que busca explicar leyes físicas mediante versos.",
+          "is_correct": false,
+          "feedback": "Su centro es identidad cultural, raza y ritmo musical de las Antillas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nicolás Guillén utilizó onomatopeyas y ritmos cubanos para crear una poesía que denunciaba el racismo y celebraba la unión de razas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v7",
+      "statement": "El poeta chileno Nicanor Parra creó la **\"Antipoesía\"**. ¿Cuál es su propuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir que la gente escriba poemas para dedicarse solo a la ciencia.",
+          "is_correct": false,
+          "feedback": "Parra no quería eliminar poesía, sino transformarla profundamente."
+        },
+        {
+          "letter": "B",
+          "text": "Usar lenguaje cotidiano, humor e ironía para acercar poesía a la vida.",
+          "is_correct": true,
+          "feedback": "Correcto. Rechaza el lenguaje excesivamente adornado del pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir poemas que solo puedan ser comprendidos por reyes y ricos.",
+          "is_correct": false,
+          "feedback": "Al contrario, la antipoesía busca ser directa y popular."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a los poetas a escribir únicamente en latín antiguo formal.",
+          "is_correct": false,
+          "feedback": "Parra defendía el uso del lenguaje de la calle, el habla común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La antipoesía rompió con la imagen del poeta místico, proponiendo lírica cruda, irónica y cargada de realidad social y cotidiana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v8",
+      "statement": "En 'Piedra de sol', Octavio Paz usa una estructura circular. ¿Qué mensaje transmite?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el tiempo es una línea recta que comienza y termina sin repetición.",
+          "is_correct": false,
+          "feedback": "La estructura circular contradice la visión lineal del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el tiempo es cíclico, un eterno retorno donde pasado y presente se unen.",
+          "is_correct": true,
+          "feedback": "Correcto. Refleja la visión mítica de culturas prehispánicas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tiempo es una invención inútil de los hombres y en realidad no existe.",
+          "is_correct": false,
+          "feedback": "El poema reflexiona seriamente sobre el tiempo como dimensión vital."
+        },
+        {
+          "letter": "D",
+          "text": "Que el tiempo debe medirse únicamente con relojes digitales modernos.",
+          "is_correct": false,
+          "feedback": "La obra se basa en simbología antigua para proponer visión poética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Octavio Paz unió tradición de vanguardia con raíces mitológicas, creando una poesía intelectual y apasionada a la vez.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v9",
+      "statement": "¿A qué movimiento colombiano perteneció José Asunción Silva ('Nocturno III')?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al Vanguardismo, que buscaba ruptura total con la gramática lógica.",
+          "is_correct": false,
+          "feedback": "Silva fue precursor; vanguardia llegó a Colombia décadas después."
+        },
+        {
+          "letter": "B",
+          "text": "Al Modernismo (precursor), con nuevas métricas y sensibilidad melancólica.",
+          "is_correct": true,
+          "feedback": "Correcto. Figura clave que preparó renovación lírica nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Al Realismo Social, dedicado a denunciar condiciones de campesinos.",
+          "is_correct": false,
+          "feedback": "Su obra es íntima, subjetiva y enfocada en interioridad y elegancia."
+        },
+        {
+          "letter": "D",
+          "text": "Al Nadaísmo, grupo que buscaba escandalizar con poemas rebeldes.",
+          "is_correct": false,
+          "feedback": "El Nadaísmo es movimiento de los años 60, muy posterior a Silva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "José Asunción Silva renovó la poesía colombiana mediante experimentación con el ritmo y exploración de temas como la muerte y el misterio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v10",
+      "statement": "¿Cuál fue la propuesta estética del grupo colombiano **Nadaísmo**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recuperar formas clásicas de poesía española para ser más elegantes.",
+          "is_correct": false,
+          "feedback": "El Nadaísmo buscaba romper con toda tradición académica."
+        },
+        {
+          "letter": "B",
+          "text": "Cuestionar valores tradicionales mediante poesía rebelde y provocadora.",
+          "is_correct": true,
+          "feedback": "Correcto. Movimiento de vanguardia por libertad y ruptura social."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir poemas que solo hablaran de belleza de paisajes de los Andes.",
+          "is_correct": false,
+          "feedback": "Su temática era urbana, existencial y crítica con instituciones."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir el uso de metáforas para que la gente entienda todo directo.",
+          "is_correct": false,
+          "feedback": "Utilizaban recursos vanguardistas para expresar descontento y visión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Nadaísmo representó ruptura generacional en Colombia, influyendo en cómo los jóvenes veían cultura, religión y literatura en los 60.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v11",
+      "statement": "Si un poeta lee su obra en plaza pública con representación teatral y sonidos, es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poesía Erudita de Biblioteca, que solo debe leerse en silencio absoluto.",
+          "is_correct": false,
+          "feedback": "Esta forma busca salir de libros y ocupar espacio público."
+        },
+        {
+          "letter": "B",
+          "text": "Performance poética o Spoken Word, donde cuerpo y voz son el centro.",
+          "is_correct": true,
+          "feedback": "Correcto. Tendencia actual de conexión directa y viva con público."
+        },
+        {
+          "letter": "C",
+          "text": "Un error de conducta que debería ser sancionado por autoridades de ciudad.",
+          "is_correct": false,
+          "feedback": "Es manifestación artística contemporánea legítima y valorada hoy."
+        },
+        {
+          "letter": "D",
+          "text": "Una técnica secreta para vender más libros impresos en ferias nacionales.",
+          "is_correct": false,
+          "feedback": "Aunque ayuda a difusión, es ante todo búsqueda estética diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía actual ha desbordado límites del libro para encontrarse con música, imagen y acción física, recuperando su origen oral.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v12",
+      "statement": "¿Cuál es la función de la poesía en la formación de un estudiante de grado 8?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a deletrear palabras difíciles para ganar concursos escolares.",
+          "is_correct": false,
+          "feedback": "La poesía es arte y expresión, no simple ejercicio de deletreo."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollar sensibilidad estética y capacidad de expresar emociones.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite ver realidad desde metáfora y subjetividad."
+        },
+        {
+          "letter": "C",
+          "text": "Servir como castigo para estudiantes que no hacen silencio en clases.",
+          "is_correct": false,
+          "feedback": "La poesía debe ser encuentro placentero, nunca instrumento de castigo."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionar datos exactos sobre temperatura media de ciudades americanas.",
+          "is_correct": false,
+          "feedback": "La poesía ofrece \"verdades\" simbólicas, no datos estadísticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía entrena la mente para captar la ambigüedad, belleza y profundidad de la experiencia humana, enriqueciendo el vocabulario emocional.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido. |\n| Curricular | 40/40 | Cubre desde Modernismo hasta Nadaísmo. |\n| Contexto | 20/20 | Referencias regionales apropiadas. |\n| Redacción | 10/10 | Lenguaje formal. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

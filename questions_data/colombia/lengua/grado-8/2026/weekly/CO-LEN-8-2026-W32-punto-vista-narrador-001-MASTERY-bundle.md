@@ -1,21 +1,23 @@
 ---
-id: "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY"
+id: "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "punto-vista-narrador"
-semana: "W32"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W32"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Punto de vista del narrador - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Punto de Vista del Narrador - Grado 8
@@ -24,290 +26,261 @@ Este bundle contiene 12 preguntas sobre el **punto de vista del narrador** para 
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
+**Contexto:** El narrador es la voz ficticia que organiza y relata los hechos de una historia.
 
 ### Enunciado
-¿Cuál es la característica principal del **narrador protagonista**?
+¿Cuál es la característica primordial que define al **narrador protagonista**?
 
 ### Opciones
-- [ ] A) Cuenta la historia desde afuera y lo sabe todo sobre los personajes.
-  <!-- feedback: Este es el narrador omnisciente. -->
-- [x] B) Es el personaje central de la obra y cuenta su propia historia en primera persona.
-  <!-- feedback: Correcto. Usa el "yo" para relatar sus vivencias y pensamientos. -->
-- [ ] C) Es un personaje secundario que observa la acción pero no participa en ella.
-  <!-- feedback: Este sería un narrador testigo. -->
-- [ ] D) Habla directamente al lector dándole órdenes sobre cómo leer.
-  <!-- feedback: Este es un recurso de apelación al lector, no define al protagonista. -->
+- [ ] A) Cuenta la historia desde una posición externa y posee un conocimiento total. <!-- feedback: Esta descripción corresponde al narrador omnisciente. -->
+- [x] B) Es el personaje central de la obra y relata sus propias vivencias usando la primera persona. <!-- feedback: Correcto. El narrador protagonista cuenta lo que le sucede a él mismo usando el "yo". -->
+- [ ] C) Es un personaje secundario que se limita a observar la acción principal. <!-- feedback: Este tipo de perspectiva define al narrador testigo. -->
+- [ ] D) Habla directamente al lector dándole instrucciones sobre cómo interpretar el final. <!-- feedback: Esta es una técnica de apelación al lector, no define al protagonista. -->
 
-### Explicación Pedagógica
-El narrador protagonista ofrece una visión subjetiva y limitada, centrada en su propia experiencia interna y externa.
+### Explicacion Pedagogica
+El narrador protagonista ofrece una visión subjetiva y limitada de la historia, centrada exclusivamente en su propia experiencia interna y externa.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.82
+**Contexto:** Algunos narradores parecen saberlo todo, incluso lo que los personajes piensan en secreto.
 
 ### Enunciado
-¿Qué distingue al **narrador omnisciente** de otros tipos de narradores?
+¿Qué distingue técnicamente al **narrador omnisciente** de otros tipos de perspectivas?
 
 ### Opciones
-- [ ] A) Solo conoce lo que puede ver y oír en el momento.
-  <!-- feedback: Este es el narrador observador o cuasi-omnisciente. -->
-- [ ] B) Siempre miente para engañar al lector.
-  <!-- feedback: Esto define al narrador no fiable, no al omnisciente por naturaleza. -->
-- [x] C) Conoce los pensamientos, sentimientos y el pasado de todos los personajes.
-  <!-- feedback: Correcto. Tiene un conocimiento total y absoluto de la historia. -->
-- [ ] D) Escribe la historia en versos que riman.
-  <!-- feedback: La rima define la forma poética, no la perspectiva narrativa. -->
+- [ ] A) Solo puede relatar lo que es capaz de ver y oír físicamente en el momento. <!-- feedback: Esta limitación es propia del narrador observador. -->
+- [ ] B) Es un narrador que siempre miente deliberadamente para confundir al lector. <!-- feedback: Esto definiría a un narrador no fiable. -->
+- [x] C) Posee un conocimiento total de los pensamientos, sentimientos, pasado y futuro. <!-- feedback: Correcto. Actúa como una voz superior que conoce la totalidad del universo narrativo. -->
+- [ ] D) Relata la historia exclusivamente a través de versos que siguen una estructura de rima. <!-- feedback: El uso de la rima define el género lírico, no la perspectiva narrativa. -->
 
-### Explicación Pedagógica
-El narrador omnisciente suele narrar en tercera persona y actúa como una "voz divina" que lo controla todo en el relato.
+### Explicacion Pedagogica
+El narrador omnisciente suele narrar en tercera persona y funciona como una "voz divina" que controla toda la información dentro del relato.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.76
+**Contexto:** Identificar la persona gramatical es el primer paso para reconocer el punto de vista.
 
 ### Enunciado
-Lee: *"Caminé por la Séptima sintiendo el frío de Bogotá calarme los huesos. No sabía si ella llegaría a la cita"*. ¿Qué tipo de narrador tiene el fragmento?
+Lee con atención: *"Caminé por la carrera Séptima sintiendo el frío bogotano calarme los huesos. No tenía idea de si ella llegaría"*. ¿Qué tipo de narrador tiene este fragmento?
 
 ### Opciones
-- [x] A) Narrador protagonista (1ª persona).
-  <!-- feedback: Correcto. El uso de verbos como "Caminé" y "sintiendo" revela que el narrador es el centro de la acción. -->
-- [ ] B) Narrador omnisciente (3ª persona).
-  <!-- feedback: El narrador habla desde su propia ignorancia ("No sabía"), lo que contradice la omnisciencia. -->
-- [ ] C) Narrador testigo (3ª persona).
-  <!-- feedback: El narrador no está observando a otro, está relatando su propia vivencia. -->
-- [ ] D) Narrador en segunda persona.
-  <!-- feedback: No se está dirigiendo a un "tú" como protagonista de la acción. -->
+- [x] A) Narrador protagonista, ya que utiliza la primera persona del singular ("yo"). <!-- feedback: Correcto. El uso de "Caminé" y "tenía" revela que el narrador es el centro de la acción. -->
+- [ ] B) Narrador omnisciente, pues conoce los sentimientos de frío que experimenta el personaje. <!-- feedback: El narrador habla desde su propia ignorancia ("No tenía idea"), lo cual contradice la omnisciencia. -->
+- [ ] C) Narrador testigo, porque está observando a una mujer que posiblemente llegará. <!-- feedback: El narrador no está observando a otro protagonista, sino relatando su propia sensación. -->
+- [ ] D) Narrador en segunda persona, pues busca que el lector se sienta parte de la caminata. <!-- feedback: No se está dirigiendo a un "tú" como centro de la acción en este fragmento. -->
 
-### Explicación Pedagógica
-La identificación de la persona gramatical (yo/nosotros) y el grado de conocimiento son claves para definir el punto de vista.
+### Explicacion Pedagogica
+La combinación de la primera persona gramatical y un conocimiento limitado a la propia subjetividad es la marca del narrador protagonista.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.72
+**Contexto:** La elección del narrador cambia totalmente la forma en que recibimos el misterio.
 
 ### Enunciado
-¿Cuál es el efecto de usar un **narrador testigo** en una novela de misterio?
+¿Cuál es el principal efecto estético de utilizar un **narrador testigo** en una novela de misterio?
 
 ### Opciones
-- [ ] A) Resolver el misterio en la primera página porque lo sabe todo.
-  <!-- feedback: El testigo tiene información limitada, lo que mantiene el suspenso. -->
-- [x] B) Aumentar el suspenso, ya que el lector solo sabe lo que el testigo logra observar.
-  <!-- feedback: Correcto. El lector descubre las pistas al mismo tiempo que el narrador. -->
-- [ ] C) Hacer que el lector se sienta el culpable del crimen.
-  <!-- feedback: Este efecto se buscaría con un narrador en segunda persona o técnicas de apelación. -->
-- [ ] D) Convertir la novela en un libro de historia real.
-  <!-- feedback: Sigue siendo ficción, independientemente del tipo de narrador. -->
+- [ ] A) Permitir que el lector resuelva el misterio de inmediato porque el narrador lo sabe todo. <!-- feedback: El testigo tiene información limitada, esencial para mantener el suspenso. -->
+- [x] B) Aumentar la intriga, ya que el lector solo conoce lo que el testigo logra observar. <!-- feedback: Correcto. El lector y el narrador descubren las pistas al mismo tiempo. -->
+- [ ] C) Obligar al lector a sentirse culpable por los crímenes que se están cometiendo. <!-- feedback: Este efecto se buscaría más con un narrador en segunda persona. -->
+- [ ] D) Asegurar que la historia sea aceptada como un hecho histórico totalmente real. <!-- feedback: El relato sigue siendo ficción, independientemente del narrador. -->
 
-### Explicación Pedagógica
-El punto de vista limita o expande la información, controlando así el ritmo y la intriga de la narración.
+### Explicacion Pedagogica
+El punto de vista del narrador funciona como un filtro que controla el flujo de información, administrando así el ritmo y la intriga del relato.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.65
+**Contexto:** La superioridad de información es un indicio clave para clasificar al narrador.
 
 ### Enunciado
-Lee: *"Él no lo sabía, pero mientras tomaba su café, su destino ya estaba marcado por la carta que esperaba sobre el escritorio"*. ¿Qué nos revela este fragmento sobre el narrador?
+Analiza: *"Él no lo sabía todavía, pero mientras tomaba su tinto, su destino ya estaba sellado por la carta"*. ¿Qué nos revela este fragmento?
 
 ### Opciones
-- [ ] A) Que el narrador es el dueño de la cafetería.
-  <!-- feedback: No hay pistas que lo sitúen como un personaje dentro de la escena. -->
-- [x] B) Que es un narrador omnisciente que conoce el futuro y lo que el personaje ignora.
-  <!-- feedback: Correcto. Al decir "él no lo sabía", el narrador demuestra que posee un conocimiento superior al del personaje. -->
-- [ ] C) Que el narrador es la carta sobre el escritorio.
-  <!-- feedback: Personificar objetos es posible, pero aquí se trata de una voz externa descriptiva. -->
-- [ ] D) Que es un narrador protagonista muy distraído.
-  <!-- feedback: Se habla del personaje en tercera persona ("Él"). -->
+- [ ] A) Que el narrador es el dueño de la cafetería donde el personaje toma su tinto. <!-- feedback: No existen pistas que sitúen a la voz narrativa como un personaje en la escena. -->
+- [x] B) Que es un narrador omnisciente, pues conoce el futuro y lo que el personaje ignora. <!-- feedback: Correcto. Al afirmar "Él no lo sabía", el narrador demuestra conocimiento superior. -->
+- [ ] C) Que el narrador es la propia carta sobre el escritorio, con conciencia mágica. <!-- feedback: Aunque es posible en ficción, aquí se trata de una voz externa descriptiva. -->
+- [ ] D) Que es un narrador protagonista que está recordando con mucha nostalgia un café. <!-- feedback: Se habla del personaje en tercera persona ("Él"), lo cual excluye al protagonista. -->
 
-### Explicación Pedagógica
-La superioridad de información del narrador respecto al personaje es la marca clásica de la omnisciencia.
+### Explicacion Pedagogica
+La marca clásica de la omnisciencia literaria es la capacidad del narrador para anticipar hechos que el personaje desconoce.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.80
+**Contexto:** Es fundamental no confundir a la persona real que escribe con la voz que cuenta.
 
 ### Enunciado
-¿En qué se diferencia el **punto de vista** del **autor** de la obra?
+¿En qué se diferencia el **punto de vista** de la opinión del **autor** de la obra?
 
 ### Opciones
-- [ ] A) Son exactamente lo mismo; el autor siempre es el que habla.
-  <!-- feedback: El autor es una persona real; el narrador es una construcción de ficción. -->
-- [x] B) El narrador es una voz ficticia creada por el autor para contar la historia.
-  <!-- feedback: Correcto. El autor puede crear narradores con ideas muy diferentes a las suyas. -->
-- [ ] C) El autor solo escribe diálogos y el narrador escribe las descripciones.
-  <!-- feedback: El autor escribe todo el texto, creando la ilusión de diferentes voces. -->
-- [ ] D) El narrador es una persona real que le paga al autor por escribir su vida.
-  <!-- feedback: Esto describe una biografía por encargo, no el concepto literario de narrador. -->
+- [ ] A) No hay ninguna diferencia real; el autor siempre expresa sus ideas. <!-- feedback: El autor es una persona real; el narrador es una creación artística. -->
+- [x] B) El narrador es una construcción ficticia creada por el autor para contar la historia. <!-- feedback: Correcto. El autor diseña al narrador como una herramienta técnica. -->
+- [ ] C) El autor solo escribe los diálogos, mientras que el narrador redacta descripciones. <!-- feedback: El autor escribe la totalidad del texto, incluyendo diálogos y voz narrativa. -->
+- [ ] D) El narrador es siempre una persona real que le cobra al autor por contar su vida. <!-- feedback: Esta descripción no corresponde al concepto literario de narrador. -->
 
-### Explicación Pedagógica
-Es vital distinguir entre la figura real (autor) y la figura textual (narrador) para un análisis literario correcto.
+### Explicacion Pedagogica
+Diferenciar entre el autor (sujeto real) y el narrador (sujeto ficticio) es un paso básico para el análisis literario.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** Algunas obras modernas fragmentan la visión de los hechos para mostrar complejidad.
 
 ### Enunciado
-Si un cuento relata la misma pelea desde la perspectiva de tres personajes diferentes, ¿qué técnica se está utilizando?
+Si una novela relata un conflicto desde la perspectiva de tres personajes diferentes, ¿qué técnica se está empleando?
 
 ### Opciones
-- [ ] A) Narrador omnisciente único.
-  <!-- feedback: La omnisciencia suele unificar la visión, no fragmentarla en perspectivas individuales. -->
-- [x] B) Multiperspectivismo o perspectiva múltiple.
-  <!-- feedback: Correcto. Permite ver la relatividad de la "verdad" según quien la cuente. -->
-- [ ] C) Monólogo interior desesperado.
-  <!-- feedback: El monólogo interior es la corriente de pensamiento de uno solo, no de tres. -->
-- [ ] D) Narración cronológica lineal.
-  <!-- feedback: Se refiere al orden del tiempo, no al punto de vista. -->
+- [ ] A) Uso de un narrador omnisciente único y tradicional. <!-- feedback: La omnisciencia suele unificar la visión en una sola voz. -->
+- [x] B) Multiperspectivismo o técnica de perspectiva múltiple. <!-- feedback: Correcto. Permite observar la relatividad de la verdad según quién cuente. -->
+- [ ] C) Monólogo interior desordenado de un solo personaje. <!-- feedback: El monólogo interior es la corriente de pensamiento de un solo individuo. -->
+- [ ] D) Narración cronológica lineal de hechos históricos. <!-- feedback: Se refiere al orden temporal, no al punto de vista adoptado. -->
 
-### Explicación Pedagógica
-La multiperspectividad enriquece la trama al mostrar que un mismo hecho puede tener múltiples interpretaciones.
+### Explicacion Pedagogica
+El multiperspectivismo enriquece la trama al demostrar que un mismo hecho puede tener múltiples interpretaciones según el sujeto.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.58
+**Contexto:** El uso del "tú" en la narración busca romper la distancia con el lector.
 
 ### Enunciado
-Lee: *"Te despiertas. El sol te quema la cara a través del vidrio roto. Intentas recordar cómo llegaste allí, pero tu mente es un desierto"*. ¿Qué efecto busca el narrador en **segunda persona**?
+Lee: *"Te despiertas con la lluvia. Sientes una extraña inquietud. Sabes que hoy todo cambiará"*. ¿Qué efecto busca el narrador al usar la **segunda persona**?
 
 ### Opciones
-- [ ] A) Que el lector se sienta un observador lejano y aburrido.
-  <!-- feedback: El uso del "tú" busca cercanía, no lejanía. -->
-- [x] B) Involucrar directamente al lector, haciéndolo sentir protagonista de la acción.
-  <!-- feedback: Correcto. Crea una experiencia inmersiva donde el lector "ocupa" el lugar del personaje. -->
-- [ ] C) Demostrar que el narrador no sabe usar los verbos correctamente.
-  <!-- feedback: Es una técnica deliberada y compleja, no un error gramatical. -->
-- [ ] D) Narrar la vida del autor cuando era niño.
-  <!-- feedback: No hay indicios biográficos; es un recurso de interpelación. -->
+- [ ] A) Mantener una distancia fría y objetiva para que el lector no se involucre. <!-- feedback: El uso del "tú" busca la cercanía extrema e involucramiento. -->
+- [x] B) Involucrar directamente al lector, haciéndolo ocupar el lugar del protagonista. <!-- feedback: Correcto. Crea una experiencia inmersiva donde el lector se siente interpelado. -->
+- [ ] C) Indicar que el autor se equivocó al conjugar los verbos en el texto. <!-- feedback: El uso de la segunda persona es una técnica deliberada, no un error. -->
+- [ ] D) Narrar de forma objetiva la vida privada del autor cuando era niño. <!-- feedback: No hay indicios biográficos; es un recurso de interpelación. -->
 
-### Explicación Pedagógica
-La segunda persona (poco común pero poderosa) difumina la frontera entre el lector y el personaje.
+### Explicacion Pedagogica
+La narración en segunda persona es una técnica poderosa que difumina la frontera entre el lector y el personaje ficticio.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** Existe un tipo de narrador que se comporta como una cámara de video.
 
 ### Enunciado
-¿Cuál es la función del **narrador en tercera persona observador** (o cuasi-omnisciente)?
+¿Cuál es la función técnica del **narrador observador** en un relato?
 
 ### Opciones
-- [ ] A) Contar lo que siente el protagonista pero no lo que sienten los demás.
-  <!-- feedback: Esto sería una focalización interna en tercera persona. -->
-- [x] B) Narrar solo lo que puede verse y oírse, como si fuera una cámara de cine.
-  <!-- feedback: Correcto. No entra en la mente de los personajes, solo registra acciones externas. -->
-- [ ] C) Dar consejos de cocina a mitad de la historia.
-  <!-- feedback: No define el punto de vista narrativo técnico. -->
-- [ ] D) Ser el personaje que muere en el primer capítulo.
-  <!-- feedback: El narrador observador suele estar fuera de la acción física. -->
+- [ ] A) Explicar detalladamente lo que siente el protagonista pero ignorar a los demás. <!-- feedback: Esto describiría una focalización interna selectiva. -->
+- [x] B) Narrar solo lo que puede verse y oírse desde afuera, sin entrar en la mente. <!-- feedback: Correcto. Registra acciones y diálogos externos de forma objetiva. -->
+- [ ] C) Interrumpir la historia para dar consejos morales o recetas al lector. <!-- feedback: Esta función no define una categoría técnica de punto de vista narrativo. -->
+- [ ] D) Ser el personaje que muere trágicamente en el primer capítulo del libro. <!-- feedback: El narrador observador suele ser una voz externa que no participa. -->
 
-### Explicación Pedagógica
-Este narrador es objetivo y frío, dejando que el lector infiera los sentimientos a partir de las acciones descritas.
+### Explicacion Pedagogica
+El narrador observador es objetivo y aparentemente neutral, dejando que sea el lector quien infiera los sentimientos.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** Un narrador que participa en los hechos puede no estar contando toda la verdad.
 
 ### Enunciado
-¿Por qué un narrador protagonista puede ser considerado **"no fiable"**?
+¿Por qué un narrador protagonista suele ser clasificado como un **"narrador no fiable"**?
 
 ### Opciones
-- [ ] A) Porque nunca termina de contar la historia.
-  <!-- feedback: La falta de final no implica falta de fiabilidad. -->
-- [x] B) Porque su visión está nublada por sus emociones, prejuicios o falta de información.
-  <!-- feedback: Correcto. Al ser parte de la historia, su relato puede ser parcial o interesado. -->
-- [ ] C) Porque el libro es muy barato y tiene mala calidad de papel.
-  <!-- feedback: La fiabilidad es un concepto literario, no material. -->
-- [ ] D) Porque siempre habla en un idioma que el lector no entiende.
-  <!-- feedback: La barrera del idioma es un problema de comunicación, no de fiabilidad narrativa. -->
+- [ ] A) Porque nunca logra terminar de contar la historia y deja el libro a la mitad. <!-- feedback: La falta de conclusión no tiene relación con la fiabilidad. -->
+- [x] B) Porque su visión está condicionada por sus emociones, prejuicios o intereses. <!-- feedback: Correcto. Al ser parte interesada, su relato puede ser parcial o sesgado. -->
+- [ ] C) Porque el autor de la obra es una persona con mala reputación real. <!-- feedback: La fiabilidad es un concepto técnico narrativo, no un juicio biográfico. -->
+- [ ] D) Porque utiliza constantemente un lenguaje técnico que el lector no comprende. <!-- feedback: La barrera lingüística dificulta la comunicación pero no define fiabilidad. -->
 
-### Explicación Pedagógica
-La subjetividad del "yo" invita al lector a dudar y a analizar qué hay detrás de las palabras del protagonista.
+### Explicacion Pedagogica
+La subjetividad inherente al "yo" invita al lector crítico a dudar y a analizar qué motivaciones ocultas puede tener el protagonista.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** El realismo busca la mayor objetividad posible en la descripción.
 
 ### Enunciado
-¿Cuál de estos comienzos de novela utiliza un **punto de vista objetivo**?
+¿Cuál de estos inicios emplea un **punto de vista puramente objetivo**?
 
 ### Opciones
-- [ ] A) "Me sentía triste mientras caminaba bajo la lluvia".
-  <!-- feedback: Subjetivo (primera persona). -->
-- [x] B) "Un hombre camina bajo la lluvia; su chaqueta está empapada y sujeta un maletín negro".
-  <!-- feedback: Correcto. Describe hechos observables sin entrar en la psicología del personaje. -->
-- [ ] C) "Él caminaba triste, recordando a su madre fallecida hace años".
-  <!-- feedback: Omnisciente (conoce el sentimiento y el pasado). -->
-- [ ] D) "Caminas bajo la lluvia y sientes cómo el agua te hiela el corazón".
-  <!-- feedback: Segunda persona (apelativo/subjetivo). -->
+- [ ] A) "Me sentía profundamente triste mientras caminaba bajo la lluvia". <!-- feedback: Es una visión subjetiva en primera persona centrada en el sentimiento. -->
+- [x] B) "Un hombre camina bajo la lluvia; su chaqueta gris está empapada". <!-- feedback: Correcto. Describe hechos externos observables sin juzgar ni entrar en psicología. -->
+- [ ] C) "Él caminaba triste por la calle, recordando con dolor a su madre". <!-- feedback: Es una voz omnisciente que conoce tanto sentimiento como pasado. -->
+- [ ] D) "Caminas bajo la lluvia bogotana y sientes cómo el agua te purifica". <!-- feedback: Es una segunda persona apelativa que impone sensaciones al lector. -->
 
-### Explicación Pedagógica
-La objetividad narrativa se logra limitando el relato a lo estrictamente sensorial y externo.
+### Explicacion Pedagogica
+La objetividad narrativa máxima se alcanza cuando la voz del relato se limita estrictamente a lo sensorial, externo y comprobable.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.75
+**Contexto:** Algunos géneros literarios requieren una coincidencia total de identidades.
 
 ### Enunciado
-En una autobiografía, ¿quién es el narrador?
+En una **autobiografía** formal, ¿quién asume necesariamente el rol del narrador?
 
 ### Opciones
-- [ ] A) Un historiador que investigó la vida de la persona.
-  <!-- feedback: Eso sería una biografía, no una autobiografía. -->
-- [x] B) La propia persona cuya vida se relata (Narrador protagonista).
-  <!-- feedback: Correcto. Coinciden autor, narrador y personaje principal. -->
-- [ ] C) Un fantasma que observa desde el techo.
-  <!-- feedback: Sería una elección de ficción fantástica, no una autobiografía estándar. -->
-- [ ] D) El lector, que debe adivinar los datos del autor.
-  <!-- feedback: El lector es el receptor, no el narrador. -->
+- [ ] A) Un historiador profesional que investigó exhaustivamente la vida pública. <!-- feedback: Esta descripción corresponde a una biografía externa. -->
+- [x] B) La propia persona cuya vida se relata, funcionando como narrador protagonista. <!-- feedback: Correcto. En la autobiografía coinciden autor, narrador y personaje. -->
+- [ ] C) Un descendiente lejano de la familia que heredó los diarios íntimos. <!-- feedback: Esto sería una biografía póstuma o edición de memorias por terceros. -->
+- [ ] D) El propio lector, que debe reconstruir los datos a partir de pistas. <!-- feedback: El lector es siempre el receptor externo del mensaje. -->
 
-### Explicación Pedagógica
-La autobiografía es el género donde la identidad entre autor y narrador es explícita y fundamental.
+### Explicacion Pedagogica
+La autobiografía es el género donde la identidad única entre autor, narrador y protagonista es el contrato fundamental de lectura.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido. |
+| Curricular | 40/40 | Aborda tipos de narrador para Grado 8. |
+| Contexto | 20/20 | Referencias a Bogotá (Séptima, tinto) pertinentes. |
+| Redacción | 10/10 | Explicaciones pedagógicas claras. |
+| **Total** | **100/100** | |

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-34-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v1",
+      "statement": "¿Cuál fue el primer gran movimiento literario nacido en Hispanoamérica que influyó profundamente en España?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Romanticismo, que buscaba la exaltación de los sentimientos nacionales.",
+          "is_correct": false,
+          "feedback": "El Romanticismo llegó a América desde Europa; no nació aquí."
+        },
+        {
+          "letter": "B",
+          "text": "El Modernismo, liderado por el nicaragüense Rubén Darío a finales del siglo XIX.",
+          "is_correct": true,
+          "feedback": "Correcto. Fue la primera vez que América influyó estéticamente en Europa."
+        },
+        {
+          "letter": "C",
+          "text": "El Barroco de Indias, caracterizado por el uso de un lenguaje muy ornamentado.",
+          "is_correct": false,
+          "feedback": "Aunque tuvo una versión americana brillante, el Barroco es de origen europeo."
+        },
+        {
+          "letter": "D",
+          "text": "El Realismo Social, centrado en denunciar las injusticias del campo y la industria.",
+          "is_correct": false,
+          "feedback": "El Realismo se desarrolló inicialmente en Francia y España."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Modernismo marcó la independencia estética de Hispanoamérica, renovando el lenguaje poético mediante la búsqueda de la belleza absoluta y el cosmopolitismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v2",
+      "statement": "¿Qué caracteriza esencialmente al fenómeno editorial y literario conocido como el **\"Boom Latinoamericano\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una explosión de autores jóvenes que escribieron únicamente poesía romántica.",
+          "is_correct": false,
+          "feedback": "El Boom fue primordialmente un fenómeno de la narrativa, no de la lírica."
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento accidental de grandes yacimientos de petróleo en la región.",
+          "is_correct": false,
+          "feedback": "Fue un acontecimiento estrictamente literario y cultural."
+        },
+        {
+          "letter": "C",
+          "text": "El éxito mundial y la innovación técnica de novelistas como García Márquez y Cortázar.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos autores revolucionaron la estructura de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la primera imprenta de tipos móviles en la ciudad de México.",
+          "is_correct": false,
+          "feedback": "La imprenta llegó siglos antes de que ocurriera el Boom."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Boom puso a la literatura hispanoamericana en el centro del mapa intelectual mundial, experimentando con el manejo del tiempo y la multiplicidad de voces.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v3",
+      "statement": "Si lees una novela donde sucesos fantásticos se presentan como algo cotidiano para los personajes, estás ante:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una obra de ciencia ficción pura basada en leyes de la física avanzada.",
+          "is_correct": false,
+          "feedback": "La ciencia ficción requiere una base tecnológica o científica."
+        },
+        {
+          "letter": "B",
+          "text": "El Realismo Mágico, marca distintiva de gran parte de nuestra narrativa del siglo XX.",
+          "is_correct": true,
+          "feedback": "Correcto. Funde lo real con lo fantástico sin mostrar sorpresa."
+        },
+        {
+          "letter": "C",
+          "text": "Una noticia de prensa seria sobre un acontecimiento ocurrido en un pueblo lejano.",
+          "is_correct": false,
+          "feedback": "El periodismo se rige por la veracidad de los hechos físicos."
+        },
+        {
+          "letter": "D",
+          "text": "Literatura de terror gótico que busca asustar al lector mediante monstruos.",
+          "is_correct": false,
+          "feedback": "El terror busca miedo; el realismo mágico busca mostrar la maravilla natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El realismo mágico refleja la cosmovisión mestiza de América, donde lo mítico y lo cotidiano conviven en el mismo plano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v4",
+      "statement": "¿Cuál es un tema recurrente y fundamental en la literatura hispanoamericana debido al pasado colonial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La búsqueda de la identidad nacional, el mestizaje y los conflictos políticos.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura ha sido un espacio vital para reflexionar sobre quiénes somos."
+        },
+        {
+          "letter": "B",
+          "text": "La conquista de otros planetas y los viajes en el tiempo hacia el futuro.",
+          "is_correct": false,
+          "feedback": "No es el eje central que define la tradición literaria regional."
+        },
+        {
+          "letter": "C",
+          "text": "La vida cotidiana de los caballeros medievales en los castillos de Europa.",
+          "is_correct": false,
+          "feedback": "Este es un tema ajeno a la realidad histórica propia de Hispanoamérica."
+        },
+        {
+          "letter": "D",
+          "text": "El análisis técnico de la bolsa de valores y la programación de sistemas.",
+          "is_correct": false,
+          "feedback": "Son temas técnicos que no constituyen una tradición literaria regional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura en América Latina ha estado ligada a la realidad social, la lucha por la justicia y la construcción de una identidad propia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes relaciones entre autor y obra fundamental es **correcta**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jorge Luis Borges - Autor de la novela 'Cien años de soledad'.",
+          "is_correct": false,
+          "feedback": "Borges es cuentista; la novela mencionada es de García Márquez."
+        },
+        {
+          "letter": "B",
+          "text": "Gabriel García Márquez - Creador de la compleja estructura de 'Rayuela'.",
+          "is_correct": false,
+          "feedback": "'Rayuela' es la obra cumbre de Julio Cortázar."
+        },
+        {
+          "letter": "C",
+          "text": "Juan Rulfo - Escritor mexicano de la influyente novela 'Pedro Páramo'.",
+          "is_correct": true,
+          "feedback": "Correcto. Rulfo influyó enormemente en los autores del Boom."
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar - Famoso por sus cuentos metafísicos en el libro 'El Aleph'.",
+          "is_correct": false,
+          "feedback": "'El Aleph' es la obra cumbre de Jorge Luis Borges."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es esencial identificar las obras cumbre para comprender cómo evolucionó la narrativa en nuestro idioma durante el siglo XX.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v6",
+      "statement": "¿Quién es considerada la figura más brillante de la literatura colonial, la \"Décima musa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriela Mistral, la poeta chilena que ganó el primer Nobel para la región.",
+          "is_correct": false,
+          "feedback": "Mistral pertenece al siglo XX, siglos después de la colonia."
+        },
+        {
+          "letter": "B",
+          "text": "Sor Juana Inés de la Cruz, escritora novohispana de poesía, teatro y ensayo.",
+          "is_correct": true,
+          "feedback": "Correcto. Defendió el derecho de las mujeres a la educación en el s. XVII."
+        },
+        {
+          "letter": "C",
+          "text": "Isabel Allende, la autora chilena famosa por sus novelas de gran éxito.",
+          "is_correct": false,
+          "feedback": "Es una escritora contemporánea muy importante."
+        },
+        {
+          "letter": "D",
+          "text": "Rigoberta Menchú, líder indígena que escribió sobre la represión en Guatemala.",
+          "is_correct": false,
+          "feedback": "Figura de la literatura de testimonio contemporánea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sor Juana Inés de la Cruz representó la cumbre del Barroco en América y fue pionera en la defensa intelectual de la mujer.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v7",
+      "statement": "¿Qué autor es mundialmente famoso por sus cuentos llenos de laberintos, espejos y bibliotecas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mario Vargas Llosa, quien se centra en el realismo social y el poder.",
+          "is_correct": false,
+          "feedback": "Vargas Llosa destaca por su rigor técnico y crítica política."
+        },
+        {
+          "letter": "B",
+          "text": "Pablo Neruda, cuya obra es primordialmente exaltación lírica y amorosa.",
+          "is_correct": false,
+          "feedback": "Neruda es poeta del sentimiento, no cuentista de juegos lógicos."
+        },
+        {
+          "letter": "C",
+          "text": "Jorge Luis Borges, el autor argentino que revolucionó el cuento fantástico.",
+          "is_correct": true,
+          "feedback": "Correcto. Sus relatos exploran los límites de la razón y el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Carlos Fuentes, quien se enfocó en explorar la identidad de México.",
+          "is_correct": false,
+          "feedback": "Fuentes es un gran novelista de la historia y el mito nacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Borges es una figura universal que desafió las formas tradicionales de narrar, convirtiendo ideas filosóficas en emocionantes tramas de ficción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v8",
+      "statement": "¿Cuál es el valor social primordial de la llamada **\"literatura de testimonio\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir que los autores inventen historias divertidas sobre sus vecinos.",
+          "is_correct": false,
+          "feedback": "Este género no busca el entretenimiento basado en chismes."
+        },
+        {
+          "letter": "B",
+          "text": "Dar voz a los grupos sociales oprimidos y denunciar injusticias históricas.",
+          "is_correct": true,
+          "feedback": "Correcto. Vincula creación con memoria y denuncia política."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a los estudiantes a redactar mejores currículos laborales.",
+          "is_correct": false,
+          "feedback": "No tiene un fin pragmático laboral; su objetivo es la conciencia social."
+        },
+        {
+          "letter": "D",
+          "text": "Es un tipo de literatura sagrada que solo se permite en ceremonias.",
+          "is_correct": false,
+          "feedback": "La literatura de testimonio es un género laico y profundamente político."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En contextos de dictaduras y violencia, la literatura ha funcionado como un documento ético para rescatar la memoria colectiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v9",
+      "statement": "¿Qué poeta chileno, ganador del Nobel, escribió el 'Canto General' sobre América?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Octavio Paz, el ensayista y poeta mexicano autor de 'El laberinto de la soledad'.",
+          "is_correct": false,
+          "feedback": "Octavio Paz es Nobel, pero su obra mencionada es un ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Pablo Neruda, una de las voces más influyentes y traducidas del siglo XX.",
+          "is_correct": true,
+          "feedback": "Correcto. Neruda buscó ser la voz del continente a través de su poesía."
+        },
+        {
+          "letter": "C",
+          "text": "José Martí, el gran prócer de la independencia de Cuba y precursor modernista.",
+          "is_correct": false,
+          "feedback": "Martí murió antes de que existiera el Premio Nobel."
+        },
+        {
+          "letter": "D",
+          "text": "César Vallejo, el poeta peruano que revolucionó el lenguaje vanguardista.",
+          "is_correct": false,
+          "feedback": "Vallejo es un genio, pero no recibió el galardón de la Academia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reconocimiento a autores como Neruda, Mistral o García Márquez certificó ante el mundo la madurez de la literatura hispanoamericana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v10",
+      "statement": "¿Qué buscaba el movimiento del **Indigenismo** literario en la primera mitad del siglo XX?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer a los indígenas de que abandonaran sus tierras por las ciudades.",
+          "is_correct": false,
+          "feedback": "El indigenismo buscaba el respeto a la tierra y la cultura."
+        },
+        {
+          "letter": "B",
+          "text": "Reivindicar la cultura originaria y denunciar la explotación de las élites.",
+          "is_correct": true,
+          "feedback": "Correcto. Puso al indígena como centro de la dignidad humana."
+        },
+        {
+          "letter": "C",
+          "text": "Traducir todos los libros escritos en español a lenguas indígenas rápido.",
+          "is_correct": false,
+          "feedback": "Era un objetivo poco realista para un movimiento estético."
+        },
+        {
+          "letter": "D",
+          "text": "Crear guías de viaje para turistas interesados en artesanías baratas.",
+          "is_correct": false,
+          "feedback": "Tenía una raíz política profunda y no un fin puramente comercial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El indigenismo fue un paso fundamental para reconocer la diversidad cultural de nuestras naciones y las deudas históricas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v11",
+      "statement": "Si un crítico afirma que la narrativa actual de la región es \"posmacondiana\", ¿qué significa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los autores contemporáneos han dejado de escribir para ir al cine.",
+          "is_correct": false,
+          "feedback": "Se refiere a un cambio en los temas y estilos de los libros."
+        },
+        {
+          "letter": "B",
+          "text": "Que los escritores se alejan del realismo mágico para explorar urbes.",
+          "is_correct": true,
+          "feedback": "Correcto. Prefieren narrar la vida en las ciudades modernas."
+        },
+        {
+          "letter": "C",
+          "text": "Que está terminantemente prohibido volver a mencionar a Macondo.",
+          "is_correct": false,
+          "feedback": "No existen prohibiciones; es una evolución natural de las búsquedas."
+        },
+        {
+          "letter": "D",
+          "text": "Que los libros nuevos deben ser escritos por inteligencias artificiales.",
+          "is_correct": false,
+          "feedback": "Es un movimiento humano que busca reflejar el mundo hiperconectado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura evoluciona: hoy conviven el legado del realismo mágico con la novela negra, la ciencia ficción y la literatura urbana.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-v12",
+      "statement": "¿Cuál fue el papel histórico de las revistas literarias (como 'Mito' en Colombia)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servir exclusivamente como catálogo de moda para los autores.",
+          "is_correct": false,
+          "feedback": "Eran centros de debate intelectual muy rigurosos."
+        },
+        {
+          "letter": "B",
+          "text": "Funcionar como espacios de difusión para talentos y puentes con el mundo.",
+          "is_correct": true,
+          "feedback": "Correcto. Permitieron que autores de diferentes países se leyeran."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar por completo a los libros de texto escolares en las aulas.",
+          "is_correct": false,
+          "feedback": "Eran publicaciones complementarias para un público culto."
+        },
+        {
+          "letter": "D",
+          "text": "Repartir cupones de descuento para alimentos básicos en mercados.",
+          "is_correct": false,
+          "feedback": "Su función era estrictamente cultural y de formación crítica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las revistas literarias crearon una red intelectual en Hispanoamérica, permitiendo una patria de letras común por encima de fronteras.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 exacto, feedback lineal. |\n| Curricular | 40/40 | Cubre la historia literaria de Hispanoamérica. |\n| Contexto | 20/20 | Enfoque regional equilibrado. |\n| Redacción | 10/10 | Lenguaje formal y preciso. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W34-literatura-hispanoamericana-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

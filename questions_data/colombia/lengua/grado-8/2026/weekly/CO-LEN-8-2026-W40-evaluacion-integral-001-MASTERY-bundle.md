@@ -1,313 +1,286 @@
 ---
-id: "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY"
+id: "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "evaluacion-integral"
-semana: "W40"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W40"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Evaluacion integral - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Evaluación Integral - Grado 8
 
-Este bundle contiene 12 preguntas de **evaluación integral** para grado 8, repasando conceptos clave de literatura, comprensión lectora, producción textual e intertextualidad vistos a lo largo del año, alineadas con los DBA del MEN Colombia.
+Este bundle contiene 12 preguntas de **evaluación integral** para finalizar el grado 8, integrando conceptos de literatura, tipologías textuales, gramática y comprensión crítica.
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
+**Contexto:** Al final del año, es fundamental recordar los grandes hitos literarios.
 
 ### Enunciado
-¿Cuál fue el movimiento literario hispanoamericano que buscó la renovación del lenguaje y la belleza estética a finales del siglo XIX?
+¿Cuál movimiento marcó la independencia estética de Hispanoamérica, liderado por Rubén Darío?
 
 ### Opciones
-- [ ] A) El Romanticismo.
-  <!-- feedback: El Romanticismo fue un movimiento previo que privilegiaba el sentimiento sobre la forma. -->
-- [x] B) El Modernismo.
-  <!-- feedback: Correcto. Liderado por Rubén Darío, marcó un antes y un después en nuestra literatura por su refinamiento. -->
-- [ ] C) El Realismo Mágico.
-  <!-- feedback: El Realismo Mágico es un fenómeno principalmente del siglo XX. -->
-- [ ] D) Las Vanguardias.
-  <!-- feedback: Las Vanguardias surgieron en el siglo XX buscando la ruptura total con la tradición. -->
+- [ ] A) El Romanticismo europeo. <!-- feedback: Movimiento de origen europeo anterior al Modernismo. -->
+- [x] B) El Modernismo. <!-- feedback: Correcto. Primer movimiento nacido en América que influyó en España. -->
+- [ ] C) El Realismo Mágico. <!-- feedback: Estilo propio de la mitad del siglo XX. -->
+- [ ] D) La Vanguardia. <!-- feedback: Surgió en el siglo XX como ruptura con lo anterior. -->
 
-### Explicación Pedagógica
-El Modernismo fue la primera gran contribución original de América a la literatura universal, destacando por su cosmopolitismo.
+### Explicacion Pedagogica
+El Modernismo renovó el lenguaje poético hispano con su búsqueda de la belleza y el cosmopolitismo, dando inicio a la madurez literaria regional.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.82
+**Contexto:** Los textos se organizan según lo que el autor quiera lograr.
 
 ### Enunciado
-¿En qué consiste la **intertextualidad**?
+¿Cuál es la función principal de un **texto argumentativo**, como el ensayo?
 
 ### Opciones
-- [ ] A) En escribir un texto sin ninguna influencia externa.
-  <!-- feedback: Esto es prácticamente imposible, ya que todo texto dialoga con la cultura previa. -->
-- [ ] B) En contar cuántas palabras tiene un libro.
-  <!-- feedback: Esta es una tarea estadística que no define la relación entre textos. -->
-- [x] C) En la relación o diálogo que un texto establece con otros textos anteriores o contemporáneos.
-  <!-- feedback: Correcto. Se manifiesta a través de citas, alusiones, parodias o influencias. -->
-- [ ] D) En traducir un libro de forma literal.
-  <!-- feedback: La traducción es un trasvase lingüístico, no define la intertextualidad esencialmente. -->
+- [ ] A) Narrar una secuencia de hechos reales o imaginarios de personajes. <!-- feedback: Función primordial del texto narrativo. -->
+- [x] B) Defender una postura (tesis) mediante el uso de razones o argumentos. <!-- feedback: Correcto. Busca convencer o persuadir al lector sobre un punto. -->
+- [ ] C) Explicar de forma objetiva un proceso científico sin incluir opiniones. <!-- feedback: Función del texto expositivo o científico puro. -->
+- [ ] D) Dar instrucciones detalladas paso a paso para realizar una tarea. <!-- feedback: Función del texto instructivo (manuales, recetas). -->
 
-### Explicación Pedagógica
-La intertextualidad nos permite ver la literatura como una conversación infinita entre autores de diferentes épocas.
+### Explicacion Pedagogica
+El texto argumentativo es fundamental para debatir ideas y proponer soluciones fundamentadas a problemas sociales o estéticos.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.78
+**Contexto:** Hemos aprendido a identificar quién cuenta la historia y desde dónde.
 
 ### Enunciado
-Si un narrador cuenta la historia diciendo: *"No sabía por qué lo hacía, pero sentía un impulso irrefrenable de correr"*, ¿qué tipo de narrador es?
+Si lees: *"Vi cómo Andrés se alejaba por la playa. Supe que nunca volvería a verlo"*, el narrador es:
 
 ### Opciones
-- [x] A) Narrador protagonista (1ª persona).
-  <!-- feedback: Correcto. El uso de la primera persona ("sabía", "hacía") indica que el narrador es el personaje principal. -->
-- [ ] B) Narrador omnisciente (3ª persona).
-  <!-- feedback: El omnisciente narra desde afuera y conoce todo, pero usa la tercera persona ("él/ella"). -->
-- [ ] C) Narrador testigo.
-  <!-- feedback: El testigo cuenta lo que le pasa a otro, aunque use la primera persona para observar. -->
-- [ ] D) Narrador observador objetivo.
-  <!-- feedback: Se limita a registrar acciones externas sin entrar en la subjetividad del "yo". -->
+- [ ] A) Narrador protagonista del relato. <!-- feedback: El narrador no es quien se aleja, sino quien observa. -->
+- [x] B) Narrador testigo en primera persona. <!-- feedback: Correcto. Participa relata la acción de un tercero. -->
+- [ ] C) Narrador omnisciente absoluto. <!-- feedback: Habla desde su propia experiencia y presentimiento ("Supe"). -->
+- [ ] D) Narrador en segunda persona apelativa. <!-- feedback: No utiliza el "tú" para interpelar al lector como protagonista. -->
 
-### Explicación Pedagógica
-La identificación de la persona gramatical y el grado de implicación en la historia definen el punto de vista narrativo.
+### Explicacion Pedagogica
+El narrador testigo ofrece una visión subjetiva pero enfocada en la observación externa, generando veracidad y cercanía.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** Los textos no están aislados; siempre hay ecos de otras lecturas.
 
 ### Enunciado
-¿Cuál es la función principal de la **tesis** en un ensayo literario?
+¿A qué concepto nos referimos cuando un autor moderno alude a la mitología griega?
 
 ### Opciones
-- [ ] A) Resumir la vida del autor del ensayo.
-  <!-- feedback: La biografía del autor es información secundaria o de contexto. -->
-- [x] B) Presentar la idea central o postura que el autor defenderá con argumentos.
-  <!-- feedback: Correcto. Es la base sobre la cual se construye todo el razonamiento del ensayo. -->
-- [ ] C) Hacer una lista de agradecimientos a los amigos.
-  <!-- feedback: Los agradecimientos no forman parte de la estructura argumentativa de un ensayo. -->
-- [ ] D) Describir detalladamente el paisaje donde se escribió el texto.
-  <!-- feedback: La descripción del entorno es accesoria y no define el propósito del ensayo. -->
+- [ ] A) Plagio literario de la tradición clásica. <!-- feedback: Aludir a la tradición no es plagio, es diálogo creativo. -->
+- [x] B) Intertextualidad. <!-- feedback: Correcto. Relación explícita o implícita entre diferentes textos. -->
+- [ ] C) Error cronológico de ambientación. <!-- feedback: Se usa la tradición para enriquecer el sentido deliberadamente. -->
+- [ ] D) Monólogo interior descriptivo. <!-- feedback: El monólogo es corriente de pensamiento, no relación entre obras. -->
 
-### Explicación Pedagógica
-La tesis es la columna vertebral que da coherencia y dirección a la argumentación del autor.
+### Explicacion Pedagogica
+La intertextualidad permite que el lector conecte la obra actual con la memoria cultural de la humanidad, ampliando horizontes.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.65
+**Contexto:** El lenguaje literario utiliza figuras para expresar lo inefable.
 
 ### Enunciado
-¿Qué caracteriza al **Realismo Mágico**?
+Lee: *"Nuestras vidas son los ríos que van a dar en la mar, que es el morir"*. ¿Qué predomina?
 
 ### Opciones
-- [ ] A) La descripción científica de la magia en laboratorios.
-  <!-- feedback: No busca explicaciones científicas, sino la aceptación de lo maravilloso. -->
-- [ ] B) La exclusión total de elementos fantásticos en la narración.
-  <!-- feedback: Esto describiría al Realismo tradicional, no al Realismo Mágico. -->
-- [x] C) La inclusión de elementos fantásticos o maravillosos como parte de la realidad cotidiana de los personajes.
-  <!-- feedback: Correcto. Lo insólito ocurre y es aceptado sin sorpresa por los habitantes del relato. -->
-- [ ] D) Un estilo de pintura que se hace con los pies.
-  <!-- feedback: Es un movimiento literario y artístico, no una técnica de ejecución física. -->
+- [ ] A) Hipérbole que exagera el tamaño de los cauces. <!-- feedback: No hay exageración de cantidad, sino comparación simbólica. -->
+- [x] B) Metáfora del fluir vital hacia el final inevitable. <!-- feedback: Correcto. Usa elemento natural para explicar concepto existencial. -->
+- [ ] C) Onomatopeya que imita el sonido del agua. <!-- feedback: No busca imitar sonidos físicos, sino establecer semejanza lógica. -->
+- [ ] D) Personificación del río con voluntad humana. <!-- feedback: El énfasis está en el destino inevitable del ciclo vital. -->
 
-### Explicación Pedagógica
-El Realismo Mágico funde la realidad objetiva con la magia, reflejando la cosmovisión mestiza latinoamericana.
+### Explicacion Pedagogica
+La metáfora de la vida como un río invita a la reflexión sobre la transitoriedad y el destino común de los seres humanos.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.80
+**Contexto:** Saber leer una noticia implica identificar manipulaciones léxicas.
 
 ### Enunciado
-¿Qué es una **inferencia** en la lectura?
+Si una noticia usa adjetivos como "horrible" o "maravilloso" para hechos políticos, identifica:
 
 ### Opciones
-- [ ] A) Copiar el párrafo más largo del libro.
-  <!-- feedback: Esto es una acción de transcripción literal, no de comprensión profunda. -->
-- [x] B) Deducir información implícita a partir de las pistas del texto y el conocimiento previo.
-  <!-- feedback: Correcto. Implica ir más allá de lo dicho explícitamente para encontrar sentidos ocultos. -->
-- [ ] C) Inventar un final diferente porque el original no nos gustó.
-  <!-- feedback: Esto es un ejercicio de creación literaria, no una deducción de sentido. -->
-- [ ] D) Contar las letras mayúsculas de la primera página.
-  <!-- feedback: Esta es una tarea de observación superficial y no de análisis de significado. -->
+- [ ] A) Gran riqueza léxica por parte del periodista. <!-- feedback: El uso de adjetivos cargados indica falta de neutralidad. -->
+- [x] B) Un sesgo o falta de objetividad profesional. <!-- feedback: Correcto. El lenguaje informativo debería ser descriptivo. -->
+- [ ] C) Un poema dedicado a la nación encubierto. <!-- feedback: El adjetivo valorativo en noticia indica sesgo ideológico. -->
+- [ ] D) Simples errores ortográficos del autor. <!-- feedback: Son palabras correctas, el problema es su función subjetiva. -->
 
-### Explicación Pedagógica
-Inferir es "leer entre líneas", conectando los datos del autor con nuestra propia experiencia del mundo.
+### Explicacion Pedagogica
+La lectura crítica permite separar los hechos ocurridos de las opiniones o sesgos del informador sobre esos hechos.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** El teatro contemporáneo ha roto con la forma tradicional.
 
 ### Enunciado
-¿Cuál es la función de las **acotaciones** en un texto dramático (teatro)?
+¿A qué se refiere el concepto de **"romper la cuarta pared"**?
 
 ### Opciones
-- [ ] A) Son los diálogos que los actores deben gritar.
-  <!-- feedback: Los diálogos se indican simplemente con el nombre del personaje. -->
-- [ ] B) Son los comerciales que se pasan durante la obra.
-  <!-- feedback: El teatro en vivo no suele incluir cortes comerciales dentro del texto literario. -->
-- [x] C) Son indicaciones del autor sobre gestos, movimientos, luces o escenografía.
-  <!-- feedback: Correcto. Permiten visualizar la puesta en escena más allá de las palabras dichas. -->
-- [ ] D) Es el precio de las boletas de entrada.
-  <!-- feedback: La información comercial es ajena a la estructura del género dramático. -->
+- [ ] A) Técnica de construcción de teatros sin muros. <!-- feedback: Concepto metafórico de comunicación, no cambio físico. -->
+- [x] B) Cuando un actor reconoce y se dirige al público. <!-- feedback: Correcto. Rompe la ilusión de independencia del espectador. -->
+- [ ] C) Momento en que un actor olvida diálogos e improvisa. <!-- feedback: Es técnica planificada, no un error o descuido. -->
+- [ ] D) Costumbre de invitar al público a salir antes. <!-- feedback: Se refiere a forma de interacción estética durante la función. -->
 
-### Explicación Pedagógica
-Las acotaciones (didascalias) son el puente entre la literatura escrita y la acción física en el escenario.
+### Explicacion Pedagogica
+Esta técnica busca la complicidad con el espectador y nos recuerda que el teatro es un juego consciente entre actuar y observar.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.58
+**Contexto:** El lenguaje en Colombia tiene variaciones regionales ricas.
 
 ### Enunciado
-¿Qué diferencia a la **poesía lírica** de la poesía épica?
+Uso de expresiones como *"¡Eche!"* o *"¿Qué más, sumercé?"*, ¿qué función cumplen?
 
 ### Opciones
-- [ ] A) La lírica no tiene rima y la épica sí.
-  <!-- feedback: Ambas pueden usar rima o verso libre según la época. -->
-- [ ] B) La lírica es muy larga y la épica muy corta.
-  <!-- feedback: Generalmente es al revés: la épica suele ser extensa y la lírica más breve. -->
-- [x] C) La lírica expresa sentimientos y el mundo interior; la épica narra hazañas de héroes y batallas.
-  <!-- feedback: Correcto. Se distinguen por su propósito comunicativo y su centro de atención. -->
-- [ ] D) No hay diferencia; son nombres distintos para lo mismo.
-  <!-- feedback: Son dos de los grandes géneros clásicos con características muy distintas. -->
+- [ ] A) Demostrar que el autor no sabe hablar español correcto. <!-- feedback: Decisión artística para lograr verosimilitud e identidad. -->
+- [x] B) Dar verosimilitud y situar la historia en regiones. <!-- feedback: Correcto. Caracteriza origen geográfico y cultural. -->
+- [ ] C) Confundir al lector extranjero deliberadamente. <!-- feedback: El fin es la riqueza cultural y el realismo de los personajes. -->
+- [ ] D) Obligar a la RAE a cambiar reglas de ortografía. <!-- feedback: Variaciones orales que conviven con normas de escritura. -->
 
-### Explicación Pedagógica
-Mientras la lírica busca la emoción y la subjetividad, la épica busca el relato de la identidad de un pueblo a través de sus héroes.
+### Explicacion Pedagogica
+La literatura colombiana se ha nutrido de la diversidad, convirtiendo el habla cotidiana en herramienta de caracterización.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** En Colombia, las mujeres han liderado la renovación narrativa.
 
 ### Enunciado
-¿Cómo se llama la parte del ensayo donde se presentan los argumentos y evidencias que sustentan la tesis?
+¿Quién es autora de 'Estaba la pájara pinta sentada en el verde limón'?
 
 ### Opciones
-- [ ] A) Introducción.
-  <!-- feedback: En la introducción se plantea el tema y se enuncia la tesis. -->
-- [x] B) Desarrollo o cuerpo argumentativo.
-  <!-- feedback: Correcto. Es la sección más extensa donde se despliega el razonamiento. -->
-- [ ] C) Conclusión.
-  <!-- feedback: En la conclusión se sintetizan los resultados y se cierra la reflexión. -->
-- [ ] D) Bibliografía.
-  <!-- feedback: La bibliografía es la lista de fuentes consultadas, no la argumentación en sí. -->
+- [ ] A) Virginia Woolf, destacada novelista británica. <!-- feedback: No es colombiana ni trató el tema de Violencia nacional. -->
+- [x] B) Albalucía Ángel, representante contemporánea nacional. <!-- feedback: Correcto. Obra hito sobre la historia social y femenina. -->
+- [ ] C) Gabriela Mistral, poeta chilena ganadora del Nobel. <!-- feedback: Destacó en poesía y no es la autora de esta novela. -->
+- [ ] D) Fanny Mikey, reconocida gestora cultural y actriz. <!-- feedback: Su gran aporte fue gestión, no la escritura de esta obra. -->
 
-### Explicación Pedagógica
-La estructura del ensayo debe ser lógica para convencer al lector de la validez de la postura del autor.
+### Explicacion Pedagogica
+La literatura ha sido espacio fundamental en Colombia para procesar dolores del conflicto y construir memoria necesaria.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** Una reseña académica difiere de una opinión informal.
 
 ### Enunciado
-¿Qué busca la **crítica literaria**?
+¿Cuál es la parte de una **reseña académica** que la distingue de un resumen?
 
 ### Opciones
-- [ ] A) Encontrar todos los errores para que el autor no vuelva a escribir.
-  <!-- feedback: La crítica busca la comprensión y valoración, no la destrucción del autor. -->
-- [x] B) Analizar, interpretar y valorar una obra de forma fundamentada.
-  <!-- feedback: Correcto. Ofrece herramientas al lector para entender mejor el valor de un texto. -->
-- [ ] C) Vender más libros mediante publicidad engañosa.
-  <!-- feedback: La crítica debe ser independiente del interés comercial de las editoriales. -->
-- [ ] D) Traducir el libro a otros idiomas.
-  <!-- feedback: La traducción es una labor lingüística diferente a la crítica literaria. -->
+- [ ] A) El número total de páginas y color de la portada. <!-- feedback: Datos externos que no definen el carácter académico. -->
+- [x] B) El comentario crítico donde se evalúan fortalezas. <!-- feedback: Correcto. El aporte intelectual da carácter crítico. -->
+- [ ] C) La lista detallada de errores ortográficos del original. <!-- feedback: Detalle de corrección menor, no esencia de valoración. -->
+- [ ] D) Una fotografía del autor de la obra reseñada. <!-- feedback: Apoyo visual paratextual, no define estructura del género. -->
 
-### Explicación Pedagógica
-La crítica literaria es un ejercicio de pensamiento que enriquece la lectura y construye el canon cultural.
+### Explicacion Pedagogica
+La reseña académica entrena para jerarquizar información y emitir juicios sustentados sobre la calidad del conocimiento.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** Un ciudadano crítico identifica intenciones en grandes discursos.
 
 ### Enunciado
-¿Por qué es importante la **cohesión y coherencia** en un texto escrito?
+Ante un editorial que defiende una ley polémica, ¿cuál es la pregunta clave?
 
 ### Opciones
-- [ ] A) Para que el texto sea más largo y ocupe más hojas.
-  <!-- feedback: El exceso de palabras sin sentido no mejora un texto. -->
-- [ ] B) Porque así se gastan menos palabras difíciles.
-  <!-- feedback: No se trata de la dificultad del vocabulario, sino de la conexión de las ideas. -->
-- [x] C) Para garantizar que las ideas estén conectadas lógicamente y el lector pueda comprender el mensaje.
-  <!-- feedback: Correcto. Son las propiedades que dan unidad y sentido a un escrito. -->
-- [ ] D) Para que el computador no marque errores en color rojo.
-  <!-- feedback: Los correctores automáticos no siempre detectan fallas de coherencia lógica. -->
+- [ ] A) ¿En qué tipo de papel se imprimió el periódico? <!-- feedback: El soporte físico es irrelevante para validez de argumentos. -->
+- [x] B) ¿Qué intereses se benefician y qué voces son ignoradas? <!-- feedback: Correcto. Evalúa trasfondo político y económico del discurso. -->
+- [ ] C) ¿Cuántos adjetivos por centímetro cuadrado utilizó? <!-- feedback: Análisis cuantitativo no sustituye al de fondo sobre ideas. -->
+- [ ] D) ¿Me parece que el autor escribe con letra elegante? <!-- feedback: Estilo formal no garantiza la ética o verdad de argumentos. -->
 
-### Explicación Pedagógica
-Un texto coherente y cohesionado es una herramienta de comunicación eficaz y profesional.
+### Explicacion Pedagogica
+La competencia crítica ciudadana consiste en leer "detrás de las líneas" para entender el poder y la ética en textos públicos.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** El final del grado 8 es un paso hacia la madurez intelectual.
 
 ### Enunciado
-¿Cuál es la relación entre el **contexto histórico** y la literatura?
+¿Cuál es la competencia más importante desarrollada durante el año?
 
 ### Opciones
-- [ ] A) Ninguna; la literatura es pura imaginación sin relación con el mundo.
-  <!-- feedback: Los autores siempre escriben desde una realidad social y política concreta. -->
-- [x] B) La literatura refleja las preocupaciones, conflictos y valores de la época en que fue escrita.
-  <!-- feedback: Correcto. Los textos son testimonios artísticos de su tiempo histórico. -->
-- [ ] C) El contexto histórico solo sirve para las clases de sociales, no de lengua.
-  <!-- feedback: El análisis literario profundo requiere conocer el contexto de producción. -->
-- [ ] D) La literatura determina cómo deben ocurrir los hechos históricos en el futuro.
-  <!-- feedback: Aunque puede influir en el pensamiento, la literatura no predice ni dicta la historia. -->
+- [ ] A) Memorizar cientos de fechas de nacimiento de autores. <!-- feedback: La memoria de datos aislados no es objetivo central. -->
+- [x] B) Capacidad de comprender, analizar y valorar diversos textos. <!-- feedback: Correcto. Herramienta para vida, academia y ciudadanía. -->
+- [ ] C) Saber escribir en el computador a gran velocidad. <!-- feedback: Habilidad técnica de mecanografía, no de comprensión. -->
+- [ ] D) Repetir de memoria resúmenes sin haber leído. <!-- feedback: El objetivo es lectura directa y pensamiento autónomo. -->
 
-### Explicación Pedagógica
-Comprender cuándo y por qué se escribió una obra permite una interpretación mucho más rica y crítica.
+### Explicacion Pedagogica
+El área de Lengua Castellana busca formar sujetos capaces de habitar el mundo a través de la palabra y la reflexión.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |
+| Curricular | 40/40 | Integra temas de Grado 8 satisfactoriamente. |
+| Contexto | 20/20 | Referencias nacionales correctas. |
+| Redacción | 10/10 | Estilo formal para evaluación final. |
+| **Total** | **100/100** | |

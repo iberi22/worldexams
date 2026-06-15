@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-31-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v1",
+      "statement": "¿Cuál es el objetivo primordial del nivel de lectura **crítico-intertextual**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificar los nombres de los personajes secundarios y el lugar exacto de la acción.",
+          "is_correct": false,
+          "feedback": "Esta es una tarea propia del nivel literal, no del crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar el texto para poder repetirlo palabra por palabra ante un evaluador.",
+          "is_correct": false,
+          "feedback": "La memorización mecánica es lo opuesto al pensamiento crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluar la postura del autor y relacionar el texto con otros conocimientos o contextos sociales.",
+          "is_correct": true,
+          "feedback": "Correcto. Implica emitir juicios sustentados y conectar el texto con la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Contar cuántos adjetivos calificativos utilizó el autor en cada uno de los párrafos.",
+          "is_correct": false,
+          "feedback": "Esta es una tarea gramatical o estadística, no una interpretación del sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica busca que el estudiante entienda por qué el autor dice lo que dice, desde qué posición ideológica y cómo se compara con otras visiones del mundo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v2",
+      "statement": "¿Qué significa identificar un **sesgo** en un texto informativo o periodístico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encontrar errores de ortografía o de puntuación que dificultan la lectura del mensaje.",
+          "is_correct": false,
+          "feedback": "Los errores técnicos de escritura no constituyen sesgos ideológicos por sí mismos."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer una inclinación o preferencia del autor que afecta la objetividad de la información.",
+          "is_correct": true,
+          "feedback": "Correcto. Un sesgo es una visión parcial que favorece una postura omitiendo datos."
+        },
+        {
+          "letter": "C",
+          "text": "Verificar que el autor haya incluido un glosario con los términos más difíciles al final.",
+          "is_correct": false,
+          "feedback": "El glosario es un apoyo didáctico, no tiene relación con el análisis de sesgos."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir el texto a un lenguaje extremadamente sencillo para que cualquier niño pueda leerlo.",
+          "is_correct": false,
+          "feedback": "La adaptación pedagógica es un proceso diferente a la identificación de sesgos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar sesgos es crucial para entender que los autores seleccionan qué informar y qué omitir según sus propios intereses o creencias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v3",
+      "statement": "Si un artículo de opinión sobre el transporte en Bogotá solo entrevista a dueños de vehículos particulares, ¿qué concluirá un lector crítico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el uso del vehículo particular es la única solución posible al problema.",
+          "is_correct": false,
+          "feedback": "Esta conclusión acepta el sesgo del autor sin cuestionar la falta de otras fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Que el artículo es de excelente calidad porque mantiene una sola visión clara.",
+          "is_correct": false,
+          "feedback": "En el análisis crítico, la falta de contraste se considera una debilidad argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto presenta una visión parcial y limitada de la problemática social.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de diversidad de voces indica un sesgo que el lector debe notar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el autor simplemente olvidó los nombres de las personas que usan transporte público.",
+          "is_correct": false,
+          "feedback": "Es más probable que sea una decisión de enfoque o inclinación personal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un lector crítico analiza quiénes hablan en el texto y qué voces han sido silenciadas para determinar el grado de equilibrio de un argumento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v4",
+      "statement": "¿Cuál es la función de la **intertextualidad** en el proceso de interpretación crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relacionar el texto leído con otros textos, épocas históricas o contextos culturales diversos.",
+          "is_correct": true,
+          "feedback": "Correcto. Ayuda a entender cómo la obra dialoga con la tradición y la sociedad."
+        },
+        {
+          "letter": "B",
+          "text": "Obligar al lector a aprenderse de memoria otros libros antes de poder opinar.",
+          "is_correct": false,
+          "feedback": "La intertextualidad busca conexiones de significado, no memorización forzada."
+        },
+        {
+          "letter": "C",
+          "text": "Permitir que el autor copie fragmentos enteros para no tener que escribir ideas nuevas.",
+          "is_correct": false,
+          "feedback": "El plagio es una falta ética; la intertextualidad es un diálogo creativo."
+        },
+        {
+          "letter": "D",
+          "text": "Separar totalmente el contenido del texto de la realidad social para disfrutarlo mejor.",
+          "is_correct": false,
+          "feedback": "Al contrario, la intertextualidad suele anclar el texto a la cultura y la realidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad permite ver el texto como parte de una red de significados, facilitando una comprensión más profunda y situada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v5",
+      "statement": "Ante una noticia de WhatsApp con un titular impactante pero sin fuentes ni fecha, ¿cuál debe ser la actitud crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartirla de inmediato con todos sus contactos para alertarlos del peligro.",
+          "is_correct": false,
+          "feedback": "Compartir información no verificada contribuye a la desinformación."
+        },
+        {
+          "letter": "B",
+          "text": "Creer la noticia totalmente si el contenido coincide con sus opiniones políticas.",
+          "is_correct": false,
+          "feedback": "El sesgo de confirmación es lo opuesto al pensamiento crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Dudar de su veracidad y buscar confirmar la información en medios confiables.",
+          "is_correct": true,
+          "feedback": "Correcto. La verificación y el escepticismo sano son pilares de la lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar la aplicación de mensajes para evitar analizar cualquier tipo de información.",
+          "is_correct": false,
+          "feedback": "El aislamiento no es una solución; la solución es desarrollar habilidades de análisis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la era de la sobreinformación, evaluar la confiabilidad de las fuentes y el sustento de las afirmaciones es una competencia vital.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v6",
+      "statement": "¿Qué diferencia fundamental existe entre un **hecho** y una **opinión**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hechos suelen ser mucho más largos de explicar que las opiniones personales.",
+          "is_correct": false,
+          "feedback": "La extensión de la frase no define si es un dato objetivo o un juicio subjetivo."
+        },
+        {
+          "letter": "B",
+          "text": "Los hechos pueden ser verificados objetivamente; las opiniones expresan juicios subjetivos.",
+          "is_correct": true,
+          "feedback": "Correcto. Saber distinguir entre ambos permite evaluar la solidez de las pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Las opiniones siempre son verdaderas por naturaleza, mientras que los hechos son sospechosos.",
+          "is_correct": false,
+          "feedback": "Es al revés: los hechos son datos comprobables, las opiniones son puntos de vista."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna diferencia real; todo en un texto es simplemente opinión.",
+          "is_correct": false,
+          "feedback": "Aunque todo texto tiene autoría, los datos estadísticos son hechos distinguibles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar hechos de opiniones es fundamental para que el lector no se deje manipular por discursos que presentan preferencias como verdades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v7",
+      "statement": "Lee: *\"El desarrollo económico es necesario, pero no puede hacerse a costa de destruir el agua de nuestros páramos\"*. ¿Qué postura asume el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El autor se opone radicalmente a cualquier tipo de desarrollo económico.",
+          "is_correct": false,
+          "feedback": "El autor dice que es \"necesario\", por lo que no se opone a él."
+        },
+        {
+          "letter": "B",
+          "text": "El autor considera que el dinero es más importante que la protección natural.",
+          "is_correct": false,
+          "feedback": "El uso de \"pero\" indica que pone la condición ambiental como prioridad."
+        },
+        {
+          "letter": "C",
+          "text": "El autor defiende un equilibrio donde la protección del ecosistema es la prioridad.",
+          "is_correct": true,
+          "feedback": "Correcto. Prioriza la conservación del agua frente al crecimiento ilimitado."
+        },
+        {
+          "letter": "D",
+          "text": "El autor es un científico experto en geología que explica la formación de páramos.",
+          "is_correct": false,
+          "feedback": "El texto muestra una postura ética y política, no un conocimiento técnico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar conectores adversativos ayuda a identificar la verdadera intención y la escala de valores del autor de un texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v8",
+      "statement": "¿Cuál de las siguientes preguntas es la más útil para realizar una **evaluación crítica** de un editorial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Exactamente cuántos párrafos y palabras tiene el texto completo?",
+          "is_correct": false,
+          "feedback": "Esta es una pregunta sobre la forma superficial que no ayuda al análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "¿Qué tipo de letra y colores utilizó el diseñador gráfico para el titular?",
+          "is_correct": false,
+          "feedback": "Estos son aspectos estéticos ajenos a la solidez de los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "¿Qué argumentos presenta el autor y qué voces o datos está ignorando?",
+          "is_correct": true,
+          "feedback": "Correcto. Evalúa la lógica del razonamiento y los posibles sesgos por omisión."
+        },
+        {
+          "letter": "D",
+          "text": "¿Me parece que el autor tiene un estilo de escritura elegante y palabras bonitas?",
+          "is_correct": false,
+          "feedback": "Esta es una valoración estética subjetiva, no una evaluación de validez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica de un texto se centra en la solidez de la lógica argumentativa, la calidad de la evidencia y la ética del discurso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v9",
+      "statement": "¿A qué se refiere técnicamente la **intención comunicativa** de un autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al idioma específico en el que el autor decidió redactar su obra.",
+          "is_correct": false,
+          "feedback": "El idioma es el código, no el propósito o meta del mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Al propósito o meta final que el autor desea alcanzar con su mensaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo texto se escribe con un fin específico dirigido a influir en un receptor."
+        },
+        {
+          "letter": "C",
+          "text": "Al valor económico que el autor espera recibir por las ventas de su libro.",
+          "is_correct": false,
+          "feedback": "Este es un aspecto comercial ajeno a la intención comunicativa textual."
+        },
+        {
+          "letter": "D",
+          "text": "A la velocidad física con la que el autor fue capaz de escribir sus ideas.",
+          "is_correct": false,
+          "feedback": "Este es un dato técnico del proceso, no un objetivo comunicativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la intención es el primer paso para juzgar si el autor logró su objetivo y mediante qué estrategias persuasivas o informativas lo hizo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v10",
+      "statement": "¿Por qué es fundamental para un estudiante leer textos con posturas enfrentadas sobre un mismo tema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para confundirse totalmente y llegar a la conclusión de que nadie tiene la razón.",
+          "is_correct": false,
+          "feedback": "El fin es la claridad a través del análisis de diferencias."
+        },
+        {
+          "letter": "B",
+          "text": "Para desarrollar un criterio propio y autónomo basado en el contraste de ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. La pluralidad permite una visión más completa de la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Para demostrar que es capaz de leer más libros en menos tiempo que los demás.",
+          "is_correct": false,
+          "feedback": "La lectura crítica no es una competencia de velocidad, sino de profundidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así se cumple con el requisito de la tarea y se evita una mala nota.",
+          "is_correct": false,
+          "feedback": "Cumplir la tarea es una meta externa; el beneficio es el desarrollo intelectual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pensamiento crítico requiere salir de la \"burbuja\" de las ideas propias y entender la complejidad de los problemas contrastando fuentes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v11",
+      "statement": "Si un anuncio afirma que *\"9 de cada 10 odontólogos recomiendan este dulce\"*, ¿qué se debe cuestionar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si el empaque del dulce tiene colores llamativos para los niños.",
+          "is_correct": false,
+          "feedback": "Esta es una pregunta de diseño, no una evaluación de veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "Quién financió ese estudio y qué tipo de odontólogos fueron consultados.",
+          "is_correct": true,
+          "feedback": "Correcto. Las estadísticas publicitarias suelen estar sesgadas por intereses económicos."
+        },
+        {
+          "letter": "C",
+          "text": "Si el décimo odontólogo que no lo recomendó estaba de mal humor ese día.",
+          "is_correct": false,
+          "feedback": "Es una distracción humorística que no aborda la validez de la fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Por qué el anuncio no consultó a 20 odontólogos en lugar de solo a 10.",
+          "is_correct": false,
+          "feedback": "El problema no es solo el número, sino el conflicto de interés y representatividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad utiliza a menudo falacias de autoridad o datos sacados de contexto que deben ser analizados para evitar la manipulación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-v12",
+      "statement": "¿Cuál es la relación entre la **ética** y la interpretación crítica de los textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe ninguna relación real; la lectura es simplemente un proceso técnico.",
+          "is_correct": false,
+          "feedback": "Todo acto comunicativo humano tiene una dimensión de responsabilidad social."
+        },
+        {
+          "letter": "B",
+          "text": "La crítica evalúa la responsabilidad del autor frente a lo que afirma y sus efectos.",
+          "is_correct": true,
+          "feedback": "Correcto. Un lector crítico juzga la honestidad y el impacto social."
+        },
+        {
+          "letter": "C",
+          "text": "La ética solo es importante en textos religiosos, pero no en científicos.",
+          "is_correct": false,
+          "feedback": "La ética es fundamental en la ciencia y la política para buscar la verdad."
+        },
+        {
+          "letter": "D",
+          "text": "La ética consiste en estar siempre de acuerdo con lo que el libro de texto diga.",
+          "is_correct": false,
+          "feedback": "La ética fomenta el respeto, pero también el cuestionamiento bien sustentado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretar críticamente implica reconocer que el lenguaje tiene poder y que su uso conlleva una responsabilidad ética hacia la verdad y la comunidad.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido. |\n| Curricular | 40/40 | Cubre interpretación crítica para Grado 8. |\n| Contexto | 20/20 | Contextos locales y situaciones cotidianas. |\n| Redacción | 10/10 | Estilo formal y académico. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W31-interpretacion-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

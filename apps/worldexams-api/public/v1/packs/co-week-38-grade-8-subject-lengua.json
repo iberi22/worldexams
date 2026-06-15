@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-38-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.738Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica principal que define al **ensayo literario** frente a un artículo puramente científico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligación de incluir tablas estadísticas y gráficos matemáticos.",
+          "is_correct": false,
+          "feedback": "Propio de artículos técnicos, no del ensayo literario."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de un lenguaje estético y una visión subjetiva sobre el tema.",
+          "is_correct": true,
+          "feedback": "Correcto. Combina argumentación lógica con belleza del lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que debe ser escrito obligatoriamente por un grupo de diez expertos.",
+          "is_correct": false,
+          "feedback": "El ensayo suele ser un ejercicio de reflexión individual."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de una tesis o de una idea central para defender.",
+          "is_correct": false,
+          "feedback": "Todo ensayo requiere una idea central o tesis para ser tal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo literario es un género híbrido entre la literatura y el pensamiento, donde importa tanto lo que se dice como la forma en que se expresa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v2",
+      "statement": "¿Qué se entiende por **tesis** en el contexto de la escritura de un ensayo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen detallado de todos los libros que el autor leyó antes.",
+          "is_correct": false,
+          "feedback": "El resumen es herramienta, no la postura central que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "La postura o idea central que el autor pretende sustentar y defender.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el eje sobre el cual giran todos los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "El título llamativo y colorido que se pone al principio de la página.",
+          "is_correct": false,
+          "feedback": "El título identifica, pero la tesis es una proposición lógica."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de palabras difíciles que el autor decidió no incluir nunca.",
+          "is_correct": false,
+          "feedback": "La tesis es afirmación positiva, no una lista de omisiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la columna vertebral del ensayo. Sin una postura clara, el texto se convierte en acumulación de información sin propósito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v3",
+      "statement": "¿Cuál de estos fragmentos de su ensayo cumple la función de un **argumento de autoridad**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A mí personalmente me encanta montar bicicleta todos los domingos\".",
+          "is_correct": false,
+          "feedback": "Esta es una opinión personal, no un argumento de autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "\"Bogotá es una ciudad con muchos habitantes que necesitan espacios\".",
+          "is_correct": false,
+          "feedback": "Esta es una afirmación de contexto general, no de autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "\"Según la OMS, el ejercicio al aire libre reduce el estrés notablemente\".",
+          "is_correct": true,
+          "feedback": "Correcto. Se apoya en una institución reconocida para dar validez."
+        },
+        {
+          "letter": "D",
+          "text": "\"Espero que mi profesor me ponga una buena nota por este ensayo largo\".",
+          "is_correct": false,
+          "feedback": "Esta es una apelación al receptor ajena a la argumentación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El argumento de autoridad utiliza el prestigio de expertos o instituciones para reforzar la credibilidad de la tesis del ensayista.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v4",
+      "statement": "¿Por qué se dice que el ensayo literario tiene un carácter **dialógico**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque debe escribirse obligatoriamente como una obra de teatro.",
+          "is_correct": false,
+          "feedback": "No se refiere a la forma dramática, sino a la relación de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque establece una conversación entre autor, otros textos y el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayista dialoga con la tradición y busca reflexión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el autor debe hablar en voz alta mientras está escribiendo.",
+          "is_correct": false,
+          "feedback": "El diálogo es intelectual y textual, no una actividad física."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se puede publicar si se convence a un amigo de leerlo.",
+          "is_correct": false,
+          "feedback": "La cualidad dialógica es interna a la forma de abordar conocimientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo invita a la duda y a la reflexión compartida, reconociendo que el conocimiento es un proceso en constante construcción.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v5",
+      "statement": "En un ensayo, ¿cuál es la función de conectores como *\"sin embargo\"* o *\"por el contrario\"*?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el texto se vea más elegante y difícil para los compañeros.",
+          "is_correct": false,
+          "feedback": "Los conectores deben buscar la claridad, no la oscuridad."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar que el autor ha terminado su ensayo y ya no tiene más ideas.",
+          "is_correct": false,
+          "feedback": "Se usan dentro del desarrollo para unir oraciones, no al final."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir una contraargumentación o una idea que matiza lo anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. Son conectores de oposición que muestran complejidad."
+        },
+        {
+          "letter": "D",
+          "text": "Avisar al lector que debe buscar esas palabras en un diccionario.",
+          "is_correct": false,
+          "feedback": "Son palabras de uso común formal que el lector debe conocer."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso correcto de conectores de oposición demuestra que el autor considera diferentes puntos de vista antes de llegar a una conclusión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v6",
+      "statement": "¿Cuál escritor colombiano destacó por sus ensayos, como su discurso de aceptación del Nobel?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rafael Pombo, conocido principalmente por sus fábulas y poesías.",
+          "is_correct": false,
+          "feedback": "Pombo fue poeta, no figura central del ensayo sobre el Nobel."
+        },
+        {
+          "letter": "B",
+          "text": "Gabriel García Márquez, autor del ensayo 'La soledad de América Latina'.",
+          "is_correct": true,
+          "feedback": "Correcto. Reflexiona sobre la realidad social y cultural regional."
+        },
+        {
+          "letter": "C",
+          "text": "Simón Bolívar, quien se dedicó primordialmente a las cartas militares.",
+          "is_correct": false,
+          "feedback": "Sus textos son históricos, el Nobel mencionado es del s. XX."
+        },
+        {
+          "letter": "D",
+          "text": "Juan Manuel Santos, reconocido por sus discursos políticos actuales.",
+          "is_correct": false,
+          "feedback": "Aunque recibió Nobel de Paz, la pregunta enfoca lo literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo de García Márquez ante la Academia Sueca es fundamental para entender cómo los escritores colombianos interpretan su realidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v7",
+      "statement": "¿Cuál es la forma más efectiva de iniciar un ensayo literario escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar con una lista de definiciones de diccionario sobre el tema.",
+          "is_correct": false,
+          "feedback": "Las definiciones planas suelen alejar al lector interesado."
+        },
+        {
+          "letter": "B",
+          "text": "Plantear una pregunta provocadora o una anécdota impactante.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca generar curiosidad y situar al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir disculpas al lector por no ser un experto mundial en la materia.",
+          "is_correct": false,
+          "feedback": "La falsa modestia resta autoridad y fuerza al texto del ensayista."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir el final de la historia primero para no tener que leer todo.",
+          "is_correct": false,
+          "feedback": "El ensayo no es narración de suspenso; requiere desarrollo lógico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen inicio debe contextualizar el problema y dejar clara la relevancia del tema para la vida del lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v8",
+      "statement": "¿Por qué se afirma que el ensayo literario tiene un pie en la ciencia y otro en el arte?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque debe ser escrito por alguien con dos títulos universitarios.",
+          "is_correct": false,
+          "feedback": "Se refiere a la naturaleza del género, no a la formación del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa el rigor del pensamiento lógico y la belleza del lenguaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca conocimiento mediante una expresión estética."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los ensayos literarios solo se pueden leer en laboratorios.",
+          "is_correct": false,
+          "feedback": "Son textos de circulación general en medios culturales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor debe hacer dibujos artísticos de sus experimentos.",
+          "is_correct": false,
+          "feedback": "El componente artístico reside en el estilo y recursos literarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A diferencia del tratado científico que es frío, el ensayo literario es cálido y busca conmover al lector mientras lo convence.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v9",
+      "statement": "¿Quién es considerado creador del ensayo moderno con su obra 'Essais'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "William Shakespeare, el gran dramaturgo autor de tragedias famosas.",
+          "is_correct": false,
+          "feedback": "Shakespeare destacó en teatro y poesía, no en ensayo formal."
+        },
+        {
+          "letter": "B",
+          "text": "Michel de Montaigne, quien buscaba probar sus propias ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. Su obra marcó el inicio del género como exploración."
+        },
+        {
+          "letter": "C",
+          "text": "Miguel de Cervantes, el autor de la famosísima novela 'El Quijote'.",
+          "is_correct": false,
+          "feedback": "Cervantes es el padre de la novela moderna, no del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Isaac Newton, el científico que descubrió las leyes de gravedad.",
+          "is_correct": false,
+          "feedback": "Newton escribió tratados científicos, diferentes al ensayo personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Montaigne entendió el ensayo como un ejercicio de introspección donde el autor se analiza para entender la condición humana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v10",
+      "statement": "¿Cuál es la función primordial de la **conclusión** en un ensayo literario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir exactamente las mismas palabras que se usaron al inicio.",
+          "is_correct": false,
+          "feedback": "Debe ser una síntesis enriquecida, no repetición mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar los argumentos y dejar una reflexión o nueva pregunta.",
+          "is_correct": true,
+          "feedback": "Correcto. Cierra argumentación abriendo puertas al pensamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Listar de forma desordenada todos los temas que no se trataron.",
+          "is_correct": false,
+          "feedback": "Debe enfocarse en lo que sí se trató y en cómo se demostró."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir al lector que ignore todo porque el autor cambió de opinión.",
+          "is_correct": false,
+          "feedback": "Debe mantener coherencia lógica de principio a fin."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusión es el momento de cierre donde se recogen los frutos de la argumentación y se proyecta el tema hacia el futuro.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v11",
+      "statement": "¿Qué ocurre si un autor oculta deliberadamente datos que contradicen su tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su ensayo será premiado por tener una visión muy clara.",
+          "is_correct": false,
+          "feedback": "La falta de honestidad suele ser detectada y resta validez."
+        },
+        {
+          "letter": "B",
+          "text": "Pierde credibilidad y ética, pues debe ser una búsqueda honesta.",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen ensayista aborda y responde contraargumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto se convertirá automáticamente en un poema de amor.",
+          "is_correct": false,
+          "feedback": "Depende de intención y estructura, no de omisión de datos."
+        },
+        {
+          "letter": "D",
+          "text": "No ocurre nada, pues está permitido inventar cualquier dato falso.",
+          "is_correct": false,
+          "feedback": "El ensayo se basa en reflexión sobre la realidad y requiere rigor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ética del ensayista reside en su capacidad para dialogar con la realidad de forma honesta, incluso cuando desafía sus creencias.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v12",
+      "statement": "¿Cuál es el beneficio intelectual de aprender a escribir ensayos literarios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a escribir muy rápido para terminar los exámenes antes.",
+          "is_correct": false,
+          "feedback": "Requiere tiempo de reflexión; no es ejercicio de velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollar el pensamiento crítico y la capacidad de argumentar.",
+          "is_correct": true,
+          "feedback": "Correcto. Habilidades fundamentales para ciudadanía y educación."
+        },
+        {
+          "letter": "C",
+          "text": "Memorizar todas las reglas gramaticales para no cometer errores.",
+          "is_correct": false,
+          "feedback": "La gramática es herramienta, el fin es el desarrollo del pensamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Ser capaz de convencer a cualquier persona de cualquier mentira.",
+          "is_correct": false,
+          "feedback": "El fin es la búsqueda de verdad y expresión honesta, no engaño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo es un laboratorio del pensamiento que entrena al estudiante para analizar problemas complejos y proponer soluciones.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |\n| Curricular | 40/40 | Cubre el género del ensayo según DBA. |\n| Contexto | 20/20 | Referencias a García Márquez y contexto local. |\n| Redacción | 10/10 | Estilo formal y explicaciones claras. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

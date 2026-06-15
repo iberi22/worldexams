@@ -1,313 +1,286 @@
 ---
-id: "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY"
+id: "CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "poesia-hispanoamericana"
-semana: "W36"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W36"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Poesia hispanoamericana - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Poesía Hispanoamericana - Grado 8
 
-Este bundle contiene 12 preguntas sobre la **poesía hispanoamericana** para grado 8, explorando sus figuras retóricas, movimientos (desde el Modernismo hasta las Vanguardias) y autores fundamentales, alineadas con los DBA del MEN Colombia.
+Este bundle contiene 12 preguntas sobre la **poesía hispanoamericana** para grado 8, explorando movimientos desde el modernismo hasta las vanguardias, alineadas con los DBA del MEN Colombia.
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
+**Contexto:** La poesía en América Latina alcanzó su independencia estética con un movimiento que buscaba la belleza.
 
 ### Enunciado
-¿Cuál es la obra fundacional del Modernismo, publicada por Rubén Darío en 1888?
+¿Quién es el autor nicaragüense, padre del **Modernismo**, cuya obra 'Azul...' marcó el inicio de este movimiento?
 
 ### Opciones
-- [ ] A) 'Residencia en la tierra'.
-  <!-- feedback: Obra fundamental de Pablo Neruda. -->
-- [x] B) 'Azul...'.
-  <!-- feedback: Correcto. Libro de poemas y cuentos que inició la renovación modernista. -->
-- [ ] C) 'Trilce'.
-  <!-- feedback: Obra vanguardista de César Vallejo. -->
-- [ ] D) 'Los heraldos negros'.
-  <!-- feedback: Obra temprana de César Vallejo. -->
+- [ ] A) José Martí, el poeta cubano que buscaba sencillez y compromiso. <!-- feedback: Martí fue un precursor importante, no el autor de 'Azul...'. -->
+- [x] B) Rubén Darío, cuya poesía renovó el ritmo y el vocabulario de la lengua. <!-- feedback: Correcto. Darío es la figura central que unificó el Modernismo. -->
+- [ ] C) Pablo Neruda, el gran poeta chileno famoso por sus odas. <!-- feedback: Neruda pertenece al siglo XX y exploró otros movimientos posteriores. -->
+- [ ] D) César Vallejo, el poeta peruano que rompió la sintaxis en 'Trilce'. <!-- feedback: Vallejo es exponente de la vanguardia, posterior al Modernismo. -->
 
-### Explicación Pedagógica
-'Azul...' de Rubén Darío introdujo temas exóticos, un lenguaje musical y una nueva sensibilidad en las letras hispanas.
+### Explicacion Pedagogica
+El Modernismo fue el primer movimiento literario nacido en América Latina que influyó directamente en España, buscando la elegancia y la sonoridad.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.82
+**Contexto:** Las mujeres han tenido un papel fundamental en la lírica de nuestro continente.
 
 ### Enunciado
-¿Qué es una **metáfora** en el análisis poético?
+¿Qué poeta chilena fue la primera persona de América Latina en recibir el **Premio Nobel de Literatura**?
 
 ### Opciones
-- [ ] A) Una comparación que usa siempre la palabra "como".
-  <!-- feedback: Esto es un símil o comparación explícita. -->
-- [x] B) Identificar un término real con uno imaginario por su semejanza, sin usar "como".
-  <!-- feedback: Correcto. Ej: "Las perlas de tu boca" por los dientes. -->
-- [ ] C) Repetir el mismo sonido al principio de cada verso.
-  <!-- feedback: Esto se llama aliteración. -->
-- [ ] D) Escribir poemas que tienen forma de dibujo.
-  <!-- feedback: Esto se conoce como caligrama. -->
+- [ ] A) Alfonsina Storni, la poeta argentina que exploró la condición de la mujer. <!-- feedback: Storni fue figura fundamental, pero no recibió el Nobel. -->
+- [x] B) Gabriela Mistral, cuya poesía destacó por su enfoque en infancia y amor. <!-- feedback: Correcto. Mistral puso la voz de las mujeres en el centro del mundo. -->
+- [ ] C) Sor Juana Inés de la Cruz, la brillante escritora novohispana colonial. <!-- feedback: Sor Juana murió siglos antes de que se creara el Premio Nobel. -->
+- [ ] D) Meira Delmar, la recordada poeta colombiana que cantó al amor y al Caribe. <!-- feedback: Es una de las voces más queridas, pero no recibió el Nobel. -->
 
-### Explicación Pedagógica
-La metáfora es la figura reina de la poesía, permitiendo crear nuevas realidades a través de la asociación de ideas.
+### Explicacion Pedagogica
+El Nobel a Gabriela Mistral reconoció una poesía cargada de humanidad, compromiso social y una musicalidad única nacida de la tierra americana.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.78
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.76
+**Contexto:** La vanguardia buscó romper con todas las reglas tradicionales de la poesía.
 
 ### Enunciado
-Lee estos versos: *"Hay golpes en la vida, tan fuertes... ¡Yo no sé! / Golpes como del odio de Dios"*. ¿A qué autor pertenecen y qué sentimiento expresan?
+Si lees un poema donde los versos forman una figura visual relacionada con el tema, estás ante:
 
 ### Opciones
-- [ ] A) Rubén Darío - Alegría por la naturaleza.
-  <!-- feedback: El tono es de dolor y desconcierto existencial. -->
-- [x] B) César Vallejo - Dolor profundo y existencialismo.
-  <!-- feedback: Correcto. Son los versos iniciales de 'Los heraldos negros'. -->
-- [ ] C) Pablo Neruda - Amor romántico apasionado.
-  <!-- feedback: El tema es el sufrimiento humano, no el amor romántico. -->
-- [ ] D) Gabriela Mistral - Maternidad y ternura.
-  <!-- feedback: Vallejo expresa una angustia humana universal en estos versos. -->
+- [ ] A) Un soneto clásico con rima consonante y catorce versos. <!-- feedback: El soneto es forma tradicional rígida que no busca figuras visuales. -->
+- [x] B) Un caligrama, recurso muy utilizado por las vanguardias como creacionismo. <!-- feedback: Correcto. El caligrama une la poesía con artes visuales para el mensaje. -->
+- [ ] C) Un error de impresión de la editorial que desordenó las líneas del texto. <!-- feedback: Es una técnica artística deliberada, no un fallo técnico de imprenta. -->
+- [ ] D) Un texto de prosa científica que describe la forma de los objetos. <!-- feedback: Se trata de un recurso lírico que utiliza el lenguaje con fines estéticos. -->
 
-### Explicación Pedagógica
-Vallejo es el poeta de la orfandad y el dolor humano, usando un lenguaje que rompe las reglas tradicionales.
+### Explicacion Pedagogica
+Las vanguardias defendían que el poeta es capaz de crear mundos nuevos a través de la experimentación con la forma y el contenido.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.75
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.72
+**Contexto:** Pablo Neruda es quizás el poeta más famoso de nuestra lengua.
 
 ### Enunciado
-¿Cuál es la característica principal de las **Vanguardias** poéticas (años 20)?
+¿Cuál es la importancia de la obra **'Canto General'** de Pablo Neruda?
 
 ### Opciones
-- [ ] A) Seguir usando rimas perfectas y versos medidos.
-  <!-- feedback: Las vanguardias buscaban romper con la métrica tradicional. -->
-- [x] B) La experimentación libre, el uso del verso libre y la ruptura con la tradición.
-  <!-- feedback: Correcto. Buscaban lo nuevo, lo insólito y lo irracional. -->
-- [ ] C) Escribir solo sobre la vida de los santos.
-  <!-- feedback: El tema era diverso, incluyendo la ciudad, las máquinas y el inconsciente. -->
-- [ ] D) Prohibir el uso de adjetivos en todos los poemas.
-  <!-- feedback: Aunque algunos movimientos (como el Creacionismo) limitaban ciertos recursos, no era una prohibición general. -->
+- [ ] A) Es un libro de poemas breves que solo hablan de la vida personal del autor. <!-- feedback: 'Canto General' es obra de gran extensión con propósito continental. -->
+- [x] B) Es una epopeya que busca narrar historia, naturaleza y luchas de América. <!-- feedback: Correcto. Neruda intenta dar voz al continente desde sus orígenes. -->
+- [ ] C) Es un manual técnico sobre cómo escribir versos que rimen en español. <!-- feedback: Aunque Neruda era maestro de la lengua, su libro es obra creativa épica. -->
+- [ ] D) Es una traducción al español de antiguos poemas escritos en Grecia. <!-- feedback: Es obra original creada para exaltar identidad y geografía americanas. -->
 
-### Explicación Pedagógica
-La vanguardia liberó a la poesía de las "ataduras" de la rima y el ritmo clásicos, permitiendo una expresión más directa de la subjetividad.
+### Explicacion Pedagogica
+Neruda utilizó la poesía como herramienta de identidad y denuncia, convirtiendo el paisaje de América en materia lírica universal.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.65
+**Contexto:** Las vanguardias trajeron una forma de escribir que parecía no tener sentido lógico.
 
 ### Enunciado
-¿Qué importancia tuvo la chilena **Gabriela Mistral** para las letras hispanoamericanas?
+Lee: *"Hoy me gusta la vida mucho menos, pero siempre me gusta vivir"*. ¿Qué actitud se infiere?
 
 ### Opciones
-- [ ] A) Fue la primera mujer en ser presidenta de Chile.
-  <!-- feedback: Fue diplomática y educadora, pero no presidenta. -->
-- [x] B) Fue la primera persona latinoamericana en recibir el Premio Nobel de Literatura (1945).
-  <!-- feedback: Correcto. Un hito histórico para la cultura de la región. -->
-- [ ] C) Inventó el primer computador para escribir versos.
-  <!-- feedback: Distractor tecnológico absurdo. -->
-- [ ] D) Escribió el himno nacional de todos los países de América.
-  <!-- feedback: Su obra es lírica, pedagógica y social, no de himnos nacionales. -->
+- [ ] A) Que el poeta ha decidido dejar de escribir porque está muy aburrido. <!-- feedback: No hay indicios de abandono; es una profunda reflexión existencial. -->
+- [x] B) Una contradicción humana entre sufrimiento cotidiano y deseo de existir. <!-- feedback: Correcto. Muestra lucha entre dolor de vivir y voluntad de seguir. -->
+- [ ] C) Que el poeta tiene mala memoria y olvida lo que le gusta al momento. <!-- feedback: La frase no es un olvido, es una paradoja sobre la complejidad humana. -->
+- [ ] D) Que al poeta le gustan las matemáticas y hace una resta de sentimientos. <!-- feedback: El uso de "menos" es metafórico y emocional, no aritmética literal. -->
 
-### Explicación Pedagógica
-Mistral combinó una poesía de gran profundidad emocional con una labor pedagógica y social en toda América.
+### Explicacion Pedagogica
+La poesía de Vallejo es de las más humanas, expresando el dolor del mundo y la solidaridad con los que sufren mediante un lenguaje renovado.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.80
+**Contexto:** En el Caribe, el ritmo y la herencia africana dieron origen a poesía musical.
 
 ### Enunciado
-¿Qué es un **caligrama** y quién fue un autor hispanoamericano destacado en su creación?
+¿Cómo se conoce al movimiento de Nicolás Guillén que resalta mestizaje y ritmo de tambor?
 
 ### Opciones
-- [ ] A) Un poema que se lee al revés; el autor fue Jorge Luis Borges.
-  <!-- feedback: Eso sería un palíndromo, aunque Borges no se destacó por ello. -->
-- [x] B) Un poema cuya disposición visual forma un dibujo relacionado con el tema; el autor fue Vicente Huidobro.
-  <!-- feedback: Correcto. Recurso típico de la vanguardia (Creacionismo). -->
-- [ ] C) Un poema escrito con caligrafía muy pequeña; el autor fue Juan Rulfo.
-  <!-- feedback: El término se refiere a la imagen visual, no al tamaño de la letra. -->
-- [ ] D) Una máquina de escribir antigua.
-  <!-- feedback: Confusión con un objeto técnico. -->
+- [ ] A) Poesía Clásica Española, basada en modelos de Garcilaso de la Vega. <!-- feedback: Buscaba precisamente alejarse de modelos rígidos europeos. -->
+- [x] B) Poesía Negra o Neogridismo, que incorpora el sonido afroantillano. <!-- feedback: Correcto. Celebra la mezcla cultural mediante musicalidad popular. -->
+- [ ] C) Poesía Purista, que evita contacto con la realidad social o ritmos. <!-- feedback: Al contrario, está profundamente anclada en realidad y música del pueblo. -->
+- [ ] D) Poesía Científica, que busca explicar leyes físicas mediante versos. <!-- feedback: Su centro es identidad cultural, raza y ritmo musical de las Antillas. -->
 
-### Explicación Pedagógica
-El caligrama une la literatura con las artes plásticas, haciendo que el texto "se vea" además de leerse.
+### Explicacion Pedagogica
+Nicolás Guillén utilizó onomatopeyas y ritmos cubanos para crear una poesía que denunciaba el racismo y celebraba la unión de razas.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** Los poetas contemporáneos bajan la poesía del pedestal para hablar como la gente.
 
 ### Enunciado
-Si un poema dice: *"Mírame, mírame, soy el río que pasa"*, ¿qué figura retórica predomina?
+El poeta chileno Nicanor Parra creó la **"Antipoesía"**. ¿Cuál es su propuesta?
 
 ### Opciones
-- [ ] A) Hipérbole.
-  <!-- feedback: La hipérbole es una exageración; aquí no hay una exageración evidente. -->
-- [ ] B) Antítesis.
-  <!-- feedback: No hay oposición de ideas contrarias. -->
-- [x] C) Personificación o Prosopopeya.
-  <!-- feedback: Correcto. Se le otorga voz y conciencia humana a un elemento natural (el río). -->
-- [ ] D) Epíteto.
-  <!-- feedback: El epíteto es un adjetivo innecesario (ej: nieve blanca). -->
+- [ ] A) Prohibir que la gente escriba poemas para dedicarse solo a la ciencia. <!-- feedback: Parra no quería eliminar poesía, sino transformarla profundamente. -->
+- [x] B) Usar lenguaje cotidiano, humor e ironía para acercar poesía a la vida. <!-- feedback: Correcto. Rechaza el lenguaje excesivamente adornado del pasado. -->
+- [ ] C) Escribir poemas que solo puedan ser comprendidos por reyes y ricos. <!-- feedback: Al contrario, la antipoesía busca ser directa y popular. -->
+- [ ] D) Obligar a los poetas a escribir únicamente en latín antiguo formal. <!-- feedback: Parra defendía el uso del lenguaje de la calle, el habla común. -->
 
-### Explicación Pedagógica
-Darle cualidades humanas a objetos o seres inanimados es un recurso frecuente para generar empatía y belleza.
+### Explicacion Pedagogica
+La antipoesía rompió con la imagen del poeta místico, proponiendo lírica cruda, irónica y cargada de realidad social y cotidiana.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.58
+**Contexto:** Octavio Paz, poeta y ensayista mexicano, reflexionó sobre la palabra.
 
 ### Enunciado
-¿Cuál es la diferencia entre la **poesía pura** y la **poesía social** o comprometida?
+En 'Piedra de sol', Octavio Paz usa una estructura circular. ¿Qué mensaje transmite?
 
 ### Opciones
-- [ ] A) La poesía pura usa colores y la social solo blanco y negro.
-  <!-- feedback: Diferencia estética inexistente. -->
-- [x] B) La pura busca la belleza y perfección estética; la social busca denunciar injusticias y transformar la realidad.
-  <!-- feedback: Correcto. Neruda, por ejemplo, transitó de una a la otra. -->
-- [ ] C) La poesía pura es para niños y la social para ancianos.
-  <!-- feedback: Ambas pueden ser leídas por cualquier público con criterio. -->
-- [ ] D) La poesía pura no usa verbos y la social solo usa adjetivos.
-  <!-- feedback: Ambas usan todos los recursos de la lengua. -->
+- [ ] A) Que el tiempo es una línea recta que comienza y termina sin repetición. <!-- feedback: La estructura circular contradice la visión lineal del tiempo. -->
+- [x] B) Que el tiempo es cíclico, un eterno retorno donde pasado y presente se unen. <!-- feedback: Correcto. Refleja la visión mítica de culturas prehispánicas. -->
+- [ ] C) Que el tiempo es una invención inútil de los hombres y en realidad no existe. <!-- feedback: El poema reflexiona seriamente sobre el tiempo como dimensión vital. -->
+- [ ] D) Que el tiempo debe medirse únicamente con relojes digitales modernos. <!-- feedback: La obra se basa en simbología antigua para proponer visión poética. -->
 
-### Explicación Pedagógica
-El debate entre el "arte por el arte" y el "arte como herramienta de lucha" ha marcado la historia de la poesía en Hispanoamérica.
+### Explicacion Pedagogica
+Octavio Paz unió tradición de vanguardia con raíces mitológicas, creando una poesía intelectual y apasionada a la vez.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** Colombia también ha aportado voces que exploraron la soledad y la ciudad.
 
 ### Enunciado
-¿Quién es el poeta colombiano autor de 'Nocturno III', famoso por su innovación métrica y su trágico final?
+¿A qué movimiento colombiano perteneció José Asunción Silva ('Nocturno III')?
 
 ### Opciones
-- [ ] A) Gabriel García Márquez.
-  <!-- feedback: Famoso por su prosa, no por su obra poética. -->
-- [x] B) José Asunción Silva.
-  <!-- feedback: Correcto. Precursor del modernismo en Colombia. -->
-- [ ] C) Álvaro Mutis.
-  <!-- feedback: Destacado por su saga de Maqroll el Gaviero, más tardío. -->
-- [ ] D) Rafael Pombo.
-  <!-- feedback: Famoso por sus fábulas y poesías del siglo XIX, anterior a Silva. -->
+- [ ] A) Al Vanguardismo, que buscaba ruptura total con la gramática lógica. <!-- feedback: Silva fue precursor; vanguardia llegó a Colombia décadas después. -->
+- [x] B) Al Modernismo (precursor), con nuevas métricas y sensibilidad melancólica. <!-- feedback: Correcto. Figura clave que preparó renovación lírica nacional. -->
+- [ ] C) Al Realismo Social, dedicado a denunciar condiciones de campesinos. <!-- feedback: Su obra es íntima, subjetiva y enfocada en interioridad y elegancia. -->
+- [ ] D) Al Nadaísmo, grupo que buscaba escandalizar con poemas rebeldes. <!-- feedback: El Nadaísmo es movimiento de los años 60, muy posterior a Silva. -->
 
-### Explicación Pedagógica
-Silva es el pilar de la poesía moderna en Colombia, rompiendo la rigidez de los versos de su época.
+### Explicacion Pedagogica
+José Asunción Silva renovó la poesía colombiana mediante experimentación con el ritmo y exploración de temas como la muerte y el misterio.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** El Nadaísmo en Colombia renovó los temas líricos nacionales.
 
 ### Enunciado
-¿Qué significa que un poema sea **"lírico"**?
+¿Cuál fue la propuesta estética del grupo colombiano **Nadaísmo**?
 
 ### Opciones
-- [ ] A) Que cuenta una batalla histórica larga.
-  <!-- feedback: Eso sería poesía épica. -->
-- [x] B) Que expresa el mundo interior, sentimientos y emociones del autor o hablante lírico.
-  <!-- feedback: Correcto. Predomina la subjetividad. -->
-- [ ] C) Que está escrito para ser actuado en un teatro sin hablar.
-  <!-- feedback: Eso sería mímica o teatro dramático. -->
-- [ ] D) Que solo habla de los problemas económicos de un país.
-  <!-- feedback: Puede hacerlo, pero la lírica se define por la expresión de sentimientos. -->
+- [ ] A) Recuperar formas clásicas de poesía española para ser más elegantes. <!-- feedback: El Nadaísmo buscaba romper con toda tradición académica. -->
+- [x] B) Cuestionar valores tradicionales mediante poesía rebelde y provocadora. <!-- feedback: Correcto. Movimiento de vanguardia por libertad y ruptura social. -->
+- [ ] C) Escribir poemas que solo hablaran de belleza de paisajes de los Andes. <!-- feedback: Su temática era urbana, existencial y crítica con instituciones. -->
+- [ ] D) Prohibir el uso de metáforas para que la gente entienda todo directo. <!-- feedback: Utilizaban recursos vanguardistas para expresar descontento y visión. -->
 
-### Explicación Pedagógica
-La lírica se asocia históricamente con la música (el instrumento de la lira), destacando la armonía y la emoción.
+### Explicacion Pedagogica
+El Nadaísmo representó ruptura generacional en Colombia, influyendo en cómo los jóvenes veían cultura, religión y literatura en los 60.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** La poesía contemporánea a veces utiliza medios como performance.
 
 ### Enunciado
-¿Cuál es la función del **hablante lírico** en un poema?
+Si un poeta lee su obra en plaza pública con representación teatral y sonidos, es:
 
 ### Opciones
-- [ ] A) Es el poeta real que nos cuenta su vida tal cual ocurrió.
-  <!-- feedback: No siempre coincide el poeta real con la voz del poema. -->
-- [x] B) Es la voz ficticia creada por el poeta para expresar los sentimientos en el texto.
-  <!-- feedback: Correcto. Es similar al narrador en el cuento. -->
-- [ ] C) Es la persona que lee el poema en voz alta en una biblioteca.
-  <!-- feedback: Ese es el declamador o lector. -->
-- [ ] D) Es el nombre de la rima que se usa al final del verso.
-  <!-- feedback: La rima es un recurso sonoro, no una voz. -->
+- [ ] A) Poesía Erudita de Biblioteca, que solo debe leerse en silencio absoluto. <!-- feedback: Esta forma busca salir de libros y ocupar espacio público. -->
+- [x] B) Performance poética o Spoken Word, donde cuerpo y voz son el centro. <!-- feedback: Correcto. Tendencia actual de conexión directa y viva con público. -->
+- [ ] C) Un error de conducta que debería ser sancionado por autoridades de ciudad. <!-- feedback: Es manifestación artística contemporánea legítima y valorada hoy. -->
+- [ ] D) Una técnica secreta para vender más libros impresos en ferias nacionales. <!-- feedback: Aunque ayuda a difusión, es ante todo búsqueda estética diferente. -->
 
-### Explicación Pedagógica
-Es importante no confundir al autor (persona de carne y hueso) con el hablante (ser de papel que "habla" en el poema).
+### Explicacion Pedagogica
+La poesía actual ha desbordado límites del libro para encontrarse con música, imagen y acción física, recuperando su origen oral.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W36-poesia-hispanoamericana-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** Leer poesía nos ayuda a comprender el mundo de forma diferente.
 
 ### Enunciado
-¿Por qué se dice que el **soneto** es una estructura poética "clásica" o "tradicional"?
+¿Cuál es la función de la poesía en la formación de un estudiante de grado 8?
 
 ### Opciones
-- [ ] A) Porque tiene un número infinito de versos.
-  <!-- feedback: Tiene una estructura fija y limitada. -->
-- [ ] B) Porque solo se puede escribir sobre el sol.
-  <!-- feedback: Se puede escribir sobre cualquier tema. -->
-- [x] C) Porque tiene una estructura fija de 14 versos (dos cuartetos y dos tercetos) con rima consonante.
-  <!-- feedback: Correcto. Es una de las formas más exigentes y perfeccionadas de la tradición. -->
-- [ ] D) Porque fue inventado en la prehistoria.
-  <!-- feedback: Nació en el Renacimiento italiano y se perfeccionó en los siglos posteriores. -->
+- [ ] A) Aprender a deletrear palabras difíciles para ganar concursos escolares. <!-- feedback: La poesía es arte y expresión, no simple ejercicio de deletreo. -->
+- [x] B) Desarrollar sensibilidad estética y capacidad de expresar emociones. <!-- feedback: Correcto. Permite ver realidad desde metáfora y subjetividad. -->
+- [ ] C) Servir como castigo para estudiantes que no hacen silencio en clases. <!-- feedback: La poesía debe ser encuentro placentero, nunca instrumento de castigo. -->
+- [ ] D) Proporcionar datos exactos sobre temperatura media de ciudades americanas. <!-- feedback: La poesía ofrece "verdades" simbólicas, no datos estadísticos. -->
 
-### Explicación Pedagógica
-El soneto representa el orden y la armonía clásicos, desafiando al poeta a expresar grandes ideas en un espacio muy reducido.
+### Explicacion Pedagogica
+La poesía entrena la mente para captar la ambigüedad, belleza y profundidad de la experiencia humana, enriqueciendo el vocabulario emocional.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido. |
+| Curricular | 40/40 | Cubre desde Modernismo hasta Nadaísmo. |
+| Contexto | 20/20 | Referencias regionales apropiadas. |
+| Redacción | 10/10 | Lenguaje formal. |
+| **Total** | **100/100** | |

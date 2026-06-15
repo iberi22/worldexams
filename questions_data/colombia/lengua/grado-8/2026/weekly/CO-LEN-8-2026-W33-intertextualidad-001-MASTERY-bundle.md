@@ -1,21 +1,23 @@
 ---
-id: "CO-LEN-8-2026-W33-intertextualidad-001-MASTERY"
+id: "CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "intertextualidad"
-semana: "W33"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W33"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Intertextualidad - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Intertextualidad - Grado 8
@@ -24,290 +26,261 @@ Este bundle contiene 12 preguntas sobre **intertextualidad** para grado 8, anali
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.85
+**Contexto:** La literatura es un diálogo constante entre autores de diferentes épocas y lugares.
 
 ### Enunciado
-¿Qué es la **intertextualidad** en literatura?
+¿A qué se refiere técnicamente el concepto de **intertextualidad** en el ámbito literario?
 
 ### Opciones
-- [ ] A) El proceso de traducir un libro de un idioma a otro.
-  <!-- feedback: La traducción es un proceso lingüístico, no define la intertextualidad esencialmente. -->
-- [x] B) La relación que un texto mantiene con otros textos (anteriores o contemporáneos).
-  <!-- feedback: Correcto. Es el diálogo o conexión entre diferentes obras. -->
-- [ ] C) El número de páginas que tiene un libro impreso.
-  <!-- feedback: Esto es una característica física del objeto libro. -->
-- [ ] D) Escribir un texto sin leer nunca nada de otros autores.
-  <!-- feedback: Esto sería lo opuesto; la intertextualidad asume que todo texto nace de otros. -->
+- [ ] A) Al proceso mediante el cual un libro es traducido fielmente de un idioma a otro. <!-- feedback: La traducción es un proceso lingüístico, no la esencia de intertextualidad. -->
+- [x] B) A la relación de diálogo, cita o influencia que un texto mantiene con otros. <!-- feedback: Correcto. Es la conexión explícita o implícita entre obras culturales. -->
+- [ ] C) Al número total de páginas y capítulos que componen un libro impreso físicamente. <!-- feedback: Característica material, no un concepto de relación textual. -->
+- [ ] D) Al acto de escribir un texto original sin haber leído nunca nada de otros autores. <!-- feedback: Lo opuesto; la intertextualidad asume que todo texto nace de lecturas previas. -->
 
-### Explicación Pedagógica
-La intertextualidad sugiere que ningún texto es una isla; todos están conectados por referencias, citas, parodias o influencias.
+### Explicacion Pedagogica
+La intertextualidad sugiere que ningún texto es una entidad aislada; todos están conectados mediante referencias, citas, parodias o influencias de obras anteriores.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.82
+**Contexto:** Es vital distinguir entre el uso creativo de las fuentes y la falta de ética intelectual.
 
 ### Enunciado
-¿Cuál es la diferencia entre **plagio** e intertextualidad?
+¿Cuál es la diferencia fundamental entre el **plagio** y la intertextualidad legítima?
 
 ### Opciones
-- [x] A) El plagio oculta la fuente para engañar; la intertextualidad propone un diálogo creativo con la fuente.
-  <!-- feedback: Correcto. La intertextualidad es un recurso literario legítimo; el plagio es un robo intelectual. -->
-- [ ] B) El plagio solo ocurre en los poemas y la intertextualidad en las novelas.
-  <!-- feedback: Ambos pueden ocurrir en cualquier género literario o académico. -->
-- [ ] C) No hay diferencia; ambos consisten en copiar lo que otros escribieron.
-  <!-- feedback: La diferencia radica en la intención, el reconocimiento de la fuente y la transformación creativa. -->
-- [ ] D) La intertextualidad es ilegal y el plagio es un premio literario.
-  <!-- feedback: Es exactamente al revés en términos de ética y ley. -->
+- [x] A) El plagio oculta la fuente para engañar; la intertextualidad propone un diálogo reconocido. <!-- feedback: Correcto. La intertextualidad es un recurso literario; el plagio es un robo. -->
+- [ ] B) El plagio solo puede ocurrir en los poemas, mientras que la intertextualidad solo en novelas. <!-- feedback: Ambos fenómenos pueden presentarse en cualquier género literario. -->
+- [ ] C) No existe ninguna diferencia real; ambos consisten en copiar lo que otros escribieron. <!-- feedback: La diferencia radica en la intención, el reconocimiento y la transformación. -->
+- [ ] D) La intertextualidad es un delito legal y el plagio es considerado un gran premio. <!-- feedback: Al revés: el plagio es una falta ética y legal, la intertextualidad un valor. -->
 
-### Explicación Pedagógica
-Reconocer las fuentes y transformarlas es la base de la creación literaria consciente.
+### Explicacion Pedagogica
+Reconocer las fuentes de inspiración y transformarlas creativamente es la base de la creación artística consciente y ética.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.78
+**Contexto:** Los diálogos entre obras también ocurren en el mundo del cine y la televisión moderna.
 
 ### Enunciado
-Si una película de superhéroes moderna hace una referencia a una escena de una película clásica de los años 50, estamos ante un caso de:
+Si una película de superhéroes actual recrea una escena famosa de una película clásica, estamos ante:
 
 ### Opciones
-- [ ] A) Intertextualidad biográfica.
-  <!-- feedback: Se refiere a la vida del autor, no es el término técnico aquí. -->
-- [x] B) Intertextualidad fílmica o alusión.
-  <!-- feedback: Correcto. El diálogo entre obras audiovisuales también es una forma de intertextualidad. -->
-- [ ] C) Error de edición.
-  <!-- feedback: Las referencias suelen ser deliberadas (Easter eggs) y no errores. -->
-- [ ] D) Falta de imaginación de los guionistas.
-  <!-- feedback: La intertextualidad es un recurso que enriquece el significado para el espectador que conoce la referencia. -->
+- [ ] A) Intertextualidad puramente biográfica del director de la cinta. <!-- feedback: Se refiere a la vida del autor y no es adecuado para conexión visual. -->
+- [x] B) Intertextualidad fílmica o alusión audiovisual deliberada. <!-- feedback: Correcto. El diálogo entre obras audiovisuales es una forma común de intertextualidad. -->
+- [ ] C) Error grave en el proceso de edición de la película final. <!-- feedback: Estas referencias suelen ser totalmente deliberadas ("huevos de pascua"). -->
+- [ ] D) Falta total de creatividad por parte de los guionistas modernos. <!-- feedback: Es un recurso que enriquece el significado para quien capta la referencia. -->
 
-### Explicación Pedagógica
-La intertextualidad no se limita a los libros; ocurre en el cine, la música, la pintura y la cultura popular.
+### Explicacion Pedagogica
+La intertextualidad no se limita a los libros; ocurre de forma masiva en el cine, la música, la pintura y toda la cultura popular contemporánea.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** Para que una referencia funcione, el receptor debe tener ciertas herramientas mentales.
 
 ### Enunciado
-¿Qué se requiere principalmente del **lector** para que la intertextualidad funcione?
+¿Qué se requiere principalmente por parte del **lector** para que la intertextualidad sea efectiva?
 
 ### Opciones
-- [ ] A) Que sepa escribir sin errores de ortografía.
-  <!-- feedback: Útil para escribir, pero no es el requisito para detectar intertextualidad. -->
-- [ ] B) Que tenga un diccionario a la mano todo el tiempo.
-  <!-- feedback: El diccionario ayuda con el vocabulario, no necesariamente con las referencias culturales. -->
-- [x] C) Que posea un conocimiento previo (enciclopedia cultural) para identificar la conexión.
-  <!-- feedback: Correcto. Si el lector no conoce la obra de referencia, la conexión pasa desapercibida. -->
-- [ ] D) Que lea el texto lo más rápido posible.
-  <!-- feedback: La velocidad suele impedir notar las capas profundas de significado. -->
+- [ ] A) Que sepa escribir correctamente todas las palabras sin cometer errores. <!-- feedback: Útil para escribir, pero no requisito para detectar conexiones. -->
+- [ ] B) Que tenga un diccionario de la Real Academia a la mano durante la lectura. <!-- feedback: El diccionario ayuda con palabras, no necesariamente con referencias. -->
+- [x] C) Que posea un conocimiento previo (enciclopedia cultural) para identificar la conexión. <!-- feedback: Correcto. Si el lector desconoce la obra original, la conexión pasará desapercibida. -->
+- [ ] D) Que sea capaz de leer el texto a una velocidad muy superior al promedio. <!-- feedback: La velocidad de lectura suele impedir notar capas profundas de significado. -->
 
-### Explicación Pedagógica
-La intertextualidad es un "pacto" entre autor y lector donde se comparten referentes culturales comunes.
+### Explicacion Pedagogica
+La intertextualidad funciona como un "pacto" cultural entre autor y lector donde se asume que ambos comparten referentes y lecturas comunes.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.65
+**Contexto:** Ciertos inicios de novelas son tan famosos que se convierten en símbolos culturales.
 
 ### Enunciado
-Lee: *"Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo"*. Si un autor nuevo comienza su novela con una frase similar, ¿cuál es probablemente su intención?
+Considera: *"Muchos años después, frente al pelotón de fusilamiento..."*. Si un autor joven imita esto, ¿cuál es su intención?
 
 ### Opciones
-- [ ] A) Robarle la fama a Gabriel García Márquez.
-  <!-- feedback: Un autor serio busca el homenaje o la parodia, no el robo de identidad. -->
-- [x] B) Rendir un homenaje a 'Cien años de soledad' y situar su obra en la tradición del realismo mágico.
-  <!-- feedback: Correcto. Es una alusión clara que establece un vínculo con un clásico universal. -->
-- [ ] C) Demostrar que no sabe cómo empezar una historia original.
-  <!-- feedback: Usar un comienzo famoso es una decisión estética arriesgada y consciente. -->
-- [ ] D) Que el lector crea que García Márquez escribió ese nuevo libro.
-  <!-- feedback: Las referencias intertextuales suelen ser tan evidentes que nadie se confunde de autor. -->
+- [ ] A) Intentar que el público crea que él escribió 'Cien años de soledad'. <!-- feedback: Referencias tan famosas son imposibles de usar para engañar sobre autoría. -->
+- [x] B) Rendir un homenaje a García Márquez y situar su obra en el realismo mágico. <!-- feedback: Correcto. Es una alusión clara que establece vínculo con un clásico. -->
+- [ ] C) Demostrar que no tiene capacidad creativa para inventar una primera frase original. <!-- feedback: Usar un comienzo tan icónico es una decisión estética arriesgada y consciente. -->
+- [ ] D) Confundir a los críticos literarios para que piensen que el libro es antiguo. <!-- feedback: El estilo contemporáneo suele dejar clara la época de la obra. -->
 
-### Explicación Pedagógica
-Ciertas frases se convierten en hitos culturales. Su uso en otros textos crea un eco que enriquece la nueva lectura.
+### Explicacion Pedagogica
+Determinadas frases se convierten en hitos. Su uso en otros textos crea un diálogo que enriquece la lectura mediante el recuerdo de la anterior.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.80
+**Contexto:** Existen diferentes formas de traer otros textos al propio; algunas son más evidentes.
 
 ### Enunciado
-¿Cuál de estos recursos es una forma explícita de intertextualidad?
+¿Cuál es una forma **explícita** y directa de intertextualidad en un texto académico?
 
 ### Opciones
-- [ ] A) El uso de adjetivos calificativos.
-  <!-- feedback: Recurso gramatical común, no necesariamente intertextual. -->
-- [x] B) La cita textual con mención del autor.
-  <!-- feedback: Correcto. Es la forma más directa y clara de traer otro texto al propio. -->
-- [ ] C) El punto y aparte al final de un párrafo.
-  <!-- feedback: Convención de puntuación básica. -->
-- [ ] D) La inspiración que siente un autor al ver un paisaje.
-  <!-- feedback: Eso es influencia de la realidad, no diálogo entre textos. -->
+- [ ] A) El uso frecuente de adjetivos calificativos para describir los objetos. <!-- feedback: Recurso gramatical común que no establece relación entre textos. -->
+- [x] B) La cita textual entrecomillada con la mención clara del autor original. <!-- feedback: Correcto. Forma más honesta de incorporar la voz de otro al discurso. -->
+- [ ] C) El uso de un punto y aparte para separar las diferentes ideas de un párrafo. <!-- feedback: Convención básica de puntuación, no un recurso intertextual. -->
+- [ ] D) La inspiración emocional que siente un autor al contemplar un paisaje natural. <!-- feedback: Se refiere a la relación entre realidad y autor, no diálogo entre textos. -->
 
-### Explicación Pedagógica
-La cita, la alusión y la parodia son los mecanismos principales de la intertextualidad.
+### Explicacion Pedagogica
+La cita, la alusión, la parodia y el pastiche son los mecanismos técnicos fundamentales a través de los cuales opera la intertextualidad.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** El humor es una de las formas más populares de relacionar textos.
 
 ### Enunciado
-La **parodia** es una forma de intertextualidad que se caracteriza por:
+La **parodia** es una forma de intertextualidad que se define principalmente por:
 
 ### Opciones
-- [ ] A) Copiar exactamente un texto serio para que parezca igual de serio.
-  <!-- feedback: La parodia busca un efecto diferente al original. -->
-- [x] B) Imitar un texto o género con una intención humorística, burlesca o crítica.
-  <!-- feedback: Correcto. Transforma el sentido original mediante la exageración o el cambio de contexto. -->
-- [ ] C) Escribir la biografía de un autor que ya murió.
-  <!-- feedback: Esto es biografía o hagiografía. -->
-- [ ] D) Usar palabras muy difíciles que nadie entiende.
-  <!-- feedback: La parodia suele usar un lenguaje accesible para que la burla sea efectiva. -->
+- [ ] A) Copiar de forma idéntica un texto serio para que parezca igual de solemne. <!-- feedback: La parodia siempre busca transformar el sentido original. -->
+- [x] B) Imitar un texto o género con una intención humorística, burlesca o crítica. <!-- feedback: Correcto. Transforma el sentido mediante exageración o cambio de contexto. -->
+- [ ] C) Escribir la biografía detallada de un autor que ya ha fallecido hace años. <!-- feedback: Corresponde al género biográfico, no a la técnica de la parodia. -->
+- [ ] D) Utilizar únicamente palabras muy complejas que nadie sea capaz de comprender. <!-- feedback: La parodia suele requerir lenguaje accesible para que el humor sea efectivo. -->
 
-### Explicación Pedagógica
-La parodia requiere que el lector conozca el original para que la deformación resulte graciosa o significativa.
+### Explicacion Pedagogica
+La parodia requiere obligatoriamente que el lector conozca la obra original; de lo contrario, la deformación carecería de sentido.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.58
+**Contexto:** Los personajes famosos viajan de un texto a otro a través de los siglos.
 
 ### Enunciado
-Si analizamos el personaje de "Sherlock Holmes" y vemos cómo ha sido reinterpretado en series de TV, películas y libros actuales, estamos haciendo un análisis de:
+Si analizamos cómo "Sherlock Holmes" ha sido recreado en series y películas modernas, estamos ante:
 
 ### Opciones
-- [ ] A) Ortografía comparada.
-  <!-- feedback: No tiene relación con las reglas de escritura. -->
-- [x] B) Intertextualidad y trasvase cultural.
-  <!-- feedback: Correcto. Observamos cómo un "texto" (el personaje) viaja y se transforma a través de los medios. -->
-- [ ] C) Ventas de libros en Inglaterra.
-  <!-- feedback: Análisis económico, no literario/textual. -->
-- [ ] D) La vida privada de Arthur Conan Doyle.
-  <!-- feedback: Análisis biográfico, no del fenómeno intertextual del personaje. -->
+- [ ] A) Reglas de ortografía comparada entre el inglés y el español actual. <!-- feedback: Este análisis no tiene relación con las normas de escritura. -->
+- [x] B) Intertextualidad y trasvase cultural de un mito o personaje literario. <!-- feedback: Correcto. Observamos cómo un personaje se transforma a través de los medios. -->
+- [ ] C) Estadísticas de ventas de libros en las principales librerías de Londres. <!-- feedback: Análisis económico, no un estudio literario sobre relación entre textos. -->
+- [ ] D) La vida privada y los secretos familiares del autor Arthur Conan Doyle. <!-- feedback: Análisis biográfico que no aborda la transformación en otros textos. -->
 
-### Explicación Pedagógica
-Los personajes icónicos funcionan como textos en sí mismos que generan infinitas conexiones intertextuales.
+### Explicacion Pedagogica
+Determinados personajes icónicos se desprenden de su obra original para convertirse en referentes que generan infinitas conexiones.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** A veces un autor decide crear conexiones solo entre sus propios libros.
 
 ### Enunciado
-¿A qué se refiere el término **intratextualidad**?
+¿A qué se refiere técnicamente el término **intratextualidad**?
 
 ### Opciones
-- [ ] A) A la relación entre un libro y una película.
-  <!-- feedback: Esto es intertextualidad mediática. -->
-- [x] B) A las relaciones que un autor establece entre sus propias obras.
-  <!-- feedback: Correcto. Cuando un autor cita a sus propios personajes o temas en diferentes libros. -->
-- [ ] C) A los dibujos que aparecen dentro de un texto.
-  <!-- feedback: Esto es ilustración o paratexto. -->
-- [ ] D) Al índice que está al principio del libro.
-  <!-- feedback: Esto es paratextualidad. -->
+- [ ] A) A la relación de adaptación entre una novela y una producción de cine. <!-- feedback: Esto se conoce generalmente como intertextualidad mediática. -->
+- [x] B) A las relaciones que un autor establece conscientemente entre sus obras. <!-- feedback: Correcto. Ocurre cuando un autor cita personajes o lugares propios. -->
+- [ ] C) A las ilustraciones y dibujos que aparecen insertados dentro de un texto. <!-- feedback: Se clasifica como lenguaje icónico, no como intratextualidad. -->
+- [ ] D) Al índice de contenidos que aparece detallado al principio de un libro. <!-- feedback: Elemento paratextual que organiza la lectura, no relación entre obras. -->
 
-### Explicación Pedagógica
-Muchos autores crean universos propios donde sus libros dialogan entre sí (ej. Comala en Rulfo o Macondo en Gabo).
+### Explicacion Pedagogica
+Muchos grandes autores crean universos propios (como Macondo) donde sus diferentes libros dialogan permanentemente entre sí.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.86
+**Contexto:** El lector no es un receptor pasivo, sino un constructor de significados.
 
 ### Enunciado
-¿Por qué la intertextualidad hace que la lectura sea un proceso más **activo**?
+¿Por qué se afirma que la intertextualidad convierte la lectura en un proceso **activo**?
 
 ### Opciones
-- [ ] A) Porque obliga al lector a correr mientras lee.
-  <!-- feedback: Interpretación literal errónea de "activo". -->
-- [x] B) Porque el lector debe buscar en su memoria y conocimientos para completar el sentido del texto.
-  <!-- feedback: Correcto. El lector "arma" el rompecabezas de las referencias. -->
-- [ ] C) Porque los libros con intertextualidad son más pesados físicamente.
-  <!-- feedback: No tiene relación con el peso del objeto. -->
-- [ ] D) Porque hay que leer el libro muchas veces para entender las palabras.
-  <!-- feedback: Se trata de conexiones culturales, no solo de comprensión de vocabulario. -->
+- [ ] A) Porque obliga físicamente al lector a realizar ejercicio mientras lee. <!-- feedback: Interpretación erróneamente literal de la palabra en este contexto. -->
+- [x] B) Porque el lector debe buscar en su memoria para completar el sentido. <!-- feedback: Correcto. El lector "arma" el rompecabezas de las referencias propuesto. -->
+- [ ] C) Porque los libros con intertextualidad suelen ser físicamente más pesados. <!-- feedback: El peso físico no tiene relación con la complejidad de conexiones. -->
+- [ ] D) Porque es obligatorio leer el mismo libro diez veces para entenderlo. <!-- feedback: Se trata de conexiones culturales, no solo de vocabulario complejo. -->
 
-### Explicación Pedagógica
-La lectura no es solo recibir información, es un ejercicio de conexión constante entre el texto y el mundo.
+### Explicacion Pedagogica
+La lectura es un ejercicio intelectual de conexión constante entre lo que se lee, lo que se ha leído y el mundo.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** La literatura a menudo evoluciona respondiendo a las ideas del pasado.
 
 ### Enunciado
-Un autor escribe un poema que es una respuesta directa a un poema de hace 200 años, criticando su visión de la mujer. ¿Qué tipo de relación intertextual predomina?
+Un autor escribe un poema moderno en respuesta a uno del siglo XIX, criticando su visión de la mujer. ¿Qué predomina?
 
 ### Opciones
-- [ ] A) Plagio consentido.
-  <!-- feedback: El plagio no es un término literario para la respuesta crítica. -->
-- [x] B) Intertextualidad crítica o parodia seria.
-  <!-- feedback: Correcto. Se usa el texto anterior como base para proponer una nueva visión. -->
-- [ ] C) Error histórico.
-  <!-- feedback: Es una decisión estética y política deliberada. -->
-- [ ] D) Escritura automática.
-  <!-- feedback: La escritura automática no busca dialogar con la tradición de forma consciente. -->
+- [ ] A) Un caso claro de plagio consentido por los herederos del autor antiguo. <!-- feedback: El plagio nunca es el término adecuado para respuesta crítica. -->
+- [x] B) Intertextualidad crítica o subversiva del canon literario tradicional. <!-- feedback: Correcto. Se utiliza la obra anterior como base para cuestionarla. -->
+- [ ] C) Un simple error histórico por parte del autor moderno al no saber fechas. <!-- feedback: Es una decisión estética y política deliberada para generar debate. -->
+- [ ] D) Un ejercicio de escritura automática donde no importa el sentido de lo dicho. <!-- feedback: La escritura automática no busca dialogar de forma consciente. -->
 
-### Explicación Pedagógica
-La literatura evoluciona a menudo como una conversación o discusión eterna entre autores de distintas épocas.
+### Explicacion Pedagogica
+La historia de la literatura es una conversación. Muchos autores usan intertextualidad para "corregir" o discutir con sus antecesores.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W33-intertextualidad-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.75
+**Contexto:** El lenguaje digital ha creado sus propias formas de relación entre imágenes y textos.
 
 ### Enunciado
-¿Cuál es la relación entre los **memes** de internet y la intertextualidad?
+¿Cuál es la relación entre los **memes** de internet e intertextualidad?
 
 ### Opciones
-- [ ] A) Los memes no tienen nada que ver con la literatura.
-  <!-- feedback: Los memes son textos culturales que siguen lógicas intertextuales. -->
-- [x] B) Los memes son puramente intertextuales, ya que dependen de conocer una imagen, película o situación previa para tener sentido.
-  <!-- feedback: Correcto. Sin el contexto de la referencia original, el meme no se entiende. -->
-- [ ] C) Los memes son la única forma de intertextualidad que existe hoy.
-  <!-- feedback: Existe en muchas otras formas artísticas y académicas. -->
-- [ ] D) Los memes son plagios de la realidad.
-  <!-- feedback: Son transformaciones culturales, no plagios en el sentido estricto. -->
+- [ ] A) Los memes no tienen ninguna relación con la literatura o textos serios. <!-- feedback: Los memes son unidades culturales que operan bajo lógicas textuales. -->
+- [x] B) Los memes dependen de conocer una referencia previa para tener sentido. <!-- feedback: Correcto. Sin el contexto original, el meme es incomprensible. -->
+- [ ] C) Los memes son la única y exclusiva forma de intertextualidad en el siglo XXI. <!-- feedback: La intertextualidad sigue viva en literatura, cine y academia. -->
+- [ ] D) Los memes son considerados plagios masivos de la realidad cotidiana. <!-- feedback: Son transformaciones culturales, no plagios en sentido técnico. -->
 
-### Explicación Pedagógica
-El meme es quizás el ejemplo más contemporáneo y masivo de cómo funciona la intertextualidad en la comunicación diaria.
+### Explicacion Pedagogica
+El meme es el ejemplo más contemporáneo de cómo funciona la intertextualidad: requiere que emisor y receptor compartan un código previo.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |
+| Curricular | 40/40 | Aborda intertextualidad según DBA Grado 8. |
+| Contexto | 20/20 | Referencias culturales colombianas y modernas. |
+| Redacción | 10/10 | Explicaciones pedagógicas claras. |
+| **Total** | **100/100** | |

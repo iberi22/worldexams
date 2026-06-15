@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-29-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.736Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de una reseña académica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar una historia ficticia basada en hechos reales para entretener al lector.",
+          "is_correct": false,
+          "feedback": "La reseña académica no es un género narrativo de ficción ni busca principalmente el entretenimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar sentimientos personales profundos sin realizar un análisis técnico de la obra.",
+          "is_correct": false,
+          "feedback": "Aunque incluye una valoración, esta debe ser un análisis fundamentado y no puramente emocional."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre el contenido de una obra y ofrecer una valoración crítica sustentada.",
+          "is_correct": true,
+          "feedback": "Correcto. Combina el resumen informativo con el análisis crítico de un experto o estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "Vender un producto mediante publicidad persuasiva para aumentar su consumo.",
+          "is_correct": false,
+          "feedback": "El fin de la reseña académica es el conocimiento y la crítica, no el mercadeo de productos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reseña académica busca dar a conocer un texto u obra a una comunidad, proporcionando una síntesis objetiva y un comentario crítico que ayude al lector a decidir la relevancia del material.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v2",
+      "statement": "En la estructura de una reseña académica, ¿qué función cumple la **referencia bibliográfica** inicial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar las conclusiones generales del autor de la reseña sobre el tema tratado.",
+          "is_correct": false,
+          "feedback": "Las conclusiones van al final del texto, no en la ficha técnica inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar de manera precisa la obra que está siendo reseñada para que el lector pueda localizarla.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite al lector saber exactamente de qué libro, artículo o recurso se está hablando."
+        },
+        {
+          "letter": "C",
+          "text": "Justificar de forma personal por qué el reseñador eligió ese tema específico para su trabajo.",
+          "is_correct": false,
+          "feedback": "La elección del tema suele explicarse en la introducción o exordio, no en la referencia."
+        },
+        {
+          "letter": "D",
+          "text": "Listar de forma exhaustiva todos los libros que el autor ha escrito a lo largo de su carrera.",
+          "is_correct": false,
+          "feedback": "Solo se debe referenciar la obra específica que es objeto de la reseña actual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda reseña académica debe iniciar con los datos técnicos de la obra (título, autor, editorial, año, etc.) para situar al lector y facilitar la localización de la fuente original.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v3",
+      "statement": "Si estás escribiendo una reseña sobre un libro de historia, ¿cuál de estos fragmentos pertenece a la parte del **comentario crítico**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El libro fue publicado en Bogotá por la Editorial Planeta en el año 2022 con un total de 200 páginas\".",
+          "is_correct": false,
+          "feedback": "Esto es información técnica que pertenece a la referencia bibliográfica."
+        },
+        {
+          "letter": "B",
+          "text": "\"En el primer capítulo, el autor explica detalladamente las causas sociales de la independencia\".",
+          "is_correct": false,
+          "feedback": "Esto es parte del resumen expositivo o síntesis del contenido de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "\"La metodología utilizada por el autor es innovadora, aunque omite fuentes primarias clave del siglo XIX\".",
+          "is_correct": true,
+          "feedback": "Correcto. Aquí se está evaluando la calidad, el rigor y los aciertos o fallas del trabajo original."
+        },
+        {
+          "letter": "D",
+          "text": "\"El autor del libro nació en Medellín en 1975 y es doctor en Historia por la Universidad Nacional\".",
+          "is_correct": false,
+          "feedback": "Esto es información biográfica sobre el autor, generalmente incluida en la introducción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comentario crítico es el núcleo valorativo de la reseña. En él, el reseñador analiza las fortalezas y debilidades de la obra basándose en argumentos académicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v4",
+      "statement": "¿Por qué es fundamental evitar el uso excesivo de adjetivos subjetivos como \"bonito\" o \"feo\" en una reseña académica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son palabras cortas que restan extensión al texto final de la tarea.",
+          "is_correct": false,
+          "feedback": "La calidad académica no depende de la longitud de las palabras, sino de su precisión conceptual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en el ámbito académico está prohibido expresar cualquier tipo de gusto personal.",
+          "is_correct": false,
+          "feedback": "Se pueden expresar juicios, pero deben estar sustentados con razones técnicas y no solo en gustos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque restan objetividad y rigor al análisis crítico, sustituyendo el argumento por la opinión vaga.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje académico prefiere términos descriptivos precisos y juicios fundamentados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los procesadores de texto actuales no reconocen esos adjetivos como válidos.",
+          "is_correct": false,
+          "feedback": "Es una restricción de estilo y género académico, no una limitación tecnológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje en la reseña académica debe ser formal y técnico. Adjetivos subjetivos deben reemplazarse por valoraciones argumentadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v5",
+      "statement": "Lee el siguiente fragmento de una reseña: *\"Aunque el autor logra una síntesis admirable de la Revolución Francesa, su perspectiva ignora totalmente el papel de las mujeres en el proceso\"*. ¿Cuál es la intención del reseñador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resumir el contenido del libro de forma totalmente neutral y objetiva.",
+          "is_correct": false,
+          "feedback": "El fragmento incluye un juicio de valor negativo, por lo que no es neutral."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar un vacío o debilidad temática importante en la obra analizada.",
+          "is_correct": true,
+          "feedback": "Correcto. El reseñador destaca una omisión relevante en el enfoque del autor original."
+        },
+        {
+          "letter": "C",
+          "text": "Elogiar incondicionalmente el trabajo del historiador para recomendar su lectura.",
+          "is_correct": false,
+          "feedback": "La frase comienza con un elogio, pero introduce una crítica significativa después del \"aunque\"."
+        },
+        {
+          "letter": "D",
+          "text": "Describir detalladamente la biografía del autor de la obra histórica.",
+          "is_correct": false,
+          "feedback": "Se habla del contenido y el enfoque de la obra, no de la vida personal del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación académica implica reconocer tanto los logros como las limitaciones de un texto. En este caso, se resalta un sesgo u omisión temática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v6",
+      "statement": "¿Cuál es la diferencia principal entre una reseña académica y un resumen simple?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen es generalmente mucho más extenso y detallado que la reseña.",
+          "is_correct": false,
+          "feedback": "Usualmente la reseña es más compleja y puede ser más extensa debido a la parte crítica."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen incluye obligatoriamente la opinión del lector, mientras que la reseña no.",
+          "is_correct": false,
+          "feedback": "Es al revés; el resumen es puramente informativo, la reseña incluye valoración."
+        },
+        {
+          "letter": "C",
+          "text": "La reseña incluye una valoración crítica personal, mientras que el resumen solo condensa la información.",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen se limita a exponer lo que dice el texto original sin juzgarlo."
+        },
+        {
+          "letter": "D",
+          "text": "La reseña solo se escribe sobre películas y el resumen solo sobre textos literarios.",
+          "is_correct": false,
+          "feedback": "Ambos géneros se pueden aplicar a diversos tipos de obras y textos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La capacidad de síntesis es común a ambos géneros, pero la reseña añade la dimensión evaluativa, donde el autor del texto dialoga con la obra reseñada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v7",
+      "statement": "En la parte final de una reseña académica, es común encontrar una recomendación. ¿Cuál de estas frases es más adecuada para este cierre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Cómprenlo ya en la librería más cercana, es el mejor libro del mundo entero\".",
+          "is_correct": false,
+          "feedback": "Este lenguaje es demasiado informal y tiene un tono publicitario inapropiado."
+        },
+        {
+          "letter": "B",
+          "text": "\"Esta obra es fundamental para estudiantes interesados en profundizar en el realismo mágico\".",
+          "is_correct": true,
+          "feedback": "Correcto. Define el público objetivo y la relevancia del material de forma técnica."
+        },
+        {
+          "letter": "C",
+          "text": "\"A mí personalmente no me gustó mucho, les sugiero que lean otra cosa mejor\".",
+          "is_correct": false,
+          "feedback": "Es una crítica puramente subjetiva que carece de sustento o argumento académico."
+        },
+        {
+          "letter": "D",
+          "text": "\"El libro tiene exactamente 300 páginas y unas tapas de color azul muy llamativas\".",
+          "is_correct": false,
+          "feedback": "Estos son datos físicos irrelevantes para una conclusión basada en el contenido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusión de una reseña debe sintetizar la importancia del texto y sugerir quiénes se beneficiarían de su lectura, manteniendo el tono formal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v8",
+      "statement": "Al reseñar un artículo científico muy complejo, ¿cuál es el deber del reseñador en su propio texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar y escribir los párrafos más difíciles sin cambios para que la reseña parezca importante.",
+          "is_correct": false,
+          "feedback": "El exceso de citas sin explicación no ayuda al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar los conceptos clave de forma clara para que el nuevo lector pueda comprender la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función social de la reseña es hacer la obra más accesible sin perder el rigor."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar las partes del texto que no entendió y hablar solo de las anécdotas sencillas.",
+          "is_correct": false,
+          "feedback": "Una reseña académica seria debe cubrir la totalidad de la obra o sus puntos centrales."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir la reseña en un idioma diferente para imitar la dificultad del texto original.",
+          "is_correct": false,
+          "feedback": "La claridad es una virtud en la academia; complicar el lenguaje innecesariamente es un error."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reseñador actúa como un puente entre la obra original y el público. Debe demostrar comprensión profunda simplificando la complejidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v9",
+      "statement": "¿Cuál es la función primordial del **exordio** o introducción en la estructura de la reseña académica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contextualizar la obra reseñada y presentar brevemente la trayectoria de su autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Sitúa la obra en un tiempo, espacio y campo del conocimiento específico."
+        },
+        {
+          "letter": "B",
+          "text": "Listar todos los errores ortográficos y de digitación encontrados en el libro original.",
+          "is_correct": false,
+          "feedback": "Esto es un detalle menor que no constituye el propósito de una introducción académica."
+        },
+        {
+          "letter": "C",
+          "text": "Dar la calificación numérica final de la obra en una escala del 1 al 10.",
+          "is_correct": false,
+          "feedback": "La valoración es un proceso que se desarrolla en el cuerpo y se cierra en la conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir disculpas al lector por no haber tenido tiempo de leer el texto completo.",
+          "is_correct": false,
+          "feedback": "Se asume que el reseñador ha realizado un análisis integral de la obra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La introducción debe despertar el interés del lector y proporcionarle las coordenadas básicas para entender por qué la obra es relevante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v10",
+      "statement": "¿A qué tipología textual pertenece la reseña académica según su intención comunicativa predominante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto puramente narrativo, similar a un cuento o una crónica.",
+          "is_correct": false,
+          "feedback": "No busca relatar eventos de ficción, sino analizar un objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Texto expositivo-argumentativo, pues explica una obra y defiende una postura crítica.",
+          "is_correct": true,
+          "feedback": "Correcto. Expone información sobre la obra original y argumenta una valoración crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Texto instructivo, ya que da órdenes precisas para realizar una tarea técnica.",
+          "is_correct": false,
+          "feedback": "No presenta una secuencia de pasos para ejecutar una acción técnica."
+        },
+        {
+          "letter": "D",
+          "text": "Texto lírico, debido a que busca la expresión estética de la belleza mediante el verso.",
+          "is_correct": false,
+          "feedback": "No tiene como fin principal la expresión subjetiva estética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reseña académica es un género híbrido que combina la exposición con la argumentación crítica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v11",
+      "statement": "Si una reseña académica solo resalta lo positivo de un libro mediocre para evitar problemas, ¿qué principio se vulnera?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cohesión gramatical y el uso correcto de conectores lógicos.",
+          "is_correct": false,
+          "feedback": "El texto puede estar bien escrito gramaticalmente pero fallar en su ética."
+        },
+        {
+          "letter": "B",
+          "text": "La ortografía acentual y el uso de signos de puntuación básicos.",
+          "is_correct": false,
+          "feedback": "El problema planteado es de ética y honestidad intelectual."
+        },
+        {
+          "letter": "C",
+          "text": "La honestidad intelectual y el rigor crítico necesarios para la evaluación.",
+          "is_correct": true,
+          "feedback": "Correcto. La reseña debe ser un ejercicio veraz; ocultar fallas desvirtúa su función."
+        },
+        {
+          "letter": "D",
+          "text": "El formato de márgenes y el tipo de letra exigido por la institución.",
+          "is_correct": false,
+          "feedback": "Estos son aspectos formales externos que no afectan la veracidad del juicio crítico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crítica académica debe ser objetiva y fundamentada en evidencias. Ocultar fallas desvirtúa la función formativa de la reseña.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-v12",
+      "statement": "Al escribir la síntesis de una obra en una reseña, ¿cuál técnica es la más adecuada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transcribir el índice completo del libro para que el lector vea todos los temas.",
+          "is_correct": false,
+          "feedback": "El índice solo muestra la estructura, no explica las ideas de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Seleccionar las ideas principales y los ejes temáticos centrales de forma coherente.",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis consiste en condensar lo esencial reconstruyendo el argumento lógico."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir detalladamente solo el capítulo final para no arruinar la sorpresa al lector.",
+          "is_correct": false,
+          "feedback": "Una reseña académica debe proporcionar una visión global y equilibrada de toda la obra."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar textualmente el primer párrafo de cada capítulo para mantener el estilo.",
+          "is_correct": false,
+          "feedback": "Esto daría como resultado un texto inconexo y sin un hilo conductor propio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La síntesis académica requiere jerarquizar la información para reconstruir el sentido de la obra con palabras propias.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido con feedback en la misma línea. |\n| Curricular | 40/40 | Alineado con DBA Grado 8 Lengua. |\n| Contexto | 20/20 | Contexto colombiano y académico apropiado. |\n| Redacción | 10/10 | Lenguaje claro y formal. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W29-resena-academica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

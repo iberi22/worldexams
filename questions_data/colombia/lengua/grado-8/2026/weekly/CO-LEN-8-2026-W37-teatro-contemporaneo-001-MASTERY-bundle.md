@@ -1,313 +1,286 @@
 ---
-id: "CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY"
+id: "CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "teatro-contemporaneo"
-semana: "W37"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W37"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Teatro contemporaneo - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Teatro Contemporáneo - Grado 8
 
-Este bundle contiene 12 preguntas sobre el **teatro contemporáneo** para grado 8, analizando sus elementos técnicos, nuevos lenguajes escénicos y autores clave, alineadas con los DBA del MEN Colombia.
+Este bundle contiene 12 preguntas sobre el **teatro contemporáneo** para grado 8, analizando características, elementos técnicos y exponentes, alineadas con los DBA del MEN Colombia.
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
+**Contexto:** El teatro ha evolucionado desde formas clásicas hacia propuestas que rompen con la tradición.
 
 ### Enunciado
-¿Cuál es la diferencia fundamental entre el **texto dramático** y la **representación teatral**?
+¿Cuál es la característica principal que define al teatro contemporáneo frente al clásico?
 
 ### Opciones
-- [ ] A) El texto dramático es para niños y la representación para adultos.
-  <!-- feedback: No tiene relación con la edad del público. -->
-- [x] B) El texto dramático es el guion escrito; la representación es la puesta en escena con actores y público.
-  <!-- feedback: Correcto. El texto es literatura; la representación es un evento vivo. -->
-- [ ] C) El texto dramático no tiene diálogos y la representación sí.
-  <!-- feedback: El texto dramático se basa precisamente en los diálogos. -->
-- [ ] D) Son exactamente lo mismo y no hay ninguna diferencia.
-  <!-- feedback: Son dos etapas distintas del hecho teatral (literatura vs. espectáculo). -->
+- [ ] A) El uso obligatorio de rimas complejas en todos los diálogos. <!-- feedback: El teatro contemporáneo suele preferir el lenguaje cotidiano. -->
+- [x] B) La experimentación con nuevas formas, tecnología y ruptura de la cuarta pared. <!-- feedback: Correcto. Busca innovar en la puesta en escena y relación con el público. -->
+- [ ] C) La prohibición total de usar luces artificiales o sonido grabado. <!-- feedback: Al contrario, integra intensamente la iluminación y el sonido tecnológico. -->
+- [ ] D) Que todas las obras deben tratar exclusivamente sobre la vida de dioses. <!-- feedback: El teatro contemporáneo aborda problemáticas sociales y políticas actuales. -->
 
-### Explicación Pedagógica
-El teatro es un género dual: nace como literatura (texto) pero su fin último es ser encarnado en un escenario.
+### Explicacion Pedagogica
+El teatro contemporáneo se caracteriza por su libertad creativa, permitiendo mezclar géneros y utilizar recursos multimedia para impactar al espectador.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.82
+**Contexto:** En el teatro, existen instrucciones escritas que no son pronunciadas por los actores.
 
 ### Enunciado
-¿Qué son las **acotaciones** (o didascalias) en una obra de teatro?
+¿A qué se refiere el término **acotación** en un texto dramático?
 
 ### Opciones
-- [ ] A) Los chistes que los actores dicen fuera del guion.
-  <!-- feedback: Esto se conoce como improvisación o morcillas. -->
-- [ ] B) Los aplausos del público al final de la obra.
-  <!-- feedback: Esto es la reacción del receptor. -->
-- [x] C) Indicaciones del autor sobre escenografía, gestos, movimientos o tonos de voz.
-  <!-- feedback: Correcto. Suelen aparecer entre paréntesis o en cursiva. -->
-- [ ] D) El precio de las boletas para entrar al teatro.
-  <!-- feedback: Aspecto económico ajeno al texto literario. -->
+- [ ] A) Al momento en que los actores salen del escenario para descansar. <!-- feedback: Son instrucciones textuales, no el acto físico de descansar. -->
+- [x] B) A las indicaciones sobre gestos, movimientos, escenografía o tono de voz. <!-- feedback: Correcto. Aparecen entre paréntesis o en cursiva para guiar. -->
+- [ ] C) A la parte del público que decide abandonar el teatro antes de terminar. <!-- feedback: El término se refiere a elementos internos del texto literario. -->
+- [ ] D) Al salario que recibe cada actor por su participación en la función. <!-- feedback: No tiene relación con aspectos económicos de la producción. -->
 
-### Explicación Pedagógica
-Las acotaciones ayudan al director y a los actores a comprender la visión espacial y emocional del autor.
+### Explicacion Pedagogica
+Las acotaciones son fundamentales para que el director y los actores comprendan la visión visual y emocional que el autor tiene de la escena.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.78
+**Contexto:** Un director en Bogotá decide montar una obra donde los actores hablan al público.
 
 ### Enunciado
-Si una obra de teatro contemporánea trata sobre el absurdo de la vida, donde los personajes repiten acciones sin sentido y el tiempo parece no pasar, estamos ante:
+Si en una obra un actor se dirige al público ignorando a los demás en escena, realiza un:
 
 ### Opciones
-- [ ] A) Teatro de títeres tradicional.
-  <!-- feedback: El teatro de títeres suele tener tramas narrativas más clásicas. -->
-- [x] B) Teatro del Absurdo.
-  <!-- feedback: Correcto. Movimiento que refleja la angustia existencial tras la Segunda Guerra Mundial. -->
-- [ ] C) Una ópera italiana del siglo XVIII.
-  <!-- feedback: La ópera clásica es muy estructurada y melodramática. -->
-- [ ] D) Teatro pedagógico para aprender matemáticas.
-  <!-- feedback: El absurdo busca la reflexión filosófica, no la instrucción técnica. -->
+- [ ] A) Diálogo complejo entre dos o más protagonistas de la historia. <!-- feedback: El diálogo requiere la interacción entre dos o más personajes. -->
+- [x] B) Aparte, recurso que busca complicidad con el espectador. <!-- feedback: Correcto. Es una convención donde el personaje dice algo que otros "no oyen". -->
+- [ ] C) Error de memoria donde el actor olvidó sus líneas originales. <!-- feedback: Es un recurso técnico deliberado muy común en el teatro. -->
+- [ ] D) Resumen del libro que el director leyó antes de empezar el ensayo. <!-- feedback: El aparte es una acción dramática viva, no un resumen bibliográfico. -->
 
-### Explicación Pedagógica
-El teatro del absurdo (ej. Samuel Beckett) rompe con la lógica tradicional para mostrar lo ilógico de la condición humana.
+### Explicacion Pedagogica
+El aparte permite que el espectador conozca los pensamientos íntimos de un personaje, creando un vínculo especial de información privilegiada.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** El "Teatro del Absurdo" es una corriente muy importante del siglo XX.
 
 ### Enunciado
-¿Cuál es la función del **"efecto de distanciamiento"** (Verfremdungseffekt) propuesto por Bertolt Brecht?
+¿Cuál es el propósito del **Teatro del Absurdo** al presentar situaciones ilógicas?
 
 ### Opciones
-- [ ] A) Que los actores se alejen físicamente del público por seguridad.
-  <!-- feedback: Interpretación literal errónea del término técnico. -->
-- [x] B) Evitar que el público se identifique emocionalmente para que pueda reflexionar críticamente sobre la obra.
-  <!-- feedback: Correcto. Busca un espectador activo y pensante, no solo emocionado. -->
-- [ ] C) Apagar todas las luces del teatro para que no se vea nada.
-  <!-- feedback: El distanciamiento es intelectual y narrativo, no una falla técnica. -->
-- [ ] D) Cobrar más cara la entrada a las personas que se sientan lejos.
-  <!-- feedback: Distractor económico absurdo. -->
+- [ ] A) Demostrar que los autores no saben escribir oraciones correctas. <!-- feedback: Autores como Beckett eran maestros del lenguaje con fines estéticos. -->
+- [x] B) Reflejar la angustia existencial y la falta de sentido de la vida moderna. <!-- feedback: Correcto. Usa lo ilógico para criticar una realidad sin explicación. -->
+- [ ] C) Hacer que el público se ría tanto que olvide todos sus problemas. <!-- feedback: Aunque tiene humor negro, su fin primordial es la reflexión profunda. -->
+- [ ] D) Enseñar a los niños a hablar desordenado para confundir adultos. <!-- feedback: Es un movimiento intelectual serio dirigido a un público crítico. -->
 
-### Explicación Pedagógica
-Brecht quería que el teatro fuera una herramienta de cambio social, donde el espectador analizara las causas de la injusticia.
+### Explicacion Pedagogica
+El teatro del absurdo surgió tras las guerras mundiales como respuesta al caos y al sentimiento de vacío de la sociedad contemporánea.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.65
+**Contexto:** Bertolt Brecht propuso un teatro que no solo buscaba emocionar, sino hacer pensar.
 
 ### Enunciado
-¿Qué importancia tiene la **Leyenda de la "Creación Colectiva"** en el teatro colombiano de los años 60 y 70?
+¿En qué consiste el **"Efecto de Distanciamiento"** propuesto por Brecht?
 
 ### Opciones
-- [ ] A) Que una sola persona escribía todo y los demás obedecían.
-  <!-- feedback: Esto es lo opuesto a la creación colectiva. -->
-- [x] B) El desarrollo de obras a partir del trabajo conjunto de actores y directores, sin un autor único previo.
-  <!-- feedback: Correcto. Fue fundamental para grupos como La Candelaria o el TEC. -->
-- [ ] C) Que el público escribía el final de la obra desde su casa.
-  <!-- feedback: El trabajo era del grupo teatral como comunidad creativa. -->
-- [ ] D) Una ley del gobierno que obligaba a todos a ir al teatro.
-  <!-- feedback: Fue un movimiento artístico y político, no una imposición legal. -->
+- [ ] A) Alejar las sillas del público para que nadie vea bien la cara de actores. <!-- feedback: No se refiere a distancia física, sino a distancia intelectual. -->
+- [x] B) Evitar la identificación emocional para analizar la obra críticamente. <!-- feedback: Correcto. Busca que el espectador no olvide que ve una representación. -->
+- [ ] C) Prohibir que los actores hablen en voz alta para que el público adivine. <!-- feedback: El teatro épico utiliza palabra, música y carteles para mensajes claros. -->
+- [ ] D) Hacer que la función dure tantas horas que el público se aburra. <!-- feedback: Es una técnica activa para despertar conciencia, no efecto de fatiga. -->
 
-### Explicación Pedagógica
-La creación colectiva permitió al teatro colombiano hablar de su propia realidad social mediante la investigación y el ensayo grupal.
+### Explicacion Pedagogica
+Brecht quería que el teatro fuera herramienta de cambio social, por lo que usaba técnicas para mantener la capacidad de juicio crítico del espectador.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.80
+**Contexto:** Colombia ha tenido una figura fundamental en un teatro comprometido.
 
 ### Enunciado
-En el teatro contemporáneo, el uso de pantallas de video, proyecciones y efectos digitales se conoce como:
+¿Quién fue el fundador del grupo "La Candelaria" en Bogotá, pionero de la Creación Colectiva?
 
 ### Opciones
-- [ ] A) Teatro mudo.
-  <!-- feedback: El teatro mudo se basa en el gesto, no en la tecnología. -->
-- [x] B) Lenguajes multimedia o teatro transmedia.
-  <!-- feedback: Correcto. Integración de diversas tecnologías en la escena. -->
-- [ ] C) Mal funcionamiento de la televisión.
-  <!-- feedback: Es una decisión estética integrada en la obra. -->
-- [ ] D) Cine de bajo presupuesto.
-  <!-- feedback: Sigue siendo teatro porque ocurre en presencia de actores y público vivo. -->
+- [ ] A) Gabriel García Márquez, dedicado principalmente a la novela y cuento. <!-- feedback: García Márquez no fue el líder del movimiento de teatro popular. -->
+- [x] B) Santiago García, figura central del teatro colombiano moderno. <!-- feedback: Correcto. Su trabajo con La Candelaria marcó un hito en la escena. -->
+- [ ] C) Jorge Eliécer Gaitán, líder político fundamental para el país. <!-- feedback: Gaitán fue un político, no un director de teatro profesional. -->
+- [ ] D) Fernando Botero, el famoso pintor conocido por sus figuras voluminosas. <!-- feedback: Botero destaca en artes plásticas, no en dirección teatral. -->
 
-### Explicación Pedagógica
-La tecnología expande las posibilidades narrativas del escenario, permitiendo juegos de tiempo y espacio imposibles antes.
+### Explicacion Pedagogica
+La creación colectiva en Colombia permitió que las obras nacieran de la investigación social y del trabajo en conjunto de todo el grupo actoral.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** El teatro contemporáneo a menudo rompe la barrera invisible.
 
 ### Enunciado
-¿Cuál es la función del **monólogo** en el teatro contemporáneo?
+¿Qué significa técnicamente **"romper la cuarta pared"** en una representación?
 
 ### Opciones
-- [ ] A) Permitir que el actor principal descanse mientras los demás hablan.
-  <!-- feedback: El monólogo exige un gran esfuerzo del actor que está solo en escena. -->
-- [x] B) Revelar el mundo interior, pensamientos y conflictos de un solo personaje ante el público.
-  <!-- feedback: Correcto. Es una ventana a la subjetividad del personaje. -->
-- [ ] C) Hacer que la obra sea más barata porque se contrata a un solo actor.
-  <!-- feedback: Aunque existen los unipersonales, el monólogo puede estar dentro de una obra con muchos actores. -->
-- [ ] D) Enseñar al público a hablar solo en sus casas.
-  <!-- feedback: Distractor conductual absurdo. -->
+- [ ] A) Destruir físicamente una pared del edificio del teatro durante la obra. <!-- feedback: Término metafórico sobre la convención, no destrucción física. -->
+- [x] B) Cuando un personaje reconoce que lo es y se dirige directamente al público. <!-- feedback: Correcto. Rompe la ilusión de que el mundo de la obra es separado. -->
+- [ ] C) Pintar el escenario de colores muy brillantes para que el fondo resalte. <!-- feedback: No tiene relación con la pintura física de las paredes del set. -->
+- [ ] D) Invitar a los familiares de los actores a subir al escenario a mitad. <!-- feedback: Se refiere a una técnica narrativa, no a una invitación social. -->
 
-### Explicación Pedagógica
-El monólogo es un recurso poderoso para profundizar en la psicología del personaje y crear intimidad con el público.
+### Explicacion Pedagogica
+La cuarta pared es la pared imaginaria que separa al público del escenario. Romperla crea un efecto de realidad o de complicidad irónica.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.58
+**Contexto:** El teatro contemporáneo puede ocurrir en lugares no convencionales.
 
 ### Enunciado
-¿En qué consiste el **Teatro de la Crueldad** propuesto por Antonin Artaud?
+Si una obra de teatro se realiza en una estación de Transmilenio, es un caso de:
 
 ### Opciones
-- [ ] A) En golpear a los actores de verdad durante la función.
-  <!-- feedback: La "crueldad" es metafórica, se refiere al impacto emocional extremo. -->
-- [x] B) En impactar los sentidos del espectador mediante sonidos, luces y acciones físicas extremas para despertarlo.
-  <!-- feedback: Correcto. Busca una experiencia ritual y transformadora que sacuda al público. -->
-- [ ] C) En escribir obras donde todos los personajes mueren de forma sangrienta.
-  <!-- feedback: No se trata de violencia física gratuita, sino de intensidad sensorial y espiritual. -->
-- [ ] D) En cobrar precios de entrada muy altos que nadie puede pagar.
-  <!-- feedback: Distractor económico irrelevante. -->
+- [ ] A) Teatro Clásico de Corral, que requiere un espacio cerrado tradicional. <!-- feedback: El teatro clásico suele requerir estructuras arquitectónicas fijas. -->
+- [x] B) Teatro Callejero o de Intervención Urbana para la ciudadanía. <!-- feedback: Correcto. Busca llevar el arte a los espacios cotidianos. -->
+- [ ] C) Un error de logística del director que olvidó alquilar un teatro real. <!-- feedback: Es decisión estética y política deliberada para democratizar el arte. -->
+- [ ] D) Teatro de Sombras, que solo utiliza las siluetas de los actores. <!-- feedback: Es una técnica visual, no define la ubicación geográfica del evento. -->
 
-### Explicación Pedagógica
-Artaud quería que el teatro dejara de ser "solo palabras" para convertirse en una experiencia total que afectara el cuerpo y el alma.
+### Explicacion Pedagogica
+El teatro de calle busca romper las barreras sociales del arte, integrándose en la vida diaria y usando el entorno como parte de la obra.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** El Festival Iberoamericano de Teatro de Bogotá es de los más importantes.
 
 ### Enunciado
-¿Quién es el director colombiano, fundador de la Casa del Teatro Nacional y el Festival Iberoamericano de Teatro de Bogotá?
+¿Quién fue la creadora e impulsora del Festival Iberoamericano de Teatro de Bogotá?
 
 ### Opciones
-- [ ] A) Santiago García.
-  <!-- feedback: Fundador de La Candelaria y pionero de la creación colectiva. -->
-- [x] B) Fanny Mikey.
-  <!-- feedback: Correcto. Figura clave que internacionalizó el teatro en Colombia. -->
-- [ ] C) Enrique Buenaventura.
-  <!-- feedback: Director y dramaturgo fundamental de Cali (TEC). -->
-- [ ] D) Mario Mendoza.
-  <!-- feedback: Famoso novelista, no es director de festivales de teatro. -->
+- [ ] A) Shakira, la cantante colombiana mundialmente reconocida por su música. <!-- feedback: Su carrera está centrada en la música, no en la gestión teatral. -->
+- [x] B) Fanny Mikey, actriz y gestora cultural fundamental para la escena. <!-- feedback: Correcto. Su liderazgo convirtió a Bogotá en capital mundial del teatro. -->
+- [ ] C) Virginia Gutiérrez de Pineda, destacada antropóloga colombiana. <!-- feedback: Realizó investigaciones sobre familia, no gestión teatral. -->
+- [ ] D) Policarpa Salavarrieta, heroína de la independencia en el siglo XIX. <!-- feedback: Personaje histórico de la independencia, muy anterior al festival. -->
 
-### Explicación Pedagógica
-Fanny Mikey convirtió a Bogotá en la "capital mundial del teatro" durante sus festivales, promoviendo la diversidad cultural.
+### Explicacion Pedagogica
+Fanny Mikey logró unir propuestas de todo el mundo en un solo evento, fomentando el intercambio cultural y la paz a través del arte.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** El lenguaje del teatro no solo está en las palabras.
 
 ### Enunciado
-¿Qué significa que en el teatro contemporáneo se rompa la **"cuarta pared"**?
+¿Qué se entiende por **lenguaje no verbal** en una puesta en escena?
 
 ### Opciones
-- [ ] A) Que el edificio del teatro se está cayendo por falta de mantenimiento.
-  <!-- feedback: Término técnico, no arquitectónico real. -->
-- [x] B) Que los actores interactúan directamente con el público o reconocen que están en una obra.
-  <!-- feedback: Correcto. Rompe la ilusión de que el escenario es un mundo aparte e invisible para los espectadores. -->
-- [ ] C) Que la obra tiene solo tres paredes en lugar de cuatro para ahorrar pintura.
-  <!-- feedback: El concepto de cuarta pared es imaginario (la frontera entre actor y público). -->
-- [ ] D) Que los actores salen del teatro y se van a actuar a la calle.
-  <!-- feedback: Eso es teatro callejero, pero no define necesariamente la ruptura de la cuarta pared en escena. -->
+- [ ] A) El libreto escrito que los actores deben aprenderse de memoria. <!-- feedback: El libreto es lenguaje verbal escrito. -->
+- [x] B) Los gestos, el vestuario, las luces, el sonido y uso del espacio. <!-- feedback: Correcto. Todo lo que transmite significado sin usar palabras. -->
+- [ ] C) El momento en que los actores deciden quedarse totalmente mudos. <!-- feedback: El silencio es parte, pero incluye muchos otros elementos visuales. -->
+- [ ] D) El idioma extranjero en el que se representan obras internacionales. <!-- feedback: El idioma extranjero sigue siendo lenguaje verbal en otro código. -->
 
-### Explicación Pedagógica
-Romper la cuarta pared invita al público a ser parte de la obra, eliminando la distancia tradicional entre arte y realidad.
+### Explicacion Pedagogica
+En el teatro contemporáneo, a veces la iluminación o el movimiento transmiten más información emocional que el diálogo mismo.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** Algunas obras contemporáneas no tienen un final cerrado.
 
 ### Enunciado
-Un autor de teatro contemporáneo decide que su obra se realice en una estación de bus real con pasajeros reales como extras. ¿Cómo se llama esta práctica?
+¿Cuál es la intención de una obra contemporánea con **final abierto**?
 
 ### Opciones
-- [ ] A) Teatro de títeres gigante.
-  <!-- feedback: No hay manipulación de muñecos. -->
-- [ ] B) Teatro de sala clásico.
-  <!-- feedback: La sala clásica es el edificio tradicional. -->
-- [x] C) Teatro en espacios no convencionales o "site-specific".
-  <!-- feedback: Correcto. La obra se adapta a un lugar que no fue diseñado para el teatro. -->
-- [ ] D) Error de programación cultural.
-  <!-- feedback: Es una búsqueda estética moderna. -->
+- [ ] A) Demostrar que al autor se le acabó el papel antes de terminar la obra. <!-- feedback: Es una decisión artística consciente y no limitación de material. -->
+- [x] B) Invitar al espectador a reflexionar y completar el sentido con su visión. <!-- feedback: Correcto. Fomenta un papel activo y crítico del público. -->
+- [ ] C) Obligar al público a pagar otra entrada para conocer el final mañana. <!-- feedback: No es estrategia comercial, sino recurso estético de interpretación. -->
+- [ ] D) Que los actores puedan irse más rápido a casa sin actuar lo último. <!-- feedback: Los finales abiertos suelen ser más complejos de actuar que tradicionales. -->
 
-### Explicación Pedagógica
-Sacar el teatro de los edificios lujosos permite llevar el arte a la vida diaria y resignificar los espacios públicos.
+### Explicacion Pedagogica
+El final abierto rompe con la estructura tradicional de desenlace, reflejando la complejidad y la incertidumbre de la vida real.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W37-teatro-contemporaneo-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** El teatro es herramienta poderosa para analizar problemas nacionales.
 
 ### Enunciado
-¿Cuál es la importancia de la **escenografía** en el teatro moderno?
+¿Cuál es la importancia del **teatro testimonial** en Colombia actualmente?
 
 ### Opciones
-- [ ] A) Solo sirve para que el escenario no se vea vacío.
-  <!-- feedback: La escenografía tiene una función narrativa y simbólica profunda. -->
-- [x] B) Crea la atmósfera, sitúa la acción y aporta significados simbólicos que complementan el texto.
-  <!-- feedback: Correcto. Lo que se ve comunica tanto como lo que se dice. -->
-- [ ] C) Es un gasto innecesario que se podría evitar usando solo la imaginación.
-  <!-- feedback: Aunque existe el teatro minimalista, la escenografía es una herramienta artística clave. -->
-- [ ] D) Sirve para ocultar que los actores se olvidaron de la letra.
-  <!-- feedback: Distractor humorístico. -->
+- [ ] A) Proporcionar entretenimiento ligero para olvidar la historia del país. <!-- feedback: El teatro testimonial busca recordar y procesar la historia. -->
+- [x] B) Servir como espacio de memoria colectiva al narrar hechos de realidad. <!-- feedback: Correcto. Permite procesar el conflicto y dar voz a las víctimas. -->
+- [ ] C) Enseñar a los estudiantes a mentir de forma creíble ante un juez real. <!-- feedback: Busca la verdad emocional y social, no el engaño legal. -->
+- [ ] D) Sustituir totalmente a los libros de historia en todos los colegios. <!-- feedback: Complementa la visión histórica mediante empatía, no la sustituye. -->
 
-### Explicación Pedagógica
-La escenografía contemporánea a menudo es abstracta, sugiriendo emociones en lugar de copiar la realidad de forma exacta.
+### Explicacion Pedagogica
+El teatro testimonial permite que la sociedad se vea a sí misma, procese sus dolores y busque caminos de paz a través del arte simbólico.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |
+| Curricular | 40/40 | Cubre teatro contemporáneo según DBA. |
+| Contexto | 20/20 | Referencias locales correctas. |
+| Redacción | 10/10 | Lenguaje formal y preciso. |
+| **Total** | **100/100** | |

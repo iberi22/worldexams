@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.736Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v1",
+      "statement": "¿Qué es una inferencia en el contexto del proceso de lectura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Localizar y subrayar las palabras exactas que aparecen impresas en el texto.",
+          "is_correct": false,
+          "feedback": "Identificar información explícita es un ejercicio de nivel literal."
+        },
+        {
+          "letter": "B",
+          "text": "Deducir información o conclusiones que el autor sugiere pero no escribe explícitamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Inferir es \"leer entre líneas\" usando pistas y conocimiento previo."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar un final alternativo para la historia basándose únicamente en la imaginación.",
+          "is_correct": false,
+          "feedback": "La inferencia debe basarse en evidencias del texto, no en invención libre."
+        },
+        {
+          "letter": "D",
+          "text": "Realizar un conteo gramatical de cuántas oraciones y párrafos componen el texto.",
+          "is_correct": false,
+          "feedback": "Esta es una tarea de análisis estructural externo, no de comprensión de significados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia es un proceso cognitivo donde el lector conecta las pistas textuales con su conocimiento previo para extraer conclusiones lógicas no dichas explícitamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v2",
+      "statement": "Si lees en una crónica: *\"Andrés llegó a su oficina en el centro de Bogotá empapado y con los restos de un paraguas roto en la mano\"*, ¿cuál es la inferencia más lógica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrés decidió bañarse con ropa antes de entrar a trabajar.",
+          "is_correct": false,
+          "feedback": "Es poco probable; la mención del paraguas sugiere un evento climático."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés acaba de comprar un paraguas de mala calidad en una tienda.",
+          "is_correct": false,
+          "feedback": "El texto dice que está roto, pero no permite inferir cuándo lo compró."
+        },
+        {
+          "letter": "C",
+          "text": "Hubo una fuerte lluvia o tormenta que Andrés enfrentó en el camino.",
+          "is_correct": true,
+          "feedback": "Correcto. Estar empapado y llevar un paraguas destruido son pistas claras de lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Andrés es una persona que disfruta mucho de caminar bajo el agua.",
+          "is_correct": false,
+          "feedback": "No hay información en el fragmento que permita concluir sobre sus gustos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A partir de efectos visibles (estado físico del personaje y del objeto), el lector deduce la causa (lluvia fuerte) que no se menciona directamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v3",
+      "statement": "Lee con atención: *\"La tenue luz de la nevera era lo único que iluminaba la cocina. El profundo silencio solo era interrumpido por el bostezo sonoro de Pedro\"*. ¿A qué hora del día ocurre probablemente esta escena?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exactamente al mediodía, durante la hora del almuerzo familiar.",
+          "is_correct": false,
+          "feedback": "Al mediodía suele haber luz natural intensa y más ruido ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Tarde en la noche o durante la madrugada.",
+          "is_correct": true,
+          "feedback": "Correcto. La oscuridad y el silencio total sugieren un horario de descanso nocturno."
+        },
+        {
+          "letter": "C",
+          "text": "A las diez de la mañana mientras los estudiantes están en el colegio.",
+          "is_correct": false,
+          "feedback": "El texto sitúa a Pedro en una cocina silenciosa, incompatible con horario escolar activo."
+        },
+        {
+          "letter": "D",
+          "text": "Durante el desarrollo de una animada fiesta de cumpleaños en la casa.",
+          "is_correct": false,
+          "feedback": "El \"profundo silencio\" es totalmente incompatible con la atmósfera de una fiesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lector utiliza indicadores ambientales (iluminación, nivel de ruido) y fisiológicos (bostezo) para situar cronológicamente la acción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v4",
+      "statement": "En un artículo de opinión, si el autor utiliza constantes estadísticas sobre los riesgos ambientales de la minería ilegal en el Chocó, podemos inferir que su propósito es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incentivar a los lectores a invertir sus ahorros en la compra de oro.",
+          "is_correct": false,
+          "feedback": "El uso de datos sobre \"riesgos\" suele tener el efecto contrario a la inversión."
+        },
+        {
+          "letter": "B",
+          "text": "Generar una preocupación ética sobre el daño ecológico en la región.",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos sobre peligros buscan sustentar una posición crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar un ejercicio matemático para que los niños aprendan estadística.",
+          "is_correct": false,
+          "feedback": "Los datos son un medio para argumentar, no el fin educativo principal."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir un poema lírico que exalte la belleza de los ríos chocoanos.",
+          "is_correct": false,
+          "feedback": "El uso de estadísticas es característico del discurso argumentativo, no del lírico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selección intencionada de datos negativos permite inferir la postura ideológica y el propósito persuasivo del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v5",
+      "statement": "Considera el famoso microcuento: *\"Cuando despertó, el dinosaurio todavía estaba allí\"*. ¿Qué se puede inferir lógicamente sobre la situación previa al despertar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el protagonista es un paleontólogo trabajando en un museo.",
+          "is_correct": false,
+          "feedback": "Es una posibilidad externa; el cuento no da pistas sobre la profesión."
+        },
+        {
+          "letter": "B",
+          "text": "Que el dinosaurio ya estaba presente antes (posiblemente en un sueño).",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de \"todavía\" implica que el dinosaurio existía antes del despertar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el dinosaurio es en realidad un pequeño juguete de plástico.",
+          "is_correct": false,
+          "feedback": "No hay pistas de tamaño; la fuerza del relato reside en la ambigüedad."
+        },
+        {
+          "letter": "D",
+          "text": "Que la historia ocurre hace millones de años, antes de los humanos.",
+          "is_correct": false,
+          "feedback": "Si no hubiera humanos, nadie podría \"despertar\" y relatar la experiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término \"todavía\" funciona como un disparador inferencial que conecta el presente narrado con un pasado implícito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v6",
+      "statement": "¿Cuál es la relación fundamental entre el **conocimiento previo** y el acto de inferir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen ninguna relación; solo importa lo que dice el papel.",
+          "is_correct": false,
+          "feedback": "Sin conocimientos previos es imposible conectar las pistas del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El conocimiento previo sirve para ignorar lo que el autor escribió.",
+          "is_correct": false,
+          "feedback": "La inferencia debe estar anclada en el texto, no es inventar libremente."
+        },
+        {
+          "letter": "C",
+          "text": "El conocimiento previo permite interpretar las pistas que el autor deja.",
+          "is_correct": true,
+          "feedback": "Correcto. Usamos nuestra experiencia para dar significado a los indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "El conocimiento previo solo es necesario para textos científicos complejos.",
+          "is_correct": false,
+          "feedback": "Incluso para los textos más sencillos se requiere conocimiento previo del mundo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura es un proceso interactivo: el texto aporta datos y el lector aporta su enciclopedia mental para construir el significado global.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v7",
+      "statement": "Si un personaje dice: *\"¡Claro, como tú nunca te equivocas!\"* usando un tono de sarcasmo, ¿qué podemos inferir sobre su pensamiento real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siente una profunda admiración por la perfección de su interlocutor.",
+          "is_correct": false,
+          "feedback": "El sarcasmo consiste en decir lo contrario de lo que se piensa para criticar."
+        },
+        {
+          "letter": "B",
+          "text": "Que considera que la otra persona ha cometido un error o es arrogante.",
+          "is_correct": true,
+          "feedback": "Correcto. El sarcasmo revela una crítica oculta tras una aparente alabanza."
+        },
+        {
+          "letter": "C",
+          "text": "Que el personaje necesita ayuda urgente para resolver un problema.",
+          "is_correct": false,
+          "feedback": "No existe relación lógica entre la frase sarcástica y una solicitud de ayuda."
+        },
+        {
+          "letter": "D",
+          "text": "Que ambos personajes son seres perfectos que nunca han fallado.",
+          "is_correct": false,
+          "feedback": "El uso del sarcasmo implica que ha ocurrido una falla o tensión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las figuras retóricas como el sarcasmo requieren inferencias pragmáticas para captar la verdadera intención comunicativa del hablante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v8",
+      "statement": "Lee: *\"Los jugadores de la Selección entraron al vestuario con la mirada en el suelo. Afuera, en las gradas, el silencio era ensordecedor\"*. ¿Qué ocurrió?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equipo ganó el partido y los jugadores están muy cansados.",
+          "is_correct": false,
+          "feedback": "Las victorias suelen generar celebraciones, no evasión y miradas al suelo."
+        },
+        {
+          "letter": "B",
+          "text": "El equipo sufrió una derrota dolorosa o fue eliminado.",
+          "is_correct": true,
+          "feedback": "Correcto. La postura de derrota y el silencio del público son signos de pérdida."
+        },
+        {
+          "letter": "C",
+          "text": "El partido aún no ha comenzado y los jugadores están concentrándose.",
+          "is_correct": false,
+          "feedback": "Entrar al vestuario tras estar en el estadio sugiere que la acción ya concluyó."
+        },
+        {
+          "letter": "D",
+          "text": "El árbitro suspendió el encuentro por lluvia antes de empezar.",
+          "is_correct": false,
+          "feedback": "El silencio \"ensordecedor\" en un estadio lleno ocurre tras un resultado triste."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje no verbal y la atmósfera colectiva son indicios que permiten inferir hechos no narrados explícitamente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v9",
+      "statement": "¿A qué nivel de comprensión lectora corresponde la capacidad de realizar inferencias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nivel Literal, donde se identifica solo lo que está escrito.",
+          "is_correct": false,
+          "feedback": "El nivel literal se limita a la superficie del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Nivel Inferencial, donde se construye el sentido de lo implícito.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el nivel intermedio que va más allá de la decodificación básica."
+        },
+        {
+          "letter": "C",
+          "text": "Nivel Crítico, donde se emiten juicios de valor sobre el autor.",
+          "is_correct": false,
+          "feedback": "El nivel crítico es posterior y requiere haber realizado inferencias primero."
+        },
+        {
+          "letter": "D",
+          "text": "Nivel Ortográfico, donde se analiza únicamente la correcta escritura.",
+          "is_correct": false,
+          "feedback": "La ortografía es una convención, no un nivel de comprensión de significado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comprensión lectora se estructura tradicionalmente en tres niveles: literal (explícito), inferencial (implícito) y crítico (valoración).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v10",
+      "statement": "Si ves a un joven caminando un domingo con la camiseta de la selección, la cara pintada y una bandera, ¿qué es lo más lógico de inferir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se dirige a una entrevista de trabajo formal en el centro.",
+          "is_correct": false,
+          "feedback": "La vestimenta es totalmente informal y temática, no apta para una entrevista."
+        },
+        {
+          "letter": "B",
+          "text": "Que ese día hay un partido de fútbol importante y él es un hincha.",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto de símbolos apunta directamente a un evento deportivo."
+        },
+        {
+          "letter": "C",
+          "text": "Que se le dañó la lavadora y tuvo que ponerse la única ropa limpia.",
+          "is_correct": false,
+          "feedback": "Es una explicación improbable dada la coincidencia de tantos elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Que es un turista extranjero que no conoce las costumbres locales.",
+          "is_correct": false,
+          "feedback": "Llevar símbolos patrios locales sugiere identidad local o fanatismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Incluso fuera de los textos escritos, realizamos inferencias sociales a partir de signos visuales y contextos culturales compartidos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v11",
+      "statement": "Un poeta escribe: *\"En este pueblo olvidado, el tiempo no corre, se arrastra\"*. ¿Qué percepción sobre el lugar se puede inferir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los habitantes tienen relojes que funcionan a menor velocidad.",
+          "is_correct": false,
+          "feedback": "Interpretación erróneamente literal de una figura retórica."
+        },
+        {
+          "letter": "B",
+          "text": "Que el pueblo cuenta con la tecnología de transporte más rápida.",
+          "is_correct": false,
+          "feedback": "El verbo \"arrastrarse\" connota lentitud extrema, lo opuesto a rapidez."
+        },
+        {
+          "letter": "C",
+          "text": "Que existe una sensación de aburrimiento o estancamiento social.",
+          "is_correct": true,
+          "feedback": "Correcto. Comparar el tiempo con \"arrastrarse\" sugiere falta de progreso."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los habitantes son atletas en carreras de baja velocidad.",
+          "is_correct": false,
+          "feedback": "La frase describe la experiencia subjetiva, no una actividad física."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las metáforas sobre el tiempo requieren que el lector infiera el estado emocional o la atmósfera que el autor desea transmitir.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la inferencia es **FALSA**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayuda a comprender las verdaderas intenciones y sesgos del autor.",
+          "is_correct": false,
+          "feedback": "Esta afirmación es verdadera; revela el propósito oculto."
+        },
+        {
+          "letter": "B",
+          "text": "Una inferencia es válida aunque contradiga lo que el texto dice.",
+          "is_correct": true,
+          "feedback": "Correcto (afirmación falsa). La inferencia debe apoyarse en evidencias del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Diferentes lectores pueden llegar a inferencias similares con las mismas pistas.",
+          "is_correct": false,
+          "feedback": "Esta afirmación es verdadera; el texto guía la lógica."
+        },
+        {
+          "letter": "D",
+          "text": "Es necesaria para disfrutar de géneros como la novela de misterio.",
+          "is_correct": false,
+          "feedback": "Esta afirmación es verdadera; el misterio se basa en descubrir lo oculto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque la inferencia va más allá de la superficie, nunca debe inventar significados que el texto niegue explícitamente.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido. |\n| Curricular | 40/40 | Nivel de inferencia apropiado para Grado 8. |\n| Contexto | 20/20 | Referencias a contextos colombianos. |\n| Redacción | 10/10 | Enunciados claros. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W30-inferencia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

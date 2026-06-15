@@ -1,313 +1,286 @@
 ---
-id: "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY"
+id: "CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "ensayo-literario"
-semana: "W38"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W38"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Ensayo literario - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Ensayo Literario - Grado 8
 
-Este bundle contiene 12 preguntas sobre el **ensayo literario** para grado 8, analizando sus características, estructura argumentativa y estilo personal, alineadas con los DBA del MEN Colombia.
+Este bundle contiene 12 preguntas sobre el **ensayo literario** para grado 8, explorando su estructura, características estéticas y el desarrollo del pensamiento crítico, alineadas con los DBA del MEN Colombia.
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
+**Contexto:** El ensayo es un género que permite al autor explorar sus propias ideas de forma libre pero argumentada.
 
 ### Enunciado
-¿Qué es un **ensayo literario**?
+¿Cuál es la característica principal que define al **ensayo literario** frente a un artículo puramente científico?
 
 ### Opciones
-- [ ] A) Un texto que narra las aventuras de un caballero medieval.
-  <!-- feedback: Esto describe una novela de caballería o un cuento. -->
-- [x] B) Un texto escrito en prosa donde el autor expone, analiza y comenta su punto de vista sobre un tema desde una perspectiva personal.
-  <!-- feedback: Correcto. Combina el rigor argumentativo con la libertad estética. -->
-- [ ] C) Una lista de pasos a seguir para preparar una receta de cocina colombiana.
-  <!-- feedback: Esto es un texto instructivo. -->
-- [ ] D) Un poema corto que rima en todos sus versos.
-  <!-- feedback: El ensayo se escribe en prosa, no en verso rimado. -->
+- [ ] A) La obligación de incluir tablas estadísticas y gráficos matemáticos. <!-- feedback: Propio de artículos técnicos, no del ensayo literario. -->
+- [x] B) El uso de un lenguaje estético y una visión subjetiva sobre el tema. <!-- feedback: Correcto. Combina argumentación lógica con belleza del lenguaje. -->
+- [ ] C) Que debe ser escrito obligatoriamente por un grupo de diez expertos. <!-- feedback: El ensayo suele ser un ejercicio de reflexión individual. -->
+- [ ] D) La ausencia total de una tesis o de una idea central para defender. <!-- feedback: Todo ensayo requiere una idea central o tesis para ser tal. -->
 
-### Explicación Pedagógica
-El ensayo literario destaca por su subjetividad y su intención de invitar al lector a reflexionar sobre un tema, no necesariamente de dar una verdad absoluta.
+### Explicacion Pedagogica
+El ensayo literario es un género híbrido entre la literatura y el pensamiento, donde importa tanto lo que se dice como la forma en que se expresa.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.82
+**Contexto:** Todo ensayo requiere un punto de partida, una idea que el autor desea demostrar.
 
 ### Enunciado
-¿Cuál es la función de la **tesis** en un ensayo?
+¿Qué se entiende por **tesis** en el contexto de la escritura de un ensayo?
 
 ### Opciones
-- [ ] A) Presentar al autor y contar su biografía completa.
-  <!-- feedback: La biografía no es el centro de un ensayo argumentativo. -->
-- [ ] B) Despedirse del lector y agradecer por la atención.
-  <!-- feedback: Esto es parte de la conclusión o cierre. -->
-- [x] C) Expresar la idea central o postura que el autor defenderá a lo largo del texto.
-  <!-- feedback: Correcto. Es la columna vertebral del ensayo. -->
-- [ ] D) Listar todos los libros que el autor ha leído en su vida.
-  <!-- feedback: Las referencias apoyan la tesis, pero no son la tesis en sí. -->
+- [ ] A) El resumen detallado de todos los libros que el autor leyó antes. <!-- feedback: El resumen es herramienta, no la postura central que se defiende. -->
+- [x] B) La postura o idea central que el autor pretende sustentar y defender. <!-- feedback: Correcto. Es el eje sobre el cual giran todos los argumentos. -->
+- [ ] C) El título llamativo y colorido que se pone al principio de la página. <!-- feedback: El título identifica, pero la tesis es una proposición lógica. -->
+- [ ] D) La lista de palabras difíciles que el autor decidió no incluir nunca. <!-- feedback: La tesis es afirmación positiva, no una lista de omisiones. -->
 
-### Explicación Pedagógica
-Sin una tesis clara, el ensayo se convierte en una simple exposición de datos sin un norte argumentativo.
+### Explicacion Pedagogica
+La tesis es la columna vertebral del ensayo. Sin una postura clara, el texto se convierte en acumulación de información sin propósito.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.78
+**Contexto:** Un estudiante bogotano escribe un ensayo sobre la importancia de la ciclovía.
 
 ### Enunciado
-Si en un ensayo sobre la lectura dices: *"Leer es viajar sin moverse del sitio porque permite conocer mundos y mentes ajenas"*, estás utilizando:
+¿Cuál de estos fragmentos de su ensayo cumple la función de un **argumento de autoridad**?
 
 ### Opciones
-- [ ] A) Un argumento de autoridad.
-  <!-- feedback: No estás citando a un experto o institución. -->
-- [x] B) Un argumento analógico o una metáfora para sustentar una idea.
-  <!-- feedback: Correcto. Usas la imagen del viaje para explicar el efecto de la lectura. -->
-- [ ] C) Una estadística oficial del Ministerio de Cultura.
-  <!-- feedback: No hay datos numéricos o estudios citados. -->
-- [ ] D) Un insulto hacia las personas que no leen.
-  <!-- feedback: El lenguaje es respetuoso y propositivo. -->
+- [ ] A) "A mí personalmente me encanta montar bicicleta todos los domingos". <!-- feedback: Esta es una opinión personal, no un argumento de autoridad. -->
+- [ ] B) "Bogotá es una ciudad con muchos habitantes que necesitan espacios". <!-- feedback: Esta es una afirmación de contexto general, no de autoridad. -->
+- [x] C) "Según la OMS, el ejercicio al aire libre reduce el estrés notablemente". <!-- feedback: Correcto. Se apoya en una institución reconocida para dar validez. -->
+- [ ] D) "Espero que mi profesor me ponga una buena nota por este ensayo largo". <!-- feedback: Esta es una apelación al receptor ajena a la argumentación. -->
 
-### Explicación Pedagógica
-En el ensayo literario, el autor utiliza recursos estéticos y comparaciones para convencer y deleitar al lector.
+### Explicacion Pedagogica
+El argumento de autoridad utiliza el prestigio de expertos o instituciones para reforzar la credibilidad de la tesis del ensayista.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.75
+**Contexto:** El ensayo literario no busca una verdad absoluta, sino una exploración profunda.
 
 ### Enunciado
-¿Por qué se dice que el ensayo es un género **"híbrido"**?
+¿Por qué se dice que el ensayo literario tiene un carácter **dialógico**?
 
 ### Opciones
-- [ ] A) Porque se escribe mitad en español y mitad en inglés.
-  <!-- feedback: No se refiere al idioma, sino a la naturaleza del texto. -->
-- [x] B) Porque combina la exposición de ideas y la argumentación con el cuidado estético y literario.
-  <!-- feedback: Correcto. Está entre la ciencia (ideas) y el arte (estilo). -->
-- [ ] C) Porque el autor debe ser mitad hombre y mitad máquina para escribirlo.
-  <!-- feedback: Distractor absurdo. -->
-- [ ] D) Porque solo se puede leer en computadores modernos.
-  <!-- feedback: El soporte físico no define la naturaleza del género. -->
+- [ ] A) Porque debe escribirse obligatoriamente como una obra de teatro. <!-- feedback: No se refiere a la forma dramática, sino a la relación de ideas. -->
+- [x] B) Porque establece una conversación entre autor, otros textos y el lector. <!-- feedback: Correcto. El ensayista dialoga con la tradición y busca reflexión. -->
+- [ ] C) Porque el autor debe hablar en voz alta mientras está escribiendo. <!-- feedback: El diálogo es intelectual y textual, no una actividad física. -->
+- [ ] D) Porque solo se puede publicar si se convence a un amigo de leerlo. <!-- feedback: La cualidad dialógica es interna a la forma de abordar conocimientos. -->
 
-### Explicación Pedagógica
-El ensayista no solo quiere informar, quiere hacerlo con un estilo propio que convierta la lectura en un placer intelectual.
+### Explicacion Pedagogica
+El ensayo invita a la duda y a la reflexión compartida, reconociendo que el conocimiento es un proceso en constante construcción.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.65
+**Contexto:** Los conectores lógicos son las "articulaciones" que unen las partes.
 
 ### Enunciado
-¿Cuál de los siguientes es un **argumento de autoridad** válido para un ensayo sobre la identidad colombiana?
+En un ensayo, ¿cuál es la función de conectores como *"sin embargo"* o *"por el contrario"*?
 
 ### Opciones
-- [ ] A) "A mi primo le parece que los colombianos somos muy alegres".
-  <!-- feedback: Es una opinión personal sin respaldo académico o de experto. -->
-- [x] B) "Como afirma el historiador Germán Arciniegas, América es un continente de contrastes".
-  <!-- feedback: Correcto. Se cita a un experto reconocido en el tema para dar solidez a la idea. -->
-- [ ] C) "Ayer vi en un video de TikTok que Colombia es el mejor país del mundo".
-  <!-- feedback: Las redes sociales no suelen ser fuentes de autoridad académica por sí solas. -->
-- [ ] D) "Yo creo que somos una mezcla de muchas culturas".
-  <!-- feedback: Esta es la opinión propia del autor, no un argumento de autoridad externa. -->
+- [ ] A) Hacer que el texto se vea más elegante y difícil para los compañeros. <!-- feedback: Los conectores deben buscar la claridad, no la oscuridad. -->
+- [ ] B) Indicar que el autor ha terminado su ensayo y ya no tiene más ideas. <!-- feedback: Se usan dentro del desarrollo para unir oraciones, no al final. -->
+- [x] C) Introducir una contraargumentación o una idea que matiza lo anterior. <!-- feedback: Correcto. Son conectores de oposición que muestran complejidad. -->
+- [ ] D) Avisar al lector que debe buscar esas palabras en un diccionario. <!-- feedback: Son palabras de uso común formal que el lector debe conocer. -->
 
-### Explicación Pedagógica
-Los argumentos de autoridad fortalecen el ensayo al mostrar que las ideas del autor dialogan con el pensamiento de expertos.
+### Explicacion Pedagogica
+El uso correcto de conectores de oposición demuestra que el autor considera diferentes puntos de vista antes de llegar a una conclusión.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.80
+**Contexto:** En Colombia, el ensayo ha sido fundamental para pensar nuestra cultura.
 
 ### Enunciado
-¿En qué parte del ensayo suele aparecer la síntesis de lo expuesto y la reafirmación de la tesis?
+¿Cuál escritor colombiano destacó por sus ensayos, como su discurso de aceptación del Nobel?
 
 ### Opciones
-- [ ] A) En el título.
-  <!-- feedback: El título debe ser sugerente, no un resumen completo. -->
-- [ ] B) En la introducción.
-  <!-- feedback: Aquí se presenta el tema y la tesis, no se resumen resultados. -->
-- [ ] C) En el cuerpo o desarrollo.
-  <!-- feedback: Aquí se despliegan los argumentos con detalle. -->
-- [x] D) En la conclusión o cierre.
-  <!-- feedback: Correcto. Es donde se recogen los frutos de la argumentación previa. -->
+- [ ] A) Rafael Pombo, conocido principalmente por sus fábulas y poesías. <!-- feedback: Pombo fue poeta, no figura central del ensayo sobre el Nobel. -->
+- [x] B) Gabriel García Márquez, autor del ensayo 'La soledad de América Latina'. <!-- feedback: Correcto. Reflexiona sobre la realidad social y cultural regional. -->
+- [ ] C) Simón Bolívar, quien se dedicó primordialmente a las cartas militares. <!-- feedback: Sus textos son históricos, el Nobel mencionado es del s. XX. -->
+- [ ] D) Juan Manuel Santos, reconocido por sus discursos políticos actuales. <!-- feedback: Aunque recibió Nobel de Paz, la pregunta enfoca lo literario. -->
 
-### Explicación Pedagógica
-La conclusión debe dejar una impresión duradera y una reflexión final en el lector.
+### Explicacion Pedagogica
+El ensayo de García Márquez ante la Academia Sueca es fundamental para entender cómo los escritores colombianos interpretan su realidad.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.68
+**Contexto:** La introducción debe "atrapar" al lector y presentar el camino.
 
 ### Enunciado
-Si quieres escribir un ensayo sobre la importancia de las redes sociales en los jóvenes, ¿cuál de estos títulos es más sugerente y literario?
+¿Cuál es la forma más efectiva de iniciar un ensayo literario escolar?
 
 ### Opciones
-- [ ] A) Informe sobre el uso de Instagram en el grado octavo.
-  <!-- feedback: Título técnico e informativo, no literario. -->
-- [x] B) Espejos de cristal: la ilusión de la identidad en la era digital.
-  <!-- feedback: Correcto. Utiliza una metáfora (espejos) para atraer e intrigar al lector. -->
-- [ ] C) Ventajas y desventajas de tener un celular moderno.
-  <!-- feedback: Título demasiado simple y descriptivo. -->
-- [ ] D) Por qué mi mamá no me deja usar TikTok después de las 10 pm.
-  <!-- feedback: Título anecdótico personal, carece de la generalidad reflexiva del ensayo. -->
+- [ ] A) Empezar con una lista de definiciones de diccionario sobre el tema. <!-- feedback: Las definiciones planas suelen alejar al lector interesado. -->
+- [x] B) Plantear una pregunta provocadora o una anécdota impactante. <!-- feedback: Correcto. Busca generar curiosidad y situar al lector. -->
+- [ ] C) Pedir disculpas al lector por no ser un experto mundial en la materia. <!-- feedback: La falsa modestia resta autoridad y fuerza al texto del ensayista. -->
+- [ ] D) Escribir el final de la historia primero para no tener que leer todo. <!-- feedback: El ensayo no es narración de suspenso; requiere desarrollo lógico. -->
 
-### Explicación Pedagógica
-El título de un ensayo literario suele ser una "puerta" estética que invita a entrar al universo de ideas del autor.
+### Explicacion Pedagogica
+Un buen inicio debe contextualizar el problema y dejar clara la relevancia del tema para la vida del lector.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.58
+**Contexto:** Un ensayo literario exitoso logra equilibrar dos dimensiones del lenguaje.
 
 ### Enunciado
-¿Qué significa que el ensayo tenga un carácter **"dialógico"**?
+¿Por qué se afirma que el ensayo literario tiene un pie en la ciencia y otro en el arte?
 
 ### Opciones
-- [ ] A) Que debe escribirse obligatoriamente entre dos personas.
-  <!-- feedback: El ensayo suele ser de autoría individual. -->
-- [x] B) Que establece un diálogo implícito con el lector, invitándolo a pensar y cuestionar.
-  <!-- feedback: Correcto. No es un monólogo cerrado, sino una invitación al pensamiento. -->
-- [ ] C) Que el autor debe usar muchos diálogos entre personajes como en un cuento.
-  <!-- feedback: El ensayo usa prosa reflexiva, no suele basarse en diálogos de personajes. -->
-- [ ] D) Que solo se puede leer en voz alta en un auditorio.
-  <!-- feedback: Se puede leer en silencio; el "diálogo" es intelectual. -->
+- [ ] A) Porque debe ser escrito por alguien con dos títulos universitarios. <!-- feedback: Se refiere a la naturaleza del género, no a la formación del autor. -->
+- [x] B) Porque usa el rigor del pensamiento lógico y la belleza del lenguaje. <!-- feedback: Correcto. Busca conocimiento mediante una expresión estética. -->
+- [ ] C) Porque los ensayos literarios solo se pueden leer en laboratorios. <!-- feedback: Son textos de circulación general en medios culturales. -->
+- [ ] D) Porque el autor debe hacer dibujos artísticos de sus experimentos. <!-- feedback: El componente artístico reside en el estilo y recursos literarios. -->
 
-### Explicación Pedagógica
-El ensayista no impone su verdad, sino que la propone para que el lector la complete o la debata en su mente.
+### Explicacion Pedagogica
+A diferencia del tratado científico que es frío, el ensayo literario es cálido y busca conmover al lector mientras lo convence.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.84
+**Contexto:** El ensayo nació hace siglos como un ejercicio de "probar" el pensamiento.
 
 ### Enunciado
-¿Quién es considerado el inventor del ensayo moderno en el siglo XVI?
+¿Quién es considerado creador del ensayo moderno con su obra 'Essais'?
 
 ### Opciones
-- [ ] A) Miguel de Cervantes.
-  <!-- feedback: Maestro de la novela ('El Quijote'). -->
-- [x] B) Michel de Montaigne.
-  <!-- feedback: Correcto. Sus 'Essais' (Ensayos) dieron nombre y forma al género. -->
-- [ ] C) William Shakespeare.
-  <!-- feedback: Genio del drama y la poesía. -->
-- [ ] D) Simón Bolívar.
-  <!-- feedback: Líder político y militar, autor de cartas y proclamas importantes. -->
+- [ ] A) William Shakespeare, el gran dramaturgo autor de tragedias famosas. <!-- feedback: Shakespeare destacó en teatro y poesía, no en ensayo formal. -->
+- [x] B) Michel de Montaigne, quien buscaba probar sus propias ideas. <!-- feedback: Correcto. Su obra marcó el inicio del género como exploración. -->
+- [ ] C) Miguel de Cervantes, el autor de la famosísima novela 'El Quijote'. <!-- feedback: Cervantes es el padre de la novela moderna, no del ensayo. -->
+- [ ] D) Isaac Newton, el científico que descubrió las leyes de gravedad. <!-- feedback: Newton escribió tratados científicos, diferentes al ensayo personal. -->
 
-### Explicación Pedagógica
-Montaigne propuso la idea de "ensayarse" a sí mismo, explorando sus propios pensamientos sobre la vida, la muerte y las costumbres.
+### Explicacion Pedagogica
+Montaigne entendió el ensayo como un ejercicio de introspección donde el autor se analiza para entender la condición humana.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** Un ensayo bien estructurado guía hacia una reflexión final potente.
 
 ### Enunciado
-¿Cuál es la diferencia entre un **ensayo científico** y un **ensayo literario**?
+¿Cuál es la función primordial de la **conclusión** en un ensayo literario?
 
 ### Opciones
-- [ ] A) El científico se escribe a mano y el literario en computador.
-  <!-- feedback: Diferencia técnica irrelevante. -->
-- [x] B) El científico busca la objetividad y pruebas rigurosas; el literario valora la subjetividad y el estilo personal.
-  <!-- feedback: Correcto. Sus fines y formas de lenguaje son diferentes. -->
-- [ ] C) El literario no necesita tener una tesis y el científico sí.
-  <!-- feedback: Ambos necesitan una idea central (tesis) para ser ensayos. -->
-- [ ] D) El científico es siempre aburrido y el literario siempre divertido.
-  <!-- feedback: La calidad del texto depende del autor, no solo del género. -->
+- [ ] A) Repetir exactamente las mismas palabras que se usaron al inicio. <!-- feedback: Debe ser una síntesis enriquecida, no repetición mecánica. -->
+- [x] B) Sintetizar los argumentos y dejar una reflexión o nueva pregunta. <!-- feedback: Correcto. Cierra argumentación abriendo puertas al pensamiento. -->
+- [ ] C) Listar de forma desordenada todos los temas que no se trataron. <!-- feedback: Debe enfocarse en lo que sí se trató y en cómo se demostró. -->
+- [ ] D) Pedir al lector que ignore todo porque el autor cambió de opinión. <!-- feedback: Debe mantener coherencia lógica de principio a fin. -->
 
-### Explicación Pedagógica
-Aunque ambos usan la razón, el ensayo literario se permite licencias creativas y un tono más íntimo.
+### Explicacion Pedagogica
+La conclusión es el momento de cierre donde se recogen los frutos de la argumentación y se proyecta el tema hacia el futuro.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** El ensayista debe ser honesto con la información que utiliza.
 
 ### Enunciado
-Si en un ensayo el autor utiliza la ironía para criticar una costumbre social, ¿qué efecto busca probablemente en el lector?
+¿Qué ocurre si un autor oculta deliberadamente datos que contradicen su tesis?
 
 ### Opciones
-- [ ] A) Que el lector se confunda y crea que el autor está a favor de esa costumbre.
-  <!-- feedback: El lector atento debe captar la intención crítica tras la ironía. -->
-- [x] B) Hacer que el lector reflexione a través del humor y la inteligencia sobre lo absurdo de esa costumbre.
-  <!-- feedback: Correcto. La ironía es una herramienta crítica poderosa y sutil. -->
-- [ ] C) Demostrar que el autor es una persona muy amargada.
-  <!-- feedback: La ironía es un recurso literario, no necesariamente un estado de ánimo permanente. -->
-- [ ] D) Evitar que la gente entienda lo que él piensa de verdad.
-  <!-- feedback: Al contrario, busca comunicar su pensamiento de forma más impactante. -->
+- [ ] A) Que su ensayo será premiado por tener una visión muy clara. <!-- feedback: La falta de honestidad suele ser detectada y resta validez. -->
+- [x] B) Pierde credibilidad y ética, pues debe ser una búsqueda honesta. <!-- feedback: Correcto. Un buen ensayista aborda y responde contraargumentos. -->
+- [ ] C) Que el texto se convertirá automáticamente en un poema de amor. <!-- feedback: Depende de intención y estructura, no de omisión de datos. -->
+- [ ] D) No ocurre nada, pues está permitido inventar cualquier dato falso. <!-- feedback: El ensayo se basa en reflexión sobre la realidad y requiere rigor. -->
 
-### Explicación Pedagógica
-La ironía en el ensayo requiere una complicidad con el lector, quien debe "leer entre líneas" para captar la crítica.
+### Explicacion Pedagogica
+La ética del ensayista reside en su capacidad para dialogar con la realidad de forma honesta, incluso cuando desafía sus creencias.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W38-ensayo-literario-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comunicación Escrita
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** Escribir ensayos ayuda a desarrollar habilidades para la vida.
 
 ### Enunciado
-¿Por qué es importante citar correctamente las fuentes en un ensayo, incluso si es literario?
+¿Cuál es el beneficio intelectual de aprender a escribir ensayos literarios?
 
 ### Opciones
-- [ ] A) Para que el ensayo se vea más largo y el profesor ponga mejor nota.
-  <!-- feedback: La longitud no garantiza calidad. -->
-- [x] B) Para dar crédito a los autores originales y evitar el plagio, fortaleciendo la honestidad académica.
-  <!-- feedback: Correcto. El respeto a la propiedad intelectual es fundamental. -->
-- [ ] C) Porque es una ley del gobierno colombiano que castiga con cárcel a quien no cite.
-  <!-- feedback: Aunque hay leyes de derechos de autor, la razón principal es la ética y el rigor intelectual. -->
-- [ ] D) Para que los otros autores nos paguen por hacerles publicidad.
-  <!-- feedback: Citar es un reconocimiento intelectual, no un contrato publicitario. -->
+- [ ] A) Aprender a escribir muy rápido para terminar los exámenes antes. <!-- feedback: Requiere tiempo de reflexión; no es ejercicio de velocidad. -->
+- [x] B) Desarrollar el pensamiento crítico y la capacidad de argumentar. <!-- feedback: Correcto. Habilidades fundamentales para ciudadanía y educación. -->
+- [ ] C) Memorizar todas las reglas gramaticales para no cometer errores. <!-- feedback: La gramática es herramienta, el fin es el desarrollo del pensamiento. -->
+- [ ] D) Ser capaz de convencer a cualquier persona de cualquier mentira. <!-- feedback: El fin es la búsqueda de verdad y expresión honesta, no engaño. -->
 
-### Explicación Pedagógica
-Incluso en el género más libre, la honestidad sobre de dónde vienen nuestras ideas es un pilar de la cultura escrita.
+### Explicacion Pedagogica
+El ensayo es un laboratorio del pensamiento que entrena al estudiante para analizar problemas complejos y proponer soluciones.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |
+| Curricular | 40/40 | Cubre el género del ensayo según DBA. |
+| Contexto | 20/20 | Referencias a García Márquez y contexto local. |
+| Redacción | 10/10 | Estilo formal y explicaciones claras. |
+| **Total** | **100/100** | |

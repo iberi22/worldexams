@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.739Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal de la **crítica literaria** en el mundo cultural?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resumir detalladamente los libros para que la gente no tenga que leerlos.",
+          "is_correct": false,
+          "feedback": "El resumen es apoyo, no el fin último de la crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Analizar, interpretar y valorar obras basándose en criterios estéticos.",
+          "is_correct": true,
+          "feedback": "Correcto. La crítica busca explicar el sentido y la calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ayudar a las editoriales a vender más libros mediante publicidad engañosa.",
+          "is_correct": false,
+          "feedback": "El crítico debe ser independiente de los intereses comerciales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir únicamente los errores ortográficos que cometen los autores.",
+          "is_correct": false,
+          "feedback": "Labor de un corrector de estilo, no del crítico literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica literaria sirve como puente entre la obra y el lector, ayudando a descubrir capas de significado no evidentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v2",
+      "statement": "¿En qué se diferencia una opinión subjetiva de una **valoración crítica** profesional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En que la valoración profesional siempre debe ser negativa sobre el autor.",
+          "is_correct": false,
+          "feedback": "La crítica puede ser positiva si está bien argumentada."
+        },
+        {
+          "letter": "B",
+          "text": "En que la valoración crítica utiliza argumentos técnicos y evidencias del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La crítica sustenta sus juicios en el análisis."
+        },
+        {
+          "letter": "C",
+          "text": "En que la opinión subjetiva es mucho más corta y fácil de escribir.",
+          "is_correct": false,
+          "feedback": "La diferencia radica en el sustento y la lógica del juicio."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna diferencia real; ambas son formas de decir lo mismo.",
+          "is_correct": false,
+          "feedback": "La crítica requiere método y conocimiento de la tradición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica literaria es un ejercicio de la razón y sensibilidad que busca objetividad dentro de la interpretación subjetiva.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v3",
+      "statement": "Si un crítico analiza una novela colombiana del s. XIX, ¿cuál aspecto es fundamental?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo de computador que utilizó el autor para redactar capítulos.",
+          "is_correct": false,
+          "feedback": "En el s. XIX no existían computadores; ignora el contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Las costumbres, valores sociales y el lenguaje propio de la época escrita.",
+          "is_correct": true,
+          "feedback": "Correcto. No se puede juzgar el pasado solo con valores del presente."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de seguidores que tiene el autor en sus redes sociales hoy.",
+          "is_correct": false,
+          "feedback": "Los autores del s. XIX no tenían redes sociales digitales."
+        },
+        {
+          "letter": "D",
+          "text": "El precio actual del libro en las librerías más modernas de Bogotá.",
+          "is_correct": false,
+          "feedback": "El valor comercial no define la calidad literaria o histórica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crítico debe poseer conciencia histórica para entender qué buscaba el autor en su tiempo y cómo su obra dialogaba con la sociedad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v4",
+      "statement": "¿Qué significa analizar la **verosimilitud** de una obra de ficción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confirmar que todos los hechos narrados ocurrieron así en la vida real.",
+          "is_correct": false,
+          "feedback": "La ficción no tiene que ser verdad histórica, sino coherente."
+        },
+        {
+          "letter": "B",
+          "text": "Evaluar si la historia es creíble y lógica dentro del propio universo creado.",
+          "is_correct": true,
+          "feedback": "Correcto. Se aceptan reglas fantásticas si son consistentes."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántas mentiras dijo el autor durante la entrevista de lanzamiento.",
+          "is_correct": false,
+          "feedback": "Cualidad interna del texto, no de la conducta del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar al autor a jurar ante un juez que no inventó nada en su libro.",
+          "is_correct": false,
+          "feedback": "La verosimilitud es la \"verdad de las mentiras\" artísticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La verosimilitud permite que el lector \"suspenda su incredulidad\" y se sumerja en la historia sin sentir que las reglas se rompen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v5",
+      "statement": "Si un crítico afirma que *\"el estilo es excesivamente barroco y lleno de metáforas\"*, ¿qué juzga?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tema central o la trama de la historia que se está contando.",
+          "is_correct": false,
+          "feedback": "Se refiere a la forma de escribir (estilo), no al argumento."
+        },
+        {
+          "letter": "B",
+          "text": "La forma, el lenguaje y recursos estéticos utilizados por el escritor.",
+          "is_correct": true,
+          "feedback": "Correcto. Analiza cómo se usa el lenguaje para construir el arte."
+        },
+        {
+          "letter": "C",
+          "text": "El peso físico del libro y la calidad del papel de la editorial.",
+          "is_correct": false,
+          "feedback": "Se refiere al lenguaje literario, no a características físicas."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de dinero que el autor gastó en diccionarios de sinónimos.",
+          "is_correct": false,
+          "feedback": "La crítica evalúa el resultado artístico, no procesos económicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Forma y fondo son inseparables, pero el crítico a menudo separa estas categorías para un análisis técnico profundo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v6",
+      "statement": "¿Cuál es el enfoque de la llamada **Crítica Sociológica** aplicada a los textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántas personas de estrato alto y bajo compraron el libro.",
+          "is_correct": false,
+          "feedback": "No es una encuesta de ventas o mercadeo de consumidores."
+        },
+        {
+          "letter": "B",
+          "text": "Analizar cómo la obra refleja o critica las tensiones y problemas sociales.",
+          "is_correct": true,
+          "feedback": "Correcto. Ve el libro como producto que interactúa con su contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiar únicamente si el autor del libro tiene muchos amigos y fiestas.",
+          "is_correct": false,
+          "feedback": "Se refiere a la estructura social en la obra, no a vida privada."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a los personajes de la novela a pagar impuestos al gobierno.",
+          "is_correct": false,
+          "feedback": "Es un método de análisis intelectual sobre el sentido social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica sociológica ayuda a comprender cómo la literatura puede ser reflejo de las luchas, sueños e injusticias de un pueblo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v7",
+      "statement": "Si un crítico compara una novela nueva con 'Cien años de soledad', ¿cuál es su intención?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acusar al joven autor ante la policía por haber leído a García Márquez.",
+          "is_correct": false,
+          "feedback": "Leer libros no es delito; comparar es un ejercicio básico."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer relación de influencia o ruptura con el realismo mágico.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca situar la obra dentro de un mapa cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el autor joven es mejor que el Nobel por ser moderno.",
+          "is_correct": false,
+          "feedback": "Busca entender relaciones, no necesariamente una competencia."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al lector de que no compre el libro nuevo y lea solo clásicos.",
+          "is_correct": false,
+          "feedback": "Busca enriquecer la lectura de ambos textos mediante comparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intertextualidad es clave de la crítica para entender cómo las obras nuevas dialogan con los gigantes del pasado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v8",
+      "statement": "¿Qué quiere decir que una novela tiene una **\"estructura circular\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el libro físico tiene forma de círculo y es difícil de acomodar.",
+          "is_correct": false,
+          "feedback": "Se refiere a organización interna, no forma física."
+        },
+        {
+          "letter": "B",
+          "text": "Que el final de la historia se conecta con el comienzo, cerrando un ciclo.",
+          "is_correct": true,
+          "feedback": "Correcto. Forma de organizar el tiempo para efecto de totalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el autor repite las mismas palabras en cada página para cansar.",
+          "is_correct": false,
+          "feedback": "Repetición de sentidos o situaciones clave, no falta de léxico."
+        },
+        {
+          "letter": "D",
+          "text": "Que la historia ocurre dentro de una plaza de toros totalmente redonda.",
+          "is_correct": false,
+          "feedback": "Concepto técnico sobre tiempo y trama, no lugar físico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura circular es un recurso técnico que sugiere el eterno retorno, el destino o la imposibilidad de escapar de una situación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v9",
+      "statement": "¿Cuál es la característica de una **reseña crítica** en un suplemento cultural?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilizar términos científicos tan difíciles que solo doctores entiendan.",
+          "is_correct": false,
+          "feedback": "Busca ser accesible para orientar al lector común."
+        },
+        {
+          "letter": "B",
+          "text": "Combinar información básica sobre la obra con un juicio argumentado.",
+          "is_correct": true,
+          "feedback": "Correcto. Informa de qué trata y propone una opinión experta."
+        },
+        {
+          "letter": "C",
+          "text": "No dar ninguna opinión para no ofender a nadie y ser amigo de todos.",
+          "is_correct": false,
+          "feedback": "Sin valoración deja de ser crítica para ser simple publicidad."
+        },
+        {
+          "letter": "D",
+          "text": "Contar detalladamente el final de la historia para ahorrar la compra.",
+          "is_correct": false,
+          "feedback": "El crítico debe evitar \"spoilers\" para no arruinar la experiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reseña crítica es un género periodístico-literario que orienta el gusto del público y fomenta el debate cultural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v10",
+      "statement": "¿Por qué es importante para la crítica analizar el **punto de vista del narrador**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para saber si el autor del libro tiene buena visión y usa gafas.",
+          "is_correct": false,
+          "feedback": "Técnica narrativa, no salud visual física del escritor."
+        },
+        {
+          "letter": "B",
+          "text": "Para entender cómo el narrador filtra o limita la información recibida.",
+          "is_correct": true,
+          "feedback": "Correcto. La perspectiva determina qué partes de la \"verdad\" conocemos."
+        },
+        {
+          "letter": "C",
+          "text": "Para obligar al narrador a que nos diga su nombre real y correo.",
+          "is_correct": false,
+          "feedback": "Voz ficticia; no es sujeto con identidad legal real."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así el crítico sabe si la historia está en español u otro idioma.",
+          "is_correct": false,
+          "feedback": "El idioma es evidente; el punto de vista es decisión técnica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección del narrador es una decisión ideológica y estética que define la relación de poder entre el texto y quien lo lee.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v11",
+      "statement": "¿Cuál es la responsabilidad ética de un crítico frente al **canon literario**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obedecer ciegamente lo que dijeron los críticos de hace 100 años.",
+          "is_correct": false,
+          "feedback": "Pensamiento crítico requiere revisar valoraciones del pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Revisar el pasado para rescatar autores olvidados o cuestionar famosos.",
+          "is_correct": true,
+          "feedback": "Correcto. Canon está en constante construcción y revisión."
+        },
+        {
+          "letter": "C",
+          "text": "Quemar todos los libros antiguos para que solo se lean novedades.",
+          "is_correct": false,
+          "feedback": "Busca diálogo con tradición, no destrucción del patrimonio."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir maravillas de libros premiados solo para estar con la mayoría.",
+          "is_correct": false,
+          "feedback": "Independencia de juicio es el valor ético más alto del crítico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crítico ayuda a que la cultura no se estanque, permitiendo que nuevas voces entren al debate y antiguas sean leídas con ojos nuevos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v12",
+      "statement": "¿Cuál es la mayor utilidad de aprender ejercicios de **crítica literaria** escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poder ganar discusiones en las fiestas demostrando que sabe más.",
+          "is_correct": false,
+          "feedback": "El fin no es arrogancia, sino desarrollo de habilidades."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollar el pensamiento autónomo para no ser manipulado por discursos.",
+          "is_correct": true,
+          "feedback": "Correcto. Capacidad de análisis se traslada a la ciudadanía."
+        },
+        {
+          "letter": "C",
+          "text": "Aprender a escribir muy despacio para que la letra quede redonda.",
+          "is_correct": false,
+          "feedback": "Ejercicio intelectual de análisis, no caligrafía física."
+        },
+        {
+          "letter": "D",
+          "text": "Ser capaz de corregir a todos los profesores cuando cometen un error.",
+          "is_correct": false,
+          "feedback": "El objetivo es autocrítica y comprensión de mensajes complejos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica literaria entrena al cerebro para buscar lógica, belleza y ética en cualquier mensaje, formando ciudadanos más conscientes.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |\n| Curricular | 40/40 | Cubre fundamentos de crítica para Grado 8. |\n| Contexto | 20/20 | Situaciones académicas y locales correctas. |\n| Redacción | 10/10 | Estilo formal y académico. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

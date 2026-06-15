@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-35-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.738Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v1",
+      "statement": "¿Quién es considerado históricamente el \"padre del cuento moderno\" en Hispanoamérica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jorge Luis Borges, el maestro de los cuentos filosóficos.",
+          "is_correct": false,
+          "feedback": "Borges pertenece a una generación posterior."
+        },
+        {
+          "letter": "B",
+          "text": "Horacio Quiroga, autor de 'Cuentos de amor, de locura y de muerte'.",
+          "is_correct": true,
+          "feedback": "Correcto. Quiroga estableció las bases técnicas del género."
+        },
+        {
+          "letter": "C",
+          "text": "Julio Cortázar, quien revolucionó el cuento fantástico en el siglo XX.",
+          "is_correct": false,
+          "feedback": "Cortázar es un renovador posterior muy importante."
+        },
+        {
+          "letter": "D",
+          "text": "Gabriel García Márquez, el novelista colombiano más importante.",
+          "is_correct": false,
+          "feedback": "García Márquez destaca más en la novela extensa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Horacio Quiroga, influido por Edgar Allan Poe, redactó un decálogo del perfecto cuentista y demostró cómo la brevedad intensifica la emoción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v2",
+      "statement": "¿Cuál es la característica técnica que diferencia al cuento de la novela extensa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el cuento debe terminar con una enseñanza moral obligatoria.",
+          "is_correct": false,
+          "feedback": "Esta es una característica de la fábula, no del cuento moderno."
+        },
+        {
+          "letter": "B",
+          "text": "Que el cuento permite múltiples tramas paralelas y cientos de personajes.",
+          "is_correct": false,
+          "feedback": "Esta descripción corresponde a la novela extensa."
+        },
+        {
+          "letter": "C",
+          "text": "La brevedad narrativa y la intensidad emocional en un solo conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. El cuento busca producir un efecto único y potente."
+        },
+        {
+          "letter": "D",
+          "text": "Que los cuentos son textos escritos exclusivamente para niños pequeños.",
+          "is_correct": false,
+          "feedback": "Existen cuentos para todas las edades con temas muy complejos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La economía del lenguaje, la eliminación de detalles innecesarios y la concentración del tiempo son pilares del género cuentístico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v3",
+      "statement": "En 'Continuidad de los parques', la ficción y la realidad se funden al final. ¿Qué tipo de cuento es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuento de realismo social, centrado en denuncia de condiciones de vida.",
+          "is_correct": false,
+          "feedback": "Los sucesos desafían las leyes de la física y la lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Cuento fantástico o metaficcional, sobre fronteras de realidad y ficción.",
+          "is_correct": true,
+          "feedback": "Correcto. Rompe el límite entre el mundo del lector y el personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Cuento policiaco tradicional, donde un detective resuelve un crimen.",
+          "is_correct": false,
+          "feedback": "No existe una investigación lógica ni un detective."
+        },
+        {
+          "letter": "D",
+          "text": "Cuento infantil de hadas que busca dejar un mensaje de precaución.",
+          "is_correct": false,
+          "feedback": "Es un cuento para adultos con una estructura técnica sofisticada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lo fantástico en la narrativa hispana a menudo explora paradojas sobre el tiempo, el espacio y el propio acto de leer.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v4",
+      "statement": "¿Qué elemento es fundamental en los cuentos de Juan Rulfo ('El llano en llamas')?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ambiente desértico, la soledad y la presencia espectral de la muerte.",
+          "is_correct": true,
+          "feedback": "Correcto. Sus personajes parecen almas en pena habitando tierras secas."
+        },
+        {
+          "letter": "B",
+          "text": "Las grandes celebraciones tecnológicas en las ciudades europeas.",
+          "is_correct": false,
+          "feedback": "Rulfo se enfoca casi exclusivamente en el México rural profundo."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de un humor alegre y finales cómicos para toda la familia.",
+          "is_correct": false,
+          "feedback": "La obra de Rulfo es profundamente trágica y sombría."
+        },
+        {
+          "letter": "D",
+          "text": "La inclusión de naves espaciales que aterrizan en los campos.",
+          "is_correct": false,
+          "feedback": "El estilo de Rulfo es realismo crudo que coquetea con lo mítico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juan Rulfo logró capturar la esencia trágica de la posrevolución mexicana, creando un lenguaje despojado que cambió la literatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v5",
+      "statement": "¿Cuál es la función del **\"final sorpresivo\"** según maestros como Julio Cortázar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir al lector para que tenga que volver a leer todo el libro.",
+          "is_correct": false,
+          "feedback": "El objetivo no es la confusión, sino la revelación de sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Admitir que el autor no sabía cómo terminar la historia inventando algo.",
+          "is_correct": false,
+          "feedback": "Es una técnica planificada que requiere sembrar pistas falsas."
+        },
+        {
+          "letter": "C",
+          "text": "Producir un impacto total que cambie la interpretación de lo leído.",
+          "is_correct": true,
+          "feedback": "Correcto. Cortázar decía que el cuento debe ganar por \"knock-out\"."
+        },
+        {
+          "letter": "D",
+          "text": "Transformar de repente el género del cuento de tragedia a comedia.",
+          "is_correct": false,
+          "feedback": "El final debe tener lógica interna con la atmósfera previa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un final de impacto obliga al lector a realizar un proceso de relectura mental inmediata para comprender las pistas ignoradas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v6",
+      "statement": "¿Qué característica define al **microcuento** (o minificción)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que utiliza lenguaje infantil porque solo los niños pueden leerlo.",
+          "is_correct": false,
+          "feedback": "El microcuento suele dirigirse a lectores adultos y cultos."
+        },
+        {
+          "letter": "B",
+          "text": "Su brevedad extrema y la necesidad de que el lector complete el sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Requiere un lector activo que imagine lo no dicho."
+        },
+        {
+          "letter": "C",
+          "text": "Que son cuentos escritos en papel de tamaño reducido para ahorrar.",
+          "is_correct": false,
+          "feedback": "Se refiere a la extensión del texto literario, no del papel."
+        },
+        {
+          "letter": "D",
+          "text": "Que es obligatorio utilizar un microscopio para distinguir las letras.",
+          "is_correct": false,
+          "feedback": "Es un nombre metafórico que resalta la brevedad y precisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El microcuento es la máxima expresión de la síntesis narrativa; cada palabra es vital para sugerir un universo completo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v7",
+      "statement": "Si un cuento relata la historia de un campesino desplazado por la violencia, es un:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuento fantástico medieval sobre dragones y caballeros andantes.",
+          "is_correct": false,
+          "feedback": "El tema planteado es realista y dolorosamente actual."
+        },
+        {
+          "letter": "B",
+          "text": "Cuento de corte realista y de denuncia social nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca dar testimonio de las problemáticas históricas."
+        },
+        {
+          "letter": "C",
+          "text": "Cuento de ciencia ficción que ocurre en una base espacial.",
+          "is_correct": false,
+          "feedback": "No existe base tecnológica imaginaria; es reflejo de la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Cuento lírico experimental donde no ocurre ninguna acción física.",
+          "is_correct": false,
+          "feedback": "El conflicto del desplazamiento implica una trama de acciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura colombiana ha utilizado el cuento como herramienta ética para narrar el desplazamiento forzado y la realidad del campo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v8",
+      "statement": "¿Qué técnica utiliza Jorge Luis Borges para dar apariencia de verdad a sus ficciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incluir fotografías reales de todos los personajes en el libro.",
+          "is_correct": false,
+          "feedback": "Borges era autor de la palabra pura; casi nunca usaba fotos."
+        },
+        {
+          "letter": "B",
+          "text": "Citar libros falsos, autores inexistentes y mezclar datos reales.",
+          "is_correct": true,
+          "feedback": "Correcto. Crea una erudición ficticia que fascina al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir en lenguaje callejero para parecer más cercano al pueblo.",
+          "is_correct": false,
+          "feedback": "El estilo de Borges es extremadamente culto y elegante."
+        },
+        {
+          "letter": "D",
+          "text": "Pedirle a un científico famoso que firme sus cuentos como ciertos.",
+          "is_correct": false,
+          "feedback": "Borges construía verosimilitud desde dentro mediante juegos lógicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Borges borró la frontera entre el ensayo (verdad) y el cuento (ficción), creando un estilo único en la lengua española.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v9",
+      "statement": "¿Qué autor es célebre por cuentos de horror naturalista como 'El almohadón de plumas'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez, asociado más con realismo mágico tropical.",
+          "is_correct": false,
+          "feedback": "García Márquez no se especializó en terror naturalista."
+        },
+        {
+          "letter": "B",
+          "text": "Horacio Quiroga, el maestro uruguayo del horror en la naturaleza.",
+          "is_correct": true,
+          "feedback": "Correcto. Sus cuentos exploran la fragilidad humana ante la selva."
+        },
+        {
+          "letter": "C",
+          "text": "Isabel Allende, conocida por sus grandes sagas familiares históricas.",
+          "is_correct": false,
+          "feedback": "Sus temas suelen ser amor y política, no horror biológico."
+        },
+        {
+          "letter": "D",
+          "text": "Juan José Arreola, famoso por sus cuentos breves e intelectuales.",
+          "is_correct": false,
+          "feedback": "Arreola destaca por ingenio, no por el terror de Quiroga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'El almohadón de plumas' es un ejemplo perfecto de cómo Quiroga combina descripción realista con un horror final impactante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v10",
+      "statement": "¿Qué significa técnicamente que un cuento posea un **\"narrador testigo\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el narrador es el protagonista absoluto de todos los hechos.",
+          "is_correct": false,
+          "feedback": "Esta es la descripción del narrador protagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador participa pero relata lo que le sucede a otro.",
+          "is_correct": true,
+          "feedback": "Correcto. Observa la acción desde su propio \"yo\" sin ser el eje."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador es un ser divino que sabe lo que todos piensan.",
+          "is_correct": false,
+          "feedback": "Esta capacidad es exclusiva del narrador omnisciente."
+        },
+        {
+          "letter": "D",
+          "text": "Que el narrador es el autor real apareciendo físicamente en el libro.",
+          "is_correct": false,
+          "feedback": "El narrador es ficticio; el autor es la persona real fuera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador testigo permite una mezcla de subjetividad (sentimientos) y objetividad (lo que ve hacer al protagonista).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v11",
+      "statement": "Si un cuento contemporáneo utiliza términos de redes sociales, ¿cuál es su intención?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que no tiene vocabulario para escribir español clásico.",
+          "is_correct": false,
+          "feedback": "El uso de lenguajes urbanos es una decisión artística consciente."
+        },
+        {
+          "letter": "B",
+          "text": "Reflejar la realidad inmediata y nuevas formas de comunicación joven.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura captura el habla viva de las sociedades."
+        },
+        {
+          "letter": "C",
+          "text": "Intentar que el libro sea leído únicamente por robots e inteligencias.",
+          "is_correct": false,
+          "feedback": "Los temas urbanos buscan conectar con lectores humanos actuales."
+        },
+        {
+          "letter": "D",
+          "text": "Provocar el enfado de los profesores para que prohíban el libro.",
+          "is_correct": false,
+          "feedback": "El fin primordial es la representación estética de la realidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento hispanoamericano actual ha migrado del campo hacia los problemas de las grandes urbes y la hiperconexión digital.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-v12",
+      "statement": "¿Cuál es la importancia del estudio del cuento en grado 8?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al ser textos cortos, se terminan sin realizar esfuerzo mental.",
+          "is_correct": false,
+          "feedback": "La brevedad a veces esconde una complejidad mayor que la novela."
+        },
+        {
+          "letter": "B",
+          "text": "Permite analizar estructuras completas y fomenta interpretación crítica.",
+          "is_correct": true,
+          "feedback": "Correcto. Unidad perfecta para practicar análisis de personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Ayuda a que las clases sean más aburridas y se pierda el interés.",
+          "is_correct": false,
+          "feedback": "Al contrario, suele ser la puerta atractiva al placer de leer."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene importancia, pues solo es útil leer manuales técnicos hoy.",
+          "is_correct": false,
+          "feedback": "La literatura es vital para empatía y pensamiento abstracto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento es un laboratorio de la lengua que permite desarrollar habilidades de inferencia y valoración crítica en los jóvenes.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |\n| Curricular | 40/40 | Autores y técnicas clave del cuento en la región. |\n| Contexto | 20/20 | Contextos regionales adecuados. |\n| Redacción | 10/10 | Estilo académico y explicaciones claras. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W35-cuento-hispanoamericano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

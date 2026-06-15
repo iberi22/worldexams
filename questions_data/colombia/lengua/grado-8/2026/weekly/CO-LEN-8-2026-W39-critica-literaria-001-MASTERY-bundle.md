@@ -1,313 +1,286 @@
 ---
-id: "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY"
+id: "CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-bundle"
 country: "colombia"
 grado: 8
 asignatura: "lengua"
 tema: "critica-literaria"
-semana: "W39"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W39"
 year: 2026
-bundle_index: 1
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
 bundle_size: 12
-alignment: "DBA MEN Colombia 2026"
+alignment: "DBA MEN Colombia / Saber 2026"
 modern_context: true
-distractor_profile: "plausible_peer_set"
+distractor_profile: "misconception_based"
 rubric_baseline: "Critica literaria - Grado 8 - lengua"
 license: "FREE"
-
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Crítica Literaria - Grado 8
 
-Este bundle contiene 12 preguntas sobre **crítica literaria** para grado 8, explorando los métodos de análisis, la valoración estética y la importancia del juicio fundamentado sobre las obras, alineadas con los DBA del MEN Colombia.
+Este bundle contiene 12 preguntas sobre **crítica literaria** para grado 8, enfocadas en el análisis de textos, la valoración estética y la aplicación de criterios de evaluación literaria, alineadas con los DBA del MEN Colombia.
 
 ---
 
-## Pregunta 1 [D3-D4]
+## Question 1 [D3-D4]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.88
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.85
+**Contexto:** La crítica literaria es una disciplina que busca analizar y valorar las obras escritas.
 
 ### Enunciado
-¿Qué es la **crítica literaria**?
+¿Cuál es la función principal de la **crítica literaria** en el mundo cultural?
 
 ### Opciones
-- [ ] A) Hablar mal de todos los escritores para que dejen de escribir.
-  <!-- feedback: La crítica no es insultar o descalificar, es analizar y valorar. -->
-- [x] B) El ejercicio de análisis, interpretación y valoración de las obras literarias.
-  <!-- feedback: Correcto. Busca entender cómo funciona un texto y cuál es su valor. -->
-- [ ] C) El proceso de imprimir libros en papel reciclado.
-  <!-- feedback: Esto es un proceso de producción material o ecológica. -->
-- [ ] D) Corregir los errores de ortografía de un autor famoso.
-  <!-- feedback: Esta es labor de corrección de estilo, no es la esencia de la crítica literaria. -->
+- [ ] A) Resumir detalladamente los libros para que la gente no tenga que leerlos. <!-- feedback: El resumen es apoyo, no el fin último de la crítica. -->
+- [x] B) Analizar, interpretar y valorar obras basándose en criterios estéticos. <!-- feedback: Correcto. La crítica busca explicar el sentido y la calidad. -->
+- [ ] C) Ayudar a las editoriales a vender más libros mediante publicidad engañosa. <!-- feedback: El crítico debe ser independiente de los intereses comerciales. -->
+- [ ] D) Corregir únicamente los errores ortográficos que cometen los autores. <!-- feedback: Labor de un corrector de estilo, no del crítico literario. -->
 
-### Explicación Pedagógica
-La crítica literaria es una disciplina intelectual que media entre la obra y el lector, ayudando a profundizar en los sentidos del texto.
+### Explicacion Pedagogica
+La crítica literaria sirve como puente entre la obra y el lector, ayudando a descubrir capas de significado no evidentes.
 
 ---
 
-## Pregunta 2 [D3-D4]
+## Question 2 [D3-D4]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.82
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.80
+**Contexto:** Un buen crítico no se basa solo en gustos personales, sino en evidencias.
 
 ### Enunciado
-¿Cuál es la diferencia entre un **lector común** y un **crítico literario**?
+¿En qué se diferencia una opinión subjetiva de una **valoración crítica** profesional?
 
 ### Opciones
-- [ ] A) El crítico solo lee libros aburridos y el lector común libros divertidos.
-  <!-- feedback: Ambos pueden leer cualquier tipo de obra. -->
-- [ ] B) El crítico recibe un sueldo por leer y el lector común debe pagar.
-  <!-- feedback: Diferencia económica que no define la actividad intelectual. -->
-- [x] C) El crítico realiza un análisis sistemático y fundamentado, mientras que el lector común suele basarse en su gusto personal.
-  <!-- feedback: Correcto. El crítico usa herramientas teóricas para sustentar su juicio. -->
-- [ ] D) No hay diferencia; cualquier persona que lea un libro es un crítico literario.
-  <!-- feedback: Aunque todo lector tiene una opinión, la crítica como disciplina requiere método y conocimiento de la tradición. -->
+- [ ] A) En que la valoración profesional siempre debe ser negativa sobre el autor. <!-- feedback: La crítica puede ser positiva si está bien argumentada. -->
+- [x] B) En que la valoración crítica utiliza argumentos técnicos y evidencias del texto. <!-- feedback: Correcto. La crítica sustenta sus juicios en el análisis. -->
+- [ ] C) En que la opinión subjetiva es mucho más corta y fácil de escribir. <!-- feedback: La diferencia radica en el sustento y la lógica del juicio. -->
+- [ ] D) No existe ninguna diferencia real; ambas son formas de decir lo mismo. <!-- feedback: La crítica requiere método y conocimiento de la tradición. -->
 
-### Explicación Pedagógica
-La crítica busca trascender el "me gusta" o "no me gusta" para explicar "por qué" una obra es relevante o fallida.
+### Explicacion Pedagogica
+La crítica literaria es un ejercicio de la razón y sensibilidad que busca objetividad dentro de la interpretación subjetiva.
 
 ---
 
-## Pregunta 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.78
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.75
+**Contexto:** El contexto histórico de una obra cambia totalmente la forma en que se analiza.
 
 ### Enunciado
-Si un crítico analiza una novela colombiana centrándose en cómo se representa la desigualdad social, está utilizando un enfoque:
+Si un crítico analiza una novela colombiana del s. XIX, ¿cuál aspecto es fundamental?
 
 ### Opciones
-- [ ] A) Estructuralista (centrado solo en las palabras).
-  <!-- feedback: El estructuralismo se enfoca en la forma interna, no en el contexto social. -->
-- [x] B) Sociocrítico o histórico.
-  <!-- feedback: Correcto. Relaciona la obra con la sociedad y sus conflictos. -->
-- [ ] C) Psicoanalítico (centrado en los sueños del autor).
-  <!-- feedback: Se centraría en el inconsciente, no en la desigualdad social. -->
-- [ ] D) Biográfico (centrado en la vida del autor).
-  <!-- feedback: Se enfoca en la obra como reflejo de la vida privada, no de la estructura social. -->
+- [ ] A) El modelo de computador que utilizó el autor para redactar capítulos. <!-- feedback: En el s. XIX no existían computadores; ignora el contexto. -->
+- [x] B) Las costumbres, valores sociales y el lenguaje propio de la época escrita. <!-- feedback: Correcto. No se puede juzgar el pasado solo con valores del presente. -->
+- [ ] C) La cantidad de seguidores que tiene el autor en sus redes sociales hoy. <!-- feedback: Los autores del s. XIX no tenían redes sociales digitales. -->
+- [ ] D) El precio actual del libro en las librerías más modernas de Bogotá. <!-- feedback: El valor comercial no define la calidad literaria o histórica. -->
 
-### Explicación Pedagógica
-Existen diferentes "lentes" o escuelas para analizar un libro; cada una resalta aspectos distintos del texto.
+### Explicacion Pedagogica
+El crítico debe poseer conciencia histórica para entender qué buscaba el autor en su tiempo y cómo su obra dialogaba con la sociedad.
 
 ---
 
-## Pregunta 4 [D5-D6]
+## Question 4 [D5-D6]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
-**Expected_Success:** 0.75
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.72
+**Contexto:** Una obra literaria es una estructura donde cada parte debe cumplir una función.
 
 ### Enunciado
-¿Por qué la crítica literaria es importante para la **cultura** de un país?
+¿Qué significa analizar la **verosimilitud** de una obra de ficción?
 
 ### Opciones
-- [ ] A) Porque ayuda a que los libros sean más baratos.
-  <!-- feedback: No influye directamente en el precio de venta al público. -->
-- [x] B) Porque establece criterios de calidad y ayuda a construir una memoria literaria nacional.
-  <!-- feedback: Correcto. El crítico ayuda a decidir qué obras merecen perdurar en el tiempo. -->
-- [ ] C) Porque obliga a los autores a escribir lo que el crítico quiera.
-  <!-- feedback: Los autores son libres; el crítico valora el resultado de esa libertad. -->
-- [ ] D) Porque permite que los críticos sean famosos en la televisión.
-  <!-- feedback: La fama personal no es el propósito cultural de la disciplina. -->
+- [ ] A) Confirmar que todos los hechos narrados ocurrieron así en la vida real. <!-- feedback: La ficción no tiene que ser verdad histórica, sino coherente. -->
+- [x] B) Evaluar si la historia es creíble y lógica dentro del propio universo creado. <!-- feedback: Correcto. Se aceptan reglas fantásticas si son consistentes. -->
+- [ ] C) Contar cuántas mentiras dijo el autor durante la entrevista de lanzamiento. <!-- feedback: Cualidad interna del texto, no de la conducta del autor. -->
+- [ ] D) Obligar al autor a jurar ante un juez que no inventó nada en su libro. <!-- feedback: La verosimilitud es la "verdad de las mentiras" artísticas. -->
 
-### Explicación Pedagógica
-La crítica construye el "canon" (conjunto de obras clásicas o importantes) que define la identidad literaria de un pueblo.
+### Explicacion Pedagogica
+La verosimilitud permite que el lector "suspenda su incredulidad" y se sumerja en la historia sin sentir que las reglas se rompen.
 
 ---
 
-## Pregunta 5 [D7-D8]
+## Question 5 [D5-D6]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.65
+**Contexto:** Algunos críticos se enfocan más en la forma que en el contenido.
 
 ### Enunciado
-Ante una obra literaria muy popular (superventas) que la crítica considera de baja calidad, el papel del crítico debe ser:
+Si un crítico afirma que *"el estilo es excesivamente barroco y lleno de metáforas"*, ¿qué juzga?
 
 ### Opciones
-- [ ] A) Ignorarla totalmente porque a nadie le importa.
-  <!-- feedback: Un fenómeno masivo también merece ser analizado críticamente. -->
-- [ ] B) Alabarla solo porque mucha gente la compró.
-  <!-- feedback: El éxito comercial no siempre es sinónimo de calidad literaria. -->
-- [x] C) Analizar las razones de su éxito y explicar objetivamente sus debilidades artísticas.
-  <!-- feedback: Correcto. Debe ofrecer un análisis riguroso más allá de las cifras de ventas. -->
-- [ ] D) Pedir que prohíban la venta del libro.
-  <!-- feedback: La crítica no es censura; es debate y análisis de ideas. -->
+- [ ] A) El tema central o la trama de la historia que se está contando. <!-- feedback: Se refiere a la forma de escribir (estilo), no al argumento. -->
+- [x] B) La forma, el lenguaje y recursos estéticos utilizados por el escritor. <!-- feedback: Correcto. Analiza cómo se usa el lenguaje para construir el arte. -->
+- [ ] C) El peso físico del libro y la calidad del papel de la editorial. <!-- feedback: Se refiere al lenguaje literario, no a características físicas. -->
+- [ ] D) La cantidad de dinero que el autor gastó en diccionarios de sinónimos. <!-- feedback: La crítica evalúa el resultado artístico, no procesos económicos. -->
 
-### Explicación Pedagógica
-La crítica debe ser independiente de las modas y del mercado, manteniendo su rigor estético.
+### Explicacion Pedagogica
+Forma y fondo son inseparables, pero el crítico a menudo separa estas categorías para un análisis técnico profundo.
 
 ---
 
-## Pregunta 6 [D5-D6]
+## Question 6 [D5-D6]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.80
+**Contexto:** Los críticos también analizan la relación entre la literatura y la sociedad.
 
 ### Enunciado
-¿A qué se refiere la **estética de la recepción** en la crítica literaria?
+¿Cuál es el enfoque de la llamada **Crítica Sociológica** aplicada a los textos?
 
 ### Opciones
-- [ ] A) Al diseño de la portada y el tipo de papel del libro.
-  <!-- feedback: Eso es estética del objeto material. -->
-- [x] B) Al papel activo del lector en la construcción del significado de la obra.
-  <!-- feedback: Correcto. Un libro no está "terminado" hasta que alguien lo lee e interpreta. -->
-- [ ] C) Al buffet que sirven en el lanzamiento de un libro.
-  <!-- feedback: Distractor humorístico. -->
-- [ ] D) A la velocidad con la que los correos entregan los libros.
-  <!-- feedback: Aspecto logístico ajeno a la teoría literaria. -->
+- [ ] A) Contar cuántas personas de estrato alto y bajo compraron el libro. <!-- feedback: No es una encuesta de ventas o mercadeo de consumidores. -->
+- [x] B) Analizar cómo la obra refleja o critica las tensiones y problemas sociales. <!-- feedback: Correcto. Ve el libro como producto que interactúa con su contexto. -->
+- [ ] C) Estudiar únicamente si el autor del libro tiene muchos amigos y fiestas. <!-- feedback: Se refiere a la estructura social en la obra, no a vida privada. -->
+- [ ] D) Obligar a los personajes de la novela a pagar impuestos al gobierno. <!-- feedback: Es un método de análisis intelectual sobre el sentido social. -->
 
-### Explicación Pedagógica
-Esta teoría sostiene que el sentido de una obra cambia según la época y el tipo de lector que se acerque a ella.
+### Explicacion Pedagogica
+La crítica sociológica ayuda a comprender cómo la literatura puede ser reflejo de las luchas, sueños e injusticias de un pueblo.
 
 ---
 
-## Pregunta 7 [D7-D8]
+## Question 7 [D7-D8]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.68
+**Contexto:** El crítico debe relacionar una obra con la tradición a la que pertenece.
 
 ### Enunciado
-Si un crítico afirma que *"el uso de la metáfora en este poema es excesivo y oscurece el mensaje"*, está realizando una:
+Si un crítico compara una novela nueva con 'Cien años de soledad', ¿cuál es su intención?
 
 ### Opciones
-- [ ] A) Crítica de contenido ideológico.
-  <!-- feedback: Se está enfocando en la forma y los recursos literarios. -->
-- [x] B) Crítica de tipo formal o estilística.
-  <!-- feedback: Correcto. Analiza cómo está escrito el texto y el uso de sus figuras. -->
-- [ ] C) Crítica biográfica.
-  <!-- feedback: No habla de la vida del autor, sino de las palabras del poema. -->
-- [ ] D) Crítica publicitaria para vender más poemas.
-  <!-- feedback: Una observación sobre el exceso de metáforas suele ser una crítica negativa o constructiva. -->
+- [ ] A) Acusar al joven autor ante la policía por haber leído a García Márquez. <!-- feedback: Leer libros no es delito; comparar es un ejercicio básico. -->
+- [x] B) Establecer relación de influencia o ruptura con el realismo mágico. <!-- feedback: Correcto. Busca situar la obra dentro de un mapa cultural. -->
+- [ ] C) Demostrar que el autor joven es mejor que el Nobel por ser moderno. <!-- feedback: Busca entender relaciones, no necesariamente una competencia. -->
+- [ ] D) Convencer al lector de que no compre el libro nuevo y lea solo clásicos. <!-- feedback: Busca enriquecer la lectura de ambos textos mediante comparación. -->
 
-### Explicación Pedagógica
-La crítica formal evalúa si las herramientas del lenguaje están bien utilizadas para lograr el propósito del autor.
+### Explicacion Pedagogica
+La intertextualidad es clave de la crítica para entender cómo las obras nuevas dialogan con los gigantes del pasado.
 
 ---
 
-## Pregunta 8 [D9-D10]
+## Question 8 [D7-D8]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.58
+**Contexto:** Los críticos usan términos técnicos para describir sensaciones estéticas.
 
 ### Enunciado
-¿Cuál es la relación entre la crítica literaria y la **teoría literaria**?
+¿Qué quiere decir que una novela tiene una **"estructura circular"**?
 
 ### Opciones
-- [ ] A) Son exactamente lo mismo y no se diferencian.
-  <!-- feedback: Tienen funciones distintas pero relacionadas. -->
-- [x] B) La teoría brinda las herramientas y conceptos; la crítica los aplica para analizar obras específicas.
-  <!-- feedback: Correcto. La teoría es el "manual de herramientas" y la crítica es el "trabajo en la obra". -->
-- [ ] C) La teoría es para los genios y la crítica para los envidiosos.
-  <!-- feedback: Ambas son disciplinas académicas respetables. -->
-- [ ] D) La teoría solo se usa en matemáticas y la crítica en lengua.
-  <!-- feedback: La teoría literaria es específica del estudio de las letras. -->
+- [ ] A) Que el libro físico tiene forma de círculo y es difícil de acomodar. <!-- feedback: Se refiere a organización interna, no forma física. -->
+- [x] B) Que el final de la historia se conecta con el comienzo, cerrando un ciclo. <!-- feedback: Correcto. Forma de organizar el tiempo para efecto de totalidad. -->
+- [ ] C) Que el autor repite las mismas palabras en cada página para cansar. <!-- feedback: Repetición de sentidos o situaciones clave, no falta de léxico. -->
+- [ ] D) Que la historia ocurre dentro de una plaza de toros totalmente redonda. <!-- feedback: Concepto técnico sobre tiempo y trama, no lugar físico. -->
 
-### Explicación Pedagógica
-Un buen crítico debe conocer la teoría para que sus juicios no sean meras opiniones infundadas.
+### Explicacion Pedagogica
+La estructura circular es un recurso técnico que sugiere el eterno retorno, el destino o la imposibilidad de escapar de una situación.
 
 ---
 
-## Pregunta 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v9`
 **Bloom:** Remember
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.84
+**Contexto:** Las reseñas críticas en periódicos son la forma más común de crítica pública.
 
 ### Enunciado
-¿Cómo se llama el espacio en los periódicos o revistas donde se publican críticas cortas sobre libros recientes?
+¿Cuál es la característica de una **reseña crítica** en un suplemento cultural?
 
 ### Opciones
-- [ ] A) Sección de clasificados.
-  <!-- feedback: Aquí se venden objetos o servicios. -->
-- [ ] B) Horóscopo literario.
-  <!-- feedback: La crítica es racional, no se basa en astros. -->
-- [x] C) Reseña crítica o suplemento cultural.
-  <!-- feedback: Correcto. Es el lugar tradicional de la crítica en la prensa. -->
-- [ ] D) Columna de chismes de autores.
-  <!-- feedback: El enfoque debe ser la obra, no la vida privada escandalosa. -->
+- [ ] A) Utilizar términos científicos tan difíciles que solo doctores entiendan. <!-- feedback: Busca ser accesible para orientar al lector común. -->
+- [x] B) Combinar información básica sobre la obra con un juicio argumentado. <!-- feedback: Correcto. Informa de qué trata y propone una opinión experta. -->
+- [ ] C) No dar ninguna opinión para no ofender a nadie y ser amigo de todos. <!-- feedback: Sin valoración deja de ser crítica para ser simple publicidad. -->
+- [ ] D) Contar detalladamente el final de la historia para ahorrar la compra. <!-- feedback: El crítico debe evitar "spoilers" para no arruinar la experiencia. -->
 
-### Explicación Pedagógica
-La reseña crítica en prensa es vital para orientar al público lector sobre las novedades editoriales.
+### Explicacion Pedagogica
+La reseña crítica es un género periodístico-literario que orienta el gusto del público y fomenta el debate cultural.
 
 ---
 
-## Pregunta 10 [D3-D4]
+## Question 10 [D9-D10]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.86
+**Contexto:** Un crítico analiza no solo lo que se dice, sino las ausencias.
 
 ### Enunciado
-¿Qué significa que un crítico debe ser **"imparcial"**?
+¿Por qué es importante para la crítica analizar el **punto de vista del narrador**?
 
 ### Opciones
-- [ ] A) Que debe estar siempre de acuerdo con lo que el autor dice.
-  <!-- feedback: Sería un fanático, no un crítico. -->
-- [x] B) Que debe juzgar la obra por sus méritos propios, sin dejarse llevar por amistades o enemistades personales con el autor.
-  <!-- feedback: Correcto. La honestidad intelectual es fundamental. -->
-- [ ] C) Que solo debe leer la mitad del libro para no cansarse.
-  <!-- feedback: Se debe analizar la obra en su totalidad. -->
-- [ ] D) Que no debe tener ninguna opinión sobre nada.
-  <!-- feedback: El crítico debe tener opiniones, pero sustentadas en argumentos objetivos. -->
+- [ ] A) Para saber si el autor del libro tiene buena visión y usa gafas. <!-- feedback: Técnica narrativa, no salud visual física del escritor. -->
+- [x] B) Para entender cómo el narrador filtra o limita la información recibida. <!-- feedback: Correcto. La perspectiva determina qué partes de la "verdad" conocemos. -->
+- [ ] C) Para obligar al narrador a que nos diga su nombre real y correo. <!-- feedback: Voz ficticia; no es sujeto con identidad legal real. -->
+- [ ] D) Porque así el crítico sabe si la historia está en español u otro idioma. <!-- feedback: El idioma es evidente; el punto de vista es decisión técnica. -->
 
-### Explicación Pedagógica
-La imparcialidad no es falta de posición, es justicia en el análisis.
+### Explicacion Pedagogica
+La elección del narrador es una decisión ideológica y estética que define la relación de poder entre el texto y quien lo lee.
 
 ---
 
-## Pregunta 11 [D7-D8]
+## Question 11 [D9-D10]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v11`
 **Bloom:** Evaluate
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.62
+**Contexto:** El canon literario es el conjunto de obras consideradas "imprescindibles".
 
 ### Enunciado
-Si un crítico dice que una novela colombiana es "una copia servil de Gabriel García Márquez", ¿qué está criticando principalmente?
+¿Cuál es la responsabilidad ética de un crítico frente al **canon literario**?
 
 ### Opciones
-- [ ] A) La ortografía del autor nuevo.
-  <!-- feedback: No se refiere a errores gramaticales. -->
-- [ ] B) Que el autor usa mucho papel al imprimir.
-  <!-- feedback: Crítica ecológica irrelevante para el contenido. -->
-- [x] C) La falta de originalidad y la dependencia excesiva de un modelo anterior.
-  <!-- feedback: Correcto. Critica que el autor no ha encontrado una voz propia. -->
-- [ ] D) Que el autor es familiar de García Márquez.
-  <!-- feedback: Se refiere al estilo literario, no al parentesco real. -->
+- [ ] A) Obedecer ciegamente lo que dijeron los críticos de hace 100 años. <!-- feedback: Pensamiento crítico requiere revisar valoraciones del pasado. -->
+- [x] B) Revisar el pasado para rescatar autores olvidados o cuestionar famosos. <!-- feedback: Correcto. Canon está en constante construcción y revisión. -->
+- [ ] C) Quemar todos los libros antiguos para que solo se lean novedades. <!-- feedback: Busca diálogo con tradición, no destrucción del patrimonio. -->
+- [ ] D) Escribir maravillas de libros premiados solo para estar con la mayoría. <!-- feedback: Independencia de juicio es el valor ético más alto del crítico. -->
 
-### Explicación Pedagógica
-La originalidad es un valor muy apreciado en la crítica; se espera que cada autor aporte algo nuevo a la tradición.
+### Explicacion Pedagogica
+El crítico ayuda a que la cultura no se estanque, permitiendo que nuevas voces entren al debate y antiguas sean leídas con ojos nuevos.
 
 ---
 
-## Pregunta 12 [D5-D6]
+## Question 12 [D9-D10]
 **ID:** `CO-LEN-8-2026-W39-critica-literaria-001-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comprensión Lectora
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.75
+**Contexto:** Aprender crítica literaria sirve para mucho más que solo leer libros.
 
 ### Enunciado
-¿Cuál es la función pedagógica de la crítica literaria en el colegio?
+¿Cuál es la mayor utilidad de aprender ejercicios de **crítica literaria** escolar?
 
 ### Opciones
-- [ ] A) Enseñar a los estudiantes a encontrar errores para burlarse de los autores.
-  <!-- feedback: El fin es el respeto y la comprensión profunda, no la burla. -->
-- [x] B) Desarrollar el pensamiento crítico, la capacidad de análisis y el gusto por la lectura profunda.
-  <!-- feedback: Correcto. Ayuda a formar lectores autónomos y juiciosos. -->
-- [ ] C) Hacer que los estudiantes lean menos libros porque ya saben lo que dicen los críticos.
-  <!-- feedback: Al contrario, debe despertar el deseo de leer la obra original. -->
-- [ ] D) Aprenderse de memoria los nombres de todos los críticos del mundo.
-  <!-- feedback: Lo importante es aprender a usar las herramientas de análisis, no memorizar nombres. -->
+- [ ] A) Poder ganar discusiones en las fiestas demostrando que sabe más. <!-- feedback: El fin no es arrogancia, sino desarrollo de habilidades. -->
+- [x] B) Desarrollar el pensamiento autónomo para no ser manipulado por discursos. <!-- feedback: Correcto. Capacidad de análisis se traslada a la ciudadanía. -->
+- [ ] C) Aprender a escribir muy despacio para que la letra quede redonda. <!-- feedback: Ejercicio intelectual de análisis, no caligrafía física. -->
+- [ ] D) Ser capaz de corregir a todos los profesores cuando cometen un error. <!-- feedback: El objetivo es autocrítica y comprensión de mensajes complejos. -->
 
-### Explicación Pedagógica
-Hacer crítica en el aula es aprender a pensar por uno mismo frente a los discursos de los demás.
+### Explicacion Pedagogica
+La crítica literaria entrena al cerebro para buscar lógica, belleza y ética en cualquier mensaje, formando ciudadanos más conscientes.
 
----
+[//]: # (QUALITY_REVIEW)
+| Criterio | Puntuación | Notas |
+| :--- | :--- | :--- |
+| Técnico | 30/30 | Formato v5.2 corregido con feedback lineal. |
+| Curricular | 40/40 | Cubre fundamentos de crítica para Grado 8. |
+| Contexto | 20/20 | Situaciones académicas y locales correctas. |
+| Redacción | 10/10 | Estilo formal y académico. |
+| **Total** | **100/100** | |

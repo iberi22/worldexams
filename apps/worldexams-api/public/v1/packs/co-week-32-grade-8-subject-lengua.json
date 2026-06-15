@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T05:15:37.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica primordial que define al **narrador protagonista**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuenta la historia desde una posición externa y posee un conocimiento total.",
+          "is_correct": false,
+          "feedback": "Esta descripción corresponde al narrador omnisciente."
+        },
+        {
+          "letter": "B",
+          "text": "Es el personaje central de la obra y relata sus propias vivencias usando la primera persona.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador protagonista cuenta lo que le sucede a él mismo usando el \"yo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Es un personaje secundario que se limita a observar la acción principal.",
+          "is_correct": false,
+          "feedback": "Este tipo de perspectiva define al narrador testigo."
+        },
+        {
+          "letter": "D",
+          "text": "Habla directamente al lector dándole instrucciones sobre cómo interpretar el final.",
+          "is_correct": false,
+          "feedback": "Esta es una técnica de apelación al lector, no define al protagonista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador protagonista ofrece una visión subjetiva y limitada de la historia, centrada exclusivamente en su propia experiencia interna y externa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v2",
+      "statement": "¿Qué distingue técnicamente al **narrador omnisciente** de otros tipos de perspectivas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo puede relatar lo que es capaz de ver y oír físicamente en el momento.",
+          "is_correct": false,
+          "feedback": "Esta limitación es propia del narrador observador."
+        },
+        {
+          "letter": "B",
+          "text": "Es un narrador que siempre miente deliberadamente para confundir al lector.",
+          "is_correct": false,
+          "feedback": "Esto definiría a un narrador no fiable."
+        },
+        {
+          "letter": "C",
+          "text": "Posee un conocimiento total de los pensamientos, sentimientos, pasado y futuro.",
+          "is_correct": true,
+          "feedback": "Correcto. Actúa como una voz superior que conoce la totalidad del universo narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Relata la historia exclusivamente a través de versos que siguen una estructura de rima.",
+          "is_correct": false,
+          "feedback": "El uso de la rima define el género lírico, no la perspectiva narrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador omnisciente suele narrar en tercera persona y funciona como una \"voz divina\" que controla toda la información dentro del relato.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v3",
+      "statement": "Lee con atención: *\"Caminé por la carrera Séptima sintiendo el frío bogotano calarme los huesos. No tenía idea de si ella llegaría\"*. ¿Qué tipo de narrador tiene este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador protagonista, ya que utiliza la primera persona del singular (\"yo\").",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de \"Caminé\" y \"tenía\" revela que el narrador es el centro de la acción."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador omnisciente, pues conoce los sentimientos de frío que experimenta el personaje.",
+          "is_correct": false,
+          "feedback": "El narrador habla desde su propia ignorancia (\"No tenía idea\"), lo cual contradice la omnisciencia."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo, porque está observando a una mujer que posiblemente llegará.",
+          "is_correct": false,
+          "feedback": "El narrador no está observando a otro protagonista, sino relatando su propia sensación."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en segunda persona, pues busca que el lector se sienta parte de la caminata.",
+          "is_correct": false,
+          "feedback": "No se está dirigiendo a un \"tú\" como centro de la acción en este fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combinación de la primera persona gramatical y un conocimiento limitado a la propia subjetividad es la marca del narrador protagonista.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v4",
+      "statement": "¿Cuál es el principal efecto estético de utilizar un **narrador testigo** en una novela de misterio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir que el lector resuelva el misterio de inmediato porque el narrador lo sabe todo.",
+          "is_correct": false,
+          "feedback": "El testigo tiene información limitada, esencial para mantener el suspenso."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la intriga, ya que el lector solo conoce lo que el testigo logra observar.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector y el narrador descubren las pistas al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar al lector a sentirse culpable por los crímenes que se están cometiendo.",
+          "is_correct": false,
+          "feedback": "Este efecto se buscaría más con un narrador en segunda persona."
+        },
+        {
+          "letter": "D",
+          "text": "Asegurar que la historia sea aceptada como un hecho histórico totalmente real.",
+          "is_correct": false,
+          "feedback": "El relato sigue siendo ficción, independientemente del narrador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de vista del narrador funciona como un filtro que controla el flujo de información, administrando así el ritmo y la intriga del relato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v5",
+      "statement": "Analiza: *\"Él no lo sabía todavía, pero mientras tomaba su tinto, su destino ya estaba sellado por la carta\"*. ¿Qué nos revela este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el narrador es el dueño de la cafetería donde el personaje toma su tinto.",
+          "is_correct": false,
+          "feedback": "No existen pistas que sitúen a la voz narrativa como un personaje en la escena."
+        },
+        {
+          "letter": "B",
+          "text": "Que es un narrador omnisciente, pues conoce el futuro y lo que el personaje ignora.",
+          "is_correct": true,
+          "feedback": "Correcto. Al afirmar \"Él no lo sabía\", el narrador demuestra conocimiento superior."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador es la propia carta sobre el escritorio, con conciencia mágica.",
+          "is_correct": false,
+          "feedback": "Aunque es posible en ficción, aquí se trata de una voz externa descriptiva."
+        },
+        {
+          "letter": "D",
+          "text": "Que es un narrador protagonista que está recordando con mucha nostalgia un café.",
+          "is_correct": false,
+          "feedback": "Se habla del personaje en tercera persona (\"Él\"), lo cual excluye al protagonista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La marca clásica de la omnisciencia literaria es la capacidad del narrador para anticipar hechos que el personaje desconoce.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v6",
+      "statement": "¿En qué se diferencia el **punto de vista** de la opinión del **autor** de la obra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna diferencia real; el autor siempre expresa sus ideas.",
+          "is_correct": false,
+          "feedback": "El autor es una persona real; el narrador es una creación artística."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador es una construcción ficticia creada por el autor para contar la historia.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor diseña al narrador como una herramienta técnica."
+        },
+        {
+          "letter": "C",
+          "text": "El autor solo escribe los diálogos, mientras que el narrador redacta descripciones.",
+          "is_correct": false,
+          "feedback": "El autor escribe la totalidad del texto, incluyendo diálogos y voz narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador es siempre una persona real que le cobra al autor por contar su vida.",
+          "is_correct": false,
+          "feedback": "Esta descripción no corresponde al concepto literario de narrador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre el autor (sujeto real) y el narrador (sujeto ficticio) es un paso básico para el análisis literario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v7",
+      "statement": "Si una novela relata un conflicto desde la perspectiva de tres personajes diferentes, ¿qué técnica se está empleando?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de un narrador omnisciente único y tradicional.",
+          "is_correct": false,
+          "feedback": "La omnisciencia suele unificar la visión en una sola voz."
+        },
+        {
+          "letter": "B",
+          "text": "Multiperspectivismo o técnica de perspectiva múltiple.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite observar la relatividad de la verdad según quién cuente."
+        },
+        {
+          "letter": "C",
+          "text": "Monólogo interior desordenado de un solo personaje.",
+          "is_correct": false,
+          "feedback": "El monólogo interior es la corriente de pensamiento de un solo individuo."
+        },
+        {
+          "letter": "D",
+          "text": "Narración cronológica lineal de hechos históricos.",
+          "is_correct": false,
+          "feedback": "Se refiere al orden temporal, no al punto de vista adoptado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El multiperspectivismo enriquece la trama al demostrar que un mismo hecho puede tener múltiples interpretaciones según el sujeto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v8",
+      "statement": "Lee: *\"Te despiertas con la lluvia. Sientes una extraña inquietud. Sabes que hoy todo cambiará\"*. ¿Qué efecto busca el narrador al usar la **segunda persona**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener una distancia fría y objetiva para que el lector no se involucre.",
+          "is_correct": false,
+          "feedback": "El uso del \"tú\" busca la cercanía extrema e involucramiento."
+        },
+        {
+          "letter": "B",
+          "text": "Involucrar directamente al lector, haciéndolo ocupar el lugar del protagonista.",
+          "is_correct": true,
+          "feedback": "Correcto. Crea una experiencia inmersiva donde el lector se siente interpelado."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que el autor se equivocó al conjugar los verbos en el texto.",
+          "is_correct": false,
+          "feedback": "El uso de la segunda persona es una técnica deliberada, no un error."
+        },
+        {
+          "letter": "D",
+          "text": "Narrar de forma objetiva la vida privada del autor cuando era niño.",
+          "is_correct": false,
+          "feedback": "No hay indicios biográficos; es un recurso de interpelación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narración en segunda persona es una técnica poderosa que difumina la frontera entre el lector y el personaje ficticio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v9",
+      "statement": "¿Cuál es la función técnica del **narrador observador** en un relato?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar detalladamente lo que siente el protagonista pero ignorar a los demás.",
+          "is_correct": false,
+          "feedback": "Esto describiría una focalización interna selectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar solo lo que puede verse y oírse desde afuera, sin entrar en la mente.",
+          "is_correct": true,
+          "feedback": "Correcto. Registra acciones y diálogos externos de forma objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Interrumpir la historia para dar consejos morales o recetas al lector.",
+          "is_correct": false,
+          "feedback": "Esta función no define una categoría técnica de punto de vista narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Ser el personaje que muere trágicamente en el primer capítulo del libro.",
+          "is_correct": false,
+          "feedback": "El narrador observador suele ser una voz externa que no participa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador observador es objetivo y aparentemente neutral, dejando que sea el lector quien infiera los sentimientos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v10",
+      "statement": "¿Por qué un narrador protagonista suele ser clasificado como un **\"narrador no fiable\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque nunca logra terminar de contar la historia y deja el libro a la mitad.",
+          "is_correct": false,
+          "feedback": "La falta de conclusión no tiene relación con la fiabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque su visión está condicionada por sus emociones, prejuicios o intereses.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser parte interesada, su relato puede ser parcial o sesgado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el autor de la obra es una persona con mala reputación real.",
+          "is_correct": false,
+          "feedback": "La fiabilidad es un concepto técnico narrativo, no un juicio biográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque utiliza constantemente un lenguaje técnico que el lector no comprende.",
+          "is_correct": false,
+          "feedback": "La barrera lingüística dificulta la comunicación pero no define fiabilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La subjetividad inherente al \"yo\" invita al lector crítico a dudar y a analizar qué motivaciones ocultas puede tener el protagonista.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v11",
+      "statement": "¿Cuál de estos inicios emplea un **punto de vista puramente objetivo**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Me sentía profundamente triste mientras caminaba bajo la lluvia\".",
+          "is_correct": false,
+          "feedback": "Es una visión subjetiva en primera persona centrada en el sentimiento."
+        },
+        {
+          "letter": "B",
+          "text": "\"Un hombre camina bajo la lluvia; su chaqueta gris está empapada\".",
+          "is_correct": true,
+          "feedback": "Correcto. Describe hechos externos observables sin juzgar ni entrar en psicología."
+        },
+        {
+          "letter": "C",
+          "text": "\"Él caminaba triste por la calle, recordando con dolor a su madre\".",
+          "is_correct": false,
+          "feedback": "Es una voz omnisciente que conoce tanto sentimiento como pasado."
+        },
+        {
+          "letter": "D",
+          "text": "\"Caminas bajo la lluvia bogotana y sientes cómo el agua te purifica\".",
+          "is_correct": false,
+          "feedback": "Es una segunda persona apelativa que impone sensaciones al lector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La objetividad narrativa máxima se alcanza cuando la voz del relato se limita estrictamente a lo sensorial, externo y comprobable.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-v12",
+      "statement": "En una **autobiografía** formal, ¿quién asume necesariamente el rol del narrador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un historiador profesional que investigó exhaustivamente la vida pública.",
+          "is_correct": false,
+          "feedback": "Esta descripción corresponde a una biografía externa."
+        },
+        {
+          "letter": "B",
+          "text": "La propia persona cuya vida se relata, funcionando como narrador protagonista.",
+          "is_correct": true,
+          "feedback": "Correcto. En la autobiografía coinciden autor, narrador y personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Un descendiente lejano de la familia que heredó los diarios íntimos.",
+          "is_correct": false,
+          "feedback": "Esto sería una biografía póstuma o edición de memorias por terceros."
+        },
+        {
+          "letter": "D",
+          "text": "El propio lector, que debe reconstruir los datos a partir de pistas.",
+          "is_correct": false,
+          "feedback": "El lector es siempre el receptor externo del mensaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La autobiografía es el género donde la identidad única entre autor, narrador y protagonista es el contrato fundamental de lectura.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :--- | :--- |\n| Técnico | 30/30 | Formato v5.2 corregido. |\n| Curricular | 40/40 | Aborda tipos de narrador para Grado 8. |\n| Contexto | 20/20 | Referencias a Bogotá (Séptima, tinto) pertinentes. |\n| Redacción | 10/10 | Explicaciones pedagógicas claras. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W32-punto-vista-narrador-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
