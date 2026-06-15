@@ -1,0 +1,1611 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-8-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:50.713Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v1",
+      "statement": "¿Cuál es la forma general de una función exponencial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(f(x) = a^x\\), con \\(a > 0, a \\neq 1\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(f(x) = x^a\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(f(x) = \\log_a x\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(f(x) = ax^2 + bx + c\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función exponencial tiene la variable en el exponente: f(x) = aˣ con base a > 0 y a ≠ 1.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v2",
+      "statement": "¿Cuál es la forma general de una función logarítmica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(f(x) = \\log_a x\\), con \\(a > 0, a \\neq 1, x > 0\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(f(x) = a^x\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(f(x) = x^a\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(f(x) = \\ln a\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función logarítmica f(x) = logₐ(x) está definida para a > 0, a ≠ 1 y x > 0. Es la inversa de la exponencial.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v3",
+      "statement": "Si \\(a > 1\\) en \\(f(x) = a^x\\), ¿cómo es la función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creciente",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Decreciente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Constante",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Periódica",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para a > 1, aˣ crece al aumentar x. Ej: 2¹ = 2, 2³ = 8, 2⁵ = 32.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v4",
+      "statement": "Calcular: \\(3^2 \\times 3^4\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(3^6\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(3^8\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(9^6\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(9^8\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Producto de potencias de igual base: 3² × 3⁴ = 3²⁺⁴ = 3⁶ = 729.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v5",
+      "statement": "Calcular: \\(\\log_2 8\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "log₂ 8 = ? → 2? = 8 → 2³ = 8 → log₂ 8 = 3.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v6",
+      "statement": "Resolver: \\(2^x = 32\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 5\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 4\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 6\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 16\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "2⁵ = 32. Por lo tanto x = 5.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v7",
+      "statement": "Simplificar: \\(\\frac{5^6}{5^3}\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(5^3\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(5^2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(5^9\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(5^{18}\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cociente de potencias de igual base: 5⁶/5³ = 5⁶⁻³ = 5³ = 125.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v8",
+      "statement": "¿Cuál es el dominio de \\(f(x) = \\log_3 (x - 2)\\)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\((2, \\infty)\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\([2, \\infty)\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(\\mathbb{R}\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\((0, \\infty)\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento del logaritmo debe ser positivo: x − 2 > 0 → x > 2. Dominio: (2, ∞).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v9",
+      "statement": "Resolver: \\(3^{x+1} = 9\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 1\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 3\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 0\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "9 = 3². Entonces 3^{x+1} = 3² → x + 1 = 2 → x = 1.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v10",
+      "statement": "Aplicar propiedad: \\(\\log_3 27 + \\log_3 1\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "28",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "log₃ 27 = 3 (pues 3³ = 27); log₃ 1 = 0 (pues 3⁰ = 1). Suma: 3 + 0 = 3.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v11",
+      "statement": "Resolver: \\(\\log_5 x = 2\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 25\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 10\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 32\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 5\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "log₅ x = 2 → 5² = x → x = 25.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v12",
+      "statement": "Simplificar: \\(\\log_2 16 + \\log_2 4 - \\log_2 8\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "log₂ 16 = 4, log₂ 4 = 2, log₂ 8 = 3. 4 + 2 − 3 = 3.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v13",
+      "statement": "Resolver: \\( \\log(2x) - \\log 3 = \\log 4 \\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 6\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 12\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 4\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 2\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "log(2x/3) = log 4 → 2x/3 = 4 → 2x = 12 → x = 6.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v14",
+      "statement": "¿Qué relación existe entre las funciones \\(f(x) = a^x\\) y \\(g(x) = \\log_a x\\)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son funciones inversas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Son iguales",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Son opuestas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No están relacionadas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "f(x) = aˣ y g(x) = logₐ(x) son inversas: f(g(x)) = a^{logₐ x} = x y g(f(x)) = logₐ(aˣ) = x.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v15",
+      "statement": "Una población de bacterias se duplica cada hora. Si inicialmente hay 100 bacterias, ¿cuántas hay después de 3 horas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "600",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "400",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "300",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "P(t) = 100·2ᵗ. Para t = 3: P(3) = 100·2³ = 100·8 = 800.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v16",
+      "statement": "¿Cuál es el valor de \\(\\ln e\\)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "e",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No está definido",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "ln e = logₑ e = 1 porque e¹ = e.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v17",
+      "statement": "Resolver: \\(4^{x} = \\frac{1}{16}\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = -2\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = -\\frac{1}{2}\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = \\frac{1}{2}\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1/16 = 4⁻². Entonces 4ˣ = 4⁻² → x = −2.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v18",
+      "statement": "Un capital de $1000 crece con interés compuesto al 5% anual. Modelar con función exponencial.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(C(t) = 1000(1.05)^t\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(C(t) = 1000(0.05)^t\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(C(t) = 1000 + 1.05t\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(C(t) = 1000(1.5)^t\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interés compuesto: C(t) = C₀(1 + r)ᵗ. Con r = 0.05: C(t) = 1000(1.05)ᵗ.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v19",
+      "statement": "¿Qué base tiene el logaritmo natural?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "e (número de Euler ≈ 2.718)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El logaritmo natural tiene base e (número de Euler). Se denota ln(x) = logₑ(x).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-v20",
+      "statement": "Un estudiante afirma que \\(\\log(a + b) = \\log a + \\log b\\). ¿Es cierto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, la propiedad correcta es \\(\\log(ab) = \\log a + \\log b\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque la suma se distribuye",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque log es una función lineal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No, \\(\\log(a + b)\\) no tiene propiedad de descomposición simple",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad del logaritmo se aplica al producto: log(ab) = log a + log b. En general log(a + b) no se puede simplificar.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-logaritmica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v1",
+      "statement": "La probabilidad de un evento seguro es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Evento seguro = probabilidad 1 o 100%"
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad siempre está entre 0 (imposible) y 1 (seguro).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v2",
+      "statement": "¿Cuál es la probabilidad de obtener cara al lanzar una moneda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "1 resultado favorable de 2 posibles"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = \\frac{\\text{casos favorables}}{\\text{casos posibles}} = \\frac{1}{2}$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v3",
+      "statement": "Se lanza un dado de 6 caras. ¿Probabilidad de obtener un número par?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Pares: $\\{2,4,6\\}$, 3 favorables de 6 posibles"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = \\frac{3}{6} = \\frac{1}{2}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v4",
+      "statement": "Dos eventos son mutuamente excluyentes si:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No pueden ocurrir simultáneamente",
+          "is_correct": true,
+          "feedback": "Excluyentes: ocurrir uno excluye al otro"
+        },
+        {
+          "letter": "B",
+          "text": "Ocurren siempre juntos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Son independientes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tienen la misma probabilidad",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eventos mutuamente excluyentes: $A \\cap B = \\emptyset$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v5",
+      "statement": "En una bolsa hay 3 bolas rojas, 2 azules y 5 verdes. ¿Probabilidad de sacar una roja?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": true,
+          "feedback": "3 rojas de 10 bolas totales"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = \\frac{3}{10}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v6",
+      "statement": "Si $P(A) = 0.3$ y $P(B) = 0.4$, con $A$ y $B$ mutuamente excluyentes, $P(A \\cup B)$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.7$",
+          "is_correct": true,
+          "feedback": "$P(A \\cup B) = P(A) + P(B) = 0.3 + 0.4 = 0.7$"
+        },
+        {
+          "letter": "B",
+          "text": "$0.12$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$0.1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para eventos mutuamente excluyentes: $P(A \\cup B) = P(A) + P(B)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v7",
+      "statement": "Se lanzan dos monedas. ¿Probabilidad de obtener al menos una cara?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "Espacio muestral: $\\{CC, CS, SC, SS\\}$, 3 favorables"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Al menos una cara\" significa excluir solo $SS$. $P = 3/4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v8",
+      "statement": "Si un evento es imposible, su probabilidad es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": true,
+          "feedback": "Evento imposible: probabilidad 0"
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad de un evento imposible es 0.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v9",
+      "statement": "En un mazo de 40 cartas españolas, ¿probabilidad de sacar un as?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{40} = \\frac{1}{10}$",
+          "is_correct": true,
+          "feedback": "4 ases en 40 cartas"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{40}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{10}{40}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{40}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = \\frac{4}{40} = \\frac{1}{10}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v10",
+      "statement": "La probabilidad del complemento de $A$, $P(A^c)$, es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 - P(A)$",
+          "is_correct": true,
+          "feedback": "$P(A^c) = 1 - P(A)$"
+        },
+        {
+          "letter": "B",
+          "text": "$P(A) - 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$1 + P(A)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$P(A)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad de que NO ocurra $A$ es $1 - P(A)$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v11",
+      "statement": "Si $P(A) = 0.5$, $P(B) = 0.4$ y $P(A \\cap B) = 0.2$, entonces $P(A \\cup B)$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.7$",
+          "is_correct": true,
+          "feedback": "$P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = 0.5 + 0.4 - 0.2 = 0.7$"
+        },
+        {
+          "letter": "B",
+          "text": "$0.9$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$0.2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla general de la suma: $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v12",
+      "statement": "En un curso de Buenos Aires, 15 estudiantes usan lentes y 25 no. Si se elige uno al azar, ¿probabilidad de que no use lentes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{8}$",
+          "is_correct": true,
+          "feedback": "$25/40 = 5/8$"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{8}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{9}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Total $= 15 + 25 = 40$. $P = 25/40 = 5/8$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v13",
+      "statement": "Dos eventos son independientes si la ocurrencia de uno:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No afecta la probabilidad del otro",
+          "is_correct": true,
+          "feedback": "Independencia: $P(A|B) = P(A)$"
+        },
+        {
+          "letter": "B",
+          "text": "Afecta siempre al otro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Garantiza el otro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Impide el otro",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eventos independientes: $P(A \\cap B) = P(A) \\cdot P(B)$.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v14",
+      "statement": "Se lanzan dos dados. ¿Probabilidad de que la suma sea 7?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{6}{36} = \\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Pares que suman 7: $(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)$"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{36}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{7}{36}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "6 resultados favorables de 36 posibles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v15",
+      "statement": "Si $P(A) = 0.2$ y $A$ y $B$ son independientes con $P(B) = 0.5$, $P(A \\cap B)$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.1$",
+          "is_correct": true,
+          "feedback": "$P(A \\cap B) = P(A) \\cdot P(B) = 0.2 \\times 0.5 = 0.1$"
+        },
+        {
+          "letter": "B",
+          "text": "$0.7$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.02$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eventos independientes: $P(A \\cap B) = P(A) \\cdot P(B) = 0.1$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v16",
+      "statement": "En una encuesta en Córdoba, el 60% prefiere mate y el 40% café. Si se eligen dos personas al azar, ¿probabilidad de que ambas prefieran mate?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.36$",
+          "is_correct": true,
+          "feedback": "$0.6 \\times 0.6 = 0.36$ (asumiendo independencia)"
+        },
+        {
+          "letter": "B",
+          "text": "$0.6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.12$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$1.2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P(\\text{ambas mate}) = 0.6 \\times 0.6 = 0.36$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v17",
+      "statement": "En una urna hay 4 bolas blancas y 6 negras. Se extraen dos sin reposición. $P(\\text{ambas blancas})$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{10} \\times \\frac{3}{9} = \\frac{12}{90} = \\frac{2}{15}$",
+          "is_correct": true,
+          "feedback": "Sin reposición, la segunda extracción depende de la primera"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{4}{10} \\times \\frac{4}{10}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4}{10} \\times \\frac{4}{9}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{10} \\times \\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Probabilidad condicional: $P(B_1 \\cap B_2) = \\frac{4}{10} \\cdot \\frac{3}{9} = \\frac{2}{15}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v18",
+      "statement": "En un sorteo escolar, hay 120 boletos vendidos. Si compras 5, ¿probabilidad de ganar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{120} = \\frac{1}{24}$",
+          "is_correct": true,
+          "feedback": "5 boletos favorables de 120"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{115}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{120}{5}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{5}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = \\frac{5}{120} = \\frac{1}{24}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v19",
+      "statement": "¿Cuál es el rango de valores de una probabilidad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0, 1]$",
+          "is_correct": true,
+          "feedback": "La probabilidad siempre está entre 0 y 1 inclusive"
+        },
+        {
+          "letter": "B",
+          "text": "$[-1, 1]$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 100]$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$0 \\leq P(A) \\leq 1$ para cualquier evento $A$.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-v20",
+      "statement": "Un test detecta una enfermedad con 95% de precisión. Si la enfermedad afecta al 2% de la población, ¿cuál es la probabilidad de que una persona con resultado positivo tenga la enfermedad? (Usa probabilidad total)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente $0.28$",
+          "is_correct": true,
+          "feedback": "$P(E|+) = \\frac{0.02 \\times 0.95}{0.02\\times0.95 + 0.98\\times0.05} \\approx \\frac{0.019}{0.068} \\approx 0.28$"
+        },
+        {
+          "letter": "B",
+          "text": "$0.95$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0.02$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$0.50$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Teorema de Bayes: $P(E|+) = \\frac{P(E)P(+|E)}{P(E)P(+|E) + P(\\bar{E})P(+|\\bar{E})}$.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W08-probabilidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
