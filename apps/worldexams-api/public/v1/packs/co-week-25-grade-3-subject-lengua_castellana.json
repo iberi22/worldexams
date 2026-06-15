@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-25-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.035Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v1",
+      "statement": "¿Cuál es la forma correcta de completar esta frase?\n\"________ perros corren por el parque\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El",
+          "is_correct": false,
+          "feedback": "No concuerda en número (perros es plural)."
+        },
+        {
+          "letter": "B",
+          "text": "La",
+          "is_correct": false,
+          "feedback": "No concuerda en género ni número."
+        },
+        {
+          "letter": "C",
+          "text": "Los",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es masculino y plural, como \"perros\"."
+        },
+        {
+          "letter": "D",
+          "text": "Las",
+          "is_correct": false,
+          "feedback": "No concuerda en género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo debe coincidir siempre en género y número con el sustantivo al que acompaña.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v2",
+      "statement": "¿Cuál adjetivo concuerda bien en esta oración?\n\"La mandarina está muy __________\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sabroso",
+          "is_correct": false,
+          "feedback": "No concuerda en género (mandarina es femenino)."
+        },
+        {
+          "letter": "B",
+          "text": "sabrosa",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es femenino y singular."
+        },
+        {
+          "letter": "C",
+          "text": "sabrosas",
+          "is_correct": false,
+          "feedback": "No concuerda en número (singular vs plural)."
+        },
+        {
+          "letter": "D",
+          "text": "dulces",
+          "is_correct": false,
+          "feedback": "No concuerda en número."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El adjetivo debe tener el mismo género y número que el sustantivo al que califica.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v3",
+      "statement": "¿Qué verbo completa correctamente la oración?\n\"Nosotros __________ para el examen de mañana\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "estudio",
+          "is_correct": false,
+          "feedback": "Concuerda con \"Yo\"."
+        },
+        {
+          "letter": "B",
+          "text": "estudias",
+          "is_correct": false,
+          "feedback": "Concuerda con \"Tú\"."
+        },
+        {
+          "letter": "C",
+          "text": "estudiamos",
+          "is_correct": true,
+          "feedback": "¡Excelente! Concuerda con la primera persona del plural (Nosotros)."
+        },
+        {
+          "letter": "D",
+          "text": "estudian",
+          "is_correct": false,
+          "feedback": "Concuerda con \"Ellos\" o \"Ustedes\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El núcleo del sujeto y el núcleo del predicado deben coincidir en número y persona.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v4",
+      "statement": "¿Cuál es el error en la frase: \"Las niños juegan fútbol\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo \"Las\" no concuerda en género con \"niños\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Debería decir \"Los niños\"."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo \"juegan\" está mal escrito.",
+          "is_correct": false,
+          "feedback": "El verbo concuerda bien con el plural."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"fútbol\" debe ser femenina.",
+          "is_correct": false,
+          "feedback": "No, el género del deporte no afecta la concordancia del sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ningún error.",
+          "is_correct": false,
+          "feedback": "Sí hay un error de género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Incluso si el número (plural) es correcto, el género también debe coincidir para que haya concordancia plena.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v5",
+      "statement": "¿Cuál de estas oraciones tiene una concordancia perfecta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El montañas altos tienen nieve.",
+          "is_correct": false,
+          "feedback": "El artículo y el adjetivo no concuerdan con \"montañas\"."
+        },
+        {
+          "letter": "B",
+          "text": "Las montaña alta tiene nieve.",
+          "is_correct": false,
+          "feedback": "El artículo no concuerda en número con \"montaña\"."
+        },
+        {
+          "letter": "C",
+          "text": "Las montañas altas tienen nieve.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Todas las palabras están en femenino y plural."
+        },
+        {
+          "letter": "D",
+          "text": "La montañas alta tiene nieve.",
+          "is_correct": false,
+          "feedback": "Hay errores de número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia nominal (sustantivo-artículo-adjetivo) es la base de la escritura correcta en español.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v6",
+      "statement": "¿Qué palabra rompe la concordancia en esta oración?\n\"La gente de la ciudad **son** muy amable\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gente",
+          "is_correct": false,
+          "feedback": "Es un sustantivo colectivo que funciona como singular."
+        },
+        {
+          "letter": "B",
+          "text": "de la ciudad",
+          "is_correct": false,
+          "feedback": "Está bien construido."
+        },
+        {
+          "letter": "C",
+          "text": "son",
+          "is_correct": true,
+          "feedback": "¡Exacto! Como \"La gente\" es singular, el verbo debería ser \"es\"."
+        },
+        {
+          "letter": "D",
+          "text": "amable",
+          "is_correct": false,
+          "feedback": "Concuerda bien con el singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sustantivos colectivos (como gente, equipo, familia) concuerdan con el verbo en singular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v7",
+      "statement": "Completa con las palabras que mejor concuerden:\n\"Unas _________ _________ desfilaron por la calle\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "silletero - felices",
+          "is_correct": false,
+          "feedback": "No concuerda en género ni número."
+        },
+        {
+          "letter": "B",
+          "text": "silleteras - hermosas",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Concuerdan en femenino y plural con \"Unas\"."
+        },
+        {
+          "letter": "C",
+          "text": "silleteros - bonita",
+          "is_correct": false,
+          "feedback": "No concuerda en número ni género con el artículo."
+        },
+        {
+          "letter": "D",
+          "text": "silletera - roja",
+          "is_correct": false,
+          "feedback": "No concuerda en número con el artículo \"Unas\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La concordancia debe mantenerse en toda la cadena de palabras que forman una idea.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v8",
+      "statement": "Cuando el sujeto tiene dos personas (ejemplo: \"Marta y Luis\"), ¿cómo debe estar el verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En singular, porque cada uno es una sola persona.",
+          "is_correct": false,
+          "feedback": "No, al sumarse se vuelven plural."
+        },
+        {
+          "letter": "B",
+          "text": "En plural, porque son varias personas las que hacen la acción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo debe decir \"ellos\" o \"nosotros\"."
+        },
+        {
+          "letter": "C",
+          "text": "Como uno quiera, no importa.",
+          "is_correct": false,
+          "feedback": "Las reglas de concordancia son obligatorias para hablar bien."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en femenino.",
+          "is_correct": false,
+          "feedback": "No, se usa el masculino si hay hombres en el grupo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sujeto compuesto por dos o más núcleos en singular requiere siempre un verbo en plural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v9",
+      "statement": "¿Cuál es la forma correcta de decir esta frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La agua fría.",
+          "is_correct": false,
+          "feedback": "No, se usa \"el\" por eufonía, pero sigue siendo femenina."
+        },
+        {
+          "letter": "B",
+          "text": "El agua fría.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Se usa \"el\" para evitar el choque de vocales, pero el adjetivo sigue siendo femenino."
+        },
+        {
+          "letter": "C",
+          "text": "El agua frío.",
+          "is_correct": false,
+          "feedback": "\"Agua\" es femenina, el adjetivo debe ser femenino."
+        },
+        {
+          "letter": "D",
+          "text": "Los aguas frías.",
+          "is_correct": false,
+          "feedback": "En plural se usa \"Las aguas frías\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En palabras femeninas que empiezan por 'a' tónica, el artículo cambia a \"el\", pero los adjetivos deben permanecer en femenino.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases para tu noticia está escrita sin errores de concordancia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños de tercer grado está muy contenta por el parque.",
+          "is_correct": false,
+          "feedback": "Varios errores de concordancia de número y género."
+        },
+        {
+          "letter": "B",
+          "text": "El nuevo parque tienen juegos muy bonitas para todos.",
+          "is_correct": false,
+          "feedback": "El verbo y el adjetivo no concuerdan con el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "El nuevo parque tiene juegos muy bonitos para todos los niños.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Todas las palabras concuerdan perfectamente entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Unos juegos divertida fue instalada ayer en el parque.",
+          "is_correct": false,
+          "feedback": "Varios errores de concordancia de género y número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia gramatical es esencial para que nuestros textos sean profesionales, claros y fáciles de leer.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W25-concordancia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

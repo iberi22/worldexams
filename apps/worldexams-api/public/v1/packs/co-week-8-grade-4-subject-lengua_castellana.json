@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.052Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v1",
+      "statement": "¿Cómo se forma una palabra compuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separando una palabra larga en dos partes.",
+          "is_correct": false,
+          "feedback": "No, eso sería dividir sílabas."
+        },
+        {
+          "letter": "B",
+          "text": "Uniendo dos o más palabras simples para formar una nueva con un significado diferente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La unión crea un concepto nuevo."
+        },
+        {
+          "letter": "C",
+          "text": "Poniéndole una tilde a una palabra que no la tenía.",
+          "is_correct": false,
+          "feedback": "Eso es una regla de acentuación, no de formación de palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Escribiendo la palabra al revés.",
+          "is_correct": false,
+          "feedback": "Eso es un palíndromo o un juego de palabras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras compuestas son el resultado de la composición, un proceso morfológico para crear léxico nuevo.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes es una palabra compuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cocina",
+          "is_correct": false,
+          "feedback": "Es una palabra simple."
+        },
+        {
+          "letter": "B",
+          "text": "Sacacorchos",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Saca + corchos."
+        },
+        {
+          "letter": "C",
+          "text": "Tenedor",
+          "is_correct": false,
+          "feedback": "Es una palabra simple."
+        },
+        {
+          "letter": "D",
+          "text": "Cuchillo",
+          "is_correct": false,
+          "feedback": "Es una palabra simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas herramientas y utensilios cotidianos tienen nombres formados por composición.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v3",
+      "statement": "Si unimos **\"para\"** y **\"aguas\"**, formamos la palabra **\"paraguas\"**. ¿Qué significa esta nueva palabra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua se detiene sola.",
+          "is_correct": false,
+          "feedback": "No es un proceso mágico del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Un objeto que sirve para protegerse de la lluvia.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El significado nace de la función de las dos palabras unidas."
+        },
+        {
+          "letter": "C",
+          "text": "Que hay mucha agua en el río.",
+          "is_correct": false,
+          "feedback": "No tiene relación directa con la cantidad en los ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Una persona que nada muy bien.",
+          "is_correct": false,
+          "feedback": "Eso sería un nadador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El significado de la palabra compuesta suele ser una síntesis lógica de las funciones de sus componentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v4",
+      "statement": "¿Cuál es la palabra compuesta que nombra al deportista que salta con una vara muy alta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saltador.",
+          "is_correct": false,
+          "feedback": "Es una palabra derivada, no compuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Saltapra... no, es Pértiga. Espera, busquemos una común: **Baloncesto**.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Baloncesto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Balón + cesto."
+        },
+        {
+          "letter": "C",
+          "text": "Corredor.",
+          "is_correct": false,
+          "feedback": "Es palabra simple."
+        },
+        {
+          "letter": "D",
+          "text": "Futbolista.",
+          "is_correct": false,
+          "feedback": "Es una palabra derivada de fútbol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El deporte utiliza muchos términos compuestos para definir sus disciplinas y elementos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v5",
+      "statement": "¿Qué palabra se forma al unir **\"espanta\"** + **\"pájaros\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pájaroespantado.",
+          "is_correct": false,
+          "feedback": "El orden y la forma son incorrectos."
+        },
+        {
+          "letter": "B",
+          "text": "Espantapájaros.",
+          "is_correct": true,
+          "feedback": "¡Así es! Se escribe todo junto como una sola palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Espanta pájaros (separado).",
+          "is_correct": false,
+          "feedback": "Al ser compuesta, debe escribirse unida."
+        },
+        {
+          "letter": "D",
+          "text": "Pájaro que asusta.",
+          "is_correct": false,
+          "feedback": "Eso es una descripción, no una palabra compuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al unir las palabras para formar la compuesta, a menudo se pierde el espacio y se forma una unidad ortográfica nueva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v6",
+      "statement": "¿Cuáles son las dos palabras que forman la palabra **\"telaraña\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tela y rama.",
+          "is_correct": false,
+          "feedback": "No concuerda con la segunda parte."
+        },
+        {
+          "letter": "B",
+          "text": "Tela y araña.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Es la red que teje la araña."
+        },
+        {
+          "letter": "C",
+          "text": "Te y araña.",
+          "is_correct": false,
+          "feedback": "Falta una letra importante de la primera palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Telar y maña.",
+          "is_correct": false,
+          "feedback": "No tiene sentido con el objeto real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber descomponer las palabras ayuda a entender su origen y a escribirlas mejor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v7",
+      "statement": "Unimos **\"pasa\"** + **\"tiempo\"**. ¿Cuál es la forma ortográfica correcta de la palabra resultante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasatiempo.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Se escribe todo junto y sin tilde (porque es grave terminada en vocal)."
+        },
+        {
+          "letter": "B",
+          "text": "Pasa-tiempo.",
+          "is_correct": false,
+          "feedback": "No requiere guion."
+        },
+        {
+          "letter": "C",
+          "text": "Passatiempo.",
+          "is_correct": false,
+          "feedback": "En español no se usa doble s."
+        },
+        {
+          "letter": "D",
+          "text": "Pasatiémpo.",
+          "is_correct": false,
+          "feedback": "No lleva tilde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras compuestas siguen las reglas generales de acentuación del español, independientemente de cómo se acentuaran las palabras simples por separado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v8",
+      "statement": "Cuando unimos **\"pelo\"** + **\"rojo\"**, formamos la palabra **\"pelirrojo\"**. ¿Qué cambio ocurrió?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No cambió nada.",
+          "is_correct": false,
+          "feedback": "Sí hubo cambios en las letras."
+        },
+        {
+          "letter": "B",
+          "text": "La \"o\" de pelo cambió por \"i\" y la \"r\" de rojo se duplicó (\"rr\") para mantener el sonido fuerte.",
+          "is_correct": true,
+          "feedback": "¡Excelente observación! Es una regla de composición fonética."
+        },
+        {
+          "letter": "C",
+          "text": "Se le quitó la letra j.",
+          "is_correct": false,
+          "feedback": "No, la j sigue ahí."
+        },
+        {
+          "letter": "D",
+          "text": "Se escribió al revés.",
+          "is_correct": false,
+          "feedback": "No es el caso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Algunas palabras compuestas sufren modificaciones ortográficas para facilitar la pronunciación o ajustarse a reglas de sonido (como la rr entre vocales).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v9",
+      "statement": "En la frase \"El astronauta usó el **telescopio** para ver el **rascacielos** desde la luna\", ¿cuáles son las palabras compuestas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Astronauta y luna.",
+          "is_correct": false,
+          "feedback": "Luna es simple. Astronauta es compuesta (astro + nauta), pero miremos la otra opción."
+        },
+        {
+          "letter": "B",
+          "text": "Telescopio y rascacielos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tele + scopio y rasca + cielos son palabras compuestas muy claras."
+        },
+        {
+          "letter": "C",
+          "text": "Solo rascacielos.",
+          "is_correct": false,
+          "feedback": "Telescopio también lo es."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es compuesta.",
+          "is_correct": false,
+          "feedback": "Sí hay palabras compuestas en la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar palabras compuestas en textos reales ayuda a ampliar el vocabulario y a comprender términos técnicos o científicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-v10",
+      "statement": "¿Cuál de estos nombres compuestos inventados suena más correcto siguiendo las reglas del español?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Airelimpio.",
+          "is_correct": false,
+          "feedback": "Es válido, pero suena más a adjetivo y sustantivo separados."
+        },
+        {
+          "letter": "B",
+          "text": "Limpiaires.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Sigue el modelo de \"limpiabrisas\" o \"sacapuntas\" (verbo + sustantivo plural)."
+        },
+        {
+          "letter": "C",
+          "text": "Limpia del aire.",
+          "is_correct": false,
+          "feedback": "Eso es una frase, no una palabra compuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Aerolimpia.",
+          "is_correct": false,
+          "feedback": "Podría ser, pero Limpiaires es más tradicional en su forma de composición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La creación de palabras nuevas (neologismos) a menudo utiliza el mecanismo de la composición por ser muy productivo y fácil de entender.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W08-vocabulario-compuestas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
