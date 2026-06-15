@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-36-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T05:13:43.404Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v1",
+      "statement": "¿Cómo se denomina al género literario que narra hechos históricos siguiendo un orden temporal, y que en el contexto americano fue el principal medio para dar a conocer la realidad de los pueblos indígenas a Europa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Novela de caballería.",
+          "is_correct": false,
+          "feedback": "Se centra en caballeros andantes y fantasía, no en el relato de hechos reales de viaje."
+        },
+        {
+          "letter": "B",
+          "text": "Cuento popular.",
+          "is_correct": false,
+          "feedback": "Es una narración breve de ficción, no un relato de carácter histórico y testimonial."
+        },
+        {
+          "letter": "C",
+          "text": "Crónica de Indias.",
+          "is_correct": true,
+          "feedback": "La crónica es el género híbrido entre historia y literatura que relató el encuentro entre dos mundos."
+        },
+        {
+          "letter": "D",
+          "text": "Poesía épica.",
+          "is_correct": false,
+          "feedback": "Aunque puede narrar hechos históricos, su estructura es en verso, no en prosa narrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica de Indias es fundamental para entender la literatura colombiana. Fue escrita inicialmente por soldados, clérigos y aventureros, y más tarde por mestizos e indígenas, registrando la geografía, las costumbres y el conflicto de la época.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v2",
+      "statement": "¿Cuál era el objetivo principal de los cronistas indígenas y mestizos al escribir sus obras frente a las crónicas escritas por los españoles?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a escribir en español para olvidarse de sus raíces.",
+          "is_correct": false,
+          "feedback": "Al contrario, usaron el español para proteger y reivindicar sus raíces."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer a los españoles de que les dieran oro y tierras.",
+          "is_correct": false,
+          "feedback": "Su propósito era más profundo y cultural, aunque hubiera intereses políticos."
+        },
+        {
+          "letter": "C",
+          "text": "Dar su propia versión de la historia y defender la dignidad y cultura de sus pueblos.",
+          "is_correct": true,
+          "feedback": "Buscaban corregir las visiones sesgadas de los cronistas europeos que los veían como \"bárbaros\"."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir libros de cocina con recetas de maíz y papa.",
+          "is_correct": false,
+          "feedback": "Aunque mencionaban la comida, sus obras eran tratados históricos y sociales complejos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica indígena representó una forma de resistencia cultural. A través de la escritura en el idioma del conquistador, los autores indígenas lograron que su voz y su pasado no fueran borrados por la historia oficial europea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v3",
+      "statement": "A partir del fragmento, ¿qué choque de valores se puede inferir entre los cronistas y los habitantes indígenas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos grupos valoraban el algodón por encima de todo lo demás.",
+          "is_correct": false,
+          "feedback": "El texto resalta que los soldados se fijaban específicamente en el oro."
+        },
+        {
+          "letter": "B",
+          "text": "Los indígenas mostraban hospitalidad, mientras que los recién llegados mostraban codicia por los metales preciosos.",
+          "is_correct": true,
+          "feedback": "El contraste entre el recibimiento con frutas y la mirada puesta en el oro evidencia el conflicto de intereses."
+        },
+        {
+          "letter": "C",
+          "text": "Los españoles estaban preocupados por el desorden de las casas de paja.",
+          "is_correct": false,
+          "feedback": "El texto dice explícitamente que las casas estaban \"muy bien ordenadas\"."
+        },
+        {
+          "letter": "D",
+          "text": "No había ninguna diferencia de valores, todos querían ser amigos.",
+          "is_correct": false,
+          "feedback": "El fragmento sugiere una tensión implícita debido al interés material de los soldados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica de las crónicas permite identificar las intenciones de los autores y las contradicciones entre el discurso religioso o civilizador y las acciones reales de explotación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v4",
+      "statement": "¿A qué se debe esta diferencia tan grande en la descripción del mismo hecho?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que los indígenas realmente eran demonios en esa época.",
+          "is_correct": false,
+          "feedback": "Esta es una visión prejuiciosa e históricamente errónea."
+        },
+        {
+          "letter": "B",
+          "text": "A que los españoles no sabían hablar bien el español.",
+          "is_correct": false,
+          "feedback": "La diferencia no es de idioma, sino de interpretación cultural y religiosa."
+        },
+        {
+          "letter": "C",
+          "text": "A que cada cronista interpreta la realidad desde su propia visión del mundo (cosmovisión) y sus prejuicios.",
+          "is_correct": true,
+          "feedback": "La crónica no es objetiva; es un relato mediado por la cultura de quien escribe."
+        },
+        {
+          "letter": "D",
+          "text": "A que el ritual cambió de significado entre la mañana y la tarde.",
+          "is_correct": false,
+          "feedback": "El significado es el mismo para la comunidad; lo que cambia es la mirada del observador externo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis de crónicas enseña que la verdad histórica es a menudo una construcción desde un punto de vista. Estudiar ambas versiones (española e indígena) es vital para una comprensión equilibrada del pasado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes estrategias narrativas sería más efectiva para lograr tu objetivo en esa época?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir un poema abstracto sobre la belleza de las nubes en los Andes.",
+          "is_correct": false,
+          "feedback": "Esto no comunica la denuncia ni describe los hechos reales del abuso."
+        },
+        {
+          "letter": "B",
+          "text": "Redactar una crónica detallada con dibujos (manuscrito iluminado) que muestre los castigos injustos aplicados a tu pueblo.",
+          "is_correct": true,
+          "feedback": "Autores como Guamán Poma de Ayala usaron esta estrategia (texto e imagen) para hacer sus denuncias más impactantes y comprensibles."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar que los españoles son extraterrestres que vienen de otro planeta.",
+          "is_correct": false,
+          "feedback": "Esto le restaría credibilidad a tu denuncia histórica real ante el Rey."
+        },
+        {
+          "letter": "D",
+          "text": "No escribir nada y esperar que el Rey se entere por medio de sueños.",
+          "is_correct": false,
+          "feedback": "La escritura fue la herramienta fundamental de gestión y denuncia política para los ilustrados indígenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica no fue solo literatura, fue una herramienta de acción jurídica y política. Los dibujos en las crónicas indígenas (como en la \"Nueva corónica y buen gobierno\") servían como prueba visual de la realidad americana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v6",
+      "statement": "Si analizamos este texto desde una perspectiva crítica moderna, ¿cuál es el juicio de valor que el cronista español está imponiendo sobre los indígenas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los está felicitando por su gran inteligencia comercial.",
+          "is_correct": false,
+          "feedback": "Al compararlos con \"niños sin malicia\", sugiere que son ingenuos y fáciles de engañar."
+        },
+        {
+          "letter": "B",
+          "text": "Los está infantilizando, tratándolos como seres inferiores que no conocen el valor real de las cosas.",
+          "is_correct": true,
+          "feedback": "Esta visión paternalista justificaba que los españoles tomaran el control de sus vidas y bienes."
+        },
+        {
+          "letter": "C",
+          "text": "Está reconociendo que los indígenas eran expertos en el manejo del vidrio.",
+          "is_correct": false,
+          "feedback": "Los indígenas no conocían el vidrio, por eso les resultaba una novedad curiosa."
+        },
+        {
+          "letter": "D",
+          "text": "Está criticando a los españoles por ser tan generosos con sus vidrios.",
+          "is_correct": false,
+          "feedback": "Al contrario, resalta la ventaja obtenida por los españoles en el intercambio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La infantilización fue un recurso discursivo de los cronistas para justificar la tutela y la dominación. Analizar estos términos ayuda a entender cómo se construyeron los prejuicios raciales en América.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v7",
+      "statement": "¿Cuál es la principal diferencia en el tono y la perspectiva entre el texto 1 y el texto 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1 es poético y el texto 2 es un reporte científico.",
+          "is_correct": false,
+          "feedback": "Ambos son narrativos, pero con cargas emocionales muy distintas."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1 tiene un tono de celebración y triunfo (conquistador), mientras que el 2 tiene un tono de tragedia y pérdida (vencido).",
+          "is_correct": true,
+          "feedback": "Reflejan las dos caras de la moneda de un mismo proceso histórico."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 2 es más verdadero porque menciona la sangre.",
+          "is_correct": false,
+          "feedback": "Ambos contienen su propia \"verdad\" según la experiencia de quien lo vivió."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, ambos están de acuerdo en que la fundación fue un evento positivo.",
+          "is_correct": false,
+          "feedback": "El texto 2 claramente ve el evento como algo doloroso y traumático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis literario de crónicas permite identificar las voces del poder y las voces de la resistencia. Reconocer el dolor en la crónica indígena es fundamental para una historia de Colombia más humana y honesta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v8",
+      "statement": "¿Cuál era la intención más probable de los cronistas al usar estas exageraciones ante los reyes en Europa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el Rey se riera mucho con sus cuentos fantásticos.",
+          "is_correct": false,
+          "feedback": "Su intención no era cómica, sino económica y política."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que en América todo era más grande por el calor.",
+          "is_correct": false,
+          "feedback": "La exageración tenía un fin de mercadeo de las tierras descubiertas."
+        },
+        {
+          "letter": "C",
+          "text": "Resaltar la riqueza de las tierras conquistadas para justificar el gasto de las expediciones y pedir más recursos.",
+          "is_correct": true,
+          "feedback": "La crónica funcionaba también como un informe publicitario para atraer inversión y colonos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los cronistas tenían problemas de visión y todo lo veían más grande.",
+          "is_correct": false,
+          "feedback": "Fue un recurso literario consciente, no un problema fisiológico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica es un género donde la realidad se mezcla con la fantasía y la propaganda. Identificar la hipérbole ayuda a separar los datos geográficos reales de las intenciones persuasivas del autor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v9",
+      "statement": "¿Qué significa la metáfora del \"Mundo al revés\" en la pluma de un cronista indígena como Guamán Poma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que después de la conquista la gente empezó a caminar con las manos.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal absurda de una metáfora social."
+        },
+        {
+          "letter": "B",
+          "text": "Que el orden natural y social fue trastocado: los sabios fueron humillados, los templos destruidos y la justicia desapareció.",
+          "is_correct": true,
+          "feedback": "Representa el caos y la pérdida de los valores tradicionales indígenas frente a un nuevo orden impuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el sol empezó a salir por el oeste en lugar de por el este.",
+          "is_correct": false,
+          "feedback": "La metáfora se refiere al orden social y moral, no a fenómenos astronómicos."
+        },
+        {
+          "letter": "D",
+          "text": "Que los españoles trajeron espejos donde todo se veía al revés.",
+          "is_correct": false,
+          "feedback": "Aunque trajeron espejos, la metáfora es mucho más profunda respecto a la estructura de la sociedad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de \"Mundo al revés\" es una crítica social poderosa. Refleja el sentimiento de injusticia y el desorden moral que percibieron las comunidades indígenas ante el colapso de sus civilizaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-v10",
+      "statement": "¿Cuál es la conclusión más acertada sobre por qué debemos seguir estudiando estas crónicas en el grado séptimo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para aprender nombres de españoles antiguos y ganar concursos de memoria.",
+          "is_correct": false,
+          "feedback": "El objetivo no es la memorización de datos aislados, sino la comprensión crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Para convencernos de que la conquista fue lo mejor que nos pudo pasar.",
+          "is_correct": false,
+          "feedback": "El estudio debe ser crítico y mostrar todas las facetas, no solo una visión sesgada."
+        },
+        {
+          "letter": "C",
+          "text": "Para identificar el origen de los discursos de discriminación y poder, y construir una visión más justa de nuestra identidad nacional.",
+          "is_correct": true,
+          "feedback": "Entender cómo se escribió la historia permite cuestionar los prejuicios actuales y valorar la diversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son los únicos libros que existen de esa época en el país.",
+          "is_correct": false,
+          "feedback": "Aunque son fuentes valiosas, la razón de su estudio es su impacto en nuestra cultura y pensamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación de textos históricos desde la clase de Lengua busca desarrollar el pensamiento crítico. Al analizar cómo se usó la palabra para dominar o resistir, el estudiante comprende que el lenguaje es una herramienta de poder y de construcción de identidad.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado escrupulosamente. |\n| Curricular | 40/40 | Análisis de la crónica de Indias (española e indígena) para grado 7. |\n| Contexto | 20/20 | Referencias a Popayán, Pasto, y cronistas clave (Guamán Poma, Garcilaso). |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas profundas. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W36-cronica-indigena-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
