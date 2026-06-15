@@ -198,23 +198,22 @@ function normalizePackQuestion(question: any) {
 }
 
 function normalizeQuestionText(value: unknown) {
-  return String(value || "")
+  return String(value ?? "")
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/<!--[\s\S]*?-->/g, " ")
-    .replace(/\\\(|\\\)|\\\[|\\\]/g, " ")
     .replace(/[^a-z0-9]+/g, " ")
     .replace(/\s+/g, " ")
     .trim()
 }
 
 function questionIdentityKey(question: any) {
-  const id = normalizeQuestionText(question?.id || question?.question_id)
+  const id = normalizeQuestionText(question?.id ?? question?.question_id)
   if (id) return `id:${id}`
 
-  const bundleId = normalizeQuestionText(question?.bundle_id || question?.bundleId)
-  const localId = normalizeQuestionText(question?.local_id || question?.questionId)
+  const bundleId = normalizeQuestionText(question?.bundle_id ?? question?.bundleId)
+  const localId = normalizeQuestionText(question?.local_id ?? question?.questionId)
   if (bundleId && localId) return `bundle:${bundleId}:${localId}`
 
   return ""
@@ -232,7 +231,7 @@ function questionSemanticKey(question: any) {
 
   const options = Array.isArray(question?.options)
     ? question.options
-        .map((option: any) => normalizeQuestionText(option?.text || option?.label || option))
+        .map((option: any) => normalizeQuestionText(option?.text ?? option?.label ?? option))
         .filter(Boolean)
         .sort()
         .join("|")
