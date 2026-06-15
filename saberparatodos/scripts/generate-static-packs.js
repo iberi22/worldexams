@@ -241,9 +241,10 @@ for (const file of allFiles) {
     const parts = relPath.split(path.sep);
     const countryFolder = parts[0];
 
-    const grade = parseInt(
-      data.grado || file.match(/grado-(\d+)/)?.[1] || "11",
-    );
+    const rawGrade = String(data.grado || file.match(/grado-(\d+)/)?.[1] || "11");
+    const grade = rawGrade.toUpperCase() === "3EM"
+      ? 11
+      : parseInt(rawGrade, 10);
     let subject = data.asignatura || data.subject;
 
     if (!subject) {
