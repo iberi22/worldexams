@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:30:14.691Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición necesaria para que una relación entre dos conjuntos sea considerada una función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada elemento del conjunto de llegada debe tener al menos un elemento en el conjunto de partida.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una relación sobreyectiva, no de una función en general."
+        },
+        {
+          "letter": "B",
+          "text": "A cada elemento del conjunto de partida le corresponde exactamente un elemento del conjunto de llegada.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición fundamental de función (unicidad)."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos conjuntos deben tener la misma cantidad de elementos.",
+          "is_correct": false,
+          "feedback": "No es necesario que los conjuntos sean del mismo tamaño para definir una función."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los elementos del conjunto de llegada deben ser utilizados.",
+          "is_correct": false,
+          "feedback": "Esto no es obligatorio; puede haber elementos en el codominio que no pertenezcan al rango."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es una regla de correspondencia que asigna a cada elemento del dominio un único elemento del codominio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al conjunto de todos los valores posibles que puede tomar la variable independiente ($x$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codominio",
+          "is_correct": false,
+          "feedback": "El codominio es el conjunto de llegada, no solo los valores que toma la variable independiente."
+        },
+        {
+          "letter": "B",
+          "text": "Dominio",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio es el conjunto de partida o valores de entrada de la función."
+        },
+        {
+          "letter": "C",
+          "text": "Rango",
+          "is_correct": false,
+          "feedback": "El rango (o imagen) son los valores reales que toma la variable dependiente ($y$)."
+        },
+        {
+          "letter": "D",
+          "text": "Abscisa",
+          "is_correct": false,
+          "feedback": "La abscisa es el nombre de la coordenada $x$, pero no del conjunto completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio define el intervalo o conjunto de números para los cuales la función está matemáticamente definida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué prueba visual se utiliza para determinar si una gráfica en el plano cartesiano representa una función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prueba de la línea horizontal",
+          "is_correct": false,
+          "feedback": "Esta prueba se usa para determinar si una función es inyectiva (uno a uno)."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba de la línea vertical",
+          "is_correct": true,
+          "feedback": "Correcto. Si cualquier línea vertical cruza la gráfica en más de un punto, no es una función."
+        },
+        {
+          "letter": "C",
+          "text": "Prueba del origen",
+          "is_correct": false,
+          "feedback": "No existe una prueba con este nombre para definir funciones."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba de simetría",
+          "is_correct": false,
+          "feedback": "La simetría ayuda a identificar funciones pares o impares, pero no si es función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prueba de la línea vertical verifica la unicidad de la imagen para cada valor de $x$ en el dominio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v4",
+      "statement": "Dada la función $f(x) = 3x - 2$, ¿cuál es el valor de $f(4)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "$3(4) - 2 = 12 - 2 = 10$, no 6."
+        },
+        {
+          "letter": "B",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Sumaste 2 en lugar de restar ($12 + 2$)."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\times 4 = 12$, y $12 - 2 = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Olvidaste restar el 2 después de multiplicar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una función consiste en sustituir la variable independiente por un valor específico y calcular el resultado siguiendo las operaciones indicadas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el dominio de la función $g(x) = \\frac{1}{x - 5}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "No puede ser, ya que la división por cero no está definida."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales excepto $x = 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Si $x = 5$, el denominador se hace cero y la función no existe."
+        },
+        {
+          "letter": "C",
+          "text": "Solo los números mayores que $5$.",
+          "is_correct": false,
+          "feedback": "Los números menores que 5 también son válidos (no producen división por cero)."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto $\\{5\\}$.",
+          "is_correct": false,
+          "feedback": "Este es precisamente el valor que NO pertenece al dominio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En funciones racionales, el dominio excluye los valores de $x$ que hacen que el denominador sea igual a cero.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el rango de la función $f(x) = x^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "Los números negativos no están en el rango porque cualquier número al cuadrado es positivo o cero."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores o iguales a cero ($[0, \\infty)$).",
+          "is_correct": true,
+          "feedback": "Correcto. El valor mínimo es 0 y se extiende infinitamente hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números enteros.",
+          "is_correct": false,
+          "feedback": "El rango incluye también todos los números decimales y racionales positivos."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo $(-\\infty, 0]$.",
+          "is_correct": false,
+          "feedback": "Este sería el rango si la función fuera $f(x) = -x^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango se identifica observando los valores que toma la función en el eje vertical ($y$). Para $x^2$, todos los resultados son no negativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v7",
+      "statement": "En la función $C(p) = 15p + 10$, donde $C$ es el costo en Quetzales y $p$ es el peso en libras, ¿cuál es la variable dependiente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El peso $p$",
+          "is_correct": false,
+          "feedback": "El peso es la variable que elegimos o medimos (independiente)."
+        },
+        {
+          "letter": "B",
+          "text": "El costo $C$",
+          "is_correct": true,
+          "feedback": "Correcto. El costo \"depende\" del peso del paquete."
+        },
+        {
+          "letter": "C",
+          "text": "El número 15",
+          "is_correct": false,
+          "feedback": "Este es un coeficiente o constante de proporcionalidad."
+        },
+        {
+          "letter": "D",
+          "text": "El número 10",
+          "is_correct": false,
+          "feedback": "Este es un costo fijo o término independiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La variable dependiente es el resultado de la función, usualmente graficada en el eje $y$, cuyo valor se determina al procesar la variable independiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la intersección con el eje $y$ (ordenada al origen) de la función $f(x) = 2x - 8$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 0)$",
+          "is_correct": false,
+          "feedback": "Esta es la intersección con el eje $x$ (donde $y=0$)."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, -8)$",
+          "is_correct": true,
+          "feedback": "Correcto. La intersección con $y$ ocurre cuando $x=0$, entonces $f(0) = -8$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 8)$",
+          "is_correct": false,
+          "feedback": "Error de signo en la identificación del término constante."
+        },
+        {
+          "letter": "D",
+          "text": "$(-8, 0)$",
+          "is_correct": false,
+          "feedback": "Se colocó el valor de $y$ en la posición de $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intersección con el eje $y$ se halla evaluando la función en $x=0$. En funciones de la forma $mx + b$, el valor de $b$ indica directamente este punto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v9",
+      "statement": "Si la altura sigue la función $h(t) = \\sqrt{t + 4}$, ¿cuál es la altura de la planta al cuarto día ($t=4$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ cm",
+          "is_correct": false,
+          "feedback": "$\\sqrt{4+4} = \\sqrt{8} \\approx 2.82$, no 4."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{8}$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $t=4$: $h(4) = \\sqrt{4+4} = \\sqrt{8}$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$ cm",
+          "is_correct": false,
+          "feedback": "Solo extrajiste la raíz del primer término o del segundo, no de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "$8$ cm",
+          "is_correct": false,
+          "feedback": "Olvidaste extraer la raíz cuadrada después de sumar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al evaluar funciones con radicales, se realiza primero la operación dentro del radicando y luego se aplica la raíz.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué característica tiene una función creciente en un intervalo determinado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A medida que aumenta $x$, el valor de $f(x)$ también aumenta.",
+          "is_correct": true,
+          "feedback": "Correcto. La gráfica sube al avanzar hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "A medida que aumenta $x$, el valor de $f(x)$ disminuye.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una función decreciente."
+        },
+        {
+          "letter": "C",
+          "text": "El valor de $f(x)$ permanece constante sin importar el valor de $x$.",
+          "is_correct": false,
+          "feedback": "Esta es una función constante (recta horizontal)."
+        },
+        {
+          "letter": "D",
+          "text": "La función siempre pasa por el origen de coordenadas.",
+          "is_correct": false,
+          "feedback": "Ser creciente no obliga a la función a pasar por el punto (0,0)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La monotonía de una función (crecimiento o decrecimiento) describe la relación directa o inversa entre los cambios en la variable independiente y la dependiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v11",
+      "statement": "Dadas las funciones $f(x) = 2x$ y $g(x) = x + 3$, ¿cuál es el valor de la composición $(f \\circ g)(2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Este sería $f(2) + g(2)$, no la composición."
+        },
+        {
+          "letter": "B",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero hallamos $g(2) = 5$. Luego evaluamos $f(5) = 2(5) = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Este es solo el valor de $g(2)$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Error al realizar las operaciones de la composición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La composición de funciones $(f \\circ g)(x)$ significa evaluar la función $f$ usando como entrada el resultado de la función $g(x)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el dominio de la función $h(x) = \\sqrt{x - 3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los reales excepto $x = 3$.",
+          "is_correct": false,
+          "feedback": "Los números menores que 3 producirían una raíz de un número negativo, lo cual no es real."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 3$",
+          "is_correct": true,
+          "feedback": "Correcto. El radicando debe ser mayor o igual a cero para existir en los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 3$",
+          "is_correct": false,
+          "feedback": "En $x=3$ la función es $\\sqrt{0}=0$, lo cual es válido; por tanto, incluye al 3."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales mayores o iguales a cero.",
+          "is_correct": false,
+          "feedback": "No es correcto, ya que valores como 1 o 2 harían negativa la expresión dentro de la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones con raíz cuadrada de índice par, el dominio está restringido a los valores que hacen que el radicando sea no negativo ($\\ge 0$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v13",
+      "statement": "Dada la función:\n$f(x) = x + 1$ si $x < 0$\n$f(x) = 2$ si $x \\ge 0$\n¿Cuál es el valor de $f(5)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Usaste la rama incorrecta. $x=5$ cumple la condición $x \\ge 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $5 \\ge 0$, el valor de la función es la constante 2."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto según las reglas de la función por trozos."
+        },
+        {
+          "letter": "D",
+          "text": "No está definido.",
+          "is_correct": false,
+          "feedback": "La función está definida para todos los números reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En funciones definidas por trozos, primero se verifica en qué intervalo cae el valor de $x$ y luego se aplica la regla de correspondencia de ese intervalo específico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes funciones es una función par ($f(-x) = f(x)$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "Esta es una función impar ($f(-x) = -f(x)$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-x)^2 + 4 = x^2 + 4$, por lo que es simétrica respecto al eje $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x + 1$",
+          "is_correct": false,
+          "feedback": "No es ni par ni impar debido al término constante sumado a una potencia impar."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "No puede ser par ni impar porque su dominio no es simétrico respecto al origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es par si su gráfica es simétrica respecto al eje $y$. Algebraicamente, esto se cumple si al sustituir $x$ por $-x$, la función original no cambia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v15",
+      "statement": "Si la gráfica de $f(x)$ se desplaza $3$ unidades hacia abajo, ¿cuál es la nueva expresión de la función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x + 3)$",
+          "is_correct": false,
+          "feedback": "Esto es un desplazamiento horizontal hacia la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x - 3)$",
+          "is_correct": false,
+          "feedback": "Esto es un desplazamiento horizontal hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Restar una constante a la función completa produce un desplazamiento vertical hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "$3f(x)$",
+          "is_correct": false,
+          "feedback": "Esto representa un estiramiento vertical por un factor de 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las transformaciones rígidas (desplazamientos) ocurren al sumar o restar constantes a la variable (horizontal) o a la función (vertical).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la función inversa de $f(x) = 2x + 6$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = 2x - 6$",
+          "is_correct": false,
+          "feedback": "Solo cambiaste el signo de la constante, no despejaste correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x - 6}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Intercambiando variables y despejando: $x = 2y + 6 \\Rightarrow x - 6 = 2y \\Rightarrow y = (x-6)/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\frac{1}{2x + 6}$",
+          "is_correct": false,
+          "feedback": "Esta es la función recíproca, no la función inversa."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x}{2} - 6$",
+          "is_correct": false,
+          "feedback": "Error al dividir por 2; debe afectar a todo el numerador $(x-6)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función inversa \"deshace\" la operación de la función original. Se obtiene intercambiando $x$ con $y$ y despejando la nueva $y$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la asíntota vertical de la función $f(x) = \\frac{2x + 1}{x - 3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2$",
+          "is_correct": false,
+          "feedback": "Esta es la asíntota horizontal, calculada por el límite al infinito."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el valor que hace cero el denominador y no anula al numerador simultáneamente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -1/2$",
+          "is_correct": false,
+          "feedback": "Esta es la intersección con el eje $x$ (raíz), no una asíntota."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Error de signo al identificar el valor prohibido del dominio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las asíntotas verticales ocurren en los valores de $x$ que hacen que el denominador de una función racional simplificada sea igual a cero.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v18",
+      "statement": "Si $f(x)$ es una función biyectiva y $f^{-1}(x)$ es su inversa, ¿cuál es el resultado de la operación $f(f^{-1}(100))$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$100$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, la composición de una función con su inversa devuelve el valor original."
+        },
+        {
+          "letter": "D",
+          "text": "$f(100)$",
+          "is_correct": false,
+          "feedback": "La inversa anula el efecto de la función original, devolviendo el argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad fundamental de las funciones inversas es que la composición de ambas (en cualquier orden) es igual a la función identidad $I(x) = x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el dominio y el rango de la función $f(x) = |x| + 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio: $\\mathbb{R}$; Rango: $\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "El rango está restringido por el valor absoluto y el desplazamiento hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "Dominio: $\\mathbb{R}$; Rango: $[5, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier $x$ es válido, y el valor mínimo es $0+5=5$."
+        },
+        {
+          "letter": "C",
+          "text": "Dominio: $[0, \\infty)$; Rango: $[5, \\infty)$",
+          "is_correct": false,
+          "feedback": "El dominio no tiene restricciones; se pueden ingresar números negativos en un valor absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "Dominio: $\\mathbb{R}$; Rango: $[0, \\infty)$",
+          "is_correct": false,
+          "feedback": "El rango empieza en 5 debido al desplazamiento vertical $+5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función valor absoluto básica tiene rango $[0, \\infty)$. Al sumarle 5, todo el rango se desplaza hacia arriba, iniciando en $y=5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\frac{1}{\\sqrt{x - 2}}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 2$",
+          "is_correct": false,
+          "feedback": "Si $x=2$, el denominador es $\\sqrt{0}=0$, lo cual es indefinido por la división."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": true,
+          "feedback": "Correcto. El radicando debe ser positivo ($x-2 > 0$) para evitar raíces negativas y división por cero."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\le 2$",
+          "is_correct": false,
+          "feedback": "Esto produciría raíces de números negativos (para $x < 2$)."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales excepto $x = 2$.",
+          "is_correct": false,
+          "feedback": "No considera la restricción de la raíz cuadrada para números menores que 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema combina dos restricciones: la de la raíz cuadrada (debe ser $\\ge 0$) y la de la división (denominador $\\ne 0$). La intersección de ambas da como resultado $> 0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

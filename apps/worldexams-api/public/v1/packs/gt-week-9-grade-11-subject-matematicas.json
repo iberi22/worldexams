@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:30:14.692Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la razón trigonométrica que se define como la longitud del cateto opuesto dividida por la longitud de la hipotenusa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seno",
+          "is_correct": true,
+          "feedback": "Correcto. El seno es la razón opuesto/hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "Coseno",
+          "is_correct": false,
+          "feedback": "El coseno es adyacente/hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "Tangente",
+          "is_correct": false,
+          "feedback": "La tangente es opuesto/adyacente."
+        },
+        {
+          "letter": "D",
+          "text": "Secante",
+          "is_correct": false,
+          "feedback": "La secante es hipotenusa/adyacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las razones trigonométricas fundamentales relacionan un ángulo agudo con el cociente de dos lados específicos del triángulo rectángulo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v2",
+      "statement": "En un triángulo rectángulo con catetos $a$ y $b$ e hipotenusa $c$, ¿cuál es la relación correcta según el teorema de Pitágoras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a + b = c$",
+          "is_correct": false,
+          "feedback": "Esta relación no es correcta para los lados de un triángulo rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + b^2 = c^2$",
+          "is_correct": true,
+          "feedback": "Correcto. El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + c^2 = b^2$",
+          "is_correct": false,
+          "feedback": "La hipotenusa $c$ debe ser el término aislado en el lado derecho de la igualdad (siendo el lado más largo)."
+        },
+        {
+          "letter": "D",
+          "text": "$ab = c^2$",
+          "is_correct": false,
+          "feedback": "El producto de los catetos no es igual al cuadrado de la hipotenusa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema de Pitágoras es fundamental para hallar el tercer lado de un triángulo rectángulo cuando se conocen los otros dos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor del ángulo cuya tangente es igual a $1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "$\\tan(30^\\circ) = 1/\\sqrt{3} \\approx 0.577$."
+        },
+        {
+          "letter": "B",
+          "text": "$45^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo rectángulo isósceles, los catetos son iguales y la tangente del ángulo de $45^\\circ$ es 1."
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "$\\tan(60^\\circ) = \\sqrt{3} \\approx 1.732$."
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "La tangente de $90^\\circ$ no está definida (tiende a infinito)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos de $45^\\circ$ provienen de cuadrados divididos por su diagonal, donde ambos catetos son idénticos, resultando en una razón de 1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor exacto del seno de $30^\\circ$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3} / 2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2} / 2$",
+          "is_correct": false,
+          "feedback": "Este es el valor para $45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$1/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(30^\\circ) = 0.5$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Este es el seno de $90^\\circ$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ángulos de $30^\\circ$ y $60^\\circ$ se derivan de la mitad de un triángulo equilátero, lo que permite deducir sus valores exactos mediante geometría básica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v5",
+      "statement": "Si los catetos del soporte miden $3$ m y $4$ m, ¿cuánto mide el soporte (hipotenusa)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ m",
+          "is_correct": false,
+          "feedback": "Sumaste los catetos directamente, ignorando el teorema de Pitágoras."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ m",
+          "is_correct": false,
+          "feedback": "Olvidaste extraer la raíz cuadrada al final."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ m",
+          "is_correct": false,
+          "feedback": "Multiplicaste los catetos en lugar de aplicar el teorema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el ejemplo más clásico de una terna pitagórica ($3, 4, 5$), donde los cuadrados de los catetos suman exactamente el cuadrado de la hipotenusa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v6",
+      "statement": "Si la escalera forma un ángulo de $60^\\circ$ con el suelo, ¿a qué altura sobre la torre llega el extremo superior de la escalera? (Usa $\\sin(60^\\circ) \\approx 0.866$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.00$ m",
+          "is_correct": false,
+          "feedback": "Este sería el resultado si usaras el coseno (distancia a la base)."
+        },
+        {
+          "letter": "B",
+          "text": "$8.66$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Altura = Hipotenusa $\\times \\sin(60^\\circ) = 10 \\times 0.866 = 8.66$."
+        },
+        {
+          "letter": "C",
+          "text": "$10.00$ m",
+          "is_correct": false,
+          "feedback": "La altura no puede ser igual a la hipotenusa si hay un ángulo de inclinación."
+        },
+        {
+          "letter": "D",
+          "text": "$7.07$ m",
+          "is_correct": false,
+          "feedback": "Este valor corresponde al seno de $45^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el cateto opuesto (altura) conociendo la hipotenusa y el ángulo, se utiliza la razón seno: $\\sin(\\theta) = \\text{Opuesto} / \\text{Hipotenusa}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del ángulo de elevación si un avión ha recorrido $1,000$ m de distancia horizontal y ha alcanzado una altura de $1,000$ m?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Esto requeriría que la altura fuera menor que la distancia horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$45^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Si el opuesto y el adyacente son iguales, la tangente es 1, lo que corresponde a $45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "Esto requeriría que la altura fuera mayor que la distancia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Un avión no puede ascender verticalmente con una distancia horizontal de 1,000 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando los dos catetos de un triángulo rectángulo son iguales, los ángulos agudos son necesariamente de $45^\\circ$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la longitud de la rampa (hipotenusa)? (Usa $\\cos(10^\\circ) \\approx 0.985$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11.82$ m",
+          "is_correct": false,
+          "feedback": "Multiplicaste por el coseno en lugar de dividir. La hipotenusa debe ser mayor que el cateto."
+        },
+        {
+          "letter": "B",
+          "text": "$12.18$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Hipotenusa = Adyacente / $\\cos(10^\\circ) = 12 / 0.985 \\approx 12.18$."
+        },
+        {
+          "letter": "C",
+          "text": "$14.20$ m",
+          "is_correct": false,
+          "feedback": "Error al realizar la división o uso de una razón trigonométrica incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "$2.12$ m",
+          "is_correct": false,
+          "feedback": "Este valor es demasiado pequeño para ser la hipotenusa de una base de 12 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la hipotenusa conociendo el cateto adyacente, se utiliza la razón coseno: $\\cos(\\theta) = \\text{Adyacente} / \\text{Hipotenusa}$, despejando la hipotenusa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v9",
+      "statement": "Si el ángulo de elevación a la cúspide es de $30^\\circ$, ¿cuál es la altura de la pirámide? (Usa $\\tan(30^\\circ) \\approx 0.577$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25.00$ m",
+          "is_correct": false,
+          "feedback": "Este sería el valor si usaras el seno de $30^\\circ$ con una hipotenusa de 50."
+        },
+        {
+          "letter": "B",
+          "text": "$28.85$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Altura = Distancia $\\times \\tan(30^\\circ) = 50 \\times 0.577 = 28.85$."
+        },
+        {
+          "letter": "C",
+          "text": "$43.30$ m",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a $50 \\times \\cos(30^\\circ)$."
+        },
+        {
+          "letter": "D",
+          "text": "$50.00$ m",
+          "is_correct": false,
+          "feedback": "La altura no puede ser igual a la distancia horizontal si el ángulo es de $30^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de altura donde se conoce la distancia horizontal (adyacente), la razón trigonométrica más directa es la tangente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v10",
+      "statement": "Si en un triángulo rectángulo el $\\sin(20^\\circ) \\approx 0.342$, ¿cuál es el valor del $\\cos(70^\\circ)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.940$",
+          "is_correct": false,
+          "feedback": "Este es el valor del $\\sin(70^\\circ)$ o $\\cos(20^\\circ)$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.342$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la propiedad de co-funciones, $\\sin(\\theta) = \\cos(90^\\circ - \\theta)$."
+        },
+        {
+          "letter": "C",
+          "text": "$1.000$",
+          "is_correct": false,
+          "feedback": "El coseno solo es 1 para $0^\\circ$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.500$",
+          "is_correct": false,
+          "feedback": "Este es el valor para $60^\\circ$ (coseno) o $30^\\circ$ (seno)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos agudos de un triángulo rectángulo son complementarios (suman $90^\\circ$). El seno de uno es igual al coseno del otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v11",
+      "statement": "Si la habitación mide $6$ m de ancho y $8$ m de largo, ¿cuál es el valor del coseno del ángulo que forma la diagonal con el lado de $8$ m?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.6$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno ($6/10$)."
+        },
+        {
+          "letter": "B",
+          "text": "$0.8$",
+          "is_correct": true,
+          "feedback": "Correcto. Diagonal = $10$. $\\cos(\\theta) = \\text{Adyacente} / \\text{Hipotenusa} = 8/10 = 0.8$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.75$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la tangente ($6/8$)."
+        },
+        {
+          "letter": "D",
+          "text": "$1.25$",
+          "is_correct": false,
+          "feedback": "El coseno nunca puede ser mayor que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se halla la hipotenusa mediante Pitágoras y luego se aplica la definición de la razón coseno usando el cateto adyacente al ángulo mencionado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v12",
+      "statement": "Si el $\\cos(\\theta) = 5/13$ en un triángulo rectángulo, ¿cuál es el valor de la $\\csc(\\theta)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13/5$",
+          "is_correct": false,
+          "feedback": "Esta es la secante (recíproca del coseno)."
+        },
+        {
+          "letter": "B",
+          "text": "$13/12$",
+          "is_correct": true,
+          "feedback": "Correcto. Si $\\cos = 5/13$, el opuesto es $12$ (por Pitágoras). $\\sin = 12/13$, entonces $\\csc = 13/12$."
+        },
+        {
+          "letter": "C",
+          "text": "$12/13$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno."
+        },
+        {
+          "letter": "D",
+          "text": "$5/12$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la cotangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cosecante es la recíproca del seno. Requiere hallar primero el cateto opuesto mediante el teorema de Pitágoras ($13^2 - 5^2 = 144 \\Rightarrow \\sqrt{144} = 12$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v13",
+      "statement": "Desde un punto en el suelo, el ángulo de elevación a la copa de un árbol es de $45^\\circ$. Si el guardabosques está a $20$ metros de la base del árbol, ¿cuál es la altura del árbol?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Para $45^\\circ$, el opuesto es igual al adyacente."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\sqrt{2}$ m",
+          "is_correct": false,
+          "feedback": "Esta sería la distancia visual (hipotenusa), no la altura."
+        },
+        {
+          "letter": "D",
+          "text": "$14.14$ m",
+          "is_correct": false,
+          "feedback": "Valor incorrecto para la relación de catetos en un triángulo de $45^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad del triángulo rectángulo isósceles ($45-45-90$) simplifica enormemente los cálculos, ya que la altura es igual a la distancia a la base.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el resultado de la expresión $\\sin^2(35^\\circ) + \\cos^2(35^\\circ)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. Según la identidad pitagórica fundamental $\\sin^2\\theta + \\cos^2\\theta = 1$ para cualquier ángulo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan^2(35^\\circ)$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La identidad pitagórica se deriva directamente del teorema de Pitágoras aplicado a un círculo unitario y es válida para cualquier valor del ángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v15",
+      "statement": "En un triángulo rectángulo, el cateto opuesto mide $5$ y el adyacente mide $12$. ¿Cómo se expresa el valor del ángulo $\\theta$ en términos de una función inversa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\theta = \\sin^{-1}(5/12)$",
+          "is_correct": false,
+          "feedback": "El seno usa la hipotenusa, no el cateto adyacente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\theta = \\cos^{-1}(12/5)$",
+          "is_correct": false,
+          "feedback": "El argumento del coseno inverso no puede ser mayor que 1."
+        },
+        {
+          "letter": "C",
+          "text": "$\\theta = \\tan^{-1}(5/12)$",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente relaciona opuesto y adyacente; se usa la función inversa para hallar el ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\theta = \\tan(12/5)$",
+          "is_correct": false,
+          "feedback": "Esto calcularía la tangente de un número, no el ángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar un ángulo conociendo sus catetos, se utiliza la función arcotangente o tangente inversa ($\\tan^{-1}$) del cociente opuesto/adyacente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v16",
+      "statement": "Si el faro tiene una altura de $40$ m y el ángulo de elevación desde el bote es de $20^\\circ$, ¿a qué distancia se encuentra el bote de la base del faro? (Usa $\\tan(20^\\circ) \\approx 0.364$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14.56$ m",
+          "is_correct": false,
+          "feedback": "Multiplicaste en lugar de dividir. La distancia debe ser mayor que la altura para un ángulo de $20^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$109.89$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia = Altura / $\\tan(20^\\circ) = 40 / 0.364 \\approx 109.89$."
+        },
+        {
+          "letter": "C",
+          "text": "$80.20$ m",
+          "is_correct": false,
+          "feedback": "Error aritmético en la división."
+        },
+        {
+          "letter": "D",
+          "text": "$42.50$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al despejar el cateto adyacente de la fórmula $\\tan(\\theta) = \\text{Opuesto} / \\text{Adyacente}$, se obtiene Adyacente = Opuesto / $\\tan(\\theta)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v17",
+      "statement": "Desde la parte superior de un edificio de $30$ m de altura, el ángulo de depresión hacia un objeto en el suelo es de $30^\\circ$. ¿Cuál es la distancia visual (hipotenusa) desde el observador hasta el objeto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30$ m",
+          "is_correct": false,
+          "feedback": "La hipotenusa debe ser el lado más largo."
+        },
+        {
+          "letter": "B",
+          "text": "$60$ m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(30^\\circ) = 30 / \\text{Hipotenusa} \\Rightarrow 0.5 = 30 / \\text{Hip} \\Rightarrow \\text{Hip} = 60$."
+        },
+        {
+          "letter": "C",
+          "text": "$30\\sqrt{3}$ m",
+          "is_correct": false,
+          "feedback": "Esta es la distancia horizontal por el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "$45$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el objeto hacia el observador. Con el seno de $30^\\circ$ (que es 0.5), la hipotenusa resulta ser el doble del cateto opuesto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v18",
+      "statement": "En un triángulo con ángulos de $30^\\circ, 60^\\circ$ y $90^\\circ$, si el cateto más corto mide $x$, ¿cuál es el valor de la hipotenusa y del cateto mayor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipotenusa = $x\\sqrt{2}$, Cateto mayor = $x$",
+          "is_correct": false,
+          "feedback": "Estos valores corresponden al triángulo de $45^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "Hipotenusa = $2x$, Cateto mayor = $x\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. En el triángulo 30-60-90, los lados guardan la proporción $1 : \\sqrt{3} : 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Hipotenusa = $x+2$, Cateto mayor = $x+1$",
+          "is_correct": false,
+          "feedback": "Las relaciones en trigonometría son multiplicativas, no aditivas."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotenusa = $3x$, Cateto mayor = $2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el teorema de Pitágoras ni las razones trigonométricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conocimiento de las proporciones en triángulos rectángulos especiales permite resolver problemas complejos de manera rápida y sin calculadora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v19",
+      "statement": "Si un poste de $2$ metros proyecta una sombra de $2\\sqrt{3}$ metros, ¿cuál es el ángulo de elevación del sol en ese momento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan(\\theta) = 2 / (2\\sqrt{3}) = 1/\\sqrt{3}$. El ángulo cuya tangente es $1/\\sqrt{3}$ es $30^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "Para $60^\\circ$, la sombra debería ser más corta que la altura ($2/\\sqrt{3}$)."
+        },
+        {
+          "letter": "C",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Para $45^\\circ$, la sombra y la altura deben ser iguales."
+        },
+        {
+          "letter": "D",
+          "text": "$15^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al comparar la altura y la sombra, se obtiene el valor de la tangente. Reconocer el valor $1/\\sqrt{3}$ permite identificar el ángulo notable de $30^\\circ$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle-v20",
+      "statement": "Un triángulo rectángulo tiene una hipotenusa de $10$ cm y un área de $24$ cm². ¿Cuáles son las longitudes de sus catetos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ cm y $5$ cm",
+          "is_correct": false,
+          "feedback": "El área sería 12.5 y la hipotenusa $\\sqrt{50}$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ cm y $8$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $(6 \\times 8) / 2 = 24$. Hipotenusa = $\\sqrt{6^2 + 8^2} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ cm y $12$ cm",
+          "is_correct": false,
+          "feedback": "El área es 24, pero la hipotenusa es $\\sqrt{16+144} \\ne 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$7$ cm y $7$ cm",
+          "is_correct": false,
+          "feedback": "El área sería 24.5 y la hipotenusa $\\sqrt{98}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema requiere verificar dos condiciones simultáneamente: el teorema de Pitágoras para la hipotenusa y la fórmula del área para el producto de los catetos.\n$a^2 + b^2 = 100$\n$ab / 2 = 24 \\Rightarrow ab = 48$.\nLos números que cumplen esto son 6 y 8.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W09-trigonometria-triangulos-rectangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
