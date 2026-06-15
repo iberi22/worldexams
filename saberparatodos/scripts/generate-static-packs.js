@@ -279,6 +279,7 @@ for (const file of allFiles) {
       brazil: "br",
       spain: "es",
       espana: "es",
+      "guinea-ecuatorial": "gq",
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
