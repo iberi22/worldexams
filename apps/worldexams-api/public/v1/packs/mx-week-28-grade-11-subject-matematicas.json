@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-28-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.799Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tipo de matrices se les puede calcular un determinante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cualquier matriz rectangular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo un subconjunto específico de matrices tiene determinante."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente a matrices cuadradas (mismo número de filas y columnas).",
+          "is_correct": true,
+          "feedback": "Correcto. El determinante es un valor escalar definido solo para estructuras cuadradas."
+        },
+        {
+          "letter": "C",
+          "text": "Solo a matrices que tienen ceros en su diagonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier matriz cuadrada puede tener determinante."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente a matrices de orden $2 \\times 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede calcular para cualquier orden n x n."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinante es una propiedad exclusiva de las matrices cuadradas. Es un número que resume varias propiedades importantes de la matriz, como si tiene inversa o si los vectores que la forman son linealmente independientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v2",
+      "statement": "Si $A$ es una matriz, ¿cuál es la notación común para representar su determinante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[A]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corchetes suelen representar a la matriz misma."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{A\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las llaves se usan para conjuntos o elementos de la matriz."
+        },
+        {
+          "letter": "C",
+          "text": "$|A|$ o $\\det(A)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se usan barras verticales (similares al valor absoluto) o la abreviatura det."
+        },
+        {
+          "letter": "D",
+          "text": "$A^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa la potencia de la matriz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para distinguir entre la matriz (el arreglo de números) y el determinante (el valor escalar resultante), se utilizan barras verticales. Es importante no confundirlo con el valor absoluto, aunque usen el mismo símbolo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v3",
+      "statement": "Dada la matriz $A = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$, ¿cuál es la fórmula para calcular su determinante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ad + bc$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación entre los productos de las diagonales debe ser una resta."
+        },
+        {
+          "letter": "B",
+          "text": "$ad - bc$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el producto de la diagonal principal menos el producto de la diagonal secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "$ac - bd$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcló los elementos de las filas y columnas de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "$ab - cd$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los elementos de las filas en lugar de las diagonales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una matriz $2 \\times 2$, el determinante se obtiene multiplicando los elementos de la diagonal principal (de arriba-izquierda a abajo-derecha) y restándole el producto de los elementos de la diagonal secundaria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v4",
+      "statement": "Si el determinante de una matriz cuadrada es igual a cero ($\\det(A) = 0$), ¿qué se puede afirmar sobre la matriz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la matriz es la matriz identidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El determinante de la identidad es 1."
+        },
+        {
+          "letter": "B",
+          "text": "Que la matriz es singular (no tiene inversa).",
+          "is_correct": true,
+          "feedback": "Correcto. Un determinante nulo indica que la matriz no puede ser invertida."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos sus elementos son ceros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es necesario que todos sean cero para que el determinante lo sea."
+        },
+        {
+          "letter": "D",
+          "text": "Que la matriz es una matriz transpuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las matrices cuadradas tienen transpuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinante funciona como un \"indicador de salud\" de la matriz. Si es cero, la matriz es \"singular\", lo que significa que sus filas o columnas son dependientes y no se puede realizar la operación de división matricial (inversión).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v5",
+      "statement": "Calcule el determinante de la matriz $M = \\begin{pmatrix} 3 & 4 \\\\ 2 & 5 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los productos (15 + 8) en lugar de restarlos."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. det(M) = (3*5) - (4*2) = 15 - 8 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó en el orden inverso (8 - 15)."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el producto de la diagonal secundaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicamos la diagonal principal ($3 \\cdot 5 = 15$) y restamos la diagonal secundaria ($4 \\cdot 2 = 8$). El resultado $15 - 8 = 7$ es el valor del determinante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v6",
+      "statement": "Determine el valor de $\\begin{vmatrix} -2 & 6 \\\\ 1 & -4 \\end{vmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos: (-2 * -4) es 8 positivo, y se resta 6."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. (-2 * -4) - (6 * 1) = 8 - 6 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible confusión con los signos de los productos."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los valores absolutos en lugar de seguir la fórmula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al manejar números negativos, debemos ser cuidadosos con la ley de los signos. El producto $(-2) \\cdot (-4)$ da 8. A esto le restamos el producto de la otra diagonal ($6 \\cdot 1 = 6$), resultando en 2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el primer paso recomendado para aplicar la Regla de Sarrus en una matriz $3 \\times 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multiplicar solo la diagonal principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sarrus requiere tres productos en cada sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Repetir las dos primeras filas o columnas debajo o a la derecha de la matriz.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta extensión visual facilita identificar las tres diagonales completas en ambos sentidos."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la fila y columna del primer elemento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el método de cofactores, no la Regla de Sarrus."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar todos los signos de la matriz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla no requiere cambios de signo iniciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de Sarrus es un método mnemotécnico para matrices $3 \\times 3$. Al escribir las dos primeras filas debajo de la matriz original, se pueden trazar líneas diagonales continuas de tres elementos, simplificando el cálculo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v8",
+      "statement": "Sin realizar cálculos extensos, determine el determinante de $A = \\begin{pmatrix} 1 & 2 & 3 \\\\ 0 & 0 & 0 \\\\ 4 & 5 & 6 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una propiedad fundamental hace que el resultado sea inmediato."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Si una matriz tiene una fila o columna completa de ceros, su determinante es automáticamente cero."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos que justifiquen este valor."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la suma de los elementos de las otras filas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen propiedades de los determinantes que permiten ahorrar tiempo. Una de ellas establece que si todos los elementos de una fila (o columna) son cero, todos los productos en el cálculo del determinante tendrán un factor cero, anulando el resultado final.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el determinante de la matriz identidad de orden $3 \\times 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matriz identidad siempre tiene un determinante distinto de cero."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la suma de los unos de la diagonal."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. En cualquier matriz identidad, el producto de la diagonal principal es 1 y todos los demás términos son 0."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El determinante de la identidad es positivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para cualquier matriz diagonal o triangular (donde los elementos fuera de la diagonal son cero), el determinante es simplemente el producto de los elementos de su diagonal principal. Para la identidad: $1 \\cdot 1 \\cdot 1 = 1$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v10",
+      "statement": "Encuentre el valor de $x$ para que el determinante de $\\begin{pmatrix} x & 6 \\\\ 2 & 4 \\end{pmatrix}$ sea igual a 0.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x=2, el det es 8 - 12 = -4."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. det = 4x - 12. Para que sea 0: 4x = 12 => x = 3."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x=0, el det es -12."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x=4, el det es 16 - 12 = 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la ecuación del determinante: $(x \\cdot 4) - (6 \\cdot 2) = 0$. Esto nos da una ecuación lineal simple $4x - 12 = 0$, cuya solución es $x = 3$. En este punto, las filas de la matriz son proporcionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v11",
+      "statement": "Si el determinante de la matriz $A$ es 15, ¿cuál será el determinante de la matriz que resulta de intercambiar sus dos únicas filas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio de filas afecta el valor del determinante."
+        },
+        {
+          "letter": "B",
+          "text": "-15",
+          "is_correct": true,
+          "feedback": "Correcto. Al intercambiar dos filas (o dos columnas) consecutivas de una matriz, su determinante cambia de signo."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio no anula el determinante."
+        },
+        {
+          "letter": "D",
+          "text": "1/15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta propiedad corresponde a la matriz inversa, no al intercambio de filas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propiedad fundamental de los determinantes es que cada intercambio de dos filas o dos columnas multiplica el valor del determinante por $-1$. Es una propiedad útil en el método de eliminación de Gauss para determinantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v12",
+      "statement": "Si $\\det(A) = 4$ y $\\det(B) = -2$, ¿cuál es el valor de $\\det(A \\cdot B)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben sumar los determinantes."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben restar ni sumar los valores."
+        },
+        {
+          "letter": "C",
+          "text": "-8",
+          "is_correct": true,
+          "feedback": "Correcto. Por propiedad: det(A * B) = det(A) * det(B). Entonces 4 * (-2) = -8."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de determinantes es multiplicativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad distributiva del determinante respecto a la multiplicación establece que el determinante del producto de dos matrices es igual al producto de sus respectivos determinantes. Esto simplifica cálculos complejos de productos matriciales grandes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del determinante de $A = \\begin{pmatrix} 1 & 0 & 2 \\\\ 3 & -1 & 1 \\\\ 0 & 2 & 1 \\end{pmatrix}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al calcular los signos de los cofactores."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. Expandiendo por la primera fila: 1*(-1*1 - 2*1) + 2*(3*2 - 0*-1) = 1*(-3) + 2*(6) = -3 + 12 = 9."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 2 del tercer elemento de la primera fila."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matriz no es singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al usar cofactores, elegimos una fila (preferiblemente una con ceros) y multiplicamos cada elemento por su respectivo menor (determinante de la matriz resultante al eliminar su fila y columna). Se debe alternar el signo según la posición: $+ - +$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v14",
+      "statement": "Si $A$ es una matriz de $2 \\times 2$ con $\\det(A) = 5$, ¿cuál es el valor de $\\det(3A)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escalar no sale del determinante de forma lineal si afecta a toda la matriz."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "is_correct": true,
+          "feedback": "Correcto. Para una matriz de orden n, det(k*A) = k^n * det(A). Aquí 3^2 * 5 = 9 * 5 = 45."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar la matriz por un escalar siempre cambia el valor del determinante."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevó el determinante al cuadrado en lugar del escalar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando multiplicamos una matriz por un escalar $k$, cada fila es multiplicada por $k$. Como el determinante es una función multilineal de las filas, cada fila aporta un factor $k$ al resultado final. Para una matriz $n \\times n$, el factor es $k^n$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la relación entre el determinante de una matriz $A$ y el determinante de su transpuesta $A^T$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales ($\\det(A) = \\det(A^T)$).",
+          "is_correct": true,
+          "feedback": "Correcto. La operación de transponer no altera el valor del determinante de una matriz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen signos opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sucede al intercambiar filas, no al transponer."
+        },
+        {
+          "letter": "C",
+          "text": "El determinante de la transpuesta es el recíproco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sucede con la matriz inversa."
+        },
+        {
+          "letter": "D",
+          "text": "El determinante de la transpuesta es siempre mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son idénticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta propiedad demuestra la simetría entre filas y columnas respecto al determinante. Cualquier propiedad que sea cierta para las filas de un determinante también lo será para sus columnas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v16",
+      "statement": "Determine el determinante de $\\begin{pmatrix} 2 & 5 & 7 \\\\ 0 & 4 & 1 \\\\ 0 & 0 & 3 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matriz no es singular aunque tenga varios ceros."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los elementos de la diagonal."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. En matrices triangulares, el determinante es el producto de la diagonal principal: 2 * 4 * 3 = 24."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el último elemento de la diagonal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En las matrices triangulares (superior o inferior), todos los elementos por encima o por debajo de la diagonal principal son cero. Al aplicar cofactores o Sarrus, todos los términos excepto el producto de la diagonal principal se anulan.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v17",
+      "statement": "Si el determinante de $A$ es 0.25, ¿cuál es el determinante de su matriz inversa $A^{-1}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.25",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matriz inversa no conserva el mismo determinante."
+        },
+        {
+          "letter": "B",
+          "text": "-0.25",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambia de signo."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Por propiedad: det(A^-1) = 1 / det(A). Entonces 1 / 0.25 = 4."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el determinante fuera 0, la inversa ni siquiera existiría."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Existe una relación inversa entre los determinantes de una matriz y su inversa. Esto proviene de la propiedad del producto: $A \\cdot A^{-1} = I$, por lo tanto $\\det(A) \\cdot \\det(A^{-1}) = \\det(I) = 1$. Despejando, $\\det(A^{-1}) = 1/\\det(A)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v18",
+      "statement": "En un sistema de ecuaciones $Ax = B$, para hallar el valor de la incógnita $x_1$ mediante la Regla de Cramer, ¿qué determinante se debe dividir entre $\\det(A)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El determinante de la matriz transpuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación directa con la Regla de Cramer."
+        },
+        {
+          "letter": "B",
+          "text": "El determinante de la matriz obtenida reemplazando la columna 1 de $A$ por el vector de términos constantes $B$.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición de la Regla de Cramer para cada variable."
+        },
+        {
+          "letter": "C",
+          "text": "El determinante de la matriz identidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado sería simplemente 1/det(A)."
+        },
+        {
+          "letter": "D",
+          "text": "El producto de los determinantes de todas las filas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cramer utiliza sustitución de columnas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de Cramer es una aplicación directa de los determinantes para resolver sistemas lineales. Se basa en comparar qué tanto \"pesa\" el vector de resultados en cada una de las dimensiones (columnas) de la matriz de coeficientes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v19",
+      "statement": "Si dos filas de una matriz cuadrada son idénticas, ¿cuál es el valor de su determinante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Si hay filas idénticas (o proporcionales), la matriz es singular y su determinante es nulo."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Filas idénticas implican dependencia lineal, lo que anula el determinante."
+        },
+        {
+          "letter": "C",
+          "text": "El valor del elemento repetido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No depende de los valores individuales sino de la relación entre líneas."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede calcular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede calcular y el resultado siempre es cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Geométricamente, el determinante representa el \"volumen\" hiperespacial formado por los vectores fila. Si dos filas son iguales, el volumen se colapsa a una dimensión menor (como un área que se vuelve línea), por lo que el \"volumen\" total es cero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v20",
+      "statement": "Si a la primera fila de una matriz $A$ se le suma el triple de la segunda fila para obtener una nueva matriz $B$, ¿cuál es la relación entre sus determinantes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\det(B) = 3 \\det(A)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar múltiplos de otra fila no multiplica el determinante por ese escalar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\det(B) = \\det(A)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar a una fila un múltiplo de otra fila NO cambia el valor del determinante."
+        },
+        {
+          "letter": "C",
+          "text": "$\\det(B) = \\det(A) + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las operaciones de suma de filas no son sumas aritméticas para el determinante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\det(B) = - \\det(A)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurre en el intercambio de filas, no en la suma de múltiplos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es quizás la propiedad más útil para el cálculo manual de determinantes grandes. Nos permite crear ceros en la matriz (haciéndola triangular) sin alterar el valor final del determinante, facilitando mucho el cálculo final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

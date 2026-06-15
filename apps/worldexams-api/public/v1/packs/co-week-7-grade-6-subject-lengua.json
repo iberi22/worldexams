@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.768Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición más precisa de narración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que describe detalladamente cómo es un objeto o lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una descripción."
+        },
+        {
+          "letter": "B",
+          "text": "El relato de una serie de sucesos o acontecimientos, reales o imaginarios, que les ocurren a unos personajes en un lugar y tiempo determinados.",
+          "is_correct": true,
+          "feedback": "Correcto. La esencia de la narración es contar hechos que progresan en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Un diálogo entre dos personas para ponerse de acuerdo sobre un tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una conversación o debate."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de instrucciones para preparar una comida típica colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narración se caracteriza por la presencia de acciones o eventos que se desarrollan cronológicamente. Los elementos básicos son: narrador, personajes, tiempo, espacio y trama (acciones).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las tres partes de la estructura narrativa presentes en el fragmento, en orden?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollo, Inicio y Cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está cambiado."
+        },
+        {
+          "letter": "B",
+          "text": "Título, Párrafo y Oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son unidades gramaticales, no partes de la estructura narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Inicio (planteamiento), Nudo (conflicto) y Desenlace (resolución).",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento muestra el estado inicial, el cambio o problema (viento) y la resolución (lluvia)."
+        },
+        {
+          "letter": "D",
+          "text": "Introducción, Argumento y Conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura es más propia de los textos argumentativos o ensayos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Casi todas las narraciones siguen una estructura básica: el Inicio presenta a los personajes y el entorno; el Nudo es donde surge el problema o la acción principal; y el Desenlace es cómo se resuelve dicha situación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de narrador se evidencia en el fragmento anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente, porque sabe todo lo que pasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador habla en primera persona (\"Yo\"), no desde afuera."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista, porque participa directamente en la historia y habla en primera persona.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso del \"yo\" indica que el personaje principal es quien cuenta su propia historia."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo, porque cuenta lo que le pasa a otra persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador habla de sus propias acciones (\"Yo caminé\")."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en tercera persona neutral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona es evidente en los verbos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de vista o tipo de narrador determina cómo recibimos la historia. El narrador protagonista ofrece una visión subjetiva y cercana, ya que vive los hechos que relata.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v4",
+      "statement": "Para que su relato sea realmente un mito, ¿qué tipo de personajes debería incluir preferiblemente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personas reales del barrio con nombres y apellidos actuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería más propio de una crónica o anécdota."
+        },
+        {
+          "letter": "B",
+          "text": "Dioses, seres sobrenaturales o héroes legendarios con poderes especiales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los mitos explican el origen del mundo a través de figuras sagradas o fantásticas."
+        },
+        {
+          "letter": "C",
+          "text": "Animales que hablan y dejan una moraleja al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una fábula."
+        },
+        {
+          "letter": "D",
+          "text": "Científicos que investigan en un laboratorio moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito pertenece a una explicación ancestral o sagrada, no científica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género narrativo incluye subgéneros como el mito, la leyenda, la fábula, el cuento y la novela. Cada uno tiene personajes característicos. Los mitos siempre involucran seres divinos o fuerzas de la naturaleza personificadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué elementos del marco narrativo se identifican claramente en este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los personajes (el caballo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto también da información de tiempo y lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el conflicto (que no tiene jinete).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto es solo una parte de lo que se lee."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo (tres de la tarde) y el espacio o lugar (plaza de Villa de Leyva).",
+          "is_correct": true,
+          "feedback": "Correcto. Estos dos elementos sitúan la acción y ayudan al lector a imaginar la escena."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión del autor sobre el maltrato animal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es puramente narrativo y descriptivo, no expresa una opinión directa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El marco narrativo es el \"donde\" y el \"cuando\" de la historia. Un buen narrador sitúa al lector rápidamente en un contexto para que la acción tenga sentido y sea verosímil.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué elemento añade el segundo fragmento que profundiza en la caracterización del personaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más verbos de acción física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo principal (\"caminó\") es el mismo."
+        },
+        {
+          "letter": "B",
+          "text": "La dimensión psicológica o mundo interior del personaje (sus pensamientos).",
+          "is_correct": true,
+          "feedback": "Correcto. Narrar no solo es contar lo que se ve por fuera, sino también lo que los personajes sienten o piensan."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción más detallada de la puerta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dice nada nuevo sobre el objeto."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre completo del joven.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre no aparece en ninguno de los dos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narración moderna suele combinar las acciones físicas con la introspección. Conocer los pensamientos de un personaje permite que el lector empatice con él y entienda sus motivaciones en la trama.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes frases es propia de un narrador omnisciente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"No sabía qué hacer cuando vi el fantasma en el castillo de Salgar\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es primera persona (protagonista)."
+        },
+        {
+          "letter": "B",
+          "text": "\"Pedro sonreía, pero en el fondo de su corazón sentía un miedo profundo que nadie más podía notar\".",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador omnisciente sabe incluso lo que los personajes ocultan o sienten en su interior."
+        },
+        {
+          "letter": "C",
+          "text": "\"Vi a Pedro sonreír mientras entraba a la casa de sus tíos\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es narrador testigo (solo cuenta lo que ve desde afuera)."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ustedes deben entrar a la casa ahora mismo\", dijo la madre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un diálogo directo de un personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador omnisciente narra en tercera persona y posee un conocimiento total de los hechos, el pasado, el futuro y la psicología de todos los personajes. Es el tipo de narrador más común en las novelas clásicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v8",
+      "statement": "Si estuviéramos contando la historia de Caperucita Roja, ¿cuál sería el momento del clímax?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la mamá le entrega la canasta con comida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el inicio o planteamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando Caperucita va caminando por el bosque y recoge flores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es parte del desarrollo del nudo, pero no el momento de más tensión."
+        },
+        {
+          "letter": "C",
+          "text": "El momento en que el lobo se quita el disfraz y se lanza a atrapar a Caperucita.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el punto álgido del conflicto donde se decide la suerte del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el cazador llega y todos están a salvo comiendo pastel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el desenlace o resolución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El clímax ocurre justo antes del desenlace. Es el punto donde el conflicto llega a su máxima expresión y el lector siente mayor curiosidad por saber qué pasará.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué caracteriza a un relato con final abierto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor se cansó de escribir y dejó la historia a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una decisión artística consciente, no un error."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los personajes mueren en la última página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería un final cerrado trágico."
+        },
+        {
+          "letter": "C",
+          "text": "Que el conflicto no se resuelve de forma definitiva, dejando que el lector imagine o interprete el desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto. El final abierto invita a la participación activa y reflexión del lector."
+        },
+        {
+          "letter": "D",
+          "text": "Que al final se explica exactamente qué pasó con cada personaje años después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un final cerrado o epílogo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El final abierto es un recurso literario que rompe con la estructura tradicional del desenlace perfecto. Obliga al receptor a pensar sobre las posibilidades de la historia, basándose en las pistas dadas durante el relato.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el efecto principal de alterar el orden del tiempo en una narración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que la historia sea más corta y fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, suele requerir más atención del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Generar misterio o curiosidad en el lector por saber cómo se llegó a ese final.",
+          "is_correct": true,
+          "feedback": "Correcto. Romper la cronología lineal es una técnica para atrapar el interés y dar profundidad a la trama."
+        },
+        {
+          "letter": "C",
+          "text": "Engañar al lector para que no entienda nada de lo que pasó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es estético o de suspenso, no de confusión total."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el narrador no sabe usar el reloj.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un manejo artístico del tiempo narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo narrativo puede ser lineal (cronológico) o no lineal (con saltos al pasado o al futuro). Los autores colombianos, como Gabriel García Márquez en \"Crónica de una muerte anunciada\", usan magistralmente estos saltos temporales para construir grandes obras.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

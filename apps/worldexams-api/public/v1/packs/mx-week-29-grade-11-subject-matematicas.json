@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-29-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.800Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define el logaritmo de un número $x$ en base $b$? $\\log_b(x) = y$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$b \\cdot y = x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una relación lineal, no exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "$b^y = x$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo es el exponente al cual hay que elevar la base para obtener el número."
+        },
+        {
+          "letter": "C",
+          "text": "$x^y = b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió el papel de la base y el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$y^b = x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base del logaritmo debe ser la base de la potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El logaritmo es una pregunta: \"¿A qué exponente debo elevar la base para que me de este número?\". Por lo tanto, si $\\log_2(8) = 3$, es porque $2^3 = 8$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la condición necesaria para el argumento $x$ en un logaritmo $\\log_b(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$ puede ser cualquier número real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen logaritmos de números negativos o cero en los reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x$ debe ser un número real positivo ($x > 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de un logaritmo siempre debe ser mayor que cero."
+        },
+        {
+          "letter": "C",
+          "text": "$x$ debe ser un número entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pueden calcular logaritmos de fracciones y decimales positivos."
+        },
+        {
+          "letter": "D",
+          "text": "$x$ no puede ser igual a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. log(1) está definido y es igual a 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que la base $b$ de un logaritmo es siempre positiva, cualquier potencia de esa base será también un número positivo. Por lo tanto, no existe ningún exponente que convierta una base positiva en un número negativo o en cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de $\\log_b(1)$ para cualquier base $b$ válida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier base elevada a la 1 da la misma base, no 1."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier número (distinto de cero) elevado a la potencia 0 es igual a 1."
+        },
+        {
+          "letter": "C",
+          "text": "$b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor de log_b(b)."
+        },
+        {
+          "letter": "D",
+          "text": "Indefinido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de 1 está perfectamente definido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Siguiendo la definición exponencial, buscamos un número tal que $b^y = 1$. Por leyes de los exponentes, sabemos que $b^0 = 1$ para cualquier $b \\neq 0$. Por lo tanto, el logaritmo de 1 en cualquier base siempre es 0.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la base del Logaritmo Natural, denotado como $\\ln(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la base de los logaritmos decimales o comunes."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la base de los logaritmos binarios, comunes en informática."
+        },
+        {
+          "letter": "C",
+          "text": "$e$ (Número de Euler, $\\approx 2.71828$)",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo natural se define específicamente con la base e."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base de un logaritmo nunca puede ser 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El logaritmo natural es fundamental en el cálculo y las ciencias naturales porque su base $e$ aparece en modelos de crecimiento, decaimiento y en el interés compuesto continuo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v5",
+      "statement": "Según las propiedades de los logaritmos, ¿a qué es igual $\\log_b(M \\cdot N)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(M) \\cdot \\log_b(N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de un producto NO es el producto de los logaritmos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(M) + \\log_b(N)$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de sus factores."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(M + N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una propiedad para el logaritmo de una suma."
+        },
+        {
+          "letter": "D",
+          "text": "$M \\cdot \\log_b(N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una confusión con la propiedad de la potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los logaritmos convierten multiplicaciones en sumas. Esta propiedad es el reflejo de la ley de los exponentes que dice que al multiplicar potencias de la misma base, los exponentes se suman ($b^x \\cdot b^y = b^{x+y}$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v6",
+      "statement": "Identifique la propiedad correcta para el logaritmo de un cociente: $\\log_b(\\frac{M}{N})$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\log_b(M)}{\\log_b(N)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de una división no es la división de los logaritmos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(M) - \\log_b(N)$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo de un cociente es igual a la diferencia de los logaritmos del dividendo y del divisor."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(M - N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe propiedad para el logaritmo de una resta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_b(N) - \\log_b(M)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es importante: el logaritmo del denominador debe restarse del logaritmo del numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que con la multiplicación, los logaritmos simplifican la división convirtiéndola en una resta de exponentes. Esto proviene de la ley $b^x / b^y = b^{x-y}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se puede reescribir la expresión $\\log_b(x^n)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\log_b x)^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es lo mismo elevar el logaritmo completo que elevar solo el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(n \\cdot x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente no baja a multiplicar al argumento interno."
+        },
+        {
+          "letter": "C",
+          "text": "$n \\log_b(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente del argumento baja multiplicando a todo el logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "$n + \\log_b(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La potencia no se convierte en una suma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una de las propiedades más potentes, ya que permite \"bajar\" exponentes, convirtiéndolos en multiplicaciones simples. Es la base para resolver ecuaciones exponenciales donde la incógnita está en el exponente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la fórmula del \"Cambio de Base\" para calcular $\\log_b(x)$ usando una base diferente $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x}{b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no tiene relación con las funciones logarítmicas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\log_a(x)}{\\log_a(b)}$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo en la base original es igual al cociente de los logaritmos en la nueva base."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_a(x) - \\log_a(b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben dividir los logaritmos, no restarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_a(x \\cdot b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sigue la propiedad de cambio de base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula de cambio de base permite calcular cualquier logaritmo usando bases estándar (como la decimal o la natural) disponibles en las calculadoras científicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v9",
+      "statement": "¿A qué es igual $\\log_b(\\sqrt{x})$ aplicando las propiedades conocidas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{\\log_b(x)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz no puede sacarse fuera de la función logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} \\log_b(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Una raíz cuadrada equivale al exponente 1/2, el cual baja multiplicando por la propiedad de la potencia."
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\log_b(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a x elevado al cuadrado, no a la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_b(x) - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces no se convierten en restas constantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordando que $\\sqrt{x} = x^{1/2}$, aplicamos la propiedad de la potencia: el exponente $1/2$ baja a multiplicar al logaritmo, simplificando la expresión radical.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v10",
+      "statement": "Simplifique a un solo logaritmo: $\\log(4) + \\log(25)$. (Nota: si no hay base escrita, se asume base 10).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log(29)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los argumentos en lugar de multiplicarlos."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. log(4) + log(25) = log(4 * 25) = log(100). Como la base es 10, log10(100) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log(100)$",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero falta evaluar el valor numérico final que es 2."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 a la 1 es 10, no 100."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la propiedad del producto en sentido inverso: $\\log A + \\log B = \\log(A \\cdot B)$. Obtenemos $\\log(100)$, y como buscamos el exponente de 10 que da 100, la respuesta final es 2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor exacto de $\\log_2(32)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 elevado a la 4 es 16."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. 2^5 = 32. El logaritmo es el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió 32 entre 2 en lugar de buscar la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 elevado a la 6 es 64."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el valor de $y$ tal que $2^y = 32$. Al descomponer 32 en factores primos vemos que $2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 = 32$, por lo que $y = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v12",
+      "statement": "Determine el valor de $\\log(0.001)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 elevado a la 3 es 1000, no 0.001."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Correcto. 0.001 = 10^(-3). El logaritmo de una potencia de la base es el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 elevado a la -2 es 0.01."
+        },
+        {
+          "letter": "D",
+          "text": "0.01",
+          "is_correct": false,
+          "feedback": "Incorrecto. No realizó el cálculo del logaritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los logaritmos de números menores que 1 (pero mayores que 0) son siempre negativos. Dado que $0.001$ es la milésima parte de 1 ($1/1000$), se puede expresar como $10^{-3}$, lo que hace que su logaritmo decimal sea $-3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v13",
+      "statement": "Calcule el valor simplificado de la expresión $e^{\\ln(5)}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función exponencial y la logarítmica se cancelan mutuamente."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado debe depender del argumento del logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que e^x y ln(x) son funciones inversas, aplicarlas consecutivamente devuelve el argumento original."
+        },
+        {
+          "letter": "D",
+          "text": "$e^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe mantener la base e como resultado final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición de funciones inversas, $f(f^{-1}(x)) = x$. Como la función exponencial de base $e$ es la inversa del logaritmo natural, al aplicarlas una sobre otra, el efecto se anula y queda el número original.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v14",
+      "statement": "Expanda la siguiente expresión usando propiedades: $\\log_b(\\frac{x^2 y}{z^3})$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\log_b x + \\log_b y + 3\\log_b z$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos del denominador deben restarse, no sumarse."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\log_b x + \\log_b y - 3\\log_b z$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicamos suma para el producto del numerador y resta para el denominador, bajando los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(2x + y - 3z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede meter la suma y resta dentro de un solo logaritmo de esta forma."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2\\log_b x \\cdot \\log_b y}{3\\log_b z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió las propiedades convirtiendo los logaritmos en una fracción similar a la original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero aplicamos la propiedad del cociente (resta), luego la del producto (suma) y finalmente la de la potencia (bajar exponentes). El resultado muestra cómo una expresión compleja se descompone en términos lineales más sencillos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor de $\\log_{1/2}(8)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. (1/2) elevado a la 3 es 1/8, no 8."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Correcto. (1/2)^(-3) = (2)^3 = 8. Por lo tanto, el logaritmo es -3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el resultado de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. (1/2)^(-4) sería 16."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la base es menor que 1, el logaritmo de un número mayor que 1 será negativo. Buscamos el exponente de $1/2$ que nos de $8$. Como $8 = 2^3$ y $2 = (1/2)^{-1}$, entonces $8 = (1/2)^{-3}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v16",
+      "statement": "Simplifique a un solo logaritmo: $2\\log_b(x) - \\log_b(x^2 - 1)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(x^2 - x^2 + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar o restar los argumentos internos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(\\frac{x^2}{x^2 - 1})$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero subimos el 2 como exponente de x, luego aplicamos la propiedad del cociente por la resta."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2\\log_b(x)}{\\log_b(x^2 - 1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la resta de logaritmos con la fórmula de cambio de base."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_b(2x - x^2 + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores conceptuales en el uso de las propiedades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos las propiedades en sentido inverso para \"comprimir\" la expresión. El coeficiente $2$ pasa a ser exponente de $x$, y la resta de los dos logaritmos se convierte en el logaritmo de la división de sus argumentos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v17",
+      "statement": "Calcule el valor de $\\log_4(2)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 elevado a la 2 es 16, no 2."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. 4^(1/2) es la raíz cuadrada de 4, que es 2."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 elevado a la -2 es 1/16."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 elevado a la 0 es 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el exponente $y$ tal que $4^y = 2$. Como $2 = \\sqrt{4}$, y la raíz cuadrada se expresa como el exponente $1/2$, entonces $y = 1/2$. Este es un ejemplo de logaritmo donde el resultado es fraccionario.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v18",
+      "statement": "Si $\\log_b(2) = 0.30$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.78",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumó los logaritmos de 2 y 3, lo que daría log(6)."
+        },
+        {
+          "letter": "B",
+          "text": "1.08",
+          "is_correct": true,
+          "feedback": "Correcto. log(12) = log(2^2 * 3) = 2*log(2) + log(3) = 2(0.30) + 0.48 = 0.60 + 0.48 = 1.08."
+        },
+        {
+          "letter": "C",
+          "text": "0.18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una operación de resta sin sentido en este contexto."
+        },
+        {
+          "letter": "D",
+          "text": "0.144",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los valores de los logaritmos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Descomponemos el número 12 en factores cuyas logaritmos conocemos: $12 = 2^2 \\cdot 3$. Aplicamos las propiedades del producto y de la potencia para expresar $\\log(12)$ en términos de $\\log(2)$ y $\\log(3)$, y luego sustituimos los valores numéricos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v19",
+      "statement": "Simplifique la expresión: $\\log_2(3) \\cdot \\log_3(4) \\cdot \\log_4(8)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_2(15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar los argumentos al multiplicar logaritmos de diferentes bases."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Usando cambio de base: (ln 3 / ln 2) * (ln 4 / ln 3) * (ln 8 / ln 4). Se cancelan los ln 3 y ln 4, quedando ln 8 / ln 2, que es log2(8) = 3."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los términos se cancelan para dar 1."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_9(96)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una regla que permita combinar las bases y argumentos de esa forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al aplicar la fórmula de cambio de base a cada término, los numeradores de una fracción se cancelan con los denominadores de la siguiente (efecto cadena). La expresión se reduce drásticamente a un solo logaritmo fácil de calcular.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v20",
+      "statement": "¿A qué es equivalente la expresión $b^{\\log_a(c)}$ según las propiedades avanzadas de los logaritmos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c^{\\log_a(b)}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una identidad conocida: b elevado al log_a de c es igual a c elevado al log_a de b."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{\\log_b(c)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base de la potencia no puede intercambiarse por la base del logaritmo de esa manera."
+        },
+        {
+          "letter": "C",
+          "text": "$c \\cdot \\log_a(b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una multiplicación lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log_a(c^b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión con la propiedad de la potencia del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta identidad se demuestra aplicando logaritmos en cualquier base a ambos lados. Es muy útil en transformaciones algebraicas donde se requiere cambiar la base de una potencia que tiene un logaritmo en el exponente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

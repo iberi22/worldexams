@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-22-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.796Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v1",
+      "statement": "Dada la función constante $f(x) = 15$, determine su derivada $f'(x)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada representa el cambio, y una constante no cambia."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla fundamental, la derivada de cualquier constante es siempre cero."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de x es 1, no la de una constante."
+        },
+        {
+          "letter": "D",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de una constante no puede ser una variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada mide la razón de cambio de una función. Dado que una función constante no varía sin importar el valor de $x$, su razón de cambio (pendiente de la recta tangente) es nula en todos sus puntos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v2",
+      "statement": "Calcule la derivada de la función $f(x) = 7x$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es una función constante, es una función lineal."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de una función de la forma cx es simplemente el coeficiente c."
+        },
+        {
+          "letter": "C",
+          "text": "$7x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó aplicar la regla de la potencia (el grado de x disminuye en 1)."
+        },
+        {
+          "letter": "D",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 7 debe permanecer como resultado del proceso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una función lineal $f(x) = mx + b$, la derivada es la pendiente $m$. En este caso, al derivar $7x$, aplicamos la regla de la potencia: $1 \\cdot 7 \\cdot x^{1-1} = 7 \\cdot x^0 = 7$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v3",
+      "statement": "Aplique la regla de la potencia para encontrar la derivada de $f(x) = x^2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el exponente original."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que tras restar 1 al exponente, todavía queda x elevado a la 1."
+        },
+        {
+          "letter": "C",
+          "text": "$2x$",
+          "is_correct": true,
+          "feedback": "Correcto. Bajamos el exponente 2 a multiplicar y restamos 1 al exponente original: 2 * x^(2-1) = 2x."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no puede ser su propia derivada en este caso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla de la potencia establece que si $f(x) = x^n$, entonces $f'(x) = nx^{n-1}$. Para $x^2$, $n=2$, por lo que obtenemos $2x^1$, que se escribe simplemente como $2x$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v4",
+      "statement": "Determine la derivada de $f(x) = 4x^3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicamos el exponente 3 por el coeficiente 4 (3 * 4 = 12) y restamos 1 al exponente (3 - 1 = 2)."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar el coeficiente por el exponente original."
+        },
+        {
+          "letter": "C",
+          "text": "$12x^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar 1 al exponente de la variable."
+        },
+        {
+          "letter": "D",
+          "text": "$7x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el coeficiente y el exponente en lugar de multiplicarlos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al derivar un término de la forma $ax^n$, la derivada es $(a \\cdot n)x^{n-1}$. Aplicando esto a $4x^3$, tenemos $(4 \\cdot 3)x^{3-1} = 12x^2$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la derivada de la función polinómica $f(x) = 2x^4 - 5x^2 + 3x - 10$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^3 - 10x + 3 - 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de la constante -10 debe ser 0."
+        },
+        {
+          "letter": "B",
+          "text": "$8x^3 - 10x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivando término a término: d(2x^4)=8x^3, d(-5x^2)=-10x, d(3x)=3, d(-10)=0."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^3 - 5x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó los coeficientes por los exponentes originales."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^4 - 10x^2 + 3x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No restó 1 a ninguno de los exponentes de la variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada de una suma o resta de funciones es la suma o resta de sus derivadas. Aplicamos la regla de la potencia a cada término y la regla de la constante al último término.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v6",
+      "statement": "Utilice la regla del producto para encontrar la derivada de $f(x) = (x^2)(x + 1)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo derivó el primer factor y descartó el segundo."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error al aplicar la regla o al distribuir los términos."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 + 2x$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada = (2x)(x+1) + (x^2)(1) = 2x^2 + 2x + x^2 = 3x^2 + 2x."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicó correctamente la suma de los términos de la regla del producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla del producto dice: $(uv)' = u'v + uv'$. Aquí $u = x^2$ y $v = x + 1$. Entonces $f'(x) = (2x)(x+1) + (x^2)(1)$. Al simplificar la expresión algebraica resultante se obtiene $3x^2 + 2x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v7",
+      "statement": "Determine la derivada de $f(x) = \\frac{x}{x + 1}$ usando la regla del cociente.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{(x+1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó elevar al cuadrado el denominador en el resultado final."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{(x+1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada = [1(x+1) - x(1)] / (x+1)^2 = (x+1-x) / (x+1)^2 = 1/(x+1)^2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de un cociente no es simplemente el cociente de las derivadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2x+1}{(x+1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta del numerador de la regla del cociente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del cociente es: $(u/v)' = (u'v - uv') / v^2$. Designando $u=x$ y $v=x+1$, aplicamos la fórmula y simplificamos el numerador $x + 1 - x$, lo que nos deja un 1 sobre el denominador al cuadrado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v8",
+      "statement": "Determine la derivada de la función trigonométrica $f(x) = 3\\sin(x) + 2\\cos(x)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\cos(x) + 2\\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que la derivada del coseno es el seno negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\cos(x) - 2\\sin(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de sen(x) es cos(x) y la de cos(x) es -sen(x). Los coeficientes se mantienen."
+        },
+        {
+          "letter": "C",
+          "text": "$-3\\cos(x) + 2\\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambió los signos de forma errónea; la derivada del seno es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\sin(x) - 2\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió las reglas de derivación de las funciones trigonométricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las derivadas básicas de funciones trigonométricas son: $\\frac{d}{dx}\\sin(x) = \\cos(x)$ y $\\frac{d}{dx}\\cos(x) = -\\sin(x)$. Aplicando la linealidad de la derivada obtenemos $3\\cos(x) - 2\\sin(x)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de la función $f(x) = e^{5x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^{5x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta ignora la Regla de la Cadena."
+        },
+        {
+          "letter": "B",
+          "text": "$5e^{5x}$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivamos el exponente (5) y lo multiplicamos por la función exponencial original."
+        },
+        {
+          "letter": "C",
+          "text": "$5x e^{5x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó erróneamente la regla de la potencia a una base exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{5} e^{5x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en lugar de multiplicar por la derivada del exponente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según la Regla de la Cadena para funciones exponenciales, $\\frac{d}{dx}e^{u(x)} = e^{u(x)} \\cdot u'(x)$. Como la derivada de $5x$ es 5, el resultado es $5e^{5x}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v10",
+      "statement": "Calcule la derivada de $f(x) = \\ln(x^2)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento (regla de la cadena)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{x}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando regla de la cadena: (1/x^2) * (2x) = 2x/x^2 = 2/x. También se puede ver como d/dx[2 ln x] = 2/x."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la posición del coeficiente 2 durante la simplificación."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\ln(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la propiedad de los logaritmos con el proceso de derivación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada de $\\ln(u)$ es $u'/u$. Con $u=x^2$, tenemos $u'=2x$, por lo que $f'(x) = 2x/x^2 = 2/x$. Alternativamente, por propiedades de logaritmos $\\ln(x^2) = 2\\ln(x)$, cuya derivada es claramente $2(1/x) = 2/x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v11",
+      "statement": "Determine la derivada de $f(x) = \\sqrt{x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{\\sqrt{x}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el coeficiente 1/2 que proviene del exponente original."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2\\sqrt{x}}$",
+          "is_correct": true,
+          "feedback": "Correcto. x^(1/2) derivado es (1/2)x^(-1/2), lo cual es 1 / (2 * sqrt(x))."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el exponente en lugar de bajarlo y restarle 1 correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No manejó correctamente el exponente negativo resultante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para derivar una raíz, la expresamos como potencia: $x^{1/2}$. Al aplicar la regla de la potencia, el exponente baja a multiplicar $(1/2)$ y el nuevo exponente es $1/2 - 1 = -1/2$. Finalmente, reescribimos el exponente negativo y fraccionario como una raíz en el denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v12",
+      "statement": "Calcule la derivada de $f(x) = (3x^2 + 1)^4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4(3x^2 + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplicó la regla de la potencia exterior, olvidando la regla de la cadena para el interior."
+        },
+        {
+          "letter": "B",
+          "text": "$24x(3x^2 + 1)^3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando regla de la cadena: 4(3x^2+1)^3 * (6x) = 24x(3x^2+1)^3."
+        },
+        {
+          "letter": "C",
+          "text": "$12x(3x^2 + 1)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al multiplicar el exponente por la derivada interna y no restó 1 al exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$6x(3x^2 + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo incluyó la derivada de lo de adentro sin el factor 4 del exponente exterior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de la Cadena establece que $\\frac{d}{dx}[g(x)]^n = n[g(x)]^{n-1} \\cdot g'(x)$. Aquí $g(x) = 3x^2 + 1$ y $g'(x) = 6x$. Al multiplicar el 4 exterior por el $6x$ interno, obtenemos el coeficiente $24x$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la derivada de $f(x) = \\sin(x^3)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos(x^3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento x^3."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 \\sin(x^3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambió la derivada del seno por el mismo seno, el resultado debe ser coseno."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 \\cos(x^3)$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de sin(u) es cos(u) * u'. Como la derivada de x^3 es 3x^2, el resultado es 3x^2 cos(x^3)."
+        },
+        {
+          "letter": "D",
+          "text": "$-3x^2 \\cos(x^3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del seno es coseno positivo, no negativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se aplica la Regla de la Cadena: primero derivamos la función exterior (seno se convierte en coseno manteniendo el argumento) y luego multiplicamos por la derivada del argumento ($x^3$ se convierte en $3x^2$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v14",
+      "statement": "Determine la derivada de $f(x) = \\frac{1}{x^3}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{3x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivó el denominador por separado, lo cual es un error conceptual grave."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{3}{x^4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Reescribiendo como x^(-3), la derivada es -3x^(-4), que equivale a -3/x^4."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{x^4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el signo negativo que surge al bajar un exponente negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{x^4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó por el exponente original -3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para derivar funciones con $x$ en el denominador, es más sencillo expresarlas con exponentes negativos: $1/x^n = x^{-n}$. Al derivar, bajamos el $-n$ y el nuevo exponente es $-n-1$. Para $x^{-3}$, obtenemos $-3x^{-4} = -3/x^4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v15",
+      "statement": "Dada $f(x) = x^4 - 2x^2 + 5$, determine su segunda derivada $f''(x)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^3 - 4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la primera derivada, no la segunda."
+        },
+        {
+          "letter": "B",
+          "text": "$12x^2 - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Primera derivada f'(x) = 4x^3 - 4x. Derivando de nuevo: 12x^2 - 4."
+        },
+        {
+          "letter": "C",
+          "text": "$12x - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al derivar 4x^3; el exponente debe quedar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$12x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó derivar el término -4x de la primera derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda derivada es simplemente la derivada de la primera derivada. Realizamos el proceso de derivación dos veces consecutivas siguiendo las reglas básicas de la potencia y la suma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v16",
+      "statement": "Determine la derivada de $f(x) = \\ln(4x + 7)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{4x + 7}$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de ln(u) es u'/u. Aquí u = 4x+7 y u' = 4."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4x + 7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del argumento en el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4x}{4x + 7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de 4x es 4, no 4x."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\ln(4x + 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió derivación con una propiedad inexistente de logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La derivada del logaritmo natural de una función $u(x)$ es la derivada de esa función dividida entre la función original: $\\frac{d}{dx}\\ln(u) = \\frac{1}{u} \\cdot \\frac{du}{dx}$. Al ser $u=4x+7$, su derivada es 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v17",
+      "statement": "Utilice derivación implícita para encontrar $\\frac{dy}{dx}$ en la ecuación $x^2 + y^2 = 25$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$- \\frac{x^2}{y^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivación implícita no eleva los términos al cuadrado en el resultado final."
+        },
+        {
+          "letter": "B",
+          "text": "$- \\frac{x}{y}$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivando ambos lados: 2x + 2y(dy/dx) = 0. Despejando: dy/dx = -2x/2y = -x/y."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x}{y}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el signo negativo al despejar el término 2x al otro lado de la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 2y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no es una expresión para la derivada dy/dx."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la derivación implícita, derivamos cada término con respecto a $x$. Cuando derivamos un término con $y$, multiplicamos por $dy/dx$ (Regla de la Cadena). Luego, aislamos algebraicamente el término $dy/dx$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v18",
+      "statement": "Dada la función $f(x) = x^x$, determine su derivada $f'(x)$ mediante derivación logarítmica.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\cdot x^{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta asume que x es una constante en la base, lo cual es falso."
+        },
+        {
+          "letter": "B",
+          "text": "$x^x \\ln(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el término adicional que surge de la derivada de x dentro del producto."
+        },
+        {
+          "letter": "C",
+          "text": "$x^x (1 + \\ln(x))$",
+          "is_correct": true,
+          "feedback": "Correcto. Sea y = x^x, entonces ln y = x ln x. Derivando implícitamente: (1/y)y' = (1)(ln x) + x(1/x) = ln x + 1. Entonces y' = y(ln x + 1) = x^x(ln x + 1)."
+        },
+        {
+          "letter": "D",
+          "text": "$x^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función x^x no es su propia derivada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando tanto la base como el exponente son variables, se utiliza la derivación logarítmica. Al aplicar logaritmo natural, convertimos la potencia en un producto, el cual derivamos usando la regla correspondiente antes de volver a multiplicar por la función original.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v19",
+      "statement": "Si $f(x) = \\arctan(x)$, determine $f'(x)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sec^2(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de la tangente, no de la arcotangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{1 + x^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la derivada estándar de la función arcotangente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada del arcoseno."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{1 + x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo corresponde a la derivada de la arcocotangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las derivadas de las funciones trigonométricas inversas se obtienen mediante derivación implícita de sus funciones directas. Para la arcotangente, la fórmula resultante es una función racional simple sin raíces cuadradas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v20",
+      "statement": "Calcule la derivada de $f(x) = \\cos^2(e^{2x})$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-2\\cos(e^{2x})\\sin(e^{2x})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó derivar el exponente interior e^(2x)."
+        },
+        {
+          "letter": "B",
+          "text": "$-4e^{2x} \\cos(e^{2x}) \\sin(e^{2x})$",
+          "is_correct": true,
+          "feedback": "Correcto. f(x) = [cos(e^{2x})]^2. Derivada = 2cos(e^{2x}) * [-sin(e^{2x})] * e^{2x} * 2 = -4e^{2x} cos(e^{2x}) sin(e^{2x})."
+        },
+        {
+          "letter": "C",
+          "text": "$4e^{2x} \\sin^2(e^{2x})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la regla de la potencia y el signo de la derivada del coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$-2e^{2x} \\sin(e^{2x})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perdió la función coseno que queda al aplicar la regla de la potencia a cos^2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta función requiere aplicar la Regla de la Cadena tres veces: 1) para la potencia externa (el cuadrado), 2) para la función trigonométrica (el coseno) y 3) para la función exponencial interna ($e^{2x}$). El resultado es el producto de todas estas derivadas parciales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

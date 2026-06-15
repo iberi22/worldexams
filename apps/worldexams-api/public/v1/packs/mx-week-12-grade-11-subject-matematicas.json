@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-12-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.793Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define a un poliedro cuyas caras son todas polígonos regulares congruentes y en el cual el mismo número de caras concurre en cada vértice?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prisma regular",
+          "is_correct": false,
+          "feedback": "Un prisma tiene bases congruentes pero las caras laterales son paralelogramos, no necesariamente polígonos regulares iguales a las bases."
+        },
+        {
+          "letter": "B",
+          "text": "Pirámide regular",
+          "is_correct": false,
+          "feedback": "En una pirámide regular las caras laterales son triángulos isósceles, no necesariamente iguales a la base."
+        },
+        {
+          "letter": "C",
+          "text": "Sólido platónico",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición exacta de un sólido platónico o poliedro regular. Solo existen cinco."
+        },
+        {
+          "letter": "D",
+          "text": "Poliedro irregular",
+          "is_correct": false,
+          "feedback": "Un poliedro irregular no cumple con la congruencia de todas sus caras y ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sólidos platónicos son los únicos poliedros convexos cuyas caras son polígonos regulares idénticos y tienen el mismo orden de simetría en cada vértice. Existen exactamente cinco: tetraedro, hexaedro (cubo), octaedro, dodecaedro e icosaedro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se llama a la distancia perpendicular entre los planos que contienen las bases de un cilindro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio",
+          "is_correct": false,
+          "feedback": "El radio es la distancia del centro de la base a cualquier punto de su borde."
+        },
+        {
+          "letter": "B",
+          "text": "Diámetro",
+          "is_correct": false,
+          "feedback": "El diámetro es la cuerda más larga de la base circular."
+        },
+        {
+          "letter": "C",
+          "text": "Generatriz",
+          "is_correct": false,
+          "feedback": "La generatriz es el segmento que, al girar, forma la superficie lateral (en un cilindro recto coincide con la altura)."
+        },
+        {
+          "letter": "D",
+          "text": "Altura",
+          "is_correct": true,
+          "feedback": "Correcto. La altura es la distancia perpendicular entre las dos bases paralelas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En geometría espacial, la altura de un cuerpo con bases paralelas (como el cilindro o el prisma) se define como la medida del segmento perpendicular trazado desde un punto de una base al plano de la otra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v3",
+      "statement": "Si un prisma y una pirámide tienen la misma base y la misma altura, ¿cuántas veces cabe el volumen de la pirámide en el volumen del prisma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces",
+          "is_correct": false,
+          "feedback": "Esta relación aplicaría si la pirámide fuera un prisma inclinado bajo ciertas condiciones, pero no es la regla general."
+        },
+        {
+          "letter": "B",
+          "text": "3 veces",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen del prisma es Bh y el de la pirámide es (1/3)Bh. Por lo tanto, el prisma tiene el triple de volumen."
+        },
+        {
+          "letter": "C",
+          "text": "4 veces",
+          "is_correct": false,
+          "feedback": "Esta proporción no corresponde a la relación fundamental entre estos dos cuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la forma de la base",
+          "is_correct": false,
+          "feedback": "La relación 1/3 es constante para cualquier base, siempre que sea la misma para ambos cuerpos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula del volumen del prisma es $V = B \\cdot h$, mientras que la de la pirámide es $V = \\frac{1}{3} B \\cdot h$. Esto significa que, a igualdad de base ($B$) y altura ($h$), el prisma siempre tiene el triple de capacidad que la pirámide.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la fórmula para calcular el área total de la superficie de un cubo de arista $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = a^2$",
+          "is_correct": false,
+          "feedback": "Este es solo el área de una de las caras del cubo."
+        },
+        {
+          "letter": "B",
+          "text": "$A = 4a^2$",
+          "is_correct": false,
+          "feedback": "Este sería el área lateral si el cubo tuviera solo 4 caras laterales."
+        },
+        {
+          "letter": "C",
+          "text": "$A = 6a^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Un cubo tiene 6 caras cuadradas iguales, cada una con área a²."
+        },
+        {
+          "letter": "D",
+          "text": "$A = a^3$",
+          "is_correct": false,
+          "feedback": "Esta es la fórmula para el volumen, no para el área de la superficie."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un cubo es un poliedro regular compuesto por 6 caras cuadradas congruentes. Si la arista mide $a$, el área de cada cara es $a^2$. El área total de la superficie es la suma del área de las 6 caras, es decir, $6a^2$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v5",
+      "statement": "Si el tanque tiene un radio de 2 metros y una altura de 5 metros, ¿cuál es su capacidad de almacenamiento de agua aproximada en metros cúbicos? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$31.4\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Multiplicaste π por el radio y por la altura, pero olvidaste elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$62.8\\text{ m}^3$",
+          "is_correct": true,
+          "feedback": "Correcto. V = πr²h = 3.14 × (2)² × 5 = 3.14 × 4 × 5 = 3.14 × 20 = 62.8."
+        },
+        {
+          "letter": "C",
+          "text": "$125.6\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Elevaste al cuadrado el producto de r y h, o usaste el diámetro en lugar del radio."
+        },
+        {
+          "letter": "D",
+          "text": "$20\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Solo multiplicaste el área de la base sin considerar π o la altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cilindro se calcula con $V = \\pi r^2 h$. Sustituyendo los valores: $V = 3.14 \\cdot (2\\text{ m})^2 \\cdot 5\\text{ m} = 3.14 \\cdot 4 \\cdot 5 = 62.8\\text{ m}^3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v6",
+      "statement": "Si la base cuadrada mide 6 metros de lado y la altura de la pirámide es de 4 metros, ¿cuál es el volumen de la pirámide?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$144\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Este es el volumen de un prisma con esas dimensiones; olvidaste dividir entre tres."
+        },
+        {
+          "letter": "B",
+          "text": "$72\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Dividiste entre dos en lugar de tres."
+        },
+        {
+          "letter": "C",
+          "text": "$48\\text{ m}^3$",
+          "is_correct": true,
+          "feedback": "Correcto. V = (Área base × altura) / 3 = (6² × 4) / 3 = (36 × 4) / 3 = 144 / 3 = 48."
+        },
+        {
+          "letter": "D",
+          "text": "$24\\text{ m}^3$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo del área de la base o de la división final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de una pirámide es $V = \\frac{B \\cdot h}{3}$. El área de la base cuadrada es $6 \\cdot 6 = 36\\text{ m}^2$. Aplicando la fórmula: $V = \\frac{36 \\cdot 4}{3} = 12 \\cdot 4 = 48\\text{ m}^3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v7",
+      "statement": "Si el cono tiene un radio de 3 cm y una altura de 10 cm, ¿cuál es el volumen de helado que puede contener (considerando que se llena hasta el borde)? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$282.6\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Este es el volumen de un cilindro de las mismas dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "$94.2\\text{ cm}^3$",
+          "is_correct": true,
+          "feedback": "Correcto. V = (πr²h) / 3 = (3.14 × 3² × 10) / 3 = (3.14 × 9 × 10) / 3 = 3.14 × 30 = 94.2."
+        },
+        {
+          "letter": "C",
+          "text": "$31.4\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Dividiste el resultado correcto entre tres nuevamente o erraste al elevar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$90\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Omitiste el factor π en tu cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cono se obtiene mediante $V = \\frac{\\pi r^2 h}{3}$. Para $r=3$ y $h=10$: $V = \\frac{3.14 \\cdot (3)^2 \\cdot 10}{3} = \\frac{3.14 \\cdot 9 \\cdot 10}{3} = 3.14 \\cdot 3 \\cdot 10 = 94.2\\text{ cm}^3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v8",
+      "statement": "Si el radio de un balón es de 11 cm, ¿cuál es el área de su superficie exterior aproximada? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$151.9\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Usaste la fórmula de la circunferencia, no el área de la superficie esférica."
+        },
+        {
+          "letter": "B",
+          "text": "$1,519.76\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. A = 4πr² = 4 × 3.14 × (11)² = 12.56 × 121 = 1519.76."
+        },
+        {
+          "letter": "C",
+          "text": "$5,572.45\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Usaste la fórmula del volumen en lugar de la del área superficial."
+        },
+        {
+          "letter": "D",
+          "text": "$379.94\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar por 4 en la fórmula 4πr²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de la superficie de una esfera se calcula con la fórmula $A = 4 \\pi r^2$. Sustituyendo el radio de $11\\text{ cm}$: $A = 4 \\cdot 3.14 \\cdot (11)^2 = 12.56 \\cdot 121 = 1,519.76\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v9",
+      "statement": "Las dimensiones del baúl son 1.2 m de largo, 0.5 m de ancho y 0.6 m de alto. ¿Cuál es el área total de madera necesaria para construirlo (sin contar desperdicios)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.36\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es solo el volumen del baúl, no el área de su superficie."
+        },
+        {
+          "letter": "B",
+          "text": "$1.62\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Solo sumaste las áreas de tres caras diferentes sin multiplicarlas por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$3.24\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. A = 2(lw + lh + wh) = 2(1.2×0.5 + 1.2×0.6 + 0.5×0.6) = 2(0.6 + 0.72 + 0.3) = 2(1.62) = 3.24."
+        },
+        {
+          "letter": "D",
+          "text": "$2.3\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los productos parciales de las dimensiones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área total de un prisma rectangular es $A = 2(ab + bc + ac)$. Sustituyendo las medidas: $A = 2(1.2 \\cdot 0.5 + 1.2 \\cdot 0.6 + 0.5 \\cdot 0.6) = 2(0.6 + 0.72 + 0.3) = 2(1.62) = 3.24\\text{ m}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v10",
+      "statement": "En un poliedro convexo que tiene 12 caras y 20 vértices (como el dodecaedro), ¿cuántas aristas debe tener según la relación de Euler?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 aristas",
+          "is_correct": false,
+          "feedback": "Simplemente sumaste caras y vértices sin aplicar la constante del teorema."
+        },
+        {
+          "letter": "B",
+          "text": "30 aristas",
+          "is_correct": true,
+          "feedback": "Correcto. V - A + C = 2. Entonces 20 - A + 12 = 2; 32 - A = 2; A = 30."
+        },
+        {
+          "letter": "C",
+          "text": "28 aristas",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error en el despeje de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "10 aristas",
+          "is_correct": false,
+          "feedback": "Este número es insuficiente para conectar los vértices y caras dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de Euler para poliedros convexos establece que $V - A + C = 2$, donde $V$ es el número de vértices, $A$ el de aristas y $C$ el de caras. Despejando $A$: $A = V + C - 2$. Para $V=20$ y $C=12$: $A = 20 + 12 - 2 = 30$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v11",
+      "statement": "El radio de la base del cilindro y de la semiesfera es de 3 metros. La altura de la parte cilíndrica es de 10 metros. ¿Cuál es el área total de la superficie exterior (incluyendo la cúpula semiesférica pero no la base inferior que está en el suelo)? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$188.4\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Solo calculaste el área lateral del cilindro."
+        },
+        {
+          "letter": "B",
+          "text": "$244.92\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área lat cil = 2πrh = 2×3.14×3×10 = 188.4. Área semiesf = 2πr² = 2×3.14×3² = 56.52. Total = 188.4 + 56.52 = 244.92."
+        },
+        {
+          "letter": "C",
+          "text": "$301.44\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incluiste el área de la base o usaste el área de una esfera completa."
+        },
+        {
+          "letter": "D",
+          "text": "$452.16\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Error grave en la aplicación de las fórmulas de superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superficie exterior se compone del área lateral del cilindro ($2 \\pi rh$) y el área de la semiesfera ($2 \\pi r^2$). Entonces: $A = (2 \\cdot 3.14 \\cdot 3 \\cdot 10) + (2 \\cdot 3.14 \\cdot 3^2) = 188.4 + 56.52 = 244.92\\text{ m}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v12",
+      "statement": "Sin considerar pérdidas de material, ¿cuál es el número máximo de esferas completas que se pueden fabricar? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 esferas",
+          "is_correct": false,
+          "feedback": "Este sería el resultado si las esferas tuvieran radio de 1 cm, no de 0.5 cm."
+        },
+        {
+          "letter": "B",
+          "text": "15 esferas",
+          "is_correct": true,
+          "feedback": "Correcto. V cubo = 8 cm³. V esf = (4/3)πr³ = (4/3)×3.14×(0.125) ≈ 0.523. 8 / 0.523 ≈ 15.29. Máximo 15 esferas."
+        },
+        {
+          "letter": "C",
+          "text": "16 esferas",
+          "is_correct": false,
+          "feedback": "El volumen disponible no alcanza para completar la esfera número 16."
+        },
+        {
+          "letter": "D",
+          "text": "64 esferas",
+          "is_correct": false,
+          "feedback": "Error en el cálculo del volumen del cubo o de la esfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volumen del cubo: $2^3 = 8\\text{ cm}^3$. Volumen de una esfera: $\\frac{4}{3} \\pi (0.5)^3 \\approx \\frac{4}{3} \\cdot 3.14 \\cdot 0.125 \\approx 0.5233\\text{ cm}^3$. Número de esferas: $8 / 0.5233 \\approx 15.28$. Por lo tanto, se pueden fabricar máximo 15 esferas completas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v13",
+      "statement": "El tanque tiene un radio superior de 4 m y una altura de 12 m. Si el agua alcanza una altura de 6 m, ¿qué fracción del volumen total del tanque está ocupada por el agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "El volumen de un cono no es lineal respecto a la altura; depende del cubo de la razón de semejanza."
+        },
+        {
+          "letter": "B",
+          "text": "$1/4$",
+          "is_correct": false,
+          "feedback": "Esta sería la fracción del área de la sección transversal, no del volumen."
+        },
+        {
+          "letter": "C",
+          "text": "$1/8$",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza, si la altura es la mitad (1/2), el volumen es (1/2)³ = 1/8 del total."
+        },
+        {
+          "letter": "D",
+          "text": "$1/3$",
+          "is_correct": false,
+          "feedback": "Esta relación no corresponde a la variación volumétrica por escala."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al llenar un cono, la forma del agua es un cono semejante al original. La razón de semejanza $k$ es la razón de las alturas: $k = 6/12 = 1/2$. El volumen de cuerpos semejantes varía con el cubo de la razón: $V_{agua} = k^3 \\cdot V_{total} = (1/2)^3 \\cdot V_{total} = \\frac{1}{8} V_{total}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v14",
+      "statement": "¿Qué porcentaje del volumen de la caja queda vacío al introducir la esfera? (Usa $\\pi \\approx 3.14$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$33\\%$",
+          "is_correct": false,
+          "feedback": "Esta es la diferencia entre un cilindro y un cono inscritos, no entre un cubo y una esfera."
+        },
+        {
+          "letter": "B",
+          "text": "$47.7\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. V caja = (2R)³ = 8R³. V esf = (4/3)πR³. Proporción ocupada = (4.18/8) ≈ 0.523. Vacío = 1 - 0.523 = 0.477 o 47.7%."
+        },
+        {
+          "letter": "C",
+          "text": "$52.3\\%$",
+          "is_correct": false,
+          "feedback": "Este es el porcentaje ocupado por la esfera, no el volumen vacío."
+        },
+        {
+          "letter": "D",
+          "text": "$21.5\\%$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los volúmenes comparados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La caja mínima es un cubo de lado $L = 2R$. Su volumen es $V_c = (2R)^3 = 8R^3$. El volumen de la esfera es $V_e = \\frac{4}{3} \\pi R^3 \\approx 4.186 R^3$. El volumen vacío es $8R^3 - 4.186R^3 = 3.814 R^3$. El porcentaje es $(3.814 / 8) \\cdot 100 \\approx 47.7\\%$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v15",
+      "statement": "Si el radio del cilindro es $R$ y su altura es $H$, ¿cuál es el volumen del prisma hexagonal inscrito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3R^2H$",
+          "is_correct": false,
+          "feedback": "Esta expresión omite el factor raíz de 3 necesario para el área del hexágono."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{3}R^2H}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. El lado del hexágono inscrito es igual al radio R. El área base es (3√3R²)/2. El volumen es área base × H."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi R^2H$",
+          "is_correct": false,
+          "feedback": "Este es el volumen del cilindro original, no del prisma inscrito."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{3}R^2H$",
+          "is_correct": false,
+          "feedback": "Error en la fórmula del área del hexágono regular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un hexágono regular inscrito en un círculo de radio $R$, el lado del hexágono es $L = R$. El área del hexágono es $A = \\frac{3\\sqrt{3}L^2}{2} = \\frac{3\\sqrt{3}R^2}{2}$. Multiplicando por la altura $H$ del cilindro (y del prisma), obtenemos el volumen $V = \\frac{3\\sqrt{3}R^2H}{2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v16",
+      "statement": "Las bases son cuadrados de 10 cm y 6 cm de lado, y la altura del tronco de pirámide es de 9 cm. ¿Cuál es su volumen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$432\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Calculaste el volumen promedio de dos prismas rectos, lo cual es incorrecto para una pirámide truncada."
+        },
+        {
+          "letter": "B",
+          "text": "$588\\text{ cm}^3$",
+          "is_correct": true,
+          "feedback": "Correcto. V = (h/3)(B1 + B2 + √(B1B2)) = (9/3)(100 + 36 + √(3600)) = 3(136 + 60) = 3(196) = 588."
+        },
+        {
+          "letter": "C",
+          "text": "$720\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de la fórmula del tronco de pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "$504\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Error aritmético en la suma o el producto de la fórmula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un tronco de pirámide es $V = \\frac{h}{3}(B_1 + B_2 + \\sqrt{B_1 \\cdot B_2})$. Aquí $B_1 = 100$, $B_2 = 36$ y $h = 9$. Sustituyendo: $V = \\frac{9}{3}(100 + 36 + \\sqrt{3600}) = 3(136 + 60) = 3(196) = 588\\text{ cm}^3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la fórmula para calcular el volumen de un octaedro regular de arista $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = \\frac{a^3\\sqrt{2}}{6}$",
+          "is_correct": false,
+          "feedback": "Esta es la fórmula para el volumen de un tetraedro regular."
+        },
+        {
+          "letter": "B",
+          "text": "$V = \\frac{a^3\\sqrt{2}}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un octaedro se puede ver como dos pirámides de base cuadrada (lado a) unidas, cada una con altura (a√2)/2."
+        },
+        {
+          "letter": "C",
+          "text": "$V = a^3\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Esta expresión sobreestima significativamente el volumen."
+        },
+        {
+          "letter": "D",
+          "text": "$V = \\frac{a^3}{3}$",
+          "is_correct": false,
+          "feedback": "Esta fórmula ignora la geometría específica de las caras triangulares del octaedro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un octaedro regular puede dividirse en dos pirámides cuadrangulares iguales con base de área $a^2$ y altura $h = \\frac{a}{\\sqrt{2}}$. El volumen de una de estas pirámides es $\\frac{1}{3} a^2 \\frac{a}{\\sqrt{2}} = \\frac{a^3}{3\\sqrt{2}}$. Multiplicando por dos: $V = \\frac{2a^3}{3\\sqrt{2}} = \\frac{a^3\\sqrt{2}}{3}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v18",
+      "statement": "Si el volumen de una esfera aumenta en un factor de 8, ¿en qué factor aumentó su área superficial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Este es el factor en el que aumentó el radio, no el área superficial."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Si V aumenta por 8, r aumenta por ∛8 = 2. Como el área es proporcional a r², aumenta por 2² = 4."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "El área no aumenta en la misma proporción que el volumen."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "El factor de escala del área es el cuadrado del factor de escala lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sea $k$ el factor de escala lineal (radio). El volumen varía con $k^3$ y el área superficial con $k^2$. Si $k^3 = 8$, entonces $k = 2$. Por lo tanto, el área superficial aumenta en un factor de $k^2 = 2^2 = 4$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v19",
+      "statement": "Si el radio de la esfera es $R$ y la altura de la cúpula es $h$, ¿cuál es el área de la superficie curva de la cúpula (sin incluir la base plana)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi R^2$",
+          "is_correct": false,
+          "feedback": "Este es el área de un círculo máximo de la esfera."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi Rh$",
+          "is_correct": true,
+          "feedback": "Correcto. Según el Teorema de Arquímedes, el área de una zona esférica depende linealmente de su altura h y el radio de la esfera R."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi Rh$",
+          "is_correct": false,
+          "feedback": "Esta expresión omite el factor 2 necesario para la superficie esférica."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi R^2h$",
+          "is_correct": false,
+          "feedback": "Esta expresión tiene dimensiones de volumen, no de área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de la superficie de un segmento esférico (o zona esférica) es directamente proporcional a su altura $h$, siguiendo la fórmula $A = 2 \\pi Rh$. Sorprendentemente, es la misma área lateral que tendría un cilindro de radio $R$ y altura $h$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v20",
+      "statement": "Se tiene un cilindro circunscrito a una esfera de radio $R$ (el cilindro tiene radio $R$ y altura $2R$). ¿Cuál es la relación entre el volumen de la esfera y el volumen del cilindro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "Esta relación no describe correctamente la proporción entre estos dos volúmenes."
+        },
+        {
+          "letter": "B",
+          "text": "$2/3$",
+          "is_correct": true,
+          "feedback": "Correcto. V_esf = (4/3)πR³. V_cil = πR²(2R) = 2πR³. Relación = (4/3) / 2 = 2/3."
+        },
+        {
+          "letter": "C",
+          "text": "$3/4$",
+          "is_correct": false,
+          "feedback": "Esta proporción subestima la eficiencia del volumen de la esfera dentro del cilindro."
+        },
+        {
+          "letter": "D",
+          "text": "$1/3$",
+          "is_correct": false,
+          "feedback": "Esta es la relación entre el volumen de un cono y un cilindro de igual base y altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volumen de la esfera: $V_e = \\frac{4}{3} \\pi R^3$. Volumen del cilindro circunscrito: $V_c = \\text{Área base} \\cdot \\text{Altura} = (\\pi R^2)(2R) = 2 \\pi R^3$. La relación es $\\frac{V_e}{V_c} = \\frac{(4/3) \\pi R^3}{2 \\pi R^3} = \\frac{4/3}{2} = \\frac{2}{3}$. Este resultado fue uno de los logros favoritos de Arquímedes.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

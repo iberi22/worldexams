@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.768Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el objetivo principal de un texto descriptivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una historia de aventuras que sucedió en el bosque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es narrar."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar las características o rasgos de una persona, animal, objeto o lugar para que el receptor se haga una imagen mental.",
+          "is_correct": true,
+          "feedback": "Correcto. Describir es detallar las cualidades de algo o alguien."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a alguien de que el río Amazonas es el mejor lugar del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es argumentar."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar los pasos para construir una canoa de madera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción responde a la pregunta \"¿cómo es?\". Utiliza principalmente adjetivos y sustantivos para recrear la apariencia, el carácter o las propiedades de lo que se está describiendo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de descripción es esta según el objeto que se describe?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prosopografía, porque describe a una persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosopografía es física de personas."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya, porque describe el carácter de la fortaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etopeya es para rasgos morales o psicológicos de personas."
+        },
+        {
+          "letter": "C",
+          "text": "Topografía, porque describe detalladamente un lugar o paisaje.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción de lugares, ambientes o paisajes se denomina topografía."
+        },
+        {
+          "letter": "D",
+          "text": "Cronografía, porque habla del tiempo que ha pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cronografía describe una época o periodo de tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Existen nombres específicos para las descripciones según lo que se describa: Topografía (lugares), Prosopografía (físico de personas), Etopeya (carácter), Retrato (físico + carácter) y Objetografía (objetos).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de descripción es esta según la intención del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descripción objetiva o técnica, porque presenta los rasgos de forma precisa y real sin incluir sentimientos.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca informar con exactitud, es común en textos científicos y enciclopedias."
+        },
+        {
+          "letter": "B",
+          "text": "Descripción subjetiva o literaria, porque el autor está enamorado de las flores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es directo y factual, no usa metáforas ni emociones personales."
+        },
+        {
+          "letter": "C",
+          "text": "Caricatura, porque exagera los rasgos de la orquídea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración burlona en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Autorretrato, porque la flor se describe a sí misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador es externo y objetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción objetiva busca la precisión y la verdad. Se encuentra en manuales, noticias y libros escolares. Evita el uso de juicios de valor como \"hermosa\" o \"maravillosa\", prefiriendo datos como colores, medidas o formas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recursos literarios y tipos de descripción predominan en el texto de Sara?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo prosopografía porque habla de sus manos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También habla de su carácter (\"corazón tierno\", \"palabra sabia\")."
+        },
+        {
+          "letter": "B",
+          "text": "Solo etopeya porque habla de su sabiduría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las \"manos rugosas\" son un rasgo físico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un retrato subjetivo, porque combina rasgos físicos con rasgos morales usando un lenguaje afectuoso.",
+          "is_correct": true,
+          "feedback": "Correcto. El retrato es la suma de lo físico y lo psicológico. Es subjetivo porque incluye la visión emocional de Sara."
+        },
+        {
+          "letter": "D",
+          "text": "Es una caricatura porque dice que su sonrisa calma tormentas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metáfora positiva, no una burla exagerada propia de la caricatura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El retrato es la descripción más completa de una persona. Cuando el autor deja ver sus sentimientos u opiniones (descripción subjetiva), suele usar figuras retóricas como metáforas o comparaciones para embellecer el texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la categoría gramatical que más se utiliza en esta descripción y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los verbos, porque la bicicleta corre mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los verbos indican acción, no características estáticas."
+        },
+        {
+          "letter": "B",
+          "text": "Los sustantivos y adjetivos, porque nombran las partes y detallan sus cualidades técnicas.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción es estática y se apoya en el nombre del objeto y sus propiedades."
+        },
+        {
+          "letter": "C",
+          "text": "Las conjunciones, para unir todas las piezas de la bicicleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen función gramatical de unión, pero no describen."
+        },
+        {
+          "letter": "D",
+          "text": "Los adverbios de lugar, para saber dónde está guardada la bicicleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son el centro de una descripción de objeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En todo texto descriptivo, el adjetivo es el protagonista. Los adjetivos calificativos nos dicen cómo son las cosas, mientras que los sustantivos nos dicen qué son esas cosas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué busca lograr el autor con este tipo de descripción subjetiva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar la dirección exacta de la casa del hombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da datos geográficos."
+        },
+        {
+          "letter": "B",
+          "text": "Crear una atmósfera de misterio y grandeza alrededor del personaje, más allá de su apariencia real.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción literaria busca evocar sensaciones y construir la profundidad del personaje en la mente del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre el tipo de protector solar que usaba el hombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Piel curtida por los soles\" es una imagen poética, no un dato dermatológico."
+        },
+        {
+          "letter": "D",
+          "text": "Criticar al personaje por ser tan viejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es de admiración y respeto, no de crítica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción literaria (subjetiva) no busca la exactitud fotográfica, sino la impresión emocional. Usa la connotación (significados sugeridos) para que el lector sienta la importancia o el misterio del objeto o persona.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de los siguientes textos es una cronografía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El nevado del Ruiz es una montaña imponente cubierta de nieve eterna\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una topografía."
+        },
+        {
+          "letter": "B",
+          "text": "\"Mi hermano es alto, delgado y siempre está contando chistes\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un retrato."
+        },
+        {
+          "letter": "C",
+          "text": "\"Aquellos eran los años cincuenta en Colombia; las radios de tubos transmitían radionovelas y las calles olían a café recién tostado\".",
+          "is_correct": true,
+          "feedback": "Correcto. Describe cómo era un tiempo específico (los años 50) a través de sus rasgos característicos."
+        },
+        {
+          "letter": "D",
+          "text": "\"Para abrir la caja, gire la llave dos veces a la derecha y presione el botón rojo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto instructivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cronografía permite al lector viajar en el tiempo. Se describe el ambiente, las costumbres, la tecnología o el espíritu de una época pasada o incluso futura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v8",
+      "statement": "Si queremos hacer una caricatura de un hombre muy narizón, ¿cuál sería la frase más adecuada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El señor tiene una nariz de tamaño considerable en el centro de su cara\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción objetiva y respetuosa."
+        },
+        {
+          "letter": "B",
+          "text": "\"Su nariz es normal, como la de cualquier otra persona de su familia\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración ni deformación."
+        },
+        {
+          "letter": "C",
+          "text": "\"Érase un hombre a una nariz pegado; era una nariz superlativa, una nariz que parecía una pirámide de Egipto\".",
+          "is_correct": true,
+          "feedback": "Correcto. Esta famosa frase de Quevedo usa la exageración extrema (hipérbole) para burlarse del rasgo."
+        },
+        {
+          "letter": "D",
+          "text": "\"La nariz del hombre le sirve para respirar el aire puro de las montañas\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción funcional y neutra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La caricatura utiliza la hipérbole (exageración) como recurso principal. No busca la belleza, sino resaltar un defecto o rasgo característico de forma cómica o satírica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué es importante seguir un orden espacial al describir una habitación o una casa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la descripción sea más larga y ocupe más páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden busca claridad, no extensión."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el receptor pueda reconstruir la imagen mentalmente de forma organizada, como si recorriera el lugar con la mirada.",
+          "is_correct": true,
+          "feedback": "Correcto. Un orden lógico (ej. de la puerta al fondo) evita que la imagen mental sea caótica o confusa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así lo exigen las leyes de la arquitectura en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una regla de composición de textos, no una ley arquitectónica."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que el autor sabe dónde queda el norte y el sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden espacial no siempre depende de los puntos cardinales, sino de la perspectiva del observador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin un orden descriptivo, el lector se pierde. Describir es como guiar la cámara de cine: debemos decidir por dónde empezar y hacia dónde mover la mirada del lector para que \"vea\" lo que nosotros vemos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto produce la descripción dentro de una narración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelera la historia para que el final llegue más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la descripción suele pausar el ritmo de las acciones."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el lector olvide de qué trataba el cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si está bien hecha, refuerza el ambiente de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Detiene el tiempo narrativo para crear ambiente, dar verosimilitud y profundidad a la historia.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción es el \"decorado\" de la acción; sin ella, los personajes parecerían flotar en el vacío."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el narrador se quedó sin ideas para seguir contando la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso necesario para que la narración sea completa y rica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Narración y descripción son hermanas. La narración aporta el movimiento (tiempo) y la descripción aporta el escenario y los seres que lo habitan (espacio). El equilibrio entre ambas hace que un relato sea memorable.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

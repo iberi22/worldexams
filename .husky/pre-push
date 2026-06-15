@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+set -e
+
+if [ "$HUSKY" = "0" ] || [ "$WORLD_EXAMS_SKIP_HOOKS" = "1" ]; then
+  echo "WorldExams hooks skipped."
+  exit 0
+fi
+
+node scripts/husky-guard.mjs --changed

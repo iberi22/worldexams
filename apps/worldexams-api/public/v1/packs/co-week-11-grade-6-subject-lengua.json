@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-11-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.770Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la finalidad principal de un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una historia divertida sobre un celular perdido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es narrar."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar científicamente cómo funcionan las ondas de radio de los teléfonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es exponer."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer o persuadir al receptor sobre una idea o punto de vista mediante razones o argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. La argumentación busca ganar la adhesión del otro a nuestra opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Describir detalladamente los colores y modelos de los celulares modernos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es describir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Argumentar es defender una idea (tesis) aportando razones (argumentos) con el fin de que otros cambien su forma de pensar o actúen de cierta manera. Es una habilidad esencial para la democracia y la vida social.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v2",
+      "statement": "En la frase anterior, ¿cuál es la tesis que defiende la estudiante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la naturaleza es muy bonita para tomarse fotos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es la idea central que quiere proponer para el colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Que el colegio debería tener más zonas verdes.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la afirmación principal que el emisor defiende y quiere demostrar."
+        },
+        {
+          "letter": "C",
+          "text": "Que los estudiantes están muy estresados últimamente en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es parte de la justificación, no la propuesta principal."
+        },
+        {
+          "letter": "D",
+          "text": "Que la concentración es difícil de lograr en el salón de clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato de apoyo, pero no es la idea central defendida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es el \"qué\" se defiende. Es la columna vertebral del texto argumentativo. Debe ser una idea clara y debatible, es decir, algo sobre lo cual otras personas podrían tener opiniones diferentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de argumento se está utilizando al citar a la Organización Mundial de la Salud (OMS)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de experiencia personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no habla de lo que a él le pasó haciendo deporte."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad.",
+          "is_correct": true,
+          "feedback": "Correcto. Se utiliza el prestigio de una institución o experto reconocido para darle validez y fuerza a la opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de causa-efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una relación de salud, el énfasis está en \"quién\" lo dice."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento afectivo-emotivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se basa en datos médicos, no en sentimientos o compasión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento de autoridad es muy común y efectivo. Apoyarse en instituciones serias o expertos en el tema ayuda a que la tesis sea más difícil de refutar, ya que no es solo una \"opinión\" del autor, sino un hecho respaldado por el conocimiento científico o profesional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes sería un argumento basado en DATOS U OBJETIVOS para convencer a sus padres?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¡Por favor, papás, el perrito es muy lindo y tiene los ojos tristes!\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento emotivo que busca dar lástima."
+        },
+        {
+          "letter": "B",
+          "text": "\"Todos mis amigos del colegio tienen perro menos yo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento de comparación social, no necesariamente de peso para la responsabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "\"He investigado y tener una mascota ayuda a desarrollar la responsabilidad, ya que yo me encargaría de sus paseos y comida diariamente\".",
+          "is_correct": true,
+          "feedback": "Correcto. Es un argumento basado en beneficios comprobables y compromisos reales."
+        },
+        {
+          "letter": "D",
+          "text": "\"Si no me compran el perro, me voy a poner muy bravo y no voy a estudiar más\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no es un argumento, es una amenaza o chantaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena argumentación evita las falacias (falsos argumentos) y los chantajes emocionales. Basarse en hechos, beneficios y compromisos lógicos es la forma más madura de persuadir a los demás.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención de usar la cifra \"9 de cada 10\" en este mensaje publicitario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar exactamente cuántos odontólogos hay en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra es simbólica y con fines de venta."
+        },
+        {
+          "letter": "B",
+          "text": "Dar una sensación de respaldo mayoritario y científico para generar confianza en el comprador.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un argumento estadístico usado para validar la calidad del producto por mayoría de expertos."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el odontólogo número 10 es una persona muy difícil de convencer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el objetivo del mensaje comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar que la crema dental es muy barata porque muchos la recomiendan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recomendación habla de calidad, no de precio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad usa constantemente argumentos de autoridad y estadísticas. Aunque no siempre son datos científicos exactos, cumplen la función de persuadir al consumidor apelando a la seguridad que brinda la opinión de los \"especialistas\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se debe hacer normalmente en la parte de la CONCLUSIÓN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar por primera vez la tesis para que sea una sorpresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis debe aparecer desde el principio."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir muchos párrafos con información nueva que no se dijo antes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no es para añadir nuevos temas, sino para cerrar."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir las ideas principales y reafirmar la tesis después de haber presentado las pruebas.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el cierre que refuerza la posición del autor antes de terminar el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir disculpas por haber opinado sobre un tema tan difícil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor debe mostrar seguridad en su posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión es el \"broche de oro\". Su función es dejar una idea clara y contundente en la mente del lector, recordándole por qué los argumentos presentados anteriormente son válidos y demuestran la tesis inicial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de argumento es este?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de causa-efecto.",
+          "is_correct": true,
+          "feedback": "Correcto. Establece una conexión lógica entre una acción (comer grasa) y una consecuencia física (tapar arterias/obesidad)."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad, porque lo dice un médico famoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona a ninguna persona o institución experta."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de tradición, porque en Colombia siempre se ha comido arepa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema no es la tradición, sino la salud."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de mayoría, porque a todo el mundo le gustan las hamburguesas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la posición contraria y no es un argumento de salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos de causa-efecto son muy convincentes porque explican la razón lógica de las cosas. Ayudan al receptor a entender el \"por qué\" de una afirmación a través de procesos naturales o sociales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos conectores usarías para introducir un argumento que va en contra de la opinión mayoritaria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para añadir información similar."
+        },
+        {
+          "letter": "B",
+          "text": "En consecuencia...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para mostrar un resultado lógico."
+        },
+        {
+          "letter": "C",
+          "text": "No obstante...",
+          "is_correct": true,
+          "feedback": "Correcto. Es un conector de oposición o contraste, ideal para presentar contraargumentos o visiones diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Por ejemplo...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para ilustrar con un caso concreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores son las \"señales de tránsito\" de la argumentación. Guían al lector para saber si vamos a dar una razón a favor, un ejemplo, una consecuencia o si vamos a presentar un punto de vista opuesto para luego refutarlo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué la frase anterior NO se considera un buen argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la película en realidad es muy buena y ganó muchos premios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad de la película es subjetiva; el problema es la base de la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es una opinión subjetiva basada solo en el gusto personal (circular), sin ofrecer razones técnicas o lógicas que otros puedan analizar.",
+          "is_correct": true,
+          "feedback": "Correcto. Un argumento debe ir más allá del \"me gusta\" o \"no me gusta\". Debe dar motivos evaluables (guion, actuaciones, fotografía)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no usó emoticonos para expresar sus sentimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los emoticonos no convierten una opinión en un argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor no es un crítico de cine profesional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier persona puede argumentar, siempre y cuando dé razones válidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia fundamental es que el argumento es sustentable y racional. Decir que algo es malo \"porque sí\" o \"porque no me gusta\" es solo un juicio de gusto. Argumentar requiere analizar el objeto y encontrar motivos que otros puedan discutir racionalmente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v10",
+      "statement": "Si la tesis de alguien es: \"Los videojuegos deben prohibirse porque vuelven violentos a los niños\", ¿cuál sería un CONTRAARGUMENTO válido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A mí me gustan los videojuegos y juego todos los días\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gusto personal, no invalida la tesis de la violencia."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los videojuegos son caros en Colombia\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no tiene relación con el argumento de la violencia."
+        },
+        {
+          "letter": "C",
+          "text": "\"Muchos videojuegos educativos fomentan el pensamiento lógico y la coordinación; además, no hay estudios científicos definitivos que prueben una relación directa entre el juego y la violencia real\".",
+          "is_correct": true,
+          "feedback": "Correcto. Ataca la base del argumento contrario con otros beneficios y cuestionando la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "\"Usted no sabe nada de videojuegos porque ya está muy viejo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un ataque personal (*ad hominem*), no es un contraargumento válido sobre el tema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aprender a contraargumentar es vital para el pensamiento crítico. No se trata de atacar a la persona que habla, sino de encontrar las debilidades en su lógica o presentar información nueva que demuestre que su tesis no es totalmente cierta o tiene excepciones importantes.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

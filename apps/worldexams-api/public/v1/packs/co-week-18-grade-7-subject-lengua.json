@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.771Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes condiciones es indispensable para que un texto tenga coherencia global?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todas las oraciones terminen en punto y seguido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puntuación ayuda a la cohesión, pero no garantiza por sí sola el sentido global."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las ideas se relacionen con un mismo tema principal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La unidad temática es la base de la coherencia global."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto tenga exactamente tres párrafos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no determina su coherencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que use palabras difíciles para demostrar conocimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario complejo no asegura que el texto tenga sentido o esté bien organizado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia global se refiere al significado total del texto. Un texto es coherente cuando el lector puede identificar de qué trata (el tema) y cómo se conectan las partes para explicar ese tema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v2",
+      "statement": "En la frase: \"Fuimos a visitar el Castillo de San Felipe en Cartagena. **Allí** conocimos la historia de las fortificaciones\", ¿a qué palabra se refiere el término resaltado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las fortificaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fortificaciones son el objeto de lo que conocieron, no el lugar."
+        },
+        {
+          "letter": "B",
+          "text": "A Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el castillo está en Cartagena, \"allí\" se refiere específicamente al sitio mencionado justo antes."
+        },
+        {
+          "letter": "C",
+          "text": "Al Castillo de San Felipe.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Allí\" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento."
+        },
+        {
+          "letter": "D",
+          "text": "A la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia es un concepto abstracto, no un lugar físico al que pueda referirse \"allí\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anáfora es un mecanismo que consiste en el uso de palabras (pronombres, adverbios) que remiten a un elemento mencionado anteriormente, manteniendo el hilo conductor del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v3",
+      "statement": "¿En qué oración se ha aplicado correctamente la **elipsis** del sujeto para evitar la repetición innecesaria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan fue al mercado de Paloquemao. Juan compró frutas y Juan regresó a casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es repetitivo y no aplica elipsis."
+        },
+        {
+          "letter": "B",
+          "text": "Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la segunda oración se omite el sujeto \"Los jaguares\" porque el lector ya sabe de quién se habla."
+        },
+        {
+          "letter": "C",
+          "text": "El café colombiano es famoso. El café colombiano se exporta a todo el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repite innecesariamente el sujeto completo."
+        },
+        {
+          "letter": "D",
+          "text": "Mi mamá hizo arepas. Las arepas estaban deliciosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elipsis del sujeto en la segunda oración (el sujeto es \"las arepas\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elipsis permite que el texto sea más fluido y dinámico, confiando en la capacidad del lector para recuperar la información omitida a partir de lo dicho anteriormente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v4",
+      "statement": "Identifica el par de palabras que permite una sustitución léxica adecuada en un texto sobre la fauna colombiana:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perro - Gato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son sinónimos, son animales distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Cóndor - El ave emblemática.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se puede usar una frase sinónima (perífrasis) para referirse al mismo animal sin repetir su nombre."
+        },
+        {
+          "letter": "C",
+          "text": "Selva - Desierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos (lugares opuestos)."
+        },
+        {
+          "letter": "D",
+          "text": "Árbol - Silla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen una relación semántica de identidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sustitución no solo se hace con sinónimos simples, sino también con hipónimos, hiperónimos o expresiones equivalentes que aportan variedad al estilo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes secuencias de oraciones **carece** de coherencia lineal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volcán Nevado del Ruiz entró en actividad. Las autoridades ordenaron la evacuación inmediata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una relación lógica de causa y efecto."
+        },
+        {
+          "letter": "B",
+          "text": "Mañana es el examen final de biología. Por eso, pasaré la tarde repasando mis apuntes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una relación de finalidad y consecuencia lógica."
+        },
+        {
+          "letter": "C",
+          "text": "El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados.",
+          "is_correct": true,
+          "feedback": "¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza."
+        },
+        {
+          "letter": "D",
+          "text": "Gabriel García Márquez ganó el Premio Nobel en 1982. Su obra cumbre es Cien años de soledad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas oraciones hablan del mismo autor y sus logros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto coherente debe avanzar de forma lógica. Saltos temáticos bruscos sin conectores o explicaciones rompen la coherencia y confunden al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v6",
+      "statement": "Lee el siguiente fragmento: \"Para mejorar la convivencia escolar, debemos tomar varias medidas. **En primer lugar**, fomentar el diálogo. **Por otra parte**, establecer normas claras. **Finalmente**, involucrar a los padres de familia\".\n\n¿Qué tipo de progresión temática se observa gracias a estos marcadores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Progresión lineal, donde cada idea nueva surge de la anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí las ideas están al mismo nivel jerárquico como una lista."
+        },
+        {
+          "letter": "B",
+          "text": "Progresión de temas derivados, donde un tema general se desglosa en varios aspectos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos."
+        },
+        {
+          "letter": "C",
+          "text": "Progresión constante, donde se repite la misma información con diferentes palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada punto añade una medida distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Progresión circular, donde el texto termina exactamente donde empezó sin añadir nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto avanza hacia una conclusión tras enumerar medidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La progresión temática es la forma en que se dosifica la información nueva (rema) respecto a la información ya conocida (tema). Los marcadores de orden son fundamentales para los textos expositivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v7",
+      "statement": "En la oración: \"En la huerta sembramos lechugas, zanahorias y tomates; todas estas **hortalizas** crecieron sanas\", ¿qué función cumple la palabra resaltada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un sinónimo exacto de la palabra \"tomates\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hortaliza incluye al tomate, pero no es su sinónimo directo."
+        },
+        {
+          "letter": "B",
+          "text": "Es un hiperónimo que engloba a los elementos mencionados anteriormente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno."
+        },
+        {
+          "letter": "C",
+          "text": "Es un antónimo que sirve para contrastar los tipos de siembra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contraste, sino inclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Es un pronombre demostrativo que señala la ubicación de la huerta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Hortalizas\" es un sustantivo común, no un pronombre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hiperónimo es una palabra cuyo significado abarca al de otras más específicas (hipónimos). Usar hiperónimos ayuda a sintetizar y categorizar la información en el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes oraciones contiene una **catáfora**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camilo llegó tarde, él siempre pierde el bus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Él\" se refiere a Camilo (referencia anafórica, hacia atrás)."
+        },
+        {
+          "letter": "B",
+          "text": "Te diré solo **esto**: no vuelvas a mentirme.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pronombre \"esto\" anticipa la información que viene inmediatamente después (no vuelvas a mentirme)."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes entregaron sus trabajos a tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un elemento que anticipe o repita información de manera marcada."
+        },
+        {
+          "letter": "D",
+          "text": "Ayer llovió en Medellín, pero hoy hace sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una relación de contraste temporal sin mecanismos de referencia anticipada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La catáfora crea expectativa en el lector al presentar un pronombre o expresión cuyo sentido completo se revelará segundos después en la misma oración o párrafo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v9",
+      "statement": "Analiza el siguiente texto: \"Aunque no tenía dinero, decidió comprarse un carro de lujo. Por lo tanto, se quedó sin ahorros para pagar el arriendo de su casa en Bogotá\".\n\n¿Cómo evaluarías este texto desde la coherencia y la cohesión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene cohesión pero no tiene coherencia, porque los conectores están mal usados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores (\"aunque\", \"por lo tanto\") están bien usados para las relaciones que expresan."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene cohesión y tiene coherencia, pues aunque la acción sea imprudente, la relación lógica de causa-consecuencia es clara.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coherencia no depende de que el personaje sea sabio, sino de que las ideas se conecten lógicamente (gastar dinero sin tenerlo lleva a la quiebra)."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene ninguna de las dos propiedades, ya que es imposible comprar un carro sin dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto puede referirse a una deuda o crédito; la coherencia es interna al discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene coherencia global pero carece de cohesión local al no mencionar el nombre del protagonista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es obligatorio mencionar un nombre propio para que haya cohesión (se usa el sujeto tácito)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia evalúa la estructura del sentido. Si los hechos narrados se derivan lógicamente unos de otros dentro del universo del texto, hay coherencia. La cohesión es la red lingüística que sostiene esa lógica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v10",
+      "statement": "¿En qué punto se rompe la coherencia del siguiente argumento sobre la educación?\n\"Es fundamental invertir más presupuesto en las escuelas públicas del país para mejorar la calidad educativa. No obstante, el gobierno debería reducir los impuestos que financian la educación para no afectar a los empresarios, pues de todas formas el dinero no se necesita tanto si los profesores trabajan por vocación\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al mencionar que los empresarios pagan impuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un dato económico que puede ser parte de un argumento coherente."
+        },
+        {
+          "letter": "B",
+          "text": "Al sugerir que la calidad educativa depende del presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una premisa válida y común."
+        },
+        {
+          "letter": "C",
+          "text": "En la contradicción entre pedir más inversión y al mismo tiempo querer reducir su financiamiento, minimizando la necesidad del dinero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El argumento se anula a sí mismo al proponer dos acciones opuestas respecto al dinero de la educación."
+        },
+        {
+          "letter": "D",
+          "text": "Al usar el conector \"no obstante\" para introducir una idea diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector es adecuado para introducir un contraste, el problema es el fondo de la idea contrastada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La no-contradicción es un principio básico de la lógica y la coherencia. Un texto que afirma algo y luego lo niega sin una síntesis superior pierde su validez comunicativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

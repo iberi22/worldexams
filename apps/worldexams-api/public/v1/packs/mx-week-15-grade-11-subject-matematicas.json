@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.795Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v1",
+      "statement": "En un triángulo rectángulo, ¿cómo se define la razón trigonométrica \"Seno\" de un ángulo agudo $\\theta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateto opuesto / Hipotenusa",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, el seno es la razón entre el cateto que no toca al ángulo y la hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "Cateto adyacente / Hipotenusa",
+          "is_correct": false,
+          "feedback": "Esta es la definición del Coseno."
+        },
+        {
+          "letter": "C",
+          "text": "Cateto opuesto / Cateto adyacente",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la Tangente."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotenusa / Cateto opuesto",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la Cosecante, la recíproca del Seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las razones trigonométricas son cocientes entre los lados de un triángulo rectángulo. Para un ángulo $\\theta$, el seno ($\\operatorname{sen} \\theta$) relaciona el cateto opuesto ($CO$) con la hipotenusa ($H$): $\\operatorname{sen} \\theta = \\frac{CO}{H}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función trigonométrica recíproca del Coseno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cosecante",
+          "is_correct": false,
+          "feedback": "La cosecante es la recíproca del seno."
+        },
+        {
+          "letter": "B",
+          "text": "Secante",
+          "is_correct": true,
+          "feedback": "Correcto. La secante (sec) se define como 1/coseno, es decir, Hipotenusa / Cateto adyacente."
+        },
+        {
+          "letter": "C",
+          "text": "Cotangente",
+          "is_correct": false,
+          "feedback": "La cotangente es la recíproca de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "Seno",
+          "is_correct": false,
+          "feedback": "El seno y el coseno son funciones complementarias (co-funciones), no recíprocas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada una de las tres razones fundamentales (seno, coseno, tangente) tiene una función recíproca: $\\sec \\theta = \\frac{1}{\\cos \\theta}$, $\\csc \\theta = \\frac{1}{\\operatorname{sen} \\theta}$ y $\\cot \\theta = \\frac{1}{\\tan \\theta}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor del coseno del ángulo opuesto al cateto de 3 unidades?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/5$",
+          "is_correct": false,
+          "feedback": "Este es el seno del ángulo opuesto al cateto de 3, o el coseno del ángulo opuesto al cateto de 4."
+        },
+        {
+          "letter": "B",
+          "text": "$4/5$",
+          "is_correct": true,
+          "feedback": "Correcto. El cateto adyacente al ángulo opuesto al de 3 es el cateto de 4. Hipotenusa = 5. Cos = CA/H = 4/5."
+        },
+        {
+          "letter": "C",
+          "text": "$3/4$",
+          "is_correct": false,
+          "feedback": "Esta es la tangente del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$4/3$",
+          "is_correct": false,
+          "feedback": "Esta es la cotangente del ángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo $(3, 4, 5)$, para el ángulo $\\theta$ opuesto al lado 3: el cateto opuesto es $3$ y el cateto adyacente es $4$. La hipotenusa es $5$. Entonces, $\\cos \\theta = \\frac{CA}{H} = \\frac{4}{5}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor exacto de la tangente de $45^{\\circ}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la tangente de 0 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno de 30 grados."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. A 45 grados, los dos catetos son iguales, por lo que su razón (tangente) es 1."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la tangente de 60 grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo rectángulo isósceles (ángulos de $45^{\\circ}$), los catetos tienen la misma longitud $a$. La tangente es el cateto opuesto entre el adyacente: $\\tan(45^{\\circ}) = a/a = 1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v5",
+      "statement": "Si el ángulo de elevación es de $30^{\\circ}$ y el ingeniero se encuentra a 20 metros de la base, ¿cuál es la altura aproximada de la torre? (Considera $\\tan(30^{\\circ}) \\approx 0.577$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10.0\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Usaste seno en lugar de tangente o hiciste un redondeo excesivo."
+        },
+        {
+          "letter": "B",
+          "text": "$11.54\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. h = 20 × tan(30°) = 20 × 0.577 = 11.54."
+        },
+        {
+          "letter": "C",
+          "text": "$17.32\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Este resultado se obtiene usando la tangente de 60 grados o dividiendo incorrectamente."
+        },
+        {
+          "letter": "D",
+          "text": "$34.64\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La altura de la torre ($h$) y la distancia a la base ($20\\text{ m}$) forman los catetos de un triángulo rectángulo. Usamos la tangente: $\\tan(30^{\\circ}) = h / 20$. Despejando: $h = 20 \\cdot \\tan(30^{\\circ}) = 20 \\cdot 0.577 = 11.54\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v6",
+      "statement": "El faro tiene 40 metros de altura. Si el ángulo de depresión desde la cima del faro hacia el barco es de $20^{\\circ}$, ¿a qué distancia se encuentra el barco de la base del faro? (Considera $\\tan(20^{\\circ}) \\approx 0.364$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14.56\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Multiplicaste la altura por la tangente en lugar de dividir."
+        },
+        {
+          "letter": "B",
+          "text": "$109.89\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. d = 40 / tan(20°) = 40 / 0.364 ≈ 109.89."
+        },
+        {
+          "letter": "C",
+          "text": "$42.56\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Error en la elección de la razón trigonométrica o su aplicación."
+        },
+        {
+          "letter": "D",
+          "text": "$116.96\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Usaste el seno en lugar de la tangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el barco. La altura ($40\\text{ m}$) es el cateto opuesto y la distancia ($d$) es el cateto adyacente. $\\tan(20^{\\circ}) = 40 / d$, por lo tanto $d = 40 / \\tan(20^{\\circ}) = 40 / 0.364 \\approx 109.89\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del seno de $60^{\\circ}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno de 30 grados o el coseno de 60 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo notable de 30-60-90, el seno de 60 es el cateto mayor entre la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno y coseno de 45 grados."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno de 90 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo de $60^{\\circ}$ forma parte del triángulo equilátero dividido a la mitad. Sus lados están en proporción $1 : \\sqrt{3} : 2$. El seno es el cateto opuesto ($\\sqrt{3}$) entre la hipotenusa ($2$), es decir, $\\sqrt{3}/2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v8",
+      "statement": "Si el $\\operatorname{sen} \\theta = 0.6$ y $\\theta$ está en el primer cuadrante, ¿cuál es el valor del $\\cos \\theta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.4$",
+          "is_correct": false,
+          "feedback": "La suma de seno y coseno no es 1; la suma de sus cuadrados es 1."
+        },
+        {
+          "letter": "B",
+          "text": "$0.8$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la identidad pitagórica cos²θ = 1 - sen²θ = 1 - 0.36 = 0.64. √0.64 = 0.8."
+        },
+        {
+          "letter": "C",
+          "text": "$0.6$",
+          "is_correct": false,
+          "feedback": "Esto solo ocurriría a 45 grados, donde ambos valen √2/2."
+        },
+        {
+          "letter": "D",
+          "text": "$1.0$",
+          "is_correct": false,
+          "feedback": "Si el seno es 0.6, el coseno no puede ser 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la identidad fundamental $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$. Sustituyendo: $(0.6)^2 + \\cos^2 \\theta = 1 \\Rightarrow 0.36 + \\cos^2 \\theta = 1 \\Rightarrow \\cos^2 \\theta = 0.64$. Al estar en el primer cuadrante, el coseno es positivo: $\\cos \\theta = \\sqrt{0.64} = 0.8$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v9",
+      "statement": "La cercha es un triángulo rectángulo donde uno de los ángulos agudos mide $37^{\\circ}$ y la hipotenusa mide 10 metros. ¿Cuánto mide el cateto adyacente a dicho ángulo? (Considera $\\cos(37^{\\circ}) \\approx 0.8$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m",
+          "is_correct": false,
+          "feedback": "Este es el valor del cateto opuesto (10 × sen 37°)."
+        },
+        {
+          "letter": "B",
+          "text": "8 m",
+          "is_correct": true,
+          "feedback": "Correcto. CA = H × cos(θ) = 10 × 0.8 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "7.5 m",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "12.5 m",
+          "is_correct": false,
+          "feedback": "Dividiste en lugar de multiplicar; el cateto debe ser menor que la hipotenusa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relacionamos el cateto adyacente ($CA$) con la hipotenusa ($H$) mediante el coseno: $\\cos(37^{\\circ}) = CA / 10$. Despejando: $CA = 10 \\cdot \\cos(37^{\\circ}) = 10 \\cdot 0.8 = 8\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v10",
+      "statement": "¿A cuál de las siguientes expresiones es equivalente el $\\operatorname{sen}(25^{\\circ})$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\operatorname{sen}(65^{\\circ})$",
+          "is_correct": false,
+          "feedback": "El seno de un ángulo no es igual al seno de su complemento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(65^{\\circ})$",
+          "is_correct": true,
+          "feedback": "Correcto. El seno de un ángulo es igual al coseno de su ángulo complementario (90 - 25 = 65)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan(25^{\\circ})$",
+          "is_correct": false,
+          "feedback": "El seno y la tangente solo son similares para ángulos muy pequeños, pero no equivalentes."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\operatorname{sen}(25^{\\circ})$",
+          "is_correct": false,
+          "feedback": "Esto solo sería cierto si el ángulo fuera 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las \"co-funciones\" trigonométricas cumplen que la función de un ángulo es igual a la co-función de su complemento. Por lo tanto, $\\operatorname{sen}(\\theta) = \\cos(90^{\\circ} - \\theta)$. Para $\\theta = 25^{\\circ}$, el complemento es $65^{\\circ}$, así que $\\operatorname{sen}(25^{\\circ}) = \\cos(65^{\\circ})$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v11",
+      "statement": "Si el $\\cos \\theta = 5/13$ y $\\theta$ es un ángulo agudo, ¿cuál es el valor de la $\\csc \\theta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12/13$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$13/5$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la secante (recíproca del coseno)."
+        },
+        {
+          "letter": "C",
+          "text": "$13/12$",
+          "is_correct": true,
+          "feedback": "Correcto. CA=5, H=13 -> CO = √(13²-5²) = 12. Sen = 12/13, por lo que Csc = 13/12."
+        },
+        {
+          "letter": "D",
+          "text": "$5/12$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la cotangente del ángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero hallamos el cateto opuesto usando Pitágoras: $CO = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = 12$. La razón del seno es $CO/H = 12/13$. La cosecante es la recíproca del seno: $\\csc \\theta = 1 / \\operatorname{sen} \\theta = 13/12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v12",
+      "statement": "Simplifica la expresión: $(\\operatorname{sen} \\theta)(\\csc \\theta) + (\\cos \\theta)(\\sec \\theta)$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Solo consideraste uno de los productos recíprocos."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de recíprocas, sen×csc = 1 y cos×sec = 1. Entonces 1 + 1 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan \\theta$",
+          "is_correct": false,
+          "feedback": "La expresión no depende del valor del ángulo θ."
+        },
+        {
+          "letter": "D",
+          "text": "$\\operatorname{sen}^2 \\theta + \\cos^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Aunque esto es igual a 1, la expresión original suma 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones recíprocas cumplen que su producto es la unidad: $\\operatorname{sen} \\theta \\cdot \\csc \\theta = 1$ y $\\cos \\theta \\cdot \\sec \\theta = 1$. La expresión simplificada es $1 + 1 = 2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v13",
+      "statement": "La carretera sube 150 metros verticalmente por cada 1,000 metros de recorrido horizontal. ¿Cuál es el valor de la tangente del ángulo de inclinación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.5$",
+          "is_correct": false,
+          "feedback": "Error en la posición del punto decimal al dividir 150 entre 1000."
+        },
+        {
+          "letter": "B",
+          "text": "$0.15$",
+          "is_correct": true,
+          "feedback": "Correcto. La inclinación o pendiente es la razón entre el ascenso vertical y el avance horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$6.67$",
+          "is_correct": false,
+          "feedback": "Dividiste el avance horizontal entre el ascenso vertical (cotangente)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.148$",
+          "is_correct": false,
+          "feedback": "Este sería el valor del seno si los 1,000 metros fueran sobre la hipotenusa (la carretera misma)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo de inclinación $\\alpha$ tiene como cateto opuesto el ascenso vertical ($150\\text{ m}$) y como cateto adyacente el avance horizontal ($1,000\\text{ m}$). La tangente es $\\tan \\alpha = 150 / 1,000 = 0.15$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v14",
+      "statement": "En un círculo de radio 10 cm, se traza una cuerda que subtiende un ángulo central de $60^{\\circ}$. ¿Cuál es la longitud de la cuerda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este valor es la mitad de la cuerda para un ángulo de 30 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un triángulo con radio-radio y ángulo de 60° es equilátero, por lo que la cuerda mide igual que el radio."
+        },
+        {
+          "letter": "C",
+          "text": "$10\\sqrt{3}\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este sería el valor si el ángulo fuera de 120 grados."
+        },
+        {
+          "letter": "D",
+          "text": "$17.32\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al unir los extremos de la cuerda con el centro del círculo, se forma un triángulo isósceles con dos lados iguales al radio ($10\\text{ cm}$). Si el ángulo central es de $60^{\\circ}$, los otros dos ángulos también deben ser de $60^{\\circ}$ ($[180-60]/2 = 60$). El triángulo es equilátero, por lo que la cuerda mide $10\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes es una identidad trigonométrica válida derivada de $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 + \\cot^2 \\theta = \\sec^2 \\theta$",
+          "is_correct": false,
+          "feedback": "La cotangente se asocia con la cosecante, no con la secante."
+        },
+        {
+          "letter": "B",
+          "text": "$1 + \\tan^2 \\theta = \\sec^2 \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir toda la identidad original entre cos²θ se obtiene tan²θ + 1 = sec²θ."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan^2 \\theta - 1 = \\sec^2 \\theta$",
+          "is_correct": false,
+          "feedback": "El signo correcto es positivo para la unidad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\operatorname{sen}^2 \\theta - \\cos^2 \\theta = 1$",
+          "is_correct": false,
+          "feedback": "Esta no es una identidad estándar; el signo debe ser positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividiendo $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$ entre $\\cos^2 \\theta$ obtenemos: $\\frac{\\operatorname{sen}^2 \\theta}{\\cos^2 \\theta} + \\frac{\\cos^2 \\theta}{\\cos^2 \\theta} = \\frac{1}{\\cos^2 \\theta}$, lo cual simplifica a $\\tan^2 \\theta + 1 = \\sec^2 \\theta$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v16",
+      "statement": "Desde un punto $C$, se mide $AC = 100\\text{ m}$ y $BC = 100\\text{ m}$. Si el ángulo en $C$ es de $90^{\\circ}$, ¿cuál es la distancia $AB$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si el ángulo fuera de 60 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\sqrt{2} \\approx 141.4\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es un triángulo rectángulo isósceles. La hipotenusa es lado × √2."
+        },
+        {
+          "letter": "C",
+          "text": "$200\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Esta es la suma de los dos lados, no la distancia en línea recta."
+        },
+        {
+          "letter": "D",
+          "text": "$173.2\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Este valor correspondería si los lados fueran catetos de un triángulo de 30-60-90."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El problema describe un triángulo rectángulo isósceles con catetos de $100\\text{ m}$. Por Pitágoras o razones trigonométricas ($\\operatorname{sen} 45^{\\circ}$), la hipotenusa es $100\\sqrt{2} \\approx 141.4\\text{ metros}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v17",
+      "statement": "¿Para qué valores de $\\theta$ (en grados, para $0 \\le \\theta < 360$) la función $\\tan \\theta$ no está definida?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0^{\\circ}$ y $180^{\\circ}$",
+          "is_correct": false,
+          "feedback": "En estos puntos el seno es 0, por lo que la tangente es 0 (está definida)."
+        },
+        {
+          "letter": "B",
+          "text": "$90^{\\circ}$ y $270^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. En estos puntos el coseno es 0, y como tan = sen/cos, la división entre cero no está definida."
+        },
+        {
+          "letter": "C",
+          "text": "$45^{\\circ}$ y $225^{\\circ}$",
+          "is_correct": false,
+          "feedback": "En estos puntos la tangente vale 1."
+        },
+        {
+          "letter": "D",
+          "text": "$90^{\\circ}$ únicamente",
+          "is_correct": false,
+          "feedback": "También en 270 grados el coseno se anula, produciendo otra asíntota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente se define como $\\frac{\\operatorname{sen} \\theta}{\\cos \\theta}$. Esta función no está definida cuando el denominador es cero. En el intervalo $[0, 360)$, el coseno es cero en $90^{\\circ}$ y en $270^{\\circ}$. En estos puntos, la gráfica de la función presenta asíntotas verticales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor exacto del $\\cos(150^{\\circ})$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del seno de 150 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\sqrt{3}/2$",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo de referencia es 30°. Cos(150°) = -Cos(30°) = -√3/2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Olvidaste que el coseno es negativo en el segundo cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "$-1/2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del coseno de 120 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo $150^{\\circ}$ está en el segundo cuadrante. Su ángulo de referencia es $180^{\\circ} - 150^{\\circ} = 30^{\\circ}$. En el segundo cuadrante, el coseno es negativo. Por lo tanto, $\\cos(150^{\\circ}) = -\\cos(30^{\\circ}) = -\\sqrt{3}/2$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v19",
+      "statement": "Simplifica la expresión: $\\frac{1}{1 + \\operatorname{sen} \\theta} + \\frac{1}{1 - \\operatorname{sen} \\theta}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Esta simplificación solo sería correcta si el denominador fuera 1."
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\sec^2 \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar las fracciones queda (1-senθ + 1+senθ)/(1-sen²θ) = 2/cos²θ = 2 sec²θ."
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\csc^2 \\theta$",
+          "is_correct": false,
+          "feedback": "El denominador resultante es cos²θ, lo que lleva a la secante, no a la cosecante."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "La expresión no se simplifica a la unidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sumamos las fracciones buscando un denominador común: $\\frac{(1 - \\operatorname{sen} \\theta) + (1 + \\operatorname{sen} \\theta)}{(1 + \\operatorname{sen} \\theta)(1 - \\operatorname{sen} \\theta)} = \\frac{2}{1 - \\operatorname{sen}^2 \\theta}$. Usando la identidad pitagórica, el denominador es $\\cos^2 \\theta$. Así, la expresión es $\\frac{2}{\\cos^2 \\theta} = 2 \\sec^2 \\theta$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v20",
+      "statement": "En un triángulo $\\triangle ABC$, se conocen los lados $a = 8\\text{ cm}$, $b = 10\\text{ cm}$ y el ángulo comprendido $C = 30^{\\circ}$. ¿Cuál es el área del triángulo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar por el seno del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (1/2)ab sen C = (1/2)(8)(10) sen 30° = 40 × 0.5 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\sqrt{3}\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Usaste el coseno de 30 grados en lugar del seno."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de la fórmula o en el cálculo aritmético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un triángulo puede calcularse si se conocen dos lados y el ángulo entre ellos mediante la fórmula $A = \\frac{1}{2} ab \\operatorname{sen} C$. Sustituyendo: $A = \\frac{1}{2} (8) (10) \\operatorname{sen}(30^{\\circ}) = 40 \\cdot 0.5 = 20\\text{ cm}^2$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

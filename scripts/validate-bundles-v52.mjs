@@ -50,11 +50,11 @@ function questionBlocks(content) {
 }
 
 function optionRows(block) {
-  const re = /^- \[[ xX]\]\s*([A-D])\)\s*([^\n<]+)(?:\s*<!-- feedback:\s*([\s\S]*?)\s*-->)?/gm;
+  const re = /^- \[[ xX]\]\s*([A-D])\)\s*(.*)$/gm;
   return [...block.matchAll(re)].map((m) => ({
     letter: m[1],
-    text: m[2].trim().toLowerCase().replace(/\s+/g, ' '),
-    feedback: (m[3] || '').trim(),
+    text: m[2].replace(/\s*<!-- feedback:[\s\S]*?-->\s*$/, '').trim().toLowerCase().replace(/\s+/g, ' '),
+    feedback: (m[2].match(/<!-- feedback:\s*([\s\S]*?)\s*-->/)?.[1] || '').trim(),
   }));
 }
 

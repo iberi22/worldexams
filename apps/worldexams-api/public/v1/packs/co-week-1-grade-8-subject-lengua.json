@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-1-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.775Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fue el idioma predominante en el que se escribieron los textos cultos y religiosos durante gran parte de la Edad Media en Europa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Castellano antiguo",
+          "is_correct": false,
+          "feedback": "El castellano antiguo era una lengua vernácula usada para el pueblo, no la lengua oficial del culto."
+        },
+        {
+          "letter": "B",
+          "text": "Francés medieval",
+          "is_correct": false,
+          "feedback": "El francés medieval fue importante en la épica, pero no fue la lengua universal de la Iglesia y la academia."
+        },
+        {
+          "letter": "C",
+          "text": "Latín",
+          "is_correct": true,
+          "feedback": "El latín se mantuvo como la lengua de la cultura, la Iglesia y los documentos oficiales durante la Edad Media."
+        },
+        {
+          "letter": "D",
+          "text": "Griego clásico",
+          "is_correct": false,
+          "feedback": "Aunque influyente, el griego no fue la lengua predominante de la escritura culta en la Europa medieval occidental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante la Edad Media, el latín funcionó como la lengua franca de la intelectualidad y el clero, mientras que las lenguas romances (vernáculas) comenzaban a desarrollarse y usarse en la literatura popular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina a la visión del mundo que sitúa a Dios como el centro de todo el universo y explica todos los fenómenos a través de la religión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antropocentrismo",
+          "is_correct": false,
+          "feedback": "El antropocentrismo sitúa al hombre como centro, lo cual es característico del Renacimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Teocentrismo",
+          "is_correct": true,
+          "feedback": "El teocentrismo define la mentalidad medieval, donde Dios es el eje central de la existencia y la cultura."
+        },
+        {
+          "letter": "C",
+          "text": "Humanismo",
+          "is_correct": false,
+          "feedback": "El humanismo es una corriente renacentista que prioriza la razón y los valores humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Heliocentrismo",
+          "is_correct": false,
+          "feedback": "El heliocentrismo es una teoría astronómica sobre el Sol como centro del sistema solar, no una visión cultural general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teocentrismo es la característica fundamental del pensamiento medieval, influyendo en que la mayoría de la producción literaria tuviera un fin moralizante o religioso.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v3",
+      "statement": "¿Qué nombre recibían los artistas medievales que recorrían pueblos y castillos recitando poemas y cantares de gesta para entretener al público?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clérigos",
+          "is_correct": false,
+          "feedback": "Los clérigos pertenecían a la Iglesia y escribían textos cultos con intención didáctica."
+        },
+        {
+          "letter": "B",
+          "text": "Juglares",
+          "is_correct": true,
+          "feedback": "Los juglares eran poetas y músicos populares que transmitían la literatura de forma oral en plazas y cortes."
+        },
+        {
+          "letter": "C",
+          "text": "Copistas",
+          "is_correct": false,
+          "feedback": "Los copistas eran monjes encargados de transcribir libros a mano en los monasterios."
+        },
+        {
+          "letter": "D",
+          "text": "Trovadores",
+          "is_correct": false,
+          "feedback": "Aunque similares, los trovadores eran poetas cultos, a menudo nobles, que componían sus propias obras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El oficio de los juglares se conoce como \"mester de juglaría\", caracterizado por la oralidad, la métrica irregular y la difusión de hazañas heroicas ante un público mayoritariamente analfabeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál era la función primordial de la literatura producida por los clérigos (mester de clerecía) en comparación con la de los juglares?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener exclusivamente a la nobleza con historias de amor cortés.",
+          "is_correct": false,
+          "feedback": "Esa función era más propia de la lírica trovadoresca."
+        },
+        {
+          "letter": "B",
+          "text": "Instruir al pueblo en valores cristianos y morales mediante temas religiosos.",
+          "is_correct": true,
+          "feedback": "El mester de clerecía tenía una intención didáctica y moralizante muy marcada."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar de forma satírica las costumbres de la Iglesia y el sistema feudal.",
+          "is_correct": false,
+          "feedback": "Aunque hubo sátira, no era la función primordial del mester de clerecía."
+        },
+        {
+          "letter": "D",
+          "text": "Registrar de forma objetiva los hechos históricos de los reinados europeos.",
+          "is_correct": false,
+          "feedback": "Los textos solían mezclar leyenda y religión, no buscaban una objetividad histórica moderna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mester de clerecía utilizaba una forma métrica fija (cuaderna vía) y temas cultos o religiosos para educar al pueblo en la fe y la moral cristiana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v5",
+      "statement": "Si un autor medieval escribe una serie de cuentos donde un consejero ayuda a un joven noble dándole ejemplos morales, ¿a qué corriente literaria pertenece más probablemente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Épica heroica",
+          "is_correct": false,
+          "feedback": "La épica se centra en hazañas bélicas, no en consejos morales de un tutor."
+        },
+        {
+          "letter": "B",
+          "text": "Lírica tradicional",
+          "is_correct": false,
+          "feedback": "La lírica tradicional suele ser breve y centrada en sentimientos, no en relatos didácticos en prosa."
+        },
+        {
+          "letter": "C",
+          "text": "Prosa didáctica",
+          "is_correct": true,
+          "feedback": "La prosa didáctica busca enseñar lecciones prácticas y morales mediante cuentos o ejemplos."
+        },
+        {
+          "letter": "D",
+          "text": "Novela de caballería",
+          "is_correct": false,
+          "feedback": "Aunque protagonizada por nobles, la novela de caballería busca la aventura fantástica más que la enseñanza moral directa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La prosa didáctica, como en \"El Conde Lucanor\", utiliza la estructura del \"enxiemplo\" para transmitir enseñanzas prácticas sobre la vida y la política a la nobleza.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v6",
+      "statement": "¿Qué característica de los cantares de gesta sugiere que estaban diseñados para ser recitados ante un público y no para ser leídos individualmente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso exclusivo de la prosa para detallar las batallas.",
+          "is_correct": false,
+          "feedback": "Los cantares de gesta estaban escritos en verso, no en prosa."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de epítetos épicos y constantes llamadas de atención al oyente.",
+          "is_correct": true,
+          "feedback": "Estas fórmulas ayudaban al juglar a memorizar y a mantener el interés de la audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia completa de elementos fantásticos o religiosos.",
+          "is_correct": false,
+          "feedback": "Los cantares solían incluir intervenciones divinas o elementos heroicos exagerados."
+        },
+        {
+          "letter": "D",
+          "text": "La división del texto en capítulos cortos con títulos explicativos.",
+          "is_correct": false,
+          "feedback": "La división en capítulos es más común en la literatura escrita para lectura individual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fórmulas orales, como los epítetos (ej. \"el que en buena hora nació\" para el Cid), eran herramientas mnemotécnicas esenciales para la difusión juglaresca.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v7",
+      "statement": "Considerando el origen de las jarchas, ¿qué se puede inferir sobre la cultura en la Península Ibérica durante la Edad Media?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lengua árabe fue la única utilizada para la creación poética durante siglos.",
+          "is_correct": false,
+          "feedback": "Las jarchas demuestran la existencia de una lengua romance conviviendo con el árabe."
+        },
+        {
+          "letter": "B",
+          "text": "Los poetas cristianos rechazaban cualquier influencia estética de Al-Ándalus.",
+          "is_correct": false,
+          "feedback": "El hecho de que las jarchas se incluyeran en poemas cultos árabes indica intercambio cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Existía una convivencia y mezcla cultural entre árabes, judíos y cristianos.",
+          "is_correct": true,
+          "feedback": "Las jarchas son el testimonio literario de la convivencia de estas comunidades."
+        },
+        {
+          "letter": "D",
+          "text": "La literatura popular estaba prohibida por los gobernantes musulmanes.",
+          "is_correct": false,
+          "feedback": "Las jarchas son precisamente una muestra de lírica popular que fue preservada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las jarchas son fundamentales para entender el bilingüismo y la riqueza multicultural de la España medieval, siendo los testimonios más antiguos de la lengua romance.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v8",
+      "statement": "¿Qué elemento de \"La Celestina\" marca un alejamiento de la moralidad medieval rígida y un acercamiento al pensamiento renacentista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intervención de ángeles para salvar a los protagonistas al final.",
+          "is_correct": false,
+          "feedback": "En la obra no hay intervenciones divinas salvadoras, sino un desenlace trágico."
+        },
+        {
+          "letter": "B",
+          "text": "El protagonismo de la pasión individual y el interés material por encima de la fe.",
+          "is_correct": true,
+          "feedback": "Los personajes actúan movidos por el deseo y la codicia, reflejando un mundo menos teocéntrico."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de un lenguaje exclusivamente culto y solemne en todos los personajes.",
+          "is_correct": false,
+          "feedback": "La obra mezcla magistralmente el lenguaje culto con el habla popular de los criados."
+        },
+        {
+          "letter": "D",
+          "text": "La idealización del amor como una fuerza puramente espiritual y platónica.",
+          "is_correct": false,
+          "feedback": "El amor en la obra es presentado con un fuerte componente físico y destructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"La Celestina\" es considerada una obra de transición (Prerrenacimiento) porque rompe con la intención moralizante directa y presenta personajes complejos y movidos por intereses terrenales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto buscaba el autor al presentar a la Virgen María de forma cercana y maternal en sus relatos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desacreditar la autoridad de los sacerdotes en los pueblos.",
+          "is_correct": false,
+          "feedback": "Berceo era clérigo y buscaba fortalecer la fe institucional, no debilitarla."
+        },
+        {
+          "letter": "B",
+          "text": "Fomentar la devoción popular mediante una figura divina misericordiosa y accesible.",
+          "is_correct": true,
+          "feedback": "Al humanizar a la Virgen, se facilitaba la identificación del pueblo con la doctrina."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar de forma satírica las excesivas riquezas de las catedrales medievales.",
+          "is_correct": false,
+          "feedback": "El texto se centra en la fe y los milagros, no en la crítica económica de la Iglesia."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el uso de la magia y la hechicería entre los campesinos.",
+          "is_correct": false,
+          "feedback": "Los milagros se presentan como obra divina, opuesta a la hechicería."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Berceo, como parte del mester de clerecía, utiliza un lenguaje sencillo y figuras amables para acercar la teología a un público iletrado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mensaje socio-político implícito en el tema medieval de la \"omnipotencia de la muerte\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de aumentar los impuestos para combatir las pestes.",
+          "is_correct": false,
+          "feedback": "El tema es filosófico y moral, no una propuesta fiscal."
+        },
+        {
+          "letter": "B",
+          "text": "La igualdad esencial de todos los seres humanos ante el destino final, sin importar su rango social.",
+          "is_correct": true,
+          "feedback": "La muerte iguala a reyes, clérigos y campesinos, funcionando como una crítica a la vanidad social."
+        },
+        {
+          "letter": "C",
+          "text": "La superioridad de los guerreros sobre los monjes en tiempos de crisis.",
+          "is_correct": false,
+          "feedback": "La muerte no distingue entre profesiones, a todos los alcanza por igual."
+        },
+        {
+          "letter": "D",
+          "text": "El anuncio del fin del mundo y el juicio final inminente para todos.",
+          "is_correct": false,
+          "feedback": "Aunque relacionado, el foco de la danza es la igualdad ante el hecho de morir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las Danzas de la Muerte reflejan el sentimiento de inseguridad de la Baja Edad Media (pestes, guerras) y sirven como un recordatorio de la humildad y la fugacidad de la vida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v11",
+      "statement": "Desde una perspectiva crítica actual, ¿cómo se podría interpretar la relación entre el sistema feudal y la estructura del \"amor cortés\" en la literatura medieval?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El amor cortés era una rebelión contra el sistema de vasallaje feudal.",
+          "is_correct": false,
+          "feedback": "No era una rebelión, sino una imitación de la estructura social en el ámbito afectivo."
+        },
+        {
+          "letter": "B",
+          "text": "La literatura trasladó la jerarquía de poder del señor y el vasallo a la relación entre la dama y el poeta.",
+          "is_correct": true,
+          "feedback": "El poeta utiliza terminología feudal (señora, vasallo) para expresar su sumisión amorosa."
+        },
+        {
+          "letter": "C",
+          "text": "El amor cortés eliminó las diferencias de clase social entre los amantes literarios.",
+          "is_correct": false,
+          "feedback": "Por el contrario, enfatizaba la nobleza y la distancia social insuperable."
+        },
+        {
+          "letter": "D",
+          "text": "Fue un movimiento que buscaba la igualdad de derechos políticos para las mujeres.",
+          "is_correct": false,
+          "feedback": "Aunque la dama era \"soberana\" en el poema, esto no se traducía en derechos políticos reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El amor cortés es una transposición literaria del feudalismo, donde la ética del servicio y la lealtad al señor se aplica al sentimiento amoroso.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la función pedagógica de la ambigüedad en el \"Libro de Buen Amor\", donde se advierte contra el amor \"loco\" (terrenal) pero se describe detalladamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir al lector para que no pueda distinguir el bien del mal.",
+          "is_correct": false,
+          "feedback": "El autor declara una intención didáctica, no busca la confusión por sí misma."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar la realidad humana con sus contradicciones, dejando al lector la responsabilidad de la interpretación moral.",
+          "is_correct": true,
+          "feedback": "El Arcipreste invita al lector a \"entender\" bien el libro, reconociendo la naturaleza falible del hombre."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el latín es incapaz de expresar sentimientos profanos.",
+          "is_correct": false,
+          "feedback": "La obra está escrita mayoritariamente en castellano y expresa perfectamente lo profano."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplir formalmente con la censura de la Iglesia mientras se escribe literatura erótica oculta.",
+          "is_correct": false,
+          "feedback": "Más que ocultamiento, hay una tensión vital característica de la crisis de la Baja Edad Media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ambigüedad del \"Libro de Buen Amor\" refleja la transición hacia una visión más vitalista y menos dogmática de la existencia, típica del final de la Edad Media.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

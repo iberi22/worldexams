@@ -4,727 +4,807 @@
     "subject": "matematicas",
     "country": "mx",
     "pack_id": "mx-week-1-grade-11-subject-matematicas",
-    "generated_at": "2026-06-01T17:05:46.762Z"
+    "generated_at": "2026-06-15T00:00:21.786Z"
   },
   "questions": [
     {
-      "id": "MX-MAT-11-P1-algebra-001-v1",
-      "statement": "¿Cuál es el resultado de simplificar $7^2 \\cdot 7^3$?",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v1",
+      "statement": "¿A qué conjunto numérico pertenece el número √25?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "$7^1$ <!-- feedback: Incorrecto. Al multiplicar potencias de igual base los exponentes se suman, no se restan: $7^{2+3} = 7^5$. -->",
-          "is_correct": false
+          "text": "Enteros",
+          "is_correct": true,
+          "feedback": "√25 = 5, el cual es un número entero."
         },
         {
           "letter": "B",
-          "text": "$7^6$ <!-- feedback: Incorrecto. $7^2 \\cdot 7^3 = 7^{2+3} = 7^5$, no $7^6$. -->",
-          "is_correct": false
+          "text": "Irracionales",
+          "is_correct": false,
+          "feedback": "√25 es exacto (5), no es un decimal infinito no periódico."
         },
         {
           "letter": "C",
-          "text": "$7^5$ <!-- feedback: Correcto. Por la ley del producto de potencias con la misma base, se suman los exponentes: 2 + 3 = 5. -->",
-          "is_correct": true
+          "text": "Imaginarios",
+          "is_correct": false,
+          "feedback": "El resultado es un número real positivo."
         },
         {
           "letter": "D",
-          "text": "$14^5$ <!-- feedback: Incorrecto. Las bases no se multiplican, solo se suman los exponentes. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de la ley fundamental del producto de potencias con la misma base.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v2",
-      "statement": "Guadalupe compró $x$ kilos de aguacate en el mercado de la Merced. Si cada kilo cuesta 35 pesos, ¿cuál expresión representa el costo total?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$35 + x$ <!-- feedback: Incorrecto. El costo es multiplicativo, no aditivo. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "$35x$ <!-- feedback: Correcto. Costo = precio por kilo × número de kilos = 35x. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "$x - 35$ <!-- feedback: Incorrecto. Representaría una diferencia, no un costo total. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "$\\frac{35}{x}$ <!-- feedback: Incorrecto. Representaría precio entre kilos, no el costo total. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nTraducción de una situación de compra en el mercado a una expresión algebraica lineal.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v3",
-      "statement": "En un puesto de tacos, el costo de $t$ tacos al pastor es de $9t$ pesos. Si pagaste 117 pesos, ¿cuántos tacos compraste?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "10 <!-- feedback: Incorrecto. 9 * 10 = 90. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "9 <!-- feedback: Incorrecto. 9 * 9 = 81. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "13 <!-- feedback: Correcto. 9t = 117 => t = 117/9 = 13. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "15 <!-- feedback: Incorrecto. 9 * 15 = 135. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nResolución de una ecuación lineal simple aplicada a una transacción cotidiana en la calle.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v4",
-      "statement": "Desarrolla el binomio $(x + 5)^2$.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x^2 + 25$ <!-- feedback: Incorrecto. Olvidó el término del doble producto. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "$x^2 + 10x + 25$ <!-- feedback: Correcto. $(x+5)^2 = x^2 + 2(x)(5) + 5^2 = x^2 + 10x + 25$. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "$x^2 + 5x + 25$ <!-- feedback: Incorrecto. El doble producto debe ser 2(x)(5) = 10x. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "$2x + 25$ <!-- feedback: Incorrecto. Olvidó elevar al cuadrado el primer término. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nDesarrollo de binomios al cuadrado aplicando la regla del trinomio cuadrado perfecto.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v5",
-      "statement": "\"Un número más el doble de sí mismo es igual a 18\". ¿Cuál ecuación representa esta frase?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$x + 2 = 18$ <!-- feedback: Incorrecto. \"Doble de sí mismo\" es 2x, no +2. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "$2x = 18$ <!-- feedback: Incorrecto. Falta sumar x. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "$x + 2x = 18$ <!-- feedback: Correcto. Un número (x) más el doble de sí mismo (2x) suman 18. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "$x + x^2 = 18$ <!-- feedback: Incorrecto. Confundió el doble con el cuadrado. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nConversión de lenguaje verbal a lenguaje algebraico, distinguiendo entre \"el doble\" y \"el cuadrado\".\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v6",
-      "statement": "Factoriza la expresión $x^2 - 16$.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$(x - 4)^2$ <!-- feedback: Incorrecto. Eso daría $x^2 - 8x + 16$. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "$(x + 4)(x + 4)$ <!-- feedback: Incorrecto. Eso daría $(x+4)^2 = x^2 + 8x + 16$. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "$(x - 4)(x + 4)$ <!-- feedback: Correcto. Diferencia de cuadrados: $x^2 - 4^2 = (x-4)(x+4)$. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "$(x - 8)(x + 8)$ <!-- feedback: Incorrecto. Eso daría $x^2 - 64$. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de la identidad notable de diferencia de cuadrados para factorización.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v7",
-      "statement": "Por un viaje en taxi de la CDMX, la tarifa base es de 8.74 pesos y cada kilómetro cuesta 9.06 pesos más IVA. Ignacio pagó 135.22 pesos. Si la ecuación es $8.74 + 9.06d = 135.22$, ¿cuántos kilómetros recorrió?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "10 km <!-- feedback: Incorrecto. 8.74 + 90.6 = 99.34. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "14 km <!-- feedback: Correcto. 9.06d = 135.22 - 8.74 = 126.48 => d = 126.48/9.06 = 14. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "12 km <!-- feedback: Incorrecto. 8.74 + 108.72 = 117.46. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "15 km <!-- feedback: Incorrecto. 8.74 + 135.9 = 144.64. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nModelado y resolución de una ecuación lineal a partir del sistema de tarifas de taxi en la CDMX.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v8",
-      "statement": "Factoriza el trinomio $x^2 - 5x + 6$.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$(x - 6)(x + 1)$ <!-- feedback: Incorrecto. -6 + 1 = -5 pero -6 * 1 = -6, no +6. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "$(x - 1)(x - 6)$ <!-- feedback: Incorrecto. -1 * -6 = 6, pero -1 + (-6) = -7. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "$(x - 2)(x - 3)$ <!-- feedback: Correcto. -2 + (-3) = -5 y (-2)(-3) = 6. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "$(x + 2)(x + 3)$ <!-- feedback: Incorrecto. 2 + 3 = 5, no -5. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nFactorización de trinomios de la forma $x^2 + bx + c$ buscando dos números que sumados den b y multiplicados den c.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v9",
-      "statement": "En un tianguis de Guadalajara, 3 camisas y 2 pantalones cuestan 950 pesos. Una camisa cuesta el doble que un pantalón. ¿Cuánto cuesta cada pantalón?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "100 pesos <!-- feedback: Incorrecto. 3(200) + 2(100) = 800. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "118.75 pesos <!-- feedback: Correcto. Pantalón = p, camisa = 2p. 3(2p) + 2p = 950 => 6p + 2p = 950 => 8p = 950 => p = 118.75. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "150 pesos <!-- feedback: Incorrecto. 3(300) + 2(150) = 1200. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "200 pesos <!-- feedback: Incorrecto. 3(400) + 2(200) = 1600. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nPlanteamiento y resolución de un sistema de ecuaciones lineales 2x2 con una relación de proporcionalidad.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v10",
-      "statement": "¿Cuáles son las soluciones de $x^2 - 9x = 0$?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "x = 9 solamente. <!-- feedback: Incorrecto. Falta la solución x = 0. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "x = 3, x = -3 <!-- feedback: Incorrecto. Esa es la solución de $x^2 - 9 = 0$. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "x = 0, x = 9 <!-- feedback: Correcto. $x(x - 9) = 0$, entonces $x = 0$ o $x = 9$. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "x = -9, x = 0 <!-- feedback: Incorrecto. x(x-9)=0 => x=0 o x=9, no -9. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nResolución de ecuaciones cuadráticas incompletas por factor común.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v11",
-      "statement": "Si $f(x) = 3x - 7$, calcula $f(5)$.",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "8 <!-- feedback: Correcto. 3(5) - 7 = 15 - 7 = 8. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "22 <!-- feedback: Incorrecto. Sumó en lugar de restar. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "2 <!-- feedback: Incorrecto. 3 + 5 - 7 = 1. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "12 <!-- feedback: Incorrecto. 3(5) = 15, olvidó restar 7. -->",
-          "is_correct": false
+          "text": "Fraccionarios propios",
+          "is_correct": false,
+          "feedback": "5 es un número entero, no una fracción menor a la unidad."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nEvaluación de funciones lineales mediante sustitución de valores.\n\n---",
-      "difficulty": "8",
+      "explanation": "El número √25 es igual a 5. Los números enteros (Z) incluyen a los números naturales, sus opuestos y el cero. Dado que 5 no tiene decimales y es un valor exacto, se clasifica como entero (y también como natural y racional).\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-P1-algebra-001-v12",
-      "statement": "Calcula $\\log_2 32$.",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v2",
+      "statement": "Si un producto pesa 0.75 kg, ¿cuál es su representación en forma de fracción simplificada?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "16 <!-- feedback: Incorrecto. Dividió la base por el argumento. -->",
-          "is_correct": false
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "1/4 equivale a 0.25, no a 0.75."
         },
         {
           "letter": "B",
-          "text": "4 <!-- feedback: Incorrecto. 2^4 = 16. -->",
-          "is_correct": false
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "1/2 equivale a 0.50, no a 0.75."
         },
         {
           "letter": "C",
-          "text": "5 <!-- feedback: Correcto. $2^5 = 32$, por lo tanto $\\log_2 32 = 5$. -->",
-          "is_correct": true
+          "text": "3/4",
+          "is_correct": true,
+          "feedback": "0.75 es igual a 75/100, que simplificado es 3/4."
         },
         {
           "letter": "D",
-          "text": "64 <!-- feedback: Incorrecto. Multiplicó base y argumento. -->",
-          "is_correct": false
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "4/3 es una fracción impropia mayor a 1 (1.33...)."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de la definición de logaritmo como exponente al que hay que elevar la base.\n\n---",
-      "difficulty": "8",
+      "explanation": "Para convertir un decimal exacto a fracción, se escribe el número sin punto decimal como numerador y una potencia de 10 como denominador (según el número de cifras decimales). 0.75 = 75/100. Al simplificar dividiendo entre 25, obtenemos 3/4.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-P1-algebra-001-v13",
-      "statement": "Resuelve para $x$: $3^{x-1} = 27$.",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes números es un ejemplo de un número irracional?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 3$ <!-- feedback: Incorrecto. 3^2 = 9, no 27. -->",
-          "is_correct": false
+          "text": "3.14",
+          "is_correct": false,
+          "feedback": "Este es un decimal exacto, por lo tanto es racional."
         },
         {
           "letter": "B",
-          "text": "$x = 4$ <!-- feedback: Correcto. $3^{4-1} = 3^3 = 27$. -->",
-          "is_correct": true
+          "text": "π",
+          "is_correct": true,
+          "feedback": "Pi es un número con decimales infinitos no periódicos."
         },
         {
           "letter": "C",
-          "text": "$x = 2$ <!-- feedback: Incorrecto. 3^1 = 3. -->",
-          "is_correct": false
+          "text": "22/7",
+          "is_correct": false,
+          "feedback": "Es una razón de dos enteros, por definición es racional."
         },
         {
           "letter": "D",
-          "text": "$x = 10$ <!-- feedback: Incorrecto. Confundió con exponentes de base 3. -->",
-          "is_correct": false
+          "text": "√16",
+          "is_correct": false,
+          "feedback": "√16 = 4, que es un número racional entero."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nResolución de ecuaciones exponenciales igualando bases.\n\n---",
-      "difficulty": "8",
+      "explanation": "Los números irracionales son aquellos que no pueden expresarse como el cociente de dos números enteros. Su representación decimal es infinita y no periódica. El número π (pi) es el ejemplo más conocido de esta categoría.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-P1-algebra-001-v14",
-      "statement": "Una pelota lanzada hacia arriba sigue la trayectoria $h(t) = -5t^2 + 20t$, donde $h$ es altura en metros y $t$ en segundos. ¿En qué tiempo alcanza su altura máxima?",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción representa exactamente el número decimal periódico 0.333...?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "$t = 1$ s <!-- feedback: Incorrecto. h(1) = -5 + 20 = 15 m, no es máxima. -->",
-          "is_correct": false
+          "text": "1/3",
+          "is_correct": true,
+          "feedback": "1 dividido entre 3 produce el decimal periódico 0.333..."
         },
         {
           "letter": "B",
-          "text": "$t = 4$ s <!-- feedback: Incorrecto. h(4) = 0. Ese es el tiempo de caída. -->",
-          "is_correct": false
+          "text": "3/10",
+          "is_correct": false,
+          "feedback": "3/10 es 0.3 (decimal exacto)."
         },
         {
           "letter": "C",
-          "text": "$t = 2$ s <!-- feedback: Correcto. El vértice está en $t = -b/(2a) = -20/(2 \\cdot -5) = 20/10 = 2$. -->",
-          "is_correct": true
+          "text": "3/100",
+          "is_correct": false,
+          "feedback": "3/100 es 0.03 (decimal exacto)."
         },
         {
           "letter": "D",
-          "text": "$t = 3$ s <!-- feedback: Incorrecto. h(3) = -45 + 60 = 15 m. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nCálculo del vértice de una función cuadrática para determinar el punto máximo de una trayectoria.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v15",
-      "statement": "Un representante de ventas tiene un sueldo base de $5,000$ más una comisión de $200$ por cada producto vendido ($p$). Si se representa como $S(p) = 5000 + 200p$, ¿cuántos productos debe vender para ganar $11,000$?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "20 <!-- feedback: Incorrecto. 5000 + 4000 = 9000. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "25 <!-- feedback: Incorrecto. 5000 + 5000 = 10000. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "30 <!-- feedback: Correcto. 5000 + 200p = 11000 => 200p = 6000 => p = 30. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "55 <!-- feedback: Incorrecto. 5000 + 11000 = 16000. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Pedagógica\nInterpretación de una función lineal en contexto laboral, calculando la variable independiente dado el valor de la función.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v16",
-      "statement": "Un vendedor ambulante gana 45 pesos por hora. Si ya tiene ahorrados 200 pesos y necesita al menos 650 pesos para comprar mercancía, ¿cuántas horas debe trabajar como mínimo?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "9 <!-- feedback: Incorrecto. 45(9) + 200 = 605, no alcanza. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "10 <!-- feedback: Correcto. 45h + 200 >= 650 => 45h >= 450 => h >= 10. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "C",
-          "text": "14 <!-- feedback: Incorrecto. 45(14) + 200 = 830, más de lo necesario. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "12 <!-- feedback: Incorrecto. 45(12) + 200 = 740, correcto pero no es el mínimo. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nPlanteamiento y resolución de una desigualdad lineal en un contexto de ahorro y meta financiera.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v17",
-      "statement": "El área de un jardín en el Parque Chapultepec es de 120 m². Si el largo mide 4 metros más que el ancho, ¿cuánto mide el ancho?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "10 m <!-- feedback: Correcto. $x(x+4) = 120 => x^2 + 4x - 120 = 0 => (x+14)(x-10)=0 => x=10$. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "B",
-          "text": "12 m <!-- feedback: Incorrecto. 12 * 16 = 192. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "6 m <!-- feedback: Incorrecto. 6 * 10 = 60. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "D",
-          "text": "20 m <!-- feedback: Incorrecto. 20 * 24 = 480. -->",
-          "is_correct": false
+          "text": "1/33",
+          "is_correct": false,
+          "feedback": "1/33 es aproximadamente 0.0303..."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pedagógica\nModelado de un problema geométrico mediante una ecuación cuadrática, seleccionando la solución positiva.\n\n---",
-      "difficulty": "10",
+      "explanation": "El decimal 0.333... es un decimal periódico puro. Para convertirlo a fracción, se toma el periodo (3) como numerador y tantos nueves como cifras tenga el periodo como denominador (9). Así, 3/9 simplificado es 1/3.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-P1-algebra-001-v18",
-      "statement": "Usa la fórmula general para resolver $x^2 - 2x - 15 = 0$. ¿Cuáles son sus soluciones?",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v5",
+      "statement": "Si la temperatura inicial es de -5°C y desciende 8°C más, ¿cuál es la temperatura final resultante?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 3, x = -5$ <!-- feedback: Incorrecto. Sustituyendo: 9 - 6 - 15 = -12. -->",
-          "is_correct": false
+          "text": "3°C",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si la temperatura subiera 8 grados."
         },
         {
           "letter": "B",
-          "text": "$x = 5, x = -3$ <!-- feedback: Correcto. $x = \\frac{2 \\pm \\sqrt{4 + 60}}{2} = \\frac{2 \\pm \\sqrt{64}}{2} = \\frac{2 \\pm 8}{2}$. -->",
-          "is_correct": true
+          "text": "-3°C",
+          "is_correct": false,
+          "feedback": "Error al restar 5 de 8 sin considerar los signos negativos correctamente."
         },
         {
           "letter": "C",
-          "text": "$x = 5, x = 3$ <!-- feedback: Incorrecto. El producto 5*3=15, no -15. -->",
-          "is_correct": false
+          "text": "-13°C",
+          "is_correct": true,
+          "feedback": "-5 - 8 = -13. Al restar a un negativo, nos alejamos más del cero."
         },
         {
           "letter": "D",
-          "text": "$x = -5, x = -3$ <!-- feedback: Incorrecto. La suma sería -8 y el producto 15. -->",
-          "is_correct": false
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Pedagógica\nAplicación de la fórmula general para resolver ecuaciones cuadráticas completas.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.1",
-      "cefr_level": null
-    },
-    {
-      "id": "MX-MAT-11-P1-algebra-001-v19",
-      "statement": "Una solución tiene $[H^+] = 1 \\times 10^{-9}$ mol/L. Si el pH se define como $pH = -\\log_{10}[H^+]$, ¿cuál es el pH?",
-      "context": "",
-      "options": [
-        {
-          "letter": "A",
-          "text": "1 <!-- feedback: Incorrecto. El signo negativo invierte el exponente. -->",
-          "is_correct": false
-        },
-        {
-          "letter": "B",
-          "text": "-9 <!-- feedback: Incorrecto. $\\log(10^{-9}) = -9$, con signo negativo sería -(-9). -->",
-          "is_correct": false
-        },
-        {
-          "letter": "C",
-          "text": "9 <!-- feedback: Correcto. $pH = -\\log_{10}(10^{-9}) = -(-9) = 9$. -->",
-          "is_correct": true
-        },
-        {
-          "letter": "D",
-          "text": "10 <!-- feedback: Incorrecto. Confundió el exponente. -->",
-          "is_correct": false
+          "text": "13°C",
+          "is_correct": false,
+          "feedback": "El resultado debe ser negativo ya que la temperatura bajó."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pedagógica\nAplicación de logaritmos para calcular el pH de una solución, un uso científico relevante.\n\n---",
-      "difficulty": "10",
+      "explanation": "Al realizar operaciones con números reales con signo, si ambos tienen el mismo signo y se están sumando (o restando en este caso de descenso), se suman sus valores absolutos y se mantiene el signo. |-5| + |-8| = 13, con signo negativo: -13.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
       "cefr_level": null
     },
     {
-      "id": "MX-MAT-11-P1-algebra-001-v20",
-      "statement": "Un dispositivo electrónico pierde su valor según $V(t) = 10000(0.8)^t$, donde $t$ son años. ¿En cuántos años el valor será menor o igual a 5,120 pesos?",
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v6",
+      "statement": "Si el valor de la acción aumenta un 10% y luego disminuye un 10%, ¿cuál es el valor final de la acción?",
       "context": "",
       "options": [
         {
           "letter": "A",
-          "text": "1 año <!-- feedback: Incorrecto. 10000(0.8)^1 = 8000. -->",
-          "is_correct": false
+          "text": "$45.50",
+          "is_correct": false,
+          "feedback": "El 10% de disminución se aplica al nuevo valor, no al original."
         },
         {
           "letter": "B",
-          "text": "3 años <!-- feedback: Correcto. $10000(0.8)^3 = 10000(0.512) = 5120$. A los 3 años es exactamente igual. -->",
-          "is_correct": true
+          "text": "$45.04",
+          "is_correct": true,
+          "feedback": "45.50 + 4.55 = 50.05; 50.05 - 5.005 = 45.0445."
         },
         {
           "letter": "C",
-          "text": "2 años <!-- feedback: Incorrecto. 10000(0.8)^2 = 6400. -->",
-          "is_correct": false
+          "text": "$40.95",
+          "is_correct": false,
+          "feedback": "Esto sería si bajara un 10% directamente del original."
         },
         {
           "letter": "D",
-          "text": "4 años <!-- feedback: Incorrecto. 10000(0.8)^4 = 4096, ya es menor. -->",
-          "is_correct": false
+          "text": "$50.05",
+          "is_correct": false,
+          "feedback": "Esto es solo el primer paso (el aumento del 10%)."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pedagógica\nModelado de depreciación mediante una función exponencial decreciente, resolviendo por aproximación o logaritmos.",
+      "explanation": "Primero calculamos el aumento: $45.50 \\times 1.10 = $50.05. Luego aplicamos la disminución sobre el nuevo valor: $50.05 \\times 0.90 = $45.045. Redondeando a centavos, obtenemos $45.04. Esto demuestra que un aumento y disminución del mismo porcentaje no regresan al valor original.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánta harina se necesita para preparar 2.5 porciones de la misma receta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 tazas",
+          "is_correct": false,
+          "feedback": "Esto es para 2 porciones exactas."
+        },
+        {
+          "letter": "B",
+          "text": "1.875 tazas",
+          "is_correct": true,
+          "feedback": "(3/4) * 2.5 = 0.75 * 2.5 = 1.875."
+        },
+        {
+          "letter": "C",
+          "text": "2.25 tazas",
+          "is_correct": false,
+          "feedback": "Cálculo incorrecto de la multiplicación de decimales."
+        },
+        {
+          "letter": "D",
+          "text": "3.25 tazas",
+          "is_correct": false,
+          "feedback": "Error al sumar en lugar de multiplicar por las porciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el total, multiplicamos la cantidad por porción por el número de porciones. Convertimos 3/4 a decimal (0.75) y multiplicamos: 0.75 \\times 2.5 = 1.875. También se puede hacer como (3/4) \\times (5/2) = 15/8 = 1.875.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la distancia total recorrida por el ciclista en ambas etapas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27.0 km",
+          "is_correct": false,
+          "feedback": "Error al sumar las partes fraccionarias y decimales."
+        },
+        {
+          "letter": "B",
+          "text": "28.0 km",
+          "is_correct": true,
+          "feedback": "15.4 + 12.6 = 28.0 (3/5 es igual a 0.6)."
+        },
+        {
+          "letter": "C",
+          "text": "27.6 km",
+          "is_correct": false,
+          "feedback": "No se sumó correctamente el 0.4 del primer número."
+        },
+        {
+          "letter": "D",
+          "text": "28.4 km",
+          "is_correct": false,
+          "feedback": "Error en la conversión de 3/5 a decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertimos la fracción mixta a decimal para facilitar la suma: 12 3/5 = 12 + 0.6 = 12.6. Sumamos ambas distancias: 15.4 + 12.6 = 28.0 km.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v9",
+      "statement": "El arquitecto determina que la diagonal mide √2 metros. ¿Cuál es la propiedad principal de este número?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un decimal periódico.",
+          "is_correct": false,
+          "feedback": "Sus decimales no se repiten en un patrón."
+        },
+        {
+          "letter": "B",
+          "text": "No puede escribirse como fracción p/q.",
+          "is_correct": true,
+          "feedback": "Es un número irracional."
+        },
+        {
+          "letter": "C",
+          "text": "Es un número entero negativo.",
+          "is_correct": false,
+          "feedback": "Es un valor real positivo mayor a 1."
+        },
+        {
+          "letter": "D",
+          "text": "Es un número racional exacto.",
+          "is_correct": false,
+          "feedback": "√2 no tiene una raíz exacta en los racionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número √2 es irracional. Esto significa que su expansión decimal es infinita y no periódica (1.4142...), y por lo tanto, no existe ninguna fracción de dos enteros que represente exactamente su valor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v10",
+      "statement": "¿Qué cantidad de dinero recibirá el tercer ganador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4,000",
+          "is_correct": false,
+          "feedback": "Esta es la cantidad del primer ganador (2/5 de 10,000)."
+        },
+        {
+          "letter": "B",
+          "text": "$2,500",
+          "is_correct": false,
+          "feedback": "Esta es la cantidad del segundo ganador (1/4 de 10,000)."
+        },
+        {
+          "letter": "C",
+          "text": "$3,500",
+          "is_correct": true,
+          "feedback": "10,000 - (4,000 + 2,500) = 3,500."
+        },
+        {
+          "letter": "D",
+          "text": "$3,333",
+          "is_correct": false,
+          "feedback": "Error al asumir que el reparto era equitativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calculamos lo que reciben los dos primeros: 2/5 de 10,000 = 4,000; 1/4 de 10,000 = 2,500. Sumamos estas partes: 4,000 + 2,500 = 6,500. El tercer ganador recibe el resto: 10,000 - 6,500 = 3,500.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v11",
+      "statement": "Si a = -3.5 y b = 2.8, ¿cuál es el valor de la posición x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-0.7",
+          "is_correct": false,
+          "feedback": "El valor absoluto nunca puede ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "0.7",
+          "is_correct": false,
+          "feedback": "Error de signo dentro del valor absoluto: |-3.5 - 2.8| = |-6.3|."
+        },
+        {
+          "letter": "C",
+          "text": "6.3",
+          "is_correct": true,
+          "feedback": "|-3.5 - 2.8| = |-6.3| = 6.3."
+        },
+        {
+          "letter": "D",
+          "text": "-6.3",
+          "is_correct": false,
+          "feedback": "Se calculó la resta pero se ignoró el valor absoluto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor absoluto de un número es su distancia al cero en la recta numérica, por lo que siempre es no negativo. Calculamos la operación interna: -3.5 - 2.8 = -6.3. El valor absoluto de -6.3 es 6.3.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v12",
+      "statement": "¿A cuánto equivale la expresión (2³ * 2⁴) / 2⁵?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "2 al cuadrado es 4, no 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "2^(3+4) / 2^5 = 2^7 / 2^5 = 2^2 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "2 al cuadrado es 4."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de las leyes de los exponentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos las leyes de los exponentes: para la multiplicación de la misma base, los exponentes se suman (3+4=7). Para la división de la misma base, los exponentes se restan (7-5=2). Por lo tanto, 2² = 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v13",
+      "statement": "Si un número es -4/5, ¿cuál es su inverso aditivo y cuál su recíproco (inverso multiplicativo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aditivo: 4/5; Recíproco: -5/4",
+          "is_correct": true,
+          "feedback": "Inverso aditivo cambia el signo; recíproco intercambia numerador y denominador manteniendo el signo."
+        },
+        {
+          "letter": "B",
+          "text": "Aditivo: -5/4; Recíproco: 4/5",
+          "is_correct": false,
+          "feedback": "Los conceptos están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Aditivo: 4/5; Recíproco: 5/4",
+          "is_correct": false,
+          "feedback": "El recíproco debe conservar el signo negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Aditivo: 5/4; Recíproco: -4/5",
+          "is_correct": false,
+          "feedback": "Valores incorrectos para ambas propiedades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El inverso aditivo de x es aquel que sumado con x da cero, por lo tanto es -x (cambio de signo). El recíproco de x es aquel que multiplicado por x da uno, por lo tanto es 1/x (se invierte la fracción manteniendo el signo).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v14",
+      "statement": "Si a = 3 y b = 4, ¿cuál es el valor de R simplificado a fracción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "√(9+16) es 5, y 3+4 es 7. 5/7 no es 1."
+        },
+        {
+          "letter": "B",
+          "text": "5/7",
+          "is_correct": true,
+          "feedback": "√(3² + 4²) = √25 = 5. El denominador es 3 + 4 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "7/5",
+          "is_correct": false,
+          "feedback": "El numerador y el denominador están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "25/7",
+          "is_correct": false,
+          "feedback": "No se extrajo la raíz cuadrada en el numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos los valores: en el numerador √(3² + 4²) = √(9 + 16) = √25 = 5. En el denominador (3 + 4) = 7. El resultado es 5/7.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de los siguientes números se encuentra exactamente a la mitad de la distancia entre 1/4 y 1/2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "1/3 es aproximadamente 0.33, mientras que el punto medio es 0.375."
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": true,
+          "feedback": "(1/4 + 1/2) / 2 = (0.25 + 0.50) / 2 = 0.75 / 2 = 0.375 = 3/8."
+        },
+        {
+          "letter": "C",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "2/3 es mayor que 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "3/4 es mayor que 1/2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar el punto medio entre dos números, calculamos su promedio sumándolos y dividiendo entre 2. 1/4 + 1/2 = 1/4 + 2/4 = 3/4. Luego, (3/4) / 2 = 3/8. En decimales: (0.25 + 0.50) / 2 = 0.375.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v16",
+      "statement": "¿Bajo qué operación el conjunto de los números enteros (Z) NO cumple con la propiedad de cierre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma",
+          "is_correct": false,
+          "feedback": "La suma de dos enteros siempre es un entero."
+        },
+        {
+          "letter": "B",
+          "text": "Resta",
+          "is_correct": false,
+          "feedback": "La resta de dos enteros siempre es un entero."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicación",
+          "is_correct": false,
+          "feedback": "El producto de dos enteros siempre es un entero."
+        },
+        {
+          "letter": "D",
+          "text": "División",
+          "is_correct": true,
+          "feedback": "La división de dos enteros (ej. 1/2) no siempre resulta en un entero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La propiedad de cierre establece que al realizar una operación con elementos de un conjunto, el resultado debe pertenecer al mismo conjunto. En los enteros, la división puede resultar en números fraccionarios o decimales que no son enteros (por ejemplo, 5 ÷ 2 = 2.5).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor simplificado de (1/3)⁻² + (1/2)⁻³?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Error al no considerar que la potencia negativa invierte la base."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "3² = 9 y 2³ = 8. 9 + 8 = 17."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "(1/3)^-2 = 3^2 = 9; (1/2)^-3 = 2^3 = 8. 9 + 8 = 17."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Cálculo incorrecto de las potencias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una potencia negativa indica el recíproco de la base elevado a la potencia positiva. (1/3)⁻² = (3/1)² = 9. De igual forma, (1/2)⁻³ = (2/1)³ = 8. Sumando ambos resultados: 9 + 8 = 17.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bundle_id": "MX-MAT-11-P1-algebra-001-MASTERY-bundle",
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
       "periodo": 1,
-      "protocol_version": "5.1",
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v18",
+      "statement": "Calcula el resultado de: [ 2 * (3 - 5)² - √16 ] / ( -2 )",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "[ 2*(-2)² - 4 ] / -2 = [ 2*4 - 4 ] / -2 = [ 8 - 4 ] / -2 = 4 / -2 = -2."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": true,
+          "feedback": "Siguiendo la jerarquía: (3-5)^2=4; 2*4=8; 8-4=4; 4/(-2)=-2."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error de signo en la división final."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la potencia o la multiplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Siguiendo la jerarquía de operaciones: 1. Paréntesis (3-5 = -2). 2. Potencias y raíces ((-2)² = 4, √16 = 4). 3. Multiplicación (2 * 4 = 8). 4. Resta (8 - 4 = 4). 5. División (4 / -2 = -2).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v19",
+      "statement": "Si x = 0.999..., ¿cuál es el valor exacto de x según las reglas de conversión de decimales periódicos a fracciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.9",
+          "is_correct": false,
+          "feedback": "0.9 es un decimal exacto, menor a 0.999..."
+        },
+        {
+          "letter": "B",
+          "text": "0.99",
+          "is_correct": false,
+          "feedback": "También es un decimal exacto menor al dado."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Por regla, 9/9 = 1. Matemáticamente 0.999... es igual a 1."
+        },
+        {
+          "letter": "D",
+          "text": "Un número irracional",
+          "is_correct": false,
+          "feedback": "Es un decimal periódico, por lo tanto es racional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al convertir el decimal periódico puro 0.999... a fracción, tomamos el periodo (9) como numerador y un nueve como denominador por tener una cifra periódica. 9/9 = 1. Este es un resultado fundamental que muestra que 0.999... y 1 son dos representaciones del mismo número real.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes afirmaciones es CORRECTA sobre el conjunto de los números reales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre dos números irracionales siempre hay solo un número racional.",
+          "is_correct": false,
+          "feedback": "Hay infinitos números racionales entre cualesquiera dos números reales."
+        },
+        {
+          "letter": "B",
+          "text": "Entre cualquier par de números reales distintos, existen infinitos números racionales.",
+          "is_correct": true,
+          "feedback": "Propiedad de densidad de los racionales en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de los números reales no incluye al cero.",
+          "is_correct": false,
+          "feedback": "El cero es un número real fundamental (entero y racional)."
+        },
+        {
+          "letter": "D",
+          "text": "La raíz cuadrada de cualquier número real es otro número real.",
+          "is_correct": false,
+          "feedback": "Las raíces cuadradas de números negativos son números imaginarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conjunto de los números reales es denso. Esto significa que no importa qué tan cerca estén dos números reales, siempre es posible encontrar infinitos números racionales e infinitos números irracionales entre ellos.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 100 |\n| Curricular | 100 |\n| Contexto | 100 |\n| Redacción | 100 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
       "cefr_level": null
     }
   ]
