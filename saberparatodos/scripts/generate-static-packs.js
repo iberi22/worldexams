@@ -151,15 +151,16 @@ function parseQuestions(body) {
     // Extract options
     const options = [];
     const optionRegex =
-      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
+      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?([\s\S]*?)(?=^\s*-\s*\[[x ]\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:])|^###\s+|^##\s+|(?![\s\S]))/gim;
     let optMatch;
     let correctId = "A";
 
     while ((optMatch = optionRegex.exec(section)) !== null) {
       const isCorrect = optMatch[1].toLowerCase() === "x";
       const letter = optMatch[2];
-      const feedbackMatch = optMatch[3].match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/);
-      const text = optMatch[3]
+      const rawOption = optMatch[3].trim();
+      const feedbackMatch = rawOption.match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/i);
+      const text = rawOption
         .replace(/<!--\s*feedback:[\s\S]*?-->/, "")
         .trim();
       const feedback = feedbackMatch ? feedbackMatch[1].trim() : "";
