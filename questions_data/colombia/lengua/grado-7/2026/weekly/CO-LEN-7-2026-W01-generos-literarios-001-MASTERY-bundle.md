@@ -1,28 +1,30 @@
 ---
-id: "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY"
+id: "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle"
 country: "colombia"
 grado: 7
 asignatura: "lengua"
 tema: "generos-literarios"
-semana: "W01"
 periodo: "weekly"
-protocol_version: "5.2"
+week: "W01"
 year: 2026
-bundle_size: 12
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
-tier: "premium"
-license: "CC-BY-NC"
-quality_review_score: 95
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Bundle Mastery: Géneros Literarios - Grado 7
 ## Semana W01 — Clasificación y características de los géneros literarios
 
-## Pregunta 1 [D3]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v1`
+## Question 1 [D3]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
-**Context:** En la clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora Carolina pregunta sobre los géneros literarios tradicionales.
+**Contexto:** En la clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora Carolina pregunta sobre los géneros literarios tradicionales.
 **Expected_Success:** 0.85
 
 ### Enunciado
@@ -39,11 +41,11 @@ Desde Aristóteles en su "Poética", la literatura se clasifica en tres géneros
 
 ---
 
-## Pregunta 2 [D4]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v2`
+## Question 2 [D4]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Inferencial)
-**Context:** María lee un texto que comienza: "En un pueblo de la costa Caribe colombiana, cerca de Cartagena, vivía un pescador llamado Pedro..." y se pregunta a qué género pertenece.
+**Contexto:** María lee un texto que comienza: "En un pueblo de la costa Caribe colombiana, cerca de Cartagena, vivía un pescador llamado Pedro..." y se pregunta a qué género pertenece.
 **Expected_Success:** 0.82
 
 ### Enunciado
@@ -60,11 +62,11 @@ El género narrativo se caracteriza por la presencia de un narrador que cuenta u
 
 ---
 
-## Pregunta 3 [D4]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v3`
+## Question 3 [D4]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
-**Context:** En el colegio de Medellín, Andrés debe identificar las características del género lírico para su exposición.
+**Contexto:** En el colegio de Medellín, Andrés debe identificar las características del género lírico para su exposición.
 **Expected_Success:** 0.80
 
 ### Enunciado
@@ -81,11 +83,11 @@ El género lírico se caracteriza por la expresión subjetiva de sentimientos y 
 
 ---
 
-## Pregunta 4 [D5]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v4`
+## Question 4 [D5]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Crítica)
-**Context:** Laura asiste a una obra de teatro en el Teatro Colón de Bogotá. La obra tiene personajes que dialogan entre sí, acotaciones escénicas y está dividida en actos.
+**Contexto:** Laura asiste a una obra de teatro en el Teatro Colón de Bogotá. La obra tiene personajes que dialogan entre sí, acotaciones escénicas y está dividida en actos.
 **Expected_Success:** 0.78
 
 ### Enunciado
@@ -102,11 +104,11 @@ El género dramático (teatro) se caracteriza por estar escrito para ser represe
 
 ---
 
-## Pregunta 5 [D5]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v5`
+## Question 5 [D5]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Inferencial)
-**Context:** En clase, el profesor de Lengua del colegio de Cali muestra dos textos: un cuento de Gabriel García Márquez y un poema de José Asunción Silva.
+**Contexto:** En clase, el profesor de Lengua del colegio de Cali muestra dos textos: un cuento de Gabriel García Márquez y un poema de José Asunción Silva.
 **Expected_Success:** 0.76
 
 ### Enunciado
@@ -123,11 +125,11 @@ La diferencia esencial entre los géneros narrativo y lírico radica en su prop�
 
 ---
 
-## Pregunta 6 [D6]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v6`
+## Question 6 [D6]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
-**Context:** Valentina encuentra un texto en la biblioteca de su colegio en Barranquilla que tiene esta estructura: "Acto I, Escena 1. (Salón de una casa campesina. Sentada frente a una ventana, JULIA cose una camisa.)".
+**Contexto:** Valentina encuentra un texto en la biblioteca de su colegio en Barranquilla que tiene esta estructura: "Acto I, Escena 1. (Salón de una casa campesina. Sentada frente a una ventana, JULIA cose una camisa.)".
 **Expected_Success:** 0.72
 
 ### Enunciado
@@ -144,11 +146,11 @@ Las acotaciones son instrucciones del dramaturgo sobre la escenografía, vestuar
 
 ---
 
-## Pregunta 7 [D6]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v7`
+## Question 7 [D6]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
-**Context:** Santiago lee un fragmento de "La Vorágine" de José Eustasio Rivera en su clase de Lengua en el colegio de Bucaramanga y debe clasificarlo por género.
+**Contexto:** Santiago lee un fragmento de "La Vorágine" de José Eustasio Rivera en su clase de Lengua en el colegio de Bucaramanga y debe clasificarlo por género.
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -165,11 +167,11 @@ Aunque "La Vorágine" es una novela (narrativa), este fragmento específico tien
 
 ---
 
-## Pregunta 8 [D7]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v8`
+## Question 8 [D7]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
-**Context:** En el colegio de Pereira, el profesor pide a los estudiantes analizar un fragmento que contiene diálogos de personajes, pero no hay acotaciones ni indicaciones de representación. Es solo la conversación escrita.
+**Contexto:** En el colegio de Pereira, el profesor pide a los estudiantes analizar un fragmento que contiene diálogos de personajes, pero no hay acotaciones ni indicaciones de representación. Es solo la conversación escrita.
 **Expected_Success:** 0.60
 
 ### Enunciado
@@ -186,11 +188,11 @@ El diálogo no es exclusivo de ningún género literario. En la narrativa, los d
 
 ---
 
-## Pregunta 9 [D7]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v9`
+## Question 9 [D7]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
-**Context:** Camila debe clasificar "Cien Años de Soledad" de Gabriel García Márquez según los géneros literarios. Algunos dicen que es realismo mágico, otros que es narrativa.
+**Contexto:** Camila debe clasificar "Cien Años de Soledad" de Gabriel García Márquez según los géneros literarios. Algunos dicen que es realismo mágico, otros que es narrativa.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -207,11 +209,11 @@ El realismo mágico es una corriente estilística, no un género literario. "Cie
 
 ---
 
-## Pregunta 10 [D8]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v10`
+## Question 10 [D8]
+**ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Literal)
-**Context:** Isabella encuentra un texto anónimo del siglo XIX que narra las hazañas de un héroe popular colombiano durante la independencia, escrito en versos octosílabos.
+**Contexto:** Isabella encuentra un texto anónimo del siglo XIX que narra las hazañas de un héroe popular colombiano durante la independencia, escrito en versos octosílabos.
 **Expected_Success:** 0.52
 
 ### Enunciado
@@ -227,46 +229,6 @@ Este texto en verso que narra hazañas heroicas, ¿a qué género o subgénero p
 La épica o poesía épica es un subgénero narrativo que narra hazañas heroicas en verso. En la tradición colombiana, los romances y corridos que cuentan historias de la independencia son ejemplos de narrativa en verso. El "Poema del Cid" en España o la "Ilíada" en Grecia son ejemplos clásicos de este subgénero.
 
 ---
-
-## Pregunta 11 [D8]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Competencia Lectora (Inferencial)
-**Context:** En el colegio de Ibagué, el profesor propone un debate: "¿La crónica periodística es un género literario o periodístico?"
-**Expected_Success:** 0.48
-
-### Enunciado
-¿Cuál es la posición más acertada sobre la crónica periodística?
-
-### Opciones
-- [ ] A) Es exclusivamente un género periodístico sin valor literario. <!-- feedback: Incorrecto. Muchas crónicas tienen un alto valor literario. -->
-- [ ] B) Es un género dramático porque tiene escenas y diálogos. <!-- feedback: Incorrecto. Aunque tiene elementos descriptivos, no es teatro. -->
-- [x] C) Puede considerarse un género híbrido entre lo periodístico y lo narrativo contemporáneo. <!-- feedback: Correcto. La crónica combina información con técnicas narrativas literarias. -->
-- [ ] D) Es un subgénero de la lírica moderna. <!-- feedback: Incorrecto. La crónica no se centra en la expresión subjetiva de emociones. -->
-
-### Explicacion Pedagogica
-La crónica periodística es un género híbrido que utiliza técnicas narrativas (descripción de personajes, escenas, diálogos) para contar hechos reales. Autores colombianos como Gabriel García Márquez, Germán Castro Caycedo o Alberto Salcedo Ramos han cultivado la crónica, demostrando que puede tener gran valor literario sin dejar de ser periodística.
-
----
-
-## Pregunta 12 [D9]
-**ID:** `CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Competencia Lectora (Literal)
-**Context:** Daniel y sus compañeros del Colegio San José de Sincelejo debaten: "Un guion de cine, ¿a qué género literario pertenece?"
-**Expected_Success:** 0.42
-
-### Enunciado
-¿Cuál es la respuesta más acertada sobre la clasificación del guion cinematográfico?
-
-### Opciones
-- [ ] A) No es literatura, es solo un documento técnico. <!-- feedback: Incorrecto. El guion es considerado un género literario por muchos teóricos. -->
-- [x] B) Pertenece al género dramático, porque está escrito para ser representado visualmente. <!-- feedback: Correcto. El guion comparte con el teatro la estructura dialógica y las acotaciones. -->
-- [ ] C) Es un género nuevo independiente de los tres clásicos. <!-- feedback: Parcialmente cierto, pero su estructura lo acerca más al dramático. -->
-- [ ] D) Pertenece al género narrativo, porque cuenta una historia. <!-- feedback: Incorrecto. Aunque cuenta una historia, su formato de representación lo define. -->
-
-### Explicacion Pedagogica
-El guion cinematográfico, aunque es un formato moderno, comparte características esenciales con el género dramático: está estructurado en escenas, utiliza diálogos y acotaciones (indicaciones técnicas), y está diseñado para ser representado. La diferencia principal es que el teatro es en vivo y el cine es grabado, pero la estructura literaria de base es similar.
 
 ---
 
