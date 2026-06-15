@@ -16,6 +16,7 @@
     "guard:staged": "node scripts/husky-guard.mjs --staged",
     "guard:changed": "node scripts/husky-guard.mjs --changed",
     "validate": "node scripts/validate-bundles-v52.mjs",
+    "audit:country-readiness": "node scripts/audit-country-readiness.mjs",
     "dev": "npm run dev:landing-worldexams",
     "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
     "dev:saberparatodos": "npm run dev -w saberparatodos",
