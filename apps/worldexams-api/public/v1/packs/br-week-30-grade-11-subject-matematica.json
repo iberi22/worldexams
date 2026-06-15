@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-30-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:52.282Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v1",
+      "statement": "Considerando $x$ o preço da maçã e $y$ o preço da banana, qual equação representa essa compra?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 3y = 8$",
+          "is_correct": false,
+          "feedback": "Correto. 2 maçãs × preço + 3 bananas × preço = total."
+        },
+        {
+          "letter": "B",
+          "text": "$2 + 3 = 8$",
+          "is_correct": false,
+          "feedback": "Incorreto. Não considera as variáveis de preço."
+        },
+        {
+          "letter": "C",
+          "text": "$3x + 2y = 8$",
+          "is_correct": false,
+          "feedback": "Incorreto. Os coeficientes estão trocados."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 3y = 8$",
+          "is_correct": true,
+          "feedback": "Correto. A equação linear 2x + 3y = 8 representa a compra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se $x$ é o preço da maçã e $y$ o preço da banana, então 2 maçãs custam $2x$ e 3 bananas custam $3y$. A equação que modela a compra é $2x + 3y = 8$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v2",
+      "statement": "Um sistema linear que possui uma única solução é chamado de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Impossível (SI)",
+          "is_correct": false,
+          "feedback": "Incorreto. Sistema impossível não tem solução."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Possível e Determinado (SPD)",
+          "is_correct": true,
+          "feedback": "Correto. SPD tem exatamente uma solução."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Possível e Indeterminado (SPI)",
+          "is_correct": false,
+          "feedback": "Incorreto. SPI tem infinitas soluções."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema Homogêneo",
+          "is_correct": false,
+          "feedback": "Incorreto. Homogêneo é quando todos os termos independentes são zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Um sistema linear é classificado como Possível e Determinado (SPD) quando possui exatamente uma solução. Isso ocorre quando o determinante da matriz dos coeficientes é diferente de zero.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v3",
+      "statement": "Qual sistema representa corretamente a situação, onde $h$ é o preço do hambúrguer e $s$ o preço do suco?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} h + s = 14 \\\\ 2h + 3s = 22 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Os coeficientes não correspondem aos pedidos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} 2h + s = 22 \\\\ 3h + 2s = 14 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Os totais estão trocados."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} 2h + s = 14 \\\\ 3h + 2s = 22 \\end{cases}$",
+          "is_correct": true,
+          "feedback": "Correto. 2 hambúrgueres + 1 suco = R$ 14 e 3 hambúrgueres + 2 sucos = R$ 22."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} 2h + s = 14 \\\\ h + s = 22 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Incorreto. O segundo pedido é 3h + 2s, não h + s."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O primeiro pedido: $2h + 1s = 14$. O segundo: $3h + 2s = 22$. O sistema é $\\begin{cases} 2h + s = 14 \\\\ 3h + 2s = 22 \\end{cases}$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v4",
+      "statement": "Resolvendo $\\begin{cases} 2h + s = 14 \\\\ 3h + 2s = 22 \\end{cases}$, qual é o valor de $h$ (preço do hambúrguer)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R$ 4,00",
+          "is_correct": false,
+          "feedback": "Incorreto. Se h=4, s=6. Verificando: 3×4 + 2×6 = 12+12 = 24 ≠ 22."
+        },
+        {
+          "letter": "B",
+          "text": "R$ 6,00",
+          "is_correct": true,
+          "feedback": "Correto. Isolando s = 14 - 2h. Substituindo: 3h + 2(14-2h) = 22 → 3h + 28 - 4h = 22 → -h = -6 → h = 6."
+        },
+        {
+          "letter": "C",
+          "text": "R$ 5,00",
+          "is_correct": false,
+          "feedback": "Incorreto. Se h=5, s=4. 3×5 + 2×4 = 15+8=23 ≠ 22."
+        },
+        {
+          "letter": "D",
+          "text": "R$ 7,00",
+          "is_correct": false,
+          "feedback": "Incorreto. Se h=7, s=0. 3×7 + 2×0 = 21 ≠ 22."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Isolando $s$ na 1ª equação: $s = 14 - 2h$. Substituindo na 2ª: $3h + 2(14 - 2h) = 22 \\implies 3h + 28 - 4h = 22 \\implies -h = -6 \\implies h = 6$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v5",
+      "statement": "Resolva $\\begin{cases} 3x + 2y = 12 \\\\ 5x - 2y = 4 \\end{cases}$ pelo método da adição. Qual é o valor de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorreto. Somando as equações: 8x = 16 → x = 2."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correto. Somando: 3x+5x + 2y-2y = 12+4 → 8x = 16 → x = 2."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto. 8×3 = 24 ≠ 16."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorreto. 8×4 = 32 ≠ 16."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Somando as equações, os termos $2y$ e $-2y$ se cancelam: $3x + 5x + 2y - 2y = 12 + 4 \\implies 8x = 16 \\implies x = 2$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v6",
+      "statement": "Qual é a representação matricial do sistema $\\begin{cases} 2x - y = 5 \\\\ x + 3y = 7 \\end{cases}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 2 & -1 \\\\ 1 & 3 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Correto. Matriz dos coeficientes, vetor das incógnitas e vetor dos termos independentes."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 2 & 1 \\\\ -1 & 3 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Os coeficientes estão em posições erradas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 2 & -1 \\\\ 1 & 3 \\end{pmatrix} \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix} = \\begin{pmatrix} x \\\\ y \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. O vetor dos termos independentes vem após o sinal de igual."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 2 & -1 \\\\ 1 & 3 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correto. A forma matricial é AX = B."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A forma matricial é $A \\cdot X = B$, onde $A$ é a matriz dos coeficientes, $X$ o vetor das incógnitas e $B$ o vetor dos termos independentes: $\\begin{pmatrix} 2 & -1 \\\\ 1 & 3 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v7",
+      "statement": "Dado $\\begin{cases} x + y + z = 6 \\\\ y + z = 4 \\\\ z = 2 \\end{cases}$, qual é a solução do sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x=1, y=2, z=3$",
+          "is_correct": false,
+          "feedback": "Incorreto. Substituindo: 1+2+3=6, 2+3=5≠4."
+        },
+        {
+          "letter": "B",
+          "text": "$x=2, y=2, z=2$",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "C",
+          "text": "$x=2, y=2, z=2$",
+          "is_correct": true,
+          "feedback": "Correto. z=2, y+2=4→y=2, x+2+2=6→x=2."
+        },
+        {
+          "letter": "D",
+          "text": "$x=3, y=1, z=2$",
+          "is_correct": false,
+          "feedback": "Incorreto. 3+1+2=6, 1+2=3≠4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O sistema já está escalonado. Da 3ª equação: $z = 2$. Substituindo na 2ª: $y + 2 = 4 \\implies y = 2$. Substituindo na 1ª: $x + 2 + 2 = 6 \\implies x = 2$. Solução: $(2, 2, 2)$.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v8",
+      "statement": "Classifique $\\begin{cases} x + 2y = 5 \\\\ 2x + 4y = 10 \\end{cases}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SPD (Possível e Determinado)",
+          "is_correct": false,
+          "feedback": "Incorreto. A segunda equação é o dobro da primeira."
+        },
+        {
+          "letter": "B",
+          "text": "SPI (Possível e Indeterminado)",
+          "is_correct": true,
+          "feedback": "Correto. As equações são equivalentes (2ª = 2×1ª), logo há infinitas soluções."
+        },
+        {
+          "letter": "C",
+          "text": "SI (Impossível)",
+          "is_correct": false,
+          "feedback": "Incorreto. O sistema tem solução, na verdade infinitas."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema Homogêneo",
+          "is_correct": false,
+          "feedback": "Incorreto. Os termos independentes não são todos nulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A segunda equação é o dobro da primeira: $2(x + 2y) = 2 \\cdot 5 \\implies 2x + 4y = 10$. Logo, as duas equações representam a mesma reta, resultando em infinitas soluções (SPI).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v9",
+      "statement": "Qual sistema representa essa situação?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} 2a + b + 3c = 190 \\\\ a + 2b + 2c = 170 \\\\ 3a + b + c = 150 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Correto. Cada equação representa uma compra."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} 2a + b + c = 190 \\\\ a + 2b + c = 170 \\\\ 3a + b + c = 150 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Os coeficientes de c estão errados."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} a + b + c = 190 \\\\ a + b + c = 170 \\\\ a + b + c = 150 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Ignora as quantidades diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} 2a + b + 3c = 190 \\\\ a + 2b + 2c = 170 \\\\ 3a + b + c = 150 \\end{cases}$",
+          "is_correct": true,
+          "feedback": "Correto. Sistema 3×3 modelando as três compras."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sendo $a$, $b$ e $c$ os preços das camisetas A, B e C: 1ª compra: $2a + 1b + 3c = 190$. 2ª compra: $1a + 2b + 2c = 170$. 3ª compra: $3a + 1b + 1c = 150$.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle-v10",
+      "statement": "Dado o sistema $\\begin{cases} x + y + z = 6 \\\\ 2x - y + z = 3 \\\\ x + 2y - z = 2 \\end{cases}$, qual é o determinante da matriz dos coeficientes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorreto. Vamos calcular: det = 1(-1×(-1)-1×2) - 1(2×(-1)-1×1) + 1(2×2-(-1)×1) = 1(1-2) - 1(-2-1) + 1(4+1) = -1 - (-3) + 5 = -1+3+5 = 7."
+        },
+        {
+          "letter": "B",
+          "text": "$-7$",
+          "is_correct": false,
+          "feedback": "Incorreto. O determinante é 7, positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correto. det = 1(1-2) - 1(-2-1) + 1(4+1) = -1 + 3 + 5 = 7. Como det ≠ 0, o sistema é SPD."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo pela Regra de Sarrus resulta em 7."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Matriz dos coeficientes: $\\begin{pmatrix} 1 & 1 & 1 \\\\ 2 & -1 & 1 \\\\ 1 & 2 & -1 \\end{pmatrix}$. $\\det = 1(-1\\times(-1)-1\\times2) - 1(2\\times(-1)-1\\times1) + 1(2\\times2-(-1)\\times1) = 1(1-2) - 1(-2-1) + 1(4+1) = -1 + 3 + 5 = 7 \\neq 0$. Portanto, o sistema é SPD.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W30-sistemas-lineares-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
