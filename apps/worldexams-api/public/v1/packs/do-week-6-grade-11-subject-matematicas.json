@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:49:03.718Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para el binomio al cuadrado $(a + b)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el término central."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + 2ab + b^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Cuadrado del primero más doble producto más cuadrado del segundo."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + ab + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto debe ser doble."
+        },
+        {
+          "letter": "D",
+          "text": "$(a + b)(a - b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la diferencia de cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Regla básica para el desarrollo de un binomio sumado al cuadrado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v2",
+      "statement": "¿A qué equivale $(a + b)(a - b)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es suma de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 - b^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Resulta en una diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(a - b)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un trinomio."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2 - 2ab + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desarrollo de resta al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los términos medios se cancelan al multiplicar binomios conjugados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el signo del término central en $(x - 3)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hereda el signo de la resta."
+        },
+        {
+          "letter": "B",
+          "text": "Negativo",
+          "is_correct": true,
+          "feedback": "Correcto. En $(a-b)^2$, el término $2ab$ es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe y tiene signo."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de x",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla es constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo de la operación interna determina el signo del doble producto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v4",
+      "statement": "¿Trinomio que representa el área $(x+4)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó término medio."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 8x + 16$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + 2(4)(x) + 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 4x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doble producto mal calculado."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 8x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuadrado de 4 es 16."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de binomio al cuadrado a dimensiones geométricas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v5",
+      "statement": "Resultado de $(x + 2)(x + 3)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta término lineal."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 5x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producto final errado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 5x + 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma (5) y producto (6) de los términos."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 6x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió suma y producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Regla para productos de la forma $x^2 + (a+b)x + ab$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v6",
+      "statement": "Halla el resultado.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe ser resta."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2 - 25$",
+          "is_correct": true,
+          "feedback": "Correcto. Diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No elevó los términos."
+        },
+        {
+          "letter": "D",
+          "text": "$4x - 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta potencia en x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuadrado del primero ($4x^2$) menos cuadrado del segundo ($25$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v7",
+      "statement": "¿Desarrollo de $(3x - 1)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9x^2 - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es diferencia de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$9x^2 - 6x + 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $(3x)^2 - 2(3x)(1) + 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 6x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuadrado de 3 es 9."
+        },
+        {
+          "letter": "D",
+          "text": "$9x^2 - 3x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 2 en el medio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo minucioso de cada término del trinomio cuadrado perfecto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v8",
+      "statement": "¿Desarrollo de $(x + 2)^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó términos centrales."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Sigue el patrón 1-3-3-1."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 2x^2 + 4x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoró coeficientes triples."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 3x^2 + 3x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó por b y b^2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de $(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v9",
+      "statement": "¿Resultado final?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operación errónea."
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes se cancelan."
+        },
+        {
+          "letter": "C",
+          "text": "$20x$",
+          "is_correct": true,
+          "feedback": "Correcto. $10x - (-10x) = 20x$."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos medios se suman."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uso de identidades para reducir expresiones complejas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v10",
+      "statement": "¿Resultado de $(a + b + c)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + b^2 + c^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan productos dobles."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + b^2 + c^2 + 2ab + 2ac + 2bc$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de cuadrados más dobles productos de todas las parejas."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + b^2 + c^2 + ab + ac + bc$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Productos no son dobles."
+        },
+        {
+          "letter": "D",
+          "text": "$(a+b)^2 + c^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incompleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Generalización del binomio al cuadrado para tres términos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v11",
+      "statement": "¿A qué es igual $(a + b)^2 + (a - b)^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4ab$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el resultado de la resta."
+        },
+        {
+          "letter": "B",
+          "text": "$2(a^2 + b^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Los dobles productos se cancelan."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2a^2 + 2ab + 2b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término ab desaparece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación avanzada de la suma de desarrollos binomiales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el segundo término del desarrollo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-12x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó coeficiente 3."
+        },
+        {
+          "letter": "B",
+          "text": "$-36x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $3(2x)^2(-3) = -36x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$36x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo."
+        },
+        {
+          "letter": "D",
+          "text": "$-18x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo parcial errado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de términos específicos usando la fórmula del cubo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v13",
+      "statement": "Halla $101^2$ mediante productos notables.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10001",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó término medio."
+        },
+        {
+          "letter": "B",
+          "text": "10201",
+          "is_correct": true,
+          "feedback": "Correcto. $10000 + 200 + 1$."
+        },
+        {
+          "letter": "C",
+          "text": "10101",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término medio errado."
+        },
+        {
+          "letter": "D",
+          "text": "10301",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excedió cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de $(100+1)^2$ para facilitar el cálculo numérico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v14",
+      "statement": "Si lado $x$ cambia a base $x+2$ y altura $x-2$, ¿qué ocurre con el área?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia por la resta de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye en 4.",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 4$."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta en 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo es resta."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación lineal ausente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación geométrica de la diferencia de cuadrados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v15",
+      "statement": "Simplifica la expresión.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factor equivocado."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x+3)(x-3)/(x+3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta no permitida así."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de diferencia de cuadrados para cancelar factores comunes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v16",
+      "statement": "¿Resultado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - y^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó elevar potencias iniciales."
+        },
+        {
+          "letter": "B",
+          "text": "$x^4 + y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe ser diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$x^4 - y^4$",
+          "is_correct": true,
+          "feedback": "Correcto. Diferencia de cuadrados de términos cuadráticos."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - y)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operación distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de leyes de exponentes sobre productos notables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v17",
+      "statement": "¿Resultado de $(a + b)(a^2 - ab + b^2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "$a^3 + b^3$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de cubos."
+        },
+        {
+          "letter": "C",
+          "text": "$a^3 - b^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo de suma manda."
+        },
+        {
+          "letter": "D",
+          "text": "$a^3 + 3a^2b + 3ab^2 + b^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es binomio al cubo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de la estructura de factorización de suma de cubos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v18",
+      "statement": "¿Qué sumar a $x^2 + 12x$ para un TCP?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el coeficiente."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": true,
+          "feedback": "Correcto. $(12/2)^2$."
+        },
+        {
+          "letter": "D",
+          "text": "144",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el cuadrado del total."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Técnica para hallar el tercer término del trinomio cuadrado perfecto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v19",
+      "statement": "¿Qué herramienta da coeficientes de $(x+y)^n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tablas multiplicar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo Pascal.",
+          "is_correct": true,
+          "feedback": "Correcto. Contiene coeficientes binomiales."
+        },
+        {
+          "letter": "C",
+          "text": "Regla de tres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin relación."
+        },
+        {
+          "letter": "D",
+          "text": "Algoritmo Euclides.",
+          "is_correct": false,
+          "feedback": "Incorrecto. MCD."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre combinatoria y productos notables de grado n.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v20",
+      "statement": "Simplifica totalmente.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedan productos."
+        },
+        {
+          "letter": "B",
+          "text": "$2(ab + ac + bc)$",
+          "is_correct": true,
+          "feedback": "Correcto. Restan dobles productos."
+        },
+        {
+          "letter": "C",
+          "text": "$ab + ac + bc$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta factor 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2abc$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo un término."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eliminación de cuadrados individuales del desarrollo total.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

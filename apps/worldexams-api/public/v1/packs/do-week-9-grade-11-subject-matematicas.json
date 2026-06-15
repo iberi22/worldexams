@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:49:03.720Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un \"sistema de ecuaciones lineales 2x2\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecuación con incógnitas cuadráticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es cuadrática."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunto de dos ecuaciones lineales con dos incógnitas.",
+          "is_correct": true,
+          "feedback": "Correcto. Buscan valores que satisfagan ambas simultáneamente."
+        },
+        {
+          "letter": "C",
+          "text": "Producto de matrices 2x2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una herramienta, no la definición."
+        },
+        {
+          "letter": "D",
+          "text": "Igualdad con cuatro variables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2x2 indica dos de cada una."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema busca la intersección de condiciones matemáticas representadas por rectas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál NO es un método para resolver sistemas lineales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Método estándar."
+        },
+        {
+          "letter": "B",
+          "text": "Igualación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Método estándar."
+        },
+        {
+          "letter": "C",
+          "text": "Factorización",
+          "is_correct": true,
+          "feedback": "Correcto. Se usa para simplificar sumas, no sistemas lineales."
+        },
+        {
+          "letter": "D",
+          "text": "Reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Método estándar (eliminación)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de los procedimientos algebraicos específicos para sistemas 2x2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v3",
+      "statement": "Si las rectas de un sistema se cortan en un punto, ¿qué significa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería si fueran paralelas."
+        },
+        {
+          "letter": "B",
+          "text": "Solución única.",
+          "is_correct": true,
+          "feedback": "Correcto. El cruce es el par (x,y) buscado."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería si fueran iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre es (0,0).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser cualquier punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Correspondencia entre el álgebra de sistemas y la geometría analítica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas soluciones tiene un sistema de rectas paralelas distintas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna.",
+          "is_correct": true,
+          "feedback": "Correcto. Al no haber contacto, no hay solución común."
+        },
+        {
+          "letter": "B",
+          "text": "Una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cruzan."
+        },
+        {
+          "letter": "C",
+          "text": "Dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rectas no se cruzan dos veces."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo si fueran coincidentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Concepto de sistema inconsistente basado en el paralelismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v5",
+      "statement": "Halla (x, y).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(10, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple y=2x."
+        },
+        {
+          "letter": "B",
+          "text": "(5, 10)",
+          "is_correct": true,
+          "feedback": "Correcto. $5+10=15$ y $10=2(5)$."
+        },
+        {
+          "letter": "C",
+          "text": "(7.5, 7.5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple y=2x."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma 9, no 15."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del método de sustitución para hallar el punto de intersección.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v6",
+      "statement": "Valor de x tras sumar las ecuaciones.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividió por 2."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. $2x = 10 \\implies x = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor insuficiente."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eliminación de una variable mediante la adición de ecuaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v7",
+      "statement": "¿Precio de un melón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD\\$ 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "RD\\$ 100",
+          "is_correct": true,
+          "feedback": "Correcto. 2 melones de diferencia valen 200."
+        },
+        {
+          "letter": "C",
+          "text": "RD\\$ 75",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuadra la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "RD\\$ 150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor excedido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Deducción lógica a partir de la comparación de dos estados del sistema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v8",
+      "statement": "Halla la solución.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 4.5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la segunda."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 3)",
+          "is_correct": true,
+          "feedback": "Correcto. $8x = 16 \\implies x=2$; luego $y=3$."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma 10, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 1.5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falló ambas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del método de reducción y posterior sustitución.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v9",
+      "statement": "¿Sistema que representa la situación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g+v=20; g+v=50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora patas."
+        },
+        {
+          "letter": "B",
+          "text": "$g+v=20; 2g+4v=50$",
+          "is_correct": true,
+          "feedback": "Correcto. Conteo de cabezas y conteo de patas."
+        },
+        {
+          "letter": "C",
+          "text": "$g+v=50; 2g+4v=20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió totales."
+        },
+        {
+          "letter": "D",
+          "text": "$2g+4v=70$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta condición de individuos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelación de problemas de mezclas o conteos múltiples con sistemas 2x2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántas vacas hay?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. $2(20-v)+4v=50 \\implies 2v=10 \\implies v=5$."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son las gallinas."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Serían 60 patas."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excedió patas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolución de un problema aplicado mediante el método algebraico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ocurre al resolverlo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí tienen puntos comunes."
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Son la misma recta (sistema dependiente)."
+        },
+        {
+          "letter": "C",
+          "text": "Única (0,5).",
+          "is_correct": false,
+          "feedback": "Incorrecto. (1,4) también sirve."
+        },
+        {
+          "letter": "D",
+          "text": "x debe ser 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. x es libre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de sistemas dependientes mediante la proporcionalidad de coeficientes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v12",
+      "statement": "Fórmula para determinante del sistema $\\Delta$ en $ax+by=e$ y $cx+dy=f$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ad - bc$",
+          "is_correct": true,
+          "feedback": "Correcto. Producto diagonal principal menos secundaria."
+        },
+        {
+          "letter": "B",
+          "text": "$ae - bf$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa términos independientes."
+        },
+        {
+          "letter": "C",
+          "text": "$ac + bd$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe ser resta."
+        },
+        {
+          "letter": "D",
+          "text": "$af - ce$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el determinante principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uso de matrices y determinantes para la resolución de sistemas lineales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v13",
+      "statement": "¿Libras de café B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla barata."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. $200(10-B)+300B = 2600 \\implies B=6$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promedio exacto (250)."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla cara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamiento de sistemas de mezcla balanceando peso y costo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v14",
+      "statement": "Resuelve $x/2 + y/3 = 4$ y $x + y = 9$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(4, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falló la primera."
+        },
+        {
+          "letter": "B",
+          "text": "(6, 3)",
+          "is_correct": true,
+          "feedback": "Correcto. $3+1=4$ en la primera y $6+3=9$ en la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de sistemas con coeficientes fraccionarios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v15",
+      "statement": "¿Valor de m para que sea inconsistente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tendría solución."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Rectas paralelas no coincidentes."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tendría solución."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es paralelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Condiciones de paralelismo en los coeficientes de las incógnitas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v16",
+      "statement": "¿Cantidad al 6%?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD\\$ 4,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interés insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "RD\\$ 6,000",
+          "is_correct": true,
+          "feedback": "Correcto. $0.04(4000)+0.06(6000) = 160+360=520$."
+        },
+        {
+          "letter": "C",
+          "text": "RD\\$ 5,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interés sería 500."
+        },
+        {
+          "letter": "D",
+          "text": "RD\\$ 2,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insuficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de sistemas de ecuaciones a finanzas personales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v17",
+      "statement": "¿Interpretación geométrica de solución 3x3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruce de tres líneas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son planos."
+        },
+        {
+          "letter": "B",
+          "text": "Intersección de tres planos.",
+          "is_correct": true,
+          "feedback": "Correcto. Punto común en el espacio."
+        },
+        {
+          "letter": "C",
+          "text": "Área entre curvas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen piramidal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución es un punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extensión del concepto de solución al espacio tridimensional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v18",
+      "statement": "¿Número original?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertido es menor."
+        },
+        {
+          "letter": "B",
+          "text": "57",
+          "is_correct": true,
+          "feedback": "Correcto. $75 - 57 = 18$ y $5+7=12$."
+        },
+        {
+          "letter": "C",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Diferencia 36."
+        },
+        {
+          "letter": "D",
+          "text": "39",
+          "is_correct": false,
+          "feedback": "Incorrecto. Diferencia 54."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de sistemas para resolver acertijos numéricos de base diez.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v19",
+      "statement": "¿Cuántas soluciones puede tener?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recta corta círculo hasta dos veces."
+        },
+        {
+          "letter": "B",
+          "text": "0, 1 o 2.",
+          "is_correct": true,
+          "feedback": "Correcto. Depende de la posición relativa de la recta."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Curvaturas distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existen reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la intersección entre diferentes familias de funciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v20",
+      "statement": "Halla $x+y+z$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de los resultados."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. $2(x+y+z) = 20 \\implies 10$."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excedido."
+        },
+        {
+          "letter": "D",
+          "text": "7.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insuficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la suma de ecuaciones para extraer propiedades del sistema sin resolver variables.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
