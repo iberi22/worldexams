@@ -197,6 +197,75 @@ function normalizePackQuestion(question: any) {
   }
 }
 
+function normalizeQuestionText(value: unknown) {
+  return String(value ?? "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+function questionIdentityKey(question: any) {
+  const id = normalizeQuestionText(question?.id ?? question?.question_id)
+  if (id) return `id:${id}`
+
+  const bundleId = normalizeQuestionText(question?.bundle_id ?? question?.bundleId)
+  const localId = normalizeQuestionText(question?.local_id ?? question?.questionId)
+  if (bundleId && localId) return `bundle:${bundleId}:${localId}`
+
+  return ""
+}
+
+function questionSemanticKey(question: any) {
+  const statement = normalizeQuestionText(
+    question?.statement ||
+      question?.enunciado ||
+      question?.question ||
+      question?.text ||
+      question?.prompt,
+  )
+  if (!statement) return ""
+
+  const options = Array.isArray(question?.options)
+    ? question.options
+        .map((option: any) => normalizeQuestionText(option?.text ?? option?.label ?? option))
+        .filter(Boolean)
+        .sort()
+        .join("|")
+    : ""
+
+  return `semantic:${statement.slice(0, 240)}::${options.slice(0, 240)}`
+}
+
+function dedupeQuestions<T>(questions: T[]) {
+  const seenIdentity = new Set<string>()
+  const seenSemantic = new Set<string>()
+  const deduped: T[] = []
+  let duplicateCount = 0
+
+  for (const question of questions as any[]) {
+    const identityKey = questionIdentityKey(question)
+    const semanticKey = questionSemanticKey(question)
+    const isDuplicate =
+      (identityKey && seenIdentity.has(identityKey)) ||
+      (semanticKey && seenSemantic.has(semanticKey))
+
+    if (isDuplicate) {
+      duplicateCount += 1
+      continue
+    }
+
+    if (identityKey) seenIdentity.add(identityKey)
+    if (semanticKey) seenSemantic.add(semanticKey)
+    deduped.push(question as T)
+  }
+
+  return { questions: deduped, duplicateCount }
+}
+
 async function fetchPublicQuestions(request: Request, env: Env) {
   const url = new URL(request.url)
   const grade = url.searchParams.get("grade") || "11"
@@ -228,8 +297,10 @@ async function fetchPublicQuestions(request: Request, env: Env) {
 
     const pack = await assetResponse.json<any>()
     const allQuestions = Array.isArray(pack?.questions) ? pack.questions : []
+    const normalizedQuestions = allQuestions.map(normalizePackQuestion)
+    const deduped = dedupeQuestions(normalizedQuestions)
     const startIndex = (page - 1) * pageSize
-    const questions = allQuestions.slice(startIndex, startIndex + pageSize).map(normalizePackQuestion)
+    const questions = deduped.questions.slice(startIndex, startIndex + pageSize)
 
     return json({
       success: true,
@@ -243,7 +314,9 @@ async function fetchPublicQuestions(request: Request, env: Env) {
       page,
       meta: {
         available_questions: allQuestions.length,
-        filtered_out: 0,
+        deduplicated_questions: deduped.questions.length,
+        duplicate_filtered: deduped.duplicateCount,
+        filtered_out: deduped.duplicateCount,
         source: "worker-assets",
         pack_path: path,
       },
