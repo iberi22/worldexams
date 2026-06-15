@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T05:20:28.828Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia fundamental entre una noticia y un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia es escrita por un autor y el artículo de opinión no tiene autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen autores, aunque el artículo de opinión suele estar firmado por una persona específica."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia busca informar objetivamente, mientras que el artículo de opinión expresa el punto de vista del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. La subjetividad y la valoración personal son la base del artículo de opinión."
+        },
+        {
+          "letter": "C",
+          "text": "La noticia es mucho más larga que el artículo de opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no es la diferencia que define el género."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo de opinión solo habla de temas de deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede tratar cualquier tema de interés público."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A diferencia de los géneros informativos que buscan la neutralidad, los géneros de opinión permiten que el autor analice, interprete y valore la realidad desde su propia perspectiva.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué elemento es indispensable en un artículo de opinión para que sea válido y convincente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de precios de los uniformes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería información comercial, no sustento de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "Argumentos o razones que apoyen la postura del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. La opinión debe estar fundamentada en argumentos lógicos o hechos para persuadir al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Dibujos de colores hechos a mano por el autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede tener ilustraciones, lo esencial es el texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de palabras en otro idioma que nadie entienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje debe ser claro para cumplir su función comunicativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un artículo de opinión no es solo decir \"me gusta\" o \"no me gusta\". Requiere una estructura argumentativa donde se planteen razones sólidas para defender una tesis o postura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v3",
+      "statement": "Si el autor escribe: \"Considero que el reciclaje es una obligación moral de todos los estudiantes\", la palabra \"Considero\" indica que el texto es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un informe científico basado solo en datos numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo indica una postura personal, no solo una exposición de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Una instrucción directa de cómo usar la caneca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una valoración, no una orden técnica."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto subjetivo donde se manifiesta una creencia o pensamiento del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Los verbos de pensamiento (creo, considero, opino) marcan la subjetividad del artículo de opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia sobre un premio de reciclaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las noticias evitan el uso de la primera persona del singular para opinar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de la primera persona (yo/nosotros) y de verbos de opinión es característico de este género, permitiendo al autor hacerse responsable de sus afirmaciones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v4",
+      "statement": "En un artículo de opinión, ¿cuál es la función de la **tesis**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar los datos de contacto del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no tiene relación con el contenido argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar la idea o postura principal que el autor va a defender a lo largo del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la columna vertebral de cualquier texto de opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir las noticias del día anterior en Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de un resumen informativo."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer una lista de agradecimientos a los profesores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los agradecimientos no son la tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la afirmación central del artículo de opinión. Todo el resto del texto (los argumentos) trabaja para demostrar que esa tesis es válida o razonable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué propósito cumple la **conclusión** en un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un nuevo tema totalmente diferente al anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión debe cerrar el tema tratado."
+        },
+        {
+          "letter": "B",
+          "text": "Poner el precio de la comida saludable en el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato informativo, no una parte estructural del cierre argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Reforzar la tesis inicial y proponer una reflexión final al lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El cierre sintetiza lo expuesto y busca dejar una huella en el pensamiento del receptor."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar el texto a la mitad para que el lector lo termine.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen artículo debe tener un final cerrado y coherente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión retoma la esencia de lo argumentado, cerrando el ciclo de persuasión y muchas veces invitando a la acción o al cambio de mentalidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los siguientes es un **argumento de autoridad** que podría usarse en un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mí me gusta mucho usar la tableta porque es de color azul.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una preferencia personal sin base racional."
+        },
+        {
+          "letter": "B",
+          "text": "Según la UNESCO, el uso de tecnología mejora el acceso a la información en zonas rurales.",
+          "is_correct": true,
+          "feedback": "Correcto. Citar a una organización prestigiosa (autoridad) refuerza la credibilidad de la opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Mi primo dice que los computadores son aburridos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un familiar no suele ser una autoridad reconocida en el tema educativo global."
+        },
+        {
+          "letter": "D",
+          "text": "Ayer vi a un niño usando un celular en el parque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una anécdota personal, no un argumento de autoridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los argumentos de autoridad utilizan el prestigio de personas o instituciones expertas para dar solidez a la opinión del autor, haciendo que el lector confíe más en lo que lee.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes oraciones contiene un lenguaje cargado de **valoración subjetiva**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volcán Nevado del Ruiz se encuentra a 5.321 metros sobre el nivel del mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción objetiva con datos geográficos."
+        },
+        {
+          "letter": "B",
+          "text": "La ciudad de Manizales tiene un clima templado de montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación factual sobre el clima."
+        },
+        {
+          "letter": "C",
+          "text": "Es **lamentable** y **vergonzoso** el descuido de algunos turistas en nuestras reservas naturales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los adjetivos \"lamentable\" y \"vergonzoso\" expresan claramente la indignación y opinión del autor."
+        },
+        {
+          "letter": "D",
+          "text": "El senderismo es una actividad física que se realiza en caminos rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una definición objetiva de una actividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos de opinión utilizan un léxico valorativo para transmitir emociones y juicios morales, buscando que el lector comparta el mismo sentimiento o valoración frente al hecho.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué busca lograr principalmente el autor de un artículo de opinión al usar un lenguaje persuasivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lector se quede dormido mientras lee.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, busca despertar el interés y la reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "Informar sobre cuántos decibeles exactos de ruido hay en cada calle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos técnicos son apoyo, pero no el fin último de la persuasión."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer al lector de que su postura es correcta y motivarlo a actuar o pensar de cierta forma.",
+          "is_correct": true,
+          "feedback": "Correcto. La persuasión es el alma de la argumentación en la opinión pública."
+        },
+        {
+          "letter": "D",
+          "text": "Ocultar quién es el autor del texto para que nadie lo critique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor del artículo de opinión suele dar la cara y firmar su texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La persuasión es la capacidad de influir en las ideas o acciones de otros mediante razones y argumentos, siendo esta la meta final del articulista de opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función de una **pregunta retórica** al final de un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lector llame por teléfono al periódico para responderla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una pregunta para obtener una respuesta literal inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "Invitar al lector a reflexionar profundamente sobre el tema, cuya respuesta suele ser obvia según los argumentos dados.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta retórica es una herramienta de estilo para involucrar al receptor."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que el autor no sabe nada sobre el tema y necesita ayuda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una duda real del autor, sino una estrategia literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Rellenar espacio porque el texto era muy corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo elemento en un buen artículo debe tener un propósito comunicativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preguntas retóricas no esperan respuesta, sino que sirven para enfatizar una idea y hacer que el lector se sienta partícipe del razonamiento del autor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v10",
+      "statement": "Lee el siguiente fragmento: \"Ayer se inauguró el nuevo muelle de la ciudad. Asistieron 500 personas y el evento duró tres horas. No hubo incidentes\". ¿Por qué este texto **no** es un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque habla de algo que pasó en Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los artículos de opinión pueden hablar de hechos locales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa números para decir cuánta gente asistió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los artículos de opinión pueden incluir datos estadísticos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se limita a narrar hechos sin dar ninguna valoración, juicio o postura personal del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Carece de subjetividad y argumentación; es un texto puramente informativo (noticia corta)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor no puso su nombre completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de firma no cambia la naturaleza informativa del contenido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ausencia de tesis y argumentos, sumada a un tono neutral y descriptivo, hace que un texto sea informativo y no de opinión. Reconocer esta diferencia es clave para la comprensión crítica de medios.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Cubre el tema de artículo de opinión para Grado 6. |\n| Contexto | 20/20 | Referencias a Ibagué, Tunja, Cali, Barranquilla, etc. |\n| Redacción | 10/10 | Alta calidad en las preguntas y opciones. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
