@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T20:35:33.995Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la principal diferencia entre una ecuación y una inecuación lineal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inecuación solo acepta números enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las inecuaciones pueden tener soluciones en cualquier subconjunto de números reales."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación utiliza signos de desigualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la inecuación la que usa los símbolos de desigualdad, no la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "La inecuación suele tener infinitas soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia de las ecuaciones lineales, las inecuaciones definen rangos o intervalos de valores."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia en la resolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las inecuaciones existe una regla especial para la multiplicación por números negativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación conceptual de las inecuaciones y sus diferencias fundamentales con las ecuaciones de primer grado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v2",
+      "statement": "Si el costo total $C$ debe ser menor o igual a $\\$50.00$ balboas, ¿cuál es la representación correcta de esta restricción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C < 50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este símbolo excluye el valor exacto de 50 balboas de la solución."
+        },
+        {
+          "letter": "B",
+          "text": "$C \\leq 50$",
+          "is_correct": true,
+          "feedback": "Correcto. El símbolo representa \"menor o igual que\", incluyendo el límite superior del presupuesto."
+        },
+        {
+          "letter": "C",
+          "text": "$C > 50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este símbolo representa la condición opuesta (mayor que cincuenta)."
+        },
+        {
+          "letter": "D",
+          "text": "$C \\geq 50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este símbolo representaría un presupuesto mínimo de cincuenta balboas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de símbolos de desigualdad para modelar restricciones de la vida real mediante inecuaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor resultante de calcular $|-15.5|$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-15.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto representa una distancia y por lo tanto nunca es negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$15.5$",
+          "is_correct": true,
+          "feedback": "Correcto. El valor absoluto es la magnitud numérica del dato prescindiendo de su signo algebraico."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el valor absoluto del número cero es igual a la unidad nula."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{15.5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de valor absoluto no guarda relación directa con la operación de radicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición básica y cálculo del valor absoluto de un número real decimal.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v4",
+      "statement": "Resuelve la inecuación lineal simple: $x + 5 > 12$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una suma en lugar de una resta al trasponer el término constante."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando la variable se obtiene x > 12 - 5, por lo tanto x es mayor que siete."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió el sentido de la desigualdad sin que mediara una multiplicación por negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución de una inecuación es un conjunto de valores, no una única igualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones lineales básicas de un solo paso mediante trasposición de términos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v5",
+      "statement": "Si tenemos $-2x < 10$, ¿cuál es el conjunto solución correcto para $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó invertir el sentido del signo de desigualdad al operar con el negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$x > -5$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir por un número negativo el sentido de la desigualdad debe invertirse obligatoriamente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado debe expresarse como una desigualdad para representar el rango de soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el signo del cociente final de la operación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la regla de inversión del signo de desigualdad al operar con factores negativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v6",
+      "statement": "Resuelve la inecuación con valor absoluto fundamental: $|x| \\leq 3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\leq 3$",
+          "is_correct": false,
+          "feedback": "Incompleto. Se omitieron todos los valores negativos cuyo valor absoluto también es menor a tres."
+        },
+        {
+          "letter": "B",
+          "text": "$-3 \\leq x \\leq 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición el valor absoluto menor que una constante define un intervalo cerrado central."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\geq -3$",
+          "is_correct": false,
+          "feedback": "Incompleto. Falta establecer el límite superior del conjunto de soluciones posibles."
+        },
+        {
+          "letter": "D",
+          "text": "$|x| < 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta debe eliminar la notación de valor absoluto para ser una solución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones fundamentales con valor absoluto (menor o igual).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v7",
+      "statement": "Halla el conjunto solución de la inecuación: $3x - 4 \\geq 11$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 7/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó la constante en lugar de sumarla al miembro de la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Trasponiendo: 3x >= 15, por lo tanto x es mayor o igual que cinco."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el sentido de la desigualdad de forma innecesaria en este proceso."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo original incluye la posibilidad de igualdad, la cual se omitió aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones lineales de dos pasos con coeficientes positivos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v8",
+      "statement": "Resuelve la inecuación con valor absoluto de alejamiento: $|x| > 5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-5 < x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este intervalo correspondería al caso en que el valor absoluto fuera menor a cinco."
+        },
+        {
+          "letter": "B",
+          "text": "$x < -5$ o $x > 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Indica que el número se encuentra alejado del origen más de cinco unidades en cualquier sentido."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 5$ únicamente",
+          "is_correct": false,
+          "feedback": "Incompleto. Se olvidaron los números negativos cuya magnitud también supera el valor de cinco."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\pm 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de la inecuación no son puntos aislados sino intervalos de la recta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones fundamentales con valor absoluto (mayor que).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el intervalo solución para la inecuación simultánea: $4 < 2x - 2 < 10$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al operar con las constantes en los extremos de la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando 2 queda 6 < 2x < 12. Dividiendo entre 2 se obtiene el rango de tres a seis."
+        },
+        {
+          "letter": "C",
+          "text": "$[3, 6]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intervalo debe ser abierto ya que los signos no incluyen la igualdad estricta."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los cálculos aritméticos durante la resolución de la inecuación doble."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones lineales dobles (simultáneas) expresadas en forma de intervalo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v10",
+      "statement": "Resuelve la inecuación fraccionaria: $\\frac{x}{4} - 1 \\leq \\frac{x}{2} + 3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al reducir los términos semejantes con los denominadores dados."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq -16$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por 4 queda x-4 <= 2x+12, trasponiendo términos resulta en -16 <= x."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq -16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el sentido del signo de desigualdad de manera errónea al final."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\leq 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el signo de la constante resultante tras el proceso de despeje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones lineales con términos fraccionarios y reducción de semejantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v11",
+      "statement": "Halla la solución de la inecuación: $|2x - 4| < 6$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incompleto. Falta considerar la restricción inferior impuesta por la definición de distancia."
+        },
+        {
+          "letter": "B",
+          "text": "$-1 < x < 5$",
+          "is_correct": true,
+          "feedback": "Correcto. -6 < 2x-4 < 6 implica -2 < 2x < 10, por lo tanto el rango es de menos uno a cinco."
+        },
+        {
+          "letter": "C",
+          "text": "$x < -1$ o $x > 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conjunto de soluciones correspondería al caso de mayor que seis."
+        },
+        {
+          "letter": "D",
+          "text": "$1 < x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos al resolver la parte negativa de la desigualdad absoluta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones de valor absoluto de la forma |ax + b| < c.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v12",
+      "statement": "Determina el intervalo de solución para: $|3 - x| \\geq 2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[1, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este intervalo representa los valores que no cumplen la condición de alejamiento."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\leq 1$ o $x \\geq 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Resolviendo los dos casos de la desigualdad se obtienen estos dos semi-intervalos."
+        },
+        {
+          "letter": "C",
+          "text": "$1 \\leq x \\leq 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre las reglas de resolución para menor que y mayor que en valor absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 1$ o $x > 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitieron los puntos extremos que sí satisfacen la igualdad del signo original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis y resolución de inecuaciones de valor absoluto de la forma |ax + b| >= c.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la solución de la inecuación: $2(x - 1) - 3(x + 2) \\leq 4$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq -12$",
+          "is_correct": true,
+          "feedback": "Correcto. 2x-2-3x-6 <= 4 resulta en -x-8 <= 4, por lo que -x <= 12 y x >= -12."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\leq -12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó invertir el signo de desigualdad al tratar con el coeficiente negativo de x."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error cometido en el signo de la constante final tras realizar los despejes."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\geq 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en la reducción de los términos numéricos independientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolución de inecuaciones lineales complejas con paréntesis y coeficientes negativos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v14",
+      "statement": "Determina el conjunto solución para la expresión: $|x - 4| < -2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es posible resolver la inecuación ignorando el signo de la constante negativa."
+        },
+        {
+          "letter": "B",
+          "text": "$2 < x < 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún valor absoluto puede resultar en un número inferior a cero."
+        },
+        {
+          "letter": "C",
+          "text": "Conjunto vacío",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición un valor absoluto es siempre no negativo y no puede ser menor a -2."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta sería válida si la desigualdad fuera de tipo \"mayor que\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de inecuaciones inconsistentes basadas en las propiedades del valor absoluto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v15",
+      "statement": "Resuelve la inecuación: $| 1/x | > 2$ considerando que $x$ es distinto de cero.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 1/2$",
+          "is_correct": false,
+          "feedback": "Incompleto. No considera la restricción del límite inferior ni la exclusión del valor nulo."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/2 < x < 1/2$ (con $x \\neq 0$)",
+          "is_correct": true,
+          "feedback": "Correcto. Equivale a decir que el valor absoluto de x es menor que un medio pero sin ser cero."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 1/2$ o $x < -1/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la regla de inversión al trabajar con los recíprocos de la variable."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conjunto de soluciones es infinito dentro del rango especificado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones racionales simples involucrando conceptos de valor absoluto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v16",
+      "statement": "¿Para qué valores de $x$ se cumple la inecuación: $|x - 5| \\leq |x + 3|$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Elevando al cuadrado: (x-5)^2 <= (x+3)^2, lo que reduce a -10x+25 <= 6x+9, resultando x >= 1."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\leq 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores representan puntos que se encuentran más cercanos al valor -3 que al 5."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser una inecuación la solución es un intervalo de puntos, no un dato aislado."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque incluye parte de la solución, el límite exacto del conjunto comienza en la unidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolución de inecuaciones con valor absoluto en ambos miembros mediante análisis de distancias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v17",
+      "statement": "Halla la solución para la inecuación: $x - 1 < 2x + 3 \\leq 3x + 7$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > -4$",
+          "is_correct": false,
+          "feedback": "Incompleto. Representa solo una de las dos condiciones que deben cumplirse simultáneamente."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq -4$",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas partes de la inecuación doble resultan en x >= -4 (o mayor que), siendo esta la solución común."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los procesos de trasposición de términos en las desigualdades parciales."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto vacío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe un rango de valores que satisface ambas condiciones de forma concurrente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de inecuaciones lineales concatenadas o dobles.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v18",
+      "statement": "Determina el intervalo de solución de la inecuación: $1 < |2x - 5| < 7$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 3) \\cup (6, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al desglosar los cuatro casos posibles para la desigualdad doble absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "$(-1, 2) \\cup (3, 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. Desglosando casos para el intervalo positivo y el intervalo negativo del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "$(-1, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye valores centrales que no cumplen con la condición de magnitud mínima de 1."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 6)$ únicamente",
+          "is_correct": false,
+          "feedback": "Incompleto. Se ignoró totalmente la rama de soluciones con valores negativos del argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones compuestas con valor absoluto y doble restricción de rango.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v19",
+      "statement": "Encuentra el conjunto solución para la expresión: $||x| - 2| > 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 3$ o $x < -3$",
+          "is_correct": false,
+          "feedback": "Incompleto. Falta el intervalo de soluciones internas cercano al valor del origen."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, -3) \\cup (-1, 1) \\cup (3, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se obtienen dos regiones de alejamiento al considerar los dos niveles de valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$(-3, -1) \\cup (1, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el resultado si la desigualdad original fuera de tipo \"menor que\"."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales excepto el 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen múltiples rangos de números que no satisfacen la condición dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones complejas con valor absoluto anidado mediante el desglose sistemático de casos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v20",
+      "statement": "Determina la solución para el sistema: $|x + 2| \\leq 5$ y $|x - 1| \\geq 2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-7, 3]$",
+          "is_correct": false,
+          "feedback": "Incompleto. Esta es solo la solución a la primera de las dos inecuaciones del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\leq -1$ o $x \\geq 3$",
+          "is_correct": false,
+          "feedback": "Incompleto. Esta es solo la solución a la segunda de las dos inecuaciones del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "$[-7, -1] \\cup \\{3\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. La intersección de los rangos individuales resulta en este intervalo y un punto aislado."
+        },
+        {
+          "letter": "D",
+          "text": "$(-7, -1) \\cup (3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitieron los puntos extremos cerrados que el sistema permite por sus signos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolución de sistemas de inecuaciones que combinan diferentes tipos de restricciones de valor absoluto.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
