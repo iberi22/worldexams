@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.625Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v1",
+      "statement": "¿Qué es la superestructura de un texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tema principal que aborda el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el contenido temático o macroestructura."
+        },
+        {
+          "letter": "B",
+          "text": "La organización formal o esquema global que determina cómo se ordena el contenido.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la estructura que organiza las partes del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Las palabras y frases que conectan las ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los mecanismos de cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "La intención comunicativa del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención es el propósito, no la estructura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superestructura textual es el \"esqueleto\" del texto: el esquema organizativo que determina qué partes lo componen y en qué orden aparecen. Por ejemplo, un cuento tiene superestructura narrativa (inicio, nudo, desenlace), mientras un artículo científico tiene introducción, metodología, resultados y conclusiones. Es independiente del contenido específico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v2",
+      "statement": "¿Cuál es la superestructura típica de un texto narrativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción, desarrollo y conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de un texto expositivo general."
+        },
+        {
+          "letter": "B",
+          "text": "Situación inicial, complicación o nudo, y resolución o desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la superestructura clásica de la narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis, argumentos y conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la superestructura del texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Definición, características y ejemplos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una organización típica de textos expositivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superestructura narrativa organiza el relato en tres momentos: 1) Situación inicial: se presentan personajes, espacio y tiempo, 2) Complicación o nudo: ocurre un conflicto o evento que altera la situación, 3) Resolución o desenlace: el conflicto se resuelve. Esta estructura puede variar (inicio in media res, final abierto, etc.) pero es el esquema básico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v3",
+      "statement": "¿Qué tipo de superestructura está usando el profesor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tiene una secuencia temporal, no es un relato con personajes ficticios ni nudo."
+        },
+        {
+          "letter": "B",
+          "text": "Argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca defender una postura con argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Expositiva de secuencia causal o histórica.",
+          "is_correct": true,
+          "feedback": "Correcto. Organiza la información en una secuencia lógico-temporal."
+        },
+        {
+          "letter": "D",
+          "text": "Descriptiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe las características de un solo elemento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dentro de la superestructura expositiva, existen varios esquemas de organización: problema-solución, causa-consecuencia, comparación-contraste, secuencia temporal, etc. Aquí, el profesor usa una organización causal e histórica: explica primero las causas, luego el desarrollo, después las consecuencias y finalmente los protagonistas. Esta estructura es muy común en textos históricos y explicativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v4",
+      "statement": "¿Qué superestructura tiene este editorial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expositiva: el editorial explica el hecho noticioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial no solo explica, también opina."
+        },
+        {
+          "letter": "B",
+          "text": "Argumentativa: presenta una tesis (opinión) y la sostiene con argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. El editorial es un género de opinión argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativa: cuenta la historia de la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los editoriales no narran historias."
+        },
+        {
+          "letter": "D",
+          "text": "Instructiva: da instrucciones sobre cómo actuar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da pasos a seguir, aunque concluya con un llamado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El editorial es un género periodístico de opinión que sigue una superestructura argumentativa: 1) Contexto o hecho que motiva la opinión, 2) Tesis u opinión del medio, 3) Argumentos de apoyo, 4) Conclusión que refuerza la tesis o propone una acción. Reconocer esta estructura ayuda a leer críticamente los editoriales y a diferenciarlos de las noticias (que son expositivas).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v5",
+      "statement": "¿Qué superestructura caracteriza a una receta de cocina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Problema-solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presenta un problema que resolver."
+        },
+        {
+          "letter": "B",
+          "text": "Causa-consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta no explica por qué ocurre algo."
+        },
+        {
+          "letter": "C",
+          "text": "Secuencia de pasos ordenados (instructiva).",
+          "is_correct": true,
+          "feedback": "Correcto. La receta organiza los pasos en orden secuencial para lograr un resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Comparación-contraste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara opciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La superestructura de los textos instructivos (como recetas, manuales, guías) se organiza como una secuencia ordenada de pasos. Generalmente incluye: 1) Lista de ingredientes o materiales, 2) Pasos numerados o secuenciados con marcadores temporales, 3) Resultado esperado. Cada paso debe seguirse en el orden indicado para lograr el objetivo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v6",
+      "statement": "¿Qué nombre recibe esta alteración de la superestructura narrativa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superestructura expositiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo narrativa, pero alterada."
+        },
+        {
+          "letter": "B",
+          "text": "Narración in media res o con analepsis (retroceso temporal).",
+          "is_correct": true,
+          "feedback": "Correcto. Comienza en un punto avanzado y luego retrocede."
+        },
+        {
+          "letter": "C",
+          "text": "Superestructura argumentativa disfrazada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura desordenada sin sentido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es intencional y tiene efectos estéticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superestructura narrativa puede alterarse intencionalmente para crear efectos estéticos o de suspenso. \"In media res\" significa comenzar en medio de la acción. La analepsis (flashback) es un retroceso temporal para contar lo que ocurrió antes. Estas alteraciones son comunes en la literatura moderna, el cine y las series, y no significan que el texto esté mal estructurado, sino que el autor juega con las expectativas del lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v7",
+      "statement": "¿Qué superestructura identifica en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa: presenta personajes con opiniones distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay personajes ni acciones en secuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Descriptiva: describe los uniformes escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe características físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Expositiva de contraste o puntos de vista opuestos.",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta dos posturas enfrentadas de manera equilibrada."
+        },
+        {
+          "letter": "D",
+          "text": "Instructiva: da instrucciones sobre el uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da pasos a seguir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dentro de la superestructura expositiva, existe un esquema de \"organización por contraste\" que presenta dos o más perspectivas sobre un mismo tema. Este fragmento presenta la postura a favor y en contra del uniforme escolar. No toma partido (aún), sino que se prepara para analizar ambas. Esta estructura es común en textos académicos, ensayos y artículos de divulgación que buscan presentar un panorama equilibrado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v8",
+      "statement": "¿Qué superestructura identificó Felipe y por qué es efectiva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa, porque cuenta la historia de la basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay personajes ni trama."
+        },
+        {
+          "letter": "B",
+          "text": "Descriptiva, porque describe la basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se centra en describir características."
+        },
+        {
+          "letter": "C",
+          "text": "Problema-solución, porque presenta un problema (basura) y propone una solución (reciclaje obligatorio).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta estructura es clara y persuasiva."
+        },
+        {
+          "letter": "D",
+          "text": "Comparativa, porque compara la basura en Bogotá con otras ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación con otras ciudades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La superestructura \"problema-solución\" es muy efectiva porque: 1) Capta la atención al presentar un problema con datos concretos, 2) Genera una necesidad de solución, 3) Propone una respuesta específica y 4) Muestra los beneficios esperados. Es muy utilizada en textos persuasivos, discursos políticos y artículos de opinión porque guía al lector desde la preocupación hasta la acción.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v9",
+      "statement": "¿Qué superestructura organiza este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causa-consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se enfoca en causas y efectos."
+        },
+        {
+          "letter": "B",
+          "text": "Problema-solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un problema que resolver."
+        },
+        {
+          "letter": "C",
+          "text": "Comparación-contraste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara nada."
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia temporal o de proceso.",
+          "is_correct": true,
+          "feedback": "Correcto. Organiza los pasos del proceso digestivo en orden cronológico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La superestructura de \"secuencia temporal\" o \"proceso\" organiza la información siguiendo el orden en que ocurren los eventos. Usa marcadores temporales como \"comienza\", \"luego\", \"después\", \"finalmente\". Es muy común en textos científicos y técnicos para explicar procesos, ciclos o procedimientos. En este caso, describe la digestión paso a paso, en el orden en que los alimentos recorren el sistema digestivo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v10",
+      "statement": "¿Qué diferencia de superestructura encuentran entre el cuento clásico y el TikTok narrativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, ambos siguen la misma estructura narrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay diferencias significativas."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento tiene estructura argumentativa; el TikTok no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser narrativos."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento clásico desarrolla todas las partes (inicio, nudo, desenlace), mientras el TikTok a menudo comienza in media res y omite partes para ser breve.",
+          "is_correct": true,
+          "feedback": "Correcto. La duración y el medio afectan la estructura."
+        },
+        {
+          "letter": "D",
+          "text": "El TikTok tiene superestructura expositiva y el cuento narrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser narrativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La superestructura de un texto puede verse afectada por el medio y el formato. Un cuento clásico tiene espacio para desarrollar la situación inicial, el nudo y el desenlace. Un video de TikTok, con duración de 15 a 60 segundos, a menudo comienza en el momento más impactante (in media res) y puede omitir la presentación de personajes o el desenlace para enganchar rápidamente. El formato condiciona la estructura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v11",
+      "statement": "¿Qué tipo de superestructura tiene la Constitución colombiana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa: cuenta la historia de la Constitución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un relato."
+        },
+        {
+          "letter": "B",
+          "text": "Expositiva: explica los derechos y deberes.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero hay una clasificación más precisa."
+        },
+        {
+          "letter": "C",
+          "text": "Normativa-jerárquica: organiza las normas en niveles de generalidad, de lo más general (preámbulo) a lo más específico (artículos).",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura jerárquica es característica de los textos legales."
+        },
+        {
+          "letter": "D",
+          "text": "Instructiva: da instrucciones sobre cómo cumplir la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución no da instrucciones paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos legales y normativos tienen una superestructura jerárquica característica. En el caso de la Constitución: el Preámbulo contiene los principios generales, los Títulos agrupan grandes temas, los Capítulos subdividen esos temas y los Artículos contienen las disposiciones específicas. Esta organización de lo general a lo particular facilita la consulta y aplicación de las normas. Reconocer esta estructura ayuda a navegar documentos legales complejos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-v12",
+      "statement": "¿Qué tipo de superestructura tiene este texto y por qué el autor eligió ese orden?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura narrativa pura; el autor la elige para entretener.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye datos, no es solo narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura expositiva pura; el autor la elige para ser objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anécdota inicial no es objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura híbrida que combina gancho emocional (anécdota), reflexión (pregunta), evidencia (datos) y persuasión (llamado). Es una estrategia retórica para conectar primero con el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada sección tiene una función específica."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura desordenada; el autor no sabe organizar ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es intencional y estratégico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La superestructura de un texto no siempre corresponde a un \"tipo puro\". Los autores pueden combinar elementos de diferentes esquemas para lograr efectos específicos. Esta estructura híbrida sigue una estrategia retórica muy efectiva: 1) Anécdota: conecta emocionalmente, 2) Pregunta retórica: involucra al lector, 3) Datos: aporta credibilidad, 4) Análisis: demuestra profundidad, 5) Llamado: impulsa a la acción. Reconocer estas estrategias de organización permite una lectura más crítica y consciente.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W06-superestructura-textual-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.842Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal del sistema nervioso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinar las respuestas del organismo ante estímulos internos y externos.",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema nervioso recibe, procesa y responde a estímulos."
+        },
+        {
+          "letter": "B",
+          "text": "Transportar oxígeno a todas las células del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función del sistema circulatorio."
+        },
+        {
+          "letter": "C",
+          "text": "Digerir los alimentos para absorber nutrientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función del sistema digestivo."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrar las sustancias de desecho de la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función del sistema excretor o renal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema nervioso es el centro de control del organismo. Su función principal es captar estímulos del ambiente (externos) y del interior del cuerpo (internos), procesar esa información y generar respuestas coordinadas, como movimientos, sensaciones o secreciones hormonales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes partes de la neurona es la encargada de recibir señales de otras neuronas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Axón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El axón transmite señales hacia otras células, no las recibe."
+        },
+        {
+          "letter": "B",
+          "text": "Dendritas",
+          "is_correct": true,
+          "feedback": "Correcto. Las dendritas son las prolongaciones que reciben los impulsos de otras neuronas."
+        },
+        {
+          "letter": "C",
+          "text": "Vaina de mielina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vaina de mielina aísla y acelera la transmisión del impulso."
+        },
+        {
+          "letter": "D",
+          "text": "Nódulo de Ranvier",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son espacios entre segmentos de mielina que permiten la conducción saltatoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La neurona tiene tres partes principales: las dendritas (reciben señales), el cuerpo celular o soma (procesa la información) y el axón (transmite el impulso a otras neuronas o efectores). La vaina de mielina acelera la transmisión a lo largo del axón.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v3",
+      "statement": "¿Cuáles son las dos divisiones principales del sistema nervioso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema óseo y sistema muscular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos no son parte del sistema nervioso."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema nervioso central y sistema nervioso periférico",
+          "is_correct": true,
+          "feedback": "Correcto. El SNC (encéfalo y médula espinal) y el SNP (nervios) son las dos divisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema simpático y sistema parasimpático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son subdivisiones del sistema nervioso autónomo, parte del SNP."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema voluntario y sistema involuntario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una forma funcional de clasificar, no la división anatómica principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Anatómicamente, el sistema nervioso se divide en: Sistema Nervioso Central (SNC), compuesto por el encéfalo y la médula espinal, y Sistema Nervioso Periférico (SNP), formado por los nervios que conectan el SNC con el resto del cuerpo. El sistema autónomo (simpático/parasimpático) es parte del SNP.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v4",
+      "statement": "¿Qué tipo de respuesta nerviosa explica por qué Camila retiró la mano antes de sentir dolor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acto voluntario coordinado por el cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta fue tan rápida que no involucró al cerebro de forma consciente."
+        },
+        {
+          "letter": "B",
+          "text": "Una respuesta hormonal liberada por la médula espinal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una respuesta hormonal, es nerviosa."
+        },
+        {
+          "letter": "C",
+          "text": "Un acto reflejo mediado por la médula espinal.",
+          "is_correct": true,
+          "feedback": "Correcto. El arco reflejo permite una respuesta rápida sin pasar por el cerebro."
+        },
+        {
+          "letter": "D",
+          "text": "Un impulso nervioso que viajó directamente al cerebelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebelo coordina movimientos voluntarios y equilibrio, no reflejos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El arco reflejo es una respuesta automática e involuntaria que no requiere la intervención consciente del cerebro. La señal viaja desde el receptor (piel) hasta la médula espinal, donde se genera una respuesta motora inmediata. Por eso retiramos la mano antes de sentir conscientemente el dolor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes funciones corresponde al cerebelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controlar la respiración y los latidos del corazón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde al bulbo raquídeo o tronco encefálico."
+        },
+        {
+          "letter": "B",
+          "text": "Procesar pensamientos complejos y el lenguaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde principalmente al cerebro o corteza cerebral."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinar los movimientos y mantener el equilibrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El cerebelo regula la coordinación motora fina y el equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Regular la temperatura corporal y el sueño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde al hipotálamo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cerebelo, ubicado detrás del tronco encefálico, es responsable de la coordinación de movimientos voluntarios precisos, el tono muscular y el equilibrio. Compara la intención del movimiento con lo que realmente ocurre y hace ajustes. Las lesiones en el cerebelo causan movimientos descoordinados (ataxia).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v6",
+      "statement": "¿Cuál es la dirección correcta del flujo del impulso nervioso dentro de una neurona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Axón → Cuerpo celular → Dendritas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impulso va desde las dendritas hacia el axón, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "Dendritas → Cuerpo celular → Axón",
+          "is_correct": true,
+          "feedback": "Correcto. El impulso se recibe en las dendritas, se procesa en el soma y se transmite por el axón."
+        },
+        {
+          "letter": "C",
+          "text": "Cuerpo celular → Axón → Dendritas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dendritas reciben la señal primero."
+        },
+        {
+          "letter": "D",
+          "text": "Axón → Dendritas → Cuerpo celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El flujo es unidireccional desde las dendritas al axón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transmisión del impulso nervioso en una neurona sigue una dirección específica: las dendritas captan la señal de neuronas vecinas o receptores, el cuerpo celular la integra, y si el estímulo es suficiente, se genera un potencial de acción que viaja por el axón hacia las terminales sinápticas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v7",
+      "statement": "¿Qué división del sistema nervioso está activando estas respuestas en el cuerpo de Valentina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema nervioso parasimpático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parasimpático se activa en reposo y relajación."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema nervioso simpático",
+          "is_correct": true,
+          "feedback": "Correcto. El simpático activa la respuesta de \"lucha o huida\" ante situaciones de estrés o peligro."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema nervioso somático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El somático controla movimientos voluntarios, no las funciones automáticas."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema nervioso central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta es mediada por el sistema nervioso autónomo, específicamente el simpático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema nervioso autónomo tiene dos ramas: el simpático (prepara el cuerpo para la acción — \"lucha o huida\") y el parasimpático (promueve funciones de reposo — \"descanso y digestión\"). La taquicardia, midriasis (dilatación de pupilas) y aumento respiratorio son respuestas simpáticas típicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v8",
+      "statement": "¿Qué ocurre en la sinapsis entre dos neuronas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las neuronas se fusionan para transmitir el impulso eléctrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las neuronas no se fusionan; hay un espacio entre ellas."
+        },
+        {
+          "letter": "B",
+          "text": "El impulso eléctrico salta directamente de una neurona a otra por contacto físico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un espacio sináptico que el impulso no puede saltar directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Se liberan neurotransmisores que viajan por el espacio sináptico y activan la neurona siguiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Los neurotransmisores son los mensajeros químicos de la sinapsis."
+        },
+        {
+          "letter": "D",
+          "text": "La vaina de mielina conecta físicamente ambas neuronas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vaina de mielina aísla el axón, no conecta neuronas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sinapsis es la zona de comunicación entre dos neuronas. Cuando el impulso llega al botón terminal, se liberan neurotransmisores (sustancias químicas) que cruzan el espacio sináptico y se unen a receptores en la membrana de la neurona postsináptica, generando un nuevo impulso. Este proceso es fundamental para todas las funciones del sistema nervioso.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v9",
+      "statement": "¿Cuál de las siguientes funciones vitales es controlada por el tronco encefálico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El razonamiento lógico y la resolución de problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas funciones corresponden a la corteza cerebral."
+        },
+        {
+          "letter": "B",
+          "text": "La respiración, la frecuencia cardíaca y la presión arterial.",
+          "is_correct": true,
+          "feedback": "Correcto. El tronco encefálico regula funciones autónomas vitales."
+        },
+        {
+          "letter": "C",
+          "text": "La producción de hormonas del crecimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde a la glándula pituitaria (hipófisis)."
+        },
+        {
+          "letter": "D",
+          "text": "El almacenamiento de recuerdos a largo plazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria está asociada principalmente al hipocampo en el cerebro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tronco encefálico (compuesto por bulbo raquídeo, protuberancia y mesencéfalo) conecta el cerebro con la médula espinal y controla funciones vitales involuntarias como la respiración, el ritmo cardíaco, la presión arterial y reflejos como la deglución y la tos. Es una región filogenéticamente antigua y esencial para la vida.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v10",
+      "statement": "¿Cuál estructura del encéfalo es la más probablemente afectada por el golpe que causa problemas de memoria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cerebelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebelo está relacionado con coordinación y equilibrio, no con memoria."
+        },
+        {
+          "letter": "B",
+          "text": "El hipocampo",
+          "is_correct": true,
+          "feedback": "Correcto. El hipocampo es fundamental para la formación de nuevos recuerdos."
+        },
+        {
+          "letter": "C",
+          "text": "La médula espinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La médula espinal transmite señales pero no almacena recuerdos."
+        },
+        {
+          "letter": "D",
+          "text": "El bulbo raquídeo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bulbo controla funciones vitales como respiración, no memoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hipocampo, ubicado en el lóbulo temporal del cerebro, es esencial para la consolidación de la memoria a corto plazo en memoria a largo plazo. Las lesiones en esta estructura pueden causar amnesia anterógrada (incapacidad para formar nuevos recuerdos) mientras los recuerdos antiguos pueden preservarse.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v11",
+      "statement": "¿Por qué el consumo excesivo de alcohol afecta la coordinación motora y el equilibrio de una persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el alcohol daña permanentemente las dendritas de todas las neuronas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El daño no es necesariamente permanente ni afecta todas las dendritas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el alcohol acelera la transmisión de impulsos nerviosos en el cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcohol es un depresor, no un acelerador."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el alcohol afecta la función del cerebelo, que controla la coordinación y el equilibrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El cerebelo es especialmente sensible a los efectos del alcohol."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el alcohol estimula la producción excesiva de neurotransmisores excitatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcohol potencia principalmente neurotransmisores inhibitorios como el GABA."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alcohol es una sustancia depresora del sistema nervioso central que afecta especialmente al cerebelo, la región encargada de la coordinación motora y el equilibrio. Además, potencia la acción del neurotransmisor GABA (inhibitorio) y suprime la actividad del glutamato (excitatorio), lo que explica los efectos de descoordinación, habla arrastrada y reflejos lentos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-v12",
+      "statement": "Si un paciente tiene sensibilidad normal en el brazo izquierdo pero no puede moverlo voluntariamente, ¿dónde está probablemente la lesión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la médula espinal a nivel de las vértebras cervicales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una lesión medular generalmente afectaría tanto sensibilidad como movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "En la corteza motora del hemisferio derecho del cerebro.",
+          "is_correct": true,
+          "feedback": "Correcto. La corteza motora derecha controla el movimiento del lado izquierdo del cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "En el cerebelo del lado izquierdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebelo afecta coordinación, no la capacidad de generar movimiento voluntario."
+        },
+        {
+          "letter": "D",
+          "text": "En los nervios periféricos del brazo izquierdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si los nervios periféricos estuvieran dañados, también habría pérdida de sensibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La corteza motora primaria, ubicada en el lóbulo frontal del cerebro, controla los movimientos voluntarios. Existe una decusación (cruce) de las vías motoras: el hemisferio derecho controla el lado izquierdo del cuerpo y viceversa. La preservación de la sensibilidad indica que las vías sensitivas (que también se cruzan) están intactas, apuntando a una lesión específica en la corteza motora derecha.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W01-sistema-nervioso-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-matematicas",
+    "generated_at": "2026-06-15T20:41:21.361Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v1",
+      "statement": "¿Qué es una razón matemática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de dos números.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de pensar lógicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "La comparación de dos cantidades mediante una división.",
+          "is_correct": true,
+          "feedback": "Correcto. Una razón es a/b o a:b."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado de multiplicar dos números. \nUna razón es una comparación entre dos cantidades mediante división. Se escribe como a/b o a:b y se lee \"a es a b\". Por ejemplo, si en un salón hay 15 niñas y 10 niños, la razón de niñas a niños es 15/10 = 3/2 (3:2). Las razones son útiles para comparar cantidades de manera relativa.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v2",
+      "statement": "¿Qué es una proporción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad de dos productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia entre dos números.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "La igualdad de dos razones: a/b = c/d.",
+          "is_correct": true,
+          "feedback": "Correcto. Una proporción establece que dos razones son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "La multiplicación de dos razones. \nUna proporción es una ecuación que expresa la igualdad de dos razones. Se escribe a/b = c/d y se lee \"a es a b como c es a d\". Ejemplo: 2/4 = 3/6 es una proporción porque ambas razones simplifican a 1/2. En una proporción, el producto de medios (b × c) es igual al producto de extremos (a × d).\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v3",
+      "statement": "¿Forman una proporción 3/5 y 6/10?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque son diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 3 × 10 = 30 y 5 × 6 = 30.",
+          "is_correct": true,
+          "feedback": "Correcto. Producto de extremos = producto de medios."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque 3 + 5 ≠ 6 + 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque 3/5 es mayor que 6/10. \nPara verificar si dos razones forman una proporción, aplicamos la regla: producto de extremos = producto de medios. 3/5 = 6/10 → 3 × 10 = 30 y 5 × 6 = 30. Como los productos son iguales (30 = 30), SÍ forman una proporción. También se puede simplificar: 6/10 = 3/5.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son iguales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v4",
+      "statement": "¿Cuál es el valor de x en 2/5 = 6/x?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/5 = 0.4; 6/3 = 2."
+        },
+        {
+          "letter": "B",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/5 = 0.4; 6/10 = 0.6."
+        },
+        {
+          "letter": "C",
+          "text": "x = 15",
+          "is_correct": true,
+          "feedback": "Correcto. 2/5 = 6/15 → 2×15 = 5×6 = 30."
+        },
+        {
+          "letter": "D",
+          "text": "x = 12 \nAplicamos la regla de productos cruzados: 2/5 = 6/x → 2 × x = 5 × 6 → 2x = 30 → x = 15. Verificación: 2/5 = 0.4 y 6/15 = 0.4 ✓. Este método de encontrar el valor desconocido en una proporción se llama \"regla de tres simple\".\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/5 = 0.4; 6/12 = 0.5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v5",
+      "statement": "Usando regla de tres, ¿cuánto cuestan 7 libras de arroz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$14,000",
+          "is_correct": true,
+          "feedback": "Correcto. 3/6000 = 7/x → 3x = 42000 → x = 14000."
+        },
+        {
+          "letter": "C",
+          "text": "$18,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$12,000 \nRegla de tres directa: 3 libras → $6,000; 7 libras → x. La proporción es 3/7 = 6000/x → 3x = 7×6000 → 3x = 42000 → x = 14000. Las 7 libras cuestan $14,000. La regla de tres es una herramienta práctica para resolver problemas de proporcionalidad en la vida cotidiana.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v6",
+      "statement": "Si 4 trabajadores construyen un muro en 6 días, ¿cuántos días tardarán 8 trabajadores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si hay más trabajadores, tardan menos."
+        },
+        {
+          "letter": "B",
+          "text": "3 días",
+          "is_correct": true,
+          "feedback": "Correcto. Es proporcionalidad inversa: 4×6 = 8×x → x = 3."
+        },
+        {
+          "letter": "C",
+          "text": "2 días",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "4 días \nEste es un ejemplo de proporcionalidad INVERSA: a más trabajadores, menos días. En la proporcionalidad inversa, el producto de las magnitudes es constante: 4 trabajadores × 6 días = 8 trabajadores × x días → 24 = 8x → x = 3 días. Se diferencian: directa (ambas aumentan o disminuyen) vs inversa (una aumenta, la otra disminuye).\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v7",
+      "statement": "Si x = 2, 4, 6 y y = 5, 10, 15, ¿es una relación de proporcionalidad directa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque los números son diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 2/5 = 4/10 = 6/15 = 0.4 (constante).",
+          "is_correct": false,
+          "feedback": "Correcto. Todas las razones y/x son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque x aumenta de 2 en 2 y y de 5 en 5.",
+          "is_correct": true,
+          "feedback": "Correcto también, pero la razón constante es la clave."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque todas son positivas. \nPara identificar proporcionalidad directa, calculamos el cociente y/x. Si es constante, es proporcional: 5/2 = 2.5; 10/4 = 2.5; 15/6 = 2.5. La constante de proporcionalidad es k = 2.5. La fórmula general es y = kx, donde k es la constante.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v8",
+      "statement": "Si en el mapa 1 cm representa 100,000 cm en la realidad, ¿cuántos km reales son 5 cm en el mapa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la conversión de cm a km."
+        },
+        {
+          "letter": "B",
+          "text": "500 km",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "5 km",
+          "is_correct": true,
+          "feedback": "Correcto. 5 × 100,000 cm = 500,000 cm = 5 km."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 km \nEscala 1:100,000 significa que 1 cm en el mapa equivale a 100,000 cm reales = 1 km (porque 100,000 cm = 1,000 m = 1 km). Por lo tanto, 5 cm en el mapa = 5 × 1 km = 5 km reales. Las escalas son aplicaciones de la proporcionalidad directa.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v9",
+      "statement": "¿Cuántos litros de blanco necesita para mantener la proporción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "4 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "8 litros",
+          "is_correct": true,
+          "feedback": "Correcto. 3/2 = 12/x → 3x = 24 → x = 8."
+        },
+        {
+          "letter": "D",
+          "text": "10 litros \nLa razón es 3:2 (azul:blanco). Usando proporción: 3/2 = 12/x → 3x = 24 → x = 8. Necesita 8 litros de blanco. La proporción se mantiene constante, aunque las cantidades absolutas cambien. Esto es útil en recetas, mezclas, y muchas aplicaciones prácticas.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v10",
+      "statement": "¿Es cierto que todas las relaciones en la vida son directamente proporcionales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, siempre funciona así.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "No, ninguna relación es proporcional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "No, solo algunas relaciones son proporcionales; muchas son no lineales o tienen otros patrones.",
+          "is_correct": true,
+          "feedback": "Correcto. La proporcionalidad es un modelo específico."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, las matemáticas lo demuestran. \nNo todas las relaciones son proporcionales. Ejemplos de relaciones NO proporcionales: (1) Edad y estatura (creces rápido al inicio, luego te detienes). (2) Velocidad y tiempo de viaje (inversamente proporcional). (3) Precio con descuento por volumen (no lineal). La proporcionalidad es solo uno de muchos tipos de relaciones matemáticas.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v11",
+      "statement": "Usando proporciones, ¿cuánto es el 15% de 80,000?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "15,000",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "12,000",
+          "is_correct": true,
+          "feedback": "Correcto. 15/100 = x/80000 → x = 12,000."
+        },
+        {
+          "letter": "D",
+          "text": "10,000 \nPorcentajes son proporciones donde el denominador es 100. 15% significa 15/100. La proporción: 15/100 = x/80,000 → 100x = 15 × 80,000 → 100x = 1,200,000 → x = 12,000. El 15% de $80,000 es $12,000. Los porcentajes son una de las aplicaciones más comunes de proporcionalidad.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-v12",
+      "statement": "¿Son semejantes los rectángulos de 3×4 y 6×8?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque tienen diferentes tamaños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Semejanza no es igualdad."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque la razón entre sus lados es la misma: 3/6 = 4/8 = 1/2.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay proporcionalidad entre lados."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque un rectángulo es más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser más grande no implica falta de semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque ambos son rectángulos. \nDos figuras son semejantes si tienen la misma forma (ángulos iguales) y sus lados correspondientes son proporcionales. 3/6 = 0.5 y 4/8 = 0.5. Como las razones son iguales (0.5), los rectángulos son semejantes. La razón de semejanza es 1:2 (el segundo es el doble del primero en cada lado).\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los rectángulos no son semejantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W05-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

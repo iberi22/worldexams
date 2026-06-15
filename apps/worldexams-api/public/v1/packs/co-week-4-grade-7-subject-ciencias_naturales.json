@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.845Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v1",
+      "statement": "¿Qué significan las siglas ADN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácido Desoxirribonucleico",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Ácido Ribonucleico",
+          "is_correct": true,
+          "feedback": "Incorrecto. Eso es ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Aminoácido Natural",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ácido Dextrínico Nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "ADN significa Ácido Desoxirribonucleico (en inglés DNA: Deoxyribonucleic Acid). Es la molécula que contiene la información genética de todos los seres vivos. Está formada por una doble hélice de nucleótidos. Cada nucleótido contiene un grupo fosfato, un azúcar (desoxirribosa) y una base nitrogenada (A, T, C, G).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v2",
+      "statement": "¿Qué forma tiene la molécula de ADN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forma circular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN bacteriano es circular, pero el humano no."
+        },
+        {
+          "letter": "B",
+          "text": "Forma de doble hélice (escalera retorcida).",
+          "is_correct": true,
+          "feedback": "Correcto. La doble hélice fue descubierta por Watson y Crick en 1953."
+        },
+        {
+          "letter": "C",
+          "text": "Forma de cadena simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma del ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Forma de cubo tridimensional.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura del ADN es una doble hélice, como una escalera en espiral. Los \"pasamanos\" están formados por fosfatos y azúcares (desoxirribosa). Los \"peldaños\" son los pares de bases nitrogenadas: Adenina (A) con Timina (T), y Citosina (C) con Guanina (G). Este modelo fue propuesto por James Watson y Francis Crick en 1953, basándose en los rayos X de Rosalind Franklin.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v3",
+      "statement": "¿Cuáles son las cuatro bases nitrogenadas del ADN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A, B, C, D",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A (Adenina), T (Timina), C (Citosina), G (Guanina)",
+          "is_correct": true,
+          "feedback": "Correcto. Estas son las cuatro bases del ADN."
+        },
+        {
+          "letter": "C",
+          "text": "A, U, C, G",
+          "is_correct": false,
+          "feedback": "Incorrecto. U (Uracilo) está en el ARN, no en el ADN."
+        },
+        {
+          "letter": "D",
+          "text": "A, T, U, C",
+          "is_correct": false,
+          "feedback": "Incorrecto. U es del ARN."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cuatro bases nitrogenadas del ADN son: Adenina (A), Timina (T), Citosina (C) y Guanina (G). Siempre se emparejan así: A con T (dos puentes de hidrógeno) y C con G (tres puentes de hidrógeno). Esta regla de apareamiento específico (regla de Chargaff) es fundamental para la replicación del ADN.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v4",
+      "statement": "¿Dónde se encuentra la mayor parte del ADN en las células humanas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el citoplasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay ADN mitocondrial, pero la mayor parte está en el núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "En el núcleo de la célula.",
+          "is_correct": true,
+          "feedback": "Correcto. El ADN nuclear contiene la mayor parte de la información genética."
+        },
+        {
+          "letter": "C",
+          "text": "En la membrana celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En los ribosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas usan ARN, no ADN."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las células eucariotas (como las humanas), la mayor parte del ADN se encuentra en el núcleo, organizado en cromosomas. También hay una pequeña cantidad de ADN en las mitocondrias (ADN mitocondrial). En las células procariotas (bacterias), el ADN está en el citoplasma. El ADN nuclear contiene aproximadamente 3,000 millones de pares de bases.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v5",
+      "statement": "¿Qué significa que la replicación del ADN sea \"semiconservativa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo la mitad del ADN se replica.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la célula conserva todo el ADN original.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada nueva molécula de ADN contiene una hebra original y una nueva.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hebra se conserva, otra se sintetiza nueva."
+        },
+        {
+          "letter": "D",
+          "text": "Que la replicación ocurre solo en las mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La replicación del ADN es semiconservativa: la doble hélice se \"abre\" (como un zipper) y cada hebra original sirve como molde para sintetizar una nueva hebra complementaria. Así, cada nueva molécula de ADN tiene una hebra \"vieja\" (original) y una \"nueva\". Este mecanismo asegura que la información genética se transmita fielmente a las células hijas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v6",
+      "statement": "¿Cuál es la hebra complementaria de ATTCGG?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "UAAGCC",
+          "is_correct": false,
+          "feedback": "Incorrecto. U es del ARN, no ADN."
+        },
+        {
+          "letter": "B",
+          "text": "TAAGCC",
+          "is_correct": true,
+          "feedback": "Correcto. A se empareja con T, T con A, C con G, G con C."
+        },
+        {
+          "letter": "C",
+          "text": "ATTCGG",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la misma secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "CGGAAT",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden y el emparejamiento están invertidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar la hebra complementaria, aplicamos las reglas de apareamiento: A ↔ T, C ↔ G. ATTCGG se complementa así: A → T, T → A, T → A, C → G, G → C, G → C. Resultado: TAAGCC. Este proceso de complementariedad es esencial para la replicación y la transcripción del ADN.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v7",
+      "statement": "¿Qué diferencia hay entre el ADN y el ARN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ADN tiene una hebra y el ARN tiene dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN tiene uracilo y el ARN tiene timina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ADN tiene timina, ARN tiene uracilo."
+        },
+        {
+          "letter": "C",
+          "text": "El ADN tiene desoxirribosa y timina; el ARN tiene ribosa y uracilo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas son las diferencias principales."
+        },
+        {
+          "letter": "D",
+          "text": "Son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen diferencias importantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferencias ADN vs ARN: (1) Azúcar: ADN tiene desoxirribosa, ARN tiene ribosa. (2) Bases: ADN tiene Timina (T), ARN tiene Uracilo (U) en lugar de T. (3) Estructura: ADN es de doble hebra, ARN es de una sola hebra. (4) Función: ADN almacena información genética; ARN transmite esa información para producir proteínas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v8",
+      "statement": "¿Por qué el ADN puede usarse para identificar a una persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todas las personas tienen el mismo ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada persona tiene ADN único."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada persona (excepto gemelos idénticos) tiene una secuencia de ADN única.",
+          "is_correct": true,
+          "feedback": "Correcto. La individualidad genética permite la identificación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el ADN cambia cada día.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el ADN solo está en la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está en todas las células nucleadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ADN de cada persona es único (excepto en gemelos idénticos). Las pruebas de ADN comparan regiones específicas del genoma que varían entre individuos. Se usan para: identificación forense (huella genética), pruebas de paternidad, identificación de restos, y diagnóstico de enfermedades genéticas. El 99.9% del ADN humano es idéntico entre todas las personas; la variación está en el 0.1%.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v9",
+      "statement": "¿Cómo \"lee\" la célula la información del ADN para producir características?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ADN se convierte directamente en proteínas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Necesita intermediarios."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN viaja a los ribosomas para hacer proteínas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN no sale del núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "El ADN se transcribe a ARN, que luego se traduce a proteínas.",
+          "is_correct": true,
+          "feedback": "Correcto. Este es el dogma central de la biología molecular."
+        },
+        {
+          "letter": "D",
+          "text": "El ADN se duplica y cada copia es una proteína.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El \"dogma central de la biología molecular\" explica el flujo de información: ADN → ARN → Proteína. Primero, el ADN se transcribe a ARN mensajero (ARNm) en el núcleo. Luego, el ARNm sale al citoplasma donde los ribosomas lo traducen para producir proteínas. Las proteínas determinan las características del organismo (color de ojos, tipo de cabello, etc.).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v10",
+      "statement": "¿Por qué las mutaciones en el ADN pueden ser beneficiosas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nunca son beneficiosas, siempre causan enfermedades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunas mutaciones son útiles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todas las mutaciones hacen más fuerte al organismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque algunas mutaciones pueden dar ventajas adaptativas, como resistencia a enfermedades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las mutaciones son la base de la evolución."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el ADN muta para protegerse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son aleatorias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una mutación es un cambio en la secuencia del ADN. Pueden ser: (1) Perjudiciales (causan enfermedades como cáncer), (2) Neutras (no tienen efecto), (3) Beneficiosas (dan una ventaja, como la resistencia a la malaria en personas con rasgo drepanocítico). Las mutaciones beneficiosas son la materia prima de la evolución por selección natural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v11",
+      "statement": "¿Cuántos cromosomas tiene una célula humana normal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23 cromosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 23 es el número haploide (gametos)."
+        },
+        {
+          "letter": "B",
+          "text": "48 cromosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humanos tenemos 46."
+        },
+        {
+          "letter": "C",
+          "text": "46 cromosomas (23 pares).",
+          "is_correct": true,
+          "feedback": "Correcto. 22 pares autosómicos + 1 par sexual."
+        },
+        {
+          "letter": "D",
+          "text": "44 cromosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las células humanas somáticas (corporales) tienen 46 cromosomas organizados en 23 pares: 22 pares de autosomas (homólogos) y 1 par de cromosomas sexuales (XX en mujeres, XY en hombres). Los gametos (óvulos y espermatozoides) tienen 23 cromosomas cada uno. Cada cromosoma contiene una larga molécula de ADN con muchos genes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W04-ADN-001-MASTERY-v12",
+      "statement": "¿Por qué fue tan importante descubrir la estructura del ADN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque explicaba cómo se heredaban las enfermedades.",
+          "is_correct": false,
+          "feedback": "Correcto pero incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permitió entender cómo se almacena, replica y transmite la información genética, abriendo el camino a la biotecnología moderna.",
+          "is_correct": true,
+          "feedback": "Correcto. El descubrimiento revolucionó la biología."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permitió curar todas las enfermedades genéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aún no se curan todas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque demostró que los humanos no evolucionaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El descubrimiento de la doble hélice (Watson y Crick, 1953) fue revolucionario porque: (1) Explicó cómo el ADN se replica (separación de hebras). (2) Mostró cómo se almacena la información (secuencia de bases). (3) Permitió el desarrollo de la ingeniería genética, la secuenciación del genoma humano, la PCR (pruebas COVID), la terapia génica y la biotecnología.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W04-ADN-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

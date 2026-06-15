@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.619Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v1",
+      "statement": "¿Qué es una falacia en el contexto de la argumentación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento muy bien fundamentado con evidencia científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una falacia es un error, no un buen argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento que parece válido pero contiene un error lógico que lo hace inválido.",
+          "is_correct": true,
+          "feedback": "Correcto. Las falacias engañan porque parecen razonables."
+        },
+        {
+          "letter": "C",
+          "text": "Una conclusión acertada basada en datos estadísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una conclusión respaldada no es una falacia."
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de texto narrativo que busca entretener.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las falacias se encuentran en textos argumentativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una falacia es un razonamiento incorrecto que aparenta ser válido. Engañan al lector porque se presentan con apariencia de lógica, pero contienen errores en su estructura o en la relación entre premisas y conclusión. Identificar falacias es una habilidad clave del pensamiento crítico para no ser engañado por argumentos débiles o manipuladores.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v2",
+      "statement": "¿Qué tipo de falacia comete este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem (contra la persona)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ataca a la persona, generaliza incorrectamente."
+        },
+        {
+          "letter": "B",
+          "text": "Generalización apresurada",
+          "is_correct": true,
+          "feedback": "Correcto. Concluye sobre todos los políticos basado en un solo caso."
+        },
+        {
+          "letter": "C",
+          "text": "Pregunta compleja",
+          "is_correct": false,
+          "feedback": "Incorrecto. No formula una pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "Apelación a la autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita a ninguna autoridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La generalización apresurada es una falacia que consiste en extraer una conclusión general a partir de una muestra insuficiente. Un solo político corrupto no es evidencia suficiente para concluir que \"todos los políticos son corruptos\". Se necesitarían datos estadísticos representativos para hacer una afirmación tan amplia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v3",
+      "statement": "¿Qué falacia comete este estudiante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falsa analogía",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está comparando dos cosas diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está asumiendo lo que quiere probar."
+        },
+        {
+          "letter": "C",
+          "text": "Ad hominem (ataque a la persona)",
+          "is_correct": true,
+          "feedback": "Correcto. Ataca al profesor en lugar de refutar sus argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta solo dos opciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia ad hominem consiste en atacar a la persona que presenta el argumento en lugar de refutar el argumento mismo. Que el profesor haya llegado tarde no invalida sus enseñanzas sobre ética. El ataque es irrelevante para la validez del contenido que el profesor está explicando.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v4",
+      "statement": "¿Qué falacia identifica Laura en este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está generalizando a partir de pocos casos."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente resbaladiza",
+          "is_correct": true,
+          "feedback": "Correcto. Asume que un pequeño paso llevará inevitablemente a consecuencias extremas."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación a la mayoría",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a lo que la mayoría piensa."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa causa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No confunde correlación con causalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia de pendiente resbaladiza (o bola de nieve) argumenta que un primer paso llevará inevitablemente a una cadena de consecuencias extremas sin proporcionar evidencia de esa conexión causal. No hay evidencia de que usar celulares en clase lleve necesariamente a abandonar los estudios.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v5",
+      "statement": "¿Qué tipo de falacia contiene este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ataca a ninguna persona."
+        },
+        {
+          "letter": "B",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta solo dos opciones."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación a la mayoría (argumentum ad populum)",
+          "is_correct": true,
+          "feedback": "Correcto. Apela a que la mayoría lo apoya como razón para aprobarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No asume lo que quiere probar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia ad populum (apelación a la mayoría) sostiene que una proposición es verdadera o correcta simplemente porque mucha gente la cree o apoya. Que el 70% apoye una ley no significa que sea la mejor decisión; la validez de una ley debe basarse en sus méritos, no en su popularidad.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v6",
+      "statement": "¿Qué falacia utiliza este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ataca a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "Apelación a la autoridad irrelevante",
+          "is_correct": true,
+          "feedback": "Correcto. Una actriz no es autoridad en productos capilares."
+        },
+        {
+          "letter": "C",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No generaliza a partir de pocos casos."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa analogía",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara dos situaciones diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia de apelación a la autoridad ocurre cuando se cita a una persona que no es experta en el tema relevante. Una actriz de televisión no tiene conocimientos especializados sobre shampoos o cuidado del cabello. Solo es válido citar a una autoridad cuando esa persona es reconocida como experta en el campo específico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v7",
+      "statement": "¿Qué falacia hay en este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Ad hominem (circunstancial)",
+          "is_correct": true,
+          "feedback": "Correcto. Ataca una circunstancia personal irrelevante de la candidata."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente resbaladiza",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una forma de falacia ad hominem llamada \"circunstancial\", donde se ataca a la persona por sus circunstancias personales (no tener hijos) que son irrelevantes para evaluar sus propuestas políticas. Una persona puede tener excelentes ideas sobre educación o familia sin tener hijos propios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v8",
+      "statement": "¿Qué falacia identifica Camila?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Falso dilema (falsa dicotomía)",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta solo dos opciones excluyentes cuando hay más posibilidades."
+        },
+        {
+          "letter": "D",
+          "text": "Apelación a la ignorancia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia del falso dilema (o falsa dicotomía) presenta una situación como si solo hubiera dos opciones posibles, cuando en realidad existen alternativas intermedias. En este caso, entre \"educación pública mala\" y \"privatización total\" hay muchas opciones: mejorar la inversión, reformar la administración, modelos mixtos, etc.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v9",
+      "statement": "¿Qué falacia contiene la expresión \"Eso lo sabe todo el mundo\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa analogía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación a la mayoría",
+          "is_correct": false,
+          "feedback": "Correcto. Asume que porque \"todos lo saben\", debe ser cierto."
+        },
+        {
+          "letter": "D",
+          "text": "Apelación a la tradición",
+          "is_correct": true,
+          "feedback": "Parcialmente, pero la apelación a la mayoría es más precisa aquí."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Decir \"eso lo sabe todo el mundo\" es una forma de apelación a la mayoría que busca evitar que se cuestione la afirmación. Si \"todo el mundo lo sabe\", cuestionarlo parece una tontería. Pero en realidad, la relación entre uniformes y rendimiento académico es compleja y requiere evidencia, no consenso popular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v10",
+      "statement": "¿Qué falacia contiene este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente resbaladiza",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa causa (post hoc ergo propter hoc)",
+          "is_correct": true,
+          "feedback": "Correcto. Asume que porque B ocurrió después de A, A causó B."
+        },
+        {
+          "letter": "C",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta compleja",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia \"post hoc ergo propter hoc\" (después de esto, por lo tanto, a causa de esto) confunde correlación temporal con causalidad. Que el diagnóstico de autismo haya ocurrido después de la vacunación no significa que la vacuna lo haya causado. El autismo suele diagnosticarse a la misma edad en que se aplican muchas vacunas, lo que es una coincidencia temporal, no una relación causal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v11",
+      "statement": "¿Qué error lógico comete Daniel en su argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": "Correcto, pero hay una falacia más específica."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir clima con tiempo meteorológico (falacia de composición o de evidencia anecdótica)",
+          "is_correct": true,
+          "feedback": "Correcto. Un evento climático local no refuta una tendencia global."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa analogía",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta falacia confunde el clima (tendencia a largo plazo) con el tiempo meteorológico (condiciones atmosféricas locales de corto plazo). Que haga frío en Bogotá durante un invierno no refuta el calentamiento global, que es una tendencia de aumento de temperatura promedio del planeta a lo largo de décadas. Es un error tomar un dato aislado para refutar una tendencia general.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W02-falacias-001-MASTERY-v12",
+      "statement": "¿Qué falacia o problema lógico tiene este contraargumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un argumento válido porque hay contradicción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contradicción no invalida el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Es la falacia \"tu quoque\" (tú también): ataca la hipocresía en lugar del argumento.",
+          "is_correct": true,
+          "feedback": "Correcto. La inconsistencia personal no refuta la validez del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Es una generalización apresurada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es una petición de principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia \"tu quoque\" (\"tú también\") consiste en rechazar un argumento señalando que la persona que lo presenta no actúa de acuerdo con él. Que alguien use zapatos de cuero no invalida el argumento de que los animales deben ser protegidos. El argumento debe evaluarse por sus propios méritos, no por la coherencia personal de quien lo presenta.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W02-falacias-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

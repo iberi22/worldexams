@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-15T20:41:21.765Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v1",
+      "statement": "¿Qué fue la Contrarreforma católica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una nueva religión fundada por el Papa para competir con el protestantismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Contrarreforma fue una renovación interna dentro del catolicismo."
+        },
+        {
+          "letter": "B",
+          "text": "El movimiento de renovación y reforma de la Iglesia católica en respuesta a la Reforma Protestante, que incluyó cambios doctrinales y disciplinarios.",
+          "is_correct": true,
+          "feedback": "Correcto. La Iglesia se reformó a sí misma para responder a los desafíos protestantes."
+        },
+        {
+          "letter": "C",
+          "text": "Un acuerdo de paz entre católicos y protestantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Paz de Augsburgo (1555) fue un acuerdo político, no un movimiento de renovación católica."
+        },
+        {
+          "letter": "D",
+          "text": "La expansión del protestantismo hacia América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Contrarreforma fue un movimiento católico, no protestante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Contrarreforma (o Reforma Católica) fue el proceso de renovación interna de la Iglesia católica entre 1545 y 1648 como respuesta al avance del protestantismo. Tuvo tres pilares: el Concilio de Trento (1545-1563) que redefinió la doctrina católica; la fundación de nuevas órdenes religiosas como los jesuitas; y la reorganización de la Inquisición para combatir herejías.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v2",
+      "statement": "Según el texto de historia, ¿qué decisión tomó el Concilio de Trento respecto a la doctrina católica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptó todas las tesis de Lutero y Calvino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concilio reafirmó las doctrinas católicas frente al protestantismo."
+        },
+        {
+          "letter": "B",
+          "text": "Abolió todos los sacramentos excepto el bautismo y la eucaristía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concilio reafirmó los siete sacramentos."
+        },
+        {
+          "letter": "C",
+          "text": "Reafirmó la doctrina católica tradicional: los siete sacramentos, la autoridad papal, el culto a los santos y la Virgen María, y la importancia de las buenas obras.",
+          "is_correct": true,
+          "feedback": "Correcto. Trento definió claramente las diferencias con el protestantismo."
+        },
+        {
+          "letter": "D",
+          "text": "Declaró que la Iglesia debía deshacerse de todas sus propiedades y riquezas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concilio no ordenó la pobreza de la Iglesia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Concilio de Trento (1545-1563), convocado por el Papa Pablo III, fue la respuesta doctrinal de la Iglesia católica a la Reforma. Contra los protestantes, Trento reafirmó: (1) la existencia de siete sacramentos (no solo dos); (2) la autoridad del Papa como sucesor de Pedro; (3) el valor de las buenas obras para la salvación (contra la \"sola fide\"); (4) el culto a la Virgen y los santos; (5) la Vulgata latina como versión oficial de la Biblia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v3",
+      "statement": "¿Qué orden religiosa fundó Ignacio de Loyola en 1540 y cuál fue su principal característica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los franciscanos, dedicados a la pobreza y la predicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los franciscanos existían desde el siglo XIII."
+        },
+        {
+          "letter": "B",
+          "text": "La Compañía de Jesús (jesuitas), caracterizada por su énfasis en la educación, las misiones y la obediencia absoluta al Papa.",
+          "is_correct": true,
+          "feedback": "Correcto. Los jesuitas fueron el brazo educativo y misionero de la Contrarreforma."
+        },
+        {
+          "letter": "C",
+          "text": "Los dominicos, especializados en la predicación y la Inquisición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dominicos ya existían desde el siglo XIII."
+        },
+        {
+          "letter": "D",
+          "text": "Los benedictinos, dedicados a la vida monástica contemplativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los benedictinos existían desde el siglo VI."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Compañía de Jesús (jesuitas), fundada por el soldado español Ignacio de Loyola en 1540, fue la orden más importante de la Contrarreforma. Sus características principales eran: (1) disciplina militar (\"Compañía\" como ejército de Cristo); (2) voto especial de obediencia al Papa; (3) énfasis en la educación (crearon colegios y universidades en toda Europa y América); (4) misiones en Asia (Francisco Javier), América y África; (5) adaptación cultural (los \"reducciones\" jesuitas entre los guaraníes).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v4",
+      "statement": "¿Cuál fue el propósito de fortalecer la Inquisición durante la Contrarreforma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promover el diálogo interreligioso con los protestantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición no buscaba el diálogo sino la represión de la herejía."
+        },
+        {
+          "letter": "B",
+          "text": "Detectar, juzgar y castigar a quienes se apartaban de la doctrina católica, para frenar la expansión del protestantismo.",
+          "is_correct": true,
+          "feedback": "Correcto. La Inquisición fue un tribunal eclesiástico para combatir la herejía."
+        },
+        {
+          "letter": "C",
+          "text": "Investigar crímenes comunes como robos y asesinatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición solo juzgaba delitos religiosos (herejía, blasfemia)."
+        },
+        {
+          "letter": "D",
+          "text": "Reformar el sistema legal de los reinos católicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función era teológica, no jurídica en general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Inquisición española (creada en 1478 por los Reyes Católicos) fue reforzada durante la Contrarreforma. Su función era perseguir la herejía, especialmente el protestantismo (luteranismo, calvinismo) y el criptojudaísmo (judíos convertidos que practicaban en secreto). En Italia se creó la Congregación del Santo Oficio (1542). Los métodos incluían procesos secretos, tortura para obtener confesiones y castigos que iban desde penitencias hasta la ejecución en la hoguera (auto de fe).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v5",
+      "statement": "¿Cómo utilizó la Iglesia católica el arte barroco durante la Contrarreforma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibió toda forma de arte porque consideraba que las imágenes eran idolatría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protestantes más radicales eliminaron imágenes; los católicos las exaltaron."
+        },
+        {
+          "letter": "B",
+          "text": "El arte barroco fue un desarrollo independiente sin relación con la Contrarreforma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El barroco fue una herramienta deliberada de la Contrarreforma."
+        },
+        {
+          "letter": "C",
+          "text": "La Iglesia promovió el arte barroco como una forma de comunicación visual emotiva y grandiosa para atraer y conmover a los fieles.",
+          "is_correct": true,
+          "feedback": "Correcto. El barroco fue el \"arte de la Contrarreforma\"."
+        },
+        {
+          "letter": "D",
+          "text": "La Iglesia solo financió arte abstracto y no figurativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El barroco era figurativo y realista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Concilio de Trento reafirmó que las imágenes religiosas eran útiles para la devoción (contra los iconoclastas protestantes). Esto impulsó el arte barroco (siglos XVII-XVIII), caracterizado por: (1) dramaticidad y emotividad para conmover al fiel; (2) realismo y detalle; (3) exuberancia decorativa; (4) luz y movimiento. Artistas como Caravaggio, Bernini, Velázquez y Murillo produjeron obras que comunicaban visualmente los dogmas católicos. En Colombia, el barroco llegó con las iglesias coloniales y la Escuela Quiteña.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v6",
+      "statement": "¿Cómo se manifestó la Contrarreforma en las colonias españolas de América, incluyendo el territorio de la actual Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitiendo la libertad de culto y la entrada de pastores protestantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colonias españolas eran estrictamente católicas."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante la intensificación de la evangelización, la fundación de colegios jesuitas y el fortalecimiento de la Inquisición.",
+          "is_correct": true,
+          "feedback": "Correcto. La Contrarreforma se trasladó a América con fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Promoviendo la traducción de la Biblia a las lenguas indígenas para que cada persona la leyera por sí misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia católica no promovía la lectura personal de la Biblia."
+        },
+        {
+          "letter": "D",
+          "text": "Aboliendo la Inquisición en América para mostrar tolerancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición se instaló en Cartagena de Indias en 1610."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Contrarreforma tuvo un impacto directo en la América colonial: (1) los jesuitas fundaron colegios y misiones (como las misiones en los Llanos Orientales y el Amazonas); (2) se estableció el Tribunal del Santo Oficio de la Inquisición en Cartagena de Indias (1610), que persiguió herejías, blasfemias y prácticas \"supersticiosas\"; (3) se reforzó la catequización de los indígenas; (4) el arte barroco decoró las iglesias coloniales; (5) las universidades (como la Universidad Javeriana, fundada por los jesuitas en 1623) siguieron el modelo educativo contrarreformista.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v7",
+      "statement": "¿Cuál fue la principal diferencia en el enfoque educativo entre protestantes y católicos durante el siglo XVI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los protestantes no creaban escuelas mientras que los católicos sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos crearon sistemas educativos."
+        },
+        {
+          "letter": "B",
+          "text": "Los protestantes promovían la alfabetización para que todos leyeran la Biblia, mientras que los católicos se centraban en la educación de élites para formar líderes y catequistas.",
+          "is_correct": true,
+          "feedback": "Correcto. Diferentes énfasis en los fines educativos."
+        },
+        {
+          "letter": "C",
+          "text": "Los católicos prohibían la educación y los protestantes la fomentaban.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos fomentaban la educación, con distintos enfoques."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tenían exactamente el mismo sistema educativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Había diferencias importantes de enfoque y método."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tanto protestantes como católicos entendieron la importancia de la educación, pero con enfoques diferentes. Los protestantes (especialmente Lutero y Calvino) promovían la alfabetización universal para que cada fiel pudiera leer la Biblia. Los católicos, liderados por los jesuitas, desarrollaron un sistema educativo de élite (el \"Ratio Studiorum\", 1599) que combinaba humanidades clásicas, teología y ciencias, y que formó a las élites gobernantes de Europa y América. Los jesuitas crearon una red global de colegios y universidades.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v8",
+      "statement": "¿Por qué España se convirtió en el principal bastión de la Contrarreforma católica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque España se volvió protestante y luego regresó al catolicismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España nunca se volvió protestante."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en España no existía la Inquisición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición española era particularmente poderosa."
+        },
+        {
+          "letter": "C",
+          "text": "Por la alianza entre la monarquía española y la Iglesia católica, el poder de la Inquisición, y el apoyo del pueblo que veía en el catolicismo parte de su identidad nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. La identidad española se fusionó con el catolicismo militante."
+        },
+        {
+          "letter": "D",
+          "text": "Porque España aceptó las tesis de Lutero pero las adaptó al catolicismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España rechazó firmemente el protestantismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "España, bajo Carlos V y especialmente Felipe II, se convirtió en el principal defensor del catolicismo. Varias razones lo explican: (1) la monarquía española veía el catolicismo como elemento unificador de sus diversos reinos; (2) la Inquisición española era muy eficaz en detectar y eliminar focos protestantes (el protestantismo nunca arraigó en España); (3) la Reconquista (lucha contra los musulmanes) había fusionado identidad nacional y religión; (4) el oro y la plata de América financiaron la lucha católica en Europa.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v9",
+      "statement": "Según el texto del concilio, ¿qué característica debía tener la música en las iglesias católicas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debía ser alegre y bailable como música popular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La música sacra debía ser solemne."
+        },
+        {
+          "letter": "B",
+          "text": "La música fue prohibida completamente en las iglesias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La música se mantuvo, pero regulada."
+        },
+        {
+          "letter": "C",
+          "text": "Debía ser clara y comprensible, permitiendo que los fieles entendieran el texto litúrgico, sin excesos de ornamentación profana.",
+          "is_correct": true,
+          "feedback": "Correcto. Trento quería una música que elevara el espíritu sin distraer."
+        },
+        {
+          "letter": "D",
+          "text": "Se permitía cualquier tipo de música, incluida la de origen protestante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La música protestante no era bienvenida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Concilio de Trento también abordó la música sacra, reaccionando contra la polifonía excesivamente compleja que hacía incomprensibles las palabras. Se pedía que la música fuera clara, piadosa y que sirviera a la liturgia sin distraer. Esto influyó en compositores como Giovanni Pierluigi da Palestrina, cuyas misas combinaban belleza musical con claridad textual. El canto gregoriano se mantuvo como modelo. La música barroca sacra (como la de Tomás Luis de Victoria) desarrolló esta tradición.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v10",
+      "statement": "¿Cómo afectó la Contrarreforma a la situación de las mujeres en la Iglesia católica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrió todas las posiciones de liderazgo eclesiástico para las mujeres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres siguieron excluidas del sacerdocio."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminó los conventos femeninos y obligó a las monjas a casarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conventos femeninos se mantuvieron e incluso aumentaron."
+        },
+        {
+          "letter": "C",
+          "text": "Reforzó el ideal de la monja enclaustrada y limitó las opciones de las mujeres a la vida conventual o el matrimonio.",
+          "is_correct": true,
+          "feedback": "Correcto. Trento impuso la clausura estricta a las religiosas."
+        },
+        {
+          "letter": "D",
+          "text": "La Contrarreforma no afectó en absoluto a las mujeres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí afectó, especialmente al regular la vida religiosa femenina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Contrarreforma tuvo efectos ambivalentes para las mujeres. Por un lado, el Concilio de Trento impuso la **clausura estricta** (perpetua clausura papal) a todas las religiosas, limitando su libertad de movimiento y participación social. Figuras como Santa Teresa de Jesús (1515-1582) reformaron el Carmelo pero dentro de los límites impuestos por la Contrarreforma. Por otro lado, la educación femenina siguió siendo muy limitada y el ideal de la mujer quedó restringido a dos opciones: monja enclaustrada o esposa y madre.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v11",
+      "statement": "¿Por qué muchos historiadores prefieren llamar \"Reforma Católica\" en lugar de \"Contrarreforma\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Iglesia católica no respondió en absoluto al protestantismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí respondió."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no hubo cambios reales dentro del catolicismo en este período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo cambios profundos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la renovación católica tenía dinámicas propias que ya existían antes de Lutero, no fue solo una reacción.",
+          "is_correct": true,
+          "feedback": "Correcto. La renovación católica tenía raíces previas a la Reforma."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el término \"Contrarreforma\" es teológicamente incorrecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La preferencia es historiográfica, no teológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La historiografía actual debate si es más adecuado hablar de \"Contrarreforma\" (énfasis en la reacción contra el protestantismo) o \"Reforma Católica\" (énfasis en la renovación interna propia). Esta última perspectiva señala que ya desde finales del siglo XV existía un movimiento de reforma dentro del catolicismo: la reforma de las órdenes religiosas, el cardenal Cisneros en España, la devotio moderna en los Países Bajos. La ruptura protestante aceleró y reorientó esta renovación, pero no la creó desde cero.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-v12",
+      "statement": "¿Cuál de los siguientes legados de la Contrarreforma perdura más claramente en la Colombia del siglo XXI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición de la lectura de la Biblia en español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hoy la Biblia se lee libremente en español."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema de castas colonial que organizaba la sociedad por origen racial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Legalmente fue abolido en la independencia."
+        },
+        {
+          "letter": "C",
+          "text": "La influencia de la Iglesia católica en la educación y la cultura, así como la tradición jesuita en universidades como la Javeriana.",
+          "is_correct": true,
+          "feedback": "Correcto. El legado educativo y cultural jesuita sigue vigente."
+        },
+        {
+          "letter": "D",
+          "text": "La Inquisición como institución activa en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición fue abolida en el siglo XIX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque la Inquisición desapareció y el Concordato de 1973 flexibilizó las relaciones Iglesia-Estado, el legado de la Contrarreforma en Colombia es profundo: (1) la Iglesia católica sigue siendo la institución religiosa mayoritaria (aproximadamente el 65% de la población se identifica como católica en 2024); (2) los colegios y universidades fundados por órdenes contrarreformistas (jesuitas, dominicos, agustinos) continúan operando; (3) el arte barroco colonial decora iglesias Patrimonio de la Humanidad en Bogotá, Cartagena, Popayán y Tunja; (4) la educación religiosa sigue siendo parte del currículo escolar.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W05-contrarreforma-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.650Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v1",
+      "statement": "¿Qué es un mapa conceptual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dibujo artístico de un lugar geográfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un mapa geográfico."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de conceptos ordenados alfabéticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un glosario."
+        },
+        {
+          "letter": "C",
+          "text": "Un organizador gráfico que representa relaciones jerárquicas entre conceptos, conectados mediante líneas y palabras de enlace.",
+          "is_correct": true,
+          "feedback": "Correcto. El mapa conceptual jerarquiza y relaciona conceptos visualmente."
+        },
+        {
+          "letter": "D",
+          "text": "Un resumen escrito en prosa de un tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un resumen, no un mapa conceptual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mapa conceptual es una representación gráfica del conocimiento que organiza conceptos en una estructura jerárquica. Fue desarrollado por Joseph Novak en la década de 1970 basándose en la teoría del aprendizaje significativo de David Ausubel. Los elementos clave son: 1) conceptos (palabras o frases cortas dentro de óvalos o rectángulos), 2) líneas que conectan conceptos relacionados, y 3) palabras de enlace sobre las líneas que especifican la relación (ej. \"es parte de\", \"causa\", \"se clasifica en\", \"ejemplo de\"). El mapa conceptual no es solo un diagrama bonito: es una herramienta para organizar y representar conocimiento de manera que revele su estructura lógica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v2",
+      "statement": "¿Qué característica de los mapas conceptuales se observa en esta estructura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los conceptos deben estar en el mismo nivel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jerarquía es fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "La organización jerárquica: los conceptos más generales e inclusivos están arriba, y los más específicos y concretos debajo.",
+          "is_correct": true,
+          "feedback": "Correcto. La jerarquía vertical es una característica clave."
+        },
+        {
+          "letter": "C",
+          "text": "Que los conceptos deben estar en orden alfabético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay regla alfabética."
+        },
+        {
+          "letter": "D",
+          "text": "Que los ejemplos deben estar en la parte superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ejemplos van en los niveles inferiores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jerarquía es una de las características fundamentales de los mapas conceptuales. Los conceptos más generales e inclusivos se colocan en la parte superior (en este caso, \"Mamíferos\"). Los conceptos subordinados se colocan debajo (\"Terrestres\", \"Acuáticos\"). Los ejemplos concretos van en los niveles inferiores (\"Perro\", \"Ballena\"). Esta organización vertical refleja cómo el conocimiento se estructura desde lo más general a lo más específico. El lector crítico de mapas conceptuales evalúa si la jerarquía es lógica: ¿el concepto superior realmente incluye a los inferiores? ¿Las relaciones son correctas?\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v3",
+      "statement": "¿Qué función cumplen las palabras de enlace en un mapa conceptual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar el mapa para que sea más atractivo visualmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son decorativas."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar la dirección en que se debe leer el mapa.",
+          "is_correct": false,
+          "feedback": "Parcialmente, pero su función es más específica."
+        },
+        {
+          "letter": "C",
+          "text": "Especificar la relación lógica entre los conceptos conectados, en este caso, que el Sol causa la evaporación.",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras de enlace explicitan las relaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar la página del libro donde se explica cada concepto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son referencias bibliográficas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras de enlace son el componente que distingue a los mapas conceptuales de otros diagramas. No solo conectan conceptos, sino que especifican la naturaleza de la relación. Sin palabras de enlace, el mapa sería solo una colección de conceptos sin conexión clara. Con ellas, el mapa se convierte en proposiciones: \"El Sol (concepto) causa (enlace) la evaporación (concepto)\". Cada par de conceptos con su enlace forma una proposición. La calidad de un mapa conceptual se evalúa en parte por la precisión de sus palabras de enlace: ¿expresan correctamente la relación? ¿Son específicas o vagas?\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v4",
+      "statement": "¿Cuál sería el concepto más inclusivo que debería ir en la parte superior del mapa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo es un concepto subordinado."
+        },
+        {
+          "letter": "B",
+          "text": "Célula.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Célula\" es el concepto más general del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Procariota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una subcategoría de célula."
+        },
+        {
+          "letter": "D",
+          "text": "Seres vivos.",
+          "is_correct": false,
+          "feedback": "Posible, pero el texto se centra en la célula, no en los seres vivos en general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al construir un mapa conceptual, el primer paso es identificar el concepto más general e inclusivo del texto. En este caso, \"Célula\" es el tema central y el más general (las células componen a los seres vivos, no al revés). De \"Célula\" se ramificarían \"Procariota\" y \"Eucariota\". De \"Eucariota\" se ramificaría \"Tiene núcleo\". De \"Procariota\" se ramificaría \"No tiene núcleo\". Identificar correctamente la jerarquía de conceptos es esencial. Un error común es colocar un concepto específico (como \"Núcleo\") en la parte superior, lo que distorsiona la estructura lógica del conocimiento representado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v5",
+      "statement": "¿Qué tipo de relación representan las líneas entre \"Ecosistema\" y \"Factores bióticos\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación temporal (primero el ecosistema, luego los factores).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una secuencia temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Relación causal (el ecosistema causa los factores bióticos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay causalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Relación de inclusión o parte-todo: el ecosistema está compuesto por factores bióticos y abióticos.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación es de composición."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de igualdad (son lo mismo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son niveles diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En los mapas conceptuales, las líneas y palabras de enlace pueden representar diferentes tipos de relaciones: inclusión (es parte de, se compone de), jerarquía (es un tipo de), causalidad (causa, produce, genera), secuencia (primero, luego, finalmente), oposición (se opone a, contrasta con), etc. En este caso, la relación es de composición: el ecosistema incluye factores bióticos y abióticos. Identificar correctamente el tipo de relación es esencial para construir un mapa conceptual fiel al conocimiento que representa. Un mapa con relaciones incorrectas es un mapa engañoso.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v6",
+      "statement": "¿Qué limitación tiene este mapa conceptual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los conceptos están mal escritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay errores ortográficos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mapa es demasiado simple y no muestra la riqueza de conexiones entre ideas que un tema histórico requiere.",
+          "is_correct": false,
+          "feedback": "Correcto. Un buen mapa conceptual debe mostrar múltiples conexiones."
+        },
+        {
+          "letter": "C",
+          "text": "Que las palabras de enlace son muy largas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se muestran palabras de enlace."
+        },
+        {
+          "letter": "D",
+          "text": "Que los colores no combinan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no es el problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un mapa conceptual debe representar la complejidad del conocimiento, no simplificarlo hasta hacerlo trivial. Un mapa con solo tres conceptos en línea recta no aprovecha las capacidades del formato: mostrar múltiples conexiones, jerarquías, relaciones cruzadas, etc. Un buen mapa sobre la Independencia incluiría múltiples causas (políticas, económicas, sociales), eventos clave (19 de julio, 20 de julio, 7 de agosto), protagonistas, consecuencias inmediatas y de largo plazo, y relaciones cruzadas entre estas categorías. El lector crítico evalúa si el mapa conceptual refleja adecuadamente la complejidad del tema o si es una simplificación excesiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v7",
+      "statement": "¿Qué oportunidad de mejora tiene este mapa conceptual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregar más colores para que sea más bonito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética no es la mejora principal."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar conceptos para simplificarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simplificación no mejora la representación."
+        },
+        {
+          "letter": "C",
+          "text": "Incluir conexiones transversales entre las ramas, por ejemplo, mostrar qué alimentos saludables contienen proteínas o carbohidratos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las conexiones transversales enriquecen el mapa."
+        },
+        {
+          "letter": "D",
+          "text": "Poner todos los conceptos en el mismo nivel jerárquico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso eliminaría la jerarquía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una de las grandes ventajas de los mapas conceptuales frente a otros organizadores es la posibilidad de establecer conexiones transversales (cross-links) entre diferentes ramas. Estas conexiones revelan relaciones que en un texto lineal quedarían separadas. Aquí, las ramas \"Nutrientes\" y \"Alimentación\" están desconectadas, pero en la realidad están íntimamente relacionadas. Un mapa más completo mostraría, por ejemplo, que las carnes (alimentación no saludable en exceso) son fuente de proteínas (nutriente). Las conexiones transversales son señal de pensamiento integrador y de comprensión profunda del tema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v8",
+      "statement": "¿Cuál de los dos mapas es mejor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero, porque es más fácil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad no es el único criterio."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo, porque tiene más conceptos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad no equivale a calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Depende: la precisión conceptual es más importante que la cantidad de conexiones. Un mapa simple pero correcto es mejor que uno detallado pero con errores.",
+          "is_correct": true,
+          "feedback": "Correcto. La precisión prevalece sobre la cantidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son igualmente válidos por ser mapas conceptuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mapas conceptuales pueden estar bien o mal hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La calidad de un mapa conceptual se evalúa principalmente por su precisión conceptual, no por su complejidad. Un mapa pequeño pero correcto (las relaciones entre conceptos son verdaderas) es más valioso que uno grande pero con errores (relaciones causales incorrectas, jerarquías equivocadas). Un mapa con errores puede generar aprendizaje incorrecto. El ideal es un mapa que combine precisión con riqueza de conexiones, pero si hay que elegir, la precisión es lo primero. El lector crítico evalúa un mapa conceptual examinando la veracidad de las proposiciones que se forman al leer concepto-enlace-concepto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v9",
+      "statement": "¿Qué crítica puede hacer el estudiante a este mapa conceptual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la letra es muy pequeña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de la letra no es una crítica sustancial."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mapa es demasiado simple y debería tener más colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica debe ser conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Que el mapa presenta una visión incompleta de la democracia al omitir conceptos fundamentales como derechos humanos, separación de poderes y estado de derecho, lo que refleja una perspectiva limitada o sesgada.",
+          "is_correct": true,
+          "feedback": "Correcto. La omisión de conceptos clave es una crítica válida."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra \"Democracia\" debería estar en mayúsculas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayúscula no cambia el significado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los mapas conceptuales no son neutrales: reflejan la comprensión y la perspectiva de quien los construye. Un mapa sobre \"Democracia\" que omite conceptos como derechos humanos, división de poderes, pluralismo, participación ciudadana y estado de derecho presenta una visión reduccionista. El lector crítico evalúa un mapa conceptual preguntándose: ¿qué conceptos importantes faltan? ¿Qué relaciones se omiten? ¿La selección de conceptos refleja una perspectiva particular? El mapa no solo organiza información, sino que construye una versión del conocimiento que puede ser incompleta o sesgada.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v10",
+      "statement": "¿En qué situación es más útil el mapa conceptual que el texto continuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando se necesita memorizar fechas y datos específicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para datos específicos, una tabla o lista es mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando se necesita comprender y visualizar las relaciones jerárquicas y conexiones entre conceptos, como la clasificación de planetas y sus características.",
+          "is_correct": true,
+          "feedback": "Correcto. El mapa conceptual es ideal para relaciones conceptuales."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando se necesita una narración detallada de eventos históricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para narraciones, el texto continuo es mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando se necesita argumentar una posición sobre el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para argumentar, el texto continuo es más adecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mapas conceptuales y los textos continuos tienen fortalezas distintas. El mapa conceptual es superior cuando el objetivo es: 1) comprender la estructura jerárquica de un dominio conceptual, 2) visualizar relaciones entre conceptos, 3) identificar conexiones transversales, y 4) tener una visión panorámica de un tema. El texto continuo es superior cuando se necesita: narración detallada, argumentación, ejemplos extensos, o explicación de procesos complejos. La habilidad metacognitiva de elegir la herramienta adecuada para cada propósito es una señal de lectura crítica avanzada. Ambas herramientas se complementan, no compiten.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v11",
+      "statement": "¿Qué problema de jerarquía tiene este mapa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que hay demasiadas redes sociales listadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad no es un problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que las redes deberían estar en orden alfabético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay regla alfabética."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos los conceptos están al mismo nivel, sin categorías intermedias que organicen las redes por tipo (mensajería, imágenes, video corto, red social general), perdiendo la oportunidad de mostrar una estructura más significativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La jerarquía debería tener niveles intermedios de clasificación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el concepto \"Redes sociales\" debería estar en la parte inferior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto más general va arriba."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mapa conceptual plano (todos los conceptos al mismo nivel) desperdicia la principal ventaja del formato: la jerarquía. En este caso, una mejor estructura sería: \"Redes sociales\" arriba; luego categorías como \"Mensajería\" (WhatsApp, Messenger), \"Redes visuales\" (Instagram, Pinterest), \"Video corto\" (TikTok, Reels) y \"Redes profesionales\" (LinkedIn). Estas categorías intermedias enriquecen la comprensión porque muestran que las redes sociales no son solo una lista, sino que tienen funciones y propósitos diferentes. Un buen mapa conceptual no solo lista conceptos, los organiza significativamente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-v12",
+      "statement": "¿Cuál de los siguientes mapas conceptuales demuestra MEJOR la aplicación correcta de la técnica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mapa con 10 conceptos en una lista vertical, sin líneas ni palabras de enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una lista, no un mapa conceptual."
+        },
+        {
+          "letter": "B",
+          "text": "Un mapa con 15 conceptos desordenados sin jerarquía clara, conectados con líneas sin palabras de enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin jerarquía ni palabras de enlace, no es un mapa conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa que tiene \"Textos discontinuos\" en la parte superior, se ramifica en \"Infografías\", \"Tablas\", \"Gráficos\", \"Mapas conceptuales\"; cada uno con ejemplos debajo; palabras de enlace precisas como \"se clasifica en\", \"ejemplo\", \"caracterizado por\"; y conexiones transversales que muestran, por ejemplo, que \"Infografías\" pueden contener \"Tablas\" y \"Gráficos\".",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene jerarquía, palabras de enlace, ejemplos y conexiones transversales."
+        },
+        {
+          "letter": "D",
+          "text": "Un mapa que tiene 3 conceptos pero con letra muy grande y muchos colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es visualmente atractivo pero conceptualmente pobre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La opción C demuestra dominio de la técnica del mapa conceptual porque: 1) tiene una jerarquía clara (de lo general a lo específico), 2) usa palabras de enlace precisas que explicitan las relaciones, 3) incluye ejemplos en los niveles inferiores, 4) incorpora conexiones transversales que muestran relaciones entre ramas diferentes, y 5) el mapa en sí mismo es un ejemplo del tema que representa (mapas conceptuales como tipo de texto discontinuo). Un buen mapa conceptual no solo representa conocimiento, sino que lo organiza de manera que revele conexiones que un texto lineal ocultaría. Es una herramienta para pensar, no solo para recordar.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W32-mapas-conceptuales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.608Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v1",
+      "statement": "¿Cuál es la parte de la planta que generalmente crece debajo de la tierra y absorbe agua y minerales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tallo crece sobre la tierra y sostiene las hojas y flores, además de transportar nutrientes. No absorbe agua del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz",
+          "is_correct": true,
+          "feedback": "¡Muy bien! La raíz es la parte de la planta que crece bajo tierra y absorbe agua y sales minerales del suelo. También fija la planta al sustrato."
+        },
+        {
+          "letter": "C",
+          "text": "La hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas generalmente crecen sobre el tallo y son los órganos donde ocurre la fotosíntesis, no absorben agua del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La flor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor es la estructura reproductiva de la planta y no participa en la absorción de agua y minerales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas tienen órganos especializados para diferentes funciones. La raíz crece hacia el interior del suelo, tiene pelos absorbentes que aumentan la superficie de contacto con el agua y los minerales, y también sirve para anclar la planta al suelo. Los estudiantes de grado 3 deben identificar las partes básicas de las plantas y asociar cada una con su función principal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v2",
+      "statement": "¿Qué función principal cumple el tallo de una planta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabricar alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fabricación de alimento ocurre principalmente en las hojas mediante la fotosíntesis, no en el tallo."
+        },
+        {
+          "letter": "B",
+          "text": "Absorber agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La absorción de agua es función de las raíces, no del tallo."
+        },
+        {
+          "letter": "C",
+          "text": "Sostener las hojas y transportar nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! El tallo sostiene las hojas, flores y frutos, y contiene los vasos conductores (xilema y floema) que transportan agua y nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Reproducir la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción es función principalmente de las flores y los frutos, aunque algunos tallos pueden tener reproducción vegetativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tallo es el eje de la planta que conecta las raíces con las hojas. Internamente tiene dos tipos de vasos: el xilema transporta agua y minerales desde la raíz hacia arriba, y el floema distribuye el alimento fabricado en las hojas hacia el resto de la planta. El tallo también sostiene las hojas para que reciban la luz solar necesaria para la fotosíntesis.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v3",
+      "statement": "¿Qué sucede con el agua que Andrea echa en la tierra de la maceta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se evapora completamente y nunca llega a la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque parte del agua se evapora, la mayor parte es absorbida por las raíces de la planta."
+        },
+        {
+          "letter": "B",
+          "text": "Las raíces absorben el agua y la transportan al resto de la planta a través del tallo",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Las raíces absorben el agua del suelo, que luego sube por el tallo hasta las hojas para ser usada en la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se acumula solo en las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no va directamente a las hojas; primero es absorbida por las raíces y luego viaja por el tallo hacia todas las partes."
+        },
+        {
+          "letter": "D",
+          "text": "Las flores atrapan el agua y la almacenan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flores no absorben agua del suelo. La absorción es función exclusiva de las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas absorben agua del suelo a través de los pelos absorbentes de sus raíces. Una vez absorbida, el agua viaja por el xilema del tallo hacia las hojas, donde se usa para la fotosíntesis y para mantener la turgencia de las células. El exceso de agua se libera al ambiente en forma de vapor mediante la transpiración. Este proceso continuo se llama corriente de transpiración.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v4",
+      "statement": "¿De dónde salieron las gotitas de agua dentro de la bolsa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del aire que entró en la bolsa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire tiene algo de humedad, pero la cantidad de agua que se ve son gotas que salieron de la planta."
+        },
+        {
+          "letter": "B",
+          "text": "De la planta, que libera vapor de agua a través de las hojas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las plantas liberan vapor de agua por pequeños poros llamados estomas en las hojas, en un proceso llamado transpiración."
+        },
+        {
+          "letter": "C",
+          "text": "La bolsa fabricó el agua por el calor del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bolsas de plástico no fabrican agua. El agua se condensó porque la bolsa atrapó el vapor de agua liberado por la hoja."
+        },
+        {
+          "letter": "D",
+          "text": "Del agua que Mateo usó para regar y que subió por la planta",
+          "is_correct": false,
+          "feedback": "Parcialmente correcta, pero incompleta. El agua sí viene del riego, pero el proceso específico es la transpiración a través de las hojas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas liberan vapor de agua al ambiente a través de unos poros microscópicos en las hojas llamados estomas. La bolsa de plástico atrapa ese vapor y, al enfriarse durante la noche, se condensa formando gotitas de agua. Este proceso se llama transpiración vegetal y es parte del ciclo del agua en la naturaleza. Los estudiantes pueden observar este fenómeno con un experimento sencillo en casa o en el colegio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v5",
+      "statement": "¿Qué parte de la planta se encarga de fabricar el alimento usando la luz del sol?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz absorbe agua y minerales, pero no fabrica alimento. Las raíces generalmente están bajo tierra y no reciben luz solar."
+        },
+        {
+          "letter": "B",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tallo transporta nutrientes y sostiene la planta, pero no fabrica alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Las hojas",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las hojas contienen clorofila, un pigmento verde que captura la energía del sol para fabricar alimento mediante la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "La flor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor es el órgano reproductivo de la planta. Aunque algunas partes verdes de la flor pueden hacer fotosíntesis, su función principal es la reproducción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fotosíntesis ocurre principalmente en las hojas, donde la clorofila (pigmento verde) captura la energía luminosa del sol y la convierte en energía química. Usando dióxido de carbono del aire y agua de las raíces, las plantas producen glucosa (alimento) y liberan oxígeno. En grado 3, los estudiantes deben comprender que las hojas son como \"fábricas de alimento\" que necesitan sol, agua y aire para funcionar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v6",
+      "statement": "¿Qué le sucederá a la planta que está en el armario oscuro después de una semana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecerá más rápido porque está protegida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no pueden crecer sin luz porque no pueden realizar la fotosíntesis para fabricar alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Estará igual porque las plantas no necesitan luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz es esencial para las plantas. Sin ella, las plantas no pueden fabricar alimento y se debilitan."
+        },
+        {
+          "letter": "C",
+          "text": "Se pondrá pálida, débil y podría morir por falta de fotosíntesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin luz, la planta no puede realizar fotosíntesis, no produce alimento, se debilita, pierde color verde y eventualmente muere."
+        },
+        {
+          "letter": "D",
+          "text": "Producirá más flores para compensar la falta de luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producir flores requiere aún más energía, no es una respuesta a la falta de luz. La planta no puede compensar sin fotosíntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La luz solar es indispensable para las plantas porque proporciona la energía necesaria para la fotosíntesis. Sin luz, la planta no puede fabricar glucosa, se queda sin energía para crecer y mantener sus funciones vitales. Las hojas pierden su color verde (clorofila), la planta se vuelve pálida (etiolación) y, si la falta de luz se prolonga, muere. Este experimento sencillo demuestra la importancia de la luz para las plantas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v7",
+      "statement": "¿Qué función cumplen las flores en las plantas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenar alimento para el invierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no almacenan alimento en las flores. Algunas almacenan alimento en raíces o tallos, pero las flores tienen otra función."
+        },
+        {
+          "letter": "B",
+          "text": "Absorber agua del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flores no absorben agua. Quienes absorben agua son las raíces, que están bajo tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Proteger la planta de los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque algunas flores tienen espinas o compuestos tóxicos, no es su función principal."
+        },
+        {
+          "letter": "D",
+          "text": "Producir semillas para que la planta se reproduzca",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Las flores son los órganos reproductivos de las plantas. Después de la polinización, se transforman en frutos que contienen las semillas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función principal de las flores es la reproducción de las plantas. Las flores contienen órganos masculinos (estambres, que producen polen) y femeninos (pistilos, que contienen los óvulos). Cuando el polen fertiliza los óvulos, la flor se transforma en un fruto que contiene las semillas. En Colombia, frutas como el aguacate, el maracuyá y el mango son ejemplos de frutos que se desarrollan a partir de flores.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v8",
+      "statement": "¿Por qué los líquenes pueden crecer sobre rocas desnudas donde otras plantas no pueden?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los líquenes son una asociación entre un hongo y un alga, y el alga produce alimento para ambos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los líquenes tienen algas que hacen fotosíntesis, y el hongo absorbe agua y minerales. Juntos colonizan superficies donde ninguna planta sola podría vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los líquenes no necesitan agua para vivir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los seres vivos necesitan agua. Los líquenes pueden sobrevivir con muy poca agua, pero sí la necesitan."
+        },
+        {
+          "letter": "C",
+          "text": "Porque comen las rocas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los líquenes no comen rocas. Secretan ácidos que ayudan a descomponer la roca lentamente para obtener minerales, pero no se alimentan de ella."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tienen raíces muy profundas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los líquenes no tienen raíces. Se fijan a la superficie mediante estructuras llamadas rizoides, no son plantas verdaderas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los líquenes son organismos fascinantes formados por la simbiosis entre un hongo (micobionte) y un alga o cianobacteria (fotobionte). El alga realiza fotosíntesis y produce alimento para ambos, mientras que el hongo proporciona estructura, protección y absorbe agua y minerales. Esta asociación permite a los líquenes colonizar ambientes extremos como rocas desnudas, cortezas de árboles y suelos pobres. Son organismos pioneros que inician el proceso de formación del suelo.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v9",
+      "statement": "¿Cuál es la explicación más probable para esta observación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua de la mañana tiene más nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La composición del agua no cambia significativamente entre la mañana y el mediodía."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas prefieren el agua fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen preferencia por la temperatura del agua. Pueden absorber agua a diferentes temperaturas."
+        },
+        {
+          "letter": "C",
+          "text": "Al regar en la mañana, el agua se absorbe mejor porque hay menos evaporación, dando más tiempo para que las raíces la tomen",
+          "is_correct": true,
+          "feedback": "¡Excelente! En la mañana la temperatura es más baja y hay menos evaporación, por lo que más agua llega a las raíces y la planta puede absorberla mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas duermen de día y solo absorben agua en la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no duermen como los animales y pueden absorber agua en cualquier momento del día."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaporación del agua del suelo depende de la temperatura y la intensidad del sol. Al mediodía, el sol calienta más el suelo y el agua se evapora más rápido, por lo que menos agua está disponible para las raíces. Regar en la mañana permite que el agua se infiltre mejor en el suelo y las raíces tengan más tiempo para absorberla antes de que el sol la evapore. Esta es una práctica agrícola recomendada en Colombia para ahorrar agua y mejorar el crecimiento de los cultivos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-v10",
+      "statement": "¿Qué opinas sobre la afirmación del estudiante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta porque las plantas son beneficiosas para las ciudades: producen oxígeno, dan sombra, enfrían el ambiente y embellecen, aunque deben sembrarse donde las raíces no dañen infraestructura",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las plantas tienen muchos beneficios en las ciudades. El problema de las raíces se soluciona eligiendo especies adecuadas y ubicaciones apropiadas, no eliminando todas las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene razón, las plantas son peligrosas para las construcciones y deben eliminarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque algunas raíces pueden dañar aceras, los beneficios de las plantas en las ciudades son mucho mayores. Hay formas de prevenir estos problemas."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque las plantas no sirven para nada en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas cumplen funciones vitales en las ciudades: producen oxígeno, reducen la contaminación, proporcionan hábitat para aves y regulan la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente correcta, pero solo los árboles frutales deberían quedarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los tipos de plantas tienen valor ecológico en las ciudades, no solo las frutales. Además, el problema de raíces se maneja con planificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plantas ofrecen innumerables beneficios en entornos urbanos: producen oxígeno mediante la fotosíntesis, absorben dióxido de carbono y contaminantes del aire, proporcionan sombra que reduce la temperatura ambiente, sirven de hábitat para aves e insectos polinizadores, embellecen el paisaje y mejoran la salud mental de las personas. Los problemas como el levantamiento de aceras por raíces se pueden prevenir seleccionando especies arbóreas con sistemas radiculares no invasivos y ubicándolas en espacios adecuados como parques y separadores viales.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W03-plantas-caracteristicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

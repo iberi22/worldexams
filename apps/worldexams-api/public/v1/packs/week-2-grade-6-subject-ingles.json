@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-2-grade-6-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.147Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v1",
+      "statement": "What is the past participle of the verb \"to eat\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ate",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ate\" es el past simple (pasado simple), no el past participle."
+        },
+        {
+          "letter": "B",
+          "text": "eated",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Eated\" no existe. \"Eat\" es un verbo irregular."
+        },
+        {
+          "letter": "C",
+          "text": "eaten",
+          "is_correct": true,
+          "feedback": "Correcto. \"Eaten\" es el past participle irregular de \"eat\". Se usa con have/has: I have eaten, she has eaten."
+        },
+        {
+          "letter": "D",
+          "text": "eating",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Eating\" es el gerundio/present participle."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos irregulares cambian su forma en past participle. Algunos comunes: eat → eaten, drink → drunk, see → seen, write → written, speak → spoken. No siguen reglas fijas; hay que memorizarlos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v2",
+      "statement": "Complete: \"I have ____ (see) the movie Encanto.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "saw",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Saw\" es pasado simple. El present perfect necesita el past participle."
+        },
+        {
+          "letter": "B",
+          "text": "seen",
+          "is_correct": true,
+          "feedback": "Correcto. \"Seen\" es el past participle irregular de \"see\". \"I have seen Encanto\" = He visto Encanto."
+        },
+        {
+          "letter": "C",
+          "text": "seeing",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Seeing\" es gerundio."
+        },
+        {
+          "letter": "D",
+          "text": "seed",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Seed\" no es una forma válida del verbo \"see\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"See\" es un verbo irregular: see (presente) → saw (pasado simple) → seen (past participle). \"I have seen Encanto\" significa que has tenido la experiencia de ver la película en algún momento de tu vida, sin especificar cuándo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v3",
+      "statement": "A tourist asks: \"Have you ever visited the Cristo Rey statue?\" How should the student answer NO?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I don't.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Don't\" es para presente simple, no present perfect."
+        },
+        {
+          "letter": "B",
+          "text": "No, I didn't.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Didn't\" es para pasado simple."
+        },
+        {
+          "letter": "C",
+          "text": "No, I haven't.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta negativa corta a una pregunta en present perfect es: No, + sujeto + haven't/hasn't. \"No, I haven't visited Cristo Rey.\""
+        },
+        {
+          "letter": "D",
+          "text": "No, I'm not.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"I'm not\" es para el verbo to be."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las respuestas cortas en present perfect: Yes, I have. / No, I haven't. Yes, she has. / No, she hasn't. Yes, we have. / No, we haven't. Para responder a preguntas con \"Have you ever...?\" se puede decir \"Yes, I have\" o \"No, I haven't\" y luego añadir más información si se desea.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v4",
+      "statement": "Choose the correct option: \"I ____ (never/be) to Leticia, Amazonas.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have never been",
+          "is_correct": false,
+          "feedback": "Correcto. \"Have never been\" significa \"nunca he ido/estado\". Never va entre have/has y el past participle. \"Been\" es el past participle de \"go\"."
+        },
+        {
+          "letter": "B",
+          "text": "have never went",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Went\" es pasado simple, no past participle. El past participle de \"go\" es \"been\" o \"gone\"."
+        },
+        {
+          "letter": "C",
+          "text": "never have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden correcto es have/has + never + past participle."
+        },
+        {
+          "letter": "D",
+          "text": "have never go",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de \"have\" necesitamos past participle, no el verbo en presente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Never\" (nunca) va entre have/has y el past participle: \"I have never been to the Amazon.\" Nota: \"been\" se usa para experiencias de haber visitado un lugar. \"Gone\" significa que la persona fue y aún no ha regresado. \"I have been to Leticia\" = he ido y ya regresé. \"He has gone to Leticia\" = fue y aún está allí.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v5",
+      "statement": "Form a correct question: \"you / ever / eat / arepas de chocolo?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you ever eat arepas de chocolo?",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ever\" con pasado simple no es incorrecto en algunos casos, pero \"ever\" se usa típicamente con present perfect para experiencias de vida."
+        },
+        {
+          "letter": "B",
+          "text": "Have you ever eat arepas de chocolo?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El past participle de \"eat\" es \"eaten\", no \"eat\"."
+        },
+        {
+          "letter": "C",
+          "text": "Have you ever eaten arepas de chocolo?",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura correcta: Have + sujeto + ever + past participle? \"Have you ever eaten arepas de chocolo?\" = ¿Has probado alguna vez las arepas de chocolo?"
+        },
+        {
+          "letter": "D",
+          "text": "You have ever eaten arepas de chocolo?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para preguntas, el auxiliar \"have\" debe ir antes del sujeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preguntas en present perfect se forman: Have/Has + sujeto + ever + past participle? \"Ever\" se usa en preguntas para preguntar por experiencias de vida. En Colombia, una pregunta típica sería: \"Have you ever tried bandeja paisa?\" (¿Has probado alguna vez la bandeja paisa?).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v6",
+      "statement": "What is the difference between \"He has been to Cartagena\" and \"He has gone to Cartagena\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They mean exactly the same thing.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una diferencia importante de significado."
+        },
+        {
+          "letter": "B",
+          "text": "\"Has been to\" = he visited and returned. \"Has gone to\" = he went and is still there.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Been to\" indica que la persona visitó un lugar y ya regresó. \"Gone to\" indica que la persona fue a un lugar y aún no ha regresado."
+        },
+        {
+          "letter": "C",
+          "text": "\"Has been to\" = he is still there.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés."
+        },
+        {
+          "letter": "D",
+          "text": "\"Has gone to\" = he has visited many times.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Has gone\" solo indica que fue y no ha regresado, no la frecuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferencia clave: \"been to\" = experiencia de visita (ya regresé). \"Gone to\" = fui y sigo allí. Ejemplo: Mi mamá no está en casa, she has gone to the supermarket (está en el supermercado). He viajado mucho: I have been to five countries (he visitado y regresado).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v7",
+      "statement": "You want to ask a classmate if she has ever flown in an airplane. What is the correct question?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you ever fly in an airplane?",
+          "is_correct": false,
+          "feedback": "Cercano pero no es present perfect. \"Ever\" se usa con present perfect para experiencias."
+        },
+        {
+          "letter": "B",
+          "text": "Have you ever flew in an airplane?",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Flew\" es pasado simple. El past participle de \"fly\" es \"flown\"."
+        },
+        {
+          "letter": "C",
+          "text": "Have you ever flown in an airplane?",
+          "is_correct": true,
+          "feedback": "Correcto. \"Flown\" es el past participle irregular de \"fly\". La pregunta es: Have you ever flown in an airplane? = ¿Has volado alguna vez en avión?"
+        },
+        {
+          "letter": "D",
+          "text": "You have flown in an airplane?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una pregunta sin inversión del auxiliar, que no es gramaticalmente formal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Fly\" es irregular: fly → flew (past) → flown (past participle). Para preguntar por experiencias: Have you ever + past participle? En Colombia, muchos estudiantes de Pasto han volado desde el aeropuerto Antonio Nariño hacia otras ciudades del país.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v8",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have ever been to San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ever\" se usa en preguntas y negaciones, no en afirmaciones. En afirmaciones usamos \"never\" o \"once/twice\"."
+        },
+        {
+          "letter": "B",
+          "text": "I have never been to San Andrés.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Never\" se usa en afirmaciones con sentido negativo: nunca he ido. \"Never\" va entre have/has y el past participle."
+        },
+        {
+          "letter": "C",
+          "text": "I haven't never been to San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doble negación. No se usa \"haven't\" y \"never\" juntos."
+        },
+        {
+          "letter": "D",
+          "text": "I never have been to San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden correcto es have/has + never, no never + have/has."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Never\" ya tiene sentido negativo, por lo que no se necesita \"not\". \"I have never been to San Andrés\" = Nunca he ido a San Andrés. \"Ever\" se usa en: preguntas (Have you ever...?) y negaciones (Nobody has ever...). No se usa \"ever\" en afirmaciones.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v9",
+      "statement": "A student says: \"I have visited the Cañón del Chicamocha last year.\" Is this correct?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it is correct.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Last year\" es un tiempo específico, que requiere pasado simple."
+        },
+        {
+          "letter": "B",
+          "text": "No, it should be: \"I visited the Cañón del Chicamocha last year.\"",
+          "is_correct": true,
+          "feedback": "Correcto. \"Last year\" es un marcador de tiempo específico que requiere pasado simple, no present perfect. El present perfect no se usa con expresiones de tiempo específico."
+        },
+        {
+          "letter": "C",
+          "text": "No, it should be: \"I have visit the Cañón del Chicamocha last year.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Visit\" no es past participle y no soluciona el problema del tiempo específico."
+        },
+        {
+          "letter": "D",
+          "text": "No, it should be: \"I have visited the Cañón del Chicamocha.\"",
+          "is_correct": false,
+          "feedback": "Correcta la estructura pero no explica el error original. El \"last year\" debe eliminarse si se usa present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El present perfect NO se usa con expresiones de tiempo específico como: yesterday, last week, last year, in 2020, two days ago, when I was a child. Con esas expresiones, siempre usamos pasado simple. \"I visited Chicamocha last year\" es correcto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-v10",
+      "statement": "Based on these notes about Laura, write correct present perfect sentences:\nNotes: (1) visit Parque Tayrona ✓ (2) eat mango biche ✓ (3) go to San Andrés ✗",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laura has visited Parque Tayrona. She has eaten mango biche. She hasn't gone to San Andrés.",
+          "is_correct": false,
+          "feedback": "Correcto. \"Has visited\", \"has eaten\" y \"hasn't gone\" son formas correctas de present perfect. Has para he/she, hasn't para negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Laura have visited Parque Tayrona. She have eaten mango biche. She haven't gone to San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con Laura (she) se usa \"has\", no \"have\"."
+        },
+        {
+          "letter": "C",
+          "text": "Laura has visit Parque Tayrona. She has eat mango biche. She hasn't went to San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Necesita past participles: visited, eaten, gone."
+        },
+        {
+          "letter": "D",
+          "text": "Laura visited Parque Tayrona. She ate mango biche. She didn't go to San Andrés.",
+          "is_correct": false,
+          "feedback": "Es pasado simple, no present perfect. La pregunta pide present perfect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para describir experiencias de vida en present perfect: She has + past participle (experiencias positivas) y She hasn't + past participle (experiencias negativas). \"Laura has visited the Tayrona Park\" significa que tiene esa experiencia, pero no especifica cuándo. \"She hasn't been to San Andrés\" indica que no tiene esa experiencia.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W02-present-perfect-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

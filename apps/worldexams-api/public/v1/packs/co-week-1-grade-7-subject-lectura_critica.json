@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.618Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector sobre un punto de vista mediante razones y evidencias.",
+          "is_correct": true,
+          "feedback": "Correcto. La argumentación busca persuadir racionalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia entretenida con personajes ficticios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito del texto narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "Describir objetivamente las características de un objeto o lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito del texto descriptivo."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar un concepto de manera neutral sin tomar posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito del texto expositivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto argumentativo tiene como finalidad persuadir o convencer al destinatario mediante argumentos, razones y evidencias. A diferencia del texto expositivo (que informa) o del narrativo (que cuenta historias), el argumentativo toma una posición clara frente a un tema y la defiende.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v2",
+      "statement": "¿Cuál es la tesis del texto que leyó Santiago?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rendimiento académico de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un argumento a favor de la tesis, no la tesis misma."
+        },
+        {
+          "letter": "B",
+          "text": "La jornada escolar única debe implementarse en Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea principal que se defiende."
+        },
+        {
+          "letter": "C",
+          "text": "La deserción escolar se reduce con buena educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es parte de los argumentos, no la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes necesitan formación integral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento de apoyo, no la idea central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la idea principal que se defiende en un texto argumentativo. En este caso, la afirmación \"La jornada escolar única debe implementarse en Colombia\" es la tesis. Las otras opciones son los argumentos que la sustentan: mejora el rendimiento, reduce la deserción y permite formación integral.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v3",
+      "statement": "¿Cuáles son las tres partes básicas de un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio, nudo y desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de un texto narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción, desarrollo y conclusión.",
+          "is_correct": false,
+          "feedback": "Correcto, pero muy general. En argumentación se específica: tesis, argumentos y conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis, argumentos y conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis plantea la postura, los argumentos la sostienen y la conclusión cierra."
+        },
+        {
+          "letter": "D",
+          "text": "Premisa, evidencia y cita textual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son elementos dentro de los argumentos, no la estructura completa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo texto argumentativo bien estructurado contiene: 1) Tesis: la idea o postura que se defiende. 2) Argumentos: razones, evidencias o ejemplos que sustentan la tesis. 3) Conclusión: cierre que refuerza la tesis o invita a la acción. Esta estructura puede variar según el tipo de texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v4",
+      "statement": "Si Laura escribe: \"El deporte mejora la concentración en clase, reduce el estrés y previene enfermedades. Por eso, debemos aumentar las horas de educación física.\" ¿Qué elemento está subrayado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis es \"debemos aumentar las horas de educación física\"."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión es el cierre, no el desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Los argumentos",
+          "is_correct": true,
+          "feedback": "Correcto. \"Mejora la concentración, reduce el estrés y previene enfermedades\" son las razones que apoyan la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "La introducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La introducción contextualiza el tema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los argumentos son las razones que se ofrecen para sostener la tesis. En este caso, Laura presenta tres argumentos (mejora la concentración, reduce el estrés, previene enfermedades) antes de presentar su tesis. La palabra \"Por eso\" conecta los argumentos con la conclusión/tesis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v5",
+      "statement": "¿Qué tipo de argumento utiliza principalmente el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad, porque cita a un experto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No menciona a ningún experto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento basado en datos y ejemplos concretos.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa el dato del 40% de reducción y el ejemplo de colegios en Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento emocional, porque apela a la responsabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque menciona responsabilidad, el peso está en el dato concreto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de causa y efecto sin evidencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí presenta evidencia (40% de reducción)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este texto combina un argumento fáctico (dato estadístico: 40% de reducción) con un argumento basado en ejemplo concreto (colegios de Bogotá). Los argumentos basados en datos y ejemplos son muy efectivos porque proporcionan evidencia verificable que fortalece la tesis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v6",
+      "statement": "\"En muchos países, el uso de celulares en el aula ha sido prohibido porque distrae a los estudiantes. Sin embargo, considero que los celulares son herramientas educativas valiosas si se usan con supervisión. Permiten acceso a información, aplicaciones interactivas y comunicación con padres.\" ¿Cuál es la tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En muchos países, el uso de celulares en el aula ha sido prohibido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es información contextual, no la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Los celulares son herramientas educativas valiosas si se usan con supervisión.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la postura que defiende el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Los celulares distraen a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un contraargumento que el autor menciona para refutarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Los celulares permiten acceso a información y aplicaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son argumentos que apoyan la tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis suele aparecer después de la contextualización. Aquí, el autor primero menciona la posición contraria (prohibición) y luego introduce su postura con \"Sin embargo, considero que...\". La tesis no es un dato ni un argumento, sino la posición central que se defiende: \"los celulares son herramientas educativas valiosas si se usan con supervisión\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v7",
+      "statement": "¿Qué debilidad identificó Valentina en el texto que leyó?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto no tiene conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona que falte conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "El autor no usó citas de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es necesario citar expertos para argumentar bien."
+        },
+        {
+          "letter": "C",
+          "text": "El texto carece de objetividad porque no considera argumentos en contra (contraargumentos).",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen texto argumentativo suele considerar posturas opuestas."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis no está claramente expresada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que la tesis no esté clara."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto argumentativo sólido suele considerar y refutar posibles objeciones o contraargumentos. Esto se llama \"concesión\" y demuestra que el autor ha considerado diferentes perspectivas. Un texto que solo presenta un lado del debate puede ser parcial o sesgado. La inclusión de contraargumentos fortalece la argumentación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v8",
+      "statement": "¿Qué tipo de argumento se utiliza en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad, por citar al MEN.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero no es el mejor análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento basado en datos estadísticos de una fuente confiable.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa un dato porcentual respaldado por una encuesta oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento emocional, porque apela a lo que la mayoría quiere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque apela a la mayoría, el respaldo es estadístico."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de experiencia personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una experiencia personal, es un dato de encuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento estadístico utiliza datos cuantitativos para respaldar una afirmación. La fuente (MEN - Ministerio de Educación Nacional) le da credibilidad al dato. La expresión \"Por lo tanto\" establece la relación de consecuencia entre la evidencia y la conclusión. Este tipo de argumento es muy usado en textos persuasivos formales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v9",
+      "statement": "¿Qué problema lógico identifica Camila en este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un argumento basado en datos falsos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos que verificar."
+        },
+        {
+          "letter": "B",
+          "text": "Es una falsa dicotomía o simplificación excesiva: trabajo infantil no implica necesariamente abandonar la educación.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento presenta una relación causal exagerada."
+        },
+        {
+          "letter": "C",
+          "text": "Es un argumento de autoridad mal usado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cita a ninguna autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "Es un argumento válido y bien construido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento tiene una falacia lógica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este argumento comete la falacia de falsa equivalencia o pendiente resbaladiza. Asume que permitir el trabajo infantil conduce inevitablemente a abandonar la educación, cuando en realidad un niño podría trabajar y estudiar simultáneamente, o trabajar en condiciones reguladas que no interfieran con su formación. La argumentación ignora matices y posibilidades intermedias.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v10",
+      "statement": "¿Cuál de los siguientes sería el argumento MÁS SÓLIDO para apoyar esta tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A muchos estudiantes les gustan las redes sociales y se aburren en clase.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento débil basado en preferencias personales."
+        },
+        {
+          "letter": "B",
+          "text": "\"Mi primo aprendió inglés viendo videos en redes sociales.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una anécdota personal, no generalizable."
+        },
+        {
+          "letter": "C",
+          "text": "\"En Finlandia, el uso educativo de redes sociales mejoró las competencias digitales de los estudiantes en un 35%.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Es un argumento basado en evidencia de un caso exitoso."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las redes sociales son el futuro y hay que adaptarse.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión general sin sustento fáctico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento sólido se basa en evidencia verificable. La opción C presenta un dato concreto (35% de mejora) respaldado por un caso real (Finlandia, reconocido por su sistema educativo). Las anécdotas personales y las opiniones generales son argumentos débiles en un texto académico formal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v11",
+      "statement": "¿Qué observación sobre estos dos textos es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos textos presentan la misma tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen tesis opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "Cada texto presenta argumentos válidos desde su perspectiva, pero ninguno considera el punto de vista del otro.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada uno defiende su postura ignorando la contraria."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo texto tiene mejores argumentos que el primero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos para juzgar cuál es \"mejor\"."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos textos tiene una tesis clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen tesis claras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico implica reconocer que ambos textos presentan argumentos válidos desde perspectivas diferentes. Un texto argumentativo más completo consideraría ambas posturas. El primero se enfoca en el impacto ambiental, el segundo en la utilidad práctica. Un lector crítico debe evaluar la solidez de cada argumento y la evidencia que los respalda.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-v12",
+      "statement": "¿El argumento de autoridad presentado es suficiente para concluir que \"todos debemos vacunarnos\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque un premio Nobel es una autoridad máxima en el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un argumento de autoridad requiere más contexto."
+        },
+        {
+          "letter": "B",
+          "text": "No completamente, porque un argumento de autoridad debe complementarse con evidencia y razones adicionales.",
+          "is_correct": true,
+          "feedback": "Correcto. La autoridad respalda pero no reemplaza la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el doctor Rodríguez es experto en medicina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad por sí sola no es concluyente."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los premios Nobel siempre se equivocan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una generalización injustificada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento de autoridad es válido cuando se cita a un experto reconocido en su campo. Sin embargo, para una conclusión tan amplia como \"todos debemos vacunarnos\", se requiere más que la opinión de una persona, incluso si es un premio Nobel. Se necesitarían datos epidemiológicos, estudios clínicos y consideraciones éticas. El argumento de autoridad es un apoyo, no un sustituto de la evidencia.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W01-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

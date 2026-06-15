@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-25-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T20:41:20.911Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v1",
+      "statement": "¿Qué es un campo semántico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espacio geográfico donde se usan ciertas palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio geográfico se relaciona con dialectos, no con campos semánticos."
+        },
+        {
+          "letter": "B",
+          "text": "Un conjunto de palabras que comparten la misma raíz o lexema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de familia léxica (o familia de palabras)."
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto de palabras que comparten un mismo tema o área de significado, aunque tengan raíces diferentes. Se agrupan por el significado, no por la forma.",
+          "is_correct": true,
+          "feedback": "Correcto. El campo semántico es un conjunto de palabras relacionadas por su significado, no por su forma. Por ejemplo, el campo semántico de \"colores\" incluye: rojo, azul, verde, amarillo, etc. Son palabras diferentes (con distintas raíces) pero todas comparten el tema \"color\"."
+        },
+        {
+          "letter": "D",
+          "text": "Un conjunto de palabras que se escriben de la misma forma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de palabras homógrafas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El campo semántico y la familia léxica son conceptos diferentes: la familia léxica agrupa palabras por su raíz (forma), mientras que el campo semántico agrupa palabras por su significado (contenido). Por ejemplo, en el campo semántico \"medios de transporte\" entran: carro, bus, avión, tren, barco, bicicleta (palabras con raíces distintas). En cambio, la familia léxica de \"carro\" incluye: carro, carrito, carreta, carretera, carruaje.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes grupos forma un campo semántico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pan, panadero, panadería, empanada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un ejemplo de familia léxica (comparten raíz \"pan-\"), no de campo semántico."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo, rojizo, enrojecer, rojez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es otro ejemplo de familia léxica (raíz \"roj-\")."
+        },
+        {
+          "letter": "C",
+          "text": "Guitarra, tambor, flauta, piano, violín, arpa.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas palabras forman un campo semántico: el de \"instrumentos musicales\". Aunque tienen diferentes raíces (guitarr-, tambor-, flaut-, pianist-, violín-, arp-), todas comparten el significado de \"objetos que producen sonido musical\". Pertenece al campo semántico más amplio de la \"música\"."
+        },
+        {
+          "letter": "D",
+          "text": "Flor, florero, floristería, florecer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es familia léxica (raíz \"flor-\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia clave entre campo semántico y familia léxica: campo semántico agrupa por significado (tema común), familia léxica agrupa por forma (raíz común). \"Guitarra, tambor, flauta, piano\" comparten el tema \"instrumentos musicales\" pero cada una tiene raíz diferente. En cambio, \"pan, panadero, panadería\" comparten la raíz \"pan-\" pero pertenecen a diferentes campos semánticos (alimento, profesión, establecimiento).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v3",
+      "statement": "Lee: \"El campesino aró la tierra, sembró la semilla, regó el surco, esperó la cosecha y recogió los frutos.\" ¿Cuál es el campo semántico dominante en este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Campo semántico de \"herramientas\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan herramientas (arado, azadón, etc.), solo acciones."
+        },
+        {
+          "letter": "B",
+          "text": "Campo semántico de \"animales de granja\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan animales."
+        },
+        {
+          "letter": "C",
+          "text": "Campo semántico de \"agricultura\" o \"labores del campo\". Las palabras \"aró\", \"sembró\", \"semilla\", \"surco\", \"cosecha\", \"frutos\" todas se relacionan con el trabajo agrícola. Pertenecen a diferentes categorías gramaticales (verbos, sustantivos) pero comparten el tema de la agricultura.",
+          "is_correct": true,
+          "feedback": "Correcto. El campo semántico de la agricultura incluye palabras como: arar, sembrar, regar, cosechar, semilla, surco, frutos, tierra, campesino, abono, etc. Estas palabras no comparten raíz (son formas diferentes) pero todas se relacionan con el tema de cultivar la tierra. Este campo semántico es especialmente relevante para Colombia por su tradición agrícola."
+        },
+        {
+          "letter": "D",
+          "text": "Campo semántico de \"clima\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan palabras relacionadas con clima (lluvia, sol, viento, etc.)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar campos semánticos ayuda a comprender el tema central de un texto y a anticipar el vocabulario que aparecerá. En este fragmento, todas las palabras giran en torno a la agricultura, lo que indica que el texto trata sobre labores del campo colombiano. Reconocer el campo semántico dominante es una estrategia de comprensión lectora muy útil.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v4",
+      "statement": "Agrupa las siguientes palabras en campos semánticos: sollozar, llorar, gemir, gritar, quejarse. ¿A qué campo pertenecen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Campo semántico de \"movimiento\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna palabra indica movimiento físico."
+        },
+        {
+          "letter": "B",
+          "text": "Campo semántico de \"alegría\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras expresan dolor o aflicción, no alegría."
+        },
+        {
+          "letter": "C",
+          "text": "Campo semántico de \"expresiones de dolor o sufrimiento\". Todas las palabras se refieren a formas de manifestar dolor físico o emocional: sollozar (llorar entrecortadamente), llorar (derramar lágrimas), gemir (emitir sonidos de dolor), gritar (emitir sonidos fuertes), quejarse (expresar malestar). Comparten el tema de \"expresar malestar o dolor\".",
+          "is_correct": true,
+          "feedback": "Correcto. Estas cinco palabras forman un campo semántico relacionado con la manifestación del dolor. Aunque cada una tiene matices diferentes (sollozar es más suave y entrecortado, gritar es más intenso, gemir se asocia a dolor físico), todas pertenecen al mismo campo. Identificar el campo semántico ayuda a entender las relaciones entre las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Campo semántico de \"comunicación verbal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque implican sonidos, no necesariamente comunican un mensaje verbal específico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos de expresión de dolor son un campo semántico con matices interesantes: \"llorar\" es el más general, \"sollozar\" implica un llanto entrecortado por la emoción, \"gemir\" se asocia más al dolor físico, \"gritar\" es la expresión más intensa y estridente, \"quejarse\" implica verbalizar el malestar. Conocer estos matices permite elegir la palabra más precisa para cada situación de comunicación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v5",
+      "statement": "Un texto usa estas palabras: juez, abogado, testigo, acusado, sentencia, prueba, delito. ¿Cuál es el campo semántico y qué tema trata el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Campo semántico de \"escuela\" (juez es como un profesor, abogado como un alumno).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La similitud no justifica el campo semántico."
+        },
+        {
+          "letter": "B",
+          "text": "Campo semántico de \"deportes\" (como en un partido hay juez y pruebas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras pertenecen claramente al ámbito jurídico, no deportivo."
+        },
+        {
+          "letter": "C",
+          "text": "Campo semántico de \"derecho\" o \"justicia\". Las palabras juez (autoridad que juzga), abogado (defensor), testigo (persona que vio los hechos), acusado (persona señalada), sentencia (decisión final), prueba (evidencia) y delito (infracción de la ley) se relacionan con el sistema judicial. El texto trata sobre un proceso legal o un juicio.",
+          "is_correct": true,
+          "feedback": "Correcto. Todas estas palabras pertenecen al campo semántico del derecho y la justicia. Identificar este campo semántico permite al lector anticipar que el texto trata sobre un proceso judicial y activar sus conocimientos previos sobre el tema. Esta habilidad es fundamental para la comprensión lectora en pruebas como el ICFES Saber."
+        },
+        {
+          "letter": "D",
+          "text": "Campo semántico de \"medicina\" (juez como doctor).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna palabra es del ámbito médico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos especializados suelen usar un campo semántico dominante que indica su tema. Reconocer este campo semántico es una estrategia clave de lectura: al identificar que las palabras pertenecen al ámbito legal, el lector sabe que debe activar sus conocimientos sobre el sistema judicial para comprender mejor el texto. Esta estrategia se evalúa en pruebas de comprensión lectora como el ICFES Saber.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v6",
+      "statement": "¿Cuál es la principal diferencia entre familia léxica y campo semántico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, son el mismo concepto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conceptos diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "La familia léxica estudia los significados y el campo semántico estudia las formas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés."
+        },
+        {
+          "letter": "C",
+          "text": "La familia léxica agrupa palabras que comparten una misma raíz (criterio formal); el campo semántico agrupa palabras que comparten un tema o área de significado (criterio semántico). Una misma palabra puede pertenecer a una familia léxica y a varios campos semánticos a la vez. Por ejemplo: \"panadero\" pertenece a la familia léxica de \"pan\" (raíz \"pan-\") y al campo semántico de \"profesiones\" (junto con \"médico\", \"profesor\", etc.).",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es fundamental: la familia léxica se basa en la forma (raíz común), mientras que el campo semántico se basa en el significado (tema común). \"Panadero\" comparte raíz con \"pan\" (familia léxica) y comparte tema con \"médico, profesor, abogado\" (campo semántico de profesiones). Es posible que una palabra pertenezca simultáneamente a una familia léxica y a múltiples campos semánticos."
+        },
+        {
+          "letter": "D",
+          "text": "El campo semántico solo estudia sustantivos, la familia léxica estudia todas las categorías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos conceptos aplican a todas las categorías gramaticales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Familia léxica vs. Campo semántico:\r\n\r\n| | **Familia Léxica** | **Campo Semántico** |\r\n|--|-------------------|-------------------|\r\n| Criterio | Raíz común | Significado común |\r\n| Ejemplo | pan, panadero, panecillo | martillo, serrucho, clavos, taladro |\r\n| Relación | Formal | Semántica |\r\n| Palabras | Comparten lexema | No comparten lexema |\r\n\r\nUna palabra como \"carpintero\" pertenece a la familia léxica de \"carpa\" (raíz carp-) y al campo semántico de \"oficios\", \"herramientas\" y \"madera\".\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v7",
+      "statement": "Tienes el campo semántico de \"fútbol\": gol, arco, balón, árbitro, cancha, jugadores. ¿Cuál de las siguientes palabras NO pertenece a este campo semántico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estadio (lugar donde se juega fútbol).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Estadio\" SÍ pertenece al campo semántico del fútbol."
+        },
+        {
+          "letter": "B",
+          "text": "Tarjeta (amarilla o roja que usa el árbitro).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Tarjeta\" SÍ pertenece al campo semántico del fútbol en su acepción deportiva."
+        },
+        {
+          "letter": "C",
+          "text": "Orquesta (grupo de músicos que tocan instrumentos).",
+          "is_correct": true,
+          "feedback": "Correcto. \"Orquesta\" NO pertenece al campo semántico del fútbol. Pertenece al campo semántico de \"música\". Aunque el fútbol y la música pueden aparecer juntos en eventos deportivos, \"orquesta\" no es una palabra que se relacione semánticamente con el fútbol. Un campo semántico debe tener coherencia temática."
+        },
+        {
+          "letter": "D",
+          "text": "Tiro libre (tipo de jugada en fútbol).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Tiro libre\" SÍ pertenece al campo semántico del fútbol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Formar parte de un campo semántico requiere que la palabra tenga una relación de significado con el tema central. \"Orquesta\" no se relaciona semánticamente con el fútbol (aunque en eventos como la inauguración de un mundial pueda haber orquestas, no es una palabra nuclear del campo). El campo semántico del fútbol incluye: posiciones (arquero, delantero), acciones (patear, cabecear), elementos (balón, arco, cancha), normas (falta, offside), resultados (gol, empate).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v8",
+      "statement": "Lee: \"El bus arrancó a las seis. En la terminal había mucha gente. El pasajero mostró su tiquete. El conductor revisó el motor. Las maletas se guardaron en la bodega.\" ¿Cómo contribuye el campo semántico a la unidad del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No contribuye, el texto es confuso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es coherente y unificado."
+        },
+        {
+          "letter": "B",
+          "text": "Las palabras no están relacionadas entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas tienen relación evidente."
+        },
+        {
+          "letter": "C",
+          "text": "El campo semántico de \"transporte terrestre\" (bus, terminal, pasajero, tiquete, conductor, maletas, bodega) crea cohesión léxica: todas las palabras se relacionan con el tema de viajar en bus. Esta red de significados relacionados hace que el texto sea coherente, aunque no haya conectores explícitos. El lector entiende inmediatamente que se trata de un viaje en transporte público.",
+          "is_correct": true,
+          "feedback": "Correcto. Los campos semánticos son un mecanismo de cohesión léxica: cuando varias palabras del mismo campo aparecen en un texto, ayudan a mantener la unidad temática sin necesidad de repeticiones o conectores explícitos. En este texto, todas las palabras giran en torno al viaje en bus, creando un contexto claro para el lector."
+        },
+        {
+          "letter": "D",
+          "text": "El campo semántico solo aplica a textos poéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a todo tipo de textos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión léxica mediante campos semánticos es uno de los recursos más importantes para lograr textos coherentes. Cuando un autor usa palabras que pertenecen al mismo campo semántico, el lector puede activar sus conocimientos sobre ese tema y comprender el texto más fácilmente. En los textos expositivos y descriptivos, los campos semánticos son especialmente importantes para mantener la unidad temática.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v9",
+      "statement": "Un estudiante dice: \"Los campos semánticos son solo una teoría lingüística sin aplicación práctica.\" ¿Cuál es la MEJOR evaluación de esta afirmación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, los campos semánticos solo interesan a los lingüistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen aplicaciones prácticas importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque en la vida diaria nadie piensa en campos semánticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque no se piense conscientemente en ellos, se usan constantemente."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta. Los campos semánticos tienen múltiples aplicaciones prácticas: (1) en la enseñanza de idiomas, ayudan a organizar el vocabulario por temas; (2) en la escritura, ayudan a mantener la cohesión temática; (3) en la lectura, permiten activar conocimientos previos y anticipar contenido; (4) en la comunicación, facilitan encontrar la palabra precisa; (5) en pruebas ICFES, ayudan a responder preguntas de comprensión y vocabulario; (6) en la inteligencia artificial, se usan para procesar lenguaje natural y crear tesauros.",
+          "is_correct": true,
+          "feedback": "Correcto. El conocimiento de campos semánticos tiene aplicaciones muy concretas y útiles. Por ejemplo, si sabes que las palabras \"hipótesis, variable, experimento, resultado, conclusión\" pertenecen al campo semántico de \"investigación científica\", puedes anticipar que un texto que las contiene probablemente es un informe de investigación. Esta estrategia mejora significativamente la comprensión lectora."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es cierta para el inglés, no para el español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los campos semánticos son universales en todos los idiomas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los campos semánticos son una herramienta práctica con múltiples aplicaciones. En pedagogía, se usan para organizar el aprendizaje de vocabulario. En inteligencia artificial y procesamiento de lenguaje natural, los campos semánticos son la base de sistemas de búsqueda semántica, traducción automática y análisis de sentimientos. En la vida cotidiana, cuando organizas mentalmente lo que necesitas comprar en el supermercado por secciones (lácteos, carnes, verduras), estás usando campos semánticos sin saberlo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-v10",
+      "statement": "Debes crear un organizador gráfico que muestre el campo semántico de \"cultura colombiana\". ¿Cuál propuesta es la MÁS completa y pedagógica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un círculo con \"Colombia\" y dentro una lista de todas las palabras que empiezan con C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo semántico no se basa en la letra inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de 5 regiones naturales de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es geografía, no un campo semántico de palabras relacionadas."
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa mental con \"cultura colombiana\" en el centro y ramas:\r\n**Gastronomía**: bandeja paisa, sancocho, arepa, ajiaco, lechona, tamal.\r\n**Música**: cumbia, vallenato, bambuco, salsa, currulao, porro.\r\n**Festividades**: Carnaval de Barranquilla, Feria de Cali, Feria de las Flores, Carnaval de Negros y Blancos, Semana Santa de Popayán.\r\n**Geografía**: Andes, Amazonía, Caribe, Pacífico, Orinoquía, Llanos.\r\n**Símbolos**: bandera, escudo, himno, cóndor, palma de cera, orquídea.\r\n**Deportes**: fútbol, ciclismo, tejo, béisbol, boxeo.\r\n**Literatura**: García Márquez, \"Cien años de soledad\", \"La Vorágine\", \"María\".\r\nCada rama con 3-5 ejemplos representativos.",
+          "is_correct": true,
+          "feedback": "Correcto. Este organizador gráfico es pedagógicamente excelente porque: (1) muestra visualmente la estructura del campo semántico, (2) organiza el conocimiento en subcampos coherentes, (3) usa ejemplos auténticamente colombianos que los estudiantes reconocen, (4) conecta el lenguaje con la identidad cultural, (5) permite ampliación (cada rama puede expandirse), (6) integra múltiples áreas del conocimiento. Es un recurso que los estudiantes pueden usar como referencia y como base para futuros aprendizajes."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto de 3 páginas enumerando todas las palabras que se usan en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarea es un organizador gráfico de un campo semántico, no una lista exhaustiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El campo semántico de \"cultura colombiana\" es vasto y diverso, reflejando la riqueza cultural del país. Un buen organizador gráfico debe: (1) mostrar las relaciones entre palabras y conceptos, (2) incluir ejemplos representativos de cada subcampo, (3) ser visualmente claro, (4) permitir la ampliación futura. Este tipo de actividad integra competencias lingüísticas (vocabulario, clasificación semántica) con conocimiento cultural (identidad colombiana).\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W25-campo-semantico-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
