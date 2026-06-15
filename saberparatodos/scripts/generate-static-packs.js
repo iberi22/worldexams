@@ -278,6 +278,7 @@ for (const file of allFiles) {
       brazil: "br",
       spain: "es",
       espana: "es",
+      panama: "pa",
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
