@@ -133,16 +133,19 @@ function questionBlocks(content) {
 }
 
 function optionRows(block) {
-  const re = /^- \[[ xX]\]\s*([A-D])\)\s*(.*)$/gm;
-  return [...block.matchAll(re)].map((match) => ({
-    letter: match[1],
-    text: match[2]
-      .replace(/\s*<!-- feedback:[\s\S]*?-->\s*$/, '')
-      .trim()
-      .toLowerCase()
-      .replace(/\s+/g, ' '),
-    feedback: (match[2].match(/<!-- feedback:\s*([\s\S]*?)\s*-->/)?.[1] || '').trim(),
-  }));
+  const re = /^- \[[ xX]\]\s*([A-D])\)\s*([\s\S]*?)(?=^- \[[ xX]\]\s*[A-D]\)|^###\s+|^##\s+|(?![\s\S]))/gm;
+  return [...block.matchAll(re)].map((match) => {
+    const raw = match[2].trim();
+    return {
+      letter: match[1],
+      text: raw
+        .replace(/<!-- feedback:[\s\S]*?-->/i, '')
+        .trim()
+        .toLowerCase()
+        .replace(/\s+/g, ' '),
+      feedback: (raw.match(/<!-- feedback:\s*([\s\S]*?)\s*-->/i)?.[1] || '').trim(),
+    };
+  });
 }
 
 function expectedQuestionCount(fm) {

@@ -50,12 +50,15 @@ function questionBlocks(content) {
 }
 
 function optionRows(block) {
-  const re = /^- \[[ xX]\]\s*([A-D])\)\s*(.*)$/gm;
-  return [...block.matchAll(re)].map((m) => ({
-    letter: m[1],
-    text: m[2].replace(/\s*<!-- feedback:[\s\S]*?-->\s*$/, '').trim().toLowerCase().replace(/\s+/g, ' '),
-    feedback: (m[2].match(/<!-- feedback:\s*([\s\S]*?)\s*-->/)?.[1] || '').trim(),
-  }));
+  const re = /^- \[[ xX]\]\s*([A-D])\)\s*([\s\S]*?)(?=^- \[[ xX]\]\s*[A-D]\)|^###\s+|^##\s+|(?![\s\S]))/gm;
+  return [...block.matchAll(re)].map((m) => {
+    const raw = m[2].trim();
+    return {
+      letter: m[1],
+      text: raw.replace(/<!-- feedback:[\s\S]*?-->/i, '').trim().toLowerCase().replace(/\s+/g, ' '),
+      feedback: (raw.match(/<!-- feedback:\s*([\s\S]*?)\s*-->/i)?.[1] || '').trim(),
+    };
+  });
 }
 
 function expectedCount(file, fm) {
