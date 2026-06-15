@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-7-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.051Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes reglas de acentuación es CORRECTA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las palabras agudas siempre llevan tilde.",
+          "is_correct": false,
+          "feedback": "Solo si terminan en n, s o vocal."
+        },
+        {
+          "letter": "B",
+          "text": "Las palabras graves llevan tilde si terminan en vocal.",
+          "is_correct": false,
+          "feedback": "Al contrario, no la llevan si terminan en vocal."
+        },
+        {
+          "letter": "C",
+          "text": "Las palabras esdrújulas siempre llevan tilde, sin importar su terminación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la regla más constante del idioma."
+        },
+        {
+          "letter": "D",
+          "text": "Las palabras monosílabas siempre llevan tilde.",
+          "is_correct": false,
+          "feedback": "Por regla general no llevan tilde (salvo casos especiales)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de las reglas de acentuación es la base de la corrección ortográfica y la claridad en la escritura.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v2",
+      "statement": "¿Cuál de estas palabras es aguda y lleva tilde porque termina en vocal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Azúcar",
+          "is_correct": false,
+          "feedback": "Es grave y termina en r."
+        },
+        {
+          "letter": "B",
+          "text": "Puré",
+          "is_correct": true,
+          "feedback": "¡Muy bien! pu-RÉ. Es aguda y termina en vocal."
+        },
+        {
+          "letter": "C",
+          "text": "Mantel",
+          "is_correct": false,
+          "feedback": "Es aguda pero termina en l (no lleva tilde)."
+        },
+        {
+          "letter": "D",
+          "text": "Mesa",
+          "is_correct": false,
+          "feedback": "Es grave y termina en vocal (no lleva tilde)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer la combinación de posición del acento y terminación es la clave para tildar las agudas.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v3",
+      "statement": "La palabra **\"miércoles\"** lleva tilde porque:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un nombre propio.",
+          "is_correct": false,
+          "feedback": "Los días de la semana son comunes y miércoles es esdrújula."
+        },
+        {
+          "letter": "B",
+          "text": "Es una palabra aguda terminada en s.",
+          "is_correct": false,
+          "feedback": "No, el acento no está al final (miér-co-les)."
+        },
+        {
+          "letter": "C",
+          "text": "Es una palabra esdrújula.",
+          "is_correct": true,
+          "feedback": "¡Excelente! miér-co-les. Al sonar fuerte en la antepenúltima sílaba, siempre se tilda."
+        },
+        {
+          "letter": "D",
+          "text": "Indica tiempo.",
+          "is_correct": false,
+          "feedback": "El significado no define el uso de la tilde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tilde en las esdrújulas es independiente de la letra final de la palabra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v4",
+      "statement": "¿Cuál de estas palabras es grave y debe llevar tilde porque termina en una consonante que NO es n ni s?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camino",
+          "is_correct": false,
+          "feedback": "Es grave pero termina en vocal (no lleva tilde)."
+        },
+        {
+          "letter": "B",
+          "text": "Cantan",
+          "is_correct": false,
+          "feedback": "Es grave pero termina en n (no lleva tilde)."
+        },
+        {
+          "letter": "C",
+          "text": "Difícil",
+          "is_correct": true,
+          "feedback": "¡Correcto! di-FÍ-cil. Es grave terminada en l, por lo que se tilda."
+        },
+        {
+          "letter": "D",
+          "text": "Reloj",
+          "is_correct": false,
+          "feedback": "Es aguda terminada en j (no lleva tilde)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras graves siguen la regla inversa a las agudas para el uso del acento ortográfico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v5",
+      "statement": "\"El **capitan** subio al **barco** muy **rapido**\". ¿Cuáles de las palabras resaltadas llevan tilde obligatoriamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas llevan tilde.",
+          "is_correct": false,
+          "feedback": "Barco es grave terminada en vocal, no lleva tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Solo capitán.",
+          "is_correct": false,
+          "feedback": "Faltan más."
+        },
+        {
+          "letter": "C",
+          "text": "Capitán, subió y rápido.",
+          "is_correct": true,
+          "feedback": "¡Así es! Aguda con n, aguda con vocal y esdrújula."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna lleva tilde.",
+          "is_correct": false,
+          "feedback": "Es un error grave de ortografía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La correcta acentuación de verbos en pasado y sustantivos específicos es vital para la calidad de los textos narrativos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v6",
+      "statement": "\"Él **comió** mucho\" / \"Yo **como** mucho\". ¿Por qué una lleva tilde y la otra no, si son del mismo verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque una es más larga que la otra.",
+          "is_correct": false,
+          "feedback": "Tienen la misma cantidad de letras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque una es aguda terminada en vocal (pasado) y la otra es grave terminada en vocal (presente).",
+          "is_correct": true,
+          "feedback": "¡Exacto! La tilde marca la diferencia de tiempo y persona."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el autor quiso ponerla así.",
+          "is_correct": false,
+          "feedback": "La ortografía no es por gusto, es por reglas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque una es una orden.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos es imperativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El acento ortográfico (tilde) tiene una función distintiva que permite evitar ambigüedades en el mensaje escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v7",
+      "statement": "\"Él me dijo que el gato se escapó\". ¿Por qué el primer **\"él\"** lleva tilde y el segundo **\"el\"** no?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la primera palabra de la oración siempre lleva tilde.",
+          "is_correct": false,
+          "feedback": "No existe esa regla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el primero es un pronombre (persona) y el segundo es un artículo (acompaña al nombre).",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es la tilde diacrítica que diferencia palabras iguales con distinta función."
+        },
+        {
+          "letter": "C",
+          "text": "Es un error de escritura.",
+          "is_correct": false,
+          "feedback": "No, es un uso correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Para que se vea diferente.",
+          "is_correct": false,
+          "feedback": "Es por su función gramatical, no estética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde diacrítica permite distinguir palabras monosílabas que tienen formas idénticas pero significados y funciones gramaticales diferentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v8",
+      "statement": "¿Cuál de estos grupos de palabras está TODO bien tildado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofa, jardin, arbol.",
+          "is_correct": false,
+          "feedback": "Faltan las tildes en sofá y jardín."
+        },
+        {
+          "letter": "B",
+          "text": "Sofá, jardín, árbol.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sofá (aguda-vocal), jardín (aguda-n), árbol (grave-l)."
+        },
+        {
+          "letter": "C",
+          "text": "Sofá, jardìn, arból.",
+          "is_correct": false,
+          "feedback": "La tilde en jardín está al revés (acento francés) y en árbol está mal ubicada."
+        },
+        {
+          "letter": "D",
+          "text": "Sófa, jardin, arbol.",
+          "is_correct": false,
+          "feedback": "Varios errores de posición y omisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La consistencia en la aplicación de las reglas demuestra un nivel avanzado de competencia ortográfica en grado cuarto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v9",
+      "statement": "¿Qué error de acentuación hay en la frase: \"El **volcan** Galeras es muy **celebre** en Colombia\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Colombia\" debe llevar tilde.",
+          "is_correct": false,
+          "feedback": "No, es grave terminada en vocal."
+        },
+        {
+          "letter": "B",
+          "text": "No hay errores.",
+          "is_correct": false,
+          "feedback": "Sí los hay."
+        },
+        {
+          "letter": "C",
+          "text": "\"Volcán\" debe llevar tilde (aguda en n) y \"célebre\" también (esdrújula).",
+          "is_correct": true,
+          "feedback": "¡Excelente! Identificaste los dos tipos de reglas que faltaban."
+        },
+        {
+          "letter": "D",
+          "text": "Solo falta la tilde en \"celebre\".",
+          "is_correct": false,
+          "feedback": "Volcán también la requiere."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar errores en palabras de diferentes categorías de acento es el reto final de este bundle.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases está escrita con una ortografía de tildes PERFECTA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pájaro voló hacia el árbol más frondoso.",
+          "is_correct": false,
+          "feedback": "¡Casi! Pero falta la tilde en \"voló\" y \"frondoso\" no la lleva. Espera, miremos las otras."
+        },
+        {
+          "letter": "B",
+          "text": "El pájaro voló hacia el árbol más frondoso.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Pájaro (esdrújula), voló (aguda-vocal), árbol (grave-l), más (adverbio cantidad)."
+        },
+        {
+          "letter": "C",
+          "text": "El pajaro volo hacia el arbol mas frondoso.",
+          "is_correct": false,
+          "feedback": "Faltan todas las tildes necesarias."
+        },
+        {
+          "letter": "D",
+          "text": "El pájaro volo hacìa el árbol mas frondoso.",
+          "is_correct": false,
+          "feedback": "Faltan y sobran tildes en lugares incorrectos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escritura perfecta de tildes en oraciones completas es la demostración máxima de respeto por las normas del idioma español.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W07-ortografia-tildes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

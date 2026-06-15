@@ -1,4 +1,4 @@
-import fs from "fs";
+﻿import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
 import { fileURLToPath } from "url";
@@ -151,15 +151,16 @@ function parseQuestions(body) {
     // Extract options
     const options = [];
     const optionRegex =
-      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
+      /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?([\s\S]*?)(?=^\s*-\s*\[[x ]\]\s*(?:\*\*)?[A-Z](?:\*\*)?(?:\s*[\)\.\-:])|^###\s+|^##\s+|(?![\s\S]))/gim;
     let optMatch;
     let correctId = "A";
 
     while ((optMatch = optionRegex.exec(section)) !== null) {
       const isCorrect = optMatch[1].toLowerCase() === "x";
       const letter = optMatch[2];
-      const feedbackMatch = optMatch[3].match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/);
-      const text = optMatch[3]
+      const rawOption = optMatch[3].trim();
+      const feedbackMatch = rawOption.match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/i);
+      const text = rawOption
         .replace(/<!--\s*feedback:[\s\S]*?-->/, "")
         .trim();
       const feedback = feedbackMatch ? feedbackMatch[1].trim() : "";
@@ -240,9 +241,10 @@ for (const file of allFiles) {
     const parts = relPath.split(path.sep);
     const countryFolder = parts[0];
 
-    const grade = parseInt(
-      data.grado || file.match(/grado-(\d+)/)?.[1] || "11",
-    );
+    const rawGrade = String(data.grado || file.match(/grado-(\d+)/)?.[1] || "11");
+    const grade = rawGrade.toUpperCase() === "3EM"
+      ? 11
+      : parseInt(rawGrade, 10);
     let subject = data.asignatura || data.subject;
 
     if (!subject) {
@@ -274,11 +276,18 @@ for (const file of allFiles) {
       chile: "cl",
       ecuador: "ec",
       argentina: "ar",
+      guatemala: "gt",
       brasil: "br",
       brazil: "br",
       spain: "es",
       espana: "es",
+
       panama: "pa",
+
+      "guinea-ecuatorial": "gq",
+      nicaragua: "ni",
+      dominican_republic: "do",
+
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
@@ -399,3 +408,4 @@ for (const outputDir of OUTPUT_DIRS) {
 }
 
 console.log("Static packs generation completed.");
+

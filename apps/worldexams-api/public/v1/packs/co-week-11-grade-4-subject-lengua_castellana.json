@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-11-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.054Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una historia de aventuras con personajes imaginarios.",
+          "is_correct": false,
+          "feedback": "Eso es un texto narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar información clara y objetiva sobre un tema para que el lector aprenda.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su función es informar y explicar."
+        },
+        {
+          "letter": "C",
+          "text": "Expresar sentimientos a través de rimas y versos.",
+          "is_correct": false,
+          "feedback": "Eso es un texto lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al lector de comprar un producto nuevo.",
+          "is_correct": false,
+          "feedback": "Eso es un texto publicitario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto expositivo busca transmitir conocimientos sobre un tema de forma rigurosa y organizada, sin incluir opiniones personales del autor.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v2",
+      "statement": "¿Cómo se organiza generalmente la estructura de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio, nudo y desenlace.",
+          "is_correct": false,
+          "feedback": "Esta es la estructura de la narración."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción, desarrollo y conclusión.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es la estructura clásica para presentar información."
+        },
+        {
+          "letter": "C",
+          "text": "Estrofas y versos.",
+          "is_correct": false,
+          "feedback": "Esta es la estructura de la poesía."
+        },
+        {
+          "letter": "D",
+          "text": "Ingredientes y pasos.",
+          "is_correct": false,
+          "feedback": "Esta es la estructura de un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura tripartita (introducción, desarrollo y conclusión) asegura que el tema se presente, se explique en detalle y se cierre de forma lógica.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v3",
+      "statement": "¿Qué se debe presentar en la **introducción** de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los detalles difíciles del tema.",
+          "is_correct": false,
+          "feedback": "Los detalles van en el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "La presentación del tema y el objetivo del texto.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Sirve para situar al lector y decirle de qué se va a hablar."
+        },
+        {
+          "letter": "C",
+          "text": "Una opinión personal del autor diciendo si le gusta el tema.",
+          "is_correct": false,
+          "feedback": "El texto expositivo debe ser objetivo, evita opiniones."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen de todo lo que se dijo.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la conclusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La introducción despierta el interés y define el marco temático del texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v4",
+      "statement": "¿Cuál de los siguientes es un ejemplo de texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una invitación a una fiesta de cumpleaños.",
+          "is_correct": false,
+          "feedback": "Es un texto apelativo/social."
+        },
+        {
+          "letter": "B",
+          "text": "Un artículo de una enciclopedia sobre las orquídeas de Colombia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Da información real y detallada sobre un tema científico o natural."
+        },
+        {
+          "letter": "C",
+          "text": "Un cuento sobre un gigante que vive en el Monserrate.",
+          "is_correct": false,
+          "feedback": "Es un texto narrativo ficticio."
+        },
+        {
+          "letter": "D",
+          "text": "Una fábula sobre un loro y un mono.",
+          "is_correct": false,
+          "feedback": "Es una narración con moraleja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos enciclopédicos, los manuales de estudio y los informes científicos son tipos claros de textos expositivos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v5",
+      "statement": "En un texto expositivo, ¿cuál de estas frases es la más adecuada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A mí me parece que los volcanes son muy aterradores\".",
+          "is_correct": false,
+          "feedback": "Es subjetiva, incluye sentimientos."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los volcanes son aberturas en la corteza terrestre que expulsan lava y gases\".",
+          "is_correct": true,
+          "feedback": "¡Así es! Es una definición objetiva basada en hechos."
+        },
+        {
+          "letter": "C",
+          "text": "\"Ojalá todos los volcanes fueran de colores brillantes\".",
+          "is_correct": false,
+          "feedback": "Es un deseo personal."
+        },
+        {
+          "letter": "D",
+          "text": "\"¡Qué miedo dan los volcanes cuando hacen erupción!\"",
+          "is_correct": false,
+          "feedback": "Es una exclamación emocional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La objetividad se logra mediante el uso de la tercera persona y la ausencia de adjetivos valorativos o sentimientos del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v6",
+      "statement": "Si en un texto lees: **\"En resumen, reciclar permite proteger el medio ambiente y reducir la basura\"**, ¿a qué parte del texto pertenece esta oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción.",
+          "is_correct": false,
+          "feedback": "No está presentando el tema, lo está cerrando."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollo.",
+          "is_correct": false,
+          "feedback": "En el desarrollo se darían los ejemplos y pasos."
+        },
+        {
+          "letter": "C",
+          "text": "Conclusión.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Los conectores como \"En resumen\" o \"Finalmente\" indican el cierre del tema."
+        },
+        {
+          "letter": "D",
+          "text": "Título.",
+          "is_correct": false,
+          "feedback": "No es el nombre del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión sintetiza las ideas principales y ofrece un cierre coherente a toda la exposición previa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v7",
+      "statement": "¿Para qué se incluyen fotos, mapas o diagramas en un texto expositivo sobre el Amazonas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el lector no tenga que leer el texto.",
+          "is_correct": false,
+          "feedback": "La lectura sigue siendo necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "Para complementar y aclarar visualmente la información escrita.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los apoyos visuales facilitan la comprensión de datos complejos."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el libro pese más.",
+          "is_correct": false,
+          "feedback": "No es una cuestión de peso físico."
+        },
+        {
+          "letter": "D",
+          "text": "Para que los niños puedan colorear encima.",
+          "is_correct": false,
+          "feedback": "No es su función en un texto de estudio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje iconográfico (imágenes) es un recurso didáctico que refuerza los contenidos del lenguaje verbal en la exposición.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v8",
+      "statement": "¿Cuál de estos títulos es el más apropiado para un texto expositivo serio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Qué lindos son los planetas del cielo!",
+          "is_correct": false,
+          "feedback": "Es un título emocional y subjetivo."
+        },
+        {
+          "letter": "B",
+          "text": "El planeta que se comió a la estrella.",
+          "is_correct": false,
+          "feedback": "Suena a título de cuento fantástico."
+        },
+        {
+          "letter": "C",
+          "text": "Características y órbitas de los planetas del sistema solar.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es descriptivo, preciso y adelanta el contenido informativo."
+        },
+        {
+          "letter": "D",
+          "text": "Un viaje imaginario por las nubes.",
+          "is_correct": false,
+          "feedback": "Suena a narración literaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El título en la exposición debe ser informativo y objetivo, reflejando fielmente el contenido del texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v9",
+      "statement": "En un texto expositivo sobre la energía solar, ¿cuál de estas oraciones sobraría (no es coherente)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía solar se obtiene mediante paneles que captan los rayos del sol.",
+          "is_correct": false,
+          "feedback": "Es una idea central del tema."
+        },
+        {
+          "letter": "B",
+          "text": "Es una fuente de energía limpia que no contamina el planeta.",
+          "is_correct": false,
+          "feedback": "Es una característica importante."
+        },
+        {
+          "letter": "C",
+          "text": "Mi tío dice que el sol le quema mucho la calva cuando va a la playa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una anécdota personal que rompe la objetividad y el tema técnico del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia tiene un gran potencial para producir energía solar por su ubicación.",
+          "is_correct": false,
+          "feedback": "Es un dato informativo relevante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia expositiva exige mantener el rigor informativo y evitar digresiones personales o anecdóticas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-v10",
+      "statement": "¿Cómo empezarías tu párrafo para que suene como un verdadero texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo fui con mi mamá al Parque Explora y me gustó mucho el acuario.",
+          "is_correct": false,
+          "feedback": "Es el inicio de una narración personal."
+        },
+        {
+          "letter": "B",
+          "text": "El Parque Explora es un centro interactivo de ciencia y tecnología ubicado en Medellín, Colombia.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es una definición clara, objetiva y sitúa el tema de inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "¡Vengan todos a divertirse al parque más emocionante de la ciudad!",
+          "is_correct": false,
+          "feedback": "Es un lenguaje publicitario o de invitación."
+        },
+        {
+          "letter": "D",
+          "text": "Había una vez un parque lleno de experimentos mágicos...",
+          "is_correct": false,
+          "feedback": "Es el inicio de un cuento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La producción de textos expositivos requiere el uso de definiciones precisas y estructuras descriptivas formales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W11-texto-expositivo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-12-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.055Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal de un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cómo ocurrió un accidente en la calle.",
+          "is_correct": false,
+          "feedback": "Eso es un texto narrativo o informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer o persuadir al lector sobre una idea o punto de vista.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Busca que el lector cambie de opinión o se adhiera a la del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar científicamente cómo nace una planta.",
+          "is_correct": false,
+          "feedback": "Eso es un texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Listar los pasos para cocinar un postre.",
+          "is_correct": false,
+          "feedback": "Eso es un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La argumentación tiene un propósito apelativo o persuasivo, utilizando la razón para influir en el receptor.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v2",
+      "statement": "¿Cómo se llama la idea central que el autor defiende en un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moraleja.",
+          "is_correct": false,
+          "feedback": "Es la enseñanza de una fábula."
+        },
+        {
+          "letter": "B",
+          "text": "Tesis.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! La tesis es la opinión o postura principal del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Nudo.",
+          "is_correct": false,
+          "feedback": "Es el problema de un cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Rima.",
+          "is_correct": false,
+          "feedback": "Es un elemento de la poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la columna vertebral del texto argumentativo; todo el escrito sirve para demostrar que esa idea es válida.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v3",
+      "statement": "¿Qué son los **argumentos** dentro del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las palabras difíciles que no entendemos.",
+          "is_correct": false,
+          "feedback": "No tiene que ver con la dificultad del léxico."
+        },
+        {
+          "letter": "B",
+          "text": "Las razones, pruebas o ejemplos que apoyan y demuestran la tesis.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Los argumentos son el \"porqué\" de nuestra opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Los dibujos que acompañan al texto.",
+          "is_correct": false,
+          "feedback": "Son recursos gráficos, no argumentos lógicos."
+        },
+        {
+          "letter": "D",
+          "text": "Los nombres de las personas que no están de acuerdo.",
+          "is_correct": false,
+          "feedback": "Eso sería la contraargumentación, pero el argumento en sí es la razón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un argumento sólido debe basarse en hechos, datos, ejemplos o razonamientos lógicos que den credibilidad a la tesis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v4",
+      "statement": "¿Cuál de estos textos es claramente argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia sobre el clima de hoy.",
+          "is_correct": false,
+          "feedback": "Es un texto informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Un artículo de opinión en el periódico escolar defendiendo el cuidado del medio ambiente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor expresa su punto de vista y trata de convencer a los demás."
+        },
+        {
+          "letter": "C",
+          "text": "Una receta para hacer arepas de huevo.",
+          "is_correct": false,
+          "feedback": "Es un texto instructivo."
+        },
+        {
+          "letter": "D",
+          "text": "Un poema sobre la belleza de la puesta de sol.",
+          "is_correct": false,
+          "feedback": "Es un texto lírico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos de opinión, los ensayos y los discursos políticos son géneros argumentativos por excelencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v5",
+      "statement": "\"Leer todos los días es el mejor hábito que un niño puede tener. **Los libros abren nuestra imaginación y nos enseñan palabras nuevas**. Además, nos ayudan a entender mejor el mundo\".\n¿Cuál es la **tesis** del autor en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer todos los días es el mejor hábito para un niño.",
+          "is_correct": true,
+          "feedback": "¡Así es! Es la afirmación principal que el autor intenta defender."
+        },
+        {
+          "letter": "B",
+          "text": "Los libros abren nuestra imaginación.",
+          "is_correct": false,
+          "feedback": "Este es un argumento que apoya la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Los libros enseñan palabras nuevas.",
+          "is_correct": false,
+          "feedback": "Este es otro argumento de apoyo."
+        },
+        {
+          "letter": "D",
+          "text": "Entender mejor el mundo.",
+          "is_correct": false,
+          "feedback": "Es una consecuencia positiva mencionada como argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir la tesis de los argumentos es fundamental para analizar la estructura de persuasión de un texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v6",
+      "statement": "¿Qué tipo de conector es más común en un texto argumentativo para introducir una razón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Había una vez...",
+          "is_correct": false,
+          "feedback": "Es un marcador de inicio narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque... / Ya que...",
+          "is_correct": true,
+          "feedback": "¡Exacto! Son conectores causales que sirven para presentar los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Finalmente...",
+          "is_correct": false,
+          "feedback": "Se usa más para concluir o cerrar."
+        },
+        {
+          "letter": "D",
+          "text": "En un lugar muy lejano...",
+          "is_correct": false,
+          "feedback": "Es un marcador de lugar narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores causales (porque, puesto que, debido a) establecen la relación lógica entre la tesis y su justificación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v7",
+      "statement": "Si mi tesis es: \"Debemos reciclar en el colegio\", ¿cuál de estos es el argumento más FUERTE?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así el colegio se ve más colorido con las canecas.",
+          "is_correct": false,
+          "feedback": "Es una razón estética y muy débil."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reduce la cantidad de basura que contamina el planeta y ahorra recursos naturales.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es una razón lógica con impacto real y positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todos mis amigos dicen que es bueno.",
+          "is_correct": false,
+          "feedback": "Es un argumento de presión social, poco sólido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque quiero y ya.",
+          "is_correct": false,
+          "feedback": "No es un argumento, es un deseo caprichoso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La calidad de la argumentación depende de la relevancia y la veracidad de las razones expuestas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v8",
+      "statement": "¿Cuál es la función de la **conclusión** en un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar el tema por primera vez.",
+          "is_correct": false,
+          "feedback": "Eso lo hace la introducción."
+        },
+        {
+          "letter": "B",
+          "text": "Dar nuevos argumentos diferentes a los anteriores.",
+          "is_correct": false,
+          "feedback": "Los argumentos deben ir en el desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir las ideas principales y reafirmar la tesis final.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Sirve para dejar clara la postura final después de haber argumentado."
+        },
+        {
+          "letter": "D",
+          "text": "Contar un chiste para que el lector no se aburra.",
+          "is_correct": false,
+          "feedback": "No es la función académica de la conclusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión refuerza la tesis y cierra el proceso persuasivo, dejando una impresión final duradera en el lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v9",
+      "statement": "Un anuncio dice: \"Come mango colombiano: es el más dulce, tiene muchas vitaminas y apoya a nuestros campesinos\". ¿Qué tipo de estrategia argumentativa usa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo usa mentiras para vender.",
+          "is_correct": false,
+          "feedback": "Las razones dadas pueden ser muy reales."
+        },
+        {
+          "letter": "B",
+          "text": "Usa argumentos de calidad (dulzura), salud (vitaminas) y beneficio social (campesinos) para persuadir al comprador.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ataca diferentes razones positivas para convencer."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto narrativo sobre la vida del mango.",
+          "is_correct": false,
+          "feedback": "No cuenta una historia, da razones para una acción."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto lírico porque el mango es muy bonito.",
+          "is_correct": false,
+          "feedback": "Aunque use adjetivos, su fin es comercial/persuasivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad utiliza técnicas argumentativas condensadas para lograr una respuesta inmediata del consumidor.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-v10",
+      "statement": "¿Cuál sería el mejor orden para organizar tu petición escrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir el dinero primero, luego decir el deporte y al final por qué es bueno.",
+          "is_correct": false,
+          "feedback": "No es el orden más persuasivo."
+        },
+        {
+          "letter": "B",
+          "text": "Decir qué deporte quieres (tesis), dar tres beneficios para tu salud (argumentos) y prometer esforzarte en el estudio (conclusión/acuerdo).",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es una estructura argumentativa lógica y muy efectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Llorar mucho en la carta y decir que todos tienen ese deporte menos tú.",
+          "is_correct": false,
+          "feedback": "Eso es chantaje emocional, no argumentación sólida."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir solo el nombre del deporte 50 veces.",
+          "is_correct": false,
+          "feedback": "No hay razones que convenzan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La organización estratégica de las ideas es lo que hace que un texto argumentativo sea realmente convincente y exitoso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W12-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

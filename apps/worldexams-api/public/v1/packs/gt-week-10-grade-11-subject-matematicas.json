@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:30:14.693Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la medida de tendencia central que representa el valor que más veces se repite en un conjunto de datos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media aritmética",
+          "is_correct": false,
+          "feedback": "La media es el promedio de todos los valores."
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": false,
+          "feedback": "La mediana es el valor central cuando los datos están ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "Moda",
+          "is_correct": true,
+          "feedback": "Correcto. La moda es el dato con mayor frecuencia absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "Rango",
+          "is_correct": false,
+          "feedback": "El rango es una medida de dispersión, no de tendencia central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La moda es útil para identificar la categoría o valor más popular o frecuente en una muestra, especialmente en datos cualitativos o cuantitativos discretos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se obtiene la media aritmética (promedio) de un conjunto de $n$ datos numéricos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando todos los datos y dividiendo el resultado entre $n$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición estándar de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Buscando el dato que se encuentra exactamente a la mitad del conjunto ordenado.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "Restando el valor mínimo del valor máximo.",
+          "is_correct": false,
+          "feedback": "Esta es la definición del rango."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicando todos los datos y extrayendo la raíz enésima.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la media geométrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética es la medida de tendencia central más común y representa el valor \"repartido\" equitativamente entre todos los elementos de la muestra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v3",
+      "statement": "Si un conjunto de datos ordenados tiene un número par de elementos, ¿cómo se calcula la mediana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se toma el valor más pequeño de los dos centrales.",
+          "is_correct": false,
+          "feedback": "Esto dejaría a un lado más datos que al otro."
+        },
+        {
+          "letter": "B",
+          "text": "Se descartan los dos valores centrales y se toma el siguiente.",
+          "is_correct": false,
+          "feedback": "Procedimiento incorrecto para hallar la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "Se calcula el promedio de los dos valores centrales.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman los dos datos del medio y se dividen entre dos."
+        },
+        {
+          "letter": "D",
+          "text": "Se toma el valor que aparece primero en la lista original.",
+          "is_correct": false,
+          "feedback": "La mediana requiere siempre que los datos estén ordenados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediana divide al conjunto de datos en dos partes iguales (50% arriba y 50% abajo). Cuando no hay un único centro, se promedia el par central.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes medidas es la más afectada por la presencia de valores extremadamente altos o bajos (valores atípicos)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media aritmética",
+          "is_correct": true,
+          "feedback": "Correcto. Como la media usa todos los valores en su suma, un valor extremo la \"jala\" hacia él."
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": false,
+          "feedback": "La mediana es robusta ante valores atípicos ya que solo depende del orden."
+        },
+        {
+          "letter": "C",
+          "text": "Moda",
+          "is_correct": false,
+          "feedback": "La moda no se altera por valores extremos a menos que estos sean los más frecuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Todas se afectan por igual.",
+          "is_correct": false,
+          "feedback": "Falso. Cada medida responde de manera distinta a la distribución de los datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sensibilidad de la media la hace menos confiable en distribuciones muy sesgadas, donde la mediana suele ser una mejor representación del \"centro\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la moda de las ventas diarias de esta semana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTQ $200$",
+          "is_correct": false,
+          "feedback": "Se repite 2 veces, pero hay otro valor que también se repite."
+        },
+        {
+          "letter": "B",
+          "text": "GTQ $250$",
+          "is_correct": false,
+          "feedback": "Se repite 2 veces, igual que el 200."
+        },
+        {
+          "letter": "C",
+          "text": "Es bimodal: $200$ y $250$",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos valores tienen la frecuencia máxima de 2."
+        },
+        {
+          "letter": "D",
+          "text": "GTQ $250.00$ (Media)",
+          "is_correct": false,
+          "feedback": "Este es el promedio, no la moda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un conjunto de datos puede tener más de una moda si varios valores comparten la frecuencia máxima. En este caso es bimodal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la media aritmética de las calificaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.5$",
+          "is_correct": false,
+          "feedback": "La suma es 40, dividida entre 5 es 8."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. $(7+9+10+6+8)/5 = 40/5 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$8.5$",
+          "is_correct": false,
+          "feedback": "Error aritmético durante la suma o división."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Este es el valor mínimo o error en el cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media se halla sumando todas las observaciones y dividiendo por el total de observaciones (n=5).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mediana de las estaturas de este grupo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$160$ cm",
+          "is_correct": false,
+          "feedback": "No ordenaste los datos antes de elegir el central."
+        },
+        {
+          "letter": "B",
+          "text": "$165$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenados: 158, 160, 165, 170, 172. El central es 165."
+        },
+        {
+          "letter": "C",
+          "text": "$167$ cm",
+          "is_correct": false,
+          "feedback": "Este es el promedio, no la mediana."
+        },
+        {
+          "letter": "D",
+          "text": "$172$ cm",
+          "is_correct": false,
+          "feedback": "Este es el valor máximo del conjunto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El paso indispensable para hallar la mediana es ordenar los datos de menor a mayor. Como el número de datos es impar (5), la mediana es el dato en la posición central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v8",
+      "statement": "Si el salario del gerente sube al doble, ¿qué sucede con la mediana de los salarios de la empresa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana también sube al doble.",
+          "is_correct": false,
+          "feedback": "La mediana no depende de la magnitud de los valores extremos."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana probablemente se mantiene igual.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser una medida de posición, el cambio en el valor máximo no altera el dato central."
+        },
+        {
+          "letter": "C",
+          "text": "La mediana disminuye a la mitad.",
+          "is_correct": false,
+          "feedback": "No hay razón para que la mediana disminuya si un valor aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "La mediana se vuelve igual a la media.",
+          "is_correct": false,
+          "feedback": "Al contrario, la diferencia entre media y mediana aumentará."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediana es una medida de tendencia central robusta, lo que significa que no se ve influenciada por cambios en los valores extremos de la distribución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mediana del peso de los recién nacidos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ lbs",
+          "is_correct": false,
+          "feedback": "Este es uno de los valores centrales, pero falta promediar con el otro."
+        },
+        {
+          "letter": "B",
+          "text": "$7.5$ lbs",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenados: 6, 7, 7, 8, 9, 10. Centrales: 7 y 8. Promedio = $(7+8)/2 = 7.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ lbs",
+          "is_correct": false,
+          "feedback": "Este es el valor que sigue a la mediana en el conjunto ordenado."
+        },
+        {
+          "letter": "D",
+          "text": "$7.8$ lbs",
+          "is_correct": false,
+          "feedback": "Este es el promedio (media), no la mediana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un número par de datos (n=6), la mediana se calcula como el promedio de los datos en las posiciones $n/2$ y $(n/2)+1$ una vez ordenados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v10",
+      "statement": "¿En qué tipo de datos es la moda la ÚNICA medida de tendencia central que se puede calcular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Aquí se pueden calcular las tres medidas."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos continuos",
+          "is_correct": false,
+          "feedback": "Aquí se pueden calcular las tres medidas."
+        },
+        {
+          "letter": "C",
+          "text": "Datos cualitativos nominales (ej. colores, nombres)",
+          "is_correct": true,
+          "feedback": "Correcto. No se pueden sumar colores para una media, ni ordenarlos con sentido para una mediana."
+        },
+        {
+          "letter": "D",
+          "text": "Datos en escala de razón",
+          "is_correct": false,
+          "feedback": "En esta escala se permiten todas las medidas estadísticas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los datos cualitativos nominales carecen de propiedades numéricas o de orden, por lo que solo podemos identificar cuál es la categoría más frecuente (moda).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v11",
+      "statement": "Si las tareas valen $30\\%$ y el examen vale $70\\%$, y un alumno tiene $100$ en tareas y $60$ en el examen, ¿cuál es su nota final?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80$",
+          "is_correct": false,
+          "feedback": "Este sería el promedio simple, no ponderado."
+        },
+        {
+          "letter": "B",
+          "text": "$72$",
+          "is_correct": true,
+          "feedback": "Correcto. $100 \\times 0.30 + 60 \\times 0.70 = 30 + 42 = 72$."
+        },
+        {
+          "letter": "C",
+          "text": "$60$",
+          "is_correct": false,
+          "feedback": "Esta es solo la nota del examen, falta el aporte de las tareas."
+        },
+        {
+          "letter": "D",
+          "text": "$90$",
+          "is_correct": false,
+          "feedback": "Error al aplicar los porcentajes correspondientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media ponderada asigna un \"peso\" o importancia distinta a cada dato. Se calcula sumando los productos de cada dato por su peso relativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v12",
+      "statement": "En una encuesta, 10 personas tienen 1 hijo, 20 personas tienen 2 hijos y 10 personas tienen 3 hijos. ¿Cuál es el promedio de hijos por persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.5$ hijos",
+          "is_correct": false,
+          "feedback": "Error en el cálculo proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "$2.0$ hijos",
+          "is_correct": true,
+          "feedback": "Correcto. Total hijos = $(10 \\times 1) + (20 \\times 2) + (10 \\times 3) = 10 + 40 + 30 = 80$. Personas = $10+20+10 = 40$. Media = $80/40 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$1.5$ hijos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$3.0$ hijos",
+          "is_correct": false,
+          "feedback": "Este es el valor máximo, no el promedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para datos en tabla de frecuencias, la media se obtiene sumando los productos del valor por su frecuencia y dividiendo por el total de datos ($\\sum (x_i f_i) / N$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v13",
+      "statement": "Si las primeras cuatro encuestas dieron $80, 90, 85$ y $80$, ¿cuánto debe dar la quinta encuesta para que el promedio exacto sea $85$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$85$",
+          "is_correct": false,
+          "feedback": "Con 85 el promedio sería 84."
+        },
+        {
+          "letter": "B",
+          "text": "$90$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma actual = $335$. Para promedio 85 con 5 datos, la suma total debe ser $425$. $425 - 335 = 90$."
+        },
+        {
+          "letter": "C",
+          "text": "$95$",
+          "is_correct": false,
+          "feedback": "Con 95 el promedio subiría a 86."
+        },
+        {
+          "letter": "D",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Supera el valor necesario para el promedio de 85."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema utiliza la definición de media de forma inversa: se conoce el promedio deseado y el total de datos, permitiendo hallar el valor faltante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la relación típica entre las medidas de tendencia central en una distribución con sesgo positivo (hacia la derecha)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media = Mediana = Moda",
+          "is_correct": false,
+          "feedback": "Esto ocurre en una distribución simétrica o normal."
+        },
+        {
+          "letter": "B",
+          "text": "Moda < Mediana < Media",
+          "is_correct": true,
+          "feedback": "Correcto. Los valores altos \"jalan\" a la media hacia la derecha, mientras que la moda se queda en el pico izquierdo."
+        },
+        {
+          "letter": "C",
+          "text": "Media < Mediana < Moda",
+          "is_correct": false,
+          "feedback": "Esta relación ocurre en distribuciones con sesgo negativo (hacia la izquierda)."
+        },
+        {
+          "letter": "D",
+          "text": "Mediana < Moda < Media",
+          "is_correct": false,
+          "feedback": "No es una relación estándar para distribuciones sesgadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición relativa de las medidas de tendencia central permite identificar la asimetría de la distribución sin necesidad de ver la gráfica completa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v15",
+      "statement": "En una tabla de frecuencias con intervalos, ¿qué valor se utiliza para representar a cada intervalo en el cálculo de la media?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite inferior del intervalo.",
+          "is_correct": false,
+          "feedback": "El uso del valor mínimo sesgaría el promedio hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Límite superior del intervalo.",
+          "is_correct": false,
+          "feedback": "El uso del valor máximo sesgaría el promedio hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Marca de clase (punto medio del intervalo).",
+          "is_correct": true,
+          "feedback": "Correcto. Se asume que los datos están distribuidos uniformemente dentro del intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "La amplitud del intervalo.",
+          "is_correct": false,
+          "feedback": "La amplitud es el tamaño del intervalo, no representa los datos contenidos en él."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La marca de clase es el representante numérico de un intervalo y se calcula promediando sus límites inferior y superior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v16",
+      "statement": "Si el promedio de edad de 3 hermanos es $12$ años y dos de ellos tienen $10$ y $15$ años, ¿cuál es la edad del tercer hermano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11$ años",
+          "is_correct": true,
+          "feedback": "Correcto. Suma total debe ser $3 \\times 12 = 36$. $36 - (10 + 15) = 36 - 25 = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ años",
+          "is_correct": false,
+          "feedback": "Si el tercero tuviera 12, el promedio sería $(10+12+15)/3 = 37/3 \\ne 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$13$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media actúa como un centro de equilibrio. La suma de las desviaciones respecto a la media siempre debe ser igual a cero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v17",
+      "statement": "Si se añade un valor extremadamente alto a un conjunto de datos, ¿qué medida de tendencia central garantiza representar mejor al \"individuo típico\" de la muestra original?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media aritmética",
+          "is_correct": false,
+          "feedback": "No, porque se verá desplazada hacia el valor alto y dejará de ser representativa."
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser una medida de posición, el valor extremo solo ocupa un lugar al final de la fila y no afecta el centro."
+        },
+        {
+          "letter": "C",
+          "text": "Media ponderada",
+          "is_correct": false,
+          "feedback": "A menos que se le dé un peso de cero al valor atípico, sigue afectando el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "Media geométrica",
+          "is_correct": false,
+          "feedback": "La media geométrica también se ve afectada por valores altos, aunque menos que la aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En presencia de valores atípicos (outliers), la mediana es preferible porque ofrece una visión más estable del centro de la distribución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v18",
+      "statement": "La sección A tiene $20$ alumnos con promedio de $80$. La sección B tiene $30$ alumnos con promedio de $90$. ¿Cuál es el promedio general de las dos secciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$85$",
+          "is_correct": false,
+          "feedback": "Este es el promedio de los promedios, pero no toma en cuenta que la sección B tiene más alumnos."
+        },
+        {
+          "letter": "B",
+          "text": "$86$",
+          "is_correct": true,
+          "feedback": "Correcto. $(20 \\times 80 + 30 \\times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$."
+        },
+        {
+          "letter": "C",
+          "text": "$84$",
+          "is_correct": false,
+          "feedback": "Error al ponderar los promedios."
+        },
+        {
+          "letter": "D",
+          "text": "$88$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para promediar grupos de diferentes tamaños, se debe utilizar la media ponderada, donde el peso de cada promedio es el número de elementos en su respectivo grupo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v19",
+      "statement": "A partir de estos datos, ¿qué se puede concluir sobre la forma de la distribución de ingresos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está sesgada positivamente, con una minoría que gana mucho más que el resto.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la media es significativamente mayor que la mediana, hay valores altos que jalan el promedio."
+        },
+        {
+          "letter": "B",
+          "text": "Está sesgada negativamente, con la mayoría ganando por encima del promedio.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si la media fuera menor que la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "Es una distribución perfectamente simétrica.",
+          "is_correct": false,
+          "feedback": "En una distribución simétrica, media y mediana son aproximadamente iguales."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede concluir nada sin conocer la moda.",
+          "is_correct": false,
+          "feedback": "La relación media-mediana es suficiente para identificar el sentido del sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia entre la media y la mediana es un indicador clave de la asimetría en distribuciones económicas y sociales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle-v20",
+      "statement": "Si a todos los datos de una muestra se les suma una constante $k = 5$ y luego el resultado se multiplica por $2$, ¿cómo cambia la media aritmética original ($\\bar{x}$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se mantiene igual.",
+          "is_correct": false,
+          "feedback": "La media es sensible a transformaciones lineales de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Se le suma 5 únicamente.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si no se multiplicara por 2 después."
+        },
+        {
+          "letter": "C",
+          "text": "La nueva media será $2(\\bar{x} + 5)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La media aritmética cumple con la propiedad de linealidad."
+        },
+        {
+          "letter": "D",
+          "text": "La nueva media será $2\\bar{x} + 5$.",
+          "is_correct": false,
+          "feedback": "El orden de las operaciones en la media sigue el orden aplicado a cada dato individualmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La media aritmética es un operador lineal: $E[aX + b] = a E[X] + b$. Cualquier operación aritmética aplicada a cada dato de la muestra se refleja de la misma forma en su media.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GT-MAT-11-2026-W10-estadistica-descriptiva-centralizacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

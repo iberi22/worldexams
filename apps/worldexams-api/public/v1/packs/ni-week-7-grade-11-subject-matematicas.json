@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.438Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el periodo de las funciones trigonométricas básicas seno y coseno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$ radianes (180°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el periodo de la función tangente."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi$ radianes (360°)",
+          "is_correct": true,
+          "feedback": "Correcto. Los valores se repiten exactamente cada vuelta completa al círculo unitario."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/2$ radianes (90°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no completa su ciclo en un cuarto de vuelta."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$ radianes (720°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el periodo si la función estuviera estirada horizontalmente al doble."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El periodo es la longitud del intervalo más pequeño en el que la función completa un ciclo y vuelve a empezar. Para $\\sin(x)$ y $\\cos(x)$, este intervalo es de $2\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la amplitud de la función trigonométrica $y = A \\sin(Bx + C)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$|A|$",
+          "is_correct": true,
+          "feedback": "Correcto. La amplitud es el valor absoluto del coeficiente que multiplica a la función, indicando el desplazamiento máximo desde el eje central."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi/B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para calcular el periodo."
+        },
+        {
+          "letter": "C",
+          "text": "$-C/B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para calcular el desfase o desplazamiento de fase."
+        },
+        {
+          "letter": "D",
+          "text": "$B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. B representa la frecuencia angular, relacionada con el periodo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La amplitud representa la \"altura\" de la onda. En términos de rango, es la mitad de la diferencia entre el valor máximo y el mínimo de la función.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el rango de las funciones básicas $f(x) = \\sin(x)$ y $g(x) = \\cos(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones están acotadas, no crecen indefinidamente."
+        },
+        {
+          "letter": "B",
+          "text": "$[-1, 1]$",
+          "is_correct": true,
+          "feedback": "Correcto. Los valores de seno y coseno en el círculo unitario nunca exceden 1 ni son menores que -1."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ignoraría los valores negativos que toman en los cuadrantes inferiores."
+        },
+        {
+          "letter": "D",
+          "text": "$(-1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango incluye los valores extremos -1 y 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tanto el seno como el coseno representan coordenadas en el círculo unitario de radio 1, por lo que sus valores oscilan estrictamente entre -1 y 1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes funciones trigonométricas tiene asíntotas verticales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función continua y suave para todo el dominio real."
+        },
+        {
+          "letter": "B",
+          "text": "Coseno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función continua y suave para todo el dominio real."
+        },
+        {
+          "letter": "C",
+          "text": "Tangente",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente no está definida donde el coseno es cero (ej. 90°, 270°), generando asíntotas."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las funciones armónicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno y el coseno no tienen asíntotas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tangente se define como $\\sin(x) / \\cos(x)$. Cuando $\\cos(x) = 0$, la división no está definida, lo que resulta en una asíntota vertical en la gráfica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v5",
+      "statement": "Dada la función $y = \\cos(x - \\pi/2)$, ¿hacia dónde se desplaza la gráfica respecto a la función básica $\\cos(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/2$ unidades hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un signo negativo dentro del argumento indica un desplazamiento hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/2$ unidades hacia la derecha.",
+          "is_correct": true,
+          "feedback": "Correcto. El desplazamiento de fase es positivo (hacia la derecha) cuando se resta una constante al argumento."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/2$ unidades hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desplazamientos verticales ocurren fuera del paréntesis de la función."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi/2$ unidades hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical requiere sumar o restar una constante a toda la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En $f(x-h)$, si $h > 0$, la gráfica se mueve hacia la derecha. Interesantemente, $\\cos(x - \\pi/2)$ es idéntica a la función $\\sin(x)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el periodo de la función $f(x) = \\sin(2x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el periodo si el coeficiente de x fuera 1."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. El periodo se calcula como $2\\pi / B$. Aquí $2\\pi / 2 = \\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si la función fuera $\\sin(0.5x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la fórmula del periodo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al multiplicar $x$ por un factor $B > 1$, la función se \"comprime\" horizontalmente, lo que reduce el periodo. El ciclo se completa ahora en la mitad del tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v7",
+      "statement": "El nivel del agua en metros sigue la función $h(t) = 3 \\sin(\\pi t / 6) + 5$, donde $t$ son las horas. ¿Cuál es el nivel máximo que alcanza el agua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la amplitud."
+        },
+        {
+          "letter": "B",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el nivel medio o línea de equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "8 metros",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo ocurre cuando el seno es 1. $3(1) + 5 = 8$."
+        },
+        {
+          "letter": "D",
+          "text": "11 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar la amplitud y el desplazamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor máximo de una función sinusoidal desplazada es la suma del valor de equilibrio (desplazamiento vertical) más la amplitud: $k + A$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes funciones trigonométricas es una función PAR?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno es impar ($\\sin(-x) = -\\sin(x)$)."
+        },
+        {
+          "letter": "B",
+          "text": "Coseno",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno es par ($\\cos(-x) = \\cos(x)$)."
+        },
+        {
+          "letter": "C",
+          "text": "Tangente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente es impar."
+        },
+        {
+          "letter": "D",
+          "text": "Cosecante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser el recíproco del seno, también es impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función par es simétrica respecto al eje $y$. El coseno tiene esta propiedad, lo que significa que el valor para un ángulo positivo es igual al valor para su opuesto negativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v9",
+      "statement": "¿En qué valor de $x$ (en el intervalo $[0, 2\\pi]$) la función $f(x) = \\cos(x)$ alcanza su valor mínimo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 0 el coseno es máximo (1)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\pi/2$ el coseno es cero."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. En $\\pi$ (180°) el coseno alcanza su valor mínimo de -1."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $3\\pi/2$ el coseno vuelve a ser cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ciclo del coseno comienza en 1, baja a 0 en $\\pi/2$, llega al mínimo de -1 en $\\pi$, sube a 0 en $3\\pi/2$ y termina en 1 en $2\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el rango de la función $f(x) = -2 \\cos(x) + 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-1, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango está desplazado y ampliado."
+        },
+        {
+          "letter": "B",
+          "text": "$[-1, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor mínimo es 1, no -1."
+        },
+        {
+          "letter": "C",
+          "text": "$[1, 5]$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno oscila entre -1 y 1. Al multiplicar por -2 y sumar 3, los valores extremos resultan en 1 y 5."
+        },
+        {
+          "letter": "D",
+          "text": "$[-2, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó considerar el desplazamiento vertical de +3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar el rango de $A \\cos(x) + k$, calculamos $k - |A|$ para el valor mínimo y $k + |A|$ para el valor máximo. Aquí $3-2=1$ y $3+2=5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor principal de $\\arcsin(1/2)$ en radianes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sin(\\pi/4) = \\sqrt{2}/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi/6$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\sin(30^\\circ) = 1/2$, entonces el arcoseno es $30^\\circ$ o $\\pi/6$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sin(\\pi/3) = \\sqrt{3}/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sin(\\pi/2) = 1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función inversa (arcoseno) nos da el ángulo cuyo seno es el valor dado. Por definición de función, se toma el valor en el intervalo principal $[-\\pi/2, \\pi/2]$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor de $\\cos(\\arctan(1))$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente es 1 a los 45°, pero el coseno de 45° no es 1."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\arctan(1) = 45^\\circ$. Luego $\\cos(45^\\circ) = \\sqrt{2}/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor correspondiente a 30° o 60°."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno de 45° es un valor positivo mayor a cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos el ángulo cuya tangente es 1 ($45^\\circ$ o $\\pi/4$). Luego evaluamos ese ángulo en la función coseno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\sec(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los reales ($\\mathbb{R}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secante tiene discontinuidades infinitas."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los reales excepto los múltiplos impares de $\\pi/2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sec(x) = 1/\\cos(x)$. Como el coseno se anula en $\\pi/2, 3\\pi/2$, etc., la secante no existe allí."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los reales excepto los múltiplos de $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el dominio de la cosecante y la cotangente."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo $[-1, 1]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el rango del seno y coseno, no el dominio de la secante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al ser la secante el recíproco del coseno, hereda las restricciones de los puntos donde el denominador (coseno) se hace cero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de asíntotas presenta la función $f(x) = \\csc(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asíntotas horizontales en $y = 1$ y $y = -1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas funciones no están acotadas horizontalmente de esa forma."
+        },
+        {
+          "letter": "B",
+          "text": "Asíntotas verticales en $x = n\\pi$ para cualquier entero $n$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\csc(x) = 1/\\sin(x)$, la función no está definida donde el seno es cero ($0, \\pi, 2\\pi$, etc.)."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene asíntotas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las funciones recíprocas tienen asíntotas verticales."
+        },
+        {
+          "letter": "D",
+          "text": "Asíntotas oblicuas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas circulares no presentan comportamiento oblicuo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cosecante tiende al infinito positivo o negativo cuando el ángulo se acerca a los múltiplos de 180° ($\\pi$ radianes), donde el valor del seno desaparece.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes funciones crece más rápido a medida que $x$ se acerca a $\\pi/2$ por la izquierda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = \\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno se estabiliza hacia 1."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = \\tan(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente tiende a infinito positivo en $\\pi/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno decrece hacia cero."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\cot(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cotangente decrece hacia cero en $\\pi/2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente tiene una tasa de crecimiento explosiva cerca de sus asíntotas verticales, a diferencia de las funciones armónicas simples que son suaves y limitadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el periodo de la función $y = 5 \\cos(3x - \\pi)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 3 cambia el periodo."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi/3$",
+          "is_correct": true,
+          "feedback": "Correcto. El periodo depende únicamente del coeficiente que multiplica a la x: $2\\pi / |B|$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si $B=2$."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si se dividiera x entre 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ni la amplitud (5) ni el desplazamiento de fase ($-\\pi$) afectan la duración de un ciclo completo de la función. Solo la frecuencia angular (3) lo hace.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v17",
+      "statement": "Dada la función $f(x) = x \\sin(x)$. ¿Qué sucede con la amplitud de las oscilaciones a medida que $x$ aumenta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La amplitud permanece constante en 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo pasaría si la función fuera $\\sin(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "La amplitud aumenta linealmente con $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. El factor $x$ actúa como una envolvente, haciendo que cada pico sea más alto que el anterior."
+        },
+        {
+          "letter": "C",
+          "text": "La amplitud disminuye hacia cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pasaría si el factor fuera $1/x$."
+        },
+        {
+          "letter": "D",
+          "text": "La función deja de ser periódica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue teniendo cruces por cero en intervalos regulares, aunque su amplitud cambie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al multiplicar una función trigonométrica por un monomio, creamos una oscilación cuya envolvente sigue la forma del monomio. En este caso, los picos de la función tocan las rectas $y=x$ y $y=-x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la ecuación de una función seno con amplitud 4, periodo $\\pi$ y un desplazamiento vertical hacia arriba de 2 unidades?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 4 \\sin(x) + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodo de esta función es $2\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 4 \\sin(2x) + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Amplitud=4, periodo = $2\\pi/2 = \\pi$, y desplazamiento vertical = +2."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 2 \\sin(4x) + \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de los parámetros están mezclados."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 4 \\sin(\\pi x) + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodo de esta función sería 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Construimos la función paso a paso: $y = A \\sin(Bx) + k$. Con $A=4, B = 2\\pi/T = 2\\pi/\\pi = 2$, y $k=2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v19",
+      "statement": "¿Qué tipo de gráfica resulta de sumar $\\sin(x) + \\cos(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de funciones periódicas no lineales suele ser otra función periódica."
+        },
+        {
+          "letter": "B",
+          "text": "Otra función sinusoidal con amplitud $\\sqrt{2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Mediante identidades de suma, se puede demostrar que equivale a $\\sqrt{2} \\sin(x + \\pi/4)$."
+        },
+        {
+          "letter": "C",
+          "text": "Una función con el doble de frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de igual frecuencia mantiene la frecuencia original."
+        },
+        {
+          "letter": "D",
+          "text": "Una función constante igual a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se está confundiendo con la identidad de los cuadrados ($\\sin^2 + \\cos^2$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superposición de dos ondas de la misma frecuencia resulta en una nueva onda de la misma frecuencia, pero con una amplitud y fase combinadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\arccos(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como el coseno solo devuelve valores entre -1 y 1, su inversa solo puede aceptar esos valores."
+        },
+        {
+          "letter": "B",
+          "text": "$[-1, 1]$",
+          "is_correct": true,
+          "feedback": "Correcto. El rango de la función original se convierte en el dominio de la inversa."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, \\pi]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el rango de la función arcocoseno, no su dominio."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función también está definida para valores negativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones trigonométricas inversas tienen dominios restringidos que corresponden exactamente a los rangos de las funciones trigonométricas directas originales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -178,6 +178,12 @@ No abrir PR si `npm run validate` falla.
 Un bundle `.md` validado no queda publicado automaticamente en `saberparatodos.space`.
 Para que la app sirva examenes desde el API publico, los bundles weekly deben convertirse a packs JSON estaticos.
 
+Decision arquitectonica:
+- El bundle fuente y revisable siempre es el archivo `.md` en `questions_data`.
+- Los archivos `.json` en `apps/worldexams-api/public/v1/packs` son artefactos derivados para servir el API; no son bundles fuente ni reemplazan al markdown.
+- No editar packs JSON manualmente para corregir contenido. Corregir primero el `.md`, validar, y regenerar packs.
+- El conversor debe preservar texto, respuesta correcta y feedback de cada opcion aunque el feedback HTML este en la linea siguiente a la opcion.
+
 Comandos canonicos despues de integrar bundles:
 
 ```bash

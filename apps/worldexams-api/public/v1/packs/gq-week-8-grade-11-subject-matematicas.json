@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:40:01.125Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "¿Cual de los siguientes simbolos representa la relacion \"menor o igual que\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$>$",
+          "is_correct": false,
+          "feedback": "Este es el simbolo de \"mayor que\"."
+        },
+        {
+          "letter": "B",
+          "text": "$<$",
+          "is_correct": false,
+          "feedback": "Este es el simbolo de \"menor que\"."
+        },
+        {
+          "letter": "C",
+          "text": "$\\le$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indica que el valor de la izquierda puede ser menor o exactamente igual al de la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "$\\neq$",
+          "is_correct": false,
+          "feedback": "Este es el simbolo de \"distinto de\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las inecuaciones expresan una relacion de orden entre dos expresiones algebraicas. El simbolo $\\le$ incluye la posibilidad de igualdad, lo que afecta la representacion del intervalo (usando corchetes) y de la recta numerica (usando un punto cerrado).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "¿Que sucede con el sentido de la desigualdad en una inecuacion si multiplicamos ambos lados por un numero real negativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sentido se mantiene igual.",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre si multiplicamos por un numero positivo."
+        },
+        {
+          "letter": "B",
+          "text": "El sentido de la desigualdad se invierte (cambia).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Multiplicar por un negativo cambia la orientacion de la relacion de orden."
+        },
+        {
+          "letter": "C",
+          "text": "La inecuacion se convierte en una igualdad.",
+          "is_correct": false,
+          "feedback": "La naturaleza de la desigualdad no cambia a igualdad por esta operacion."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado siempre es cero.",
+          "is_correct": false,
+          "feedback": "No tiene relacion con el signo del multiplicador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una propiedad fundamental de las desigualdades. Por ejemplo, si $2 < 5$, al multiplicar por $-1$ obtenemos $-2$ y $-5$. Como $-2 > -5$, el simbolo debe invertirse para mantener la veracidad de la expresion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "¿Cual es la representacion en forma de intervalo para la condicion $x > 5000$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[5000, \\infty)$",
+          "is_correct": false,
+          "feedback": "El corchete incluiria el valor 5000, pero la condicion es estrictamente mayor."
+        },
+        {
+          "letter": "B",
+          "text": "$(5000, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El parentesis indica que el extremo 5000 no esta incluido en el conjunto."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 5000)$",
+          "is_correct": false,
+          "feedback": "Esto representaria valores menores a 5000."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 5000]$",
+          "is_correct": false,
+          "feedback": "Esto limitaria las ganancias a un maximo de 5000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los intervalos abiertos (con parentesis) se utilizan para desigualdades estrictas ($<, >$), mientras que los cerrados (con corchetes) se usan cuando se incluye la igualdad ($\\le, \\ge$). El infinito siempre lleva parentesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "¿Cual es la solucion simplificada de la inecuacion $x + 2 < 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 7$",
+          "is_correct": false,
+          "feedback": "Error al sumar 2 en lugar de restarlo."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al restar 2 en ambos lados obtenemos $x < 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 3$",
+          "is_correct": false,
+          "feedback": "El sentido de la desigualdad no cambia al restar un numero."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Una inecuacion generalmente tiene un conjunto de soluciones, no un unico valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las inecuaciones lineales se resuelven de forma muy similar a las ecuaciones, aplicando operaciones inversas. Restar un numero en ambos lados mantiene el sentido original de la desigualdad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "Si $x$ representa el peso de la carga adicional que puede añadir, ¿que inecuacion describe correctamente el limite de su camion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 1200 > 3000$",
+          "is_correct": false,
+          "feedback": "Esto diria que la carga debe superar el limite, lo cual es peligroso."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 1200 \\le 3000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El peso total (actual mas adicional) no debe exceder el limite permitido."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 1200 < 3000$",
+          "is_correct": false,
+          "feedback": "No representa la acumulacion de carga."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 1200$",
+          "is_correct": false,
+          "feedback": "Esto limitaria la carga adicional a la que ya tiene, sin considerar el limite del camion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El termino \"capacidad maxima\" implica un limite superior que incluye el valor limite. Por tanto, se utiliza el simbolo $\\le$ para modelar restricciones fisicas o legales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es el conjunto solucion de la inecuacion $-2x < 10$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < -5$",
+          "is_correct": false,
+          "feedback": "Olvido invertir el sentido de la desigualdad al dividir por -2."
+        },
+        {
+          "letter": "B",
+          "text": "$x > -5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir por -2, el sentido de la desigualdad cambia de $<$ a $>$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Error en el signo del resultado final."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": false,
+          "feedback": "Error en el signo del resultado final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al dividir ambos miembros por un numero negativo ($-2$), debemos recordar dos cosas: 1) Realizar la division aritmetica normal ($10 / -2 = -5$). 2) Invertir el signo de la desigualdad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "¿Cual es el valor minimo de $x$ para el cual se activa la alarma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "$3(4-2) = 6$, que no es mayor o igual a 12."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x - 2 \\ge 4 \\rightarrow x \\ge 6$. El valor minimo es 6."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "8 activa la alarma, pero no es el valor minimo."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Con x=2 el resultado seria 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la inecuacion: dividimos por 3 para obtener $x - 2 \\ge 4$, y luego sumamos 2 para obtener $x \\ge 6$. Como la desigualdad incluye el signo igual, 6 es el valor minimo aceptable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el peso maximo permitido para las maletas segun la inecuacion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 kg",
+          "is_correct": false,
+          "feedback": "Valor muy por debajo del limite real."
+        },
+        {
+          "letter": "B",
+          "text": "15 kg",
+          "is_correct": false,
+          "feedback": "$15/5 + 2 = 5$, que cumple, pero no es el maximo."
+        },
+        {
+          "letter": "C",
+          "text": "25 kg",
+          "is_correct": true,
+          "feedback": "¡Correcto! $w/5 \\le 5 \\rightarrow w \\le 25$."
+        },
+        {
+          "letter": "D",
+          "text": "45 kg",
+          "is_correct": false,
+          "feedback": "Excede el limite de peso establecido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aislamos la variable $w$: restamos 2 de ambos lados para obtener $w/5 \\le 5$, y multiplicamos por 5 para obtener $w \\le 25$. El valor maximo es aquel donde se cumple la igualdad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "¿Cual es el intervalo de valores para $x$ que satisface $2 < x + 1 < 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 5)$",
+          "is_correct": false,
+          "feedback": "Olvido restar 1 a todos los miembros de la inecuacion."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, 4)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando 1 en cada parte: $2-1 < x < 5-1 \\rightarrow 1 < x < 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 6)$",
+          "is_correct": false,
+          "feedback": "Ha sumado 1 en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "$[1, 4]$",
+          "is_correct": false,
+          "feedback": "Los extremos no deben incluirse (simbolos <)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver inecuaciones de tres partes, aplicamos la misma operacion en los tres miembros simultaneamente. Esto mantiene el equilibrio de la relacion de orden encadenada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "¿Como se expresa el conjunto de todos los numeros reales $x$ que son el complemento de $x \\ge -3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le -3$",
+          "is_correct": false,
+          "feedback": "Esto incluiria al -3, que ya pertenece al conjunto original."
+        },
+        {
+          "letter": "B",
+          "text": "$x < -3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El complemento de \"mayor o igual\" es estrictamente \"menor que\"."
+        },
+        {
+          "letter": "C",
+          "text": "$x > -3$",
+          "is_correct": false,
+          "feedback": "Esto es casi lo mismo que el conjunto original."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Un conjunto complemento suele ser un intervalo infinito, no un solo punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El complemento de una desigualdad incluye todos los valores de la recta real que no cumplen la condicion original. Si la original incluye el extremo ($\\ge$), el complemento no debe incluirlo ($<$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "Si $x$ es la nota del tercer examen, ¿que inecuacion representa esta situacion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4.5 + 5.5 + x) < 5$",
+          "is_correct": false,
+          "feedback": "Esto buscaria reprobar, no aprobar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{4.5 + 5.5 + x}{3} \\ge 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El promedio debe ser mayor o igual al limite de aprobado."
+        },
+        {
+          "letter": "C",
+          "text": "$4.5 + 5.5 + x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Olvido dividir entre el numero total de examenes para obtener el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Esto no considera las notas previas del estudiante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El promedio se calcula sumando todos los valores y dividiendo por la cantidad de elementos. La condicion \"al menos\" se traduce como $\\ge$. Al resolver, el estudiante veria que necesita $x \\ge 5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "¿Cual es el conjunto solucion de $5x - 3 > 2x + 9$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Error al agrupar los terminos independientes."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3x > 12 \\rightarrow x > 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 4$",
+          "is_correct": false,
+          "feedback": "No hay razon para invertir el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 6$",
+          "is_correct": false,
+          "feedback": "Error al dividir 12 entre 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupamos los terminos con $x$ en el lado izquierdo ($3x$) y los terminos independientes en el derecho ($12$). Al dividir por 3 (numero positivo), el sentido de la desigualdad se mantiene.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "¿Cual es la representacion de esta condicion como una inecuacion compuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < -10$ o $x > 40$",
+          "is_correct": false,
+          "feedback": "Esto representaria valores fuera del rango de operacion."
+        },
+        {
+          "letter": "B",
+          "text": "$-10 \\le x \\le 40$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El valor debe estar simultaneamente por encima del minimo y por debajo del maximo."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -10$ y $x = 40$",
+          "is_correct": false,
+          "feedback": "Esto solo permitiria dos temperaturas exactas, no un rango."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 30$",
+          "is_correct": false,
+          "feedback": "No tiene relacion con los limites establecidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las inecuaciones compuestas del tipo \"y\" (conjuncion) representan un intervalo de valores que satisfacen dos condiciones al mismo tiempo. Se expresan elegantemente como una desigualdad encadenada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "¿Como se representa $x \\le -2$ en la recta numerica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una linea que comienza en -2 con un circulo abierto y va hacia la derecha.",
+          "is_correct": false,
+          "feedback": "El circulo abierto es para < o >, y el sentido es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Una linea que comienza en -2 con un circulo cerrado y va hacia la izquierda.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El circulo cerrado incluye al -2, y los valores menores estan a la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "Un solo punto sobre el numero -2.",
+          "is_correct": false,
+          "feedback": "Esto representaria la ecuacion x = -2."
+        },
+        {
+          "letter": "D",
+          "text": "Una linea que va desde -2 hasta el infinito positivo.",
+          "is_correct": false,
+          "feedback": "Eso representaria x >= -2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La representacion grafica es una herramienta visual para entender los conjuntos de soluciones infinitos. El uso de circulos abiertos/cerrados y flechas de direccion es estandar en todas las matematicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "¿Cual es la solucion de la inecuacion $\\frac{x-1}{2} < \\frac{x+2}{3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 3$",
+          "is_correct": false,
+          "feedback": "Error de signo al agrupar los terminos."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3(x-1) < 2(x+2) \\rightarrow 3x-3 < 2x+4 \\rightarrow x < 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 7$",
+          "is_correct": false,
+          "feedback": "No hay cambio de signo por multiplicacion negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$x < -1$",
+          "is_correct": false,
+          "feedback": "Error en el calculo de los productos cruzados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al tener fracciones con denominadores positivos, multiplicamos toda la inecuacion por el mcm (6) o realizamos el producto cruzado. El sentido de la desigualdad se mantiene porque los multiplicadores son positivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "¿Cual es el numero maximo de unidades $x$ (entero) que se pueden producir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 unidades",
+          "is_correct": false,
+          "feedback": "$1500$, cumple pero no es el maximo absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "149 unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! $10x < 1500 \\rightarrow x < 150$. El mayor entero menor que 150 es 149."
+        },
+        {
+          "letter": "C",
+          "text": "150 unidades",
+          "is_correct": false,
+          "feedback": "En 150 el coste es exactamente 2000, no menor a 2000."
+        },
+        {
+          "letter": "D",
+          "text": "200 unidades",
+          "is_correct": false,
+          "feedback": "Supera ampliamente el presupuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la inecuacion $10x + 500 < 2000$. Obtenemos $x < 150$. Dado que la pregunta pide el numero maximo de unidades enteras bajo un limite estricto, debemos elegir el entero inmediatamente inferior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "¿Cual es el conjunto solucion de la inecuacion $2x + 5 < 2x - 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los numeros reales.",
+          "is_correct": false,
+          "feedback": "Ningun numero puede satisfacer esta condicion."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunto vacio ($\\emptyset$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al simplificar queda $5 < -1$, lo cual es una falsedad absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "$5 < -1$ es falso para x=0."
+        },
+        {
+          "letter": "D",
+          "text": "$x < -6$",
+          "is_correct": false,
+          "feedback": "No hay valores de x que salven la contradiccion numerica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que las ecuaciones, las inecuaciones pueden no tener solucion si conducen a una contradiccion matematica. En este caso, no existe ningun valor de $x$ que haga que un numero sumado con 5 sea menor que ese mismo numero sumado con -1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "¿Cual es el conjunto de soluciones para $|x - 3| \\le 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le 8$",
+          "is_correct": false,
+          "feedback": "Falta el limite inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 8]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se traduce como $-5 \\le x - 3 \\le 5$, lo que resulta en $-2 \\le x \\le 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-2, 8)$",
+          "is_correct": false,
+          "feedback": "Los extremos deben estar incluidos debido al simbolo $\\le$."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge -2$",
+          "is_correct": false,
+          "feedback": "Falta el limite superior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor absoluto representa distancia. $|x - 3| \\le 5$ significa que la distancia entre $x$ y $3$ es como maximo 5 unidades. Esto genera un intervalo cerrado que abarca desde 3-5 hasta 3+5.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "¿A partir de que edad $x$ se mostraran los registros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 5$",
+          "is_correct": false,
+          "feedback": "Valor insuficiente para satisfacer la condicion."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 10$",
+          "is_correct": false,
+          "feedback": "$20-10$ no es mayor que $10+5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 15$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2x - 10 > x + 5 \\rightarrow x > 15$."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 15$",
+          "is_correct": false,
+          "feedback": "El sentido de la desigualdad es el opuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Traducimos el enunciado a lenguaje algebraico: $2x - 10 > x + 5$. Al resolver esta inecuacion lineal simple, determinamos el umbral a partir del cual se cumple la condicion logica pedida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "¿Que region del plano cartesiano representa la solucion de este sistema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuadrado de lado 4.",
+          "is_correct": false,
+          "feedback": "La primera inecuacion define una linea diagonal, no un cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "Un triangulo con vertices en $(0,0), (4,0)$ y $(0,4)$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la region en el primer cuadrante por debajo de la recta $x+y=4$."
+        },
+        {
+          "letter": "C",
+          "text": "Todo el primer cuadrante.",
+          "is_correct": false,
+          "feedback": "La condicion $x+y \\le 4$ limita la region."
+        },
+        {
+          "letter": "D",
+          "text": "Una linea recta infinita.",
+          "is_correct": false,
+          "feedback": "Las desigualdades definen regiones o areas, no solo lineas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el fundamento de la Programacion Lineal. Cada inecuacion lineal define un semiplano. La interseccion de varios semiplanos genera una region factible, que en este caso es un triangulo rectangulo en el origen.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W08-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
