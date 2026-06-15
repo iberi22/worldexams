@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-15-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:32:33.758Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v1",
+      "statement": "¿Cómo se le llama a cada una de las líneas que forman un poema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Verso",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estrofa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rima",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verso es la unidad rítmica mínima de un poema y se escribe en una sola línea.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v2",
+      "statement": "¿Cómo se llama el grupo de varios versos que están separados por un espacio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Párrafo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Título",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estrofa",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Capítulo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estrofa es un conjunto de versos que ajustan a una medida o a un ritmo determinado.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v3",
+      "statement": "¿Qué es la rima en un poema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de letras que tiene cada palabra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La igualdad de sonidos al final de dos o más versos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El dibujo que acompaña al texto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El nombre de la persona que escribió el poema.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rima se basa en la repetición de sonidos a partir de la última vocal acentuada de cada verso.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v4",
+      "statement": "¿Cuál de estas palabras rima con **\"ola\"**?\n\"El barco navega solo,\nsaltando sobre la ________.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arena",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Barco",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sola",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Mar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que dos palabras rimen, deben terminar con los mismos sonidos desde la vocal donde se hace la fuerza de voz.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v5",
+      "statement": "¿Cuál es el propósito principal de un autor cuando escribe un poema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a cocinar un plato típico.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Expresar belleza, sentimientos y emociones.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Contar una noticia importante de la ciudad.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Explicar cómo funciona un juguete.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género lírico se distingue por su función expresiva y el uso estético del lenguaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v6",
+      "statement": "Si un poema tiene 2 grupos de 4 versos cada uno, ¿cuántas estrofas tiene en total?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 estrofas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "4 estrofas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "2 estrofas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1 estrofa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Saber distinguir entre versos y estrofas es fundamental para analizar la estructura formal de un poema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v7",
+      "statement": "En los versos:\n\"El renacuajo salió esta **mañana**,\nmuy tieso y muy **majo** con su pantalón corto...\"\n¿Riman las palabras resaltadas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, riman perfectamente.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, no riman entre sí.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Solo rima la letra M.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Riman porque ambas hablan de ropa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rima requiere una coincidencia sonora específica al final del verso, no basta con que las palabras empiecen igual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v8",
+      "statement": "¿Cuál de estas parejas de palabras rima de forma \"perfecta\" (consonante)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gato - Perro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Casa - Coche",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ratón - Botón",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Luna - Sol",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La rima consonante ocurre cuando coinciden todos los sonidos (vocales y consonantes) desde la última vocal acentuada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v9",
+      "statement": "En el verso: \"El café es un sorbo de tierra morena\", ¿qué se quiere decir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el café tiene mucha tierra adentro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que el café representa el color y el sabor del campo colombiano.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que el café se debe tomar frío.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que el café no es rico.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía usa figuras literarias como la comparación y la metáfora para dar nuevos significados a las palabras.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-v10",
+      "statement": "¿Cuál de estos versos completaría mejor tu rima?\n\"Mi colegio es mi segundo hogar,\ndonde yo vengo a ___________.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comer mucho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Jugar fútbol.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estudiar y cantar.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dormir un rato.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escribir poesía requiere seleccionar palabras que no solo tengan el significado deseado, sino también el sonido adecuado para mantener el ritmo y la rima.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W15-poesia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-6-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:32:33.766Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v1",
+      "statement": "¿Qué son las preposiciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que indican acciones.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que reemplazan a los nombres.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Palabras invariables que sirven para unir otras palabras y relacionarlas entre sí.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que siempre llevan tilde.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preposiciones son categorías gramaticales de enlace cuya función es subordinar una palabra a otra dentro de la oración.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes palabras es una preposición?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grande",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Desde",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Correr",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nosotros",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer las preposiciones (a, ante, bajo, con, contra, de, desde...) es fundamental para el análisis sintáctico.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v3",
+      "statement": "En la oración \"Juan escribe **con** su lápiz\", ¿qué tipo de relación establece la preposición \"con\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De lugar (dónde).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De instrumento (con qué).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "De tiempo (cuándo).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De origen (de dónde).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una misma preposición puede expresar diferentes significados (compañía, instrumento, modo) según el contexto de la frase.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v4",
+      "statement": "¿Cuál es la forma correcta de completar la oración?\n\"Mañana iré ________ el estadio para jugar ________ el equipo\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "en / por",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "a / con",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "de / sin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "por / ante",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber elegir la preposición adecuada garantiza que el receptor entienda la intención exacta del mensaje.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v5",
+      "statement": "\"Esa maleta es ________ mi hermano y la trajo ________ su casa\". ¿Qué palabras faltan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "con / para",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "a / por",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "de / desde",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "ante / cabe",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preposiciones permiten construir oraciones complejas uniendo sustantivos con sus complementos de forma lógica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v6",
+      "statement": "\"El barco viaja **por** el río **entre** las montañas **hacia** el mar\". ¿Cuántas preposiciones hay en la frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tres.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar textos breves permite reconocer la densidad de elementos de enlace necesarios para dar precisión espacial al relato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v7",
+      "statement": "Si un objeto está escondido, solemos decir que está ________ la mesa. Si está a la vista encima de ella, decimos que está ________ la mesa.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "con / sin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "bajo / sobre",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "ante / tras",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "de / a",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de las preposiciones espaciales es clave para la descripción técnica y literaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v8",
+      "statement": "¿Qué frase está MAL escrita según el uso correcto de las preposiciones en español?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vaso de agua.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pastillas para la tos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cocina a gas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Comida con sal.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Existen usos de preposiciones influenciados por otros idiomas o costumbres que debemos pulir para hablar con propiedad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v9",
+      "statement": "¿Cuál es la diferencia entre \"Vengo **de** Bogotá\" y \"Voy **a** Bogotá\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna diferencia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una es más elegante que la otra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"De\" indica el lugar de salida y \"a\" indica el lugar de llegada.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Las dos significan que estoy en Bogotá ahora mismo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión de los matices semánticos de las preposiciones es vital para la interpretación de itinerarios y procesos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases usa correctamente las preposiciones para indicar el horario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fiesta es en la tarde por las cinco.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Te espero **desde** las cuatro **hasta** las ocho de la noche.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Venir de las cuatro para las ocho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La fiesta es ante las cuatro bajo las ocho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión correcta de intervalos temporales requiere el uso coordinado de preposiciones de inicio y término (de... a, desde... hasta).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W06-gramatica-preposiciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

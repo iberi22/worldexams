@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-39-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:32:33.764Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v1",
+      "statement": "En una conversación, ¿quién es el encargado de recibir y entender el mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El receptor.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El canal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El código.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El circuito del habla requiere un receptor que decodifique el mensaje enviado por el emisor.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v2",
+      "statement": "¿Cuál de estas palabras es un sustantivo propio y debe llevar mayúscula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ciudad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "medellín",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "río",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "montaña",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los nombres propios identifican seres o lugares únicos y siempre inician con mayúscula.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v3",
+      "statement": "¿Cuál es la forma correcta de completar la oración?\n\"________ niños ________ en el patio\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El / juega",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los / juegan",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las / juegan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Los / juega",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La concordancia gramatical asegura la cohesión y el sentido lógico de las oraciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v4",
+      "statement": "¿Qué tipo de texto deja siempre una moraleja o enseñanza?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La noticia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "La fábula.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El poema.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fábula utiliza personajes ficticios para ilustrar valores y comportamientos humanos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v5",
+      "statement": "¿Cuál de estas palabras agudas debe llevar tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cantar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Corazón",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Feliz",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras agudas se tildan cuando terminan en n, s o vocal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v6",
+      "statement": "¿Qué signo de puntuación se usa para separar los elementos de una lista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La coma.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El signo de interrogación.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El guion.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma es un signo de pausa breve que organiza los componentes de una serie o enumeración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v7",
+      "statement": "\"El agua es vital para la salud. Debemos beberla todos los días para que nuestro cuerpo funcione bien y tengamos energía\". ¿De qué trata el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De cómo nadar en el río.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De la importancia del agua para el cuerpo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "De la comida saludable.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "De los días de la semana.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal sintetiza la información más relevante de un párrafo o texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v8",
+      "statement": "¿Cuál de estas palabras está escrita CORRECTAMENTE?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolar (de volar).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bicicleta.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ventana (con b: bentana).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Invitación (con m: imvitación).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de las reglas ortográficas de b y v previene errores comunes en la escritura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v9",
+      "statement": "¿Cuál es la pareja de palabras que son **antónimos** (opuestos)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saltar - Brincar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Subir - Bajar.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Rápido - Veloz.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hermoso - Bello.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los antónimos enriquecen el vocabulario permitiendo expresar contrastes y diferencias.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-v10",
+      "statement": "Si quieres convencer a un amigo de que tu juego favorito es el mejor, ¿qué estás haciendo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describiendo el juego.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Argumentando una opinión.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Narrando un cuento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Deletreando palabras.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La argumentación es una función del lenguaje que busca influir en el receptor mediante el uso de la razón.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W39-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

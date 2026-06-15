@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-19-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:32:33.770Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v1",
+      "statement": "¿Cuál es el objetivo principal de una reseña?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir el cuento otra vez exactamente igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dar una visión corta sobre una obra y expresar una opinión recomendándola o no.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hacer una lista de palabras difíciles de la obra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Contar chistes sobre los personajes.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reseña es un género híbrido que permite al autor informar sobre el contenido de una obra al tiempo que orienta al lector mediante su juicio personal.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v2",
+      "statement": "¿Qué información debe ir OBLIGATORIAMENTE en la ficha técnica o introducción de una reseña de libro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de la ropa del autor el día que escribió el libro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El título, el autor, la editorial y el año de publicación.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la mamá del protagonista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El precio del envío del libro.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ficha técnica proporciona el contexto editorial de la obra, permitiendo que el lector la localice con precisión.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v3",
+      "statement": "¿Qué tiene la **reseña** que NO tiene un simple resumen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre de los personajes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Las ideas principales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Un juicio u opinión personal sobre si la obra es buena o mala y por qué.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Puntos y comas.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mientras el resumen es puramente informativo, la reseña añade una dimensión subjetiva y argumentativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v4",
+      "statement": "¿Qué error cometerías si en la reseña de una película cuentas quién es el asesino o cómo termina la historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estarías haciendo un trabajo excelente.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Estarías dando demasiada información (spoiler), quitándole el interés a quien no la ha visto.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estarías escribiendo muy poco.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No es un error, es obligatorio contar el final.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ética de la reseña exige respetar la intriga de la obra para no perjudicar el disfrute del futuro espectador o lector.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v5",
+      "statement": "\"La música fue vibrante y los artistas conectaron muy bien con el público. **A pesar de la lluvia, fue una experiencia inolvidable que nadie debería perderse**\".\n¿Qué parte del texto es la valoración crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La música fue vibrante.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los artistas conectaron con el público.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Fue una experiencia inolvidable que nadie debería perderse\".",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A pesar de la lluvia.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La valoración se identifica por el uso de adjetivos de grado (inolvidable) y verbos de recomendación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v6",
+      "statement": "¿Cuál de estos adjetivos usarías en una reseña para decir que un libro es muy emocionante y no puedes dejar de leerlo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interesante.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Atrapante o fascinante.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Largo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Difícil.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La riqueza léxica en el uso de adjetivos valorativos es lo que hace que una reseña sea persuasiva y profesional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v7",
+      "statement": "Si dices que un videojuego es \"malo\", ¿cómo sería la forma más correcta de escribirlo en una reseña escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es malo porque me aburrí.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El juego tiene gráficos poco detallados y los controles son difíciles de manejar, por lo que no lo recomiendo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No me gustó y punto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Es el peor juego de la historia de la humanidad.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica constructiva o negativa debe estar siempre fundamentada en argumentos observables de la obra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v8",
+      "statement": "Si una reseña dice: **\"Este libro tiene letras muy grandes y muchos dibujos coloridos\"**, ¿a qué público va dirigido principalmente el libro reseñado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A estudiantes de bachillerato.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A niños pequeños o que están empezando a leer.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A personas expertas en ciencia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo a los padres de familia.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena reseña también analiza si la obra es adecuada para el público al que dice dirigirse.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v9",
+      "statement": "¿Puede un reseñador decir que no le gustó una película que a todo el mundo le encantó?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque se vería muy mal ante los demás.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sí, siempre y cuando explique sus razones con respeto y argumentos claros.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, el reseñador siempre debe estar de acuerdo con la mayoría.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo si la película es de otro país.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La autonomía de juicio es la base de la crítica cultural, fomentando el pensamiento diverso y argumentado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-v10",
+      "statement": "¿Cuál sería el cierre más inspirador para tu reseña?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El libro tiene 20 páginas y tapas rojas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ya terminé de escribir mi tarea de hoy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En conclusión, estas fábulas son un tesoro de nuestra cultura que todo niño colombiano debería leer para reír y aprender.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rafael Pombo nació hace muchos años en Bogotá.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión de una reseña debe sintetizar la importancia de la obra y dejar una recomendación final potente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W19-produccion-escrita-resena-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

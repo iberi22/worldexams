@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-21-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:32:33.770Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v1",
+      "statement": "¿Qué es una entrevista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un poema donde dos personas riman.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un diálogo entre dos o más personas donde una hace preguntas para obtener información de la otra.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una pelea organizada frente a una cámara.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de compras para el mercado.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La entrevista es una técnica de recolección de información basada en la interacción verbal entre un entrevistador y un entrevistado.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v2",
+      "statement": "¿Cómo se llama la persona que realiza las preguntas en una entrevista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrevistado.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Entrevistador.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Narrador.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Público.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El entrevistador tiene la responsabilidad de preparar el guion y conducir el diálogo para cumplir el objetivo del encuentro.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v3",
+      "statement": "¿Qué debe hacer un buen entrevistador ANTES de encontrarse con el entrevistado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, lo mejor es improvisar todo en el momento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Investigar sobre la persona y preparar un guion con preguntas interesantes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Comprar un regalo muy caro para el entrevistado.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Aprenderse las respuestas de memoria.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fase de investigación previa permite realizar preguntas pertinentes y profundas que realmente interesen al público.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v4",
+      "statement": "¿Cuál es la ventaja de hacer **preguntas abiertas** (que no se responden con sí o no) en una entrevista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la entrevista termine más rápido.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que permiten que el entrevistado se explique mejor y dé más detalles y opiniones.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que son más fáciles de escribir.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que no necesitan signos de interrogación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preguntas abiertas (qué, cómo, por qué) son las herramientas más potentes para profundizar en el conocimiento del entrevistado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v5",
+      "statement": "Si un texto de entrevista empieza presentando brevemente quién es la persona y por qué es importante, ¿qué parte es esa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuerpo del diálogo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La introducción o presentación.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El cierre.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El índice.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La introducción contextualiza al personaje y justifica el interés periodístico o social de la entrevista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v6",
+      "statement": "Además de las palabras, ¿por qué es importante que el entrevistador mantenga contacto visual y asienta con la cabeza?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene sueño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que está escuchando con atención y generar confianza.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Para que el entrevistado se asuste.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque es una regla del manual de urbanidad.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escucha activa involucra todo el cuerpo y es fundamental para que el entrevistado se sienta cómodo y comparta más información.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v7",
+      "statement": "¿Cuál de estas preguntas sería la más interesante para una entrevista profunda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Le gusta ser bombero?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "¿A qué hora entró a trabajar hoy?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "¿Qué es lo que más le gusta de ayudar a las personas en situaciones difíciles?",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "¿De qué color es el camión?",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La calidad de las preguntas determina la calidad de la entrevista. Se deben buscar interrogantes que revelen la esencia del entrevistado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v8",
+      "statement": "Si vas a entrevistar al Presidente de la República, ¿qué tipo de lenguaje deberías usar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje muy informal, como si fuera un amigo del parque.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje formal, respetuoso y claro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Solo lenguaje de señas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No hablar, solo mandarle papelitos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación del registro lingüístico es una competencia comunicativa clave en las relaciones sociales y periodísticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v9",
+      "statement": "¿Qué debe hacer el entrevistador si el entrevistado dice algo que no le gusta o con lo que no está de acuerdo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar a gritarle y decirle que está equivocado.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Mantener el respeto, escuchar su punto de vista y seguir con la entrevista profesionalmente.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cortar la entrevista en ese mismo momento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Burlarse de él frente a la cámara.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tolerancia y el respeto por la opinión ajena son valores fundamentales que se practican a través del género de la entrevista.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-v10",
+      "statement": "¿Cuál de estos sería el mejor título para publicar tu entrevista en el blog del colegio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi abuelo habla.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Memorias de una ciudad que ya no existe: entrevista con un testigo del pasado.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Preguntas y respuestas número 1.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tarea de español sobre los viejitos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El título de la entrevista escrita debe sintetizar la esencia del personaje o del tema central tratado durante el diálogo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W21-la-entrevista-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
