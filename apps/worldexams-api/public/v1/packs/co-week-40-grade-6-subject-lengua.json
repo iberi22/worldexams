@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-40-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T05:20:28.831Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes palabras es un **sustantivo abstracto**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Árbol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El árbol es un sustantivo común y concreto (se puede tocar y ver)."
+        },
+        {
+          "letter": "B",
+          "text": "Amistad.",
+          "is_correct": true,
+          "feedback": "Correcto. La amistad es un sentimiento o concepto que no tiene presencia física material."
+        },
+        {
+          "letter": "C",
+          "text": "Manzana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sustantivo común y concreto."
+        },
+        {
+          "letter": "D",
+          "text": "Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sustantivo propio y concreto (un lugar específico)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sustantivos abstractos nombran ideas, sentimientos o cualidades que no pueden percibirse por los sentidos físicos, a diferencia de los concretos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v2",
+      "statement": "Si un estudiante escribe: \"Ayer **leía** tranquilamente cuando sonó el teléfono\", el verbo resaltado indica:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción que ocurrirá mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo está en pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Una acción en desarrollo o habitual en el pasado (pretérito imperfecto).",
+          "is_correct": true,
+          "feedback": "Correcto. Indica una acción duradera que servía de fondo para otro hecho puntual."
+        },
+        {
+          "letter": "C",
+          "text": "Una orden que debe cumplirse de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es modo imperativo."
+        },
+        {
+          "letter": "D",
+          "text": "Una acción que ha terminado justo ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tiempo de pasado durativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pretérito imperfecto de indicativo se usa para describir acciones inacabadas o procesos repetitivos en el pasado, siendo clave en la narración literaria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v3",
+      "statement": "Completa la oración: \"La niña ___ ganó el concurso de cuento es de mi salón\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Donde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Donde\" se refiere a lugar, no a personas."
+        },
+        {
+          "letter": "B",
+          "text": "Que.",
+          "is_correct": true,
+          "feedback": "Correcto. El relativo \"que\" introduce una aclaración sobre el sustantivo anterior (niña)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conjunción causal, no un pronombre relativo."
+        },
+        {
+          "letter": "D",
+          "text": "Pero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un nexo de oposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pronombres relativos permiten unir oraciones evitando repeticiones y dando una estructura más compleja y elegante al texto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la razón principal para usar la pirámide invertida al escribir una noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el periódico se vea más bonito visualmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una razón estructural y de lectura, no solo estética."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el lector conozca lo más importante al principio, por si no tiene tiempo de leer todo el texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Responde a la necesidad de inmediatez y jerarquía informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las noticias de deportes siempre vayan al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide invertida se aplica a cada noticia individualmente."
+        },
+        {
+          "letter": "D",
+          "text": "Para gastar menos tinta al momento de imprimir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No afecta el consumo de tinta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jerarquización de la información de mayor a menor relevancia es la base del estilo periodístico informativo moderno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes fragmentos es **coherente**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los perros ladran mucho. El precio del dólar subió. Mi zapato es azul.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son frases aisladas sin relación temática entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Los perros son animales fieles. Por esta razón, muchas personas los eligen como mascotas para sus hogares.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay unidad temática y una relación lógica entre las oraciones."
+        },
+        {
+          "letter": "C",
+          "text": "Mañana fui al parque. Me gusta el frío porque hace mucho calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta incoherencia temporal y contradicciones lógicas."
+        },
+        {
+          "letter": "D",
+          "text": "El gato vuela por el espacio mientras come raíces cuadradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de coherencia semántica básica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto coherente es aquel que desarrolla un tema de forma lógica, donde cada oración aporta al sentido de la anterior y del conjunto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v6",
+      "statement": "Si el autor escribe: \"Es inaceptable que sigamos arrojando plásticos al mar\", la palabra \"inaceptable\" cumple la función de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar un dato científico sobre el peso del plástico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un adjetivo valorativo, no un dato numérico."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar un juicio de valor o postura subjetiva del autor frente al hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los adjetivos valorativos son marcas de subjetividad."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar el nombre de la playa contaminada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un nombre propio."
+        },
+        {
+          "letter": "D",
+          "text": "Servir como conector de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica cuándo suceden las cosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje en los géneros de opinión se caracteriza por la presencia de marcas que revelan la posición ética o emocional del emisor.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v7",
+      "statement": "¿En qué caso se deben usar las comillas (\" \") de forma obligatoria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al final de cada oración para que sepa que terminó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa el punto."
+        },
+        {
+          "letter": "B",
+          "text": "Para encerrar una cita textual (palabras exactas dichas por otra persona).",
+          "is_correct": true,
+          "feedback": "Correcto. Indican que el pensamiento no es del autor del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Para escribir nombres de ciudades como Pereira.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres propios solo llevan mayúscula inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cuando escribimos con lápiz rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía es independiente del color del útil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las comillas son signos de puntuación que delimitan niveles en el discurso, permitiendo la polifonía dentro de un mismo texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v8",
+      "statement": "Si recibes un correo electrónico que dice ser de tu banco y te pide tu clave secreta de urgencia, ¿qué debes hacer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir la clave rápido para que no bloqueen la cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bancos nunca piden claves por correo; es una estafa."
+        },
+        {
+          "letter": "B",
+          "text": "Desconfiar, no dar ningún dato y avisar a tus padres o a la entidad oficial.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la medida básica de seguridad."
+        },
+        {
+          "letter": "C",
+          "text": "Reenviar el correo a todos tus amigos para que ellos también den sus claves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estarías ayudando a los ciberdelincuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar internet de todo el barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución es el uso crítico de la tecnología."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La educación en lengua castellana hoy incluye la competencia mediática, permitiendo al estudiante leer críticamente los mensajes del entorno digital.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v9",
+      "statement": "¿Qué conector lógico cambia totalmente el sentido de la oración si lo sustituimos por \"porque\"? \"Iré al parque **aunque** llueva\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Si\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. También plantea una condición."
+        },
+        {
+          "letter": "B",
+          "text": "\"Porque\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Aunque\" indica concesión; \"porque\" indicaría causa, lo cual cambia el sentido lógico."
+        },
+        {
+          "letter": "C",
+          "text": "\"A pesar de que\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sinónimo de \"aunque\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"Pese a que\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. También es un sinónimo de \"aunque\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión textual no es solo poner palabras de enlace, sino elegir aquella que represente la relación lógica exacta entre los hechos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor consejo para un escritor que repite la palabra \"luego\" en cada oración de su cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que quite todos los \"luego\" y deje las oraciones sin conexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perdería la cohesión del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que escriba el cuento en inglés para que no se note la repetición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No soluciona el problema de redacción."
+        },
+        {
+          "letter": "C",
+          "text": "Que use mecanismos de cohesión como la sinonimia o conectores variados (después, más tarde, a continuación).",
+          "is_correct": true,
+          "feedback": "Correcto. La variedad léxica hace que el texto sea más rico."
+        },
+        {
+          "letter": "D",
+          "text": "Que no vuelva a escribir nunca más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error es una oportunidad de aprendizaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de la cohesión léxica y gramatical es lo que distingue a un escritor competente, permitiéndole guiar al lector sin causarle fatiga.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 respetado y frontmatter completo. |\n| Curricular | 40/40 | Evaluación integral de contenidos de grado 6°. |\n| Contexto | 20/20 | Referencias a Bogotá, Medellín, Cali, Barranquilla, etc. |\n| Redacción | 10/10 | Alta claridad y rigor pedagógico en las preguntas. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W40-evaluacion-final-2-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

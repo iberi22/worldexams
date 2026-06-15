@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T05:20:28.825Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones contiene únicamente artículos definidos (determinados)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un, una, unos, unas.",
+          "is_correct": false,
+          "feedback": "Estos son artículos indefinidos o indeterminados, no definidos."
+        },
+        {
+          "letter": "B",
+          "text": "El, la, los, las, lo.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos son los artículos definidos que indican que el sustantivo es conocido por el hablante y el oyente."
+        },
+        {
+          "letter": "C",
+          "text": "De, con, para, por.",
+          "is_correct": false,
+          "feedback": "Estas palabras son preposiciones, no artículos."
+        },
+        {
+          "letter": "D",
+          "text": "Yo, tú, él, ella.",
+          "is_correct": false,
+          "feedback": "Estas palabras son pronombres personales, no artículos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos definidos o determinados (el, la, los, las y el neutro lo) sirven para presentar al sustantivo como algo ya conocido o identificado en el contexto de la comunicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v2",
+      "statement": "En la oración: \"Traje **un** libro para la biblioteca\", el artículo resaltado indica que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El libro es muy conocido por todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para indicar que es conocido se usaría el artículo definido \"el\"."
+        },
+        {
+          "letter": "B",
+          "text": "Se trata de cualquier libro, no uno específico.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo indefinido \"un\" presenta al sustantivo de manera general o no específica."
+        },
+        {
+          "letter": "C",
+          "text": "El libro es el único que existe en la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no indica cantidad total en este contexto."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"un\" no es un artículo en esta oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Un\" cumple claramente la función de artículo indefinido masculino singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos indefinidos (un, una, unos, unas) se utilizan para referirse a seres u objetos de manera vaga o general, o cuando se mencionan por primera vez.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes oraciones utiliza correctamente las preposiciones para indicar una ubicación exacta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La feria será **para** el patio principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La preposición \"para\" indica destino o finalidad, no ubicación fija."
+        },
+        {
+          "letter": "B",
+          "text": "Los estands están ubicados **en** el salón múltiple.",
+          "is_correct": true,
+          "feedback": "Correcto. La preposición \"en\" es la adecuada para indicar lugar o ubicación espacial."
+        },
+        {
+          "letter": "C",
+          "text": "Nos vemos **con** la puerta del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Con\" indica compañía o instrumento, no ubicación."
+        },
+        {
+          "letter": "D",
+          "text": "Caminamos **por** la dirección del coordinador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por\" indica tránsito o causa, pero no define la ubicación exacta del evento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preposiciones son palabras invariables que relacionan elementos de una oración. La preposición \"en\" es fundamental para expresar la ubicación espacial de un objeto o evento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v4",
+      "statement": "Completa la oración con la preposición adecuada: \"Los bailarines caminaron ___ la Vía 40 con mucha alegría\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sin\" indica carencia, no tiene sentido en el contexto de movimiento por una vía."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bajo\" indica posición inferior, lo cual no es lógico para caminar por una calle."
+        },
+        {
+          "letter": "C",
+          "text": "Por.",
+          "is_correct": true,
+          "feedback": "Correcto. La preposición \"por\" indica el lugar a través del cual se realiza un movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Contra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Contra\" indica oposición o choque, no es la adecuada para describir el trayecto de un desfile."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La preposición \"por\" se utiliza frecuentemente para señalar el lugar o espacio a través del cual ocurre un desplazamiento o tránsito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumplen las preposiciones dentro de una oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir al nombre para evitar repeticiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los pronombres."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar acciones, estados o procesos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los verbos."
+        },
+        {
+          "letter": "C",
+          "text": "Establecer una relación de dependencia entre dos palabras o grupos de palabras.",
+          "is_correct": true,
+          "feedback": "Correcto. Las preposiciones sirven como nexos que subordinan un elemento a otro."
+        },
+        {
+          "letter": "D",
+          "text": "Calificar al sustantivo dándole una característica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de los adjetivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preposiciones son nexos subordinantes; esto significa que introducen un complemento que depende de una palabra anterior (un nombre, un verbo o un adjetivo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v6",
+      "statement": "En la frase: \"Debemos cerrar los grifos **y** evitar el desperdicio, **pero** algunos ciudadanos aún no son conscientes\", las conjunciones resaltadas son respectivamente:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disyuntiva y causal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Y\" no indica opción y \"pero\" no indica causa."
+        },
+        {
+          "letter": "B",
+          "text": "Copulativa y adversativa.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Y\" suma ideas (copulativa) y \"pero\" introduce una oposición o contraste (adversativa)."
+        },
+        {
+          "letter": "C",
+          "text": "Adversativa y copulativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido; \"y\" es la copulativa."
+        },
+        {
+          "letter": "D",
+          "text": "Explicativa y disyuntiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos conjunciones cumple estas funciones en la oración dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las conjunciones coordinantes unen elementos del mismo nivel sintáctico. Las copulativas (y, e, ni) suman, mientras que las adversativas (pero, mas, sino) expresan oposición.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v7",
+      "statement": "Si quieres expresar que los personajes deben elegir entre ir al cine o ir al parque, ¿qué tipo de conjunción debes emplear?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conjunciones copulativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las copulativas suman acciones, no plantean una elección excluyente."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunciones disyuntivas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las conjunciones disyuntivas (o, u) se utilizan para presentar opciones o alternativas."
+        },
+        {
+          "letter": "C",
+          "text": "Conjunciones finales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las finales indican propósito, no una elección."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunciones concesivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las concesivas indican un obstáculo que no impide la acción, no una alternativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las conjunciones disyuntivas permiten al hablante presentar dos o más posibilidades, de las cuales generalmente solo una puede ocurrir o ser elegida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v8",
+      "statement": "Analiza la siguiente oración: \"No estudió mucho, **aunque** aprobó el examen\". La palabra resaltada cumple la función de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preposición que indica lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Aunque\" no es una preposición."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunción copulativa que suma información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está sumando acciones, sino indicando una dificultad superada."
+        },
+        {
+          "letter": "C",
+          "text": "Conjunción concesiva que introduce una dificultad.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Aunque\" es una conjunción subordinante concesiva que señala un inconveniente que no impide el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Artículo definido neutro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conjunción, no un artículo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las conjunciones concesivas introducen una premisa que parece oponerse a la principal, pero que finalmente no impide que esta se realice.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v9",
+      "statement": "En la oración: \"**La** maleta **de** Juan está **en** el carro **y** tiene herramientas\", las palabras resaltadas pertenecen, en orden, a las siguientes categorías:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artículo, preposición, preposición, conjunción.",
+          "is_correct": true,
+          "feedback": "Correcto. \"La\" (artículo), \"de\" (preposición), \"en\" (preposición), \"y\" (conjunción)."
+        },
+        {
+          "letter": "B",
+          "text": "Pronombre, preposición, adverbio, conjunción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"La\" no es pronombre aquí y \"en\" no es adverbio."
+        },
+        {
+          "letter": "C",
+          "text": "Artículo, conjunción, preposición, preposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"De\" no es conjunción y el orden de los demás es erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "Artículo, preposición, conjunción, preposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden final está trocado; \"y\" es conjunción, no preposición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar correctamente las categorías gramaticales permite comprender la estructura lógica y sintáctica de las oraciones, lo cual es base para una buena redacción.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v10",
+      "statement": "Lee el siguiente texto: \"Fui **a la** parque **con** mi perro **pero** estaba cerrado, **o** decidí volver a casa\". ¿Cuál es el error principal en el uso de las categorías gramaticales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La preposición \"con\" está mal usada, debería ser \"en\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Con\" es correcto para indicar compañía."
+        },
+        {
+          "letter": "B",
+          "text": "La conjunción \"pero\" no tiene sentido en esa oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pero\" es adecuado para indicar que el parque estaba cerrado a pesar de ir."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo \"la\" no concuerda con \"parque\" y la conjunción \"o\" debería ser \"así que\" o \"entonces\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Parque\" es masculino (el parque) y la conjunción \"o\" indica opción, cuando se requiere una consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ningún error, el texto es gramaticalmente perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta errores claros de concordancia y de sentido en los nexos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia de género entre el artículo y el sustantivo, así como la elección del nexo lógico adecuado según la relación que se quiera establecer (consecuencia vs. opción), son vitales para la coherencia.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Cumple con Protocolo v5.2 y frontmatter completo. |\n| Curricular | 40/40 | Alineado con DBA de Lengua Grado 6 sobre categorías gramaticales. |\n| Contexto | 20/20 | Contextos locales colombianos variados y apropiados. |\n| Redacción | 10/10 | Alta claridad y distractores bien fundamentados. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

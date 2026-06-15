@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-35-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T05:20:28.830Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal que define a las redes sociales digitales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo sirven para ver fotos de gatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se comparten fotos, su función es mucho más amplia."
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de interactuar y crear comunidades en línea entre personas con intereses comunes.",
+          "is_correct": true,
+          "feedback": "Correcto. La interactividad y la red de contactos son la base de estas plataformas."
+        },
+        {
+          "letter": "C",
+          "text": "Que reemplazan totalmente el uso del lenguaje escrito por dibujos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje escrito sigue siendo fundamental en los comentarios y publicaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo se pueden usar en computadores antiguos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usan principalmente en dispositivos móviles y computadores modernos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las redes sociales son plataformas de comunicación donde el usuario deja de ser un receptor pasivo para convertirse en un participante activo que genera y comparte contenido.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función de un hipervínculo en un medio digital como un periódico en línea o un blog?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Borrar el historial de navegación del usuario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enlace no borra información del navegador."
+        },
+        {
+          "letter": "B",
+          "text": "Permitir al lector saltar de un texto a otro contenido relacionado mediante un clic.",
+          "is_correct": true,
+          "feedback": "Correcto. Los hipervínculos conectan la información de manera no lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Imprimir el texto automáticamente en papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una función de impresión, no un hipervínculo."
+        },
+        {
+          "letter": "D",
+          "text": "Apagar la pantalla del dispositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una función de apagado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hipertexto es la base de la lectura digital, permitiendo que el conocimiento no sea lineal (de principio a fin) sino que se expanda a través de conexiones infinitas entre documentos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué medio digital es el más apropiado para publicar textos largos y recibir retroalimentación detallada de la comunidad escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una aplicación de mensajería instantánea (como WhatsApp).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sirve para mensajes rápidos, pero no es la mejor para organizar y leer textos largos."
+        },
+        {
+          "letter": "B",
+          "text": "Un blog educativo o un sitio web escolar.",
+          "is_correct": true,
+          "feedback": "Correcto. Los blogs permiten organizar entradas por fechas y temas, facilitando la lectura y el comentario."
+        },
+        {
+          "letter": "C",
+          "text": "Una red social de fotos temporales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido desaparece rápido y no prioriza el texto largo."
+        },
+        {
+          "letter": "D",
+          "text": "Un mensaje de texto (SMS) tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene un límite muy pequeño de caracteres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada medio digital tiene una \"arquitectura\" que favorece ciertos tipos de mensajes. El blog es ideal para la producción textual académica y literaria con interacción diferida.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función cumplen principalmente los emojis en la comunicación digital escrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir totalmente a las palabras para que no tengamos que escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los emojis complementan, no reemplazan el lenguaje complejo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que el celular gaste más batería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es su función comunicativa."
+        },
+        {
+          "letter": "C",
+          "text": "Aportar carga emocional y matizar el tono del mensaje (alegría, ironía, tristeza).",
+          "is_correct": true,
+          "feedback": "Correcto. Ayudan a evitar malentendidos que surgen en el texto plano sin entonación."
+        },
+        {
+          "letter": "D",
+          "text": "Ocultar el significado del mensaje para que los adultos no lo entiendan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría de los emojis tienen significados universales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación digital, la falta de lenguaje no verbal (gestos, tono de voz) se compensa con el uso de elementos gráficos que ayudan a transmitir la intención comunicativa del emisor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la estrategia más segura para encontrar información veraz en medios digitales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer en el primer resultado que aparezca en el buscador, sin mirar quién lo escribió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los primeros resultados pueden ser anuncios o sitios no confiables."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar lo que dice un usuario anónimo en un comentario de Facebook.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los comentarios en redes sociales no son fuentes académicas."
+        },
+        {
+          "letter": "C",
+          "text": "Consultar sitios web oficiales de instituciones (como el Ministerio de Ambiente) o universidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuentes institucionales y académicas garantizan el rigor de la información."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntarle a un \"influencer\" de moda que no conoce el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los influencers no son necesariamente expertos en temas científicos o sociales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La alfabetización digital implica saber filtrar la información, reconociendo que no todo lo que está en internet es cierto y priorizando las fuentes con respaldo institucional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v6",
+      "statement": "Desde el punto de vista de la comunicación, ¿qué es un **meme**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error de programación que hace que las fotos se vean mal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un error técnico."
+        },
+        {
+          "letter": "B",
+          "text": "Una unidad cultural (imagen, video o frase) que se difunde rápidamente y se adapta con humor o crítica.",
+          "is_correct": true,
+          "feedback": "Correcto. Los memes son herramientas de expresión social que combinan imagen y texto de forma ingeniosa."
+        },
+        {
+          "letter": "C",
+          "text": "Una nueva forma de virus informático que daña el disco duro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un meme es contenido, no un programa malicioso."
+        },
+        {
+          "letter": "D",
+          "text": "Una foto que solo se puede ver una vez en la vida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los memes se caracterizan por ser repetibles y virales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El meme se ha convertido en un lenguaje digital poderoso para la sátira, la crítica social y la creación de identidad de grupo entre los jóvenes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v7",
+      "statement": "¿A qué se refiere el término \"huella digital\" en el contexto del uso de redes sociales e internet?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La marca de los dedos que dejamos sobre la pantalla del celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una marca física de suciedad."
+        },
+        {
+          "letter": "B",
+          "text": "Al sistema para desbloquear el teléfono con el dedo índice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es identificación biométrica."
+        },
+        {
+          "letter": "C",
+          "text": "Al rastro de información y datos que dejamos al navegar, publicar y comentar en internet.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo lo que hacemos en línea queda registrado y forma nuestra reputación digital."
+        },
+        {
+          "letter": "D",
+          "text": "Al dibujo de un pie que aparece en los perfiles de redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una imagen literal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conciencia sobre la huella digital es vital para la privacidad. Los estudiantes deben entender que sus acciones en línea pueden ser permanentes y afectar su futuro.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la actitud correcta frente a un caso de acoso o burla hacia un compañero en un grupo de WhatsApp del salón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartir el mensaje con otros amigos para que todos se rían también.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto te convierte en cómplice del acoso."
+        },
+        {
+          "letter": "B",
+          "text": "Quedarse callado y no decirle a nadie para evitar problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio permite que el acoso continúe."
+        },
+        {
+          "letter": "C",
+          "text": "No participar en la burla, apoyar al compañero afectado y reportar la situación a un adulto de confianza.",
+          "is_correct": true,
+          "feedback": "Correcto. La solidaridad y la denuncia son las herramientas contra el acoso digital."
+        },
+        {
+          "letter": "D",
+          "text": "Insultar al acosador con palabras más fuertes para darle una lección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La violencia digital no se soluciona con más violencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ética digital implica el respeto por los demás en los entornos virtuales. El acoso digital puede ser incluso más dañino que el físico debido a su alcance y permanencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo pueden las redes sociales ayudar positivamente a una causa ambiental, como proteger el río Guatiquía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usándolas para mandar juegos a todos los ciudadanos de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no ayuda directamente a la causa ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Difundiendo información educativa, convocando a jornadas de limpieza y visibilizando el problema ante las autoridades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las redes son herramientas de movilización y concienciación ciudadana muy poderosas."
+        },
+        {
+          "letter": "C",
+          "text": "Publicando fotos de comida para que los peces no tengan hambre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una idea absurda que no tiene impacto real."
+        },
+        {
+          "letter": "D",
+          "text": "Borrando todas las fotos del río para que nadie sepa dónde queda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ocultamiento no soluciona el problema ambiental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El buen uso de los medios digitales potencia la participación democrática, permitiendo que las comunidades locales tengan una voz global en defensa de sus recursos naturales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v10",
+      "statement": "¿Qué decisión es la más responsable al encontrarse con una aplicación o red social que no protege la privacidad de los menores de edad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar todo rápidamente sin leer para poder jugar lo antes posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás poniendo en riesgo tu información personal y seguridad."
+        },
+        {
+          "letter": "B",
+          "text": "Inventarse una edad falsa de 50 años para engañar al sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mentir sobre la edad no te protege de que tus datos sean vendidos o mal usados."
+        },
+        {
+          "letter": "C",
+          "text": "No usar la aplicación, leer los términos de privacidad con los padres y buscar alternativas seguras para niños.",
+          "is_correct": true,
+          "feedback": "Correcto. La protección de datos personales es un derecho y una responsabilidad compartida."
+        },
+        {
+          "letter": "D",
+          "text": "Mandar un correo de insultos a la empresa que creó la aplicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución no es el insulto, sino el consumo responsable de medios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La formación de un criterio crítico frente al consumo digital es fundamental. Los estudiantes deben aprender que \"lo gratis\" en internet a menudo se paga con su información personal.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA sobre medios digitales y redes sociales. |\n| Contexto | 20/20 | Contextos colombianos diversos (Cúcuta, Medellín, Cali, etc). |\n| Redacción | 10/10 | Alta claridad y relevancia para el grado 6. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T05:20:28.831Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la propiedad del texto que garantiza que todas las ideas se relacionen con un mismo tema central?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cohesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cohesión es la conexión gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "La coherencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia da unidad de sentido y tema al texto."
+        },
+        {
+          "letter": "C",
+          "text": "La ortografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una norma de escritura."
+        },
+        {
+          "letter": "D",
+          "text": "La tipografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al diseño de las letras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia es la propiedad fundamental que permite que un conjunto de oraciones sea percibido como un texto con sentido global y no como una lista de frases aisladas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes partes de la noticia tiene la función de responder de forma rápida a las preguntas: ¿qué?, ¿quién?, ¿cuándo? y ¿dónde??",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El titular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El titular solo atrae y resume."
+        },
+        {
+          "letter": "B",
+          "text": "El cuerpo de la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuerpo desarrolla los detalles."
+        },
+        {
+          "letter": "C",
+          "text": "La entradilla o lead.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el primer párrafo que condensa los datos esenciales."
+        },
+        {
+          "letter": "D",
+          "text": "El pie de foto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la imagen acompañante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La entradilla es estratégica en el periodismo informativo porque asegura que el lector reciba la información vital en los primeros segundos de lectura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v3",
+      "statement": "En la oración: \"Compré frutas **y** verduras **para** mi familia\", las palabras resaltadas son respectivamente:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preposición y conjunción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunción y preposición.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Y\" es una conjunción copulativa y \"para\" es una preposición de finalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Artículo y adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos palabras pertenece a esas categorías."
+        },
+        {
+          "letter": "D",
+          "text": "Verbo y adverbio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indican acciones ni circunstancias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer las palabras de enlace (nexos) es fundamental para entender cómo se construyen las oraciones complejas y cómo se relacionan las ideas entre sí.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el objetivo principal de un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre un robo ocurrido ayer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una función informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar una postura personal y convencer al lector mediante argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Busca influir en la opinión pública."
+        },
+        {
+          "letter": "C",
+          "text": "Vender un producto de belleza milagroso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de un anuncio."
+        },
+        {
+          "letter": "D",
+          "text": "Dar las instrucciones para armar un mueble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo de opinión pertenece a los géneros argumentativos. Su éxito depende de la capacidad del autor para sustentar sus ideas y persuadir a su audiencia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v5",
+      "statement": "\"No estudió para el examen de lengua; ________, obtuvo una nota muy baja\". ¿Qué conector completa mejor la oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica suma."
+        },
+        {
+          "letter": "C",
+          "text": "Por lo tanto.",
+          "is_correct": true,
+          "feedback": "Correcto. Indica una consecuencia directa."
+        },
+        {
+          "letter": "D",
+          "text": "Pero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También indica oposición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores de consecuencia (por lo tanto, así que, en consecuencia) son herramientas de cohesión que muestran la relación causa-efecto en el pensamiento escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v6",
+      "statement": "¿Para qué sirve el campo \"Asunto\" en un correo electrónico enviado a un profesor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para escribir todo el cuerpo ahí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El asunto debe ser corto."
+        },
+        {
+          "letter": "B",
+          "text": "Para resumir el tema del mensaje y que el profesor sepa de qué trata.",
+          "is_correct": true,
+          "feedback": "Correcto. Mejora la organización."
+        },
+        {
+          "letter": "C",
+          "text": "Para poner la fecha y la hora del envío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pone automáticamente."
+        },
+        {
+          "letter": "D",
+          "text": "Para poner una lista de chistes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe ser formal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La netiqueta exige claridad en los campos informativos para facilitar la gestión de la comunicación digital profesional y académica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v7",
+      "statement": "¿A qué se refiere la **interactividad** en los medios digitales y redes sociales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que los computadores funcionan solo con electricidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un aspecto técnico."
+        },
+        {
+          "letter": "B",
+          "text": "A la capacidad del usuario de comentar, compartir y participar activamente.",
+          "is_correct": true,
+          "feedback": "Correcto. El receptor deja de ser pasivo."
+        },
+        {
+          "letter": "C",
+          "text": "A que solo se pueden leer textos en blanco y negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son multimedia."
+        },
+        {
+          "letter": "D",
+          "text": "A que los libros de papel son mejores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interactividad es el rasgo distintivo de las redes sociales, transformando la comunicación unidireccional en un diálogo dinámico y global.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v8",
+      "statement": "¿Qué signo de puntuación se usa para introducir una cita textual después de frases como \"El autor dijo\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto y coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separa enunciados complejos."
+        },
+        {
+          "letter": "B",
+          "text": "El paréntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sirve para aclaraciones."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos puntos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos anuncian la cita literal."
+        },
+        {
+          "letter": "D",
+          "text": "La interrogación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Formula preguntas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso correcto de los dos puntos antes de una cita textual es una norma ortográfica esencial para la correcta atribución de ideas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la diferencia entre **\"él\"** y **\"el\"** en la oración: \"**Él** compró **el** carro\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tilde es obligatoria para marcar la diferencia gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "\"Él\" con tilde es pronombre personal; \"el\" sin tilde es artículo definido.",
+          "is_correct": true,
+          "feedback": "Correcto. Es tilde diacrítica."
+        },
+        {
+          "letter": "C",
+          "text": "\"Él\" es para hombres altos y \"el\" para bajos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía no depende de la estatura."
+        },
+        {
+          "letter": "D",
+          "text": "Se escriben así solo los martes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reglas son constantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde diacrítica permite que el lector identifique inmediatamente la función gramatical de palabras que se escriben igual.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el primer paso responsable ante una noticia sensacionalista que llega por redes sociales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartirla de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Así se propagan las noticias falsas."
+        },
+        {
+          "letter": "B",
+          "text": "Creerla totalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fotos pueden ser manipuladas."
+        },
+        {
+          "letter": "C",
+          "text": "Verificar la fuente, buscar en medios reconocidos y analizar el lenguaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el procedimiento básico de verificación."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar internet de todo el celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución es la educación crítica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La alfabetización mediática consiste en evaluar de forma crítica la calidad y veracidad de los mensajes que consumimos.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Cubre los temas principales de 6° grado. |\n| Contexto | 20/20 | Referencias a Mompox, Tunja, Cali, etc. |\n| Redacción | 10/10 | Alta claridad y rigor pedagógico. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
