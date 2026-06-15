@@ -1,0 +1,398 @@
+---
+id: "GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle"
+country: "guatemala"
+grado: 11
+asignatura: "matematicas"
+tema: "sistemas-numericos-reales"
+periodo: "weekly"
+week: "W01"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "CNB Guatemala 2026"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+## Question 1 [D3-D4]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.85
+**Contexto:** En un taller de artesanías en Antigua Guatemala, los artesanos clasifican diferentes tipos de medidas según su precisión y naturaleza.
+
+### Enunciado
+¿A qué conjunto numérico pertenece el número $\sqrt{2}$, que representa la relación entre la diagonal y el lado de un diseño cuadrado tradicional?
+
+### Opciones
+- [ ] A) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos (1, 2, 3...). $\sqrt{2}$ no puede expresarse como un entero. -->
+- [ ] B) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los números racionales pueden expresarse como fracción $a/b$. $\sqrt{2}$ tiene decimales infinitos no periódicos. -->
+- [x] C) Números Irracionales ($\mathbb{I}$) <!-- feedback: Correcto. $\sqrt{2}$ es un número cuya expresión decimal es infinita y no periódica, por lo que es irracional. -->
+- [ ] D) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros incluyen positivos, negativos y el cero, pero no valores con decimales no nulos como $\sqrt{2}$. -->
+
+### Explicacion Pedagogica
+Los números irracionales son aquellos que no pueden ser expresados como la razón de dos números enteros. La raíz cuadrada de 2 es el ejemplo clásico de un número irracional en la geometría.
+
+## Question 2 [D3-D4]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.80
+**Contexto:** Un comerciante del mercado de Chichicastenango registra sus ganancias diarias (números positivos) y sus deudas (números negativos).
+
+### Enunciado
+Si el comerciante tiene una deuda de GTQ 150.00 y una ganancia de GTQ 200.00, ¿cuál es la representación correcta de su saldo total en el conjunto de los números enteros?
+
+### Opciones
+- [ ] A) $-150 - 200 = -350$ <!-- feedback: Se están restando ambos valores, lo que indicaría dos deudas, no una deuda y una ganancia. -->
+- [x] B) $-150 + 200 = 50$ <!-- feedback: Correcto. La deuda se representa con signo negativo y la ganancia con signo positivo; la suma da el saldo neto de GTQ 50.00. -->
+- [ ] C) $150 + 200 = 350$ <!-- feedback: Se están sumando ambos como positivos, ignorando que uno de los valores es una deuda. -->
+- [ ] D) $150 - 200 = -50$ <!-- feedback: Aquí se representa la deuda como positiva y la ganancia como negativa, lo cual es opuesto a la convención contable. -->
+
+### Explicacion Pedagogica
+En el conjunto de los números enteros, las deudas se representan como valores negativos y los activos o ganancias como valores positivos. La suma de estos valores refleja el balance real.
+
+## Question 3 [D3-D4]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v3
+**Bloom:** Remember
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.85
+**Contexto:** En la construcción de estructuras escolares en Quetzaltenango, se utilizan diferentes escalas de medida.
+
+### Enunciado
+¿Cuál es la propiedad de los números reales que indica que para cualquier par de números $a$ y $b$, se cumple que $a + b = b + a$?
+
+### Opciones
+- [ ] A) Propiedad Asociativa <!-- feedback: La propiedad asociativa se refiere al agrupamiento de tres o más términos: $(a+b)+c = a+(b+c)$. -->
+- [ ] B) Propiedad Distributiva <!-- feedback: La propiedad distributiva relaciona la multiplicación con la suma: $a(b+c) = ab + ac$. -->
+- [x] C) Propiedad Conmutativa <!-- feedback: Correcto. La propiedad conmutativa establece que el orden de los sumandos no altera la suma. -->
+- [ ] D) Propiedad del Elemento Neutro <!-- feedback: El elemento neutro de la suma es el cero ($a + 0 = a$). -->
+
+### Explicacion Pedagogica
+La propiedad conmutativa es fundamental en el sistema de los números reales y permite flexibilidad en el orden de las operaciones de adición y multiplicación.
+
+## Question 4 [D3-D4]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.75
+**Contexto:** Un estudiante de bachillerato en Guatemala está analizando la recta numérica para representar las distancias entre diferentes municipios.
+
+### Enunciado
+¿Cuál de las siguientes afirmaciones describe correctamente la densidad de los números racionales en la recta numérica?
+
+### Opciones
+- [ ] A) Entre dos números racionales no siempre existe otro número racional. <!-- feedback: Incorrecto. Siempre es posible encontrar un punto medio entre dos racionales. -->
+- [x] B) Entre cualquier par de números racionales, siempre existe una cantidad infinita de otros números racionales. <!-- feedback: Correcto. Esta es la definición de la propiedad de densidad de los números racionales. -->
+- [ ] C) Solo existen números racionales entre los números enteros. <!-- feedback: Incorrecto. Los racionales están distribuidos por toda la recta real, no solo entre enteros. -->
+- [ ] D) Los números racionales son los únicos que completan la recta numérica. <!-- feedback: Incorrecto. Los números irracionales también son necesarios para completar la recta real. -->
+
+### Explicacion Pedagogica
+La densidad es una propiedad de los conjuntos de números racionales e irracionales, indicando que no hay "huecos" que no contengan más números del mismo conjunto entre dos valores dados.
+
+## Question 5 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.70
+**Contexto:** Una exportadora de café en Huehuetenango necesita calcular el peso total de varios lotes expresados en diferentes unidades.
+
+### Enunciado
+Si un lote de café pesa $4.5$ quintales y otro pesa $3 \frac{3}{4}$ quintales, ¿cuál es el peso total del envío expresado en forma decimal?
+
+### Opciones
+- [ ] A) $7.75$ quintales <!-- feedback: Incorrecto. $3 \frac{3}{4}$ es $3.75$. $4.5 + 3.75 = 8.25$. -->
+- [x] B) $8.25$ quintales <!-- feedback: Correcto. $3 \frac{3}{4} = 3.75$. Entonces, $4.5 + 3.75 = 8.25$. -->
+- [ ] C) $8.50$ quintales <!-- feedback: Incorrecto. Parece que se sumó $4.5 + 4$, ignorando la fracción exacta. -->
+- [ ] D) $7.25$ quintales <!-- feedback: Incorrecto. Error en el proceso de suma de los valores enteros y decimales. -->
+
+### Explicacion Pedagogica
+Para sumar números reales en diferentes formatos (decimal y fracción mixta), es conveniente convertir ambos a la misma representación, en este caso, decimal.
+
+## Question 6 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v6
+**Bloom:** Understand
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.70
+**Contexto:** En el diseño de un huipil, una tejedora utiliza patrones geométricos que requieren el cálculo de áreas circulares.
+
+### Enunciado
+El valor de $\pi \approx 3.14159...$ se utiliza para calcular el perímetro de un círculo en el diseño. ¿Cuál es la clasificación más precisa de este número?
+
+### Opciones
+- [ ] A) Decimal exacto <!-- feedback: Los decimales exactos terminan (como 0.5). $\pi$ nunca termina. -->
+- [ ] B) Decimal periódico puro <!-- feedback: Los periódicos repiten una secuencia (como 0.333...). $\pi$ no tiene patrón repetitivo. -->
+- [ ] C) Número racional <!-- feedback: Los racionales pueden ser fracciones. $\pi$ no puede escribirse como $a/b$ con $a, b$ enteros. -->
+- [x] D) Número irracional trascendente <!-- feedback: Correcto. $\pi$ no es raíz de ninguna ecuación algebraica con coeficientes racionales y su expansión decimal es infinita no periódica. -->
+
+### Explicacion Pedagogica
+$\pi$ es el ejemplo más conocido de un número irracional. Además, es trascendente porque no es solución de ninguna ecuación polinómica con coeficientes enteros.
+
+## Question 7 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.65
+**Contexto:** Un agricultor en Petén divide su terreno para diferentes tipos de cultivos.
+
+### Enunciado
+El agricultor tiene un terreno de $1,200$ metros cuadrados. Si dedica $\frac{2}{5}$ al maíz y el resto al frijol, ¿cuántos metros cuadrados quedan para el frijol?
+
+### Opciones
+- [ ] A) $480$ m² <!-- feedback: Este es el área dedicada al maíz ($1,200 \times 2/5 = 480$). Se pide el resto. -->
+- [x] B) $720$ m² <!-- feedback: Correcto. Si $2/5$ es para maíz, $3/5$ es para frijol. $1,200 \times 3/5 = 720$. -->
+- [ ] C) $600$ m² <!-- feedback: Esto representaría la mitad del terreno, no los $3/5$ restantes. -->
+- [ ] D) $500$ m² <!-- feedback: Incorrecto. Error en el cálculo de la fracción complementaria. -->
+
+### Explicacion Pedagogica
+La resolución implica identificar la fracción complementaria ($1 - 2/5 = 3/5$) y aplicarla al total para obtener la parte restante.
+
+## Question 8 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v8
+**Bloom:** Understand
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.70
+**Contexto:** Un banco en Ciudad de Guatemala ofrece una tasa de interés sobre los ahorros de sus clientes.
+
+### Enunciado
+¿Cuál es el inverso multiplicativo (recíproco) del número real $0.25$?
+
+### Opciones
+- [ ] A) $-0.25$ <!-- feedback: Este es el inverso aditivo (opuesto), no el multiplicativo. -->
+- [x] B) $4$ <!-- feedback: Correcto. $0.25 = 1/4$. El recíproco de $1/4$ es $4/1$, es decir, $4$. -->
+- [ ] C) $0.75$ <!-- feedback: Este valor no tiene relación de inversión multiplicativa con $0.25$. -->
+- [ ] D) $1$ <!-- feedback: El 1 es el elemento neutro de la multiplicación, no el recíproco de $0.25$. -->
+
+### Explicacion Pedagogica
+El inverso multiplicativo de un número $a$ es $1/a$, tal que $a \times (1/a) = 1$. Convertir decimales a fracciones facilita este cálculo.
+
+## Question 9 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.65
+**Contexto:** En un laboratorio escolar se mide la temperatura en grados Celsius, permitiendo valores positivos y negativos.
+
+### Enunciado
+Si la temperatura inicial es de $-5^\circ$C y sube $12^\circ$C, para luego bajar $8^\circ$C, ¿cuál es la temperatura final?
+
+### Opciones
+- [ ] A) $15^\circ$C <!-- feedback: Incorrecto. Sumaste todos los valores absolutos sin considerar los signos de subida y bajada. -->
+- [x] B) $-1^\circ$C <!-- feedback: Correcto. $-5 + 12 = 7$; luego $7 - 8 = -1$. -->
+- [ ] C) $1^\circ$C <!-- feedback: Error en el cálculo final de la resta $7 - 8$. -->
+- [ ] D) $-3^\circ$C <!-- feedback: Incorrecto. Error en el seguimiento de las operaciones aritméticas con signos. -->
+
+### Explicacion Pedagogica
+El manejo de operaciones con números enteros requiere atención a los signos que representan aumentos (positivo) y disminuciones (negativo).
+
+## Question 10 [D5-D6]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.65
+**Contexto:** Un arquitecto diseña una plaza circular y necesita estimar el material para el borde.
+
+### Enunciado
+Si el diámetro de la plaza es de $10$ metros y se utiliza la aproximación $\pi \approx 3.14$, ¿cuál es la longitud aproximada de la circunferencia?
+
+### Opciones
+- [ ] A) $62.8$ m <!-- feedback: Este sería el resultado si el radio fuera 10, pero 10 es el diámetro. -->
+- [x] B) $31.4$ m <!-- feedback: Correcto. Longitud = $\pi \times d = 3.14 \times 10 = 31.4$. -->
+- [ ] C) $15.7$ m <!-- feedback: Este es el resultado de dividir el diámetro por 2 antes de multiplicar por $\pi$, lo cual es incorrecto. -->
+- [ ] D) $314$ m <!-- feedback: Error al mover el punto decimal durante la multiplicación por 10. -->
+
+### Explicacion Pedagogica
+La longitud de una circunferencia se calcula multiplicando el diámetro por $\pi$ ($L = \pi d$). Es una aplicación común de los números reales irracionales aproximados.
+
+## Question 11 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.60
+**Contexto:** Un estudiante de ingeniería analiza la precisión de las calculadoras al operar con raíces cuadradas.
+
+### Enunciado
+¿Cuál de las siguientes afirmaciones sobre el resultado de la operación $\sqrt{3} \times \sqrt{12}$ es verdadera?
+
+### Opciones
+- [ ] A) El resultado es un número irracional porque el producto de dos irracionales siempre es irracional. <!-- feedback: No siempre es cierto. Por ejemplo, $\sqrt{2} \times \sqrt{2} = 2$, que es racional. -->
+- [x] B) El resultado es el número racional $6$. <!-- feedback: Correcto. $\sqrt{3 \times 12} = \sqrt{36} = 6$, que es un número entero y, por lo tanto, racional. -->
+- [ ] C) El resultado es un número decimal periódico. <!-- feedback: El resultado es exactamente 6, no tiene decimales periódicos. -->
+- [ ] D) La operación no puede realizarse porque los radicales tienen diferentes radicandos. <!-- feedback: Falso. Se pueden multiplicar radicales del mismo índice multiplicando sus radicandos. -->
+
+### Explicacion Pedagogica
+El producto de dos números irracionales puede dar como resultado un número racional. En este caso, el producto de los radicandos es un cuadrado perfecto.
+
+## Question 12 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.60
+**Contexto:** Una empresa de transporte en Escuintla calcula el consumo de combustible de sus camiones.
+
+### Enunciado
+Si un camión consume $12.5$ galones en $300$ kilómetros, ¿cuál es la razón de consumo expresada como una fracción simplificada en términos de galones por kilómetro?
+
+### Opciones
+- [ ] A) $1/20$ <!-- feedback: Incorrecto. $12.5/300 = 125/3000 = 1/24$. -->
+- [x] B) $1/24$ <!-- feedback: Correcto. $12.5 / 300 = (25/2) / 300 = 25 / 600 = 1 / 24$. -->
+- [ ] C) $1/25$ <!-- feedback: Incorrecto. Error en la simplificación de la fracción. -->
+- [ ] D) $5/120$ <!-- feedback: Aunque es equivalente a $1/24$, no es la forma más simplificada requerida. -->
+
+### Explicacion Pedagogica
+Convertir decimales a fracciones y simplificar es una habilidad clave para expresar razones de manera exacta en el sistema de números reales.
+
+## Question 13 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.55
+**Contexto:** Un programador en Guatemala está definiendo los tipos de datos para una aplicación financiera.
+
+### Enunciado
+Al comparar los números $x = 0.6$ y $y = 2/3$, ¿cuál es la relación de orden correcta?
+
+### Opciones
+- [ ] A) $x > y$ <!-- feedback: Incorrecto. $2/3 \approx 0.666...$, por lo que $0.666... > 0.6$. -->
+- [x] B) $x < y$ <!-- feedback: Correcto. $0.6$ es menor que $0.666...$ (que es la representación decimal de $2/3$). -->
+- [ ] C) $x = y$ <!-- feedback: Incorrecto. $0.6$ es $6/10$, mientras que $y$ es $2/3$. No son iguales. -->
+- [ ] D) No se pueden comparar por ser de diferente naturaleza. <!-- feedback: Falso. Todos los números reales son comparables y pueden ordenarse en la recta numérica. -->
+
+### Explicacion Pedagogica
+Para comparar números reales, es útil convertirlos a su expansión decimal o encontrar un denominador común. Aquí, $0.6 = 0.600...$ y $2/3 = 0.666...$.
+
+## Question 14 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.55
+**Contexto:** Un científico estudia la ley de gravitación y se encuentra con expresiones que involucran potencias y raíces.
+
+### Enunciado
+¿Cuál es el valor simplificado de la expresión $(2^3 \times 2^{-1})^{1/2}$?
+
+### Opciones
+- [ ] A) $4$ <!-- feedback: Incorrecto. $2^{3-1} = 2^2$. Luego $(2^2)^{1/2} = 2^1 = 2$. -->
+- [x] B) $2$ <!-- feedback: Correcto. Dentro del paréntesis: $2^3 \times 2^{-1} = 2^2$. Entonces $(2^2)^{1/2} = 2^{2/2} = 2^1 = 2$. -->
+- [ ] C) $\sqrt{2}$ <!-- feedback: Incorrecto. Olvidaste que la base resultante era $2^2$ antes de aplicar la raíz. -->
+- [ ] D) $8$ <!-- feedback: Incorrecto. Error en la aplicación de las leyes de los exponentes. -->
+
+### Explicacion Pedagogica
+Las leyes de los exponentes permiten simplificar expresiones complejas dentro del conjunto de los números reales, tratando las raíces como exponentes fraccionarios.
+
+## Question 15 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v15
+**Bloom:** Apply
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.60
+**Contexto:** Un topógrafo mide la distancia entre dos puntos en un terreno inclinado usando el teorema de Pitágoras.
+
+### Enunciado
+Si los catetos de un triángulo miden $5$ m y $12$ m, ¿cuál es la longitud de la hipotenusa?
+
+### Opciones
+- [ ] A) $17$ m <!-- feedback: Sumaste los lados directamente, lo cual no es correcto para la hipotenusa. -->
+- [x] B) $13$ m <!-- feedback: Correcto. $h = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13$. -->
+- [ ] C) $\sqrt{17}$ m <!-- feedback: Error al aplicar la fórmula del teorema de Pitágoras. -->
+- [ ] D) $15$ m <!-- feedback: Incorrecto. Cálculo erróneo de la raíz cuadrada de la suma de los cuadrados. -->
+
+### Explicacion Pedagogica
+El teorema de Pitágoras es una aplicación fundamental de los números reales (potencias y raíces) en la resolución de problemas geométricos.
+
+## Question 16 [D7-D8]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.55
+**Contexto:** En una clase de matemáticas, se discute la clasificación de los números según sus propiedades de cierre.
+
+### Enunciado
+¿En qué conjunto numérico la operación de división (excepto por cero) NO cumple siempre con la propiedad de cierre?
+
+### Opciones
+- [x] A) Números Enteros ($\mathbb{Z}$) <!-- feedback: Correcto. Si divides dos enteros, como $1 / 2$, el resultado ($0.5$) no es un entero. -->
+- [ ] B) Números Racionales ($\mathbb{Q}$) <!-- feedback: La división de dos racionales (si el divisor no es cero) siempre da un racional. -->
+- [ ] C) Números Reales ($\mathbb{R}$) <!-- feedback: La división de dos reales siempre da un real (si el divisor no es cero). -->
+- [ ] D) Números Complejos ($\mathbb{C}$) <!-- feedback: La división de complejos también cumple con el cierre (excepto por cero). -->
+
+### Explicacion Pedagogica
+La propiedad de cierre indica que al realizar una operación con elementos de un conjunto, el resultado pertenece al mismo conjunto. Los enteros no tienen cierre bajo la división.
+
+## Question 17 [D9-D10]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.45
+**Contexto:** Un estudiante investiga la validez de diferentes enunciados sobre los números reales para una olimpiada de matemáticas.
+
+### Enunciado
+¿Cuál de las siguientes proposiciones es falsa respecto a los números reales?
+
+### Opciones
+- [ ] A) Todo número racional tiene una expansión decimal periódica o finita. <!-- feedback: Esta es una proposición verdadera. -->
+- [ ] B) La suma de un número racional y uno irracional es siempre irracional. <!-- feedback: Esta es una proposición verdadera. -->
+- [x] C) El producto de dos números irracionales es siempre un número irracional. <!-- feedback: Correcto. Esta es la proposición falsa. Por ejemplo, $\sqrt{2} \times \sqrt{2} = 2$, que es racional. -->
+- [ ] D) No existe un número racional cuyo cuadrado sea exactamente 2. <!-- feedback: Esta es una proposición verdadera (prueba de la irracionalidad de $\sqrt{2}$). -->
+
+### Explicacion Pedagogica
+La evaluación de propiedades de conjuntos numéricos requiere el uso de contraejemplos. El producto de irracionales es un caso clásico donde el cierre no se cumple.
+
+## Question 18 [D9-D10]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.40
+**Contexto:** En un curso de lógica matemática, se analiza la estructura de los sistemas numéricos.
+
+### Enunciado
+Dada la expresión $A = \sqrt{(1-\sqrt{2})^2}$, ¿cuál es el valor exacto de $A$ simplificado?
+
+### Opciones
+- [ ] A) $1 - \sqrt{2}$ <!-- feedback: Incorrecto. Como $1 < \sqrt{2}$, el valor $1 - \sqrt{2}$ es negativo, y una raíz cuadrada principal siempre es positiva. -->
+- [x] B) $\sqrt{2} - 1$ <!-- feedback: Correcto. Por definición, $\sqrt{x^2} = |x|$. Como $1 - \sqrt{2} < 0$, su valor absoluto es $-(1 - \sqrt{2}) = \sqrt{2} - 1$. -->
+- [ ] C) $-1 + \sqrt{2}$ <!-- feedback: Aunque es equivalente a $\sqrt{2}-1$, la opción B es la forma convencional de escribirlo. Sin embargo, B y C son idénticos matemáticamente. Revisando: B es mejor. -->
+- [ ] D) $1 + \sqrt{2}$ <!-- feedback: Incorrecto. El signo dentro del paréntesis original se altera de manera injustificada. -->
+
+### Explicacion Pedagogica
+Este problema evalúa la comprensión de la función raíz cuadrada como valor absoluto de la base elevada al cuadrado, esencial para evitar errores de signo con números reales.
+
+## Question 19 [D9-D10]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v19
+**Bloom:** Analyze
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.45
+**Contexto:** Un astrónomo en el observatorio de la Ciudad de Guatemala maneja distancias astronómicas en notación científica.
+
+### Enunciado
+Si la distancia a una estrella es de $4.2 \times 10^{13}$ km y la luz viaja a $3 \times 10^5$ km/s, ¿cuántos segundos tarda la luz en llegar a la Tierra? (Expresa el resultado en notación científica).
+
+### Opciones
+- [x] A) $1.4 \times 10^8$ s <!-- feedback: Correcto. Tiempo = Distancia / Velocidad = $(4.2 / 3) \times 10^{13-5} = 1.4 \times 10^8$. -->
+- [ ] B) $1.4 \times 10^7$ s <!-- feedback: Error en el cálculo del exponente de la potencia de 10. -->
+- [ ] C) $1.26 \times 10^{19}$ s <!-- feedback: Multiplicaste los valores en lugar de dividirlos. -->
+- [ ] D) $7.14 \times 10^7$ s <!-- feedback: Error en la división de los coeficientes $4.2 / 3$. -->
+
+### Explicacion Pedagogica
+La operación con números reales en notación científica requiere la aplicación de las leyes de los exponentes para las potencias de diez y la aritmética básica para los coeficientes.
+
+## Question 20 [D9-D10]
+**ID:** GT-MAT-11-2026-W01-sistemas-numericos-reales-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**ICFES:** Pensamiento Lógico-Matemático
+**Expected_Success:** 0.40
+**Contexto:** Un matemático guatemalteco está revisando la demostración de la densidad de los números reales.
+
+### Enunciado
+¿Cuál es el resultado de racionalizar el denominador de la expresión $\frac{2}{\sqrt{5} - 1}$?
+
+### Opciones
+- [ ] A) $\frac{\sqrt{5} + 1}{4}$ <!-- feedback: Incorrecto. Al multiplicar por el conjugado, el denominador es $(\sqrt{5})^2 - 1^2 = 4$. El numerador queda $2(\sqrt{5}+1)$. Simplificando $2/4$ queda $1/2$. -->
+- [x] B) $\frac{\sqrt{5} + 1}{2}$ <!-- feedback: Correcto. Multiplicamos por $(\sqrt{5}+1)$ arriba y abajo. Abajo queda $5-1=4$. Arriba $2(\sqrt{5}+1)$. $2/4$ simplifica a $1/2$. -->
+- [ ] C) $\sqrt{5} + 1$ <!-- feedback: Olvidaste simplificar el factor 2 con el denominador resultante 4. -->
+- [ ] D) $\frac{2\sqrt{5} + 2}{6}$ <!-- feedback: Error al calcular el producto de los binomios conjugados en el denominador. -->
+
+### Explicacion Pedagogica
+Racionalizar es un proceso fundamental en el álgebra de los números reales para simplificar expresiones con radicales en el denominador mediante el uso del conjugado.

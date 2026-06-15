@@ -276,6 +276,7 @@ for (const file of allFiles) {
       chile: "cl",
       ecuador: "ec",
       argentina: "ar",
+      guatemala: "gt",
       brasil: "br",
       brazil: "br",
       spain: "es",
