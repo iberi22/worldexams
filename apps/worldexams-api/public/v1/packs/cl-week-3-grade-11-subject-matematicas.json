@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cl",
+    "pack_id": "cl-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:43:11.334Z"
+  },
+  "questions": [
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor de la expresión $3^0 + 3^1 + 3^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Olvidaste que $3^0$ es igual a 1."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "$1 + 3 + 9 = 13$. Todo número elevado a 0 es 1."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Solo consideraste el término $3^2$."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de las potencias individuales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos cada término por separado: $3^0 = 1$ (propiedad de potencia con exponente cero), $3^1 = 3$ y $3^2 = 3 \\cdot 3 = 9$. Al sumar los resultados obtenemos $1 + 3 + 9 = 13$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes potencias equivale a la expresión $\\sqrt[3]{x^2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^{3/2}$",
+          "is_correct": false,
+          "feedback": "El índice de la raíz va en el denominador del exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{2/3}$",
+          "is_correct": true,
+          "feedback": "Correcto, el exponente de la base es el numerador y el índice de la raíz es el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$x^6$",
+          "is_correct": false,
+          "feedback": "Has multiplicado el exponente por el índice en lugar de dividirlos."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{-2/3}$",
+          "is_correct": false,
+          "feedback": "No hay razón para que el exponente sea negativo; la expresión original es positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una raíz enésima se puede expresar como una potencia de exponente fraccionario siguiendo la regla: $\\sqrt[n]{a^m} = a^{m/n}$. En este caso, $m=2$ y $n=3$, por lo que la equivalencia es $x^{2/3}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v3",
+      "statement": "Simplifique la expresión: $\\frac{5^7 \\cdot 5^4}{5^9}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5^{20}$",
+          "is_correct": false,
+          "feedback": "Multiplicaste los exponentes en lugar de sumarlos y restarlos."
+        },
+        {
+          "letter": "B",
+          "text": "$5^3$",
+          "is_correct": false,
+          "feedback": "Solo restaste los exponentes del final, olvidando la multiplicación inicial."
+        },
+        {
+          "letter": "C",
+          "text": "$5^2$",
+          "is_correct": true,
+          "feedback": "$\\frac{5^{7+4}}{5^9} = \\frac{5^{11}}{5^9} = 5^{11-9} = 5^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$5^{11}$",
+          "is_correct": false,
+          "feedback": "Olvidaste dividir por el término del denominador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicamos las propiedades de las potencias de igual base: en la multiplicación se suman los exponentes ($7+4=11$) y en la división se restan ($11-9=2$). La expresión simplificada es $5^2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes afirmaciones es correcta respecto a $(-2)^4$ y $-2^4$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son expresiones equivalentes y ambas valen 16.",
+          "is_correct": false,
+          "feedback": "Los paréntesis cambian significativamente la operación."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2)^4 = 16$ y $-2^4 = -16$.",
+          "is_correct": true,
+          "feedback": "En la primera la base es $-2$, en la segunda el signo no es parte de la potencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas expresiones resultan en $-16$.",
+          "is_correct": false,
+          "feedback": "Una potencia con base negativa y exponente par siempre es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2)^4$ no está definido en los números reales.",
+          "is_correct": false,
+          "feedback": "Las potencias de base negativa con exponente entero están perfectamente definidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En $(-2)^4$, la base es $-2$, y $(-2) \\cdot (-2) \\cdot (-2) \\cdot (-2) = 16$. En $-2^4$, la base es $2$ y el signo menos está fuera de la potencia: $-(2 \\cdot 2 \\cdot 2 \\cdot 2) = -16$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v5",
+      "statement": "Si hoy el hongo mide $9 \\text{ mm}$, ¿cuál será su medida en $3$ días más, expresada como una potencia de base 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3^3 \\text{ mm}$",
+          "is_correct": false,
+          "feedback": "Olvidaste incluir la medida inicial de 9 mm."
+        },
+        {
+          "letter": "B",
+          "text": "$3^5 \\text{ mm}$",
+          "is_correct": true,
+          "feedback": "$9 = 3^2$; en 3 días se multiplica por $3^3$. Entonces $3^2 \\cdot 3^3 = 3^5$."
+        },
+        {
+          "letter": "C",
+          "text": "$3^6 \\text{ mm}$",
+          "is_correct": false,
+          "feedback": "Has sumado días a la medida inicial de forma incorrecta o multiplicado bases."
+        },
+        {
+          "letter": "D",
+          "text": "$3^2 \\text{ mm}$",
+          "is_correct": false,
+          "feedback": "Esa es la medida actual del hongo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La medida inicial es $9 = 3^2 \\text{ mm}$. Si triplica su tamaño cada día, en 3 días se habrá multiplicado por $3 \\cdot 3 \\cdot 3 = 3^3$. La medida final será $3^2 \\cdot 3^3 = 3^{2+3} = 3^5 \\text{ mm}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado de racionalizar $\\frac{3}{\\sqrt{3}}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "No puedes cancelar directamente una raíz con un número entero."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Error en el proceso de simplificación tras multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "$\\frac{3\\sqrt{3}}{3} = \\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Olvidaste simplificar el denominador después de multiplicar por la raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicamos numerador y denominador por $\\sqrt{3}$ para eliminar la raíz del denominador: $\\frac{3 \\cdot \\sqrt{3}}{\\sqrt{3} \\cdot \\sqrt{3}} = \\frac{3\\sqrt{3}}{3}$. Al simplificar los 3, obtenemos $\\sqrt{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v7",
+      "statement": "¿A qué expresión equivale $2\\sqrt{18}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{36}$",
+          "is_correct": false,
+          "feedback": "Introducir un factor a la raíz requiere elevarlo al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Esa es solo la simplificación de $\\sqrt{18}$, falta multiplicar por 2."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "$\\sqrt{18} = 3\\sqrt{2}$; multiplicando por 2 resulta $6\\sqrt{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Multiplicaste por 4 en lugar de por 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero simplificamos la raíz: $\\sqrt{18} = \\sqrt{9 \\cdot 2} = 3\\sqrt{2}$. Luego multiplicamos este resultado por el coeficiente exterior: $2 \\cdot 3\\sqrt{2} = 6\\sqrt{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v8",
+      "statement": "Si $g = 10 \\text{ m/s}^2$ y $h = 5 \\text{ m}$, ¿cuál es la velocidad $v$ en $\\text{m/s}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Olvidaste extraer la raíz cuadrada del producto calculado."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "$\\sqrt{2 \\cdot 10 \\cdot 5} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Error en el cálculo del producto dentro de la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Error al realizar la multiplicación bajo el radical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos los valores en la fórmula: $v = \\sqrt{2 \\cdot 10 \\cdot 5}$. Resolvemos la multiplicación: $2 \\cdot 10 \\cdot 5 = 100$. Finalmente, calculamos la raíz cuadrada de 100, que es 10.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v9",
+      "statement": "Simplifique la expresión: $\\sqrt[3]{8x^6y^3}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^3y$",
+          "is_correct": false,
+          "feedback": "Dividiste el exponente de $x$ por 2 en lugar de 3."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2y$",
+          "is_correct": true,
+          "feedback": "$\\sqrt[3]{8}=2$, $6/3=2$ y $3/3=1$."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^2y$",
+          "is_correct": false,
+          "feedback": "Olvidaste extraer la raíz cúbica del coeficiente 8."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2y$",
+          "is_correct": false,
+          "feedback": "Calculaste la raíz cuadrada de 8 o un valor erróneo para la raíz cúbica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extraemos la raíz cúbica de cada factor por separado: $\\sqrt[3]{8} = 2$. Para las variables, dividimos los exponentes por el índice de la raíz: $x^{6/3} = x^2$ y $y^{3/3} = y^1$. El resultado es $2x^2y$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v10",
+      "statement": "¿Para qué valores de $x$ la expresión $\\sqrt{x - 4}$ representa un número real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para cualquier valor de $x$ real.",
+          "is_correct": false,
+          "feedback": "Las raíces cuadradas de números negativos no son reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 4$",
+          "is_correct": false,
+          "feedback": "Esto haría que el argumento fuera negativo, invalidando la raíz en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\geq 4$",
+          "is_correct": true,
+          "feedback": "Asegura que el argumento sea mayor o igual a cero."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 0$",
+          "is_correct": false,
+          "feedback": "No es suficiente; si $x=1$, $1-4=-3$, cuya raíz no es real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que una raíz de índice par (como la raíz cuadrada) sea un número real, su cantidad subradical debe ser mayor o igual a cero. Planteamos la inecuación: $x - 4 \\geq 0$, lo que implica $x \\geq 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la medida del radio del círculo en $\\text{cm}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Has simplificado mal la raíz de 75, revisa el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Error aritmético en el despeje o en la simplificación de la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "$r^2 = 75 \\Rightarrow r = \\sqrt{75} = \\sqrt{25 \\cdot 3} = 5\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Invertiste los factores en la simplificación de la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula del área es $A = \\pi r^2$. Igualamos: $75\\pi = \\pi r^2$, de donde $r^2 = 75$. Extraemos raíz: $r = \\sqrt{75}$. Simplificamos buscando un cuadrado perfecto: $\\sqrt{25 \\cdot 3} = 5\\sqrt{3} \\text{ cm}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v12",
+      "statement": "Simplifique la expresión: $\\frac{(2^3)^2 \\cdot 4^2}{2^{10}}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Calculaste mal la potencia de 4 como base 2 o sumaste mal exponentes."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "$\\frac{2^6 \\cdot (2^2)^2}{2^{10}} = \\frac{2^6 \\cdot 2^4}{2^{10}} = \\frac{2^{10}}{2^{10}} = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$2^2$",
+          "is_correct": false,
+          "feedback": "Error en la suma o resta de los exponentes durante la simplificación."
+        },
+        {
+          "letter": "D",
+          "text": "$2^4$",
+          "is_correct": false,
+          "feedback": "Olvidaste el exponente de la potencia de potencia en el denominador o el numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero igualamos las bases: $4^2 = (2^2)^2 = 2^4$. Aplicamos potencia de una potencia: $(2^3)^2 = 2^6$. La expresión queda: $\\frac{2^6 \\cdot 2^4}{2^{10}}$. Sumamos exponentes arriba: $2^{10}$. Finalmente $\\frac{2^{10}}{2^{10}} = 2^0 = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el resultado de $\\sqrt{12} + \\sqrt{27} - \\sqrt{48}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{-9}$",
+          "is_correct": false,
+          "feedback": "No se pueden sumar o restar los argumentos de las raíces directamente bajo un solo radical."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "$2\\sqrt{3} + 3\\sqrt{3} - 4\\sqrt{3} = 1\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los coeficientes tras simplificar cada radical."
+        },
+        {
+          "letter": "D",
+          "text": "$9\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Sumaste todos los términos en lugar de realizar la resta del último."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificamos cada raíz: $\\sqrt{12} = 2\\sqrt{3}$, $\\sqrt{27} = 3\\sqrt{3}$ y $\\sqrt{48} = 4\\sqrt{3}$. Ahora que tienen el mismo radical, operamos los coeficientes: $2 + 3 - 4 = 1$. El resultado es $\\sqrt{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes igualdades es FALSA para números reales positivos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{a \\cdot b} = \\sqrt{a} \\cdot \\sqrt{b}$",
+          "is_correct": false,
+          "feedback": "Esta es una propiedad verdadera y fundamental de las raíces."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{a + b} = \\sqrt{a} + \\sqrt{b}$",
+          "is_correct": true,
+          "feedback": "¡Falso! La raíz no es distributiva respecto a la suma. Por ejemplo $\\sqrt{9+16} \\neq 3+4$."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\sqrt{a})^2 = a$",
+          "is_correct": false,
+          "feedback": "Para números positivos, esta propiedad siempre se cumple por definición."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{a/b} = \\sqrt{a}/\\sqrt{b}$",
+          "is_correct": false,
+          "feedback": "La raíz sí es distributiva respecto al cociente o división."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La raíz cuadrada es una operación distributiva respecto al producto y al cociente, pero NO respecto a la suma o la resta. Un contraejemplo sencillo es $\\sqrt{9+16} = \\sqrt{25} = 5$, mientras que $\\sqrt{9} + \\sqrt{16} = 3 + 4 = 7$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el orden de mayor a menor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a > b > c$",
+          "is_correct": false,
+          "feedback": "El número $b$ es mayor que $a$."
+        },
+        {
+          "letter": "B",
+          "text": "$b > a > c$",
+          "is_correct": true,
+          "feedback": "$b = \\sqrt{20} \\approx 4,47$; $a = \\sqrt{18} \\approx 4,24$; $c = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$c > a > b$",
+          "is_correct": false,
+          "feedback": "El número $c$ es el menor de los tres."
+        },
+        {
+          "letter": "D",
+          "text": "$b > c > a$",
+          "is_correct": false,
+          "feedback": "El número $a$ es mayor que $c$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar, introducimos los coeficientes dentro de las raíces: $a = \\sqrt{3^2 \\cdot 2} = \\sqrt{18}$, $b = \\sqrt{2^2 \\cdot 5} = \\sqrt{20}$, y $c = \\sqrt{16}$. Comparando los argumentos: $20 > 18 > 16$. Por lo tanto, $b > a > c$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v16",
+      "statement": "Si la diagonal de un rectángulo de lados $a$ y $b$ es $d = \\sqrt{a^2 + b^2}$, ¿cuál es su valor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{7} \\text{ m}$",
+          "is_correct": false,
+          "feedback": "Sumaste los lados antes de elevarlos al cuadrado, lo cual es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$5 \\text{ m}$",
+          "is_correct": true,
+          "feedback": "$\\sqrt{4^2 + 3^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$7 \\text{ m}$",
+          "is_correct": false,
+          "feedback": "Sumaste los lados directamente sin considerar los cuadrados ni la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$25 \\text{ m}$",
+          "is_correct": false,
+          "feedback": "Olvidaste extraer la raíz cuadrada final del resultado de la suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos el teorema de Pitágoras: la diagonal al cuadrado es la suma de los cuadrados de los catetos. $d^2 = 4^2 + 3^2 = 16 + 9 = 25$. Para hallar la diagonal, extraemos la raíz cuadrada: $d = \\sqrt{25} = 5$ metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor de $16^{-3/4}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8",
+          "is_correct": false,
+          "feedback": "Un exponente negativo indica inversión de la base, no un resultado negativo."
+        },
+        {
+          "letter": "B",
+          "text": "1/8",
+          "is_correct": true,
+          "feedback": "$(\\sqrt[4]{16})^{-3} = 2^{-3} = 1/8$."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Olvidaste que el exponente negativo invierte la base de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "1/12",
+          "is_correct": false,
+          "feedback": "Error al calcular la raíz o la potencia del número base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero resolvemos el exponente fraccionario (raíz cuarta): $\\sqrt[4]{16} = 2$. Luego aplicamos la potencia: $2^3 = 8$. Finalmente, el signo negativo del exponente invierte el resultado: $1/8$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v18",
+      "statement": "Si $x^2 = \\sqrt{81}$, ¿cuáles son los posibles valores reales de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo 9",
+          "is_correct": false,
+          "feedback": "$\\sqrt{81}=9$, pero estás buscando $x$ tal que $x^2=9$."
+        },
+        {
+          "letter": "B",
+          "text": "Solo 3",
+          "is_correct": false,
+          "feedback": "Olvidaste incluir la solución negativa válida para esta ecuación cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "3 y -3",
+          "is_correct": true,
+          "feedback": "$x^2 = 9 \\Rightarrow x = \\pm\\sqrt{9} \\Rightarrow x = \\pm 3$."
+        },
+        {
+          "letter": "D",
+          "text": "9 y -9",
+          "is_correct": false,
+          "feedback": "Confundiste el resultado de la raíz de 81 con el valor final de la incógnita $x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero calculamos el lado derecho: $\\sqrt{81} = 9$. La ecuación es $x^2 = 9$. Al despejar $x$, debemos considerar tanto la raíz positiva como la negativa: $x = \\sqrt{9}$ o $x = -\\sqrt{9}$. Por lo tanto, $x$ puede ser 3 o $-3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v19",
+      "statement": "¿A qué equivale la expresión $\\sqrt{x\\sqrt{x}}$ para $x > 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Las raíces no se anulan de esa forma simplista."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{1/4}$",
+          "is_correct": false,
+          "feedback": "Olvidaste considerar la $x$ que se encuentra fuera de la raíz interna."
+        },
+        {
+          "letter": "C",
+          "text": "$x^{3/4}$",
+          "is_correct": true,
+          "feedback": "$\\sqrt{x \\cdot x^{1/2}} = \\sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{1/2}$",
+          "is_correct": false,
+          "feedback": "Error al combinar los exponentes de las raíces anidadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Expresamos las raíces como exponentes: $\\sqrt{x \\cdot x^{1/2}}$. Sumamos los exponentes dentro de la raíz mayor: $x^1 \\cdot x^{1/2} = x^{3/2}$. Aplicamos la raíz exterior: $(x^{3/2})^{1/2}$. Multiplicamos los exponentes: $3/2 \\cdot 1/2 = 3/4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes igualdades es correcta para cualquier número real $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{a^2} = a$",
+          "is_correct": false,
+          "feedback": "Solo es cierto si $a$ es no negativo. Si $a=-3$, $\\sqrt{(-3)^2}=3$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{a^2} = |a|$",
+          "is_correct": true,
+          "feedback": "Esta es la definición correcta de la raíz cuadrada de un cuadrado en $\\mathbb{R}$."
+        },
+        {
+          "letter": "C",
+          "text": "$(a^{1/2})^2 = |a|$",
+          "is_correct": false,
+          "feedback": "Para que $a^{1/2}$ exista en los reales, $a$ debe ser no negativo necesariamente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt[3]{a^3} = |a|$",
+          "is_correct": false,
+          "feedback": "Las raíces de índice impar conservan el signo original de la base, no requieren valor absoluto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La raíz cuadrada de un número al cuadrado, $\\sqrt{a^2}$, siempre devuelve el valor absoluto de $a$. Esto se debe a que el resultado de una raíz de índice par debe ser siempre no negativo por convención en los números reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W03-potencias-raices-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

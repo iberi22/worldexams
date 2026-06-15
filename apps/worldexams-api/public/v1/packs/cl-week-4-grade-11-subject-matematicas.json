@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cl",
+    "pack_id": "cl-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:43:11.335Z"
+  },
+  "questions": [
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "En el término algebraico $-5x^3y^2$, ¿cuál es el coeficiente numérico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "El signo menos también forma parte integral del coeficiente numérico."
+        },
+        {
+          "letter": "B",
+          "text": "-5",
+          "is_correct": true,
+          "feedback": "Correcto, el coeficiente numérico incluye el valor absoluto y su signo."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3y^2$",
+          "is_correct": false,
+          "feedback": "Este bloque representa el factor literal, no el coeficiente numérico."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Este valor es un exponente dentro del factor literal de la expresión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un término algebraico consta de un coeficiente numérico (el número con su signo) y un factor literal (las letras con sus exponentes). En $-5x^3y^2$, el coeficiente es $-5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes términos es semejante a $3ab^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3a^2b$",
+          "is_correct": false,
+          "feedback": "Los exponentes de las letras no coinciden exactamente."
+        },
+        {
+          "letter": "B",
+          "text": "$-7ab^2$",
+          "is_correct": true,
+          "feedback": "Correcto, tienen exactamente el mismo factor literal ($ab^2$)."
+        },
+        {
+          "letter": "C",
+          "text": "$3ab$",
+          "is_correct": false,
+          "feedback": "Falta el exponente 2 en la letra $b$ para ser semejante."
+        },
+        {
+          "letter": "D",
+          "text": "$3a^2b^2$",
+          "is_correct": false,
+          "feedback": "El exponente de la letra $a$ es diferente al término original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos o más términos son semejantes si tienen el mismo factor literal, es decir, las mismas letras elevadas a los mismos exponentes, sin importar el coeficiente numérico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "Reduzca la siguiente expresión: $5x + 3y - 2x + 4y$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10xy$",
+          "is_correct": false,
+          "feedback": "No se pueden sumar términos con distintas letras ($x$ e $y$) en uno solo."
+        },
+        {
+          "letter": "B",
+          "text": "$3x + 7y$",
+          "is_correct": true,
+          "feedback": "$5x - 2x = 3x$ y $3y + 4y = 7y$."
+        },
+        {
+          "letter": "C",
+          "text": "$7x + 7y$",
+          "is_correct": false,
+          "feedback": "Sumaste $5x$ y $2x$ en lugar de realizar la resta indicada."
+        },
+        {
+          "letter": "D",
+          "text": "$3x - y$",
+          "is_correct": false,
+          "feedback": "Error al realizar la suma de los términos constantes de $y$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reducir términos semejantes, agrupamos los que tienen la misma letra: $(5x - 2x) + (3y + 4y)$. Realizamos las operaciones con los coeficientes: $5 - 2 = 3$ y $3 + 4 = 7$. El resultado es $3x + 7y$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el grado del polinomio $P(x) = 4x^5 - 2x^2 + 7$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Este es el exponente del segundo término, no el mayor del polinomio."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Este es el término independiente, no representa un exponente."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "El grado de un polinomio de una variable es el mayor exponente de dicha variable."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Este es el coeficiente del término de mayor grado, no el grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El grado de un polinomio con una sola variable es el exponente más alto al que está elevada dicha variable. En $4x^5 - 2x^2 + 7$, el exponente más alto es 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "Si $a = 2$ y $b = -3$, ¿cuál es el valor de $a^2 - 2b$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de las potencias o en la multiplicación por la variable."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "$2^2 - 2(-3) = 4 + 6 = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "-10",
+          "is_correct": false,
+          "feedback": "Error en el manejo de los signos al multiplicar $-2$ por $-3$."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error aritmético básico en la suma final de los términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos los valores: $2^2 - 2(-3)$. Resolvemos la potencia: $2^2 = 4$. Luego la multiplicación: $-2 \\cdot -3 = 6$. Finalmente sumamos: $4 + 6 = 10$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "¿A qué expresión equivale $3x(2x - 5)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x - 15x$",
+          "is_correct": false,
+          "feedback": "Olvidaste elevar la variable $x$ al cuadrado en el primer término resultante."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2 - 15x$",
+          "is_correct": true,
+          "feedback": "$3x \\cdot 2x = 6x^2$ y $3x \\cdot -5 = -15x$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 5$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar el segundo término del binomio por el monomio exterior."
+        },
+        {
+          "letter": "D",
+          "text": "$5x^2 - 8x$",
+          "is_correct": false,
+          "feedback": "Sumaste los coeficientes en lugar de realizar la multiplicación correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la propiedad distributiva multiplicando $3x$ por cada término dentro del paréntesis: $(3x \\cdot 2x) + (3x \\cdot -5)$. Multiplicamos coeficientes y sumamos exponentes de las letras iguales: $6x^2 - 15x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "Desarrolle la expresión $(x + 4)^2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 16$",
+          "is_correct": false,
+          "feedback": "Olvidaste el término central que es el doble del primero por el segundo."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 8x + 16$",
+          "is_correct": true,
+          "feedback": "Aplicando la regla $(a+b)^2 = a^2 + 2ab + b^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 4x + 16$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar el término central del desarrollo por el factor 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 8$",
+          "is_correct": false,
+          "feedback": "Multiplicaste por 2 en lugar de elevar al cuadrado los términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuadrado de un binomio sigue la regla: el primer término al cuadrado ($x^2$), más el doble del producto del primero por el segundo ($2 \\cdot x \\cdot 4 = 8x$), más el segundo al cuadrado ($4^2 = 16$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "Si el ancho se representa por $x$, ¿cuál es la expresión para el área de la habitación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 3$",
+          "is_correct": false,
+          "feedback": "Esa es la expresión que define el largo, no el área total."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 3x$",
+          "is_correct": true,
+          "feedback": "Área = $ancho \\cdot largo = x(2x + 3) = 2x^2 + 3x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 3x$",
+          "is_correct": false,
+          "feedback": "Error al expresar el largo como el doble exacto del ancho."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2$",
+          "is_correct": false,
+          "feedback": "Error al interpretar la relación aditiva y multiplicativa entre largo y ancho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ancho es $x$ y el largo es $2x + 3$. El área de un rectángulo es el producto de sus lados: $x \\cdot (2x + 3)$. Al distribuir el ancho $x$, obtenemos $2x^2 + 3x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Simplifique la expresión $\\frac{10a^3b^2}{5ab^2}$ para $a, b \\neq 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2a^3$",
+          "is_correct": false,
+          "feedback": "Olvidaste restar correctamente los exponentes de la letra $a$."
+        },
+        {
+          "letter": "B",
+          "text": "$2a^2$",
+          "is_correct": true,
+          "feedback": "$10/5 = 2$; $a^{3-1} = a^2$; $b^{2-2} = b^0 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$5a^2$",
+          "is_correct": false,
+          "feedback": "Restaste los coeficientes numéricos en lugar de realizar la división."
+        },
+        {
+          "letter": "D",
+          "text": "$2a^2b$",
+          "is_correct": false,
+          "feedback": "La letra $b$ se cancela ya que sus exponentes son iguales en numerador y denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividimos los coeficientes numéricos: $10 / 5 = 2$. Para las letras, restamos los exponentes de la misma base: $a^{3-1} = a^2$ y $b^{2-2} = b^0 = 1$. El resultado es $2a^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el resultado de $(3x - 2)(3x + 2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9x^2 + 4$",
+          "is_correct": false,
+          "feedback": "El signo entre los términos resultantes debe ser siempre negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$9x^2 - 4$",
+          "is_correct": true,
+          "feedback": "Aplicando la regla notable $(a-b)(a+b) = a^2 - b^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 4$",
+          "is_correct": false,
+          "feedback": "Olvidaste elevar el coeficiente numérico 3 al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$9x^2 - 12x + 4$",
+          "is_correct": false,
+          "feedback": "Este resultado corresponde a un binomio al cuadrado, no a una suma por diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es un producto notable llamado \"Suma por su diferencia\", cuyo resultado es el cuadrado del primer término menos el cuadrado del segundo: $(3x)^2 - (2)^2 = 9x^2 - 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "Factorice completamente la expresión $6x^2y - 9xy^2$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x(2xy - 3y^2)$",
+          "is_correct": false,
+          "feedback": "Falta extraer el factor común de la variable $y$."
+        },
+        {
+          "letter": "B",
+          "text": "$3xy(2x - 3y)$",
+          "is_correct": true,
+          "feedback": "El máximo común divisor de los términos es $3xy$."
+        },
+        {
+          "letter": "C",
+          "text": "$xy(6x - 9y)$",
+          "is_correct": false,
+          "feedback": "No extrajiste el factor común numérico que es 3."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2y^2(2 - 3)$",
+          "is_correct": false,
+          "feedback": "Error al determinar los exponentes correctos de los factores comunes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el factor común: el MCD de 6 y 9 es 3; las letras comunes con menor exponente son $x$ e $y$. El factor común es $3xy$. Dividimos cada término: $6x^2y / 3xy = 2x$ y $9xy^2 / 3xy = 3y$. Queda $3xy(2x - 3y)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la factorización de $x^2 - 5x + 6$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 6)(x + 1)$",
+          "is_correct": false,
+          "feedback": "La suma es -5, pero el producto resultante es -6 y buscamos +6."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)(x - 2)$",
+          "is_correct": true,
+          "feedback": "Se cumple que $-3 + -2 = -5$ y $-3 \\cdot -2 = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x + 2)$",
+          "is_correct": false,
+          "feedback": "El producto es 6, pero la suma da +5 en lugar de -5."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 1)(x - 6)$",
+          "is_correct": false,
+          "feedback": "El producto es 6, pero la suma de los términos es -7."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos dos números que sumados den $-5$ (coeficiente de $x$) y multiplicados den $6$ (término independiente). Esos números son $-3$ y $-2$. Por lo tanto, la expresión factorizada es $(x - 3)(x - 2)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13",
+      "statement": "Reste $(2a^2 - 3a + 5)$ de $(5a^2 + a - 2)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3a^2 + 4a + 7$",
+          "is_correct": false,
+          "feedback": "Error en el signo final del término independiente."
+        },
+        {
+          "letter": "B",
+          "text": "$3a^2 + 4a - 7$",
+          "is_correct": true,
+          "feedback": "$(5-2)a^2 + (1 - (-3))a + (-2-5) = 3a^2 + 4a - 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$7a^2 - 2a + 3$",
+          "is_correct": false,
+          "feedback": "Sumaste los polinomios en lugar de realizar la resta indicada."
+        },
+        {
+          "letter": "D",
+          "text": "$3a^2 - 2a - 7$",
+          "is_correct": false,
+          "feedback": "Error en el manejo del signo negativo ante el término del medio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la resta: $(5a^2 + a - 2) - (2a^2 - 3a + 5)$. Cambiamos los signos del segundo polinomio: $5a^2 + a - 2 - 2a^2 + 3a - 5$. Agrupamos términos semejantes: $(5-2)a^2 = 3a^2$; $(1+3)a = 4a$; $(-2-5) = -7$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la factorización de $4x^2 - 25$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x - 5)^2$",
+          "is_correct": false,
+          "feedback": "Este es el desarrollo de un binomio al cuadrado, no una diferencia de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x - 5)(2x + 5)$",
+          "is_correct": true,
+          "feedback": "Diferencia de cuadrados siguiendo $a^2 - b^2 = (a-b)(a+b)$."
+        },
+        {
+          "letter": "C",
+          "text": "$2(x - 5)(x + 5)$",
+          "is_correct": false,
+          "feedback": "Olvidaste que el coeficiente 4 también debe ser extraído como raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$(4x - 5)(4x + 5)$",
+          "is_correct": false,
+          "feedback": "La raíz cuadrada de $4x^2$ es $2x$, no $4x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una diferencia de cuadrados perfectos: $4x^2$ es $(2x)^2$ y $25$ es $5^2$. La regla indica que $a^2 - b^2 = (a-b)(a+b)$, por lo que la factorización es $(2x-5)(2x+5)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la expresión para el área del cuadrado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 - 9$",
+          "is_correct": false,
+          "feedback": "Error al no incluir el término central necesario en el cuadrado de un binomio."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2 - 12x + 9$",
+          "is_correct": true,
+          "feedback": "$(2x - 3)^2 = (2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$."
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2 + 12x + 9$",
+          "is_correct": false,
+          "feedback": "El término central debe ser negativo debido al signo del binomio original."
+        },
+        {
+          "letter": "D",
+          "text": "$4x - 6$",
+          "is_correct": false,
+          "feedback": "Multiplicaste por el factor 2 en lugar de elevar al cuadrado la medida del lado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un cuadrado es lado al cuadrado: $(2x - 3)^2$. Aplicamos el producto notable del cuadrado del binomio: cuadrado del primero ($4x^2$), menos el doble del primero por el segundo ($2 \\cdot 2x \\cdot 3 = 12x$), más el cuadrado del segundo ($9$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16",
+      "statement": "Si $v = 5$, $a = 2$ y $t = x$, ¿cuál es la expresión algebraica para la distancia $d$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x + x$",
+          "is_correct": false,
+          "feedback": "Olvidaste elevar la variable del tiempo $t$ al cuadrado en el segundo término."
+        },
+        {
+          "letter": "B",
+          "text": "$5x + x^2$",
+          "is_correct": true,
+          "feedback": "$5(x) + \\frac{1}{2}(2)(x^2) = 5x + x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$5x + 2x^2$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar por la constante $1/2$ de la fórmula original."
+        },
+        {
+          "letter": "D",
+          "text": "$7x^2$",
+          "is_correct": false,
+          "feedback": "No puedes sumar términos que no son semejantes entre sí ($x$ y $x^2$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos las variables: $d = 5 \\cdot x + \\frac{1}{2} \\cdot 2 \\cdot x^2$. Simplificamos el segundo término: $\\frac{1}{2} \\cdot 2 = 1$. La expresión final es $5x + x^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17",
+      "statement": "Simplifique la expresión $\\frac{x^2 - 9}{x^2 + 6x + 9}$ para $x \\neq -3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{-9}{6x+9}$",
+          "is_correct": false,
+          "feedback": "No es válido simplificar términos individuales que están sumando o restando."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x - 3}{x + 3}$",
+          "is_correct": true,
+          "feedback": "$\\frac{(x-3)(x+3)}{(x+3)^2} = \\frac{x-3}{x+3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Los polinomios de numerador y denominador no son equivalentes."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x + 3}{x - 3}$",
+          "is_correct": false,
+          "feedback": "Invertiste las expresiones del numerador y el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorizamos numerador y denominador: el numerador es una diferencia de cuadrados $(x-3)(x+3)$; el denominador es un cuadrado de binomio $(x+3)^2$. Al dividir, cancelamos un factor $(x+3)$, resultando en $\\frac{x-3}{x+3}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué valor debe tener $k$ en la expresión $x^2 + 10x + k$ para que sea un cuadrado de binomio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "El término independiente debe ser el cuadrado de la mitad del coeficiente lineal."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Esta es la raíz cuadrada del valor que estás buscando."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "$(10/2)^2 = 5^2 = 25$."
+        },
+        {
+          "letter": "D",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Elevaste al cuadrado el coeficiente 10 sin dividirlo por 2 previamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un cuadrado de binomio $x^2 + 2ax + a^2$, el coeficiente de $x$ es $2a$ y el término independiente es $a^2$. Si $2a = 10$, entonces $a = 5$. Por lo tanto, $k$ debe ser $a^2 = 5^2 = 25$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el resultado de desarrollar $(x - 2)^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 - 8$",
+          "is_correct": false,
+          "feedback": "Olvidaste los términos intermedios generados por el cubo de un binomio."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 - 6x^2 + 12x - 8$",
+          "is_correct": true,
+          "feedback": "Aplicando la regla $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 - 2x^2 + 4x - 8$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar los términos intermedios por el factor constante 3."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": false,
+          "feedback": "Los signos deben alternarse necesariamente en el cubo de una resta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cubo de un binomio sigue la regla: $a^3 - 3a^2b + 3ab^2 - b^3$. Aquí $a=x$ y $b=2$. Entonces: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la factorización correcta de $x^3 + 27$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 3)^3$",
+          "is_correct": false,
+          "feedback": "El cubo de un binomio produce términos intermedios que no se encuentran en esta expresión."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x^2 - 3x + 9)$",
+          "is_correct": true,
+          "feedback": "Regla: $a^3 + b^3 = (a+b)(a^2 - ab + b^2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x^2 + 3x + 9)$",
+          "is_correct": false,
+          "feedback": "El término central del trinomio resultante debe ser negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 3)(x^2 + 3x + 9)$",
+          "is_correct": false,
+          "feedback": "Este es el resultado correcto para una diferencia de cubos ($x^3 - 27$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de cubos se factoriza como el producto de un binomio por un trinomio: $a^3 + b^3 = (a+b)(a^2 - ab + b^2)$. Si $a=x$ y $b=3$ (ya que $3^3 = 27$), la expresión es $(x + 3)(x^2 - 3x + 9)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
