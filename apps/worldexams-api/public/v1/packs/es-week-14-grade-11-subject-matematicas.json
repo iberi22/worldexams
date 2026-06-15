@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-14-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:52:09.941Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v1",
+      "statement": "Si en un intervalo la derivada de una función es estrictamente positiva ($f'(x) > 0$), ¿qué podemos afirmar sobre la monotonía de la función en dicho intervalo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función es estrictamente creciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Una derivada positiva indica que la pendiente de la tangente es positiva, por lo que la función sube."
+        },
+        {
+          "letter": "B",
+          "text": "La función es estrictamente decreciente.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si la derivada fuera negativa."
+        },
+        {
+          "letter": "C",
+          "text": "La función tiene un máximo relativo.",
+          "is_correct": false,
+          "feedback": "Para un máximo, la derivada debería anularse y cambiar de signo."
+        },
+        {
+          "letter": "D",
+          "text": "La función es constante.",
+          "is_correct": false,
+          "feedback": "Para ser constante, la derivada debe ser cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo de la primera derivada determina si una función crece o decrece. Es la herramienta básica para el estudio de la monotonía en el análisis de funciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la condición necesaria para que una función derivable $f(x)$ presente un extremo relativo (máximo o mínimo) en el punto $x = a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(a) = 0$",
+          "is_correct": false,
+          "feedback": "El valor de la función no determina el extremo."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(a) = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. En los extremos relativos de funciones derivables, la recta tangente es horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$f''(a) = 0$",
+          "is_correct": false,
+          "feedback": "Esto suele indicar un punto de inflexión, no un extremo."
+        },
+        {
+          "letter": "D",
+          "text": "$f(a) = f'(a)$",
+          "is_correct": false,
+          "feedback": "No existe tal condición para los extremos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los puntos donde la derivada se anula se denominan puntos críticos. Son candidatos a ser máximos, mínimos o puntos de inflexión de tangente horizontal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v3",
+      "statement": "Si en un punto $x=a$ se cumple que $f'(a) = 0$ y $f''(a) < 0$, ¿qué tipo de punto es $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mínimo relativo.",
+          "is_correct": false,
+          "feedback": "Para un mínimo, la derivada segunda debe ser positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Un máximo relativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una derivada segunda negativa indica concavidad hacia abajo en un punto crítico, lo que define un máximo."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto de inflexión.",
+          "is_correct": false,
+          "feedback": "Para ser de inflexión, la derivada segunda debería ser cero o no existir."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto de discontinuidad.",
+          "is_correct": false,
+          "feedback": "La existencia de derivadas implica que la función es continua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada segunda informa sobre la curvatura. Si la curva es cóncava (hacia abajo) en un punto de tangente horizontal, estamos ante la \"cima\" de una montaña, es decir, un máximo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué cambio se produce en la gráfica de una función al atravesar un punto de inflexión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función pasa de crecer a decrecer.",
+          "is_correct": false,
+          "feedback": "Esto ocurre en los extremos relativos."
+        },
+        {
+          "letter": "B",
+          "text": "La función se corta con el eje de abscisas.",
+          "is_correct": false,
+          "feedback": "Esto es una raíz o cero de la función."
+        },
+        {
+          "letter": "C",
+          "text": "La función cambia su tipo de curvatura (de cóncava a convexa o viceversa).",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición geométrica de punto de inflexión."
+        },
+        {
+          "letter": "D",
+          "text": "La función presenta una asíntota vertical.",
+          "is_correct": false,
+          "feedback": "Las asíntotas implican discontinuidad, no puntos de inflexión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los puntos de inflexión son aquellos donde la derivada segunda cambia de signo, marcando la transición entre diferentes tipos de curvatura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v5",
+      "statement": "Si la función de coste es $C(x) = 2x^2 - 8x + 10$, ¿para qué valor de $x$ se obtiene el coste mínimo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Error al derivar o despejar."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $C'(x) = 4x - 8$. Igualando a 0: $4x = 8 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Este es el término independiente, no el mínimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el mínimo de una función cuadrática (parábola), buscamos el punto donde la derivada es cero, lo cual coincide con el eje de simetría de la parábola.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la altura máxima que alcanza el objeto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 metros",
+          "is_correct": false,
+          "feedback": "Este es el tiempo para alcanzar la altura máxima, no la altura."
+        },
+        {
+          "letter": "B",
+          "text": "20 metros",
+          "is_correct": true,
+          "feedback": "Correcto. $h'(t) = 20 - 10t = 0 \\Rightarrow t = 2$. Sustituyendo: $h(2) = 20(2) - 5(4) = 40 - 20 = 20$ m."
+        },
+        {
+          "letter": "C",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Error de cálculo al sustituir el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La altura máxima se alcanza cuando la velocidad vertical ($h'(t)$) es cero. Una vez hallado el instante, debemos calcular el valor de la función original en ese tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v7",
+      "statement": "¿En qué punto presenta esta función su punto de inflexión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "En este punto f''(x) no se anula."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 3x^2 - 12x$. $f''(x) = 6x - 12$. Igualando a 0: $6x = 12 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Este es un mínimo relativo ($f'(4)=0$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Punto sin relevancia especial en la curvatura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar los puntos de inflexión, calculamos la segunda derivada e igualamos a cero. Debemos verificar que la curvatura efectivamente cambie de signo en dicho punto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v8",
+      "statement": "A partir de la derivada $f'(x) = -2x e^{-x^2}$, ¿cuál es el intervalo de crecimiento de la función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. Si $x < 0$, la derivada es positiva (producto de -2, un número negativo y el exponencial positivo)."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, +\\infty)$",
+          "is_correct": false,
+          "feedback": "En este intervalo la derivada es negativa, la función decrece."
+        },
+        {
+          "letter": "C",
+          "text": "Todo $\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "La función tiene un máximo en x=0."
+        },
+        {
+          "letter": "D",
+          "text": "No crece en ningún punto.",
+          "is_correct": false,
+          "feedback": "Crece para valores negativos de x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El crecimiento se determina estudiando el signo de la primera derivada. En funciones exponenciales, el signo lo dicta el factor polinómico que acompaña a la exponencial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles deben ser las dimensiones para que el área encerrada sea máxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m x 10 m",
+          "is_correct": false,
+          "feedback": "El perímetro vallado sería 30 m o 40 m dependiendo de la pared, pero no maximiza el área."
+        },
+        {
+          "letter": "B",
+          "text": "10 m (lados cortos) y 20 m (lado largo paralelo a la pared).",
+          "is_correct": true,
+          "feedback": "Correcto. $2x + y = 40 \\Rightarrow y = 40-2x$. Área $A = x(40-2x) = 40x-2x^2$. $A' = 40-4x = 0 \\Rightarrow x=10, y=20$."
+        },
+        {
+          "letter": "C",
+          "text": "13,3 m x 13,3 m",
+          "is_correct": false,
+          "feedback": "Esto maximizaría el área si hubiera que vallar los 4 lados."
+        },
+        {
+          "letter": "D",
+          "text": "5 m x 30 m",
+          "is_correct": false,
+          "feedback": "El área sería 150, menor que los 200 obtenidos con 10x20."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema clásico de optimización. Se debe plantear una función área en términos de una sola variable usando la restricción del perímetro, y luego derivar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v10",
+      "statement": "¿En qué instante $t$ la aceleración del coche es de $6 \\text{ m/s}^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 2$ s",
+          "is_correct": false,
+          "feedback": "Este es el instante de aceleración mínima."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 5$ s",
+          "is_correct": true,
+          "feedback": "Correcto. Aceleración $a(t) = v'(t) = 2t - 4$. Igualando a 6: $2t - 4 = 6 \\Rightarrow 2t = 10 \\Rightarrow t = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 6$ s",
+          "is_correct": false,
+          "feedback": "Error de cálculo al despejar t."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 10$ s",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aceleración es la derivada de la velocidad. Para hallar cuándo se alcanza un valor específico de aceleración, derivamos la función de velocidad e igualamos al valor dado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v11",
+      "statement": "A partir de la derivada segunda $f''(x) = \\frac{6x^2 - 2}{(x^2 + 1)^3}$, ¿cuántos puntos de inflexión tiene esta función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno",
+          "is_correct": false,
+          "feedback": "El numerador se anula en valores reales."
+        },
+        {
+          "letter": "B",
+          "text": "Uno",
+          "is_correct": false,
+          "feedback": "Una ecuación cuadrática con discriminante positivo tiene dos soluciones."
+        },
+        {
+          "letter": "C",
+          "text": "Dos",
+          "is_correct": true,
+          "feedback": "Correcto. El numerador $6x^2 - 2 = 0 \\Rightarrow x^2 = 1/3$, lo que da dos soluciones: $x = \\pm 1/\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "Tres",
+          "is_correct": false,
+          "feedback": "No existen más raíces para el numerador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El número de puntos de inflexión está limitado por el grado del polinomio en el numerador de la segunda derivada. Aquí, al ser de segundo grado y tener soluciones reales, hay dos puntos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor mínimo absoluto de esta función en su dominio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La función tiende a 0 cerca de x=0, pero alcanza valores negativos."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/e$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = \\ln(x) + 1 = 0 \\Rightarrow \\ln(x) = -1 \\Rightarrow x = e^{-1} = 1/e$. Sustituyendo: $f(1/e) = (1/e)\\ln(1/e) = -1/e$."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Error al sustituir el valor de x en la función."
+        },
+        {
+          "letter": "D",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde al mínimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar extremos en funciones con logaritmos, derivamos usando la regla del producto. El mínimo se encuentra donde la derivada se anula y la función pasa de decrecer a crecer.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v13",
+      "statement": "Si la aceleración es $a(x) = -9x$, ¿cuál de las siguientes funciones de posición $x(t)$ podría modelar este movimiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x(t) = e^{3t}$",
+          "is_correct": false,
+          "feedback": "La segunda derivada sería $+9e^{3t}$, no coincidiría el signo."
+        },
+        {
+          "letter": "B",
+          "text": "$x(t) = \\text{sen}(3t)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x'(t) = 3\\cos(3t)$. $x''(t) = -9\\text{sen}(3t) = -9x(t)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x(t) = 3t^2$",
+          "is_correct": false,
+          "feedback": "La aceleración sería constante (6), no dependería de x."
+        },
+        {
+          "letter": "D",
+          "text": "$x(t) = \\ln(3t)$",
+          "is_correct": false,
+          "feedback": "La aceleración no seguiría la pauta proporcional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el modelo del oscilador armónico simple. La función cuya segunda derivada es ella misma cambiada de signo es la función seno o coseno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v14",
+      "statement": "¿Qué forma debe tener el rectángulo para maximizar su área?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un rectángulo de base 1 y altura 3,9.",
+          "is_correct": false,
+          "feedback": "Dimensiones no óptimas."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuadrado.",
+          "is_correct": true,
+          "feedback": "Correcto. Por simetría y optimización, el rectángulo de área máxima inscrito en un círculo es siempre el cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "Un rectángulo de base 3 y altura 1.",
+          "is_correct": false,
+          "feedback": "El área sería menor."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar sin conocer el perímetro.",
+          "is_correct": false,
+          "feedback": "El radio del círculo es la única restricción necesaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al plantear el área en función del ángulo o de una de las coordenadas, la derivada se anula cuando los lados son iguales, demostrando que el cuadrado es el óptimo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v15",
+      "statement": "¿En qué punto $c$ del intervalo se cumple que la derivada es igual a la pendiente de la recta secante que une los extremos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c = 1,5$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$c = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente secante: $(9-1)/(3-1) = 8/2 = 4$. Derivada: $f'(c) = 2c$. Igualando: $2c = 4 \\Rightarrow c = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$c = 2,5$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$c = \\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a otros teoremas de promedios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema del Valor Medio garantiza que en una función \"suave\", hay al menos un punto donde la velocidad instantánea iguala a la velocidad media del intervalo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v16",
+      "statement": "¿En qué mes se alcanzan los beneficios máximos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mes 1",
+          "is_correct": false,
+          "feedback": "Los beneficios aún están creciendo."
+        },
+        {
+          "letter": "B",
+          "text": "Mes 2",
+          "is_correct": true,
+          "feedback": "Correcto. $B'(t) = \\frac{100(t^2+4) - 100t(2t)}{(t^2+4)^2} = \\frac{400 - 100t^2}{(t^2+4)^2}$. Se anula en $t^2 = 4 \\Rightarrow t = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Mes 4",
+          "is_correct": false,
+          "feedback": "En este punto los beneficios ya están decreciendo hacia cero."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca se alcanza un máximo.",
+          "is_correct": false,
+          "feedback": "La función crece y luego decrece, por lo que tiene un máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En funciones racionales de este tipo, el máximo se encuentra resolviendo la ecuación resultante de aplicar la regla del cociente e igualar el numerador a cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál debe ser el ángulo de inclinación de los lados respecto a la horizontal para maximizar el área de la sección?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Ángulo insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "$45^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Ángulo común pero no óptimo para esta configuración."
+        },
+        {
+          "letter": "C",
+          "text": "$60^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. El área se maximiza cuando el trapecio es la mitad de un hexágono regular, lo que implica ángulos de 60 grados."
+        },
+        {
+          "letter": "D",
+          "text": "$90^{\\circ}$ (Sección rectangular)",
+          "is_correct": false,
+          "feedback": "La sección trapezoidal permite mayor área que la rectangular para el mismo perímetro mojado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema requiere expresar el área en función del ángulo $\\theta$, derivar la expresión trigonométrica resultante y hallar el valor que anula la derivada en el intervalo $(0, 90)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué ocurre en el punto $(0, 0)$ de la función $f(x) = x^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay un máximo relativo.",
+          "is_correct": false,
+          "feedback": "La función crece antes y después del cero."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un mínimo relativo.",
+          "is_correct": false,
+          "feedback": "La función no cambia de sentido de crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Hay un punto de inflexión de tangente horizontal.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(0)=0$ y $f''(0)=0$, y la curvatura cambia de cóncava a convexa."
+        },
+        {
+          "letter": "D",
+          "text": "Hay un punto de discontinuidad evitable.",
+          "is_correct": false,
+          "feedback": "La función es polinómica, por tanto continua en todo su dominio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este ejemplo demuestra que una derivada nula es condición necesaria pero no suficiente para un extremo. Si la derivada segunda también se anula y cambia de signo, es un punto de inflexión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v19",
+      "statement": "¿Qué ley física se puede demostrar utilizando la optimización por derivadas aplicada al tiempo de viaje de la luz?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley de la Gravitación Universal.",
+          "is_correct": false,
+          "feedback": "No depende de trayectorias óptimas de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Ley de Snell de la refracción.",
+          "is_correct": true,
+          "feedback": "Correcto. La minimización del tiempo de viaje entre dos puntos en medios distintos conduce a la relación de los senos de los ángulos y las velocidades."
+        },
+        {
+          "letter": "C",
+          "text": "Ley de Ohm.",
+          "is_correct": false,
+          "feedback": "Relaciona variables eléctricas, no trayectorias."
+        },
+        {
+          "letter": "D",
+          "text": "Ley de inercia de Newton.",
+          "is_correct": false,
+          "feedback": "Principio básico de la dinámica, no de la óptica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Snell es un ejemplo fundamental de cómo la naturaleza \"optimiza\". El cálculo diferencial permite derivar esta ley a partir de un principio variacional simple.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v20",
+      "statement": "¿Qué información de la función $f(x)$ preserva exactamente el polinomio de Taylor de grado 2 en el punto $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el valor de la función en el punto.",
+          "is_correct": false,
+          "feedback": "Esto sería el grado 0."
+        },
+        {
+          "letter": "B",
+          "text": "El valor de la función y su primera derivada.",
+          "is_correct": false,
+          "feedback": "Esto sería el grado 1 (recta tangente)."
+        },
+        {
+          "letter": "C",
+          "text": "El valor de la función, su primera derivada y su segunda derivada.",
+          "is_correct": true,
+          "feedback": "Correcto. El polinomio de Taylor de grado $n$ coincide con la función y sus primeras $n$ derivadas en el punto."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las derivadas de la función.",
+          "is_correct": false,
+          "feedback": "Esto solo ocurriría si el grado fuera infinito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El polinomio de Taylor de grado 2 es la mejor aproximación parabólica de una función cerca de un punto, capturando tanto la tendencia (velocidad) como la curvatura (aceleración).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-12-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:52:09.940Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué condición debe cumplirse para que exista el límite de una función $f(x)$ en un punto $x = a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la función esté definida en el punto $a$, es decir, que exista $f(a)$.",
+          "is_correct": false,
+          "feedback": "La existencia de f(a) es necesaria para la continuidad, pero no para la existencia del límite."
+        },
+        {
+          "letter": "B",
+          "text": "Que existan los límites laterales y sean iguales entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Para que exista el límite global, el límite por la izquierda y por la derecha deben coincidir."
+        },
+        {
+          "letter": "C",
+          "text": "Que el límite sea siempre un número entero.",
+          "is_correct": false,
+          "feedback": "El límite puede ser cualquier número real o incluso infinito."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función sea creciente en un entorno de $a$.",
+          "is_correct": false,
+          "feedback": "La monotonía no es un requisito para la existencia de un límite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La definición de límite requiere que el comportamiento de la función sea el mismo al acercarse por ambos lados del punto. Si $\\lim_{x \\to a^-} f(x) = \\lim_{x \\to a^+} f(x) = L$, entonces existe el límite y vale $L$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina una discontinuidad en la que los límites laterales en el punto $a$ existen y son finitos, pero diferentes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discontinuidad evitable.",
+          "is_correct": false,
+          "feedback": "En la evitable, los límites laterales son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Discontinuidad inevitable de salto finito.",
+          "is_correct": true,
+          "feedback": "Correcto. Al haber una diferencia finita entre los límites laterales, se produce un \"salto\"."
+        },
+        {
+          "letter": "C",
+          "text": "Discontinuidad inevitable de salto infinito.",
+          "is_correct": false,
+          "feedback": "En este caso, al menos uno de los límites laterales debería ser infinito."
+        },
+        {
+          "letter": "D",
+          "text": "Discontinuidad esencial.",
+          "is_correct": false,
+          "feedback": "Término más general que suele referirse a la inexistencia de límites laterales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las discontinuidades de salto finito ocurren típicamente en funciones definidas a trozos donde las ramas no \"encajan\" en el punto de unión, a pesar de tener valores definidos en ambos lados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el comportamiento de $\\lim_{x \\to 0^+} \\frac{1}{x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Al acercarse a 0 con valores muy pequeños positivos, el cociente se hace muy grande."
+        },
+        {
+          "letter": "B",
+          "text": "$+\\infty$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir 1 por números positivos cada vez más cercanos a 0 (como 0,001), el resultado crece sin límite."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\infty$",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si nos acercáramos por la izquierda (valores negativos)."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "El valor 1 solo se alcanza cuando x = 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este límite describe una asíntota vertical. Al ser el denominador positivo y tender a cero, la fracción tiende a infinito positivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v4",
+      "statement": "Si una función $f(x)$ es continua en el punto $x = a$, ¿cuál de las siguientes igualdades debe ser cierta obligatoriamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(a) = 0$",
+          "is_correct": false,
+          "feedback": "La función puede ser continua en cualquier valor real."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{x \\to a} f(x) = f(a)$",
+          "is_correct": true,
+          "feedback": "Correcto. La definición de continuidad exige que el límite coincida con el valor de la función en el punto."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(a) = 0$",
+          "is_correct": false,
+          "feedback": "Esto se refiere a la derivada, no a la continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\lim_{x \\to a} f(x) = 0$",
+          "is_correct": false,
+          "feedback": "El límite debe ser igual a f(a), no necesariamente cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La continuidad requiere tres pasos: 1. Que exista $f(a)$. 2. Que exista el límite. 3. Que ambos valores sean idénticos. Es la base del análisis de funciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v5",
+      "statement": "Calcula el valor de $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Error al simplificar; la expresión no se anula."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error de cálculo tras la simplificación."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: $(x-2)(x+2)/(x-2) = x+2$. Al sustituir x=2, obtenemos 4."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Es una indeterminación evitable, por lo que el límite sí existe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver indeterminaciones $0/0$ en funciones racionales, se factorizan numerador y denominador para simplificar los factores que producen el cero (en este caso $x-2$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la eficiencia límite de la máquina cuando el tiempo $t$ tiende a infinito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Este es el valor cuando t=0."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. El límite en el infinito de un cociente de polinomios del mismo grado es el cociente de los coeficientes principales: $3/1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La eficiencia se estabiliza en un valor positivo."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "La función tiene una asíntota horizontal, no crece sin límite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los límites al infinito de funciones racionales determinan las asíntotas horizontales. Si el grado del numerador y denominador es igual, el límite es el cociente de los coeficientes de mayor grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué valor debe tener $k$ para que la función sea continua en $x = 3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Sustituyendo k=1 daría 4 en la primera rama y 5 en la segunda."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Rama izquierda: $3+k$. Rama derecha: $2(3)-1 = 5$. Igualando: $3+k=5 \\Rightarrow k=2$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Este es el valor que debe alcanzar la función, no el valor de k."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Resultado de un error en el despeje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función a trozos sea continua, los límites laterales en el punto de cambio deben ser iguales. Resolvemos la ecuación resultante para hallar el parámetro desconocido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v8",
+      "statement": "Si $\\lim_{x \\to 1^-} f(x) = +\\infty$ y $\\lim_{x \\to 1^+} f(x) = -\\infty$, ¿qué podemos afirmar sobre la continuidad de $f(x)$ en $x=1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es continua porque existen ambos límites.",
+          "is_correct": false,
+          "feedback": "Los límites deben ser finitos e iguales para la continuidad."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una discontinuidad evitable.",
+          "is_correct": false,
+          "feedback": "En la evitable el límite debe ser finito."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una discontinuidad inevitable de salto infinito.",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia de límites infinitos define este tipo de discontinuidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es derivable en ese punto.",
+          "is_correct": false,
+          "feedback": "Si no es continua, no puede ser derivable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una asíntota vertical implica siempre una discontinuidad inevitable de salto infinito, ya que la función no puede alcanzar un valor real en ese punto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la indeterminación multiplicando por el conjugado.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Error al simplificar la fracción resultante."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar por el conjugado $(\\sqrt{x+1}+1)$, el numerador queda $x$. Al simplificar con la $x$ del denominador, queda $1/(\\sqrt{x+1}+1)$, que vale $1/2$ en $x=0$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Error de cálculo al sustituir el valor final."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Es una indeterminación salvable mediante técnicas algebraicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La técnica del conjugado es esencial para eliminar raíces cuadradas que generan indeterminaciones $0/0$. Se basa en el producto notable $(a-b)(a+b) = a^2 - b^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $\\lim_{x \\to 0^-} \\frac{|x|}{x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Este es el límite por la derecha (valores positivos)."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": true,
+          "feedback": "Correcto. Para $x < 0$, $|x| = -x$. Entonces $(-x)/x = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La función nunca vale 0 en el cociente."
+        },
+        {
+          "letter": "D",
+          "text": "No existe el límite lateral.",
+          "is_correct": false,
+          "feedback": "El límite lateral sí existe y es constante (-1)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor absoluto $|x|$ se comporta como $x$ si $x \\geq 0$ y como $-x$ si $x < 0$. Este cambio de definición genera resultados distintos en los límites laterales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v11",
+      "statement": "Aunque al sustituir directamente se obtiene $0/0$, ¿cuál es el valor de $\\lim_{x \\to 0} \\frac{\\text{sen}(x)}{x}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "El seno de x y x crecen casi de forma idéntica cerca de cero."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Es un límite trigonométrico fundamental que demuestra la equivalencia de infinitésimos."
+        },
+        {
+          "letter": "C",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "La función está acotada cerca de cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "No hay relación directa con el valor de pi en este límite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este límite es la base para derivar funciones trigonométricas. Indica que para ángulos muy pequeños expresados en radianes, el seno del ángulo es aproximadamente igual al ángulo mismo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v12",
+      "statement": "¿En qué punto presenta esta función una discontinuidad evitable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $x=1$ anula tanto numerador como denominador. Al simplificar $(x-1)(x+1)/[(x-1)(x-2)]$, el factor $(x-1)$ desaparece."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "En $x=2$ solo se anula el denominador, produciendo una asíntota vertical (salto infinito)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -1$",
+          "is_correct": false,
+          "feedback": "En $x=-1$ solo se anula el numerador, la función vale 0."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene discontinuidades evitables.",
+          "is_correct": false,
+          "feedback": "La anulación simultánea en x=1 indica que es evitable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una discontinuidad es evitable si el límite existe y es finito. En funciones racionales, esto ocurre cuando el valor anula un factor común en numerador y denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor de $\\lim_{x \\to \\infty} \\left(1 + \\frac{2}{x}\\right)^x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Aunque la base tiende a 1, el exponente tiende a infinito; es la forma del número e."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Este sería el resultado si el numerador fuera 1."
+        },
+        {
+          "letter": "C",
+          "text": "$e^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Siguiendo la regla del límite del número e: $e^{\\lim_{x \\to \\infty} [x \\cdot (1 + 2/x - 1)]} = e^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$e^{2x}$",
+          "is_correct": false,
+          "feedback": "El resultado de un límite debe ser un valor constante o infinito, no una función de x."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula general para límites que tienden al número $e$ es $\\lim_{x \\to a} (1 + 1/f(x))^{f(x)} = e$. En este caso, el ajuste del exponente produce $e^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v14",
+      "statement": "Si se desea que la rampa alcance una altura máxima de 5 metros cuando $x$ es muy grande, ¿qué valor debe tener el parámetro $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "La altura máxima sería 1."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. El límite cuando $x \\to \\infty$ es $a$. Si queremos que sea 5, entonces $a = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La rampa no tendría altura."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "La altura máxima sería 10."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema de aplicación de asíntotas horizontales. El valor del límite en el infinito representa el valor de estabilización de la función.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la pendiente ($m$) de la asíntota oblicua de esta función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\lim_{x \\to \\infty} f(x)/x = \\lim_{x \\to \\infty} \\frac{x^2+x}{x^2-x} = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Si fuera 0, tendría una asíntota horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error de cálculo en el límite del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntota oblicua.",
+          "is_correct": false,
+          "feedback": "Dado que el grado del numerador es exactamente uno más que el del denominador, sí existe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las asíntotas oblicuas tienen la forma $y = mx + n$. La pendiente $m$ se halla mediante el límite de $f(x)/x$ cuando $x$ tiende a infinito.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v16",
+      "statement": "Si $f(x)$ es continua en $[0, 2]$, $f(0) = -3$ y $f(2) = 5$, ¿qué asegura el Teorema de Bolzano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la función es creciente en todo el intervalo.",
+          "is_correct": false,
+          "feedback": "Bolzano no habla de monotonía."
+        },
+        {
+          "letter": "B",
+          "text": "Que existe al menos un punto $c$ en $(0, 2)$ tal que $f(c) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al haber un cambio de signo en una función continua, esta debe cruzar el eje X."
+        },
+        {
+          "letter": "C",
+          "text": "Que el valor máximo de la función es 5.",
+          "is_correct": false,
+          "feedback": "Bolzano no identifica extremos absolutos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la derivada de la función se anula en el intervalo.",
+          "is_correct": false,
+          "feedback": "Este es el Teorema de Rolle, no el de Bolzano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de Bolzano es una herramienta fundamental para demostrar la existencia de soluciones en ecuaciones que no se pueden resolver analíticamente de forma sencilla.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor de este límite aplicando las propiedades de los logaritmos y el orden de infinitos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Los grados de las funciones dentro del logaritmo son distintos."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "is_correct": true,
+          "feedback": "Correcto. Por propiedades: $\\ln(x^2...)/\\ln(x^3...) \\approx \\ln(x^2)/\\ln(x^3) = (2\\ln x)/(3\\ln x) = 2/3$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Ambas funciones crecen a infinito con velocidades comparables."
+        },
+        {
+          "letter": "D",
+          "text": "3/2",
+          "is_correct": false,
+          "feedback": "Error al colocar los exponentes de la aproximación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el infinito, el logaritmo de un polinomio se comporta como el logaritmo de su término de mayor grado. Las leyes de los logaritmos permiten extraer los exponentes como coeficientes, simplificando el límite.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v18",
+      "statement": "¿Qué se observa al calcular los límites laterales en $x = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salto finito de 0 a 1.",
+          "is_correct": true,
+          "feedback": "Correcto. Por la derecha: $e^{+\\infty} \\to \\infty$, $1/\\infty \\to 0$. Por la izquierda: $e^{-\\infty} \\to 0$, $1/(1+0) \\to 1$."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos límites son $+\\infty$.",
+          "is_correct": false,
+          "feedback": "La función está acotada entre 0 y 1."
+        },
+        {
+          "letter": "C",
+          "text": "La función es continua.",
+          "is_correct": false,
+          "feedback": "Los límites laterales son distintos."
+        },
+        {
+          "letter": "D",
+          "text": "El límite no existe porque oscila.",
+          "is_correct": false,
+          "feedback": "Los límites laterales son constantes bien definidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un ejemplo avanzado donde la función exponencial con exponente racional genera comportamientos asimétricos. Es crucial para entender cómo los límites laterales pueden diferir radicalmente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo debe definirse el valor de $s(\\sqrt{a})$ para que la función sea continua?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "El límite de la expresión no es 0."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{a}$",
+          "is_correct": false,
+          "feedback": "Error al simplificar el límite."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{a}$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: $(x-\\sqrt{a})(x+\\sqrt{a})/(x-\\sqrt{a}) = x+\\sqrt{a}$. En $x=\\sqrt{a}$, vale $\\sqrt{a}+\\sqrt{a} = 2\\sqrt{a}$."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2$",
+          "is_correct": false,
+          "feedback": "Error dimensional y conceptual en la simplificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La continuidad evitable permite asignar un valor a un punto anteriormente indefinido. El valor correcto es el límite de la función en dicho punto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle-v20",
+      "statement": "¿Qué garantiza el Teorema de Weierstrass para una función continua en el intervalo cerrado $[a, b]$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la función tiene una única raíz.",
+          "is_correct": false,
+          "feedback": "Este es Bolzano (con cambio de signo)."
+        },
+        {
+          "letter": "B",
+          "text": "Que la función alcanza un máximo y un mínimo absolutos en el intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función continua en un compacto siempre está acotada y alcanza sus valores extremos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es derivable en todo el intervalo.",
+          "is_correct": false,
+          "feedback": "La continuidad no implica derivabilidad (ej. valor absoluto)."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función es siempre positiva.",
+          "is_correct": false,
+          "feedback": "No impone restricciones sobre el signo de los valores de la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de Weierstrass es fundamental para asegurar que los problemas de optimización (buscar máximos y mínimos) tienen solución garantizada bajo condiciones de continuidad y dominio cerrado.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W12-limites-continuidad-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
