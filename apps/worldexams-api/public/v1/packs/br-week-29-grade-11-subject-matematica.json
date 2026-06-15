@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-29-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:52.282Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v1",
+      "statement": "Dada a matriz $A = \\begin{pmatrix} 2 & 5 \\\\ -1 & 3 \\end{pmatrix}$, qual é o elemento $a_{12}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o elemento a_{21}."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correto. a_{12} é o elemento da linha 1, coluna 2."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o elemento a_{11}."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o elemento a_{22}."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma matriz, $a_{ij}$ representa o elemento da linha $i$ e coluna $j$. $a_{12}$ é o elemento da primeira linha e segunda coluna, que vale 5.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v2",
+      "statement": "Quantos elementos tem uma matriz de ordem $3 \\times 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto. 3 + 2 = 5, mas o total é o produto."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correto. Uma matriz 3×2 tem 3 linhas e 2 colunas: 3 × 2 = 6 elementos."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorreto. 3² = 9 seria uma matriz 3×3."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorreto. O produto 3 × 2 = 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uma matriz de ordem $m \\times n$ possui $m \\times n$ elementos. Para $3 \\times 2$, são $3 \\times 2 = 6$ elementos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v3",
+      "statement": "Se $A = \\begin{pmatrix} 10 & 15 & 20 \\\\ 8 & 12 & 18 \\end{pmatrix}$ e $B = \\begin{pmatrix} 12 & 10 & 25 \\\\ 6 & 15 & 20 \\end{pmatrix}$, qual é a matriz $A + B$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 22 & 25 & 45 \\\\ 14 & 27 & 38 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Correto. Soma elemento a elemento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 22 & 25 & 45 \\\\ 14 & 27 & 38 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correto. A + B é a soma direta de cada elemento."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 22 & 25 & 45 \\\\ 16 & 27 & 38 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. 8+6 = 14, não 16."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 22 & 25 & 45 \\\\ 14 & 27 & 40 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. 18+20 = 38, não 40."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A adição de matrizes é feita elemento a elemento: $(A+B)_{ij} = a_{ij} + b_{ij}$. Cada elemento da matriz resultante é a soma dos elementos correspondentes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v4",
+      "statement": "Dada a matriz $C = \\begin{pmatrix} 200 & 300 & 150 \\\\ 250 & 200 & 180 \\end{pmatrix}$ (gastos em R$), qual é a matriz $2C$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 400 & 600 & 300 \\\\ 500 & 400 & 360 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Correto. Multiplica cada elemento por 2."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 202 & 302 & 152 \\\\ 252 & 202 & 182 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Não é somar 2, é multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 400 & 600 & 450 \\\\ 500 & 400 & 360 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. 150×2 = 300, não 450."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 400 & 600 & 300 \\\\ 500 & 400 & 360 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correto. Multiplicação por escalar: cada elemento é multiplicado por 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A multiplicação de uma matriz por um escalar consiste em multiplicar cada elemento da matriz pelo escalar: $(k \\cdot A)_{ij} = k \\cdot a_{ij}$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v5",
+      "statement": "Dadas as matrizes $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ e $B = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$, calcule $A \\times B$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{pmatrix} 1 & 2 \\\\ 4 & 3 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. O produto não é elemento a elemento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{pmatrix} 2 & 1 \\\\ 4 & 3 \\end{pmatrix}$",
+          "is_correct": true,
+          "feedback": "Correto. A×B = [(1×0+2×1), (1×1+2×0); (3×0+4×1), (3×1+4×0)] = [(2), (1); (4), (3)]."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{pmatrix} 0 & 2 \\\\ 3 & 0 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. Multiplicação elemento a elemento é produto de Hadamard, não usual."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix}$",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do produto matricial está equivocado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicação de matrizes: $c_{ij} = \\sum_k a_{ik} \\cdot b_{kj}$. $A \\times B = \\begin{pmatrix} 1\\cdot0+2\\cdot1 & 1\\cdot1+2\\cdot0 \\\\ 3\\cdot0+4\\cdot1 & 3\\cdot1+4\\cdot0 \\end{pmatrix} = \\begin{pmatrix} 2 & 1 \\\\ 4 & 3 \\end{pmatrix}$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v6",
+      "statement": "Qual é o determinante da matriz $M = \\begin{pmatrix} 3 & 4 \\\\ 2 & 5 \\end{pmatrix}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorreto. 3×5 + 2×4 = 23 seria soma, mas determinante é diferença."
+        },
+        {
+          "letter": "B",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Incorreto. det = ad - bc = 3×5 - 4×2 = 15 - 8 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correto. det(M) = 3×5 - 4×2 = 15 - 8 = 7."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo correto é 3×5 - 4×2 = 7."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para uma matriz $2 \\times 2$, $\\det\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = ad - bc$. Assim, $\\det(M) = 3 \\times 5 - 4 \\times 2 = 15 - 8 = 7$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v7",
+      "statement": "Dado o sistema $\\begin{cases} 2x + 3y = 7 \\\\ 4x - y = 1 \\end{cases}$, qual é o determinante $D$ (matriz dos coeficientes)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto. det = 2×(-1) - 3×4 = -2 - 12 = -14."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorreto. O determinante é -14, não 14."
+        },
+        {
+          "letter": "C",
+          "text": "$-14$",
+          "is_correct": true,
+          "feedback": "Correto. D = 2×(-1) - 3×4 = -2 - 12 = -14."
+        },
+        {
+          "letter": "D",
+          "text": "$-10$",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo correto é 2×(-1) - 3×4 = -2 - 12 = -14."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Matriz dos coeficientes: $\\begin{pmatrix} 2 & 3 \\\\ 4 & -1 \\end{pmatrix}$. $D = \\det\\begin{pmatrix} 2 & 3 \\\\ 4 & -1 \\end{pmatrix} = 2 \\times (-1) - 3 \\times 4 = -2 - 12 = -14$.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v8",
+      "statement": "Qual é o determinante da matriz identidade $I_3$ (ordem 3)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correto. O determinante da matriz identidade de qualquer ordem é 1."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorreto. A identidade não é matriz singular."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto. O determinante não é a ordem da matriz."
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorreto. O determinante da identidade é 1, independentemente da ordem."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A matriz identidade $I_n$ tem 1 na diagonal principal e 0 nos demais elementos. Seu determinante é o produto dos elementos da diagonal: $1 \\times 1 \\times 1 = 1$.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v9",
+      "statement": "Calcule o determinante da matriz $N = \\begin{pmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\\\ 2 & 0 & 1 \\end{pmatrix}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Incorreto. Vamos recalcular com Sarrus: 1×1×1 + 2×4×2 + 3×0×0 - (3×1×2 + 1×4×0 + 2×0×1) = 1 + 16 + 0 - (6 + 0 + 0) = 11."
+        },
+        {
+          "letter": "B",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "C",
+          "text": "$11$",
+          "is_correct": true,
+          "feedback": "Correto. Pela Regra de Sarrus: (1+16+0) - (6+0+0) = 17 - 6 = 11."
+        },
+        {
+          "letter": "D",
+          "text": "$17$",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor corresponde à soma parcial das diagonais principais."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pela Regra de Sarrus: $\\det(N) = 1\\cdot1\\cdot1 + 2\\cdot4\\cdot2 + 3\\cdot0\\cdot0 - (3\\cdot1\\cdot2 + 1\\cdot4\\cdot0 + 2\\cdot0\\cdot1) = 1 + 16 + 0 - (6 + 0 + 0) = 17 - 6 = 11$.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle-v10",
+      "statement": "Se $\\det(A) = 5$ e $A$ é uma matriz $3 \\times 3$, qual é $\\det(2A)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto. Não é simplesmente 2 × det(A) para matriz 3×3."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorreto. Para matriz n×n, det(kA) = k^n × det(A). n=3, k=2 → 2³×5 = 40."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correto. det(2A) = 2³ × det(A) = 8 × 5 = 40."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorreto. O expoente correto é 3 (ordem da matriz): 2³×5 = 40."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Propriedade: para uma matriz $n \\times n$, $\\det(kA) = k^n \\cdot \\det(A)$. Aqui, $n=3$ e $k=2$: $\\det(2A) = 2^3 \\times 5 = 8 \\times 5 = 40$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W29-matrizes-determinantes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-5-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:50.612Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v1",
+      "statement": "Un sistema de ecuaciones lineales 2×2 tiene la forma:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} a_1x + b_1y = c_1 \\\\ a_2x + b_2y = c_2 \\end{cases}$",
+          "is_correct": true,
+          "feedback": "Forma general de sistema 2×2"
+        },
+        {
+          "letter": "B",
+          "text": "$ax + b = 0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$ax^2 + bx + c = 0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$ax + by + cz = d$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos ecuaciones lineales con dos incógnitas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v2",
+      "statement": "Resuelve por sustitución: $\\begin{cases} x = 2y \\\\ x + y = 9 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$, $y = 3$",
+          "is_correct": true,
+          "feedback": "$2y + y = 9$, $3y = 9$, $y=3$, $x=6$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$, $y = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$, $y = 7$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$, $y = 5$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituir $x=2y$ en la segunda: $2y+y=9$, $y=3$, $x=6$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v3",
+      "statement": "Resuelve por igualación: $\\begin{cases} y = 2x + 1 \\\\ y = -x + 7 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$, $y = 5$",
+          "is_correct": true,
+          "feedback": "$2x + 1 = -x + 7$, $3x = 6$, $x=2$, $y=5$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$, $y = 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$, $y = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$, $y = 3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualar $y$: $2x+1 = -x+7$, $3x=6$, $x=2$, $y=5$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v4",
+      "statement": "Dos rectas paralelas en un sistema 2×2 representan:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema sin solución",
+          "is_correct": true,
+          "feedback": "Rectas paralelas no se intersectan, no hay solución"
+        },
+        {
+          "letter": "B",
+          "text": "Sistema con infinitas soluciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sistema con una solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sistema determinado",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rectas paralelas → mismo pendiente, distinta ordenada → sin solución.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v5",
+      "statement": "Resuelve por reducción: $\\begin{cases} 2x + y = 7 \\\\ 3x - y = 8 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$, $y = 1$",
+          "is_correct": true,
+          "feedback": "Sumando: $5x = 15$, $x=3$, $y=7-2(3)=1$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$, $y = 5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$, $y = -1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$, $y = 7$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar las ecuaciones elimina $y$: $5x=15$, $x=3$, luego $y=7-6=1$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v6",
+      "statement": "El sistema $\\begin{cases} 2x - 4y = 6 \\\\ x - 2y = 3 \\end{cases}$ tiene:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitas soluciones",
+          "is_correct": true,
+          "feedback": "La segunda multiplicada por 2 da la primera, son equivalentes"
+        },
+        {
+          "letter": "B",
+          "text": "Una solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las dos ecuaciones son equivalentes (una es múltiplo de la otra), infinitas soluciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v7",
+      "statement": "La interpretación geométrica de la solución de un sistema 2×2 es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto de intersección de las rectas",
+          "is_correct": true,
+          "feedback": "La solución $(x,y)$ es donde se cruzan las rectas"
+        },
+        {
+          "letter": "B",
+          "text": "La pendiente de las rectas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El área entre las rectas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La ordenada al origen",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada ecuación es una recta; la solución es el punto donde se intersectan.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v8",
+      "statement": "¿Cuántas incógnitas tiene un sistema 2×2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Sistema 2×2 = 2 ecuaciones, 2 incógnitas"
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "2×2 significa 2 ecuaciones y 2 incógnitas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v9",
+      "statement": "En una verdulería de Rosario, 2 kg de manzanas y 1 kg de naranjas cuestan \\$800. 1 kg de manzanas y 2 kg de naranjas cuestan \\$700. ¿Cuánto cuesta 1 kg de manzanas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$300",
+          "is_correct": true,
+          "feedback": "$\\begin{cases} 2m + n = 800 \\\\ m + 2n = 700 \\end{cases}$, resolviendo $m = 300$, $n = 200$"
+        },
+        {
+          "letter": "B",
+          "text": "\\$200",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\$250",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\$350",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sistema: $2m+n=800$, $m+2n=700$. Restando: $m-n=100$, $m=100+n$. $2(100+n)+n=800$, $n=200$, $m=300$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v10",
+      "statement": "Si al resolver un sistema se obtiene $0 = 5$, entonces el sistema es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incompatible (sin solución)",
+          "is_correct": true,
+          "feedback": "$0=5$ es falso, sistema incompatible"
+        },
+        {
+          "letter": "B",
+          "text": "Compatible determinado",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Compatible indeterminado",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dependiente",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contradicción lógica → no hay solución.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v11",
+      "statement": "Resuelve: $\\begin{cases} 3x + 2y = 14 \\\\ 5x - y = 6 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$, $y = 4$",
+          "is_correct": true,
+          "feedback": "Multiplicar 2a por 2: $10x - 2y = 12$. Sumar: $13x = 26$, $x=2$, $y=4$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$, $y = 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$, $y = -4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$, $y = 1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reducción: multiplicar la segunda por 2 y sumar, $13x=26$, $x=2$, $y=4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v12",
+      "statement": "La suma de dos números es 25 y su diferencia es 7. ¿Cuáles son los números?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$ y $9$",
+          "is_correct": true,
+          "feedback": "$x+y=25$, $x-y=7$, sumando $2x=32$, $x=16$, $y=9$"
+        },
+        {
+          "letter": "B",
+          "text": "$15$ y $10$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$17$ y $8$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$14$ y $11$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sistema: $x+y=25$, $x-y=7$. $2x=32$, $x=16$, $y=9$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v13",
+      "statement": "El método de sustitución consiste en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despejar una variable y reemplazar en la otra ecuación",
+          "is_correct": true,
+          "feedback": "Sustitución: despejar y reemplazar"
+        },
+        {
+          "letter": "B",
+          "text": "Sumar las ecuaciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar las ecuaciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Graficar las rectas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se despeja una incógnita y se sustituye en la otra ecuación.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v14",
+      "statement": "En un estacionamiento hay 30 vehículos entre autos y motos. Hay 80 ruedas. ¿Cuántas motos hay?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ motos",
+          "is_correct": true,
+          "feedback": "$a+m=30$, $4a+2m=80$. $4(30-m)+2m=80$, $120-4m+2m=80$, $-2m=-40$, $m=20$"
+        },
+        {
+          "letter": "B",
+          "text": "$10$ motos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$15$ motos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$25$ motos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Autos $a$, motos $m$: $a+m=30$, $4a+2m=80$. $m=20$, $a=10$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v15",
+      "statement": "Un sistema compatible determinado tiene:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una única solución",
+          "is_correct": true,
+          "feedback": "Compatible determinado = solución única"
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las rectas se intersectan en un solo punto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v16",
+      "statement": "Resuelve: $\\begin{cases} 4x + y = 10 \\\\ 2x - 3y = 12 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$, $y = -2$",
+          "is_correct": true,
+          "feedback": "De 1a: $y=10-4x$. En 2a: $2x-3(10-4x)=12$, $2x-30+12x=12$, $14x=42$, $x=3$, $y=-2$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$, $y = 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$, $y = -1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = -3$, $y = 22$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituir $y=10-4x$ en segunda: $2x-30+12x=12$, $14x=42$, $x=3$, $y=-2$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v17",
+      "statement": "$\\begin{cases} 2x + ky = 5 \\\\ 4x + 6y = 10 \\end{cases}$ tiene infinitas soluciones si $k$ vale:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 3$",
+          "is_correct": true,
+          "feedback": "La 2a es el doble de la 1a: $2(2x+ky)=4x+2ky$, debe ser $4x+6y$, $2k=6$, $k=3$"
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$k = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para infinitas soluciones, la segunda debe ser múltiplo de la primera. $2k=6$, $k=3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v18",
+      "statement": "Resuelve gráficamente: rectas $y=2x+1$ e $y=-x+4$ se intersectan en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 3)$",
+          "is_correct": true,
+          "feedback": "$2x+1 = -x+4$, $3x=3$, $x=1$, $y=2(1)+1=3$"
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 5)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 1)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(-1, -1)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualar $y$ en ambas ecuaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v19",
+      "statement": "El método gráfico para resolver un sistema 2×2 consiste en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dibujar las rectas y hallar su intersección",
+          "is_correct": true,
+          "feedback": "Cada ecuación se grafica como recta y se busca el punto de corte"
+        },
+        {
+          "letter": "B",
+          "text": "Dibujar un círculo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sumar algebraicamente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Factorizar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gráficamente, la solución es el punto donde se cruzan las rectas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-v20",
+      "statement": "Un cine tiene 200 butacas. Vende entradas de \\$500 (adultos) y \\$300 (niños). Recauda \\$82000. ¿Cuántos niños asistieron?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90$ niños",
+          "is_correct": true,
+          "feedback": "$a+n=200$, $500a+300n=82000$. $500(200-n)+300n=82000$, $100000-200n=82000$, $n=90$"
+        },
+        {
+          "letter": "B",
+          "text": "$110$ niños",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$80$ niños",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$100$ niños",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Adultos $a$, niños $n$: $a+n=200$, $500a+300n=82000$. $500(200-n)+300n=82000$, $n=90$.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W05-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-12-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:50.782Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la expresión general de una función lineal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = mx + b",
+          "is_correct": true,
+          "feedback": "Correcto. La forma general es mx + b, donde m es la pendiente y b la ordenada al origen."
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = ax² + bx + c",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma general de una función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = a^x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma general de una función exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "f(x) = m/x + b",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una función racional, no lineal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función lineal se expresa como f(x) = mx + b, donde m es la pendiente (tasa de cambio constante) y b es la ordenada al origen (valor donde la recta cruza el eje y).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la pendiente (m) de la recta que pasa por los puntos (0, 2) y (1, 4)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. m = (4 - 2)/(1 - 0) = 2/1 = 2."
+        },
+        {
+          "letter": "B",
+          "text": "m = 2",
+          "is_correct": true,
+          "feedback": "Correcto. m = (4 - 2)/(1 - 0) = 2/1 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "m = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. m ≠ 0 porque y cambia al variar x."
+        },
+        {
+          "letter": "D",
+          "text": "m = -2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque y crece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente se calcula como el cociente entre la variación vertical y la variación horizontal: m = (y₂ - y₁)/(x₂ - x₁). Usando (0, 2) y (1, 4): m = (4 - 2)/(1 - 0) = 2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "Dada la función f(x) = 3x - 5, ¿cuál es su ordenada al origen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es la pendiente, no la ordenada al origen."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es 3 y no es negativa."
+        },
+        {
+          "letter": "C",
+          "text": "-5",
+          "is_correct": true,
+          "feedback": "Correcto. En f(x) = mx + b, b = -5 es la ordenada al origen."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo es negativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la expresión f(x) = mx + b, el término independiente b es la ordenada al origen, que indica el punto donde la recta corta al eje y (cuando x = 0). Aquí b = -5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "Un servicio de mensajería cobra $200 de tarifa fija más $50 por kilómetro recorrido. ¿Qué función lineal representa el costo C(x) para x kilómetros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C(x) = 200x + 50",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarifa fija no se multiplica por x."
+        },
+        {
+          "letter": "B",
+          "text": "C(x) = 50x + 200",
+          "is_correct": true,
+          "feedback": "Correcto. $200 es el costo fijo (b) y $50 es el costo variable por km (m)."
+        },
+        {
+          "letter": "C",
+          "text": "C(x) = 250x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la suma fija con un coeficiente multiplicativo."
+        },
+        {
+          "letter": "D",
+          "text": "C(x) = 50 + 200x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los coeficientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una función lineal de costo, el coeficiente m es el costo variable unitario y b es el costo fijo. C(x) = 50x + 200 significa que cada km cuesta $50 y hay un cargo inicial de $200.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "Hallá la ecuación de la recta que pasa por los puntos A(2, 1) y B(4, 7).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 2x - 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verificá si (2, 1) la satisface."
+        },
+        {
+          "letter": "B",
+          "text": "y = 3x - 5",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente m = (7-1)/(4-2) = 3. Reemplazando (2, 1): 1 = 3·2 + b → b = -5."
+        },
+        {
+          "letter": "C",
+          "text": "y = 2x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente no es 2."
+        },
+        {
+          "letter": "D",
+          "text": "y = 3x + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de la ordenada al origen está invertido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la pendiente: m = (7 - 1)/(4 - 2) = 6/2 = 3. Luego usamos la forma punto-pendiente: y - 1 = 3(x - 2) → y = 3x - 6 + 1 → y = 3x - 5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "La relación entre grados Celsius (C) y Fahrenheit (F) es lineal. Sabiendo que 0°C = 32°F y 100°C = 212°F, ¿qué función lineal convierte C a F?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "F(C) = 1,8C + 32",
+          "is_correct": false,
+          "feedback": "Correcto. Pendiente = (212-32)/100 = 1,8. Ordenada = 32."
+        },
+        {
+          "letter": "B",
+          "text": "F(C) = 1,8C + 32",
+          "is_correct": true,
+          "feedback": "Correcto. m = 1,8 y b = 32."
+        },
+        {
+          "letter": "C",
+          "text": "F(C) = C + 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera que la escala cambia de tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "F(C) = 2C + 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente aproximada es 1,8, no 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente es m = (212 - 32)/(100 - 0) = 180/100 = 9/5 = 1,8. La ordenada al origen es 32 (valor de F cuando C = 0). Por lo tanto, F(C) = 1,8C + 32.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes funciones lineales es DECRECIENTE?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = 5x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendiente positiva (5 > 0), es creciente."
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = 0,5x - 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendiente positiva (0,5 > 0), es creciente."
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = -2x + 7",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente negativa (-2 < 0), la función decrece al aumentar x."
+        },
+        {
+          "letter": "D",
+          "text": "f(x) = 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendiente positiva (3 > 0), es creciente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una función lineal es creciente si su pendiente m > 0, y decreciente si m < 0. Para f(x) = -2x + 7, m = -2 < 0, por lo tanto es decreciente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "Hallá el valor de x para el cual f(x) = 0, siendo f(x) = 4x - 12.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3",
+          "is_correct": true,
+          "feedback": "Correcto. 4x - 12 = 0 → 4x = 12 → x = 3."
+        },
+        {
+          "letter": "B",
+          "text": "x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4(-3) - 12 = -24, no es cero."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4(4) - 12 = 4, no es cero."
+        },
+        {
+          "letter": "D",
+          "text": "x = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4(12) - 12 = 36, no es cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la raíz (o cero) de la función, igualamos f(x) = 0. 4x - 12 = 0 → 4x = 12 → x = 3. La raíz es el valor de x donde la recta cruza el eje horizontal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "La empresa \"Taxi A\" cobra $150 de bajada de bandera y $10 por cuadra. \"Taxi B\" cobra $100 de bajada y $15 por cuadra. ¿A partir de cuántas cuadras es más barato Taxi A?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cuadras",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 5 cuadras: A = 200, B = 175, B es más barato."
+        },
+        {
+          "letter": "B",
+          "text": "8 cuadras",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 8: A = 230, B = 220, B aún más barato."
+        },
+        {
+          "letter": "C",
+          "text": "10 cuadras",
+          "is_correct": true,
+          "feedback": "Correcto. 150 + 10x = 100 + 15x → 50 = 5x → x = 10. A partir de 11 cuadras A es más barato."
+        },
+        {
+          "letter": "D",
+          "text": "15 cuadras",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 15: A = 300, B = 325. A ya es más barato desde cuadra 10."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Igualamos los costos: 150 + 10x = 100 + 15x → 50 = 5x → x = 10. En 10 cuadras pagan lo mismo. A partir de 11, el Taxi A (menor costo variable) es más barato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "La función lineal f(x) = 0x + 5 representa:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta creciente con pendiente 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es 0."
+        },
+        {
+          "letter": "B",
+          "text": "Una recta constante o función constante",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier valor de x da f(x) = 5."
+        },
+        {
+          "letter": "C",
+          "text": "Una recta vertical en x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es horizontal, no vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Una recta que pasa por el origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasa por (0, 5), no por (0, 0)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando m = 0, la función es constante: f(x) = 5 para todo x. Su gráfica es una recta horizontal que cruza al eje y en y = 5. No es una función lineal variable, sino constante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la ecuación de la recta con pendiente m = -2 que pasa por el punto (3, 1)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = -2x + 7",
+          "is_correct": false,
+          "feedback": "Correcto. y - 1 = -2(x - 3) → y = -2x + 6 + 1 → y = -2x + 7."
+        },
+        {
+          "letter": "B",
+          "text": "y = -2x + 7",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "y = -2x - 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. y - 1 = -2(x - 3) → y = -2x + 6 + 1 = -2x + 7."
+        },
+        {
+          "letter": "D",
+          "text": "y = 2x + 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de la pendiente está invertido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la forma punto-pendiente: y - y₁ = m(x - x₁). Reemplazamos (3, 1) y m = -2: y - 1 = -2(x - 3) → y - 1 = -2x + 6 → y = -2x + 7.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "Dos rectas son paralelas si y solo si:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus productos de pendientes es -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la condición de perpendicularidad."
+        },
+        {
+          "letter": "B",
+          "text": "Sus pendientes son iguales",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas tienen la misma pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "Sus ordenadas al origen son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener la misma ordenada no garantiza paralelismo."
+        },
+        {
+          "letter": "D",
+          "text": "Sus pendientes son recíprocas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes recíprocas no indican paralelismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos rectas son paralelas si tienen la misma pendiente (m₁ = m₂). La ordenada al origen puede ser diferente, lo que hace que sean rectas distintas pero con la misma inclinación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la pendiente de una recta perpendicular a y = 4x - 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de la recta original."
+        },
+        {
+          "letter": "B",
+          "text": "m = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El negativo de la pendiente no es suficiente."
+        },
+        {
+          "letter": "C",
+          "text": "m = -1/4",
+          "is_correct": true,
+          "feedback": "Correcto. m_perp = -1/m = -1/4."
+        },
+        {
+          "letter": "D",
+          "text": "m = 1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se necesita el recíproco negativo, no solo el recíproco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si dos rectas son perpendiculares, el producto de sus pendientes es -1. Por lo tanto, m₂ = -1/m₁. Para m₁ = 4, la pendiente perpendicular es m₂ = -1/4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "La ecuación 2x + 3y - 6 = 0 escrita en forma explícita (y = mx + b) es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = (-2/3)x + 2",
+          "is_correct": false,
+          "feedback": "Correcto. 3y = -2x + 6 → y = -2x/3 + 2."
+        },
+        {
+          "letter": "B",
+          "text": "y = (-2/3)x + 2",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "y = (2/3)x - 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo está invertido."
+        },
+        {
+          "letter": "D",
+          "text": "y = (-3/2)x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar y."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejamos y: 2x + 3y - 6 = 0 → 3y = -2x + 6 → y = (-2x + 6)/3 → y = (-2/3)x + 2. La pendiente es -2/3 y la ordenada al origen es 2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "Un auto 0km vale $15.000.000 y se deprecia $1.200.000 por año. ¿Qué función lineal representa su valor V(t) después de t años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V(t) = 15.000.000t - 1.200.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial no se multiplica por t."
+        },
+        {
+          "letter": "B",
+          "text": "V(t) = 15.000.000 - 1.200.000t",
+          "is_correct": true,
+          "feedback": "Correcto. El valor inicial es 15M y decrece 1,2M por año."
+        },
+        {
+          "letter": "C",
+          "text": "V(t) = 1.200.000t + 15.000.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Así el valor aumentaría con el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "V(t) = 15.000.000 + 1.200.000t",
+          "is_correct": false,
+          "feedback": "Incorrecto. La depreciación es negativa, no positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor inicial es 15.000.000 (b en la función lineal). La tasa de cambio es -1.200.000 por año (pendiente negativa). Entonces V(t) = 15.000.000 - 1.200.000t.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "Las funciones de oferta y demanda de un producto son: O(p) = 2p - 100 y D(p) = 300 - 3p, donde p es el precio. ¿Cuál es el precio de equilibrio (O = D)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "p = 60",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2(60) - 100 = 20, 300 - 3(60) = 120. No son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "p = 100",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2(100) - 100 = 100, 300 - 3(100) = 0. No son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "p = 80",
+          "is_correct": true,
+          "feedback": "Correcto. 2p - 100 = 300 - 3p → 5p = 400 → p = 80."
+        },
+        {
+          "letter": "D",
+          "text": "p = 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2(40) - 100 = -20, no tiene sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Igualamos oferta y demanda: 2p - 100 = 300 - 3p → 2p + 3p = 300 + 100 → 5p = 400 → p = 80. El precio de equilibrio es $80, donde O(80) = D(80) = 60 unidades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "Hallá el punto de intersección entre las rectas y = 2x + 1 y y = -x + 7.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verificá en la primera: 2(3) + 1 = 7, pero en la segunda: -3 + 7 = 4. No coincide."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface ninguna ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 5)",
+          "is_correct": true,
+          "feedback": "Correcto. 2(2) + 1 = 5 y -(2) + 7 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Satisface la primera pero no la segunda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Igualamos: 2x + 1 = -x + 7 → 3x = 6 → x = 2. Luego y = 2(2) + 1 = 5. Verificando en la segunda: y = -2 + 7 = 5. El punto de intersección es (2, 5).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "Dos autos parten de la misma ciudad. Auto A viaja a 80 km/h, Auto B a 60 km/h y sale 1 hora después. ¿Cuánto tiempo (desde la salida de A) tarda A en alcanzar a B?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 2 horas: A = 160 km, B = 60 km. Aún no alcanza."
+        },
+        {
+          "letter": "B",
+          "text": "3 horas",
+          "is_correct": true,
+          "feedback": "Correcto. d_A(t) = 80t, d_B(t) = 60(t - 1). 80t = 60(t - 1) → 80t = 60t + 60 → 20t = 60 → t = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 3 h ya alcanzó, a las 4 h va 80 km adelante."
+        },
+        {
+          "letter": "D",
+          "text": "1 hora",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1 hora A recorrió 80 km, B aún no salió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Posición del auto A: d_A = 80t. Posición del auto B: d_B = 60(t - 1). Igualamos: 80t = 60t - 60 → 20t = 60 → t = 3 horas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "Dada la recta L: 3x + 4y = 12, ¿cuál de las siguientes rectas es PERPENDICULAR a L y pasa por el origen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = (4/3)x",
+          "is_correct": false,
+          "feedback": "Correcto. Pendiente de L: 4y = -3x + 12 → y = (-3/4)x + 3, m = -3/4. Perpendicular: m_perp = 4/3. Por el origen: y = (4/3)x."
+        },
+        {
+          "letter": "B",
+          "text": "y = (4/3)x",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "y = (-3/4)x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es paralela a L, no perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "y = (-4/3)x",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente perpendicular a -3/4 es 4/3, no -4/3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escribimos L en forma explícita: 3x + 4y = 12 → 4y = -3x + 12 → y = (-3/4)x + 3. Pendiente m = -3/4. La perpendicular tiene m_perp = 4/3. Como pasa por (0, 0), la ecuación es y = (4/3)x.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "Un micro sale de Retiro rumbo a Mar del Plata (400 km). Viaja a velocidad constante de 80 km/h. Si el viaje comienza a las 8:00 h, ¿a qué hora llega a destino?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11:00 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 3 horas recorre 240 km."
+        },
+        {
+          "letter": "B",
+          "text": "12:00 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 4 horas recorre 240 km, no 400."
+        },
+        {
+          "letter": "C",
+          "text": "13:00 h",
+          "is_correct": true,
+          "feedback": "Correcto. t = 400/80 = 5 horas. Sale a las 8:00, llega a las 13:00."
+        },
+        {
+          "letter": "D",
+          "text": "14:00 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Serían 6 horas a 80 km/h (480 km)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función de posición es d(t) = 80t, donde t es el tiempo en horas desde las 8:00. Para d = 400: 400 = 80t → t = 5 horas. Horario de llegada: 8:00 + 5h = 13:00 h (1:00 PM).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W12-funciones-lineales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

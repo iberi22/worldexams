@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-27-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:52.280Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v1",
+      "statement": "Qual é a área da base do cilindro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. A área da base é πr² = π×36, não π×12."
+        },
+        {
+          "letter": "B",
+          "text": "$36\\pi$ cm²",
+          "is_correct": true,
+          "feedback": "Correto. A_b = πr² = π × 6² = 36π cm²."
+        },
+        {
+          "letter": "C",
+          "text": "$72\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria 2π × 6 × 12 / 2, não a área da base."
+        },
+        {
+          "letter": "D",
+          "text": "$144\\pi$ cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria π × 12², confundindo altura com raio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A base do cilindro é um círculo de raio 6 cm. $A_b = \\pi r^2 = \\pi \\times 6^2 = 36\\pi$ cm².\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v2",
+      "statement": "Qual é a geratriz do cone?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. 5 + 12 = 17, √17 ≈ 4,1, não 7."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. A geratriz é √(5² + 12²) = √169 = 13."
+        },
+        {
+          "letter": "C",
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correto. g² = r² + h² = 25 + 144 = 169 → g = 13."
+        },
+        {
+          "letter": "D",
+          "text": "17 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. A soma 5 + 12 não é a geratriz. A geratriz é √(r² + h²)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A geratriz de um cone reto é calculada por $g = \\sqrt{r^2 + h^2} = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$ cm.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v3",
+      "statement": "Qual é o volume máximo de água que o reservatório pode conter?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorreto. π × 9 × 5 = 45π, não 15π."
+        },
+        {
+          "letter": "B",
+          "text": "$45\\pi$ m³",
+          "is_correct": true,
+          "feedback": "Correto. V = πr²h = π × 9 × 5 = 45π m³."
+        },
+        {
+          "letter": "C",
+          "text": "$30\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorreto. Faltou elevar o raio ao quadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$75\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor superestimado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volume do cilindro: $V = \\pi r^2 h = \\pi \\times 3^2 \\times 5 = \\pi \\times 9 \\times 5 = 45\\pi$ m³.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v4",
+      "statement": "Qual é o volume da embalagem cônica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. (π × 16 × 9)/3 = 144π/3 = 48π."
+        },
+        {
+          "letter": "B",
+          "text": "$48\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. V = (π × 4² × 9)/3 = (π × 16 × 9)/3 = 144π/3 = 48π cm³."
+        },
+        {
+          "letter": "C",
+          "text": "$144\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Seria o volume de um cilindro de mesmas dimensões."
+        },
+        {
+          "letter": "D",
+          "text": "$24\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Metade do volume correto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volume do cone: $V = \\frac{1}{3} \\pi r^2 h = \\frac{1}{3} \\times \\pi \\times 16 \\times 9 = \\frac{144\\pi}{3} = 48\\pi$ cm³.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v5",
+      "statement": "Qual é a área total a ser pintada (incluindo as duas bases)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é apenas a área lateral."
+        },
+        {
+          "letter": "B",
+          "text": "$32\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "C",
+          "text": "$32\\pi$ m²",
+          "is_correct": true,
+          "feedback": "Correto. A_total = 2πrh + 2πr² = 2π×2×6 + 2π×4 = 24π + 8π = 32π m²."
+        },
+        {
+          "letter": "D",
+          "text": "$40\\pi$ m²",
+          "is_correct": false,
+          "feedback": "Incorreto. A soma correta é 24π + 8π = 32π."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Área total do cilindro: $A = 2\\pi r h + 2\\pi r^2 = 2\\pi \\times 2 \\times 6 + 2\\pi \\times 4 = 24\\pi + 8\\pi = 32\\pi$ m².\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v6",
+      "statement": "Qual é o volume de líquido em cada copo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$51,2\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Correto. Volume total = (π×16×12)/3 = 64π. 80% = 0,8 × 64π = 51,2π cm³."
+        },
+        {
+          "letter": "B",
+          "text": "$64\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o volume total, não os 80%."
+        },
+        {
+          "letter": "C",
+          "text": "$40\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. 50% seria 32π, 80% é 51,2π."
+        },
+        {
+          "letter": "D",
+          "text": "$51,2\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. V_total = (π×16×12)/3 = 64π. V_líquido = 0,8 × 64π = 51,2π."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Volume total: $V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi \\times 16 \\times 12 = 64\\pi$ cm³. Volume ocupado: $0,8 \\times 64\\pi = 51,2\\pi$ cm³.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v7",
+      "statement": "Qual é a razão entre o volume do cilindro e o volume do cone?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:1",
+          "is_correct": false,
+          "feedback": "Incorreto. O volume do cilindro é três vezes o volume do cone com mesma base e altura."
+        },
+        {
+          "letter": "B",
+          "text": "2:1",
+          "is_correct": false,
+          "feedback": "Incorreto. O cilindro tem o triplo do volume do cone."
+        },
+        {
+          "letter": "C",
+          "text": "3:1",
+          "is_correct": true,
+          "feedback": "Correto. V_cilindro = πr²h, V_cone = (1/3)πr²h. V_cilindro/V_cone = 3."
+        },
+        {
+          "letter": "D",
+          "text": "1:3",
+          "is_correct": false,
+          "feedback": "Incorreto. A razão está invertida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$V_{cil} = \\pi r^2 h$, $V_{cone} = \\frac{1}{3}\\pi r^2 h$. Razão: $\\frac{V_{cil}}{V_{cone}} = \\frac{\\pi r^2 h}{\\frac{1}{3}\\pi r^2 h} = 3$.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v8",
+      "statement": "Qual é o volume de material usado na fabricação de cada tubo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$500\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria π×100×50 = 5000π, dividido incorretamente."
+        },
+        {
+          "letter": "B",
+          "text": "$1.800\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar. V_externo = π×100×50 = 5000π. V_interno = π×64×50 = 3200π. V_material = 1800π cm³."
+        },
+        {
+          "letter": "C",
+          "text": "$1.800\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. V = π(10² - 8²)×50 = π(100-64)×50 = π×36×50 = 1800π cm³."
+        },
+        {
+          "letter": "D",
+          "text": "$900\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Metade do volume correto de material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Volume do material = volume externo - volume interno: $V = \\pi(R^2 - r^2)h = \\pi(100 - 64) \\times 50 = \\pi \\times 36 \\times 50 = 1.800\\pi$ cm³.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v9",
+      "statement": "Qual é o volume do tronco de cone resultante (parte entre o corte e a base)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o volume do cone menor."
+        },
+        {
+          "letter": "B",
+          "text": "$96\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o volume do cone total."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o volume do cone menor."
+        },
+        {
+          "letter": "D",
+          "text": "$84\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. V_total = 96π. V_menor (por semelhança, r=3, h=4) = 12π. Tronco = 96π - 12π = 84π."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Volume total: $V_G = \\frac{1}{3}\\pi \\times 36 \\times 8 = 96\\pi$. Por semelhança, raio do cone menor: $\\frac{r}{6} = \\frac{4}{8} \\implies r = 3$. $V_P = \\frac{1}{3}\\pi \\times 9 \\times 4 = 12\\pi$. Tronco: $V = 96\\pi - 12\\pi = 84\\pi$ cm³.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle-v10",
+      "statement": "Qual é o volume total do objeto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$160\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Faltou somar o cone."
+        },
+        {
+          "letter": "B",
+          "text": "$192\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "C",
+          "text": "$192\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. V_cil = π×16×10 = 160π. V_cone = (π×16×6)/3 = 32π. Total = 192π cm³."
+        },
+        {
+          "letter": "D",
+          "text": "$224\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor superestimado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Volume do cilindro: $V_{cil} = \\pi r^2 h = \\pi \\times 16 \\times 10 = 160\\pi$ cm³. Volume do cone: $V_{cone} = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3} \\times \\pi \\times 16 \\times 6 = 32\\pi$ cm³. Volume total: $160\\pi + 32\\pi = 192\\pi$ cm³.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W27-geometria-espacial-cilindro-cone-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

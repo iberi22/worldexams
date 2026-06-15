@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-24-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:52.277Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v1",
+      "statement": "Na distribuição de frequência abaixo, qual é a frequência absoluta da classe de 20 a 30 anos?\r\n\r\n| Idade | Frequência |\r\n|-------|-----------|\r\n| 0-10 | 8 |\r\n| 10-20 | 12 |\r\n| 20-30 | 15 |\r\n| 30-40 | 10 |\r\n| 40-50 | 5 |",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a frequência da classe 10-20."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correto. A classe 20-30 tem frequência absoluta 15."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a frequência da classe 30-40."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a frequência da classe 0-10."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A frequência absoluta é o número de observações em cada classe. Para a classe 20-30, a tabela mostra 15 moradores.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v2",
+      "statement": "Dadas as notas: 7, 5, 8, 6, 7, 9, 5, 7, 8, 6, 7, 6, 8, 5, 7, 9, 6, 8, 7, 6. Qual é a moda (nota mais frequente)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorreto. A nota 6 aparece 5 vezes, mas 7 aparece mais."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correto. A nota 7 aparece 6 vezes, a maior frequência."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorreto. A nota 8 aparece 4 vezes."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto. A nota 5 aparece 3 vezes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contando as frequências: 5 (3x), 6 (5x), 7 (6x), 8 (4x), 9 (2x). A nota 7 é a moda, com 6 ocorrências.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v3",
+      "statement": "Os tempos foram agrupados nas classes: 1-3 dias (5 pedidos), 3-5 dias (12 pedidos), 5-7 dias (8 pedidos), 7-9 dias (5 pedidos). Qual é a frequência relativa da classe 3-5 dias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a frequência absoluta, não relativa."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorreto. 12/30 = 0,4, não 0,5."
+        },
+        {
+          "letter": "C",
+          "text": "0,4",
+          "is_correct": true,
+          "feedback": "Correto. 12/30 = 0,4 = 40%."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorreto. 40% é a representação percentual, mas o valor decimal é 0,4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Frequência relativa $= \\frac{\\text{frequência absoluta}}{\\text{total}} = \\frac{12}{30} = 0,4 = 40\\%$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v4",
+      "statement": "Considerando a distribuição: 55, 58, 60, 62, 65, 58, 60, 63, 67, 55, 59, 61, 64, 58, 60, 62, 66, 55, 59, 61, 63, 65, 58, 60, 62. Qual é a mediana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Correto, mas precisamos verificar."
+        },
+        {
+          "letter": "B",
+          "text": "61",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Correto. Ordenando os 25 valores, o 13º termo é 60."
+        },
+        {
+          "letter": "D",
+          "text": "62",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor está acima da mediana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ordenando os 25 valores, a mediana é o 13º termo (posição central). Após ordenar, o 13º valor é 60 kg.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v5",
+      "statement": "Os dados foram organizados em faixas salariais para cruzar com a intenção de voto. Se a classe de renda média (R$ 2.000 a R$ 4.000) tem 80 entrevistados, qual é o ponto médio dessa classe?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R$ 2.000",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o limite inferior da classe."
+        },
+        {
+          "letter": "B",
+          "text": "R$ 4.000",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o limite superior da classe."
+        },
+        {
+          "letter": "C",
+          "text": "R$ 3.000",
+          "is_correct": true,
+          "feedback": "Correto. Ponto médio = (2000 + 4000)/2 = 3000."
+        },
+        {
+          "letter": "D",
+          "text": "R$ 2.500",
+          "is_correct": false,
+          "feedback": "Incorreto. 3000/2 não é a forma correta de calcular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O ponto médio de uma classe é a média aritmética de seus limites: $\\frac{2000 + 4000}{2} = 3000$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v6",
+      "statement": "Dada a tabela de frequência:\r\n\r\n| Altura (m) | Frequência |\r\n|------------|-----------|\r\n| 1,55-1,60 | 5 |\r\n| 1,60-1,65 | 8 |\r\n| 1,65-1,70 | 12 |\r\n| 1,70-1,75 | 10 |\r\n| 1,75-1,80 | 5 |\r\n\r\nQual é a altura média aproximada dos alunos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,67 m",
+          "is_correct": false,
+          "feedback": "Incorreto. Próximo, mas é preciso calcular corretamente."
+        },
+        {
+          "letter": "B",
+          "text": "1,68 m",
+          "is_correct": true,
+          "feedback": "Correto. Média = (1,575×5 + 1,625×8 + 1,675×12 + 1,725×10 + 1,775×5)/40 ≈ 1,678 m."
+        },
+        {
+          "letter": "C",
+          "text": "1,70 m",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é aproximadamente o ponto médio central."
+        },
+        {
+          "letter": "D",
+          "text": "1,65 m",
+          "is_correct": false,
+          "feedback": "Incorreto. Abaixo do valor real calculado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando os pontos médios: 1,575; 1,625; 1,675; 1,725; 1,775. $\\bar{x} = \\frac{1,575 \\times 5 + 1,625 \\times 8 + 1,675 \\times 12 + 1,725 \\times 10 + 1,775 \\times 5}{5+8+12+10+5} = \\frac{67,125}{40} \\approx 1,678$.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v7",
+      "statement": "Os dados são: 3, 5, 2, 4, 6, 3, 5, 4, 7, 3, 5, 4, 6, 2, 4, 5, 3, 6, 4, 5, 7, 3, 4, 5, 6, 4, 3, 5, 4, 6. Qual é o desvio padrão aproximado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,5",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor é muito alto para a variação dos dados."
+        },
+        {
+          "letter": "B",
+          "text": "1,8",
+          "is_correct": false,
+          "feedback": "Incorreto. Ainda acima do valor real."
+        },
+        {
+          "letter": "C",
+          "text": "1,3",
+          "is_correct": true,
+          "feedback": "Correto. A média é aproximadamente 4,37 e o desvio padrão amostral é cerca de 1,33."
+        },
+        {
+          "letter": "D",
+          "text": "0,9",
+          "is_correct": false,
+          "feedback": "Incorreto. Abaixo do desvio padrão real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Média $\\bar{x} \\approx 4,37$. Variância $s^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n-1} \\approx \\frac{51,3}{29} \\approx 1,77$. Desvio padrão $s = \\sqrt{1,77} \\approx 1,33$.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v8",
+      "statement": "Fundo A: média de 1,2% com desvio padrão de 0,8%. Fundo B: média de 1,0% com desvio padrão de 0,3%. Qual fundo tem maior coeficiente de variação?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fundo A, pois CV = 66,67% > 30% do Fundo B.",
+          "is_correct": true,
+          "feedback": "Correto. CVA = 0,8/1,2 × 100% = 66,67%. CVB = 0,3/1,0 × 100% = 30%."
+        },
+        {
+          "letter": "B",
+          "text": "Fundo B, pois seu desvio padrão é menor.",
+          "is_correct": false,
+          "feedback": "Incorreto. O CV relativiza o desvio pela média."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos têm o mesmo CV.",
+          "is_correct": false,
+          "feedback": "Incorreto. Os CVs são diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Não é possível determinar com esses dados.",
+          "is_correct": false,
+          "feedback": "Incorreto. O CV é calculado exatamente com esses valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O coeficiente de variação é $CV = \\frac{\\sigma}{\\mu} \\times 100\\%$. Fundo A: $\\frac{0,8}{1,2} = 66,67\\%$. Fundo B: $\\frac{0,3}{1,0} = 30\\%$. O Fundo A tem maior dispersão relativa.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v9",
+      "statement": "Em uma distribuição assimétrica à direita (cauda longa à direita), qual é a relação entre média, mediana e moda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Média = Mediana = Moda",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta relação vale para distribuições simétricas."
+        },
+        {
+          "letter": "B",
+          "text": "Moda < Mediana < Média",
+          "is_correct": false,
+          "feedback": "Correto. A cauda à direita puxa a média para cima."
+        },
+        {
+          "letter": "C",
+          "text": "Moda < Mediana < Média",
+          "is_correct": true,
+          "feedback": "Correto. Na assimetria positiva, a moda é menor que a mediana, que é menor que a média."
+        },
+        {
+          "letter": "D",
+          "text": "Média < Mediana < Moda",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta relação vale para assimetria à esquerda (negativa)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Em distribuições assimétricas à direita (positivas), a média é puxada pela cauda longa, resultando em: moda < mediana < média.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle-v10",
+      "statement": "Turma X: notas com média 68 e desvio padrão 12. Turma Y: notas com média 72 e desvio padrão 8. Um aluno da Turma X tirou 80 e um aluno da Turma Y tirou 84. Qual teve melhor desempenho relativo em sua turma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O aluno da Turma X, pois 80 > 68 por 12 pontos.",
+          "is_correct": false,
+          "feedback": "Incorreto. A diferença absoluta não considera a dispersão."
+        },
+        {
+          "letter": "B",
+          "text": "O aluno da Turma Y, pois seu escore z é maior (z = 1,5 contra z = 1,0).",
+          "is_correct": true,
+          "feedback": "Correto. z_X = (80-68)/12 = 1,0. z_Y = (84-72)/8 = 1,5."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tiveram desempenho equivalente.",
+          "is_correct": false,
+          "feedback": "Incorreto. Os escores z são diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "O aluno da Turma X, pois 80 é uma nota mais alta que 68.",
+          "is_correct": false,
+          "feedback": "Incorreto. É preciso considerar a média e o desvio padrão de cada turma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O escore z padroniza o desempenho: $z = \\frac{x - \\mu}{\\sigma}$. Turma X: $z = \\frac{80-68}{12} = 1,0$. Turma Y: $z = \\frac{84-72}{8} = 1,5$. O aluno Y está 1,5 desvios acima da média, desempenho relativamente superior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W24-estatistica-distribuicoes-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

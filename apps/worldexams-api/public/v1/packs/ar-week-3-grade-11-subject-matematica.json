@@ -1,0 +1,1611 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-3-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:50.513Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v1",
+      "statement": "¿Qué es una ecuación lineal con una variable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una igualdad donde la variable tiene exponente 1",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una igualdad donde la variable tiene exponente 2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una expresión con dos variables",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una desigualdad numérica",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una ecuación lineal (de primer grado) es de la forma ax + b = 0, con a ≠ 0 y la variable elevada a la potencia 1.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v2",
+      "statement": "Resolver: \\(5x - 3 = 2x + 9\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 4\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 6\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = -4\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "5x − 2x = 9 + 3 → 3x = 12 → x = 4.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v3",
+      "statement": "Resolver: \\(3(x - 2) + 5 = 2(x + 1) - 3\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 0\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 1\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = -2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 3\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "3x − 6 + 5 = 2x + 2 − 3 → 3x − 1 = 2x − 1 → 3x − 2x = −1 + 1 → x = 0.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v4",
+      "statement": "La ecuación \\(0x = 5\\) no tiene solución. ¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ningún número multiplicado por 0 da 5",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque 5 no es divisible por 0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque x debe ser 0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene infinitas soluciones",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "0·x = 0 para cualquier x, nunca puede igualar a 5. Es una ecuación inconsistente.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v5",
+      "statement": "¿Cuál es la forma general de una ecuación cuadrática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(ax^2 + bx + c = 0\\), con \\(a \\neq 0\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(ax + b = 0\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(ax^3 + bx^2 + cx + d = 0\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(ax^2 + bx + c = 0\\), con \\(a = 0\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma estándar es ax² + bx + c = 0 donde a ≠ 0. Si a = 0, la ecuación es lineal.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v6",
+      "statement": "Resolver: \\(x^2 - 9 = 0\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 3\\) y \\(x = -3\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 3\\) solamente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = -3\\) solamente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 9\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x² − 9 = 0 → x² = 9 → x = ±√9 → x = 3 o x = −3.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v7",
+      "statement": "Resolver aplicando la fórmula cuadrática: \\(x^2 + 5x + 6 = 0\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = -2\\) y \\(x = -3\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 2\\) y \\(x = 3\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = -1\\) y \\(x = -6\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 2\\) y \\(x = -3\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x = [−5 ± √(25 − 24)]/2 = [−5 ± 1]/2 → x₁ = −2, x₂ = −3.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v8",
+      "statement": "Resolver por factorización: \\(x^2 - 5x + 6 = 0\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 2\\) y \\(x = 3\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = -2\\) y \\(x = -3\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 1\\) y \\(x = 6\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = -1\\) y \\(x = 6\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "(x − 2)(x − 3) = 0 ⇒ x − 2 = 0 o x − 3 = 0 ⇒ x = 2 o x = 3.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v9",
+      "statement": "¿Cuál es el valor del discriminante de \\(x^2 - 4x + 4 = 0\\) y qué nos dice sobre las soluciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Δ = 0, tiene una solución real doble",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Δ = 16, tiene dos soluciones reales distintas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Δ = −4, no tiene soluciones reales",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Δ = 4, tiene dos soluciones reales distintas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Δ = b² − 4ac = (−4)² − 4(1)(4) = 16 − 16 = 0. Δ = 0 ⇒ raíz doble x = 2.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v10",
+      "statement": "Resolver: \\(2x^2 - 3x - 2 = 0\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 2\\) y \\(x = -\\frac{1}{2}\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = -2\\) y \\(x = \\frac{1}{2}\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 2\\) y \\(x = -2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = \\frac{1}{2}\\) y \\(x = -\\frac{1}{2}\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Δ = 9 + 16 = 25. x = [3 ± 5]/4 → x₁ = (3 + 5)/4 = 2, x₂ = (3 − 5)/4 = −1/2.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v11",
+      "statement": "Si el discriminante de una ecuación cuadrática es negativo, ¿cuántas soluciones reales tiene?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Δ < 0 significa que √Δ no es real. La ecuación tiene dos soluciones complejas conjugadas, pero ninguna real.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v12",
+      "statement": "La suma de dos números es 15 y su producto es 56. ¿Cuáles son los números?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 y 8",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "6 y 9",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "5 y 10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "4 y 11",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si x + y = 15 y xy = 56. Las raíces de t² − 15t + 56 = 0 son t = [15 ± √(225 − 224)]/2 = [15 ± 1]/2 → 7 y 8.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v13",
+      "statement": "Resolver: \\( \\frac{x}{2} + \\frac{x}{3} = 10 \\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 12\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = 10\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 15\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 6\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "MCM(2,3) = 6. (3x + 2x)/6 = 10 → 5x/6 = 10 → 5x = 60 → x = 12.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v14",
+      "statement": "Un número más su triple es igual a 48. ¿Cuál es el número?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x + 3x = 48 → 4x = 48 → x = 12.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v15",
+      "statement": "La altura de un triángulo es 4 cm mayor que su base. Si el área es 30 cm², ¿cuánto mide la base?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 cm",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "5 cm",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Área = (b × h)/2. h = b + 4. Entonces (b(b + 4))/2 = 30 → b² + 4b − 60 = 0 → (b + 10)(b − 6) = 0 → b = 6 (b > 0).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v16",
+      "statement": "¿Qué significa que x = 3 sea una \"raíz\" de la ecuación f(x) = 0?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al sustituir x = 3 en f(x), el resultado es 0",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que f(3) es positivo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que 3 divide a f(x)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que f(x) se hace infinita en x = 3",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una raíz o solución de f(x) = 0 es un valor que satisface la igualdad, es decir, f(raíz) = 0.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v17",
+      "statement": "Completar el trinomio cuadrado perfecto: \\(x^2 + 6x + \\_\\_\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "(b/2)² = (6/2)² = 3² = 9. x² + 6x + 9 = (x + 3)².\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v18",
+      "statement": "Resolver completando cuadrados: \\(x^2 + 4x - 5 = 0\\)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\(x = 1\\) y \\(x = -5\\)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\\(x = -1\\) y \\(x = 5\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\(x = 2\\) y \\(x = -2\\)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\(x = 1\\) y \\(x = 5\\)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x² + 4x − 5 = 0 → x² + 4x + 4 = 9 → (x + 2)² = 9 → x + 2 = ±3 → x = 1 o x = −5.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v19",
+      "statement": "En la ecuación lineal \\(2x - 7 = 0\\), ¿cuál es el coeficiente principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En ax + b = 0, el coeficiente principal es a, que acompaña a la variable. Aquí a = 2.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-v20",
+      "statement": "Un estudiante resuelve \\(x^2 = 9\\) y da como única solución x = 3. ¿Es correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque x = −3 también es solución",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 3² = 9",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la solución es x = √9",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque x es positivo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x² = 9 tiene dos soluciones: x = 3 y x = −3, ya que (−3)² = 9. Es un error común olvidar la solución negativa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes es una expresión algebraica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 - 5x + 2$",
+          "is_correct": true,
+          "feedback": "Contiene variables y números combinados con operaciones"
+        },
+        {
+          "letter": "B",
+          "text": "$3 + 5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una expresión algebraica incluye variables, números y operaciones.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v2",
+      "statement": "Simplifica $5x + 3y - 2x + y$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x + 4y$",
+          "is_correct": true,
+          "feedback": "$5x - 2x = 3x$, $3y + y = 4y$"
+        },
+        {
+          "letter": "B",
+          "text": "$7x + 4y$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$3x + 2y$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$5x + 3y$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se agrupan términos semejantes (misma variable y exponente).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v3",
+      "statement": "Desarrolla $(x + 3)(x - 2)$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + x - 6$",
+          "is_correct": true,
+          "feedback": "$x^2 - 2x + 3x - 6 = x^2 + x - 6$"
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 5x - 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + x + 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - x - 6$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica propiedad distributiva: $(x)(x) + (x)(-2) + (3)(x) + (3)(-2)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v4",
+      "statement": "¿Cuál es el valor de $2a^2 - 3b$ cuando $a = 2$ y $b = 4$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-4$",
+          "is_correct": true,
+          "feedback": "$2(2)^2 - 3(4) = 2(4) - 12 = 8 - 12 = -4$"
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$-20$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se sustituyen los valores y se respeta la jerarquía de operaciones.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v5",
+      "statement": "Simplifica $\\frac{6x^2y}{3xy}$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x$",
+          "is_correct": true,
+          "feedback": "$\\frac{6}{3} = 2$, $\\frac{x^2}{x} = x$, $\\frac{y}{y} = 1$"
+        },
+        {
+          "letter": "B",
+          "text": "$2y$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$2xy$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2y$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se simplifican coeficientes numéricos y se restan exponentes de igual base.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v6",
+      "statement": "Factoriza $x^2 - 9$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x-3)(x+3)$",
+          "is_correct": true,
+          "feedback": "Diferencia de cuadrados: $x^2 - 9 = (x-3)(x+3)$"
+        },
+        {
+          "letter": "B",
+          "text": "$(x-9)(x+1)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(x-3)^2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(x+9)(x-1)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados $a^2 - b^2 = (a-b)(a+b)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v7",
+      "statement": "Factoriza completamente $2x^2 - 8$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2(x-2)(x+2)$",
+          "is_correct": true,
+          "feedback": "$2(x^2 - 4) = 2(x-2)(x+2)$"
+        },
+        {
+          "letter": "B",
+          "text": "$2(x-2)^2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(2x-4)(x+2)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2(x+2)^2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se extrae factor común $2$, luego diferencia de cuadrados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v8",
+      "statement": "Un monomio es una expresión algebraica de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un solo término",
+          "is_correct": true,
+          "feedback": "Mono = uno, un solo término algebraico"
+        },
+        {
+          "letter": "B",
+          "text": "Dos términos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tres términos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro términos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Monomio tiene un término, binomio dos, trinomio tres.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v9",
+      "statement": "Desarrolla $(x+2)^2$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 4x + 4$",
+          "is_correct": true,
+          "feedback": "$(a+b)^2 = a^2 + 2ab + b^2 = x^2 + 4x + 4$"
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 2x + 4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 4x + 2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuadrado de un binomio: $(a+b)^2 = a^2 + 2ab + b^2$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v10",
+      "statement": "Si $a = -2$ y $b = 3$, ¿cuánto es $a^2 - 2ab + b^2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$",
+          "is_correct": true,
+          "feedback": "$(-2)^2 - 2(-2)(3) + 3^2 = 4 + 12 + 9 = 25$"
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es el desarrollo de $(a-b)^2 = (-2-3)^2 = (-5)^2 = 25$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v11",
+      "statement": "Factoriza $x^2 - 5x + 6$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x-2)(x-3)$",
+          "is_correct": true,
+          "feedback": "Buscamos dos números que sumen $-5$ y multipliquen $+6$: $-2$ y $-3$"
+        },
+        {
+          "letter": "B",
+          "text": "$(x+2)(x+3)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$(x-1)(x-6)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$(x+1)(x+6)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trinomio de la forma $x^2 + bx + c$: se buscan dos números que sumen $b$ y multipliquen $c$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v12",
+      "statement": "Simplifica $\\frac{x^2 - 9}{x - 3}$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 3$",
+          "is_correct": true,
+          "feedback": "$\\frac{(x-3)(x+3)}{x-3} = x+3$, con $x \\neq 3$"
+        },
+        {
+          "letter": "B",
+          "text": "$x - 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 9$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se factoriza el numerador como diferencia de cuadrados y se simplifica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v13",
+      "statement": "El grado del polinomio $4x^3 - 2x^2 + x - 7$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "El mayor exponente de $x$ es $3$"
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grado del polinomio es el mayor exponente de su variable.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v14",
+      "statement": "¿Cuál es el resultado de $(x+1)^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 3x^2 + 3x + 1$",
+          "is_correct": true,
+          "feedback": "$(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$"
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 3x + 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 3x^2 + 1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cubo de un binomio: desarrollo completo con coeficientes 1, 3, 3, 1.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v15",
+      "statement": "Extrae el factor común de $6x^3 - 9x^2 + 3x$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x(2x^2 - 3x + 1)$",
+          "is_correct": true,
+          "feedback": "$3x$ es factor común de todos los términos"
+        },
+        {
+          "letter": "B",
+          "text": "$3(2x^3 - 3x^2 + x)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x(6x^2 - 9x + 3)$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2(2x - 3)$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El MCD de los coeficientes es 3 y la menor potencia de $x$ es $x$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v16",
+      "statement": "Desarrolla $(3x - 2)(x + 4)$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + 10x - 8$",
+          "is_correct": true,
+          "feedback": "$3x^2 + 12x - 2x - 8 = 3x^2 + 10x - 8$"
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 + 14x - 8$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 + 10x + 8$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 - 10x - 8$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distributiva: $(3x)(x) + (3x)(4) + (-2)(x) + (-2)(4)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v17",
+      "statement": "¿Cuál es el mínimo común múltiplo (MCM) de $3x^2y$ y $6xy^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^2y^3$",
+          "is_correct": true,
+          "feedback": "MCM de $3$ y $6$ es $6$; $x^2$ y $x$ → $x^2$; $y$ y $y^3$ → $y^3$"
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2y^3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$6x^3y^3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$18x^2y^3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "MCM: mayores exponentes de cada factor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v18",
+      "statement": "Suma $\\frac{2}{x} + \\frac{3}{2x}$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{7}{2x}$",
+          "is_correct": true,
+          "feedback": "$\\frac{4}{2x} + \\frac{3}{2x} = \\frac{7}{2x}$"
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{3x}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{2x}$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{7}{x}$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se obtiene común denominador $2x$: $\\frac{4}{2x} + \\frac{3}{2x} = \\frac{7}{2x}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v19",
+      "statement": "Un binomio es una expresión algebraica de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos términos",
+          "is_correct": true,
+          "feedback": "Bi = dos, binomio tiene dos términos"
+        },
+        {
+          "letter": "B",
+          "text": "Un término",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tres términos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro términos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Binomio: expresión de dos términos separados por suma o resta.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-v20",
+      "statement": "Si $x + \\frac{1}{x} = 5$, ¿cuánto vale $x^2 + \\frac{1}{x^2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$23$",
+          "is_correct": true,
+          "feedback": "$(x + \\frac{1}{x})^2 = x^2 + 2 + \\frac{1}{x^2} = 25$, entonces $x^2 + \\frac{1}{x^2} = 23$"
+        },
+        {
+          "letter": "B",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$27$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$(x + \\frac{1}{x})^2 = x^2 + 2 + \\frac{1}{x^2} = 25$, por tanto $x^2 + \\frac{1}{x^2} = 23$.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

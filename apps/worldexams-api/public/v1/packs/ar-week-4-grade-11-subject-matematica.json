@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-4-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:50.518Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v1",
+      "statement": "Una ecuación lineal de una variable tiene la forma:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax + b = 0$",
+          "is_correct": true,
+          "feedback": "Forma general de ecuación lineal en una variable"
+        },
+        {
+          "letter": "B",
+          "text": "$ax^2 + bx + c = 0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$ax^3 + bx^2 + c = 0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$a^x = b$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ecuación lineal: $ax + b = 0$ con $a \\neq 0$, grado 1.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v2",
+      "statement": "Resuelve $3x + 7 = 22$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "$3x = 22 - 7 = 15$, $x = 5$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se despeja la variable: $3x = 15$, $x = 5$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v3",
+      "statement": "Resuelve $2(x-3) + 5 = 4x - 1$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": true,
+          "feedback": "$2x - 6 + 5 = 4x - 1$, $2x - 1 = 4x - 1$, $-1+1 = 4x - 2x$, $0 = 2x$, $x=0$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se distribuye, agrupan términos y despeja.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v4",
+      "statement": "La ecuación $5x = 0$ tiene como solución:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": true,
+          "feedback": "$5x = 0$ implica $x = 0$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No tiene solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividiendo ambos lados por 5 se obtiene $x = 0$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v5",
+      "statement": "Resuelve $\\frac{x}{2} + 3 = \\frac{x}{3} + 5$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$",
+          "is_correct": true,
+          "feedback": "$\\frac{x}{2} - \\frac{x}{3} = 5 - 3$, $\\frac{3x - 2x}{6} = 2$, $\\frac{x}{6} = 2$, $x = 12$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 18$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica toda la ecuación por 6 y se despeja.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v6",
+      "statement": "La ecuación $2x + 5 = 2x - 3$ tiene:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna solución",
+          "is_correct": true,
+          "feedback": "$2x + 5 = 2x - 3$ ⇒ $5 = -3$, contradicción"
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una solución: $x = 0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una solución: $x = -2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se eliminan términos semejantes y queda $5 = -3$, falso. No hay solución.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v7",
+      "statement": "La ecuación $3(x-1) + 2 = 3x - 1$ tiene:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitas soluciones",
+          "is_correct": true,
+          "feedback": "$3x - 3 + 2 = 3x - 1$, $3x - 1 = 3x - 1$, identidad"
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna solución",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una solución: $x = 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una solución: $x = 0$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al simplificar se obtiene una identidad $3x - 1 = 3x - 1$, se cumple para todo $x$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v8",
+      "statement": "El primer paso para resolver $2x + 3 = 11$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restar 3 a ambos lados",
+          "is_correct": true,
+          "feedback": "Se aísla el término con $x$ restando el término independiente"
+        },
+        {
+          "letter": "B",
+          "text": "Dividir por 2",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sumar 3",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar por 2",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se resta 3 para dejar $2x = 8$ y luego se divide por 2.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v9",
+      "statement": "En una librería de La Plata, 5 cuadernos cuestan \\$4500. ¿Cuánto cuesta cada cuaderno si todos tienen el mismo precio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$900",
+          "is_correct": true,
+          "feedback": "$5x = 4500$, $x = 900$"
+        },
+        {
+          "letter": "B",
+          "text": "\\$750",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\$1000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\$800",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ecuación $5x = 4500$, se divide por 5: $x = 900$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v10",
+      "statement": "Si $7 - 2x = 1$, entonces $x$ vale:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "$7 - 2x = 1$, $-2x = -6$, $x = 3$"
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se despeja $x$: $-2x = 1 - 7 = -6$, $x = 3$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v11",
+      "statement": "Resuelve el sistema: $x + y = 10$, $x - y = 2$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$, $y = 4$",
+          "is_correct": true,
+          "feedback": "Sumando: $2x = 12$, $x = 6$, $y = 10 - 6 = 4$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$, $y = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$, $y = 5$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$, $y = -4$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suma miembro a miembro: $2x = 12$, $x = 6$. Luego $y = 4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v12",
+      "statement": "Resuelve $0.5x - 2 = 0.25x + 1$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$",
+          "is_correct": true,
+          "feedback": "$0.5x - 0.25x = 1 + 2$, $0.25x = 3$, $x = 12$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica por 4: $2x - 8 = x + 4$, $2x - x = 4 + 8$, $x = 12$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v13",
+      "statement": "El grado de $3x + 5 = 0$ es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "El exponente de $x$ es $1$, por lo tanto es de grado 1"
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación lineal es de primer grado.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v14",
+      "statement": "La edad de Juan es el triple de la de Pedro. Hace 5 años la suma era 50. ¿Qué edad tiene Juan?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45$ años",
+          "is_correct": true,
+          "feedback": "$3x - 5 + x - 5 = 50$, $4x = 60$, $x = 15$, Juan $3(15) = 45$"
+        },
+        {
+          "letter": "B",
+          "text": "$30$ años",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$15$ años",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$60$ años",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedro: $x$, Juan: $3x$. Ecuación: $(3x-5)+(x-5)=50$. $4x=60$, $x=15$. Juan: $45$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v15",
+      "statement": "Resuelve $-3x + 4 = 10$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2$",
+          "is_correct": true,
+          "feedback": "$-3x = 6$, $x = -2$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$-3x = 10 - 4 = 6$, $x = 6/(-3) = -2$.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v16",
+      "statement": "Resuelve $4(2x-1) = 3(x+2)$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "$8x - 4 = 3x + 6$, $8x - 3x = 6 + 4$, $5x = 10$, $x = 2$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distribuir, agrupar y despejar.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v17",
+      "statement": "Resuelve el sistema: $2x + 3y = 12$, $x - y = 1$:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$, $y = 2$",
+          "is_correct": true,
+          "feedback": "De la 2a: $x = y+1$. Sustituyendo: $2(y+1) + 3y = 12$, $5y = 10$, $y=2$, $x=3$"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$, $y = 1$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$, $y = 3$",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$, $y = -2$",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustitución: $x = y+1$, $2(y+1) + 3y = 12$, $5y + 2 = 12$, $y=2$, $x=3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v18",
+      "statement": "Tres hermanos se reparten \\$90000. El mayor recibe \\$15000 más que el mediano, y el mediano \\$10000 más que el menor. ¿Cuánto recibe el menor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$20000",
+          "is_correct": true,
+          "feedback": "Menor: $x$, mediano: $x+10000$, mayor: $x+25000$. $3x+35000=90000$, $x=20000$"
+        },
+        {
+          "letter": "B",
+          "text": "\\$15000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\\$25000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\\$30000",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Menor $= x$, mediano $= x+10000$, mayor $= x+25000$. $3x + 35000 = 90000$, $x = 20000$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v19",
+      "statement": "Resolver una ecuación significa:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encontrar el valor de la variable que satisface la igualdad",
+          "is_correct": true,
+          "feedback": "La solución es el valor que hace verdadera la ecuación"
+        },
+        {
+          "letter": "B",
+          "text": "Sumar todos los números",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Graficar la función",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Factorizar la expresión",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver es hallar el valor(es) de la variable que cumplen la igualdad.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-v20",
+      "statement": "Un rectángulo tiene perímetro 48 cm. El largo es 4 cm más que el ancho. ¿Cuánto mide el largo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$ cm",
+          "is_correct": true,
+          "feedback": "$2(x + x+4) = 48$, $2(2x+4) = 48$, $4x + 8 = 48$, $4x = 40$, $x = 10$, largo $14$"
+        },
+        {
+          "letter": "B",
+          "text": "$10$ cm",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$12$ cm",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$16$ cm",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ancho $= x$, largo $= x+4$. $2(x + x+4) = 48$. $4x + 8 = 48$, $x = 10$, largo $14$.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "AR-MAT-11-2026-W04-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

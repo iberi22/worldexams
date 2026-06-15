@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-26-grade-11-subject-matematica",
+    "generated_at": "2026-06-15T21:28:52.279Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v1",
+      "statement": "Um cubo possui quantas faces, vértices e arestas, respectivamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4, 4, 6",
+          "is_correct": false,
+          "feedback": "Incorreto. Estes são os elementos de um tetraedro."
+        },
+        {
+          "letter": "B",
+          "text": "6, 8, 12",
+          "is_correct": true,
+          "feedback": "Correto. O cubo tem 6 faces quadradas, 8 vértices e 12 arestas."
+        },
+        {
+          "letter": "C",
+          "text": "6, 6, 10",
+          "is_correct": false,
+          "feedback": "Incorreto. O cubo tem 8 vértices e 12 arestas."
+        },
+        {
+          "letter": "D",
+          "text": "8, 6, 12",
+          "is_correct": false,
+          "feedback": "Incorreto. O cubo tem 6 faces e 8 vértices."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O cubo (hexaedro regular) é um poliedro convexo com 6 faces quadradas, 8 vértices e 12 arestas. Verifica a Relação de Euler: $V - A + F = 8 - 12 + 6 = 2$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v2",
+      "statement": "Uma pirâmide de base quadrada tem quantas faces, vértices e arestas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 faces, 4 vértices, 6 arestas",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta seria uma pirâmide triangular (tetraedro)."
+        },
+        {
+          "letter": "B",
+          "text": "5 faces, 5 vértices, 8 arestas",
+          "is_correct": true,
+          "feedback": "Correto. Base quadrada (1) + 4 faces laterais = 5 faces. 5 vértices. 8 arestas."
+        },
+        {
+          "letter": "C",
+          "text": "6 faces, 8 vértices, 12 arestas",
+          "is_correct": false,
+          "feedback": "Incorreto. Estes são os elementos de um cubo."
+        },
+        {
+          "letter": "D",
+          "text": "5 faces, 8 vértices, 10 arestas",
+          "is_correct": false,
+          "feedback": "Incorreto. O número de vértices é 5, não 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A pirâmide de base quadrada tem 5 faces (1 base + 4 laterais), 5 vértices (4 da base + 1 vértice) e 8 arestas (4 da base + 4 laterais). Verificando Euler: $5 - 8 + 5 = 2$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v3",
+      "statement": "Sabendo que o poliedro tem 8 faces triangulares e 12 vértices, quantas arestas ele possui?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correto. Cada face triangular tem 3 arestas: 8×3=24. Cada aresta é compartilhada por 2 faces: 24/2=12... Recalculando: pela relação de Euler: A = V + F - 2 = 12 + 8 - 2 = 18."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorreto. Aplicando Euler: A = 12 + 8 - 2 = 18."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo correto pela relação de Euler é 18."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pela Relação de Euler: $V - A + F = 2$. $12 - A + 8 = 2 \\implies A = 12 + 8 - 2 = 18$ arestas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v4",
+      "statement": "Qual é a área total da superfície da caixa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.300 cm²",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "B",
+          "text": "1.300 cm²",
+          "is_correct": true,
+          "feedback": "Correto. A = 2(20×15 + 20×10 + 15×10) = 2(300 + 200 + 150) = 2×650 = 1300."
+        },
+        {
+          "letter": "C",
+          "text": "1.500 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo correto é 2(300+200+150) = 1300."
+        },
+        {
+          "letter": "D",
+          "text": "3.000 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. O volume seria 3000 cm³, não a área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Área total do paralelepípedo: $A = 2(ab + ac + bc) = 2(20 \\times 15 + 20 \\times 10 + 15 \\times 10) = 2(300 + 200 + 150) = 2 \\times 650 = 1.300$ cm².\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v5",
+      "statement": "Qual é o volume dessa pirâmide?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "600 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. É preciso calcular a área da base hexagonal primeiro."
+        },
+        {
+          "letter": "B",
+          "text": "$600\\sqrt{3}$ cm³",
+          "is_correct": true,
+          "feedback": "Correto. Área da base = 6 × (10²√3/4) = 150√3. Volume = (1/3) × 150√3 × 12 = 600√3 cm³."
+        },
+        {
+          "letter": "C",
+          "text": "1.200 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Faltou considerar a área do hexágono."
+        },
+        {
+          "letter": "D",
+          "text": "300√3 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O volume seria (1/3) × área da base × altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Área do hexágono regular: $A_b = 6 \\times \\frac{l^2\\sqrt{3}}{4} = 6 \\times \\frac{100\\sqrt{3}}{4} = 150\\sqrt{3}$ cm². Volume: $V = \\frac{1}{3} \\times A_b \\times h = \\frac{1}{3} \\times 150\\sqrt{3} \\times 12 = 600\\sqrt{3}$ cm³.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v6",
+      "statement": "Qual é o volume desse prisma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 m³",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "B",
+          "text": "120 m³",
+          "is_correct": false,
+          "feedback": "Incorreto. A área da base triangular é 6 m² (3-4-5 é triângulo retângulo: 3×4/2 = 6). Volume = 6 × 10 = 60."
+        },
+        {
+          "letter": "C",
+          "text": "60 m³",
+          "is_correct": true,
+          "feedback": "Correto. Base triangular retângulo: A = (3×4)/2 = 6 m². V = 6 × 10 = 60 m³."
+        },
+        {
+          "letter": "D",
+          "text": "30 m³",
+          "is_correct": false,
+          "feedback": "Incorreto. A área da base é 6, não 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O triângulo 3-4-5 é retângulo (3² + 4² = 5²). Área da base: $A_b = \\frac{3 \\times 4}{2} = 6$ m². Volume: $V = A_b \\times h = 6 \\times 10 = 60$ m³.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v7",
+      "statement": "Quantas arestas possui esse poliedro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Incorreto. Pela relação de Euler: A = V + F - 2 = 16 + 10 - 2 = 24."
+        },
+        {
+          "letter": "B",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo correto é 16 + 10 - 2 = 24."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correto. V - A + F = 2 → 16 - A + 10 = 2 → A = 24."
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorreto. Aplicando Euler: A = V + F - 2 = 24."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pela Relação de Euler: $V - A + F = 2$. Substituindo: $16 - A + 10 = 2 \\implies A = 16 + 10 - 2 = 24$ arestas.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v8",
+      "statement": "Qual é o volume de concreto necessário?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\sqrt{3}$ m³",
+          "is_correct": false,
+          "feedback": "Correto, mas vamos verificar."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{3}$ m³",
+          "is_correct": true,
+          "feedback": "Correto. A_b = 6 × (2²√3/4) = 6√3 m². V = 6√3 × 0,5 = 3√3 m³."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{3}$ m³",
+          "is_correct": false,
+          "feedback": "Incorreto. Faltou multiplicar pela altura de 0,5 m."
+        },
+        {
+          "letter": "D",
+          "text": "3 m³",
+          "is_correct": false,
+          "feedback": "Incorreto. O valor exato inclui √3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Área do hexágono regular: $A_b = \\frac{3\\sqrt{3}}{2} \\times l^2 = \\frac{3\\sqrt{3}}{2} \\times 4 = 6\\sqrt{3}$ m². Volume: $V = 6\\sqrt{3} \\times 0,5 = 3\\sqrt{3}$ m³.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v9",
+      "statement": "Sabendo que cada face pentagonal tem 5 arestas, quantas arestas e vértices tem o dodecaedro regular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 arestas e 20 vértices",
+          "is_correct": false,
+          "feedback": "Correto. 12 faces × 5 arestas = 60, cada aresta compartilhada por 2 faces: A = 30. Euler: V = 30 - 12 + 2 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "60 arestas e 50 vértices",
+          "is_correct": false,
+          "feedback": "Incorreto. 60 seria contando cada aresta duas vezes."
+        },
+        {
+          "letter": "C",
+          "text": "30 arestas e 20 vértices",
+          "is_correct": true,
+          "feedback": "Correto. A = (12×5)/2 = 30. Euler: V = A + 2 - F = 30 + 2 - 12 = 20."
+        },
+        {
+          "letter": "D",
+          "text": "20 arestas e 30 vértices",
+          "is_correct": false,
+          "feedback": "Incorreto. Os valores estão invertidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Total de arestas: cada uma das 12 faces tem 5 arestas, mas cada aresta pertence a 2 faces. $A = \\frac{12 \\times 5}{2} = 30$. Pela Relação de Euler: $V = A + 2 - F = 30 + 2 - 12 = 20$ vértices.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle-v10",
+      "statement": "Qual é a área total da superfície da embalagem (incluindo as bases)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$150\\sqrt{3} + 300$ cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. A área lateral é 6 × 5 × 20 = 600 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "$150\\sqrt{3} + 600$ cm²",
+          "is_correct": false,
+          "feedback": "Correto. Área das bases: 2 × (3√3/2 × 25) = 75√3... corrigindo: A_b = (3√3/2)×25 = (75√3)/2. 2 bases: 75√3. Área lateral: 6×5×20 = 600. Total: 75√3 + 600."
+        },
+        {
+          "letter": "C",
+          "text": "$75\\sqrt{3} + 600$ cm²",
+          "is_correct": true,
+          "feedback": "Correto. A_b = (3√3/2)×5² = (75√3)/2. 2 bases: 75√3. Al = 6×5×20 = 600. Total = 75√3 + 600 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "$150\\sqrt{3} + 600$ cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. Área de uma base = (3√3/2)×25 = (75√3)/2. Duas bases = 75√3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Área da base hexagonal: $A_b = \\frac{3\\sqrt{3}}{2} \\times l^2 = \\frac{3\\sqrt{3}}{2} \\times 25 = \\frac{75\\sqrt{3}}{2}$ cm². Duas bases: $75\\sqrt{3}$ cm². Área lateral: $6 \\times 5 \\times 20 = 600$ cm². Área total: $75\\sqrt{3} + 600$ cm².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "BR-MAT-3EM-2026-W26-geometria-espacial-poliedros-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
