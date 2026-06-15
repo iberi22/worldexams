@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "categorias-gramaticales-ii"
 periodo: "weekly"
 week: "W06"

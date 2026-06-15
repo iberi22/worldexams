@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "medios-digitales-y-redes-sociales"
 periodo: "weekly"
 week: "W35"

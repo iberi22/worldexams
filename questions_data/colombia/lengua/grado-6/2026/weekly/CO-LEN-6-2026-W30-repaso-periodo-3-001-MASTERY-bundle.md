@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "repaso-periodo-3"
 periodo: "weekly"
 week: "W30"

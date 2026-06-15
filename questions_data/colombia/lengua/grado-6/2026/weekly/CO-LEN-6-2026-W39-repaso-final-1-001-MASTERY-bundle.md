@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "repaso-final-1"
 periodo: "weekly"
 week: "W39"

@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "la-noticia"
 periodo: "weekly"
 week: "W32"

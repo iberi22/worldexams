@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "el-articulo-de-opinion"
 periodo: "weekly"
 week: "W33"

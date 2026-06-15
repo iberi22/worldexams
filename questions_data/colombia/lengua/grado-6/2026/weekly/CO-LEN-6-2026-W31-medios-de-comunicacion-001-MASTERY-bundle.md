@@ -2,7 +2,7 @@
 id: "CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "lengua-castellana"
+asignatura: "lengua"
 tema: "medios-de-comunicacion"
 periodo: "weekly"
 week: "W31"
