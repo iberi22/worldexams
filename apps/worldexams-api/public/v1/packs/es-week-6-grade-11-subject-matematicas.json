@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:32:34.698Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes métodos NO es un procedimiento estándar para resolver sistemas de ecuaciones lineales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución",
+          "is_correct": false,
+          "feedback": "Es un método estándar donde se despeja una incógnita y se sustituye en la otra ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "Igualación",
+          "is_correct": false,
+          "feedback": "Método estándar donde se despeja la misma incógnita en ambas ecuaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Reducción",
+          "is_correct": false,
+          "feedback": "Método estándar que busca eliminar una incógnita mediante suma o resta de ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Factorización por identidades notables",
+          "is_correct": true,
+          "feedback": "Correcto. Este es un método para resolver ecuaciones polinómicas, no es un método general para sistemas lineales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los tres métodos algebraicos clásicos para sistemas lineales son sustitución, igualación y reducción. También existe el método gráfico, que permite visualizar la solución como el punto de corte de dos rectas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina a un sistema de ecuaciones que tiene infinitas soluciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Compatible Determinado (SCD)",
+          "is_correct": false,
+          "feedback": "Este sistema tiene una única solución."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Compatible Indeterminado (SCI)",
+          "is_correct": true,
+          "feedback": "Correcto. Ocurre cuando las ecuaciones representan la misma recta (son dependientes)."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Incompatible (SI)",
+          "is_correct": false,
+          "feedback": "Este sistema no tiene ninguna solución."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema No Lineal",
+          "is_correct": false,
+          "feedback": "La clasificación por número de soluciones es independiente de si es lineal o no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema es compatible si tiene solución. Si tiene una sola, es determinado (rectas secantes). Si tiene infinitas, es indeterminado (rectas coincidentes). Si no tiene solución, es incompatible (rectas paralelas).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v3",
+      "statement": "Resuelve el sistema por el método que prefieras:\n$\\begin{cases} x + y = 10 \\\\ x - y = 2 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "La resta daría 0, no 2."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6, y = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando ambas: $2x = 12 \\Rightarrow x = 6$. Entonces $y = 10 - 6 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4, y = 6$",
+          "is_correct": false,
+          "feedback": "La resta daría -2, no 2."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "La suma es 10, pero la resta es 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este sistema es ideal para el método de reducción. Al sumar las dos ecuaciones directamente, la incógnita $y$ se elimina, permitiendo hallar $x$ de forma inmediata.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v4",
+      "statement": "Geométricamente, ¿qué representan las dos rectas de un sistema incompatible?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos rectas que se cortan en un punto.",
+          "is_correct": false,
+          "feedback": "Esto corresponde a un sistema compatible determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Dos rectas paralelas.",
+          "is_correct": true,
+          "feedback": "Correcto. Al no cortarse nunca, el sistema no tiene solución."
+        },
+        {
+          "letter": "C",
+          "text": "Dos rectas coincidentes (una encima de otra).",
+          "is_correct": false,
+          "feedback": "Esto corresponde a un sistema compatible indeterminado."
+        },
+        {
+          "letter": "D",
+          "text": "Una curva y una recta.",
+          "is_correct": false,
+          "feedback": "Los sistemas de ecuaciones lineales solo implican rectas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La solución de un sistema es el punto (o puntos) común a ambas gráficas. Si las rectas son paralelas, no tienen ningún punto en común, lo que se traduce algebraicamente en un sistema sin solución.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v5",
+      "statement": "Resuelve el sistema:\n$\\begin{cases} 2x + 3y = 12 \\\\ x - y = 1 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2, y = 1$",
+          "is_correct": false,
+          "feedback": "$2(2)+3(1)=7 \\neq 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $2(3)+3(2) = 6+6=12$ y $3-2=1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4, y = 3$",
+          "is_correct": false,
+          "feedback": "$x-y=1$ se cumple, pero $2(4)+3(3)=17 \\neq 12$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 0$",
+          "is_correct": false,
+          "feedback": "$1-0=1$ se cumple, pero $2(1)+0=2 \\neq 12$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar sustitución despejando $x = 1 + y$ de la segunda ecuación. Sustituyendo en la primera: $2(1+y) + 3y = 12 \\Rightarrow 2 + 5y = 12 \\Rightarrow 5y = 10 \\Rightarrow y = 2$. Luego $x = 3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v6",
+      "statement": "Determina la naturaleza del siguiente sistema:\n$\\begin{cases} x - 2y = 5 \\\\ 2x - 4y = 10 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Compatible Determinado (solución única).",
+          "is_correct": false,
+          "feedback": "Las ecuaciones no son independientes."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Compatible Indeterminado (infinitas soluciones).",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda ecuación es el doble de la primera; representan la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Incompatible (sin solución).",
+          "is_correct": false,
+          "feedback": "Los términos independientes también guardan la misma proporción."
+        },
+        {
+          "letter": "D",
+          "text": "No es un sistema lineal.",
+          "is_correct": false,
+          "feedback": "Ambas son ecuaciones lineales (grado 1)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si al multiplicar una ecuación por un número obtenemos exactamente la otra (incluyendo el término independiente), las ecuaciones son equivalentes. Esto significa que cualquier punto que satisfaga una, satisface la otra, resultando en infinitas soluciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de estos sistemas es incompatible?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} x + y = 2 \\\\ x + y = 2 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Es compatible indeterminado (idénticas)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} x + y = 2 \\\\ x + y = 3 \\end{cases}$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los mismos valores no puede ser 2 y 3 a la vez. Las rectas son paralelas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} x + y = 2 \\\\ x - y = 2 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Es compatible determinado (se cortan en x=2, y=0)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} x + y = 2 \\\\ 2x + 2y = 4 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Es compatible indeterminado (proporcionales)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema es incompatible si los coeficientes de las incógnitas son proporcionales entre sí pero no lo son respecto a los términos independientes ($a/a' = b/b' \\neq c/c'$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v8",
+      "statement": "Plantea el sistema de ecuaciones para hallar los kg de cada tipo ($x, y$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} x + y = 3,2 \\\\ 2x + 5y = 10 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Las constantes están intercambiadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} x + y = 10 \\\\ 2x + 5y = 32 \\end{cases}$",
+          "is_correct": true,
+          "feedback": "Correcto. Masa total = 10; Coste total = 10 kg · 3,2 €/kg = 32 €."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} x + y = 10 \\\\ 2x + 5y = 3,2 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "Error al no multiplicar el precio medio por la cantidad total de kilos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} x - y = 10 \\\\ 2x - 5y = 32 \\end{cases}$",
+          "is_correct": false,
+          "feedback": "No tiene sentido usar restas para totales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de mezclas, solemos tener una ecuación para la cantidad total ($x + y = \\text{Total}$) y otra para el valor o propiedad mezclada ($V_1x + V_2y = V_{\\text{total}} \\cdot \\text{Total}$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el objetivo principal del método de Gauss al aplicarlo a un sistema de ecuaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hallar el valor de x directamente en el primer paso.",
+          "is_correct": false,
+          "feedback": "Gauss requiere varios pasos de transformación."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar el sistema en uno equivalente escalonado (triangular).",
+          "is_correct": true,
+          "feedback": "Correcto. Facilita la resolución mediante sustitución regresiva."
+        },
+        {
+          "letter": "C",
+          "text": "Dibujar las tres rectas en el espacio.",
+          "is_correct": false,
+          "feedback": "Eso es interpretación geométrica, no el objetivo del método algebraico."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar los términos independientes de todas las ecuaciones.",
+          "is_correct": false,
+          "feedback": "Los términos independientes suelen cambiar de valor pero no deben eliminarse todos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El método de Gauss consiste en realizar operaciones elementales entre las filas (ecuaciones) para conseguir una matriz de coeficientes triangular superior. Una vez hecho, la última incógnita se despeja directamente y las demás por sustitución hacia arriba.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v10",
+      "statement": "Halla los puntos de corte de $y = x^2$ y $y = x$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo (1, 1)",
+          "is_correct": false,
+          "feedback": "Falta el punto en el origen."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 0) y (1, 1)",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 = x \\Rightarrow x^2 - x = 0 \\Rightarrow x(x-1)=0 \\Rightarrow x=0, x=1$."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 0) y (-1, 1)",
+          "is_correct": false,
+          "feedback": "En x = -1, la recta da y = -1 y la parábola y = 1; no coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "(1, 1) y (2, 4)",
+          "is_correct": false,
+          "feedback": "El punto (2, 4) no está en la recta y=x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver sistemas no lineales donde una variable está despejada en ambas, igualamos las expresiones. Obtenemos una ecuación de segundo grado cuyas raíces son las abscisas de los puntos de intersección.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v11",
+      "statement": "¿Qué condición debe cumplirse para que un sistema sea compatible (tenga solución) según el Teorema de Rouché-Frobenius?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el determinante de la matriz de coeficientes sea cero.",
+          "is_correct": false,
+          "feedback": "Esto indicaría que el rango no es máximo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el rango de la matriz de coeficientes ($A$) sea igual al rango de la matriz ampliada ($A'$).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la condición fundamental de compatibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el número de ecuaciones sea igual al de incógnitas.",
+          "is_correct": false,
+          "feedback": "Un sistema puede ser compatible con distinto número de ecuaciones e incógnitas."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los términos independientes sean nulos.",
+          "is_correct": false,
+          "feedback": "Esto define un sistema homogéneo, que siempre es compatible, pero no es la condición general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de Rouché-Frobenius es la herramienta definitiva para discutir sistemas. Si $Rg(A) = Rg(A')$, el sistema es compatible. Si además este rango coincide con el número de incógnitas, es determinado; si es menor, es indeterminado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v12",
+      "statement": "Resuelve el sistema:\n$\\begin{cases} x + y + z = 6 \\\\ y + z = 5 \\\\ z = 3 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x=3, y=2, z=1$",
+          "is_correct": false,
+          "feedback": "La suma es 6, pero z no es 3."
+        },
+        {
+          "letter": "B",
+          "text": "$x=1, y=2, z=3$",
+          "is_correct": true,
+          "feedback": "Correcto. $z=3 \\Rightarrow y+3=5 \\Rightarrow y=2 \\Rightarrow x+2+3=6 \\Rightarrow x=1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x=2, y=2, z=2$",
+          "is_correct": false,
+          "feedback": "No cumple la tercera ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$x=1, y=3, z=2$",
+          "is_correct": false,
+          "feedback": "No cumple la tercera ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un sistema ya escalonado (triangular superior). Se resuelve por sustitución regresiva: empezamos por la última incógnita y vamos subiendo para hallar las anteriores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la propiedad fundamental de un sistema homogéneo (donde todos los términos independientes son cero)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nunca tiene solución.",
+          "is_correct": false,
+          "feedback": "Siempre tiene al menos una."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre es compatible, ya que admite al menos la solución trivial ($0, 0, \\dots, 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. El punto origen siempre satisface una ecuación sin término independiente."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre tiene infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Puede tener solo la solución trivial si el determinante es distinto de cero."
+        },
+        {
+          "letter": "D",
+          "text": "Solo tiene soluciones reales negativas.",
+          "is_correct": false,
+          "feedback": "Admite soluciones positivas, negativas o nulas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema homogéneo es aquel donde $Ax = 0$. Debido a que el vector nulo siempre satisface esta igualdad, el sistema nunca puede ser incompatible. La duda reside solo en si la solución es única (la trivial) o hay infinitas soluciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v14",
+      "statement": "Halla las soluciones del sistema:\n$\\begin{cases} x^2 + y^2 = 25 \\\\ y = x + 1 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, 4) solamente.",
+          "is_correct": false,
+          "feedback": "Falta la segunda intersección."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 4) y (-4, -3)",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + (x+1)^2 = 25 \\Rightarrow 2x^2 + 2x - 24 = 0 \\Rightarrow x^2+x-12=0 \\Rightarrow x=3, x=-4$."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 5) y (5, 0)",
+          "is_correct": false,
+          "feedback": "El punto (5, 0) no cumple la segunda ecuación ($0 \\neq 5+1$)."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene soluciones reales.",
+          "is_correct": false,
+          "feedback": "La recta corta al círculo en dos puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos la expresión de $y$ en la ecuación del círculo. Obtenemos una ecuación de segundo grado que nos da las dos posibles coordenadas $x$. Finalmente, hallamos las $y$ correspondientes usando la ecuación de la recta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v15",
+      "statement": "Si el determinante de la matriz de coeficientes de un sistema $3 \\times 3$ es distinto de cero, ¿qué tipo de sistema es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compatible Indeterminado.",
+          "is_correct": false,
+          "feedback": "El rango sería menor que 3 en ese caso."
+        },
+        {
+          "letter": "B",
+          "text": "Compatible Determinado.",
+          "is_correct": true,
+          "feedback": "Correcto. Si $|A| \\neq 0$, el rango es 3 (igual al número de incógnitas), por lo que hay una solución única."
+        },
+        {
+          "letter": "C",
+          "text": "Incompatible.",
+          "is_correct": false,
+          "feedback": "Con determinante no nulo, el sistema siempre tiene solución."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema Homogéneo Indeterminado.",
+          "is_correct": false,
+          "feedback": "Los homogéneos son determinados si el determinante es no nulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sistemas cuadrados (mismo número de ecuaciones que de incógnitas), el determinante de la matriz de coeficientes es el indicador clave: si es no nulo, el sistema es compatible determinado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v16",
+      "statement": "Resuelve:\n$\\begin{cases} \\log x + \\log y = 1 \\\\ x + y = 7 \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x=1, y=6$",
+          "is_correct": false,
+          "feedback": "$\\log 1 + \\log 6 = \\log 6 \\neq 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$x=2, y=5$ (y viceversa)",
+          "is_correct": true,
+          "feedback": "Correcto. $\\log(xy)=1 \\Rightarrow xy=10$. Los números que suman 7 y multiplican 10 son 2 y 5."
+        },
+        {
+          "letter": "C",
+          "text": "$x=3, y=4$",
+          "is_correct": false,
+          "feedback": "El producto es 12, no 10."
+        },
+        {
+          "letter": "D",
+          "text": "$x=10, y=-3$",
+          "is_correct": false,
+          "feedback": "El logaritmo de -3 no existe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Transformamos la ecuación logarítmica en una algebraica: $xy = 10^1 = 10$. El sistema se convierte en buscar dos números conocida su suma (7) y su producto (10), lo que lleva a una ecuación de segundo grado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la limitación principal de la Regla de Cramer para resolver sistemas de ecuaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo sirve para sistemas incompatibles.",
+          "is_correct": false,
+          "feedback": "Solo sirve para sistemas compatibles determinados."
+        },
+        {
+          "letter": "B",
+          "text": "Solo se puede aplicar a sistemas con el mismo número de ecuaciones que de incógnitas y determinante no nulo.",
+          "is_correct": true,
+          "feedback": "Correcto. Requiere que la matriz de coeficientes sea cuadrada e inversible."
+        },
+        {
+          "letter": "C",
+          "text": "Es un método gráfico muy impreciso.",
+          "is_correct": false,
+          "feedback": "Es un método analítico exacto basado en determinantes."
+        },
+        {
+          "letter": "D",
+          "text": "Solo funciona si todas las soluciones son enteras.",
+          "is_correct": false,
+          "feedback": "Funciona para cualquier solución real o compleja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regla de Cramer es elegante pero restrictiva: requiere una matriz cuadrada y con determinante no nulo. Además, computacionalmente es ineficiente para sistemas grandes comparada con el método de Gauss.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v18",
+      "statement": "En un sistema con $Rg(A) = 2$ y $Rg(A') = 3$, ¿qué podemos afirmar sobre sus soluciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene infinitas soluciones dependiendo de un parámetro.",
+          "is_correct": false,
+          "feedback": "Eso ocurriría si los rangos fueran iguales a 2."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una solución única.",
+          "is_correct": false,
+          "feedback": "Los rangos deberían ser iguales y coincidir con las incógnitas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un sistema incompatible (no tiene solución).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser los rangos distintos, el sistema es inconsistente."
+        },
+        {
+          "letter": "D",
+          "text": "Es un sistema homogéneo determinado.",
+          "is_correct": false,
+          "feedback": "Los sistemas homogéneos nunca tienen rangos distintos entre A y A'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desigualdad de rangos ($Rg(A) < Rg(A')$) implica que el vector de términos independientes no puede expresarse como combinación lineal de las columnas de la matriz de coeficientes, lo que imposibilita la existencia de solución.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v19",
+      "statement": "¿De cuántos parámetros dependerá la solución de un sistema de 3 incógnitas con $Rg(A) = Rg(A') = 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 parámetro.",
+          "is_correct": true,
+          "feedback": "Correcto. $n - Rg = 3 - 2 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "2 parámetros.",
+          "is_correct": false,
+          "feedback": "El rango tendría que ser 1."
+        },
+        {
+          "letter": "C",
+          "text": "Ningún parámetro (solución única).",
+          "is_correct": false,
+          "feedback": "El rango tendría que ser 3."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución.",
+          "is_correct": false,
+          "feedback": "Los rangos son iguales, por lo que es compatible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de parámetros (grados de libertad) de un sistema compatible indeterminado es la diferencia entre el número de incógnitas ($n$) y el rango de la matriz del sistema.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle-v20",
+      "statement": "Determina el valor de $x$ e $y$ en:\n$\\begin{cases} x + y = a \\\\ x - y = b \\end{cases}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = (a+b)/2, y = (a-b)/2$",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar las ecuaciones $2x = a+b$; al restarlas $2y = a-b$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = a+b, y = a-b$",
+          "is_correct": false,
+          "feedback": "Falta dividir por 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = ab, y = a/b$",
+          "is_correct": false,
+          "feedback": "Fórmulas incorrectas."
+        },
+        {
+          "letter": "D",
+          "text": "$x = a, y = b$",
+          "is_correct": false,
+          "feedback": "No cumple el sistema original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta es la resolución general de un sistema de suma y diferencia. Las soluciones son siempre la semisuma y la semidiferencia de los términos independientes. Es un patrón algebraico muy frecuente.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W06-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

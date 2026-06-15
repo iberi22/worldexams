@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T04:32:34.698Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una ecuación de segundo grado completa con una incógnita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax + b = 0$",
+          "is_correct": false,
+          "feedback": "Esta es la forma de una ecuación de primer grado o lineal."
+        },
+        {
+          "letter": "B",
+          "text": "$ax^2 + bx + c = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Incluye el término cuadrático, el lineal y el independiente."
+        },
+        {
+          "letter": "C",
+          "text": "$ax^2 + c = 0$",
+          "is_correct": false,
+          "feedback": "Esta es una ecuación de segundo grado incompleta (falta el término lineal)."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 = k$",
+          "is_correct": false,
+          "feedback": "Forma básica de una ecuación cuadrática pura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una ecuación de segundo grado completa requiere que los coeficientes $a, b$ y $c$ sean distintos de cero (especialmente $a$, para que sea cuadrática). Se conoce también como ecuación de la forma general.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica un discriminante negativo ($\\Delta < 0$) en una ecuación de segundo grado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la ecuación tiene dos soluciones reales distintas.",
+          "is_correct": false,
+          "feedback": "Esto ocurre cuando el discriminante es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ecuación tiene una única solución real (doble).",
+          "is_correct": false,
+          "feedback": "Esto ocurre cuando el discriminante es cero."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ecuación no tiene soluciones reales.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser la raíz de un número negativo, las soluciones son números complejos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ecuación es lineal en realidad.",
+          "is_correct": false,
+          "feedback": "El grado depende del exponente, no del discriminante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discriminante ($\\Delta = b^2 - 4ac$) es el término bajo la raíz cuadrada en la fórmula general. Si es negativo, no existe raíz real, por lo que la parábola asociada no corta al eje X.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v3",
+      "statement": "Resuelve la ecuación: $3(x - 2) = x + 4$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Error al despejar los términos."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "$3(3-2)=3$; $3+4=7$. No se cumple la igualdad."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x - 6 = x + 4 \\Rightarrow 2x = 10 \\Rightarrow x = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -1$",
+          "is_correct": false,
+          "feedback": "Error de signos en el desarrollo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver ecuaciones lineales con paréntesis, primero aplicamos la propiedad distributiva, luego agrupamos términos con $x$ en un miembro y números en el otro, y finalmente despejamos la incógnita.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las soluciones de la ecuación $x^2 - 9 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo $x = 3$",
+          "is_correct": false,
+          "feedback": "Se ha olvidado la raíz negativa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = -3$",
+          "is_correct": false,
+          "feedback": "Se ha olvidado la raíz positiva."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$ y $x = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 = 9 \\Rightarrow x = \\pm \\sqrt{9}$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real.",
+          "is_correct": false,
+          "feedback": "Al ser el término independiente negativo tras pasarlo al otro lado, la raíz es real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las ecuaciones de la forma $x^2 - c = 0$ se resuelven despejando $x^2$ y extrayendo la raíz cuadrada, recordando siempre considerar tanto la solución positiva como la negativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v5",
+      "statement": "Halla las soluciones de la ecuación: $x^2 - 5x + 6 = 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Aunque suman 7 y su producto es 6, no anulan la ecuación con los signos dados."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-2)(x-3) = x^2 - 5x + 6 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "El término lineal sería +5x con estas raíces."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ y $x = 5$",
+          "is_correct": false,
+          "feedback": "Error al intentar factorizar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar la fórmula general o la factorización. Buscamos dos números que multiplicados den 6 y sumados den 5 (cambiado de signo para las raíces). Esos números son 2 y 3.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el conjunto solución de la ecuación $2x^2 + 8x = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Error de signo al despejar tras sacar factor común."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$ y $x = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x(x + 4) = 0 \\Rightarrow 2x = 0$ o $x + 4 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "Solo $x = -4$",
+          "is_correct": false,
+          "feedback": "Se ha olvidado la solución trivial x = 0."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$ y $x = 8$",
+          "is_correct": false,
+          "feedback": "Error al tratar de resolver por inspección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En ecuaciones de la forma $ax^2 + bx = 0$, siempre se puede extraer factor común $x$. Esto garantiza que una de las soluciones sea siempre $x=0$, mientras que la otra se obtiene resolviendo el factor lineal restante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v7",
+      "statement": "Si $x_1$ y $x_2$ son las raíces de $ax^2 + bx + c = 0$, ¿a qué es igual la suma de dichas raíces según las fórmulas de Vieta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c/a$",
+          "is_correct": false,
+          "feedback": "Este es el producto de las raíces, no la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$-b/a$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de las raíces es el opuesto del coeficiente lineal entre el principal."
+        },
+        {
+          "letter": "C",
+          "text": "$b/a$",
+          "is_correct": false,
+          "feedback": "Falta el signo negativo de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{\\Delta}/2a$",
+          "is_correct": false,
+          "feedback": "Esto es parte de la fórmula de resolución, no la suma total de raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las relaciones de Vieta permiten conocer propiedades de las raíces directamente desde los coeficientes sin resolver la ecuación. La suma es $-b/a$ y el producto es $c/a$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v8",
+      "statement": "Plantea la ecuación para hallar el ancho ($x$) del terreno.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 2 = 120$",
+          "is_correct": false,
+          "feedback": "Esto es el perímetro, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 2x - 120 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $x(x + 2) = 120 \\Rightarrow x^2 + 2x = 120$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 2x + 120 = 0$",
+          "is_correct": false,
+          "feedback": "Error de signos en el planteamiento."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 = 120$",
+          "is_correct": false,
+          "feedback": "Error al relacionar el largo y el ancho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Asignamos $x$ al ancho, por lo que el largo es $(x + 2)$. El área es el producto de ambos: $x \\cdot (x + 2) = 120$. Al desarrollar e igualar a cero, obtenemos una ecuación cuadrática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la solución de la ecuación $x^2 - 10x + 25 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$ y $x = -5$",
+          "is_correct": false,
+          "feedback": "El producto sería -25, no +25."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$ (doble)",
+          "is_correct": true,
+          "feedback": "Correcto. Es el desarrollo del binomio $(x-5)^2 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Error al relacionar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real.",
+          "is_correct": false,
+          "feedback": "El discriminante es cero ($100 - 100$), por lo que sí tiene solución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuación tiene una raíz doble. Reconocer identidades notables ahorra el uso de la fórmula general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v10",
+      "statement": "Resuelve: $\\frac{x}{2} + \\frac{x}{3} = 5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Valor demasiado pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por 6: $3x + 2x = 30 \\Rightarrow 5x = 30 \\Rightarrow x = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Error al operar las fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Error al despejar tras sumar las fracciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver ecuaciones con denominadores, multiplicamos todos los términos por el mínimo común múltiplo de los denominadores para convertirla en una ecuación entera.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué valor de $k$ la ecuación $x^2 - 4x + k = 0$ tiene una única solución real?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Tendría dos soluciones (0 y 4)."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "El discriminante sería $16-8=8 > 0$, dos soluciones reales."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante debe ser cero: $(-4)^2 - 4(1)(k) = 16 - 4k = 0 \\Rightarrow k = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 16$",
+          "is_correct": false,
+          "feedback": "El discriminante sería negativo, sin soluciones reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La condición de \"solución única\" en una cuadrática equivale a que el discriminante sea exactamente cero. Resolvemos la ecuación resultante para el parámetro desconocido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la ecuación $2x^2 - 7x + 3 = 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 3/2$",
+          "is_correct": false,
+          "feedback": "Error al aplicar la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$ y $x = 1/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\Delta = 49 - 24 = 25$. $x = (7 \\pm 5)/4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$ y $x = -1/2$",
+          "is_correct": false,
+          "feedback": "Error de signos en la aplicación de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene soluciones enteras ni fraccionarias simples.",
+          "is_correct": false,
+          "feedback": "Las soluciones son racionales y exactas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la fórmula cuadrática completa. Identificamos $a=2, b=-7, c=3$. Calculamos el discriminante (25), extraemos su raíz (5) y operamos para obtener los dos valores de $x$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el número máximo de soluciones reales que puede tener una ecuación polinómica de grado $n$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre tiene $n$ soluciones reales.",
+          "is_correct": false,
+          "feedback": "Algunas pueden ser complejas."
+        },
+        {
+          "letter": "B",
+          "text": "Como máximo $n$ soluciones reales.",
+          "is_correct": true,
+          "feedback": "Correcto. El grado marca el límite superior de raíces."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre tiene al menos una solución real.",
+          "is_correct": false,
+          "feedback": "No para grados pares (ej. x^2+1=0)."
+        },
+        {
+          "letter": "D",
+          "text": "$n-1$ soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El grado de una ecuación polinómica determina el número total de soluciones (contando multiplicidad) en los complejos. En los reales, ese número es un límite superior; puede haber menos o ninguna.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v14",
+      "statement": "Resuelve para el radio positivo $r$: $r^2 + 4r - 21 = 0$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$r = 7$",
+          "is_correct": false,
+          "feedback": "$49 + 28 - 21 = 56 \\neq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$r = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $9 + 12 - 21 = 0$. La otra raíz es -7, pero un radio debe ser positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$r = 5$",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "$r = 21$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al resolver problemas aplicados a la geometría (como longitudes o radios), aunque la ecuación cuadrática arroje dos soluciones, debemos descartar las negativas por carecer de sentido físico en el contexto del problema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v15",
+      "statement": "¿Qué se puede afirmar sobre la gráfica de $y = x^2 - 6x + 9$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corta al eje X en dos puntos.",
+          "is_correct": false,
+          "feedback": "Solo corta en uno (el vértice)."
+        },
+        {
+          "letter": "B",
+          "text": "Es tangente al eje X en el punto (3, 0).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser una raíz doble, el vértice toca el eje sin cruzarlo."
+        },
+        {
+          "letter": "C",
+          "text": "No toca nunca el eje X.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si el discriminante fuera negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una línea recta.",
+          "is_correct": false,
+          "feedback": "Es una parábola por ser de grado 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conexión entre el álgebra y la geometría es clave. Una raíz doble en una ecuación cuadrática significa que la parábola correspondiente tiene su vértice justo sobre el eje de abscisas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v16",
+      "statement": "Resuelve: $(x+1)^2 = x^2 + 5$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "$2^2 = 4$; $1+5=6$. No se cumple."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + 2x + 1 = x^2 + 5 \\Rightarrow 2x = 4 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Error al simplificar la identidad notable."
+        },
+        {
+          "letter": "D",
+          "text": "Ecuación sin solución.",
+          "is_correct": false,
+          "feedback": "Los términos cuadráticos se cancelan, dejando una lineal resoluble."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A veces, expresiones que parecen de segundo grado se simplifican a primer grado si los coeficientes de $x^2$ en ambos miembros son iguales. Es vital desarrollar correctamente los binomios antes de intentar despejar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v17",
+      "statement": "Halla las soluciones de: $\\frac{x+1}{x-1} = 3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "El denominador se anularía, la solución no es válida."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $x + 1 = 3x - 3 \\Rightarrow 2x = 4 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Error al multiplicar por el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En ecuaciones racionales, multiplicamos por el denominador para \"linealizar\" la ecuación. Siempre debemos comprobar que la solución obtenida no anule el denominador original de la expresión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v18",
+      "statement": "¿Cuáles son las soluciones reales de la ecuación $x^4 - 13x^2 + 36 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$ y $x = 9$",
+          "is_correct": false,
+          "feedback": "Estas son las soluciones para $z=x^2$, falta extraer la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\pm 2$ y $x = \\pm 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Si $z=x^2$, $z^2-13z+36=0$ da $z=4, z=9$. Sus raíces son $\\pm 2$ y $\\pm 3$."
+        },
+        {
+          "letter": "C",
+          "text": "Solo $x = 2$ y $x = 3$",
+          "is_correct": false,
+          "feedback": "Se han omitido las soluciones negativas."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene soluciones reales.",
+          "is_correct": false,
+          "feedback": "Tiene cuatro soluciones reales distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ecuaciones bicuadráticas ($ax^4 + bx^2 + c = 0$) se resuelven mediante el cambio de variable $z = x^2$. Una vez hallados los valores de $z$, deshacemos el cambio calculando las raíces cuadradas correspondientes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la suma de los inversos de las raíces de la ecuación $x^2 - 4x + 2 = 0$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Esta es la suma de las raíces simples."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $1/x_1 + 1/x_2 = (x_1+x_2)/(x_1 \\cdot x_2) = (-b/a)/(c/a) = -b/c = 4/2 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Error al aplicar la fórmula de la relación entre raíces."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Error de signo en la relación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando las fórmulas de Vieta, podemos hallar expresiones complejas de las raíces sin conocer su valor exacto. La suma de los inversos siempre equivale a $-b/c$ de la ecuación original.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle-v20",
+      "statement": "Si en la ecuación $x^2 + bx + c = 0$, las raíces son consecutivas (ej. 3 y 4), ¿cuál es el valor del discriminante $\\Delta$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Si las raíces son $r$ y $r+1$, su diferencia es 1. Dado que $x_1-x_2 = \\sqrt{\\Delta}/a$, entonces $1 = \\sqrt{\\Delta}/1 \\Rightarrow \\Delta = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Las raíces serían iguales, no consecutivas."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Las raíces distarían 2 unidades entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de los valores de b y c.",
+          "is_correct": false,
+          "feedback": "Para cualquier par de raíces consecutivas, el discriminante siempre vale 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un resultado elegante del álgebra: la distancia entre las raíces de una cuadrática está directamente relacionada con la raíz del discriminante. Si la distancia es 1 (raíces consecutivas), el discriminante debe ser 1.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "ES-MAT-11-2026-W05-ecuaciones-lineales-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
