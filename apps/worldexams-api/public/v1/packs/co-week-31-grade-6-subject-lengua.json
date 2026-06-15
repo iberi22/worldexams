@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-31-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T02:05:35.608Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v1",
+      "statement": "¿Qué define a un medio 'masivo'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es muy grande",
+          "is_correct": false,
+          "feedback": "Físicamente no."
+        },
+        {
+          "letter": "B",
+          "text": "Es costoso",
+          "is_correct": false,
+          "feedback": "No es su fin."
+        },
+        {
+          "letter": "C",
+          "text": "Llega a mucha gente al tiempo",
+          "is_correct": true,
+          "feedback": "Correcto, difusión amplia."
+        },
+        {
+          "letter": "D",
+          "text": "Solo lo usan niños",
+          "is_correct": false,
+          "feedback": "Es para todos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Concepto de masa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v2",
+      "statement": "¿Qué medio es típicamente impreso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periódico",
+          "is_correct": true,
+          "feedback": "Correcto, en papel."
+        },
+        {
+          "letter": "B",
+          "text": "Radio",
+          "is_correct": false,
+          "feedback": "Es sonoro."
+        },
+        {
+          "letter": "C",
+          "text": "Televisión",
+          "is_correct": false,
+          "feedback": "Es visual."
+        },
+        {
+          "letter": "D",
+          "text": "Cine",
+          "is_correct": false,
+          "feedback": "Es visual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Medios escritos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v3",
+      "statement": "Elemento clave de la radio.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imagen",
+          "is_correct": false,
+          "feedback": "No tiene."
+        },
+        {
+          "letter": "B",
+          "text": "La voz y el sonido",
+          "is_correct": true,
+          "feedback": "Correcto, es auditivo."
+        },
+        {
+          "letter": "C",
+          "text": "El papel",
+          "is_correct": false,
+          "feedback": "No se lee."
+        },
+        {
+          "letter": "D",
+          "text": "El color",
+          "is_correct": false,
+          "feedback": "No se ve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lenguaje radiofónico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v4",
+      "statement": "Una función de la TV es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo vender",
+          "is_correct": false,
+          "feedback": "No es única."
+        },
+        {
+          "letter": "B",
+          "text": "Solo educar",
+          "is_correct": false,
+          "feedback": "No es única."
+        },
+        {
+          "letter": "C",
+          "text": "Solo mentir",
+          "is_correct": false,
+          "feedback": "No es su fin."
+        },
+        {
+          "letter": "D",
+          "text": "Informar y entretener",
+          "is_correct": true,
+          "feedback": "Correcto, funciones básicas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Rol de la TV.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v5",
+      "statement": "Diferencia de Internet con la TV.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interactividad",
+          "is_correct": true,
+          "feedback": "Correcto, el usuario participa."
+        },
+        {
+          "letter": "B",
+          "text": "Lentitud",
+          "is_correct": false,
+          "feedback": "Es más rápido."
+        },
+        {
+          "letter": "C",
+          "text": "Falta de imágenes",
+          "is_correct": false,
+          "feedback": "Tiene muchas."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de cables",
+          "is_correct": false,
+          "feedback": "Ambos usan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Web 2.0.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v6",
+      "statement": "Propósito de la publicidad.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar matemáticas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Contar la verdad",
+          "is_correct": false,
+          "feedback": "A veces omite."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir al consumidor",
+          "is_correct": true,
+          "feedback": "Correcto, busca ventas."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer amigos",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Intención persuasiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v7",
+      "statement": "La imparcialidad significa...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decir lo que yo quiera",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "No tomar partido",
+          "is_correct": true,
+          "feedback": "Correcto, neutralidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar noticias",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Hablar rápido",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ética periodística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v8",
+      "statement": "Riesgo de las redes.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mucha luz",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Pocas fotos",
+          "is_correct": false,
+          "feedback": "Hay muchas."
+        },
+        {
+          "letter": "C",
+          "text": "Exceso de tareas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Noticias falsas",
+          "is_correct": true,
+          "feedback": "Correcto, desinformación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Fake news.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v9",
+      "statement": "El cine como medio masivo...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combina imagen y sonido",
+          "is_correct": true,
+          "feedback": "Correcto, es completo."
+        },
+        {
+          "letter": "B",
+          "text": "Es aburrido",
+          "is_correct": false,
+          "feedback": "Subjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "No comunica nada",
+          "is_correct": false,
+          "feedback": "Falso."
+        },
+        {
+          "letter": "D",
+          "text": "Es solo para TV",
+          "is_correct": false,
+          "feedback": "Falso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lenguaje cinematográfico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle-v10",
+      "statement": "¿Qué debe priorizar un periodista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser famoso",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "La veracidad",
+          "is_correct": true,
+          "feedback": "Correcto, compromiso."
+        },
+        {
+          "letter": "C",
+          "text": "Ganar dinero",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Ocultar la verdad",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verdad y rigor.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W31-medios-comunicacion-masiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

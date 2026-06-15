@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-27-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.673Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v1",
+      "statement": "¿En qué situación se deben usar los **dos puntos (:)**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre al final de cada párrafo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Antes de empezar una enumeración o después de un saludo en una carta.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Para separar todas las palabras de una oración.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo cuando queremos gritar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue, que suele ser una explicación, consecuencia o enumeración.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v2",
+      "statement": "¿Qué tipo de pausa representa el **punto y coma (;)**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pausa muy cortita, igual a la de la coma.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una pausa total, igual a la del punto final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una pausa intermedia: mayor que la de la coma pero menor que la del punto.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No representa ninguna pausa, es solo un adorno.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto y coma separa oraciones gramaticalmente independientes pero estrechamente relacionadas por el sentido.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v3",
+      "statement": "¿Cuál es la forma correcta de iniciar una carta usando los dos puntos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Querida mamá, espero que estés bien.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Querida mamá: Espero que estés bien.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Querida mamá; espero que estés bien.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Querida mamá. espero que estés bien.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En español, a diferencia del inglés, la norma ortográfica exige el uso de dos puntos tras el vocativo de saludo en las cartas y correos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v4",
+      "statement": "¿Cuándo es obligatorio usar el **punto y coma** en una enumeración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la lista es de más de tres cosas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cuando los elementos de la lista ya contienen comas en su interior.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Siempre que escribamos una lista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nunca es obligatorio.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto y coma funciona como un organizador de segundo nivel en enumeraciones donde la coma ya está siendo usada para descripciones internas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v5",
+      "statement": "\"El profesor dijo__ 'Saquen sus cuadernos ahora mismo'\". ¿Qué signo falta en el espacio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una coma.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dos puntos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Punto y coma.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Un guion.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos preceden a la reproducción de palabras textuales, que además suelen ir entre comillas o precedidas de raya.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v6",
+      "statement": "\"Marta fue a la playa; Luis prefirió quedarse en el hotel\". ¿Por qué se usa el punto y coma aquí?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son dos oraciones que no tienen nada que ver.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque son dos ideas relacionadas pero independientes que forman parte de un mismo tema.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque el autor se equivocó de signo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Para que la oración se vea más larga.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto y coma permite una fluidez mayor que el punto seguido, manteniendo la conexión mental entre dos acciones paralelas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v7",
+      "statement": "\"Colombia tiene tres cordilleras__ la Occidental, la Central y la Oriental\". ¿Qué signo va mejor en el espacio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los dos puntos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El punto y coma.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El signo de interrogación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos son obligatorios cuando se ha anticipado el contenido de la lista mediante un sustantivo o número (tres cordilleras: ...).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v8",
+      "statement": "¿Cuál de estas listas está escrita de forma más CLARA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visitamos Medellín, Antioquia, Cali, Valle, Bogotá, Cundinamarca.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Visitamos Medellín, Antioquia; Cali, Valle; Bogotá, Cundinamarca.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Visitamos Medellín: Antioquia, Cali: Valle, Bogotá: Cundinamarca.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Visitamos Medellín Antioquia Cali Valle Bogotá Cundinamarca.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el uso más pragmático del punto y coma: jerarquizar la información en listas donde ya existen divisiones internas con coma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v9",
+      "statement": "¿Cuándo se debe escribir con mayúscula después de los dos puntos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre, sin excepción.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nunca, siempre va en minúscula.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En el saludo de las cartas y al empezar una cita textual.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo si la palabra es muy importante.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia del punto seguido, los dos puntos no siempre obligan al uso de mayúscula; el estudiante debe distinguir el contexto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases usa los dos puntos para sustituir a un conector como \"porque\" o \"por eso\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comí mucho: ayer en el restaurante.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No pudo viajar: el aeropuerto estaba cerrado por la niebla.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El aeropuerto: cerrado por niebla hoy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Viajar es: muy divertido para todos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso avanzado de los dos puntos permite establecer relaciones de causa-efecto o explicación sin necesidad de usar nexos verbales, dando agilidad al texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W27-dos-puntos-punto-y-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-5-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.660Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v1",
+      "statement": "¿Qué palabra es un adjetivo en la frase: \"La manzana es roja\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "manzana",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "es",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "roja",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los adjetivos son palabras que expresan cualidades o características de los sustantivos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes adjetivos describe una cualidad de una persona amable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cariñosa",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Rápido",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Azul",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos calificativos pueden describir tanto rasgos físicos como rasgos de la personalidad (cualidades morales).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v3",
+      "statement": "Elige el adjetivo que mejor completa la oración: \"En el nevado hace un frío ___________.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "caliente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "intenso",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "verde",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "dulce",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debemos elegir adjetivos que tengan coherencia con el sustantivo y el contexto de la oración.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v4",
+      "statement": "¿Cuál es la forma correcta del adjetivo para completar la frase: \"Las flores son ________\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bonito",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "bonita",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "bonitas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "bonitos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El adjetivo debe concordar siempre en género (masculino/femenino) y número (singular/plural) con el sustantivo al que acompaña.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v5",
+      "statement": "En la oración \"El elefante es más grande que el perro\", ¿cuál es el adjetivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elefante",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "grande",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "más",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "perro",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el adjetivo esté en una comparación, su función sigue siendo describir una característica del sustantivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v6",
+      "statement": "¿Cuál de estos grupos de palabras son solo adjetivos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pelota, saltarina, roja.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nuevo, brillante, pequeño.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Juguete, divertido, plástico.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Correr, rápido, lejos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar los adjetivos de otras clases de palabras es fundamental para mejorar nuestra capacidad descriptiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v7",
+      "statement": "\"El desierto es extenso y caluroso\". ¿A qué sustantivo describen los adjetivos resaltados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Desierto",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Paisajes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Guajira",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar el sustantivo núcleo nos ayuda a comprender mejor el objeto de la descripción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v8",
+      "statement": "¿Qué adjetivo NO combina bien con el sustantivo \"hormigas culonas\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crujientes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tostadas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Voladoras",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Saladas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elección de adjetivos debe ser precisa y ajustarse a la realidad de lo que se describe en el texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v9",
+      "statement": "Si quieres que tu fiesta suene muy divertida, ¿qué adjetivo usarías en la frase: \"Te invito a mi _________ fiesta\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aburrida",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "fantástica",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "normal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "pequeña",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos tienen un poder persuasivo; pueden influir en cómo el lector percibe la información.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-v10",
+      "statement": "En la frase \"Bogotá es más fría que Cartagena\", ¿qué tipo de comparación se está haciendo con el adjetivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De igualdad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De superioridad",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "De inferioridad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No hay comparación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos pueden usarse para establecer comparaciones de superioridad, igualdad o inferioridad entre dos o más elementos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W05-adjetivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

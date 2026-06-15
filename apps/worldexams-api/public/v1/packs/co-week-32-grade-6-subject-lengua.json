@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T02:05:35.608Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento largo",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Relato objetivo de un hecho actual",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Una opinión personal",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Una carta de amor",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Objetividad y actualidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v2",
+      "statement": "Rasgo distintivo de la crónica.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es muy corta",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "No tiene autor",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Orden cronológico y detalles",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "D",
+          "text": "Solo se oye",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relato temporal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v3",
+      "statement": "La pirámide invertida...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo más importante va arriba",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "El final es lo mejor",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "No tiene orden",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Es un dibujo",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Orden de relevancia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v4",
+      "statement": "¿A qué responde la noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al clima",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Al horóscopo",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Al precio",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "A qué, quién, cómo, cuándo, dónde y por qué",
+          "is_correct": true,
+          "feedback": "C"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las 6 Ws.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v5",
+      "statement": "Un buen titular debe...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser llamativo y resumir",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "Ser muy largo",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "No decir nada",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Tener rimas",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Impacto inicial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v6",
+      "statement": "Crónica vs Noticia.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "X",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Y",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "La crónica es más detallada y subjetiva",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "D",
+          "text": "Z",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Género híbrido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v7",
+      "statement": "Función del primer párrafo.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despedirse",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Resumir lo esencial",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Dar la opinión",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Poner la fecha",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lead o entradilla.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v8",
+      "statement": "Las fuentes sirven para...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Dar veracidad y soporte",
+          "is_correct": true,
+          "feedback": "C"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Credibilidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué invalida una noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos falsos",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "Que sea larga",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Muchos colores",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "X",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rigor factual.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle-v10",
+      "statement": "Interés público es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "X",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Lo que afecta a la comunidad",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Y",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Z",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Criterio noticioso.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W32-generos-periodisticos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

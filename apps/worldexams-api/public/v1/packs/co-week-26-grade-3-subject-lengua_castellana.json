@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-26-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.666Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v1",
+      "statement": "¿Cómo se llama el punto que se pone al terminar de escribir todo un texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto y seguido.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Punto y aparte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Punto final.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Punto y coma.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto final señala el cierre total de un escrito o una parte independiente del mismo.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v2",
+      "statement": "¿Qué tipo de punto se usa para separar dos oraciones dentro del mismo párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto y seguido.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Punto y aparte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Punto final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dos puntos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto y seguido separa enunciados que integran un párrafo. Después de él se continúa escribiendo en la misma línea.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v3",
+      "statement": "¿Cómo debe empezar siempre la palabra que va justo después de un punto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con minúscula.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Con mayúscula.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Con un dibujo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En negrita.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto marca el final de una unidad de pensamiento; por lo tanto, la siguiente debe iniciar con mayúscula.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v4",
+      "statement": "¿Cuándo usamos el punto y aparte?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando queremos gritar algo muy fuerte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cuando terminamos un párrafo y queremos empezar otro en el siguiente renglón.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Solo al final del libro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cuando se nos acaba el papel.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto y aparte separa párrafos; indica que se ha terminado de desarrollar una idea y se va a pasar a otra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v5",
+      "statement": "\"El Carnaval es una fiesta alegre __ La gente baila en las calles __ Todos se divierten mucho __\"\n¿Qué tipo de puntos faltan en este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Puntos y seguido.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Signos de interrogación.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No faltan puntos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto permite que el lector haga una pausa y procese cada idea antes de pasar a la siguiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v6",
+      "statement": "¿Cuál de estas frases tiene bien puesto el punto y la mayúscula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me gusta el chocolate. ayer comí mucho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Me gusta el chocolate, Ayer comí mucho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Me gusta el chocolate. Ayer comí mucho.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Me gusta el chocolate Ayer comí mucho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La correcta relación entre puntuación y mayúsculas es señal de un buen dominio de la escritura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v7",
+      "statement": "Cuando encuentras un punto mientras lees en voz alta, ¿qué debes hacer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguir leyendo más rápido para no perder el hilo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hacer una pausa un poco más larga que la de la coma.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dejar de leer y cerrar el libro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gritar la palabra que sigue al punto.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los signos de puntuación también son marcas para la entonación y la respiración en la lectura oral.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v8",
+      "statement": "En la invitación dice: **\"Atn. Sr. Juan Pérez\"**. ¿Para qué sirven los puntos en \"Atn.\" y \"Sr.\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para indicar que la oración terminó.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para indicar que son abreviaturas (palabras cortas).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Son errores de escritura.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Para separar los nombres.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Además de separar oraciones, el punto tiene un uso ortográfico obligatorio al final de casi todas las abreviaturas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v9",
+      "statement": "¿Cuál de estos mensajes es el más claro gracias al uso del punto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hola mama como estas espero que bien nos vemos luego chao",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hola mama, como estas espero que bien nos vemos luego, chao",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hola, mamá. ¿Cómo estás? Espero que estés bien. Nos vemos luego.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hola mamá . como estas . espero bien . chao .",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque en los chats se omiten mucho, los puntos ayudan a evitar malentendidos en la comunicación escrita.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-v10",
+      "statement": "\"Las ballenas jorobadas llegan a Colombia en julio__ Ellas vienen a tener sus crías en las aguas tibias__ En octubre regresan al sur__\"\n¿Qué punto usarías después de \"aguas tibias\" si la siguiente oración sobre \"octubre\" va en el mismo párrafo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto y aparte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Punto y seguido.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Punto final.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ningún punto.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber elegir entre punto y seguido o punto y aparte depende de si la siguiente idea tiene una relación estrecha o un cambio de tema con la anterior.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W26-signos-punto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

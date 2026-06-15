@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-27-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.666Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v1",
+      "statement": "¿Cuál es la principal función de la coma en una lista de palabras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminar el texto para siempre.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Separar los elementos de una enumeración.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que alguien está gritando.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hacer que el texto sea más difícil de leer.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma enumerativa sirve para separar palabras que forman parte de una misma serie o lista.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v2",
+      "statement": "¿Cuál de estas frases usa correctamente las comas para una lista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compré piña y mango y uvas y fresas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Compré piña, mango, uvas y fresas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Compré, piña mango uvas fresas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Compré piña, mango, uvas, y fresas.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una enumeración, se ponen comas entre los elementos y se usa la conjunción \"y\" (o \"e\") antes del último.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v3",
+      "statement": "Cuando te diriges a alguien por su nombre, debes usar una coma (coma vocativa). ¿Cuál es el ejemplo correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hola Juan como estas?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hola, Juan, ¿cómo estás?",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hola Juan, ¿cómo estás?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hola Juan ¿cómo estás?",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma vocativa se usa para aislar el nombre de la persona (o ser) a quien nos estamos dirigiendo en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v4",
+      "statement": "¿Qué tipo de pausa representa la coma en comparación con el punto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pausa más larga.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una pausa más breve.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una pausa de 10 minutos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No representa ninguna pausa.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma indica una pausa breve que permite organizar los elementos dentro de una misma oración.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v5",
+      "statement": "\"Las ciudades más grandes de Colombia son Bogotá__ Medellín__ Cali y Barranquilla\". ¿Qué signo falta en los espacios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Coma.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dos puntos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Signo de interrogación.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma es indispensable para que las palabras de una lista no se lean todas pegadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v6",
+      "statement": "¿Cuál frase está MAL escrita porque le faltan las comas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi maleta es azul, grande y pesada.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tengo lápiz, borrador, sacapuntas y regla.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En mi cartuchera hay colores marcadores tijeras y pegante.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Juan, ven a jugar conmigo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ausencia de comas en una enumeración puede hacer que el texto se lea de forma confusa o acelerada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v7",
+      "statement": "A veces usamos comas para dar una explicación extra sobre alguien. Ejemplo: **\"Toby, el perro de mi tío, es muy juguetón\"**. ¿Para qué sirven esas comas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para separar una lista de perros.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para encerrar una aclaración o información adicional.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Para indicar que Toby está hablando.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Para terminar la oración.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las comas permiten insertar datos adicionales que explican mejor al sustantivo, sin perder el hilo de la oración principal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v8",
+      "statement": "¿Cuál de estas oraciones indica que se debe comer a un niño? (¡Es un error de coma!)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vamos a comer niños.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vamos a comer, niños.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Los niños van a comer.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "¿Qué van a comer los niños?",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una simple coma puede cambiar totalmente el significado de un mensaje; por eso debemos usarla con cuidado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v9",
+      "statement": "\"Cartagena__ 20 de mayo de 2026\". ¿Qué signo se usa siempre después del nombre de la ciudad en la fecha de una carta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Coma.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Rayita o guion.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dos puntos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma separa el nombre del lugar del tiempo en los encabezados de las comunicaciones escritas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-v10",
+      "statement": "¿Cuál es la forma mejor escrita de tu oración si viste leones, tigres, monos y osos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el zoológico vi leones tigres monos osos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "En el zoológico vi leones y tigres y monos y osos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En el zoológico vi leones, tigres, monos y osos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En el zoológico vi, leones, tigres, monos, y osos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dominar el uso de la coma enumerativa permite redactar textos más fluidos, organizados y profesionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W27-signos-coma-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

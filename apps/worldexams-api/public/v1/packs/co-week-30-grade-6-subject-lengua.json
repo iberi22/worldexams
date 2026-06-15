@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T02:05:35.608Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un tiempo simple del verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Auxiliar + Participio",
+          "is_correct": false,
+          "feedback": "Ese es compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Una sola palabra",
+          "is_correct": true,
+          "feedback": "Correcto, ej: canto."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el presente",
+          "is_correct": false,
+          "feedback": "Hay más simples."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el futuro",
+          "is_correct": false,
+          "feedback": "Hay más simples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Morfología verbal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v2",
+      "statement": "El modo indicativo expresa...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realidad",
+          "is_correct": true,
+          "feedback": "Correcto, hechos objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "Deseos",
+          "is_correct": false,
+          "feedback": "Ese es subjuntivo."
+        },
+        {
+          "letter": "C",
+          "text": "Órdenes",
+          "is_correct": false,
+          "feedback": "Ese es imperativo."
+        },
+        {
+          "letter": "D",
+          "text": "Dudas",
+          "is_correct": false,
+          "feedback": "Ese es subjuntivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modos del verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v3",
+      "statement": "Diferencia entre 'canté' y 'cantaba'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro vs Pasado",
+          "is_correct": false,
+          "feedback": "Ambos son pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Deseo vs Realidad",
+          "is_correct": false,
+          "feedback": "Ambos son indicativo."
+        },
+        {
+          "letter": "C",
+          "text": "Puntual vs Habitual",
+          "is_correct": true,
+          "feedback": "Correcto, aspecto verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Singular vs Plural",
+          "is_correct": false,
+          "feedback": "Ambos son 1ra pers."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pretéritos del indicativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v4",
+      "statement": "Futuro de 'estudiar' (nosotros).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estudiamos",
+          "is_correct": false,
+          "feedback": "Es presente."
+        },
+        {
+          "letter": "B",
+          "text": "Estudiaríamos",
+          "is_correct": false,
+          "feedback": "Es condicional."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiáramos",
+          "is_correct": false,
+          "feedback": "Es subjuntivo."
+        },
+        {
+          "letter": "D",
+          "text": "Estudiaremos",
+          "is_correct": true,
+          "feedback": "Correcto, tiempo futuro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Conjugación regular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v5",
+      "statement": "'Ojalá que...'. ¿Qué modo sigue?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicativo",
+          "is_correct": false,
+          "feedback": "Es realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Subjuntivo",
+          "is_correct": true,
+          "feedback": "Correcto, para deseos."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitivo",
+          "is_correct": false,
+          "feedback": "Es forma no personal."
+        },
+        {
+          "letter": "D",
+          "text": "Participio",
+          "is_correct": false,
+          "feedback": "Es forma no personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Régimen del subjuntivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v6",
+      "statement": "En 'Había llegado', el tiempo es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pluscuamperfecto",
+          "is_correct": true,
+          "feedback": "Correcto, pasado compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": "No es ahora."
+        },
+        {
+          "letter": "C",
+          "text": "Futuro",
+          "is_correct": false,
+          "feedback": "No es después."
+        },
+        {
+          "letter": "D",
+          "text": "Imperfecto",
+          "is_correct": false,
+          "feedback": "Es simple."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tiempos compuestos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v7",
+      "statement": "El condicional 'comería' indica...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Certeza absoluta",
+          "is_correct": false,
+          "feedback": "Es inseguro."
+        },
+        {
+          "letter": "B",
+          "text": "Pasado lejano",
+          "is_correct": false,
+          "feedback": "No es pretérito."
+        },
+        {
+          "letter": "C",
+          "text": "Acción posible bajo condición",
+          "is_correct": true,
+          "feedback": "Correcto, es hipotético."
+        },
+        {
+          "letter": "D",
+          "text": "Deseo irrealizable",
+          "is_correct": false,
+          "feedback": "No es su fin único."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Condicional simple.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v8",
+      "statement": "La raíz de 'caminaremos' es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caminare-",
+          "is_correct": false,
+          "feedback": "Incluye sufijo."
+        },
+        {
+          "letter": "B",
+          "text": "Camin-",
+          "is_correct": true,
+          "feedback": "Correcto, parte invariable."
+        },
+        {
+          "letter": "C",
+          "text": "Cam-",
+          "is_correct": false,
+          "feedback": "Muy corta."
+        },
+        {
+          "letter": "D",
+          "text": "-aremos",
+          "is_correct": false,
+          "feedback": "Es la desinencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lexema y morfema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v9",
+      "statement": "Error en 'Si yo habría sabido'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está bien",
+          "is_correct": false,
+          "feedback": "No lo está."
+        },
+        {
+          "letter": "B",
+          "text": "Falta tilde",
+          "is_correct": false,
+          "feedback": "No falta."
+        },
+        {
+          "letter": "C",
+          "text": "Uso de H",
+          "is_correct": false,
+          "feedback": "Está bien."
+        },
+        {
+          "letter": "D",
+          "text": "Debe ser 'hubiera'",
+          "is_correct": true,
+          "feedback": "Correcto, condicional exige subjuntivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Condicionales compuestas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v10",
+      "statement": "Forma correcta tras 'Es posible que...'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "venga",
+          "is_correct": true,
+          "feedback": "Correcto, subjuntivo."
+        },
+        {
+          "letter": "B",
+          "text": "viene",
+          "is_correct": false,
+          "feedback": "Es indicativo."
+        },
+        {
+          "letter": "C",
+          "text": "vendrás",
+          "is_correct": false,
+          "feedback": "Es indicativo."
+        },
+        {
+          "letter": "D",
+          "text": "venía",
+          "is_correct": false,
+          "feedback": "Es indicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Duda o posibilidad.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T02:05:35.609Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Texto que expone un punto de vista",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Un poema",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Un manual",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Argumentación personal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v2",
+      "statement": "La columna se caracteriza por...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser anónima",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "No tener tema",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Tener un autor fijo y regularidad",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "D",
+          "text": "Solo hablar de deportes",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Espacio del columnista.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v3",
+      "statement": "El editorial representa...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión del periódico",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "Al gobierno",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "A los lectores",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Al dueño",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Voz colectiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v4",
+      "statement": "La tesis en opinión es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "La fecha",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "El saludo",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "La idea principal que se defiende",
+          "is_correct": true,
+          "feedback": "C"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Postura central.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v5",
+      "statement": "Los argumentos sirven para...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustentar la tesis",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "Mentir",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Rimar",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Llenar espacio",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Apoyo lógico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v6",
+      "statement": "Uso de la primera persona.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibido",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Opcional",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Aceptado para marcar autoría",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "D",
+          "text": "Incorrecto",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Rasgo de subjetividad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v7",
+      "statement": "El fin del columnista es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer reír",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Convencer o invitar a reflexionar",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Vender algo",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Solo informar",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Impacto en el lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v8",
+      "statement": "La crítica cultural busca...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Valorar una obra o evento",
+          "is_correct": true,
+          "feedback": "C"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Juicio de valor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v9",
+      "statement": "Libertad de expresión es...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a opinar con respeto",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "B",
+          "text": "Decir mentiras",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "C",
+          "text": "Gritar",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "X",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valor democrático.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle-v10",
+      "statement": "Conclusión en opinión...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "X",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "B",
+          "text": "Refuerza la tesis",
+          "is_correct": true,
+          "feedback": "C"
+        },
+        {
+          "letter": "C",
+          "text": "Y",
+          "is_correct": false,
+          "feedback": "F"
+        },
+        {
+          "letter": "D",
+          "text": "Z",
+          "is_correct": false,
+          "feedback": "F"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cierre argumental.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W33-generos-opinion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

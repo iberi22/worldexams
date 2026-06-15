@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-29-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.666Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v1",
+      "statement": "¿Cuál es la forma correcta de escribir el nombre de este animal de cuello largo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Girafa (con g)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Jirafa (con j)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Guirafa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Jirrafa",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas palabras con sonido fuerte ante la \"i\" se escriben con \"j\", y debemos aprenderlas para no confundirlas con la \"g\".\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v2",
+      "statement": "¿Cómo se escribe la palabra que nombra a un animal que maúlla y empieza por g?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jato",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gato",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Guato",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gatto",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La letra \"g\" tiene sonido suave cuando va seguida de las vocales \"a\", \"o\", \"u\" (ga, go, gu).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v3",
+      "statement": "Para que la \"g\" suene suave con la **\"e\"** o con la **\"i\"**, ¿qué letra debemos poner en medio?\n(Ejemplo: **guerra**, **guitarra**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La o.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La u.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "La h.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna letra.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las sílabas gue, gui, la letra \"u\" es muda y sirve para indicar que la \"g\" tiene un sonido suave.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v4",
+      "statement": "¿En cuál de estas palabras la **\"g\"** suena fuerte, igual que la **\"j\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gota",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gusano",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Gente",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Galleta",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La \"g\" tiene un sonido fuerte, igual al de la \"j\", cuando va antes de la \"e\" o la \"i\" (ge, gi).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v5",
+      "statement": "Si queremos que la **\"u\"** sí suene en las sílabas gue o gui, ¿qué debemos ponerle encima?\n(Ejemplo: **pingüino**, **agüita**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tilde.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dos puntitos llamados diéresis (¨).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una rayita.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nada, la u siempre suena.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diéresis es un signo ortográfico que se coloca sobre la u para indicar que esta debe sonar en las combinaciones güe, güi.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v6",
+      "statement": "¿Cuál es la forma correcta de escribir la palabra que significa maletas o bultos para un viaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equipage (con g)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Equipaje (con j)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Equipajje",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Equipahe",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existe una regla ortográfica: la mayoría de las palabras que terminan en -aje y -eje se escriben con j.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v7",
+      "statement": "¿Cuál de estos verbos está bien escrito según la regla de la g?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recoger (con g)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Recojer (con j)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Elijer (con j)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dirijir (con j)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mayoría de los verbos terminados en -ger y -gir se escriben con g (excepciones: tejer y crujir).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v8",
+      "statement": "\"Los niños juegan en el **paisa__e** de la montaña\". ¿Qué letra falta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "g",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "j",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "h",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No falta nada.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar las reglas de terminación (-aje) ayuda a decidir la ortografía correcta de muchas palabras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v9",
+      "statement": "\"El **majo** sacó un **conego** de la gorra\". ¿Cómo debería estar escrito correctamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mago sacó un conego.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El majo sacó un conejo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El mago sacó un conejo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El majo sacó un conecho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir entre los sonidos de la g y la j es vital para la claridad de los textos narrativos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-v10",
+      "statement": "¿Cuál es la forma correcta de escribir el inicio de tu historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Jijantilandia todo es muy grande.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "En Gigantilandia todo es muy grande.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En Guigantilandia todo es muy grande.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En Higantilandia todo es muy grande.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ortografía correcta de los nombres de lugares, aunque sean imaginarios, debe seguir las reglas generales del idioma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W29-uso-g-j-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

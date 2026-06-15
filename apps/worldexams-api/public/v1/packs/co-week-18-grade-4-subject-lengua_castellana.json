@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-18-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.671Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de una noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar un cuento fantástico sobre dragones.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Informar al público sobre un hecho real, reciente e interesante de forma objetiva.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Expresar los sentimientos de amor del periodista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dar instrucciones para armar un juguete.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La noticia es el género periodístico básico que busca dar a conocer sucesos de relevancia social en el menor tiempo posible.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v2",
+      "statement": "¿Cómo se llama el texto corto que va justo arriba del cuerpo de la noticia y resume el hecho de forma llamativa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imagen o fotografía.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El titular o encabezado.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "La firma del autor.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El índice del periódico.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El titular es el elemento jerárquico más importante de la noticia, diseñado para informar el núcleo del hecho en una sola frase.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v3",
+      "statement": "¿Cuál de estas preguntas NO es obligatoria para que una noticia esté completa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Qué sucedió?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "¿A quién le sucedió?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "¿Dónde y cuándo ocurrió?",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "¿Cuál es el color favorito del periodista?",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una noticia bien construida debe responder a las preguntas básicas: qué, quién, cuándo, dónde, cómo y por qué.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v4",
+      "statement": "¿Qué información contiene el primer párrafo de una noticia (llamado copete o lead)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los chistes relacionados con el tema.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un resumen con los datos más importantes del suceso para que el lector se entere rápido.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Solo la fecha y la hora del cierre del periódico.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La opinión del alcalde sobre la noticia.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El copete funciona como una síntesis informativa que permite al lector conocer lo esencial sin leer todo el cuerpo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v5",
+      "statement": "\"Ayer, domingo 15 de marzo, la selección de patinaje ganó la medalla de oro en el mundial\". ¿Cuál es el dato del **tiempo** en esta noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selección de patinaje.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ganó la medalla de oro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ayer, domingo 15 de marzo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En el mundial.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La precisión temporal es vital para el valor de actualidad de la información periodística.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v6",
+      "statement": "¿Cuál de estas frases es propia de una noticia OBJETIVA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El tráfico de hoy me pareció muy aburrido y feo\".",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\"Un fuerte trancón se presentó en la carrera 27 debido a un choque entre dos vehículos\".",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Ojalá que mañana no haya tanto tráfico en la ciudad\".",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\"Los conductores deberían ser más amables entre ellos\".",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La objetividad periodística exige que el lenguaje sea descriptivo y factual, evitando los adjetivos calificativos que expresen gustos del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v7",
+      "statement": "Observas una foto de un río en el Amazonas y debajo dice: **\"Río Amazonas a su paso por Leticia. Foto: Archivo\"**. ¿Cómo se llama ese texto corto debajo de la imagen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subtítulo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Titular secundario.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pie de foto o leyenda.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Glosario.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pie de foto es un elemento paratextual que vincula la imagen con el contenido informativo del relato periodístico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v8",
+      "statement": "Si un texto empieza con **\"Huila, 24 de mayo de 2026\"** y cuenta que descubrieron una nueva estatua indígena, ¿qué tipo de texto es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una novela histórica.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una noticia periodística.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Un poema dedicado a los ancestros.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una carta de amor a la tierra.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura externa (fecha, lugar, titulares) es la primera señal que el lector recibe para identificar el género periodístico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v9",
+      "statement": "Si recibes una noticia que dice: **\"Mañana lloverán hamburguesas en todo Colombia\"**, ¿qué criterio de la noticia NO se está cumpliendo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de actualidad.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El de veracidad (verdad) y realismo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El de lugar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El de titular llamativo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desarrollar el espíritu crítico frente a la información es una de las metas más importantes de la alfabetización mediática en primaria.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-v10",
+      "statement": "¿Cuál de estos titulares es el mejor escrito para una noticia seria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Ganamos, ganamos, qué emoción!",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Colegio Los Alisos de Tunja recibe premio nacional por su proyecto de reciclaje.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las botellas de plástico estaban en el piso ayer por la mañana.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Premio para los mejores niños del mundo entero de Tunja.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La creación de titulares exige capacidad de síntesis y la habilidad de destacar la información más relevante de manera objetiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W18-produccion-noticia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

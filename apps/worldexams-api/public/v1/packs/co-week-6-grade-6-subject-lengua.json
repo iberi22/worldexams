@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T02:05:35.597Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es una conjunción copulativa que indica suma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pero",
+          "is_correct": false,
+          "feedback": "'Pero' es adversativa."
+        },
+        {
+          "letter": "B",
+          "text": "Y",
+          "is_correct": true,
+          "feedback": "Correcto, une sumando."
+        },
+        {
+          "letter": "C",
+          "text": "O",
+          "is_correct": false,
+          "feedback": "'O' es disyuntiva."
+        },
+        {
+          "letter": "D",
+          "text": "Sino",
+          "is_correct": false,
+          "feedback": "'Sino' es adversativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las copulativas unen términos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v2",
+      "statement": "¿Qué categoría gramatical es 'por'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verbo",
+          "is_correct": false,
+          "feedback": "Es acción."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunción",
+          "is_correct": false,
+          "feedback": "Une oraciones."
+        },
+        {
+          "letter": "C",
+          "text": "Preposición",
+          "is_correct": true,
+          "feedback": "Correcto, relaciona palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Adverbio",
+          "is_correct": false,
+          "feedback": "Modifica verbos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relaciona elementos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v3",
+      "statement": "¿Qué diferencia al artículo definido del indefinido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Especificidad",
+          "is_correct": true,
+          "feedback": "Correcto, señala algo conocido."
+        },
+        {
+          "letter": "B",
+          "text": "El género",
+          "is_correct": false,
+          "feedback": "Ambos tienen género."
+        },
+        {
+          "letter": "C",
+          "text": "El número",
+          "is_correct": false,
+          "feedback": "Ambos tienen número."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false,
+          "feedback": "Sí la hay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Determinación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v4",
+      "statement": "Completa: 'Voy ___ Cali'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": true,
+          "feedback": "Correcto, indica destino."
+        },
+        {
+          "letter": "B",
+          "text": "en",
+          "is_correct": false,
+          "feedback": "Indica ubicación."
+        },
+        {
+          "letter": "C",
+          "text": "de",
+          "is_correct": false,
+          "feedback": "Indica origen."
+        },
+        {
+          "letter": "D",
+          "text": "con",
+          "is_correct": false,
+          "feedback": "Indica compañía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Preposición de movimiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v5",
+      "statement": "Función de 'pero' en 'Iré, pero tarde'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma",
+          "is_correct": false,
+          "feedback": "No añade."
+        },
+        {
+          "letter": "B",
+          "text": "Oposición",
+          "is_correct": true,
+          "feedback": "Correcto, es contraste."
+        },
+        {
+          "letter": "C",
+          "text": "Opción",
+          "is_correct": false,
+          "feedback": "No excluye."
+        },
+        {
+          "letter": "D",
+          "text": "Causa",
+          "is_correct": false,
+          "feedback": "No explica motivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nexos adversativos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v6",
+      "statement": "Relación de 'ni' en 'ni uno ni otro'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma positiva",
+          "is_correct": false,
+          "feedback": "No es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Opción",
+          "is_correct": false,
+          "feedback": "No elige."
+        },
+        {
+          "letter": "C",
+          "text": "Adición negativa",
+          "is_correct": true,
+          "feedback": "Correcto, suma negaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Contraste",
+          "is_correct": false,
+          "feedback": "No opone."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Copulativa negativa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v7",
+      "statement": "Cambiar 'aunque' por 'y' altera...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación lógica",
+          "is_correct": true,
+          "feedback": "Correcto, cambia concesión por suma."
+        },
+        {
+          "letter": "B",
+          "text": "La ortografía",
+          "is_correct": false,
+          "feedback": "Se escribe igual."
+        },
+        {
+          "letter": "C",
+          "text": "El género",
+          "is_correct": false,
+          "feedback": "No tiene género."
+        },
+        {
+          "letter": "D",
+          "text": "Nada",
+          "is_correct": false,
+          "feedback": "Sí cambia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Matices de nexos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v8",
+      "statement": "En 'Libro de Pedro', 'de' indica...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Origen",
+          "is_correct": false,
+          "feedback": "No es de donde viene."
+        },
+        {
+          "letter": "B",
+          "text": "Materia",
+          "is_correct": false,
+          "feedback": "No es de qué está hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Tema",
+          "is_correct": false,
+          "feedback": "No es el asunto."
+        },
+        {
+          "letter": "D",
+          "text": "Pertenencia",
+          "is_correct": true,
+          "feedback": "Correcto, es el dueño."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relación de posesión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la contracción de 'a + el'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a el",
+          "is_correct": false,
+          "feedback": "Separado es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "al",
+          "is_correct": true,
+          "feedback": "Correcto, forma al."
+        },
+        {
+          "letter": "C",
+          "text": "ael",
+          "is_correct": false,
+          "feedback": "No existe."
+        },
+        {
+          "letter": "D",
+          "text": "la a",
+          "is_correct": false,
+          "feedback": "Inverso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contracción gramatical.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle-v10",
+      "statement": "Categoría de 'para' en 'para estudiar'.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustantivo",
+          "is_correct": false,
+          "feedback": "Es un nombre."
+        },
+        {
+          "letter": "B",
+          "text": "Verbo",
+          "is_correct": false,
+          "feedback": "Es acción."
+        },
+        {
+          "letter": "C",
+          "text": "Preposición",
+          "is_correct": true,
+          "feedback": "Correcto, indica finalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunción",
+          "is_correct": false,
+          "feedback": "Une oraciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Nexo preposicional.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W06-categorias-gramaticales-2-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

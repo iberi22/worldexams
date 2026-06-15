@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-40-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.668Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v1",
+      "statement": "¿Cuál es una regla de oro para un buen diálogo oral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hablar siempre más fuerte que el compañero.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Respetar el turno para hablar y escuchar con atención.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No mirar a los ojos a la persona que habla.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Interrumpir apenas se tenga una idea.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comunicación oral efectiva requiere reciprocidad y respeto por los turnos de habla.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v2",
+      "statement": "¿Cuál es el núcleo del predicado en cualquier oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sustantivo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El adjetivo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El verbo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El artículo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El verbo es la palabra que articula el sentido del predicado al expresar lo que hace o le sucede al sujeto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v3",
+      "statement": "¿En qué género literario se usan versos, estrofas y rimas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo (cuentos).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lírico (poesía).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dramático (teatro).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Informativo (noticias).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada género literario tiene una estructura y un propósito comunicativo diferente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v4",
+      "statement": "¿Cuándo se debe usar obligatoriamente letra mayúscula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al final de cada oración.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Al iniciar un escrito y en los nombres propios.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En todas las palabras que tengan más de cinco letras.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo cuando escribimos en color rojo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las mayúsculas sirven para marcar jerarquía y distinción en los nombres propios y el inicio de unidades textuales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v5",
+      "statement": "¿Cuál es la regla de tilde para las palabras **esdrújulas**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo se tildan si terminan en vocal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Se tildan si terminan en n o s.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Se tildan todas siempre, sin excepción.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nunca se tildan.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La posición del acento en la antepenúltima sílaba obliga siempre al uso de la tilde en español.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v6",
+      "statement": "¿En qué parte del cuento se resuelve el problema o nudo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nudo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Desenlace.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Título.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura narrativa clásica sigue una secuencia de equilibrio, conflicto y nueva resolución.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v7",
+      "statement": "¿Qué signo de puntuación falta en esta frase: \"Comí mango__ banano y fresa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un punto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una coma.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Un signo de exclamación.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dos puntos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma organiza los elementos de una serie, facilitando la lectura rítmica del texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v8",
+      "statement": "Si ves una mano dibujada que dice \"PARE\", ¿qué lenguajes se están combinando?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo lenguaje oral.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Solo lenguaje de señas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje icónico (dibujo) y verbal escrito (palabra).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje sonoro y químico.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La multimodalidad (usar varios tipos de signos) hace que la comunicación sea más efectiva y universal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v9",
+      "statement": "¿Qué es lo más importante para que un texto se entienda bien?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tenga muchos dibujos de colores.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que las ideas estén ordenadas y tengan sentido completo (coherencia).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que use palabras muy difíciles que nadie conozca.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que sea muy, muy largo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia textual es la propiedad que permite percibir un texto como una unidad con sentido.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-v10",
+      "statement": "¿Cuál sería el mejor mensaje para terminar tu cuaderno de Lengua Castellana de este año?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acabó el papel de mi cuaderno.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "¡Aprendí a leer, escribir y expresar mis ideas con alegría!",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No quiero volver al colegio nunca.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "ABCDEFGHIJ...",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La capacidad de sintetizar una experiencia de aprendizaje en un mensaje positivo demuestra madurez comunicativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

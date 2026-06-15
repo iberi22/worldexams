@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T02:05:35.663Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v1",
+      "statement": "¿Qué fue lo más probable que pasó con el jarrón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento lo botó al entrar por la ventana.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Toby lo tumbó mientras jugaba o corría.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lucía lo rompió al entrar a la casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El jarrón se rompió solo porque era viejo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia se basa en unir pistas del texto (jarrón roto, tierra, actitud del perro) para llegar a una conclusión lógica.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v2",
+      "statement": "¿Cómo se siente Toby en esta situación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy feliz y con ganas de jugar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Asustado o arrepentido por lo que hizo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tiene mucha hambre y sueño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Está enojado con Lucía.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir estados de ánimo requiere interpretar el lenguaje corporal de los personajes descrito en el texto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v3",
+      "statement": "¿Por qué Toby estaba escondido debajo de la cama?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque le gusta dormir en lugares oscuros.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque hacía mucho frío en la sala.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque sabía que había hecho algo malo y no quería que lo vieran.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque estaba jugando a las escondidas con Lucía.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La relación causa-efecto a menudo debe ser inferida por el lector cuando no se explica directamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v4",
+      "statement": "¿Estaba Lucía en la casa cuando se rompió el jarrón?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, ella estaba en la cocina.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, ella venía de la calle.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sí, ella estaba durmiendo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El texto no permite saberlo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Deducir la ubicación de los personajes es una inferencia básica de situación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v5",
+      "statement": "¿Qué podemos deducir sobre la relación entre Lucía y Toby?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lucía no quiere a su perro.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lucía cuida a Toby y él la reconoce como su dueña.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Toby es un perro callejero que entró a la casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Lucía nunca le habla a Toby.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las relaciones entre personajes se infieren a través de sus acciones y la forma en que se refieren unos a otros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v6",
+      "statement": "Si el jarrón tenía flores y había tierra en el piso, ¿qué más había en el jarrón además de las flores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dulces para Toby.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Piedras decorativas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tierra de una maceta o planta.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Solo agua.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A veces debemos inferir las características de los objetos basándonos en los rastros que dejan (la tierra en el piso).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v7",
+      "statement": "¿Qué hará probablemente Lucía después de ver el desastre?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pondrá a jugar con el jarrón roto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Limpiará la tierra y recogerá los pedazos del jarrón.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Se irá de la casa para siempre.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Romperá otro jarrón para acompañar al primero.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Predecir las acciones futuras de los personajes es un ejercicio avanzado de inferencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v8",
+      "statement": "¿Cuál de estas palabras describe mejor la situación en la sala de Lucía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizada",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Silenciosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Desordenada",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Festiva",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sintetizar la situación en una sola palabra requiere evaluar toda la información dada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v9",
+      "statement": "Si Toby pudiera hablar, ¿qué le diría probablemente a Lucía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¡Mira qué divertido juego inventé!\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\"Lo siento, Lucía, no quería romper tu jarrón.\"",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Tengo muchas ganas de salir a correr.\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\"¿Me compras otro jarrón nuevo?\"",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ponerse en el lugar de un personaje (empatía e inferencia) ayuda a profundizar en la comprensión del texto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-v10",
+      "statement": "¿Qué objeto del texto nos da la pista más clara de que algo malo pasó?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cama.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El jarrón roto en el piso.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las flores.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La puerta.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la \"pista clave\" o \"evidencia\" es fundamental para validar las inferencias realizadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W11-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
