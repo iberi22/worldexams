@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T20:35:33.992Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de simplificar la expresión $x^5 \\cdot x^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta operación correspondería a una división de potencias con la misma base."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplican los exponentes cuando las bases se están multiplicando."
+        },
+        {
+          "letter": "C",
+          "text": "$x^8$",
+          "is_correct": true,
+          "feedback": "Correcto. Según la ley de potencias, al multiplicar potencias de la misma base, se suman los exponentes: 5 + 3 = 8."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente no cambia a menos que haya bases numéricas explícitas multiplicándose."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación y aplicación de la ley de producto de potencias con la misma base en el campo de los números reales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v2",
+      "statement": "Si el lado del tablero mide $2^4$ cm, ¿cuál es su área expresada como una potencia de 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^6$ $\\text{cm}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área de un cuadrado es lado al cuadrado, no sumarle 2 al exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$2^8$ $\\text{cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (2^4)^2. Por la ley de potencia de una potencia, se multiplican los exponentes: 4 x 2 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "$4^4$ $\\text{cm}^2$",
+          "is_correct": false,
+          "feedback": "Aunque numéricamente es igual, la pregunta pide expresarlo como una potencia de base 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2^{16}$ $\\text{cm}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó el exponente al cuadrado (4^2) en lugar de multiplicarlo por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de la ley de potencia de una potencia y su aplicación en el cálculo de áreas geométricas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v3",
+      "statement": "¿A qué es equivalente la expresión $5^{-2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un exponente negativo no indica una multiplicación por -2 ni un resultado negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$-25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre el signo del exponente y el signo del resultado final."
+        },
+        {
+          "letter": "C",
+          "text": "$1/25$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, a^{-n} = 1/a^n. Así, 5^{-2} = 1/5^2 = 1/25."
+        },
+        {
+          "letter": "D",
+          "text": "$0.2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el resultado de 5^{-1}, no de 5^{-2}."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Definición y manejo de exponentes negativos para la conversión de potencias en fracciones recíprocas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la representación en forma de potencia con exponente fraccionario de la raíz quinta de $x^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^{5/3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice de la raíz debe ser el denominador de la fracción, no el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{3/5}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la relación entre radicales y potencias, la raíz n-ésima de x^m es x^{m/n}."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radicación no consiste en realizar una resta entre el exponente y el índice."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron el exponente y el índice en lugar de formar una fracción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conversión entre la notación de radicales y la notación de potencias con exponentes fraccionarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v5",
+      "statement": "Si la población inicial es de $3^2$ bacterias, ¿cuántas habrá después de 4 horas? Exprese el resultado como una potencia de 3.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el factor de crecimiento acumulado, pero falta multiplicar por la cantidad inicial."
+        },
+        {
+          "letter": "B",
+          "text": "$3^6$",
+          "is_correct": true,
+          "feedback": "Correcto. Cantidad = Inicial x Factor. 3^2 * 3^4 = 3^{2+4} = 3^6."
+        },
+        {
+          "letter": "C",
+          "text": "$3^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron los exponentes en lugar de sumarlos durante la operación de bases iguales."
+        },
+        {
+          "letter": "D",
+          "text": "$9^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe cambiar la base del sistema si se opera con potencias de base 3 únicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de las leyes de los exponentes en modelos de crecimiento exponencial biológico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v6",
+      "statement": "Simplifica la expresión $\\frac{(a^2 b^3)^2}{a^3 b^4}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^7 b^{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron todos los exponentes en lugar de aplicar las reglas de división y potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$a b^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Numerador: a^4 b^6. Al dividir por el denominador: a^{4-3} b^{6-4} = a^1 b^2."
+        },
+        {
+          "letter": "C",
+          "text": "$a^4 b^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es solo la simplificación del numerador; se omitió la división por el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2 b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar los exponentes de la variable \"a\" tras elevarla al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejecución de operaciones combinadas con potencias, incluyendo potencia de un producto y cociente de potencias.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v7",
+      "statement": "Simplifica el radical $\\sqrt{72}$ a su forma más sencilla $a\\sqrt{b}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\sqrt{18}$",
+          "is_correct": false,
+          "feedback": "Incompleto. Aunque es válido, el 18 todavía tiene factores que pueden salir de la raíz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{8}$",
+          "is_correct": false,
+          "feedback": "Incompleto. El 8 contiene el factor 4, el cual es un cuadrado perfecto que debe extraerse."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. 72 = 36 * 2. La raíz de 36 es 6, quedando el factor 2 dentro del radical."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al extraer la raíz de 36; la raíz cuadrada de 36 es 6, no 12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Procedimiento de simplificación de radicales mediante la extracción de factores que son cuadrados perfectos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor numérico de la expresión $27^{2/3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente se realizó una multiplicación directa de 27 por 2/3."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a la raíz cúbica de 27 elevada al cuadrado: 3^2 = 9."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el resultado de la raíz cúbica únicamente; falta elevarlo a la potencia 2."
+        },
+        {
+          "letter": "D",
+          "text": "81",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó al cubo en lugar de extraer la raíz cúbica indicada en el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de potencias con exponentes fraccionarios combinando radicación y potenciación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado de racionalizar el denominador de la expresión $\\frac{5}{\\sqrt{2}}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar por la unidad en forma de raíz, el denominador se convierte en 2."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5\\sqrt{2}}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando numerador y denominador por raíz de 2 se elimina el radical de abajo."
+        },
+        {
+          "letter": "C",
+          "text": "$2.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar el 5 con la raíz de 2 como si fueran números enteros."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{10}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 5 no está dentro de una raíz para multiplicarse con el 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la técnica de racionalización de denominadores con raíces cuadradas simples.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v10",
+      "statement": "Simplifica la expresión: $\\sqrt{20} + \\sqrt{45}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{65}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los radicales no se pueden sumar sumando sus radicandos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\sqrt{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. 2*sqrt(5) + 3*sqrt(5) = 5*sqrt(5) tras simplificar cada término individualmente."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo; los radicales simplificados no producen un número entero exacto."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\sqrt{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar los términos o al operar con los índices de las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adición de radicales semejantes mediante su simplificación previa a una base común.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v11",
+      "statement": "Simplifica y expresa con exponentes positivos: $\\left(\\frac{x^2 y^{-3}}{z^{-1}}\\right)^{-2}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^4 z^2}{y^6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al invertir los términos debido al signo negativo del exponente exterior."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{y^6}{x^4 z^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el exponente -2: x^{-4} y^6 z^{-2}. Al pasar los negativos al denominador queda y^6 / (x^4 z^2)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^4 y^6}{z^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó cambiar el signo de la potencia de \"x\" al cambiarla de posición."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{-4} y^{-6} z^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumplió con la instrucción de expresar todos los exponentes como positivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de expresiones algebraicas complejas utilizando múltiples leyes de los exponentes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el factor por el que se debe multiplicar el numerador y denominador para racionalizar $\\frac{1}{\\sqrt[3]{2}}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt[3]{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por este valor daría raíz cúbica de 4, la cual no es exacta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[3]{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se necesita completar el cubo del radicando (2 * 4 = 8) para que la raíz cúbica sea un entero."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben mezclar índices de raíces diferentes (cuadrada y cúbica) para racionalizar así."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación por un entero no elimina el radical presente en el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del proceso de racionalización para raíces de índice superior a 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v13",
+      "statement": "Calcula el producto y simplifica: $\\sqrt{3x} \\cdot \\sqrt[3]{3x}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt[6]{3x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice común es 6, pero los exponentes del radicando también deben ajustarse."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[5]{(3x)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben sumar los índices de las raíces al realizar una multiplicación."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt[6]{(3x)^5}$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando exponentes: (3x)^{1/2} * (3x)^{1/3} = (3x)^{3/6 + 2/6} = (3x)^{5/6}."
+        },
+        {
+          "letter": "D",
+          "text": "$3x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este resultado solo sería válido si ambos factores fueran raíces cuadradas exactas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicación de radicales con diferentes índices mediante la conversión a exponentes fraccionarios.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v14",
+      "statement": "Simplifica la expresión $\\sqrt[3]{\\sqrt{64x^{12}}}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la raíz cúbica sobre la potencia de la variable x."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Raíz cuadrada de 64x^{12} es 8x^6. Luego, la raíz cúbica de 8x^6 es 2x^2."
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se extrajo mal la raíz cuadrada inicial de 64 (usando 16 en lugar de 8)."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó realizar la operación de raíz cúbica sobre el coeficiente numérico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de radicales anidados (raíz de una raíz) y aplicación de leyes de exponentes sobre variables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes igualdades es verdadera para cualquier número real $a$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{a^2} = a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es cierto si \"a\" es positivo o cero; falla para números negativos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{a^2} = |a|$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición formal que asegura un resultado no negativo para una raíz par."
+        },
+        {
+          "letter": "C",
+          "text": "$(a^{1/2})^2 = |a|$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión solo existe en los reales si \"a\" es mayor o igual a cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt[3]{a^3} = |a|$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces impares mantienen el signo de la base, por lo que el resultado es simplemente \"a\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de las propiedades de los radicales con índices pares e impares y su relación con el valor absoluto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v16",
+      "statement": "Calcula el valor de la expresión: $16^{3/4} + 81^{1/4}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. El primer término es 2^3 = 8 y el segundo es 3^1 = 3. La suma es 11."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente se cometió un error al evaluar alguna de las raíces de las bases."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al procesar el exponente de 16, posiblemente usando raíz cuadrada en vez de cuarta."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado obtenido tras una aplicación errónea de las leyes de radicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación y suma de potencias con exponentes fraccionarios que resultan en números enteros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v17",
+      "statement": "Si un monto final es $M = C \\cdot e^{rt}$, ¿cuál es la expresión correcta para despejar el tiempo $t$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = \\sqrt[r]{M/C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta forma sería válida para una base t con exponente r, no para un exponente t."
+        },
+        {
+          "letter": "B",
+          "text": "$t = \\frac{\\ln(M/C)}{r}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando logaritmo natural para bajar el exponente y dividiendo por la tasa r."
+        },
+        {
+          "letter": "C",
+          "text": "$t = (M/C)^r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta operación no despeja una variable que se encuentra en un exponente de base e."
+        },
+        {
+          "letter": "D",
+          "text": "$t = \\frac{M}{C \\cdot e^r}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Manipulación algebraica inválida de los términos de la ecuación exponencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de la capacidad para manipular ecuaciones exponenciales y comprender la naturaleza inversa de sus operaciones.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v18",
+      "statement": "Simplifica totalmente la expresión $\\sqrt[n]{x^{2n} \\cdot \\sqrt[3]{x^{3n}}}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3$",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz cúbica interna da x^n. Al multiplicar por x^{2n} da x^{3n}. La raíz n-ésima final da x^3."
+        },
+        {
+          "letter": "B",
+          "text": "$x^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar el producto de las potencias dentro de la raíz principal."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió considerar el factor resultante de la raíz cúbica interna."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{2n+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la raíz de índice n sobre los exponentes de la variable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Simplificación de expresiones con radicales de índice variable n y potencias dependientes de dicho índice.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v19",
+      "statement": "Resuelve para $x$ la ecuación: $2^{x+2} + 2^x = 20$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir, el resultado es 80, superando ampliamente el valor de 20 solicitado."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando 2^x(2^2 + 1) = 20, tenemos 2^x * 5 = 20, por lo que 2^x = 4."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar x=3 se obtiene 40 como resultado de la suma de las potencias."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las potencias daría 10 en lugar de los 20 indicados en la igualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones exponenciales mediante la aplicación de la propiedad distributiva (factor común) y leyes de potencias.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v20",
+      "statement": "Determina el numerador simplificado de $\\frac{\\sqrt{x} + \\sqrt{y}}{\\sqrt{x} - \\sqrt{y}} - \\frac{\\sqrt{x} - \\sqrt{y}}{\\sqrt{x} + \\sqrt{y}}$ tras reducir a común denominador.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 2y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos de segundo grado se cancelan por la resta en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\sqrt{xy}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al desarrollar los cuadrados (sqrt(x)+sqrt(y))^2 - (sqrt(x)-sqrt(y))^2, solo queda el término central multiplicado por 2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fracciones no son idénticas, por lo que su resta no resulta en el valor nulo."
+        },
+        {
+          "letter": "D",
+          "text": "$x - y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el denominador común resultante tras la operación, no el numerador solicitado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejecución de operaciones fraccionarias complejas con radicales, involucrando productos notables y racionalización.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T20:35:33.995Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición fundamental de una función en el conjunto de los números reales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es cualquier conjunto de pares ordenados (x, y)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso define una relación en general, pero no necesariamente cumple la condición de función."
+        },
+        {
+          "letter": "B",
+          "text": "Relación donde a cada entrada le corresponde exactamente una salida",
+          "is_correct": true,
+          "feedback": "Correcto. La unicidad de la imagen para cada elemento del dominio es la esencia de una función."
+        },
+        {
+          "letter": "C",
+          "text": "Es una igualdad matemática que siempre involucra una potencia cuadrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones pueden ser lineales, constantes o de cualquier otro tipo polinómico."
+        },
+        {
+          "letter": "D",
+          "text": "Operación donde se obtienen múltiples resultados por cada entrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si una entrada produce más de una salida, la relación deja de ser una función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición conceptual de función y distinción entre los conceptos de relación y función matemática.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al conjunto de todos los valores posibles de la variable independiente (x)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codominio",
+          "is_correct": false,
+          "feedback": "El codominio es el conjunto de llegada, el cual puede contener elementos que no sean imágenes."
+        },
+        {
+          "letter": "B",
+          "text": "Dominio",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio es el conjunto de partida formado por todos los valores de entrada válidos."
+        },
+        {
+          "letter": "C",
+          "text": "Rango o Ámbito",
+          "is_correct": false,
+          "feedback": "El rango es el subconjunto del codominio formado exclusivamente por los valores de salida o imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente",
+          "is_correct": false,
+          "feedback": "La pendiente es una medida de inclinación exclusiva de las funciones lineales, no un conjunto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la terminología básica asociada a la estructura de las funciones matemáticas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v3",
+      "statement": "¿En qué consiste la prueba de la recta vertical para identificar una función en un plano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta vertical debe cruzar la gráfica en al menos dos puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si esto sucede, la gráfica no representa una función real."
+        },
+        {
+          "letter": "B",
+          "text": "Si una recta vertical cruza la gráfica más de una vez, no es función",
+          "is_correct": true,
+          "feedback": "Correcto. Esto indicaría que a un mismo valor de x le corresponden dos o más valores de y."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica debe ser una línea recta totalmente vertical",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una línea vertical no es una función ya que un solo x tendría infinitos y."
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirve para clasificar funciones de tipo lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este criterio gráfico es aplicable a cualquier tipo de relación trazada en el plano cartesiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del criterio gráfico de la recta vertical para validar la unicidad de imágenes en una función.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v4",
+      "statement": "Si una función se define como f(x) = 7, ¿cuál es el valor resultante de f(25)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la variable de entrada con el valor constante de la función de salida."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. En una función constante, la imagen es siempre la misma sin importar el valor de la entrada x."
+        },
+        {
+          "letter": "C",
+          "text": "175",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una multiplicación asumiendo una relación proporcional que no existe en esta función."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está plenamente definida para cualquier número real de entrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión y evaluación de funciones constantes en el conjunto de los números reales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el dominio de la función real f(x) = 5 / (x - 3)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe un valor de x que anula el denominador, lo cual no es una operación permitida."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el número 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor que NO pertenece al dominio de la función dada."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los reales excepto el 3",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador no puede ser nulo, por lo tanto la variable x debe ser distinta de tres."
+        },
+        {
+          "letter": "D",
+          "text": "Los reales mayores a 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números menores a 3 también producen resultados válidos en esta función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de restricciones en el dominio de funciones racionales (evitación de la división por cero).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v6",
+      "statement": "Dada la función f(x) = x^2 - 4x + 1, halla el valor exacto de f(-2).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de signos al elevar el número negativo al cuadrado durante el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. (-2)^2 - 4(-2) + 1 = 4 + 8 + 1 = 13. Las potencias pares de negativos son positivas."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el signo del producto intermedio entre el coeficiente y la x."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma aritmética final de los tres términos que componen la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de funciones polinómicas mediante la sustitución de valores negativos y manejo de potencias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v7",
+      "statement": "Determina el dominio de la función real g(x) = sqrt(x + 4).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los reales positivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta restricción es demasiado fuerte, ya que algunos negativos también sirven."
+        },
+        {
+          "letter": "B",
+          "text": "x mayor o igual a -4",
+          "is_correct": true,
+          "feedback": "Correcto. El radicando debe ser no negativo para que la raíz cuadrada sea un número real."
+        },
+        {
+          "letter": "C",
+          "text": "x estrictamente mayor a -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz de cero es válida en el conjunto de los reales, por lo que incluye al -4."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden procesar raíces de números negativos en este campo numérico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo del dominio de funciones irracionales (raíces de índice par).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v8",
+      "statement": "Sea f(x) = 2x si x <= 5; y f(x) = 3x - 1 si x > 5. Calcula el valor de f(6).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó la primera regla de la función, la cual solo es válida para valores menores o iguales a 5."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. Como 6 es mayor que 5, se debe usar la expresión 3(6) - 1, la cual resulta en diecisiete."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó realizar la resta de la unidad indicada en el segundo tramo de la función."
+        },
+        {
+          "letter": "D",
+          "text": "29",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron erróneamente los resultados de ambas ramas de la función definida por partes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de funciones definidas por tramos o partes basándose en el valor de entrada.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v9",
+      "statement": "Si el dominio de f(x) = 2x + 3 es el intervalo cerrado [0, 5], ¿cuál es el rango de la función?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El intervalo [0, 5]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este conjunto representa la entrada de la función, no las imágenes de salida."
+        },
+        {
+          "letter": "B",
+          "text": "El intervalo [3, 13]",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser creciente, evaluamos los extremos: f(0)=3 y f(5)=13."
+        },
+        {
+          "letter": "C",
+          "text": "El intervalo [3, 10]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el cálculo de la imagen del límite superior del dominio."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo [0, 13]",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango no comienza en el origen sino en el valor del intercepto con el eje y."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación del rango de una función lineal a partir de la restricción de su dominio.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes funciones reales es de tipo inyectiva (uno a uno)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función f(x) = x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es inyectiva porque valores opuestos de entrada tienen la misma imagen."
+        },
+        {
+          "letter": "B",
+          "text": "La función f(x) = 2x - 5",
+          "is_correct": true,
+          "feedback": "Correcto. En las funciones lineales no constantes, cada valor de y tiene una única preimagen x."
+        },
+        {
+          "letter": "C",
+          "text": "La función f(x) = |x|",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al igual que la cuadrática, el valor absoluto de 2 y -2 resulta en el mismo valor 2."
+        },
+        {
+          "letter": "D",
+          "text": "La función f(x) = sen(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas repiten sus valores periódicamente de forma infinita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la propiedad de inyectividad en funciones reales mediante el análisis de preimágenes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v11",
+      "statement": "Si f(x) = x + 2 y g(x) = x^2, ¿cuál es la expresión de la función compuesta (g o f)(x)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x^2 + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión corresponde a la composición (f o g)(x), donde se aplica g primero."
+        },
+        {
+          "letter": "B",
+          "text": "(x + 2)^2",
+          "is_correct": true,
+          "feedback": "Correcto. Se introduce la función f dentro de la variable de la función g, elevando toda la suma al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "x^2 + 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el término central del trinomio si se hubiera realizado la expansión del cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "2x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una manipulación algebraica errónea de los términos de ambas funciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de la composición de funciones mediante la sustitución de expresiones algebraicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el dominio de la función real h(x) = sqrt(x - 2) / (x - 5)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x mayor o igual a 2",
+          "is_correct": false,
+          "feedback": "Incompleto. No se considera la exclusión del valor que hace nulo al denominador de la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "Intervalo [2, 5) U (5, inf)",
+          "is_correct": true,
+          "feedback": "Correcto. Combina la restricción de la raíz (x>=2) con la del denominador (x!=5)."
+        },
+        {
+          "letter": "C",
+          "text": "x mayor estricto a 2 y x != 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 2 es perfectamente válido en el numerador ya que la raíz de cero existe."
+        },
+        {
+          "letter": "D",
+          "text": "x distinto de 5",
+          "is_correct": false,
+          "feedback": "Incompleto. Se ignoró totalmente la restricción de signo impuesta por la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del dominio en funciones que presentan restricciones racionales e irracionales simultáneas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v13",
+      "statement": "Si f(x) = 3x - 4, ¿cuál es la expresión de la función inversa correspondiente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = (x - 4) / 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de signo al trasponer el término constante durante el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = (x + 4) / 3",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando x se obtiene (y+4)/3, y luego se realiza el intercambio de nombres de variables."
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = 4x - 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los valores numéricos sin seguir un procedimiento de álgebra válido."
+        },
+        {
+          "letter": "D",
+          "text": "f(x) = 1 / (3x - 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el concepto de función inversa con el de inverso multiplicativo o recíproco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de la función inversa mediante el despeje de la variable independiente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes funciones posee una simetría de tipo PAR?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = x^2 + 3",
+          "is_correct": true,
+          "feedback": "Correcto. Una función es par si f(-x) = f(x). El cuadrado anula el efecto del signo negativo de x."
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = x^3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función impar ya que conserva el signo negativo tras elevar al cubo."
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = 2x - 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta simetría respecto al eje vertical ni respecto al origen de coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "f(x) = sqrt(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No puede evaluarse la simetría par al no estar definida para valores negativos de x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de funciones pares e impares mediante la evaluación de la simetría algebraica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v15",
+      "statement": "Si la gráfica de y = f(x) se desplaza 3 unidades hacia arriba y 2 unidades a la derecha, ¿cuál es la ecuación nueva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = f(x + 2) + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento hacia la derecha se representa con una resta dentro del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "y = f(x - 2) + 3",
+          "is_correct": true,
+          "feedback": "Correcto. La forma f(x-h)+k representa desplazamientos horizontales h y verticales k respectivamente."
+        },
+        {
+          "letter": "C",
+          "text": "y = f(x - 3) + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los valores de las traslaciones horizontal y vertical de la gráfica."
+        },
+        {
+          "letter": "D",
+          "text": "y = f(x + 3) - 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizaron signos de dirección opuestos a los indicados en el problema planteado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de las traslaciones de funciones en el plano cartesiano (efectos de h y k).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v16",
+      "statement": "Halla el dominio de definición de la función real f(x) = sqrt(9 - x^2).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x menor o igual a 3",
+          "is_correct": false,
+          "feedback": "Incompleto. No se considera la restricción del límite inferior para mantener el radicando positivo."
+        },
+        {
+          "letter": "B",
+          "text": "x mayor o igual a -3",
+          "is_correct": false,
+          "feedback": "Incompleto. No se considera la restricción del límite superior para mantener el radicando positivo."
+        },
+        {
+          "letter": "C",
+          "text": "El intervalo cerrado [-3, 3]",
+          "is_correct": true,
+          "feedback": "Correcto. Resolviendo la inecuación 9 - x^2 >= 0 se obtiene el rango de valores entre -3 y 3."
+        },
+        {
+          "letter": "D",
+          "text": "x fuera del rango (-3, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esas regiones el radicando sería negativo, invalidando la función en los reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Determinación del dominio de funciones irracionales con argumentos polinómicos de segundo grado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la forma simplificada del cociente incremental [f(x+h) - f(x)] / h para la función cuadrática f(x) = x^2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado obtenido al omitir términos fundamentales en la expansión del binomio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "2x + h",
+          "is_correct": true,
+          "feedback": "Correcto. Al expandir (x+h)^2 y restar x^2 queda 2xh + h^2, lo cual al dividirse entre h resulta en esta expresión."
+        },
+        {
+          "letter": "C",
+          "text": "2x",
+          "is_correct": false,
+          "feedback": "Este es el valor del límite cuando h tiende a cero, pero no es la expresión simplificada completa."
+        },
+        {
+          "letter": "D",
+          "text": "x^2 + h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el desarrollo del producto notable del numerador del cociente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo y simplificación del cociente de diferencias en funciones cuadráticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v18",
+      "statement": "¿Cuáles son las asíntotas verticales de la función real f(x) = (2x + 1) / (x^2 - 4)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 4 únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el valor de la constante con el valor de la raíz del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2 únicamente",
+          "is_correct": false,
+          "feedback": "Incompleto. Existe un segundo valor negativo que también anula la expresión del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2 y x = -2",
+          "is_correct": true,
+          "feedback": "Correcto. Las asíntotas verticales ocurren en los valores de x que hacen nulo al denominador de la función."
+        },
+        {
+          "letter": "D",
+          "text": "y = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta corresponde a una asíntota horizontal, no a una de tipo vertical solicitada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de asíntotas verticales basándose en las exclusiones del dominio en funciones racionales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v19",
+      "statement": "Dada f(x) = x / (x-1), ¿cuál es el resultado de la composición triple (f o f o f)(x)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el resultado de la composición doble, ya que la función es su propia inversa."
+        },
+        {
+          "letter": "B",
+          "text": "x / (x - 1)",
+          "is_correct": true,
+          "feedback": "Correcto. f(f(x)) = x, por lo tanto f(f(f(x))) es equivalente a f(x) nuevamente."
+        },
+        {
+          "letter": "C",
+          "text": "1 / x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el procesamiento algebraico de las fracciones compuestas resultantes."
+        },
+        {
+          "letter": "D",
+          "text": "El valor constante 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La composición de estas funciones racionales no produce un resultado constante nulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de composiciones sucesivas de funciones con propiedades especiales de simetría inversa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el dominio de la función real definida por la expresión f(x) = ln(x^2 - 1)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x mayor estricto a 1",
+          "is_correct": false,
+          "feedback": "Incompleto. No considera los valores negativos menores a menos uno, los cuales también sirven."
+        },
+        {
+          "letter": "B",
+          "text": "El intervalo (-1, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta región el argumento del logaritmo sería negativo, lo cual no está definido."
+        },
+        {
+          "letter": "C",
+          "text": "Unión de (-inf, -1) y (1, inf)",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de un logaritmo natural debe ser siempre estrictamente positivo."
+        },
+        {
+          "letter": "D",
+          "text": "Reales excepto el 1 y -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoraron todos los valores intermedios que hacen que la resta sea negativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Determinación del dominio de funciones logarítmicas con argumentos cuadráticos.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
