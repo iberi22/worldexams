@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.244Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v1",
+      "statement": "¿Qué palabra es un verbo en la frase: \"Yo escribo en mi cuaderno\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "escribo",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "cuaderno",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "mi",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos son palabras que indican acciones, estados o procesos que realizan o experimentan los seres.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v2",
+      "statement": "¿En qué tiempo está el verbo en la oración: \"Ayer comí una deliciosa arepa\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasado",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Presente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Futuro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Infinitivo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo pasado (o pretérito) se utiliza para referirse a acciones que ya han sucedido.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v3",
+      "statement": "¿Cómo se dice el verbo **\"viajar\"** en futuro para el sujeto \"Nosotros\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viajamos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Viajaron",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Viajaremos",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Viajarán",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tiempo futuro se usa para expresar acciones que todavía no han ocurrido, pero que sucederán después.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v4",
+      "statement": "Elige el verbo en presente que completa mejor la oración: \"Los niños __________ en los columpios\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "saltaron",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "juegan",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "correrán",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "jugar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo presente se utiliza para referirse a acciones que ocurren en el mismo momento en que se habla.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v5",
+      "statement": "¿Cuál es el infinitivo del verbo **\"cantaremos\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cantó",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cantando",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cantar",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cantado",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El infinitivo es la forma que se usa para nombrar al verbo, sin indicar tiempo, persona ni número.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v6",
+      "statement": "Si cambiamos la oración \"Juan **pateó** el balón\" a tiempo futuro, ¿cómo quedaría?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan patea el balón.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Juan pateará el balón.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Juan pateaba el balón.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Juan pateó el balón ayer.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber cambiar el tiempo de un verbo permite modificar el sentido temporal de todo un relato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v7",
+      "statement": "¿Cuál es la forma correcta del verbo para el sujeto \"Tú\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tú escribe.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tú escribes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tú escribimos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tú escriben.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo debe cambiar su terminación para concordar con la persona que realiza la acción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v8",
+      "statement": "\"La Madre Monte **protege** la selva y **asusta** a los que la dañan\". ¿En qué tiempo están los verbos resaltados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasado",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Presente",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Futuro",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No son verbos.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El presente también se usa para expresar verdades generales o características permanentes de personajes de leyendas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v9",
+      "statement": "¿Qué está mal en la frase: \"Mañana yo **estudié** para el examen\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ningún error.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El verbo está en pasado, pero la palabra \"mañana\" indica futuro.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El verbo debe ser \"estudio\".",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\"Mañana\" es un verbo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia temporal es fundamental para que el lector entienda cuándo ocurren los hechos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-v10",
+      "statement": "¿Cuál de estas oraciones expresa correctamente un deseo para el futuro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo aprendo mucho inglés el otro año.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yo aprendí mucho inglés el otro año.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yo aprenderé mucho inglés el otro año.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Aprender inglés mucho año otro.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La correcta conjugación de los verbos nos permite proyectar nuestras ideas y planes en el tiempo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W24-verbos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

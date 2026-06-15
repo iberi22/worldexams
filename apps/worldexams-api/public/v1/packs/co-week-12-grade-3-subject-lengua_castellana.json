@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.238Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v1",
+      "statement": "¿Cuál es la parte del cuento donde se presentan los personajes y el lugar donde ocurre la historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El inicio",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El nudo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El título",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura básica de la narración comienza con el inicio, donde se establece el contexto inicial y los personajes principales.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v2",
+      "statement": "¿Cómo se llama la parte del cuento donde ocurre el problema o la aventura más emocionante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Final",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nudo",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Introducción",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Portada",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo es la parte más extensa del cuento, donde se rompe el equilibrio inicial y surgen los conflictos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v3",
+      "statement": "\"Y finalmente, el valiente ratón logró escapar de la trampa y regresó feliz con su familia\". ¿A qué parte del cuento pertenece esta frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al inicio",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Al nudo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Al desenlace",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Al índice",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desenlace es la parte final del texto narrativo donde se da solución al problema planteado en el nudo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v4",
+      "statement": "¿Quiénes son los seres que realizan las acciones en un cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los autores",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los personajes",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Los lectores",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Los narradores",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los personajes son el elemento central que impulsa la acción dentro del mundo narrado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v5",
+      "statement": "Si un cuento dice: \"Había una vez un tucán que vivía en lo más alto de los árboles del Amazonas...\", ¿cuál es el lugar de la narración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una casa en la ciudad.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un zoológico pequeño.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "La selva del Amazonas.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El cielo azul.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El espacio o lugar de la narración es el escenario físico donde ocurren los hechos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v6",
+      "statement": "¿Qué característica es común en los cuentos fantásticos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo cuentan cosas que pasan en la vida real.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pueden ocurrir cosas mágicas que no pasan en la realidad.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No tienen personajes animales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tienen que ser historias muy aburridas.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento es un género literario que permite la inclusión de elementos imaginarios y maravillosos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v7",
+      "statement": "¿Quién es el encargado de contar la historia dentro del cuento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El protagonista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El ilustrador.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El narrador.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El bibliotecario.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador es una figura creada por el autor para transmitir el relato al lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v8",
+      "statement": "Si vas a escribir un cuento y empiezas con: \"Hace muchos años, en un pequeño pueblo...\", ¿qué elemento de la narración estás definiendo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nudo del problema.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los diálogos de los personajes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo y el lugar.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El final del cuento.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Situar la historia en un tiempo y espacio determinados ayuda al lector a sumergirse en la ficción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v9",
+      "statement": "Un cuento puede tener un final \"abierto\" o un final \"cerrado\". ¿Qué significa un final cerrado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el libro se cierra solo al terminar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que el problema se resuelve totalmente y sabemos qué pasó con todos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que no se sabe qué pasó con el protagonista.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que el cuento es muy corto.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desenlace cerrado proporciona una conclusión definitiva a todas las líneas narrativas planteadas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-v10",
+      "statement": "¿Cuál de estas ideas serviría mejor para crear el **nudo** de tu historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar a un astronauta llamado Pedro que vive en Bogotá.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que el cohete se quede sin combustible a mitad de camino.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que Pedro regrese a la Tierra y le den una medalla.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Poner un título que diga \"Aventura Espacial\".",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo se construye a partir de un conflicto que obliga a los personajes a actuar y buscar soluciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W12-texto-narrativo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

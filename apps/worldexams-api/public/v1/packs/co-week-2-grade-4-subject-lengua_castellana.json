@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-2-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.258Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v1",
+      "statement": "¿Qué fenómeno de la naturaleza está a punto de ocurrir en la historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un terremoto muy fuerte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Una tormenta o aguacero intenso.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Un eclipse de sol.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una nevada en la ciudad.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia se logra uniendo detalles descriptivos (cielo gris, gotas, plásticos) para concluir un evento no nombrado explícitamente.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v2",
+      "statement": "¿Por qué Don José decidió cerrar su local a las tres de la tarde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ya era hora de irse a dormir.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tenía clientes ese día.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Para evitar mojarse y proteger su negocio de la lluvia inminente.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque se fue la luz en todo el barrio.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Deducir las motivaciones de un personaje requiere analizar la relación entre el entorno descrito y las acciones que realiza.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v3",
+      "statement": "¿Qué podemos inferir sobre el clima de Bogotá ese día antes de las tres de la tarde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que estuvo lloviendo toda la mañana.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que probablemente hacía sol o estaba despejado antes del cambio repentino.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que hacía mucho calor como en Cartagena.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El texto no da ninguna pista sobre el clima anterior.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las inferencias temporales se apoyan en adverbios y frases que indican cambios en la secuencia de los hechos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v4",
+      "statement": "¿Qué función cumplen los plásticos en los carritos de los vendedores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adornar los carritos para que se vean más bonitos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Evitar que la mercancía se moje y se dañe con la lluvia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los precios de los productos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Servir de paracaídas en caso de viento.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir el uso de objetos requiere aplicar conocimientos del mundo real a la situación planteada en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v5",
+      "statement": "¿Cómo se siente la gente que cruza la calle según su comportamiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy relajada y disfrutando del paisaje.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Enojada con Don José por cerrar el local.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Preocupada y con prisa por no mojarse.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Feliz de que por fin va a llover.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acciones físicas descritas en el texto (correr, buscar refugio) son indicadores de los estados internos de los personajes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v6",
+      "statement": "La frase \"las primeras gotas gigantes golpeaban el techo\" sugiere que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las gotas eran de cristal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La lluvia va a ser muy fuerte y ruidosa.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Alguien está tirando piedras al techo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El techo se va a caer inmediatamente.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ciertos adjetivos (gigantes) y verbos de acción (golpeaban) cargan el texto de connotaciones sobre la fuerza de los hechos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v7",
+      "statement": "Si un personaje del texto no hubiera encontrado refugio rápido, ¿qué le habría pasado probablemente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habría llegado seco a su casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Se habría empapado completamente en pocos minutos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Se habría perdido en la ciudad.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Habría tenido mucho calor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia también permite predecir consecuencias lógicas a partir de las condiciones establecidas en el relato.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v8",
+      "statement": "¿Cuál es el tono predominante en este fragmento de lectura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Humorístico (da mucha risa).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De terror (da mucho miedo).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Descriptivo y de suspenso (crea expectativa sobre lo que pasará).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Romántico (habla de amor).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el tono requiere captar la atmósfera que el autor construye a través de las palabras elegidas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v9",
+      "statement": "Además de que el texto nombra a Bogotá, ¿qué otra pista nos dice que es una ciudad grande?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Don José tiene un local.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de vendedores ambulantes con carritos y mucha gente cruzando la calle.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que el techo es de zinc.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que son las tres de la tarde.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar indicadores socio-espaciales ayuda a caracterizar el entorno narrativo de manera más profunda.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-v10",
+      "statement": "¿Qué conclusión sobre la vida en Bogotá se puede sacar de este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que a los bogotanos les encanta mojarse.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que el clima puede cambiar muy rápido y afecta las actividades de todos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que en Bogotá no hay edificios altos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que Don José es la única persona que trabaja en la tarde.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La síntesis inferencial permite extraer generalizaciones válidas sobre la realidad representada en la ficción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W02-lectura-inferencial-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

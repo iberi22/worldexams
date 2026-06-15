@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-2-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.234Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v1",
+      "statement": "\"Las flores del jardín de mi abuela son hermosas. Hay rosas rojas, margaritas blancas y girasoles amarillos. Todas las mañanas, las mariposas las visitan.\"\n¿De qué trata principalmente el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De las mariposas que vuelan.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "De las flores del jardín.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "De la abuela de Juan.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Del color amarillo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal responde a la pregunta \"¿de qué trata el texto?\". En este caso, el foco central son las flores mencionadas al inicio.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v2",
+      "statement": "\"El agua es necesaria para todos los seres vivos. Las plantas la necesitan para crecer, los animales para calmar su sed y los seres humanos para estar saludables. Sin agua, no habría vida.\"\n¿Cuál es la idea principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es esencial para la vida.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los animales beben mucha agua.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas crecen con el sol.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En Santa Marta hace mucho calor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal suele aparecer al principio o al final como una conclusión general que engloba a las demás oraciones.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v3",
+      "statement": "\"Toby es un perro muy juguetón. Le gusta correr tras la pelota y saltar en los charcos cuando llueve. Siempre que ve a su dueño, mueve la cola con alegría.\"\n¿Qué frase resume mejor el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Toby le gustan los charcos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El dueño de Toby es amable.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Toby es un perro alegre y juguetón.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En el Eje Cafetero llueve mucho.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar rasgos comunes en las acciones de un personaje ayuda a determinar la idea central de una descripción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v4",
+      "statement": "\"El Carnaval de Barranquilla es una de las fiestas más importantes de Colombia. Durante cuatro días, la ciudad se llena de música, baile y coloridos disfraces. Gente de todo el mundo viene a disfrutar de esta gran tradición.\"\n¿Cuál es la idea central?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay muchos disfraces de colores.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La importancia y alegría del Carnaval de Barranquilla.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Barranquilla es una ciudad con playa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La fiesta dura solo un día.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal suele ser la afirmación más amplia que justifica la inclusión de los detalles secundarios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v5",
+      "statement": "\"Comer frutas y verduras nos ayuda a tener energía para estudiar y jugar. Estos alimentos tienen vitaminas que protegen nuestro cuerpo de las enfermedades. Por eso, es bueno incluirlos en nuestra lonchera.\"\n¿Qué título le pondrías a este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las vitaminas del colegio.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los beneficios de comer frutas y verduras.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cómo jugar en el recreo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "La lonchera de mi amigo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El título de un texto suele ser una síntesis muy breve de la idea principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v6",
+      "statement": "\"Los parques son lugares para compartir en familia. Debemos cuidarlos no arrojando basura y respetando las plantas. Si todos colaboramos, tendremos espacios limpios y bonitos para jugar.\"\n¿Qué nos quiere enseñar el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los parques tienen muchos árboles.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La importancia de cuidar los espacios comunes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que no se debe jugar en los parques.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cómo llegar al parque más cercano.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En textos instructivos o de valores, la idea principal suele ser la norma o el comportamiento que se promueve.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v7",
+      "statement": "\"El río Magdalena ha sido muy importante para el transporte en Colombia. Por sus aguas navegan barcos que llevan mercancías y personas de un lugar a otro. Antiguamente, era la principal vía para conectar el país.\"\n¿Cuál de estas opciones NO es la idea principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La importancia del río Magdalena para el transporte.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El papel del río en la conexión del país.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de los capitanes de los barcos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El transporte de mercancías por el río.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Discriminar información irrelevante es un paso necesario para consolidar la identificación de la idea central.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v8",
+      "statement": "\"La mariposa monarca nace de un huevo pequeño. Luego se convierte en una oruga que come muchas hojas. Después forma una crisálida y, finalmente, sale como una hermosa mariposa lista para volar.\"\n¿Cuál es la idea que une a todas las oraciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las orugas les gusta comer.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Las mariposas tienen alas bonitas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las etapas del crecimiento de una mariposa.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cómo atrapar una mariposa en el campo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En textos secuenciales, la idea principal suele ser la descripción del proceso completo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v9",
+      "statement": "\"La tecnología es una herramienta útil para aprender cosas nuevas. Sin embargo, no debemos pasar todo el día frente a las pantallas. Es importante también salir a jugar y compartir con amigos al aire libre.\"\n¿Qué posición defiende el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la tecnología es mala para los niños.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que se debe usar la tecnología de forma equilibrada.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que solo se debe jugar con amigos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que aprender es aburrido.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En textos argumentativos sencillos, la idea principal es la tesis o la opinión central que el autor intenta comunicar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-v10",
+      "statement": "\"Tengo patas y no camino, soy de madera o de metal. Sobre mí pones los platos cuando vas a almorzar. ¿Qué soy?\"\nSi la respuesta es \"La mesa\", ¿cuál es la idea principal de las pistas dadas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir cómo se fabrica un mueble.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Enumerar las características y el uso de una mesa.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Explicar por qué es importante almorzar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Contar una historia sobre un objeto que habla.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Incluso en formatos lúdicos como las adivinanzas, la idea principal es la descripción del objeto o concepto oculto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W02-idea-principal-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

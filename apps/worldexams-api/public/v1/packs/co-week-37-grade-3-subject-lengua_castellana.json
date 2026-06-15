@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-37-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.254Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v1",
+      "statement": "¿Qué es una opinión personal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Algo que es verdad para todo el mundo y se puede probar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lo que una persona piensa, siente o cree sobre algo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una noticia que sale en el periódico nacional.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una regla ortográfica que todos deben seguir.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La opinión es la expresión de un juicio de valor o un sentimiento individual frente a un tema u objeto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v2",
+      "statement": "¿Cuál de estas palabras o frases se usa frecuentemente para empezar a dar una opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Había una vez...\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "\"Yo creo que...\"",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Sumar y restar...\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "\"Fin.\"",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de marcadores de opinión (yo creo, a mi parecer, en mi opinión) ayuda a clarificar que se está expresando un punto de vista.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v3",
+      "statement": "¿Cuál de estas frases es una OPINIÓN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasto es una ciudad de Colombia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hoy la temperatura en Pasto es de 15 grados.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El clima de Pasto es el más delicioso del país.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "En Pasto se celebra el Carnaval de Blancos y Negros.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un hecho se puede comprobar objetivamente, mientras que una opinión es una valoración personal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v4",
+      "statement": "Si un amigo dice: \"Este libro de cuentos es aburrido\", ¿qué está expresando?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una verdad absoluta que nadie puede negar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Su opinión personal basada en su gusto.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Un resumen de la historia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia científica.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El respeto por las opiniones ajenas es fundamental, ya que cada persona tiene experiencias y gustos diferentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v5",
+      "statement": "¿Por qué es importante dar un \"por qué\" (una razón) cuando damos nuestra opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la frase se vea más larga y bonita.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para que los demás entiendan nuestros motivos y nos tomen en serio.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una regla de la profesora de matemáticas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No es necesario dar razones, basta con decir lo que uno quiera.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Argumentar una opinión fortalece la comunicación y permite un diálogo más rico entre las personas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v6",
+      "statement": "\"El fútbol es un deporte que se juega con un balón. **A mi parecer, es el deporte más emocionante del mundo**. Se juega entre dos equipos de 11 personas\".\n¿Qué parte del texto es la opinión del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fútbol se juega con un balón.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A mi parecer, es el deporte más emocionante del mundo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Se juega entre dos equipos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Todo el texto es una opinión.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber identificar opiniones dentro de un texto informativo ayuda a desarrollar el pensamiento crítico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v7",
+      "statement": "Si tú crees que el recreo debería ser más largo, pero tu profesor cree que el tiempo es suficiente, ¿qué se debe hacer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pelearse hasta que uno gane.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de hablar con el profesor para siempre.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dialogar con respeto, escuchando las razones de cada uno.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Llorar para que nos den la razón.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La democracia y la convivencia se basan en el reconocimiento y respeto de la pluralidad de opiniones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v8",
+      "statement": "¿Qué tipo de palabras usamos mucho cuando damos una opinión para calificar algo?\n(Ejemplo: **maravilloso**, **terrible**, **interesante**, **feo**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verbos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Adjetivos.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Artículos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Pronombres.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos valorativos son herramientas lingüísticas esenciales para construir mensajes de opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v9",
+      "statement": "¿Cuál de estas frases es la mejor para cerrar una reseña donde quieres recomendar una película?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La película duró dos horas exactas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los actores usaban ropa de colores.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En conclusión, recomiendo esta película porque enseña el valor de la amistad de forma divertida.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Había mucha gente en el cine ayer.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena conclusión de opinión debe resumir el punto de vista principal y el motivo más fuerte que lo apoya.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-v10",
+      "statement": "¿Cuál de estos argumentos (razones) apoyaría mejor tu opinión de que \"Tener una mascota es bueno\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos mis amigos tienen una.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque me ayudará a ser más responsable cuidándola y me dará mucha compañía.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque el perro es de color café.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque quiero y ya.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Crear argumentos sólidos requiere pensar en los beneficios o consecuencias positivas que apoyan nuestro punto de vista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W37-opinion-personal-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

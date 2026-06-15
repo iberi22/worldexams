@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-36-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.253Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v1",
+      "statement": "¿Qué es un resumen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir el texto otra vez exactamente igual.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Contar las ideas principales de un texto de forma corta.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Inventar un final diferente para la historia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dibujar los personajes del cuento.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen es una técnica de síntesis que consiste en reducir un texto a sus conceptos fundamentales.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v2",
+      "statement": "¿Cuál es la idea principal del primer párrafo del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que a la gente le gusta el café.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que el café es el producto más famoso de Colombia.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que los granos son de color rojo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que el clima de las montañas es frío.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la idea principal es el paso indispensable para elaborar un buen resumen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v3",
+      "statement": "¿Qué información es UN DETALLE (idea secundaria) que podrías quitar en un resumen muy cortito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el café es de Colombia.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Que los granos son de color rojo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Que el café se cultiva en las montañas.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Que el café se exporta a otros países.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aprender a diferenciar ideas principales de detalles secundarios es vital para la capacidad de síntesis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v4",
+      "statement": "¿Cuál de estas opciones es el mejor resumen del texto anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El café se cultiva en montañas frescas y mucha gente lo toma en el mundo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El café es el producto más importante de Colombia, se cultiva en las montañas y se vende a todo el mundo.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hay granos rojos de café que las familias recogen cuando están muy maduros para enviarlos lejos.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Colombia tiene montañas y muchas familias que trabajan mucho todos los días.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen resumen debe ser completo (incluir lo esencial) pero conciso (usar pocas palabras).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v5",
+      "statement": "¿Cuál es el primer paso recomendado para hacer el resumen de un cuento largo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar a escribir lo primero que se me ocurra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Leer el texto completo y subrayar las ideas más importantes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántas palabras tiene el cuento.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Copiar solo el final de la historia.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El subrayado es una técnica de apoyo a la lectura que facilita la posterior redacción del resumen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v6",
+      "statement": "Si en tu resumen escribes: **\"A mí me parece que el café es muy rico\"**, ¿qué estás haciendo mal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, el resumen debe decir lo que yo pienso.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Estoy dando mi opinión, y el resumen solo debe contar los hechos del texto.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Escribí una frase muy larga.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No puse el nombre del autor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen debe mantener la objetividad y fidelidad al pensamiento del autor original.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v7",
+      "statement": "Para resumir una fábula (como la de la Liebre y la Tortuga), ¿qué dos cosas no pueden faltar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de la liebre y el nombre del bosque.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cuántos pasos dio la tortuga para ganar.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Los hechos principales de la carrera y la enseñanza o moraleja.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El precio del libro donde estaba la fábula.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resumir géneros específicos requiere identificar los elementos estructurales de cada uno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v8",
+      "statement": "¿Para qué sirven palabras como **\"primero\"**, **\"luego\"** y **\"finalmente\"** en un resumen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el resumen rime como un poema.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para ordenar los hechos en el tiempo y que se entienda mejor.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Para que el profesor crea que leímos mucho.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Son palabras que sobran y se deben quitar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión textual mediante conectores permite que el resumen fluya de manera lógica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v9",
+      "statement": "¿Por qué hacer un resumen nos ayuda a aprender mejor un tema de estudio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así no tenemos que leer el libro completo nunca más.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque al resumir, nuestro cerebro selecciona y organiza la información más importante.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cuaderno se ve más lleno de letras.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque nos toma menos tiempo que hacer un dibujo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen es una herramienta cognitiva poderosa que favorece el aprendizaje significativo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-v10",
+      "statement": "Si la noticia trata sobre un niño que rescató a un gato de un árbol ayer en Bogotá, ¿cuál es la mejor síntesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un niño de Bogotá vio un gato en un árbol ayer por la tarde cerca a su casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un valiente niño rescató ayer a un gato atrapado en un árbol en Bogotá.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Los gatos a veces se suben a los árboles y no pueden bajar solos en las ciudades.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gato rescatado árbol Bogotá niño ayer valiente.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La síntesis extrema requiere una gran capacidad de abstracción para conservar solo los núcleos informativos esenciales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W36-resumen-sintesis-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

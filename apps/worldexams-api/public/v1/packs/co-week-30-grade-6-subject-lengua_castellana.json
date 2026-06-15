@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-30-grade-6-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denominan las palabras que se escriben igual pero tienen significados diferentes, como \"banco\" (entidad financiera) y \"banco\" (asiento)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sinónimos son palabras con significados parecidos, no iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Antónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antónimos son palabras con significados opuestos."
+        },
+        {
+          "letter": "C",
+          "text": "Homónimas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras homónimas (específicamente homógrafas en este caso) se escriben igual pero tienen distintos significados."
+        },
+        {
+          "letter": "D",
+          "text": "Parónimas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las parónimas se parecen en su sonido o escritura pero no son iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La homonimia ocurre cuando dos palabras de distinto origen coinciden en su forma externa (escritura o sonido) pero mantienen significados totalmente diferentes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v2",
+      "statement": "En la oración \"Mañana **habremos terminado** el proyecto de ciencias\", el verbo resaltado se encuentra en:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Futuro simple de indicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El futuro simple sería \"terminaremos\"."
+        },
+        {
+          "letter": "B",
+          "text": "Futuro compuesto (antefuturo) de indicativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forma con el futuro de \"haber\" + participio, indicando una acción futura anterior a otra."
+        },
+        {
+          "letter": "C",
+          "text": "Pretérito perfecto de subjuntivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo no es subjuntivo y no indica pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El condicional sería \"terminaríamos\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los tiempos compuestos se forman con el verbo auxiliar \"haber\" conjugado y el participio del verbo principal. El futuro compuesto indica una acción que se considera acabada en el futuro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes oraciones utiliza el **modo subjuntivo** para expresar un deseo o duda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Chocó tiene una gran biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración está en modo indicativo (afirma un hecho)."
+        },
+        {
+          "letter": "B",
+          "text": "Ojalá **llueva** pronto en la región.",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo \"llueva\" está en subjuntivo, expresando un deseo tras la interjección \"ojalá\"."
+        },
+        {
+          "letter": "C",
+          "text": "¡Cierren la puerta con cuidado!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración utiliza el modo imperativo (orden)."
+        },
+        {
+          "letter": "D",
+          "text": "Nosotros viajaremos a Nuquí el próximo mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración está en modo indicativo (certeza futura)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modo subjuntivo se utiliza para expresar acciones posibles, dudosas, deseadas o hipotéticas, a diferencia del indicativo que expresa hechos reales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v4",
+      "statement": "Si un autor escribe: \"Si **hubieras venido**, habrías visto el desfile\", el verbo \"hubieras venido\" indica:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción que ocurrió realmente en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica algo que NO ocurrió (condición irreal)."
+        },
+        {
+          "letter": "B",
+          "text": "Una condición hipotética en el pasado que no se cumplió.",
+          "is_correct": true,
+          "feedback": "Correcto. El pretérito pluscuamperfecto de subjuntivo se usa para hipótesis sobre el pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Una orden directa que se dio en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo subjuntivo no se usa para órdenes directas afirmativas."
+        },
+        {
+          "letter": "D",
+          "text": "Una acción que está ocurriendo en este preciso momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tiempo pasado e hipotético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del subjuntivo en oraciones condicionales permite plantear escenarios que no sucedieron en la realidad, permitiendo la reflexión sobre posibilidades pasadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v5",
+      "statement": "Identifica el par de palabras que mantienen una relación de **antonimia gradual** (aquellos que admiten grados intermedios).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vivo / Muerto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos complementarios (si es uno, no puede ser el otro)."
+        },
+        {
+          "letter": "B",
+          "text": "Caliente / Frío.",
+          "is_correct": true,
+          "feedback": "Correcto. Son antónimos graduales porque existen estados intermedios como tibio o templado."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar / Vender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos recíprocos (uno implica al otro)."
+        },
+        {
+          "letter": "D",
+          "text": "Entrar / Salir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son antónimos direccionales u opuestos inversos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los antónimos graduales son aquellos que representan los extremos de una escala, permitiendo la existencia de matices intermedios entre ambos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v6",
+      "statement": "En el fragmento: \"Los ancestros **caminaban** por el desierto cada noche\", el verbo resaltado indica:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción puntual que terminó rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde al pretérito perfecto simple (caminaron)."
+        },
+        {
+          "letter": "B",
+          "text": "Una acción habitual o repetida en el pasado.",
+          "is_correct": true,
+          "feedback": "Correcto. El pretérito imperfecto (copretérito) se usa para describir rutinas o estados duraderos en el pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Una acción que todavía no ha sucedido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tiempo de pasado, no de futuro."
+        },
+        {
+          "letter": "D",
+          "text": "Un deseo del narrador sobre el futuro de su pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo es indicativo, no subjuntivo de deseo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pretérito imperfecto de indicativo es fundamental en la narración para crear el escenario o describir acciones que se repetían con frecuencia en el tiempo pasado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v7",
+      "statement": "En la oración: \"La **casa** del hato es muy grande\", ¿cuál de los siguientes sinónimos sería el más preciso para el contexto de los llanos orientales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Edificio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un edificio es una estructura urbana de varios pisos, no encaja con un hato llanero."
+        },
+        {
+          "letter": "B",
+          "text": "Apartamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la realidad rural de un hato."
+        },
+        {
+          "letter": "C",
+          "text": "Casona.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Casona\" o \"vivienda principal\" se ajusta mejor a la descripción de una construcción rural amplia."
+        },
+        {
+          "letter": "D",
+          "text": "Choza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una choza es una construcción humilde y pequeña, lo que contradice el adjetivo \"grande\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sinonimia total es rara; la mayoría de los sinónimos son parciales o contextuales. Elegir la palabra exacta depende del entorno (urbano vs rural) y las características del objeto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia semántica entre \"ay\", \"hay\" y \"ahí\" en el siguiente contexto? \"¡___! No ___ nadie ___ sentado\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verbo haber, lugar, interjección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Interjección, verbo haber, lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Ay\" es dolor/emoción, \"hay\" es existencia (haber) y \"ahí\" es un adverbio de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Lugar, interjección, verbo haber.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conceptos están desordenados."
+        },
+        {
+          "letter": "D",
+          "text": "Verbo haber, interjección, lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer elemento de la frase es una interjección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Estas palabras son homófonas (suenan igual o parecido en algunas regiones) pero su escritura y categoría gramatical son distintas, por lo que su confusión es un error ortográfico común.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál sería la mejor opción para sustituir el verbo \"hacer\" en la oración: \"Los artesanos van a **hacer** una estatua de madera\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar.",
+          "is_correct": false,
+          "feedback": "Es aceptable, pero hay un verbo más específico para el arte."
+        },
+        {
+          "letter": "B",
+          "text": "Esculpir.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el verbo preciso para la creación de estatuas o figuras en materiales sólidos."
+        },
+        {
+          "letter": "C",
+          "text": "Ejecutar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es demasiado técnico o administrativo para un contexto artístico."
+        },
+        {
+          "letter": "D",
+          "text": "Fabricar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sugiere un proceso industrial o en serie, no artesanal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de verbos \"comodín\" como hacer, tener o decir debe evitarse en la escritura formal, prefiriendo verbos de significado preciso que aporten más información al lector.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v10",
+      "statement": "Evalúa el siguiente párrafo: \"Ayer **vaya** al museo y **miraría** los cuadros. Si **tengo** tiempo, **iré** de nuevo mañana\". ¿Qué correcciones en los tiempos y modos verbales son necesarias para que el texto sea correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar \"vaya\" por \"vengo\" y \"miraría\" por \"veo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer verbo debe estar en pasado (ayer)."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar \"vaya\" por \"fui\" (pasado) y \"miraría\" por \"miré\" (pasado), manteniendo el resto.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Ayer\" exige pretérito perfecto simple, y la segunda parte (condición real) es correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar \"iré\" por \"fuera\" y \"tengo\" por \"tuviera\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaría una condición posible por una improbable, pero no corrige el error del pasado."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es correcto tal como está escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta errores graves de concordancia temporal con el adverbio \"ayer\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia temporal exige que los verbos concuerden con los adverbios de tiempo. \"Ayer\" requiere tiempos del pasado del indicativo, mientras que las condiciones futuras posibles usan el presente de indicativo.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Cubre semántica y verbos según el currículo de G6 P3. |\n| Contexto | 20/20 | Referencias a Valledupar, Tunja, Quibdó, Riohacha, etc. |\n| Redacción | 10/10 | Preguntas de alta calidad con explicaciones claras. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

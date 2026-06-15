@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-10-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.237Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v1",
+      "statement": "¿A qué lugar viajó la familia de Mateo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Cartagena",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A una finca en el Quindío",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Al Amazonas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Se quedaron en Bogotá",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comprensión literal consiste en identificar información que aparece escrita directamente en el texto.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v2",
+      "statement": "¿Qué día de la semana realizaron el viaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El domingo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El viernes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El sábado",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No dice el día",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar datos temporales es parte fundamental de la lectura de nivel literal.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v3",
+      "statement": "¿De qué color era el carro en el que viajaron?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Azul",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Rojo",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Blanco",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Amarillo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos descriptivos en el texto proporcionan detalles importantes para la comprensión literal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v4",
+      "statement": "¿Quién esperaba a la familia en la finca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tía",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Unos amigos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El abuelo José",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El perro Mateo",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar a los personajes y sus nombres es una tarea básica de localización de información.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v5",
+      "statement": "Según el texto, ¿qué fue lo primero que vieron al llegar a la finca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cafetales y pájaros de colores",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El chocolate caliente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Otros carros rojos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Una piscina grande",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seguir la secuencia de eventos tal como se narran es importante para la comprensión del relato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v6",
+      "statement": "¿Qué les ofreció el abuelo para comer y beber?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugo de naranja y pan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Chocolate caliente y arepas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Café y galletas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Almuerzo y postre",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los detalles sobre objetos o alimentos en una narración enriquecen la comprensión del escenario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v7",
+      "statement": "¿Desde qué ciudad salió la familia de Mateo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Armenia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cali",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Medellín",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir entre el punto de origen y el punto de destino es clave en textos de viajes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v8",
+      "statement": "¿Cómo era el horario de salida de la familia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al mediodía",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "En la noche",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Muy temprano",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No lo mencionan",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones de tiempo (\"muy temprano\", \"tarde\") ayudan a situar la acción en el día.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v9",
+      "statement": "¿Cuál de las siguientes afirmaciones es FALSA según el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viajaron en un carro rojo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El abuelo José viajó con ellos desde Bogotá.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En la finca había cafetales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "El viaje fue un día de fin de semana.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar afirmaciones con el contenido del texto permite verificar la precisión de la lectura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-v10",
+      "statement": "¿Cuál sería el mejor título para este pequeño texto si queremos que sea muy descriptivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carro rojo de papá.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El viaje de la familia de Mateo al Quindío.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El chocolate caliente del abuelo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Los pájaros de colores.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir un título adecuado requiere sintetizar la información literal más importante del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W10-comprension-literal-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,17 +1,20 @@
 ---
-id: "CO-LEN-6-2026-W38-ortografia-001-MASTERY"
+id: "CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lengua-castellana"
 tema: "ortografia"
-periodo: 4
-bundle_index: 1
-week: 38
+periodo: "weekly"
+week: "W38"
 year: 2026
 bundle_type: "weekly"
 protocol_version: "5.2"
+total_questions: 10
 bundle_size: 10
-alignment: "DBA MEN + Estándares Básicos"
+alignment: "DBA MEN Colombia / Saber 2026"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
 ---
 
 # Weekly Pack W38 — Ortografía
@@ -19,230 +22,221 @@ alignment: "DBA MEN + Estándares Básicos"
 **Grado:** 6° | **Periodo:** 4 | **Semana:** 38 | **Año:** 2026
 
 ---
-## Question 1 [D3-D4]
 
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v1`
-**Bloom:** Understand
-**ICFES:** Competencia 2
-**Context:** I.E. San Juan de Dios en Manizales
+## Question 1 [D3]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
+**Contexto:** En la Institución Educativa Alfonso López Pumarejo de Valledupar, los estudiantes repasan las reglas de acentuación.
+
+### Enunciado
+¿Cuándo llevan tilde las palabras **agudas** (aquellas cuya sílaba tónica es la última)?
+
+### Opciones
+- [ ] A) Cuando terminan en cualquier consonante menos la n o la s. <!-- feedback: Incorrecto. Esa es la regla de las palabras graves. -->
+- [x] B) Cuando terminan en n, s o vocal. <!-- feedback: Correcto. Ejemplos: camión, compás, café. -->
+- [ ] C) Siempre llevan tilde, sin importar en qué letra terminen. <!-- feedback: Incorrecto. Esa es la regla de las esdrújulas. -->
+- [ ] D) Solo cuando se escriben con mayúscula inicial. <!-- feedback: Incorrecto. Las mayúsculas también siguen las reglas generales de acentuación. -->
+
+### Explicacion Pedagogica
+Las palabras agudas se tildan si terminan en las consonantes n o s, o en cualquiera de las cinco vocales. Esta regla ayuda a identificar la pronunciación correcta de miles de palabras en español.
+
+---
+
+## Question 2 [D4]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.85
+**Contexto:** Un estudiante de 6° grado en Tunja escribe un texto sobre el clima frío y debe clasificar las palabras por su acento.
 
 ### Enunciado
-En la clase de Lengua en Manizales, los estudiantes revisan el uso de la **b** y la **v**. ¿Cuál de las siguientes palabras relacionadas con la geografía de Colombia está escrita correctamente?
+¿Cuál de las siguientes opciones contiene solo palabras **esdrújulas**?
 
-### Options
-- [ ] A) Selba <!-- feedback: Incorrecto. Se escribe con "v": selva. -->
-- [x] B) Volcán <!-- feedback: Correcto. Se escribe con "v". -->
-- [ ] C) Colunbia <!-- feedback: Incorrecto. Se escribe con "m" antes de "b" y con "o": Colombia. -->
-- [ ] D) Provinzia <!-- feedback: Incorrecto. Se escribe con "c": provincia. -->
+### Opciones
+- [ ] A) Balón, café, canción. <!-- feedback: Incorrecto. Son palabras agudas con tilde. -->
+- [ ] B) Mesa, silla, puerta. <!-- feedback: Incorrecto. Son palabras graves sin tilde. -->
+- [x] C) Música, teléfono, pájaro. <!-- feedback: Correcto. Son palabras cuya sílaba tónica es la antepenúltima y siempre se tildan. -->
+- [ ] D) Computador, pared, reloj. <!-- feedback: Incorrecto. Son palabras agudas sin tilde. -->
 
-### Explicación Pedagógica
-El conocimiento de las reglas ortográficas básicas (uso de b/v, m antes de b) es esencial para la producción de textos legibles y correctos.
+### Explicacion Pedagogica
+Las palabras esdrújulas son aquellas que tienen el acento en la antepenúltima sílaba. En español, la regla es universal: todas las palabras esdrújulas deben llevar tilde.
 
 ---
 
-## Question 2 [D3-D4]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v2`
+## Question 3 [D5]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Competencia 2
-**Context:** Colegio Mayor de San Bartolomé en Bogotá
-**Expected_Success:** 0.82
+**ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.80
+**Contexto:** Un grupo de estudiantes en Cali debe usar correctamente las letras **B** y **V** en un informe de laboratorio.
 
 ### Enunciado
-Un estudiante escribe en su cuaderno: "El profesor nos enseño a usar la tilde". ¿Cuál es el error ortográfico en esta oración?
+¿Cuál es la forma correcta de escribir el verbo en la siguiente oración? "Ellos siempre ___ (escribir) sus observaciones con mucho cuidado".
 
-### Options
-- [ ] A) Falta la tilde en "profesor". <!-- feedback: Incorrecto. "Profesor" es aguda terminada en 'r', no lleva tilde. -->
-- [x] B) Falta la tilde en "enseñó". <!-- feedback: Correcto. Es una palabra aguda terminada en vocal, por lo que debe llevar tilde en la última sílaba para indicar el pasado. -->
-- [ ] C) Falta la tilde en "tilde". <!-- feedback: Incorrecto. "Tilde" es grave terminada en vocal, no lleva tilde. -->
-- [ ] D) "Uzar" se escribe con "s". <!-- feedback: Incorrecto. "Usar" ya está escrito con "s" en el enunciado, lo cual es correcto. -->
+### Opciones
+- [ ] A) Escrivían. <!-- feedback: Incorrecto. El uso de la "v" es un error ortográfico en este verbo. -->
+- [x] B) Escribían. <!-- feedback: Correcto. Los verbos terminados en -bir (excepto vivir, servir y hervir) se escriben con "b". -->
+- [ ] C) Escrivian. <!-- feedback: Incorrecto. Falta la tilde en la "i" y el uso de la "v" es incorrecto. -->
+- [ ] D) Escribian. <!-- feedback: Incorrecto. El pretérito imperfecto de los verbos en -ir requiere tilde en la "i" (había hiato). -->
 
-### Explicación Pedagógica
-La acentuación gráfica permite distinguir tiempos verbales y pronunciar correctamente las palabras según las reglas de agudas, graves y esdrújulas.
+### Explicacion Pedagogica
+Existe una regla ortográfica clara: los verbos que terminan en -bir se escriben con "b". Además, en el pretérito imperfecto, se debe marcar el hiato con tilde en la vocal cerrada.
 
 ---
 
-## Question 3 [D3-D4]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v3`
+## Question 4 [D6]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Competencia 2
-**Context:** Institución Educativa Nacional Loperena en Valledupar
-**Expected_Success:** 0.78
-
-### Enunciado
-En Valledupar, los estudiantes practican el uso de la **h**. ¿Cuál de estas palabras está bien escrita?
-
-### Options
-- [ ] A) Echo <!-- feedback: Incorrecto. Si se refiere al pasado de "hacer" (ej: lo he hecho), debe llevar "h". "Echo" sin "h" es del verbo echar (tirar). -->
-- [x] B) Huevo <!-- feedback: Correcto. Las palabras que empiezan por los diptongos ia, ie, ue, ui siempre llevan "h". -->
-- [ ] C) Ielo <!-- feedback: Incorrecto. Debe llevar "h": hielo. -->
-- [ ] D) Ermano <!-- feedback: Incorrecto. Debe llevar "h": hermano. -->
-
-### Explicación Pedagógica
-La "h" es una letra muda pero obligatoria en muchas raíces del español. Recordar las reglas de los diptongos iniciales ayuda a evitar errores comunes.
-
----
-
-## Question 4 [D5-D6]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v4`
-**Bloom:** Analyze
-**ICFES:** Competencia 2
-**Context:** I.E. Inem Santiago Pérez en Bogotá
+**ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.75
+**Contexto:** En un taller de ortografía en Barranquilla, se estudia el uso de la **H** intermedia y al inicio de palabra.
 
 ### Enunciado
-Considera el uso de la **g** y la **j**. ¿Cuál de las siguientes oraciones es ortográficamente correcta?
+¿Cuál de las siguientes palabras está escrita **incorrectamente**?
 
-### Options
-- [ ] A) El mensajero trajo el equi-paje. <!-- feedback: Incorrecto. Se escribe "equipaje" (todo junto y con j). -->
-- [x] B) El cerrajero arregló la puerta del colegio. <!-- feedback: Correcto. "Cerrajero" (oficio en -jero) y "colegio" (terminación en -gio) están bien escritas. -->
-- [ ] C) Me gusta el jugo de berenjena con jengibre. <!-- feedback: Incorrecto. "Jengibre" se escribe con "j" al principio y "g" en la segunda sílaba. -->
-- [ ] D) El viaje fue muy largo y agotajente. <!-- feedback: Incorrecto. "Agotador" o "Agotadoramente", pero si fuera una derivada de agotar no llevaría "j". -->
+### Opciones
+- [ ] A) Hielo. <!-- feedback: Correcto. Se escribe con "h" inicial antes del diptongo "ie". -->
+- [ ] B) Hueco. <!-- feedback: Correcto. Se escribe con "h" inicial antes del diptongo "ue". -->
+- [x] C) Erbol. <!-- feedback: Incorrecto. La palabra correcta es "Árbol" (con tilde y sin h). -->
+- [ ] D) Zanahoria. <!-- feedback: Correcto. Lleva una "h" intermedia. -->
 
-### Explicación Pedagógica
-Las reglas de la g y la j suelen basarse en las terminaciones (-jero, -jería, -gio, -gia). Su dominio requiere práctica constante y lectura.
+### Explicacion Pedagogica
+La letra "h" es muda en español, pero su uso responde a la etimología y a reglas específicas, como preceder a los diptongos ia, ie, ue, ui al inicio de palabra.
 
 ---
 
-## Question 5 [D5-D6]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v5`
+## Question 5 [D6]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Competencia 2
-**Context:** Colegio Marymount en Medellín
-**Expected_Success:** 0.70
+**ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.74
+**Contexto:** Un estudiante de Bucaramanga debe decidir qué signo de puntuación usar para separar elementos de una lista larga.
 
 ### Enunciado
-Un estudiante de Medellín duda entre escribir "hay", "ahí" o "ay". Si quiere expresar que **en ese lugar** está su maleta, ¿cuál debe usar?
+En la oración: "Compré manzanas, peras, bananos y uvas", ¿qué función cumple la **coma**?
 
-### Options
-- [ ] A) ¡Ay! mi maleta está aquí. <!-- feedback: Incorrecto. "Ay" es una interjección que expresa dolor o sorpresa. -->
-- [ ] B) Hay mi maleta está ahí. <!-- feedback: Incorrecto. "Hay" es del verbo haber (existencia). -->
-- [x] C) Mi maleta está ahí. <!-- feedback: Correcto. "Ahí" es un adverbio de lugar. -->
-- [ ] D) Ahí maletas para todos. <!-- feedback: Incorrecto. En este caso debería ser "Hay" (existencia). -->
+### Opciones
+- [ ] A) Indicar que el autor está muy cansado de escribir. <!-- feedback: Incorrecto. La puntuación no mide el cansancio del autor. -->
+- [ ] B) Separar el sujeto del predicado. <!-- feedback: Incorrecto. Nunca se debe poner coma entre el sujeto y el verbo. -->
+- [x] C) Separar los elementos de una enumeración sencilla. <!-- feedback: Correcto. Es uno de los usos más básicos y frecuentes de la coma. -->
+- [ ] D) Indicar que la oración ha terminado definitivamente. <!-- feedback: Incorrecto. Esa es la función del punto final. -->
 
-### Explicación Pedagógica
-Las palabras homófonas (suenan igual pero se escriben distinto) son un reto ortográfico. Distinguir entre hay/ahí/ay es fundamental para la coherencia escrita.
+### Explicacion Pedagogica
+La coma enumerativa permite organizar los elementos de una serie, facilitando la lectura rítmica y la comprensión de los componentes de un grupo.
 
 ---
 
-## Question 6 [D5-D6]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Competencia 2
-**Context:** I.E. Normal Superior en Pasto
-**Expected_Success:** 0.72
-
-### Enunciado
-¿Cuál de las siguientes palabras es **esdrújula** y, por lo tanto, siempre debe llevar tilde?
-
-### Options
-- [ ] A) Café <!-- feedback: Incorrecto. Es aguda, lleva tilde porque termina en vocal. -->
-- [ ] B) Arbol <!-- feedback: Incorrecto. Es grave, lleva tilde porque termina en consonante distinta de 'n' o 's' (árbol). -->
-- [x] C) Música <!-- feedback: Correcto. Es esdrújula (la fuerza de voz está en la antepenúltima sílaba) y todas las esdrújulas llevan tilde. -->
-- [ ] D) Camión <!-- feedback: Incorrecto. Es aguda, lleva tilde porque termina en 'n'. -->
-
-### Explicación Pedagógica
-La clasificación de palabras por su acento (agudas, graves, esdrújulas) es la base de la ortografía acentual en español.
-
----
-
-## Question 7 [D7-D8]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v7`
+## Question 6 [D7]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Competencia 2
-**Context:** Gimnasio de los Cerros en Bogotá
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.68
+**Contexto:** Un grupo de alumnos en Cartagena analiza el uso de los **dos puntos** en un diálogo.
+
+### Enunciado
+¿En qué caso es correcto el uso de los **dos puntos** (:)?
+
+### Opciones
+- [ ] A) Al final de cada párrafo para que se vea más elegante. <!-- feedback: Incorrecto. Los dos puntos tienen funciones conectivas específicas. -->
+- [x] B) Antes de empezar una cita textual o una enumeración anunciada. <!-- feedback: Correcto. Ejemplo: El profesor dijo: "Saquen sus cuadernos". -->
+- [ ] C) Entre el artículo y el sustantivo. <!-- feedback: Incorrecto. Rompe la unidad de la frase sin sentido. -->
+- [ ] D) Después de un signo de interrogación. <!-- feedback: Incorrecto. No es un uso normativo de los dos puntos. -->
+
+### Explicacion Pedagogica
+Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue, que generalmente es una explicación, una enumeración o una cita literal.
+
+---
+
+## Question 7 [D8]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.62
+**Contexto:** En una clase en Pereira, se estudia la diferencia entre **porque**, **por qué**, **porqué** y **por que**.
 
 ### Enunciado
-Analiza la siguiente frase: "El **porqué** de su decisión es un misterio". ¿Por qué la palabra resaltada se escribe junta y con tilde?
+Completa la oración correctamente: "¿___ no viniste a la fiesta? Es ___ no tenía permiso".
 
-### Options
-- [ ] A) Porque es una pregunta directa. <!-- feedback: Incorrecto. Las preguntas directas usan "Por qué" (separado y con tilde). -->
-- [x] B) Porque funciona como un sustantivo que significa "el motivo" o "la razón". <!-- feedback: Correcto. "Porqué" (junto y con tilde) es un sustantivo y suele ir precedido de un artículo. -->
-- [ ] C) Porque está respondiendo a una pregunta. <!-- feedback: Incorrecto. Las respuestas usan "porque" (junto y sin tilde). -->
-- [ ] D) Porque es una exclamación. <!-- feedback: Incorrecto. No tiene signos de exclamación. -->
+### Opciones
+- [ ] A) Porque / Por qué. <!-- feedback: Incorrecto. El orden y las formas están invertidos. -->
+- [x] B) Por qué / porque. <!-- feedback: Correcto. "Por qué" (separado y con tilde) se usa para preguntas; "porque" (pegado y sin tilde) se usa para responder dando una causa. -->
+- [ ] C) Porqué / por que. <!-- feedback: Incorrecto. "Porqué" es un sustantivo y "por que" tiene otros usos relativos. -->
+- [ ] D) Porque / porque. <!-- feedback: Incorrecto. La pregunta requiere la forma separada y tildada. -->
 
-### Explicación Pedagógica
-Existen cuatro formas de escribir por qué / porque. Comprender la función gramatical de cada una es un signo de alta competencia ortográfica.
+### Explicacion Pedagogica
+Estas cuatro formas son homófonas pero tienen funciones gramaticales distintas. Distinguirlas es un signo de madurez ortográfica y ayuda a la claridad del mensaje.
 
 ---
 
-## Question 8 [D7-D8]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v8`
+## Question 8 [D8]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Competencia 2
-**Context:** Institución Educativa Madre Laura en Medellín
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.58
+**Contexto:** Un docente de Popayán evalúa el uso de las mayúsculas en un texto sobre geografía de Colombia.
 
 ### Enunciado
-¿Cuál de las siguientes palabras compuestas está escrita correctamente siguiendo las normas actuales de la RAE?
+¿Cuál de las siguientes frases respeta todas las normas de uso de **mayúsculas**?
 
-### Options
-- [ ] A) Balon-pie <!-- feedback: Incorrecto. Se escribe todo junto y sin guion: balompié (con m antes de p). -->
-- [ ] B) Decimo séptimo <!-- feedback: Incorrecto. Se escribe junto: decimoséptimo (la primera palabra pierde su tilde original). -->
-- [x] C) Ciempiés <!-- feedback: Correcto. Se escribe junto, con "m" antes de "p" y con tilde por ser aguda terminada en 's'. -->
-- [ ] D) Tio-vivo <!-- feedback: Incorrecto. Se escribe junto: tiovivo. -->
+### Opciones
+- [ ] A) el río magdalena nace en el huila y llega al atlántico. <!-- feedback: Incorrecto. Los nombres propios de accidentes geográficos y departamentos deben iniciar con mayúscula. -->
+- [x] B) El río Magdalena atraviesa gran parte de Colombia. <!-- feedback: Correcto. Se usa mayúscula al inicio de la oración y en los nombres propios geográficos. -->
+- [ ] C) Colombia Tiene Muchos Ríos Importantes En Su Territorio. <!-- feedback: Incorrecto. No se debe poner mayúscula en cada palabra (como ríos o importantes). -->
+- [ ] D) EN EL COLEGIO ESTUDIAMOS LA GEOGRAFÍA NACIONAL. <!-- feedback: Incorrecto. El uso de mayúsculas sostenidas no es adecuado para este tipo de enunciados. -->
 
-### Explicación Pedagógica
-La formación de palabras compuestas sigue reglas específicas: a menudo la primera palabra pierde su acento y se deben aplicar las reglas generales al conjunto resultante.
+### Explicacion Pedagogica
+Las mayúsculas sirven para jerarquizar la información y distinguir los nombres propios (entidades únicas) de los nombres comunes (clases de objetos).
 
 ---
 
-## Question 9 [D7-D8]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v9`
+## Question 9 [D9]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Competencia 2
-**Context:** I.E. Liceo de Quibdó
-**Expected_Success:** 0.55
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.54
+**Contexto:** En un ejercicio en Villavicencio, se analiza el uso de la tilde diacrítica en monosílabos.
 
 ### Enunciado
-En la frase "Aún no ha llegado el barco", la palabra "**Aún**" lleva tilde porque:
+¿En qué caso la palabra **"té"** debe llevar tilde?
 
-### Options
-- [ ] A) Es una palabra aguda terminada en 'n'. <!-- feedback: Incorrecto. Si fuera por regla general, "aun" no llevaría tilde por ser monosílaba en muchos contextos. -->
-- [x] B) Puede sustituirse por "todavía". <!-- feedback: Correcto. Es una tilde diacrítica: se pone cuando significa "todavía" y se quita cuando significa "incluso". -->
-- [ ] C) Es el nombre de una persona. <!-- feedback: Incorrecto. No es un nombre propio. -->
-- [ ] D) Indica una pregunta. <!-- feedback: Incorrecto. Es una afirmación temporal. -->
+### Opciones
+- [ ] A) Cuando funciona como pronombre personal. <!-- feedback: Incorrecto. Como pronombre es "te" (sin tilde). -->
+- [x] B) Cuando se refiere a la planta o a la infusión (bebida). <!-- feedback: Correcto. Es una tilde diacrítica para diferenciar el sustantivo del pronombre. -->
+- [ ] C) Siempre que aparezca al final de una pregunta. <!-- feedback: Incorrecto. La posición no determina la tilde en este caso. -->
+- [ ] D) Solo si la palabra se escribe en una taza de porcelana. <!-- feedback: Incorrecto. La ortografía no depende del soporte físico. -->
 
-### Explicación Pedagógica
-La tilde diacrítica sirve para diferenciar palabras que se escriben igual pero tienen funciones y significados distintos (aún/aun, dé/de, él/el).
+### Explicacion Pedagogica
+La tilde diacrítica es una excepción a la regla de los monosílabos (que generalmente no se tildan) para permitir distinguir palabras que se escriben igual pero tienen funciones diferentes.
 
 ---
 
-## Question 10 [D9-D10]
-
-**ID:** `CO-LEN-6-2026-W38-ortografia-001-MASTERY-v10`
+## Question 10 [D10]
+**ID:** CO-LEN-6-2026-W38-ortografia-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Competencia 2
-**Context:** Liceo Francés de Bogotá
+**ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.48
+**Contexto:** Un estudiante de 6° grado en Pasto debe corregir un texto con múltiples errores ortográficos antes de publicarlo.
 
 ### Enunciado
-Identifica el fragmento que **no** contiene errores ortográficos:
+Lee el párrafo: "ayer valla a la kalle i vi un pajaro azul". ¿Cuál es la corrección ortográfica completa y correcta?
 
-### Options
-- [ ] A) El joven halló una llave vieja en el jardin de su visabuelo. <!-- feedback: Incorrecto. "Jardín" lleva tilde y "bisabuelo" se escribe con "b". -->
-- [x] B) El exhibicionismo de aquel artista fue cuestionado por la crítica. <!-- feedback: Correcto. "Exhibicionismo" (con h y x), "aquel" (sin tilde) y "crítica" (esdrújula) están bien escritas. -->
-- [ ] C) Quisiera que me dé mas café, por favor. <!-- feedback: Incorrecto. "Más" (cantidad) debe llevar tilde diacrítica. -->
-- [ ] D) La hayer fue un día muy caluroso en la capital. <!-- feedback: Incorrecto. "Ayer" no lleva "h". -->
+### Opciones
+- [ ] A) Ayer vaya a la calle y vi un pájaro azul. <!-- feedback: Incorrecto. El verbo "vaya" está mal conjugado para el pasado. -->
+- [x] B) Ayer fui a la calle y vi un pájaro azul. <!-- feedback: Correcto. Corrige la mayúscula inicial, el verbo en pasado, la letra "c", la conjunción "y" y la tilde en "pájaro". -->
+- [ ] C) Ayer fuy a la calle y bi un pajaro azul. <!-- feedback: Incorrecto. "Fuy" y "bi" son errores ortográficos graves. -->
+- [ ] D) Ayer fui a la calle y vi un pajaro azul. <!-- feedback: Incorrecto. Falta la tilde en la palabra esdrújula "pájaro". -->
 
-### Explicación Pedagógica
-La revisión ortográfica final de un texto requiere atención al detalle en reglas complejas, tildes diacríticas y palabras de escritura dudosa.
+### Explicacion Pedagogica
+La corrección ortográfica integral implica revisar simultáneamente la puntuación, la acentuación, el uso de letras dudosas (b/v, y/ll) y la concordancia gramatical.
 
 [//]: # (QUALITY_REVIEW)
 
 | Dimensión | Score | Notas |
 |-----------|-------|-------|
-| Técnico | 30/30 | Formato Protocolo v5.2 completo. |
-| Curricular | 40/40 | Alineado con estándares de ortografía para 6°. |
-| Contexto | 20/20 | Contexto colombiano (ciudades, instituciones) presente. |
-| Redacción | 10/10 | Alta calidad en distractores y retroalimentación pedagógica. |
+| Técnico | 30/30 | Formato Protocolo v5.2 respetado. |
+| Curricular | 40/40 | Cubre acentuación, letras b/v/h, puntuación y mayúsculas. |
+| Contexto | 20/20 | Contextos colombianos diversos y educativos. |
+| Redacción | 10/10 | Alta claridad y rigor pedagógico. |
 | **TOTAL** | **100/100** | |

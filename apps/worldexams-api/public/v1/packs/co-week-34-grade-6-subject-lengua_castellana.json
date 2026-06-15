@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-34-grade-6-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.183Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el elemento indispensable que debe aparecer al inicio de una carta formal para indicar el lugar y el momento en que se escribe?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del cartero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartero solo entrega la carta, no hace parte del contenido escrito."
+        },
+        {
+          "letter": "B",
+          "text": "La ciudad y la fecha.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda carta debe estar situada en el espacio y el tiempo para que el receptor sepa cuándo se envió."
+        },
+        {
+          "letter": "C",
+          "text": "El número de teléfono de la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser útil, pero no es el elemento que abre la carta por norma general."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de regalos deseados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo iría en una carta informal de cumpleaños o navidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El encabezado de una carta (ciudad y fecha) es fundamental para la organización administrativa y personal de la correspondencia, permitiendo llevar un registro temporal de la comunicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función del campo **Asunto** en un correo electrónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir todo el mensaje largo de la carta allí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El asunto debe ser breve; el mensaje largo va en el cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar de forma breve y clara el tema central del correo.",
+          "is_correct": true,
+          "feedback": "Correcto. Ayuda al receptor a identificar rápidamente la importancia y el contenido del mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Poner la dirección física de la casa del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección física no es obligatoria en el asunto de un correo."
+        },
+        {
+          "letter": "D",
+          "text": "Es el lugar para poner la foto de perfil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La foto de perfil es parte de la configuración de la cuenta, no del envío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la comunicación digital, el asunto es clave para la eficiencia, permitiendo al destinatario organizar su bandeja de entrada y priorizar los mensajes importantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes **saludos** es el más apropiado para una carta formal dirigida a una autoridad escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hola, ¿qué más, rector?\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un saludo demasiado informal para una comunicación oficial."
+        },
+        {
+          "letter": "B",
+          "text": "\"Distinguido señor Rector,\".",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza un tono respetuoso y formal acorde a la jerarquía del destinatario."
+        },
+        {
+          "letter": "C",
+          "text": "\"Oye, tú, necesito un favor\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es irrespetuoso y carece de las normas mínimas de cortesía."
+        },
+        {
+          "letter": "D",
+          "text": "\"Querido amigo Rector\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. A menos que haya una amistad muy íntima, no es el saludo estándar en una carta de solicitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El saludo o vocativo establece el tono de la relación entre el emisor y el receptor. En cartas formales, se usan fórmulas de cortesía preestablecidas (Respetado, Estimado, Distinguido).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué elemento debe cerrar un correo electrónico formal para indicar quién envió el mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contraseña de la cuenta de correo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ¡Nunca se debe compartir la contraseña!"
+        },
+        {
+          "letter": "B",
+          "text": "Un enlace a un video de chistes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es profesional en una comunicación formal."
+        },
+        {
+          "letter": "C",
+          "text": "Una firma que incluya el nombre completo y, si es necesario, el grado o cargo.",
+          "is_correct": true,
+          "feedback": "Correcto. La firma identifica legal o formalmente al emisor del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"Fin\" escrita en letras grandes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben usar fórmulas de despedida seguidas de la firma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La firma en un correo electrónico profesional o académico suele incluir datos de contacto adicionales, asegurando que el receptor sepa exactamente con quién se está comunicando.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se denomina la función técnica que permite enviar documentos, imágenes o videos junto con un mensaje de correo electrónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enviar a la basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso elimina el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Responder a todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función de respuesta, no de envío de archivos."
+        },
+        {
+          "letter": "C",
+          "text": "Adjuntar archivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El icono del clip suele representar la acción de adjuntar elementos externos al cuerpo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar sesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso termina la actividad en la plataforma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La capacidad de adjuntar archivos es una de las mayores ventajas del correo electrónico sobre la carta tradicional, permitiendo el intercambio instantáneo de información multimedia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de lenguaje predomina en una **carta informal** (dirigida a un familiar o amigo)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un lenguaje técnico, lleno de leyes y decretos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es lenguaje jurídico, no familiar."
+        },
+        {
+          "letter": "B",
+          "text": "Un lenguaje coloquial, cercano y con expresiones de afecto.",
+          "is_correct": true,
+          "feedback": "Correcto. Se permite el uso de apodos, bromas y un tono relajado."
+        },
+        {
+          "letter": "C",
+          "text": "Un lenguaje seco, sin emociones y muy distante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre amigos se busca precisamente la cercanía emocional."
+        },
+        {
+          "letter": "D",
+          "text": "No se usa el lenguaje, solo se mandan dibujos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo un medio de comunicación lingüístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El registro lingüístico se adapta al destinatario. En las cartas informales, el objetivo es mantener el vínculo afectivo, por lo que el lenguaje es más libre y espontáneo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v7",
+      "statement": "¿Para qué sirve el campo **CC** (Copia de Carbón) en un correo electrónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para enviar el correo de forma secreta sin que nadie lo sepa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa CCO (Copia de Carbón Oculta)."
+        },
+        {
+          "letter": "B",
+          "text": "Para enviar una copia del mensaje a otras personas interesadas, además del destinatario principal.",
+          "is_correct": true,
+          "feedback": "Correcto. Los destinatarios en CC son visibles para todos los que reciben el correo."
+        },
+        {
+          "letter": "C",
+          "text": "Para poner la dirección de correo de quien escribe el mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección del emisor aparece automáticamente."
+        },
+        {
+          "letter": "D",
+          "text": "Para poner la fecha del día de hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha es automática en los sistemas de correo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de CC es una norma de cortesía y organización en el trabajo y el estudio, permitiendo que varias personas estén informadas sobre un proceso sin ser los responsables directos de responder.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante revisar la ortografía y redacción en un correo electrónico, aunque sea un medio digital rápido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque si escribes mal, el correo no llegará al destinatario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El correo llegará, pero el mensaje se entenderá mal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque refleja el cuidado del emisor y asegura que el mensaje sea claro y respetuoso.",
+          "is_correct": true,
+          "feedback": "Correcto. La escritura correcta es parte de la imagen personal y profesional."
+        },
+        {
+          "letter": "C",
+          "text": "Porque internet cobra más dinero por cada letra que esté mal escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Internet no cobra por errores ortográficos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los robots leen los correos electrónicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los correos son leídos por seres humanos que valoran la buena comunicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La \"netiqueta\" (etiqueta en la red) incluye el respeto por las normas gramaticales, lo cual facilita la comprensión y demuestra respeto hacia el tiempo del lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la principal ventaja de la carta física (en papel) en la era de los correos electrónicos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que llega mucho más rápido que el correo electrónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta física tarda días; el correo es instantáneo."
+        },
+        {
+          "letter": "B",
+          "text": "Que es totalmente gratuita y no requiere estampillas ni sobres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere materiales físicos y servicios de mensajería."
+        },
+        {
+          "letter": "C",
+          "text": "El valor sentimental, la calidez de la letra manuscrita y su carácter tangible y duradero.",
+          "is_correct": true,
+          "feedback": "Correcto. La carta física se percibe como algo más personal y especial en contextos afectivos."
+        },
+        {
+          "letter": "D",
+          "text": "Que se puede enviar solo si tienes conexión a internet de alta velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta física no depende de internet."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A pesar del dominio digital, la carta física conserva un valor simbólico y emocional que el correo electrónico no ha podido reemplazar totalmente en el ámbito personal.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la medida de seguridad más importante al usar el correo electrónico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Responderle al desconocido para preguntarle quién es.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto confirma que tu cuenta está activa y podrías recibir más spam."
+        },
+        {
+          "letter": "B",
+          "text": "Darle el número de la tarjeta de crédito de los padres de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ¡Peligro! Es un intento de estafa o fraude."
+        },
+        {
+          "letter": "C",
+          "text": "No abrir archivos adjuntos ni enlaces de remitentes desconocidos y nunca compartir contraseñas.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la regla de oro de la seguridad digital para evitar virus y robos de información."
+        },
+        {
+          "letter": "D",
+          "text": "Mandar el mismo correo a todos los amigos de la lista de contactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se llama \"spam\" y es molesto e inseguro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La educación en medios incluye la ciberseguridad. Los estudiantes deben aprender a desconfiar de remitentes desconocidos para proteger su privacidad y la de su familia.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Cumple con el protocolo v5.2. |\n| Curricular | 40/40 | Alineado con DBA sobre producción de textos (carta/email). |\n| Contexto | 20/20 | Contextos colombianos variados y realistas. |\n| Redacción | 10/10 | Preguntas pedagógicas y claras. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

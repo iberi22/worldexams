@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-34-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.252Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v1",
+      "statement": "¿En qué sílaba llevan la fuerza de voz (acento) las palabras **esdrújulas**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la última sílaba.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "En la penúltima sílaba.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "En la antepenúltima sílaba.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Después de la antepenúltima.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras esdrújulas son aquellas cuya sílaba tónica es la antepenúltima.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v2",
+      "statement": "¿Cuándo llevan tilde las palabras esdrújulas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo si terminan en n o s.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Solo si terminan en vocal.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Siempre llevan tilde, sin importar en qué letra terminen.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nunca llevan tilde.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de las agudas y graves, las esdrújulas no dependen de la letra final para llevar tilde.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v3",
+      "statement": "¿Cuál de estas palabras es esdrújula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiburón",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Caballo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pájaro",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ratón",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Contar las sílabas desde el final hacia atrás ayuda a localizar la posición del acento correctamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v4",
+      "statement": "¿Cuál de estas partes del cuerpo es una palabra esdrújula y debe llevar tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mano",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nariz",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estómago",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Pie",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Muchas palabras relacionadas con la ciencia y la anatomía son esdrújulas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v5",
+      "statement": "\"El niño mira la **pro__ima** página del libro\". ¿Cómo se escribe correctamente la palabra resaltada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "proxima (sin tilde)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "próxima (con tilde en la o)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "proxíma (con tilde en la i)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "proximá (con tilde en la a)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde debe colocarse siempre sobre la vocal de la sílaba tónica (la que suena más fuerte).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v6",
+      "statement": "¿Cuál de estos grupos contiene SOLO palabras esdrújulas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Café, avión, sofá.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Árbol, lápiz, casa.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Música, cámara, teléfono.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sol, pan, mar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Agrupar palabras por su tipo de acentuación ayuda a fijar las reglas ortográficas en la memoria.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v7",
+      "statement": "¿Cuál es la forma correcta de escribir la palabra que nombra a los signos como 1, 2, 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Numeros",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Números",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Numerós",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Numéros",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas palabras técnicas y académicas siguen la regla de las esdrújulas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v8",
+      "statement": "En la oración \"La **Vía Láctea** es nuestra galaxia\", ¿cuál es la palabra esdrújula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vía",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Láctea",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Galaxia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nuestra",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Palabras con varias vocales seguidas pueden ser esdrújulas si se separan correctamente en sílabas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v9",
+      "statement": "¿Cuál de estas frases tiene bien puestas todas las tildes de las palabras esdrújulas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vimos una aguila muy rapida en el cielo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "El helicóptero voló sobre el océano Atlántico.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Me gusta comer platano y sandia en el recreo.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Mañana iré al medico para que me revise el higado.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de las esdrújulas es una de las metas más claras en el aprendizaje de la ortografía de grado tercero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-v10",
+      "statement": "¿Cuál de estos nombres inventados sería una palabra esdrújula correctamente escrita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planeto.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Azulón.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fantástico.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Brillo.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al inventar palabras o nombres, aplicar las reglas de acentuación ayuda a que todos los lean con la misma pronunciación que imaginamos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W34-acentuacion-esdrujulas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

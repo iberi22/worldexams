@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-30-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T04:58:43.248Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v1",
+      "statement": "¿Cuál es la forma correcta de escribir la palabra que nombra al calzado que usamos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sapato (con s)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Zapato (con z)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Capato (con c)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tzapato",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas palabras que empiezan con el sonido /s/ se escriben con \"z\", y es necesario conocerlas visualmente.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v2",
+      "statement": "¿Ante qué vocales la letra **\"c\"** suena como una /s/?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ante la e y la i (ce, ci).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ante la a, o y u (ca, co, cu).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ante todas las vocales.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nunca suena como s.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La letra \"c\" tiene dos sonidos: fuerte (ka, ko, ku) y suave (se, si) dependiendo de la vocal que la siga.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v3",
+      "statement": "¿Cómo se escriben generalmente los diminutivos de las palabras que no tienen \"s\" al final?\n(Ejemplo: **ratón**, **flor**, **café**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con s (-sito, -sita).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Con c (-cito, -cita).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Con z (-zito, -zita).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Con x (-xito, -xita).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mayoría de los diminutivos se forman con la terminación -cito/a, que se escribe con c.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v4",
+      "statement": "¿Cuál es la forma correcta de escribir la palabra que significa el acto de cantar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cansión (con s)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Canción (con c)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Canzión (con z)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cancion (sin tilde)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras terminadas en el sufijo -ción, que deriva de verbos o palabras con \"t\", se escriben con c.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v5",
+      "statement": "¿Cómo se escriben los adjetivos que indican que algo tiene mucho de una cualidad?\n(Ejemplo: **amor__, famo__, ruido__**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con c (-oco, -oca).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Con s (-oso, -osa).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Con z (-ozo, -oza).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Con x (-oxo, -oxa).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos terminados en -oso y -osa se escriben siempre con la letra s.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v6",
+      "statement": "Si el singular es **\"lápiz\"** (con z), ¿cuál es el plural correcto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lápizes (con z)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lápises (con s)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lápices (con c)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Lapices (sin tilde)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es una regla fundamental: las palabras que terminan en z en singular, cambian la z por c en el plural.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v7",
+      "statement": "¿Con qué letra se escribe el prefijo que significa \"hacer lo contrario\"?\n(Ejemplo: **__armar**, **__hacer**, **__peinar**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con s (des-).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Con c (dec-).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Con z (dez-).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Con x (dex-).",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los prefijos comunes como des- ayuda a evitar errores ortográficos en una gran cantidad de palabras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v8",
+      "statement": "¿Cuál es la forma correcta de escribir la acción de cocinar alimentos al fuego?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coser (con s)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cocer (con c)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cozer (con z)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cocher",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contexto es fundamental para decidir la ortografía de palabras que suenan igual pero tienen significados y escrituras distintas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v9",
+      "statement": "\"La **selebrazión** por los **dies** años fue **er mosa**\". ¿Cuántos errores de c/s/z hay en las palabras resaltadas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dos errores.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tres errores.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ningún error.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revisión minuciosa de los textos permite identificar y corregir confusiones comunes entre estas tres letras.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases está escrita correctamente siguiendo las reglas de c, s y z?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protejamos a los peses del mar azul.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cuidemos a los peces en este mar azul.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Suidemos a los peses en este mar asul.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cuidemos a los pezes en este mar azul.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ortografía correcta refuerza la autoridad y la seriedad de los mensajes que queremos transmitir a la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W30-uso-c-s-z-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
