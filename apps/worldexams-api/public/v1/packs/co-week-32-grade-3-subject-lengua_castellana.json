@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-32-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.040Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v1",
+      "statement": "¿En qué sílaba llevan la fuerza de voz (acento) las palabras **agudas**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la primera sílaba.",
+          "is_correct": false,
+          "feedback": "No, esa posición no tiene un nombre especial así."
+        },
+        {
+          "letter": "B",
+          "text": "En la penúltima sílaba.",
+          "is_correct": false,
+          "feedback": "Esas son las palabras graves."
+        },
+        {
+          "letter": "C",
+          "text": "En la última sílaba.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las agudas siempre suenan fuerte al final."
+        },
+        {
+          "letter": "D",
+          "text": "En la antepenúltima sílaba.",
+          "is_correct": false,
+          "feedback": "Esas son las esdrújulas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras agudas son aquellas cuya sílaba tónica es la última.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v2",
+      "statement": "¿Cuándo llevan tilde las palabras agudas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando terminan en cualquier consonante.",
+          "is_correct": false,
+          "feedback": "No, hay consonantes específicas."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando terminan en n, s o vocal (a, e, i, o, u).",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Esta es la regla fundamental de las agudas."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre llevan tilde.",
+          "is_correct": false,
+          "feedback": "No todas las agudas se marcan con tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca llevan tilde.",
+          "is_correct": false,
+          "feedback": "Muchas sí la llevan según su terminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde en las palabras agudas depende exclusivamente de la letra con la que finalizan (n, s o vocal).\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v3",
+      "statement": "¿Cuál de estas palabras es aguda?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arepa",
+          "is_correct": false,
+          "feedback": "a-RE-pa. La fuerza está en la penúltima."
+        },
+        {
+          "letter": "B",
+          "text": "Café",
+          "is_correct": true,
+          "feedback": "¡Excelente! ca-FÉ. La fuerza está en la última sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "Banano",
+          "is_correct": false,
+          "feedback": "ba-NA-no. La fuerza está en la penúltima."
+        },
+        {
+          "letter": "D",
+          "text": "Sopa",
+          "is_correct": false,
+          "feedback": "SO-pa. La fuerza está en la penúltima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la sílaba tónica es el primer paso para clasificar una palabra según su acento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v4",
+      "statement": "¿Por qué la palabra **\"Panamá\"** lleva tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un nombre propio.",
+          "is_correct": false,
+          "feedback": "No todos los nombres propios llevan tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es aguda y termina en vocal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cumple exactamente con la regla de las agudas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque suena bonito con la rayita.",
+          "is_correct": false,
+          "feedback": "La tilde es una regla, no un adorno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene tres sílabas.",
+          "is_correct": false,
+          "feedback": "El número de sílabas no obliga a poner tilde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aplicación de la regla de acentuación justifica la presencia del acento ortográfico en los textos escritos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v5",
+      "statement": "¿Cuál de estas palabras es aguda pero NO lleva tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corazón",
+          "is_correct": false,
+          "feedback": "Es aguda pero termina en n, así que sí lleva tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Correr",
+          "is_correct": true,
+          "feedback": "¡Así es! Es aguda (co-RRER) pero termina en r, por lo que no lleva tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Maní",
+          "is_correct": false,
+          "feedback": "Es aguda y termina en vocal, sí lleva tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Avión",
+          "is_correct": false,
+          "feedback": "Es aguda y termina en n, sí lleva tilde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen muchas palabras agudas que no se marcan con tilde porque terminan en consonantes distintas a n o s.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v6",
+      "statement": "\"Yo **canto** en el coro\" / \"Él **cantó** muy bien\". ¿Cuál es la palabra aguda en estas oraciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Canto.",
+          "is_correct": false,
+          "feedback": "CAN-to. Es grave."
+        },
+        {
+          "letter": "B",
+          "text": "Cantó.",
+          "is_correct": true,
+          "feedback": "¡Exacto! can-TÓ. La fuerza está al final y lleva tilde porque termina en vocal."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son agudas.",
+          "is_correct": false,
+          "feedback": "No, la posición del acento cambia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es aguda.",
+          "is_correct": false,
+          "feedback": "\"Cantó\" sí lo es."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El acento puede cambiar el tiempo verbal y la persona que realiza la acción en muchas palabras del español.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v7",
+      "statement": "\"El **tibu__on** nada muy **veloz**\". ¿Cuál de las dos palabras agudas debe llevar tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Veloz.",
+          "is_correct": false,
+          "feedback": "Es aguda pero termina en z, no lleva tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Tiburón.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es aguda y termina en n, por lo que debe llevar tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos llevan tilde.",
+          "is_correct": false,
+          "feedback": "No, solo la que termina en n."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna lleva tilde.",
+          "is_correct": false,
+          "feedback": "Tiburón sí requiere acento ortográfico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer la terminación de la palabra es la clave para aplicar correctamente la norma ortográfica de las agudas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v8",
+      "statement": "¿Qué tienen en común las palabras: **\"tambor\", \"papel\", \"reloj\", \"libertad\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas son agudas sin tilde.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todas suenan fuerte al final pero terminan en r, l, j y d."
+        },
+        {
+          "letter": "B",
+          "text": "Todas son palabras graves.",
+          "is_correct": false,
+          "feedback": "No, el acento no está en la penúltima sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "Todas deberían llevar tilde.",
+          "is_correct": false,
+          "feedback": "No, porque ninguna termina en n, s o vocal."
+        },
+        {
+          "letter": "D",
+          "text": "No son palabras reales.",
+          "is_correct": false,
+          "feedback": "¡Claro que lo son!"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ejercitar el oído para detectar la sílaba tónica es fundamental, independientemente de si la palabra lleva tilde o no.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v9",
+      "statement": "¿Cuál de estas frases está escrita con todas las tildes de las palabras agudas correctas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El capitan subio al barco con su baston.",
+          "is_correct": false,
+          "feedback": "Faltan las tildes en capitán, subió y bastón."
+        },
+        {
+          "letter": "B",
+          "text": "El capitán subió al barco con su bastón.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Capitán (n), subió (vocal) y bastón (n) están perfectas."
+        },
+        {
+          "letter": "C",
+          "text": "El capitán subío al barco con su bastón.",
+          "is_correct": false,
+          "feedback": "La tilde en subió está mal ubicada."
+        },
+        {
+          "letter": "D",
+          "text": "El capitan subio al barcó con su baston.",
+          "is_correct": false,
+          "feedback": "Barco es grave, no lleva tilde. Las demás faltan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tilde no solo marca el acento, sino que permite diferenciar palabras y dar corrección al texto escrito.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-v10",
+      "statement": "¿Cuál de estos nombres inventados cumple con ser una palabra aguda que requiere tilde?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Supermán (con fuerza en per).",
+          "is_correct": false,
+          "feedback": "Esa pronunciación no es común."
+        },
+        {
+          "letter": "B",
+          "text": "Volador.",
+          "is_correct": false,
+          "feedback": "Es aguda pero termina en r, no lleva tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Rayón.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Es aguda (ra-YÓN) y termina en n, por lo que lleva tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Trueno.",
+          "is_correct": false,
+          "feedback": "Es grave (TRUE-no)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La creación de neologismos o nombres ficticios también debe respetar las leyes de la gramática y la ortografía del español.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W32-acentuacion-agudas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

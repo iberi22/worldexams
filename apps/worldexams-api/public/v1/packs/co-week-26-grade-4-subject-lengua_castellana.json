@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-26-grade-4-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.066Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v1",
+      "statement": "¿Cuál es la regla obligatoria para el uso de los signos de interrogación y exclamación en español?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo se pone el signo al final de la frase.",
+          "is_correct": false,
+          "feedback": "No, eso es propio del inglés."
+        },
+        {
+          "letter": "B",
+          "text": "Se deben usar siempre los signos de apertura (¿ ¡) y los de cierre (? !).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El español requiere ambos para delimitar la entonación."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se usan si la frase es muy larga.",
+          "is_correct": false,
+          "feedback": "Se usan sin importar el tamaño de la frase."
+        },
+        {
+          "letter": "D",
+          "text": "Se pueden poner cuantos uno quiera.",
+          "is_correct": false,
+          "feedback": "Lo correcto académicamente es uno de apertura y uno de cierre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A diferencia de otros idiomas, el español utiliza signos dobles para que el lector sepa desde el inicio cómo debe entonar la frase.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v2",
+      "statement": "¿Qué sentimientos o estados de ánimo expresan los signos de exclamación (**¡ !**)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo dudas e inseguridades.",
+          "is_correct": false,
+          "feedback": "Para eso son los de interrogación."
+        },
+        {
+          "letter": "B",
+          "text": "Alegría, sorpresa, miedo, enojo o mandatos fuertes.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Indican una entonación emocional intensa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto ha terminado para siempre.",
+          "is_correct": false,
+          "feedback": "Eso lo indica el punto final."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra es muy difícil de leer.",
+          "is_correct": false,
+          "feedback": "No tiene esa función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los signos de exclamación cargan el mensaje de subjetividad y emoción, reflejando el tono de voz del hablante.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v3",
+      "statement": "¿Cuál de estas oraciones está escrita correctamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Como estás hoy?",
+          "is_correct": false,
+          "feedback": "Falta la tilde en el \"Cómo\" que pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "¡Qué alegría verte! (sin tilde en Qué)",
+          "is_correct": false,
+          "feedback": "\"Qué\" exclamativo debe llevar tilde."
+        },
+        {
+          "letter": "C",
+          "text": "¿Dónde dejaste las llaves del carro?",
+          "is_correct": true,
+          "feedback": "¡Excelente! El \"Dónde\" interrogativo lleva tilde obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "Como te llamas?",
+          "is_correct": false,
+          "feedback": "Faltan los signos de apertura y la tilde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras que, quien, cual, como, cuando, donde y cuanto llevan tilde siempre que tengan valor interrogativo o exclamativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v4",
+      "statement": "¿Se debe poner un punto después de cerrar un signo de interrogación o exclamación si la oración termina ahí?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, siempre.",
+          "is_correct": false,
+          "feedback": "No, nunca se pone punto después de estos signos."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el punto que ya traen los signos de cierre (? !) funciona como punto final.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Poner otro punto sería un error de puntuación."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si el profesor lo pide.",
+          "is_correct": false,
+          "feedback": "Es una regla ortográfica fija."
+        },
+        {
+          "letter": "D",
+          "text": "Solo después de la interrogación.",
+          "is_correct": false,
+          "feedback": "Vale para ambos signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los signos de cierre ya contienen el punto que marca el fin de la unidad de sentido, por lo que nunca deben duplicarse con un punto seguido o aparte.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v5",
+      "statement": "Si un personaje de un cuento dice: **\"¡No puedo creer que hayamos ganado el premio!\"**, ¿cómo debería leer el actor esa frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con voz muy bajita y aburrida.",
+          "is_correct": false,
+          "feedback": "Los signos indican lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Con mucha energía, entusiasmo y volumen alto.",
+          "is_correct": true,
+          "feedback": "¡Así es! Los signos de exclamación piden una voz potente y emocionada."
+        },
+        {
+          "letter": "C",
+          "text": "Como si estuviera haciendo una pregunta.",
+          "is_correct": false,
+          "feedback": "No tiene signos de interrogación."
+        },
+        {
+          "letter": "D",
+          "text": "Muy rápido para que no se entienda.",
+          "is_correct": false,
+          "feedback": "La emoción no debe impedir la claridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los signos de puntuación son guías de interpretación para la lectura en voz alta, indicando el sentimiento del hablante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v6",
+      "statement": "\"__Viste lo que pasó en el partido__\" / \"__Sí, fue increíble__\". ¿Qué signos faltan en cada frase respectivamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclamación en ambas.",
+          "is_correct": false,
+          "feedback": "La primera es una pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "Interrogación en ambas.",
+          "is_correct": false,
+          "feedback": "La segunda es una afirmación emocionada."
+        },
+        {
+          "letter": "C",
+          "text": "Interrogación en la primera y exclamación en la segunda.",
+          "is_correct": true,
+          "feedback": "¡Exacto! ¿Viste lo que pasó en el partido? ¡Sí, fue increíble!"
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, las frases se entienden así.",
+          "is_correct": false,
+          "feedback": "Sin signos se pierde la intención y la cortesía del diálogo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la intención del emisor (preguntar o expresar) es la base para elegir el signo de puntuación adecuado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v7",
+      "statement": "¿Cuál es la diferencia de sentido entre: **\"Va a llover\"** y **\"¿Va a llover?\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna diferencia.",
+          "is_correct": false,
+          "feedback": "Sí la hay, y es muy importante."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es una duda y la segunda una orden.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es una afirmación (estoy seguro) y la segunda es una duda o consulta.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los signos transforman un dato en una pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es para niños y la segunda para adultos.",
+          "is_correct": false,
+          "feedback": "La gramática es igual para todos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puntuación modaliza el enunciado, es decir, muestra la actitud del hablante frente a lo que dice.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v8",
+      "statement": "¿Es correcto en español usar los dos tipos de signos en una misma frase?\n(Ejemplo: **\"¡¿Cómo pudiste hacer eso?!\"**)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, es un error prohibido.",
+          "is_correct": false,
+          "feedback": "No es un error, es un recurso permitido."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, se usa cuando hay una pregunta que al mismo tiempo causa mucha sorpresa o emoción.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Se llama combinación de signos y es muy útil."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si escribes en un periódico.",
+          "is_correct": false,
+          "feedback": "Se puede usar en cualquier tipo de texto narrativo o personal."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se puede poner un signo de cada uno.",
+          "is_correct": false,
+          "feedback": "Deben abrirse y cerrarse ambos si se combinan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La combinación de signos de interrogación y exclamación permite expresar estados de asombro ante lo desconocido o increíble.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v9",
+      "statement": "En los chats, mucha gente escribe: \"Hola como estas?\". ¿Por qué está MAL escrito académicamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tiene la palabra \"señor\".",
+          "is_correct": false,
+          "feedback": "No es por cortesía de títulos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque le falta el signo de apertura (¿) y la tilde en el cómo (cómo).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Debemos mantener las reglas del idioma también en medios digitales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el signo de interrogación debe ir en la mitad.",
+          "is_correct": false,
+          "feedback": "Los signos van al inicio y al final de la pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "Está bien escrito, así se escribe en internet.",
+          "is_correct": false,
+          "feedback": "Es una costumbre común pero ortográficamente incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El respeto por las normas ortográficas en todos los contextos fortalece el dominio de la lengua materna.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-v10",
+      "statement": "¿Cuál de estas frases tiene el mejor uso de la puntuación para motivar a los jugadores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Vamos a ganar el partido?",
+          "is_correct": false,
+          "feedback": "Es una pregunta, muestra duda, no motivación."
+        },
+        {
+          "letter": "B",
+          "text": "Vamos a ganar el partido hoy.",
+          "is_correct": false,
+          "feedback": "Es una afirmación simple y poco emocionante."
+        },
+        {
+          "letter": "C",
+          "text": "¡Vamos con toda la fuerza, equipo, el triunfo es nuestro!",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Usa exclamaciones para transmitir pasión y seguridad."
+        },
+        {
+          "letter": "D",
+          "text": "ganar... ganar... ganar...",
+          "is_correct": false,
+          "feedback": "No tiene fuerza expresiva sin los signos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puntuación emotiva es una herramienta poderosa para lograr efectos comunicativos de persuasión y ánimo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-4-2026-W26-signos-interrogacion-admiracion-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

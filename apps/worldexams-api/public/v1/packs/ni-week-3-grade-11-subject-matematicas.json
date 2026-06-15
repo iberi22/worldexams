@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:45:18.434Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una función exponencial con base $b$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^b$, donde $b$ es una constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función de potencia, no exponencial. En la exponencial la variable está en el exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = b^x$, donde $b > 0$ y $b \\neq 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función exponencial tiene la variable independiente en el exponente y una base positiva distinta de 1."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\log_b(x)$, donde $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una función logarítmica."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = mx + b$, donde $m$ es la pendiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma de una función lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función exponencial se define como $f(x) = b^x$. La restricción $b > 0$ asegura que la función esté definida para todos los reales, y $b \\neq 1$ evita que la función sea una constante ($1^x = 1$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el intercepto con el eje $y$ de la función exponencial básica $f(x) = b^x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el intercepto con el eje x de la función logarítmica básica."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier número (excepto cero) elevado a la potencia 0 es igual a 1."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función exponencial básica nunca pasa por el origen."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene intercepto con el eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las funciones exponenciales de la forma $b^x$ cruzan el eje y en el punto 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el intercepto con el eje $y$, evaluamos la función en $x=0$. Como $f(0) = b^0 = 1$, el punto es $(0, 1)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué sucede con la gráfica de la función $f(x) = b^x$ si la base $b$ es mayor que 1?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función es estrictamente creciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la base es mayor a 1, a medida que $x$ aumenta, el valor de la función crece aceleradamente."
+        },
+        {
+          "letter": "B",
+          "text": "La función es estrictamente decreciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la base está entre 0 y 1."
+        },
+        {
+          "letter": "C",
+          "text": "La función es una línea recta horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones exponenciales son curvas con pendiente variable."
+        },
+        {
+          "letter": "D",
+          "text": "La función tiene un valor máximo en el eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función crece indefinidamente hacia el infinito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $b > 1$, la función representa un crecimiento exponencial. Si $0 < b < 1$, representa un decaimiento o decrecimiento exponencial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el rango (conjunto de valores de llegada) de la función exponencial básica $f(x) = b^x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales ($\\mathbb{R}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de la función exponencial básica siempre son positivos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales positivos $(0, \\infty)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Una potencia de una base positiva siempre resulta en un valor mayor que cero."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números reales negativos $(-\\infty, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base positiva elevada a cualquier exponente real no puede ser negativa."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de los números enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función toma todos los valores reales dentro de su intervalo de salida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango de $f(x) = b^x$ es el intervalo $(0, \\infty)$ porque la función tiene una asíntota horizontal en el eje $x$ ($y=0$) y nunca lo toca ni lo cruza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes funciones representa un decaimiento (decrecimiento) exponencial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base 3 es mayor que 1, por lo que es creciente."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = (0.5)^x$",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser la base un número entre 0 y 1, el valor disminuye conforme x aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = e^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número e es aproximadamente 2.718, mayor que 1, por lo tanto es creciente."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 2 \\cdot 5^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base es 5, lo que indica un crecimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El decaimiento exponencial ocurre cuando la base $b$ cumple con $0 < b < 1$. En este caso, $0.5$ cumple la condición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v6",
+      "statement": "Dada la función $f(x) = 2^{x-3} + 1$, ¿cuál es la asíntota horizontal de su gráfica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la asíntota de la función básica $2^x$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. El término independiente '+1' desplaza toda la gráfica y su asíntota una unidad hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El -3 en el exponente causa un desplazamiento horizontal, no vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical está dado por la constante sumada a la potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una función de la forma $f(x) = b^{x-h} + k$, la asíntota horizontal siempre está en $y = k$. Aquí $k = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v7",
+      "statement": "Si una población de bacterias se duplica cada hora y comienza con 100 bacterias, ¿cuál es la función que representa la cantidad de bacterias $N$ después de $t$ horas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$N(t) = 100 + 2^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función sumaría 100, no multiplicaría por el valor inicial."
+        },
+        {
+          "letter": "B",
+          "text": "$N(t) = 100 \\cdot 2^t$",
+          "is_correct": true,
+          "feedback": "Correcto. El 100 es el valor inicial ($a$) y 2 es la base de duplicación."
+        },
+        {
+          "letter": "C",
+          "text": "$N(t) = 100 \\cdot t^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función cuadrática, no exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$N(t) = 2 \\cdot 100^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí la base sería 100, lo que no corresponde a una duplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo general de crecimiento exponencial es $f(t) = a \\cdot b^t$, donde $a$ es la cantidad inicial y $b$ es la tasa de crecimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v8",
+      "statement": "Si $f(x) = 3^x$, ¿cuál es el valor de $f(-2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una potencia con base positiva nunca resulta en un número negativo."
+        },
+        {
+          "letter": "B",
+          "text": "-6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó 3 por -2, error de concepto de potencia."
+        },
+        {
+          "letter": "C",
+          "text": "1/9",
+          "is_correct": true,
+          "feedback": "Correcto. $3^{-2} = 1 / 3^2 = 1 / 9$."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoró el signo negativo del exponente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un exponente negativo indica el recíproco de la base elevado al exponente positivo: $b^{-n} = 1 / b^n$. Así, $3^{-2} = 1/9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor aproximado de la constante de Euler ($e$), base de los logaritmos naturales y de la función exponencial natural?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.1416...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor aproximado de pi ($\\pi$)."
+        },
+        {
+          "letter": "B",
+          "text": "2.7182...",
+          "is_correct": true,
+          "feedback": "Correcto. El número e es aproximadamente 2.718."
+        },
+        {
+          "letter": "C",
+          "text": "1.4142...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor aproximado de la raíz cuadrada de 2 ($\\sqrt{2}$)."
+        },
+        {
+          "letter": "D",
+          "text": "0.6931...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el logaritmo natural de 2 ($\\ln 2$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número $e$ es un número irracional fundamental en matemáticas, definido como el límite de $(1 + 1/n)^n$ cuando $n$ tiende al infinito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se obtiene la gráfica de $g(x) = 4^x - 5$ a partir de la gráfica de $f(x) = 4^x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazándola 5 unidades hacia la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desplazamientos horizontales ocurren dentro del exponente."
+        },
+        {
+          "letter": "B",
+          "text": "Desplazándola 5 unidades hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo indica un descenso."
+        },
+        {
+          "letter": "C",
+          "text": "Desplazándola 5 unidades hacia abajo.",
+          "is_correct": true,
+          "feedback": "Correcto. Restar una constante a la función desplaza su gráfica verticalmente hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "Reflejándola respecto al eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para una reflexión, el signo negativo debería multiplicar a toda la potencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la transformación de funciones, $f(x) + k$ desplaza la gráfica verticalmente $k$ unidades (hacia arriba si $k>0$, hacia abajo si $k<0$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v11",
+      "statement": "Se invierten C$ 1,000 a una tasa anual del 6% compuesta mensualmente. ¿Cuál es la función que representa el capital $C$ después de $t$ años?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(t) = 1,000 \\cdot (1.06)^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula es para capitalización anual simple."
+        },
+        {
+          "letter": "B",
+          "text": "$C(t) = 1,000 \\cdot (1 + 0.06/12)^{12t}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide la tasa entre 12 periodos y se eleva al número total de meses ($12t$)."
+        },
+        {
+          "letter": "C",
+          "text": "$C(t) = 1,000 \\cdot e^{0.06t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para capitalización continua."
+        },
+        {
+          "letter": "D",
+          "text": "$C(t) = 1,000 + 0.06t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función de interés simple lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula del interés compuesto es $A = P(1 + r/n)^{nt}$, donde $r$ es la tasa decimal y $n$ el número de capitalizaciones por año.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v12",
+      "statement": "Dadas las funciones $f(x) = 100x$ y $g(x) = 2^x$. ¿Qué se puede afirmar sobre su comportamiento para valores muy grandes de $x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x)$ siempre será mayor que $g(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones lineales crecen más lento que las exponenciales."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x)$ terminará superando a $f(x)$ y crecerá mucho más rápido.",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier función exponencial con base $b>1$ supera eventualmente a cualquier función lineal o polinómica."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas funciones crecen a la misma tasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de cambio de la lineal es constante, la de la exponencial es proporcional a su valor."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x)$ tiene una asíntota vertical y $g(x)$ no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos funciones tiene asíntota vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el concepto de crecimiento exponencial vs lineal. Las funciones exponenciales dominan a largo plazo debido a que su tasa de crecimiento se multiplica en cada paso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v13",
+      "statement": "La cantidad de una sustancia radiactiva disminuye según la función $M(t) = M_0 \\cdot e^{-kt}$. ¿Qué representa el signo negativo en el exponente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la masa inicial era negativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa inicial $M_0$ es una cantidad positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cantidad de sustancia está disminuyendo con el tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un exponente negativo en la base e (o base $>1$) genera una función decreciente."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tiempo $t$ se mide hacia el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo $t$ suele ser positivo y hacia adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tasa de decaimiento $k$ es un número imaginario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $k$ es una constante real positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función $e^{-kt}$ es equivalente a $(1/e^k)^t$. Como $e^k > 1$, entonces $1/e^k < 1$, lo que resulta en un decrecimiento exponencial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la función exponencial de la forma $f(x) = a \\cdot b^x$ que pasa por los puntos $(0, 4)$ y $(2, 36)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 4 \\cdot 9^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar en x=2, daría $4 \\cdot 81 = 324$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 4 \\cdot 3^x$",
+          "is_correct": true,
+          "feedback": "Correcto. En $x=0$, $f(0)=4(1)=4$. En $x=2$, $f(2)=4(3^2)=4(9)=36$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 2 \\cdot 6^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=0$, daría 2, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 4 \\cdot 2^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=2$, daría $4 \\cdot 4 = 16$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos el primer punto $(0, a)$ para hallar $a=4$. Luego sustituimos el segundo para hallar $b$: $36 = 4 \\cdot b^2 \\Rightarrow 9 = b^2 \\Rightarrow b = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v15",
+      "statement": "Dada la función $h(x) = -2^x$. ¿Cuál de las siguientes afirmaciones es CORRECTA sobre su gráfica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una función creciente que está siempre por encima del eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo fuera de la potencia la sitúa por debajo del eje x."
+        },
+        {
+          "letter": "B",
+          "text": "Es la reflexión de $f(x) = 2^x$ respecto al eje $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar toda la función por -1 refleja la gráfica verticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Es una función decreciente con rango $(0, \\infty)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango es $(-\\infty, 0)$."
+        },
+        {
+          "letter": "D",
+          "text": "Su intercepto con el eje $y$ es $(0, 1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto es $(0, -1)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transformación $-f(x)$ refleja la gráfica sobre el eje horizontal. Todos los valores positivos se vuelven negativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la relación entre las funciones $f(x) = 2^x$ y $g(x) = (1/2)^x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son la misma función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una es creciente y la otra decreciente."
+        },
+        {
+          "letter": "B",
+          "text": "Sus gráficas son simétricas respecto al eje $y$.",
+          "is_correct": true,
+          "feedback": "Correcto. $(1/2)^x = 2^{-x}$. El cambio de $x$ por $-x$ genera una reflexión respecto al eje vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Sus gráficas son simétricas respecto al origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso requeriría que $g(x) = -2^{-x}$."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen ninguna relación geométrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe una relación de reflexión clara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad $b^{-x} = (1/b)^x$ implica que la función con base inversa es el reflejo lateral (respecto al eje $y$) de la función original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v17",
+      "statement": "Una población de peces en una laguna de Nicaragua sigue el modelo $P(t) = \\frac{5,000}{1 + 4e^{-0.2t}}$. ¿Qué representa el valor 5,000 en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población inicial de peces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población inicial es $P(0) = 5,000 / 5 = 1,000$."
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de carga o población máxima sostenible de la laguna.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando $t$ tiende al infinito, $e^{-0.2t}$ tiende a 0, y la población se estabiliza en 5,000."
+        },
+        {
+          "letter": "C",
+          "text": "La tasa de crecimiento de la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa está relacionada con el coeficiente 0.2."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo que tardan en extinguirse los peces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo describe crecimiento, no extinción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un modelo logístico. A diferencia del crecimiento exponencial puro, el crecimiento logístico reconoce que los recursos son limitados y la población tiene un límite superior o asíntota horizontal superior.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v18",
+      "statement": "Determina el valor de $x$ que satisface la ecuación $9^{x+1} = 27^{x-1}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9^3 = 729$; $27^1 = 27$. No son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9^5 = 59,049$; $27^3 = 19,683$. No son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Escribimos en base 3: $(3^2)^{x+1} = (3^3)^{x-1} \\Rightarrow 2x + 2 = 3x - 3 \\Rightarrow 5 = x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al igualar los exponentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver ecuaciones exponenciales donde las bases son potencias de un mismo número, se igualan las bases y luego se igualan los exponentes resultantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v19",
+      "statement": "Dada la función $f(x) = e^{x^2}$. ¿Cuál de las siguientes afirmaciones es CORRECTA sobre su simetría?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una función impar (simétrica respecto al origen).",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(-x)$ no es igual a $-f(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "Es una función par (simétrica respecto al eje $y$).",
+          "is_correct": true,
+          "feedback": "Correcto. Como $x$ está elevado al cuadrado, $f(-x) = e^{(-x)^2} = e^{x^2} = f(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "No posee ninguna simetría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La potencia par de x garantiza simetría axial."
+        },
+        {
+          "letter": "D",
+          "text": "Es simétrica respecto a la recta $y = x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simetría es propia de funciones inversas, no de la función misma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es par si $f(-x) = f(x)$. Dado que el exponente de $e$ es una función cuadrática simétrica, la función resultante también lo es.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el capital final de una inversión de C$ 5,000 al 8% de interés anual compuesto continuamente durante 5 años? (Utiliza $e^{0.4} \\approx 1.4918$)",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C$ 7,000.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor estimado sin usar la tasa de crecimiento continuo."
+        },
+        {
+          "letter": "B",
+          "text": "C$ 7,459.00",
+          "is_correct": true,
+          "feedback": "Correcto. $A = P \\cdot e^{rt} = 5,000 \\cdot e^{0.08 \\cdot 5} = 5,000 \\cdot e^{0.4} = 5,000 \\cdot 1.4918 = 7,459$."
+        },
+        {
+          "letter": "C",
+          "text": "C$ 7,346.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor con capitalización anual, no continua."
+        },
+        {
+          "letter": "D",
+          "text": "C$ 20,000.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error masivo en el cálculo del exponente o la multiplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La capitalización continua es el límite del interés compuesto cuando el número de periodos tiende al infinito, y se calcula con la fórmula $A = Pe^{rt}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "NI-MAT-11-2026-W03-funciones-exponenciales-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

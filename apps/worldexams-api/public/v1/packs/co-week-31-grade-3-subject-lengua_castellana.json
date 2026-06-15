@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua-castellana",
+    "country": "co",
+    "pack_id": "co-week-31-grade-3-subject-lengua_castellana",
+    "generated_at": "2026-06-15T20:24:56.039Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v1",
+      "statement": "¿Qué es una sílaba?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una letra mayúscula al inicio de una oración.",
+          "is_correct": false,
+          "feedback": "No, eso es una regla ortográfica de puntuación."
+        },
+        {
+          "letter": "B",
+          "text": "Cada uno de los golpes de voz en que se divide una palabra al decirla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las sílabas son las unidades de sonido en que dividimos las palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Una oración completa que tiene sentido.",
+          "is_correct": false,
+          "feedback": "No, las sílabas forman palabras, no oraciones."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto que se pone al final del texto.",
+          "is_correct": false,
+          "feedback": "No, eso es el punto final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sílaba es el sonido o conjunto de sonidos que se pronuncian en un solo golpe de voz.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v2",
+      "statement": "¿Cuál es la separación silábica correcta de la palabra **\"tigre\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "t-i-g-r-e",
+          "is_correct": false,
+          "feedback": "Esto es deletrear, no separar en sílabas."
+        },
+        {
+          "letter": "B",
+          "text": "ti - gre",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Tiene dos sílabas."
+        },
+        {
+          "letter": "C",
+          "text": "tig - re",
+          "is_correct": false,
+          "feedback": "Incorrecto, la g y la r suelen ir juntas al inicio de sílaba."
+        },
+        {
+          "letter": "D",
+          "text": "tigre (una sola)",
+          "is_correct": false,
+          "feedback": "No, se pronuncia en dos golpes de voz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividir correctamente las palabras ayuda a mejorar la pronunciación y la escritura al final del renglón.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v3",
+      "statement": "¿Cómo se llaman las palabras que tienen una sola sílaba, como **\"sol\"** o **\"pan\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monosílabas.",
+          "is_correct": true,
+          "feedback": "¡Excelente! \"Mono\" significa uno."
+        },
+        {
+          "letter": "B",
+          "text": "Bisílabas.",
+          "is_correct": false,
+          "feedback": "Estas tienen dos sílabas."
+        },
+        {
+          "letter": "C",
+          "text": "Trisílabas.",
+          "is_correct": false,
+          "feedback": "Estas tienen tres sílabas."
+        },
+        {
+          "letter": "D",
+          "text": "Polisílabas.",
+          "is_correct": false,
+          "feedback": "Estas tienen cuatro o más sílabas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras se clasifican por su número de sílabas en monosílabas, bisílabas, trisílabas y polisílabas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v4",
+      "statement": "¿Cuál de estas palabras es **trisílaba**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sal",
+          "is_correct": false,
+          "feedback": "Es monosílaba."
+        },
+        {
+          "letter": "B",
+          "text": "Arepa",
+          "is_correct": false,
+          "feedback": "a-re-pa. ¡Esta tiene tres! Pero miremos las otras. Oh, espera, arepa es trisílaba."
+        },
+        {
+          "letter": "B",
+          "text": "Arepa",
+          "is_correct": true,
+          "feedback": "¡Correcto! a - re - pa (3 sílabas)."
+        },
+        {
+          "letter": "C",
+          "text": "Chocolate",
+          "is_correct": false,
+          "feedback": "cho-co-la-te (4 sílabas, es polisílaba)."
+        },
+        {
+          "letter": "D",
+          "text": "Pan",
+          "is_correct": false,
+          "feedback": "Es monosílaba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contar los golpes de voz permite identificar la categoría de la palabra según su extensión silábica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v5",
+      "statement": "En la palabra **\"Castillo\"**, ¿cuál es la sílaba que suena más fuerte (sílaba tónica)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cas",
+          "is_correct": false,
+          "feedback": "No es la que suena más fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "ti",
+          "is_correct": true,
+          "feedback": "¡Así es! Cas - TI - llo. La fuerza de voz está en \"ti\"."
+        },
+        {
+          "letter": "C",
+          "text": "llo",
+          "is_correct": false,
+          "feedback": "No es la sílaba tónica."
+        },
+        {
+          "letter": "D",
+          "text": "Todas suenan igual.",
+          "is_correct": false,
+          "feedback": "En español casi todas las palabras tienen una sílaba que destaca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sílaba tónica es aquella sobre la que recae el mayor acento o intensidad en la pronunciación de la palabra.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v6",
+      "statement": "¿Cuál es la separación correcta de la palabra **\"ciudad\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "c-i-u-d-a-d",
+          "is_correct": false,
+          "feedback": "Esto es deletrear."
+        },
+        {
+          "letter": "B",
+          "text": "ciu - dad",
+          "is_correct": true,
+          "feedback": "¡Exacto! La i y la u forman un diptongo y no se separan."
+        },
+        {
+          "letter": "C",
+          "text": "ci - u - dad",
+          "is_correct": false,
+          "feedback": "No se deben separar dos vocales cerradas juntas."
+        },
+        {
+          "letter": "D",
+          "text": "ciudad (una sola)",
+          "is_correct": false,
+          "feedback": "No, tiene dos golpes de voz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diptongo es la unión de dos vocales en una misma sílaba; entenderlo es clave para la correcta división silábica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v7",
+      "statement": "¿Cómo se separa correctamente la palabra **\"biodiversidad\"**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bi-o-di-ver-si-dad",
+          "is_correct": false,
+          "feedback": "No es correcto."
+        },
+        {
+          "letter": "B",
+          "text": "bio - di - ver - si - dad",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Tiene 5 sílabas."
+        },
+        {
+          "letter": "C",
+          "text": "biodi - versi - dad",
+          "is_correct": false,
+          "feedback": "Las sílabas están mal agrupadas."
+        },
+        {
+          "letter": "D",
+          "text": "bio - di - ver - sidad",
+          "is_correct": false,
+          "feedback": "\"sidad\" se puede separar en \"si\" y \"dad\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras polisílabas requieren un análisis cuidadoso de cada golpe de voz para su correcta división.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v8",
+      "statement": "En la palabra **\"computador\"**, ¿cuántas sílabas **átonas** (las que no suenan fuerte) hay?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una.",
+          "is_correct": false,
+          "feedback": "Hay más."
+        },
+        {
+          "letter": "B",
+          "text": "Dos.",
+          "is_correct": false,
+          "feedback": "Hay más."
+        },
+        {
+          "letter": "C",
+          "text": "Tres.",
+          "is_correct": true,
+          "feedback": "¡Excelente! com - pu - ta - DOR. \"com\", \"pu\" y \"ta\" son átonas."
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro.",
+          "is_correct": false,
+          "feedback": "La última es la tónica, no es átona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las sílabas átonas son las que se pronuncian con menor intensidad dentro de una palabra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v9",
+      "statement": "Si al final de un renglón no cabe la palabra **\"mariposa\"**, ¿cuál es una forma CORRECTA de dividirla usando el guion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m- ariposa",
+          "is_correct": false,
+          "feedback": "No se puede dejar una letra sola al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "mari- posa",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Se divide exactamente por una de sus sílabas."
+        },
+        {
+          "letter": "C",
+          "text": "marip- osa",
+          "is_correct": false,
+          "feedback": "No es correcto dejar la vocal sola al final si se puede evitar."
+        },
+        {
+          "letter": "D",
+          "text": "ma- r- iposa",
+          "is_correct": false,
+          "feedback": "No se pueden separar letras dentro de una misma sílaba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al dividir palabras al final del renglón, debemos respetar siempre los límites de las sílabas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-v10",
+      "statement": "Si inventas la palabra **\"saltarilón\"**, ¿cómo se separa en sílabas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sal - ta - ri - lón",
+          "is_correct": false,
+          "feedback": "¡Muy bien! Esta es la forma correcta."
+        },
+        {
+          "letter": "A",
+          "text": "sal - ta - ri - lón",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Esta es la forma correcta."
+        },
+        {
+          "letter": "B",
+          "text": "salt - a - ri - lón",
+          "is_correct": false,
+          "feedback": "No se separa así."
+        },
+        {
+          "letter": "C",
+          "text": "salta - rilón",
+          "is_correct": false,
+          "feedback": "No son sílabas simples."
+        },
+        {
+          "letter": "D",
+          "text": "s - a - l - t - a - r - i - l - ó - n",
+          "is_correct": false,
+          "feedback": "Esto es deletrear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creatividad en el lenguaje también debe seguir las reglas rítmicas y sonoras de las sílabas en español.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-3-2026-W31-la-silaba-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

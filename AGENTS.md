@@ -178,6 +178,12 @@ No abrir PR si `npm run validate` falla.
 Un bundle `.md` validado no queda publicado automaticamente en `saberparatodos.space`.
 Para que la app sirva examenes desde el API publico, los bundles weekly deben convertirse a packs JSON estaticos.
 
+Decision arquitectonica:
+- El bundle fuente y revisable siempre es el archivo `.md` en `questions_data`.
+- Los archivos `.json` en `apps/worldexams-api/public/v1/packs` son artefactos derivados para servir el API; no son bundles fuente ni reemplazan al markdown.
+- No editar packs JSON manualmente para corregir contenido. Corregir primero el `.md`, validar, y regenerar packs.
+- El conversor debe preservar texto, respuesta correcta y feedback de cada opcion aunque el feedback HTML este en la linea siguiente a la opcion.
+
 Comandos canonicos despues de integrar bundles:
 
 ```bash
@@ -195,6 +201,31 @@ curl "https://api.saberparatodos.space/v1/questions?country=mx&grade=11&subject=
 
 El API debe preferir packs con prefijo de pais (`co-`, `mx-`, `ar-`, `br-`) antes de usar packs genericos.
 
+## Country Readiness KPI
+
+La meta operativa para pruebas finales es 2000 preguntas por pais soportado.
+Solo cuentan para esta meta los bundles que cumplen las tres condiciones:
+
+1. Estan en la ruta canonica `questions_data/{country}/{subject}/grado-{N}/2026/weekly/`.
+2. Pasan validacion estricta v5.2 con `npm run validate -- {archivo}`.
+3. Estan publicados en `apps/worldexams-api/public/v1/packs` dentro de un pack con prefijo ISO del pais, por ejemplo `co-week-1-grade-7-subject-lengua.json`.
+
+Contenido legacy, contenido v5.2 fuera de ruta canonica, packs genericos o fallback del API no cuentan como avance oficial del pais.
+
+Comando canonico de auditoria:
+
+```bash
+npm run audit:country-readiness
+npm run audit:country-readiness -- --json
+npm run audit:country-readiness -- --smoke-public
+```
+
+Estados del reporte:
+- `published_validated`: cuenta oficialmente hacia las 2000 preguntas.
+- `validated_not_published`: el markdown pasa validacion, pero falta generar/publicar packs.
+- `legacy_or_invalid`: hay contenido, pero debe repararse o regenerarse.
+- `missing`: no hay contenido usable para ese pais.
+
 ## Jules Workflow
 
 1. Leer este archivo.
@@ -205,4 +236,5 @@ El API debe preferir packs con prefijo de pais (`co-`, `mx-`, `ar-`, `br-`) ante
 6. Ejecutar `npm run validate -- {archivos_generados}`.
 7. Corregir hasta que el validador pase.
 8. No afirmar que el contenido esta publicado hasta que se generen/verifiquen los static packs.
-9. Comentar el issue con: `[OK] Generados N bundles: ID1, ID2, ...`.
+9. Ejecutar `npm run audit:country-readiness` cuando el issue afecte cobertura por pais.
+10. Comentar el issue con: `[OK] Generados N bundles: ID1, ID2, ...`.

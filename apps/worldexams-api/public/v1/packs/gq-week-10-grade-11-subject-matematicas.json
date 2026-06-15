@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T05:40:01.126Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v1",
+      "statement": "¿Cual es el nombre de la curva que representa graficamente a una funcion cuadratica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linea recta",
+          "is_correct": false,
+          "feedback": "La linea recta representa a las funciones lineales o afines."
+        },
+        {
+          "letter": "B",
+          "text": "Parabola",
+          "is_correct": true,
+          "feedback": "¡Correcto! La grafica de toda funcion cuadratica es una curva simetrica llamada parabola."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbola",
+          "is_correct": false,
+          "feedback": "Las hiperbolas representan funciones de proporcionalidad inversa."
+        },
+        {
+          "letter": "D",
+          "text": "Circunferencia",
+          "is_correct": false,
+          "feedback": "La circunferencia no es la grafica de una funcion, ya que a un valor de x le pueden corresponder dos de y."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La funcion cuadratica $f(x) = ax^2 + bx + c$ genera una curva caracteristica en el plano cartesiano denominada parabola. Esta curva tiene propiedades geometricas unicas, como un eje de simetria y un punto extremo llamado vertice.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v2",
+      "statement": "Si el coeficiente $a$ de la funcion $f(x) = ax^2 + bx + c$ es positivo ($a > 0$), ¿hacia donde se abren las ramas de la parabola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia arriba (convexa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si a es positivo, la parabola tiene forma de \"U\" y presenta un minimo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia abajo (concava)",
+          "is_correct": false,
+          "feedback": "Esto ocurre si el coeficiente 'a' es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia la derecha",
+          "is_correct": false,
+          "feedback": "Las funciones de x no se abren lateralmente de esta forma."
+        },
+        {
+          "letter": "D",
+          "text": "Es una linea horizontal",
+          "is_correct": false,
+          "feedback": "Esto solo ocurriria si el coeficiente 'a' y 'b' fueran cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo del coeficiente principal $a$ determina la concavidad de la parabola. Si $a > 0$, las ramas suben y el vertice es el punto mas bajo (minimo). Si $a < 0$, las ramas bajan y el vertice es el punto mas alto (maximo).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v3",
+      "statement": "¿Como se denomina al punto maximo o minimo de una parabola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foco",
+          "is_correct": false,
+          "feedback": "El foco es un punto interno de la parabola con propiedades opticas, no es el extremo."
+        },
+        {
+          "letter": "B",
+          "text": "Directriz",
+          "is_correct": false,
+          "feedback": "La directriz es una recta externa a la parabola."
+        },
+        {
+          "letter": "C",
+          "text": "Vertice",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice es el punto donde la parabola cambia de direccion."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenada en el origen",
+          "is_correct": false,
+          "feedback": "Es el punto de corte con el eje Y, que no siempre coincide con el extremo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vertice es el punto critico de la funcion cuadratica. Sus coordenadas $(h, k)$ indican el valor de $x$ donde se alcanza el valor extremo y cual es dicho valor extremo (maximo o minimo).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v4",
+      "statement": "¿En que punto corta al eje Y la grafica de la funcion $f(x) = x^2 + 7$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(7, 0)$",
+          "is_correct": false,
+          "feedback": "Este seria un punto sobre el eje X."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 7)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al evaluar f(0) obtenemos 7. El termino independiente 'c' indica el corte con Y."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "La parabola esta desplazada 7 unidades hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "No corta al eje Y.",
+          "is_correct": false,
+          "feedback": "Todas las funciones cuadraticas cortan al eje Y en algun punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El corte con el eje vertical (Y) siempre se encuentra en el punto $(0, c)$, donde $c$ es el termino independiente de la funcion en su forma polinomica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v5",
+      "statement": "¿Cual es la formula para encontrar la coordenada $x$ del vertice (o eje de simetria)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = b / (2a)$",
+          "is_correct": false,
+          "feedback": "Falta el signo negativo en la formula."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -b / (2a)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta formula proporciona el valor de x donde se encuentra el vertice."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\sqrt{b^2 - 4ac}$",
+          "is_correct": false,
+          "feedback": "Esto es el discriminante, no la posicion del vertice."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -c / a$",
+          "is_correct": false,
+          "feedback": "Esta formula no corresponde a ningun elemento notable de la parabola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El eje de simetria es una recta vertical que divide a la parabola en dos partes iguales. Su ecuacion es $x = h$, donde $h$ es la coordenada $x$ del vertice, calculada mediante la relacion entre los coeficientes $a$ y $b$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v6",
+      "statement": "¿Cuales son las coordenadas del vertice $(h, k)$ de esta parabola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-3, 2)$",
+          "is_correct": false,
+          "feedback": "En la forma canonica $(x-h)^2 + k$, el valor de h tiene el signo cambiado."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 2)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice se lee directamente como (3, 2)."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, -2)$",
+          "is_correct": false,
+          "feedback": "El valor de k mantiene su signo original en la forma canonica."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "La parabola ha sido desplazada tanto horizontal como verticalmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma canonica $f(x) = a(x - h)^2 + k$ es muy util porque permite identificar el vertice de la parabola de manera inmediata, sin necesidad de realizar calculos adicionales con los coeficientes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v7",
+      "statement": "¿En que tiempo $t$ alcanza el proyectil su altura maxima?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 0$",
+          "is_correct": false,
+          "feedback": "Este es el momento del lanzamiento."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice esta en $t = -4 / (2 \\cdot -1) = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 4$",
+          "is_correct": false,
+          "feedback": "Este es el tiempo en que el proyectil vuelve a tocar el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 1$",
+          "is_correct": false,
+          "feedback": "A este tiempo aun sigue subiendo hacia el maximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el momento de la altura maxima en una trayectoria parabolica, buscamos la coordenada $x$ (o $t$) del vertice de la funcion. Como el coeficiente $a$ es negativo ($-1$), sabemos que el vertice representa un maximo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v8",
+      "statement": "¿Cuales son las raices (puntos de corte con el eje X) de esta funcion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -1$ y $x = -5$",
+          "is_correct": false,
+          "feedback": "En la forma factorizada los signos se invierten al hallar las raices."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$ y $x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raices se leen directamente de los factores igualandolos a cero."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$ y $x = 10$",
+          "is_correct": false,
+          "feedback": "El coeficiente principal no multiplica a las raices de esta forma."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raices reales.",
+          "is_correct": false,
+          "feedback": "Los factores indican claramente que la parabola corta al eje X en dos puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma factorizada $f(x) = a(x - r_1)(x - r_2)$ revela las raices $r_1$ y $r_2$ de la funcion. Son los valores de $x$ que hacen que el valor de $y$ sea cero.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v9",
+      "statement": "¿Que se puede concluir sobre las raices de $f(x) = x^2 + 2x + 5$ tras calcular su discriminante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene dos raices reales distintas.",
+          "is_correct": false,
+          "feedback": "El discriminante es negativo ($4 - 20 = -16$)."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una unica raiz real.",
+          "is_correct": false,
+          "feedback": "El discriminante no es cero."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene raices reales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser el discriminante negativo, la parabola no toca el eje X."
+        },
+        {
+          "letter": "D",
+          "text": "Toca el eje X en el origen.",
+          "is_correct": false,
+          "feedback": "Como c=5, el corte con Y es en (0,5), no en el origen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discriminante $\\Delta = b^2 - 4ac$ es la herramienta para predecir la existencia de raices reales. Si $\\Delta < 0$, las raices son numeros complejos y la parabola esta \"flotando\" sobre el eje X (si $a>0$) o por debajo (si $a<0$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v10",
+      "statement": "¿Cual es la ecuacion del eje de simetria de la parabola $f(x) = x^2 - 10x + 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 5$",
+          "is_correct": false,
+          "feedback": "El eje de simetria es una linea vertical (x=...), no horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x = -(-10) / (2 \\cdot 1) = 10 / 2 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Olvido dividir por 2a en la formula."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Error de signo en la aplicacion de la formula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El eje de simetria es la recta vertical que pasa por el vertice. Divide a la parabola en dos imagenes especulares. Su valor se halla con la primera parte de la formula general: $x = -b/2a$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v11",
+      "statement": "¿Cuales son los puntos de corte con el eje X de esta funcion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 3)$",
+          "is_correct": false,
+          "feedback": "Este es el punto de corte con el eje Y."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, 0)$ y $(-3, 0)$",
+          "is_correct": false,
+          "feedback": "El producto de las raices debe ser +3."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 0)$ y $(3, 0)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Resolviendo la ecuacion $x^2 - 4x + 3 = 0$ obtenemos $x=1$ y $x=3$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene cortes con el eje X.",
+          "is_correct": false,
+          "feedback": "El discriminante es positivo ($16 - 12 = 4$), por lo que tiene dos cortes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cortes con el eje X se encuentran resolviendo la ecuacion cuadratica $f(x) = 0$. Estos valores representan las raices o ceros de la funcion y son fundamentales para bosquejar la grafica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v12",
+      "statement": "¿Como se ha desplazado la grafica de $f(x)$ para obtener $g(x)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 unidades a la derecha y 5 hacia abajo.",
+          "is_correct": false,
+          "feedback": "El signo +2 dentro del parentesis indica un desplazamiento a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "2 unidades a la izquierda y 5 hacia abajo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x+2$ desplaza a la izquierda y $-5$ desplaza hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "2 unidades arriba y 5 a la izquierda.",
+          "is_correct": false,
+          "feedback": "Se han confundido los desplazamientos horizontales y verticales."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se ha desplazado 5 unidades hacia abajo.",
+          "is_correct": false,
+          "feedback": "El termino $(x+2)$ tambien genera un movimiento horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las traslaciones de funciones son cambios en la posicion de la grafica. Sumar o restar fuera de la funcion desplaza verticalmente, mientras que hacerlo dentro del argumento (con $x$) desplaza horizontalmente en sentido opuesto al signo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v13",
+      "statement": "¿Cual de las siguientes funciones podria representar esta parabola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = (x - 2)^2 + 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice es (2, 3) y como a=1 (>0), se abre hacia arriba y nunca llega a y=0."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = -(x - 2)^2 + 3$",
+          "is_correct": false,
+          "feedback": "Esta se abre hacia abajo y si cortaria al eje X."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = (x + 2)^2 + 3$",
+          "is_correct": false,
+          "feedback": "El vertice de esta seria (-2, 3)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = (x - 2)^2 - 3$",
+          "is_correct": false,
+          "feedback": "El vertice estaria por debajo del eje X (y = -3), por lo que lo cortaria al subir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una parabola cuyo vertice tiene una ordenada $k$ positiva y que se abre hacia arriba ($a > 0$) estara siempre por encima del eje X. Por lo tanto, no tiene raices reales, lo que implica un discriminante negativo en su forma polinomica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v14",
+      "statement": "¿Que ocurre con el objeto en el tiempo $t = 5$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcanza su velocidad maxima.",
+          "is_correct": false,
+          "feedback": "Como a=1, el vertice es un minimo, no un maximo."
+        },
+        {
+          "letter": "B",
+          "text": "Se detiene completamente ($v = 0$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! $v(5) = 25 - 50 + 25 = 0$. Ademas, es una raiz doble."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia de direccion sin detenerse.",
+          "is_correct": false,
+          "feedback": "Para cambiar de direccion en este modelo debe pasar por velocidad cero."
+        },
+        {
+          "letter": "D",
+          "text": "Su velocidad es de $25$ m/s.",
+          "is_correct": false,
+          "feedback": "Esa es la velocidad inicial en t=0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La funcion $v(t) = (t - 5)^2$ tiene su vertice en $(5, 0)$. Esto significa que el valor minimo de la velocidad es cero y ocurre en $t = 5$. El objeto se detiene momentaneamente en ese punto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v15",
+      "statement": "¿Cual es la diferencia principal entre las graficas de $f$ y $g$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La grafica de g esta desplazada 3 unidades arriba.",
+          "is_correct": false,
+          "feedback": "El factor 3 multiplica a x^2, no se suma al final."
+        },
+        {
+          "letter": "B",
+          "text": "La grafica de g se abre hacia abajo.",
+          "is_correct": false,
+          "feedback": "El factor 3 sigue siendo positivo."
+        },
+        {
+          "letter": "C",
+          "text": "La grafica de g es mas estrecha (se estira verticalmente).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por cada unidad de x, y aumenta el triple de rapido en g que en f."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen vertices diferentes.",
+          "is_correct": false,
+          "feedback": "Ambas tienen su vertice en el origen (0,0)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El coeficiente principal $a$ actua como un factor de escala vertical. Si $|a| > 1$, la funcion crece mas rapido y la parabola se \"estira\" o estrecha. Si $|a| < 1$, la funcion crece mas lento y la parabola se \"aplana\" o ensancha.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v16",
+      "statement": "¿Cual es el valor maximo de esta funcion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice esta en x=3. $f(3) = -9 + 18 - 9 = 0$. Como a=-1, es un maximo."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Este es el valor de x en el vertice, no el valor maximo de la funcion."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -9$",
+          "is_correct": false,
+          "feedback": "Este es el corte con el eje Y."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 9$",
+          "is_correct": false,
+          "feedback": "Error al evaluar la funcion en el vertice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el valor maximo, primero calculamos la coordenada $x$ del vertice ($h = -b/2a = 3$) y luego sustituimos este valor en la funcion para obtener la coordenada $y$ ($k = f(3) = 0$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v17",
+      "statement": "¿Cual es el valor maximo que alcanza la funcion $f(x) = -2x^2 + 8x - 6$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 8$",
+          "is_correct": false,
+          "feedback": "8 es el coeficiente de x, no el valor maximo."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vertice esta en x=2. Evaluando f(2) = -2(4) + 8(2) - 6 = -8 + 16 - 6 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -6$",
+          "is_correct": false,
+          "feedback": "Este es el corte con el eje Y."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 0$",
+          "is_correct": false,
+          "feedback": "La funcion alcanza valores superiores a cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor maximo o minimo de una funcion cuadratica es la coordenada $k$ del vertice. Se calcula hallando primero $h = -b/(2a)$ y luego evaluando la funcion en ese punto: $k = f(h)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v18",
+      "statement": "¿Cual es la ecuacion de la parabola con vertice $(2, 4)$ que pasa por el punto $(0, 0)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = (x - 2)^2 + 4$",
+          "is_correct": false,
+          "feedback": "Al evaluar en x=0 daria y=8, no pasa por el origen."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = -(x - 2)^2 + 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! En x=0, $y = -(4) + 4 = 0$. Satisface todas las condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x^2 - 4x$",
+          "is_correct": false,
+          "feedback": "El vertice de esta parabola estaria en (2, -4), no en (2, 4)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = -2(x - 2)^2 + 4$",
+          "is_correct": false,
+          "feedback": "Al evaluar en x=0 daria y=-4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando la forma canonica $f(x) = a(x - 2)^2 + 4$, sustituimos el punto $(0, 0)$ para hallar $a$: $0 = a(0 - 2)^2 + 4 \\rightarrow 0 = 4a + 4 \\rightarrow a = -1$. La funcion resultante es $f(x) = -(x - 2)^2 + 4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v19",
+      "statement": "¿Cual es el area maxima que puede cercar el granjero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$ $m^2$",
+          "is_correct": false,
+          "feedback": "Si el ancho es 10, el largo seria 20. El area seria 200."
+        },
+        {
+          "letter": "B",
+          "text": "$200$ $m^2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Area $A = x(40 - 2x) = -2x^2 + 40x$. El vertice esta en x=10, $A = 10(20) = 200$."
+        },
+        {
+          "letter": "C",
+          "text": "$400$ $m^2$",
+          "is_correct": false,
+          "feedback": "Esto requeriria mas metros de valla."
+        },
+        {
+          "letter": "D",
+          "text": "$150$ $m^2$",
+          "is_correct": false,
+          "feedback": "No es el valor maximo posible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema clasico de optimizacion que se resuelve mediante funciones cuadraticas. Al expresar el area en funcion de una de las dimensiones, obtenemos una parabola que se abre hacia abajo. El vertice de esa parabola nos da el area maxima.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle-v20",
+      "statement": "¿Que ocurre con la grafica si el coeficiente $a$ cambia de positivo a negativo mientras $b$ y $c$ se mantienen constantes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parabola se desplaza hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Los desplazamientos dependen mas de los valores de a y b combinados."
+        },
+        {
+          "letter": "B",
+          "text": "La parabola se invierte (pasa de abrirse hacia arriba a abrirse hacia abajo).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El signo de a determina la concavidad de la funcion."
+        },
+        {
+          "letter": "C",
+          "text": "La parabola se convierte en una recta.",
+          "is_correct": false,
+          "feedback": "Para ser una recta, 'a' deberia ser exactamente cero."
+        },
+        {
+          "letter": "D",
+          "text": "El corte con el eje Y desaparece.",
+          "is_correct": false,
+          "feedback": "El corte con el eje Y depende exclusivamente del valor de 'c'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo del coeficiente $a$ es el interruptor de la concavidad. Un cambio de signo voltea la parabola completamente (\"reflexion\" respecto a una linea horizontal que pase por el vertice original, aunque no exactamente respecto al eje X si el vertice no esta en él).\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "GQ-MAT-11-2026-W10-funcion-cuadratica-parabola-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

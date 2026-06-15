@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T05:13:43.402Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v1",
+      "statement": "¿Cuál es la función predominante del lenguaje en los textos publicitarios, cuyo objetivo es convencer o influir en la conducta del receptor para que compre un producto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función expresiva o emotiva.",
+          "is_correct": false,
+          "feedback": "Se centra en los sentimientos del emisor, no es el objetivo principal de la publicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Función referencial o informativa.",
+          "is_correct": false,
+          "feedback": "Aunque da información, su propósito final no es solo informar, sino persuadir."
+        },
+        {
+          "letter": "C",
+          "text": "Función apelativa o conativa.",
+          "is_correct": true,
+          "feedback": "Busca generar una reacción o respuesta en el receptor, como la compra o adopción de una idea."
+        },
+        {
+          "letter": "D",
+          "text": "Función metalingüística.",
+          "is_correct": false,
+          "feedback": "Se centra en el código de la lengua, ajeno al propósito publicitario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad utiliza la función apelativa del lenguaje para dirigir la voluntad del consumidor. Se manifiesta a menudo mediante el uso de imperativos (\"compra\", \"refresca\") y preguntas que interpelan directamente al público.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v2",
+      "statement": "¿Cómo se denomina técnicamente a la frase breve, expresiva y fácil de memorizar que resume la esencia de una marca o campaña publicitaria?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuerpo de texto.",
+          "is_correct": false,
+          "feedback": "Es el desarrollo detallado de la información, no una frase corta."
+        },
+        {
+          "letter": "B",
+          "text": "Eslogan (o lema).",
+          "is_correct": true,
+          "feedback": "El eslogan es la herramienta lingüística clave para el posicionamiento de marca en la memoria del consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "Logotipo.",
+          "is_correct": false,
+          "feedback": "El logotipo es un elemento gráfico o visual, no una frase."
+        },
+        {
+          "letter": "D",
+          "text": "Encabezado informativo.",
+          "is_correct": false,
+          "feedback": "Es un término más propio del periodismo que de la publicidad persuasiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El eslogan utiliza recursos como la rima, la aliteración o el juego de palabras para fijarse en la mente del receptor. Es una condensación semántica de los valores que la marca quiere proyectar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v3",
+      "statement": "¿Qué estrategia de persuasión visual y textual se está utilizando principalmente en este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de tecnicismos científicos para explicar el tráfico.",
+          "is_correct": false,
+          "feedback": "No hay lenguaje técnico, solo imágenes de situaciones cotidianas."
+        },
+        {
+          "letter": "B",
+          "text": "El contraste entre una situación negativa (problema) y una situación positiva (solución).",
+          "is_correct": true,
+          "feedback": "La publicidad suele presentar el producto como el remedio a una carencia o malestar del consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción detallada del motor y la mecánica del vehículo.",
+          "is_correct": false,
+          "feedback": "El foco está en la experiencia emocional y el tiempo, no en la técnica."
+        },
+        {
+          "letter": "D",
+          "text": "La cita de autoridades académicas que recomiendan la aplicación.",
+          "is_correct": false,
+          "feedback": "El anuncio se basa en la identificación personal, no en el argumento de autoridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad de \"solución de problemas\" es muy efectiva. Al visualizar el malestar del receptor y ofrecer el producto como la vía de escape hacia el bienestar, se crea una necesidad psicológica de consumo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v4",
+      "statement": "¿Cuál es el \"argumento de autoridad\" o de prestigio que busca explotar este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la ropa es la más barata del mercado.",
+          "is_correct": false,
+          "feedback": "El anuncio no menciona el precio, se enfoca en quién la usa."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ropa tiene tecnología espacial en sus fibras.",
+          "is_correct": false,
+          "feedback": "No se dan detalles técnicos en esta descripción."
+        },
+        {
+          "letter": "C",
+          "text": "Si una figura exitosa y admirada usa el producto, el producto es de alta calidad y otorga estatus.",
+          "is_correct": true,
+          "feedback": "El consumidor tiende a imitar las conductas y elecciones de sus ídolos, lo que se conoce como transferencia de prestigio."
+        },
+        {
+          "letter": "D",
+          "text": "Que el deportista regala la ropa si se le pide personalmente.",
+          "is_correct": false,
+          "feedback": "Es una interpretación absurda del propósito de una campaña de marca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de celebridades (influencers o deportistas) en publicidad actúa como un aval social. El prestigio de la persona se \"pega\" al producto, haciendo que el receptor desee adquirirlo para sentirse parte de ese mundo de éxito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes opciones representa mejor el uso de una metáfora publicitaria efectiva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Come zanahorias porque tienen vitamina A y son buenas para tus ojos\".",
+          "is_correct": false,
+          "feedback": "Este es un mensaje informativo directo, no una metáfora."
+        },
+        {
+          "letter": "B",
+          "text": "\"Zanahorias: el combustible de tus superpoderes visuales\".",
+          "is_correct": true,
+          "feedback": "Sustituye el concepto de vitamina/salud por \"combustible/superpoderes\", creando una imagen más atractiva y persuasiva."
+        },
+        {
+          "letter": "C",
+          "text": "\"En este lugar vendemos verduras frescas todos los martes\".",
+          "is_correct": false,
+          "feedback": "Es un aviso puramente informativo de venta."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las verduras son plantas que crecen en la tierra y se pueden cocinar\".",
+          "is_correct": false,
+          "feedback": "Es una definición literal, carece de fuerza persuasiva y creatividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora publicitaria embellece el producto y le otorga cualidades extraordinarias. Al relacionar las verduras con conceptos emocionantes (superpoderes), se logra una mayor conexión con el público infantil.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v6",
+      "statement": "Desde el análisis multimodal, ¿cuál es el impacto que busca generar esta imagen en el receptor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar al receptor cómo funcionan las armas de fuego.",
+          "is_correct": false,
+          "feedback": "El tema central es el tabaquismo, la pistola es solo un símbolo."
+        },
+        {
+          "letter": "B",
+          "text": "Generar un fuerte impacto emocional (miedo) al asociar directamente el hábito de fumar con la muerte.",
+          "is_correct": true,
+          "feedback": "La imagen visualiza el peligro invisible del tabaco mediante un objeto que representa peligro inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "Promocionar una nueva marca de cigarrillos con forma de pistola.",
+          "is_correct": false,
+          "feedback": "Es una interpretación errónea; la campaña es preventiva y de salud pública."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar que fumar es un deporte de puntería.",
+          "is_correct": false,
+          "feedback": "No tiene relación con el propósito de concienciación de la campaña."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad social o institucional utiliza a menudo el \"choque visual\" para romper la negación del receptor. La asociación entre el producto y un peligro mortal es un recurso de disuasión muy potente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v7",
+      "statement": "¿Qué mensaje implícito transmiten estos colores saturados sobre el resultado del producto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el detergente solo se puede usar en días soleados.",
+          "is_correct": false,
+          "feedback": "El clima es solo una puesta en escena estética para resaltar los colores."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ropa va a oler a flores de campo reales.",
+          "is_correct": false,
+          "feedback": "Aunque lo sugiere, el mensaje principal del color es la limpieza absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Una sensación de pureza, frescura y efectividad extrema que supera la realidad.",
+          "is_correct": true,
+          "feedback": "El blanco hiperiluminado simboliza el éxito total del producto sobre la suciedad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el detergente mancha la ropa con tintes azules y verdes.",
+          "is_correct": false,
+          "feedback": "Es lo opuesto a lo que la marca quiere proyectar visualmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En publicidad, los colores se manipulan para crear un \"mundo ideal\". El blanco no es solo ausencia de manchas, es un símbolo de perfección y orden que el consumidor desea alcanzar comprando el detergente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v8",
+      "statement": "¿Cuál es la relación entre el anuncio principal (que promete dinero fácil y rápido) y este texto final desde una perspectiva crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto final es el más importante y debería estar en letras grandes.",
+          "is_correct": false,
+          "feedback": "Desde la ética sí, pero la publicidad lo oculta para no desanimar al cliente."
+        },
+        {
+          "letter": "B",
+          "text": "No hay relación, son dos textos diferentes de dos empresas distintas.",
+          "is_correct": false,
+          "feedback": "Ambos forman parte del mismo mensaje publicitario obligatorio por ley."
+        },
+        {
+          "letter": "C",
+          "text": "El texto pequeño revela las condiciones reales y costosas que el anuncio principal trata de minimizar.",
+          "is_correct": true,
+          "feedback": "La publicidad a veces usa el lenguaje seductor para atraer y relega los datos negativos o técnicos a la \"letra pequeña\"."
+        },
+        {
+          "letter": "D",
+          "text": "El texto pequeño es una felicitación al usuario por elegir la empresa.",
+          "is_correct": false,
+          "feedback": "Es una advertencia legal y financiera, no un mensaje afectivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica de publicidad exige leer la totalidad del texto, incluyendo los descargos de responsabilidad. La diferencia de tamaño entre la promesa y la condición es una estrategia de persuasión selectiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v9",
+      "statement": "¿Cómo se está utilizando la multimodalidad en este tipo de publicidad para engañar o confundir al consumidor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usando palabras científicas reales que nadie entiende.",
+          "is_correct": false,
+          "feedback": "El engaño aquí es visual y simbólico, no necesariamente léxico."
+        },
+        {
+          "letter": "B",
+          "text": "Utilizando códigos visuales asociados a la naturaleza para dar una imagen de sostenibilidad que el producto no tiene realmente.",
+          "is_correct": true,
+          "feedback": "El color verde y las hojas actúan como \"atajos mentales\" que el consumidor asocia con salud y ecología sin verificar los datos."
+        },
+        {
+          "letter": "C",
+          "text": "Regalando plantas reales con la compra de cada producto químico.",
+          "is_correct": false,
+          "feedback": "Esto sería una promoción real, no un uso engañoso de símbolos."
+        },
+        {
+          "letter": "D",
+          "text": "Obligando al consumidor a reciclar el empaque para poder abrirlo.",
+          "is_correct": false,
+          "feedback": "Es una situación ficticia que no explica el uso del diseño visual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asociación simbólica es una herramienta poderosa. El análisis crítico permite separar la \"imagen de marca\" (lo que parece ser) de la realidad técnica y ambiental del producto (lo que realmente es).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-v10",
+      "statement": "¿Cuál es la principal crítica que se puede hacer a este tipo de mensajes publicitarios dirigidos al público infantil?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los juguetes son demasiado caros para los padres en Colombia.",
+          "is_correct": false,
+          "feedback": "Aunque sea cierto, es un problema económico, no un análisis del mensaje lingüístico/visual."
+        },
+        {
+          "letter": "B",
+          "text": "Que el anuncio dura mucho tiempo y distrae a los niños de sus tareas.",
+          "is_correct": false,
+          "feedback": "El problema no es el tiempo, sino el contenido del mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que promueve la idea de que la amistad y la felicidad dependen exclusivamente de poseer objetos materiales.",
+          "is_correct": true,
+          "feedback": "Este tipo de publicidad utiliza el chantaje emocional y crea falsas necesidades sociales vinculadas al consumo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el niño del anuncio debería estar estudiando en lugar de jugar.",
+          "is_correct": false,
+          "feedback": "Es un juicio moral ajeno al análisis del mecanismo de persuasión publicitaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad evaluada éticamente revela cómo se explotan las inseguridades humanas (como el miedo a la soledad) para vender productos. En el caso de los niños, esto es especialmente sensible debido a su menor capacidad de análisis crítico.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado íntegramente. |\n| Curricular | 40/40 | Análisis profundo del texto publicitario para grado 7. |\n| Contexto | 20/20 | Ejemplos locales (Selección Colombia, Medellín, Bogotá, Cali) y situaciones pertinentes. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas de alta calidad. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W32-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

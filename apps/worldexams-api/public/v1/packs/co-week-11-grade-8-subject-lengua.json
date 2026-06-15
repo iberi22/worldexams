@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-11-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T04:43:52.586Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál era el objetivo principal de los cronistas de Indias al enviar sus relatos a los reyes de España durante el siglo XVI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir novelas de ficción para entretener a la corte.",
+          "is_correct": false,
+          "feedback": "Aunque parecen fantásticas, las crónicas pretendían ser relatos de hechos reales."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los indígenas a leer y escribir en español.",
+          "is_correct": false,
+          "feedback": "Ese era un objetivo de la educación colonial, no el propósito de las crónicas enviadas al Rey."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre las riquezas, tierras y habitantes descubiertos para obtener favores o recompensas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las crónicas servían como informes oficiales para justificar la conquista y pedir mercedes al monarca."
+        },
+        {
+          "letter": "D",
+          "text": "Crear un mapa astronómico de las estrellas del hemisferio sur.",
+          "is_correct": false,
+          "feedback": "Aunque se registraban datos geográficos, el foco era político, social y económico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las crónicas surgieron de la necesidad de dar testimonio ante la Corona española de los avances en el nuevo territorio, siendo documentos fundamentales de la historia y la literatura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v2",
+      "statement": "¿En qué obra denunció Bartolomé de las Casas los maltratos sufridos por los indígenas a manos de los conquistadores españoles?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Historia verdadera de la conquista de la Nueva España.",
+          "is_correct": false,
+          "feedback": "Esta obra fue escrita por Bernal Díaz del Castillo para exaltar el papel de los soldados."
+        },
+        {
+          "letter": "B",
+          "text": "Brevísima relación de la destrucción de las Indias.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el texto donde Las Casas describe las atrocidades cometidas contra la población nativa."
+        },
+        {
+          "letter": "C",
+          "text": "Los Diarios de a bordo.",
+          "is_correct": false,
+          "feedback": "Estos pertenecen a Cristóbal Colón y narran los primeros viajes de descubrimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El Carnero.",
+          "is_correct": false,
+          "feedback": "Esta obra de Juan Rodríguez Freyle narra la vida social de la Santa Fe colonial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La obra de Las Casas fue el motor de las Leyes Nuevas de 1542, que buscaban mejorar la situación legal de los indígenas, y es un ejemplo de literatura de denuncia social.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fue la motivación principal de Bernal Díaz del Castillo para escribir su \"Historia verdadera de la conquista de la Nueva España\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reivindicar el valor y el esfuerzo de los soldados comunes frente a la gloria exclusiva de Hernán Cortés.",
+          "is_correct": true,
+          "feedback": "Correcto. Bernal quería que se reconociera el papel de la tropa en la conquista de México."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir un poema épico en honor a los dioses aztecas que tanto admiraba.",
+          "is_correct": false,
+          "feedback": "Bernal era un soldado cristiano y su relato es una crónica en prosa, no un poema mitológico."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que los indígenas eran seres superiores a los europeos en tecnología militar.",
+          "is_correct": false,
+          "feedback": "Bernal resaltó el valor indígena, pero su objetivo era exaltar la victoria española y el mérito de sus compañeros."
+        },
+        {
+          "letter": "D",
+          "text": "Crear un manual de cocina con los ingredientes encontrados en América.",
+          "is_correct": false,
+          "feedback": "Aunque describe alimentos, su obra es un relato militar e histórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica de Bernal Díaz se destaca por su realismo y por dar voz a los \"actores secundarios\" de la historia, ofreciendo detalles cotidianos de la vida del soldado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v4",
+      "statement": "Cuando un cronista dice que una ciudad azteca parece \"las cosas de encantamiento que cuentan en el libro de Amadís\", ¿qué recurso literario está utilizando para que sus lectores españoles entiendan la grandeza de lo que ve?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole científica.",
+          "is_correct": false,
+          "feedback": "La comparación con un libro de fantasía no es un recurso científico."
+        },
+        {
+          "letter": "B",
+          "text": "Referencia intertextual y analógica.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa un referente cultural conocido por sus lectores (Amadís de Gaula) para explicar algo desconocido y asombroso."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora religiosa sobre el infierno.",
+          "is_correct": false,
+          "feedback": "El autor intenta describir belleza y asombro, no un lugar de castigo eterno."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación de las piedras de los templos.",
+          "is_correct": false,
+          "feedback": "No está atribuyendo rasgos humanos a las piedras, sino comparando la escena total con un relato mágico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ante la falta de vocabulario para describir realidades nuevas, los cronistas recurrieron a la analogía con el mundo europeo y la literatura de ficción de su tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la diferencia fundamental entre la perspectiva de un cronista soldado español y un cronista mestizo como el Inca Garcilaso de la Vega?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El soldado español hablaba quechua y el mestizo no.",
+          "is_correct": false,
+          "feedback": "Generalmente era al revés; el cronista mestizo tenía la ventaja del bilingüismo y la doble cultura."
+        },
+        {
+          "letter": "B",
+          "text": "El mestizo ofrece una visión interna y afectiva del mundo indígena que el español a menudo ignoraba o despreciaba.",
+          "is_correct": true,
+          "feedback": "Correcto. Garcilaso buscaba dignificar el pasado incaico desde su identidad mixta."
+        },
+        {
+          "letter": "C",
+          "text": "El soldado español escribía solo sobre religión y el mestizo solo sobre guerras.",
+          "is_correct": false,
+          "feedback": "Ambos trataban temas variados, pero con enfoques y sensibilidades distintas según su origen."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, ambos tenían exactamente la misma visión porque vivían en la misma época.",
+          "is_correct": false,
+          "feedback": "El origen cultural determina la forma de interpretar los hechos históricos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cronistas mestizos son puentes culturales que permitieron una comprensión más profunda de las civilizaciones americanas, aunque siempre bajo el marco de la escritura europea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v6",
+      "statement": "¿Qué contradicción se observa en la descripción que hace Colón de los habitantes de las islas del Caribe?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dice que son muy ricos pero que no tienen ropa.",
+          "is_correct": false,
+          "feedback": "Esto no es una contradicción en su pensamiento; él asocia la desnudez con la inocencia, no con la pobreza."
+        },
+        {
+          "letter": "B",
+          "text": "Los idealiza como seres puros e inocentes, pero al mismo tiempo los ve como objetos útiles para la explotación laboral.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta ambivalencia entre admiración y utilidad marcó el inicio de la relación colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que hablan muchos idiomas pero que no se pueden comunicar.",
+          "is_correct": false,
+          "feedback": "Colón resalta precisamente que no entiende sus lenguas."
+        },
+        {
+          "letter": "D",
+          "text": "Describe que son gigantes pero que tienen miedo de las sombras.",
+          "is_correct": false,
+          "feedback": "Colón describe personas de estatura normal, no gigantes en sus primeros diarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La visión de Colón inaugura el mito del \"buen salvaje\", donde la admiración estética no impide la intención de dominio político y económico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué es importante diferenciar entre los cronistas de \"oídas\" y los cronistas de \"vista\" (que estuvieron presentes en los hechos)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los que no viajaron escribían libros más baratos y pequeños.",
+          "is_correct": false,
+          "feedback": "El costo del libro no depende de si el autor viajó o no."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los que viajaron tenían prohibido mentir por orden del Rey.",
+          "is_correct": false,
+          "feedback": "Todos los cronistas podían exagerar o mentir para favorecer su imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el testimonio directo aporta detalles realistas y experiencias que los teóricos de Europa a menudo distorsionaban.",
+          "is_correct": true,
+          "feedback": "Correcto. La experiencia directa (el \"yo estuve ahí\") es una fuente distinta al análisis teórico a distancia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los cronistas de oídas solo escribían en latín y los de vista solo en español.",
+          "is_correct": false,
+          "feedback": "El idioma dependía de la formación del autor, no de sus viajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distinción entre experiencia y teoría fue el centro de grandes debates en el siglo XVI, como la Controversia de Valladolid entre Las Casas y Sepúlveda.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo debe manejar un lector actual los datos numéricos y las descripciones fantásticas presentes en las Crónicas de Indias?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creerlos al pie de la letra porque los cronistas eran personas muy religiosas que no mentían.",
+          "is_correct": false,
+          "feedback": "La religiosidad no impedía la exageración por motivos políticos o personales."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazarlos totalmente como mentiras y no leer las crónicas.",
+          "is_correct": false,
+          "feedback": "Aunque haya exageraciones, las crónicas contienen valiosa información histórica y cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Analizarlos críticamente, comparándolos con otras fuentes y entendiendo la intención de auto-promoción del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis crítico permite separar la realidad de la propaganda de la época."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar los números originales por otros que parezcan más modernos.",
+          "is_correct": false,
+          "feedback": "Se debe conservar el texto original pero interpretarlo en su contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica de documentos históricos implica reconocer la subjetividad del autor y los filtros ideológicos de su tiempo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v9",
+      "statement": "¿Qué elemento diferencia a \"El Carnero\" de las crónicas de guerra de los primeros conquistadores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que narra batallas contra dragones y seres mitológicos.",
+          "is_correct": false,
+          "feedback": "Es una crónica urbana y social, no una epopeya fantástica medieval."
+        },
+        {
+          "letter": "B",
+          "text": "Que se centra en los escándalos sociales, delitos y la vida cotidiana de la ciudad de Santa Fe de Bogotá.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambia el foco de la conquista militar a la convivencia social colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Que está escrito completamente en verso para ser cantado por juglares.",
+          "is_correct": false,
+          "feedback": "Es una obra en prosa, con una estructura narrativa compleja."
+        },
+        {
+          "letter": "D",
+          "text": "Que prohíbe mencionar el nombre de los gobernantes españoles.",
+          "is_correct": false,
+          "feedback": "Al contrario, registra los nombres de presidentes y oidores de la Real Audiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"El Carnero\" es fundamental para la literatura colombiana porque introduce el interés por la anécdota, el chisme y el análisis de la moralidad en la sociedad virreinal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v10",
+      "statement": "¿En qué sentido las Crónicas de Indias pueden considerarse el origen del \"Realismo Mágico\" latinoamericano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los cronistas inventaron la magia para asustar a los reyes.",
+          "is_correct": false,
+          "feedback": "No inventaron \"magia\", sino que describieron una realidad que para ellos era increíble o maravillosa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en el siglo XVI todos los animales de América hablaban.",
+          "is_correct": false,
+          "feedback": "Esta es una afirmación falsa; los animales no hablaban, pero las descripciones de los cronistas los hacían parecer fantásticos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en sus relatos lo asombroso y lo cotidiano se mezclan de forma natural al describir un mundo nuevo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa mezcla de maravilla y realidad objetiva es el germen de la sensibilidad literaria americana."
+        },
+        {
+          "letter": "D",
+          "text": "Porque García Márquez era un cronista de Indias que viajó en el tiempo.",
+          "is_correct": false,
+          "feedback": "Es una relación de influencia literaria y cultural, no un viaje físico en el tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mirada del cronista, que intenta explicar lo inexplicable de América, sentó las bases de una narrativa que siempre ha buscado expresar lo \"real maravilloso\" de nuestro continente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor de una crónica que busca la precisión geográfica y etnográfica frente a una que solo busca narrar hazañas militares?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, las hazañas militares son lo único importante de la historia.",
+          "is_correct": false,
+          "feedback": "La historia se compone de muchos factores, no solo de guerras."
+        },
+        {
+          "letter": "B",
+          "text": "Que ayuda a que el Rey sepa exactamente a quién debe castigar.",
+          "is_correct": false,
+          "feedback": "El valor es científico y cultural, más que punitivo."
+        },
+        {
+          "letter": "C",
+          "text": "Permite preservar un conocimiento invaluable sobre las culturas y el territorio antes de ser profundamente transformados por la colonización.",
+          "is_correct": true,
+          "feedback": "Correcto. Cieza de León es una fuente fundamental para la arqueología y la antropología."
+        },
+        {
+          "letter": "D",
+          "text": "Que sus libros tienen mapas que se pueden usar para encontrar tesoros piratas.",
+          "is_correct": false,
+          "feedback": "Aunque contienen descripciones espaciales, no son \"mapas de tesoros\" en el sentido ficticio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cronistas con espíritu observador y curioso funcionaron como los primeros geógrafos y antropólogos del continente, dejando registros que hoy son únicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo influyó la literatura de las crónicas en la creación de las leyes coloniales en América?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las crónicas no influyeron porque los abogados no leían libros de viajes.",
+          "is_correct": false,
+          "feedback": "Las crónicas eran los informes de base que usaba el Consejo de Indias para legislar."
+        },
+        {
+          "letter": "B",
+          "text": "Las crónicas hicieron que se prohibiera la escritura en todo el continente para evitar quejas.",
+          "is_correct": false,
+          "feedback": "Al contrario, fomentaron una enorme producción escrita administrativa y legal."
+        },
+        {
+          "letter": "C",
+          "text": "Las descripciones sobre la humanidad o \"barbarie\" de los indígenas sirvieron de base para justificar leyes de protección o sistemas de explotación como la encomienda.",
+          "is_correct": true,
+          "feedback": "Correcto. El poder de la palabra escrita determinó la vida y libertad de millones de personas."
+        },
+        {
+          "letter": "D",
+          "text": "Las crónicas solo servían para que el Rey eligiera qué animales quería tener en su zoológico.",
+          "is_correct": false,
+          "feedback": "Aunque incluían fauna, su mayor impacto fue en la organización social y jurídica de las colonias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra escrita en la Colonia tenía un valor jurídico supremo; lo que un cronista ponía en papel podía convertirse en una ley que afectaba a todo el imperio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
