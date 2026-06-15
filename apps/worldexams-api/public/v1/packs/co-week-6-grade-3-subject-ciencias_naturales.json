@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.613Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v1",
+      "statement": "El aire que respiramos está compuesto principalmente por:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire tiene oxígeno pero también otros gases."
+        },
+        {
+          "letter": "B",
+          "text": "Nitrógeno y oxígeno principalmente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aire es 78% nitrógeno, 21% oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Solo dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CO₂ es solo 0.04%."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno y helio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son gases minoritarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La atmósfera terrestre es 78% nitrógeno (N₂), 21% oxígeno (O₂), 0.93% argón y 0.04% CO₂, más vapor de agua. El oxígeno es esencial para la respiración.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v2",
+      "statement": "¿Qué propiedad del aire se demuestra al inflar un globo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire no pesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene peso, aunque poco."
+        },
+        {
+          "letter": "B",
+          "text": "El aire ocupa espacio (tiene volumen)",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Al inflar un globo, el aire expande el globo porque ocupa espacio."
+        },
+        {
+          "letter": "C",
+          "text": "El aire es invisible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque invisible, esa no es la propiedad demostrada."
+        },
+        {
+          "letter": "D",
+          "text": "El aire está en movimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede estar quieto dentro del globo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aire es materia y ocupa espacio (volumen) y tiene masa. Inflar un globo demuestra el volumen del aire porque el globo se expande. El aire es incoloro, inodoro e insípido.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v3",
+      "statement": "¿Por qué no entra agua al vaso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua rechaza el vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El aire dentro del vaso ocupa espacio y no deja entrar el agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aire atrapado ocupa el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "El vaso es impermeable",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua podría entrar por la boca."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es más densa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es que el aire ocupa el espacio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vaso contiene aire que no puede escapar y ejerce presión, ocupando el volumen e impidiendo que el agua entre. Si inclinas el vaso, el aire sale en burbujas y el agua entra.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v4",
+      "statement": "¿Por qué el viento seca la ropa más rápido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento tira las gotas",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El viento renueva el aire seco alrededor de la ropa, acelerando la evaporación",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aire seco absorbe más humedad."
+        },
+        {
+          "letter": "C",
+          "text": "El viento calienta la ropa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede estar frío."
+        },
+        {
+          "letter": "D",
+          "text": "Mueve la ropa y el agua se cae",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua se evapora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaporación es el paso de agua líquida a vapor. El viento acelera el proceso porque desplaza la capa de aire húmedo alrededor de la ropa, reemplazándola con aire seco que puede absorber más vapor de agua.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v5",
+      "statement": "¿Cuál NO es una forma de usar el aire?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inflar llantas de bicicleta",
+          "is_correct": false,
+          "feedback": "Sí es usar aire comprimido."
+        },
+        {
+          "letter": "B",
+          "text": "Generar electricidad con molinos de viento",
+          "is_correct": false,
+          "feedback": "Sí es energía eólica."
+        },
+        {
+          "letter": "C",
+          "text": "Fabricar plásticos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los plásticos vienen del petróleo."
+        },
+        {
+          "letter": "D",
+          "text": "Secar el cabello con secador",
+          "is_correct": false,
+          "feedback": "Sí es usar aire en movimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aire tiene muchos usos: inflar objetos, energía eólica, secado, combustión (oxígeno), comunicación (sonido viaja por el aire) y vuelo. Los plásticos se fabrican del petróleo, no del aire.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v6",
+      "statement": "¿Qué exhalamos principalmente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exhalamos menos oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono y nitrógeno, más algo de oxígeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! CO₂ (desecho celular), N₂ y O₂."
+        },
+        {
+          "letter": "C",
+          "text": "Solo dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Vapor de agua y oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayor parte es nitrógeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inhalamos 21% O₂. Las células usan O₂ en respiración celular y producen CO₂. Exhalamos ~16% O₂, 4-5% CO₂, 78% N₂ y vapor de agua. Las plantas toman ese CO₂ para fotosíntesis.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v7",
+      "statement": "¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La jeringa está dañada",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El aire atrapado se comprime y ejerce resistencia",
+          "is_correct": true,
+          "feedback": "¡Excelente! El aire no escapa y ofrece resistencia."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene suficiente aire",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El vacío succiona",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay vacío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al tapar la salida y empujar, las moléculas de aire se juntan y la presión aumenta, sintiéndose como resistencia. El aire es un fluido compresible, a diferencia del agua.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v8",
+      "statement": "¿Por qué es más difícil respirar en altitud?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay menos oxígeno",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto. La proporción es igual, la presión es menor."
+        },
+        {
+          "letter": "B",
+          "text": "La presión atmosférica es menor, entra menos oxígeno a los pulmones",
+          "is_correct": true,
+          "feedback": "¡Correcto! La presión disminuye con la altitud."
+        },
+        {
+          "letter": "C",
+          "text": "El aire está más contaminado",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El frío contrae los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presión atmosférica disminuye con la altitud. En Bogotá (2600m) es menor que en la costa. En el Nevado del Ruiz (5300m) es mucho menor. Aunque el O₂ es 21%, entra con menos fuerza a los alvéolos.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v9",
+      "statement": "¿Por qué el viento propaga el fuego?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento calienta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfría."
+        },
+        {
+          "letter": "B",
+          "text": "El viento lleva más oxígeno y empuja las llamas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El oxígeno alimenta la combustión."
+        },
+        {
+          "letter": "C",
+          "text": "El viento seca la vegetación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ya está seca."
+        },
+        {
+          "letter": "D",
+          "text": "Sopla brasas",
+          "is_correct": false,
+          "feedback": "Eso es secundario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fuego necesita combustible, oxígeno y calor (triángulo del fuego). El viento aporta más oxígeno intensificando la combustión y dirige las llamas hacia vegetación no quemada. Por eso se crean cortafuegos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W06-aire-001-MASTERY-v10",
+      "statement": "¿Qué le responderías?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas cosas existen sin verse."
+        },
+        {
+          "letter": "B",
+          "text": "Existe aunque no lo veamos; observamos sus efectos: hojas, banderas, molinos",
+          "is_correct": true,
+          "feedback": "¡Excelente! Conocemos algo por sus efectos."
+        },
+        {
+          "letter": "C",
+          "text": "Se ve cuando hace frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo visible es vapor condensado."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay muchas evidencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos conocer la existencia de algo por sus efectos. El viento es aire en movimiento. Vemos sus efectos: hojas moviéndose, cometas volando, molinos girando. En Colombia, los vientos alisios y las brisas marinas son ejemplos regionales.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W06-aire-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

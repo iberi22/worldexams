@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.541Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v1",
+      "statement": "¿Cuál es la diferencia fundamental entre un texto publicitario y un texto periodístico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El publicitario se ve en internet y el periodístico en papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden circular en distintos medios."
+        },
+        {
+          "letter": "B",
+          "text": "El publicitario busca persuadir para vender un producto o idea; el periodístico busca informar objetivamente sobre hechos de actualidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El propósito es la diferencia clave: persuadir vs. informar."
+        },
+        {
+          "letter": "C",
+          "text": "El publicitario usa imágenes y el periodístico no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodístico también usa imágenes (fotografías)."
+        },
+        {
+          "letter": "D",
+          "text": "El publicitario es más corto que el periodístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión varía y no es la diferencia fundamental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el repaso de periodo, es esencial que los estudiantes distingan los tipos de texto por su PROPÓSITO, no por su forma. Texto publicitario → persuadir. Texto periodístico → informar. Texto científico → explicar. Texto literario → crear belleza/ficción. Esta clasificación por propósito es la base del análisis textual en ICFES.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v2",
+      "statement": "Lee el titular: \"Ciénaga Grande de Santa Marta pierde el 60% de sus bosques de manglar por la tala ilegal.\" ¿Qué tipo de texto es y qué información clave proporciona el titular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es publicitario y promueve la protección de la Ciénaga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay llamado a la acción ni intención de vender."
+        },
+        {
+          "letter": "B",
+          "text": "Es periodístico (noticia). El titular informa el qué (pérdida de manglares), el dónde (Ciénaga Grande) y la magnitud (60% por tala ilegal).",
+          "is_correct": true,
+          "feedback": "Correcto. El titular periodístico responde a las 5W de forma resumida."
+        },
+        {
+          "letter": "C",
+          "text": "Es literario, porque usa la palabra \"pierde\" como metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pierde\" se usa en sentido literal, no figurado."
+        },
+        {
+          "letter": "D",
+          "text": "Es científico, porque da un porcentaje exacto (60%).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los porcentajes también aparecen en noticias. El contexto y el formato indican que es periodístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar el tipo de texto, hay que considerar: propósito, estructura, canal y lenguaje. Un titular con datos sobre un hecho actual, sin opinión ni intención de vender, es típicamente periodístico. Los textos científicos también usan datos, pero aparecen en contextos diferentes (revistas científicas, libros de texto) y con estructura distinta.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v3",
+      "statement": "¿En qué se diferencia un eslogan (\"Colombia es pasión\") de un titular periodístico (\"Colombia clasifica al Mundial 2026\")?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El eslogan es más largo que el titular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son frases cortas."
+        },
+        {
+          "letter": "B",
+          "text": "El eslogan busca crear una asociación emocional con una marca o país (persuasivo); el titular informa un hecho objetivo (informativo).",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la intención: persuadir vs. informar."
+        },
+        {
+          "letter": "C",
+          "text": "El titular usa adjetivos y el eslogan no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden usar adjetivos."
+        },
+        {
+          "letter": "D",
+          "text": "El eslogan es verdadero y el titular puede ser falso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser verdaderos o falsos; la veracidad no es la diferencia de género."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una misma frase corta puede ser publicitaria o periodística según su contexto e intención. \"Colombia es pasión\" (eslogan de marca país) busca generar orgullo y una imagen positiva. \"Colombia clasifica al Mundial 2026\" (titular) informa un hecho. Los estudiantes deben aprender a identificar la intención comunicativa detrás del texto.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v4",
+      "statement": "Un estudiante recibe estos tres textos:\r\nTexto A: \"Compre Yogur Deli, el mejor sabor de la vida.\"\r\nTexto B: \"El yogur es producto de la fermentación de la leche por bacterias.\"\r\nTexto C: \"Había una vez un yogur que quería ser el postre favorito de los niños.\"\r\n\r\n¿Qué tipo de texto es cada uno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A=periodístico, B=literario, C=publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "A=publicitario, B=expositivo/científico, C=literario.",
+          "is_correct": true,
+          "feedback": "Correcto. A busca vender (persuasivo), B explica (informativo objetivo), C cuenta una historia (narrativo literario)."
+        },
+        {
+          "letter": "C",
+          "text": "A=literario, B=publicitario, C=periodístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "A=expositivo, B=periodístico, C=publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar textos es una habilidad fundamental. Para hacerlo correctamente, pregúntate: 1) ¿Cuál es el propósito? (vender/informar/entretener/explicar), 2) ¿Cómo es el lenguaje? (objetivo/subjetivo/persuasivo/figurado), 3) ¿Qué estructura tiene? (noticia / cuento / anuncio). Esta clasificación no siempre es absoluta: algunos textos combinan propósitos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v5",
+      "statement": "Un texto sobre el café colombiano dice: \"La cafeína actúa como un estimulante del sistema nervioso central. Bloquea los receptores de adenosina, una sustancia que produce sueño, lo que explica por qué una taza de café nos mantiene despiertos.\" ¿Qué tipo de texto es y qué recurso usa para ayudar a entender?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es literario y usa una metáfora (el café como despertador).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hace una comparación implícita, no es literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Es divulgación científica. Explica un proceso complejo (bloqueo de receptores) en lenguaje accesible, sin opiniones personales.",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación científica simplifica conceptos técnicos para el público general."
+        },
+        {
+          "letter": "C",
+          "text": "Es periodístico y reporta un descubrimiento sobre el café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un hecho noticioso reciente."
+        },
+        {
+          "letter": "D",
+          "text": "Es publicitario y promueve el consumo de café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay llamado a la acción ni persuasión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La divulgación científica se reconoce por: 1) tema de ciencia, 2) lenguaje claro y accesible, 3) explicación de términos técnicos (se define \"adenosina\"), 4) tono objetivo, 5) ausencia de opinión personal. No busca vender ni informar una noticia, sino explicar un concepto.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v6",
+      "statement": "¿Por qué es útil clasificar los textos en diferentes tipos (publicitarios, periodísticos, científicos, literarios)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los estudiantes tengan más exámenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el propósito educativo."
+        },
+        {
+          "letter": "B",
+          "text": "Para que los escritores sepan exactamente cómo escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los escritores pueden mezclar géneros libremente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada tipo de texto tiene un propósito, estructura y lenguaje distintos. Clasificarlos ayuda a entender mejor su intención y a leer críticamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación es una herramienta de análisis, no una camisa de fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Para saber cuáles son más importantes que otros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los tipos son igualmente válidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar textos es una habilidad metacognitiva: al identificar el tipo de texto, activamos expectativas sobre su propósito y estructura. Esto nos ayuda a leer de manera más eficiente y crítica. Por ejemplo, al leer un texto publicitario, sabemos que debemos ser escépticos; al leer divulgación científica, esperamos datos verificables.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v7",
+      "statement": "Un texto dice: \"Los médicos recomiendan ZumoVita, el jugo natural que fortalece tus defensas. Una investigación de la Universidad Nacional lo confirma.\" ¿Qué problema de clasificación y confiabilidad presenta este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto científico confiable porque menciona la Universidad Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar una institución no garantiza confiabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto periodístico, pero debería tener fecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es periodístico."
+        },
+        {
+          "letter": "C",
+          "text": "Se presenta como si fuera información científica, pero en realidad es publicidad encubierta que usa la apariencia de ciencia para dar credibilidad a un producto comercial.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un caso de publicidad disfrazada de divulgación científica, una estrategia engañosa."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto literario porque usa la palabra \"fortalece\" como metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uno de los aprendizajes más importantes de la lectura crítica es identificar cuándo un texto NO es lo que aparenta ser. La publicidad encubierta (o \"publirreportaje\") se disfraza de información objetiva para ganar credibilidad. Los estudiantes deben preguntarse: ¿quién publica esto? ¿Hay un interés comercial detrás? ¿Se citan fuentes verificables?\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v8",
+      "statement": "La crónica \"La guerra de los mil días en el Cauca\" de un escritor colombiano mezcla hechos históricos verificables con descripciones poéticas del paisaje y opiniones del autor. ¿Cómo clasificarías este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclusivamente periodístico, porque habla de hechos reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora los elementos literarios y de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente literario, porque tiene descripciones poéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el contenido histórico verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto híbrido que combina elementos periodísticos (hechos verificables), literarios (lenguaje poético) y de opinión. Muchos textos reales no encajan en una sola categoría.",
+          "is_correct": true,
+          "feedback": "Correcto. La crónica es un género híbrido por excelencia."
+        },
+        {
+          "letter": "D",
+          "text": "No es clasificable, por lo tanto no es un texto válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de géneros es común y válida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque la clasificación de textos es útil como herramienta de análisis, en la realidad muchos textos son híbridos. La crónica periodística, por ejemplo, combina la objetividad de la noticia con recursos narrativos de la literatura. El ensayo combina lo expositivo con lo argumentativo. Los estudiantes deben aprender a identificar los elementos de cada género en textos mixtos, no forzar todo en una sola categoría.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v9",
+      "statement": "La comunidad educativa necesita: 1) informar que se acerca el día de la familia, 2) motivar a los padres a asistir, 3) explicar un proyecto científico que los estudiantes presentarán ese día. ¿Qué tipos de texto deberían usarse y en qué orden?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un solo texto publicitario para todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo tipo no cumple todas las funciones."
+        },
+        {
+          "letter": "B",
+          "text": "Una noticia o circular para informar la fecha (periodístico), un volante o afiche para motivar la asistencia (publicitario), y una cartelera o folleto para explicar el proyecto científico (divulgación).",
+          "is_correct": true,
+          "feedback": "Correcto. Cada propósito requiere un tipo de texto adecuado."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema sobre la familia que incluya los datos del proyecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía no es funcional para informar datos concretos."
+        },
+        {
+          "letter": "D",
+          "text": "Un artículo científico explicando el proyecto, y al final agregar la fecha del evento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un artículo científico no es el formato adecuado para una comunicación escolar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber elegir el tipo de texto adecuado para cada propósito comunicativo es una habilidad práctica fundamental. Cada tipo de texto tiene fortalezas distintas: la noticia informa, la publicidad persuade, la divulgación explica, el instructivo guía. Usar el texto correcto para cada propósito hace la comunicación más efectiva.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-v10",
+      "statement": "Debes crear un texto sobre el ahorro de agua en tu colegio que cumpla DOS propósitos: informar sobre la crisis hídrica en Colombia Y motivar a los estudiantes a ahorrar agua. ¿Cuál sería el enfoque MÁS EFECTIVO?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento de ficción sobre una gota de agua que viaja por Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple el literario pero no informa datos reales ni persuade."
+        },
+        {
+          "letter": "B",
+          "text": "Un cartel informativo que combine: un titular con datos reales (\"Colombia perdió el 60% de sus glaciares en 50 años\"), una imagen impactante, y un eslogan persuasivo con llamado a la acción (\"¡Cierra la llave! El futuro del agua está en tus manos\").",
+          "is_correct": true,
+          "feedback": "Correcto. El cartel combina información (dato real) con persuasión (eslogan, imperativo), usando imagen para impacto visual."
+        },
+        {
+          "letter": "C",
+          "text": "Una noticia en el periódico escolar sobre la última lluvia en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Informa un hecho local pero no motiva a ahorrar ni aborda la crisis."
+        },
+        {
+          "letter": "D",
+          "text": "Un poema lírico sobre la belleza del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo cumple función estética, no informa ni persuade."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos multifuncionales son comunes en la comunicación real. Un cartel informativo-persuasivo puede lograr ambos propósitos: informar con datos objetivos y persuadir con recursos publicitarios. La combinación efectiva de géneros requiere: 1) identificar los propósitos, 2) seleccionar los recursos adecuados de cada género, 3) integrarlos de manera coherente.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

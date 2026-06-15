@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-3-grade-7-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.236Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v1",
+      "statement": "What structure does the second conditional use?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If + present simple, will + infinitive",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the first conditional."
+        },
+        {
+          "letter": "B",
+          "text": "If + past simple, would + infinitive",
+          "is_correct": true,
+          "feedback": "Correct. The second conditional uses past simple and would."
+        },
+        {
+          "letter": "C",
+          "text": "If + past perfect, would have + past participle",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "If + present simple, present simple",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the zero conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional (also called \"unreal conditional\") is used for hypothetical or unlikely situations in the present or future. The structure is: If + past simple, would + base verb. Example: \"If I had a million pesos, I would travel around the world.\" Note that the past tense does NOT refer to past time here; it expresses unreality.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v2",
+      "statement": "When do we use the third conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To talk about real facts and general truths.",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the zero conditional."
+        },
+        {
+          "letter": "B",
+          "text": "To talk about possible future situations.",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the first conditional."
+        },
+        {
+          "letter": "C",
+          "text": "To talk about hypothetical present situations.",
+          "is_correct": false,
+          "feedback": "Incorrect. That's the second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "To talk about unreal situations in the past and imagine different outcomes.",
+          "is_correct": true,
+          "feedback": "Correct. The third conditional expresses regret or hypothetical past."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The third conditional expresses impossible situations in the past — things that didn't happen. Structure: If + past perfect, would have + past participle. Example: \"If I had studied harder, I would have passed the exam.\" (But I didn't study hard, and I didn't pass.) It is often used to express regret, criticism, or relief about past events.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v3",
+      "statement": "What does Carlos's sentence imply?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is going to be president.",
+          "is_correct": false,
+          "feedback": "Incorrect. The second conditional expresses an unlikely situation."
+        },
+        {
+          "letter": "B",
+          "text": "He was president in the past.",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense in second conditional does not mean past time."
+        },
+        {
+          "letter": "C",
+          "text": "He is not the president, so this is a hypothetical/impossible situation in the present.",
+          "is_correct": true,
+          "feedback": "Correct. \"If I were\" shows unreality."
+        },
+        {
+          "letter": "D",
+          "text": "He will be president in the future.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The second conditional uses past tense to talk about present/future situations that are unreal, unlikely, or imaginary. \"If I were the president\" tells us that the speaker is NOT the president. Note that we use \"were\" for all subjects (I, he, she, it) in second conditional, not \"was\" — this is called the subjunctive mood.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v4",
+      "statement": "What time does the third conditional refer to?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The present.",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional is about the past."
+        },
+        {
+          "letter": "B",
+          "text": "The future.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "The past. It means she did NOT leave earlier, so she did NOT catch the bus.",
+          "is_correct": true,
+          "feedback": "Correct. The third conditional always refers to an unreal past."
+        },
+        {
+          "letter": "D",
+          "text": "It could be any time.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The third conditional always refers to an unreal past situation. \"If she had left earlier, she would have caught the bus\" implies: She did NOT leave earlier, and she did NOT catch the bus. We use this structure to imagine how things could have been different in the past. It expresses the opposite of what actually happened.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v5",
+      "statement": "Is Andrés's sentence a second conditional? Why?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, because \"had\" is past tense.",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional uses past tense."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because it talks about a real situation.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's hypothetical."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because it uses past simple (had) + would + infinitive (buy) to express an unreal present situation.",
+          "is_correct": true,
+          "feedback": "Correct. The structure matches the second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "No, because he doesn't say \"if I were.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"If I had\" is also correct for second conditional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The sentence \"If I had money, I would buy a new phone\" is a correct second conditional. It means: I don't have money now (unreal present), so I can't buy a phone. The structure is: If + past simple (had), would + base verb (buy). \"If I were\" is used with adjectives or nouns (\"If I were rich\"), but \"if I had\" is correct for possession.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v6",
+      "statement": "Which sentence correctly expresses regret about not studying?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I study, I would pass the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed structure."
+        },
+        {
+          "letter": "B",
+          "text": "If I studied, I would pass the exam.",
+          "is_correct": false,
+          "feedback": "This is second conditional, refers to present/future, not past regret."
+        },
+        {
+          "letter": "C",
+          "text": "If I had studied, I would have passed the exam.",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional expresses past regret."
+        },
+        {
+          "letter": "D",
+          "text": "If I have studied, I will pass the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a conditional structure."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "To express regret about a past action (or inaction), we use the third conditional. \"If I had studied\" (but I didn't), \"I would have passed\" (but I didn't). This sentence expresses the speaker's regret about not studying. The second conditional (\"If I studied\") would be about a hypothetical present situation, not a past one.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v7",
+      "statement": "What is the difference between S1 (first conditional) and S2 (second conditional)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S1 is about the past; S2 is about the present.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "There is no difference in meaning.",
+          "is_correct": false,
+          "feedback": "Incorrect. The meaning is different."
+        },
+        {
+          "letter": "C",
+          "text": "S1 expresses a real possibility (it might rain); S2 expresses an unlikely or imaginary situation.",
+          "is_correct": true,
+          "feedback": "Correct. First conditional is possible; second is hypothetical."
+        },
+        {
+          "letter": "D",
+          "text": "S1 is grammatically incorrect.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both are correct."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The first conditional (if + present, will) expresses a real possibility: \"If it rains\" means it might actually rain. The second conditional (if + past, would) expresses an unlikely or hypothetical situation: \"If it rained\" suggests that rain is unlikely or imaginary. The choice of conditional changes the likelihood the speaker assigns to the condition.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v8",
+      "statement": "What does this sentence tell us about what actually happened?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She knew about the party and she went.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"If I had known\" implies she didn't know."
+        },
+        {
+          "letter": "B",
+          "text": "She did NOT know about the party, and she did NOT go.",
+          "is_correct": true,
+          "feedback": "Correct. The third conditional expresses the opposite of reality."
+        },
+        {
+          "letter": "C",
+          "text": "She knew about the party but she didn't go.",
+          "is_correct": false,
+          "feedback": "Incorrect. The condition is about knowing, not about going."
+        },
+        {
+          "letter": "D",
+          "text": "She didn't know but she went anyway.",
+          "is_correct": false,
+          "feedback": "Incorrect. She didn't go."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional expresses the opposite of what happened. \"If I had known\" → She did NOT know. \"I would have gone\" → She did NOT go. Reality: She didn't know, and she didn't go. This is why the third conditional is called \"past unreal\" — it describes a past situation that is contrary to fact.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v9",
+      "statement": "Which sentence correctly uses \"were\" in a second conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I was you, I would study more.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"If I were you\" is the correct form."
+        },
+        {
+          "letter": "B",
+          "text": "If I were you, I would study more.",
+          "is_correct": true,
+          "feedback": "Correct. \"If I were\" is the subjunctive form."
+        },
+        {
+          "letter": "C",
+          "text": "If I were study, I would pass.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Were\" is not followed by a base verb."
+        },
+        {
+          "letter": "D",
+          "text": "If I was been you, I would study.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In the second conditional, the correct form is \"if I were\" (subjunctive mood), not \"if I was.\" Example: \"If I were you, I would accept the offer.\" This is true for all subjects: if I were, if he were, if she were, if it were. \"If I were you\" is a very common fixed expression used to give advice.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v10",
+      "statement": "What is special about this mixed conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is incorrect; both parts must be the same type.",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed conditionals are acceptable."
+        },
+        {
+          "letter": "B",
+          "text": "It is a normal second conditional.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "It is a normal third conditional.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It mixes third conditional (if clause about past) with second conditional (result about present).",
+          "is_correct": true,
+          "feedback": "Correct. The if clause refers to an unreal past, the result to the present."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mixed conditionals combine different time references. Here, \"if I had studied medicine\" (past unreal — I didn't study) is the third conditional if-clause, and \"I would be a doctor now\" (present unreal — I'm not a doctor) is the second conditional result clause. This is common when a past action (or inaction) has a present result.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v11",
+      "statement": "Is \"If she would have studied, she would have passed\" correct?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it is perfectly correct.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a common error."
+        },
+        {
+          "letter": "B",
+          "text": "No, but it's acceptable in formal writing.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's usually considered non-standard."
+        },
+        {
+          "letter": "C",
+          "text": "No, the correct form is \"If she had studied, she would have passed\" (no \"would\" in the if-clause).",
+          "is_correct": true,
+          "feedback": "Correct. \"Would\" should not be in the if-clause."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, because both clauses need \"would\".",
+          "is_correct": false,
+          "feedback": "Incorrect. Only the result clause uses \"would.\""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A common error is putting \"would\" in the if-clause. The correct structure is: If + past perfect (had studied), would have + past participle (would have passed). \"Would\" should only appear in the result clause, not the if-clause. This is a grammar rule for all conditional sentences.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-v12",
+      "statement": "Which sentence correctly uses a modal other than \"would\" in a conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I had more time, I could help you.",
+          "is_correct": false,
+          "feedback": "Correct. \"Could\" can replace \"would\" in second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "If I have money, I could buy it.",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional uses \"will\" or modals with present tense."
+        },
+        {
+          "letter": "C",
+          "text": "If I had studied, I could passed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" needs \"have\" + past participle."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C are correct.",
+          "is_correct": true,
+          "feedback": "Incorrect. Only A is correct."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "In conditional sentences, we can use \"could\" (ability/possibility) or \"might\" (probability) instead of \"would\" in the result clause. For second conditional: \"If I had more time, I could help you\" (ability) or \"If I saved money, I might buy a car\" (possibility). For third conditional: \"If I had studied, I could have passed\" or \"I might have passed.\"\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W03-conditional-type-2-3-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

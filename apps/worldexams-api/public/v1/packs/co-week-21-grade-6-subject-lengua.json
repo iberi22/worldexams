@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-21-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T20:41:20.905Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v1",
+      "statement": "¿Qué son los sinónimos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que se escriben igual pero tienen diferente significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de palabras homógrafas."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que tienen significado opuesto o contrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de antónimos."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras que tienen un significado igual o muy parecido, y pertenecen a la misma categoría gramatical.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sinónimos son palabras diferentes que comparten un significado similar. Por ejemplo: \"alegre\" y \"contento\" son sinónimos, ambos adjetivos. \"Caminar\" y \"andar\" son sinónimos, ambos verbos."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que suenan igual pero se escriben diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de palabras homófonas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sinónimos son palabras que comparten un significado semejante. Es importante recordar que no existen sinónimos perfectos: aunque dos palabras compartan significado, pueden tener matices diferentes (por ejemplo, \"bonito\" y \"hermoso\" tienen diferente intensidad), o pertenecer a registros distintos (formal vs. coloquial). Usar sinónimos enriquece la expresión oral y escrita.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v2",
+      "statement": "¿Qué son los antónimos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de sinónimos."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que tienen significados opuestos o contrarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Los antónimos son palabras que expresan ideas opuestas. Por ejemplo: \"grande\" y \"pequeño\", \"feliz\" y \"triste\", \"entrar\" y \"salir\". Pueden ser antónimos graduales (entre dos extremos hay un punto medio, como \"frío\" y \"caliente\") o antónimos complementarios (se niegan mutuamente, como \"vivo\" y \"muerto\")."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras que suenan parecido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe palabras parónimas."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que se escriben con las mismas letras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe anagramas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los antónimos expresan oposición de significados. Se clasifican en: antónimos graduales (oposición con grados intermedios: \"alto\" ↔ \"bajo\", existe \"medio\"), antónimos complementarios (uno excluye al otro: \"vivo\" ↔ \"muerto\", no hay estado intermedio), y antónimos recíprocos (uno implica al otro: \"dar\" ↔ \"recibir\"). Reconocer antónimos ayuda a comprender matices y contrastes en los textos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v3",
+      "statement": "Lee: \"La ciudad de Medellín es hermosa, con sus montañas verdes. Es un lugar precioso, lleno de gente amable y paisajes bellos.\" Las palabras \"hermosa\", \"precioso\" y \"bellos\" son:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antónimos, porque tienen significados opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son opuestos, comparten significado similar."
+        },
+        {
+          "letter": "B",
+          "text": "Homófonas, porque suenan parecido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suenan diferente entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Sinónimos, porque todas expresan la idea de belleza o algo agradable a la vista. En el contexto, \"hermosa\", \"precioso\" y \"bellos\" se refieren a cualidades estéticas positivas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres palabras pertenecen al mismo campo semántico (belleza) y funcionan como sinónimos contextuales, enriqueciendo la descripción de Medellín al evitar la repetición de la misma palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Parónimas, porque se parecen en escritura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se parecen en escritura ni sonido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sinónimos permiten evitar la repetición excesiva de palabras y enriquecer el texto. En este fragmento, el autor usó tres sinónimos diferentes (\"hermosa\", \"precioso\", \"bellos\") para describir la belleza de Medellín, logrando un texto más variado y agradable de leer. Los buenos escritores usan sinónimos para mantener el interés del lector.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v4",
+      "statement": "¿Cuál es el antónimo de \"generoso\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Amable\" no es opuesto a \"generoso\", puede ser un sinónimo parcial."
+        },
+        {
+          "letter": "B",
+          "text": "Bondadoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bondadoso\" es más un sinónimo que un antónimo."
+        },
+        {
+          "letter": "C",
+          "text": "Egoísta.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Generoso\" significa que da y comparte con otros; \"egoísta\" significa que solo piensa en sí mismo y no comparte. Son antónimos complementarios: una persona no puede ser generosa y egoísta al mismo tiempo respecto a la misma acción."
+        },
+        {
+          "letter": "D",
+          "text": "Simpático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Simpático\" no es opuesto a generoso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Encontrar antónimos requiere entender el significado exacto de la palabra. \"Generoso\" se refiere a la disposición a dar y compartir. Su opuesto directo es \"egoísta\" (negación a compartir). \"Tacaño\" también sería un antónimo válido (negación a dar bienes materiales). Es importante distinguir entre antónimos verdaderos y palabras que simplemente son diferentes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v5",
+      "statement": "Analiza el siguiente fragmento del poema \"Rima LIII\" de Gustavo Adolfo Bécquer: \"Volverán las oscuras golondrinas / en tu balcón sus nidos a colgar, / y, otra vez, con el ala a sus cristales / jugando llamarán. / Pero aquellas que el vuelo refrenaban / tu hermosura y mi dicha al contemplar... / aquellas no volverán.\" ¿Qué efecto produce el contraste entre \"volverán\" y \"no volverán\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce confusión en el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste es claro y buscado intencionalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error gramatical del poeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso intencional, no un error."
+        },
+        {
+          "letter": "C",
+          "text": "Crea un efecto de contraste temporal (pasado vs. futuro) que enfatiza la pérdida irreparable: aunque algunas cosas vuelven (las golondrinas), otras no volverán jamás (el amor perdido). El antónimo entre \"volverán\" y \"no volverán\" es el eje emocional del poema.",
+          "is_correct": true,
+          "feedback": "Correcto. Bécquer usa el antónimo gramatical (afirmación vs. negación del mismo verbo) para crear un contraste dramático. Las golondrinas volverán (la naturaleza es cíclica), pero el amor y la felicidad no volverán (los sentimientos no se repiten). Este recurso de antítesis es central en la poesía romántica."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el poeta no sabía si las golondrinas volverían.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poeta sabe que volverán unas y otras no, no hay duda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso literario de antónimos se llama antítesis. Consiste en contraponer dos ideas o palabras opuestas para crear un efecto expresivo. En este poema, la antítesis \"volverán / no volverán\" estructura todo el poema y expresa el tema central del romanticismo: la naturaleza sigue su ciclo, pero los sentimientos y experiencias humanas son irrepetibles.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v6",
+      "statement": "Clasifica el siguiente par: \"feliz\" y \"contento\".",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antónimos graduales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son opuestos, tienen significado similar."
+        },
+        {
+          "letter": "B",
+          "text": "Sinónimos, porque comparten el significado de \"sentir satisfacción o alegría\". Sin embargo, \"feliz\" expresa un estado más profundo y duradero, mientras que \"contento\" puede ser más momentáneo o superficial. Son sinónimos con matices diferenciales.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Feliz\" y \"contento\" son sinónimos (comparten el núcleo significativo de alegría), pero no son idénticos. \"Feliz\" sugiere una felicidad más profunda; \"contento\" puede referirse a una satisfacción más circunstancial. Reconocer estos matices es parte del dominio avanzado del vocabulario."
+        },
+        {
+          "letter": "C",
+          "text": "Homófonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suenan igual."
+        },
+        {
+          "letter": "D",
+          "text": "Homógrafas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se escriben igual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen diferentes tipos de sinonimia: total (cuando los significados son idénticos en todos los contextos, muy raro), parcial (comparten significado pero con matices diferentes, el más común), contextual (funcionan como sinónimos solo en determinados contextos), y de connotación (comparten sentido figurado). Aprender estos matices mejora la precisión comunicativa.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v7",
+      "statement": "Un estudiante escribió: \"El partido fue bueno. El equipo jugó bueno. El gol fue bueno. El portero tuvo una buena actuación.\" ¿Cómo puede mejorar el texto usando sinónimos de \"bueno\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El partido fue bueno. El equipo jugó bueno. El gol fue bueno. El portero tuvo una buena actuación.\" (dejarlo igual).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es repetitivo y pobre."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar \"bueno\" por \"malo\" en algunas partes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antónimos cambiarían el significado del texto."
+        },
+        {
+          "letter": "C",
+          "text": "\"El partido fue emocionante. El equipo jugó excelente. El gol fue espectacular. El portero tuvo una actuación destacada.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Se usaron sinónimos de \"bueno\" con diferentes matices: \"emocionante\" (bueno por ser entretenido), \"excelente\" (muy bueno), \"espectacular\" (bueno por ser impresionante) y \"destacada\" (buena por sobresalir). El texto ahora es más variado, preciso y agradable de leer."
+        },
+        {
+          "letter": "D",
+          "text": "\"El partido fue bueno y bonito. El equipo jugó bueno y bonito. El gol fue bueno y bonito.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agrega otra repetición sin resolver el problema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usar sinónimos es una técnica fundamental para mejorar la redacción. \"Bueno\" es una palabra muy general que puede sustituirse por términos más específicos según el contexto: \"excelente\", \"notable\", \"destacado\", \"emocionante\", \"espectacular\", \"magnífico\", \"sobresaliente\". Un buen escritor conoce múltiples sinónimos y elige el más preciso para cada situación.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v8",
+      "statement": "Lee: \"El candidato prometió mejorar la educación, pero sus oponentes aseguran que sus políticas empeorarán la situación.\" ¿Qué relación semántica existe entre \"mejorar\" y \"empeorar\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinonimia, porque ambos verbos hablan de cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablan de cambio, pero en direcciones opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "Homonimia, porque se parecen en estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambos tienen el prefijo \"em-\", eso no los hace homónimos."
+        },
+        {
+          "letter": "C",
+          "text": "Antonimia, porque expresan direcciones opuestas de cambio: \"mejorar\" es hacer que algo pase a ser mejor; \"empeorar\" es hacer que algo pase a ser peor. Son antónimos claros que el texto usa para crear contraste entre dos posturas políticas.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto usa intencionalmente el contraste entre \"mejorar\" y \"empeorar\" para oponer las dos visiones sobre la misma política educativa. Este recurso es común en textos argumentativos y periodísticos: presentar antónimos para contrastar posiciones."
+        },
+        {
+          "letter": "D",
+          "text": "Paronimia, porque suenan parecido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las parónimas suenan parecido por etimología común, pero la relación aquí es de significado opuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los antónimos son una herramienta poderosa en la argumentación porque crean contraste y clarifican posiciones. En este texto periodístico, el antónimo \"mejorar ↔ empeorar\" estructura el conflicto central: dos partes tienen evaluaciones opuestas de la misma propuesta. Identificar estos contrastes ayuda a comprender la postura del autor y la estructura del argumento.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v9",
+      "statement": "Un estudiante pregunta: \"¿Para qué sirve aprender sinónimos y antónimos si ya puedo comunicarme bien?\" ¿Cuál es la MEJOR respuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No sirve para nada, es solo un tema escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conocimiento de sinónimos y antónimos tiene aplicaciones prácticas importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve solo para aprobar exámenes de lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene utilidad más allá de los exámenes."
+        },
+        {
+          "letter": "C",
+          "text": "Conocer sinónimos y antónimos permite expresarse con mayor precisión y riqueza. Ayuda a evitar repeticiones, a elegir la palabra exacta para cada situación, a comprender matices de significado, a mejorar la comprensión lectora (entender palabras desconocidas por su contexto de oposición o similitud), y a redactar textos más variados y profesionales. Es una habilidad fundamental para la comunicación efectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio del vocabulario a través de sinónimos y antónimos mejora todas las competencias comunicativas: hablar, escribir, leer y escuchar. En el ámbito académico y profesional, la precisión léxica es valorada y diferenciadora. Además, ayuda en la preparación de pruebas como el ICFES Saber, donde el vocabulario es evaluado."
+        },
+        {
+          "letter": "D",
+          "text": "Sirve solo para ser poeta o escritor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es útil para cualquier persona, independientemente de su profesión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vocabulario es una herramienta de precisión. Mientras más palabras conozca una persona, más matices podrá expresar y comprender. Los sinónimos y antónimos son la puerta de entrada a un vocabulario rico y variado. En pruebas ICFES Saber, preguntas de sinónimos, antónimos y vocabulario contextual son frecuentes en la competencia de lectura crítica y lenguaje.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-v10",
+      "statement": "Debes crear un juego de cartas para practicar sinónimos y antónimos con 10 palabras. ¿Cuál de las siguientes propuestas es la MÁS efectiva pedagógicamente?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mazo con las mismas 10 palabras y sus definiciones del diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo repite definiciones sin práctica activa de sinónimos/antónimos."
+        },
+        {
+          "letter": "B",
+          "text": "10 cartas con palabras y 10 cartas con dibujos de su significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es válido para vocabulario básico pero no trabaja específicamente sinonimia y antonimia."
+        },
+        {
+          "letter": "C",
+          "text": "Un mazo de 30 cartas: 10 palabras base (ej: \"alegre\", \"grande\", \"rápido\", \"fácil\", \"nuevo\") + 10 cartas de sinónimos (\"contento\", \"enorme\", \"veloz\", \"sencillo\", \"reciente\") + 10 cartas de antónimos (\"triste\", \"pequeño\", \"lento\", \"difícil\", \"viejo\"). Los estudiantes deben emparejar cada palabra base con su sinónimo y con su antónimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta propuesta es pedagógicamente sólida porque: (1) es activa y participativa, (2) trabaja simultáneamente sinonimia y antonimia, (3) permite aprendizaje por asociación, (4) es escalable (se pueden agregar más palabras), (5) fomenta la discusión y el trabajo en equipo. El juego de cartas de tres tipos permite múltiples combinaciones de juego."
+        },
+        {
+          "letter": "D",
+          "text": "Un juego donde solo haya que escribir las palabras en orden alfabético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No trabaja sinónimos ni antónimos, solo orden alfabético."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aprendizaje activo mediante juegos es más efectivo que la memorización pasiva. Un juego de cartas con tres categorías (palabra base, sinónimo, antónimo) permite practicar las relaciones semánticas de forma lúdica y colaborativa. Esta metodología se alinea con los principios del aprendizaje significativo y las competencias del siglo XXI.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W21-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

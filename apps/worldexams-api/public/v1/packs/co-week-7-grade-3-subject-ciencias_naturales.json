@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.615Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v1",
+      "statement": "¿Cuál NO es un componente natural del suelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arena",
+          "is_correct": false,
+          "feedback": "Sí es componente."
+        },
+        {
+          "letter": "B",
+          "text": "Arcilla",
+          "is_correct": false,
+          "feedback": "Sí es componente."
+        },
+        {
+          "letter": "C",
+          "text": "Humus",
+          "is_correct": false,
+          "feedback": "Sí es componente importante."
+        },
+        {
+          "letter": "D",
+          "text": "Plástico reciclado",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un contaminante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El suelo tiene minerales (arena, arcilla, limo), materia orgánica (humus), agua y aire. El humus viene de la descomposición de plantas y animales y es esencial para la fertilidad.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v2",
+      "statement": "¿De dónde provienen los minerales del suelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas los toman."
+        },
+        {
+          "letter": "B",
+          "text": "De la descomposición de las rocas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por meteorización de rocas."
+        },
+        {
+          "letter": "C",
+          "text": "Del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aporta algo, pero la fuente principal son las rocas."
+        },
+        {
+          "letter": "D",
+          "text": "De los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo se forma por meteorización de rocas, proceso que toma miles de años. Agua, viento, temperatura y seres vivos descomponen las rocas en partículas. Suelos colombianos: arcillosos (Valle del Cauca), arenosos (Guajira), volcánicos (Eje Cafetero).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v3",
+      "statement": "¿Qué hacen las lombrices por el suelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Excavan túneles que airean el suelo y su excremento fertiliza",
+          "is_correct": true,
+          "feedback": "¡Correcto! Airean y producen humus."
+        },
+        {
+          "letter": "C",
+          "text": "Comen malas hierbas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comen materia orgánica."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan la arena",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las lombrices son 'ingenieras del suelo'. Sus galerías permiten aireación y drenaje. Su excremento (vermicompost) es rico en N, P y K. En Colombia, los campesinos consideran las lombrices señal de suelo fértil.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v4",
+      "statement": "¿Por qué los árboles protegen el suelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Las raíces sujetan el suelo y las copas amortiguan la lluvia",
+          "is_correct": true,
+          "feedback": "¡Correcto! Fijan el suelo y reducen impacto."
+        },
+        {
+          "letter": "C",
+          "text": "La sombra evita erosión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra sola no protege."
+        },
+        {
+          "letter": "D",
+          "text": "Producen oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El O₂ no protege."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los árboles previenen la erosión: raíces forman red que sujeta partículas, copas reducen impacto de lluvia, hojas caídas forman capa protectora, troncos reducen viento. En zonas cafeteras se siembran árboles de sombrío.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v5",
+      "statement": "¿Cuál es el suelo más adecuado para cultivar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo arena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Drena rápido, pocos nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Solo arcilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se compacta."
+        },
+        {
+          "letter": "C",
+          "text": "Suelo franco (mezcla equilibrada)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Buena retención de agua, nutrientes y drenaje."
+        },
+        {
+          "letter": "D",
+          "text": "Solo grava",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El suelo franco tiene mezcla equilibrada de arena (drenaje), arcilla (retención), limo (textura) y humus (fertilidad). Suelos volcánicos del Eje Cafetero y aluviales del Valle del Cauca son ejemplos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v6",
+      "statement": "¿Cuál deja pasar el agua más rápido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El arenoso",
+          "is_correct": true,
+          "feedback": "¡Correcto! Partículas grandes, espacios grandes."
+        },
+        {
+          "letter": "B",
+          "text": "El arcilloso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Partículas microscópicas."
+        },
+        {
+          "letter": "C",
+          "text": "El que tiene humus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retiene agua."
+        },
+        {
+          "letter": "D",
+          "text": "El limoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permeabilidad intermedia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La textura determina la permeabilidad. Arena: partículas grandes (0.05-2mm), espacios grandes, agua pasa rápido. Arcilla: partículas <0.002mm, compactas, baja permeabilidad. Suelo franco: permeabilidad intermedia, ideal para cultivos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v7",
+      "statement": "¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arcilla es más oscura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no determina."
+        },
+        {
+          "letter": "B",
+          "text": "Las partículas de arcilla son tan pequeñas que el agua no se infiltra rápido",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se compactan y bloquean el paso."
+        },
+        {
+          "letter": "C",
+          "text": "La arcilla repele el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Hay más lombrices allí",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La arcilla tiene partículas <0.002mm. Al compactarse, los espacios entre ellas son muy pequeños. El agua no puede infiltrarse rápido y se acumula en la superficie. En cambio, el suelo arenoso permite infiltración rápida.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v8",
+      "statement": "¿Cuál es la función principal del abono?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oscurecer el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Aportar nutrientes (NPK) para que las plantas crezcan",
+          "is_correct": true,
+          "feedback": "¡Correcto! Nitrógeno, fósforo, potasio."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar plagas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para plagas se usan pesticidas."
+        },
+        {
+          "letter": "D",
+          "text": "Endurecer el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los fertilizantes aportan nutrientes esenciales: N para hojas verdes, P para raíces y flores, K para frutos y resistencia. En Colombia se usan abonos orgánicos (compost, gallinaza) y químicos.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v9",
+      "statement": "¿Por qué el exceso de sal daña las plantas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sal embellece el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La sal extrae agua de las raíces por ósmosis, deshidratando la planta",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua sale de las raíces hacia el suelo salino."
+        },
+        {
+          "letter": "C",
+          "text": "La sal nutre demasiado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de sales es tóxico."
+        },
+        {
+          "letter": "D",
+          "text": "La sal endurece el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el suelo tiene mucha sal, el agua del suelo tiene mayor concentración de sales que el interior de las raíces. Por ósmosis, el agua sale de la raíz hacia el suelo, deshidratando la planta (estrés salino). En la costa Caribe colombiana esto afecta cultivos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-v10",
+      "statement": "¿Qué opinas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto. El suelo es esencial para la vida: produce alimentos, filtra agua, almacena carbono y es hábitat de millones de organismos",
+          "is_correct": true,
+          "feedback": "¡Excelente! El suelo es un recurso vital."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve para que jueguen los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Sirve solo para construir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mucho más que eso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo es un recurso natural no renovable esencial. Produce el 95% de nuestros alimentos, filtra y purifica el agua, almacena carbono (mitigando cambio climático), es hábitat de innumerables organismos y soporta todos los ecosistemas terrestres. En Colombia, el suelo sostiene la agricultura del café, flores, frutas y la biodiversidad.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W07-suelo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.538Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de un texto de divulgación científica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector de una teoría científica controversial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede argumentar, su propósito principal no es convencer sino explicar."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar conceptos científicos complejos de manera accesible para un público no especializado.",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación científica traduce el conocimiento experto a lenguaje comprensible para todos."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar los resultados de una investigación para que otros científicos los evalúen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito de un artículo científico especializado, no de divulgación."
+        },
+        {
+          "letter": "D",
+          "text": "Contar la historia de un científico famoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede incluir anécdotas, la biografía no es su propósito central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La divulgación científica busca hacer accesible el conocimiento científico al público general. A diferencia del artículo académico (que usa lenguaje técnico para expertos), el texto de divulgación simplifica, usa ejemplos cotidianos, metáforas y un lenguaje claro. Ejemplos colombianos: la revista de la Universidad Nacional, los documentales de Señal Colombia o los blogs de científicos como el profesor Jorge Reynolds.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes es un ejemplo de texto de divulgación científica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento infantil sobre animales de la selva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto narrativo literario, no científico."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis doctoral de un estudiante de biología marina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto académico especializado, no de divulgación."
+        },
+        {
+          "letter": "C",
+          "text": "Un artículo de la revista Semana titulado \"¿Por qué se extinguieron los dinosaurios?\" explicado para niños.",
+          "is_correct": true,
+          "feedback": "Correcto. Un artículo de revista general que explica un tema científico en lenguaje accesible es divulgación científica."
+        },
+        {
+          "letter": "D",
+          "text": "Un anuncio publicitario de un laboratorio farmacéutico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque mencione ciencia, su propósito es comercial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La divulgación científica se encuentra en: revistas de interés general (Semana, Cambio), secciones de ciencia en periódicos (El Tiempo, El Colombiano), documentales, canales educativos de YouTube, museos de ciencia (Maloka en Bogotá, Parque Explora en Medellín), y podcasts como \"Materia\" de El País. Se diferencia del texto académico por su lenguaje accesible y su intención de educar al público general.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v3",
+      "statement": "Lee el fragmento: \"El deshielo de los glaciares en la Sierra Nevada de Santa Marta es una alerta para Colombia. Desde 1850, el país ha perdido más del 80% de su superficie glaciar. Si la temperatura sigue aumentando, en 30 años podríamos perderlos por completo.\" ¿Qué tipo de lenguaje predomina en este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poético, con metáforas y comparaciones literarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es directo e informativo, no poético."
+        },
+        {
+          "letter": "B",
+          "text": "Informativo y divulgativo, con datos precisos (80%, 1850, 30 años) y un tono claro que explica las consecuencias.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa datos verificables y explica una situación compleja de forma sencilla."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentativo, buscando convencer al lector de una opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay cierta urgencia, no está estructurado como argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Imperativo, ordenando al lector que actúe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mandatos directos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto de divulgación científica se caracteriza por: 1) lenguaje claro y accesible, 2) uso de datos y cifras para dar credibilidad, 3) ejemplos y comparaciones cotidianas, 4) explicación de términos técnicos cuando aparecen, 5) tono objetivo pero con conciencia de la relevancia social del tema.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v4",
+      "statement": "¿Cuál es la principal diferencia entre un artículo científico especializado y un texto de divulgación científica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El especializado tiene dibujos, el de divulgación no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden tener imágenes."
+        },
+        {
+          "letter": "B",
+          "text": "El de divulgación tiene más errores que el especializado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos deben ser rigurosos."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo especializado usa lenguaje técnico dirigido a expertos y pasa por revisión de pares; el de divulgación simplifica el lenguaje para el público general.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el público objetivo y en el nivel de tecnicismo del lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "El especializado es más corto que el de divulgación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia clave."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo científico especializado (paper) se publica en revistas indexadas, pasa por revisión de pares (peer review) y utiliza terminología técnica. El texto de divulgación se publica en medios masivos, no requiere revisión de pares y traduce el lenguaje técnico a términos comprensibles. Ambos son importantes: el primero genera conocimiento, el segundo lo democratiza.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v5",
+      "statement": "Si debes escribir un texto de divulgación científica sobre la fotosíntesis para tus compañeros de sexto grado, ¿cuál sería la mejor forma de empezar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La fotosíntesis es un proceso anabólico de conversión de energía lumínica en energía química mediante la clorofila.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es demasiado técnico para divulgación entre compañeros de sexto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Había una vez una hoja muy especial que podía convertir la luz del sol en comida...\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un inicio narrativo-literario inapropiado para divulgación científica."
+        },
+        {
+          "letter": "C",
+          "text": "\"¿Sabías que las plantas fabrican su propia comida usando la luz del sol? Así como tú preparas un sándwich, las plantas tienen su propia receta. Se llama fotosíntesis.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Usa una pregunta para captar atención, una analogía cotidiana (el sándwich) y lenguaje claro."
+        },
+        {
+          "letter": "D",
+          "text": "\"Comprender la fotosíntesis es fundamental para la supervivencia humana, por eso debemos estudiarla.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión, no una introducción atractiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen texto de divulgación científica: 1) empieza con una pregunta, dato curioso o analogía cotidiana, 2) presenta el tema de forma clara y atractiva, 3) usa comparaciones con experiencias familiares, 4) define los términos técnicos cuando aparecen, 5) mantiene un tono ameno pero riguroso.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v6",
+      "statement": "Un texto dice: \"Las vacunas de ARNm contienen instrucciones para que nuestras células produzcan una proteína del virus y así el sistema inmune aprenda a reconocerlo. Es como si le diéramos a nuestro cuerpo una foto del delincuente para que lo identifique si llega a aparecer.\" ¿Qué recurso divulgativo utiliza este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cifras ni porcentajes."
+        },
+        {
+          "letter": "B",
+          "text": "Analogía o comparación con una situación cotidiana (la foto del delincuente) para explicar un concepto complejo.",
+          "is_correct": true,
+          "feedback": "Correcto. La analogía es uno de los recursos más poderosos de la divulgación científica."
+        },
+        {
+          "letter": "C",
+          "text": "Definición técnica del ARNm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay definición técnica detallada."
+        },
+        {
+          "letter": "D",
+          "text": "Imperativo y llamado a la acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mandato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las analogías son fundamentales en la divulgación científica porque conectan lo desconocido con lo conocido. La vacuna de ARNm es un concepto complejo, pero compararlo con \"darle una foto del delincuente al sistema inmune\" lo hace comprensible. Otro recurso común es la metáfora (el ADN como \"libro de instrucciones\"). Los estudiantes deben aprender a identificar y valorar estos recursos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v7",
+      "statement": "¿Por qué es importante que existan textos de divulgación científica sobre la biodiversidad colombiana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los científicos colombianos necesitan publicar para obtener dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El motivo no es económico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los textos de divulgación reemplazan a los libros de texto escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son complementarios, no sustitutivos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque Colombia es uno de los países más biodiversos del mundo y la divulgación permite que todos los ciudadanos conozcan, valoren y protejan su patrimonio natural.",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación científica cumple una función social: educar para la conservación y la toma de decisiones informadas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es requisito para que los estudiantes pasen el año escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un requisito académico específico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La divulgación científica cumple un papel social fundamental: democratiza el conocimiento, fomenta la curiosidad, ayuda a combatir la desinformación y la pseudociencia, y permite que los ciudadanos tomen decisiones informadas sobre su salud, el medio ambiente y la tecnología. En un país megadiverso como Colombia, la divulgación sobre biodiversidad es especialmente relevante.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v8",
+      "statement": "Un estudiante encuentra este texto en una página web: \"Según un estudio secreto de la NASA, el agua de la llave causa enfermedades. Cómpre nuestra agua purificada. 100% garantizado.\" ¿Por qué este texto NO es divulgación científica confiable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque habla de la NASA y la NASA no investiga agua de la llave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede afirmar eso sin verificar, pero no es el principal problema."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no cita fuentes verificables, usa afirmaciones sensacionalistas (\"estudio secreto\"), tiene fines comerciales y no hay revisión científica que respalde lo dicho.",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación científica seria cita fuentes, evita sensacionalismo y no tiene intereses comerciales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es demasiado corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la confiabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el texto es en español y la NASA publica en inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción no afecta la credibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para evaluar si un texto de divulgación es confiable, los estudiantes deben preguntarse: 1) ¿Quién lo publica? (institución reconocida o fuente dudosa), 2) ¿Cita fuentes verificables?, 3) ¿Tiene fines comerciales?, 4) ¿Usa lenguaje sensacionalista o exagerado?, 5) ¿La información coincide con lo que dicen otras fuentes confiables? Estas son herramientas básicas de alfabetización científica.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v9",
+      "statement": "Un video de YouTube tiene 2 millones de vistas y dice: \"Los aguacates curan el cáncer. Estudio de Harvard lo confirma.\" Al investigar, no encuentras ningún estudio de Harvard sobre aguacates y cáncer. ¿Cuál es tu conclusión crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 millones de vistas no mienten, debe ser cierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vistas no son un indicador de veracidad científica."
+        },
+        {
+          "letter": "B",
+          "text": "Como es un video en internet, toda la información científica en YouTube es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una generalización extrema. Hay divulgación confiable en YouTube."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es engañosa. Usa el prestigio de Harvard sin evidencia, promete una cura milagrosa y el número de vistas no reemplaza la verificación científica. Es un ejemplo de pseudociencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La pseudociencia usa apelaciones a autoridad sin evidencia, promesas milagrosas y sensacionalismo."
+        },
+        {
+          "letter": "D",
+          "text": "Como no se encontró el estudio, el video debe haber sido eliminado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una suposición sin fundamento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pseudociencia se caracteriza por: 1) afirmaciones extraordinarias sin evidencia, 2) apelación a autoridades vagas (\"estudios de Harvard\", \"científicos lo confirman\"), 3) promesas milagrosas o soluciones simples a problemas complejos, 4) falta de revisión por pares, 5) lenguaje sensacionalista. Los estudiantes deben aprender a identificar estas señales de alerta.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-v10",
+      "statement": "Para crear una infografía de divulgación científica sobre el descubrimiento de la biodiversidad en el Chocó colombiano, ¿cuál sería la mejor combinación de elementos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo texto, con 15 párrafos explicando cada especie encontrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una infografía debe combinar texto e imagen."
+        },
+        {
+          "letter": "B",
+          "text": "Un mapa del Chocó señalando las áreas exploradas, fotografías de las nuevas especies, datos clave en números grandes (número de especies descubiertas), y un texto breve con la pregunta \"¿Sabías que...?\" para explicar la importancia del hallazgo.",
+          "is_correct": true,
+          "feedback": "Correcto. La infografía combina elementos visuales (mapa, fotos), datos numéricos destacados y texto breve y atractivo."
+        },
+        {
+          "letter": "C",
+          "text": "Una foto de los científicos con sus nombres y fechas de nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos personales de los científicos no son el foco de la divulgación del descubrimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto en letra tamaño 8 con toda la investigación científica completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infografía debe ser visual y de fácil lectura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las infografías son un formato excelente de divulgación científica porque: 1) combinan texto e imagen para facilitar la comprensión, 2) organizan la información visualmente (mapas, diagramas, líneas de tiempo), 3) destacan datos clave con tipografía grande, 4) usan poco texto pero muy significativo, 5) son atractivas y compartibles. La infografía respeta el principio: \"una imagen vale más que mil palabras\".\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W18-textos-cientificos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

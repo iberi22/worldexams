@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-29-grade-6-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.200Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v1",
+      "statement": "What is the structure of passive voice?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "subject + verb + object",
+          "is_correct": false,
+          "feedback": "Es activa."
+        },
+        {
+          "letter": "B",
+          "text": "subject + have + past participle",
+          "is_correct": false,
+          "feedback": "Es present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "subject + be + past participle",
+          "is_correct": true,
+          "feedback": "Correcto. Pasiva = verbo to be + past participle."
+        },
+        {
+          "letter": "D",
+          "text": "subject + will + verb",
+          "is_correct": false,
+          "feedback": "Es futuro simple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Voz pasiva: sujeto + be (conjugado) + past participle + (by + agente). \"The letter is written by Maria.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v2",
+      "statement": "When do we use passive voice?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To emphasize the subject.",
+          "is_correct": false,
+          "feedback": "La activa enfatiza el sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "When the action is more important than who did it.",
+          "is_correct": true,
+          "feedback": "Correcto. O cuando no sabemos quién lo hizo."
+        },
+        {
+          "letter": "C",
+          "text": "Only in questions.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Only in present tense.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pasiva se usa cuando: (1) el agente es obvio/desconocido: \"My phone was stolen.\" (2) queremos enfatizar el objeto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v3",
+      "statement": "Complete in passive: \"The museum is visited by many tourists every year.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is visiting",
+          "is_correct": false,
+          "feedback": "Activo, no pasivo."
+        },
+        {
+          "letter": "B",
+          "text": "is visited",
+          "is_correct": true,
+          "feedback": "Correcto. Present simple passive: is + visited."
+        },
+        {
+          "letter": "C",
+          "text": "was visited",
+          "is_correct": false,
+          "feedback": "Pasado simple pasivo, no presente."
+        },
+        {
+          "letter": "D",
+          "text": "is visit",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es past participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present simple passive: am/is/are + past participle. \"The museum is visited by many tourists.\"\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v4",
+      "statement": "Complete past passive: \"Bogotá was founded in 1538.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is founded",
+          "is_correct": false,
+          "feedback": "Presente, pero es histórico."
+        },
+        {
+          "letter": "B",
+          "text": "was founded",
+          "is_correct": true,
+          "feedback": "Correcto. Past simple passive: was + founded."
+        },
+        {
+          "letter": "C",
+          "text": "was found",
+          "is_correct": false,
+          "feedback": "\"Found\" es de \"find\" (encontrar), no de \"found\" (fundar)."
+        },
+        {
+          "letter": "D",
+          "text": "founded",
+          "is_correct": false,
+          "feedback": "Activo, no pasivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past simple passive: was/were + past participle. \"Bogotá was founded in 1538 by Gonzalo Jiménez de Quesada.\"\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v5",
+      "statement": "Active: \"The chef prepares the bandeja paisa.\" Passive:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The chef is prepared by the bandeja paisa.",
+          "is_correct": false,
+          "feedback": "El sujeto activo se convirtió en objeto."
+        },
+        {
+          "letter": "B",
+          "text": "The bandeja paisa is prepared by the chef.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "The bandeja paisa was prepared by the chef.",
+          "is_correct": false,
+          "feedback": "Tiempo incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "The chef prepares the bandeja paisa.",
+          "is_correct": false,
+          "feedback": "Sigue en activa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Activa -> Pasiva: el objeto se vuelve sujeto, el verbo cambia a be + past participle.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v6",
+      "statement": "Question in passive: \"Who was invited to the party?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "did invite",
+          "is_correct": false,
+          "feedback": "Activo."
+        },
+        {
+          "letter": "B",
+          "text": "was invited",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "is invite",
+          "is_correct": false,
+          "feedback": "Past participle needed."
+        },
+        {
+          "letter": "D",
+          "text": "invited",
+          "is_correct": false,
+          "feedback": "Activo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Preguntas en pasiva: Was/Were + sujeto + past participle?\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v7",
+      "statement": "Why omit the agent? \"The museum was built in 1950.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The agent is important.",
+          "is_correct": false,
+          "feedback": "Si fuera importante, lo incluiríamos."
+        },
+        {
+          "letter": "B",
+          "text": "The agent is obvious, so it's optional.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "The agent cannot be known.",
+          "is_correct": false,
+          "feedback": "Sabemos quién construye museos."
+        },
+        {
+          "letter": "D",
+          "text": "It is always required.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agente (by + persona) se omite cuando es obvio o no importante.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v8",
+      "statement": "Best sentence to describe a historical fact about Ciudad Perdida:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Workers built the museum in colonial times.",
+          "is_correct": false,
+          "feedback": "Activa."
+        },
+        {
+          "letter": "B",
+          "text": "The museum was built during the colonial period.",
+          "is_correct": true,
+          "feedback": "Correcto. Pasiva que enfatiza el lugar."
+        },
+        {
+          "letter": "C",
+          "text": "The museum is built by workers.",
+          "is_correct": false,
+          "feedback": "Presente, pero es histórico."
+        },
+        {
+          "letter": "D",
+          "text": "The colonial period built the museum.",
+          "is_correct": false,
+          "feedback": "Ilógico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hechos históricos, la pasiva es ideal cuando el agente es obvio.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v9",
+      "statement": "Which sentence has a passive voice error?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The homework is done by the student.",
+          "is_correct": false,
+          "feedback": "Correcta."
+        },
+        {
+          "letter": "B",
+          "text": "The car was washed yesterday.",
+          "is_correct": false,
+          "feedback": "Correcta. Agente omitido."
+        },
+        {
+          "letter": "C",
+          "text": "The cake was bake by my mom.",
+          "is_correct": true,
+          "feedback": "Error. \"Bake\" debe ser \"baked\"."
+        },
+        {
+          "letter": "D",
+          "text": "The letters are delivered every morning.",
+          "is_correct": false,
+          "feedback": "Correcta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Error: en pasiva necesitamos el past participle del verbo. \"Bake\" -> \"baked\".\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-v10",
+      "statement": "Create a passive sentence about San Agustín:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourists visit the museum every year.",
+          "is_correct": false,
+          "feedback": "Activa."
+        },
+        {
+          "letter": "B",
+          "text": "The museum is visited by thousands of tourists every year.",
+          "is_correct": true,
+          "feedback": "Correcto. Present simple passive."
+        },
+        {
+          "letter": "C",
+          "text": "The museum was visit by tourists.",
+          "is_correct": false,
+          "feedback": "Past participle incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Tourists are visited the museum.",
+          "is_correct": false,
+          "feedback": "Cambió el significado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para crear una oración pasiva: objeto -> sujeto, be + past participle del verbo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W29-passive-voice-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

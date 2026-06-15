@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-matematicas",
+    "generated_at": "2026-06-15T20:41:21.354Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre los números enteros es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de los números enteros incluye los números naturales, el cero y los números negativos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los enteros (ℤ) incluyen los naturales (ℕ), el cero y los negativos."
+        },
+        {
+          "letter": "B",
+          "text": "Los números enteros son solo los números positivos y el cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso serían los números naturales incluyendo el cero."
+        },
+        {
+          "letter": "C",
+          "text": "Los números enteros incluyen fracciones y decimales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fracciones y decimales son números racionales, no enteros."
+        },
+        {
+          "letter": "D",
+          "text": "Los números enteros son únicamente los números negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enteros también incluyen positivos y el cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conjunto de los números enteros (ℤ) es una ampliación de los números naturales (ℕ) que incluye los números negativos, permitiendo representar deudas, temperaturas bajo cero y profundidades. Es fundamental para comprender operaciones algebraicas más avanzadas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v2",
+      "statement": "¿Cuántos grados descendió la temperatura desde la mañana hasta el atardecer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la operación: 7 - (-3) = 10, no 4."
+        },
+        {
+          "letter": "B",
+          "text": "10°C",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es 7 - (-3) = 7 + 3 = 10 grados."
+        },
+        {
+          "letter": "C",
+          "text": "7°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debes calcular la diferencia total, no solo el valor inicial."
+        },
+        {
+          "letter": "D",
+          "text": "-10°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. El descenso de temperatura es una magnitud positiva (10°C de cambio)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular la diferencia entre dos temperaturas, una positiva (7°C) y otra negativa (-3°C), se resta el valor final del inicial: 7 - (-3). Al restar un número negativo, se aplica la regla de signos: menos por menos es más, resultando en 7 + 3 = 10°C de descenso.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v3",
+      "statement": "¿Cuál es el saldo de Carlos después del retiro del martes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$17.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El saldo es negativo porque retiró más de lo que tenía."
+        },
+        {
+          "letter": "B",
+          "text": "$107.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar: 45000 - 62000 = -17000."
+        },
+        {
+          "letter": "C",
+          "text": "-$17.000",
+          "is_correct": true,
+          "feedback": "Correcto. 45.000 - 62.000 = -17.000, un saldo negativo o sobregiro."
+        },
+        {
+          "letter": "D",
+          "text": "-$107.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la operación: 45000 - 62000 = -17000, no -107000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta situación cotidiana muestra la utilidad de los números negativos. Al retirar más dinero del disponible, el saldo se vuelve negativo (sobregiro). La operación 45.000 - 62.000 = -17.000 representa una deuda de $17.000.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v4",
+      "statement": "¿Cuántos pisos de diferencia hay entre el apartamento de Valentina y el de su hermano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 pisos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una simple resta de valores absolutos: 8 - 3 = 5."
+        },
+        {
+          "letter": "B",
+          "text": "8 pisos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el piso de Valentina."
+        },
+        {
+          "letter": "C",
+          "text": "11 pisos",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es 8 - (-3) = 8 + 3 = 11 pisos."
+        },
+        {
+          "letter": "D",
+          "text": "3 pisos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el sótano sin contar el recorrido completo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la distancia entre dos puntos en una recta numérica, se resta el menor del mayor: 8 - (-3) = 11. Visualmente, del sótano 3 al piso 8 hay 11 niveles: subir 3 niveles del sótano a la planta baja, y luego 8 pisos adicionales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v5",
+      "statement": "¿Cuál es el orden correcto de estos números de menor a mayor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8, -5, -1, 0, 3, 4",
+          "is_correct": false,
+          "feedback": "Correcto. Estos números están ordenados de menor a mayor en la recta numérica."
+        },
+        {
+          "letter": "B",
+          "text": "4, 3, 0, -1, -5, -8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el orden de mayor a menor, no de menor a mayor."
+        },
+        {
+          "letter": "C",
+          "text": "-8, 4, -5, 3, -1, 0",
+          "is_correct": true,
+          "feedback": "Incorrecto. No respeta el orden en la recta numérica."
+        },
+        {
+          "letter": "D",
+          "text": "0, -1, 3, -5, 4, -8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números negativos deben ir antes que los positivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la recta numérica, los números aumentan de izquierda a derecha. Los números negativos son menores que el cero y entre ellos, el que tiene mayor valor absoluto es más pequeño. Así, -8 < -5 < -1 < 0 < 3 < 4.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v6",
+      "statement": "¿Cuál es el resultado de la operación (-15) + 8 - (-3) × 2?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recuerda la jerarquía de operaciones: primero la multiplicación."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": true,
+          "feedback": "Correcto. (-15) + 8 - (-3) × 2 = -15 + 8 - (-6) = -15 + 8 + 6 = -1."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parece que resolviste de izquierda a derecha sin respetar jerarquía."
+        },
+        {
+          "letter": "D",
+          "text": "-17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la regla de signos en la multiplicación: (-3) × 2 = -6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver operaciones combinadas con enteros se debe respetar la jerarquía: primero multiplicaciones y divisiones, luego sumas y restas. La multiplicación (-3) × 2 = -6. Luego se resuelve: -15 + 8 - (-6) = -15 + 8 + 6 = -1. La regla de signos indica que -(-6) = +6.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v7",
+      "statement": "¿Qué número debe ir en el cuadrado para que se cumpla la igualdad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. -4 + (-8) = -12, no 12."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. 20 + (-8) = 12. Al despejar, x = 12 - (-8) = 12 + 8 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 + (-8) = -4, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "-20",
+          "is_correct": false,
+          "feedback": "Incorrecto. -20 + (-8) = -28, no 12."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el valor desconocido en una ecuación con enteros, se despeja la incógnita: x + (-8) = 12 → x = 12 - (-8) → x = 12 + 8 = 20. Recuerda que restar un número negativo equivale a sumar su valor absoluto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v8",
+      "statement": "¿Cuál es el error en la operación de Sebastián?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado debería ser 21 negativo, pero está bien escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación de dos negativos da positivo."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado debería ser 21 positivo, porque menos por menos es más.",
+          "is_correct": true,
+          "feedback": "Correcto. (-7) × (-3) = +21 por la regla de signos."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado debería ser -10, porque se suman los números.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman, se multiplican."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado debería ser 10, porque -7 + (-3) = -10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió multiplicación con suma de enteros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de signos en multiplicación establece que el producto de dos números con el mismo signo es positivo. Por tanto, (-7) × (-3) = +21. Es un error común asumir que la multiplicación de negativos da negativo, cuando en realidad es el producto de signos diferentes el que da negativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v9",
+      "statement": "¿Es correcta la afirmación de Andrés?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque n - (-5) = n + 5, que siempre es mayor que n + 3.",
+          "is_correct": true,
+          "feedback": "Correcto. n + 5 > n + 3 para cualquier n entero."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque depende del valor de n.",
+          "is_correct": false,
+          "feedback": "Incorrecto. n + 5 siempre es 2 unidades mayor que n + 3, sin importar n."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque restar un negativo es lo mismo que restar un positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto en la explicación. Restar negativo suma, no resta."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque n + 5 es menor que n + 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 > 3, por lo que n + 5 > n + 3 para cualquier n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al simplificar n - (-5) obtenemos n + 5. Comparando con n + 3, vemos que n + 5 = n + 3 + 2, por lo que es siempre 2 unidades mayor, independientemente del valor de n. Este tipo de razonamiento algebraico es fundamental para comprender relaciones entre expresiones.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v10",
+      "statement": "¿Cuál es la respuesta correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a + b, porque -3 + (-7) = -10 y (-3) × (-7) = 21, y 21 > -10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación está al revés."
+        },
+        {
+          "letter": "B",
+          "text": "a × b, porque (-3) + (-7) = -10 y (-3) × (-7) = 21, y 21 > -10.",
+          "is_correct": true,
+          "feedback": "Correcto. La multiplicación da +21, mayor que -10."
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales, porque -10 = 21.",
+          "is_correct": false,
+          "feedback": "Incorrecto. -10 y 21 no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "a + b, porque la suma siempre es mayor que la multiplicación con negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla general no aplica aquí porque el producto de dos negativos es positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de dos números negativos es negativa: -3 + (-7) = -10. Sin embargo, el producto de dos números negativos es positivo: (-3) × (-7) = 21. Como 21 > -10, la expresión a × b es mayor. Este ejemplo muestra cómo las operaciones con enteros pueden dar resultados contraintuitivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v11",
+      "statement": "¿Cuál es el resultado de |−8| + |5| − |−3|?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-6",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto siempre es positivo, no puede dar negativo."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. |−8| = 8, |5| = 5, |−3| = 3. 8 + 5 - 3 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste todos los valores sin considerar la resta: 8 + 5 + 3 = 16."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la definición de valor absoluto como distancia desde cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor absoluto de un número entero representa su distancia desde el cero en la recta numérica, siempre un número no negativo. |−8| = 8 (está a 8 unidades del cero), |5| = 5, |−3| = 3. Luego se resuelve la operación: 8 + 5 - 3 = 10.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes conclusiones es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos factores son positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Positivo × Positivo = Positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos factores son negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negativo × Negativo = Positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Los factores tienen signos diferentes: uno es positivo y el otro negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Solo cuando los signos son diferentes el producto es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Al menos uno de los factores es cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si un factor es cero, el producto sería cero, no negativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla de signos en multiplicación establece: positivo × positivo = positivo; negativo × negativo = positivo; positivo × negativo = negativo. Por lo tanto, para que un producto sea negativo, los factores deben tener signos opuestos. Además, la condición \"diferentes de cero\" descarta que el producto sea cero.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

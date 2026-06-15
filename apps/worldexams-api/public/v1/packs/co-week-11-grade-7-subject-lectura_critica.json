@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-11-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.630Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v1",
+      "statement": "¿Qué es una presuposición en el lenguaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La información que el texto afirma explícitamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es información explícita, no presupuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Un supuesto que se da por verdadero antes de afirmar algo, y que permanece verdadero incluso si la afirmación se niega.",
+          "is_correct": true,
+          "feedback": "Correcto. Las presuposiciones sobreviven a la negación."
+        },
+        {
+          "letter": "C",
+          "text": "Una opinión personal del autor sin fundamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las presuposiciones no son opiniones."
+        },
+        {
+          "letter": "D",
+          "text": "Una pregunta retórica que el autor hace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una pregunta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las presuposiciones son supuestos que se activan al usar ciertas palabras o estructuras. Una característica clave es que sobreviven a la negación: si digo \"El rey de Francia es calvo\", presupongo que existe un rey de Francia. Si niego la frase (\"El rey de Francia NO es calvo\"), la presuposición de que existe un rey de Francia sigue siendo verdadera. Identificar presuposiciones es fundamental para la lectura crítica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v2",
+      "statement": "¿Qué presuposición hay en esta frase?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los estudiantes terminaron la tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase solo se aplica a quienes la terminaron."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay estudiantes que terminaron la tarea y otros que no.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Los que terminaron\" presupone que hay un grupo que sí y otro que no."
+        },
+        {
+          "letter": "C",
+          "text": "Que el recreo será divertido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presupone nada sobre el recreo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tarea era fácil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información sobre la dificultad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión \"los que terminaron\" (una cláusula de relativo especificativa) presupone que existe un subgrupo de estudiantes que terminó la tarea, y por implicación, que hay otro subgrupo que no. Esta presuposición se mantiene incluso si la frase se niega: \"Los estudiantes que terminaron la tarea NO pueden salir\" sigue presuponiendo que hay estudiantes que terminaron. Las descripciones definidas son uno de los principales activadores de presuposiciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v3",
+      "statement": "¿Qué presuposición hay en esta afirmación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Colombia tiene la mejor posición geográfica del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Aprovechar mejor\" no presupone que sea la mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Que Colombia tiene una posición geográfica favorable que actualmente no está aprovechando al máximo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Debería aprovechar mejor\" presupone que hay capacidad de mejora."
+        },
+        {
+          "letter": "C",
+          "text": "Que Colombia no tiene posición geográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es absurdo."
+        },
+        {
+          "letter": "D",
+          "text": "Que otros países envidian la posición de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presupone eso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos como \"debería\", \"tendría que\", \"podría\" (verbos modales en condicional) activan presuposiciones sobre el estado actual. \"Debería aprovechar mejor\" presupone que actualmente no se está aprovechando bien. Si negamos la frase (\"Colombia NO debería aprovechar mejor su posición\"), la presuposición de que no se está aprovechando bien sigue siendo válida. Las presuposiciones son resistentes a la negación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v4",
+      "statement": "¿Qué presuposición contiene la palabra \"volvió\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aumento es pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Volvió\" no indica magnitud."
+        },
+        {
+          "letter": "B",
+          "text": "Que el gobierno nunca aumenta la gasolina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que el precio de la gasolina ya había sido aumentado antes.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Volvió a\" presupone que la acción ya ocurrió en el pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Que el gobierno está contento con el aumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay presuposición sobre el estado de ánimo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El verbo \"volver a\" + infinitivo es un activador de presuposiciones. \"Volvió a aumentar\" presupone que ya había aumentado antes. Esta presuposición se mantiene incluso si decimos \"El gobierno NO volvió a aumentar la gasolina\": sigue presuponiendo que hubo aumentos anteriores. Este tipo de presuposición es muy común en el periodismo y puede usarse para establecer un patrón sin afirmarlo explícitamente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v5",
+      "statement": "¿Qué presuposiciones hay en esta exclamación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que leer críticamente es fácil y todos deberían saber hacerlo.",
+          "is_correct": false,
+          "feedback": "Correcto, pero incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay estudiantes que saben leer críticamente.",
+          "is_correct": false,
+          "feedback": "Correcto, pero incompleto."
+        },
+        {
+          "letter": "C",
+          "text": "Que: 1) Existen estudiantes que no saben leer críticamente, 2) Se espera que ya lo sepan, 3) El hablante considera esto negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres presuposiciones están activas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la lectura crítica no es importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Increíble\" expresa sorpresa negativa, indicando que sí es importante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones de evaluación emocional como \"es increíble que\", \"es lamentable que\", \"es sorprendente que\" activan múltiples presuposiciones. En este caso: 1) El hecho de que haya estudiantes que no sepan se da por cierto (presuposición existencial), 2) \"Aún\" presupone que deberían saberlo ya (presuposición temporal de expectativa), 3) \"Increíble\" expresa una valoración negativa del hablante. Identificar estas capas de presuposición permite entender la postura del autor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v6",
+      "statement": "¿Qué presuposición problemática tiene esta pregunta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la educación necesita mejorar.",
+          "is_correct": false,
+          "feedback": "Correcto, pero hay una más problemática."
+        },
+        {
+          "letter": "B",
+          "text": "Que el gobierno puede aumentar impuestos.",
+          "is_correct": false,
+          "feedback": "Correcto, pero no es la más problemática."
+        },
+        {
+          "letter": "C",
+          "text": "Que aumentar impuestos mejorará la educación. Es una presuposición causal que la pregunta da por cierta.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta presupone que el aumento de impuestos llevará a mejorar la educación, cuando eso no está demostrado."
+        },
+        {
+          "letter": "D",
+          "text": "Que la gente paga impuestos.",
+          "is_correct": false,
+          "feedback": "Es una presuposición válida, no problemática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preguntas pueden contener presuposiciones que sesgan la respuesta. Esta pregunta presupone que existe una relación causal entre aumentar impuestos y mejorar la educación. Al preguntar \"¿Está de acuerdo?\", quien responda \"Sí\" acepta esa relación causal, y quien responda \"No\" también la acepta (solo que no está de acuerdo con la acción). Para rechazar la presuposición, el encuestado debería decir \"No estoy de acuerdo porque aumentar impuestos no necesariamente mejora la educación\". Las preguntas con presuposiciones son una herramienta de manipulación común.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v7",
+      "statement": "¿Qué presuposiciones se activan con el verbo \"lamentó\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el director está triste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lamentar expresa pesar, no necesariamente tristeza."
+        },
+        {
+          "letter": "B",
+          "text": "Que la protesta ocurrió, que no tenía autorización y que el director considera que eso es negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Lamentar\" presupone la veracidad del hecho y expresa una valoración negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que los estudiantes se disculparon.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan disculpas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el director autorizó la protesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dice explícitamente que fue sin autorización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos factivos como \"lamentar\", \"saber\", \"comprender\", \"darse cuenta de\" presuponen la verdad de la proposición que introducen. \"Lamentó que X\" presupone que X es verdadero. Además, \"lamentar\" expresa una valoración negativa del hablante sobre X. En este caso, se presupone que: 1) La protesta ocurrió, 2) Fue sin autorización, 3) El director considera que eso es malo. Identificar verbos factivos ayuda a detectar qué información el autor da por cierta sin demostrarla.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v8",
+      "statement": "Además de la afirmación explícita sobre el candidato, ¿qué presuposición se activa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los políticos tradicionales también cumplen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Que los políticos tradicionales NO cumplen lo que prometen.",
+          "is_correct": true,
+          "feedback": "Correcto. \"A diferencia de\" presupone que los otros no cumplen."
+        },
+        {
+          "letter": "C",
+          "text": "Que el candidato es tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se presenta como diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Que las promesas son imposibles de cumplir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presupone eso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión \"a diferencia de\" activa una presuposición comparativa: la frase presupone que el término de comparación (políticos tradicionales) tiene la característica opuesta (no cumplen). Esta presuposición se mantiene incluso si negamos la frase principal (\"Este candidato NO cumple lo que promete, a diferencia de los políticos tradicionales\"): sigue presuponiendo que los políticos tradicionales no cumplen. Las comparaciones son activadores poderosos de presuposiciones que pueden introducir afirmaciones sin necesidad de demostrarlas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v9",
+      "statement": "La palabra \"sigue\" en esta oración, ¿qué presuposición activa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el calentamiento global es un invento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sigue\" afirma su existencia continua."
+        },
+        {
+          "letter": "B",
+          "text": "Que el calentamiento global ya era una amenaza antes y continúa siéndolo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sigue\" presupone un estado anterior que continúa en el presente."
+        },
+        {
+          "letter": "C",
+          "text": "Que el calentamiento global ya no es una amenaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sigue\" indica continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el calentamiento global es la única amenaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presupone exclusividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adverbios temporales como \"sigue\", \"aún\", \"todavía\" activan presuposiciones de continuidad. \"Sigue siendo una amenaza\" presupone que ya era una amenaza en el pasado. La presuposición persiste bajo negación: \"El calentamiento global NO sigue siendo una amenaza\" sigue presuponiendo que antes lo era. Estos marcadores temporales son muy comunes en el discurso periodístico y político para establecer continuidad o cambio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v10",
+      "statement": "¿Qué presuposiciones se activan con la palabra \"incluso\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los expertos son los únicos que reconocen la necesidad de cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Incluso\" no indica exclusividad."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay quienes no son expertos que también reconocen la necesidad, y que lo esperable sería que los expertos NO estuvieran de acuerdo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Incluso\" presupone una escala de probabilidad donde los expertos están en el extremo menos esperado."
+        },
+        {
+          "letter": "C",
+          "text": "Que los expertos están equivocados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Incluso\" refuerza su acuerdo, no lo cuestiona."
+        },
+        {
+          "letter": "D",
+          "text": "Que los cambios profundos ya se implementaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dice que \"necesita\" cambios, no que los tenga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra \"incluso\" (y su variante \"hasta\") activa presuposiciones escalares. \"Incluso X\" presupone que X es el caso menos esperado o más improbable en una escala. En esta oración, se presupone: 1) Hay personas que reconocen la necesidad de cambios (los no expertos), 2) Los expertos son los menos esperados que lo reconozcan (por su formación o criterio), 3) Si hasta los expertos lo reconocen, entonces la necesidad de cambios debe ser muy evidente. Identificar presuposiciones escalares permite detectar cómo el autor construye argumentos de autoridad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v11",
+      "statement": "Además de la renuncia, ¿qué presuposición se activa con \"después del escándalo\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el senador fue encarcelado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presupone eso."
+        },
+        {
+          "letter": "B",
+          "text": "Que el escándalo fue menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información sobre la magnitud."
+        },
+        {
+          "letter": "C",
+          "text": "Que hubo un escándalo y que la renuncia está relacionada con él.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Después de\" presupone la ocurrencia del escándalo y sugiere una relación causal."
+        },
+        {
+          "letter": "D",
+          "text": "Que el senador renunció por razones personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición temporal sugiere relación causal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones temporales como \"después de X\" presuponen que X ocurrió. Además, en el discurso periodístico, \"después de X\" a menudo implica una relación causal implícita: el autor sugiere que el escándalo causó la renuncia, pero sin afirmarlo explícitamente, lo que le permite evitar una acusación directa. Si alguien demandara al periódico, podrían decir \"solo reportamos la secuencia temporal\". Identificar estas presuposiciones causales encubiertas es una habilidad crítica avanzada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-v12",
+      "statement": "\"Si el gobierno realmente quisiera reducir la pobreza, ya lo habría hecho.\" ¿Cuántas presuposiciones identificas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una: que el gobierno no ha reducido la pobreza.",
+          "is_correct": false,
+          "feedback": "Correcto, pero incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "Dos: que la pobreza existe y que el gobierno sabe cómo reducirla.",
+          "is_correct": false,
+          "feedback": "Correcto, pero incompleto."
+        },
+        {
+          "letter": "C",
+          "text": "Múltiples: 1) La pobreza existe, 2) El gobierno no la ha reducido, 3) El gobierno tiene la capacidad de hacerlo, 4) La falta de reducción se debe a falta de voluntad política (\"realmente quisiera\").",
+          "is_correct": true,
+          "feedback": "Correcto. Cada elemento de la oración aporta una presuposición distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna: todo se afirma explícitamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las presuposiciones no están explícitas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta oración es un ejemplo de cómo las presuposiciones pueden construir un argumento completo sin afirmarlo directamente. La estructura condicional \"Si X, entonces Y\" con Y en pasado (\"ya lo habría hecho\") presupone que Y no ocurrió. Además: 1) \"Reducir la pobreza\" presupone que existe pobreza, 2) \"El gobierno... quisiera\" presupone que el gobierno tiene el poder de reducirla, 3) \"Realmente\" (adverbio de refuerzo) presupone duda sobre la voluntad del gobierno, 4) Toda la oración presupone que la única razón para no reducir la pobreza es la falta de voluntad. Identificar esta red de presuposiciones permite reconstruir el argumento implícito del autor.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W11-presuposiciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

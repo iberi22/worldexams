@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.657Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v1",
+      "statement": "¿Cuál de estos textos corresponde al género de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia sobre el accidente de tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia informa, no opina."
+        },
+        {
+          "letter": "B",
+          "text": "El editorial que critica la reforma tributaria.",
+          "is_correct": true,
+          "feedback": "Correcto. El editorial expresa la postura del medio."
+        },
+        {
+          "letter": "C",
+          "text": "El anuncio de la marca de celulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es publicidad."
+        },
+        {
+          "letter": "D",
+          "text": "La entrevista al deportista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede contener opiniones, es un género dialógico informativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio de clasificación evalúa la capacidad de distinguir los géneros periodísticos. El editorial es el género de opinión por excelencia porque expresa la postura institucional del medio. La noticia es informativa, la publicidad es persuasiva comercial, y la entrevista es un género dialógico que puede tener elementos informativos y de opinión pero no es predominantemente un género de opinión del medio. Dominar esta clasificación es fundamental para la lectura crítica: saber qué esperar de cada género permite al lector evaluar la información con criterios apropiados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v2",
+      "statement": "¿A qué género pertenece este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia tiene datos y fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Reportaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje es extenso y profundo."
+        },
+        {
+          "letter": "C",
+          "text": "Publicidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura típica de publicidad incluye imagen atractiva, eslogan, precio y logo."
+        },
+        {
+          "letter": "D",
+          "text": "Editorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial usa argumentos, no imágenes llamativas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada género periodístico tiene una estructura característica. La publicidad se reconoce por: 1) uso dominante de imagen atractiva, 2) eslogan breve y memorable, 3) información mínima (precio, producto), 4) logo prominente de la marca, 5) ausencia de fuentes o datos objetivos. Identificar estas características permite al lector reconocer el propósito del texto antes de leerlo. Cada vez que vemos una estructura publicitaria, sabemos que el propósito es persuadirnos de comprar, no informarnos objetivamente. Este reconocimiento automático es una habilidad básica de lectura crítica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v3",
+      "statement": "¿Qué estructura y género identificas en esta descripción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reportaje con estructura cronológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje no sigue pirámide invertida estricta."
+        },
+        {
+          "letter": "B",
+          "text": "Artículo de opinión con estructura argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opinión no usa pirámide invertida."
+        },
+        {
+          "letter": "C",
+          "text": "Noticia con estructura de pirámide invertida, donde la información más importante va al inicio.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la descripción exacta de una noticia."
+        },
+        {
+          "letter": "D",
+          "text": "Entrevista en formato pregunta-respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entrevista tiene preguntas y respuestas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pirámide invertida es la estructura característica de la noticia y responde a las necesidades del lector moderno: información rápida y posibilidad de abandonar la lectura en cualquier punto sin perder lo esencial. Reconocer esta estructura ayuda al lector a: 1) identificar rápidamente la información clave (titular y lead), 2) saber que los detalles al final son prescindibles, 3) distinguir una noticia de otros géneros. La pirámide invertida es una convención, no una ley natural: algunos medios la modifican para adaptarse a formatos digitales, pero el principio básico se mantiene.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v4",
+      "statement": "¿Por qué este fragmento parece parte de una noticia y no de un editorial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque presenta opiniones personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay opinión del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa lenguaje muy técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es accesible."
+        },
+        {
+          "letter": "C",
+          "text": "Porque presenta múltiples perspectivas (gobierno, maestros, Contraloría) sin tomar partido, característica de la información objetiva.",
+          "is_correct": true,
+          "feedback": "Correcto. La noticia equilibra fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque critica al gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluir una crítica de los maestros no significa que el periodista critique."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La característica distintiva de la noticia frente al editorial es la presentación de múltiples perspectivas sin que el periodista tome partido explícitamente. Aquí se presentan tres versiones: la del ministro (gobierno), la de los maestros (trabajadores) y la de la Contraloría (ente de control). La noticia no dice quién tiene la razón; presenta los hechos y deja que el lector juzgue. Un editorial, en cambio, tomaría partido: \"La Contraloría debe investigar a fondo las irregularidades del ministerio\". Esta diferencia entre informar y opinar es crucial para la lectura crítica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v5",
+      "statement": "¿Qué ventaja ofrece el reportaje sobre la noticia en este caso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reportaje es más fácil de leer porque es más largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no facilita la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia es mejor porque se lee rápido.",
+          "is_correct": false,
+          "feedback": "Parcial, la rapidez es una ventaja de la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "El reportaje permite comprender las causas históricas, las dimensiones sociales, los intereses económicos y las posibles soluciones de un problema complejo como la contaminación del río, mientras que la noticia solo informa del hecho inmediato.",
+          "is_correct": true,
+          "feedback": "Correcto. El reportaje profundiza donde la noticia solo informa."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos géneros son equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen propósitos diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta comparación muestra que noticia y reportaje no compiten, se complementan. La noticia es ideal para estar informado rápidamente de un hecho. El reportaje es ideal para comprender un problema en profundidad. Para la contaminación del río Bogotá, la noticia diría \"Vertimientos ilegales aumentaron 20% en 2025\". El reportaje explicaría por qué ocurre (falta de infraestructura de tratamiento), quiénes son los responsables (industrias, municipios), qué se ha intentado (plantas de tratamiento, multas), qué opinan los expertos (ingenieros ambientales), cómo afecta a las comunidades (enfermedades, pérdida de empleos) y qué soluciones existen. El lector crítico usa ambos géneros según su necesidad: noticia para actualizarse, reportaje para comprender.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v6",
+      "statement": "¿Cuál es la principal diferencia entre propaganda y publicidad?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propaganda usa imágenes y la publicidad usa texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pueden usar ambos."
+        },
+        {
+          "letter": "B",
+          "text": "La propaganda es siempre política y la publicidad es siempre comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay propaganda social y publicidad institucional."
+        },
+        {
+          "letter": "C",
+          "text": "La propaganda busca influir en ideas, creencias o comportamientos sociales/políticos; la publicidad busca una transacción comercial.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el objetivo final."
+        },
+        {
+          "letter": "D",
+          "text": "La propaganda es falsa y la publicidad es verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pueden contener verdades o mentiras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque comparten técnicas persuasivas (apelación emocional, repetición, eslóganes), el propósito final las distingue: la propaganda busca adhesión a ideas (votar por un candidato, adoptar una conducta, apoyar una causa), mientras que la publicidad busca una transacción de compra. Sin embargo, hay zonas grises: la publicidad institucional (ej: \"No conduzcas ebrio\") tiene fines sociales, y la propaganda política puede incluir llamados a \"comprar\" una idea. El lector crítico examina el objetivo final del mensaje: ¿me están pidiendo que piense algo, que haga algo, que compre algo? Esta distinción permite evaluar el mensaje con los criterios adecuados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v7",
+      "statement": "¿Qué género periodístico identificas por estos elementos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noticia breve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia breve no incluye datos históricos ni análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Editorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial no usa descripciones ni fotografías."
+        },
+        {
+          "letter": "C",
+          "text": "Reportaje interpretativo o de profundidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de descripción, testimonios, datos históricos, análisis de expertos y fotografías es característica del reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Publicidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no tiene testimonios de varias personas ni análisis de expertos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje se distingue por su riqueza de recursos y fuentes. Mientras que la noticia se limita a informar los hechos con la estructura de pirámide invertida, el reportaje invierte tiempo y espacio en: describir el ambiente (lugar), incluir voces diversas (testimonios), ofrecer contexto (datos históricos), aportar análisis especializado (expertos) y complementar con elementos visuales (fotografías). Esta multiplicidad de enfoques permite al lector no solo saber qué pasó, sino entender por qué pasó y qué significa. Es el género más completo para la comprensión de temas complejos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v8",
+      "statement": "¿Qué formato y género identificas en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reportaje narrativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje no usa formato P-R."
+        },
+        {
+          "letter": "B",
+          "text": "Noticia con citas textuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no estructura el texto en preguntas y respuestas."
+        },
+        {
+          "letter": "C",
+          "text": "Entrevista en formato pregunta-respuesta.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de P- y R- es la marca textual de la entrevista."
+        },
+        {
+          "letter": "D",
+          "text": "Publicidad con testimonio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no presenta preguntas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El formato pregunta-respuesta (P- / R-) es la marca textual inequívoca de la entrevista periodística publicada. Este formato permite: 1) ver la interacción directa entre periodista y entrevistado, 2) identificar quién dice qué sin ambigüedad, 3) evaluar la calidad de ambas partes (preguntas del periodista y respuestas del entrevistado). El lector crítico de entrevistas presta atención tanto a las preguntas (¿son relevantes? ¿están bien investigadas?) como a las respuestas (¿responden la pregunta? ¿evaden? ¿son sinceras?). Ambos lados del diálogo revelan información sobre el tema y sobre los participantes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v9",
+      "statement": "¿Qué género corresponde a cada propósito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a) reportaje, b) noticia, c) entrevista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La correspondencia es incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "a) editorial, b) reportaje, c) noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "a) entrevista, b) publicidad, c) reportaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "a) noticia, b) propaganda social, c) entrevista (o reportaje biográfico).",
+          "is_correct": true,
+          "feedback": "Correcto. Cada género se ajusta al propósito."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Saber elegir el género adecuado para cada propósito es una habilidad metacognitiva importante. La noticia es ideal para información rápida (incendio). La propaganda social es adecuada para persuadir sobre un comportamiento (reciclaje). La entrevista o el reportaje biográfico son ideales para conocer en profundidad a una persona. Cada género tiene fortalezas específicas: la noticia es rápida y concisa, la propaganda es persuasiva, la entrevista permite profundidad personal, el reportaje ofrece contexto amplio. El lector crítico y el escritor competente saben qué género usar según su propósito comunicativo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v10",
+      "statement": "¿Qué problema presenta esta mezcla de géneros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es innovador y atractivo para el lector.",
+          "is_correct": false,
+          "feedback": "Posible, pero también problemático."
+        },
+        {
+          "letter": "B",
+          "text": "No hay problema, los géneros se pueden mezclar libremente.",
+          "is_correct": false,
+          "feedback": "Parcial, pero la mezcla sin identificación genera confusión."
+        },
+        {
+          "letter": "C",
+          "text": "Puede confundir al lector sobre la naturaleza de la información: no saber si lo que lee es un hecho verificado (noticia), una interpretación contextualizada (reportaje) o una opinión del autor (editorial). La mezcla sin identificación clara reduce la transparencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de identificación genérica es un problema ético."
+        },
+        {
+          "letter": "D",
+          "text": "Es mejor porque ahorra espacio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahorrar espacio no justifica la confusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La claridad genérica es un principio de transparencia periodística. El lector tiene derecho a saber qué tipo de texto está leyendo para poder evaluarlo con los criterios adecuados. Si un texto mezcla información noticiosa (que se espera objetiva) con opinión (que es subjetiva) sin distinguir ambas, el lector puede ser engañado, aceptando como hecho lo que es opinión. Esto no significa que los géneros no puedan hibridarse (existen la crónica, el perfil, el análisis), pero estas hibridaciones deben ser reconocibles y transparentes. Un buen periodista identifica claramente su texto: \"Análisis\", \"Crónica\", \"Reportaje interpretativo\", etc. El lector crítico desconfía de textos que no se identifican genéricamente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v11",
+      "statement": "¿Qué género periodístico permite mejor revelar la contradicción entre lo que un político dice y lo que hace?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia breve que solo reporte la declaración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia breve no contrastaría con datos."
+        },
+        {
+          "letter": "B",
+          "text": "Un editorial que critique al político.",
+          "is_correct": false,
+          "feedback": "Parcial, el editorial opina pero puede no presentar datos."
+        },
+        {
+          "letter": "C",
+          "text": "Un reportaje de investigación que presente la declaración del político junto con los datos presupuestales, análisis de expertos y testimonios de afectados, contrastando el discurso con los hechos.",
+          "is_correct": true,
+          "feedback": "Correcto. El reportaje puede presentar evidencia que contradiga la declaración."
+        },
+        {
+          "letter": "D",
+          "text": "Una publicidad del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no revela contradicciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje de investigación es el género más adecuado para revelar contradicciones entre el discurso y la realidad porque permite: 1) presentar la declaración del político (su versión), 2) contrastarla con datos verificables (presupuesto educativo), 3) incluir análisis de expertos (¿realmente se redujo el presupuesto? ¿en términos reales o nominales?), 4) dar voz a los afectados (maestros, estudiantes, padres), 5) contextualizar la decisión. Mientras que una noticia solo reportaría la declaración o el dato presupuestal por separado, el reportaje los confronta. El periodismo de investigación no solo informa, sino que verifica y contrasta, cumpliendo su función de control al poder.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-v12",
+      "statement": "¿Cuál sería la mejor manera de organizar este cuadro comparativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de los géneros sin ninguna información adicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cuadro debe comparar."
+        },
+        {
+          "letter": "B",
+          "text": "Una tabla con nombres de géneros y ejemplos de cada uno.",
+          "is_correct": false,
+          "feedback": "Parcial, pero faltan criterios de comparación."
+        },
+        {
+          "letter": "C",
+          "text": "Un párrafo describiendo cada género.",
+          "is_correct": false,
+          "feedback": "Eso es un texto descriptivo, no un cuadro comparativo."
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla con los géneros (filas) y criterios de comparación (columnas): propósito, estructura, tipo de lenguaje, uso de fuentes, presencia del periodista, extensión típica y ejemplos colombianos concretos de cada género.",
+          "is_correct": true,
+          "feedback": "Correcto. La tabla permite comparar sistemáticamente los géneros según múltiples criterios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Esta pregunta evalúa la capacidad de síntesis y organización conceptual. Un cuadro comparativo efectivo debe: 1) definir criterios de comparación claros y relevantes, 2) aplicar los mismos criterios a todos los elementos comparados, 3) usar información precisa y ejemplos concretos, 4) permitir ver similitudes y diferencias de un vistazo. Los criterios propuestos (propósito, estructura, lenguaje, fuentes, presencia del periodista, extensión) son precisamente los que distinguen los géneros. Por ejemplo: la noticia usa pirámide invertida y lenguaje objetivo; el editorial usa estructura argumentativa y lenguaje valorativo; la publicidad usa lenguaje persuasivo y estructura atractiva; la entrevista usa estructura dialógica. Esta capacidad de organizar y comparar información es una habilidad de pensamiento de orden superior que ICFES evalúa en lectura crítica.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W39-repaso-p4-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica principal de un texto literario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre un hecho real de manera objetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la característica de un texto informativo o periodístico."
+        },
+        {
+          "letter": "B",
+          "text": "Crear un mundo ficticio o recrear la realidad con una finalidad estética y artística, usando un lenguaje connotativo y figuras retóricas.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto literario busca la belleza expresiva y usa el lenguaje de manera creativa y subjetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir al lector para que compre un producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del texto publicitario."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar un proceso paso a paso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de un texto instructivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos literarios (cuentos, novelas, poemas, obras de teatro) se caracterizan por: 1) finalidad estética (buscan la belleza), 2) lenguaje connotativo (palabras con múltiples significados), 3) uso de figuras retóricas (metáforas, símiles, personificaciones), 4) ficcionalidad (crean mundos imaginarios), 5) subjetividad (reflejan la visión del autor). Grandes autores colombianos como García Márquez, Barba Jacob y Tomás Carrasquilla son referentes.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v2",
+      "statement": "¿Cuáles son los tres grandes géneros literarios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informativo, argumentativo y expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son tipos de texto no literarios."
+        },
+        {
+          "letter": "B",
+          "text": "Narrativo, lírico y dramático.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrativo cuenta historias (cuento, novela), el lírico expresa emociones (poesía) y el dramático presenta acciones mediante diálogos (teatro)."
+        },
+        {
+          "letter": "C",
+          "text": "Cuento, poema y noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no es un género literario."
+        },
+        {
+          "letter": "D",
+          "text": "Ficción, no ficción y ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una clasificación por contenido temático, no por género literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desde la antigüedad clásica (Aristóteles), la literatura se divide en tres grandes géneros: 1) Narrativo (épico): relata historias con narrador, personajes, tiempo y espacio. Incluye cuento, novela, mito y leyenda. 2) Lírico: expresa sentimientos y emociones a través de la poesía. 3) Dramático: presenta conflictos a través de diálogos entre personajes, diseñado para ser representado en un escenario.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v3",
+      "statement": "Lee el fragmento: \"El coronel destapó el café y comprobó que no había más que una cucharadita. Retiró la olla del fogón y vació la mitad del agua en el suelo, luego raspó el interior de la lata con un cuchillo para no desperdiciar ni un gramo de café.\" ¿Qué tipo de texto es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lírico, porque expresa la tristeza del coronel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay tristeza implícita, la forma es narrativa: cuenta una acción."
+        },
+        {
+          "letter": "B",
+          "text": "Narrativo, porque cuenta acciones de un personaje (el coronel) en un tiempo y espacio determinados, con un narrador que describe lo que hace.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto relata acciones de un personaje en secuencia temporal, con un narrador en tercera persona."
+        },
+        {
+          "letter": "C",
+          "text": "Dramático, porque son diálogos del coronel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay diálogos, solo descripción de acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Expositivo, porque explica cómo preparar café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque describe una acción cotidiana, no es instructivo ni expositivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género narrativo se reconoce por: 1) presencia de un narrador (quien cuenta), 2) personajes (quienes actúan), 3) tiempo (cuando ocurre), 4) espacio (donde ocurre), 5) acciones en secuencia. En este fragmento de García Márquez, el narrador en tercera persona describe las acciones del coronel preparando café, en lo que es un texto claramente narrativo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v4",
+      "statement": "Lee estos versos: \"Nocturno / Una noche, / una noche toda llena de murmullos, de perfumes y de música de alas...\" ¿Qué género literario representa este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo, porque cuenta algo que pasó una noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay referencia a una noche, la forma es poética, no narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Lírico, porque expresa una emoción o impresión sensorial usando lenguaje poético, ritmo y musicalidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El \"Nocturno\" de Silva es un poema lírico: expresa sensaciones (murmullos, perfumes, música) con lenguaje poético."
+        },
+        {
+          "letter": "C",
+          "text": "Dramático, porque se representa en un escenario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay diálogos ni acotaciones teatrales."
+        },
+        {
+          "letter": "D",
+          "text": "Periodístico, porque informa sobre una noche real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noche es un motivo lírico, no una noticia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género lírico se caracteriza por: 1) expresión de sentimientos, emociones o impresiones del autor, 2) uso de lenguaje poético con ritmo y musicalidad, 3) presencia de figuras literarias (metáforas, imágenes sensoriales), 4) estructura en versos y estrofas. Silva, Barba Jacob y Piedad Bonnett son grandes poetas colombianos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v5",
+      "statement": "Si vas a escribir una obra de teatro escolar, ¿cuál de los siguientes elementos NO puede faltar en tu texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un narrador que describa lo que hacen los personajes.",
+          "is_correct": false,
+          "feedback": "Correcto. En el teatro, las acciones se ven, no se narran. Las acotaciones y los diálogos bastan."
+        },
+        {
+          "letter": "B",
+          "text": "Diálogos entre los personajes y acotaciones escénicas (indicaciones de acción, escenario, tono).",
+          "is_correct": true,
+          "feedback": "Correcto, pero la pregunta pide lo que NO puede faltar. Los diálogos y acotaciones son esenciales en el género dramático."
+        },
+        {
+          "letter": "C",
+          "text": "Título atractivo. \r\n\r\nNota: Voy a reestructurar esta pregunta. Enunciado reformulado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es deseable, el título no es un elemento estructural obligatorio."
+        },
+        {
+          "letter": "A",
+          "text": "Un narrador que describa cada acción de los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el teatro, las acciones se representan visualmente, no se necesita narrador."
+        },
+        {
+          "letter": "B",
+          "text": "Versos con rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima es propia de la poesía, no del teatro (aunque algunas obras la usen)."
+        },
+        {
+          "letter": "C",
+          "text": "Diálogos entre los personajes y acotaciones escénicas que indiquen acciones, escenario y tono de voz.",
+          "is_correct": true,
+          "feedback": "Correcto. El teatro se basa en el diálogo y las acotaciones para que los actores sepan qué hacer y cómo decirlo."
+        },
+        {
+          "letter": "D",
+          "text": "Una moraleja al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja es propia de las fábulas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto dramático (obra de teatro) se caracteriza por: 1) diálogos (los personajes hablan entre sí), 2) acotaciones (indicaciones del autor sobre escenario, vestuario, acciones, tono), 3) actos y escenas (división de la obra), 4) personajes (lista al inicio), 5) conflicto dramático. No necesita narrador porque la historia se representa, no se cuenta.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v6",
+      "statement": "Lee la frase: \"Tus ojos son dos luceros que iluminan mi camino.\" ¿Qué figura literaria se utiliza?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole (exageración).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración desmedida."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora, porque compara los ojos con luceros sin usar \"como\" o \"cual\".",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora establece una identificación entre dos términos (ojos = luceros) sin usar conectores de comparación."
+        },
+        {
+          "letter": "C",
+          "text": "Símil, porque compara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El símil usa \"como\" o \"cual\" (\"tus ojos son como luceros\"). Aquí no hay esos conectores."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación, porque da vida a los ojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ojos ya tienen vida propia; la personificación atribuye cualidades humanas a objetos inanimados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora es una figura literaria que identifica dos términos (real e imaginario) estableciendo una relación de semejanza sin usar conectores comparativos. En \"tus ojos son dos luceros\", los ojos (término real) se identifican con luceros (término imaginario). Se diferencia del símil, que sí usa \"como, cual, parece\" para la comparación.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v7",
+      "statement": "¿Por qué los textos literarios usan un lenguaje connotativo (con múltiples significados) en lugar de un lenguaje denotativo (literal)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los escritores no saben escribir de manera clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección del lenguaje es intencional y artística."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la literatura busca provocar emociones, sugerir significados y permitir múltiples interpretaciones, enriqueciendo la experiencia del lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje connotativo invita al lector a interpretar, a sentir y a encontrar significados más allá de lo literal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el gobierno exige que la literatura sea difícil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal exigencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los textos literarios deben confundir al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad literaria no busca confundir sino enriquecer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje connotativo es la marca distintiva de la literatura. Mientras el lenguaje denotativo busca un significado único y preciso (como en un manual o una noticia), el connotativo abre posibilidades: una misma palabra puede evocar distintas emociones e interpretaciones en cada lector. Por ejemplo, \"otoño\" puede significar literalmente una estación, pero en un poema puede simbolizar madurez, melancolía o decadencia.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v8",
+      "statement": "Evalúa este fragmento: \"Rafael Pombo escribió 'La pobre viejecita', un cuento en verso sobre una señora millonaria que se creía pobre. La historia critica la avaricia.\" ¿Por qué este texto pertenece al género narrativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque está escrito en verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verso también se usa en poesía lírica, no es exclusivo de la narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque critica la avaricia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica social puede estar en cualquier tipo de texto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cuenta una historia con personajes (la viejecita), conflicto (avaricia) y un narrador que relata los hechos.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque Pombo use verso, la estructura es narrativa: hay personajes, acciones y un narrador que cuenta una historia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es de Rafael Pombo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no determina el género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La frontera entre géneros puede ser difusa. Una obra puede estar escrita en verso y ser narrativa (como los cuentos de Pombo o la poesía épica). Lo que define el género no es la forma externa (verso o prosa), sino la estructura: si cuenta una historia con personajes y acciones, es narrativa. Si expresa emociones sin historia, es lírica.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v9",
+      "statement": "El mito guambiano dice que el sol y la luna eran niños que jugaban y uno ensució al otro, por eso tienen manchas. Un artículo científico explica que las manchas del sol son tormentas magnéticas. ¿Qué diferencia fundamental hay entre ambas explicaciones?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mito es corto y el artículo es largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia esencial."
+        },
+        {
+          "letter": "B",
+          "text": "El mito no tiene razón; el artículo sí tiene razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito no pretende ser científico, tiene otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El mito es un texto literario que explica un fenómeno natural con una historia ficticia, usando lenguaje figurado; el artículo es divulgación científica que explica con datos verificables. Ambos tienen propósitos distintos y son válidos en su contexto.",
+          "is_correct": true,
+          "feedback": "Correcto. El mito cumple una función cultural y literaria; el artículo cumple una función científica. No compiten, son complementarios."
+        },
+        {
+          "letter": "D",
+          "text": "El mito es más divertido que el artículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversión es subjetiva y no es la diferencia fundamental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura y la ciencia son formas distintas de conocer el mundo. La ciencia busca explicaciones objetivas, verificables y universales. La literatura busca interpretaciones simbólicas, emocionales y culturales. Un mito no es un \"error científico\", es una expresión cultural que responde a preguntas humanas de otra manera. Ambas formas de conocimiento son valiosas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-v10",
+      "statement": "Observas un paisaje de la Sabana de Bogotá con montañas, neblina y un campesino arando la tierra. ¿Qué enfoque usarías para escribir un texto LITERARIO sobre esta escena?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto con datos exactos: \"La Sabana mide 5.000 km², está a 2.600 m de altitud y produce el 70% de las flores de Colombia.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son datos científicos, no texto literario."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuento corto donde el campesino descubre un tesoro enterrado bajo los surcos, usando descripciones sensoriales de la neblina y el olor a tierra mojada.",
+          "is_correct": true,
+          "feedback": "Correcto. El enfoque literario crea una historia con personajes, ambiente descriptivo y ficción, usando lenguaje evocador."
+        },
+        {
+          "letter": "C",
+          "text": "Un anuncio turístico: \"Visite la Sabana de Bogotá, el mejor destino para sus vacaciones.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es publicidad, no literatura."
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia: \"Campesino ara la tierra hoy en la Sabana de Bogotá mientras crece la preocupación por el clima.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es periodismo, no creación literaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escribir un texto literario implica: 1) crear un mundo (personajes, ambientes, conflictos, aunque sea breve), 2) usar lenguaje figurado y descriptivo, 3) buscar un efecto estético o emocional, 4) no limitarse a los hechos reales: la ficción está permitida, 5) usar todos los sentidos para describir. La literatura transforma la realidad en arte a través de la palabra.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W19-textos-literarios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

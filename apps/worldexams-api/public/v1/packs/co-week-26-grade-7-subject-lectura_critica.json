@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-26-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.643Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v1",
+      "statement": "¿Cuáles son las partes esenciales de un argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto, verbo y predicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son elementos gramaticales, no argumentativos."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción, desarrollo y conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de un texto, no de un argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Una premisa o premisas (evidencia) y una conclusión que se deriva de ellas.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento se compone de premisas y conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Opinión personal y emoción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una opinión, no un argumento estructurado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento es un conjunto de afirmaciones donde algunas (las premisas) se ofrecen como apoyo o evidencia para otra (la conclusión). Por ejemplo: \"Todos los mamíferos son de sangre caliente (premisa). Los delfines son mamíferos (premisa). Por lo tanto, los delfines son de sangre caliente (conclusión).\" Evaluar argumentos implica examinar si las premisas son verdaderas y si realmente apoyan la conclusión. No toda opinión es un argumento: para que lo sea, debe ofrecer razones que la respalden. Esta distinción es fundamental para la lectura crítica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v2",
+      "statement": "¿Qué problema tiene este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dentistas no saben de pastas dentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dentistas sí tienen autoridad en el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Que la afirmación es demasiado corta para ser un argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la validez."
+        },
+        {
+          "letter": "C",
+          "text": "Que no se especifica cuántos dentistas fueron encuestados, dónde ni cómo, por lo que el \"nueve de cada diez\" podría ser una cifra manipulada.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de contexto sobre la estadística debilita el argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Que la pasta dental no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este argumento usa una supuesta estadística para respaldar su conclusión (\"compra nuestra pasta\"), pero la estadística carece de contexto esencial. ¿Se encuestaron a 10 dentistas (y 9 coincidieron) o a 10.000? ¿Eran dentistas independientes o patrocinados por la marca? ¿La pregunta fue sesgada? La evaluación crítica de argumentos exige examinar la calidad de la evidencia. Una cifra sin metodología no es evidencia confiable. El lector crítico siempre pregunta: ¿quién dice esto, cómo lo sabe y qué intereses tiene?\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v3",
+      "statement": "¿Qué debilidad tiene este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está basado en datos falsos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser cierto que en otros países no usen uniforme."
+        },
+        {
+          "letter": "B",
+          "text": "Que usa un lenguaje demasiado complejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es simple."
+        },
+        {
+          "letter": "C",
+          "text": "Que comete la falacia de apelar a la costumbre extranjera sin establecer por qué lo que hacen otros países es relevante para nuestro contexto.",
+          "is_correct": true,
+          "feedback": "Correcto. El hecho de que otros lo hagan no es razón para que nosotros lo hagamos."
+        },
+        {
+          "letter": "D",
+          "text": "Que no menciona marcas específicas de uniformes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es irrelevante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este argumento comete una falacia: apelación a la práctica común (argumentum ad populum). El hecho de que \"otros países\" no usen uniforme no es, por sí mismo, una razón válida para que este colegio deje de usarlo. La pregunta relevante es: ¿qué beneficios o perjuicios tiene el uniforme en nuestro contexto específico? Evaluar argumentos implica distinguir entre razones reales y apelaciones irrelevantes. No porque \"todos lo hagan\" (o \"nadie lo haga\") algo es correcto o incorrecto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v4",
+      "statement": "¿Qué problema tiene este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la educación no es importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se discute la importancia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el político no tiene hijos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es irrelevante."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un argumento circular: la conclusión (invertir en educación) se \"justifica\" con afirmaciones vagas y emotivas que no ofrecen razones concretas.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento carece de sustento real."
+        },
+        {
+          "letter": "D",
+          "text": "Que menciona a los niños para manipular emociones.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero el problema central es la falta de sustento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este argumento es débil porque usa afirmaciones genéricas y apelaciones emocionales (\"futuro del país\", \"niños merecen lo mejor\") sin ofrecer evidencia concreta. ¿Por qué exactamente se necesita más inversión? ¿En qué áreas específicas? ¿Qué problemas actuales resolvería? Una buena argumentación requiere razones específicas y verificables. Las frases emotivas no son malas en sí mismas, pero no pueden reemplazar la evidencia. Evaluar argumentos implica separar la retórica persuasiva de las razones sustanciales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v5",
+      "statement": "¿Qué error lógico comete este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar una estadística incorrecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay estadística."
+        },
+        {
+          "letter": "B",
+          "text": "Generalizar a partir de un solo caso (falacia de generalización apresurada).",
+          "is_correct": false,
+          "feedback": "Correcto. Un caso particular no es suficiente para concluir sobre todo el país."
+        },
+        {
+          "letter": "C",
+          "text": "Atacar a la persona que implementó la jornada única.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ataque personal."
+        },
+        {
+          "letter": "D",
+          "text": "Usar un lenguaje demasiado técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es coloquial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este argumento comete la falacia de generalización apresurada: toma un caso particular (el colegio de su barrio) y concluye algo sobre la totalidad (el fracaso de la jornada única en todo Colombia). Para evaluar un programa educativo a nivel nacional se necesitan datos de múltiples colegios, regiones, contextos socioeconómicos, etc. Un solo testimonio anecdótico no es evidencia suficiente. El lector crítico reconoce cuándo un argumento se basa en anécdotas en lugar de evidencia sistemática.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v6",
+      "statement": "¿Qué tipo de falacia comete este argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falsa causalidad (post hoc ergo propter hoc).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación causal."
+        },
+        {
+          "letter": "B",
+          "text": "Apelación a la autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a ninguna autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad hominem (ataque a la persona): en lugar de refutar el argumento sobre el reciclaje, ataca a quienes lo proponen.",
+          "is_correct": true,
+          "feedback": "Correcto. Descalifica al mensajero en lugar del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Falso dilema: presenta solo dos opciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta un falso dilema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia ad hominem consiste en atacar a la persona que presenta un argumento en lugar de refutar el argumento mismo. Aquí, en vez de debatir si reciclar es beneficioso o no, el usuario ataca a los ambientalistas llamándolos hipócritas. Pero la hipocresía (real o supuesta) de quienes promueven el reciclaje no dice nada sobre la validez del argumento a favor del reciclaje. Evaluar argumentos exige concentrarse en las razones, no en las características de quienes las presentan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v7",
+      "statement": "¿Qué problema tiene el razonamiento del columnista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no menciona cifras exactas de la economía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras ayudarían pero no es el problema central."
+        },
+        {
+          "letter": "B",
+          "text": "Que asume que porque un evento siguió a otro, el primero causó el segundo (falacia de falsa causalidad).",
+          "is_correct": false,
+          "feedback": "Correcto. Puede haber otras causas para que la economía no creciera."
+        },
+        {
+          "letter": "C",
+          "text": "Que el columnista no es economista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería ad hominem contra el columnista."
+        },
+        {
+          "letter": "D",
+          "text": "Que la reforma anterior no era igual a la actual.",
+          "is_correct": false,
+          "feedback": "Cierto, pero no es el error lógico principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este argumento comete la falacia de falsa causalidad (post hoc ergo propter hoc): como la reforma anterior fue seguida por falta de crecimiento económico, se concluye que la reforma causó la falta de crecimiento. Pero pueden haber muchas otras causas: crisis internacional, desastres naturales, políticas de otros sectores. La correlación temporal no prueba causalidad. Evaluar argumentos causales requiere preguntar: ¿hay evidencia de que A realmente causa B, o podría ser coincidencia o haber otras causas?\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v8",
+      "statement": "¿Qué elemento falta para que este argumento sea sólido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una foto de Juan antes y después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fotos pueden ser editadas."
+        },
+        {
+          "letter": "B",
+          "text": "El precio del producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no valida la efectividad."
+        },
+        {
+          "letter": "C",
+          "text": "Evidencia de que el testimonio de Juan es representativo y no un caso excepcional, además de estudios que demuestren la efectividad del producto.",
+          "is_correct": true,
+          "feedback": "Correcto. Un testimonio no es evidencia científica."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión de un médico.",
+          "is_correct": false,
+          "feedback": "Ayuda, pero no es suficiente si el médico es patrocinado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este argumento se basa en un testimonio anecdótico, que es una de las formas más débiles de evidencia. Un caso exitoso no demuestra que el producto funcione para la mayoría de las personas. Juan podría ser una excepción, podría haber combinado el producto con dieta y ejercicio, o el testimonio podría ser falso. La evaluación crítica de argumentos exige distinguir entre evidencia anecdótica y evidencia sistemática (estudios, ensayos clínicos, datos representativos). La publicidad usa testimonios precisamente porque son persuasivos aunque no sean probatorios.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v9",
+      "statement": "¿Cómo se debe evaluar la solidez de estos argumentos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eligiendo el argumento que suene más convincente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convicción personal no es criterio de validez."
+        },
+        {
+          "letter": "B",
+          "text": "Viendo qué argumento tiene más \"me gusta\" en redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La popularidad no es evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Examinando la evidencia que respalda cada afirmación: ¿cuánto empleo genera realmente la minería? ¿Qué tan graves son los daños ambientales y se pueden mitigar?",
+          "is_correct": true,
+          "feedback": "Correcto. La evaluación requiere datos concretos."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntando a un famoso qué opina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fama no da autoridad argumentativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar argumentos opuestos sobre temas complejos requiere examinar la evidencia detrás de cada afirmación. No basta con que un argumento \"suene bien\" o sea popular. Hay que preguntar: ¿qué estudios respaldan la afirmación de que la minería genera empleo? ¿Cuánto empleo por cada hectárea afectada? ¿Hay ejemplos de minería responsable? ¿Cuál es el costo ambiental a largo plazo? La evaluación crítica es un proceso de investigación, no de preferencia personal. El mejor argumento es el que está mejor respaldado por evidencia verificable.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v10",
+      "statement": "¿Cómo afecta esta información a la evaluación del argumento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No afecta, el 95% es una cifra impresionante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras sin contexto pueden ser engañosas."
+        },
+        {
+          "letter": "B",
+          "text": "Invalida completamente el estudio porque ningún estudio es perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No lo invalida, pero reduce su confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita significativamente el argumento porque 20 pacientes son una muestra muy pequeña y, sin grupo de control, no se puede saber si la mejoría se debió al medicamento o a otros factores.",
+          "is_correct": true,
+          "feedback": "Correcto. El diseño del estudio determina la confiabilidad de las conclusiones."
+        },
+        {
+          "letter": "D",
+          "text": "El estudio es válido porque es científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todo lo etiquetado como \"científico\" es confiable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un argumento científico requiere examinar la metodología, no solo los resultados. Una muestra de 20 pacientes es demasiado pequeña para generalizar a la población. Sin grupo de control, no se puede saber si la mejoría se debió al medicamento o al efecto placebo, al paso del tiempo u otros factores. El 95% suena impresionante, pero con 20 personas solo significa que 19 mejoraron. La evaluación crítica de argumentos científicos exige entender conceptos básicos de metodología: muestra, control, replicabilidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v11",
+      "statement": "¿Qué tipo de argumento es este?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento deductivo válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay deducción lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Un argumento basado en evidencia científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Un falso dilema o falacia de falsa alternativa: presenta solo dos opciones (apoyar la reforma o que los niños sean analfabetas), ignorando otras posibilidades.",
+          "is_correct": true,
+          "feedback": "Correcto. La reforma no es la única opción para mejorar la educación."
+        },
+        {
+          "letter": "D",
+          "text": "Un argumento sólido porque la educación es importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La importancia del tema no hace sólido el argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este argumento presenta un falso dilema: o apoyamos esta reforma específica o los niños serán analfabetas. Ignora otras posibilidades: otras reformas, mejoras graduales, cambios en otros sectores, etc. Además, no presenta evidencia de que esta reforma en particular vaya a resolver el problema del analfabetismo. La evaluación crítica detecta cuándo un argumento reduce artificialmente las opciones para presionar una decisión. La realidad rara vez ofrece solo dos caminos, y el pensamiento crítico busca alternativas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-v12",
+      "statement": "¿Cuál de los siguientes proyectos demuestra MEJOR la habilidad de evaluar y refutar argumentos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificar que un anuncio usa un color llamativo y decir que no gusta estéticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaluación estética no es refutación argumentativa."
+        },
+        {
+          "letter": "B",
+          "text": "Decir que el argumento es \"malo\" sin explicar por qué.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica debe ser razonada."
+        },
+        {
+          "letter": "C",
+          "text": "Tomar un argumento publicitario que dice \"este producto es el más vendido, por lo tanto es el mejor\", identificar la falacia (popularidad no es calidad) y construir una refutación que muestre por qué las ventas no demuestran superioridad, usando ejemplos de productos populares pero de baja calidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Identifica la falacia, la nombra y la refuta con evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir un texto que apoye el argumento original con más opiniones personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reforzar un argumento débil no es evaluación crítica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La opción C demuestra evaluación crítica completa: 1) identifica un argumento específico, 2) reconoce la falacia (argumentum ad populum: apelación a la popularidad), 3) explica por qué es una falacia (el número de ventas no prueba calidad), y 4) ofrece una refutación con ejemplos concretos. Evaluar argumentos no es simplemente estar de acuerdo o en desacuerdo; es analizar la estructura lógica, identificar debilidades y construir una respuesta fundamentada. Esta habilidad es esencial para la participación ciudadana informada y la toma de decisiones racionales.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W26-evaluacion-argumentos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

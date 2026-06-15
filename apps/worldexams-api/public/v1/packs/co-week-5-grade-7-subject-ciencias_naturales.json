@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.846Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v1",
+      "statement": "¿Cuáles son los dos tipos principales de reproducción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducción vegetal y animal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa clasificación no es la principal."
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción asexual y sexual.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las dos categorías fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducción interna y externa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son tipos de fertilización, no de reproducción."
+        },
+        {
+          "letter": "D",
+          "text": "Reproducción natural y artificial. \nLa reproducción es la capacidad de los seres vivos de producir descendencia. La reproducción ASEXUAL: un solo progenitor, descendencia genéticamente idéntica (clones). Ejemplos: bacterias (fisión binaria), estrellas de mar (regeneración), plantas (esquejes). La reproducción SEXUAL: dos progenitores, descendencia genéticamente única. Ejemplos: humanos, animales, plantas con flores.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v2",
+      "statement": "¿Cuál es la función de los ovarios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir espermatozoides.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es función de los testículos."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar la orina.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Producir óvulos y hormonas femeninas (estrógeno y progesterona).",
+          "is_correct": true,
+          "feedback": "Correcto. Los ovarios tienen función reproductiva y hormonal."
+        },
+        {
+          "letter": "D",
+          "text": "Transportar el óvulo al útero. \nLos ovarios son las gónadas femeninas. Producen los óvulos (células reproductoras femeninas) y secretan hormonas: estrógeno (desarrollo de caracteres sexuales secundarios) y progesterona (prepara el útero para el embarazo). Cada mujer tiene dos ovarios, que liberan un óvulo aproximadamente cada 28 días durante la ovulación.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es función de las trompas de Falopio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v3",
+      "statement": "¿Dónde se producen los espermatozoides?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la próstata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La próstata produce líquido seminal, no espermatozoides."
+        },
+        {
+          "letter": "B",
+          "text": "En los testículos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los testículos producen espermatozoides y testosterona."
+        },
+        {
+          "letter": "C",
+          "text": "En el pene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pene es el órgano copulador, no produce espermatozoides."
+        },
+        {
+          "letter": "D",
+          "text": "En las vesículas seminales. \nLos testículos son las gónadas masculinas. Producen espermatozoides (aproximadamente 1,500 por segundo) y la hormona testosterona. Los espermatozoides maduran en el epidídimo y luego viajan a través del conducto deferente. Durante la eyaculación, se mezclan con líquidos de la próstata y vesículas seminales para formar el semen.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producen líquido seminal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v4",
+      "statement": "¿Dónde ocurre normalmente la fecundación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el útero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El útero es donde se implanta el óvulo fecundado."
+        },
+        {
+          "letter": "B",
+          "text": "En el ovario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El óvulo sale del ovario."
+        },
+        {
+          "letter": "C",
+          "text": "En las trompas de Falopio.",
+          "is_correct": true,
+          "feedback": "Correcto. La fecundación ocurre en el tercio externo de la trompa."
+        },
+        {
+          "letter": "D",
+          "text": "En la vagina. \nLa fecundación (unión del óvulo y el espermatozoide) ocurre normalmente en las trompas de Falopio, específicamente en la ampolla (tercio externo). Solo un espermatozoide logra penetrar el óvulo. Una vez fecundado, el cigoto comienza a dividirse mientras viaja hacia el útero, donde se implanta después de aproximadamente 5-7 días.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v5",
+      "statement": "¿Cuál es la función de los métodos anticonceptivos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curar enfermedades de transmisión sexual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo algunos protegen contra ETS."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la fertilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Prevenir el embarazo y algunos también protegen contra infecciones de transmisión sexual (ITS).",
+          "is_correct": true,
+          "feedback": "Correcto. Los métodos tienen diferentes propósitos."
+        },
+        {
+          "letter": "D",
+          "text": "Regular la ovulación. \nLos métodos anticonceptivos se clasifican en: (1) Barrera: condón (también protege contra ITS), diafragma. (2) Hormonales: píldora, parche, inyección. (3) Dispositivos intrauterinos (DIU). (4) Naturales: ritmo, temperatura basal. (5) Definitivos: ligadura de trompas, vasectomía. Solo el condón protege contra ITS.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo algunos lo hacen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v6",
+      "statement": "¿Cuánto dura un embarazo humano normal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 meses.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "12 meses.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 9 meses (40 semanas).",
+          "is_correct": true,
+          "feedback": "Correcto. El embarazo a término es de 38-42 semanas."
+        },
+        {
+          "letter": "D",
+          "text": "3 meses. \nEl embarazo humano dura aproximadamente 280 días (40 semanas o 9 meses) desde el último período menstrual. Se divide en tres trimestres: (1) Primer trimestre (semanas 1-12): formación de órganos (embrión). (2) Segundo trimestre (13-27): crecimiento y movimientos fetales. (3) Tercer trimestre (28-40): maduración de órganos y aumento de peso.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v7",
+      "statement": "¿Cuál es la principal ventaja de la reproducción sexual sobre la asexual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más rápida y eficiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asexual es más rápida."
+        },
+        {
+          "letter": "B",
+          "text": "Produce más descendencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Genera variabilidad genética en la descendencia, lo que permite adaptarse mejor a cambios ambientales.",
+          "is_correct": true,
+          "feedback": "Correcto. La variabilidad genética es clave para la evolución."
+        },
+        {
+          "letter": "D",
+          "text": "No requiere encontrar pareja. \nLa reproducción sexual tiene la gran ventaja de la variabilidad genética: cada descendiente es genéticamente único (combinación del ADN de ambos padres). Esto permite que las poblaciones se adapten mejor a cambios ambientales y enfermedades. La reproducción asexual produce clones (idénticos), lo que es eficiente pero riesgoso si el ambiente cambia.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asexual no requiere pareja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v8",
+      "statement": "¿Qué ocurre durante la ovulación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El óvulo se implanta en el útero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre después de la fecundación."
+        },
+        {
+          "letter": "B",
+          "text": "El endometrio se desprende (menstruación).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la menstruación."
+        },
+        {
+          "letter": "C",
+          "text": "Un óvulo maduro es liberado del ovario hacia la trompa de Falopio.",
+          "is_correct": true,
+          "feedback": "Correcto. La ovulación ocurre aproximadamente el día 14 del ciclo."
+        },
+        {
+          "letter": "D",
+          "text": "El útero se prepara para el parto. \nEl ciclo menstrual promedio dura 28 días. La ovulación ocurre aproximadamente el día 14: un óvulo maduro es liberado del ovario. Si hay espermatozoides en la trompa, puede ocurrir la fecundación. Si no hay fecundación, el óvulo se desintegra y el endometrio se desprende (menstruación, días 1-5). Las fases del ciclo son: menstrual, folicular, ovulatoria y lútea.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v9",
+      "statement": "¿Cuál es la mejor manera de prevenir las ITS?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomar antibióticos regularmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No previenen, y solo funcionan para bacterias."
+        },
+        {
+          "letter": "B",
+          "text": "Ducharse después de las relaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No previene ITS."
+        },
+        {
+          "letter": "C",
+          "text": "Usar condón correctamente en todas las relaciones sexuales.",
+          "is_correct": true,
+          "feedback": "Correcto. El condón es el único método que protege contra la mayoría de ITS."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar la píldora anticonceptiva. \nLas Infecciones de Transmisión Sexual (ITS) incluyen VIH, clamidia, gonorrea, sífilis, herpes, VPH. La prevención más efectiva es el uso correcto y consistente del condón. Otras medidas: vacunación (VPH, hepatitis B), realizarse pruebas regularmente, comunicación con la pareja y abstinencia.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. No protege contra ITS."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v10",
+      "statement": "¿Por qué es importante la educación sexual integral en los colegios?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para promover la actividad sexual entre adolescentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evidencia muestra lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Para que los estudiantes memoricen los órganos reproductores.",
+          "is_correct": false,
+          "feedback": "Solo una parte."
+        },
+        {
+          "letter": "C",
+          "text": "Para proporcionar información basada en evidencia sobre sexualidad, prevención de ITS y embarazos no planificados, y promover decisiones responsables.",
+          "is_correct": true,
+          "feedback": "Correcto. La educación sexual integral tiene múltiples beneficios."
+        },
+        {
+          "letter": "D",
+          "text": "No es importante. \nLa educación sexual integral basada en evidencia ayuda a: (1) Reducir embarazos adolescentes no planificados. (2) Prevenir ITS. (3) Promover relaciones saludables y respetuosas. (4) Desarrollar habilidades de toma de decisiones. (5) Combatir mitos y desinformación. La OMS y UNESCO respaldan la educación sexual integral.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v11",
+      "statement": "¿Cuánto dura la gestación en comparación con otros mamíferos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la más larga de todos los mamíferos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El elefante tiene 22 meses."
+        },
+        {
+          "letter": "B",
+          "text": "Es la más corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Es intermedia: 9 meses, más larga que un perro (2 meses) pero más corta que un elefante (22 meses).",
+          "is_correct": true,
+          "feedback": "Correcto. La gestación varía según la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los mamíferos gestan 9 meses. \nLa duración de la gestación varía según el tamaño y complejidad del animal: ratón (21 días), perro (63 días), humano (280 días), vaca (283 días), caballo (340 días), elefante (660 días). En general, animales más grandes tienen gestaciones más largas. La gestación humana es relativamente larga porque los humanos tenemos cerebros grandes que requieren mucho desarrollo.\n\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-v12",
+      "statement": "¿Cuál es la explicación biológica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recibe el ADN completo de un solo padre.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Recibe solo las características del padre.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Recibe la mitad del ADN de cada progenitor, combinándose aleatoriamente, lo que crea una mezcla única.",
+          "is_correct": true,
+          "feedback": "Correcto. La recombinación genética explica la herencia."
+        },
+        {
+          "letter": "D",
+          "text": "Recibe los genes de los abuelos solamente. \nCada progenitor aporta 23 cromosomas (23 del óvulo + 23 del espermatozoide = 46). La combinación es aleatoria gracias a la meiosis y la recombinación genética. Por eso los hijos se parecen a ambos padres sin ser idénticos a ninguno, y los hermanos (no gemelos) comparten aproximadamente el 50% de su ADN pero no son iguales.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

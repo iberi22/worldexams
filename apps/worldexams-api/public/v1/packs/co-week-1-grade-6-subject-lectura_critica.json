@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.501Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v1",
+      "statement": "¿Cuál es el propósito principal de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector de una opinión mediante argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito del texto argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "Informar, explicar o transmitir conocimientos sobre un tema de manera objetiva y clara.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expositivo busca presentar información de forma organizada y objetiva, sin opiniones personales del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Contar una historia con personajes, tiempo y espacio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el propósito del texto narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Describir las características sensoriales de un objeto o lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los textos expositivos pueden incluir descripciones, su propósito principal no es describir sensorialmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos expositivos son aquellos que tienen como objetivo informar o explicar un tema de manera objetiva. Se encuentran en enciclopedias, libros de texto, artículos científicos, informes y noticias. Se caracterizan por el uso de un lenguaje claro, preciso y objetivo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes es un ejemplo de texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento \"La gallina degollada\" de Horacio Quiroga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un cuento, que es un texto narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Un artículo de enciclopedia sobre el río Magdalena.",
+          "is_correct": true,
+          "feedback": "Correcto. Un artículo de enciclopedia explica e informa objetivamente sobre un tema."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema de amor de Pablo Neruda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto lírico, no expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Una columna de opinión en El Tiempo criticando al gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto argumentativo, ya que busca convencer al lector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos expositivos son informativos y objetivos. Ejemplos comunes: artículos de enciclopedia, textos escolares, informes científicos, noticias (en su parte informativa), manuales de instrucciones. Lo que los distingue es que su propósito es explicar, no opinar ni narrar historias ficticias.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v3",
+      "statement": "Lee el fragmento: \"El Carnaval de Barranquilla se celebra cada año en febrero o marzo. Fue declarado Obra Maestra del Patrimonio Oral e Intangible de la Humanidad por la UNESCO en 2003. Sus principales eventos son la Batalla de Flores, la Gran Parada y la Noche de las Máscaras.\" ¿Cuál es el tema central de este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La historia del Carnaval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona la UNESCO pero no habla del origen histórico del carnaval."
+        },
+        {
+          "letter": "B",
+          "text": "La música del Carnaval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de música."
+        },
+        {
+          "letter": "C",
+          "text": "La información general sobre el Carnaval de Barranquilla: fecha, reconocimiento y eventos principales.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expositivo presenta datos objetivos y organizados sobre el Carnaval."
+        },
+        {
+          "letter": "D",
+          "text": "Las máscaras del Carnaval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo menciona la Noche de las Máscaras como un evento, no es el tema central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos expositivos presentan información organizada sobre un tema. Para identificar el tema central, hay que preguntarse: ¿de qué habla el texto en su conjunto? En este caso, el texto ofrece datos generales sobre el Carnaval de Barranquilla, no se enfoca en un aspecto específico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v4",
+      "statement": "Si un estudiante debe escribir un texto expositivo sobre el café colombiano, ¿cuál de las siguientes estructuras es la más adecuada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción que opina que el café es la mejor bebida del mundo, argumentos a favor y conclusión que invita a comprar café colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa estructura es propia de un texto argumentativo o persuasivo, no expositivo."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción con datos generales del café en Colombia, desarrollo con subtemas (cultivo, zonas productoras, proceso de exportación), y conclusión con datos resumidos.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura del texto expositivo es: introducción (presenta el tema), desarrollo (divide el tema en subtemas) y conclusión (resume o sintetiza)."
+        },
+        {
+          "letter": "C",
+          "text": "Inicio con \"Había una vez un caficultor\", nudo donde el caficultor enfrenta problemas, y final feliz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de un texto narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta retórica, cita de un experto, y llamado a la acción final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa estructura mezcla elementos argumentativos y persuasivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura del texto expositivo es: introducción (presentación del tema), desarrollo (explicación ordenada con subtemas, datos, ejemplos) y conclusión (síntesis de lo expuesto). Es importante que el lenguaje sea objetivo y que la información esté organizada de forma clara, usando conectores lógicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v5",
+      "statement": "¿Cuál de los siguientes recursos es CARACTERÍSTICO de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diálogos entre personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diálogos son característicos de los textos narrativos y dramáticos."
+        },
+        {
+          "letter": "B",
+          "text": "Rima y métrica en los versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son recursos de los textos líricos o poéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Definiciones, ejemplos, clasificaciones y uso de gráficos o tablas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos expositivos usan definiciones para explicar conceptos, ejemplos para ilustrar, clasificaciones para organizar, y gráficos para visualizar datos."
+        },
+        {
+          "letter": "D",
+          "text": "Metáforas y personificaciones constantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pueden aparecer, las figuras literarias son más propias de la literatura que de los textos expositivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos expositivos se apoyan en recursos como: definiciones (para aclarar conceptos), ejemplos (para ilustrar), clasificaciones (para organizar información), comparaciones (para mostrar semejanzas/diferencias), y recursos visuales (tablas, gráficos, mapas conceptuales). Todo con el fin de hacer la información más clara para el lector.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v6",
+      "statement": "¿En qué se diferencia un texto expositivo de un texto narrativo cuando ambos hablan sobre el río Magdalena?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El expositivo es más largo que el narrativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es una diferencia de género textual."
+        },
+        {
+          "letter": "B",
+          "text": "El narrativo usa lenguaje técnico y el expositivo usa lenguaje cotidiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés o, más precisamente, el expositivo puede usar lenguaje técnico mientras el narrativo usa lenguaje literario."
+        },
+        {
+          "letter": "C",
+          "text": "El expositivo presenta datos objetivos (longitud, caudal, ciudades que atraviesa); el narrativo cuenta una historia con personajes y acciones que ocurren en el río.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expositivo informa con datos objetivos; el narrativo cuenta una historia (real o ficticia) con personajes, tiempo y espacio."
+        },
+        {
+          "letter": "D",
+          "text": "El expositivo tiene moraleja y el narrativo no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja es propia de las fábulas, no de todos los textos narrativos ni expositivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto expositivo se centra en informar con objetividad, usando datos, definiciones y clasificaciones. El texto narrativo, en cambio, cuenta una historia con personajes, conflicto, tiempo y espacio. Ambos pueden tratar el mismo tema (el río Magdalena) pero con propósitos y estructuras diferentes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v7",
+      "statement": "Lee con atención: \"Los Llanos Orientales de Colombia se extienden por los departamentos de Meta, Casanare, Arauca y Vichada. Su clima es cálido, con temperaturas promedio de 27°C. La economía se basa en la ganadería extensiva, la agricultura (arroz, palma aceitera) y, más recientemente, la explotación petrolera.\" ¿Qué tipo de organización o estructura predomina en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causa-efecto: explica las causas del clima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no establece relaciones de causa-efecto."
+        },
+        {
+          "letter": "B",
+          "text": "Secuencia temporal: ordena hechos en el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una secuencia cronológica."
+        },
+        {
+          "letter": "C",
+          "text": "Descriptiva y clasificatoria: describe la ubicación, el clima y clasifica las actividades económicas.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto organiza la información por subtemas (ubicación, clima, economía) usando una estructura descriptiva y clasificatoria, típica de los textos expositivos."
+        },
+        {
+          "letter": "D",
+          "text": "Problema-solución: presenta un problema y su solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un problema planteado ni solución ofrecida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos expositivos pueden organizarse de varias formas: descriptiva (describe características), secuencial (orden cronológico), causa-efecto, problema-solución, o comparación-contraste. El fragmento sobre los Llanos usa principalmente una estructura descriptiva y clasificatoria, presentando información organizada por categorías.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v8",
+      "statement": "¿Por qué los textos expositivos deben evitar las opiniones personales del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los autores de textos expositivos no tienen opiniones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos tenemos opiniones, pero en este tipo de texto no deben aparecer."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las opiniones hacen el texto más aburrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de entretenimiento sino de objetividad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el propósito del texto expositivo es informar objetivamente, no persuadir. Las opiniones restarían credibilidad y objetividad a la información presentada.",
+          "is_correct": true,
+          "feedback": "Correcto. La objetividad es esencial en el texto expositivo: los datos deben ser verificables y la información neutral."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno colombiano prohíbe las opiniones en los textos escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal prohibición legal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La objetividad es la característica central del texto expositivo. El autor debe presentar información verificable, basada en datos y hechos, sin incluir sus opiniones, emociones o juicios de valor. Esto garantiza que el lector reciba información confiable que pueda usar para formarse su propio criterio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v9",
+      "statement": "Un estudiante escribió: \"El volcán Galeras, ubicado cerca de Pasto, es uno de los volcanes más activos de Colombia. Tiene una altura de 4.276 metros. Yo creo que es muy peligroso y la gente debería irse de ahí porque puede hacer erupción en cualquier momento.\" ¿Por qué este texto NO es puramente expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene datos incorrectos sobre la altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura (4.276 m) es correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque habla de un volcán colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema local no afecta la clasificación textual."
+        },
+        {
+          "letter": "C",
+          "text": "Porque mezcla datos objetivos con opiniones personales (\"yo creo\", \"la gente debería\"), que son propias del texto argumentativo.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto comienza siendo expositivo (datos objetivos), pero luego incluye opiniones y recomendaciones personales, que no pertenecen al texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de conclusión no es lo que lo hace no-expositivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto expositivo puro debe mantenerse objetivo de principio a fin. Frases como \"yo creo\", \"pienso que\", \"deberían\" indican subjetividad y transforman el texto en argumentativo o de opinión. Es importante que los estudiantes aprendan a distinguir entre información objetiva y opinión personal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-v10",
+      "statement": "Un estudiante presenta este texto: \"Colombia tiene aproximadamente 60.000 especies de plantas y más de 1.900 especies de aves. Es el país más biodiverso del mundo por kilómetro cuadrado. ¿No es increíble? Debemos cuidar nuestra naturaleza porque es la más hermosa del planeta.\" ¿Qué cambios debe hacer para que sea un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar todos los datos numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos numéricos son apropiados en textos expositivos."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar las opiniones y exclamaciones subjetivas (\"¿No es increíble?\", \"es la más hermosa\") para mantener un tono objetivo e informativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Para que sea expositivo, debe eliminar las expresiones subjetivas y quedarse solo con los datos verificables y la información objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Agregar más adjetivos calificativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos calificativos subjetivos (\"hermosa\", \"increíble\") son justo lo que debe evitar."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el tema a otro país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema no determina si es expositivo o no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para escribir un texto expositivo correcto, se debe: 1) usar lenguaje objetivo y neutral, 2) presentar datos verificables, 3) evitar opiniones personales y juicios de valor, 4) organizar la información de manera clara. Las preguntas retóricas (\"¿No es increíble?\") y las exclamaciones de admiración son recursos subjetivos que deben evitarse.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

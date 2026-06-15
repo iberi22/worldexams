@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.656Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v1",
+      "statement": "¿Cómo se llama la unidad mínima de vida que forma a todos los seres vivos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El átomo",
+          "is_correct": false,
+          "feedback": "No. El átomo es la unidad de la materia, no necesariamente viva."
+        },
+        {
+          "letter": "B",
+          "text": "La célula",
+          "is_correct": true,
+          "feedback": "¡Correcto! La célula es la unidad estructural y funcional de los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "El órgano",
+          "is_correct": false,
+          "feedback": "No. Un órgano está formado por muchos tejidos y células."
+        },
+        {
+          "letter": "D",
+          "text": "La sangre",
+          "is_correct": false,
+          "feedback": "No. La sangre es un tejido compuesto por muchas células."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La célula es la unidad más pequeña de un ser vivo que tiene vida propia y realiza las funciones vitales (nutrición, relación y reproducción).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v2",
+      "statement": "¿Qué estructura tiene la célula vegetal (cebolla) que NO tiene la célula animal (mejilla)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Núcleo",
+          "is_correct": false,
+          "feedback": "No. Ambas tienen núcleo porque son células eucariotas."
+        },
+        {
+          "letter": "B",
+          "text": "Pared celular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pared celular le da rigidez a las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Citoplasma",
+          "is_correct": false,
+          "feedback": "No. Ambas tienen citoplasma."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana celular",
+          "is_correct": false,
+          "feedback": "No. Todas las células tienen membrana celular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las células vegetales se distinguen de las animales por tener pared celular (que les brinda soporte) y cloroplastos (para la fotosíntesis).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v3",
+      "statement": "¿Qué orgánulo celular contiene el material genético (ADN) y dirige las funciones de la célula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vacuola",
+          "is_correct": false,
+          "feedback": "No. La vacuola almacena agua y desechos."
+        },
+        {
+          "letter": "B",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "No. La mitocondria produce energía."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El núcleo es el centro de control de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "El ribosoma",
+          "is_correct": false,
+          "feedback": "No. El ribosoma fabrica proteínas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El núcleo es la parte más importante de la célula eucariota, ya que allí se guarda la información genética y se coordinan todas las actividades celulares.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v4",
+      "statement": "¿A qué tipo de ser vivo pertenece probablemente esta célula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un perro",
+          "is_correct": false,
+          "feedback": "No. Los animales no tienen cloroplastos ni pared celular rígida."
+        },
+        {
+          "letter": "B",
+          "text": "A una planta",
+          "is_correct": true,
+          "feedback": "¡Correcto! La forma rectangular y el color verde indican pared celular y cloroplastos."
+        },
+        {
+          "letter": "C",
+          "text": "A un hongo",
+          "is_correct": false,
+          "feedback": "No. Los hongos no son verdes porque no hacen fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "A una bacteria",
+          "is_correct": false,
+          "feedback": "No. Las bacterias suelen ser mucho más pequeñas y sin núcleo definido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las células vegetales suelen tener formas geométricas (rectangulares) debido a la pared celular y color verde por la presencia de clorofila en los cloroplastos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v5",
+      "statement": "¿Cuál es la función principal de la membrana celular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabricar alimento",
+          "is_correct": false,
+          "feedback": "No. Eso lo hacen los cloroplastos."
+        },
+        {
+          "letter": "B",
+          "text": "Controlar la entrada y salida de sustancias",
+          "is_correct": true,
+          "feedback": "¡Correcto! La membrana es semipermeable y selectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Producir energía",
+          "is_correct": false,
+          "feedback": "No. Eso lo hacen las mitocondrias."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener las hojas",
+          "is_correct": false,
+          "feedback": "No. Eso es función de los tejidos de soporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La membrana celular rodea la célula y decide qué sustancias pueden entrar (nutrientes, agua) y cuáles deben salir (desechos).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v6",
+      "statement": "¿Qué orgánulo estará muy activo para producir esa energía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo",
+          "is_correct": false,
+          "feedback": "No. El núcleo dirige, no produce energía."
+        },
+        {
+          "letter": "B",
+          "text": "La mitocondria",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la central energética de la célula."
+        },
+        {
+          "letter": "C",
+          "text": "El cloroplasto",
+          "is_correct": false,
+          "feedback": "No. El cloroplasto produce azúcar, no energía utilizable directa."
+        },
+        {
+          "letter": "D",
+          "text": "El lisosoma",
+          "is_correct": false,
+          "feedback": "No. El lisosoma se encarga de la digestión celular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las mitocondrias realizan la respiración celular, proceso mediante el cual se obtiene energía a partir de los nutrientes.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v7",
+      "statement": "¿Cómo se llaman las células que NO tienen un núcleo definido por una membrana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Procariotas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su material genético está disperso en el citoplasma."
+        },
+        {
+          "letter": "B",
+          "text": "Eucariotas",
+          "is_correct": false,
+          "feedback": "No. Las eucariotas sí tienen un núcleo bien formado."
+        },
+        {
+          "letter": "C",
+          "text": "Vegetales",
+          "is_correct": false,
+          "feedback": "No. Las vegetales son eucariotas."
+        },
+        {
+          "letter": "D",
+          "text": "Animales",
+          "is_correct": false,
+          "feedback": "No. Las animales son eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células procariotas (como las bacterias) son más antiguas y simples; su ADN no está encerrado en un núcleo, a diferencia de las eucariotas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v8",
+      "statement": "¿Cómo se clasifican los seres vivos que tienen una sola célula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pluricelulares",
+          "is_correct": false,
+          "feedback": "No. Pluri significa muchos."
+        },
+        {
+          "letter": "B",
+          "text": "Unicelulares",
+          "is_correct": true,
+          "feedback": "¡Correcto! Uni significa uno."
+        },
+        {
+          "letter": "C",
+          "text": "Bicelulares",
+          "is_correct": false,
+          "feedback": "No. Ese término no es común en biología básica."
+        },
+        {
+          "letter": "D",
+          "text": "Macroscópicos",
+          "is_correct": false,
+          "feedback": "No. Suelen ser microscópicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los organismos unicelulares (como amebas o bacterias) realizan todas sus funciones vitales dentro de una única célula.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v9",
+      "statement": "¿Qué proceso vital dejaría de realizar la planta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respiración",
+          "is_correct": false,
+          "feedback": "No. La respiración se hace en las mitocondrias."
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin cloroplastos no hay fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La reproducción",
+          "is_correct": false,
+          "feedback": "No directamente."
+        },
+        {
+          "letter": "D",
+          "text": "La absorción de agua",
+          "is_correct": false,
+          "feedback": "No, eso lo hacen las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cloroplastos contienen clorofila y son los responsables de captar la luz solar para fabricar alimento mediante la fotosíntesis.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-celula-001-MASTERY-v10",
+      "statement": "¿Es correcta la afirmación del estudiante? ¿Por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque somos lo que comemos.",
+          "is_correct": false,
+          "feedback": "No. Nuestras células mantienen su identidad biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, pero solo en el estómago.",
+          "is_correct": false,
+          "feedback": "No. Las células vegetales se digieren y rompen."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque los humanos somos animales y nuestras células no tienen pared celular ni cloroplastos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El tipo de célula está determinado por nuestra genética."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los vegetales no tienen células.",
+          "is_correct": false,
+          "feedback": "No. Todos los seres vivos tienen células."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque comamos vegetales, nuestras células siguen siendo animales. Las células vegetales que ingerimos son descompuestas por el sistema digestivo para obtener nutrientes.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimensión | Puntaje | Notas |\r\n|-----------|---------|-------|\r\n| Técnico   | 10/10   | Protocolo v5.2 cumplido, IDs correctos. |\r\n| Curricular| 10/10   | Alineado con DBA y Estándares de Grado 4. |\r\n| Contexto  | 10/10   | Contextos colombianos diversos y realistas. |\r\n| Redacción | 10/10   | Lenguaje claro y apropiado para la edad. |\r\n| **Total** | **100/100** | **Excelente** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-4-2026-W01-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

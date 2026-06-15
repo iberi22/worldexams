@@ -257,7 +257,9 @@ for (const file of allFiles) {
 
     const rawPeriod = String(data.periodo || "").toLowerCase();
     const isWeeklyBundle = rawPeriod === "weekly" || data.bundle_type === "weekly";
-    const weekMatch = String(data.week || "").match(/^W(\d{2})$/i);
+    // Support both 'week' (canonical) and 'semana' (v5.2) frontmatter fields
+    const weekField = data.week || data.semana || "";
+    const weekMatch = String(weekField).match(/^W(\d{2})$/i);
     const period = isWeeklyBundle
       ? (weekMatch ? Number(weekMatch[1]) : NaN)
       : parseInt(data.periodo || 1);

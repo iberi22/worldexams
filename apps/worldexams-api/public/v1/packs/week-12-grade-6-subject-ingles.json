@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-12-grade-6-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.167Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v1",
+      "statement": "What tenses in zero conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "present simple + will + verb",
+          "is_correct": false,
+          "feedback": "First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "present simple + present simple",
+          "is_correct": true,
+          "feedback": "Correcto. Zero = verdades universales."
+        },
+        {
+          "letter": "C",
+          "text": "past simple + would + verb",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "past perfect + would have",
+          "is_correct": false,
+          "feedback": "Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Zero conditional: If + present simple, present simple. \"If you heat ice, it melts.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v2",
+      "statement": "Structure of first conditional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If + present simple, present simple",
+          "is_correct": false,
+          "feedback": "Zero."
+        },
+        {
+          "letter": "B",
+          "text": "If + present simple, will + base verb",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "If + past simple, would + verb",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "If + will + verb, present simple",
+          "is_correct": false,
+          "feedback": "Will no va en cláusula if."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "First: if + presente simple, will + base verb. \"If it rains, I will stay home.\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v3",
+      "statement": "Complete: \"If you heat water to 100°C, it boils.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will heat / will boil",
+          "is_correct": false,
+          "feedback": "No will in zero."
+        },
+        {
+          "letter": "B",
+          "text": "heat / boils",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "heated / boiled",
+          "is_correct": false,
+          "feedback": "Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "are heating / is boiling",
+          "is_correct": false,
+          "feedback": "Continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hecho científico con zero conditional.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v4",
+      "statement": "Complete: \"If she studies, she will pass the exam.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will study / passes",
+          "is_correct": false,
+          "feedback": "Will en cláusula if."
+        },
+        {
+          "letter": "B",
+          "text": "studies / passes",
+          "is_correct": false,
+          "feedback": "Zero, no aplica."
+        },
+        {
+          "letter": "C",
+          "text": "studies / will pass",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "studied / would pass",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"If she studies, she will pass\" = Si estudia, pasará.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v5",
+      "statement": "Correct first conditional about visiting Monserrate:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If you will visit, you see history.",
+          "is_correct": false,
+          "feedback": "Will en if."
+        },
+        {
+          "letter": "B",
+          "text": "If you visit, you will learn a lot.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "If you visited, you would learn.",
+          "is_correct": false,
+          "feedback": "Second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "If you visit, you learned.",
+          "is_correct": false,
+          "feedback": "Past simple al final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "First conditional: if + present, will + base verb.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v6",
+      "statement": "What does \"unless\" mean? \"Unless you study, you will fail.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Even if",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "If not",
+          "is_correct": true,
+          "feedback": "Correcto. Unless = if not."
+        },
+        {
+          "letter": "C",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "After",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Unless\" = \"if not\" (a menos que). \"Unless you study\" = \"If you don't study.\"\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v7",
+      "statement": "Zero vs First conditional difference?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero uses will.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Zero = always true. First = possible future.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Same thing.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Zero is for past.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Zero: verdades universales. First: posibilidades futuras reales.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v8",
+      "statement": "Which sentence has an error?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If it rains, I will take an umbrella.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "If you heat water, it boils.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "If she will come, she will visit.",
+          "is_correct": true,
+          "feedback": "Will en cláusula if."
+        },
+        {
+          "letter": "D",
+          "text": "If you don't eat, you get hungry.",
+          "is_correct": false,
+          "feedback": "Correcto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Error: \"will\" en la cláusula if. CORRECTO: \"If she comes, she will visit.\"\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v9",
+      "statement": "\"If you eat too much sugar, you have problems.\" Type?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero conditional",
+          "is_correct": true,
+          "feedback": "Correcto. Verdad general."
+        },
+        {
+          "letter": "B",
+          "text": "First conditional",
+          "is_correct": false,
+          "feedback": "No will."
+        },
+        {
+          "letter": "C",
+          "text": "Second conditional",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Third conditional",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es zero porque expresa una verdad general, no una posibilidad futura.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-v10",
+      "statement": "Correct first conditional about visiting Monserrate tomorrow:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If you visit, you see the views.",
+          "is_correct": false,
+          "feedback": "Zero, not first."
+        },
+        {
+          "letter": "B",
+          "text": "If you visit tomorrow, you will enjoy it.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "If you visited, you would enjoy it.",
+          "is_correct": false,
+          "feedback": "Second cond."
+        },
+        {
+          "letter": "D",
+          "text": "If you will visit, you will enjoy.",
+          "is_correct": false,
+          "feedback": "Will en if."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "First conditional: if + present + will + base verb.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W12-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.611Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v1",
+      "statement": "¿Cómo se llaman los animales que se alimentan principalmente de plantas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carnívoros se alimentan de carne."
+        },
+        {
+          "letter": "B",
+          "text": "Herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los herbívoros se alimentan de plantas: hierba, hojas, frutos, semillas."
+        },
+        {
+          "letter": "C",
+          "text": "Omnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los omnívoros comen tanto plantas como carne."
+        },
+        {
+          "letter": "D",
+          "text": "Insectívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insectívoros se alimentan de insectos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los herbívoros tienen adaptaciones como molares planos para moler plantas y sistemas digestivos largos para descomponer celulosa. En Colombia encontramos venado cola blanca, tapir, lapa y perezoso como herbívoros representativos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v2",
+      "statement": "El jaguar, que caza y se alimenta de otros animales, es un animal:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnívoro",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El jaguar es carnívoro, se alimenta de la carne de animales que caza."
+        },
+        {
+          "letter": "B",
+          "text": "Herbívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros se alimentan de plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Omnívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los omnívoros comen plantas y carne."
+        },
+        {
+          "letter": "D",
+          "text": "Frugívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los frugívoros se alimentan de frutas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El jaguar (Panthera onca) es el felino más grande de América y habita en selvas colombianas como la Amazonía y el Pacífico. Como superdepredador, controla las poblaciones de sus presas y mantiene el equilibrio ecológico.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v3",
+      "statement": "¿Cómo se clasifican el perro y el conejo según su alimentación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son herbívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perro no es herbívoro."
+        },
+        {
+          "letter": "B",
+          "text": "El perro es carnívoro y el conejo es omnívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El perro es omnívoro y el conejo es herbívoro",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los perros descienden de carnívoros pero se han adaptado a dieta variada. El conejo come solo plantas."
+        },
+        {
+          "letter": "D",
+          "text": "El perro es herbívoro y el conejo es carnívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El perro doméstico desciende del lobo, carnívoro por naturaleza, pero la domesticación le ha dado capacidad de digerir carbohidratos. El conejo es herbívoro estricto con incisivos de crecimiento continuo y sistema digestivo adaptado a la celulosa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v4",
+      "statement": "¿Qué tipo de alimentación tienen las palomas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Herbívora exclusiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. También comen insectos."
+        },
+        {
+          "letter": "B",
+          "text": "Omnívora",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las palomas comen tanto alimentos vegetales como animales."
+        },
+        {
+          "letter": "C",
+          "text": "Carnívora",
+          "is_correct": false,
+          "feedback": "Incorrecto. También comen muchos alimentos vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Nectarívora",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se alimentan de néctar como los colibríes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los animales omnívoros tienen dieta variada, lo que les da ventaja adaptativa. En Colombia, ejemplos de omnívoros incluyen cerdos, osos de anteojos, micos cariblancos y el ser humano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v5",
+      "statement": "¿Cuál grupo contiene solo herbívoros?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "León y tigre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son carnívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Vaca y oveja",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son herbívoros rumiantes."
+        },
+        {
+          "letter": "C",
+          "text": "Cerdo y oso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son omnívoros."
+        },
+        {
+          "letter": "D",
+          "text": "Vaca y cerdo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerdo es omnívoro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los rumiantes como vacas y ovejas tienen un estómago con cuatro compartimentos (rumen, retículo, omaso, abomaso). Microorganismos en el rumen fermentan la celulosa y permiten aprovechar nutrientes de plantas fibrosas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v6",
+      "statement": "Un animal con colmillos afilados y molares puntiagudos probablemente es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Herbívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros tienen molares planos."
+        },
+        {
+          "letter": "B",
+          "text": "Carnívoro",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los carnívoros tienen caninos largos para sujetar presas y molares carniceros para cortar carne."
+        },
+        {
+          "letter": "C",
+          "text": "Omnívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los omnívoros tienen dientes intermedios."
+        },
+        {
+          "letter": "D",
+          "text": "Insectívoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insectívoros tienen dientes pequeños y puntiagudos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dentadura refleja la dieta. Los carnívoros tienen caninos desarrollados para desgarrar, molares carniceros para cortar carne y mandíbulas de movimiento vertical. Jaguares, pumas, zorros y nutrias son ejemplos colombianos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v7",
+      "statement": "¿Por qué las gallinas comen tanto granos como lombrices?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tienen hambre y cualquier cosa sirve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las gallinas seleccionan su alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son omnívoras y necesitan nutrientes de ambos orígenes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Necesitan proteína animal para huevos y carbohidratos para energía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las lombrices son postre",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque quieren variar su menú",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es nutricional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las gallinas son omnívoras. En libertad complementan su dieta de granos con insectos y lombrices que aportan proteína esencial para la producción de huevos. Por eso los campesinos colombianos dejan las gallinas libres para alimentarse naturalmente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v8",
+      "statement": "¿Los osos de anteojos engordan antes del invierno como los osos del norte?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque todos los osos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los osos de anteojos viven en el trópico."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque en los Andes colombianos no hay inviernos extremos y hay alimento todo el año",
+          "is_correct": true,
+          "feedback": "¡Correcto! El oso de anteojos no hiberna porque en el trópico hay alimento constante."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque todos los osos hibernan",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los osos hibernan."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque son herbívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son omnívoros, pero la razón es climática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El oso de anteojos (Tremarctos ornatus) es la única especie de oso en Suramérica y habita en los Andes colombianos. Es omnívoro con preferencia por frutas y bromelias. Como en el trópico hay alimento disponible todo el año, no necesita hibernar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v9",
+      "statement": "¿Cómo obtienen las vacas la proteína?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierten el pasto directamente en proteína",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasto es bajo en proteína."
+        },
+        {
+          "letter": "B",
+          "text": "Microorganismos en el rumen transforman la celulosa en proteína que la vaca absorbe",
+          "is_correct": true,
+          "feedback": "¡Excelente! Los microorganismos sintetizan proteína de alta calidad que la vaca digiere."
+        },
+        {
+          "letter": "C",
+          "text": "La vaca come insectos sin darse cuenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son herbívoras estrictas."
+        },
+        {
+          "letter": "D",
+          "text": "El pasto tiene suficiente proteína",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microorganismos la mejoran."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las vacas son rumiantes. En el rumen viven billones de microorganismos que fermentan la celulosa y convierten compuestos nitrogenados en proteína microbiana de alta calidad. La vaca digiere estos microorganismos y absorbe los aminoácidos, produciendo leche rica en proteínas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-v10",
+      "statement": "¿Qué opinas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, los carnívoros son malos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumplen funciones ecológicas naturales."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto. Todos los animales cumplen funciones necesarias en el ecosistema. No hay animales 'buenos' o 'malos'",
+          "is_correct": true,
+          "feedback": "¡Excelente! Cada animal cumple su rol en la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Parcialmente correcto, los herbívoros nunca dañan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros también afectan su entorno."
+        },
+        {
+          "letter": "D",
+          "text": "Los carnívoros solo existen para equilibrar herbívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos evolucionaron en relaciones complejas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En los ecosistemas no hay animales 'buenos' o 'malos'. Los carnívoros controlan poblaciones de herbívoros, evitando sobrepastura y manteniendo biodiversidad. Los herbívoros dispersan semillas y fertilizan el suelo. Todos son necesarios para el equilibrio natural.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W05-animales-alimentacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
