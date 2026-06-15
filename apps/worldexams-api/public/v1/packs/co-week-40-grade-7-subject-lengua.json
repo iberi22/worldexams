@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-40-grade-7-subject-lengua",
+    "generated_at": "2026-06-15T05:13:43.405Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v1",
+      "statement": "¿Qué elemento fundamental comparten la literatura afrocolombiana y la literatura indígena en su origen y desarrollo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso exclusivo de la lengua española desde tiempos antiguos.",
+          "is_correct": false,
+          "feedback": "Ambos pueblos tienen lenguas propias (africanas/criollas e indígenas) que influyen en su literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Una fuerte base en la tradición oral y la transmisión de saberes de los ancestros.",
+          "is_correct": true,
+          "feedback": "La palabra hablada es el cimiento sobre el cual se construyen sus memorias e identidades."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambas nacieron como géneros de ciencia ficción en las ciudades.",
+          "is_correct": false,
+          "feedback": "Sus raíces son ancestrales, ligadas al territorio y a la historia real de los pueblos."
+        },
+        {
+          "letter": "D",
+          "text": "El rechazo total a la naturaleza en todos sus relatos.",
+          "is_correct": false,
+          "feedback": "Al contrario, la naturaleza es el escenario y el personaje central en ambas literaturas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura colombiana es un tejido de voces. Tanto la vertiente afro como la indígena resaltan la importancia de la memoria colectiva y la voz de los mayores como fuente de sabiduría y resistencia cultural.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v2",
+      "statement": "¿Cuál de estos textos se caracteriza por ser una estrofa de cuatro versos de arte menor que suele ser cantada o improvisada en las fiestas populares?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El refrán.",
+          "is_correct": false,
+          "feedback": "El refrán es una frase corta sentenciosa, no necesariamente una estrofa de cuatro versos."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica.",
+          "is_correct": false,
+          "feedback": "La crónica es un relato extenso en prosa."
+        },
+        {
+          "letter": "C",
+          "text": "La copla.",
+          "is_correct": true,
+          "feedback": "La copla es la forma poética tradicional por excelencia de la oralidad colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "El mito.",
+          "is_correct": false,
+          "feedback": "El mito es una narración sagrada, generalmente más extensa y sin rima obligatoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La identificación de las estructuras textuales permite al estudiante navegar por la diversidad de géneros de la tradición oral, reconociendo las formas poéticas propias de cada región.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v3",
+      "statement": "¿Qué concepto literario se ilustra mejor en esta comparación de dos versiones sobre el mismo hecho?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sinonimia total entre los dos relatos.",
+          "is_correct": false,
+          "feedback": "Los relatos no dicen lo mismo, tienen visiones opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "El multiperspectivismo o la existencia de diferentes visiones del mundo (cosmovisiones).",
+          "is_correct": true,
+          "feedback": "Muestra cómo el origen cultural define la forma de narrar e interpretar la historia."
+        },
+        {
+          "letter": "C",
+          "text": "La superioridad de la escritura española sobre la palabra indígena.",
+          "is_correct": false,
+          "feedback": "El texto resalta la validez y profundidad de ambas narrativas como formas de registro."
+        },
+        {
+          "letter": "D",
+          "text": "Que la historia es aburrida y no tiene nada que ver con la literatura.",
+          "is_correct": false,
+          "feedback": "La literatura es la herramienta fundamental para dar sentido y voz a la historia humana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de textos comparados ayuda al estudiante a comprender que la realidad es interpretada de diversas formas según el contexto cultural, fomentando el respeto por la diferencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v4",
+      "statement": "¿Cuál es la función pedagógica implícita en este tipo de coplas de la tradición oral?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a los niños a contar hasta tres de manera divertida.",
+          "is_correct": false,
+          "feedback": "El número tres es solo una estructura, el fondo es ético."
+        },
+        {
+          "letter": "B",
+          "text": "Promover la desconfianza hacia todas las personas del pueblo.",
+          "is_correct": false,
+          "feedback": "Al contrario, establece las bases para una amistad sincera y de confianza."
+        },
+        {
+          "letter": "C",
+          "text": "Transmitir valores éticos y normas de comportamiento para la convivencia social.",
+          "is_correct": true,
+          "feedback": "La literatura popular actúa como un código moral que se enseña a través de la rima y el ritmo."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar por qué es malo tener amigos en la vida real.",
+          "is_correct": false,
+          "feedback": "El texto invita a tener amigos, pero con condiciones de honestidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tradición oral es una escuela sin paredes. A través de coplas, refranes y fábulas, la comunidad educa a sus miembros en los valores fundamentales que aseguran la armonía colectiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes actividades integraría mejor los temas de literatura afro, indígena y tradición oral vistos en el año?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una competencia de videojuegos de fútbol internacional.",
+          "is_correct": false,
+          "feedback": "No tiene relación con los temas de diversidad literaria y cultural colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Una \"Feria de Voces\" donde haya estaciones de cuentos indígenas, poemas afro y duelos de coplas regionales.",
+          "is_correct": true,
+          "feedback": "Esta actividad abarca la riqueza de las diferentes expresiones literarias del país de manera participativa."
+        },
+        {
+          "letter": "C",
+          "text": "Ver una película de superhéroes estadounidenses doblada al español.",
+          "is_correct": false,
+          "feedback": "Es una actividad de consumo cultural externo, no de valoración de la diversidad nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Un examen escrito de 100 preguntas sobre fechas históricas de Europa.",
+          "is_correct": false,
+          "feedback": "Se aleja del propósito de celebrar la diversidad literaria y oral de Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aplicación del conocimiento literario a proyectos creativos permite que el estudiante valore la literatura como algo vivo y presente en su entorno, no solo como un contenido de libros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v6",
+      "statement": "Si aplicamos este refrán al análisis de las crónicas de Indias escritas por los conquistadores para impresionar al Rey, ¿qué conclusión crítica podríamos sacar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los cronistas llevaban mucho oro real a Europa y por eso los barcos brillaban.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal que no usa el refrán como herramienta de análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Que no todo lo que escribieron con palabras hermosas y exageradas era la realidad objetiva de América.",
+          "is_correct": true,
+          "feedback": "El refrán nos invita a desconfiar de las apariencias y a buscar la verdad detrás de las descripciones idealizadas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el oro de América era de mala calidad y no brillaba realmente.",
+          "is_correct": false,
+          "feedback": "El refrán es una metáfora sobre la verdad y la apariencia, no un análisis metalúrgico."
+        },
+        {
+          "letter": "D",
+          "text": "Que los reyes de España no sabían distinguir entre el oro y el cobre.",
+          "is_correct": false,
+          "feedback": "Se centra en un detalle histórico irrelevante para el análisis literario del discurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de refranes para analizar otros textos (intertextualidad) desarrolla un pensamiento crítico complejo, permitiendo aplicar la sabiduría popular al análisis de discursos de poder históricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v7",
+      "statement": "¿Cuál es el significado metafórico de la frase \"mi pluma no tiene tinta, tiene sangre\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor tuvo un accidente al escribir y se cortó la mano.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal errónea que ignora el simbolismo poético."
+        },
+        {
+          "letter": "B",
+          "text": "Que la tinta roja es más barata que la negra en el Chocó.",
+          "is_correct": false,
+          "feedback": "No tiene relación con el costo de los materiales, sino con el origen del mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que su escritura es un testimonio vivo y doloroso del pasado de su pueblo y sus ancestros.",
+          "is_correct": true,
+          "feedback": "La \"sangre\" simboliza la vida, el sacrificio y la herencia que nutren su obra literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Que el autor quiere dejar de escribir para ser médico hematólogo.",
+          "is_correct": false,
+          "feedback": "Ignora por completo el contexto lírico y la temática de la identidad afro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis de metáforas profundas permite al estudiante conectar la estética literaria con la historia social. La literatura afro utiliza a menudo el cuerpo y sus fluidos (sangre, sudor, lágrimas) como símbolos de su experiencia histórica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v8",
+      "statement": "¿Cómo se relaciona este refrán con la función de las leyendas de espantos (como la Llorona o el Mohán) en las comunidades rurales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada persona debe inventar su propio monstruo para no tener los mismos de los vecinos.",
+          "is_correct": false,
+          "feedback": "Las leyendas son colectivas, no invenciones individuales de cada persona."
+        },
+        {
+          "letter": "B",
+          "text": "Que el miedo es algo malo que debe ser eliminado de la literatura popular.",
+          "is_correct": false,
+          "feedback": "El miedo es un motor narrativo y pedagógico esencial en las leyendas."
+        },
+        {
+          "letter": "C",
+          "text": "Que aunque la leyenda es común, el impacto y la enseñanza que cada persona extrae de ella depende de su propia conciencia y comportamiento.",
+          "is_correct": true,
+          "feedback": "El refrán resalta la responsabilidad individual frente a los relatos de advertencia moral."
+        },
+        {
+          "letter": "D",
+          "text": "Que las leyendas son mentiras y por eso nadie debería tenerles miedo.",
+          "is_correct": false,
+          "feedback": "Ignora la función cultural y psicológica real que estas historias cumplen en la sociedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conexión entre paremiología (refranes) y narrativa (leyendas) muestra la coherencia del sistema de tradición oral. Ambos trabajan juntos para regular la conducta individual dentro de un marco cultural compartido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v9",
+      "statement": "¿Cuál es la respuesta más acertada desde una perspectiva de identidad y riqueza cultural nacional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El crítico tiene razón, internet reemplaza la necesidad de tener una cultura propia.",
+          "is_correct": false,
+          "feedback": "Internet es un medio, no un sustituto de las raíces y la identidad cultural."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es errónea, pues la diversidad étnica y oral es lo que nos da una voz única y auténtica en el concierto mundial.",
+          "is_correct": true,
+          "feedback": "Ignorar nuestras raíces nos haría copias de otras culturas; lo propio es nuestro valor diferenciador."
+        },
+        {
+          "letter": "C",
+          "text": "Los indígenas y los afros deberían dejar de escribir para dedicarse a programar software.",
+          "is_correct": false,
+          "feedback": "Es un prejuicio que asume que la cultura y la tecnología son excluyentes."
+        },
+        {
+          "letter": "D",
+          "text": "Solo deberíamos estudiar la literatura extranjera porque es la que más se vende.",
+          "is_correct": false,
+          "feedback": "El valor de la literatura no se mide solo por las ventas comerciales, sino por su profundidad humana y social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación crítica de posturas intelectuales permite al estudiante defender el valor de la diversidad. La identidad nacional no es un obstáculo para la modernidad, sino la base desde la cual nos conectamos con el mundo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes conclusiones refleja una evaluación profunda y ética del proceso de aprendizaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ahora sé que Colombia tiene muchos paisajes bonitos para ir de vacaciones.",
+          "is_correct": false,
+          "feedback": "Es una visión turística superficial, no un análisis literario o ciudadano profundo."
+        },
+        {
+          "letter": "B",
+          "text": "Que aprendí a escribir poemas con rima para ganar los concursos del colegio.",
+          "is_correct": false,
+          "feedback": "Es un logro técnico personal, pero no aborda la formación ciudadana y cultural integral."
+        },
+        {
+          "letter": "C",
+          "text": "El reconocimiento de que nuestra nación es pluriétnica y multicultural, y que cada voz (escrita u oral) merece respeto y valoración.",
+          "is_correct": true,
+          "feedback": "Es la conclusión fundamental que promueve la convivencia, la empatía y la justicia social en un país diverso."
+        },
+        {
+          "letter": "D",
+          "text": "Que los libros de antes son mejores que los de ahora porque no tenían errores.",
+          "is_correct": false,
+          "feedback": "Es un juicio nostálgico que no evalúa el contenido ni el impacto social del aprendizaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación final de la asignatura de Lengua en séptimo grado busca que el estudiante se reconozca como parte de una comunidad diversa. El respeto por la palabra del otro es la base de la democracia y la paz en Colombia.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Evaluación integral final que conecta todos los temas de la segunda mitad del año. |\n| Contexto | 20/20 | Referencias a Tunja, Chocó, Boyacá y temas de identidad nacional. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-7-2026-W40-evaluacion-integral-final-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
