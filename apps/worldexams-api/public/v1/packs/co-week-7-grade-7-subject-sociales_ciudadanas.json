@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-15T20:41:21.770Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v1",
+      "statement": "¿Cuáles eran las tres grandes civilizaciones americanas que encontraron los conquistadores españoles?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los griegos, los romanos y los egipcios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son civilizaciones del Viejo Mundo, no de América."
+        },
+        {
+          "letter": "B",
+          "text": "Los aztecas (México), los mayas (Centroamérica) y los incas (Perú).",
+          "is_correct": true,
+          "feedback": "Correcto. Estas fueron las tres grandes civilizaciones americanas precolombinas."
+        },
+        {
+          "letter": "C",
+          "text": "Los muiscas, los taironas y los quimbayas.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto, pero fueron culturas menos extensas. Las tres GRANDES fueron aztecas, mayas e incas."
+        },
+        {
+          "letter": "D",
+          "text": "Los vikingos, los celtas y los fenicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son civilizaciones del Viejo Mundo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al llegar a América, los españoles encontraron una gran diversidad de pueblos. Las civilizaciones más desarrolladas y extensas eran: (1) el **Imperio Azteca** (Mexica) en el centro de México, con capital en Tenochtitlán; (2) la **civilización Maya** en la península de Yucatán y Centroamérica, ya en declive; (3) el **Imperio Inca** (Tahuantinsuyo) en los Andes, desde Ecuador hasta Chile. En el territorio de la actual Colombia existían culturas como los muiscas, taironas, quimbayas y zenúes, organizadas en cacicazgos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v2",
+      "statement": "Según el texto, ¿qué factor fue clave para que Cortés derrotara al Imperio Azteca?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los españoles tenían un ejército mucho más numeroso que los aztecas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los españoles eran pocos; la clave fue la alianza con pueblos indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "La alianza con pueblos indígenas enemigos de los aztecas (como los tlaxcaltecas) y las enfermedades (viruela) que diezmaron la población azteca.",
+          "is_correct": true,
+          "feedback": "Correcto. La conquista no fue solo militar, también fue diplomática y epidemiológica."
+        },
+        {
+          "letter": "C",
+          "text": "Los aztecas se rindieron sin ofrecer resistencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aztecas resistieron ferozmente."
+        },
+        {
+          "letter": "D",
+          "text": "La tecnología española incluía aviones y tanques.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los españoles tenían caballos y armas de fuego, pero no tecnología moderna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conquista del Imperio Azteca (1519-1521) por Hernán Cortés no fue una victoria de un puñado de españoles contra un imperio, sino que involucró: (1) alianzas con decenas de miles de indígenas enemigos de los aztecas (tlaxcaltecas, totonacas); (2) el factor de las enfermedades europeas (viruela, sarampión) que devastaron la población indígena; (3) las ventajas tácticas (caballos, acero, armas de fuego) y la confusión política. La \"Noche Triste\" (30 de junio de 1520) mostró que los aztecas resistieron ferozmente antes de caer.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v3",
+      "statement": "¿Quién conquistó el Imperio Inca y cómo logró la victoria con tan pocos hombres?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hernán Cortés, mediante una guerra abierta contra todo el imperio unido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cortés conquistó a los aztecas. El inca fue conquistado por Pizarro."
+        },
+        {
+          "letter": "B",
+          "text": "Francisco Pizarro, aprovechando la guerra civil inca entre Atahualpa y Huáscar, capturando a Atahualpa en Cajamarca.",
+          "is_correct": true,
+          "feedback": "Correcto. La división interna fue clave para la conquista inca."
+        },
+        {
+          "letter": "C",
+          "text": "Gonzalo Jiménez de Quesada, con una campaña relámpago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quesada conquistó el territorio muisca en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Pedro de Alvarado, desde Guatemala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alvarado conquistó Centroamérica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Francisco Pizarro conquistó el Imperio Inca (1532-1533) aprovechando una coyuntura crítica: los hermanos Atahualpa y Huáscar estaban en guerra civil por el trono. Pizarro capturó a Atahualpa en Cajamarca (1532) mediante una emboscada. Aunque los incas pagaron un enorme rescate (una habitación llena de oro y plata), Pizarro ejecutó a Atahualpa igualmente. La resistencia inca continuó durante décadas (Vilcabamba, 1537-1572), liderada por Manco Inca y Túpac Amaru I.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v4",
+      "statement": "¿Quién lideró la expedición que conquistó el territorio muisca en el Altiplano Cundiboyacense y fundó Santa Fe de Bogotá?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sebastián de Belalcázar, quien también fundó Cali y Popayán.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto. Belalcázar también llegó al altiplano, pero Quesada llegó primero desde el norte."
+        },
+        {
+          "letter": "B",
+          "text": "Gonzalo Jiménez de Quesada, quien partió de Santa Marta hacia el interior en 1536.",
+          "is_correct": true,
+          "feedback": "Correcto. Quesada lideró la expedición desde Santa Marta al interior."
+        },
+        {
+          "letter": "C",
+          "text": "Nicolás de Federmán, desde Venezuela.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto. Federmán también llegó al altiplano, pero Quesada había llegado primero."
+        },
+        {
+          "letter": "D",
+          "text": "Pedro de Heredia, fundador de Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Heredia fundó Cartagena (1533) en la costa, no exploró el interior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conquista del territorio muisca fue una de las más complejas de América. Gonzalo Jiménez de Quesada partió de Santa Marta en 1536 con 800 hombres, atravesando selvas, ríos y montañas. Tras un penoso viaje que redujo su expedición a menos de 200 hombres, llegó al Altiplano Cundiboyacense en 1537. Derrotó a los muiscas (liderados por el Zaque de Hunza y el Zipa de Bacatá) y fundó Santa Fe de Bogotá el 6 de agosto de 1538. Casi simultáneamente llegaron al altiplano Sebastián de Belalcázar (desde el sur) y Nicolás de Federmán (desde el este), en una coincidencia histórica.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v5",
+      "statement": "Según las crónicas, ¿qué pueblo indígena ofreció la resistencia más prolongada en el Caribe colombiano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los muiscas del altiplano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los muiscas fueron conquistados relativamente rápido."
+        },
+        {
+          "letter": "B",
+          "text": "Los taironas en la Sierra Nevada de Santa Marta.",
+          "is_correct": true,
+          "feedback": "Correcto. Los taironas resistieron la conquista durante décadas en su territorio montañoso."
+        },
+        {
+          "letter": "C",
+          "text": "Los quimbayas del Eje Cafetero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los quimbayas fueron casi exterminados."
+        },
+        {
+          "letter": "D",
+          "text": "Los zenúes de la región de la Mojana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los zenúes fueron sometidos gradualmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los taironas, que habitaban la Sierra Nevada de Santa Marta, ofrecieron una de las resistencias más largas a la conquista española en el Caribe colombiano. Su territorio montañoso y de difícil acceso, combinado con su organización en ciudades de piedra (como Ciudad Perdida, descubierta en 1975), les permitió resistir durante décadas. A diferencia de los muiscas, que fueron conquistados entre 1537-1540, la resistencia tairona se prolongó hasta bien entrada la segunda mitad del siglo XVI. Hoy, los descendientes de los taironas son los pueblos arhuaco, kogui, wiwa y kankuamo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v6",
+      "statement": "¿Cuál fue el factor más determinante en la derrota de las civilizaciones americanas frente a los europeos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superioridad moral de los conquistadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay superioridad moral en una invasión."
+        },
+        {
+          "letter": "B",
+          "text": "La inferioridad intelectual de los pueblos indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto y racista. No hay evidencia de inferioridad intelectual."
+        },
+        {
+          "letter": "C",
+          "text": "Las enfermedades (viruela, sarampión) que mataron hasta el 90% de la población indígena antes y durante los combates.",
+          "is_correct": true,
+          "feedback": "Correcto. El factor epidemiológico fue decisivo."
+        },
+        {
+          "letter": "D",
+          "text": "La falta de armas de los indígenas.",
+          "is_correct": false,
+          "feedback": "Parcialmente cierto, pero las enfermedades fueron aún más decisivas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La causa principal de la derrota indígena no fue la superioridad militar o moral europea, sino el **factor epidemiológico**. Los europeos trajeron enfermedades (viruela, sarampión, gripe, tifus) contra las cuales los indígenas no tenían defensas inmunológicas. Se estima que la población americana pasó de unos 60-100 millones en 1492 a unos 5-10 millones en 1600. En Tenochtitlán, la viruela entró antes que Cortés. En el imperio inca, una epidemia de viruela mató al emperador Huayna Cápac y desencadenó la guerra civil.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v7",
+      "statement": "¿Qué papel jugó Malintzin (la Malinche) en la conquista de México?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue la única líder militar que derrotó a Cortés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Malintzin no era líder militar."
+        },
+        {
+          "letter": "B",
+          "text": "Fue una princesa azteca que traicionó a su pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Malintzin no era princesa azteca; era nahua, vendida como esclava."
+        },
+        {
+          "letter": "C",
+          "text": "Fue intérprete, consejera y mediadora entre Cortés y los pueblos indígenas, facilitando las alianzas.",
+          "is_correct": true,
+          "feedback": "Correcto. Su papel fue crucial como traductora y diplomática."
+        },
+        {
+          "letter": "D",
+          "text": "Fue una enviada del rey de España para controlar a Cortés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Malintzin (llamada Malinche por los españoles) fue una mujer nahua que fue entregada a Cortés como esclava. Su dominio del náhuatl (lengua azteca) y del maya (que otro náufrago español, Jerónimo de Aguilar, traducía al español) la convirtió en intérprete indispensable. Pero su papel fue más allá: entendió la política mesoamericana, advirtió sobre conspiraciones contra Cortés y facilitó las alianzas con pueblos enemigos de los aztecas. En México, \"malinchismo\" pasó a significar traición a la patria, aunque historiadores actuales reivindican su agencia como sobreviviente en un mundo de violencia.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v8",
+      "statement": "¿Qué intentaron regular las Leyes Nuevas (1542) promulgadas por la Corona española?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exportación de productos agrícolas a América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las leyes trataban sobre el trato a los indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "La protección de los indígenas, limitando la encomienda y prohibiendo la esclavitud indígena.",
+          "is_correct": true,
+          "feedback": "Correcto. Las Leyes Nuevas buscaban proteger a la población nativa."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción de caminos en las colonias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa no fue su función."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de universidades en América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso fue posterior y con otras disposiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las Leyes Nuevas (1542), promulgadas por Carlos V, fueron el resultado de las denuncias de frailes como Bartolomé de las Casas sobre los abusos de los encomenderos. Establecían: (1) que los indígenas eran súbditos libres de la Corona; (2) la prohibición de esclavizar indígenas; (3) la limitación de las encomiendas; (4) la supresión de las encomiendas heredadas a la muerte del titular. Sin embargo, la resistencia de los encomenderos en Perú y Nueva España obligó a la Corona a moderar su aplicación. El debate sobre la justicia de la conquista fue pionero en la historia de los derechos humanos.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v9",
+      "statement": "¿Quién fue el cacique Tundama y qué simboliza en la historia de Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un cacique que se alió con los españoles desde el principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tundama fue un líder de la resistencia."
+        },
+        {
+          "letter": "B",
+          "text": "Fue el último cacique muisca en resistir a los españoles, desde su fortaleza en Duitama, luchando hasta su muerte en 1541.",
+          "is_correct": true,
+          "feedback": "Correcto. Tundama simboliza la resistencia indígena en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Fue un conquistador español que fundó la ciudad de Duitama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tundama era indígena, no español."
+        },
+        {
+          "letter": "D",
+          "text": "Fue un cacique pacifista que negoció la rendición sin guerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tundama ofreció una feroz resistencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cacique Tundama (o Tundamá), que gobernaba el territorio del actual municipio de Duitama (Boyacá), fue uno de los líderes muiscas que más resistencia ofreció a la conquista española. Organizó la defensa de su territorio y, según las crónicas, cortó las manos y narices a los indígenas que se rendían para desanimar la deserción. Finalmente fue derrotado y muerto en 1541 por el capitán Juan de San Martín. Hoy, Tundama es símbolo de la resistencia indígena en Colombia y su nombre es recordado en monumentos y el carnaval de Duitama.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v10",
+      "statement": "¿Qué posición ética sobre la conquista de América expresó fray Bartolomé de las Casas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conquista fue justa porque los indígenas eran inferiores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Casas defendía exactamente lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "La conquista fue justa porque los españoles tenían derecho divino a gobernar el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Casas rechazaba ese argumento."
+        },
+        {
+          "letter": "C",
+          "text": "La conquista fue injusta y los abusos contra los indígenas eran pecados mortales, pero la evangelización pacífica era legítima.",
+          "is_correct": true,
+          "feedback": "Correcto. Las Casas denunció los abusos pero no el derecho a evangelizar."
+        },
+        {
+          "letter": "D",
+          "text": "La conquista fue necesaria para civilizar a los indígenas y no debía criticarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Casas criticó duramente la conquista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Fray Bartolomé de las Casas (1484-1566) fue el principal defensor de los derechos indígenas en el siglo XVI. Inicialmente fue encomendero, pero tras presenciar los abusos, se convirtió al fraile dominico y dedicó su vida a denunciar la injusticia de la conquista. En su \"Brevísima relación de la destrucción de las Indias\" (1552) describió atrocidades. Sin embargo, Las Casas no cuestionaba el derecho de la Iglesia a evangelizar a los indígenas, sino los métodos violentos. Su pensamiento influyó en las Leyes Nuevas y en el desarrollo de los derechos humanos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v11",
+      "statement": "¿Qué estrategias de resistencia cultural utilizaron los pueblos indígenas frente a la dominación española?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rendición total y el abandono de toda su cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo resistencia activa y pasiva."
+        },
+        {
+          "letter": "B",
+          "text": "La emigración masiva a Europa para protestar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pocos indígenas viajaron a Europa."
+        },
+        {
+          "letter": "C",
+          "text": "La resistencia armada, la huida a zonas inaccesibles, la resistencia cultural (sincretismo) y la negociación con las autoridades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las estrategias fueron múltiples y diversas."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los indígenas aceptaron pacíficamente la dominación sin resistencia alguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo numerosas rebeliones y formas de resistencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La resistencia indígena frente a la conquista adoptó múltiples formas: (1) **armada**: rebeliones como la de Túpac Amaru o la guerra de los Arauco en Chile; (2) **huida**: comunidades enteras se refugiaron en zonas de difícil acceso (Sierra Nevada, Amazonía, Chocó); (3) **cultural**: el sincretismo religioso (fusión de creencias indígenas con el catolicismo), la preservación de lenguas y tradiciones; (4) **legal**: muchos indígenas aprendieron el sistema legal español y presentaron demandas ante la Corona. La resistencia indígena no terminó con la conquista, sino que continúa hasta hoy.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-v12",
+      "statement": "¿Cuál es el enfoque más adecuado para enseñar la conquista de América en el siglo XXI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñarla como una hazaña heroica de los españoles que civilizaron a los indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una visión unilateral y eurocéntrica."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñarla exclusivamente como un genocidio sin matices.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora la complejidad histórica."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñarla desde la perspectiva exclusiva de los indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sola perspectiva no es suficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñarla desde múltiples perspectivas (española, indígena, africana), reconociendo la violencia pero también la complejidad de las alianzas, resistencias y mestizajes.",
+          "is_correct": true,
+          "feedback": "Correcto. La historia debe ser multidimensional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La enseñanza de la conquista de América ha evolucionado. El enfoque más adecuado hoy es: (1) **multiperspectivo**: incluir las voces de españoles, indígenas y africanos; (2) **crítico**: reconocer la violencia, el saqueo y la destrucción cultural; (3) **complejo**: mostrar que hubo alianzas, resistencias, mestizaje y negociación; (4) **vinculado al presente**: conectar con la realidad actual de los pueblos indígenas, el racismo estructural y las desigualdades que tienen raíces coloniales. La historia no es maniquea; exige pensamiento crítico.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W07-conquista-america-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

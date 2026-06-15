@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.546Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v1",
+      "statement": "¿Cuáles son los criterios principales para clasificar un texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de la portada y el número de páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son criterios físicos, no de contenido."
+        },
+        {
+          "letter": "B",
+          "text": "El propósito comunicativo, el tipo de lenguaje, la estructura y el género al que pertenece.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación textual se basa en: propósito (informar/persuadir/expresar), lenguaje (objetivo/subjetivo/figurado), estructura (narrativa/expositiva/argumentativa) y género (literario/periodístico/científico)."
+        },
+        {
+          "letter": "C",
+          "text": "La fecha de publicación y el nombre del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son datos bibliográficos, no criterios de clasificación."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de imágenes y el tamaño de la letra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son criterios formales, no de clasificación textual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar textos no es un ejercicio arbitrario. Se basa en criterios analíticos: 1) PROPÓSITO: ¿para qué se escribió? (informar, persuadir, entretener), 2) LENGUAJE: ¿es objetivo, subjetivo, connotativo? 3) ESTRUCTURA: ¿cómo se organiza? (pirámide invertida, inicio-nudo-desenlace, tesis-argumentos), 4) GÉNERO: ¿pertenece a la literatura, el periodismo, la ciencia, la publicidad?\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v2",
+      "statement": "¿A qué categoría pertenece un texto que comienza con \"Había una vez\" y cuenta la historia de un niño que descubre un tesoro en la Sierra Nevada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto expositivo, porque describe la Sierra Nevada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Había una vez\" es una fórmula narrativa, no expositiva."
+        },
+        {
+          "letter": "B",
+          "text": "Texto periodístico, porque menciona un lugar real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar un lugar real no convierte un cuento en noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Texto narrativo literario (cuento), porque usa la fórmula de inicio de cuentos, presenta personajes y una historia ficticia.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Había una vez\" es la fórmula clásica de apertura de cuentos."
+        },
+        {
+          "letter": "D",
+          "text": "Texto instructivo, porque enseña cómo encontrar tesoros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay instrucciones para el lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clasificación de textos se apoya en \"marcas textuales\": palabras o frases características que indican el género. \"Había una vez\" es una marca de narrativa literaria. Otras marcas: \"en primer lugar\" (expositivo), \"compre ya\" (publicitario), \"según informó\" (periodístico), \"te explicamos\" (divulgativo). Reconocer estas marcas facilita la clasificación rápida.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v3",
+      "statement": "Una receta de bandeja paisa incluye: ingredientes, pasos numerados y tiempo de cocción. ¿Cómo se clasifica este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto expositivo, porque explica qué es la bandeja paisa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica, instruye."
+        },
+        {
+          "letter": "B",
+          "text": "Texto narrativo, porque cuenta cómo preparar el plato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cuenta una historia, da instrucciones."
+        },
+        {
+          "letter": "C",
+          "text": "Texto instructivo, porque tiene como propósito guiar al lector paso a paso para realizar una acción (preparar la bandeja paisa).",
+          "is_correct": true,
+          "feedback": "Correcto. La receta es un texto instructivo: indica los pasos a seguir para lograr un resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Texto publicitario, porque promueve la comida colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su propósito principal es instruir, no vender."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos instructivos tienen como propósito guiar al lector para realizar una tarea. Se caracterizan por: 1) lista de materiales o ingredientes, 2) pasos numerados o secuenciados, 3) verbos en imperativo o infinitivo (\"corte\", \"mezclar\", \"añada\"), 4) lenguaje claro y preciso. Ejemplos: recetas, manuales de instrucciones, tutoriales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v4",
+      "statement": "Un texto dice: \"Te amo más que ayer, pero menos que mañana.\" ¿Qué función comunicativa predomina y cómo se clasifica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función informativa, texto periodístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay hecho noticioso."
+        },
+        {
+          "letter": "B",
+          "text": "Función apelativa, texto publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca vender ni persuadir a una acción."
+        },
+        {
+          "letter": "C",
+          "text": "Función expresiva o poética, texto literario (lírico). La frase expresa un sentimiento (amor) de manera original y con juego de palabras (\"más que ayer, menos que mañana\"), lo que le da un valor estético.",
+          "is_correct": true,
+          "feedback": "Correcto. La función poética se centra en el mensaje mismo y en cómo se dice."
+        },
+        {
+          "letter": "D",
+          "text": "Función referencial, texto expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no informa sobre un hecho objetivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las funciones del lenguaje según Jakobson ayudan a clasificar textos: 1) REFERENCIAL: informar (noticia, enciclopedia), 2) EXPRESIVA: expresar emociones (poema, diario), 3) APELATIVA: persuadir o llamar a la acción (publicidad, discurso), 4) POÉTICA: embellecer el mensaje (literatura), 5) FÁTICA: establecer contacto, 6) METALINGÜÍSTICA: hablar del lenguaje. La frase dada combina función expresiva (sentimiento) y poética (juego lingüístico).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v5",
+      "statement": "Un texto presenta datos sobre el consumo de plástico en Colombia (cifras, porcentajes) y al final dice: \"Reduce tu consumo de plástico. ¡El planeta te lo agradecerá!\" ¿Cómo se clasifica este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclusivamente expositivo, porque tiene datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el llamado a la acción final."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente publicitario, porque tiene imperativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora los datos objetivos del inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto híbrido: comienza como expositivo o divulgativo (datos objetivos) y termina como persuasivo (llamado a la acción). Combina informar y persuadir.",
+          "is_correct": true,
+          "feedback": "Correcto. Muchos textos reales mezclan géneros."
+        },
+        {
+          "letter": "D",
+          "text": "Es periodístico, porque habla de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema nacional no define el género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos híbridos son más comunes de lo que parece. Un texto puede comenzar informando (para dar credibilidad) y terminar persuadiendo (para lograr un cambio de comportamiento). Esto es típico de: campañas de concientización, artículos de opinión con datos, y publicidad con apariencia informativa. Los estudiantes deben aprender a identificar estas combinaciones.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v6",
+      "statement": "¿Por qué algunos textos no encajan perfectamente en una sola categoría de clasificación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque quienes escriben no saben qué tipo de texto están escribiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla suele ser intencional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los autores combinan intencionalmente propósitos, géneros y recursos para lograr efectos más complejos. La clasificación es una herramienta de análisis, no una etiqueta rígida.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación es una guía, no una camisa de fuerza. Los textos creativos a menudo desafían las categorías."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los textos están mal escritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de géneros no es un error, es una elección estilística."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no hay suficientes categorías para clasificarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las categorías existen, pero los textos pueden pertenecer a varias simultáneamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clasificación textual es una herramienta analítica, no un sistema binario (esto o aquello). Los textos reales a menudo cruzan fronteras. Un ensayo puede ser expositivo y argumentativo. Una crónica puede ser periodística y literaria. Un eslogan puede ser publicitario y poético. La habilidad no es encasillar, sino identificar qué elementos de cada categoría están presentes.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v7",
+      "statement": "Un texto escrito por un biólogo del SINCHI dice: \"La Amazonía colombiana alberga 58 comunidades indígenas. Su extensión es de 483.000 km². Sin embargo, la deforestación avanza a un ritmo de 200.000 hectáreas al año.\" ¿Cómo se clasifica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodístico, porque menciona cifras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras también aparecen en textos científicos."
+        },
+        {
+          "letter": "B",
+          "text": "Divulgación científica, porque un biólogo lo escribe y presenta datos sobre la Amazonía en lenguaje accesible pero con rigor.",
+          "is_correct": false,
+          "feedback": "Correcto, pero revisemos la opción D también."
+        },
+        {
+          "letter": "C",
+          "text": "Literario, porque la Amazonía es un tema literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema no determina el género."
+        },
+        {
+          "letter": "D",
+          "text": "Divulgación científica: es escrito por un especialista, presenta datos verificables, usa lenguaje claro y tiene un propósito informativo-educativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuente (biólogo del SINCHI), el contenido (datos geográficos y ambientales) y el lenguaje accesible lo clasifican como divulgación científica."
+        },
+        {
+          "letter": "E",
+          "text": "Publicitario, porque busca crear conciencia. \r\n\r\nNota: Corrijo opciones duplicadas. Versión final:",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay llamado a la acción ni marca."
+        },
+        {
+          "letter": "A",
+          "text": "Texto periodístico, porque presenta datos actualizados sobre deforestación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque podría publicarse en un periódico, el lenguaje y la fuente (biólogo del SINCHI) lo acercan más a la divulgación científica."
+        },
+        {
+          "letter": "B",
+          "text": "Texto de divulgación científica: escrito por un especialista, con datos verificables (483.000 km², 200.000 ha/año), lenguaje claro y propósito de informar, no de persuadir ni vender.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne las características clave de la divulgación científica."
+        },
+        {
+          "letter": "C",
+          "text": "Texto literario, porque describe la Amazonía de manera evocadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es informativo, no figurado."
+        },
+        {
+          "letter": "D",
+          "text": "Texto argumentativo, porque critica la deforestación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta datos, no argumentos para convencer de una postura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para clasificar un texto, considera múltiples indicadores: 1) ¿Quién lo escribió? (un biólogo del SINCHI → fuente científica), 2) ¿Qué tipo de información presenta? (datos cuantitativos verificables), 3) ¿Cómo es el lenguaje? (objetivo, claro, sin opiniones), 4) ¿Cuál es el propósito? (informar sobre la Amazonía). La combinación de estos indicadores permite una clasificación más precisa.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v8",
+      "statement": "Una infografía combina imágenes, gráficos, texto breve y datos numéricos sobre la población indígena en Colombia. ¿Cómo se clasifica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es un texto, solo es una imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infografía es un texto multimodal."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto literario porque es creativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La creatividad visual no la hace literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto publicitario porque usa imágenes llamativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes en la infografía cumplen función informativa, no persuasiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto expositivo multimodal: combina lenguaje verbal (texto) y no verbal (imágenes, gráficos) con el propósito de informar y explicar de manera visual y eficiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La infografía es un género expositivo que aprovecha múltiples modos de comunicación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La clasificación de textos incluye también los textos multimodales, que combinan diferentes lenguajes (verbal, visual, numérico). La infografía, el cómic, el afiche y la página web son ejemplos. Clasificarlos requiere considerar todos los modos comunicativos que utilizan. La infografía es expositiva porque su propósito es informar de manera clara y atractiva.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v9",
+      "statement": "Un meme muestra la imagen de un perro con texto que dice: \"Cuando el profesor dice que la tarea es para el lunes pero es jueves.\" ¿Puede considerarse un texto y cómo se clasifica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es un texto porque no tiene suficientes palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto no necesita muchas palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto expositivo porque explica una situación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica objetivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, es un texto. Se clasifica como texto multimodal con función expresiva y humorística. Combina imagen y lenguaje para transmitir una experiencia reconocible (la ansiedad escolar) de manera cómica.",
+          "is_correct": true,
+          "feedback": "Correcto. El meme es un texto multimodal contemporáneo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto periodístico porque habla de la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No informa un hecho noticioso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la era digital, la noción de \"texto\" se ha ampliado. Un texto es cualquier producción comunicativa con significado, sea verbal, visual o multimodal. Los memes, los tuits, las historias de Instagram y los videos cortos son textos que pueden analizarse y clasificarse. El meme del ejemplo combina imagen y texto con función expresiva (compartir una emoción) y humorística.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-v10",
+      "statement": "Un estudiante crea un texto para el periódico escolar que cuenta (con datos verificables) cómo fue la jornada de vacunación en su barrio, e incluye una foto de la jornada y una frase final que dice: \"¡Vacunarse es cuidar a los que amas!\" ¿Cómo clasificaría este texto y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclusivamente periodístico (noticia), porque tiene datos y una foto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el elemento persuasivo final."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente publicitario, porque tiene una frase motivacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora los datos verificables y el contexto periodístico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto híbrido: principalmente una noticia (datos verificables, foto documental), pero con un cierre persuasivo que busca promover la vacunación. Combina lo informativo con lo persuasivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El estudiante debe reconocer que su texto combina géneros y entender por qué."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto literario, porque cuenta una historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene elementos literarios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La autoevaluación de la propia producción textual es una habilidad metacognitiva avanzada. Al crear un texto, el estudiante debe preguntarse: ¿cuál era mi propósito? ¿qué recursos usé? ¿cómo clasificaría mi texto y por qué? Reconocer que un texto puede ser híbrido (noticia + persuasivo) es señal de madurez en la comprensión de la comunicación escrita.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W23-clasificacion-textos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

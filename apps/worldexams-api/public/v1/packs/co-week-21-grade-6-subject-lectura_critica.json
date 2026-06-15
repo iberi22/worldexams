@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-21-grade-6-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.543Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v1",
+      "statement": "¿Qué significa \"comparar dos textos\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decidir cuál texto es mejor que el otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar no es juzgar cuál es superior."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar las semejanzas y diferencias entre dos textos en cuanto a propósito, contenido, estructura, lenguaje o género.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación busca encontrar puntos en común y diferencias de manera objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Leer un texto y luego escribir otro igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es copiar, no comparar."
+        },
+        {
+          "letter": "D",
+          "text": "Sumar la información de ambos textos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar no es simplemente acumular información."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar textos es una habilidad fundamental de lectura crítica. Implica identificar: 1) tema (¿hablan de lo mismo?), 2) propósito (¿para qué fueron escritos?), 3) tipo de texto (¿son del mismo género?), 4) estructura (¿se organizan igual?), 5) lenguaje (¿es objetivo, subjetivo, poético?), 6) punto de vista (¿quién habla y desde dónde?). No se trata de decir cuál es \"mejor\", sino de entender sus diferencias y semejanzas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v2",
+      "statement": "Texto A: \"El café colombiano es reconocido mundialmente por su suavidad y aroma. Se cultiva principalmente en la Eje Cafetero.\"\r\nTexto B: \"¡Café Rico! El único café que te despierta con el verdadero sabor de Colombia. ¡Cómprelo ya!\"\r\n\r\n¿En qué se diferencian principalmente estos dos textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto A es más largo que texto B.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia principal."
+        },
+        {
+          "letter": "B",
+          "text": "Texto A menciona Colombia y texto B también.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una semejanza, no diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Texto A es informativo (explica características del café colombiano), mientras que texto B es publicitario (busca vender usando imperativo y exclamación).",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el propósito y el tipo de texto."
+        },
+        {
+          "letter": "D",
+          "text": "Texto A habla de café y texto B también.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una semejanza temática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al comparar textos, el primer paso es identificar el propósito de cada uno. El Texto A describe objetivamente el café colombiano (expositivo/informativo). El Texto B usa recursos persuasivos como el imperativo (\"cómprelo\") y la exclamación para vender (publicitario). Aunque ambos hablan del mismo producto, sus intenciones son distintas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v3",
+      "statement": "Texto A (noticia): \"El volcán Nevado del Ruiz presentó un incremento en su actividad sísmica durante las últimas 24 horas.\"\r\nTexto B (cuento): \"Don Volcán despertó rugiendo. La tierra temblaba mientras los pueblos dormían tranquilos.\"\r\n\r\n¿Qué semejanzas y diferencias encuentras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales porque ambos hablan de un volcán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora las profundas diferencias de género y lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Semejanza: ambos tratan sobre un volcán colombiano en actividad. Diferencia: el Texto A es periodístico (objetivo, con datos), el Texto B es literario (uso de personificación \"Don Volcán despertó\", lenguaje figurado).",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce tanto lo común (tema) como lo diferente (género, lenguaje, propósito)."
+        },
+        {
+          "letter": "C",
+          "text": "Son diferentes porque el Texto A es verdadero y el B es falso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento no es \"falso\", es ficción. La ficción no es falsedad."
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales porque ambos usan verbos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los textos usan verbos, eso no es una semejanza significativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar textos de manera significativa, hay que identificar semejanzas de fondo (tema, contenido) y diferencias de forma (género, propósito, lenguaje). No es útil comparar aspectos superficiales (ambos tienen verbos) o juzgar la ficción como falsa. La comparación enriquece la comprensión porque muestra que un mismo tema puede ser abordado desde perspectivas muy distintas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v4",
+      "statement": "Tienes una tabla con las categorías: Tema, Propósito, Tipo de texto y Lenguaje. Si comparas un artículo de enciclopedia sobre la orquídea y un poema sobre la misma flor, ¿qué escribirías en \"Propósito\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos hablan de orquídeas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso iría en \"Tema\", no en \"Propósito\"."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo de enciclopedia busca informar/explicar objetivamente; el poema busca expresar emociones o crear belleza estética.",
+          "is_correct": true,
+          "feedback": "Correcto. El propósito del texto expositivo es informar; el del poema es expresar y crear arte."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos buscan entretener al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enciclopedia no busca entretener principalmente."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo de enciclopedia es científico y el poema es literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso iría en \"Tipo de texto\", no en \"Propósito\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al comparar textos usando categorías, es importante saber qué información va en cada campo:\r\n- TEMA: ¿de qué trata? (las orquídeas)\r\n- PROPÓSITO: ¿para qué fue escrito? (informar / expresar)\r\n- TIPO DE TEXTO: ¿qué género? (expositivo / lírico)\r\n- LENGUAJE: ¿cómo se expresa? (objetivo / poético y figurado)\r\nConfundir las categorías es un error común que los estudiantes deben evitar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v5",
+      "statement": "Dos textos sobre el mismo concierto en el Estadio Nemesio Camacho El Campín:\r\nTexto 1: \"El concierto duró 3 horas con 20 minutos. Asistieron 45.000 personas.\"\r\nTexto 2: \"La noche mágica en El Campín nos transportó a otro mundo. La energía del público era indescriptible.\"\r\n\r\n¿Qué aspecto comparativo es clave aquí?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos hablan del mismo concierto, por lo tanto son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora las diferencias de enfoque."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 es una opinión y el Texto 2 es un hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 tiene hechos; el Texto 2 tiene opiniones, pero no al revés."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 se enfoca en datos objetivos (duración, asistencia) y es informativo; el Texto 2 se enfoca en la experiencia subjetiva y es más literario o de crónica. Muestran que un mismo evento puede ser descrito desde lo fáctico o lo emocional.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación revela diferentes enfoques de un mismo evento."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 es mejor escrito que el Texto 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar no es juzgar calidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una misma realidad puede ser descrita desde múltiples perspectivas. El enfoque objetivo (datos, hechos) es propio de la noticia o el informe. El enfoque subjetivo (emociones, impresiones) es propio de la crónica o la literatura. Ambas perspectivas son válidas y complementarias. La comparación nos ayuda a entender que no hay una única forma de ver la realidad.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v6",
+      "statement": "¿Por qué un mismo hecho (un accidente de tránsito) puede dar lugar a una noticia, un cuento y un texto de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hay varias versiones del accidente y solo una es verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de verdad, sino de enfoque."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada tipo de texto tiene un propósito distinto. La noticia informa los hechos, el cuento crea una narración ficticia alrededor del hecho, y el texto de opinión analiza y emite un juicio. El mismo hecho es la materia prima para distintos tratamientos.",
+          "is_correct": true,
+          "feedback": "Correcto. La realidad puede ser abordada con distintas intenciones comunicativas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el accidente cambia según quién lo cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hechos son los mismos; lo que cambia es el enfoque y el propósito."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los periodistas, escritores y opinadores no se coordinan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de coordinación no explica la diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La realidad ofrece infinitas posibilidades de tratamiento textual. Un accidente de tránsito puede ser: 1) noticia (hechos: cuándo, dónde, víctimas), 2) crónica (narración detallada con testimonios), 3) cuento (inspirado en el hecho pero con elementos ficticios), 4) editorial o columna (análisis sobre la seguridad vial). El hecho es el punto de partida; el propósito determina el género.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v7",
+      "statement": "Texto A (del gobierno): \"El fracking permitirá extraer gas natural, generando empleo y desarrollo.\"\r\nTexto B (de ambientalistas): \"El fracking contamina fuentes de agua y amenaza la salud de las comunidades.\"\r\n\r\n¿Qué diferencia estructural clave hay entre estos textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno es más corto que el otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede afirmar sin ver el texto completo."
+        },
+        {
+          "letter": "B",
+          "text": "Representan puntos de vista opuestos sobre el mismo tema. Cada uno selecciona argumentos que favorecen su posición (el gobierno destaca beneficios económicos, los ambientalistas destacan daños ambientales). Esta es una comparación de posturas o sesgos.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación revela cómo la selección de información refleja una postura ideológica."
+        },
+        {
+          "letter": "C",
+          "text": "Uno está escrito por un experto y el otro no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información sobre la experticia de los autores."
+        },
+        {
+          "letter": "D",
+          "text": "Uno es verdad y el otro es mentira.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden tener argumentos válidos desde su perspectiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar textos con distintas posturas sobre un tema polémico es una habilidad crítica fundamental. Ayuda a los estudiantes a entender que la información no es neutra: cada autor selecciona los datos y argumentos que apoyan su posición. La comparación permite formarse una visión más completa y equilibrada del tema, en lugar de aceptar una sola versión.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v8",
+      "statement": "Texto A: \"Las frutas y verduras aportan vitaminas esenciales para el crecimiento de los niños. La OMS recomienda 5 porciones al día.\"\r\nTexto B: \"Frutas Felices, el snack saludable que tus hijos amarán. Sin azúcar añadida. ¡Pídelo ya en tu supermercado de confianza!\"\r\n\r\nAl compararlos, ¿cuál afirmación es CORRECTA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son confiables porque dan información sobre alimentación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El B tiene fines comerciales y su información puede ser sesgada."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A es divulgación sobre nutrición (cita a la OMS, da recomendaciones generales); el Texto B es publicidad de un producto específico (marca, llamado a la acción). Aunque el B usa información de salud, su propósito es vender.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación revela que no toda la información \"sobre salud\" tiene la misma intención."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B es mejor porque menciona un producto concreto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no lo hace mejor, lo hace comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son iguales porque hablan de alimentación saludable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora la diferencia de propósito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al comparar textos, es crucial identificar la intención de cada uno. Un texto puede parecer informativo pero ser en realidad publicitario (publirreportaje). La presencia de marcas, el llamado a la acción y la promoción de un producto específico son señales de publicidad, incluso si el texto incluye información aparentemente objetiva sobre salud.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v9",
+      "statement": "Mito: \"El arcoíris es un puente que los dioses construyen después de la lluvia para conectar el cielo con la tierra.\"\r\nTexto científico: \"El arcoíris es un fenómeno óptico que ocurre cuando la luz solar se refracta en las gotas de agua en la atmósfera, descomponiéndose en los colores del espectro visible.\"\r\n\r\nAl compararlos, la conclusión MÁS ACERTADA es:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mito es falso y el texto científico es verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito no es \"falso\", es una explicación simbólica y cultural."
+        },
+        {
+          "letter": "B",
+          "text": "El texto científico es más difícil de entender, por eso los mitos son mejores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad no es un criterio de superioridad."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos explican el mismo fenómeno (el arcoíris) pero desde perspectivas distintas: el mito desde lo simbólico-cultural (ficción), el texto desde lo empírico-verificable (ciencia). Cada uno es válido dentro de su ámbito.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación revela que distintas formas de conocimiento pueden coexistir."
+        },
+        {
+          "letter": "D",
+          "text": "El mito es literatura infantil y el texto científico es para adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplifica demasiado la clasificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comparación entre mito y ciencia es un excelente ejercicio de pensamiento crítico. El mito responde a preguntas existenciales desde la imaginación y la tradición cultural. La ciencia responde desde la observación y la verificación empírica. No son excluyentes: una persona puede apreciar el mito como expresión cultural y entender la explicación científica. Ambas son formas de conocimiento humano.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-v10",
+      "statement": "Tu profesor te pide que escribas sobre la temporada de lluvias en Colombia integrando una perspectiva informativa (con datos) y una perspectiva literaria (con lenguaje figurado). ¿Cuál sería el mejor enfoque?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir solo datos: \"En abril de 2026 cayeron 300 mm de lluvia en Bogotá.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo cumple la perspectiva informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir solo poesía: \"El cielo llora lágrimas de cristal sobre la ciudad dormida.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo cumple la perspectiva literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Redactar una crónica o texto híbrido que comience con una descripción poética (\"El cielo gris abraza los cerros orientales mientras la lluvia dibuja cortinas de plata sobre la ciudad\"), seguido de datos informativos (\"en las últimas 48 horas, el IDEAM reportó 120 litros por metro cuadrado en la cuenca del Teusacá\").",
+          "is_correct": true,
+          "feedback": "Correcto. Integra ambas perspectivas de manera armónica, usando la descripción poética para crear atmósfera y los datos para dar contexto."
+        },
+        {
+          "letter": "D",
+          "text": "Poner los datos en una columna y la poesía en otra columna separada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No integra, solo yuxtapone."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integración de perspectivas es una habilidad avanzada de escritura. Consiste en combinar diferentes enfoques (objetivo/subjetivo, científico/literario) en un mismo texto coherente. La crónica es el género ideal para esto. El escritor debe lograr una transición suave entre las descripciones poéticas y los datos concretos, de modo que ambos se complementen para ofrecer una visión más rica y completa de la realidad.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-6-2026-W21-comparacion-textos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

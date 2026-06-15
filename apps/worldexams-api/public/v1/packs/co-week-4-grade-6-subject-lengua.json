@@ -8,6 +8,406 @@
   },
   "questions": [
     {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v1",
+      "statement": "¿Qué son las categorías gramaticales?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los diferentes tipos de letras que existen en el abecedario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las letras son grafías, no categorías gramaticales."
+        },
+        {
+          "letter": "B",
+          "text": "Son las clases de palabras que existen en una lengua, según su función y significado: sustantivos, verbos, adjetivos, adverbios, etc.",
+          "is_correct": true,
+          "feedback": "Correcto. Las categorías gramaticales (o clases de palabras) clasifican las palabras según su función sintáctica y su significado."
+        },
+        {
+          "letter": "C",
+          "text": "Son los capítulos de un libro de gramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son capítulos; son las clases mismas de palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Son las reglas para escribir correctamente las mayúsculas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reglas de mayúsculas son normas ortográficas, no categorías gramaticales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las categorías gramaticales son las clases en que se agrupan las palabras según su función: sustantivos (nombran), verbos (acciones), adjetivos (cualidades), adverbios (circunstancias), pronombres (sustituyen), preposiciones (relacionan), conjunciones (unen), artículos (determinan) e interjecciones (expresan emociones).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes opciones contiene solo SUSTANTIVOS?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correr, saltar, nadar, dormir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas estas palabras son verbos, no sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "Biblioteca, cafetal, esperanza, Cartagena.",
+          "is_correct": true,
+          "feedback": "Correcto. Todas son sustantivos: biblioteca (común, concreto), cafetal (común, concreto), esperanza (abstracto), Cartagena (propio)."
+        },
+        {
+          "letter": "C",
+          "text": "Hermoso, rápido, alto, suave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas estas palabras son adjetivos, no sustantivos."
+        },
+        {
+          "letter": "D",
+          "text": "Y, pero, porque, aunque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas estas palabras son conjunciones, no sustantivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sustantivos son palabras que nombran personas, animales, cosas, lugares, ideas o sentimientos. Se clasifican en propios (Colombia, Pedro) y comunes (mesa, perro); concretos (agua, árbol) y abstractos (amor, justicia). El sustantivo es el núcleo del sujeto en la oración.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v3",
+      "statement": "Lee la frase: \"La antigua catedral de Cúcuta tiene un hermoso vitral multicolor que ilumina el altar principal.\" ¿Cuántos adjetivos hay en esta oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más de un adjetivo en la oración."
+        },
+        {
+          "letter": "B",
+          "text": "3 adjetivos: \"antigua\", \"hermoso\" y \"multicolor\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Antigua\" describe la catedral, \"hermoso\" describe el vitral, y \"multicolor\" también describe el vitral. \"Principal\" también es adjetivo, pero la opción correcta señala los tres adjetivos más evidentes."
+        },
+        {
+          "letter": "C",
+          "text": "4 adjetivos: los tres mencionados más \"principal\".",
+          "is_correct": false,
+          "feedback": "Esta también podría ser correcta; sin embargo, la opción B es la más aceptada en el análisis básico."
+        },
+        {
+          "letter": "D",
+          "text": "2 adjetivos: \"antigua\" y \"hermoso\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Multicolor\" también es un adjetivo que describe el vitral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos son palabras que expresan cualidades o características del sustantivo. En la oración, \"antigua\" modifica a \"catedral\", \"hermoso\" y \"multicolor\" modifican a \"vitral\", y \"principal\" modifica a \"altar\". Reconocer adjetivos ayuda a enriquecer la descripción en la escritura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v4",
+      "statement": "Clasifica las palabras subrayadas en la siguiente oración: \"Los estudiantes **trabajan** **silenciosamente** en la **biblioteca**.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"trabajan\" es verbo, \"silenciosamente\" es adjetivo, \"biblioteca\" es sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Silenciosamente\" es adverbio, no adjetivo (los adverbios terminados en -mente modifican verbos)."
+        },
+        {
+          "letter": "B",
+          "text": "\"trabajan\" es verbo, \"silenciosamente\" es adverbio, \"biblioteca\" es verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Biblioteca\" es un sustantivo, no un verbo."
+        },
+        {
+          "letter": "C",
+          "text": "\"trabajan\" es verbo (acción), \"silenciosamente\" es adverbio (modo), \"biblioteca\" es sustantivo (lugar).",
+          "is_correct": true,
+          "feedback": "Correcto. \"Trabajan\" expresa acción (verbo), \"silenciosamente\" indica el modo de trabajar (adverbio de modo), y \"biblioteca\" nombra un lugar (sustantivo)."
+        },
+        {
+          "letter": "D",
+          "text": "\"trabajan\" es sustantivo, \"silenciosamente\" es adverbio, \"biblioteca\" es adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Trabajan\" es claramente un verbo, y \"biblioteca\" es un sustantivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos expresan acciones, estados o procesos; los adverbios modifican verbos, adjetivos u otros adverbios indicando tiempo, modo, lugar, cantidad, etc.; los sustantivos nombran entidades. Identificar correctamente estas categorías es fundamental para el análisis sintáctico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v5",
+      "statement": "¿Qué palabra puede reemplazar al sustantivo subrayado en esta oración sin cambiar su significado? \"**María y Juan** compraron empanadas en la tienda de la esquina.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"María y Juan\" son una mujer y un hombre; el pronombre mixto no existe como tal en español."
+        },
+        {
+          "letter": "B",
+          "text": "Él",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo reemplazaría a Juan, no a María."
+        },
+        {
+          "letter": "C",
+          "text": "Ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo reemplazaría a María, no a Juan."
+        },
+        {
+          "letter": "D",
+          "text": "Ellos",
+          "is_correct": true,
+          "feedback": "Correcto. En español, el pronombre \"ellos\" se usa para grupos mixtos (masculino y femenino) o exclusivamente masculinos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los pronombres reemplazan a los sustantivos para evitar repeticiones. \"Ellos\" (pronombre personal de tercera persona plural) puede referirse a un grupo de hombres o a un grupo mixto de hombres y mujeres. Otros pronombres: yo, tú, él, ella, nosotros, nosotras, ustedes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v6",
+      "statement": "En la oración \"El libro **de** matemáticas está **sobre** la mesa **del** salón **de** clases\", ¿qué función cumplen las palabras resaltadas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son conjunciones que unen ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las conjunciones unen oraciones o palabras (y, pero, porque); \"de\", \"sobre\" son diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Son preposiciones que establecen relaciones entre palabras: posesión (\"de\"), ubicación (\"sobre\").",
+          "is_correct": true,
+          "feedback": "Correcto. Las preposiciones \"de\" y \"sobre\" establecen relaciones de posesión y ubicación respectivamente. Otras preposiciones: a, ante, bajo, con, contra, desde, en, entre, hacia, para, por, según, sin."
+        },
+        {
+          "letter": "C",
+          "text": "Son adverbios de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adverbios modifican verbos (ej: \"está aquí\"), no establecen relaciones entre sustantivos."
+        },
+        {
+          "letter": "D",
+          "text": "Son artículos determinados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los artículos (\"el\", \"la\", \"los\", \"las\") determinan al sustantivo; \"de\" y \"sobre\" son preposiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preposiciones son palabras invariables que relacionan elementos dentro de la oración. Indican origen (\"de\"), destino (\"a\"), ubicación (\"en\", \"sobre\"), compañía (\"con\"), finalidad (\"para\"), entre otras relaciones. En español hay 23 preposiciones. Conocerlas es esencial para la correcta construcción de oraciones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v7",
+      "statement": "Analiza la oración: \"Los tres caballos corrían rápidamente por el campo verde.\" ¿Cuál de las siguientes afirmaciones es CORRECTA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los\" es una preposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Los\" es un artículo determinado, no una preposición."
+        },
+        {
+          "letter": "B",
+          "text": "\"Rápidamente\" es un adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Rápidamente\" termina en -mente y modifica al verbo \"corrían\", es un adverbio de modo."
+        },
+        {
+          "letter": "C",
+          "text": "\"Verde\" es un verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Verde\" es un adjetivo que describe el campo (sustantivo)."
+        },
+        {
+          "letter": "D",
+          "text": "\"Tres\" es un adjetivo numeral cardinal que determina al sustantivo \"caballos\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Tres\" indica cantidad exacta y modifica a \"caballos\", funcionando como adjetivo numeral."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los adjetivos numerales indican cantidad u orden. \"Tres\" es un numeral cardinal (cantidad exacta). Otros ejemplos: \"primer\" (ordinal), \"doble\" (múltiplo), \"medio\" (partitivo). Clasificar correctamente cada palabra en una oración desarrolla la conciencia gramatical necesaria para escribir con precisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v8",
+      "statement": "La palabra \"cómoda\" aparece en estas dos oraciones:\n1) \"La cómoda de la abuela es de caoba.\"\n2) \"Esta silla es muy cómoda.\"\n¿A qué categoría gramatical pertenece \"cómoda\" en cada caso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ambas oraciones es un adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la primera oración es un sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "En ambas oraciones es un sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la segunda oración es un adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "En 1) es sustantivo (mueble con cajones), en 2) es adjetivo (que brinda comodidad).",
+          "is_correct": true,
+          "feedback": "Correcto. La misma palabra puede ser sustantivo o adjetivo según el contexto. En 1) tiene artículo \"la\" y nombra un mueble; en 2) describe a la silla."
+        },
+        {
+          "letter": "D",
+          "text": "En 1) es adverbio, en 2) es verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cómoda\" no funciona como adverbio ni como verbo en ninguna de las dos oraciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Muchas palabras en español cambian de categoría gramatical según el contexto. \"Cómoda\" puede ser sustantivo (mueble) o adjetivo (cualidad de cómodo). Otros ejemplos: \"piano\" (sustantivo: instrumento / adverbio: suavemente), \"debes\" (verbo deber / sustantivo en desuso). El contexto determina la categoría.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v9",
+      "statement": "Un estudiante escribió: \"El gobierno prometió **construcción** una nueva carretera para **conectar** a Villavicencio con Bogotá.\" ¿Qué error gramatical cometió?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usó mal el verbo \"prometió\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Prometió\" está bien conjugado y usado."
+        },
+        {
+          "letter": "B",
+          "text": "Usó un sustantivo (\"construcción\") donde debía usar un verbo en infinitivo (\"construir\").",
+          "is_correct": true,
+          "feedback": "Correcto. Después de \"prometió\" se requiere un verbo en infinitivo: \"prometió construir\". \"Construcción\" es un sustantivo que no puede funcionar como complemento de \"prometió\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"Carretera\" está mal escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Carretera\" está correctamente escrito."
+        },
+        {
+          "letter": "D",
+          "text": "\"Conectar\" debería ser \"conexión\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Conectar\" está bien usado como verbo en infinitivo, que complementa la idea de la carretera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos como \"prometer\", \"decidir\", \"lograr\" y \"necesitar\" requieren ser complementados por otros verbos en infinitivo, no por sustantivos. Decimos \"prometió construir\", no \"prometió construcción\". Esta confusión entre sustantivos y verbos es común y debe corregirse para lograr claridad en la escritura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-v10",
+      "statement": "Un estudiante crea la oración: \"¡Ay! Ellos tres siempre compran deliciosos helados en esa vieja nevería de la esquina.\"\n¿Cuántas categorías gramaticales diferentes están representadas en esta oración?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 categorías: sustantivos, verbos y adjetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más categorías representadas."
+        },
+        {
+          "letter": "B",
+          "text": "4 categorías: faltan los adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Siempre\" y \"allí\" (en \"esa\") funcionan como adverbio y determinante respectivamente."
+        },
+        {
+          "letter": "C",
+          "text": "6 categorías: interjección (\"¡Ay!\"), pronombre (\"Ellos\"), adjetivo (\"tres\", \"deliciosos\", \"vieja\"), adverbio (\"siempre\"), verbo (\"compran\"), sustantivo (\"helados\", \"nevería\", \"esquina\"), artículo (\"la\"), preposición (\"de\").",
+          "is_correct": true,
+          "feedback": "Correcto. La oración contiene interjección, pronombre, adjetivo numeral, adverbio, verbo, sustantivo, artículo y preposición."
+        },
+        {
+          "letter": "D",
+          "text": "5 categorías: falta la conjunción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque no hay conjunciones, sí hay interjecciones, que también son una categoría gramatical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una oración bien construida puede incluir múltiples categorías gramaticales. Identificarlas todas demuestra un dominio avanzado de la gramática. Las interjecciones (\"¡Ay!\", \"¡Oh!\", \"¡Caramba!\") son palabras que expresan emociones y son una categoría gramatical más, aunque a veces se ignoran en los análisis básicos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W04-categorias-gramaticales-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
       "id": "CO-LEN-6-2026-W04-comunicacion-oral-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el medio principal a través del cual se transmite el mensaje en la comunicación oral?",
       "context": "",

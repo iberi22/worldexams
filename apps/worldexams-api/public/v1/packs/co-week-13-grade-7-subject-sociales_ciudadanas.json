@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-06-15T20:41:21.783Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v1",
+      "statement": "¿Cuál fue la batalla que selló la independencia de la actual Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Batalla de Carabobo (1821).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia de Venezuela."
+        },
+        {
+          "letter": "B",
+          "text": "La Batalla de Boyacá (7 de agosto de 1819).",
+          "is_correct": true,
+          "feedback": "Correcto. Esa batalla aseguró la independencia de la Nueva Granada."
+        },
+        {
+          "letter": "C",
+          "text": "La Batalla de Pichincha (1822).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia de Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "La Batalla de Ayacucho (1824).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia del Perú y de toda Sudamérica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Batalla de Boyacá, librada el 7 de agosto de 1819 en el Puente de Boyacá (cerca de Tunja), fue el enfrentamiento decisivo de la Campaña Libertadora de la Nueva Granada. Allí, el ejército patriota al mando de Simón Bolívar, Francisco de Paula Santander y José Antonio Anzoátegui derrotó al ejército realista del general José María Barreiro. La batalla duró aproximadamente dos horas y resultó en la captura de 1.600 soldados realistas, incluyendo a su comandante. Esta victoria permitió a Bolívar entrar triunfante a Santafé de Bogotá tres días después, el 10 de agosto de 1819, consolidando la independencia del territorio que hoy conocemos como Colombia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v2",
+      "statement": "Según el texto, ¿por qué fue tan arriesgada la estrategia de Bolívar al cruzar los Andes en 1819?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Bolívar no conocía la ruta y se perdió en la montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar conocía la ruta y la había planeado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los españoles los estaban esperando en el páramo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los españoles no esperaban el ataque por esa ruta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cruzaron los Llanos inundados en invierno y luego ascendieron a más de 4.000 metros por el Páramo de Pisba, con frío extremo, hambre y enfermedades.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de inundaciones, altura y frío extremo causó muchas bajas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Bolívar no tenía suficientes soldados para la campaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El riesgo estaba en la ruta, no en el número de soldados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Campaña Libertadora de 1819 fue una de las hazañas militares más audaces de la historia. El ejército patriota partió de los Llanos de Venezuela y Casanare en mayo de 1819, en plena temporada de lluvias. Cruzaron los Llanos inundados, donde perdieron caballos y provisiones. Luego iniciaron el ascenso a la cordillera Oriental por el Páramo de Pisba, a más de 4.000 metros de altitud. Los soldados, vestidos con ropa ligera de las llanuras, sufrieron hipotermia, congelación de extremidades, mal de altura y hambre. Muchos murieron en el camino. De los aproximadamente 2.500 soldados que iniciaron la travesía, solo unos 1.300 llegaron en condiciones de combatir. Pero la estrategia funcionó: los españoles no esperaban un ataque por esa ruta imposible, lo que dio a los patriotas el factor sorpresa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v3",
+      "statement": "¿Qué batalla selló la independencia de la actual República del Ecuador?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Batalla de Boyacá (1819).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia de Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "La Batalla de Carabobo (1821).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia de Venezuela."
+        },
+        {
+          "letter": "C",
+          "text": "La Batalla de Pichincha (24 de mayo de 1822).",
+          "is_correct": true,
+          "feedback": "Correcto. Fue la batalla decisiva para la independencia de Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "La Batalla de Ayacucho (1824).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa batalla selló la independencia del Perú."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Batalla de Pichincha, librada el 24 de mayo de 1822 en las faldas del volcán Pichincha, cerca de Quito, fue el enfrentamiento decisivo que aseguró la independencia de la Real Audiencia de Quito (actual Ecuador). El ejército patriota estaba comandado por el mariscal Antonio José de Sucre, el mejor general de Bolívar. Las tropas patriotas (unos 3.000 soldados, incluyendo colombianos, venezolanos, peruanos, argentinos y el batallón británico \"Albión\") derrotaron a las fuerzas realistas (unos 2.000 soldados). La batalla fue particularmente difícil porque los patriotas tuvieron que escalar las laderas del volcán bajo fuego enemigo. Después de la victoria, Sucre entró en Quito y el territorio se incorporó a la Gran Colombia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v4",
+      "statement": "¿Qué significó la Batalla de Carabobo (24 de junio de 1821) para la independencia de Venezuela?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue la primera batalla de la independencia venezolana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo batallas anteriores desde 1810."
+        },
+        {
+          "letter": "B",
+          "text": "Fue la batalla que selló definitivamente la independencia de Venezuela del Imperio español.",
+          "is_correct": true,
+          "feedback": "Correcto. Carabobo fue la victoria decisiva que aseguró la independencia venezolana."
+        },
+        {
+          "letter": "C",
+          "text": "Fue una derrota patriota que retrasó la independencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una gran victoria patriota."
+        },
+        {
+          "letter": "D",
+          "text": "Fue una batalla naval en el lago de Maracaibo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una batalla terrestre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Batalla de Carabobo (1821) fue la culminación de la guerra de independencia venezolana. Bolívar, al mando del ejército patriota (unos 6.500 soldados), se enfrentó al ejército realista del general Miguel de la Torre (unos 5.000 soldados). La batalla tuvo un momento crítico cuando el batallón \"Bravo\" de los realistas estuvo a punto de romper las líneas patriotas, pero la caballería dirigida por José Antonio Páez (los famosos lanceros llaneros) cargó y decidió la batalla. La victoria fue completa: los realistas perdieron 2.800 hombres entre muertos y heridos. Aunque España mantuvo el control del Castillo de Puerto Cabello por un tiempo más, Carabobo significó el fin efectivo del dominio español en Venezuela. Hoy, el 24 de junio se celebra como el Día del Ejército Venezolano.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v5",
+      "statement": "¿Por qué se considera la Batalla de Ayacucho (1824) como la batalla que selló la independencia de toda Sudamérica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fue la batalla más grande y sangrienta de la independencia.",
+          "is_correct": false,
+          "feedback": "No fue la más grande ni la más sangrienta, pero sí la decisiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en ella murió Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar no murió en Ayacucho."
+        },
+        {
+          "letter": "C",
+          "text": "Porque después de esta victoria patriota, el Imperio español perdió toda posibilidad de recuperar sus colonias sudamericanas.",
+          "is_correct": true,
+          "feedback": "Correcto. Ayacucho marcó el fin del poder español en Sudamérica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque allí se firmó la independencia de Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Brasil se independizó de Portugal, no de España."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Batalla de Ayacucho, librada el 9 de diciembre de 1824 en la Pampa de la Quinua (Perú), fue el enfrentamiento que puso fin al dominio español en Sudamérica. El ejército patriota, comandado por el mariscal Antonio José de Sucre (con instrucciones de Bolívar), derrotó al último ejército realista importante en el continente, al mando del virrey José de la Serna. Los realistas tenían superioridad numérica (9.300 soldados contra 5.800 patriotas), pero Sucre aprovechó mejor el terreno y la moral de sus tropas. La batalla duró pocas horas. El virrey de la Serna fue herido y capturado. Con la capitulación de Ayacucho, España se comprometió a retirar sus fuerzas de todo el Perú y Alto Perú (Bolivia). Aunque algunas resistencias aisladas continuaron, Ayacucho marcó simbólica y militarmente el fin del Imperio español en Sudamérica.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v6",
+      "statement": "¿Qué papel jugaron las Legiones Británicas en las guerras de independencia sudamericanas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron tropas enviadas por el gobierno británico para apoyar a España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fueron voluntarios, no un ejército oficial británico, y apoyaron a los patriotas."
+        },
+        {
+          "letter": "B",
+          "text": "Fueron soldados voluntarios de Gran Bretaña e Irlanda que lucharon junto a Bolívar a cambio de tierras y pagos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los voluntarios británicos e irlandeses fueron cruciales en varias batallas."
+        },
+        {
+          "letter": "C",
+          "text": "Fueron diplomáticos que negociaron la paz entre España y las colonias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eran combatientes, no diplomáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron comerciantes que suministraron armas a ambos bandos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eran combatientes activos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las Legiones Británicas fueron contingentes de voluntarios procedentes de Gran Bretaña e Irlanda que se unieron a las fuerzas independentistas sudamericanas. Aunque el gobierno británico era oficialmente neutral, muchos soldados y oficiales veteranos de las guerras napoleónicas se alistaron como mercenarios, motivados por ideales de libertad, aventura, y las promesas de tierras y recompensas de Bolívar. Alrededor de 5.000 a 7.000 soldados británicos e irlandeses sirvieron en los ejércitos patriotas. Fueron particularmente importantes en la Batalla de Carabobo (1821), la Batalla de Pichincha (1822), y la Batalla de Ayacucho (1824). El Batallón \"Albión\" y los \"Rifles Rojos\" (Red Hussars) se destacaron en combate. Muchos murieron en América o se establecieron aquí después de la guerra. Sin embargo, el gobierno británico no participó oficialmente y la mayoría de los voluntarios nunca recibieron las tierras prometidas.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v7",
+      "statement": "¿Qué diferencia estratégica hubo entre las campañas de Simón Bolívar al norte y las de José de San Martín al sur?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolívar luchó solo por tierra, San Martín por mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos usaron tácticas terrestres y marítimas."
+        },
+        {
+          "letter": "B",
+          "text": "Bolívar usó la guerra de guerrillas exclusivamente, mientras San Martín usaba ejércitos regulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos combinaron tácticas."
+        },
+        {
+          "letter": "C",
+          "text": "Bolívar liberó el norte partiendo del Caribe y cruzando los Andes desde Venezuela, mientras que San Martín liberó el sur cruzando los Andes desde Argentina hacia Chile y Perú.",
+          "is_correct": true,
+          "feedback": "Correcto. Fueron dos frentes que convergieron en el Perú."
+        },
+        {
+          "letter": "D",
+          "text": "San Martín fue derrotado y Bolívar triunfó, sin mayor diferencia estratégica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. San Martín también fue exitoso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las guerras de independencia sudamericanas se desarrollaron en tres frentes principales: (1) el **frente norte**, liderado por Simón Bolívar, que partió de Venezuela y la Nueva Granada, liberando estos territorios (1819-1821) para luego avanzar hacia Ecuador (1822) y el Perú (1823-1825); (2) el **frente sur**, liderado por José de San Martín (Argentina), que cruzó los Andes (1817), liberó Chile (1818) y avanzó por mar al Perú (1820-1821), declarando su independencia en 1821; (3) el **frente centro**, en el Perú, donde ambos libertadores se encontraron en la Entrevista de Guayaquil (julio de 1822). San Martín, considerando que su presencia podía ser un obstáculo, se retiró, dejando a Bolívar la tarea de finalizar la independencia peruana (Ayacucho, 1824). Bolívar luego creó Bolivia (1825).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v8",
+      "statement": "¿Qué importancia tuvo la Batalla Naval del Lago de Maracaibo (24 de julio de 1823)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue la única batalla naval de las guerras de independencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo varias batallas navales importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Fue la batalla naval decisiva que eliminó el poderío naval español en el Caribe y aseguró la independencia de Venezuela.",
+          "is_correct": true,
+          "feedback": "Correcto. Destruyó la última flota española significativa en el Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "Fue una batalla menor sin consecuencias estratégicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue estratégicamente decisiva."
+        },
+        {
+          "letter": "D",
+          "text": "Fue una batalla entre independentistas colombianos y venezolanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue entre independentistas (Gran Colombia) y realistas españoles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Batalla Naval del Lago de Maracaibo fue el enfrentamiento naval más importante de la independencia de Venezuela. El almirante José Prudencio Padilla, al mando de la escuadra de la Gran Colombia, derrotó a la flota realista española del comandante Ángel Laborde. La batalla duró aproximadamente cinco horas y resultó en la destrucción de la mayor parte de la flota española. Esta victoria fue estratégicamente crucial porque: (1) eliminó la amenaza de una reconquista española por mar; (2) aseguró el control de las costas venezolanas; (3) permitió la captura del Castillo de Puerto Cabello, el último bastión español en Venezuela. Sin embargo, esta batalla también tuvo consecuencias políticas: el héroe naval Padilla, siendo mulato, enfrentó discriminación y eventualmente fue ejecutado por conspirar contra Bolívar.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v9",
+      "statement": "Según el mapa de las campañas libertadoras, ¿cuál fue la ruta seguida por el ejército de San Martín en su campaña al Perú?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "San Martín navegó desde Venezuela por el Caribe hasta el Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa ruta fue la de Bolívar."
+        },
+        {
+          "letter": "B",
+          "text": "San Martín cruzó los Andes desde Argentina a Chile (1817), liberó Chile (1818) y luego navegó por mar desde Valparaíso hasta el Perú (1820).",
+          "is_correct": true,
+          "feedback": "Correcto. Esa fue la ruta de la Expedición Libertadora del Perú."
+        },
+        {
+          "letter": "C",
+          "text": "San Martín navegó desde Buenos Aires por el Atlántico hasta el Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue esa la ruta."
+        },
+        {
+          "letter": "D",
+          "text": "San Martín cruzó los Andes desde Colombia hacia el Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. San Martín era argentino y operó desde el sur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "José de San Martín, al mando del Ejército de los Andes, desarrolló una estrategia magistral: (1) en 1817 cruzó los Andes desde Mendoza (Argentina) por seis pasos diferentes, sorprendiendo a los realistas en Chile; (2) derrotó a los españoles en las batallas de Chacabuco (1817) y Maipú (1818), liberando Chile; (3) luego organizó la Expedición Libertadora del Perú con apoyo chileno, navegando desde Valparaíso hasta Pisco (Perú) en 1820; (4) en 1821 entró en Lima y declaró la independencia del Perú. Sin embargo, San Martín no logró derrotar completamente a los realistas que se habían replegado a la sierra peruana. Por eso buscó la ayuda de Bolívar, resultando en la Entrevista de Guayaquil (1822) donde San Martín se retiró, cediendo el mando a Bolívar para la campaña final de Ayacucho.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes afirmaciones describe mejor el costo humano de las guerras de independencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las guerras tuvieron pocas bajas porque fueron principalmente diplomáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las guerras fueron extremadamente sangrientas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo murieron soldados profesionales, no hubo víctimas civiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo muchas víctimas civiles."
+        },
+        {
+          "letter": "C",
+          "text": "Las guerras causaron cientos de miles de muertos entre soldados y civiles, además de la destrucción de la economía y la infraestructura.",
+          "is_correct": true,
+          "feedback": "Correcto. El costo humano y material fue enorme."
+        },
+        {
+          "letter": "D",
+          "text": "Las guerras beneficiaron económicamente a toda la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guerra empobreció a la mayoría de la población."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las guerras de independencia hispanoamericanas (1810-1825) tuvieron un costo humano y material devastador. Se estima que murieron entre 500.000 y 1.000.000 de personas en toda América, entre soldados y civiles. Las causas de muerte incluyeron: (1) los combates directos; (2) las enfermedades (fiebre amarilla, malaria, disentería) que mataban más que las balas; (3) el hambre y la desnutrición, especialmente durante los sitios como el de Cartagena (1815); (4) las ejecuciones sumarias (el \"Régimen del Terror\" de Morillo); (5) los desplazamientos forzados. La economía se destruyó: minas inundadas, haciendas abandonadas, ganado muerto, comercio paralizado. Las nuevas repúblicas heredaron: (1) una deuda externa enorme (contraída con Inglaterra); (2) una infraestructura en ruinas; (3) una población diezmada; (4) un Estado débil sin capacidad recaudatoria. La recuperación tomaría décadas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v11",
+      "statement": "¿Por qué fueron tan efectivos los llaneros como fuerza militar en las campañas libertadoras?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tenían armas de fuego modernas proporcionadas por Inglaterra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus armas eran rudimentarias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque luchaban con espadas y escudos como los romanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaban lanzas, no espadas romanas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eran jinetes expertos que conocían el terreno, resistían condiciones extremas y combatían con lanzas y machetes.",
+          "is_correct": true,
+          "feedback": "Correcto. Su destreza ecuestre y conocimiento del terreno los hacía letales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque eran mercenarios pagados por el gobierno británico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los llaneros eran campesinos y ganaderos venezolanos y colombianos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los llaneros (habitantes de los Llanos de Venezuela y Colombia) fueron una fuerza militar decisiva en las guerras de independencia. Eran pastores y ganaderos que pasaban la mayor parte de su vida a caballo, lo que los convertía en jinetes excepcionales. Su estilo de combate se basaba en: (1) cargas de caballería con lanzas de 3-4 metros de largo (las famosas \"lanzas lanceras\"); (2) machetes para combate cuerpo a cuerpo; (3) conocimiento profundo del terreno de los Llanos; (4) capacidad de resistir hambre, sed y condiciones climáticas extremas. Liderados por José Antonio Páez (\"el Centauro de los Llanos\"), los lanceros llaneros fueron la fuerza de choque que rompió las líneas realistas en Carabobo (1821). Sin embargo, también se destacaban por su indisciplina y crueldad. Muchos llaneros que habían luchado inicialmente del lado realista se pasaron al bando patriota cuando Páez se unió a Bolívar.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones ofrece una evaluación más equilibrada sobre los resultados de las campañas militares de independencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las campañas militares lograron la independencia total y la prosperidad inmediata de las nuevas naciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia política no trajo prosperidad inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "Las campañas militares fracasaron porque España siguió controlando América después de 1825.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España perdió el control de sus colonias sudamericanas."
+        },
+        {
+          "letter": "C",
+          "text": "Las campañas lograron la independencia política de España, pero las nuevas repúblicas quedaron económicamente dependientes de Inglaterra y socialmente tan desiguales como antes.",
+          "is_correct": true,
+          "feedback": "Correcto. La independencia política no eliminó la dependencia económica ni la desigualdad social."
+        },
+        {
+          "letter": "D",
+          "text": "Las campañas militares no tuvieron ningún impacto en la historia latinoamericana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impacto fue profundo y duradero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las campañas militares de la independencia (1810-1825) lograron su objetivo inmediato: expulsar el dominio político y militar español de América del Sur. Sin embargo, la independencia \"real\" fue incompleta: (1) **políticamente**, las nuevas repúblicas adoptaron sistemas republicanos, pero las élites criollas controlaban el poder; (2) **económicamente**, la salida de España fue reemplazada por la dependencia de Inglaterra, que se convirtió en el principal socio comercial y prestamista de las nuevas naciones; (3) **socialmente**, las estructuras de desigualdad colonial (latifundio, discriminación racial, exclusión de indígenas y afrodescendientes) se mantuvieron; (4) **culturalmente**, la herencia española (lengua, religión, instituciones) siguió siendo dominante. Por eso, algunos historiadores hablan de \"independencia concedida\" o \"independencia a medias\". La verdadera transformación social y económica de América Latina tomaría mucho más tiempo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W13-campanas-libertadoras-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-40-grade-8-subject-lengua",
+    "generated_at": "2026-06-15T20:41:21.032Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v1",
+      "statement": "¿Cuál fue el movimiento literario hispanoamericano que buscó la renovación del lenguaje y la belleza estética a finales del siglo XIX?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Romanticismo.",
+          "is_correct": false,
+          "feedback": "El Romanticismo fue un movimiento previo que privilegiaba el sentimiento sobre la forma."
+        },
+        {
+          "letter": "B",
+          "text": "El Modernismo.",
+          "is_correct": true,
+          "feedback": "Correcto. Liderado por Rubén Darío, marcó un antes y un después en nuestra literatura por su refinamiento."
+        },
+        {
+          "letter": "C",
+          "text": "El Realismo Mágico.",
+          "is_correct": false,
+          "feedback": "El Realismo Mágico es un fenómeno principalmente del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Las Vanguardias.",
+          "is_correct": false,
+          "feedback": "Las Vanguardias surgieron en el siglo XX buscando la ruptura total con la tradición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Modernismo fue la primera gran contribución original de América a la literatura universal, destacando por su cosmopolitismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v2",
+      "statement": "¿En qué consiste la **intertextualidad**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En escribir un texto sin ninguna influencia externa.",
+          "is_correct": false,
+          "feedback": "Esto es prácticamente imposible, ya que todo texto dialoga con la cultura previa."
+        },
+        {
+          "letter": "B",
+          "text": "En contar cuántas palabras tiene un libro.",
+          "is_correct": false,
+          "feedback": "Esta es una tarea estadística que no define la relación entre textos."
+        },
+        {
+          "letter": "C",
+          "text": "En la relación o diálogo que un texto establece con otros textos anteriores o contemporáneos.",
+          "is_correct": true,
+          "feedback": "Correcto. Se manifiesta a través de citas, alusiones, parodias o influencias."
+        },
+        {
+          "letter": "D",
+          "text": "En traducir un libro de forma literal.",
+          "is_correct": false,
+          "feedback": "La traducción es un trasvase lingüístico, no define la intertextualidad esencialmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intertextualidad nos permite ver la literatura como una conversación infinita entre autores de diferentes épocas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v3",
+      "statement": "Si un narrador cuenta la historia diciendo: *\"No sabía por qué lo hacía, pero sentía un impulso irrefrenable de correr\"*, ¿qué tipo de narrador es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador protagonista (1ª persona).",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de la primera persona (\"sabía\", \"hacía\") indica que el narrador es el personaje principal."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador omnisciente (3ª persona).",
+          "is_correct": false,
+          "feedback": "El omnisciente narra desde afuera y conoce todo, pero usa la tercera persona (\"él/ella\")."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo.",
+          "is_correct": false,
+          "feedback": "El testigo cuenta lo que le pasa a otro, aunque use la primera persona para observar."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador observador objetivo.",
+          "is_correct": false,
+          "feedback": "Se limita a registrar acciones externas sin entrar en la subjetividad del \"yo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identificación de la persona gramatical y el grado de implicación en la historia definen el punto de vista narrativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v4",
+      "statement": "¿Cuál es la función principal de la **tesis** en un ensayo literario?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resumir la vida del autor del ensayo.",
+          "is_correct": false,
+          "feedback": "La biografía del autor es información secundaria o de contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar la idea central o postura que el autor defenderá con argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la base sobre la cual se construye todo el razonamiento del ensayo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer una lista de agradecimientos a los amigos.",
+          "is_correct": false,
+          "feedback": "Los agradecimientos no forman parte de la estructura argumentativa de un ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Describir detalladamente el paisaje donde se escribió el texto.",
+          "is_correct": false,
+          "feedback": "La descripción del entorno es accesoria y no define el propósito del ensayo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la columna vertebral que da coherencia y dirección a la argumentación del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v5",
+      "statement": "¿Qué caracteriza al **Realismo Mágico**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción científica de la magia en laboratorios.",
+          "is_correct": false,
+          "feedback": "No busca explicaciones científicas, sino la aceptación de lo maravilloso."
+        },
+        {
+          "letter": "B",
+          "text": "La exclusión total de elementos fantásticos en la narración.",
+          "is_correct": false,
+          "feedback": "Esto describiría al Realismo tradicional, no al Realismo Mágico."
+        },
+        {
+          "letter": "C",
+          "text": "La inclusión de elementos fantásticos o maravillosos como parte de la realidad cotidiana de los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. Lo insólito ocurre y es aceptado sin sorpresa por los habitantes del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Un estilo de pintura que se hace con los pies.",
+          "is_correct": false,
+          "feedback": "Es un movimiento literario y artístico, no una técnica de ejecución física."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Realismo Mágico funde la realidad objetiva con la magia, reflejando la cosmovisión mestiza latinoamericana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v6",
+      "statement": "¿Qué es una **inferencia** en la lectura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar el párrafo más largo del libro.",
+          "is_correct": false,
+          "feedback": "Esto es una acción de transcripción literal, no de comprensión profunda."
+        },
+        {
+          "letter": "B",
+          "text": "Deducir información implícita a partir de las pistas del texto y el conocimiento previo.",
+          "is_correct": true,
+          "feedback": "Correcto. Implica ir más allá de lo dicho explícitamente para encontrar sentidos ocultos."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar un final diferente porque el original no nos gustó.",
+          "is_correct": false,
+          "feedback": "Esto es un ejercicio de creación literaria, no una deducción de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Contar las letras mayúsculas de la primera página.",
+          "is_correct": false,
+          "feedback": "Esta es una tarea de observación superficial y no de análisis de significado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es \"leer entre líneas\", conectando los datos del autor con nuestra propia experiencia del mundo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v7",
+      "statement": "¿Cuál es la función de las **acotaciones** en un texto dramático (teatro)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los diálogos que los actores deben gritar.",
+          "is_correct": false,
+          "feedback": "Los diálogos se indican simplemente con el nombre del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Son los comerciales que se pasan durante la obra.",
+          "is_correct": false,
+          "feedback": "El teatro en vivo no suele incluir cortes comerciales dentro del texto literario."
+        },
+        {
+          "letter": "C",
+          "text": "Son indicaciones del autor sobre gestos, movimientos, luces o escenografía.",
+          "is_correct": true,
+          "feedback": "Correcto. Permiten visualizar la puesta en escena más allá de las palabras dichas."
+        },
+        {
+          "letter": "D",
+          "text": "Es el precio de las boletas de entrada.",
+          "is_correct": false,
+          "feedback": "La información comercial es ajena a la estructura del género dramático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acotaciones (didascalias) son el puente entre la literatura escrita y la acción física en el escenario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v8",
+      "statement": "¿Qué diferencia a la **poesía lírica** de la poesía épica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lírica no tiene rima y la épica sí.",
+          "is_correct": false,
+          "feedback": "Ambas pueden usar rima o verso libre según la época."
+        },
+        {
+          "letter": "B",
+          "text": "La lírica es muy larga y la épica muy corta.",
+          "is_correct": false,
+          "feedback": "Generalmente es al revés: la épica suele ser extensa y la lírica más breve."
+        },
+        {
+          "letter": "C",
+          "text": "La lírica expresa sentimientos y el mundo interior; la épica narra hazañas de héroes y batallas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se distinguen por su propósito comunicativo y su centro de atención."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia; son nombres distintos para lo mismo.",
+          "is_correct": false,
+          "feedback": "Son dos de los grandes géneros clásicos con características muy distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mientras la lírica busca la emoción y la subjetividad, la épica busca el relato de la identidad de un pueblo a través de sus héroes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v9",
+      "statement": "¿Cómo se llama la parte del ensayo donde se presentan los argumentos y evidencias que sustentan la tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción.",
+          "is_correct": false,
+          "feedback": "En la introducción se plantea el tema y se enuncia la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollo o cuerpo argumentativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la sección más extensa donde se despliega el razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Conclusión.",
+          "is_correct": false,
+          "feedback": "En la conclusión se sintetizan los resultados y se cierra la reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "Bibliografía.",
+          "is_correct": false,
+          "feedback": "La bibliografía es la lista de fuentes consultadas, no la argumentación en sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura del ensayo debe ser lógica para convencer al lector de la validez de la postura del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v10",
+      "statement": "¿Qué busca la **crítica literaria**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encontrar todos los errores para que el autor no vuelva a escribir.",
+          "is_correct": false,
+          "feedback": "La crítica busca la comprensión y valoración, no la destrucción del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Analizar, interpretar y valorar una obra de forma fundamentada.",
+          "is_correct": true,
+          "feedback": "Correcto. Ofrece herramientas al lector para entender mejor el valor de un texto."
+        },
+        {
+          "letter": "C",
+          "text": "Vender más libros mediante publicidad engañosa.",
+          "is_correct": false,
+          "feedback": "La crítica debe ser independiente del interés comercial de las editoriales."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir el libro a otros idiomas.",
+          "is_correct": false,
+          "feedback": "La traducción es una labor lingüística diferente a la crítica literaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crítica literaria es un ejercicio de pensamiento que enriquece la lectura y construye el canon cultural.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v11",
+      "statement": "¿Por qué es importante la **cohesión y coherencia** en un texto escrito?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el texto sea más largo y ocupe más hojas.",
+          "is_correct": false,
+          "feedback": "El exceso de palabras sin sentido no mejora un texto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así se gastan menos palabras difíciles.",
+          "is_correct": false,
+          "feedback": "No se trata de la dificultad del vocabulario, sino de la conexión de las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Para garantizar que las ideas estén conectadas lógicamente y el lector pueda comprender el mensaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las propiedades que dan unidad y sentido a un escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el computador no marque errores en color rojo.",
+          "is_correct": false,
+          "feedback": "Los correctores automáticos no siempre detectan fallas de coherencia lógica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto coherente y cohesionado es una herramienta de comunicación eficaz y profesional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-v12",
+      "statement": "¿Cuál es la relación entre el **contexto histórico** y la literatura?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna; la literatura es pura imaginación sin relación con el mundo.",
+          "is_correct": false,
+          "feedback": "Los autores siempre escriben desde una realidad social y política concreta."
+        },
+        {
+          "letter": "B",
+          "text": "La literatura refleja las preocupaciones, conflictos y valores de la época en que fue escrita.",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos son testimonios artísticos de su tiempo histórico."
+        },
+        {
+          "letter": "C",
+          "text": "El contexto histórico solo sirve para las clases de sociales, no de lengua.",
+          "is_correct": false,
+          "feedback": "El análisis literario profundo requiere conocer el contexto de producción."
+        },
+        {
+          "letter": "D",
+          "text": "La literatura determina cómo deben ocurrir los hechos históricos en el futuro.",
+          "is_correct": false,
+          "feedback": "Aunque puede influir en el pensamiento, la literatura no predice ni dicta la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender cuándo y por qué se escribió una obra permite una interpretación mucho más rica y crítica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-evaluacion-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v1",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v2",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v3",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v4",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v5",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v6",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v7",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v8",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v9",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v10",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v11",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-v12",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W40-repaso-anual-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

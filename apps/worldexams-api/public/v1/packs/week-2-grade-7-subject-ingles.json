@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-2-grade-7-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.235Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v1",
+      "statement": "What is reported speech?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The exact words a person said, written between quotation marks.",
+          "is_correct": false,
+          "feedback": "Incorrect. That is direct speech."
+        },
+        {
+          "letter": "B",
+          "text": "Reporting what someone said without using their exact words, often with tense changes.",
+          "is_correct": true,
+          "feedback": "Correct. Reported speech paraphrases the original statement."
+        },
+        {
+          "letter": "C",
+          "text": "A type of speech used only in newspapers.",
+          "is_correct": false,
+          "feedback": "Incorrect. Reported speech is used in many contexts."
+        },
+        {
+          "letter": "D",
+          "text": "Writing dialogue for a story.",
+          "is_correct": false,
+          "feedback": "Incorrect. That is dialogue writing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reported speech (also called indirect speech) is used to tell someone what another person said without quoting their exact words. For example: Direct: Maria said, \"I am tired.\" Reported: Maria said that she was tired. Notice the verb tense changes from present to past.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v2",
+      "statement": "When we change from direct to reported speech, what usually happens to the verb tense?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It stays exactly the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses usually shift back."
+        },
+        {
+          "letter": "B",
+          "text": "It shifts back one tense (backshift).",
+          "is_correct": true,
+          "feedback": "Correct. Present becomes past, past becomes past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "It changes to future tense.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It changes to present perfect.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, verbs usually \"backshift\" one tense: present simple → past simple, present continuous → past continuous, present perfect → past perfect, past simple → past perfect, will → would, can → could. For example: \"I like pizza\" → He said he liked pizza. \"I am studying\" → She said she was studying.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v3",
+      "statement": "How should Andrés report Laura's sentence: \"I live in Cali\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laura said that she lives in Cali.",
+          "is_correct": false,
+          "feedback": "Partially correct, but in formal reported speech the tense should backshift."
+        },
+        {
+          "letter": "B",
+          "text": "Laura said that she lived in Cali.",
+          "is_correct": true,
+          "feedback": "Correct. \"live\" becomes \"lived\" in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "Laura said that I live in Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. The pronoun and tense are wrong."
+        },
+        {
+          "letter": "D",
+          "text": "Laura said that she had lived in Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. That would be past perfect, but the original is present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "When reporting a present simple statement like \"I live in Cali,\" the verb backshifts to past simple: \"She said that she lived in Cali.\" The pronoun also changes from \"I\" to \"she\" to match the subject Laura. Note that in informal English, some speakers keep the present tense, but for academic purposes, backshifting is expected.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v4",
+      "statement": "How does the teacher report: \"I will do my homework\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daniel said that he will do his homework.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"will\" should change."
+        },
+        {
+          "letter": "B",
+          "text": "Daniel said that he would do his homework.",
+          "is_correct": true,
+          "feedback": "Correct. \"will\" becomes \"would\" in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "Daniel said that he did his homework.",
+          "is_correct": false,
+          "feedback": "Incorrect. That changes the meaning."
+        },
+        {
+          "letter": "D",
+          "text": "Daniel said that he is doing his homework.",
+          "is_correct": false,
+          "feedback": "Incorrect. The original uses \"will do\", not present continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The modal verb \"will\" changes to \"would\" in reported speech. Direct: \"I will help you.\" Reported: He said he would help me. Other modal changes include: can → could, may → might, must → had to. This backshift shows that the reported event is in the past relative to the reporting verb.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v5",
+      "statement": "How does Valentina report: \"Where is the library?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santiago asked where is the library.",
+          "is_correct": false,
+          "feedback": "Incorrect. The word order changes in reported questions."
+        },
+        {
+          "letter": "B",
+          "text": "Santiago asked that where the library is.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"that\" is not used with wh-questions."
+        },
+        {
+          "letter": "C",
+          "text": "Santiago asked where the library was.",
+          "is_correct": true,
+          "feedback": "Correct. The word order changes to subject+verb and the tense backshifts."
+        },
+        {
+          "letter": "D",
+          "text": "Santiago asked where was the library.",
+          "is_correct": false,
+          "feedback": "Incorrect. The word order should be subject + verb, not verb + subject."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "For reported wh-questions, the word order changes from question order (verb + subject) to statement order (subject + verb), and the tense backshifts. Direct: \"Where is the library?\" → Reported: He asked where the library was. The auxiliary \"do/does/did\" is removed, and we don't use \"that\" with question words.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v6",
+      "statement": "How does Sebastián report: \"I have finished my project\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camila said that she has finished her project.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"have finished\" should backshift."
+        },
+        {
+          "letter": "B",
+          "text": "Camila said that she had finished her project.",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect becomes past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "Camila said that she finished her project.",
+          "is_correct": false,
+          "feedback": "Partially correct, but \"have finished\" (present perfect) usually becomes \"had finished\" (past perfect)."
+        },
+        {
+          "letter": "D",
+          "text": "Camila said that she was finishing her project.",
+          "is_correct": false,
+          "feedback": "Incorrect. That changes the present perfect to past continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present perfect tenses backshift to past perfect in reported speech. Direct: \"I have seen that movie\" → Reported: He said he had seen that movie. Similarly, past simple usually becomes past perfect, though in informal speech the past simple can stay the same if the time reference is clear.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v7",
+      "statement": "How does Isabella report the command: \"Open your books\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The teacher said that open your books.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"that\" is not used with reported commands."
+        },
+        {
+          "letter": "B",
+          "text": "The teacher said to opening your books.",
+          "is_correct": false,
+          "feedback": "Incorrect. The structure is \"told + infinitive\"."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher told us to open our books.",
+          "is_correct": true,
+          "feedback": "Correct. Commands use \"told + person + to + infinitive\"."
+        },
+        {
+          "letter": "D",
+          "text": "The teacher said us open our books.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"say\" does not take an indirect object."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "To report commands or requests, we use: told/asked + person + to + infinitive. Direct command: \"Close the door.\" → Reported: He told me to close the door. For negative commands: \"Don't run.\" → He told us not to run. Note that \"say\" cannot take a person; we must use \"tell\" or \"ask\" for commands.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v8",
+      "statement": "How does Andrés report: \"Do you like coffee?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maria asked if do I like coffee.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"do\" is removed in reported questions."
+        },
+        {
+          "letter": "B",
+          "text": "Maria asked that I like coffee.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"that\" is not used for reporting questions."
+        },
+        {
+          "letter": "C",
+          "text": "Maria asked if I liked coffee.",
+          "is_correct": true,
+          "feedback": "Correct. Yes/no questions use \"if\" or \"whether\" and statement word order."
+        },
+        {
+          "letter": "D",
+          "text": "Maria asked do I like coffee.",
+          "is_correct": false,
+          "feedback": "Incorrect. No auxiliary in reported questions."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "For reporting yes/no questions, we use \"if\" or \"whether\" and statement word order. Direct: \"Do you like pizza?\" → Reported: He asked if I liked pizza. The auxiliary verb \"do/does/did\" is removed, and the tense backshifts. This is different from wh-questions which use the question word instead of \"if.\"\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v9",
+      "statement": "What is the correct reported speech version of \"I was watching TV\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He said that he is watching TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense should backshift further."
+        },
+        {
+          "letter": "B",
+          "text": "He said that he watched TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous becomes past perfect continuous, not past simple."
+        },
+        {
+          "letter": "C",
+          "text": "He said that he had been watching TV.",
+          "is_correct": true,
+          "feedback": "Correct. Past continuous becomes past perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "He said that he was watching TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. The tense must backshift."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Past continuous backshifts to past perfect continuous. Direct: \"I was sleeping\" → He said he had been sleeping. The structure is: was/were + V-ing → had been + V-ing. This is one of the less common backshifts, but important for accurate reported speech in formal contexts.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v10",
+      "statement": "Is \"She said that she can swim\" correct reported speech?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it is correct because \"can\" never changes.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"can\" usually changes to \"could\"."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, it is correct if the statement is still true.",
+          "is_correct": false,
+          "feedback": "Partially correct in informal English, but in formal reported speech, backshift is expected."
+        },
+        {
+          "letter": "C",
+          "text": "It can be correct if the ability is still true and the speaker wants to emphasize it, but the formal version is \"could.\"",
+          "is_correct": true,
+          "feedback": "Correct. Both are possible depending on context."
+        },
+        {
+          "letter": "D",
+          "text": "No, it should be \"she could swim\" always.",
+          "is_correct": false,
+          "feedback": "Not always. Some contexts allow no backshift."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "In reported speech, modal verbs usually backshift (can → could). However, if the reported statement is still true at the time of reporting, some speakers keep the original tense. For example: \"The Earth is round\" → He said the Earth is round (still true). But in formal/academic contexts, backshifting is generally preferred.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v11",
+      "statement": "What is the most appropriate way to report the mayor's statement in a formal news article?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mayor said that they will build a new school next year.",
+          "is_correct": false,
+          "feedback": "Acceptable informal, but less formal."
+        },
+        {
+          "letter": "B",
+          "text": "The mayor said that they would build a new school the following year.",
+          "is_correct": false,
+          "feedback": "Correct for formal context."
+        },
+        {
+          "letter": "C",
+          "text": "The mayor said they build a new school next year.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing future reference and backshift."
+        },
+        {
+          "letter": "D",
+          "text": "The mayor said that they had built a new school.",
+          "is_correct": true,
+          "feedback": "Incorrect. That changes the meaning entirely."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "In formal writing (news articles, academic reports), reported speech requires: (1) backshift of \"will\" to \"would\", (2) change of time expressions like \"next year\" to \"the following year\" or \"the next year\". This maintains the original meaning while correctly placing the statement in the past.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-v12",
+      "statement": "Which of the following time/place expression changes is correct for reported speech?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"today\" becomes \"today\" (no change).",
+          "is_correct": false,
+          "feedback": "Incorrect. \"today\" usually becomes \"that day\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"here\" becomes \"there\", \"now\" becomes \"then\", \"today\" becomes \"that day\".",
+          "is_correct": true,
+          "feedback": "Correct. These are the standard changes."
+        },
+        {
+          "letter": "C",
+          "text": "\"here\" becomes \"there\", but \"now\" stays the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"now\" also changes."
+        },
+        {
+          "letter": "D",
+          "text": "\"tomorrow\" becomes \"today\".",
+          "is_correct": false,
+          "feedback": "Incorrect. \"tomorrow\" becomes \"the next day\" or \"the following day\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, time and place expressions often change to reflect the shift in perspective: now → then, today → that day, yesterday → the day before / the previous day, tomorrow → the next day / the following day, here → there, this → that, these → those. Example: \"I am here now\" → She said she was there then.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-7-2026-W02-reported-speech-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.844Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v1",
+      "statement": "¿Qué estudia la genética?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudio de los fósiles y la evolución de las especies.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la paleontología."
+        },
+        {
+          "letter": "B",
+          "text": "El estudio de la herencia biológica, los genes y cómo se transmiten las características de padres a hijos.",
+          "is_correct": true,
+          "feedback": "Correcto. La genética explica por qué nos parecemos a nuestros padres."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de las enfermedades del sistema nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la neurología."
+        },
+        {
+          "letter": "D",
+          "text": "El estudio de las células y sus organelos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la biología celular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La genética es la rama de la biología que estudia cómo se transmiten las características hereditarias de una generación a otra. Investiga los genes (unidades de información genética), el ADN (que contiene los genes) y los patrones de herencia. Gregor Mendel, un monje austriaco del siglo XIX, es considerado el padre de la genética por sus experimentos con guisantes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v2",
+      "statement": "¿Qué es un gen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una proteína que da color a los ojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los genes contienen información para producir proteínas."
+        },
+        {
+          "letter": "B",
+          "text": "Un segmento de ADN que contiene la información para una característica específica.",
+          "is_correct": true,
+          "feedback": "Correcto. Un gen es como una \"instrucción\" para una característica."
+        },
+        {
+          "letter": "C",
+          "text": "Una célula especializada en la reproducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un gameto (óvulo o espermatozoide)."
+        },
+        {
+          "letter": "D",
+          "text": "Un cromosoma completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cromosoma contiene muchos genes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un gen es un fragmento de ADN que contiene la información necesaria para determinar una característica hereditaria, como el color de ojos, el tipo de cabello o el grupo sanguíneo. Los genes están organizados en los cromosomas, que se encuentran en el núcleo de las células. Cada persona tiene aproximadamente 20,000-25,000 genes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v3",
+      "statement": "¿Qué significa que un alelo sea dominante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre causa enfermedades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dominante no significa dañino."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo se expresa si está en ambos cromosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe a un alelo recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "Que se expresa (manifiesta) aunque solo esté presente en una copia.",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo dominante \"domina\" al recesivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que es más común en la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frecuencia y dominancia son conceptos diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un alelo es una versión específica de un gen. Los alelos dominantes se representan con mayúsculas (A) y se expresan aunque solo haya una copia. Por ejemplo, el alelo para ojos marrones (A) es dominante sobre el alelo para ojos azules (a). Si una persona tiene un alelo para ojos marrones y otro para ojos azules (Aa), tendrá ojos marrones porque el alelo marrón es dominante.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v4",
+      "statement": "Si el color de ojos marrones (M) es dominante sobre el azul (m), ¿qué genotipo debe tener una persona con ojos azules?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "MM",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con MM tendría ojos marrones."
+        },
+        {
+          "letter": "B",
+          "text": "Mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con Mm también tendría ojos marrones porque M domina."
+        },
+        {
+          "letter": "C",
+          "text": "mm",
+          "is_correct": true,
+          "feedback": "Correcto. Para tener ojos azules (recesivo), necesita dos alelos recesivos."
+        },
+        {
+          "letter": "D",
+          "text": "Mm o mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mm expresa el alelo dominante (marrones)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los rasgos recesivos solo se expresan cuando la persona tiene dos copias del alelo recesivo (homocigoto recesivo). Para ojos azules (recesivo), el genotipo debe ser mm. Si Laura tiene ojos marrones y su mamá tiene ojos azules (mm), entonces Laura heredó un alelo m de su mamá y un alelo M de su papá, siendo su genotipo Mm (heterocigoto).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v5",
+      "statement": "Si se cruzan AA × aa, ¿qué genotipos tendrá la descendencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos AA",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planta aa solo puede aportar a."
+        },
+        {
+          "letter": "B",
+          "text": "Todos aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planta AA solo puede aportar A."
+        },
+        {
+          "letter": "C",
+          "text": "Todos Aa",
+          "is_correct": true,
+          "feedback": "Correcto. Cada padre aporta un alelo: A del AA y a del aa."
+        },
+        {
+          "letter": "D",
+          "text": "Mitad AA y mitad aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mezcla aleatoria cuando los progenitores son homocigotos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando se cruza un homocigoto dominante (AA) con un homocigoto recesivo (aa), todos los descendientes serán heterocigotos (Aa). Esto se debe a que el padre AA solo puede aportar el alelo A, y el padre aa solo puede aportar el alelo a. Todos los hijos tendrán el genotipo Aa y expresarán el rasgo dominante.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v6",
+      "statement": "Si ambos padres son heterocigotos (Aa) para el lóbulo de la oreja (adherido = recesivo), ¿qué probabilidad tienen de tener un hijo con lóbulo adherido?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si ambos son Aa, pueden tener hijos aa."
+        },
+        {
+          "letter": "B",
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay otras combinaciones posibles."
+        },
+        {
+          "letter": "C",
+          "text": "25%",
+          "is_correct": true,
+          "feedback": "Correcto. El cruce Aa × Aa da: AA (25%), Aa (50%), aa (25%)."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50% es la probabilidad de ser heterocigoto, no de ser recesivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cruce Aa × Aa produce las siguientes combinaciones: AA (25%), Aa (50%), aa (25%). Esto se visualiza con el cuadro de Punnett. Por lo tanto, la probabilidad de tener un hijo con el rasgo recesivo (aa) es del 25% o 1 de cada 4. Las probabilidades genéticas son predicciones; cada hijo es un evento independiente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v7",
+      "statement": "¿Por qué Mendel usó guisantes (arvejas) para sus experimentos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque eran más baratos que otros cultivos.",
+          "is_correct": false,
+          "feedback": "Es cierto, pero no la razón científica principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque crecen en cualquier clima.",
+          "is_correct": false,
+          "feedback": "No es la razón principal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tienen características claras (color, forma), se reproducen rápido y se pueden controlar los cruces.",
+          "is_correct": true,
+          "feedback": "Correcto. Los guisantes son ideales para estudios genéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Mendel no podía estudiar humanos.",
+          "is_correct": false,
+          "feedback": "Cierto, pero no explica por qué eligió guisantes específicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mendel eligió guisantes (Pisum sativum) porque: tienen características fácilmente distinguibles (color de la semilla, forma, altura de la planta, etc.), se reproducen rápidamente (varias generaciones por año), se puede controlar la polinización (evitando la polinización cruzada no deseada) y producen muchos descendientes. Mendel estudió siete características distintas y observó patrones consistentes que lo llevaron a formular sus leyes de la herencia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v8",
+      "statement": "Si el hoyuelo en la barbilla es dominante (H), ¿qué puede concluir Camila sobre la genética de su hermana?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su hermana debe tener dos alelos dominantes (HH).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Podría ser HH o Hh."
+        },
+        {
+          "letter": "B",
+          "text": "Su hermana heredó al menos un alelo dominante (H) de alguno de sus padres.",
+          "is_correct": true,
+          "feedback": "Correcto. Para tener hoyuelo, necesita al menos una H."
+        },
+        {
+          "letter": "C",
+          "text": "Su hermana heredó el hoyuelo solo de su mamá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mamá no tiene hoyuelo, así que debe ser hh."
+        },
+        {
+          "letter": "D",
+          "text": "El hoyuelo no es genético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hoyuelo tiene base genética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si el hoyuelo es dominante (H), una persona lo tendrá si su genotipo es HH o Hh. La mamá no tiene hoyuelo, por lo tanto es hh. La hermana tiene hoyuelo, así que heredó al menos una H. Como la mamá solo puede dar h, la H debe venir del papá (que tiene hoyuelo y puede ser HH o Hh). La hermana es necesariamente Hh.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v9",
+      "statement": "¿Qué condiciones deben cumplir los padres para que un hijo tenga fibrosis quística (enfermedad recesiva)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al menos uno de los padres tenga la enfermedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden ser portadores sin tener la enfermedad."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos padres tengan la enfermedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí, pero podrían ser portadores asintomáticos."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos padres sean al menos portadores (heterocigotos) del alelo recesivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada padre debe aportar un alelo recesivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo la madre sea portadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos padres deben aportar el alelo recesivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que un hijo exprese una enfermedad recesiva, debe heredar dos alelos recesivos (uno de cada padre). Los padres pueden ser portadores (heterocigotos, Aa) sin tener la enfermedad. Cuando ambos son portadores, hay un 25% de probabilidad de tener un hijo afectado, 50% de portador y 25% de no portador.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v10",
+      "statement": "¿Es correcto afirmar que \"un hijo siempre hereda exactamente la mitad de sus genes de cada padre\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque los hijos eligen qué heredar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia no es una elección."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, exactamente el 50% de cada padre.",
+          "is_correct": false,
+          "feedback": "Correcto. Cada padre aporta 23 cromosomas."
+        },
+        {
+          "letter": "C",
+          "text": "No, los hijos heredan el 50% del ADN de cada progenitor, pero la combinación es aleatoria.",
+          "is_correct": true,
+          "feedback": "Correcto. La mitad de cada padre, pero cada combinación es única."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los genes del padre son más fuertes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos padres contribuyen por igual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada persona hereda exactamente el 50% de su ADN de su madre y el 50% de su padre (23 cromosomas de cada uno, para un total de 46). Sin embargo, la combinación específica de alelos que recibe es aleatoria debido al proceso de meiosis. Por eso los hermanos (excepto gemelos idénticos) comparten aproximadamente el 50% de su ADN pero no son idénticos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v11",
+      "statement": "¿Los gemelos idénticos (monocigóticos) tienen exactamente el mismo ADN?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque se originan de un solo óvulo fecundado que se divide en dos.",
+          "is_correct": true,
+          "feedback": "Correcto. Comparten el 99.99% de su ADN."
+        },
+        {
+          "letter": "B",
+          "text": "No, solo comparten el 50% como cualquier hermano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso aplica para gemelos fraternos."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero solo si viven en el mismo lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El entorno no cambia el ADN."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el ADN cambia con el tiempo.",
+          "is_correct": false,
+          "feedback": "Las mutaciones son mínimas; básicamente son genéticamente idénticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los gemelos idénticos o monocigóticos se forman cuando un único óvulo fecundado (cigoto) se divide en dos embriones separados. Por lo tanto, comparten el mismo ADN nuclear (son clones naturales). En cambio, los gemelos fraternos (dicigóticos) provienen de dos óvulos diferentes fecundados por dos espermatozoides diferentes, y comparten aproximadamente el 50% del ADN, como cualquier par de hermanos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-v12",
+      "statement": "¿Por qué la genética mendeliana no explica TODOS los patrones de herencia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Mendel se equivocó en sus experimentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mendel tenía razón, pero sus leyes son casos simples."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los guisantes no tienen nada que ver con los humanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los principios básicos aplican a todos los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque existen herencias más complejas: codominancia, herencia poligénica, influencia ambiental, etc.",
+          "is_correct": true,
+          "feedback": "Correcto. La herencia puede ser más compleja que dominante/recesivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los genes no son importantes para la herencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los genes son fundamentales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las leyes de Mendel explican patrones simples de herencia (dominante/recesivo), pero la genética real es más compleja. Existen: codominancia (ambos alelos se expresan, como en el grupo sanguíneo AB), herencia poligénica (varios genes influyen en un rasgo, como la estatura), alelos múltiples (más de dos opciones, como el grupo sanguíneo), influencia ambiental (como la altura que depende de nutrición) y herencia ligada al sexo (genes en cromosomas X o Y).\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-2026-W03-genetica-basica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

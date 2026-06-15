@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.653Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v1",
+      "statement": "¿Qué característica define a un editorial periodístico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narra una historia ficticia con personajes inventados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es narrativa literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta datos objetivos sin ninguna postura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La objetividad total no existe en editoriales."
+        },
+        {
+          "letter": "C",
+          "text": "Expresa la postura oficial del medio de comunicación sobre un tema de actualidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El editorial representa la voz del periódico."
+        },
+        {
+          "letter": "D",
+          "text": "Reporta los hechos de una noticia sin opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la noticia, no el editorial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El editorial es un género periodístico de opinión que expresa la posición institucional del medio de comunicación frente a un tema relevante. A diferencia del artículo de opinión firmado por un columnista, el editorial no lleva firma individual porque representa la voz del periódico como institución. Su propósito es orientar la opinión pública, defender una postura y, en ocasiones, influir en la toma de decisiones. El lector crítico de editoriales identifica la postura del medio, evalúa los argumentos presentados y reconoce que el editorial refleja la línea editorial del periódico, no una verdad objetiva.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v2",
+      "statement": "¿Cuál es la tesis del autor en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Medellín es una ciudad bonita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Que los trancones son divertidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que la movilidad urbana está mal y que la planeación es deficiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es que hay un problema de planeación que causa trancones."
+        },
+        {
+          "letter": "D",
+          "text": "Que los ciudadanos deben comprar más carros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona esa solución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis es la idea central que el autor defiende a lo largo del texto. En un artículo de opinión, la tesis suele aparecer al inicio (tesis explícita) o puede estar implícita. Aquí, la tesis es que la movilidad está en crisis por mala planeación urbana. Identificar la tesis es el primer paso para evaluar un texto argumentativo: una vez que sabemos qué defiende el autor, podemos examinar si los argumentos la apoyan adecuadamente. El lector crítico separa la tesis (lo que se afirma) de los argumentos (por qué se afirma).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v3",
+      "statement": "¿Qué función cumple la mención breve de una opinión contraria en el editorial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilitar la postura del medio al darle espacio al oponente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la refutación fortalece."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el medio no tiene una postura definida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial tiene postura clara."
+        },
+        {
+          "letter": "C",
+          "text": "Refutar un contraargumento para fortalecer la propia posición, una técnica conocida como concesión-refutación.",
+          "is_correct": true,
+          "feedback": "Correcto. Mencionar y refutar la opinión contraria fortalece el argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector con información contradictoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutación aclara, no confunde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concesión-refutación es una estrategia argumentativa en la que el autor reconoce un argumento contrario (concesión) y luego lo refuta (refutación). Esta técnica fortalece la argumentación porque: 1) demuestra que el autor conoce las posturas opuestas, 2) anticipa objeciones del lector, 3) muestra confianza al enfrentar críticas, 4) da la impresión de balance y objetividad. Un editorial que ignora por completo las posturas contrarias parece dogmático o desinformado. El lector crítico evalúa si la refutación es justa y convincente o si tergiversa la posición contraria (hombre de paja).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v4",
+      "statement": "¿Qué tipo de argumento está usando el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad, citando a un experto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cita de experto."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento emocional, apelando al miedo.",
+          "is_correct": false,
+          "feedback": "Parcial, pero hay más."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento basado en consecuencias negativas previsibles, respaldado por una condición real (falta de recursos).",
+          "is_correct": true,
+          "feedback": "Correcto. Es un argumento lógico de causa-efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de comparación con otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los argumentos basados en consecuencias son comunes en artículos de opinión. Aquí, el autor establece una relación causal: si X (implementación sin recursos) entonces Y (estudiantes más afectados). La fuerza del argumento depende de: 1) si la relación causal es real, 2) si la condición (falta de recursos) es probable, 3) si las consecuencias mencionadas (falta de alimentación y transporte) son relevantes. El autor identifica a la población más vulnerable (estratos 1 y 2), lo que añade peso ético al argumento. El lector crítico evalúa si la cadena causal es sólida o si hay eslabones débiles.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v5",
+      "statement": "¿Qué recurso retórico utiliza el autor para darle peso a su opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole o exageración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No exagera."
+        },
+        {
+          "letter": "B",
+          "text": "Pregunta retórica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "Ethos o credibilidad del hablante, al mencionar sus 25 años de experiencia como educador.",
+          "is_correct": true,
+          "feedback": "Correcto. La experiencia le da autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ironía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En retórica clásica, Aristóteles identificó tres modos de persuasión: ethos (credibilidad del orador), pathos (emoción) y logos (lógica). Aquí, el autor apela al ethos al mencionar sus 25 años de experiencia. Esto busca generar confianza en el lector: \"quien habla sabe de lo que habla\". Sin embargo, el lector crítico reconoce que la experiencia, aunque relevante, no garantiza que la opinión sea correcta. La experiencia debe ir acompañada de argumentos lógicos (logos). Un argumento basado solo en ethos es una falacia de autoridad si no hay sustento racional adicional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v6",
+      "statement": "¿Qué estrategia argumentativa emplea el columnista contra quienes se oponen a la reforma?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los acusa de ignorancia al sugerir que \"olvidan\" un dato clave.",
+          "is_correct": false,
+          "feedback": "Correcto. La palabra 'olvidan' es un ad hominem disfrazado."
+        },
+        {
+          "letter": "B",
+          "text": "Los elogia por su memoria selectiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elogio."
+        },
+        {
+          "letter": "C",
+          "text": "Cita estadísticas precisas de distribución de tierra.",
+          "is_correct": false,
+          "feedback": "Parcial, pero la estrategia principal es descalificar."
+        },
+        {
+          "letter": "D",
+          "text": "Propone un debate abierto con ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay invitación al debate."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra \"olvidan\" en un texto argumentativo no es inocente. No afirma explícitamente que los opositores sean ignorantes, pero lo sugiere: \"si recordaran el dato, no se opondrían\". Es una forma sutil de descalificación que evita discutir los argumentos de fondo de la posición contraria. Esta técnica, cercana a la falacia ad hominem (ataque a la persona), busca desacreditar al oponente en lugar de refutar sus argumentos. El lector crítico identifica cuándo un autor está argumentando contra las ideas o contra las personas. El debate de ideas se fortalece cuando nos enfocamos en argumentos, no en descalificaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v7",
+      "statement": "¿Qué estructura argumentativa presenta este artículo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura narrativa: inicio, nudo, desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una narración."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura descriptiva: enumera características sin tomar postura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay postura."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura argumentativa con tesis explícita y argumentos enumerados jerárquicamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis se apoya en tres argumentos organizados."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura dialogada: pregunta y respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay diálogo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura argumentativa típica de un artículo de opinión es: tesis + argumentos + conclusión. Aquí, la tesis es \"la reforma pensional es necesaria\", seguida de tres argumentos presentados con marcadores textuales (primero, segundo, tercero). Los argumentos son de diferente tipo: financiero (sostenibilidad), social (millones sin pensión) y comparativo (otros países). Esta organización jerárquica facilita la lectura y hace el argumento más convincente. El lector crítico evalúa cada argumento por separado: ¿el sistema es realmente insostenible? ¿Cuántos millones exactamente? ¿Los países comparados tienen contextos similares al nuestro?\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v8",
+      "statement": "¿Qué revela la existencia de dos posturas opuestas sobre el mismo tema?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que uno de los dos columnistas miente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden tener argumentos válidos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el periódico no tiene línea editorial clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los columnistas no representan al periódico."
+        },
+        {
+          "letter": "C",
+          "text": "Que los temas complejos tienen múltiples dimensiones y que la opinión pública se construye contrastando perspectivas divergentes. Los artículos de opinión invitan al debate.",
+          "is_correct": true,
+          "feedback": "Correcto. La diversidad de opiniones enriquece el debate."
+        },
+        {
+          "letter": "D",
+          "text": "Que la minería no es un tema importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si dos columnistas escriben, es por su relevancia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una de las funciones de la prensa es ser foro de debate público. Cuando un periódico publica columnas con posturas opuestas, ofrece a los lectores la oportunidad de confrontar perspectivas y formarse su propia opinión. En el caso de la minería en el Chocó, es un tema con dimensiones económicas (empleo, desarrollo), ambientales (deforestación, contaminación de ríos) y sociales (desplazamiento, culturas locales). El lector crítico no busca quién \"tiene la razón\", sino que examina los argumentos de cada postura, evalúa la evidencia presentada y forma su propio juicio informado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v9",
+      "statement": "¿Qué problemas presenta esta afirmación como argumento editorial?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado optimista sobre los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es negativa, pero el problema no es el tono."
+        },
+        {
+          "letter": "B",
+          "text": "Usa un tono adecuado para un editorial. No tiene problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí tiene problemas de generalización."
+        },
+        {
+          "letter": "C",
+          "text": "Es una generalización excesiva sin evidencia: asume que TODOS los jóvenes son iguales, ignora nuevas formas de lectura digital y no presenta datos que respalden la afirmación.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una generalización injustificada."
+        },
+        {
+          "letter": "D",
+          "text": "Es una opinión válida porque los jóvenes realmente no leen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión necesita respaldo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La generalización excesiva es una falacia lógica donde se concluye algo sobre todos los miembros de un grupo basándose en evidencia insuficiente. El editorial comete esta falacia al afirmar que \"los jóvenes de hoy no leen\" sin: 1) definir qué entiende por \"leer\", 2) presentar datos de encuestas de lectura en Colombia (la Encuesta de Consumo Cultural del DANE), 3) considerar que leer en pantallas (artículos, hilos, subtítulos) también es lectura, aunque diferente. El lector crítico cuestiona las afirmaciones absolutas (\"todos\", \"nunca\", \"siempre\") y busca evidencia antes de aceptar una generalización. Un argumento sólido reconoce excepciones y matices.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v10",
+      "statement": "¿Qué debilidades tiene este artículo de opinión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado largo y aburrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la debilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El título es bueno y atractivo.",
+          "is_correct": false,
+          "feedback": "Irrelevante."
+        },
+        {
+          "letter": "C",
+          "text": "El autor opina sobre un tema sin experiencia directa, no diferencia entre tipos de virtualidad, no presenta evidencia ni reconoce casos exitosos. Carece de sustento.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de experiencia y evidencia lo debilita."
+        },
+        {
+          "letter": "D",
+          "text": "Es escrito por un docente, por lo que es confiable automáticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser docente no le da autoridad sobre virtualidad si no la ha practicado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un artículo de opinión no necesita ser escrito por un experto (de hecho, los periódicos publican opiniones de ciudadanos comunes en secciones de cartas al lector), pero sí debe: 1) tener algún conocimiento o experiencia relevante sobre el tema, 2) presentar argumentos basados en evidencia o razonamiento lógico, 3) reconocer la complejidad del tema evitando afirmaciones absolutas, 4) diferenciar entre casos y contextos. La debilidad central aquí es que el autor generaliza (\"la educación virtual no funciona\") sin matizar y sin experiencia propia. Un mejor artículo reconocería que algunos modelos de virtualidad funcionan y otros no, según el contexto, la plataforma y la metodología.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v11",
+      "statement": "¿Qué elementos debe tener esta carta para ser considerada un texto argumentativo efectivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo su opinión personal sin datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mera opinión no argumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Insultos contra el alcalde por permitir la tala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insultos no son argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Una tesis clara (oponerse a la tala), argumentos (daño ambiental, impacto en la comunidad, alternativas), evidencia (número de árboles, especies afectadas) y un llamado a la acción (firmar una petición, asistir a una audiencia).",
+          "is_correct": true,
+          "feedback": "Correcto. Todos los elementos de la argumentación están presentes."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de todos los árboles talados en Cartagena en los últimos 10 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos sin tesis ni argumentos no son argumentación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las cartas al editor son un género argumentativo accesible al ciudadano común. Para ser efectiva, debe incluir: 1) tesis clara (¿qué propone o qué critica?), 2) argumentos que la respalden, 3) evidencia concreta (datos, fechas, nombres), 4) reconocimiento de posibles contraargumentos, 5) un llamado a la acción (¿qué debería hacer el lector o la autoridad?). La opinión pública se construye con argumentos, no con meras opiniones. Una carta bien argumentada tiene más probabilidades de generar cambio que una que solo expresa descontento. El lector crítico evalúa las cartas al editor con los mismos criterios que evalúa cualquier texto argumentativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-v12",
+      "statement": "¿Cuál sería la estructura y contenido adecuado para este editorial escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sola oración diciendo \"Estoy a favor/en contra\" sin más desarrollo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un editorial."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de cinco razones sin orden ni jerarquía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta organización argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que describa los uniformes sin opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial debe tener postura."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto con: postura clara del medio escolar (tesis), dos o tres argumentos que la respalden (económicos, prácticos, identidad), una breve refutación del argumento contrario más común (ej: \"aunque algunos dicen que limita la expresión...\") y una conclusión que reafirme la postura y proponga un siguiente paso.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne todos los elementos del género editorial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El editorial escolar es una excelente herramienta pedagógica porque permite a los estudiantes practicar la argumentación formal. La estructura propuesta incluye: 1) tesis clara (la postura del medio), 2) argumentos organizados (económicos, prácticos, de identidad), 3) concesión y refutación (anticipar y responder al argumento contrario), 4) conclusión que sintetiza y propone acción. Esta estructura no es arbitraria: responde a las convenciones del género editorial y maximiza la efectividad persuasiva. El ejercicio de escribir un editorial obliga al estudiante a investigar, organizar ideas, anticipar objeciones y defender una postura con argumentos, habilidades fundamentales para la lectura crítica y la participación ciudadana.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W35-opinion-editorial-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

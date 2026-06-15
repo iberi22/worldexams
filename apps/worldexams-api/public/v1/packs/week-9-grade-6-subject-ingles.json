@@ -1,0 +1,451 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-9-grade-6-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.161Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v1",
+      "statement": "What is the structure of present perfect?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "subject + past tense verb",
+          "is_correct": false,
+          "feedback": "Pasado simple."
+        },
+        {
+          "letter": "B",
+          "text": "subject + have/has + past participle",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "subject + be + verb-ing",
+          "is_correct": false,
+          "feedback": "Presente continuo."
+        },
+        {
+          "letter": "D",
+          "text": "subject + will + verb",
+          "is_correct": false,
+          "feedback": "Futuro simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present perfect: sujeto + have/has + past participle. Conecta pasado con presente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v2",
+      "statement": "What is the past participle of \"go\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Pasado simple."
+        },
+        {
+          "letter": "B",
+          "text": "goed",
+          "is_correct": false,
+          "feedback": "No existe."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Gerundio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verbos irregulares: go-went-gone, see-saw-seen, eat-ate-eaten, write-wrote-written.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v3",
+      "statement": "Complete: \"I have lived in Ibagué since 2020.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "For + duración."
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correcto. Since + punto específico."
+        },
+        {
+          "letter": "C",
+          "text": "ago",
+          "is_correct": false,
+          "feedback": "Ago + pasado simple."
+        },
+        {
+          "letter": "D",
+          "text": "from",
+          "is_correct": false,
+          "feedback": "No aplica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Since + punto específico (2020, Monday). For + duración (three years, two months).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v4",
+      "statement": "What does \"I have just eaten\" mean?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I ate a long time ago.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "I ate a very short time ago.",
+          "is_correct": true,
+          "feedback": "Correcto. Just = acabar de."
+        },
+        {
+          "letter": "C",
+          "text": "I will eat soon.",
+          "is_correct": false,
+          "feedback": "Futuro."
+        },
+        {
+          "letter": "D",
+          "text": "I never eat.",
+          "is_correct": false,
+          "feedback": "Negación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Just\" con present perfect = \"acabar de\". \"I have just finished\" = Acabo de terminar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v5",
+      "statement": "Correct: \"She has went to the museum.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has goed to the park.",
+          "is_correct": false,
+          "feedback": "\"Goed\" no existe."
+        },
+        {
+          "letter": "B",
+          "text": "She has gone to the museum.",
+          "is_correct": true,
+          "feedback": "Correcto. Gone es el past participle de go."
+        },
+        {
+          "letter": "C",
+          "text": "She has go to the museum.",
+          "is_correct": false,
+          "feedback": "\"Go\" no es past participle."
+        },
+        {
+          "letter": "D",
+          "text": "She went to the museum.",
+          "is_correct": false,
+          "feedback": "Pasado simple, no PP."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past participle de \"go\" = \"gone\". \"Went\" es solo pasado simple.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v6",
+      "statement": "Choose: \"I have already visited Parque Tayrona.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have already visit",
+          "is_correct": false,
+          "feedback": "Past participle needed."
+        },
+        {
+          "letter": "B",
+          "text": "have already visited",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "already have visited",
+          "is_correct": false,
+          "feedback": "Orden incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "visited already",
+          "is_correct": false,
+          "feedback": "Coloquial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adverbios (already, just, never) van entre have/has y el past participle.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v7",
+      "statement": "Difference: \"She has been to Cartagena\" vs \"She has gone to Cartagena\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same meaning.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "\"Been to\" = visited and returned. \"Gone to\" = still there.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "\"Been to\" = still there.",
+          "is_correct": false,
+          "feedback": "Al revés."
+        },
+        {
+          "letter": "D",
+          "text": "\"Gone to\" = visited many times.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Been to\" = ha ido y regresó. \"Gone to\" = fue y está allí.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v8",
+      "statement": "Question: \"you / ever / try / oblea?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you ever try empanadas?",
+          "is_correct": false,
+          "feedback": "Past simple."
+        },
+        {
+          "letter": "B",
+          "text": "Have you ever try empanadas?",
+          "is_correct": false,
+          "feedback": "Past participle needed."
+        },
+        {
+          "letter": "C",
+          "text": "Have you ever tried bandeja paisa?",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "You have ever tried bandeja paisa?",
+          "is_correct": false,
+          "feedback": "Falta inversión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Preguntas PP: Have/Has + sujeto + ever + past participle?\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v9",
+      "statement": "Correct tense? \"Colombia won its first gold in 1972.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has won",
+          "is_correct": false,
+          "feedback": "Tiempo específico."
+        },
+        {
+          "letter": "B",
+          "text": "won",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "has been winning",
+          "is_correct": false,
+          "feedback": "PP continuous."
+        },
+        {
+          "letter": "D",
+          "text": "wins",
+          "is_correct": false,
+          "feedback": "Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eventos con fecha específica: pasado simple, nunca PP.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v10",
+      "statement": "Correct PP paragraph: I have visited the museum. I have been there twice.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I visit the museum. I go there.",
+          "is_correct": false,
+          "feedback": "Present simple, not PP."
+        },
+        {
+          "letter": "B",
+          "text": "I have visited the museum. I have been there twice.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "I have visit the museum.",
+          "is_correct": false,
+          "feedback": "Visit -> visited."
+        },
+        {
+          "letter": "D",
+          "text": "I have visited last week.",
+          "is_correct": false,
+          "feedback": "\"Last week\" con PP."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "PP paragraph: past participles correctos, sin tiempos específicos.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-v11",
+      "statement": "Which auxiliary for \"she\" in PP?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Have para I/you/we/they."
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correcto. He/she/it -> has."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Present simple."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conjugación: I/You/We/They + have. He/She/It + has.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W09-present-perfect-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

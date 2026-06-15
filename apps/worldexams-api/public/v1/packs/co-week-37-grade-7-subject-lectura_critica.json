@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.655Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v1",
+      "statement": "¿Qué diferencia fundamental hay entre una noticia y un reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia es más larga que el reportaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente el reportaje es más extenso."
+        },
+        {
+          "letter": "B",
+          "text": "El reportaje es falso y la noticia es verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos deben ser veraces."
+        },
+        {
+          "letter": "C",
+          "text": "La noticia informa hechos de manera directa y concisa; el reportaje profundiza, contextualiza e interpreta un tema con mayor detalle, incluyendo testimonios, análisis y ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. El reportaje va más allá de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "El reportaje se publica solo en televisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay reportajes escritos, televisivos, radiofónicos y digitales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia entre noticia y reportaje no es de verdad vs falsedad, sino de profundidad y propósito. La noticia responde a las 6 preguntas básicas de manera directa (pirámide invertida). El reportaje, en cambio, es un género interpretativo que: 1) investiga en profundidad, 2) contextualiza los hechos en su entorno social, histórico y cultural, 3) incluye múltiples fuentes y perspectivas, 4) utiliza recursos narrativos y descriptivos, 5) permite la presencia del periodista como observador. El reportaje no solo informa, sino que ayuda al lector a comprender las causas, consecuencias y significados más profundos de un tema.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v2",
+      "statement": "¿Qué características del reportaje como género se evidencian en esta descripción?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es breve y se limita a los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye múltiples elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo incluye la opinión del periodista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye múltiples fuentes y perspectivas."
+        },
+        {
+          "letter": "C",
+          "text": "Profundidad temática, uso de múltiples fuentes, inclusión de contexto histórico y variedad de formatos (datos, testimonios, fotografías).",
+          "is_correct": true,
+          "feedback": "Correcto. El reportaje combina géneros y formatos."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto de ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje es un género periodístico de no ficción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje se caracteriza por su enfoque multidimensional. A diferencia de la noticia, el reportaje no se conforma con reportar el \"qué\" y \"cuándo\", sino que busca el \"por qué\" y el \"cómo\" en profundidad. Los elementos descritos muestran esta riqueza: datos duros (dimensión cuantitativa), testimonios (dimensión humana), autoridades (dimensión institucional), fotografías (dimensión visual), contexto histórico (dimensión temporal) y análisis de impacto comunitario (dimensión social). Esta multiplicidad de enfoques permite al lector formarse una comprensión integral del tema, que es precisamente el objetivo del reportaje como género.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v3",
+      "statement": "¿Qué estructura narrativa tiene este reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirámide invertida (información más importante al inicio).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es de la noticia, no del reportaje."
+        },
+        {
+          "letter": "B",
+          "text": "Sin estructura, es aleatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo reportaje tiene estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura cronológica combinada con análisis: comienza con una escena concreta (presente), retrocede al origen (pasado) y concluye con una reflexión sobre el impacto (presente-futuro).",
+          "is_correct": true,
+          "feedback": "Correcto. El reportaje usa flashbacks y análisis."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura de lista enumerada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una lista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de la noticia (pirámide invertida), el reportaje suele usar estructuras narrativas más libres y creativas. La estructura cronológica combinada con saltos temporales es común: el periodista \"engancha\" al lector con una escena vívida del presente, luego retrocede para explicar los orígenes y finalmente vuelve al presente para proyectar al futuro. Esta estructura permite al lector: 1) conectar emocionalmente con el tema (la escena inicial), 2) comprender el contexto (historia), 3) reflexionar sobre las implicaciones (análisis). El reportaje también puede usar otras estructuras: cronológica lineal, de contraste, de problema-solución, o temática.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v4",
+      "statement": "¿Qué función cumple este testimonio en el reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el único dato que necesita el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es parte de un conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "Confirmar que el cambio climático no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testimonio sugiere lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Humanizar el problema, dar voz a los afectados y proporcionar evidencia cualitativa del impacto del cambio climático en la vida real de las personas.",
+          "is_correct": true,
+          "feedback": "Correcto. El testimonio da dimensión humana al reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que el café colombiano es el mejor del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el propósito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los testimonios en el reportaje cumplen funciones que los datos fríos no pueden: 1) humanizar el tema (convierten estadísticas en historias personales), 2) dar voz a quienes normalmente no tienen espacio en los medios, 3) proporcionar evidencia cualitativa que complementa los datos cuantitativos, 4) generar empatía en el lector. Sin embargo, el buen reportaje no se basa solo en testimonios: los complementa con datos, documentos y análisis de expertos. El testimonio del campesino muestra el lado humano del cambio climático, pero un reportaje completo también incluiría datos de temperatura, producción cafetera en los últimos años y análisis de agrónomos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v5",
+      "statement": "¿Qué técnica periodística está utilizando el reportajista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reportaje de oficina, solo con datos secundarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodista está en el lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Noticia de última hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una noticia breve."
+        },
+        {
+          "letter": "C",
+          "text": "Reportaje de campo o inmersivo: el periodista visita el lugar, observa directamente y describe lo que ve, dando credibilidad a la denuncia.",
+          "is_correct": true,
+          "feedback": "Correcto. La observación directa es clave en el reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Entrevista telefónica con expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodista está presente físicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje de campo o inmersivo implica que el periodista se desplaza al lugar de los hechos, observa directamente y describe lo que ve, escucha y siente. Esta técnica es fundamental para la credibilidad del reportaje. A diferencia de la noticia, que puede redactarse desde la sala de redacción con fuentes telefónicas, el reportaje exige presencia. La descripción detallada de lo observado (trabajadores sin protección, vertimiento tóxico) proporciona evidencia que sería difícil de obtener solo con declaraciones. El lector crítico valora el reportaje inmersivo porque permite contrastar lo que dicen las fuentes oficiales con lo que realmente sucede en el terreno.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v6",
+      "statement": "¿Qué recursos multimedia y narrativos se combinan en este reportaje gráfico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo texto escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay múltiples formatos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo fotografía y texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay infografía también."
+        },
+        {
+          "letter": "C",
+          "text": "Fotografía impactante (abre), datos cuantitativos (contextualiza), testimonios humanos (conecta), infografía (explica el proceso), análisis de industria (profundiza), y propuestas (cierra con acción). Es un reportaje multimedia completo.",
+          "is_correct": true,
+          "feedback": "Correcto. Combina múltiples formatos para contar la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Es un artículo de opinión disfrazado de reportaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene los elementos del reportaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje moderno, especialmente en revistas y medios digitales, combina múltiples recursos para contar una historia compleja. Cada recurso cumple una función específica: la fotografía impactante abre con emoción, los datos dan contexto global, los testimonios humanizan, la infografía explica procesos complejos visualmente, el análisis profundiza en causas estructurales y las propuestas cierran con esperanza o acción. Esta combinación de lenguajes (visual, numérico, verbal) hace que el reportaje sea accesible a diferentes tipos de lectores y estilos de aprendizaje. El lector crítico evalúa si estos recursos se usan para informar o para manipular la respuesta emocional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v7",
+      "statement": "¿Qué revelan los títulos sobre el enfoque de cada reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primer reportaje es mejor que el segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no define calidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos reportajes tienen el mismo enfoque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos sugieren enfoques distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el primer reportaje probablemente se enfoca en las consecuencias humanas y emocionales (patetismo, dolor), mientras que el segundo se enfoca en el análisis político-institucional (aprendizaje democrático). El título revela el encuadre.",
+          "is_correct": true,
+          "feedback": "Correcto. El título orienta sobre el enfoque."
+        },
+        {
+          "letter": "D",
+          "text": "Que los reporteros no se pusieron de acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son reportajes independientes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El título de un reportaje no es neutral: revela el enfoque, la perspectiva y la intención del periodista. \"Las heridas que no cierran\" sugiere un enfoque en el trauma, el dolor y las consecuencias humanas, probablemente con testimonios emotivos y un tono de denuncia. \"Lecciones para la democracia\" sugiere un enfoque analítico, orientado a la reflexión institucional y política. Ambos pueden ser reportajes válidos sobre el mismo evento, pero cuentan historias diferentes porque seleccionan distintos aspectos de la realidad. El lector crítico reconoce que el enfoque del reportaje depende de las decisiones editoriales del periodista y del medio, y busca múltiples reportajes sobre un tema para tener una visión más completa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v8",
+      "statement": "¿Qué criterio de calidad periodística evidencia esta selección de fuentes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de fuentes solo del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay diversas fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Uso de una sola fuente para simplificar el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay múltiples fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "Pluralidad y triangulación de fuentes: combina voces de víctimas (experiencia vivida), líderes comunitarios (representación colectiva), gobierno (institucional), academia (análisis) y documentos oficiales (evidencia documental). Esto da solidez y credibilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La multiplicidad de fuentes fortalece el reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Las fuentes son demasiado diversas, lo que confunde al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad enriquece, no confunde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La triangulación de fuentes es un criterio de calidad en periodismo de investigación. Consiste en verificar la información desde diferentes perspectivas y tipos de fuentes. En este reportaje, cada tipo de fuente aporta algo distinto: la víctima aporta la experiencia directa y la dimensión humana; el líder comunitario, la perspectiva colectiva; el funcionario, la versión institucional y los programas de respuesta; el académico, el análisis y contexto; el documento, la evidencia verificable. Cuando múltiples fuentes de diferentes tipos coinciden en un hecho, la probabilidad de que sea cierto aumenta significativamente. El lector crítico evalúa si el reportaje ofrece esta pluralidad o si depende de un solo tipo de fuente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v9",
+      "statement": "¿Qué debilidad crítica tiene este reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habla de la industria textil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema es válido."
+        },
+        {
+          "letter": "B",
+          "text": "Incluye diseñadores, que son irrelevantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diseñadores son parte de la industria."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta solo la versión de empleadores y diseñadores, omitiendo la de los trabajadores, que son la mayoría de la fuerza laboral. Es un reportaje sesgado que favorece los intereses de los dueños de las fábricas.",
+          "is_correct": true,
+          "feedback": "Correcto. La omisión de voces trabajadoras es un sesgo grave."
+        },
+        {
+          "letter": "D",
+          "text": "La revista de moda no debería hacer reportajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier medio puede hacer reportajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un reportaje que solo incluye una perspectiva sobre un tema controvertido no es un reportaje completo, es propaganda disfrazada. La industria textil en Colombia tiene denuncias históricas de explotación laboral, salarios bajos y condiciones inseguras. Un reportaje riguroso sobre este tema debe incluir: testimonios de trabajadores (actuales y antiguos), datos de sindicatos, informes del Ministerio de Trabajo, organizaciones de derechos laborales y, por supuesto, la versión de los empleadores. La ausencia total de la voz de los trabajadores sugiere que el reportaje fue comisionado o influenciado por los dueños de las fábricas. El lector crítico identifica estos sesgos por las voces ausentes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v10",
+      "statement": "¿Es este un reportaje objetivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque muestra dos caras de Colombia sin tomar partido.",
+          "is_correct": false,
+          "feedback": "Correcto en intención, pero..."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el reportaje nunca puede ser objetivo.",
+          "is_correct": false,
+          "feedback": "Demasiado radical."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque no hay opiniones del periodista.",
+          "is_correct": false,
+          "feedback": "Parcialmente correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Todo reportaje tiene un grado de subjetividad porque el periodista decide qué incluir, qué omitir, qué contrastar y cómo estructurar la información. Mostrar dos caras puede ser más balanceado, pero sigue siendo una selección editorial.",
+          "is_correct": true,
+          "feedback": "Correcto. La objetividad absoluta no existe, pero el reportaje aspira a la imparcialidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La objetividad absoluta en periodismo no existe, porque toda selección de información implica una decisión subjetiva. El periodista decide: ¿qué tema cubrir? ¿A quién entrevistar? ¿Qué citas incluir? ¿Qué fotografías publicar? ¿Qué palabras usar en el titular? ¿Qué extensión darle a cada sección? Sin embargo, el reportaje aspira a la imparcialidad, que es diferente de la objetividad. Un reportaje imparcial: 1) incluye las perspectivas relevantes, 2) no distorsiona los hechos, 3) separa información de opinión, 4) reconoce la complejidad del tema. El reportaje de la opción muestra dos caras (riqueza cultural y desigualdad), lo que sugiere un esfuerzo de balance. Pero un lector crítico aún podría preguntar: ¿por qué esas dos caras y no otras? ¿Qué voces se incluyen y cuáles se omiten?\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v11",
+      "statement": "¿Qué ventajas ofrece el reportaje multimedia interactivo frente al reportaje impreso tradicional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más difícil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interactividad puede facilitar la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "El impreso siempre es mejor porque no requiere internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada formato tiene ventajas."
+        },
+        {
+          "letter": "C",
+          "text": "Permite al lector explorar la información a su ritmo, ver la evolución temporal del glaciar de manera interactiva, y tener una experiencia inmersiva que el texto plano no puede ofrecer.",
+          "is_correct": true,
+          "feedback": "Correcto. La interactividad empodera al lector."
+        },
+        {
+          "letter": "D",
+          "text": "El video 360° es solo un adorno sin valor informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La experiencia inmersiva tiene valor documental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje multimedia interactivo representa una evolución del género. Sus ventajas incluyen: 1) personalización (el lector decide qué explorar y en qué orden), 2) visualización de datos complejos (gráficos animados que muestran cambios temporales), 3) experiencia inmersiva (video 360° que transporta al lector al lugar), 4) profundidad variable (el lector puede clicar para más detalles o seguir la línea principal). Sin embargo, el reportaje interactivo también tiene desafíos: requiere conexión a internet, puede ser costoso de producir, y no todos los temas se benefician de la interactividad. El lector crítico evalúa si los recursos multimedia enriquecen la información o son solo adornos tecnológicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-v12",
+      "statement": "¿Cuál sería el plan más completo para este reportaje escolar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrevistar solo al dueño de la tienda y publicar sus respuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una fuente no es suficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir una lista de precios y productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un catálogo, no un reportaje."
+        },
+        {
+          "letter": "C",
+          "text": "Tomar fotos de la tienda sin texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje necesita texto informativo."
+        },
+        {
+          "letter": "D",
+          "text": "Plan que incluya: entrevistas a dueño, trabajadores y estudiantes clientes; observación directa en horas pico; datos de ventas y productos más populares; contexto breve de la historia de la tienda en el colegio; fotografías que muestren el ambiente; y una reflexión sobre el papel de la tienda en la vida escolar.",
+          "is_correct": true,
+          "feedback": "Correcto. Cubre observación, múltiples fuentes, datos, contexto y análisis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El plan propuesto reúne todos los elementos de un reportaje: 1) observación directa (presencia del periodista en el lugar), 2) múltiples fuentes (dueño, trabajadores, estudiantes), 3) datos concretos (ventas, productos populares), 4) contexto histórico (orígenes de la tienda), 5) elementos visuales (fotografías), 6) análisis o reflexión (impacto). Aunque el tema es sencillo (una tienda escolar), la metodología es la misma que usaría un periodista profesional para cualquier reportaje. El ejercicio enseña que el reportaje no es solo \"escribir mucho\", sino investigar, observar, entrevistar y analizar. Un buen reportaje sobre un tema cotidiano puede revelar aspectos sorprendentes si se hace con rigor.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W37-reportaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

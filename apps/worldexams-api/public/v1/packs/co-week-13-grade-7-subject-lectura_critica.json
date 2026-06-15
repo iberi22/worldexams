@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.632Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v1",
+      "statement": "¿Qué significa analizar críticamente un texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Examinar el texto con atención, evaluar sus argumentos y formarse un juicio propio.",
+          "is_correct": true,
+          "feedback": "Correcto. Analizar críticamente implica examinar, evaluar y juzgar."
+        },
+        {
+          "letter": "B",
+          "text": "Leer el texto rápidamente para encontrar la idea principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es lectura superficial, no análisis crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Memorizar los datos y fechas que aparecen en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Memori‌zar no implica análisis."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir un resumen del texto sin opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resumir no requiere evaluación crítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico va más allá de la comprensión literal. Implica tres procesos: examinar los elementos del texto (estructura, argumentos, lenguaje), evaluar su validez y pertinencia, y finalmente construir un juicio propio fundamentado. No se trata de estar en contra del texto, sino de leer con atención, preguntándose constantemente qué dice, cómo lo dice y por qué lo dice.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v2",
+      "statement": "¿Qué supuesto está haciendo el autor de la carta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los jóvenes colombianos tienen acceso a libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona acceso."
+        },
+        {
+          "letter": "B",
+          "text": "Que leer en pantallas no cuenta como lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor asume que \"leer\" es solo en formato impreso."
+        },
+        {
+          "letter": "C",
+          "text": "Que los jóvenes colombianos son perezosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no dice eso explícitamente ni implícitamente."
+        },
+        {
+          "letter": "D",
+          "text": "Que el futuro del país depende solo de la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración del autor, no un supuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar supuestos es una habilidad clave del análisis crítico. Un supuesto es una idea que el autor da por sentada sin demostrarla. Aquí, el autor asume que leer en dispositivos digitales \"no es leer realmente\", cuando en realidad los jóvenes pueden estar leyendo más que nunca: noticias, redes sociales, blogs, libros electrónicos. El lector crítico debe cuestionar estos supuestos implícitos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v3",
+      "statement": "Para evaluar críticamente esta afirmación, ¿qué sería más importante preguntarse?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Cuánto cuesta ese café?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no es relevante para evaluar la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "¿A quién le gusta más el café colombiano?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una pregunta subjetiva."
+        },
+        {
+          "letter": "C",
+          "text": "¿Cómo se realizó la encuesta y quién la pagó?",
+          "is_correct": true,
+          "feedback": "Correcto. La metodología y el financiamiento afectan la credibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "¿Dónde se cultiva ese café?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen no ayuda a evaluar la afirmación estadística."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estadísticas pueden ser engañosas. Un lector crítico debe preguntarse: ¿Quién realizó el estudio? ¿Cuál fue la muestra? ¿Había algún interés comercial detrás? \"Nueve de cada diez\" suena impresionante, pero podría ser una encuesta con solo 10 participantes, o financiada por la misma marca de café. La fuente y la metodología son clave para evaluar la credibilidad de los datos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v4",
+      "statement": "¿Qué debe hacer Valentina como lectora crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartir el artículo porque presenta una opinión diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir sin verificar no es crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Buscar fuentes confiables que respalden o refuten la afirmación antes de formarse una opinión.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector crítico verifica antes de aceptar o rechazar."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar el artículo porque no está de acuerdo con él.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar no es analizar."
+        },
+        {
+          "letter": "D",
+          "text": "Aceptar la información porque está publicada en internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Internet tiene información de toda calidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un lector crítico no acepta información solo porque está publicada, ni la rechaza solo porque no coincide con sus creencias. El procedimiento correcto es: identificar la fuente, buscar información de respaldo de fuentes confiables (organizaciones científicas, instituciones académicas), contrastar perspectivas y luego formarse un juicio. La verificación es el corazón del pensamiento crítico.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v5",
+      "statement": "¿Qué elemento del razonamiento debería examinar críticamente un lector?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si la reforma tributaria es un tema interesante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interés no es relevante para el análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Si el autor tiene buena ortografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía no valida argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Si la relación entre reforma tributaria y financiamiento educativo es realmente directa y necesaria.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector debe cuestionar la conexión causal."
+        },
+        {
+          "letter": "D",
+          "text": "Si el texto es fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad de lectura no determina la validez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico examina las conexiones lógicas entre premisas y conclusiones. Aquí, el argumento usa una cadena: reforma → financiamiento → educación → desarrollo → indispensable. Un lector crítico debe preguntarse: ¿Es la reforma la única forma de financiar la educación? ¿Existen alternativas? ¿La relación es tan directa como se presenta? Identificar estas conexiones permite evaluar la solidez del argumento.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v6",
+      "statement": "¿Qué diferencia crítica debe notar Camila?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El blog es más entretenido que el periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El entretenimiento no es criterio de credibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El periódico tiene mayor credibilidad porque cita fuentes verificables, mientras que el blog no ofrece respaldo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuentes verificables son clave para la confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "El blog usa lenguaje más sencillo, por lo tanto es más confiable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sencillez no equivale a veracidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas fuentes tienen la misma credibilidad porque hablan del mismo tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar del mismo tema no iguala la credibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No todas las fuentes tienen la misma credibilidad. Para evaluar una fuente, un lector crítico debe considerar: ¿Quién la publica? ¿Tiene reputación? ¿Cita fuentes verificables? ¿Presenta hechos u opiniones? ¿Tiene algún sesgo evidente? El Tiempo, como periódico establecido, tiene estándares editoriales y periodísticos. Un blog anónimo no ofrece las mismas garantías. Evaluar la fuente es el primer paso del análisis crítico.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v7",
+      "statement": "¿Qué problema crítico identifica Andrés en este discurso?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El alcalde habla con mala gramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gramática no es el problema principal."
+        },
+        {
+          "letter": "B",
+          "text": "El alcalde hace afirmaciones generales sin presentar evidencia concreta que las respalde.",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen análisis crítico nota la falta de evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "El discurso es demasiado corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la validez."
+        },
+        {
+          "letter": "D",
+          "text": "El alcalde debería hablar de otro tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una preferencia personal, no un análisis crítico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las afirmaciones sin evidencia son una señal de alerta para el lector crítico. \"La ciudad ha mejorado en todos los aspectos\" es una generalización imposible de verificar sin datos. \"La gente está más feliz\" es una afirmación subjetiva. Un discurso convincente debe incluir: cifras concretas, estudios de satisfacción, indicadores económicos, comparaciones con años anteriores. El lector crítico identifica cuándo un emisor usa generalizaciones vagas en lugar de evidencia.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v8",
+      "statement": "¿Qué sesgo identificas en este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sesgo político, porque defiende una ideología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contenido político explícito."
+        },
+        {
+          "letter": "B",
+          "text": "Sesgo de género, porque atribuye características fijas y estereotipadas a hombres y mujeres.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto generaliza basándose en estereotipos de género."
+        },
+        {
+          "letter": "C",
+          "text": "Sesgo económico, porque habla de dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan aspectos económicos."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene sesgo, solo expresa opiniones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las afirmaciones sí reflejan un sesgo de género."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sesgo de género se manifiesta cuando se atribuyen características, habilidades o roles fijos a las personas según su género. Afirmar que \"las mujeres son más cuidadosas\" o \"los hombres son más fuertes\" como características inherentes ignora la diversidad individual y perpetúa estereotipos. Un lector crítico debe identificar estos sesgos y cuestionar las generalizaciones que reducen a las personas a categorías.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v9",
+      "statement": "¿Qué debilidad crítica tiene este mensaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto demasiado corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es una debilidad crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Usa un lenguaje muy informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro no es el problema central."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta una falsa relación de causa y efecto (correlación sin evidencia) para manipular al lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Atribuye causalidad donde solo hay coincidencia."
+        },
+        {
+          "letter": "D",
+          "text": "El mensaje está mal escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía no es el problema principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este mensaje utiliza la falacia post hoc ergo propter hoc (\"después de esto, entonces a causa de esto\"). Asume que como el accidente de María ocurrió después de no compartir el mensaje, entonces no compartirlo fue la causa. En realidad, no hay ninguna conexión lógica. Identificar estas falsas causalidades es fundamental para el análisis crítico, especialmente en contenidos virales diseñados para manipular emocionalmente.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v10",
+      "statement": "¿Cuál es la actitud crítica más adecuada frente a estos textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creerle a la organización ambientalista porque defiende la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Creer por inclinación personal no es crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Creerle a la empresa minera porque tiene más recursos para investigar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recursos no garantizan objetividad."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer que cada fuente tiene un interés particular y buscar información independiente para contrastar.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector crítico reconoce los sesgos y busca equilibrarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar ambos textos porque ninguno es completamente objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar no es analizar. La objetividad total no existe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo texto tiene un propósito y un punto de vista. La organización ambientalista probablemente enfatiza los riesgos ecológicos; la empresa minera, los beneficios económicos. Un lector crítico no elige un bando según sus preferencias, sino que: 1) reconoce el sesgo de cada fuente, 2) busca fuentes independientes (académicas, gubernamentales), 3) compara la evidencia presentada, y 4) construye una opinión informada. La meta no es encontrar la \"verdad absoluta\", sino entender el panorama completo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v11",
+      "statement": "¿Qué identifica Daniela como debilidad en este razonamiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El autor no menciona ciudades específicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La especificidad geográfica no es necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es demasiado optimista sobre el futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El optimismo no es una debilidad lógica."
+        },
+        {
+          "letter": "C",
+          "text": "El razonamiento simplifica un problema complejo a una sola causa (más vías), ignorando otros factores necesarios para el desarrollo y la paz.",
+          "is_correct": true,
+          "feedback": "Correcto. La simplificación excesiva es una falacia."
+        },
+        {
+          "letter": "D",
+          "text": "El autor no tiene experiencia en construcción de carreteras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La experiencia del autor no invalida el argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este razonamiento comete la falacia de simplificación excesiva o reduccionismo. Asume que construir más vías es la clave única para el desarrollo rural y la paz, ignorando factores como: educación rural, acceso a salud, seguridad, crédito agrícola, infraestructura de riego, asistencia técnica, entre otros. El lector crítico reconoce cuándo un argumento reduce problemas multidimensionales a una sola variable, y busca una comprensión más completa.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes sería la MEJOR pregunta para incluir en una guía de análisis crítico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¿El texto tiene dibujos o imágenes bonitas?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética no es relevante para el análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "\"¿Cuántas palabras tiene el texto?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no indica calidad ni credibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "\"¿Cuál es el propósito del autor y qué evidencia usa para respaldar sus afirmaciones?\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta pregunta aborda la intención y la solidez del texto."
+        },
+        {
+          "letter": "D",
+          "text": "\"¿El texto fue escrito en Colombia o en otro país?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen geográfico no determina la validez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una guía de análisis crítico debe incluir preguntas que revelen la estructura y los propósitos del texto. Las preguntas clave son: ¿Quién escribió esto y por qué? ¿Qué evidencia presenta? ¿Qué supuestos subyacen? ¿Qué perspectivas están ausentes? ¿El lenguaje es objetivo o emocional? ¿Las conclusiones se siguen lógicamente de las premisas? Estas preguntas permiten un análisis profundo y sistemático de cualquier texto.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W13-analisis-critico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

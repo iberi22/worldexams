@@ -486,6 +486,486 @@
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v1",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v2",
+      "statement": "Función de la coma:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar elementos en lista",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Terminar oración",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Exclamar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Signo de puntuación\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v3",
+      "statement": "¿Cuántas letras tiene el abecedario español?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": true,
+          "feedback": "A-Z"
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "29",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "27 letras\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v4",
+      "statement": "¿Qué es un verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabra que expresa acción",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nombra cosas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Describe",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Conecta",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Acción, proceso o estado\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v5",
+      "statement": "¿Qué es el Modernismo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Renovación estética hispanoamericana",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Literatura medieval",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Género literario",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Escritura automática",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rubén Darío, finales s.XIX\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v6",
+      "statement": "Función de texto expositivo:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar y explicar",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Convencer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Narrar ficción",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Expresar sentimientos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Texto informativo objetivo\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v7",
+      "statement": "Figura: 'tus ojos son dos luceros'",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparación implícita\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v8",
+      "statement": "¿Qué es un sustantivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombra personas, cosas, ideas",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Expresa acciones",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Describe cualidades",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Une oraciones",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Categoría que designa entidades\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v9",
+      "statement": "¿Quién escribió 'Cien años de soledad'?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Nobel 1982"
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gabo, Nobel colombiano\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v10",
+      "statement": "Función de la coma:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar elementos en lista",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Terminar oración",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Exclamar",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Signo de puntuación\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v11",
+      "statement": "¿Cuántas letras tiene el abecedario español?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": true,
+          "feedback": "A-Z"
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "29",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "27 letras\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-v12",
+      "statement": "¿Qué es un verbo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabra que expresa acción",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nombra cosas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Describe",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Conecta",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Acción, proceso o estado\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-8-2026-W07-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null
     }
   ]
 }

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-06-15T20:41:19.609Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica principal de los animales vertebrados?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen columna vertebral o espina dorsal",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los vertebrados tienen un esqueleto interno con columna vertebral, que protege la médula espinal y sirve de soporte."
+        },
+        {
+          "letter": "B",
+          "text": "Viven en el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos vertebrados viven en el agua (peces, ballenas) pero también hay invertebrados acuáticos (medusas, pulpos). El hábitat no define si son vertebrados."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen patas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las serpientes son vertebradas pero no tienen patas, mientras que algunos invertebrados como los insectos sí tienen patas."
+        },
+        {
+          "letter": "D",
+          "text": "Son de gran tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay vertebrados pequeños como el colibrí y grandes como la ballena. El tamaño no es una característica de clasificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los animales vertebrados se caracterizan por poseer un endoesqueleto con columna vertebral formada por vértebras. En Colombia encontramos gran diversidad de vertebrados: mamíferos como el jaguar, aves como el cóndor, reptiles como la tortuga hicotea, anfibios como la rana dorada, y peces como el bagre. Esta característica los diferencia de los invertebrados que carecen de columna vertebral.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v2",
+      "statement": "¿Cuál de estos animales es un invertebrado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El perro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perro es un mamífero vertebrado, tiene columna vertebral y un esqueleto interno."
+        },
+        {
+          "letter": "B",
+          "text": "La mariposa",
+          "is_correct": true,
+          "feedback": "¡Muy bien! La mariposa es un insecto, y los insectos son invertebrados porque no tienen columna vertebral. Su cuerpo se sostiene con un exoesqueleto."
+        },
+        {
+          "letter": "C",
+          "text": "El pez",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pez es un animal vertebrado acuático, tiene columna vertebral y esqueleto interno."
+        },
+        {
+          "letter": "D",
+          "text": "El perro y el pez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tanto el perro como el pez son vertebrados. La pregunta pide identificar un invertebrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los invertebrados representan aproximadamente el 95% de todas las especies animales conocidas. No tienen columna vertebral y pueden tener exoesqueleto (como los insectos y crustáceos), concha (como los caracoles) o cuerpo blando (como las medusas y lombrices). En Colombia, los invertebrados incluyen mariposas Morpho, escarabajos, arañas, cangrejos y corales, entre muchos otros.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v3",
+      "statement": "¿Cómo se desplazan los caracoles?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con patas articuladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los caracoles no tienen patas articuladas. Las patas articuladas son características de insectos y arácnidos."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante un pie musculoso que se desliza sobre una capa de mucus",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los caracoles tienen un pie musculoso ventral que segrega mucus para deslizarse. El mucus reduce la fricción y protege el cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Saltando de hoja en hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los caracoles no saltan. Su desplazamiento es lento y continuo mediante contracciones musculares."
+        },
+        {
+          "letter": "D",
+          "text": "Nadan en el mucus que producen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mucus lubrica el camino pero el caracol no nada en él. Se desliza usando su pie muscular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desplazamiento de los caracoles se realiza mediante ondas de contracción muscular que recorren el pie ventral. El mucus que segregan reduce la fricción, protege el pie de superficies ásperas y ayuda a mantener la humedad. Aunque lentos, pueden trepar paredes gracias a la adhesión de su mucus.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v4",
+      "statement": "¿Por qué las lombrices salen a la superficie después de la lluvia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque les gusta mojarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lombrices respiran por la piel, pero salen a la superficie porque el agua les impide respirar bajo tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua satura los poros del suelo y no pueden respirar bajo tierra",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las lombrices respiran a través de su piel húmeda. Cuando el suelo se inunda, el agua bloquea el oxígeno y las lombrices suben para respirar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque buscan alimento en la superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lombrices se alimentan de materia orgánica en descomposición del suelo, no en la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua las empuja hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lombrices suben activamente para respirar, no son empujadas por el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las lombrices de tierra son anélidos invertebrados que respiran a través de su piel húmeda (respiración cutánea). Cuando llueve intensamente, el agua llena los espacios porosos del suelo, desplazando el oxígeno. Por eso las lombrices emergen a la superficie. Este fenómeno es observable en muchas regiones de Colombia después de las lluvias.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v5",
+      "statement": "¿Cuál de los siguientes animales es salvaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gallina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gallina es un animal doméstico criado para obtener huevos y carne."
+        },
+        {
+          "letter": "B",
+          "text": "La oveja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oveja es un animal doméstico criado para obtener lana, leche y carne."
+        },
+        {
+          "letter": "C",
+          "text": "El caimán",
+          "is_correct": true,
+          "feedback": "¡Correcto! El caimán es un animal salvaje que vive en ríos y humedales de Colombia, especialmente en los Llanos Orientales y la Amazonía."
+        },
+        {
+          "letter": "D",
+          "text": "La vaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vaca es un animal doméstico criado para obtener leche y carne."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los animales domésticos han sido criados por los humanos durante miles de años. Los animales salvajes viven en libertad en sus hábitats naturales. Colombia tiene una enorme riqueza de fauna salvaje: jaguares, caimanes, delfines de río, micos, guacamayas y osos de anteojos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v6",
+      "statement": "Un animal cubierto de escamas, que respira por branquias y vive en el agua, ¿a qué grupo pertenece?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los mamíferos acuáticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mamíferos acuáticos como los delfines tienen piel lisa y respiran por pulmones."
+        },
+        {
+          "letter": "B",
+          "text": "A los peces",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los peces tienen escamas, respiran mediante branquias y viven en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "A los reptiles acuáticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los reptiles acuáticos respiran por pulmones y salen a la superficie para tomar aire."
+        },
+        {
+          "letter": "D",
+          "text": "A los anfibios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anfibios como las ranas tienen piel desnuda y húmeda, no escamas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los peces son vertebrados acuáticos con escamas protectoras, aletas para nadar y branquias para extraer oxígeno del agua. En Colombia hay gran diversidad de peces en ríos y océanos: bagre, mojarra, bocachico y trucha.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v7",
+      "statement": "¿Por qué los colibríes pueden volar hacia atrás y las demás aves no?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son más pequeños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Otras aves pequeñas como los gorriones no pueden volar hacia atrás."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen una estructura de alas especial que les permite moverlas en forma de 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los colibríes tienen una articulación especial en el hombro que permite rotar las alas en forma de 8, generando sustentación en ambos movimientos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se alimentan solo de néctar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los murciélagos nectarívoros no pueden volar hacia atrás."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tienen plumas de colores brillantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de las plumas no tiene relación con la mecánica del vuelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los colibríes (familia Trochilidae) pueden rotar el ala describiendo un patrón en forma de 8, lo que genera sustentación tanto al subir como al bajar el ala. Esto les permite mantenerse suspendidos y volar hacia atrás. Colombia tiene más de 160 especies de colibríes, la mayor diversidad del mundo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v8",
+      "statement": "¿Por qué las hormigas arrieras transportan hojas al hormiguero?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para decorar el hormiguero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormigas no decoran por razones estéticas."
+        },
+        {
+          "letter": "B",
+          "text": "Para comer las hojas directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormigas arrieras no pueden digerir las hojas directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Para cultivar un hongo del que se alimentan, usando las hojas como sustrato",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las hormigas arrieras cultivan hongos dentro del hormiguero. Las hojas sirven de alimento para el hongo, y las hormigas se alimentan del hongo."
+        },
+        {
+          "letter": "D",
+          "text": "Para construir las paredes del hormiguero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construyen con tierra y secreciones, no con hojas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las hormigas arrieras (género Atta) tienen una relación de simbiosis con hongos. Llevan hojas al hormiguero, las mastican formando una pasta y cultivan un hongo específico. El hongo produce gongilidios que son el alimento de las hormigas. Es un ejemplo de mutualismo observable en Colombia.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v9",
+      "statement": "¿Por qué las bolsas plásticas en el mar son especialmente peligrosas para las tortugas marinas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque contienen químicos que envenenan a las tortugas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los químicos son dañinos, el principal peligro es la confusión con alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las tortugas confunden las bolsas con medusas y al comerlas se asfixian o les bloquean el sistema digestivo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las tortugas confunden las bolsas flotantes con medusas, su alimento natural. Al comerlas, se obstruye su sistema digestivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las tortugas se enredan en las bolsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un problema con redes de pesca, no tanto con bolsas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las bolsas tapan las playas donde anidan",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principal peligro está en el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las tortugas marinas anidan en playas colombianas como Tayrona, Gorgona y Acandí. Confunden las bolsas plásticas flotantes con medusas, su alimento. Al ingerirlas, sufren obstrucciones intestinales y desnutrición. Esto afecta a tortugas carey, verde y caná.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes afirmaciones es la más acertada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudiante tiene razón, las serpientes peligrosas deben eliminarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las serpientes cumplen funciones ecológicas importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Las serpientes deben protegerse porque controlan las poblaciones de roedores y son parte del equilibrio ecológico, aunque debamos tener precaución con las venenosas",
+          "is_correct": true,
+          "feedback": "¡Excelente! Las serpientes son controladores naturales de plagas y parte de la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Solo deben protegerse las serpientes no venenosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas cumplen funciones ecológicas importantes."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna serpiente merece protección",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría no son peligrosas para humanos y son ecológicamente valiosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las serpientes controlan poblaciones de roedores, son presa de aves rapaces y forman parte de la biodiversidad. En Colombia hay ~280 especies, solo ~50 venenosas. La mayoría huye al encontrarse con humanos y solo muerden en defensa. Protegerlas es conservar nuestros ecosistemas.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CIE-3-2026-W04-animales-caracteristicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

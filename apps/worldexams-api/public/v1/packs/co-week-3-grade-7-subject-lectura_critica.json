@@ -1,0 +1,971 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.620Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v1",
+      "statement": "¿Qué es la tesis en un texto argumentativo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen final del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de argumentos que usa el autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los argumentos, no la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "La idea principal o postura que el autor defiende a lo largo del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la columna vertebral de la argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "El título del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título puede sugerir la tesis pero no es la tesis misma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis es la afirmación central que el autor sostiene y busca demostrar. Es la respuesta a la pregunta: \"¿Qué quiere probar el autor?\" Una tesis debe ser clara, específica y debatible. Se encuentra generalmente al inicio del texto (introducción), aunque a veces puede aparecer al final o estar implícita. Todo el texto argumentativo gira alrededor de la tesis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes afirmaciones podría ser una TESIS?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Bogotá es la capital de Colombia.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho, no una tesis debatible."
+        },
+        {
+          "letter": "B",
+          "text": "\"El agua hierve a 100°C.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho científico."
+        },
+        {
+          "letter": "C",
+          "text": "\"El transporte público en Bogotá debería ser gratuito para reducir la contaminación.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Es una postura debatible."
+        },
+        {
+          "letter": "D",
+          "text": "\"Colombia tiene 32 departamentos.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es información factual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis debe ser una afirmación que admite discusión y que se puede defender con argumentos. Los hechos comprobables (como \"Bogotá es la capital\") no son tesis porque no se pueden debatir: simplemente son verdaderos. En cambio, \"el transporte público debería ser gratuito\" es una opinión que se puede defender o refutar con argumentos, evidencias y razones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v3",
+      "statement": "¿Cuál es la tesis de este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los adolescentes usan redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho, no la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Las redes sociales tienen efectos negativos en la salud mental de los adolescentes.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la postura central que se defiende."
+        },
+        {
+          "letter": "C",
+          "text": "La comparación constante disminuye la autoestima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento que apoya la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Los adolescentes tienen baja autoestima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la idea principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la afirmación principal: \"las redes sociales tienen efectos negativos\". Las frases \"fomentan la comparación constante\" y \"disminuyen la autoestima\" son los ARGUMENTOS que apoyan esa tesis. Es importante no confundir la tesis con los argumentos que la respaldan. La tesis responde a \"¿qué opina el autor?\"; los argumentos responden a \"¿por qué lo cree?\"\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v4",
+      "statement": "¿Cuándo se dice que una tesis está IMPLÍCITA?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando aparece en el título del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Título no es lo mismo que tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el autor la repite varias veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería explícita."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando no está escrita directamente, sino que el lector debe deducirla del contenido.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis implícita requiere inferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando aparece al final del texto.",
+          "is_correct": false,
+          "feedback": "Puede ser explícita al final también."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis explícita se expresa directamente en el texto (por ejemplo: \"En este ensayo defenderé que...\"). La tesis implícita no se dice abiertamente; el lector debe inferirla a partir de los argumentos presentados. Por ejemplo, si un texto describe solo los beneficios de la energía solar, la tesis implícita es \"la energía solar es buena\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v5",
+      "statement": "Si el alcalde solo menciona problemas de movilidad (trancones, mala señalización, pocas ciclorrutas), ¿cuál es la tesis implícita?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La movilidad en Barranquilla es perfecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si menciona solo problemas, no sugiere perfección."
+        },
+        {
+          "letter": "B",
+          "text": "Los trancones son divertidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        },
+        {
+          "letter": "C",
+          "text": "La movilidad en Barranquilla necesita mejoras urgentes.",
+          "is_correct": true,
+          "feedback": "Correcto. Al enumerar problemas, implícitamente defiende que hay que mejorar."
+        },
+        {
+          "letter": "D",
+          "text": "Las ciclorrutas son malas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menciona que hay pocas, lo que sugiere que debería haber más."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto solo presenta evidencias que apuntan en una dirección, la tesis está implícita. Si el alcalde enumera problemas sin decir \"debemos mejorar\", el lector infiere que su tesis es que la movilidad necesita mejoras. Identificar tesis implícitas es una habilidad clave de lectura crítica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v6",
+      "statement": "¿Cuál de las siguientes es una tesis BIEN formulada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El trabajo infantil.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo el tema, no una afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "\"Voy a hablar sobre el trabajo infantil en Colombia.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anuncia el tema pero no toma una postura."
+        },
+        {
+          "letter": "C",
+          "text": "\"El trabajo infantil debe erradicarse porque vulnera los derechos fundamentales de los niños y limita su desarrollo.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Toma postura y anticipa argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "\"Hay trabajo infantil en Colombia.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho, no una tesis debatible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis bien formulada debe: (1) Tomar una postura clara (estar a favor o en contra), (2) Ser específica, (3) Anticipar los argumentos que se usarán. \"El trabajo infantil debe erradicarse porque...\" cumple con todo. Simplemente anunciar el tema (\"voy a hablar de...\") o mencionar un hecho (\"hay trabajo infantil\") no constituye una tesis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v7",
+      "statement": "¿Cuál tesis es mejor y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La A, porque es más corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Brevedad no es calidad."
+        },
+        {
+          "letter": "B",
+          "text": "La B, porque es más específica y delimita mejor el tema.",
+          "is_correct": true,
+          "feedback": "Correcto. Una tesis específica es más defendible."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son igual de buenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una es demasiado general."
+        },
+        {
+          "letter": "D",
+          "text": "La A, porque no necesita explicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La generalización no es deseable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis B es superior porque: (1) Es específica (videojuegos violentos, no todos), (2) Delimita la población (niños menores de 12 años), (3) Establece condiciones (si no hay supervisión), (4) Es más matizada (\"pueden aumentar\", no \"son malos\"). Una buena tesis evita generalizaciones absolutas y define claramente su alcance.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v8",
+      "statement": "¿Dónde está ubicada la tesis en este fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al final del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Al inicio: \"La pena de muerte no debe aplicarse.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis se plantea primero y luego se argumenta."
+        },
+        {
+          "letter": "C",
+          "text": "En medio del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay tesis, solo argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera oración es la tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura más común en textos argumentativos es presentar la tesis al inicio (estructura deductiva). En este caso, \"La pena de muerte no debe aplicarse\" es la tesis que se presenta primero, y luego viene el argumento que la respalda: \"el Estado no tiene derecho a quitar la vida\". La tesis puede ir al inicio, al final o estar implícita.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v9",
+      "statement": "¿Qué problema tiene esta tesis desde una perspectiva crítica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es muy larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí tiene: lealtad, protección, diversión."
+        },
+        {
+          "letter": "C",
+          "text": "Usa criterios subjetivos no demostrables (\"mejores\", \"divertidos\") como si fueran hechos objetivos.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es opinativa pero se presenta como verdad."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí la tiene."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El problema es que palabras como \"mejores\" y \"divertidos\" son subjetivas: lo que es divertido para una persona puede no serlo para otra. Un lector crítico identifica cuándo una tesis usa términos valorativos como si fueran hechos objetivos. Una tesis más defendible sería: \"Los perros ofrecen ventajas específicas como compañía activa y protección del hogar.\"\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v10",
+      "statement": "¿Qué problema tiene este texto con relación a la tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis es muy corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Hay una desviación del tema: el autor no mantiene una tesis única y clara.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis debe sostenerse a lo largo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis está implícita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no es un problema en sí mismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto argumentativo debe mantener una tesis coherente de principio a fin. Si el autor cambia de tema, la argumentación pierde fuerza y claridad. Esto se llama \"desviación temática\" o \"falta de unidad\". Todos los párrafos deben contribuir a defender la misma tesis; si no, el lector se confunde y el texto es inefectivo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v11",
+      "statement": "¿Cómo podría Daniel mejorar su tesis?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiarla por \"El reciclaje existe.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho, no una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Dejarla igual porque es clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es demasiado general y simple."
+        },
+        {
+          "letter": "C",
+          "text": "Hacerla más específica y debatible: \"Las políticas de reciclaje en Pereira deben fortalecerse porque actualmente solo el 15% de los residuos se recicla.\"",
+          "is_correct": false,
+          "feedback": "Correcto. Especifica lugar, situación y postura."
+        },
+        {
+          "letter": "D",
+          "text": "Hacerla más larga sin importar el contenido.",
+          "is_correct": true,
+          "feedback": "Incorrecto. La extensión no es el objetivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "\"El reciclaje es importante\" es una tesis débil porque: (1) Es demasiado general, (2) Casi todo el mundo está de acuerdo (no es debatible), (3) No da dirección al texto. Una tesis mejor incluye: un contexto específico (Pereira), datos concretos (15%), y una postura clara (deben fortalecerse). Esto hace la tesis más interesante y defendible.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-tesis-001-MASTERY-v12",
+      "statement": "¿Cuál es la respuesta más acertada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la controversia garantiza que el texto sea bueno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Controversia no es sinónimo de calidad."
+        },
+        {
+          "letter": "B",
+          "text": "No, las tesis controversiales siempre son malas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Depende: una tesis controversial puede ser más interesante, pero lo importante es que sea defendible con argumentos sólidos.",
+          "is_correct": false,
+          "feedback": "Correcto. La controversia no es un fin en sí mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Es mejor evitar tesis controversiales.",
+          "is_correct": true,
+          "feedback": "Incorrecto. Las buenas tesis suelen ser debatibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una buena tesis debe ser debatible, pero no por ser controversial es automáticamente buena. Lo importante es que se pueda defender con argumentos lógicos, evidencias y razonamiento sólido. Una tesis controversial sin sustento es solo una provocación vacía. Por otro lado, una tesis con la que todos están de acuerdo puede ser poco interesante para un texto argumentativo, pero si se aborda con profundidad y nuevos ángulos, puede ser valiosa.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-tesis-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v1",
+      "statement": "Lee el siguiente enunciado: \"El banco de la plaza está ocupado.\" ¿Qué significa la palabra \"banco\" en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un asiento público, generalmente de madera o metal.",
+          "is_correct": true,
+          "feedback": "Correcto. En este contexto, \"banco\" se refiere al mueble donde las personas se sientan en espacios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Una entidad financiera donde se guarda dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es otro significado de \"banco\", pero no corresponde al contexto de \"la plaza\"."
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto de peces que nadan juntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Banco de peces\" es otro uso de la palabra, pero en \"la plaza\" no tiene sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Un lugar donde se reparan objetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ese significado para la palabra \"banco\" en español."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras polisémicas tienen varios significados. Para determinar cuál es el correcto, debemos fijarnos en el contexto. Aquí, \"la plaza\" es un espacio público donde hay bancas para sentarse. La oración describe una situación cotidiana donde alguien quiere sentarse, por lo tanto el significado correcto es el de asiento.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v2",
+      "statement": "En el texto anterior, la palabra \"célula\" significa:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un espacio pequeño dentro de una prisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el significado de \"celda\", no de \"célula\" en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "La unidad básica y estructural de los organismos vivos.",
+          "is_correct": true,
+          "feedback": "Correcto. En biología, la célula es la unidad funcional y estructural de todo ser vivo."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo de personas con una misma ideología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dice \"célula política\" o \"célula terrorista\", pero no encaja en el tema de Ciencias Naturales."
+        },
+        {
+          "letter": "D",
+          "text": "Un compartimento en una colmena de abejas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un uso metafórico, el texto habla de organismos vivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra \"célula\" también es polisémica, pero en el contexto de Ciencias Naturales y al mencionar \"seres vivos\", \"organismos\" y \"bacterias\", su significado es claramente el biológico. El contexto temático (la asignatura) nos ayuda a descartar los otros significados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v3",
+      "statement": "¿Qué significa la expresión \"hoja de ruta\" en el contexto anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un documento impreso en una hoja de papel que indica caminos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque literalmente puede significar eso, en este contexto es una expresión figurada."
+        },
+        {
+          "letter": "B",
+          "text": "Un plan o conjunto de pasos a seguir para alcanzar un objetivo.",
+          "is_correct": true,
+          "feedback": "Correcto. En el ámbito laboral, \"hoja de ruta\" es una expresión que significa plan estratégico."
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa físico con calles y carreteras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el significado literal, pero el contexto laboral indica un uso figurado."
+        },
+        {
+          "letter": "D",
+          "text": "El currículum vitae del gerente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja de ruta no es un documento de presentación personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las expresiones figuradas o metafóricas son muy comunes en el lenguaje cotidiano y laboral. \"Hoja de ruta\" originalmente se usaba en viajes para indicar la ruta a seguir, pero hoy se usa para referirse a cualquier plan estratégico o conjunto de pasos organizados. Reconocer estas expresiones requiere ir más allá del significado literal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v4",
+      "statement": "En el texto, la palabra \"evidencia\" significa:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Duda o cuestionamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Evidencia\" no expresa duda, sino certeza."
+        },
+        {
+          "letter": "B",
+          "text": "Oculta o esconde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Evidenciar\" es mostrar, no ocultar."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra o demuestra claramente.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Evidencia\" en este contexto significa que la cifra demuestra o pone en evidencia la importancia."
+        },
+        {
+          "letter": "D",
+          "text": "Niega o contradice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"evidenciar\" es afirmativo, no negativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Evidencia\" puede ser un sustantivo (prueba) o un verbo (evidenciar = mostrar claramente). En este contexto, \"evidencia\" es la conjugación del verbo evidenciar en tercera persona del singular. Identificar la función gramatical de la palabra ayuda a determinar su significado preciso.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v5",
+      "statement": "¿Qué significa \"carta magna\" en este contexto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carta escrita en letra muy grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación literal incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "Un sobre de gran tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con el contexto de la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "La Constitución Política de un país, el documento legal más importante.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Carta magna\" es el nombre que recibe la Constitución como documento supremo."
+        },
+        {
+          "letter": "D",
+          "text": "Un mapa antiguo de gran tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se relaciona con derechos fundamentales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Carta magna\" es una expresión que proviene del latín \"Magna Carta\", el documento histórico que limitó el poder del rey en Inglaterra. Hoy se usa para referirse a la Constitución de un país: el documento legal de mayor jerarquía. En Colombia, nuestra Carta Magna es la Constitución de 1991. Reconocer términos del léxico político-legal es clave para la comprensión lectora.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v6",
+      "statement": "La palabra \"insuficiente\" en el texto se opone a la idea de:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Inversión\" es el concepto general, no el opuesto directo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Sin precedentes\" (que no tiene antecedentes, es decir, muy grande).",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sin precedentes\" indica que es una inversión enorme, mientras \"insuficiente\" dice que no alcanza. Hay contradicción."
+        },
+        {
+          "letter": "C",
+          "text": "Infraestructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Infraestructura es el destino de la inversión, no un opuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gobierno es el sujeto, no tiene relación de oposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor usa dos expresiones contradictorias: \"sin precedentes\" (enorme, nunca antes vista) e \"insuficiente\" (que no alcanza, que falta). Esta oposición genera una ironía o crítica: aunque la inversión parece grande, algunos creen que no es suficiente. Identificar estas relaciones de oposición en el texto es una habilidad analítica fundamental.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v7",
+      "statement": "¿Qué hace el estudiante con el significado de la palabra \"libertad\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La define igual que el diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante está proponiendo un significado más específico."
+        },
+        {
+          "letter": "B",
+          "text": "La usa sin darle importancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le está dando un significado muy elaborado."
+        },
+        {
+          "letter": "C",
+          "text": "La redefine, dándole un sentido más preciso y ético.",
+          "is_correct": true,
+          "feedback": "Correcto. El estudiante matiza el significado, añadiendo el concepto de responsabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La cambia por completo a otro significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambia el significado, lo precisa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras abstractas como \"libertad\" pueden tener definiciones amplias. Un buen lector o hablante puede matizar y precisar el significado de una palabra según su postura. Aquí, el estudiante no está negando el concepto de libertad, sino añadiéndole la idea de responsabilidad como límite. Esto se llama \"definición estipulativa\": se propone un significado particular para un contexto específico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v8",
+      "statement": "¿Qué efecto produce usar la palabra \"fantasma\" para referirse a la inflación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que el texto sea más científico y preciso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar \"fantasma\" no es científico, es metafórico."
+        },
+        {
+          "letter": "B",
+          "text": "Confunde al lector porque mezcla significados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora es clara y comprensible."
+        },
+        {
+          "letter": "C",
+          "text": "Crea una imagen de amenaza constante e invisible, generando tensión en el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Fantasma\" evoca algo que asusta y está presente sin verse."
+        },
+        {
+          "letter": "D",
+          "text": "Minimiza la gravedad del problema económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lo contrario: lo presenta como algo amenazante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de metáforas (comparaciones implícitas) es un recurso muy efectivo en los textos periodísticos y literarios. Al llamar \"fantasma\" a la inflación, el autor transmite que es una amenaza difícil de controlar, que está siempre presente aunque no se vea. Reconocer el efecto de las figuras retóricas en el significado es una habilidad propia de la lectura crítica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v9",
+      "statement": "En este contexto, ¿qué significa \"rindió su declaración\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregó un documento escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque \"rendir\" puede significar entregar, en este contexto se refiere a declarar oralmente."
+        },
+        {
+          "letter": "B",
+          "text": "Dio su versión de los hechos de manera formal ante la autoridad.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Rendir declaración\" es una expresión jurídica que significa declarar formalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Se rindió y aceptó su culpabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Rendirse\" no es lo mismo que \"rendir declaración\"."
+        },
+        {
+          "letter": "D",
+          "text": "Escribió un informe detallado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el contexto judicial, la declaración puede ser oral o escrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Rendir declaración\" es una expresión compuesta o frase hecha del lenguaje jurídico. No debe confundirse con el verbo \"rendirse\" (darse por vencido). Significa presentar formalmente la versión de los hechos ante una autoridad competente. Reconocer expresiones propias de contextos específicos (jurídico, médico, literario) es esencial para una lectura precisa.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v10",
+      "statement": "La palabra \"remota\" en el texto tiene un significado que:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se refiere a un lugar lejano, distante geográficamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Remota\" aquí modifica a \"tarde\", no a un lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que la tarde fue aburrida y sin importancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Remota\" no significa aburrida."
+        },
+        {
+          "letter": "C",
+          "text": "Sugiere que la tarde fue muy corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Remota\" no indica duración breve."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que la tarde está muy lejana en el tiempo, en el pasado profundo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Remota\" en este contexto significa muy antigua, lejana en el tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra \"remota\" puede referirse tanto a distancia geográfica (lugar remoto) como a distancia temporal (tiempo remoto). En la famosa oración inaugural de \"Cien Años de Soledad\", \"remota\" modifica a \"tarde\" y se refiere a un tiempo muy lejano en el pasado. Identificar si una palabra se usa en sentido espacial o temporal depende del sustantivo que modifica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v11",
+      "statement": "¿Qué efecto busca lograr el uso de la expresión \"realismo mágico\" en este eslogan turístico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar objetivamente sobre las características geográficas de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan no busca informar objetivamente, sino persuadir."
+        },
+        {
+          "letter": "B",
+          "text": "Describir con precisión el movimiento literario colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el realismo mágico es un movimiento literario, aquí se usa metafóricamente."
+        },
+        {
+          "letter": "C",
+          "text": "Asociar a Colombia con la mezcla de realidad y fantasía, sugiriendo una experiencia única e inolvidable.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Realismo mágico\" evoca lo extraordinario dentro de lo cotidiano, atractivo turístico."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al turista internacional con un concepto literario complejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan busca atraer, no confundir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Realismo mágico\" es un término literario que describe la inclusión de elementos fantásticos en contextos realistas. Al usarlo en un eslogan turístico, se traslada ese significado para sugerir que Colombia ofrece experiencias donde lo maravilloso y lo real se mezclan. Esto apela a la emoción del turista, no a su razón. Reconocer estos usos persuasivos del lenguaje es una habilidad crítica avanzada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-v12",
+      "statement": "¿Qué función cumple la palabra \"florezca\" en el discurso anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describe un proceso biológico real de las plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se habla literalmente de plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Informa sobre un plan de gobierno específico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es metafórico, no contiene información concreta."
+        },
+        {
+          "letter": "C",
+          "text": "Genera una imagen visual que produce una emoción positiva de renovación y crecimiento.",
+          "is_correct": false,
+          "feedback": "Correcto, pero la pregunta pide la función específica de \"florezca\"."
+        },
+        {
+          "letter": "D",
+          "text": "Usa una metáfora botánica para transmitir la idea de crecimiento y renovación, apelando a las emociones del público.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Florezca\" es una metáfora que evoca belleza, vida y renovación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los discursos políticos, el lenguaje metafórico es muy frecuente. \"Florecer\" es una metáfora botánica: transfiere las cualidades positivas de una planta que da flores (belleza, vida, crecimiento) a un concepto abstracto como \"esperanza\" o \"país\". El político no está haciendo una promesa concreta; está generando una emoción. Identificar estas estrategias lingüísticas es clave para la lectura crítica de discursos persuasivos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W03-vocabulario-en-contexto-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

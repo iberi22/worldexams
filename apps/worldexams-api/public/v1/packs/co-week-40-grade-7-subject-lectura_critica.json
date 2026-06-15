@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.658Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v1",
+      "statement": "Une el texto con su propósito comunicativo:\n1. Un artículo que dice \"El gobierno debe aumentar el presupuesto en educación porque...\"\n2. Un anuncio que dice \"Compra ya, oferta limitada\"\n3. Una noticia que dice \"El Congreso aprobó la ley de educación\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-informar, 2-persuadir compra, 3-opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las correspondencias están cambiadas."
+        },
+        {
+          "letter": "B",
+          "text": "1-persuadir compra, 2-informar, 3-opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "1-opinar, 2-persuadir compra, 3-informar.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo de opinión persuade ideas, la publicidad persuade compra, la noticia informa hechos."
+        },
+        {
+          "letter": "D",
+          "text": "1-opinar, 2-informar, 3-persuadir compra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no informa, persuade."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la competencia fundamental de identificar el propósito comunicativo de un texto. El texto 1 usa un verbo modal (\"debe\") que indica opinión o recomendación, característico del género argumentativo. El texto 2 usa un imperativo (\"Compra\") y una restricción temporal (\"oferta limitada\"), típico de la publicidad que busca persuadir a la acción de compra. El texto 3 usa un verbo en pretérito (\"aprobó\") que reporta un hecho, característico del género informativo. Identificar el propósito es el primer paso de cualquier lectura crítica porque determina qué esperar del texto y cómo evaluarlo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v2",
+      "statement": "¿Qué recurso retórico utiliza este anuncio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos sobre la economía nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos."
+        },
+        {
+          "letter": "B",
+          "text": "Testimonio de un experto en economía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay experto."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación al patriotismo y a la responsabilidad social, asociando el consumo del producto con un beneficio colectivo: \"construir país\".",
+          "is_correct": true,
+          "feedback": "Correcto. La apelación patriótica es el recurso principal."
+        },
+        {
+          "letter": "D",
+          "text": "Comparación con productos importados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La apelación al patriotismo es uno de los recursos retóricos más poderosos en publicidad porque conecta el acto de consumo con un valor moral superior: el amor por el país. El anuncio no solo vende un producto, sino que ofrece al consumidor la oportunidad de \"construir país\" con su compra. Este recurso, aunque efectivo, merece análisis crítico: ¿la empresa realmente apoya el talento nacional (paga salarios justos, invierte en comunidades) o es solo una estrategia de marketing? El lector crítico distingue entre empresas que genuinamente contribuyen al desarrollo local y aquellas que solo usan el discurso patriótico para vender más.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v3",
+      "statement": "¿Qué elementos permiten identificar este texto como un editorial y no como una noticia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de datos estadísticos de criminalidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las noticias también usan datos."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de citas textuales de autoridades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las noticias también citan."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de verbos modales (\"no puede esperar\", \"necesitamos\") y la expresión de lo que \"debería\" hacerse, que revelan la postura del medio y su llamado a la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. La opinión se expresa en el deber ser."
+        },
+        {
+          "letter": "D",
+          "text": "El tema de la seguridad ciudadana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema que puede tratarse en cualquier género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La marca textual del editorial es el lenguaje deóntico: expresiones de obligación, necesidad o conveniencia (\"debe\", \"necesitamos\", \"no puede esperar\", \"es urgente\", \"es necesario\"). Estas expresiones revelan que el autor está opinando sobre cómo deberían ser las cosas, no simplemente describiendo cómo son. La noticia, en cambio, usa lenguaje descriptivo: \"la criminalidad aumentó\", \"el alcalde anunció\". Identificar este lenguaje deóntico es una habilidad clave: cuando un texto nos dice lo que \"debería\" hacerse, estamos ante un texto de opinión, y debemos evaluar los argumentos que respaldan esa opinión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v4",
+      "statement": "¿Qué información omite esta propaganda y por qué es relevante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omite los nombres de los ingenieros. No es relevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de ingenieros no son esenciales."
+        },
+        {
+          "letter": "B",
+          "text": "Omite los colores oficiales de la alcaldía. No es relevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores no son lo omitido."
+        },
+        {
+          "letter": "C",
+          "text": "Omite información sobre la deuda y sobrecostos, que son relevantes para evaluar si la gestión es realmente exitosa o si los logros tienen un costo fiscal alto para la ciudadanía.",
+          "is_correct": true,
+          "feedback": "Correcto. La omisión de información negativa es una técnica propagandística."
+        },
+        {
+          "letter": "D",
+          "text": "Omite la fecha de inicio de las obras. No es muy relevante.",
+          "is_correct": false,
+          "feedback": "Parcial, pero lo más relevante es el costo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La omisión selectiva de información es una de las técnicas más comunes en propaganda gubernamental. Una propaganda que solo muestra los logros (obras) sin mencionar los costos (deuda, sobrecostos, sacrificios fiscales) presenta una imagen incompleta de la gestión. El ciudadano crítico necesita ambas caras para evaluar: ¿valió la pena la deuda? ¿Las obras se hicieron con transparencia? ¿Hay otras necesidades insatisfechas que se sacrificaron? La propaganda que solo muestra la cara positiva no miente, pero engaña por omisión. La información completa es un derecho ciudadano y una obligación de la administración pública.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v5",
+      "statement": "¿Qué tipo de texto es este y qué inferencia se puede hacer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un editorial. Infiere que el hospital funciona bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es editorial y el dato sugiere lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Es publicidad del hospital. Infiere que es el mejor hospital de Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es publicidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es una noticia. Se infiere que el hospital está en una situación crítica por falta de personal, respaldado por datos de atención y alertas de la Defensoría.",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos permiten inferir una crisis."
+        },
+        {
+          "letter": "D",
+          "text": "Es un reportaje. Infiere que los médicos son incompetentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se infiere incompetencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa dos habilidades combinadas: identificación del género (noticia por la presentación de datos objetivos) e inferencia a partir de datos. Los datos presentados (500 pacientes diarios, 3 médicos por turno) permiten calcular que cada médico atiende aproximadamente a 166 pacientes por turno, una cifra insostenible. La información adicional (tres alertas de la Defensoría) refuerza la inferencia de crisis. El lector crítico no solo recibe datos, sino que los procesa: compara, calcula, contextualiza. La noticia no dice explícitamente \"el hospital está en crisis\", pero los datos lo implican. Reconocer estas implicaciones es una habilidad inferencial de nivel avanzado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v6",
+      "statement": "¿Qué función cumple la línea de tiempo dentro del reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar visualmente la página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea de tiempo tiene función informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar los nombres de todos los secretarios de educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es ese su propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Contextualizar históricamente el problema, mostrando cómo las políticas educativas han cambiado o fracasado en el tiempo, permitiendo al lector entender las causas estructurales de la deserción.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea de tiempo aporta profundidad histórica."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la lectura del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea de tiempo complementa, no reemplaza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reportaje se distingue por su capacidad de integrar diferentes formatos y recursos para enriquecer la comprensión. La línea de tiempo es un recurso visual que permite: 1) mostrar la evolución temporal de un problema, 2) identificar patrones (ej: cada vez que cambia la política, aumenta la deserción), 3) comprender que el problema actual tiene raíces históricas, 4) visualizar información que en texto sería difícil de seguir. Un buen reportaje selecciona los recursos adecuados para cada tipo de información: datos duros en infografías, emociones en testimonios, contexto en líneas de tiempo. El lector crítico evalúa si estos recursos enriquecen o solo adornan.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v7",
+      "statement": "¿Qué tesis plantea la jueza con esta afirmación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la justicia colombiana funciona perfectamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Que los jueces colombianos no ven bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metáfora, no una afirmación literal."
+        },
+        {
+          "letter": "C",
+          "text": "Que el sistema judicial colombiano es desigual y discrimina según la clase social y la raza de las personas, contradiciendo el ideal de justicia igualitaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La jueza critica la desigualdad del sistema judicial."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los colombianos tienen los mismos derechos ante la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería lo opuesto a lo que plantea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la comprensión de una metáfora crítica. La imagen tradicional de la justicia es una mujer con los ojos vendados (imparcialidad) y una balanza (equilibrio). La jueza subvierte esta imagen al afirmar que la justicia \"no es ciega\" (sí ve diferencias de clase y raza) y que tiene \"clase y color\" (discrimina). La tesis es una crítica poderosa al sistema judicial. El lector crítico de entrevistas no solo entiende lo que se dice literalmente, sino que capta las metáforas, ironías y críticas implícitas. La entrevista es un género donde a menudo las ideas más importantes se expresan de manera sugerente, no explícita.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v8",
+      "statement": "¿Qué posible sesgo identificas en este reportaje?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reportaje es demasiado largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es el sesgo."
+        },
+        {
+          "letter": "B",
+          "text": "La fundación no tiene expertos en la Amazonía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        },
+        {
+          "letter": "C",
+          "text": "La fuente de financiación de la fundación (empresas petroleras) crea un conflicto de intereses que puede explicar por qué el reportaje critica la deforestación (causada por agricultores) pero omite el impacto de la explotación petrolera, que afectaría a sus donantes.",
+          "is_correct": true,
+          "feedback": "Correcto. El sesgo está en lo que se omite."
+        },
+        {
+          "letter": "D",
+          "text": "El reportaje debería tener más fotografías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no es un sesgo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar conflictos de interés es una habilidad avanzada de lectura crítica. Cuando una organización recibe financiación de una industria, es probable que su producción informativa evite temas que puedan perjudicar a sus donantes. Aquí, la fundación critica la deforestación (causada principalmente por agricultores y ganaderos) pero omite el impacto de la explotación petrolera (actividad de sus donantes). Esto no significa que el reportaje mienta, pero sí que presenta una visión incompleta del problema. El lector crítico siempre se pregunta: ¿quién financia esta información? ¿Qué intereses tiene esa fuente? ¿Qué información podría estar siendo omitida por esos intereses?\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v9",
+      "statement": "¿Cuál es la estrategia más equilibrada para obtener información confiable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo redes sociales, porque es donde la información circula más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las redes tienen mucha desinformación."
+        },
+        {
+          "letter": "B",
+          "text": "Solo medios tradicionales, porque son más confiables.",
+          "is_correct": false,
+          "feedback": "Parcial, pero también tienen sesgos."
+        },
+        {
+          "letter": "C",
+          "text": "Combinar medios tradicionales (prensa escrita con trayectoria), medios digitales independientes, fuentes oficiales (gobierno, organismos internacionales), fuentes alternativas (medios comunitarios) y verificación cruzada de la información.",
+          "is_correct": true,
+          "feedback": "Correcto. La triangulación de fuentes diversas es la estrategia más robusta."
+        },
+        {
+          "letter": "D",
+          "text": "Solo fuentes oficiales del gobierno, porque son las más confiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuentes oficiales también tienen sesgos institucionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estrategia de \"triangulación de fuentes\" es la más robusta para obtener información confiable. Consiste en contrastar información de diferentes tipos de fuentes: 1) medios tradicionales (aportan rigor editorial), 2) medios independientes (aportan perspectivas no corporativas), 3) fuentes oficiales (aportan datos institucionales), 4) medios comunitarios (aportan voces locales), 5) fuentes internacionales (aportan contexto global). Cada tipo de fuente tiene fortalezas y debilidades. Ninguna fuente es perfecta, pero la combinación de múltiples perspectivas permite acercarse a una comprensión más completa y equilibrada de la realidad. Esta es la habilidad máxima de la lectura crítica: no depender de una sola fuente, sino construir el propio criterio a partir del contraste de múltiples voces.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v10",
+      "statement": "¿Qué conclusión crítica podemos extraer de estas dos coberturas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Medio A es objetivo y el Medio B es sensacionalista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos presentan un aspecto real del impuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el impuesto es malo porque golpea a los pobres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conclusión basada en una sola perspectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Que el impuesto es bueno porque combate la obesidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conclusión basada en una sola perspectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Que la misma política pública tiene efectos múltiples y contradictorios: puede ser positiva para la salud pública pero negativa para la economía familiar. La lectura crítica requiere considerar todas las dimensiones.",
+          "is_correct": true,
+          "feedback": "Correcto. La realidad es compleja y ninguna cobertura agota el tema."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Esta pregunta evalúa la capacidad de síntesis y pensamiento complejo. Cada medio destaca una dimensión real del impuesto (salud vs economía familiar), pero ninguna cobertura por sí sola ofrece la imagen completa. El lector crítico: 1) reconoce que cada medio hace un \"encuadre\" que selecciona ciertos aspectos, 2) busca múltiples coberturas para tener una visión más completa, 3) entiende que las políticas públicas suelen tener efectos contradictorios (beneficios para unos, costos para otros), 4) forma su propio juicio sopesando las diferentes dimensiones. Esta capacidad de integrar perspectivas opuestas sin caer en simplificaciones es la culminación de la lectura crítica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v11",
+      "statement": "¿Cuál sería un plan de lectura crítica completo y aplicable?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No compartir nada sin verificarlo.",
+          "is_correct": false,
+          "feedback": "Correcto como regla general, pero insuficiente como plan."
+        },
+        {
+          "letter": "B",
+          "text": "Solo leer noticias de El Tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depender de un solo medio es limitado."
+        },
+        {
+          "letter": "C",
+          "text": "Creer todo lo que dice la prensa tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prensa tradicional también tiene sesgos."
+        },
+        {
+          "letter": "D",
+          "text": "Un plan de 5 pasos: 1) Identificar la fuente (¿quién publica? ¿es confiable?), 2) Identificar el género (noticia, opinión, publicidad), 3) Identificar el propósito (informar, persuadir, vender), 4) Buscar otras fuentes que cubran el mismo tema, 5) Preguntar qué información falta y a quién beneficia el encuadre.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un protocolo completo, aplicable y crítico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este plan de 5 pasos condensa todas las habilidades trabajadas durante el año en un protocolo práctico. Paso 1 (fuente): verificar la confiabilidad del medio y posibles sesgos. Paso 2 (género): saber si esperamos información objetiva, opinión o persuasión. Paso 3 (propósito): identificar el objetivo del texto. Paso 4 (contraste): buscar otras perspectivas. Paso 5 (análisis crítico): preguntar por las omisiones y los intereses detrás del encuadre. Este protocolo es aplicable a cualquier texto que el estudiante encuentre en vacaciones: noticias en redes, videos de YouTube, memes informativos, cadenas de WhatsApp. La lectura crítica no es solo una habilidad académica, es una competencia para la vida ciudadana.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-v12",
+      "statement": "¿Qué proyecto demostraría mejor el dominio integral de la lectura crítica y la producción textual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir una sola noticia larga sobre un tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo demuestra un género."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer un póster bonito sobre los géneros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No demuestra producción textual."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar una noticia de internet y cambiarle algunas palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es plagio."
+        },
+        {
+          "letter": "D",
+          "text": "Crear un \"periódico escolar\" o \"blog\" que incluya: una noticia original sobre un evento local, una entrevista a un miembro de la comunidad, un artículo de opinión sobre un tema de interés juvenil, una propaganda social (ej: campaña contra el bullying), y un análisis crítico de una publicidad real, todos sobre el mismo tema o comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Este proyecto integra todos los géneros y exige producción original, investigación y pensamiento crítico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este proyecto final integra todas las competencias desarrolladas durante el año: 1) investigación (buscar información para la noticia y la entrevista), 2) producción textual en diferentes géneros (noticia, entrevista, opinión, propaganda), 3) análisis crítico (evaluar una publicidad real), 4) conexión con la comunidad (entrevistar a un miembro local), 5) relevancia social (campaña contra el bullying). El hecho de que todos los textos traten sobre el mismo tema o comunidad permite ver el mismo hecho desde diferentes perspectivas y géneros, reforzando la comprensión de que la realidad es compleja y que cada género ofrece una ventana distinta. Este tipo de proyecto prepara a los estudiantes no solo para el examen ICFES, sino para ser ciudadanos informados, críticos y participativos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W40-repaso-integral-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T20:41:20.908Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v1",
+      "statement": "¿Qué son las palabras homógrafas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que suenan igual y se escriben diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de palabras homófonas."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que se escriben igual (tienen la misma grafía) pero tienen significados diferentes.",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras homógrafas comparten ortografía pero difieren en significado y, en algunos casos, también en pronunciación (por la sílaba tónica o por el contexto). Por ejemplo: \"banco\" (institución financiera / asiento / conjunto de peces)."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras que se escriben diferente pero significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de sinónimos."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que se escriben con las mismas letras pero en diferente orden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son anagramas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras homógrafas son aquellas que tienen la misma escritura pero diferente significado y origen. Por ejemplo: \"cerca\" (vallado o delimitación) vs. \"cerca\" (adverbio de lugar, a poca distancia). El contexto de la oración es la única clave para determinar cuál significado se está usando. Las homógrafas son muy comunes en español y aparecen frecuentemente en la prueba ICFES Saber.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes palabras es un ejemplo de palabra homógrafa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Casa\" (vivienda) y \"caza\" (acción de cazar).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son homófonas (suenan igual, se escriben diferente), no homógrafas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Bello\" (hermoso) y \"vello\" (pelo fino).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son homófonas, no homógrafas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cerca\" (adverbio = a poca distancia) y \"cerca\" (sustantivo = cerramiento o vallado).",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cerca\" es una palabra homógrafa: se escribe exactamente igual en ambos casos, pero tiene significados completamente diferentes. Como adverbio indica proximidad (\"vive cerca de aquí\"). Como sustantivo femenino es una estructura de delimitación (\"la cerca del potrero\")."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ola\" (onda del mar) y \"hola\" (saludo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son homófonas (suenan igual, se escriben diferente, una lleva H)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras homógrafas se reconocen por su escritura idéntica. A diferencia de las homófonas, que suenan igual pero se escriben diferente, las homógrafas se escriben exactamente con las mismas letras. El contexto determina cuál significado se está usando. Conocerlas mejora la comprensión lectora y evita malentendidos al leer.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v3",
+      "statement": "Lee: \"Fui al banco a retirar dinero. Luego me senté en un banco de la plaza a esperar. Un banco de peces pasó por el río.\" ¿Qué palabra se repite con significados diferentes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Dinero\" y \"plaza\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son homógrafas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Banco\", que tiene al menos tres significados diferentes: institución financiera (banco), asiento (banco de la plaza) y conjunto de peces (banco de peces). <!--- feedback: Correcto. \"Banco\" es un ejemplo clásico de palabra homógrafa (polisemia, para ser precisos, aunque aquí los significados no están relacionados etimológicamente). La palabra \"banco\" tiene múltiples significados que se distinguen solo por el contexto en que aparece. Es una de las palabras más polisémicas del español. -->",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Fui\" y \"senté\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son homógrafas."
+        },
+        {
+          "letter": "D",
+          "text": "\"Retirar\" y \"esperar\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son homógrafas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Banco\" es un excelente ejemplo de palabra homógrafa con múltiples acepciones: 1) institución financiera, 2) asiento alargado, 3) conjunto de peces, 4) establecimiento de sangre (banco de sangre), 5) en carpintería: banco de trabajo, 6) en geología: banco de arena. Esta multiplicidad de significados es la razón por la que el contexto es indispensable para interpretar correctamente cualquier texto.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v4",
+      "statement": "Lee: \"El pintor usó una brocha gorda para pintar la pared.\" / \"Compré carne de cerdo gorda en la carnicería.\" En ambas oraciones aparece \"gorda\", pero:",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene el mismo significado en ambas: \"grande\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay cierta relación, el significado específico cambia."
+        },
+        {
+          "letter": "B",
+          "text": "En la primera es un insulto y en la segunda es un cumplido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ninguna es insulto."
+        },
+        {
+          "letter": "C",
+          "text": "En la primera, \"gorda\" modifica a \"brocha\" y significa \"de gran tamaño, ancha\". En la segunda, \"gorda\" modifica a \"carne de cerdo\" y significa \"que tiene mucha grasa\". Aunque es la misma palabra y adjetivo femenino, su significado específico varía según el sustantivo que modifica. Es un caso de homografía contextual.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Gorda\" es un adjetivo femenino singular que puede aplicarse a diferentes sustantivos con matices de significado diferentes. Con \"brocha\" indica tamaño; con \"carne\" indica contenido de grasa. El contexto (el sustantivo modificado) determina la interpretación."
+        },
+        {
+          "letter": "D",
+          "text": "En la primera es un verbo y en la segunda un adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambos casos es adjetivo femenino singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adjetivos también pueden ser homógrafos cuando su significado varía según el contexto. \"Gorda\" no tiene definición única: su interpretación depende del sustantivo que acompaña. Esto demuestra que las palabras homógrafas no son solo sustantivos; adjetivos, verbos y otras categorías también presentan este fenómeno.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v5",
+      "statement": "Analiza: \"Yo como frutas todos los días.\" / \"Él come como si no hubiera un mañana.\" La palabra \"como\" aparece en ambas oraciones. ¿Son homógrafas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque se escriben igual pero no son la misma palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente por eso SÍ son homógrafas."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque son la misma palabra con el mismo significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen el mismo significado."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, son homógrafas porque se escriben igual pero tienen funciones gramaticales y significados distintos. En la primera, \"como\" es el verbo \"comer\" conjugado en primera persona singular del presente de indicativo (\"yo como\"). En la segunda, \"como\" es un adverbio modal o conjunción comparativa (\"come como...\"). En la segunda oración, el verbo es \"come\" y \"como\" introduce una comparación.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Como\" es una palabra homógrafa que puede ser: 1) Verbo comer (yo como), 2) Adverbio de modo (como se muestra), 3) Conjunción causal (como no vino, me fui), 4) Preposición (como representante), 5) Aproximación (como 20 personas). El contexto es fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque una lleva tilde y la otra no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Como\" sin tilde es la forma general; \"cómo\" con tilde es interrogativo/exclamativo. Aquí comparamos dos \"como\" sin tilde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Como\" es una de las palabras más versátiles del español, con funciones como verbo, adverbio, conjunción, preposición y marca de aproximación. Todas se escriben sin tilde. Solo cuando es interrogativo o exclamativo lleva tilde: \"¿Cómo llegaste?\" Esta versatilidad hace que \"como\" sea un caso fascinante de homografía múltiple.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v6",
+      "statement": "Clasifica los significados de \"cobre\" en estas dos oraciones:\r\nA) \"El joyero trabajó el cobre para hacer la artesanía.\"\r\nB) \"Cada vez que cobre mi sueldo, compraré el regalo.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ambas es un sustantivo que significa metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En B no es sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "En A y B es el mismo verbo conjugado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En A no es verbo."
+        },
+        {
+          "letter": "C",
+          "text": "En A, \"cobre\" es un sustantivo masculino que designa un metal (el cobre, elemento químico). En B, \"cobre\" es el verbo \"cobrar\" conjugado en primera persona del presente de subjuntivo (\"que yo cobre mi sueldo\"). Son palabras homógrafas: misma escritura, diferentes categorías gramaticales y significados.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cobre\" es un caso de homografía entre un sustantivo (el metal) y una forma verbal (del verbo cobrar). Este tipo de homografía entre categorías gramaticales diferentes es muy común en español y requiere atención al contexto para su correcta interpretación."
+        },
+        {
+          "letter": "D",
+          "text": "En A es adjetivo y en B es adverbio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En A es sustantivo y en B es verbo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras homógrafas no siempre pertenecen a la misma categoría gramatical. \"Cobre\" puede ser sustantivo (metal) o verbo (cobrar). Lo mismo ocurre con: \"canto\" (sustantivo: piedra; verbo: cantar), \"llama\" (sustantivo: fuego; verbo: llamar), \"pago\" (sustantivo: territorio; verbo: pagar). La categoría gramatical es otra pista que el contexto proporciona.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v7",
+      "statement": "Escribe dos oraciones que demuestren dos significados diferentes de la palabra \"planta\" como homógrafa.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La planta de la casa es grande.\" / \"La planta de los pies me duele.\" - Ambas se refieren a lo mismo: la base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si significan lo mismo (\"base\" como extensión), no son homógrafas con diferente significado."
+        },
+        {
+          "letter": "B",
+          "text": "\"La planta de la casa es grande y tiene tres habitaciones.\" (planta como piso o nivel de un edificio). / \"Regué la planta del jardín.\" (planta como ser vegetal). / \"Trabaja en la planta de tratamiento de agua.\" (planta como instalación industrial). Tres significados diferentes de la misma palabra.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Planta\" es una palabra homógrafa con múltiples acepciones: 1) vegetal, 2) piso de un edificio, 3) instalación industrial, 4) parte del pie (planta del pie), 5) plano o diseño (planta arquitectónica). Cada significado se distingue por el contexto. Es un excelente ejemplo de polisemia homográfica."
+        },
+        {
+          "letter": "C",
+          "text": "\"La planta de energía funciona bien.\" / \"La planta de energía también funciona.\" - No cambia el significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas oraciones dicen lo mismo."
+        },
+        {
+          "letter": "D",
+          "text": "\"Planté un árbol en el jardín.\" / \"Planté cara al problema.\" - Aquí \"planté\" es homógrafa, no \"planta\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta es sobre \"planta\", no \"planté\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Planta\" es una palabra con al menos 10 acepciones registradas en el diccionario de la RAE. Algunas de ellas: 1) vegetal, 2) piso de un edificio, 3) fábrica o instalación industrial, 4) parte inferior del pie, 5) diseño arquitectónico, 6) esquema organizativo (plantilla de personal), 7) acción de plantar. Esta riqueza semántica demuestra cómo una misma palabra puede contener múltiples significados.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v8",
+      "statement": "Lee este juego de palabras: \"—Señor juez, ¿usted cree que el acusado es un ser honrado? —Sí, es un ser honrado. Pero también es un ser que no sabe ser honrado.\" ¿Qué recurso lingüístico se usa con la palabra \"ser\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinonimia, porque \"ser\" tiene el mismo significado en todos los casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ser\" no tiene el mismo significado en cada aparición."
+        },
+        {
+          "letter": "B",
+          "text": "Antonimia, porque los significados son opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son opuestos."
+        },
+        {
+          "letter": "C",
+          "text": "Homografía, porque \"ser\" se escribe igual pero tiene dos funciones gramaticales y significados diferentes: en \"ser honrado\" es verbo copulativo (indica una cualidad del sujeto: \"una persona honrada\"); en \"un ser\" es sustantivo (un ente, una persona, un individuo). El chiste juega con esta ambigüedad: ser (verbo) ≠ ser (sustantivo).",
+          "is_correct": true,
+          "feedback": "Correcto. El juego de palabras se basa en la homografía de \"ser\". El abogado usa \"ser\" como verbo (ser honrado = comportarse con honradez), pero lo transforma en sustantivo (un ser = una persona). Es un chiste lingüístico que explota la homografía para crear humor. Este tipo de juegos de palabras es común en la literatura y el humor colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Homonimia, pero no hay tal cosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Homonimia\" incluye homógrafas y homófonas, pero el análisis correcto es homografía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El humor lingüístico a menudo explota la homografía. En este caso, la palabra \"ser\" funciona como verbo (\"ser honrado\") y como sustantivo (\"un ser\"). El chiste consiste en cambiar la interpretación a mitad de la frase. Este recurso se llama \"antanaclasis\" (repetición de una palabra con diferente significado) y es muy usado en literatura, publicidad y humor.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v9",
+      "statement": "Un estudiante dice: \"Las palabras homógrafas son un problema para la comunicación porque generan confusión.\" ¿Cuál es la MEJOR evaluación de esta afirmación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente cierta, las homógrafas deberían eliminarse del idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden \"eliminar\" palabras del idioma; además, tienen funciones importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Es cierta en parte: pueden causar confusión en lectores inexpertos, pero los hablantes competentes las interpretan por el contexto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un análisis incompleto."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcialmente cierta pero incompleta. Las homógrafas pueden causar confusión si no se usa el contexto para interpretarlas. Sin embargo, también enriquecen el idioma al permitir economía expresiva, juegos de palabras, humor y matices. Sin palabras homógrafas, el español sería menos flexible y perdería una fuente importante de creatividad lingüística. El contexto es la clave para resolver la ambigüedad.",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras homógrafas no son un defecto del idioma sino una característica que demuestra su riqueza y flexibilidad. En la comunicación cotidiana, el contexto (las palabras que rodean a la homógrafa) siempre permite identificar el significado correcto. Además, las homógrafas son la base de juegos de palabras, chistes y literatura creativa."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, las homógrafas nunca causan confusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En contextos ambiguos o mal redactados, sí pueden causar confusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras homógrafas no son un problema del idioma sino una muestra de su riqueza. La capacidad de una misma palabra para tener múltiples significados demuestra la eficiencia y flexibilidad del lenguaje. El contexto siempre resuelve la ambigüedad. En la literatura, las homógrafas se usan para crear juegos de palabras, poesía, humor y significados múltiples. En el ICFES Saber, las preguntas sobre homógrafas evalúan la capacidad de usar el contexto para determinar significados.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-v10",
+      "statement": "Crea una adivinanza que use la palabra \"llama\" (homógrafa) para que tus compañeros adivinen sus dos significados. ¿Cuál de las siguientes opciones es la MEJOR adivinanza?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¿Qué palabra se escribe con LL y significa fuego?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo menciona un significado."
+        },
+        {
+          "letter": "B",
+          "text": "\"Llama, pero no es una llamada. ¿Qué es?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Llama\" y \"llamada\" son palabras diferentes, no homógrafas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Soy una palabra que se escribe igual pero tengo dos vidas: en los Andes soy un animal de pelaje suave que carga peso en los caminos; en el fuego soy la lengua ardiente que consume la leña. ¿Qué soy?\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta adivinanza: (1) explica que es una sola palabra con dos significados (homógrafa), (2) describe claramente ambos significados: llama (animal sudamericano de los Andes) y llama (lengua de fuego), (3) contextualiza cada significado (los Andes / el fuego), (4) usa un lenguaje poético y atractivo (\"dos vidas\", \"lengua ardiente\"), (5) invita a la reflexión y al aprendizaje. Además, relaciona la palabra con el contexto colombiano (los Andes, los caminos de montaña)."
+        },
+        {
+          "letter": "D",
+          "text": "\"¿Qué palabra tiene dos significados?\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demasiado genérica, no da pistas específicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Llama\" es un caso famoso de homografía en español: el animal de los Andes (camélido sudamericano) y la lengua de fuego son dos significados completamente diferentes de la misma palabra. En Colombia, la llama andina es parte del paisaje cultural de la región andina. Esta adivinanza une ambos significados de forma creativa, demostrando cómo las homógrafas pueden ser divertidas y educativas al mismo tiempo.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W23-palabras-homografas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

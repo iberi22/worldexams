@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-7-subject-lectura_critica",
+    "generated_at": "2026-06-15T20:41:20.648Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v1",
+      "statement": "¿Qué caracteriza a un texto discontinuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está escrito en prosa con párrafos extensos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe los textos continuos."
+        },
+        {
+          "letter": "B",
+          "text": "Que no tiene ninguna organización aparente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene organización, pero no lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Que la información se organiza de manera no lineal, combinando elementos visuales como tablas, gráficos, diagramas, mapas o infografías.",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos discontinuos requieren una lectura no secuencial."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo contiene imágenes sin texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden tener texto, pero organizado visualmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos discontinuos son aquellos en los que la información no se organiza en una secuencia lineal de oraciones y párrafos, sino que se distribuye en formato visual: tablas, gráficos estadísticos, diagramas de flujo, mapas conceptuales, infografías, afiches, formularios, etiquetas, etc. El lector no los recorre de principio a fin, sino que los \"escanea\", seleccionando la información relevante según sus necesidades. En la era digital, los textos discontinuos son cada vez más frecuentes en manuales, informes, presentaciones y medios de comunicación. Saber leerlos críticamente es una habilidad esencial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v2",
+      "statement": "¿Cuál es la ventaja de presentar esta información como infografía en lugar de como texto continuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La infografía es más difícil de entender, lo que obliga a pensar más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infografía busca facilitar, no dificultar."
+        },
+        {
+          "letter": "B",
+          "text": "La infografía permite una lectura más rápida y visual, facilitando la localización de información específica gracias a los títulos, íconos y colores.",
+          "is_correct": false,
+          "feedback": "Correcto. La organización visual facilita el acceso a la información."
+        },
+        {
+          "letter": "C",
+          "text": "La infografía permite incluir menos información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es cuestión de cantidad sino de organización."
+        },
+        {
+          "letter": "D",
+          "text": "La infografía es más económica de imprimir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo no es la ventaja principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La infografía organiza la información visualmente, permitiendo al lector identificar rápidamente las secciones de interés y acceder a la información de manera no lineal. Mientras que un texto continuo obliga a leer en secuencia, la infografía permite \"saltar\" a la sección relevante: si solo me interesa saber qué reciclar, voy directamente a esa sección. Los elementos visuales (íconos, colores, tamaños) jerarquizan la información y guían la atención. La infografía es especialmente efectiva para comunicar información compleja de manera rápida y atractiva, combinando el poder de la imagen con la precisión del texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v3",
+      "statement": "¿Qué información puede obtener el estudiante de la tabla nutricional en este texto discontinuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El precio del producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla nutricional no muestra precio."
+        },
+        {
+          "letter": "B",
+          "text": "El sabor del producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla nutricional no indica sabor."
+        },
+        {
+          "letter": "C",
+          "text": "Las cantidades de calorías, grasas, proteínas, carbohidratos y otros nutrientes por porción.",
+          "is_correct": true,
+          "feedback": "Correcto. La tabla nutricional detalla el contenido de nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar donde fue fabricado el producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso está en otra parte del empaque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los empaques de alimentos son textos discontinuos complejos que combinan múltiples tipos de información. La tabla nutricional es una sección específica que muestra, en formato de tabla, las cantidades de nutrientes por porción del producto. Leerla críticamente permite al consumidor tomar decisiones informadas sobre su alimentación: ¿cuántas calorías tiene? ¿Cuánta azúcar? ¿Qué proporción de la recomendación diaria representa? Interpretar correctamente una tabla nutricional es una habilidad de lectura crítica con aplicaciones directas en la vida cotidiana, especialmente importante para personas con condiciones de salud como diabetes o hipertensión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v4",
+      "statement": "¿Cómo se lee correctamente este diagrama de flujo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leyendo todos los cuadros de izquierda a derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diagrama de flujo sigue una lógica secuencial, no de lectura occidental."
+        },
+        {
+          "letter": "B",
+          "text": "Siguiendo las flechas desde el inicio, tomando decisiones en cada rombo según corresponda.",
+          "is_correct": false,
+          "feedback": "Correcto. El diagrama se recorre siguiendo el flujo lógico."
+        },
+        {
+          "letter": "C",
+          "text": "Leyendo solo los cuadros con texto más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no determina el orden de lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Empezando por el final y leyendo hacia atrás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diagrama tiene una dirección de lectura definida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un diagrama de flujo es un texto discontinuo que representa visualmente un proceso o algoritmo. Se lee siguiendo las flechas desde el inicio (generalmente marcado como \"Inicio\"), avanzando paso a paso. Los rombos representan decisiones binarias (sí/no) que determinan el camino a seguir. Los rectángulos representan acciones o procesos. La lectura correcta implica recorrer el diagrama según la lógica del proceso, no de izquierda a derecha como un texto continuo. Interpretar diagramas de flujo es una habilidad cada vez más importante en un mundo donde los procesos se representan visualmente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v5",
+      "statement": "¿Qué elemento del afiche es más importante según su jerarquía visual?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de teléfono, porque está al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición final no indica importancia máxima."
+        },
+        {
+          "letter": "B",
+          "text": "El ícono del extintor en el centro y de mayor tamaño, porque la jerarquía visual (tamaño, posición central) indica que es el elemento principal.",
+          "is_correct": true,
+          "feedback": "Correcto. El diseño visual jerarquiza la información."
+        },
+        {
+          "letter": "C",
+          "text": "La lista numerada, porque es la más larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no equivale a importancia."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los elementos tienen la misma importancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño visual establece jerarquías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos discontinuos como afiches e infografías utilizan elementos de diseño visual (tamaño, color, posición, contraste) para establecer jerarquías de información. El elemento más grande, central o de mayor contraste es el que quiere captar la atención primero. En este afiche, el extintor es el elemento principal porque ocupa el centro y es de mayor tamaño. La lista de pasos es secundaria (instrucciones detalladas). El número de teléfono, aunque importante, está en posición inferior. El lector crítico de textos discontinuos no solo lee el contenido, sino que interpreta las señales visuales que indican qué es más importante.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v6",
+      "statement": "¿Qué información adicional proporciona el uso del color en esta infografía?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color decora la infografía para que sea más bonita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color tiene función informativa, no solo estética."
+        },
+        {
+          "letter": "B",
+          "text": "El color permite identificar visualmente y de manera inmediata las regiones con mayor y menor problema, sin necesidad de leer los números.",
+          "is_correct": true,
+          "feedback": "Correcto. El color codifica la información para facilitar la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "El color indica la altitud de cada departamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color está codificado para la tasa de desnutrición."
+        },
+        {
+          "letter": "D",
+          "text": "El color muestra los departamentos que tienen hospitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación con hospitales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las infografías con mapas, el color es un sistema de codificación que comunica información de manera inmediata. La escala cromática (verde-amarillo-rojo) permite al lector identificar en segundos los patrones geográficos del problema, sin necesidad de leer cada número. El rojo alerta sobre las zonas críticas; el verde indica zonas con mejores indicadores. Esta codificación visual es una de las ventajas de los textos discontinuos: la información se procesa más rápido que en un texto continuo. Sin embargo, el lector crítico debe verificar la leyenda para entender exactamente qué significa cada color y asegurarse de que la escala no está manipulada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v7",
+      "statement": "¿Qué ventaja ofrece la tabla frente a un texto continuo que describa los mismos celulares?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tabla permite hacer comparaciones directas entre los modelos para cada característica.",
+          "is_correct": false,
+          "feedback": "Correcto. La tabla organiza los datos para comparación rápida."
+        },
+        {
+          "letter": "B",
+          "text": "La tabla muestra información más precisa que el texto continuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precisión no depende del formato."
+        },
+        {
+          "letter": "C",
+          "text": "La tabla es mejor para contar historias sobre los celulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla no es narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla es más difícil de entender, por lo que es más rigurosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad no es una virtud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla es uno de los textos discontinuos más efectivos para la comparación de datos. Organiza la información en filas y columnas, permitiendo al lector: 1) comparar una característica (ej. precio) entre todos los modelos en una sola mirada horizontal, 2) ver todas las características de un modelo en una sola columna, y 3) identificar rápidamente cuál modelo es el más barato, el de mayor memoria, etc. En un texto continuo, esta misma información requeriría múltiples oraciones y el lector tendría que extraer y comparar mentalmente los datos. La tabla optimiza la comparación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v8",
+      "statement": "¿Qué problema potencial tiene el uso de tamaños de gotas para representar datos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las gotas son un símbolo bonito y apropiado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética no es el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que el tamaño de las gotas puede ser engañoso si no se usa una escala proporcionada, haciendo que diferencias pequeñas parezcan grandes.",
+          "is_correct": false,
+          "feedback": "Correcto. La representación visual puede distorsionar los datos."
+        },
+        {
+          "letter": "C",
+          "text": "Que las gotas son azules y el agua es incolora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color azul es una convención aceptada."
+        },
+        {
+          "letter": "D",
+          "text": "Que las gotas no tienen etiquetas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asume que sí tienen etiquetas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La representación visual de datos en infografías puede ser engañosa si no se cuida la escala. Si una gota representa el 80% de acceso y otra el 40%, la diferencia visual (el área de la gota) debe ser proporcional a la diferencia real. A veces, diseñadores inexpertos o malintencionados usan escalas que exageran o minimizan diferencias. Por ejemplo, si duplican el diámetro de la gota para representar el doble de valor, el área se cuadruplica, haciendo que la diferencia parezca mucho mayor de lo que es. El lector crítico de textos discontinuos debe estar atento a estas posibles distorsiones y siempre verificar las escalas y etiquetas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v9",
+      "statement": "¿Qué lectura crítica debe hacer el estudiante de este texto discontinuo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que San Andrés es el mejor destino turístico del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la conclusión que el folleto quiere que saquemos."
+        },
+        {
+          "letter": "B",
+          "text": "Que las fotos son bonitas y debe viajar allá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La belleza visual no es garantía de calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el folleto selecciona información favorable (fotos ideales, satisfacción alta), minimiza la desfavorable (precios en letra pequeña) y usa recursos visuales para persuadir, no para informar objetivamente.",
+          "is_correct": true,
+          "feedback": "Correcto. El folleto tiene intención persuasiva, no informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Que la infografía del 98% es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de falsedad, pero sí de posible sesgo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los folletos turísticos son textos discontinuos con intención claramente persuasiva: vender un destino. El lector crítico debe identificar los recursos utilizados: 1) selección de imágenes ideales (playas paradisíacas, hoteles perfectos), 2) omisión de información negativa (contaminación, precios elevados, temporada de huracanes), 3) jerarquía visual que favorece lo positivo (carita feliz gigante) y minimiza lo negativo (letra pequeña), y 4) datos de \"satisfacción\" que pueden provenir de encuestas sesgadas. Los textos discontinuos pueden ser tan manipuladores como los continuos, y la lectura crítica aplica a ambos formatos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v10",
+      "statement": "¿Qué debe considerar el lector crítico al interpretar esta línea de tiempo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la línea de tiempo muestra todos los eventos importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea de tiempo es una selección."
+        },
+        {
+          "letter": "B",
+          "text": "Que la línea de tiempo es objetiva porque solo muestra fechas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección de fechas ya implica un sesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la línea de tiempo es una construcción selectiva que organiza los eventos para contar una historia específica; puede omitir eventos que no encajen en la narrativa deseada.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea de tiempo es una interpretación, no un registro neutral."
+        },
+        {
+          "letter": "D",
+          "text": "Que la línea de tiempo es más confiable que un texto continuo sobre el mismo tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato no garantiza confiabilidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque las líneas de tiempo parecen neutrales (solo muestran fechas y eventos), son construcciones interpretativas. La selección de qué eventos incluir y cuáles omitir, el punto de inicio y final, y el énfasis visual en ciertos eventos, todo esto refleja una perspectiva. Esta línea de tiempo, al comenzar con la protesta ciudadana y terminar con la renuncia, sugiere una narrativa de \"presión popular → victoria\". Podría omitir eventos que complicaran esa narrativa, como intentos de diálogo o intervención externa. El lector crítico de textos discontinuos debe preguntarse siempre: ¿quién creó esto, para qué y qué podría estar omitiendo?\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v11",
+      "statement": "¿Qué posible manipulación visual hay en este gráfico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gráfico usa colores feos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética no es manipulación."
+        },
+        {
+          "letter": "B",
+          "text": "El gráfico muestra datos falsos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos pueden ser reales."
+        },
+        {
+          "letter": "C",
+          "text": "Al comenzar el eje Y en 20% en lugar de 0%, las diferencias entre las barras se exageran visualmente, haciendo que una pequeña reducción parezca un gran logro.",
+          "is_correct": true,
+          "feedback": "Correcto. El truncamiento del eje exagera las diferencias."
+        },
+        {
+          "letter": "D",
+          "text": "El gráfico tiene demasiadas barras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de barras no es manipulación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta es una técnica común de manipulación visual de datos: el truncamiento del eje Y. Si la pobreza pasó de 30% a 25%, al comenzar el eje en 20% la barra parece haber caído de 10 a 5, dando la impresión de una reducción del 50% cuando en realidad fue del 16.7%. El lector crítico de gráficos siempre verifica dónde comienza el eje Y. Si no comienza en 0, las proporciones visuales están distorsionadas. Esta técnica se usa frecuentemente en publicidad y propaganda para hacer que los logros parezcan más impresionantes de lo que realmente son.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-v12",
+      "statement": "¿Cuál de los siguientes proyectos demuestra MEJOR el uso efectivo de textos discontinuos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un afiche con solo texto sin imágenes ni organización visual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto continuo pegado en una cartelera."
+        },
+        {
+          "letter": "B",
+          "text": "Una infografía sobre la calidad del aire en la localidad que mezcla íconos de colores, un mapa con las zonas más contaminadas, una tabla con datos semanales del IDEAM y un gráfico de barras comparando con otras localidades.",
+          "is_correct": false,
+          "feedback": "Correcto. Integra múltiples formatos discontinuos de manera informativa y organizada."
+        },
+        {
+          "letter": "C",
+          "text": "Un volante con fotos de árboles y el texto \"Cuidemos el planeta\" repetido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa imágenes pero sin estructura informativa clara."
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla sin título ni etiquetas que solo el autor entiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto discontinuo debe ser comprensible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La opción B demuestra el uso efectivo de textos discontinuos porque: 1) integra múltiples formatos (íconos, mapa, tabla, gráfico), 2) cada formato aporta un tipo diferente de información (ubicación geográfica en el mapa, datos precisos en la tabla, comparación en el gráfico), 3) usa recursos visuales (colores, íconos) para jerarquizar y hacer accesible la información, y 4) cita una fuente confiable (IDEAM). La infografía resultante sería más efectiva que un texto continuo extenso para comunicar información ambiental compleja. El mejor texto discontinuo no es el más bonito, sino el que combina claridad, precisión y atractivo visual.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LC-7-2026-W30-textos-discontinuos-avanzados-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

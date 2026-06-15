@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-sociales",
+    "generated_at": "2026-06-15T20:41:21.456Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v1",
+      "statement": "¿Qué evento histórico marca tradicionalmente el inicio de la Edad Moderna?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caída del Imperio Romano de Occidente (476 d.C.).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese evento marca el inicio de la Edad Media."
+        },
+        {
+          "letter": "B",
+          "text": "La caída de Constantinopla en manos de los turcos otomanos (1453).",
+          "is_correct": true,
+          "feedback": "Correcto. 1453 es la fecha convencional de inicio de la Edad Moderna."
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento de América (1492).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque importante, la fecha oficial de inicio es 1453."
+        },
+        {
+          "letter": "D",
+          "text": "La Revolución Francesa (1789).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese evento marca el inicio de la Edad Contemporánea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Edad Moderna es el período histórico que va desde 1453 (caída de Constantinopla/Imperio Bizantino) hasta 1789 (Revolución Francesa). Se caracteriza por el fortalecimiento de las monarquías, los grandes descubrimientos geográficos, el Renacimiento, la Reforma religiosa y el surgimiento del capitalismo comercial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes fue un cambio importante en la forma de pensar durante el Renacimiento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El teocentrismo, donde Dios era el centro de todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teocentrismo predominó en la Edad Media."
+        },
+        {
+          "letter": "B",
+          "text": "El antropocentrismo, donde el ser humano se convierte en el centro de atención.",
+          "is_correct": true,
+          "feedback": "Correcto. El Renacimiento puso al humano como medida de todas las cosas."
+        },
+        {
+          "letter": "C",
+          "text": "El feudalismo como sistema económico dominante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El feudalismo fue un sistema medieval que decayó en la Edad Moderna."
+        },
+        {
+          "letter": "D",
+          "text": "La escolástica como único método de conocimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escolástica fue el método filosófico medieval."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Renacimiento (siglos XV-XVI) marcó un cambio profundo en la mentalidad europea: del teocentrismo medieval (Dios como centro) al antropocentrismo (el ser humano como centro). Se recuperaron los valores clásicos grecolatinos, se valoró la razón, la ciencia y la capacidad humana, y surgió el humanismo como corriente de pensamiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v3",
+      "statement": "¿Cuál fue la principal motivación económica de los viajes de exploración europeos en los siglos XV y XVI?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conocer nuevas culturas y hacer amigos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las motivaciones eran principalmente económicas y estratégicas."
+        },
+        {
+          "letter": "B",
+          "text": "Encontrar una ruta directa a las Indias para comerciar especias sin intermediarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Las especias eran muy valiosas y el comercio estaba controlado por intermediarios."
+        },
+        {
+          "letter": "C",
+          "text": "Escapar de las guerras religiosas en Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hubo migraciones, no fue la motivación principal."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer colonias para practicar nuevas religiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión religiosa fue más una justificación que una motivación económica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especias (canela, pimienta, clavo, nuez moscada) eran extremadamente valiosas en Europa para conservar alimentos y como medicinas, y su comercio estaba controlado por comerciantes italianos y árabes. Buscar una ruta directa marítima hacia Asia era una prioridad económica. Esto llevó a los viajes de portugueses (circunnavegación de África) y españoles (viaje de Colón).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v4",
+      "statement": "¿Cómo se llamó el sistema comercial global que se desarrolló durante la Edad Moderna entre Europa, América y África?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ruta de la Seda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Ruta de la Seda era terrestre y conectaba Asia con Europa en la Edad Media."
+        },
+        {
+          "letter": "B",
+          "text": "El mercantilismo",
+          "is_correct": false,
+          "feedback": "Correcto, pero no es un sistema de rutas específicamente."
+        },
+        {
+          "letter": "C",
+          "text": "El comercio triangular",
+          "is_correct": true,
+          "feedback": "Correcto. El comercio triangular conectaba Europa, África y América transportando esclavos, materias primas y manufacturas."
+        },
+        {
+          "letter": "D",
+          "text": "La Liga Hanseática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una alianza comercial del norte de Europa en la Edad Media."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comercio triangular fue el sistema de intercambio que conectó tres continentes: de Europa salían manufacturas hacia África, de África se transportaban esclavos hacia América, y de América se enviaban materias primas (azúcar, algodón, tabaco, metales preciosos) hacia Europa. Aunque el mercantilismo fue la doctrina económica, el comercio triangular fue su expresión práctica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v5",
+      "statement": "¿Cuál era una característica de las monarquías modernas que las diferenciaba del sistema feudal medieval?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El poder estaba fragmentado entre muchos señores feudales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa era una característica del feudalismo medieval."
+        },
+        {
+          "letter": "B",
+          "text": "El rey concentraba el poder político y territorial sobre todo el reino.",
+          "is_correct": true,
+          "feedback": "Correcto. Las monarquías modernas tendieron a la centralización del poder."
+        },
+        {
+          "letter": "C",
+          "text": "La iglesia católica gobernaba los reinos directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia tenía influencia pero no gobernaba directamente los reinos."
+        },
+        {
+          "letter": "D",
+          "text": "No existían ejércitos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las monarquías modernas crearon ejércitos nacionales permanentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las monarquías modernas (o monarquías absolutas) se caracterizaron por la centralización del poder en el rey, quien gobernaba sobre un territorio unificado con fronteras definidas. Crearon burocracias estatales, ejércitos nacionales permanentes, sistemas tributarios centralizados y unificaron leyes. Esto contrastaba con el feudalismo donde el poder estaba disperso entre nobles locales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v6",
+      "statement": "¿Qué consecuencia demográfica tuvo el contacto entre europeos y pueblos indígenas americanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población indígena aumentó por los nuevos cultivos traídos de Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población indígena disminuyó drásticamente."
+        },
+        {
+          "letter": "B",
+          "text": "La población indígena se redujo drásticamente por enfermedades, guerras y explotación.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enfermedades como viruela y sarampión fueron devastadoras."
+        },
+        {
+          "letter": "C",
+          "text": "Los europeos adoptaron completamente las costumbres indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo mestizaje cultural, pero no fue una adopción completa."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo cambios significativos en la población americana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue uno de los cambios demográficos más grandes de la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contacto trajo consecuencias demográficas catastróficas para la población indígena americana. Se estima que murió entre el 80% y 90% de la población en el primer siglo de contacto, principalmente por enfermedades del Viejo Mundo (viruela, sarampión, gripe) para las que no tenían inmunidad, además de las guerras de conquista y la explotación laboral en el sistema de encomienda.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v7",
+      "statement": "¿Cuál fue la causa principal del inicio de la Reforma Protestante en 1517?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deseo de los reyes de independizarse del Papa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una consecuencia, no la causa principal."
+        },
+        {
+          "letter": "B",
+          "text": "La crítica de Martín Lutero a la venta de indulgencias y a la corrupción de la Iglesia católica.",
+          "is_correct": true,
+          "feedback": "Correcto. Las 95 tesis de Lutero criticaban las indulgencias y la autoridad papal."
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento de América que trajo nuevas ideas religiosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación causal directa."
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la imprenta que difundió el islam en Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imprenta ayudó a difundir las ideas de Lutero, pero no el islam."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Reforma Protestante comenzó cuando Martín Lutero, un monje agustino alemán, publicó sus 95 tesis en 1517 criticando la venta de indulgencias (pago por la remisión de pecados) y otros abusos de la Iglesia católica. Lutero proponía la salvación por la fe, no por las obras, y la autoridad de la Biblia sobre la autoridad papal. La invención de la imprenta permitió una rápida difusión de sus ideas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v8",
+      "statement": "¿Cuál fue el impacto MÁS SIGNIFICATIVO de la imprenta en la Edad Moderna?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitió imprimir libros más baratos, pero solo para la nobleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abarató los libros para sectores más amplios, no solo la nobleza."
+        },
+        {
+          "letter": "B",
+          "text": "Hizo que la gente dejara de leer manuscritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue un \"reemplazo\" sino una revolución en la producción."
+        },
+        {
+          "letter": "C",
+          "text": "Democratizó el acceso al conocimiento y aceleró la difusión de nuevas ideas científicas y religiosas.",
+          "is_correct": true,
+          "feedback": "Correcto. La imprenta fue clave para el Renacimiento, la Reforma y la ciencia moderna."
+        },
+        {
+          "letter": "D",
+          "text": "Provocó el fin del latín como lengua escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El latín siguió usándose; se imprimieron obras en latín y lenguas vernáculas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La imprenta de tipos móviles inventada por Johannes Gutenberg (c. 1440) fue una de las innovaciones más importantes de la historia. Permitió producir libros en grandes cantidades a bajo costo, lo que democratizó el acceso al conocimiento. Sin la imprenta, la difusión del humanismo, las ideas de Lutero y los avances científicos del Renacimiento habrían sido mucho más lentos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v9",
+      "statement": "¿Cuál perspectiva es históricamente más precisa para describir el evento de 1492?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un descubrimiento, porque América no era conocida por los europeos.",
+          "is_correct": false,
+          "feedback": "Limitada. Es una perspectiva eurocéntrica."
+        },
+        {
+          "letter": "B",
+          "text": "Fue una invasión, porque los europeos conquistaron territorios habitados.",
+          "is_correct": false,
+          "feedback": "Válida, pero no captura toda la complejidad."
+        },
+        {
+          "letter": "C",
+          "text": "Fue un \"encuentro de dos mundos\" que reconoce que ambas culturas existían y que el resultado fue un proceso complejo de intercambio y conflicto.",
+          "is_correct": true,
+          "feedback": "Correcta. Es la perspectiva más equilibrada e inclusiva."
+        },
+        {
+          "letter": "D",
+          "text": "Fue una exploración pacífica que trajo progreso a América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora la violencia de la conquista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La historiografía contemporánea prefiere el término \"encuentro de dos mundos\" porque reconoce que América no estaba \"vacía\" o \"perdida\", sino habitada por civilizaciones complejas con sus propias historias. El término \"descubrimiento\" es eurocéntrico, mientras que el resultado del encuentro fue complejo: intercambio cultural y biológico (el llamado intercambio colombino), pero también violencia, imposición y resistencia.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes opciones describe correctamente un intercambio del \"intercambio colombino\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De América a Europa: caballos, trigo y vacas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos productos fueron de Europa a América."
+        },
+        {
+          "letter": "B",
+          "text": "De América a Europa: papa, tomate, maíz y cacao.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos son cultivos americanos llevados a Europa."
+        },
+        {
+          "letter": "C",
+          "text": "De Europa a América: cacao, tabaco y papa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son productos americanos, no europeos."
+        },
+        {
+          "letter": "D",
+          "text": "De América a Europa: café, arroz y plátano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos productos llegaron de África/Asia a América vía Europa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El intercambio colombino (término acuñado por Alfred Crosby) fue el intercambio masivo de plantas, animales, culturas y enfermedades entre América y el Viejo Mundo. De América fueron a Europa: papa, tomate, maíz, cacao, tabaco, frijol, ají, piña, aguacate, vainilla. De Europa a América: trigo, cebada, arroz, café, caballos, vacas, cerdos, ovejas, y también enfermedades devastadoras.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v11",
+      "statement": "¿Qué fue el Concilio de Trento (1545-1563)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una reunión de líderes protestantes para organizar su iglesia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un concilio de la Iglesia católica."
+        },
+        {
+          "letter": "B",
+          "text": "Un congreso de reyes europeos para dividir el Nuevo Mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso fue el Tratado de Tordesillas (1494)."
+        },
+        {
+          "letter": "C",
+          "text": "Un concilio de la Iglesia católica para responder a la Reforma Protestante y reformar sus prácticas.",
+          "is_correct": true,
+          "feedback": "Correcto. Trento definió la doctrina católica frente a la Reforma."
+        },
+        {
+          "letter": "D",
+          "text": "Un acuerdo de paz entre católicos y protestantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Paz de Augsburgo (1555) cumplió ese rol, no Trento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Concilio de Trento fue la respuesta de la Iglesia católica a la Reforma Protestante (Contrarreforma). Reafirmó doctrinas cuestionadas por los protestantes (como la transubstanciación y los siete sacramentos), prohibió la venta de indulgencias, ordenó la creación de seminarios para la formación de sacerdotes, y promovió las misiones en América y Asia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v12",
+      "statement": "¿Cuál fue el cambio MÁS TRANSFORMADOR de la Edad Moderna en la forma de entender el mundo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La expansión del comercio de especias.",
+          "is_correct": false,
+          "feedback": "Importante, pero no el más transformador en términos de cosmovisión."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo de la navegación a vela.",
+          "is_correct": false,
+          "feedback": "Fue un avance técnico, no una transformación del pensamiento."
+        },
+        {
+          "letter": "C",
+          "text": "La revolución científica que estableció la observación y la experimentación como base del conocimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La ciencia moderna cambió radicalmente la comprensión del universo."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de las primeras universidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las universidades existían desde la Edad Media."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revolución científica (Copérnico, Galileo, Kepler, Newton) transformó la forma de entender el mundo más profundamente que cualquier otro cambio. Pasó de una cosmovisión basada en la autoridad religiosa y Aristóteles a una basada en la observación empírica, la experimentación y las matemáticas. Copérnico demostró que la Tierra no era el centro del universo, Galileo usó el telescopio para confirmarlo y Newton formuló las leyes de la física que explicaban el movimiento celeste y terrestre.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

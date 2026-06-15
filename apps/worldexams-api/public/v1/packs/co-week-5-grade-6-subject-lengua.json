@@ -406,6 +406,406 @@
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v1",
+      "statement": "¿Cuál es la diferencia principal entre una oración simple y una oración compuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración simple tiene más palabras que la compuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de palabras no determina si es simple o compuesta."
+        },
+        {
+          "letter": "B",
+          "text": "La oración simple usa verbos y la compuesta no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pueden tener verbos."
+        },
+        {
+          "letter": "C",
+          "text": "La oración simple tiene un solo verbo (una sola proposición); la compuesta tiene dos o más verbos (dos o más proposiciones unidas).",
+          "is_correct": true,
+          "feedback": "Correcto. La oración simple expresa una sola idea con un verbo conjugado. La compuesta une dos o más proposiciones, cada una con su propio verbo."
+        },
+        {
+          "letter": "D",
+          "text": "La oración simple solo se usa en textos informales y la compuesta en textos formales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas se usan en todo tipo de textos, según la necesidad expresiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oración simple tiene un solo predicado (un verbo conjugado): \"Los estudiantes estudian.\" La oración compuesta tiene dos o más predicados: \"Los estudiantes estudian y los profesores califican.\" Identificar los verbos es la clave para distinguirlas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v2",
+      "statement": "¿Cuáles son las dos partes esenciales de toda oración simple?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artículo y verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no es parte esencial de la oración; puede no aparecer."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto y predicado.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda oración simple tiene un sujeto (de quién se habla) y un predicado (qué se dice del sujeto). El núcleo del sujeto es un sustantivo y el núcleo del predicado es un verbo."
+        },
+        {
+          "letter": "C",
+          "text": "Adjetivo y adverbio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son palabras modificadoras, no partes estructurales obligatorias de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Preposición y conjunción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son categorías gramaticales, no las partes estructurales de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda oración simple (bimembre) se divide en sujeto y predicado. El sujeto indica quién realiza la acción o de quién se habla; el predicado expresa la acción o estado. El núcleo del sujeto es un sustantivo o pronombre; el núcleo del predicado es un verbo conjugado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v3",
+      "statement": "¿Cuál de las siguientes es una oración SIMPLE?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los niños juegan en el parque mientras sus padres conversan.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos verbos (\"juegan\" y \"conversan\"), por lo tanto es una oración compuesta."
+        },
+        {
+          "letter": "B",
+          "text": "\"El bus de la ruta 32 llegó tarde esta mañana al colegio.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene un solo verbo conjugado (\"llegó\"), por lo tanto es una oración simple. El sujeto es \"El bus de la ruta 32\" y el predicado es \"llegó tarde esta mañana al colegio\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"Estudia para el examen porque mañana es la evaluación.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene dos verbos (\"estudia\" y \"es\"), es una oración compuesta coordinada."
+        },
+        {
+          "letter": "D",
+          "text": "\"Compré el libro, pero no me gustó.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene dos verbos (\"compré\" y \"gustó\"), unidos por \"pero\", por lo tanto es compuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar si una oración es simple, busca los verbos conjugados. Si solo hay UNO, es simple. Si hay DOS o MÁS, es compuesta. En la opción correcta, \"llegó\" es el único verbo; las otras opciones tienen dos verbos cada una.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v4",
+      "statement": "Une estas dos oraciones simples en una oración compuesta: \"El profesor explicó la lección. Los estudiantes tomaron apuntes.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El profesor explicó la lección, los estudiantes tomaron apuntes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se entiende, falta el conector; usar solo una coma sin conector no es gramaticalmente correcto."
+        },
+        {
+          "letter": "B",
+          "text": "El profesor explicó la lección los estudiantes tomaron apuntes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción elimina cualquier signo de puntuación."
+        },
+        {
+          "letter": "C",
+          "text": "El profesor explicó la lección y los estudiantes tomaron apuntes.",
+          "is_correct": true,
+          "feedback": "Correcto. La conjunción \"y\" une las dos oraciones simples formando una oración compuesta coordinada copulativa."
+        },
+        {
+          "letter": "D",
+          "text": "El profesor explicó la lección porque los estudiantes tomaron apuntes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" introduce una causa, pero la relación entre las oraciones originales es de adición, no de causalidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones compuestas se forman uniendo dos o más oraciones simples mediante conectores (conjunciones). Las coordinadas copulativas usan \"y\", \"e\", \"ni\" para sumar ideas. Las coordinadas adversativas usan \"pero\", \"mas\", \"sino\" para contrastar. Las subordinadas usan \"que\", \"porque\", \"cuando\", \"si\", etc.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v5",
+      "statement": "Analiza la oración: \"María estudia en la biblioteca y Pedro juega fútbol, pero ambos llegarán tarde a casa.\"\n¿Cuántas proposiciones (oraciones simples) contiene?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 proposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más de un verbo."
+        },
+        {
+          "letter": "B",
+          "text": "2 proposiciones: \"María estudia\" y \"Pedro juega\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. También hay un tercer verbo: \"llegarán\"."
+        },
+        {
+          "letter": "C",
+          "text": "3 proposiciones: \"María estudia en la biblioteca\", \"Pedro juega fútbol\", \"ambos llegarán tarde a casa\".",
+          "is_correct": true,
+          "feedback": "Correcto. Hay tres verbos conjugados (\"estudia\", \"juega\", \"llegarán\"), cada uno forma una proposición unida por los conectores \"y\" y \"pero\"."
+        },
+        {
+          "letter": "D",
+          "text": "4 proposiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo hay tres verbos, por lo tanto tres proposiciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada verbo conjugado en una oración compuesta representa una proposición. En esta oración hay tres verbos (\"estudia\", \"juega\", \"llegarán\") unidos por \"y\" (copulativa) y \"pero\" (adversativa). Es una oración compuesta mixta porque combina diferentes tipos de coordinación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v6",
+      "statement": "¿Qué tipo de oración compuesta es: \"Estudia mucho, porque mañana tienes el examen\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinada copulativa (suma ideas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" no suma ideas, las explica causalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinada adversativa (opone ideas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" no opone, explica la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada causal (una proposición explica la causa de la otra).",
+          "is_correct": true,
+          "feedback": "Correcto. \"Porque mañana tienes el examen\" explica la causa de \"estudia mucho\". La proposición subordinada depende de la principal."
+        },
+        {
+          "letter": "D",
+          "text": "Coordinada disyuntiva (presenta opciones).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disyuntiva usa \"o\", \"u\", no \"porque\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones compuestas se clasifican en: coordinadas (unidas por conjunciones coordinantes: y, pero, o), y subordinadas (una proposición depende de otra). Las subordinadas causales usan \"porque\", \"ya que\", \"pues\" para indicar la razón de la acción principal.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v7",
+      "statement": "Transforma las siguientes oraciones simples en una oración compuesta coherente: \"Llovió toda la noche. El río se desbordó. La comunidad se evacuó a tiempo.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llovió toda la noche, el río se desbordó, la comunidad se evacuó a tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comas solas no son suficientes para unir correctamente tres proposiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Llovió toda la noche, por lo que el río se desbordó, pero la comunidad se evacuó a tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Por lo que\" indica consecuencia y \"pero\" indica contraste, creando una relación lógica y coherente entre las tres ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Llovió toda la noche y el río se desbordó y la comunidad se evacuó a tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es gramatical, el uso repetido de \"y\" no refleja las relaciones de causa y contraste entre las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Llovió toda la noche porque el río se desbordó y la comunidad se evacuó a tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" implica que el desbordamiento fue la causa de la lluvia, lo cual es ilógico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir el conector adecuado es clave para dar coherencia a las oraciones compuestas. La relación lógica entre las ideas determina el conector: causa-efecto (\"por lo que\", \"por tanto\"), contraste (\"pero\", \"sin embargo\"), adición (\"y\", \"además\"), etc. Un buen escritor elige los conectores con cuidado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v8",
+      "statement": "Lee: \"La Selección Colombia jugó bien, pero no logró clasificar. Los jugadores estaban tristes, aunque el pueblo colombiano los aplaudió.\" ¿Qué tipo de oración compuesta predomina?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinada copulativa, porque acumula información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pero\" y \"aunque\" no son copulativos."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinada adversativa (primer \"pero\") y subordinada concesiva (segundo \"aunque\").",
+          "is_correct": true,
+          "feedback": "Correcto. \"Pero\" indica oposición entre jugar bien y no clasificar. \"Aunque\" introduce una concesión: a pesar de la tristeza, el público aplaudió."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada causal, porque todo tiene una causa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de causa-efecto expresada con \"porque\"."
+        },
+        {
+          "letter": "D",
+          "text": "Coordinada disyuntiva, porque presenta opciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay opciones expresadas con \"o\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones adversativas (\"pero\", \"mas\", \"sino\") expresan oposición o contraste entre ideas. Las concesivas (\"aunque\", \"a pesar de que\") expresan una dificultad que no impide que ocurra la acción principal. Reconocer estos matices es parte del análisis sintáctico avanzado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v9",
+      "statement": "Un estudiante escribió: \"Fui al estadio y vi el partido y mi papá me compró una camiseta y la Selección Colombia ganó.\"\n¿Qué problema presenta esta oración compuesta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración es demasiado corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración es larga pero no por eso es incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene verbo principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los verbos están conjugados correctamente."
+        },
+        {
+          "letter": "C",
+          "text": "Abusa del conector \"y\" (polisíndeton excesivo) sin establecer relaciones lógicas entre las ideas, creando un efecto de lista sin jerarquía.",
+          "is_correct": true,
+          "feedback": "Correcto. Usar \"y\" cuatro veces seguidas convierte la oración en una lista plana de eventos. Es mejor usar conectores que reflejen las relaciones reales: \"cuando\", \"mientras\", \"además\", etc."
+        },
+        {
+          "letter": "D",
+          "text": "Las comas están mal colocadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comas en la oración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso excesivo de \"y\" (polisíndeton) empobrece la escritura. Es mejor variar los conectores según la relación entre las ideas. Por ejemplo: \"Fui al estadio donde vi el partido; mientras tanto, mi papá me compró una camiseta. Para completar la tarde, la Selección Colombia ganó.\" Así la redacción es más madura y clara.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-v10",
+      "statement": "Un estudiante quiere describir la Semana Santa en Popayán usando oraciones variadas. ¿Cuál de los siguientes textos demuestra MEJOR uso de oraciones simples y compuestas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Procesión. Faroles. Gente. Música. Devoción.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque son oraciones, son solo palabras sueltas sin estructura gramatical completa."
+        },
+        {
+          "letter": "B",
+          "text": "\"La Semana Santa en Popayán es hermosa y la gente sale a las calles y las procesiones recorren el centro y los faroles iluminan todo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abusa de \"y\" y no contrasta ni jerarquiza las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las procesiones de Semana Santa recorren las calles empedradas de Popayán. Los faroles de cera alumbran el camino mientras los fieles cantan. Es una tradición que el mundo entero admira.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Combina oraciones simples (\"Las procesiones recorren...\") y compuestas (\"mientras los fieles cantan\", \"que el mundo entero admira\"), variando la estructura y creando un texto fluido y descriptivo."
+        },
+        {
+          "letter": "D",
+          "text": "\"Popayán es una ciudad del Cauca que tiene procesiones y faroles y cantos.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aprovecha la variedad de estructuras disponibles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen escritor alterna oraciones simples (para claridad y énfasis) con oraciones compuestas (para mostrar relaciones entre ideas). El texto de la opción C combina una oración simple inicial, una compuesta coordinada con \"mientras\", y una compuesta subordinada con \"que\", logrando un ritmo narrativo agradable y variado.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W05-oracion-simple-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null
     }
   ]
 }

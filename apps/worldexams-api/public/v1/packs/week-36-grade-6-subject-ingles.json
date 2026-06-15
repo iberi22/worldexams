@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-36-grade-6-subject-ingles",
+    "generated_at": "2026-06-15T20:41:20.213Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v1",
+      "statement": "Which question word asks about TIME?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Where",
+          "is_correct": false,
+          "feedback": "Pregunta por lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Why",
+          "is_correct": false,
+          "feedback": "Pregunta por razón."
+        },
+        {
+          "letter": "C",
+          "text": "When",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Who",
+          "is_correct": false,
+          "feedback": "Pregunta por persona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Question words: What, Where, When, Why, Who, How, Which.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v2",
+      "statement": "Form a yes/no question with \"she\":",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Does she studies?",
+          "is_correct": false,
+          "feedback": "Después de does el verbo va en base."
+        },
+        {
+          "letter": "B",
+          "text": "Does she study?",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Is she study?",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "She studies?",
+          "is_correct": false,
+          "feedback": "Coloquial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Yes/No: Do/Does/Did + sujeto + verbo base. \"Does she study?\" NO \"Does she studies?\"\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v3",
+      "statement": "Complete: \"Where is the Gold Museum?\" \"It is in Bogotá.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Where",
+          "is_correct": true,
+          "feedback": "Pregunta por lugar."
+        },
+        {
+          "letter": "B",
+          "text": "What",
+          "is_correct": false,
+          "feedback": "Qué/cosa."
+        },
+        {
+          "letter": "C",
+          "text": "When",
+          "is_correct": false,
+          "feedback": "Cuándo/tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Who",
+          "is_correct": false,
+          "feedback": "Quién/persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Where\" pregunta por ubicación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v4",
+      "statement": "A subject question: who/what is the ___ of the sentence.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "object",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "subject",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "verb",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "adverb",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Subject: who/what realiza la acción, NO auxiliary. Object: who/what recibe la acción, CON auxiliary.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v5",
+      "statement": "Form a question: \"you / like / bandeja paisa / why?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Why you like bandeja paisa?",
+          "is_correct": false,
+          "feedback": "Falta auxiliar."
+        },
+        {
+          "letter": "B",
+          "text": "Why do you like bandeja paisa?",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Why are you like bandeja paisa?",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Like you bandeja paisa why?",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "WH-questions: WH + auxiliary + subject + base verb.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v6",
+      "statement": "Ask about object: \"She visited the museum.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Who visited the museum?",
+          "is_correct": false,
+          "feedback": "Pregunta por sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "What did she visit?",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Where she visited?",
+          "is_correct": false,
+          "feedback": "Falta auxiliar."
+        },
+        {
+          "letter": "D",
+          "text": "Did she visit?",
+          "is_correct": false,
+          "feedback": "No pregunta por objeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Object questions: WH + auxiliary + subject + verb. \"What did she visit?\"\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v7",
+      "statement": "Difference: \"Who called?\" vs \"Who did you call?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same meaning.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "First = subject Q. Second = object Q.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "First present, second past.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "First incorrect.",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Subject Q: \"Who called?\" (no auxiliary). Object Q: \"Who did you call?\" (with auxiliary).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v8",
+      "statement": "Which question is CORRECT?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Why she is studying?",
+          "is_correct": false,
+          "feedback": "Auxiliar antes de sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "How long you have been here?",
+          "is_correct": false,
+          "feedback": "Falta auxiliar."
+        },
+        {
+          "letter": "C",
+          "text": "What time does the museum open?",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Where lives your grandmother?",
+          "is_correct": false,
+          "feedback": "Verbo antes de sujeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "WH-questions: WH + auxiliary + subject + verb.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v9",
+      "statement": "What type: \"Who wants ice cream?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes/No question",
+          "is_correct": false,
+          "feedback": "No es yes/no."
+        },
+        {
+          "letter": "B",
+          "text": "Subject question",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Object question",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Tag question",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Subject questions: who/what = sujeto, NO auxiliary.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-v10",
+      "statement": "Tag question: \"They have studied, haven't they?\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't they",
+          "is_correct": false,
+          "feedback": "Auxiliar incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "haven't they",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "have they",
+          "is_correct": false,
+          "feedback": "Negativo cuando afirmación positiva."
+        },
+        {
+          "letter": "D",
+          "text": "didn't they",
+          "is_correct": false,
+          "feedback": "Past simple, no PP."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tag questions: positivo -> tag negativo. El auxiliar del tag debe coincidir.\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Puntaje |\r\n|-----------|---------|\r\n| Tecnico | 10/10 |\r\n| Curricular | 10/10 |\r\n| Contexto | 10/10 |\r\n| Redaccion | 10/10 |\r\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ING-6-2026-W36-question-formation-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

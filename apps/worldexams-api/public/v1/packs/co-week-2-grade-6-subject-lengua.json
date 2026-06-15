@@ -406,6 +406,406 @@
       "periodo": 2,
       "protocol_version": "5.2",
       "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v1",
+      "statement": "¿Cuál es la principal característica de una fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto extenso que narra las hazañas de un héroe mitológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la característica de la épica o la epopeya, no de la fábula."
+        },
+        {
+          "letter": "B",
+          "text": "Es una narración breve con personajes animales que actúan como humanos y deja una enseñanza llamada moraleja.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula es breve, sus personajes suelen ser animales humanizados, y siempre tiene una moraleja o enseñanza explícita al final."
+        },
+        {
+          "letter": "C",
+          "text": "Es una obra de teatro escrita para ser representada en tres actos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de una obra teatral, no de una fábula."
+        },
+        {
+          "letter": "D",
+          "text": "Es un poema extenso que utiliza versos y rima para contar una historia de amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a un poema épico o una novela en verso, no a una fábula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fábula es un subgénero narrativo breve, con personajes que suelen ser animales u objetos personificados, y que termina con una moraleja explícita. Su propósito es didáctico: enseñar una lección sobre el comportamiento humano. Esopo y Samaniego son autores clásicos de fábulas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v2",
+      "statement": "En la fábula \"La Cigarra y la Hormiga\", la cigarra pasa el verano cantando mientras la hormiga trabaja acumulando alimentos. Cuando llega el invierno, la cigarra no tiene qué comer. ¿Cuál es la moraleja de esta fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canto es una pérdida de tiempo y solo los silenciosos triunfan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja no es que cantar sea malo, sino que hay que saber trabajar antes de divertirse."
+        },
+        {
+          "letter": "B",
+          "text": "Quien trabaja con anticipación no pasa necesidad; la previsión y el esfuerzo son importantes para el futuro.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula enseña que el trabajo constante y la previsión son necesarios para enfrentar momentos difíciles."
+        },
+        {
+          "letter": "C",
+          "text": "Los animales no deben cantar porque molesta a las hormigas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja va más allá de lo literal; es una enseñanza sobre la conducta humana."
+        },
+        {
+          "letter": "D",
+          "text": "El verano es mejor que el invierno para almacenar comida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta interpretación es demasiado literal y no capta la enseñanza moral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moraleja de una fábula es la enseñanza explícita que el autor quiere transmitir. En \"La Cigarra y la Hormiga\" de Esopo, la enseñanza es que la previsión, el trabajo constante y la responsabilidad son virtudes necesarias para la vida.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v3",
+      "statement": "Lee el fragmento: \"Un ratón pequeñito cayó accidentalmente bajo la pata de un león. El león, al verlo tan indefenso, lo dejó ir. Días después, el león cayó en una red de cazadores. El ratón, recordando la bondad del león, royó las cuerdas de la red y lo liberó.\" ¿Qué enseñanza transmite principalmente esta fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los leones no deben confiar en los ratones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enseñanza es más profunda que una simple desconfianza."
+        },
+        {
+          "letter": "B",
+          "text": "Ningún acto de bondad, por pequeño que sea, queda sin recompensa.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula enseña que la bondad y la gratitud trascienden el tamaño o la fuerza; hasta el más pequeño puede ayudar al más grande."
+        },
+        {
+          "letter": "C",
+          "text": "Los ratones son más inteligentes que los leones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fábula no compara inteligencia sino que resalta el valor de la gratitud."
+        },
+        {
+          "letter": "D",
+          "text": "Es mejor estar solo que mal acompañado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa no es la enseñanza de esta fábula en particular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"El León y el Ratón\" enseña que la bondad y la gratitud no dependen del tamaño ni del poder. Todos podemos ayudar a los demás, sin importar nuestra condición. Esta fábula también nos recuerda que las acciones generosas tienen consecuencias positivas inesperadas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v4",
+      "statement": "Si un estudiante quiere escribir una fábula sobre la importancia de la honestidad, ¿cuál de los siguientes personajes y situaciones sería el más apropiado?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un niño que le dice la verdad a su mamá sobre un plato roto y ella lo castiga de todas formas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque promueve la honestidad, los personajes humanos y la falta de moraleja positiva no son típicos de la fábula."
+        },
+        {
+          "letter": "B",
+          "text": "Una tortuga que encuentra una bolsa de monedas en el camino y, a pesar de tener hambre, la devuelve a su dueño. Al final, el dueño la recompensa generosamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene personaje animal, una situación moral clara y una moraleja positiva: la honestidad siempre trae buenas consecuencias."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo de estudiantes que decide copiar en un examen y todos obtienen malas calificaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los personajes son humanos y la fábula clásica usa animales u objetos humanizados."
+        },
+        {
+          "letter": "D",
+          "text": "Un perro que le roba el hueso a otro perro y se queda dormido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tiene animal, no hay una moraleja clara que enseñe sobre honestidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para crear una fábula se necesitan: 1) personajes animales u objetos personificados, 2) una situación problemática con una elección moral, y 3) una moraleja explícita al final. La fábula es un recurso didáctico maravilloso para enseñar valores a los estudiantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v5",
+      "statement": "¿Qué diferencia fundamental existe entre las fábulas de Esopo (griego antiguo) y las fábulas de Rafael Pombo (colombiano)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las de Esopo son más largas y las de Pombo son más cortas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es la diferencia fundamental entre ambos autores."
+        },
+        {
+          "letter": "B",
+          "text": "Esopo escribía en verso y Pombo en prosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esopo escribía en prosa, mientras que Pombo escribía muchas de sus fábulas y cuentos en verso."
+        },
+        {
+          "letter": "C",
+          "text": "Esopo escribía en prosa con moraleja explícita; Pombo adaptó el formato al contexto colombiano, a menudo en verso, con moraleja pero también con un tono más lúdico y cercano a los niños.",
+          "is_correct": true,
+          "feedback": "Correcto. Pombo, como escritor colombiano del siglo XIX, creó una obra con identidad propia que refleja la fauna y el contexto colombiano, manteniendo la estructura de fábula."
+        },
+        {
+          "letter": "D",
+          "text": "Esopo usaba animales colombianos, Pombo usaba animales africanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esopo usaba animales del Mediterráneo, y Pombo usaba animales reconocibles en Colombia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Rafael Pombo (1833-1912) es el fabulista colombiano más importante. Sus \"Cuentos Pintados\" y \"Cuentos Morales para Niños Formales\" adaptaron el género de la fábula al contexto colombiano, usando animales locales y situaciones cotidianas. Obras como \"El Gato Bandido\" y \"Simón El Bobito\" son clásicos de la literatura infantil colombiana.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v6",
+      "statement": "¿Cuál es la razón principal por la que las fábulas utilizan animales que hablan y actúan como humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los niños entienden mejor a los animales que a las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque atrae a los niños, no es la razón principal de la tradición del género."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al usar animales, la crítica o enseñanza no se dirige directamente a una persona o grupo, lo que permite reflexionar sin sentirse atacado.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de animales humanizados permite presentar defectos humanos de manera indirecta, haciendo la crítica más aceptable y universal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los autores no querían ofender a sus gobernantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede aplicarse en algunos casos, esa no es la explicación general del género."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los animales son más entretenidos que las personas en las historias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito no es solo entretener sino enseñar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La personificación de animales en fábulas es un recurso literario que permite presentar vicios y virtudes humanas (la vanidad, la pereza, la honestidad, la astucia) de manera universal y sin señalar directamente a nadie. Esto hace que la enseñanza sea más objetiva y aplicable a cualquier persona.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v7",
+      "statement": "Lee la siguiente fábula: \"Un gato muy perezoso pasaba todo el día durmiendo mientras su amigo el perro cuidaba la casa. Una noche, un ladrón entró y se llevó todo. El gato no había hecho nada para evitarlo.\" ¿Cuál es la moraleja más apropiada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los perros son mejores guardianes que los gatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conclusión demasiado literal y no capta la enseñanza universal."
+        },
+        {
+          "letter": "B",
+          "text": "Quien no cumple con sus responsabilidades puede sufrir las consecuencias de su negligencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La moraleja enseña que todos tenemos responsabilidades y no cumplirlas puede tener consecuencias graves para todos."
+        },
+        {
+          "letter": "C",
+          "text": "Los ladrones siempre ganan si los gatos son perezosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta interpretación es demasiado literal y no es una enseñanza moral universal."
+        },
+        {
+          "letter": "D",
+          "text": "Dormir mucho es malo para la salud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce la enseñanza a un consejo de salud, ignorando la lección sobre responsabilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moraleja de una fábula es universal, no literal. No se trata de que los gatos sean perezosos, sino de que todas las personas tienen responsabilidades que cumplir. Ignorarlas puede afectar no solo a quien las evade sino también a los demás.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v8",
+      "statement": "¿Cuál es la estructura narrativa típica de una fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio nudo y desenlace sin moraleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la fábula tiene estas partes, la moraleja es un elemento distintivo y obligatorio."
+        },
+        {
+          "letter": "B",
+          "text": "Planteamiento, conflicto, clímax, desenlace y epílogo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa estructura es más propia de una novela o cuento extenso."
+        },
+        {
+          "letter": "C",
+          "text": "Situación inicial, acción que muestra una conducta (positiva o negativa), consecuencia de esa acción, y moraleja explícita al final.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula presenta una situación, una acción con una enseñanza, su consecuencia, y cierra con la moraleja que resume la lección."
+        },
+        {
+          "letter": "D",
+          "text": "Diálogo entre dos personajes sin narrador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede haber diálogo, la fábula siempre tiene un narrador que guía la historia y presenta la moraleja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura de la fábula es simple: presenta personajes (animales humanizados), una situación con una elección moral, las consecuencias de esa elección, y finaliza con una moraleja explícita. Esta estructura la hace ideal para la enseñanza de valores en el aula.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v9",
+      "statement": "\"El Renacuajo Paseador\" de Rafael Pombo cuenta la historia de un renacuajo desobediente que, a pesar de las advertencias de su mamá, sale a pasear y termina siendo devorado por una garza. ¿Por qué este relato PUEDE considerarse una fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque está escrito en verso y tiene animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener animales en verso no es suficiente; muchos poemas tienen animales y no son fábulas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un cuento tradicional colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser tradicional no lo convierte automáticamente en fábula."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene personajes animales humanizados, presenta una conducta (desobediencia), muestra sus consecuencias negativas, y deja una enseñanza implícita sobre la obediencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque Pombo no siempre escriba moralejas explícitas, la estructura y propósito didáctico son propios de la fábula. La enseñanza sobre la obediencia a los padres es clara."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es un cuento moral para niños formales, como dice el título del libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título del libro sugiere su propósito, pero la clasificación como fábula requiere analizar sus elementos estructurales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"El Renacuajo Paseador\" de Rafael Pombo es un ejemplo de fábula colombiana en verso. Aunque no tiene una moraleja explícita como las fábulas clásicas de Esopo, cumple con los elementos esenciales: personajes animales humanizados, una conducta negativa (desobediencia) y sus consecuencias (muerte), dejando una enseñanza moral clara.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-v10",
+      "statement": "Un estudiante presenta la siguiente fábula: \"Un zorro muy astuto siempre se burlaba del conejo por ser lento. Un día, el zorro cayó en una trampa de cazadores. El conejo, a pesar de los insultos, ayudó al zorro a escapar royendo la cuerda. El zorro aprendió que la astucia sin bondad no vale nada.\" ¿Qué recurso literario NO está presente en esta fábula?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación (animales que actúan como humanos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí está presente: el zorro es astuto y se burla, el conejo ayuda, comportamientos humanos."
+        },
+        {
+          "letter": "B",
+          "text": "Moraleja o enseñanza explícita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí está presente: \"la astucia sin bondad no vale nada\" es la moraleja."
+        },
+        {
+          "letter": "C",
+          "text": "Ambientación en un lugar real de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula no especifica un lugar real colombiano; la ambientación es genérica (un bosque sin nombre), lo cual es propio de las fábulas clásicas, no de las adaptaciones colombianas."
+        },
+        {
+          "letter": "D",
+          "text": "Conflicto entre dos personajes con valores opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí está presente: el zorro representa la astucia negativa y el conejo la bondad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para crear una fábula con identidad colombiana, se puede añadir una ambientación local (el bosque de niebla de la Cordillera, la selva Amazónica, el desierto de La Guajira) y usar animales propios de Colombia (danta, tití, guacamaya, oso de anteojos) en lugar de animales genéricos. Esto enriquece la tradición fabulística colombiana.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W02-fabula-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null
     }
   ]
 }
