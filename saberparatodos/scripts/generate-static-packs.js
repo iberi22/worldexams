@@ -7,15 +7,15 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, "..");
 const QUESTIONS_DATA_ROOT = path.join(ROOT, "..", "questions_data");
-const OUTPUT_DIRS = [
-  path.join(ROOT, "public", "api", "packs"),
-  path.join(ROOT, "..", "apps", "worldexams-api", "public", "v1", "packs"),
-];
-
 const args = process.argv.slice(2);
 let targetPeriod = 1;
 const generateAllWeekly = args.includes("--all-weekly");
 const changedOnly = args.includes("--changed-only");
+const apiOnly = args.includes("--api-only");
+const OUTPUT_DIRS = [
+  !apiOnly ? path.join(ROOT, "public", "api", "packs") : null,
+  path.join(ROOT, "..", "apps", "worldexams-api", "public", "v1", "packs"),
+].filter(Boolean);
 const periodIdx = args.indexOf("--period");
 if (periodIdx !== -1 && args[periodIdx + 1]) {
   targetPeriod = parseInt(args[periodIdx + 1]);
@@ -337,15 +337,39 @@ const version = packageJson.version || "1.0.0";
 for (const outputDir of OUTPUT_DIRS) {
   for (const [key, data] of Object.entries(packs)) {
     const outputPath = path.join(outputDir, `${key}.json`);
-    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+    const outputData = JSON.parse(JSON.stringify(data));
+    if (fs.existsSync(outputPath)) {
+      try {
+        const existingPack = JSON.parse(fs.readFileSync(outputPath, "utf8"));
+        if (existingPack?.metadata?.generated_at) {
+          outputData.metadata.generated_at = existingPack.metadata.generated_at;
+        }
+      } catch (e) {
+        console.error(`Error reading existing pack metadata: ${e.message}`);
+      }
+    }
+    fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2));
     console.log(
-      `Generated ${outputPath} with ${data.questions.length} questions`,
+      `Generated ${outputPath} with ${outputData.questions.length} questions`,
     );
   }
 
+  const currentPath = path.join(outputDir, "current.json");
+  let lastUpdate = new Date().toISOString();
+  if (fs.existsSync(currentPath)) {
+    try {
+      const existingCurrent = JSON.parse(fs.readFileSync(currentPath, "utf8"));
+      if (existingCurrent?.last_update) {
+        lastUpdate = existingCurrent.last_update;
+      }
+    } catch (e) {
+      console.error(`Error reading existing current.json: ${e.message}`);
+    }
+  }
+
   fs.writeFileSync(
-    path.join(outputDir, "current.json"),
-    JSON.stringify({ version, last_update: new Date().toISOString() }, null, 2),
+    currentPath,
+    JSON.stringify({ version, last_update: lastUpdate }, null, 2),
   );
 
   let allPacks = Object.keys(packs);

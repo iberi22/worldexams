@@ -11,6 +11,10 @@
     "tests"
   ],
   "scripts": {
+    "prepare": "git config core.hooksPath .husky",
+    "husky:install": "git config core.hooksPath .husky",
+    "guard:staged": "node scripts/husky-guard.mjs --staged",
+    "guard:changed": "node scripts/husky-guard.mjs --changed",
     "validate": "node scripts/validate-bundles-v52.mjs",
     "dev": "npm run dev:landing-worldexams",
     "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
