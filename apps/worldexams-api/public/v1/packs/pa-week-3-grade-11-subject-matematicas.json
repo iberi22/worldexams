@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T20:35:33.992Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "En la expresión algebraica $5x^3 - 4y + 7$, ¿cuál es el coeficiente del segundo término?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo que precede al número forma parte del coeficiente del término."
+        },
+        {
+          "letter": "B",
+          "text": "-4",
+          "is_correct": true,
+          "feedback": "Correcto. El segundo término es -4y, por lo tanto su coeficiente numérico es -4."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el coeficiente del primer término (x^3)."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el término independiente, no un coeficiente de una variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los elementos básicos de una expresión algebraica (términos y coeficientes).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor numérico de la expresión $3a - 2b$ si $a = 4$ y $b = -3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente se cometió un error en el signo al multiplicar por el valor negativo de b."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo: 3(4) - 2(-3) = 12 + 6 = 18."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación aritmética básica tras la sustitución de valores."
+        },
+        {
+          "letter": "D",
+          "text": "-18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en el cálculo del resultado final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo del valor numérico de una expresión algebraica mediante la sustitución de variables por valores reales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el grado absoluto del polinomio $P(x, y) = 4x^2y^3 - 7xy^5 + 2$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el grado relativo a la variable x en el primer término."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el grado relativo a la variable y en el segundo término."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. El grado absoluto es la mayor suma de exponentes de las variables en un término. Aquí, 1 + 5 = 6."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron todos los exponentes del polinomio, lo cual no define el grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Definición y determinación del grado absoluto de un polinomio multivariable.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la traducción al lenguaje algebraico de la frase: \"El triple del cuadrado de un número, disminuido en cinco\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3x)^2 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión representa el cuadrado del triple de un número."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Triple indica multiplicar por 3, cuadrado de un número es x^2, y disminuido en cinco es -5."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x - 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión representa el triple del cuadrado de la diferencia entre un número y cinco."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2/3 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría la tercera parte del cuadrado, no el triple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Traducción de enunciados en lenguaje natural a expresiones en lenguaje algebraico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "Simplifica los términos semejantes de la expresión: $8x^2 - 3x + 5 - 2x^2 + 7x - 9$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10x^2 + 4x - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los términos de x^2 en lugar de restarlos."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2 + 4x - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. (8-2)x^2 + (-3+7)x + (5-9) = 6x^2 + 4x - 4."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 10x + 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores de signos al operar con los términos lineales e independientes."
+        },
+        {
+          "letter": "D",
+          "text": "$6x^4 + 4x^2 - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar términos semejantes, los exponentes de las variables permanecen iguales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reducción de términos semejantes en una expresión polinómica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "Realiza la suma de los polinomios: $P(x) = 3x^2 - 5x + 2$ y $Q(x) = 2x^2 + 8x - 7$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x^4 + 3x^2 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben sumar los exponentes al realizar la adición de polinomios."
+        },
+        {
+          "letter": "B",
+          "text": "$5x^2 - 13x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores en la suma algebraica de los coeficientes de los términos."
+        },
+        {
+          "letter": "C",
+          "text": "$5x^2 + 3x - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. (3+2)x^2 + (-5+8)x + (2-7) = 5x^2 + 3x - 5."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 3x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar los términos cuadráticos de ambos polinomios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Operación de adición de polinomios identificando y sumando coeficientes de términos con el mismo grado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "Resta el polinomio $(2x^2 - 4x + 1)$ del polinomio $(5x^2 + 3x - 6)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + 7x - 7$",
+          "is_correct": true,
+          "feedback": "Correcto. (5-2)x^2 + (3-(-4))x + (-6-1) = 3x^2 + 7x - 7."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 - x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplicó el cambio de signo necesario a los términos del sustraendo."
+        },
+        {
+          "letter": "C",
+          "text": "$7x^2 - x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los polinomios en lugar de restarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 + 7x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de los términos independientes del polinomio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Operación de sustracción de polinomios aplicando la regla del opuesto al sustraendo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el resultado de multiplicar $(x + 4)(x - 3)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitieron los términos cruzados resultantes de la distribución completa."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. x*x - 3x + 4x - 12 = x^2 + x - 12."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 7x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los valores absolutos de las constantes en lugar de considerar sus signos."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los binomios en lugar de multiplicarlos como se pedía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicación de binomios aplicando la propiedad distributiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Si el lado de un cubo mide $(x + 2)$, ¿cuál es la expresión para su volumen tras desarrollar el cubo del binomio?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se elevaron los términos individuales, ignorando los términos intermedios del desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando (a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 4x^2 + 4x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los coeficientes constantes de los términos intermedios."
+        },
+        {
+          "letter": "D",
+          "text": "$3x + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la expresión por 3 en lugar de elevarla a la potencia cúbica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desarrollo del producto notable \"cubo de un binomio\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "Realiza la división de monomios: $\\frac{12x^5 y^3}{4x^2 y}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^7 y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los exponentes en lugar de restarlos durante el proceso de división."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^3 y^2$",
+          "is_correct": true,
+          "feedback": "Correcto. 12/4 = 3, x^{5-2} = x^3, y^{3-1} = y^2."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^3 y^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron los coeficientes numéricos en lugar de dividirlos."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 y^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar con los exponentes de las variables correspondientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "División de monomios aplicando las leyes fundamentales de los exponentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "Simplifica la expresión algebraica racional: $\\frac{x^2 - 16}{x - 4}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al factorizar la diferencia de cuadrados, se cancela el factor del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. x^2 - 16 = (x+4)(x-4). Al dividir entre (x-4) queda el factor restante x+4."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación algebraica de la fracción."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intentó cancelar la variable x de manera matemáticamente inválida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de expresiones racionales mediante la factorización de polinomios.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "Al dividir $x^2 + 5x + 6$ entre $x + 2$, ¿cuál es el cociente resultante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el divisor; el cociente debe ser el factor que completa el trinomio."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. (x+2)(x+3) = x^2 + 5x + 6, por lo que el cociente es x+3."
+        },
+        {
+          "letter": "C",
+          "text": "$x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar por el divisor no se recupera el polinomio original."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el proceso de división o en la factorización del trinomio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejecución de la división de un polinomio entre un binomio lineal.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el residuo de dividir $x^3 - 2x^2 + 3x - 5$ entre $x - 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar el valor x=1 en la expresión del polinomio."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo no es nulo, indicando que el binomio no es un factor exacto."
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Correcto. Por el Teorema del Residuo, P(1) = 1 - 2 + 3 - 5 = -3."
+        },
+        {
+          "letter": "D",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se consideró el valor del término independiente del dividendo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación del Teorema del Residuo para hallar el resto de una división polinómica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v14",
+      "statement": "Simplifica totalmente la expresión: $\\left(\\frac{2x^2}{y}\\right)^3 \\cdot \\frac{y^2}{4x^4}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al elevar el coeficiente al cubo y al operar con las potencias."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2x^2}{y}$",
+          "is_correct": true,
+          "feedback": "Correcto. (8x^6 / y^3) * (y^2 / 4x^4) = 2 x^{6-4} y^{2-3} = 2x^2 / y."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{2y}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división de los coeficientes numéricos finales."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^{10} y^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron exponentes en lugar de aplicar las leyes de división."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de expresiones algebraicas complejas utilizando leyes de exponentes y fracciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v15",
+      "statement": "Desarrolla la expresión $(2a + 3b)(2a - 3b)$ y determina su resultado simplificado.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4a^2 + 9b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de cuadrados, no el resultado de una diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "$4a^2 - 9b^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando (A+B)(A-B) = A^2 - B^2, resulta 4a^2 - 9b^2."
+        },
+        {
+          "letter": "C",
+          "text": "$4a^2 - 12ab + 9b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el desarrollo de un binomio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$2a^2 - 3b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó elevar los coeficientes numéricos a la potencia dos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del producto notable \"producto de la suma por la diferencia de dos cantidades\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor del término independiente en el desarrollo de $(x - 1)(x + 2)(x - 3)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente solo se multiplicaron los primeros dos términos constantes."
+        },
+        {
+          "letter": "B",
+          "text": "-6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de los signos al realizar la multiplicación."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. El término independiente es el producto de todas las constantes: (-1) * 2 * (-3) = 6."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las constantes es nula, por lo que su producto no es cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación del término independiente en el producto de varios binomios lineales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v17",
+      "statement": "Simplifica la fracción compleja: $\\frac{1 + \\frac{1}{x}}{1 - \\frac{1}{x^2}}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se completó la simplificación algebraica de los términos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x}{x - 1}$",
+          "is_correct": true,
+          "feedback": "Correcto. ((x+1)/x) / ((x^2-1)/x^2) = (x+1)/x * x^2/((x+1)(x-1)) = x/(x-1)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{x - 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se simplificó el factor x de forma errónea durante el proceso."
+        },
+        {
+          "letter": "D",
+          "text": "$x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado obtenido de una manipulación inválida de las fracciones algebraicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificación de fracciones algebraicas complejas (fracción de fracciones).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v18",
+      "statement": "En el desarrollo de $(x + y)^5$, ¿cuál es el coeficiente del término que contiene $x^2 y^3$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el coeficiente de los términos de grado 4 y 1 mezclados."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Según el Triángulo de Pascal para n=5, los coeficientes son 1, 5, 10, 10, 5, 1."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no corresponde a la fila del binomio de grado cinco."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este coeficiente solo aplica para los términos extremos de la expansión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del Teorema del Binomio para encontrar coeficientes específicos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v19",
+      "statement": "Si $x + \\frac{1}{x} = 5$, ¿cuál es el valor de $x^2 + \\frac{1}{x^2}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplemente elevar al cuadrado ignora el término cruzado del binomio."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": true,
+          "feedback": "Correcto. (x + 1/x)^2 = x^2 + 2 + 1/x^2 = 25. Entonces x^2 + 1/x^2 = 25 - 2 = 23."
+        },
+        {
+          "letter": "C",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el término central en lugar de restarlo para despejar la suma."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al interpretar la relación entre la suma lineal y la cuadrática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de productos notables para resolver problemas de identidades condicionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle-v20",
+      "statement": "Determina el valor de la constante $k$ para que el polinomio $P(x) = x^3 - kx^2 + 4x - 4$ sea divisible por $(x - 2)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar el residuo con este valor, no se obtiene el resultado cero."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Por el Teorema del Factor, P(2) = 8 - 4k + 8 - 4 = 0. Entonces 12 = 4k, por lo que k = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la condición de nulidad del residuo en la división por x-2."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al resolver la ecuación lineal resultante para hallar la constante k."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del Teorema del Factor para determinar parámetros desconocidos en polinomios.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "PA-MAT-11-2026-W03-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import fs from "fs";
+﻿import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
 import { fileURLToPath } from "url";
@@ -281,9 +281,13 @@ for (const file of allFiles) {
       brazil: "br",
       spain: "es",
       espana: "es",
+
+      panama: "pa",
+
       "guinea-ecuatorial": "gq",
       nicaragua: "ni",
       dominican_republic: "do",
+
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
@@ -404,3 +408,4 @@ for (const outputDir of OUTPUT_DIRS) {
 }
 
 console.log("Static packs generation completed.");
+
