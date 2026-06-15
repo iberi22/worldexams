@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-26-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.798Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las tres características fundamentales que definen a un vector?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Masa, peso y volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son propiedades de la materia, no características de un vector."
+        },
+        {
+          "letter": "B",
+          "text": "Altura, base y profundidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas definen dimensiones espaciales, no necesariamente un vector."
+        },
+        {
+          "letter": "C",
+          "text": "Magnitud, dirección y sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Un vector requiere de un valor numérico (módulo), una línea de acción (dirección) y una orientación (sentido)."
+        },
+        {
+          "letter": "D",
+          "text": "Tiempo, velocidad y aceleración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Velocidad y aceleración son vectores, pero no son las características que los definen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de las magnitudes escalares (que solo tienen valor numérico), las vectoriales necesitan indicar hacia dónde se dirigen. Estas tres componentes permiten representar fenómenos como fuerzas o desplazamientos de manera completa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué nombre recibe la longitud de la flecha que representa a un vector en el plano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido se indica con la punta de la flecha."
+        },
+        {
+          "letter": "B",
+          "text": "Dirección",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección es el ángulo o inclinación de la flecha."
+        },
+        {
+          "letter": "C",
+          "text": "Módulo o Magnitud",
+          "is_correct": true,
+          "feedback": "Correcto. El tamaño físico de la representación vectorial es proporcional a su valor numérico o módulo."
+        },
+        {
+          "letter": "D",
+          "text": "Origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen es el punto de inicio del vector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El módulo representa la intensidad de la magnitud vectorial. Gráficamente, entre más larga sea la flecha, mayor es la magnitud del vector que representa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v3",
+      "statement": "Si un vector $\\vec{v}$ tiene coordenadas $(x, y)$, ¿cómo se llaman los vectores proyectados sobre los ejes cartesianos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vectores resultantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vector resultante es la suma de otros vectores."
+        },
+        {
+          "letter": "B",
+          "text": "Vectores unitarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores unitarios tienen magnitud 1 y solo indican dirección."
+        },
+        {
+          "letter": "C",
+          "text": "Componentes rectangulares",
+          "is_correct": true,
+          "feedback": "Correcto. Son las proyecciones del vector original sobre los ejes X e Y, perpendiculares entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Vectores concurrentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores concurrentes son aquellos cuyas líneas de acción se cruzan en un punto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cualquier vector en el plano puede descomponerse en dos vectores perpendiculares (uno horizontal y otro vertical). Estas proyecciones facilitan enormemente las operaciones de suma y resta analítica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v4",
+      "statement": "¿En qué consiste el \"método del polígono\" para la suma de vectores?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colocar todos los vectores saliendo desde el mismo origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el método del paralelogramo."
+        },
+        {
+          "letter": "B",
+          "text": "Colocar el origen de cada vector en la punta (flecha) del vector anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. También conocido como método de punta y cola; el resultante une el inicio del primero con el final del último."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar las magnitudes de los vectores directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores no se suman como simples números a menos que tengan la misma dirección."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar los vectores por un escalar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto cambia la magnitud, pero no es un método de suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El método del polígono es una técnica gráfica secuencial. Al encadenar los vectores uno tras otro, el vector que cierra la figura desde el punto de partida original representa la suma total o resultante.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v5",
+      "statement": "Dados los vectores $\\vec{a} = (3, -2)$ y $\\vec{b} = (1, 5)$, determine el vector resultante de la suma $\\vec{a} + \\vec{b}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar las componentes Y: -2 + 5 no es 7."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumamos componentes correspondientes: (3+1, -2+5) = (4, 3)."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, -7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una resta en lugar de una suma y falló en los signos."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, -10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó las componentes en lugar de sumarlas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma analítica de vectores se realiza componente a componente: se suman las $x$ con las $x$, y las $y$ con las $y$. Es fundamental respetar las leyes de los signos de los números enteros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v6",
+      "statement": "Si $\\vec{u} = (5, 8)$ y $\\vec{v} = (2, 3)$, ¿cuál es el resultado de la operación $\\vec{u} - \\vec{v}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(7, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó una suma en lugar de una resta."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. Restamos componentes: (5-2, 8-3) = (3, 5)."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo restó la primera componente y sumó la segunda."
+        },
+        {
+          "letter": "D",
+          "text": "$(10, 24)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó las componentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que la suma, la resta de vectores se hace componente por componente. Restar $\\vec{v}$ de $\\vec{u}$ equivale a sumar a $\\vec{u}$ el vector opuesto de $\\vec{v}$ (es decir, cambiarle los signos a $\\vec{v}$ y sumar).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v7",
+      "statement": "Dado el vector $\\vec{w} = (-4, 2)$, determine el resultado de la operación $3\\vec{w}$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-12, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicó la primera componente por el escalar."
+        },
+        {
+          "letter": "B",
+          "text": "$(-1, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el número 3 a las componentes en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$(-12, 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. El escalar 3 multiplica a cada una de las componentes: (3*-4, 3*2) = (-12, 6)."
+        },
+        {
+          "letter": "D",
+          "text": "$(12, -6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambió los signos del vector original sin motivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La multiplicación de un vector por un escalar (un número real) afecta a todas las componentes del vector. El resultado es un nuevo vector con la misma dirección pero con una magnitud proporcional al escalar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v8",
+      "statement": "Calcule el módulo (magnitud) del vector $\\vec{a} = (3, 4)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben sumar las componentes directamente para hallar el módulo."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el teorema de Pitágoras: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada final."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los cuadrados en lugar de sumarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El módulo de un vector se calcula mediante la fórmula $|\\vec{v}| = \\sqrt{x^2 + y^2}$. Esto se basa en el Teorema de Pitágoras, donde las componentes son los catetos de un triángulo rectángulo y el módulo es la hipotenusa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el ángulo de dirección $\\theta$ de un vector $\\vec{v} = (1, 1)$ en el primer cuadrante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este ángulo corresponde a un vector sobre el eje Y positivo (0, y)."
+        },
+        {
+          "letter": "B",
+          "text": "0°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este ángulo corresponde a un vector sobre el eje X positivo (x, 0)."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. tan(theta) = y/x = 1/1 = 1. El ángulo cuya tangente es 1 es 45°."
+        },
+        {
+          "letter": "D",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente de 30° es 1/sqrt(3), no coincide con las componentes dadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dirección de un vector se halla con la función arcotangente: $\\theta = \\arctan(y/x)$. Cuando las componentes $x$ e $y$ son iguales, el vector biseca perfectamente el cuadrante, formando un ángulo de 45°.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el vector unitario en la dirección del vector $\\vec{u} = (6, 8)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un vector unitario debe tener magnitud 1, y este tiene magnitud sqrt(2)."
+        },
+        {
+          "letter": "B",
+          "text": "$(0.6, 0.8)$",
+          "is_correct": true,
+          "feedback": "Correcto. Módulo de u es 10. Dividimos componentes entre módulo: (6/10, 8/10) = (0.6, 0.8)."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo simplificó el vector pero su magnitud sigue siendo mayor a 1."
+        },
+        {
+          "letter": "D",
+          "text": "$(0.5, 0.5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas no son las proporciones correctas de las componentes originales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un vector unitario se obtiene dividiendo cada componente del vector original entre su propio módulo. Este proceso se llama normalización y da como resultado un vector con magnitud exactamente igual a 1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v11",
+      "statement": "Un vector tiene una magnitud de 10 unidades y forma un ángulo de 60° con el eje X positivo. Determine su componente horizontal ($V_x$). (Considere $\\cos 60° = 0.5$, $\\sin 60° = 0.866$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.66 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la componente vertical (usando el seno)."
+        },
+        {
+          "letter": "B",
+          "text": "5 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. Vx = V * cos(theta) = 10 * cos(60°) = 10 * 0.5 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la magnitud total, no la proyección sobre el eje X."
+        },
+        {
+          "letter": "D",
+          "text": "2.5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la función trigonométrica o el valor del coseno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar las componentes de un vector a partir de su módulo y ángulo, usamos las funciones trigonométricas: $V_x = |\\vec{V}| \\cos \\theta$ para la horizontal y $V_y = |\\vec{V}| \\sin \\theta$ para la vertical.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v12",
+      "statement": "Determine el producto punto (escalar) de los vectores $\\vec{u} = (2, -3)$ y $\\vec{v} = (4, 1)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(8, -3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado del producto punto debe ser un escalar (un número), no un vector."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Producto punto = (x1*x2) + (y1*y2) = (2*4) + (-3*1) = 8 - 3 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los productos sin considerar el signo negativo del -3."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores no son perpendiculares, por lo que el producto punto no es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto escalar o producto punto se define como la suma de los productos de las componentes correspondientes. Es una operación fundamental que relaciona magnitudes vectoriales con un resultado escalar único.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes parejas de vectores son ortogonales (perpendiculares)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 2)$ y $(2, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producto punto = 1*2 + 2*1 = 4 (no es cero)."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, -2)$ y $(2, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Producto punto = 3*2 + (-2)*3 = 6 - 6 = 0."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 0)$ y $(1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producto punto = 1*1 + 0*1 = 1 (no es cero)."
+        },
+        {
+          "letter": "D",
+          "text": "$(5, 4)$ y $(-5, -4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos vectores son paralelos y opuestos, no perpendiculares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos vectores son ortogonales si y solo si su producto escalar es igual a cero. Esto significa que el ángulo entre ellos es de 90°, lo cual es una propiedad clave en estática y geometría analítica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la resta de vectores es correcta?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La resta de vectores es conmutativa ($\\vec{a} - \\vec{b} = \\vec{b} - \\vec{a}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al cambiar el orden, se obtiene el vector opuesto (mismo módulo pero sentido contrario)."
+        },
+        {
+          "letter": "B",
+          "text": "El vector $\\vec{a} - \\vec{b}$ tiene la misma magnitud que $\\vec{b} - \\vec{a}$, pero sentido opuesto.",
+          "is_correct": true,
+          "feedback": "Correcto. Los vectores resultantes apuntan en direcciones contrarias sobre la misma línea de acción."
+        },
+        {
+          "letter": "C",
+          "text": "Restar un vector es equivalente a sumar el mismo vector sin cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equivale a sumar su vector opuesto."
+        },
+        {
+          "letter": "D",
+          "text": "La resta de dos vectores siempre da como resultado un vector más pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depende de las direcciones; puede resultar en un vector más largo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resta no es conmutativa. Gráficamente, $\\vec{a} - \\vec{b}$ es el vector que va de la punta de $\\vec{b}$ a la punta de $\\vec{a}$, mientras que $\\vec{b} - \\vec{a}$ va en la dirección contraria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v15",
+      "statement": "Determine el coseno del ángulo entre los vectores $\\vec{u} = (1, 0)$ y $\\vec{v} = (1, 1)$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el coseno si los vectores fueran paralelos."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el coseno si fueran perpendiculares."
+        },
+        {
+          "letter": "C",
+          "text": "$1 / \\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. cos(theta) = (u*v) / (|u|*|v|) = (1*1 + 0*1) / (1 * sqrt(2)) = 1/sqrt(2)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del coseno nunca puede ser mayor que 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El coseno del ángulo entre dos vectores se obtiene dividiendo su producto escalar entre el producto de sus módulos. Es una aplicación directa de la definición geométrica del producto punto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v16",
+      "statement": "Si multiplicamos el vector $\\vec{v} = (2, -3)$ por el escalar $k = -2$, ¿cómo cambian las características del vector?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su magnitud se duplica y su sentido permanece igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo del escalar invierte el sentido del vector."
+        },
+        {
+          "letter": "B",
+          "text": "Su magnitud se duplica y su sentido se invierte.",
+          "is_correct": true,
+          "feedback": "Correcto. El valor absoluto de -2 duplica el tamaño, y el signo menos cambia la orientación 180°."
+        },
+        {
+          "letter": "C",
+          "text": "Su magnitud se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un escalar con valor absoluto mayor a 1 siempre aumenta la magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cambia su dirección en 90°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación por escalar no produce rotaciones de 90°, sino de 0° o 180°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un escalar $k$ afecta la magnitud según su valor absoluto $|k|$. Si $k > 0$, el sentido se mantiene; si $k < 0$, el sentido se invierte. La dirección (línea de acción) siempre se conserva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v17",
+      "statement": "Un avión vuela hacia el Norte con una velocidad de 200 km/h respecto al aire. Sopla un viento desde el Oeste hacia el Este a 50 km/h. Determine la magnitud de la velocidad resultante del avión respecto al suelo.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las magnitudes directamente, lo cual solo es válido si tienen la misma dirección."
+        },
+        {
+          "letter": "B",
+          "text": "150 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó las magnitudes, lo cual solo es válido si son opuestas."
+        },
+        {
+          "letter": "C",
+          "text": "206.15 km/h",
+          "is_correct": true,
+          "feedback": "Correcto. Los vectores son perpendiculares (Norte y Este). Magnitud = sqrt(200^2 + 50^2) = sqrt(40,000 + 2,500) = sqrt(42,500) ≈ 206.15."
+        },
+        {
+          "letter": "D",
+          "text": "212.13 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posible error en el cálculo de los cuadrados o la raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos vectores son perpendiculares, su suma se resuelve encontrando la hipotenusa del triángulo rectángulo que forman. El avión se moverá en una dirección noreste con una velocidad mayor a su velocidad propia pero menor a la suma algebraica simple.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v18",
+      "statement": "Si el producto escalar de dos vectores no nulos es igual al producto de sus módulos ($\\vec{u} \\cdot \\vec{v} = |\\vec{u}| |\\vec{v}|$), ¿qué podemos concluir sobre su relación geométrica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vectores son perpendiculares entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso el producto escalar sería cero."
+        },
+        {
+          "letter": "B",
+          "text": "Los vectores son paralelos y tienen el mismo sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. cos(theta) = 1, lo que implica que el ángulo es 0°."
+        },
+        {
+          "letter": "C",
+          "text": "Los vectores son paralelos y tienen sentidos opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso el producto sería -|u||v|."
+        },
+        {
+          "letter": "D",
+          "text": "Uno de los vectores es el vector nulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado especifica que los vectores son no nulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta igualdad solo ocurre cuando el coseno del ángulo entre ellos es 1. Esto significa que no hay desviación angular entre las direcciones y ambos apuntan hacia el mismo lado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v19",
+      "statement": "Dados tres vectores en equilibrio $\\vec{F_1} + \\vec{F_2} + \\vec{F_3} = \\vec{0}$. Si $\\vec{F_1} = (5, 0)$ y $\\vec{F_2} = (0, 12)$, ¿cuál es la magnitud del vector $\\vec{F_3}$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se obtiene mediante resta simple de componentes."
+        },
+        {
+          "letter": "B",
+          "text": "17 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se obtiene mediante suma simple de componentes."
+        },
+        {
+          "letter": "C",
+          "text": "13 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. F3 debe ser -(F1+F2) = (-5, -12). Su magnitud es sqrt((-5)^2 + (-12)^2) = sqrt(25 + 144) = sqrt(169) = 13."
+        },
+        {
+          "letter": "D",
+          "text": "15 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación del teorema de Pitágoras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que un sistema esté en equilibrio, la suma de todos los vectores debe ser el vector nulo. Por lo tanto, el tercer vector debe anular exactamente la resultante de los dos primeros. Su magnitud será igual a la magnitud de la suma de los otros dos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v20",
+      "statement": "Determine la magnitud de la suma de dos vectores $\\vec{a}$ y $\\vec{b}$ si $|\\vec{a}| = 3$, $|\\vec{b}| = 5$ y el ángulo entre ellos es de 60°. (Considere $\\cos 60° = 0.5$).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor solo se daría si el ángulo fuera 0°."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor solo se daría si el ángulo fuera 180°."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. R = sqrt(a^2 + b^2 + 2ab*cos(theta)) = sqrt(3^2 + 5^2 + 2*3*5*0.5) = sqrt(9 + 25 + 15) = sqrt(49) = 7."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{34}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó incluir el término 2ab*cos(theta) de la ley de cosenos generalizada para vectores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar vectores con un ángulo cualquiera, usamos la variante vectorial de la ley de los cosenos: $R = \\sqrt{A^2 + B^2 + 2AB \\cos \\theta}$. Esta fórmula permite resolver la suma de cualquier par de vectores conociendo sus magnitudes y el ángulo que los separa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

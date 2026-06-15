@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-39-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.804Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición de la parábola como lugar geométrico?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conjunto de puntos cuya suma de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la elipse."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunto de puntos que equidistan de un punto fijo (foco) y una recta fija (directriz).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta equidistancia define la forma parabólica."
+        },
+        {
+          "letter": "C",
+          "text": "Conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto de puntos que equidistan de un punto central fijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La parábola se define por la propiedad de equidistancia entre un punto (foco) y una recta (directriz). Cualquier punto $P$ de la parábola cumple que $d(P, F) = d(P, L)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v2",
+      "statement": "Dada la ecuación $x^2 = 8y$, ¿hacia dónde abre la parábola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando x está al cuadrado y el coeficiente de y es positivo (4p > 0), la parábola abre hacia arriba sobre el eje Y."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 8 es positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si y estuviera al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la forma $x^2 = 4py$, si $p > 0$ la parábola es vertical y abre hacia arriba. Aquí $4p = 8 \\rightarrow p = 2$, por lo tanto abre hacia arriba.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la coordenada del foco de la parábola $y^2 = 12x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 0)",
+          "is_correct": true,
+          "feedback": "Correcto. y^2 = 4px => 4p = 12 => p = 3. Como abre a la derecha, el foco está en (p, 0) = (3, 0)."
+        },
+        {
+          "letter": "C",
+          "text": "(12, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "(-3, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos $4p = 12$, por lo que $p = 3$. Como la variable al cuadrado es $y$, la parábola es horizontal. El foco se ubica en $(p, 0)$ respecto al vértice $(0,0)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes constantes define la excentricidad ($e$) de una elipse?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e = c / a$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la razón entre la distancia focal y el semieje mayor. En una elipse, siempre es menor a 1."
+        },
+        {
+          "letter": "B",
+          "text": "$e = a / c$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$e = b / a$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$e = c / b$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La excentricidad mide qué tan \"achatada\" es la elipse. Se calcula dividiendo la semidistancia focal ($c$) entre el semieje mayor ($a$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v5",
+      "statement": "Determina la ecuación de la elipse horizontal con centro en el origen, semieje mayor $a=5$ y semieje menor $b=3$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{9} + \\frac{y^2}{25} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería vertical."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{9} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Para una elipse horizontal, el denominador mayor (a^2) va bajo la x^2."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = 34$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{5} + \\frac{y^2}{3} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los denominadores deben ser los cuadrados de los semiejes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma estándar es $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ para elipses horizontales. Sustituyendo $a^2 = 25$ y $b^2 = 9$ obtenemos la ecuación correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v6",
+      "statement": "Dada la ecuación $\\frac{x^2}{16} + \\frac{y^2}{100} = 1$, ¿cuál es la longitud del eje mayor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el semieje mayor a."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. a^2 = 100 => a = 10. El eje mayor es 2a = 20."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos el denominador mayor: $a^2 = 100$, entonces $a = 10$. La longitud total del eje mayor es el doble del semieje: $2a = 20$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el vértice de la parábola $(y - 4)^2 = 8(x + 2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(4, -2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de x e y están invertidos."
+        },
+        {
+          "letter": "B",
+          "text": "(-2, 4)",
+          "is_correct": true,
+          "feedback": "Correcto. En la forma (y-k)^2 = 4p(x-h), h = -2 y k = 4."
+        },
+        {
+          "letter": "C",
+          "text": "(2, -4)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma ordinaria, el vértice es $(h, k)$. Aquí $x+2 \\rightarrow h=-2$ y $y-4 \\rightarrow k=4$. Por tanto, $V(-2, 4)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v8",
+      "statement": "Si en una elipse $a=13$ y $b=5$, ¿cuál es la distancia del centro a cada foco ($c$)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has restado a - b."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Por la relación pitagórica en la elipse: a^2 = b^2 + c^2. 169 = 25 + c^2 => c^2 = 144 => c = 12."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{194}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado los cuadrados (esto sería para una hipérbola)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la elipse se cumple la relación fundamental $a^2 = b^2 + c^2$. Despejando $c = \\sqrt{a^2 - b^2} = \\sqrt{169 - 25} = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v9",
+      "statement": "Halla la ecuación de la directriz de la parábola $x^2 = -16y$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. 4p = -16 => p = -4. Como abre hacia abajo, la directriz es horizontal y está a una distancia |p| del vértice en dirección opuesta: y = -p = 4."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos $4p = -16 \\rightarrow p = -4$. La parábola abre hacia abajo. La directriz es la recta horizontal situada a $p$ unidades del vértice en sentido opuesto al foco: $y = -(-4) = 4$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la longitud del lado recto ($LLR$) de la parábola $y^2 = 20x$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de p."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. La longitud del lado recto es igual al valor absoluto de 4p."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La longitud del lado recto es siempre $|4p|$. En la ecuación $y^2 = 20x$, el valor de $4p$ es directamente 20.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v11",
+      "statement": "Determina el centro de la elipse cuya ecuación es $\\frac{(x + 3)^2}{4} + \\frac{(y - 7)^2}{9} = 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, -7)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 7)",
+          "is_correct": true,
+          "feedback": "Correcto. En la forma (x-h)^2/b^2 + (y-k)^2/a^2 = 1, h = -3 y k = 7."
+        },
+        {
+          "letter": "C",
+          "text": "(4, 9)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "(2, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El centro de la elipse se lee directamente de los desplazamientos en los términos de $x$ e $y$: $h=-3, k=7$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v12",
+      "statement": "Calcula la excentricidad de la elipse $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.8",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "0.6",
+          "is_correct": true,
+          "feedback": "Correcto. a^2 = 25, b^2 = 16 => c^2 = 9 => c = 3. e = c / a = 3 / 5 = 0.6."
+        },
+        {
+          "letter": "C",
+          "text": "0.75",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos $c = \\sqrt{25 - 16} = 3$. Luego la excentricidad $e = c/a = 3/5 = 0.6$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la ecuación general de la parábola con vértice en $(0,0)$ y foco en $(0, 2)$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 8y = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Como el foco está en el eje Y y p=2 (positivo), la forma es x^2 = 4py => x^2 = 8y."
+        },
+        {
+          "letter": "B",
+          "text": "$y^2 - 8x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 8y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - 2y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El foco en $(0,2)$ indica que la parábola es vertical ($x^2$) y abre hacia arriba ($p=2$). $x^2 = 4(2)y \\rightarrow x^2 = 8y \\rightarrow x^2 - 8y = 0$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v14",
+      "statement": "Dada la ecuación $4x^2 + 9y^2 - 36 = 0$, ¿qué tipo de cónica representa?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circunferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes de x^2 y y^2 son diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Elipse",
+          "is_correct": true,
+          "feedback": "Correcto. Los coeficientes de x^2 y y^2 son diferentes pero del mismo signo."
+        },
+        {
+          "letter": "C",
+          "text": "Parábola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas variables están al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de los coeficientes son iguales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al dividir entre 36 obtenemos $\\frac{x^2}{9} + \\frac{y^2}{4} = 1$. Es una elipse porque los términos cuadráticos tienen distintos coeficientes pero el mismo signo (ambos positivos).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v15",
+      "statement": "Encuentra las coordenadas de los focos de la elipse $\\frac{(x-2)^2}{25} + \\frac{(y+1)^2}{9} = 1$.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, -1) y (-1, -1)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "(6, -1) y (-2, -1)",
+          "is_correct": true,
+          "feedback": "Correcto. Centro (2, -1). a^2=25, b^2=9 => c=4. Los focos están a 4 unidades del centro horizontalmente: (2+4, -1) y (2-4, -1)."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 3) y (2, -5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos serían focos para una elipse vertical."
+        },
+        {
+          "letter": "D",
+          "text": "(7, -1) y (-3, -1)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El centro es $(2, -1)$. Como $a^2=25$ está bajo $x$, la elipse es horizontal. Calculamos $c = \\sqrt{25-9} = 4$. Los focos son $(h \\pm c, k)$, resultando en $(6, -1)$ y $(-2, -1)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la longitud del lado recto ($LR$) de la elipse $\\frac{x^2}{16} + \\frac{y^2}{4} = 1$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. LR = 2b^2 / a. Aquí a=4 y b^2=4. LR = 2(4) / 4 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula $LR = \\frac{2b^2}{a}$. Con $a=4$ (raíz de 16) y $b^2=4$: $\\frac{2 \\times 4}{4} = 2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v17",
+      "statement": "Dada la ecuación $y^2 - 4y - 8x + 28 = 0$, ¿cuál es el vértice de la parábola?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 2)",
+          "is_correct": true,
+          "feedback": "Correcto. Completando cuadrados: (y^2 - 4y + 4) = 8x - 28 + 4 => (y - 2)^2 = 8x - 24 => (y - 2)^2 = 8(x - 3). Vértice (3, 2)."
+        },
+        {
+          "letter": "C",
+          "text": "(-3, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "(2, -3)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Completamos el cuadrado en $y$: $y^2 - 4y + 4 = 8x - 28 + 4$. Resulta $(y-2)^2 = 8(x-3)$. Por inspección, $h=3$ y $k=2$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v18",
+      "statement": "Una antena parabólica tiene 2 metros de ancho en su apertura y 0.5 metros de profundidad. ¿A qué distancia del fondo (vértice) se debe colocar el receptor (foco)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.25 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 m",
+          "is_correct": true,
+          "feedback": "Correcto. Si el vértice está en (0,0), el borde es (1, 0.5). Usando x^2 = 4py: 1^2 = 4p(0.5) => 1 = 2p => p = 0.5."
+        },
+        {
+          "letter": "C",
+          "text": "1 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "0.125 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelamos con $x^2 = 4py$. El punto en el borde es $(1, 0.5)$ (ya que el ancho total es 2). Sustituimos: $1^2 = 4p(0.5) \\rightarrow 1 = 2p \\rightarrow p = 0.5$. El foco está a 0.5 metros del vértice.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v19",
+      "statement": "El área de una elipse está dada por $A = \\pi \\cdot a \\cdot b$. ¿Cuál es el área de la elipse definida por $9x^2 + 25y^2 = 225$?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$225\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$15\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo entre 225: x^2/25 + y^2/9 = 1. a=5, b=3. Área = 5 * 3 * pi = 15pi."
+        },
+        {
+          "letter": "C",
+          "text": "$45\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$30\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Llevamos la ecuación a la forma ordinaria dividiendo por 225: $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$. Obtenemos $a=5$ y $b=3$. El área es $5 \\times 3 \\times \\pi = 15\\pi$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la excentricidad de una circunferencia considerada como un caso especial de elipse?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. En una circunferencia, los focos coinciden con el centro, por lo que c=0. e = c/a = 0."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor para una parábola."
+        },
+        {
+          "letter": "C",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la circunferencia $a=b$, por lo tanto $c = \\sqrt{a^2 - a^2} = 0$. Al aplicar la fórmula de excentricidad $e = c/a$, el resultado es 0.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

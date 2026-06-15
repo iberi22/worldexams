@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-6-subject-lengua",
+    "generated_at": "2026-06-15T00:00:21.769Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de un texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una leyenda fantástica sobre el sol y la luna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es narrar."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar y explicar un tema de manera clara, objetiva y organizada para que el receptor aprenda algo nuevo.",
+          "is_correct": true,
+          "feedback": "Correcto. El fin de la exposición es informar y hacer comprender un tema."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a los jueces de que su proyecto es el mejor de todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es argumentar."
+        },
+        {
+          "letter": "D",
+          "text": "Expresar la alegría que sienten los estudiantes al estar en la feria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una función expresiva o emotiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exposición busca transmitir conocimiento. A diferencia de otros textos, no busca entretener (como el cuento) ni persuadir (como el anuncio), sino informar objetivamente sobre un tema específico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué característica de los textos expositivos se observa claramente en este ejemplo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de un lenguaje objetivo y datos precisos.",
+          "is_correct": true,
+          "feedback": "Correcto. La exposición se basa en hechos comprobables y cifras reales, sin opiniones personales."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de un lenguaje poético y lleno de emociones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa figuras literarias para embellecer, sino datos para informar."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de diálogos entre diferentes personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto expositivo suele ser una voz informativa continua."
+        },
+        {
+          "letter": "D",
+          "text": "Un final abierto para que el lector imagine el resto de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exposición debe ser clara y completa en la información que ofrece."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La objetividad es la regla de oro de la exposición. El autor debe mantenerse al margen, sin decir \"yo creo\" o \"me parece\", centrándose exclusivamente en los hechos y la información verificable.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la estructura lógica que debe seguir una buena exposición?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Título, Nudo y Moraleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura es propia de la fábula."
+        },
+        {
+          "letter": "B",
+          "text": "Inicio, Conflicto y Desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura es propia de la narración."
+        },
+        {
+          "letter": "C",
+          "text": "Introducción (presentación del tema), Desarrollo (explicación detallada) y Conclusión (resumen o cierre).",
+          "is_correct": true,
+          "feedback": "Correcto. Es la estructura clásica que garantiza orden y claridad en la transmisión de ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta, Respuesta y Agradecimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede haber preguntas, no define la estructura formal de un texto expositivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura tripartita (Intro-Desarrollo-Conclusión) permite que el oyente o lector sepa qué tema se tratará, entienda los detalles y, finalmente, retenga las ideas principales a través de un resumen final.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes acciones NO ayuda a que tu exposición sea clara?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar una cartelera o diapositivas con imágenes de los cafetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El apoyo visual ayuda mucho a la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el significado de términos como \"recolección\", \"secado\" y \"tostado\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aclarar términos técnicos es fundamental en una exposición."
+        },
+        {
+          "letter": "C",
+          "text": "Leer toda la información de un papel sin mirar nunca al público.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura plana y sin contacto visual rompe la conexión y dificulta que el público entienda y se interese."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer un resumen al final de los puntos más importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen final es una excelente estrategia expositiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La exposición no es solo el texto escrito, sino también la forma en que se comunica. En una exposición oral, el dominio del tema permite hablar con seguridad, mirar al público y responder dudas, lo que garantiza el éxito del proceso informativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de orden expositivo se utiliza en el fragmento anterior?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orden de importancia (de lo más importante a lo menos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los pasos son igual de importantes para el ciclo."
+        },
+        {
+          "letter": "B",
+          "text": "Orden cronológico o secuencial (paso a paso en el tiempo).",
+          "is_correct": true,
+          "feedback": "Correcto. Usa conectores temporales (\"primero\", \"luego\", \"después\", \"finalmente\") para explicar un proceso."
+        },
+        {
+          "letter": "C",
+          "text": "Orden de comparación y contraste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está comparando el agua con otra sustancia."
+        },
+        {
+          "letter": "D",
+          "text": "Orden espacial (de arriba hacia abajo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el agua sube y baja, el foco es la secuencia de eventos en el tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchos textos expositivos, especialmente en ciencias naturales e historia, utilizan el orden secuencial. Los conectores son fundamentales para que el receptor entienda el orden lógico de un proceso o suceso.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué recurso expositivo está utilizando el estudiante al comparar el volcán con una olla a presión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una definición científica exacta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una definición científica usaría términos como magma, presión tectónica, etc."
+        },
+        {
+          "letter": "B",
+          "text": "Una analogía o comparación pedagógica.",
+          "is_correct": true,
+          "feedback": "Correcto. La analogía compara algo desconocido o complejo con algo familiar para facilitar la comprensión del público."
+        },
+        {
+          "letter": "C",
+          "text": "Un chiste para que los compañeros se rían.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención es educativa, no humorística."
+        },
+        {
+          "letter": "D",
+          "text": "Una exageración para asustar a los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca asustar, sino explicar el fenómeno de la presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las analogías son herramientas poderosas en la exposición. Permiten que temas difíciles de imaginar (como lo que pasa bajo tierra) se vuelvan comprensibles al relacionarlos con objetos cotidianos (la olla a presión).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia principal entre una exposición divulgativa y una especializada?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La divulgativa es en video y la especializada es escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pueden ser orales o escritas."
+        },
+        {
+          "letter": "B",
+          "text": "La divulgativa es para un público general y usa un lenguaje sencillo; la especializada es para expertos y usa tecnicismos.",
+          "is_correct": true,
+          "feedback": "Correcto. Un artículo de una revista científica es especializado; un folleto de salud para el barrio es divulgativo."
+        },
+        {
+          "letter": "C",
+          "text": "La divulgativa es falsa y la especializada es verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas deben ser veraces; solo cambia el nivel de complejidad del lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, todas las exposiciones son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adaptar el lenguaje al público es vital en la exposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber a quién le hablas es fundamental. Si expones para tus compañeros de sexto (divulgación), debes explicar los términos difíciles. Si un médico expone para otros médicos (especializada), asume que ya conocen los términos técnicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la infografía es un excelente formato expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene muchos colores y se ve bonita en la pared.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética ayuda, pero su valor principal es comunicativo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no necesita nada de texto para entenderse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las infografías suelen combinar breves textos con imágenes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque combina imágenes y textos cortos para presentar mucha información de forma visual y rápida de entender.",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis visual facilita que el receptor procese datos complejos de manera eficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es más barata de imprimir que un libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un factor económico, no una característica del género expositivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La exposición multimodal (que usa varios canales: imagen, texto, gráficos) es muy efectiva en la actualidad. Las infografías permiten jerarquizar la información y guiar la mirada del lector hacia lo más importante de forma inmediata.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué ocurre en este acto comunicativo con respecto a la pureza del texto expositivo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto sigue siendo puramente expositivo porque el cambio climático es ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recomendación final cambia la naturaleza del discurso."
+        },
+        {
+          "letter": "B",
+          "text": "El científico se equivocó de tema y empezó a hablar de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alimentación está ligada al clima, el problema es el tipo de mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Se produce una mezcla de géneros: inicia como exposición (informa sobre el clima) y termina como argumentación (intenta persuadir al público a cambiar un hábito).",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos reales suelen ser híbridos, mezclando la información objetiva con la opinión o persuasión."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es narrativo porque cuenta la historia de una vaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una trama narrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es común que la información (exposición) se use como base para convencer a alguien (argumentación). Sin embargo, en el ámbito académico y científico, es importante distinguir cuándo nos están dando datos y cuándo nos están pidiendo que tomemos una posición o acción.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas fuentes debería elegir si busca un texto expositivo confiable y por qué?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El blog de opinión, porque es más divertido de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los blogs de opinión suelen ser subjetivos, no expositivos objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna, porque los textos expositivos siempre son aburridos y difíciles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad no quita la utilidad y veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "La enciclopedia o el libro de historia, porque suelen estar revisados por expertos y presentan los hechos de manera objetiva sin sesgos personales.",
+          "is_correct": true,
+          "feedback": "Correcto. La confiabilidad de un texto expositivo depende del rigor de sus fuentes y la ausencia de opiniones que deformen los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "La fuente que tenga las fotos más grandes y con más colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes son apoyo, pero la calidad de la información expositiva reside en el texto y su veracidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar las fuentes es una habilidad crítica. Un buen texto expositivo cita sus fuentes, presenta datos contrastables y mantiene una distancia neutra respecto al tema, permitiendo que el lector forme su propio criterio basado en la información pura.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}

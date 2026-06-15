@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-34-grade-11-subject-matematicas",
+    "generated_at": "2026-06-15T00:00:21.802Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v1",
+      "statement": "Si una persona tiene 3 pantalones diferentes y 4 camisas distintas, ¿de cuántas maneras diferentes se puede vestir utilizando una prenda de cada tipo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado las opciones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Por el principio multiplicativo: 3 pantalones * 4 camisas = 12 combinaciones."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has usado potencias de forma errónea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio fundamental del conteo establece que si un evento ocurre de $m$ maneras y otro de $n$ maneras, ambos juntos ocurren de $m \\times n$ maneras. $3 \\times 4 = 12$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor resultante de la operación $5!$ (5 factorial)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado los números del 1 al 5."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Correcto. 5! = 5 * 4 * 3 * 2 * 1 = 120."
+        },
+        {
+          "letter": "D",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El factorial de un número $n$ es el producto de todos los enteros positivos desde 1 hasta $n$. $5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v3",
+      "statement": "En análisis combinatorio, ¿cuál es la diferencia fundamental entre una permutación y una combinación?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la combinación importa el orden, en la permutación no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente al revés."
+        },
+        {
+          "letter": "B",
+          "text": "En la permutación importa el orden de los elementos, en la combinación no.",
+          "is_correct": true,
+          "feedback": "Correcto. Permutar es ordenar; combinar es agrupar sin importar el orden."
+        },
+        {
+          "letter": "C",
+          "text": "La permutación siempre usa menos elementos que la combinación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, son sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El orden es el criterio clave: en permutaciones (como códigos o filas) el orden altera el resultado; en combinaciones (como equipos o ensaladas) el grupo es el mismo sin importar quién se mencione primero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v4",
+      "statement": "¿De cuántas maneras diferentes se pueden organizar 4 libros distintos en un estante?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. Es una permutación de 4 elementos: 4! = 4 * 3 * 2 * 1 = 24."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para ordenar $n$ objetos distintos se usa $n!$. En este caso $4! = 24$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v5",
+      "statement": "En un grupo de 10 alumnos, se desea elegir un presidente, un secretario y un tesorero. ¿De cuántas formas se pueden ocupar estos cargos si nadie puede tener más de uno?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has calculado una combinación (10C3), pero aquí el orden de los cargos importa."
+        },
+        {
+          "letter": "B",
+          "text": "720",
+          "is_correct": true,
+          "feedback": "Correcto. Es una permutación de 10 en 3: P(10,3) = 10 * 9 * 8 = 720."
+        },
+        {
+          "letter": "C",
+          "text": "1,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has permitido repetición (10^3)."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que los cargos son distintos (Presidente $\\neq$ Secretario), el orden importa. Es una permutación: $10 \\times 9 \\times 8 = 720$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v6",
+      "statement": "Una empresa en CDMX requiere formar un comité de 3 personas a partir de un grupo de 8 empleados. ¿Cuántos comités diferentes se pueden formar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Correcto. Es una combinación de 8 en 3: 8C3 = (8*7*6)/(3*2*1) = 56."
+        },
+        {
+          "letter": "B",
+          "text": "336",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has usado una permutación, pero en un comité el orden no importa."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "512",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un comité el orden de los integrantes no importa, por lo que usamos combinaciones: $C(n,k) = \\frac{n!}{k!(n-k)!}$. $C(8,3) = 56$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos números de tres cifras se pueden formar con los dígitos $\\{1, 2, 3, 4, 5\\}$ si se permite la repetición de los mismos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has calculado sin permitir repetición."
+        },
+        {
+          "letter": "B",
+          "text": "125",
+          "is_correct": true,
+          "feedback": "Correcto. 5 opciones para la primera cifra * 5 para la segunda * 5 para la tercera = 5^3 = 125."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al permitir repetición, cada una de las 3 posiciones puede ser ocupada por cualquiera de los 5 dígitos: $5 \\times 5 \\times 5 = 125$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v8",
+      "statement": "Simplifica la siguiente expresión: $\\frac{8!}{6!}$",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.33",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Correcto. 8! = 8 * 7 * 6!. Al dividir por 6!, queda 8 * 7 = 56."
+        },
+        {
+          "letter": "D",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Expandimos el factorial superior: $\\frac{8 \\times 7 \\times 6!}{6!}$. Cancelamos $6!$ y resulta $8 \\times 7 = 56$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántas palabras diferentes (tengan o no sentido) se pueden formar reordenando las letras de la palabra \"CASA\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has usado 4! sin considerar que la letra 'A' se repite."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Permutación con repetición: 4! / 2! = 24 / 2 = 12."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de permutación con repetición: $\\frac{n!}{n_1! n_2!...}$. Aquí $n=4$ y la 'A' se repite 2 veces: $\\frac{4!}{2!} = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v10",
+      "statement": "Un restaurante ofrece un paquete que incluye una entrada (de 4 opciones), un plato fuerte (de 6 opciones) y un postre (de 3 opciones). ¿Cuántas combinaciones de comidas completas existen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado en lugar de multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "72",
+          "is_correct": true,
+          "feedback": "Correcto. 4 * 6 * 3 = 72."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "144",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos el principio multiplicativo: $4 \\times 6 \\times 3 = 72$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántos números de tres cifras distintas se pueden formar con los dígitos $\\{0, 1, 2, 3, 4, 5\\}$? (Nota: Un número de tres cifras no puede empezar con cero).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la restricción del cero al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "is_correct": true,
+          "feedback": "Correcto. 1ra cifra: 5 opciones (1-5). 2da cifra: 5 opciones (el 0 más los 4 restantes). 3ra cifra: 4 opciones. 5 * 5 * 4 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la primera cifra hay 5 opciones (no el 0). En la segunda hay 5 opciones (el 0 y los no usados). En la tercera quedan 4 opciones. $5 \\times 5 \\times 4 = 100$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v12",
+      "statement": "Para ir del punto A al punto B en una cuadrícula de 3x3 calles, moviéndose solo a la derecha (D) o hacia arriba (A), ¿cuántos caminos posibles existen?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Debes moverte 3D y 3A. Total de movimientos = 6. Caminos = 6C3 = (6*5*4)/(3*2*1) = 20."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es un problema de permutación con repetición o combinación. Hay 6 pasos totales (3 derechos, 3 arriba). El número de formas es $C(6,3) = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v13",
+      "statement": "¿De cuántas maneras se pueden sentar 6 personas alrededor de una mesa circular?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es 6!, válido para una fila, no para un círculo."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Correcto. Permutación circular: (n-1)! = (6-1)! = 5! = 120."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En permutaciones circulares, se fija un elemento para evitar contar rotaciones como casos distintos. La fórmula es $(n-1)!$. Aquí $5! = 120$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v14",
+      "statement": "Un estudiante debe responder 7 de 10 preguntas en un examen. Si las primeras 3 preguntas son obligatorias, ¿de cuántas maneras puede elegir las preguntas restantes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has calculado 10C7."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. Ya usó 3 obligatorias, le falta elegir 4 de las 7 restantes. 7C4 = 35."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Restamos las obligatorias del total y de la meta: debe elegir $7-3=4$ preguntas de un total disponible de $10-3=7$. $C(7,4) = 35$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v15",
+      "statement": "¿De cuántas formas se pueden organizar 5 personas en una fila si dos de ellas (Ana y Beto) deben estar siempre juntas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "48",
+          "is_correct": true,
+          "feedback": "Correcto. Consideramos a Ana y Beto como un solo bloque. Tenemos 4 elementos (el bloque + 3 personas). 4! = 24. El bloque se puede ordenar de 2! formas. 24 * 2 = 48."
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es 5! sin restricciones."
+        },
+        {
+          "letter": "D",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tratamos a las dos personas juntas como una unidad. Ordenamos 4 unidades ($4! = 24$) y multiplicamos por el orden interno de la pareja ($2! = 2$). $24 \\times 2 = 48$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v16",
+      "statement": "¿Cuántos subconjuntos de 2 o más elementos se pueden formar a partir de un conjunto de 4 elementos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el total de subconjuntos (2^4)."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. Total subconjuntos = $2^4 = 16$. Restamos el vacío (1) y los de 1 elemento (4). $16 - 1 - 4 = 11$."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo has contado los de exactamente 2 elementos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El total de subconjuntos de un conjunto de $n$ elementos es $2^n$. Aquí $2^4 = 16$. Restamos el conjunto vacío (1) y los 4 subconjuntos de un solo elemento. $16 - 5 = 11$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v17",
+      "statement": "¿De cuántas maneras se pueden repartir 6 juguetes diferentes entre 3 niños de modo que cada uno reciba exactamente 2 juguetes?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "90",
+          "is_correct": true,
+          "feedback": "Correcto. Para el primer niño: 6C2 = 15. Para el segundo: 4C2 = 6. Para el tercero: 2C2 = 1. Total = 15 * 6 * 1 = 90."
+        },
+        {
+          "letter": "C",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una selección sucesiva: $C(6,2)$ para el primer niño, $C(4,2)$ para el segundo y $C(2,2)$ para el tercero. Multiplicamos: $15 \\times 6 \\times 1 = 90$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v18",
+      "statement": "En una reunión en Guadalajara, todos los asistentes se saludan con un apretón de manos. Si se contabilizaron 66 apretones de manos en total, ¿cuántas personas asistieron a la reunión?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. 11C2 = 55."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. nC2 = 66 => n(n-1)/2 = 66 => n^2 - n - 132 = 0. Resolviendo (n-12)(n+11)=0 => n=12."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. 13C2 = 78."
+        },
+        {
+          "letter": "D",
+          "text": "33",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un apretón involucra a 2 personas y el orden no importa ($nC2$). Resolvemos $\\frac{n(n-1)}{2} = 66$, lo que nos da $n=12$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v19",
+      "statement": "¿Cuántas palabras de 5 letras se pueden formar con las letras $\\{A, B, C, D, E\\}$ si no se permite la repetición y la palabra debe empezar con una vocal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el total si la primera letra fuera una específica."
+        },
+        {
+          "letter": "B",
+          "text": "48",
+          "is_correct": true,
+          "feedback": "Correcto. Primera letra: 2 opciones (A, E). Resto de la palabra: 4! = 24. Total = 2 * 24 = 48."
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es 5! sin restricciones."
+        },
+        {
+          "letter": "D",
+          "text": "72",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fijamos la primera posición con una de las 2 vocales disponibles. Las 4 posiciones restantes se llenan con las 4 letras sobrantes en $4!$ formas. $2 \\times 24 = 48$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    },
+    {
+      "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v20",
+      "statement": "De un grupo de 5 hombres y 4 mujeres, se eligen 3 personas para un proyecto. ¿De cuántas maneras se puede elegir el grupo si debe haber al menos una mujer?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el total de combinaciones sin restricciones (9C3)."
+        },
+        {
+          "letter": "B",
+          "text": "74",
+          "is_correct": true,
+          "feedback": "Correcto. Total (9C3) - Grupos de solo hombres (5C3) = 84 - 10 = 74."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "56",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es más sencillo calcular el total de grupos posibles ($9C3 = 84$) y restar aquellos donde no hay ninguna mujer ($5C3 = 10$). El resultado es 74.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bundle_id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null
+    }
+  ]
+}
